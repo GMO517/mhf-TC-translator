@@ -1,6 +1,7 @@
 # MHF 繁中翻譯（私服客戶端）
 
-Monster Hunter Frontier 用戶端文字繁中化工程。遊戲本體不上庫。
+Monster Hunter Frontier 用戶端文字繁中化工程。遊戲本體不上庫。  
+預設分支：`main`。
 
 ## 目錄
 

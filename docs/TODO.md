@@ -16,8 +16,10 @@
 
 - [x] 調整倉庫目錄：`l10n/`（取出物）+ `client/`（本體父層）+ `client/MHFCT4.1/`（本體）
 - [x] 撰寫 `.gitignore`（本體不上 GitHub）
-- [ ] 備份 `client/MHFCT4.1/dat` 與關鍵 exe/dll 到 `_backup/`
-- [ ] 安裝 FrontierTextHandler（必要時 ReFrontier）到 `tools/`
+- [x] 倉庫預設分支改為 `main`（內容承接原 `1225f4e`；舊 `master` 廢棄）
+- [x] 本機備份 `_backup/20261004-070421/`（exe/dll + 文字主 bin + dat 頂層）
+- [x] 安裝 Python 3.12 + FrontierTextHandler 於 `tools/`（已驗證 `mhfsqd.bin`）
+- [ ] （可選）安裝 ReFrontier
 - [ ] 確認 game-version／fingerprint 與 CT4.1 相符
 - [ ] **未改動 round-trip**：抽出 → 原樣回寫壓縮加密 → smoke（不過關不進翻譯）
 
@@ -37,7 +39,7 @@
 ## Phase 2 — 風格與詞語庫
 
 - [x] 風格規範初稿 `docs/STYLE.md`
-- [ ] 建立 `l10n/glossary/terms.csv` 骨架與 P0 類別
+- [x] 建立 `l10n/glossary/terms.csv` 骨架與 P0 類別
 - [ ] 填入 P0 專有名詞（含荒野對照／Frontier 專有／可顯示狀態）
 - [ ] **使用者審核詞語庫**（未核准不進大批翻譯）
 
