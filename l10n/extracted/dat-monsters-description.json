@@ -1,0 +1,721 @@
+{
+  "metadata": {
+    "source_file": "mhfdat.bin",
+    "version": "1.9.0",
+    "format_version": "1.6",
+    "xpath": "dat/monsters/description",
+    "fingerprint": "031561127e1f05cc"
+  },
+  "strings": [
+    {
+      "index": 0,
+      "source": "Bipedal creatures resembling cats \nwith white fur. Though normally \ndocile, they will attack viciously \nprovoked. \nNaturally curious, they often enter \nsociety and co-exist with\nhumans and wyvernians.\nThey are naturally attracted to\nFelvine and follow it anywhere.",
+      "target": ""
+    },
+    {
+      "index": 1,
+      "source": "Bipedal creatures resembling cats \nwith black fur. More aggressive than\nFelynes and possessed by kleptomania, \nMelynxes will steal any items they \ncan and bring them back to their \ndens. If you can find their dens \nhowever, you may be able to recover \nyour items. Like Felynes, they are\nobssessed with Felvine.",
+      "target": ""
+    },
+    {
+      "index": 2,
+      "source": "Bipedal creatures native to the\nFlower Field. Though uncommon, \nresearch suggests that they are quite\npeaceful, unless attacked by a \nlarge monster. In such a situation,\nthey've been observed working together\nto defeat said monster. The Guild\nhas received reports that Uruki will\nseemingly assist hunters as well.",
+      "target": ""
+    },
+    {
+      "index": 3,
+      "source": "Small, humanoid Lynians known for\nalways wearing masks.\nMasters of camouflage, by the\ntime you spot them its\nusually too late! Both \naggressive and highly social they\n are lead by a King Shakalaka\n identified by a larger mask.",
+      "target": ""
+    },
+    {
+      "index": 4,
+      "source": "An enormous, wasp-like \nNeopeteron with a paralytic sting.\nEasily damaged, there are rarely\nany usable materials left after\ndispatching one. It has been\nreported however that using poison\non them yields better results.",
+      "target": ""
+    },
+    {
+      "index": 5,
+      "source": "A large Neopeteron related to\nVespoids. They primarily dwell on\nthe ground of damp and dark places.\nHowever, like their cousins, they\nare easily destroyed by most\nweapons. It is reported that\nthey are extremely susceptible\nto poisons.",
+      "target": ""
+    },
+    {
+      "index": 6,
+      "source": "Abnormaly large Thunderbugs\nraised inside of certain\nElder Dragons. Often\nfound in the same areas\nas thier former hosts\ntheir electric attacks are\ndeadly. Despite this, they\nhave many uses in crafting.",
+      "target": ""
+    },
+    {
+      "index": 7,
+      "source": "Small and docile Herbivores\nthier horns are famously\nused in a variety of medicines. \nThe best way to harvest\nsaid horns is with a blunt\nweapon. During the evening\nor inclement weather, they\nwill retreat into caves.",
+      "target": ""
+    },
+    {
+      "index": 8,
+      "source": "Wild pigs covered in Moss\nand various fungus.\nOccasionally, whole mushrooms can\nbe found on them as well.\nTheir meat is also a \nfamous delicacy. Normally\ndocile towards hunters\nthey will charge if provoked!",
+      "target": ""
+    },
+    {
+      "index": 9,
+      "source": "Herbivores that dwell in\ncold climates. Generally docile,\nthey will charge if threatened. \n Their pelts are highly prized\nby the Guild as are \ntheir antlers. They can be\nlocated in snowy areas\nregardless of the season.",
+      "target": ""
+    },
+    {
+      "index": 10,
+      "source": "Herd-forming herbivores \ncovered in thick fur to \nendure the cold. Popo are\nnormally quite gentle, but\nwill use their massive\ntusks to defend their young.\nTheir tongues are a delicacy.",
+      "target": ""
+    },
+    {
+      "index": 11,
+      "source": "Docile Herbivores characterized by\ntheir large crests. They live in herds\nand raise their young communally,\nand are popular pack animals.\nVery adaptable, they are also raised\nfor their nutritious meat. They\nare wary of Large Monsters.",
+      "target": ""
+    },
+    {
+      "index": 12,
+      "source": "Desert-dwelling Herbivores \ncovered in armor-like hide.\nThough edible, obtaining meat from \nthem is difficult due\nto their territorial nature. \nThey are especially violent\ntowards any hunter who\nwould steal their eggs.",
+      "target": ""
+    },
+    {
+      "index": 13,
+      "source": "Peaceful Herbivores with shaggy\ncoats of fur. They are\nfound in herds roaming the\nHighlands. Normally docile\nthey will attack as a\ngroup if threatened. It is\nreported that they are\noften shepherded by a Gurenzeburu.",
+      "target": ""
+    },
+    {
+      "index": 14,
+      "source": "Small Herbivores native to\nthe Highlands. They are\nquite peaceful and curious\ntowards hunters. Their\nhooves are uniquely adapted\nto live in steep, rocky\nenviroments. During harsh\nweather, or if threatened\nthey will quickly flee to safety.",
+      "target": ""
+    },
+    {
+      "index": 15,
+      "source": "Pack-dwelling Bird-Wyverns\nknown for their aggression.\nThey are regarded by\nmost hunters as a nuisance.\nThey are found in most temperate\nenviroments during warmer seasons.",
+      "target": ""
+    },
+    {
+      "index": 16,
+      "source": "The alpha leaders of\nVelociprey packs. Larger than\ntheir kin, and marked by\nmore prominent crests\nVelocidrome use their powerful\nlegs and sharp claws to\nslash and leap at prey.\nThey are common during warm seasons.",
+      "target": ""
+    },
+    {
+      "index": 17,
+      "source": "Close relatives of Velociprey\nlike their cousins they\ndwell in packs, but can\neasily be differentiated by\ntheir yellow and green hides.\nFound in arid places, Genprey \nuse their fangs to administer\na potent neurotoxin.",
+      "target": ""
+    },
+    {
+      "index": 18,
+      "source": "The Alpha leaders of \nGenprey packs, identified\nby their larger crests.\nFound in arid places\ntheir venom glands house \nespecially potent neurotoxins.",
+      "target": ""
+    },
+    {
+      "index": 19,
+      "source": "Vivid-red Bird Wyverns\nfound in sub-tropical areas.\nSpecialized organs in their\nthroats produce a potent\ntoxin, which they spit\nat their prey.",
+      "target": ""
+    },
+    {
+      "index": 20,
+      "source": "The Alpha-leaders of\nIoprey Packs. Larger than\ntheir brethren, they can\nalso be identified by\ntheir more prominent crest.\nThey are extremely venomous.",
+      "target": ""
+    },
+    {
+      "index": 21,
+      "source": "A pale white species\nof Bird Wyvern\nEndemic to cold areas\nTheir white scales help\nthem blend into their\nenviroment. They are known\nto spit icy fluids at hunters.",
+      "target": ""
+    },
+    {
+      "index": 22,
+      "source": "A Bird Wyvern with a\nLarge beak and larger ears.\n Common in warm, humid\nareas, they have extremely\nsensitive hearing and as\na result, can be stunned by\nloud noises. When enraged\nthey will use fire based attacks.",
+      "target": ""
+    },
+    {
+      "index": 23,
+      "source": "A smaller and more\naggressive Subspecies of\nYian Kut-Ku. Like their\ncousins, they enjoy warm\nhumid areas, like the Jungle.\nWhile they are just as\nsusceptible to loud noises as \ntheir pink brethren, they\n are faster and more vicious.",
+      "target": ""
+    },
+    {
+      "index": 24,
+      "source": "A close relative of\nthe Yian Kut-Ku\nknown for their hard\nblack shells and white, tufted\nmanes.Far deadlier than\ntheir cousins, in addition to fire\nbased attacks, they wield\na potent venom in their\ntails, and resistance to sonic bombs.",
+      "target": ""
+    },
+    {
+      "index": 25,
+      "source": "Odd Wyverns capable of\ndisorientating hunters by\nemitting a bright flash\nfrom their crest. Their\nrubbery skin resists impacts\nand shock traps. Though\ntimid, their saliva hides\na vicious toxin. They prefer\nwarm and marshy habitats.",
+      "target": ""
+    },
+    {
+      "index": 26,
+      "source": "A variant of Gypceros\nwith a striking purple hide.\nThey are more aggressive\nthan normal Gypceros and\nare virtually immune to\nmost poisons. Like their\nkin, they will attempt to\nsteal hunter's items and\ncan secrete a horrific venom.",
+      "target": ""
+    },
+    {
+      "index": 27,
+      "source": "A rust-coloured bird Wyvern\nwith magnificent tail feathers.\nNative to temperate, forested\nareas, they are normally\nquite passive. If threatened\nthey can emit a sleep-\n-inducing gas and kick\nhunters viciously with their\npowerful legs.",
+      "target": ""
+    },
+    {
+      "index": 28,
+      "source": "During the breeding season\ncertain Hypnocs will\ndevelop brighter plumage for\ncourtship displays. They also\nbecome extremely territorial\nand will viciously attack anything\nentering their territory.",
+      "target": ""
+    },
+    {
+      "index": 29,
+      "source": "An extremely rare Hypnoc\nvarient covered in silver\nand white plumage.\nLimited research conducted by\n the Guild has confirmed\nthese rare Wyverns behave\ndifferently compared to their\nkin, but more data is needed.",
+      "target": ""
+    },
+    {
+      "index": 30,
+      "source": "Closely related to Hypnocs\nthese Wyverns possess\nextremely bright plumage, not\nto warn predators, but\nto attract potential mates.\nNaturally being highly visible \nto potential threats, these\nWyverns are quite capable\nof defending themselves and \nare not to be taken lightly.",
+      "target": ""
+    },
+    {
+      "index": 31,
+      "source": "Majestic Bird Wyverns native\nto the Flower Field.\nThey possess a highly evolved\nbeak, which allows them to\nfeed from the various\nflowers in their habitat.\nAttention should be paid \nto the color of their wings\nand tail feathers.",
+      "target": ""
+    },
+    {
+      "index": 32,
+      "source": "Powerful Bird Wyverns found\nin the Highlands, they \nare violently territorial and\nwill attack any intruder\nwith impunity. Possessing\nunique feathers and scales\nthey can gather sunlight\nand convert it into \ndeadly electrical attacks.",
+      "target": ""
+    },
+    {
+      "index": 33,
+      "source": "Flying, serpentine Wyverns\nthat attack with poisonous\nsaliva. Though found in a\nwide variety of enviroments\n, such as deserts and \nvolcanos, they often accompany \nElder Dragons and are seen\nas omens of destruction.",
+      "target": ""
+    },
+    {
+      "index": 34,
+      "source": "Flying Wyverns widely known\nas \"Queens of the Land.\"\nWith powerful legs and\nvenomous tails, they are\npowerful predators and are\nespecially dangerous during the breeding\nseason. Legend holds there\nexists a rare golden varient.",
+      "target": ""
+    },
+    {
+      "index": 35,
+      "source": "A Sub-Species of Rathian\nwith striking pink scales.\nPink Rathian are far\nmore adept at aerial\ncombat than thier green\ncousins and will incorporate\ntheir venomous tails into\nmore attacks. They are \nextremely aggressive.",
+      "target": ""
+    },
+    {
+      "index": 36,
+      "source": "A legendary and rare \nvariant of Rathian with\nglittering, golden scales. Often\nreferred to as the \n\"Golden Moon\", little is\nknown of this Wyvern's\necology, save for it's\nability to dispatch unwary\n hunters with ease.",
+      "target": ""
+    },
+    {
+      "index": 37,
+      "source": "Terrible Wyvern's also known\nas the \"Kings of the Sky\".\nTogether with Rathian, they \nclaim large and diverse\nterritories. Rathalos descend\nupon prey and foe alike\nfrom high altitudes, striking\nwith poison talons and fire.",
+      "target": ""
+    },
+    {
+      "index": 38,
+      "source": "An blue coloured \nSub-Species of Rathalos.\nMuch faster and more\naggressive than a normal\nRathalos, they are also\nnoticable stronger and will\nattack with unmatched ferocity.\nThe Guild urges great\ncaution when hunting one.",
+      "target": ""
+    },
+    {
+      "index": 39,
+      "source": "A legendary and rare\nvariant of Rathalos with\nshining, silver scales. Often\nreferred to as the\n\"Silver Sun\", little is\nknown of their ecology, including\nthe nature of their\nappearence. Their deadliness\nhowever, is well documented.",
+      "target": ""
+    },
+    {
+      "index": 40,
+      "source": "Horrifying Wyverns Found in\ncold regions during the\nBreeding season and more\ntemperate areas during the\nCold Season. Nearly blind\nthey rely on scent to\nhunt prey, which they\nparalyze with electric attacks.",
+      "target": ""
+    },
+    {
+      "index": 41,
+      "source": "A Khezu variant with a\nghastly red hide.\nMuch more aggressive than\nnormal Khezu, their electrical\norgans are also more\ndeveloped and can deliver\ndeadly shocks to careless\nhunters.",
+      "target": ""
+    },
+    {
+      "index": 42,
+      "source": "Juvenile Gravios famous for\ntheir rock-like carapaces.\nOften mistaken for large\nrocks when sleeping, their\nshells are weak to\nexplosives. They are also\nable to emit poisonous gas\nand are dormant during Cold Seasons",
+      "target": ""
+    },
+    {
+      "index": 43,
+      "source": "Large Wyverns with a rock\nhard carapace and the\nability to emit powerful\nheat beams. They are\nfound in volcanic and marshy\nareas where they feed\n on various minerals for\n nutrients. They gather\nen masse during the Breeding Season.",
+      "target": ""
+    },
+    {
+      "index": 44,
+      "source": "Gravios who generate an\nabnormal amount of heat\ncausing their shells to turn\nblack. As a result they\ncan unleash even more\npowerful attacks, though they\nmust constantly vent \n excess heat as a result.",
+      "target": ""
+    },
+    {
+      "index": 45,
+      "source": "A large, desert-dwelling\nWyvern with a single\nmassive horn. Although they\nlack any form of\nbreath attack, they can\nshierk loud enough to shatter\n eardrums. Despite their appearence\n they are actually herbivorous.",
+      "target": ""
+    },
+    {
+      "index": 46,
+      "source": "A Sub-Species of Monoblos\nwith chalk-white scales.\nHighly territorial, they will\ncharge at any intruder\nwithout hesitation.\nThey are capable of\nrunning at a great speed\n and are quite powerful.",
+      "target": ""
+    },
+    {
+      "index": 47,
+      "source": "Large Wyverns with a pair\nof massive horns. Though\nthey feed exclusively on\ndesert cacti, they are\nviolently territorial and are\ncapable of burrowing through\nsand, as well as charging\nat high speed.\nApproach with caution.",
+      "target": ""
+    },
+    {
+      "index": 48,
+      "source": "These black-shelled Diablos\nare not actually a true\nSub-Species, but rather are\nfemale Diablos in heat.\nTheir shells turn black\nto warn other creatures\nas they become incredibly\nviolent and territorial, even\nfor a Diablos.",
+      "target": ""
+    },
+    {
+      "index": 49,
+      "source": "A primitive looking Wyvern\nfound in such disperate\nlocations as the Desert\nand the Snowy Mountains.\nWhile their wings don't\nallow for great aerial\nagility, their powerful jaws \nand legs allow them to\neasily overpower prey.",
+      "target": ""
+    },
+    {
+      "index": 50,
+      "source": "Large, passive Wyverns who\nsleep for large portions of \nthe day. Their scales\nare covered in numerous\npoison-laced spikes leading\nto the nickname of\n\"Thorn Wyvern\"\nOnce angered, Espinas can \nbecome incredibly violent.\n",
+      "target": ""
+    },
+    {
+      "index": 51,
+      "source": "Orange-coloured Espinas\nvariants which prefer to\nlive in more arid areas\ncompared to their green kin.\nWhile just as passive as\nnormal Espinas, they possess\nacidic saliva that can\nrapidly corrode armour.",
+      "target": ""
+    },
+    {
+      "index": 52,
+      "source": "Extremely rare Espinas which\npossess snow white scales\nand violet thorns. They\nare far more aggressive than\nregular Espinas and will\nfly into a rage if awakened \nfrom sleep. They can\nproduce enormous toxic\nfireballs while attacking.",
+      "target": ""
+    },
+    {
+      "index": 53,
+      "source": "A massive,yet mysterious\nWyvern studded with jagged\nspikes. It is an apex\npredator, rivaling some Elder\nDragons in strength. Some\ncultures refer to this\ncreature as the \"Black God\"\nhowever its official\nGuild name is Akantor.",
+      "target": ""
+    },
+    {
+      "index": 54,
+      "source": "Magnificent Wyverns adept at\ncreating and utilizing electricity.\nRarely found outside of\nremote canyons, research on\ntheir biology is lacking\nhowever it has been\nclaimed that if sufficiently\ninjured, they may lose\ncontrol of their electrical organs.",
+      "target": ""
+    },
+    {
+      "index": 55,
+      "source": "Deadly Wyverns adept at\ncreating and utilizing the\nDragon Element. Native to\ncold and mountainous areas\nthese beasts are as\nadept with ground combat\nas they are aerial.\nTheir Dragon Element attacks\ncan also paralyze hunters.",
+      "target": ""
+    },
+    {
+      "index": 56,
+      "source": "Foul Wyverns with a\nceaseless appetite. They will\ndevour any form of meat\nthey find. Hunters may\nutilize this by placing\nmeat of certain types near\nthese beasts, causing them\nto over eat and vomit\nrare materials they've eaten.",
+      "target": ""
+    },
+    {
+      "index": 57,
+      "source": "Enigmatic creatures only found\nnear ancient ruins. Little\nhas been documented of\ntheir ecology, but reports\nclaim they are able to\ncloak themselves in an armour\nof frost when engraged.\nIt is also said to\ndespise loud noises.",
+      "target": ""
+    },
+    {
+      "index": 58,
+      "source": "Also known as \"Barbarian\nWyverns\", these large, horned\ncreatures are famously brutal.\nInterestingly though, reports\nindicate they guide and \nprotect herds of Burukku in\ntheir native range, defending\nthem from any \n potential threat.",
+      "target": ""
+    },
+    {
+      "index": 59,
+      "source": "Hulking relatives of Akantor\nfound in desert regions,\ntheir shells are often\nmistaken for mountains. Voracious\npredators, that will consume \nany smaller creature within reach\nlittle else is known\nof their biology.",
+      "target": ""
+    },
+    {
+      "index": 60,
+      "source": "Cunning predators that utilize\ntheir many spines as\nprojectiles to wound and\ntrap prey.\nCapable of secreting a variety\nof neurotoxins from their \nskin, their oily fur \nis extremely vulnerable to\n fire based attacks.",
+      "target": ""
+    },
+    {
+      "index": 61,
+      "source": "Flying Wyverns adapted to\nlife in cold, marine\nenviroments.\nThey utilize their strange\nbarbed snouts and body\nspikes for traversal\n as well as offense.\n They are also able to\nexpel a freezing substance.",
+      "target": ""
+    },
+    {
+      "index": 62,
+      "source": "A Wyvern seemingly related\nto Rathalos, but with shining\nwhite scales and flickering blue\nflames. While painfully rare\nancient texts from various\ncultures describe them as\neverything from divine\nmessengers, to unholy envoys\nof death and suffering.",
+      "target": ""
+    },
+    {
+      "index": 63,
+      "source": "Previously known only from\nfossils and believed to be\nextinct until living specimens\nwere sighted by the Guild.\nThese black and gold\nWyverns are seemingly blind\nand navigate their underground\nterritories through sound.",
+      "target": ""
+    },
+    {
+      "index": 64,
+      "source": "Despite appearences, these \nWyverns are not actually\nblue, but rather use\nmagnetic organs to attach\nores to themselves as\narmour. Like their cousin\nthe Tigrex they are brutally\naggressive predators.",
+      "target": ""
+    },
+    {
+      "index": 65,
+      "source": "An enormous Wyvern only\nrecently discovered by the \nGuild. It was discovered\nafter reports from the\nHighlands of strange sounds \ndriving hunters to madness.\nThese voracious beasts can\nemit sounds with odd\nproperties from various organs.",
+      "target": ""
+    },
+    {
+      "index": 66,
+      "source": "Only recently being discovered\nfollowing an attack on\nGuild researchers, little is\nknown of this Wyvern's\nbiology. It has however been\nhypothesized that its flames\nare the result of\nit consuming a unique\ntype of thermophilic cactus.",
+      "target": ""
+    },
+    {
+      "index": 67,
+      "source": "A newly discovered Wyvern\nthat is speculated to be\na more primitive cousin\nof Gravios. They possess\nnumerous tube-like structures\nfrom which they can\neject water at deadly speeds.\nResearch on these\ncreatures is ongoing.",
+      "target": ""
+    },
+    {
+      "index": 68,
+      "source": "Agile Wyverns that inhabit\npolar enviroments. They utilize\nthe various spikes lining\ntheir wings and tail for\neasy traversal of icy\nsurfaces. They are skilled\npredators and will dispatch\ntrapped prey with their\nlarge amber tusks.",
+      "target": ""
+    },
+    {
+      "index": 69,
+      "source": "Flying Wyverns that have\nevolved to live in densely\nwooded areas. These sly\nbeasts stalk their prey from\nthe shadows with ferocious\nspeed. Their massive tails\nare extremely deadly and\ncan kill small monsters\nwith a single strike.",
+      "target": ""
+    },
+    {
+      "index": 70,
+      "source": "Wyverns native to the\nPainted Waterfalls, they are\ncharacterized by their sharp\nblack scales and long\nwhip-like wing appendages.\nIn addition to water based\nattacks, their claws are\ncapable of cutting stone. Parts\nof their bodies turn\nred enraged.",
+      "target": ""
+    },
+    {
+      "index": 71,
+      "source": "Invasive Wyverns native to\ndistant lands, they are \nmarked by lustrus, golden\nscales as sharp as blades.\nThey are extremely agile\nand can launch their razor\nsharp scales at prey\nbefore shredding it with \ntheir talons.",
+      "target": ""
+    },
+    {
+      "index": 72,
+      "source": "Strange Wyverns found near\nareas with fast moving \nwater. While rather sluggish\nthey utilize explosive mist\ngenerated from specialized\norgans to kill potential\nprey. Despite their lack\nof agility, they are\nstubborn, vicious predators.",
+      "target": ""
+    },
+    {
+      "index": 73,
+      "source": "Piscine Wyverns related to\nPlesioth, but adapted to\n\"swim\" through sand instead\nof water. They locate\nprey through sound, and\nare sensitive to Sonic\nBombs as a result.",
+      "target": ""
+    },
+    {
+      "index": 74,
+      "source": "The alpha leader of \nCephalos Packs. Much larger\nthan their kin and\nwith darker scales, these\nbeasts possess enhanced paralytic\nsaliva.",
+      "target": ""
+    },
+    {
+      "index": 75,
+      "source": "Huge Piscine Wyverns famous\nfor their great strength.\nLike most Piscine Wyverns\ntheir wings have evolved\ninto powerful fins. Despite\nappearences, Plesioth are\nas deadly on land as\nthey are in water.",
+      "target": ""
+    },
+    {
+      "index": 76,
+      "source": "A Plesioth Sub-Species\nwith deep Jad-green\nscales. While physically similiar\nto standard Plesioth, these\nindividuals are much more\naggressive and are much\nmore accurate with their\nwater beam attacks.",
+      "target": ""
+    },
+    {
+      "index": 77,
+      "source": "Volganos are thermophilic Wyverns\nthat utilize hardened magma\nas a sort of armour.\nThese beasts spend much\nof their time immersed\nin molten rock, making\nthem a favourite research\ntarget for scholars.",
+      "target": ""
+    },
+    {
+      "index": 78,
+      "source": "A Volganos Sub-Species\nwhich has melted rare\nores into its molten\narmor, causing it to\nremain red even when\ncooled. A more developed\nlava-storage organ\nallows them to utilize\n additional attacks.",
+      "target": ""
+    },
+    {
+      "index": 79,
+      "source": "A small Carapaceon with a\nvery hard shell. They\nare common in tropical\nand desert areas during\nwarmer months where they\n will often ambush prey \nfrom undrground. Their brains\n are a prized delicacy.",
+      "target": ""
+    },
+    {
+      "index": 80,
+      "source": "A large carapaceon with \na big monster's skull\non it's back. Found\nin warm, sandy areas, they\nattack prey with bubble\nbreath and their\nmassive, rock-hard pincers.\nThey will also use\ntheir pincers for defense.",
+      "target": ""
+    },
+    {
+      "index": 81,
+      "source": "An adolescent Carapaceon with\nan organic shell firmly placed\non it's back. Once grown\ntheir original shell falls\noff and is rplaced by a\nlarge monster's skull.\nCommon in volcanic areas.",
+      "target": ""
+    },
+    {
+      "index": 82,
+      "source": "A large Carapaceon with a\ngiant monster's skull on its\nback. Its long, sharp pincers \nallow it to pierce stone and \neven travel along rock\nceilings. They are native to\nmarshy and volcanic areas and\noccasionally they develop a\nprecious, rare pearl.",
+      "target": ""
+    },
+    {
+      "index": 83,
+      "source": "A giant Carapaceon with an\nan equally giant monster's skull\non it's back. Prone to roaming \nand with a nearly\nimpenetrable shell, nearby forts and\ntowns must be alerted\nto its movements or\npotentially face total\nannihilation.",
+      "target": ""
+    },
+    {
+      "index": 84,
+      "source": "A large Carapaceon with a \ncrystal-adorned black shell.\nThese beasts possess unique\nblood, which changes colour\nin response to their mood.\nHighly aggressive and opportunistic\npredators, they attack with a\nunique crystallizing body fluid.",
+      "target": ""
+    },
+    {
+      "index": 85,
+      "source": "Closely related to Akura\nVashimu, these Carapaceons use\ntheir crystal-covered tails\nto lure curious prey into\nstriking distance. Research indicates\nthat if their tails are\ninjured, they will use\ntheir crystalizing fluid to\npatch the wound.",
+      "target": ""
+    },
+    {
+      "index": 86,
+      "source": "Strange cave dwelling creatures\nthat cover their carapaces\nwith rocks and fungi for\ncamoflauge. Leveraging their unique\nclaws, these Carapaceons can both\nslash and crush foes\nwith ease. Hunt with\ncaution.",
+      "target": ""
+    },
+    {
+      "index": 87,
+      "source": "Small Carapaceons native to\nthe White Lake, they\nnormally remain buried beneath\nthe sand, only rising when\nthey detect potential prey.\nTheir tails possess a well\ndeveloped venom gland, allowing \nthem to easily dispatch prey.",
+      "target": ""
+    },
+    {
+      "index": 88,
+      "source": "Foul-tempered wild boars\nthat charge toward hunters \nthe moment they spot them. \nFertile and with a huge\nrange, they often form \nlarge herds. Their meat\nis beloved by hunters.",
+      "target": ""
+    },
+    {
+      "index": 89,
+      "source": "The imposing leaders of\nBullfango herds, they are\nfar more aggressive than\nnormal Bullfango and are\nbetter at tracking their targets.\nnormally found in warm \nregions, they will migrate\nto the Snowy Mountains\nduring warmer months.",
+      "target": ""
+    },
+    {
+      "index": 90,
+      "source": "Ape-like fanged beasts\nwith pink fur. Conga\nrarely gather in large\ngroups, preferring to remain \nin small troups. Particularly \nfond of mushrooms, they can\nbe found in warm\nhumid areas.",
+      "target": ""
+    },
+    {
+      "index": 91,
+      "source": "A large fanged beast with pink \nfur, often found in warm, humid\nregions.\nThey are fond of mushrooms.\nGuild research indicates that\nthe type of mushroom they\nconsume can affect the type\nof breath attack they utilize.\nThey can be very pungent.",
+      "target": ""
+    },
+    {
+      "index": 92,
+      "source": "Fanged beasts with white\nfur, native to frigid enviroments.\nThey operate in small groups\nunder the direction of a\nBlongonga Leader and will\nanswer its call whenevr it\nmay come.",
+      "target": ""
+    },
+    {
+      "index": 93,
+      "source": "Leader of a Blango pack\nit is twice as large and\nrecognized by its giant fangs\nwhiskers, and head-crown. It sends\nits pack to attack any trespassers.\nIts jumping power allows it \n great mobility in its home\nrange of the snowy mountains.",
+      "target": ""
+    },
+    {
+      "index": 94,
+      "source": "No information is documented.",
+      "target": ""
+    },
+    {
+      "index": 95,
+      "source": "Fanged Beasts native to the Tidal \nIsland, which possess characteristic\nwhite and beige fur with\nlong claws and tail.\nThey secret a unique webbing\nlike substance to aid in \nmovement and often carry their\nyoung on their backs.",
+      "target": ""
+    },
+    {
+      "index": 96,
+      "source": "An ultra-aggressive creature that \nis rarely sighted and seldom survived.\nSurvivors report it exhibits a\nstrange attack. The Rajang\ns said to be a loner\nand this isolated life has made \nit difficult to pin down its \nterritorial leanings.",
+      "target": ""
+    },
+    {
+      "index": 97,
+      "source": "Nomadic, male Fanged Beasts\nwith bristling grey coats.\nThey are never far from\ntheir mate, the Nono Orugaron. \nResearch shows these beasts\nhave advanced respiratory systems\nallowing them to unleash\ndeadly wind-based attacks.",
+      "target": ""
+    },
+    {
+      "index": 98,
+      "source": "Nomadic, female Fanged Beasts\nwith snowy, white coats.\nThey are never far from\ntheir mate, the Kamu Orugaron. \nResearch shows these beasts\nmay use caves to amplify\ntheir calls, allowing them to\nsummon their mates from great \ndistances.",
+      "target": ""
+    },
+    {
+      "index": 99,
+      "source": "Rare and violent variants of\nKamu Orugaron, known to inhabit\nvolcanic regions. Unlike their standard \ncousins, they are solitary hunters\nand have been know to\neven harrass Nono Orugaron during\nthe breeding season.\nTheir bright orange fur\nis highly fire-resistant.\n",
+      "target": ""
+    },
+    {
+      "index": 100,
+      "source": "Social creatures always observed\nas a pair. The colour \ndifference often seen between\nthem isn't sexual dimorphism as \noriginally thought, but rather \nsimple genetic variation, with \nthe red variety being more\ncommon. They fight as a team\nand can generate magnetic fields.",
+      "target": ""
+    },
+    {
+      "index": 101,
+      "source": "Brutal creatures recently found\nin certain volcanic areas.\nUtilizing flint-like growths on \ntheir arms, they are able\nto wield vicious, flaming punches.\nResearch indicates these beasts\nare closely related to \nRajang, but their exact\nrelationship is still unknown.",
+      "target": ""
+    },
+    {
+      "index": 102,
+      "source": "Elder dragons so rarely sighted\nthat little is known of\ntheir ecology, though everyone\nknows of the high prices \ntheir parts fetch.\nThey are said to control\nlightning itself, enrobing themselves\nin it during battle.",
+      "target": ""
+    },
+    {
+      "index": 103,
+      "source": "A metal plated dragon known \nas the tempest of wind.\nEyewitnesses report violent storms\nrage in its presence\nand numerous attacks on\ncities within its extensive\nterritory have been documented.\n It has been sighted everywhere\n from deserts to polar regions.",
+      "target": ""
+    },
+    {
+      "index": 104,
+      "source": "Periodically Kushala Daora must\nshed their metallic scales, prior\nto this, they take on a\nrusted appearence. While waiting to\nmolt they become extremely irratable\nand may target human settlments.\nWhile their shed husks are\ncommon on mountain peaks no\none has witnessed a molt in person.",
+      "target": ""
+    },
+    {
+      "index": 105,
+      "source": "Eyewitness sightings of this\nElder Dragon are extremely rare\ndue to its ability to literally\nvanish; however, details of this\nare unclear. It is thought\nthat shocking it may make\nit reappear. When sightings do\noccur they are generally in \n warm, humid regions.",
+      "target": ""
+    },
+    {
+      "index": 106,
+      "source": "A brutal female Elder Dragon\nwith breath of flame and expert\ncontrol over fire. It is\nsaid that this control\ncomes from the crown-like horns\non its head, but this has\nnot been officially confirmed.\n Often sighted near Volcanoes and\nancient ruins.",
+      "target": ""
+    },
+    {
+      "index": 107,
+      "source": "A brutal male Elder Dragon\nwith breath of flame and expert\ncontrol over fire. Its vile\ntemperament means anyone who\napproaches is subject to fire and\nbrimstone. Known to attack cities,\nthe Guild attentively documents\nall of their movements.",
+      "target": ""
+    },
+    {
+      "index": 108,
+      "source": "A giant dragon few have \n seen and lived to tell the\ntale. When on the rampage\nit wreaks havoc on all in its\npath. The Guild has built a\nfortress to repel the beast, but\nwill it hold?",
+      "target": ""
+    },
+    {
+      "index": 109,
+      "source": "An enormous dragon few have \never seen. It is not a\ntrue Sub-Species, but rather\nAn older Lao-Shan Lung\nthat has become encased in\nhardened ash from years of \ndwelling in a volcanic area.\nThe Guild believes something has\ndriven it from its native range.",
+      "target": ""
+    },
+    {
+      "index": 110,
+      "source": "An Elder Dragon that floats\nthrough the sky. A bite\nof earth, a drink of forest,\nit’s a veritable god of the sky\nmade of the richest soil.\nAncient trees grow thick on its\nback like on a mountain. It’s\n rumored to live near a forlorn\nremote tower.",
+      "target": ""
+    },
+    {
+      "index": 111,
+      "source": "An Elder Dragon with beautiful\nshining wings. While mentions of its\nexistance are found in\nvarious ancient texts, only after\nit appeared and began attacking\nsettlments, was it officially \ndocumented. It is reported to\npossess a strange power.",
+      "target": ""
+    },
+    {
+      "index": 112,
+      "source": "A powerful dragon clad in\npurple scales and shining\nwings. It's origin is unknown\nbut scholars believe it may\nbe a Sub-Species of Rukodiora.\nIt is able to generate \nfar more powerful magnetic\nfields than its relative.\n",
+      "target": ""
+    },
+    {
+      "index": 113,
+      "source": "A legendary black dragon\nsaid to have prowled these\n lands from the days of old.\nMany skilled hunters have sought\nto challenge it, but none\never return. A monster shrouded\nin mystery...",
+      "target": ""
+    },
+    {
+      "index": 114,
+      "source": "An elusive Elder Dragon previously\nknown only from ancient\nlegends. It dwells high in the\natmosphere, far above most\nother creatures, but will \nrarely descend to ground level.\nIt was classified by the Guild\nafter its discovery by the\nLarge Exploration Ship.",
+      "target": ""
+    },
+    {
+      "index": 115,
+      "source": "Mysterious, yet overwhelmingly\npowerful, this dragon dwells\nin an area dubbed the\n\"World's End\", which was\npreviously thought to be\nincapable of supporting life.\nOminously, no records of\nthis beast exist and its\necology is a mystery.\n",
+      "target": ""
+    },
+    {
+      "index": 116,
+      "source": "A shimmering dragon of\ngolden scale and precious crystal,\nits existance was revealed rather\nrecently. While its natural habitat \nis currently unknown, research\nindicates it may be descended\nfrom Kushala Daora that ingested\ngold-bearing minerals over\nmany years.",
+      "target": ""
+    },
+    {
+      "index": 117,
+      "source": "A dignified and powerful dragon\nwith an unmistakable tail.\nFound in Bamboo forests to the\neast, it is reported to\npossess a strange symbiotic\nrelationship with the Bamboo,\nwhich it is seemingly able to\nmanipulate at will. It also\nreportedly produces Sleep-gas.",
+      "target": ""
+    },
+    {
+      "index": 118,
+      "source": "Often enrobed in a strange\nliquid metal, which it is\nseemingly able to control at\na whim; this dragon\nis a curious beast. First hand\naccounts claim it is highly\nintelligent, being able to\nlearn and counter a hunters\ncombat techniques with ease.\n",
+      "target": ""
+    },
+    {
+      "index": 119,
+      "source": "全ては謎につつまれている。",
+      "target": ""
+    },
+    {
+      "index": 120,
+      "source": "An Elder Dragon that floats\nthrough the sky and has\nbeen sighted in the Highlands.\nWhile it seems to share relation\nwith Yama Tsukami, Guild\nresearch is still ongoing.\n It's body is home to\na veritable ecosystem of \nunique and dangerous flora.",
+      "target": ""
+    },
+    {
+      "index": 121,
+      "source": "Recently documented by Guild\nresearchers exploring an arctic\nregion, this proud dragon\nis believed to be an\nancestor of Teostra and\nLunastra. While much of it's\nbiology is still unknown, it\nis speculated to be the\nsource of some intense blizzards.",
+      "target": ""
+    },
+    {
+      "index": 122,
+      "source": "Spoken of in ancient texts as\nthe \" Dragon of Conquest\", this\nimposing creature has been\nsighted at the Cloud\nViewing Fortress. Never without\nan entourage of Egyurasu \nIt's claws spawn tremors\nand its breath immolates\neverything before it.",
+      "target": ""
+    },
+    {
+      "index": 123,
+      "source": "Enormous and incredibly violent\nthe immense stature and magma\nlike heat produced by this\nElder Dragon have earned it\nthe moniker of \"living\nvolcano\". The Guild fears the\nincredible destruction this beast\ncould wreak, should it \ndestroy the Inteceptor's Base.\n",
+      "target": ""
+    },
+    {
+      "index": 124,
+      "source": "The distinctive radiant light of\nthe mature Gore Magala has\nhas been seen in the Sanctuary of \nHeaven's Mount. Some believe\nShagaru Magala was the \"foul\n wind that withered a mountain,\" \na calamity spoken of in ancient\ntexts.",
+      "target": ""
+    },
+    {
+      "index": 125,
+      "source": "Discovered after assaulting\na Guild expedition exploring an\nancient Tower, it is also \nknown as the \"Burning Ice\"\ndragon, due to it's unique\nphysiology. While it possesses\ncontrol over ice and fire, it\nsegregates control over each\nelement to one side of it's\nbody. A fascinating creature.",
+      "target": ""
+    },
+    {
+      "index": 126,
+      "source": "A legendary elder dragon spotted\non Sacred Pinnacle. An avatar \nof storms in the folklore of \na certain village, Amatsu's appearance\nis accompanied by furious cyclones \nand horrific storms. Its fearsome\npower is said to outscale\nthat of natural disasters.",
+      "target": ""
+    },
+    {
+      "index": 127,
+      "source": "Brute Wyverns that utilize their\nbladed tails and sharp claws\nto dispatch prey. When angered\nthe plates covering their backs\nwill flush with blood to\nfurther intimidate their foes.\nThey are known to possess\nextremely acidic saliva.",
+      "target": ""
+    },
+    {
+      "index": 128,
+      "source": "Closely related to Abiorugu\n they inhabit freezing enviroments\nsuch as the Polar Sea,\nwhere they utilize ice to\nincrease the power of their\nattacks. They are able to \nshoot beams of pressurized\nice water at targets.\n",
+      "target": ""
+    },
+    {
+      "index": 129,
+      "source": "Large Brute Wyverns endemic\n to White Lake, research shows\nthey were previously semi\naquatic, until the lake's\nwaters receeded, forcing them\nto re-adapt to terrestrial life.\nThey are able to store\nlagre quantities of poison\ngained from their prey.",
+      "target": ""
+    },
+    {
+      "index": 130,
+      "source": "The dreaded, nomadic Deviljho have\nno specific territory of their \nown. Their muscles swell if\nprovoked, revealing old wounds. \nNeeding to feed constantly due to\ntheir extremely high metabolism\nthey can easily hunt nearby\nanimals to extinction. Hunt with\nextreme caution.",
+      "target": ""
+    },
+    {
+      "index": 131,
+      "source": "Brute wyverns coated with an \nexplosive green substance. The\nmaterial is thought to be a \nunique myxomycete--or slime mold\nthat is primed to explode by \nthe Brachydios's own saliva. Note \nthat these crafty creatures\n can also deliver powerful foreleg \nstrikes. Fond of volcanic areas.",
+      "target": ""
+    },
+    {
+      "index": 132,
+      "source": "Brute wyverns that feed on \nore, using their mighty jaws\n to crush bedrock into powder.\nThey cleverly affix rock and ore\nto themselves with lava, then \nspread them about, using\nvibrations to make them explode.\nThey are also capable of\nreleasing seering hot gases.",
+      "target": ""
+    },
+    {
+      "index": 133,
+      "source": "Leviathans adapted to terrestrial\nlife, they are rather cautious\npreferring to scatter some of\nthe many dangerous crystals covering \ntheir bodies to harm unwary\nattackers. The organic crystals\nthey grow also allow them to\nharness sunlight and lightning\ndepending on the weather.",
+      "target": ""
+    },
+    {
+      "index": 134,
+      "source": "Female Leviathans found in the \nPolar Sea. Roughly half\nthe size of their male\ncounterparts, they also possess\nsmaller fangs, more suited\nto catching fish than for\ndisplay. If their children or\nmate is threatened, they will\nattack ferociously.\n",
+      "target": ""
+    },
+    {
+      "index": 135,
+      "source": "Male Leviathans native to the\nPolar Sea. Twice the size\nof their female counterparts\nthey possess massive fangs\nused to intimidate rivals and\npredators alike. Though aggressive towards\npercieved threats, they are\nknown to play with their\nmates and offspring.",
+      "target": ""
+    },
+    {
+      "index": 136,
+      "source": "A foreign Leviathan which was \ndiscovered following reports of\na large number of montsers\ndrained of blood. They seem\nto prefer areas near the\nocean or underground, where\nthey stalk and overpower any\ncreature smaller than themselves\nbefore draining them of blood.",
+      "target": ""
+    },
+    {
+      "index": 137,
+      "source": "Fanged wyverns whose bodies\nare streaked with electricity. Sharp\n claws and strong limbs allow them \nto thrive in mountainous terrain.\nDuring hunts, they gather numerous \nThunderbugs to boost their power\nand enter a supercharged state.\nThey house their Thunderbugs\nwithin their dorsal shells.",
+      "target": ""
+    },
+    {
+      "index": 138,
+      "source": "A subspecies of Zinogre with \na jet-black body. It gathers\nDracophage bugs which eat Dragonfell\nBerries and uses their Dragon\nElement energy to dramatically boost\nits power. Perhaps this is \nwhy it can survive in such\nvaried enviroments as the Snowy\nMountains and ancient towers.",
+      "target": ""
+    },
+    {
+      "index": 139,
+      "source": "全ては謎につつまれている。",
+      "target": ""
+    },
+    {
+      "index": 140,
+      "source": "A Wyvern with pitch-black\nscales and crimson talons\noccasionally seen at ancient\ntowers. The abilities of\nthis Wyvern seems to\nvary between witnesses and\nso little is known of \nit's biology, that it has yet\nto be officially named.",
+      "target": ""
+    },
+    {
+      "index": 141,
+      "source": "A curious, and unnerving monster\nthat, when threatened, scatters\npollen like scales that heighten its \nown senses while causing detrimental \neffects to any other creatures \nthat inhale them. Elusive\nand mysterious, much about \ntheir biology remains unknown.",
+      "target": ""
+    }
+  ]
+}

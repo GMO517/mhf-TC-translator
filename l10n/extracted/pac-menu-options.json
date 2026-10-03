@@ -1,0 +1,16 @@
+{
+  "metadata": {
+    "source_file": "mhfdat.bin",
+    "version": "1.9.0",
+    "format_version": "1.6",
+    "xpath": "pac/menu/options",
+    "fingerprint": "031561127e1f05cc"
+  },
+  "strings": [
+    {
+      "index": 0,
+      "source": "rアGXガード{j}EクスFZガード{j}ｫやすさとフィット感を{j}・脚：剣HC黒{j}ﾙ国のギルドナイトが身に{j}E桃{j}ﾔ{j}リークFXレジスト{j}{j}jーGPヘッド・紫",
+      "target": ""
+    }
+  ]
+}
