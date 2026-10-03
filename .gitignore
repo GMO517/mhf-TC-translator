@@ -1,0 +1,50 @@
+# =========================================================
+# MHF 繁中翻譯專案 .gitignore
+# 本體過大不上 GitHub；倉庫只追蹤翻譯工程產物與文件
+# =========================================================
+
+# ----- 遊戲本體（父層 client/ 內的實際用戶端）-----
+/client/MHFCT4.1/
+/client/**/mhf.exe
+/client/**/mhfo*.dll
+/client/**/*.dll
+/client/**/dat/
+
+# 若之後在 client 下放其他用戶端版本，整包忽略（保留說明檔）
+/client/*/
+!/client/README.md
+
+# ----- 本機備份（含完整 dat 複本）-----
+/_backup/
+
+# ----- 工具原始碼／建置（自行 clone，不上庫或改用 submodule）-----
+/tools/FrontierTextHandler/
+/tools/ReFrontier/
+/tools/**/bin/
+/tools/**/obj/
+/tools/**/.vs/
+
+# ----- 翻譯工作中的二進位產物（可從 CSV/JSON 重建）-----
+/l10n/data/
+/l10n/**/*.bin
+/l10n/**/*-modified.bin
+/l10n/**/*.meta
+/l10n/**/*.ecd
+/l10n/**/*.jpk
+/l10n/**/*.jkr
+
+# ----- Python -----
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# ----- 系統與編輯器雜訊 -----
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.log
+*.tmp
+.vscode/
+!.cursor/rules/

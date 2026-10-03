@@ -1,0 +1,9 @@
+id,category,source_jp,source_en,target_zh_tw,wilds_ref,frontier_only,register,display_ok,fallback_glyph,notes,approved
+# category 建議: weapon_type|monster|item|armor|skill|system|place|frontier|ui
+# register: system|npc|ui
+# display_ok: Y|N|pending
+# approved: Y|N
+# 以下為骨架列，待 Phase 2 填入
+W001,weapon_type,大剣,Great Sword,,,N,ui,pending,,荒野詞彙待核,N
+W002,weapon_type,太刀,Long Sword,,,N,ui,pending,,荒野詞彙待核,N
+S001,system,クエスト,Quest,,,N,system,pending,,,N
