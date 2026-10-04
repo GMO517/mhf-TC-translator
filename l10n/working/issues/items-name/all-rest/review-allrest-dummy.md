@@ -1,6 +1,6 @@
 # Review：items-name／Dummy／占位
 
-> **狀態**：**qa_done**（2026-10-04 人審／對齊；尚未整批回寫本體）
+> **狀態**：**qa_done**（2026-10-04 品質＋主規則巡檢完成；尚未整批回寫本體）
 
 > **用途**：最終確認。不中斷主線。
 > 來源 batch：`batches/awaiting_qa/items-name/all-rest/allrest-dummy.json`｜**完整 n=58**

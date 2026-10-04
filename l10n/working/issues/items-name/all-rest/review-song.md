@@ -1,10 +1,10 @@
 # Review：items-name／歌曲／音符
 
-> **狀態**：**qa_done**（2026-10-04 重分類審改；尚未整批回寫本體）
+> **狀態**：**qa_done**（2026-10-04 品質＋主規則巡檢完成；尚未整批回寫本體）
 
 > **用途**：最終確認。不中斷主線。
 > 來源 batch：`batches/awaiting_qa/items-name/all-rest/song.json`｜**完整 n=67**
-> 目錄：`issues/items-name/all-rest/`（語意重分類，已廢止 index 高中低切片）
+> 目錄：`issues/items-name/all-rest/`（語意重分類）
 
 ## 摘要
 
@@ -17,7 +17,7 @@
 | 3309 | Christmas Song | 聖誕歌 |
 | 4008 | Song of Peaks | 峰之歌 |
 | 4009 | Song of Lakes | 湖之歌 |
-| 4010 | Song of the Wild | 歌野 |
+| 4010 | Song of the Wild | 野性之歌 |
 | 4089 | Song of Mountains | 山之歌 |
 | 4090 | Song of Dunes | 沙丘之歌 |
 | 4091 | Song of the Ocean | 海洋之歌 |
@@ -47,7 +47,7 @@
 | 5226 | Song of Sunrise | 日出之歌 |
 | 5227 | Song of Swamps | 沼澤之歌 |
 | 5228 | Song of Jungles | 叢林之歌 |
-| 5251 | Memorial Music Box | 記念音樂盒 |
+| 5251 | Memorial Music Box | 紀念音樂盒 |
 | 5395 | Noble Note | 貴族的音符 |
 | 5396 | Fledgling Note | 雛音符 |
 | 5397 | Rider Note | 騎手音符 |
@@ -60,7 +60,7 @@
 | 5653 | Song of Tornado | 龍巻之歌 |
 | 5654 | Song of Blizzard | 吹雪之歌 |
 | 5752 | Naughty Note | 調皮的音符 |
-| 5753 | Memorial Note | 記念的音符 |
+| 5753 | Memorial Note | 紀念的音符 |
 | 5754 | Festi Note | 祭典的音符 |
 | 6178 | Big Ears Note | 大耳的音符 |
 | 6179 | Small Ears Note | 小耳的音符 |
@@ -71,8 +71,8 @@
 | 6187 | Folly Note | 愚的音符 |
 | 6188 | Numb Note | 麻的音符 |
 | 6189 | Freezing note | 冰音符 |
-| 9741 | Dawnsong Feather | 拉比納的羽 |
-| 9742 | Dusksong Feather | 鎧沸血的羽 |
+| 9741 | Dawnsong Feather | 黎明歌羽 |
+| 9742 | Dusksong Feather | 黄昏歌羽 |
 | 13511 | 祈唄石 | 祈唄石 |
 | 13970 | Music Shapd Crystl | 音樂形結晶 |
 | 13971 | Snow Mike Music | 雪話筒音樂 |

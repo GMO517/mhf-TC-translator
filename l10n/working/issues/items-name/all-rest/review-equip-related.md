@@ -1,6 +1,6 @@
 # Review：items-name／裝備相關
 
-> **狀態**：**qa_done**（2026-10-04 人審／對齊；尚未整批回寫本體）
+> **狀態**：**qa_done**（2026-10-04 品質＋主規則巡檢完成；尚未整批回寫本體）
 
 > **用途**：最終確認。不中斷主線。
 > 來源 batch：atches/awaiting_qa/items-name/all-rest/equip-related.json｜**完整 n=56**
@@ -56,17 +56,17 @@
 | 13063 | Strong Armor Sphere | 剛鎧玉 |
 | 13064 | Divine Armor Sphere | 神鎧玉 |
 | 13319 | Attack 4 Deco | 攻撃珠【４】 |
-| 14128 | Guard Up SZ | 防御強化ＳＺ |
+| 14128 | Guard Up SZ | 防御強化【ＳＺ】 |
 | 14641 | Armor Taloncharm | 防具爪護符 |
 | 14858 | Absolute Armor Sphere | 絶鎧玉 |
-| 15755 | Guard Up PZ1 | 防御強化ＰＺ１ |
-| 15756 | Guard Up PZ2 | 防御強化ＰＺ２ |
-| 15757 | Guard Up PZ3 | 防御強化ＰＺ３ |
-| 15758 | Guard Up PZ4 | 防御強化ＰＺ４ |
-| 15759 | Guard Up PZ5 | 防御強化ＰＺ５ |
-| 15760 | Guard Up PZ6 | 防御強化ＰＺ６ |
-| 15958 | Guard Up PZ7 | 防御強化ＰＺ７ |
-| 15959 | Guard Up PZ8 | 防御強化ＰＺ８ |
-| 15960 | Guard Up PZ9 | 防御強化ＰＺ９ |
-| 15961 | Guard Up PZ10 | 防御強化ＰＺ１０ |
+| 15755 | Guard Up PZ1 | 防禦強化【ＰＺ1】 |
+| 15756 | Guard Up PZ2 | 防禦強化【ＰＺ2】 |
+| 15757 | Guard Up PZ3 | 防禦強化【ＰＺ3】 |
+| 15758 | Guard Up PZ4 | 防禦強化【ＰＺ4】 |
+| 15759 | Guard Up PZ5 | 防禦強化【ＰＺ5】 |
+| 15760 | Guard Up PZ6 | 防禦強化【ＰＺ6】 |
+| 15958 | Guard Up PZ7 | 防禦強化【ＰＺ7】 |
+| 15959 | Guard Up PZ8 | 防禦強化【ＰＺ8】 |
+| 15960 | Guard Up PZ9 | 防禦強化【ＰＺ9】 |
+| 15961 | Guard Up PZ10 | 防禦強化【ＰＺ10】 |
 | 16420 | Decor. Camellia | 裝飾・椿 |

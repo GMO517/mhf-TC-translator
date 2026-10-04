@@ -1,6 +1,6 @@
 {
   "section_id": "items-name",
-  "label": "proof",
+  "label": "之証／證明",
   "translations": [
     {
       "index": "1794",
@@ -16,7 +16,7 @@
     },
     {
       "index": "2657",
-      "target": "氷獰龍之証"
+      "target": "氷狐龍之証"
     },
     {
       "index": "2658",
@@ -40,63 +40,63 @@
     },
     {
       "index": "3699",
-      "target": "火證明青金"
+      "target": "青金石之証【火】"
     },
     {
       "index": "3700",
-      "target": "水證明青金"
+      "target": "青金石之証【水】"
     },
     {
       "index": "3701",
-      "target": "雷證明青金"
+      "target": "青金石之証【雷】"
     },
     {
       "index": "3702",
-      "target": "冰證明青金"
+      "target": "青金石之証【冰】"
     },
     {
       "index": "3703",
-      "target": "耐龍青金石"
+      "target": "青金石之証【龍】"
     },
     {
       "index": "3972",
-      "target": "超越之証１"
+      "target": "超越之証【1】"
     },
     {
       "index": "3973",
-      "target": "超越之証２"
+      "target": "超越之証【2】"
     },
     {
       "index": "3974",
-      "target": "超越之証３"
+      "target": "超越之証【3】"
     },
     {
       "index": "3975",
-      "target": "超越之証４"
+      "target": "超越之証【4】"
     },
     {
       "index": "3976",
-      "target": "超越之証５"
+      "target": "超越之証【5】"
     },
     {
       "index": "3977",
-      "target": "超越之証６"
+      "target": "超越之証【6】"
     },
     {
       "index": "3978",
-      "target": "超越之証７"
+      "target": "超越之証【7】"
     },
     {
       "index": "3979",
-      "target": "超越之証８"
+      "target": "超越之証【8】"
     },
     {
       "index": "3980",
-      "target": "超越之証９"
+      "target": "超越之証【9】"
     },
     {
       "index": "3981",
-      "target": "超越之証１０"
+      "target": "超越之証【10】"
     },
     {
       "index": "4002",
@@ -104,11 +104,11 @@
     },
     {
       "index": "5128",
-      "target": "雙阿比之証"
+      "target": "雙獰龍之証"
     },
     {
       "index": "5308",
-      "target": "盾蟹之証"
+      "target": "多殼蟹之証"
     },
     {
       "index": "5365",
@@ -116,7 +116,7 @@
     },
     {
       "index": "5750",
-      "target": "水砦龍之証"
+      "target": "晶龍之証"
     },
     {
       "index": "5776",
@@ -152,43 +152,43 @@
     },
     {
       "index": "5784",
-      "target": "ＨＣ證明桃"
+      "target": "ＨＣ之証・桃"
     },
     {
       "index": "5785",
-      "target": "ＨＣ證明灰"
+      "target": "ＨＣ之証・灰"
     },
     {
       "index": "6010",
-      "target": "水砦龍的嵐之証"
+      "target": "晶龍的嵐之証"
     },
     {
       "index": "6011",
-      "target": "水砦龍的雙之証"
+      "target": "雙晶龍之証"
     },
     {
       "index": "6012",
-      "target": "大會之証・第１"
+      "target": "大會之証【1st】"
     },
     {
       "index": "6013",
-      "target": "大會之証・第２"
+      "target": "大會之証【2nd】"
     },
     {
       "index": "6014",
-      "target": "大會之証・第３"
+      "target": "大會之証【3rd】"
     },
     {
       "index": "6015",
-      "target": "釣魚之証・第１"
+      "target": "釣魚之証【1st】"
     },
     {
       "index": "6016",
-      "target": "釣魚之証・第２"
+      "target": "釣魚之証【2nd】"
     },
     {
       "index": "6017",
-      "target": "釣魚之証・第３"
+      "target": "釣魚之証【3rd】"
     },
     {
       "index": "6146",
@@ -200,23 +200,23 @@
     },
     {
       "index": "7139",
-      "target": "至高證明赤"
+      "target": "至高之証・赤"
     },
     {
       "index": "7140",
-      "target": "至高證明青"
+      "target": "至高之証・青"
     },
     {
       "index": "7141",
-      "target": "至高證明黄"
+      "target": "至高之証・黄"
     },
     {
       "index": "7142",
-      "target": "至高證明白"
+      "target": "至高之証・白"
     },
     {
       "index": "7143",
-      "target": "至高證明緑"
+      "target": "至高之証・緑"
     },
     {
       "index": "7276",
@@ -228,23 +228,23 @@
     },
     {
       "index": "8287",
-      "target": "鎧沸血證之証"
+      "target": "傳道者之証"
     },
     {
       "index": "8860",
-      "target": "梅拉之証"
+      "target": "黒穿龍之証"
     },
     {
       "index": "9058",
-      "target": "尾錘龍之証"
+      "target": "華鳳鳥之証"
     },
     {
       "index": "9073",
-      "target": "電龍之証"
+      "target": "雷轟龍之証"
     },
     {
       "index": "9586",
-      "target": "金塵之証"
+      "target": "金塵龍之証"
     },
     {
       "index": "12355",
@@ -252,11 +252,11 @@
     },
     {
       "index": "12856",
-      "target": "砦蟹之証"
+      "target": "凍王龍之証"
     },
     {
       "index": "13179",
-      "target": "感謝之証Ⅸ"
+      "target": "感謝之証【Ⅸ】"
     },
     {
       "index": "13789",

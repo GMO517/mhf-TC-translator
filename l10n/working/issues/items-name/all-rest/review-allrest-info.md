@@ -1,5 +1,5 @@
 # Review：items-name／情報
-> **狀態**：**qa_done**（2026-10-04 人審通過；尚未整批回寫本體）
+> **狀態**：**qa_done**（2026-10-04 品質＋主規則巡檢完成；尚未整批回寫本體）
 
 > **用途**：最終確認。不中斷主線。
 > 來源 batch：`batches/awaiting_qa/items-name/all-rest/allrest-info.json`｜**完整 n=6**

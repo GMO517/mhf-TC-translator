@@ -1,6 +1,6 @@
 {
   "section_id": "items-name",
-  "label": "skill-related",
+  "label": "skill-related-fix",
   "translations": [
     {
       "index": "7418",
@@ -116,7 +116,7 @@
     },
     {
       "index": "10120",
-      "target": "黄金果實"
+      "target": "黃金果實"
     },
     {
       "index": "12062",

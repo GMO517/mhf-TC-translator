@@ -1,6 +1,6 @@
 {
   "section_id": "items-name",
-  "label": "seal-mark",
+  "label": "seal-mark-fix",
   "translations": [
     {
       "index": "1823",
@@ -27,10 +27,6 @@
       "target": "Ｎ封印・Ｆ"
     },
     {
-      "index": "2072",
-      "target": "生錆猫之印"
-    },
-    {
       "index": "2094",
       "target": "Ｎ封印・Ｇ"
     },
@@ -41,6 +37,10 @@
     {
       "index": "2096",
       "target": "Ｎ封印・Ｉ"
+    },
+    {
+      "index": "2072",
+      "target": "生錆猫之印"
     },
     {
       "index": "3313",
@@ -120,7 +120,7 @@
     },
     {
       "index": "10187",
-      "target": "黄金肉球印"
+      "target": "黃金肉球印"
     },
     {
       "index": "10188",

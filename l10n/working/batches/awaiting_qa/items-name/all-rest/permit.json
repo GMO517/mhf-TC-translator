@@ -1,110 +1,110 @@
 {
   "section_id": "items-name",
-  "label": "permit",
+  "label": "許可／通行／推薦",
   "translations": [
     {
       "index": "6027",
-      "target": "怪魚許可"
+      "target": "怪魚許可證"
     },
     {
       "index": "6041",
-      "target": "爆藥許可"
+      "target": "爆藥許可證"
     },
     {
       "index": "7144",
-      "target": "赤通行Ⅰ"
+      "target": "通行證・赤【Ⅰ】"
     },
     {
       "index": "7145",
-      "target": "青通行Ⅰ"
+      "target": "通行證・青【Ⅰ】"
     },
     {
       "index": "7146",
-      "target": "青通行Ⅱ"
+      "target": "通行證・青【Ⅱ】"
     },
     {
       "index": "7147",
-      "target": "黄通行Ⅰ"
+      "target": "通行證・黄【Ⅰ】"
     },
     {
       "index": "7148",
-      "target": "黄通行Ⅱ"
+      "target": "通行證・黄【Ⅱ】"
     },
     {
       "index": "7149",
-      "target": "黄通行Ⅲ"
+      "target": "通行證・黄【Ⅲ】"
     },
     {
       "index": "7150",
-      "target": "白通行Ⅰ"
+      "target": "通行證・白【Ⅰ】"
     },
     {
       "index": "7151",
-      "target": "白通行Ⅱ"
+      "target": "通行證・白【Ⅱ】"
     },
     {
       "index": "7152",
-      "target": "白通行Ⅲ"
+      "target": "通行證・白【Ⅲ】"
     },
     {
       "index": "7153",
-      "target": "白通行Ⅳ"
+      "target": "通行證・白【Ⅳ】"
     },
     {
       "index": "7154",
-      "target": "緑通行Ⅰ"
+      "target": "通行證・緑【Ⅰ】"
     },
     {
       "index": "7155",
-      "target": "緑通行Ⅱ"
+      "target": "通行證・緑【Ⅱ】"
     },
     {
       "index": "7156",
-      "target": "緑通行Ⅲ"
+      "target": "通行證・緑【Ⅲ】"
     },
     {
       "index": "7157",
-      "target": "緑通行Ⅳ"
+      "target": "通行證・緑【Ⅳ】"
     },
     {
       "index": "7158",
-      "target": "緑通行Ⅴ"
+      "target": "通行證・緑【Ⅴ】"
     },
     {
       "index": "7983",
-      "target": "猟団特別推薦状"
+      "target": "獵團特別推薦状"
     },
     {
       "index": "7984",
-      "target": "猟団長的推薦状"
+      "target": "獵團長的推薦状"
     },
     {
       "index": "13983",
-      "target": "甜情熱"
+      "target": "甜蜜情熱"
     },
     {
       "index": "15436",
-      "target": "猫的闇通行赤"
+      "target": "闇猫通行證・赤"
     },
     {
       "index": "15437",
-      "target": "猫的闇通行青"
+      "target": "闇猫通行證・青"
     },
     {
       "index": "15438",
-      "target": "闇猫通行桃"
+      "target": "闇猫通行證・桃"
     },
     {
       "index": "15439",
-      "target": "猫的闇通行白"
+      "target": "闇猫通行證・白"
     },
     {
       "index": "15440",
-      "target": "猫的闇通行黒"
+      "target": "闇猫通行證・黒"
     },
     {
       "index": "15441",
-      "target": "猫的闇通行金"
+      "target": "闇猫通行證・金"
     }
   ]
 }

@@ -1,6 +1,6 @@
 # Review：items-name／未歸細類・高 index
 
-> **狀態**：**qa_done**（2026-10-04 審改；尚未整批回寫本體）
+> **狀態**：**qa_done**（2026-10-04 品質＋主規則巡檢完成；尚未整批回寫本體）
 
 > **用途**：最終確認。不中斷主線。
 > 來源 batch：`batches/awaiting_qa/items-name/all-rest/misc-high.json`｜**完整 n=663**
@@ -35,9 +35,9 @@
 | 14100 | Sticky Mochi | 黏麻吉 |
 | 14101 | Hot Cookies | 熱餅乾 |
 | 14102 | Moist Cookies | 濕潤餅乾 |
-| 14127 | Bullet Saver Up SZ | 節約彈藥強化ＳＺ |
-| 14129 | Adaptation Up SZ | 適應強化ＳＺ |
-| 14130 | Encourage Up SZ | 激勵強化ＳＺ |
+| 14127 | Bullet Saver Up SZ | 節約彈藥強化【ＳＺ】 |
+| 14129 | Adaptation Up SZ | 適應強化【ＳＺ】 |
+| 14130 | Encourage Up SZ | 激勵強化【ＳＺ】 |
 | 14133 | Status Res G2 | 状態耐性Ｇ２ |
 | 14134 | G Thunder Clad | 雷纏Ｇ |
 | 14135 | G Encourage | 激勵Ｇ |
@@ -74,8 +74,8 @@
 | 14279 | Hyuji Z High Needle | 針纏龍的高級針Z |
 | 14280 | Hyuji Z Top Needle | 針纏龍的頂級針Z |
 | 14290 | 水銀の書 | 水銀的書 |
-| 14291 | Reflect Up SZ | 反射強化ＳＺ |
-| 14292 | Stylish Up SZ | 風雅強化ＳＺ |
+| 14291 | Reflect Up SZ | 反射強化【ＳＺ】 |
+| 14292 | Stylish Up SZ | 風雅強化【ＳＺ】 |
 | 14298 | Zenith Mog Mat | 極位莫格素材 |
 | 14299 | Ricante Mat | 里坎特素材 |
 | 14325 | Tower Random Beads | 隨機珠【天廊】 |
@@ -109,7 +109,7 @@
 | 14412 | 怪異譚【雲】 | 怪異譚【雲】 |
 | 14445 | Road Respec | 狩人道路重配 |
 | 14446 | Wht Fatalis D Tik | 祖龍票Ｄ |
-| 14492 | Vigorous Up SZ | 剛健強化ＳＺ |
+| 14492 | Vigorous Up SZ | 強健強化【ＳＺ】 |
 | 14504 | 小力生産券Ｄ | 小力生産券Ｄ |
 | 14518 | Plesi Z Mid Head | 水龍的中級頭Z |
 | 14519 | Plesi Z High Head | 水龍的高級頭Z |
@@ -146,7 +146,7 @@
 | 14757 | 祈聴石 | 祈聴石 |
 | 14758 | Utante Mat | 烏坦特素材 |
 | 14783 | Artisan 2 G | 匠２Ｇ |
-| 14802 | Obscurity Up SZ | 幽闇強化ＳＺ |
+| 14802 | Obscurity Up SZ | 幽晦強化【ＳＺ】 |
 | 14803 | Adrenaline Charm | 興奮護符 |
 | 14804 | Starvation Charm | 飢餓護符 |
 | 14808 | Lazurite | 青金石 |
@@ -181,7 +181,7 @@
 | 15043 | 極上の柏葉 | 極上的柏葉 |
 | 15045 | Thank You Ⅹ | 感謝【Ⅹ】 |
 | 15068 | Utaei Mat | 歌詠素材 |
-| 15100 | Soul Up SZ | 魂強化ＳＺ |
+| 15100 | Soul Up SZ | 魂強化【ＳＺ】 |
 | 15102 | 祈濯石 | 祈濯石 |
 | 15111 | Calm Phoenix Silk | 靜鳳絲 |
 | 15157 | 100 Year Old Items | 百年古物 |
@@ -256,146 +256,146 @@
 | 15530 | G Fire Res | 火耐性Ｇ |
 | 15559 | Black Lava | 黒熔岩 |
 | 15564 | Highlands Report | 高地報告書 |
-| 15566 | Rush Up SZ | 突進強化ＳＺ |
-| 15622 | Crit Conv Up PZ1 | 會心轉換強化ＰＺ１ |
-| 15623 | Crit Conv Up PZ2 | 會心轉換強化ＰＺ２ |
-| 15624 | Crit Conv Up PZ3 | 會心轉換強化ＰＺ３ |
-| 15625 | Crit Conv Up PZ4 | 會心轉換強化ＰＺ４ |
-| 15626 | Crit Conv Up PZ5 | 會心轉換強化ＰＺ５ |
-| 15627 | Crit Conv Up PZ6 | 會心轉換強化ＰＺ６ |
-| 15628 | Crit Conv Up PZ7 | 會心轉換強化ＰＺ７ |
-| 15629 | Thunder Clad Up PZ1 | 雷纏強化ＰＺ１ |
-| 15630 | Thunder Clad Up PZ2 | 雷纏強化ＰＺ２ |
-| 15631 | Thunder Clad Up PZ3 | 雷纏強化ＰＺ３ |
-| 15632 | Thunder Clad Up PZ4 | 雷纏強化ＰＺ４ |
-| 15633 | Thunder Clad Up PZ5 | 雷纏強化ＰＺ５ |
-| 15634 | Thunder Clad Up PZ6 | 雷纏強化ＰＺ６ |
-| 15635 | Thunder Clad Up PZ7 | 雷纏強化ＰＺ７ |
-| 15636 | S. Assault Up PZ1 | 強襲強化ＰＺ１ |
-| 15637 | S. Assault Up PZ2 | 強襲強化ＰＺ２ |
-| 15638 | S. Assault Up PZ3 | 強襲強化ＰＺ３ |
-| 15639 | S. Assault Up PZ4 | 強襲強化ＰＺ４ |
-| 15640 | S. Assault Up PZ5 | 強襲強化ＰＺ５ |
-| 15641 | S. Assault Up PZ6 | 強襲強化ＰＺ６ |
-| 15642 | Vampirism Up PZ1 | 吸血強化ＰＺ１ |
-| 15643 | Vampirism Up PZ2 | 吸血強化ＰＺ２ |
-| 15644 | Vampirism Up PZ3 | 吸血強化ＰＺ３ |
-| 15645 | Vampirism Up PZ4 | 吸血強化ＰＺ４ |
-| 15646 | Vampirism Up PZ5 | 吸血強化ＰＺ５ |
-| 15647 | Vampirism Up PZ6 | 吸血強化ＰＺ６ |
-| 15648 | Dissolver Up PZ1 | 溶解強化ＰＺ１ |
-| 15649 | Dissolver Up PZ2 | 溶解強化ＰＺ２ |
-| 15650 | Dissolver Up PZ3 | 溶解強化ＰＺ３ |
-| 15651 | Dissolver Up PZ4 | 溶解強化ＰＺ４ |
-| 15652 | Dissolver Up PZ5 | 溶解強化ＰＺ５ |
-| 15653 | Dissolver Up PZ6 | 溶解強化ＰＺ６ |
-| 15654 | Ice Age Up PZ1 | 冰齡強化ＰＺ１ |
-| 15655 | Ice Age Up PZ2 | 冰齡強化ＰＺ２ |
-| 15656 | Ice Age Up PZ3 | 冰齡強化ＰＺ３ |
-| 15657 | Ice Age Up PZ4 | 冰齡強化ＰＺ４ |
-| 15658 | Ice Age Up PZ5 | 冰齡強化ＰＺ５ |
-| 15659 | Ice Age Up PZ6 | 冰齡強化ＰＺ６ |
-| 15660 | Drug K. Up PZ1 | 藥品知識強化ＰＺ１ |
-| 15661 | Drug K. Up PZ2 | 藥品知識強化ＰＺ２ |
-| 15662 | Drug K. Up PZ3 | 藥品知識強化ＰＺ３ |
-| 15663 | Drug K. Up PZ4 | 藥品知識強化ＰＺ４ |
-| 15664 | Drug K. Up PZ5 | 藥品知識強化ＰＺ５ |
-| 15665 | Drug K. Up PZ6 | 藥品知識強化ＰＺ６ |
-| 15666 | Assistance Up PZ1 | 支援強化ＰＺ１ |
-| 15667 | Assistance Up PZ2 | 支援強化ＰＺ２ |
-| 15668 | Assistance Up PZ3 | 支援強化ＰＺ３ |
-| 15669 | Assistance Up PZ4 | 支援強化ＰＺ４ |
-| 15670 | Assistance Up PZ5 | 支援強化ＰＺ５ |
-| 15671 | Assistance Up PZ6 | 支援強化ＰＺ６ |
-| 15672 | Rush Up PZ1 | 突進強化ＰＺ１ |
-| 15673 | Rush Up PZ2 | 突進強化ＰＺ２ |
-| 15674 | Rush Up PZ3 | 突進強化ＰＺ３ |
-| 15675 | Rush Up PZ4 | 突進強化ＰＺ４ |
-| 15676 | Rush Up PZ5 | 突進強化ＰＺ５ |
-| 15677 | Rush Up PZ6 | 突進強化ＰＺ６ |
-| 15678 | Rush Up PZ7 | 突進強化ＰＺ７ |
-| 15679 | Adaptation Up PZ1 | 適應強化ＰＺ１ |
-| 15680 | Adaptation Up PZ2 | 適應強化ＰＺ２ |
-| 15681 | Adaptation Up PZ3 | 適應強化ＰＺ３ |
-| 15682 | Adaptation Up PZ4 | 適應強化ＰＺ４ |
-| 15683 | Adaptation Up PZ5 | 適應強化ＰＺ５ |
-| 15684 | Adaptation Up PZ6 | 適應強化ＰＺ６ |
-| 15685 | Encourage Up PZ1 | 激勵強化ＰＺ１ |
-| 15686 | Encourage Up PZ2 | 激勵強化ＰＺ２ |
-| 15687 | Encourage Up PZ3 | 激勵強化ＰＺ３ |
-| 15688 | Encourage Up PZ4 | 激勵強化ＰＺ４ |
-| 15689 | Encourage Up PZ5 | 激勵強化ＰＺ５ |
-| 15690 | Encourage Up PZ6 | 激勵強化ＰＺ６ |
-| 15691 | Reflect Up PZ1 | 反射強化ＰＺ１ |
-| 15692 | Reflect Up PZ2 | 反射強化ＰＺ２ |
-| 15693 | Reflect Up PZ3 | 反射強化ＰＺ３ |
-| 15694 | Reflect Up PZ4 | 反射強化ＰＺ４ |
-| 15695 | Reflect Up PZ5 | 反射強化ＰＺ５ |
-| 15696 | Reflect Up PZ6 | 反射強化ＰＺ６ |
-| 15697 | Stylish Up PZ1 | 風雅強化ＰＺ１ |
-| 15698 | Stylish Up PZ2 | 風雅強化ＰＺ２ |
-| 15699 | Stylish Up PZ3 | 風雅強化ＰＺ３ |
-| 15700 | Stylish Up PZ4 | 風雅強化ＰＺ４ |
-| 15701 | Stylish Up PZ5 | 風雅強化ＰＺ５ |
-| 15702 | Stylish Up PZ6 | 風雅強化ＰＺ６ |
-| 15703 | Vigorous Up PZ1 | 剛健強化ＰＺ１ |
-| 15704 | Vigorous Up PZ2 | 剛健強化ＰＺ２ |
-| 15705 | Vigorous Up PZ3 | 剛健強化ＰＺ３ |
-| 15706 | Vigorous Up PZ4 | 剛健強化ＰＺ４ |
-| 15707 | Vigorous Up PZ5 | 剛健強化ＰＺ５ |
-| 15708 | Vigorous Up PZ6 | 剛健強化ＰＺ６ |
-| 15709 | Obscurity Up PZ1 | 幽闇強化ＰＺ１ |
-| 15710 | Obscurity Up PZ2 | 幽闇強化ＰＺ２ |
-| 15711 | Obscurity Up PZ3 | 幽闇強化ＰＺ３ |
-| 15712 | Obscurity Up PZ4 | 幽闇強化ＰＺ４ |
-| 15713 | Obscurity Up PZ5 | 幽闇強化ＰＺ５ |
-| 15714 | Obscurity Up PZ6 | 幽闇強化ＰＺ６ |
-| 15715 | Soul Up PZ1 | 魂強化ＰＺ１ |
-| 15716 | Soul Up PZ2 | 魂強化ＰＺ２ |
-| 15717 | Soul Up PZ3 | 魂強化ＰＺ３ |
-| 15718 | Soul Up PZ4 | 魂強化ＰＺ４ |
-| 15719 | Soul Up PZ5 | 魂強化ＰＺ５ |
-| 15720 | Soul Up PZ6 | 魂強化ＰＺ６ |
-| 15721 | Soul Up PZ7 | 魂強化ＰＺ７ |
-| 15722 | Earplugs Up PZ1 | 耳塞強化ＰＺ１ |
-| 15723 | Earplugs Up PZ2 | 耳塞強化ＰＺ２ |
-| 15724 | Earplugs Up PZ3 | 耳塞強化ＰＺ３ |
-| 15725 | Earplugs Up PZ4 | 耳塞強化ＰＺ４ |
-| 15726 | Earplugs Up PZ5 | 耳塞強化ＰＺ５ |
-| 15727 | Wind Res Up PZ1 | 風圧耐性強化ＰＺ１ |
-| 15728 | Wind Res Up PZ2 | 風圧耐性強化ＰＺ２ |
-| 15729 | Wind Res Up PZ3 | 風圧耐性強化ＰＺ３ |
-| 15730 | Wind Res Up PZ4 | 風圧耐性強化ＰＺ４ |
-| 15731 | Wind Res Up PZ5 | 風圧耐性強化ＰＺ５ |
-| 15732 | Quake Res Up PZ1 | 耐震強化ＰＺ１ |
-| 15733 | Quake Res Up PZ2 | 耐震強化ＰＺ２ |
-| 15734 | Quake Res Up PZ3 | 耐震強化ＰＺ３ |
-| 15735 | Quake Res Up PZ4 | 耐震強化ＰＺ４ |
-| 15736 | Quake Res Up PZ5 | 耐震強化ＰＺ５ |
-| 15737 | Poison Res Up PZ1 | 耐毒強化ＰＺ１ |
-| 15738 | Poison Res Up PZ2 | 耐毒強化ＰＺ２ |
-| 15739 | Poison Res Up PZ3 | 耐毒強化ＰＺ３ |
-| 15740 | Poison Res Up PZ4 | 耐毒強化ＰＺ４ |
-| 15741 | Poison Res Up PZ5 | 耐毒強化ＰＺ５ |
-| 15742 | Poison Res Up PZ6 | 耐毒強化ＰＺ６ |
-| 15743 | Para Res Up PZ1 | 耐麻痺強化ＰＺ１ |
-| 15744 | Para Res Up PZ2 | 耐麻痺強化ＰＺ２ |
-| 15745 | Para Res Up PZ3 | 耐麻痺強化ＰＺ３ |
-| 15746 | Para Res Up PZ4 | 耐麻痺強化ＰＺ４ |
-| 15747 | Para Res Up PZ5 | 耐麻痺強化ＰＺ５ |
-| 15748 | Para Res Up PZ6 | 耐麻痺強化ＰＺ６ |
-| 15749 | Sleep Res Up PZ1 | 耐睡眠強化ＰＺ１ |
-| 15750 | Sleep Res Up PZ2 | 耐睡眠強化ＰＺ２ |
-| 15751 | Sleep Res Up PZ3 | 耐睡眠強化ＰＺ３ |
-| 15752 | Sleep Res Up PZ4 | 耐睡眠強化ＰＺ４ |
-| 15753 | Sleep Res Up PZ5 | 耐睡眠強化ＰＺ５ |
-| 15754 | Sleep Res Up PZ6 | 耐睡眠強化ＰＺ６ |
-| 15761 | Bullet Saver Up PZ1 | 節約彈藥強化ＰＺ１ |
-| 15762 | Bullet Saver Up PZ2 | 節約彈藥強化ＰＺ２ |
-| 15763 | Bullet Saver Up PZ3 | 節約彈藥強化ＰＺ３ |
-| 15764 | Bullet Saver Up PZ4 | 節約彈藥強化ＰＺ４ |
-| 15765 | Bullet Saver Up PZ5 | 節約彈藥強化ＰＺ５ |
-| 15766 | Bullet Saver Up PZ6 | 節約彈藥強化ＰＺ６ |
+| 15566 | Rush Up SZ | 突進強化【ＳＺ】 |
+| 15622 | Crit Conv Up PZ1 | 會心轉換強化【ＰＺ1】 |
+| 15623 | Crit Conv Up PZ2 | 會心轉換強化【ＰＺ2】 |
+| 15624 | Crit Conv Up PZ3 | 會心轉換強化【ＰＺ3】 |
+| 15625 | Crit Conv Up PZ4 | 會心轉換強化【ＰＺ4】 |
+| 15626 | Crit Conv Up PZ5 | 會心轉換強化【ＰＺ5】 |
+| 15627 | Crit Conv Up PZ6 | 會心轉換強化【ＰＺ6】 |
+| 15628 | Crit Conv Up PZ7 | 會心轉換強化【ＰＺ7】 |
+| 15629 | Thunder Clad Up PZ1 | 雷纏強化【ＰＺ1】 |
+| 15630 | Thunder Clad Up PZ2 | 雷纏強化【ＰＺ2】 |
+| 15631 | Thunder Clad Up PZ3 | 雷纏強化【ＰＺ3】 |
+| 15632 | Thunder Clad Up PZ4 | 雷纏強化【ＰＺ4】 |
+| 15633 | Thunder Clad Up PZ5 | 雷纏強化【ＰＺ5】 |
+| 15634 | Thunder Clad Up PZ6 | 雷纏強化【ＰＺ6】 |
+| 15635 | Thunder Clad Up PZ7 | 雷纏強化【ＰＺ7】 |
+| 15636 | S. Assault Up PZ1 | 巧撃強化【ＰＺ1】 |
+| 15637 | S. Assault Up PZ2 | 巧撃強化【ＰＺ2】 |
+| 15638 | S. Assault Up PZ3 | 巧撃強化【ＰＺ3】 |
+| 15639 | S. Assault Up PZ4 | 巧撃強化【ＰＺ4】 |
+| 15640 | S. Assault Up PZ5 | 巧撃強化【ＰＺ5】 |
+| 15641 | S. Assault Up PZ6 | 巧撃強化【ＰＺ6】 |
+| 15642 | Vampirism Up PZ1 | 吸血強化【ＰＺ1】 |
+| 15643 | Vampirism Up PZ2 | 吸血強化【ＰＺ2】 |
+| 15644 | Vampirism Up PZ3 | 吸血強化【ＰＺ3】 |
+| 15645 | Vampirism Up PZ4 | 吸血強化【ＰＺ4】 |
+| 15646 | Vampirism Up PZ5 | 吸血強化【ＰＺ5】 |
+| 15647 | Vampirism Up PZ6 | 吸血強化【ＰＺ6】 |
+| 15648 | Dissolver Up PZ1 | 溶解強化【ＰＺ1】 |
+| 15649 | Dissolver Up PZ2 | 溶解強化【ＰＺ2】 |
+| 15650 | Dissolver Up PZ3 | 溶解強化【ＰＺ3】 |
+| 15651 | Dissolver Up PZ4 | 溶解強化【ＰＺ4】 |
+| 15652 | Dissolver Up PZ5 | 溶解強化【ＰＺ5】 |
+| 15653 | Dissolver Up PZ6 | 溶解強化【ＰＺ6】 |
+| 15654 | Ice Age Up PZ1 | 氷界創生強化【ＰＺ1】 |
+| 15655 | Ice Age Up PZ2 | 氷界創生強化【ＰＺ2】 |
+| 15656 | Ice Age Up PZ3 | 氷界創生強化【ＰＺ3】 |
+| 15657 | Ice Age Up PZ4 | 氷界創生強化【ＰＺ4】 |
+| 15658 | Ice Age Up PZ5 | 氷界創生強化【ＰＺ5】 |
+| 15659 | Ice Age Up PZ6 | 氷界創生強化【ＰＺ6】 |
+| 15660 | Drug K. Up PZ1 | 藥品知識強化【ＰＺ1】 |
+| 15661 | Drug K. Up PZ2 | 藥品知識強化【ＰＺ2】 |
+| 15662 | Drug K. Up PZ3 | 藥品知識強化【ＰＺ3】 |
+| 15663 | Drug K. Up PZ4 | 藥品知識強化【ＰＺ4】 |
+| 15664 | Drug K. Up PZ5 | 藥品知識強化【ＰＺ5】 |
+| 15665 | Drug K. Up PZ6 | 藥品知識強化【ＰＺ6】 |
+| 15666 | Assistance Up PZ1 | 支援強化【ＰＺ1】 |
+| 15667 | Assistance Up PZ2 | 支援強化【ＰＺ2】 |
+| 15668 | Assistance Up PZ3 | 支援強化【ＰＺ3】 |
+| 15669 | Assistance Up PZ4 | 支援強化【ＰＺ4】 |
+| 15670 | Assistance Up PZ5 | 支援強化【ＰＺ5】 |
+| 15671 | Assistance Up PZ6 | 支援強化【ＰＺ6】 |
+| 15672 | Rush Up PZ1 | 突進強化【ＰＺ1】 |
+| 15673 | Rush Up PZ2 | 突進強化【ＰＺ2】 |
+| 15674 | Rush Up PZ3 | 突進強化【ＰＺ3】 |
+| 15675 | Rush Up PZ4 | 突進強化【ＰＺ4】 |
+| 15676 | Rush Up PZ5 | 突進強化【ＰＺ5】 |
+| 15677 | Rush Up PZ6 | 突進強化【ＰＺ6】 |
+| 15678 | Rush Up PZ7 | 突進強化【ＰＺ7】 |
+| 15679 | Adaptation Up PZ1 | 適應強化【ＰＺ1】 |
+| 15680 | Adaptation Up PZ2 | 適應強化【ＰＺ2】 |
+| 15681 | Adaptation Up PZ3 | 適應強化【ＰＺ3】 |
+| 15682 | Adaptation Up PZ4 | 適應強化【ＰＺ4】 |
+| 15683 | Adaptation Up PZ5 | 適應強化【ＰＺ5】 |
+| 15684 | Adaptation Up PZ6 | 適應強化【ＰＺ6】 |
+| 15685 | Encourage Up PZ1 | 激勵強化【ＰＺ1】 |
+| 15686 | Encourage Up PZ2 | 激勵強化【ＰＺ2】 |
+| 15687 | Encourage Up PZ3 | 激勵強化【ＰＺ3】 |
+| 15688 | Encourage Up PZ4 | 激勵強化【ＰＺ4】 |
+| 15689 | Encourage Up PZ5 | 激勵強化【ＰＺ5】 |
+| 15690 | Encourage Up PZ6 | 激勵強化【ＰＺ6】 |
+| 15691 | Reflect Up PZ1 | 反射強化【ＰＺ1】 |
+| 15692 | Reflect Up PZ2 | 反射強化【ＰＺ2】 |
+| 15693 | Reflect Up PZ3 | 反射強化【ＰＺ3】 |
+| 15694 | Reflect Up PZ4 | 反射強化【ＰＺ4】 |
+| 15695 | Reflect Up PZ5 | 反射強化【ＰＺ5】 |
+| 15696 | Reflect Up PZ6 | 反射強化【ＰＺ6】 |
+| 15697 | Stylish Up PZ1 | 風雅強化【ＰＺ1】 |
+| 15698 | Stylish Up PZ2 | 風雅強化【ＰＺ2】 |
+| 15699 | Stylish Up PZ3 | 風雅強化【ＰＺ3】 |
+| 15700 | Stylish Up PZ4 | 風雅強化【ＰＺ4】 |
+| 15701 | Stylish Up PZ5 | 風雅強化【ＰＺ5】 |
+| 15702 | Stylish Up PZ6 | 風雅強化【ＰＺ6】 |
+| 15703 | Vigorous Up PZ1 | 強健強化【ＰＺ1】 |
+| 15704 | Vigorous Up PZ2 | 強健強化【ＰＺ2】 |
+| 15705 | Vigorous Up PZ3 | 強健強化【ＰＺ3】 |
+| 15706 | Vigorous Up PZ4 | 強健強化【ＰＺ4】 |
+| 15707 | Vigorous Up PZ5 | 強健強化【ＰＺ5】 |
+| 15708 | Vigorous Up PZ6 | 強健強化【ＰＺ6】 |
+| 15709 | Obscurity Up PZ1 | 幽晦強化【ＰＺ1】 |
+| 15710 | Obscurity Up PZ2 | 幽晦強化【ＰＺ2】 |
+| 15711 | Obscurity Up PZ3 | 幽晦強化【ＰＺ3】 |
+| 15712 | Obscurity Up PZ4 | 幽晦強化【ＰＺ4】 |
+| 15713 | Obscurity Up PZ5 | 幽晦強化【ＰＺ5】 |
+| 15714 | Obscurity Up PZ6 | 幽晦強化【ＰＺ6】 |
+| 15715 | Soul Up PZ1 | 魂強化【ＰＺ1】 |
+| 15716 | Soul Up PZ2 | 魂強化【ＰＺ2】 |
+| 15717 | Soul Up PZ3 | 魂強化【ＰＺ3】 |
+| 15718 | Soul Up PZ4 | 魂強化【ＰＺ4】 |
+| 15719 | Soul Up PZ5 | 魂強化【ＰＺ5】 |
+| 15720 | Soul Up PZ6 | 魂強化【ＰＺ6】 |
+| 15721 | Soul Up PZ7 | 魂強化【ＰＺ7】 |
+| 15722 | Earplugs Up PZ1 | 耳栓強化【ＰＺ1】 |
+| 15723 | Earplugs Up PZ2 | 耳栓強化【ＰＺ2】 |
+| 15724 | Earplugs Up PZ3 | 耳栓強化【ＰＺ3】 |
+| 15725 | Earplugs Up PZ4 | 耳栓強化【ＰＺ4】 |
+| 15726 | Earplugs Up PZ5 | 耳栓強化【ＰＺ5】 |
+| 15727 | Wind Res Up PZ1 | 風圧耐性強化【ＰＺ1】 |
+| 15728 | Wind Res Up PZ2 | 風圧耐性強化【ＰＺ2】 |
+| 15729 | Wind Res Up PZ3 | 風圧耐性強化【ＰＺ3】 |
+| 15730 | Wind Res Up PZ4 | 風圧耐性強化【ＰＺ4】 |
+| 15731 | Wind Res Up PZ5 | 風圧耐性強化【ＰＺ5】 |
+| 15732 | Quake Res Up PZ1 | 耐震強化【ＰＺ1】 |
+| 15733 | Quake Res Up PZ2 | 耐震強化【ＰＺ2】 |
+| 15734 | Quake Res Up PZ3 | 耐震強化【ＰＺ3】 |
+| 15735 | Quake Res Up PZ4 | 耐震強化【ＰＺ4】 |
+| 15736 | Quake Res Up PZ5 | 耐震強化【ＰＺ5】 |
+| 15737 | Poison Res Up PZ1 | 毒耐性強化【ＰＺ1】 |
+| 15738 | Poison Res Up PZ2 | 毒耐性強化【ＰＺ2】 |
+| 15739 | Poison Res Up PZ3 | 毒耐性強化【ＰＺ3】 |
+| 15740 | Poison Res Up PZ4 | 毒耐性強化【ＰＺ4】 |
+| 15741 | Poison Res Up PZ5 | 毒耐性強化【ＰＺ5】 |
+| 15742 | Poison Res Up PZ6 | 毒耐性強化【ＰＺ6】 |
+| 15743 | Para Res Up PZ1 | 麻痺耐性強化【ＰＺ1】 |
+| 15744 | Para Res Up PZ2 | 麻痺耐性強化【ＰＺ2】 |
+| 15745 | Para Res Up PZ3 | 麻痺耐性強化【ＰＺ3】 |
+| 15746 | Para Res Up PZ4 | 麻痺耐性強化【ＰＺ4】 |
+| 15747 | Para Res Up PZ5 | 麻痺耐性強化【ＰＺ5】 |
+| 15748 | Para Res Up PZ6 | 麻痺耐性強化【ＰＺ6】 |
+| 15749 | Sleep Res Up PZ1 | 睡眠耐性強化【ＰＺ1】 |
+| 15750 | Sleep Res Up PZ2 | 睡眠耐性強化【ＰＺ2】 |
+| 15751 | Sleep Res Up PZ3 | 睡眠耐性強化【ＰＺ3】 |
+| 15752 | Sleep Res Up PZ4 | 睡眠耐性強化【ＰＺ4】 |
+| 15753 | Sleep Res Up PZ5 | 睡眠耐性強化【ＰＺ5】 |
+| 15754 | Sleep Res Up PZ6 | 睡眠耐性強化【ＰＺ6】 |
+| 15761 | Bullet Saver Up PZ1 | 節約彈藥強化【ＰＺ1】 |
+| 15762 | Bullet Saver Up PZ2 | 節約彈藥強化【ＰＺ2】 |
+| 15763 | Bullet Saver Up PZ3 | 節約彈藥強化【ＰＺ3】 |
+| 15764 | Bullet Saver Up PZ4 | 節約彈藥強化【ＰＺ4】 |
+| 15765 | Bullet Saver Up PZ5 | 節約彈藥強化【ＰＺ5】 |
+| 15766 | Bullet Saver Up PZ6 | 節約彈藥強化【ＰＺ6】 |
 | 15773 | Resonant Hemp | 共鳴麻 |
 | 15778 | Gears of Destiny | 命運齒輪 |
 | 15786 | P. Gunlance Plan | 銃槍設計圖 |
@@ -454,50 +454,50 @@
 | 15916 | Z3P_item_098 | (dummy) |
 | 15917 | Z3P_item_099 | (dummy) |
 | 15918 | Z3P_item_100 | (dummy) |
-| 15919 | Ceaseless Up PZ1 | 無尽強化ＰＺ１ |
-| 15920 | Ceaseless Up PZ2 | 無尽強化ＰＺ２ |
-| 15921 | Ceaseless Up PZ3 | 無尽強化ＰＺ３ |
-| 15922 | Ceaseless Up PZ4 | 無尽強化ＰＺ４ |
-| 15923 | Ceaseless Up PZ5 | 無尽強化ＰＺ５ |
-| 15924 | Ceaseless Up PZ6 | 無尽強化ＰＺ６ |
-| 15925 | Ceaseless Up PZ7 | 無尽強化ＰＺ７ |
-| 15926 | Crit Conv Up PZ8 | 會心轉換強化ＰＺ８ |
-| 15927 | Crit Conv Up PZ9 | 會心轉換強化ＰＺ９ |
-| 15928 | Thunder Clad Up PZ8 | 雷纏強化ＰＺ８ |
-| 15929 | Thunder Clad Up PZ9 | 雷纏強化ＰＺ９ |
-| 15930 | S. Assault Up PZ7 | 強襲強化ＰＺ７ |
-| 15931 | S. Assault Up PZ8 | 強襲強化ＰＺ８ |
-| 15932 | Vampirism Up PZ7 | 吸血強化ＰＺ７ |
-| 15933 | Vampirism Up PZ8 | 吸血強化ＰＺ８ |
-| 15934 | Dissolver Up PZ7 | 溶解強化ＰＺ７ |
-| 15935 | Ice Age Up PZ7 | 冰齡強化ＰＺ７ |
-| 15936 | Drug K. Up PZ7 | 藥品知識強化ＰＺ７ |
-| 15937 | Assistance Up PZ7 | 支援強化ＰＺ７ |
-| 15938 | Assistance Up PZ8 | 支援強化ＰＺ８ |
-| 15939 | Rush Up PZ8 | 突進強化ＰＺ８ |
-| 15940 | Rush Up PZ9 | 突進強化ＰＺ９ |
-| 15941 | Adaptation Up PZ7 | 適應強化ＰＺ７ |
-| 15942 | Adaptation Up PZ8 | 適應強化ＰＺ８ |
-| 15943 | Encourage Up PZ7 | 激勵強化ＰＺ７ |
-| 15944 | Reflect Up PZ7 | 反射強化ＰＺ７ |
-| 15945 | Stylish Up PZ7 | 風雅強化ＰＺ７ |
-| 15946 | Stylish Up PZ8 | 風雅強化ＰＺ８ |
-| 15947 | Vigorous Up PZ7 | 剛健強化ＰＺ７ |
-| 15948 | Vigorous Up PZ8 | 剛健強化ＰＺ８ |
-| 15949 | Obscurity Up PZ7 | 幽闇強化ＰＺ７ |
-| 15950 | Obscurity Up PZ8 | 幽闇強化ＰＺ８ |
-| 15951 | Soul Up PZ8 | 魂強化ＰＺ８ |
-| 15952 | Earplugs Up PZ6 | 耳塞強化ＰＺ６ |
-| 15953 | Wind Res Up PZ6 | 風圧耐性強化ＰＺ６ |
-| 15954 | Quake Res Up PZ6 | 耐震強化ＰＺ６ |
-| 15955 | Poison Res Up PZ7 | 耐毒強化ＰＺ７ |
-| 15956 | Para Res Up PZ7 | 耐麻痺強化ＰＺ７ |
-| 15957 | Sleep Res Up PZ7 | 耐睡眠強化ＰＺ７ |
-| 15962 | Bullet Saver Up PZ7 | 節約彈藥強化ＰＺ７ |
-| 15963 | Bullet Saver Up PZ8 | 節約彈藥強化ＰＺ８ |
-| 15964 | Bullet Saver Up PZ9 | 節約彈藥強化ＰＺ９ |
-| 15965 | Blt.Saver Up PZ10 | 節約彈藥強化ＰＺ１０ |
-| 15970 | Ceaseless Up SZ | 無尽強化ＳＺ |
+| 15919 | Ceaseless Up PZ1 | 無盡強化【ＰＺ1】 |
+| 15920 | Ceaseless Up PZ2 | 無盡強化【ＰＺ2】 |
+| 15921 | Ceaseless Up PZ3 | 無盡強化【ＰＺ3】 |
+| 15922 | Ceaseless Up PZ4 | 無盡強化【ＰＺ4】 |
+| 15923 | Ceaseless Up PZ5 | 無盡強化【ＰＺ5】 |
+| 15924 | Ceaseless Up PZ6 | 無盡強化【ＰＺ6】 |
+| 15925 | Ceaseless Up PZ7 | 無盡強化【ＰＺ7】 |
+| 15926 | Crit Conv Up PZ8 | 會心轉換強化【ＰＺ8】 |
+| 15927 | Crit Conv Up PZ9 | 會心轉換強化【ＰＺ9】 |
+| 15928 | Thunder Clad Up PZ8 | 雷纏強化【ＰＺ8】 |
+| 15929 | Thunder Clad Up PZ9 | 雷纏強化【ＰＺ9】 |
+| 15930 | S. Assault Up PZ7 | 巧撃強化【ＰＺ7】 |
+| 15931 | S. Assault Up PZ8 | 巧撃強化【ＰＺ8】 |
+| 15932 | Vampirism Up PZ7 | 吸血強化【ＰＺ7】 |
+| 15933 | Vampirism Up PZ8 | 吸血強化【ＰＺ8】 |
+| 15934 | Dissolver Up PZ7 | 溶解強化【ＰＺ7】 |
+| 15935 | Ice Age Up PZ7 | 氷界創生強化【ＰＺ7】 |
+| 15936 | Drug K. Up PZ7 | 藥品知識強化【ＰＺ7】 |
+| 15937 | Assistance Up PZ7 | 支援強化【ＰＺ7】 |
+| 15938 | Assistance Up PZ8 | 支援強化【ＰＺ8】 |
+| 15939 | Rush Up PZ8 | 突進強化【ＰＺ8】 |
+| 15940 | Rush Up PZ9 | 突進強化【ＰＺ9】 |
+| 15941 | Adaptation Up PZ7 | 適應強化【ＰＺ7】 |
+| 15942 | Adaptation Up PZ8 | 適應強化【ＰＺ8】 |
+| 15943 | Encourage Up PZ7 | 激勵強化【ＰＺ7】 |
+| 15944 | Reflect Up PZ7 | 反射強化【ＰＺ7】 |
+| 15945 | Stylish Up PZ7 | 風雅強化【ＰＺ7】 |
+| 15946 | Stylish Up PZ8 | 風雅強化【ＰＺ8】 |
+| 15947 | Vigorous Up PZ7 | 強健強化【ＰＺ7】 |
+| 15948 | Vigorous Up PZ8 | 強健強化【ＰＺ8】 |
+| 15949 | Obscurity Up PZ7 | 幽晦強化【ＰＺ7】 |
+| 15950 | Obscurity Up PZ8 | 幽晦強化【ＰＺ8】 |
+| 15951 | Soul Up PZ8 | 魂強化【ＰＺ8】 |
+| 15952 | Earplugs Up PZ6 | 耳栓強化【ＰＺ6】 |
+| 15953 | Wind Res Up PZ6 | 風圧耐性強化【ＰＺ6】 |
+| 15954 | Quake Res Up PZ6 | 耐震強化【ＰＺ6】 |
+| 15955 | Poison Res Up PZ7 | 毒耐性強化【ＰＺ7】 |
+| 15956 | Para Res Up PZ7 | 麻痺耐性強化【ＰＺ7】 |
+| 15957 | Sleep Res Up PZ7 | 睡眠耐性強化【ＰＺ7】 |
+| 15962 | Bullet Saver Up PZ7 | 節約彈藥強化【ＰＺ7】 |
+| 15963 | Bullet Saver Up PZ8 | 節約彈藥強化【ＰＺ8】 |
+| 15964 | Bullet Saver Up PZ9 | 節約彈藥強化【ＰＺ9】 |
+| 15965 | Blt.Saver Up PZ10 | 節約彈藥強化【ＰＺ10】 |
+| 15970 | Ceaseless Up SZ | 無盡強化【ＳＺ】 |
 | 15971 | Z3P_tama_053 | (dummy) |
 | 15972 | Z3P_tama_054 | (dummy) |
 | 15973 | Z3P_tama_055 | (dummy) |

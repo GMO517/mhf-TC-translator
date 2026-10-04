@@ -1,5 +1,5 @@
 # Review：items-name／・分隔系列（其餘）
-> **狀態**：**qa_done**（2026-10-04 人審通過；尚未整批回寫本體）
+> **狀態**：**qa_done**（2026-10-04 品質＋主規則巡檢完成；尚未整批回寫本體）
 
 > **用途**：最終確認。不中斷主線。
 > 來源 batch：atches/awaiting_qa/items-name/all-rest/dot-series.json｜**完整 n=218**
@@ -29,16 +29,16 @@
 | 5170 | Wood Effigy・Blue | 木偶・青 |
 | 5171 | Wood Effigy・Navy | 木偶・紺 |
 | 5172 | Wood Effigy・Cyan | 木偶・青藍 |
-| 5345 | Armor Soul・Rough | 防具之魂・粗 |
-| 5346 | Armor Soul・Calm | 防具之魂・靜 |
-| 5347 | Armor Soul・Lucky | 防具之魂・幸運 |
-| 5348 | Armor Soul・Odd | 防具之魂・奇 |
+| 5345 | Armor Soul・Rough | 防具魂・粗 |
+| 5346 | Armor Soul・Calm | 防具魂・靜 |
+| 5347 | Armor Soul・Lucky | 防具魂・幸運 |
+| 5348 | Armor Soul・Odd | 防具魂・奇 |
 | 6463 | Gesture・Bow Ⅱ | 姿勢・弓Ⅱ |
 | 6464 | Gesture・LBG Ⅱ | 姿勢・輕弩Ⅱ |
 | 6465 | Gesture・SnS Ⅱ | 姿勢・片手劍Ⅱ |
 | 6466 | Gesture・LS Ⅱ | 姿勢・太刀Ⅱ |
-| 6640 | G Rage・Attack | 憤怒的攻撃Ｇ |
-| 6641 | G Rage・Issen | 憤怒的一閃Ｇ |
+| 6640 | G Rage・Attack | 憤怒的攻撃【Ｇ】 |
+| 6641 | G Rage・Issen | 憤怒的一閃【Ｇ】 |
 | 6787 | Gesture・DS Ⅱ | 姿勢・雙劍Ⅱ |
 | 6788 | Gesture・Hammer Ⅱ | 姿勢・鎚Ⅱ |
 | 6789 | Gesture・HH Ⅱ | 姿勢・狩獵笛Ⅱ |
@@ -79,44 +79,44 @@
 | 12805 | Gesture・GL Ⅱ | 姿勢・銃槍Ⅱ |
 | 12806 | Gesture・GS Ⅱ | 姿勢・大劍Ⅱ |
 | 12807 | Gesture・Tonfa Ⅱ | 姿勢・穿鑿棍Ⅱ |
-| 13311 | G Attack・Draw | 攻撃・拔刀Ｇ |
-| 13312 | G Issen・Draw | 一閃・拔刀Ｇ |
-| 13313 | G Attack・Herb | 攻撃・草藥Ｇ |
-| 13314 | G Issen・Herb | 一閃・草藥Ｇ |
-| 13315 | G Protect・Status | 守護・状態Ｇ |
-| 13316 | G Protect・Exploit | 守護・弱點特效Ｇ |
-| 13317 | G Attack・Dissolve | 攻撃・溶解Ｇ |
-| 13318 | G Attack・Blaze | 攻撃・炎Ｇ |
-| 13320 | G Attack・Resist | 攻撃・抵抗Ｇ |
-| 13321 | G Issen・Resist | 一閃・抵抗Ｇ |
-| 13368 | G Issen・Vigor | 一閃・活力Ｇ |
-| 13369 | G Issen・Rage | 一閃・憤怒Ｇ |
+| 13311 | G Attack・Draw | 攻撃・拔刀【Ｇ】 |
+| 13312 | G Issen・Draw | 一閃・拔刀【Ｇ】 |
+| 13313 | G Attack・Herb | 攻撃・草藥【Ｇ】 |
+| 13314 | G Issen・Herb | 一閃・草藥【Ｇ】 |
+| 13315 | G Protect・Status | 守護・状態【Ｇ】 |
+| 13316 | G Protect・Exploit | 守護・弱點特效【Ｇ】 |
+| 13317 | G Attack・Dissolve | 攻撃・溶解【Ｇ】 |
+| 13318 | G Attack・Blaze | 攻撃・炎【Ｇ】 |
+| 13320 | G Attack・Resist | 攻撃・抵抗【Ｇ】 |
+| 13321 | G Issen・Resist | 一閃・抵抗【Ｇ】 |
+| 13368 | G Issen・Vigor | 一閃・活力【Ｇ】 |
+| 13369 | G Issen・Rage | 一閃・憤怒【Ｇ】 |
 | 14064 | Storage Guide・Extreme | 倉庫指南・極 |
 | 14163 | 絢爛な七段・紺 | 絢爛七段・紺 |
 | 14164 | 絢爛な七段・桃 | 絢爛七段・桃 |
-| 14450 | G Issen・Protect | 一閃・守護Ｇ |
-| 14451 | G Strong・Worlds | 強靭・界Ｇ |
-| 14452 | G Bullet・Worlds | 彈・界Ｇ |
-| 14453 | G Flash・Clad | 閃光・纏Ｇ |
-| 14784 | G Break・Blade | 破壞・刃Ｇ |
-| 14785 | G Break・Gunner | 破壞・射手Ｇ |
-| 14786 | G Break・Protect | 破壞・守護Ｇ |
-| 14787 | G Attack・Style | 攻撃・流派Ｇ |
-| 14788 | G Attack・Sword | 攻撃・劍Ｇ |
-| 14789 | G Attack・Clad | 攻撃・纏Ｇ |
-| 14790 | G Attack・Rush | 攻撃・突進Ｇ |
-| 14791 | G Attack・Cease | 攻撃・制止Ｇ |
-| 14792 | G Attack・Realms | 攻撃・領域Ｇ |
-| 14793 | G Issen・Realms | 一閃・領域Ｇ |
+| 14450 | G Issen・Protect | 一閃・守護【Ｇ】 |
+| 14451 | G Strong・Worlds | 強靭・界【Ｇ】 |
+| 14452 | G Bullet・Worlds | 彈・界【Ｇ】 |
+| 14453 | G Flash・Clad | 閃光・纏【Ｇ】 |
+| 14784 | G Break・Blade | 破壞・刃【Ｇ】 |
+| 14785 | G Break・Gunner | 破壞・射手【Ｇ】 |
+| 14786 | G Break・Protect | 破壞・守護【Ｇ】 |
+| 14787 | G Attack・Style | 攻撃・流派【Ｇ】 |
+| 14788 | G Attack・Sword | 攻撃・劍【Ｇ】 |
+| 14789 | G Attack・Clad | 攻撃・纏【Ｇ】 |
+| 14790 | G Attack・Rush | 攻撃・突進【Ｇ】 |
+| 14791 | G Attack・Cease | 攻撃・制止【Ｇ】 |
+| 14792 | G Attack・Realms | 攻撃・領域【Ｇ】 |
+| 14793 | G Issen・Realms | 一閃・領域【Ｇ】 |
 | 14888 | Gesture・SAF Ⅰ | 姿勢・劍斧Ⅰ |
 | 14889 | Gesture・SAF Ⅱ | 姿勢・劍斧Ⅱ |
 | 14890 | Gesture・Dance Ⅱ | 姿勢・舞Ⅱ |
 | 14903 | 絢爛四季手箱・春 | 絢爛四季手箱・春 |
-| 14939 | G Abnorm・Vamp | 異常・吸血Ｇ |
-| 14940 | G Abnorm・Clad | 異常・纏Ｇ |
-| 14941 | G Abnorm・Draw | 異常・拔刀Ｇ |
-| 14942 | G Abnorm・Boost | 異常・強化Ｇ |
-| 14943 | G Abnorm・Obscure | 異常・幽晦Ｇ |
+| 14939 | G Abnorm・Vamp | 異常・吸血【Ｇ】 |
+| 14940 | G Abnorm・Clad | 異常・纏【Ｇ】 |
+| 14941 | G Abnorm・Draw | 異常・拔刀【Ｇ】 |
+| 14942 | G Abnorm・Boost | 異常・強化【Ｇ】 |
+| 14943 | G Abnorm・Obscure | 異常・幽晦【Ｇ】 |
 | 14988 | 白虎・砲皇功券 | 白虎・砲皇功券 |
 | 14989 | 白虎・鈍器獣功券 | 白虎・鈍器獸功券 |
 | 14990 | 白虎・奏帝功券 | 白虎・奏帝功券 |
@@ -124,12 +124,12 @@
 | 14992 | 白虎・斬将功券 | 白虎・斬将功券 |
 | 14993 | 白虎・銃傑功券 | 白虎・銃傑功券 |
 | 14994 | 白虎・銃仙功券 | 白虎・銃仙功券 |
-| 15090 | G Spacing・Draw | 間合・拔刀Ｇ |
-| 15091 | G Spacing・Vamp | 間合・吸血Ｇ |
-| 15092 | G Spacing・Mount | 間合・騎乘Ｇ |
-| 15093 | G Spacing・Gentle | 間合・柔Ｇ |
-| 15094 | G Spacing・Bullets | 間合・彈Ｇ |
-| 15095 | G Spacing・Steady | 間合・穏Ｇ |
+| 15090 | G Spacing・Draw | 間合・拔刀【Ｇ】 |
+| 15091 | G Spacing・Vamp | 間合・吸血【Ｇ】 |
+| 15092 | G Spacing・Mount | 間合・騎乘【Ｇ】 |
+| 15093 | G Spacing・Gentle | 間合・柔【Ｇ】 |
+| 15094 | G Spacing・Bullets | 間合・彈【Ｇ】 |
+| 15095 | G Spacing・Steady | 間合・穏【Ｇ】 |
 | 15163 | 旧・怪異譚【山】 | 旧・怪異譚【山】 |
 | 15164 | 旧・怪異譚【川】 | 旧・怪異譚【川】 |
 | 15165 | 旧・怪異譚【雲】 | 旧・怪異譚【雲】 |
@@ -141,7 +141,7 @@
 | 15214 | Gesture・Dance Ⅳ | 姿勢・舞Ⅳ |
 | 15215 | Gesture・Dance Ⅴ | 姿勢・舞Ⅴ |
 | 15216 | Gesture・Thanks | 姿勢・感謝 |
-| 15232 | G Abnorm・Protect | 異常・守護Ｇ |
+| 15232 | G Abnorm・Protect | 異常・守護【Ｇ】 |
 | 15266 | Storage Guide・Illusion | 倉庫指南・幻 |
 | 15401 | 玄武・鈍器獣功券 | 玄武・鈍器獸功券 |
 | 15402 | 玄武・奏帝功券 | 玄武・奏帝功券 |
@@ -158,35 +158,35 @@
 | 15518 | Gesture・Air Guitar | 姿勢・空中吉他 |
 | 15519 | Gesture・Janken | 姿勢・猜拳 |
 | 15520 | Gesture・Terror | 姿勢・恐怖 |
-| 15531 | G Furious・Health | 憤怒・體力Ｇ |
-| 15532 | G Furious・Clad | 憤怒・纏Ｇ |
-| 15533 | G Furious・Assault | 憤怒・強襲Ｇ |
-| 15534 | G Furious・Rush | 憤怒・突進Ｇ |
-| 15535 | G Furious・Blade | 憤怒・刃Ｇ |
-| 15536 | G Furious・Ranged | 憤怒・射撃Ｇ |
-| 15537 | G Issen・Cease | 一閃・制止Ｇ |
-| 15538 | G Attack・Vamp | 攻撃・吸血Ｇ |
-| 15539 | G Attack・Abnorm | 攻撃・異常Ｇ |
-| 15540 | G Attack・Suprem | 攻撃・至上Ｇ |
-| 15541 | G Attack・Ranged | 攻撃・射撃Ｇ |
-| 15554 | G Rolling・Curtain | 迴轉・幕Ｇ |
-| 15555 | G Strong・Technique | 強靭・技Ｇ |
-| 15556 | G Obscurity・Clad | 幽晦・纏Ｇ |
-| 15557 | G Spacing・Saver | 間合・節約Ｇ |
+| 15531 | G Furious・Health | 憤怒・體力【Ｇ】 |
+| 15532 | G Furious・Clad | 憤怒・纏【Ｇ】 |
+| 15533 | G Furious・Assault | 憤怒・強襲【Ｇ】 |
+| 15534 | G Furious・Rush | 憤怒・突進【Ｇ】 |
+| 15535 | G Furious・Blade | 憤怒・刃【Ｇ】 |
+| 15536 | G Furious・Ranged | 憤怒・射撃【Ｇ】 |
+| 15537 | G Issen・Cease | 一閃・制止【Ｇ】 |
+| 15538 | G Attack・Vamp | 攻撃・吸血【Ｇ】 |
+| 15539 | G Attack・Abnorm | 攻撃・異常【Ｇ】 |
+| 15540 | G Attack・Suprem | 攻撃・至上【Ｇ】 |
+| 15541 | G Attack・Ranged | 攻撃・射撃【Ｇ】 |
+| 15554 | G Rolling・Curtain | 迴轉・幕【Ｇ】 |
+| 15555 | G Strong・Technique | 強靭・技【Ｇ】 |
+| 15556 | G Obscurity・Clad | 幽晦・纏【Ｇ】 |
+| 15557 | G Spacing・Saver | 間合・節約【Ｇ】 |
 | 15562 | Highlands Diary・1 | 高地日記・１ |
 | 15563 | Highlands Diary・2 | 高地日記・２ |
-| 15863 | G Trained・Attack | 熟練・攻撃Ｇ |
-| 15864 | G Trained・Clad | 熟練・纏Ｇ |
-| 15865 | G Trained・Flash | 熟練・閃光Ｇ |
-| 15866 | G Trained・Ceaseless | 熟練・無尽Ｇ |
-| 15867 | G Trained・Sword | 熟練・劍Ｇ |
+| 15863 | G Trained・Attack | 熟練・攻撃【Ｇ】 |
+| 15864 | G Trained・Clad | 熟練・纏【Ｇ】 |
+| 15865 | G Trained・Flash | 熟練・閃光【Ｇ】 |
+| 15866 | G Trained・Ceaseless | 熟練・無盡【Ｇ】 |
+| 15867 | G Trained・Sword | 熟練・劍【Ｇ】 |
 | 16200 | Hammer・Basic | 大錘・基本 |
 | 16201 | Hammer・G | 大錘Ｇ |
 | 16202 | Hammer・S. Attack | 大錘・強攻撃 |
 | 16203 | Hammer・Issen | 大錘・一閃 |
 | 16204 | Hammer・Charge Up | 大錘・蓄力強化 |
 | 16205 | Hammer・Thunder Cld | 大錘・雷雲 |
-| 16206 | Hammer・Ceaseless | 大錘・無尽 |
+| 16206 | Hammer・Ceaseless | 大錘・無盡 |
 | 16207 | Hammer・Rush | 大錘・突進 |
 | 16208 | Hammer・Furious | 大錘・憤怒 |
 | 16209 | Hammer・Point Break | 大錘・點破 |
@@ -196,7 +196,7 @@
 | 16223 | Lance・Issen | 長槍・一閃 |
 | 16224 | Lance・Frtfctn | 長槍・要塞 |
 | 16225 | Lance・Obscurity | 長槍・幽晦 |
-| 16226 | Lance・Ceaseless | 長槍・無尽 |
+| 16226 | Lance・Ceaseless | 長槍・無盡 |
 | 16227 | Lance・Rush | 長槍・突進 |
 | 16228 | Lance・Furious | 長槍・憤怒 |
 | 16229 | Lance・Reflect | 長槍・反射 |
@@ -206,7 +206,7 @@
 | 16293 | Bow・Issen | 弓・一閃 |
 | 16294 | Bow・Sniper | 弓・狙撃 |
 | 16295 | Bow・Lavish Attack | 弓・豪攻撃 |
-| 16296 | Bow・Ceaseless | 弓・無尽 |
+| 16296 | Bow・Ceaseless | 弓・無盡 |
 | 16297 | Bow・Rush | 弓・突進 |
 | 16298 | Bow・Furious | 弓・憤怒 |
 | 16299 | Bow・Spacing | 弓・間合 |
