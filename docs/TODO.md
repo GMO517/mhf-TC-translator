@@ -22,7 +22,8 @@
 - [x] 安裝 Python 3.12 + FrontierTextHandler 於 `tools/`（已驗證 `mhfsqd.bin`）
 - [ ] （可選）安裝 ReFrontier
 - [ ] 確認 game-version／fingerprint 與 CT4.1 相符
-- [ ] **未改動 round-trip**：抽出 → 原樣回寫壓縮加密 → smoke（不過關不進翻譯）
+- [x] **未改動 round-trip（離線）**：MVP 6 個 xpath 抽出→原樣回寫→字串／雜湊一致（見 `l10n/roundtrip/RESULT.md`）
+- [ ] **round-trip 進遊戲 smoke**（可選補強；離線已 PASS）
 
 ## Phase 0.5 — 字型硬閘門（下一個硬前置）
 
