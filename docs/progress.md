@@ -19,7 +19,7 @@
 
 - path: l10n/working/csv/dat-items-name.csv
   status: in_progress
-  notes: "skill-cuffs 等已 delta；misc/kits/monster-rest/remainder 2026-10-04 審計後 delta"
+  notes: "all-rest C 區語意重分類後 CSV 已第一輪對齊（changed=142）；殘譯第二輪未做；未整批回寫本體"
 
 ### subclasses（語意，非流水號）
 
@@ -36,7 +36,11 @@
 - kits: qa_done → issues/items-name__kits.md；review→`archive/items-name/`；batch n=45
 - monster-rest: qa_done → issues/items-name__monster-rest.md；review→`archive/items-name/`；batch n=438
 - misc: qa_done → issues/items-name__misc.md；review→`archive/items-name/`；batch n=199
-- all-rest 拆分: in_progress → `issues/items-name/`；已 qa_done 9 檔（info／bond-map／chunks／coin-medal／collectible／companion／consumable-like／cuff-base／dot-series；CSV 已對齊、**未整批回寫**）；待審 25 檔
+- all-rest 拆分: in_progress → `issues/items-name/all-rest/`（**29** 檔／**5450** 筆）
+  - A＋B 已標 qa_done：**18** 檔／**2492** 筆（B 5 檔已補標）
+  - C 已語意重分類＋殘譯清零：**11** 檔／**2958** 筆；CSV 已對齊
+  - **下一動**：整批回寫本體（待明示；勿自行 finish_batch）
+  - 詳見 `issues/items-name/README.md`；舊切片→`all-rest/_deprecated_index_split/`
 
 ---
 

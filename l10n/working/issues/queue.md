@@ -18,13 +18,17 @@
 | CATEGORY | issue |
 |---|---|
 | beads-info / seals-jebia | 見既有 stub；勿重翻 |
-| items-name／原 all-rest 拆分（待審） | 清單：`issues/items-name/README.md`（待審 25 檔）；已處理 9 檔見下表 |
+| items-name／原 all-rest 拆分 | 現況：`issues/items-name/README.md`（29 檔／5450；語意重分類＋殘譯已清；**未整批回寫**） |
 
-## all-rest 已處理（qa_done・尚未整批回寫）
+## all-rest 現況（2026-10-04 晚・尚未整批回寫）
 
-| 子類 | review |
+| 區 | 內容 |
 |---|---|
-| allrest-info／bond-map／chunks-shards／coin-medal／collectible／companion／consumable-like／cuff-base／dot-series | `issues/items-name/all-rest/review-*.md`（檔內已註 `qa_done`） |
+| A＋B 已標 qa_done（18／2492） | 原 A13＋B5（B 已補標：dummy／equip／gather／gem／jp-src-mid） |
+| C→語意新檔（11／2958） | armor-bm-gn／weapon-soul／monster-mat／raw-mat／seal-mark／proof／song／skill-related／permit／otoshidama／misc-rest |
+| 已完成 | 背景清除；B 補標；C 語意重分；殘譯清零；CSV 已對齊 |
+| 未完成 | 整批回寫本體（待明示） |
+| 舊檔 | `all-rest/_deprecated_index_split/`（原 16 檔切片等） |
 
 ## 處理完（qa_done）
 
