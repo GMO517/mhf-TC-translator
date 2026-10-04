@@ -35,6 +35,27 @@
     "categories": ["ui"]
   },
   {
+    "id": "armors-arms",
+    "xpath": "dat/armors/arms",
+    "bin": "mhfdat.bin",
+    "extracted": "dat-armors-arms.csv",
+    "categories": ["ui"]
+  },
+  {
+    "id": "armors-waist",
+    "xpath": "dat/armors/waist",
+    "bin": "mhfdat.bin",
+    "extracted": "dat-armors-waist.csv",
+    "categories": ["ui"]
+  },
+  {
+    "id": "armors-legs",
+    "xpath": "dat/armors/legs",
+    "bin": "mhfdat.bin",
+    "extracted": "dat-armors-legs.csv",
+    "categories": ["ui"]
+  },
+  {
     "id": "monsters-description",
     "xpath": "dat/monsters/description",
     "bin": "mhfdat.bin",

@@ -1,0 +1,134 @@
+{
+  "section_id": "armors-waist",
+  "label": "remain-manual-waist",
+  "translations": [
+    {
+      "index": "6900",
+      "target": "ＶＭ裝 ＦＺ"
+    },
+    {
+      "index": "6901",
+      "target": "ＶＭ裝 ＨＳ"
+    },
+    {
+      "index": "6902",
+      "target": "ＶＭ裝 ＧＳ"
+    },
+    {
+      "index": "6903",
+      "target": "ＶＭ裝 ＧＰ"
+    },
+    {
+      "index": "9403",
+      "target": "Ｇ腰甲"
+    },
+    {
+      "index": "9404",
+      "target": "ＧＦ腰甲"
+    },
+    {
+      "index": "9405",
+      "target": "ＧＸ腰甲"
+    },
+    {
+      "index": "9406",
+      "target": "Ｇ腰衣"
+    },
+    {
+      "index": "9407",
+      "target": "ＧＦ腰衣"
+    },
+    {
+      "index": "9408",
+      "target": "ＧＸ腰衣"
+    },
+    {
+      "index": "11018",
+      "target": "ＧＸ腰甲"
+    },
+    {
+      "index": "11019",
+      "target": "ＧＸ腰甲"
+    },
+    {
+      "index": "11175",
+      "target": "線圈"
+    },
+    {
+      "index": "11176",
+      "target": "F腰甲"
+    },
+    {
+      "index": "11177",
+      "target": "ＦＺ腰甲"
+    },
+    {
+      "index": "11178",
+      "target": "ＨＳ腰甲"
+    },
+    {
+      "index": "11179",
+      "target": "大劍腰甲"
+    },
+    {
+      "index": "11180",
+      "target": "ＧＰ腰甲"
+    },
+    {
+      "index": "11181",
+      "target": "ＺＰ腰甲"
+    },
+    {
+      "index": "11182",
+      "target": "外套"
+    },
+    {
+      "index": "11183",
+      "target": "F腰衣"
+    },
+    {
+      "index": "11184",
+      "target": "ＦＺ腰衣"
+    },
+    {
+      "index": "11185",
+      "target": "ＨＳ腰衣"
+    },
+    {
+      "index": "11186",
+      "target": "大劍腰衣"
+    },
+    {
+      "index": "11187",
+      "target": "ＧＰ腰衣"
+    },
+    {
+      "index": "11188",
+      "target": "ＺＰ腰衣"
+    },
+    {
+      "index": "11315",
+      "target": "Ｄ腰甲"
+    },
+    {
+      "index": "11817",
+      "target": "Ｄ腰甲"
+    },
+    {
+      "index": "11818",
+      "target": "Ｄ腰甲"
+    },
+    {
+      "index": "12027",
+      "target": "滾流腰Ｄ"
+    },
+    {
+      "index": "12028",
+      "target": "滾空腰Ｄ"
+    },
+    {
+      "index": "12118",
+      "target": "ＶＭ裝 ＺＰ"
+    }
+  ]
+}

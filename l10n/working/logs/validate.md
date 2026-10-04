@@ -1,6 +1,6 @@
 # working 驗證報告
 
-- `items-name`：PASS
+- `monsters-description`：PASS
 
 ## 錯誤
 

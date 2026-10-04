@@ -1,0 +1,34 @@
+{
+  "section_id": "armors-waist",
+  "label": "vm-equipment-fix",
+  "translations": [
+    {
+      "index": "6898",
+      "target": "ＶＭ裝腰甲"
+    },
+    {
+      "index": "6899",
+      "target": "ＶＭ裝Ｆ腰甲"
+    },
+    {
+      "index": "6900",
+      "target": "ＶＭ裝ＦＺ腰甲"
+    },
+    {
+      "index": "6901",
+      "target": "ＶＭ裝ＨＳ腰甲"
+    },
+    {
+      "index": "6902",
+      "target": "ＶＭ裝ＧＳ腰甲"
+    },
+    {
+      "index": "6903",
+      "target": "ＶＭ裝ＧＰ腰甲"
+    },
+    {
+      "index": "12118",
+      "target": "ＶＭ裝ＺＰ腰甲"
+    }
+  ]
+}

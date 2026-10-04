@@ -95,23 +95,31 @@
 
 ---
 
-## armors-arm / armors-waist / armors-leg
+## armors-arms / armors-waist / armors-legs
 
-- status: pending
-- notes: "sections.json 尚未列入；extracted/working CSV 未建。待抽表後接 head 管線。"
+- status: translated
+- notes: "2026-10-04 抽出＋層次 B 清零；validate PASS；all-changed 回寫（arms 13443／waist 13699／legs 13480）。review 抽樣見 issues/armors/。"
 
 ### files
 
-- path: l10n/working/csv/（dat-armors-arm 等）
-  status: pending
-  notes: ""
+- path: l10n/working/csv/dat-armors-arms.csv
+  status: translated
+  notes: "needs_rework=0"
+
+- path: l10n/working/csv/dat-armors-waist.csv
+  status: translated
+  notes: "needs_rework=0"
+
+- path: l10n/working/csv/dat-armors-legs.csv
+  status: translated
+  notes: "needs_rework=0"
 
 ---
 
 ## monsters-description
 
-- status: pending
-- notes: "已抽出；Gate3 層次 B 較後；長文語感樣本後整類推進"
+- status: translated
+- notes: "2026-10-04 圖鑑說明 142 全譯；validate PASS；delta 139 回寫；review→issues/monsters/。"
 
 ### files
 
@@ -119,6 +127,6 @@
   status: translated
   notes: "抽出完成"
 
-- path: l10n/working/csv/（對應 monsters description）
-  status: pending
-  notes: ""
+- path: l10n/working/csv/dat-monsters-description.csv
+  status: translated
+  notes: "still_need=0"

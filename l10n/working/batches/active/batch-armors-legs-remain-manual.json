@@ -1,0 +1,90 @@
+{
+  "section_id": "armors-legs",
+  "label": "remain-manual-legs",
+  "translations": [
+    {
+      "index": "1158",
+      "target": "霸龍足ＳＰ黑"
+    },
+    {
+      "index": "1159",
+      "target": "霸龍足ＳＰ赤"
+    },
+    {
+      "index": "1160",
+      "target": "霸龍足ＳＰ白"
+    },
+    {
+      "index": "10976",
+      "target": "足"
+    },
+    {
+      "index": "10977",
+      "target": "F足"
+    },
+    {
+      "index": "10978",
+      "target": "ＦＺ足"
+    },
+    {
+      "index": "10979",
+      "target": "ＨＳ足"
+    },
+    {
+      "index": "10980",
+      "target": "大劍足"
+    },
+    {
+      "index": "10981",
+      "target": "ＧＰ足"
+    },
+    {
+      "index": "10982",
+      "target": "ＺＰ足"
+    },
+    {
+      "index": "10983",
+      "target": "靴"
+    },
+    {
+      "index": "10984",
+      "target": "F靴"
+    },
+    {
+      "index": "10985",
+      "target": "ＦＺ靴"
+    },
+    {
+      "index": "10986",
+      "target": "ＨＳ靴"
+    },
+    {
+      "index": "10987",
+      "target": "大劍靴"
+    },
+    {
+      "index": "10988",
+      "target": "ＧＰ靴"
+    },
+    {
+      "index": "10989",
+      "target": "ＺＰ靴"
+    },
+    {
+      "index": "11116",
+      "target": "Ｄ足"
+    },
+    {
+      "index": "12321",
+      "target": "霸龍足ＰＤ黑"
+    },
+    {
+      "index": "12322",
+      "target": "霸龍足ＰＤ赤"
+    },
+    {
+      "index": "12323",
+      "target": "霸龍足ＰＤ白"
+    }
+  ]
+}

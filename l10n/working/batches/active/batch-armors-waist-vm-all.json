@@ -1,0 +1,38 @@
+{
+  "section_id": "armors-waist",
+  "label": "vm-all",
+  "translations": [
+    {
+      "index": "6892",
+      "target": "ＶＭ裝腰甲"
+    },
+    {
+      "index": "6893",
+      "target": "ＶＭ裝Ｆ腰甲"
+    },
+    {
+      "index": "6894",
+      "target": "ＶＭ裝ＦＺ腰甲"
+    },
+    {
+      "index": "6895",
+      "target": "ＶＭ裝ＨＳ腰甲"
+    },
+    {
+      "index": "6896",
+      "target": "ＶＭ裝ＧＳ腰甲"
+    },
+    {
+      "index": "6897",
+      "target": "ＶＭ裝ＧＰ腰甲"
+    },
+    {
+      "index": "12117",
+      "target": "ＶＭ裝ＺＰ腰甲"
+    },
+    {
+      "index": "12193",
+      "target": "ＶＭ裝Ｄ腰甲"
+    }
+  ]
+}

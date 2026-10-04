@@ -65,8 +65,8 @@
 - [~] 按循環執行（層次 A 詞庫命中已回寫本體 → 層次 B：未入庫列）
 - [x] working 管線腳本（apply／validate／writeback／batch；CSV 無 BOM）
 - [x] 層次 A 回寫：items／melee／ranged／head／body（FTH 產物為 `*-modified.bin`）
-- [~] 層次 B：**依子類整段推進**（禁流水切片；待審見 `working/issues/queue.md`）  
-  - 道具：珠／情報／印記待 QA；票券 finish_batch（PENDING 待定稿）；消耗品 n=216；**playbook 已瘦身對齊核心目標**（待 commit）  
+- [x] 層次 B：**已登錄 section 清完**（items／weapons／armors 五部位／monsters-description；待審見 `working/issues/queue.md`）  
+  - 殘 stub：beads／seals 待獨立 QA（勿重翻）  
   - 一覽：`working/catalogs/ITEMS-TRANSLATED.md`
 - [ ] 私服進遊戲驗收
 

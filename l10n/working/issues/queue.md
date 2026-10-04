@@ -9,15 +9,15 @@
 
 | CATEGORY | 進度 | 批次產物 | 下一筆 |
 |---|---|---|---|
-| items-name／殘留 | done | `scratch/review_quality_audit.json` | misc/remainder/kits review kata/still_en=0；validate PASS |
-| weapons-melee-name／層次 B | done | jp-kata 49＋fix 68＋manual 67 | needs_rework=0；ok=16825；validate PASS |
-| weapons-ranged-name | done | jp-kata 29＋manual 21 | needs_rework=0；ok=4223；validate PASS |
+| （Gate3 已登錄 section 層次 B） | done | arms／waist／legs／monsters-description | 待人審抽樣；Gate4 另開 |
 
 ## 待獨立 QA
 
 | CATEGORY | issue |
 |---|---|
 | beads-info / seals-jebia | 見既有 stub；勿重翻 |
+| armors-arms／waist／legs | `issues/armors/review-armors-*.md`（抽樣 120） |
+| monsters-description | `issues/monsters/review-monsters-description.md` |
 
 ## 處理完（qa_done）
 
