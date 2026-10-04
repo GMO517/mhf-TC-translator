@@ -906,5 +906,109 @@
 - Jebia＝灰晶蠍（詞庫／台服 wiki）；血晶石・輝晶石・大顎依 wiki｜`batch-items-jebia-marks` #1217～1226  
 - Pioneer Mark＝先駆者の証（gorillawiki）；体液系血色沿用尾晶蠍白血／黄血形｜`batch-items-jebia-marks`  
 - 1周年*票＝日文「1周年生産券・*」縮為票｜`batch-items-jebia-marks` #1233～1237  
-- 票券：本批僅納入緊接 8 筆；**票券未完**（後表大量 Ticket 另案）｜`batch-items-jebia-marks`  
+- 票券：本批僅納入緊接 8 筆；後續見 `batch-items-tickets-a`｜`batch-items-jebia-marks`  
+
+## 生產／防具票券Ａ（`batch-items-tickets-a`）
+
+> 未譯定義：`target==source`。第一筆未譯 Ticket／Tkt 為 #1460（#1238～1459 非票券列，本批未動）。  
+> 實譯 **140**＋dummy **123**（#1460～2003）；validate `items-name` PASS。下一未譯票券 **#2004 BP４ Tkt・５**。**票券未完**（尚約 2380+）。
+
+| index | source | 顯示形 |
+|---|---|---|
+| 1460 | Crystal Lance Tkt | 水晶槍票 |
+| 1461 | P Head Tkt | Ｐ頭票 |
+| 1462 | P Mail Tkt | Ｐ胴票 |
+| 1463 | P Arm Tkt | Ｐ腕票 |
+| 1464 | P Tasset Tkt | Ｐ腰票 |
+| 1465 | P Boot Tkt | Ｐ脚票 |
+| 1466 | F.D.Furniture Tkt | 火龍家具票 |
+| 1520 | Festi Ticket | 祭票 |
+| 1532 | E-Edge Ticket | Ｅ-Edge票 |
+| 1533 | Star Festi Ticket | 星祭票 |
+| 1534 | Weaver Festi Tkt | 七夕票 |
+| 1535 | N Head Tkt | Ｎ頭票 |
+| 1543 | Poison DefenceTkt | 毒耐性票 |
+| 1544 | Sleep Defence Tkt | 睡眠耐性票 |
+| 1545 | Para Defence Tkt | 麻痺耐性票 |
+| 1546 | Guts Ticket | 根性票 |
+| 1610 | Quest Complete Tkt | 任務達成票 |
+| 1612 | VS. Ticket | ＶＳ．票 |
+| 1614 | D Rapier Tkt | Ｄ細劍票 |
+| 1615 | W Rapier Tkt | Ｗ細劍票 |
+| 1616 | Solid Tkt | 固態票 |
+| 1617 | Solid+ Tkt | 固態改票 |
+| 1618 | C Materi Tkt | Ｃ・原質票 |
+| 1619 | Liquid Tkt | 液態票 |
+| 1620 | Liquid+ Tkt | 液態改票 |
+| 1621 | C Element Tkt | Ｃ・原素票 |
+| 1622 | Lien Head Tkt | 羈絆頭票 |
+| 1623 | Lien Chest Tkt | 羈絆胴票 |
+| 1624 | Lien Arms Tkt | 羈絆腕票 |
+| 1625 | Lien Waist Tkt | 羈絆腰票 |
+| 1626 | Lien Legs Tkt | 羈絆脚票 |
+| 1627 | Para Ticket Ⅰ | ＰＡＲＡ票Ⅰ |
+| 1628 | Para Ticket Ⅱ | ＰＡＲＡ票Ⅱ |
+| 1629 | Para Ticket Ⅲ | ＰＡＲＡ票Ⅲ |
+| 1630 | HL Tkt | ＨＬ票 |
+| 1631 | EX Tkt | ＥＸ票 |
+| 1632 | CA Tkt | ＣＡ票 |
+| 1633 | Unapell Ticket | ユナペル票 |
+| 1644–1651 | ＢＰ Ticket [１]～[８] | ＢＰ票【１】～【８】 |
+| 1662 | Goushu Ticket | 剛種票 |
+| 1679 | My Tore Ticket | マイトレ票 |
+| 1691 | Event Assist Tkt | 活動補助票 |
+| 1707 | Khezu L Tkt | 電龍Ｌ票 |
+| 1708 | M Creek Tkt | Ｍクリーク票 |
+| 1709 | B Marsh Tkt | Ｂマルシュ票 |
+| 1710 | Berserker Swrd Tkt | 狂戦士劍票 |
+| 1711 | Crystal Swrd Tkt | 水晶劍票 |
+| 1713 | Squale Tkt | スクアーレ票 |
+| 1714 | Katze Tkt | カッツェ票 |
+| 1715 | Volpe Tkt | ヴォルペ票 |
+| 1718–1722 | Alma Tkt * | 軍風頭／胴／腕／腰／脚票 |
+| 1723–1727 | Wh.Neko Tkt * | 白猫頭／胴／腕／腰／脚票 |
+| 1732–1736 | Cabal Tkt・* | カバル票・白／黒／赤／青／黄 |
+| 1737 | DL Tkt | ＤＬ票 |
+| 1745–1752 | BP２ Tkt・１～８ | ＢＰ２票・１～８ |
+| 1753–1757 | ＴＰ Tkt・１～５ | ＴＰ票・１～５ |
+| 1759 | G Scimitar Tkt | Ｇ彎刀票 |
+| 1760 | F Berge Tkt | Ｆ波形劍票 |
+| 1761 | R.Crystal Tkt | 紅水晶票 |
+| 1762 | P.Crystal Tkt | 紫水晶票 |
+| 1763 | Seram Z Tkt | 花語Ｚ票 |
+| 1764 | Aizen Z Tkt | 黒鐵Ｚ票 |
+| 1765 | Seram V Tkt | セラムＶ票 |
+| 1766 | Aizen V Tkt | 鋼鐵Ｖ票 |
+| 1767 | Anteka H Tkt | 雪鹿Ｈ票 |
+| 1769–1773 | X Tkt * | 仙女頭／胴／腕／腰／脚票 |
+| 1776–1780 | Metal Tkt * | 白合金頭／胴／腕／腰／脚票 |
+| 1781／1806／1807 | Xmas Tree* Tkt | 聖誕樹上／中／下票 |
+| 1809–1816 | BP３ Tkt・１～８ | ＢＰ３票・１～８ |
+| 1819 | Gilino A Tkt | 黒音符Ａ票 |
+| 1820 | Tetare A Tkt | 白音符Ａ票 |
+| 1821 | Felyne K Tkt | 艾路Ｋ票 |
+| 1822 | Melynx K Tkt | 梅拉路Ｋ票 |
+| 1826 | Crown Tkt | 鑽冠票 |
+| 1827 | Pavilion Tkt | 鑽底票 |
+| 1828 | Pad S Tkt | 防守短劍Ｓ票 |
+| 1829 | Tail S Tkt | 捲尾Ｓ票 |
+| 1830–1831 | D／L Parize Tkt | Ｄ／Ｌ麻痺票 |
+| 1832 | N Ant Tkt | Ｎ之蟻票 |
+| 1833–1834 | D／L Poison Tkt | Ｄ／Ｌ毒藥票 |
+| 1835 | N Vespa Tkt | Ｎ黄蜂票 |
+| 1841–1845 | Real Tkt * | 皇室頭／胴／腕／腰／脚票 |
+| 1859 | VISA Ticket | ＶＩＳＡ票 |
+| 2000–2003 | BP４ Tkt・１～４ | ＢＰ４票・１～４ |
+
+- Ticket／Tkt／生産券 → 統一縮「票」；部位頭／胴／腕／腰／脚（不用台服「身／腳」）｜`batch-items-tickets-a`  
+- Lien＝羈絆（台服 wiki／西班牙語義）；Alma＝軍風；X／イクス＝仙女；Metal＝白合金｜台服特典生產券表  
+- Solid／Liquid：台服 wiki 誤對調固態／液態 → **依英日語義**作固態／液態｜#1616～1620  
+- 朵缺：セラムＶ票（理想「花朵Ｖ」）｜Seram V｜#1765  
+- 銳缺：Ｅ-Edge票（沿用 S-Edge 形；理想「Ｅ鋭劍」）｜E-Edge｜#1532  
+- 猫：白猫*票（貓缺）｜Wh.Neko｜#1723～1727  
+- 黄：カバル票・黄／Ｎ黄蜂票｜Cabal Ylw／N Vespa｜#1736／#1835  
+- 黒：カバル票・黒／黒鐵Ｚ／黒音符Ａ｜#1733／#1764／#1819  
+- ユナペル／カバル／スクアーレ／カッツェ／ヴォルペ／マイトレ／Ｍクリーク／Ｂマルシュ：wiki 無穩繁中或專有片假名 → 保留｜#1633 等  
+- ＶＩＳＡ：聯名卡特典票，專有名詞保留全形｜#1859  
+- **票券未完**：下一 #2004 BP４ Tkt・５｜`batch-items-tickets-a`  
 

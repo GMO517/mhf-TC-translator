@@ -1,0 +1,1058 @@
+{
+  "section_id": "items-name",
+  "label": "生產／防具票券（Ticket／Tkt）續段Ａ",
+  "translations": [
+    {
+      "index": "1460",
+      "target": "水晶槍票"
+    },
+    {
+      "index": "1461",
+      "target": "Ｐ頭票"
+    },
+    {
+      "index": "1462",
+      "target": "Ｐ胴票"
+    },
+    {
+      "index": "1463",
+      "target": "Ｐ腕票"
+    },
+    {
+      "index": "1464",
+      "target": "Ｐ腰票"
+    },
+    {
+      "index": "1465",
+      "target": "Ｐ脚票"
+    },
+    {
+      "index": "1466",
+      "target": "火龍家具票"
+    },
+    {
+      "index": "1520",
+      "target": "祭票"
+    },
+    {
+      "index": "1532",
+      "target": "Ｅ-Edge票"
+    },
+    {
+      "index": "1533",
+      "target": "星祭票"
+    },
+    {
+      "index": "1534",
+      "target": "七夕票"
+    },
+    {
+      "index": "1535",
+      "target": "Ｎ頭票"
+    },
+    {
+      "index": "1543",
+      "target": "毒耐性票"
+    },
+    {
+      "index": "1544",
+      "target": "睡眠耐性票"
+    },
+    {
+      "index": "1545",
+      "target": "麻痺耐性票"
+    },
+    {
+      "index": "1546",
+      "target": "根性票"
+    },
+    {
+      "index": "1559",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1560",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1561",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1562",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1563",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1564",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1565",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1566",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1567",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1568",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1569",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1570",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1571",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1572",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1573",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1574",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1575",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1576",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1577",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1590",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1591",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1592",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1593",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1594",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1605",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1606",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1607",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1608",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1609",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1610",
+      "target": "任務達成票"
+    },
+    {
+      "index": "1612",
+      "target": "ＶＳ．票"
+    },
+    {
+      "index": "1614",
+      "target": "Ｄ細劍票"
+    },
+    {
+      "index": "1615",
+      "target": "Ｗ細劍票"
+    },
+    {
+      "index": "1616",
+      "target": "固態票"
+    },
+    {
+      "index": "1617",
+      "target": "固態改票"
+    },
+    {
+      "index": "1618",
+      "target": "Ｃ・原質票"
+    },
+    {
+      "index": "1619",
+      "target": "液態票"
+    },
+    {
+      "index": "1620",
+      "target": "液態改票"
+    },
+    {
+      "index": "1621",
+      "target": "Ｃ・原素票"
+    },
+    {
+      "index": "1622",
+      "target": "羈絆頭票"
+    },
+    {
+      "index": "1623",
+      "target": "羈絆胴票"
+    },
+    {
+      "index": "1624",
+      "target": "羈絆腕票"
+    },
+    {
+      "index": "1625",
+      "target": "羈絆腰票"
+    },
+    {
+      "index": "1626",
+      "target": "羈絆脚票"
+    },
+    {
+      "index": "1627",
+      "target": "ＰＡＲＡ票Ⅰ"
+    },
+    {
+      "index": "1628",
+      "target": "ＰＡＲＡ票Ⅱ"
+    },
+    {
+      "index": "1629",
+      "target": "ＰＡＲＡ票Ⅲ"
+    },
+    {
+      "index": "1630",
+      "target": "ＨＬ票"
+    },
+    {
+      "index": "1631",
+      "target": "ＥＸ票"
+    },
+    {
+      "index": "1632",
+      "target": "ＣＡ票"
+    },
+    {
+      "index": "1633",
+      "target": "ユナペル票"
+    },
+    {
+      "index": "1644",
+      "target": "ＢＰ票【１】"
+    },
+    {
+      "index": "1645",
+      "target": "ＢＰ票【２】"
+    },
+    {
+      "index": "1646",
+      "target": "ＢＰ票【３】"
+    },
+    {
+      "index": "1647",
+      "target": "ＢＰ票【４】"
+    },
+    {
+      "index": "1648",
+      "target": "ＢＰ票【５】"
+    },
+    {
+      "index": "1649",
+      "target": "ＢＰ票【６】"
+    },
+    {
+      "index": "1650",
+      "target": "ＢＰ票【７】"
+    },
+    {
+      "index": "1651",
+      "target": "ＢＰ票【８】"
+    },
+    {
+      "index": "1662",
+      "target": "剛種票"
+    },
+    {
+      "index": "1679",
+      "target": "マイトレ票"
+    },
+    {
+      "index": "1691",
+      "target": "活動補助票"
+    },
+    {
+      "index": "1700",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1707",
+      "target": "電龍Ｌ票"
+    },
+    {
+      "index": "1708",
+      "target": "Ｍクリーク票"
+    },
+    {
+      "index": "1709",
+      "target": "Ｂマルシュ票"
+    },
+    {
+      "index": "1710",
+      "target": "狂戦士劍票"
+    },
+    {
+      "index": "1711",
+      "target": "水晶劍票"
+    },
+    {
+      "index": "1712",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1713",
+      "target": "スクアーレ票"
+    },
+    {
+      "index": "1714",
+      "target": "カッツェ票"
+    },
+    {
+      "index": "1715",
+      "target": "ヴォルペ票"
+    },
+    {
+      "index": "1718",
+      "target": "軍風頭票"
+    },
+    {
+      "index": "1719",
+      "target": "軍風胴票"
+    },
+    {
+      "index": "1720",
+      "target": "軍風腕票"
+    },
+    {
+      "index": "1721",
+      "target": "軍風腰票"
+    },
+    {
+      "index": "1722",
+      "target": "軍風脚票"
+    },
+    {
+      "index": "1723",
+      "target": "白猫頭票"
+    },
+    {
+      "index": "1724",
+      "target": "白猫胴票"
+    },
+    {
+      "index": "1725",
+      "target": "白猫腕票"
+    },
+    {
+      "index": "1726",
+      "target": "白猫腰票"
+    },
+    {
+      "index": "1727",
+      "target": "白猫脚票"
+    },
+    {
+      "index": "1732",
+      "target": "カバル票・白"
+    },
+    {
+      "index": "1733",
+      "target": "カバル票・黒"
+    },
+    {
+      "index": "1734",
+      "target": "カバル票・赤"
+    },
+    {
+      "index": "1735",
+      "target": "カバル票・青"
+    },
+    {
+      "index": "1736",
+      "target": "カバル票・黄"
+    },
+    {
+      "index": "1737",
+      "target": "ＤＬ票"
+    },
+    {
+      "index": "1745",
+      "target": "ＢＰ２票・１"
+    },
+    {
+      "index": "1746",
+      "target": "ＢＰ２票・２"
+    },
+    {
+      "index": "1747",
+      "target": "ＢＰ２票・３"
+    },
+    {
+      "index": "1748",
+      "target": "ＢＰ２票・４"
+    },
+    {
+      "index": "1749",
+      "target": "ＢＰ２票・５"
+    },
+    {
+      "index": "1750",
+      "target": "ＢＰ２票・６"
+    },
+    {
+      "index": "1751",
+      "target": "ＢＰ２票・７"
+    },
+    {
+      "index": "1752",
+      "target": "ＢＰ２票・８"
+    },
+    {
+      "index": "1753",
+      "target": "ＴＰ票・１"
+    },
+    {
+      "index": "1754",
+      "target": "ＴＰ票・２"
+    },
+    {
+      "index": "1755",
+      "target": "ＴＰ票・３"
+    },
+    {
+      "index": "1756",
+      "target": "ＴＰ票・４"
+    },
+    {
+      "index": "1757",
+      "target": "ＴＰ票・５"
+    },
+    {
+      "index": "1759",
+      "target": "Ｇ彎刀票"
+    },
+    {
+      "index": "1760",
+      "target": "Ｆ波形劍票"
+    },
+    {
+      "index": "1761",
+      "target": "紅水晶票"
+    },
+    {
+      "index": "1762",
+      "target": "紫水晶票"
+    },
+    {
+      "index": "1763",
+      "target": "花語Ｚ票"
+    },
+    {
+      "index": "1764",
+      "target": "黒鐵Ｚ票"
+    },
+    {
+      "index": "1765",
+      "target": "セラムＶ票"
+    },
+    {
+      "index": "1766",
+      "target": "鋼鐵Ｖ票"
+    },
+    {
+      "index": "1767",
+      "target": "雪鹿Ｈ票"
+    },
+    {
+      "index": "1769",
+      "target": "仙女頭票"
+    },
+    {
+      "index": "1770",
+      "target": "仙女胴票"
+    },
+    {
+      "index": "1771",
+      "target": "仙女腕票"
+    },
+    {
+      "index": "1772",
+      "target": "仙女腰票"
+    },
+    {
+      "index": "1773",
+      "target": "仙女脚票"
+    },
+    {
+      "index": "1776",
+      "target": "白合金頭票"
+    },
+    {
+      "index": "1777",
+      "target": "白合金胴票"
+    },
+    {
+      "index": "1778",
+      "target": "白合金腕票"
+    },
+    {
+      "index": "1779",
+      "target": "白合金腰票"
+    },
+    {
+      "index": "1780",
+      "target": "白合金脚票"
+    },
+    {
+      "index": "1781",
+      "target": "聖誕樹上票"
+    },
+    {
+      "index": "1806",
+      "target": "聖誕樹中票"
+    },
+    {
+      "index": "1807",
+      "target": "聖誕樹下票"
+    },
+    {
+      "index": "1809",
+      "target": "ＢＰ３票・１"
+    },
+    {
+      "index": "1810",
+      "target": "ＢＰ３票・２"
+    },
+    {
+      "index": "1811",
+      "target": "ＢＰ３票・３"
+    },
+    {
+      "index": "1812",
+      "target": "ＢＰ３票・４"
+    },
+    {
+      "index": "1813",
+      "target": "ＢＰ３票・５"
+    },
+    {
+      "index": "1814",
+      "target": "ＢＰ３票・６"
+    },
+    {
+      "index": "1815",
+      "target": "ＢＰ３票・７"
+    },
+    {
+      "index": "1816",
+      "target": "ＢＰ３票・８"
+    },
+    {
+      "index": "1819",
+      "target": "黒音符Ａ票"
+    },
+    {
+      "index": "1820",
+      "target": "白音符Ａ票"
+    },
+    {
+      "index": "1821",
+      "target": "艾路Ｋ票"
+    },
+    {
+      "index": "1822",
+      "target": "梅拉路Ｋ票"
+    },
+    {
+      "index": "1826",
+      "target": "鑽冠票"
+    },
+    {
+      "index": "1827",
+      "target": "鑽底票"
+    },
+    {
+      "index": "1828",
+      "target": "防守短劍Ｓ票"
+    },
+    {
+      "index": "1829",
+      "target": "捲尾Ｓ票"
+    },
+    {
+      "index": "1830",
+      "target": "Ｄ麻痺票"
+    },
+    {
+      "index": "1831",
+      "target": "Ｌ麻痺票"
+    },
+    {
+      "index": "1832",
+      "target": "Ｎ之蟻票"
+    },
+    {
+      "index": "1833",
+      "target": "Ｄ毒藥票"
+    },
+    {
+      "index": "1834",
+      "target": "Ｌ毒藥票"
+    },
+    {
+      "index": "1835",
+      "target": "Ｎ黄蜂票"
+    },
+    {
+      "index": "1841",
+      "target": "皇室頭票"
+    },
+    {
+      "index": "1842",
+      "target": "皇室胴票"
+    },
+    {
+      "index": "1843",
+      "target": "皇室腕票"
+    },
+    {
+      "index": "1844",
+      "target": "皇室腰票"
+    },
+    {
+      "index": "1845",
+      "target": "皇室脚票"
+    },
+    {
+      "index": "1859",
+      "target": "ＶＩＳＡ票"
+    },
+    {
+      "index": "1908",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1909",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1910",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1911",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1912",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1913",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1914",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1915",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1916",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1917",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1918",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1919",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1920",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1921",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1922",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1923",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1924",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1925",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1926",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1927",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1928",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1929",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1930",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1931",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1932",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1933",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1934",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1935",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1936",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1937",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1938",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1939",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1940",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1941",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1942",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1943",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1944",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1945",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1946",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1947",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1948",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1949",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1950",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1951",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1952",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1953",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1954",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1955",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1956",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1957",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1958",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1959",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1960",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1961",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1962",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1963",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1964",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1965",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1966",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1967",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1968",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1969",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1970",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1971",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1972",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1973",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1974",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1975",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1976",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1977",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1978",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1979",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1980",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1981",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1982",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1983",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1984",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1985",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1986",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1987",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1988",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1989",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1990",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1991",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1992",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1993",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1994",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1995",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1996",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1997",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1998",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1999",
+      "target": "(dummy)"
+    },
+    {
+      "index": "2000",
+      "target": "ＢＰ４票・１"
+    },
+    {
+      "index": "2001",
+      "target": "ＢＰ４票・２"
+    },
+    {
+      "index": "2002",
+      "target": "ＢＰ４票・３"
+    },
+    {
+      "index": "2003",
+      "target": "ＢＰ４票・４"
+    }
+  ]
+}

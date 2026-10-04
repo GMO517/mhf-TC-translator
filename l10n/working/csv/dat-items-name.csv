@@ -1459,13 +1459,13 @@ index,source,target
 1457,Black Dyegrass,Black Dyegrass
 1458,White Dyegrass,White Dyegrass
 1459,Rainbow Dyegrass,Rainbow Dyegrass
-1460,Crystal Lance Tkt,Crystal Lance Tkt
-1461,P Head Tkt,P Head Tkt
-1462,P Mail Tkt,P Mail Tkt
-1463,P Arm Tkt,P Arm Tkt
-1464,P Tasset Tkt,P Tasset Tkt
-1465,P Boot Tkt,P Boot Tkt
-1466,F.D.Furniture Tkt,F.D.Furniture Tkt
+1460,Crystal Lance Tkt,水晶槍票
+1461,P Head Tkt,Ｐ頭票
+1462,P Mail Tkt,Ｐ胴票
+1463,P Arm Tkt,Ｐ腕票
+1464,P Tasset Tkt,Ｐ腰票
+1465,P Boot Tkt,Ｐ脚票
+1466,F.D.Furniture Tkt,火龍家具票
 1467,Guild Emblem,Guild Emblem
 1468,Guild Cheque (1k),Guild Cheque (1k)
 1469,Large Chunks【Red】,Large Chunks【Red】
@@ -1519,7 +1519,7 @@ index,source,target
 1517,Large Chunks【Wht】,Large Chunks【Wht】
 1518,Small Chunks【Wht】,Small Chunks【Wht】
 1519,Black Star Iron,Black Star Iron
-1520,Festi Ticket,Festi Ticket
+1520,Festi Ticket,祭票
 1521,Ancient Hymn,Ancient Hymn
 1522,Friendship Bond,Friendship Bond
 1523,Egg Pieces,Egg Pieces
@@ -1531,10 +1531,10 @@ index,source,target
 1529,Health Drink【Def】,Health Drink【Def】
 1530,Festi Memories,Festi Memories
 1531,Diploma,Diploma
-1532,E-Edge Ticket,E-Edge Ticket
-1533,Star Festi Ticket,Star Festi Ticket
-1534,Weaver Festi Tkt,Weaver Festi Tkt
-1535,N Head Tkt,N Head Tkt
+1532,E-Edge Ticket,Ｅ-Edge票
+1533,Star Festi Ticket,星祭票
+1534,Weaver Festi Tkt,七夕票
+1535,N Head Tkt,Ｎ頭票
 1536,Gunlance Coolant,Gunlance Coolant
 1537,Nearcaster,Nearcaster
 1538,Fire-Proof Drink,Fire-Proof Drink
@@ -1542,10 +1542,10 @@ index,source,target
 1540,Ice-Proof Drink,Ice-Proof Drink
 1541,Thndr-Proof Drink,Thndr-Proof Drink
 1542,Dragon-Proof Drink,Dragon-Proof Drink
-1543,Poison DefenceTkt,Poison DefenceTkt
-1544,Sleep Defence Tkt,Sleep Defence Tkt
-1545,Para Defence Tkt,Para Defence Tkt
-1546,Guts Ticket,Guts Ticket
+1543,Poison DefenceTkt,毒耐性票
+1544,Sleep Defence Tkt,睡眠耐性票
+1545,Para Defence Tkt,麻痺耐性票
+1546,Guts Ticket,根性票
 1547,Adrenaline Potion,Adrenaline Potion
 1548,Starving Wolf Pot.,Starving Wolf Pot.
 1549,Emergency Bag,Emergency Bag
@@ -1609,30 +1609,30 @@ index,source,target
 1607,(dummy),(dummy)
 1608,(dummy),(dummy)
 1609,(dummy),(dummy)
-1610,Quest Complete Tkt,Quest Complete Tkt
+1610,Quest Complete Tkt,任務達成票
 1611,Guild Stamp,Guild Stamp
-1612,VS. Ticket,VS. Ticket
+1612,VS. Ticket,ＶＳ．票
 1613,Super Lucky Charm,Super Lucky Charm
-1614,D Rapier Tkt,D Rapier Tkt
-1615,W Rapier Tkt,W Rapier Tkt
-1616,Solid Tkt,Solid Tkt
-1617,Solid+ Tkt,Solid+ Tkt
-1618,C Materi Tkt,C Materi Tkt
-1619,Liquid Tkt,Liquid Tkt
-1620,Liquid+ Tkt,Liquid+ Tkt
-1621,C Element Tkt,C Element Tkt
-1622,Lien Head Tkt,Lien Head Tkt
-1623,Lien Chest Tkt,Lien Chest Tkt
-1624,Lien Arms Tkt,Lien Arms Tkt
-1625,Lien Waist Tkt,Lien Waist Tkt
-1626,Lien Legs Tkt,Lien Legs Tkt
-1627,Para Ticket Ⅰ,Para Ticket Ⅰ
-1628,Para Ticket Ⅱ,Para Ticket Ⅱ
-1629,Para Ticket Ⅲ,Para Ticket Ⅲ
-1630,HL Tkt,HL Tkt
-1631,EX Tkt,EX Tkt
-1632,CA Tkt,CA Tkt
-1633,Unapell Ticket,Unapell Ticket
+1614,D Rapier Tkt,Ｄ細劍票
+1615,W Rapier Tkt,Ｗ細劍票
+1616,Solid Tkt,固態票
+1617,Solid+ Tkt,固態改票
+1618,C Materi Tkt,Ｃ・原質票
+1619,Liquid Tkt,液態票
+1620,Liquid+ Tkt,液態改票
+1621,C Element Tkt,Ｃ・原素票
+1622,Lien Head Tkt,羈絆頭票
+1623,Lien Chest Tkt,羈絆胴票
+1624,Lien Arms Tkt,羈絆腕票
+1625,Lien Waist Tkt,羈絆腰票
+1626,Lien Legs Tkt,羈絆脚票
+1627,Para Ticket Ⅰ,ＰＡＲＡ票Ⅰ
+1628,Para Ticket Ⅱ,ＰＡＲＡ票Ⅱ
+1629,Para Ticket Ⅲ,ＰＡＲＡ票Ⅲ
+1630,HL Tkt,ＨＬ票
+1631,EX Tkt,ＥＸ票
+1632,CA Tkt,ＣＡ票
+1633,Unapell Ticket,ユナペル票
 1634,Hot Cat's Note,Hot Cat's Note
 1635,Cool Cat's Note,Cool Cat's Note
 1636,Fan Cat's Note,Fan Cat's Note
@@ -1643,14 +1643,14 @@ index,source,target
 1641,Fisherman Proof,Fisherman Proof
 1642,Otoshidama [Ugly],Otoshidama [Ugly]
 1643,Electric Thorn,Electric Thorn
-1644,ＢＰ Ticket [１],ＢＰ Ticket [１]
-1645,ＢＰ Ticket [２],ＢＰ Ticket [２]
-1646,ＢＰ Ticket [３],ＢＰ Ticket [３]
-1647,ＢＰ Ticket [４],ＢＰ Ticket [４]
-1648,ＢＰ Ticket [５],ＢＰ Ticket [５]
-1649,ＢＰ Ticket [６],ＢＰ Ticket [６]
-1650,ＢＰ Ticket [７],ＢＰ Ticket [７]
-1651,ＢＰ Ticket [８],ＢＰ Ticket [８]
+1644,ＢＰ Ticket [１],ＢＰ票【１】
+1645,ＢＰ Ticket [２],ＢＰ票【２】
+1646,ＢＰ Ticket [３],ＢＰ票【３】
+1647,ＢＰ Ticket [４],ＢＰ票【４】
+1648,ＢＰ Ticket [５],ＢＰ票【５】
+1649,ＢＰ Ticket [６],ＢＰ票【６】
+1650,ＢＰ Ticket [７],ＢＰ票【７】
+1651,ＢＰ Ticket [８],ＢＰ票【８】
 1652,Rock Salt,Rock Salt
 1653,Beryl Ore,Beryl Ore
 1654,Amonite Ore,Amonite Ore
@@ -1661,7 +1661,7 @@ index,source,target
 1659,Pepper Eel,Pepper Eel
 1660,Okasango,Okasango
 1661,Happa Fruit,Happa Fruit
-1662,Goushu Ticket,Goushu Ticket
+1662,Goushu Ticket,剛種票
 1663,Teostra Proof,Teostra Proof
 1664,Beru Proof,Beru Proof
 1665,Beru Carapace,Beru Carapace
@@ -1678,7 +1678,7 @@ index,source,target
 1676,Beru Jewel,Beru Jewel
 1677,Best Recipe,Best Recipe
 1678,Essential Drink,Essential Drink
-1679,My Tore Ticket,My Tore Ticket
+1679,My Tore Ticket,マイトレ票
 1680,Perk Token,Perk Token
 1681,Maiden's Vitality,Maiden's Vitality
 1682,Maiden's Immunity,Maiden's Immunity
@@ -1690,7 +1690,7 @@ index,source,target
 1688,Dragoness Coin,Dragoness Coin
 1689,Dragonlord Coin,Dragonlord Coin
 1690,Saber Mezecoin,Saber Mezecoin
-1691,Event Assist Tkt,Event Assist Tkt
+1691,Event Assist Tkt,活動補助票
 1692,Porta Cake,Porta Cake
 1693,Porta Mochio,Porta Mochio
 1694,Unapell Red Cloth,Unapell Red Cloth
@@ -1699,44 +1699,44 @@ index,source,target
 1697,Gratitude [Wht],Gratitude [Wht]
 1698,Small Red Shard,Small Red Shard
 1699,Small White Shard,Small White Shard
-1700,(Dummy),(Dummy)
+1700,(Dummy),(dummy)
 1701,Red Hunter Coin,Red Hunter Coin
 1702,Blue Hunter Coin,Blue Hunter Coin
 1703,Wht Hunter Coin,Wht Hunter Coin
 1704,Pink Hunter Coin,Pink Hunter Coin
 1705,Prpl Hunter Coin,Prpl Hunter Coin
 1706,Ylw Hunter Coin,Ylw Hunter Coin
-1707,Khezu L Tkt,Khezu L Tkt
-1708,M Creek Tkt,M Creek Tkt
-1709,B Marsh Tkt,B Marsh Tkt
-1710,Berserker Swrd Tkt,Berserker Swrd Tkt
-1711,Crystal Swrd Tkt,Crystal Swrd Tkt
-1712,Dummy,Dummy
-1713,Squale Tkt,Squale Tkt
-1714,Katze Tkt,Katze Tkt
-1715,Volpe Tkt,Volpe Tkt
+1707,Khezu L Tkt,電龍Ｌ票
+1708,M Creek Tkt,Ｍクリーク票
+1709,B Marsh Tkt,Ｂマルシュ票
+1710,Berserker Swrd Tkt,狂戦士劍票
+1711,Crystal Swrd Tkt,水晶劍票
+1712,Dummy,(dummy)
+1713,Squale Tkt,スクアーレ票
+1714,Katze Tkt,カッツェ票
+1715,Volpe Tkt,ヴォルペ票
 1716,Hunter Secret Text,Hunter Secret Text
 1717,Giant Hypnoc Beak,Giant Hypnoc Beak
-1718,Alma Tkt Head,Alma Tkt Head
-1719,Alma Tkt Torso,Alma Tkt Torso
-1720,Alma Tkt Arms,Alma Tkt Arms
-1721,Alma Tkt Waist,Alma Tkt Waist
-1722,Alma Tkt Legs,Alma Tkt Legs
-1723,Wh.Neko Tkt Head,Wh.Neko Tkt Head
-1724,Wh.Neko Tkt Torso,Wh.Neko Tkt Torso
-1725,Wh.Neko Tkt Arms,Wh.Neko Tkt Arms
-1726,Wh.Neko Tkt Waist,Wh.Neko Tkt Waist
-1727,Wh.Neko Tkt Legs,Wh.Neko Tkt Legs
+1718,Alma Tkt Head,軍風頭票
+1719,Alma Tkt Torso,軍風胴票
+1720,Alma Tkt Arms,軍風腕票
+1721,Alma Tkt Waist,軍風腰票
+1722,Alma Tkt Legs,軍風脚票
+1723,Wh.Neko Tkt Head,白猫頭票
+1724,Wh.Neko Tkt Torso,白猫胴票
+1725,Wh.Neko Tkt Arms,白猫腕票
+1726,Wh.Neko Tkt Waist,白猫腰票
+1727,Wh.Neko Tkt Legs,白猫脚票
 1728,1 Million Memories,1 Million Memories
 1729,PawCoin・Bronze,PawCoin・Bronze
 1730,PawCoin・Silver,PawCoin・Silver
 1731,PawCoin・Gold,PawCoin・Gold
-1732,Cabal Tkt・Wht,Cabal Tkt・Wht
-1733,Cabal Tkt・Blk,Cabal Tkt・Blk
-1734,Cabal Tkt・Red,Cabal Tkt・Red
-1735,Cabal Tkt・Blue,Cabal Tkt・Blue
-1736,Cabal Tkt・Ylw,Cabal Tkt・Ylw
-1737,DL Tkt,DL Tkt
+1732,Cabal Tkt・Wht,カバル票・白
+1733,Cabal Tkt・Blk,カバル票・黒
+1734,Cabal Tkt・Red,カバル票・赤
+1735,Cabal Tkt・Blue,カバル票・青
+1736,Cabal Tkt・Ylw,カバル票・黄
+1737,DL Tkt,ＤＬ票
 1738,Torn Book・Ch 1,Torn Book・Ch 1
 1739,Torn Book・Ch 2,Torn Book・Ch 2
 1740,Torn Book・Ch 3,Torn Book・Ch 3
@@ -1744,43 +1744,43 @@ index,source,target
 1742,Torn Book・Ch 5,Torn Book・Ch 5
 1743,Expert Book 1,Expert Book 1
 1744,Expert Book 2,Expert Book 2
-1745,BP２ Tkt・１,BP２ Tkt・１
-1746,BP２ Tkt・２,BP２ Tkt・２
-1747,BP２ Tkt・３,BP２ Tkt・３
-1748,BP２ Tkt・４,BP２ Tkt・４
-1749,BP２ Tkt・５,BP２ Tkt・５
-1750,BP２ Tkt・６,BP２ Tkt・６
-1751,BP２ Tkt・７,BP２ Tkt・７
-1752,BP２ Tkt・８,BP２ Tkt・８
-1753,ＴＰ Tkt・１,ＴＰ Tkt・１
-1754,ＴＰ Tkt・２,ＴＰ Tkt・２
-1755,ＴＰ Tkt・３,ＴＰ Tkt・３
-1756,ＴＰ Tkt・４,ＴＰ Tkt・４
-1757,ＴＰ Tkt・５,ＴＰ Tkt・５
+1745,BP２ Tkt・１,ＢＰ２票・１
+1746,BP２ Tkt・２,ＢＰ２票・２
+1747,BP２ Tkt・３,ＢＰ２票・３
+1748,BP２ Tkt・４,ＢＰ２票・４
+1749,BP２ Tkt・５,ＢＰ２票・５
+1750,BP２ Tkt・６,ＢＰ２票・６
+1751,BP２ Tkt・７,ＢＰ２票・７
+1752,BP２ Tkt・８,ＢＰ２票・８
+1753,ＴＰ Tkt・１,ＴＰ票・１
+1754,ＴＰ Tkt・２,ＴＰ票・２
+1755,ＴＰ Tkt・３,ＴＰ票・３
+1756,ＴＰ Tkt・４,ＴＰ票・４
+1757,ＴＰ Tkt・５,ＴＰ票・５
 1758,Mysterious Fluid,Mysterious Fluid
-1759,G Scimitar Tkt,G Scimitar Tkt
-1760,F Berge Tkt,F Berge Tkt
-1761,R.Crystal Tkt,R.Crystal Tkt
-1762,P.Crystal Tkt,P.Crystal Tkt
-1763,Seram Z Tkt,Seram Z Tkt
-1764,Aizen Z Tkt,Aizen Z Tkt
-1765,Seram V Tkt,Seram V Tkt
-1766,Aizen V Tkt,Aizen V Tkt
-1767,Anteka H Tkt,Anteka H Tkt
+1759,G Scimitar Tkt,Ｇ彎刀票
+1760,F Berge Tkt,Ｆ波形劍票
+1761,R.Crystal Tkt,紅水晶票
+1762,P.Crystal Tkt,紫水晶票
+1763,Seram Z Tkt,花語Ｚ票
+1764,Aizen Z Tkt,黒鐵Ｚ票
+1765,Seram V Tkt,セラムＶ票
+1766,Aizen V Tkt,鋼鐵Ｖ票
+1767,Anteka H Tkt,雪鹿Ｈ票
 1768,Demonic Alloy,Demonic Alloy
-1769,X Tkt Head,X Tkt Head
-1770,X Tkt Torso,X Tkt Torso
-1771,X Tkt Arms,X Tkt Arms
-1772,X Tkt Waist,X Tkt Waist
-1773,X Tkt Legs,X Tkt Legs
+1769,X Tkt Head,仙女頭票
+1770,X Tkt Torso,仙女胴票
+1771,X Tkt Arms,仙女腕票
+1772,X Tkt Waist,仙女腰票
+1773,X Tkt Legs,仙女脚票
 1774,Heartfelt Bond,Heartfelt Bond
 1775,Truthful Bond,Truthful Bond
-1776,Metal Tkt Head,Metal Tkt Head
-1777,Metal Tkt Torso,Metal Tkt Torso
-1778,Metal Tkt Arms,Metal Tkt Arms
-1779,Metal Tkt Waist,Metal Tkt Waist
-1780,Metal Tkt Legs,Metal Tkt Legs
-1781,Xmas Treetop Tkt,Xmas Treetop Tkt
+1776,Metal Tkt Head,白合金頭票
+1777,Metal Tkt Torso,白合金胴票
+1778,Metal Tkt Arms,白合金腕票
+1779,Metal Tkt Waist,白合金腰票
+1780,Metal Tkt Legs,白合金脚票
+1781,Xmas Treetop Tkt,聖誕樹上票
 1782,Random Ball,Random Ball
 1783,L.Barrel Bomb G3,L.Barrel Bomb G3
 1784,Pitfall Bomb,Pitfall Bomb
@@ -1805,46 +1805,46 @@ index,source,target
 1803,Caravan Silver Gem,Caravan Silver Gem
 1804,Caravan Gold Gem,Caravan Gold Gem
 1805,Foreign Jewelery,Foreign Jewelery
-1806,Xmas Tree Tkt,Xmas Tree Tkt
-1807,Xmas Tree Base Tkt,Xmas Tree Base Tkt
+1806,Xmas Tree Tkt,聖誕樹中票
+1807,Xmas Tree Base Tkt,聖誕樹下票
 1808,White Star Iron,White Star Iron
-1809,BP３ Tkt・１,BP３ Tkt・１
-1810,BP３ Tkt・２,BP３ Tkt・２
-1811,BP３ Tkt・３,BP３ Tkt・３
-1812,BP３ Tkt・４,BP３ Tkt・４
-1813,BP３ Tkt・５,BP３ Tkt・５
-1814,BP３ Tkt・６,BP３ Tkt・６
-1815,BP３ Tkt・７,BP３ Tkt・７
-1816,BP３ Tkt・８,BP３ Tkt・８
+1809,BP３ Tkt・１,ＢＰ３票・１
+1810,BP３ Tkt・２,ＢＰ３票・２
+1811,BP３ Tkt・３,ＢＰ３票・３
+1812,BP３ Tkt・４,ＢＰ３票・４
+1813,BP３ Tkt・５,ＢＰ３票・５
+1814,BP３ Tkt・６,ＢＰ３票・６
+1815,BP３ Tkt・７,ＢＰ３票・７
+1816,BP３ Tkt・８,ＢＰ３票・８
 1817,Epic Record,Epic Record
 1818,Supreme Junk,Supreme Junk
-1819,Gilino A Tkt,Gilino A Tkt
-1820,Tetare A Tkt,Tetare A Tkt
-1821,Felyne K Tkt,Felyne K Tkt
-1822,Melynx K Tkt,Melynx K Tkt
+1819,Gilino A Tkt,黒音符Ａ票
+1820,Tetare A Tkt,白音符Ａ票
+1821,Felyne K Tkt,艾路Ｋ票
+1822,Melynx K Tkt,梅拉路Ｋ票
 1823,N Seal A,N Seal A
 1824,N Seal B,N Seal B
 1825,N Seal C,N Seal C
-1826,Crown Tkt,Crown Tkt
-1827,Pavilion Tkt,Pavilion Tkt
-1828,Pad S Tkt,Pad S Tkt
-1829,Tail S Tkt,Tail S Tkt
-1830,D Parize Tkt,D Parize Tkt
-1831,L Parize Tkt,L Parize Tkt
-1832,N Ant Tkt,N Ant Tkt
-1833,D Poison Tkt,D Poison Tkt
-1834,L Poison Tkt,L Poison Tkt
-1835,N Vespa Tkt,N Vespa Tkt
+1826,Crown Tkt,鑽冠票
+1827,Pavilion Tkt,鑽底票
+1828,Pad S Tkt,防守短劍Ｓ票
+1829,Tail S Tkt,捲尾Ｓ票
+1830,D Parize Tkt,Ｄ麻痺票
+1831,L Parize Tkt,Ｌ麻痺票
+1832,N Ant Tkt,Ｎ之蟻票
+1833,D Poison Tkt,Ｄ毒藥票
+1834,L Poison Tkt,Ｌ毒藥票
+1835,N Vespa Tkt,Ｎ黄蜂票
 1836,Shaln Head,Shaln Head
 1837,Shaln Chest,Shaln Chest
 1838,Shaln Arms,Shaln Arms
 1839,Shaln Waist,Shaln Waist
 1840,Shaln Legs,Shaln Legs
-1841,Real Tkt Head,Real Tkt Head
-1842,Real Tkt Torso,Real Tkt Torso
-1843,Real Tkt Arms,Real Tkt Arms
-1844,Real Tkt Waist,Real Tkt Waist
-1845,Real Tkt Legs,Real Tkt Legs
+1841,Real Tkt Head,皇室頭票
+1842,Real Tkt Torso,皇室胴票
+1843,Real Tkt Arms,皇室腕票
+1844,Real Tkt Waist,皇室腰票
+1845,Real Tkt Legs,皇室脚票
 1846,Ancient Hymn II,Ancient Hymn II
 1847,Book of Life,Book of Life
 1848,Secret Stone,Secret Stone
@@ -1858,7 +1858,7 @@ index,source,target
 1856,Purple Gem Shard,Purple Gem Shard
 1857,Blue Gem Shard,Blue Gem Shard
 1858,Thank You Ⅱ,Thank You Ⅱ
-1859,VISA Ticket,VISA Ticket
+1859,VISA Ticket,ＶＩＳＡ票
 1860,Evil Cat Memories,Evil Cat Memories
 1861,Red Cat Memories,Red Cat Memories
 1862,Porta Snail,Porta Snail
@@ -1907,102 +1907,102 @@ index,source,target
 1905,Book of Bonds Red,Book of Bonds Red
 1906,Award Medal Blue,Award Medal Blue
 1907,Award Medal Red,Award Medal Red
-1908,Dummy,Dummy
-1909,Dummy,Dummy
-1910,Dummy,Dummy
-1911,Dummy,Dummy
-1912,Dummy,Dummy
-1913,Dummy,Dummy
-1914,Dummy,Dummy
-1915,Dummy,Dummy
-1916,Dummy,Dummy
-1917,Dummy,Dummy
-1918,Dummy,Dummy
-1919,Dummy,Dummy
-1920,Dummy,Dummy
-1921,Dummy,Dummy
-1922,Dummy,Dummy
-1923,Dummy,Dummy
-1924,Dummy,Dummy
-1925,Dummy,Dummy
-1926,Dummy,Dummy
-1927,Dummy,Dummy
-1928,Dummy,Dummy
-1929,Dummy,Dummy
-1930,Dummy,Dummy
-1931,Dummy,Dummy
-1932,Dummy,Dummy
-1933,Dummy,Dummy
-1934,Dummy,Dummy
-1935,Dummy,Dummy
-1936,Dummy,Dummy
-1937,Dummy,Dummy
-1938,Dummy,Dummy
-1939,Dummy,Dummy
-1940,Dummy,Dummy
-1941,Dummy,Dummy
-1942,Dummy,Dummy
-1943,Dummy,Dummy
-1944,Dummy,Dummy
-1945,Dummy,Dummy
-1946,Dummy,Dummy
-1947,Dummy,Dummy
-1948,Dummy,Dummy
-1949,Dummy,Dummy
-1950,Dummy,Dummy
-1951,Dummy,Dummy
-1952,Dummy,Dummy
-1953,Dummy,Dummy
-1954,Dummy,Dummy
-1955,Dummy,Dummy
-1956,Dummy,Dummy
-1957,Dummy,Dummy
-1958,Dummy,Dummy
-1959,Dummy,Dummy
-1960,Dummy,Dummy
-1961,Dummy,Dummy
-1962,Dummy,Dummy
-1963,Dummy,Dummy
-1964,Dummy,Dummy
-1965,Dummy,Dummy
-1966,Dummy,Dummy
-1967,Dummy,Dummy
-1968,Dummy,Dummy
-1969,Dummy,Dummy
-1970,Dummy,Dummy
-1971,Dummy,Dummy
-1972,Dummy,Dummy
-1973,Dummy,Dummy
-1974,Dummy,Dummy
-1975,Dummy,Dummy
-1976,Dummy,Dummy
-1977,Dummy,Dummy
-1978,Dummy,Dummy
-1979,Dummy,Dummy
-1980,Dummy,Dummy
-1981,Dummy,Dummy
-1982,Dummy,Dummy
-1983,Dummy,Dummy
-1984,Dummy,Dummy
-1985,Dummy,Dummy
-1986,Dummy,Dummy
-1987,Dummy,Dummy
-1988,Dummy,Dummy
-1989,Dummy,Dummy
-1990,Dummy,Dummy
-1991,Dummy,Dummy
-1992,Dummy,Dummy
-1993,Dummy,Dummy
-1994,Dummy,Dummy
-1995,Dummy,Dummy
-1996,Dummy,Dummy
-1997,Dummy,Dummy
-1998,Dummy,Dummy
-1999,Dummy,Dummy
-2000,BP４ Tkt・１,BP４ Tkt・１
-2001,BP４ Tkt・２,BP４ Tkt・２
-2002,BP４ Tkt・３,BP４ Tkt・３
-2003,BP４ Tkt・４,BP４ Tkt・４
+1908,Dummy,(dummy)
+1909,Dummy,(dummy)
+1910,Dummy,(dummy)
+1911,Dummy,(dummy)
+1912,Dummy,(dummy)
+1913,Dummy,(dummy)
+1914,Dummy,(dummy)
+1915,Dummy,(dummy)
+1916,Dummy,(dummy)
+1917,Dummy,(dummy)
+1918,Dummy,(dummy)
+1919,Dummy,(dummy)
+1920,Dummy,(dummy)
+1921,Dummy,(dummy)
+1922,Dummy,(dummy)
+1923,Dummy,(dummy)
+1924,Dummy,(dummy)
+1925,Dummy,(dummy)
+1926,Dummy,(dummy)
+1927,Dummy,(dummy)
+1928,Dummy,(dummy)
+1929,Dummy,(dummy)
+1930,Dummy,(dummy)
+1931,Dummy,(dummy)
+1932,Dummy,(dummy)
+1933,Dummy,(dummy)
+1934,Dummy,(dummy)
+1935,Dummy,(dummy)
+1936,Dummy,(dummy)
+1937,Dummy,(dummy)
+1938,Dummy,(dummy)
+1939,Dummy,(dummy)
+1940,Dummy,(dummy)
+1941,Dummy,(dummy)
+1942,Dummy,(dummy)
+1943,Dummy,(dummy)
+1944,Dummy,(dummy)
+1945,Dummy,(dummy)
+1946,Dummy,(dummy)
+1947,Dummy,(dummy)
+1948,Dummy,(dummy)
+1949,Dummy,(dummy)
+1950,Dummy,(dummy)
+1951,Dummy,(dummy)
+1952,Dummy,(dummy)
+1953,Dummy,(dummy)
+1954,Dummy,(dummy)
+1955,Dummy,(dummy)
+1956,Dummy,(dummy)
+1957,Dummy,(dummy)
+1958,Dummy,(dummy)
+1959,Dummy,(dummy)
+1960,Dummy,(dummy)
+1961,Dummy,(dummy)
+1962,Dummy,(dummy)
+1963,Dummy,(dummy)
+1964,Dummy,(dummy)
+1965,Dummy,(dummy)
+1966,Dummy,(dummy)
+1967,Dummy,(dummy)
+1968,Dummy,(dummy)
+1969,Dummy,(dummy)
+1970,Dummy,(dummy)
+1971,Dummy,(dummy)
+1972,Dummy,(dummy)
+1973,Dummy,(dummy)
+1974,Dummy,(dummy)
+1975,Dummy,(dummy)
+1976,Dummy,(dummy)
+1977,Dummy,(dummy)
+1978,Dummy,(dummy)
+1979,Dummy,(dummy)
+1980,Dummy,(dummy)
+1981,Dummy,(dummy)
+1982,Dummy,(dummy)
+1983,Dummy,(dummy)
+1984,Dummy,(dummy)
+1985,Dummy,(dummy)
+1986,Dummy,(dummy)
+1987,Dummy,(dummy)
+1988,Dummy,(dummy)
+1989,Dummy,(dummy)
+1990,Dummy,(dummy)
+1991,Dummy,(dummy)
+1992,Dummy,(dummy)
+1993,Dummy,(dummy)
+1994,Dummy,(dummy)
+1995,Dummy,(dummy)
+1996,Dummy,(dummy)
+1997,Dummy,(dummy)
+1998,Dummy,(dummy)
+1999,Dummy,(dummy)
+2000,BP４ Tkt・１,ＢＰ４票・１
+2001,BP４ Tkt・２,ＢＰ４票・２
+2002,BP４ Tkt・３,ＢＰ４票・３
+2003,BP４ Tkt・４,ＢＰ４票・４
 2004,BP４ Tkt・５,BP４ Tkt・５
 2005,BP４ Tkt・６,BP４ Tkt・６
 2006,BP４ Tkt・７,BP４ Tkt・７
