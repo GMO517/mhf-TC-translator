@@ -9,7 +9,7 @@
 ## items-name
 
 - status: in_progress
-- notes: "主真相＝csv。大批義譯子類已 awaiting_qa；殘約 1147 列未譯（多為 charset 拒譯／專名）。"
+- notes: "主真相＝csv。monster-rest 已全表中文化並 delta（n=438，片假名0）；殘留主要在 all-rest／misc／kits 英文半翻。"
 
 ### files
 
@@ -33,7 +33,7 @@
 - skill-cuffs: translated → issues/review-items-name__skill-cuffs.md（awaiting_qa）；batches/awaiting_qa/batch-items-skill-cuffs.json（n=2877）
 - dummy: translated → issues/review-items-name__dummy.md（awaiting_qa）；batches/awaiting_qa/batch-items-dummy.json（n=676）
 - kits: translated → issues/review-items-name__kits.md（awaiting_qa）；batches/awaiting_qa/batch-items-kits.json（n=45）
-- monster-rest: translated → issues/review-items-name__monster-rest.md（awaiting_qa）；batches/awaiting_qa/batch-items-monster-rest.json（n=438）
+- monster-rest: translated → issues/review-items-name__monster-rest.md（awaiting_qa；2026-10-04 重譯全表＋片假名清零）；batches/awaiting_qa/batch-items-monster-rest.json（n=438）
 - misc: translated → issues/review-items-name__misc.md（awaiting_qa）；batches/awaiting_qa/batch-items-misc.json（n=199）
 - remainder: translated → issues/review-items-name__remainder.md（awaiting_qa）；batches/awaiting_qa/batch-items-all-rest.json（n=5450）
 

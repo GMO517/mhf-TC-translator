@@ -18,6 +18,7 @@
 | items-name／skill-cuffs（PA/PB/PC…） | **0** | **~10 min** | batch n=2877；格式如匠ＰＡ１；delta 完成 |
 | items-name／dummy（Dummy→(dummy)） | **0** | **~5 min** | n=676；charset 無「虛設」改沿用 (dummy)；delta |
 | items-name／kits（防具套件 Kit） | **0** | **~5 min** | n=45；delta |
+| items-name／monster-rest（中斷後全表重譯） | **0** | **~45 min** | n=438；片假名0；仍偏原文0；delta+bin |
 | items-name／monster-rest（殘餘魔物素材） | **0** | **~8 min** | n=438；鬣毛取代缺字鬃；delta 259 新 |
 | items-name／misc（公會／獵人／旅團雜項） | **0** | **~5 min** | n=199；delta |
 | items-name／remainder（義譯掃尾） | **0** | **~15 min** | n=5450；delta 4436 新；殘未譯約 1147 |

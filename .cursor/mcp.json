@@ -1,8 +1,0 @@
-{
-  "mcpServers": {
-    "aoci": {
-      "command": "E:/MHF/tools/aoci/aoci.exe",
-      "args": ["--repo", "E:/MHF", "mcp"]
-    }
-  }
-}

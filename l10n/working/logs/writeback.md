@@ -1,11 +1,11 @@
 # 回寫報告
 
-- 時間：2026-10-04T14:20:12
+- 時間：2026-10-04T14:34:25
 - 模式：batch-delta
-- 回寫前 SHA256：`b476a1d4f296f05165821e50cbf5cd234be80bd81e2ab05f6fe44b10b6496cd2`
+- 回寫前 SHA256：`0f426ca6d2df3a4dc5e3e3019f62dad756aab7b7fcc09a429f04dff4106968ea`
 
-- `items-name`：OK（delta 4436 列）
+- `items-name`：OK（delta 6 列）
 
-- 回寫後 SHA256：`6d7986f4a674133718eaa0f29367745d8abd9ee9701e479766cd8c3d56f1bca7`
+- 回寫後 SHA256：`4a155f90b001df42e9d79623c344704a11cd264a70619fa9da74644d6d960f6a`
 
 - 已同步：`l10n/data/mhfdat.bin` 與 `E:\MHF\client\MHFCT4.1\dat\mhfdat.bin`

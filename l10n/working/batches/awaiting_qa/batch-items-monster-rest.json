@@ -1,10 +1,10 @@
 {
   "section_id": "items-name",
-  "label": "殘餘魔物素材",
+  "label": "fix-monster-rest-v2",
   "translations": [
     {
       "index": "1717",
-      "target": "Giant Hypnoc Beak"
+      "target": "眠鳥的巨大的喙"
     },
     {
       "index": "1802",
@@ -80,123 +80,123 @@
     },
     {
       "index": "2167",
-      "target": "Beast Horn Stone"
+      "target": "獣角的石"
     },
     {
       "index": "2703",
-      "target": "Strong Beak"
+      "target": "強靭的喙"
     },
     {
       "index": "2704",
-      "target": "Ferocious Beak"
+      "target": "兇猛的喙"
     },
     {
       "index": "2705",
-      "target": "Divine Beak"
+      "target": "神的喙"
     },
     {
       "index": "2940",
-      "target": "Flint"
+      "target": "燧石"
     },
     {
       "index": "3058",
-      "target": "Big Flash 寶玉"
+      "target": "大閃光的寶玉"
     },
     {
       "index": "3059",
-      "target": "Big Blast 寶玉"
+      "target": "爆破的大的寶玉"
     },
     {
       "index": "3060",
-      "target": "Big Penetrator 寶玉"
+      "target": "大貫通的寶玉"
     },
     {
       "index": "3563",
-      "target": "Drench Leaf"
+      "target": "浸潤的葉"
     },
     {
       "index": "3719",
-      "target": "Poisonous Beak"
+      "target": "毒的喙"
     },
     {
       "index": "4061",
-      "target": "Flash Blast T.寶玉"
+      "target": "爆破的閃光真的寶玉"
     },
     {
       "index": "4062",
-      "target": "Attack Blast T.寶玉"
+      "target": "攻撃力的爆破真的寶玉"
     },
     {
       "index": "4063",
-      "target": "Penetrating T.寶玉"
+      "target": "貫通真的寶玉"
     },
     {
       "index": "4474",
-      "target": "Extreme Flame 寶玉"
+      "target": "極限炎的寶玉"
     },
     {
       "index": "4486",
-      "target": "Unknown Webbing"
+      "target": "未知的翼膜"
     },
     {
       "index": "4491",
-      "target": "Unknown Marrow"
+      "target": "未知的骨髓"
     },
     {
       "index": "4728",
-      "target": "Omoware Leaf"
+      "target": "思惑的葉"
     },
     {
       "index": "4797",
-      "target": "Icy Scale Stone"
+      "target": "氷鱗的石"
     },
     {
       "index": "4801",
-      "target": "Tail Fin Harness"
+      "target": "尾鰭的束具"
     },
     {
       "index": "4932",
-      "target": "Stately Beak"
+      "target": "莊嚴的喙"
     },
     {
       "index": "4933",
-      "target": "Pompous Beak"
+      "target": "誇耀的喙"
     },
     {
       "index": "5130",
-      "target": "Huge F.Wyvern 寶玉"
+      "target": "龍的巨大飛的寶玉"
     },
     {
       "index": "5137",
-      "target": "Lg. Fang Fragment"
+      "target": "大牙的碎片"
     },
     {
       "index": "6039",
-      "target": "Shivering Beak"
+      "target": "戰慄的喙"
     },
     {
       "index": "6154",
-      "target": "Gaudy Beak"
+      "target": "華麗的喙"
     },
     {
       "index": "6181",
-      "target": "Bright Tail Note"
+      "target": "輝耀尾的音符"
     },
     {
       "index": "6182",
-      "target": "Lovely Tail Note"
+      "target": "可愛尾的音符"
     },
     {
       "index": "6183",
-      "target": "Cool Tail Note"
+      "target": "冷尾的音符"
     },
     {
       "index": "6437",
-      "target": "Arugoru Fuse Shell"
+      "target": "阿魯戈魯融合的殻"
     },
     {
       "index": "6647",
-      "target": "Hrm.Eternal Claw"
+      "target": "盾蟹的永遠的爪"
     },
     {
       "index": "6655",
@@ -204,15 +204,15 @@
     },
     {
       "index": "6660",
-      "target": "Lovely Pelt"
+      "target": "可愛的皮"
     },
     {
       "index": "6664",
-      "target": "Far.Rainbow Tail"
+      "target": "遠虹的尾"
     },
     {
       "index": "6665",
-      "target": "Far.Thunder Hide"
+      "target": "雷的遠的皮"
     },
     {
       "index": "6668",
@@ -220,23 +220,23 @@
     },
     {
       "index": "6669",
-      "target": "Bas.Glitter Shell"
+      "target": "岩龍的煌的殻"
     },
     {
       "index": "6672",
-      "target": "Rath.Glitter Scale"
+      "target": "火龍的煌的鱗"
     },
     {
       "index": "6674",
-      "target": "Rath.Wicked Plate"
+      "target": "火龍的邪的逆鱗"
     },
     {
       "index": "6675",
-      "target": "Cean.Glisten Shell"
+      "target": "鎌蟹的輝的殻"
     },
     {
       "index": "6676",
-      "target": "Cean.Scissor Claw"
+      "target": "鎌蟹的鋏的爪"
     },
     {
       "index": "6684",
@@ -244,19 +244,19 @@
     },
     {
       "index": "6686",
-      "target": "Los.Deep Marrow"
+      "target": "雄火龍的深的骨髓"
     },
     {
       "index": "6688",
-      "target": "Blng.Glacial Hide"
+      "target": "雪獅子王的氷河的皮"
     },
     {
       "index": "6691",
-      "target": "Blng.Berg Fang"
+      "target": "雪獅子王的氷山的牙"
     },
     {
       "index": "6701",
-      "target": "Mido.Lava Claw"
+      "target": "爆狼的熔岩的爪"
     },
     {
       "index": "6704",
@@ -264,19 +264,19 @@
     },
     {
       "index": "6708",
-      "target": "Volg.Scoria Scale"
+      "target": "熔岩龍的火山渣的鱗"
     },
     {
       "index": "6709",
-      "target": "Volg.Solid Fang"
+      "target": "熔岩龍的堅的牙"
     },
     {
       "index": "6710",
-      "target": "Volg.Magma Fin"
+      "target": "熔岩龍的岩漿的鰭"
     },
     {
       "index": "6714",
-      "target": "Tgrx.Supreme Scale"
+      "target": "轟龍的至高的鱗"
     },
     {
       "index": "6723",
@@ -284,11 +284,11 @@
     },
     {
       "index": "6729",
-      "target": "Vash. Demise Claw"
+      "target": "尾晶蠍的終焉的爪"
     },
     {
       "index": "6731",
-      "target": "Vash. Solid Tail"
+      "target": "尾晶蠍的堅的尾"
     },
     {
       "index": "6748",
@@ -296,55 +296,55 @@
     },
     {
       "index": "6752",
-      "target": "Permafrost Sac"
+      "target": "永久凍土的袋"
     },
     {
       "index": "6753",
-      "target": "Miasma Sac"
+      "target": "瘴気的袋"
     },
     {
       "index": "6754",
-      "target": "Immobilizing Sac"
+      "target": "不動的袋"
     },
     {
       "index": "6755",
-      "target": "Deep Coma Sac"
+      "target": "深昏睡的袋"
     },
     {
       "index": "6780",
-      "target": "Disu.Fire Plate"
+      "target": "熾凍龍的炎的逆鱗"
     },
     {
       "index": "6781",
-      "target": "Disu.Ice Plate"
+      "target": "熾凍龍的氷的逆鱗"
     },
     {
       "index": "6796",
-      "target": "Herb. Shine Shell"
+      "target": "草食種的光輝的殻"
     },
     {
       "index": "6997",
-      "target": "Los Great Shell"
+      "target": "火龍的偉大的殻"
     },
     {
       "index": "6998",
-      "target": "Espi Eternal Scale"
+      "target": "棘龍的永遠的鱗"
     },
     {
       "index": "6999",
-      "target": "Volga Divine Fin"
+      "target": "熔岩龍的神的鰭"
     },
     {
       "index": "7011",
-      "target": "Festival 寶玉"
+      "target": "祭典的寶玉"
     },
     {
       "index": "7130",
-      "target": "Cracked Fang"
+      "target": "亀裂的牙"
     },
     {
       "index": "7132",
-      "target": "Cracked Claw"
+      "target": "亀裂的爪"
     },
     {
       "index": "7161",
@@ -352,1407 +352,1407 @@
     },
     {
       "index": "7289",
-      "target": "Elastic Hide"
+      "target": "弾力的皮"
     },
     {
       "index": "7293",
-      "target": "Volg.Fierce Fang"
+      "target": "熔岩龍的兇猛的牙"
     },
     {
       "index": "7297",
-      "target": "Dyuragaua Hvy.Tail"
+      "target": "氷獰龍的重的尾"
     },
     {
       "index": "7308",
-      "target": "Black Ray Pelt"
+      "target": "黒光線的皮"
     },
     {
       "index": "7465",
-      "target": "20 Soul 寶玉 G"
+      "target": "20魂寶玉Ｇ"
     },
     {
       "index": "7466",
-      "target": "40 Soul 寶玉 G"
+      "target": "40魂寶玉Ｇ"
     },
     {
       "index": "7467",
-      "target": "80 Soul 寶玉 G"
+      "target": "80魂寶玉Ｇ"
     },
     {
       "index": "7468",
-      "target": "20 Soul 寶玉"
+      "target": "20魂的寶玉"
     },
     {
       "index": "7469",
-      "target": "40 Soul 寶玉"
+      "target": "40魂的寶玉"
     },
     {
       "index": "7470",
-      "target": "80 Soul 寶玉"
+      "target": "80魂的寶玉"
     },
     {
       "index": "7472",
-      "target": "Conquest 寶玉 Bud"
+      "target": "征服寶玉芽"
     },
     {
       "index": "7473",
-      "target": "Conquest 寶玉 Bloom"
+      "target": "征服寶玉花"
     },
     {
       "index": "7474",
-      "target": "Supr.Sunlight 寶玉"
+      "target": "至高陽光的寶玉"
     },
     {
       "index": "7475",
-      "target": "Supr.Moonlight 寶玉"
+      "target": "至高月光的寶玉"
     },
     {
       "index": "8069",
-      "target": "Diva Song 寶玉"
+      "target": "歌姫的歌的寶玉"
     },
     {
       "index": "8105",
-      "target": "Plesi.Ancient Fin"
+      "target": "水龍的古代的鰭"
     },
     {
       "index": "8111",
-      "target": "Blos Symmetry Horn"
+      "target": "角龍的対称的角"
     },
     {
       "index": "8112",
-      "target": "舞雷龍的. Supreme Shl"
+      "target": "舞雷龍的至高的殻"
     },
     {
       "index": "8113",
-      "target": "舞雷龍的. Supreme Scl"
+      "target": "舞雷龍的至高的鱗"
     },
     {
       "index": "8114",
-      "target": "舞雷龍的. Medulla"
+      "target": "舞雷龍的延髄"
     },
     {
       "index": "8116",
-      "target": "C.Drome Elder Fang"
+      "target": "砂龍的古龍的牙"
     },
     {
       "index": "8117",
-      "target": "C.Drome Elder Fin"
+      "target": "砂龍的古龍的鰭"
     },
     {
       "index": "8315",
-      "target": "Wing of Passion"
+      "target": "翼情熱"
     },
     {
       "index": "8335",
-      "target": "Horn Coin"
+      "target": "角硬幣"
     },
     {
       "index": "8917",
-      "target": "Jewel Beetle 寶玉"
+      "target": "寶玉甲蟲的寶玉"
     },
     {
       "index": "9045",
-      "target": "Foro Beak"
+      "target": "尾錘龍的喙"
     },
     {
       "index": "9063",
-      "target": "Diorex Scalp"
+      "target": "電龍的頭皮"
     },
     {
       "index": "9064",
-      "target": "Diorex Leg Shell"
+      "target": "電龍的脚的殻"
     },
     {
       "index": "9065",
-      "target": "Diorex Tail Shell"
+      "target": "電龍的尾的殻"
     },
     {
       "index": "9086",
-      "target": "Jebia Strong Tail"
+      "target": "灰晶蠍的強靭的尾"
     },
     {
       "index": "9089",
-      "target": "Rath Trove Scale"
+      "target": "火龍的財宝的鱗"
     },
     {
       "index": "9368",
-      "target": "Silence 寶玉"
+      "target": "静寂的寶玉"
     },
     {
       "index": "9595",
-      "target": "W.Espi Venom Spike"
+      "target": "棘白龍的猛毒的棘"
     },
     {
       "index": "9599",
-      "target": "W.Espi Dense Shell"
+      "target": "棘白龍的緻密的殻"
     },
     {
       "index": "9604",
-      "target": "Crimson Horn"
+      "target": "深紅的角"
     },
     {
       "index": "9605",
-      "target": "Brave Crimson Horn"
+      "target": "勇深紅的角"
     },
     {
       "index": "9607",
-      "target": "Malleable Hide"
+      "target": "柔軟的皮"
     },
     {
       "index": "9610",
-      "target": "Red Alluring Hide"
+      "target": "紅魅惑的皮"
     },
     {
       "index": "9737",
-      "target": "Star Leaf"
+      "target": "星的葉"
     },
     {
       "index": "9745",
-      "target": "Palm Leaf"
+      "target": "掌的葉"
     },
     {
       "index": "9775",
-      "target": "Biting Shell Case"
+      "target": "噛殻的殼"
     },
     {
       "index": "9776",
-      "target": "Cracked Shell Case"
+      "target": "亀裂殻的殼"
     },
     {
       "index": "9777",
-      "target": "Crushed Shell Case"
+      "target": "砕殻的殼"
     },
     {
       "index": "9791",
-      "target": "Elegant Mane"
+      "target": "優雅的鬣毛"
     },
     {
       "index": "10367",
-      "target": "Status Res 寶玉 Ⅲ"
+      "target": "状態耐性寶玉Ⅲ"
     },
     {
       "index": "10368",
-      "target": "Everlasting 寶玉"
+      "target": "永久的寶玉"
     },
     {
       "index": "10369",
-      "target": "Carving 寶玉"
+      "target": "剥取的寶玉"
     },
     {
       "index": "10370",
-      "target": "Bomb Sword 寶玉"
+      "target": "爆弾劍的寶玉"
     },
     {
       "index": "10371",
-      "target": "Poison Sword 寶玉"
+      "target": "毒的劍的寶玉"
     },
     {
       "index": "10372",
-      "target": "Para. Sword 寶玉"
+      "target": "麻痺的劍的寶玉"
     },
     {
       "index": "10373",
-      "target": "Sleep Sword 寶玉"
+      "target": "睡眠的劍的寶玉"
     },
     {
       "index": "10374",
-      "target": "Fire Sword 寶玉"
+      "target": "火的劍的寶玉"
     },
     {
       "index": "10375",
-      "target": "Water Sword 寶玉"
+      "target": "水的劍的寶玉"
     },
     {
       "index": "10376",
-      "target": "Thunder Sword 寶玉"
+      "target": "雷的劍的寶玉"
     },
     {
       "index": "10377",
-      "target": "Ice Sword 寶玉"
+      "target": "冰的劍的寶玉"
     },
     {
       "index": "10378",
-      "target": "Dragon Sword 寶玉"
+      "target": "龍的劍的寶玉"
     },
     {
       "index": "10647",
-      "target": "Kuaru. Essence 寶玉"
+      "target": "晶龍的精華的寶玉"
     },
     {
       "index": "10650",
-      "target": "Kuaru. Rainbow 寶玉"
+      "target": "晶龍的虹的寶玉"
     },
     {
       "index": "10654",
-      "target": "A. Rath Deep Marrow"
+      "target": "火龍的深的骨髓"
     },
     {
       "index": "10656",
-      "target": "A. Rath Glory Scale"
+      "target": "火龍的栄光的鱗"
     },
     {
       "index": "10659",
-      "target": "P. Rath Great Spike"
+      "target": "櫻火龍的偉大的棘"
     },
     {
       "index": "10660",
-      "target": "P. Rath Glow Plate"
+      "target": "櫻火龍的輝光的逆鱗"
     },
     {
       "index": "10725",
-      "target": "Scale Fossil"
+      "target": "鱗的化石"
     },
     {
       "index": "10726",
-      "target": "Claw Fossil"
+      "target": "爪的化石"
     },
     {
       "index": "10727",
-      "target": "Fang Fossil"
+      "target": "牙的化石"
     },
     {
       "index": "10728",
-      "target": "Wing Fossil"
+      "target": "翼的化石"
     },
     {
       "index": "10751",
-      "target": "Soul 寶玉"
+      "target": "魂的寶玉"
     },
     {
       "index": "10752",
-      "target": "Faded Soul 寶玉"
+      "target": "褪色魂的寶玉"
     },
     {
       "index": "11037",
-      "target": "Rec Speed 寶玉 Ⅰ"
+      "target": "回復速度寶玉Ⅰ"
     },
     {
       "index": "11038",
-      "target": "Rec Speed 寶玉 Ⅱ"
+      "target": "回復速度寶玉Ⅱ"
     },
     {
       "index": "11039",
-      "target": "Stamina Rec 寶玉 Ⅰ"
+      "target": "耐力的回復寶玉Ⅰ"
     },
     {
       "index": "11040",
-      "target": "Stamina Rec 寶玉 Ⅱ"
+      "target": "耐力的回復寶玉Ⅱ"
     },
     {
       "index": "11043",
-      "target": "Eating 寶玉"
+      "target": "食事的寶玉"
     },
     {
       "index": "11047",
-      "target": "Adrenaline 寶玉 Ⅰ"
+      "target": "興奮寶玉Ⅰ"
     },
     {
       "index": "11048",
-      "target": "Adrenaline 寶玉 Ⅱ"
+      "target": "興奮寶玉Ⅱ"
     },
     {
       "index": "11049",
-      "target": "Expert 寶玉 Ⅰ"
+      "target": "達人寶玉Ⅰ"
     },
     {
       "index": "11050",
-      "target": "Expert 寶玉 Ⅱ"
+      "target": "達人寶玉Ⅱ"
     },
     {
       "index": "11051",
-      "target": "Expert 寶玉 Ⅲ"
+      "target": "達人寶玉Ⅲ"
     },
     {
       "index": "11052",
-      "target": "Expert 寶玉 Ⅳ"
+      "target": "達人寶玉Ⅳ"
     },
     {
       "index": "11053",
-      "target": "Expert 寶玉 Ⅴ"
+      "target": "達人寶玉Ⅴ"
     },
     {
       "index": "11054",
-      "target": "Status 寶玉"
+      "target": "状態的寶玉"
     },
     {
       "index": "11055",
-      "target": "Gunnery 寶玉 Ⅰ"
+      "target": "砲術寶玉Ⅰ"
     },
     {
       "index": "11056",
-      "target": "Gunnery 寶玉 Ⅱ"
+      "target": "砲術寶玉Ⅱ"
     },
     {
       "index": "11057",
-      "target": "Fire Attack 寶玉 Ⅰ"
+      "target": "火的攻撃寶玉Ⅰ"
     },
     {
       "index": "11058",
-      "target": "Fire Attack 寶玉 Ⅱ"
+      "target": "火的攻撃寶玉Ⅱ"
     },
     {
       "index": "11059",
-      "target": "Water Attack 寶玉 Ⅰ"
+      "target": "水的攻撃寶玉Ⅰ"
     },
     {
       "index": "11060",
-      "target": "Water Attack 寶玉 Ⅱ"
+      "target": "水的攻撃寶玉Ⅱ"
     },
     {
       "index": "11061",
-      "target": "Ice Attack 寶玉 Ⅰ"
+      "target": "冰的攻撃寶玉Ⅰ"
     },
     {
       "index": "11062",
-      "target": "Ice Attack 寶玉 Ⅱ"
+      "target": "冰的攻撃寶玉Ⅱ"
     },
     {
       "index": "11063",
-      "target": "Thunder Attk 寶玉 Ⅰ"
+      "target": "雷的攻撃寶玉Ⅰ"
     },
     {
       "index": "11064",
-      "target": "Thunder Attk 寶玉 Ⅱ"
+      "target": "雷的攻撃寶玉Ⅱ"
     },
     {
       "index": "11065",
-      "target": "Dragon Attk 寶玉 Ⅰ"
+      "target": "龍的攻撃寶玉Ⅰ"
     },
     {
       "index": "11066",
-      "target": "Dragon Attk 寶玉 Ⅱ"
+      "target": "龍的攻撃寶玉Ⅱ"
     },
     {
       "index": "11067",
-      "target": "Elemental Attk 寶玉"
+      "target": "属性攻撃的寶玉"
     },
     {
       "index": "11068",
-      "target": "Martial Arts 寶玉 Ⅰ"
+      "target": "格鬥術寶玉Ⅰ"
     },
     {
       "index": "11069",
-      "target": "Martial Arts 寶玉 Ⅱ"
+      "target": "格鬥術寶玉Ⅱ"
     },
     {
       "index": "11070",
-      "target": "Fasting 寶玉 Ⅰ"
+      "target": "斷食寶玉Ⅰ"
     },
     {
       "index": "11071",
-      "target": "Fasting 寶玉 Ⅱ"
+      "target": "斷食寶玉Ⅱ"
     },
     {
       "index": "11072",
-      "target": "Focus 寶玉 Ⅰ"
+      "target": "集中寶玉Ⅰ"
     },
     {
       "index": "11073",
-      "target": "Focus 寶玉 Ⅱ"
+      "target": "集中寶玉Ⅱ"
     },
     {
       "index": "11074",
-      "target": "Wpn Handling 寶玉"
+      "target": "武器的扱的寶玉"
     },
     {
       "index": "11075",
-      "target": "Guard 寶玉 Ⅰ"
+      "target": "防御寶玉Ⅰ"
     },
     {
       "index": "11076",
-      "target": "Guard 寶玉 Ⅱ"
+      "target": "防御寶玉Ⅱ"
     },
     {
       "index": "11077",
-      "target": "Sharpening 寶玉 Ⅰ"
+      "target": "研ぎ寶玉Ⅰ"
     },
     {
       "index": "11078",
-      "target": "Sharpening 寶玉 Ⅱ"
+      "target": "研ぎ寶玉Ⅱ"
     },
     {
       "index": "11081",
-      "target": "Artisan 寶玉"
+      "target": "匠的寶玉"
     },
     {
       "index": "11082",
-      "target": "Fencing 寶玉 Ⅰ"
+      "target": "剣術寶玉Ⅰ"
     },
     {
       "index": "11083",
-      "target": "Fencing 寶玉 Ⅱ"
+      "target": "剣術寶玉Ⅱ"
     },
     {
       "index": "11084",
-      "target": "Normal Shot Up 寶玉"
+      "target": "通常弾強化的寶玉"
     },
     {
       "index": "11085",
-      "target": "Pierce Shot Up 寶玉"
+      "target": "貫通弾強化的寶玉"
     },
     {
       "index": "11086",
-      "target": "Pellet Shot Up 寶玉"
+      "target": "散弾弾強化的寶玉"
     },
     {
       "index": "11087",
-      "target": "Loading 寶玉"
+      "target": "装填的寶玉"
     },
     {
       "index": "11088",
-      "target": "Reload 寶玉 Ⅰ"
+      "target": "裝填寶玉Ⅰ"
     },
     {
       "index": "11089",
-      "target": "Reload 寶玉 Ⅱ"
+      "target": "裝填寶玉Ⅱ"
     },
     {
       "index": "11090",
-      "target": "Reload 寶玉 Ⅲ"
+      "target": "裝填寶玉Ⅲ"
     },
     {
       "index": "11091",
-      "target": "Recoil 寶玉 Ⅰ"
+      "target": "反動寶玉Ⅰ"
     },
     {
       "index": "11092",
-      "target": "Recoil 寶玉 Ⅱ"
+      "target": "反動寶玉Ⅱ"
     },
     {
       "index": "11093",
-      "target": "Recoil 寶玉 Ⅲ"
+      "target": "反動寶玉Ⅲ"
     },
     {
       "index": "11094",
-      "target": "Auto-Reload 寶玉"
+      "target": "自動裝填的寶玉"
     },
     {
       "index": "11095",
-      "target": "Ammo Combiner 寶玉"
+      "target": "弾薬調合屋的寶玉"
     },
     {
       "index": "11096",
-      "target": "Precision 寶玉 Ⅰ"
+      "target": "精密寶玉Ⅰ"
     },
     {
       "index": "11097",
-      "target": "Precision 寶玉 Ⅱ"
+      "target": "精密寶玉Ⅱ"
     },
     {
       "index": "11098",
-      "target": "Poison Res 寶玉"
+      "target": "毒的耐性的寶玉"
     },
     {
       "index": "11099",
-      "target": "Para Res 寶玉"
+      "target": "麻痺的耐性的寶玉"
     },
     {
       "index": "11100",
-      "target": "Sleep Res 寶玉"
+      "target": "睡眠的耐性的寶玉"
     },
     {
       "index": "11101",
-      "target": "Status Res 寶玉 Ⅰ"
+      "target": "状態耐性寶玉Ⅰ"
     },
     {
       "index": "11102",
-      "target": "Status Res 寶玉 Ⅱ"
+      "target": "状態耐性寶玉Ⅱ"
     },
     {
       "index": "11103",
-      "target": "Stun Res 寶玉"
+      "target": "昏厥的耐性的寶玉"
     },
     {
       "index": "11104",
-      "target": "Deoderant 寶玉"
+      "target": "消臭的寶玉"
     },
     {
       "index": "11105",
-      "target": "Snowball Res 寶玉"
+      "target": "雪球耐性的寶玉"
     },
     {
       "index": "11106",
-      "target": "Def Lock 寶玉"
+      "target": "防御鎖定的寶玉"
     },
     {
       "index": "11107",
-      "target": "Magnetic Res 寶玉"
+      "target": "磁気耐性的寶玉"
     },
     {
       "index": "11108",
-      "target": "Crystal Res 寶玉"
+      "target": "結晶耐性的寶玉"
     },
     {
       "index": "11109",
-      "target": "Hearing Prot 寶玉 Ⅰ"
+      "target": "聴覚防護寶玉Ⅰ"
     },
     {
       "index": "11110",
-      "target": "Hearing Prot 寶玉 Ⅱ"
+      "target": "聴覚防護寶玉Ⅱ"
     },
     {
       "index": "11111",
-      "target": "Wnd Pressure 寶玉 Ⅰ"
+      "target": "風壓的寶玉Ⅰ"
     },
     {
       "index": "11112",
-      "target": "Wnd Pressure 寶玉 Ⅱ"
+      "target": "風壓的寶玉Ⅱ"
     },
     {
       "index": "11113",
-      "target": "Quake Res 寶玉 Ⅰ"
+      "target": "耐震的耐性寶玉Ⅰ"
     },
     {
       "index": "11114",
-      "target": "Quake Res 寶玉 Ⅱ"
+      "target": "耐震的耐性寶玉Ⅱ"
     },
     {
       "index": "11115",
-      "target": "Evasion 寶玉 Ⅰ"
+      "target": "回避寶玉Ⅰ"
     },
     {
       "index": "11116",
-      "target": "Evasion 寶玉 Ⅱ"
+      "target": "回避寶玉Ⅱ"
     },
     {
       "index": "11117",
-      "target": "Heat Res 寶玉 Ⅰ"
+      "target": "耐暑耐性寶玉Ⅰ"
     },
     {
       "index": "11118",
-      "target": "Heat Res 寶玉 Ⅱ"
+      "target": "耐暑耐性寶玉Ⅱ"
     },
     {
       "index": "11119",
-      "target": "Cold Res 寶玉 Ⅰ"
+      "target": "耐寒耐性寶玉Ⅰ"
     },
     {
       "index": "11120",
-      "target": "Cold Res 寶玉 Ⅱ"
+      "target": "耐寒耐性寶玉Ⅱ"
     },
     {
       "index": "11121",
-      "target": "Terrain 寶玉"
+      "target": "地形的寶玉"
     },
     {
       "index": "11122",
-      "target": "Prot 寶玉 Ⅰ"
+      "target": "防護寶玉Ⅰ"
     },
     {
       "index": "11123",
-      "target": "Prot 寶玉 Ⅱ"
+      "target": "防護寶玉Ⅱ"
     },
     {
       "index": "11124",
-      "target": "Guts 寶玉 Ⅰ"
+      "target": "根性寶玉Ⅰ"
     },
     {
       "index": "11125",
-      "target": "Guts 寶玉 Ⅱ"
+      "target": "根性寶玉Ⅱ"
     },
     {
       "index": "11126",
-      "target": "Wide-Area 寶玉 Ⅱ"
+      "target": "広域範囲寶玉Ⅱ"
     },
     {
       "index": "11127",
-      "target": "Wide-Area 寶玉 Ⅲ"
+      "target": "広域範囲寶玉Ⅲ"
     },
     {
       "index": "11128",
-      "target": "Whim 寶玉"
+      "target": "気まぐれ的寶玉"
     },
     {
       "index": "11129",
-      "target": "Hunter 寶玉"
+      "target": "獵人的寶玉"
     },
     {
       "index": "11130",
-      "target": "Combining 寶玉 Ⅰ"
+      "target": "調合寶玉Ⅰ"
     },
     {
       "index": "11131",
-      "target": "Combining 寶玉 Ⅱ"
+      "target": "調合寶玉Ⅱ"
     },
     {
       "index": "11132",
-      "target": "Flute Expert 寶玉"
+      "target": "笛達人的寶玉"
     },
     {
       "index": "11133",
-      "target": "Speed Setup 寶玉 Ⅰ"
+      "target": "速度設置寶玉Ⅰ"
     },
     {
       "index": "11134",
-      "target": "Speed Setup 寶玉 Ⅱ"
+      "target": "速度設置寶玉Ⅱ"
     },
     {
       "index": "11136",
-      "target": "Psychic 寶玉"
+      "target": "千里眼的寶玉"
     },
     {
       "index": "11137",
-      "target": "Backpacking 寶玉"
+      "target": "運搬的寶玉"
     },
     {
       "index": "11138",
-      "target": "Gather Speed 寶玉 Ⅱ"
+      "target": "採取速度寶玉Ⅱ"
     },
     {
       "index": "11139",
-      "target": "Gathering 寶玉 Ⅱ"
+      "target": "採取寶玉Ⅱ"
     },
     {
       "index": "11140",
-      "target": "Mindfulness 寶玉"
+      "target": "気配的寶玉"
     },
     {
       "index": "11141",
-      "target": "Fate 寶玉 Ⅰ"
+      "target": "命運寶玉Ⅰ"
     },
     {
       "index": "11142",
-      "target": "Fate 寶玉 Ⅱ"
+      "target": "命運寶玉Ⅱ"
     },
     {
       "index": "11143",
-      "target": "Pressure 寶玉 Ⅰ"
+      "target": "圧力寶玉Ⅰ"
     },
     {
       "index": "11144",
-      "target": "Pressure 寶玉 Ⅱ"
+      "target": "圧力寶玉Ⅱ"
     },
     {
       "index": "11145",
-      "target": "Capture Expert 寶玉"
+      "target": "捕獲的達人的寶玉"
     },
     {
       "index": "11146",
-      "target": "Caring 寶玉 Ⅱ"
+      "target": "介護寶玉Ⅱ"
     },
     {
       "index": "11147",
-      "target": "Caring 寶玉 Ⅲ"
+      "target": "介護寶玉Ⅲ"
     },
     {
       "index": "11159",
-      "target": "Courage 寶玉"
+      "target": "勇気的寶玉"
     },
     {
       "index": "11160",
-      "target": "Glittering 寶玉"
+      "target": "煌めく的寶玉"
     },
     {
       "index": "11161",
-      "target": "Divine 寶玉"
+      "target": "神的寶玉"
     },
     {
       "index": "11186",
-      "target": "Varusa Indigo 寶玉"
+      "target": "炎角龍的青藍的寶玉"
     },
     {
       "index": "11192",
-      "target": "Varusa Crimson 寶玉"
+      "target": "炎角龍的深紅的寶玉"
     },
     {
       "index": "11271",
-      "target": "G.Plesi Brave Fin"
+      "target": "水龍的緑勇的鰭"
     },
     {
       "index": "11272",
-      "target": "Curved Shrimp Claw"
+      "target": "彎曲蝦的爪"
     },
     {
       "index": "11277",
-      "target": "G.Plesi Bubble 寶玉"
+      "target": "水龍的緑泡沫的寶玉"
     },
     {
       "index": "11283",
-      "target": "Dragon Crystal 寶玉"
+      "target": "龍的結晶的寶玉"
     },
     {
       "index": "11315",
-      "target": "Abyssal Origin 寶玉"
+      "target": "深淵根源的寶玉"
     },
     {
       "index": "11327",
-      "target": "Gurea.Slick Wing"
+      "target": "蠻龍的滑的翼"
     },
     {
       "index": "11348",
-      "target": "Harudo Torrent 寶玉"
+      "target": "金華龍的激流的寶玉"
     },
     {
       "index": "11387",
-      "target": "Cats Eye 寶玉 \"Green\""
+      "target": "猫眼寶玉緑"
     },
     {
       "index": "11398",
-      "target": "Stellate Indigo 寶玉"
+      "target": "星状青藍的寶玉"
     },
     {
       "index": "11664",
-      "target": "Herbal Science 寶玉"
+      "target": "薬草科学的寶玉"
     },
     {
       "index": "11665",
-      "target": "Rage 寶玉 Ⅰ"
+      "target": "憤怒的寶玉Ⅰ"
     },
     {
       "index": "11666",
-      "target": "Rage 寶玉 Ⅱ"
+      "target": "憤怒的寶玉Ⅱ"
     },
     {
       "index": "11667",
-      "target": "Vitality 寶玉 Ⅰ"
+      "target": "体力寶玉Ⅰ"
     },
     {
       "index": "11668",
-      "target": "Vitality 寶玉 Ⅱ"
+      "target": "体力寶玉Ⅱ"
     },
     {
       "index": "11669",
-      "target": "Vitality 寶玉 Ⅲ"
+      "target": "体力寶玉Ⅲ"
     },
     {
       "index": "11670",
-      "target": "Reflect 寶玉 Ⅰ"
+      "target": "反射寶玉Ⅰ"
     },
     {
       "index": "11671",
-      "target": "Reflect 寶玉 Ⅱ"
+      "target": "反射寶玉Ⅱ"
     },
     {
       "index": "11672",
-      "target": "Reflect 寶玉 Ⅲ"
+      "target": "反射寶玉Ⅲ"
     },
     {
       "index": "11673",
-      "target": "Stylish 寶玉"
+      "target": "時装的寶玉"
     },
     {
       "index": "11674",
-      "target": "Edgemaster 寶玉 Ⅰ"
+      "target": "剣匠寶玉Ⅰ"
     },
     {
       "index": "11675",
-      "target": "Edgemaster 寶玉 Ⅱ"
+      "target": "剣匠寶玉Ⅱ"
     },
     {
       "index": "11676",
-      "target": "Edgemaster 寶玉 Ⅲ"
+      "target": "剣匠寶玉Ⅲ"
     },
     {
       "index": "11677",
-      "target": "Steady Hand 寶玉"
+      "target": "穏手的寶玉"
     },
     {
       "index": "11678",
-      "target": "Gentle Shot 寶玉 Ⅰ"
+      "target": "柔弾寶玉Ⅰ"
     },
     {
       "index": "11679",
-      "target": "Gentle Shot 寶玉 Ⅱ"
+      "target": "柔弾寶玉Ⅱ"
     },
     {
       "index": "11680",
-      "target": "Gentle Shot 寶玉 Ⅲ"
+      "target": "柔弾寶玉Ⅲ"
     },
     {
       "index": "11681",
-      "target": "Mounting 寶玉 Ⅰ"
+      "target": "騎乘的寶玉Ⅰ"
     },
     {
       "index": "11682",
-      "target": "Mounting 寶玉 Ⅱ"
+      "target": "騎乘的寶玉Ⅱ"
     },
     {
       "index": "11683",
-      "target": "Mounting 寶玉 Ⅲ"
+      "target": "騎乘的寶玉Ⅲ"
     },
     {
       "index": "11684",
-      "target": "Critical Shot 寶玉 Ⅰ"
+      "target": "會心弾寶玉Ⅰ"
     },
     {
       "index": "11685",
-      "target": "Critical Shot 寶玉 Ⅱ"
+      "target": "會心弾寶玉Ⅱ"
     },
     {
       "index": "11686",
-      "target": "Critical Shot 寶玉 Ⅲ"
+      "target": "會心弾寶玉Ⅲ"
     },
     {
       "index": "11687",
-      "target": "Bullet Saver 寶玉 Ⅰ"
+      "target": "弾節約寶玉Ⅰ"
     },
     {
       "index": "11688",
-      "target": "Bullet Saver 寶玉 Ⅱ"
+      "target": "弾節約寶玉Ⅱ"
     },
     {
       "index": "11689",
-      "target": "Three Worlds 寶玉 Ⅱ"
+      "target": "三界寶玉Ⅱ"
     },
     {
       "index": "11690",
-      "target": "Three Worlds 寶玉 Ⅲ"
+      "target": "三界寶玉Ⅲ"
     },
     {
       "index": "11691",
-      "target": "Combo Exp 寶玉 Ⅱ"
+      "target": "連撃達人寶玉Ⅱ"
     },
     {
       "index": "11692",
-      "target": "Combo Exp 寶玉 Ⅲ"
+      "target": "連撃達人寶玉Ⅲ"
     },
     {
       "index": "11693",
-      "target": "Encourage 寶玉 Ⅰ"
+      "target": "激勵寶玉Ⅰ"
     },
     {
       "index": "11694",
-      "target": "Encourage 寶玉 Ⅱ"
+      "target": "激勵寶玉Ⅱ"
     },
     {
       "index": "11695",
-      "target": "Compensation 寶玉"
+      "target": "補正的寶玉"
     },
     {
       "index": "11696",
-      "target": "Blazing Grace 寶玉 Ⅰ"
+      "target": "熾恩寵寶玉Ⅰ"
     },
     {
       "index": "11697",
-      "target": "Blazing Grace 寶玉 Ⅱ"
+      "target": "熾恩寵寶玉Ⅱ"
     },
     {
       "index": "11735",
-      "target": "Abio. Malice Bone"
+      "target": "獰龍的悪意的骨"
     },
     {
       "index": "11980",
-      "target": "Exotic 寶玉"
+      "target": "異国的寶玉"
     },
     {
       "index": "12045",
-      "target": "Grave Claw"
+      "target": "墓的爪"
     },
     {
       "index": "12049",
-      "target": "Surging Blk Carapace"
+      "target": "奔流黒的堅殼"
     },
     {
       "index": "12050",
-      "target": "Boiling Red Carapace"
+      "target": "沸騰紅的堅殼"
     },
     {
       "index": "12305",
-      "target": "True Power 寶玉"
+      "target": "真力量的寶玉"
     },
     {
       "index": "12306",
-      "target": "Divine Power 寶玉"
+      "target": "神力量的寶玉"
     },
     {
       "index": "12307",
-      "target": "O. Espi Toxic Spike"
+      "target": "棘茶龍的毒的棘"
     },
     {
       "index": "12310",
-      "target": "O. Espi Blade Spike"
+      "target": "棘茶龍的刃的棘"
     },
     {
       "index": "12329",
-      "target": "R. Volga Magma Fang"
+      "target": "熔岩龍的紅岩漿的牙"
     },
     {
       "index": "12330",
-      "target": "R. Volga Slag Shell"
+      "target": "熔岩龍的紅鉱滓的殻"
     },
     {
       "index": "12331",
-      "target": "R. Volga Rotary Fin"
+      "target": "熔岩龍的紅回転的鰭"
     },
     {
       "index": "12371",
-      "target": "Flashfrost Sac"
+      "target": "閃霜的袋"
     },
     {
       "index": "12379",
-      "target": "W.Hypnoc V.Beak"
+      "target": "眠鳥的白鮮艶的喙"
     },
     {
       "index": "12405",
-      "target": "Brach Scalp"
+      "target": "砕竜的頭皮"
     },
     {
       "index": "12468",
-      "target": "Ravi Hidden Marrow"
+      "target": "烈海龍隠的骨髓"
     },
     {
       "index": "12510",
-      "target": "White Beak"
+      "target": "白的喙"
     },
     {
       "index": "12823",
-      "target": "Daming Beak"
+      "target": "威嚇的喙"
     },
     {
       "index": "12826",
-      "target": "Toa Ice Scale"
+      "target": "砦蟹的氷的鱗"
     },
     {
       "index": "12839",
-      "target": "Toa Strong Tail"
+      "target": "砦蟹的強靭的尾"
     },
     {
       "index": "12893",
-      "target": "Lone Wolf 寶玉"
+      "target": "孤狼的寶玉"
     },
     {
       "index": "12894",
-      "target": "Dissolver 寶玉"
+      "target": "溶解的寶玉"
     },
     {
       "index": "12895",
-      "target": "Vampirism 寶玉 Ⅰ"
+      "target": "吸血寶玉Ⅰ"
     },
     {
       "index": "12896",
-      "target": "Vampirism 寶玉 Ⅱ"
+      "target": "吸血寶玉Ⅱ"
     },
     {
       "index": "12897",
-      "target": "Evade Distance 寶玉"
+      "target": "回避距離的寶玉"
     },
     {
       "index": "12898",
-      "target": "Movement Speed 寶玉 Ⅰ"
+      "target": "移動速度寶玉Ⅰ"
     },
     {
       "index": "12899",
-      "target": "Movement Speed 寶玉 Ⅱ"
+      "target": "移動速度寶玉Ⅱ"
     },
     {
       "index": "12912",
-      "target": "Lg Chameleos 寶玉"
+      "target": "霞龍的大的寶玉"
     },
     {
       "index": "13338",
-      "target": "Ruko.Dynamo Horn"
+      "target": "極龍的動力的角"
     },
     {
       "index": "13341",
-      "target": "Dark Spectrum 寶玉"
+      "target": "闇光譜的寶玉"
     },
     {
       "index": "13618",
-      "target": "Zena Black 寶玉"
+      "target": "裂水龍的黒寶玉"
     },
     {
       "index": "13621",
-      "target": "Zena Blood 寶玉"
+      "target": "裂水龍的血寶玉"
     },
     {
       "index": "13700",
-      "target": "Huge Scalp"
+      "target": "巨大的頭皮"
     },
     {
       "index": "13701",
-      "target": "Mega Scalp"
+      "target": "巨大的頭皮"
     },
     {
       "index": "13722",
-      "target": "Deadly Poison Sac"
+      "target": "毒的致死的袋"
     },
     {
       "index": "13758",
-      "target": "Defiled Scale"
+      "target": "汚濁的鱗"
     },
     {
       "index": "13775",
-      "target": "Los S.Burning Tail"
+      "target": "火龍的強靭燃燒的尾"
     },
     {
       "index": "13777",
-      "target": "Los Z Mid Wing"
+      "target": "火龍的Ｚ中級的翼"
     },
     {
       "index": "13778",
-      "target": "Los Z High Wing"
+      "target": "火龍的Ｚ高級的翼"
     },
     {
       "index": "13924",
-      "target": "Blang Majestic Fang"
+      "target": "雪獅子的威風的牙"
     },
     {
       "index": "14045",
-      "target": "Deadly Paralysis Sac"
+      "target": "麻痺的致死的袋"
     },
     {
       "index": "14050",
-      "target": "Vashimu Shred Claw"
+      "target": "尾晶蠍的撕裂的爪"
     },
     {
       "index": "14052",
-      "target": "Vashimu Z Mid Tail"
+      "target": "尾晶蠍的Ｚ中級的尾"
     },
     {
       "index": "14053",
-      "target": "Vashimu Z High Tail"
+      "target": "尾晶蠍的Ｚ高級的尾"
     },
     {
       "index": "14054",
-      "target": "Vashimu Z Top Tail"
+      "target": "尾晶蠍的Ｚ頂級的尾"
     },
     {
       "index": "14055",
-      "target": "Keoaru Charcoal Hide"
+      "target": "焦土龍炭的皮"
     },
     {
       "index": "14252",
-      "target": "Giao Frost Marrow"
+      "target": "冰鮫龍的霜的骨髓"
     },
     {
       "index": "14256",
-      "target": "Giao Lrg Fierce Horn"
+      "target": "冰鮫龍的大兇猛的角"
     },
     {
       "index": "14258",
-      "target": "Giao Ultra Ice Sac"
+      "target": "冰鮫龍的超氷的袋"
     },
     {
       "index": "14262",
-      "target": "Giao Z Mid Tail"
+      "target": "冰鮫龍的Ｚ中級的尾"
     },
     {
       "index": "14263",
-      "target": "Giao Z High tail"
+      "target": "冰鮫龍的Ｚ高級的尾"
     },
     {
       "index": "14264",
-      "target": "Giao Z Top Tail"
+      "target": "冰鮫龍的Ｚ頂級的尾"
     },
     {
       "index": "14271",
-      "target": "Hyuji Strong Tail"
+      "target": "冰狐龍的強靭的尾"
     },
     {
       "index": "14272",
-      "target": "Hyuji Tough Tail"
+      "target": "冰狐龍的剛尾"
     },
     {
       "index": "14337",
-      "target": "Exploit Weakness 寶玉"
+      "target": "弱點特效的寶玉"
     },
     {
       "index": "14338",
-      "target": "S. Assault 寶玉"
+      "target": "強靭強襲的寶玉"
     },
     {
       "index": "14340",
-      "target": "Crit Conversion 寶玉"
+      "target": "會心轉換的寶玉"
     },
     {
       "index": "14341",
-      "target": "Sword God 寶玉 Ⅰ"
+      "target": "劍神寶玉Ⅰ"
     },
     {
       "index": "14342",
-      "target": "Sword God 寶玉 Ⅱ"
+      "target": "劍神寶玉Ⅱ"
     },
     {
       "index": "14343",
-      "target": "Issen 寶玉 Ⅰ"
+      "target": "一閃寶玉Ⅰ"
     },
     {
       "index": "14344",
-      "target": "Issen 寶玉 Ⅱ"
+      "target": "一閃寶玉Ⅱ"
     },
     {
       "index": "14345",
-      "target": "Issen 寶玉 Ⅲ"
+      "target": "一閃寶玉Ⅲ"
     },
     {
       "index": "14360",
-      "target": "Elze Burning Claw"
+      "target": "灼零龍的燃燒爪"
     },
     {
       "index": "14363",
-      "target": "Elze Frozen Horn"
+      "target": "灼零龍的凍結角"
     },
     {
       "index": "14375",
-      "target": "Mido Speed Claw"
+      "target": "溟龍的速度的爪"
     },
     {
       "index": "14381",
-      "target": "Mido Stem Marrow"
+      "target": "溟龍的莖的骨髓"
     },
     {
       "index": "14382",
-      "target": "Mido Whip Tail"
+      "target": "溟龍的鞭的尾"
     },
     {
       "index": "14383",
-      "target": "Mido Flash 寶玉"
+      "target": "溟龍的閃光的寶玉"
     },
     {
       "index": "14392",
-      "target": "W. Fata Bright 寶玉"
+      "target": "白黒龍的輝耀寶玉"
     },
     {
       "index": "14393",
-      "target": "W. Fatalis Pale Horn"
+      "target": "白黒龍的蒼白角"
     },
     {
       "index": "14397",
-      "target": "W. Fata Cracked Wing"
+      "target": "白黒龍的亀裂翼"
     },
     {
       "index": "14442",
-      "target": "Burnt Frost Scale"
+      "target": "焦霜的鱗"
     },
     {
       "index": "14514",
-      "target": "Plesi Viscous Marrow"
+      "target": "水龍的黏的骨髓"
     },
     {
       "index": "14526",
-      "target": "Plesi Shrp Tail Spk"
+      "target": "水龍的斬位的尾棘"
     },
     {
       "index": "14527",
-      "target": "Ruko Magnet Scale"
+      "target": "嵐龍的磁鐵的鱗"
     },
     {
       "index": "14534",
-      "target": "Ruko Magnetic Tail"
+      "target": "嵐龍的磁気的尾"
     },
     {
       "index": "14536",
-      "target": "Ruko Extreme Horn"
+      "target": "嵐龍的極限的角"
     },
     {
       "index": "14540",
-      "target": "Ruko Z Mid Wing"
+      "target": "嵐龍的Ｚ中級的翼"
     },
     {
       "index": "14542",
-      "target": "Ruko Z Top Wing"
+      "target": "嵐龍的Ｚ頂級的翼"
     },
     {
       "index": "14552",
-      "target": "New Year 寶玉 [Inu]"
+      "target": "新年寶玉【犬】"
     },
     {
       "index": "14715",
-      "target": "Heavenly Dragon 寶玉"
+      "target": "龍的天上的寶玉"
     },
     {
       "index": "14862",
-      "target": "Torid Lovely Marrow"
+      "target": "照雷鳥的可愛的骨髓"
     },
     {
       "index": "14864",
-      "target": "Torid Shining 寶玉"
+      "target": "照雷鳥的輝耀的寶玉"
     },
     {
       "index": "14866",
-      "target": "Torid Z Mid Wing"
+      "target": "照雷鳥的Ｚ中級的翼"
     },
     {
       "index": "14867",
-      "target": "Torid Z High Wing"
+      "target": "照雷鳥的Ｚ高級的翼"
     },
     {
       "index": "14868",
-      "target": "Torid Z Top Wing"
+      "target": "照雷鳥的Ｚ頂級的翼"
     },
     {
       "index": "14871",
-      "target": "Torid Complete Tail"
+      "target": "照雷鳥的完全的尾"
     },
     {
       "index": "14954",
-      "target": "Anoru Silver 寶玉"
+      "target": "氷狐龍的銀的寶玉"
     },
     {
       "index": "14955",
-      "target": "Anoru Disaster Marrow"
+      "target": "氷狐龍的災厄的骨髓"
     },
     {
       "index": "14961",
-      "target": "Anoru Gruesome Tail"
+      "target": "氷狐龍的慘烈的尾"
     },
     {
       "index": "14963",
-      "target": "Anoru Extreme Back Fin"
+      "target": "氷狐龍的極限背的鰭"
     },
     {
       "index": "14964",
-      "target": "Anoru Blue Wing"
+      "target": "氷狐龍的藍的翼"
     },
     {
       "index": "14965",
-      "target": "Anoru Extreme Blue Wing"
+      "target": "氷狐龍的極限藍的翼"
     },
     {
       "index": "14971",
-      "target": "Gasura Venom Sac"
+      "target": "鎧竜的猛毒的袋"
     },
     {
       "index": "14976",
-      "target": "Gasura Phosphor Fin"
+      "target": "鎧竜的燐鰭"
     },
     {
       "index": "14977",
-      "target": "Gasura Shrp Tail Spk"
+      "target": "鎧竜的斬位的尾棘"
     },
     {
       "index": "14978",
-      "target": "Gasura Hvy Tail Spk"
+      "target": "鎧竜的重尾棘"
     },
     {
       "index": "15379",
-      "target": "Boga Layered Hide"
+      "target": "爆霧龍的重層的皮"
     },
     {
       "index": "15380",
-      "target": "Boga Deflecting Scale"
+      "target": "爆霧龍的彈開的鱗"
     },
     {
       "index": "15381",
-      "target": "Boga High Density Bone"
+      "target": "爆霧龍的高級密度的骨"
     },
     {
       "index": "15384",
-      "target": "Boga Flaming Fog 寶玉"
+      "target": "爆霧龍的炎霧的寶玉"
     },
     {
       "index": "15385",
-      "target": "Boga Cone Tail"
+      "target": "爆霧龍的錐的尾"
     },
     {
       "index": "15387",
-      "target": "Boga Blunt Fang"
+      "target": "爆霧龍的鈍器的牙"
     },
     {
       "index": "15480",
-      "target": "Baru Special Blood Sac"
+      "target": "噬血龍的特殊血袋"
     },
     {
       "index": "15485",
-      "target": "Baru Vermillion Fin"
+      "target": "噬血龍的朱紅鰭"
     },
     {
       "index": "15792",
-      "target": "New Year 寶玉 [Pig]"
+      "target": "新年寶玉【豬】"
     },
     {
       "index": "15818",
-      "target": "Newyear Snake 寶玉"
+      "target": "新年蛇的寶玉"
     },
     {
       "index": "16423",
-      "target": "Harudo Ivory Scale"
+      "target": "金華龍的象牙的鱗"
     },
     {
       "index": "16430",
-      "target": "Harudo Tail Core"
+      "target": "金華龍的尾核"
     },
     {
       "index": "16432",
-      "target": "Harudo Wing Core"
+      "target": "金華龍的翼核"
     },
     {
       "index": "16433",
-      "target": "Harudo Slash Claw"
+      "target": "金華龍的斬的爪"
     },
     {
       "index": "16473",
-      "target": "High Prayer 寶玉"
+      "target": "高級祈願寶玉"
     },
     {
       "index": "16474",
-      "target": "Song Prayer 寶玉"
+      "target": "歌祈願寶玉"
     },
     {
       "index": "16475",
-      "target": "Bullet Prayer 寶玉"
+      "target": "弾祈願寶玉"
     },
     {
       "index": "16476",
-      "target": "Ren Prayer 寶玉"
+      "target": "連祈願寶玉"
     },
     {
       "index": "16477",
-      "target": "Dancing Prayer 寶玉"
+      "target": "舞祈願寶玉"
     },
     {
       "index": "16478",
-      "target": "Kan Prayer 寶玉"
+      "target": "感祈願寶玉"
     },
     {
       "index": "16479",
-      "target": "Rhyme Prayer 寶玉"
+      "target": "韻祈願寶玉"
     },
     {
       "index": "16480",
-      "target": "Praise Prayer 寶玉"
+      "target": "讃美祈願寶玉"
     },
     {
       "index": "16481",
-      "target": "Tomo Prayer 寶玉"
+      "target": "友祈願寶玉"
     },
     {
       "index": "16482",
-      "target": "Poem Prayer 寶玉"
+      "target": "詩祈願寶玉"
     },
     {
       "index": "16483",
-      "target": "Kind Prayer 寶玉"
+      "target": "優祈願寶玉"
     },
     {
       "index": "16484",
-      "target": "Life Prayer 寶玉"
+      "target": "命祈願寶玉"
     },
     {
       "index": "16485",
-      "target": "Marked Prayer 寶玉"
+      "target": "印祈願寶玉"
     },
     {
       "index": "16486",
-      "target": "Bloom Prayer 寶玉"
+      "target": "花祈願寶玉"
     },
     {
       "index": "16494",
-      "target": "Taikun Crush Shell"
+      "target": "多殼蟹的破碎殻"
     },
     {
       "index": "16496",
-      "target": "Taikun White Shell"
+      "target": "多殼蟹的白的殻"
     },
     {
       "index": "16497",
-      "target": "Taikun Cyan Shell"
+      "target": "多殼蟹的青藍殻"
     },
     {
       "index": "16501",
-      "target": "Taikun Blue Spike"
+      "target": "多殼蟹的藍的棘"
     },
     {
       "index": "16505",
-      "target": "Taikun Z Mid Claw"
+      "target": "多殼蟹的Ｚ中級的爪"
     },
     {
       "index": "16506",
-      "target": "Taikun Z High Claw"
+      "target": "多殼蟹的Ｚ高級的爪"
     },
     {
       "index": "16507",
-      "target": "Taikun Z Top Claw"
+      "target": "多殼蟹的Ｚ頂級的爪"
     }
   ]
 }
