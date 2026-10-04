@@ -6017,12 +6017,12 @@ index,source,target
 6015,Fishing Proof 1st,Fishing Proof 1st
 6016,Fishing Proof 2nd,Fishing Proof 2nd
 6017,Fishing Proof 3rd,Fishing Proof 3rd
-6018,Parin WhtTea Tkt,Parin WhtTea Tkt
-6019,Parin WhtBerry Tkt,Parin WhtBerry Tkt
-6020,Parin GrnTea Tkt,Parin GrnTea Tkt
-6021,Parin BerryTea Tkt,Parin BerryTea Tkt
-6022,S ParisTeateaTkt,S ParisTeateaTkt
-6023,S ParisBeryberyTkt,S ParisBeryberyTkt
+6018,Parin WhtTea Tkt,パリン白茶票
+6019,Parin WhtBerry Tkt,パリン白苺票
+6020,Parin GrnTea Tkt,パリン綠茶票
+6021,Parin BerryTea Tkt,パリン苺茶票
+6022,S ParisTeateaTkt,Ｓパリ茶茶票
+6023,S ParisBeryberyTkt,Ｓパリ苺苺票
 6024,Paris Fluffy,Paris Fluffy
 6025,Crispy Fruit,Crispy Fruit
 6026,Dowsing Rod,Dowsing Rod
@@ -6066,13 +6066,13 @@ index,source,target
 6064,Canbrio Eggs,Canbrio Eggs
 6065,Prismatic Leather,Prismatic Leather
 6066,Gospel Stone,Gospel Stone
-6067,BP15 Tkt・1,BP15 Tkt・1
-6068,BP15 Tkt・2,BP15 Tkt・2
-6069,BP15 Tkt・3,BP15 Tkt・3
-6070,BP15 Tkt・4,BP15 Tkt・4
-6071,BP15 Tkt・5,BP15 Tkt・5
-6072,BP15 Tkt・6,BP15 Tkt・6
-6073,BP15 Tkt・7,BP15 Tkt・7
+6067,BP15 Tkt・1,ＢＰ15票・１
+6068,BP15 Tkt・2,ＢＰ15票・２
+6069,BP15 Tkt・3,ＢＰ15票・３
+6070,BP15 Tkt・4,ＢＰ15票・４
+6071,BP15 Tkt・5,ＢＰ15票・５
+6072,BP15 Tkt・6,ＢＰ15票・６
+6073,BP15 Tkt・7,ＢＰ15票・７
 6074,[SnS] Beam Slash,[SnS] Beam Slash
 6075,[DS] Sharpening,[DS] Sharpening
 6076,[GS] Rotation,[GS] Rotation
@@ -6087,48 +6087,48 @@ index,source,target
 6085,Sonic Range Sigil,Sonic Range Sigil
 6086,Dummy 6086,Dummy 6086
 6087,Dummy 6087,Dummy 6087
-6088,Agama Tkt,Agama Tkt
-6089,Bia Tkt,Bia Tkt
-6090,Aqua Tkt,Aqua Tkt
-6091,Zodek Tkt Head,Zodek Tkt Head
-6092,Zodek Tkt Torso,Zodek Tkt Torso
-6093,Zodek Tkt Arms,Zodek Tkt Arms
-6094,Zodek Tkt Waist,Zodek Tkt Waist
-6095,Zodek Tkt Legs,Zodek Tkt Legs
-6096,Wheel Tkt,Wheel Tkt
-6097,Oviri Tkt,Oviri Tkt
-6098,Ohai Tkt,Ohai Tkt
-6099,Indus Tkt,Indus Tkt
-6100,Octol Tkt,Octol Tkt
-6101,Pasami Tkt,Pasami Tkt
-6102,Pasudaina Tkt,Pasudaina Tkt
-6103,Piscari Tkt,Piscari Tkt
-6104,Bathclin Tkt,Bathclin Tkt
-6105,Pascal Tkt,Pascal Tkt
-6106,Nagrin Tkt,Nagrin Tkt
-6107,Caligu Tkt,Caligu Tkt
-6108,Cabaret Tkt,Cabaret Tkt
-6109,Neko Tie Tkt,Neko Tie Tkt
-6110,Mounto Tkt,Mounto Tkt
-6111,Grande Tkt,Grande Tkt
-6112,Lavia Tkt,Lavia Tkt
+6088,Agama Tkt,アガマ票
+6089,Bia Tkt,ビア票
+6090,Aqua Tkt,飛水票
+6091,Zodek Tkt Head,正義頭票
+6092,Zodek Tkt Torso,正義胴票
+6093,Zodek Tkt Arms,正義腕票
+6094,Zodek Tkt Waist,正義腰票
+6095,Zodek Tkt Legs,正義脚票
+6096,Wheel Tkt,神意票
+6097,Oviri Tkt,狂野票
+6098,Ohai Tkt,オハイ票
+6099,Indus Tkt,赤雷票
+6100,Octol Tkt,オクトル票
+6101,Pasami Tkt,中堅票
+6102,Pasudaina Tkt,動能票
+6103,Piscari Tkt,旋風票
+6104,Bathclin Tkt,戰神票
+6105,Pascal Tkt,司令票
+6106,Nagrin Tkt,ナグリン票
+6107,Caligu Tkt,カリギュ票
+6108,Cabaret Tkt,キャヴァ票
+6109,Neko Tie Tkt,ネコダイ票
+6110,Mounto Tkt,マウント票
+6111,Grande Tkt,グランデ票
+6112,Lavia Tkt,ラヴィア票
 6113,Black Wyvern Claw,Black Wyvern Claw
 6114,Boiling Blood,Boiling Blood
 6115,Dummy 6115,Dummy 6115
-6116,Dragoon Tkt,Dragoon Tkt
-6117,L Burst Tkt,L Burst Tkt
-6118,Rasta Tkt,Rasta Tkt
-6119,Stern Tkt,Stern Tkt
-6120,Rast Tkt Head,Rast Tkt Head
-6121,Rast Tkt Torso,Rast Tkt Torso
-6122,Rast Tkt Arms,Rast Tkt Arms
-6123,Rast Tkt Waist,Rast Tkt Waist
-6124,Rast Tkt Legs,Rast Tkt Legs
-6125,Fuego Tkt,Fuego Tkt
-6126,Para Tkt,Para Tkt
-6127,Vada Tkt,Vada Tkt
-6128,Veno Tkt,Veno Tkt
-6129,Ron Tkt,Ron Tkt
+6116,Dragoon Tkt,惡龍票
+6117,L Burst Tkt,Ｌ爆破票
+6118,Rasta Tkt,光明票
+6119,Stern Tkt,凜然票
+6120,Rast Tkt Head,星塵頭票
+6121,Rast Tkt Torso,星塵胴票
+6122,Rast Tkt Arms,星塵腕票
+6123,Rast Tkt Waist,星塵腰票
+6124,Rast Tkt Legs,星塵脚票
+6125,Fuego Tkt,フエゴ票
+6126,Para Tkt,麻痺票
+6127,Vada Tkt,ヴァダ票
+6128,Veno Tkt,ヴェノ票
+6129,Ron Tkt,ロン票
 6130,Indigo Jewel,Indigo Jewel
 6131,Deep Blue Jewel,Deep Blue Jewel
 6132,Rust Jewel,Rust Jewel
@@ -6163,7 +6163,7 @@ index,source,target
 6161,HC Crystal Peach ,HC Crystal Peach 
 6162,HC Crystal Silver ,HC Crystal Silver 
 6163,HC Crystal Gold ,HC Crystal Gold 
-6164,HRP Tkt (800),HRP Tkt (800)
+6164,HRP Tkt (800),ＨＲＰ票（800）
 6165,Thin Gook Soup,Thin Gook Soup
 6166,Tasty Gook Soup,Tasty Gook Soup
 6167,Rich Gook Soup,Rich Gook Soup
@@ -6174,8 +6174,8 @@ index,source,target
 6172,Dragon Atk Fruit,Dragon Atk Fruit
 6173,Tremor Pear,Tremor Pear
 6174,Flinch Powder,Flinch Powder
-6175,HRP Tkt (10K),HRP Tkt (10K)
-6176,HRP Tkt (20k),HRP Tkt (20k)
+6175,HRP Tkt (10K),ＨＲＰ票（10K）
+6176,HRP Tkt (20k),ＨＲＰ票（20K）
 6177,Monster Drawings,Monster Drawings
 6178,Big Ears Note,Big Ears Note
 6179,Small Ears Note,Small Ears Note
@@ -6189,7 +6189,7 @@ index,source,target
 6187,Folly Note,Folly Note
 6188,Numb Note,Numb Note
 6189,Freezing note,Freezing note
-6190,Monster Survey Tkt,Monster Survey Tkt
+6190,Monster Survey Tkt,魔物調査票
 6191,Demon Pattern,Demon Pattern
 6192,Cuff Base・Ebony,Cuff Base・Ebony
 6193,Cuff Base・Amethyst,Cuff Base・Amethyst
@@ -6393,43 +6393,43 @@ index,source,target
 6391,Carapaceon Fluid,Carapaceon Fluid
 6392,M. Cat's Favourite,M. Cat's Favourite
 6393,Exercise Pearl Ⅶ,Exercise Pearl Ⅶ
-6394,Fort C Tkt,Fort C Tkt
-6395,Fort S Tkt,Fort S Tkt
-6396,Last L Tkt,Last L Tkt
-6397,Dragon M Tkt,Dragon M Tkt
-6398,Burst S Tkt,Burst S Tkt
-6399,Shadow S Tkt,Shadow S Tkt
-6400,Papipupe Tkt A,Papipupe Tkt A
-6401,Papipupe Tkt B,Papipupe Tkt B
-6402,Papipupe Tkt C,Papipupe Tkt C
-6403,Wyrm's Blaze Tkt,Wyrm's Blaze Tkt
-6404,Wyrm's Blight Tkt,Wyrm's Blight Tkt
-6405,Fulgur Blade Tkt,Fulgur Blade Tkt
-6406,Wyrm's Bane Tkt,Wyrm's Bane Tkt
-6407,Divinity Tkt,Divinity Tkt
-6408,Divine Spirit Tkt,Divine Spirit Tkt
-6409,Divine Wrath Tkt,Divine Wrath Tkt
-6410,Divine King Tkt,Divine King Tkt
-6411,Kamui Tkt,Kamui Tkt
-6412,Kamui Phantom Tkt,Kamui Phantom Tkt
-6413,Kamui Demon Tkt,Kamui Demon Tkt
-6414,Kamui Demongod Tkt,Kamui Demongod Tkt
-6415,Onimusha Tkt Head,Onimusha Tkt Head
-6416,Onimusha Tkt Torso,Onimusha Tkt Torso
-6417,Onimusha Tkt Arms,Onimusha Tkt Arms
-6418,Onimusha Tkt Waist,Onimusha Tkt Waist
-6419,Onimusha Tkt Legs,Onimusha Tkt Legs
-6420,H Nail Tkt,H Nail Tkt
-6421,M Nail Tkt,M Nail Tkt
-6422,E Pole Tkt,E Pole Tkt
-6423,P Pole Tkt,P Pole Tkt
-6424,W Prick Tkt,W Prick Tkt
-6425,H Prick Tkt,H Prick Tkt
-6426,Cross Tkt Head,Cross Tkt Head
-6427,Cross Tkt Torso,Cross Tkt Torso
-6428,Cross Tkt Arms,Cross Tkt Arms
-6429,Cross Tkt Waist,Cross Tkt Waist
-6430,Cross Tkt Legs,Cross Tkt Legs
+6394,Fort C Tkt,要塞Ｃ票
+6395,Fort S Tkt,要塞Ｓ票
+6396,Last L Tkt,終極Ｌ票
+6397,Dragon M Tkt,惡龍Ｍ票
+6398,Burst S Tkt,爆裂Ｓ票
+6399,Shadow S Tkt,暗影Ｓ票
+6400,Papipupe Tkt A,パピプペ票Ａ
+6401,Papipupe Tkt B,パピプペ票Ｂ
+6402,Papipupe Tkt C,パピプペ票Ｃ
+6403,Wyrm's Blaze Tkt,龍炎票
+6404,Wyrm's Blight Tkt,龍疫票
+6405,Fulgur Blade Tkt,雷刃票
+6406,Wyrm's Bane Tkt,滅龍票
+6407,Divinity Tkt,神居票
+6408,Divine Spirit Tkt,神居幻票
+6409,Divine Wrath Tkt,神居幻魔票
+6410,Divine King Tkt,神居幻魔王票
+6411,Kamui Tkt,神威票
+6412,Kamui Phantom Tkt,神威幻票
+6413,Kamui Demon Tkt,神威幻魔票
+6414,Kamui Demongod Tkt,神威幻魔王票
+6415,Onimusha Tkt Head,鬼武者頭票
+6416,Onimusha Tkt Torso,鬼武者胴票
+6417,Onimusha Tkt Arms,鬼武者腕票
+6418,Onimusha Tkt Waist,鬼武者腰票
+6419,Onimusha Tkt Legs,鬼武者脚票
+6420,H Nail Tkt,Ｈ貫穿票
+6421,M Nail Tkt,Ｍ貫穿票
+6422,E Pole Tkt,Ｅ之棒票
+6423,P Pole Tkt,Ｐ之棒票
+6424,W Prick Tkt,Ｗ刺針弓票
+6425,H Prick Tkt,Ｈ刺針弓票
+6426,Cross Tkt Head,勝利頭票
+6427,Cross Tkt Torso,勝利胴票
+6428,Cross Tkt Arms,勝利腕票
+6429,Cross Tkt Waist,勝利腰票
+6430,Cross Tkt Legs,勝利脚票
 6431,Goruganos Scale,Goruganos Scale
 6432,Goruganos Scle+,Goruganos Scle+
 6433,Aruganos Scale,Aruganos Scale
@@ -6437,26 +6437,26 @@ index,source,target
 6435,Piscine Drilltusk,Piscine Drilltusk
 6436,Piscine Greatfin,Piscine Greatfin
 6437,Arugoru Fuse Shell,Arugoru Fuse Shell
-6438,Gloria Tkt Head,Gloria Tkt Head
-6439,Gloria Tkt Torso,Gloria Tkt Torso
-6440,Gloria Tkt Arms,Gloria Tkt Arms
-6441,Gloria Tkt Waist,Gloria Tkt Waist
-6442,Gloria Tkt Legs,Gloria Tkt Legs
-6443,SF25 Tkt Head,SF25 Tkt Head
-6444,SF25 Tkt Torso,SF25 Tkt Torso
-6445,SF25 Tkt Arms,SF25 Tkt Arms
-6446,SF25 Tkt Waist,SF25 Tkt Waist
-6447,SF25 Tkt Legs,SF25 Tkt Legs
-6448,Oni.Soul Tkt Head,Oni.Soul Tkt Head
-6449,Oni.Soul Tkt Torso,Oni.Soul Tkt Torso
-6450,Oni.Soul Tkt Arms,Oni.Soul Tkt Arms
-6451,Oni.Soul Tkt Waist,Oni.Soul Tkt Waist
-6452,Oni.Soul Tkt Legs,Oni.Soul Tkt Legs
-6453,Oni.Ex Tkt Head,Oni.Ex Tkt Head
-6454,Oni.Ex Tkt Torso,Oni.Ex Tkt Torso
-6455,Oni.Ex Tkt Arms,Oni.Ex Tkt Arms
-6456,Oni.Ex Tkt Waist,Oni.Ex Tkt Waist
-6457,Oni.Ex Tkt Legs,Oni.Ex Tkt Legs
+6438,Gloria Tkt Head,榮耀頭票
+6439,Gloria Tkt Torso,榮耀胴票
+6440,Gloria Tkt Arms,榮耀腕票
+6441,Gloria Tkt Waist,榮耀腰票
+6442,Gloria Tkt Legs,榮耀脚票
+6443,SF25 Tkt Head,ＳＦ25頭票
+6444,SF25 Tkt Torso,ＳＦ25胴票
+6445,SF25 Tkt Arms,ＳＦ25腕票
+6446,SF25 Tkt Waist,ＳＦ25腰票
+6447,SF25 Tkt Legs,ＳＦ25脚票
+6448,Oni.Soul Tkt Head,鬼魂頭票
+6449,Oni.Soul Tkt Torso,鬼魂胴票
+6450,Oni.Soul Tkt Arms,鬼魂腕票
+6451,Oni.Soul Tkt Waist,鬼魂腰票
+6452,Oni.Soul Tkt Legs,鬼魂脚票
+6453,Oni.Ex Tkt Head,鬼Ｅｘ頭票
+6454,Oni.Ex Tkt Torso,鬼Ｅｘ胴票
+6455,Oni.Ex Tkt Arms,鬼Ｅｘ腕票
+6456,Oni.Ex Tkt Waist,鬼Ｅｘ腰票
+6457,Oni.Ex Tkt Legs,鬼Ｅｘ脚票
 6458,Blue Mochi,Blue Mochi
 6459,Pink Mochi,Pink Mochi
 6460,Romantic Perfume,Romantic Perfume
@@ -6469,24 +6469,24 @@ index,source,target
 6467,Valorant Crest,Valorant Crest
 6468,Valorant Plume,Valorant Plume
 6469,Admirable Shinobi,Admirable Shinobi
-6470,Firth Tkt,Firth Tkt
-6471,Hearts Tkt,Hearts Tkt
-6472,Cry Tkt,Cry Tkt
-6473,Sentopi Tkt A,Sentopi Tkt A
-6474,Sentopi Tkt B,Sentopi Tkt B
-6475,Sentopi Tkt C,Sentopi Tkt C
-6476,D Blade Tkt,D Blade Tkt
-6477,R Blade Tkt,R Blade Tkt
-6478,C Lance Tkt,C Lance Tkt
-6479,K Lance Tkt,K Lance Tkt
-6480,S Mortar Tkt,S Mortar Tkt
-6481,W Mortar Tkt,W Mortar Tkt
-6482,A Mortar Tkt,A Mortar Tkt
-6483,B Mortar Tkt,B Mortar Tkt
-6484,S Cavalry Tkt,S Cavalry Tkt
-6485,W Cavalry Tkt,W Cavalry Tkt
-6486,A Cavalry Tkt,A Cavalry Tkt
-6487,B Cavalry Tkt,B Cavalry Tkt
+6470,Firth Tkt,ファース票
+6471,Hearts Tkt,ハーツ票
+6472,Cry Tkt,クライ票
+6473,Sentopi Tkt A,セントピ票Ａ
+6474,Sentopi Tkt B,セントピ票Ｂ
+6475,Sentopi Tkt C,セントピ票Ｃ
+6476,D Blade Tkt,Ｄブレイド票
+6477,R Blade Tkt,Ｒブレイド票
+6478,C Lance Tkt,Ｃランス票
+6479,K Lance Tkt,Ｋランス票
+6480,S Mortar Tkt,Ｓモルタル票
+6481,W Mortar Tkt,Ｗモルタル票
+6482,A Mortar Tkt,Ａモルタル票
+6483,B Mortar Tkt,Ｂモルタル票
+6484,S Cavalry Tkt,Ｓカルバリ票
+6485,W Cavalry Tkt,Ｗカルバリ票
+6486,A Cavalry Tkt,Ａカルバリ票
+6487,B Cavalry Tkt,Ｂカルバリ票
 6488,Purple Ice Fruit,Purple Ice Fruit
 6489,Yellow Ice Fruit,Yellow Ice Fruit
 6490,Orange Ice Fruit,Orange Ice Fruit
@@ -6830,9 +6830,9 @@ index,source,target
 6828,Gold Extract,Gold Extract
 6829,Predator Honey,Predator Honey
 6830,Dazzling Shard,Dazzling Shard
-6831,GW Ticket,GW Ticket
+6831,GW Ticket,ＧＷ票
 6832,GW Deco Voucher,GW Deco Voucher
-6833,GW Lottery Ticket,GW Lottery Ticket
+6833,GW Lottery Ticket,ＧＷ抽選票
 6834,Silver Jewel,Silver Jewel
 6835,Dark Green Jewel,Dark Green Jewel
 6836,Azure Jewel,Azure Jewel
@@ -6983,8 +6983,8 @@ index,source,target
 6981,Dummy 6981,Dummy 6981
 6982,Dummy 6982,Dummy 6982
 6983,Dummy 6983,Dummy 6983
-6984,S. Exchange Tkt,S. Exchange Tkt
-6985,G Ticket,G Ticket
+6984,S. Exchange Tkt,特別交換票
+6985,G Ticket,Ｇ強化票
 6986,Poison,Poison
 6987,Kut-Ku Fine Scale,Kut-Ku Fine Scale
 6988,Hermitaur Scissor,Hermitaur Scissor
@@ -7008,7 +7008,7 @@ index,source,target
 7006,Guren Death Scale,Guren Death Scale
 7007,G Weapon Kit,G Weapon Kit
 7008,G Armor Kit,G Armor Kit
-7009,Hades Inter. Tkt,Hades Inter. Tkt
+7009,Hades Inter. Tkt,ハデスインター票
 7010,Festival Emblem,Festival Emblem
 7011,Festival Gem,Festival Gem
 7012,Sushi Fruit,Sushi Fruit
@@ -7045,19 +7045,19 @@ index,source,target
 7043,Card Ore Violet,Card Ore Violet
 7044,Card Ore Wysteria,Card Ore Wysteria
 7045,Card Ore Indigo,Card Ore Indigo
-7046,Yell R Ticket,Yell R Ticket
-7047,Kaleto R Ticket,Kaleto R Ticket
-7048,Giar R Ticket,Giar R Ticket
-7049,Bull R Ticket,Bull R Ticket
-7050,Kirino T Tkt,Kirino T Tkt
-7051,Vure T Tkt,Vure T Tkt
-7052,ＢＧ１ Tkt・１,ＢＧ１ Tkt・１
-7053,ＢＧ１ Tkt・２,ＢＧ１ Tkt・２
-7054,ＢＧ１ Tkt・３,ＢＧ１ Tkt・３
-7055,ＢＧ１ Tkt・４,ＢＧ１ Tkt・４
-7056,ＢＧ１ Tkt・５,ＢＧ１ Tkt・５
-7057,ＢＧ１ Tkt・６,ＢＧ１ Tkt・６
-7058,ＢＧ１ Tkt・７,ＢＧ１ Tkt・７
+7046,Yell R Ticket,イェルＲ票
+7047,Kaleto R Ticket,カレトＲ票
+7048,Giar R Ticket,ジアルＲ票
+7049,Bull R Ticket,ブルＲ票
+7050,Kirino T Tkt,キリノＴ票
+7051,Vure T Tkt,ヴレＴ票
+7052,ＢＧ１ Tkt・１,ＢＧ１票・１
+7053,ＢＧ１ Tkt・２,ＢＧ１票・２
+7054,ＢＧ１ Tkt・３,ＢＧ１票・３
+7055,ＢＧ１ Tkt・４,ＢＧ１票・４
+7056,ＢＧ１ Tkt・５,ＢＧ１票・５
+7057,ＢＧ１ Tkt・６,ＢＧ１票・６
+7058,ＢＧ１ Tkt・７,ＢＧ１票・７
 7059,Odd Red Liquid,Odd Red Liquid
 7060,Odd Blue Liquid,Odd Blue Liquid
 7061,Odd Teal Liquid,Odd Teal Liquid
@@ -7092,36 +7092,36 @@ index,source,target
 7090,Pink Bracelet,Pink Bracelet
 7091,White Bracelet,White Bracelet
 7092,Black Bracelet,Black Bracelet
-7093,Date Head Ticket,Date Head Ticket
-7094,Date Chest Ticket,Date Chest Ticket
-7095,Date Arms Ticket,Date Arms Ticket
-7096,Date Waist Ticket,Date Waist Ticket
-7097,Date Legs Ticket,Date Legs Ticket
-7098,Bright Head Tkt,Bright Head Tkt
-7099,Bright Chest Tkt,Bright Chest Tkt
-7100,Bright Arms Tkt,Bright Arms Tkt
-7101,Bright Waist Tkt,Bright Waist Tkt
-7102,Bright Legs Tkt,Bright Legs Tkt
-7103,Juari Head Tkt,Juari Head Tkt
-7104,Juari Chest Tkt,Juari Chest Tkt
-7105,Juari Arms Tkt,Juari Arms Tkt
-7106,Juari Waist Tkt,Juari Waist Tkt
-7107,Juari Legs Tkt,Juari Legs Tkt
-7108,Tink Head Tkt,Tink Head Tkt
-7109,Tink Chest Tkt,Tink Chest Tkt
-7110,Tink Arms Tkt,Tink Arms Tkt
-7111,Tink Waist Tkt,Tink Waist Tkt
-7112,Tink Legs Tkt,Tink Legs Tkt
-7113,Magos Head Tkt,Magos Head Tkt
-7114,Magos Chest Tkt,Magos Chest Tkt
-7115,Magos Arms Tkt,Magos Arms Tkt
-7116,Magos Waist Tkt,Magos Waist Tkt
-7117,Magos Legs Tkt,Magos Legs Tkt
-7118,Mastery Head Tkt,Mastery Head Tkt
-7119,Mastery Chest Tkt,Mastery Chest Tkt
-7120,Mastery Arms Tkt,Mastery Arms Tkt
-7121,Mastery Waist Tkt,Mastery Waist Tkt
-7122,Mastery Legs Tkt,Mastery Legs Tkt
+7093,Date Head Ticket,伊達頭票
+7094,Date Chest Ticket,伊達胴票
+7095,Date Arms Ticket,伊達腕票
+7096,Date Waist Ticket,伊達腰票
+7097,Date Legs Ticket,伊達脚票
+7098,Bright Head Tkt,燦耀頭票
+7099,Bright Chest Tkt,燦耀胴票
+7100,Bright Arms Tkt,燦耀腕票
+7101,Bright Waist Tkt,燦耀腰票
+7102,Bright Legs Tkt,燦耀脚票
+7103,Juari Head Tkt,霸主頭票
+7104,Juari Chest Tkt,霸主胴票
+7105,Juari Arms Tkt,霸主腕票
+7106,Juari Waist Tkt,霸主腰票
+7107,Juari Legs Tkt,霸主脚票
+7108,Tink Head Tkt,殘暴頭票
+7109,Tink Chest Tkt,殘暴胴票
+7110,Tink Arms Tkt,殘暴腕票
+7111,Tink Waist Tkt,殘暴腰票
+7112,Tink Legs Tkt,殘暴脚票
+7113,Magos Head Tkt,神官頭票
+7114,Magos Chest Tkt,神官胴票
+7115,Magos Arms Tkt,神官腕票
+7116,Magos Waist Tkt,神官腰票
+7117,Magos Legs Tkt,神官脚票
+7118,Mastery Head Tkt,精通頭票
+7119,Mastery Chest Tkt,精通胴票
+7120,Mastery Arms Tkt,精通腕票
+7121,Mastery Waist Tkt,精通腰票
+7122,Mastery Legs Tkt,精通脚票
 7123,1k Gz Cheque,1k Gz Cheque
 7124,Soft Cloth,Soft Cloth
 7125,Light Colour Dye,Light Colour Dye
@@ -7161,67 +7161,67 @@ index,source,target
 7159,Toko's Book,Toko's Book
 7160,Saikou's Book,Saikou's Book
 7161,GR6 Gem,GR6 Gem
-7162,B Edge Tkt,B Edge Tkt
-7163,T Anger Tkt,T Anger Tkt
-7164,D Gear Tkt,D Gear Tkt
-7165,B Roar Tkt,B Roar Tkt
-7166,IM Carbine Tkt,IM Carbine Tkt
-7167,IM Cannon Tkt,IM Cannon Tkt
-7168,IM Burst Tkt,IM Burst Tkt
-7169,IM Assault Tkt,IM Assault Tkt
-7170,IM Predator Tkt,IM Predator Tkt
-7171,Battle FU Tkt,Battle FU Tkt
-7172,Raijin FU Tkt,Raijin FU Tkt
-7173,Creepy FU Tkt,Creepy FU Tkt
-7174,Abyssal FU Tkt,Abyssal FU Tkt
-7175,Rain FU Tkt,Rain FU Tkt
-7176,Arti Purple Tkt,Arti Purple Tkt
-7177,Stray Purple Tkt,Stray Purple Tkt
+7162,B Edge Tkt,Ｂ鋭劍票
+7163,T Anger Tkt,Ｔ憤怒票
+7164,D Gear Tkt,Ｄギア票
+7165,B Roar Tkt,Ｂ咆哮票
+7166,IM Carbine Tkt,ＩＭカービン票
+7167,IM Cannon Tkt,ＩＭ加農票
+7168,IM Burst Tkt,ＩＭ爆發票
+7169,IM Assault Tkt,ＩＭ強襲票
+7170,IM Predator Tkt,ＩＭ掠食票
+7171,Battle FU Tkt,戰鬥ＦＵ票
+7172,Raijin FU Tkt,雷神ＦＵ票
+7173,Creepy FU Tkt,詭異ＦＵ票
+7174,Abyssal FU Tkt,深淵ＦＵ票
+7175,Rain FU Tkt,暴雨ＦＵ票
+7176,Arti Purple Tkt,豪鋒紫票
+7177,Stray Purple Tkt,ストレイ紫票
 7178,Blue Stone,Blue Stone
-7179,Arudoru Tkt Yllw,Arudoru Tkt Yllw
-7180,Arudoru Tkt Blck,Arudoru Tkt Blck
-7181,Arudoru Tkt Pur,Arudoru Tkt Pur
-7182,Arudoru Tkt Lead,Arudoru Tkt Lead
-7183,Sigil Mat Ticket,Sigil Mat Ticket
-7184,Porto L Red Tkt,Porto L Red Tkt
-7185,Porto L Yellow Tkt,Porto L Yellow Tkt
-7186,Porto L White Tkt,Porto L White Tkt
-7187,Porto L Black Tkt,Porto L Black Tkt
-7188,D.R.Spear Tkt,D.R.Spear Tkt
-7189,D.R.Fang Spear Tkt,D.R.Fang Spear Tkt
-7190,T.R.Spear Tkt,T.R.Spear Tkt
-7191,T.R.Fang Spear Tkt,T.R.Fang Spear Tkt
-7192,Sanada Head Tkt,Sanada Head Tkt
-7193,Sanada Chest Tkt,Sanada Chest Tkt
-7194,Sanada Arms Tkt,Sanada Arms Tkt
-7195,Sanada Waist Tkt,Sanada Waist Tkt
-7196,Sanada Legs Tkt,Sanada Legs Tkt
-7197,Promisd V.Swrd Tkt,Promisd V.Swrd Tkt
-7198,Golden V.Swrd Tkt,Golden V.Swrd Tkt
-7199,Kanshou&Bakuya Tkt,Kanshou&Bakuya Tkt
-7200,Caladbolg Tkt,Caladbolg Tkt
-7201,Fate/SN Tkt Head,Fate/SN Tkt Head
-7202,Fate/SN Tkt Chest,Fate/SN Tkt Chest
-7203,Fate/SN Tkt Arms,Fate/SN Tkt Arms
-7204,Fate/SN Tkt Waist,Fate/SN Tkt Waist
-7205,Fate/SN Tkt Legs,Fate/SN Tkt Legs
-7206,Miku Key Tkt,Miku Key Tkt
+7179,Arudoru Tkt Yllw,アルドル黄票
+7180,Arudoru Tkt Blck,アルドル黒票
+7181,Arudoru Tkt Pur,アルドル紫票
+7182,Arudoru Tkt Lead,アルドル鉛票
+7183,Sigil Mat Ticket,紋章素材票
+7184,Porto L Red Tkt,ポルトＬ赤票
+7185,Porto L Yellow Tkt,ポルトＬ黄票
+7186,Porto L White Tkt,ポルトＬ白票
+7187,Porto L Black Tkt,ポルトＬ黒票
+7188,D.R.Spear Tkt,ＤＲ槍票
+7189,D.R.Fang Spear Tkt,ＤＲ牙槍票
+7190,T.R.Spear Tkt,ＴＲ槍票
+7191,T.R.Fang Spear Tkt,ＴＲ牙槍票
+7192,Sanada Head Tkt,真田頭票
+7193,Sanada Chest Tkt,真田胴票
+7194,Sanada Arms Tkt,真田腕票
+7195,Sanada Waist Tkt,真田腰票
+7196,Sanada Legs Tkt,真田脚票
+7197,Promisd V.Swrd Tkt,約定勝利劍票
+7198,Golden V.Swrd Tkt,勝利黄金劍票
+7199,Kanshou&Bakuya Tkt,干將・莫邪票
+7200,Caladbolg Tkt,投影偽螺旋票
+7201,Fate/SN Tkt Head,Ｆ／ＳＮ頭票
+7202,Fate/SN Tkt Chest,Ｆ／ＳＮ胴票
+7203,Fate/SN Tkt Arms,Ｆ／ＳＮ腕票
+7204,Fate/SN Tkt Waist,Ｆ／ＳＮ腰票
+7205,Fate/SN Tkt Legs,Ｆ／ＳＮ脚票
+7206,Miku Key Tkt,ミク鍵票
 7207,Hatsune Keyboard,Hatsune Keyboard
-7208,Miku Horn Tkt,Miku Horn Tkt
+7208,Miku Horn Tkt,ミク角票
 7209,Miku Vocals,Miku Vocals
-7210,Miku Cos Tkt Head,Miku Cos Tkt Head
-7211,Miku Cos Tkt Torso,Miku Cos Tkt Torso
-7212,Miku Cos Tkt Arms,Miku Cos Tkt Arms
-7213,Miku Cos Tkt Waist,Miku Cos Tkt Waist
-7214,Miku Cos Tkt Legs,Miku Cos Tkt Legs
+7210,Miku Cos Tkt Head,未來裝頭票
+7211,Miku Cos Tkt Torso,未來裝胴票
+7212,Miku Cos Tkt Arms,未來裝腕票
+7213,Miku Cos Tkt Waist,未來裝腰票
+7214,Miku Cos Tkt Legs,未來裝脚票
 7215,六爪流景秀生産券,六爪流景秀生産券
 7216,六爪流爪駆生産券,六爪流爪駆生産券
 7217,一刀流景秀生産券,一刀流景秀生産券
 7218,一刀流爪駆生産券,一刀流爪駆生産券
-7219,Dirai Tkt,Dirai Tkt
-7220,Variati Tkt,Variati Tkt
-7221,Ikusaga Tkt A,Ikusaga Tkt A
-7222,Ikusaga Tkt B,Ikusaga Tkt B
+7219,Dirai Tkt,ディライ票
+7220,Variati Tkt,バリアシ票
+7221,Ikusaga Tkt A,イクサガ票Ａ
+7222,Ikusaga Tkt B,イクサガ票Ｂ
 7223,Sprout Ore,Sprout Ore
 7224,Caravan Trsr,Caravan Trsr
 7225,Attack PA1,Attack PA1
@@ -7230,7 +7230,7 @@ index,source,target
 7228,Wide-Area PA1,Wide-Area PA1
 7229,Caring PA1,Caring PA1
 7230,Dummy 7230,Dummy 7230
-7231,Ein A Tkt,Ein A Tkt
+7231,Ein A Tkt,アインＡ票
 7232,Rurousuisen,Rurousuisen
 7233,Shining Heaven Ore,Shining Heaven Ore
 7234,SnS Ribbon Low,SnS Ribbon Low
@@ -7271,16 +7271,16 @@ index,source,target
 7269,Blue Valor Stone,Blue Valor Stone
 7270,Red Valor Stone,Red Valor Stone
 7271,Yellow Valor Stone,Yellow Valor Stone
-7272,IM Tomen Tkt,IM Tomen Tkt
-7273,Rabina FU Tkt,Rabina FU Tkt
-7274,AppreciationTkt VI,AppreciationTkt VI
+7272,IM Tomen Tkt,ＩＭトメン票
+7273,Rabina FU Tkt,ラビーナＦＵ票
+7274,AppreciationTkt VI,感謝票Ⅵ
 7275,Magnetised Fur,Magnetised Fur
 7276,Urgent Proof,Urgent Proof
 7277,Supressing Ball,Supressing Ball
-7278,Conquest Reset Tkt,Conquest Reset Tkt
-7279,Wht Conquest Tkt,Wht Conquest Tkt
-7280,Purp.Conquest Tkt,Purp.Conquest Tkt
-7281,Oran.Conquest Tkt,Oran.Conquest Tkt
+7278,Conquest Reset Tkt,征伐重置票
+7279,Wht Conquest Tkt,白征伐票
+7280,Purp.Conquest Tkt,紫征伐票
+7281,Oran.Conquest Tkt,橙征伐票
 7282,Sigil Catalyst,Sigil Catalyst
 7283,Bird Wyvern Ringer,Bird Wyvern Ringer
 7284,Hermitaur Armor,Hermitaur Armor
@@ -7313,27 +7313,27 @@ index,source,target
 7311,Gougarf Jaw,Gougarf Jaw
 7312,Gougarf Hematite,Gougarf Hematite
 7313,Gougarf Heart,Gougarf Heart
-7314,Pics Tkt Head,Pics Tkt Head
-7315,Pics Tkt Torso,Pics Tkt Torso
-7316,Pics Tkt Arms,Pics Tkt Arms
-7317,Pics Tkt Waist,Pics Tkt Waist
-7318,Pics TKt Legs,Pics TKt Legs
-7319,Misty R Tkt,Misty R Tkt
-7320,Terifa R Tkt,Terifa R Tkt
-7321,Hex H Tkt,Hex H Tkt
-7322,Wreck H Tkt,Wreck H Tkt
-7323,Varia R Tkt,Varia R Tkt
-7324,Varia S Tkt,Varia S Tkt
-7325,Varia C Tkt,Varia C Tkt
-7326,Varia D Tkt,Varia D Tkt
-7327,Varia B Tkt,Varia B Tkt
-7328,Varia M Tkt,Varia M Tkt
-7329,Essen R Tkt,Essen R Tkt
-7330,Essen S Tkt,Essen S Tkt
-7331,Essen C Tkt,Essen C Tkt
-7332,Essen D Tkt,Essen D Tkt
-7333,Essen B Tkt,Essen B Tkt
-7334,Essen A Tkt,Essen A Tkt
+7314,Pics Tkt Head,精靈頭票
+7315,Pics Tkt Torso,精靈胴票
+7316,Pics Tkt Arms,精靈腕票
+7317,Pics Tkt Waist,精靈腰票
+7318,Pics TKt Legs,精靈脚票
+7319,Misty R Tkt,ミスティＲ票
+7320,Terifa R Tkt,テリファＲ票
+7321,Hex H Tkt,ヘックスＨ票
+7322,Wreck H Tkt,レックＨ票
+7323,Varia R Tkt,ヴァリアＲ票
+7324,Varia S Tkt,ヴァリアＳ票
+7325,Varia C Tkt,ヴァリアＣ票
+7326,Varia D Tkt,ヴァリアＤ票
+7327,Varia B Tkt,ヴァリアＢ票
+7328,Varia M Tkt,ヴァリアＭ票
+7329,Essen R Tkt,エッセンＲ票
+7330,Essen S Tkt,エッセンＳ票
+7331,Essen C Tkt,エッセンＣ票
+7332,Essen D Tkt,エッセンＤ票
+7333,Essen B Tkt,エッセンＢ票
+7334,Essen A Tkt,エッセンＡ票
 7335,Strong Attack SA1,Strong Attack SA1
 7336,Issen SA1,Issen SA1
 7337,E.Weakness SA1,E.Weakness SA1
@@ -7436,22 +7436,22 @@ index,source,target
 7434,Skill Cuff G100,Skill Cuff G100
 7435,ユニカムＢ生産券,ユニカムＢ生産券
 7436,ユニカムＰ生産券,ユニカムＰ生産券
-7437,Ichrome BU Tkt,Ichrome BU Tkt
-7438,Ichrome BI Tkt,Ichrome BI Tkt
+7437,Ichrome BU Tkt,イクロームＢＵ票
+7438,Ichrome BI Tkt,イクロームＢＩ票
 7439,ナーデルＰ生産券,ナーデルＰ生産券
 7440,ナーデルＤ生産券,ナーデルＤ生産券
 7441,ナーデルＴ生産券,ナーデルＴ生産券
 7442,ナーデルＭ生産券,ナーデルＭ生産券
-7443,Carbis M Tkt,Carbis M Tkt
-7444,Karudora M Tkt,Karudora M Tkt
-7445,Carbis E Tkt,Carbis E Tkt
-7446,Karudora E Tkt,Karudora E Tkt
-7447,Buster L Tkt,Buster L Tkt
-7448,Hydra M Tkt,Hydra M Tkt
-7449,Alia Q Tkt,Alia Q Tkt
-7450,Alia W Tkt,Alia W Tkt
-7451,Tomen Q Tkt,Tomen Q Tkt
-7452,Tomen W Tkt,Tomen W Tkt
+7443,Carbis M Tkt,聖地Ｍ票
+7444,Karudora M Tkt,源流Ｍ票
+7445,Carbis E Tkt,聖地Ｅ票
+7446,Karudora E Tkt,源流Ｅ票
+7447,Buster L Tkt,毀滅Ｌ票
+7448,Hydra M Tkt,海蛇Ｍ票
+7449,Alia Q Tkt,アリアＱ票
+7450,Alia W Tkt,アリアＷ票
+7451,Tomen Q Tkt,トメンＱ票
+7452,Tomen W Tkt,トメンＷ票
 7453,Cuff Base G・Hemp,Cuff Base G・Hemp
 7454,Cuff Base G・Lily,Cuff Base G・Lily
 7455,C.Base G・Miscanthus,C.Base G・Miscanthus
@@ -7486,10 +7486,10 @@ index,source,target
 7484,Dummy 7484,Dummy 7484
 7485,Tranquil Grass,Tranquil Grass
 7486,Confession Stone,Confession Stone
-7487,Nuts G Tkt,Nuts G Tkt
-7488,Chocolate G Tkt,Chocolate G Tkt
-7489,Cookie G Tkt,Cookie G Tkt
-7490,Raisins G Tkt,Raisins G Tkt
+7487,Nuts G Tkt,堅果Ｇ票
+7488,Chocolate G Tkt,巧克力Ｇ票
+7489,Cookie G Tkt,餅乾Ｇ票
+7490,Raisins G Tkt,葡萄乾Ｇ票
 7491,Crispy Corn,Crispy Corn
 7492,Fresh Ice Flowers,Fresh Ice Flowers
 7493,HR Neko Whetstone,HR Neko Whetstone
@@ -7978,48 +7978,48 @@ index,source,target
 7976,50k Gz Cheque,50k Gz Cheque
 7977,100k Gz Cheque,100k Gz Cheque
 7978,ミズキの委任状,ミズキの委任状
-7979,GRP Tkt (4k),GRP Tkt (4k)
+7979,GRP Tkt (4k),ＧＲＰ票（4000）
 7980,Guild Intro Letter,Guild Intro Letter
-7981,GRP Tkt (20k),GRP Tkt (20k)
+7981,GRP Tkt (20k),ＧＲＰ票（20000）
 7982,Guild Commendation,Guild Commendation
 7983,猟団特別推薦状,猟団特別推薦状
 7984,猟団長の推薦状,猟団長の推薦状
 7985,Dev.Support Tickt,Dev.Support Tickt
-7986,Dax H Tkt,Dax H Tkt
-7987,Dax A Tkt,Dax A Tkt
-7988,Rhino S Tkt,Rhino S Tkt
-7989,Rhino T Tkt,Rhino T Tkt
-7990,Bugs O Tkt,Bugs O Tkt
-7991,Bugs B Tkt,Bugs B Tkt
+7986,Dax H Tkt,ダックスＨ票
+7987,Dax A Tkt,ダックスＡ票
+7988,Rhino S Tkt,金羽Ｓ票
+7989,Rhino T Tkt,金羽Ｔ票
+7990,Bugs O Tkt,バグスＯ票
+7991,Bugs B Tkt,バグスＢ票
 7992,セクティ生産券頭,セクティ生産券頭
 7993,セクティ生産券胴,セクティ生産券胴
 7994,セクティ生産券腕,セクティ生産券腕
 7995,セクティ生産券腰,セクティ生産券腰
 7996,セクティ生産券脚,セクティ生産券脚
-7997,Roji B Tkt,Roji B Tkt
-7998,Grind P Tkt,Grind P Tkt
-7999,GE Regil Tkt,GE Regil Tkt
-8000,GE Dore Tkt,GE Dore Tkt
-8001,Adonis R Tkt,Adonis R Tkt
+7997,Roji B Tkt,ロジＢ票
+7998,Grind P Tkt,研磨Ｐ票
+7999,GE Regil Tkt,ＧＥレギル票
+8000,GE Dore Tkt,ＧＥドーレ票
+8001,Adonis R Tkt,アドニスＲ票
 8002,メルガイＳ生産券,メルガイＳ生産券
-8003,Nocta B Tkt,Nocta B Tkt
-8004,Verona M Tkt,Verona M Tkt
-8005,Croix B Tkt,Croix B Tkt
+8003,Nocta B Tkt,ノクタＢ票
+8004,Verona M Tkt,ベローナＭ票
+8005,Croix B Tkt,クロワＢ票
 8006,ユエンＢ生産券,ユエンＢ生産券
 8007,スタウロＳ生産券,スタウロＳ生産券
 8008,ロンドゥＳ生産券,ロンドゥＳ生産券
 8009,ルントＨ生産券,ルントＨ生産券
-8010,Klaus H Tkt,Klaus H Tkt
-8011,Armor Tkt Head,Armor Tkt Head
-8012,Armor Tkt Torso,Armor Tkt Torso
-8013,Armor Tkt Arms,Armor Tkt Arms
-8014,Armor Tkt Waist,Armor Tkt Waist
-8015,Armor Tkt Legs,Armor Tkt Legs
-8016,Metori Tkt Head,Metori Tkt Head
-8017,Metori Tkt Torso,Metori Tkt Torso
-8018,Metori Tkt Arms,Metori Tkt Arms
-8019,Metori Tkt Waist,Metori Tkt Waist
-8020,Metori Tkt Legs,Metori Tkt Legs
+8010,Klaus H Tkt,クラウスＨ票
+8011,Armor Tkt Head,防具頭票
+8012,Armor Tkt Torso,防具胴票
+8013,Armor Tkt Arms,防具腕票
+8014,Armor Tkt Waist,防具腰票
+8015,Armor Tkt Legs,防具脚票
+8016,Metori Tkt Head,メトリー頭票
+8017,Metori Tkt Torso,メトリー胴票
+8018,Metori Tkt Arms,メトリー腕票
+8019,Metori Tkt Waist,メトリー腰票
+8020,Metori Tkt Legs,メトリー脚票
 8021,Dummy 8021,Dummy 8021
 8022,Dummy 8022,Dummy 8022
 8023,Dummy 8023,Dummy 8023
@@ -8179,7 +8179,7 @@ index,source,target
 8177,Prayer Branch,Prayer Branch
 8178,Prayer Seed,Prayer Seed
 8179,Music Crystal,Music Crystal
-8180,P Rome Tkt,P Rome Tkt
+8180,P Rome Tkt,Ｐ捍衛者票
 8181,功猟メダル返還券,功猟メダル返還券
 8182,先駆者の紋章Ⅰ,先駆者の紋章Ⅰ
 8183,先駆者の紋章Ⅱ,先駆者の紋章Ⅱ
@@ -8189,17 +8189,17 @@ index,source,target
 8187,Pioneer Mark Ⅲ,Pioneer Mark Ⅲ
 8188,Ｓリステ生産券,Ｓリステ生産券
 8189,Ｇギャルド生産券,Ｇギャルド生産券
-8190,E Greed Tkt,E Greed Tkt
+8190,E Greed Tkt,Ｅグリード票
 8191,Ａジーク生産券,Ａジーク生産券
 8192,Ｎスヴェア生産券,Ｎスヴェア生産券
-8193,H Nade Tkt,H Nade Tkt
-8194,BG2 Tkt・1,BG2 Tkt・1
-8195,BG2 Tkt・2,BG2 Tkt・2
-8196,BG2 Tkt・3,BG2 Tkt・3
-8197,BG2 Tkt・4,BG2 Tkt・4
-8198,BG2 Tkt・5,BG2 Tkt・5
-8199,BG2 Tkt・6,BG2 Tkt・6
-8200,BG2 Tkt・7,BG2 Tkt・7
+8193,H Nade Tkt,Ｈ飛躍票
+8194,BG2 Tkt・1,ＢＧ２票・１
+8195,BG2 Tkt・2,ＢＧ２票・２
+8196,BG2 Tkt・3,ＢＧ２票・３
+8197,BG2 Tkt・4,ＢＧ２票・４
+8198,BG2 Tkt・5,ＢＧ２票・５
+8199,BG2 Tkt・6,ＢＧ２票・６
+8200,BG2 Tkt・7,ＢＧ２票・７
 8201,Torn Blueprint,Torn Blueprint
 8202,Rusted File,Rusted File
 8203,Vermilion Orb,Vermilion Orb
@@ -8329,41 +8329,41 @@ index,source,target
 8327,Onion Bud Jewel,Onion Bud Jewel
 8328,Crimson Jewel,Crimson Jewel
 8329,Porcelain Jewel,Porcelain Jewel
-8330,PA Cuff Tkt G,PA Cuff Tkt G
-8331,PB Cuff Tkt G,PB Cuff Tkt G
-8332,PC Cuff Tkt G,PC Cuff Tkt G
-8333,Raijin GS Tkt,Raijin GS Tkt
-8334,Black GS Tkt,Black GS Tkt
+8330,PA Cuff Tkt G,ＰＡ袖飾票Ｇ
+8331,PB Cuff Tkt G,ＰＢ袖飾票Ｇ
+8332,PC Cuff Tkt G,ＰＣ袖飾票Ｇ
+8333,Raijin GS Tkt,雷神ＧＳ票
+8334,Black GS Tkt,黑ＧＳ票
 8335,Horn Coin,Horn Coin
-8336,Crimson GS Tkt,Crimson GS Tkt
-8337,White GS Tkt,White GS Tkt
+8336,Crimson GS Tkt,深紅ＧＳ票
+8337,White GS Tkt,白ＧＳ票
 8338,Prosperity Coin,Prosperity Coin
-8339,E Vang Tkt,E Vang Tkt
+8339,E Vang Tkt,Ｅヴァング票
 8340,"Porta Ore ""Sprkl""","Porta Ore ""Sprkl"""
-8341,GTUNE Tkt,GTUNE Tkt
-8342,Radius Tkt,Radius Tkt
-8343,Genome S Tkt,Genome S Tkt
-8344,Proteo B Tkt,Proteo B Tkt
-8345,Spine D Tkt,Spine D Tkt
-8346,Naran J Tkt,Naran J Tkt
+8341,GTUNE Tkt,ＧＴＵＮＥ票
+8342,Radius Tkt,ラディウス票
+8343,Genome S Tkt,基因Ｓ票
+8344,Proteo B Tkt,プロテオＢ票
+8345,Spine D Tkt,スパインＤ票
+8346,Naran J Tkt,ナランＪ票
 8347,ガンドＳ生産券,ガンドＳ生産券
 8348,ユーＳ生産券,ユーＳ生産券
-8349,Sealed Sword F Tkt,Sealed Sword F Tkt
-8350,Reverse Swrd F Tkt,Reverse Swrd F Tkt
-8351,Fear S Tkt,Fear S Tkt
-8352,Vio S Tkt,Vio S Tkt
-8353,Bio S Tkt,Bio S Tkt
-8354,Physio S Tkt,Physio S Tkt
-8355,Philodus Tkt,Philodus Tkt
+8349,Sealed Sword F Tkt,封印剣Ｆ票
+8350,Reverse Swrd F Tkt,リバース剣Ｆ票
+8351,Fear S Tkt,フィアＳ票
+8352,Vio S Tkt,ヴィオＳ票
+8353,Bio S Tkt,バイオＳ票
+8354,Physio S Tkt,フィジオＳ票
+8355,Philodus Tkt,フィロダス票
 8356,フュアコル生産券,フュアコル生産券
-8357,God Rebirth Tkt,God Rebirth Tkt
-8358,Second Coming Tkt,Second Coming Tkt
-8359,Jera Ⅰ Tkt,Jera Ⅰ Tkt
-8360,Epide Ⅰ Tkt,Epide Ⅰ Tkt
+8357,God Rebirth Tkt,神威再臨票
+8358,Second Coming Tkt,神居再臨票
+8359,Jera Ⅰ Tkt,妬忌Ⅰ票
+8360,Epide Ⅰ Tkt,瘟疫Ⅰ票
 8361,トワルフＰ生産券,トワルフＰ生産券
-8362,Deogis J Tkt,Deogis J Tkt
-8363,Twin Saints N Tkt,Twin Saints N Tkt
-8364,Snake Bow N Tkt,Snake Bow N Tkt
+8362,Deogis J Tkt,デオギスＪ票
+8363,Twin Saints N Tkt,双聖Ｎ票
+8364,Snake Bow N Tkt,蛇弓Ｎ票
 8365,Grace SA1,Grace SA1
 8366,Edgemaster SA1,Edgemaster SA1
 8367,Critical Shot SA1,Critical Shot SA1
@@ -8481,11 +8481,11 @@ index,source,target
 8479,Holdfast Sap,Holdfast Sap
 8480,Beauty Fruit,Beauty Fruit
 8481,Suspicious Fangs,Suspicious Fangs
-8482,Novy Tkt Head,Novy Tkt Head
-8483,Novy Tkt Torso,Novy Tkt Torso
-8484,Novy Tkt Arms,Novy Tkt Arms
-8485,Novy Tkt Waist,Novy Tkt Waist
-8486,Novy Tkt Legs,Novy Tkt Legs
+8482,Novy Tkt Head,ノヴィー頭票
+8483,Novy Tkt Torso,ノヴィー胴票
+8484,Novy Tkt Arms,ノヴィー腕票
+8485,Novy Tkt Waist,ノヴィー腰票
+8486,Novy Tkt Legs,ノヴィー脚票
 8487,Dummy 8487,Dummy 8487
 8488,Dummy 8488,Dummy 8488
 8489,Dummy 8489,Dummy 8489
@@ -8501,46 +8501,46 @@ index,source,target
 8499,Dummy 8499,Dummy 8499
 8500,Dummy 8500,Dummy 8500
 8501,Dummy 8501,Dummy 8501
-8502,FE Awaken Tkt (H),FE Awaken Tkt (H)
-8503,FE Awaken Tkt (C),FE Awaken Tkt (C)
-8504,FE Awaken Tkt (A),FE Awaken Tkt (A)
-8505,FE Awaken Tkt (W),FE Awaken Tkt (W)
-8506,FE Awaken Tkt (L),FE Awaken Tkt (L)
-8507,DMC Head Tkt,DMC Head Tkt
-8508,DMC Chest Tkt,DMC Chest Tkt
-8509,DMC Arms Tkt,DMC Arms Tkt
-8510,DMC Waist Tkt,DMC Waist Tkt
-8511,DMC Legs Tkt,DMC Legs Tkt
-8512,Gelt Head Tkt,Gelt Head Tkt
-8513,Gelt Chest Tkt,Gelt Chest Tkt
-8514,Gelt Arms Tkt,Gelt Arms Tkt
-8515,Gelt Waist Tkt,Gelt Waist Tkt
-8516,Gelt Legs Tkt,Gelt Legs Tkt
-8517,Genome Tkt Head,Genome Tkt Head
-8518,Genome Tkt Torso,Genome Tkt Torso
-8519,Genome Tkt Arms,Genome Tkt Arms
-8520,Genome Tkt Waist,Genome Tkt Waist
-8521,Genome Tkt Legs,Genome Tkt Legs
-8522,Devol Tkt Head,Devol Tkt Head
-8523,Devol Tkt Torso,Devol Tkt Torso
-8524,Devol Tkt Arms,Devol Tkt Arms
-8525,Devol Tkt Waist,Devol Tkt Waist
-8526,Devol Tkt Legs,Devol Tkt Legs
-8527,SFCP Tkt Head,SFCP Tkt Head
-8528,SFCP Tkt Torso,SFCP Tkt Torso
-8529,SFCP Tkt Arms,SFCP Tkt Arms
-8530,SFCP Tkt Waist,SFCP Tkt Waist
-8531,SFCP Tkt Legs,SFCP Tkt Legs
-8532,VⅡ Tkt Head,VⅡ Tkt Head
-8533,VⅡ Tkt Torso,VⅡ Tkt Torso
-8534,VⅡ Tkt Arms,VⅡ Tkt Arms
-8535,VⅡ Tkt Waist,VⅡ Tkt Waist
-8536,VⅡ Tkt Legs,VⅡ Tkt Legs
-8537,Saber Tkt Head,Saber Tkt Head
-8538,Saber Tkt Torso,Saber Tkt Torso
-8539,Saber Tkt Arms,Saber Tkt Arms
-8540,Saber Tkt Waist,Saber Tkt Waist
-8541,Saber Tkt Legs,Saber Tkt Legs
+8502,FE Awaken Tkt (H),ＦＥ覚醒頭票
+8503,FE Awaken Tkt (C),ＦＥ覚醒胴票
+8504,FE Awaken Tkt (A),ＦＥ覚醒腕票
+8505,FE Awaken Tkt (W),ＦＥ覚醒腰票
+8506,FE Awaken Tkt (L),ＦＥ覚醒脚票
+8507,DMC Head Tkt,ＤＭＣ頭票
+8508,DMC Chest Tkt,ＤＭＣ胴票
+8509,DMC Arms Tkt,ＤＭＣ腕票
+8510,DMC Waist Tkt,ＤＭＣ腰票
+8511,DMC Legs Tkt,ＤＭＣ脚票
+8512,Gelt Head Tkt,強獸神頭票
+8513,Gelt Chest Tkt,強獸神胴票
+8514,Gelt Arms Tkt,強獸神腕票
+8515,Gelt Waist Tkt,強獸神腰票
+8516,Gelt Legs Tkt,強獸神脚票
+8517,Genome Tkt Head,基因頭票
+8518,Genome Tkt Torso,基因胴票
+8519,Genome Tkt Arms,基因腕票
+8520,Genome Tkt Waist,基因腰票
+8521,Genome Tkt Legs,基因脚票
+8522,Devol Tkt Head,デボル頭票
+8523,Devol Tkt Torso,デボル胴票
+8524,Devol Tkt Arms,デボル腕票
+8525,Devol Tkt Waist,デボル腰票
+8526,Devol Tkt Legs,デボル脚票
+8527,SFCP Tkt Head,ＳＦＣＰ頭票
+8528,SFCP Tkt Torso,ＳＦＣＰ胴票
+8529,SFCP Tkt Arms,ＳＦＣＰ腕票
+8530,SFCP Tkt Waist,ＳＦＣＰ腰票
+8531,SFCP Tkt Legs,ＳＦＣＰ脚票
+8532,VⅡ Tkt Head,ＶⅡ頭票
+8533,VⅡ Tkt Torso,ＶⅡ胴票
+8534,VⅡ Tkt Arms,ＶⅡ腕票
+8535,VⅡ Tkt Waist,ＶⅡ腰票
+8536,VⅡ Tkt Legs,ＶⅡ脚票
+8537,Saber Tkt Head,セイバー頭票
+8538,Saber Tkt Torso,セイバー胴票
+8539,Saber Tkt Arms,セイバー腕票
+8540,Saber Tkt Waist,セイバー腰票
+8541,Saber Tkt Legs,セイバー脚票
 8542,ルワジュ生産券頭,ルワジュ生産券頭
 8543,ルワジュ生産券胴,ルワジュ生産券胴
 8544,ルワジュ生産券腕,ルワジュ生産券腕
@@ -8551,21 +8551,21 @@ index,source,target
 8549,ノメル生産券腕,ノメル生産券腕
 8550,ノメル生産券腰,ノメル生産券腰
 8551,ノメル生産券脚,ノメル生産券脚
-8552,Fate Ⅱ Tkt Head,Fate Ⅱ Tkt Head
-8553,Fate Ⅱ Tkt Torso,Fate Ⅱ Tkt Torso
-8554,Fate Ⅱ Tkt Arms,Fate Ⅱ Tkt Arms
-8555,Fate Ⅱ Tkt Waist,Fate Ⅱ Tkt Waist
-8556,Fate Ⅱ Tkt Legs,Fate Ⅱ Tkt Legs
-8557,Rebellion Tkt,Rebellion Tkt
-8558,R Kai Tkt,R Kai Tkt
-8559,Jela Ⅱ Tkt,Jela Ⅱ Tkt
-8560,Epide Ⅱ Tkt,Epide Ⅱ Tkt
-8561,Jela Ⅲ Tkt,Jela Ⅲ Tkt
-8562,Epide Ⅲ Tkt,Epide Ⅲ Tkt
-8563,Jela Ⅳ Tkt,Jela Ⅳ Tkt
-8564,Epide Ⅳ Tkt,Epide Ⅳ Tkt
-8565,Jela Ⅴ Tkt,Jela Ⅴ Tkt
-8566,Epide Ⅴ Tkt,Epide Ⅴ Tkt
+8552,Fate Ⅱ Tkt Head,フェイトⅡ頭票
+8553,Fate Ⅱ Tkt Torso,フェイトⅡ胴票
+8554,Fate Ⅱ Tkt Arms,フェイトⅡ腕票
+8555,Fate Ⅱ Tkt Waist,フェイトⅡ腰票
+8556,Fate Ⅱ Tkt Legs,フェイトⅡ脚票
+8557,Rebellion Tkt,反逆之劍票
+8558,R Kai Tkt,Ｒ改票
+8559,Jela Ⅱ Tkt,妬忌Ⅱ票
+8560,Epide Ⅱ Tkt,瘟疫Ⅱ票
+8561,Jela Ⅲ Tkt,妬忌Ⅲ票
+8562,Epide Ⅲ Tkt,瘟疫Ⅲ票
+8563,Jela Ⅳ Tkt,妬忌Ⅳ票
+8564,Epide Ⅳ Tkt,瘟疫Ⅳ票
+8565,Jela Ⅴ Tkt,妬忌Ⅴ票
+8566,Epide Ⅴ Tkt,瘟疫Ⅴ票
 8567,Veloci BM G,Veloci BM G
 8568,Veloci BM GF,Veloci BM GF
 8569,Veloci BM GX1,Veloci BM GX1
@@ -8777,73 +8777,73 @@ index,source,target
 8775,Status Res G,Status Res G
 8776,Recoil G,Recoil G
 8777,Fasting G,Fasting G
-8778,Divergence I Tkt,Divergence I Tkt
-8779,D.Divergence I Tkt,D.Divergence I Tkt
-8780,Unsigned Ⅰ Tkt,Unsigned Ⅰ Tkt
-8781,Unsigned B. Ⅰ Tkt,Unsigned B. Ⅰ Tkt
-8782,10P Poogie Tkt,10P Poogie Tkt
-8783,30P Poogie Tkt,30P Poogie Tkt
-8784,First Type Tkt,First Type Tkt
-8785,Second Type Tkt,Second Type Tkt
+8778,Divergence I Tkt,分岐Ⅰ票
+8779,D.Divergence I Tkt,Ｄ分岐Ⅰ票
+8780,Unsigned Ⅰ Tkt,無銘Ⅰ票
+8781,Unsigned B. Ⅰ Tkt,無銘黒Ⅰ票
+8782,10P Poogie Tkt,10Ｐ波奇票
+8783,30P Poogie Tkt,30Ｐ波奇票
+8784,First Type Tkt,壹式票
+8785,Second Type Tkt,貳式票
 8786,壱式千成生産券,壱式千成生産券
 8787,弐式千成生産券,弐式千成生産券
-8788,Proof Tkt,Proof Tkt
+8788,Proof Tkt,証票
 8789,レプティ生産券,レプティ生産券
-8790,Itasis Tkt,Itasis Tkt
-8791,Epigauss Tkt,Epigauss Tkt
-8792,1st Prosperity Tkt,1st Prosperity Tkt
-8793,2nd Prosperity Tkt,2nd Prosperity Tkt
+8790,Itasis Tkt,イタシス票
+8791,Epigauss Tkt,エピガウス票
+8792,1st Prosperity Tkt,壹式繁榮票
+8793,2nd Prosperity Tkt,貳式繁榮票
 8794,ルオルティ生産券,ルオルティ生産券
-8795,Ageros Tkt,Ageros Tkt
-8796,Jela Ⅵ Tkt,Jela Ⅵ Tkt
-8797,Epide Ⅵ Tkt,Epide Ⅵ Tkt
-8798,Nadel C Tkt,Nadel C Tkt
-8799,Nadel L Tkt,Nadel L Tkt
-8800,Alia L Tkt,Alia L Tkt
-8801,Tomen L Tkt,Tomen L Tkt
+8795,Ageros Tkt,アゲロス票
+8796,Jela Ⅵ Tkt,妬忌Ⅵ票
+8797,Epide Ⅵ Tkt,瘟疫Ⅵ票
+8798,Nadel C Tkt,刺針Ｃ票
+8799,Nadel L Tkt,刺針Ｌ票
+8800,Alia L Tkt,アリアＬ票
+8801,Tomen L Tkt,トメンＬ票
 8802,SR Hiden Stone,SR Hiden Stone
-8803,Kaera A Tkt,Kaera A Tkt
+8803,Kaera A Tkt,至愛Ａ票
 8804,ジルＡ生産券,ジルＡ生産券
-8805,Tetsugi B Tkt,Tetsugi B Tkt
-8806,Dollar B Tkt,Dollar B Tkt
-8807,Neko Blast 4G Tkt,Neko Blast 4G Tkt
-8808,Neko B.Samurai Tkt,Neko B.Samurai Tkt
-8809,Neko B.Land Tkt,Neko B.Land Tkt
-8810,Neko Blast 4S Tkt,Neko Blast 4S Tkt
-8811,Neko B.Ninja Tkt,Neko B.Ninja Tkt
-8812,Neko B. Earth Tkt,Neko B. Earth Tkt
-8813,Arcus C Tkt,Arcus C Tkt
-8814,Puerta C Tkt,Puerta C Tkt
-8815,Arcus S Tkt,Arcus S Tkt
-8816,Puerta S Tkt,Puerta S Tkt
+8805,Tetsugi B Tkt,傳承Ｂ票
+8806,Dollar B Tkt,歳月Ｂ票
+8807,Neko Blast 4G Tkt,猫爆裂４Ｇ票
+8808,Neko B.Samurai Tkt,猫侍票
+8809,Neko B.Land Tkt,猫陸票
+8810,Neko Blast 4S Tkt,猫爆裂４Ｓ票
+8811,Neko B.Ninja Tkt,猫忍者票
+8812,Neko B. Earth Tkt,猫大地票
+8813,Arcus C Tkt,弓弩Ｃ票
+8814,Puerta C Tkt,隘口Ｃ票
+8815,Arcus S Tkt,弓弩Ｓ票
+8816,Puerta S Tkt,隘口Ｓ票
 8817,シュッド生産券,シュッド生産券
 8818,ヴェスト生産券,ヴェスト生産券
 8819,メリーディ生産券,メリーディ生産券
-8820,I Aria Tkt,I Aria Tkt
-8821,I Bank Tkt,I Bank Tkt
-8822,S Aria Tkt,S Aria Tkt
-8823,S Bank Tkt,S Bank Tkt
+8820,I Aria Tkt,Ｉアリア票
+8821,I Bank Tkt,Ｉバンク票
+8822,S Aria Tkt,Ｓアリア票
+8823,S Bank Tkt,Ｓバンク票
 8824,パートル生産券,パートル生産券
-8825,Safir Tkt,Safir Tkt
-8826,Ruby Tkt,Ruby Tkt
+8825,Safir Tkt,藍寶石票
+8826,Ruby Tkt,紅寶石票
 8827,オーパロ生産券,オーパロ生産券
 8828,Ｄメレーナ生産券,Ｄメレーナ生産券
-8829,Reve T Tkt,Reve T Tkt
-8830,Avril Tkt,Avril Tkt
-8831,Eunius Tkt,Eunius Tkt
-8832,Desemble Tkt,Desemble Tkt
-8833,June Tkt,June Tkt
-8834,D Shane Tkt,D Shane Tkt
-8835,Bell T Tkt,Bell T Tkt
-8836,Charmant Tkt,Charmant Tkt
+8829,Reve T Tkt,睡夢Ｔ票
+8830,Avril Tkt,四月票
+8831,Eunius Tkt,五月票
+8832,Desemble Tkt,十二月票
+8833,June Tkt,六月票
+8834,D Shane Tkt,Ｄ綻華票
+8835,Bell T Tkt,地獄Ｔ票
+8836,Charmant Tkt,魅力票
 8837,クルール生産券,クルール生産券
 8838,Hunting Miracle,Hunting Miracle
 8839,Grace Smoke,Grace Smoke
-8840,Sky S Tkt,Sky S Tkt
-8841,Shall S Tkt,Shall S Tkt
-8842,V Gardo Tkt,V Gardo Tkt
-8843,B Gardo Tkt,B Gardo Tkt
-8844,P Fiaro Tkt,P Fiaro Tkt
+8840,Sky S Tkt,スカイＳ票
+8841,Shall S Tkt,シャルＳ票
+8842,V Gardo Tkt,Ｖ架勢票
+8843,B Gardo Tkt,Ｂ架勢票
+8844,P Fiaro Tkt,Ｐ艶紫票
 8845,P Baiso,P Baiso
 8846,Mera Scale,Mera Scale
 8847,Mera Shell,Mera Shell
@@ -8876,45 +8876,45 @@ index,source,target
 8874,Ｂフェジカ生産券,Ｂフェジカ生産券
 8875,ギップル生産券,ギップル生産券
 8876,モォーギル生産券,モォーギル生産券
-8877,Relic M Tkt,Relic M Tkt
-8878,Relic E Tkt,Relic E Tkt
+8877,Relic M Tkt,骨董Ｍ票
+8878,Relic E Tkt,骨董Ｅ票
 8879,ユニカムＴ生産券,ユニカムＴ生産券
 8880,イクロムＷ生産券,イクロムＷ生産券
-8881,Megadeath L Tkt,Megadeath L Tkt
-8882,Echidna M Tkt,Echidna M Tkt
+8881,Megadeath L Tkt,超死神Ｌ票
+8882,Echidna M Tkt,毒蛇Ｍ票
 8883,Dora Glass Scale,Dora Glass Scale
 8884,Dora Gleam Scale,Dora Gleam Scale
 8885,Dora Murder Scale,Dora Murder Scale
 8886,Black Crystal Pin,Black Crystal Pin
 8887,Black Radiant Pin,Black Radiant Pin
 8888,Red Phantom Pin,Red Phantom Pin
-8889,Premium Sigil Tkt,Premium Sigil Tkt
-8890,F.Pink Sigil Tkt,F.Pink Sigil Tkt
-8891,Cellobi Tkt,Cellobi Tkt
-8892,Scarecrow Ticket,Scarecrow Ticket
-8893,Sharq Tkt,Sharq Tkt
+8889,Premium Sigil Tkt,特別紋章票
+8890,F.Pink Sigil Tkt,ＦＰ紋章票
+8891,Cellobi Tkt,セロビ票
+8892,Scarecrow Ticket,稻草人票
+8893,Sharq Tkt,鯊魚票
 8894,Fukibuki Teapot,Fukibuki Teapot
-8895,Yukumo Ticket,Yukumo Ticket
-8896,Zyra Head Tkt,Zyra Head Tkt
-8897,Zyra Torso Tkt,Zyra Torso Tkt
-8898,Zyra Arms Tkt,Zyra Arms Tkt
-8899,Zyra Waist Tkt,Zyra Waist Tkt
-8900,Zyra Legs Tkt,Zyra Legs Tkt
+8895,Yukumo Ticket,ユクモ票
+8896,Zyra Head Tkt,ジーラ頭票
+8897,Zyra Torso Tkt,ジーラ胴票
+8898,Zyra Arms Tkt,ジーラ腕票
+8899,Zyra Waist Tkt,ジーラ腰票
+8900,Zyra Legs Tkt,ジーラ脚票
 8901,Carrol Head,Carrol Head
 8902,Carrol Chest,Carrol Chest
 8903,Carrol Arms,Carrol Arms
 8904,Carrol Waist,Carrol Waist
 8905,Carrol Legs,Carrol Legs
-8906,Serena Tkt Head,Serena Tkt Head
-8907,Serena Tkt Torso,Serena Tkt Torso
-8908,Serena Tkt Arms,Serena Tkt Arms
-8909,Serena Tkt Waist,Serena Tkt Waist
-8910,Serena Tkt Legs,Serena Tkt Legs
-8911,History Tkt Head,History Tkt Head
-8912,History Tkt Torso,History Tkt Torso
-8913,History Tkt Arms,History Tkt Arms
-8914,History Tkt Waist,History Tkt Waist
-8915,History Tkt Legs,History Tkt Legs
+8906,Serena Tkt Head,劍客頭票
+8907,Serena Tkt Torso,劍客胴票
+8908,Serena Tkt Arms,劍客腕票
+8909,Serena Tkt Waist,劍客腰票
+8910,Serena Tkt Legs,劍客脚票
+8911,History Tkt Head,百年戰記頭票
+8912,History Tkt Torso,百年戰記胴票
+8913,History Tkt Arms,百年戰記腕票
+8914,History Tkt Waist,百年戰記腰票
+8915,History Tkt Legs,百年戰記脚票
 8916,Steel Flower Ore,Steel Flower Ore
 8917,Jewel Beetle Gem,Jewel Beetle Gem
 8918,Caramel Beetle,Caramel Beetle

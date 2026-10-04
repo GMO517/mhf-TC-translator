@@ -7,7 +7,7 @@
 
 | CATEGORY | 進度 | 批次產物 | 下一筆 |
 |---|---|---|---|
-| `items-name/tickets` | in_progress | `batches/active/batch-items-tickets.json`（#4856–5772 已在 CSV） | **#6018** `Parin WhtTea Tkt` |
+| `items-name/tickets` | in_progress | `batches/active/batch-items-tickets.json`（累積至 #8915，已 delta） | **#9092** `Baro K Tkt` |
 
 詳見 `items-name__tickets.md`。
 
