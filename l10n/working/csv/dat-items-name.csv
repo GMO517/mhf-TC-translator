@@ -754,62 +754,62 @@ index,source,target
 752,SnS Ticket,單手劍票
 753,Gunner Ticket,射手票
 754,Pawprint Stamp,肉球的圖章
-755,F Ticket CT 1,F Ticket CT 1
-756,F Ticket CT 2,F Ticket CT 2
-757,F Ticket CT 3,F Ticket CT 3
-758,F Ticket CT 4,F Ticket CT 4
-759,Mocha Pot,Mocha Pot
-760,Mocha・Green,Mocha・Green
-761,Mocha・Green,Mocha・Green
-762,Mocha・Green,Mocha・Green
-763,Mocha・Green,Mocha・Green
-764,Mocha・Green,Mocha・Green
-765,Mocha・Green,Mocha・Green
-766,Mocha・Green,Mocha・Green
-767,Mocha・Green,Mocha・Green
-768,Mocha・Green,Mocha・Green
-769,Mocha・Green,Mocha・Green
-770,Mocha・Green,Mocha・Green
-771,Mocha・Green,Mocha・Green
-772,Mocha・Green,Mocha・Green
-773,Mocha・Green,Mocha・Green
-774,Mocha・Red,Mocha・Red
-775,Mocha・Red,Mocha・Red
-776,Mocha・Red,Mocha・Red
-777,Mocha・Red,Mocha・Red
-778,Mocha・Yellow,Mocha・Yellow
-779,Mocha・Yellow,Mocha・Yellow
-780,Mocha・Yellow,Mocha・Yellow
-781,Mocha・Yellow,Mocha・Yellow
-782,Mocha・Blue,Mocha・Blue
-783,Mocha・Yellow,Mocha・Yellow
-784,Mocha・Yellow,Mocha・Yellow
-785,Mocha・Yellow,Mocha・Yellow
-786,Mocha・Yellow,Mocha・Yellow
-787,Mocha・Yellow,Mocha・Yellow
-788,Mocha・Yellow,Mocha・Yellow
-789,Mocha・Yellow,Mocha・Yellow
-790,Mocha・Yellow,Mocha・Yellow
-791,Mocha・Yellow,Mocha・Yellow
-792,Mocha・Yellow,Mocha・Yellow
-793,Mocha・Yellow,Mocha・Yellow
-794,Aquaglow Jewel,Aquaglow Jewel
-795,Sunspire Jewel,Sunspire Jewel
-796,Bloodrun Jewel,Bloodrun Jewel
-797,Lazurite Jewel,Lazurite Jewel
-798,Green Deco,Green Deco
-799,Paralysis 1 Deco,Paralysis 1 Deco
-800,Sleep 1 Deco,Sleep 1 Deco
-801,Sleep 2 Deco,Sleep 2 Deco
-802,Stun 1 Deco,Stun 1 Deco
-803,Poison 1 Deco,Poison 1 Deco
-804,Deoderant 1 Deco,Deoderant 1 Deco
-805,Deoderant 2 Deco,Deoderant 2 Deco
-806,Snowball Deco,Snowball Deco
-807,Quake Deco,Quake Deco
-808,Vocal Chords Deco,Vocal Chords Deco
-809,Heat 1 Deco,Heat 1 Deco
-810,Cold 1 Deco,Cold 1 Deco
+755,F Ticket CT 1,F票 CT 1
+756,F Ticket CT 2,F票 CT 2
+757,F Ticket CT 3,F票 CT 3
+758,F Ticket CT 4,F票 CT 4
+759,Mocha Pot,モチャ鍋
+760,Mocha・Green,モチャ・緑
+761,Mocha・Green,モチャ・緑
+762,Mocha・Green,モチャ・緑
+763,Mocha・Green,モチャ・緑
+764,Mocha・Green,モチャ・緑
+765,Mocha・Green,モチャ・緑
+766,Mocha・Green,モチャ・緑
+767,Mocha・Green,モチャ・緑
+768,Mocha・Green,モチャ・緑
+769,Mocha・Green,モチャ・緑
+770,Mocha・Green,モチャ・緑
+771,Mocha・Green,モチャ・緑
+772,Mocha・Green,モチャ・緑
+773,Mocha・Green,モチャ・緑
+774,Mocha・Red,モチャ・赤
+775,Mocha・Red,モチャ・赤
+776,Mocha・Red,モチャ・赤
+777,Mocha・Red,モチャ・赤
+778,Mocha・Yellow,モチャ・黄
+779,Mocha・Yellow,モチャ・黄
+780,Mocha・Yellow,モチャ・黄
+781,Mocha・Yellow,モチャ・黄
+782,Mocha・Blue,モチャ・青
+783,Mocha・Yellow,モチャ・黄
+784,Mocha・Yellow,モチャ・黄
+785,Mocha・Yellow,モチャ・黄
+786,Mocha・Yellow,モチャ・黄
+787,Mocha・Yellow,モチャ・黄
+788,Mocha・Yellow,モチャ・黄
+789,Mocha・Yellow,モチャ・黄
+790,Mocha・Yellow,モチャ・黄
+791,Mocha・Yellow,モチャ・黄
+792,Mocha・Yellow,モチャ・黄
+793,Mocha・Yellow,モチャ・黄
+794,Aquaglow Jewel,水光原珠
+795,Sunspire Jewel,陽翔原珠
+796,Bloodrun Jewel,血注原珠
+797,Lazurite Jewel,瑠璃原珠
+798,Green Deco,緑之裝飾品
+799,Paralysis 1 Deco,耐麻痺珠【1】
+800,Sleep 1 Deco,耐睡眠珠【1】
+801,Sleep 2 Deco,耐睡眠珠【2】
+802,Stun 1 Deco,耐気絶珠【1】
+803,Poison 1 Deco,耐毒珠【1】
+804,Deoderant 1 Deco,消臭珠【1】
+805,Deoderant 2 Deco,消臭珠【2】
+806,Snowball Deco,雪玉無效珠
+807,Quake Deco,耐震珠
+808,Vocal Chords Deco,防音珠
+809,Heat 1 Deco,耐暑珠【1】
+810,Cold 1 Deco,耐寒珠【1】
 811,Wind Pres.1 Deco,Wind Pres.1 Deco
 812,Terrain Deco,Terrain Deco
 813,Health 1 Deco,Health 1 Deco

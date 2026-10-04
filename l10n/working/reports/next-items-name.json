@@ -1,7 +1,7 @@
 {
   "section_id": "items-name",
   "xpath": "dat/items/name",
-  "pending_total_estimate": 16027,
+  "pending_total_estimate": 15971,
   "batch": [
     {
       "index": "31",
@@ -100,228 +100,228 @@
       "source": "(dummy)"
     },
     {
-      "index": "699",
-      "source": "Sedation Ball"
+      "index": "755",
+      "source": "F Ticket CT 1"
     },
     {
-      "index": "700",
-      "source": "Recovery Ball"
+      "index": "756",
+      "source": "F Ticket CT 2"
     },
     {
-      "index": "701",
-      "source": "Song of the Soul"
+      "index": "757",
+      "source": "F Ticket CT 3"
     },
     {
-      "index": "702",
-      "source": "Song of the Spirit"
+      "index": "758",
+      "source": "F Ticket CT 4"
     },
     {
-      "index": "703",
-      "source": "Song for Life"
+      "index": "759",
+      "source": "Mocha Pot"
     },
     {
-      "index": "704",
-      "source": "Song of Origin"
+      "index": "760",
+      "source": "Mocha・Green"
     },
     {
-      "index": "705",
-      "source": "HH Info"
+      "index": "761",
+      "source": "Mocha・Green"
     },
     {
-      "index": "706",
-      "source": "Ancient HH Info"
+      "index": "762",
+      "source": "Mocha・Green"
     },
     {
-      "index": "707",
-      "source": "White Belt Coin"
+      "index": "763",
+      "source": "Mocha・Green"
     },
     {
-      "index": "708",
-      "source": "Black Belt Coin"
+      "index": "764",
+      "source": "Mocha・Green"
     },
     {
-      "index": "709",
-      "source": "Expert Coin"
+      "index": "765",
+      "source": "Mocha・Green"
     },
     {
-      "index": "710",
-      "source": "Bird Wyvern Coin"
+      "index": "766",
+      "source": "Mocha・Green"
     },
     {
-      "index": "711",
-      "source": "Flying Wyvern Coin"
+      "index": "767",
+      "source": "Mocha・Green"
     },
     {
-      "index": "712",
-      "source": "Piscine Coin"
+      "index": "768",
+      "source": "Mocha・Green"
     },
     {
-      "index": "713",
-      "source": "Fanged Beast Coin"
+      "index": "769",
+      "source": "Mocha・Green"
     },
     {
-      "index": "714",
-      "source": "Carapaceon Coin"
+      "index": "770",
+      "source": "Mocha・Green"
     },
     {
-      "index": "715",
-      "source": "Elder Dragon Coin"
+      "index": "771",
+      "source": "Mocha・Green"
     },
     {
-      "index": "716",
-      "source": "Eternal Coin"
+      "index": "772",
+      "source": "Mocha・Green"
     },
     {
-      "index": "717",
-      "source": "Luxury Coin"
+      "index": "773",
+      "source": "Mocha・Green"
     },
     {
-      "index": "718",
-      "source": "Solid Coin"
+      "index": "774",
+      "source": "Mocha・Red"
     },
     {
-      "index": "719",
-      "source": "Guild Coin"
+      "index": "775",
+      "source": "Mocha・Red"
     },
     {
-      "index": "720",
-      "source": "Mysterious Compass"
+      "index": "776",
+      "source": "Mocha・Red"
     },
     {
-      "index": "721",
-      "source": "Mysterious Map"
+      "index": "777",
+      "source": "Mocha・Red"
     },
     {
-      "index": "722",
-      "source": "Mysterious Tools"
+      "index": "778",
+      "source": "Mocha・Yellow"
     },
     {
-      "index": "723",
-      "source": "Mysterious Set"
+      "index": "779",
+      "source": "Mocha・Yellow"
     },
     {
-      "index": "724",
-      "source": "Demise Book"
+      "index": "780",
+      "source": "Mocha・Yellow"
     },
     {
-      "index": "725",
-      "source": "Legendary Book"
+      "index": "781",
+      "source": "Mocha・Yellow"
     },
     {
-      "index": "726",
-      "source": "Elder Dragon Book"
+      "index": "782",
+      "source": "Mocha・Blue"
     },
     {
-      "index": "727",
-      "source": "White Dragon Book"
+      "index": "783",
+      "source": "Mocha・Yellow"
     },
     {
-      "index": "728",
-      "source": "Tower Frag Prequel"
+      "index": "784",
+      "source": "Mocha・Yellow"
     },
     {
-      "index": "729",
-      "source": "Tower Frag Novel"
+      "index": "785",
+      "source": "Mocha・Yellow"
     },
     {
-      "index": "730",
-      "source": "Tower Frag Sequel"
+      "index": "786",
+      "source": "Mocha・Yellow"
     },
     {
-      "index": "731",
-      "source": "Ancient Tower Book"
+      "index": "787",
+      "source": "Mocha・Yellow"
     },
     {
-      "index": "732",
-      "source": "Ancient Pot Top"
+      "index": "788",
+      "source": "Mocha・Yellow"
     },
     {
-      "index": "733",
-      "source": "Ancient Pot Middle"
+      "index": "789",
+      "source": "Mocha・Yellow"
     },
     {
-      "index": "734",
-      "source": "Ancient Pot Bottom"
+      "index": "790",
+      "source": "Mocha・Yellow"
     },
     {
-      "index": "735",
-      "source": "Ancient Pot"
+      "index": "791",
+      "source": "Mocha・Yellow"
     },
     {
-      "index": "736",
-      "source": "Star Iron"
+      "index": "792",
+      "source": "Mocha・Yellow"
     },
     {
-      "index": "737",
-      "source": "Mainsail"
+      "index": "793",
+      "source": "Mocha・Yellow"
     },
     {
-      "index": "738",
-      "source": "Main Mast"
+      "index": "794",
+      "source": "Aquaglow Jewel"
     },
     {
-      "index": "739",
-      "source": "Comradery Proof"
+      "index": "795",
+      "source": "Sunspire Jewel"
     },
     {
-      "index": "740",
-      "source": "Bond Proof"
+      "index": "796",
+      "source": "Bloodrun Jewel"
     },
     {
-      "index": "741",
-      "source": "Instructor's Proof"
+      "index": "797",
+      "source": "Lazurite Jewel"
     },
     {
-      "index": "742",
-      "source": "Egg Ticket"
+      "index": "798",
+      "source": "Green Deco"
     },
     {
-      "index": "743",
-      "source": "Jewel Ticket"
+      "index": "799",
+      "source": "Paralysis 1 Deco"
     },
     {
-      "index": "744",
-      "source": "Commendation"
+      "index": "800",
+      "source": "Sleep 1 Deco"
     },
     {
-      "index": "745",
-      "source": "Pawprint Seal"
+      "index": "801",
+      "source": "Sleep 2 Deco"
     },
     {
-      "index": "746",
-      "source": "Bronze Guild Tkt"
+      "index": "802",
+      "source": "Stun 1 Deco"
     },
     {
-      "index": "747",
-      "source": "Cooking Ticket"
+      "index": "803",
+      "source": "Poison 1 Deco"
     },
     {
-      "index": "748",
-      "source": "Leadership Ticket"
+      "index": "804",
+      "source": "Deoderant 1 Deco"
     },
     {
-      "index": "749",
-      "source": "GS Ticket"
+      "index": "805",
+      "source": "Deoderant 2 Deco"
     },
     {
-      "index": "750",
-      "source": "Hammer Ticket"
+      "index": "806",
+      "source": "Snowball Deco"
     },
     {
-      "index": "751",
-      "source": "Lance Ticket"
+      "index": "807",
+      "source": "Quake Deco"
     },
     {
-      "index": "752",
-      "source": "SnS Ticket"
+      "index": "808",
+      "source": "Vocal Chords Deco"
     },
     {
-      "index": "753",
-      "source": "Gunner Ticket"
+      "index": "809",
+      "source": "Heat 1 Deco"
     },
     {
-      "index": "754",
-      "source": "Pawprint Stamp"
+      "index": "810",
+      "source": "Cold 1 Deco"
     }
   ]
 }

@@ -446,6 +446,30 @@
 | 752 | SnS Ticket | 單手劍票 |
 | 753 | Gunner Ticket | 射手票 |
 | 754 | Pawprint Stamp | 肉球的圖章 |
+| 755–758 | F Ticket CT 1–4 | F票 CT 1–4 |
+| 759 | Mocha Pot | モチャ鍋 |
+| 760–773 | Mocha・Green | モチャ・緑 |
+| 774–777 | Mocha・Red | モチャ・赤 |
+| 778–781 | Mocha・Yellow | モチャ・黄 |
+| 782 | Mocha・Blue | モチャ・青 |
+| 783–793 | Mocha・Yellow | モチャ・黄 |
+| 794 | Aquaglow Jewel | 水光原珠 |
+| 795 | Sunspire Jewel | 陽翔原珠 |
+| 796 | Bloodrun Jewel | 血注原珠 |
+| 797 | Lazurite Jewel | 瑠璃原珠 |
+| 798 | Green Deco | 緑之裝飾品 |
+| 799 | Paralysis 1 Deco | 耐麻痺珠【1】 |
+| 800 | Sleep 1 Deco | 耐睡眠珠【1】 |
+| 801 | Sleep 2 Deco | 耐睡眠珠【2】 |
+| 802 | Stun 1 Deco | 耐気絶珠【1】 |
+| 803 | Poison 1 Deco | 耐毒珠【1】 |
+| 804 | Deoderant 1 Deco | 消臭珠【1】 |
+| 805 | Deoderant 2 Deco | 消臭珠【2】 |
+| 806 | Snowball Deco | 雪玉無效珠 |
+| 807 | Quake Deco | 耐震珠 |
+| 808 | Vocal Chords Deco | 防音珠 |
+| 809 | Heat 1 Deco | 耐暑珠【1】 |
+| 810 | Cold 1 Deco | 耐寒珠【1】 |
 
 ## 字型暫用（已標）
 
@@ -473,4 +497,7 @@
 - 擊→撃：射撃笛｜Shot Flute｜`batch-items-010` #688  
 - 說→伝：伝説之書｜Legendary Book｜`batch-items-011` #725（說缺）  
 - 桅→檣：主檣｜Main Mast｜`batch-items-011` #738（桅缺）  
+- 綠→緑：緑之裝飾品／モチャ・緑｜Green Deco／Mocha・Green｜`batch-items-012`（沿用系列常用形）  
+- 黃→黄：モチャ・黄｜Mocha・Yellow｜`batch-items-012`  
+- モチャ：日文片假名專有名保留｜Mocha*｜`batch-items-012`  
 
