@@ -1,0 +1,1758 @@
+{
+  "section_id": "items-name",
+  "label": "殘餘魔物素材",
+  "translations": [
+    {
+      "index": "1717",
+      "target": "Giant Hypnoc Beak"
+    },
+    {
+      "index": "1802",
+      "target": "旅團銅寶玉"
+    },
+    {
+      "index": "1803",
+      "target": "旅團銀寶玉"
+    },
+    {
+      "index": "1804",
+      "target": "旅團金寶玉"
+    },
+    {
+      "index": "1849",
+      "target": "閃光寶玉"
+    },
+    {
+      "index": "1850",
+      "target": "貫通寶玉"
+    },
+    {
+      "index": "1851",
+      "target": "爆轟寶玉"
+    },
+    {
+      "index": "1852",
+      "target": "橙寶玉碎片"
+    },
+    {
+      "index": "1853",
+      "target": "黄寶玉碎片"
+    },
+    {
+      "index": "1854",
+      "target": "綠寶玉碎片"
+    },
+    {
+      "index": "1855",
+      "target": "紅寶玉碎片"
+    },
+    {
+      "index": "1856",
+      "target": "紫寶玉碎片"
+    },
+    {
+      "index": "1857",
+      "target": "藍寶玉碎片"
+    },
+    {
+      "index": "1879",
+      "target": "雙狼的鬣毛"
+    },
+    {
+      "index": "1883",
+      "target": "雙狼的紅寶石"
+    },
+    {
+      "index": "1898",
+      "target": "雙狼的證明"
+    },
+    {
+      "index": "2156",
+      "target": "力量寶玉"
+    },
+    {
+      "index": "2157",
+      "target": "中級力量寶玉"
+    },
+    {
+      "index": "2158",
+      "target": "秘傳力量寶玉"
+    },
+    {
+      "index": "2167",
+      "target": "Beast Horn Stone"
+    },
+    {
+      "index": "2703",
+      "target": "Strong Beak"
+    },
+    {
+      "index": "2704",
+      "target": "Ferocious Beak"
+    },
+    {
+      "index": "2705",
+      "target": "Divine Beak"
+    },
+    {
+      "index": "2940",
+      "target": "Flint"
+    },
+    {
+      "index": "3058",
+      "target": "Big Flash 寶玉"
+    },
+    {
+      "index": "3059",
+      "target": "Big Blast 寶玉"
+    },
+    {
+      "index": "3060",
+      "target": "Big Penetrator 寶玉"
+    },
+    {
+      "index": "3563",
+      "target": "Drench Leaf"
+    },
+    {
+      "index": "3719",
+      "target": "Poisonous Beak"
+    },
+    {
+      "index": "4061",
+      "target": "Flash Blast T.寶玉"
+    },
+    {
+      "index": "4062",
+      "target": "Attack Blast T.寶玉"
+    },
+    {
+      "index": "4063",
+      "target": "Penetrating T.寶玉"
+    },
+    {
+      "index": "4474",
+      "target": "Extreme Flame 寶玉"
+    },
+    {
+      "index": "4486",
+      "target": "Unknown Webbing"
+    },
+    {
+      "index": "4491",
+      "target": "Unknown Marrow"
+    },
+    {
+      "index": "4728",
+      "target": "Omoware Leaf"
+    },
+    {
+      "index": "4797",
+      "target": "Icy Scale Stone"
+    },
+    {
+      "index": "4801",
+      "target": "Tail Fin Harness"
+    },
+    {
+      "index": "4932",
+      "target": "Stately Beak"
+    },
+    {
+      "index": "4933",
+      "target": "Pompous Beak"
+    },
+    {
+      "index": "5130",
+      "target": "Huge F.Wyvern 寶玉"
+    },
+    {
+      "index": "5137",
+      "target": "Lg. Fang Fragment"
+    },
+    {
+      "index": "6039",
+      "target": "Shivering Beak"
+    },
+    {
+      "index": "6154",
+      "target": "Gaudy Beak"
+    },
+    {
+      "index": "6181",
+      "target": "Bright Tail Note"
+    },
+    {
+      "index": "6182",
+      "target": "Lovely Tail Note"
+    },
+    {
+      "index": "6183",
+      "target": "Cool Tail Note"
+    },
+    {
+      "index": "6437",
+      "target": "Arugoru Fuse Shell"
+    },
+    {
+      "index": "6647",
+      "target": "Hrm.Eternal Claw"
+    },
+    {
+      "index": "6655",
+      "target": "GR1 寶玉"
+    },
+    {
+      "index": "6660",
+      "target": "Lovely Pelt"
+    },
+    {
+      "index": "6664",
+      "target": "Far.Rainbow Tail"
+    },
+    {
+      "index": "6665",
+      "target": "Far.Thunder Hide"
+    },
+    {
+      "index": "6668",
+      "target": "GR2 寶玉"
+    },
+    {
+      "index": "6669",
+      "target": "Bas.Glitter Shell"
+    },
+    {
+      "index": "6672",
+      "target": "Rath.Glitter Scale"
+    },
+    {
+      "index": "6674",
+      "target": "Rath.Wicked Plate"
+    },
+    {
+      "index": "6675",
+      "target": "Cean.Glisten Shell"
+    },
+    {
+      "index": "6676",
+      "target": "Cean.Scissor Claw"
+    },
+    {
+      "index": "6684",
+      "target": "GR3 寶玉"
+    },
+    {
+      "index": "6686",
+      "target": "Los.Deep Marrow"
+    },
+    {
+      "index": "6688",
+      "target": "Blng.Glacial Hide"
+    },
+    {
+      "index": "6691",
+      "target": "Blng.Berg Fang"
+    },
+    {
+      "index": "6701",
+      "target": "Mido.Lava Claw"
+    },
+    {
+      "index": "6704",
+      "target": "GR4 寶玉"
+    },
+    {
+      "index": "6708",
+      "target": "Volg.Scoria Scale"
+    },
+    {
+      "index": "6709",
+      "target": "Volg.Solid Fang"
+    },
+    {
+      "index": "6710",
+      "target": "Volg.Magma Fin"
+    },
+    {
+      "index": "6714",
+      "target": "Tgrx.Supreme Scale"
+    },
+    {
+      "index": "6723",
+      "target": "GR5 寶玉"
+    },
+    {
+      "index": "6729",
+      "target": "Vash. Demise Claw"
+    },
+    {
+      "index": "6731",
+      "target": "Vash. Solid Tail"
+    },
+    {
+      "index": "6748",
+      "target": "GR7 寶玉"
+    },
+    {
+      "index": "6752",
+      "target": "Permafrost Sac"
+    },
+    {
+      "index": "6753",
+      "target": "Miasma Sac"
+    },
+    {
+      "index": "6754",
+      "target": "Immobilizing Sac"
+    },
+    {
+      "index": "6755",
+      "target": "Deep Coma Sac"
+    },
+    {
+      "index": "6780",
+      "target": "Disu.Fire Plate"
+    },
+    {
+      "index": "6781",
+      "target": "Disu.Ice Plate"
+    },
+    {
+      "index": "6796",
+      "target": "Herb. Shine Shell"
+    },
+    {
+      "index": "6997",
+      "target": "Los Great Shell"
+    },
+    {
+      "index": "6998",
+      "target": "Espi Eternal Scale"
+    },
+    {
+      "index": "6999",
+      "target": "Volga Divine Fin"
+    },
+    {
+      "index": "7011",
+      "target": "Festival 寶玉"
+    },
+    {
+      "index": "7130",
+      "target": "Cracked Fang"
+    },
+    {
+      "index": "7132",
+      "target": "Cracked Claw"
+    },
+    {
+      "index": "7161",
+      "target": "GR6 寶玉"
+    },
+    {
+      "index": "7289",
+      "target": "Elastic Hide"
+    },
+    {
+      "index": "7293",
+      "target": "Volg.Fierce Fang"
+    },
+    {
+      "index": "7297",
+      "target": "Dyuragaua Hvy.Tail"
+    },
+    {
+      "index": "7308",
+      "target": "Black Ray Pelt"
+    },
+    {
+      "index": "7465",
+      "target": "20 Soul 寶玉 G"
+    },
+    {
+      "index": "7466",
+      "target": "40 Soul 寶玉 G"
+    },
+    {
+      "index": "7467",
+      "target": "80 Soul 寶玉 G"
+    },
+    {
+      "index": "7468",
+      "target": "20 Soul 寶玉"
+    },
+    {
+      "index": "7469",
+      "target": "40 Soul 寶玉"
+    },
+    {
+      "index": "7470",
+      "target": "80 Soul 寶玉"
+    },
+    {
+      "index": "7472",
+      "target": "Conquest 寶玉 Bud"
+    },
+    {
+      "index": "7473",
+      "target": "Conquest 寶玉 Bloom"
+    },
+    {
+      "index": "7474",
+      "target": "Supr.Sunlight 寶玉"
+    },
+    {
+      "index": "7475",
+      "target": "Supr.Moonlight 寶玉"
+    },
+    {
+      "index": "8069",
+      "target": "Diva Song 寶玉"
+    },
+    {
+      "index": "8105",
+      "target": "Plesi.Ancient Fin"
+    },
+    {
+      "index": "8111",
+      "target": "Blos Symmetry Horn"
+    },
+    {
+      "index": "8112",
+      "target": "舞雷龍的. Supreme Shl"
+    },
+    {
+      "index": "8113",
+      "target": "舞雷龍的. Supreme Scl"
+    },
+    {
+      "index": "8114",
+      "target": "舞雷龍的. Medulla"
+    },
+    {
+      "index": "8116",
+      "target": "C.Drome Elder Fang"
+    },
+    {
+      "index": "8117",
+      "target": "C.Drome Elder Fin"
+    },
+    {
+      "index": "8315",
+      "target": "Wing of Passion"
+    },
+    {
+      "index": "8335",
+      "target": "Horn Coin"
+    },
+    {
+      "index": "8917",
+      "target": "Jewel Beetle 寶玉"
+    },
+    {
+      "index": "9045",
+      "target": "Foro Beak"
+    },
+    {
+      "index": "9063",
+      "target": "Diorex Scalp"
+    },
+    {
+      "index": "9064",
+      "target": "Diorex Leg Shell"
+    },
+    {
+      "index": "9065",
+      "target": "Diorex Tail Shell"
+    },
+    {
+      "index": "9086",
+      "target": "Jebia Strong Tail"
+    },
+    {
+      "index": "9089",
+      "target": "Rath Trove Scale"
+    },
+    {
+      "index": "9368",
+      "target": "Silence 寶玉"
+    },
+    {
+      "index": "9595",
+      "target": "W.Espi Venom Spike"
+    },
+    {
+      "index": "9599",
+      "target": "W.Espi Dense Shell"
+    },
+    {
+      "index": "9604",
+      "target": "Crimson Horn"
+    },
+    {
+      "index": "9605",
+      "target": "Brave Crimson Horn"
+    },
+    {
+      "index": "9607",
+      "target": "Malleable Hide"
+    },
+    {
+      "index": "9610",
+      "target": "Red Alluring Hide"
+    },
+    {
+      "index": "9737",
+      "target": "Star Leaf"
+    },
+    {
+      "index": "9745",
+      "target": "Palm Leaf"
+    },
+    {
+      "index": "9775",
+      "target": "Biting Shell Case"
+    },
+    {
+      "index": "9776",
+      "target": "Cracked Shell Case"
+    },
+    {
+      "index": "9777",
+      "target": "Crushed Shell Case"
+    },
+    {
+      "index": "9791",
+      "target": "Elegant Mane"
+    },
+    {
+      "index": "10367",
+      "target": "Status Res 寶玉 Ⅲ"
+    },
+    {
+      "index": "10368",
+      "target": "Everlasting 寶玉"
+    },
+    {
+      "index": "10369",
+      "target": "Carving 寶玉"
+    },
+    {
+      "index": "10370",
+      "target": "Bomb Sword 寶玉"
+    },
+    {
+      "index": "10371",
+      "target": "Poison Sword 寶玉"
+    },
+    {
+      "index": "10372",
+      "target": "Para. Sword 寶玉"
+    },
+    {
+      "index": "10373",
+      "target": "Sleep Sword 寶玉"
+    },
+    {
+      "index": "10374",
+      "target": "Fire Sword 寶玉"
+    },
+    {
+      "index": "10375",
+      "target": "Water Sword 寶玉"
+    },
+    {
+      "index": "10376",
+      "target": "Thunder Sword 寶玉"
+    },
+    {
+      "index": "10377",
+      "target": "Ice Sword 寶玉"
+    },
+    {
+      "index": "10378",
+      "target": "Dragon Sword 寶玉"
+    },
+    {
+      "index": "10647",
+      "target": "Kuaru. Essence 寶玉"
+    },
+    {
+      "index": "10650",
+      "target": "Kuaru. Rainbow 寶玉"
+    },
+    {
+      "index": "10654",
+      "target": "A. Rath Deep Marrow"
+    },
+    {
+      "index": "10656",
+      "target": "A. Rath Glory Scale"
+    },
+    {
+      "index": "10659",
+      "target": "P. Rath Great Spike"
+    },
+    {
+      "index": "10660",
+      "target": "P. Rath Glow Plate"
+    },
+    {
+      "index": "10725",
+      "target": "Scale Fossil"
+    },
+    {
+      "index": "10726",
+      "target": "Claw Fossil"
+    },
+    {
+      "index": "10727",
+      "target": "Fang Fossil"
+    },
+    {
+      "index": "10728",
+      "target": "Wing Fossil"
+    },
+    {
+      "index": "10751",
+      "target": "Soul 寶玉"
+    },
+    {
+      "index": "10752",
+      "target": "Faded Soul 寶玉"
+    },
+    {
+      "index": "11037",
+      "target": "Rec Speed 寶玉 Ⅰ"
+    },
+    {
+      "index": "11038",
+      "target": "Rec Speed 寶玉 Ⅱ"
+    },
+    {
+      "index": "11039",
+      "target": "Stamina Rec 寶玉 Ⅰ"
+    },
+    {
+      "index": "11040",
+      "target": "Stamina Rec 寶玉 Ⅱ"
+    },
+    {
+      "index": "11043",
+      "target": "Eating 寶玉"
+    },
+    {
+      "index": "11047",
+      "target": "Adrenaline 寶玉 Ⅰ"
+    },
+    {
+      "index": "11048",
+      "target": "Adrenaline 寶玉 Ⅱ"
+    },
+    {
+      "index": "11049",
+      "target": "Expert 寶玉 Ⅰ"
+    },
+    {
+      "index": "11050",
+      "target": "Expert 寶玉 Ⅱ"
+    },
+    {
+      "index": "11051",
+      "target": "Expert 寶玉 Ⅲ"
+    },
+    {
+      "index": "11052",
+      "target": "Expert 寶玉 Ⅳ"
+    },
+    {
+      "index": "11053",
+      "target": "Expert 寶玉 Ⅴ"
+    },
+    {
+      "index": "11054",
+      "target": "Status 寶玉"
+    },
+    {
+      "index": "11055",
+      "target": "Gunnery 寶玉 Ⅰ"
+    },
+    {
+      "index": "11056",
+      "target": "Gunnery 寶玉 Ⅱ"
+    },
+    {
+      "index": "11057",
+      "target": "Fire Attack 寶玉 Ⅰ"
+    },
+    {
+      "index": "11058",
+      "target": "Fire Attack 寶玉 Ⅱ"
+    },
+    {
+      "index": "11059",
+      "target": "Water Attack 寶玉 Ⅰ"
+    },
+    {
+      "index": "11060",
+      "target": "Water Attack 寶玉 Ⅱ"
+    },
+    {
+      "index": "11061",
+      "target": "Ice Attack 寶玉 Ⅰ"
+    },
+    {
+      "index": "11062",
+      "target": "Ice Attack 寶玉 Ⅱ"
+    },
+    {
+      "index": "11063",
+      "target": "Thunder Attk 寶玉 Ⅰ"
+    },
+    {
+      "index": "11064",
+      "target": "Thunder Attk 寶玉 Ⅱ"
+    },
+    {
+      "index": "11065",
+      "target": "Dragon Attk 寶玉 Ⅰ"
+    },
+    {
+      "index": "11066",
+      "target": "Dragon Attk 寶玉 Ⅱ"
+    },
+    {
+      "index": "11067",
+      "target": "Elemental Attk 寶玉"
+    },
+    {
+      "index": "11068",
+      "target": "Martial Arts 寶玉 Ⅰ"
+    },
+    {
+      "index": "11069",
+      "target": "Martial Arts 寶玉 Ⅱ"
+    },
+    {
+      "index": "11070",
+      "target": "Fasting 寶玉 Ⅰ"
+    },
+    {
+      "index": "11071",
+      "target": "Fasting 寶玉 Ⅱ"
+    },
+    {
+      "index": "11072",
+      "target": "Focus 寶玉 Ⅰ"
+    },
+    {
+      "index": "11073",
+      "target": "Focus 寶玉 Ⅱ"
+    },
+    {
+      "index": "11074",
+      "target": "Wpn Handling 寶玉"
+    },
+    {
+      "index": "11075",
+      "target": "Guard 寶玉 Ⅰ"
+    },
+    {
+      "index": "11076",
+      "target": "Guard 寶玉 Ⅱ"
+    },
+    {
+      "index": "11077",
+      "target": "Sharpening 寶玉 Ⅰ"
+    },
+    {
+      "index": "11078",
+      "target": "Sharpening 寶玉 Ⅱ"
+    },
+    {
+      "index": "11081",
+      "target": "Artisan 寶玉"
+    },
+    {
+      "index": "11082",
+      "target": "Fencing 寶玉 Ⅰ"
+    },
+    {
+      "index": "11083",
+      "target": "Fencing 寶玉 Ⅱ"
+    },
+    {
+      "index": "11084",
+      "target": "Normal Shot Up 寶玉"
+    },
+    {
+      "index": "11085",
+      "target": "Pierce Shot Up 寶玉"
+    },
+    {
+      "index": "11086",
+      "target": "Pellet Shot Up 寶玉"
+    },
+    {
+      "index": "11087",
+      "target": "Loading 寶玉"
+    },
+    {
+      "index": "11088",
+      "target": "Reload 寶玉 Ⅰ"
+    },
+    {
+      "index": "11089",
+      "target": "Reload 寶玉 Ⅱ"
+    },
+    {
+      "index": "11090",
+      "target": "Reload 寶玉 Ⅲ"
+    },
+    {
+      "index": "11091",
+      "target": "Recoil 寶玉 Ⅰ"
+    },
+    {
+      "index": "11092",
+      "target": "Recoil 寶玉 Ⅱ"
+    },
+    {
+      "index": "11093",
+      "target": "Recoil 寶玉 Ⅲ"
+    },
+    {
+      "index": "11094",
+      "target": "Auto-Reload 寶玉"
+    },
+    {
+      "index": "11095",
+      "target": "Ammo Combiner 寶玉"
+    },
+    {
+      "index": "11096",
+      "target": "Precision 寶玉 Ⅰ"
+    },
+    {
+      "index": "11097",
+      "target": "Precision 寶玉 Ⅱ"
+    },
+    {
+      "index": "11098",
+      "target": "Poison Res 寶玉"
+    },
+    {
+      "index": "11099",
+      "target": "Para Res 寶玉"
+    },
+    {
+      "index": "11100",
+      "target": "Sleep Res 寶玉"
+    },
+    {
+      "index": "11101",
+      "target": "Status Res 寶玉 Ⅰ"
+    },
+    {
+      "index": "11102",
+      "target": "Status Res 寶玉 Ⅱ"
+    },
+    {
+      "index": "11103",
+      "target": "Stun Res 寶玉"
+    },
+    {
+      "index": "11104",
+      "target": "Deoderant 寶玉"
+    },
+    {
+      "index": "11105",
+      "target": "Snowball Res 寶玉"
+    },
+    {
+      "index": "11106",
+      "target": "Def Lock 寶玉"
+    },
+    {
+      "index": "11107",
+      "target": "Magnetic Res 寶玉"
+    },
+    {
+      "index": "11108",
+      "target": "Crystal Res 寶玉"
+    },
+    {
+      "index": "11109",
+      "target": "Hearing Prot 寶玉 Ⅰ"
+    },
+    {
+      "index": "11110",
+      "target": "Hearing Prot 寶玉 Ⅱ"
+    },
+    {
+      "index": "11111",
+      "target": "Wnd Pressure 寶玉 Ⅰ"
+    },
+    {
+      "index": "11112",
+      "target": "Wnd Pressure 寶玉 Ⅱ"
+    },
+    {
+      "index": "11113",
+      "target": "Quake Res 寶玉 Ⅰ"
+    },
+    {
+      "index": "11114",
+      "target": "Quake Res 寶玉 Ⅱ"
+    },
+    {
+      "index": "11115",
+      "target": "Evasion 寶玉 Ⅰ"
+    },
+    {
+      "index": "11116",
+      "target": "Evasion 寶玉 Ⅱ"
+    },
+    {
+      "index": "11117",
+      "target": "Heat Res 寶玉 Ⅰ"
+    },
+    {
+      "index": "11118",
+      "target": "Heat Res 寶玉 Ⅱ"
+    },
+    {
+      "index": "11119",
+      "target": "Cold Res 寶玉 Ⅰ"
+    },
+    {
+      "index": "11120",
+      "target": "Cold Res 寶玉 Ⅱ"
+    },
+    {
+      "index": "11121",
+      "target": "Terrain 寶玉"
+    },
+    {
+      "index": "11122",
+      "target": "Prot 寶玉 Ⅰ"
+    },
+    {
+      "index": "11123",
+      "target": "Prot 寶玉 Ⅱ"
+    },
+    {
+      "index": "11124",
+      "target": "Guts 寶玉 Ⅰ"
+    },
+    {
+      "index": "11125",
+      "target": "Guts 寶玉 Ⅱ"
+    },
+    {
+      "index": "11126",
+      "target": "Wide-Area 寶玉 Ⅱ"
+    },
+    {
+      "index": "11127",
+      "target": "Wide-Area 寶玉 Ⅲ"
+    },
+    {
+      "index": "11128",
+      "target": "Whim 寶玉"
+    },
+    {
+      "index": "11129",
+      "target": "Hunter 寶玉"
+    },
+    {
+      "index": "11130",
+      "target": "Combining 寶玉 Ⅰ"
+    },
+    {
+      "index": "11131",
+      "target": "Combining 寶玉 Ⅱ"
+    },
+    {
+      "index": "11132",
+      "target": "Flute Expert 寶玉"
+    },
+    {
+      "index": "11133",
+      "target": "Speed Setup 寶玉 Ⅰ"
+    },
+    {
+      "index": "11134",
+      "target": "Speed Setup 寶玉 Ⅱ"
+    },
+    {
+      "index": "11136",
+      "target": "Psychic 寶玉"
+    },
+    {
+      "index": "11137",
+      "target": "Backpacking 寶玉"
+    },
+    {
+      "index": "11138",
+      "target": "Gather Speed 寶玉 Ⅱ"
+    },
+    {
+      "index": "11139",
+      "target": "Gathering 寶玉 Ⅱ"
+    },
+    {
+      "index": "11140",
+      "target": "Mindfulness 寶玉"
+    },
+    {
+      "index": "11141",
+      "target": "Fate 寶玉 Ⅰ"
+    },
+    {
+      "index": "11142",
+      "target": "Fate 寶玉 Ⅱ"
+    },
+    {
+      "index": "11143",
+      "target": "Pressure 寶玉 Ⅰ"
+    },
+    {
+      "index": "11144",
+      "target": "Pressure 寶玉 Ⅱ"
+    },
+    {
+      "index": "11145",
+      "target": "Capture Expert 寶玉"
+    },
+    {
+      "index": "11146",
+      "target": "Caring 寶玉 Ⅱ"
+    },
+    {
+      "index": "11147",
+      "target": "Caring 寶玉 Ⅲ"
+    },
+    {
+      "index": "11159",
+      "target": "Courage 寶玉"
+    },
+    {
+      "index": "11160",
+      "target": "Glittering 寶玉"
+    },
+    {
+      "index": "11161",
+      "target": "Divine 寶玉"
+    },
+    {
+      "index": "11186",
+      "target": "Varusa Indigo 寶玉"
+    },
+    {
+      "index": "11192",
+      "target": "Varusa Crimson 寶玉"
+    },
+    {
+      "index": "11271",
+      "target": "G.Plesi Brave Fin"
+    },
+    {
+      "index": "11272",
+      "target": "Curved Shrimp Claw"
+    },
+    {
+      "index": "11277",
+      "target": "G.Plesi Bubble 寶玉"
+    },
+    {
+      "index": "11283",
+      "target": "Dragon Crystal 寶玉"
+    },
+    {
+      "index": "11315",
+      "target": "Abyssal Origin 寶玉"
+    },
+    {
+      "index": "11327",
+      "target": "Gurea.Slick Wing"
+    },
+    {
+      "index": "11348",
+      "target": "Harudo Torrent 寶玉"
+    },
+    {
+      "index": "11387",
+      "target": "Cats Eye 寶玉 \"Green\""
+    },
+    {
+      "index": "11398",
+      "target": "Stellate Indigo 寶玉"
+    },
+    {
+      "index": "11664",
+      "target": "Herbal Science 寶玉"
+    },
+    {
+      "index": "11665",
+      "target": "Rage 寶玉 Ⅰ"
+    },
+    {
+      "index": "11666",
+      "target": "Rage 寶玉 Ⅱ"
+    },
+    {
+      "index": "11667",
+      "target": "Vitality 寶玉 Ⅰ"
+    },
+    {
+      "index": "11668",
+      "target": "Vitality 寶玉 Ⅱ"
+    },
+    {
+      "index": "11669",
+      "target": "Vitality 寶玉 Ⅲ"
+    },
+    {
+      "index": "11670",
+      "target": "Reflect 寶玉 Ⅰ"
+    },
+    {
+      "index": "11671",
+      "target": "Reflect 寶玉 Ⅱ"
+    },
+    {
+      "index": "11672",
+      "target": "Reflect 寶玉 Ⅲ"
+    },
+    {
+      "index": "11673",
+      "target": "Stylish 寶玉"
+    },
+    {
+      "index": "11674",
+      "target": "Edgemaster 寶玉 Ⅰ"
+    },
+    {
+      "index": "11675",
+      "target": "Edgemaster 寶玉 Ⅱ"
+    },
+    {
+      "index": "11676",
+      "target": "Edgemaster 寶玉 Ⅲ"
+    },
+    {
+      "index": "11677",
+      "target": "Steady Hand 寶玉"
+    },
+    {
+      "index": "11678",
+      "target": "Gentle Shot 寶玉 Ⅰ"
+    },
+    {
+      "index": "11679",
+      "target": "Gentle Shot 寶玉 Ⅱ"
+    },
+    {
+      "index": "11680",
+      "target": "Gentle Shot 寶玉 Ⅲ"
+    },
+    {
+      "index": "11681",
+      "target": "Mounting 寶玉 Ⅰ"
+    },
+    {
+      "index": "11682",
+      "target": "Mounting 寶玉 Ⅱ"
+    },
+    {
+      "index": "11683",
+      "target": "Mounting 寶玉 Ⅲ"
+    },
+    {
+      "index": "11684",
+      "target": "Critical Shot 寶玉 Ⅰ"
+    },
+    {
+      "index": "11685",
+      "target": "Critical Shot 寶玉 Ⅱ"
+    },
+    {
+      "index": "11686",
+      "target": "Critical Shot 寶玉 Ⅲ"
+    },
+    {
+      "index": "11687",
+      "target": "Bullet Saver 寶玉 Ⅰ"
+    },
+    {
+      "index": "11688",
+      "target": "Bullet Saver 寶玉 Ⅱ"
+    },
+    {
+      "index": "11689",
+      "target": "Three Worlds 寶玉 Ⅱ"
+    },
+    {
+      "index": "11690",
+      "target": "Three Worlds 寶玉 Ⅲ"
+    },
+    {
+      "index": "11691",
+      "target": "Combo Exp 寶玉 Ⅱ"
+    },
+    {
+      "index": "11692",
+      "target": "Combo Exp 寶玉 Ⅲ"
+    },
+    {
+      "index": "11693",
+      "target": "Encourage 寶玉 Ⅰ"
+    },
+    {
+      "index": "11694",
+      "target": "Encourage 寶玉 Ⅱ"
+    },
+    {
+      "index": "11695",
+      "target": "Compensation 寶玉"
+    },
+    {
+      "index": "11696",
+      "target": "Blazing Grace 寶玉 Ⅰ"
+    },
+    {
+      "index": "11697",
+      "target": "Blazing Grace 寶玉 Ⅱ"
+    },
+    {
+      "index": "11735",
+      "target": "Abio. Malice Bone"
+    },
+    {
+      "index": "11980",
+      "target": "Exotic 寶玉"
+    },
+    {
+      "index": "12045",
+      "target": "Grave Claw"
+    },
+    {
+      "index": "12049",
+      "target": "Surging Blk Carapace"
+    },
+    {
+      "index": "12050",
+      "target": "Boiling Red Carapace"
+    },
+    {
+      "index": "12305",
+      "target": "True Power 寶玉"
+    },
+    {
+      "index": "12306",
+      "target": "Divine Power 寶玉"
+    },
+    {
+      "index": "12307",
+      "target": "O. Espi Toxic Spike"
+    },
+    {
+      "index": "12310",
+      "target": "O. Espi Blade Spike"
+    },
+    {
+      "index": "12329",
+      "target": "R. Volga Magma Fang"
+    },
+    {
+      "index": "12330",
+      "target": "R. Volga Slag Shell"
+    },
+    {
+      "index": "12331",
+      "target": "R. Volga Rotary Fin"
+    },
+    {
+      "index": "12371",
+      "target": "Flashfrost Sac"
+    },
+    {
+      "index": "12379",
+      "target": "W.Hypnoc V.Beak"
+    },
+    {
+      "index": "12405",
+      "target": "Brach Scalp"
+    },
+    {
+      "index": "12468",
+      "target": "Ravi Hidden Marrow"
+    },
+    {
+      "index": "12510",
+      "target": "White Beak"
+    },
+    {
+      "index": "12823",
+      "target": "Daming Beak"
+    },
+    {
+      "index": "12826",
+      "target": "Toa Ice Scale"
+    },
+    {
+      "index": "12839",
+      "target": "Toa Strong Tail"
+    },
+    {
+      "index": "12893",
+      "target": "Lone Wolf 寶玉"
+    },
+    {
+      "index": "12894",
+      "target": "Dissolver 寶玉"
+    },
+    {
+      "index": "12895",
+      "target": "Vampirism 寶玉 Ⅰ"
+    },
+    {
+      "index": "12896",
+      "target": "Vampirism 寶玉 Ⅱ"
+    },
+    {
+      "index": "12897",
+      "target": "Evade Distance 寶玉"
+    },
+    {
+      "index": "12898",
+      "target": "Movement Speed 寶玉 Ⅰ"
+    },
+    {
+      "index": "12899",
+      "target": "Movement Speed 寶玉 Ⅱ"
+    },
+    {
+      "index": "12912",
+      "target": "Lg Chameleos 寶玉"
+    },
+    {
+      "index": "13338",
+      "target": "Ruko.Dynamo Horn"
+    },
+    {
+      "index": "13341",
+      "target": "Dark Spectrum 寶玉"
+    },
+    {
+      "index": "13618",
+      "target": "Zena Black 寶玉"
+    },
+    {
+      "index": "13621",
+      "target": "Zena Blood 寶玉"
+    },
+    {
+      "index": "13700",
+      "target": "Huge Scalp"
+    },
+    {
+      "index": "13701",
+      "target": "Mega Scalp"
+    },
+    {
+      "index": "13722",
+      "target": "Deadly Poison Sac"
+    },
+    {
+      "index": "13758",
+      "target": "Defiled Scale"
+    },
+    {
+      "index": "13775",
+      "target": "Los S.Burning Tail"
+    },
+    {
+      "index": "13777",
+      "target": "Los Z Mid Wing"
+    },
+    {
+      "index": "13778",
+      "target": "Los Z High Wing"
+    },
+    {
+      "index": "13924",
+      "target": "Blang Majestic Fang"
+    },
+    {
+      "index": "14045",
+      "target": "Deadly Paralysis Sac"
+    },
+    {
+      "index": "14050",
+      "target": "Vashimu Shred Claw"
+    },
+    {
+      "index": "14052",
+      "target": "Vashimu Z Mid Tail"
+    },
+    {
+      "index": "14053",
+      "target": "Vashimu Z High Tail"
+    },
+    {
+      "index": "14054",
+      "target": "Vashimu Z Top Tail"
+    },
+    {
+      "index": "14055",
+      "target": "Keoaru Charcoal Hide"
+    },
+    {
+      "index": "14252",
+      "target": "Giao Frost Marrow"
+    },
+    {
+      "index": "14256",
+      "target": "Giao Lrg Fierce Horn"
+    },
+    {
+      "index": "14258",
+      "target": "Giao Ultra Ice Sac"
+    },
+    {
+      "index": "14262",
+      "target": "Giao Z Mid Tail"
+    },
+    {
+      "index": "14263",
+      "target": "Giao Z High tail"
+    },
+    {
+      "index": "14264",
+      "target": "Giao Z Top Tail"
+    },
+    {
+      "index": "14271",
+      "target": "Hyuji Strong Tail"
+    },
+    {
+      "index": "14272",
+      "target": "Hyuji Tough Tail"
+    },
+    {
+      "index": "14337",
+      "target": "Exploit Weakness 寶玉"
+    },
+    {
+      "index": "14338",
+      "target": "S. Assault 寶玉"
+    },
+    {
+      "index": "14340",
+      "target": "Crit Conversion 寶玉"
+    },
+    {
+      "index": "14341",
+      "target": "Sword God 寶玉 Ⅰ"
+    },
+    {
+      "index": "14342",
+      "target": "Sword God 寶玉 Ⅱ"
+    },
+    {
+      "index": "14343",
+      "target": "Issen 寶玉 Ⅰ"
+    },
+    {
+      "index": "14344",
+      "target": "Issen 寶玉 Ⅱ"
+    },
+    {
+      "index": "14345",
+      "target": "Issen 寶玉 Ⅲ"
+    },
+    {
+      "index": "14360",
+      "target": "Elze Burning Claw"
+    },
+    {
+      "index": "14363",
+      "target": "Elze Frozen Horn"
+    },
+    {
+      "index": "14375",
+      "target": "Mido Speed Claw"
+    },
+    {
+      "index": "14381",
+      "target": "Mido Stem Marrow"
+    },
+    {
+      "index": "14382",
+      "target": "Mido Whip Tail"
+    },
+    {
+      "index": "14383",
+      "target": "Mido Flash 寶玉"
+    },
+    {
+      "index": "14392",
+      "target": "W. Fata Bright 寶玉"
+    },
+    {
+      "index": "14393",
+      "target": "W. Fatalis Pale Horn"
+    },
+    {
+      "index": "14397",
+      "target": "W. Fata Cracked Wing"
+    },
+    {
+      "index": "14442",
+      "target": "Burnt Frost Scale"
+    },
+    {
+      "index": "14514",
+      "target": "Plesi Viscous Marrow"
+    },
+    {
+      "index": "14526",
+      "target": "Plesi Shrp Tail Spk"
+    },
+    {
+      "index": "14527",
+      "target": "Ruko Magnet Scale"
+    },
+    {
+      "index": "14534",
+      "target": "Ruko Magnetic Tail"
+    },
+    {
+      "index": "14536",
+      "target": "Ruko Extreme Horn"
+    },
+    {
+      "index": "14540",
+      "target": "Ruko Z Mid Wing"
+    },
+    {
+      "index": "14542",
+      "target": "Ruko Z Top Wing"
+    },
+    {
+      "index": "14552",
+      "target": "New Year 寶玉 [Inu]"
+    },
+    {
+      "index": "14715",
+      "target": "Heavenly Dragon 寶玉"
+    },
+    {
+      "index": "14862",
+      "target": "Torid Lovely Marrow"
+    },
+    {
+      "index": "14864",
+      "target": "Torid Shining 寶玉"
+    },
+    {
+      "index": "14866",
+      "target": "Torid Z Mid Wing"
+    },
+    {
+      "index": "14867",
+      "target": "Torid Z High Wing"
+    },
+    {
+      "index": "14868",
+      "target": "Torid Z Top Wing"
+    },
+    {
+      "index": "14871",
+      "target": "Torid Complete Tail"
+    },
+    {
+      "index": "14954",
+      "target": "Anoru Silver 寶玉"
+    },
+    {
+      "index": "14955",
+      "target": "Anoru Disaster Marrow"
+    },
+    {
+      "index": "14961",
+      "target": "Anoru Gruesome Tail"
+    },
+    {
+      "index": "14963",
+      "target": "Anoru Extreme Back Fin"
+    },
+    {
+      "index": "14964",
+      "target": "Anoru Blue Wing"
+    },
+    {
+      "index": "14965",
+      "target": "Anoru Extreme Blue Wing"
+    },
+    {
+      "index": "14971",
+      "target": "Gasura Venom Sac"
+    },
+    {
+      "index": "14976",
+      "target": "Gasura Phosphor Fin"
+    },
+    {
+      "index": "14977",
+      "target": "Gasura Shrp Tail Spk"
+    },
+    {
+      "index": "14978",
+      "target": "Gasura Hvy Tail Spk"
+    },
+    {
+      "index": "15379",
+      "target": "Boga Layered Hide"
+    },
+    {
+      "index": "15380",
+      "target": "Boga Deflecting Scale"
+    },
+    {
+      "index": "15381",
+      "target": "Boga High Density Bone"
+    },
+    {
+      "index": "15384",
+      "target": "Boga Flaming Fog 寶玉"
+    },
+    {
+      "index": "15385",
+      "target": "Boga Cone Tail"
+    },
+    {
+      "index": "15387",
+      "target": "Boga Blunt Fang"
+    },
+    {
+      "index": "15480",
+      "target": "Baru Special Blood Sac"
+    },
+    {
+      "index": "15485",
+      "target": "Baru Vermillion Fin"
+    },
+    {
+      "index": "15792",
+      "target": "New Year 寶玉 [Pig]"
+    },
+    {
+      "index": "15818",
+      "target": "Newyear Snake 寶玉"
+    },
+    {
+      "index": "16423",
+      "target": "Harudo Ivory Scale"
+    },
+    {
+      "index": "16430",
+      "target": "Harudo Tail Core"
+    },
+    {
+      "index": "16432",
+      "target": "Harudo Wing Core"
+    },
+    {
+      "index": "16433",
+      "target": "Harudo Slash Claw"
+    },
+    {
+      "index": "16473",
+      "target": "High Prayer 寶玉"
+    },
+    {
+      "index": "16474",
+      "target": "Song Prayer 寶玉"
+    },
+    {
+      "index": "16475",
+      "target": "Bullet Prayer 寶玉"
+    },
+    {
+      "index": "16476",
+      "target": "Ren Prayer 寶玉"
+    },
+    {
+      "index": "16477",
+      "target": "Dancing Prayer 寶玉"
+    },
+    {
+      "index": "16478",
+      "target": "Kan Prayer 寶玉"
+    },
+    {
+      "index": "16479",
+      "target": "Rhyme Prayer 寶玉"
+    },
+    {
+      "index": "16480",
+      "target": "Praise Prayer 寶玉"
+    },
+    {
+      "index": "16481",
+      "target": "Tomo Prayer 寶玉"
+    },
+    {
+      "index": "16482",
+      "target": "Poem Prayer 寶玉"
+    },
+    {
+      "index": "16483",
+      "target": "Kind Prayer 寶玉"
+    },
+    {
+      "index": "16484",
+      "target": "Life Prayer 寶玉"
+    },
+    {
+      "index": "16485",
+      "target": "Marked Prayer 寶玉"
+    },
+    {
+      "index": "16486",
+      "target": "Bloom Prayer 寶玉"
+    },
+    {
+      "index": "16494",
+      "target": "Taikun Crush Shell"
+    },
+    {
+      "index": "16496",
+      "target": "Taikun White Shell"
+    },
+    {
+      "index": "16497",
+      "target": "Taikun Cyan Shell"
+    },
+    {
+      "index": "16501",
+      "target": "Taikun Blue Spike"
+    },
+    {
+      "index": "16505",
+      "target": "Taikun Z Mid Claw"
+    },
+    {
+      "index": "16506",
+      "target": "Taikun Z High Claw"
+    },
+    {
+      "index": "16507",
+      "target": "Taikun Z Top Claw"
+    }
+  ]
+}
