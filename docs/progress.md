@@ -10,7 +10,7 @@
 ## items-name
 
 - status: in_progress
-- notes: "層次 A 詞庫命中已回寫。層次 B 子類：珠／情報／印記已譯；票券進行中。下一未譯票券 #6018 Parin WhtTea Tkt。整類票券清完再 commit feat: items-name 票券。禁止 tickets-a/b/c 流水切片。"
+- notes: "主真相＝csv/dat-items-name.csv。待審隊列＝l10n/working/issues/queue.md。下一未譯票券 #6018。禁止重翻已有 target。"
 
 ### files
 
@@ -20,12 +20,13 @@
 
 - path: l10n/working/csv/dat-items-name.csv
   status: in_progress
-  notes: "票券子類未完；working 產物 batch-items-tickets.json 已 delta 回寫未另 commit"
+  notes: "票券未完；active batch 已核對 158/158 在 CSV"
 
 ### subclasses（語意，非流水號）
 
-- beads / info / seals: translated（待獨立 QA）
-- tickets: in_progress
+- beads / info: translated → issues/items-name__beads-info.md（awaiting_qa）
+- seals / jebia: translated → issues/items-name__seals-jebia.md（awaiting_qa）
+- tickets: in_progress → issues/items-name__tickets.md；batches/active/batch-items-tickets.json
 
 ---
 
