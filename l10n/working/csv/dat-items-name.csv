@@ -576,68 +576,68 @@ index,source,target
 574,Fire Dragon Scale+,炎龍的上鱗
 575,Lunastra Shell,炎妃龍的甲殼
 576,Lunastra Mane,炎妃龍的鬣毛
-577,Lunastra Webbing,Lunastra Webbing
-578,Lunastra Tail,Lunastra Tail
-579,Lunastra Horn,Lunastra Horn
+577,Lunastra Webbing,炎妃龍的翼膜
+578,Lunastra Tail,炎妃龍的尾巴
+579,Lunastra Horn,炎妃龍的角
 580,(dummy),(dummy)
-581,Teostra Shell,Teostra Shell
-582,Teostra Carapace,Teostra Carapace
-583,Teostra Mane,Teostra Mane
-584,Teostra Webbing,Teostra Webbing
-585,Teostra Tail,Teostra Tail
-586,Teostra Horn,Teostra Horn
-587,Teostra Horn+,Teostra Horn+
-588,Yama Fin,Yama Fin
-589,Yama Hide,Yama Hide
-590,Yama Fluid,Yama Fluid
-591,Dragonwood,Dragonwood
-592,Dragonmoss,Dragonmoss
+581,Teostra Shell,炎王龍的甲殼
+582,Teostra Carapace,炎王龍的堅殼
+583,Teostra Mane,炎王龍的鬣毛
+584,Teostra Webbing,炎王龍的翼膜
+585,Teostra Tail,炎王龍的尾巴
+586,Teostra Horn,炎王龍的角
+587,Teostra Horn+,炎王龍的尖角
+588,Yama Fin,山神龍的鰭
+589,Yama Hide,山神龍的皮
+590,Yama Fluid,山神龍的體液
+591,Dragonwood,龍木
+592,Dragonmoss,龍苔
 593,(dummy),(dummy)
-594,Remobra Skin,Remobra Skin
-595,Remobra Skin+,Remobra Skin+
-596,Striped Skin,Striped Skin
-597,Remobra Skull,Remobra Skull
-598,Garuga Scale,Garuga Scale
-599,Garuga Shell,Garuga Shell
-600,Garuga Ear,Garuga Ear
-601,Sharpened Beak,Sharpened Beak
-602,Garuga Wing,Garuga Wing
-603,Garuga Tail,Garuga Tail
-604,Garuga Mane,Garuga Mane
-605,Lost Umbrella,Lost Umbrella
-606,Chief's Sword F,Chief's Sword F
-607,Stone Fist,Stone Fist
-608,Broken Dragonator,Broken Dragonator
-609,Titan Chain F,Titan Chain F
-610,Extra Pay,Extra Pay
-611,Ruststone,Ruststone
-612,Flat Ruststone,Flat Ruststone
-613,Large Ruststone,Large Ruststone
-614,Small Ruststone,Small Ruststone
-615,Ruststone Rod,Ruststone Rod
-616,Ancient Stone,Ancient Stone
-617,AncientFlatstone,AncientFlatstone
-618,Lg Ancient Stone,Lg Ancient Stone
-619,Sm Ancient Stone,Sm Ancient Stone
-620,Ancient StoneRod,Ancient StoneRod
-621,Storage Guide,Storage Guide
-622,Storage Guide+,Storage Guide+
-623,House Expansion 1,House Expansion 1
-624,House Expansion 2,House Expansion 2
-625,Lynians Info,Lynians Info
-626,Shakalaka Info,Shakalaka Info
-627,Neopteron Info,Neopteron Info
-628,Grt.Thndrbug Info,Grt.Thndrbug Info
-629,Herbivore Info,Herbivore Info
-630,Bird Wyvern Info,Bird Wyvern Info
-631,Yian Garuga Info,Yian Garuga Info
-632,F.Wyvern Info 1,F.Wyvern Info 1
-633,F.Wyvern Info 2,F.Wyvern Info 2
-634,Rathalos Info,Rathalos Info
-635,Monoblos Info,Monoblos Info
-636,Pisc.Wyvern Info,Pisc.Wyvern Info
-637,Carapaceon Info 1,Carapaceon Info 1
-638,Carapaceon Info 2,Carapaceon Info 2
+594,Remobra Skin,翼蛇龍的皮
+595,Remobra Skin+,翼蛇龍的皮＋
+596,Striped Skin,縞模様的皮
+597,Remobra Skull,翼蛇龍的頭
+598,Garuga Scale,黑狼鳥的鱗
+599,Garuga Shell,黑狼鳥的甲殼
+600,Garuga Ear,黑狼鳥的耳
+601,Sharpened Beak,鋭利的喙
+602,Garuga Wing,黑狼鳥的翼
+603,Garuga Tail,黑狼鳥的尾巴
+604,Garuga Mane,黑狼鳥的鬣毛
+605,Lost Umbrella,遺失的傘
+606,Chief's Sword F,村長的劍F
+607,Stone Fist,石拳
+608,Broken Dragonator,壞掉的龍杭砲
+609,Titan Chain F,泰坦的鎖鏈F
+610,Extra Pay,額外報酬
+611,Ruststone,生錆的塊
+612,Flat Ruststone,生錆的板状塊
+613,Large Ruststone,生錆的大塊
+614,Small Ruststone,生錆的小塊
+615,Ruststone Rod,生錆的棒状塊
+616,Ancient Stone,古代的塊
+617,AncientFlatstone,古代的板状塊
+618,Lg Ancient Stone,古代的大塊
+619,Sm Ancient Stone,古代的小塊
+620,Ancient StoneRod,古代的棒状塊
+621,Storage Guide,收納達人的書
+622,Storage Guide+,收納達人的書＋
+623,House Expansion 1,旅店擴建計畫1
+624,House Expansion 2,旅店擴建計畫2
+625,Lynians Info,獸人族的情報
+626,Shakalaka Info,奇面族的情報
+627,Neopteron Info,甲蟲種的情報
+628,Grt.Thndrbug Info,大雷光蟲的情報
+629,Herbivore Info,草食種的情報
+630,Bird Wyvern Info,鳥龍種的情報
+631,Yian Garuga Info,黑狼鳥的情報
+632,F.Wyvern Info 1,飛龍種的情報1
+633,F.Wyvern Info 2,飛龍種的情報2
+634,Rathalos Info,雄火龍的情報
+635,Monoblos Info,一角龍的情報
+636,Pisc.Wyvern Info,魚龍種的情報
+637,Carapaceon Info 1,甲殼種的情報1
+638,Carapaceon Info 2,甲殼種的情報2
 639,Shen Gaoren Info,Shen Gaoren Info
 640,Fanged Beast Info,Fanged Beast Info
 641,Blangonga Info,Blangonga Info

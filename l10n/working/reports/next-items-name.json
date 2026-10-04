@@ -1,7 +1,7 @@
 {
   "section_id": "items-name",
   "xpath": "dat/items/name",
-  "pending_total_estimate": 16205,
+  "pending_total_estimate": 16143,
   "batch": [
     {
       "index": "31",
@@ -56,272 +56,272 @@
       "source": "(dummy)"
     },
     {
-      "index": "510",
-      "source": "Blangonga Pelt"
-    },
-    {
-      "index": "511",
-      "source": "Blangonga Pelt+"
-    },
-    {
-      "index": "512",
-      "source": "Blangonga Whisker"
-    },
-    {
-      "index": "513",
-      "source": "Blangonga Tail"
-    },
-    {
-      "index": "514",
-      "source": "Congalala Pelt"
-    },
-    {
-      "index": "515",
-      "source": "Vibrant Pelt"
-    },
-    {
-      "index": "516",
-      "source": "Congalala Claw"
-    },
-    {
-      "index": "517",
-      "source": "Congalala Fang"
-    },
-    {
-      "index": "518",
-      "source": "Congalala Pelt+"
-    },
-    {
-      "index": "519",
-      "source": "Congalala Claw+"
-    },
-    {
       "index": "520",
       "source": "(dummy)"
-    },
-    {
-      "index": "521",
-      "source": "Rajang Horn"
-    },
-    {
-      "index": "522",
-      "source": "Rajang Fang"
-    },
-    {
-      "index": "523",
-      "source": "Black Rajang Pelt"
-    },
-    {
-      "index": "524",
-      "source": "Rajang Claw"
-    },
-    {
-      "index": "525",
-      "source": "Rajang Tail"
-    },
-    {
-      "index": "526",
-      "source": "Gold Rajang Pelt"
-    },
-    {
-      "index": "527",
-      "source": "Carapaceon Brains"
-    },
-    {
-      "index": "528",
-      "source": "Wyvern Scalp"
-    },
-    {
-      "index": "529",
-      "source": "Sm Hermitaur Shl"
-    },
-    {
-      "index": "530",
-      "source": "Hermitaur Shell"
-    },
-    {
-      "index": "531",
-      "source": "Hermitaur Claw"
-    },
-    {
-      "index": "532",
-      "source": "Hermitaur Carpace"
-    },
-    {
-      "index": "533",
-      "source": "Hermitaur Claw+"
     },
     {
       "index": "534",
       "source": "(dummy)"
     },
     {
-      "index": "535",
-      "source": "Sm Ceanataur Shl"
-    },
-    {
-      "index": "536",
-      "source": "Ceanataur Shell"
-    },
-    {
-      "index": "537",
-      "source": "Ceanataur Carpace"
-    },
-    {
-      "index": "538",
-      "source": "Ceanataur Leg"
-    },
-    {
-      "index": "539",
-      "source": "Ceanataur Pincer"
-    },
-    {
-      "index": "540",
-      "source": "Ceanataur Claw"
-    },
-    {
-      "index": "541",
-      "source": "Ceanataur Claw+"
-    },
-    {
       "index": "542",
       "source": "(dummy)"
-    },
-    {
-      "index": "543",
-      "source": "Gaoren Shell"
-    },
-    {
-      "index": "544",
-      "source": "Gaoren Spine"
-    },
-    {
-      "index": "545",
-      "source": "Gaoren Pincer"
-    },
-    {
-      "index": "546",
-      "source": "Gaoren Claw"
     },
     {
       "index": "547",
       "source": "(dummy)"
     },
     {
-      "index": "548",
-      "source": "Daora Shell"
-    },
-    {
-      "index": "549",
-      "source": "Daora Carapace"
-    },
-    {
-      "index": "550",
-      "source": "Daora Scale"
-    },
-    {
-      "index": "551",
-      "source": "Daora Webbing"
-    },
-    {
-      "index": "552",
-      "source": "Daora Horn"
-    },
-    {
-      "index": "553",
-      "source": "Daora Tail"
-    },
-    {
-      "index": "554",
-      "source": "Daora Claw"
-    },
-    {
-      "index": "555",
-      "source": "Daora Claw+"
-    },
-    {
-      "index": "556",
-      "source": "Daora Jewel"
-    },
-    {
-      "index": "557",
-      "source": "R.Daora Shell"
-    },
-    {
-      "index": "558",
-      "source": "R.Daora Webbing"
-    },
-    {
-      "index": "559",
-      "source": "R.Daora Webbing+"
-    },
-    {
-      "index": "560",
-      "source": "Chameleos Hide"
-    },
-    {
-      "index": "561",
-      "source": "Chameleos Hide+"
-    },
-    {
-      "index": "562",
-      "source": "Chameleos Horn"
-    },
-    {
-      "index": "563",
-      "source": "Chameleos Horn+"
-    },
-    {
-      "index": "564",
-      "source": "Chameleos Claw"
-    },
-    {
-      "index": "565",
-      "source": "Chameleos Webbing"
-    },
-    {
-      "index": "566",
-      "source": "Chameleos Tail"
-    },
-    {
-      "index": "567",
-      "source": "Chameleos Jewel"
-    },
-    {
       "index": "568",
       "source": "(dummy)"
     },
     {
-      "index": "569",
-      "source": "Fire Dragon Scale"
+      "index": "577",
+      "source": "Lunastra Webbing"
     },
     {
-      "index": "570",
-      "source": "Fire Dragon Claw"
+      "index": "578",
+      "source": "Lunastra Tail"
     },
     {
-      "index": "571",
-      "source": "Fire Dragon Powder"
+      "index": "579",
+      "source": "Lunastra Horn"
     },
     {
-      "index": "572",
-      "source": "Fire Dragon Jewel"
+      "index": "580",
+      "source": "(dummy)"
     },
     {
-      "index": "573",
-      "source": "Elder Dragon Blood"
+      "index": "581",
+      "source": "Teostra Shell"
     },
     {
-      "index": "574",
-      "source": "Fire Dragon Scale+"
+      "index": "582",
+      "source": "Teostra Carapace"
     },
     {
-      "index": "575",
-      "source": "Lunastra Shell"
+      "index": "583",
+      "source": "Teostra Mane"
     },
     {
-      "index": "576",
-      "source": "Lunastra Mane"
+      "index": "584",
+      "source": "Teostra Webbing"
+    },
+    {
+      "index": "585",
+      "source": "Teostra Tail"
+    },
+    {
+      "index": "586",
+      "source": "Teostra Horn"
+    },
+    {
+      "index": "587",
+      "source": "Teostra Horn+"
+    },
+    {
+      "index": "588",
+      "source": "Yama Fin"
+    },
+    {
+      "index": "589",
+      "source": "Yama Hide"
+    },
+    {
+      "index": "590",
+      "source": "Yama Fluid"
+    },
+    {
+      "index": "591",
+      "source": "Dragonwood"
+    },
+    {
+      "index": "592",
+      "source": "Dragonmoss"
+    },
+    {
+      "index": "593",
+      "source": "(dummy)"
+    },
+    {
+      "index": "594",
+      "source": "Remobra Skin"
+    },
+    {
+      "index": "595",
+      "source": "Remobra Skin+"
+    },
+    {
+      "index": "596",
+      "source": "Striped Skin"
+    },
+    {
+      "index": "597",
+      "source": "Remobra Skull"
+    },
+    {
+      "index": "598",
+      "source": "Garuga Scale"
+    },
+    {
+      "index": "599",
+      "source": "Garuga Shell"
+    },
+    {
+      "index": "600",
+      "source": "Garuga Ear"
+    },
+    {
+      "index": "601",
+      "source": "Sharpened Beak"
+    },
+    {
+      "index": "602",
+      "source": "Garuga Wing"
+    },
+    {
+      "index": "603",
+      "source": "Garuga Tail"
+    },
+    {
+      "index": "604",
+      "source": "Garuga Mane"
+    },
+    {
+      "index": "605",
+      "source": "Lost Umbrella"
+    },
+    {
+      "index": "606",
+      "source": "Chief's Sword F"
+    },
+    {
+      "index": "607",
+      "source": "Stone Fist"
+    },
+    {
+      "index": "608",
+      "source": "Broken Dragonator"
+    },
+    {
+      "index": "609",
+      "source": "Titan Chain F"
+    },
+    {
+      "index": "610",
+      "source": "Extra Pay"
+    },
+    {
+      "index": "611",
+      "source": "Ruststone"
+    },
+    {
+      "index": "612",
+      "source": "Flat Ruststone"
+    },
+    {
+      "index": "613",
+      "source": "Large Ruststone"
+    },
+    {
+      "index": "614",
+      "source": "Small Ruststone"
+    },
+    {
+      "index": "615",
+      "source": "Ruststone Rod"
+    },
+    {
+      "index": "616",
+      "source": "Ancient Stone"
+    },
+    {
+      "index": "617",
+      "source": "AncientFlatstone"
+    },
+    {
+      "index": "618",
+      "source": "Lg Ancient Stone"
+    },
+    {
+      "index": "619",
+      "source": "Sm Ancient Stone"
+    },
+    {
+      "index": "620",
+      "source": "Ancient StoneRod"
+    },
+    {
+      "index": "621",
+      "source": "Storage Guide"
+    },
+    {
+      "index": "622",
+      "source": "Storage Guide+"
+    },
+    {
+      "index": "623",
+      "source": "House Expansion 1"
+    },
+    {
+      "index": "624",
+      "source": "House Expansion 2"
+    },
+    {
+      "index": "625",
+      "source": "Lynians Info"
+    },
+    {
+      "index": "626",
+      "source": "Shakalaka Info"
+    },
+    {
+      "index": "627",
+      "source": "Neopteron Info"
+    },
+    {
+      "index": "628",
+      "source": "Grt.Thndrbug Info"
+    },
+    {
+      "index": "629",
+      "source": "Herbivore Info"
+    },
+    {
+      "index": "630",
+      "source": "Bird Wyvern Info"
+    },
+    {
+      "index": "631",
+      "source": "Yian Garuga Info"
+    },
+    {
+      "index": "632",
+      "source": "F.Wyvern Info 1"
+    },
+    {
+      "index": "633",
+      "source": "F.Wyvern Info 2"
+    },
+    {
+      "index": "634",
+      "source": "Rathalos Info"
+    },
+    {
+      "index": "635",
+      "source": "Monoblos Info"
+    },
+    {
+      "index": "636",
+      "source": "Pisc.Wyvern Info"
+    },
+    {
+      "index": "637",
+      "source": "Carapaceon Info 1"
+    },
+    {
+      "index": "638",
+      "source": "Carapaceon Info 2"
     }
   ]
 }
