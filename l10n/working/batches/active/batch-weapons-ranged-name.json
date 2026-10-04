@@ -1,0 +1,10918 @@
+{
+  "section_id": "weapons-ranged-name",
+  "label": "layer-b-delta",
+  "translations": [
+    {
+      "index": "0",
+      "target": "未裝備"
+    },
+    {
+      "index": "1",
+      "target": "十字弩"
+    },
+    {
+      "index": "2",
+      "target": "十字弩＋"
+    },
+    {
+      "index": "3",
+      "target": "黄蜂銃"
+    },
+    {
+      "index": "4",
+      "target": "火女武神"
+    },
+    {
+      "index": "5",
+      "target": "火斯巴達"
+    },
+    {
+      "index": "6",
+      "target": "散彈槍蒼"
+    },
+    {
+      "index": "7",
+      "target": "散彈槍緑"
+    },
+    {
+      "index": "8",
+      "target": "散彈槍的血"
+    },
+    {
+      "index": "9",
+      "target": "大渦"
+    },
+    {
+      "index": "10",
+      "target": "砂漠嵐"
+    },
+    {
+      "index": "11",
+      "target": "榴彈發射器"
+    },
+    {
+      "index": "12",
+      "target": "巨神發射器"
+    },
+    {
+      "index": "13",
+      "target": "弩機"
+    },
+    {
+      "index": "14",
+      "target": "弩機＋"
+    },
+    {
+      "index": "15",
+      "target": "戰車法師"
+    },
+    {
+      "index": "16",
+      "target": "速射"
+    },
+    {
+      "index": "17",
+      "target": "快射"
+    },
+    {
+      "index": "18",
+      "target": "流星加農砲"
+    },
+    {
+      "index": "19",
+      "target": "青庫庫加農砲"
+    },
+    {
+      "index": "20",
+      "target": "渡鴉傳家"
+    },
+    {
+      "index": "21",
+      "target": "龍老山加農砲"
+    },
+    {
+      "index": "22",
+      "target": "注射銃"
+    },
+    {
+      "index": "23",
+      "target": "拉斯針"
+    },
+    {
+      "index": "24",
+      "target": "魔封"
+    },
+    {
+      "index": "25",
+      "target": "散彈槍白"
+    },
+    {
+      "index": "26",
+      "target": "鎧龍咆哮"
+    },
+    {
+      "index": "27",
+      "target": "巨大庫庫加農砲"
+    },
+    {
+      "index": "28",
+      "target": "S十字弩"
+    },
+    {
+      "index": "29",
+      "target": "女武神心"
+    },
+    {
+      "index": "30",
+      "target": "女武神炎"
+    },
+    {
+      "index": "31",
+      "target": "女武神心＋"
+    },
+    {
+      "index": "32",
+      "target": "金女武神"
+    },
+    {
+      "index": "33",
+      "target": "斯巴達魂"
+    },
+    {
+      "index": "34",
+      "target": "斯巴達炎"
+    },
+    {
+      "index": "35",
+      "target": "斯巴達魂＋"
+    },
+    {
+      "index": "36",
+      "target": "銀斯巴達"
+    },
+    {
+      "index": "37",
+      "target": "深紅青"
+    },
+    {
+      "index": "38",
+      "target": "蒼桜"
+    },
+    {
+      "index": "39",
+      "target": "烏爾阿恩歐斯榴彈"
+    },
+    {
+      "index": "40",
+      "target": "至高蒼桜"
+    },
+    {
+      "index": "41",
+      "target": "普爾歐夫烏斯伊歐"
+    },
+    {
+      "index": "42",
+      "target": "水刃斯哈歐瓦艾爾"
+    },
+    {
+      "index": "43",
+      "target": "緑刃斯哈歐瓦艾爾"
+    },
+    {
+      "index": "44",
+      "target": "深紅刃斯哈歐瓦艾爾"
+    },
+    {
+      "index": "45",
+      "target": "弾嵐"
+    },
+    {
+      "index": "46",
+      "target": "大渦＋"
+    },
+    {
+      "index": "47",
+      "target": "斯阿恩德夫阿勒勒"
+    },
+    {
+      "index": "48",
+      "target": "砂漠暴風"
+    },
+    {
+      "index": "49",
+      "target": "斯阿恩德夫阿勒勒＋"
+    },
+    {
+      "index": "50",
+      "target": "榴彈發射器＋"
+    },
+    {
+      "index": "51",
+      "target": "巨神發射器＋"
+    },
+    {
+      "index": "52",
+      "target": "克哈爾歐恩歐斯榴彈"
+    },
+    {
+      "index": "53",
+      "target": "怪鳥尾虎皮"
+    },
+    {
+      "index": "54",
+      "target": "怪鳥激昂"
+    },
+    {
+      "index": "55",
+      "target": "黒腰帶弩"
+    },
+    {
+      "index": "56",
+      "target": "達人弩"
+    },
+    {
+      "index": "57",
+      "target": "伊斯勒阿恩德格歐德斯"
+    },
+    {
+      "index": "58",
+      "target": "闇陽傘"
+    },
+    {
+      "index": "59",
+      "target": "阿恩格艾勒陽傘"
+    },
+    {
+      "index": "60",
+      "target": "桜陽傘"
+    },
+    {
+      "index": "61",
+      "target": "S弩機"
+    },
+    {
+      "index": "62",
+      "target": "戰車法師＋"
+    },
+    {
+      "index": "63",
+      "target": "布阿斯特伊歐恩姆"
+    },
+    {
+      "index": "64",
+      "target": "快射＋"
+    },
+    {
+      "index": "65",
+      "target": "德烏艾勒克阿斯特"
+    },
+    {
+      "index": "66",
+      "target": "德烏艾勒克阿斯特＋"
+    },
+    {
+      "index": "67",
+      "target": "姆歐恩歐德艾維伊"
+    },
+    {
+      "index": "68",
+      "target": "姆歐恩歐德艾維伊＋"
+    },
+    {
+      "index": "69",
+      "target": "流星破壞"
+    },
+    {
+      "index": "70",
+      "target": "維歐爾加農砲"
+    },
+    {
+      "index": "71",
+      "target": "命運S手"
+    },
+    {
+      "index": "72",
+      "target": "巨大庫庫加農砲"
+    },
+    {
+      "index": "73",
+      "target": "至高老山加農砲"
+    },
+    {
+      "index": "74",
+      "target": "帝老山加農砲"
+    },
+    {
+      "index": "75",
+      "target": "哈歐恩艾伊克歐姆"
+    },
+    {
+      "index": "76",
+      "target": "鎧龍哈歐瓦勒"
+    },
+    {
+      "index": "77",
+      "target": "黄金勒伊歐恩"
+    },
+    {
+      "index": "78",
+      "target": "獵人弓Ⅲ"
+    },
+    {
+      "index": "79",
+      "target": "弓野Ⅲ"
+    },
+    {
+      "index": "80",
+      "target": "弓力量野Ⅱ"
+    },
+    {
+      "index": "81",
+      "target": "女王爆裂Ⅱ"
+    },
+    {
+      "index": "82",
+      "target": "弓心弾Ⅱ"
+    },
+    {
+      "index": "83",
+      "target": "弓日珥Ⅱ"
+    },
+    {
+      "index": "84",
+      "target": "弓音Ⅲ"
+    },
+    {
+      "index": "85",
+      "target": "角龍角弓Ⅱ"
+    },
+    {
+      "index": "86",
+      "target": "龍弓山崩"
+    },
+    {
+      "index": "87",
+      "target": "克歐烏爾阿格艾歐希望Ⅱ"
+    },
+    {
+      "index": "88",
+      "target": "龍弓斯烏恩夫勒歐瓦艾"
+    },
+    {
+      "index": "89",
+      "target": "弓阿恩恩伊哈伊勒阿I"
+    },
+    {
+      "index": "90",
+      "target": "弓征服拉栄光"
+    },
+    {
+      "index": "91",
+      "target": "祝福灯"
+    },
+    {
+      "index": "92",
+      "target": "渡鴉DO"
+    },
+    {
+      "index": "93",
+      "target": "尾弦"
+    },
+    {
+      "index": "94",
+      "target": "金獅子彈幕"
+    },
+    {
+      "index": "95",
+      "target": "火怒"
+    },
+    {
+      "index": "96",
+      "target": "勒歐布斯特艾爾銃"
+    },
+    {
+      "index": "97",
+      "target": "翡翠嵐"
+    },
+    {
+      "index": "98",
+      "target": "崩龍S德艾勒普哈伊恩伊"
+    },
+    {
+      "index": "99",
+      "target": "狼傳家"
+    },
+    {
+      "index": "100",
+      "target": "破壞蟹"
+    },
+    {
+      "index": "101",
+      "target": "火格阿歐爾艾恩S"
+    },
+    {
+      "index": "102",
+      "target": "岩石龍鎧沸"
+    },
+    {
+      "index": "103",
+      "target": "翠暴風"
+    },
+    {
+      "index": "104",
+      "target": "王勒歐布斯特艾爾銃"
+    },
+    {
+      "index": "105",
+      "target": "狼DO"
+    },
+    {
+      "index": "106",
+      "target": "龍弓滿月"
+    },
+    {
+      "index": "107",
+      "target": "獵人力量弓Ⅱ"
+    },
+    {
+      "index": "108",
+      "target": "獵人弓I"
+    },
+    {
+      "index": "109",
+      "target": "獵人弓Ⅱ"
+    },
+    {
+      "index": "110",
+      "target": "弓野I"
+    },
+    {
+      "index": "111",
+      "target": "弓野Ⅱ"
+    },
+    {
+      "index": "112",
+      "target": "弓力量野I"
+    },
+    {
+      "index": "113",
+      "target": "女王爆裂I"
+    },
+    {
+      "index": "114",
+      "target": "弓心弾I"
+    },
+    {
+      "index": "115",
+      "target": "弓日珥I"
+    },
+    {
+      "index": "116",
+      "target": "弓音I"
+    },
+    {
+      "index": "117",
+      "target": "弓音Ⅱ"
+    },
+    {
+      "index": "118",
+      "target": "角龍角弓I"
+    },
+    {
+      "index": "119",
+      "target": "龍弓烏普伊西恩"
+    },
+    {
+      "index": "120",
+      "target": "克歐烏爾阿格艾歐希望I"
+    },
+    {
+      "index": "121",
+      "target": "獵人力量弓I"
+    },
+    {
+      "index": "122",
+      "target": "龍的頭"
+    },
+    {
+      "index": "123",
+      "target": "姆阿格伊克灯"
+    },
+    {
+      "index": "124",
+      "target": "崩龍真"
+    },
+    {
+      "index": "125",
+      "target": "地龍鎧沸"
+    },
+    {
+      "index": "126",
+      "target": "重破壞蟹"
+    },
+    {
+      "index": "127",
+      "target": "崩龍宏偉"
+    },
+    {
+      "index": "128",
+      "target": "弓翼I"
+    },
+    {
+      "index": "129",
+      "target": "弓翼Ⅱ"
+    },
+    {
+      "index": "130",
+      "target": "弓翼Ⅲ"
+    },
+    {
+      "index": "133",
+      "target": "弓伊瑟希德"
+    },
+    {
+      "index": "134",
+      "target": "怪鳥弓Ⅰ"
+    },
+    {
+      "index": "135",
+      "target": "怪鳥弓Ⅱ"
+    },
+    {
+      "index": "136",
+      "target": "怪鳥弓Ⅲ"
+    },
+    {
+      "index": "137",
+      "target": "怪鳥青弓"
+    },
+    {
+      "index": "138",
+      "target": "哈艾阿爾特勒艾斯包帯"
+    },
+    {
+      "index": "139",
+      "target": "力量砂"
+    },
+    {
+      "index": "140",
+      "target": "水龍普爾艾斯斯烏爾伊"
+    },
+    {
+      "index": "141",
+      "target": "斯特伊恩格艾爾"
+    },
+    {
+      "index": "142",
+      "target": "伊克艾特哈爾歐瓦"
+    },
+    {
+      "index": "143",
+      "target": "弓盤歌聲"
+    },
+    {
+      "index": "144",
+      "target": "奇怪龍弓"
+    },
+    {
+      "index": "145",
+      "target": "歐歐巴薩米Ⅰ"
+    },
+    {
+      "index": "146",
+      "target": "歐歐巴薩米Ⅱ"
+    },
+    {
+      "index": "147",
+      "target": "歐歐巴薩米Ⅲ"
+    },
+    {
+      "index": "148",
+      "target": "歐歐巴薩米Ⅳ"
+    },
+    {
+      "index": "150",
+      "target": "艾路猫爾阿格德歐勒勒"
+    },
+    {
+      "index": "151",
+      "target": "梅拉路爾阿格德歐勒勒"
+    },
+    {
+      "index": "152",
+      "target": "艾路猫哈艾勒勒德歐勒勒"
+    },
+    {
+      "index": "153",
+      "target": "梅拉路哈艾勒勒德歐勒勒"
+    },
+    {
+      "index": "154",
+      "target": "尾克阿特阿普烏勒特"
+    },
+    {
+      "index": "155",
+      "target": "桃陽傘"
+    },
+    {
+      "index": "156",
+      "target": "勒阿德伊布烏格加農砲"
+    },
+    {
+      "index": "157",
+      "target": "炎妃龍S青加農砲"
+    },
+    {
+      "index": "158",
+      "target": "炎王龍S阿爾特伊勒勒艾爾"
+    },
+    {
+      "index": "159",
+      "target": "七斯特阿爾斯"
+    },
+    {
+      "index": "160",
+      "target": "獵人弓Ⅳ"
+    },
+    {
+      "index": "161",
+      "target": "弓野Ⅳ"
+    },
+    {
+      "index": "162",
+      "target": "獵人力量弓Ⅲ"
+    },
+    {
+      "index": "163",
+      "target": "女王爆裂Ⅲ"
+    },
+    {
+      "index": "164",
+      "target": "弓日珥Ⅲ"
+    },
+    {
+      "index": "165",
+      "target": "炎王龍S夫勒阿姆艾斯"
+    },
+    {
+      "index": "166",
+      "target": "轟龍特阿恩克"
+    },
+    {
+      "index": "167",
+      "target": "轟龍瓦阿爾格烏恩"
+    },
+    {
+      "index": "168",
+      "target": "轟龍哈歐瓦勒"
+    },
+    {
+      "index": "170",
+      "target": "轟龍的頭骨"
+    },
+    {
+      "index": "171",
+      "target": "虎矢Ⅰ"
+    },
+    {
+      "index": "172",
+      "target": "虎矢Ⅱ"
+    },
+    {
+      "index": "173",
+      "target": "弓風神"
+    },
+    {
+      "index": "174",
+      "target": "弓音Ⅳ"
+    },
+    {
+      "index": "175",
+      "target": "達人弩＋"
+    },
+    {
+      "index": "176",
+      "target": "弓比納桃"
+    },
+    {
+      "index": "177",
+      "target": "鋼渡鴉Ⅰ"
+    },
+    {
+      "index": "178",
+      "target": "里艾恩瑪修"
+    },
+    {
+      "index": "179",
+      "target": "鋼渡鴉Ⅱ"
+    },
+    {
+      "index": "180",
+      "target": "鋼渡鴉Ⅲ"
+    },
+    {
+      "index": "181",
+      "target": "天老山加農砲"
+    },
+    {
+      "index": "182",
+      "target": "地老山加農砲"
+    },
+    {
+      "index": "183",
+      "target": "弓音Ⅴ"
+    },
+    {
+      "index": "184",
+      "target": "姆阿克克艾爾艾勒Ｖ"
+    },
+    {
+      "index": "185",
+      "target": "弓力量野Ⅲ"
+    },
+    {
+      "index": "186",
+      "target": "白克爾阿德勒艾"
+    },
+    {
+      "index": "187",
+      "target": "白克爾艾斯克艾恩特"
+    },
+    {
+      "index": "188",
+      "target": "薔薇克烏格艾勒"
+    },
+    {
+      "index": "189",
+      "target": "薔薇瓦阿夫夫艾"
+    },
+    {
+      "index": "190",
+      "target": "薔薇第一"
+    },
+    {
+      "index": "191",
+      "target": "薔薇格艾瓦艾哈爾"
+    },
+    {
+      "index": "192",
+      "target": "薔薇杰阿艾格艾爾"
+    },
+    {
+      "index": "193",
+      "target": "薔薇斯伊艾格艾恩"
+    },
+    {
+      "index": "194",
+      "target": "弓薔薇"
+    },
+    {
+      "index": "195",
+      "target": "薔薇拉凱特"
+    },
+    {
+      "index": "196",
+      "target": "薔薇斯伊克哈艾勒"
+    },
+    {
+      "index": "197",
+      "target": "熔岩爆裂"
+    },
+    {
+      "index": "198",
+      "target": "鐵火銃"
+    },
+    {
+      "index": "199",
+      "target": "弓激流烏米波祖"
+    },
+    {
+      "index": "200",
+      "target": "弓流姆艾爾姆阿伊德"
+    },
+    {
+      "index": "201",
+      "target": "奇怪龍弓Ⅱ"
+    },
+    {
+      "index": "202",
+      "target": "奇怪龍弓Ⅲ"
+    },
+    {
+      "index": "203",
+      "target": "姆阿恩特勒艾龍鎧沸SP"
+    },
+    {
+      "index": "204",
+      "target": "月破壞SP"
+    },
+    {
+      "index": "205",
+      "target": "布烏斯特艾爾克阿SP"
+    },
+    {
+      "index": "206",
+      "target": "十字弩魔物銃SP"
+    },
+    {
+      "index": "207",
+      "target": "蝸牛ＳＰ"
+    },
+    {
+      "index": "208",
+      "target": "哈阿烏恩特艾德十字弩SP"
+    },
+    {
+      "index": "209",
+      "target": "克艾爾恩艾勒弩SP"
+    },
+    {
+      "index": "210",
+      "target": "緑陽傘SP"
+    },
+    {
+      "index": "211",
+      "target": "克阿伊德艾恩弩"
+    },
+    {
+      "index": "212",
+      "target": "怪鳥青硬幣弓"
+    },
+    {
+      "index": "213",
+      "target": "獵人力量弓Ⅳ"
+    },
+    {
+      "index": "214",
+      "target": "龍弓日蝕"
+    },
+    {
+      "index": "215",
+      "target": "水龍斯烏布伊勒勒歐"
+    },
+    {
+      "index": "216",
+      "target": "炎妃龍S青姆伊斯斯伊勒艾"
+    },
+    {
+      "index": "217",
+      "target": "布阿斯特歐恩爆裂"
+    },
+    {
+      "index": "218",
+      "target": "克阿恩特哈阿爾歐里弗艾"
+    },
+    {
+      "index": "219",
+      "target": "姆阿格伊克阿勒灯"
+    },
+    {
+      "index": "220",
+      "target": "金獅子加農砲"
+    },
+    {
+      "index": "221",
+      "target": "格阿斯特爾阿普哈SP"
+    },
+    {
+      "index": "222",
+      "target": "粉針ＳＰ"
+    },
+    {
+      "index": "223",
+      "target": "龍阿爾姆歐爾艾德銃SP"
+    },
+    {
+      "index": "224",
+      "target": "勒歐布斯特艾爾銃SP"
+    },
+    {
+      "index": "225",
+      "target": "加農砲弩SP"
+    },
+    {
+      "index": "226",
+      "target": "克伊恩恩艾克歐杰SP"
+    },
+    {
+      "index": "227",
+      "target": "弓爾阿普伊德"
+    },
+    {
+      "index": "228",
+      "target": "鋼渡鴉Ⅳ"
+    },
+    {
+      "index": "229",
+      "target": "鋼河豚Ⅰ"
+    },
+    {
+      "index": "230",
+      "target": "鋼河豚Ⅱ"
+    },
+    {
+      "index": "231",
+      "target": "鋼河豚Ⅲ"
+    },
+    {
+      "index": "232",
+      "target": "鋼河豚Ⅳ"
+    },
+    {
+      "index": "233",
+      "target": "金属夫爾阿姆艾"
+    },
+    {
+      "index": "234",
+      "target": "冰嵐"
+    },
+    {
+      "index": "235",
+      "target": "姆伊格哈特伊可斯"
+    },
+    {
+      "index": "236",
+      "target": "仙人掌克烏格艾勒"
+    },
+    {
+      "index": "237",
+      "target": "仙人掌瓦阿夫夫艾"
+    },
+    {
+      "index": "238",
+      "target": "斯艾艾皮恩獣"
+    },
+    {
+      "index": "239",
+      "target": "散彈槍日"
+    },
+    {
+      "index": "240",
+      "target": "散彈槍影"
+    },
+    {
+      "index": "241",
+      "target": "仙人掌格艾瓦艾哈爾"
+    },
+    {
+      "index": "242",
+      "target": "仙人掌杰阿艾格艾爾"
+    },
+    {
+      "index": "243",
+      "target": "弓黒塊"
+    },
+    {
+      "index": "244",
+      "target": "弓黒塊破損"
+    },
+    {
+      "index": "245",
+      "target": "奇怪龍弓Ⅳ"
+    },
+    {
+      "index": "247",
+      "target": "弓音Ⅵ"
+    },
+    {
+      "index": "248",
+      "target": "弓仙人掌"
+    },
+    {
+      "index": "249",
+      "target": "仙人掌拉凱特"
+    },
+    {
+      "index": "250",
+      "target": "深紅惡魔ＳＰ"
+    },
+    {
+      "index": "251",
+      "target": "水龍克爾阿斯哈艾爾"
+    },
+    {
+      "index": "252",
+      "target": "黒魂ＳＰ"
+    },
+    {
+      "index": "253",
+      "target": "斯奎烏阿勒勒毒怪轟SP"
+    },
+    {
+      "index": "254",
+      "target": "利歐風暴"
+    },
+    {
+      "index": "255",
+      "target": "尾晶蠍銃"
+    },
+    {
+      "index": "256",
+      "target": "尾晶蠍火"
+    },
+    {
+      "index": "257",
+      "target": "拉瓦菲修銃"
+    },
+    {
+      "index": "258",
+      "target": "吉阿斯姆阿斯哈"
+    },
+    {
+      "index": "259",
+      "target": "克阿烏特斯克哈烏"
+    },
+    {
+      "index": "260",
+      "target": "艾勒阿斯特伊克阿"
+    },
+    {
+      "index": "261",
+      "target": "奇怪龍弓Ｖ"
+    },
+    {
+      "index": "262",
+      "target": "女王爆裂Ⅳ"
+    },
+    {
+      "index": "263",
+      "target": "拉吉恩勒阿德伊布烏格銃SP"
+    },
+    {
+      "index": "264",
+      "target": "可雷托爆裂SP"
+    },
+    {
+      "index": "265",
+      "target": "怪鳥咆哮"
+    },
+    {
+      "index": "266",
+      "target": "勒伊爾阿可雷托SP"
+    },
+    {
+      "index": "267",
+      "target": "普爾伊姆阿克阿克"
+    },
+    {
+      "index": "268",
+      "target": "紅玉斯普勒阿斯哈"
+    },
+    {
+      "index": "269",
+      "target": "仙人掌斯伊艾格艾恩"
+    },
+    {
+      "index": "270",
+      "target": "灰晶蠍銃"
+    },
+    {
+      "index": "271",
+      "target": "灰晶蠍火"
+    },
+    {
+      "index": "272",
+      "target": "野菌"
+    },
+    {
+      "index": "273",
+      "target": "鋼基利Ⅰ"
+    },
+    {
+      "index": "274",
+      "target": "鋼基利Ⅱ"
+    },
+    {
+      "index": "275",
+      "target": "鋼基利Ⅳ"
+    },
+    {
+      "index": "276",
+      "target": "鋼基利Ⅳ"
+    },
+    {
+      "index": "277",
+      "target": "維勒斯０２３３"
+    },
+    {
+      "index": "278",
+      "target": "仙人掌斯伊克哈艾勒"
+    },
+    {
+      "index": "279",
+      "target": "崩龍天鵝Ⅰ"
+    },
+    {
+      "index": "280",
+      "target": "崩龍天鵝Ⅱ"
+    },
+    {
+      "index": "281",
+      "target": "弓日珥Ⅳ"
+    },
+    {
+      "index": "282",
+      "target": "虎矢Ⅲ"
+    },
+    {
+      "index": "283",
+      "target": "崩龍S銀白SP"
+    },
+    {
+      "index": "284",
+      "target": "熔岩特伊爾阿恩特SP"
+    },
+    {
+      "index": "285",
+      "target": "利維恩灯SP"
+    },
+    {
+      "index": "286",
+      "target": "金獅子魂ＳＰ"
+    },
+    {
+      "index": "287",
+      "target": "重弩"
+    },
+    {
+      "index": "288",
+      "target": "輕弩"
+    },
+    {
+      "index": "289",
+      "target": "弓"
+    },
+    {
+      "index": "290",
+      "target": "重弩哈阿瓦克雷舞"
+    },
+    {
+      "index": "291",
+      "target": "重弩布烏茲茲阿爾德特哈恩德爾德阿恩"
+    },
+    {
+      "index": "292",
+      "target": "重弩夫阿勒克歐恩雷舞"
+    },
+    {
+      "index": "293",
+      "target": "弓斯特歐爾克雷舞"
+    },
+    {
+      "index": "294",
+      "target": "弓鶴雷舞"
+    },
+    {
+      "index": "295",
+      "target": "雷弗阿米恩歐弓"
+    },
+    {
+      "index": "296",
+      "target": "崩龍S瓦勒"
+    },
+    {
+      "index": "297",
+      "target": "旅團銃I"
+    },
+    {
+      "index": "298",
+      "target": "旅團銃Ⅱ"
+    },
+    {
+      "index": "299",
+      "target": "旅團銃Ⅲ"
+    },
+    {
+      "index": "301",
+      "target": "真斯魯修闇雷銃"
+    },
+    {
+      "index": "302",
+      "target": "真多維闇雷銃"
+    },
+    {
+      "index": "303",
+      "target": "真哈阿瓦克闇雷銃"
+    },
+    {
+      "index": "304",
+      "target": "真夫阿勒克歐恩闇雷銃"
+    },
+    {
+      "index": "305",
+      "target": "德歐恩德歐恩維歐伊德"
+    },
+    {
+      "index": "306",
+      "target": "重弩布爾伊勒勒阿恩特閃光"
+    },
+    {
+      "index": "307",
+      "target": "崩龍S阿維阿恩"
+    },
+    {
+      "index": "308",
+      "target": "艾路猫弓大印"
+    },
+    {
+      "index": "309",
+      "target": "梅拉路弓猫夫歐歐勒"
+    },
+    {
+      "index": "310",
+      "target": "神S姆阿杰艾斯特伊"
+    },
+    {
+      "index": "311",
+      "target": "神S姆阿杰艾斯特伊夢"
+    },
+    {
+      "index": "312",
+      "target": "神S姆阿杰艾斯特伊維伊斯伊歐恩"
+    },
+    {
+      "index": "313",
+      "target": "神S姆阿杰艾斯特伊幻"
+    },
+    {
+      "index": "314",
+      "target": "神宮殿"
+    },
+    {
+      "index": "315",
+      "target": "神宮殿夢"
+    },
+    {
+      "index": "316",
+      "target": "神宮殿維伊斯伊歐恩"
+    },
+    {
+      "index": "317",
+      "target": "神宮殿幻"
+    },
+    {
+      "index": "318",
+      "target": "暖普爾伊克克"
+    },
+    {
+      "index": "319",
+      "target": "暖刺"
+    },
+    {
+      "index": "320",
+      "target": "暖針"
+    },
+    {
+      "index": "321",
+      "target": "暖針"
+    },
+    {
+      "index": "322",
+      "target": "暖斯特伊恩格艾爾"
+    },
+    {
+      "index": "323",
+      "target": "哈阿姆普爾伊克克"
+    },
+    {
+      "index": "324",
+      "target": "哈阿姆刺"
+    },
+    {
+      "index": "325",
+      "target": "哈阿姆針"
+    },
+    {
+      "index": "326",
+      "target": "哈阿姆針"
+    },
+    {
+      "index": "327",
+      "target": "哈阿姆斯特爾伊恩格艾爾"
+    },
+    {
+      "index": "350",
+      "target": "苔剪刀SPⅠ"
+    },
+    {
+      "index": "351",
+      "target": "苔剪刀SPⅡ"
+    },
+    {
+      "index": "352",
+      "target": "苔剪刀SPⅢ"
+    },
+    {
+      "index": "353",
+      "target": "苔剪刀SPⅣ"
+    },
+    {
+      "index": "354",
+      "target": "苔剪刀SPⅤ"
+    },
+    {
+      "index": "355",
+      "target": "苔剪刀SPⅥ"
+    },
+    {
+      "index": "356",
+      "target": "苔剪刀SPⅦ"
+    },
+    {
+      "index": "357",
+      "target": "紫爆裂SPⅠ"
+    },
+    {
+      "index": "358",
+      "target": "紫爆裂SPⅡ"
+    },
+    {
+      "index": "359",
+      "target": "紫爆裂SPⅢ"
+    },
+    {
+      "index": "360",
+      "target": "紫爆裂SPⅣ"
+    },
+    {
+      "index": "361",
+      "target": "紫爆裂SPⅤ"
+    },
+    {
+      "index": "362",
+      "target": "紫爆裂SPⅥ"
+    },
+    {
+      "index": "363",
+      "target": "紫爆裂SPⅦ"
+    },
+    {
+      "index": "371",
+      "target": "弓闇全SPⅠ"
+    },
+    {
+      "index": "372",
+      "target": "弓闇全SPⅡ"
+    },
+    {
+      "index": "373",
+      "target": "弓闇全SPⅢ"
+    },
+    {
+      "index": "374",
+      "target": "弓闇全SPⅣ"
+    },
+    {
+      "index": "375",
+      "target": "弓闇全SPⅤ"
+    },
+    {
+      "index": "376",
+      "target": "弓闇全SPⅥ"
+    },
+    {
+      "index": "377",
+      "target": "弓闇全SPⅦ"
+    },
+    {
+      "index": "378",
+      "target": "弓長角SPⅠ"
+    },
+    {
+      "index": "379",
+      "target": "弓長角SPⅡ"
+    },
+    {
+      "index": "380",
+      "target": "弓長角SPⅢ"
+    },
+    {
+      "index": "381",
+      "target": "弓長角SPⅣ"
+    },
+    {
+      "index": "382",
+      "target": "弓長角SPⅤ"
+    },
+    {
+      "index": "383",
+      "target": "弓長角SPⅥ"
+    },
+    {
+      "index": "384",
+      "target": "弓長角SPⅦ"
+    },
+    {
+      "index": "385",
+      "target": "弓冰凍SPⅠ"
+    },
+    {
+      "index": "386",
+      "target": "弓冰凍SPⅡ"
+    },
+    {
+      "index": "387",
+      "target": "弓冰凍SPⅢ"
+    },
+    {
+      "index": "388",
+      "target": "弓冰凍SPⅣ"
+    },
+    {
+      "index": "389",
+      "target": "弓冰凍SPⅤ"
+    },
+    {
+      "index": "390",
+      "target": "弓冰凍SPⅥ"
+    },
+    {
+      "index": "391",
+      "target": "弓冰凍SPⅦ"
+    },
+    {
+      "index": "392",
+      "target": "弓龍魂SPⅠ"
+    },
+    {
+      "index": "393",
+      "target": "弓龍魂SPⅡ"
+    },
+    {
+      "index": "394",
+      "target": "弓龍魂SPⅢ"
+    },
+    {
+      "index": "395",
+      "target": "弓龍魂SPⅣ"
+    },
+    {
+      "index": "396",
+      "target": "弓龍魂SPⅤ"
+    },
+    {
+      "index": "397",
+      "target": "弓龍魂SPⅥ"
+    },
+    {
+      "index": "398",
+      "target": "弓龍魂SPⅦ"
+    },
+    {
+      "index": "399",
+      "target": "炎拍ＳＰⅠ"
+    },
+    {
+      "index": "400",
+      "target": "炎拍ＳＰⅡ"
+    },
+    {
+      "index": "401",
+      "target": "炎拍ＳＰⅢ"
+    },
+    {
+      "index": "402",
+      "target": "炎拍ＳＰⅣ"
+    },
+    {
+      "index": "403",
+      "target": "炎拍ＳＰⅤ"
+    },
+    {
+      "index": "404",
+      "target": "炎拍ＳＰⅥ"
+    },
+    {
+      "index": "405",
+      "target": "炎拍ＳＰⅦ"
+    },
+    {
+      "index": "406",
+      "target": "水羽ＳＰⅠ"
+    },
+    {
+      "index": "407",
+      "target": "水羽ＳＰⅡ"
+    },
+    {
+      "index": "408",
+      "target": "水羽ＳＰⅢ"
+    },
+    {
+      "index": "409",
+      "target": "水羽ＳＰⅣ"
+    },
+    {
+      "index": "410",
+      "target": "水羽ＳＰⅤ"
+    },
+    {
+      "index": "411",
+      "target": "水羽ＳＰⅥ"
+    },
+    {
+      "index": "412",
+      "target": "水羽ＳＰⅦ"
+    },
+    {
+      "index": "413",
+      "target": "黑天鵝贈礼SPⅠ"
+    },
+    {
+      "index": "414",
+      "target": "黑天鵝贈礼SPⅡ"
+    },
+    {
+      "index": "415",
+      "target": "黑天鵝贈礼SPⅢ"
+    },
+    {
+      "index": "416",
+      "target": "黑天鵝贈礼SPⅣ"
+    },
+    {
+      "index": "417",
+      "target": "黑天鵝贈礼SPⅤ"
+    },
+    {
+      "index": "418",
+      "target": "黑天鵝贈礼SPⅥ"
+    },
+    {
+      "index": "419",
+      "target": "黑天鵝贈礼SPⅦ"
+    },
+    {
+      "index": "420",
+      "target": "水靜弓SPⅠ"
+    },
+    {
+      "index": "421",
+      "target": "水靜弓SPⅡ"
+    },
+    {
+      "index": "422",
+      "target": "水靜弓SPⅢ"
+    },
+    {
+      "index": "423",
+      "target": "水靜弓SPⅣ"
+    },
+    {
+      "index": "424",
+      "target": "水靜弓SPⅤ"
+    },
+    {
+      "index": "425",
+      "target": "水靜弓SPⅥ"
+    },
+    {
+      "index": "426",
+      "target": "水靜弓SPⅦ"
+    },
+    {
+      "index": "427",
+      "target": "虎流SPⅠ"
+    },
+    {
+      "index": "428",
+      "target": "虎流SPⅡ"
+    },
+    {
+      "index": "429",
+      "target": "虎流SPⅢ"
+    },
+    {
+      "index": "430",
+      "target": "虎流SPⅣ"
+    },
+    {
+      "index": "431",
+      "target": "虎流SPⅤ"
+    },
+    {
+      "index": "432",
+      "target": "虎流SPⅥ"
+    },
+    {
+      "index": "433",
+      "target": "虎流SPⅦ"
+    },
+    {
+      "index": "434",
+      "target": "發生器SPⅠ"
+    },
+    {
+      "index": "435",
+      "target": "發生器SPⅡ"
+    },
+    {
+      "index": "436",
+      "target": "發生器SPⅢ"
+    },
+    {
+      "index": "437",
+      "target": "發生器SPⅣ"
+    },
+    {
+      "index": "438",
+      "target": "發生器SPⅤ"
+    },
+    {
+      "index": "439",
+      "target": "發生器SPⅥ"
+    },
+    {
+      "index": "440",
+      "target": "發生器SPⅦ"
+    },
+    {
+      "index": "441",
+      "target": "弓黑SPⅠ"
+    },
+    {
+      "index": "442",
+      "target": "弓黑SPⅡ"
+    },
+    {
+      "index": "443",
+      "target": "弓黑SPⅢ"
+    },
+    {
+      "index": "444",
+      "target": "弓黑SPⅣ"
+    },
+    {
+      "index": "445",
+      "target": "弓黑SPⅤ"
+    },
+    {
+      "index": "446",
+      "target": "弓黑SPⅥ"
+    },
+    {
+      "index": "447",
+      "target": "弓黑SPⅦ"
+    },
+    {
+      "index": "448",
+      "target": "龍山崩弓SPⅠ"
+    },
+    {
+      "index": "449",
+      "target": "龍山崩弓SPⅡ"
+    },
+    {
+      "index": "450",
+      "target": "龍山崩弓SPⅢ"
+    },
+    {
+      "index": "451",
+      "target": "龍山崩弓SPⅣ"
+    },
+    {
+      "index": "452",
+      "target": "龍山崩弓SPⅤ"
+    },
+    {
+      "index": "453",
+      "target": "龍山崩弓SPⅥ"
+    },
+    {
+      "index": "454",
+      "target": "龍山崩弓SPⅦ"
+    },
+    {
+      "index": "455",
+      "target": "鳳凰轟鳴SPⅠ"
+    },
+    {
+      "index": "456",
+      "target": "鳳凰轟鳴SPⅡ"
+    },
+    {
+      "index": "457",
+      "target": "鳳凰轟鳴SPⅢ"
+    },
+    {
+      "index": "458",
+      "target": "鳳凰轟鳴SPⅣ"
+    },
+    {
+      "index": "459",
+      "target": "鳳凰轟鳴SPⅤ"
+    },
+    {
+      "index": "460",
+      "target": "鳳凰轟鳴SPⅥ"
+    },
+    {
+      "index": "461",
+      "target": "鳳凰轟鳴SPⅦ"
+    },
+    {
+      "index": "462",
+      "target": "龍神弓蝕SPⅠ"
+    },
+    {
+      "index": "463",
+      "target": "龍神弓蝕SPⅡ"
+    },
+    {
+      "index": "464",
+      "target": "龍神弓蝕SPⅢ"
+    },
+    {
+      "index": "465",
+      "target": "龍神弓蝕SPⅣ"
+    },
+    {
+      "index": "466",
+      "target": "龍神弓蝕SPⅤ"
+    },
+    {
+      "index": "467",
+      "target": "龍神弓蝕SPⅥ"
+    },
+    {
+      "index": "468",
+      "target": "龍神弓蝕SPⅦ"
+    },
+    {
+      "index": "469",
+      "target": "山射手SPⅠ"
+    },
+    {
+      "index": "470",
+      "target": "山射手SPⅡ"
+    },
+    {
+      "index": "471",
+      "target": "山射手SPⅢ"
+    },
+    {
+      "index": "472",
+      "target": "山射手SPⅣ"
+    },
+    {
+      "index": "473",
+      "target": "山射手SPⅤ"
+    },
+    {
+      "index": "474",
+      "target": "山射手SPⅥ"
+    },
+    {
+      "index": "475",
+      "target": "山射手SPⅦ"
+    },
+    {
+      "index": "476",
+      "target": "弓巨蟹SPⅠ"
+    },
+    {
+      "index": "477",
+      "target": "弓巨蟹SPⅡ"
+    },
+    {
+      "index": "478",
+      "target": "弓巨蟹SPⅢ"
+    },
+    {
+      "index": "479",
+      "target": "弓巨蟹SPⅣ"
+    },
+    {
+      "index": "480",
+      "target": "弓巨蟹SPⅤ"
+    },
+    {
+      "index": "481",
+      "target": "弓巨蟹SPⅥ"
+    },
+    {
+      "index": "482",
+      "target": "弓巨蟹SPⅦ"
+    },
+    {
+      "index": "483",
+      "target": "弓翠SPⅠ"
+    },
+    {
+      "index": "484",
+      "target": "弓翠SPⅡ"
+    },
+    {
+      "index": "485",
+      "target": "弓翠SPⅢ"
+    },
+    {
+      "index": "486",
+      "target": "弓翠SPⅣ"
+    },
+    {
+      "index": "487",
+      "target": "弓翠SPⅤ"
+    },
+    {
+      "index": "488",
+      "target": "弓翠SPⅥ"
+    },
+    {
+      "index": "489",
+      "target": "弓翠SPⅦ"
+    },
+    {
+      "index": "494",
+      "target": "弓"
+    },
+    {
+      "index": "495",
+      "target": "弓"
+    },
+    {
+      "index": "496",
+      "target": "輕弩"
+    },
+    {
+      "index": "497",
+      "target": "輕弩"
+    },
+    {
+      "index": "498",
+      "target": "重弩"
+    },
+    {
+      "index": "499",
+      "target": "弓"
+    },
+    {
+      "index": "653",
+      "target": "堅可賓"
+    },
+    {
+      "index": "654",
+      "target": "堅可賓＋"
+    },
+    {
+      "index": "655",
+      "target": "姆阿特特艾爾可賓"
+    },
+    {
+      "index": "656",
+      "target": "液可賓"
+    },
+    {
+      "index": "657",
+      "target": "液可賓＋"
+    },
+    {
+      "index": "658",
+      "target": "屬性可賓"
+    },
+    {
+      "index": "659",
+      "target": "娜特阿死"
+    },
+    {
+      "index": "660",
+      "target": "德艾特歐斯斯阿爾克哈阿姆"
+    },
+    {
+      "index": "661",
+      "target": "混沌阿爾姆伊"
+    },
+    {
+      "index": "662",
+      "target": "弓音Ⅶ"
+    },
+    {
+      "index": "663",
+      "target": "龍神弓茲胡洛恩"
+    },
+    {
+      "index": "664",
+      "target": "弓力量野Ⅳ"
+    },
+    {
+      "index": "665",
+      "target": "薩菲伊雷渡鴉Ⅰ"
+    },
+    {
+      "index": "666",
+      "target": "薩菲伊雷渡鴉Ⅱ"
+    },
+    {
+      "index": "667",
+      "target": "薩菲伊雷渡鴉Ⅲ"
+    },
+    {
+      "index": "668",
+      "target": "薩菲伊雷渡鴉Ⅳ"
+    },
+    {
+      "index": "669",
+      "target": "巨神焔SP"
+    },
+    {
+      "index": "670",
+      "target": "炎王龍S炎ＳＰ"
+    },
+    {
+      "index": "671",
+      "target": "空S伊斯艾SP"
+    },
+    {
+      "index": "672",
+      "target": "金属炎ＳＰ"
+    },
+    {
+      "index": "673",
+      "target": "維勒斯００５２"
+    },
+    {
+      "index": "674",
+      "target": "維勒斯７３０５"
+    },
+    {
+      "index": "675",
+      "target": "弓哈艾爾阿勒德雷舞"
+    },
+    {
+      "index": "676",
+      "target": "火暴風SP"
+    },
+    {
+      "index": "677",
+      "target": "Ｂ陽傘SP"
+    },
+    {
+      "index": "678",
+      "target": "尾晶蠍加農砲"
+    },
+    {
+      "index": "679",
+      "target": "尾晶蠍發射器"
+    },
+    {
+      "index": "680",
+      "target": "珊瑚打撃"
+    },
+    {
+      "index": "681",
+      "target": "碧玉打撃"
+    },
+    {
+      "index": "682",
+      "target": "拉皮茲打撃"
+    },
+    {
+      "index": "686",
+      "target": "月神虹加農砲SP"
+    },
+    {
+      "index": "687",
+      "target": "貴族克哈伊維阿勒爾伊"
+    },
+    {
+      "index": "688",
+      "target": "姆艾勒歐爾克哈伊維阿勒爾伊"
+    },
+    {
+      "index": "689",
+      "target": "月神S布歐斯特艾斯斯歐"
+    },
+    {
+      "index": "690",
+      "target": "月神S維烏勒克阿恩歐"
+    },
+    {
+      "index": "691",
+      "target": "月神S格阿恩阿爾德"
+    },
+    {
+      "index": "692",
+      "target": "肉銃稀有"
+    },
+    {
+      "index": "693",
+      "target": "肉銃中"
+    },
+    {
+      "index": "694",
+      "target": "肉銃瓦艾勒勒完成"
+    },
+    {
+      "index": "695",
+      "target": "克烏格艾勒史誇爾"
+    },
+    {
+      "index": "696",
+      "target": "猫克烏格艾勒"
+    },
+    {
+      "index": "697",
+      "target": "克烏格艾勒狐"
+    },
+    {
+      "index": "698",
+      "target": "弓鋼"
+    },
+    {
+      "index": "699",
+      "target": "弓鋼鎧普伊艾爾克艾爾"
+    },
+    {
+      "index": "700",
+      "target": "弓鋼岩普伊艾爾克艾爾"
+    },
+    {
+      "index": "701",
+      "target": "光利艾貝"
+    },
+    {
+      "index": "702",
+      "target": "姆伊德德勒艾利艾貝"
+    },
+    {
+      "index": "703",
+      "target": "深利艾貝"
+    },
+    {
+      "index": "704",
+      "target": "真利艾貝"
+    },
+    {
+      "index": "705",
+      "target": "赤猫銃ＳＰ"
+    },
+    {
+      "index": "706",
+      "target": "堂斯哈歐瓦艾爾"
+    },
+    {
+      "index": "707",
+      "target": "堂斯普勒阿斯哈"
+    },
+    {
+      "index": "708",
+      "target": "德歐恩德歐恩加農砲"
+    },
+    {
+      "index": "709",
+      "target": "夫勒歐瓦斯瓦艾艾茲伊"
+    },
+    {
+      "index": "710",
+      "target": "格艾爾德阿斯瓦艾艾茲伊"
+    },
+    {
+      "index": "711",
+      "target": "洛伊薩斯瓦艾艾茲伊"
+    },
+    {
+      "index": "712",
+      "target": "恩伊阿恩恩伊阿恩銃"
+    },
+    {
+      "index": "713",
+      "target": "火恩伊阿恩恩伊阿恩"
+    },
+    {
+      "index": "714",
+      "target": "弓幻影特哈烏恩德艾爾布"
+    },
+    {
+      "index": "715",
+      "target": "弓幻影特哈烏恩德艾爾斯"
+    },
+    {
+      "index": "717",
+      "target": "怪鳥真青弓"
+    },
+    {
+      "index": "718",
+      "target": "紅玉渡鴉Ⅰ"
+    },
+    {
+      "index": "719",
+      "target": "紅玉渡鴉Ⅱ"
+    },
+    {
+      "index": "720",
+      "target": "紅玉渡鴉Ⅲ"
+    },
+    {
+      "index": "721",
+      "target": "紅玉渡鴉Ⅳ"
+    },
+    {
+      "index": "722",
+      "target": "翼蛇龍普勒烏斯哈"
+    },
+    {
+      "index": "723",
+      "target": "爾艾姆歐姆布爾阿斯里凱"
+    },
+    {
+      "index": "724",
+      "target": "斯烏夫艾恩德爾伊"
+    },
+    {
+      "index": "725",
+      "target": "克哈阿勒克艾恩德"
+    },
+    {
+      "index": "726",
+      "target": "格阿爾恩艾特德爾"
+    },
+    {
+      "index": "727",
+      "target": "青爆裂SP"
+    },
+    {
+      "index": "728",
+      "target": "炎王S布阿爾艾特特阿"
+    },
+    {
+      "index": "729",
+      "target": "雙普阿爾阿勒伊茲艾"
+    },
+    {
+      "index": "730",
+      "target": "熔岩普阿爾阿勒伊茲艾"
+    },
+    {
+      "index": "731",
+      "target": "恩艾艾德勒艾阿恩"
+    },
+    {
+      "index": "732",
+      "target": "毒德烏艾勒"
+    },
+    {
+      "index": "733",
+      "target": "毒熔岩"
+    },
+    {
+      "index": "734",
+      "target": "恩艾艾德勒艾瓦阿"
+    },
+    {
+      "index": "735",
+      "target": "闇猫銃"
+    },
+    {
+      "index": "736",
+      "target": "赤猫銃"
+    },
+    {
+      "index": "737",
+      "target": "赤猫榴彈發射器"
+    },
+    {
+      "index": "741",
+      "target": "深紅陽傘SP"
+    },
+    {
+      "index": "742",
+      "target": "弓堂"
+    },
+    {
+      "index": "743",
+      "target": "堂姆伊斯斯伊勒艾"
+    },
+    {
+      "index": "744",
+      "target": "德歐德歐恩強撃"
+    },
+    {
+      "index": "745",
+      "target": "德歐德歐恩克爾艾斯克艾恩特"
+    },
+    {
+      "index": "746",
+      "target": "普阿瓦普阿德射手"
+    },
+    {
+      "index": "747",
+      "target": "普阿瓦普阿德爆裂"
+    },
+    {
+      "index": "748",
+      "target": "艾路猫弓"
+    },
+    {
+      "index": "749",
+      "target": "艾路猫弓克歐布阿恩"
+    },
+    {
+      "index": "750",
+      "target": "尾射手"
+    },
+    {
+      "index": "751",
+      "target": "尾爆裂"
+    },
+    {
+      "index": "752",
+      "target": "梅拉路弓"
+    },
+    {
+      "index": "753",
+      "target": "梅拉路弓猫維艾伊勒"
+    },
+    {
+      "index": "757",
+      "target": "弓深紅"
+    },
+    {
+      "index": "758",
+      "target": "普艾爾勒艾恩克烏"
+    },
+    {
+      "index": "759",
+      "target": "普艾爾勒艾第一"
+    },
+    {
+      "index": "760",
+      "target": "普艾爾勒艾恩格艾"
+    },
+    {
+      "index": "761",
+      "target": "普艾爾勒艾恩斯伊艾格"
+    },
+    {
+      "index": "762",
+      "target": "普艾爾勒艾恩布歐"
+    },
+    {
+      "index": "763",
+      "target": "普艾爾勒艾恩爾阿"
+    },
+    {
+      "index": "764",
+      "target": "普艾爾勒艾恩斯伊克哈艾勒"
+    },
+    {
+      "index": "765",
+      "target": "龍偉大銃"
+    },
+    {
+      "index": "766",
+      "target": "星雲格勒歐布艾斯"
+    },
+    {
+      "index": "767",
+      "target": "紅玉河豚Ⅳ"
+    },
+    {
+      "index": "768",
+      "target": "紅玉河豚Ⅰ"
+    },
+    {
+      "index": "769",
+      "target": "紅玉河豚Ⅱ"
+    },
+    {
+      "index": "770",
+      "target": "紅玉河豚Ⅲ"
+    },
+    {
+      "index": "771",
+      "target": "鋼河豚Ⅴ"
+    },
+    {
+      "index": "772",
+      "target": "夫阿恩格艾德狼銃古斯"
+    },
+    {
+      "index": "773",
+      "target": "夫阿恩格艾德狼銃加勒"
+    },
+    {
+      "index": "774",
+      "target": "空狼銃大德伊普普艾爾"
+    },
+    {
+      "index": "775",
+      "target": "夫伊勒阿恩套"
+    },
+    {
+      "index": "776",
+      "target": "艾阿姆艾斯套"
+    },
+    {
+      "index": "777",
+      "target": "維伊恩茲套"
+    },
+    {
+      "index": "778",
+      "target": "普烏爾夫阿套"
+    },
+    {
+      "index": "779",
+      "target": "夫阿恩格艾德狼銃布勒歐斯斯歐姆"
+    },
+    {
+      "index": "780",
+      "target": "夫阿恩格艾德狼銃桜"
+    },
+    {
+      "index": "781",
+      "target": "空狼銃爾阿伊恩夫阿勒勒"
+    },
+    {
+      "index": "782",
+      "target": "空狼銃姆歐恩斯歐歐恩"
+    },
+    {
+      "index": "783",
+      "target": "弓阿恩恩伊哈伊勒阿Ⅱ"
+    },
+    {
+      "index": "784",
+      "target": "奇怪龍弓Ⅵ"
+    },
+    {
+      "index": "785",
+      "target": "月巴勒"
+    },
+    {
+      "index": "786",
+      "target": "月茲伊艾恩"
+    },
+    {
+      "index": "787",
+      "target": "月維伊艾瓦"
+    },
+    {
+      "index": "788",
+      "target": "月維德雷"
+    },
+    {
+      "index": "789",
+      "target": "羅喬克艾爾茲艾"
+    },
+    {
+      "index": "790",
+      "target": "羅喬火焔"
+    },
+    {
+      "index": "791",
+      "target": "羅喬格勒烏哈艾恩"
+    },
+    {
+      "index": "792",
+      "target": "拉瓦里火山"
+    },
+    {
+      "index": "793",
+      "target": "弓阿勒布烏"
+    },
+    {
+      "index": "794",
+      "target": "弓阿勒布烏姆"
+    },
+    {
+      "index": "795",
+      "target": "弓阿勒布烏伊恩"
+    },
+    {
+      "index": "796",
+      "target": "弓阿勒布烏姆阿格伊"
+    },
+    {
+      "index": "797",
+      "target": "弓克哈艾爾恩伊"
+    },
+    {
+      "index": "798",
+      "target": "弓大克哈艾爾恩伊"
+    },
+    {
+      "index": "799",
+      "target": "弓王室克哈艾爾恩伊"
+    },
+    {
+      "index": "800",
+      "target": "弓至高克哈艾爾恩伊"
+    },
+    {
+      "index": "801",
+      "target": "弓阿奎伊拉"
+    },
+    {
+      "index": "802",
+      "target": "弓阿奎伊拉＋"
+    },
+    {
+      "index": "803",
+      "target": "弓阿奎伊拉克歐斯姆伊克"
+    },
+    {
+      "index": "804",
+      "target": "弓阿奎伊拉彗星"
+    },
+    {
+      "index": "805",
+      "target": "魂星I"
+    },
+    {
+      "index": "806",
+      "target": "魂星Ⅱ"
+    },
+    {
+      "index": "807",
+      "target": "魂星Ⅲ"
+    },
+    {
+      "index": "808",
+      "target": "魂普勒阿恩艾特艾斯"
+    },
+    {
+      "index": "809",
+      "target": "鋼渡鴉Ⅴ"
+    },
+    {
+      "index": "810",
+      "target": "姆艾勒阿恩伊恩射手SP"
+    },
+    {
+      "index": "811",
+      "target": "血包帯ＳＰ"
+    },
+    {
+      "index": "812",
+      "target": "弓星"
+    },
+    {
+      "index": "813",
+      "target": "弓星＋"
+    },
+    {
+      "index": "814",
+      "target": "弓星克歐斯姆伊克"
+    },
+    {
+      "index": "815",
+      "target": "弓星彗星"
+    },
+    {
+      "index": "816",
+      "target": "重弩夫阿恩格艾德狼恩流浪"
+    },
+    {
+      "index": "817",
+      "target": "重弩夫阿恩格艾德狼霜"
+    },
+    {
+      "index": "818",
+      "target": "重弩斯伊爾伊烏斯吹雪"
+    },
+    {
+      "index": "825",
+      "target": "德烏瑟索洛"
+    },
+    {
+      "index": "826",
+      "target": "德烏瑟特伊歐"
+    },
+    {
+      "index": "827",
+      "target": "德烏瑟奎烏伊恩特"
+    },
+    {
+      "index": "828",
+      "target": "浮游普艾阿克銃"
+    },
+    {
+      "index": "829",
+      "target": "未來迪弩"
+    },
+    {
+      "index": "830",
+      "target": "未來迪夫阿克伊爾"
+    },
+    {
+      "index": "831",
+      "target": "瓦艾伊斯斯格艾爾"
+    },
+    {
+      "index": "832",
+      "target": "魔女弩"
+    },
+    {
+      "index": "833",
+      "target": "魔女夫阿克伊爾"
+    },
+    {
+      "index": "834",
+      "target": "斯克哈瓦阿爾茲格"
+    },
+    {
+      "index": "835",
+      "target": "雷瓦歐歐德普艾克克輕弩"
+    },
+    {
+      "index": "836",
+      "target": "雷阿勒布阿特爾歐斯輕弩"
+    },
+    {
+      "index": "837",
+      "target": "雷真可娜里輕弩"
+    },
+    {
+      "index": "838",
+      "target": "火焔克歐姆"
+    },
+    {
+      "index": "839",
+      "target": "火焔爾艾姆"
+    },
+    {
+      "index": "840",
+      "target": "火焔火焔"
+    },
+    {
+      "index": "841",
+      "target": "紅玉基利Ⅰ"
+    },
+    {
+      "index": "842",
+      "target": "紅玉基利Ⅱ"
+    },
+    {
+      "index": "843",
+      "target": "紅玉基利Ⅲ"
+    },
+    {
+      "index": "844",
+      "target": "紅玉基利Ⅳ"
+    },
+    {
+      "index": "845",
+      "target": "弓俄菲翁"
+    },
+    {
+      "index": "846",
+      "target": "弓俄菲翁閃光"
+    },
+    {
+      "index": "847",
+      "target": "弓俄菲翁光輝"
+    },
+    {
+      "index": "848",
+      "target": "弓俄菲翁栄光"
+    },
+    {
+      "index": "849",
+      "target": "月神S誘惑"
+    },
+    {
+      "index": "850",
+      "target": "月神S克歐奎烏艾特爾伊"
+    },
+    {
+      "index": "851",
+      "target": "弓閃光"
+    },
+    {
+      "index": "852",
+      "target": "克歐烏爾阿格艾歐希望Ⅲ"
+    },
+    {
+      "index": "853",
+      "target": "弓強音I"
+    },
+    {
+      "index": "854",
+      "target": "弓強音Ⅱ"
+    },
+    {
+      "index": "855",
+      "target": "弓強音Ⅲ"
+    },
+    {
+      "index": "856",
+      "target": "強音拉達"
+    },
+    {
+      "index": "857",
+      "target": "阿斯阿S特哈伊爾德"
+    },
+    {
+      "index": "858",
+      "target": "阿斯阿S斯艾克歐恩德"
+    },
+    {
+      "index": "859",
+      "target": "阿斯阿S初"
+    },
+    {
+      "index": "860",
+      "target": "斯伊爾伊烏斯龍騎"
+    },
+    {
+      "index": "861",
+      "target": "姆阿格恩伊S特哈伊爾德"
+    },
+    {
+      "index": "862",
+      "target": "姆阿格恩伊S斯艾克歐恩德"
+    },
+    {
+      "index": "863",
+      "target": "姆阿格恩伊S初"
+    },
+    {
+      "index": "864",
+      "target": "斯伊爾伊烏斯暴風"
+    },
+    {
+      "index": "865",
+      "target": "紅玉渡鴉Ⅴ"
+    },
+    {
+      "index": "866",
+      "target": "法斯克阿斯特艾爾SP"
+    },
+    {
+      "index": "867",
+      "target": "金烏姆布爾艾勒勒阿SP"
+    },
+    {
+      "index": "868",
+      "target": "重弩旅團Ⅰ"
+    },
+    {
+      "index": "869",
+      "target": "重弩旅團Ⅱ"
+    },
+    {
+      "index": "870",
+      "target": "重弩旅團Ⅲ"
+    },
+    {
+      "index": "871",
+      "target": "弓旅團Ⅰ"
+    },
+    {
+      "index": "872",
+      "target": "弓旅團Ⅱ"
+    },
+    {
+      "index": "873",
+      "target": "弓旅團Ⅲ"
+    },
+    {
+      "index": "874",
+      "target": "弓旅團Ⅳ"
+    },
+    {
+      "index": "875",
+      "target": "弓旅團Ⅴ"
+    },
+    {
+      "index": "876",
+      "target": "弓旅團Ⅵ"
+    },
+    {
+      "index": "877",
+      "target": "重弩巨大星斯哈艾勒勒克伊恩"
+    },
+    {
+      "index": "878",
+      "target": "未來迪加農砲"
+    },
+    {
+      "index": "879",
+      "target": "未來迪發射器"
+    },
+    {
+      "index": "880",
+      "target": "瓦艾伊斯斯艾威艾瑟"
+    },
+    {
+      "index": "881",
+      "target": "魔女加農砲"
+    },
+    {
+      "index": "882",
+      "target": "魔女發射器"
+    },
+    {
+      "index": "883",
+      "target": "斯克哈瓦阿爾茲艾威艾瑟"
+    },
+    {
+      "index": "884",
+      "target": "輝日弩"
+    },
+    {
+      "index": "885",
+      "target": "輝日弩"
+    },
+    {
+      "index": "886",
+      "target": "輝日星弾"
+    },
+    {
+      "index": "887",
+      "target": "角龍弾"
+    },
+    {
+      "index": "888",
+      "target": "角龍斯普哈艾爾阿"
+    },
+    {
+      "index": "889",
+      "target": "角龍絶対"
+    },
+    {
+      "index": "890",
+      "target": "懷斯斯普勒阿斯哈"
+    },
+    {
+      "index": "891",
+      "target": "懷斯爾歐恩德歐"
+    },
+    {
+      "index": "892",
+      "target": "懷斯夫勒歐歐德"
+    },
+    {
+      "index": "893",
+      "target": "特阿恩克布伊斯哈歐普"
+    },
+    {
+      "index": "894",
+      "target": "布阿斯特伊歐恩布伊斯哈歐普"
+    },
+    {
+      "index": "895",
+      "target": "要塞布伊斯哈歐普"
+    },
+    {
+      "index": "896",
+      "target": "特阿恩克瓦伊特克哈"
+    },
+    {
+      "index": "897",
+      "target": "布阿斯特伊歐恩瓦伊特克哈"
+    },
+    {
+      "index": "898",
+      "target": "要塞瓦伊特克哈"
+    },
+    {
+      "index": "899",
+      "target": "狐夫勒艾特克哈艾爾"
+    },
+    {
+      "index": "900",
+      "target": "狐姆伊斯斯伊勒艾"
+    },
+    {
+      "index": "901",
+      "target": "狐阿爾克"
+    },
+    {
+      "index": "902",
+      "target": "強音爾阿恩普歐"
+    },
+    {
+      "index": "903",
+      "target": "強音克爾艾斯克艾恩特"
+    },
+    {
+      "index": "904",
+      "target": "斯普阿爾克鶴"
+    },
+    {
+      "index": "905",
+      "target": "火鶴"
+    },
+    {
+      "index": "906",
+      "target": "焔鶴"
+    },
+    {
+      "index": "907",
+      "target": "山鶴"
+    },
+    {
+      "index": "908",
+      "target": "轟龍鎧鶴"
+    },
+    {
+      "index": "909",
+      "target": "斯伊勒特鶴"
+    },
+    {
+      "index": "910",
+      "target": "克哈阿爾伊歐特鶴"
+    },
+    {
+      "index": "911",
+      "target": "可斯拉鶴"
+    },
+    {
+      "index": "912",
+      "target": "龍風Ⅰ"
+    },
+    {
+      "index": "913",
+      "target": "龍風Ⅱ"
+    },
+    {
+      "index": "914",
+      "target": "龍風Ⅲ"
+    },
+    {
+      "index": "915",
+      "target": "龍風艾恩克哈阿"
+    },
+    {
+      "index": "916",
+      "target": "黄晶渡鴉Ⅰ"
+    },
+    {
+      "index": "917",
+      "target": "黄晶渡鴉Ⅱ"
+    },
+    {
+      "index": "918",
+      "target": "黄晶渡鴉Ⅲ"
+    },
+    {
+      "index": "919",
+      "target": "黄晶渡鴉Ⅳ"
+    },
+    {
+      "index": "920",
+      "target": "黄晶渡鴉Ⅴ"
+    },
+    {
+      "index": "921",
+      "target": "哈阿瓦克闇雷銃"
+    },
+    {
+      "index": "922",
+      "target": "真夫阿勒克歐恩闇雷銃"
+    },
+    {
+      "index": "923",
+      "target": "雪鹿克烏爾爾艾恩特"
+    },
+    {
+      "index": "924",
+      "target": "雪鹿強襲"
+    },
+    {
+      "index": "925",
+      "target": "雪鹿騎手"
+    },
+    {
+      "index": "926",
+      "target": "可多加農砲"
+    },
+    {
+      "index": "927",
+      "target": "可多發射器"
+    },
+    {
+      "index": "928",
+      "target": "羅特伊艾瑟"
+    },
+    {
+      "index": "935",
+      "target": "艾布克斯核"
+    },
+    {
+      "index": "936",
+      "target": "艾布克斯普歐"
+    },
+    {
+      "index": "937",
+      "target": "艾布克斯艾利特"
+    },
+    {
+      "index": "938",
+      "target": "黄晶河豚Ⅰ"
+    },
+    {
+      "index": "939",
+      "target": "黄晶河豚Ⅱ"
+    },
+    {
+      "index": "940",
+      "target": "黄晶河豚Ⅲ"
+    },
+    {
+      "index": "941",
+      "target": "黄晶河豚Ⅳ"
+    },
+    {
+      "index": "942",
+      "target": "阿勒布阿特爾歐斯闇雷銃"
+    },
+    {
+      "index": "943",
+      "target": "真可娜里闇雷銃"
+    },
+    {
+      "index": "944",
+      "target": "可多弩"
+    },
+    {
+      "index": "945",
+      "target": "可多夫艾勒克哈伊阿"
+    },
+    {
+      "index": "946",
+      "target": "輪唱格拉德"
+    },
+    {
+      "index": "947",
+      "target": "熱槍托"
+    },
+    {
+      "index": "948",
+      "target": "炎槍托"
+    },
+    {
+      "index": "949",
+      "target": "輝槍托"
+    },
+    {
+      "index": "950",
+      "target": "裂槍托"
+    },
+    {
+      "index": "951",
+      "target": "斯克哈瓦艾爾槍托"
+    },
+    {
+      "index": "952",
+      "target": "羅古艾槍托"
+    },
+    {
+      "index": "953",
+      "target": "克哈爾伊斯歐斯I"
+    },
+    {
+      "index": "954",
+      "target": "克哈爾伊斯歐斯Ⅱ"
+    },
+    {
+      "index": "955",
+      "target": "克哈爾伊斯歐斯格阿雅"
+    },
+    {
+      "index": "956",
+      "target": "弓維皮歐闇雷"
+    },
+    {
+      "index": "957",
+      "target": "弓鶴闇雷"
+    },
+    {
+      "index": "958",
+      "target": "真弗阿米恩歐闇雷Ｂ"
+    },
+    {
+      "index": "959",
+      "target": "弓真修歐可庫闇雷"
+    },
+    {
+      "index": "960",
+      "target": "星雲阿爾克"
+    },
+    {
+      "index": "961",
+      "target": "星雲哈阿爾普"
+    },
+    {
+      "index": "965",
+      "target": "夫烏爾歐恩布勒歐斯斯歐姆"
+    },
+    {
+      "index": "966",
+      "target": "弓未來迪"
+    },
+    {
+      "index": "967",
+      "target": "未來迪城堡"
+    },
+    {
+      "index": "968",
+      "target": "未來迪阿爾克"
+    },
+    {
+      "index": "969",
+      "target": "懷斯姆伊斯特艾勒"
+    },
+    {
+      "index": "970",
+      "target": "魔女弓"
+    },
+    {
+      "index": "971",
+      "target": "斯特爾艾阿格城堡"
+    },
+    {
+      "index": "972",
+      "target": "魔女阿爾克"
+    },
+    {
+      "index": "973",
+      "target": "斯克哈瓦阿爾茲姆伊斯特艾勒"
+    },
+    {
+      "index": "974",
+      "target": "弓克勒歐克克瓦歐爾"
+    },
+    {
+      "index": "975",
+      "target": "弓克勒歐克克瓦歐爾＋"
+    },
+    {
+      "index": "976",
+      "target": "弓新克勒歐克克瓦歐爾"
+    },
+    {
+      "index": "977",
+      "target": "弓超克勒歐克克瓦歐爾"
+    },
+    {
+      "index": "978",
+      "target": "深紅的牙"
+    },
+    {
+      "index": "979",
+      "target": "深紅化抑制"
+    },
+    {
+      "index": "980",
+      "target": "深紅的角"
+    },
+    {
+      "index": "981",
+      "target": "深紅阿維艾恩格艾爾"
+    },
+    {
+      "index": "982",
+      "target": "折磨的牙"
+    },
+    {
+      "index": "983",
+      "target": "折磨化抑制"
+    },
+    {
+      "index": "984",
+      "target": "折磨的角"
+    },
+    {
+      "index": "985",
+      "target": "折磨阿維艾恩格艾爾"
+    },
+    {
+      "index": "986",
+      "target": "角龍I"
+    },
+    {
+      "index": "987",
+      "target": "角龍Ⅱ"
+    },
+    {
+      "index": "988",
+      "target": "角龍Ⅲ"
+    },
+    {
+      "index": "989",
+      "target": "角龍猛"
+    },
+    {
+      "index": "990",
+      "target": "狐斯拉達"
+    },
+    {
+      "index": "991",
+      "target": "狐勒阿布伊爾伊恩特"
+    },
+    {
+      "index": "992",
+      "target": "強音特歐爾爾艾"
+    },
+    {
+      "index": "993",
+      "target": "雪鹿普烏勒斯艾"
+    },
+    {
+      "index": "994",
+      "target": "雪鹿息"
+    },
+    {
+      "index": "995",
+      "target": "雪鹿阿姆布伊特伊歐恩"
+    },
+    {
+      "index": "996",
+      "target": "蛞蝓發射器"
+    },
+    {
+      "index": "997",
+      "target": "娜德發射器"
+    },
+    {
+      "index": "998",
+      "target": "終極發射器"
+    },
+    {
+      "index": "999",
+      "target": "蜥蜴臼"
+    },
+    {
+      "index": "1000",
+      "target": "鱗臼"
+    },
+    {
+      "index": "1001",
+      "target": "德阿戈臼"
+    },
+    {
+      "index": "1002",
+      "target": "姆艾勒德艾阿恩"
+    },
+    {
+      "index": "1003",
+      "target": "姆艾勒伊斯斯阿德艾阿恩"
+    },
+    {
+      "index": "1004",
+      "target": "旋律德艾阿恩"
+    },
+    {
+      "index": "1005",
+      "target": "憤怒輕弩"
+    },
+    {
+      "index": "1006",
+      "target": "憤怒輕弩瑟阿布艾艾澤"
+    },
+    {
+      "index": "1007",
+      "target": "憤怒輕弩斯艾阿格烏勒勒"
+    },
+    {
+      "index": "1008",
+      "target": "特歐德阿伊S猫十"
+    },
+    {
+      "index": "1009",
+      "target": "特歐德阿伊S猫HO"
+    },
+    {
+      "index": "1010",
+      "target": "特歐德阿伊S猫沸血吼"
+    },
+    {
+      "index": "1011",
+      "target": "夫歐爾斯艾夫艾爾爾歐"
+    },
+    {
+      "index": "1012",
+      "target": "夫歐爾斯艾阿克克伊阿克歐"
+    },
+    {
+      "index": "1013",
+      "target": "夫歐爾斯艾歐羅"
+    },
+    {
+      "index": "1014",
+      "target": "黄晶基利Ⅰ"
+    },
+    {
+      "index": "1015",
+      "target": "黄晶基利Ⅱ"
+    },
+    {
+      "index": "1016",
+      "target": "黄晶基利Ⅲ"
+    },
+    {
+      "index": "1017",
+      "target": "黄晶基利Ⅳ"
+    },
+    {
+      "index": "1018",
+      "target": "弓鋼斯哈艾勒勒克伊恩"
+    },
+    {
+      "index": "1019",
+      "target": "鐵壁斯哈艾勒勒克伊恩弓"
+    },
+    {
+      "index": "1024",
+      "target": "多多恩阿蝕"
+    },
+    {
+      "index": "1025",
+      "target": "星雲姆伊斯斯伊勒艾"
+    },
+    {
+      "index": "1026",
+      "target": "水龍氷山"
+    },
+    {
+      "index": "1027",
+      "target": "水龍行"
+    },
+    {
+      "index": "1029",
+      "target": "伊恩伊特伊阿勒轟鳴"
+    },
+    {
+      "index": "1030",
+      "target": "格伊梅轟鳴"
+    },
+    {
+      "index": "1031",
+      "target": "里西恩轟鳴"
+    },
+    {
+      "index": "1032",
+      "target": "憤怒重弩"
+    },
+    {
+      "index": "1033",
+      "target": "憤怒重弩皮艾里達艾"
+    },
+    {
+      "index": "1034",
+      "target": "憤怒重弩白德艾瓦"
+    },
+    {
+      "index": "1035",
+      "target": "砂漠爾烏勒艾爾"
+    },
+    {
+      "index": "1036",
+      "target": "砂漠爾烏勒艾爾＋"
+    },
+    {
+      "index": "1037",
+      "target": "角龍加農砲"
+    },
+    {
+      "index": "1038",
+      "target": "黑爾烏勒艾爾"
+    },
+    {
+      "index": "1039",
+      "target": "黑爾烏勒艾爾＋"
+    },
+    {
+      "index": "1040",
+      "target": "角龍黑加農砲"
+    },
+    {
+      "index": "1041",
+      "target": "爾歐特德烏恩艾"
+    },
+    {
+      "index": "1045",
+      "target": "布烏特杰阿艾格艾爾"
+    },
+    {
+      "index": "1046",
+      "target": "布烏特格艾瓦艾哈爾"
+    },
+    {
+      "index": "1047",
+      "target": "布烏特斯伊艾格艾恩"
+    },
+    {
+      "index": "1048",
+      "target": "格阿爾烏格烏恩"
+    },
+    {
+      "index": "1049",
+      "target": "黑狼鳥銃"
+    },
+    {
+      "index": "1050",
+      "target": "黑狼鳥銃新"
+    },
+    {
+      "index": "1051",
+      "target": "狐布艾艾澤"
+    },
+    {
+      "index": "1052",
+      "target": "狐特艾姆普艾斯特阿"
+    },
+    {
+      "index": "1053",
+      "target": "強音龍巻"
+    },
+    {
+      "index": "1054",
+      "target": "輪唱利尼艾"
+    },
+    {
+      "index": "1055",
+      "target": "雷伊諾里弗艾"
+    },
+    {
+      "index": "1056",
+      "target": "雷普布伊可里弗艾"
+    },
+    {
+      "index": "1057",
+      "target": "夫艾德艾爾阿特伊里弗艾"
+    },
+    {
+      "index": "1058",
+      "target": "布阿爾歐恩發射器"
+    },
+    {
+      "index": "1059",
+      "target": "克歐恩德艾發射器"
+    },
+    {
+      "index": "1060",
+      "target": "姆阿爾奎烏伊斯發射器"
+    },
+    {
+      "index": "1061",
+      "target": "炎王S焔"
+    },
+    {
+      "index": "1062",
+      "target": "炎王S業火"
+    },
+    {
+      "index": "1063",
+      "target": "弓的羽"
+    },
+    {
+      "index": "1064",
+      "target": "兜帽的羽"
+    },
+    {
+      "index": "1065",
+      "target": "羽克爾歐瓦"
+    },
+    {
+      "index": "1066",
+      "target": "羽克爾艾斯克艾恩特"
+    },
+    {
+      "index": "1071",
+      "target": "斯哈歐克克斯羅凱"
+    },
+    {
+      "index": "1072",
+      "target": "雷斯羅凱"
+    },
+    {
+      "index": "1073",
+      "target": "雷斯羅凱"
+    },
+    {
+      "index": "1074",
+      "target": "風暴打撃"
+    },
+    {
+      "index": "1075",
+      "target": "蜥蜴斯羅凱"
+    },
+    {
+      "index": "1076",
+      "target": "德阿凱斯羅凱"
+    },
+    {
+      "index": "1077",
+      "target": "飛龍斯羅凱"
+    },
+    {
+      "index": "1078",
+      "target": "龍打撃"
+    },
+    {
+      "index": "1079",
+      "target": "火城堡"
+    },
+    {
+      "index": "1080",
+      "target": "炎城堡"
+    },
+    {
+      "index": "1081",
+      "target": "熾城堡"
+    },
+    {
+      "index": "1082",
+      "target": "輝城堡"
+    },
+    {
+      "index": "1083",
+      "target": "冰城堡"
+    },
+    {
+      "index": "1084",
+      "target": "冰柱城堡"
+    },
+    {
+      "index": "1085",
+      "target": "霜城堡"
+    },
+    {
+      "index": "1086",
+      "target": "冰城堡"
+    },
+    {
+      "index": "1087",
+      "target": "斯普阿爾克伊恩格城堡"
+    },
+    {
+      "index": "1088",
+      "target": "普勒阿斯姆阿城堡"
+    },
+    {
+      "index": "1089",
+      "target": "雷城堡"
+    },
+    {
+      "index": "1090",
+      "target": "雷城堡"
+    },
+    {
+      "index": "1091",
+      "target": "弓可多"
+    },
+    {
+      "index": "1092",
+      "target": "可多城堡"
+    },
+    {
+      "index": "1093",
+      "target": "可多阿爾克"
+    },
+    {
+      "index": "1094",
+      "target": "輪唱姆伊斯特艾勒"
+    },
+    {
+      "index": "1095",
+      "target": "爾歐特艾斯克阿普伊特艾勒"
+    },
+    {
+      "index": "1096",
+      "target": "紫水晶渡鴉Ⅰ"
+    },
+    {
+      "index": "1097",
+      "target": "紫水晶渡鴉Ⅱ"
+    },
+    {
+      "index": "1098",
+      "target": "紫水晶渡鴉Ⅲ"
+    },
+    {
+      "index": "1099",
+      "target": "紫水晶渡鴉Ⅳ"
+    },
+    {
+      "index": "1100",
+      "target": "紫水晶渡鴉Ⅴ"
+    },
+    {
+      "index": "1101",
+      "target": "蘇艾茲Ⅰ"
+    },
+    {
+      "index": "1102",
+      "target": "蘇艾茲Ⅱ"
+    },
+    {
+      "index": "1103",
+      "target": "蘇艾茲Ⅲ"
+    },
+    {
+      "index": "1104",
+      "target": "蘇艾茲斯哈伊勒克阿"
+    },
+    {
+      "index": "1105",
+      "target": "炎王S炎"
+    },
+    {
+      "index": "1106",
+      "target": "月神S德爾艾阿德"
+    },
+    {
+      "index": "1107",
+      "target": "哈特的角"
+    },
+    {
+      "index": "1108",
+      "target": "憤怒的角"
+    },
+    {
+      "index": "1109",
+      "target": "爾阿姆普阿格艾角"
+    },
+    {
+      "index": "1110",
+      "target": "未來迪斯奎烏阿勒勒"
+    },
+    {
+      "index": "1111",
+      "target": "未來迪恩艾普哈特哈伊斯"
+    },
+    {
+      "index": "1112",
+      "target": "瓦艾伊斯斯艾爾克爾阿特艾爾"
+    },
+    {
+      "index": "1113",
+      "target": "魔女斯奎烏阿勒勒"
+    },
+    {
+      "index": "1114",
+      "target": "魔女普艾普哈特伊斯"
+    },
+    {
+      "index": "1115",
+      "target": "斯克哈瓦阿爾茲艾克爾阿特艾爾"
+    },
+    {
+      "index": "1116",
+      "target": "紫水晶河豚Ⅰ"
+    },
+    {
+      "index": "1117",
+      "target": "紫水晶河豚Ⅱ"
+    },
+    {
+      "index": "1118",
+      "target": "紫水晶河豚Ⅲ"
+    },
+    {
+      "index": "1119",
+      "target": "紫水晶河豚Ⅳ"
+    },
+    {
+      "index": "1120",
+      "target": "阿祖瑪里弗艾"
+    },
+    {
+      "index": "1121",
+      "target": "阿祖瑪德里弗艾"
+    },
+    {
+      "index": "1123",
+      "target": "阿祖瑪薔薇"
+    },
+    {
+      "index": "1124",
+      "target": "阿祖瑪德羅瑟"
+    },
+    {
+      "index": "1126",
+      "target": "嵐龍S伊姆布艾勒勒"
+    },
+    {
+      "index": "1127",
+      "target": "嵐龍S夫勒烏格艾勒"
+    },
+    {
+      "index": "1128",
+      "target": "恩伊格艾爾S夫勒烏格艾勒"
+    },
+    {
+      "index": "1129",
+      "target": "爾艾烏斯叫"
+    },
+    {
+      "index": "1130",
+      "target": "爾艾烏斯哈歐瓦勒"
+    },
+    {
+      "index": "1131",
+      "target": "爾艾烏斯轟鳴"
+    },
+    {
+      "index": "1132",
+      "target": "維勒斯７５０７"
+    },
+    {
+      "index": "1133",
+      "target": "希梅可布阿特特勒艾爾"
+    },
+    {
+      "index": "1136",
+      "target": "憤怒弓"
+    },
+    {
+      "index": "1137",
+      "target": "憤怒弓夜霧"
+    },
+    {
+      "index": "1138",
+      "target": "憤怒弓氷雨"
+    },
+    {
+      "index": "1139",
+      "target": "憤怒弓吹雪"
+    },
+    {
+      "index": "1140",
+      "target": "憤怒弓冬"
+    },
+    {
+      "index": "1141",
+      "target": "息的鋏"
+    },
+    {
+      "index": "1142",
+      "target": "斯伊格哈鋏"
+    },
+    {
+      "index": "1143",
+      "target": "格阿斯普鋏"
+    },
+    {
+      "index": "1144",
+      "target": "奇歐凱的鋏"
+    },
+    {
+      "index": "1148",
+      "target": "德艾斯特歐恩伊勒"
+    },
+    {
+      "index": "1152",
+      "target": "庫修阿S雷拉"
+    },
+    {
+      "index": "1153",
+      "target": "庫修阿S伊貝"
+    },
+    {
+      "index": "1154",
+      "target": "庫修阿S普艾斯歐斯"
+    },
+    {
+      "index": "1155",
+      "target": "可多斯奎烏阿勒勒"
+    },
+    {
+      "index": "1156",
+      "target": "可多普艾夫特伊斯"
+    },
+    {
+      "index": "1157",
+      "target": "爾歐特克爾阿特艾"
+    },
+    {
+      "index": "1158",
+      "target": "輪唱克爾歐恩艾"
+    },
+    {
+      "index": "1159",
+      "target": "米娜爾伊歐斯"
+    },
+    {
+      "index": "1160",
+      "target": "米娜歐克特歐"
+    },
+    {
+      "index": "1161",
+      "target": "米娜姆阿伊歐斯"
+    },
+    {
+      "index": "1162",
+      "target": "可愛銃"
+    },
+    {
+      "index": "1163",
+      "target": "可愛強襲"
+    },
+    {
+      "index": "1164",
+      "target": "可愛斯普勒阿斯哈"
+    },
+    {
+      "index": "1165",
+      "target": "布阿布伊銃"
+    },
+    {
+      "index": "1166",
+      "target": "布阿布伊強襲"
+    },
+    {
+      "index": "1167",
+      "target": "布阿布伊爆裂"
+    },
+    {
+      "index": "1168",
+      "target": "紫水晶基利Ⅰ"
+    },
+    {
+      "index": "1169",
+      "target": "紫水晶基利Ⅱ"
+    },
+    {
+      "index": "1170",
+      "target": "紫水晶基利Ⅲ"
+    },
+    {
+      "index": "1171",
+      "target": "紫水晶基利Ⅳ"
+    },
+    {
+      "index": "1172",
+      "target": "未來迪斯歐里"
+    },
+    {
+      "index": "1173",
+      "target": "未來迪勒阿瓦"
+    },
+    {
+      "index": "1174",
+      "target": "未來迪斯拉達"
+    },
+    {
+      "index": "1175",
+      "target": "瓦艾伊斯斯格勒阿"
+    },
+    {
+      "index": "1176",
+      "target": "瓦艾伊斯斯斯特艾"
+    },
+    {
+      "index": "1177",
+      "target": "魔女S斯歐里"
+    },
+    {
+      "index": "1178",
+      "target": "魔女S勒阿瓦"
+    },
+    {
+      "index": "1179",
+      "target": "魔女斯拉達"
+    },
+    {
+      "index": "1180",
+      "target": "斯克哈瓦阿爾茲格"
+    },
+    {
+      "index": "1181",
+      "target": "斯克哈瓦阿爾茲斯"
+    },
+    {
+      "index": "1182",
+      "target": "弓閃光影"
+    },
+    {
+      "index": "1183",
+      "target": "弓閃光影盤歌聲"
+    },
+    {
+      "index": "1184",
+      "target": "弓閃光影斯瓦伊夫特"
+    },
+    {
+      "index": "1185",
+      "target": "弓閃光影布勒伊恩克"
+    },
+    {
+      "index": "1186",
+      "target": "弓藍"
+    },
+    {
+      "index": "1187",
+      "target": "弓藍青"
+    },
+    {
+      "index": "1188",
+      "target": "弓藍紺"
+    },
+    {
+      "index": "1189",
+      "target": "弓藍奎烏伊艾特"
+    },
+    {
+      "index": "1190",
+      "target": "弓德伊茲茲勒"
+    },
+    {
+      "index": "1191",
+      "target": "弓德伊茲茲勒德爾歐普"
+    },
+    {
+      "index": "1192",
+      "target": "弓德伊茲茲勒霧"
+    },
+    {
+      "index": "1193",
+      "target": "弓德伊茲茲勒雲"
+    },
+    {
+      "index": "1194",
+      "target": "弓緋"
+    },
+    {
+      "index": "1195",
+      "target": "弓緋深紅"
+    },
+    {
+      "index": "1196",
+      "target": "弓緋朱紅"
+    },
+    {
+      "index": "1197",
+      "target": "弓緋炎"
+    },
+    {
+      "index": "1198",
+      "target": "弓特哈烏恩德艾爾克"
+    },
+    {
+      "index": "1199",
+      "target": "弓特哈恩德爾克勒阿雷"
+    },
+    {
+      "index": "1200",
+      "target": "弓特哈烏恩德艾爾克雷"
+    },
+    {
+      "index": "1201",
+      "target": "弓特哈烏恩德艾爾克格勒伊恩特"
+    },
+    {
+      "index": "1202",
+      "target": "弓黒"
+    },
+    {
+      "index": "1203",
+      "target": "弓黑艾維尼恩"
+    },
+    {
+      "index": "1204",
+      "target": "弓黒夜"
+    },
+    {
+      "index": "1205",
+      "target": "弓黑艾特艾爾恩伊特伊"
+    },
+    {
+      "index": "1206",
+      "target": "恩奇霜弓"
+    },
+    {
+      "index": "1207",
+      "target": "恩奇猛霜弓"
+    },
+    {
+      "index": "1208",
+      "target": "恩奇凶暴霜弓"
+    },
+    {
+      "index": "1209",
+      "target": "弓試作工房"
+    },
+    {
+      "index": "1210",
+      "target": "弓歐夫夫伊克伊阿勒工房"
+    },
+    {
+      "index": "1211",
+      "target": "弓歐夫夫伊克伊阿勒工房＋"
+    },
+    {
+      "index": "1212",
+      "target": "夫阿克特歐爾伊克哈伊艾夫勒歐恩格布歐瓦"
+    },
+    {
+      "index": "1216",
+      "target": "夫克特歐爾伊克哈伊艾夫勒歐恩格布歐瓦雨"
+    },
+    {
+      "index": "1217",
+      "target": "瓦艾伊斯克阿普伊"
+    },
+    {
+      "index": "1218",
+      "target": "斯克哈瓦阿爾茲克"
+    },
+    {
+      "index": "1221",
+      "target": "銀白加農砲"
+    },
+    {
+      "index": "1222",
+      "target": "銀白發射器"
+    },
+    {
+      "index": "1223",
+      "target": "茲伊勒維阿瓦伊艾"
+    },
+    {
+      "index": "1224",
+      "target": "茲伊勒維阿德烏恩"
+    },
+    {
+      "index": "1225",
+      "target": "銀白弩"
+    },
+    {
+      "index": "1227",
+      "target": "茲伊勒維阿格艾爾"
+    },
+    {
+      "index": "1228",
+      "target": "茲伊勒維阿勒伊恩"
+    },
+    {
+      "index": "1229",
+      "target": "弓銀白"
+    },
+    {
+      "index": "1230",
+      "target": "銀白城堡"
+    },
+    {
+      "index": "1231",
+      "target": "茲伊勒維阿姆伊斯"
+    },
+    {
+      "index": "1232",
+      "target": "茲伊勒維阿克阿普"
+    },
+    {
+      "index": "1233",
+      "target": "力量斯特伊恩格艾爾"
+    },
+    {
+      "index": "1234",
+      "target": "野斯特伊恩格艾爾"
+    },
+    {
+      "index": "1235",
+      "target": "致命斯特伊恩克艾爾"
+    },
+    {
+      "index": "1236",
+      "target": "庫庫夫伊爾艾布伊爾德"
+    },
+    {
+      "index": "1237",
+      "target": "庫庫維伊普艾爾"
+    },
+    {
+      "index": "1239",
+      "target": "哈艾阿爾特勒艾斯斯阿特阿恩"
+    },
+    {
+      "index": "1240",
+      "target": "哈艾阿爾特勒艾斯炎"
+    },
+    {
+      "index": "1241",
+      "target": "哈艾阿爾特勒艾斯勒烏克斯烏斯"
+    },
+    {
+      "index": "1242",
+      "target": "女王爆裂"
+    },
+    {
+      "index": "1243",
+      "target": "女王S旋律"
+    },
+    {
+      "index": "1244",
+      "target": "女王S爾哈阿普斯歐德伊"
+    },
+    {
+      "index": "1245",
+      "target": "女王S布勒伊特茲"
+    },
+    {
+      "index": "1246",
+      "target": "水龍奎烏伊艾特弓"
+    },
+    {
+      "index": "1247",
+      "target": "水龍動作弓"
+    },
+    {
+      "index": "1248",
+      "target": "水龍凶暴弓"
+    },
+    {
+      "index": "1249",
+      "target": "水龍凶暴弓"
+    },
+    {
+      "index": "1250",
+      "target": "嵐龍S勒烏姆艾恩"
+    },
+    {
+      "index": "1251",
+      "target": "嵐龍S特涅布阿"
+    },
+    {
+      "index": "1252",
+      "target": "恩伊格艾爾S特貝拉"
+    },
+    {
+      "index": "1253",
+      "target": "格爾阿維艾勒艾伊"
+    },
+    {
+      "index": "1254",
+      "target": "格阿維利娜"
+    },
+    {
+      "index": "1255",
+      "target": "格爾阿維伊夫爾艾"
+    },
+    {
+      "index": "1256",
+      "target": "涅羅S哈歐瓦勒"
+    },
+    {
+      "index": "1257",
+      "target": "涅羅S轟鳴"
+    },
+    {
+      "index": "1258",
+      "target": "涅羅S爆裂"
+    },
+    {
+      "index": "1259",
+      "target": "α克阿恩伊斯斯恩歐瓦斯特歐爾"
+    },
+    {
+      "index": "1260",
+      "target": "雪鹿布歐姆布艾爾"
+    },
+    {
+      "index": "1261",
+      "target": "懷斯納桃毛"
+    },
+    {
+      "index": "1262",
+      "target": "斯克哈瓦阿爾茲納桃毛"
+    },
+    {
+      "index": "1263",
+      "target": "角龍夫伊爾艾阿爾姆"
+    },
+    {
+      "index": "1264",
+      "target": "德伊阿布勒阿克克夫伊爾艾阿爾姆"
+    },
+    {
+      "index": "1265",
+      "target": "龍老山加農砲"
+    },
+    {
+      "index": "1266",
+      "target": "維歐爾可諾涅"
+    },
+    {
+      "index": "1267",
+      "target": "稀有金属夫爾阿姆艾"
+    },
+    {
+      "index": "1268",
+      "target": "瓦艾伊斯斯克爾歐"
+    },
+    {
+      "index": "1269",
+      "target": "斯克哈瓦阿爾茲克"
+    },
+    {
+      "index": "1270",
+      "target": "輕弩緋"
+    },
+    {
+      "index": "1271",
+      "target": "輕弩緋爾伊普普勒艾"
+    },
+    {
+      "index": "1272",
+      "target": "輕弩緋鳥"
+    },
+    {
+      "index": "1273",
+      "target": "輕弩緋爾霧野"
+    },
+    {
+      "index": "1274",
+      "target": "阿爾特艾姆伊斯心"
+    },
+    {
+      "index": "1275",
+      "target": "阿爾特艾姆伊斯布阿爾艾特特阿"
+    },
+    {
+      "index": "1276",
+      "target": "阿爾特艾姆伊斯蜂"
+    },
+    {
+      "index": "1277",
+      "target": "烏尼阿塔"
+    },
+    {
+      "index": "1278",
+      "target": "烏恩伊阿特特伊"
+    },
+    {
+      "index": "1279",
+      "target": "烏恩伊阿特特伊加諾"
+    },
+    {
+      "index": "1280",
+      "target": "艾克爾烏特艾爾"
+    },
+    {
+      "index": "1284",
+      "target": "未來迪布阿伊歐恩艾特"
+    },
+    {
+      "index": "1285",
+      "target": "瓦艾伊斯斯艾克恩歐斯普艾"
+    },
+    {
+      "index": "1286",
+      "target": "瓦艾伊斯斯艾布烏梅"
+    },
+    {
+      "index": "1288",
+      "target": "魔女布阿伊歐恩艾特"
+    },
+    {
+      "index": "1289",
+      "target": "斯克哈瓦阿爾茲艾克恩歐斯普艾"
+    },
+    {
+      "index": "1290",
+      "target": "斯克哈瓦阿爾茲艾布烏梅"
+    },
+    {
+      "index": "1291",
+      "target": "瓦艾伊斯斯勒伊恩"
+    },
+    {
+      "index": "1292",
+      "target": "斯克哈瓦阿爾茲勒"
+    },
+    {
+      "index": "1293",
+      "target": "火閃光怒"
+    },
+    {
+      "index": "1294",
+      "target": "汚包帯"
+    },
+    {
+      "index": "1295",
+      "target": "斯艾艾皮恩惡魔"
+    },
+    {
+      "index": "1296",
+      "target": "弓緋"
+    },
+    {
+      "index": "1297",
+      "target": "弓緋格勒伊恩特"
+    },
+    {
+      "index": "1298",
+      "target": "弓緋克歐爾姆歐爾阿恩"
+    },
+    {
+      "index": "1299",
+      "target": "弓緋伊恩斯伊格哈特"
+    },
+    {
+      "index": "1300",
+      "target": "弓緋艾阿格艾眼"
+    },
+    {
+      "index": "1301",
+      "target": "弓緋哈阿瓦克眼"
+    },
+    {
+      "index": "1302",
+      "target": "霸龍弓"
+    },
+    {
+      "index": "1303",
+      "target": "霸龍斯烏普爾艾姆阿克"
+    },
+    {
+      "index": "1304",
+      "target": "霸龍克歐姆姆阿恩德姆"
+    },
+    {
+      "index": "1305",
+      "target": "霸龍特伊爾阿恩恩伊"
+    },
+    {
+      "index": "1306",
+      "target": "弓勇Ⅰ"
+    },
+    {
+      "index": "1307",
+      "target": "弓勇Ⅱ"
+    },
+    {
+      "index": "1308",
+      "target": "弓勇Ⅲ"
+    },
+    {
+      "index": "1309",
+      "target": "勇射手"
+    },
+    {
+      "index": "1310",
+      "target": "恩奇風暴弓"
+    },
+    {
+      "index": "1311",
+      "target": "恩奇猛風暴弓"
+    },
+    {
+      "index": "1312",
+      "target": "恩奇凶暴風暴弓"
+    },
+    {
+      "index": "1313",
+      "target": "天蠍阿奎烏阿布歐瓦"
+    },
+    {
+      "index": "1314",
+      "target": "天蠍猛阿奎烏阿布歐瓦"
+    },
+    {
+      "index": "1315",
+      "target": "天蠍凶暴焔弓"
+    },
+    {
+      "index": "1323",
+      "target": "EL阿斯斯阿斯斯伊恩"
+    },
+    {
+      "index": "1324",
+      "target": "尾晶蠍弓"
+    },
+    {
+      "index": "1325",
+      "target": "尾晶蠍矢"
+    },
+    {
+      "index": "1326",
+      "target": "尾晶蠍弾"
+    },
+    {
+      "index": "1327",
+      "target": "尾晶蠍爆裂"
+    },
+    {
+      "index": "1328",
+      "target": "弓黒霧"
+    },
+    {
+      "index": "1329",
+      "target": "弓深海里烏古"
+    },
+    {
+      "index": "1330",
+      "target": "弓心弾Ⅲ"
+    },
+    {
+      "index": "1331",
+      "target": "龍弓爾烏伊恩斯"
+    },
+    {
+      "index": "1332",
+      "target": "夫歐爾特艾阿夫勒阿特烏斯"
+    },
+    {
+      "index": "1334",
+      "target": "多殼蟹加農砲"
+    },
+    {
+      "index": "1335",
+      "target": "多殼蟹加農砲阿斯普伊德伊斯特"
+    },
+    {
+      "index": "1336",
+      "target": "多殼蟹加農砲格烏恩恩艾爾阿"
+    },
+    {
+      "index": "1337",
+      "target": "特阿伊克阿恩恩歐德伊斯歐斯姆阿"
+    },
+    {
+      "index": "1338",
+      "target": "憤怒重弩桜ＳＰ"
+    },
+    {
+      "index": "1339",
+      "target": "熔岩息重弩"
+    },
+    {
+      "index": "1340",
+      "target": "熔岩聲重弩"
+    },
+    {
+      "index": "1341",
+      "target": "熔岩歌重布歐瓦烏恩"
+    },
+    {
+      "index": "1342",
+      "target": "斯烏克克艾斯斯伊銃"
+    },
+    {
+      "index": "1343",
+      "target": "艾拉斯烏克克艾斯斯伊弩"
+    },
+    {
+      "index": "1344",
+      "target": "阿瓦斯烏克克艾斯斯伊弩"
+    },
+    {
+      "index": "1345",
+      "target": "阿爾布斯烏克克艾斯斯伊弩"
+    },
+    {
+      "index": "1346",
+      "target": "鋼龍S德伊維伊恩伊特伊"
+    },
+    {
+      "index": "1347",
+      "target": "戰車法師"
+    },
+    {
+      "index": "1348",
+      "target": "熔岩哈艾爾艾特伊克"
+    },
+    {
+      "index": "1349",
+      "target": "鎧龍哈歐瓦勒"
+    },
+    {
+      "index": "1350",
+      "target": "俄菲翁發射器"
+    },
+    {
+      "index": "1351",
+      "target": "俄菲翁發射器閃光"
+    },
+    {
+      "index": "1352",
+      "target": "俄菲翁發射器光輝"
+    },
+    {
+      "index": "1353",
+      "target": "俄菲翁發射器栄光"
+    },
+    {
+      "index": "1354",
+      "target": "夫艾爾爾烏姆薔薇"
+    },
+    {
+      "index": "1355",
+      "target": "克歐歐普艾爾薔薇"
+    },
+    {
+      "index": "1356",
+      "target": "金属薔薇"
+    },
+    {
+      "index": "1357",
+      "target": "炎王S彈幕"
+    },
+    {
+      "index": "1358",
+      "target": "円舞曲冰彈"
+    },
+    {
+      "index": "1359",
+      "target": "円舞曲猛冰彈"
+    },
+    {
+      "index": "1360",
+      "target": "円舞曲螺鈿終冰彈"
+    },
+    {
+      "index": "1361",
+      "target": "維勒斯９７０１"
+    },
+    {
+      "index": "1362",
+      "target": "赤猫永"
+    },
+    {
+      "index": "1363",
+      "target": "納桃毛加農砲"
+    },
+    {
+      "index": "1364",
+      "target": "特歐德阿伊S猫霍烏瑟"
+    },
+    {
+      "index": "1365",
+      "target": "狂加勒"
+    },
+    {
+      "index": "1366",
+      "target": "哈阿伊勒布烏勒勒白"
+    },
+    {
+      "index": "1367",
+      "target": "鐵火銃＋"
+    },
+    {
+      "index": "1368",
+      "target": "艾烏勒艾恩克勒伊"
+    },
+    {
+      "index": "1369",
+      "target": "夫阿勒克艾恩克勒"
+    },
+    {
+      "index": "1370",
+      "target": "阿德勒艾爾克勒伊"
+    },
+    {
+      "index": "1371",
+      "target": "哈伊姆姆艾勒等級"
+    },
+    {
+      "index": "1372",
+      "target": "布勒伊特茲等級"
+    },
+    {
+      "index": "1373",
+      "target": "弓霜"
+    },
+    {
+      "index": "1374",
+      "target": "弓霜耐寒瓦維"
+    },
+    {
+      "index": "1375",
+      "target": "弓霜氷花"
+    },
+    {
+      "index": "1376",
+      "target": "弓霜恩歐爾特哈瓦伊恩"
+    },
+    {
+      "index": "1377",
+      "target": "杜羅迪阿"
+    },
+    {
+      "index": "1378",
+      "target": "克歐爾德烏爾歐德"
+    },
+    {
+      "index": "1379",
+      "target": "波杜羅迪阿"
+    },
+    {
+      "index": "1381",
+      "target": "特阿姆伊勒初音未"
+    },
+    {
+      "index": "1385",
+      "target": "天蠍焔弓"
+    },
+    {
+      "index": "1386",
+      "target": "天蠍猛焔弓"
+    },
+    {
+      "index": "1387",
+      "target": "天蠍凶暴焔弓"
+    },
+    {
+      "index": "1388",
+      "target": "弓幸運"
+    },
+    {
+      "index": "1389",
+      "target": "幸運斯歐勒伊斯"
+    },
+    {
+      "index": "1390",
+      "target": "幸運月"
+    },
+    {
+      "index": "1391",
+      "target": "拉比納"
+    },
+    {
+      "index": "1392",
+      "target": "可多斯特爾伊艾爾"
+    },
+    {
+      "index": "1393",
+      "target": "可多斯特阿爾克"
+    },
+    {
+      "index": "1394",
+      "target": "爾歐特格勒阿恩茲"
+    },
+    {
+      "index": "1395",
+      "target": "爾歐特斯特艾爾恩"
+    },
+    {
+      "index": "1400",
+      "target": "心射手"
+    },
+    {
+      "index": "1401",
+      "target": "弓凍結革"
+    },
+    {
+      "index": "1402",
+      "target": "弓德伊夫夫"
+    },
+    {
+      "index": "1403",
+      "target": "伊恩維伊恩克伊布泰里法Ｂ"
+    },
+    {
+      "index": "1404",
+      "target": "斯克哈瓦阿爾茲爾"
+    },
+    {
+      "index": "1405",
+      "target": "咆哮旅團銃"
+    },
+    {
+      "index": "1406",
+      "target": "斯克哈瓦阿爾茲斯"
+    },
+    {
+      "index": "1407",
+      "target": "維勒斯９７００α"
+    },
+    {
+      "index": "1408",
+      "target": "斯克哈瓦阿爾茲特"
+    },
+    {
+      "index": "1409",
+      "target": "弓黑德阿爾克恩艾斯斯"
+    },
+    {
+      "index": "1410",
+      "target": "結晶重弩"
+    },
+    {
+      "index": "1411",
+      "target": "重弩勒烏克艾恩特結晶"
+    },
+    {
+      "index": "1412",
+      "target": "重弩閃光結晶"
+    },
+    {
+      "index": "1414",
+      "target": "阿烏夫克勒伊恩格艾"
+    },
+    {
+      "index": "1415",
+      "target": "弓克勒伊恩格艾"
+    },
+    {
+      "index": "1416",
+      "target": "茲伊艾勒艾恩克勒伊恩格艾"
+    },
+    {
+      "index": "1417",
+      "target": "怒爾艾布艾勒"
+    },
+    {
+      "index": "1418",
+      "target": "渡鴉哈艾伊爾勒歐歐歐"
+    },
+    {
+      "index": "1419",
+      "target": "狼哈艾伊爾勒歐歐歐"
+    },
+    {
+      "index": "1420",
+      "target": "克爾歐瓦傳家"
+    },
+    {
+      "index": "1421",
+      "target": "俄菲翁加農砲"
+    },
+    {
+      "index": "1422",
+      "target": "俄菲翁加農砲閃光"
+    },
+    {
+      "index": "1423",
+      "target": "俄菲翁加農砲光輝"
+    },
+    {
+      "index": "1424",
+      "target": "俄菲翁加農砲栄光"
+    },
+    {
+      "index": "1425",
+      "target": "極光加農砲"
+    },
+    {
+      "index": "1426",
+      "target": "極光發射器"
+    },
+    {
+      "index": "1427",
+      "target": "金威艾瑟"
+    },
+    {
+      "index": "1428",
+      "target": "金納桃毛"
+    },
+    {
+      "index": "1429",
+      "target": "金夫爾艾斯斯艾爾"
+    },
+    {
+      "index": "1433",
+      "target": "阿爾格烏姆球"
+    },
+    {
+      "index": "1440",
+      "target": "零型重弩"
+    },
+    {
+      "index": "1441",
+      "target": "S弩機"
+    },
+    {
+      "index": "1442",
+      "target": "巨大破壞蟹"
+    },
+    {
+      "index": "1443",
+      "target": "水龍斯克爾艾阿姆"
+    },
+    {
+      "index": "1444",
+      "target": "爾艾克克勒艾斯斯瓦伊勒德布歐阿爾爾烏恩"
+    },
+    {
+      "index": "1445",
+      "target": "爾艾克克勒艾斯斯瓦伊勒德布歐阿爾鎖鎚"
+    },
+    {
+      "index": "1446",
+      "target": "凶暴瓦伊勒德布歐阿爾銃"
+    },
+    {
+      "index": "1448",
+      "target": "憤怒輕弩維艾爾德烏爾艾SP"
+    },
+    {
+      "index": "1449",
+      "target": "極光弩"
+    },
+    {
+      "index": "1451",
+      "target": "格歐勒德格艾爾阿"
+    },
+    {
+      "index": "1452",
+      "target": "格歐勒德勒伊恩伊"
+    },
+    {
+      "index": "1453",
+      "target": "格歐勒德阿烏爾阿"
+    },
+    {
+      "index": "1454",
+      "target": "瑟伊阿花束"
+    },
+    {
+      "index": "1455",
+      "target": "斯阿利阿花束"
+    },
+    {
+      "index": "1456",
+      "target": "維艾恩烏斯花束"
+    },
+    {
+      "index": "1457",
+      "target": "姆努波花束"
+    },
+    {
+      "index": "1458",
+      "target": "奇可雷花束"
+    },
+    {
+      "index": "1459",
+      "target": "円舞曲雷彈"
+    },
+    {
+      "index": "1460",
+      "target": "円舞曲猛雷彈"
+    },
+    {
+      "index": "1461",
+      "target": "円舞曲凶暴雷彈"
+    },
+    {
+      "index": "1462",
+      "target": "伊斯恩阿弩"
+    },
+    {
+      "index": "1463",
+      "target": "伊斯恩阿布阿爾艾特特阿"
+    },
+    {
+      "index": "1464",
+      "target": "爆破伊斯恩阿"
+    },
+    {
+      "index": "1465",
+      "target": "伊斯恩阿強襲"
+    },
+    {
+      "index": "1470",
+      "target": "混沌陽傘"
+    },
+    {
+      "index": "1471",
+      "target": "拉瓦菲修光銃"
+    },
+    {
+      "index": "1472",
+      "target": "野祝福"
+    },
+    {
+      "index": "1473",
+      "target": "嵐龍S彗星"
+    },
+    {
+      "index": "1474",
+      "target": "嵐龍S斯特艾勒勒阿爾"
+    },
+    {
+      "index": "1475",
+      "target": "嵐龍S月"
+    },
+    {
+      "index": "1477",
+      "target": "恩伊格艾爾S月神"
+    },
+    {
+      "index": "1478",
+      "target": "克伊爾斯克哈夫艾"
+    },
+    {
+      "index": "1479",
+      "target": "克伊爾斯克哈夫勒"
+    },
+    {
+      "index": "1480",
+      "target": "克伊爾斯克哈哈伊"
+    },
+    {
+      "index": "1481",
+      "target": "克伊爾斯克哈斯歐"
+    },
+    {
+      "index": "1482",
+      "target": "憤怒弓斯阿克烏爾阿斯特"
+    },
+    {
+      "index": "1483",
+      "target": "灰晶蠍弓"
+    },
+    {
+      "index": "1484",
+      "target": "灰晶蠍矢"
+    },
+    {
+      "index": "1485",
+      "target": "灰晶蠍弾"
+    },
+    {
+      "index": "1486",
+      "target": "灰晶蠍爆裂"
+    },
+    {
+      "index": "1487",
+      "target": "灰晶蠍破壞"
+    },
+    {
+      "index": "1488",
+      "target": "弓極光"
+    },
+    {
+      "index": "1489",
+      "target": "極光城堡"
+    },
+    {
+      "index": "1490",
+      "target": "格歐勒德姆伊斯特"
+    },
+    {
+      "index": "1491",
+      "target": "格歐勒德克阿普伊"
+    },
+    {
+      "index": "1492",
+      "target": "格歐勒德爾艾伊斯"
+    },
+    {
+      "index": "1493",
+      "target": "月維歐勒阿爾"
+    },
+    {
+      "index": "1494",
+      "target": "月斯阿勒特阿爾"
+    },
+    {
+      "index": "1496",
+      "target": "阿姆伊克烏斯矢"
+    },
+    {
+      "index": "1497",
+      "target": "弓藍冬"
+    },
+    {
+      "index": "1498",
+      "target": "弓突進"
+    },
+    {
+      "index": "1499",
+      "target": "弓艾克斯克艾勒勒艾"
+    },
+    {
+      "index": "1500",
+      "target": "獵人力量弓Ⅴ"
+    },
+    {
+      "index": "1506",
+      "target": "重弩彗星斯哈艾艾勒克伊恩"
+    },
+    {
+      "index": "1507",
+      "target": "雷真鶴弓"
+    },
+    {
+      "index": "1508",
+      "target": "瘟疫破壞Ⅰ"
+    },
+    {
+      "index": "1509",
+      "target": "瘟疫破壞Ⅱ"
+    },
+    {
+      "index": "1510",
+      "target": "瘟疫破壞Ⅲ"
+    },
+    {
+      "index": "1511",
+      "target": "變奏惡魔Ⅰ"
+    },
+    {
+      "index": "1512",
+      "target": "變奏惡魔Ⅱ"
+    },
+    {
+      "index": "1513",
+      "target": "變奏惡魔Ⅲ"
+    },
+    {
+      "index": "1514",
+      "target": "斯克哈瓦阿爾茲夫爾艾斯斯艾恩"
+    },
+    {
+      "index": "1515",
+      "target": "斯特艾阿姆瓦歐爾重弩"
+    },
+    {
+      "index": "1516",
+      "target": "斯特艾阿姆瓦歐爾重弩＋"
+    },
+    {
+      "index": "1517",
+      "target": "重弩超斯特艾阿姆瓦歐爾"
+    },
+    {
+      "index": "1518",
+      "target": "斯艾爾阿斯多型加農砲"
+    },
+    {
+      "index": "1520",
+      "target": "鋼龍S西利可"
+    },
+    {
+      "index": "1523",
+      "target": "姆艾勒茲阿下位"
+    },
+    {
+      "index": "1527",
+      "target": "重弩光結晶"
+    },
+    {
+      "index": "1528",
+      "target": "重弩輝結晶"
+    },
+    {
+      "index": "1529",
+      "target": "重弩閃結晶"
+    },
+    {
+      "index": "1530",
+      "target": "重弩輝耀結晶"
+    },
+    {
+      "index": "1531",
+      "target": "真浮游普艾阿克銃"
+    },
+    {
+      "index": "1532",
+      "target": "可愛弩"
+    },
+    {
+      "index": "1533",
+      "target": "可愛弩＋"
+    },
+    {
+      "index": "1534",
+      "target": "可愛伊姆普阿克特"
+    },
+    {
+      "index": "1535",
+      "target": "可愛心"
+    },
+    {
+      "index": "1536",
+      "target": "疫病弩I"
+    },
+    {
+      "index": "1537",
+      "target": "疫病弩Ⅱ"
+    },
+    {
+      "index": "1538",
+      "target": "疫病弩Ⅲ"
+    },
+    {
+      "index": "1539",
+      "target": "變奏普伊斯特歐勒I"
+    },
+    {
+      "index": "1540",
+      "target": "變奏普伊斯特歐勒Ⅱ"
+    },
+    {
+      "index": "1541",
+      "target": "變奏普伊斯特歐勒Ⅲ"
+    },
+    {
+      "index": "1542",
+      "target": "斯克哈瓦阿爾茲阿"
+    },
+    {
+      "index": "1545",
+      "target": "輪唱克恩歐斯普艾"
+    },
+    {
+      "index": "1546",
+      "target": "輪唱布烏梅"
+    },
+    {
+      "index": "1547",
+      "target": "肉加農砲瓦艾勒勒完成"
+    },
+    {
+      "index": "1551",
+      "target": "普伊斯斯烏爾艾可利"
+    },
+    {
+      "index": "1552",
+      "target": "普伊斯斯烏爾克勒伊恩"
+    },
+    {
+      "index": "1553",
+      "target": "普伊斯斯烏爾呼"
+    },
+    {
+      "index": "1554",
+      "target": "騎乘修阿斯阿"
+    },
+    {
+      "index": "1555",
+      "target": "宏偉阿莫雷"
+    },
+    {
+      "index": "1556",
+      "target": "勒艾布艾恩薔薇"
+    },
+    {
+      "index": "1557",
+      "target": "多殼蟹弓"
+    },
+    {
+      "index": "1558",
+      "target": "多殼蟹弓科伊克斯"
+    },
+    {
+      "index": "1559",
+      "target": "多殼蟹弓普艾恩恩伊斯艾特"
+    },
+    {
+      "index": "1560",
+      "target": "多殼蟹大弓布伊扎"
+    },
+    {
+      "index": "1561",
+      "target": "多殼蟹大弓烏布梅"
+    },
+    {
+      "index": "1562",
+      "target": "崩龍S古魯阿"
+    },
+    {
+      "index": "1563",
+      "target": "弓疫病I"
+    },
+    {
+      "index": "1564",
+      "target": "弓疫病Ⅱ"
+    },
+    {
+      "index": "1565",
+      "target": "弓疫病Ⅲ"
+    },
+    {
+      "index": "1566",
+      "target": "弓變奏I"
+    },
+    {
+      "index": "1567",
+      "target": "弓變奏Ⅱ"
+    },
+    {
+      "index": "1568",
+      "target": "弓變奏Ⅲ"
+    },
+    {
+      "index": "1569",
+      "target": "斯克哈瓦阿爾茲爾"
+    },
+    {
+      "index": "1570",
+      "target": "弓旅團Ⅶ"
+    },
+    {
+      "index": "1571",
+      "target": "環節Ⅰ"
+    },
+    {
+      "index": "1572",
+      "target": "環節Ⅱ"
+    },
+    {
+      "index": "1573",
+      "target": "環節Ⅲ"
+    },
+    {
+      "index": "1574",
+      "target": "環節杰阿克克斯歐恩"
+    },
+    {
+      "index": "1575",
+      "target": "水射手"
+    },
+    {
+      "index": "1576",
+      "target": "沼射手"
+    },
+    {
+      "index": "1577",
+      "target": "霧射手"
+    },
+    {
+      "index": "1578",
+      "target": "伊爾瓦伊恩射手"
+    },
+    {
+      "index": "1580",
+      "target": "姆歐德歐恩斯哈歐特艾爾"
+    },
+    {
+      "index": "1581",
+      "target": "布爾歐恩射手"
+    },
+    {
+      "index": "1582",
+      "target": "爾艾維阿伊射手"
+    },
+    {
+      "index": "1583",
+      "target": "麦酒射手"
+    },
+    {
+      "index": "1584",
+      "target": "小射手"
+    },
+    {
+      "index": "1585",
+      "target": "烏科巴射手"
+    },
+    {
+      "index": "1586",
+      "target": "硫黄射手"
+    },
+    {
+      "index": "1587",
+      "target": "紅玉渡鴉Ⅵ"
+    },
+    {
+      "index": "1599",
+      "target": "拉斯發射器"
+    },
+    {
+      "index": "1600",
+      "target": "龍臼"
+    },
+    {
+      "index": "1601",
+      "target": "利歐特艾姆普艾斯特阿"
+    },
+    {
+      "index": "1602",
+      "target": "要塞克阿爾德伊恩阿勒"
+    },
+    {
+      "index": "1603",
+      "target": "要塞斯歐爾克艾爾艾斯"
+    },
+    {
+      "index": "1604",
+      "target": "爆槍托"
+    },
+    {
+      "index": "1605",
+      "target": "影槍托"
+    },
+    {
+      "index": "1606",
+      "target": "斯艾艾皮恩布烏特"
+    },
+    {
+      "index": "1607",
+      "target": "暴風打撃"
+    },
+    {
+      "index": "1608",
+      "target": "雷維里艾打撃"
+    },
+    {
+      "index": "1609",
+      "target": "深紅爾阿恩克阿"
+    },
+    {
+      "index": "1610",
+      "target": "折磨爾阿恩克阿"
+    },
+    {
+      "index": "1611",
+      "target": "弓音Ⅷ"
+    },
+    {
+      "index": "1613",
+      "target": "崩龍S阿恩烏伊拉"
+    },
+    {
+      "index": "1614",
+      "target": "雷真鎧沸血弓"
+    },
+    {
+      "index": "1615",
+      "target": "星雲特哈艾爾姆烏特"
+    },
+    {
+      "index": "1616",
+      "target": "冰α克阿恩伊斯風暴"
+    },
+    {
+      "index": "1617",
+      "target": "斯哈艾勒勒克伊恩流星斯哈歐瓦艾爾"
+    },
+    {
+      "index": "1618",
+      "target": "炎王S克烏格艾勒"
+    },
+    {
+      "index": "1619",
+      "target": "真浮游普艾阿克魂"
+    },
+    {
+      "index": "1620",
+      "target": "崩龍S姆歐阿爾克哈"
+    },
+    {
+      "index": "1621",
+      "target": "弓斯恩阿爾艾德爾烏姆桜"
+    },
+    {
+      "index": "1622",
+      "target": "弓雪德艾恩桜"
+    },
+    {
+      "index": "1623",
+      "target": "弓歐爾克哈艾斯特爾桜"
+    },
+    {
+      "index": "1624",
+      "target": "弓希娜桜"
+    },
+    {
+      "index": "1625",
+      "target": "弓強皮里阿"
+    },
+    {
+      "index": "1626",
+      "target": "強皮里阿拍"
+    },
+    {
+      "index": "1627",
+      "target": "強皮里阿扇"
+    },
+    {
+      "index": "1628",
+      "target": "強皮里阿姆阿德恩艾斯斯"
+    },
+    {
+      "index": "1633",
+      "target": "斯阿瓦艾德歐夫夫臼"
+    },
+    {
+      "index": "1634",
+      "target": "邪臼"
+    },
+    {
+      "index": "1635",
+      "target": "阿瓦里瑟臼"
+    },
+    {
+      "index": "1636",
+      "target": "彈幕臼"
+    },
+    {
+      "index": "1637",
+      "target": "斯阿瓦艾德歐夫夫克阿爾布阿爾伊恩"
+    },
+    {
+      "index": "1638",
+      "target": "邪克阿爾布阿爾伊恩"
+    },
+    {
+      "index": "1639",
+      "target": "阿瓦里瑟克阿爾布阿爾伊恩"
+    },
+    {
+      "index": "1640",
+      "target": "彈幕克阿爾布阿爾伊恩"
+    },
+    {
+      "index": "1641",
+      "target": "初KT"
+    },
+    {
+      "index": "1642",
+      "target": "心KT"
+    },
+    {
+      "index": "1643",
+      "target": "哭KT"
+    },
+    {
+      "index": "1644",
+      "target": "娜塔修阿矢"
+    },
+    {
+      "index": "1645",
+      "target": "火娜塔修阿矢"
+    },
+    {
+      "index": "1646",
+      "target": "水娜塔修阿矢"
+    },
+    {
+      "index": "1647",
+      "target": "雷娜塔修阿矢"
+    },
+    {
+      "index": "1648",
+      "target": "冰娜塔修阿矢"
+    },
+    {
+      "index": "1649",
+      "target": "龍娜塔修阿矢"
+    },
+    {
+      "index": "1650",
+      "target": "通常頭冠銃"
+    },
+    {
+      "index": "1651",
+      "target": "貫通頭冠銃"
+    },
+    {
+      "index": "1652",
+      "target": "散弾頭冠銃"
+    },
+    {
+      "index": "1653",
+      "target": "爾阿普伊德通常頭冠銃"
+    },
+    {
+      "index": "1654",
+      "target": "爾阿普伊德貫通頭冠銃"
+    },
+    {
+      "index": "1655",
+      "target": "爾阿普伊德散弾頭冠銃"
+    },
+    {
+      "index": "1656",
+      "target": "烏瓦艾勒加農砲"
+    },
+    {
+      "index": "1659",
+      "target": "通常烏瓦艾勒加農砲"
+    },
+    {
+      "index": "1660",
+      "target": "貫通烏瓦艾勒加農砲"
+    },
+    {
+      "index": "1661",
+      "target": "斯普爾艾阿德烏瓦艾勒加農砲"
+    },
+    {
+      "index": "1662",
+      "target": "伊恩伊特伊阿勒"
+    },
+    {
+      "index": "1663",
+      "target": "阿瓦伊斯發射器"
+    },
+    {
+      "index": "1664",
+      "target": "沃拉加農砲"
+    },
+    {
+      "index": "1665",
+      "target": "貴族克阿斯阿德歐爾"
+    },
+    {
+      "index": "1666",
+      "target": "貴族雷伊娜"
+    },
+    {
+      "index": "1667",
+      "target": "貴族布爾艾阿爾特哈"
+    },
+    {
+      "index": "1668",
+      "target": "蒼特瓦伊恩克勒艾"
+    },
+    {
+      "index": "1669",
+      "target": "月神S阿恩恩艾烏艾"
+    },
+    {
+      "index": "1670",
+      "target": "皮勒Ⅰ"
+    },
+    {
+      "index": "1671",
+      "target": "皮勒Ⅱ"
+    },
+    {
+      "index": "1672",
+      "target": "皮勒Ⅲ"
+    },
+    {
+      "index": "1673",
+      "target": "皮勒Ⅳ"
+    },
+    {
+      "index": "1674",
+      "target": "皮勒阿特烏斯"
+    },
+    {
+      "index": "1675",
+      "target": "伊恩夫伊恩伊特伊弩"
+    },
+    {
+      "index": "1676",
+      "target": "阿瓦伊斯弩"
+    },
+    {
+      "index": "1677",
+      "target": "沃拉弩"
+    },
+    {
+      "index": "1678",
+      "target": "斯拉菲奇伊斯阿"
+    },
+    {
+      "index": "1679",
+      "target": "斯拉菲茲勒歐瓦伊"
+    },
+    {
+      "index": "1680",
+      "target": "斯拉菲格爾阿維伊"
+    },
+    {
+      "index": "1681",
+      "target": "維阿烏勒特斯奎烏"
+    },
+    {
+      "index": "1682",
+      "target": "瓦伊斯艾奎烏阿勒"
+    },
+    {
+      "index": "1683",
+      "target": "修伊瓦娜射手"
+    },
+    {
+      "index": "1684",
+      "target": "奇里諾托烏里"
+    },
+    {
+      "index": "1685",
+      "target": "奇里諾拉古莫"
+    },
+    {
+      "index": "1686",
+      "target": "奇里諾普艾爾夫阿"
+    },
+    {
+      "index": "1687",
+      "target": "庫魯瑪艾克斯阿"
+    },
+    {
+      "index": "1688",
+      "target": "庫魯瑪維阿恩克艾"
+    },
+    {
+      "index": "1689",
+      "target": "伊斯艾艾利"
+    },
+    {
+      "index": "1690",
+      "target": "維爾艾塔"
+    },
+    {
+      "index": "1691",
+      "target": "維爾艾拉古莫"
+    },
+    {
+      "index": "1692",
+      "target": "維爾艾普艾爾夫阿"
+    },
+    {
+      "index": "1693",
+      "target": "維羅艾克斯阿"
+    },
+    {
+      "index": "1694",
+      "target": "維羅克烏普伊德"
+    },
+    {
+      "index": "1695",
+      "target": "伊里庫艾利"
+    },
+    {
+      "index": "1696",
+      "target": "偽投影Ⅰ"
+    },
+    {
+      "index": "1697",
+      "target": "偽投影Ⅱ"
+    },
+    {
+      "index": "1698",
+      "target": "偽投影Ⅲ"
+    },
+    {
+      "index": "1699",
+      "target": "偽投影Ⅳ"
+    },
+    {
+      "index": "1700",
+      "target": "偽投影Ⅴ"
+    },
+    {
+      "index": "1701",
+      "target": "弓伊恩夫伊恩伊特伊"
+    },
+    {
+      "index": "1702",
+      "target": "阿瓦伊斯射手"
+    },
+    {
+      "index": "1703",
+      "target": "弓沃拉"
+    },
+    {
+      "index": "1704",
+      "target": "克伊普爾艾勒阿維"
+    },
+    {
+      "index": "1705",
+      "target": "布艾勒烏姆布阿勒SP"
+    },
+    {
+      "index": "1706",
+      "target": "特爾艾姆布阿勒"
+    },
+    {
+      "index": "1707",
+      "target": "斯哈伊普勒艾爾弩"
+    },
+    {
+      "index": "1708",
+      "target": "闇毛毒怪弩ＳＰ"
+    },
+    {
+      "index": "1709",
+      "target": "震動弩"
+    },
+    {
+      "index": "1710",
+      "target": "弓斯哈伊普勒艾爾"
+    },
+    {
+      "index": "1714",
+      "target": "震動弓"
+    },
+    {
+      "index": "1717",
+      "target": "弓鳥飛龍"
+    },
+    {
+      "index": "1718",
+      "target": "庫庫發射器"
+    },
+    {
+      "index": "1719",
+      "target": "BB庫庫重弩"
+    },
+    {
+      "index": "1720",
+      "target": "阿斯阿阿爾克"
+    },
+    {
+      "index": "1721",
+      "target": "鐵弩"
+    },
+    {
+      "index": "1722",
+      "target": "阿斯阿加農砲"
+    },
+    {
+      "index": "1723",
+      "target": "抑制螺阿爾克克歐伊勒"
+    },
+    {
+      "index": "1724",
+      "target": "瑪拉迪轟鳴"
+    },
+    {
+      "index": "1726",
+      "target": "獵人爾艾阿勒姆"
+    },
+    {
+      "index": "1727",
+      "target": "弓克烏艾多"
+    },
+    {
+      "index": "1728",
+      "target": "克烏艾多布艾恩德伊特歐"
+    },
+    {
+      "index": "1729",
+      "target": "普艾瓦布伊"
+    },
+    {
+      "index": "1730",
+      "target": "銃雅羅"
+    },
+    {
+      "index": "1731",
+      "target": "女王射手"
+    },
+    {
+      "index": "1732",
+      "target": "女武神輝"
+    },
+    {
+      "index": "1733",
+      "target": "特爾伊克阿恩恩歐"
+    },
+    {
+      "index": "1734",
+      "target": "羅可阿爾克"
+    },
+    {
+      "index": "1735",
+      "target": "冰狐龍伊姆普阿克特十字弩"
+    },
+    {
+      "index": "1736",
+      "target": "冰狐龍臼"
+    },
+    {
+      "index": "1737",
+      "target": "光矢"
+    },
+    {
+      "index": "1738",
+      "target": "布歐爾德艾阿烏克光"
+    },
+    {
+      "index": "1739",
+      "target": "維歐爾特艾克斯"
+    },
+    {
+      "index": "1740",
+      "target": "冰狐龍斯特伊恩格艾爾"
+    },
+    {
+      "index": "1741",
+      "target": "雷弓"
+    },
+    {
+      "index": "1742",
+      "target": "雷加農砲"
+    },
+    {
+      "index": "1743",
+      "target": "雷特烏爾爾艾特"
+    },
+    {
+      "index": "1744",
+      "target": "弓流星"
+    },
+    {
+      "index": "1745",
+      "target": "火龍牙血鐵"
+    },
+    {
+      "index": "1746",
+      "target": "利歐普阿伊恩風暴"
+    },
+    {
+      "index": "1747",
+      "target": "利烏格矢"
+    },
+    {
+      "index": "1748",
+      "target": "利烏格弩"
+    },
+    {
+      "index": "1749",
+      "target": "利烏格加農砲"
+    },
+    {
+      "index": "1750",
+      "target": "爆狼弓攻撃"
+    },
+    {
+      "index": "1761",
+      "target": "變異里弗艾"
+    },
+    {
+      "index": "1762",
+      "target": "變異斯克歐烏爾格艾"
+    },
+    {
+      "index": "1763",
+      "target": "變異可賓"
+    },
+    {
+      "index": "1764",
+      "target": "變異描"
+    },
+    {
+      "index": "1765",
+      "target": "爆破變異"
+    },
+    {
+      "index": "1766",
+      "target": "變異姆歐恩斯歐歐恩"
+    },
+    {
+      "index": "1767",
+      "target": "精華里弗艾"
+    },
+    {
+      "index": "1768",
+      "target": "精華斯克歐烏爾格艾"
+    },
+    {
+      "index": "1769",
+      "target": "精華可賓"
+    },
+    {
+      "index": "1770",
+      "target": "精華描"
+    },
+    {
+      "index": "1771",
+      "target": "爆破精華"
+    },
+    {
+      "index": "1772",
+      "target": "精華激流"
+    },
+    {
+      "index": "1773",
+      "target": "斯特烏爾姆加農砲"
+    },
+    {
+      "index": "1774",
+      "target": "純格烏伊德阿恩克艾銃"
+    },
+    {
+      "index": "1775",
+      "target": "破壞發射器"
+    },
+    {
+      "index": "1776",
+      "target": "哈伊德爾阿臼"
+    },
+    {
+      "index": "1781",
+      "target": "泰坦可諾涅"
+    },
+    {
+      "index": "1782",
+      "target": "泰坦特伊爾阿"
+    },
+    {
+      "index": "1783",
+      "target": "泰坦星"
+    },
+    {
+      "index": "1784",
+      "target": "泰坦Ｌ阿斯拉"
+    },
+    {
+      "index": "1785",
+      "target": "真艾阿格艾闇雷銃"
+    },
+    {
+      "index": "1786",
+      "target": "斯哈阿德歐瓦斯哈奧加農砲"
+    },
+    {
+      "index": "1787",
+      "target": "星雲臼"
+    },
+    {
+      "index": "1788",
+      "target": "α克阿恩伊斯凍結土"
+    },
+    {
+      "index": "1789",
+      "target": "α克阿恩伊斯姆歐歐恩勒艾斯斯"
+    },
+    {
+      "index": "1790",
+      "target": "不死可賓"
+    },
+    {
+      "index": "1791",
+      "target": "不死加農砲"
+    },
+    {
+      "index": "1792",
+      "target": "不死爆"
+    },
+    {
+      "index": "1793",
+      "target": "不死強襲"
+    },
+    {
+      "index": "1794",
+      "target": "不死普爾艾德阿特歐爾"
+    },
+    {
+      "index": "1795",
+      "target": "伊姆姆歐爾特阿勒"
+    },
+    {
+      "index": "1796",
+      "target": "憤怒戦"
+    },
+    {
+      "index": "1797",
+      "target": "憤怒拉吉恩"
+    },
+    {
+      "index": "1798",
+      "target": "憤怒克艾艾皮恩"
+    },
+    {
+      "index": "1799",
+      "target": "憤怒深淵"
+    },
+    {
+      "index": "1800",
+      "target": "憤怒拉伊尼恩"
+    },
+    {
+      "index": "1801",
+      "target": "憤怒尾虎皮"
+    },
+    {
+      "index": "1802",
+      "target": "艾恩Ⅰ"
+    },
+    {
+      "index": "1803",
+      "target": "艾恩Ⅱ"
+    },
+    {
+      "index": "1804",
+      "target": "艾恩Ⅲ"
+    },
+    {
+      "index": "1805",
+      "target": "艾恩Ⅳ"
+    },
+    {
+      "index": "1806",
+      "target": "艾恩伊拉"
+    },
+    {
+      "index": "1807",
+      "target": "堅果突進"
+    },
+    {
+      "index": "1808",
+      "target": "恩烏特斯強襲"
+    },
+    {
+      "index": "1809",
+      "target": "恩烏特斯彈幕"
+    },
+    {
+      "index": "1810",
+      "target": "美味恩烏特斯"
+    },
+    {
+      "index": "1811",
+      "target": "巧克力突進"
+    },
+    {
+      "index": "1812",
+      "target": "巧克力強襲"
+    },
+    {
+      "index": "1813",
+      "target": "巧克力彈幕"
+    },
+    {
+      "index": "1814",
+      "target": "美味巧克力"
+    },
+    {
+      "index": "1815",
+      "target": "餅突進"
+    },
+    {
+      "index": "1816",
+      "target": "餅強襲"
+    },
+    {
+      "index": "1817",
+      "target": "餅彈幕"
+    },
+    {
+      "index": "1818",
+      "target": "美味餅"
+    },
+    {
+      "index": "1819",
+      "target": "螺鈿終突進"
+    },
+    {
+      "index": "1820",
+      "target": "螺鈿終強襲"
+    },
+    {
+      "index": "1821",
+      "target": "螺鈿終彈幕"
+    },
+    {
+      "index": "1822",
+      "target": "美味螺鈿終"
+    },
+    {
+      "index": "1823",
+      "target": "斯特烏爾姆弩"
+    },
+    {
+      "index": "1824",
+      "target": "烏恩伊克歐姆爆"
+    },
+    {
+      "index": "1825",
+      "target": "烏恩伊克歐姆普阿伊恩"
+    },
+    {
+      "index": "1826",
+      "target": "伊克哈爾歐姆爆"
+    },
+    {
+      "index": "1827",
+      "target": "伊克哈爾歐姆比特"
+    },
+    {
+      "index": "1828",
+      "target": "恩阿德艾勒普阿爾阿勒伊茲艾"
+    },
+    {
+      "index": "1829",
+      "target": "恩阿德艾勒德伊維"
+    },
+    {
+      "index": "1830",
+      "target": "毒恩阿德艾勒"
+    },
+    {
+      "index": "1831",
+      "target": "恩阿德艾勒瘴気"
+    },
+    {
+      "index": "1832",
+      "target": "克阿爾布伊斯素材"
+    },
+    {
+      "index": "1833",
+      "target": "克阿勒德歐爾阿爾素材"
+    },
+    {
+      "index": "1834",
+      "target": "克阿爾布伊斯艾勒梅"
+    },
+    {
+      "index": "1835",
+      "target": "克阿勒德歐爾阿艾勒梅"
+    },
+    {
+      "index": "1836",
+      "target": "泰坦布阿爾爾阿"
+    },
+    {
+      "index": "1837",
+      "target": "泰坦朱維阿"
+    },
+    {
+      "index": "1838",
+      "target": "泰坦德艾斯特歐爾"
+    },
+    {
+      "index": "1839",
+      "target": "泰坦Ｌ利貝拉"
+    },
+    {
+      "index": "1840",
+      "target": "真爾艾德普歐勒勒德爾克布歐勒特銃"
+    },
+    {
+      "index": "1841",
+      "target": "炎王S克歐勒烏恩德"
+    },
+    {
+      "index": "1842",
+      "target": "真浮游天銃"
+    },
+    {
+      "index": "1843",
+      "target": "崩龍S爾烏勒艾爾"
+    },
+    {
+      "index": "1844",
+      "target": "弓頑強瑪奇伊涅型"
+    },
+    {
+      "index": "1845",
+      "target": "艾伊恩茲艾勒矢"
+    },
+    {
+      "index": "1846",
+      "target": "艾伊恩茲艾勒碎片"
+    },
+    {
+      "index": "1847",
+      "target": "艾伊恩茲艾勒哈艾爾阿勒德"
+    },
+    {
+      "index": "1848",
+      "target": "艾伊恩茲艾勒娜圖雷"
+    },
+    {
+      "index": "1849",
+      "target": "艾伊恩茲艾勒雷維里"
+    },
+    {
+      "index": "1850",
+      "target": "艾勒夫艾恩囁語"
+    },
+    {
+      "index": "1851",
+      "target": "斯特烏爾姆布歐瓦"
+    },
+    {
+      "index": "1853",
+      "target": "特艾斯特阿姆艾恩打撃"
+    },
+    {
+      "index": "1854",
+      "target": "爾艾阿勒姆打撃"
+    },
+    {
+      "index": "1855",
+      "target": "斯伊爾伊德伊阿勒龍騎"
+    },
+    {
+      "index": "1856",
+      "target": "憤怒龍騎"
+    },
+    {
+      "index": "1857",
+      "target": "斯伊爾伊德伊阿勒暴風"
+    },
+    {
+      "index": "1858",
+      "target": "憤怒暴風"
+    },
+    {
+      "index": "1859",
+      "target": "鋼渡鴉Ⅵ"
+    },
+    {
+      "index": "1860",
+      "target": "泰坦魯達"
+    },
+    {
+      "index": "1861",
+      "target": "泰坦斯歐勒德伊艾爾"
+    },
+    {
+      "index": "1862",
+      "target": "泰坦杜奇阿"
+    },
+    {
+      "index": "1864",
+      "target": "多多恩阿音符"
+    },
+    {
+      "index": "1865",
+      "target": "憤怒弓布勒歐斯斯歐姆"
+    },
+    {
+      "index": "1866",
+      "target": "崩龍S阿恩格烏伊勒歐恩"
+    },
+    {
+      "index": "1867",
+      "target": "弓真菲艾歐尼克斯舞"
+    },
+    {
+      "index": "1868",
+      "target": "泰坦德艾斯普艾艾德"
+    },
+    {
+      "index": "1869",
+      "target": "鎧龍夫艾勒斯艾恩"
+    },
+    {
+      "index": "1870",
+      "target": "德艾斯普歐特S布歐歐姆"
+    },
+    {
+      "index": "1871",
+      "target": "金属酸"
+    },
+    {
+      "index": "1872",
+      "target": "姆艾勒特加農砲"
+    },
+    {
+      "index": "1873",
+      "target": "薔薇德阿斯艾伊恩"
+    },
+    {
+      "index": "1874",
+      "target": "特哈烏恩德艾爾斯"
+    },
+    {
+      "index": "1875",
+      "target": "斯阿瓦齒爆裂"
+    },
+    {
+      "index": "1876",
+      "target": "格阿勒維阿勒伊斯"
+    },
+    {
+      "index": "1877",
+      "target": "尾晶蠍臼"
+    },
+    {
+      "index": "1878",
+      "target": "布阿爾布阿爾伊阿加農砲"
+    },
+    {
+      "index": "1880",
+      "target": "涅加提維特哈烏恩德艾爾普銃"
+    },
+    {
+      "index": "1881",
+      "target": "泰坦哈烏爾爾伊克阿恩"
+    },
+    {
+      "index": "1882",
+      "target": "天翔龍銃"
+    },
+    {
+      "index": "1883",
+      "target": "阿爾特斯布阿勒"
+    },
+    {
+      "index": "1884",
+      "target": "火德艾斯普歐特S"
+    },
+    {
+      "index": "1885",
+      "target": "普爾阿伊艾爾夫阿"
+    },
+    {
+      "index": "1886",
+      "target": "夫爾歐斯特姆伊斯銃"
+    },
+    {
+      "index": "1887",
+      "target": "姆艾勒特伊恩格布勒歐瓦"
+    },
+    {
+      "index": "1888",
+      "target": "薔薇格艾爾伊斯斯艾恩"
+    },
+    {
+      "index": "1889",
+      "target": "十特哈歐烏斯阿恩德維歐勒特斯"
+    },
+    {
+      "index": "1890",
+      "target": "黑狼鳥哈歐瓦勒"
+    },
+    {
+      "index": "1891",
+      "target": "尾晶蠍斯克哈瓦阿恩茲"
+    },
+    {
+      "index": "1892",
+      "target": "布阿爾布阿爾伊阿銃"
+    },
+    {
+      "index": "1894",
+      "target": "泰坦貝斯伊艾"
+    },
+    {
+      "index": "1895",
+      "target": "艾阿爾勒夫艾勒斯艾恩"
+    },
+    {
+      "index": "1896",
+      "target": "德艾斯普歐特S阿爾克哈艾爾"
+    },
+    {
+      "index": "1898",
+      "target": "龍努波奇弓"
+    },
+    {
+      "index": "1899",
+      "target": "薔薇恩阿克哈瓦艾伊斯"
+    },
+    {
+      "index": "1900",
+      "target": "弓勒伊歐恩S爪"
+    },
+    {
+      "index": "1901",
+      "target": "輝夜"
+    },
+    {
+      "index": "1903",
+      "target": "弓布阿爾布阿爾伊阿"
+    },
+    {
+      "index": "1904",
+      "target": "涅維銀白"
+    },
+    {
+      "index": "1905",
+      "target": "弓凍結努波奇"
+    },
+    {
+      "index": "1906",
+      "target": "弓鋼爾阿茲歐爾"
+    },
+    {
+      "index": "1907",
+      "target": "弓星艾阿格艾格阿勒阿克斯伊"
+    },
+    {
+      "index": "1908",
+      "target": "弓星艾阿格艾恩伊格哈特斯克伊"
+    },
+    {
+      "index": "1909",
+      "target": "弓哈歐斯哈伊克伊恩格阿勒阿克斯伊"
+    },
+    {
+      "index": "1910",
+      "target": "弓哈歐斯哈伊克伊恩恩伊格哈特斯克伊"
+    },
+    {
+      "index": "1968",
+      "target": "弓黒"
+    },
+    {
+      "index": "1969",
+      "target": "弓終極征"
+    },
+    {
+      "index": "1970",
+      "target": "終極征強撃"
+    },
+    {
+      "index": "1971",
+      "target": "終極征阿爾克"
+    },
+    {
+      "index": "1972",
+      "target": "終極征斯普阿爾克"
+    },
+    {
+      "index": "1973",
+      "target": "斯克哈阿德艾恩布"
+    },
+    {
+      "index": "1974",
+      "target": "弓伊烏艾恩"
+    },
+    {
+      "index": "1975",
+      "target": "弓伊烏艾恩"
+    },
+    {
+      "index": "1976",
+      "target": "伊烏艾恩強撃"
+    },
+    {
+      "index": "1977",
+      "target": "伊烏艾恩阿爾克"
+    },
+    {
+      "index": "1978",
+      "target": "伊烏艾恩斯普阿爾克"
+    },
+    {
+      "index": "1979",
+      "target": "維歐勒德艾恩布艾"
+    },
+    {
+      "index": "1992",
+      "target": "黄金羽月神"
+    },
+    {
+      "index": "1993",
+      "target": "黄金羽克勒阿爾伊特伊"
+    },
+    {
+      "index": "1994",
+      "target": "黄金羽純潔"
+    },
+    {
+      "index": "1995",
+      "target": "黄金羽月光"
+    },
+    {
+      "index": "1996",
+      "target": "黄金羽惡布斯"
+    },
+    {
+      "index": "1997",
+      "target": "爾伊烏克歐伊恩斯艾克特伊阿"
+    },
+    {
+      "index": "1998",
+      "target": "黄金羽日"
+    },
+    {
+      "index": "1999",
+      "target": "黄金羽陽光"
+    },
+    {
+      "index": "2000",
+      "target": "黄金羽阿爾艾斯"
+    },
+    {
+      "index": "2001",
+      "target": "黄金羽炎"
+    },
+    {
+      "index": "2002",
+      "target": "黄金羽瓦伊勒德夫伊爾艾"
+    },
+    {
+      "index": "2003",
+      "target": "哈艾姆阿特歐伊恩斯艾克特伊阿"
+    },
+    {
+      "index": "2024",
+      "target": "弓屍龍蛇Ⅰ"
+    },
+    {
+      "index": "2025",
+      "target": "弓屍龍蛇Ⅱ"
+    },
+    {
+      "index": "2026",
+      "target": "弓屍龍蛇Ⅲ"
+    },
+    {
+      "index": "2027",
+      "target": "弓屍龍蛇Ⅳ"
+    },
+    {
+      "index": "2028",
+      "target": "弓屍龍蛇Ⅴ"
+    },
+    {
+      "index": "2034",
+      "target": "瘟疫Ⅰ"
+    },
+    {
+      "index": "2035",
+      "target": "瘟疫Ⅱ"
+    },
+    {
+      "index": "2036",
+      "target": "瘟疫Ⅲ"
+    },
+    {
+      "index": "2037",
+      "target": "瘟疫Ⅳ"
+    },
+    {
+      "index": "2038",
+      "target": "瘟疫Ⅴ"
+    },
+    {
+      "index": "2039",
+      "target": "克恩烏克克勒艾KG維伊普艾爾"
+    },
+    {
+      "index": "2040",
+      "target": "克恩烏克克勒艾KG普爾歐克斯伊"
+    },
+    {
+      "index": "2041",
+      "target": "克恩烏克克勒艾KG瑪克斯伊瑪"
+    },
+    {
+      "index": "2042",
+      "target": "克恩烏克克勒艾姆阿烏斯艾爾"
+    },
+    {
+      "index": "2043",
+      "target": "克恩烏克克勒艾斯阿勒維艾爾"
+    },
+    {
+      "index": "2049",
+      "target": "歐爾伊歐恩巴佐歐可"
+    },
+    {
+      "index": "2050",
+      "target": "歐爾伊歐恩克阿斯普艾爾"
+    },
+    {
+      "index": "2051",
+      "target": "歐爾伊歐恩克哈爾伊斯特艾勒"
+    },
+    {
+      "index": "2067",
+      "target": "弓環"
+    },
+    {
+      "index": "2068",
+      "target": "弓阿瓦爾艾阿特哈"
+    },
+    {
+      "index": "2069",
+      "target": "弓特斯烏瓦爾艾阿特"
+    },
+    {
+      "index": "2070",
+      "target": "弓德歐瓦爾艾阿特哈"
+    },
+    {
+      "index": "2071",
+      "target": "弓夫伊勒瓦爾艾阿特"
+    },
+    {
+      "index": "2072",
+      "target": "弓阿德爾艾特環"
+    },
+    {
+      "index": "2074",
+      "target": "沃拉斯奎烏阿勒勒"
+    },
+    {
+      "index": "2075",
+      "target": "沃拉斯特爾伊艾爾"
+    },
+    {
+      "index": "2076",
+      "target": "貴族阿勒艾爾特"
+    },
+    {
+      "index": "2077",
+      "target": "貴族阿勒克阿伊德艾"
+    },
+    {
+      "index": "2078",
+      "target": "貴族阿爾克烏德阿"
+    },
+    {
+      "index": "2080",
+      "target": "可愛心"
+    },
+    {
+      "index": "2081",
+      "target": "可愛秩序"
+    },
+    {
+      "index": "2082",
+      "target": "雪鹿嵐"
+    },
+    {
+      "index": "2083",
+      "target": "雪鹿暴風"
+    },
+    {
+      "index": "2084",
+      "target": "心姆努波"
+    },
+    {
+      "index": "2085",
+      "target": "會心心"
+    },
+    {
+      "index": "2086",
+      "target": "尾晶蠍希望"
+    },
+    {
+      "index": "2087",
+      "target": "尾晶蠍夫爾艾艾德歐姆"
+    },
+    {
+      "index": "2088",
+      "target": "霧野泰"
+    },
+    {
+      "index": "2089",
+      "target": "幸運暁"
+    },
+    {
+      "index": "2090",
+      "target": "弓里法磁桜霊"
+    },
+    {
+      "index": "2091",
+      "target": "弓恩寵桜霊"
+    },
+    {
+      "index": "2108",
+      "target": "噬血龍布歐歐德阿瑟"
+    },
+    {
+      "index": "2109",
+      "target": "噬血龍布勒歐歐德烏爾恩"
+    },
+    {
+      "index": "2110",
+      "target": "噬血龍布勒歐歐德維艾斯"
+    },
+    {
+      "index": "2111",
+      "target": "噬血龍布勒歐歐德格勒伊"
+    },
+    {
+      "index": "2112",
+      "target": "噬血龍布勒歐歐德普歐瓦"
+    },
+    {
+      "index": "2113",
+      "target": "噬血龍布勒歐歐德格爾阿"
+    },
+    {
+      "index": "2114",
+      "target": "噬血龍布勒歐歐德普烏爾"
+    },
+    {
+      "index": "2115",
+      "target": "黄速龍王普阿爾克斯"
+    },
+    {
+      "index": "2116",
+      "target": "紅速龍王普阿爾克斯"
+    },
+    {
+      "index": "2117",
+      "target": "斯阿布勒艾夫阿勒"
+    },
+    {
+      "index": "2119",
+      "target": "角龍音未來弓"
+    },
+    {
+      "index": "2120",
+      "target": "水龍流"
+    },
+    {
+      "index": "2121",
+      "target": "弓ＥＸ鶴特哈恩德爾德阿恩"
+    },
+    {
+      "index": "2122",
+      "target": "鎧龍艾克斯普勒歐斯伊弩"
+    },
+    {
+      "index": "2123",
+      "target": "噬血阿爾特伊勒勒艾爾"
+    },
+    {
+      "index": "2124",
+      "target": "布勒歐歐德德爾伊加農砲"
+    },
+    {
+      "index": "2125",
+      "target": "麻痺噬血弓"
+    },
+    {
+      "index": "2126",
+      "target": "毒噬血加農砲"
+    },
+    {
+      "index": "2127",
+      "target": "弓克歐勒勒阿普斯艾艾克斯特伊恩克特"
+    },
+    {
+      "index": "2131",
+      "target": "TI阿莫聲急証"
+    },
+    {
+      "index": "2132",
+      "target": "阿德阿姆阿斯白"
+    },
+    {
+      "index": "2133",
+      "target": "布雷阿斯瓦艾艾茲伊"
+    },
+    {
+      "index": "2134",
+      "target": "斯瓦艾艾茲伊瑪娜"
+    },
+    {
+      "index": "2135",
+      "target": "普烏爾夫阿套"
+    },
+    {
+      "index": "2136",
+      "target": "茲阿夫爾阿套"
+    },
+    {
+      "index": "2137",
+      "target": "火焔爾阿德伊烏姆"
+    },
+    {
+      "index": "2138",
+      "target": "火焔勒阿爾姆阿"
+    },
+    {
+      "index": "2139",
+      "target": "蘇艾茲烏爾格阿"
+    },
+    {
+      "index": "2140",
+      "target": "蘇艾茲強撃"
+    },
+    {
+      "index": "2141",
+      "target": "姆阿勒特歐恩伊勒"
+    },
+    {
+      "index": "2142",
+      "target": "特歐恩伊勒哈拉蘇艾"
+    },
+    {
+      "index": "2153",
+      "target": "克哈爾伊斯歐斯夫艾特阿勒"
+    },
+    {
+      "index": "2154",
+      "target": "歐克哈爾伊斯歐斯姆阿格阿姆"
+    },
+    {
+      "index": "2159",
+      "target": "米娜布伊特艾斯"
+    },
+    {
+      "index": "2160",
+      "target": "米娜夫歐爾恩艾"
+    },
+    {
+      "index": "2161",
+      "target": "普爾歐夫艾斯斯伊里弗艾"
+    },
+    {
+      "index": "2163",
+      "target": "霧野泰發射器"
+    },
+    {
+      "index": "2164",
+      "target": "艾普伊格阿烏斯發射器"
+    },
+    {
+      "index": "2165",
+      "target": "龍風艾恩特爾阿"
+    },
+    {
+      "index": "2166",
+      "target": "龍風克歐爾伊恩阿勒"
+    },
+    {
+      "index": "2167",
+      "target": "角龍哈阿勒勒烏克伊恩"
+    },
+    {
+      "index": "2168",
+      "target": "角龍幻"
+    },
+    {
+      "index": "2173",
+      "target": "艾路猫弓猫印"
+    },
+    {
+      "index": "2174",
+      "target": "梅拉路弓猫法瑟"
+    },
+    {
+      "index": "2175",
+      "target": "普歐克斯鶴"
+    },
+    {
+      "index": "2177",
+      "target": "普阿米阿鶴"
+    },
+    {
+      "index": "2178",
+      "target": "可利斯克哈爾艾伊艾爾"
+    },
+    {
+      "index": "2179",
+      "target": "龍風姆阿爾格伊艾"
+    },
+    {
+      "index": "2180",
+      "target": "角龍瓦爾伊特哈艾"
+    },
+    {
+      "index": "2183",
+      "target": "艾路猫弓黄金猫"
+    },
+    {
+      "index": "2184",
+      "target": "梅拉路弓寶物猫"
+    },
+    {
+      "index": "2186",
+      "target": "米拉格斯克哈爾艾伊艾爾"
+    },
+    {
+      "index": "2191",
+      "target": "米可奇里索修伊阿"
+    },
+    {
+      "index": "2194",
+      "target": "米娜姆阿爾烏阿恩歐夫"
+    },
+    {
+      "index": "2195",
+      "target": "勒歐伊阿勒特伊里弗艾"
+    },
+    {
+      "index": "2196",
+      "target": "阿格艾勒歐斯發射器"
+    },
+    {
+      "index": "2198",
+      "target": "瘟疫Ⅵ"
+    },
+    {
+      "index": "2199",
+      "target": "恩阿德艾勒克勒烏艾格艾爾"
+    },
+    {
+      "index": "2200",
+      "target": "恩阿德艾勒城堡"
+    },
+    {
+      "index": "2203",
+      "target": "偽投影Ⅵ"
+    },
+    {
+      "index": "2204",
+      "target": "噬血龍布勒歐歐德阿特特"
+    },
+    {
+      "index": "2205",
+      "target": "噬血龍布勒歐歐德德艾斯"
+    },
+    {
+      "index": "2206",
+      "target": "噬血龍布勒歐德伊姆普烏"
+    },
+    {
+      "index": "2207",
+      "target": "噬血龍布勒歐歐德克爾伊"
+    },
+    {
+      "index": "2208",
+      "target": "噬血龍布勒歐歐德杰阿克"
+    },
+    {
+      "index": "2209",
+      "target": "噬血銃"
+    },
+    {
+      "index": "2210",
+      "target": "布勒歐歐德德爾伊銃"
+    },
+    {
+      "index": "2211",
+      "target": "麻痺噬血銃"
+    },
+    {
+      "index": "2212",
+      "target": "毒噬血銃"
+    },
+    {
+      "index": "2213",
+      "target": "弓噬血"
+    },
+    {
+      "index": "2214",
+      "target": "弓布勒歐歐德德爾伊"
+    },
+    {
+      "index": "2215",
+      "target": "麻痺噬血弓"
+    },
+    {
+      "index": "2216",
+      "target": "毒噬血弓"
+    },
+    {
+      "index": "2217",
+      "target": "核斯烏姆姆伊特"
+    },
+    {
+      "index": "2218",
+      "target": "核布烏爾格"
+    },
+    {
+      "index": "2221",
+      "target": "核戦"
+    },
+    {
+      "index": "2232",
+      "target": "噬血龍布勒歐歐德克爾阿"
+    },
+    {
+      "index": "2234",
+      "target": "真斯普阿爾爾歐瓦闇雷銃"
+    },
+    {
+      "index": "2235",
+      "target": "真歐斯普爾艾伊闇雷銃"
+    },
+    {
+      "index": "2236",
+      "target": "弓真菲恩闇雷"
+    },
+    {
+      "index": "2237",
+      "target": "崩龍S夫爾伊格阿特艾"
+    },
+    {
+      "index": "2238",
+      "target": "多多恩阿力"
+    },
+    {
+      "index": "2256",
+      "target": "紅寶石弾"
+    },
+    {
+      "index": "2257",
+      "target": "蛋白石弾"
+    },
+    {
+      "index": "2260",
+      "target": "阿普爾伊勒彈"
+    },
+    {
+      "index": "2261",
+      "target": "姆阿伊彈"
+    },
+    {
+      "index": "2263",
+      "target": "德艾克艾姆布艾爾彈"
+    },
+    {
+      "index": "2264",
+      "target": "朱涅彈"
+    },
+    {
+      "index": "2277",
+      "target": "阿爾克烏斯克阿爾德伊恩阿勒"
+    },
+    {
+      "index": "2278",
+      "target": "普烏艾爾特阿克阿爾德伊恩阿勒"
+    },
+    {
+      "index": "2279",
+      "target": "阿爾克烏斯斯歐爾克艾爾艾斯"
+    },
+    {
+      "index": "2280",
+      "target": "普烏艾爾特阿斯歐爾克艾爾艾斯"
+    },
+    {
+      "index": "2281",
+      "target": "斯烏艾德克烏格艾"
+    },
+    {
+      "index": "2282",
+      "target": "瓦艾斯特克烏格艾"
+    },
+    {
+      "index": "2283",
+      "target": "姆艾爾伊德伊阿恩"
+    },
+    {
+      "index": "2284",
+      "target": "伊斯恩阿詠"
+    },
+    {
+      "index": "2285",
+      "target": "伊斯恩阿岸"
+    },
+    {
+      "index": "2286",
+      "target": "斯阿爾阿哈詠"
+    },
+    {
+      "index": "2287",
+      "target": "斯阿爾阿哈岸"
+    },
+    {
+      "index": "2288",
+      "target": "暖勒阿爾格歐"
+    },
+    {
+      "index": "2289",
+      "target": "暖形態"
+    },
+    {
+      "index": "2290",
+      "target": "弓哈阿爾姆"
+    },
+    {
+      "index": "2291",
+      "target": "哈阿爾姆形態"
+    },
+    {
+      "index": "2293",
+      "target": "新夫阿克特歐爾伊克哈伊艾夫勒歐恩格布歐瓦"
+    },
+    {
+      "index": "2294",
+      "target": "斬位夫阿克特歐爾伊克哈伊艾夫勒歐恩格布歐瓦"
+    },
+    {
+      "index": "2295",
+      "target": "克阿爾普恩特爾夫克特歐爾伊勒恩格布瓦雨"
+    },
+    {
+      "index": "2296",
+      "target": "新夫克特歐爾伊勒歐恩格布歐瓦雨"
+    },
+    {
+      "index": "2297",
+      "target": "斬位夫克特歐爾伊勒恩格布歐瓦雨"
+    },
+    {
+      "index": "2298",
+      "target": "阿勒勒伊勒打撃"
+    },
+    {
+      "index": "2299",
+      "target": "斯特爾伊維阿勒加農砲"
+    },
+    {
+      "index": "2301",
+      "target": "維艾爾布阿勒德爾"
+    },
+    {
+      "index": "2302",
+      "target": "乾自動加農砲"
+    },
+    {
+      "index": "2303",
+      "target": "空自動加農砲"
+    },
+    {
+      "index": "2305",
+      "target": "拉瓦里深紅"
+    },
+    {
+      "index": "2307",
+      "target": "斯歐烏勒普特艾爾"
+    },
+    {
+      "index": "2308",
+      "target": "魂阿斯哈阿姆"
+    },
+    {
+      "index": "2310",
+      "target": "德烏瑟斯阿恩奎烏艾"
+    },
+    {
+      "index": "2311",
+      "target": "德烏瑟克艾布烏克伊斯"
+    },
+    {
+      "index": "2312",
+      "target": "德烏瑟努菲特"
+    },
+    {
+      "index": "2313",
+      "target": "比納桃日星弾"
+    },
+    {
+      "index": "2319",
+      "target": "姆艾勒茲阿上位"
+    },
+    {
+      "index": "2322",
+      "target": "布阿爾布阿爾歐伊哈阿德艾斯"
+    },
+    {
+      "index": "2323",
+      "target": "布阿爾布阿爾歐伊勒艾艾德艾恩"
+    },
+    {
+      "index": "2324",
+      "target": "布阿爾布阿爾歐伊勒阿姆伊斯"
+    },
+    {
+      "index": "2325",
+      "target": "布阿爾布阿爾歐伊歐爾格阿斯"
+    },
+    {
+      "index": "2326",
+      "target": "布阿爾布阿爾歐伊德艾爾阿姆伊斯"
+    },
+    {
+      "index": "2327",
+      "target": "布阿爾布阿爾歐伊布艾勒姆烏恩德"
+    },
+    {
+      "index": "2331",
+      "target": "遺物姆阿特特艾爾"
+    },
+    {
+      "index": "2332",
+      "target": "屬性遺物"
+    },
+    {
+      "index": "2333",
+      "target": "烏恩伊克歐姆齒"
+    },
+    {
+      "index": "2334",
+      "target": "一色囁語"
+    },
+    {
+      "index": "2335",
+      "target": "巨大死發射器"
+    },
+    {
+      "index": "2336",
+      "target": "艾克哈伊德恩阿臼"
+    },
+    {
+      "index": "2337",
+      "target": "勒歐特烏斯龍騎"
+    },
+    {
+      "index": "2338",
+      "target": "勒歐特烏斯暴風"
+    },
+    {
+      "index": "2339",
+      "target": "特歐姆布打撃"
+    },
+    {
+      "index": "2341",
+      "target": "弓星艾阿格艾極光"
+    },
+    {
+      "index": "2342",
+      "target": "弓哈歐斯哈伊克伊恩極光"
+    },
+    {
+      "index": "2483",
+      "target": "布阿爾爾歐瓦可賓"
+    },
+    {
+      "index": "2484",
+      "target": "維伊爾烏斯可賓"
+    },
+    {
+      "index": "2485",
+      "target": "優可賓"
+    },
+    {
+      "index": "2486",
+      "target": "姆艾爾克烏爾伊可賓"
+    },
+    {
+      "index": "2487",
+      "target": "德烏恩艾勒勒伊斯可賓"
+    },
+    {
+      "index": "2488",
+      "target": "爾哈歐德艾斯格烏阿爾德伊阿"
+    },
+    {
+      "index": "2490",
+      "target": "普歐勒阿爾可賓"
+    },
+    {
+      "index": "2491",
+      "target": "夫阿爾格阿可賓"
+    },
+    {
+      "index": "2492",
+      "target": "涅伊修可賓"
+    },
+    {
+      "index": "2493",
+      "target": "普阿爾阿克阿爾特可賓"
+    },
+    {
+      "index": "2494",
+      "target": "格涅維可賓"
+    },
+    {
+      "index": "2495",
+      "target": "勒艾斯格烏阿爾德伊阿"
+    },
+    {
+      "index": "2496",
+      "target": "戈烏阿奇艾格烏阿爾德伊阿"
+    },
+    {
+      "index": "2498",
+      "target": "普阿斯爾伊格歐斯歐皮阿"
+    },
+    {
+      "index": "2499",
+      "target": "普伊斯斯烏爾艾阿普伊斯"
+    },
+    {
+      "index": "2500",
+      "target": "普伊斯斯烏爾艾希皮茲"
+    },
+    {
+      "index": "2501",
+      "target": "火山槍托"
+    },
+    {
+      "index": "2502",
+      "target": "艾爾烏普特伊歐恩槍托"
+    },
+    {
+      "index": "2503",
+      "target": "德歐瓦恩普歐烏爾槍托"
+    },
+    {
+      "index": "2505",
+      "target": "伊姆普烏爾艾臼"
+    },
+    {
+      "index": "2507",
+      "target": "伊姆普烏爾艾可賓"
+    },
+    {
+      "index": "2509",
+      "target": "EL特伊爾阿德歐爾"
+    },
+    {
+      "index": "2510",
+      "target": "瑪傑斯"
+    },
+    {
+      "index": "2511",
+      "target": "格歐里歐索"
+    },
+    {
+      "index": "2512",
+      "target": "EL克阿茲阿德歐爾"
+    },
+    {
+      "index": "2513",
+      "target": "EL斯阿勒維阿德歐爾"
+    },
+    {
+      "index": "2515",
+      "target": "環節瓦伊勒勒伊阿"
+    },
+    {
+      "index": "2516",
+      "target": "環節米哈伊艾"
+    },
+    {
+      "index": "2533",
+      "target": "弓瑪奇伊娜I"
+    },
+    {
+      "index": "2534",
+      "target": "弓瑪奇伊娜Ⅱ"
+    },
+    {
+      "index": "2535",
+      "target": "弓瑪奇伊娜Ⅲ"
+    },
+    {
+      "index": "2536",
+      "target": "弓瑪奇伊娜Ⅳ"
+    },
+    {
+      "index": "2537",
+      "target": "弓里法磁瑪奇伊娜"
+    },
+    {
+      "index": "2539",
+      "target": "山魯米娜雷"
+    },
+    {
+      "index": "2540",
+      "target": "山普歐爾特哈"
+    },
+    {
+      "index": "2541",
+      "target": "山德歐烏爾"
+    },
+    {
+      "index": "2542",
+      "target": "煌"
+    },
+    {
+      "index": "2543",
+      "target": "山格勒伊特茲艾爾"
+    },
+    {
+      "index": "2544",
+      "target": "山哈烏姆布勒艾"
+    },
+    {
+      "index": "2545",
+      "target": "山姆伊斯斯伊勒艾"
+    },
+    {
+      "index": "2552",
+      "target": "赤猫焦油加農砲"
+    },
+    {
+      "index": "2553",
+      "target": "赤猫重焦油加農砲"
+    },
+    {
+      "index": "2554",
+      "target": "赤猫巨大焦油加農砲"
+    },
+    {
+      "index": "2555",
+      "target": "赤猫大焦油加農砲"
+    },
+    {
+      "index": "2556",
+      "target": "赤猫格爾阿恩德焦油加農砲"
+    },
+    {
+      "index": "2557",
+      "target": "惡猫焦油加農砲"
+    },
+    {
+      "index": "2558",
+      "target": "惡猫重焦油加農砲"
+    },
+    {
+      "index": "2559",
+      "target": "惡猫巨大焦油加農砲"
+    },
+    {
+      "index": "2560",
+      "target": "惡猫大焦油加農砲"
+    },
+    {
+      "index": "2561",
+      "target": "惡猫格爾阿恩德焦油加農砲"
+    },
+    {
+      "index": "2562",
+      "target": "黄金猫加農砲"
+    },
+    {
+      "index": "2563",
+      "target": "黄金猫克阿斯特艾爾"
+    },
+    {
+      "index": "2564",
+      "target": "黄金猫發射器"
+    },
+    {
+      "index": "2565",
+      "target": "黄金猫破壞"
+    },
+    {
+      "index": "2566",
+      "target": "黄金猫冠軍"
+    },
+    {
+      "index": "2567",
+      "target": "銀猫恩伊阿恩恩歐恩"
+    },
+    {
+      "index": "2568",
+      "target": "銀猫恩伊阿斯特艾爾"
+    },
+    {
+      "index": "2569",
+      "target": "銀猫恩伊阿烏恩克哈艾"
+    },
+    {
+      "index": "2570",
+      "target": "銀猫恩伊阿斯特艾爾"
+    },
+    {
+      "index": "2571",
+      "target": "弗洛火焔"
+    },
+    {
+      "index": "2572",
+      "target": "弗洛普艾米阿"
+    },
+    {
+      "index": "2573",
+      "target": "弗洛特阿恩茲"
+    },
+    {
+      "index": "2574",
+      "target": "弗洛提拉"
+    },
+    {
+      "index": "2576",
+      "target": "珍珠弗洛強撃"
+    },
+    {
+      "index": "2577",
+      "target": "深紅命運斯哈歐烏勒德艾爾"
+    },
+    {
+      "index": "2594",
+      "target": "迪奧努波奇"
+    },
+    {
+      "index": "2595",
+      "target": "迪奧格歐扎"
+    },
+    {
+      "index": "2596",
+      "target": "迪奧格艾瓦伊特特艾爾"
+    },
+    {
+      "index": "2597",
+      "target": "迪奧特歐爾姆艾恩特阿"
+    },
+    {
+      "index": "2598",
+      "target": "迪奧弗烏米涅"
+    },
+    {
+      "index": "2599",
+      "target": "迪奧阿提茲莫"
+    },
+    {
+      "index": "2600",
+      "target": "迪奧努波奇"
+    },
+    {
+      "index": "2601",
+      "target": "迪奧布爾阿克哈伊阿勒"
+    },
+    {
+      "index": "2602",
+      "target": "迪奧絶対"
+    },
+    {
+      "index": "2603",
+      "target": "迪奧阿恩恩伊哈伊勒阿"
+    },
+    {
+      "index": "2604",
+      "target": "α克阿恩伊斯雪崩"
+    },
+    {
+      "index": "2605",
+      "target": "王室狼銃可米可澤"
+    },
+    {
+      "index": "2606",
+      "target": "重弩王室狼冰柱"
+    },
+    {
+      "index": "2607",
+      "target": "弓王室狼歐爾克哈伊德"
+    },
+    {
+      "index": "2608",
+      "target": "灰晶蠍輝"
+    },
+    {
+      "index": "2610",
+      "target": "銀天王銃"
+    },
+    {
+      "index": "2611",
+      "target": "深紅爾烏伊恩艾爾爾艾克烏爾維艾"
+    },
+    {
+      "index": "2612",
+      "target": "猛貫通弩"
+    },
+    {
+      "index": "2613",
+      "target": "輪唱気"
+    },
+    {
+      "index": "2614",
+      "target": "普阿爾特恩艾爾弩"
+    },
+    {
+      "index": "2615",
+      "target": "普阿爾特恩艾爾特爾伊格格艾爾"
+    },
+    {
+      "index": "2616",
+      "target": "爾歐特夫爾艾斯斯"
+    },
+    {
+      "index": "2617",
+      "target": "普阿爾特恩艾爾加農砲"
+    },
+    {
+      "index": "2618",
+      "target": "普阿爾特恩艾爾發射器"
+    },
+    {
+      "index": "2619",
+      "target": "輪唱雷伊瑟"
+    },
+    {
+      "index": "2620",
+      "target": "弓普阿爾特恩艾爾"
+    },
+    {
+      "index": "2621",
+      "target": "普阿爾特恩艾爾城堡"
+    },
+    {
+      "index": "2622",
+      "target": "鋼河豚Ⅵ"
+    },
+    {
+      "index": "2623",
+      "target": "鋼河豚Ⅶ"
+    },
+    {
+      "index": "2624",
+      "target": "鋼河豚Ⅷ"
+    },
+    {
+      "index": "2655",
+      "target": "格勒斯００７５"
+    },
+    {
+      "index": "2656",
+      "target": "格勒斯０４２２"
+    },
+    {
+      "index": "2657",
+      "target": "格勒斯７６０１"
+    },
+    {
+      "index": "2660",
+      "target": "弗洛普伊斯特歐勒"
+    },
+    {
+      "index": "2661",
+      "target": "弗洛祈願"
+    },
+    {
+      "index": "2662",
+      "target": "弗洛布阿伊歐恩艾特"
+    },
+    {
+      "index": "2663",
+      "target": "弗洛皮斯里阿"
+    },
+    {
+      "index": "2664",
+      "target": "弗洛爾艾維歐勒維艾爾"
+    },
+    {
+      "index": "2665",
+      "target": "夫艾恩恩艾勒弗洛爾艾維歐勒維艾爾"
+    },
+    {
+      "index": "2666",
+      "target": "弗洛阿梅特阿"
+    },
+    {
+      "index": "2667",
+      "target": "弗洛姆伊特爾伊"
+    },
+    {
+      "index": "2668",
+      "target": "弗洛托里瑟"
+    },
+    {
+      "index": "2669",
+      "target": "弗洛西艾格"
+    },
+    {
+      "index": "2670",
+      "target": "弗洛修伊提歐"
+    },
+    {
+      "index": "2671",
+      "target": "歐爾克哈伊德芙魯羅里弗艾"
+    },
+    {
+      "index": "2672",
+      "target": "夫烏斯伊爾艾伊格勒艾爾"
+    },
+    {
+      "index": "2673",
+      "target": "愛陽傘"
+    },
+    {
+      "index": "2674",
+      "target": "夫烏爾歐恩布烏特"
+    },
+    {
+      "index": "2675",
+      "target": "勇的角"
+    },
+    {
+      "index": "2676",
+      "target": "重弩格歐勒德德烏斯特風暴"
+    },
+    {
+      "index": "2677",
+      "target": "雷格歐勒德德烏斯特重弩"
+    },
+    {
+      "index": "2678",
+      "target": "重弩格歐勒德德烏斯特龍巻"
+    },
+    {
+      "index": "2679",
+      "target": "重弩格歐勒德德烏斯特特哈烏恩德艾爾爾"
+    },
+    {
+      "index": "2680",
+      "target": "重弩格歐勒德德烏斯特暴風"
+    },
+    {
+      "index": "2692",
+      "target": "恩歐布艾勒夫封印"
+    },
+    {
+      "index": "2693",
+      "target": "恩歐布艾勒夫歐勒夫艾爾"
+    },
+    {
+      "index": "2697",
+      "target": "火貴族"
+    },
+    {
+      "index": "2707",
+      "target": "泡沫影"
+    },
+    {
+      "index": "2708",
+      "target": "泡沫影愛"
+    },
+    {
+      "index": "2709",
+      "target": "泡沫影哈艾阿爾特勒艾斯"
+    },
+    {
+      "index": "2710",
+      "target": "泡沫影克伊恩"
+    },
+    {
+      "index": "2711",
+      "target": "泡沫影研磨尾"
+    },
+    {
+      "index": "2712",
+      "target": "泡沫影歐夫夫斯艾特"
+    },
+    {
+      "index": "2713",
+      "target": "泡沫影達特"
+    },
+    {
+      "index": "2714",
+      "target": "赤雨"
+    },
+    {
+      "index": "2715",
+      "target": "赤雨勒伊維艾勒伊"
+    },
+    {
+      "index": "2716",
+      "target": "赤雨克阿普艾爾"
+    },
+    {
+      "index": "2717",
+      "target": "赤雨軟"
+    },
+    {
+      "index": "2718",
+      "target": "赤雨斯恩艾阿克"
+    },
+    {
+      "index": "2719",
+      "target": "赤雨布勒伊恩德伊恩格"
+    },
+    {
+      "index": "2720",
+      "target": "赤雨透月"
+    },
+    {
+      "index": "2721",
+      "target": "火第一射手"
+    },
+    {
+      "index": "2722",
+      "target": "火努波奇阿爾克"
+    },
+    {
+      "index": "2724",
+      "target": "火蘇扎庫弓"
+    },
+    {
+      "index": "2725",
+      "target": "火克爾艾斯克艾恩特弓"
+    },
+    {
+      "index": "2726",
+      "target": "火普爾伊恩克伊普阿純潔"
+    },
+    {
+      "index": "2728",
+      "target": "第一射手德阿爾克恩艾斯斯"
+    },
+    {
+      "index": "2729",
+      "target": "努波奇阿爾克德阿爾克恩艾斯斯"
+    },
+    {
+      "index": "2731",
+      "target": "弓闇蘇扎庫"
+    },
+    {
+      "index": "2732",
+      "target": "弓克爾艾斯克艾恩特德阿爾克恩艾斯斯"
+    },
+    {
+      "index": "2733",
+      "target": "普爾伊恩克伊普阿純潔闇"
+    },
+    {
+      "index": "2735",
+      "target": "狼Ⅰ"
+    },
+    {
+      "index": "2736",
+      "target": "狼Ⅱ"
+    },
+    {
+      "index": "2737",
+      "target": "狼Ⅲ"
+    },
+    {
+      "index": "2738",
+      "target": "狼Ⅳ"
+    },
+    {
+      "index": "2739",
+      "target": "瓦歐勒夫斯姆阿格"
+    },
+    {
+      "index": "2740",
+      "target": "爾歐特克阿艾普普"
+    },
+    {
+      "index": "2745",
+      "target": "弓克歐姆布歐特艾克哈恩伊克"
+    },
+    {
+      "index": "2746",
+      "target": "弓普阿爾伊艾爾特艾克哈恩伊克"
+    },
+    {
+      "index": "2753",
+      "target": "阿修阿"
+    },
+    {
+      "index": "2767",
+      "target": "斯哈阿德歐瓦普伊奧加農砲"
+    },
+    {
+      "index": "2768",
+      "target": "星雲阿爾特伊勒艾爾伊"
+    },
+    {
+      "index": "2771",
+      "target": "皮勒阿烏羅"
+    },
+    {
+      "index": "2772",
+      "target": "艾恩阿爾格艾恩特歐"
+    },
+    {
+      "index": "2773",
+      "target": "特伊普艾勒艾斯斯重弩"
+    },
+    {
+      "index": "2774",
+      "target": "月日蝕"
+    },
+    {
+      "index": "2775",
+      "target": "旅團閃光銃"
+    },
+    {
+      "index": "2776",
+      "target": "旅團閃光銃Ⅱ"
+    },
+    {
+      "index": "2777",
+      "target": "旅團閃光銃Ⅲ"
+    },
+    {
+      "index": "2779",
+      "target": "咆哮旅團銃Ⅱ"
+    },
+    {
+      "index": "2780",
+      "target": "咆哮旅團銃Ⅲ"
+    },
+    {
+      "index": "2781",
+      "target": "弓旅團日"
+    },
+    {
+      "index": "2782",
+      "target": "弓旅團日Ⅱ"
+    },
+    {
+      "index": "2783",
+      "target": "弓旅團日Ⅲ"
+    },
+    {
+      "index": "2787",
+      "target": "弓阿勒布烏爾"
+    },
+    {
+      "index": "2788",
+      "target": "弓阿勒布烏恩"
+    },
+    {
+      "index": "2789",
+      "target": "弓阿魯魯"
+    },
+    {
+      "index": "2793",
+      "target": "艾路猫深淵"
+    },
+    {
+      "index": "2795",
+      "target": "龍爾阿普伊德頭"
+    },
+    {
+      "index": "2797",
+      "target": "斯伊勒維艾爾瓦阿"
+    },
+    {
+      "index": "2799",
+      "target": "角龍阿爾特伊勒勒艾爾"
+    },
+    {
+      "index": "2810",
+      "target": "重弩眩目結晶"
+    },
+    {
+      "index": "2811",
+      "target": "重弩閃結晶"
+    },
+    {
+      "index": "2818",
+      "target": "心女武神克哈伊艾夫"
+    },
+    {
+      "index": "2819",
+      "target": "弓心斯特艾阿勒艾爾"
+    },
+    {
+      "index": "2820",
+      "target": "斯巴達魂新"
+    },
+    {
+      "index": "2835",
+      "target": "洛波Ⅰ"
+    },
+    {
+      "index": "2836",
+      "target": "洛波Ⅱ"
+    },
+    {
+      "index": "2837",
+      "target": "洛波Ⅲ"
+    },
+    {
+      "index": "2838",
+      "target": "洛波Ⅳ"
+    },
+    {
+      "index": "2839",
+      "target": "惡洛波"
+    },
+    {
+      "index": "2840",
+      "target": "球紋章洛波"
+    },
+    {
+      "index": "2855",
+      "target": "弓花菲阿斯"
+    },
+    {
+      "index": "2867",
+      "target": "致命瑪吉阿"
+    },
+    {
+      "index": "2868",
+      "target": "致命阿斯斯阿烏特"
+    },
+    {
+      "index": "2869",
+      "target": "致命布爾伊斯克歐勒阿"
+    },
+    {
+      "index": "2870",
+      "target": "致命奇跡"
+    },
+    {
+      "index": "2871",
+      "target": "致命神諭"
+    },
+    {
+      "index": "2873",
+      "target": "芙蕾爾"
+    },
+    {
+      "index": "2874",
+      "target": "芙蕾爾姆伊恩伊歐恩"
+    },
+    {
+      "index": "2876",
+      "target": "芙蕾爾艾克勒阿特"
+    },
+    {
+      "index": "2877",
+      "target": "芙蕾爾格歐伊雷"
+    },
+    {
+      "index": "2878",
+      "target": "芙蕾爾阿姆歐烏爾"
+    },
+    {
+      "index": "2886",
+      "target": "鋼渡鴉Ⅶ"
+    },
+    {
+      "index": "2887",
+      "target": "鋼渡鴉Ⅷ"
+    },
+    {
+      "index": "2900",
+      "target": "格歐勒德斯特艾爾"
+    },
+    {
+      "index": "2901",
+      "target": "格歐勒德特爾阿艾"
+    },
+    {
+      "index": "2908",
+      "target": "姆艾恩特伊阿爾爾"
+    },
+    {
+      "index": "2909",
+      "target": "姆艾恩特伊格烏恩"
+    },
+    {
+      "index": "2910",
+      "target": "姆艾恩特伊克阿恩"
+    },
+    {
+      "index": "2913",
+      "target": "激流射手"
+    },
+    {
+      "index": "2914",
+      "target": "鋼龍S嵐"
+    },
+    {
+      "index": "2915",
+      "target": "克艾勒艾布爾伊特"
+    },
+    {
+      "index": "2916",
+      "target": "戦心"
+    },
+    {
+      "index": "2917",
+      "target": "金属阿維艾恩格艾爾"
+    },
+    {
+      "index": "2920",
+      "target": "鋼渡鴉Ⅸ"
+    },
+    {
+      "index": "2932",
+      "target": "米魯雅羅"
+    },
+    {
+      "index": "2933",
+      "target": "炎王龍S憤怒"
+    },
+    {
+      "index": "2934",
+      "target": "崩龍S普烏爾格阿特歐爾"
+    },
+    {
+      "index": "2945",
+      "target": "爆狼加農砲塔凱魯"
+    },
+    {
+      "index": "2946",
+      "target": "弓瓦阿特艾爾維阿勒夫歐爾特爾艾斯斯"
+    },
+    {
+      "index": "2947",
+      "target": "弓瓦阿特艾爾夫阿勒夫歐爾特爾艾斯斯"
+    },
+    {
+      "index": "2948",
+      "target": "弓夫歐烏恩特阿伊恩夫歐爾特爾艾斯斯"
+    },
+    {
+      "index": "2949",
+      "target": "弓克阿斯克阿德艾夫歐爾特爾艾斯斯"
+    },
+    {
+      "index": "2950",
+      "target": "弓激流夫歐爾特爾艾斯斯"
+    },
+    {
+      "index": "2951",
+      "target": "弓深淵夫歐爾特爾艾斯斯"
+    },
+    {
+      "index": "2955",
+      "target": "多多多恩阿巴德"
+    },
+    {
+      "index": "2956",
+      "target": "弓青夢"
+    },
+    {
+      "index": "2964",
+      "target": "維伊克特歐爾"
+    },
+    {
+      "index": "2965",
+      "target": "維伊克特歐爾芙歐庫"
+    },
+    {
+      "index": "2967",
+      "target": "維伊克特歐爾維烏勒克阿恩歐"
+    },
+    {
+      "index": "2968",
+      "target": "維伊克特歐特茲歐涅"
+    },
+    {
+      "index": "2969",
+      "target": "克歐恩奎烏艾特"
+    },
+    {
+      "index": "2970",
+      "target": "伊恩茲伊恩歐"
+    },
+    {
+      "index": "2977",
+      "target": "壁龕"
+    },
+    {
+      "index": "2981",
+      "target": "瑪娜伊提歐"
+    },
+    {
+      "index": "2982",
+      "target": "斯普伊爾烏恩艾"
+    },
+    {
+      "index": "2988",
+      "target": "厳粛勒阿瓦"
+    },
+    {
+      "index": "3003",
+      "target": "惡艾伊艾斯"
+    },
+    {
+      "index": "3007",
+      "target": "斯阿恩克特烏斯德歐姆伊恩烏斯"
+    },
+    {
+      "index": "3008",
+      "target": "霞龍德歐姆伊恩烏斯"
+    },
+    {
+      "index": "3012",
+      "target": "瓦艾伊斯斯克歐艾"
+    },
+    {
+      "index": "3013",
+      "target": "斯特艾伊恩克歐艾"
+    },
+    {
+      "index": "3017",
+      "target": "斯克哈瓦阿爾茲克"
+    },
+    {
+      "index": "3018",
+      "target": "恩阿克哈特克歐艾"
+    },
+    {
+      "index": "3019",
+      "target": "利涅阿格Ⅰ"
+    },
+    {
+      "index": "3020",
+      "target": "利涅阿格Ⅱ"
+    },
+    {
+      "index": "3021",
+      "target": "利涅阿格Ⅲ"
+    },
+    {
+      "index": "3022",
+      "target": "上位利涅阿格"
+    },
+    {
+      "index": "3023",
+      "target": "古代利涅阿格"
+    },
+    {
+      "index": "3024",
+      "target": "雷吉娜Ⅰ"
+    },
+    {
+      "index": "3025",
+      "target": "雷吉娜Ⅱ"
+    },
+    {
+      "index": "3026",
+      "target": "雷吉娜Ⅲ"
+    },
+    {
+      "index": "3027",
+      "target": "阿德艾勒雷吉娜"
+    },
+    {
+      "index": "3028",
+      "target": "艾阿爾勒雷吉娜"
+    },
+    {
+      "index": "3029",
+      "target": "王子Ⅰ"
+    },
+    {
+      "index": "3030",
+      "target": "王子Ⅱ"
+    },
+    {
+      "index": "3031",
+      "target": "王子Ⅲ"
+    },
+    {
+      "index": "3032",
+      "target": "普伊烏斯王子"
+    },
+    {
+      "index": "3033",
+      "target": "琥珀王子"
+    },
+    {
+      "index": "3037",
+      "target": "王室斯歐烏維艾爾艾伊"
+    },
+    {
+      "index": "3038",
+      "target": "伊姆普艾爾伊烏姆"
+    },
+    {
+      "index": "3039",
+      "target": "雷加利阿Ⅰ"
+    },
+    {
+      "index": "3040",
+      "target": "雷加利阿Ⅱ"
+    },
+    {
+      "index": "3041",
+      "target": "雷加利阿Ⅲ"
+    },
+    {
+      "index": "3042",
+      "target": "德伊恩阿爾雷加利阿"
+    },
+    {
+      "index": "3043",
+      "target": "希羅茲雷加利阿"
+    },
+    {
+      "index": "3047",
+      "target": "恩歐布勒艾斯斯薔薇"
+    },
+    {
+      "index": "3048",
+      "target": "恩歐布勒艾斯斯艾歐布伊格"
+    },
+    {
+      "index": "3054",
+      "target": "哈艾阿維艾恩斯橋"
+    },
+    {
+      "index": "3055",
+      "target": "月光哈艾阿維艾恩斯橋"
+    },
+    {
+      "index": "3056",
+      "target": "德艾維歐特伊歐恩哈艾阿維艾恩斯橋"
+    },
+    {
+      "index": "3057",
+      "target": "索歐斯伊恩哈艾阿維艾恩斯橋"
+    },
+    {
+      "index": "3058",
+      "target": "永哈艾阿維艾恩斯橋"
+    },
+    {
+      "index": "3090",
+      "target": "伊斯艾克歐勒艾特特伊"
+    },
+    {
+      "index": "3092",
+      "target": "變異暴風"
+    },
+    {
+      "index": "3093",
+      "target": "艾斯斯艾恩斯克艾斯克哈瓦阿勒布艾"
+    },
+    {
+      "index": "3094",
+      "target": "霸龍姆烏特伊勒阿特歐"
+    },
+    {
+      "index": "3098",
+      "target": "黑角伊芙里歐"
+    },
+    {
+      "index": "3106",
+      "target": "白歐恩艾斯喊"
+    },
+    {
+      "index": "3131",
+      "target": "弓凍結餘燼一"
+    },
+    {
+      "index": "3132",
+      "target": "弓凍結餘燼二"
+    },
+    {
+      "index": "3133",
+      "target": "弓凍結餘燼三"
+    },
+    {
+      "index": "3134",
+      "target": "弓凍結餘燼四"
+    },
+    {
+      "index": "3135",
+      "target": "弓凍結餘燼五"
+    },
+    {
+      "index": "3136",
+      "target": "弓凍結餘燼六"
+    },
+    {
+      "index": "3137",
+      "target": "弓凍結餘燼新"
+    },
+    {
+      "index": "3138",
+      "target": "弓燃燒霜一"
+    },
+    {
+      "index": "3139",
+      "target": "弓燃燒霜二"
+    },
+    {
+      "index": "3140",
+      "target": "弓燃燒霜三"
+    },
+    {
+      "index": "3141",
+      "target": "弓燃燒霜四"
+    },
+    {
+      "index": "3142",
+      "target": "弓燃燒霜五"
+    },
+    {
+      "index": "3143",
+      "target": "弓燃燒霜六"
+    },
+    {
+      "index": "3144",
+      "target": "弓燃燒霜新"
+    },
+    {
+      "index": "3151",
+      "target": "爾烏恩艾伊恩斯艾克特伊阿"
+    },
+    {
+      "index": "3152",
+      "target": "伊爾伊斯艾恩斯艾克特伊阿"
+    },
+    {
+      "index": "3153",
+      "target": "不死普阿伊恩"
+    },
+    {
+      "index": "3154",
+      "target": "憤怒惡魔S"
+    },
+    {
+      "index": "3155",
+      "target": "夫爾歐斯特姆伊斯銃＋"
+    },
+    {
+      "index": "3156",
+      "target": "爆狼弓＋"
+    },
+    {
+      "index": "3158",
+      "target": "風暴斯特爾伊艾爾"
+    },
+    {
+      "index": "3161",
+      "target": "歐格烏恩里德"
+    },
+    {
+      "index": "3166",
+      "target": "法磁化爾阿普特歐爾阿"
+    },
+    {
+      "index": "3167",
+      "target": "阿姆恩伊斯"
+    },
+    {
+      "index": "3168",
+      "target": "夫勒烏克特烏斯"
+    },
+    {
+      "index": "3169",
+      "target": "弓浮游草原"
+    },
+    {
+      "index": "3170",
+      "target": "弓浮游普勒阿伊恩斯"
+    },
+    {
+      "index": "3171",
+      "target": "弓浮游哈伊勒勒斯"
+    },
+    {
+      "index": "3172",
+      "target": "弓浮游高地"
+    },
+    {
+      "index": "3173",
+      "target": "騎乘浮游弓"
+    },
+    {
+      "index": "3174",
+      "target": "弓浮游山"
+    },
+    {
+      "index": "3175",
+      "target": "真浮游激昂銃"
+    },
+    {
+      "index": "3176",
+      "target": "真浮游努波奇銃"
+    },
+    {
+      "index": "3177",
+      "target": "星雲加農砲"
+    },
+    {
+      "index": "3178",
+      "target": "德伊斯斯克哈阿爾奧加農砲"
+    },
+    {
+      "index": "3180",
+      "target": "弓阿恩格爾伊哈阿伊花"
+    },
+    {
+      "index": "3181",
+      "target": "弓阿恩格爾伊哈阿伊弗歐韋里恩"
+    },
+    {
+      "index": "3183",
+      "target": "斯克歐瓦勒特哈烏恩德艾爾普銃"
+    },
+    {
+      "index": "3184",
+      "target": "惡瑪奇伊涅"
+    },
+    {
+      "index": "3185",
+      "target": "德伊爾艾格烏恩德艾姆艾恩特伊阿"
+    },
+    {
+      "index": "3186",
+      "target": "爆破迪奧"
+    },
+    {
+      "index": "3187",
+      "target": "勒伊格哈特布爾艾床弩"
+    },
+    {
+      "index": "3188",
+      "target": "迪奧加農砲"
+    },
+    {
+      "index": "3189",
+      "target": "勒伊格哈特布爾艾加農砲"
+    },
+    {
+      "index": "3190",
+      "target": "迪奧矢"
+    },
+    {
+      "index": "3191",
+      "target": "艾克斯普勒歐德伊矢"
+    },
+    {
+      "index": "3192",
+      "target": "勒伊格哈特布爾艾矢"
+    },
+    {
+      "index": "3193",
+      "target": "抑制螺阿爾克克歐伊勒＋"
+    },
+    {
+      "index": "3194",
+      "target": "仙人掌薔薇"
+    },
+    {
+      "index": "3195",
+      "target": "薔薇格艾爾伊斯斯艾恩"
+    },
+    {
+      "index": "3197",
+      "target": "塔布拉布伊茲扎拉"
+    },
+    {
+      "index": "3199",
+      "target": "紋章金剛石"
+    },
+    {
+      "index": "3200",
+      "target": "冰紋章"
+    },
+    {
+      "index": "3201",
+      "target": "艾德艾勒瓦艾伊斯"
+    },
+    {
+      "index": "3202",
+      "target": "琥珀阿爾克瓦拉恩阿"
+    },
+    {
+      "index": "3203",
+      "target": "冰狐龍針＋"
+    },
+    {
+      "index": "3211",
+      "target": "花星"
+    },
+    {
+      "index": "3212",
+      "target": "流星"
+    },
+    {
+      "index": "3213",
+      "target": "螢光"
+    },
+    {
+      "index": "3214",
+      "target": "螢光德歐哈"
+    },
+    {
+      "index": "3215",
+      "target": "螢光"
+    },
+    {
+      "index": "3216",
+      "target": "螢光庫"
+    },
+    {
+      "index": "3217",
+      "target": "螢光士"
+    },
+    {
+      "index": "3218",
+      "target": "螢光球紋章"
+    },
+    {
+      "index": "3219",
+      "target": "螢光加拉修伊阿"
+    },
+    {
+      "index": "3220",
+      "target": "喬諾"
+    },
+    {
+      "index": "3221",
+      "target": "喬諾德歐哈"
+    },
+    {
+      "index": "3222",
+      "target": "喬諾"
+    },
+    {
+      "index": "3223",
+      "target": "喬諾庫"
+    },
+    {
+      "index": "3224",
+      "target": "喬諾士"
+    },
+    {
+      "index": "3225",
+      "target": "喬諾球紋章"
+    },
+    {
+      "index": "3226",
+      "target": "喬諾加拉修伊阿"
+    },
+    {
+      "index": "3248",
+      "target": "瑪吉斯歐勒艾恩恩艾"
+    },
+    {
+      "index": "3249",
+      "target": "瑪吉梅伊魯達"
+    },
+    {
+      "index": "3250",
+      "target": "瑪吉朱斯歐"
+    },
+    {
+      "index": "3251",
+      "target": "舍沙發射器閃光"
+    },
+    {
+      "index": "3252",
+      "target": "舍沙發射器光輝"
+    },
+    {
+      "index": "3253",
+      "target": "舍沙發射器栄光"
+    },
+    {
+      "index": "3254",
+      "target": "舍沙發射器透"
+    },
+    {
+      "index": "3255",
+      "target": "舍沙加農砲閃光"
+    },
+    {
+      "index": "3256",
+      "target": "舍沙加農砲光輝"
+    },
+    {
+      "index": "3257",
+      "target": "舍沙加農砲栄光"
+    },
+    {
+      "index": "3258",
+      "target": "舍沙加農砲透"
+    },
+    {
+      "index": "3259",
+      "target": "弓舍沙閃光"
+    },
+    {
+      "index": "3260",
+      "target": "弓舍沙光輝"
+    },
+    {
+      "index": "3261",
+      "target": "弓舍沙栄光"
+    },
+    {
+      "index": "3262",
+      "target": "弓舍沙透"
+    },
+    {
+      "index": "3263",
+      "target": "円舞曲螺鈿終冰彈"
+    },
+    {
+      "index": "3264",
+      "target": "円舞曲狂冰彈"
+    },
+    {
+      "index": "3265",
+      "target": "円舞曲螺鈿終雷彈"
+    },
+    {
+      "index": "3266",
+      "target": "円舞曲狂雷彈"
+    },
+    {
+      "index": "3267",
+      "target": "恩奇螺鈿終霜弓"
+    },
+    {
+      "index": "3268",
+      "target": "恩奇狂霜弓"
+    },
+    {
+      "index": "3269",
+      "target": "恩奇螺鈿終風暴弓"
+    },
+    {
+      "index": "3270",
+      "target": "恩奇狂風暴弓"
+    },
+    {
+      "index": "3271",
+      "target": "天蠍螺鈿終阿奎烏阿布歐瓦"
+    },
+    {
+      "index": "3272",
+      "target": "天蠍狂阿奎烏阿布歐瓦"
+    },
+    {
+      "index": "3273",
+      "target": "天蠍螺鈿終焔弓"
+    },
+    {
+      "index": "3274",
+      "target": "天蠍狂焔弓"
+    },
+    {
+      "index": "3278",
+      "target": "弓瓦阿爾布勒艾爾闇雷"
+    },
+    {
+      "index": "3279",
+      "target": "庫提艾I"
+    },
+    {
+      "index": "3280",
+      "target": "庫提艾Ⅱ"
+    },
+    {
+      "index": "3281",
+      "target": "庫提艾Ⅲ"
+    },
+    {
+      "index": "3282",
+      "target": "庫提艾Ⅳ"
+    },
+    {
+      "index": "3283",
+      "target": "阿夫夫艾克特伊歐"
+    },
+    {
+      "index": "3284",
+      "target": "庫提艾女王"
+    },
+    {
+      "index": "3291",
+      "target": "米涅斯砂漠"
+    },
+    {
+      "index": "3292",
+      "target": "米涅斯瓦烏艾斯特艾"
+    },
+    {
+      "index": "3294",
+      "target": "米涅斯艾爾德艾"
+    },
+    {
+      "index": "3297",
+      "target": "弓比納桃布勒歐斯斯歐姆"
+    },
+    {
+      "index": "3298",
+      "target": "修阿奇恩比納桃布勒歐斯斯歐姆斯"
+    },
+    {
+      "index": "3299",
+      "target": "舞比納桃布勒歐斯斯歐姆斯"
+    },
+    {
+      "index": "3300",
+      "target": "墜比納桃布勒歐斯斯歐姆斯"
+    },
+    {
+      "index": "3301",
+      "target": "輝耀比納桃布勒歐斯斯歐姆斯"
+    },
+    {
+      "index": "3302",
+      "target": "斯恩歐瓦克爾歐瓦君主銃"
+    },
+    {
+      "index": "3303",
+      "target": "夫爾歐斯特克爾伊君主銃"
+    },
+    {
+      "index": "3304",
+      "target": "哈歐阿爾夫爾歐斯君主銃"
+    },
+    {
+      "index": "3305",
+      "target": "吹雪君主銃"
+    },
+    {
+      "index": "3306",
+      "target": "雪崩君主銃"
+    },
+    {
+      "index": "3307",
+      "target": "斯恩歐瓦斯特歐爾君主銃"
+    },
+    {
+      "index": "3308",
+      "target": "核德伊維伊德艾爾"
+    },
+    {
+      "index": "3309",
+      "target": "核格阿澤"
+    },
+    {
+      "index": "3311",
+      "target": "崩龍S格艾恩艾爾阿勒"
+    },
+    {
+      "index": "3312",
+      "target": "青庫庫加農砲＋"
+    },
+    {
+      "index": "3313",
+      "target": "砂漠阿夫烏姆阿爾"
+    },
+    {
+      "index": "3314",
+      "target": "維烏勒克阿恩恩歐"
+    },
+    {
+      "index": "3316",
+      "target": "維烏勒姆阿格恩烏"
+    },
+    {
+      "index": "3318",
+      "target": "崩龍S阿勒姆阿特歐勒"
+    },
+    {
+      "index": "3319",
+      "target": "布爾阿茲艾恩克歐"
+    },
+    {
+      "index": "3320",
+      "target": "格伊格阿克勒艾斯"
+    },
+    {
+      "index": "3321",
+      "target": "格伊格阿恩特歐姆"
+    },
+    {
+      "index": "3325",
+      "target": "純厳粛"
+    },
+    {
+      "index": "3327",
+      "target": "純朱斯"
+    },
+    {
+      "index": "3328",
+      "target": "機械"
+    },
+    {
+      "index": "3329",
+      "target": "機械新"
+    },
+    {
+      "index": "3330",
+      "target": "機械涅烏"
+    },
+    {
+      "index": "3331",
+      "target": "機械諾沃"
+    },
+    {
+      "index": "3332",
+      "target": "機械努艾沃"
+    },
+    {
+      "index": "3333",
+      "target": "機械真"
+    },
+    {
+      "index": "3334",
+      "target": "新機械真"
+    },
+    {
+      "index": "3342",
+      "target": "隠加澤"
+    },
+    {
+      "index": "3343",
+      "target": "夜歐瓦勒"
+    },
+    {
+      "index": "3344",
+      "target": "隠姆努波"
+    },
+    {
+      "index": "3345",
+      "target": "黒夜"
+    },
+    {
+      "index": "3346",
+      "target": "弓隠"
+    },
+    {
+      "index": "3347",
+      "target": "夜夫勒伊格哈特"
+    },
+    {
+      "index": "3348",
+      "target": "弓阿維伊德伊阿"
+    },
+    {
+      "index": "3349",
+      "target": "帝國加農砲"
+    },
+    {
+      "index": "3350",
+      "target": "帝國恩寵加農砲"
+    },
+    {
+      "index": "3351",
+      "target": "帝國德伊格恩伊特伊加農砲"
+    },
+    {
+      "index": "3352",
+      "target": "帝國姆阿杰艾斯特伊加農砲"
+    },
+    {
+      "index": "3353",
+      "target": "帝國普爾艾斯艾恩克艾加農砲"
+    },
+    {
+      "index": "3354",
+      "target": "帝國斯阿恩克特伊特伊加農砲"
+    },
+    {
+      "index": "3355",
+      "target": "帝國守護加農砲"
+    },
+    {
+      "index": "3356",
+      "target": "弓帝國"
+    },
+    {
+      "index": "3357",
+      "target": "弓帝國阿烏特哈歐爾伊特"
+    },
+    {
+      "index": "3358",
+      "target": "弓帝國力量"
+    },
+    {
+      "index": "3359",
+      "target": "弓帝國伊恩夫勒烏艾恩克"
+    },
+    {
+      "index": "3360",
+      "target": "弓帝國法伊斯"
+    },
+    {
+      "index": "3361",
+      "target": "弓帝國勇気"
+    },
+    {
+      "index": "3362",
+      "target": "弓帝國百鈿終極"
+    },
+    {
+      "index": "3367",
+      "target": "豪華特烏勒伊普"
+    },
+    {
+      "index": "3383",
+      "target": "格阿勒阿克斯伊橋"
+    },
+    {
+      "index": "3384",
+      "target": "星光橋"
+    },
+    {
+      "index": "3385",
+      "target": "斯特阿爾德烏斯特橋"
+    },
+    {
+      "index": "3505",
+      "target": "炎王龍S加農砲"
+    },
+    {
+      "index": "3506",
+      "target": "奇跡灯"
+    },
+    {
+      "index": "3507",
+      "target": "崩龍S克歐恩哈艾爾阿勒"
+    },
+    {
+      "index": "3508",
+      "target": "紅玉基利Ⅴ"
+    },
+    {
+      "index": "3509",
+      "target": "紅玉基利Ⅵ"
+    },
+    {
+      "index": "3510",
+      "target": "紅玉河豚Ⅴ"
+    },
+    {
+      "index": "3511",
+      "target": "紅玉河豚Ⅵ"
+    },
+    {
+      "index": "3512",
+      "target": "肉加農砲瓦艾勒勒完成Ｇ"
+    },
+    {
+      "index": "3513",
+      "target": "灰晶蠍貫通"
+    },
+    {
+      "index": "3514",
+      "target": "紅玉渡鴉Ⅶ"
+    },
+    {
+      "index": "3515",
+      "target": "紅玉渡鴉Ⅷ"
+    },
+    {
+      "index": "3516",
+      "target": "紅玉渡鴉Ⅸ"
+    },
+    {
+      "index": "3517",
+      "target": "毀滅霜弓"
+    },
+    {
+      "index": "3518",
+      "target": "毀滅猛霜弓"
+    },
+    {
+      "index": "3519",
+      "target": "毀滅凶暴霜弓"
+    },
+    {
+      "index": "3520",
+      "target": "毀滅螺鈿終霜弓"
+    },
+    {
+      "index": "3521",
+      "target": "毀滅狂霜弓"
+    },
+    {
+      "index": "3530",
+      "target": "維歐勒杰阿克哈阿爾勒阿"
+    },
+    {
+      "index": "3531",
+      "target": "維歐勒杰阿艾克阿勒"
+    },
+    {
+      "index": "3532",
+      "target": "維歐勒杰阿阿勒伊克歐斯"
+    },
+    {
+      "index": "3533",
+      "target": "維歐勒杰阿布艾爾姆艾勒伊"
+    },
+    {
+      "index": "3534",
+      "target": "維歐勒杰阿爾烏布伊克歐恩"
+    },
+    {
+      "index": "3535",
+      "target": "維歐勒杰阿勒瑪澤"
+    },
+    {
+      "index": "3552",
+      "target": "豪華特烏勒伊普"
+    },
+    {
+      "index": "3559",
+      "target": "毀滅風暴弓"
+    },
+    {
+      "index": "3560",
+      "target": "毀滅猛風暴弓"
+    },
+    {
+      "index": "3561",
+      "target": "毀滅凶暴風暴弓"
+    },
+    {
+      "index": "3562",
+      "target": "毀滅螺鈿終風暴弓"
+    },
+    {
+      "index": "3563",
+      "target": "毀滅狂風暴弓"
+    },
+    {
+      "index": "3564",
+      "target": "冰皇帝"
+    },
+    {
+      "index": "3565",
+      "target": "冰皇帝＋"
+    },
+    {
+      "index": "3566",
+      "target": "冰帝哈阿伊勒斯特歐爾"
+    },
+    {
+      "index": "3567",
+      "target": "冰帝雪崩"
+    },
+    {
+      "index": "3568",
+      "target": "冰皇帝氷齡"
+    },
+    {
+      "index": "3569",
+      "target": "冰君主"
+    },
+    {
+      "index": "3570",
+      "target": "冰君主＋"
+    },
+    {
+      "index": "3571",
+      "target": "冰闇里弗艾"
+    },
+    {
+      "index": "3572",
+      "target": "冰闇里弗艾＋"
+    },
+    {
+      "index": "3573",
+      "target": "冰闇里弗艾克爾烏艾勒特伊"
+    },
+    {
+      "index": "3574",
+      "target": "冰闇里弗艾凶暴"
+    },
+    {
+      "index": "3575",
+      "target": "冰闇里弗艾特伊爾阿恩恩伊"
+    },
+    {
+      "index": "3576",
+      "target": "冰闇王里弗艾"
+    },
+    {
+      "index": "3577",
+      "target": "冰闇王里弗艾＋"
+    },
+    {
+      "index": "3578",
+      "target": "炎王龍S加利奇"
+    },
+    {
+      "index": "3579",
+      "target": "弗洛S皮斯阿里"
+    },
+    {
+      "index": "3580",
+      "target": "弗洛S杰歐勒勒伊"
+    },
+    {
+      "index": "3584",
+      "target": "格歐烏爾姆艾歐瓦吉阿爾"
+    },
+    {
+      "index": "3585",
+      "target": "格歐烏爾姆艾歐瓦証明球"
+    },
+    {
+      "index": "3586",
+      "target": "格歐烏爾姆艾歐瓦制螺鈿"
+    },
+    {
+      "index": "3589",
+      "target": "超格歐烏爾姆艾歐瓦"
+    },
+    {
+      "index": "3590",
+      "target": "格歐烏爾姆艾姆艾吉阿爾"
+    },
+    {
+      "index": "3591",
+      "target": "格歐烏爾姆艾姆艾証明球"
+    },
+    {
+      "index": "3592",
+      "target": "格歐烏爾姆艾姆艾制螺鈿"
+    },
+    {
+      "index": "3595",
+      "target": "超格歐烏爾姆艾姆艾"
+    },
+    {
+      "index": "3598",
+      "target": "波勒羅熱彈"
+    },
+    {
+      "index": "3599",
+      "target": "波勒羅猛熱彈"
+    },
+    {
+      "index": "3600",
+      "target": "波勒羅凶暴熱彈"
+    },
+    {
+      "index": "3601",
+      "target": "波勒羅螺鈿終熱彈"
+    },
+    {
+      "index": "3602",
+      "target": "波勒羅狂熱彈"
+    },
+    {
+      "index": "3608",
+      "target": "弓爾阿伊杰伊恩特爾阿恩斯夫歐爾"
+    },
+    {
+      "index": "3609",
+      "target": "嵐龍S夫歐勒烏爾"
+    },
+    {
+      "index": "3610",
+      "target": "布爾伊姆斯特爾艾德爾阿克艾克伊斯"
+    },
+    {
+      "index": "3611",
+      "target": "斯特伊格伊阿恩伊恩維伊德伊阿"
+    },
+    {
+      "index": "3612",
+      "target": "布爾伊姆斯特爾艾德阿凱諾烏斯"
+    },
+    {
+      "index": "3613",
+      "target": "斯特伊格伊阿恩哈烏姆伊勒伊特阿"
+    },
+    {
+      "index": "3614",
+      "target": "布爾伊姆斯特爾艾德爾阿克艾斯伊格"
+    },
+    {
+      "index": "3615",
+      "target": "斯特伊格伊阿恩普阿特伊艾恩特伊"
+    },
+    {
+      "index": "3616",
+      "target": "真斯特伊格伊阿恩普阿特伊艾恩特伊"
+    },
+    {
+      "index": "3622",
+      "target": "艾路猫黒"
+    },
+    {
+      "index": "3623",
+      "target": "艾路猫闇"
+    },
+    {
+      "index": "3624",
+      "target": "恩伊格哈特姆阿爾夫艾勒伊恩艾"
+    },
+    {
+      "index": "3626",
+      "target": "雷銃"
+    },
+    {
+      "index": "3627",
+      "target": "雷銃斯哈歐歐特"
+    },
+    {
+      "index": "3628",
+      "target": "雷銃斯里凱"
+    },
+    {
+      "index": "3629",
+      "target": "雷銃爆"
+    },
+    {
+      "index": "3630",
+      "target": "雷加農砲"
+    },
+    {
+      "index": "3631",
+      "target": "雷加農砲光"
+    },
+    {
+      "index": "3632",
+      "target": "雷加農砲熱"
+    },
+    {
+      "index": "3634",
+      "target": "雷弓"
+    },
+    {
+      "index": "3635",
+      "target": "雷弓歐特哈艾爾"
+    },
+    {
+      "index": "3636",
+      "target": "雷弓紫黑鍵"
+    },
+    {
+      "index": "3637",
+      "target": "雷弓勒烏恩阿特伊克"
+    },
+    {
+      "index": "3650",
+      "target": "波勒羅水彈"
+    },
+    {
+      "index": "3651",
+      "target": "波勒羅猛水彈"
+    },
+    {
+      "index": "3652",
+      "target": "波勒羅凶暴水彈"
+    },
+    {
+      "index": "3653",
+      "target": "波勒羅螺鈿終水彈"
+    },
+    {
+      "index": "3654",
+      "target": "波勒羅狂水彈"
+    },
+    {
+      "index": "3655",
+      "target": "普爾艾特特歐"
+    },
+    {
+      "index": "3669",
+      "target": "作曲彈序"
+    },
+    {
+      "index": "3670",
+      "target": "作曲彈合唱"
+    },
+    {
+      "index": "3671",
+      "target": "作曲彈艾恩克歐爾艾"
+    },
+    {
+      "index": "3672",
+      "target": "作曲里弗艾序"
+    },
+    {
+      "index": "3673",
+      "target": "作曲里弗艾合唱"
+    },
+    {
+      "index": "3674",
+      "target": "作曲里弗艾艾恩克歐爾艾"
+    },
+    {
+      "index": "3675",
+      "target": "作曲強撃序"
+    },
+    {
+      "index": "3676",
+      "target": "作曲強撃合唱"
+    },
+    {
+      "index": "3677",
+      "target": "作曲強撃艾恩克歐爾艾"
+    },
+    {
+      "index": "3685",
+      "target": "懷斯光線"
+    },
+    {
+      "index": "3687",
+      "target": "特爾伊格格艾爾哈阿茲阿爾德"
+    },
+    {
+      "index": "3688",
+      "target": "特爾伊格格艾爾普艾爾伊勒"
+    },
+    {
+      "index": "3689",
+      "target": "維伊斯伊歐恩失"
+    },
+    {
+      "index": "3690",
+      "target": "維伊斯伊歐恩德艾斯普阿伊爾"
+    },
+    {
+      "index": "3691",
+      "target": "維伊斯伊歐恩瓦尼修"
+    },
+    {
+      "index": "3692",
+      "target": "裂水龍阿勒特阿爾"
+    },
+    {
+      "index": "3719",
+      "target": "悅"
+    },
+    {
+      "index": "3720",
+      "target": "悅索魯德"
+    },
+    {
+      "index": "3721",
+      "target": "悅塔雅烏"
+    },
+    {
+      "index": "3722",
+      "target": "悅努波奇"
+    },
+    {
+      "index": "3723",
+      "target": "悅霊"
+    },
+    {
+      "index": "3724",
+      "target": "悅日"
+    },
+    {
+      "index": "3725",
+      "target": "悅申"
+    },
+    {
+      "index": "3726",
+      "target": "伊絲"
+    },
+    {
+      "index": "3727",
+      "target": "伊絲索魯德"
+    },
+    {
+      "index": "3728",
+      "target": "伊絲塔雅烏"
+    },
+    {
+      "index": "3729",
+      "target": "伊絲努波奇"
+    },
+    {
+      "index": "3730",
+      "target": "伊絲霊"
+    },
+    {
+      "index": "3731",
+      "target": "伊絲日"
+    },
+    {
+      "index": "3732",
+      "target": "伊絲申"
+    },
+    {
+      "index": "3733",
+      "target": "冰君主新"
+    },
+    {
+      "index": "3734",
+      "target": "冰闇王里弗艾新"
+    },
+    {
+      "index": "3735",
+      "target": "沃拉強襲"
+    },
+    {
+      "index": "3736",
+      "target": "沃拉強襲＋"
+    },
+    {
+      "index": "3737",
+      "target": "真沃拉強襲"
+    },
+    {
+      "index": "3738",
+      "target": "阿勒維歐爾阿強襲"
+    },
+    {
+      "index": "3739",
+      "target": "沃拉發射器"
+    },
+    {
+      "index": "3740",
+      "target": "沃拉發射器＋"
+    },
+    {
+      "index": "3741",
+      "target": "真沃拉發射器"
+    },
+    {
+      "index": "3742",
+      "target": "阿勒維歐爾阿發射器"
+    },
+    {
+      "index": "3743",
+      "target": "沃拉矢"
+    },
+    {
+      "index": "3744",
+      "target": "沃拉矢＋"
+    },
+    {
+      "index": "3745",
+      "target": "真沃拉矢"
+    },
+    {
+      "index": "3746",
+      "target": "阿勒維歐勒阿矢"
+    },
+    {
+      "index": "3747",
+      "target": "可愛護符"
+    },
+    {
+      "index": "3748",
+      "target": "弓星空Ⅰ"
+    },
+    {
+      "index": "3749",
+      "target": "弓星空Ⅱ"
+    },
+    {
+      "index": "3750",
+      "target": "弓星空Ⅲ"
+    },
+    {
+      "index": "3751",
+      "target": "弓星空Ⅳ"
+    },
+    {
+      "index": "3752",
+      "target": "弓星空Ⅴ"
+    },
+    {
+      "index": "3753",
+      "target": "弓星空Ⅵ"
+    },
+    {
+      "index": "3754",
+      "target": "弓夜空Ⅰ"
+    },
+    {
+      "index": "3755",
+      "target": "弓夜空Ⅱ"
+    },
+    {
+      "index": "3756",
+      "target": "弓夜空Ⅲ"
+    },
+    {
+      "index": "3757",
+      "target": "弓夜空Ⅳ"
+    },
+    {
+      "index": "3758",
+      "target": "弓夜空Ⅴ"
+    },
+    {
+      "index": "3759",
+      "target": "弓夜空Ⅵ"
+    },
+    {
+      "index": "3760",
+      "target": "瓦伊斯艾布歐烏爾"
+    },
+    {
+      "index": "3761",
+      "target": "瓦伊斯艾德爾伊勒"
+    },
+    {
+      "index": "3762",
+      "target": "瓦伊斯艾姆艾特阿"
+    },
+    {
+      "index": "3766",
+      "target": "弓祭典桜"
+    },
+    {
+      "index": "3767",
+      "target": "格爾伊姆爾艾阿普艾爾I"
+    },
+    {
+      "index": "3768",
+      "target": "格爾伊姆爾艾阿普艾爾Ⅱ"
+    },
+    {
+      "index": "3769",
+      "target": "格爾伊姆爾艾阿普艾爾Ⅲ"
+    },
+    {
+      "index": "3770",
+      "target": "格爾伊姆爾艾阿普艾爾Ⅳ"
+    },
+    {
+      "index": "3771",
+      "target": "格爾伊姆爾艾阿普艾爾Ｖ"
+    },
+    {
+      "index": "3772",
+      "target": "格爾伊姆爾艾阿普艾爾Ⅵ"
+    },
+    {
+      "index": "3774",
+      "target": "魯米艾雷"
+    },
+    {
+      "index": "3775",
+      "target": "維艾爾特烏"
+    },
+    {
+      "index": "3776",
+      "target": "德薩斯雷"
+    },
+    {
+      "index": "3777",
+      "target": "德魯格"
+    },
+    {
+      "index": "3778",
+      "target": "爾阿維伊斯斯艾烏"
+    },
+    {
+      "index": "3779",
+      "target": "德艾斯伊爾"
+    },
+    {
+      "index": "3780",
+      "target": "Ｌ伊恩恩歐克艾恩克"
+    },
+    {
+      "index": "3781",
+      "target": "冰狐龍烏修伊"
+    },
+    {
+      "index": "3782",
+      "target": "冰狐龍阿格烏勒哈阿斯"
+    },
+    {
+      "index": "3783",
+      "target": "冰狐龍阿伊格烏伊勒勒艾"
+    },
+    {
+      "index": "3784",
+      "target": "哈伊烏哈伊烏杰伊魯托"
+    },
+    {
+      "index": "3785",
+      "target": "冰狐龍爾阿姆勒阿"
+    },
+    {
+      "index": "3786",
+      "target": "冰狐龍佛雷歐"
+    },
+    {
+      "index": "3787",
+      "target": "冰狐龍達歐雷"
+    },
+    {
+      "index": "3788",
+      "target": "哈伊烏哈伊烏杰伊拉米娜"
+    },
+    {
+      "index": "3789",
+      "target": "弓比納桃"
+    },
+    {
+      "index": "3790",
+      "target": "夫勒阿姆艾斯燃料"
+    },
+    {
+      "index": "3791",
+      "target": "祈願弾序"
+    },
+    {
+      "index": "3792",
+      "target": "祈願彈合唱"
+    },
+    {
+      "index": "3793",
+      "target": "祈願彈菲娜勒"
+    },
+    {
+      "index": "3794",
+      "target": "祈願里弗艾序"
+    },
+    {
+      "index": "3795",
+      "target": "祈願里弗艾合唱"
+    },
+    {
+      "index": "3796",
+      "target": "祈願里弗艾菲娜勒"
+    },
+    {
+      "index": "3797",
+      "target": "祈願強撃序"
+    },
+    {
+      "index": "3798",
+      "target": "祈願強撃合唱"
+    },
+    {
+      "index": "3799",
+      "target": "祈願強撃合唱"
+    },
+    {
+      "index": "3800",
+      "target": "蒼銃弾"
+    },
+    {
+      "index": "3804",
+      "target": "殘響霜銃"
+    },
+    {
+      "index": "3805",
+      "target": "殘響猛霜銃"
+    },
+    {
+      "index": "3806",
+      "target": "殘響凶暴霜銃"
+    },
+    {
+      "index": "3807",
+      "target": "殘響螺鈿終霜銃"
+    },
+    {
+      "index": "3808",
+      "target": "殘響狂霜銃"
+    },
+    {
+      "index": "3809",
+      "target": "殘響雷銃"
+    },
+    {
+      "index": "3810",
+      "target": "殘響猛雷銃"
+    },
+    {
+      "index": "3811",
+      "target": "殘響凶暴雷銃"
+    },
+    {
+      "index": "3812",
+      "target": "殘響螺鈿終雷銃"
+    },
+    {
+      "index": "3813",
+      "target": "殘響狂雷銃"
+    },
+    {
+      "index": "3814",
+      "target": "混沌焔銃"
+    },
+    {
+      "index": "3815",
+      "target": "混沌猛焔銃"
+    },
+    {
+      "index": "3816",
+      "target": "混沌凶暴焔銃"
+    },
+    {
+      "index": "3817",
+      "target": "混沌螺鈿終焔銃"
+    },
+    {
+      "index": "3818",
+      "target": "混沌狂焔銃"
+    },
+    {
+      "index": "3819",
+      "target": "混沌水銃"
+    },
+    {
+      "index": "3820",
+      "target": "混沌猛水銃"
+    },
+    {
+      "index": "3821",
+      "target": "混沌凶暴水銃"
+    },
+    {
+      "index": "3822",
+      "target": "混沌螺鈿終水銃"
+    },
+    {
+      "index": "3823",
+      "target": "混沌狂水銃"
+    },
+    {
+      "index": "3824",
+      "target": "星雲橋"
+    },
+    {
+      "index": "3825",
+      "target": "爆狼ＥＸ輕弩布艾斯特伊恩"
+    },
+    {
+      "index": "3826",
+      "target": "爆狼ＥＸ輕弩瓦修烏"
+    },
+    {
+      "index": "3827",
+      "target": "爆狼ＥＸ輕弩庫特諾"
+    },
+    {
+      "index": "3828",
+      "target": "爆狼ＥＸ輕弩哈伊姆姆艾勒"
+    },
+    {
+      "index": "3829",
+      "target": "聖墜日Ⅰ"
+    },
+    {
+      "index": "3830",
+      "target": "聖墜日Ⅱ"
+    },
+    {
+      "index": "3831",
+      "target": "聖墜日Ⅲ"
+    },
+    {
+      "index": "3832",
+      "target": "聖墜日Ⅳ"
+    },
+    {
+      "index": "3833",
+      "target": "聖墜日Ⅴ"
+    },
+    {
+      "index": "3834",
+      "target": "聖墜日Ⅵ"
+    },
+    {
+      "index": "3835",
+      "target": "聖墜日Ⅶ"
+    },
+    {
+      "index": "3850",
+      "target": "厳粛艾伊艾斯加農砲"
+    },
+    {
+      "index": "3860",
+      "target": "灼零龍愚空Ⅰ"
+    },
+    {
+      "index": "3861",
+      "target": "灼零龍愚空Ⅱ"
+    },
+    {
+      "index": "3862",
+      "target": "灼零龍愚空Ⅲ"
+    },
+    {
+      "index": "3863",
+      "target": "灼零龍愚空Ⅳ"
+    },
+    {
+      "index": "3864",
+      "target": "灼零龍愚空克烏阿克克烏阿克"
+    },
+    {
+      "index": "3865",
+      "target": "艾路猫弓恩伊阿"
+    },
+    {
+      "index": "3866",
+      "target": "梅拉路弓恩伊阿"
+    },
+    {
+      "index": "3869",
+      "target": "嵐龍重弩斯阿艾特特阿"
+    },
+    {
+      "index": "3870",
+      "target": "嵐龍重弩薩伊可"
+    },
+    {
+      "index": "3871",
+      "target": "嵐龍重弩拉伊歐"
+    },
+    {
+      "index": "3872",
+      "target": "嵐龍光重弩姆歐爾烏恩伊阿"
+    },
+    {
+      "index": "3873",
+      "target": "嵐龍弓艾庫雷"
+    },
+    {
+      "index": "3874",
+      "target": "嵐龍弓爾歐布歐恩"
+    },
+    {
+      "index": "3875",
+      "target": "嵐龍弓夫烏勒格烏爾"
+    },
+    {
+      "index": "3876",
+      "target": "嵐龍光弓特拉芙"
+    },
+    {
+      "index": "3877",
+      "target": "爾烏布艾爾布阿爾"
+    },
+    {
+      "index": "3878",
+      "target": "爾烏布艾爾布阿爾＋"
+    },
+    {
+      "index": "3879",
+      "target": "真爾烏布艾爾布阿爾"
+    },
+    {
+      "index": "3880",
+      "target": "特艾爾爾阿爾烏布艾爾夫烏斯"
+    },
+    {
+      "index": "3881",
+      "target": "爾烏布艾爾夫烏斯"
+    },
+    {
+      "index": "3882",
+      "target": "爾烏布艾爾夫烏斯＋"
+    },
+    {
+      "index": "3883",
+      "target": "真爾烏布艾爾夫烏斯"
+    },
+    {
+      "index": "3884",
+      "target": "特艾爾爾阿爾烏布艾爾夫烏斯"
+    },
+    {
+      "index": "3885",
+      "target": "爾烏布艾爾阿爾克"
+    },
+    {
+      "index": "3886",
+      "target": "爾烏布艾爾阿爾克＋"
+    },
+    {
+      "index": "3887",
+      "target": "真爾烏布艾爾阿爾克"
+    },
+    {
+      "index": "3888",
+      "target": "特艾爾爾阿爾烏布艾爾阿爾克"
+    },
+    {
+      "index": "3889",
+      "target": "深紅哈阿勒維艾"
+    },
+    {
+      "index": "3890",
+      "target": "深紅薩烏拉"
+    },
+    {
+      "index": "3891",
+      "target": "折磨哈阿勒維艾"
+    },
+    {
+      "index": "3892",
+      "target": "折磨薩烏拉"
+    },
+    {
+      "index": "3893",
+      "target": "可愛攻撃"
+    },
+    {
+      "index": "3894",
+      "target": "可愛體"
+    },
+    {
+      "index": "3895",
+      "target": "可愛波歐吉艾"
+    },
+    {
+      "index": "3896",
+      "target": "布阿布伊攻撃"
+    },
+    {
+      "index": "3897",
+      "target": "布阿布伊體"
+    },
+    {
+      "index": "3898",
+      "target": "布阿布伊波歐吉艾"
+    },
+    {
+      "index": "3899",
+      "target": "偽投影Ⅶ"
+    },
+    {
+      "index": "3900",
+      "target": "致命勒烏姆艾恩"
+    },
+    {
+      "index": "3901",
+      "target": "芙蕾爾勒烏姆伊艾爾"
+    },
+    {
+      "index": "3902",
+      "target": "不死研磨尾"
+    },
+    {
+      "index": "3903",
+      "target": "憤怒嵐"
+    },
+    {
+      "index": "3906",
+      "target": "邪針"
+    },
+    {
+      "index": "3907",
+      "target": "針普哈阿勒阿恩克斯"
+    },
+    {
+      "index": "3908",
+      "target": "伊勒勒歐姆艾恩"
+    },
+    {
+      "index": "3909",
+      "target": "艾恩德勒艾斯斯空"
+    },
+    {
+      "index": "3910",
+      "target": "暴風恩伊格哈特布歐瓦"
+    },
+    {
+      "index": "3911",
+      "target": "天上嵐"
+    },
+    {
+      "index": "3912",
+      "target": "烏恩勒伊姆伊特艾德阿伊布爾艾阿克"
+    },
+    {
+      "index": "3913",
+      "target": "雅翁龍銃斯伊斯勒"
+    },
+    {
+      "index": "3914",
+      "target": "雅翁龍銃涅菲伊拉"
+    },
+    {
+      "index": "3915",
+      "target": "雅翁龍銃娜瑪娜德"
+    },
+    {
+      "index": "3916",
+      "target": "雅翁龍銃爾歐布艾爾伊斯"
+    },
+    {
+      "index": "3917",
+      "target": "雅翁龍加農砲娜祖娜"
+    },
+    {
+      "index": "3918",
+      "target": "雅翁龍加農砲比歐薩"
+    },
+    {
+      "index": "3919",
+      "target": "雅翁龍加農砲布阿勒斯伊歐"
+    },
+    {
+      "index": "3920",
+      "target": "雅翁龍加農砲普勒阿恩阿特阿斯"
+    },
+    {
+      "index": "3921",
+      "target": "連歌加農砲"
+    },
+    {
+      "index": "3922",
+      "target": "連歌加農砲芒"
+    },
+    {
+      "index": "3923",
+      "target": "連歌加農砲斯伊恩艾恩斯伊斯"
+    },
+    {
+      "index": "3925",
+      "target": "弓連歌"
+    },
+    {
+      "index": "3926",
+      "target": "弓連歌克哈爾伊斯阿恩特"
+    },
+    {
+      "index": "3927",
+      "target": "弓連歌姆歐爾伊夫歐勒伊"
+    },
+    {
+      "index": "3931",
+      "target": "拉維娜強襲"
+    },
+    {
+      "index": "3932",
+      "target": "拉維娜強襲＋"
+    },
+    {
+      "index": "3933",
+      "target": "真拉維娜強襲"
+    },
+    {
+      "index": "3934",
+      "target": "決勝拉維娜強襲"
+    },
+    {
+      "index": "3935",
+      "target": "拉維娜爆"
+    },
+    {
+      "index": "3936",
+      "target": "拉維娜爆＋"
+    },
+    {
+      "index": "3937",
+      "target": "真拉維娜爆"
+    },
+    {
+      "index": "3938",
+      "target": "決勝拉維娜爆"
+    },
+    {
+      "index": "3940",
+      "target": "弓凍結餘燼普歐勒阿爾"
+    },
+    {
+      "index": "3941",
+      "target": "弓燃燒霜普歐勒阿爾"
+    },
+    {
+      "index": "3942",
+      "target": "照雷鳥弓艾伊艾斯"
+    },
+    {
+      "index": "3943",
+      "target": "照雷鳥弓斯克伊艾斯"
+    },
+    {
+      "index": "3944",
+      "target": "照雷鳥弓天"
+    },
+    {
+      "index": "3945",
+      "target": "照雷鳥弓芙尼"
+    },
+    {
+      "index": "3946",
+      "target": "闇發射器薩克斯伊科拉"
+    },
+    {
+      "index": "3947",
+      "target": "闇發射器菲瑟杜拉"
+    },
+    {
+      "index": "3948",
+      "target": "闇發射器阿烏爾歐爾艾烏斯"
+    },
+    {
+      "index": "3949",
+      "target": "闇發射器特阿爾斯伊格艾爾"
+    },
+    {
+      "index": "3950",
+      "target": "拉維娜矢"
+    },
+    {
+      "index": "3951",
+      "target": "拉維娜矢＋"
+    },
+    {
+      "index": "3952",
+      "target": "真拉維娜矢"
+    },
+    {
+      "index": "3953",
+      "target": "決勝拉維娜矢"
+    },
+    {
+      "index": "3954",
+      "target": "連歌銃"
+    },
+    {
+      "index": "3955",
+      "target": "連歌銃普艾特阿斯伊特艾"
+    },
+    {
+      "index": "3956",
+      "target": "連歌銃姆伊勒維烏斯"
+    },
+    {
+      "index": "3968",
+      "target": "激昂發射器姆阿恩"
+    },
+    {
+      "index": "3969",
+      "target": "激昂發射器心"
+    },
+    {
+      "index": "3970",
+      "target": "激昂發射器全"
+    },
+    {
+      "index": "3971",
+      "target": "怒發射器激昂"
+    },
+    {
+      "index": "3972",
+      "target": "弓激昂普哈艾恩歐姆艾恩"
+    },
+    {
+      "index": "3973",
+      "target": "弓激昂阿普普艾阿爾艾阿"
+    },
+    {
+      "index": "3974",
+      "target": "弓激昂法可德"
+    },
+    {
+      "index": "3975",
+      "target": "怒發射器哈艾恩斯哈伊阿"
+    },
+    {
+      "index": "3976",
+      "target": "拉薩薩弩"
+    },
+    {
+      "index": "3978",
+      "target": "拉薩薩爾艾布艾勒勒伊歐"
+    },
+    {
+      "index": "3979",
+      "target": "斯阿伊伊阿德加農砲"
+    },
+    {
+      "index": "3981",
+      "target": "斯阿伊伊阿德爾艾布艾勒勒伊歐"
+    },
+    {
+      "index": "3982",
+      "target": "弓斯哈阿勒伊阿"
+    },
+    {
+      "index": "3983",
+      "target": "弓伊恩斯烏爾格艾恩"
+    },
+    {
+      "index": "3984",
+      "target": "斯哈阿勒伊阿爾艾布艾勒勒伊歐"
+    },
+    {
+      "index": "3989",
+      "target": "雙弩"
+    },
+    {
+      "index": "3990",
+      "target": "雙弩＋"
+    },
+    {
+      "index": "3991",
+      "target": "真雙弩"
+    },
+    {
+      "index": "3992",
+      "target": "艾斯德烏阿弩"
+    },
+    {
+      "index": "3993",
+      "target": "剛毅彈新"
+    },
+    {
+      "index": "3994",
+      "target": "剛毅彈魯恩艾"
+    },
+    {
+      "index": "3995",
+      "target": "剛毅彈法伊斯"
+    },
+    {
+      "index": "3996",
+      "target": "剛毅彈心"
+    },
+    {
+      "index": "3997",
+      "target": "剛毅彈特烏斯"
+    },
+    {
+      "index": "3998",
+      "target": "剛毅彈神"
+    },
+    {
+      "index": "3999",
+      "target": "剛毅里弗艾新"
+    },
+    {
+      "index": "4000",
+      "target": "剛毅里弗艾魯恩艾"
+    },
+    {
+      "index": "4001",
+      "target": "剛毅里弗艾法伊斯"
+    },
+    {
+      "index": "4002",
+      "target": "剛毅里弗艾心"
+    },
+    {
+      "index": "4003",
+      "target": "剛毅里弗艾特烏斯"
+    },
+    {
+      "index": "4004",
+      "target": "剛毅里弗艾神"
+    },
+    {
+      "index": "4005",
+      "target": "剛毅強撃新"
+    },
+    {
+      "index": "4006",
+      "target": "剛毅強撃魯恩艾"
+    },
+    {
+      "index": "4007",
+      "target": "剛毅強撃法伊斯"
+    },
+    {
+      "index": "4008",
+      "target": "剛毅強撃心"
+    },
+    {
+      "index": "4009",
+      "target": "剛毅強撃特烏斯"
+    },
+    {
+      "index": "4010",
+      "target": "剛毅強撃神"
+    },
+    {
+      "index": "4015",
+      "target": "阿佩普發射器閃光"
+    },
+    {
+      "index": "4016",
+      "target": "阿佩普發射器光輝"
+    },
+    {
+      "index": "4017",
+      "target": "阿佩普發射器栄光"
+    },
+    {
+      "index": "4018",
+      "target": "阿佩普發射器透"
+    },
+    {
+      "index": "4019",
+      "target": "阿佩普加農砲閃光"
+    },
+    {
+      "index": "4020",
+      "target": "阿佩普加農砲光輝"
+    },
+    {
+      "index": "4021",
+      "target": "阿佩普加農砲栄光"
+    },
+    {
+      "index": "4022",
+      "target": "阿佩普加農砲透"
+    },
+    {
+      "index": "4023",
+      "target": "弓阿佩普閃光"
+    },
+    {
+      "index": "4024",
+      "target": "弓阿佩普光輝"
+    },
+    {
+      "index": "4025",
+      "target": "弓阿佩普栄光"
+    },
+    {
+      "index": "4026",
+      "target": "弓阿佩普透"
+    },
+    {
+      "index": "4027",
+      "target": "恩奇霜弓閃光"
+    },
+    {
+      "index": "4028",
+      "target": "恩奇霜弓光輝"
+    },
+    {
+      "index": "4029",
+      "target": "恩奇風暴弓閃光"
+    },
+    {
+      "index": "4030",
+      "target": "恩奇風暴弓光輝"
+    },
+    {
+      "index": "4031",
+      "target": "天蠍阿奎烏阿布歐瓦閃光"
+    },
+    {
+      "index": "4032",
+      "target": "天蠍阿奎烏阿布歐瓦光輝"
+    },
+    {
+      "index": "4033",
+      "target": "天蠍焔弓閃光"
+    },
+    {
+      "index": "4034",
+      "target": "天蠍焔弓光輝"
+    },
+    {
+      "index": "4035",
+      "target": "円舞曲冰彈閃光"
+    },
+    {
+      "index": "4036",
+      "target": "円舞曲冰彈光輝"
+    },
+    {
+      "index": "4037",
+      "target": "円舞曲雷彈閃光"
+    },
+    {
+      "index": "4038",
+      "target": "円舞曲雷彈光輝"
+    },
+    {
+      "index": "4039",
+      "target": "雙格艾瓦艾哈爾"
+    },
+    {
+      "index": "4040",
+      "target": "雙格艾瓦艾哈爾＋"
+    },
+    {
+      "index": "4041",
+      "target": "真雙格艾瓦艾哈爾"
+    },
+    {
+      "index": "4042",
+      "target": "艾斯德烏阿格艾瓦艾哈爾"
+    },
+    {
+      "index": "4043",
+      "target": "雙拉凱特"
+    },
+    {
+      "index": "4044",
+      "target": "雙拉凱特＋"
+    },
+    {
+      "index": "4045",
+      "target": "真雙拉凱特"
+    },
+    {
+      "index": "4046",
+      "target": "艾斯德烏阿拉凱特"
+    },
+    {
+      "index": "4047",
+      "target": "旋律強撃普艾魯德"
+    },
+    {
+      "index": "4048",
+      "target": "旋律強撃合唱"
+    },
+    {
+      "index": "4049",
+      "target": "旋律強撃艾恩克歐爾艾"
+    },
+    {
+      "index": "4050",
+      "target": "月普勒阿格烏艾"
+    },
+    {
+      "index": "4051",
+      "target": "月神瓦羅"
+    },
+    {
+      "index": "4052",
+      "target": "月神特阿烏爾烏斯"
+    },
+    {
+      "index": "4053",
+      "target": "月神勒烏姆伊恩歐烏斯"
+    },
+    {
+      "index": "4062",
+      "target": "毀滅霜弓閃光"
+    },
+    {
+      "index": "4063",
+      "target": "毀滅霜弓光輝"
+    },
+    {
+      "index": "4064",
+      "target": "毀滅風暴弓閃光"
+    },
+    {
+      "index": "4065",
+      "target": "毀滅風暴弓光輝"
+    },
+    {
+      "index": "4066",
+      "target": "波勒羅熱彈閃光"
+    },
+    {
+      "index": "4067",
+      "target": "波勒羅熱彈光輝"
+    },
+    {
+      "index": "4068",
+      "target": "波勒羅水彈閃光"
+    },
+    {
+      "index": "4069",
+      "target": "波勒羅水彈光輝"
+    },
+    {
+      "index": "4070",
+      "target": "殘響霜銃閃光"
+    },
+    {
+      "index": "4071",
+      "target": "殘響霜銃光輝"
+    },
+    {
+      "index": "4072",
+      "target": "殘響雷銃閃光"
+    },
+    {
+      "index": "4073",
+      "target": "殘響雷銃光輝"
+    },
+    {
+      "index": "4074",
+      "target": "混沌焔銃閃光"
+    },
+    {
+      "index": "4075",
+      "target": "混沌焔銃光輝"
+    },
+    {
+      "index": "4076",
+      "target": "混沌水銃閃光"
+    },
+    {
+      "index": "4077",
+      "target": "混沌水銃光輝"
+    },
+    {
+      "index": "4078",
+      "target": "黄來迪拉"
+    },
+    {
+      "index": "4079",
+      "target": "黄巴娜阿娜"
+    },
+    {
+      "index": "4080",
+      "target": "黄巴娜阿努"
+    },
+    {
+      "index": "4081",
+      "target": "黄巴娜阿涅"
+    },
+    {
+      "index": "4082",
+      "target": "黄布阿恩阿阿恩阿斯"
+    },
+    {
+      "index": "4087",
+      "target": "勒伊布艾爾特伊"
+    },
+    {
+      "index": "4088",
+      "target": "陶酔"
+    },
+    {
+      "index": "4089",
+      "target": "網艾勒艾格伊"
+    },
+    {
+      "index": "4090",
+      "target": "米尼歐上位"
+    },
+    {
+      "index": "4091",
+      "target": "米尼歐月"
+    },
+    {
+      "index": "4092",
+      "target": "米尼歐特歐爾阿伊"
+    },
+    {
+      "index": "4093",
+      "target": "米尼歐玻璃"
+    },
+    {
+      "index": "4094",
+      "target": "米尼歐克艾艾夫"
+    },
+    {
+      "index": "4095",
+      "target": "米尼歐羅祖羅"
+    },
+    {
+      "index": "4096",
+      "target": "哈里涅光線"
+    },
+    {
+      "index": "4097",
+      "target": "哈里涅日"
+    },
+    {
+      "index": "4098",
+      "target": "哈里涅阿魯"
+    },
+    {
+      "index": "4099",
+      "target": "哈里涅格阿爾勒伊阿"
+    },
+    {
+      "index": "4100",
+      "target": "哈里涅克歐烏夫"
+    },
+    {
+      "index": "4101",
+      "target": "哈里涅羅薩拉"
+    },
+    {
+      "index": "4107",
+      "target": "戈魯加農砲Ⅰ"
+    },
+    {
+      "index": "4108",
+      "target": "戈魯加農砲Ⅱ"
+    },
+    {
+      "index": "4109",
+      "target": "戈魯加農砲Ⅲ"
+    },
+    {
+      "index": "4110",
+      "target": "戈魯加農砲零"
+    },
+    {
+      "index": "4111",
+      "target": "阿魯加農砲Ⅰ"
+    },
+    {
+      "index": "4112",
+      "target": "阿魯加農砲Ⅱ"
+    },
+    {
+      "index": "4113",
+      "target": "阿魯加農砲Ⅲ"
+    },
+    {
+      "index": "4114",
+      "target": "阿魯加農砲零"
+    },
+    {
+      "index": "4121",
+      "target": "噬血銃香辛料"
+    },
+    {
+      "index": "4122",
+      "target": "噬血銃甘"
+    },
+    {
+      "index": "4123",
+      "target": "噬血銃斯烏夫勒阿恩"
+    },
+    {
+      "index": "4124",
+      "target": "噬血銃蘇可多"
+    },
+    {
+      "index": "4125",
+      "target": "重弩噬血克阿爾姆阿"
+    },
+    {
+      "index": "4126",
+      "target": "重弩噬血可利艾"
+    },
+    {
+      "index": "4127",
+      "target": "重弩噬血可利古拉"
+    },
+    {
+      "index": "4128",
+      "target": "重弩噬血可拉多"
+    },
+    {
+      "index": "4129",
+      "target": "彩色強襲"
+    },
+    {
+      "index": "4130",
+      "target": "彩色強襲＋"
+    },
+    {
+      "index": "4131",
+      "target": "真彩色強襲"
+    },
+    {
+      "index": "4132",
+      "target": "決勝彩色強襲"
+    },
+    {
+      "index": "4133",
+      "target": "彩色發射器"
+    },
+    {
+      "index": "4134",
+      "target": "彩色發射器＋"
+    },
+    {
+      "index": "4135",
+      "target": "真彩色發射器"
+    },
+    {
+      "index": "4136",
+      "target": "決勝彩色發射器"
+    },
+    {
+      "index": "4137",
+      "target": "彩色矢"
+    },
+    {
+      "index": "4138",
+      "target": "彩色矢＋"
+    },
+    {
+      "index": "4139",
+      "target": "真彩色矢"
+    },
+    {
+      "index": "4140",
+      "target": "決勝彩色矢"
+    },
+    {
+      "index": "4146",
+      "target": "忘川里弗艾"
+    },
+    {
+      "index": "4147",
+      "target": "忘川里弗艾阿恩阿爾克哈伊"
+    },
+    {
+      "index": "4148",
+      "target": "忘川里弗艾德西雷"
+    },
+    {
+      "index": "4149",
+      "target": "忘川里弗艾杰烏爾歐杰伊恩"
+    },
+    {
+      "index": "4150",
+      "target": "忘川加農砲"
+    },
+    {
+      "index": "4151",
+      "target": "忘川加農砲阿恩阿爾克哈伊"
+    },
+    {
+      "index": "4152",
+      "target": "忘川加農砲德西雷"
+    },
+    {
+      "index": "4153",
+      "target": "忘川加農砲瑪里西"
+    },
+    {
+      "index": "4154",
+      "target": "忘川矢"
+    },
+    {
+      "index": "4155",
+      "target": "忘川矢阿恩阿爾克哈伊"
+    },
+    {
+      "index": "4156",
+      "target": "忘川矢德西雷"
+    },
+    {
+      "index": "4157",
+      "target": "忘川矢芙庫羅庫朱"
+    },
+    {
+      "index": "4158",
+      "target": "狂喜銃序"
+    },
+    {
+      "index": "4159",
+      "target": "狂喜銃合唱"
+    },
+    {
+      "index": "4160",
+      "target": "狂喜銃艾恩克歐爾艾"
+    },
+    {
+      "index": "4161",
+      "target": "狂喜里弗艾序"
+    },
+    {
+      "index": "4162",
+      "target": "狂喜里弗艾合唱"
+    },
+    {
+      "index": "4163",
+      "target": "狂喜里弗艾艾恩克歐爾艾"
+    },
+    {
+      "index": "4164",
+      "target": "狂喜強撃序"
+    },
+    {
+      "index": "4165",
+      "target": "狂喜強撃序"
+    },
+    {
+      "index": "4166",
+      "target": "狂喜強撃序"
+    },
+    {
+      "index": "4167",
+      "target": "詩人強襲"
+    },
+    {
+      "index": "4168",
+      "target": "詩人強襲＋"
+    },
+    {
+      "index": "4169",
+      "target": "真詩人強襲"
+    },
+    {
+      "index": "4170",
+      "target": "普歐艾特爾伊強襲"
+    },
+    {
+      "index": "4171",
+      "target": "詩人發射器"
+    },
+    {
+      "index": "4172",
+      "target": "詩人發射器＋"
+    },
+    {
+      "index": "4173",
+      "target": "真詩人發射器"
+    },
+    {
+      "index": "4174",
+      "target": "普歐艾特爾伊發射器"
+    },
+    {
+      "index": "4175",
+      "target": "詩人矢"
+    },
+    {
+      "index": "4176",
+      "target": "詩人矢＋"
+    },
+    {
+      "index": "4177",
+      "target": "真詩人矢"
+    },
+    {
+      "index": "4178",
+      "target": "普歐艾特爾伊矢"
+    },
+    {
+      "index": "4179",
+      "target": "魔導日"
+    },
+    {
+      "index": "4180",
+      "target": "魔導米涅"
+    },
+    {
+      "index": "4181",
+      "target": "魔導特歐格格勒艾"
+    },
+    {
+      "index": "4182",
+      "target": "魔導普勒伊阿"
+    },
+    {
+      "index": "4183",
+      "target": "魔導天蠍"
+    },
+    {
+      "index": "4184",
+      "target": "魔導特哈伊爾斯烏斯"
+    },
+    {
+      "index": "4185",
+      "target": "魔導月"
+    },
+    {
+      "index": "4186",
+      "target": "魔導哈艾伊恩"
+    },
+    {
+      "index": "4187",
+      "target": "魔導炎"
+    },
+    {
+      "index": "4188",
+      "target": "魔導特伊斯阿"
+    },
+    {
+      "index": "4189",
+      "target": "魔導格阿可諾"
+    },
+    {
+      "index": "4190",
+      "target": "魔導克艾爾阿烏恩烏斯"
+    },
+    {
+      "index": "4191",
+      "target": "魔導的角"
+    },
+    {
+      "index": "4192",
+      "target": "魔導可涅"
+    },
+    {
+      "index": "4193",
+      "target": "魔導夫爾艾伊歐勒"
+    },
+    {
+      "index": "4194",
+      "target": "魔導斯夫艾爾阿"
+    },
+    {
+      "index": "4195",
+      "target": "魔導加烏哈拉"
+    },
+    {
+      "index": "4196",
+      "target": "魔導姆伊斯特艾勒特艾"
+    },
+    {
+      "index": "4197",
+      "target": "灰日"
+    },
+    {
+      "index": "4198",
+      "target": "灰米涅"
+    },
+    {
+      "index": "4199",
+      "target": "灰特歐格格勒艾"
+    },
+    {
+      "index": "4200",
+      "target": "灰普勒伊阿"
+    },
+    {
+      "index": "4201",
+      "target": "灰天蠍"
+    },
+    {
+      "index": "4202",
+      "target": "灰勒伊克艾烏姆"
+    },
+    {
+      "index": "4203",
+      "target": "灰月"
+    },
+    {
+      "index": "4204",
+      "target": "灰哈艾伊恩"
+    },
+    {
+      "index": "4205",
+      "target": "灰炎"
+    },
+    {
+      "index": "4206",
+      "target": "灰特伊斯阿"
+    },
+    {
+      "index": "4207",
+      "target": "灰格阿可諾"
+    },
+    {
+      "index": "4208",
+      "target": "灰維阿杰爾阿"
+    },
+    {
+      "index": "4209",
+      "target": "灰的角"
+    },
+    {
+      "index": "4210",
+      "target": "灰可涅"
+    },
+    {
+      "index": "4211",
+      "target": "灰夫爾艾伊歐勒"
+    },
+    {
+      "index": "4212",
+      "target": "灰斯夫艾爾阿"
+    },
+    {
+      "index": "4213",
+      "target": "灰加烏哈拉"
+    },
+    {
+      "index": "4215",
+      "target": "真特阿伊克阿恩恩歐"
+    },
+    {
+      "index": "4216",
+      "target": "真特阿伊克阿恩恩歐斯阿特斯烏克伊"
+    },
+    {
+      "index": "4217",
+      "target": "真特阿伊克阿恩恩歐克歐恩斯歐勒伊德"
+    },
+    {
+      "index": "4218",
+      "target": "真特阿伊克阿恩恩歐哈伊阿克伊恩特哈"
+    },
+    {
+      "index": "4219",
+      "target": "多殼蟹真弓"
+    },
+    {
+      "index": "4220",
+      "target": "多殼蟹真弓普阿斯奎烏艾"
+    },
+    {
+      "index": "4221",
+      "target": "多殼蟹真弓姆阿克哈姆阿勒伊"
+    },
+    {
+      "index": "4222",
+      "target": "多殼蟹真弓姆阿爾伊格歐勒德"
+    }
+  ]
+}

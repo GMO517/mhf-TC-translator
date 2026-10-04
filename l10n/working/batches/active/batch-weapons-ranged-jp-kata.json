@@ -1,0 +1,122 @@
+{
+  "section_id": "weapons-ranged-name",
+  "label": "jp-kata-ranged",
+  "translations": [
+    {
+      "index": "1317",
+      "target": "2505・伊耶拉迪斯波爾"
+    },
+    {
+      "index": "1321",
+      "target": "2905・德雷克迪斯波爾"
+    },
+    {
+      "index": "1430",
+      "target": "9605・火炎斯波埃拉"
+    },
+    {
+      "index": "1431",
+      "target": "9705・可里烏普"
+    },
+    {
+      "index": "1434",
+      "target": "9A05・拉提努"
+    },
+    {
+      "index": "1495",
+      "target": "D705・歐斯烏特艾歐恩・KU"
+    },
+    {
+      "index": "1548",
+      "target": "0C06・波斯里古歐庫托魯"
+    },
+    {
+      "index": "1549",
+      "target": "0D06・波斯里古阿蜜多"
+    },
+    {
+      "index": "1550",
+      "target": "0E06・波斯里古達伊娜"
+    },
+    {
+      "index": "2004",
+      "target": "D407・波里可斯波魯托"
+    },
+    {
+      "index": "2118",
+      "target": "4608・波瓦薩布魯"
+    },
+    {
+      "index": "2239",
+      "target": "BF08・波拉吉"
+    },
+    {
+      "index": "2246",
+      "target": "C608・波拉吉"
+    },
+    {
+      "index": "2253",
+      "target": "CD08・波托魯翔托"
+    },
+    {
+      "index": "2975",
+      "target": "9F0B・圖波斯"
+    },
+    {
+      "index": "3084",
+      "target": "0C0C・波塔里亞巴魯"
+    },
+    {
+      "index": "3085",
+      "target": "0D0C・波塔里亞巴魯"
+    },
+    {
+      "index": "3086",
+      "target": "0E0C・波塔里亞巴魯"
+    },
+    {
+      "index": "3087",
+      "target": "0F0C・波塔里亞巴魯"
+    },
+    {
+      "index": "3179",
+      "target": "6B0C・斯波奇"
+    },
+    {
+      "index": "3233",
+      "target": "A10C・波羅内重砲Ⅰ"
+    },
+    {
+      "index": "3234",
+      "target": "A20C・波羅内重砲Ⅱ"
+    },
+    {
+      "index": "3235",
+      "target": "A30C・波羅内重砲Ⅲ"
+    },
+    {
+      "index": "3236",
+      "target": "A40C・波羅内轟砲"
+    },
+    {
+      "index": "3240",
+      "target": "A80C・波羅内閃銃"
+    },
+    {
+      "index": "3244",
+      "target": "AC0C・波羅内燦弓"
+    },
+    {
+      "index": "3322",
+      "target": "FA0C・猛炎迎撃重弩"
+    },
+    {
+      "index": "3904",
+      "target": "400F・爾阿格烏爾伊爾特・波托斯"
+    },
+    {
+      "index": "3905",
+      "target": "410F・茲阿烏爾伊爾特阿・波托斯"
+    }
+  ]
+}

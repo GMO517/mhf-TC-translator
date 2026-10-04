@@ -1,0 +1,90 @@
+{
+  "section_id": "weapons-ranged-name",
+  "label": "manual-remain-ranged",
+  "translations": [
+    {
+      "index": "1519",
+      "target": "弧・多型加農砲"
+    },
+    {
+      "index": "1897",
+      "target": "波里阿魯塔"
+    },
+    {
+      "index": "2143",
+      "target": "神威「２・來臨」"
+    },
+    {
+      "index": "2144",
+      "target": "神宮「２・來臨」"
+    },
+    {
+      "index": "2340",
+      "target": "妄想強撃弩"
+    },
+    {
+      "index": "2497",
+      "target": "波斯里戈・波皮洛"
+    },
+    {
+      "index": "2538",
+      "target": "波麗亞・機械弓"
+    },
+    {
+      "index": "2625",
+      "target": "羅斯Ⅰ"
+    },
+    {
+      "index": "2626",
+      "target": "羅斯Ⅱ"
+    },
+    {
+      "index": "2627",
+      "target": "羅斯Ⅲ"
+    },
+    {
+      "index": "2628",
+      "target": "羅斯Ⅳ"
+    },
+    {
+      "index": "2629",
+      "target": "羅斯Ⅴ"
+    },
+    {
+      "index": "2630",
+      "target": "羅斯Ⅵ"
+    },
+    {
+      "index": "2658",
+      "target": "ＧＬＳ7600β"
+    },
+    {
+      "index": "2659",
+      "target": "ＧＬＳ9800Σ"
+    },
+    {
+      "index": "2796",
+      "target": "ＶＬＳ9700β"
+    },
+    {
+      "index": "3587",
+      "target": "美食猫・四號"
+    },
+    {
+      "index": "3588",
+      "target": "美食猫・五號"
+    },
+    {
+      "index": "3593",
+      "target": "美食猫猫・四號"
+    },
+    {
+      "index": "3594",
+      "target": "美食猫猫・五號"
+    },
+    {
+      "index": "4214",
+      "target": "格雷・波舒波塔"
+    }
+  ]
+}
