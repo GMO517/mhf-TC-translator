@@ -694,6 +694,62 @@
 | 1032 | Fluffy Serum | 蓬鬆血清 |
 | 1033 | Black Fabric | 黑的布 |
 | 1034 | Blue Fabric | 青的布 |
+| 1035 | Peach Fabric | 桃的布 |
+| 1036 | Guild X Proof | 公會Ｘ之證 |
+| 1037 | R.Volganos Shell | 紅熔岩龍的甲殼 |
+| 1038 | R.Volganos Fang | 紅熔岩龍的牙 |
+| 1039 | R.Volganos Fin | 紅熔岩龍的鰭 |
+| 1040 | R.Volganos Cpc | 紅熔岩龍的堅殼 |
+| 1041 | R.Volganos Fang+ | 紅熔岩龍的鋭牙 |
+| 1042 | R.Volganos Fin+ | 紅熔岩龍的上鰭 |
+| 1043 | Pink Ticket | 桃色票 |
+| 1044 | Christmas Card | クリスマスカード |
+| 1045 | Otoshidama [Child] | お年玉【子】 |
+| 1046 | Espinas Scale | 棘龍的鱗 |
+| 1047 | Espinas Carapace | 棘龍的甲殼 |
+| 1048 | Espinas Spike | 棘龍的棘 |
+| 1049 | Espinas Scalp | 棘龍的頭殼 |
+| 1050 | Espinas Tail | 棘龍的尾巴 |
+| 1051 | Espinas Ruby | 棘龍的紅玉 |
+| 1052 | Espinas Horn | 棘龍的角 |
+| 1053 | B.Espinas Scale | 棘黒龍的鱗 |
+| 1054 | B.Espinas Carpace | 棘黒龍的甲殼 |
+| 1055 | B.Espinas Spike | 棘黒龍的棘 |
+| 1056 | B.Espinas Scalp | 棘黒龍的頭殼 |
+| 1057 | B.Espinas Tail | 棘黒龍的尾巴 |
+| 1058 | B.Espinas Ruby | 棘黒龍的紅玉 |
+| 1059 | B.Espinas Horn | 棘黒龍的角 |
+| 1060 | B.Espinas Acid | 棘黒龍的酸液 |
+| 1061 | Vashimu Carapace | 尾晶蠍的甲殼 |
+| 1062 | Vashimu Claw | 尾晶蠍的爪 |
+| 1063 | Vashimu Jaw | 尾晶蠍的顎 |
+| 1064 | Vashimu Crystal | 尾晶蠍的結晶 |
+| 1065 | Vashimu Hard Tail | 尾晶蠍的堅尾 |
+| 1066 | Vashimu Wht Blood | 尾晶蠍的白血 |
+| 1067 | Vashimu Ylw Blood | 尾晶蠍的黄血 |
+| 1068 | Vashimu Blue Blood | 尾晶蠍的青血 |
+| 1069 | Vashimu Red Blood | 尾晶蠍的赤血 |
+| 1070 | Stamina Drink N | 耐力飲料Ｎ |
+| 1071 | S.Hypnoc Pelt | 白眠鳥的皮 |
+| 1072 | Silver Feather | 銀色羽毛 |
+| 1073 | S.Hypnoc Fang | 白眠鳥的牙 |
+| 1074 | Bug Spray Ticket | 殺蟲劑票 |
+| 1075 | Porta Ore Red | 紅的ポルタ鉱石 |
+| 1076 | Porta Ore Blue | 青的ポルタ鉱石 |
+| 1077 | Porta Ore Blk | 黒的ポルタ鉱石 |
+| 1078 | Porta Ore Wht | 白的ポルタ鉱石 |
+| 1079 | Porta Ore Clr | 透的ポルタ鉱石 |
+| 1080 | Porta Ore Purple | 紫的ポルタ鉱石 |
+| 1081 | Porta Ore Rainbow | 虹色ポルタ鉱石 |
+| 1082 | Thank you | 謝謝 |
+| 1083 | Drama Ticket | ドラマ票 |
+| 1084 | S-Edge Ticket | S-Edge票 |
+| 1085 | Old Building Mats | 古建築材料 |
+| 1086 | Memorial Proof | 記念的証 |
+| 1087 | Crystal Shard | 結晶碎片 |
+| 1088 | Carapaceon Gem | 甲殼種的寶石 |
+| 1089 | Carapaceon Gem+ | 甲殼種的寶石＋ |
+| 1090 | Big Carapaceon Gem | 甲殼種的大寶石 |
 
 ## 字型暫用（已標）
 
@@ -747,4 +803,10 @@
 - 綠→緑：緑的布｜Green Fabric｜`batch-items-016` #1031  
 - Volganos＝熔岩龍（台服 wiki／與 Lavasioth 同名系）｜`batch-items-016` #1012～1019  
 - Teo Wing Membrane 同 Teostra Webbing 作炎王龍的翼膜｜`batch-items-016` #982  
+- 卡→可（fallback）：クリスマスカード（片假名保留）｜Christmas Card｜`batch-items-017` #1044  
+- 歲缺：お年玉【子】（片假名＋漢字）｜Otoshidama [Child]｜`batch-items-017` #1045  
+- 黃→黄：尾晶蠍的黄血｜Vashimu Ylw Blood｜`batch-items-017` #1067  
+- 黒：棘黒龍／黒的ポルタ鉱石（日文形；與棘茶／棘白對齊）｜B.Espinas／Porta Ore Blk｜`batch-items-017`  
+- R.Volganos＝紅熔岩龍；Vashimu＝尾晶蠍；S.Hypnoc＝白眠鳥｜`batch-items-017` #1037～1073  
+- ポルタ：Frontier 鉱石專有名片假名保留｜Porta Ore*｜`batch-items-017` #1075～1081  
 

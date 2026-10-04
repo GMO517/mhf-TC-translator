@@ -1,7 +1,7 @@
 {
   "section_id": "items-name",
   "xpath": "dat/items/name",
-  "pending_total_estimate": 15747,
+  "pending_total_estimate": 15691,
   "batch": [
     {
       "index": "31",
@@ -100,228 +100,228 @@
       "source": "(dummy)"
     },
     {
-      "index": "979",
-      "source": "Lao-Shan Scale+"
+      "index": "1035",
+      "source": "Peach Fabric"
     },
     {
-      "index": "980",
-      "source": "Heavy Gaoren Shell"
+      "index": "1036",
+      "source": "Guild X Proof"
     },
     {
-      "index": "981",
-      "source": "Gaoren Carapace"
+      "index": "1037",
+      "source": "R.Volganos Shell"
     },
     {
-      "index": "982",
-      "source": "Teo Wing Membrane"
+      "index": "1038",
+      "source": "R.Volganos Fang"
     },
     {
-      "index": "983",
-      "source": "Ancient Dragonwood"
+      "index": "1039",
+      "source": "R.Volganos Fin"
     },
     {
-      "index": "984",
-      "source": "Ancient Dragonmoss"
+      "index": "1040",
+      "source": "R.Volganos Cpc"
     },
     {
-      "index": "985",
-      "source": "Tigrex Scale"
+      "index": "1041",
+      "source": "R.Volganos Fang+"
     },
     {
-      "index": "986",
-      "source": "Tigrex Scale+"
+      "index": "1042",
+      "source": "R.Volganos Fin+"
     },
     {
-      "index": "987",
-      "source": "Tigrex Shell"
+      "index": "1043",
+      "source": "Pink Ticket"
     },
     {
-      "index": "988",
-      "source": "Tigrex Carapace"
+      "index": "1044",
+      "source": "Christmas Card"
     },
     {
-      "index": "989",
-      "source": "Tigrex Tail"
+      "index": "1045",
+      "source": "Otoshidama [Child]"
     },
     {
-      "index": "990",
-      "source": "Tigrex Claw"
+      "index": "1046",
+      "source": "Espinas Scale"
     },
     {
-      "index": "991",
-      "source": "Tigrex Claw+"
+      "index": "1047",
+      "source": "Espinas Carapace"
     },
     {
-      "index": "992",
-      "source": "Tigrex Fang"
+      "index": "1048",
+      "source": "Espinas Spike"
     },
     {
-      "index": "993",
-      "source": "Tigrex Fang+"
+      "index": "1049",
+      "source": "Espinas Scalp"
     },
     {
-      "index": "994",
-      "source": "Tigrex Scalp"
+      "index": "1050",
+      "source": "Espinas Tail"
     },
     {
-      "index": "995",
-      "source": "Akantor Scale"
+      "index": "1051",
+      "source": "Espinas Ruby"
     },
     {
-      "index": "996",
-      "source": "Akantor Carapace"
+      "index": "1052",
+      "source": "Espinas Horn"
     },
     {
-      "index": "997",
-      "source": "Akantor Tail"
+      "index": "1053",
+      "source": "B.Espinas Scale"
     },
     {
-      "index": "998",
-      "source": "Akantor Claw"
+      "index": "1054",
+      "source": "B.Espinas Carpace"
     },
     {
-      "index": "999",
-      "source": "Akantor Fang"
+      "index": "1055",
+      "source": "B.Espinas Spike"
     },
     {
-      "index": "1000",
-      "source": "Akantor Spike"
+      "index": "1056",
+      "source": "B.Espinas Scalp"
     },
     {
-      "index": "1001",
-      "source": "Hypnoc Pelt"
+      "index": "1057",
+      "source": "B.Espinas Tail"
     },
     {
-      "index": "1002",
-      "source": "Hypnoc Claw"
+      "index": "1058",
+      "source": "B.Espinas Ruby"
     },
     {
-      "index": "1003",
-      "source": "Rainbow Feather"
+      "index": "1059",
+      "source": "B.Espinas Horn"
     },
     {
-      "index": "1004",
-      "source": "Hypnoc Beak"
+      "index": "1060",
+      "source": "B.Espinas Acid"
     },
     {
-      "index": "1005",
-      "source": "Hypnoc Bezoar"
+      "index": "1061",
+      "source": "Vashimu Carapace"
     },
     {
-      "index": "1006",
-      "source": "Hypnoc Pelt+"
+      "index": "1062",
+      "source": "Vashimu Claw"
     },
     {
-      "index": "1007",
-      "source": "Hypnoc Fang"
+      "index": "1063",
+      "source": "Vashimu Jaw"
     },
     {
-      "index": "1008",
-      "source": "Hypnoc Claw+"
+      "index": "1064",
+      "source": "Vashimu Crystal"
     },
     {
-      "index": "1009",
-      "source": "Hypnoc Bezoar+"
+      "index": "1065",
+      "source": "Vashimu Hard Tail"
     },
     {
-      "index": "1010",
-      "source": "B.Hypnoc Pelt"
+      "index": "1066",
+      "source": "Vashimu Wht Blood"
     },
     {
-      "index": "1011",
-      "source": "B.Hypnoc Pelt+"
+      "index": "1067",
+      "source": "Vashimu Ylw Blood"
     },
     {
-      "index": "1012",
-      "source": "Volganos Scale"
+      "index": "1068",
+      "source": "Vashimu Blue Blood"
     },
     {
-      "index": "1013",
-      "source": "Volganos Shell"
+      "index": "1069",
+      "source": "Vashimu Red Blood"
     },
     {
-      "index": "1014",
-      "source": "Volganos Fang"
+      "index": "1070",
+      "source": "Stamina Drink N"
     },
     {
-      "index": "1015",
-      "source": "Volganos Fin"
+      "index": "1071",
+      "source": "S.Hypnoc Pelt"
     },
     {
-      "index": "1016",
-      "source": "Volganos Scale+"
+      "index": "1072",
+      "source": "Silver Feather"
     },
     {
-      "index": "1017",
-      "source": "Volganos Carapace"
+      "index": "1073",
+      "source": "S.Hypnoc Fang"
     },
     {
-      "index": "1018",
-      "source": "Volganos Fang+"
+      "index": "1074",
+      "source": "Bug Spray Ticket"
     },
     {
-      "index": "1019",
-      "source": "Volganos Fin+"
+      "index": "1075",
+      "source": "Porta Ore Red"
     },
     {
-      "index": "1020",
-      "source": "Bond of Friendship"
+      "index": "1076",
+      "source": "Porta Ore Blue"
     },
     {
-      "index": "1021",
-      "source": "N Medal・Copper"
+      "index": "1077",
+      "source": "Porta Ore Blk"
     },
     {
-      "index": "1022",
-      "source": "N Medal・Silver"
+      "index": "1078",
+      "source": "Porta Ore Wht"
     },
     {
-      "index": "1023",
-      "source": "N Medal・Gold"
+      "index": "1079",
+      "source": "Porta Ore Clr"
     },
     {
-      "index": "1024",
-      "source": "Neodymium Note"
+      "index": "1080",
+      "source": "Porta Ore Purple"
     },
     {
-      "index": "1025",
-      "source": "Mercury Note"
+      "index": "1081",
+      "source": "Porta Ore Rainbow"
     },
     {
-      "index": "1026",
-      "source": "Guild Ticket"
+      "index": "1082",
+      "source": "Thank you"
     },
     {
-      "index": "1027",
-      "source": "Black Currency"
+      "index": "1083",
+      "source": "Drama Ticket"
     },
     {
-      "index": "1028",
-      "source": "Sturdy Wht Cloth"
+      "index": "1084",
+      "source": "S-Edge Ticket"
     },
     {
-      "index": "1029",
-      "source": "Appropriate Parts"
+      "index": "1085",
+      "source": "Old Building Mats"
     },
     {
-      "index": "1030",
-      "source": "Striped Fabric"
+      "index": "1086",
+      "source": "Memorial Proof"
     },
     {
-      "index": "1031",
-      "source": "Green Fabric"
+      "index": "1087",
+      "source": "Crystal Shard"
     },
     {
-      "index": "1032",
-      "source": "Fluffy Serum"
+      "index": "1088",
+      "source": "Carapaceon Gem"
     },
     {
-      "index": "1033",
-      "source": "Black Fabric"
+      "index": "1089",
+      "source": "Carapaceon Gem+"
     },
     {
-      "index": "1034",
-      "source": "Blue Fabric"
+      "index": "1090",
+      "source": "Big Carapaceon Gem"
     }
   ]
 }
