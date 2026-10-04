@@ -18,6 +18,8 @@ PLACEHOLDER_RE = re.compile(
 # 全形拉丁後接片假名（含・）；用於半翻警告
 HALF_TRANSLATE_RE = re.compile(r"[Ａ-Ｚａ-ｚ]+[\u30A0-\u30FF]+")
 KATA_LETTER_RE = re.compile(r"[\u30A1-\u30FA\u30FC]")
+KATA_ANY_RE = re.compile(r"[\u30A1-\u30FA\u30FC]")
+HAN_RE = re.compile(r"[\u4e00-\u9fff]")
 ASCII_WORD_RE = re.compile(r"[A-Za-z]{2,}")
 
 
@@ -48,6 +50,11 @@ def is_half_translate(src: str, tgt: str) -> bool:
     if not m:
         return False
     return bool(KATA_LETTER_RE.search(m.group(0)))
+
+
+def is_kata_han_mix(tgt: str) -> bool:
+    """片假名與漢字同時出現 → 不合格混寫。"""
+    return bool(KATA_ANY_RE.search(tgt) and HAN_RE.search(tgt))
 
 
 def validate_file(path: Path, allow: set[str]) -> tuple[list[str], list[str]]:
@@ -85,6 +92,10 @@ def validate_file(path: Path, allow: set[str]) -> tuple[list[str], list[str]]:
             half_warns.append(
                 f"{path.name}#{idx}: 半翻（全形字母＋片假名）| {tgt[:40]} → 見 glossary/PENDING.md"
             )
+        elif is_kata_han_mix(tgt):
+            half_warns.append(
+                f"{path.name}#{idx}: 片假名混中文 | {tgt[:40]} → 見 glossary/PENDING.md"
+            )
 
     return errs, half_warns
 
@@ -119,7 +130,7 @@ def main(argv: list[str]) -> int:
         lines.extend(f"- {e}" for e in all_errs[:100])
     else:
         lines.append("- （無）")
-    lines += ["", "## 半翻警告（暫不致 FAIL；應列入 PENDING，子類完成後回修）", ""]
+    lines += ["", "## 半翻／片假名混中文警告（暫不致 FAIL；應列入 PENDING，子類完成後回修）", ""]
     if all_half:
         lines.extend(f"- {e}" for e in all_half[:80])
         if len(all_half) > 80:

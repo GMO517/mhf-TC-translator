@@ -84,7 +84,7 @@
 4. 翻譯寫入 working CSV；`apply_batch_json.py` → `validate_working.py` →（日常）`finish_batch.py` delta 回寫  
 5. 每推進一批立刻更新 `progress.md`；分類未完**禁止**只交摘要就停  
 6. 機械自檢另加本專案項：charset／CP932／半翻警告／fallback；佔位符 `{j}` `{cNN}` `{/c}` `{K…}` `{i…}` `{u…}`  
-7. 專名拿不定：列入 `glossary/PENDING.md`，**必填建議譯＋建議理由**（暫勿半翻）；**子類整段完成後**等使用者定稿，再 Fixer 回修——不要中途停下來逐條問  
+7. 專名：先走 `STYLE.md` 音譯五步並**定出唯一漢字建議**（音譯＝漢字音譯；**禁止片假名混中文**）；列入 `glossary/PENDING.md`（六欄）。註解禁止「疑專名」等甩鍋語。**子類整段完成後**等使用者在決定欄裁定，再 Fixer 回修——不要中途逐條問  
 
 **禁止：** 自稱 QA 通過；一次多 CATEGORY；為文筆改標記；以 `Ｃクレスト` 類半翻充數。
 
@@ -115,7 +115,7 @@
 - working CSV：**UTF-8 無 BOM**  
 - 數字半形、標點全形、台灣漢字（見 `STYLE.md`）  
 - MH 系列詞以《荒野》為準；Frontier 專有以 MHFO 台灣 wiki 為主，衝突則對照日服／可信來源  
-- **禁止半翻**：全形拉丁＋片假名黏貼（`Ｃクレスト`）；見 `STYLE.md`。拿不定 → `l10n/glossary/PENDING.md`，子類完成後使用者定稿再 Fixer 回修  
+- **禁止半翻／片假名混中文**：見 `STYLE.md`（`Ｃクレスト`、`トメンＩＭ票`、`ドラマ票` 皆不合格）。拿不定 → `PENDING.md` 給漢字建議，子類完成後使用者定稿再 Fixer 回修  
 - 無法顯示之字：用 `fallback_glyph`／詞庫註記形，禁止硬寫缺字  
 - FTH 產物：`*-modified.bin`；狀態：`l10n/working/state/writeback-state.json`；批次 JSON：`l10n/working/batches/`  
 - **禁止**把本體二進位加入 git commit  
