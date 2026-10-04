@@ -9,7 +9,7 @@
 ## items-name
 
 - status: in_progress
-- notes: "主真相＝csv。monster-rest 已全表中文化並 delta（n=438，片假名0）；殘留主要在 all-rest／misc／kits 英文半翻。"
+- notes: "主真相＝csv。monster-rest 全表 OK；殘留半翻警告約 687（多為票券片假名／專名）。all-rest 本輪已再 delta ~2756。"
 
 ### files
 
