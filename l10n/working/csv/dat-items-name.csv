@@ -3301,7 +3301,7 @@ index,source,target
 3299,Cat Mist,猫霧
 3300,False Whetstone,假砥石
 3301,Black Platinum,黒白金
-3302,Otoshidama [4th],年玉四
+3302,Otoshidama [4th],年玉【第四】
 3303,Shakalaka Fragment,奇面族的碎片
 3304,Crimson Melody,深紅旋律
 3305,Azure Melody,蒼旋律
@@ -3584,7 +3584,7 @@ index,source,target
 3582,Bewitching Coin,魅惑硬幣
 3583,Glimmering Coin,輝硬幣
 3584,Hazy Coin,霞硬幣
-3585,Blinking Coin,BlinkingCoin
+3585,Blinking Coin,閃硬幣
 3586,SSFⅣ Tkt Head,ＳＳＦⅣ頭票
 3587,SSFⅣ Tkt Torso,ＳＳＦⅣ胴票
 3588,SSFⅣ Tkt Arms,ＳＳＦⅣ腕票
@@ -3702,25 +3702,25 @@ index,source,target
 3700,Water-Proof Lapis,水證明青金
 3701,Thndr-Proof Lapis,雷證明青金
 3702,Ice-Proof Lapis,冰證明青金
-3703,Drgn-Proof Lapis,Drgn-ProofLapis
+3703,Drgn-Proof Lapis,耐龍青金石
 3704,Gemstone Egg,寶石蛋
-3705,Cuff Base・Chitose,護腕Base・Chitose
-3706,Cuff Base・Suou,護腕Base・Suou
-3707,Cuff Base・Moegi,護腕Base・Moegi
-3708,Cuff Base・Tsuyukusa,護腕Base・Tsuyukusa
-3709,Cuff Base・Usugaki,護腕Base・Usugaki
-3710,Cuff Base・Tokiwa,護腕Base・Tokiwa
-3711,Cuff Base・Ruri,護腕Base・Ruri
+3705,Cuff Base・Chitose,護腕基底千歳
+3706,Cuff Base・Suou,護腕基底蘇芳
+3707,Cuff Base・Moegi,護腕基底萌黄
+3708,Cuff Base・Tsuyukusa,護腕基底露草
+3709,Cuff Base・Usugaki,護腕基底薄柿
+3710,Cuff Base・Tokiwa,護腕基底常磐
+3711,Cuff Base・Ruri,護腕基底瑠璃
 3712,Kirin Piel,麒麟皮耶爾
 3713,Kirin Silver Tail,麒麟的尾
 3714,Kirin Silver Horn,麒麟的角
-3715,Cham.Speckled Skin,Cham.SpeckledSkin
-3716,Cham.Illusion Skin,Cham.IllusionSkin
-3717,Cham.Chroma Skin,Cham.ChromaSkin
+3715,Cham.Speckled Skin,霞龍的斑的皮
+3716,Cham.Illusion Skin,霞龍的幻的皮
+3717,Cham.Chroma Skin,霞龍的彩色的皮
 3718,Garuga Purple Wing,黑狼鳥的紫翼
 3719,Poisonous Beak,毒的喙
 3720,Espinas Rage Spike,棘龍的憤怒棘
-3721,Espi.Euphoria Spk,Espi.EuphoriaSpk
+3721,Espi.Euphoria Spk,棘龍的陶酔的棘
 3722,Dyura Cold Shell,冰狐龍的甲殼
 3723,Dyura Frost Shell,冰狐龍的甲殼
 3724,Dyura Ice Shell,冰狐龍的甲殼
@@ -3730,14 +3730,14 @@ index,source,target
 3728,Rajang Fierce Fang,金獅子的猛烈牙
 3729,Rajang Jet-Blk Fur,金獅子的漆黑毛
 3730,Rajang King Fang,金獅子的王牙
-3731,V.Drome Vivid Scle,V.DromeVividScle
-3732,V.Drome Piel,V.DromePiel
+3731,V.Drome Vivid Scle,藍速龍王的鮮的鱗
+3732,V.Drome Piel,藍速龍王的皮
 3733,V.Drome Lng Claw,藍速龍王的長爪
 3734,Monoblos Hard Shl,一角龍的硬的殻
 3735,A.Rath Doom Scale,蒼火龍的末日鱗
-3736,A.Rath Prison Scl,A.RathPrisonScl
-3737,E.Dragon Tongue,E.DragonTongue
-3738,E.Dragon Muscle,E.DragonMuscle
+3736,A.Rath Prison Scl,蒼火龍的牢的鱗
+3737,E.Dragon Tongue,古龍舌
+3738,E.Dragon Muscle,古龍筋
 3739,Auto-Reload PA4,自動裝填ＰＡ４
 3740,Guts PA1,毅力ＰＡ１
 3741,Guts PA2,毅力ＰＡ２
@@ -3936,7 +3936,7 @@ index,source,target
 3934,Sleep Res SC3,耐睡眠ＳＣ３
 3935,Sleep Res SC4,耐睡眠ＳＣ４
 3936,Sleep Res SC5,耐睡眠ＳＣ５
-3937,Smooth Vertebrate,SmoothVertebrate
+3937,Smooth Vertebrate,滑脊椎
 3938,Jade Jewel,玉珠
 3939,Arhat Jewel,羅漢珠
 3940,Rattail Jewel,鼠尾珠
@@ -3950,7 +3950,7 @@ index,source,target
 3948,Monkeybutt Jewel,猴尻珠
 3949,Chickenwing Jewel,鷄翅珠
 3950,Dogtooth Jewel,犬牙珠
-3951,Dummy101801,(dummy)１０１８０１
+3951,Dummy101801,(dummy)
 3952,Fasting 1 G,斷食１Ｇ
 3953,Focus 1 G,集中１Ｇ
 3954,Guts G,氣力Ｇ
@@ -3962,15 +3962,15 @@ index,source,target
 3960,Dragon Atk G,龍的攻撃Ｇ
 3961,Bomb Sword G,爆弾劍Ｇ
 3962,Dragon Sword G,龍的劍Ｇ
-3963,Dummy101802,(dummy)１０１８０２
+3963,Dummy101802,(dummy)
 3964,EZ Adrenaline Drug,簡易興奮藥
-3965,Double Point Pill,DoublePointPill
+3965,Double Point Pill,雙點丸
 3966,Small Point Ball,小點球
-3967,Medium Point Ball,MediumPointBall
+3967,Medium Point Ball,中點球
 3968,Large Point Ball,大點球
-3969,Return Ball,ReturnBall
+3969,Return Ball,歸還球
 3970,Point Thief Flute,奪點笛
-3971,Fertility Coin,FertilityCoin
+3971,Fertility Coin,豊饒硬幣
 3972,Transcend Proof 1,超越證明１
 3973,Transcend Proof 2,超越證明２
 3974,Transcend Proof 3,超越證明３
@@ -4004,15 +4004,15 @@ index,source,target
 4002,Champion Proof,冠軍的證明
 4003,Surging Blk Shl,奔流黒的殻
 4004,Boiling Red Shl,沸騰赤的殻
-4005,D.Floodgate Key,D.FloodgateKey
-4006,Beguiling P.Clay,BeguilingP.Clay
-4007,Robust Ash Clay,RobustAshClay
-4008,Song of Peaks,之歌Peaks
-4009,Song of Lakes,之歌Lakes
+4005,D.Floodgate Key,迷宮水門調
+4006,Beguiling P.Clay,魅惑蒼黏土
+4007,Robust Ash Clay,強健灰黏土
+4008,Song of Peaks,峰之歌
+4009,Song of Lakes,湖之歌
 4010,Song of the Wild,歌野
 4011,Fine River Design,精河設計
-4012,Wind Chime,WindChime
-4013,Crazed Maid's Plot,CrazedMaid'sPlot
+4012,Wind Chime,風鈴
+4013,Crazed Maid's Plot,狂侍女Ｓ陰謀
 4014,N Force Tkt,Ｎ神力票
 4015,N Baum Tkt,Ｎ神木票
 4016,V Jewel Tkt,Ｖ寶石票
@@ -4088,10 +4088,10 @@ index,source,target
 4086,Lute Tkt,金猫票
 4087,Nyanshin Tkt,紅猫琴票
 4088,Song of Forests,森林之歌
-4089,Song of Mountains,之歌Mountains
-4090,Song of Dunes,之歌Dunes
-4091,Song of the Ocean,之歌theOcean
-4092,Song of Meadows,之歌Meadows
+4089,Song of Mountains,山之歌
+4090,Song of Dunes,沙丘之歌
+4091,Song of the Ocean,海洋之歌
+4092,Song of Meadows,草原之歌
 4093,Carved Light Stone,雕刻光石
 4094,Carved Dark Stone,雕刻暗石
 4095,Carved Green Stone,雕刻綠石
@@ -4103,10 +4103,10 @@ index,source,target
 4101,Naranha S Tkt,橙光Ｓ票
 4102,Sapura S Tkt,墨色Ｓ票
 4103,Veil S Tkt,碧閃Ｓ票
-4104,Cuff Base・Blush,護腕Base・Blush
+4104,Cuff Base・Blush,護腕基底・緋
 4105,Cuff Base・Birch,護腕基底樺
 4106,Cuff Base・Silk,護腕基底絲
-4107,Cuff Base・Tan,護腕Base・Tan
+4107,Cuff Base・Tan,護腕基底・棕褐
 4108,Boarcrest Jewel,豬冠珠
 4109,Mastodon Jewel,乳齒象珠
 4110,Leomane Jewel,獅毛珠
@@ -4319,36 +4319,36 @@ index,source,target
 4317,Water Sword G,水的劍Ｇ
 4318,Thunder Sword G,雷的劍Ｇ
 4319,Ice Sword G,冰的劍Ｇ
-4320,Daora Desolate Shl,DaoraDesolateShl
+4320,Daora Desolate Shl,鋼龍的荒的殻
 4321,Daora Fierce Shl,鋼龍的兇猛的殻
 4322,Daora Violent Shl,鋼龍的猛的殻
 4323,Orugaron Bld. Fang,響狼的血牙
 4324,Orugaron Brkn Fang,響狼的折牙
 4325,Orugaron P.WhtFur,響狼的純白毛
 4326,Orugaron B.WhtFur,響狼的黑白毛
-4327,P.Rathian St. Shl,櫻火龍的St. Shl
+4327,P.Rathian St. Shl,櫻火龍的堅的殻
 4328,P.Rath Res. Shell,櫻火龍的耐殼
-4329,Quivering Leather,QuiveringLeather
+4329,Quivering Leather,顫革
 4330,Supple Red Leather,柔軟赤革
-4331,Hypnoc Argent Fthr,眠鳥的Argent Fthr
-4332,Hypn.Platinum Fthr,Hypn.PlatinumFthr
-4333,Wyvern Egg…?,WyvernEgg…?
-4334,Herbivore Egg…?,HerbivoreEgg…?
-4335,Carnivore Egg…?,CarnivoreEgg…?
+4331,Hypnoc Argent Fthr,眠鳥的銀的羽
+4332,Hypn.Platinum Fthr,眠鳥的白金的羽
+4333,Wyvern Egg…?,飛龍的蛋？
+4334,Herbivore Egg…?,草食種的蛋？
+4335,Carnivore Egg…?,肉食種的蛋？
 4336,Normal Drawing 1,通常圖１
 4337,Normal Drawing 2,通常圖２
-4338,Miniature Drawing,MiniatureDrawing
-4339,Dummy38,(dummy)３８
+4338,Miniature Drawing,小型絵
+4339,Dummy38,(dummy)
 4340,Gook Tear,古古鴨的涙
 4341,Gook Feather,古古鴨的羽
-4342,Polka Dot Patrn,PolkaDotPatrn
-4343,Gunman Pattern,GunmanPattern
-4344,Dummy39,(dummy)３９
-4345,Diving Design,DivingDesign
-4346,Fruit Salad Design,FruitSaladDesign
-4347,Party Confetti,PartyConfetti
-4348,Tattered Drawings,Tatte紅Drawings
-4349,Shabby Drawings,ShabbyDrawings
+4342,Polka Dot Patrn,圓點圖案
+4343,Gunman Pattern,銃士模様
+4344,Dummy39,(dummy)
+4345,Diving Design,潜水設計
+4346,Fruit Salad Design,果實沙拉設計
+4347,Party Confetti,隊伍紙吹雪
+4348,Tattered Drawings,破絵
+4349,Shabby Drawings,旧絵
 4350,Gook Memories,古古鴨的記憶
 4351,F.Wyvern Plate,飛龍種的逆鱗
 4352,F.Wyvern Jewel,飛龍珠
@@ -4387,25 +4387,25 @@ index,source,target
 4385,S H Canard Tkt,Ｓ具現Ｈ票
 4386,Notte H Tkt,夜Ｈ票
 4387,Plato H Tkt,草綠Ｈ票
-4388,Cuff Base・Apricot,護腕Base・Apricot
-4389,Cuff Base・Dawn,護腕Base・Dawn
+4388,Cuff Base・Apricot,護腕基底・杏
+4389,Cuff Base・Dawn,護腕基底・暁
 4390,Cuff Base・Leather,皮革的護腕基底
-4391,Cuff Base・Wax,護腕Base・Wax
-4392,Sply Guts Tkt,補給ガッツ票
+4391,Cuff Base・Wax,護腕基底・蝋
+4392,Sply Guts Tkt,補給氣力票
 4393,Cat Balloon Flute,猫氣球笛
 4394,Cat Ballista,猫弩砲
 4395,EZ Sonic Bomb,簡易音爆彈
-4396,Signal Flare,SignalFlare
+4396,Signal Flare,信号照明彈
 4397,Geyser Bomb,間歇泉爆彈
 4398,Violent Ravi Blood,狂暴大巖龍之血
 4399,Ancient Drgn Bone,古代龍骨
 4400,Rukodiora Stone,極龍的石
-4401,4401dummy,4401dummy
-4402,4402dummy,4402dummy
-4403,4403dummy,4403dummy
-4404,4404dummy,4404dummy
-4405,4405dummy,4405dummy
-4406,Wild Silk Cacoon,WildSilkCacoon
+4401,4401dummy,(dummy)
+4402,4402dummy,(dummy)
+4403,4403dummy,(dummy)
+4404,4404dummy,(dummy)
+4405,4405dummy,(dummy)
+4406,Wild Silk Cacoon,野絲繭
 4407,BP11 Tkt・１,ＢＰ11票・１
 4408,BP11 Tkt・２,ＢＰ11票・２
 4409,BP11 Tkt・３,ＢＰ11票・３
@@ -4417,18 +4417,18 @@ index,source,target
 4415,Meister Head Tkt,名匠頭票
 4416,Meister Body Tkt,名匠體票
 4417,Meister Arm Tkt,名匠腕票
-4418,Meister Fauld Tkt,マイスト腰票
-4419,Meister Boot Tkt,マイスト脚票
+4418,Meister Fauld Tkt,腰甲名匠票
+4419,Meister Boot Tkt,名匠靴票
 4420,Workshop Twins Tkt,工房雙炎票
 4421,Workshop Pair Tkt,工房水雙票
-4422,Workshop Bow,WorkshopBow
-4423,Wokshop Water Bow,WokshopWaterBow
-4424,Lunar Yarn,LunarYarn
-4425,Steel Polyhedron,鋼Polyhedron
+4422,Workshop Bow,弓工房
+4423,Wokshop Water Bow,水工房弓
+4424,Lunar Yarn,月糸
+4425,Steel Polyhedron,鋼多面体
 4426,Virulent Mushroom,劇毒菇
 4427,Rainbow Gunpowder,彩虹火藥
-4428,Yggdrasil Branch,YggdrasilBranch
-4429,Inky Fragm,InkyFragm
+4428,Yggdrasil Branch,世界樹枝
+4429,Inky Fragm,墨断片
 4430,Thank You Ⅳ,感謝汝Ⅳ
 4431,W Spoon Tkt,Ｗ湯匙票
 4432,F Spoon Tkt,Ｆ湯匙票
@@ -4455,11 +4455,11 @@ index,source,target
 4453,2011 Kit 2 Arms,2011套件２腕
 4454,2011 Kit 2 Waist,2011套件２腰
 4455,2011 Kit 2 Legs,2011套件２脚
-4456,Ethereal Branch,EtherealBranch
-4457,Teal Rubbish,TealRubbish
+4456,Ethereal Branch,幽枝
+4457,Teal Rubbish,青緑屑
 4458,Daoran Gunpowder,道蘭火藥
-4459,Scarlet Festi Mem.,ScarletFestiMem.
-4460,Indigo Festi Mem.,IndigoFestiMem.
+4459,Scarlet Festi Mem.,緋祭記憶
+4460,Indigo Festi Mem.,藍祭記憶
 4461,Peach Festi Memory,桃祭典記憶
 4462,Freezing Fang,凍結的牙
 4463,Eternal Friend Tkt,永遠友票
@@ -4469,15 +4469,15 @@ index,source,target
 4467,Electric Stone,電氣石
 4468,Star Debris,星殘骸
 4469,Steel Direbone,鋼兇骨
-4470,Carbon Blade,CarbonBlade
-4471,Cat Luxury File,CatLuxuryFile
-4472,Fisherman's Guile,Fisherman'sGuile
+4470,Carbon Blade,炭素刃
+4471,Cat Luxury File,猫豪華砥
+4472,Fisherman's Guile,漁師Ｓ狡智
 4473,Blk Beast Fang,黑獸的牙
 4474,Extreme Flame Gem,極限炎的寶玉
-4475,Mutation Hammer,MutationHammer
+4475,Mutation Hammer,変異鎚
 4476,Iron Compass,鐵羅盤
 4477,Blk Fur,黑的毛
-4478,Rip Talon,RipTalon
+4478,Rip Talon,裂鉤爪
 4479,Fire Blast Stone,爆炎石
 4480,Hunter Card Green,獵人的可片緑
 4481,Hunter Card Black,獵人的可片黒
@@ -4487,7 +4487,7 @@ index,source,target
 4485,Unknown Scale,未知的鱗
 4486,Unknown Webbing,未知的翼膜
 4487,Unknown Fang,未知的牙
-4488,Unknown Jaw,UnknownJaw
+4488,Unknown Jaw,未知顎
 4489,Unknown Claw,未知的爪
 4490,Unknown Wing,未知的翼
 4491,Unknown Marrow,未知的骨髓
@@ -4685,15 +4685,15 @@ index,source,target
 4683,C.Shot Add II SC2,徹甲榴彈追加ⅡＳＣ２
 4684,C.Shot Add II SC3,徹甲榴彈追加ⅡＳＣ３
 4685,C.Shot Add II SC4,徹甲榴彈追加ⅡＳＣ４
-4686,Wall G,WallG
+4686,Wall G,壁Ｇ
 4687,Reload G,裝填Ｇ
 4688,Auto-Reload G,自動裝填Ｇ
 4689,Bomber G,轟炸Ｇ
 4690,Protection G,防護Ｇ
-4691,Paperweight G,PaperweightG
-4692,Nimble G,NimbleG
+4691,Paperweight G,文鎮Ｇ
+4692,Nimble G,軽快Ｇ
 4693,Stamina G,耐力的Ｇ
-4694,Pinpoint G,PinpointG
+4694,Pinpoint G,精密Ｇ
 4695,Gunnery 1 G,砲術１Ｇ
 4696,Corrosive Knife,腐蝕投擲刀
 4697,Power Needle,力量針
@@ -4713,9 +4713,9 @@ index,source,target
 4711,Stag Antler Jewel,鹿角珠
 4712,Sparrowdance Jewel,雀舞珠
 4713,Sharkjaw Jewel,鯊顎珠
-4714,Atk. Info [Bad],Atk.Info[Bad]
-4715,Atk. Info [Good],Atk.Info[Good]
-4716,Elem. Info [Good],Elem.Info[Good]
+4714,Atk. Info [Bad],攻撃情報悪
+4715,Atk. Info [Good],攻撃情報良
+4716,Elem. Info [Good],属性情報良
 4717,Mochi Mochi Fruit,餅餅果實
 4718,Heart Mushroom,心型菇
 4719,Crimson Princess,深紅公主
@@ -4723,19 +4723,19 @@ index,source,target
 4721,Amnesia Grass,健忘草
 4722,Gook Junk,古古鴨廢材
 4723,Gook Amulet,古古鴨護身
-4724,Orioru Rice,OrioruRice
+4724,Orioru Rice,織米
 4725,Yoshi Arowana,吉骨舌魚
 4726,Kamu Kamu Fruit,神神果實
-4727,Flounder Fruit,FlounderFruit
+4727,Flounder Fruit,鰈果
 4728,Omoware Leaf,思惑的葉
-4729,Studded Gear,StuddedGear
-4730,Leathe Gear,LeatheGear
+4729,Studded Gear,鋲裝備
+4730,Leathe Gear,革裝備
 4731,Apex Gear,頂点齒輪
 4732,Chain Gear,鏈齒輪
 4733,Belt Gear,腰帶齒輪
 4734,Blue Electrum,青琥珀金
 4735,Yellow Electrum,黄琥珀金
-4736,Clear Electrum,ClearElectrum
+4736,Clear Electrum,透琥珀金
 4737,Scarlet Electrum,緋琥珀金
 4738,Gray Electrum,灰琥珀金
 4739,Red Electrum,赤琥珀金
@@ -4745,19 +4745,19 @@ index,source,target
 4743,Pink Electrum,粉琥珀金
 4744,Purple Electrum,紫琥珀金
 4745,All Res Fruit,全耐性果實
-4746,Hunger Inc. Fruit,HungerInc.Fruit
+4746,Hunger Inc. Fruit,飢餓増果
 4747,Rec Speed Fruit,回復速度果實
 4748,Anti-venom Fruit,抗猛毒果實
 4749,Capture Exp Fruit,捕獲的達人果實
 4750,Perfect Whetstone,完美砥石
 4751,Superior Nutrients,上等營養劑
 4752,Tracker's Drink,追蹤飲料
-4753,Marking Ball,MarkingBall
+4753,Marking Ball,標記球
 4754,Ultra Cool Drink,究極冷飲
 4755,Ultra Hot Drink,究極熱飲
 4756,Thin Jack Mackerel,細鰺魚
-4757,Halfmoon Carp,HalfmoonCarp
-4758,Black Belly Eel,黑BellyEel
+4757,Halfmoon Carp,半月鯉
+4758,Black Belly Eel,黒腹鰻
 4759,Fragrant Grass,芳香草
 4760,Pinky Grass,粉紅草
 4761,Fuzzy Grass,絨毛草
@@ -4767,12 +4767,12 @@ index,source,target
 4765,Pelican Ore,塘鵝礦石
 4766,Black Pyroxene,黒輝石
 4767,Parusanto Ore,波魯桑托礦石
-4768,Shovel Hopper,ShovelHopper
+4768,Shovel Hopper,鋤跳蟲
 4769,Fishing Bug,釣魚蟲
 4770,Rockfang Worm,岩牙蟲
 4771,Valiant Horn,勇猛的角
-4772,Fragrant Branch,FragrantBranch
-4773,Charming Fruit,CharmingFruit
+4772,Fragrant Branch,芳枝
+4773,Charming Fruit,迷人果
 4774,Icy Branch,氷枝
 4775,Card Ore [Ibis],可片礦［朱鷺］
 4776,Card Ore [Muscle],可片礦［筋肉］
@@ -4780,7 +4780,7 @@ index,source,target
 4778,Unyielding Spike,不屈的棘
 4779,Huge Wthrd. Bone,巨大風化骨
 4780,Mega-Rage Horn,超憤怒角
-4781,Goldenblack Silk,Golden黑Silk
+4781,Goldenblack Silk,金黒絲
 4782,Ancient Debris,古代殘骸
 4783,Dorek P Tkt,泥濘Ｐ票
 4784,Venio P Tkt,魅力Ｐ票
@@ -4793,11 +4793,11 @@ index,source,target
 4791,Toros Tkt Legs,鬥士脚票
 4792,Seabreeze Stone,海風石
 4793,Unbound Book [Sky],解縛書空
-4794,Unbound Book [Hvn],UnboundBook[Hvn]
-4795,Lottery Bag,LotteryBag
+4794,Unbound Book [Hvn],解縛書天
+4795,Lottery Bag,抽選的袋
 4796,Beguiling Feathers,魅惑的羽
 4797,Icy Scale Stone,氷鱗的石
-4798,Book of Storms,BookofStorms
+4798,Book of Storms,書嵐
 4799,Crimson Storm Bell,深紅嵐鈴
 4800,Ivory Star Clay,象牙星黏土
 4801,Tail Fin Harness,尾鰭的束具
@@ -4830,19 +4830,19 @@ index,source,target
 4828,BP12 Tkt・６,ＢＰ12票・６
 4829,BP12 Tkt・７,ＢＰ12票・７
 4830,BP12 Tkt・８,ＢＰ12票・８
-4831,Steel Durian,鋼Durian
-4832,Mad King's Waltz,MadKing'sWaltz
+4831,Steel Durian,鋼榴蓮
+4832,Mad King's Waltz,狂王Ｓ円舞
 4833,Mystery Water,水謎
 4834,Demonic Fungus,惡魔菌
 4835,Hunter's Will,獵人Ｓ意志
 4836,Beast Horn,牙獸種的角
 4837,Flash Coin,閃光硬幣
-4838,Shakalaka Game,奇面族的Game
+4838,Shakalaka Game,奇面族遊戲
 4839,Shiny Blk Carapace,閃亮黑堅殼
 4840,Buried Black Shell,埋沒的黑殼
 4841,Ancient Ink,古代墨
 4842,Blademaster Seal,劍士封印
-4843,Gunmaster Seal,GunmasterSeal
+4843,Gunmaster Seal,銃師印
 4844,Exere Fabric [M],演習布Ｍ
 4845,Exere Fabric [S],演習布Ｓ
 4846,Ice C Tkt,冰霜Ｃ票
@@ -4888,48 +4888,48 @@ index,source,target
 4886,Peach Ice-pop Tkt,冰棒桃票
 4887,Song of The Forest,森林之歌
 4888,Song of The Beach,歌浜
-4889,Song of Quicksand,之歌Quicksand
+4889,Song of Quicksand,流沙之歌
 4890,Song of Caves,歌洞
-4891,Song of Comfort,之歌Comfort
+4891,Song of Comfort,安寧之歌
 4892,Song of Spring,歌春
 4893,Song of Summer,歌夏
-4894,Song of Rain,之歌Rain
-4895,Br.Scorpion Bond,Br.ScorpionBond
-4896,Sl.Scorpion Bond,Sl.ScorpionBond
+4894,Song of Rain,雨之歌
+4895,Br.Scorpion Bond,青銅蠍絆
+4896,Sl.Scorpion Bond,銀蠍絆
 4897,Gold Scorpion Bond,金蠍絆
-4898,Br.T.Dragon Bond,Br.T.DragonBond
-4899,Sl.T.Dragon Bond,Sl.T.DragonBond
-4900,Gold T.Dragon Bond,G舊T.DragonBond
-4901,Brnze Paria Bond,BrnzePariaBond
-4902,Slver Paria Bond,SlverPariaBond
+4898,Br.T.Dragon Bond,轟龍青銅絆
+4899,Sl.T.Dragon Bond,轟龍銀絆
+4900,Gold T.Dragon Bond,轟龍金絆
+4901,Brnze Paria Bond,青銅呑龍絆
+4902,Slver Paria Bond,銀呑龍絆
 4903,Gold Paria Bond,金呑龍絆
 4904,Gray Festi Memento,灰祭典紀念
-4905,Yel. Festi Memento,Yel.FestiMemento
+4905,Yel. Festi Memento,黄祭典記念
 4906,Grn. Festi Memento,緑祭典紀念
-4907,Orn. Festi Memento,Orn.FestiMemento
+4907,Orn. Festi Memento,橙祭典記念
 4908,Cuff Base・Azure,護腕基底蒼
-4909,Cuff Base・Crocus,護腕Base・Crocus
+4909,Cuff Base・Crocus,護腕基底・紅花
 4910,Porta Pyroxene,波爾塔輝石
-4911,Boron Note,BoronNote
-4912,Sodium Note,SodiumNote
-4913,Chlorine Note,ChlorineNote
+4911,Boron Note,硼的音符
+4912,Sodium Note,曹達的音符
+4913,Chlorine Note,塩素的音符
 4914,Titanium Note,TitaniumNote
 4915,Gallium Note,GalliumNote
 4916,Niobium Note,NiobiumNote
 4917,Antimony Note,AntimonyNote
 4918,Lutetium Note,LutetiumNote
 4919,Protactinium Note,ProtactiniumNote
-4920,Fermium Note,FermiumNote
-4921,Dora Leaden Gem,冥雷龍的Leaden Gem
+4920,Fermium Note,鐵音符
+4921,Dora Leaden Gem,多拉鉛的寶玉
 4922,Dora Mystic Claw,冥雷龍的神秘爪
 4923,Dora Eternal Scale,冥雷龍的永恆鱗
 4924,Gravi. Charr Shell,鎧龍的焦殼
 4925,Gravios Heat Shl,鎧龍的耐暑的殻
-4926,Gravi. Miracle Shl,Gravi.MiracleShl
+4926,Gravi. Miracle Shl,鎧奇的殻
 4927,Bulldrome Apex Fng,大野豬王的Apex Fng
-4928,B.Drome Fierce Fng,B.DromeFierceFng
+4928,B.Drome Fierce Fng,黑砂龍兇猛的牙
 4929,B.Drome ViolentFng,B.DromeViolentFng
-4930,Akantor Death Scl,霸龍的Death Scl
+4930,Akantor Death Scl,霸龍的死的鱗
 4931,Akan. Corrupt Claw,霸龍的腐敗爪
 4932,Stately Beak,莊嚴的喙
 4933,Pompous Beak,誇耀的喙
@@ -4944,13 +4944,13 @@ index,source,target
 4942,Halk Feathers [D],鷹羽Ｄ
 4943,Serious Drink Aff,認真飲料會心
 4944,Hunter's Paper,獵人Ｓ紙
-4945,Tuxedo Paper,TuxedoPaper
-4946,Mofumofu Patrn,MofumofuPatrn
+4945,Tuxedo Paper,燕尾紙
+4946,Mofumofu Patrn,毛茸茸模様
 4947,Rooster Patrn,RoosterPatrn
 4948,Lovely Drawing,可愛圖
 4949,Fort Drawing,要塞圖
 4950,Yase Yase Food,痩痩食
-4951,Plump Food,PlumpFood
+4951,Plump Food,豊満食
 4952,Halk Potion,霍克回復藥
 4953,Serious Drink Fire,認真飲料火
 4954,Serious Drink Wat,認真飲料水
@@ -5107,7 +5107,7 @@ index,source,target
 5105,Capture Deco,捕獲的裝飾品
 5106,Passive Deco,被動装飾品
 5107,Flute Expert Deco,笛達人裝飾品
-5108,Trapper Deco,TrapperDeco
+5108,Trapper Deco,陷罠裝飾
 5109,Pressure Deco,圧力裝飾品
 5110,Cranethroat Jewel,鶴喉珠
 5111,Cat's Eye Jewel,猫眼珠
@@ -5124,13 +5124,13 @@ index,source,target
 5122,Fire Res Fruit,火的耐性果實
 5123,Water Res Fruit,水的耐性果實
 5124,Dragon Res Fruit,龍的耐性果實
-5125,Runner Fruit,RunnerFruit
-5126,Ele Attack Fruit,EleAttackFruit
+5125,Runner Fruit,走者果
+5126,Ele Attack Fruit,屬攻撃果實
 5127,Strength Powder,力量粉末
 5128,Double Abi Proof,雙阿比的證明
 5129,Status Powder,状態粉末
 5130,Huge F.Wyvern Gem,龍的巨大飛的寶玉
-5131,Sturdy Wind Box,SturdyWindBox
+5131,Sturdy Wind Box,頑強風箱
 5132,Tuning Fork,TuningFork
 5133,Rivet L Tkt,轟雷鉚釘Ｌ票
 5134,Idu A Tkt,衝撃鉚釘Ａ票
@@ -5170,7 +5170,7 @@ index,source,target
 5168,Wood Effigy・Black,木偶黒
 5169,Wood Effigy・Yellow,木偶黄
 5170,Wood Effigy・Blue,木偶青
-5171,Wood Effigy・Navy,WoodEffigy・Navy
+5171,Wood Effigy・Navy,木偶紺
 5172,Wood Effigy・Cyan,木偶青藍
 5173,Pink Portrait,粉肖像
 5174,Peach Portrait,桃肖像
@@ -5186,12 +5186,12 @@ index,source,target
 5184,Blue Feather,青的羽
 5185,Card Ore [Ebony],可片礦［烏木］
 5186,Card Ore [Mauve],可片礦［淡紫］
-5187,Sakura Dumpling,SakuraDumpling
-5188,Sakura Incense,SakuraIncense
+5187,Sakura Dumpling,桜団子
+5188,Sakura Incense,桜香
 5189,Blue Iron Sand,藍鐵砂
 5190,Meteorite Gemstone,隕石寶石
 5191,Golden Turtlestone,黄金龜石
-5192,FestiMemory Purple,FestiMemoryPurple
+5192,FestiMemory Purple,祭記憶紫
 5193,Akane's Dream,茜Ｓ夢
 5194,BP13 Tkt・1,ＢＰ13票・１
 5195,BP13 Tkt・2,ＢＰ13票・２
@@ -5215,20 +5215,20 @@ index,source,target
 5213,Dim Decor-Blue,微装飾青
 5214,Dim Decor-Pink,微装飾粉
 5215,Gold Folding Door,G舊FoldingDoor
-5216,Prototype Design,PrototypeDesign
+5216,Prototype Design,試作設計
 5217,Phantom Thread,幻影線
 5218,Night Thread,夜線
 5219,Hexar Powder,咒術粉末
 5220,F.Instructor's Soul,辺境教官Ｓ魂
 5221,Song of the Sun,歌日
-5222,Song of Glaciers,之歌Glaciers
-5223,Song of Canyons,之歌Canyons
+5222,Song of Glaciers,冰川之歌
+5223,Song of Canyons,峡谷之歌
 5224,Song of Wind Caves,歌風圧洞
 5225,Song of Meteor,歌流星
-5226,Song of Sunrise,之歌Sunrise
-5227,Song of Swamps,之歌Swamps
-5228,Song of Jungles,之歌Jungles
-5229,White Cross,白Cross
+5226,Song of Sunrise,日出之歌
+5227,Song of Swamps,沼澤之歌
+5228,Song of Jungles,叢林之歌
+5229,White Cross,白十字
 5230,Apology Card White,謝罪可片白
 5231,Apology Card Red,謝罪可片赤
 5232,Fancy Book 4,華書４
@@ -5237,22 +5237,22 @@ index,source,target
 5235,Polyhedron Crystal,多面結晶
 5236,Wpn Design Doc Ⅲ,武器設計文書Ⅲ
 5237,Gold Fish,金魚
-5238,A Sweet Time,ASweetTime
-5239,Silken White Hair,Silken白Hair
+5238,A Sweet Time,甘時
+5239,Silken White Hair,絹白髪
 5240,Big Black Horn,大黑角
 5241,Bloody Black Shell,血色黑殼
-5242,Sepia Portrait,SepiaPortrait
-5243,Pisca Bait,PiscaBait
+5242,Sepia Portrait,褐肖像
+5243,Pisca Bait,魚餌
 5244,Mirror Sheen Stone,鏡面石
 5245,Beach Amulet,浜護身符
 5246,Red Hair Ornament,紅HairOrnament
 5247,Compass of Truth,真實羅盤
-5248,Candle of Fate,CandleofFate
+5248,Candle of Fate,燭宿命
 5249,Empty Book,空書
-5250,Decor Rod,DecorRod
+5250,Decor Rod,装飾竿
 5251,Memorial Music Box,MemorialMusicBox
 5252,Wisdomarang,Wisdomarang
-5253,Don's Inferno,Don'sInferno
+5253,Don's Inferno,堂Ｓ業火
 5254,Pokika Tkt Brown,波奇可票褐
 5255,Pokika Tkt Red,波奇可票赤
 5256,Pokika Tkt Striped,ポキカ縞票
@@ -5267,7 +5267,7 @@ index,source,target
 5265,Geo Tkt Ⅷ,地票Ⅷ
 5266,MS Tkt,ＭＳ票
 5267,SBC Tkt,ＳＢＣ票
-5268,Damaged Skin,DamagedSkin
+5268,Damaged Skin,損傷的皮
 5269,D Edge Tkt,Ｄ刃票
 5270,W Edge Tkt,Ｗ刃票
 5271,F Edge Tkt,Ｆ刃票
@@ -5279,11 +5279,11 @@ index,source,target
 5277,Gook Bomb,古克爆彈
 5278,Egg Bomb,蛋爆彈
 5279,Gook Cracker,古克爆竹
-5280,??? Doll,???Doll
+5280,??? Doll,人偶
 5281,Gook Bomb Token,古古鴨的爆弾代幣
 5282,Egg Bomb Token,蛋爆弾代幣
-5283,G Cracker Token,GCrackerToken
-5284,??? Doll Token,???DollToken
+5283,G Cracker Token,Ｇ餅代幣
+5284,??? Doll Token,人偶代幣
 5285,Sparkling Things,煌物
 5286,Shiny Things,閃物
 5287,Fluffy Things,毛絨物
@@ -5292,7 +5292,7 @@ index,source,target
 5290,Dark Steel,闇鋼
 5291,Crystal Fungus Ore,結晶菌礦
 5292,Limestone,石灰石
-5293,No Attack Marker,NoAttackMarker
+5293,No Attack Marker,攻撃標
 5294,Halk Flute・Demon,霍克笛・鬼人
 5295,Halk Flute・Armor,防具的鷹笛
 5296,Zamuza Fungus,盾蟹菌
@@ -5305,7 +5305,7 @@ index,source,target
 5303,Zamuza Claw+,多殼蟹的尖爪
 5304,Zamuza Thin Shl,盾蟹的薄的殻
 5305,Zamuza Thin Claw,多殼蟹的薄爪
-5306,Zamuza Drill,ZamuzaDrill
+5306,Zamuza Drill,盾蟹錐
 5307,Carapaceon Jewel,甲殼種珠
 5308,Zamuza Proof,盾蟹的證明
 5309,Abiorugu Scale,獰龍的鱗
@@ -5339,12 +5339,12 @@ index,source,target
 5337,Kuroni P Ticket,クローニＰ票
 5338,Ahaba P Ticket,アハバーＰ票
 5339,Cuff Base・Ivory,護腕基底象牙
-5340,Cuff Base・Hay,護腕Base・Hay
-5341,Cuff Base・Beige,護腕Base・Beige
-5342,Cuff Base・Cobalt,護腕Base・Cobalt
-5343,Cuff Base・Heather,護腕Base・Heather
-5344,Cuff Base・Corn,護腕Base・Corn
-5345,Armor Soul・Rough,ArmorSoul・Rough
+5340,Cuff Base・Hay,護腕基底・干
+5341,Cuff Base・Beige,護腕基底・米
+5342,Cuff Base・Cobalt,護腕基底・鈷
+5343,Cuff Base・Heather,護腕基底・石楠
+5344,Cuff Base・Corn,護腕基底・玉蜀黍
+5345,Armor Soul・Rough,防具魂粗
 5346,Armor Soul・Calm,防具魂靜
 5347,Armor Soul・Lucky,防具魂幸運
 5348,Armor Soul・Odd,防具魂奇
@@ -5352,8 +5352,8 @@ index,source,target
 5350,Red Volga Doll,熔岩龍赤人偶
 5351,White Volga Doll,熔岩龍白人偶
 5352,Green Volga Doll,熔岩龍緑人偶
-5353,Prple Volga Doll,PrpleVolgaDoll
-5354,Immature Mussels,ImmatureMussels
+5353,Prple Volga Doll,熔岩龍紫人形
+5354,Immature Mussels,未熟貝
 5355,Solid Black Shell,堅實黑殼
 5356,Unearthed Shell,出土的甲殼
 5357,Red Tools,赤工具
@@ -5374,12 +5374,12 @@ index,source,target
 5372,Big Shimmerbone,大微光骨
 5373,Wpn Design Doc α,WpnDesignDocα
 5374,Lunar Ink,月墨
-5375,Festi Echoes Jia,FestiEchoesJia
-5376,Festi Echoes Otsu,FestiEchoesOtsu
-5377,Festi Echoes Hei,FestiEchoesHei
-5378,Festi Echoes Tei,FestiEchoesTei
-5379,Glossy Fragments,Glossy碎片s
-5380,Clown Knowledge,ClownKnowledge
+5375,Festi Echoes Jia,祭響甲
+5376,Festi Echoes Otsu,祭響乙
+5377,Festi Echoes Hei,祭響丙
+5378,Festi Echoes Tei,祭響丁
+5379,Glossy Fragments,艶片
+5380,Clown Knowledge,道化知識
 5381,Purple Purecrystal,紫淨結晶
 5382,Clown Secrets,ClownSecrets
 5383,HC Pawprint Medal,ＨＣ肉球印勳章
@@ -5410,18 +5410,18 @@ index,source,target
 5408,Cream Jewel,乳脂珠
 5409,Storage Jewel,收納珠
 5410,Shion Jewel,紫苑珠
-5411,Steadiness G,SteadinessG
+5411,Steadiness G,安定Ｇ
 5412,Treasure G,寶物Ｇ
 5413,Loading G,装填Ｇ
-5414,Resist G,ResistG
+5414,Resist G,抵抗Ｇ
 5415,Wide Area G,広域範囲Ｇ
 5416,Normal Add G,通常追加Ｇ
 5417,Pierce Add G,貫通追加Ｇ
 5418,Pellet Add G,散弾追加Ｇ
-5419,Laziness G,LazinessG
-5420,Fraility G,FrailityG
+5419,Laziness G,怠惰Ｇ
+5420,Fraility G,虚弱Ｇ
 5421,Teostra Sup. Wing,炎王龍的至高翼
-5422,Paria Sup. Stone,PariaSup.石
+5422,Paria Sup. Stone,呑龍上的石
 5423,Dora Sup. Scale,冥雷龍的至高鱗
 5424,Throwing 2 Deco,Throwing2Deco
 5425,Caring Deco,介護裝飾品
@@ -5606,8 +5606,8 @@ index,source,target
 5604,Festi Echoes Jin,FestiEchoesJin
 5605,Festi Echoes Gui,FestiEchoesGui
 5606,HC Crafting Tkt,ＨＣ製作票
-5607,Blue Hunters Skin,藍HuntersSkin
-5608,Red Hunters Skin,紅HuntersSkin
+5607,Blue Hunters Skin,獵人的青的皮
+5608,Red Hunters Skin,獵人的赤的皮
 5609,Anti-Dragon Steel,龍抗鋼
 5610,Oriental Bamboo,OrientalBamboo
 5611,E. Paper Strip,E.PaperStrip
@@ -5646,7 +5646,7 @@ index,source,target
 5644,Daora Pale Ice,鋼龍蒼白氷
 5645,Daora Purp. Ice,鋼龍紫氷
 5646,Purple Cloud Twine,紫CloudTwine
-5647,Song of Source,之歌Source
+5647,Song of Source,源之歌
 5648,Song of Boulder,之歌Boulder
 5649,Song of Plateau,之歌Plateau
 5650,Song of Trees,之歌Trees
@@ -5693,15 +5693,15 @@ index,source,target
 5691,Fire B Tkt,炎Ｂ票
 5692,Dragon S Tkt,龍Ｓ票
 5693,Thank You Ⅴ,感謝汝Ⅴ
-5694,Lucius's Request Ⅰ,Lucius'sRequestⅠ
-5695,Lucius's Request Ⅱ,Lucius'sRequestⅡ
-5696,Lucius's Request Ⅲ,Lucius'sRequestⅢ
+5694,Lucius's Request Ⅰ,盧修斯Ｓ依頼Ⅰ
+5695,Lucius's Request Ⅱ,盧修斯Ｓ依頼Ⅱ
+5696,Lucius's Request Ⅲ,盧修斯Ｓ依頼Ⅲ
 5697,Refreshing Drink,清涼飲料
 5698,Hot Water Pan,HotWaterPan
 5699,Rich Fruit,RichFruit
-5700,Denarius・Gold,Denarius・Gold
-5701,Denarius・Silver,Denarius・Silver
-5702,Denarius・Copper,Denarius・Copper
+5700,Denarius・Gold,銀幣金
+5701,Denarius・Silver,銀幣銀
+5702,Denarius・Copper,銀幣銅
 5703,Blastshot,爆射
 5704,Fire Blastshot,火爆射
 5705,Water Blastshot,水爆射
@@ -5709,7 +5709,7 @@ index,source,target
 5707,Ice Blastshot,冰爆射
 5708,Dragon Blastshot,龍爆射
 5709,Blasting Fluid,Blasting液
-5710,Healing Ball,HealingBall
+5710,Healing Ball,治療球
 5711,Gook Whistle,古克笛
 5712,Gook Fireworks,古克煙火
 5713,Lost Ball,失球
@@ -5717,13 +5717,13 @@ index,source,target
 5715,Gook Fishing Bait,古克魚餌
 5716,Gook Bug Net,古克蟲網
 5717,Gook Gloves,古古鴨手套
-5718,Healing Ball Token,HealingBallToken
+5718,Healing Ball Token,治療球代幣
 5719,Gook Whistle Tkn,古古鴨的Whistle Tkn
 5720,Gook Fireworks Tkn,古古鴨的Fireworks Tkn
-5721,Gook Lost Ball Tkn,古古鴨的Lost Ball Tkn
+5721,Gook Lost Ball Tkn,古古鴨失球券
 5722,Pickaxe G Token,PickaxeGToken
-5723,Fishing Bait G Tkn,FishingBaitGTkn
-5724,Bug Net G Token,BugNetGToken
+5723,Fishing Bait G Tkn,釣餌Ｇ券
+5724,Bug Net G Token,蟲網Ｇ代幣
 5725,Glove G Token,GloveGToken
 5726,Pelagus Spike,牙獸種的棘
 5727,Guren Rough Horn,蠻龍的角
@@ -5752,14 +5752,14 @@ index,source,target
 5750,Kuaru Proof,水砦龍的證明
 5751,Candy Drawings,飴圖
 5752,Naughty Note,NaughtyNote
-5753,Memorial Note,MemorialNote
+5753,Memorial Note,記念的音符
 5754,Festi Note,祭典的音符
 5755,My Mission Tkt,我的任務票
 5756,Gogomoa Hairball,跳緋獸的Hairball
 5757,Glistn Things,GlistnThings
 5758,Hairy Things,HairyThings
 5759,Gritty Things,GrittyThings
-5760,Rough Things,RoughThings
+5760,Rough Things,粗物
 5761,Intro Special Bag,IntroSpecialBag
 5762,Halk Ball [Poison],毒鷹球
 5763,Millennium Rice,千年米
@@ -5837,7 +5837,7 @@ index,source,target
 5835,Gunnery SP,砲術ＳＰ
 5836,Gunnery SP α,GunnerySPα
 5837,Gunnery SP β,GunnerySPβ
-5838,Agility SP,AgilitySP
+5838,Agility SP,敏捷ＳＰ
 5839,Agility SP α,AgilitySPα
 5840,Agility SP β,AgilitySPβ
 5841,Hearing SP,聴覚ＳＰ
@@ -5856,7 +5856,7 @@ index,source,target
 5854,Pierce Up G,貫通強化Ｇ
 5855,Pellet Up G,散弾強化Ｇ
 5856,Self-Defence G,Self-DefenceG
-5857,Ele Atk 1 G,EleAtk1G
+5857,Ele Atk 1 G,屬攻撃１Ｇ
 5858,Status Atk G,状態攻撃Ｇ
 5859,Fencing II PA1,劍術ⅡＰＡ１
 5860,Fencing II PA2,劍術ⅡＰＡ２
@@ -5997,7 +5997,7 @@ index,source,target
 5995,Cuff Base・Glimmer,護腕Base・Glimmer
 5996,Cuff Base・Insects,護腕Base・Insects
 5997,Cuff Base・Cream,護腕Base・Cream
-5998,Cuff Base・Navy,護腕Base・Navy
+5998,Cuff Base・Navy,護腕基底・紺
 5999,Cuff Base・Indigo,護腕基底青藍
 6000,Pink Jewel,粉珠
 6001,White Tea Jewel,白茶珠
@@ -6041,7 +6041,7 @@ index,source,target
 6039,Shivering Beak,戰慄的喙
 6040,Poisonous Skin,毒的皮
 6041,Explosives License,ExplosivesLicense
-6042,Eastern Bamboo,EasternBamboo
+6042,Eastern Bamboo,東竹
 6043,Eastern Straw Rope,EasternStrawRope
 6044,Excavated,Excavated
 6045,Ice Stones,冰石
@@ -6164,7 +6164,7 @@ index,source,target
 6162,HC Crystal Silver ,ＨＣ結晶銀
 6163,HC Crystal Gold ,ＨＣ結晶金
 6164,HRP Tkt (800),ＨＲＰ票（800）
-6165,Thin Gook Soup,ThinGookSoup
+6165,Thin Gook Soup,薄古克汁
 6166,Tasty Gook Soup,TastyGookSoup
 6167,Rich Gook Soup,RichGookSoup
 6168,Fire Atk Fruit,火的攻撃果實
@@ -6177,8 +6177,8 @@ index,source,target
 6175,HRP Tkt (10K),ＨＲＰ票（10K）
 6176,HRP Tkt (20k),ＨＲＰ票（20K）
 6177,Monster Drawings,魔物圖
-6178,Big Ears Note,BigEarsNote
-6179,Small Ears Note,SmallEarsNote
+6178,Big Ears Note,大耳的音符
+6179,Small Ears Note,小耳的音符
 6180,Pointed Ears Note,PointedEarsNote
 6181,Bright Tail Note,輝耀尾的音符
 6182,Lovely Tail Note,可愛尾的音符
@@ -6190,7 +6190,7 @@ index,source,target
 6188,Numb Note,NumbNote
 6189,Freezing note,Freezingnote
 6190,Monster Survey Tkt,魔物調査票
-6191,Demon Pattern,DemonPattern
+6191,Demon Pattern,惡魔模様
 6192,Cuff Base・Ebony,護腕基底黒檀
 6193,Cuff Base・Amethyst,護腕基底紫水晶
 6194,Cuff Base・Olive,護腕Base・Olive
@@ -6460,7 +6460,7 @@ index,source,target
 6458,Blue Mochi,青餅
 6459,Pink Mochi,粉餅
 6460,Romantic Perfume,RomanticPerfume
-6461,Rough Ball,RoughBall
+6461,Rough Ball,粗球
 6462,Crackling Fruit,CracklingFruit
 6463,Gesture・Bow Ⅱ,弓的姿勢Ⅱ
 6464,Gesture・LBG Ⅱ,輕弩的姿勢Ⅱ
@@ -6470,7 +6470,7 @@ index,source,target
 6468,Valorant Plume,ValorantPlume
 6469,Admirable Shinobi,AdmirableShinobi
 6470,Firth Tkt,ファース票
-6471,Hearts Tkt,ハーツ票
+6471,Hearts Tkt,心票
 6472,Cry Tkt,哭票
 6473,Sentopi Tkt A,セントピ票Ａ
 6474,Sentopi Tkt B,セントピ票Ｂ
@@ -6492,33 +6492,33 @@ index,source,target
 6490,Orange Ice Fruit,橙氷果實
 6491,Peach Ice Fruit,桃氷果實
 6492,Round Fruit,RoundFruit
-6493,W.Monoblos BM G,W.MonoblosBMG
-6494,W.Monoblos BM GF,W.MonoblosBMGF
-6495,W.Monoblos BM GX1,W.MonoblosBMGX1
-6496,W.Monoblos BM GX2,W.MonoblosBMGX2
-6497,W.Monoblos BM GX3,W.MonoblosBMGX3
-6498,W.Monoblos BM GX4,W.MonoblosBMGX4
-6499,W.Monoblos BM GX5,W.MonoblosBMGX5
-6500,W.Monoblos GN G,W.MonoblosGNG
-6501,W.Monoblos GN GF,W.MonoblosGNGF
-6502,W.Monoblos GN GX1,W.MonoblosGNGX1
-6503,W.Monoblos GN GX2,W.MonoblosGNGX2
-6504,W.Monoblos GN GX3,W.MonoblosGNGX3
-6505,W.Monoblos GN GX4,W.MonoblosGNGX4
-6506,W.Monoblos GN GX5,W.MonoblosGNGX5
-6507,B.Diablos BM G,B.DiablosBMG
-6508,B.Diablos BM GF,B.DiablosBMGF
-6509,B.Diablos BM GX1,B.DiablosBMGX1
-6510,B.Diablos BM GX2,B.DiablosBMGX2
-6511,B.Diablos BM GX3,B.DiablosBMGX3
-6512,B.Diablos BM GX4,B.DiablosBMGX4
-6513,B.Diablos BM GX5,B.DiablosBMGX5
-6514,B.Diablos GN G,B.DiablosGNG
-6515,B.Diablos GN GF,B.DiablosGNGF
-6516,B.Diablos GN GX1,B.DiablosGNGX1
-6517,B.Diablos GN GX2,B.DiablosGNGX2
-6518,B.Diablos GN GX3,B.DiablosGNGX3
-6519,B.Diablos GN GX4,B.DiablosGNGX4
+6493,W.Monoblos BM G,白一角龍劍士Ｇ
+6494,W.Monoblos BM GF,白一角龍劍士ＧＦ
+6495,W.Monoblos BM GX1,白一角龍劍士ＧＸ１
+6496,W.Monoblos BM GX2,白一角龍劍士ＧＸ２
+6497,W.Monoblos BM GX3,白一角龍劍士ＧＸ３
+6498,W.Monoblos BM GX4,白一角龍劍士ＧＸ４
+6499,W.Monoblos BM GX5,白一角龍劍士ＧＸ５
+6500,W.Monoblos GN G,白一角龍射手Ｇ
+6501,W.Monoblos GN GF,白一角龍射手ＧＦ
+6502,W.Monoblos GN GX1,白一角龍射手ＧＸ１
+6503,W.Monoblos GN GX2,白一角龍射手ＧＸ２
+6504,W.Monoblos GN GX3,白一角龍射手ＧＸ３
+6505,W.Monoblos GN GX4,白一角龍射手ＧＸ４
+6506,W.Monoblos GN GX5,白一角龍射手ＧＸ５
+6507,B.Diablos BM G,黑角龍劍士Ｇ
+6508,B.Diablos BM GF,黑角龍劍士ＧＦ
+6509,B.Diablos BM GX1,黑角龍劍士ＧＸ１
+6510,B.Diablos BM GX2,黑角龍劍士ＧＸ２
+6511,B.Diablos BM GX3,黑角龍劍士ＧＸ３
+6512,B.Diablos BM GX4,黑角龍劍士ＧＸ４
+6513,B.Diablos BM GX5,黑角龍劍士ＧＸ５
+6514,B.Diablos GN G,黑角龍射手Ｇ
+6515,B.Diablos GN GF,黑角龍射手ＧＦ
+6516,B.Diablos GN GX1,黑角龍射手ＧＸ１
+6517,B.Diablos GN GX2,黑角龍射手ＧＸ２
+6518,B.Diablos GN GX3,黑角龍射手ＧＸ３
+6519,B.Diablos GN GX4,黑角龍射手ＧＸ４
 6520,Dummy 6520,(dummy)
 6521,Dummy 6521,(dummy)
 6522,Dummy 6522,(dummy)
@@ -6531,7 +6531,7 @@ index,source,target
 6529,Dummy 6529,(dummy)
 6530,Dummy 6530,(dummy)
 6531,Dummy 6531,(dummy)
-6532,B.Diablos GN GX5,B.DiablosGNGX5
+6532,B.Diablos GN GX5,黑角龍射手ＧＸ５
 6533,Yama Kurai Info,浮峰龍的情報
 6534,Gasurabazura Info,怒貌龍的情報
 6535,Zinogre Info,雷狼龍的情報
@@ -6548,7 +6548,7 @@ index,source,target
 6546,Zenaserisu Info,裂水龍的情報
 6547,Gore Magala Info,黑蝕龍的情報
 6548,Keoaruboru Info,焔嶽龍的情報
-6549,S.Magala Info,天迴龍的Info
+6549,S.Magala Info,天廻龍情報
 6550,Elzelion Info,灼零龍的情報
 6551,Amastu Info,AmastuInfo
 6552,Seregios Info,千刃龍情報
@@ -6692,7 +6692,7 @@ index,source,target
 6690,Blng.Aged Beard,Blng.AgedBeard
 6691,Blng.Berg Fang,雪獅子王的氷山的牙
 6692,Khezu Aged Hide,奇怪龍的皮
-6693,Khezu Soul Extract,奇怪龍的Soul Extract
+6693,Khezu Soul Extract,奇怪龍魂抽出
 6694,Khezu Azure Hide,奇怪龍的皮
 6695,Gravios Lord Bone,鎧龍的主骨
 6696,Gravios Liver,鎧龍的肝
@@ -6704,7 +6704,7 @@ index,source,target
 6702,Midogaron Mane,爆狼的鬣毛
 6703,Midogaron Spike,爆狼的棘
 6704,GR4 Gem,GR4 寶玉
-6705,Espi.Eternal Thorn,Espi.EternalThorn
+6705,Espi.Eternal Thorn,棘龍永遠刺
 6706,Espinas Thorn,棘龍的棘
 6707,Espinas Dark Shell,棘龍的闇殼
 6708,Volg.Scoria Scale,熔岩龍的火山渣的鱗
@@ -6732,7 +6732,7 @@ index,source,target
 6730,Vashimu Rare Fluid,尾晶蠍的體液
 6731,Vash. Solid Tail,尾晶蠍的堅的尾
 6732,Garuga Crazy Shell,黑狼鳥的狂殼
-6733,Garuga Dark Weave,黑狼鳥的Dark Weave
+6733,Garuga Dark Weave,黑狼鳥闇織
 6734,Garuga Rend Claw,黑狼鳥的裂爪
 6735,Guren Wrath Shell,蠻龍的憤怒殼
 6736,Guren Rage Horn,蠻龍的角
@@ -6767,15 +6767,15 @@ index,source,target
 6765,Mi-Ru Spike,黑狐龍的棘
 6766,Rebidiora Shard,雷極龍的厚鱗
 6767,Rebidiora Cortex,雷極龍的重殼
-6768,Rebidiora Weave,雷極龍的Weave
+6768,Rebidiora Weave,雷極龍織
 6769,Magnetic Stone,磁力石
 6770,Rebidiora Horn,雷極龍的角
 6771,Rebidiora Lash,雷極龍的靭尾
 6772,Rebidiora Direwing,雷極龍的Direwing
 6773,Shanthien Shard,天翔龍的厚鱗
 6774,Shanthien Cortex,天翔龍的重殼
-6775,Shanthien Piel,ShanthienPiel
-6776,Shanthien Crystal,ShanthienCrystal
+6775,Shanthien Piel,山天皮耶爾
+6776,Shanthien Crystal,山天結晶
 6777,Shanthien Hardhorn,天翔龍的堅角
 6778,Shan.Air Shell,天翔龍的氣殼
 6779,Shanthien Ripper,ShanthienRipper
@@ -6804,7 +6804,7 @@ index,source,target
 6802,Fly.Wyvern Tongue,Fly.WyvernTongue
 6803,Piscine Great Fin,魚龍種的鰭
 6804,Piscine Great Fang,魚龍種的牙
-6805,Piscine Great Scl,PiscineGreatScl
+6805,Piscine Great Scl,魚偉大的鱗
 6806,Insect Bladeshell,InsectBladeshell
 6807,Poison Stinger,PoisonStinger
 6808,Insect Pheromones,InsectPheromones
@@ -6994,7 +6994,7 @@ index,source,target
 6992,Rathian Shineshell,雌火龍的輝殼
 6993,Shogun Great Leg,將軍鎌蟹的偉大脚
 6994,Blango Prime Fang,雪獅子的極牙
-6995,Khezu Membrane,奇怪龍的Membrane
+6995,Khezu Membrane,奇怪龍膜
 6996,Gravios Mega Shell,鎧龍的大殼
 6997,Los Great Shell,火龍的偉大的殻
 6998,Espi Eternal Scale,棘龍的永遠的鱗
@@ -7014,9 +7014,9 @@ index,source,target
 7012,Sushi Fruit,SushiFruit
 7013,Black Gloss Stone,黑光澤石
 7014,Predator Feather,PredatorFeather
-7015,Sturdy Beast Fur,SturdyBeastFur
+7015,Sturdy Beast Fur,頑強獣毛皮
 7016,Sharp Fang Shard,鋭牙的碎片
-7017,Ice Scales,Ice鱗s
+7017,Ice Scales,冰的鱗
 7018,Ice Petals,IcePetals
 7019,Andradite Shard,紅榴石厚鱗
 7020,Twisted Hachimaki,TwistedHachimaki
@@ -7024,12 +7024,12 @@ index,source,target
 7022,Gold Mikoshi Decor,G舊MikoshiDecor
 7023,Supreme Dango,SupremeDango
 7024,Adamant Orange,精金橙
-7025,Celestite Fragment,Celestite碎片
-7026,Celestite Chunk,CelestiteChunk
+7025,Celestite Fragment,天青石断片
+7026,Celestite Chunk,天青石塊
 7027,Quartz Aggregate,QuartzAggregate
 7028,Big Jade Stone,大玉石
-7029,Delicate Gears,DelicateGears
-7030,Rough Celestite,RoughCelestite
+7029,Delicate Gears,繊細齒輪
+7030,Rough Celestite,粗天青石
 7031,Lure Grass,誘餌草
 7032,Maestro's Seal,Maestro'sSeal
 7033,Huge Pierced Bone,巨大貫穿骨
@@ -7060,7 +7060,7 @@ index,source,target
 7058,ＢＧ１ Tkt・７,ＢＧ１票・７
 7059,Odd Red Liquid,奇赤液體
 7060,Odd Blue Liquid,奇青液體
-7061,Odd Teal Liquid,OddTealLiquid
+7061,Odd Teal Liquid,奇青緑液
 7062,Odd Pink Liquid,奇粉液體
 7063,Odd White Liquid,奇白液體
 7064,Odd Black Liquid,奇黒液體
@@ -7124,7 +7124,7 @@ index,source,target
 7122,Mastery Legs Tkt,精通脚票
 7123,1k Gz Cheque,１ｋＧＺ支票
 7124,Soft Cloth,軟布
-7125,Light Colour Dye,LightColourDye
+7125,Light Colour Dye,光色染料
 7126,Damaged Scale,破損的鱗
 7127,Delicate Blossom,DelicateBlossom
 7128,Saint Ore,聖礦石
@@ -7178,15 +7178,15 @@ index,source,target
 7176,Arti Purple Tkt,豪鋒紫票
 7177,Stray Purple Tkt,ストレイ紫票
 7178,Blue Stone,藍石
-7179,Arudoru Tkt Yllw,アルドル黄票
+7179,Arudoru Tkt Yllw,阿魯多魯票黄
 7180,Arudoru Tkt Blck,アルドル黒票
-7181,Arudoru Tkt Pur,アルドル紫票
-7182,Arudoru Tkt Lead,アルドル鉛票
+7181,Arudoru Tkt Pur,阿魯多魯票紫
+7182,Arudoru Tkt Lead,阿魯多魯票鉛
 7183,Sigil Mat Ticket,紋章素材票
-7184,Porto L Red Tkt,ポルトＬ赤票
-7185,Porto L Yellow Tkt,ポルトＬ黄票
-7186,Porto L White Tkt,ポルトＬ白票
-7187,Porto L Black Tkt,ポルトＬ黒票
+7184,Porto L Red Tkt,波爾圖Ｌ赤票
+7185,Porto L Yellow Tkt,波爾圖Ｌ黄票
+7186,Porto L White Tkt,波爾圖Ｌ白票
+7187,Porto L Black Tkt,波爾圖Ｌ黒票
 7188,D.R.Spear Tkt,ＤＲ槍票
 7189,D.R.Fang Spear Tkt,ＤＲ牙槍票
 7190,T.R.Spear Tkt,ＴＲ槍票
@@ -7223,7 +7223,7 @@ index,source,target
 7221,Ikusaga Tkt A,イクサガ票Ａ
 7222,Ikusaga Tkt B,イクサガ票Ｂ
 7223,Sprout Ore,芽礦石
-7224,Caravan Trsr,旅團Trsr
+7224,Caravan Trsr,旅團寶
 7225,Attack PA1,攻撃ＰＡ１
 7226,Expert PA1,達人ＰＡ１
 7227,Eating PA2,食事ＰＡ２
@@ -7282,7 +7282,7 @@ index,source,target
 7280,Purp.Conquest Tkt,紫征伐票
 7281,Oran.Conquest Tkt,橙征伐票
 7282,Sigil Catalyst,SigilCatalyst
-7283,Bird Wyvern Ringer,BirdWyvernRinger
+7283,Bird Wyvern Ringer,鳥飛龍鈴
 7284,Hermitaur Armor,盾蟹的防具
 7285,Conga.Polished Fng,Conga.PolishedFng
 7286,Gypceros Ven.Tail,毒怪鳥的Ven.Tail
@@ -7448,21 +7448,21 @@ index,source,target
 7446,Karudora E Tkt,源流Ｅ票
 7447,Buster L Tkt,毀滅Ｌ票
 7448,Hydra M Tkt,海蛇Ｍ票
-7449,Alia Q Tkt,アリアＱ票
-7450,Alia W Tkt,アリアＷ票
-7451,Tomen Q Tkt,トメンＱ票
-7452,Tomen W Tkt,トメンＷ票
-7453,Cuff Base G・Hemp,護腕BaseG・Hemp
-7454,Cuff Base G・Lily,護腕BaseG・Lily
-7455,C.Base G・Miscanthus,C.BaseG・Miscanthus
-7456,C.Base G・Narcissus,C.BaseG・Narcissus
-7457,C.Base G・Daffodil,C.BaseG・Daffodil
+7449,Alia Q Tkt,阿利亞Ｑ票
+7450,Alia W Tkt,阿利亞Ｗ票
+7451,Tomen Q Tkt,托門Ｑ票
+7452,Tomen W Tkt,托門Ｗ票
+7453,Cuff Base G・Hemp,護腕基底Ｇ・麻
+7454,Cuff Base G・Lily,護腕基底Ｇ・百合
+7455,C.Base G・Miscanthus,護腕基底Ｇ・芒
+7456,C.Base G・Narcissus,護腕基底Ｇ・水仙
+7457,C.Base G・Daffodil,護腕基底Ｇ・水仙
 7458,C.Base G・Decumaria,C.BaseG・Decumaria
-7459,C.Base G・Butterbur,C.BaseG・Butterbur
-7460,C.Base G・Horsetail,C.BaseG・Horsetail
-7461,C.Base G・Dianthus,C.BaseG・Dianthus
-7462,C.Base G・Bamboo,C.BaseG・Bamboo
-7463,C.Base G・Physalis,C.BaseG・Physalis
+7459,C.Base G・Butterbur,護腕基底Ｇ・蜂斗菜
+7460,C.Base G・Horsetail,護腕基底Ｇ・筆
+7461,C.Base G・Dianthus,護腕基底Ｇ・石竹
+7462,C.Base G・Bamboo,護腕基底Ｇ・竹
+7463,C.Base G・Physalis,護腕基底Ｇ・酸漿
 7464,C.Base G・Aubergine,C.BaseG・Aubergine
 7465,20 Soul Gem G,20魂寶玉Ｇ
 7466,40 Soul Gem G,40魂寶玉Ｇ
@@ -7502,16 +7502,16 @@ index,source,target
 7500,グルーラ稀鉱石,グルーラ稀鉱石
 7501,Oni Iron,鬼鐵
 7502,Glory Coin,栄光硬幣
-7503,D.Cat Medal White,D.Cat勳章White
-7504,D.Cat Medal Yellow,D.Cat勳章Yellow
-7505,D.Cat Medal Red,D.Cat勳章Red
-7506,D.Cat Medal Blue,D.Cat勳章Blue
-7507,D.Cat Medal Black,D.Cat勳章Black
-7508,D.Cat Coin White,D.CatCoinWhite
-7509,D.Cat Coin Yellow,D.CatCoinYellow
-7510,D.Cat Coin Red,D.CatCoinRed
-7511,D.Cat Coin Blue,D.CatCoinBlue
-7512,D.Cat Coin Black,D.CatCoinBlack
+7503,D.Cat Medal White,D猫勳章白
+7504,D.Cat Medal Yellow,D猫勳章黄
+7505,D.Cat Medal Red,D猫勳章赤
+7506,D.Cat Medal Blue,D猫勳章青
+7507,D.Cat Medal Black,D猫勳章黒
+7508,D.Cat Coin White,D猫硬幣白
+7509,D.Cat Coin Yellow,D猫硬幣黄
+7510,D.Cat Coin Red,D猫硬幣赤
+7511,D.Cat Coin Blue,D猫硬幣青
+7512,D.Cat Coin Black,D猫硬幣黒
 7513,Pietra BM GX1,岩華劍士ＧＸ１
 7514,Pietra BM GX2,岩華劍士ＧＸ２
 7515,Pietra BM GX3,岩華劍士ＧＸ３
@@ -8089,7 +8089,7 @@ index,source,target
 8087,Gold Rathian Ruby,金火龍的紅寶石
 8088,Velocidrome Sac,藍速龍王的袋
 8089,Plesioth Bub.Gem,水龍的Bub.Gem
-8090,Berukyurosu Tears,舞雷龍的Tears
+8090,Berukyurosu Tears,舞雷龍涙
 8091,Barur.Fluid Sac,噬血龍的液袋
 8092,Velocidrome Scale,藍速龍王的鱗
 8093,Velocidrome Fang,藍速龍王的牙
@@ -8154,7 +8154,7 @@ index,source,target
 8152,Baru Dense Fluid,噬血龍的體液
 8153,Baru Blood Vessel,噬血龍的血管
 8154,Baru Lash,噬血龍的靭尾
-8155,Baru Thin Tentacle,BaruThinTentacle
+8155,Baru Thin Tentacle,噬血龍薄触手
 8156,Baru Rainbow Fin,噬血龍的鰭
 8157,Baru Thin Tongue,噬血龍薄舌
 8158,Baru Crest,噬血龍的冠
@@ -8166,7 +8166,7 @@ index,source,target
 8164,Baru Fluid,噬血龍的體液
 8165,Baru Blood,噬血龍的血
 8166,Baru Tail,噬血龍的尾
-8167,Baru Tentacle,BaruTentacle
+8167,Baru Tentacle,噬血龍触手
 8168,Baru Fin,噬血龍的鰭
 8169,Baru Tongue,噬血龍舌
 8170,Baru Frill,BaruFrill
@@ -8216,7 +8216,7 @@ index,source,target
 8214,Old Indigo Mirror,舊青藍鏡
 8215,Rusty Indigo Blade,生錆青藍刃
 8216,Old Sketch,舊Sketch
-8217,Old Diary,舊Diary
+8217,Old Diary,舊日記
 8218,Old Letter,舊信件
 8219,Yellow Sand Design,黄砂設計
 8220,Yellow Sand Screw,黄砂螺絲
@@ -8230,17 +8230,17 @@ index,source,target
 8228,Windblessed Ore,風祝福礦石
 8229,Dayblessed Ore,日祝福礦石
 8230,Skyblessed Ore,天祝福礦石
-8231,Abies Leaves,AbiesLeaves
-8232,Abies Thick Leaves,AbiesThickLeaves
-8233,Abies Sharp Leaves,AbiesSharpLeaves
+8231,Abies Leaves,樅的葉
+8232,Abies Thick Leaves,樅厚的葉
+8233,Abies Sharp Leaves,樅鋭的葉
 8234,Rare Snow Leaves,稀有雪的葉
 8235,Zodiac Gift(Horse),ZodiacGift(Horse)
-8236,Golden Wings,金Wings
+8236,Golden Wings,黄金的翼
 8237,Golden Hair,黄金的毛
 8238,Golden Blessing,黄金祝福
-8239,Lovely Glasses,LovelyGlasses
+8239,Lovely Glasses,可愛眼鏡
 8240,Colored Glasses,Colo紅Glasses
-8241,Luxury Glasses,LuxuryGlasses
+8241,Luxury Glasses,豪華眼鏡
 8242,Blue Luxury Paint,青豪華塗
 8243,Peach Luxury Paint,桃豪華塗
 8244,いざないの音色,いざないの音色
@@ -8477,7 +8477,7 @@ index,source,target
 8475,Light Tread PC3,軽足ＰＣ３
 8476,Light Tread PC4,軽足ＰＣ４
 8477,Light Tread PC5,軽足ＰＣ５
-8478,Solemn Box,SolemnBox
+8478,Solemn Box,厳粛箱
 8479,Holdfast Sap,HoldfastSap
 8480,Beauty Fruit,BeautyFruit
 8481,Suspicious Fangs,Suspicious牙s
@@ -8799,8 +8799,8 @@ index,source,target
 8797,Epide Ⅵ Tkt,瘟疫Ⅵ票
 8798,Nadel C Tkt,刺針Ｃ票
 8799,Nadel L Tkt,刺針Ｌ票
-8800,Alia L Tkt,アリアＬ票
-8801,Tomen L Tkt,トメンＬ票
+8800,Alia L Tkt,阿利亞Ｌ票
+8801,Tomen L Tkt,托門Ｌ票
 8802,SR Hiden Stone,SR皮n石
 8803,Kaera A Tkt,至愛Ａ票
 8804,ジルＡ生産券,ジルＡ生産券
@@ -8931,7 +8931,7 @@ index,source,target
 8929,Cryptic Locust,CrypticLocust
 8930,Butterfly Lily,蝴蝶百合
 8931,Wind Up Grass,風上草
-8932,Steel Wool,鋼Wool
+8932,Steel Wool,鋼的毛
 8933,Toro Pulp,ToroPulp
 8934,Gorgeous Koi,GorgeousKoi
 8935,Pallone's Wisdom,Pallone'sWisdom
@@ -9046,7 +9046,7 @@ index,source,target
 9044,Foro Pelt,華鳳鳥的皮
 9045,Foro Beak,尾錘龍的喙
 9046,Foro Tailfeathers,Foro尾feathers
-9047,Foro Weave,ForoWeave
+9047,Foro Weave,尾錘龍織
 9048,Foro Nectar,尾錘龍花蜜
 9049,Foro Hardclaw,華鳳鳥的堅爪
 9050,Foro Fine Pelt,尾錘龍精毛皮
@@ -9178,9 +9178,9 @@ index,source,target
 9176,カルド鉱石・発,カルド鉱石・発
 9177,カルド鉱石・栄,カルド鉱石・栄
 9178,Ornamental Grass,觀賞草
-9179,Eastern Wool,EasternWool
-9180,Red Cat Tears,紅CatTears
-9181,Evil Cat Tears,EvilCatTears
+9179,Eastern Wool,東的毛
+9180,Red Cat Tears,赤猫涙
+9181,Evil Cat Tears,惡猫涙
 9182,King's Medal,王Ｓ勳章
 9183,Thank You Ⅶ,感謝汝Ⅶ
 9184,Franc BM G,法郎劍士Ｇ
@@ -9253,54 +9253,54 @@ index,source,target
 9251,Vulcan GN GX3,火山射手ＧＸ３
 9252,Vulcan GN GX4,火山射手ＧＸ４
 9253,Vulcan GN GX5,火山射手ＧＸ５
-9254,SnS Hiden? White,SnS皮n?White
-9255,SnS Hiden? Red,SnS皮n?Red
-9256,SnS Hiden? Black,SnS皮n?Black
-9257,SnS Hiden? Blue,SnS皮n?Blue
-9258,DS Hiden? White,DS皮n?White
-9259,DS Hiden? Red,DS皮n?Red
-9260,DS Hiden? Black,DS皮n?Black
-9261,DS Hiden? Blue,DS皮n?Blue
-9262,GS Hiden? White,GS皮n?White
-9263,GS Hiden? Red,GS皮n?Red
-9264,GS Hiden? Black,GS皮n?Black
-9265,GS Hiden? Blue,GS皮n?Blue
-9266,LS Hiden? White,LS皮n?White
-9267,LS Hiden? Red,LS皮n?Red
-9268,LS Hiden? Black,LS皮n?Black
-9269,LS Hiden? Blue,LS皮n?Blue
-9270,Lance Hiden? White,Lance皮n?White
-9271,Lance Hiden? Red,Lance皮n?Red
-9272,Lance Hiden? Black,Lance皮n?Black
-9273,Lance Hiden? Blue,Lance皮n?Blue
-9274,GL Hiden? White,GL皮n?White
-9275,GL Hiden? Red,GL皮n?Red
-9276,GL Hiden? Black,GL皮n?Black
-9277,GL Hiden? Blue,GL皮n?Blue
+9254,SnS Hiden? White,片手劍秘傳白
+9255,SnS Hiden? Red,片手劍秘傳赤
+9256,SnS Hiden? Black,片手劍秘傳黒
+9257,SnS Hiden? Blue,片手劍秘傳青
+9258,DS Hiden? White,雙劍秘傳白
+9259,DS Hiden? Red,雙劍秘傳赤
+9260,DS Hiden? Black,雙劍秘傳黒
+9261,DS Hiden? Blue,雙劍秘傳青
+9262,GS Hiden? White,大劍秘傳白
+9263,GS Hiden? Red,大劍秘傳赤
+9264,GS Hiden? Black,大劍秘傳黒
+9265,GS Hiden? Blue,大劍秘傳青
+9266,LS Hiden? White,太刀秘傳白
+9267,LS Hiden? Red,太刀秘傳赤
+9268,LS Hiden? Black,太刀秘傳黒
+9269,LS Hiden? Blue,太刀秘傳青
+9270,Lance Hiden? White,長槍秘傳白
+9271,Lance Hiden? Red,長槍秘傳赤
+9272,Lance Hiden? Black,長槍秘傳黒
+9273,Lance Hiden? Blue,長槍秘傳青
+9274,GL Hiden? White,銃槍秘傳白
+9275,GL Hiden? Red,銃槍秘傳赤
+9276,GL Hiden? Black,銃槍秘傳黒
+9277,GL Hiden? Blue,銃槍秘傳青
 9278,Hammer Hiden? Wh,Hammer皮n?Wh
-9279,Hammer Hiden? Red,Hammer皮n?Red
-9280,Hammer Hiden? Blk,Hammer皮n?Blk
-9281,Hammer Hiden? Blu,Hammer皮n?Blu
-9282,HH Hiden? White,HH皮n?White
-9283,HH Hiden? Red,HH皮n?Red
-9284,HH Hiden? Black,HH皮n?Black
-9285,HH Hiden? Blue,HH皮n?Blue
-9286,LBG Hiden? White,LBG皮n?White
-9287,LBG Hiden? Red,LBG皮n?Red
-9288,LBG Hiden? Black,LBG皮n?Black
-9289,LBG Hiden? Blue,LBG皮n?Blue
-9290,HBG Hiden? White,HBG皮n?White
-9291,HBG Hiden? Red,HBG皮n?Red
-9292,HBG Hiden? Black,HBG皮n?Black
-9293,HBG Hiden? Blue,HBG皮n?Blue
-9294,Bow Hiden? White,Bow皮n?White
-9295,Bow Hiden? Red,Bow皮n?Red
-9296,Bow Hiden? Black,Bow皮n?Black
-9297,Bow Hiden? Blue,Bow皮n?Blue
-9298,Tonfa Hiden? White,Tonfa皮n?White
-9299,Tonfa Hiden? Red,Tonfa皮n?Red
-9300,Tonfa Hiden? Black,Tonfa皮n?Black
-9301,Tonfa Hiden? Blue,Tonfa皮n?Blue
+9279,Hammer Hiden? Red,大錘秘傳赤
+9280,Hammer Hiden? Blk,大錘秘傳黒
+9281,Hammer Hiden? Blu,大錘秘傳青
+9282,HH Hiden? White,狩獵笛秘傳白
+9283,HH Hiden? Red,狩獵笛秘傳赤
+9284,HH Hiden? Black,狩獵笛秘傳黒
+9285,HH Hiden? Blue,狩獵笛秘傳青
+9286,LBG Hiden? White,輕弩秘傳白
+9287,LBG Hiden? Red,輕弩秘傳赤
+9288,LBG Hiden? Black,輕弩秘傳黒
+9289,LBG Hiden? Blue,輕弩秘傳青
+9290,HBG Hiden? White,重弩秘傳白
+9291,HBG Hiden? Red,重弩秘傳赤
+9292,HBG Hiden? Black,重弩秘傳黒
+9293,HBG Hiden? Blue,重弩秘傳青
+9294,Bow Hiden? White,弓秘傳白
+9295,Bow Hiden? Red,弓秘傳赤
+9296,Bow Hiden? Black,弓秘傳黒
+9297,Bow Hiden? Blue,弓秘傳青
+9298,Tonfa Hiden? White,穿龍棍秘傳白
+9299,Tonfa Hiden? Red,穿龍棍秘傳赤
+9300,Tonfa Hiden? Black,穿龍棍秘傳黒
+9301,Tonfa Hiden? Blue,穿龍棍秘傳青
 9302,Nisuru BM G,尼斯魯劍士Ｇ
 9303,Nisuru BM GF,尼斯魯劍士ＧＦ
 9304,Nisuru BM GX1,尼斯魯劍士ＧＸ１
@@ -9363,7 +9363,7 @@ index,source,target
 9361,IS Arms Tkt,ＩＳ腕票
 9362,IS Waist Tkt,ＩＳ腰票
 9363,IS Legs Tkt,ＩＳ脚票
-9364,Gorgeous Feathers,GorgeousFeathers
+9364,Gorgeous Feathers,華麗的羽
 9365,Oblivion Flute,忘卻笛
 9366,Elegant Bag,優雅的袋
 9367,Taboo Abyssal Tome,TabooAbyssalTome
@@ -9492,7 +9492,7 @@ index,source,target
 9490,Hunter G,獵人G
 9491,Eating 2 G,食事２Ｇ
 9492,Artisan 1 G,匠１Ｇ
-9493,Ele Atk 2 G,EleAtk2G
+9493,Ele Atk 2 G,屬攻撃２Ｇ
 9494,Daybreak Jewel,達伊布雷阿克珠
 9495,Baby Bamboo Jewel,巴布伊巴姆波歐珠
 9496,Secret Color Jewel,塞克雷特克歐洛爾珠
@@ -9515,9 +9515,9 @@ index,source,target
 9513,FG1 Tkt 5,ＦＧ１票・５
 9514,FG1 Tkt 6,ＦＧ１票・６
 9515,FG1 Tkt 7,ＦＧ１票・７
-9516,New World Bond Ⅰ,NewWorldBondⅠ
-9517,New World Bond Ⅱ,NewWorldBondⅡ
-9518,New World Bond Ⅲ,NewWorldBondⅢ
+9516,New World Bond Ⅰ,新世界絆Ⅰ
+9517,New World Bond Ⅱ,新世界絆Ⅱ
+9518,New World Bond Ⅲ,新世界絆Ⅲ
 9519,Hill D Tkt,戰意Ｄ票
 9520,Ruida Tkt,深邃票
 9521,Foret R Tkt,綠林Ｒ票
@@ -9585,10 +9585,10 @@ index,source,target
 9583,Moonlight Sand,月光砂
 9584,Peak Soul Grass,峰魂草
 9585,Inagami Proof,雅翁龍的證明
-9586,Garuba Proof,Garuba證明
+9586,Garuba Proof,金塵的證明
 9587,P.Rubber Greathide,P.RubberGreathide
 9588,P.Rubber Purehide,P.RubberPurehide
-9589,P.Gyp Hard Head,P.GypHardHead
+9589,P.Gyp Hard Head,紫屍硬的頭
 9590,P.Gyp Green Tail,紫毒怪鳥的緑尾
 9591,P.Gyp Shineclaw,P.GypShineclaw
 9592,P.Gyp Shinehide,P.GypShinehide
@@ -9607,7 +9607,7 @@ index,source,target
 9605,Brave Crimson Horn,勇深紅的角
 9606,Monoblos Hardfang,一角龍的堅牙
 9607,Malleable Hide,柔軟的皮
-9608,Red Khezu Membrane,紅電龍的Membrane
+9608,Red Khezu Membrane,電龍赤膜
 9609,Red Khezu Piel,電龍赤皮耶爾
 9610,Red Alluring Hide,紅魅惑的皮
 9611,Hypnoc Brighthide,眠鳥的輝皮
@@ -9618,7 +9618,7 @@ index,source,target
 9616,Garuba Scale,金塵龍的鱗
 9617,Garuba Shell,金塵龍的甲殼
 9618,Garuba Claw,金塵龍的爪
-9619,Garuba Topaz,GarubaTopaz
+9619,Garuba Topaz,金塵黄玉
 9620,Garuba Horn,金塵龍的角
 9621,Garuba Tail,金塵龍的尾
 9622,Garuba Webbing,金塵龍的翼膜
@@ -9638,7 +9638,7 @@ index,source,target
 9636,Inagami Piel,雅翁龍皮耶爾
 9637,Inagami Glosshair,雅翁龍的Glosshair
 9638,Inagami Shard,雅翁龍的厚鱗
-9639,Inagami Muscle,雅翁龍的Muscle
+9639,Inagami Muscle,雅翁龍筋
 9640,Inagami Darkmarrow,雅翁龍的闇骨髓
 9641,Inagami Pure Scale,雅翁龍的鱗
 9642,Inagami Lash,雅翁龍的靭尾
@@ -9665,10 +9665,10 @@ index,source,target
 9663,Hunter Medal・White,獵人的勳章白
 9664,Hunter Medal・Pink,獵人的勳章粉
 9665,Hunter Medal・Purpl,獵人勳章・Purpl
-9666,Hunter Medal・Yellw,獵人勳章・Yellw
+9666,Hunter Medal・Yellw,獵人勳章黄
 9667,Rusted Fittings,RustedFittings
-9668,Beautiful Fittings,BeautifulFittings
-9669,Shining Fittings,ShiningFittings
+9668,Beautiful Fittings,美装具
+9669,Shining Fittings,輝耀装具
 9670,Necronomicon,Necronomicon
 9671,Seedy Magazine,SeedyMagazine
 9672,Beautiful Book,美書
@@ -9677,7 +9677,7 @@ index,source,target
 9675,Big Book,大書
 9676,Small Book,小書
 9677,Musical Memories,MusicalMemories
-9678,Old Lamp,舊Lamp
+9678,Old Lamp,舊灯
 9679,True Hairpin,TrueHairpin
 9680,Oath Ring・Gold,OathRing・Gold
 9681,Oath Ring・Silver,OathRing・Silver
@@ -9696,13 +9696,13 @@ index,source,target
 9694,Cuff Base G・Abslt,護腕BaseG・Abslt
 9695,Cuff Base G・Asst,護腕BaseG・Asst
 9696,C Pact Tkt,Ｃパクト票
-9697,Glittering Wings,Glittering翼s
+9697,Glittering Wings,煌めく的翼
 9698,Prima F Tkt,プリマＦ票
 9699,Prima D Tkt,プリマＤ票
 9700,Zuibei Ticket,ズィベイ票
 9701,Super Dash Extract,超DashExtract
 9702,Mellow Felvine,MellowFelvine
-9703,Cuff Base G・Trsr,護腕BaseG・Trsr
+9703,Cuff Base G・Trsr,護腕基底Ｇ・寶
 9704,Sound Crystal,音結晶
 9705,Artisans Testimony,ArtisansTestimony
 9706,Reddy Jewel,雷德德伊珠
@@ -9731,9 +9731,9 @@ index,source,target
 9729,Felyne Hair Gem,艾路猫的毛的寶玉
 9730,Tribrella Shroom,三傘菇
 9731,Burnt Branches,BurntBranches
-9732,Thorny Vine,ThornyVine
-9733,Pink Thorny Vine,PinkThornyVine
-9734,Golden Thorny Vine,金ThornyVine
+9732,Thorny Vine,荊棘藤
+9733,Pink Thorny Vine,粉荊棘藤
+9734,Golden Thorny Vine,黄金荊棘藤
 9735,Broken Glass,破損玻璃
 9736,Peach Glass Shards,PeachGlass碎片s
 9737,Star Leaf,星的葉
@@ -9769,7 +9769,7 @@ index,source,target
 9767,Star Cloud Stone,星雲石
 9768,Star Night Stone,星夜石
 9769,Drought Bloom,DroughtBloom
-9770,Quivering Bloom,QuiveringBloom
+9770,Quivering Bloom,顫花
 9771,Uzumaki Seashell,UzumakiSeashell
 9772,Clam Shell,貝殼
 9773,Sunspot Flower,日斑花
@@ -9789,11 +9789,11 @@ index,source,target
 9787,Tree Soul Stone,樹魂石
 9788,Kind Heart,慈心
 9789,Displaced Thread,DisplacedThread
-9790,Pink Weave,PinkWeave
+9790,Pink Weave,粉織
 9791,Elegant Mane,優雅的鬣毛
 9792,Fox Attack Stone,狐攻撃石
 9793,Resolvanite,Resolvanite
-9794,Clown's Secret,Clown'sSecret
+9794,Clown's Secret,道化Ｓ秘傳
 9795,Super Hard GGGX,超HardGGGX
 9796,Special Secret Tkt,特別秘傳票
 9797,Flash T. Tkt Head,閃軌跡頭票
@@ -9811,11 +9811,11 @@ index,source,target
 9809,Dummy 9809,(dummy)
 9810,Dummy 9810,(dummy)
 9811,Dummy 9811,(dummy)
-9812,Oyun Tkt Head,オユン頭票
-9813,Oyun Tkt Torso,オユン胴票
-9814,Oyun Tkt Arms,オユン腕票
-9815,Oyun Tkt Waist,オユン腰票
-9816,Oyun Tkt Legs,オユン脚票
+9812,Oyun Tkt Head,遊戲票的頭
+9813,Oyun Tkt Torso,遊戲票胴
+9814,Oyun Tkt Arms,遊戲票腕
+9815,Oyun Tkt Waist,遊戲票腰
+9816,Oyun Tkt Legs,遊戲票脚
 9817,Carriage Tkt Head,輸運頭票
 9818,Carriage Tkt Torso,輸運胴票
 9819,Carriage Tkt Arms,輸運腕票
@@ -9826,31 +9826,31 @@ index,source,target
 9824,Marble Tkt Arms,大理石票腕
 9825,Marble Tkt Waist,大理石票腰
 9826,Marble Tkt Legs,大理石票脚
-9827,Chande Tkt Head,シャンデ頭票
-9828,Chande Tkt Torso,シャンデ胴票
-9829,Chande Tkt Arms,シャンデ腕票
-9830,Chande Tkt Waist,シャンデ腰票
-9831,Chande Tkt Legs,シャンデ脚票
+9827,Chande Tkt Head,尚德票的頭
+9828,Chande Tkt Torso,尚德票胴
+9829,Chande Tkt Arms,尚德票腕
+9830,Chande Tkt Waist,尚德票腰
+9831,Chande Tkt Legs,尚德票脚
 9832,Banquet Tkt Head,宴會頭票
 9833,Banquet Tkt Torso,宴會胴票
 9834,Banquet Tkt Arms,宴會腕票
 9835,Banquet Tkt Waist,宴會腰票
 9836,Banquet Tkt Legs,宴會脚票
-9837,Veran Tkt Head,ヴェラン頭票
-9838,Veran Tkt Torso,ヴェラン胴票
-9839,Veran Tkt Arms,ヴェラン腕票
-9840,Veran Tkt Waist,ヴェラン腰票
-9841,Veran Tkt Legs,ヴェラン脚票
+9837,Veran Tkt Head,維朗票的頭
+9838,Veran Tkt Torso,維朗票胴
+9839,Veran Tkt Arms,維朗票腕
+9840,Veran Tkt Waist,維朗票腰
+9841,Veran Tkt Legs,維朗票脚
 9842,ランデグ生産券頭,ランデグ生産券頭
 9843,ランデグ生産券胴,ランデグ生産券胴
 9844,ランデグ生産券腕,ランデグ生産券腕
 9845,ランデグ生産券腰,ランデグ生産券腰
 9846,ランデグ生産券脚,ランデグ生産券脚
-9847,Endore Tkt Head,エンドア頭票
-9848,Endore Tkt Torso,エンドア胴票
-9849,Endore Tkt Arms,エンドア腕票
-9850,Endore Tkt Waist,エンドア腰票
-9851,Endore Tkt Legs,エンドア脚票
+9847,Endore Tkt Head,恩多雷票的頭
+9848,Endore Tkt Torso,恩多雷票胴
+9849,Endore Tkt Arms,恩多雷票腕
+9850,Endore Tkt Waist,恩多雷票腰
+9851,Endore Tkt Legs,恩多雷票脚
 9852,Dark Night Ore,暗夜礦石
 9853,Hypnoc BM G,眠鳥的BM G
 9854,Hypnoc BM GF,眠鳥的BM GF
@@ -9953,7 +9953,7 @@ index,source,target
 9951,Caravan Bloom Box,旅團花箱
 9952,Caravan Star Box,旅團星箱
 9953,Caravan Snow Box,旅團雪箱
-9954,Caravan Air Box,旅團AirBox
+9954,Caravan Air Box,旅團空箱
 9955,ギルド黒晶栄典,ギルド黒晶栄典
 9956,ギルド黒輝栄典,ギルド黒輝栄典
 9957,ギルド冥朱栄典,ギルド冥朱栄典
@@ -9985,9 +9985,9 @@ index,source,target
 9983,Kinioru GN GX3,金奧魯射手ＧＸ３
 9984,Kinioru GN GX4,金奧魯射手ＧＸ４
 9985,Kinioru GN GX5,金奧魯射手ＧＸ５
-9986,Neko Comfort G,NekoComfortG
-9987,Neko Comfort GF,NekoComfortGF
-9988,Neko Comfort GX,NekoComfortGX
+9986,Neko Comfort G,猫安寧Ｇ
+9987,Neko Comfort GF,猫安寧ＧＦ
+9988,Neko Comfort GX,猫安寧ＧＸ
 9989,Neko Blade G,猫的刃Ｇ
 9990,Neko Blade GF,猫的刃ＧＦ
 9991,Neko Blade GX,猫刃ＧＸ
@@ -10098,8 +10098,8 @@ index,source,target
 10096,Reinforcement PA3,強化再生ＰＡ３
 10097,Herbal Science PA3,藥草學ＰＡ３
 10098,Book of Kindness,BookofKindness
-10099,dummy10099,(dummy)１００９９
-10100,dummy10100,(dummy)１０１００
+10099,dummy10099,(dummy)
+10100,dummy10100,(dummy)
 10101,Kinpika Oval,KinpikaOval
 10102,Albino Extract,Albino精華
 10103,Burnt Iron Shards,燒焦鐵片
@@ -10130,65 +10130,65 @@ index,source,target
 10128,Dummy 10128,(dummy)
 10129,Dummy 10129,(dummy)
 10130,Dummy 10130,(dummy)
-10131,SnS Hiden EX?White,SnS皮nEX?White
-10132,SnS Hiden EX?Red,SnS皮nEX?Red
-10133,SnS Hiden EX?Black,SnS皮nEX?Black
-10134,SnS Hiden EX?Blue,SnS皮nEX?Blue
-10135,DS Hiden EX?White,DS皮nEX?White
-10136,DS Hiden EX?Red,DS皮nEX?Red
-10137,DS Hiden EX?Black,DS皮nEX?Black
-10138,DS Hiden EX?Blue,DS皮nEX?Blue
-10139,GS Hiden EX?White,GS皮nEX?White
-10140,GS Hiden EX?Red,GS皮nEX?Red
-10141,GS Hiden EX?Black,GS皮nEX?Black
-10142,GS Hiden EX?Blue,GS皮nEX?Blue
-10143,LS Hiden EX?White,LS皮nEX?White
-10144,LS Hiden EX?Red,LS皮nEX?Red
-10145,LS Hiden EX?Black,LS皮nEX?Black
-10146,LS Hiden EX?Blue,LS皮nEX?Blue
-10147,Lance Hiden EX?Wh,Lance皮nEX?Wh
-10148,Lance Hiden EX?Red,Lance皮nEX?Red
-10149,Lance Hiden EX?Blk,Lance皮nEX?Blk
-10150,Lance Hiden EX?Blu,Lance皮nEX?Blu
-10151,GL Hiden EX?White,GL皮nEX?White
-10152,GL Hiden EX?Red,GL皮nEX?Red
-10153,GL Hiden EX?Black,GL皮nEX?Black
-10154,GL Hiden EX?Blue,GL皮nEX?Blue
-10155,HM Hiden EX?Wh,HM皮nEX?Wh
-10156,HM Hiden EX?Red,HM皮nEX?Red
-10157,HM Hiden EX?Blk,HM皮nEX?Blk
-10158,HM Hiden EX?Blu,HM皮nEX?Blu
-10159,HH Hiden EX?White,HH皮nEX?White
-10160,HH Hiden EX?Red,HH皮nEX?Red
-10161,HH Hiden EX?Black,HH皮nEX?Black
-10162,HH Hiden EX?Blue,HH皮nEX?Blue
-10163,LBG Hiden EX?White,LBG皮nEX?White
-10164,LBG Hiden EX?Red,LBG皮nEX?Red
-10165,LBG Hiden EX?Black,LBG皮nEX?Black
-10166,LBG Hiden EX?Blue,LBG皮nEX?Blue
-10167,HBG Hiden EX?White,HBG皮nEX?White
-10168,HBG Hiden EX?Red,HBG皮nEX?Red
-10169,HBG Hiden EX?Black,HBG皮nEX?Black
-10170,HBG Hiden EX?Blue,HBG皮nEX?Blue
-10171,Bow Hiden EX?White,Bow皮nEX?White
-10172,Bow Hiden EX?Red,Bow皮nEX?Red
-10173,Bow Hiden EX?Black,Bow皮nEX?Black
-10174,Bow Hiden EX?Blue,Bow皮nEX?Blue
-10175,Tonfa Hiden EX?Wh,Tonfa皮nEX?Wh
-10176,Tonfa Hiden EX?Red,Tonfa皮nEX?Red
-10177,Tonfa Hiden EX?Blk,Tonfa皮nEX?Blk
-10178,Tonfa Hiden EX?Blu,Tonfa皮nEX?Blu
+10131,SnS Hiden EX?White,片手劍秘傳EX白
+10132,SnS Hiden EX?Red,片手劍秘傳EX赤
+10133,SnS Hiden EX?Black,片手劍秘傳EX黒
+10134,SnS Hiden EX?Blue,片手劍秘傳EX青
+10135,DS Hiden EX?White,雙劍秘傳EX白
+10136,DS Hiden EX?Red,雙劍秘傳EX赤
+10137,DS Hiden EX?Black,雙劍秘傳EX黒
+10138,DS Hiden EX?Blue,雙劍秘傳EX青
+10139,GS Hiden EX?White,大劍秘傳EX白
+10140,GS Hiden EX?Red,大劍秘傳EX赤
+10141,GS Hiden EX?Black,大劍秘傳EX黒
+10142,GS Hiden EX?Blue,大劍秘傳EX青
+10143,LS Hiden EX?White,太刀秘傳EX白
+10144,LS Hiden EX?Red,太刀秘傳EX赤
+10145,LS Hiden EX?Black,太刀秘傳EX黒
+10146,LS Hiden EX?Blue,太刀秘傳EX青
+10147,Lance Hiden EX?Wh,長槍秘傳EX白
+10148,Lance Hiden EX?Red,長槍秘傳EX赤
+10149,Lance Hiden EX?Blk,長槍秘傳EX黒
+10150,Lance Hiden EX?Blu,長槍秘傳EX青
+10151,GL Hiden EX?White,銃槍秘傳EX白
+10152,GL Hiden EX?Red,銃槍秘傳EX赤
+10153,GL Hiden EX?Black,銃槍秘傳EX黒
+10154,GL Hiden EX?Blue,銃槍秘傳EX青
+10155,HM Hiden EX?Wh,大錘秘傳EX白
+10156,HM Hiden EX?Red,大錘秘傳EX赤
+10157,HM Hiden EX?Blk,大錘秘傳EX黒
+10158,HM Hiden EX?Blu,大錘秘傳EX青
+10159,HH Hiden EX?White,狩獵笛秘傳EX白
+10160,HH Hiden EX?Red,狩獵笛秘傳EX赤
+10161,HH Hiden EX?Black,狩獵笛秘傳EX黒
+10162,HH Hiden EX?Blue,狩獵笛秘傳EX青
+10163,LBG Hiden EX?White,輕弩秘傳EX白
+10164,LBG Hiden EX?Red,輕弩秘傳EX赤
+10165,LBG Hiden EX?Black,輕弩秘傳EX黒
+10166,LBG Hiden EX?Blue,輕弩秘傳EX青
+10167,HBG Hiden EX?White,重弩秘傳EX白
+10168,HBG Hiden EX?Red,重弩秘傳EX赤
+10169,HBG Hiden EX?Black,重弩秘傳EX黒
+10170,HBG Hiden EX?Blue,重弩秘傳EX青
+10171,Bow Hiden EX?White,弓秘傳EX白
+10172,Bow Hiden EX?Red,弓秘傳EX赤
+10173,Bow Hiden EX?Black,弓秘傳EX黒
+10174,Bow Hiden EX?Blue,弓秘傳EX青
+10175,Tonfa Hiden EX?Wh,穿龍棍秘傳EX白
+10176,Tonfa Hiden EX?Red,穿龍棍秘傳EX赤
+10177,Tonfa Hiden EX?Blk,穿龍棍秘傳EX黒
+10178,Tonfa Hiden EX?Blu,穿龍棍秘傳EX青
 10179,Shiten Tkt,始天票
-10180,Shiten Key,ShitenKey
-10181,Shiten Lock,ShitenLock
-10182,Hunter Heart・Yellw,獵人Heart・Yellw
+10180,Shiten Key,四殿調
+10181,Shiten Lock,四殿鎖定
+10182,Hunter Heart・Yellw,獵人心黄
 10183,Hunter Heart・Red,獵人的心臟赤
 10184,Hunter Heart・Green,獵人的心臟緑
 10185,Hunter Heart・Blue,獵人的心臟青
-10186,Shiten Seal,ShitenSeal
-10187,Golden Pawstamp,金Pawstamp
-10188,Silver Pawstamp,銀Pawstamp
-10189,Bronze Pawstamp,BronzePawstamp
+10186,Shiten Seal,四殿封印
+10187,Golden Pawstamp,黄金肉球印
+10188,Silver Pawstamp,銀肉球印
+10189,Bronze Pawstamp,青銅肉球印
 10190,Red Neko Jewel,紅内科珠
 10191,Blue Neko Jewel,藍内科珠
 10192,Green Neko Jewel,綠内科珠
@@ -10356,11 +10356,11 @@ index,source,target
 10354,ロワファル生産券,ロワファル生産券
 10355,Blue Ruin Document,藍RuinDocument
 10356,Starry Night Book,StarryNightBook
-10357,Done Cat Tkt Head,ドーネ猫頭票
-10358,Done Cat Tkt Torso,ドーネ猫胴票
-10359,Done Cat Tkt Arms,ドーネ猫腕票
-10360,Done Cat Tkt Waist,ドーネ猫腰票
-10361,Done Cat Tkt Legs,ドーネ猫脚票
+10357,Done Cat Tkt Head,完成猫票的頭
+10358,Done Cat Tkt Torso,完成猫票胴
+10359,Done Cat Tkt Arms,完成猫票腕
+10360,Done Cat Tkt Waist,完成猫票腰
+10361,Done Cat Tkt Legs,完成猫票脚
 10362,Vigorous PC5,強健ＰＣ５
 10363,Compensation PA1,補正ＰＡ１
 10364,Blaze PA1,炎熱ＰＡ１
@@ -10580,7 +10580,7 @@ index,source,target
 10578,Poborubarumu Hide,創音龍的皮
 10579,Poborubarumu Fluid,創音龍的體液
 10580,Poborubarumu Marrow,創音龍的骨髓
-10581,Poborubarumu Ringer,創音龍的Ringer
+10581,Poborubarumu Ringer,創音龍鈴
 10582,Giant Clam Debris,巨大蛤殘骸
 10583,Poborubarumu Fang,創音龍的牙
 10584,Poboru. Webbing,創音龍的翼膜
@@ -10640,7 +10640,7 @@ index,source,target
 10638,Lunastra Pwr.Shl,炎妃龍的Pwr.Shl
 10639,Luna. Noble Wing,炎妃龍的翼
 10640,Lunastra Crown Mane,炎妃龍的冠的鬣毛
-10641,Phantom Drgn Trsr,PhantomDrgnTrsr
+10641,Phantom Drgn Trsr,龍幻影寶
 10642,Luna. Lovely Fang,炎妃龍的麗牙
 10643,Luna. Mystic Fang,炎妃龍的神秘牙
 10644,Lunastra Trsr Fang,炎妃龍的寶牙
@@ -10673,7 +10673,7 @@ index,source,target
 10671,Tower Steak,塔牛排
 10672,Twr WellDone Steak,塔熟肉
 10673,Tower Antidote,塔解毒藥
-10674,Deadly Poison Cure,DeadlyPoisonCure
+10674,Deadly Poison Cure,毒致死治
 10675,Tower Deoderant,塔消臭劑
 10676,Tower Immunizer,塔免疫藥
 10677,Tower Immunizer G,塔免疫藥Ｇ
@@ -10717,12 +10717,12 @@ index,source,target
 10715,T.Water Crystal,T.WaterCrystal
 10716,T.Thunder Crystal,T.ThunderCrystal
 10717,T.Ice Crystal,T.IceCrystal
-10718,T.Dragon Crystal,T.DragonCrystal
+10718,T.Dragon Crystal,祖龍結晶
 10719,Shimmering Stones,閃爍石
 10720,Clear Stone,清澈石
 10721,Fluffy Stones,蓬鬆石
-10722,Small Gears,SmallGears
-10723,Delicate Gold Tube,DelicateG舊Tube
+10722,Small Gears,小齒輪
+10723,Delicate Gold Tube,繊細金管
 10724,Pure Metal Ball,純金屬球
 10725,Scale Fossil,鱗的化石
 10726,Claw Fossil,爪的化石
@@ -10745,11 +10745,11 @@ index,source,target
 10743,Flower Neko Jwl,夫洛威艾爾内科珠
 10744,Peony Neko Jwl,佩歐恩伊内科珠
 10745,White G Neko Jwl,白格内科珠
-10746,Caravan Plum Box,旅團PlumBox
+10746,Caravan Plum Box,旅團梅箱
 10747,Caravan ChrysnthmBox,旅團ChrysnthmBox
 10748,Caravan Cherry Box,旅團CherryBox
 10749,Grief Seed,悲慟種子
-10750,Madoka Tkt,マドカ票
+10750,Madoka Tkt,圓票
 10751,Soul Gem,魂的寶玉
 10752,Faded Soul Gem,褪色魂的寶玉
 10753,FG2 Tkt 1,ＦＧ２票・１
@@ -10783,7 +10783,7 @@ index,source,target
 10781,Guild Crystal Crest,公會結晶紋章
 10782,Guild Abyss Crest,公會深淵紋章
 10783,Guild Cerise Crest,公會櫻紅紋章
-10784,Fresh Heavy Claw,新鮮重Claw
+10784,Fresh Heavy Claw,新鮮重的爪
 10785,Shantien Kit 1 Head,天翔龍套件１頭
 10786,Shantien Kit 1 Chest,天翔龍套件１胴
 10787,Shantien Kit 1 Arms,天翔龍套件１腕
@@ -10997,11 +10997,11 @@ index,source,target
 10995,Iron Arm PC12,鐵腕ＰＣ１２
 10996,Steady Hand PA1,穩定手ＰＡ１
 10997,Drug Knowledge PA4,藥品知識ＰＡ４
-10998,dummy10998,(dummy)１０９９８
+10998,dummy10998,(dummy)
 10999,Banded Cat Tkt,縞猫票
 11000,Ban Cat Tkt Head,宴會猫頭票
 11001,Ban Cat Tkt Torso,宴會猫胴票
-11002,Flower Dumpling,FlowerDumpling
+11002,Flower Dumpling,花団子
 11003,Sun Cat Tkt Head,太陽猫頭票
 11004,Copper Flower,銅花
 11005,Transparent Crystl,TransparentCrystl
@@ -11251,9 +11251,9 @@ index,source,target
 11249,Halk Ice Feed,鷹氷飼料
 11250,Motion・Bow 1,弓動作１
 11251,Motion・GL 1,銃槍動作１
-11252,Pallone Wve Velvet,PalloneWveVelvet
+11252,Pallone Wve Velvet,氣球波絲絨
 11253,Pallone Wve Calico,PalloneWveCalico
-11254,Pallone Wve Gold,PalloneWveGold
+11254,Pallone Wve Gold,氣球波金
 11255,Akantor Power Scl,霸龍的力量的鱗
 11256,Akantor Power Shl,霸龍的力量的殻
 11257,Akantor Myeloid,霸龍的Myeloid
@@ -11302,16 +11302,16 @@ index,source,target
 11300,FG3 Tkt 5,ＦＧ３票・５
 11301,Ruvuni Tkt,ルヴニ票
 11302,Diablos Tkt,角龍票
-11303,Viri Tkt,ヴィリ票
-11304,Viri B Tkt,ヴィリＢ票
-11305,Viri R Tkt,ヴィリＲ票
-11306,Viri L Tkt,ヴィリＬ票
+11303,Viri Tkt,毒票
+11304,Viri B Tkt,毒Ｂ票
+11305,Viri R Tkt,毒Ｒ票
+11306,Viri L Tkt,毒Ｌ票
 11307,Tupars Tkt,トゥパルス票
 11308,Zafia Tkt,ザフィア票
-11309,Oniche Tkt,オニチェ票
-11310,Oniche B Tkt,オニチェＢ票
-11311,Oniche R Tkt,オニチェＲ票
-11312,Oniche L Tkt,オニチェＬ票
+11309,Oniche Tkt,鬼票
+11310,Oniche B Tkt,鬼Ｂ票
+11311,Oniche R Tkt,鬼Ｒ票
+11312,Oniche L Tkt,鬼Ｌ票
 11313,Manaito Tkt,マナイト票
 11314,Supirune Tkt,スピルネ票
 11315,Abyssal Origin Gem,深淵根源的寶玉
@@ -11351,11 +11351,11 @@ index,source,target
 11349,Harudo H.Tailblade,司銀龍的尾刃
 11350,Harudo Control Core,HarudoControlCore
 11351,P.White Flower Petal,P.白FlowerPetal
-11352,Night Sky Yarn,NightSkyYarn
+11352,Night Sky Yarn,夜空糸
 11353,F. Pttrn Hachimaki,F.PttrnHachimaki
 11354,Sparkling Mtl Shard,SparklingMtl碎片
 11355,Frozen Metal Pieces,凍結金屬片
-11356,Argent Book,ArgentBook
+11356,Argent Book,銀書
 11357,Blood Stained Book,BloodStainedBook
 11358,Blackened Book,BlackenedBook
 11359,Treasured Flwr Bskt,Treasu紅FlwrBskt
@@ -11366,7 +11366,7 @@ index,source,target
 11364,Rotten Shock Water,腐敗麻痺水
 11365,Blaze Box,BlazeBox
 11366,Fague Steel,FagueSteel
-11367,Shiny Sucker,ShinySucker
+11367,Shiny Sucker,閃吸盤
 11368,Coast Soul Grass,岸魂草
 11369,Forest Soul Grass,森魂草
 11370,Lake Soul Grass,湖魂草
@@ -11383,9 +11383,9 @@ index,source,target
 11381,Power Ritual・Red,力量儀式赤
 11382,Power Ritual・Blue,力量儀式青
 11383,Power Ritual・Dark,力量儀式闇
-11384,Purity Ritual・Red,PurityRitual・Red
-11385,Purity Ritual・Blue,PurityRitual・Blue
-11386,Purity Ritual・Dark,PurityRitual・Dark
+11384,Purity Ritual・Red,純潔儀式赤
+11385,Purity Ritual・Blue,純潔儀式青
+11386,Purity Ritual・Dark,純潔儀式闇
 11387,"Cats Eye Gem ""Green""",猫眼寶玉緑
 11388,Assault Sand Iron,強襲沙鐵
 11389,Brilliant Red Cloth,Brilliant紅Cloth
@@ -11405,7 +11405,7 @@ index,source,target
 11403,Projection Cat Tkt,投影猫票
 11404,Promise Cat Tkt,約定猫票
 11405,Regu Cat Tkt,レグ猫票
-11406,Dirty Blue S. Fabric,Dirty藍S.布料
+11406,Dirty Blue S. Fabric,汚青Ｓ布
 11407,Distorted Knife,歪曲投擲刀
 11408,Sunset Blade,SunsetBlade
 11409,Night Blade,夜刃
@@ -11430,24 +11430,24 @@ index,source,target
 11428,Marine Tkt Arms,海洋腕票
 11429,Marine Tkt Waist,海洋腰票
 11430,Marine Tkt Legs,海洋脚票
-11431,Rufflet Tkt Head,ラフレット頭票
-11432,Rufflet Tkt Torso,ラフレット胴票
-11433,Rufflet Tkt Arms,ラフレット腕票
-11434,Rufflet Tkt Waist,ラフレット腰票
-11435,Rufflet Tkt Legs,ラフレット脚票
+11431,Rufflet Tkt Head,褶邊票的頭
+11432,Rufflet Tkt Torso,褶邊票胴
+11433,Rufflet Tkt Arms,褶邊票腕
+11434,Rufflet Tkt Waist,褶邊票腰
+11435,Rufflet Tkt Legs,褶邊票脚
 11436,Bronte Tkt,ブロンテ票
 11437,Solene Tkt,ソレーヌ票
 11438,Rapinu Ticket,ラピヌ票
 11439,Caravan Secret Box,旅團秘傳箱
-11440,Pallone Trsr,PalloneTrsr
+11440,Pallone Trsr,氣球寶
 11441,Faded Blue S. Fabric,褪色青Ｓ布
 11442,Tropio Tkt,トロピオ票
 11443,Sharp UP Sigil,紋章鋭強化
 11444,Skill UP Sigil,技能的強化紋章
 11445,Attack UP Sigil,攻撃力的強化紋章
-11446,Ele Status UP Sigil,EleStatusUPSigil
-11447,Crit Dist UP Sigil,CritDistUPSigil
-11448,Coating UP Sigil,CoatingUPSigil
+11446,Ele Status UP Sigil,紋章屬状態強化
+11447,Crit Dist UP Sigil,紋章會心距強化
+11448,Coating UP Sigil,紋章塗強化
 11449,Defense UP Sigil,防禦力的強化紋章
 11450,Damage Red Sigil,Damage紅Sigil
 11451,HP Regen Sigil,HPRegenSigil
@@ -11462,7 +11462,7 @@ index,source,target
 11460,Ebony Jewel,艾波恩伊珠
 11461,Gentiana Jewel,格恩特伊阿納珠
 11462,Heaven Book [BluPnk],HeavenBook[BluPnk]
-11463,Elegant Ancient Docs,Elegant古代Docs
+11463,Elegant Ancient Docs,優雅古代文書
 11464,Bleak Ancient Docs,BleakAncientDocs
 11465,Anc.HopeStone [Org],古代希望石［橙］
 11466,Anc.HopeStone [Blu],古代希望石［藍］
@@ -11521,18 +11521,18 @@ index,source,target
 11519,Green Plesi GN GX5,水龍緑射手ＧＸ５
 11520,Bright Hypnoc BM G,眠鳥的輝耀劍士Ｇ
 11521,Bright Hypnoc BM GF,眠鳥的輝耀劍士ＧＦ
-11522,B.Hypnoc BM GX1,B.HypnocBMGX1
-11523,B.Hypnoc BM GX2,B.HypnocBMGX2
-11524,B.Hypnoc BM GX3,B.HypnocBMGX3
-11525,B.Hypnoc BM GX4,B.HypnocBMGX4
-11526,B.Hypnoc BM GX5,B.HypnocBMGX5
+11522,B.Hypnoc BM GX1,黑眠鳥劍士ＧＸ１
+11523,B.Hypnoc BM GX2,黑眠鳥劍士ＧＸ２
+11524,B.Hypnoc BM GX3,黑眠鳥劍士ＧＸ３
+11525,B.Hypnoc BM GX4,黑眠鳥劍士ＧＸ４
+11526,B.Hypnoc BM GX5,黑眠鳥劍士ＧＸ５
 11527,Bright Hypnoc GN G,眠鳥的輝耀射手Ｇ
 11528,Bright Hypnoc GN GF,眠鳥的輝耀射手ＧＦ
-11529,B.Hypnoc GN GX1,B.HypnocGNGX1
-11530,B.Hypnoc GN GX2,B.HypnocGNGX2
-11531,B.Hypnoc GN GX3,B.HypnocGNGX3
-11532,B.Hypnoc GN GX4,B.HypnocGNGX4
-11533,B.Hypnoc GN GX5,B.HypnocGNGX5
+11529,B.Hypnoc GN GX1,黑眠鳥射手ＧＸ１
+11530,B.Hypnoc GN GX2,黑眠鳥射手ＧＸ２
+11531,B.Hypnoc GN GX3,黑眠鳥射手ＧＸ３
+11532,B.Hypnoc GN GX4,黑眠鳥射手ＧＸ４
+11533,B.Hypnoc GN GX5,黑眠鳥射手ＧＸ５
 11534,Nympha BM GX1,寧芙劍士ＧＸ１
 11535,Nympha BM GX2,寧芙劍士ＧＸ２
 11536,Nympha BM GX3,寧芙劍士ＧＸ３
@@ -11699,9 +11699,9 @@ index,source,target
 11697,Blazing Grace Gem Ⅱ,熾恩寵寶玉Ⅱ
 11698,NP G Finesse Mat,NPG鰭esseMat
 11699,Tower Cost Book,TowerCostBook
-11700,NP SnS Mat,NPSnSMat
-11701,B.Diablos Worn Shl,B.DiablosWornShl
-11702,B.Diablos Worn Fng,B.DiablosWornFng
+11700,NP SnS Mat,NP片手劍素材
+11701,B.Diablos Worn Shl,黑角龍旧的殻
+11702,B.Diablos Worn Fng,黑角龍旧的牙
 11703,Blk Twisted Horn,黑歪的角
 11704,Blk Twisted Bihorn,黑歪的雙角
 11705,Dashing Twisted Hrn,DashingTwistedHrn
@@ -11709,14 +11709,14 @@ index,source,target
 11707,W.Monoblos Grt Crpc,W.MonoblosGrtCrpc
 11708,Pure Grayhorn,PureGrayhorn
 11709,True Pure Grayhorn,TruePureGrayhorn
-11710,W.Monoblos Hard Fng,W.MonoblosHardFng
+11710,W.Monoblos Hard Fng,白一角龍硬的牙
 11711,W.Monoblos Hrd Shl,W.MonoblosHrdShl
 11712,W.Mono Savage Shl,W.MonoSavageShl
 11713,Preparation Tkt,準備票
 11714,Abyssal True Blood,深淵真的血
 11715,Yama Kurai Hide,浮峰龍的皮
 11716,Yama Kurai Fur,浮峰龍的毛
-11717,Dirty Golden Tooth,Dirty金Tooth
+11717,Dirty Golden Tooth,汚黄金齒
 11718,Yama Kurai Acid,浮峰龍酸液
 11719,Dragon Vine,龍藤
 11720,Mystery Seed,謎之種子
@@ -11768,8 +11768,8 @@ index,source,target
 11766,Rock Mushroom,岩菇
 11767,Giant Stag Beetle,巨大鍬形蟲
 11768,Boxed Catfish,盒裝鯰魚
-11769,Neko Jewel Plum,Neko寶石Plum
-11770,Neko Jewel Apricot,Neko寶石Apricot
+11769,Neko Jewel Plum,猫寶玉梅
+11770,Neko Jewel Apricot,猫寶玉杏
 11771,Neko Jewel Violet,猫珠菫
 11772,Neko Jewel Willow,猫珠柳
 11773,Neko Jewel Pomegrnt,Neko寶石Pomegrnt
@@ -12026,14 +12026,14 @@ index,source,target
 12024,Latesia Tkt,ラテシア票
 12025,Artes Tkt,アルテス票
 12026,Polemika Tkt,ポレミカ票
-12027,S Dist Tkt,ディストＳ票
+12027,S Dist Tkt,Ｓ距票
 12028,S Troll Tkt,トロールＳ票
 12029,S Est Tkt,エストＳ票
 12030,S Mira Tkt,ミラＳ票
 12031,S Domino Tkt,ドミノＳ票
 12032,Pral Tkt,プラル票
 12033,Larufi Tkt,ラルフィ票
-12034,F Dist Tkt,ディストＦ票
+12034,F Dist Tkt,F距票
 12035,F Troll Tkt,トロールＦ票
 12036,F Est Tkt,エストＦ票
 12037,F Mira Tkt,ミラＦ票
@@ -12045,7 +12045,7 @@ index,source,target
 12043,T.Para Coating,塔麻痺瓶
 12044,T.Sleep Coating,塔睡眠瓶
 12045,Grave Claw,墓的爪
-12046,Solemn Purple Cloth,Solemn紫Cloth
+12046,Solemn Purple Cloth,厳粛紫布
 12047,Soft White Hair,軟白的毛
 12048,Large Black Cusps,Large黑Cusps
 12049,Surging Blk Carapace,奔流黒的堅殼
@@ -12054,10 +12054,10 @@ index,source,target
 12052,Chipped Metal Piece,ChippedMetalPiece
 12053,Palm Sized Screw,PalmSizedScrew
 12054,Muddy Ball,MuddyBall
-12055,Thorny Seashell,ThornySeashell
+12055,Thorny Seashell,荊棘貝殼
 12056,Puncture Seashell,PunctureSeashell
-12057,Fragrant Fishing Line,FragrantFishingLine
-12058,Fragrant Fish Net,FragrantFishNet
+12057,Fragrant Fishing Line,芳釣行
+12058,Fragrant Fish Net,芳魚網
 12059,Frgrnt Metal Fitting,FrgrntMetalFitting
 12060,Crab Cat Tkt Head,蟹猫頭票
 12061,Pen Cat Tkt Head,筆猫票的頭
@@ -12103,7 +12103,7 @@ index,source,target
 12101,M. Answer Tkt 5B,Ｍ・回答票・５Ｂ
 12102,M. Answer Tkt 6A,Ｍ・回答票・６Ａ
 12103,M. Answer Tkt 6B,Ｍ・回答票・６Ｂ
-12104,Cross Pendant,CrossPendant
+12104,Cross Pendant,十字墜飾
 12105,Fancy Mirror,華鏡
 12106,Beautiful Mirror,美鏡
 12107,Rusty Mirror,生錆鏡
@@ -12111,20 +12111,20 @@ index,source,target
 12109,Red Stone Pieces,紅石片
 12110,誰かの食べ残し,誰かの食べ残し
 12111,Modish Cup,ModishCup
-12112,Mystery White Bill,Mystery白Bill
-12113,Mystery Red Bill,Mystery紅Bill
-12114,Mystery Yellw Bill,MysteryYellwBill
+12112,Mystery White Bill,謎白嘴
+12113,Mystery Red Bill,謎赤嘴
+12114,Mystery Yellw Bill,謎黄嘴
 12115,Mystery Purpl Bill,MysteryPurplBill
-12116,Mystery Blue Bill,Mystery藍Bill
+12116,Mystery Blue Bill,謎青嘴
 12117,Dirty Crest,汚的冠
 12118,Cute Crest,可愛的冠
 12119,Beautiful Crest,美的冠
-12120,Gorgeous Crest,GorgeousCrest
+12120,Gorgeous Crest,紋章華麗
 12121,Creepy Crest,詭異的冠
 12122,New Bookmark,新書籤
 12123,Old Bookmark,舊書籤
 12124,Broken Bookmark,破損書籤
-12125,Dirty Bookmark,DirtyBookmark
+12125,Dirty Bookmark,汚書籤
 12126,Cloth Bookmark,布書籤
 12127,Leather Bookmark,皮革書籤
 12128,Embroidered Bookmark,Embroide紅Bookmark
@@ -12307,8 +12307,8 @@ index,source,target
 12305,True Power Gem,真力量的寶玉
 12306,Divine Power Gem,神力量的寶玉
 12307,O. Espi Toxic Spike,棘茶龍的毒的棘
-12308,O. Espi Absolute Scl,O.EspiAbsoluteScl
-12309,O. Espi Absolute Shl,O.EspiAbsoluteShl
+12308,O. Espi Absolute Scl,棘茶龍的絶対的鱗
+12309,O. Espi Absolute Shl,棘茶龍的絶対的殻
 12310,O. Espi Blade Spike,棘茶龍的刃的棘
 12311,O. Espi Brown Shl,棘茶龍的褐的殻
 12312,Torid Shl,照雷鳥的殻
@@ -12337,17 +12337,17 @@ index,source,target
 12335,Locket of Joy,LocketofJoy
 12336,Locket of Sorrow,LocketofSorrow
 12337,Locket of Anger,LocketofAnger
-12338,Locket of Healing,LocketofHealing
+12338,Locket of Healing,墜飾治療
 12339,Star Sand,星砂
 12340,Moon Sand,月砂
 12341,Earth Sand,地砂
 12342,Seaside Sand,SeasideSand
 12343,Fossil Sand,化石砂
 12344,Noble Feather Pen,貴族羽筆
-12345,Fancy Quill Pen,FancyQuillPen
-12346,Old Quill Pen,舊QuillPen
-12347,Big Quill Pen,BigQuillPen
-12348,Small Quill Pen,SmallQuillPen
+12345,Fancy Quill Pen,華羽筆
+12346,Old Quill Pen,舊羽筆
+12347,Big Quill Pen,大羽筆
+12348,Small Quill Pen,小羽筆
 12349,Christmas Wreath,ChristmasWreath
 12350,Eastern Decoration,EasternDecoration
 12351,Sweet Ribbon,甜飾帶
@@ -12415,15 +12415,15 @@ index,source,target
 12413,Brach Lash,碎龍的靭尾
 12414,Brach Pounder+,BrachPounder＋
 12415,Brach Pallium,碎龍的天殻
-12416,Riko No. Tkt,リコノ票
-12417,Riko De. Tkt,リコデ票
+12416,Riko No. Tkt,理子票
+12417,Riko De. Tkt,理子票
 12418,Riko To. Tkt,理子票
 12419,Riko Ku. Tkt,理子空票
 12420,Riko Shi. Tkt,リコシ票
 12421,Riko Tou. Tkt,リコトウ票
 12422,Riko Gala. Tkt,リコガラ票
-12423,Gio No. Tkt,ジオノ票
-12424,Gio De. Tkt,ジオデ票
+12423,Gio No. Tkt,喬票
+12424,Gio De. Tkt,喬票
 12425,Gio To. Tkt,喬票
 12426,Gio Ku. Tkt,喬空票
 12427,Gio Shi. Tkt,ジオシ票
@@ -12505,16 +12505,16 @@ index,source,target
 12503,Elegant Blue Cloth,優雅青布
 12504,Agerta Ore,阿傑爾塔礦石
 12505,Kaila Ticket,カイラ票
-12506,Dawn Docs,DawnDocs
+12506,Dawn Docs,暁文書
 12507,RedSnow Ancient Docs,RedSnowAncientDocs
 12508,Grudg. Ancient Docs,Grudg.AncientDocs
 12509,Veitch Ticket,ヴィーチ票
 12510,White Beak,白的喙
 12511,Sakura Night Book,櫻夜書
 12512,Guild Symbol,公會Symbol
-12513,Shiusu Coin,ShiusuCoin
+12513,Shiusu Coin,四隅硬幣
 12514,Shiusu Mining Coin,ShiusuMiningCoin
-12515,Shiusu Insect Coin,ShiusuInsectCoin
+12515,Shiusu Insect Coin,四隅蟲硬幣
 12516,ShiusuGatheringCoin,ShiusuGatheringCoin
 12517,採集のコイン４Ｇ,採集のコイン４Ｇ
 12518,採集のコイン５Ｇ,採集のコイン５Ｇ
@@ -12524,11 +12524,11 @@ index,source,target
 12522,EVA Tkt Ⅱ,ＥＶＡ票Ⅱ
 12523,Pen Cat Tkt,筆猫票
 12524,ギルスカ生産券,ギルスカ生産券
-12525,Amista Tkt Head,アミスタ頭票
-12526,Amista Tkt Torso,アミスタ胴票
-12527,Amista Tkt Arms,アミスタ腕票
-12528,Amista Tkt Waist,アミスタ腰票
-12529,Amista Tkt Legs,アミスタ脚票
+12525,Amista Tkt Head,阿米斯塔票的頭
+12526,Amista Tkt Torso,阿米斯塔票胴
+12527,Amista Tkt Arms,阿米斯塔票腕
+12528,Amista Tkt Waist,阿米斯塔票腰
+12529,Amista Tkt Legs,阿米斯塔票脚
 12530,Lightning BM G,雷劍士Ｇ
 12531,Lightning BM GF,雷劍士ＧＦ
 12532,Lightning BM GX1,雷劍士ＧＸ１
@@ -12769,7 +12769,7 @@ index,source,target
 12767,No.2 Vote Material,No.2VoteMaterial
 12768,No.3 Vote Material,No.3VoteMaterial
 12769,Amineko Tkt,アミ猫票
-12770,Thorny Flower,ThornyFlower
+12770,Thorny Flower,荊棘花
 12771,Smooth Flower,光滑花
 12772,Twilight Ore,黄昏礦石
 12773,Evening Ore,黄昏礦石
@@ -12807,7 +12807,7 @@ index,source,target
 12805,Gesture・GL Ⅱ,銃槍的姿勢Ⅱ
 12806,Gesture・GS Ⅱ,大劍的姿勢Ⅱ
 12807,Gesture・Tonfa Ⅱ,姿勢穿刺棍Ⅱ
-12808,Odi Absolute Shl,OdiAbsoluteShl
+12808,Odi Absolute Shl,奧迪絶対的殻
 12809,Odi Absolute Scale,弩岩龍的絶對鱗
 12810,Odi Mandible,OdiMandible
 12811,Odi Hardspike,弩岩龍的堅棘
@@ -12824,7 +12824,7 @@ index,source,target
 12822,B.Kut-Ku Ancnt Shl,B.Kut-KuAncntShl
 12823,Daming Beak,威嚇的喙
 12824,B.Kut-Ku Devil Ear,B.Kut-KuDevilEar
-12825,Blue Kut-Ku Ringer,藍Kut-KuRinger
+12825,Blue Kut-Ku Ringer,怪鳥青空鈴
 12826,Toa Ice Scale,砦蟹的氷的鱗
 12827,Toa Shl,砦蟹的殻
 12828,Toa Fur,炎狐龍的毛
@@ -12880,14 +12880,14 @@ index,source,target
 12878,Freeze Deco,FreezeDeco
 12879,Sharp Focus G,鋭集中Ｇ
 12880,Gathering G,採取Ｇ
-12881,Guildmaster Head,GuildmasterHead
+12881,Guildmaster Head,公會長的頭
 12882,千歳神楽生産券,千歳神楽生産券
 12883,玉響神楽生産券,玉響神楽生産券
 12884,ギルドスター,ギルドスター
-12885,Guildmaster Chest,GuildmasterChest
-12886,Guildmaster Arms,GuildmasterArms
-12887,Guildmaster Waist,GuildmasterWaist
-12888,Guildmaster Legs,GuildmasterLegs
+12885,Guildmaster Chest,公會長胴
+12886,Guildmaster Arms,公會長腕
+12887,Guildmaster Waist,公會長腰
+12888,Guildmaster Legs,公會長脚
 12889,Special Hunting Tkt,特別狩猟票
 12890,Dummy 12890,(dummy)
 12891,Dummy 12891,(dummy)
@@ -13021,7 +13021,7 @@ index,source,target
 13019,Ranze R Tkt,蘭澤Ｒ票
 13020,Dummy 13020,(dummy)
 13021,Ranze L Tkt,蘭澤Ｌ票
-13022,Perif Tkt Head,ペリフ頭票
+13022,Perif Tkt Head,周辺票的頭
 13023,Kaiji Tkt,カイジ票
 13024,Dummy 13024,(dummy)
 13025,Dummy 13025,(dummy)
@@ -13071,8 +13071,8 @@ index,source,target
 13069,Pool Soul Grass,池魂草
 13070,Rain Soul Grass,雨魂草
 13071,Smoldering Flame,SmolderingFlame
-13072,Blue Candle,藍Candle
-13073,Red Candle,紅Candle
+13072,Blue Candle,青燭
+13073,Red Candle,赤燭
 13074,Great Flame,偉大炎
 13075,Starbreaker Jewel,斯塔爾布雷阿凱爾珠
 13076,Fiery Gunpowder,熾烈火藥
@@ -13191,18 +13191,18 @@ index,source,target
 13189,Dummy 13189,(dummy)
 13190,Guild Point Tkt,公会点票
 13191,テリュオ生産券,テリュオ生産券
-13192,Perif Tkt Torso,ペリフ胴票
-13193,Perif Tkt Arms,ペリフ腕票
-13194,Perif Tkt Waist,ペリフ腰票
-13195,Perif Tkt Legs,ペリフ脚票
-13196,SAF Hiden? White,SAF皮n?White
-13197,SAF Hiden? Red,SAF皮n?Red
-13198,SAF Hiden? Black,SAF皮n?Black
-13199,SAF Hiden? Blue,SAF皮n?Blue
-13200,SAF Hiden EX? White,SAF皮nEX?White
-13201,SAF Hiden EX? Red,SAF皮nEX?Red
-13202,SAF Hiden EX? Black,SAF皮nEX?Black
-13203,SAF Hiden EX? Blue,SAF皮nEX?Blue
+13192,Perif Tkt Torso,周辺票胴
+13193,Perif Tkt Arms,周辺票腕
+13194,Perif Tkt Waist,周辺票腰
+13195,Perif Tkt Legs,周辺票脚
+13196,SAF Hiden? White,劍槍秘傳白
+13197,SAF Hiden? Red,劍槍秘傳赤
+13198,SAF Hiden? Black,劍槍秘傳黒
+13199,SAF Hiden? Blue,劍槍秘傳青
+13200,SAF Hiden EX? White,劍槍秘傳EX白
+13201,SAF Hiden EX? Red,劍槍秘傳EX赤
+13202,SAF Hiden EX? Black,劍槍秘傳EX黒
+13203,SAF Hiden EX? Blue,劍槍秘傳EX青
 13204,Conqueror BM G,征服者劍士Ｇ
 13205,Conqueror BM GF,征服者劍士ＧＦ
 13206,Conqueror BM GX1,征服者劍士ＧＸ１
@@ -13310,8 +13310,8 @@ index,source,target
 13308,Norukku GN GX5,諾魯克射手ＧＸ５
 13309,Lavish Attack SA1,豪撃ＳＡ１
 13310,Fortification SA1,強化ＳＡ１
-13311,G Attack・Draw,GAttack・Draw
-13312,G Issen・Draw,GIssen・Draw
+13311,G Attack・Draw,Ｇ攻撃抽
+13312,G Issen・Draw,Ｇ一閃抽
 13313,G Attack・Herb,Ｇ攻撃草
 13314,G Issen・Herb,Ｇ一閃草
 13315,G Protect・Status,Ｇ守状態
@@ -13319,12 +13319,12 @@ index,source,target
 13317,G Attack・Dissolve,GAttack・Dissolve
 13318,G Attack・Blaze,GAttack・Blaze
 13319,Attack 4 Deco,攻撃力的４裝飾品
-13320,G Attack・Resist,GAttack・Resist
-13321,G Issen・Resist,GIssen・Resist
+13320,G Attack・Resist,Ｇ攻撃抵抗
+13321,G Issen・Resist,Ｇ一閃抵抗
 13322,Spec.Flower Basket,Spec.FlowerBasket
 13323,Golden Book,黄金書
 13324,Shining Fur,閃亮的毛
-13325,Solemn Thorns,SolemnThorns
+13325,Solemn Thorns,厳粛的棘
 13326,Waka Ticket,ワカ票
 13327,S Flare Tkt Ⅰ,Ｓ閃光票Ⅰ
 13328,S Flare Tkt Ⅱ,Ｓ閃光票Ⅱ
@@ -13338,13 +13338,13 @@ index,source,target
 13336,Ruko.Pureshard,Ruko.Pureshard
 13337,Ruko.Purecortex,Ruko.Purecortex
 13338,Ruko.Dynamo Horn,極龍的動力的角
-13339,Ruko.Magnetic Wve,Ruko.MagneticWve
+13339,Ruko.Magnetic Wve,極龍磁気波
 13340,Ruko.Shocklash,Ruko.Shocklash
 13341,Dark Spectrum Gem,闇光譜的寶玉
 13342,Rukodiora R.Spine,極龍的R.Spine
 13343,Rukodiora Red Claw,極龍的爪
 13344,Rukodiora Red Horn,極龍的角
-13345,Ruko Red Membrane,Ruko紅Membrane
+13345,Ruko Red Membrane,嵐龍赤膜
 13346,Voljang Shell,紅蓮獅子的甲殼
 13347,Voljang Fang,紅蓮獅子的牙
 13348,Voljang Heat Hide,紅蓮獅子的耐暑的皮
@@ -13374,10 +13374,10 @@ index,source,target
 13372,Dummy 13372,(dummy)
 13373,Dummy 13373,(dummy)
 13374,Dummy 13374,(dummy)
-13375,S.Zinogre Shl,獄狼龍的Shl
-13376,S.Zinogre Drgn Fur,獄狼龍的Drgn Fur
+13375,S.Zinogre Shl,雷狼的殻
+13376,S.Zinogre Drgn Fur,龍雷狼毛皮
 13377,S.Zinogre Claw,獄狼龍的爪
-13378,S.Zinogre Drgn Shl,獄狼龍的Drgn Shl
+13378,S.Zinogre Drgn Shl,龍的雷狼的殻
 13379,Dracophage Bug,噬龍蟲
 13380,S.ZinogreUmbrge,S.ZinogreUmbrge
 13381,S.Zinogre Tail,獄狼龍的尾
@@ -13635,62 +13635,62 @@ index,source,target
 13633,NK3 Tkt 4,ＮＫ３票・４
 13634,NK3 Tkt 5,ＮＫ３票・５
 13635,NK3 Tkt 6,ＮＫ３票・６
-13636,NP SAF Mat,NPSAFMat
+13636,NP SAF Mat,NP劍槍素材
 13637,祈律石,祈律石
 13638,祈唱石,祈唱石
 13639,祈吟石,祈吟石
-13640,SnS True? White,SnSTrue?White
-13641,SnS True? Red,SnSTrue?Red
-13642,SnS True? Black,SnSTrue?Black
-13643,SnS True? Blue,SnSTrue?Blue
-13644,DS True? White,DSTrue?White
-13645,DS True? Red,DSTrue?Red
-13646,DS True? Black,DSTrue?Black
-13647,DS True? Blue,DSTrue?Blue
-13648,GS True? White,GSTrue?White
-13649,GS True? Red,GSTrue?Red
-13650,GS True? Black,GSTrue?Black
-13651,GS True? Blue,GSTrue?Blue
-13652,LS True? White,LSTrue?White
-13653,LS True? Red,LSTrue?Red
-13654,LS True? Black,LSTrue?Black
-13655,LS True? Blue,LSTrue?Blue
-13656,Hammer True? White,HammerTrue?White
-13657,Hammer True? Red,HammerTrue?Red
-13658,Hammer True? Black,HammerTrue?Black
-13659,Hammer True? Blue,HammerTrue?Blue
-13660,HH True? White,HHTrue?White
-13661,HH True? Red,HHTrue?Red
-13662,HH True? Black,HHTrue?Black
-13663,HH True? Blue,HHTrue?Blue
-13664,Lance True? White,LanceTrue?White
-13665,Lance True? Red,LanceTrue?Red
-13666,Lance True? Black,LanceTrue?Black
-13667,Lance True? Blue,LanceTrue?Blue
-13668,GL True? White,GLTrue?White
-13669,GL True? Red,GLTrue?Red
-13670,GL True? Black,GLTrue?Black
-13671,GL True? Blue,GLTrue?Blue
-13672,SAF True? White,SAFTrue?White
-13673,SAF True? Red,SAFTrue?Red
-13674,SAF True? Black,SAFTrue?Black
-13675,SAF True? Blue,SAFTrue?Blue
-13676,Tonfa True? White,TonfaTrue?White
-13677,Tonfa True? Red,TonfaTrue?Red
-13678,Tonfa True? Black,TonfaTrue?Black
-13679,Tonfa True? Blue,TonfaTrue?Blue
-13680,HBG True? White,HBGTrue?White
-13681,HBG True? Red,HBGTrue?Red
-13682,HBG True? Black,HBGTrue?Black
-13683,HBG True? Blue,HBGTrue?Blue
-13684,LBG True? White,LBGTrue?White
-13685,LBG True? Red,LBGTrue?Red
-13686,LBG True? Black,LBGTrue?Black
-13687,LBG True? Blue,LBGTrue?Blue
-13688,Bow True? White,BowTrue?White
-13689,Bow True? Red,BowTrue?Red
-13690,Bow True? Black,BowTrue?Black
-13691,Bow True? Blue,BowTrue?Blue
+13640,SnS True? White,片手劍真白
+13641,SnS True? Red,片手劍真赤
+13642,SnS True? Black,片手劍真黒
+13643,SnS True? Blue,片手劍真青
+13644,DS True? White,雙劍真白
+13645,DS True? Red,雙劍真赤
+13646,DS True? Black,雙劍真黒
+13647,DS True? Blue,雙劍真青
+13648,GS True? White,大劍真白
+13649,GS True? Red,大劍真赤
+13650,GS True? Black,大劍真黒
+13651,GS True? Blue,大劍真青
+13652,LS True? White,太刀真白
+13653,LS True? Red,太刀真赤
+13654,LS True? Black,太刀真黒
+13655,LS True? Blue,太刀真青
+13656,Hammer True? White,大錘真白
+13657,Hammer True? Red,大錘真赤
+13658,Hammer True? Black,大錘真黒
+13659,Hammer True? Blue,大錘真青
+13660,HH True? White,狩獵笛真白
+13661,HH True? Red,狩獵笛真赤
+13662,HH True? Black,狩獵笛真黒
+13663,HH True? Blue,狩獵笛真青
+13664,Lance True? White,長槍真白
+13665,Lance True? Red,長槍真赤
+13666,Lance True? Black,長槍真黒
+13667,Lance True? Blue,長槍真青
+13668,GL True? White,銃槍真白
+13669,GL True? Red,銃槍真赤
+13670,GL True? Black,銃槍真黒
+13671,GL True? Blue,銃槍真青
+13672,SAF True? White,劍槍真白
+13673,SAF True? Red,劍槍真赤
+13674,SAF True? Black,劍槍真黒
+13675,SAF True? Blue,劍槍真青
+13676,Tonfa True? White,穿龍棍真白
+13677,Tonfa True? Red,穿龍棍真赤
+13678,Tonfa True? Black,穿龍棍真黒
+13679,Tonfa True? Blue,穿龍棍真青
+13680,HBG True? White,重弩真白
+13681,HBG True? Red,重弩真赤
+13682,HBG True? Black,重弩真黒
+13683,HBG True? Blue,重弩真青
+13684,LBG True? White,輕弩真白
+13685,LBG True? Red,輕弩真赤
+13686,LBG True? Black,輕弩真黒
+13687,LBG True? Blue,輕弩真青
+13688,Bow True? White,弓真白
+13689,Bow True? Red,弓真赤
+13690,Bow True? Black,弓真黒
+13691,Bow True? Blue,弓真青
 13692,Taiko Olive,TaikoOlive
 13693,Gutsy Meat,膽大肉
 13694,Daimyo Huge Shl,大名盾蟹的巨大的殻
@@ -13710,7 +13710,7 @@ index,source,target
 13708,Hypnoc Saliva,眠鳥的Saliva
 13709,Hypnoc Comb,眠鳥的Comb
 13710,Hypnoc Dark Bezoar,眠鳥的闇的胃石
-13711,Hypnoc Ringer,眠鳥的Ringer
+13711,Hypnoc Ringer,眠鳥鈴
 13712,Hypnoc Tail Plume,眠鳥的尾
 13713,Hypnoc Gold Plume,眠鳥金羽飾
 13714,Hypnoc Z Beak,眠鳥的ｚ的喙
@@ -13726,25 +13726,25 @@ index,source,target
 13724,Espinas Wing Claw,棘龍的翼
 13725,Espinas Heavy Wing,棘龍的重翼
 13726,Espi Psn Gland,EspiPsnGland
-13727,Espinas Para Gland,棘龍的Para Gland
+13727,Espinas Para Gland,棘龍麻痺腺
 13728,Espinas Psn Marrow,棘龍的骨髓
 13729,Espinas Psn Tail,棘龍的尾
 13730,Espinas Z Horn,棘龍的角
 13731,Espinas Z Mid Horn,棘龍的角
-13732,Espinas Z High Hrn,棘龍的Z High Hrn
+13732,Espinas Z High Hrn,棘龍的Ｚ上位的角
 13733,Espinas Z Top Horn,棘龍的角
-13734,Khezu Fresh Hide,奇怪龍的Fresh Hide
+13734,Khezu Fresh Hide,奇怪龍的新鮮的皮
 13735,Khezu Spleen,奇怪龍的Spleen
 13736,Khezu InsulatingFilm,奇怪龍的InsulatingFilm
 13737,Khezu Antenna Fur,奇怪龍的毛
 13738,Khezu SoftPearlSkn,奇怪龍的SoftPearlSkn
 13739,Khezu Pearl,奇怪龍珍珠
 13740,Khezu Soft Wing,奇怪龍的翼
-13741,Khezu Sup Soft Wng,奇怪龍的Sup Soft Wng
+13741,Khezu Sup Soft Wng,奇怪龍的上軟的翼
 13742,Khezu Stomach,奇怪龍的Stomach
 13743,Khezu Huge Stomach,奇怪龍的Huge Stomach
-13744,Khezu Sucker,奇怪龍的Sucker
-13745,Khezu Mega Sucker,奇怪龍的Mega Sucker
+13744,Khezu Sucker,奇怪龍吸盤
+13745,Khezu Mega Sucker,奇怪龍巨大吸盤
 13746,Khezu Z Head,奇怪龍的ｚ的頭
 13747,Khezu Z Mid Head,奇怪龍的ｚ中位的頭
 13748,Khezu Z High Head,奇怪龍的ｚ高級的頭
@@ -13780,7 +13780,7 @@ index,source,target
 13778,Los Z High Wing,火龍的Ｚ高級的翼
 13779,Los Z Fellwing,LosZFellwing
 13780,Beautiful B. Cloth,美Ｂ布
-13781,Torn Scales,Torn鱗s
+13781,Torn Scales,裂的鱗
 13782,Dummy 13782,(dummy)
 13783,マヴロヴ生産券,マヴロヴ生産券
 13784,ロゾヴィ生産券,ロゾヴィ生産券
@@ -13885,7 +13885,7 @@ index,source,target
 13883,Thunder Clad Up SZ,雷的纏強化ＳＺ
 13884,Ice Age Up SZ,冰齡強化ＳＺ
 13885,Vampirism Up SZ,吸血強化ＳＺ
-13886,Drug Knowledge Up SZ,DrugKnowledgeUpSZ
+13886,Drug Knowledge Up SZ,藥知識強化ＳＺ
 13887,Assistance Up SZ,支援強化ＳＺ
 13888,Earplugs Up SZ,耳塞的強化ＳＺ
 13889,Wind Res Up SZ,風圧耐性強化ＳＺ
@@ -13932,7 +13932,7 @@ index,source,target
 13930,Blangonga Z High Arm,雪獅子王的Ｚ高級腕
 13931,Blangonga Z Top Arm,雪獅子王的Ｚ頂級腕
 13932,Solid Giant Bone,堅固巨大骨
-13933,Unique Blk Scales,UniqueBlk鱗s
+13933,Unique Blk Scales,獨特黒的鱗
 13934,Sirena Ore,席蕾娜礦石
 13935,Mutant Shell,突變的甲殼
 13936,Destin Tkt,デスタン票
@@ -13981,7 +13981,7 @@ index,source,target
 13979,Fish Soul Stone,魚魂石
 13980,祭典の刻印,祭典の刻印
 13981,Rending Iron,撕裂鐵
-13982,"New Years Gift ""Bird""","NewYearsGift""Bird"""
+13982,"New Years Gift ""Bird""",新年贈禮鳥
 13983,Sweet Passion,甜情熱
 13984,Kizuna Ore,羈絆礦石
 13985,ギルド双獅紋章,ギルド双獅紋章
@@ -13992,18 +13992,18 @@ index,source,target
 13990,Evasion Boost SA1,迴避強化ＳＡ１
 13991,Dummy 13991,(dummy)
 13992,Dummy 13992,(dummy)
-13993,Demonclad BM GX1,DemoncladBMGX1
-13994,Demonclad BM GX2,DemoncladBMGX2
-13995,Demonclad BM GX3,DemoncladBMGX3
-13996,Demonclad BM GX4,DemoncladBMGX4
-13997,Demonclad BM GX5,DemoncladBMGX5
+13993,Demonclad BM GX1,鬼装劍士ＧＸ１
+13994,Demonclad BM GX2,鬼装劍士ＧＸ２
+13995,Demonclad BM GX3,鬼装劍士ＧＸ３
+13996,Demonclad BM GX4,鬼装劍士ＧＸ４
+13997,Demonclad BM GX5,鬼装劍士ＧＸ５
 13998,Dummy 13998,(dummy)
 13999,Dummy 13999,(dummy)
-14000,Dojiclad GN GX1,DojicladGNGX1
-14001,Dojiclad GN GX2,DojicladGNGX2
-14002,Dojiclad GN GX3,DojicladGNGX3
-14003,Dojiclad GN GX4,DojicladGNGX4
-14004,Dojiclad GN GX5,DojicladGNGX5
+14000,Dojiclad GN GX1,道着射手ＧＸ１
+14001,Dojiclad GN GX2,道着射手ＧＸ２
+14002,Dojiclad GN GX3,道着射手ＧＸ３
+14003,Dojiclad GN GX4,道着射手ＧＸ４
+14004,Dojiclad GN GX5,道着射手ＧＸ５
 14005,Sakufi D Tkt,サクフィＤ票
 14006,Asumo D Tkt,アスモＤ票
 14007,Dios D Tkt,ディオスＤ票
@@ -14018,7 +14018,7 @@ index,source,target
 14016,Rance D Tkt,ランセＤ票
 14017,Ganeto D Tkt,ガネトＤ票
 14018,Chiru D Tkt,チールＤ票
-14019,Shiusu D Tkt,シウスＤ票
+14019,Shiusu D Tkt,四隅Ｄ票
 14020,Uruki D Tkt,猫頭猿的Ｄ票
 14021,Wans D Tkt,ワンスＤ票
 14022,Pale Sakura D Tkt,薄桜Ｄ票
@@ -14047,7 +14047,7 @@ index,source,target
 14045,Deadly Paralysis Sac,麻痺的致死的袋
 14046,Vashimu Lrg Crystal,尾晶蠍的大結晶
 14047,Vashimu Hard Jaw,尾晶蠍的顎
-14048,Vashimu Strong Jaw,VashimuStrongJaw
+14048,Vashimu Strong Jaw,尾晶蠍強顎
 14049,Vashimu Hard Claw,尾晶蠍的爪
 14050,Vashimu Shred Claw,尾晶蠍的撕裂的爪
 14051,Vashimu Z Tail,尾晶蠍的尾
@@ -14073,7 +14073,7 @@ index,source,target
 14071,Katana Soul,KatanaSoul
 14072,Tigrex Hard Scale,轟龍的鱗
 14073,Tigrex Hard Hide,轟龍的皮
-14074,Tigrex Hunger Fang,轟龍的Hunger Fang
+14074,Tigrex Hunger Fang,轟龍的飢餓的牙
 14075,Tigrex Rage Blood,轟龍的血
 14076,Tigrex Rage Sac,轟龍的袋
 14077,Tigrex Amber Gem,轟龍的琥珀的寶玉
@@ -14100,7 +14100,7 @@ index,source,target
 14098,Deep Mortar,深臼
 14099,Ergonomic Pestle,ErgonomicPestle
 14100,Sticky Mochi,StickyMochi
-14101,Hot Cookies,HotCookies
+14101,Hot Cookies,熱餅乾
 14102,Moist Cookies,MoistCookies
 14103,Dummy 14105,(dummy)
 14104,Kinosu D Tkt,キノスＤ票
@@ -14183,7 +14183,7 @@ index,source,target
 14181,FG6 Tkt 3,ＦＧ６票・３
 14182,FG6 Tkt 4,ＦＧ６票・４
 14183,FG6 Tkt 5,ＦＧ６票・５
-14184,Furu B Tkt,フルＢ票
+14184,Furu B Tkt,振Ｂ票
 14185,フルＢ亜生産券,フルＢ亜生産券
 14186,フルＢ辿生産券,フルＢ辿生産券
 14187,Cielo C Tkt,シエロＣ票
@@ -14345,11 +14345,11 @@ index,source,target
 14343,Issen Gem Ⅰ,一閃寶玉Ⅰ
 14344,Issen Gem Ⅱ,一閃寶玉Ⅱ
 14345,Issen Gem Ⅲ,一閃寶玉Ⅲ
-14346,Courrier Notes Ⅰ,CourrierNotesⅠ
-14347,Courrier Notes Ⅱ,CourrierNotesⅡ
-14348,Courrier Notes Ⅲ,CourrierNotesⅢ
-14349,Courrier Notes Ⅳ,CourrierNotesⅣ
-14350,Courrier Notes Ⅴ,CourrierNotesⅤ
+14346,Courrier Notes Ⅰ,信使音符Ⅰ
+14347,Courrier Notes Ⅱ,信使音符Ⅱ
+14348,Courrier Notes Ⅲ,信使音符Ⅲ
+14349,Courrier Notes Ⅳ,信使音符Ⅳ
+14350,Courrier Notes Ⅴ,信使音符Ⅴ
 14351,支給品の一部,支給品の一部
 14352,Insect Soul Stone,昆蟲魂石
 14353,Golden Wings Tkt,金翼票
@@ -14395,7 +14395,7 @@ index,source,target
 14393,W. Fatalis Pale Horn,白黒龍的蒼白角
 14394,W. Fata Rd Thndr Hrn,W.FataRdThndrHrn
 14395,W Fata Flshng Rd Eye,WFataFlshngRdEye
-14396,W. Fata Pale Wng Clw,W.FataPaleWngClw
+14396,W. Fata Pale Wng Clw,白黒龍蒼翼的爪
 14397,W. Fata Cracked Wing,白黒龍的亀裂翼
 14398,W. Fata Wht Shell,祖龍的白殼
 14399,W. Fata Glwng Rd Shl,W.FataGlwngRdShl
@@ -14527,8 +14527,8 @@ index,source,target
 14525,Plesioth Tail Spike,水龍的棘
 14526,Plesi Shrp Tail Spk,水龍的斬位的尾棘
 14527,Ruko Magnet Scale,嵐龍的磁鐵的鱗
-14528,Rukodiora Rigid Shll,極龍的Rigid Shll
-14529,Ruko Shrp Magnet Clw,RukoShrpMagnetClw
+14528,Rukodiora Rigid Shll,極龍的剛硬的殻
+14529,Ruko Shrp Magnet Clw,嵐龍的斬位磁鐵的爪
 14530,Rukodiora Heavy Bone,極龍的重骨
 14531,Rukodiora Null Blood,極龍的血
 14532,Rukodiora Magnet Gem,極龍的磁鐵的寶玉
@@ -14540,7 +14540,7 @@ index,source,target
 14538,HL Hiden Tkt,ＨＬ秘傳票
 14539,Ruko Z Wing,極龍的翼
 14540,Ruko Z Mid Wing,嵐龍的Ｚ中級的翼
-14541,Ruko Z High Wng,RukoZHighWng
+14541,Ruko Z High Wng,嵐龍的Ｚ上位的翼
 14542,Ruko Z Top Wing,嵐龍的Ｚ頂級的翼
 14543,Magic Soul Stone,魔法魂石
 14544,Season Soul Stone,季節魂石
@@ -14622,7 +14622,7 @@ index,source,target
 14620,Thunder Clad Up Sigil,雷的纏強化紋章
 14621,Ice Age Up Sigil,冰齡強化紋章
 14622,Vampirism Up Sigil,紋章的吸血強化
-14623,Drug Knowledge Up Sigil,DrugKnowledgeUpSigil
+14623,Drug Knowledge Up Sigil,紋章藥知識強化
 14624,Assistance Up Sigil,紋章支援強化
 14625,Hearing P. Up Sigil,紋章聴覚粉強化
 14626,Wind Res Up Sigil,紋章的風圧耐性強化
@@ -14679,7 +14679,7 @@ index,source,target
 14677,Loose D Tkt,ルーズＤ票
 14678,Mirado D Tkt,ミラドＤ票
 14679,Deyuru D Tkt,デユルＤ票
-14680,Robust D Tkt,ロバストＤ票
+14680,Robust D Tkt,強健Ｄ票
 14681,Falco D Tkt,ファルコＤ票
 14682,Howx D Tkt,ハウクスＤ票
 14683,Pirata D Tkt,ピラタＤ票
@@ -14704,7 +14704,7 @@ index,source,target
 14702,Falcon Soul Stone,隼魂石
 14703,Wet Soul Stone,濕魂石
 14704,UBW Production D,UBWProductionD
-14705,Madoka Production D,MadokaProductionD
+14705,Madoka Production D,圓生産Ｄ
 14706,Ani 2013 Production D,Ani2013ProductionD
 14707,Ani 2014 Production D,Ani2014ProductionD
 14708,Kaila D Tkt,カイラＤ票
@@ -14728,7 +14728,7 @@ index,source,target
 14726,Inagami Tenacious Hide,雅翁龍的皮
 14727,Inagami Tenacious Scale,雅翁龍的鱗
 14728,Inagami Tenacious Bone,雅翁龍的骨
-14729,Inagami Tenacious Hair,雅翁龍的Tenacious Hair
+14729,Inagami Tenacious Hair,雅翁龍的頑強的毛
 14730,Inagami Bamboo Shell,雅翁龍的甲殼
 14731,Inagami Shoot Marrow,雅翁龍的骨髓
 14732,Inagami Hardfang,雅翁龍的堅牙
@@ -14783,9 +14783,9 @@ index,source,target
 14781,Rizuvue GN G,里茲維射手Ｇ
 14782,Rizuvue GN GF,里茲維射手ＧＦ
 14783,Artisan 2 G,匠２Ｇ
-14784,G Break・Blade,GBreak・Blade
-14785,G Break・Gunner,GBreak・Gunner
-14786,G Break・Protect,GBreak・Protect
+14784,G Break・Blade,Ｇ破刃
+14785,G Break・Gunner,Ｇ破射手
+14786,G Break・Protect,Ｇ破守
 14787,G Attack・Style,Ｇ攻撃流
 14788,G Attack・Sword,Ｇ攻撃劍
 14789,G Attack・Clad,Ｇ攻撃纏
@@ -14799,7 +14799,7 @@ index,source,target
 14797,IM Sorrow Tkt,ＩＭ哀惜票
 14798,Storm FU Tkt,ストームＦＵ票
 14799,UBW Lottery Tkt,ＵＢＷ抽選票
-14800,Madoka Lottery Tkt,マドカ抽選票
+14800,Madoka Lottery Tkt,圓抽選票
 14801,Abnormality SA1,異常状態ＳＡ１
 14802,Obscurity Up SZ,幽闇強化ＳＺ
 14803,Adrenaline Charm,興奮護符
@@ -14857,10 +14857,10 @@ index,source,target
 14855,Alfi Ticket,アルフィ票
 14856,DoublCherryTreSeed,雙櫻樹種子
 14857,桜吹雪の巻物,桜吹雪の巻物
-14858,Absolute Armor Sphere,AbsoluteArmorSphere
+14858,Absolute Armor Sphere,防具絶対球
 14859,Torid Lovely Shell,照雷鳥的甲殼
 14860,Torid Lovely Fur,照雷鳥的毛
-14861,Torid Lovely Wng Clw,ToridLovelyWngClw
+14861,Torid Lovely Wng Clw,照雷鳥的可愛翼的爪
 14862,Torid Lovely Marrow,照雷鳥的可愛的骨髓
 14863,Torid Bright Roots,ToridBrightRoots
 14864,Torid Shining Gem,照雷鳥的輝耀的寶玉
@@ -14880,7 +14880,7 @@ index,source,target
 14878,Dora Erosion Marrow,冥雷龍的Erosion Marrow
 14879,Dora Z Horn,冥雷龍的角
 14880,Dora Z Mid Horn,冥雷龍的角
-14881,Dora Z High Hrn,冥雷龍的Z High Hrn
+14881,Dora Z High Hrn,多拉Ｚ上位的角
 14882,Dora Z Top Horn,冥雷龍的角
 14883,Dora Grief Wing,冥雷龍的翼
 14884,Dora Erosion Wing,冥雷龍的翼
@@ -14903,10 +14903,10 @@ index,source,target
 14901,Proof of Passion,證明情熱
 14902,Proof of Love,證明愛
 14903,絢爛四季手箱・春,絢爛四季手箱・春
-14904,Fate AP Ⅰ Tkt,フェイトＡＰⅠ票
-14905,Fate AP Ⅱ Tkt,フェイトＡＰⅡ票
-14906,Fate AP Ⅰ Tkt D,フェイトＡＰⅠＤ票
-14907,Fate AP Ⅱ Tkt D,フェイトＡＰⅡＤ票
+14904,Fate AP Ⅰ Tkt,宿命APⅠ票
+14905,Fate AP Ⅱ Tkt,宿命APⅡ票
+14906,Fate AP Ⅰ Tkt D,宿命APⅠ票Ｄ
+14907,Fate AP Ⅱ Tkt D,宿命APⅡ票Ｄ
 14908,Saint Cat Tkt,聖猫票
 14909,Glittering Tkt,煌めき票
 14910,Fantasy GS Tkt,幻想大剣票
@@ -14940,7 +14940,7 @@ index,source,target
 14938,Bonne GN GX5,博恩射手ＧＸ５
 14939,G Abnorm・Vamp,GAbnorm・Vamp
 14940,G Abnorm・Clad,Ｇ異常纏
-14941,G Abnorm・Draw,GAbnorm・Draw
+14941,G Abnorm・Draw,Ｇ異常抽
 14942,G Abnorm・Boost,GAbnorm・Boost
 14943,G Abnorm・Obscure,GAbnorm・Obscure
 14944,Abnormal Jewel,異常珠
@@ -14955,10 +14955,10 @@ index,source,target
 14953,Anoru Woe Fang,暴鋸龍的牙
 14954,Anoru Silver Gem,氷狐龍的銀的寶玉
 14955,Anoru Disaster Marrow,氷狐龍的災厄的骨髓
-14956,Anoru Z Sawhorn,AnoruZSawhorn
-14957,Anoru Z Mid Sawhorn,AnoruZMidSawhorn
-14958,Anoru Z High Sawhorn,AnoruZHighSawhorn
-14959,Anoru Z Top Sawhorn,AnoruZTopSawhorn
+14956,Anoru Z Sawhorn,氷狐龍Ｚ鋸角
+14957,Anoru Z Mid Sawhorn,氷狐龍Ｚ中位鋸角
+14958,Anoru Z High Sawhorn,氷狐龍Ｚ上位鋸角
+14959,Anoru Z Top Sawhorn,氷狐龍Ｚ頂鋸角
 14960,Anoru Misery Tail,暴鋸龍的尾
 14961,Anoru Gruesome Tail,氷狐龍的慘烈的尾
 14962,Anoru Large Back Fin,氷狐龍的大背的鰭
@@ -14968,7 +14968,7 @@ index,source,target
 14966,Anoru Woe Blood,暴鋸龍的血
 14967,Gasura Dried Hide,怒貌龍的皮
 14968,Gasura Dried Scale,怒貌龍的鱗
-14969,Gasura Poison Gland,GasuraPoisonGland
+14969,Gasura Poison Gland,鎧竜毒腺
 14970,Gasurabazura Bone,怒貌龍的骨
 14971,Gasura Venom Sac,鎧竜的猛毒的袋
 14972,Gasura Fever Blood,GasuraFever血
@@ -15013,9 +15013,9 @@ index,source,target
 15011,Heaven Wedge Stone,天楔石
 15012,100 Days Bamboo,100DaysBamboo
 15013,"1,000 Days Bamboo","1,000DaysBamboo"
-15014,Jagged SP Red Tkt,ジャギドＳＰ赤票
-15015,Jagged SP Blk Tkt,ジャギドＳＰ黒票
-15016,Jagged SP Yllw Tkt,ジャギドＳＰ黄票
+15014,Jagged SP Red Tkt,鋸齒ＳＰ赤票
+15015,Jagged SP Blk Tkt,鋸齒ＳＰ黒票
+15016,Jagged SP Yllw Tkt,鋸齒ＳＰ黄票
 15017,ガブラスSP白功券,ガブラスSP白功券
 15018,ガブラスSP黄功券,ガブラスSP黄功券
 15019,ガブラスSP黒功券,ガブラスSP黒功券
@@ -15089,7 +15089,7 @@ index,source,target
 15087,Cassius GN GX3,可西烏斯射手ＧＸ３
 15088,Cassius GN GX4,可西烏斯射手ＧＸ４
 15089,Cassius GN GX5,可西烏斯射手ＧＸ５
-15090,G Spacing・Draw,GSpacing・Draw
+15090,G Spacing・Draw,Ｇ間隔抽
 15091,G Spacing・Vamp,GSpacing・Vamp
 15092,G Spacing・Mount,騎乘Ｇ間隔
 15093,G Spacing・Gentle,Ｇ間隔柔
@@ -15139,9 +15139,9 @@ index,source,target
 15137,Rango SP Yellow Tkt,ランゴＳＰ黄票
 15138,Rango SP Black Tkt,ランゴＳＰ黒票
 15139,Rango SP Blue Tkt,ランゴＳＰ青票
-15140,Death S. SP White Tkt,デススタＳＰ白票
-15141,Death S. SP Red Tkt,デススタＳＰ赤票
-15142,Death S. SP Blue Tkt,デススタＳＰ青票
+15140,Death S. SP White Tkt,死ＳＳＰ白票
+15141,Death S. SP Red Tkt,死ＳＳＰ赤票
+15142,Death S. SP Blue Tkt,死ＳＳＰ青票
 15143,Diablo SP Purple Tkt,ディアブロＳＰ紫票
 15144,Diablo SP Blue Tkt,ディアブロＳＰ青票
 15145,Diablo SP Yellow Tkt,ディアブロＳＰ黄票
@@ -15154,7 +15154,7 @@ index,source,target
 15152,Gravi SP Black Tkt,鎧龍ＳＰ黒票
 15153,Gravi SP Blue Tkt,鎧龍ＳＰ青票
 15154,Gravi SP Red Tkt,鎧龍ＳＰ赤票
-15155,Cure D Tkt,キュアＤ票
+15155,Cure D Tkt,治Ｄ票
 15156,Jyaga D Tkt,ジャガＤ票
 15157,100 Year Old Items,100Year舊Items
 15158,Firefly Soul Rock,螢火蟲魂岩
@@ -15216,8 +15216,8 @@ index,source,target
 15214,Gesture・Dance Ⅳ,姿勢舞Ⅳ
 15215,Gesture・Dance Ⅴ,姿勢舞Ⅴ
 15216,Gesture・Thanks,Gesture・Thanks
-15217,Shaka Poison Lump,ShakaPoisonLump
-15218,Shaka Venom Lump,ShakaVenomLump
+15217,Shaka Poison Lump,毒沙加團
+15218,Shaka Venom Lump,沙加猛毒團
 15219,Portane,Portane
 15220,Fins Tkt,フィンズ票
 15221,Fins D Tkt,フィンズＤ票
@@ -15413,9 +15413,9 @@ index,source,target
 15411,MonoblosSP YllwTkt,モノブロスＳＰ黄票
 15412,MonoblosSP GrnTkt,モノブロスＳＰ緑票
 15413,MonoblosSP WhtTkt,モノブロスＳＰ白票
-15414,Furu SP Blk Tkt,フルＳＰ黒票
-15415,Furu SP Grn Tkt,フルＳＰ緑票
-15416,Furu SP Blu Tkt,フルＳＰ青票
+15414,Furu SP Blk Tkt,振ＳＰ黒票
+15415,Furu SP Grn Tkt,振ＳＰ緑票
+15416,Furu SP Blu Tkt,振ＳＰ青票
 15417,Ganos SP Blk Tkt,ガノスＳＰ黒票
 15418,Ganos SP Yllw Tkt,ガノスＳＰ黄票
 15419,Ganos SP Pur Tkt,ガノスＳＰ紫票
@@ -15478,10 +15478,10 @@ index,source,target
 15476,Baru Mottled Skin,BaruMottledSkin
 15477,Baru Indigo Scale,噬血龍的鱗
 15478,Baru Mixed Blood,Baru混合ed血
-15479,Baru Crimson Gland,BaruCrimsonGland
+15479,Baru Crimson Gland,噬血龍深紅腺
 15480,Baru Special Blood Sac,噬血龍的特殊血袋
 15481,Baru Grasping Tongue,BaruGraspingTongue
-15482,Baru Fine Tentacle,Baru鰭eTentacle
+15482,Baru Fine Tentacle,噬血龍精触手
 15483,Baru Exquisite Tentacle,BaruExquisiteTentacle
 15484,Baru Crimson Fin,噬血龍的緋鰭
 15485,Baru Vermillion Fin,噬血龍的朱紅鰭
@@ -15541,18 +15541,18 @@ index,source,target
 15539,G Attack・Abnorm,Ｇ攻撃異常
 15540,G Attack・Suprem,GAttack・Suprem
 15541,G Attack・Ranged,GAttack・Ranged
-15542,MS Hiden? White,MS皮n?White
-15543,MS Hiden? Red,MS皮n?Red
-15544,MS Hiden? Black,MS皮n?Black
-15545,MS Hiden? Blue,MS皮n?Blue
-15546,MS True? White,MSTrue?White
-15547,MS True? Red,MSTrue?Red
-15548,MS True? Black,MSTrue?Black
-15549,MS True? Blue,MSTrue?Blue
-15550,MS Hiden EX? White,MS皮nEX?White
-15551,MS Hiden EX? Red,MS皮nEX?Red
-15552,MS Hiden EX? Black,MS皮nEX?Black
-15553,MS Hiden EX? Blue,MS皮nEX?Blue
+15542,MS Hiden? White,磁界銃秘傳白
+15543,MS Hiden? Red,磁界銃秘傳赤
+15544,MS Hiden? Black,磁界銃秘傳黒
+15545,MS Hiden? Blue,磁界銃秘傳青
+15546,MS True? White,磁界銃真白
+15547,MS True? Red,磁界銃真赤
+15548,MS True? Black,磁界銃真黒
+15549,MS True? Blue,磁界銃真青
+15550,MS Hiden EX? White,磁界銃秘傳EX白
+15551,MS Hiden EX? Red,磁界銃秘傳EX赤
+15552,MS Hiden EX? Black,磁界銃秘傳EX黒
+15553,MS Hiden EX? Blue,磁界銃秘傳EX青
 15554,G Rolling・Curtain,GRolling・Curtain
 15555,G Strong・Technique,GStrong・Technique
 15556,G Obscurity・Clad,Ｇ幽闇纏
@@ -15560,21 +15560,21 @@ index,source,target
 15558,Black Stone,黑石
 15559,Black Lava,黒熔岩
 15560,Wings of Goodness,WingsofGoodness
-15561,Wings of Passion,WingsofPassion
+15561,Wings of Passion,翼情熱
 15562,Highlands Diary・1,HighlandsDiary・1
 15563,Highlands Diary・2,HighlandsDiary・2
 15564,Highlands Report,HighlandsReport
 15565,Furious SA1 SA1,憤激ＳＡ１
 15566,Rush Up SZ,突進強化ＳＺ
-15567,Skill Slots Up PZ1,技能SlotsUpPZ1
-15568,Skill Slots Up PZ2,技能SlotsUpPZ2
-15569,Skill Slots Up PZ3,技能SlotsUpPZ3
-15570,Skill Slots Up PZ4,技能SlotsUpPZ4
-15571,Skill Slots Up PZ5,技能SlotsUpPZ5
-15572,Skill Slots Up PZ6,技能SlotsUpPZ6
-15573,Skill Slots Up PZ7,技能SlotsUpPZ7
-15574,Skill Slots Up PZ8,技能SlotsUpPZ8
-15575,Skill Slots Up PZ9,技能SlotsUpPZ9
+15567,Skill Slots Up PZ1,技能孔強化PZ1
+15568,Skill Slots Up PZ2,技能孔強化PZ2
+15569,Skill Slots Up PZ3,技能孔強化PZ3
+15570,Skill Slots Up PZ4,技能孔強化PZ4
+15571,Skill Slots Up PZ5,技能孔強化PZ5
+15572,Skill Slots Up PZ6,技能孔強化PZ6
+15573,Skill Slots Up PZ7,技能孔強化PZ7
+15574,Skill Slots Up PZ8,技能孔強化PZ8
+15575,Skill Slots Up PZ9,技能孔強化PZ9
 15576,Skill Slots Up PZ10,技能SlotsUpPZ10
 15577,Skill Slots Up PZ11,技能SlotsUpPZ11
 15578,Skill Slots Up PZ12,技能SlotsUpPZ12
@@ -15621,151 +15621,151 @@ index,source,target
 15619,Skill Slots Up PZ53,技能SlotsUpPZ53
 15620,Skill Slots Up PZ54,技能SlotsUpPZ54
 15621,Skill Slots Up PZ55,技能SlotsUpPZ55
-15622,Crit Conv Up PZ1,CritConvUpPZ1
-15623,Crit Conv Up PZ2,CritConvUpPZ2
-15624,Crit Conv Up PZ3,CritConvUpPZ3
-15625,Crit Conv Up PZ4,CritConvUpPZ4
-15626,Crit Conv Up PZ5,CritConvUpPZ5
-15627,Crit Conv Up PZ6,CritConvUpPZ6
-15628,Crit Conv Up PZ7,CritConvUpPZ7
-15629,Thunder Clad Up PZ1,ThunderCladUpPZ1
-15630,Thunder Clad Up PZ2,ThunderCladUpPZ2
-15631,Thunder Clad Up PZ3,ThunderCladUpPZ3
-15632,Thunder Clad Up PZ4,ThunderCladUpPZ4
-15633,Thunder Clad Up PZ5,ThunderCladUpPZ5
-15634,Thunder Clad Up PZ6,ThunderCladUpPZ6
-15635,Thunder Clad Up PZ7,ThunderCladUpPZ7
-15636,S. Assault Up PZ1,S.AssaultUpPZ1
-15637,S. Assault Up PZ2,S.AssaultUpPZ2
-15638,S. Assault Up PZ3,S.AssaultUpPZ3
-15639,S. Assault Up PZ4,S.AssaultUpPZ4
-15640,S. Assault Up PZ5,S.AssaultUpPZ5
-15641,S. Assault Up PZ6,S.AssaultUpPZ6
-15642,Vampirism Up PZ1,VampirismUpPZ1
-15643,Vampirism Up PZ2,VampirismUpPZ2
-15644,Vampirism Up PZ3,VampirismUpPZ3
-15645,Vampirism Up PZ4,VampirismUpPZ4
-15646,Vampirism Up PZ5,VampirismUpPZ5
-15647,Vampirism Up PZ6,VampirismUpPZ6
-15648,Dissolver Up PZ1,DissolverUpPZ1
-15649,Dissolver Up PZ2,DissolverUpPZ2
-15650,Dissolver Up PZ3,DissolverUpPZ3
-15651,Dissolver Up PZ4,DissolverUpPZ4
-15652,Dissolver Up PZ5,DissolverUpPZ5
-15653,Dissolver Up PZ6,DissolverUpPZ6
-15654,Ice Age Up PZ1,IceAgeUpPZ1
-15655,Ice Age Up PZ2,IceAgeUpPZ2
-15656,Ice Age Up PZ3,IceAgeUpPZ3
-15657,Ice Age Up PZ4,IceAgeUpPZ4
-15658,Ice Age Up PZ5,IceAgeUpPZ5
-15659,Ice Age Up PZ6,IceAgeUpPZ6
-15660,Drug K. Up PZ1,DrugK.UpPZ1
-15661,Drug K. Up PZ2,DrugK.UpPZ2
-15662,Drug K. Up PZ3,DrugK.UpPZ3
-15663,Drug K. Up PZ4,DrugK.UpPZ4
-15664,Drug K. Up PZ5,DrugK.UpPZ5
-15665,Drug K. Up PZ6,DrugK.UpPZ6
-15666,Assistance Up PZ1,AssistanceUpPZ1
-15667,Assistance Up PZ2,AssistanceUpPZ2
-15668,Assistance Up PZ3,AssistanceUpPZ3
-15669,Assistance Up PZ4,AssistanceUpPZ4
-15670,Assistance Up PZ5,AssistanceUpPZ5
-15671,Assistance Up PZ6,AssistanceUpPZ6
-15672,Rush Up PZ1,RushUpPZ1
-15673,Rush Up PZ2,RushUpPZ2
-15674,Rush Up PZ3,RushUpPZ3
-15675,Rush Up PZ4,RushUpPZ4
-15676,Rush Up PZ5,RushUpPZ5
-15677,Rush Up PZ6,RushUpPZ6
-15678,Rush Up PZ7,RushUpPZ7
-15679,Adaptation Up PZ1,AdaptationUpPZ1
-15680,Adaptation Up PZ2,AdaptationUpPZ2
-15681,Adaptation Up PZ3,AdaptationUpPZ3
-15682,Adaptation Up PZ4,AdaptationUpPZ4
-15683,Adaptation Up PZ5,AdaptationUpPZ5
-15684,Adaptation Up PZ6,AdaptationUpPZ6
-15685,Encourage Up PZ1,EncourageUpPZ1
-15686,Encourage Up PZ2,EncourageUpPZ2
-15687,Encourage Up PZ3,EncourageUpPZ3
-15688,Encourage Up PZ4,EncourageUpPZ4
-15689,Encourage Up PZ5,EncourageUpPZ5
-15690,Encourage Up PZ6,EncourageUpPZ6
-15691,Reflect Up PZ1,ReflectUpPZ1
-15692,Reflect Up PZ2,ReflectUpPZ2
-15693,Reflect Up PZ3,ReflectUpPZ3
-15694,Reflect Up PZ4,ReflectUpPZ4
-15695,Reflect Up PZ5,ReflectUpPZ5
-15696,Reflect Up PZ6,ReflectUpPZ6
-15697,Stylish Up PZ1,StylishUpPZ1
-15698,Stylish Up PZ2,StylishUpPZ2
-15699,Stylish Up PZ3,StylishUpPZ3
-15700,Stylish Up PZ4,StylishUpPZ4
-15701,Stylish Up PZ5,StylishUpPZ5
-15702,Stylish Up PZ6,StylishUpPZ6
-15703,Vigorous Up PZ1,VigorousUpPZ1
-15704,Vigorous Up PZ2,VigorousUpPZ2
-15705,Vigorous Up PZ3,VigorousUpPZ3
-15706,Vigorous Up PZ4,VigorousUpPZ4
-15707,Vigorous Up PZ5,VigorousUpPZ5
-15708,Vigorous Up PZ6,VigorousUpPZ6
-15709,Obscurity Up PZ1,ObscurityUpPZ1
-15710,Obscurity Up PZ2,ObscurityUpPZ2
-15711,Obscurity Up PZ3,ObscurityUpPZ3
-15712,Obscurity Up PZ4,ObscurityUpPZ4
-15713,Obscurity Up PZ5,ObscurityUpPZ5
-15714,Obscurity Up PZ6,ObscurityUpPZ6
-15715,Soul Up PZ1,SoulUpPZ1
-15716,Soul Up PZ2,SoulUpPZ2
-15717,Soul Up PZ3,SoulUpPZ3
-15718,Soul Up PZ4,SoulUpPZ4
-15719,Soul Up PZ5,SoulUpPZ5
-15720,Soul Up PZ6,SoulUpPZ6
-15721,Soul Up PZ7,SoulUpPZ7
-15722,Earplugs Up PZ1,EarplugsUpPZ1
-15723,Earplugs Up PZ2,EarplugsUpPZ2
-15724,Earplugs Up PZ3,EarplugsUpPZ3
-15725,Earplugs Up PZ4,EarplugsUpPZ4
-15726,Earplugs Up PZ5,EarplugsUpPZ5
-15727,Wind Res Up PZ1,WindResUpPZ1
-15728,Wind Res Up PZ2,WindResUpPZ2
-15729,Wind Res Up PZ3,WindResUpPZ3
-15730,Wind Res Up PZ4,WindResUpPZ4
-15731,Wind Res Up PZ5,WindResUpPZ5
-15732,Quake Res Up PZ1,QuakeResUpPZ1
-15733,Quake Res Up PZ2,QuakeResUpPZ2
-15734,Quake Res Up PZ3,QuakeResUpPZ3
-15735,Quake Res Up PZ4,QuakeResUpPZ4
-15736,Quake Res Up PZ5,QuakeResUpPZ5
-15737,Poison Res Up PZ1,PoisonResUpPZ1
-15738,Poison Res Up PZ2,PoisonResUpPZ2
-15739,Poison Res Up PZ3,PoisonResUpPZ3
-15740,Poison Res Up PZ4,PoisonResUpPZ4
-15741,Poison Res Up PZ5,PoisonResUpPZ5
-15742,Poison Res Up PZ6,PoisonResUpPZ6
-15743,Para Res Up PZ1,ParaResUpPZ1
-15744,Para Res Up PZ2,ParaResUpPZ2
-15745,Para Res Up PZ3,ParaResUpPZ3
-15746,Para Res Up PZ4,ParaResUpPZ4
-15747,Para Res Up PZ5,ParaResUpPZ5
-15748,Para Res Up PZ6,ParaResUpPZ6
-15749,Sleep Res Up PZ1,SleepResUpPZ1
-15750,Sleep Res Up PZ2,SleepResUpPZ2
-15751,Sleep Res Up PZ3,SleepResUpPZ3
-15752,Sleep Res Up PZ4,SleepResUpPZ4
-15753,Sleep Res Up PZ5,SleepResUpPZ5
-15754,Sleep Res Up PZ6,SleepResUpPZ6
-15755,Guard Up PZ1,GuardUpPZ1
-15756,Guard Up PZ2,GuardUpPZ2
-15757,Guard Up PZ3,GuardUpPZ3
-15758,Guard Up PZ4,GuardUpPZ4
-15759,Guard Up PZ5,GuardUpPZ5
-15760,Guard Up PZ6,GuardUpPZ6
-15761,Bullet Saver Up PZ1,BulletSaverUpPZ1
-15762,Bullet Saver Up PZ2,BulletSaverUpPZ2
-15763,Bullet Saver Up PZ3,BulletSaverUpPZ3
-15764,Bullet Saver Up PZ4,BulletSaverUpPZ4
-15765,Bullet Saver Up PZ5,BulletSaverUpPZ5
-15766,Bullet Saver Up PZ6,BulletSaverUpPZ6
+15622,Crit Conv Up PZ1,會心轉換強化PZ1
+15623,Crit Conv Up PZ2,會心轉換強化PZ2
+15624,Crit Conv Up PZ3,會心轉換強化PZ3
+15625,Crit Conv Up PZ4,會心轉換強化PZ4
+15626,Crit Conv Up PZ5,會心轉換強化PZ5
+15627,Crit Conv Up PZ6,會心轉換強化PZ6
+15628,Crit Conv Up PZ7,會心轉換強化PZ7
+15629,Thunder Clad Up PZ1,雷纏強化PZ1
+15630,Thunder Clad Up PZ2,雷纏強化PZ2
+15631,Thunder Clad Up PZ3,雷纏強化PZ3
+15632,Thunder Clad Up PZ4,雷纏強化PZ4
+15633,Thunder Clad Up PZ5,雷纏強化PZ5
+15634,Thunder Clad Up PZ6,雷纏強化PZ6
+15635,Thunder Clad Up PZ7,雷纏強化PZ7
+15636,S. Assault Up PZ1,強強襲強化PZ1
+15637,S. Assault Up PZ2,強強襲強化PZ2
+15638,S. Assault Up PZ3,強強襲強化PZ3
+15639,S. Assault Up PZ4,強強襲強化PZ4
+15640,S. Assault Up PZ5,強強襲強化PZ5
+15641,S. Assault Up PZ6,強強襲強化PZ6
+15642,Vampirism Up PZ1,吸血強化PZ1
+15643,Vampirism Up PZ2,吸血強化PZ2
+15644,Vampirism Up PZ3,吸血強化PZ3
+15645,Vampirism Up PZ4,吸血強化PZ4
+15646,Vampirism Up PZ5,吸血強化PZ5
+15647,Vampirism Up PZ6,吸血強化PZ6
+15648,Dissolver Up PZ1,溶解強化PZ1
+15649,Dissolver Up PZ2,溶解強化PZ2
+15650,Dissolver Up PZ3,溶解強化PZ3
+15651,Dissolver Up PZ4,溶解強化PZ4
+15652,Dissolver Up PZ5,溶解強化PZ5
+15653,Dissolver Up PZ6,溶解強化PZ6
+15654,Ice Age Up PZ1,冰齡強化PZ1
+15655,Ice Age Up PZ2,冰齡強化PZ2
+15656,Ice Age Up PZ3,冰齡強化PZ3
+15657,Ice Age Up PZ4,冰齡強化PZ4
+15658,Ice Age Up PZ5,冰齡強化PZ5
+15659,Ice Age Up PZ6,冰齡強化PZ6
+15660,Drug K. Up PZ1,藥ｋ強化PZ1
+15661,Drug K. Up PZ2,藥ｋ強化PZ2
+15662,Drug K. Up PZ3,藥ｋ強化PZ3
+15663,Drug K. Up PZ4,藥ｋ強化PZ4
+15664,Drug K. Up PZ5,藥ｋ強化PZ5
+15665,Drug K. Up PZ6,藥ｋ強化PZ6
+15666,Assistance Up PZ1,支援強化PZ1
+15667,Assistance Up PZ2,支援強化PZ2
+15668,Assistance Up PZ3,支援強化PZ3
+15669,Assistance Up PZ4,支援強化PZ4
+15670,Assistance Up PZ5,支援強化PZ5
+15671,Assistance Up PZ6,支援強化PZ6
+15672,Rush Up PZ1,突進強化PZ1
+15673,Rush Up PZ2,突進強化PZ2
+15674,Rush Up PZ3,突進強化PZ3
+15675,Rush Up PZ4,突進強化PZ4
+15676,Rush Up PZ5,突進強化PZ5
+15677,Rush Up PZ6,突進強化PZ6
+15678,Rush Up PZ7,突進強化PZ7
+15679,Adaptation Up PZ1,適應強化PZ1
+15680,Adaptation Up PZ2,適應強化PZ2
+15681,Adaptation Up PZ3,適應強化PZ3
+15682,Adaptation Up PZ4,適應強化PZ4
+15683,Adaptation Up PZ5,適應強化PZ5
+15684,Adaptation Up PZ6,適應強化PZ6
+15685,Encourage Up PZ1,激勵強化PZ1
+15686,Encourage Up PZ2,激勵強化PZ2
+15687,Encourage Up PZ3,激勵強化PZ3
+15688,Encourage Up PZ4,激勵強化PZ4
+15689,Encourage Up PZ5,激勵強化PZ5
+15690,Encourage Up PZ6,激勵強化PZ6
+15691,Reflect Up PZ1,反射強化PZ1
+15692,Reflect Up PZ2,反射強化PZ2
+15693,Reflect Up PZ3,反射強化PZ3
+15694,Reflect Up PZ4,反射強化PZ4
+15695,Reflect Up PZ5,反射強化PZ5
+15696,Reflect Up PZ6,反射強化PZ6
+15697,Stylish Up PZ1,時装強化PZ1
+15698,Stylish Up PZ2,時装強化PZ2
+15699,Stylish Up PZ3,時装強化PZ3
+15700,Stylish Up PZ4,時装強化PZ4
+15701,Stylish Up PZ5,時装強化PZ5
+15702,Stylish Up PZ6,時装強化PZ6
+15703,Vigorous Up PZ1,健強化PZ1
+15704,Vigorous Up PZ2,健強化PZ2
+15705,Vigorous Up PZ3,健強化PZ3
+15706,Vigorous Up PZ4,健強化PZ4
+15707,Vigorous Up PZ5,健強化PZ5
+15708,Vigorous Up PZ6,健強化PZ6
+15709,Obscurity Up PZ1,幽闇強化PZ1
+15710,Obscurity Up PZ2,幽闇強化PZ2
+15711,Obscurity Up PZ3,幽闇強化PZ3
+15712,Obscurity Up PZ4,幽闇強化PZ4
+15713,Obscurity Up PZ5,幽闇強化PZ5
+15714,Obscurity Up PZ6,幽闇強化PZ6
+15715,Soul Up PZ1,魂強化PZ1
+15716,Soul Up PZ2,魂強化PZ2
+15717,Soul Up PZ3,魂強化PZ3
+15718,Soul Up PZ4,魂強化PZ4
+15719,Soul Up PZ5,魂強化PZ5
+15720,Soul Up PZ6,魂強化PZ6
+15721,Soul Up PZ7,魂強化PZ7
+15722,Earplugs Up PZ1,耳塞強化PZ1
+15723,Earplugs Up PZ2,耳塞強化PZ2
+15724,Earplugs Up PZ3,耳塞強化PZ3
+15725,Earplugs Up PZ4,耳塞強化PZ4
+15726,Earplugs Up PZ5,耳塞強化PZ5
+15727,Wind Res Up PZ1,風耐性強化PZ1
+15728,Wind Res Up PZ2,風耐性強化PZ2
+15729,Wind Res Up PZ3,風耐性強化PZ3
+15730,Wind Res Up PZ4,風耐性強化PZ4
+15731,Wind Res Up PZ5,風耐性強化PZ5
+15732,Quake Res Up PZ1,耐震耐性強化PZ1
+15733,Quake Res Up PZ2,耐震耐性強化PZ2
+15734,Quake Res Up PZ3,耐震耐性強化PZ3
+15735,Quake Res Up PZ4,耐震耐性強化PZ4
+15736,Quake Res Up PZ5,耐震耐性強化PZ5
+15737,Poison Res Up PZ1,毒耐性強化PZ1
+15738,Poison Res Up PZ2,毒耐性強化PZ2
+15739,Poison Res Up PZ3,毒耐性強化PZ3
+15740,Poison Res Up PZ4,毒耐性強化PZ4
+15741,Poison Res Up PZ5,毒耐性強化PZ5
+15742,Poison Res Up PZ6,毒耐性強化PZ6
+15743,Para Res Up PZ1,麻痺耐性強化PZ1
+15744,Para Res Up PZ2,麻痺耐性強化PZ2
+15745,Para Res Up PZ3,麻痺耐性強化PZ3
+15746,Para Res Up PZ4,麻痺耐性強化PZ4
+15747,Para Res Up PZ5,麻痺耐性強化PZ5
+15748,Para Res Up PZ6,麻痺耐性強化PZ6
+15749,Sleep Res Up PZ1,睡眠耐性強化PZ1
+15750,Sleep Res Up PZ2,睡眠耐性強化PZ2
+15751,Sleep Res Up PZ3,睡眠耐性強化PZ3
+15752,Sleep Res Up PZ4,睡眠耐性強化PZ4
+15753,Sleep Res Up PZ5,睡眠耐性強化PZ5
+15754,Sleep Res Up PZ6,睡眠耐性強化PZ6
+15755,Guard Up PZ1,守衛強化PZ1
+15756,Guard Up PZ2,守衛強化PZ2
+15757,Guard Up PZ3,守衛強化PZ3
+15758,Guard Up PZ4,守衛強化PZ4
+15759,Guard Up PZ5,守衛強化PZ5
+15760,Guard Up PZ6,守衛強化PZ6
+15761,Bullet Saver Up PZ1,弾節約強化PZ1
+15762,Bullet Saver Up PZ2,弾節約強化PZ2
+15763,Bullet Saver Up PZ3,弾節約強化PZ3
+15764,Bullet Saver Up PZ4,弾節約強化PZ4
+15765,Bullet Saver Up PZ5,弾節約強化PZ5
+15766,Bullet Saver Up PZ6,弾節約強化PZ6
 15767,Rush Up Sigil,紋章的突進強化
 15768,Asumo C Tkt,アスモＣ票
 15769,Rokka C Tkt,ロッカＣ票
@@ -15777,7 +15777,7 @@ index,source,target
 15775,Alisys D Tkt,アリシスＤ票
 15776,Loli Tkt,ロリ票
 15777,Loli D Tkt,ロリＤ票
-15778,Gears of Destiny,GearsofDestiny
+15778,Gears of Destiny,齒輪命運
 15779,Santa Gook Effigy,SantaGookEffigy
 15780,Onimusha D Tkt,鬼武者Ｄ票
 15781,Lion Soulstone,獅魂石
@@ -15824,7 +15824,7 @@ index,source,target
 15822,Rocras D Tkt,ロクラスＤ票
 15823,Recolis Tkt,レコリス票
 15824,Recolis D Tkt,レコリスＤ票
-15825,Rusty Gears,RustyGears
+15825,Rusty Gears,生錆齒輪
 15826,Guridi D Tkt,グリディＤ票
 15827,Fluffy Tail,蓬鬆的尾
 15828,Shifunyi D Tkt,シフニＤ票
@@ -15918,52 +15918,52 @@ index,source,target
 15916,Z3P_item_098,Z3P_item_098
 15917,Z3P_item_099,Z3P_item_099
 15918,Z3P_item_100,Z3P_item_100
-15919,Ceaseless Up PZ1,CeaselessUpPZ1
-15920,Ceaseless Up PZ2,CeaselessUpPZ2
-15921,Ceaseless Up PZ3,CeaselessUpPZ3
-15922,Ceaseless Up PZ4,CeaselessUpPZ4
-15923,Ceaseless Up PZ5,CeaselessUpPZ5
-15924,Ceaseless Up PZ6,CeaselessUpPZ6
-15925,Ceaseless Up PZ7,CeaselessUpPZ7
-15926,Crit Conv Up PZ8,CritConvUpPZ8
-15927,Crit Conv Up PZ9,CritConvUpPZ9
-15928,Thunder Clad Up PZ8,ThunderCladUpPZ8
-15929,Thunder Clad Up PZ9,ThunderCladUpPZ9
-15930,S. Assault Up PZ7,S.AssaultUpPZ7
-15931,S. Assault Up PZ8,S.AssaultUpPZ8
-15932,Vampirism Up PZ7,VampirismUpPZ7
-15933,Vampirism Up PZ8,VampirismUpPZ8
-15934,Dissolver Up PZ7,DissolverUpPZ7
-15935,Ice Age Up PZ7,IceAgeUpPZ7
-15936,Drug K. Up PZ7,DrugK.UpPZ7
-15937,Assistance Up PZ7,AssistanceUpPZ7
-15938,Assistance Up PZ8,AssistanceUpPZ8
-15939,Rush Up PZ8,RushUpPZ8
-15940,Rush Up PZ9,RushUpPZ9
-15941,Adaptation Up PZ7,AdaptationUpPZ7
-15942,Adaptation Up PZ8,AdaptationUpPZ8
-15943,Encourage Up PZ7,EncourageUpPZ7
-15944,Reflect Up PZ7,ReflectUpPZ7
-15945,Stylish Up PZ7,StylishUpPZ7
-15946,Stylish Up PZ8,StylishUpPZ8
-15947,Vigorous Up PZ7,VigorousUpPZ7
-15948,Vigorous Up PZ8,VigorousUpPZ8
-15949,Obscurity Up PZ7,ObscurityUpPZ7
-15950,Obscurity Up PZ8,ObscurityUpPZ8
-15951,Soul Up PZ8,SoulUpPZ8
-15952,Earplugs Up PZ6,EarplugsUpPZ6
-15953,Wind Res Up PZ6,WindResUpPZ6
-15954,Quake Res Up PZ6,QuakeResUpPZ6
-15955,Poison Res Up PZ7,PoisonResUpPZ7
-15956,Para Res Up PZ7,ParaResUpPZ7
-15957,Sleep Res Up PZ7,SleepResUpPZ7
-15958,Guard Up PZ7,GuardUpPZ7
-15959,Guard Up PZ8,GuardUpPZ8
-15960,Guard Up PZ9,GuardUpPZ9
+15919,Ceaseless Up PZ1,無尽強化PZ1
+15920,Ceaseless Up PZ2,無尽強化PZ2
+15921,Ceaseless Up PZ3,無尽強化PZ3
+15922,Ceaseless Up PZ4,無尽強化PZ4
+15923,Ceaseless Up PZ5,無尽強化PZ5
+15924,Ceaseless Up PZ6,無尽強化PZ6
+15925,Ceaseless Up PZ7,無尽強化PZ7
+15926,Crit Conv Up PZ8,會心轉換強化PZ8
+15927,Crit Conv Up PZ9,會心轉換強化PZ9
+15928,Thunder Clad Up PZ8,雷纏強化PZ8
+15929,Thunder Clad Up PZ9,雷纏強化PZ9
+15930,S. Assault Up PZ7,強強襲強化PZ7
+15931,S. Assault Up PZ8,強強襲強化PZ8
+15932,Vampirism Up PZ7,吸血強化PZ7
+15933,Vampirism Up PZ8,吸血強化PZ8
+15934,Dissolver Up PZ7,溶解強化PZ7
+15935,Ice Age Up PZ7,冰齡強化PZ7
+15936,Drug K. Up PZ7,藥ｋ強化PZ7
+15937,Assistance Up PZ7,支援強化PZ7
+15938,Assistance Up PZ8,支援強化PZ8
+15939,Rush Up PZ8,突進強化PZ8
+15940,Rush Up PZ9,突進強化PZ9
+15941,Adaptation Up PZ7,適應強化PZ7
+15942,Adaptation Up PZ8,適應強化PZ8
+15943,Encourage Up PZ7,激勵強化PZ7
+15944,Reflect Up PZ7,反射強化PZ7
+15945,Stylish Up PZ7,時装強化PZ7
+15946,Stylish Up PZ8,時装強化PZ8
+15947,Vigorous Up PZ7,健強化PZ7
+15948,Vigorous Up PZ8,健強化PZ8
+15949,Obscurity Up PZ7,幽闇強化PZ7
+15950,Obscurity Up PZ8,幽闇強化PZ8
+15951,Soul Up PZ8,魂強化PZ8
+15952,Earplugs Up PZ6,耳塞強化PZ6
+15953,Wind Res Up PZ6,風耐性強化PZ6
+15954,Quake Res Up PZ6,耐震耐性強化PZ6
+15955,Poison Res Up PZ7,毒耐性強化PZ7
+15956,Para Res Up PZ7,麻痺耐性強化PZ7
+15957,Sleep Res Up PZ7,睡眠耐性強化PZ7
+15958,Guard Up PZ7,守衛強化PZ7
+15959,Guard Up PZ8,守衛強化PZ8
+15960,Guard Up PZ9,守衛強化PZ9
 15961,Guard Up PZ10,GuardUpPZ10
-15962,Bullet Saver Up PZ7,BulletSaverUpPZ7
-15963,Bullet Saver Up PZ8,BulletSaverUpPZ8
-15964,Bullet Saver Up PZ9,BulletSaverUpPZ9
+15962,Bullet Saver Up PZ7,弾節約強化PZ7
+15963,Bullet Saver Up PZ8,弾節約強化PZ8
+15964,Bullet Saver Up PZ9,弾節約強化PZ9
 15965,Blt.Saver Up PZ10,Blt.SaverUpPZ10
 15966,Skill Slots Up PZ56,技能SlotsUpPZ56
 15967,Skill Slots Up PZ57,技能SlotsUpPZ57
@@ -16168,7 +16168,7 @@ index,source,target
 16166,SnS・Ceaseless,片手劍無尽
 16167,SnS・Rush,片手劍突進
 16168,SnS・Furious,片手劍狂
-16169,SnS・Lavish Attack,SnS・LavishAttack
+16169,SnS・Lavish Attack,片手劍豪華攻撃
 16170,DS・Basic,雙劍的基本
 16171,DS・G,雙劍的Ｇ
 16172,DS・Strong Attack,雙劍的強靭攻撃
@@ -16178,7 +16178,7 @@ index,source,target
 16176,DS・Ceaseless,雙劍的無尽
 16177,DS・Rush,雙劍的突進
 16178,DS・Furious,雙劍的狂
-16179,DS・Lavish Attack,DS・LavishAttack
+16179,DS・Lavish Attack,雙劍豪華攻撃
 16180,GS・Basic,大劍的基本
 16181,GS・G,大劍的Ｇ
 16182,GS・Strong Attack,大劍的強靭攻撃
@@ -16188,7 +16188,7 @@ index,source,target
 16186,GS・Ceaseless,大劍的無尽
 16187,GS・Rush,大劍的突進
 16188,GS・Furious,大劍的狂
-16189,GS・Lavish Attack,GS・LavishAttack
+16189,GS・Lavish Attack,大劍豪華攻撃
 16190,LS・Basic,太刀的基本
 16191,LS・G,太刀的Ｇ
 16192,LS・Strong Attack,太刀的強靭攻撃
@@ -16198,7 +16198,7 @@ index,source,target
 16196,LS・Ceaseless,太刀的無尽
 16197,LS・Rush,太刀的突進
 16198,LS・Furious,太刀的狂
-16199,LS・Lavish Attack,LS・LavishAttack
+16199,LS・Lavish Attack,太刀豪華攻撃
 16200,Hammer・Basic,大錘的基本
 16201,Hammer・G,大錘的Ｇ
 16202,Hammer・S. Attack,大錘的Ｓ攻撃
@@ -16208,7 +16208,7 @@ index,source,target
 16206,Hammer・Ceaseless,大錘的無尽
 16207,Hammer・Rush,大錘的突進
 16208,Hammer・Furious,大錘的狂
-16209,Hammer・Point Break,Hammer・PointBreak
+16209,Hammer・Point Break,大錘點破
 16210,HH・Basic,狩獵笛的基本
 16211,HH・G,狩獵笛的Ｇ
 16212,HH・Strong Attack,狩獵笛的強靭攻撃
@@ -16218,7 +16218,7 @@ index,source,target
 16216,HH・Ceaseless,狩獵笛的無尽
 16217,HH・Rush,狩獵笛的突進
 16218,HH・Furious,狩獵笛的狂
-16219,HH・Point Break,HH・PointBreak
+16219,HH・Point Break,狩獵笛點破
 16220,Lance・Basic,長槍的基本
 16221,Lance・G,長槍的Ｇ
 16222,Lance・S. Attack,長槍的Ｓ攻撃
@@ -16294,7 +16294,7 @@ index,source,target
 16292,Bow・Strong Attack,弓的強靭攻撃
 16293,Bow・Issen,弓的一閃
 16294,Bow・Sniper,Bow・Sniper
-16295,Bow・Lavish Attack,Bow・LavishAttack
+16295,Bow・Lavish Attack,弓豪華攻撃
 16296,Bow・Ceaseless,弓的無尽
 16297,Bow・Rush,弓的突進
 16298,Bow・Furious,弓的狂
@@ -16354,9 +16354,9 @@ index,source,target
 16352,Ricca Tkt,リッカ票
 16353,Ricca D Tkt,リッカＤ票
 16354,Ninja Code・Land,NinjaCode・Land
-16355,Ninja Code・Sea,NinjaCode・Sea
-16356,Ninja Code・Sky,NinjaCode・Sky
-16357,Ninja Code・Heaven,NinjaCode・Heaven
+16355,Ninja Code・Sea,忍者暗号海
+16356,Ninja Code・Sky,忍者暗号空
+16357,Ninja Code・Heaven,忍者暗号天
 16358,Otono D Tkt,オトノＤ票
 16359,Hope D Tkt,希望Ｄ票
 16360,Gesture・Speak,Gesture・Speak

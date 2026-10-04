@@ -1268,7 +1268,7 @@
     },
     {
       "index": "3061",
-      "target": "InstructorCoin"
+      "target": "教官硬幣"
     },
     {
       "index": "3068",
@@ -1280,23 +1280,23 @@
     },
     {
       "index": "3070",
-      "target": "BizarreEgg"
+      "target": "怪異蛋"
     },
     {
       "index": "3071",
-      "target": "EastLight[Blue]"
+      "target": "東光青"
     },
     {
       "index": "3072",
-      "target": "EastLight[Gold]"
+      "target": "東光金"
     },
     {
       "index": "3073",
-      "target": "WestLight[Blue]"
+      "target": "西光青"
     },
     {
       "index": "3074",
-      "target": "WestLight[Gold]"
+      "target": "西光金"
     },
     {
       "index": "3075",
@@ -1308,7 +1308,7 @@
     },
     {
       "index": "3077",
-      "target": "護腕Base・Mauve"
+      "target": "護腕基底淡紫"
     },
     {
       "index": "3078",
@@ -1336,15 +1336,15 @@
     },
     {
       "index": "3248",
-      "target": "Winner's證明"
+      "target": "勝者的證明"
     },
     {
       "index": "3294",
-      "target": "IceWeddingTiara"
+      "target": "冰婚礼頭冠"
     },
     {
       "index": "3295",
-      "target": "MilleniumSnow"
+      "target": "千年雪"
     },
     {
       "index": "3296",
@@ -1352,11 +1352,11 @@
     },
     {
       "index": "3297",
-      "target": "IcebergTip"
+      "target": "氷山欠片"
     },
     {
       "index": "3299",
-      "target": "CatMist"
+      "target": "猫霧"
     },
     {
       "index": "3301",
@@ -1364,7 +1364,7 @@
     },
     {
       "index": "3302",
-      "target": "Otoshidama[4th]"
+      "target": "年玉四"
     },
     {
       "index": "3304",
@@ -1376,15 +1376,15 @@
     },
     {
       "index": "3306",
-      "target": "ComradeStrength"
+      "target": "戰友力"
     },
     {
       "index": "3307",
-      "target": "F.InstructorWish"
+      "target": "辺境教官願望"
     },
     {
       "index": "3308",
-      "target": "UndryingSkin"
+      "target": "不乾的皮"
     },
     {
       "index": "3309",
@@ -1392,7 +1392,7 @@
     },
     {
       "index": "3310",
-      "target": "LargeSocks"
+      "target": "大襪"
     },
     {
       "index": "3313",
@@ -1400,7 +1400,7 @@
     },
     {
       "index": "3314",
-      "target": "Hunter'sDeed"
+      "target": "獵人Ｓ契"
     },
     {
       "index": "3317",
@@ -1412,31 +1412,31 @@
     },
     {
       "index": "3323",
-      "target": "Pure白Teeth"
+      "target": "純白齒"
     },
     {
       "index": "3324",
-      "target": "HardDorsalSpine"
+      "target": "硬背的棘"
     },
     {
       "index": "3327",
-      "target": "Shotgun"
+      "target": "散彈槍"
     },
     {
       "index": "3328",
-      "target": "Pitchfork"
+      "target": "叉"
     },
     {
       "index": "3330",
-      "target": "Globe"
+      "target": "地球儀"
     },
     {
       "index": "3331",
-      "target": "DuctTape"
+      "target": "管膠帶"
     },
     {
       "index": "3338",
-      "target": "護腕Base・Mustard"
+      "target": "護腕基底芥末"
     },
     {
       "index": "3339",
@@ -1448,15 +1448,15 @@
     },
     {
       "index": "3341",
-      "target": "護腕Base・Caramel"
+      "target": "護腕基底焦糖"
     },
     {
       "index": "3342",
-      "target": "護腕Base・Daffy"
+      "target": "護腕基底水仙"
     },
     {
       "index": "3343",
-      "target": "護腕Base・Mouse"
+      "target": "護腕基底鼠"
     },
     {
       "index": "3344",
@@ -1464,7 +1464,7 @@
     },
     {
       "index": "3345",
-      "target": "護腕Base・Violet"
+      "target": "護腕基底菫"
     },
     {
       "index": "3551",
@@ -1476,31 +1476,31 @@
     },
     {
       "index": "3559",
-      "target": "Mt.JewelBeetle"
+      "target": "山珠甲蟲"
     },
     {
       "index": "3573",
-      "target": "Kouzandake"
+      "target": "高山筍"
     },
     {
       "index": "3577",
-      "target": "BurukkuHead"
+      "target": "布魯庫的頭"
     },
     {
       "index": "3582",
-      "target": "BewitchingCoin"
+      "target": "魅惑硬幣"
     },
     {
       "index": "3583",
-      "target": "GlimmeringCoin"
+      "target": "輝硬幣"
     },
     {
       "index": "3584",
-      "target": "HazyCoin"
+      "target": "霞硬幣"
     },
     {
       "index": "3585",
-      "target": "BlinkingCoin"
+      "target": "閃硬幣"
     },
     {
       "index": "3591",
@@ -1640,75 +1640,75 @@
     },
     {
       "index": "3703",
-      "target": "Drgn-ProofLapis"
+      "target": "耐龍青金石"
     },
     {
       "index": "3705",
-      "target": "護腕Base・Chitose"
+      "target": "護腕基底千歳"
     },
     {
       "index": "3706",
-      "target": "護腕Base・Suou"
+      "target": "護腕基底蘇芳"
     },
     {
       "index": "3707",
-      "target": "護腕Base・Moegi"
+      "target": "護腕基底萌黄"
     },
     {
       "index": "3708",
-      "target": "護腕Base・Tsuyukusa"
+      "target": "護腕基底露草"
     },
     {
       "index": "3709",
-      "target": "護腕Base・Usugaki"
+      "target": "護腕基底薄柿"
     },
     {
       "index": "3710",
-      "target": "護腕Base・Tokiwa"
+      "target": "護腕基底常磐"
     },
     {
       "index": "3711",
-      "target": "護腕Base・Ruri"
+      "target": "護腕基底瑠璃"
     },
     {
       "index": "3715",
-      "target": "Cham.SpeckledSkin"
+      "target": "霞龍的斑的皮"
     },
     {
       "index": "3716",
-      "target": "Cham.IllusionSkin"
+      "target": "霞龍的幻的皮"
     },
     {
       "index": "3717",
-      "target": "Cham.ChromaSkin"
+      "target": "霞龍的彩色的皮"
     },
     {
       "index": "3721",
-      "target": "Espi.EuphoriaSpk"
+      "target": "棘龍的陶酔的棘"
     },
     {
       "index": "3731",
-      "target": "V.DromeVividScle"
+      "target": "藍速龍王的鮮的鱗"
     },
     {
       "index": "3732",
-      "target": "V.DromePiel"
+      "target": "藍速龍王的皮"
     },
     {
       "index": "3736",
-      "target": "A.RathPrisonScl"
+      "target": "蒼火龍的牢的鱗"
     },
     {
       "index": "3737",
-      "target": "E.DragonTongue"
+      "target": "古龍舌"
     },
     {
       "index": "3738",
-      "target": "E.DragonMuscle"
+      "target": "古龍筋"
     },
     {
       "index": "3937",
-      "target": "SmoothVertebrate"
+      "target": "滑脊椎"
     },
     {
       "index": "3952",
@@ -1752,7 +1752,7 @@
     },
     {
       "index": "3965",
-      "target": "DoublePointPill"
+      "target": "雙點丸"
     },
     {
       "index": "3966",
@@ -1760,7 +1760,7 @@
     },
     {
       "index": "3967",
-      "target": "MediumPointBall"
+      "target": "中點球"
     },
     {
       "index": "3968",
@@ -1768,11 +1768,11 @@
     },
     {
       "index": "3969",
-      "target": "ReturnBall"
+      "target": "歸還球"
     },
     {
       "index": "3971",
-      "target": "FertilityCoin"
+      "target": "豊饒硬幣"
     },
     {
       "index": "3972",
@@ -1832,23 +1832,23 @@
     },
     {
       "index": "4005",
-      "target": "D.FloodgateKey"
+      "target": "迷宮水門調"
     },
     {
       "index": "4006",
-      "target": "BeguilingP.Clay"
+      "target": "魅惑蒼黏土"
     },
     {
       "index": "4007",
-      "target": "RobustAshClay"
+      "target": "強健灰黏土"
     },
     {
       "index": "4008",
-      "target": "之歌Peaks"
+      "target": "峰之歌"
     },
     {
       "index": "4009",
-      "target": "之歌Lakes"
+      "target": "湖之歌"
     },
     {
       "index": "4010",
@@ -1860,11 +1860,11 @@
     },
     {
       "index": "4012",
-      "target": "WindChime"
+      "target": "風鈴"
     },
     {
       "index": "4013",
-      "target": "CrazedMaid'sPlot"
+      "target": "狂侍女Ｓ陰謀"
     },
     {
       "index": "4038",
@@ -1900,23 +1900,23 @@
     },
     {
       "index": "4089",
-      "target": "之歌Mountains"
+      "target": "山之歌"
     },
     {
       "index": "4090",
-      "target": "之歌Dunes"
+      "target": "沙丘之歌"
     },
     {
       "index": "4091",
-      "target": "之歌theOcean"
+      "target": "海洋之歌"
     },
     {
       "index": "4092",
-      "target": "之歌Meadows"
+      "target": "草原之歌"
     },
     {
       "index": "4104",
-      "target": "護腕Base・Blush"
+      "target": "護腕基底・緋"
     },
     {
       "index": "4105",
@@ -1928,7 +1928,7 @@
     },
     {
       "index": "4107",
-      "target": "護腕Base・Tan"
+      "target": "護腕基底・棕褐"
     },
     {
       "index": "4248",
@@ -1964,7 +1964,7 @@
     },
     {
       "index": "4320",
-      "target": "DaoraDesolateShl"
+      "target": "鋼龍的荒的殻"
     },
     {
       "index": "4321",
@@ -1976,7 +1976,7 @@
     },
     {
       "index": "4329",
-      "target": "QuiveringLeather"
+      "target": "顫革"
     },
     {
       "index": "4330",
@@ -1984,19 +1984,19 @@
     },
     {
       "index": "4332",
-      "target": "Hypn.PlatinumFthr"
+      "target": "眠鳥的白金的羽"
     },
     {
       "index": "4333",
-      "target": "WyvernEgg…?"
+      "target": "飛龍的蛋？"
     },
     {
       "index": "4334",
-      "target": "HerbivoreEgg…?"
+      "target": "草食種的蛋？"
     },
     {
       "index": "4335",
-      "target": "CarnivoreEgg…?"
+      "target": "肉食種的蛋？"
     },
     {
       "index": "4336",
@@ -2008,35 +2008,35 @@
     },
     {
       "index": "4338",
-      "target": "MiniatureDrawing"
+      "target": "小型絵"
     },
     {
       "index": "4342",
-      "target": "PolkaDotPatrn"
+      "target": "圓點圖案"
     },
     {
       "index": "4343",
-      "target": "GunmanPattern"
+      "target": "銃士模様"
     },
     {
       "index": "4345",
-      "target": "DivingDesign"
+      "target": "潜水設計"
     },
     {
       "index": "4346",
-      "target": "FruitSaladDesign"
+      "target": "果實沙拉設計"
     },
     {
       "index": "4347",
-      "target": "PartyConfetti"
+      "target": "隊伍紙吹雪"
     },
     {
       "index": "4348",
-      "target": "Tatte紅Drawings"
+      "target": "破絵"
     },
     {
       "index": "4349",
-      "target": "ShabbyDrawings"
+      "target": "旧絵"
     },
     {
       "index": "4356",
@@ -2044,11 +2044,11 @@
     },
     {
       "index": "4388",
-      "target": "護腕Base・Apricot"
+      "target": "護腕基底・杏"
     },
     {
       "index": "4389",
-      "target": "護腕Base・Dawn"
+      "target": "護腕基底・暁"
     },
     {
       "index": "4390",
@@ -2056,59 +2056,59 @@
     },
     {
       "index": "4391",
-      "target": "護腕Base・Wax"
+      "target": "護腕基底・蝋"
     },
     {
       "index": "4396",
-      "target": "SignalFlare"
+      "target": "信号照明彈"
     },
     {
       "index": "4401",
-      "target": "4401dummy"
+      "target": "(dummy)"
     },
     {
       "index": "4402",
-      "target": "4402dummy"
+      "target": "(dummy)"
     },
     {
       "index": "4403",
-      "target": "4403dummy"
+      "target": "(dummy)"
     },
     {
       "index": "4404",
-      "target": "4404dummy"
+      "target": "(dummy)"
     },
     {
       "index": "4405",
-      "target": "4405dummy"
+      "target": "(dummy)"
     },
     {
       "index": "4406",
-      "target": "WildSilkCacoon"
+      "target": "野絲繭"
     },
     {
       "index": "4422",
-      "target": "WorkshopBow"
+      "target": "弓工房"
     },
     {
       "index": "4423",
-      "target": "WokshopWaterBow"
+      "target": "水工房弓"
     },
     {
       "index": "4424",
-      "target": "LunarYarn"
+      "target": "月糸"
     },
     {
       "index": "4425",
-      "target": "鋼Polyhedron"
+      "target": "鋼多面体"
     },
     {
       "index": "4428",
-      "target": "YggdrasilBranch"
+      "target": "世界樹枝"
     },
     {
       "index": "4429",
-      "target": "InkyFragm"
+      "target": "墨断片"
     },
     {
       "index": "4430",
@@ -2116,19 +2116,19 @@
     },
     {
       "index": "4456",
-      "target": "EtherealBranch"
+      "target": "幽枝"
     },
     {
       "index": "4457",
-      "target": "TealRubbish"
+      "target": "青緑屑"
     },
     {
       "index": "4459",
-      "target": "ScarletFestiMem."
+      "target": "緋祭記憶"
     },
     {
       "index": "4460",
-      "target": "IndigoFestiMem."
+      "target": "藍祭記憶"
     },
     {
       "index": "4461",
@@ -2140,31 +2140,31 @@
     },
     {
       "index": "4470",
-      "target": "CarbonBlade"
+      "target": "炭素刃"
     },
     {
       "index": "4471",
-      "target": "CatLuxuryFile"
+      "target": "猫豪華砥"
     },
     {
       "index": "4472",
-      "target": "Fisherman'sGuile"
+      "target": "漁師Ｓ狡智"
     },
     {
       "index": "4475",
-      "target": "MutationHammer"
+      "target": "変異鎚"
     },
     {
       "index": "4478",
-      "target": "RipTalon"
+      "target": "裂鉤爪"
     },
     {
       "index": "4488",
-      "target": "UnknownJaw"
+      "target": "未知顎"
     },
     {
       "index": "4686",
-      "target": "WallG"
+      "target": "壁Ｇ"
     },
     {
       "index": "4687",
@@ -2180,11 +2180,11 @@
     },
     {
       "index": "4691",
-      "target": "PaperweightG"
+      "target": "文鎮Ｇ"
     },
     {
       "index": "4692",
-      "target": "NimbleG"
+      "target": "軽快Ｇ"
     },
     {
       "index": "4693",
@@ -2192,7 +2192,7 @@
     },
     {
       "index": "4694",
-      "target": "PinpointG"
+      "target": "精密Ｇ"
     },
     {
       "index": "4695",
@@ -2208,15 +2208,15 @@
     },
     {
       "index": "4714",
-      "target": "Atk.Info[Bad]"
+      "target": "攻撃情報悪"
     },
     {
       "index": "4715",
-      "target": "Atk.Info[Good]"
+      "target": "攻撃情報良"
     },
     {
       "index": "4716",
-      "target": "Elem.Info[Good]"
+      "target": "属性情報良"
     },
     {
       "index": "4717",
@@ -2228,7 +2228,7 @@
     },
     {
       "index": "4724",
-      "target": "OrioruRice"
+      "target": "織米"
     },
     {
       "index": "4726",
@@ -2236,15 +2236,15 @@
     },
     {
       "index": "4727",
-      "target": "FlounderFruit"
+      "target": "鰈果"
     },
     {
       "index": "4729",
-      "target": "StuddedGear"
+      "target": "鋲裝備"
     },
     {
       "index": "4730",
-      "target": "LeatheGear"
+      "target": "革裝備"
     },
     {
       "index": "4731",
@@ -2268,7 +2268,7 @@
     },
     {
       "index": "4736",
-      "target": "ClearElectrum"
+      "target": "透琥珀金"
     },
     {
       "index": "4737",
@@ -2308,7 +2308,7 @@
     },
     {
       "index": "4746",
-      "target": "HungerInc.Fruit"
+      "target": "飢餓増果"
     },
     {
       "index": "4747",
@@ -2324,15 +2324,15 @@
     },
     {
       "index": "4753",
-      "target": "MarkingBall"
+      "target": "標記球"
     },
     {
       "index": "4757",
-      "target": "HalfmoonCarp"
+      "target": "半月鯉"
     },
     {
       "index": "4758",
-      "target": "黑BellyEel"
+      "target": "黒腹鰻"
     },
     {
       "index": "4766",
@@ -2340,15 +2340,15 @@
     },
     {
       "index": "4768",
-      "target": "ShovelHopper"
+      "target": "鋤跳蟲"
     },
     {
       "index": "4772",
-      "target": "FragrantBranch"
+      "target": "芳枝"
     },
     {
       "index": "4773",
-      "target": "CharmingFruit"
+      "target": "迷人果"
     },
     {
       "index": "4774",
@@ -2356,19 +2356,19 @@
     },
     {
       "index": "4781",
-      "target": "Golden黑Silk"
+      "target": "金黒絲"
     },
     {
       "index": "4793",
-      "target": "UnboundBook[Sky]"
+      "target": "解縛書空"
     },
     {
       "index": "4794",
-      "target": "UnboundBook[Hvn]"
+      "target": "解縛書天"
     },
     {
       "index": "4795",
-      "target": "LotteryBag"
+      "target": "抽選的袋"
     },
     {
       "index": "4796",
@@ -2376,7 +2376,7 @@
     },
     {
       "index": "4798",
-      "target": "BookofStorms"
+      "target": "書嵐"
     },
     {
       "index": "4799",
@@ -2392,11 +2392,11 @@
     },
     {
       "index": "4831",
-      "target": "鋼Durian"
+      "target": "鋼榴蓮"
     },
     {
       "index": "4832",
-      "target": "MadKing'sWaltz"
+      "target": "狂王Ｓ円舞"
     },
     {
       "index": "4833",
@@ -2420,15 +2420,15 @@
     },
     {
       "index": "4843",
-      "target": "GunmasterSeal"
+      "target": "銃師印"
     },
     {
       "index": "4844",
-      "target": "Exere布料[M]"
+      "target": "演習布Ｍ"
     },
     {
       "index": "4845",
-      "target": "Exere布料[S]"
+      "target": "演習布Ｓ"
     },
     {
       "index": "4855",
@@ -2440,7 +2440,7 @@
     },
     {
       "index": "4889",
-      "target": "之歌Quicksand"
+      "target": "流沙之歌"
     },
     {
       "index": "4890",
@@ -2448,7 +2448,7 @@
     },
     {
       "index": "4891",
-      "target": "之歌Comfort"
+      "target": "安寧之歌"
     },
     {
       "index": "4892",
@@ -2460,15 +2460,15 @@
     },
     {
       "index": "4894",
-      "target": "之歌Rain"
+      "target": "雨之歌"
     },
     {
       "index": "4895",
-      "target": "Br.ScorpionBond"
+      "target": "青銅蠍絆"
     },
     {
       "index": "4896",
-      "target": "Sl.ScorpionBond"
+      "target": "銀蠍絆"
     },
     {
       "index": "4897",
@@ -2476,23 +2476,23 @@
     },
     {
       "index": "4898",
-      "target": "Br.T.DragonBond"
+      "target": "轟龍青銅絆"
     },
     {
       "index": "4899",
-      "target": "Sl.T.DragonBond"
+      "target": "轟龍銀絆"
     },
     {
       "index": "4900",
-      "target": "G舊T.DragonBond"
+      "target": "轟龍金絆"
     },
     {
       "index": "4901",
-      "target": "BrnzePariaBond"
+      "target": "青銅呑龍絆"
     },
     {
       "index": "4902",
-      "target": "SlverPariaBond"
+      "target": "銀呑龍絆"
     },
     {
       "index": "4903",
@@ -2504,7 +2504,7 @@
     },
     {
       "index": "4905",
-      "target": "Yel.FestiMemento"
+      "target": "黄祭典記念"
     },
     {
       "index": "4906",
@@ -2512,7 +2512,7 @@
     },
     {
       "index": "4907",
-      "target": "Orn.FestiMemento"
+      "target": "橙祭典記念"
     },
     {
       "index": "4908",
@@ -2520,19 +2520,19 @@
     },
     {
       "index": "4909",
-      "target": "護腕Base・Crocus"
+      "target": "護腕基底・紅花"
     },
     {
       "index": "4911",
-      "target": "BoronNote"
+      "target": "硼的音符"
     },
     {
       "index": "4912",
-      "target": "SodiumNote"
+      "target": "曹達的音符"
     },
     {
       "index": "4913",
-      "target": "ChlorineNote"
+      "target": "塩素的音符"
     },
     {
       "index": "4914",
@@ -2568,7 +2568,7 @@
     },
     {
       "index": "4928",
-      "target": "B.DromeFierceFng"
+      "target": "黑砂龍兇猛的牙"
     },
     {
       "index": "4929",
@@ -2576,27 +2576,27 @@
     },
     {
       "index": "4937",
-      "target": "HalkFeathers[R]"
+      "target": "鷹羽Ｒ"
     },
     {
       "index": "4938",
-      "target": "HalkFeathers[F]"
+      "target": "鷹羽Ｆ"
     },
     {
       "index": "4939",
-      "target": "HalkFeathers[W]"
+      "target": "鷹羽Ｗ"
     },
     {
       "index": "4940",
-      "target": "HalkFeathers[I]"
+      "target": "鷹羽Ｉ"
     },
     {
       "index": "4941",
-      "target": "HalkFeathers[T]"
+      "target": "鷹羽Ｔ"
     },
     {
       "index": "4942",
-      "target": "HalkFeathers[D]"
+      "target": "鷹羽Ｄ"
     },
     {
       "index": "4944",
@@ -2712,7 +2712,7 @@
     },
     {
       "index": "5126",
-      "target": "EleAttackFruit"
+      "target": "屬攻撃果實"
     },
     {
       "index": "5128",
@@ -2784,7 +2784,7 @@
     },
     {
       "index": "5171",
-      "target": "WoodEffigy・Navy"
+      "target": "木偶紺"
     },
     {
       "index": "5172",
@@ -2876,7 +2876,7 @@
     },
     {
       "index": "5220",
-      "target": "F.Instructor'sSoul"
+      "target": "辺境教官Ｓ魂"
     },
     {
       "index": "5221",
@@ -2884,11 +2884,11 @@
     },
     {
       "index": "5222",
-      "target": "之歌Glaciers"
+      "target": "冰川之歌"
     },
     {
       "index": "5223",
-      "target": "之歌Canyons"
+      "target": "峡谷之歌"
     },
     {
       "index": "5224",
@@ -2900,15 +2900,15 @@
     },
     {
       "index": "5226",
-      "target": "之歌Sunrise"
+      "target": "日出之歌"
     },
     {
       "index": "5227",
-      "target": "之歌Swamps"
+      "target": "沼澤之歌"
     },
     {
       "index": "5228",
-      "target": "之歌Jungles"
+      "target": "叢林之歌"
     },
     {
       "index": "5229",
@@ -2956,7 +2956,7 @@
     },
     {
       "index": "5248",
-      "target": "CandleofFate"
+      "target": "燭宿命"
     },
     {
       "index": "5249",
@@ -2984,7 +2984,7 @@
     },
     {
       "index": "5280",
-      "target": "???Doll"
+      "target": "人偶"
     },
     {
       "index": "5282",
@@ -2996,7 +2996,7 @@
     },
     {
       "index": "5284",
-      "target": "???DollToken"
+      "target": "人偶代幣"
     },
     {
       "index": "5285",
@@ -3072,7 +3072,7 @@
     },
     {
       "index": "5345",
-      "target": "ArmorSoul・Rough"
+      "target": "防具魂粗"
     },
     {
       "index": "5346",
@@ -3192,7 +3192,7 @@
     },
     {
       "index": "5380",
-      "target": "ClownKnowledge"
+      "target": "道化知識"
     },
     {
       "index": "5382",
@@ -3244,7 +3244,7 @@
     },
     {
       "index": "5411",
-      "target": "SteadinessG"
+      "target": "安定Ｇ"
     },
     {
       "index": "5412",
@@ -3256,7 +3256,7 @@
     },
     {
       "index": "5414",
-      "target": "ResistG"
+      "target": "抵抗Ｇ"
     },
     {
       "index": "5415",
@@ -3344,11 +3344,11 @@
     },
     {
       "index": "5607",
-      "target": "藍HuntersSkin"
+      "target": "獵人的青的皮"
     },
     {
       "index": "5608",
-      "target": "紅HuntersSkin"
+      "target": "獵人的赤的皮"
     },
     {
       "index": "5609",
@@ -3404,7 +3404,7 @@
     },
     {
       "index": "5647",
-      "target": "之歌Source"
+      "target": "源之歌"
     },
     {
       "index": "5648",
@@ -3420,7 +3420,7 @@
     },
     {
       "index": "5651",
-      "target": "之歌Mist"
+      "target": "歌霧"
     },
     {
       "index": "5652",
@@ -3440,15 +3440,15 @@
     },
     {
       "index": "5694",
-      "target": "Lucius'sRequestⅠ"
+      "target": "盧修斯Ｓ依頼Ⅰ"
     },
     {
       "index": "5695",
-      "target": "Lucius'sRequestⅡ"
+      "target": "盧修斯Ｓ依頼Ⅱ"
     },
     {
       "index": "5696",
-      "target": "Lucius'sRequestⅢ"
+      "target": "盧修斯Ｓ依頼Ⅲ"
     },
     {
       "index": "5698",
@@ -3460,15 +3460,15 @@
     },
     {
       "index": "5700",
-      "target": "Denarius・Gold"
+      "target": "銀幣金"
     },
     {
       "index": "5701",
-      "target": "Denarius・Silver"
+      "target": "銀幣銀"
     },
     {
       "index": "5702",
-      "target": "Denarius・Copper"
+      "target": "銀幣銅"
     },
     {
       "index": "5703",
@@ -3500,7 +3500,7 @@
     },
     {
       "index": "5710",
-      "target": "HealingBall"
+      "target": "治療球"
     },
     {
       "index": "5713",
@@ -3508,7 +3508,7 @@
     },
     {
       "index": "5718",
-      "target": "HealingBallToken"
+      "target": "治療球代幣"
     },
     {
       "index": "5722",
@@ -3520,7 +3520,7 @@
     },
     {
       "index": "5724",
-      "target": "BugNetGToken"
+      "target": "蟲網Ｇ代幣"
     },
     {
       "index": "5725",
@@ -3544,7 +3544,7 @@
     },
     {
       "index": "5751",
-      "target": "CandyDrawings"
+      "target": "飴圖"
     },
     {
       "index": "5752",
@@ -3572,7 +3572,7 @@
     },
     {
       "index": "5760",
-      "target": "RoughThings"
+      "target": "粗物"
     },
     {
       "index": "5761",
@@ -3580,11 +3580,11 @@
     },
     {
       "index": "5762",
-      "target": "HalkBall[Poison]"
+      "target": "毒鷹球"
     },
     {
       "index": "5763",
-      "target": "MillenniumRice"
+      "target": "千年米"
     },
     {
       "index": "5766",
@@ -3848,7 +3848,7 @@
     },
     {
       "index": "5838",
-      "target": "AgilitySP"
+      "target": "敏捷ＳＰ"
     },
     {
       "index": "5839",
@@ -3924,7 +3924,7 @@
     },
     {
       "index": "5857",
-      "target": "EleAtk1G"
+      "target": "屬攻撃１Ｇ"
     },
     {
       "index": "5858",
@@ -3944,7 +3944,7 @@
     },
     {
       "index": "5998",
-      "target": "護腕Base・Navy"
+      "target": "護腕基底・紺"
     },
     {
       "index": "5999",
@@ -4036,7 +4036,7 @@
     },
     {
       "index": "6042",
-      "target": "EasternBamboo"
+      "target": "東竹"
     },
     {
       "index": "6043",
@@ -4104,7 +4104,7 @@
     },
     {
       "index": "6075",
-      "target": "[DS]Sharpening"
+      "target": "雙劍研ぎ"
     },
     {
       "index": "6076",
@@ -4120,7 +4120,7 @@
     },
     {
       "index": "6079",
-      "target": "[LS]Piercing"
+      "target": "太刀貫通"
     },
     {
       "index": "6080",
@@ -4128,15 +4128,15 @@
     },
     {
       "index": "6081",
-      "target": "[Hammer]ChargeⅠ"
+      "target": "大錘充Ⅰ"
     },
     {
       "index": "6082",
-      "target": "[Hammer]ChargeⅡ"
+      "target": "大錘充Ⅱ"
     },
     {
       "index": "6083",
-      "target": "[Hammer]ChargeⅢ"
+      "target": "大錘充Ⅲ"
     },
     {
       "index": "6084",
@@ -4188,7 +4188,7 @@
     },
     {
       "index": "6165",
-      "target": "ThinGookSoup"
+      "target": "薄古克汁"
     },
     {
       "index": "6166",
@@ -4228,11 +4228,11 @@
     },
     {
       "index": "6178",
-      "target": "BigEarsNote"
+      "target": "大耳的音符"
     },
     {
       "index": "6179",
-      "target": "SmallEarsNote"
+      "target": "小耳的音符"
     },
     {
       "index": "6180",
@@ -4264,7 +4264,7 @@
     },
     {
       "index": "6191",
-      "target": "DemonPattern"
+      "target": "惡魔模様"
     },
     {
       "index": "6192",
@@ -4536,7 +4536,7 @@
     },
     {
       "index": "6461",
-      "target": "RoughBall"
+      "target": "粗球"
     },
     {
       "index": "6462",
@@ -4588,115 +4588,115 @@
     },
     {
       "index": "6493",
-      "target": "W.MonoblosBMG"
+      "target": "白一角龍劍士Ｇ"
     },
     {
       "index": "6494",
-      "target": "W.MonoblosBMGF"
+      "target": "白一角龍劍士ＧＦ"
     },
     {
       "index": "6495",
-      "target": "W.MonoblosBMGX1"
+      "target": "白一角龍劍士ＧＸ１"
     },
     {
       "index": "6496",
-      "target": "W.MonoblosBMGX2"
+      "target": "白一角龍劍士ＧＸ２"
     },
     {
       "index": "6497",
-      "target": "W.MonoblosBMGX3"
+      "target": "白一角龍劍士ＧＸ３"
     },
     {
       "index": "6498",
-      "target": "W.MonoblosBMGX4"
+      "target": "白一角龍劍士ＧＸ４"
     },
     {
       "index": "6499",
-      "target": "W.MonoblosBMGX5"
+      "target": "白一角龍劍士ＧＸ５"
     },
     {
       "index": "6500",
-      "target": "W.MonoblosGNG"
+      "target": "白一角龍射手Ｇ"
     },
     {
       "index": "6501",
-      "target": "W.MonoblosGNGF"
+      "target": "白一角龍射手ＧＦ"
     },
     {
       "index": "6502",
-      "target": "W.MonoblosGNGX1"
+      "target": "白一角龍射手ＧＸ１"
     },
     {
       "index": "6503",
-      "target": "W.MonoblosGNGX2"
+      "target": "白一角龍射手ＧＸ２"
     },
     {
       "index": "6504",
-      "target": "W.MonoblosGNGX3"
+      "target": "白一角龍射手ＧＸ３"
     },
     {
       "index": "6505",
-      "target": "W.MonoblosGNGX4"
+      "target": "白一角龍射手ＧＸ４"
     },
     {
       "index": "6506",
-      "target": "W.MonoblosGNGX5"
+      "target": "白一角龍射手ＧＸ５"
     },
     {
       "index": "6507",
-      "target": "B.DiablosBMG"
+      "target": "黑角龍劍士Ｇ"
     },
     {
       "index": "6508",
-      "target": "B.DiablosBMGF"
+      "target": "黑角龍劍士ＧＦ"
     },
     {
       "index": "6509",
-      "target": "B.DiablosBMGX1"
+      "target": "黑角龍劍士ＧＸ１"
     },
     {
       "index": "6510",
-      "target": "B.DiablosBMGX2"
+      "target": "黑角龍劍士ＧＸ２"
     },
     {
       "index": "6511",
-      "target": "B.DiablosBMGX3"
+      "target": "黑角龍劍士ＧＸ３"
     },
     {
       "index": "6512",
-      "target": "B.DiablosBMGX4"
+      "target": "黑角龍劍士ＧＸ４"
     },
     {
       "index": "6513",
-      "target": "B.DiablosBMGX5"
+      "target": "黑角龍劍士ＧＸ５"
     },
     {
       "index": "6514",
-      "target": "B.DiablosGNG"
+      "target": "黑角龍射手Ｇ"
     },
     {
       "index": "6515",
-      "target": "B.DiablosGNGF"
+      "target": "黑角龍射手ＧＦ"
     },
     {
       "index": "6516",
-      "target": "B.DiablosGNGX1"
+      "target": "黑角龍射手ＧＸ１"
     },
     {
       "index": "6517",
-      "target": "B.DiablosGNGX2"
+      "target": "黑角龍射手ＧＸ２"
     },
     {
       "index": "6518",
-      "target": "B.DiablosGNGX3"
+      "target": "黑角龍射手ＧＸ３"
     },
     {
       "index": "6519",
-      "target": "B.DiablosGNGX4"
+      "target": "黑角龍射手ＧＸ４"
     },
     {
       "index": "6532",
-      "target": "B.DiablosGNGX5"
+      "target": "黑角龍射手ＧＸ５"
     },
     {
       "index": "6540",
@@ -4828,7 +4828,7 @@
     },
     {
       "index": "6705",
-      "target": "Espi.EternalThorn"
+      "target": "棘龍永遠刺"
     },
     {
       "index": "6713",
@@ -4852,11 +4852,11 @@
     },
     {
       "index": "6775",
-      "target": "ShanthienPiel"
+      "target": "山天皮耶爾"
     },
     {
       "index": "6776",
-      "target": "ShanthienCrystal"
+      "target": "山天結晶"
     },
     {
       "index": "6779",
@@ -4904,7 +4904,7 @@
     },
     {
       "index": "6805",
-      "target": "PiscineGreatScl"
+      "target": "魚偉大的鱗"
     },
     {
       "index": "6806",
@@ -5136,7 +5136,7 @@
     },
     {
       "index": "7017",
-      "target": "Ice鱗s"
+      "target": "冰的鱗"
     },
     {
       "index": "7018",
@@ -5164,11 +5164,11 @@
     },
     {
       "index": "7025",
-      "target": "Celestite碎片"
+      "target": "天青石断片"
     },
     {
       "index": "7026",
-      "target": "CelestiteChunk"
+      "target": "天青石塊"
     },
     {
       "index": "7027",
@@ -5176,11 +5176,11 @@
     },
     {
       "index": "7029",
-      "target": "DelicateGears"
+      "target": "繊細齒輪"
     },
     {
       "index": "7030",
-      "target": "RoughCelestite"
+      "target": "粗天青石"
     },
     {
       "index": "7032",
@@ -5212,7 +5212,7 @@
     },
     {
       "index": "7061",
-      "target": "OddTealLiquid"
+      "target": "奇青緑液"
     },
     {
       "index": "7062",
@@ -5348,7 +5348,7 @@
     },
     {
       "index": "7125",
-      "target": "LightColourDye"
+      "target": "光色染料"
     },
     {
       "index": "7127",
@@ -5624,7 +5624,7 @@
     },
     {
       "index": "7283",
-      "target": "BirdWyvernRinger"
+      "target": "鳥飛龍鈴"
     },
     {
       "index": "7285",
@@ -5740,23 +5740,23 @@
     },
     {
       "index": "7453",
-      "target": "護腕BaseG・Hemp"
+      "target": "護腕基底Ｇ・麻"
     },
     {
       "index": "7454",
-      "target": "護腕BaseG・Lily"
+      "target": "護腕基底Ｇ・百合"
     },
     {
       "index": "7455",
-      "target": "C.BaseG・Miscanthus"
+      "target": "護腕基底Ｇ・芒"
     },
     {
       "index": "7456",
-      "target": "C.BaseG・Narcissus"
+      "target": "護腕基底Ｇ・水仙"
     },
     {
       "index": "7457",
-      "target": "C.BaseG・Daffodil"
+      "target": "護腕基底Ｇ・水仙"
     },
     {
       "index": "7458",
@@ -5764,23 +5764,23 @@
     },
     {
       "index": "7459",
-      "target": "C.BaseG・Butterbur"
+      "target": "護腕基底Ｇ・蜂斗菜"
     },
     {
       "index": "7460",
-      "target": "C.BaseG・Horsetail"
+      "target": "護腕基底Ｇ・筆"
     },
     {
       "index": "7461",
-      "target": "C.BaseG・Dianthus"
+      "target": "護腕基底Ｇ・石竹"
     },
     {
       "index": "7462",
-      "target": "C.BaseG・Bamboo"
+      "target": "護腕基底Ｇ・竹"
     },
     {
       "index": "7463",
-      "target": "C.BaseG・Physalis"
+      "target": "護腕基底Ｇ・酸漿"
     },
     {
       "index": "7464",
@@ -5848,43 +5848,43 @@
     },
     {
       "index": "7503",
-      "target": "D.Cat勳章White"
+      "target": "D猫勳章白"
     },
     {
       "index": "7504",
-      "target": "D.Cat勳章Yellow"
+      "target": "D猫勳章黄"
     },
     {
       "index": "7505",
-      "target": "D.Cat勳章Red"
+      "target": "D猫勳章赤"
     },
     {
       "index": "7506",
-      "target": "D.Cat勳章Blue"
+      "target": "D猫勳章青"
     },
     {
       "index": "7507",
-      "target": "D.Cat勳章Black"
+      "target": "D猫勳章黒"
     },
     {
       "index": "7508",
-      "target": "D.CatCoinWhite"
+      "target": "D猫硬幣白"
     },
     {
       "index": "7509",
-      "target": "D.CatCoinYellow"
+      "target": "D猫硬幣黄"
     },
     {
       "index": "7510",
-      "target": "D.CatCoinRed"
+      "target": "D猫硬幣赤"
     },
     {
       "index": "7511",
-      "target": "D.CatCoinBlue"
+      "target": "D猫硬幣青"
     },
     {
       "index": "7512",
-      "target": "D.CatCoinBlack"
+      "target": "D猫硬幣黒"
     },
     {
       "index": "7513",
@@ -6844,7 +6844,7 @@
     },
     {
       "index": "8155",
-      "target": "BaruThinTentacle"
+      "target": "噬血龍薄触手"
     },
     {
       "index": "8157",
@@ -6860,7 +6860,7 @@
     },
     {
       "index": "8167",
-      "target": "BaruTentacle"
+      "target": "噬血龍触手"
     },
     {
       "index": "8169",
@@ -6968,7 +6968,7 @@
     },
     {
       "index": "8217",
-      "target": "舊Diary"
+      "target": "舊日記"
     },
     {
       "index": "8218",
@@ -6996,15 +6996,15 @@
     },
     {
       "index": "8231",
-      "target": "AbiesLeaves"
+      "target": "樅的葉"
     },
     {
       "index": "8232",
-      "target": "AbiesThickLeaves"
+      "target": "樅厚的葉"
     },
     {
       "index": "8233",
-      "target": "AbiesSharpLeaves"
+      "target": "樅鋭的葉"
     },
     {
       "index": "8234",
@@ -7016,7 +7016,7 @@
     },
     {
       "index": "8236",
-      "target": "金Wings"
+      "target": "黄金的翼"
     },
     {
       "index": "8237",
@@ -7028,7 +7028,7 @@
     },
     {
       "index": "8239",
-      "target": "LovelyGlasses"
+      "target": "可愛眼鏡"
     },
     {
       "index": "8240",
@@ -7036,7 +7036,7 @@
     },
     {
       "index": "8241",
-      "target": "LuxuryGlasses"
+      "target": "豪華眼鏡"
     },
     {
       "index": "8242",
@@ -7152,7 +7152,7 @@
     },
     {
       "index": "8282",
-      "target": "CandyBall"
+      "target": "飴球"
     },
     {
       "index": "8283",
@@ -7320,7 +7320,7 @@
     },
     {
       "index": "8478",
-      "target": "SolemnBox"
+      "target": "厳粛箱"
     },
     {
       "index": "8479",
@@ -8216,7 +8216,7 @@
     },
     {
       "index": "8932",
-      "target": "鋼Wool"
+      "target": "鋼的毛"
     },
     {
       "index": "8933",
@@ -8256,7 +8256,7 @@
     },
     {
       "index": "8944",
-      "target": "MillenniumPeach"
+      "target": "千年桃"
     },
     {
       "index": "8947",
@@ -8512,7 +8512,7 @@
     },
     {
       "index": "9047",
-      "target": "ForoWeave"
+      "target": "尾錘龍織"
     },
     {
       "index": "9048",
@@ -8744,15 +8744,15 @@
     },
     {
       "index": "9179",
-      "target": "EasternWool"
+      "target": "東的毛"
     },
     {
       "index": "9180",
-      "target": "紅CatTears"
+      "target": "赤猫涙"
     },
     {
       "index": "9181",
-      "target": "EvilCatTears"
+      "target": "惡猫涙"
     },
     {
       "index": "9182",
@@ -9044,99 +9044,99 @@
     },
     {
       "index": "9254",
-      "target": "SnS皮n?White"
+      "target": "片手劍秘傳白"
     },
     {
       "index": "9255",
-      "target": "SnS皮n?Red"
+      "target": "片手劍秘傳赤"
     },
     {
       "index": "9256",
-      "target": "SnS皮n?Black"
+      "target": "片手劍秘傳黒"
     },
     {
       "index": "9257",
-      "target": "SnS皮n?Blue"
+      "target": "片手劍秘傳青"
     },
     {
       "index": "9258",
-      "target": "DS皮n?White"
+      "target": "雙劍秘傳白"
     },
     {
       "index": "9259",
-      "target": "DS皮n?Red"
+      "target": "雙劍秘傳赤"
     },
     {
       "index": "9260",
-      "target": "DS皮n?Black"
+      "target": "雙劍秘傳黒"
     },
     {
       "index": "9261",
-      "target": "DS皮n?Blue"
+      "target": "雙劍秘傳青"
     },
     {
       "index": "9262",
-      "target": "GS皮n?White"
+      "target": "大劍秘傳白"
     },
     {
       "index": "9263",
-      "target": "GS皮n?Red"
+      "target": "大劍秘傳赤"
     },
     {
       "index": "9264",
-      "target": "GS皮n?Black"
+      "target": "大劍秘傳黒"
     },
     {
       "index": "9265",
-      "target": "GS皮n?Blue"
+      "target": "大劍秘傳青"
     },
     {
       "index": "9266",
-      "target": "LS皮n?White"
+      "target": "太刀秘傳白"
     },
     {
       "index": "9267",
-      "target": "LS皮n?Red"
+      "target": "太刀秘傳赤"
     },
     {
       "index": "9268",
-      "target": "LS皮n?Black"
+      "target": "太刀秘傳黒"
     },
     {
       "index": "9269",
-      "target": "LS皮n?Blue"
+      "target": "太刀秘傳青"
     },
     {
       "index": "9270",
-      "target": "Lance皮n?White"
+      "target": "長槍秘傳白"
     },
     {
       "index": "9271",
-      "target": "Lance皮n?Red"
+      "target": "長槍秘傳赤"
     },
     {
       "index": "9272",
-      "target": "Lance皮n?Black"
+      "target": "長槍秘傳黒"
     },
     {
       "index": "9273",
-      "target": "Lance皮n?Blue"
+      "target": "長槍秘傳青"
     },
     {
       "index": "9274",
-      "target": "GL皮n?White"
+      "target": "銃槍秘傳白"
     },
     {
       "index": "9275",
-      "target": "GL皮n?Red"
+      "target": "銃槍秘傳赤"
     },
     {
       "index": "9276",
-      "target": "GL皮n?Black"
+      "target": "銃槍秘傳黒"
     },
     {
       "index": "9277",
-      "target": "GL皮n?Blue"
+      "target": "銃槍秘傳青"
     },
     {
       "index": "9278",
@@ -9144,95 +9144,95 @@
     },
     {
       "index": "9279",
-      "target": "Hammer皮n?Red"
+      "target": "大錘秘傳赤"
     },
     {
       "index": "9280",
-      "target": "Hammer皮n?Blk"
+      "target": "大錘秘傳黒"
     },
     {
       "index": "9281",
-      "target": "Hammer皮n?Blu"
+      "target": "大錘秘傳青"
     },
     {
       "index": "9282",
-      "target": "HH皮n?White"
+      "target": "狩獵笛秘傳白"
     },
     {
       "index": "9283",
-      "target": "HH皮n?Red"
+      "target": "狩獵笛秘傳赤"
     },
     {
       "index": "9284",
-      "target": "HH皮n?Black"
+      "target": "狩獵笛秘傳黒"
     },
     {
       "index": "9285",
-      "target": "HH皮n?Blue"
+      "target": "狩獵笛秘傳青"
     },
     {
       "index": "9286",
-      "target": "LBG皮n?White"
+      "target": "輕弩秘傳白"
     },
     {
       "index": "9287",
-      "target": "LBG皮n?Red"
+      "target": "輕弩秘傳赤"
     },
     {
       "index": "9288",
-      "target": "LBG皮n?Black"
+      "target": "輕弩秘傳黒"
     },
     {
       "index": "9289",
-      "target": "LBG皮n?Blue"
+      "target": "輕弩秘傳青"
     },
     {
       "index": "9290",
-      "target": "HBG皮n?White"
+      "target": "重弩秘傳白"
     },
     {
       "index": "9291",
-      "target": "HBG皮n?Red"
+      "target": "重弩秘傳赤"
     },
     {
       "index": "9292",
-      "target": "HBG皮n?Black"
+      "target": "重弩秘傳黒"
     },
     {
       "index": "9293",
-      "target": "HBG皮n?Blue"
+      "target": "重弩秘傳青"
     },
     {
       "index": "9294",
-      "target": "Bow皮n?White"
+      "target": "弓秘傳白"
     },
     {
       "index": "9295",
-      "target": "Bow皮n?Red"
+      "target": "弓秘傳赤"
     },
     {
       "index": "9296",
-      "target": "Bow皮n?Black"
+      "target": "弓秘傳黒"
     },
     {
       "index": "9297",
-      "target": "Bow皮n?Blue"
+      "target": "弓秘傳青"
     },
     {
       "index": "9298",
-      "target": "Tonfa皮n?White"
+      "target": "穿龍棍秘傳白"
     },
     {
       "index": "9299",
-      "target": "Tonfa皮n?Red"
+      "target": "穿龍棍秘傳赤"
     },
     {
       "index": "9300",
-      "target": "Tonfa皮n?Black"
+      "target": "穿龍棍秘傳黒"
     },
     {
       "index": "9301",
-      "target": "Tonfa皮n?Blue"
+      "target": "穿龍棍秘傳青"
     },
     {
       "index": "9302",
@@ -9404,7 +9404,7 @@
     },
     {
       "index": "9364",
-      "target": "GorgeousFeathers"
+      "target": "華麗的羽"
     },
     {
       "index": "9367",
@@ -9444,19 +9444,19 @@
     },
     {
       "index": "9493",
-      "target": "EleAtk2G"
+      "target": "屬攻撃２Ｇ"
     },
     {
       "index": "9516",
-      "target": "NewWorldBondⅠ"
+      "target": "新世界絆Ⅰ"
     },
     {
       "index": "9517",
-      "target": "NewWorldBondⅡ"
+      "target": "新世界絆Ⅱ"
     },
     {
       "index": "9518",
-      "target": "NewWorldBondⅢ"
+      "target": "新世界絆Ⅲ"
     },
     {
       "index": "9537",
@@ -9544,7 +9544,7 @@
     },
     {
       "index": "9586",
-      "target": "Garuba證明"
+      "target": "金塵的證明"
     },
     {
       "index": "9587",
@@ -9556,7 +9556,7 @@
     },
     {
       "index": "9589",
-      "target": "P.GypHardHead"
+      "target": "紫屍硬的頭"
     },
     {
       "index": "9591",
@@ -9588,7 +9588,7 @@
     },
     {
       "index": "9619",
-      "target": "GarubaTopaz"
+      "target": "金塵黄玉"
     },
     {
       "index": "9626",
@@ -9600,11 +9600,11 @@
     },
     {
       "index": "9668",
-      "target": "BeautifulFittings"
+      "target": "美装具"
     },
     {
       "index": "9669",
-      "target": "ShiningFittings"
+      "target": "輝耀装具"
     },
     {
       "index": "9670",
@@ -9640,7 +9640,7 @@
     },
     {
       "index": "9678",
-      "target": "舊Lamp"
+      "target": "舊灯"
     },
     {
       "index": "9679",
@@ -9692,7 +9692,7 @@
     },
     {
       "index": "9697",
-      "target": "Glittering翼s"
+      "target": "煌めく的翼"
     },
     {
       "index": "9702",
@@ -9700,7 +9700,7 @@
     },
     {
       "index": "9703",
-      "target": "護腕BaseG・Trsr"
+      "target": "護腕基底Ｇ・寶"
     },
     {
       "index": "9705",
@@ -9748,15 +9748,15 @@
     },
     {
       "index": "9732",
-      "target": "ThornyVine"
+      "target": "荊棘藤"
     },
     {
       "index": "9733",
-      "target": "PinkThornyVine"
+      "target": "粉荊棘藤"
     },
     {
       "index": "9734",
-      "target": "金ThornyVine"
+      "target": "黄金荊棘藤"
     },
     {
       "index": "9735",
@@ -9844,7 +9844,7 @@
     },
     {
       "index": "9770",
-      "target": "QuiveringBloom"
+      "target": "顫花"
     },
     {
       "index": "9771",
@@ -9876,7 +9876,7 @@
     },
     {
       "index": "9790",
-      "target": "PinkWeave"
+      "target": "粉織"
     },
     {
       "index": "9793",
@@ -9884,7 +9884,7 @@
     },
     {
       "index": "9794",
-      "target": "Clown'sSecret"
+      "target": "道化Ｓ秘傳"
     },
     {
       "index": "9842",
@@ -10228,15 +10228,15 @@
     },
     {
       "index": "9986",
-      "target": "NekoComfortG"
+      "target": "猫安寧Ｇ"
     },
     {
       "index": "9987",
-      "target": "NekoComfortGF"
+      "target": "猫安寧ＧＦ"
     },
     {
       "index": "9988",
-      "target": "NekoComfortGX"
+      "target": "猫安寧ＧＸ"
     },
     {
       "index": "9989",
@@ -10276,19 +10276,19 @@
     },
     {
       "index": "10114",
-      "target": "RawSoul[Low]"
+      "target": "生魂下位"
     },
     {
       "index": "10115",
-      "target": "RawSoul[Mid]"
+      "target": "生魂中位"
     },
     {
       "index": "10116",
-      "target": "RawSoul[High]"
+      "target": "生魂上位"
     },
     {
       "index": "10117",
-      "target": "RawSoul[Top]"
+      "target": "生魂最上位"
     },
     {
       "index": "10118",
@@ -10316,219 +10316,219 @@
     },
     {
       "index": "10131",
-      "target": "SnS皮nEX?White"
+      "target": "片手劍秘傳EX白"
     },
     {
       "index": "10132",
-      "target": "SnS皮nEX?Red"
+      "target": "片手劍秘傳EX赤"
     },
     {
       "index": "10133",
-      "target": "SnS皮nEX?Black"
+      "target": "片手劍秘傳EX黒"
     },
     {
       "index": "10134",
-      "target": "SnS皮nEX?Blue"
+      "target": "片手劍秘傳EX青"
     },
     {
       "index": "10135",
-      "target": "DS皮nEX?White"
+      "target": "雙劍秘傳EX白"
     },
     {
       "index": "10136",
-      "target": "DS皮nEX?Red"
+      "target": "雙劍秘傳EX赤"
     },
     {
       "index": "10137",
-      "target": "DS皮nEX?Black"
+      "target": "雙劍秘傳EX黒"
     },
     {
       "index": "10138",
-      "target": "DS皮nEX?Blue"
+      "target": "雙劍秘傳EX青"
     },
     {
       "index": "10139",
-      "target": "GS皮nEX?White"
+      "target": "大劍秘傳EX白"
     },
     {
       "index": "10140",
-      "target": "GS皮nEX?Red"
+      "target": "大劍秘傳EX赤"
     },
     {
       "index": "10141",
-      "target": "GS皮nEX?Black"
+      "target": "大劍秘傳EX黒"
     },
     {
       "index": "10142",
-      "target": "GS皮nEX?Blue"
+      "target": "大劍秘傳EX青"
     },
     {
       "index": "10143",
-      "target": "LS皮nEX?White"
+      "target": "太刀秘傳EX白"
     },
     {
       "index": "10144",
-      "target": "LS皮nEX?Red"
+      "target": "太刀秘傳EX赤"
     },
     {
       "index": "10145",
-      "target": "LS皮nEX?Black"
+      "target": "太刀秘傳EX黒"
     },
     {
       "index": "10146",
-      "target": "LS皮nEX?Blue"
+      "target": "太刀秘傳EX青"
     },
     {
       "index": "10147",
-      "target": "Lance皮nEX?Wh"
+      "target": "長槍秘傳EX白"
     },
     {
       "index": "10148",
-      "target": "Lance皮nEX?Red"
+      "target": "長槍秘傳EX赤"
     },
     {
       "index": "10149",
-      "target": "Lance皮nEX?Blk"
+      "target": "長槍秘傳EX黒"
     },
     {
       "index": "10150",
-      "target": "Lance皮nEX?Blu"
+      "target": "長槍秘傳EX青"
     },
     {
       "index": "10151",
-      "target": "GL皮nEX?White"
+      "target": "銃槍秘傳EX白"
     },
     {
       "index": "10152",
-      "target": "GL皮nEX?Red"
+      "target": "銃槍秘傳EX赤"
     },
     {
       "index": "10153",
-      "target": "GL皮nEX?Black"
+      "target": "銃槍秘傳EX黒"
     },
     {
       "index": "10154",
-      "target": "GL皮nEX?Blue"
+      "target": "銃槍秘傳EX青"
     },
     {
       "index": "10155",
-      "target": "HM皮nEX?Wh"
+      "target": "大錘秘傳EX白"
     },
     {
       "index": "10156",
-      "target": "HM皮nEX?Red"
+      "target": "大錘秘傳EX赤"
     },
     {
       "index": "10157",
-      "target": "HM皮nEX?Blk"
+      "target": "大錘秘傳EX黒"
     },
     {
       "index": "10158",
-      "target": "HM皮nEX?Blu"
+      "target": "大錘秘傳EX青"
     },
     {
       "index": "10159",
-      "target": "HH皮nEX?White"
+      "target": "狩獵笛秘傳EX白"
     },
     {
       "index": "10160",
-      "target": "HH皮nEX?Red"
+      "target": "狩獵笛秘傳EX赤"
     },
     {
       "index": "10161",
-      "target": "HH皮nEX?Black"
+      "target": "狩獵笛秘傳EX黒"
     },
     {
       "index": "10162",
-      "target": "HH皮nEX?Blue"
+      "target": "狩獵笛秘傳EX青"
     },
     {
       "index": "10163",
-      "target": "LBG皮nEX?White"
+      "target": "輕弩秘傳EX白"
     },
     {
       "index": "10164",
-      "target": "LBG皮nEX?Red"
+      "target": "輕弩秘傳EX赤"
     },
     {
       "index": "10165",
-      "target": "LBG皮nEX?Black"
+      "target": "輕弩秘傳EX黒"
     },
     {
       "index": "10166",
-      "target": "LBG皮nEX?Blue"
+      "target": "輕弩秘傳EX青"
     },
     {
       "index": "10167",
-      "target": "HBG皮nEX?White"
+      "target": "重弩秘傳EX白"
     },
     {
       "index": "10168",
-      "target": "HBG皮nEX?Red"
+      "target": "重弩秘傳EX赤"
     },
     {
       "index": "10169",
-      "target": "HBG皮nEX?Black"
+      "target": "重弩秘傳EX黒"
     },
     {
       "index": "10170",
-      "target": "HBG皮nEX?Blue"
+      "target": "重弩秘傳EX青"
     },
     {
       "index": "10171",
-      "target": "Bow皮nEX?White"
+      "target": "弓秘傳EX白"
     },
     {
       "index": "10172",
-      "target": "Bow皮nEX?Red"
+      "target": "弓秘傳EX赤"
     },
     {
       "index": "10173",
-      "target": "Bow皮nEX?Black"
+      "target": "弓秘傳EX黒"
     },
     {
       "index": "10174",
-      "target": "Bow皮nEX?Blue"
+      "target": "弓秘傳EX青"
     },
     {
       "index": "10175",
-      "target": "Tonfa皮nEX?Wh"
+      "target": "穿龍棍秘傳EX白"
     },
     {
       "index": "10176",
-      "target": "Tonfa皮nEX?Red"
+      "target": "穿龍棍秘傳EX赤"
     },
     {
       "index": "10177",
-      "target": "Tonfa皮nEX?Blk"
+      "target": "穿龍棍秘傳EX黒"
     },
     {
       "index": "10178",
-      "target": "Tonfa皮nEX?Blu"
+      "target": "穿龍棍秘傳EX青"
     },
     {
       "index": "10180",
-      "target": "ShitenKey"
+      "target": "四殿調"
     },
     {
       "index": "10181",
-      "target": "ShitenLock"
+      "target": "四殿鎖定"
     },
     {
       "index": "10186",
-      "target": "ShitenSeal"
+      "target": "四殿封印"
     },
     {
       "index": "10187",
-      "target": "金Pawstamp"
+      "target": "黄金肉球印"
     },
     {
       "index": "10188",
-      "target": "銀Pawstamp"
+      "target": "銀肉球印"
     },
     {
       "index": "10189",
-      "target": "BronzePawstamp"
+      "target": "青銅肉球印"
     },
     {
       "index": "10212",
@@ -10640,7 +10640,7 @@
     },
     {
       "index": "10641",
-      "target": "PhantomDrgnTrsr"
+      "target": "龍幻影寶"
     },
     {
       "index": "10648",
@@ -10684,7 +10684,7 @@
     },
     {
       "index": "10674",
-      "target": "DeadlyPoisonCure"
+      "target": "毒致死治"
     },
     {
       "index": "10712",
@@ -10716,11 +10716,11 @@
     },
     {
       "index": "10722",
-      "target": "SmallGears"
+      "target": "小齒輪"
     },
     {
       "index": "10723",
-      "target": "DelicateG舊Tube"
+      "target": "繊細金管"
     },
     {
       "index": "10724",
@@ -10740,7 +10740,7 @@
     },
     {
       "index": "10765",
-      "target": "GlimmeringPeach"
+      "target": "輝桃"
     },
     {
       "index": "10767",
@@ -11372,7 +11372,7 @@
     },
     {
       "index": "11252",
-      "target": "PalloneWveVelvet"
+      "target": "氣球波絲絨"
     },
     {
       "index": "11253",
@@ -11380,7 +11380,7 @@
     },
     {
       "index": "11254",
-      "target": "PalloneWveGold"
+      "target": "氣球波金"
     },
     {
       "index": "11261",
@@ -11460,7 +11460,7 @@
     },
     {
       "index": "11352",
-      "target": "NightSkyYarn"
+      "target": "夜空糸"
     },
     {
       "index": "11353",
@@ -11476,7 +11476,7 @@
     },
     {
       "index": "11356",
-      "target": "ArgentBook"
+      "target": "銀書"
     },
     {
       "index": "11357",
@@ -11508,7 +11508,7 @@
     },
     {
       "index": "11367",
-      "target": "ShinySucker"
+      "target": "閃吸盤"
     },
     {
       "index": "11381",
@@ -11524,15 +11524,15 @@
     },
     {
       "index": "11384",
-      "target": "PurityRitual・Red"
+      "target": "純潔儀式赤"
     },
     {
       "index": "11385",
-      "target": "PurityRitual・Blue"
+      "target": "純潔儀式青"
     },
     {
       "index": "11386",
-      "target": "PurityRitual・Dark"
+      "target": "純潔儀式闇"
     },
     {
       "index": "11389",
@@ -11580,7 +11580,7 @@
     },
     {
       "index": "11406",
-      "target": "Dirty藍S.布料"
+      "target": "汚青Ｓ布"
     },
     {
       "index": "11408",
@@ -11600,7 +11600,7 @@
     },
     {
       "index": "11440",
-      "target": "PalloneTrsr"
+      "target": "氣球寶"
     },
     {
       "index": "11441",
@@ -11620,15 +11620,15 @@
     },
     {
       "index": "11446",
-      "target": "EleStatusUPSigil"
+      "target": "紋章屬状態強化"
     },
     {
       "index": "11447",
-      "target": "CritDistUPSigil"
+      "target": "紋章會心距強化"
     },
     {
       "index": "11448",
-      "target": "CoatingUPSigil"
+      "target": "紋章塗強化"
     },
     {
       "index": "11449",
@@ -11800,23 +11800,23 @@
     },
     {
       "index": "11522",
-      "target": "B.HypnocBMGX1"
+      "target": "黑眠鳥劍士ＧＸ１"
     },
     {
       "index": "11523",
-      "target": "B.HypnocBMGX2"
+      "target": "黑眠鳥劍士ＧＸ２"
     },
     {
       "index": "11524",
-      "target": "B.HypnocBMGX3"
+      "target": "黑眠鳥劍士ＧＸ３"
     },
     {
       "index": "11525",
-      "target": "B.HypnocBMGX4"
+      "target": "黑眠鳥劍士ＧＸ４"
     },
     {
       "index": "11526",
-      "target": "B.HypnocBMGX5"
+      "target": "黑眠鳥劍士ＧＸ５"
     },
     {
       "index": "11527",
@@ -11828,23 +11828,23 @@
     },
     {
       "index": "11529",
-      "target": "B.HypnocGNGX1"
+      "target": "黑眠鳥射手ＧＸ１"
     },
     {
       "index": "11530",
-      "target": "B.HypnocGNGX2"
+      "target": "黑眠鳥射手ＧＸ２"
     },
     {
       "index": "11531",
-      "target": "B.HypnocGNGX3"
+      "target": "黑眠鳥射手ＧＸ３"
     },
     {
       "index": "11532",
-      "target": "B.HypnocGNGX4"
+      "target": "黑眠鳥射手ＧＸ４"
     },
     {
       "index": "11533",
-      "target": "B.HypnocGNGX5"
+      "target": "黑眠鳥射手ＧＸ５"
     },
     {
       "index": "11534",
@@ -12020,15 +12020,15 @@
     },
     {
       "index": "11700",
-      "target": "NPSnSMat"
+      "target": "NP片手劍素材"
     },
     {
       "index": "11701",
-      "target": "B.DiablosWornShl"
+      "target": "黑角龍旧的殻"
     },
     {
       "index": "11702",
-      "target": "B.DiablosWornFng"
+      "target": "黑角龍旧的牙"
     },
     {
       "index": "11705",
@@ -12052,7 +12052,7 @@
     },
     {
       "index": "11710",
-      "target": "W.MonoblosHardFng"
+      "target": "白一角龍硬的牙"
     },
     {
       "index": "11711",
@@ -12068,7 +12068,7 @@
     },
     {
       "index": "11717",
-      "target": "Dirty金Tooth"
+      "target": "汚黄金齒"
     },
     {
       "index": "11719",
@@ -12140,15 +12140,15 @@
     },
     {
       "index": "11769",
-      "target": "Neko寶石Plum"
+      "target": "猫寶玉梅"
     },
     {
       "index": "11770",
-      "target": "Neko寶石Apricot"
+      "target": "猫寶玉杏"
     },
     {
       "index": "11771",
-      "target": "Neko寶石Violet"
+      "target": "猫珠菫"
     },
     {
       "index": "11772",
@@ -12768,7 +12768,7 @@
     },
     {
       "index": "12046",
-      "target": "Solemn紫Cloth"
+      "target": "厳粛紫布"
     },
     {
       "index": "12047",
@@ -12792,7 +12792,7 @@
     },
     {
       "index": "12055",
-      "target": "ThornySeashell"
+      "target": "荊棘貝殼"
     },
     {
       "index": "12056",
@@ -12800,11 +12800,11 @@
     },
     {
       "index": "12057",
-      "target": "FragrantFishingLine"
+      "target": "芳釣行"
     },
     {
       "index": "12058",
-      "target": "FragrantFishNet"
+      "target": "芳魚網"
     },
     {
       "index": "12059",
@@ -12916,15 +12916,15 @@
     },
     {
       "index": "12112",
-      "target": "Mystery白Bill"
+      "target": "謎白嘴"
     },
     {
       "index": "12113",
-      "target": "Mystery紅Bill"
+      "target": "謎赤嘴"
     },
     {
       "index": "12114",
-      "target": "MysteryYellwBill"
+      "target": "謎黄嘴"
     },
     {
       "index": "12115",
@@ -12932,7 +12932,7 @@
     },
     {
       "index": "12116",
-      "target": "Mystery藍Bill"
+      "target": "謎青嘴"
     },
     {
       "index": "12119",
@@ -12940,7 +12940,7 @@
     },
     {
       "index": "12120",
-      "target": "GorgeousCrest"
+      "target": "紋章華麗"
     },
     {
       "index": "12122",
@@ -12956,7 +12956,7 @@
     },
     {
       "index": "12125",
-      "target": "DirtyBookmark"
+      "target": "汚書籤"
     },
     {
       "index": "12126",
@@ -13248,11 +13248,11 @@
     },
     {
       "index": "12308",
-      "target": "O.EspiAbsoluteScl"
+      "target": "棘茶龍的絶対的鱗"
     },
     {
       "index": "12309",
-      "target": "O.EspiAbsoluteShl"
+      "target": "棘茶龍的絶対的殻"
     },
     {
       "index": "12311",
@@ -13300,7 +13300,7 @@
     },
     {
       "index": "12338",
-      "target": "LocketofHealing"
+      "target": "墜飾治療"
     },
     {
       "index": "12339",
@@ -13328,19 +13328,19 @@
     },
     {
       "index": "12345",
-      "target": "FancyQuillPen"
+      "target": "華羽筆"
     },
     {
       "index": "12346",
-      "target": "舊QuillPen"
+      "target": "舊羽筆"
     },
     {
       "index": "12347",
-      "target": "BigQuillPen"
+      "target": "大羽筆"
     },
     {
       "index": "12348",
-      "target": "SmallQuillPen"
+      "target": "小羽筆"
     },
     {
       "index": "12349",
@@ -13556,7 +13556,7 @@
     },
     {
       "index": "12506",
-      "target": "DawnDocs"
+      "target": "暁文書"
     },
     {
       "index": "12507",
@@ -13572,7 +13572,7 @@
     },
     {
       "index": "12513",
-      "target": "ShiusuCoin"
+      "target": "四隅硬幣"
     },
     {
       "index": "12514",
@@ -13580,7 +13580,7 @@
     },
     {
       "index": "12515",
-      "target": "ShiusuInsectCoin"
+      "target": "四隅蟲硬幣"
     },
     {
       "index": "12516",
@@ -14148,7 +14148,7 @@
     },
     {
       "index": "12770",
-      "target": "ThornyFlower"
+      "target": "荊棘花"
     },
     {
       "index": "12774",
@@ -14208,7 +14208,7 @@
     },
     {
       "index": "12808",
-      "target": "OdiAbsoluteShl"
+      "target": "奧迪絶対的殻"
     },
     {
       "index": "12810",
@@ -14232,7 +14232,7 @@
     },
     {
       "index": "12825",
-      "target": "藍Kut-KuRinger"
+      "target": "怪鳥青空鈴"
     },
     {
       "index": "12827",
@@ -14348,7 +14348,7 @@
     },
     {
       "index": "12881",
-      "target": "GuildmasterHead"
+      "target": "公會長的頭"
     },
     {
       "index": "12882",
@@ -14364,19 +14364,19 @@
     },
     {
       "index": "12885",
-      "target": "GuildmasterChest"
+      "target": "公會長胴"
     },
     {
       "index": "12886",
-      "target": "GuildmasterArms"
+      "target": "公會長腕"
     },
     {
       "index": "12887",
-      "target": "GuildmasterWaist"
+      "target": "公會長腰"
     },
     {
       "index": "12888",
-      "target": "GuildmasterLegs"
+      "target": "公會長脚"
     },
     {
       "index": "12937",
@@ -14620,11 +14620,11 @@
     },
     {
       "index": "13072",
-      "target": "藍Candle"
+      "target": "青燭"
     },
     {
       "index": "13073",
-      "target": "紅Candle"
+      "target": "赤燭"
     },
     {
       "index": "13074",
@@ -14684,35 +14684,35 @@
     },
     {
       "index": "13196",
-      "target": "SAF皮n?White"
+      "target": "劍槍秘傳白"
     },
     {
       "index": "13197",
-      "target": "SAF皮n?Red"
+      "target": "劍槍秘傳赤"
     },
     {
       "index": "13198",
-      "target": "SAF皮n?Black"
+      "target": "劍槍秘傳黒"
     },
     {
       "index": "13199",
-      "target": "SAF皮n?Blue"
+      "target": "劍槍秘傳青"
     },
     {
       "index": "13200",
-      "target": "SAF皮nEX?White"
+      "target": "劍槍秘傳EX白"
     },
     {
       "index": "13201",
-      "target": "SAF皮nEX?Red"
+      "target": "劍槍秘傳EX赤"
     },
     {
       "index": "13202",
-      "target": "SAF皮nEX?Black"
+      "target": "劍槍秘傳EX黒"
     },
     {
       "index": "13203",
-      "target": "SAF皮nEX?Blue"
+      "target": "劍槍秘傳EX青"
     },
     {
       "index": "13204",
@@ -15080,11 +15080,11 @@
     },
     {
       "index": "13311",
-      "target": "GAttack・Draw"
+      "target": "Ｇ攻撃抽"
     },
     {
       "index": "13312",
-      "target": "GIssen・Draw"
+      "target": "Ｇ一閃抽"
     },
     {
       "index": "13313",
@@ -15116,11 +15116,11 @@
     },
     {
       "index": "13320",
-      "target": "GAttack・Resist"
+      "target": "Ｇ攻撃抵抗"
     },
     {
       "index": "13321",
-      "target": "GIssen・Resist"
+      "target": "Ｇ一閃抵抗"
     },
     {
       "index": "13322",
@@ -15132,7 +15132,7 @@
     },
     {
       "index": "13325",
-      "target": "SolemnThorns"
+      "target": "厳粛的棘"
     },
     {
       "index": "13336",
@@ -15144,7 +15144,7 @@
     },
     {
       "index": "13339",
-      "target": "Ruko.MagneticWve"
+      "target": "極龍磁気波"
     },
     {
       "index": "13340",
@@ -15152,7 +15152,7 @@
     },
     {
       "index": "13345",
-      "target": "Ruko紅Membrane"
+      "target": "嵐龍赤膜"
     },
     {
       "index": "13368",
@@ -15572,7 +15572,7 @@
     },
     {
       "index": "13636",
-      "target": "NPSAFMat"
+      "target": "NP劍槍素材"
     },
     {
       "index": "13637",
@@ -15588,211 +15588,211 @@
     },
     {
       "index": "13640",
-      "target": "SnSTrue?White"
+      "target": "片手劍真白"
     },
     {
       "index": "13641",
-      "target": "SnSTrue?Red"
+      "target": "片手劍真赤"
     },
     {
       "index": "13642",
-      "target": "SnSTrue?Black"
+      "target": "片手劍真黒"
     },
     {
       "index": "13643",
-      "target": "SnSTrue?Blue"
+      "target": "片手劍真青"
     },
     {
       "index": "13644",
-      "target": "DSTrue?White"
+      "target": "雙劍真白"
     },
     {
       "index": "13645",
-      "target": "DSTrue?Red"
+      "target": "雙劍真赤"
     },
     {
       "index": "13646",
-      "target": "DSTrue?Black"
+      "target": "雙劍真黒"
     },
     {
       "index": "13647",
-      "target": "DSTrue?Blue"
+      "target": "雙劍真青"
     },
     {
       "index": "13648",
-      "target": "GSTrue?White"
+      "target": "大劍真白"
     },
     {
       "index": "13649",
-      "target": "GSTrue?Red"
+      "target": "大劍真赤"
     },
     {
       "index": "13650",
-      "target": "GSTrue?Black"
+      "target": "大劍真黒"
     },
     {
       "index": "13651",
-      "target": "GSTrue?Blue"
+      "target": "大劍真青"
     },
     {
       "index": "13652",
-      "target": "LSTrue?White"
+      "target": "太刀真白"
     },
     {
       "index": "13653",
-      "target": "LSTrue?Red"
+      "target": "太刀真赤"
     },
     {
       "index": "13654",
-      "target": "LSTrue?Black"
+      "target": "太刀真黒"
     },
     {
       "index": "13655",
-      "target": "LSTrue?Blue"
+      "target": "太刀真青"
     },
     {
       "index": "13656",
-      "target": "HammerTrue?White"
+      "target": "大錘真白"
     },
     {
       "index": "13657",
-      "target": "HammerTrue?Red"
+      "target": "大錘真赤"
     },
     {
       "index": "13658",
-      "target": "HammerTrue?Black"
+      "target": "大錘真黒"
     },
     {
       "index": "13659",
-      "target": "HammerTrue?Blue"
+      "target": "大錘真青"
     },
     {
       "index": "13660",
-      "target": "HHTrue?White"
+      "target": "狩獵笛真白"
     },
     {
       "index": "13661",
-      "target": "HHTrue?Red"
+      "target": "狩獵笛真赤"
     },
     {
       "index": "13662",
-      "target": "HHTrue?Black"
+      "target": "狩獵笛真黒"
     },
     {
       "index": "13663",
-      "target": "HHTrue?Blue"
+      "target": "狩獵笛真青"
     },
     {
       "index": "13664",
-      "target": "LanceTrue?White"
+      "target": "長槍真白"
     },
     {
       "index": "13665",
-      "target": "LanceTrue?Red"
+      "target": "長槍真赤"
     },
     {
       "index": "13666",
-      "target": "LanceTrue?Black"
+      "target": "長槍真黒"
     },
     {
       "index": "13667",
-      "target": "LanceTrue?Blue"
+      "target": "長槍真青"
     },
     {
       "index": "13668",
-      "target": "GLTrue?White"
+      "target": "銃槍真白"
     },
     {
       "index": "13669",
-      "target": "GLTrue?Red"
+      "target": "銃槍真赤"
     },
     {
       "index": "13670",
-      "target": "GLTrue?Black"
+      "target": "銃槍真黒"
     },
     {
       "index": "13671",
-      "target": "GLTrue?Blue"
+      "target": "銃槍真青"
     },
     {
       "index": "13672",
-      "target": "SAFTrue?White"
+      "target": "劍槍真白"
     },
     {
       "index": "13673",
-      "target": "SAFTrue?Red"
+      "target": "劍槍真赤"
     },
     {
       "index": "13674",
-      "target": "SAFTrue?Black"
+      "target": "劍槍真黒"
     },
     {
       "index": "13675",
-      "target": "SAFTrue?Blue"
+      "target": "劍槍真青"
     },
     {
       "index": "13676",
-      "target": "TonfaTrue?White"
+      "target": "穿龍棍真白"
     },
     {
       "index": "13677",
-      "target": "TonfaTrue?Red"
+      "target": "穿龍棍真赤"
     },
     {
       "index": "13678",
-      "target": "TonfaTrue?Black"
+      "target": "穿龍棍真黒"
     },
     {
       "index": "13679",
-      "target": "TonfaTrue?Blue"
+      "target": "穿龍棍真青"
     },
     {
       "index": "13680",
-      "target": "HBGTrue?White"
+      "target": "重弩真白"
     },
     {
       "index": "13681",
-      "target": "HBGTrue?Red"
+      "target": "重弩真赤"
     },
     {
       "index": "13682",
-      "target": "HBGTrue?Black"
+      "target": "重弩真黒"
     },
     {
       "index": "13683",
-      "target": "HBGTrue?Blue"
+      "target": "重弩真青"
     },
     {
       "index": "13684",
-      "target": "LBGTrue?White"
+      "target": "輕弩真白"
     },
     {
       "index": "13685",
-      "target": "LBGTrue?Red"
+      "target": "輕弩真赤"
     },
     {
       "index": "13686",
-      "target": "LBGTrue?Black"
+      "target": "輕弩真黒"
     },
     {
       "index": "13687",
-      "target": "LBGTrue?Blue"
+      "target": "輕弩真青"
     },
     {
       "index": "13688",
-      "target": "BowTrue?White"
+      "target": "弓真白"
     },
     {
       "index": "13689",
-      "target": "BowTrue?Red"
+      "target": "弓真赤"
     },
     {
       "index": "13690",
-      "target": "BowTrue?Black"
+      "target": "弓真黒"
     },
     {
       "index": "13691",
-      "target": "BowTrue?Blue"
+      "target": "弓真青"
     },
     {
       "index": "13692",
@@ -15828,7 +15828,7 @@
     },
     {
       "index": "13781",
-      "target": "Torn鱗s"
+      "target": "裂的鱗"
     },
     {
       "index": "13783",
@@ -15888,7 +15888,7 @@
     },
     {
       "index": "13886",
-      "target": "DrugKnowledgeUpSZ"
+      "target": "藥知識強化ＳＺ"
     },
     {
       "index": "13887",
@@ -16000,7 +16000,7 @@
     },
     {
       "index": "13933",
-      "target": "UniqueBlk鱗s"
+      "target": "獨特黒的鱗"
     },
     {
       "index": "13937",
@@ -16084,7 +16084,7 @@
     },
     {
       "index": "13982",
-      "target": "NewYearsGift\"Bird\""
+      "target": "新年贈禮鳥"
     },
     {
       "index": "13983",
@@ -16100,43 +16100,43 @@
     },
     {
       "index": "13993",
-      "target": "DemoncladBMGX1"
+      "target": "鬼装劍士ＧＸ１"
     },
     {
       "index": "13994",
-      "target": "DemoncladBMGX2"
+      "target": "鬼装劍士ＧＸ２"
     },
     {
       "index": "13995",
-      "target": "DemoncladBMGX3"
+      "target": "鬼装劍士ＧＸ３"
     },
     {
       "index": "13996",
-      "target": "DemoncladBMGX4"
+      "target": "鬼装劍士ＧＸ４"
     },
     {
       "index": "13997",
-      "target": "DemoncladBMGX5"
+      "target": "鬼装劍士ＧＸ５"
     },
     {
       "index": "14000",
-      "target": "DojicladGNGX1"
+      "target": "道着射手ＧＸ１"
     },
     {
       "index": "14001",
-      "target": "DojicladGNGX2"
+      "target": "道着射手ＧＸ２"
     },
     {
       "index": "14002",
-      "target": "DojicladGNGX3"
+      "target": "道着射手ＧＸ３"
     },
     {
       "index": "14003",
-      "target": "DojicladGNGX4"
+      "target": "道着射手ＧＸ４"
     },
     {
       "index": "14004",
-      "target": "DojicladGNGX5"
+      "target": "道着射手ＧＸ５"
     },
     {
       "index": "14024",
@@ -16168,7 +16168,7 @@
     },
     {
       "index": "14048",
-      "target": "VashimuStrongJaw"
+      "target": "尾晶蠍強顎"
     },
     {
       "index": "14062",
@@ -16216,7 +16216,7 @@
     },
     {
       "index": "14101",
-      "target": "HotCookies"
+      "target": "熱餅乾"
     },
     {
       "index": "14102",
@@ -16644,27 +16644,27 @@
     },
     {
       "index": "14331",
-      "target": "RawRibbon[Low]"
+      "target": "生飾帶下位"
     },
     {
       "index": "14332",
-      "target": "RawRibbon[Mid]"
+      "target": "生飾帶中位"
     },
     {
       "index": "14333",
-      "target": "RawRibbon[High]"
+      "target": "生飾帶上位"
     },
     {
       "index": "14334",
-      "target": "RawMerit[Low]"
+      "target": "生功績下位"
     },
     {
       "index": "14335",
-      "target": "RawMerit[Mid]"
+      "target": "生功績中位"
     },
     {
       "index": "14336",
-      "target": "RawMerit[High]"
+      "target": "生功績上位"
     },
     {
       "index": "14339",
@@ -16672,23 +16672,23 @@
     },
     {
       "index": "14346",
-      "target": "CourrierNotesⅠ"
+      "target": "信使音符Ⅰ"
     },
     {
       "index": "14347",
-      "target": "CourrierNotesⅡ"
+      "target": "信使音符Ⅱ"
     },
     {
       "index": "14348",
-      "target": "CourrierNotesⅢ"
+      "target": "信使音符Ⅲ"
     },
     {
       "index": "14349",
-      "target": "CourrierNotesⅣ"
+      "target": "信使音符Ⅳ"
     },
     {
       "index": "14350",
-      "target": "CourrierNotesⅤ"
+      "target": "信使音符Ⅴ"
     },
     {
       "index": "14351",
@@ -16776,7 +16776,7 @@
     },
     {
       "index": "14396",
-      "target": "W.FataPaleWngClw"
+      "target": "白黒龍蒼翼的爪"
     },
     {
       "index": "14399",
@@ -16956,7 +16956,7 @@
     },
     {
       "index": "14529",
-      "target": "RukoShrpMagnetClw"
+      "target": "嵐龍的斬位磁鐵的爪"
     },
     {
       "index": "14537",
@@ -16964,7 +16964,7 @@
     },
     {
       "index": "14541",
-      "target": "RukoZHighWng"
+      "target": "嵐龍的Ｚ上位的翼"
     },
     {
       "index": "14551",
@@ -17100,7 +17100,7 @@
     },
     {
       "index": "14623",
-      "target": "DrugKnowledgeUpSigil"
+      "target": "紋章藥知識強化"
     },
     {
       "index": "14624",
@@ -17192,7 +17192,7 @@
     },
     {
       "index": "14705",
-      "target": "MadokaProductionD"
+      "target": "圓生産Ｄ"
     },
     {
       "index": "14706",
@@ -17380,15 +17380,15 @@
     },
     {
       "index": "14784",
-      "target": "GBreak・Blade"
+      "target": "Ｇ破刃"
     },
     {
       "index": "14785",
-      "target": "GBreak・Gunner"
+      "target": "Ｇ破射手"
     },
     {
       "index": "14786",
-      "target": "GBreak・Protect"
+      "target": "Ｇ破守"
     },
     {
       "index": "14787",
@@ -17508,11 +17508,11 @@
     },
     {
       "index": "14858",
-      "target": "AbsoluteArmorSphere"
+      "target": "防具絶対球"
     },
     {
       "index": "14861",
-      "target": "ToridLovelyWngClw"
+      "target": "照雷鳥的可愛翼的爪"
     },
     {
       "index": "14863",
@@ -17660,7 +17660,7 @@
     },
     {
       "index": "14941",
-      "target": "GAbnorm・Draw"
+      "target": "Ｇ異常抽"
     },
     {
       "index": "14942",
@@ -17688,23 +17688,23 @@
     },
     {
       "index": "14956",
-      "target": "AnoruZSawhorn"
+      "target": "氷狐龍Ｚ鋸角"
     },
     {
       "index": "14957",
-      "target": "AnoruZMidSawhorn"
+      "target": "氷狐龍Ｚ中位鋸角"
     },
     {
       "index": "14958",
-      "target": "AnoruZHighSawhorn"
+      "target": "氷狐龍Ｚ上位鋸角"
     },
     {
       "index": "14959",
-      "target": "AnoruZTopSawhorn"
+      "target": "氷狐龍Ｚ頂鋸角"
     },
     {
       "index": "14969",
-      "target": "GasuraPoisonGland"
+      "target": "鎧竜毒腺"
     },
     {
       "index": "14972",
@@ -17940,7 +17940,7 @@
     },
     {
       "index": "15090",
-      "target": "GSpacing・Draw"
+      "target": "Ｇ間隔抽"
     },
     {
       "index": "15091",
@@ -18108,11 +18108,11 @@
     },
     {
       "index": "15217",
-      "target": "ShakaPoisonLump"
+      "target": "毒沙加團"
     },
     {
       "index": "15218",
-      "target": "ShakaVenomLump"
+      "target": "沙加猛毒團"
     },
     {
       "index": "15219",
@@ -18496,7 +18496,7 @@
     },
     {
       "index": "15479",
-      "target": "BaruCrimsonGland"
+      "target": "噬血龍深紅腺"
     },
     {
       "index": "15481",
@@ -18504,7 +18504,7 @@
     },
     {
       "index": "15482",
-      "target": "Baru鰭eTentacle"
+      "target": "噬血龍精触手"
     },
     {
       "index": "15483",
@@ -18696,51 +18696,51 @@
     },
     {
       "index": "15542",
-      "target": "MS皮n?White"
+      "target": "磁界銃秘傳白"
     },
     {
       "index": "15543",
-      "target": "MS皮n?Red"
+      "target": "磁界銃秘傳赤"
     },
     {
       "index": "15544",
-      "target": "MS皮n?Black"
+      "target": "磁界銃秘傳黒"
     },
     {
       "index": "15545",
-      "target": "MS皮n?Blue"
+      "target": "磁界銃秘傳青"
     },
     {
       "index": "15546",
-      "target": "MSTrue?White"
+      "target": "磁界銃真白"
     },
     {
       "index": "15547",
-      "target": "MSTrue?Red"
+      "target": "磁界銃真赤"
     },
     {
       "index": "15548",
-      "target": "MSTrue?Black"
+      "target": "磁界銃真黒"
     },
     {
       "index": "15549",
-      "target": "MSTrue?Blue"
+      "target": "磁界銃真青"
     },
     {
       "index": "15550",
-      "target": "MS皮nEX?White"
+      "target": "磁界銃秘傳EX白"
     },
     {
       "index": "15551",
-      "target": "MS皮nEX?Red"
+      "target": "磁界銃秘傳EX赤"
     },
     {
       "index": "15552",
-      "target": "MS皮nEX?Black"
+      "target": "磁界銃秘傳EX黒"
     },
     {
       "index": "15553",
-      "target": "MS皮nEX?Blue"
+      "target": "磁界銃秘傳EX青"
     },
     {
       "index": "15554",
@@ -18768,7 +18768,7 @@
     },
     {
       "index": "15561",
-      "target": "WingsofPassion"
+      "target": "翼情熱"
     },
     {
       "index": "15562",
@@ -18788,39 +18788,39 @@
     },
     {
       "index": "15567",
-      "target": "技能SlotsUpPZ1"
+      "target": "技能孔強化PZ1"
     },
     {
       "index": "15568",
-      "target": "技能SlotsUpPZ2"
+      "target": "技能孔強化PZ2"
     },
     {
       "index": "15569",
-      "target": "技能SlotsUpPZ3"
+      "target": "技能孔強化PZ3"
     },
     {
       "index": "15570",
-      "target": "技能SlotsUpPZ4"
+      "target": "技能孔強化PZ4"
     },
     {
       "index": "15571",
-      "target": "技能SlotsUpPZ5"
+      "target": "技能孔強化PZ5"
     },
     {
       "index": "15572",
-      "target": "技能SlotsUpPZ6"
+      "target": "技能孔強化PZ6"
     },
     {
       "index": "15573",
-      "target": "技能SlotsUpPZ7"
+      "target": "技能孔強化PZ7"
     },
     {
       "index": "15574",
-      "target": "技能SlotsUpPZ8"
+      "target": "技能孔強化PZ8"
     },
     {
       "index": "15575",
-      "target": "技能SlotsUpPZ9"
+      "target": "技能孔強化PZ9"
     },
     {
       "index": "15576",
@@ -19008,583 +19008,583 @@
     },
     {
       "index": "15622",
-      "target": "CritConvUpPZ1"
+      "target": "會心轉換強化PZ1"
     },
     {
       "index": "15623",
-      "target": "CritConvUpPZ2"
+      "target": "會心轉換強化PZ2"
     },
     {
       "index": "15624",
-      "target": "CritConvUpPZ3"
+      "target": "會心轉換強化PZ3"
     },
     {
       "index": "15625",
-      "target": "CritConvUpPZ4"
+      "target": "會心轉換強化PZ4"
     },
     {
       "index": "15626",
-      "target": "CritConvUpPZ5"
+      "target": "會心轉換強化PZ5"
     },
     {
       "index": "15627",
-      "target": "CritConvUpPZ6"
+      "target": "會心轉換強化PZ6"
     },
     {
       "index": "15628",
-      "target": "CritConvUpPZ7"
+      "target": "會心轉換強化PZ7"
     },
     {
       "index": "15629",
-      "target": "ThunderCladUpPZ1"
+      "target": "雷纏強化PZ1"
     },
     {
       "index": "15630",
-      "target": "ThunderCladUpPZ2"
+      "target": "雷纏強化PZ2"
     },
     {
       "index": "15631",
-      "target": "ThunderCladUpPZ3"
+      "target": "雷纏強化PZ3"
     },
     {
       "index": "15632",
-      "target": "ThunderCladUpPZ4"
+      "target": "雷纏強化PZ4"
     },
     {
       "index": "15633",
-      "target": "ThunderCladUpPZ5"
+      "target": "雷纏強化PZ5"
     },
     {
       "index": "15634",
-      "target": "ThunderCladUpPZ6"
+      "target": "雷纏強化PZ6"
     },
     {
       "index": "15635",
-      "target": "ThunderCladUpPZ7"
+      "target": "雷纏強化PZ7"
     },
     {
       "index": "15636",
-      "target": "S.AssaultUpPZ1"
+      "target": "強強襲強化PZ1"
     },
     {
       "index": "15637",
-      "target": "S.AssaultUpPZ2"
+      "target": "強強襲強化PZ2"
     },
     {
       "index": "15638",
-      "target": "S.AssaultUpPZ3"
+      "target": "強強襲強化PZ3"
     },
     {
       "index": "15639",
-      "target": "S.AssaultUpPZ4"
+      "target": "強強襲強化PZ4"
     },
     {
       "index": "15640",
-      "target": "S.AssaultUpPZ5"
+      "target": "強強襲強化PZ5"
     },
     {
       "index": "15641",
-      "target": "S.AssaultUpPZ6"
+      "target": "強強襲強化PZ6"
     },
     {
       "index": "15642",
-      "target": "VampirismUpPZ1"
+      "target": "吸血強化PZ1"
     },
     {
       "index": "15643",
-      "target": "VampirismUpPZ2"
+      "target": "吸血強化PZ2"
     },
     {
       "index": "15644",
-      "target": "VampirismUpPZ3"
+      "target": "吸血強化PZ3"
     },
     {
       "index": "15645",
-      "target": "VampirismUpPZ4"
+      "target": "吸血強化PZ4"
     },
     {
       "index": "15646",
-      "target": "VampirismUpPZ5"
+      "target": "吸血強化PZ5"
     },
     {
       "index": "15647",
-      "target": "VampirismUpPZ6"
+      "target": "吸血強化PZ6"
     },
     {
       "index": "15648",
-      "target": "DissolverUpPZ1"
+      "target": "溶解強化PZ1"
     },
     {
       "index": "15649",
-      "target": "DissolverUpPZ2"
+      "target": "溶解強化PZ2"
     },
     {
       "index": "15650",
-      "target": "DissolverUpPZ3"
+      "target": "溶解強化PZ3"
     },
     {
       "index": "15651",
-      "target": "DissolverUpPZ4"
+      "target": "溶解強化PZ4"
     },
     {
       "index": "15652",
-      "target": "DissolverUpPZ5"
+      "target": "溶解強化PZ5"
     },
     {
       "index": "15653",
-      "target": "DissolverUpPZ6"
+      "target": "溶解強化PZ6"
     },
     {
       "index": "15654",
-      "target": "IceAgeUpPZ1"
+      "target": "冰齡強化PZ1"
     },
     {
       "index": "15655",
-      "target": "IceAgeUpPZ2"
+      "target": "冰齡強化PZ2"
     },
     {
       "index": "15656",
-      "target": "IceAgeUpPZ3"
+      "target": "冰齡強化PZ3"
     },
     {
       "index": "15657",
-      "target": "IceAgeUpPZ4"
+      "target": "冰齡強化PZ4"
     },
     {
       "index": "15658",
-      "target": "IceAgeUpPZ5"
+      "target": "冰齡強化PZ5"
     },
     {
       "index": "15659",
-      "target": "IceAgeUpPZ6"
+      "target": "冰齡強化PZ6"
     },
     {
       "index": "15660",
-      "target": "DrugK.UpPZ1"
+      "target": "藥ｋ強化PZ1"
     },
     {
       "index": "15661",
-      "target": "DrugK.UpPZ2"
+      "target": "藥ｋ強化PZ2"
     },
     {
       "index": "15662",
-      "target": "DrugK.UpPZ3"
+      "target": "藥ｋ強化PZ3"
     },
     {
       "index": "15663",
-      "target": "DrugK.UpPZ4"
+      "target": "藥ｋ強化PZ4"
     },
     {
       "index": "15664",
-      "target": "DrugK.UpPZ5"
+      "target": "藥ｋ強化PZ5"
     },
     {
       "index": "15665",
-      "target": "DrugK.UpPZ6"
+      "target": "藥ｋ強化PZ6"
     },
     {
       "index": "15666",
-      "target": "AssistanceUpPZ1"
+      "target": "支援強化PZ1"
     },
     {
       "index": "15667",
-      "target": "AssistanceUpPZ2"
+      "target": "支援強化PZ2"
     },
     {
       "index": "15668",
-      "target": "AssistanceUpPZ3"
+      "target": "支援強化PZ3"
     },
     {
       "index": "15669",
-      "target": "AssistanceUpPZ4"
+      "target": "支援強化PZ4"
     },
     {
       "index": "15670",
-      "target": "AssistanceUpPZ5"
+      "target": "支援強化PZ5"
     },
     {
       "index": "15671",
-      "target": "AssistanceUpPZ6"
+      "target": "支援強化PZ6"
     },
     {
       "index": "15672",
-      "target": "RushUpPZ1"
+      "target": "突進強化PZ1"
     },
     {
       "index": "15673",
-      "target": "RushUpPZ2"
+      "target": "突進強化PZ2"
     },
     {
       "index": "15674",
-      "target": "RushUpPZ3"
+      "target": "突進強化PZ3"
     },
     {
       "index": "15675",
-      "target": "RushUpPZ4"
+      "target": "突進強化PZ4"
     },
     {
       "index": "15676",
-      "target": "RushUpPZ5"
+      "target": "突進強化PZ5"
     },
     {
       "index": "15677",
-      "target": "RushUpPZ6"
+      "target": "突進強化PZ6"
     },
     {
       "index": "15678",
-      "target": "RushUpPZ7"
+      "target": "突進強化PZ7"
     },
     {
       "index": "15679",
-      "target": "AdaptationUpPZ1"
+      "target": "適應強化PZ1"
     },
     {
       "index": "15680",
-      "target": "AdaptationUpPZ2"
+      "target": "適應強化PZ2"
     },
     {
       "index": "15681",
-      "target": "AdaptationUpPZ3"
+      "target": "適應強化PZ3"
     },
     {
       "index": "15682",
-      "target": "AdaptationUpPZ4"
+      "target": "適應強化PZ4"
     },
     {
       "index": "15683",
-      "target": "AdaptationUpPZ5"
+      "target": "適應強化PZ5"
     },
     {
       "index": "15684",
-      "target": "AdaptationUpPZ6"
+      "target": "適應強化PZ6"
     },
     {
       "index": "15685",
-      "target": "EncourageUpPZ1"
+      "target": "激勵強化PZ1"
     },
     {
       "index": "15686",
-      "target": "EncourageUpPZ2"
+      "target": "激勵強化PZ2"
     },
     {
       "index": "15687",
-      "target": "EncourageUpPZ3"
+      "target": "激勵強化PZ3"
     },
     {
       "index": "15688",
-      "target": "EncourageUpPZ4"
+      "target": "激勵強化PZ4"
     },
     {
       "index": "15689",
-      "target": "EncourageUpPZ5"
+      "target": "激勵強化PZ5"
     },
     {
       "index": "15690",
-      "target": "EncourageUpPZ6"
+      "target": "激勵強化PZ6"
     },
     {
       "index": "15691",
-      "target": "ReflectUpPZ1"
+      "target": "反射強化PZ1"
     },
     {
       "index": "15692",
-      "target": "ReflectUpPZ2"
+      "target": "反射強化PZ2"
     },
     {
       "index": "15693",
-      "target": "ReflectUpPZ3"
+      "target": "反射強化PZ3"
     },
     {
       "index": "15694",
-      "target": "ReflectUpPZ4"
+      "target": "反射強化PZ4"
     },
     {
       "index": "15695",
-      "target": "ReflectUpPZ5"
+      "target": "反射強化PZ5"
     },
     {
       "index": "15696",
-      "target": "ReflectUpPZ6"
+      "target": "反射強化PZ6"
     },
     {
       "index": "15697",
-      "target": "StylishUpPZ1"
+      "target": "時装強化PZ1"
     },
     {
       "index": "15698",
-      "target": "StylishUpPZ2"
+      "target": "時装強化PZ2"
     },
     {
       "index": "15699",
-      "target": "StylishUpPZ3"
+      "target": "時装強化PZ3"
     },
     {
       "index": "15700",
-      "target": "StylishUpPZ4"
+      "target": "時装強化PZ4"
     },
     {
       "index": "15701",
-      "target": "StylishUpPZ5"
+      "target": "時装強化PZ5"
     },
     {
       "index": "15702",
-      "target": "StylishUpPZ6"
+      "target": "時装強化PZ6"
     },
     {
       "index": "15703",
-      "target": "VigorousUpPZ1"
+      "target": "健強化PZ1"
     },
     {
       "index": "15704",
-      "target": "VigorousUpPZ2"
+      "target": "健強化PZ2"
     },
     {
       "index": "15705",
-      "target": "VigorousUpPZ3"
+      "target": "健強化PZ3"
     },
     {
       "index": "15706",
-      "target": "VigorousUpPZ4"
+      "target": "健強化PZ4"
     },
     {
       "index": "15707",
-      "target": "VigorousUpPZ5"
+      "target": "健強化PZ5"
     },
     {
       "index": "15708",
-      "target": "VigorousUpPZ6"
+      "target": "健強化PZ6"
     },
     {
       "index": "15709",
-      "target": "ObscurityUpPZ1"
+      "target": "幽闇強化PZ1"
     },
     {
       "index": "15710",
-      "target": "ObscurityUpPZ2"
+      "target": "幽闇強化PZ2"
     },
     {
       "index": "15711",
-      "target": "ObscurityUpPZ3"
+      "target": "幽闇強化PZ3"
     },
     {
       "index": "15712",
-      "target": "ObscurityUpPZ4"
+      "target": "幽闇強化PZ4"
     },
     {
       "index": "15713",
-      "target": "ObscurityUpPZ5"
+      "target": "幽闇強化PZ5"
     },
     {
       "index": "15714",
-      "target": "ObscurityUpPZ6"
+      "target": "幽闇強化PZ6"
     },
     {
       "index": "15715",
-      "target": "SoulUpPZ1"
+      "target": "魂強化PZ1"
     },
     {
       "index": "15716",
-      "target": "SoulUpPZ2"
+      "target": "魂強化PZ2"
     },
     {
       "index": "15717",
-      "target": "SoulUpPZ3"
+      "target": "魂強化PZ3"
     },
     {
       "index": "15718",
-      "target": "SoulUpPZ4"
+      "target": "魂強化PZ4"
     },
     {
       "index": "15719",
-      "target": "SoulUpPZ5"
+      "target": "魂強化PZ5"
     },
     {
       "index": "15720",
-      "target": "SoulUpPZ6"
+      "target": "魂強化PZ6"
     },
     {
       "index": "15721",
-      "target": "SoulUpPZ7"
+      "target": "魂強化PZ7"
     },
     {
       "index": "15722",
-      "target": "EarplugsUpPZ1"
+      "target": "耳塞強化PZ1"
     },
     {
       "index": "15723",
-      "target": "EarplugsUpPZ2"
+      "target": "耳塞強化PZ2"
     },
     {
       "index": "15724",
-      "target": "EarplugsUpPZ3"
+      "target": "耳塞強化PZ3"
     },
     {
       "index": "15725",
-      "target": "EarplugsUpPZ4"
+      "target": "耳塞強化PZ4"
     },
     {
       "index": "15726",
-      "target": "EarplugsUpPZ5"
+      "target": "耳塞強化PZ5"
     },
     {
       "index": "15727",
-      "target": "WindResUpPZ1"
+      "target": "風耐性強化PZ1"
     },
     {
       "index": "15728",
-      "target": "WindResUpPZ2"
+      "target": "風耐性強化PZ2"
     },
     {
       "index": "15729",
-      "target": "WindResUpPZ3"
+      "target": "風耐性強化PZ3"
     },
     {
       "index": "15730",
-      "target": "WindResUpPZ4"
+      "target": "風耐性強化PZ4"
     },
     {
       "index": "15731",
-      "target": "WindResUpPZ5"
+      "target": "風耐性強化PZ5"
     },
     {
       "index": "15732",
-      "target": "QuakeResUpPZ1"
+      "target": "耐震耐性強化PZ1"
     },
     {
       "index": "15733",
-      "target": "QuakeResUpPZ2"
+      "target": "耐震耐性強化PZ2"
     },
     {
       "index": "15734",
-      "target": "QuakeResUpPZ3"
+      "target": "耐震耐性強化PZ3"
     },
     {
       "index": "15735",
-      "target": "QuakeResUpPZ4"
+      "target": "耐震耐性強化PZ4"
     },
     {
       "index": "15736",
-      "target": "QuakeResUpPZ5"
+      "target": "耐震耐性強化PZ5"
     },
     {
       "index": "15737",
-      "target": "PoisonResUpPZ1"
+      "target": "毒耐性強化PZ1"
     },
     {
       "index": "15738",
-      "target": "PoisonResUpPZ2"
+      "target": "毒耐性強化PZ2"
     },
     {
       "index": "15739",
-      "target": "PoisonResUpPZ3"
+      "target": "毒耐性強化PZ3"
     },
     {
       "index": "15740",
-      "target": "PoisonResUpPZ4"
+      "target": "毒耐性強化PZ4"
     },
     {
       "index": "15741",
-      "target": "PoisonResUpPZ5"
+      "target": "毒耐性強化PZ5"
     },
     {
       "index": "15742",
-      "target": "PoisonResUpPZ6"
+      "target": "毒耐性強化PZ6"
     },
     {
       "index": "15743",
-      "target": "ParaResUpPZ1"
+      "target": "麻痺耐性強化PZ1"
     },
     {
       "index": "15744",
-      "target": "ParaResUpPZ2"
+      "target": "麻痺耐性強化PZ2"
     },
     {
       "index": "15745",
-      "target": "ParaResUpPZ3"
+      "target": "麻痺耐性強化PZ3"
     },
     {
       "index": "15746",
-      "target": "ParaResUpPZ4"
+      "target": "麻痺耐性強化PZ4"
     },
     {
       "index": "15747",
-      "target": "ParaResUpPZ5"
+      "target": "麻痺耐性強化PZ5"
     },
     {
       "index": "15748",
-      "target": "ParaResUpPZ6"
+      "target": "麻痺耐性強化PZ6"
     },
     {
       "index": "15749",
-      "target": "SleepResUpPZ1"
+      "target": "睡眠耐性強化PZ1"
     },
     {
       "index": "15750",
-      "target": "SleepResUpPZ2"
+      "target": "睡眠耐性強化PZ2"
     },
     {
       "index": "15751",
-      "target": "SleepResUpPZ3"
+      "target": "睡眠耐性強化PZ3"
     },
     {
       "index": "15752",
-      "target": "SleepResUpPZ4"
+      "target": "睡眠耐性強化PZ4"
     },
     {
       "index": "15753",
-      "target": "SleepResUpPZ5"
+      "target": "睡眠耐性強化PZ5"
     },
     {
       "index": "15754",
-      "target": "SleepResUpPZ6"
+      "target": "睡眠耐性強化PZ6"
     },
     {
       "index": "15755",
-      "target": "GuardUpPZ1"
+      "target": "守衛強化PZ1"
     },
     {
       "index": "15756",
-      "target": "GuardUpPZ2"
+      "target": "守衛強化PZ2"
     },
     {
       "index": "15757",
-      "target": "GuardUpPZ3"
+      "target": "守衛強化PZ3"
     },
     {
       "index": "15758",
-      "target": "GuardUpPZ4"
+      "target": "守衛強化PZ4"
     },
     {
       "index": "15759",
-      "target": "GuardUpPZ5"
+      "target": "守衛強化PZ5"
     },
     {
       "index": "15760",
-      "target": "GuardUpPZ6"
+      "target": "守衛強化PZ6"
     },
     {
       "index": "15761",
-      "target": "BulletSaverUpPZ1"
+      "target": "弾節約強化PZ1"
     },
     {
       "index": "15762",
-      "target": "BulletSaverUpPZ2"
+      "target": "弾節約強化PZ2"
     },
     {
       "index": "15763",
-      "target": "BulletSaverUpPZ3"
+      "target": "弾節約強化PZ3"
     },
     {
       "index": "15764",
-      "target": "BulletSaverUpPZ4"
+      "target": "弾節約強化PZ4"
     },
     {
       "index": "15765",
-      "target": "BulletSaverUpPZ5"
+      "target": "弾節約強化PZ5"
     },
     {
       "index": "15766",
-      "target": "BulletSaverUpPZ6"
+      "target": "弾節約強化PZ6"
     },
     {
       "index": "15767",
@@ -19596,7 +19596,7 @@
     },
     {
       "index": "15778",
-      "target": "GearsofDestiny"
+      "target": "齒輪命運"
     },
     {
       "index": "15779",
@@ -19624,7 +19624,7 @@
     },
     {
       "index": "15825",
-      "target": "RustyGears"
+      "target": "生錆齒輪"
     },
     {
       "index": "15829",
@@ -19968,171 +19968,171 @@
     },
     {
       "index": "15919",
-      "target": "CeaselessUpPZ1"
+      "target": "無尽強化PZ1"
     },
     {
       "index": "15920",
-      "target": "CeaselessUpPZ2"
+      "target": "無尽強化PZ2"
     },
     {
       "index": "15921",
-      "target": "CeaselessUpPZ3"
+      "target": "無尽強化PZ3"
     },
     {
       "index": "15922",
-      "target": "CeaselessUpPZ4"
+      "target": "無尽強化PZ4"
     },
     {
       "index": "15923",
-      "target": "CeaselessUpPZ5"
+      "target": "無尽強化PZ5"
     },
     {
       "index": "15924",
-      "target": "CeaselessUpPZ6"
+      "target": "無尽強化PZ6"
     },
     {
       "index": "15925",
-      "target": "CeaselessUpPZ7"
+      "target": "無尽強化PZ7"
     },
     {
       "index": "15926",
-      "target": "CritConvUpPZ8"
+      "target": "會心轉換強化PZ8"
     },
     {
       "index": "15927",
-      "target": "CritConvUpPZ9"
+      "target": "會心轉換強化PZ9"
     },
     {
       "index": "15928",
-      "target": "ThunderCladUpPZ8"
+      "target": "雷纏強化PZ8"
     },
     {
       "index": "15929",
-      "target": "ThunderCladUpPZ9"
+      "target": "雷纏強化PZ9"
     },
     {
       "index": "15930",
-      "target": "S.AssaultUpPZ7"
+      "target": "強強襲強化PZ7"
     },
     {
       "index": "15931",
-      "target": "S.AssaultUpPZ8"
+      "target": "強強襲強化PZ8"
     },
     {
       "index": "15932",
-      "target": "VampirismUpPZ7"
+      "target": "吸血強化PZ7"
     },
     {
       "index": "15933",
-      "target": "VampirismUpPZ8"
+      "target": "吸血強化PZ8"
     },
     {
       "index": "15934",
-      "target": "DissolverUpPZ7"
+      "target": "溶解強化PZ7"
     },
     {
       "index": "15935",
-      "target": "IceAgeUpPZ7"
+      "target": "冰齡強化PZ7"
     },
     {
       "index": "15936",
-      "target": "DrugK.UpPZ7"
+      "target": "藥ｋ強化PZ7"
     },
     {
       "index": "15937",
-      "target": "AssistanceUpPZ7"
+      "target": "支援強化PZ7"
     },
     {
       "index": "15938",
-      "target": "AssistanceUpPZ8"
+      "target": "支援強化PZ8"
     },
     {
       "index": "15939",
-      "target": "RushUpPZ8"
+      "target": "突進強化PZ8"
     },
     {
       "index": "15940",
-      "target": "RushUpPZ9"
+      "target": "突進強化PZ9"
     },
     {
       "index": "15941",
-      "target": "AdaptationUpPZ7"
+      "target": "適應強化PZ7"
     },
     {
       "index": "15942",
-      "target": "AdaptationUpPZ8"
+      "target": "適應強化PZ8"
     },
     {
       "index": "15943",
-      "target": "EncourageUpPZ7"
+      "target": "激勵強化PZ7"
     },
     {
       "index": "15944",
-      "target": "ReflectUpPZ7"
+      "target": "反射強化PZ7"
     },
     {
       "index": "15945",
-      "target": "StylishUpPZ7"
+      "target": "時装強化PZ7"
     },
     {
       "index": "15946",
-      "target": "StylishUpPZ8"
+      "target": "時装強化PZ8"
     },
     {
       "index": "15947",
-      "target": "VigorousUpPZ7"
+      "target": "健強化PZ7"
     },
     {
       "index": "15948",
-      "target": "VigorousUpPZ8"
+      "target": "健強化PZ8"
     },
     {
       "index": "15949",
-      "target": "ObscurityUpPZ7"
+      "target": "幽闇強化PZ7"
     },
     {
       "index": "15950",
-      "target": "ObscurityUpPZ8"
+      "target": "幽闇強化PZ8"
     },
     {
       "index": "15951",
-      "target": "SoulUpPZ8"
+      "target": "魂強化PZ8"
     },
     {
       "index": "15952",
-      "target": "EarplugsUpPZ6"
+      "target": "耳塞強化PZ6"
     },
     {
       "index": "15953",
-      "target": "WindResUpPZ6"
+      "target": "風耐性強化PZ6"
     },
     {
       "index": "15954",
-      "target": "QuakeResUpPZ6"
+      "target": "耐震耐性強化PZ6"
     },
     {
       "index": "15955",
-      "target": "PoisonResUpPZ7"
+      "target": "毒耐性強化PZ7"
     },
     {
       "index": "15956",
-      "target": "ParaResUpPZ7"
+      "target": "麻痺耐性強化PZ7"
     },
     {
       "index": "15957",
-      "target": "SleepResUpPZ7"
+      "target": "睡眠耐性強化PZ7"
     },
     {
       "index": "15958",
-      "target": "GuardUpPZ7"
+      "target": "守衛強化PZ7"
     },
     {
       "index": "15959",
-      "target": "GuardUpPZ8"
+      "target": "守衛強化PZ8"
     },
     {
       "index": "15960",
-      "target": "GuardUpPZ9"
+      "target": "守衛強化PZ9"
     },
     {
       "index": "15961",
@@ -20140,15 +20140,15 @@
     },
     {
       "index": "15962",
-      "target": "BulletSaverUpPZ7"
+      "target": "弾節約強化PZ7"
     },
     {
       "index": "15963",
-      "target": "BulletSaverUpPZ8"
+      "target": "弾節約強化PZ8"
     },
     {
       "index": "15964",
-      "target": "BulletSaverUpPZ9"
+      "target": "弾節約強化PZ9"
     },
     {
       "index": "15965",
@@ -20808,7 +20808,7 @@
     },
     {
       "index": "16169",
-      "target": "SnS・LavishAttack"
+      "target": "片手劍豪華攻撃"
     },
     {
       "index": "16170",
@@ -20848,7 +20848,7 @@
     },
     {
       "index": "16179",
-      "target": "DS・LavishAttack"
+      "target": "雙劍豪華攻撃"
     },
     {
       "index": "16180",
@@ -20888,7 +20888,7 @@
     },
     {
       "index": "16189",
-      "target": "GS・LavishAttack"
+      "target": "大劍豪華攻撃"
     },
     {
       "index": "16190",
@@ -20928,7 +20928,7 @@
     },
     {
       "index": "16199",
-      "target": "LS・LavishAttack"
+      "target": "太刀豪華攻撃"
     },
     {
       "index": "16200",
@@ -20968,7 +20968,7 @@
     },
     {
       "index": "16209",
-      "target": "Hammer・PointBreak"
+      "target": "大錘點破"
     },
     {
       "index": "16210",
@@ -21008,7 +21008,7 @@
     },
     {
       "index": "16219",
-      "target": "HH・PointBreak"
+      "target": "狩獵笛點破"
     },
     {
       "index": "16220",
@@ -21312,7 +21312,7 @@
     },
     {
       "index": "16295",
-      "target": "Bow・LavishAttack"
+      "target": "弓豪華攻撃"
     },
     {
       "index": "16296",
@@ -21460,15 +21460,15 @@
     },
     {
       "index": "16355",
-      "target": "NinjaCode・Sea"
+      "target": "忍者暗号海"
     },
     {
       "index": "16356",
-      "target": "NinjaCode・Sky"
+      "target": "忍者暗号空"
     },
     {
       "index": "16357",
-      "target": "NinjaCode・Heaven"
+      "target": "忍者暗号天"
     },
     {
       "index": "16360",
@@ -21660,7 +21660,7 @@
     },
     {
       "index": "16421",
-      "target": "EverlastingCandy"
+      "target": "永久飴"
     },
     {
       "index": "16422",
