@@ -509,73 +509,73 @@ index,source,target
 507,Sharp Claw,鋭利的爪
 508,Blangonga Fang,雪獅子的牙
 509,Blangonga Fang+,雪獅子的鋭牙
-510,Blangonga Pelt,Blangonga Pelt
-511,Blangonga Pelt+,Blangonga Pelt+
-512,Blangonga Whisker,Blangonga Whisker
-513,Blangonga Tail,Blangonga Tail
-514,Congalala Pelt,Congalala Pelt
-515,Vibrant Pelt,Vibrant Pelt
-516,Congalala Claw,Congalala Claw
-517,Congalala Fang,Congalala Fang
-518,Congalala Pelt+,Congalala Pelt+
-519,Congalala Claw+,Congalala Claw+
+510,Blangonga Pelt,雪獅子的皮
+511,Blangonga Pelt+,雪獅子的皮＋
+512,Blangonga Whisker,雪獅子的髭
+513,Blangonga Tail,雪獅子的尾巴
+514,Congalala Pelt,桃毛獸的皮
+515,Vibrant Pelt,極彩色的毛
+516,Congalala Claw,桃毛獸的爪
+517,Congalala Fang,桃毛獸的牙
+518,Congalala Pelt+,桃毛獸的皮＋
+519,Congalala Claw+,桃毛獸的尖爪
 520,(dummy),(dummy)
-521,Rajang Horn,Rajang Horn
-522,Rajang Fang,Rajang Fang
-523,Black Rajang Pelt,Black Rajang Pelt
-524,Rajang Claw,Rajang Claw
-525,Rajang Tail,Rajang Tail
-526,Gold Rajang Pelt,Gold Rajang Pelt
-527,Carapaceon Brains,Carapaceon Brains
-528,Wyvern Scalp,Wyvern Scalp
-529,Sm Hermitaur Shl,Sm Hermitaur Shl
-530,Hermitaur Shell,Hermitaur Shell
-531,Hermitaur Claw,Hermitaur Claw
-532,Hermitaur Carpace,Hermitaur Carpace
-533,Hermitaur Claw+,Hermitaur Claw+
+521,Rajang Horn,金獅子的角
+522,Rajang Fang,金獅子的牙
+523,Black Rajang Pelt,金獅子的黑毛
+524,Rajang Claw,金獅子的爪
+525,Rajang Tail,金獅子的尾巴
+526,Gold Rajang Pelt,金色的毛
+527,Carapaceon Brains,甲殼種的頭
+528,Wyvern Scalp,龍頭殼
+529,Sm Hermitaur Shl,盾蟹的小殼
+530,Hermitaur Shell,盾蟹的甲殼
+531,Hermitaur Claw,盾蟹的爪
+532,Hermitaur Carpace,盾蟹的堅殼
+533,Hermitaur Claw+,盾蟹的尖爪
 534,(dummy),(dummy)
-535,Sm Ceanataur Shl,Sm Ceanataur Shl
-536,Ceanataur Shell,Ceanataur Shell
-537,Ceanataur Carpace,Ceanataur Carpace
-538,Ceanataur Leg,Ceanataur Leg
-539,Ceanataur Pincer,Ceanataur Pincer
-540,Ceanataur Claw,Ceanataur Claw
-541,Ceanataur Claw+,Ceanataur Claw+
+535,Sm Ceanataur Shl,鎌蟹的小殼
+536,Ceanataur Shell,鎌蟹的甲殼
+537,Ceanataur Carpace,鎌蟹的堅殼
+538,Ceanataur Leg,鎌蟹的脚
+539,Ceanataur Pincer,鎌蟹的鋏
+540,Ceanataur Claw,鎌蟹的爪
+541,Ceanataur Claw+,鎌蟹的尖爪
 542,(dummy),(dummy)
-543,Gaoren Shell,Gaoren Shell
-544,Gaoren Spine,Gaoren Spine
-545,Gaoren Pincer,Gaoren Pincer
-546,Gaoren Claw,Gaoren Claw
+543,Gaoren Shell,砦蟹的甲殼
+544,Gaoren Spine,砦蟹的棘
+545,Gaoren Pincer,砦蟹的鋏
+546,Gaoren Claw,砦蟹的爪
 547,(dummy),(dummy)
-548,Daora Shell,Daora Shell
-549,Daora Carapace,Daora Carapace
-550,Daora Scale,Daora Scale
-551,Daora Webbing,Daora Webbing
-552,Daora Horn,Daora Horn
-553,Daora Tail,Daora Tail
-554,Daora Claw,Daora Claw
-555,Daora Claw+,Daora Claw+
-556,Daora Jewel,Daora Jewel
-557,R.Daora Shell,R.Daora Shell
-558,R.Daora Webbing,R.Daora Webbing
-559,R.Daora Webbing+,R.Daora Webbing+
-560,Chameleos Hide,Chameleos Hide
-561,Chameleos Hide+,Chameleos Hide+
-562,Chameleos Horn,Chameleos Horn
-563,Chameleos Horn+,Chameleos Horn+
-564,Chameleos Claw,Chameleos Claw
-565,Chameleos Webbing,Chameleos Webbing
-566,Chameleos Tail,Chameleos Tail
-567,Chameleos Jewel,Chameleos Jewel
+548,Daora Shell,鋼龍的甲殼
+549,Daora Carapace,鋼龍的堅殼
+550,Daora Scale,鋼龍的鱗
+551,Daora Webbing,鋼龍的翼膜
+552,Daora Horn,鋼龍的角
+553,Daora Tail,鋼龍的尾巴
+554,Daora Claw,鋼龍的爪
+555,Daora Claw+,鋼龍的尖爪
+556,Daora Jewel,鋼龍的寶玉
+557,R.Daora Shell,錆鋼龍的甲殼
+558,R.Daora Webbing,錆鋼龍的翼膜
+559,R.Daora Webbing+,錆鋼龍的上翼膜
+560,Chameleos Hide,霞龍的皮
+561,Chameleos Hide+,霞龍的皮＋
+562,Chameleos Horn,霞龍的角
+563,Chameleos Horn+,霞龍的尖角
+564,Chameleos Claw,霞龍的爪
+565,Chameleos Webbing,霞龍的翼膜
+566,Chameleos Tail,霞龍的尾巴
+567,Chameleos Jewel,霞龍的寶玉
 568,(dummy),(dummy)
-569,Fire Dragon Scale,Fire Dragon Scale
-570,Fire Dragon Claw,Fire Dragon Claw
-571,Fire Dragon Powder,Fire Dragon Powder
-572,Fire Dragon Jewel,Fire Dragon Jewel
-573,Elder Dragon Blood,Elder Dragon Blood
-574,Fire Dragon Scale+,Fire Dragon Scale+
-575,Lunastra Shell,Lunastra Shell
-576,Lunastra Mane,Lunastra Mane
+569,Fire Dragon Scale,炎龍的鱗
+570,Fire Dragon Claw,炎龍的爪
+571,Fire Dragon Powder,炎龍的塵粉
+572,Fire Dragon Jewel,炎龍的寶玉
+573,Elder Dragon Blood,古龍之血
+574,Fire Dragon Scale+,炎龍的上鱗
+575,Lunastra Shell,炎妃龍的甲殼
+576,Lunastra Mane,炎妃龍的鬣毛
 577,Lunastra Webbing,Lunastra Webbing
 578,Lunastra Tail,Lunastra Tail
 579,Lunastra Horn,Lunastra Horn

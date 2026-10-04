@@ -1,7 +1,7 @@
 {
   "section_id": "items-name",
   "xpath": "dat/items/name",
-  "pending_total_estimate": 16272,
+  "pending_total_estimate": 16205,
   "batch": [
     {
       "index": "31",
@@ -56,272 +56,272 @@
       "source": "(dummy)"
     },
     {
-      "index": "443",
-      "source": "B.Gravios Skull"
+      "index": "510",
+      "source": "Blangonga Pelt"
     },
     {
-      "index": "444",
-      "source": "Twisted Horn"
+      "index": "511",
+      "source": "Blangonga Pelt+"
     },
     {
-      "index": "445",
-      "source": "Majestic Horn"
+      "index": "512",
+      "source": "Blangonga Whisker"
     },
     {
-      "index": "446",
-      "source": "Diablos Shell"
+      "index": "513",
+      "source": "Blangonga Tail"
     },
     {
-      "index": "447",
-      "source": "Diablos Carapace"
+      "index": "514",
+      "source": "Congalala Pelt"
     },
     {
-      "index": "448",
-      "source": "Diablos Spine"
+      "index": "515",
+      "source": "Vibrant Pelt"
     },
     {
-      "index": "449",
-      "source": "Diablos Ridge"
+      "index": "516",
+      "source": "Congalala Claw"
     },
     {
-      "index": "450",
-      "source": "Diablos Tail"
+      "index": "517",
+      "source": "Congalala Fang"
     },
     {
-      "index": "451",
-      "source": "Diablos Fang"
+      "index": "518",
+      "source": "Congalala Pelt+"
     },
     {
-      "index": "452",
-      "source": "Black Spiral Horn"
+      "index": "519",
+      "source": "Congalala Claw+"
     },
     {
-      "index": "453",
-      "source": "B.Diablos Shell"
+      "index": "520",
+      "source": "(dummy)"
     },
     {
-      "index": "454",
-      "source": "B.Diablos Spine"
+      "index": "521",
+      "source": "Rajang Horn"
     },
     {
-      "index": "455",
-      "source": "B.Diablos Tail"
+      "index": "522",
+      "source": "Rajang Fang"
     },
     {
-      "index": "456",
-      "source": "B.Diablos Carpace"
+      "index": "523",
+      "source": "Black Rajang Pelt"
     },
     {
-      "index": "457",
-      "source": "Vespoid Abdomen"
+      "index": "524",
+      "source": "Rajang Claw"
     },
     {
-      "index": "458",
-      "source": "Vespoid Shell"
+      "index": "525",
+      "source": "Rajang Tail"
     },
     {
-      "index": "459",
-      "source": "Vespoid Carapace"
+      "index": "526",
+      "source": "Gold Rajang Pelt"
     },
     {
-      "index": "460",
-      "source": "Vespoid Wing"
+      "index": "527",
+      "source": "Carapaceon Brains"
     },
     {
-      "index": "461",
-      "source": "Vespoid InnerWing"
+      "index": "528",
+      "source": "Wyvern Scalp"
     },
     {
-      "index": "462",
-      "source": "Hornetaur Shell"
+      "index": "529",
+      "source": "Sm Hermitaur Shl"
     },
     {
-      "index": "463",
-      "source": "Hornetaur Head"
+      "index": "530",
+      "source": "Hermitaur Shell"
     },
     {
-      "index": "464",
-      "source": "Hornetaur Wing"
+      "index": "531",
+      "source": "Hermitaur Claw"
     },
     {
-      "index": "465",
-      "source": "HornetaurInnrWng"
+      "index": "532",
+      "source": "Hermitaur Carpace"
     },
     {
-      "index": "466",
-      "source": "Small LobsterShl"
+      "index": "533",
+      "source": "Hermitaur Claw+"
     },
     {
-      "index": "467",
-      "source": "Large LobsterShl"
+      "index": "534",
+      "source": "(dummy)"
     },
     {
-      "index": "468",
-      "source": "Great LobsterShl"
+      "index": "535",
+      "source": "Sm Ceanataur Shl"
     },
     {
-      "index": "469",
-      "source": "Giant LobsterShl"
+      "index": "536",
+      "source": "Ceanataur Shell"
     },
     {
-      "index": "470",
-      "source": "Blood Red Horn"
+      "index": "537",
+      "source": "Ceanataur Carpace"
     },
     {
-      "index": "471",
-      "source": "Monoblos Shell"
+      "index": "538",
+      "source": "Ceanataur Leg"
     },
     {
-      "index": "472",
-      "source": "Monoblos Spine"
+      "index": "539",
+      "source": "Ceanataur Pincer"
     },
     {
-      "index": "473",
-      "source": "Monoblos Heart"
+      "index": "540",
+      "source": "Ceanataur Claw"
     },
     {
-      "index": "474",
-      "source": "W.Monoblos Horn"
+      "index": "541",
+      "source": "Ceanataur Claw+"
     },
     {
-      "index": "475",
-      "source": "W.Monoblos Shell"
+      "index": "542",
+      "source": "(dummy)"
     },
     {
-      "index": "476",
-      "source": "W.Monoblos Spine"
+      "index": "543",
+      "source": "Gaoren Shell"
     },
     {
-      "index": "477",
-      "source": "Kirin Horn"
+      "index": "544",
+      "source": "Gaoren Spine"
     },
     {
-      "index": "478",
-      "source": "Kirin Hide"
+      "index": "545",
+      "source": "Gaoren Pincer"
     },
     {
-      "index": "479",
-      "source": "Kirin Hide+"
+      "index": "546",
+      "source": "Gaoren Claw"
     },
     {
-      "index": "480",
-      "source": "Kirin Mane"
+      "index": "547",
+      "source": "(dummy)"
     },
     {
-      "index": "481",
-      "source": "Kirin Thndr Tail"
+      "index": "548",
+      "source": "Daora Shell"
     },
     {
-      "index": "482",
-      "source": "Kirin Azure Horn"
+      "index": "549",
+      "source": "Daora Carapace"
     },
     {
-      "index": "483",
-      "source": "Lao-Shan Claw"
+      "index": "550",
+      "source": "Daora Scale"
     },
     {
-      "index": "484",
-      "source": "Lao-Shan Horn"
+      "index": "551",
+      "source": "Daora Webbing"
     },
     {
-      "index": "485",
-      "source": "Lao-Shan Scale"
+      "index": "552",
+      "source": "Daora Horn"
     },
     {
-      "index": "486",
-      "source": "Lao-Shan Ruby"
+      "index": "553",
+      "source": "Daora Tail"
     },
     {
-      "index": "487",
-      "source": "Lao-Shan Shell"
+      "index": "554",
+      "source": "Daora Claw"
     },
     {
-      "index": "488",
-      "source": "Lao-Shan Carapace"
+      "index": "555",
+      "source": "Daora Claw+"
     },
     {
-      "index": "489",
-      "source": "A.Lao-Shan Horn"
+      "index": "556",
+      "source": "Daora Jewel"
     },
     {
-      "index": "490",
-      "source": "A.Lao-Shan Shell"
+      "index": "557",
+      "source": "R.Daora Shell"
     },
     {
-      "index": "491",
-      "source": "Fatalis Horn"
+      "index": "558",
+      "source": "R.Daora Webbing"
     },
     {
-      "index": "492",
-      "source": "Fatalis Scale"
+      "index": "559",
+      "source": "R.Daora Webbing+"
     },
     {
-      "index": "493",
-      "source": "Fatalis Shell"
+      "index": "560",
+      "source": "Chameleos Hide"
     },
     {
-      "index": "494",
-      "source": "Fatalis Eye"
+      "index": "561",
+      "source": "Chameleos Hide+"
     },
     {
-      "index": "495",
-      "source": "Fatalis Webbing"
+      "index": "562",
+      "source": "Chameleos Horn"
     },
     {
-      "index": "496",
-      "source": "C.Fatalis Horn"
+      "index": "563",
+      "source": "Chameleos Horn+"
     },
     {
-      "index": "497",
-      "source": "C.Fatalis Scale"
+      "index": "564",
+      "source": "Chameleos Claw"
     },
     {
-      "index": "498",
-      "source": "C.Fatalis Shell"
+      "index": "565",
+      "source": "Chameleos Webbing"
     },
     {
-      "index": "499",
-      "source": "Fatalis Evil Eye"
+      "index": "566",
+      "source": "Chameleos Tail"
     },
     {
-      "index": "500",
-      "source": "C.Fatalis Wing"
+      "index": "567",
+      "source": "Chameleos Jewel"
     },
     {
-      "index": "501",
-      "source": "W.Fatalis Scale"
+      "index": "568",
+      "source": "(dummy)"
     },
     {
-      "index": "502",
-      "source": "W.Fatalis Shell"
+      "index": "569",
+      "source": "Fire Dragon Scale"
     },
     {
-      "index": "503",
-      "source": "W.Fatalis Webbing"
+      "index": "570",
+      "source": "Fire Dragon Claw"
     },
     {
-      "index": "504",
-      "source": "W.Fatalis Horn"
+      "index": "571",
+      "source": "Fire Dragon Powder"
     },
     {
-      "index": "505",
-      "source": "Berukyurosu Info"
+      "index": "572",
+      "source": "Fire Dragon Jewel"
     },
     {
-      "index": "506",
-      "source": "Pariapuria Info"
+      "index": "573",
+      "source": "Elder Dragon Blood"
     },
     {
-      "index": "507",
-      "source": "Sharp Claw"
+      "index": "574",
+      "source": "Fire Dragon Scale+"
     },
     {
-      "index": "508",
-      "source": "Blangonga Fang"
+      "index": "575",
+      "source": "Lunastra Shell"
     },
     {
-      "index": "509",
-      "source": "Blangonga Fang+"
+      "index": "576",
+      "source": "Lunastra Mane"
     }
   ]
 }
