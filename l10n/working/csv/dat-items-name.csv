@@ -4023,39 +4023,39 @@ index,source,target
 4021,A Rose Tkt,Ａローズ票
 4022,A Derose Tkt,Ａデローズ票
 4023,Kivala Q Tkt,惡魔Ｑ票
-4024,Edio Head Tkt,Edio Head Tkt
-4025,Edio Chest Tkt,Edio Chest Tkt
-4026,Edio Arms Tkt,Edio Arms Tkt
-4027,Edio Waist Tkt,Edio Waist Tkt
-4028,Edio Legs Tkt,Edio Legs Tkt
-4029,Abit Tkt Head,Abit Tkt Head
-4030,Abit Tkt Torso,Abit Tkt Torso
-4031,Abit Tkt Arms,Abit Tkt Arms
-4032,Abit Tkt Waist,Abit Tkt Waist
-4033,Abit Tkt Legs,Abit Tkt Legs
+4024,Edio Head Tkt,城衛頭票
+4025,Edio Chest Tkt,城衛胴票
+4026,Edio Arms Tkt,城衛腕票
+4027,Edio Waist Tkt,城衛腰票
+4028,Edio Legs Tkt,城衛脚票
+4029,Abit Tkt Head,嚮導頭票
+4030,Abit Tkt Torso,嚮導胴票
+4031,Abit Tkt Arms,嚮導腕票
+4032,Abit Tkt Waist,嚮導腰票
+4033,Abit Tkt Legs,嚮導脚票
 4034,Large Angry Bone,Large Angry Bone
 4035,Varusaburosu Doll,Varusaburosu Doll
 4036,Airborne Spores,Airborne Spores
-4037,Wyvern Mallet Tkt,Wyvern Mallet Tkt
+4037,Wyvern Mallet Tkt,撃龍鎚票
 4038,Fancy Book 3,Fancy Book 3
 4039,Hunter's Skill 2,Hunter's Skill 2
 4040,Wpn Design Doc II,Wpn Design Doc II
 4041,Magnetic Scales,Magnetic Scales
-4042,SSFⅣ Head Tkt 2,SSFⅣ Head Tkt 2
-4043,SSFⅣ Torso Tkt 2,SSFⅣ Torso Tkt 2
-4044,SSFⅣ Arms Tkt 2,SSFⅣ Arms Tkt 2
-4045,SSFⅣ Waist Tkt 2,SSFⅣ Waist Tkt 2
-4046,SSFⅣ Legs Tkt 2,SSFⅣ Legs Tkt 2
-4047,SSFⅣ Head Tkt X,SSFⅣ Head Tkt X
-4048,SSFⅣ Torso Tkt X,SSFⅣ Torso Tkt X
-4049,SSFⅣ Arms Tkt X,SSFⅣ Arms Tkt X
-4050,SSFⅣ Waist Tkt X,SSFⅣ Waist Tkt X
-4051,SSFⅣ Legs Tkt X,SSFⅣ Legs Tkt X
-4052,SSFⅣ Head Tkt F,SSFⅣ Head Tkt F
-4053,SSFⅣ Torso Tkt F,SSFⅣ Torso Tkt F
-4054,SSFⅣ Arms Tkt F,SSFⅣ Arms Tkt F
-4055,SSFⅣ Waist Tkt F,SSFⅣ Waist Tkt F
-4056,SSFⅣ Legs Tkt F,SSFⅣ Legs Tkt F
+4042,SSFⅣ Head Tkt 2,ＳＳＦⅣ頭票２
+4043,SSFⅣ Torso Tkt 2,ＳＳＦⅣ胴票２
+4044,SSFⅣ Arms Tkt 2,ＳＳＦⅣ腕票２
+4045,SSFⅣ Waist Tkt 2,ＳＳＦⅣ腰票２
+4046,SSFⅣ Legs Tkt 2,ＳＳＦⅣ脚票２
+4047,SSFⅣ Head Tkt X,ＳＳＦⅣ頭票Ｘ
+4048,SSFⅣ Torso Tkt X,ＳＳＦⅣ胴票Ｘ
+4049,SSFⅣ Arms Tkt X,ＳＳＦⅣ腕票Ｘ
+4050,SSFⅣ Waist Tkt X,ＳＳＦⅣ腰票Ｘ
+4051,SSFⅣ Legs Tkt X,ＳＳＦⅣ脚票Ｘ
+4052,SSFⅣ Head Tkt F,ＳＳＦⅣ頭票Ｆ
+4053,SSFⅣ Torso Tkt F,ＳＳＦⅣ胴票Ｆ
+4054,SSFⅣ Arms Tkt F,ＳＳＦⅣ腕票Ｆ
+4055,SSFⅣ Waist Tkt F,ＳＳＦⅣ腰票Ｆ
+4056,SSFⅣ Legs Tkt F,ＳＳＦⅣ脚票Ｆ
 4057,Pure Wht Star Iron,Pure Wht Star Iron
 4058,Earth Medal,Earth Medal
 4059,Marine Medal,Marine Medal
@@ -4065,28 +4065,28 @@ index,source,target
 4063,Penetrating T.Gem,Penetrating T.Gem
 4064,Blue Sky Cloth,Blue Sky Cloth
 4065,Azure Sky Cloth,Azure Sky Cloth
-4066,BP10 Tkt・１,BP10 Tkt・１
-4067,BP10 Tkt・２,BP10 Tkt・２
-4068,BP10 Tkt・３,BP10 Tkt・３
-4069,BP10 Tkt・４,BP10 Tkt・４
-4070,BP10 Tkt・５,BP10 Tkt・５
-4071,BP10 Tkt・６,BP10 Tkt・６
-4072,BP10 Tkt・７,BP10 Tkt・７
-4073,BP10 Tkt・８,BP10 Tkt・８
-4074,Danshin P Tkt,Danshin P Tkt
-4075,Amenike P Tkt,Amenike P Tkt
-4076,Kusanagi Tkt,Kusanagi Tkt
-4077,Spider Tkt,Spider Tkt
-4078,Toyama Tkt,Toyama Tkt
-4079,Little Crow Tkt,Little Crow Tkt
-4080,Orchid Tkt Head,Orchid Tkt Head
-4081,Orchid Tkt Torso,Orchid Tkt Torso
-4082,Orchid Tkt Arms,Orchid Tkt Arms
-4083,Orchid Tkt Waist,Orchid Tkt Waist
-4084,Orchid Tkt Legs,Orchid Tkt Legs
-4085,Kucho Tkt,Kucho Tkt
-4086,Lute Tkt,Lute Tkt
-4087,Nyanshin Tkt,Nyanshin Tkt
+4066,BP10 Tkt・１,ＢＰ10票・１
+4067,BP10 Tkt・２,ＢＰ10票・２
+4068,BP10 Tkt・３,ＢＰ10票・３
+4069,BP10 Tkt・４,ＢＰ10票・４
+4070,BP10 Tkt・５,ＢＰ10票・５
+4071,BP10 Tkt・６,ＢＰ10票・６
+4072,BP10 Tkt・７,ＢＰ10票・７
+4073,BP10 Tkt・８,ＢＰ10票・８
+4074,Danshin P Tkt,舞者Ｐ票
+4075,Amenike P Tkt,迎風Ｐ票
+4076,Kusanagi Tkt,草薙票
+4077,Spider Tkt,蜘蛛切票
+4078,Toyama Tkt,遠山票
+4079,Little Crow Tkt,小烏丸票
+4080,Orchid Tkt Head,蘭陀頭票
+4081,Orchid Tkt Torso,蘭陀胴票
+4082,Orchid Tkt Arms,蘭陀腕票
+4083,Orchid Tkt Waist,蘭陀腰票
+4084,Orchid Tkt Legs,蘭陀脚票
+4085,Kucho Tkt,黒猫票
+4086,Lute Tkt,金猫票
+4087,Nyanshin Tkt,紅猫琴票
 4088,Song of Forests,Song of Forests
 4089,Song of Mountains,Song of Mountains
 4090,Song of Dunes,Song of Dunes
@@ -4100,9 +4100,9 @@ index,source,target
 4098,Carved Blk Stone,Carved Blk Stone
 4099,Carved Red Stone,Carved Red Stone
 4100,Carved Wht Stone,Carved Wht Stone
-4101,Naranha S Tkt,Naranha S Tkt
-4102,Sapura S Tkt,Sapura S Tkt
-4103,Veil S Tkt,Veil S Tkt
+4101,Naranha S Tkt,橙光Ｓ票
+4102,Sapura S Tkt,墨色Ｓ票
+4103,Veil S Tkt,碧閃Ｓ票
 4104,Cuff Base・Blush,Cuff Base・Blush
 4105,Cuff Base・Birch,Cuff Base・Birch
 4106,Cuff Base・Silk,Cuff Base・Silk
@@ -4338,12 +4338,12 @@ index,source,target
 4336,Normal Drawing 1,Normal Drawing 1
 4337,Normal Drawing 2,Normal Drawing 2
 4338,Miniature Drawing,Miniature Drawing
-4339,Dummy38,Dummy38
+4339,Dummy38,(dummy)
 4340,Gook Tear,Gook Tear
 4341,Gook Feather,Gook Feather
 4342,Polka Dot Patrn,Polka Dot Patrn
 4343,Gunman Pattern,Gunman Pattern
-4344,Dummy39,Dummy39
+4344,Dummy39,(dummy)
 4345,Diving Design,Diving Design
 4346,Fruit Salad Design,Fruit Salad Design
 4347,Party Confetti,Party Confetti
@@ -4359,39 +4359,39 @@ index,source,target
 4357,Eating Speed Berry,Eating Speed Berry
 4358,G2 Potion,G2 Potion
 4359,Mega Drink,Mega Drink
-4360,Mega Guts Tkt,Mega Guts Tkt
-4361,Poisoner Tkt,Poisoner Tkt
-4362,Pararaipi Tkt,Pararaipi Tkt
-4363,Demonic R Tkt,Demonic R Tkt
-4364,PA Cuff Tkt Ⅱ,PA Cuff Tkt Ⅱ
-4365,PB Cuff Tkt Ⅱ,PB Cuff Tkt Ⅱ
-4366,PC Cuff Tkt Ⅱ,PC Cuff Tkt Ⅱ
+4360,Mega Guts Tkt,メガガッツ票
+4361,Poisoner Tkt,使毒票
+4362,Pararaipi Tkt,麻痺雙針票
+4363,Demonic R Tkt,惡魔Ｒ票
+4364,PA Cuff Tkt Ⅱ,ＰＡ袖飾票Ⅱ
+4365,PB Cuff Tkt Ⅱ,ＰＢ袖飾票Ⅱ
+4366,PC Cuff Tkt Ⅱ,ＰＣ袖飾票Ⅱ
 4367,Sturdy Jawbone,Sturdy Jawbone
 4368,Card Ore Sand,Card Ore Sand
 4369,Card Ore Plum,Card Ore Plum
 4370,Card Ore Soot,Card Ore Soot
-4371,Champion Tkt,Champion Tkt
-4372,TP5 Tkt・1,TP5 Tkt・1
-4373,TP5 Tkt・2,TP5 Tkt・2
-4374,TP5 Tkt・3,TP5 Tkt・3
-4375,TP5 Tkt・4,TP5 Tkt・4
-4376,TP5 Tkt・5,TP5 Tkt・5
-4377,Ena Tkt Ⅰ,Ena Tkt Ⅰ
-4378,Ena Tkt Ⅱ,Ena Tkt Ⅱ
-4379,Ena Tkt Ⅲ,Ena Tkt Ⅲ
-4380,Ena Tkt Ⅳ,Ena Tkt Ⅳ
-4381,Ena Tkt Ⅴ,Ena Tkt Ⅴ
-4382,Ena Tkt Ⅵ,Ena Tkt Ⅵ
-4383,Ena Tkt Ⅶ,Ena Tkt Ⅶ
-4384,Ena Tkt Ⅷ,Ena Tkt Ⅷ
-4385,S H Canard Tkt,S H Canard Tkt
-4386,Notte H Tkt,Notte H Tkt
-4387,Plato H Tkt,Plato H Tkt
+4371,Champion Tkt,チャンピオン票
+4372,TP5 Tkt・1,ＴＰ５票・１
+4373,TP5 Tkt・2,ＴＰ５票・２
+4374,TP5 Tkt・3,ＴＰ５票・３
+4375,TP5 Tkt・4,ＴＰ５票・４
+4376,TP5 Tkt・5,ＴＰ５票・５
+4377,Ena Tkt Ⅰ,神力票Ⅰ
+4378,Ena Tkt Ⅱ,神力票Ⅱ
+4379,Ena Tkt Ⅲ,神力票Ⅲ
+4380,Ena Tkt Ⅳ,神力票Ⅳ
+4381,Ena Tkt Ⅴ,神力票Ⅴ
+4382,Ena Tkt Ⅵ,神力票Ⅵ
+4383,Ena Tkt Ⅶ,神力票Ⅶ
+4384,Ena Tkt Ⅷ,神力票Ⅷ
+4385,S H Canard Tkt,Ｓ具現Ｈ票
+4386,Notte H Tkt,ノッテＨ票
+4387,Plato H Tkt,草綠Ｈ票
 4388,Cuff Base・Apricot,Cuff Base・Apricot
 4389,Cuff Base・Dawn,Cuff Base・Dawn
 4390,Cuff Base・Leather,Cuff Base・Leather
 4391,Cuff Base・Wax,Cuff Base・Wax
-4392,Sply Guts Tkt,Sply Guts Tkt
+4392,Sply Guts Tkt,補給ガッツ票
 4393,Cat Balloon Flute,Cat Balloon Flute
 4394,Cat Ballista,Cat Ballista
 4395,EZ Sonic Bomb,EZ Sonic Bomb
@@ -4406,21 +4406,21 @@ index,source,target
 4404,4404dummy,4404dummy
 4405,4405dummy,4405dummy
 4406,Wild Silk Cacoon,Wild Silk Cacoon
-4407,BP11 Tkt・１,BP11 Tkt・１
-4408,BP11 Tkt・２,BP11 Tkt・２
-4409,BP11 Tkt・３,BP11 Tkt・３
-4410,BP11 Tkt・４,BP11 Tkt・４
-4411,BP11 Tkt・５,BP11 Tkt・５
-4412,BP11 Tkt・６,BP11 Tkt・６
-4413,BP11 Tkt・７,BP11 Tkt・７
-4414,BP11 Tkt・８,BP11 Tkt・８
-4415,Meister Head Tkt,Meister Head Tkt
-4416,Meister Body Tkt,Meister Body Tkt
-4417,Meister Arm Tkt,Meister Arm Tkt
-4418,Meister Fauld Tkt,Meister Fauld Tkt
-4419,Meister Boot Tkt,Meister Boot Tkt
-4420,Workshop Twins Tkt,Workshop Twins Tkt
-4421,Workshop Pair Tkt,Workshop Pair Tkt
+4407,BP11 Tkt・１,ＢＰ11票・１
+4408,BP11 Tkt・２,ＢＰ11票・２
+4409,BP11 Tkt・３,ＢＰ11票・３
+4410,BP11 Tkt・４,ＢＰ11票・４
+4411,BP11 Tkt・５,ＢＰ11票・５
+4412,BP11 Tkt・６,ＢＰ11票・６
+4413,BP11 Tkt・７,ＢＰ11票・７
+4414,BP11 Tkt・８,ＢＰ11票・８
+4415,Meister Head Tkt,マイスト頭票
+4416,Meister Body Tkt,マイスト胴票
+4417,Meister Arm Tkt,マイスト腕票
+4418,Meister Fauld Tkt,マイスト腰票
+4419,Meister Boot Tkt,マイスト脚票
+4420,Workshop Twins Tkt,工房雙炎票
+4421,Workshop Pair Tkt,工房水雙票
 4422,Workshop Bow,Workshop Bow
 4423,Wokshop Water Bow,Wokshop Water Bow
 4424,Lunar Yarn,Lunar Yarn
@@ -4430,16 +4430,16 @@ index,source,target
 4428,Yggdrasil Branch,Yggdrasil Branch
 4429,Inky Fragm,Inky Fragm
 4430,Thank You Ⅳ,Thank You Ⅳ
-4431,W Spoon Tkt,W Spoon Tkt
-4432,F Spoon Tkt,F Spoon Tkt
-4433,Pretty H Tkt,Pretty H Tkt
-4434,Rusty H Tkt,Rusty H Tkt
-4435,Lovely G Tkt,Lovely G Tkt
-4436,Lovely A Tkt,Lovely A Tkt
-4437,Lovely S Tkt,Lovely S Tkt
-4438,Baby G Tkt,Baby G Tkt
-4439,Baby A Tkt,Baby A Tkt
-4440,Baby B Tkt,Baby B Tkt
+4431,W Spoon Tkt,Ｗ湯匙票
+4432,F Spoon Tkt,Ｆ湯匙票
+4433,Pretty H Tkt,寶貝豬Ｈ票
+4434,Rusty H Tkt,條紋豬票
+4435,Lovely G Tkt,可愛豬Ｇ票
+4436,Lovely A Tkt,可愛豬Ａ票
+4437,Lovely S Tkt,可愛豬Ｓ票
+4438,Baby G Tkt,寶貝豬Ｇ票
+4439,Baby A Tkt,寶貝豬Ａ票
+4440,Baby B Tkt,寶貝豬Ｂ票
 4441,2011 Kit 3 Head,2011 Kit 3 Head
 4442,2011 Kit 3 Chest,2011 Kit 3 Chest
 4443,2011 Kit 3 Arms,2011 Kit 3 Arms
@@ -4462,9 +4462,9 @@ index,source,target
 4460,Indigo Festi Mem.,Indigo Festi Mem.
 4461,Peach Festi Memory,Peach Festi Memory
 4462,Freezing Fang,Freezing Fang
-4463,Eternal Friend Tkt,Eternal Friend Tkt
-4464,Power Friend Tkt,Power Friend Tkt
-4465,True Friend Tkt,True Friend Tkt
+4463,Eternal Friend Tkt,永遠友票
+4464,Power Friend Tkt,力友票
+4465,True Friend Tkt,真友票
 4466,Pure Dawn Crystal,Pure Dawn Crystal
 4467,Electric Stone,Electric Stone
 4468,Star Debris,Star Debris
@@ -4782,15 +4782,15 @@ index,source,target
 4780,Mega-Rage Horn,Mega-Rage Horn
 4781,Goldenblack Silk,Goldenblack Silk
 4782,Ancient Debris,Ancient Debris
-4783,Dorek P Tkt,Dorek P Tkt
-4784,Venio P Tkt,Venio P Tkt
-4785,Yera B Tkt,Yera B Tkt
-4786,Dorek B Tkt,Dorek B Tkt
-4787,Toros Tkt Head,Toros Tkt Head
-4788,Toros Tkt Torso,Toros Tkt Torso
-4789,Toros Tkt Arms,Toros Tkt Arms
-4790,Toros Tkt Waist,Toros Tkt Waist
-4791,Toros Tkt Legs,Toros Tkt Legs
+4783,Dorek P Tkt,泥濘Ｐ票
+4784,Venio P Tkt,魅力Ｐ票
+4785,Yera B Tkt,月神Ｂ票
+4786,Dorek B Tkt,統治者Ｂ票
+4787,Toros Tkt Head,鬥士頭票
+4788,Toros Tkt Torso,鬥士胴票
+4789,Toros Tkt Arms,鬥士腕票
+4790,Toros Tkt Waist,鬥士腰票
+4791,Toros Tkt Legs,鬥士脚票
 4792,Seabreeze Stone,Seabreeze Stone
 4793,Unbound Book [Sky],Unbound Book [Sky]
 4794,Unbound Book [Hvn],Unbound Book [Hvn]
@@ -4802,34 +4802,34 @@ index,source,target
 4800,Ivory Star Clay,Ivory Star Clay
 4801,Tail Fin Harness,Tail Fin Harness
 4802,Glossy Pebble,Glossy Pebble
-4803,Nagia L Tkt,Nagia L Tkt
-4804,Tulle L Tkt,Tulle L Tkt
-4805,Majiorno Tkt,Majiorno Tkt
-4806,Caserno Tkt,Caserno Tkt
-4807,Unit Tkt,Unit Tkt
-4808,Unity Tkt,Unity Tkt
-4809,Unican G Tkt,Unican G Tkt
-4810,Iculta Tkt,Iculta Tkt
-4811,Ikuruti Tkt,Ikuruti Tkt
-4812,Iklon G Tkt,Iklon G Tkt
-4813,Galitos Tkt Head,Galitos Tkt Head
-4814,Galitos Tkt Torso,Galitos Tkt Torso
-4815,Galitos Tkt Arms,Galitos Tkt Arms
-4816,Galitos Tkt Waist,Galitos Tkt Waist
-4817,Galitos Tkt Legs,Galitos Tkt Legs
-4818,Libre Tkt Head,Libre Tkt Head
-4819,Libre Tkt Torso,Libre Tkt Torso
-4820,Libre Tkt Arms,Libre Tkt Arms
-4821,Libre Tkt Waist,Libre Tkt Waist
-4822,Libre Tkt Legs,Libre Tkt Legs
-4823,BP12 Tkt・１,BP12 Tkt・１
-4824,BP12 Tkt・２,BP12 Tkt・２
-4825,BP12 Tkt・３,BP12 Tkt・３
-4826,BP12 Tkt・４,BP12 Tkt・４
-4827,BP12 Tkt・５,BP12 Tkt・５
-4828,BP12 Tkt・６,BP12 Tkt・６
-4829,BP12 Tkt・７,BP12 Tkt・７
-4830,BP12 Tkt・８,BP12 Tkt・８
+4803,Nagia L Tkt,至聖Ｌ票
+4804,Tulle L Tkt,軍神Ｌ票
+4805,Majiorno Tkt,月下魔女票
+4806,Caserno Tkt,月下猫女票
+4807,Unit Tkt,團結者票
+4808,Unity Tkt,強化團結者票
+4809,Unican G Tkt,團結者Ｇ票
+4810,Iculta Tkt,開拓者票
+4811,Ikuruti Tkt,強化開拓者票
+4812,Iklon G Tkt,開拓者Ｇ票
+4813,Galitos Tkt Head,元帥頭票
+4814,Galitos Tkt Torso,元帥胴票
+4815,Galitos Tkt Arms,元帥腕票
+4816,Galitos Tkt Waist,元帥腰票
+4817,Galitos Tkt Legs,元帥脚票
+4818,Libre Tkt Head,輕快頭票
+4819,Libre Tkt Torso,輕快胴票
+4820,Libre Tkt Arms,輕快腕票
+4821,Libre Tkt Waist,輕快腰票
+4822,Libre Tkt Legs,輕快脚票
+4823,BP12 Tkt・１,ＢＰ12票・１
+4824,BP12 Tkt・２,ＢＰ12票・２
+4825,BP12 Tkt・３,ＢＰ12票・３
+4826,BP12 Tkt・４,ＢＰ12票・４
+4827,BP12 Tkt・５,ＢＰ12票・５
+4828,BP12 Tkt・６,ＢＰ12票・６
+4829,BP12 Tkt・７,ＢＰ12票・７
+4830,BP12 Tkt・８,ＢＰ12票・８
 4831,Steel Durian,Steel Durian
 4832,Mad King's Waltz,Mad King's Waltz
 4833,Mystery Water,Mystery Water
@@ -4845,14 +4845,14 @@ index,source,target
 4843,Gunmaster Seal,Gunmaster Seal
 4844,Exere Fabric [M],Exere Fabric [M]
 4845,Exere Fabric [S],Exere Fabric [S]
-4846,Ice C Tkt,Ice C Tkt
-4847,Thunder B Tkt,Thunder B Tkt
-4848,4 4 0 7 Dummy,4 4 0 7 Dummy
-4849,4 4 0 8 Dummy,4 4 0 8 Dummy
-4850,Sheild H Tkt,Sheild H Tkt
-4851,Eternity S Tkt,Eternity S Tkt
-4852,Stun C Tkt,Stun C Tkt
-4853,V Venom Tkt,V Venom Tkt
+4846,Ice C Tkt,冰霜Ｃ票
+4847,Thunder B Tkt,雷霆Ｂ票
+4848,4 4 0 7 Dummy,(dummy)
+4849,4 4 0 8 Dummy,(dummy)
+4850,Sheild H Tkt,護盾Ｈ票
+4851,Eternity S Tkt,永世Ｓ票
+4852,Stun C Tkt,束縛Ｃ票
+4853,V Venom Tkt,Ｖ蛇毒票
 4854,Magnastone,Magnastone
 4855,Supple Thread,Supple Thread
 4856,I Sword Tkt,I Sword Tkt
