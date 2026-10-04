@@ -66,7 +66,7 @@
 - [x] working 管線腳本（apply／validate／writeback／batch；CSV 無 BOM）
 - [x] 層次 A 回寫：items／melee／ranged／head／body（FTH 產物為 `*-modified.bin`）
 - [~] 層次 B：**依子類整段推進**（禁流水切片；待審見 `working/issues/queue.md`）  
-  - 道具：珠／情報／印記＝CSV 已譯待 QA；票券進行中（#4856–5772＋#6018–7103＋#7104–8334＋本輪 #8336–8915 共160 已在 CSV；未 finish_batch／未另 commit）；下一未譯 **#9092 Baro K Tkt**；整類清完再 `feat: items-name 票券`  
+  - 道具：珠／情報／印記＝CSV 已譯待 QA；票券**暫停**（禁「Ｃクレスト」類全形字母＋片假名；待規則／閘門）；已 delta 累積至約 #9833；下一未譯 **#9834**；整類清完再 `feat: items-name 票券`  
   - 一覽：`working/catalogs/ITEMS-TRANSLATED.md`
 - [ ] 私服進遊戲驗收
 

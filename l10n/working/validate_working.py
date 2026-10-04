@@ -15,6 +15,10 @@ WHITELIST = L10N / "charset" / "whitelist.txt"
 PLACEHOLDER_RE = re.compile(
     r"\{j\}|\{/c\}|\{c\d+\}|\{K[^}]*\}|\{i[^}]*\}|\{u[^}]*\}"
 )
+# 全形拉丁後接片假名（含・）；用於半翻警告
+HALF_TRANSLATE_RE = re.compile(r"[Ａ-Ｚａ-ｚ]+[\u30A0-\u30FF]+")
+KATA_LETTER_RE = re.compile(r"[\u30A1-\u30FA\u30FC]")
+ASCII_WORD_RE = re.compile(r"[A-Za-z]{2,}")
 
 
 def load_allow() -> set[str]:
@@ -36,9 +40,20 @@ def ph_counts(s: str) -> dict[str, int]:
     }
 
 
-def validate_file(path: Path, allow: set[str]) -> list[str]:
+def is_half_translate(src: str, tgt: str) -> bool:
+    """英源＋譯文出現全形拉丁黏片假名 → 半翻（原文已是日文形者不計）。"""
+    if not ASCII_WORD_RE.search(src):
+        return False
+    m = HALF_TRANSLATE_RE.search(tgt)
+    if not m:
+        return False
+    return bool(KATA_LETTER_RE.search(m.group(0)))
+
+
+def validate_file(path: Path, allow: set[str]) -> tuple[list[str], list[str]]:
     rows = list(csv.DictReader(path.open(encoding="utf-8-sig", newline="")))
     errs: list[str] = []
+    half_warns: list[str] = []
     for row in rows:
         src = row.get("source") or ""
         tgt = row.get("target") or ""
@@ -66,8 +81,12 @@ def validate_file(path: Path, allow: set[str]) -> list[str]:
             errs.append(
                 f"{path.name}#{idx}: {{j}} 段數 {sc['j']}→{tc['j']}"
             )
+        if is_half_translate(src, tgt):
+            half_warns.append(
+                f"{path.name}#{idx}: 半翻（全形字母＋片假名）| {tgt[:40]} → 見 glossary/PENDING.md"
+            )
 
-    return errs
+    return errs, half_warns
 
 
 def main(argv: list[str]) -> int:
@@ -76,6 +95,7 @@ def main(argv: list[str]) -> int:
     only = set(argv[1:]) if len(argv) > 1 else None
     ensure_dirs()
     all_errs: list[str] = []
+    all_half: list[str] = []
     lines = ["# working 驗證報告", ""]
     for sec in sections:
         if only and sec["id"] not in only:
@@ -85,19 +105,36 @@ def main(argv: list[str]) -> int:
             all_errs.append(f"缺少 {path.name}")
             lines.append(f"- `{sec['id']}`：缺少 CSV")
             continue
-        errs = validate_file(path, allow)
+        errs, half = validate_file(path, allow)
         all_errs.extend(errs)
+        all_half.extend(half)
+        note = ""
+        if half:
+            note = f"；半翻警告 {len(half)}"
         lines.append(
-            f"- `{sec['id']}`：{'PASS' if not errs else f'FAIL ({len(errs)})'}"
+            f"- `{sec['id']}`：{'PASS' if not errs else f'FAIL ({len(errs)})'}{note}"
         )
     lines += ["", "## 錯誤", ""]
     if all_errs:
         lines.extend(f"- {e}" for e in all_errs[:100])
     else:
         lines.append("- （無）")
+    lines += ["", "## 半翻警告（暫不致 FAIL；應列入 PENDING，子類完成後回修）", ""]
+    if all_half:
+        lines.extend(f"- {e}" for e in all_half[:80])
+        if len(all_half) > 80:
+            lines.append(f"- …另有 {len(all_half) - 80} 筆")
+    else:
+        lines.append("- （無）")
     lines.append("")
-    VALIDATE_LOG.write_text("\n".join(lines), encoding="utf-8")
-    print("\n".join(lines))
+    text = "\n".join(lines)
+    VALIDATE_LOG.write_text(text, encoding="utf-8")
+    out = getattr(sys.stdout, "buffer", None)
+    if out is not None:
+        out.write((text + "\n").encode("utf-8", errors="replace"))
+        out.flush()
+    else:
+        print(text)
     return 1 if all_errs else 0
 
 

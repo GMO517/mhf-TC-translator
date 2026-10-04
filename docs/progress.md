@@ -10,7 +10,7 @@
 ## items-name
 
 - status: in_progress
-- notes: "主真相＝csv/dat-items-name.csv。待審＝issues/queue.md。票券進行中；下一未譯 #9092 Baro K Tkt。禁止重翻已有 target。"
+- notes: "主真相＝csv。票券**已暫停**（禁Ｃクレスト類譯法，待 STYLE／validate 定稿）。下一未譯 #9834。禁止重翻已有 target。"
 
 ### files
 
@@ -20,7 +20,7 @@
 
 - path: l10n/working/csv/dat-items-name.csv
   status: in_progress
-  notes: "票券未完；active batch 累積至 #8915 已 delta 回寫"
+  notes: "票券未完；active 已 delta 至約 #9833（798 列）；續翻暫停中"
 
 ### subclasses（語意，非流水號）
 

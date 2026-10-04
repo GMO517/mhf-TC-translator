@@ -7,7 +7,7 @@
 
 | CATEGORY | 進度 | 批次產物 | 下一筆 |
 |---|---|---|---|
-| `items-name/tickets` | in_progress | `batches/active/batch-items-tickets.json`（累積至 #8915，已 delta） | **#9092** `Baro K Tkt` |
+| `items-name/tickets` | **paused**（禁半翻；見 STYLE／`glossary/PENDING.md`） | `batches/active/…tickets.json`（已 delta 至約 #9833） | **#9834**；不確定詞先標 PENDING，子類完成後再依定稿回修 |
 
 詳見 `items-name__tickets.md`。
 

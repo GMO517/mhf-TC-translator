@@ -9091,18 +9091,18 @@ index,source,target
 9089,Rath Trove Scale,Rath Trove Scale
 9090,ラオウトＤ生産券,ラオウトＤ生産券
 9091,ルペルスＤ生産券,ルペルスＤ生産券
-9092,Baro K Tkt,Baro K Tkt
-9093,Viral K Tkt,Viral K Tkt
+9092,Baro K Tkt,バロウＫ票
+9093,Viral K Tkt,ヴィラルＫ票
 9094,カイントＫ生産券,カイントＫ生産券
 9095,マルクＫ生産券,マルクＫ生産券
-9096,Dune K Tkt,Dune K Tkt
+9096,Dune K Tkt,デュネＫ票
 9097,ローデスＧ生産券,ローデスＧ生産券
 9098,モルアＧ生産券,モルアＧ生産券
 9099,ポウラＫ生産券,ポウラＫ生産券
 9100,ファルガＫ生産券,ファルガＫ生産券
-9101,Naish K Tkt,Naish K Tkt
+9101,Naish K Tkt,ナイシュＫ票
 9102,パラカＫ生産券,パラカＫ生産券
-9103,Genebi K Tkt,Genebi K Tkt
+9103,Genebi K Tkt,ジェネビＫ票
 9104,レスＧ生産券,レスＧ生産券
 9105,ガッシュＧ生産券,ガッシュＧ生産券
 9106,Ｇシャンド生産券,Ｇシャンド生産券
@@ -9126,38 +9126,38 @@ index,source,target
 9124,Fatalis Ruby,Fatalis Ruby
 9125,Lost Luxury Crown,Lost Luxury Crown
 9126,Solid Memories,Solid Memories
-9127,OST Benefits Tkt,OST Benefits Tkt
-9128,BG3 Tkt・1,BG3 Tkt・1
-9129,BG3 Tkt・2,BG3 Tkt・2
-9130,BG3 Tkt・3,BG3 Tkt・3
-9131,BG3 Tkt・4,BG3 Tkt・4
-9132,BG3 Tkt・5,BG3 Tkt・5
-9133,BG3 Tkt・6,BG3 Tkt・6
-9134,BG3 Tkt・7,BG3 Tkt・7
-9135,Pasupapi Tkt,Pasupapi Tkt
+9127,OST Benefits Tkt,ＯＳＴ特典票
+9128,BG3 Tkt・1,ＢＧ３票・１
+9129,BG3 Tkt・2,ＢＧ３票・２
+9130,BG3 Tkt・3,ＢＧ３票・３
+9131,BG3 Tkt・4,ＢＧ３票・４
+9132,BG3 Tkt・5,ＢＧ３票・５
+9133,BG3 Tkt・6,ＢＧ３票・６
+9134,BG3 Tkt・7,ＢＧ３票・７
+9135,Pasupapi Tkt,彩蝶票
 9136,パススロウ生産券,パススロウ生産券
 9137,ピスアピ生産券,ピスアピ生産券
 9138,ピスヒピア生産券,ピスヒピア生産券
-9139,Vor S Tkt,Vor S Tkt
+9139,Vor S Tkt,火山Ｓ票
 9140,イラプＳ生産券,イラプＳ生産券
-9141,Down S Tkt,Down S Tkt
-9142,Inon S Tkt,Inon S Tkt
-9143,I Mortar Tkt,I Mortar Tkt
-9144,P Mortar Tkt,P Mortar Tkt
-9145,I Cavalry Tkt,I Cavalry Tkt
-9146,P Cavalry Tkt,P Cavalry Tkt
-9147,Sierra S Tkt,Sierra S Tkt
-9148,Sega S Tkt,Sega S Tkt
+9141,Down S Tkt,窮底Ｓ票
+9142,Inon S Tkt,洪患Ｓ票
+9143,I Mortar Tkt,Ｉモルタル票
+9144,P Mortar Tkt,Ｐモルタル票
+9145,I Cavalry Tkt,Ｉカルバリ票
+9146,P Cavalry Tkt,Ｐカルバリ票
+9147,Sierra S Tkt,銅鋸Ｓ票
+9148,Sega S Tkt,金鋸Ｓ票
 9149,ノデルＦ生産券,ノデルＦ生産券
 9150,ノデルＧ生産券,ノデルＧ生産券
 9151,ノデルＥ生産券,ノデルＥ生産券
 9152,ノデルＳ生産券,ノデルＳ生産券
 9153,ルエニＳ生産券,ルエニＳ生産券
 9154,ルエニＥ生産券,ルエニＥ生産券
-9155,Clan F Tkt,Clan F Tkt
-9156,Clan G Tkt,Clan G Tkt
-9157,Clan E Tkt,Clan E Tkt
-9158,Clan S Tkt,Clan S Tkt
+9155,Clan F Tkt,名門Ｆ票
+9156,Clan G Tkt,名門Ｇ票
+9157,Clan E Tkt,名門Ｅ票
+9158,Clan S Tkt,名門Ｓ票
 9159,クリスＳ生産券,クリスＳ生産券
 9160,クリスＥ生産券,クリスＥ生産券
 9161,幟の結紐,幟の結紐
@@ -9344,25 +9344,25 @@ index,source,target
 9342,Comrade GN GX4,Comrade GN GX4
 9343,Comrade GN GX5,Comrade GN GX5
 9344,Prayer Tree Ore,Prayer Tree Ore
-9345,C Crest Tkt,C Crest Tkt
-9346,N Tavros Tkt,N Tavros Tkt
-9347,G Glaria Tkt,G Glaria Tkt
-9348,R Glaria Tkt,R Glaria Tkt
-9349,Sheriff Tkt Head,Sheriff Tkt Head
-9350,Sheriff Tkt Torso,Sheriff Tkt Torso
-9351,Sheriff Tkt Arms,Sheriff Tkt Arms
-9352,Sheriff Tkt Waist,Sheriff Tkt Waist
-9353,Sheriff Tkt Legs,Sheriff Tkt Legs
-9354,Attack Tkt Head,Attack Tkt Head
-9355,Attack Tkt Torso,Attack Tkt Torso
-9356,Attack Tkt Arms,Attack Tkt Arms
-9357,Attack Tkt Waist,Attack Tkt Waist
-9358,Attack Tkt Legs,Attack Tkt Legs
-9359,IS Head Tkt,IS Head Tkt
-9360,IS Torso Tkt,IS Torso Tkt
-9361,IS Arms Tkt,IS Arms Tkt
-9362,IS Waist Tkt,IS Waist Tkt
-9363,IS Legs Tkt,IS Legs Tkt
+9345,C Crest Tkt,Ｃ・紋章票
+9346,N Tavros Tkt,Ｎタウロス票
+9347,G Glaria Tkt,Ｇ瀑布票
+9348,R Glaria Tkt,Ｒ瀑布票
+9349,Sheriff Tkt Head,警長頭票
+9350,Sheriff Tkt Torso,警長胴票
+9351,Sheriff Tkt Arms,警長腕票
+9352,Sheriff Tkt Waist,警長腰票
+9353,Sheriff Tkt Legs,警長脚票
+9354,Attack Tkt Head,進撃頭票
+9355,Attack Tkt Torso,進撃胴票
+9356,Attack Tkt Arms,進撃腕票
+9357,Attack Tkt Waist,進撃腰票
+9358,Attack Tkt Legs,進撃脚票
+9359,IS Head Tkt,ＩＳ頭票
+9360,IS Torso Tkt,ＩＳ胴票
+9361,IS Arms Tkt,ＩＳ腕票
+9362,IS Waist Tkt,ＩＳ腰票
+9363,IS Legs Tkt,ＩＳ脚票
 9364,Gorgeous Feathers,Gorgeous Feathers
 9365,Oblivion Flute,Oblivion Flute
 9366,Elegant Bag,Elegant Bag
@@ -9370,25 +9370,25 @@ index,source,target
 9368,Silence Gem,Silence Gem
 9369,Phantom Dustshroom,Phantom Dustshroom
 9370,Bamot Steel,Bamot Steel
-9371,Surveyor Sword Tkt,Surveyor Sword Tkt
-9372,Garrison Sword Tkt,Garrison Sword Tkt
-9373,Ultra-Steel B Tkt,Ultra-Steel B Tkt
-9374,Snap B Tkt,Snap B Tkt
-9375,Void fissure Tkt,Void fissure Tkt
-9376,Soryu Tkt,Soryu Tkt
-9377,SL Ⅰ Tkt,SL Ⅰ Tkt
-9378,SL Ⅱ Tkt,SL Ⅱ Tkt
-9379,SL Ⅲ Tkt,SL Ⅲ Tkt
-9380,SL Ⅳ Tkt,SL Ⅳ Tkt
-9381,SL Ⅴ Tkt,SL Ⅴ Tkt
-9382,SL Ⅵ Tkt,SL Ⅵ Tkt
-9383,ROS Ⅰ Tkt,ROS Ⅰ Tkt
-9384,ROS Ⅱ Tkt,ROS Ⅱ Tkt
-9385,ROS Ⅲ Tkt,ROS Ⅲ Tkt
-9386,ROS Ⅳ Tkt,ROS Ⅳ Tkt
-9387,ROS Ⅴ Tkt,ROS Ⅴ Tkt
-9388,ROS Ⅵ Tkt,ROS Ⅵ Tkt
-9389,Fazel G Tkt,Fazel G Tkt
+9371,Surveyor Sword Tkt,調査兵用劍票
+9372,Garrison Sword Tkt,駐屯兵用劍票
+9373,Ultra-Steel B Tkt,超硬質Ｂ票
+9374,Snap B Tkt,スナップＢ票
+9375,Void fissure Tkt,空裂票
+9376,Soryu Tkt,蒼流旋票
+9377,SL Ⅰ Tkt,ＳＬ・Ⅰ票
+9378,SL Ⅱ Tkt,ＳＬ・Ⅱ票
+9379,SL Ⅲ Tkt,ＳＬ・Ⅲ票
+9380,SL Ⅳ Tkt,ＳＬ・Ⅳ票
+9381,SL Ⅴ Tkt,ＳＬ・Ⅴ票
+9382,SL Ⅵ Tkt,ＳＬ・Ⅵ票
+9383,ROS Ⅰ Tkt,ＲＯＳ・Ⅰ票
+9384,ROS Ⅱ Tkt,ＲＯＳ・Ⅱ票
+9385,ROS Ⅲ Tkt,ＲＯＳ・Ⅲ票
+9386,ROS Ⅳ Tkt,ＲＯＳ・Ⅳ票
+9387,ROS Ⅴ Tkt,ＲＯＳ・Ⅴ票
+9388,ROS Ⅵ Tkt,ＲＯＳ・Ⅵ票
+9389,Fazel G Tkt,ファゼルＧ票
 9390,鋼連岩の希緋石,鋼連岩の希緋石
 9391,鋼連岩の希金石,鋼連岩の希金石
 9392,鋼連岩の希銀石,鋼連岩の希銀石
@@ -9497,55 +9497,55 @@ index,source,target
 9495,Baby Bamboo Jewel,Baby Bamboo Jewel
 9496,Secret Color Jewel,Secret Color Jewel
 9497,Baby Purple Jewel,Baby Purple Jewel
-9498,Silver Moon Tkt,Silver Moon Tkt
-9499,Scatter Tkt,Scatter Tkt
-9500,Shadow Bubble Tkt,Shadow Bubble Tkt
-9501,Red Rain Tkt,Red Rain Tkt
-9502,Cranium Tkt,Cranium Tkt
-9503,Wicked Tkt,Wicked Tkt
-9504,Airborne Tkt Head,Airborne Tkt Head
-9505,Airborne Tkt Torso,Airborne Tkt Torso
-9506,Airborne Tkt Arms,Airborne Tkt Arms
-9507,Airborne Tkt Waist,Airborne Tkt Waist
-9508,Airborne Tkt Legs,Airborne Tkt Legs
-9509,FG1 Tkt 1,FG1 Tkt 1
-9510,FG1 Tkt 2,FG1 Tkt 2
-9511,FG1 Tkt 3,FG1 Tkt 3
-9512,FG1 Tkt 4,FG1 Tkt 4
-9513,FG1 Tkt 5,FG1 Tkt 5
-9514,FG1 Tkt 6,FG1 Tkt 6
-9515,FG1 Tkt 7,FG1 Tkt 7
+9498,Silver Moon Tkt,銀月票
+9499,Scatter Tkt,散華票
+9500,Shadow Bubble Tkt,泡影票
+9501,Red Rain Tkt,紅雨票
+9502,Cranium Tkt,クラニウム票
+9503,Wicked Tkt,ウィキッド票
+9504,Airborne Tkt Head,飛天頭票
+9505,Airborne Tkt Torso,飛天胴票
+9506,Airborne Tkt Arms,飛天腕票
+9507,Airborne Tkt Waist,飛天腰票
+9508,Airborne Tkt Legs,飛天脚票
+9509,FG1 Tkt 1,ＦＧ１票・１
+9510,FG1 Tkt 2,ＦＧ１票・２
+9511,FG1 Tkt 3,ＦＧ１票・３
+9512,FG1 Tkt 4,ＦＧ１票・４
+9513,FG1 Tkt 5,ＦＧ１票・５
+9514,FG1 Tkt 6,ＦＧ１票・６
+9515,FG1 Tkt 7,ＦＧ１票・７
 9516,New World Bond Ⅰ,New World Bond Ⅰ
 9517,New World Bond Ⅱ,New World Bond Ⅱ
 9518,New World Bond Ⅲ,New World Bond Ⅲ
-9519,Hill D Tkt,Hill D Tkt
-9520,Ruida Tkt,Ruida Tkt
-9521,Foret R Tkt,Foret R Tkt
-9522,Sombu R Tkt,Sombu R Tkt
-9523,Masha Tkt,Masha Tkt
-9524,Masha P Tkt,Masha P Tkt
-9525,Masha E Tkt,Masha E Tkt
-9526,Masha T Tkt,Masha T Tkt
-9527,Masha I Tkt,Masha I Tkt
-9528,Masha J Tkt,Masha J Tkt
-9529,Masha N Tkt,Masha N Tkt
-9530,Foss Tkt,Foss Tkt
-9531,Foss P Tkt,Foss P Tkt
-9532,Foss E Tkt,Foss E Tkt
-9533,Foss T Tkt,Foss T Tkt
-9534,Foss I Tkt,Foss I Tkt
-9535,Foss J Tkt,Foss J Tkt
-9536,Foss N Tkt,Foss N Tkt
+9519,Hill D Tkt,戰意Ｄ票
+9520,Ruida Tkt,深邃票
+9521,Foret R Tkt,綠林Ｒ票
+9522,Sombu R Tkt,響樂Ｒ票
+9523,Masha Tkt,永生票
+9524,Masha P Tkt,永生Ｐ票
+9525,Masha E Tkt,永生Ｅ票
+9526,Masha T Tkt,永生Ｔ票
+9527,Masha I Tkt,永生Ｉ票
+9528,Masha J Tkt,永生Ｊ票
+9529,Masha N Tkt,永生Ｎ票
+9530,Foss Tkt,培育票
+9531,Foss P Tkt,培育Ｐ票
+9532,Foss E Tkt,培育Ｅ票
+9533,Foss T Tkt,培育Ｔ票
+9534,Foss I Tkt,培育Ｉ票
+9535,Foss J Tkt,培育Ｊ票
+9536,Foss N Tkt,培育Ｎ票
 9537,Slippery Sucker,Slippery Sucker
 9538,Dummy 9538,Dummy 9538
-9539,BL Croix Tkt,BL Croix Tkt
+9539,BL Croix Tkt,ＢＬ十字票
 9540,Dummy 9540,Dummy 9540
-9541,J Croix Tkt,J Croix Tkt
-9542,VI Croix Tkt,VI Croix Tkt
-9543,C Croix Tkt,C Croix Tkt
-9544,LA Croix Tkt,LA Croix Tkt
-9545,NO Croix Tkt,NO Croix Tkt
-9546,R Croix Tkt,R Croix Tkt
+9541,J Croix Tkt,Ｊ十字票
+9542,VI Croix Tkt,ＶＩ十字票
+9543,C Croix Tkt,Ｃ十字票
+9544,LA Croix Tkt,ＬＡ十字票
+9545,NO Croix Tkt,ＮＯ十字票
+9546,R Croix Tkt,Ｒ十字票
 9547,Dummy 9547,Dummy 9547
 9548,GRクロツ生産券,GRクロツ生産券
 9549,GEクロツ生産券,GEクロツ生産券
@@ -9553,23 +9553,23 @@ index,source,target
 9551,Ｈクロツ生産券,Ｈクロツ生産券
 9552,Ｓクロツ生産券,Ｓクロツ生産券
 9553,Ｖクロツ生産券,Ｖクロツ生産券
-9554,Romu Tkt,Romu Tkt
-9555,Wind Shear F Tkt,Wind Shear F Tkt
-9556,Wind Shear D Tkt,Wind Shear D Tkt
+9554,Romu Tkt,ロム票
+9555,Wind Shear F Tkt,風切Ｆ票
+9556,Wind Shear D Tkt,風切Ｄ票
 9557,Dummy 9540,Dummy 9540
 9558,Dummy 9541,Dummy 9541
 9559,Dummy 9542,Dummy 9542
 9560,Dummy 9543,Dummy 9543
-9561,Toro N Tkt,Toro N Tkt
-9562,Kuro D Tkt,Kuro D Tkt
-9563,Box Tkt,Box Tkt
-9564,Max Tkt,Max Tkt
+9561,Toro N Tkt,トロＮ票
+9562,Kuro D Tkt,クロＤ票
+9563,Box Tkt,ボックス票
+9564,Max Tkt,マックス票
 9565,リレＳ生産券,リレＳ生産券
-9566,Mele S Tkt,Mele S Tkt
+9566,Mele S Tkt,怒槍Ｓ票
 9567,アピストＳ生産券,アピストＳ生産券
-9568,Glamour S Tkt,Glamour S Tkt
+9568,Glamour S Tkt,短鯛Ｓ票
 9569,カメント生産券,カメント生産券
-9570,Finanto Tkt,Finanto Tkt
+9570,Finanto Tkt,光城票
 9571,Red Capsicum,Red Capsicum
 9572,ルレイアゲハ,ルレイアゲハ
 9573,Master's Book,Master's Book
@@ -9686,20 +9686,20 @@ index,source,target
 9684,Broken Blue Parts,Broken Blue Parts
 9685,Golden Amulet,Golden Amulet
 9686,Promise Necklace,Promise Necklace
-9687,Ash Tkt Head,Ash Tkt Head
-9688,Ash Tkt Torso,Ash Tkt Torso
-9689,Ash Tkt Arms,Ash Tkt Arms
-9690,Ash Tkt Waist,Ash Tkt Waist
-9691,Ash Tkt Legs,Ash Tkt Legs
+9687,Ash Tkt Head,灰燼頭票
+9688,Ash Tkt Torso,灰燼胴票
+9689,Ash Tkt Arms,灰燼腕票
+9690,Ash Tkt Waist,灰燼腰票
+9691,Ash Tkt Legs,灰燼脚票
 9692,Cuff Base G・Adapt,Cuff Base G・Adapt
 9693,Cuff Base G・Incite,Cuff Base G・Incite
 9694,Cuff Base G・Abslt,Cuff Base G・Abslt
 9695,Cuff Base G・Asst,Cuff Base G・Asst
-9696,C Pact Tkt,C Pact Tkt
+9696,C Pact Tkt,Ｃパクト票
 9697,Glittering Wings,Glittering Wings
-9698,Prima F Tkt,Prima F Tkt
-9699,Prima D Tkt,Prima D Tkt
-9700,Zuibei Ticket,Zuibei Ticket
+9698,Prima F Tkt,プリマＦ票
+9699,Prima D Tkt,プリマＤ票
+9700,Zuibei Ticket,ズィベイ票
 9701,Super Dash Extract,Super Dash Extract
 9702,Mellow Felvine,Mellow Felvine
 9703,Cuff Base G・Trsr,Cuff Base G・Trsr
@@ -9795,44 +9795,44 @@ index,source,target
 9793,Resolvanite,Resolvanite
 9794,Clown's Secret,Clown's Secret
 9795,Super Hard GGGX,Super Hard GGGX
-9796,Special Secret Tkt,Special Secret Tkt
-9797,Flash T. Tkt Head,Flash T. Tkt Head
-9798,Flash T. Tkt Torso,Flash T. Tkt Torso
-9799,Flash T. Tkt Arms,Flash T. Tkt Arms
-9800,Flash T. Tkt Waist,Flash T. Tkt Waist
-9801,Flash T. Tkt Legs,Flash T. Tkt Legs
-9802,Naga Tkt Head,Naga Tkt Head
-9803,Naga Tkt Torso,Naga Tkt Torso
-9804,Naga Tkt Arms,Naga Tkt Arms
-9805,Naga Tkt Waist,Naga Tkt Waist
-9806,Naga Tkt Legs,Naga Tkt Legs
+9796,Special Secret Tkt,特別秘傳票
+9797,Flash T. Tkt Head,閃軌跡頭票
+9798,Flash T. Tkt Torso,閃軌跡胴票
+9799,Flash T. Tkt Arms,閃軌跡腕票
+9800,Flash T. Tkt Waist,閃軌跡腰票
+9801,Flash T. Tkt Legs,閃軌跡脚票
+9802,Naga Tkt Head,蛇神頭票
+9803,Naga Tkt Torso,蛇神胴票
+9804,Naga Tkt Arms,蛇神腕票
+9805,Naga Tkt Waist,蛇神腰票
+9806,Naga Tkt Legs,蛇神脚票
 9807,Dummy 9807,Dummy 9807
 9808,Dummy 9808,Dummy 9808
 9809,Dummy 9809,Dummy 9809
 9810,Dummy 9810,Dummy 9810
 9811,Dummy 9811,Dummy 9811
-9812,Oyun Tkt Head,Oyun Tkt Head
-9813,Oyun Tkt Torso,Oyun Tkt Torso
-9814,Oyun Tkt Arms,Oyun Tkt Arms
-9815,Oyun Tkt Waist,Oyun Tkt Waist
-9816,Oyun Tkt Legs,Oyun Tkt Legs
-9817,Carriage Tkt Head,Carriage Tkt Head
-9818,Carriage Tkt Torso,Carriage Tkt Torso
-9819,Carriage Tkt Arms,Carriage Tkt Arms
-9820,Carriage Tkt Waist,Carriage Tkt Waist
-9821,Carriage Tkt Legs,Carriage Tkt Legs
-9822,Marble Tkt Head,Marble Tkt Head
-9823,Marble Tkt Torso,Marble Tkt Torso
-9824,Marble Tkt Arms,Marble Tkt Arms
-9825,Marble Tkt Waist,Marble Tkt Waist
-9826,Marble Tkt Legs,Marble Tkt Legs
-9827,Chande Tkt Head,Chande Tkt Head
-9828,Chande Tkt Torso,Chande Tkt Torso
-9829,Chande Tkt Arms,Chande Tkt Arms
-9830,Chande Tkt Waist,Chande Tkt Waist
-9831,Chande Tkt Legs,Chande Tkt Legs
-9832,Banquet Tkt Head,Banquet Tkt Head
-9833,Banquet Tkt Torso,Banquet Tkt Torso
+9812,Oyun Tkt Head,オユン頭票
+9813,Oyun Tkt Torso,オユン胴票
+9814,Oyun Tkt Arms,オユン腕票
+9815,Oyun Tkt Waist,オユン腰票
+9816,Oyun Tkt Legs,オユン脚票
+9817,Carriage Tkt Head,輸運頭票
+9818,Carriage Tkt Torso,輸運胴票
+9819,Carriage Tkt Arms,輸運腕票
+9820,Carriage Tkt Waist,輸運腰票
+9821,Carriage Tkt Legs,輸運脚票
+9822,Marble Tkt Head,マーブル頭票
+9823,Marble Tkt Torso,マーブル胴票
+9824,Marble Tkt Arms,マーブル腕票
+9825,Marble Tkt Waist,マーブル腰票
+9826,Marble Tkt Legs,マーブル脚票
+9827,Chande Tkt Head,シャンデ頭票
+9828,Chande Tkt Torso,シャンデ胴票
+9829,Chande Tkt Arms,シャンデ腕票
+9830,Chande Tkt Waist,シャンデ腰票
+9831,Chande Tkt Legs,シャンデ脚票
+9832,Banquet Tkt Head,宴會頭票
+9833,Banquet Tkt Torso,宴會胴票
 9834,Banquet Tkt Arms,Banquet Tkt Arms
 9835,Banquet Tkt Waist,Banquet Tkt Waist
 9836,Banquet Tkt Legs,Banquet Tkt Legs
