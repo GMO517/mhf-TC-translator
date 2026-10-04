@@ -1,10 +1,10 @@
 # Review：items-name／封印／紋章／印
 
-> **狀態**：**qa_done**（2026-10-04 品質＋主規則巡檢完成；尚未整批回寫本體）
+> **狀態**：**qa_done**（2026-10-04 品質＋主規則巡檢完成；已回寫本體）
 
 > **用途**：最終確認。不中斷主線。
 > 來源 batch：`batches/awaiting_qa/items-name/all-rest/seal-mark.json`｜**完整 n=125**
-> 目錄：`issues/items-name/all-rest/`（語意重分類）
+> 目錄：`issues/archive/items-name/all-rest/`（已歸檔）
 
 ## 摘要
 

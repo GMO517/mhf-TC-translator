@@ -18,16 +18,6 @@
 | CATEGORY | issue |
 |---|---|
 | beads-info / seals-jebia | 見既有 stub；勿重翻 |
-| items-name／原 all-rest 拆分 | **qa_done**（29／5450）；**下一動＝整批回寫本體**（待明示） |
-
-## all-rest 現況（2026-10-04 晚・尚未整批回寫）
-
-| 區 | 內容 |
-|---|---|
-| 全部分拆 review | **29** 檔／**5450** 筆皆 **qa_done**（A＋B 18＋C 11） |
-| 已完成 | 語意重分＋品質重譯＋主規則巡檢；CSV／review／batch 對齊 |
-| **下一動** | **整批回寫本體**（待明示；勿自行 finish_batch／csv-to-bin） |
-| 舊檔 | `all-rest/_deprecated_index_split/` |
 
 ## 處理完（qa_done）
 
@@ -43,6 +33,7 @@
 | monster-rest | `items-name__monster-rest.md`；`archive/items-name/review-items-name__monster-rest.md` |
 | misc | `items-name__misc.md`；`archive/items-name/review-items-name__misc.md` |
 | dummy | `items-name__dummy.md`；`archive/items-name/review-items-name__dummy.md` |
-| remainder（舊 stub） | `items-name__remainder.md`；`archive/items-name/review-items-name__remainder.md`（細審改看 all-rest） |
+| remainder（舊 stub） | `items-name__remainder.md`；`archive/items-name/review-items-name__remainder.md` |
+| all-rest 拆分（29／5450） | `archive/items-name/all-rest/`；batch `batches/active/batch-items-allrest-writeback.json`；**已回寫** 2026-10-04 |
 
 相關 delta 批次歸檔：`batches/legacy/items-name-qa-done-20261004/`。

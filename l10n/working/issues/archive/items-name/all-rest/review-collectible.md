@@ -1,9 +1,9 @@
 # Review：items-name／紙牌／骰子／書／袋
-> **狀態**：**qa_done**（2026-10-04 品質＋主規則巡檢完成；尚未整批回寫本體）
+> **狀態**：**qa_done**（2026-10-04 品質＋主規則巡檢完成；已回寫本體）
 
 > **用途**：最終確認。不中斷主線。
 > 來源 batch：atches/awaiting_qa/items-name/all-rest/collectible.json｜**完整 n=85**
-> 目錄：issues/items-name/all-rest/（原 all-rest 拆分，非「剩餘」）
+> 目錄：issues/archive/items-name/all-rest/（原 all-rest 拆分，非「剩餘」）
 
 ## 摘要
 

@@ -8,8 +8,8 @@
 
 ## items-name
 
-- status: in_progress
-- notes: "validate PASS。新加系列標記用【天廊】／【簡易】；既有()沿用；Nullberry→打消果實。"
+- status: translated
+- notes: "2026-10-04 all-rest 整批回寫完成；validate PASS；delta 5277／batch 5450；SHA→816694b4…。"
 
 ### files
 
@@ -18,8 +18,8 @@
   notes: "抽出完成；勿無故重抽"
 
 - path: l10n/working/csv/dat-items-name.csv
-  status: in_progress
-  notes: "all-rest C 區語意重分類後 CSV 已第一輪對齊（changed=142）；殘譯第二輪未做；未整批回寫本體"
+  status: translated
+  notes: "all-rest 29／5450 qa_done 後已 finish_batch 回寫 mhfdat＋client"
 
 ### subclasses（語意，非流水號）
 
@@ -36,10 +36,10 @@
 - kits: qa_done → issues/items-name__kits.md；review→`archive/items-name/`；batch n=45
 - monster-rest: qa_done → issues/items-name__monster-rest.md；review→`archive/items-name/`；batch n=438
 - misc: qa_done → issues/items-name__misc.md；review→`archive/items-name/`；batch n=199
-- all-rest 拆分: qa_done → `issues/items-name/all-rest/`（**29** 檔／**5450** 筆；CSV 已對齊）
-  - A＋B＋C 全部分拆 review 已標 **qa_done**（品質＋主規則巡檢）
-  - **下一動**：整批回寫本體（待明示；勿自行 finish_batch／csv-to-bin）
-  - 詳見 `issues/items-name/README.md`；舊切片→`all-rest/_deprecated_index_split/`
+- all-rest 拆分: qa_done → review 已歸檔 `archive/items-name/all-rest/`（**29**／**5450**）
+  - 2026-10-04 已回寫：`batch-items-allrest-writeback.json`；delta **5277**；同步 `l10n/data`＋`client/MHFCT4.1/dat/mhfdat.bin`
+  - 殘：beads／seals stub 待獨立 QA（勿重翻）
+  - 舊切片→`issues/items-name/all-rest/_deprecated_index_split/`
 
 ---
 
