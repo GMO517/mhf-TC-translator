@@ -7,9 +7,8 @@ import json
 import sys
 from pathlib import Path
 
-WORKING = Path(__file__).resolve().parent
-CSV_DIR = WORKING / "csv"
-REPORTS = WORKING / "reports"
+from paths import WORKING, CSV_DIR, SCRATCH, ensure_dirs
+
 SECTIONS = json.loads((WORKING / "sections.json").read_text(encoding="utf-8"))
 SEC_BY_ID = {s["id"]: s for s in SECTIONS}
 
@@ -39,7 +38,7 @@ def main(argv: list[str]) -> int:
         pending.append({"index": r["index"], "source": src})
         if len(pending) >= limit:
             break
-    REPORTS.mkdir(parents=True, exist_ok=True)
+    ensure_dirs()
     out = {
         "section_id": sec_id,
         "xpath": sec["xpath"],
@@ -51,7 +50,7 @@ def main(argv: list[str]) -> int:
         ),
         "batch": pending,
     }
-    path = REPORTS / f"next-{sec_id}.json"
+    path = SCRATCH / f"next-{sec_id}.json"
     path.write_text(json.dumps(out, ensure_ascii=False, indent=2), encoding="utf-8")
     print(f"wrote {path} n={len(pending)} pending≈{out['pending_total_estimate']}")
     return 0

@@ -17,15 +17,13 @@ import sys
 from datetime import datetime
 from pathlib import Path
 
-WORKING = Path(__file__).resolve().parent
-ROOT = WORKING.parents[1]
+from paths import WORKING, ROOT, CSV_DIR, STATE_FILE, WRITEBACK_LOG, ensure_dirs
+
 FTH = ROOT / "tools" / "FrontierTextHandler"
 DATA = ROOT / "l10n" / "data"
 CLIENT_BIN = ROOT / "client" / "MHFCT4.1" / "dat" / "mhfdat.bin"
 BACKUP_ROOT = ROOT / "_backup"
-CSV_DIR = WORKING / "csv"
-REPORTS = WORKING / "reports"
-STATE = REPORTS / "writeback-state.json"
+STATE = STATE_FILE
 PY = sys.executable
 SECTIONS = {s["id"]: s for s in json.loads((WORKING / "sections.json").read_text(encoding="utf-8"))}
 
@@ -62,6 +60,8 @@ def load_csv_rows(sec_id: str) -> dict[str, dict]:
 
 
 def rows_from_batch(batch_path: Path) -> tuple[str, list[dict]]:
+    if not batch_path.is_absolute():
+        batch_path = WORKING / batch_path
     data = json.loads(batch_path.read_text(encoding="utf-8"))
     sec_id = data["section_id"]
     by_idx = load_csv_rows(sec_id)
@@ -162,7 +162,7 @@ def main(argv: list[str]) -> int:
 
     if not args.batch and not args.all_changed:
         print(
-            "請指定 --batch reports/batch-xxx.json（建議）\n"
+            "請指定 --batch batches/batch-xxx.json（建議）\n"
             "或 --all-changed <section-id…>（全量，慢）",
             file=sys.stderr,
         )
@@ -171,6 +171,7 @@ def main(argv: list[str]) -> int:
     ensure_backup()
     if not CLIENT_BIN.exists():
         raise SystemExit(f"缺少本體 bin：{CLIENT_BIN}")
+    ensure_dirs()
 
     work = WORKING / f"_writeback_work_{os.getpid()}"
     if work.exists():
@@ -210,17 +211,16 @@ def main(argv: list[str]) -> int:
 
     after = sha256(work / "data" / "mhfdat.bin")
     log += ["", f"- 回寫後 SHA256：`{after}`", ""]
-    REPORTS.mkdir(parents=True, exist_ok=True)
 
     if not ok:
-        (REPORTS / "writeback.md").write_text("\n".join(log), encoding="utf-8")
+        WRITEBACK_LOG.write_text("\n".join(log), encoding="utf-8")
         print("\n".join(log), flush=True)
         shutil.rmtree(work, ignore_errors=True)
         return 2
 
     if after == before:
         log.append("- 警告：雜湊未變（可能未寫入）")
-        (REPORTS / "writeback.md").write_text("\n".join(log), encoding="utf-8")
+        WRITEBACK_LOG.write_text("\n".join(log), encoding="utf-8")
         print("\n".join(log), flush=True)
         shutil.rmtree(work, ignore_errors=True)
         return 3
@@ -230,7 +230,7 @@ def main(argv: list[str]) -> int:
     for sec_id, idxs in written_idx.items():
         save_state(sec_id, idxs, after)
     log.append(f"- 已同步：`l10n/data/mhfdat.bin` 與 `{CLIENT_BIN}`")
-    (REPORTS / "writeback.md").write_text("\n".join(log + [""]), encoding="utf-8")
+    WRITEBACK_LOG.write_text("\n".join(log + [""]), encoding="utf-8")
     print("\n".join(log), flush=True)
     shutil.rmtree(work, ignore_errors=True)
     return 0

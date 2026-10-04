@@ -31,8 +31,14 @@
 | `source/` | `l10n/extracted/` |
 | `translated/` | `l10n/working/csv/`（譯文側） |
 | `issues/<CATEGORY>.md` | `l10n/working/issues/<CATEGORY>.md` |
+| （批次 JSON） | `l10n/working/batches/{active,awaiting_qa,legacy}/` |
+| （待審隊列） | `l10n/working/issues/queue.md`（已譯禁止重翻） |
+| （回寫狀態） | `l10n/working/state/` |
+| （日誌） | `l10n/working/logs/` |
+| （一覽） | `l10n/working/catalogs/` |
+| （暫存候選） | `l10n/working/scratch/`（gitignore） |
 | （工程總進度） | `docs/TODO.md`（Phase 閘門；**不是**分類狀態機） |
-| （技術循環） | `docs/PHASE3-LOOP.md`＋ `l10n/working/PIPELINE.md` |
+| （技術循環） | `docs/PHASE3-LOOP.md`＋ `l10n/working/PIPELINE.md`＋ `l10n/working/README.md` |
 | （字型閘門） | `l10n/charset/`（whitelist／fallback） |
 | （二進位工作複本） | `l10n/data/`（gitignore） |
 | （遊戲本體） | `client/MHFCT4.1/`（gitignore；改前確認 `_backup/`） |
@@ -109,7 +115,7 @@
 - 數字半形、標點全形、台灣漢字（見 `STYLE.md`）  
 - MH 系列詞以《荒野》為準；Frontier 專有以 MHFO 台灣 wiki 為主，衝突則對照日服／可信來源  
 - 無法顯示之字：用 `fallback_glyph`／詞庫註記形，禁止硬寫缺字  
-- FTH 產物：`*-modified.bin`；狀態：`l10n/working/reports/writeback-state.json`  
+- FTH 產物：`*-modified.bin`；狀態：`l10n/working/state/writeback-state.json`；批次 JSON：`l10n/working/batches/`  
 - **禁止**把本體二進位加入 git commit  
 
 ## A.6 Commit 與 Git（翻譯任務內）

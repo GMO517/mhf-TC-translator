@@ -4,5 +4,7 @@ _verify/
 _verify*/
 _wbtest/
 _wbtest*/
+scratch/
+output/
 __pycache__/
 *.pyc

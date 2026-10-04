@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""將 reports/batch-*.json 譯文合併進 working CSV。
+"""將 batches/batch-*.json 譯文合併進 working CSV。
 
 JSON 形狀：
 {
@@ -15,18 +15,19 @@ import sys
 from pathlib import Path
 
 from charset_apply import to_display
+from paths import WORKING, CSV_DIR
 
-WORKING = Path(__file__).resolve().parent
-CSV_DIR = WORKING / "csv"
 SECTIONS = json.loads((WORKING / "sections.json").read_text(encoding="utf-8"))
 SEC_BY_ID = {s["id"]: s for s in SECTIONS}
 
 
 def main(argv: list[str]) -> int:
     if len(argv) < 2:
-        print("用法: apply_batch_json.py reports/batch-xxx.json")
+        print("用法: apply_batch_json.py batches/batch-xxx.json")
         return 2
     batch_path = Path(argv[1])
+    if not batch_path.is_absolute():
+        batch_path = WORKING / batch_path
     data = json.loads(batch_path.read_text(encoding="utf-8"))
     sec_id = data["section_id"]
     sec = SEC_BY_ID[sec_id]

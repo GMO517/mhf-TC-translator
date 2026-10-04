@@ -44,9 +44,10 @@
 
 ```
 1. 選定一個子類（例：票券）— 做到該子類清完
-2. 可多輪 agent／apply／delta 回寫，但不另立「續段字母」
-3. 子類完成 → 一次（或少數）commit：feat: items-name 票券
-4. 下一子類
+2. 批次 JSON：進行中→`batches/active/`；譯完待審→`batches/awaiting_qa/`；歷史誤切→`batches/legacy/`；隊列見 `issues/queue.md`
+3. 可多輪 agent／apply／delta 回寫，但不另立「續段字母」
+4. 子類完成 → 一次（或少數）commit：feat: items-name 票券
+5. 下一子類
 ```
 
 ### Commit 訊息

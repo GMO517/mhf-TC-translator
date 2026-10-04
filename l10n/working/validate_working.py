@@ -8,11 +8,9 @@ import re
 import sys
 from pathlib import Path
 
-WORKING = Path(__file__).resolve().parent
-ROOT = WORKING.parent
-WHITELIST = ROOT / "charset" / "whitelist.txt"
-CSV_DIR = WORKING / "csv"
-REPORTS = WORKING / "reports"
+from paths import WORKING, L10N, CSV_DIR, VALIDATE_LOG, ensure_dirs
+
+WHITELIST = L10N / "charset" / "whitelist.txt"
 
 PLACEHOLDER_RE = re.compile(
     r"\{j\}|\{/c\}|\{c\d+\}|\{K[^}]*\}|\{i[^}]*\}|\{u[^}]*\}"
@@ -76,7 +74,7 @@ def main(argv: list[str]) -> int:
     allow = load_allow()
     sections = json.loads((WORKING / "sections.json").read_text(encoding="utf-8"))
     only = set(argv[1:]) if len(argv) > 1 else None
-    REPORTS.mkdir(parents=True, exist_ok=True)
+    ensure_dirs()
     all_errs: list[str] = []
     lines = ["# working 驗證報告", ""]
     for sec in sections:
@@ -98,7 +96,7 @@ def main(argv: list[str]) -> int:
     else:
         lines.append("- （無）")
     lines.append("")
-    (REPORTS / "validate.md").write_text("\n".join(lines), encoding="utf-8")
+    VALIDATE_LOG.write_text("\n".join(lines), encoding="utf-8")
     print("\n".join(lines))
     return 1 if all_errs else 0
 

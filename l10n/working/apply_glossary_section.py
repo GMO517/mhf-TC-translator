@@ -7,12 +7,10 @@ import json
 import sys
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parents[1]
-GLOSSARY = ROOT / "glossary" / "terms.csv"
-EXTRACTED = ROOT / "extracted"
-WORKING = Path(__file__).resolve().parent
-CSV_DIR = WORKING / "csv"
-REPORTS = WORKING / "reports"
+from paths import WORKING, L10N, CSV_DIR, LOGS, ensure_dirs
+
+GLOSSARY = L10N / "glossary" / "terms.csv"
+EXTRACTED = L10N / "extracted"
 
 
 def load_glossary(categories: set[str]) -> dict[str, dict]:
@@ -64,8 +62,7 @@ def apply_one(section: dict) -> dict:
             # 未命中：暫留原文，避免回寫空白
             row["target"] = src
 
-    CSV_DIR.mkdir(parents=True, exist_ok=True)
-    REPORTS.mkdir(parents=True, exist_ok=True)
+    ensure_dirs()
     out_csv = CSV_DIR / section["extracted"]
     # FTH detect_translation_format 見首欄須為精確「index」；不可寫 BOM
     with out_csv.open("w", encoding="utf-8", newline="") as f:
@@ -86,7 +83,7 @@ def apply_one(section: dict) -> dict:
         *(hits if hits else ["| （無） | | | | |"]),
         "",
     ]
-    (REPORTS / f"{section['id']}-apply.md").write_text("\n".join(report), encoding="utf-8")
+    (LOGS / f"{section['id']}-apply.md").write_text("\n".join(report), encoding="utf-8")
     return {
         "id": section["id"],
         "rows": len(rows),
@@ -98,6 +95,7 @@ def apply_one(section: dict) -> dict:
 def main(argv: list[str]) -> int:
     sections = json.loads((WORKING / "sections.json").read_text(encoding="utf-8"))
     only = set(argv[1:]) if len(argv) > 1 else None
+    ensure_dirs()
     summary = ["# 詞庫套用總覽", ""]
     for sec in sections:
         if only and sec["id"] not in only:
@@ -106,7 +104,7 @@ def main(argv: list[str]) -> int:
         print(f"{info['id']}: hits={info['hits']}/{info['rows']}")
         summary.append(f"- `{info['id']}`：命中 {info['hits']}／{info['rows']}")
     summary.append("")
-    (REPORTS / "apply-summary.md").write_text("\n".join(summary), encoding="utf-8")
+    (LOGS / "apply-summary.md").write_text("\n".join(summary), encoding="utf-8")
     return 0
 
 
