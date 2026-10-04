@@ -60,7 +60,9 @@
 - [~] 按循環執行（層次 A 詞庫命中已回寫本體 → 層次 B：未入庫列）
 - [x] working 管線腳本（apply／validate／writeback／batch；CSV 無 BOM）
 - [x] 層次 A 回寫：items／melee／ranged／head／body（FTH 產物為 `*-modified.bin`）
-- [~] 層次 B：道具名分批中（批1～2 已回寫；批3～17 已套用 working、未 writeback；一覽／缺字註記見 `working/reports/ITEMS-TRANSLATED.md`）
+- [~] 層次 B：**依分類推進**（道具／武器／防具／說明文本；見 `PHASE3-LOOP.md`）  
+  - 道具 `items-name`：流水 batch 1–18 已回寫至本體；**不再開 batch-019+**；續譯改依子類  
+  - 一覽／缺字：`working/reports/ITEMS-TRANSLATED.md`
 - [ ] 私服進遊戲驗收
 
 
