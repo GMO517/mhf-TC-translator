@@ -28,3 +28,8 @@
 ## 未命中列策略
 
 `target = source`（暫留英文／原文），避免回寫空白；待層次 B 再譯。
+
+## 注意
+
+- working CSV **必須 UTF-8 無 BOM**（FTH 靠首欄名 `index` 辨識格式；BOM 會變成 offset 模式並寫入 0 條）。
+

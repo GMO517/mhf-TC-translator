@@ -1,0 +1,44 @@
+[
+  {
+    "id": "items-name",
+    "xpath": "dat/items/name",
+    "bin": "mhfdat.bin",
+    "extracted": "dat-items-name.csv",
+    "categories": ["item"]
+  },
+  {
+    "id": "weapons-melee-name",
+    "xpath": "dat/weapons/melee/name",
+    "bin": "mhfdat.bin",
+    "extracted": "dat-weapons-melee-name.csv",
+    "categories": ["weapon_type"]
+  },
+  {
+    "id": "weapons-ranged-name",
+    "xpath": "dat/weapons/ranged/name",
+    "bin": "mhfdat.bin",
+    "extracted": "dat-weapons-ranged-name.csv",
+    "categories": ["weapon_type"]
+  },
+  {
+    "id": "armors-head",
+    "xpath": "dat/armors/head",
+    "bin": "mhfdat.bin",
+    "extracted": "dat-armors-head.csv",
+    "categories": ["ui"]
+  },
+  {
+    "id": "armors-body",
+    "xpath": "dat/armors/body",
+    "bin": "mhfdat.bin",
+    "extracted": "dat-armors-body.csv",
+    "categories": ["ui"]
+  },
+  {
+    "id": "monsters-description",
+    "xpath": "dat/monsters/description",
+    "bin": "mhfdat.bin",
+    "extracted": "dat-monsters-description.csv",
+    "categories": ["monster", "frontier_monster"]
+  }
+]

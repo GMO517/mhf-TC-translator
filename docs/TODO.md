@@ -58,9 +58,10 @@
 > **工作循環**：`docs/PHASE3-LOOP.md`（部分處理 → agent 複審 → 過則擴大／不過則修 → 做到完）。
 
 - [~] 按循環執行（層次 A：6 xpath 詞庫命中 → 層次 B：未入庫列）
-- [ ] 按 section：填 `l10n/working/` → 驗證 placeholder／行寬／編碼
-- [ ] `--compress --encrypt` 回寫，覆蓋前對指紋
+- [x] working 管線腳本（apply／validate／writeback／batch；CSV 無 BOM）
+- [~] 層次 A working CSV 已產出；回寫需確認 FTH 已吃到譯文（曾因 BOM 寫入 0 條）
 - [ ] 私服進遊戲驗收該 section 後再做下一 section
+
 
 ## Phase 4 — 延伸
 
