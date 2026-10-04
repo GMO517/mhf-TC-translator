@@ -1,4 +1,4 @@
-# Review：items-name／dummy
+# Review：items-name／Dummy
 
 > **用途**：最終確認。不中斷主線。
 > 來源 batch：batches/awaiting_qa/batch-items-dummy.json｜**完整 n=676**
@@ -6,8 +6,6 @@
 ## 摘要
 
 - 筆數：**676**（全表，不抽樣）
-- 片假名殘留：**0**
-- 仍偏原文／半翻：**0**
 
 ## 全表
 

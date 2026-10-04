@@ -1,0 +1,38 @@
+{
+  "section_id": "items-name",
+  "label": "jewels-touch",
+  "translations": [
+    {
+      "index": "10421",
+      "target": "風壓回復猫珠"
+    },
+    {
+      "index": "10213",
+      "target": "歡愉猫珠"
+    },
+    {
+      "index": "10225",
+      "target": "密度猫珠"
+    },
+    {
+      "index": "11845",
+      "target": "攻防応援猫珠"
+    },
+    {
+      "index": "11848",
+      "target": "守防応援猫珠"
+    },
+    {
+      "index": "11851",
+      "target": "身體応援猫珠"
+    },
+    {
+      "index": "11854",
+      "target": "神防応援猫珠"
+    },
+    {
+      "index": "11811",
+      "target": "種族猫珠"
+    }
+  ]
+}

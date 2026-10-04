@@ -23,7 +23,7 @@
 | 2220 | Sleep Sword PA1 | 睡眠属性強化ＰＡ１ |
 | 2221 | Piercc S.Add PA1 | 貫通彈追加ＰＡ１ |
 | 2222 | Backpacking PA1 | 搬運ＰＡ１ |
-| 2223 | Gather Speed PA1 | 高速採取ＰＡ１ |
+| 2223 | Gather Speed PA1 | 高速採集ＰＡ１ |
 | 2224 | Psychic PA1 | 千里眼ＰＡ１ |
 | 2225 | Gunnery PA1 | 砲術ＰＡ１ |
 | 2226 | Flute Expert PA1 | 笛達人ＰＡ１ |
@@ -59,8 +59,8 @@
 | 2256 | All Res UP PB2 | 全耐性強化ＰＢ２ |
 | 2257 | Dragon Res PB1 | 耐龍ＰＢ１ |
 | 2258 | Dragon Res PB2 | 耐龍ＰＢ２ |
-| 2259 | Gathering PB1 | 採取ＰＢ１ |
-| 2260 | Gathering PB2 | 採取ＰＢ２ |
+| 2259 | Gathering PB1 | 採集ＰＢ１ |
+| 2260 | Gathering PB2 | 採集ＰＢ２ |
 | 2261 | Sharpening PC1 | 砥石使用ＰＣ１ |
 | 2262 | Sharpening PC2 | 砥石使用ＰＣ２ |
 | 2263 | Sharpening PC3 | 砥石使用ＰＣ３ |
@@ -169,8 +169,8 @@
 | 2366 | PrcShot Add SB2 | 貫通彈追加ＳＢ２ |
 | 2367 | Backpacking SB1 | 搬運ＳＢ１ |
 | 2368 | Backpacking SB2 | 搬運ＳＢ２ |
-| 2369 | Gather Speed SB1 | 高速採取ＳＢ１ |
-| 2370 | Gather Speed SB2 | 高速採取ＳＢ２ |
+| 2369 | Gather Speed SB1 | 高速採集ＳＢ１ |
+| 2370 | Gather Speed SB2 | 高速採集ＳＢ２ |
 | 2371 | Whim SB1 | 反復無常ＳＢ１ |
 | 2372 | Whim SB2 | 反復無常ＳＢ２ |
 | 2373 | Psychic SB1 | 千里眼ＳＢ１ |
@@ -255,12 +255,12 @@
 | 2452 | All Res UP SC4 | 全耐性強化ＳＣ４ |
 | 2453 | All Res UP SC5 | 全耐性強化ＳＣ５ |
 | 2454 | All Res UP SC6 | 全耐性強化ＳＣ６ |
-| 2455 | Gathering SC1 | 採取ＳＣ１ |
-| 2456 | Gathering SC2 | 採取ＳＣ２ |
-| 2457 | Gathering SC3 | 採取ＳＣ３ |
-| 2458 | Gathering SC4 | 採取ＳＣ４ |
-| 2459 | Gathering SC5 | 採取ＳＣ５ |
-| 2460 | Gathering SC6 | 採取ＳＣ６ |
+| 2455 | Gathering SC1 | 採集ＳＣ１ |
+| 2456 | Gathering SC2 | 採集ＳＣ２ |
+| 2457 | Gathering SC3 | 採集ＳＣ３ |
+| 2458 | Gathering SC4 | 採集ＳＣ４ |
+| 2459 | Gathering SC5 | 採集ＳＣ５ |
+| 2460 | Gathering SC6 | 採集ＳＣ６ |
 | 2461 | Psychic SC1 | 千里眼ＳＣ１ |
 | 2462 | Psychic SC2 | 千里眼ＳＣ２ |
 | 2463 | Psychic SC3 | 千里眼ＳＣ３ |
@@ -338,7 +338,7 @@
 | 2730 | Wind Pressure PA1 | 風壓ＰＡ１ |
 | 2731 | Stamina PA1 | 耐力ＰＡ１ |
 | 2732 | Sharpness PA1 | 鋒利度ＰＡ１ |
-| 2733 | Gathering PA1 | 採取ＰＡ１ |
+| 2733 | Gathering PA1 | 採集ＰＡ１ |
 | 2734 | Recovery PA1 | 回復ＰＡ１ |
 | 2735 | Combining PA1 | 調合成功ＰＡ１ |
 | 2736 | Eating PA1 | 食事ＰＡ１ |
@@ -394,10 +394,10 @@
 | 2786 | Gunnery PC2 | 砲術ＰＣ２ |
 | 2787 | Gunnery PC3 | 砲術ＰＣ３ |
 | 2788 | Gunnery PC4 | 砲術ＰＣ４ |
-| 2789 | Gather Speed PC1 | 高速採取ＰＣ１ |
-| 2790 | Gather Speed PC2 | 高速採取ＰＣ２ |
-| 2791 | Gather Speed PC3 | 高速採取ＰＣ３ |
-| 2792 | Gather Speed PC4 | 高速採取ＰＣ４ |
+| 2789 | Gather Speed PC1 | 高速採集ＰＣ１ |
+| 2790 | Gather Speed PC2 | 高速採集ＰＣ２ |
+| 2791 | Gather Speed PC3 | 高速採集ＰＣ３ |
+| 2792 | Gather Speed PC4 | 高速採集ＰＣ４ |
 | 2793 | Dragon Res PC1 | 耐龍ＰＣ１ |
 | 2794 | Dragon Res PC2 | 耐龍ＰＣ２ |
 | 2795 | Dragon Res PC3 | 耐龍ＰＣ３ |
@@ -755,9 +755,9 @@
 | 3423 | Auto-Guard SA3 | 自動防禦ＳＡ３ |
 | 3424 | Auto-Guard SA4 | 自動防禦ＳＡ４ |
 | 3425 | Auto-Guard SA5 | 自動防禦ＳＡ５ |
-| 3426 | Gather Speed SB3 | 高速採取ＳＢ３ |
-| 3427 | Gather Speed SB4 | 高速採取ＳＢ４ |
-| 3428 | Gather Speed SB5 | 高速採取ＳＢ５ |
+| 3426 | Gather Speed SB3 | 高速採集ＳＢ３ |
+| 3427 | Gather Speed SB4 | 高速採集ＳＢ４ |
+| 3428 | Gather Speed SB5 | 高速採集ＳＢ５ |
 | 3429 | Gunnery SB3 | 砲術ＳＢ３ |
 | 3430 | Gunnery SB4 | 砲術ＳＢ４ |
 | 3431 | Gunnery SB5 | 砲術ＳＢ５ |
@@ -799,11 +799,11 @@
 | 3467 | Stun Res SC9 | 耐気絶ＳＣ９ |
 | 3468 | Stun Res SC10 | 耐気絶ＳＣ１０ |
 | 3469 | Stun Res SC11 | 耐気絶ＳＣ１１ |
-| 3470 | Gather Speed SC1 | 高速採取ＳＣ１ |
-| 3471 | Gather Speed SC2 | 高速採取ＳＣ２ |
-| 3472 | Gather Speed SC3 | 高速採取ＳＣ３ |
-| 3473 | Gather Speed SC4 | 高速採取ＳＣ４ |
-| 3474 | Gather Speed SC5 | 高速採取ＳＣ５ |
+| 3470 | Gather Speed SC1 | 高速採集ＳＣ１ |
+| 3471 | Gather Speed SC2 | 高速採集ＳＣ２ |
+| 3472 | Gather Speed SC3 | 高速採集ＳＣ３ |
+| 3473 | Gather Speed SC4 | 高速採集ＳＣ４ |
+| 3474 | Gather Speed SC5 | 高速採集ＳＣ５ |
 | 3475 | Dragon Sword SC1 | 龍属性強化ＳＣ１ |
 | 3476 | Dragon Sword SC2 | 龍属性強化ＳＣ２ |
 | 3477 | Dragon Sword SC3 | 龍属性強化ＳＣ３ |
@@ -846,9 +846,9 @@
 | 3743 | Speed Setup PA1 | 陷罠師ＰＡ１ |
 | 3744 | Speed Setup PA2 | 陷罠師ＰＡ２ |
 | 3745 | Speed Setup PA3 | 陷罠師ＰＡ３ |
-| 3746 | Gathering PA2 | 採取ＰＡ２ |
-| 3747 | Gathering PA3 | 採取ＰＡ３ |
-| 3748 | Gathering PA4 | 採取ＰＡ４ |
+| 3746 | Gathering PA2 | 採集ＰＡ２ |
+| 3747 | Gathering PA3 | 採集ＰＡ３ |
+| 3748 | Gathering PA4 | 採集ＰＡ４ |
 | 3749 | Combining PA2 | 調合成功ＰＡ２ |
 | 3750 | Combining PA3 | 調合成功ＰＡ３ |
 | 3751 | Combining PA4 | 調合成功ＰＡ４ |
@@ -876,9 +876,9 @@
 | 3773 | Psychic PB1 | 千里眼ＰＢ１ |
 | 3774 | Psychic PB2 | 千里眼ＰＢ２ |
 | 3775 | Psychic PB3 | 千里眼ＰＢ３ |
-| 3776 | Gathering Spd PB1 | 高速採取ＰＢ１ |
-| 3777 | Gathering Spd PB2 | 高速採取ＰＢ２ |
-| 3778 | Gathering Spd PB3 | 高速採取ＰＢ３ |
+| 3776 | Gathering Spd PB1 | 高速採集ＰＢ１ |
+| 3777 | Gathering Spd PB2 | 高速採集ＰＢ２ |
+| 3778 | Gathering Spd PB3 | 高速採集ＰＢ３ |
 | 3779 | Guts PC1 | 毅力ＰＣ１ |
 | 3780 | Guts PC2 | 毅力ＰＣ２ |
 | 3781 | Guts PC3 | 毅力ＰＣ３ |
@@ -937,10 +937,10 @@
 | 3834 | Psychic PC2 | 千里眼ＰＣ２ |
 | 3835 | Psychic PC3 | 千里眼ＰＣ３ |
 | 3836 | Psychic PC4 | 千里眼ＰＣ４ |
-| 3837 | Gathering PC1 | 採取ＰＣ１ |
-| 3838 | Gathering PC2 | 採取ＰＣ２ |
-| 3839 | Gathering PC3 | 採取ＰＣ３ |
-| 3840 | Gathering PC4 | 採取ＰＣ４ |
+| 3837 | Gathering PC1 | 採集ＰＣ１ |
+| 3838 | Gathering PC2 | 採集ＰＣ２ |
+| 3839 | Gathering PC3 | 採集ＰＣ３ |
+| 3840 | Gathering PC4 | 採集ＰＣ４ |
 | 3841 | Psychic SA1 | 千里眼ＳＡ１ |
 | 3842 | Psychic SA2 | 千里眼ＳＡ２ |
 | 3843 | Psychic SA3 | 千里眼ＳＡ３ |
@@ -959,9 +959,9 @@
 | 3856 | Dragon Res SB4 | 耐龍ＳＢ４ |
 | 3857 | Dragon Res SB5 | 耐龍ＳＢ５ |
 | 3858 | Dragon Res SB6 | 耐龍ＳＢ６ |
-| 3859 | Gathering SB1 | 採取ＳＢ１ |
-| 3860 | Gathering SB2 | 採取ＳＢ２ |
-| 3861 | Gathering SB3 | 採取ＳＢ３ |
+| 3859 | Gathering SB1 | 採集ＳＢ１ |
+| 3860 | Gathering SB2 | 採集ＳＢ２ |
+| 3861 | Gathering SB3 | 採集ＳＢ３ |
 | 3862 | Thunder Sword SB1 | 雷属性強化ＳＢ１ |
 | 3863 | Thunder Sword SB2 | 雷属性強化ＳＢ２ |
 | 3864 | Thunder Sword SB3 | 雷属性強化ＳＢ３ |
@@ -1130,9 +1130,9 @@
 | 4208 | Bond II PC1 | 絆ⅡＰＣ１ |
 | 4209 | Bond II PC2 | 絆ⅡＰＣ２ |
 | 4210 | Bond II PC3 | 絆ⅡＰＣ３ |
-| 4211 | Gath. Speed II PC1 | 高速採取ⅡＰＣ１ |
-| 4212 | Gath.Speed II PC2 | 高速採取ⅡＰＣ２ |
-| 4213 | Gath. Speed II PC3 | 高速採取ⅡＰＣ３ |
+| 4211 | Gath. Speed II PC1 | 高速採集ⅡＰＣ１ |
+| 4212 | Gath.Speed II PC2 | 高速採集ⅡＰＣ２ |
+| 4213 | Gath. Speed II PC3 | 高速採集ⅡＰＣ３ |
 | 4214 | Stat Attack II SA1 | 特殊攻撃ⅡＳＡ１ |
 | 4215 | Stat Attack II SA2 | 特殊攻撃ⅡＳＡ２ |
 | 4216 | Sharpness II SA1 | 鋒利度ⅡＳＡ１ |
@@ -1141,7 +1141,7 @@
 | 4219 | Recoil II SA2 | 反動減軽ⅡＳＡ２ |
 | 4220 | Psychic II SA1 | 千里眼ⅡＳＡ１ |
 | 4221 | Gunnery II SA1 | 砲術ⅡＳＡ１ |
-| 4222 | Rap.Gathering SA1 | 高速採取ＳＡ１ |
+| 4222 | Rap.Gathering SA1 | 高速採集ＳＡ１ |
 | 4223 | Cap. Expert II SA1 | 捕獲達人ⅡＳＡ１ |
 | 4224 | Bomb Boost II SA1 | 爆彈強化ⅡＳＡ１ |
 | 4225 | Defense II SA1 | 防禦ⅡＳＡ１ |
@@ -1182,8 +1182,8 @@
 | 4261 | Flt.Expert Ⅱ SC2 | 笛達人ⅡＳＣ２ |
 | 4262 | Terrain Ⅱ SC1 | 地形耐性ⅡＳＣ１ |
 | 4263 | Terrain Ⅱ SC2 | 地形耐性ⅡＳＣ２ |
-| 4264 | Gathering Ⅱ SC1 | 採取ⅡＳＣ１ |
-| 4265 | Gathering Ⅱ SC2 | 採取ⅡＳＣ２ |
+| 4264 | Gathering Ⅱ SC1 | 採集ⅡＳＣ１ |
+| 4265 | Gathering Ⅱ SC2 | 採集ⅡＳＣ２ |
 | 4266 | P.Shot Add Ⅱ SC1 | 貫通彈追加ⅡＳＣ１ |
 | 4267 | P.Shot Add Ⅱ SC2 | 貫通彈追加ⅡＳＣ２ |
 | 4268 | Quake Res Ⅱ SC1 | 耐震ⅡＳＣ１ |
@@ -1303,9 +1303,9 @@
 | 4566 | Poison Res II PC1 | 耐毒ⅡＰＣ１ |
 | 4567 | Poison Res II PC2 | 耐毒ⅡＰＣ２ |
 | 4568 | Poison Res II PC3 | 耐毒ⅡＰＣ３ |
-| 4569 | Gath.Speed II PC4 | 高速採取ⅡＰＣ４ |
-| 4570 | Gath.Speed II PC5 | 高速採取ⅡＰＣ５ |
-| 4571 | Gath.Speed II PC6 | 高速採取ⅡＰＣ６ |
+| 4569 | Gath.Speed II PC4 | 高速採集ⅡＰＣ４ |
+| 4570 | Gath.Speed II PC5 | 高速採集ⅡＰＣ５ |
+| 4571 | Gath.Speed II PC6 | 高速採集ⅡＰＣ６ |
 | 4572 | Psychic II PC1 | 千里眼ⅡＰＣ１ |
 | 4573 | Psychic II PC2 | 千里眼ⅡＰＣ２ |
 | 4574 | Psychic II PC3 | 千里眼ⅡＰＣ３ |
@@ -1330,7 +1330,7 @@
 | 4593 | N.Shot Up II SA2 | 通常彈強化ⅡＳＡ２ |
 | 4594 | Stamina II SA1 | 耐力ⅡＳＡ１ |
 | 4595 | Stamina II SA2 | 耐力ⅡＳＡ２ |
-| 4596 | Gathering II SA1 | 採取ⅡＳＡ１ |
+| 4596 | Gathering II SA1 | 採集ⅡＳＡ１ |
 | 4597 | Combining II SA1 | 調合成功ⅡＳＡ１ |
 | 4598 | Meal II SA1 | 食事ⅡＳＡ１ |
 | 4599 | Heat Res II SA1 | 耐暑ⅡＳＡ１ |
@@ -1342,8 +1342,8 @@
 | 4605 | Psychic II SB2 | 千里眼ⅡＳＢ２ |
 | 4606 | Hunger II SB1 | 飢餓ⅡＳＢ１ |
 | 4607 | Hunger II SB2 | 飢餓ⅡＳＢ２ |
-| 4608 | Gathering II SB1 | 採取ⅡＳＢ１ |
-| 4609 | Gathering II SB2 | 採取ⅡＳＢ２ |
+| 4608 | Gathering II SB1 | 採集ⅡＳＢ１ |
+| 4609 | Gathering II SB2 | 採集ⅡＳＢ２ |
 | 4610 | Quake Res II SB1 | 耐震ⅡＳＢ１ |
 | 4611 | Quake Res II SB2 | 耐震ⅡＳＢ２ |
 | 4612 | Am.Combiner II SB1 | 彈藥調合ⅡＳＢ１ |
@@ -1370,8 +1370,8 @@
 | 4633 | Eating II SC2 | 食事ⅡＳＣ２ |
 | 4634 | Dragon Res II SC1 | 耐龍ⅡＳＣ１ |
 | 4635 | Dragon Res II SC2 | 耐龍ⅡＳＣ２ |
-| 4636 | Gath.Speed II SC1 | 高速採取ⅡＳＣ１ |
-| 4637 | Gath.Speed II SC2 | 高速採取ⅡＳＣ２ |
+| 4636 | Gath.Speed II SC1 | 高速採集ⅡＳＣ１ |
+| 4637 | Gath.Speed II SC2 | 高速採集ⅡＳＣ２ |
 | 4638 | Backpacking II SC1 | 搬運ⅡＳＣ１ |
 | 4639 | Backpacking II SC2 | 搬運ⅡＳＣ２ |
 | 4640 | Wide-Area II SC1 | 廣域化ⅡＳＣ１ |
@@ -1535,8 +1535,8 @@
 | 5084 | Precision Ⅱ SA1 | 精密射撃ⅡＳＡ１ |
 | 5085 | Reload Ⅱ SA1 | 裝填速度ⅡＳＡ１ |
 | 5086 | Eating Ⅱ SB1 | 食事ⅡＳＢ１ |
-| 5087 | Gathering Ⅱ SB3 | 採取ⅡＳＢ３ |
-| 5088 | Gather Speed Ⅱ SB1 | 高速採取ⅡＳＢ１ |
+| 5087 | Gathering Ⅱ SB3 | 採集ⅡＳＢ３ |
+| 5088 | Gather Speed Ⅱ SB1 | 高速採集ⅡＳＢ１ |
 | 5089 | Psychic Ⅱ SB3 | 千里眼ⅡＳＢ３ |
 | 5090 | Ice Sword Ⅱ SC1 | 冰属性強化ⅡＳＣ１ |
 | 5091 | Dragon Sword Ⅱ SC1 | 龍属性強化ⅡＳＣ１ |
@@ -1639,11 +1639,11 @@
 | 5515 | Poison Res Ⅱ PC6 | 耐毒ⅡＰＣ６ |
 | 5516 | Poison Res Ⅱ PC7 | 耐毒ⅡＰＣ７ |
 | 5517 | Poison Res Ⅱ PC8 | 耐毒ⅡＰＣ８ |
-| 5518 | Gthr.Speed Ⅱ PC7 | 高速採取ⅡＰＣ７ |
-| 5519 | Gthr.Speed Ⅱ PC8 | 高速採取ⅡＰＣ８ |
-| 5520 | Gthr.Speed Ⅱ PC9 | 高速採取ⅡＰＣ９ |
-| 5521 | Gthr.Speed Ⅱ PC10 | 高速採取ⅡＰＣ１０ |
-| 5522 | Gthr.Speed Ⅱ PC11 | 高速採取ⅡＰＣ１１ |
+| 5518 | Gthr.Speed Ⅱ PC7 | 高速採集ⅡＰＣ７ |
+| 5519 | Gthr.Speed Ⅱ PC8 | 高速採集ⅡＰＣ８ |
+| 5520 | Gthr.Speed Ⅱ PC9 | 高速採集ⅡＰＣ９ |
+| 5521 | Gthr.Speed Ⅱ PC10 | 高速採集ⅡＰＣ１０ |
+| 5522 | Gthr.Speed Ⅱ PC11 | 高速採集ⅡＰＣ１１ |
 | 5523 | Wep.Handling Ⅱ SA1 | 武器扱ⅡＳＡ１ |
 | 5524 | Fasting Ⅱ SA1 | 絶食ⅡＳＡ１ |
 | 5525 | Focus Ⅱ SA1 | 集中ⅡＳＡ１ |
@@ -1719,9 +1719,9 @@
 | 5883 | Pierce Shot II PB1 | 貫通彈強化ⅡＰＢ１ |
 | 5884 | Pierce Shot II PB2 | 貫通彈強化ⅡＰＢ２ |
 | 5885 | Pierce Shot II PB3 | 貫通彈強化ⅡＰＢ３ |
-| 5886 | Gthr.Speed II PB1 | 高速採取ⅡＰＢ１ |
-| 5887 | Gthr.Speed II PB2 | 高速採取ⅡＰＢ２ |
-| 5888 | Gthr.Speed II PB3 | 高速採取ⅡＰＢ３ |
+| 5886 | Gthr.Speed II PB1 | 高速採集ⅡＰＢ１ |
+| 5887 | Gthr.Speed II PB2 | 高速採集ⅡＰＢ２ |
+| 5888 | Gthr.Speed II PB3 | 高速採集ⅡＰＢ３ |
 | 5889 | Whim II PB1 | 反復無常ⅡＰＢ１ |
 | 5890 | Whim II PB2 | 反復無常ⅡＰＢ２ |
 | 5891 | Whim II PB3 | 反復無常ⅡＰＢ３ |
@@ -1778,11 +1778,11 @@
 | 5942 | Pierce Shot II PC3 | 貫通彈強化ⅡＰＣ３ |
 | 5943 | Pierce Shot II PC4 | 貫通彈強化ⅡＰＣ４ |
 | 5944 | Pierce Shot II PC5 | 貫通彈強化ⅡＰＣ５ |
-| 5945 | Gathering II PC1 | 採取ⅡＰＣ１ |
-| 5946 | Gathering II PC2 | 採取ⅡＰＣ２ |
-| 5947 | Gathering II PC3 | 採取ⅡＰＣ３ |
-| 5948 | Gathering II PC4 | 採取ⅡＰＣ４ |
-| 5949 | Gathering II PC5 | 採取ⅡＰＣ５ |
+| 5945 | Gathering II PC1 | 採集ⅡＰＣ１ |
+| 5946 | Gathering II PC2 | 採集ⅡＰＣ２ |
+| 5947 | Gathering II PC3 | 採集ⅡＰＣ３ |
+| 5948 | Gathering II PC4 | 採集ⅡＰＣ４ |
+| 5949 | Gathering II PC5 | 採集ⅡＰＣ５ |
 | 5950 | Para Res II PC9 | 耐麻痺ⅡＰＣ９ |
 | 5951 | Para Res II PC10 | 耐麻痺ⅡＰＣ１０ |
 | 5952 | Para Res II PC11 | 耐麻痺ⅡＰＣ１１ |
@@ -1813,11 +1813,11 @@
 | 5977 | Dragon Res II SC5 | 耐龍ⅡＳＣ５ |
 | 5978 | Dragon Res II SC6 | 耐龍ⅡＳＣ６ |
 | 5979 | Dragon Res II SC7 | 耐龍ⅡＳＣ７ |
-| 5980 | Gathering II SC3 | 採取ⅡＳＣ３ |
-| 5981 | Gathering II SC4 | 採取ⅡＳＣ４ |
-| 5982 | Gathering II SC5 | 採取ⅡＳＣ５ |
-| 5983 | Gathering II SC6 | 採取ⅡＳＣ６ |
-| 5984 | Gathering II SC7 | 採取ⅡＳＣ７ |
+| 5980 | Gathering II SC3 | 採集ⅡＳＣ３ |
+| 5981 | Gathering II SC4 | 採集ⅡＳＣ４ |
+| 5982 | Gathering II SC5 | 採集ⅡＳＣ５ |
+| 5983 | Gathering II SC6 | 採集ⅡＳＣ６ |
+| 5984 | Gathering II SC7 | 採集ⅡＳＣ７ |
 | 5985 | Sleep Res II SC5 | 耐睡眠ⅡＳＣ５ |
 | 5986 | Sleep Res II SC6 | 耐睡眠ⅡＳＣ６ |
 | 5987 | Sleep Res II SC7 | 耐睡眠ⅡＳＣ７ |
@@ -1855,9 +1855,9 @@
 | 6279 | Pierce Shot II PB4 | 貫通彈強化ⅡＰＢ４ |
 | 6280 | Pierce Shot II PB5 | 貫通彈強化ⅡＰＢ５ |
 | 6281 | Pierce Shot II PB6 | 貫通彈強化ⅡＰＢ６ |
-| 6282 | Gath.Speed II PB4 | 高速採取ⅡＰＢ４ |
-| 6283 | Gath.Speed II PB5 | 高速採取ⅡＰＢ５ |
-| 6284 | Gath.Speed II PB6 | 高速採取ⅡＰＢ６ |
+| 6282 | Gath.Speed II PB4 | 高速採集ⅡＰＢ４ |
+| 6283 | Gath.Speed II PB5 | 高速採集ⅡＰＢ５ |
+| 6284 | Gath.Speed II PB6 | 高速採集ⅡＰＢ６ |
 | 6285 | Whim II PB4 | 反復無常ⅡＰＢ４ |
 | 6286 | Whim II PB5 | 反復無常ⅡＰＢ５ |
 | 6287 | Whim II PB6 | 反復無常ⅡＰＢ６ |
@@ -1914,11 +1914,11 @@
 | 6338 | Pierce Add II PC8 | 貫通彈追加ⅡＰＣ８ |
 | 6339 | Pierce Add II PC9 | 貫通彈追加ⅡＰＣ９ |
 | 6340 | Pierce Add II PC10 | 貫通彈追加ⅡＰＣ１０ |
-| 6341 | Gathering II PC6 | 採取ⅡＰＣ６ |
-| 6342 | Gathering II PC7 | 採取ⅡＰＣ７ |
-| 6343 | Gathering II PC8 | 採取ⅡＰＣ８ |
-| 6344 | Gathering II PC9 | 採取ⅡＰＣ９ |
-| 6345 | Gathering II PC10 | 採取ⅡＰＣ１０ |
+| 6341 | Gathering II PC6 | 採集ⅡＰＣ６ |
+| 6342 | Gathering II PC7 | 採集ⅡＰＣ７ |
+| 6343 | Gathering II PC8 | 採集ⅡＰＣ８ |
+| 6344 | Gathering II PC9 | 採集ⅡＰＣ９ |
+| 6345 | Gathering II PC10 | 採集ⅡＰＣ１０ |
 | 6346 | Expert II PC1 | 達人ⅡＰＣ１ |
 | 6347 | Expert II PC2 | 達人ⅡＰＣ２ |
 | 6348 | Expert II PC3 | 達人ⅡＰＣ３ |
@@ -1949,11 +1949,11 @@
 | 6373 | Dragon Res II SC10 | 耐龍ⅡＳＣ１０ |
 | 6374 | Dragon Res II SC11 | 耐龍ⅡＳＣ１１ |
 | 6375 | Dragon Res II SC12 | 耐龍ⅡＳＣ１２ |
-| 6376 | Gathering II SC8 | 採取ⅡＳＣ８ |
-| 6377 | Gathering II SC9 | 採取ⅡＳＣ９ |
-| 6378 | Gathering II SC10 | 採取ⅡＳＣ１０ |
-| 6379 | Gathering II SC11 | 採取ⅡＳＣ１１ |
-| 6380 | Gathering II SC12 | 採取ⅡＳＣ１２ |
+| 6376 | Gathering II SC8 | 採集ⅡＳＣ８ |
+| 6377 | Gathering II SC9 | 採集ⅡＳＣ９ |
+| 6378 | Gathering II SC10 | 採集ⅡＳＣ１０ |
+| 6379 | Gathering II SC11 | 採集ⅡＳＣ１１ |
+| 6380 | Gathering II SC12 | 採集ⅡＳＣ１２ |
 | 6381 | Throwing II SC1 | 投擲ⅡＳＣ１ |
 | 6382 | Throwing II SC2 | 投擲ⅡＳＣ２ |
 | 6383 | Throwing II SC3 | 投擲ⅡＳＣ３ |

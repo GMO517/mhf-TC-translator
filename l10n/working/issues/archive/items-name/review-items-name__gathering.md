@@ -1,29 +1,42 @@
-# Review：items-name／採集
+# Review：items-name／採集（分區）
 
 > **用途**：最終確認。不中斷主線。
 > 來源 batch：batches/awaiting_qa/batch-items-gathering.json｜**完整 n=488**
 
 ## 摘要
 
-- 筆數：**488**（全表，不抽樣）
-- 片假名殘留：**0**
-- 仍偏原文／半翻：**0**
+- 總筆數：**488**
+- **一、可定**：**488**
+- **二、顏色格式待對齊**：**0**
+- **三、紙牌礦（可片／色格式）**：**0**
+- **四、音譯待修**：**0**
+- **五、判斷不了**：**0**
+- 待處理小計：**0**
 
-## 全表
+分區原則（**先分類、尚未整批重翻**）：
+- 可定：無明顯音譯垃圾／無雙「的」。
+- 顏色：染色草、色＋礦石等，宜對齊「品名．色／・色」。
+- 紙牌礦：`可片`→`紙牌`，並統一色標記。
+- 音譯：蟲名、魔物核心、半翻礦名等應義譯／對詞庫。
+- 判斷不了：專名無詞庫（如 Magzegite）。
+
+---
+
+## 一、可定
 
 | index | 原文 | 譯文 |
 |---|---|---|
 | 1283 | Insect Needle | 昆蟲的針 |
 | 1284 | Insect Needle+ | 昆蟲的尖針 |
 | 1285 | Insect Stinger | 昆蟲的針刺 |
-| 1452 | Red Dyegrass | 紅色染色草 |
-| 1453 | Blue Dyegrass | 藍色染色草 |
-| 1454 | Yellow Dyegrass | 黄色染色草 |
-| 1455 | Green Dyegrass | 綠色染色草 |
-| 1456 | Purple Dyegrass | 紫色染色草 |
-| 1457 | Black Dyegrass | 黑色染色草 |
-| 1458 | White Dyegrass | 白色染色草 |
-| 1459 | Rainbow Dyegrass | 彩虹染色草 |
+| 1452 | Red Dyegrass | 染色草・赤 |
+| 1453 | Blue Dyegrass | 染色草・藍 |
+| 1454 | Yellow Dyegrass | 染色草・黄 |
+| 1455 | Green Dyegrass | 染色草・緑 |
+| 1456 | Purple Dyegrass | 染色草・紫 |
+| 1457 | Black Dyegrass | 染色草・黒 |
+| 1458 | White Dyegrass | 染色草・白 |
+| 1459 | Rainbow Dyegrass | 染色草・虹 |
 | 1490 | Stone G | 石頭Ｇ |
 | 1519 | Black Star Iron | 黑星鐵 |
 | 1557 | Caravan Rare Herb | 旅團稀有藥草 |
@@ -64,7 +77,7 @@
 | 2171 | Wolf Beetle | 狼甲蟲 |
 | 2172 | Stick Bug | 竹節蟲 |
 | 2173 | Rampo Butterfly | 蘭波蝴蝶 |
-| 2176 | Leafworm | 勒阿夫沃爾姆 |
+| 2176 | Leafworm | 葉蠕蟲 |
 | 2178 | Smooth Stone | 光滑石 |
 | 2183 | Dapoten Flower | 達波騰花 |
 | 2185 | Honey Grass | 蜂蜜草 |
@@ -78,7 +91,7 @@
 | 2193 | Diamond Stone | 金剛石 |
 | 2194 | Starlike Stone | 星形石 |
 | 2196 | Nail Grasshopper | 釘蝗蟲 |
-| 2197 | Luminescent Worm | 爾烏米内斯克艾恩特蟲 |
+| 2197 | Luminescent Worm | 發光蠕蟲 |
 | 2198 | Insect Exuviae | 昆蟲蛻 |
 | 2203 | Mirror Stone | 鏡石 |
 | 2597 | Iron Star Chunk | 鐵星塊 |
@@ -92,33 +105,33 @@
 | 2918 | Purse Grass | 袋草 |
 | 2919 | Reverse Grass | 逆草 |
 | 2920 | Yanat Ore | 亞納特礦石 |
-| 2921 | Green Mold Stone | 綠黴石 |
-| 2922 | Blue Mold Stone | 藍黴石 |
-| 2923 | Red Mold Stone | 紅黴石 |
+| 2921 | Green Mold Stone | 黴石・緑 |
+| 2922 | Blue Mold Stone | 黴石・藍 |
+| 2923 | Red Mold Stone | 黴石・紅 |
 | 2924 | Snow Crystals | 雪結晶 |
 | 2925 | Ice Bug | 冰蟲 |
 | 2926 | Ice Butterfly | 冰蝴蝶 |
 | 2928 | Snow Spider | 雪蜘蛛 |
-| 2929 | Earthworm | 艾阿爾斯沃爾姆 |
+| 2929 | Earthworm | 土蠕蟲 |
 | 2933 | Spicy Pepper | 辛香椒 |
 | 2934 | Inferno Grass | 煉獄草 |
 | 2935 | Charcoal Grass | 木炭草 |
 | 2936 | Flaming Grass | 火焔草 |
-| 2939 | Red Burdock Stone | 紅牛蒡石 |
-| 2941 | Blk Burdock Stone | 黑牛蒡石 |
-| 2942 | Blue Burdock Stone | 藍牛蒡石 |
+| 2939 | Red Burdock Stone | 牛蒡石・紅 |
+| 2941 | Blk Burdock Stone | 牛蒡石・黒 |
+| 2942 | Blue Burdock Stone | 牛蒡石・藍 |
 | 2943 | Fire Beetle | 火甲蟲 |
-| 2945 | Rockworm | 羅克沃爾姆 |
+| 2945 | Rockworm | 岩蠕蟲 |
 | 2950 | Stone Shard [Top] | 石片［上］ |
 | 2951 | Stone Shard [Mid] | 石片［中］ |
 | 2952 | Stone Shard [Bot] | 石片［下］ |
-| 3022 | Card Ore Blue | 可片礦藍 |
-| 3023 | Card Ore Gray | 可片礦灰 |
-| 3024 | Card Ore Green | 可片礦綠 |
-| 3025 | Card Ore Orange | 可片礦橙 |
+| 3022 | Card Ore Blue | 紙牌礦石・藍 |
+| 3023 | Card Ore Gray | 紙牌礦石・灰 |
+| 3024 | Card Ore Green | 紙牌礦石・緑 |
+| 3025 | Card Ore Orange | 紙牌礦石・橙 |
 | 3298 | Reversible Stone | 雙面石 |
 | 3320 | Steel Ore | 鋼鐵礦石 |
-| 3556 | Feathered Rockworm | 費阿斯艾雷德羅克沃爾姆 |
+| 3556 | Feathered Rockworm | 羽岩蠕蟲 |
 | 3557 | Tallroot Butterfly | 高根蝴蝶 |
 | 3560 | Peach Butterfly | 桃蝴蝶 |
 | 3561 | Arcstone | 弧石 |
@@ -137,14 +150,14 @@
 | 3667 | Camellia Grass St. | 山茶草莖 |
 | 3668 | Camellia Grass Se. | 山茶草種 |
 | 3670 | Conc Grass Essence | 濃縮草精華 |
-| 3685 | Card Ore Red | 可片礦紅 |
-| 3686 | Card Ore Clr | 可片礦彩 |
-| 3687 | Card Ore Purple | 可片礦紫 |
-| 3688 | Card Ore Pink | 可片礦粉 |
+| 3685 | Card Ore Red | 紙牌礦石・赤 |
+| 3686 | Card Ore Clr | 紙牌礦石・彩 |
+| 3687 | Card Ore Purple | 紙牌礦石・紫 |
+| 3688 | Card Ore Pink | 紙牌礦石・粉 |
 | 3704 | Gemstone Egg | 寶石蛋 |
-| 3999 | Card Ore White | 可片礦白 |
-| 4000 | Card Ore Maroon | 可片礦褐 |
-| 4001 | Card Ore Yellow | 可片礦黄 |
+| 3999 | Card Ore White | 紙牌礦石・白 |
+| 4000 | Card Ore Maroon | 紙牌礦石・褐 |
+| 4001 | Card Ore Yellow | 紙牌礦石・黄 |
 | 4036 | Airborne Spores | 飛散胞子 |
 | 4057 | Pure Wht Star Iron | 純白星鐵 |
 | 4093 | Carved Light Stone | 雕刻光石 |
@@ -159,9 +172,9 @@
 | 4354 | Defense Berry | 防禦果實 |
 | 4355 | Combo Rate Berry | 調合率果實 |
 | 4357 | Eating Speed Berry | 進食速度果實 |
-| 4368 | Card Ore Sand | 可片礦沙 |
-| 4369 | Card Ore Plum | 可片礦梅 |
-| 4370 | Card Ore Soot | 可片礦煤 |
+| 4368 | Card Ore Sand | 紙牌礦石・沙 |
+| 4369 | Card Ore Plum | 紙牌礦石・梅 |
+| 4370 | Card Ore Soot | 紙牌礦石・煤 |
 | 4426 | Virulent Mushroom | 劇毒菇 |
 | 4466 | Pure Dawn Crystal | 純淨黎明結晶 |
 | 4467 | Electric Stone | 電氣石 |
@@ -178,13 +191,13 @@
 | 4767 | Parusanto Ore | 波魯桑托礦石 |
 | 4769 | Fishing Bug | 釣魚蟲 |
 | 4770 | Rockfang Worm | 岩牙蟲 |
-| 4775 | Card Ore [Ibis] | 可片礦［朱鷺］ |
-| 4776 | Card Ore [Muscle] | 可片礦［筋肉］ |
-| 4777 | Card Ore [Leap] | 可片礦［跳躍］ |
+| 4775 | Card Ore [Ibis] | 紙牌礦石・朱鷺 |
+| 4776 | Card Ore [Muscle] | 紙牌礦石・筋肉 |
+| 4777 | Card Ore [Leap] | 紙牌礦石・跳躍 |
 | 4792 | Seabreeze Stone | 海風石 |
 | 4854 | Magnastone | 磁石 |
-| 5185 | Card Ore [Ebony] | 可片礦［烏木］ |
-| 5186 | Card Ore [Mauve] | 可片礦［淡紫］ |
+| 5185 | Card Ore [Ebony] | 紙牌礦石・烏木 |
+| 5186 | Card Ore [Mauve] | 紙牌礦石・淡紫 |
 | 5189 | Blue Iron Sand | 藍鐵砂 |
 | 5190 | Meteorite Gemstone | 隕石寶石 |
 | 5191 | Golden Turtlestone | 黄金龜石 |
@@ -199,10 +212,10 @@
 | 5381 | Purple Purecrystal | 紫淨結晶 |
 | 5587 | Corum Steel Stone | 柯倫鋼石 |
 | 5592 | Starlight Crystal | 星光結晶 |
-| 5593 | Scrlt Drgn Iron | 斯克爾爾特龍鐵 |
+| 5593 | Scrlt Drgn Iron | 緋龍鐵 |
 | 5594 | Ghost Iron | 幽靈鐵 |
-| 5596 | Card Ore Aoi | 可片礦葵 |
-| 5597 | Card Ore Katsura | 可片礦桂 |
+| 5596 | Card Ore Aoi | 紙牌礦石・葵 |
+| 5597 | Card Ore Katsura | 紙牌礦石・桂 |
 | 5614 | Mezeporta Flower | 梅傑波爾塔之花 |
 | 5617 | Moonlight Herbs | 月光草 |
 | 5623 | Piercing Gemstone | 貫通寶石 |
@@ -212,9 +225,9 @@
 | 5765 | Tuna Blowfish | 鮪河豚 |
 | 6045 | Ice Stones | 冰石 |
 | 6046 | Ice Blade Crystal | 冰刃結晶 |
-| 6047 | Card Ore Still | 可片礦靜 |
-| 6048 | Card Ore Spirit | 可片礦魂 |
-| 6049 | Card Ore Pure | 可片礦純淨 |
+| 6047 | Card Ore Still | 紙牌礦石・靜 |
+| 6048 | Card Ore Spirit | 紙牌礦石・魂 |
+| 6049 | Card Ore Pure | 紙牌礦石・純 |
 | 6050 | N545 Ore | Ｎ５４５礦石 |
 | 6066 | Gospel Stone | 福音石 |
 | 6602 | Red Tea Seeds | 紅茶種子 |
@@ -253,19 +266,19 @@
 | 7033 | Huge Pierced Bone | 巨大貫穿骨 |
 | 7034 | Old Keel Bone | 舊龍骨 |
 | 7035 | Old Beast Bone | 舊獣骨 |
-| 7043 | Card Ore Violet | 可片礦菫 |
-| 7044 | Card Ore Wysteria | 可片礦紫藤 |
-| 7045 | Card Ore Indigo | 可片礦藍紫 |
+| 7043 | Card Ore Violet | 紙牌礦石・菫 |
+| 7044 | Card Ore Wysteria | 紙牌礦石・紫藤 |
+| 7045 | Card Ore Indigo | 紙牌礦石・藍紫 |
 | 7128 | Saint Ore | 聖礦石 |
-| 7129 | Wire Worm | 威伊雷蟲 |
+| 7129 | Wire Worm | 鐵絲蠕蟲 |
 | 7134 | Chipped Bone | 缺損的骨 |
 | 7178 | Blue Stone | 藍石 |
 | 7223 | Sprout Ore | 芽礦石 |
 | 7233 | Shining Heaven Ore | 閃耀天礦石 |
-| 7268 | Green Valor Stone | 綠勇氣石 |
-| 7269 | Blue Valor Stone | 藍勇氣石 |
-| 7270 | Red Valor Stone | 紅勇氣石 |
-| 7271 | Yellow Valor Stone | 黄勇氣石 |
+| 7268 | Green Valor Stone | 勇氣石・緑 |
+| 7269 | Blue Valor Stone | 勇氣石・藍 |
+| 7270 | Red Valor Stone | 勇氣石・紅 |
+| 7271 | Yellow Valor Stone | 勇氣石・黄 |
 | 7306 | Magnetic Iron | 磁力鐵 |
 | 7411 | Revival Ore | 復活礦石 |
 | 7412 | Sedative Ore | 鎮静礦石 |
@@ -287,7 +300,7 @@
 | 8067 | Elder D. Crystal | 古龍結晶 |
 | 8072 | Warm Honey Tea | 温暖蜜茶 |
 | 8073 | Small Flower Seeds | 小花種子 |
-| 8081 | Black Gravios Core | 黑格拉夫伊歐斯核心 |
+| 8081 | Black Gravios Core | 黑鎧龍的核心 |
 | 8178 | Prayer Seed | 祈願種子 |
 | 8179 | Music Crystal | 音樂結晶 |
 | 8204 | Dried Giant Bone | 乾燥巨大骨 |
@@ -378,7 +391,7 @@
 | 10772 | Stormsoul Grass | 嵐魂草 |
 | 10773 | Hillsoul Grass | 希爾爾魂草 |
 | 10775 | High Purecrystal | 高淨結晶 |
-| 10776 | Tower Purecrystal | 塔淨結晶 |
+| 10776 | Tower Purecrystal | 淨結晶【天廊】 |
 | 10813 | Pink Star Iron | 粉星鐵 |
 | 11004 | Copper Flower | 銅花 |
 | 11006 | Blue Crystal | 藍結晶 |
@@ -434,7 +447,7 @@
 | 12479 | Bubble Soul Grass | 泡魂草 |
 | 12480 | Snow Soul Grass | 雪魂草 |
 | 12493 | Toxic Flower | 毒花 |
-| 12494 | Magzegite Ore | 馬格傑基特礦石 |
+| 12494 | Magzegite Ore | 瑪傑基特礦石 |
 | 12504 | Agerta Ore | 阿傑爾塔礦石 |
 | 12771 | Smooth Flower | 光滑花 |
 | 12772 | Twilight Ore | 黄昏礦石 |
@@ -501,3 +514,31 @@
 | 16512 | Tapir Soul Stone | 貘魂石 |
 | 16513 | Shrimp Soul Stone | 蝦魂石 |
 | 16514 | Crab Soul Stone | 蟹魂石 |
+
+---
+
+## 二、顏色格式待對齊
+
+| index | 原文 | 譯文 |
+|---|---|---|
+
+---
+
+## 三、紙牌礦（可片／色格式）
+
+| index | 原文 | 譯文 |
+|---|---|---|
+
+---
+
+## 四、音譯待修
+
+| index | 原文 | 譯文 |
+|---|---|---|
+
+---
+
+## 五、判斷不了
+
+| index | 原文 | 譯文 |
+|---|---|---|

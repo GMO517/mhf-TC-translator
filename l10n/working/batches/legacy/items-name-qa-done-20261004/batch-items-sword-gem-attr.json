@@ -1,0 +1,42 @@
+{
+  "section_id": "items-name",
+  "label": "sword-gem-attr",
+  "translations": [
+    {
+      "index": "10370",
+      "target": "劍寶玉．爆弾"
+    },
+    {
+      "index": "10371",
+      "target": "劍寶玉．毒"
+    },
+    {
+      "index": "10372",
+      "target": "劍寶玉．麻痺"
+    },
+    {
+      "index": "10373",
+      "target": "劍寶玉．睡眠"
+    },
+    {
+      "index": "10374",
+      "target": "劍寶玉．火"
+    },
+    {
+      "index": "10375",
+      "target": "劍寶玉．水"
+    },
+    {
+      "index": "10376",
+      "target": "劍寶玉．雷"
+    },
+    {
+      "index": "10377",
+      "target": "劍寶玉．冰"
+    },
+    {
+      "index": "10378",
+      "target": "劍寶玉．龍"
+    }
+  ]
+}

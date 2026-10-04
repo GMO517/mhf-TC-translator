@@ -1,10 +1,6 @@
 # working 驗證報告
 
 - `items-name`：PASS
-- `weapons-melee-name`：PASS
-- `weapons-ranged-name`：PASS
-- `armors-head`：PASS
-- `armors-body`：PASS
 
 ## 錯誤
 

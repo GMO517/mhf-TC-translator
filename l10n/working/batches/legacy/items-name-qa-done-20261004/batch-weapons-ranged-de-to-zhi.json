@@ -1,0 +1,70 @@
+{
+  "section_id": "weapons-ranged-name",
+  "label": "de-to-zhi",
+  "translations": [
+    {
+      "index": "8",
+      "target": "散彈槍之血"
+    },
+    {
+      "index": "122",
+      "target": "龍之頭"
+    },
+    {
+      "index": "170",
+      "target": "轟龍之頭骨"
+    },
+    {
+      "index": "978",
+      "target": "深紅之牙"
+    },
+    {
+      "index": "980",
+      "target": "深紅之角"
+    },
+    {
+      "index": "982",
+      "target": "折磨之牙"
+    },
+    {
+      "index": "984",
+      "target": "折磨之角"
+    },
+    {
+      "index": "1063",
+      "target": "弓之羽"
+    },
+    {
+      "index": "1064",
+      "target": "兜帽之羽"
+    },
+    {
+      "index": "1107",
+      "target": "哈特之角"
+    },
+    {
+      "index": "1108",
+      "target": "憤怒之角"
+    },
+    {
+      "index": "1141",
+      "target": "息之鋏"
+    },
+    {
+      "index": "1144",
+      "target": "奇歐凱之鋏"
+    },
+    {
+      "index": "2675",
+      "target": "勇之角"
+    },
+    {
+      "index": "4191",
+      "target": "魔導之角"
+    },
+    {
+      "index": "4209",
+      "target": "灰之角"
+    }
+  ]
+}

@@ -9,7 +9,7 @@
 ## items-name
 
 - status: in_progress
-- notes: "主真相＝csv。validate PASS。review 審計後 tickets 半角拉丁 46 已全形化；各子類 kata/still_en=0。可進武器／防具。"
+- notes: "validate PASS。新加系列標記用【天廊】／【簡易】；既有()沿用；Nullberry→打消果實。"
 
 ### files
 
@@ -25,17 +25,17 @@
 
 - beads / info: translated → issues/items-name__beads-info.md（awaiting_qa）
 - seals / jebia: translated → issues/items-name__seals-jebia.md（awaiting_qa）
-- tickets: translated → issues/items-name__tickets.md（awaiting_qa）；batches/awaiting_qa/batch-items-tickets.json
-- consumables: translated → issues/items-name__consumables.md（awaiting_qa）；batches/awaiting_qa/batch-items-consumables.json（n=282）
-- monster-materials: translated → issues/review-items-name__monster-materials.md（awaiting_qa）；batches/awaiting_qa/batch-items-monster-materials.json（n=1095）
-- gathering: translated → issues/review-items-name__gathering.md（awaiting_qa）；batches/awaiting_qa/batch-items-gathering.json（n=488）
-- jewels: translated → issues/review-items-name__jewels.md（awaiting_qa）；batches/awaiting_qa/batch-items-jewels.json（n=480）
-- skill-cuffs: translated → issues/review-items-name__skill-cuffs.md（awaiting_qa）；batches/awaiting_qa/batch-items-skill-cuffs.json（n=2877）
+- tickets: qa_done → issues/items-name__tickets.md；review→`archive/items-name/`；batch n=1927
+- consumables: qa_done → issues/items-name__consumables.md；review→`archive/items-name/`；batch n=282
+- monster-materials: qa_done → issues/items-name__monster-materials.md；review→`archive/items-name/`；batch n=1095
+- gathering: qa_done → issues/items-name__gathering.md；review→`archive/items-name/`；batch n=488
+- jewels: qa_done → issues/items-name__jewels.md；review→`archive/items-name/`；batch n=480
+- skill-cuffs: qa_done → issues/items-name__skill-cuffs.md；review→`archive/items-name/`；batch n=2877
 - dummy: translated → issues/review-items-name__dummy.md（awaiting_qa）；batches/awaiting_qa/batch-items-dummy.json（n=676）
-- kits: translated → issues/review-items-name__kits.md（awaiting_qa）；batches/awaiting_qa/batch-items-kits.json（n=45）
-- monster-rest: translated → issues/review-items-name__monster-rest.md（awaiting_qa；2026-10-04 重譯全表＋片假名清零）；batches/awaiting_qa/batch-items-monster-rest.json（n=438）
-- misc: translated → issues/review-items-name__misc.md（awaiting_qa）；batches/awaiting_qa/batch-items-misc.json（n=199）
-- remainder: translated → issues/review-items-name__remainder.md（awaiting_qa）；batches/awaiting_qa/batch-items-all-rest.json（n=5450）
+- kits: qa_done → issues/items-name__kits.md；review→`archive/items-name/`；batch n=45
+- monster-rest: qa_done → issues/items-name__monster-rest.md；review→`archive/items-name/`；batch n=438
+- misc: qa_done → issues/items-name__misc.md；review→`archive/items-name/`；batch n=199
+- all-rest 拆分: translated（待審，未納入本次 commit）→ `issues/items-name/all-rest/`；batch `batches/awaiting_qa/items-name/all-rest/`
 
 ---
 

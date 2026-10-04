@@ -7,7 +7,7 @@ index,source,target
 5,Spartacus Fire,火斯巴達
 6,Shotgun (Azure),散彈槍蒼
 7,Shotgun (Green),散彈槍緑
-8,Shotgun (Blood),散彈槍的血
+8,Shotgun (Blood),散彈槍之血
 9,Maelstrom,大渦
 10,Desert Storm,砂漠嵐
 11,Grenade Launcher,榴彈發射器
@@ -121,7 +121,7 @@ index,source,target
 119,"Dragon Bow ""Uprising""",龍弓烏普伊西恩
 120,Courageous Hope I,克歐烏爾阿格艾歐希望I
 121,Power Hunter Bow I,獵人力量弓I
-122,Dragon Head,龍的頭
+122,Dragon Head,龍之頭
 123,Magic Lamp,姆阿格伊克灯
 124,Real=Daora,崩龍真
 125,Earth Eater,地龍鎧沸
@@ -169,7 +169,7 @@ index,source,target
 167,Tigrex Wargun,轟龍瓦阿爾格烏恩
 168,Tigrex Howl,轟龍哈歐瓦勒
 169,ダミー(ＨＢ),(dummy)
-170,Tigrex Skull,轟龍的頭骨
+170,Tigrex Skull,轟龍之頭骨
 171,Tigre Arrow Ⅰ,虎矢Ⅰ
 172,Tigre Arrow Ⅱ,虎矢Ⅱ
 173,Bow of the Wind God,弓風神
@@ -977,13 +977,13 @@ index,source,target
 975,Clockwork Bow+,弓克勒歐克克瓦歐爾＋
 976,New Clockwork Bow,弓新克勒歐克克瓦歐爾
 977,Super Clockwork Bow,弓超克勒歐克克瓦歐爾
-978,Crimson Fang,深紅的牙
+978,Crimson Fang,深紅之牙
 979,Crimson Tusk,深紅化抑制
-980,Crimson Horn,深紅的角
+980,Crimson Horn,深紅之角
 981,Crimson Avenger,深紅阿維艾恩格艾爾
-982,Torment Fang,折磨的牙
+982,Torment Fang,折磨之牙
 983,Torment Tusk,折磨化抑制
-984,Torment Horn,折磨的角
+984,Torment Horn,折磨之角
 985,Torment Avenger,折磨阿維艾恩格艾爾
 986,Blos I,角龍I
 987,Blos II,角龍Ⅱ
@@ -1062,8 +1062,8 @@ index,source,target
 1060,Marquis Launcher,姆阿爾奎烏伊斯發射器
 1061,Teo's Flame,炎王S焔
 1062,Teo's Inferno,炎王S業火
-1063,Feather Bow,弓的羽
-1064,Feather Hood,兜帽的羽
+1063,Feather Bow,弓之羽
+1064,Feather Hood,兜帽之羽
 1065,Feather Crow,羽克爾歐瓦
 1066,Feather Crescent,羽克爾艾斯克艾恩特
 1067,2B04・グリテベール,2B04・格里特貝爾
@@ -1106,8 +1106,8 @@ index,source,target
 1104,Suez Shilka,蘇艾茲斯哈伊勒克阿
 1105,Teo's Blaze,炎王S炎
 1106,Luna's Dread,月神S德爾艾阿德
-1107,Hate Horn,哈特的角
-1108,Fury Horn,憤怒的角
+1107,Hate Horn,哈特之角
+1108,Fury Horn,憤怒之角
 1109,Rampage Horn,爾阿姆普阿格艾角
 1110,Eques Squall,未來迪斯奎烏阿勒勒
 1111,Eques Nephthis,未來迪恩艾普哈特哈伊斯
@@ -1140,10 +1140,10 @@ index,source,target
 1138,"Fury Bow ""Ice Rain""",憤怒弓氷雨
 1139,"Fury Bow ""Blizzard""",憤怒弓吹雪
 1140,"Fury Bow ""Winter""",憤怒弓冬
-1141,Breath Scissor,息的鋏
+1141,Breath Scissor,息之鋏
 1142,Sigh Scissor,斯伊格哈鋏
 1143,Gasp Scissor,格阿斯普鋏
-1144,Choke Scissor,奇歐凱的鋏
+1144,Choke Scissor,奇歐凱之鋏
 1145,Tonil Ⅰ,特歐恩伊勒Ⅰ
 1146,Tonil Ⅱ,特歐恩伊勒Ⅱ
 1147,Tonil Ⅲ,特歐恩伊勒Ⅲ
@@ -2674,7 +2674,7 @@ index,source,target
 2672,Fusir Eigler,夫烏斯伊爾艾伊格勒艾爾
 2673,Love Parasol,愛陽傘
 2674,Furon Brute,夫烏爾歐恩布烏特
-2675,Brave Horn,勇的角
+2675,Brave Horn,勇之角
 2676,Golddust Storm Hbg,重弩格歐勒德德烏斯特風暴
 2677,Golddust Thunder Hbg,雷格歐勒德德烏斯特重弩
 2678,Golddust Tornado Hbg,重弩格歐勒德德烏斯特龍巻
@@ -4190,7 +4190,7 @@ index,source,target
 4188,Maje・Trista,魔導特伊斯阿
 4189,Maje・Gracano,魔導格阿可諾
 4190,Maje・Ceraunus,魔導克艾爾阿烏恩烏斯
-4191,Maje・Horn,魔導的角
+4191,Maje・Horn,魔導之角
 4192,Maje・Cane,魔導可涅
 4193,Maje・Freyol,魔導夫爾艾伊歐勒
 4194,Maje・Sfera,魔導斯夫艾爾阿
@@ -4208,7 +4208,7 @@ index,source,target
 4206,Gray・Trista,灰特伊斯阿
 4207,Gray・Gracano,灰格阿可諾
 4208,Gray・Vajra,灰維阿杰爾阿
-4209,Gray・Horn,灰的角
+4209,Gray・Horn,灰之角
 4210,Gray・Cane,灰可涅
 4211,Gray・Freyol,灰夫爾艾伊歐勒
 4212,Gray・Sfera,灰斯夫艾爾阿
