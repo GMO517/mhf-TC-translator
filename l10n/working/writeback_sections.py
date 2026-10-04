@@ -1,10 +1,14 @@
 # -*- coding: utf-8 -*-
-"""將 working CSV 回寫 mhfdat（compress+encrypt），再同步本體。"""
+"""將 working CSV 回寫 mhfdat（compress+encrypt），再同步本體。
+
+只把 target≠source 的列寫成精簡 CSV 給 FTH，避免整表 1 萬多列拖慢。
+"""
 from __future__ import annotations
 
 import csv
 import hashlib
 import json
+import os
 import shutil
 import subprocess
 import sys
@@ -36,6 +40,7 @@ def ensure_backup() -> None:
 
 
 def run_fth(args: list[str], cwd: Path) -> subprocess.CompletedProcess:
+    print("FTH:", " ".join(args), flush=True)
     return subprocess.run(
         [PY, str(FTH / "main.py"), *args],
         cwd=cwd,
@@ -46,15 +51,26 @@ def run_fth(args: list[str], cwd: Path) -> subprocess.CompletedProcess:
     )
 
 
+def changed_rows(csv_path: Path) -> list[dict]:
+    rows = list(csv.DictReader(csv_path.open(encoding="utf-8", newline="")))
+    out = []
+    for r in rows:
+        src = r.get("source") or ""
+        tgt = r.get("target") or ""
+        if tgt.strip() and tgt != src:
+            out.append({"index": r["index"], "source": src, "target": tgt})
+    return out
+
+
 def main(argv: list[str]) -> int:
     ensure_backup()
     if not CLIENT_BIN.exists():
         raise SystemExit(f"缺少本體 bin：{CLIENT_BIN}")
     sections = json.loads((WORKING / "sections.json").read_text(encoding="utf-8"))
     only = set(argv[1:]) if len(argv) > 1 else None
-    work = WORKING / "_writeback_work"
+    work = WORKING / f"_writeback_work_{os.getpid()}"
     if work.exists():
-        shutil.rmtree(work)
+        shutil.rmtree(work, ignore_errors=True)
     work.mkdir(parents=True)
     (work / "data").mkdir()
     (work / "output").mkdir()
@@ -82,19 +98,18 @@ def main(argv: list[str]) -> int:
             log.append(f"- `{sec['id']}`：缺少 CSV → FAIL")
             ok = False
             continue
-        # 僅當有「不同於 source」的譯文才回寫該 section
-        rows = list(csv.DictReader(csv_path.open(encoding="utf-8-sig", newline="")))
-        changed = sum(
-            1
-            for r in rows
-            if (r.get("target") or "").strip()
-            and (r.get("target") or "") != (r.get("source") or "")
-        )
-        if changed == 0:
+        changed = changed_rows(csv_path)
+        if not changed:
             log.append(f"- `{sec['id']}`：無譯文變更，略過")
+            print(f"skip {sec['id']}", flush=True)
             continue
+        print(f"import {sec['id']} n={len(changed)}", flush=True)
         dest_csv = work / "output" / csv_path.name
-        shutil.copy2(csv_path, dest_csv)
+        with dest_csv.open("w", encoding="utf-8", newline="") as f:
+            w = csv.DictWriter(f, fieldnames=["index", "source", "target"])
+            w.writeheader()
+            w.writerows(changed)
+        # 每次以目前 work/data 的 bin 為輸入；FTH 產物在 output/*-modified.bin
         r = run_fth(
             [
                 "--csv-to-bin",
@@ -107,32 +122,49 @@ def main(argv: list[str]) -> int:
             ],
             cwd=work,
         )
-        if r.returncode != 0:
+        combined = (r.stdout or "") + "\n" + (r.stderr or "")
+        print(combined[-600:], flush=True)
+        if r.returncode != 0 or "Found 0 translations" in combined:
             ok = False
             log.append(f"- `{sec['id']}`：IMPORT FAIL rc={r.returncode}")
             log.append("```")
-            log.append((r.stdout or "")[-500])
-            log.append((r.stderr or "")[-500])
+            log.append(combined[-800:])
             log.append("```")
             continue
-        log.append(f"- `{sec['id']}`：OK（變更 {changed} 列）")
+        modified = work / "output" / "mhfdat-modified.bin"
+        if not modified.exists():
+            ok = False
+            log.append(f"- `{sec['id']}`：找不到 {modified.name}")
+            continue
+        shutil.copy2(modified, work / "data" / "mhfdat.bin")
+        log.append(f"- `{sec['id']}`：OK（變更 {len(changed)} 列）")
+        print(f"ok {sec['id']} -> data/mhfdat.bin", flush=True)
 
     after_path = work / "data" / "mhfdat.bin"
     after = sha256(after_path)
     log += ["", f"- 回寫後 SHA256：`{after}`", ""]
+    REPORTS.mkdir(parents=True, exist_ok=True)
     if not ok:
-        REPORTS.mkdir(parents=True, exist_ok=True)
         (REPORTS / "writeback.md").write_text("\n".join(log), encoding="utf-8")
-        print("\n".join(log))
+        print("\n".join(log), flush=True)
+        shutil.rmtree(work, ignore_errors=True)
         return 2
+
+    if after == before:
+        log.append("- 警告：雜湊未變（可能未寫入）")
+        print("WARN hash unchanged", flush=True)
+        (REPORTS / "writeback.md").write_text("\n".join(log), encoding="utf-8")
+        shutil.rmtree(work, ignore_errors=True)
+        return 3
 
     shutil.copy2(after_path, DATA / "mhfdat.bin")
     shutil.copy2(after_path, CLIENT_BIN)
     log.append(f"- 已同步：`l10n/data/mhfdat.bin` 與 `{CLIENT_BIN}`")
-    REPORTS.mkdir(parents=True, exist_ok=True)
     (REPORTS / "writeback.md").write_text("\n".join(log + [""]), encoding="utf-8")
-    print("\n".join(log))
+    print("\n".join(log), flush=True)
+    shutil.rmtree(work, ignore_errors=True)
     return 0
+
 
 
 if __name__ == "__main__":

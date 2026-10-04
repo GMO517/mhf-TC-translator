@@ -57,10 +57,12 @@
 > 閘門：Phase 0 round-trip + Phase 0.5 字型 + Phase 2 審詞，三者未過不開始。  
 > **工作循環**：`docs/PHASE3-LOOP.md`（部分處理 → agent 複審 → 過則擴大／不過則修 → 做到完）。
 
-- [~] 按循環執行（層次 A：6 xpath 詞庫命中 → 層次 B：未入庫列）
+- [~] 按循環執行（層次 A 詞庫命中已回寫本體 → 層次 B：未入庫列）
 - [x] working 管線腳本（apply／validate／writeback／batch；CSV 無 BOM）
-- [~] 層次 A working CSV 已產出；回寫需確認 FTH 已吃到譯文（曾因 BOM 寫入 0 條）
-- [ ] 私服進遊戲驗收該 section 後再做下一 section
+- [x] 層次 A 回寫：items／melee／ranged／head／body（FTH 產物為 `*-modified.bin`）
+- [ ] 層次 B：未入庫英文名分批翻譯（每批或每種類 commit）
+- [ ] 私服進遊戲驗收
+
 
 
 ## Phase 4 — 延伸
