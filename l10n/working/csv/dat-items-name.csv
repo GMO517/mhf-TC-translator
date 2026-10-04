@@ -6156,13 +6156,13 @@ index,source,target
 6154,Gaudy Beak,Gaudy Beak
 6155,Crimson Belly Hair,Crimson Belly Hair
 6156,Sharp Twisted Horn,Sharp Twisted Horn
-6157,HC Crystal White ,HC Crystal White
-6158,HC Crystal Green ,HC Crystal Green
-6159,HC Crystal Cyan ,HC Crystal Cyan
-6160,HC Crystal Orange ,HC Crystal Orange
-6161,HC Crystal Peach ,HC Crystal Peach
-6162,HC Crystal Silver ,HC Crystal Silver
-6163,HC Crystal Gold ,HC Crystal Gold
+6157,HC Crystal White ,HC Crystal White 
+6158,HC Crystal Green ,HC Crystal Green 
+6159,HC Crystal Cyan ,HC Crystal Cyan 
+6160,HC Crystal Orange ,HC Crystal Orange 
+6161,HC Crystal Peach ,HC Crystal Peach 
+6162,HC Crystal Silver ,HC Crystal Silver 
+6163,HC Crystal Gold ,HC Crystal Gold 
 6164,HRP Tkt (800),HRP Tkt (800)
 6165,Thin Gook Soup,Thin Gook Soup
 6166,Tasty Gook Soup,Tasty Gook Soup
@@ -11454,9 +11454,9 @@ index,source,target
 11452,GR Armor Sigil,GR Armor Sigil
 11453,Old Stone Block,Old Stone Block
 11454,Tecatekanite,Tecatekanite
-11455,Gold Tarneko Tkt ,Gold Tarneko Tkt
-11456,Silver Tarneko Tkt ,Silver Tarneko Tkt
-11457,Cppr Tarneko Tkt ,Cppr Tarneko Tkt
+11455,Gold Tarneko Tkt ,Gold Tarneko Tkt 
+11456,Silver Tarneko Tkt ,Silver Tarneko Tkt 
+11457,Cppr Tarneko Tkt ,Cppr Tarneko Tkt 
 11458,Gamboge Jewel,Gamboge Jewel
 11459,Patina Jewel,Patina Jewel
 11460,Ebony Jewel,Ebony Jewel
@@ -12843,7 +12843,7 @@ index,source,target
 12841,デシルト生産券,デシルト生産券
 12842,Uragaan Scale+,Uragaan Scale+
 12843,Uragaan Carapace,Uragaan Carapace
-12844,Uragaan Scute ,Uragaan Scute
+12844,Uragaan Scute ,Uragaan Scute 
 12845,Uragaan Jaw,Uragaan Jaw
 12846,Uragaan Marrow,Uragaan Marrow
 12847,Uragaan Ruby,Uragaan Ruby
@@ -15796,7 +15796,7 @@ index,source,target
 15794,Gook Duck Tkt,Gook Duck Tkt
 15795,Gook Parrot Tkt,Gook Parrot Tkt
 15796,Gook Poison Tkt,Gook Poison Tkt
-15797,Gook Para Tkt ,Gook Para Tkt
+15797,Gook Para Tkt ,Gook Para Tkt 
 15798,Gook Ice Tkt,Gook Ice Tkt
 15799,Gook Phantom Tkt,Gook Phantom Tkt
 15800,Gook Oriental Tkt,Gook Oriental Tkt

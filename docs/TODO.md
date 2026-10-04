@@ -60,7 +60,7 @@
 - [~] 按循環執行（層次 A 詞庫命中已回寫本體 → 層次 B：未入庫列）
 - [x] working 管線腳本（apply／validate／writeback／batch；CSV 無 BOM）
 - [x] 層次 A 回寫：items／melee／ranged／head／body（FTH 產物為 `*-modified.bin`）
-- [~] 層次 B：未入庫英文名分批翻譯（每批或每種類 commit）— items-name 已套用 batch-001／001b／002（working；002 未 writeback）
+- [~] 層次 B：道具名分批中（批1～2 已回寫；一覽見 `working/reports/ITEMS-TRANSLATED.md`；批3進行中）
 - [ ] 私服進遊戲驗收
 
 
