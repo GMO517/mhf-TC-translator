@@ -78,9 +78,10 @@
 
 1. 選定一個未完成子類 → 譯 → `apply_batch_json.py` → `validate_working.py`  
 2. 日常可 `finish_batch.py` delta；更新 `progress.md`／`queue.md`  
-3. 子類未完：**禁止**只交摘要就停；繼續下一批內部切片  
-4. 專名：STYLE **日常三步**（詞庫→義譯／漢字音譯）；**只有高頻會複製的**才 wiki 深查並可入 PENDING  
-5. PENDING：漢字暫譯＋列待裁定；**不中途逐條問**；子類完再請使用者填決定 → 另開 Fixer  
+3. 子類告一段落（finish／awaiting_qa）時：產 `issues/review-<單位>.md`（**完整**原文→譯文表，供**最終**確認）→ **不中斷、不等使用者當場批完**  
+4. 子類未完：**禁止**只交摘要就停；繼續下一批內部切片  
+5. 專名：STYLE **先整名、再詞庫／義譯／音譯**；魔物素材魔物名必對齊 `terms.csv`／Info；**禁止**把普通英文詞拆開音譯  
+6. PENDING：漢字暫譯＋列待裁定；**不中途逐條問**；子類完再請使用者填決定 → 另開 Fixer  
 
 **機械自檢（子類宣告 translated 前）：** charset／CP932／半翻／片假名混中文警告／`{j}` 段數。  
 

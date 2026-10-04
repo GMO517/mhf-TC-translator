@@ -1,6 +1,6 @@
 # working 驗證報告
 
-- `items-name`：PASS；半翻警告 579
+- `items-name`：PASS；半翻警告 1011
 
 ## 錯誤
 
@@ -88,4 +88,4 @@
 - dat-items-name.csv#4871: 片假名混中文 | セケン票Ⅵ → 見 glossary/PENDING.md
 - dat-items-name.csv#4872: 片假名混中文 | セケン票Ⅶ → 見 glossary/PENDING.md
 - dat-items-name.csv#4873: 片假名混中文 | セケン票Ⅷ → 見 glossary/PENDING.md
-- …另有 499 筆
+- …另有 931 筆

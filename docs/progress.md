@@ -9,7 +9,7 @@
 ## items-name
 
 - status: in_progress
-- notes: "主真相＝csv。tickets／consumables 已完；魔物素材主體 n≈1088 已 delta，殘餘複合名續清。"
+- notes: "主真相＝csv。skill-cuffs 已完；下一＝items-name 其餘雜項。"
 
 ### files
 
@@ -19,7 +19,7 @@
 
 - path: l10n/working/csv/dat-items-name.csv
   status: in_progress
-  notes: "tickets／consumables／monster-materials 主體已 delta"
+  notes: "含 skill-cuffs n=2877 已 delta；其餘未譯仍多"
 
 ### subclasses（語意，非流水號）
 
@@ -27,7 +27,10 @@
 - seals / jebia: translated → issues/items-name__seals-jebia.md（awaiting_qa）
 - tickets: translated → issues/items-name__tickets.md（awaiting_qa）；batches/awaiting_qa/batch-items-tickets.json
 - consumables: translated → issues/items-name__consumables.md（awaiting_qa）；batches/awaiting_qa/batch-items-consumables.json（n=282）
-- monster-materials: in_progress → issues/items-name__monster-materials.md；batches/awaiting_qa/batch-items-monster-materials.json（n≈1088）
+- monster-materials: translated → issues/review-items-name__monster-materials.md（awaiting_qa）；batches/awaiting_qa/batch-items-monster-materials.json（n=1095）
+- gathering: translated → issues/review-items-name__gathering.md（awaiting_qa）；batches/awaiting_qa/batch-items-gathering.json（n=488）
+- jewels: translated → issues/review-items-name__jewels.md（awaiting_qa）；batches/awaiting_qa/batch-items-jewels.json（n=480）
+- skill-cuffs: translated → issues/review-items-name__skill-cuffs.md（awaiting_qa）；batches/awaiting_qa/batch-items-skill-cuffs.json（n=2877）
 
 ---
 
