@@ -6,7 +6,8 @@
 ## 摘要
 
 - 筆數：**199**（全表，不抽樣）
-- 片假名殘留：**31**
+- 片假名殘留：**0**
+- 仍偏原文／半翻：**0**
 
 ## 全表
 
@@ -67,115 +68,115 @@
 | 1683 | Maiden's Stamina | 少女的耐力 |
 | 1684 | Maiden's Soul | 少女的魂 |
 | 1687 | Move Speed Fruit | 移動速度果實 |
-| 1693 | Porta Mochio | 波爾塔Mochio |
-| 1716 | Hunter Secret Text | 獵人SecretText |
+| 1693 | Porta Mochio | 波爾塔麻吉 |
+| 1716 | Hunter Secret Text | 獵人的秘傳文書 |
 | 1805 | Foreign Jewelery | 異國首飾 |
-| 1846 | Ancient Hymn II | 古代HymnII |
-| 1862 | Porta Snail | 波爾塔Snail |
-| 1863 | Porta Grill | 波爾塔Grill |
-| 1864 | Porta Ice | 波爾塔Ice |
-| 1865 | Porta Velvet | 波爾塔Velvet |
-| 2031 | Guild Medallion | 公會勳章lion |
+| 1846 | Ancient Hymn II | 古代聖歌Ⅱ |
+| 1862 | Porta Snail | 波爾塔蝸牛 |
+| 1863 | Porta Grill | 波爾塔焼台 |
+| 1864 | Porta Ice | 波爾塔氷 |
+| 1865 | Porta Velvet | 波爾塔絲絨 |
+| 2031 | Guild Medallion | 公會大型勳章 |
 | 2039 | Caravan Medal | 旅團勳章 |
 | 2090 | Jewel Box | 珠寶箱 |
-| 2142 | Guild Seal | 公會Seal |
-| 2549 | Hunter Seal Red | 獵人SealRed |
-| 2550 | Hunter Seal Blue | 獵人SealBlue |
-| 2551 | Hunter Seal White | 獵人SealWhite |
-| 2552 | Hunter Seal Pink | 獵人SealPink |
-| 2553 | Hunter Seal Prpl | 獵人SealPrpl |
-| 2554 | Hunter Seal Ylw | 獵人SealYlw |
+| 2142 | Guild Seal | 公會的封印 |
+| 2549 | Hunter Seal Red | 獵人的封印赤 |
+| 2550 | Hunter Seal Blue | 獵人的封印青 |
+| 2551 | Hunter Seal White | 獵人的封印白 |
+| 2552 | Hunter Seal Pink | 獵人的封印粉 |
+| 2553 | Hunter Seal Prpl | 獵人的封印紫 |
+| 2554 | Hunter Seal Ylw | 獵人的封印黄 |
 | 2644 | Armorer's Secret | 防具匠的秘訣 |
-| 3053 | Secret Notes Book | Secret字條sBook |
+| 3053 | Secret Notes Book | 秘傳音符書 |
 | 3311 | Form of Passion | 情熱之形 |
 | 3312 | Arrow of Passion | 情熱之矢 |
-| 3568 | Porta Cookies | 波爾塔Cookies |
-| 3569 | Porta Chocolate | 波爾塔Chocolate |
-| 3570 | Porta Candy | 波爾塔Candy |
+| 3568 | Porta Cookies | 波爾塔餅 |
+| 3569 | Porta Chocolate | 波爾塔可可 |
+| 3570 | Porta Candy | 波爾塔飴 |
 | 4088 | Song of Forests | 森林之歌 |
 | 4476 | Iron Compass | 鐵羅盤 |
-| 4480 | Hunter Card Green | 獵人可片Green |
-| 4481 | Hunter Card Black | 獵人可片Black |
-| 4482 | Hunter Card Yellow | 獵人可片Yellow |
-| 4483 | Hunter Card Water | 獵人可片Water |
-| 4484 | Hunter Card Orange | 獵人可片Orange |
-| 4782 | Ancient Debris | 古代Debris |
-| 4841 | Ancient Ink | 古代Ink |
+| 4480 | Hunter Card Green | 獵人的可片緑 |
+| 4481 | Hunter Card Black | 獵人的可片黒 |
+| 4482 | Hunter Card Yellow | 獵人的可片黄 |
+| 4483 | Hunter Card Water | 獵人的可片水 |
+| 4484 | Hunter Card Orange | 獵人的可片橙 |
+| 4782 | Ancient Debris | 古代殘骸 |
+| 4841 | Ancient Ink | 古代墨 |
 | 4887 | Song of The Forest | 森林之歌 |
-| 4910 | Porta Pyroxene | 波爾塔Pyroxene |
-| 5175 | Brown Portrait | BrownPortrait |
+| 4910 | Porta Pyroxene | 波爾塔輝石 |
+| 5175 | Brown Portrait | 褐肖像 |
 | 5247 | Compass of Truth | 真實羅盤 |
-| 5384 | Secret Proof・Low | Secret證明・Low |
-| 5385 | Secret Proof・Mid | Secret證明・Mid |
-| 5386 | Secret Proof・High | Secret證明・High |
-| 5387 | Secret Guide | SecretGuide |
-| 5586 | Ancient Quartz | 古代Quartz |
-| 5595 | Guild Banner | 公會Banner |
-| 6059 | Super Hard WCCO | 超HardWCCO |
-| 6060 | Super Hard HCLM | 超HardHCLM |
-| 6225 | Secret Arts SP α | SecretArtsSPα |
-| 6226 | Secret Arts SP β | SecretArtsSPβ |
+| 5384 | Secret Proof・Low | 秘傳證明下位 |
+| 5385 | Secret Proof・Mid | 秘傳證明中位 |
+| 5386 | Secret Proof・High | 秘傳證明高級 |
+| 5387 | Secret Guide | 秘傳導 |
+| 5586 | Ancient Quartz | 古代石英 |
+| 5595 | Guild Banner | 公會旗 |
+| 6059 | Super Hard WCCO | 超硬ＷＣＣＯ |
+| 6060 | Super Hard HCLM | 超硬ＨＣＬＭ |
+| 6225 | Secret Arts SP α | 秘傳術ＳＰα |
+| 6226 | Secret Arts SP β | 秘傳術ＳＰβ |
 | 6832 | GW Deco Voucher | ＧＷ裝飾券 |
-| 6837 | Guild R. Cuff 1 | 公會R.Cuff1 |
-| 6838 | Guild R. Cuff 2 | 公會R.Cuff2 |
-| 6839 | Guild R. Cuff 3 | 公會R.Cuff3 |
-| 6840 | Guild R. Cuff 4 | 公會R.Cuff4 |
-| 6841 | Guild R. Cuff 5 | 公會R.Cuff5 |
-| 6842 | Guild R. Cuff 6 | 公會R.Cuff6 |
-| 6843 | Guild R. Cuff 7 | 公會R.Cuff7 |
-| 6844 | Guild R. Cuff 8 | 公會R.Cuff8 |
-| 6845 | Guild R. Cuff 9 | 公會R.Cuff9 |
-| 6846 | Guild R. Cuff 10 | 公會R.Cuff10 |
-| 6847 | Guild R. Cuff 11 | 公會R.Cuff11 |
-| 6848 | Guild R. Cuff 12 | 公會R.Cuff12 |
-| 7224 | Caravan Trsr | 旅團Trsr |
-| 7980 | Guild Intro Letter | 公會IntroLetter |
-| 7982 | Guild Commendation | 公會Commendation |
-| 8068 | Guild Aid Proof | 公會Aid證明 |
-| 8260 | Secret Red Ball | SecretRedBall |
-| 8274 | Secret of Kut-Ku | SecretofKut-Ku |
-| 8936 | Caravan Moon Box | 旅團MoonBox |
-| 8951 | Ancient Algae | 古代Algae |
-| 9366 | Elegant Bag | Elegant袋 |
-| 9490 | Hunter G | 獵人G |
-| 9581 | Porta Pyroxene (F) | 波爾塔Pyroxene(F) |
-| 9643 | Hunter Pass・Red | 獵人通行證・Red |
-| 9644 | Hunter Pass・Blue | 獵人通行證・Blue |
-| 9645 | Hunter Pass・White | 獵人通行證・White |
-| 9646 | Hunter Pass・Pink | 獵人通行證・Pink |
-| 9647 | Hunter Pass・Purple | 獵人通行證・Purple |
-| 9648 | Hunter Pass・Yellow | 獵人通行證・Yellow |
-| 9649 | Hunter Ring・Red | 獵人Ring・Red |
-| 9650 | Hunter Ring・Blue | 獵人Ring・Blue |
-| 9651 | Hunter Ring・White | 獵人Ring・White |
-| 9652 | Hunter Ring・Pink | 獵人Ring・Pink |
-| 9653 | Hunter Ring・Purple | 獵人Ring・Purple |
-| 9654 | Hunter Ring・Yellow | 獵人Ring・Yellow |
-| 9655 | Hunter Badge・Red | 獵人Badge・Red |
-| 9656 | Hunter Badge・Blue | 獵人Badge・Blue |
-| 9657 | Hunter Badge・White | 獵人Badge・White |
-| 9658 | Hunter Badge・Pink | 獵人Badge・Pink |
-| 9659 | Hunter Badge・Purp | 獵人Badge・Purp |
-| 9660 | Hunter Badge・Yell | 獵人Badge・Yell |
-| 9661 | Hunter Medal・Red | 獵人勳章・Red |
-| 9662 | Hunter Medal・Blue | 獵人勳章・Blue |
-| 9663 | Hunter Medal・White | 獵人勳章・White |
-| 9664 | Hunter Medal・Pink | 獵人勳章・Pink |
-| 9665 | Hunter Medal・Purpl | 獵人勳章・Purpl |
-| 9666 | Hunter Medal・Yellw | 獵人勳章・Yellw |
-| 9701 | Super Dash Extract | 超DashExtract |
-| 9795 | Super Hard GGGX | 超HardGGGX |
-| 9951 | Caravan Bloom Box | 旅團BloomBox |
-| 9952 | Caravan Star Box | 旅團StarBox |
-| 9953 | Caravan Snow Box | 旅團SnowBox |
-| 9954 | Caravan Air Box | 旅團AirBox |
-| 10182 | Hunter Heart・Yellw | 獵人Heart・Yellw |
-| 10183 | Hunter Heart・Red | 獵人Heart・Red |
-| 10184 | Hunter Heart・Green | 獵人Heart・Green |
-| 10185 | Hunter Heart・Blue | 獵人Heart・Blue |
-| 10746 | Caravan Plum Box | 旅團PlumBox |
-| 10747 | Caravan ChrysnthmBox | 旅團ChrysnthmBox |
-| 10748 | Caravan Cherry Box | 旅團CherryBox |
+| 6837 | Guild R. Cuff 1 | 公會的Ｒ護腕１ |
+| 6838 | Guild R. Cuff 2 | 公會的Ｒ護腕２ |
+| 6839 | Guild R. Cuff 3 | 公會的Ｒ護腕３ |
+| 6840 | Guild R. Cuff 4 | 公會的Ｒ護腕４ |
+| 6841 | Guild R. Cuff 5 | 公會的Ｒ護腕５ |
+| 6842 | Guild R. Cuff 6 | 公會的Ｒ護腕６ |
+| 6843 | Guild R. Cuff 7 | 公會的Ｒ護腕７ |
+| 6844 | Guild R. Cuff 8 | 公會的Ｒ護腕８ |
+| 6845 | Guild R. Cuff 9 | 公會的Ｒ護腕９ |
+| 6846 | Guild R. Cuff 10 | 公會的Ｒ護腕１０ |
+| 6847 | Guild R. Cuff 11 | 公會的Ｒ護腕１１ |
+| 6848 | Guild R. Cuff 12 | 公會的Ｒ護腕１２ |
+| 7224 | Caravan Trsr | 旅團寶 |
+| 7980 | Guild Intro Letter | 公會序信件 |
+| 7982 | Guild Commendation | 公會沸血吼 |
+| 8068 | Guild Aid Proof | 公會的救助的證明 |
+| 8260 | Secret Red Ball | 秘傳赤球 |
+| 8274 | Secret of Kut-Ku | 怪鳥的秘傳空 |
+| 8936 | Caravan Moon Box | 旅團月箱 |
+| 8951 | Ancient Algae | 古代波奇可 |
+| 9366 | Elegant Bag | 優雅的袋 |
+| 9490 | Hunter G | 獵人Ｇ |
+| 9581 | Porta Pyroxene (F) | 波爾塔輝石Ｆ |
+| 9643 | Hunter Pass・Red | 獵人的通行赤 |
+| 9644 | Hunter Pass・Blue | 獵人的通行青 |
+| 9645 | Hunter Pass・White | 獵人的通行白 |
+| 9646 | Hunter Pass・Pink | 獵人的通行粉 |
+| 9647 | Hunter Pass・Purple | 獵人的通行紫 |
+| 9648 | Hunter Pass・Yellow | 獵人的通行黄 |
+| 9649 | Hunter Ring・Red | 獵人環赤 |
+| 9650 | Hunter Ring・Blue | 獵人環青 |
+| 9651 | Hunter Ring・White | 獵人環白 |
+| 9652 | Hunter Ring・Pink | 獵人環粉 |
+| 9653 | Hunter Ring・Purple | 獵人環紫 |
+| 9654 | Hunter Ring・Yellow | 獵人環黄 |
+| 9655 | Hunter Badge・Red | 獵人徽章赤 |
+| 9656 | Hunter Badge・Blue | 獵人徽章青 |
+| 9657 | Hunter Badge・White | 獵人徽章白 |
+| 9658 | Hunter Badge・Pink | 獵人徽章粉 |
+| 9659 | Hunter Badge・Purp | 獵人徽章紫 |
+| 9660 | Hunter Badge・Yell | 獵人徽章叫 |
+| 9661 | Hunter Medal・Red | 獵人的勳章赤 |
+| 9662 | Hunter Medal・Blue | 獵人的勳章青 |
+| 9663 | Hunter Medal・White | 獵人的勳章白 |
+| 9664 | Hunter Medal・Pink | 獵人的勳章粉 |
+| 9665 | Hunter Medal・Purpl | 獵人勳章紫 |
+| 9666 | Hunter Medal・Yellw | 獵人勳章黄 |
+| 9701 | Super Dash Extract | 超泰里法抽出 |
+| 9795 | Super Hard GGGX | 超硬ＧＧＧＸ |
+| 9951 | Caravan Bloom Box | 旅團花箱 |
+| 9952 | Caravan Star Box | 旅團星箱 |
+| 9953 | Caravan Snow Box | 旅團雪箱 |
+| 9954 | Caravan Air Box | 旅團空箱 |
+| 10182 | Hunter Heart・Yellw | 獵人心黄 |
+| 10183 | Hunter Heart・Red | 獵人的心臟赤 |
+| 10184 | Hunter Heart・Green | 獵人的心臟緑 |
+| 10185 | Hunter Heart・Blue | 獵人的心臟青 |
+| 10746 | Caravan Plum Box | 旅團梅箱 |
+| 10747 | Caravan ChrysnthmBox | 旅團血吼箱 |
+| 10748 | Caravan Cherry Box | 旅團比納桃箱 |
 | 10768 | Brave Helmet | 勇敢頭兜 |
 | 10769 | White Cats Bill | 白猫票據 |
 | 10778 | Regal Black Cloth | 皇家黑布 |
@@ -183,31 +184,31 @@
 | 10781 | Guild Crystal Crest | 公會結晶紋章 |
 | 10782 | Guild Abyss Crest | 公會深淵紋章 |
 | 10783 | Guild Cerise Crest | 公會櫻紅紋章 |
-| 10900 | Hunter Deco | 獵人Deco |
-| 11163 | Ancient Gold Shard | 古代GoldShard |
-| 11164 | Ancient Technology | 古代Technology |
-| 11173 | Ancient Book | 古代Book |
-| 11209 | Elegant Wht Cloth | ElegantWhtCloth |
-| 11286 | Ancient Super Stl | 古代超Stl |
-| 11439 | Caravan Secret Box | 旅團SecretBox |
-| 11463 | Elegant Ancient Docs | Elegant古代Docs |
+| 10900 | Hunter Deco | 獵人的裝飾品 |
+| 11163 | Ancient Gold Shard | 古代金的碎片 |
+| 11164 | Ancient Technology | 古代初音未 |
+| 11173 | Ancient Book | 古代書 |
+| 11209 | Elegant Wht Cloth | 優雅白布 |
+| 11286 | Ancient Super Stl | 古代超姆努波 |
+| 11439 | Caravan Secret Box | 旅團秘傳箱 |
+| 11463 | Elegant Ancient Docs | 優雅古代文書 |
 | 11470 | Guild Crest | 公會紋章 |
-| 11661 | Ancient Dissolver | 古代Dissolver |
-| 11662 | Ancient Lubricant | 古代Lubricant |
-| 12041 | Caravan Crmellia Box | 旅團CrmelliaBox |
-| 12042 | Caravan Hllyhock Box | 旅團HllyhockBox |
-| 12360 | Porta Brownies | 波爾塔Brownies |
-| 12361 | Porta Marshmallows | 波爾塔Marshmallows |
-| 12440 | Friendship Proof Red | 友情證明Red |
-| 12441 | Friendship Proof Blue | 友情證明Blue |
-| 12442 | Friendship Proof Wht | 友情證明Wht |
-| 12443 | Friendship Proof Yllw | 友情證明Yllw |
-| 12444 | Friendship Proof Pink | 友情證明Pink |
-| 12445 | Friendship Proof Pur | 友情證明Pur |
-| 12503 | Elegant Blue Cloth | ElegantBlueCloth |
-| 12512 | Guild Symbol | 公會Symbol |
-| 13065 | Elegant Blade G | ElegantBladeG |
-| 13079 | Caravan Orchid Box | 旅團OrchidBox |
-| 13366 | Porta Pyroxene Green | 波爾塔PyroxeneGreen |
-| 13367 | Porta Pyroxene Sakura | 波爾塔PyroxeneSakura |
-| 15044 | Porta Anko | 波爾塔Anko |
+| 11661 | Ancient Dissolver | 古代溶解 |
+| 11662 | Ancient Lubricant | 古代滑油 |
+| 12041 | Caravan Crmellia Box | 旅團山茶箱 |
+| 12042 | Caravan Hllyhock Box | 旅團浪紫黑箱 |
+| 12360 | Porta Brownies | 波爾塔觸媒研 |
+| 12361 | Porta Marshmallows | 波爾塔爾霧野 |
+| 12440 | Friendship Proof Red | 友情證明赤 |
+| 12441 | Friendship Proof Blue | 友情證明青 |
+| 12442 | Friendship Proof Wht | 友情證明白 |
+| 12443 | Friendship Proof Yllw | 友情證明黄 |
+| 12444 | Friendship Proof Pink | 友情證明粉 |
+| 12445 | Friendship Proof Pur | 友情證明紫 |
+| 12503 | Elegant Blue Cloth | 優雅青布 |
+| 12512 | Guild Symbol | 公會野泰里 |
+| 13065 | Elegant Blade G | 優雅刃Ｇ |
+| 13079 | Caravan Orchid Box | 旅團蘭箱 |
+| 13366 | Porta Pyroxene Green | 波爾塔輝石緑 |
+| 13367 | Porta Pyroxene Sakura | 波爾塔輝石櫻 |
+| 15044 | Porta Anko | 波爾塔紫黑鍵 |

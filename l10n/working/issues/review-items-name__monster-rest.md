@@ -42,9 +42,9 @@
 | 3060 | Big Penetrator Gem | 大貫通的寶玉 |
 | 3563 | Drench Leaf | 浸潤的葉 |
 | 3719 | Poisonous Beak | 毒的喙 |
-| 4061 | Flash Blast T.Gem | 爆破的閃光真的寶玉 |
-| 4062 | Attack Blast T.Gem | 攻撃力的爆破真的寶玉 |
-| 4063 | Penetrating T.Gem | 貫通真的寶玉 |
+| 4061 | Flash Blast T.Gem | 閃光爆破真寶玉 |
+| 4062 | Attack Blast T.Gem | 攻撃爆破真寶玉 |
+| 4063 | Penetrating T.Gem | 貫通真寶玉 |
 | 4474 | Extreme Flame Gem | 極限炎的寶玉 |
 | 4486 | Unknown Webbing | 未知的翼膜 |
 | 4491 | Unknown Marrow | 未知的骨髓 |
@@ -62,30 +62,30 @@
 | 6183 | Cool Tail Note | 冷尾的音符 |
 | 6437 | Arugoru Fuse Shell | 阿魯戈魯融合的殻 |
 | 6647 | Hrm.Eternal Claw | 盾蟹的永遠的爪 |
-| 6655 | GR1 Gem | GR1 寶玉 |
+| 6655 | GR1 Gem | ＧＲ１寶玉 |
 | 6660 | Lovely Pelt | 可愛的皮 |
 | 6664 | Far.Rainbow Tail | 遠虹的尾 |
 | 6665 | Far.Thunder Hide | 雷的遠的皮 |
-| 6668 | GR2 Gem | GR2 寶玉 |
+| 6668 | GR2 Gem | ＧＲ２寶玉 |
 | 6669 | Bas.Glitter Shell | 岩龍的煌的殻 |
 | 6672 | Rath.Glitter Scale | 火龍的煌的鱗 |
 | 6674 | Rath.Wicked Plate | 火龍的邪的逆鱗 |
 | 6675 | Cean.Glisten Shell | 鎌蟹的輝的殻 |
 | 6676 | Cean.Scissor Claw | 鎌蟹的鋏的爪 |
-| 6684 | GR3 Gem | GR3 寶玉 |
+| 6684 | GR3 Gem | ＧＲ３寶玉 |
 | 6686 | Los.Deep Marrow | 雄火龍的深的骨髓 |
 | 6688 | Blng.Glacial Hide | 雪獅子王的氷河的皮 |
 | 6691 | Blng.Berg Fang | 雪獅子王的氷山的牙 |
 | 6701 | Mido.Lava Claw | 爆狼的熔岩的爪 |
-| 6704 | GR4 Gem | GR4 寶玉 |
+| 6704 | GR4 Gem | ＧＲ４寶玉 |
 | 6708 | Volg.Scoria Scale | 熔岩龍的火山渣的鱗 |
 | 6709 | Volg.Solid Fang | 熔岩龍的堅的牙 |
 | 6710 | Volg.Magma Fin | 熔岩龍的岩漿的鰭 |
 | 6714 | Tgrx.Supreme Scale | 轟龍的至高的鱗 |
-| 6723 | GR5 Gem | GR5 寶玉 |
+| 6723 | GR5 Gem | ＧＲ５寶玉 |
 | 6729 | Vash. Demise Claw | 尾晶蠍的終焉的爪 |
 | 6731 | Vash. Solid Tail | 尾晶蠍的堅的尾 |
-| 6748 | GR7 Gem | GR7 寶玉 |
+| 6748 | GR7 Gem | ＧＲ７寶玉 |
 | 6752 | Permafrost Sac | 永久凍土的袋 |
 | 6753 | Miasma Sac | 瘴気的袋 |
 | 6754 | Immobilizing Sac | 不動的袋 |
@@ -99,7 +99,7 @@
 | 7011 | Festival Gem | 祭典的寶玉 |
 | 7130 | Cracked Fang | 亀裂的牙 |
 | 7132 | Cracked Claw | 亀裂的爪 |
-| 7161 | GR6 Gem | GR6 寶玉 |
+| 7161 | GR6 Gem | ＧＲ６寶玉 |
 | 7289 | Elastic Hide | 弾力的皮 |
 | 7293 | Volg.Fierce Fang | 熔岩龍的兇猛的牙 |
 | 7297 | Dyuragaua Hvy.Tail | 氷獰龍的重的尾 |

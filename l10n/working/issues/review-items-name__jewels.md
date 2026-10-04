@@ -1,12 +1,13 @@
-# Review：items-name／jewels
+# Review：items-name／珠玉
 
 > **用途**：最終確認。不中斷主線。
-> 來源 batch：atches/awaiting_qa/batch-items-jewels.json｜**完整 n=480**
+> 來源 batch：batches/awaiting_qa/batch-items-jewels.json｜**完整 n=480**
 
 ## 摘要
 
-- 筆數：**480**（全表）
+- 筆數：**480**（全表，不抽樣）
 - 片假名殘留：**0**
+- 仍偏原文／半翻：**0**
 
 ## 全表
 
@@ -492,10 +493,3 @@
 | 16416 | LBG Hiden Jewel | 輕弩秘伝珠 |
 | 16417 | HBG Hiden Jewel | 重弩秘伝珠 |
 | 16418 | Bow Hiden Jewel | 弓秘伝珠 |
-
-## 使用者最終確認
-
-- [ ] 珠名用語一致
-- [ ] 秘伝／武器種縮寫可接受
-- 註記：
-

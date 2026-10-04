@@ -1,12 +1,13 @@
-# Review：items-name／consumables
+# Review：items-name／消耗品
 
-> **用途**：最終確認翻譯狀況時看。**不中斷**翻譯主線；產此檔＝不等你當場批完。
-> 來源 batch：`batches/awaiting_qa/batch-items-consumables.json`｜**完整 n=282**
+> **用途**：最終確認。不中斷主線。
+> 來源 batch：batches/awaiting_qa/batch-items-consumables.json｜**完整 n=282**
 
 ## 摘要
 
-- 筆數：**282**（下列為全表，不抽樣）
+- 筆數：**282**（全表，不抽樣）
 - 片假名殘留：**0**
+- 仍偏原文／半翻：**0**
 
 ## 全表
 
@@ -43,23 +44,15 @@
 | 1527 | Health Drink【Stm】 | 體力飲料【耐力】 |
 | 1528 | Health Drink【Atk】 | 體力飲料【攻撃】 |
 | 1529 | Health Drink【Def】 | 體力飲料【防禦】 |
-| 1536 | Gunlance Coolant | 銃槍冷卻劑 |
 | 1538 | Fire-Proof Drink | 耐火飲料 |
 | 1539 | Water-Proof Drink | 耐水飲料 |
 | 1540 | Ice-Proof Drink | 耐冰飲料 |
 | 1541 | Thndr-Proof Drink | 耐雷飲料 |
 | 1542 | Dragon-Proof Drink | 耐龍飲料 |
 | 1547 | Adrenaline Potion | 興奮藥 |
-| 1548 | Starving Wolf Pot. | 餓狼壺 |
-| 1550 | Rasta Return Flute | 光明歸還笛 |
-| 1551 | Rasta Cover Flute | 光明掩護笛 |
-| 1552 | Poogie Aid Flute | 波奇援助笛 |
 | 1553 | Spirit Drink | 精神飲料 |
 | 1554 | Immunizer G | 免疫藥Ｇ |
 | 1579 | Explosive Coating | 爆炸瓶 |
-| 1580 | VS Returning Ball | 對戰歸還球 |
-| 1581 | VS Landmine | 對戰地雷 |
-| 1582 | VS Landmine G | 對戰地雷Ｇ |
 | 1583 | VS Slow Trap | 對戰減速罠 |
 | 1584 | VS Poison Trap | 對戰毒罠 |
 | 1585 | VS Sleep Trap | 對戰睡眠罠 |
@@ -89,7 +82,6 @@
 | 1790 | Pickaxe G | 十字鎬Ｇ |
 | 1791 | Bugnet G | 捕蟲網Ｇ |
 | 1886 | Heat Bomb | 熱爆彈 |
-| 2035 | Timeless Flute | 悠久笛 |
 | 2042 | EZ Resolve Fruit | 簡易覺悟果實 |
 | 2043 | Mobile Boomerang G | 飛行回力標Ｇ |
 | 2044 | EZ Stones | 簡易石子 |
@@ -116,32 +108,14 @@
 | 2065 | EZ Hot Powder | 簡易熱粉末 |
 | 2066 | EZ Cool Powder | 簡易冷粉末 |
 | 2067 | EZ Natural Powder | 簡易天然粉末 |
-| 2068 | EZ GL Coolant | 簡易銃槍冷卻劑 |
 | 2069 | EZ Ancient Potion | 簡易秘藥 |
-| 2181 | Chipped Knife | 缺損的小刀 |
-| 2202 | Broken Pickaxe | 壞掉的鶴嘴鋤 |
 | 2212 | Impact Coating | 強撃瓶 |
-| 2555 | EZ Poison Green | 簡易緑毒 |
-| 2556 | EZ Poison Yellow | 簡易黄毒 |
-| 2949 | Unfinished Barrel | 未完成桶 |
-| 3300 | False Whetstone | 假砥石 |
-| 3315 | Strange BBQ | 奇怪燒肉 |
-| 3329 | Knife Set | 小刀組 |
-| 3669 | Came. Grass Juice | 椿草汁 |
-| 3955 | Trapper G | 罠師Ｇ |
 | 3964 | EZ Adrenaline Drug | 簡易興奮藥 |
-| 3970 | Point Thief Flute | 奪點笛 |
 | 4310 | Poison Coating G | 毒瓶Ｇ |
 | 4311 | Para Coating G | 麻痺瓶Ｇ |
 | 4312 | Sleep Coating G | 睡眠瓶Ｇ |
-| 4358 | G2 Potion | Ｇ２回復藥 |
-| 4359 | Mega Drink | 強力飲料 |
-| 4393 | Cat Balloon Flute | 猫氣球笛 |
-| 4394 | Cat Ballista | 猫弩砲 |
 | 4395 | EZ Sonic Bomb | 簡易音爆彈 |
 | 4397 | Geyser Bomb | 間歇泉爆彈 |
-| 4427 | Rainbow Gunpowder | 彩虹火藥 |
-| 4458 | Daoran Gunpowder | 道蘭火藥 |
 | 4689 | Bomber G | 轟炸Ｇ |
 | 4696 | Corrosive Knife | 腐蝕投擲刀 |
 | 4699 | Fire Knife | 火投擲刀 |
@@ -162,37 +136,15 @@
 | 4956 | Serious Drink Thnd | 認真飲料雷 |
 | 4957 | Serious Drink Drgn | 認真飲料龍 |
 | 5114 | Throwing Knife G | 投擲刀Ｇ |
-| 5115 | Knife Kit | 小刀套組 |
 | 5127 | Strength Powder | 力量粉末 |
 | 5129 | Status Powder | 状態粉末 |
 | 5219 | Hexar Powder | 咒術粉末 |
-| 5277 | Gook Bomb | 古克爆彈 |
-| 5278 | Egg Bomb | 蛋爆彈 |
-| 5279 | Gook Cracker | 古克爆竹 |
-| 5294 | Halk Flute・Demon | 霍克笛・鬼人 |
-| 5295 | Halk Flute・Armor | 霍克笛・硬化 |
-| 5697 | Refreshing Drink | 清涼飲料 |
-| 5711 | Gook Whistle | 古克笛 |
-| 5712 | Gook Fireworks | 古克煙火 |
-| 5714 | Gook Pickaxe | 古克鶴嘴鋤 |
-| 5715 | Gook Fishing Bait | 古克魚餌 |
-| 5716 | Gook Bug Net | 古克蟲網 |
-| 5791 | Combo Drink | 調合飲料 |
 | 5793 | Psychic Powder | 千里眼粉末 |
-| 5794 | Sacrifice Potion | 犧牲回復藥 |
 | 6031 | Sonic Gear | 音波裝置 |
 | 6174 | Flinch Powder | 硬直粉末 |
-| 6247 | Throwing G | 投擲Ｇ |
-| 6794 | Marbled Steak | 霜降牛排 |
-| 6811 | Shakalaka Bomb | 奇面族爆彈 |
-| 7410 | Anti Ravi Bomb+ | 對拉維爆彈＋ |
-| 7493 | HR Neko Whetstone | ＨＲ猫砥石 |
 | 8271 | Divine Gold Powder | 神聖金粉 |
 | 8839 | Grace Smoke | 優雅煙霧 |
 | 8968 | Snow Powder | 雪粉末 |
-| 9172 | First-Aid Med S | 急救藥Ｓ |
-| 9173 | Sublime Ration | 極上攜帶糧食 |
-| 9365 | Oblivion Flute | 忘卻笛 |
 | 9711 | Quick Potion | 速效回復藥 |
 | 9712 | Quick Mega Potion | 速效回復藥．大 |
 | 9714 | Quick Max Potion | 速效萬能藥 |
@@ -208,10 +160,8 @@
 | 10671 | Tower Steak | 塔牛排 |
 | 10672 | Twr WellDone Steak | 塔熟肉 |
 | 10673 | Tower Antidote | 塔解毒藥 |
-| 10675 | Tower Deoderant | 塔消臭劑 |
 | 10676 | Tower Immunizer | 塔免疫藥 |
 | 10677 | Tower Immunizer G | 塔免疫藥Ｇ |
-| 10678 | Twr MoveSpd Fruit | 塔移動速度果實 |
 | 10679 | Tower Armor Pill | 塔硬化藥丸 |
 | 10680 | Tower Dash Juice | 塔強走藥 |
 | 10681 | Tower Dash Juice G | 塔強走藥Ｇ |
@@ -245,14 +195,9 @@
 | 10710 | T. Poison S Lv1 | 塔毒彈ＬＶ１ |
 | 10711 | T. Poison S Lv2 | 塔毒彈ＬＶ２ |
 | 10766 | Glitter Powder | 閃耀粉末 |
-| 10770 | Crimson Cat Barrel | 紅猫桶 |
-| 10771 | Aku Cat Barrel | 惡猫桶 |
 | 11165 | Tower Catalyst | 塔催化劑 |
-| 11285 | Mirage Powder | 幻影粉末 |
-| 11364 | Rotten Shock Water | 腐敗麻痺水 |
 | 11407 | Distorted Knife | 歪曲投擲刀 |
 | 11412 | Used Barrel Bomb | 用過的桶爆彈 |
-| 11471 | Support Flute G | 支援笛Ｇ |
 | 11781 | Tower Para S. Lv1 | 塔麻痺彈ＬＶ１ |
 | 11782 | Tower Para S. Lv2 | 塔麻痺彈ＬＶ２ |
 | 11783 | Tower Sleep S. LV1 | 塔睡眠彈ＬＶ１ |
@@ -262,12 +207,8 @@
 | 12495 | T. Impact Coating | 塔強撃瓶 |
 | 12496 | T. Acid Shot | 塔酸彈 |
 | 12497 | T. Bomb S. | 塔爆彈 |
-| 12781 | Burnt Cannonball | 燒焦砲彈 |
-| 12782 | Crushed Cannonball | 碎裂砲彈 |
-| 12908 | Nullberry | 抹消果實 |
 | 12981 | Broken Barrel Bomb | 破損桶爆彈 |
 | 13076 | Fiery Gunpowder | 熾烈火藥 |
-| 13608 | Heat Cannon | 熱砲 |
 | 13609 | T. Fire Acid | 塔火炎酸 |
 | 13610 | T. Water Acid | 塔水冷酸 |
 | 13611 | T. Thunder Acid | 塔電撃酸 |
@@ -279,7 +220,6 @@
 | 14208 | Tower Tnd Bomb S. | 塔雷爆彈Ｓ |
 | 14209 | Tower Ice Bomb S. | 塔冰爆彈Ｓ |
 | 14210 | Tower Drg Bomb S. | 塔龍爆彈Ｓ |
-| 14320 | Tower Nullberry | 塔抹消果實 |
 | 14321 | Tower Bleed Cure | 塔裂傷藥 |
 | 14322 | Tower Energy Drink | 塔能量飲料 |
 | 14323 | Tower Adren Drink | 塔興奮飲料 |
@@ -289,18 +229,69 @@
 | 14404 | T. Sonic Bomb | 塔音爆彈 |
 | 14405 | T. Flash Bomb | 塔閃光彈 |
 | 14892 | Rainbow Powder | 彩虹粉末 |
+| 1536 | Gunlance Coolant | 銃槍冷卻劑 |
+| 1548 | Starving Wolf Pot. | 餓狼壺 |
+| 1550 | Rasta Return Flute | 光明歸還笛 |
+| 1551 | Rasta Cover Flute | 光明掩護笛 |
+| 1552 | Poogie Aid Flute | 波奇援助笛 |
+| 1580 | VS Returning Ball | 對戰歸還球 |
+| 1581 | VS Landmine | 對戰地雷 |
+| 1582 | VS Landmine G | 對戰地雷Ｇ |
+| 2035 | Timeless Flute | 悠久笛 |
+| 2068 | EZ GL Coolant | 簡易銃槍冷卻劑 |
+| 2181 | Chipped Knife | 缺損的小刀 |
+| 2202 | Broken Pickaxe | 壞掉的鶴嘴鋤 |
+| 2555 | EZ Poison Green | 簡易緑毒 |
+| 2556 | EZ Poison Yellow | 簡易黄毒 |
+| 2949 | Unfinished Barrel | 未完成桶 |
+| 3300 | False Whetstone | 假砥石 |
+| 3315 | Strange BBQ | 奇怪燒肉 |
+| 3329 | Knife Set | 小刀組 |
+| 3669 | Came. Grass Juice | 椿草汁 |
+| 3955 | Trapper G | 罠師Ｇ |
+| 3970 | Point Thief Flute | 奪點笛 |
+| 4358 | G2 Potion | Ｇ２回復藥 |
+| 4359 | Mega Drink | 強力飲料 |
+| 4393 | Cat Balloon Flute | 猫氣球笛 |
+| 4394 | Cat Ballista | 猫弩砲 |
+| 4427 | Rainbow Gunpowder | 彩虹火藥 |
+| 4458 | Daoran Gunpowder | 道蘭火藥 |
+| 5115 | Knife Kit | 小刀套組 |
+| 5277 | Gook Bomb | 古克爆彈 |
+| 5278 | Egg Bomb | 蛋爆彈 |
+| 5279 | Gook Cracker | 古克爆竹 |
+| 5294 | Halk Flute・Demon | 霍克笛・鬼人 |
+| 5295 | Halk Flute・Armor | 防具的鷹笛 |
+| 5697 | Refreshing Drink | 清涼飲料 |
+| 5711 | Gook Whistle | 古克笛 |
+| 5712 | Gook Fireworks | 古克煙火 |
+| 5714 | Gook Pickaxe | 古克鶴嘴鋤 |
+| 5715 | Gook Fishing Bait | 古克魚餌 |
+| 5716 | Gook Bug Net | 古克蟲網 |
+| 12908 | Nullberry | 抹消果實 |
+| 5791 | Combo Drink | 調合飲料 |
+| 5794 | Sacrifice Potion | 犧牲回復藥 |
+| 6247 | Throwing G | 投擲Ｇ |
+| 6794 | Marbled Steak | 霜降牛排 |
+| 6811 | Shakalaka Bomb | 奇面族爆彈 |
+| 7410 | Anti Ravi Bomb+ | 對拉維爆彈＋ |
+| 7493 | HR Neko Whetstone | ＨＲ猫砥石 |
+| 9172 | First-Aid Med S | 急救藥Ｓ |
+| 9173 | Sublime Ration | 極上攜帶糧食 |
+| 9365 | Oblivion Flute | 忘卻笛 |
+| 10675 | Tower Deoderant | 塔消臭劑 |
+| 10678 | Twr MoveSpd Fruit | 塔移動速度果實 |
+| 10770 | Crimson Cat Barrel | 紅猫桶 |
+| 10771 | Aku Cat Barrel | 惡猫桶 |
+| 11285 | Mirage Powder | 幻影粉末 |
+| 11364 | Rotten Shock Water | 腐敗麻痺水 |
+| 11471 | Support Flute G | 支援笛Ｇ |
+| 12781 | Burnt Cannonball | 燒焦砲彈 |
+| 12782 | Crushed Cannonball | 碎裂砲彈 |
+| 13608 | Heat Cannon | 熱砲 |
+| 14320 | Tower Nullberry | 塔抹消果實 |
 | 15190 | Glitter Gunpowder | 閃亮火藥 |
 | 15204 | Sparkle Gunpowder | 炫光火藥 |
 | 15383 | Boga Emission Powder | 博加噴射粉末 |
 | 15791 | Cute Powder | 可愛粉末 |
 | 16439 | Rattling Powder | 響聲粉末 |
-
-## 機械可疑（片假名殘留）
-
-（無）
-
-## 使用者最終確認
-
-- [ ] 全表確認通過（或註記要 Fixer 的 index）
-- 註記：
-

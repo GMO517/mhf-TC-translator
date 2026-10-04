@@ -1,13 +1,13 @@
-# Review：items-name／skill-cuffs
+# Review：items-name／技能護腕
 
 > **用途**：最終確認。不中斷主線。
-> 來源 batch：atches/awaiting_qa/batch-items-skill-cuffs.json｜**完整 n=2877**
+> 來源 batch：batches/awaiting_qa/batch-items-skill-cuffs.json｜**完整 n=2877**
 
 ## 摘要
 
-- 筆數：**2877**（全表）
+- 筆數：**2877**（全表，不抽樣）
 - 片假名殘留：**0**
-- 格式：技能名＋全形代碼（例：匠ＰＡ１）
+- 仍偏原文／半翻：**0**
 
 ## 全表
 
@@ -2890,10 +2890,3 @@
 | 15099 | Spacing SA2 | 間合ＳＡ２ |
 | 15565 | Furious SA1 SA1 | 憤激ＳＡ１ |
 | 15969 | Trained SA1 SA1 | 鍛鏈ＳＡ１ |
-
-## 使用者最終確認
-
-- [ ] 技能名與既有 Deco／SP 一致
-- [ ] 代碼全形正確
-- 註記：
-

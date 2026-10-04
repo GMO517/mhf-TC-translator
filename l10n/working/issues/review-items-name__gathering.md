@@ -1,13 +1,13 @@
-# Review：items-name／gathering
+# Review：items-name／採集
 
 > **用途**：最終確認。不中斷主線。
-> 來源 batch：atches/awaiting_qa/batch-items-gathering.json｜**完整 n=488**
+> 來源 batch：batches/awaiting_qa/batch-items-gathering.json｜**完整 n=488**
 
 ## 摘要
 
 - 筆數：**488**（全表，不抽樣）
 - 片假名殘留：**0**
-- 備註：可片＝Card（charset「卡→可」）；部分專名漢字音譯／義譯
+- 仍偏原文／半翻：**0**
 
 ## 全表
 
@@ -501,11 +501,3 @@
 | 16512 | Tapir Soul Stone | 貘魂石 |
 | 16513 | Shrimp Soul Stone | 蝦魂石 |
 | 16514 | Crab Soul Stone | 蟹魂石 |
-
-## 使用者最終確認
-
-- [ ] 礦／蟲／草／魚用語一致
-- [ ] 無誤把魔物掉落算進採集
-- [ ] 專名音譯可接受
-- 註記：
-

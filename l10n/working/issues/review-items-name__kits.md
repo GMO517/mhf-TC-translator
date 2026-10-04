@@ -7,6 +7,7 @@
 
 - 筆數：**45**（全表，不抽樣）
 - 片假名殘留：**0**
+- 仍偏原文／半翻：**0**
 
 ## 全表
 
@@ -42,18 +43,18 @@
 | 10797 | Shantien Kit 3 Arms | 天翔龍套件３腕 |
 | 10798 | Shantien Kit 3 Waist | 天翔龍套件３腰 |
 | 10799 | Shantien Kit 3 Legs | 天翔龍套件３脚 |
-| 12137 | Disu Kit 1 Head | Disu套件１頭 |
-| 12138 | Disu Kit 1 Chest | Disu套件１胴 |
-| 12139 | Disu Kit 1 Arms | Disu套件１腕 |
-| 12140 | Disu Kit 1 Waist | Disu套件１腰 |
-| 12141 | Disu Kit 1 Legs | Disu套件１脚 |
-| 12142 | Disu Kit 2 Head | Disu套件２頭 |
-| 12143 | Disu Kit 2 Chest | Disu套件２胴 |
-| 12144 | Disu Kit 2 Arms | Disu套件２腕 |
-| 12145 | Disu Kit 2 Waist | Disu套件２腰 |
-| 12146 | Disu Kit 2 Legs | Disu套件２脚 |
-| 12147 | Disu Kit 3 Head | Disu套件３頭 |
-| 12148 | Disu Kit 3 Chest | Disu套件３胴 |
-| 12149 | Disu Kit 3 Arms | Disu套件３腕 |
-| 12150 | Disu Kit 3 Waist | Disu套件３腰 |
-| 12151 | Disu Kit 3 Legs | Disu套件３脚 |
+| 12137 | Disu Kit 1 Head | 熾凍龍套組１頭 |
+| 12138 | Disu Kit 1 Chest | 熾凍龍套組１胴 |
+| 12139 | Disu Kit 1 Arms | 熾凍龍套組１腕 |
+| 12140 | Disu Kit 1 Waist | 熾凍龍套組１腰 |
+| 12141 | Disu Kit 1 Legs | 熾凍龍套組１脚 |
+| 12142 | Disu Kit 2 Head | 熾凍龍套組２頭 |
+| 12143 | Disu Kit 2 Chest | 熾凍龍套組２胴 |
+| 12144 | Disu Kit 2 Arms | 熾凍龍套組２腕 |
+| 12145 | Disu Kit 2 Waist | 熾凍龍套組２腰 |
+| 12146 | Disu Kit 2 Legs | 熾凍龍套組２脚 |
+| 12147 | Disu Kit 3 Head | 熾凍龍套組３頭 |
+| 12148 | Disu Kit 3 Chest | 熾凍龍套組３胴 |
+| 12149 | Disu Kit 3 Arms | 熾凍龍套組３腕 |
+| 12150 | Disu Kit 3 Waist | 熾凍龍套組３腰 |
+| 12151 | Disu Kit 3 Legs | 熾凍龍套組３脚 |

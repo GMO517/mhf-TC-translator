@@ -9,7 +9,9 @@
 
 | CATEGORY | 進度 | 批次產物 | 下一筆 |
 |---|---|---|---|
-| items-name／殘留 | done | — | validate PASS、半翻 0；下一項武器／防具 |
+| items-name／殘留 | done | `scratch/review_quality_audit.json` | misc/remainder/kits review kata/still_en=0；validate PASS |
+| weapons-melee-name／層次 B | done | jp-kata 49＋fix 68＋manual 67 | needs_rework=0；ok=16825；validate PASS |
+| weapons-ranged-name | done | jp-kata 29＋manual 21 | needs_rework=0；ok=4223；validate PASS |
 
 ## 待獨立 QA
 
