@@ -2003,33 +2003,33 @@ index,source,target
 2001,BP４ Tkt・２,ＢＰ４票・２
 2002,BP４ Tkt・３,ＢＰ４票・３
 2003,BP４ Tkt・４,ＢＰ４票・４
-2004,BP４ Tkt・５,BP４ Tkt・５
-2005,BP４ Tkt・６,BP４ Tkt・６
-2006,BP４ Tkt・７,BP４ Tkt・７
-2007,BP４ Tkt・８,BP４ Tkt・８
+2004,BP４ Tkt・５,ＢＰ４票・５
+2005,BP４ Tkt・６,ＢＰ４票・６
+2006,BP４ Tkt・７,ＢＰ４票・７
+2007,BP４ Tkt・８,ＢＰ４票・８
 2008,N Seal D,N Seal D
 2009,N Seal E,N Seal E
 2010,N Seal F,N Seal F
-2011,Aqua P Tkt,Aqua P Tkt
-2012,Grom P Tkt,Grom P Tkt
-2013,Frost F Tkt,Frost F Tkt
-2014,Kamu F Tkt,Kamu F Tkt
-2015,Snow F Tkt,Snow F Tkt
-2016,Grand F Tkt,Grand F Tkt
-2017,F Cannon Tkt,F Cannon Tkt
-2018,D Cannon Tkt,D Cannon Tkt
-2019,Star Eagle Bow Tkt,Star Eagle Bow Tkt
-2020,Star Koto Bow Tkt,Star Koto Bow Tkt
-2021,Ferme Head Tkt,Ferme Head Tkt
-2022,Ferme Body Tkt,Ferme Body Tkt
-2023,Ferme Arm Tkt,Ferme Arm Tkt
-2024,Ferme Waist Tkt,Ferme Waist Tkt
-2025,Ferme Legs Tkt,Ferme Legs Tkt
-2026,Claire Tkt Head,Claire Tkt Head
-2027,Claire Tkt Torso,Claire Tkt Torso
-2028,Claire Tkt Arms,Claire Tkt Arms
-2029,Claire Tkt Waist,Claire Tkt Waist
-2030,Claire Tkt Legs,Claire Tkt Legs
+2011,Aqua P Tkt,水之Ｐ票
+2012,Grom P Tkt,雷嗚之Ｐ票
+2013,Frost F Tkt,冰霜Ｆ票
+2014,Kamu F Tkt,無風Ｆ票
+2015,Snow F Tkt,冰雪Ｆ票
+2016,Grand F Tkt,大型Ｆ票
+2017,F Cannon Tkt,Ｆ加農票
+2018,D Cannon Tkt,Ｄ加農票
+2019,Star Eagle Bow Tkt,星鷲弓票
+2020,Star Koto Bow Tkt,星琴弓票
+2021,Ferme Head Tkt,沈默頭票
+2022,Ferme Body Tkt,沈默胴票
+2023,Ferme Arm Tkt,沈默腕票
+2024,Ferme Waist Tkt,沈默腰票
+2025,Ferme Legs Tkt,沈默脚票
+2026,Claire Tkt Head,煥晶頭票
+2027,Claire Tkt Torso,煥晶胴票
+2028,Claire Tkt Arms,煥晶腕票
+2029,Claire Tkt Waist,煥晶腰票
+2030,Claire Tkt Legs,煥晶脚票
 2031,Guild Medallion,Guild Medallion
 2032,Black Beast Claw,Black Beast Claw
 2033,Moonlight Stone,Moonlight Stone
@@ -2096,54 +2096,54 @@ index,source,target
 2094,N Seal G,N Seal G
 2095,N Seal H,N Seal H
 2096,N Seal I,N Seal I
-2097,Display Swrd Tkt,Display Swrd Tkt
-2098,Evening Sword Tkt,Evening Sword Tkt
-2099,Blitz Ticket,Blitz Ticket
-2100,Pearl Ticket,Pearl Ticket
-2101,Paralyze Ticket,Paralyze Ticket
-2102,Reve Ticket,Reve Ticket
-2103,Student Ticket,Student Ticket
-2104,Magnificent Tkt,Magnificent Tkt
-2105,Ceremony Tkt,Ceremony Tkt
-2106,Ceremony+ Tkt,Ceremony+ Tkt
-2107,Ceremony Pce Tkt,Ceremony Pce Tkt
-2108,2nd Ceremony Tkt,2nd Ceremony Tkt
-2109,Ceremony+ 2 Tkt,Ceremony+ 2 Tkt
-2110,Ceremony 2 Pce Tkt,Ceremony 2 Pce Tkt
-2111,ＴＮ Tkt・１,ＴＮ Tkt・１
-2112,ＴＮ Tkt・２,ＴＮ Tkt・２
-2113,ＴＮ Tkt・３,ＴＮ Tkt・３
-2114,ＴＮ Tkt・４,ＴＮ Tkt・４
-2115,ＴＮ Tkt・５,ＴＮ Tkt・５
-2116,Melety Tkt Head,Melety Tkt Head
-2117,Melety Tkt Torso,Melety Tkt Torso
-2118,Melety Tkt Arms,Melety Tkt Arms
-2119,Melety Tkt Waist,Melety Tkt Waist
-2120,Melety Tkt Legs,Melety Tkt Legs
-2121,Gold Tkt Head,Gold Tkt Head
-2122,Gold Tkt Torso,Gold Tkt Torso
-2123,Gold Tkt Arms,Gold Tkt Arms
-2124,Gold Tkt Waist,Gold Tkt Waist
-2125,Gold Tkt Legs,Gold Tkt Legs
-2126,BP５ Tkt・１,BP５ Tkt・１
-2127,BP５ Tkt・２,BP５ Tkt・２
-2128,BP５ Tkt・３,BP５ Tkt・３
-2129,BP５ Tkt・４,BP５ Tkt・４
-2130,BP５ Tkt・５,BP５ Tkt・５
-2131,BP５ Tkt・６,BP５ Tkt・６
-2132,BP５ Tkt・７,BP５ Tkt・７
-2133,BP５ Tkt・８,BP５ Tkt・８
-2134,ＴＰ２ Tkt・１,ＴＰ２ Tkt・１
-2135,ＴＰ２ Tkt・２,ＴＰ２ Tkt・２
-2136,ＴＰ２ Tkt・３,ＴＰ２ Tkt・３
-2137,ＴＰ２ Tkt・４,ＴＰ２ Tkt・４
-2138,ＴＰ２ Tkt・５,ＴＰ２ Tkt・５
+2097,Display Swrd Tkt,陽飾太刀票
+2098,Evening Sword Tkt,宵飾太刀票
+2099,Blitz Ticket,閃撃票
+2100,Pearl Ticket,珍珠票
+2101,Paralyze Ticket,麻痺票
+2102,Reve Ticket,睡夢票
+2103,Student Ticket,美神票
+2104,Magnificent Tkt,力神票
+2105,Ceremony Tkt,壹式票
+2106,Ceremony+ Tkt,壹式改票
+2107,Ceremony Pce Tkt,壹式【駒】票
+2108,2nd Ceremony Tkt,貳式票
+2109,Ceremony+ 2 Tkt,貳式改票
+2110,Ceremony 2 Pce Tkt,貳式【駒】票
+2111,ＴＮ Tkt・１,ＴＮ票・１
+2112,ＴＮ Tkt・２,ＴＮ票・２
+2113,ＴＮ Tkt・３,ＴＮ票・３
+2114,ＴＮ Tkt・４,ＴＮ票・４
+2115,ＴＮ Tkt・５,ＴＮ票・５
+2116,Melety Tkt Head,專家頭票
+2117,Melety Tkt Torso,專家胴票
+2118,Melety Tkt Arms,專家腕票
+2119,Melety Tkt Waist,專家腰票
+2120,Melety Tkt Legs,專家脚票
+2121,Gold Tkt Head,耀金頭票
+2122,Gold Tkt Torso,耀金胴票
+2123,Gold Tkt Arms,耀金腕票
+2124,Gold Tkt Waist,耀金腰票
+2125,Gold Tkt Legs,耀金脚票
+2126,BP５ Tkt・１,ＢＰ５票・１
+2127,BP５ Tkt・２,ＢＰ５票・２
+2128,BP５ Tkt・３,ＢＰ５票・３
+2129,BP５ Tkt・４,ＢＰ５票・４
+2130,BP５ Tkt・５,ＢＰ５票・５
+2131,BP５ Tkt・６,ＢＰ５票・６
+2132,BP５ Tkt・７,ＢＰ５票・７
+2133,BP５ Tkt・８,ＢＰ５票・８
+2134,ＴＰ２ Tkt・１,ＴＰ２票・１
+2135,ＴＰ２ Tkt・２,ＴＰ２票・２
+2136,ＴＰ２ Tkt・３,ＴＰ２票・３
+2137,ＴＰ２ Tkt・４,ＴＰ２票・４
+2138,ＴＰ２ Tkt・５,ＴＰ２票・５
 2139,PawCoin・Steel,PawCoin・Steel
 2140,PawCoin・Iron,PawCoin・Iron
 2141,PawCoin・Lead,PawCoin・Lead
 2142,Guild Seal,Guild Seal
 2143,Tough Snake Skin,Tough Snake Skin
-2144,Gratitude Tkt,Gratitude Tkt
+2144,Gratitude Tkt,感謝票
 2145,Otoshidama [Yin],Otoshidama [Yin]
 2146,Raviente Blood,Raviente Blood
 2147,Raviente Gem,Raviente Gem
@@ -2209,8 +2209,8 @@ index,source,target
 2207,Yamatsukami Proof,Yamatsukami Proof
 2208,Elder Dragon Fang,Elder Dragon Fang
 2209,Elder Dragon Jewel,Elder Dragon Jewel
-2210,Yearly Sub Ticket,Yearly Sub Ticket
-2211,Dummy,Dummy
+2210,Yearly Sub Ticket,年間特典票
+2211,Dummy,(dummy)
 2212,Impact Coating,Impact Coating
 2213,Artisan PA1,Artisan PA1
 2214,Recoil PA1,Recoil PA1
@@ -2532,9 +2532,9 @@ index,source,target
 2530,Thunder Res SC4,Thunder Res SC4
 2531,Thunder Res SC5,Thunder Res SC5
 2532,Thunder Res SC6,Thunder Res SC6
-2533,PA Cuff Tkt,PA Cuff Tkt
-2534,PB Cuff Tkt,PB Cuff Tkt
-2535,PC Cuff Tkt,PC Cuff Tkt
+2533,PA Cuff Tkt,ＰＡ袖飾票
+2534,PB Cuff Tkt,ＰＢ袖飾票
+2535,PC Cuff Tkt,ＰＣ袖飾票
 2536,Cuff Base・Festi,Cuff Base・Festi
 2537,Cuff Base・Black,Cuff Base・Black
 2538,Cuff Base・White,Cuff Base・White
@@ -2558,44 +2558,44 @@ index,source,target
 2556,EZ Poison Yellow,EZ Poison Yellow
 2557,Warm Oil,Warm Oil
 2558,Cooling Oil,Cooling Oil
-2559,G Baron Tkt,G Baron Tkt
-2560,P Baron Tkt,P Baron Tkt
-2561,B Equa Tkt,B Equa Tkt
-2562,H Equa Tkt,H Equa Tkt
-2563,Frost P Tkt,Frost P Tkt
-2564,Sleep P Tkt,Sleep P Tkt
-2565,S Crane Tkt,S Crane Tkt
-2566,A Crane Tkt,A Crane Tkt
-2567,Tank B Tkt,Tank B Tkt
-2568,Baston B Tkt,Baston B Tkt
-2569,Fort B Tkt,Fort B Tkt
-2570,Tank W Tkt,Tank W Tkt
-2571,Baston W Tkt,Baston W Tkt
-2572,Fort W Tkt,Fort W Tkt
-2573,Aristo Tkt Head,Aristo Tkt Head
-2574,Aristo Tkt Torso,Aristo Tkt Torso
-2575,Aristo Tkt Arms,Aristo Tkt Arms
-2576,Aristo Tkt Waist,Aristo Tkt Waist
-2577,Aristo Tkt Legs,Aristo Tkt Legs
-2578,Texto Tkt Head,Texto Tkt Head
-2579,Texto Tkt Torso,Texto Tkt Torso
-2580,Texto Tkt Arms,Texto Tkt Arms
-2581,Texto Tkt Waist,Texto Tkt Waist
-2582,Texto Tkt Legs,Texto Tkt Legs
-2583,Aje Tkt Head,Aje Tkt Head
-2584,Aje Tkt Torso,Aje Tkt Torso
-2585,Aje Tkt Arms,Aje Tkt Arms
-2586,Aje Tkt Waist,Aje Tkt Waist
-2587,Aje Tkt Legs,Aje Tkt Legs
-2588,BP６ Tkt・１,BP６ Tkt・１
-2589,BP６ Tkt・２,BP６ Tkt・２
-2590,BP６ Tkt・３,BP６ Tkt・３
-2591,BP６ Tkt・４,BP６ Tkt・４
-2592,BP６ Tkt・５,BP６ Tkt・５
-2593,BP６ Tkt・６,BP６ Tkt・６
-2594,BP６ Tkt・７,BP６ Tkt・７
-2595,BP６ Tkt・８,BP６ Tkt・８
-2596,EF Ticket,EF Ticket
+2559,G Baron Tkt,Ｇ男爵票
+2560,P Baron Tkt,Ｐ男爵票
+2561,B Equa Tkt,Ｂ幼馬票
+2562,H Equa Tkt,Ｈ幼馬票
+2563,Frost P Tkt,冰霜Ｐ票
+2564,Sleep P Tkt,催眠Ｐ票
+2565,S Crane Tkt,Ｓ鶴弓票
+2566,A Crane Tkt,Ａ鶴弓票
+2567,Tank B Tkt,戰車Ｂ票
+2568,Baston B Tkt,魔杖Ｂ票
+2569,Fort B Tkt,要塞Ｂ票
+2570,Tank W Tkt,戰車Ｗ票
+2571,Baston W Tkt,魔杖Ｗ票
+2572,Fort W Tkt,要塞Ｗ票
+2573,Aristo Tkt Head,貴族頭票
+2574,Aristo Tkt Torso,貴族胴票
+2575,Aristo Tkt Arms,貴族腕票
+2576,Aristo Tkt Waist,貴族腰票
+2577,Aristo Tkt Legs,貴族脚票
+2578,Texto Tkt Head,原典頭票
+2579,Texto Tkt Torso,原典胴票
+2580,Texto Tkt Arms,原典腕票
+2581,Texto Tkt Waist,原典腰票
+2582,Texto Tkt Legs,原典脚票
+2583,Aje Tkt Head,先驅頭票
+2584,Aje Tkt Torso,先驅胴票
+2585,Aje Tkt Arms,先驅腕票
+2586,Aje Tkt Waist,先驅腰票
+2587,Aje Tkt Legs,先驅脚票
+2588,BP６ Tkt・１,ＢＰ６票・１
+2589,BP６ Tkt・２,ＢＰ６票・２
+2590,BP６ Tkt・３,ＢＰ６票・３
+2591,BP６ Tkt・４,ＢＰ６票・４
+2592,BP６ Tkt・５,ＢＰ６票・５
+2593,BP６ Tkt・６,ＢＰ６票・６
+2594,BP６ Tkt・７,ＢＰ６票・７
+2595,BP６ Tkt・８,ＢＰ６票・８
+2596,EF Ticket,ＥＦ票
 2597,Iron Star Chunk,Iron Star Chunk
 2598,Sincere Bond,Sincere Bond
 2599,Honest Bond,Honest Bond
@@ -2726,7 +2726,7 @@ index,source,target
 2724,Blango Crush Fang,Blango Crush Fang
 2725,Blango Pierce Fang,Blango Pierce Fang
 2726,Blango Mystic fang,Blango Mystic fang
-2727,HC Ticket,HC Ticket
+2727,HC Ticket,ＨＣ票
 2728,Sharpening PA1,Sharpening PA1
 2729,Reload PA1,Reload PA1
 2730,Wind Pressure PA1,Wind Pressure PA1
@@ -2963,54 +2963,54 @@ index,source,target
 2961,Dora Mane,Dora Mane
 2962,Dora Jewel,Dora Jewel
 2963,Dora Proof,Dora Proof
-2964,Stiff I Tkt,Stiff I Tkt
-2965,Grave I Tkt,Grave I Tkt
-2966,Mammoth S Tkt,Mammoth S Tkt
-2967,Furious S Tkt,Furious S Tkt
-2968,Flame B Tkt,Flame B Tkt
-2969,Aqua B Tkt,Aqua B Tkt
-2970,Spark M Tkt,Spark M Tkt
-2971,Drake M Tkt,Drake M Tkt
-2972,Gold Cat GS Tkt,Gold Cat GS Tkt
-2973,Silver Cat GS Tkt,Silver Cat GS Tkt
-2974,W Bolt Tkt,W Bolt Tkt
-2975,C Fang Tkt,C Fang Tkt
-2976,T Fang Tkt,T Fang Tkt
-2977,Heat S Tkt,Heat S Tkt
-2978,Blaze S Tkt,Blaze S Tkt
-2979,Flare S Tkt,Flare S Tkt
-2980,Ripple S Tkt,Ripple S Tkt
-2981,Swell S Tkt,Swell S Tkt
-2982,Rogue S Tkt,Rogue S Tkt
-2983,Goldcat Gun Tkt 1,Goldcat Gun Tkt 1
-2984,Goldcat Gun Tkt 2,Goldcat Gun Tkt 2
-2985,Goldcat Gun Tkt 3,Goldcat Gun Tkt 3
-2986,Silvrcat Gun Tkt 1,Silvrcat Gun Tkt 1
-2987,Silvrcat Gun Tkt 2,Silvrcat Gun Tkt 2
-2988,Silvrcat Gun Tkt 3,Silvrcat Gun Tkt 3
-2989,E Mask Green Tkt,E Mask Green Tkt
-2990,E Mask Tea Tkt,E Mask Tea Tkt
-2991,E Mask White Tkt,E Mask White Tkt
-2992,Rage Tkt Head,Rage Tkt Head
-2993,Rage Tkt Chest,Rage Tkt Chest
-2994,Rage Tkt Arms,Rage Tkt Arms
-2995,Rage Tkt Waist,Rage Tkt Waist
-2996,Rage Tkt Legs,Rage Tkt Legs
-2997,Rampage Tkt Head,Rampage Tkt Head
-2998,Rampage Tkt Chest,Rampage Tkt Chest
-2999,Rampage Tkt Arms,Rampage Tkt Arms
-3000,Rampage Tkt Waist,Rampage Tkt Waist
-3001,Rampage Tkt Legs,Rampage Tkt Legs
-3002,Blaze Tkt Head,Blaze Tkt Head
-3003,Blaze Tkt Chest,Blaze Tkt Chest
-3004,Blaze Tkt Arms,Blaze Tkt Arms
-3005,Blaze Tkt Waist,Blaze Tkt Waist
-3006,Blaze Tkt Legs,Blaze Tkt Legs
-3007,Pharan Tkt Head,Pharan Tkt Head
-3008,Pharan Tkt Torso,Pharan Tkt Torso
-3009,Pharan Tkt Arms,Pharan Tkt Arms
-3010,Pharan Tkt Waist,Pharan Tkt Waist
-3011,Pharan Tkt Legs,Pharan Tkt Legs
+2964,Stiff I Tkt,スティフＩ票
+2965,Grave I Tkt,グレーヴＩ票
+2966,Mammoth S Tkt,マンモスＳ票
+2967,Furious S Tkt,フュリアＳ票
+2968,Flame B Tkt,火焔Ｂ票
+2969,Aqua B Tkt,泉流Ｂ票
+2970,Spark M Tkt,閃光Ｍ票
+2971,Drake M Tkt,巨龍Ｍ票
+2972,Gold Cat GS Tkt,金猫大劍票
+2973,Silver Cat GS Tkt,銀猫大劍票
+2974,W Bolt Tkt,Ｗボルト票
+2975,C Fang Tkt,Ｃファング票
+2976,T Fang Tkt,Ｔファング票
+2977,Heat S Tkt,火焔Ｓ票
+2978,Blaze S Tkt,烈焔Ｓ票
+2979,Flare S Tkt,焔息Ｓ票
+2980,Ripple S Tkt,細波Ｓ票
+2981,Swell S Tkt,強盾Ｓ票
+2982,Rogue S Tkt,遊侠Ｓ票
+2983,Goldcat Gun Tkt 1,金猫砲・壹票
+2984,Goldcat Gun Tkt 2,金猫砲・貳票
+2985,Goldcat Gun Tkt 3,金猫砲・參票
+2986,Silvrcat Gun Tkt 1,銀猫砲・壹票
+2987,Silvrcat Gun Tkt 2,銀猫砲・貳票
+2988,Silvrcat Gun Tkt 3,銀猫砲・參票
+2989,E Mask Green Tkt,棘龍面罩緑票
+2990,E Mask Tea Tkt,棘龍面罩茶票
+2991,E Mask White Tkt,棘龍面罩白票
+2992,Rage Tkt Head,憤怒頭票
+2993,Rage Tkt Chest,憤怒胴票
+2994,Rage Tkt Arms,憤怒腕票
+2995,Rage Tkt Waist,憤怒腰票
+2996,Rage Tkt Legs,憤怒脚票
+2997,Rampage Tkt Head,狂亂頭票
+2998,Rampage Tkt Chest,狂亂胴票
+2999,Rampage Tkt Arms,狂亂腕票
+3000,Rampage Tkt Waist,狂亂腰票
+3001,Rampage Tkt Legs,狂亂脚票
+3002,Blaze Tkt Head,業火頭票
+3003,Blaze Tkt Chest,業火胴票
+3004,Blaze Tkt Arms,業火腕票
+3005,Blaze Tkt Waist,業火腰票
+3006,Blaze Tkt Legs,業火脚票
+3007,Pharan Tkt Head,巫者頭票
+3008,Pharan Tkt Torso,巫者胴票
+3009,Pharan Tkt Arms,巫者腕票
+3010,Pharan Tkt Waist,巫者腰票
+3011,Pharan Tkt Legs,巫者脚票
 3012,Gold Cat Head,Gold Cat Head
 3013,Gold Cat Chest,Gold Cat Chest
 3014,Gold Cat Arms,Gold Cat Arms
