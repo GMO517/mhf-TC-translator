@@ -1,7 +1,7 @@
 {
   "section_id": "items-name",
   "xpath": "dat/items/name",
-  "pending_total_estimate": 16083,
+  "pending_total_estimate": 16027,
   "batch": [
     {
       "index": "31",
@@ -84,58 +84,6 @@
       "source": "(dummy)"
     },
     {
-      "index": "639",
-      "source": "Shen Gaoren Info"
-    },
-    {
-      "index": "640",
-      "source": "Fanged Beast Info"
-    },
-    {
-      "index": "641",
-      "source": "Blangonga Info"
-    },
-    {
-      "index": "642",
-      "source": "Rajang Info"
-    },
-    {
-      "index": "643",
-      "source": "Kirin Info"
-    },
-    {
-      "index": "644",
-      "source": "Kushala Info"
-    },
-    {
-      "index": "645",
-      "source": "Chameleos Info"
-    },
-    {
-      "index": "646",
-      "source": "Lunastra Info"
-    },
-    {
-      "index": "647",
-      "source": "Teostra Info"
-    },
-    {
-      "index": "648",
-      "source": "Lao-Shan Info"
-    },
-    {
-      "index": "649",
-      "source": "Yamatsukami Info"
-    },
-    {
-      "index": "650",
-      "source": "Fatalis Info"
-    },
-    {
-      "index": "651",
-      "source": "Akura Vashimu Info"
-    },
-    {
       "index": "652",
       "source": "(dummy)"
     },
@@ -148,180 +96,232 @@
       "source": "(dummy)"
     },
     {
-      "index": "655",
-      "source": "Silver Egg"
-    },
-    {
-      "index": "656",
-      "source": "Gold Egg"
-    },
-    {
-      "index": "657",
-      "source": "Map"
-    },
-    {
-      "index": "658",
-      "source": "First-Aid Med"
-    },
-    {
-      "index": "659",
-      "source": "Ration"
-    },
-    {
-      "index": "660",
-      "source": "Portable Spit"
-    },
-    {
-      "index": "661",
-      "source": "Mini-Whetstone"
-    },
-    {
-      "index": "662",
-      "source": "EZ Shock Trap"
-    },
-    {
-      "index": "663",
-      "source": "EZ Flash Bomb"
-    },
-    {
-      "index": "664",
-      "source": "EZ Max Potion"
-    },
-    {
-      "index": "665",
-      "source": "EZ Pitfall Trap"
-    },
-    {
-      "index": "666",
-      "source": "EZ Barrel Bomb L"
-    },
-    {
-      "index": "667",
-      "source": "Ballista Ammo"
-    },
-    {
-      "index": "668",
-      "source": "Cannon Ammo"
-    },
-    {
-      "index": "669",
-      "source": "Wyvern"
-    },
-    {
-      "index": "670",
-      "source": "Wyvern Egg"
-    },
-    {
-      "index": "671",
-      "source": "Herbivore Egg"
-    },
-    {
-      "index": "672",
-      "source": "Carnivore Egg"
-    },
-    {
-      "index": "673",
-      "source": "Sootstone Ore"
-    },
-    {
-      "index": "674",
-      "source": "Quartz Ore"
-    },
-    {
-      "index": "675",
-      "source": "Powderstone"
-    },
-    {
-      "index": "676",
-      "source": "Khezu Whelp"
-    },
-    {
-      "index": "677",
-      "source": "Khezu Ice Cream"
-    },
-    {
-      "index": "678",
-      "source": "Guild Flag"
-    },
-    {
-      "index": "679",
-      "source": "City Remnants"
-    },
-    {
-      "index": "680",
-      "source": "Bizarre Food"
-    },
-    {
-      "index": "681",
-      "source": "Dragon Food"
-    },
-    {
-      "index": "682",
-      "source": "Power Food"
-    },
-    {
-      "index": "683",
-      "source": "Monster Food"
-    },
-    {
-      "index": "684",
-      "source": "EX Dragon Food"
-    },
-    {
-      "index": "685",
-      "source": "Red Dragon Food"
-    },
-    {
-      "index": "686",
-      "source": "Green Dragon Food"
-    },
-    {
-      "index": "687",
-      "source": "Blue Dragon Food"
-    },
-    {
-      "index": "688",
-      "source": "Shot Flute"
-    },
-    {
-      "index": "689",
-      "source": "Assault Flute"
-    },
-    {
-      "index": "690",
-      "source": "Tail Flute"
-    },
-    {
-      "index": "691",
-      "source": "Deadly Flute"
-    },
-    {
-      "index": "692",
-      "source": "Special Flute"
-    },
-    {
-      "index": "693",
-      "source": "Rage Flute"
-    },
-    {
-      "index": "694",
-      "source": "Wrath Flute"
-    },
-    {
-      "index": "695",
-      "source": "Dragonator Key"
-    },
-    {
-      "index": "696",
-      "source": "Competition Ticket"
-    },
-    {
       "index": "697",
       "source": "(dummy)"
     },
     {
-      "index": "698",
-      "source": "Sleep Smoke Ball"
+      "index": "699",
+      "source": "Sedation Ball"
+    },
+    {
+      "index": "700",
+      "source": "Recovery Ball"
+    },
+    {
+      "index": "701",
+      "source": "Song of the Soul"
+    },
+    {
+      "index": "702",
+      "source": "Song of the Spirit"
+    },
+    {
+      "index": "703",
+      "source": "Song for Life"
+    },
+    {
+      "index": "704",
+      "source": "Song of Origin"
+    },
+    {
+      "index": "705",
+      "source": "HH Info"
+    },
+    {
+      "index": "706",
+      "source": "Ancient HH Info"
+    },
+    {
+      "index": "707",
+      "source": "White Belt Coin"
+    },
+    {
+      "index": "708",
+      "source": "Black Belt Coin"
+    },
+    {
+      "index": "709",
+      "source": "Expert Coin"
+    },
+    {
+      "index": "710",
+      "source": "Bird Wyvern Coin"
+    },
+    {
+      "index": "711",
+      "source": "Flying Wyvern Coin"
+    },
+    {
+      "index": "712",
+      "source": "Piscine Coin"
+    },
+    {
+      "index": "713",
+      "source": "Fanged Beast Coin"
+    },
+    {
+      "index": "714",
+      "source": "Carapaceon Coin"
+    },
+    {
+      "index": "715",
+      "source": "Elder Dragon Coin"
+    },
+    {
+      "index": "716",
+      "source": "Eternal Coin"
+    },
+    {
+      "index": "717",
+      "source": "Luxury Coin"
+    },
+    {
+      "index": "718",
+      "source": "Solid Coin"
+    },
+    {
+      "index": "719",
+      "source": "Guild Coin"
+    },
+    {
+      "index": "720",
+      "source": "Mysterious Compass"
+    },
+    {
+      "index": "721",
+      "source": "Mysterious Map"
+    },
+    {
+      "index": "722",
+      "source": "Mysterious Tools"
+    },
+    {
+      "index": "723",
+      "source": "Mysterious Set"
+    },
+    {
+      "index": "724",
+      "source": "Demise Book"
+    },
+    {
+      "index": "725",
+      "source": "Legendary Book"
+    },
+    {
+      "index": "726",
+      "source": "Elder Dragon Book"
+    },
+    {
+      "index": "727",
+      "source": "White Dragon Book"
+    },
+    {
+      "index": "728",
+      "source": "Tower Frag Prequel"
+    },
+    {
+      "index": "729",
+      "source": "Tower Frag Novel"
+    },
+    {
+      "index": "730",
+      "source": "Tower Frag Sequel"
+    },
+    {
+      "index": "731",
+      "source": "Ancient Tower Book"
+    },
+    {
+      "index": "732",
+      "source": "Ancient Pot Top"
+    },
+    {
+      "index": "733",
+      "source": "Ancient Pot Middle"
+    },
+    {
+      "index": "734",
+      "source": "Ancient Pot Bottom"
+    },
+    {
+      "index": "735",
+      "source": "Ancient Pot"
+    },
+    {
+      "index": "736",
+      "source": "Star Iron"
+    },
+    {
+      "index": "737",
+      "source": "Mainsail"
+    },
+    {
+      "index": "738",
+      "source": "Main Mast"
+    },
+    {
+      "index": "739",
+      "source": "Comradery Proof"
+    },
+    {
+      "index": "740",
+      "source": "Bond Proof"
+    },
+    {
+      "index": "741",
+      "source": "Instructor's Proof"
+    },
+    {
+      "index": "742",
+      "source": "Egg Ticket"
+    },
+    {
+      "index": "743",
+      "source": "Jewel Ticket"
+    },
+    {
+      "index": "744",
+      "source": "Commendation"
+    },
+    {
+      "index": "745",
+      "source": "Pawprint Seal"
+    },
+    {
+      "index": "746",
+      "source": "Bronze Guild Tkt"
+    },
+    {
+      "index": "747",
+      "source": "Cooking Ticket"
+    },
+    {
+      "index": "748",
+      "source": "Leadership Ticket"
+    },
+    {
+      "index": "749",
+      "source": "GS Ticket"
+    },
+    {
+      "index": "750",
+      "source": "Hammer Ticket"
+    },
+    {
+      "index": "751",
+      "source": "Lance Ticket"
+    },
+    {
+      "index": "752",
+      "source": "SnS Ticket"
+    },
+    {
+      "index": "753",
+      "source": "Gunner Ticket"
+    },
+    {
+      "index": "754",
+      "source": "Pawprint Stamp"
     }
   ]
 }

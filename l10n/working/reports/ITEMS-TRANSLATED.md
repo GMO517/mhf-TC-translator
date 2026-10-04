@@ -390,6 +390,62 @@
 | 695 | Dragonator Key | 龍杭砲的鑰匙 |
 | 696 | Competition Ticket | 競賽票 |
 | 698 | Sleep Smoke Ball | 睡眠煙球 |
+| 699 | Sedation Ball | 鎮靜球 |
+| 700 | Recovery Ball | 回復球 |
+| 701 | Song of the Soul | 寄宿魂之唄 |
+| 702 | Song of the Spirit | 頌與精靈之唄 |
+| 703 | Song for Life | 獻予生命之唄 |
+| 704 | Song of Origin | 起始之唄 |
+| 705 | HH Info | 狩獵笛的樂譜 |
+| 706 | Ancient HH Info | 古代狩獵笛的樂譜 |
+| 707 | White Belt Coin | 白帶硬幣 |
+| 708 | Black Belt Coin | 黑帶硬幣 |
+| 709 | Expert Coin | 達人硬幣 |
+| 710 | Bird Wyvern Coin | 鳥龍的硬幣 |
+| 711 | Flying Wyvern Coin | 飛龍的硬幣 |
+| 712 | Piscine Coin | 魚龍的硬幣 |
+| 713 | Fanged Beast Coin | 牙獸的硬幣 |
+| 714 | Carapaceon Coin | 甲殼的硬幣 |
+| 715 | Elder Dragon Coin | 古龍的硬幣 |
+| 716 | Eternal Coin | 永遠的硬幣 |
+| 717 | Luxury Coin | 豪華的硬幣 |
+| 718 | Solid Coin | 堅實的硬幣 |
+| 719 | Guild Coin | 公會硬幣 |
+| 720 | Mysterious Compass | 通往秘境的羅盤 |
+| 721 | Mysterious Map | 通往秘境的地圖 |
+| 722 | Mysterious Tools | 通往秘境的五道具 |
+| 723 | Mysterious Set | 秘境套組 |
+| 724 | Demise Book | 終焉之書 |
+| 725 | Legendary Book | 伝説之書 |
+| 726 | Elder Dragon Book | 古龍之書 |
+| 727 | White Dragon Book | 祖龍之書 |
+| 728 | Tower Frag Prequel | 古塔的斷章．前篇 |
+| 729 | Tower Frag Novel | 古塔的斷章．中篇 |
+| 730 | Tower Frag Sequel | 古塔的斷章．後篇 |
+| 731 | Ancient Tower Book | 古塔之書 |
+| 732 | Ancient Pot Top | 古壺的口 |
+| 733 | Ancient Pot Middle | 古壺的胴 |
+| 734 | Ancient Pot Bottom | 古壺的底 |
+| 735 | Ancient Pot | 古代的壺 |
+| 736 | Star Iron | 星鉄 |
+| 737 | Mainsail | 主帆 |
+| 738 | Main Mast | 主檣 |
+| 739 | Comradery Proof | 戰友之證 |
+| 740 | Bond Proof | 戰友之絆 |
+| 741 | Instructor's Proof | 教官的訂單 |
+| 742 | Egg Ticket | 蛋票 |
+| 743 | Jewel Ticket | 寶石票 |
+| 744 | Commendation | 勇氣之證 |
+| 745 | Pawprint Seal | 肉球的印鑑 |
+| 746 | Bronze Guild Tkt | 青銅公會票 |
+| 747 | Cooking Ticket | 燒肉票 |
+| 748 | Leadership Ticket | 一流獵人的證 |
+| 749 | GS Ticket | 大劍票 |
+| 750 | Hammer Ticket | 大錘票 |
+| 751 | Lance Ticket | 長槍票 |
+| 752 | SnS Ticket | 單手劍票 |
+| 753 | Gunner Ticket | 射手票 |
+| 754 | Pawprint Stamp | 肉球的圖章 |
 
 ## 字型暫用（已標）
 
@@ -415,4 +471,6 @@
 - 淚→涙：龍之涙｜Wyvern Tears｜`batch-items-005` #325（淚缺）  
 - 黃→黄：黄速龍／黄速龍王素材｜Genprey／Gendrome｜`batch-items-005` #351～356（詞庫定稿「黃速龍」）  
 - 擊→撃：射撃笛｜Shot Flute｜`batch-items-010` #688  
+- 說→伝：伝説之書｜Legendary Book｜`batch-items-011` #725（說缺）  
+- 桅→檣：主檣｜Main Mast｜`batch-items-011` #738（桅缺）  
 
