@@ -442,73 +442,73 @@ index,source,target
 440,Gravios Scalp,鎧龍的頭殼
 441,B.Gravios Shell,黑鎧龍的甲殼
 442,B.Gravios Carpace,黑鎧龍的堅殼
-443,B.Gravios Skull,B.Gravios Skull
-444,Twisted Horn,Twisted Horn
-445,Majestic Horn,Majestic Horn
-446,Diablos Shell,Diablos Shell
-447,Diablos Carapace,Diablos Carapace
-448,Diablos Spine,Diablos Spine
-449,Diablos Ridge,Diablos Ridge
-450,Diablos Tail,Diablos Tail
-451,Diablos Fang,Diablos Fang
-452,Black Spiral Horn,Black Spiral Horn
-453,B.Diablos Shell,B.Diablos Shell
-454,B.Diablos Spine,B.Diablos Spine
-455,B.Diablos Tail,B.Diablos Tail
-456,B.Diablos Carpace,B.Diablos Carpace
-457,Vespoid Abdomen,Vespoid Abdomen
-458,Vespoid Shell,Vespoid Shell
-459,Vespoid Carapace,Vespoid Carapace
-460,Vespoid Wing,Vespoid Wing
-461,Vespoid InnerWing,Vespoid InnerWing
-462,Hornetaur Shell,Hornetaur Shell
-463,Hornetaur Head,Hornetaur Head
-464,Hornetaur Wing,Hornetaur Wing
-465,HornetaurInnrWng,HornetaurInnrWng
-466,Small LobsterShl,Small LobsterShl
-467,Large LobsterShl,Large LobsterShl
-468,Great LobsterShl,Great LobsterShl
-469,Giant LobsterShl,Giant LobsterShl
-470,Blood Red Horn,Blood Red Horn
-471,Monoblos Shell,Monoblos Shell
-472,Monoblos Spine,Monoblos Spine
-473,Monoblos Heart,Monoblos Heart
-474,W.Monoblos Horn,W.Monoblos Horn
-475,W.Monoblos Shell,W.Monoblos Shell
-476,W.Monoblos Spine,W.Monoblos Spine
-477,Kirin Horn,Kirin Horn
-478,Kirin Hide,Kirin Hide
-479,Kirin Hide+,Kirin Hide+
-480,Kirin Mane,Kirin Mane
-481,Kirin Thndr Tail,Kirin Thndr Tail
-482,Kirin Azure Horn,Kirin Azure Horn
-483,Lao-Shan Claw,Lao-Shan Claw
-484,Lao-Shan Horn,Lao-Shan Horn
-485,Lao-Shan Scale,Lao-Shan Scale
-486,Lao-Shan Ruby,Lao-Shan Ruby
-487,Lao-Shan Shell,Lao-Shan Shell
-488,Lao-Shan Carapace,Lao-Shan Carapace
-489,A.Lao-Shan Horn,A.Lao-Shan Horn
-490,A.Lao-Shan Shell,A.Lao-Shan Shell
-491,Fatalis Horn,Fatalis Horn
-492,Fatalis Scale,Fatalis Scale
-493,Fatalis Shell,Fatalis Shell
-494,Fatalis Eye,Fatalis Eye
-495,Fatalis Webbing,Fatalis Webbing
-496,C.Fatalis Horn,C.Fatalis Horn
-497,C.Fatalis Scale,C.Fatalis Scale
-498,C.Fatalis Shell,C.Fatalis Shell
-499,Fatalis Evil Eye,Fatalis Evil Eye
-500,C.Fatalis Wing,C.Fatalis Wing
-501,W.Fatalis Scale,W.Fatalis Scale
-502,W.Fatalis Shell,W.Fatalis Shell
-503,W.Fatalis Webbing,W.Fatalis Webbing
-504,W.Fatalis Horn,W.Fatalis Horn
-505,Berukyurosu Info,Berukyurosu Info
-506,Pariapuria Info,Pariapuria Info
-507,Sharp Claw,Sharp Claw
-508,Blangonga Fang,Blangonga Fang
-509,Blangonga Fang+,Blangonga Fang+
+443,B.Gravios Skull,黑鎧龍的頭殼
+444,Twisted Horn,螺旋的角
+445,Majestic Horn,上等螺旋角
+446,Diablos Shell,角龍的甲殼
+447,Diablos Carapace,角龍的堅殼
+448,Diablos Spine,角龍的背甲
+449,Diablos Ridge,角龍的堅甲
+450,Diablos Tail,角龍的尾巴
+451,Diablos Fang,角龍的牙
+452,Black Spiral Horn,黑螺旋角
+453,B.Diablos Shell,黑角龍的甲殼
+454,B.Diablos Spine,黑角龍的背甲
+455,B.Diablos Tail,黑角龍的尾巴
+456,B.Diablos Carpace,黑角龍的堅殼
+457,Vespoid Abdomen,巨蜂的腹袋
+458,Vespoid Shell,巨蜂的甲殼
+459,Vespoid Carapace,巨蜂的堅殼
+460,Vespoid Wing,巨蜂的翼
+461,Vespoid InnerWing,巨蜂的薄羽
+462,Hornetaur Shell,巨甲蟲的甲殼
+463,Hornetaur Head,巨甲蟲的頭
+464,Hornetaur Wing,巨甲蟲的翼
+465,HornetaurInnrWng,巨甲蟲的薄羽
+466,Small LobsterShl,小龍蝦的殼
+467,Large LobsterShl,大龍蝦的殼
+468,Great LobsterShl,上等龍蝦的殼
+469,Giant LobsterShl,巨大龍蝦的殼
+470,Blood Red Horn,血紅之角
+471,Monoblos Shell,一角龍的甲殼
+472,Monoblos Spine,一角龍的背甲
+473,Monoblos Heart,一角龍的心臟
+474,W.Monoblos Horn,白一角龍的角
+475,W.Monoblos Shell,白一角龍的甲殼
+476,W.Monoblos Spine,白一角龍的背甲
+477,Kirin Horn,麒麟的角
+478,Kirin Hide,麒麟的皮
+479,Kirin Hide+,麒麟的皮＋
+480,Kirin Mane,麒麟的鬣毛
+481,Kirin Thndr Tail,麒麟的雷尾
+482,Kirin Azure Horn,麒麟的蒼角
+483,Lao-Shan Claw,老山龍的爪
+484,Lao-Shan Horn,老山龍的角
+485,Lao-Shan Scale,老山龍的鱗
+486,Lao-Shan Ruby,老山龍的紅玉
+487,Lao-Shan Shell,老山龍的甲殼
+488,Lao-Shan Carapace,老山龍的堅殼
+489,A.Lao-Shan Horn,蒼老山龍的角
+490,A.Lao-Shan Shell,蒼老山龍的甲殼
+491,Fatalis Horn,黑龍的角
+492,Fatalis Scale,黑龍的鱗
+493,Fatalis Shell,黑龍的甲殼
+494,Fatalis Eye,黑龍的眼
+495,Fatalis Webbing,黑龍的翼膜
+496,C.Fatalis Horn,紅龍的角
+497,C.Fatalis Scale,紅龍的鱗
+498,C.Fatalis Shell,紅龍的甲殼
+499,Fatalis Evil Eye,黑龍的邪眼
+500,C.Fatalis Wing,紅龍的翼
+501,W.Fatalis Scale,祖龍的鱗
+502,W.Fatalis Shell,祖龍的甲殼
+503,W.Fatalis Webbing,祖龍的翼膜
+504,W.Fatalis Horn,祖龍的角
+505,Berukyurosu Info,舞雷龍的情報
+506,Pariapuria Info,呑龍的情報
+507,Sharp Claw,鋭利的爪
+508,Blangonga Fang,雪獅子的牙
+509,Blangonga Fang+,雪獅子的鋭牙
 510,Blangonga Pelt,Blangonga Pelt
 511,Blangonga Pelt+,Blangonga Pelt+
 512,Blangonga Whisker,Blangonga Whisker

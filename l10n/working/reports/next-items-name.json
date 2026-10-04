@@ -1,7 +1,7 @@
 {
   "section_id": "items-name",
   "xpath": "dat/items/name",
-  "pending_total_estimate": 16339,
+  "pending_total_estimate": 16272,
   "batch": [
     {
       "index": "31",
@@ -56,272 +56,272 @@
       "source": "(dummy)"
     },
     {
-      "index": "376",
-      "source": "Gypceros Head"
+      "index": "443",
+      "source": "B.Gravios Skull"
     },
     {
-      "index": "377",
-      "source": "P.Rubbery Hide"
+      "index": "444",
+      "source": "Twisted Horn"
     },
     {
-      "index": "378",
-      "source": "P.Gypceros Wing"
+      "index": "445",
+      "source": "Majestic Horn"
     },
     {
-      "index": "379",
-      "source": "Piscine Liver"
+      "index": "446",
+      "source": "Diablos Shell"
     },
     {
-      "index": "380",
-      "source": "Piscine Fang"
+      "index": "447",
+      "source": "Diablos Carapace"
     },
     {
-      "index": "381",
-      "source": "Plesioth Scale"
+      "index": "448",
+      "source": "Diablos Spine"
     },
     {
-      "index": "382",
-      "source": "Plesioth Scale+"
+      "index": "449",
+      "source": "Diablos Ridge"
     },
     {
-      "index": "383",
-      "source": "Plesioth Fin"
+      "index": "450",
+      "source": "Diablos Tail"
     },
     {
-      "index": "384",
-      "source": "G.Plesioth Scale"
+      "index": "451",
+      "source": "Diablos Fang"
     },
     {
-      "index": "385",
-      "source": "G.Plesioth Fin"
+      "index": "452",
+      "source": "Black Spiral Horn"
     },
     {
-      "index": "386",
-      "source": "Cephalos Scale"
+      "index": "453",
+      "source": "B.Diablos Shell"
     },
     {
-      "index": "387",
-      "source": "Cephalos Scale+"
+      "index": "454",
+      "source": "B.Diablos Spine"
     },
     {
-      "index": "388",
-      "source": "Cephalos Fin"
+      "index": "455",
+      "source": "B.Diablos Tail"
     },
     {
-      "index": "389",
-      "source": "Cephalos Fin+"
+      "index": "456",
+      "source": "B.Diablos Carpace"
     },
     {
-      "index": "390",
-      "source": "Coral Cphlos Scl"
+      "index": "457",
+      "source": "Vespoid Abdomen"
     },
     {
-      "index": "391",
-      "source": "Coral Cphlos Fin"
+      "index": "458",
+      "source": "Vespoid Shell"
     },
     {
-      "index": "392",
-      "source": "Rathian Scale"
+      "index": "459",
+      "source": "Vespoid Carapace"
     },
     {
-      "index": "393",
-      "source": "Rathian Scale+"
+      "index": "460",
+      "source": "Vespoid Wing"
     },
     {
-      "index": "394",
-      "source": "Rathian Plate"
+      "index": "461",
+      "source": "Vespoid InnerWing"
     },
     {
-      "index": "395",
-      "source": "Rathian Ruby"
+      "index": "462",
+      "source": "Hornetaur Shell"
     },
     {
-      "index": "396",
-      "source": "Rathian Shell"
+      "index": "463",
+      "source": "Hornetaur Head"
     },
     {
-      "index": "397",
-      "source": "Rathian Carapace"
+      "index": "464",
+      "source": "Hornetaur Wing"
     },
     {
-      "index": "398",
-      "source": "Rathian Spike"
+      "index": "465",
+      "source": "HornetaurInnrWng"
     },
     {
-      "index": "399",
-      "source": "Rathian Spike+"
+      "index": "466",
+      "source": "Small LobsterShl"
     },
     {
-      "index": "400",
-      "source": "P.Rathian Scale"
+      "index": "467",
+      "source": "Large LobsterShl"
     },
     {
-      "index": "401",
-      "source": "P.Rathian Scale+"
+      "index": "468",
+      "source": "Great LobsterShl"
     },
     {
-      "index": "402",
-      "source": "P.Rathian Shell"
+      "index": "469",
+      "source": "Giant LobsterShl"
     },
     {
-      "index": "403",
-      "source": "P.Rathian Carpace"
+      "index": "470",
+      "source": "Blood Red Horn"
     },
     {
-      "index": "404",
-      "source": "G.Rathian Scale+"
+      "index": "471",
+      "source": "Monoblos Shell"
     },
     {
-      "index": "405",
-      "source": "G.Rathian Carpace"
+      "index": "472",
+      "source": "Monoblos Spine"
     },
     {
-      "index": "406",
-      "source": "Fire Wyvern Claw"
+      "index": "473",
+      "source": "Monoblos Heart"
     },
     {
-      "index": "407",
-      "source": "Fire Wyvern Marrw"
+      "index": "474",
+      "source": "W.Monoblos Horn"
     },
     {
-      "index": "408",
-      "source": "Rathalos Scale"
+      "index": "475",
+      "source": "W.Monoblos Shell"
     },
     {
-      "index": "409",
-      "source": "Rathalos Scale+"
+      "index": "476",
+      "source": "W.Monoblos Spine"
     },
     {
-      "index": "410",
-      "source": "Rathalos Plate"
+      "index": "477",
+      "source": "Kirin Horn"
     },
     {
-      "index": "411",
-      "source": "Rathalos Ruby"
+      "index": "478",
+      "source": "Kirin Hide"
     },
     {
-      "index": "412",
-      "source": "Rathalos Shell"
+      "index": "479",
+      "source": "Kirin Hide+"
     },
     {
-      "index": "413",
-      "source": "Rathalos Carpace"
+      "index": "480",
+      "source": "Kirin Mane"
     },
     {
-      "index": "414",
-      "source": "Rathalos Tail"
+      "index": "481",
+      "source": "Kirin Thndr Tail"
     },
     {
-      "index": "415",
-      "source": "Rathalos Webbing"
+      "index": "482",
+      "source": "Kirin Azure Horn"
     },
     {
-      "index": "416",
-      "source": "Rathalos Wing"
+      "index": "483",
+      "source": "Lao-Shan Claw"
     },
     {
-      "index": "417",
-      "source": "A.Rathalos Scale"
+      "index": "484",
+      "source": "Lao-Shan Horn"
     },
     {
-      "index": "418",
-      "source": "A.Rathalos Scale+"
+      "index": "485",
+      "source": "Lao-Shan Scale"
     },
     {
-      "index": "419",
-      "source": "A.Rathalos Shell"
+      "index": "486",
+      "source": "Lao-Shan Ruby"
     },
     {
-      "index": "420",
-      "source": "A.Rathalos Cpc"
+      "index": "487",
+      "source": "Lao-Shan Shell"
     },
     {
-      "index": "421",
-      "source": "A.Rathalos Tail"
+      "index": "488",
+      "source": "Lao-Shan Carapace"
     },
     {
-      "index": "422",
-      "source": "A.Rathalos Wing"
+      "index": "489",
+      "source": "A.Lao-Shan Horn"
     },
     {
-      "index": "423",
-      "source": "S.Rathalos Scale+"
+      "index": "490",
+      "source": "A.Lao-Shan Shell"
     },
     {
-      "index": "424",
-      "source": "S.Rathalos Cpc"
+      "index": "491",
+      "source": "Fatalis Horn"
     },
     {
-      "index": "425",
-      "source": "S.Rathalos Tail"
+      "index": "492",
+      "source": "Fatalis Scale"
     },
     {
-      "index": "426",
-      "source": "S.Rath Webbing"
+      "index": "493",
+      "source": "Fatalis Shell"
     },
     {
-      "index": "427",
-      "source": "S.Rathalos Wing"
+      "index": "494",
+      "source": "Fatalis Eye"
     },
     {
-      "index": "428",
-      "source": "Flabby Hide"
+      "index": "495",
+      "source": "Fatalis Webbing"
     },
     {
-      "index": "429",
-      "source": "Khezu Pearl Hide"
+      "index": "496",
+      "source": "C.Fatalis Horn"
     },
     {
-      "index": "430",
-      "source": "Pale Bone"
+      "index": "497",
+      "source": "C.Fatalis Scale"
     },
     {
-      "index": "431",
-      "source": "Pale Khezu Steak"
+      "index": "498",
+      "source": "C.Fatalis Shell"
     },
     {
-      "index": "432",
-      "source": "Alluring Hide"
+      "index": "499",
+      "source": "Fatalis Evil Eye"
     },
     {
-      "index": "433",
-      "source": "Alluring Webbing"
+      "index": "500",
+      "source": "C.Fatalis Wing"
     },
     {
-      "index": "434",
-      "source": "Basarios Shell"
+      "index": "501",
+      "source": "W.Fatalis Scale"
     },
     {
-      "index": "435",
-      "source": "Basarios Carapace"
+      "index": "502",
+      "source": "W.Fatalis Shell"
     },
     {
-      "index": "436",
-      "source": "Basarios Wing"
+      "index": "503",
+      "source": "W.Fatalis Webbing"
     },
     {
-      "index": "437",
-      "source": "Gravios Marrow"
+      "index": "504",
+      "source": "W.Fatalis Horn"
     },
     {
-      "index": "438",
-      "source": "Gravios Shell"
+      "index": "505",
+      "source": "Berukyurosu Info"
     },
     {
-      "index": "439",
-      "source": "Gravios Carapace"
+      "index": "506",
+      "source": "Pariapuria Info"
     },
     {
-      "index": "440",
-      "source": "Gravios Scalp"
+      "index": "507",
+      "source": "Sharp Claw"
     },
     {
-      "index": "441",
-      "source": "B.Gravios Shell"
+      "index": "508",
+      "source": "Blangonga Fang"
     },
     {
-      "index": "442",
-      "source": "B.Gravios Carpace"
+      "index": "509",
+      "source": "Blangonga Fang+"
     }
   ]
 }
