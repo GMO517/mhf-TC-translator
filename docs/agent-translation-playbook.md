@@ -84,7 +84,7 @@
 4. 翻譯寫入 working CSV；`apply_batch_json.py` → `validate_working.py` →（日常）`finish_batch.py` delta 回寫  
 5. 每推進一批立刻更新 `progress.md`；分類未完**禁止**只交摘要就停  
 6. 機械自檢另加本專案項：charset／CP932／半翻警告／fallback；佔位符 `{j}` `{cNN}` `{/c}` `{K…}` `{i…}` `{u…}`  
-7. 專名拿不定：列入 `glossary/PENDING.md`（暫勿半翻）；**子類整段完成後**等使用者定稿，再 Fixer 回修——不要中途停下來逐條問  
+7. 專名拿不定：列入 `glossary/PENDING.md`，**必填建議譯＋建議理由**（暫勿半翻）；**子類整段完成後**等使用者定稿，再 Fixer 回修——不要中途停下來逐條問  
 
 **禁止：** 自稱 QA 通過；一次多 CATEGORY；為文筆改標記；以 `Ｃクレスト` 類半翻充數。
 
