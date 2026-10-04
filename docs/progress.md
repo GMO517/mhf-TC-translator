@@ -72,48 +72,47 @@
 ## armors-head
 
 - status: translated
-- notes: "2026-10-04 needs_rework=0／14594；validate PASS；all-changed 回寫 14590 列。"
+- notes: "2026-10-04 連夜重譯＋拆檔 reviews-head；未回寫本體。"
 
 ### files
 
 - path: l10n/working/csv/dat-armors-head.csv
   status: translated
-  notes: "fix_armors_translate_v2＋remain 清殘"
+  notes: "issues/armors/head/"
 
 ---
 
 ## armors-body
 
 - status: translated
-- notes: "2026-10-04 needs_rework=0／13462；validate PASS；all-changed 回寫 13442 列。"
+- notes: "2026-10-04 連夜重譯＋拆檔 reviews-body；未回寫本體。"
 
 ### files
 
 - path: l10n/working/csv/dat-armors-body.csv
   status: translated
-  notes: "同 head 管線"
+  notes: "issues/armors/body/"
 
 ---
 
 ## armors-arms / armors-waist / armors-legs
 
 - status: translated
-- status: in_progress
-- notes: "2026-10-04 arms 連夜重譯完成（遺失道具No.／拆檔 27）；待 commit 後切分腰腿頭胸。"
+- notes: "2026-10-04 五部位連夜重譯完成；拆檔 review；未回寫本體。commits 56b4380／35c1bca。"
 
 ### files
 
 - path: l10n/working/csv/dat-armors-arms.csv
   status: translated
-  notes: "overnight pipeline；reviews-arms-1…27；未回寫本體"
+  notes: "issues/armors/arms/"
 
 - path: l10n/working/csv/dat-armors-waist.csv
   status: translated
-  notes: "needs_rework=0"
+  notes: "issues/armors/waist/"
 
 - path: l10n/working/csv/dat-armors-legs.csv
   status: translated
-  notes: "needs_rework=0"
+  notes: "issues/armors/legs/"
 
 ---
 
