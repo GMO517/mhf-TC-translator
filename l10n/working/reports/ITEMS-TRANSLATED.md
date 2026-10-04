@@ -208,6 +208,73 @@
 | 235 | Sushifish | 刺身魚 |
 | 236 | Sleepyfish | 眠魚 |
 | 237 | Pin Tuna | 針鮪魚 |
+| 238 | Rumblefish | 彈跳沙丁魚 |
+| 239 | Scatterfish | 擴散沙丁魚 |
+| 240 | Burst Arowana | 爆裂龍魚 |
+| 241 | Bomb Arowana | 爆彈龍魚 |
+| 242 | Lg Knife Mackarel | 利刃鯖魚．大 |
+| 243 | Lg Sleepy Fish | 眠魚．大 |
+| 244 | Lg Pin Tuna | 針鮪魚．大 |
+| 245 | Lg Burst Arowana | 爆裂龍魚．大 |
+| 246 | Lg Bomb Arowana | 爆彈龍魚．大 |
+| 247 | Glutton Tuna | 貪吃鮪魚 |
+| 248 | Gastronome Tuna | 美食鮪魚 |
+| 249 | Goldenfish | 黄金魚 |
+| 250 | Speartuna | 旗魚 |
+| 251 | Small Goldenfish | 小黄金魚 |
+| 252 | Silverfish | 銀魚 |
+| 253 | Ancient Fish | 古代魚 |
+| 254 | Queen Shrimp | 女王蝦 |
+| 255 | Insect Husk | 昆蟲殼 |
+| 256 | Yambug | 山芋蟲 |
+| 257 | Stinkhopper | 臭飛蝗 |
+| 258 | Snakebee Larva | 土蜂幼蟲 |
+| 259 | Godbug | 光蟲 |
+| 260 | Bitterbug | 苦蟲 |
+| 261 | Flashbug | 閃光蟲 |
+| 262 | Thunderbug | 雷光蟲 |
+| 263 | King Scarab | 王者甲蟲 |
+| 264 | Gluehopper | 粘著飛蝗 |
+| 266 | Killer Beetle | 殺手鍬形蟲 |
+| 267 | Rare Scarab | 稀有甲蟲 |
+| 268 | Royal Rhino | 皇家獨角仙 |
+| 269 | Green Onion | 青葱 |
+| 270 | Sliced Cactus | 仙人掌切片 |
+| 271 | Rare Onion | 特選葱 |
+| 272 | Fatty Tomato | 肥美番茄 |
+| 273 | Demon Mushroom | 鬼菇 |
+| 274 | Warwheat | 戰鬥小麥 |
+| 275 | Mixed Beans | 綜合豆 |
+| 276 | Stubborn Pan | 頑固面包 |
+| 277 | Silver Cordgrass | 銀茅草 |
+| 278 | Ancient Beans | 古代豆 |
+| 279 | White Liver | 白肝 |
+| 280 | Popo Tongue | 波波舌 |
+| 281 | Pickled Khezu Whlp | 奇怪龍幼體漬物 |
+| 282 | Remobra Shank | 翼蛇龍腿肉 |
+| 283 | Dragon Tail | 龍尾 |
+| 284 | Songfish | 歌魚 |
+| 285 | Snake Salmon | 蛇鮭魚 |
+| 286 | Rice Bug | 米蟲 |
+| 287 | Spice Worm | 香料蟲 |
+| 288 | Honey Dragonfly | 蜂蜜蜻蛉 |
+| 289 | Hercudrome | 力士甲蟲 |
+| 290 | Red Oil | 紅油 |
+| 291 | Power Lard | 力量豬油 |
+| 292 | Lifejam | 生命果醤 |
+| 293 | Dry Margarine | 乾燥瑪琪琳 |
+| 294 | Maengwoo Butter | 猛牛乳油 |
+| 295 | Royal Cheese | 皇家起司 |
+| 296 | Hopi Brew | 霍皮酒 |
+| 297 | Blessed Wine | 祝福葡萄酒 |
+| 298 | Golden Ale | 黄金麥酒 |
+| 299 | Monster Egg | 魔物蛋 |
+| 300 | Poogie Crackers | 波奇餅乾 |
+| 302 | Screamer | 鳴袋 |
+| 303 | Poison Sac | 毒袋 |
+| 304 | Paralysis Sac | 麻痺袋 |
+| 306 | Sleep Sac | 睡眠袋 |
+| 308 | Flame Sac | 火炎袋 |
 
 ## 字型暫用（已標）
 
@@ -219,7 +286,14 @@
 - 鏢→標：回力標｜Boomerang｜batch-001b  
 - 貓→猫：艾路猫燒肉套組｜Felyne BBQ Spit｜`batch-items-003` #160（詞庫定稿「艾路貓」）  
 - 垃圾→雜物：Garbage｜`batch-items-003` #174（垃／圾缺）  
-- 蘑菇→菇：特選／嚴選／完熟／藍／硝化／麻痺／毒／興奮／龍毒／辛香／劇毒菇｜*Mushroom*｜`batch-items-003` #193–203（蘑缺）  
+- 蘑菇→菇：特選／嚴選／完熟／藍／硝化／麻痺／毒／興奮／龍毒／辛香／劇毒／鬼菇｜*Mushroom*｜`batch-items-003`～`004`（蘑缺）  
 - 璀璨水晶→新星水晶：Novacrystal｜`batch-items-003` #226（璀／璨缺；荒野官方待字型）  
 - 黃昏草→夕陽草：Sunset Herb｜`batch-items-003` #182  
+- 蚱蜢→飛蝗：臭飛蝗／粘著飛蝗｜Stinkhopper／Gluehopper｜`batch-items-004` #257／#264（蚱／蜢缺）  
+- 蔥→葱：青葱／特選葱｜Green／Rare Onion｜`batch-items-004` #269／#271  
+- 麵→面：頑固面包｜Stubborn Pan｜`batch-items-004` #276  
+- 醃→漬：奇怪龍幼體漬物｜Pickled Khezu Whlp｜`batch-items-004` #281  
+- 蜓→蛉：蜂蜜蜻蛉｜Honey Dragonfly｜`batch-items-004` #288  
+- 醬→醤：生命果醤｜Lifejam｜`batch-items-004` #292  
+- 奶→乳／瑪琪琳：猛牛乳油／乾燥瑪琪琳｜Maengwoo Butter／Dry Margarine｜`batch-items-004` #293～294（奶缺）  
 
