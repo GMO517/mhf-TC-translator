@@ -9,7 +9,7 @@
 ## items-name
 
 - status: in_progress
-- notes: "主真相＝csv。validate PASS、半翻警告 0；needs_rework=0。子類皆 awaiting_qa；可進武器／防具。"
+- notes: "主真相＝csv。validate PASS。review 審計後 tickets 半角拉丁 46 已全形化；各子類 kata/still_en=0。可進武器／防具。"
 
 ### files
 
@@ -19,7 +19,7 @@
 
 - path: l10n/working/csv/dat-items-name.csv
   status: in_progress
-  notes: "skill-cuffs 等已 delta；dummy/kits/monster-rest/misc/remainder 本輪已 delta"
+  notes: "skill-cuffs 等已 delta；misc/kits/monster-rest/remainder 2026-10-04 審計後 delta"
 
 ### subclasses（語意，非流水號）
 
@@ -41,52 +41,65 @@
 
 ## weapons-melee-name
 
-- status: in_progress
-- notes: "層次 A 詞庫命中已回寫；層次 B 未入庫列待推進"
+- status: translated
+- notes: "2026-10-04 層次 B 殘列清零：needs_rework=0（非空 ok=16825／17568）；validate PASS；bin delta（jp-kata 49＋lex 68＋manual 67）。"
 
 ### files
 
 - path: l10n/working/csv/dat-weapons-melee-name.csv
-  status: in_progress
-  notes: ""
+  status: translated
+  notes: "`_session_jp_weapon_names` WEAPON_KATA＋charset 安全；殘英 lex／manual remain"
 
 ---
 
 ## weapons-ranged-name
 
-- status: in_progress
-- notes: "層次 A 詞庫命中已回寫；層次 B 未入庫列待推進"
+- status: translated
+- notes: "2026-10-04 needs_rework=0（ok=4223）；validate PASS；bin delta（jp-kata 29＋manual 21）。"
 
 ### files
 
 - path: l10n/working/csv/dat-weapons-ranged-name.csv
-  status: in_progress
-  notes: ""
+  status: translated
+  notes: "片假名 batch jp-kata；殘英 manual remain"
 
 ---
 
 ## armors-head
 
-- status: in_progress
-- notes: "層次 A 詞庫命中已回寫；層次 B 未入庫列待推進"
+- status: translated
+- notes: "2026-10-04 needs_rework=0／14594；validate PASS；all-changed 回寫 14590 列。"
 
 ### files
 
 - path: l10n/working/csv/dat-armors-head.csv
-  status: in_progress
-  notes: ""
+  status: translated
+  notes: "fix_armors_translate_v2＋remain 清殘"
 
 ---
 
 ## armors-body
 
-- status: in_progress
-- notes: "層次 A 詞庫命中已回寫；層次 B 未入庫列待推進"
+- status: translated
+- notes: "2026-10-04 needs_rework=0／13462；validate PASS；all-changed 回寫 13442 列。"
 
 ### files
 
 - path: l10n/working/csv/dat-armors-body.csv
-  status: in_progress
+  status: translated
+  notes: "同 head 管線"
+
+---
+
+## armors-arm / armors-waist / armors-leg
+
+- status: pending
+- notes: "sections.json 尚未列入；extracted/working CSV 未建。待抽表後接 head 管線。"
+
+### files
+
+- path: l10n/working/csv/（dat-armors-arm 等）
+  status: pending
   notes: ""
 
 ---
