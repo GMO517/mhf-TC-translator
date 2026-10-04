@@ -1,7 +1,7 @@
 {
   "section_id": "items-name",
   "xpath": "dat/items/name",
-  "pending_total_estimate": 16607,
+  "pending_total_estimate": 16473,
   "batch": [
     {
       "index": "31",
@@ -12,316 +12,316 @@
       "source": "(dummy)"
     },
     {
-      "index": "74",
-      "source": "Dung"
-    },
-    {
-      "index": "75",
-      "source": "Dung Bomb"
-    },
-    {
-      "index": "77",
-      "source": "Poison Smoke Bomb"
-    },
-    {
-      "index": "78",
-      "source": "Farcaster"
-    },
-    {
-      "index": "79",
-      "source": "Deodorant"
-    },
-    {
-      "index": "81",
-      "source": "Spiderweb"
-    },
-    {
-      "index": "82",
-      "source": "Net"
-    },
-    {
-      "index": "83",
-      "source": "Trap Tool"
-    },
-    {
-      "index": "86",
-      "source": "Lightning Rod"
-    },
-    {
       "index": "87",
       "source": "(dummy)"
-    },
-    {
-      "index": "88",
-      "source": "Barrel Lid"
-    },
-    {
-      "index": "89",
-      "source": "Small Barrel"
-    },
-    {
-      "index": "90",
-      "source": "Large Barrel"
-    },
-    {
-      "index": "92",
-      "source": "Barrel Bomb S+"
-    },
-    {
-      "index": "94",
-      "source": "Barrel Bomb L+"
-    },
-    {
-      "index": "95",
-      "source": "Bounce Bomb"
-    },
-    {
-      "index": "96",
-      "source": "Bounce Bomb+"
-    },
-    {
-      "index": "97",
-      "source": "Anti-Dragon Bomb"
-    },
-    {
-      "index": "98",
-      "source": "Event Bomb"
-    },
-    {
-      "index": "99",
-      "source": "Huskberry"
-    },
-    {
-      "index": "100",
-      "source": "Bone Husk S"
-    },
-    {
-      "index": "101",
-      "source": "Bone Husk L"
-    },
-    {
-      "index": "102",
-      "source": "Normal S LV1"
-    },
-    {
-      "index": "103",
-      "source": "Normal S LV2"
-    },
-    {
-      "index": "104",
-      "source": "Normal S LV3"
-    },
-    {
-      "index": "105",
-      "source": "Pierce S LV1"
-    },
-    {
-      "index": "106",
-      "source": "Pierce S LV2"
-    },
-    {
-      "index": "107",
-      "source": "Pierce S LV3"
-    },
-    {
-      "index": "108",
-      "source": "Pellet S Lv1"
-    },
-    {
-      "index": "109",
-      "source": "Pellet S Lv2"
-    },
-    {
-      "index": "110",
-      "source": "Pellet S Lv3"
-    },
-    {
-      "index": "111",
-      "source": "Crag S Lv1"
-    },
-    {
-      "index": "112",
-      "source": "Crag S Lv2"
-    },
-    {
-      "index": "113",
-      "source": "Crag S Lv3"
-    },
-    {
-      "index": "114",
-      "source": "Clust S Lv1"
-    },
-    {
-      "index": "115",
-      "source": "Clust S Lv2"
-    },
-    {
-      "index": "116",
-      "source": "Clust S Lv3"
-    },
-    {
-      "index": "117",
-      "source": "Flaming S"
-    },
-    {
-      "index": "118",
-      "source": "Water S"
-    },
-    {
-      "index": "119",
-      "source": "Thunder S"
-    },
-    {
-      "index": "120",
-      "source": "Freeze S"
-    },
-    {
-      "index": "121",
-      "source": "Dragon S"
-    },
-    {
-      "index": "122",
-      "source": "Recover S Lv1"
-    },
-    {
-      "index": "123",
-      "source": "Recover S Lv2"
-    },
-    {
-      "index": "124",
-      "source": "Poison S Lv1"
-    },
-    {
-      "index": "125",
-      "source": "Poison S Lv2"
-    },
-    {
-      "index": "126",
-      "source": "Para S Lv1"
-    },
-    {
-      "index": "127",
-      "source": "Para S Lv2"
-    },
-    {
-      "index": "128",
-      "source": "Sleep S Lv1"
-    },
-    {
-      "index": "129",
-      "source": "Sleep S Lv2"
-    },
-    {
-      "index": "130",
-      "source": "Tranq S"
-    },
-    {
-      "index": "131",
-      "source": "Paint S"
-    },
-    {
-      "index": "132",
-      "source": "Demon S"
-    },
-    {
-      "index": "133",
-      "source": "Armor S"
     },
     {
       "index": "134",
       "source": "(dummy)"
     },
     {
-      "index": "135",
-      "source": "No Coating"
-    },
-    {
-      "index": "136",
-      "source": "Empty Bottle"
-    },
-    {
-      "index": "137",
-      "source": "Power Coating"
-    },
-    {
-      "index": "138",
-      "source": "Poison Coating"
-    },
-    {
-      "index": "139",
-      "source": "Para Coating"
-    },
-    {
-      "index": "140",
-      "source": "Sleep Coating"
-    },
-    {
       "index": "141",
       "source": "(dummy)"
     },
     {
-      "index": "142",
-      "source": "Cricket"
+      "index": "170",
+      "source": "(dummy)"
     },
     {
-      "index": "143",
-      "source": "Worm"
+      "index": "171",
+      "source": "(dummy)"
     },
     {
-      "index": "144",
-      "source": "Firefly"
+      "index": "223",
+      "source": "(dummy)"
     },
     {
-      "index": "145",
-      "source": "Frog"
+      "index": "229",
+      "source": "(dummy)"
     },
     {
-      "index": "146",
-      "source": "Tuna Bait"
+      "index": "238",
+      "source": "Rumblefish"
     },
     {
-      "index": "147",
-      "source": "Arowana Bait"
+      "index": "239",
+      "source": "Scatterfish"
     },
     {
-      "index": "148",
-      "source": "Goldenfish Bait"
+      "index": "240",
+      "source": "Burst Arowana"
     },
     {
-      "index": "149",
-      "source": "Mega Fishing Fly"
+      "index": "241",
+      "source": "Bomb Arowana"
     },
     {
-      "index": "150",
-      "source": "Old Pickaxe"
+      "index": "242",
+      "source": "Lg Knife Mackarel"
     },
     {
-      "index": "151",
-      "source": "Iron Pickaxe"
+      "index": "243",
+      "source": "Lg Sleepy Fish"
     },
     {
-      "index": "152",
-      "source": "Mega Pickaxe"
+      "index": "244",
+      "source": "Lg Pin Tuna"
     },
     {
-      "index": "153",
-      "source": "Old Bugnet"
+      "index": "245",
+      "source": "Lg Burst Arowana"
     },
     {
-      "index": "154",
-      "source": "Bugnet"
+      "index": "246",
+      "source": "Lg Bomb Arowana"
     },
     {
-      "index": "155",
-      "source": "Mega Bugnet"
+      "index": "247",
+      "source": "Glutton Tuna"
     },
     {
-      "index": "156",
-      "source": "BBQ Spit"
+      "index": "248",
+      "source": "Gastronome Tuna"
     },
     {
-      "index": "157",
-      "source": "Quick BBQ Spit"
+      "index": "249",
+      "source": "Goldenfish"
+    },
+    {
+      "index": "250",
+      "source": "Speartuna"
+    },
+    {
+      "index": "251",
+      "source": "Small Goldenfish"
+    },
+    {
+      "index": "252",
+      "source": "Silverfish"
+    },
+    {
+      "index": "253",
+      "source": "Ancient Fish"
+    },
+    {
+      "index": "254",
+      "source": "Queen Shrimp"
+    },
+    {
+      "index": "255",
+      "source": "Insect Husk"
+    },
+    {
+      "index": "256",
+      "source": "Yambug"
+    },
+    {
+      "index": "257",
+      "source": "Stinkhopper"
+    },
+    {
+      "index": "258",
+      "source": "Snakebee Larva"
+    },
+    {
+      "index": "259",
+      "source": "Godbug"
+    },
+    {
+      "index": "260",
+      "source": "Bitterbug"
+    },
+    {
+      "index": "261",
+      "source": "Flashbug"
+    },
+    {
+      "index": "262",
+      "source": "Thunderbug"
+    },
+    {
+      "index": "263",
+      "source": "King Scarab"
+    },
+    {
+      "index": "264",
+      "source": "Gluehopper"
+    },
+    {
+      "index": "265",
+      "source": "(dummy)"
+    },
+    {
+      "index": "266",
+      "source": "Killer Beetle"
+    },
+    {
+      "index": "267",
+      "source": "Rare Scarab"
+    },
+    {
+      "index": "268",
+      "source": "Royal Rhino"
+    },
+    {
+      "index": "269",
+      "source": "Green Onion"
+    },
+    {
+      "index": "270",
+      "source": "Sliced Cactus"
+    },
+    {
+      "index": "271",
+      "source": "Rare Onion"
+    },
+    {
+      "index": "272",
+      "source": "Fatty Tomato"
+    },
+    {
+      "index": "273",
+      "source": "Demon Mushroom"
+    },
+    {
+      "index": "274",
+      "source": "Warwheat"
+    },
+    {
+      "index": "275",
+      "source": "Mixed Beans"
+    },
+    {
+      "index": "276",
+      "source": "Stubborn Pan"
+    },
+    {
+      "index": "277",
+      "source": "Silver Cordgrass"
+    },
+    {
+      "index": "278",
+      "source": "Ancient Beans"
+    },
+    {
+      "index": "279",
+      "source": "White Liver"
+    },
+    {
+      "index": "280",
+      "source": "Popo Tongue"
+    },
+    {
+      "index": "281",
+      "source": "Pickled Khezu Whlp"
+    },
+    {
+      "index": "282",
+      "source": "Remobra Shank"
+    },
+    {
+      "index": "283",
+      "source": "Dragon Tail"
+    },
+    {
+      "index": "284",
+      "source": "Songfish"
+    },
+    {
+      "index": "285",
+      "source": "Snake Salmon"
+    },
+    {
+      "index": "286",
+      "source": "Rice Bug"
+    },
+    {
+      "index": "287",
+      "source": "Spice Worm"
+    },
+    {
+      "index": "288",
+      "source": "Honey Dragonfly"
+    },
+    {
+      "index": "289",
+      "source": "Hercudrome"
+    },
+    {
+      "index": "290",
+      "source": "Red Oil"
+    },
+    {
+      "index": "291",
+      "source": "Power Lard"
+    },
+    {
+      "index": "292",
+      "source": "Lifejam"
+    },
+    {
+      "index": "293",
+      "source": "Dry Margarine"
+    },
+    {
+      "index": "294",
+      "source": "Maengwoo Butter"
+    },
+    {
+      "index": "295",
+      "source": "Royal Cheese"
+    },
+    {
+      "index": "296",
+      "source": "Hopi Brew"
+    },
+    {
+      "index": "297",
+      "source": "Blessed Wine"
+    },
+    {
+      "index": "298",
+      "source": "Golden Ale"
+    },
+    {
+      "index": "299",
+      "source": "Monster Egg"
+    },
+    {
+      "index": "300",
+      "source": "Poogie Crackers"
+    },
+    {
+      "index": "301",
+      "source": "(dummy)"
+    },
+    {
+      "index": "302",
+      "source": "Screamer"
+    },
+    {
+      "index": "303",
+      "source": "Poison Sac"
+    },
+    {
+      "index": "304",
+      "source": "Paralysis Sac"
+    },
+    {
+      "index": "305",
+      "source": "(dummy)"
+    },
+    {
+      "index": "306",
+      "source": "Sleep Sac"
+    },
+    {
+      "index": "307",
+      "source": "(dummy)"
+    },
+    {
+      "index": "308",
+      "source": "Flame Sac"
     }
   ]
 }

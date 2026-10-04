@@ -137,15 +137,89 @@
 | 155 | Mega Bugnet | 捕蟲網．大 |
 | 156 | BBQ Spit | 燒肉套組 |
 | 157 | Quick BBQ Spit | 攜帶燒肉套組 |
+| 158 | Male BBQ Spit | 男性燒肉套組 |
+| 159 | Female BBQ Spit | 女性燒肉套組 |
+| 160 | Felyne BBQ Spit | 艾路猫燒肉套組 |
+| 161 | Universal BBQ Kit | 萬能燒肉套件 |
+| 162 | Universal BBQ Set | 萬能燒肉套組 |
+| 163–167 | Meat BBQ | 燒肉 |
+| 168–169 | Fish BBQ | 燒魚 |
 | 172 | Whetstone | 砥石 |
+| 173 | Binoculars | 望遠鏡 |
+| 174 | Garbage | 雜物 |
+| 175 | Flute | 笛 |
+| 176 | Health Flute | 回復笛 |
+| 177 | Antidote Flute | 解毒笛 |
+| 178 | Demon Flute | 鬼人笛 |
+| 179 | Armor Flute | 硬化笛 |
 | 180 | Honey | 蜂蜜 |
+| 181 | Day Herb | 日輪草 |
+| 182 | Sunset Herb | 夕陽草 |
 | 183 | Herb | 藥草 |
+| 184 | Antidote Herb | 解毒草 |
+| 185 | Fire Herb | 火藥草 |
+| 186 | Ivy | 常春藤葉 |
+| 187 | Sleep Herb | 睡眠草 |
+| 188 | Sap Plant | 粘著草 |
+| 189 | Felvine | 木天蓼 |
+| 190 | Gloamgrass Root | 薄暮草．根 |
+| 191 | Gloamgrass Bud | 薄暮草．花 |
+| 192 | Hot Pepper | 辣椒 |
+| 193 | Unique Mushroom | 特選菇 |
+| 194 | Choice Mushroom | 嚴選菇 |
+| 195 | Ripe Mushroom | 完熟菇 |
+| 196 | Blue Mushroom | 藍菇 |
+| 197 | Nitroshroom | 硝化菇 |
+| 198 | Parashroom | 麻痺菇 |
+| 199 | Toadstool | 毒菇 |
+| 200 | Exciteshroom | 興奮菇 |
+| 201 | Dragon Toadstool | 龍毒菇 |
+| 202 | Spicy Mushroom | 辛香菇 |
+| 203 | Deadly Mushroom | 劇毒菇 |
+| 204 | Rainbow Dandelion | 彩虹蒲公英 |
+| 205 | Paintberry | 塗料果實 |
 | 206 | Might Seed | 力量種子 |
 | 207 | Adamant Seed | 忍耐種子 |
+| 208 | Dragonfell Berry | 滅龍果實 |
+| 209 | Scatternut | 散彈堅果 |
+| 210 | Needleberry | 針果實 |
+| 211 | Bomberry | 擴散果實 |
+| 212 | Broken Shell | 破碎殼 |
+| 213 | Black Pearl | 黑珍珠 |
+| 214 | Sunstone | 太陽石 |
+| 215 | Stone | 石頭 |
+| 216 | Iron Ore | 鐵礦石 |
+| 217 | Earth Crystal | 大地結晶 |
+| 218 | Machalite Ore | 燕雀石 |
+| 219 | Dragonite Ore | 輝龍石 |
+| 220 | Carbalite Ore | 靈鶴石 |
+| 221 | Union Ore | 白鳩石 |
+| 222 | Firestone | 紅蓮石 |
+| 224 | Coal | 石炭 |
+| 225 | Lightcrystal | 光水晶 |
+| 226 | Novacrystal | 新星水晶 |
+| 227 | Antiseptic Stone | 消毒石 |
+| 228 | Ice Crystal | 冰結晶 |
+| 230 | Dosbiscus | 多斯芙蓉 |
+| 231 | Ale Nuts | 麥酒堅果 |
+| 232 | Amber Ore | 琥珀礦石 |
+| 233 | Secret Pouch | 秘密袋 |
+| 234 | Knife Mackerel | 利刃鯖魚 |
+| 235 | Sushifish | 刺身魚 |
+| 236 | Sleepyfish | 眠魚 |
+| 237 | Pin Tuna | 針鮪魚 |
 
 ## 字型暫用（已標）
 
+> 方便日後改回更貼官方／完整字形時定位。格式：理想字→暫用｜英文｜來源。
+
 - 罠：落穴罠／麻痺罠／陷罠工具  
 - 撃：電撃彈／強撃瓶  
-- 烤→燒：燒肉套組  
-- 鏢→標：回力標  
+- 烤→燒：燒肉套組系／燒肉／燒魚｜BBQ*｜batch-002～003  
+- 鏢→標：回力標｜Boomerang｜batch-001b  
+- 貓→猫：艾路猫燒肉套組｜Felyne BBQ Spit｜`batch-items-003` #160（詞庫定稿「艾路貓」）  
+- 垃圾→雜物：Garbage｜`batch-items-003` #174（垃／圾缺）  
+- 蘑菇→菇：特選／嚴選／完熟／藍／硝化／麻痺／毒／興奮／龍毒／辛香／劇毒菇｜*Mushroom*｜`batch-items-003` #193–203（蘑缺）  
+- 璀璨水晶→新星水晶：Novacrystal｜`batch-items-003` #226（璀／璨缺；荒野官方待字型）  
+- 黃昏草→夕陽草：Sunset Herb｜`batch-items-003` #182  
+
