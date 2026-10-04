@@ -1,11 +1,7 @@
 {
   "section_id": "items-name",
-  "label": "絆／地圖／紀録",
+  "label": "bond-zhi",
   "translations": [
-    {
-      "index": "1728",
-      "target": "百萬記憶"
-    },
     {
       "index": "1774",
       "target": "真心之絆"
@@ -13,22 +9,6 @@
     {
       "index": "1775",
       "target": "真誠之絆"
-    },
-    {
-      "index": "1789",
-      "target": "不死者地圖"
-    },
-    {
-      "index": "1817",
-      "target": "史詩紀録"
-    },
-    {
-      "index": "1860",
-      "target": "惡猫記憶"
-    },
-    {
-      "index": "1861",
-      "target": "赤猫記憶"
     },
     {
       "index": "2598",
@@ -39,36 +19,8 @@
       "target": "正直之絆"
     },
     {
-      "index": "2604",
-      "target": "地圖的裂頂級"
-    },
-    {
-      "index": "2605",
-      "target": "地圖破損下"
-    },
-    {
-      "index": "2613",
-      "target": "地圖的碎片Ⅰ"
-    },
-    {
-      "index": "2614",
-      "target": "地圖的碎片Ⅱ"
-    },
-    {
-      "index": "2615",
-      "target": "地圖的碎片Ⅲ"
-    },
-    {
-      "index": "2616",
-      "target": "地圖的碎片Ⅳ"
-    },
-    {
-      "index": "2617",
-      "target": "地圖的碎片Ⅴ"
-    },
-    {
       "index": "3610",
-      "target": "同盟之絆"
+      "target": "絆之同盟"
     },
     {
       "index": "4895",
@@ -111,20 +63,8 @@
       "target": "絆之裝飾品"
     },
     {
-      "index": "5613",
-      "target": "仲夏記憶"
-    },
-    {
       "index": "7267",
       "target": "終極征服之絆"
-    },
-    {
-      "index": "8278",
-      "target": "紀録悪戯"
-    },
-    {
-      "index": "9126",
-      "target": "堅記憶"
     },
     {
       "index": "9516",
@@ -137,10 +77,6 @@
     {
       "index": "9518",
       "target": "新世界之絆Ⅲ"
-    },
-    {
-      "index": "9677",
-      "target": "牙血鐵記憶"
     }
   ]
 }

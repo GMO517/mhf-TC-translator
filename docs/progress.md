@@ -31,11 +31,12 @@
 - gathering: qa_done → issues/items-name__gathering.md；review→`archive/items-name/`；batch n=488
 - jewels: qa_done → issues/items-name__jewels.md；review→`archive/items-name/`；batch n=480
 - skill-cuffs: qa_done → issues/items-name__skill-cuffs.md；review→`archive/items-name/`；batch n=2877
-- dummy: translated → issues/review-items-name__dummy.md（awaiting_qa）；batches/awaiting_qa/batch-items-dummy.json（n=676）
+- dummy: qa_done → issues/items-name__dummy.md；review→`archive/items-name/`；batch n=676
+- remainder（舊 stub）: qa_done → issues/items-name__remainder.md；細審改看 all-rest
 - kits: qa_done → issues/items-name__kits.md；review→`archive/items-name/`；batch n=45
 - monster-rest: qa_done → issues/items-name__monster-rest.md；review→`archive/items-name/`；batch n=438
 - misc: qa_done → issues/items-name__misc.md；review→`archive/items-name/`；batch n=199
-- all-rest 拆分: translated（待審，未納入本次 commit）→ `issues/items-name/all-rest/`；batch `batches/awaiting_qa/items-name/all-rest/`
+- all-rest 拆分: in_progress → `issues/items-name/`；已 qa_done 9 檔（info／bond-map／chunks／coin-medal／collectible／companion／consumable-like／cuff-base／dot-series；CSV 已對齊、**未整批回寫**）；待審 25 檔
 
 ---
 

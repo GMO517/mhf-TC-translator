@@ -1468,18 +1468,18 @@ index,source,target
 1466,F.D.Furniture Tkt,火龍家具票
 1467,Guild Emblem,公會徽章
 1468,Guild Cheque (1k),公會支票（１ｋ）
-1469,Large Chunks【Red】,大塊赤
-1470,Small Chunks【Red】,小塊赤
+1469,Large Chunks【Red】,大塊【赤】
+1470,Small Chunks【Red】,小塊【赤】
 1471,60k Cheque,６０ｋ支票
 1472,30k Cheque,３０ｋ支票
-1473,40k Cheque,４０ｋ支票
-1474,30k Cheque 2,３０ｋ支票２
-1475,20k Cheque,２０ｋ支票
-1476,10k Cheque,１０ｋ支票
-1477,5k Cheque,５ｋ支票
-1478,1k Cheque,１ｋ支票
-1479,1z Cheque,１ｚ支票
-1480,1z Cheque 2,１ｚ支票２
+1473,40k Cheque,支票【４０ｋ】
+1474,30k Cheque 2,支票【３０ｋ・２】
+1475,20k Cheque,支票【２０ｋ】
+1476,10k Cheque,支票【１０ｋ】
+1477,5k Cheque,支票【５ｋ】
+1478,1k Cheque,支票【１ｋ】
+1479,1z Cheque,支票【１ｚ】
+1480,1z Cheque 2,支票【１ｚ・２】
 1481,Maiden Health,少女的體力
 1482,Maiden Resilience,少女的耐性
 1483,Maiden Persistence,少女的持續
@@ -1513,11 +1513,11 @@ index,source,target
 1511,Herbal Medicine G,漢方藥Ｇ
 1512,EZ Throwing Bomb,投擲爆彈【簡易】
 1513,EZ LgBarrelBombG2,大桶爆彈Ｇ２【簡易】
-1514,N Medal・Red,Ｎ勳章・赤
-1515,N Medal・Blue,Ｎ勳章・青
-1516,N Medal・Purple,Ｎ勳章・紫
-1517,Large Chunks【Wht】,大塊白
-1518,Small Chunks【Wht】,小塊白
+1514,N Medal・Red,Ｎ勳章【赤】
+1515,N Medal・Blue,Ｎ勳章【青】
+1516,N Medal・Purple,Ｎ勳章【紫】
+1517,Large Chunks【Wht】,大塊【白】
+1518,Small Chunks【Wht】,小塊【白】
 1519,Black Star Iron,黑星鐵
 1520,Festi Ticket,祭票
 1521,Ancient Hymn,古代讚美歌
@@ -1687,25 +1687,25 @@ index,source,target
 1685,Affinity Whetstone,會心砥石
 1686,Hawkeye Drink,鷹眼飲料
 1687,Move Speed Fruit,移動速度果實
-1688,Dragoness Coin,龍女硬幣
-1689,Dragonlord Coin,龍王硬幣
-1690,Saber Mezecoin,劍梅澤幣
+1688,Dragoness Coin,硬幣【龍女】
+1689,Dragonlord Coin,硬幣【龍王】
+1690,Saber Mezecoin,硬幣【劍梅澤】
 1691,Event Assist Tkt,活動補助票
 1692,Porta Cake,波爾塔菓子
 1693,Porta Mochio,波爾塔麻吉
 1694,Unapell Red Cloth,尤納佩爾赤布
 1695,Unapell Ash Cloth,尤納佩爾灰布
-1696,Gratitude [Red],感謝赤
-1697,Gratitude [Wht],感謝白
-1698,Small Red Shard,小赤的碎片
-1699,Small White Shard,小白的碎片
+1696,Gratitude [Red],感謝色票・赤
+1697,Gratitude [Wht],感謝色票・白
+1698,Small Red Shard,小碎片・赤
+1699,Small White Shard,小碎片・白
 1700,(Dummy),(dummy)
-1701,Red Hunter Coin,獵人的赤硬幣
-1702,Blue Hunter Coin,獵人的青硬幣
-1703,Wht Hunter Coin,獵人的白硬幣
-1704,Pink Hunter Coin,獵人的粉硬幣
-1705,Prpl Hunter Coin,獵人的紫硬幣
-1706,Ylw Hunter Coin,獵人的黄硬幣
+1701,Red Hunter Coin,獵人硬幣【赤】
+1702,Blue Hunter Coin,獵人硬幣【青】
+1703,Wht Hunter Coin,獵人硬幣【白】
+1704,Pink Hunter Coin,獵人硬幣【粉】
+1705,Prpl Hunter Coin,獵人硬幣【紫】
+1706,Ylw Hunter Coin,獵人硬幣【黄】
 1707,Khezu L Tkt,電龍Ｌ票
 1708,M Creek Tkt,Ｍ溪流票
 1709,B Marsh Tkt,Ｂ沼澤票
@@ -1728,22 +1728,22 @@ index,source,target
 1726,Wh.Neko Tkt Waist,白猫腰票
 1727,Wh.Neko Tkt Legs,白猫脚票
 1728,1 Million Memories,百萬記憶
-1729,PawCoin・Bronze,肉球幣・青銅
-1730,PawCoin・Silver,肉球幣・銀
-1731,PawCoin・Gold,肉球幣・金
+1729,PawCoin・Bronze,肉球幣【青銅】
+1730,PawCoin・Silver,肉球幣【銀】
+1731,PawCoin・Gold,肉球幣【金】
 1732,Cabal Tkt・Wht,可巴魯票白
 1733,Cabal Tkt・Blk,可巴魯票黒
 1734,Cabal Tkt・Red,可巴魯票赤
 1735,Cabal Tkt・Blue,可巴魯票青
 1736,Cabal Tkt・Ylw,可巴魯票黄
 1737,DL Tkt,ＤＬ票
-1738,Torn Book・Ch 1,破損書・第１章
-1739,Torn Book・Ch 2,破損書・第２章
-1740,Torn Book・Ch 3,破損書・第３章
-1741,Torn Book・Ch 4,破損書・第４章
-1742,Torn Book・Ch 5,破損書・第５章
-1743,Expert Book 1,達人書１
-1744,Expert Book 2,達人書２
+1738,Torn Book・Ch 1,破損之書・第１章
+1739,Torn Book・Ch 2,破損之書・第２章
+1740,Torn Book・Ch 3,破損之書・第３章
+1741,Torn Book・Ch 4,破損之書・第４章
+1742,Torn Book・Ch 5,破損之書・第５章
+1743,Expert Book 1,達人之書１
+1744,Expert Book 2,達人之書２
 1745,BP２ Tkt・１,ＢＰ２票・１
 1746,BP２ Tkt・２,ＢＰ２票・２
 1747,BP２ Tkt・３,ＢＰ２票・３
@@ -1773,8 +1773,8 @@ index,source,target
 1771,X Tkt Arms,仙女腕票
 1772,X Tkt Waist,仙女腰票
 1773,X Tkt Legs,仙女脚票
-1774,Heartfelt Bond,真心絆
-1775,Truthful Bond,真誠絆
+1774,Heartfelt Bond,真心之絆
+1775,Truthful Bond,真誠之絆
 1776,Metal Tkt Head,白合金頭票
 1777,Metal Tkt Torso,白合金胴票
 1778,Metal Tkt Arms,白合金腕票
@@ -1846,7 +1846,7 @@ index,source,target
 1844,Real Tkt Waist,皇室腰票
 1845,Real Tkt Legs,皇室脚票
 1846,Ancient Hymn II,古代聖歌Ⅱ
-1847,Book of Life,書命
+1847,Book of Life,生命之書
 1848,Secret Stone,秘石
 1849,Flare Gem,閃光寶玉
 1850,Penetrator Gem,貫通寶玉
@@ -1905,8 +1905,8 @@ index,source,target
 1903,Reward Tip Yellow,報酬碎片黄
 1904,Book of Bonds Blue,絆之書・青
 1905,Book of Bonds Red,絆之書・赤
-1906,Award Medal Blue,表彰勳章青
-1907,Award Medal Red,表彰勳章赤
+1906,Award Medal Blue,表彰勳章【青】
+1907,Award Medal Red,表彰勳章【赤】
 1908,Dummy,(dummy)
 1909,Dummy,(dummy)
 1910,Dummy,(dummy)
@@ -2073,26 +2073,26 @@ index,source,target
 2071,Rust Chunk,錆塊
 2072,Rusty Cat's Mark,生錆猫Ｓ印
 2073,Power Testimony,力量証言
-2074,Harvest Coin,収穫硬幣
-2075,Gather Coin 1,採取硬幣１
-2076,Gather Coin 2,採取硬幣２
-2077,Gather Coin 3,採取硬幣３
-2078,Gather Coin 4,採取硬幣４
-2079,Gather Coin 5,採取硬幣５
-2080,Gather Coin 6,採取硬幣６
-2081,Eligibility Coin,資格硬幣
-2082,Final Coin,決勝硬幣
+2074,Harvest Coin,硬幣【収穫】
+2075,Gather Coin 1,採集硬幣【１】
+2076,Gather Coin 2,採集硬幣【２】
+2077,Gather Coin 3,採集硬幣【３】
+2078,Gather Coin 4,採集硬幣【４】
+2079,Gather Coin 5,採集硬幣【５】
+2080,Gather Coin 6,採集硬幣【６】
+2081,Eligibility Coin,硬幣【資格】
+2082,Final Coin,硬幣【決勝】
 2083,Extreme Violence,極暴力
 2084,Tropical Tree,熱帯樹
 2085,A.Rathalos Virtue,蒼火龍徳
 2086,P.Rathian Virtue,櫻火龍徳
-2087,B.Yearning Shard,黒渇望的碎片
-2088,P.Yearning Shard,粉渇望的碎片
+2087,B.Yearning Shard,渇望碎片・黒
+2088,P.Yearning Shard,渇望碎片・粉
 2089,Angelic Voice,天使声音
 2090,Jewel Box,珠寶箱
-2091,Marine Coin,海洋硬幣
-2092,Sky Coin,空硬幣
-2093,Earth Coin,大地硬幣
+2091,Marine Coin,硬幣【海洋】
+2092,Sky Coin,硬幣【空】
+2093,Earth Coin,硬幣【大地】
 2094,N Seal G,Ｎ封印Ｇ
 2095,N Seal H,Ｎ封印Ｈ
 2096,N Seal I,Ｎ封印Ｉ
@@ -2138,9 +2138,9 @@ index,source,target
 2136,ＴＰ２ Tkt・３,ＴＰ２票・３
 2137,ＴＰ２ Tkt・４,ＴＰ２票・４
 2138,ＴＰ２ Tkt・５,ＴＰ２票・５
-2139,PawCoin・Steel,肉球幣・鋼
-2140,PawCoin・Iron,肉球幣・鉄
-2141,PawCoin・Lead,肉球幣・鉛
+2139,PawCoin・Steel,肉球幣【鋼】
+2140,PawCoin・Iron,肉球幣【鉄】
+2141,PawCoin・Lead,肉球幣【鉛】
 2142,Guild Seal,公會的封印
 2143,Tough Snake Skin,剛蛇的皮
 2144,Gratitude Tkt,感謝票
@@ -2597,8 +2597,8 @@ index,source,target
 2595,BP６ Tkt・８,ＢＰ６票・８
 2596,EF Ticket,ＥＦ票
 2597,Iron Star Chunk,鐵星塊
-2598,Sincere Bond,誠実絆
-2599,Honest Bond,正直絆
+2598,Sincere Bond,誠実之絆
+2599,Honest Bond,正直之絆
 2600,Red Codex,赤法典
 2601,Blue Codex,青法典
 2602,Yellow Codex,黄法典
@@ -2625,14 +2625,14 @@ index,source,target
 2623,Rare Black Water,水的稀有黒
 2624,Rare Silver Water,水的稀有銀
 2625,Rare Gold Water,水的稀有金
-2626,Rare Amber Bag,稀有琥珀的袋
-2627,Rare Crimson Bag,稀有深紅的袋
-2628,Rare Rose Bag,稀有薔薇的袋
-2629,Rare Jade Bag,稀有翡翠的袋
-2630,Rare Lapis Bag,稀有青金的袋
-2631,Rare Black Bag,稀有袋・黒
-2632,Rare Silver Bag,稀有銀的袋
-2633,Rare Golden Bag,稀有黄金的袋
+2626,Rare Amber Bag,稀有袋【琥珀】
+2627,Rare Crimson Bag,稀有袋【深紅】
+2628,Rare Rose Bag,稀有袋【薔薇】
+2629,Rare Jade Bag,稀有袋【翡翠】
+2630,Rare Lapis Bag,稀有袋【青金】
+2631,Rare Black Bag,稀有袋【黒】
+2632,Rare Silver Bag,稀有袋【銀】
+2633,Rare Golden Bag,稀有袋【黄金】
 2634,Amber Secret Pot,琥珀秘傳鍋
 2635,Crimson Secret Pot,深紅秘傳鍋
 2636,Rose Secret Pot,薔薇秘傳鍋
@@ -3011,16 +3011,16 @@ index,source,target
 3009,Pharan Tkt Arms,巫者腕票
 3010,Pharan Tkt Waist,巫者腰票
 3011,Pharan Tkt Legs,巫者脚票
-3012,Gold Cat Head,猫的金頭
-3013,Gold Cat Chest,金猫胸
-3014,Gold Cat Arms,猫的金腕
-3015,Gold Cat Waist,猫的金腰
-3016,Gold Cat Legs,猫的金脚
-3017,Silver Cat Head,猫的銀頭
-3018,Silver Cat Chest,銀猫胸
-3019,Silver Cat Arms,猫的銀腕
-3020,Silver Cat Waist,猫的銀腰
-3021,Silver Cat Legs,猫的銀脚
+3012,Gold Cat Head,猫的頭【金色】
+3013,Gold Cat Chest,猫的胸【金色】
+3014,Gold Cat Arms,猫的腕【金色】
+3015,Gold Cat Waist,猫的腰【金色】
+3016,Gold Cat Legs,猫的脚【金色】
+3017,Silver Cat Head,猫的頭【銀色】
+3018,Silver Cat Chest,猫的胸【銀色】
+3019,Silver Cat Arms,猫的腕【銀色】
+3020,Silver Cat Waist,猫的腰【銀色】
+3021,Silver Cat Legs,猫的脚【銀色】
 3022,Card Ore Blue,紙牌礦石・藍
 3023,Card Ore Gray,紙牌礦石・灰
 3024,Card Ore Green,紙牌礦石・緑
@@ -3042,7 +3042,7 @@ index,source,target
 3040,ＴＰ３ Tkt・５,ＴＰ３票・５
 3041,Thank You Ⅲ,感謝汝Ⅲ
 3042,Pioneer Proof,先駆之証
-3043,Primo Coin,極品硬幣
+3043,Primo Coin,硬幣【極品】
 3044,Ebony Dragontite,黒檀龍石
 3045,Ivory Dragontite,象牙龍石
 3046,Carbide Board,炭化物板
@@ -3060,7 +3060,7 @@ index,source,target
 3058,Big Flash Gem,大閃光的寶玉
 3059,Big Blast Gem,大爆破寶玉
 3060,Big Penetrator Gem,大貫通的寶玉
-3061,Instructor Coin,教官硬幣
+3061,Instructor Coin,硬幣【教官】
 3062,Pale Hypnoc Pelt,蒼眠鳥的皮
 3063,Sphere Tkt Head,星體頭票
 3064,Sphere Tkt Torso,星體胴票
@@ -3581,10 +3581,10 @@ index,source,target
 3579,Erupe Hide,雪羊獸的皮
 3580,Erupe Hoof,雪羊獸的蹄
 3581,Training Jewel Ⅴ,訓練珠Ⅴ
-3582,Bewitching Coin,魅惑硬幣
-3583,Glimmering Coin,輝硬幣
-3584,Hazy Coin,霞硬幣
-3585,Blinking Coin,閃硬幣
+3582,Bewitching Coin,硬幣【魅惑】
+3583,Glimmering Coin,硬幣【輝】
+3584,Hazy Coin,硬幣【霞】
+3585,Blinking Coin,硬幣【閃】
 3586,SSFⅣ Tkt Head,ＳＳＦⅣ頭票
 3587,SSFⅣ Tkt Torso,ＳＳＦⅣ胴票
 3588,SSFⅣ Tkt Arms,ＳＳＦⅣ腕票
@@ -3609,7 +3609,7 @@ index,source,target
 3607,Poison F Tkt,毒鞭Ｆ票
 3608,Astral F Tkt,星辰Ｆ票
 3609,Proof of Alliance,同盟之証
-3610,Bond of Alliance,絆同盟
+3610,Bond of Alliance,同盟之絆
 3611,Seal of Alliance,封印同盟
 3612,Sweet Memory,甜記憶
 3613,White Sugar,白糖
@@ -3638,18 +3638,18 @@ index,source,target
 3636,Red Hunter Dice,獵人骰子・赤
 3637,Blue Hunter Dice,獵人骰子・青
 3638,White Hunter Dice,獵人骰子・白
-3639,Pink Hunter Dice,獵人骰子・粉色
+3639,Pink Hunter Dice,獵人骰子・粉
 3640,Purple Hunter Dice,獵人骰子・紫
 3641,Red Hunter Card,獵人紙牌・赤
 3642,Blue Hunter Card,獵人紙牌・青
 3643,Wht Hunter Card,獵人紙牌・白
-3644,Pink Hunter Card,獵人紙牌・粉色
+3644,Pink Hunter Card,獵人紙牌・粉
 3645,Purple Hunter Card,獵人紙牌・紫
-3646,Red Hunter Book,獵人書・赤
-3647,Blue Hunter Book,獵人書・青
-3648,Wht Hunter Book,獵人書・白
-3649,Pink Hunter Book,獵人書・粉色
-3650,Purple Hunter Book,獵人書・紫
+3646,Red Hunter Book,獵人之書・赤
+3647,Blue Hunter Book,獵人之書・青
+3648,Wht Hunter Book,獵人之書・白
+3649,Pink Hunter Book,獵人之書・粉
+3650,Purple Hunter Book,獵人之書・紫
 3651,Red Half-Tkt,赤半票
 3652,Blue Half-Tkt,青半票
 3653,Wht Half-Tkt,白半票
@@ -3658,7 +3658,7 @@ index,source,target
 3656,Red Hunter Bag,獵人袋・赤
 3657,Blue Hunter Bag,獵人袋・青
 3658,Wht Hunter Bag,獵人袋・白
-3659,Pink Hunter Bag,獵人袋・粉色
+3659,Pink Hunter Bag,獵人袋・粉
 3660,Purple Hunter Bag,獵人袋・紫
 3661,Booze-Honey [Blue],酒蜜［藍］
 3662,Booze-Honey [Pink],酒蜜［粉］
@@ -3670,7 +3670,7 @@ index,source,target
 3668,Camellia Grass Se.,山茶草種
 3669,Came. Grass Juice,椿草汁
 3670,Conc Grass Essence,濃縮草精華
-3671,Felvine Coin,木天蓼硬幣
+3671,Felvine Coin,硬幣【木天蓼】
 3672,BP9 Tkt・1,ＢＰ９票・１
 3673,BP9 Tkt・2,ＢＰ９票・２
 3674,BP9 Tkt・3,ＢＰ９票・３
@@ -3970,7 +3970,7 @@ index,source,target
 3968,Large Point Ball,大點球
 3969,Return Ball,歸還球
 3970,Point Thief Flute,奪點笛
-3971,Fertility Coin,豊饒硬幣
+3971,Fertility Coin,硬幣【豊饒】
 3972,Transcend Proof 1,超越之証１
 3973,Transcend Proof 2,超越之証２
 3974,Transcend Proof 3,超越之証３
@@ -3997,7 +3997,7 @@ index,source,target
 3995,Elder Dragon Gem,古龍種的寶玉
 3996,Rukodiora Proof,極龍之証
 3997,Famitsu Tkt,法米通票
-3998,Pawprint Medal,肉球印勳章
+3998,Pawprint Medal,勳章【肉球印】
 3999,Card Ore White,紙牌礦石・白
 4000,Card Ore Maroon,紙牌礦石・褐
 4001,Card Ore Yellow,紙牌礦石・黄
@@ -4037,7 +4037,7 @@ index,source,target
 4035,Varusaburosu Doll,炎角龍人偶
 4036,Airborne Spores,飛散胞子
 4037,Wyvern Mallet Tkt,撃龍鎚票
-4038,Fancy Book 3,華書３
+4038,Fancy Book 3,華麗之書３
 4039,Hunter's Skill 2,獵人的Ｓ技能２
 4040,Wpn Design Doc II,武器設計文書Ⅱ
 4041,Magnetic Scales,磁力鱗
@@ -4057,9 +4057,9 @@ index,source,target
 4055,SSFⅣ Waist Tkt F,ＳＳＦⅣ腰票Ｆ
 4056,SSFⅣ Legs Tkt F,ＳＳＦⅣ脚票Ｆ
 4057,Pure Wht Star Iron,純白星鐵
-4058,Earth Medal,大地勳章
-4059,Marine Medal,海洋勳章
-4060,Sky Medal,空勳章
+4058,Earth Medal,勳章【大地】
+4059,Marine Medal,勳章【海洋】
+4060,Sky Medal,勳章【空】
 4061,Flash Blast T.Gem,閃光爆破真寶玉
 4062,Attack Blast T.Gem,攻撃爆破真寶玉
 4063,Penetrating T.Gem,貫通真寶玉
@@ -4470,7 +4470,7 @@ index,source,target
 4468,Star Debris,星殘骸
 4469,Steel Direbone,鋼兇骨
 4470,Carbon Blade,炭素刃
-4471,Cat Luxury File,猫豪華砥
+4471,Cat Luxury File,猫豪華砥石
 4472,Fisherman's Guile,漁師Ｓ狡智
 4473,Blk Beast Fang,黑獸的牙
 4474,Extreme Flame Gem,極限炎的寶玉
@@ -4792,12 +4792,12 @@ index,source,target
 4790,Toros Tkt Waist,鬥士腰票
 4791,Toros Tkt Legs,鬥士脚票
 4792,Seabreeze Stone,海風石
-4793,Unbound Book [Sky],解縛書空
-4794,Unbound Book [Hvn],解縛書天
-4795,Lottery Bag,抽選的袋
+4793,Unbound Book [Sky],解縛之書【空】
+4794,Unbound Book [Hvn],解縛之書【天】
+4795,Lottery Bag,抽選袋
 4796,Beguiling Feathers,魅惑的羽
 4797,Icy Scale Stone,氷鱗的石
-4798,Book of Storms,書嵐
+4798,Book of Storms,嵐之書
 4799,Crimson Storm Bell,深紅嵐鈴
 4800,Ivory Star Clay,象牙星黏土
 4801,Tail Fin Harness,尾鰭的束具
@@ -4836,7 +4836,7 @@ index,source,target
 4834,Demonic Fungus,惡魔菌
 4835,Hunter's Will,獵人Ｓ意志
 4836,Beast Horn,牙獸種的角
-4837,Flash Coin,閃光硬幣
+4837,Flash Coin,硬幣【閃光】
 4838,Shakalaka Game,奇面族遊戲
 4839,Shiny Blk Carapace,閃亮黑堅殼
 4840,Buried Black Shell,埋沒的黑殼
@@ -4894,15 +4894,15 @@ index,source,target
 4892,Song of Spring,歌春
 4893,Song of Summer,歌夏
 4894,Song of Rain,雨之歌
-4895,Br.Scorpion Bond,青銅蠍絆
-4896,Sl.Scorpion Bond,銀蠍絆
-4897,Gold Scorpion Bond,金蠍絆
-4898,Br.T.Dragon Bond,轟龍青銅絆
-4899,Sl.T.Dragon Bond,轟龍銀絆
-4900,Gold T.Dragon Bond,轟龍金絆
-4901,Brnze Paria Bond,青銅呑龍絆
-4902,Slver Paria Bond,銀呑龍絆
-4903,Gold Paria Bond,金呑龍絆
+4895,Br.Scorpion Bond,青銅蠍之絆
+4896,Sl.Scorpion Bond,銀蠍之絆
+4897,Gold Scorpion Bond,金蠍之絆
+4898,Br.T.Dragon Bond,轟龍青銅之絆
+4899,Sl.T.Dragon Bond,轟龍銀之絆
+4900,Gold T.Dragon Bond,轟龍金之絆
+4901,Brnze Paria Bond,青銅呑龍之絆
+4902,Slver Paria Bond,銀呑龍之絆
+4903,Gold Paria Bond,金呑龍之絆
 4904,Gray Festi Memento,灰祭典紀念
 4905,Yel. Festi Memento,黄祭典記念
 4906,Grn. Festi Memento,緑祭典紀念
@@ -5103,7 +5103,7 @@ index,source,target
 5101,Eating 1 G,食事１Ｇ
 5102,Sharpening G,研ぎＧ
 5103,Focus Deco,集中裝飾品
-5104,Bond Deco,絆裝飾品
+5104,Bond Deco,絆之裝飾品
 5105,Capture Deco,捕獲的裝飾品
 5106,Passive Deco,被動装飾品
 5107,Flute Expert Deco,笛達人裝飾品
@@ -5156,21 +5156,21 @@ index,source,target
 5154,Small Cyan Shell,小青藍的殻
 5155,Small Silver Shell,小銀的殻
 5156,Small Gold Shell,小金的殻
-5157,Chem Vial・Red,化瓶・赤
-5158,Chem Vial・Blue,化瓶・青
-5159,Chem Vial・Green,化瓶・緑
-5160,Chem Vial・Yellow,化瓶・黄
-5161,Chem Vial・White,化瓶・白
-5162,Chem Vial・Black,化瓶・黒
+5157,Chem Vial・Red,試管・赤
+5158,Chem Vial・Blue,試管・青
+5159,Chem Vial・Green,試管・緑
+5160,Chem Vial・Yellow,試管・黄
+5161,Chem Vial・White,試管・白
+5162,Chem Vial・Black,試管・黒
 5163,Wood Effigy・Red,木偶・赤
 5164,Wood Effigy・Green,木偶・緑
 5165,Wood Effigy・White,木偶・白
-5166,Wood Effigy・Gray,木偶灰
-5167,Wood Effigy・Brown,木偶褐
+5166,Wood Effigy・Gray,木偶・灰
+5167,Wood Effigy・Brown,木偶・褐
 5168,Wood Effigy・Black,木偶・黒
 5169,Wood Effigy・Yellow,木偶・黄
 5170,Wood Effigy・Blue,木偶・青
-5171,Wood Effigy・Navy,木偶紺
+5171,Wood Effigy・Navy,木偶・紺
 5172,Wood Effigy・Cyan,木偶・青藍
 5173,Pink Portrait,粉肖像
 5174,Peach Portrait,桃肖像
@@ -5231,7 +5231,7 @@ index,source,target
 5229,White Cross,白十字
 5230,Apology Card White,謝罪紙牌・白
 5231,Apology Card Red,謝罪紙牌・赤
-5232,Fancy Book 4,華書４
+5232,Fancy Book 4,華麗之書４
 5233,Ghost-Dragon Iron,幽靈龍鐵
 5234,Dark-Dragon Bone,闇龍骨
 5235,Polyhedron Crystal,多面結晶
@@ -5248,7 +5248,7 @@ index,source,target
 5246,Red Hair Ornament,紅髮飾
 5247,Compass of Truth,真實羅盤
 5248,Candle of Fate,燭宿命
-5249,Empty Book,空書
+5249,Empty Book,空之書
 5250,Decor Rod,装飾竿
 5251,Memorial Music Box,記念音樂盒
 5252,Wisdomarang,智慧標
@@ -5344,10 +5344,10 @@ index,source,target
 5342,Cuff Base・Cobalt,護腕基底・鈷
 5343,Cuff Base・Heather,護腕基底・石楠
 5344,Cuff Base・Corn,護腕基底・玉米
-5345,Armor Soul・Rough,防具魂粗
-5346,Armor Soul・Calm,防具魂靜
-5347,Armor Soul・Lucky,防具魂幸運
-5348,Armor Soul・Odd,防具魂奇
+5345,Armor Soul・Rough,防具魂・粗
+5346,Armor Soul・Calm,防具魂・靜
+5347,Armor Soul・Lucky,防具魂・幸運
+5348,Armor Soul・Odd,防具魂・奇
 5349,Blue Volga Doll,熔岩龍青人偶
 5350,Red Volga Doll,熔岩龍赤人偶
 5351,White Volga Doll,熔岩龍白人偶
@@ -5382,7 +5382,7 @@ index,source,target
 5380,Clown Knowledge,道化知識
 5381,Purple Purecrystal,紫淨結晶
 5382,Clown Secrets,道化秘事
-5383,HC Pawprint Medal,ＨＣ肉球印勳章
+5383,HC Pawprint Medal,肉球印勳章【ＨＣ】
 5384,Secret Proof・Low,秘傳之証・下位
 5385,Secret Proof・Mid,秘傳之証・中位
 5386,Secret Proof・High,秘傳之証・高級
@@ -5620,7 +5620,7 @@ index,source,target
 5618,Silver Wings,銀翼
 5619,Silver Fur,銀火龍的毛
 5620,Silver Wingfeather,銀火龍的羽翼
-5621,Flourish Coin,繁榮硬幣
+5621,Flourish Coin,硬幣【興隆】
 5622,Flashing Gemstone,閃寶石
 5623,Piercing Gemstone,貫通寶石
 5624,Smashing Gemstone,破碎寶石
@@ -5699,9 +5699,9 @@ index,source,target
 5697,Refreshing Drink,清涼飲料
 5698,Hot Water Pan,熱水鍋
 5699,Rich Fruit,豊果
-5700,Denarius・Gold,銀幣・金
-5701,Denarius・Silver,銀幣・銀
-5702,Denarius・Copper,銀幣銅
+5700,Denarius・Gold,銀幣【金】
+5701,Denarius・Silver,銀幣【銀】
+5702,Denarius・Copper,銀幣【銅】
 5703,Blastshot,爆射
 5704,Fire Blastshot,火爆射
 5705,Water Blastshot,水爆射
@@ -5760,7 +5760,7 @@ index,source,target
 5758,Hairy Things,毛物
 5759,Gritty Things,砂物
 5760,Rough Things,粗物
-5761,Intro Special Bag,序特殊的袋
+5761,Intro Special Bag,特殊袋【序】
 5762,Halk Ball [Poison],毒鷹球
 5763,Millennium Rice,千年米
 5764,Silver Liver,銀火龍的肝
@@ -6031,7 +6031,7 @@ index,source,target
 6029,Carbide Edge,炭化物刃
 6030,Charm Gear,護符裝備
 6031,Sonic Gear,音波裝置
-6032,Fancy Book 6,華書６
+6032,Fancy Book 6,華麗之書６
 6033,Akura Jebia Hymn,灰晶蠍聖歌
 6034,Black Beast Fur,黑獸的毛
 6035,Eternal Ice Fang,永凍的牙
@@ -6062,7 +6062,7 @@ index,source,target
 6060,Super Hard HCLM,超硬ＨＣＬＭ
 6061,Dongle Requiem,轉接鎮魂
 6062,Dongle Oracle,轉接神諭
-6063,Epidosis Egg,疫病蛋
+6063,Epidosis Egg,強化蛋
 6064,Canbrio Eggs,坎布里歐蛋
 6065,Prismatic Leather,虹彩皮革
 6066,Gospel Stone,福音石
@@ -6164,9 +6164,9 @@ index,source,target
 6162,HC Crystal Silver ,ＨＣ結晶銀
 6163,HC Crystal Gold ,ＨＣ結晶金
 6164,HRP Tkt (800),ＨＲＰ票（800）
-6165,Thin Gook Soup,薄古克汁
-6166,Tasty Gook Soup,美味古克汁
-6167,Rich Gook Soup,豊古克汁
+6165,Thin Gook Soup,薄味古克鴨湯
+6166,Tasty Gook Soup,美味古克鴨湯
+6167,Rich Gook Soup,濃厚古克鴨湯
 6168,Fire Atk Fruit,火的攻撃果實
 6169,Water Atk Fruit,水的攻撃果實
 6170,Ice Atk Fruit,冰的攻撃果實
@@ -6391,7 +6391,7 @@ index,source,target
 6389,Def Lock II SC4,防禦力鎖定ⅡＳＣ４
 6390,Def Lock II SC5,防禦力鎖定ⅡＳＣ５
 6391,Carapaceon Fluid,甲殼種的體液
-6392,M. Cat's Favourite,Ｍ猫Ｓ最愛
+6392,M. Cat's Favourite,Ｍ猫最愛
 6393,Exercise Pearl Ⅶ,鍛練珍珠Ⅶ
 6394,Fort C Tkt,要塞Ｃ票
 6395,Fort S Tkt,要塞Ｓ票
@@ -6462,10 +6462,10 @@ index,source,target
 6460,Romantic Perfume,浪漫香水
 6461,Rough Ball,粗球
 6462,Crackling Fruit,爆裂果
-6463,Gesture・Bow Ⅱ,弓的姿勢Ⅱ
-6464,Gesture・LBG Ⅱ,輕弩的姿勢Ⅱ
-6465,Gesture・SnS Ⅱ,姿勢片手劍Ⅱ
-6466,Gesture・LS Ⅱ,太刀的姿勢Ⅱ
+6463,Gesture・Bow Ⅱ,姿勢・弓Ⅱ
+6464,Gesture・LBG Ⅱ,姿勢・輕弩Ⅱ
+6465,Gesture・SnS Ⅱ,姿勢・片手劍Ⅱ
+6466,Gesture・LS Ⅱ,姿勢・太刀Ⅱ
 6467,Valorant Crest,勇冠
 6468,Valorant Plume,勇羽
 6469,Admirable Shinobi,可敬忍者
@@ -6639,8 +6639,8 @@ index,source,target
 6637,Large Faded Pearl,大褪色珍珠
 6638,BalistaBinder Ammo,弩炮用弾
 6639,Attack 3 Deco,攻撃力的３裝飾品
-6640,G Rage・Attack,憤怒的Ｇ攻撃
-6641,G Rage・Issen,憤怒的Ｇ一閃
+6640,G Rage・Attack,憤怒的攻撃Ｇ
+6641,G Rage・Issen,憤怒的一閃Ｇ
 6642,dummy 6642,(dummy)
 6643,Kut-Ku Bone,怪鳥的骨
 6644,Kut-Ku Hollow Beak,怪鳥的怪鳥空喙
@@ -6738,7 +6738,7 @@ index,source,target
 6736,Guren Rage Horn,蠻龍的角
 6737,Guren Fierce Tail,蠻龍的尾
 6738,Guren Brute Spike,蠻龍的棘
-6739,Dyura Frozen Shard,迪尤拉凍結的碎片
+6739,Dyura Frozen Shard,冰狐龍的凍結碎片
 6740,Dyura Frost Cortex,冰狐龍的重殼
 6741,Dyura Chill Spike,冰狐龍的棘
 6742,Anoru Fang,暴鋸龍的牙
@@ -6786,10 +6786,10 @@ index,source,target
 6784,Ivory Dgnsphire,象牙龍尖
 6785,Disufiroa Fellwing,熾凍龍的剛翼
 6786,Disufiroa Diretail,熾凍龍兇尾
-6787,Gesture・DS Ⅱ,雙劍的姿勢Ⅱ
-6788,Gesture・Hammer Ⅱ,姿勢鎚Ⅱ
-6789,Gesture・HH Ⅱ,狩獵笛的姿勢Ⅱ
-6790,Gesture・Lance Ⅱ,長槍的姿勢Ⅱ
+6787,Gesture・DS Ⅱ,姿勢・雙劍Ⅱ
+6788,Gesture・Hammer Ⅱ,姿勢・鎚Ⅱ
+6789,Gesture・HH Ⅱ,姿勢・狩獵笛Ⅱ
+6790,Gesture・Lance Ⅱ,姿勢・長槍Ⅱ
 6791,Dummy 6791,(dummy)
 6792,Dummy 6792,(dummy)
 6793,Unique Monst.Bone,獨特魔物骨
@@ -7122,7 +7122,7 @@ index,source,target
 7120,Mastery Arms Tkt,精通腕票
 7121,Mastery Waist Tkt,精通腰票
 7122,Mastery Legs Tkt,精通脚票
-7123,1k Gz Cheque,１ｋＧＺ支票
+7123,1k Gz Cheque,支票【１ｋＧＺ】
 7124,Soft Cloth,軟布
 7125,Light Colour Dye,光色染料
 7126,Damaged Scale,破損的鱗
@@ -7159,7 +7159,7 @@ index,source,target
 7157,Green Pass Ⅳ,緑通行Ⅳ
 7158,Green Pass Ⅴ,緑通行Ⅴ
 7159,Toko's Book,托子之書
-7160,Saikou's Book,最高之書
+7160,Saikou's Book,至高之書
 7161,GR6 Gem,ＧＲ６寶玉
 7162,B Edge Tkt,Ｂ鋭劍票
 7163,T Anger Tkt,Ｔ憤怒票
@@ -7266,7 +7266,7 @@ index,source,target
 7264,Bow Ribbon Low,弓的飾帶下位
 7265,Bow Ribbon Mid,弓的飾帶中位
 7266,Bow Ribbon High,弓的飾帶高級
-7267,Ulti.Conquest Bond,終極征服絆
+7267,Ulti.Conquest Bond,終極征服之絆
 7268,Green Valor Stone,勇氣石・緑
 7269,Blue Valor Stone,勇氣石・藍
 7270,Red Valor Stone,勇氣石・紅
@@ -7456,27 +7456,27 @@ index,source,target
 7454,Cuff Base G・Lily,護腕基底Ｇ・百合
 7455,C.Base G・Miscanthus,護腕基底Ｇ・芒
 7456,C.Base G・Narcissus,護腕基底Ｇ・水仙
-7457,C.Base G・Daffodil,護腕基底Ｇ・水仙
-7458,C.Base G・Decumaria,護腕基底Ｇ・泰里法
+7457,C.Base G・Daffodil,護腕基底Ｇ・黄水仙
+7458,C.Base G・Decumaria,護腕基底Ｇ・赤壁
 7459,C.Base G・Butterbur,護腕基底Ｇ・蜂斗菜
 7460,C.Base G・Horsetail,護腕基底Ｇ・筆
 7461,C.Base G・Dianthus,護腕基底Ｇ・石竹
 7462,C.Base G・Bamboo,護腕基底Ｇ・竹
 7463,C.Base G・Physalis,護腕基底Ｇ・酸漿
-7464,C.Base G・Aubergine,護腕基底Ｇ・比納桃
+7464,C.Base G・Aubergine,護腕基底Ｇ・茄子
 7465,20 Soul Gem G,20魂寶玉Ｇ
 7466,40 Soul Gem G,40魂寶玉Ｇ
 7467,80 Soul Gem G,80魂寶玉Ｇ
 7468,20 Soul Gem,20魂的寶玉
 7469,40 Soul Gem,40魂的寶玉
 7470,80 Soul Gem,80魂的寶玉
-7471,★5 Liberation Coin,★5解放硬幣
+7471,★5 Liberation Coin,解放硬幣【★5】
 7472,Conquest Gem Bud,征服寶玉芽
 7473,Conquest Gem Bloom,征服寶玉花
 7474,Supr.Sunlight Gem,至高陽光的寶玉
 7475,Supr.Moonlight Gem,至高月光的寶玉
-7476,★6 Liberation Coin,★6解放硬幣
-7477,★7 Liberation Coin,★7解放硬幣
+7476,★6 Liberation Coin,解放硬幣【★6】
+7477,★7 Liberation Coin,解放硬幣【★7】
 7478,GUide to Victory,導征服拉
 7479,Lumin.Armor Rock,布爾霧岩
 7480,Komono Armor Rock,音未來鎧岩
@@ -7495,23 +7495,23 @@ index,source,target
 7493,HR Neko Whetstone,ＨＲ猫砥石
 7494,Hunter's Resolve,獵人比納桃
 7495,Glass Tuning Fork,玻璃調音叉
-7496,Fancy Book 5,華書５
+7496,Fancy Book 5,華麗之書５
 7497,単結晶の円錐,單結晶的圓錐
 7498,地噴梵字の書,地噴梵字的書
 7499,Big Sharp Claws,巨大鋭爪
 7500,グルーラ稀鉱石,古魯拉稀礦石
 7501,Oni Iron,鬼鐵
-7502,Glory Coin,栄光硬幣
-7503,D.Cat Medal White,Ｄ猫勳章白
-7504,D.Cat Medal Yellow,Ｄ猫勳章黄
-7505,D.Cat Medal Red,Ｄ猫勳章赤
-7506,D.Cat Medal Blue,Ｄ猫勳章青
-7507,D.Cat Medal Black,Ｄ猫勳章黒
-7508,D.Cat Coin White,Ｄ猫硬幣白
-7509,D.Cat Coin Yellow,Ｄ猫硬幣黄
-7510,D.Cat Coin Red,Ｄ猫硬幣赤
-7511,D.Cat Coin Blue,Ｄ猫硬幣青
-7512,D.Cat Coin Black,Ｄ猫硬幣黒
+7502,Glory Coin,硬幣【栄光】
+7503,D.Cat Medal White,Ｄ猫勳章【白】
+7504,D.Cat Medal Yellow,Ｄ猫勳章【黄】
+7505,D.Cat Medal Red,Ｄ猫勳章【赤】
+7506,D.Cat Medal Blue,Ｄ猫勳章【青】
+7507,D.Cat Medal Black,Ｄ猫勳章【黒】
+7508,D.Cat Coin White,Ｄ猫硬幣【白】
+7509,D.Cat Coin Yellow,Ｄ猫硬幣【黄】
+7510,D.Cat Coin Red,Ｄ猫硬幣【赤】
+7511,D.Cat Coin Blue,Ｄ猫硬幣【青】
+7512,D.Cat Coin Black,Ｄ猫硬幣【黒】
 7513,Pietra BM GX1,岩華劍士ＧＸ１
 7514,Pietra BM GX2,岩華劍士ＧＸ２
 7515,Pietra BM GX3,岩華劍士ＧＸ３
@@ -7970,13 +7970,13 @@ index,source,target
 7968,Shantien GN GF3,天翔龍的GN GF3
 7969,Shantien GN GF4,天翔龍的GN GF4
 7970,Shantien GN GF5,天翔龍的GN GF5
-7971,5k Gz Cheque,５ｋＧＺ支票
-7972,10k Gz Cheque,１０ｋＧＺ支票
-7973,20k Gz Cheque,２０ｋＧＺ支票
-7974,30k Gz Cheque,３０ｋＧＺ支票
-7975,40k Gz Cheque,４０ｋＧＺ支票
-7976,50k Gz Cheque,５０ｋＧＺ支票
-7977,100k Gz Cheque,１００ｋＧＺ支票
+7971,5k Gz Cheque,支票【５ｋＧＺ】
+7972,10k Gz Cheque,支票【１０ｋＧＺ】
+7973,20k Gz Cheque,支票【２０ｋＧＺ】
+7974,30k Gz Cheque,支票【３０ｋＧＺ】
+7975,40k Gz Cheque,支票【４０ｋＧＺ】
+7976,50k Gz Cheque,支票【５０ｋＧＺ】
+7977,100k Gz Cheque,支票【１００ｋＧＺ】
 7978,ミズキの委任状,水樹的委任状
 7979,GRP Tkt (4k),ＧＲＰ票（4000）
 7980,Guild Intro Letter,公會介紹信
@@ -8031,7 +8031,7 @@ index,source,target
 8029,Blue Soul Fruit,青魂果實
 8030,Shiriagari Fruit,鈿終極果實
 8031,Elixir of Peace,浪紫黑平和
-8032,Hunting Medal,狩勳章
+8032,Hunting Medal,勳章【狩】
 8033,Haste C. (-5s),加速Ｃ艾恩流
 8034,Haste C. (-10s),加速Ｃ沸血吼
 8035,Haste C. (-20s),加速Ｃ血吼牙
@@ -8247,7 +8247,7 @@ index,source,target
 8245,まどわしの音色,迷惑的音色
 8246,Enchanting Paint,魅惑塗
 8247,Fresh Pickled Egg,新鮮爾霧野蛋
-8248,Delicious Egg,布爾霧蛋
+8248,Delicious Egg,美味蛋
 8249,Phantom Egg,幻影蛋
 8250,Sakura Ore Shard,櫻礦厚鱗
 8251,Heavy Sakura Ore,重櫻礦石
@@ -8298,8 +8298,8 @@ index,source,target
 8296,Strange Stone,奇妙石
 8297,Strange Stick,奇棒
 8298,Christmas Pouch,聖誕小袋
-8299,Christmas Coin,聖誕硬幣
-8300,Strange Coin,奇硬幣
+8299,Christmas Coin,硬幣【聖誕】
+8300,Strange Coin,硬幣【奇】
 8301,Strange Talisman,奇護符
 8302,Sweet Hope,甜希望
 8303,Sweet Love,甜愛
@@ -8337,7 +8337,7 @@ index,source,target
 8335,Horn Coin,角硬幣
 8336,Crimson GS Tkt,深紅ＧＳ票
 8337,White GS Tkt,白ＧＳ票
-8338,Prosperity Coin,泰里法硬幣
+8338,Prosperity Coin,硬幣【繁榮】
 8339,E Vang Tkt,老沸血吼票
 8340,"Porta Ore ""Sprkl""",波爾塔礦石「閃」
 8341,GTUNE Tkt,ＧＴＵＮＥ票
@@ -8962,9 +8962,9 @@ index,source,target
 8960,Deep Sea Chub,深海毛毒怪
 8961,Lava King Crab,熔岩王蟹
 8962,Arctic Salmon,沸血吼鮭
-8963,Golden Coin G,黄金硬幣Ｇ
-8964,Trial Coin G,試硬幣Ｇ
-8965,Aniv. Memory Coin,鈿終極記憶硬幣
+8963,Golden Coin G,硬幣【黄金Ｇ】
+8964,Trial Coin G,硬幣【試煉Ｇ】
+8965,Aniv. Memory Coin,硬幣【週年】
 8966,Gacha Lucky Charm,轉蛋幸運護符
 8967,Acid Pepper,酸椒
 8968,Snow Powder,雪粉末
@@ -9179,9 +9179,9 @@ index,source,target
 9177,カルド鉱石・栄,可魯多鉱石・栄
 9178,Ornamental Grass,觀賞草
 9179,Eastern Wool,東的毛
-9180,Red Cat Tears,赤猫涙
+9180,Red Cat Tears,猫涙・赤
 9181,Evil Cat Tears,惡猫涙
-9182,King's Medal,王Ｓ勳章
+9182,King's Medal,勳章【王】
 9183,Thank You Ⅶ,感謝汝Ⅶ
 9184,Franc BM G,法郎劍士Ｇ
 9185,Franc BM GF,法郎劍士ＧＦ
@@ -9515,9 +9515,9 @@ index,source,target
 9513,FG1 Tkt 5,ＦＧ１票・５
 9514,FG1 Tkt 6,ＦＧ１票・６
 9515,FG1 Tkt 7,ＦＧ１票・７
-9516,New World Bond Ⅰ,新世界絆Ⅰ
-9517,New World Bond Ⅱ,新世界絆Ⅱ
-9518,New World Bond Ⅲ,新世界絆Ⅲ
+9516,New World Bond Ⅰ,新世界之絆Ⅰ
+9517,New World Bond Ⅱ,新世界之絆Ⅱ
+9518,New World Bond Ⅲ,新世界之絆Ⅲ
 9519,Hill D Tkt,戰意Ｄ票
 9520,Ruida Tkt,深邃票
 9521,Foret R Tkt,綠林Ｒ票
@@ -9572,7 +9572,7 @@ index,source,target
 9570,Finanto Tkt,光城票
 9571,Red Capsicum,赤証明球
 9572,ルレイアゲハ,魯雷亞鳳蝶
-9573,Master's Book,鍵盤歌Ｓ書
+9573,Master's Book,師匠之書
 9574,Silicanite,怪轟龍
 9575,激光鎚の報告書,激光鎚的報告書
 9576,B.Iron Polyhedron,Ｂ鉄多面体
@@ -9595,7 +9595,7 @@ index,source,target
 9593,P.Gyp Lightcrystal,紫屍光結晶
 9594,W.Espi Rage Spike,棘白龍的憤怒棘
 9595,W.Espi Venom Spike,棘白龍的猛毒棘
-9596,W.Espi Direshard,棘白龍紫黑鍵
+9596,W.Espi Direshard,棘白龍的凶碎片
 9597,W.Espi Direcortex,棘白龍紋章觸
 9598,W.Espi Swordspike,棘白龍劍棘
 9599,W.Espi Dense Shell,棘白龍的緻密殻
@@ -9671,16 +9671,16 @@ index,source,target
 9669,Shining Fittings,輝耀装具
 9670,Necronomicon,觸媒研
 9671,Seedy Magazine,研磨尾鈿終極
-9672,Beautiful Book,美書
+9672,Beautiful Book,美之書
 9673,Cute Book,可愛之書
 9674,Magnificent Novel,壮麗小説
-9675,Big Book,大書
-9676,Small Book,小書
+9675,Big Book,大之書
+9676,Small Book,小之書
 9677,Musical Memories,牙血鐵記憶
 9678,Old Lamp,舊灯
 9679,True Hairpin,真紋章觸
-9680,Oath Ring・Gold,誓戒指・金
-9681,Oath Ring・Silver,誓戒指・銀
+9680,Oath Ring・Gold,誓約戒指・金
+9681,Oath Ring・Silver,誓約戒指・銀
 9682,Soft Black Fabric,軟黒布
 9683,Broken Red Parts,破損赤部位
 9684,Broken Blue Parts,破損青部位
@@ -9735,7 +9735,7 @@ index,source,target
 9733,Pink Thorny Vine,粉荊棘藤
 9734,Golden Thorny Vine,黄金荊棘藤
 9735,Broken Glass,破損玻璃
-9736,Peach Glass Shards,桃玻璃的碎片
+9736,Peach Glass Shards,桃玻璃碎片
 9737,Star Leaf,星的葉
 9738,Akazome Fruit,雷托吉果實
 9739,Aozome Fruit,極征服果實
@@ -10118,7 +10118,7 @@ index,source,target
 10116,Raw Soul [High],生魂上位
 10117,Raw Soul [Top],生魂最上位
 10118,Distorted Board,歪板
-10119,Burnt Metal Shards,焦金属的碎片
+10119,Burnt Metal Shards,焦金屬碎片
 10120,Golden Fruit,黄金果實
 10121,Bright Stone,明亮石
 10122,Crackling Stones,爆鳴石
@@ -10355,7 +10355,7 @@ index,source,target
 10353,Dummy 10353,(dummy)
 10354,ロワファル生産券,羅瓦法爾生産券
 10355,Blue Ruin Document,蒼毀文書
-10356,Starry Night Book,星夜書
+10356,Starry Night Book,星夜之書
 10357,Done Cat Tkt Head,完成猫票的頭
 10358,Done Cat Tkt Torso,完成猫票胴
 10359,Done Cat Tkt Arms,完成猫票腕
@@ -10773,7 +10773,7 @@ index,source,target
 10771,Aku Cat Barrel,惡猫桶
 10772,Stormsoul Grass,嵐魂草
 10773,Hillsoul Grass,希爾爾魂草
-10774,Dusk ・ Navy Blue,霧野泰紺青
+10774,Dusk ・ Navy Blue,黄昏・紺青
 10775,High Purecrystal,高淨結晶
 10776,Tower Purecrystal,淨結晶【天廊】
 10777,Reisei Petal,吉阿爾花瓣
@@ -11152,12 +11152,12 @@ index,source,target
 11150,Strong Attack SA8,剛撃ＳＡ８
 11151,Issen SA8,一閃ＳＡ８
 11152,Exploit SA8,弱點特效ＳＡ８
-11153,Motion・HH 1,狩獵笛動作１
-11154,Motion・Lance 1,長槍動作１
+11153,Motion・HH 1,動作・狩獵笛１
+11154,Motion・Lance 1,動作・長槍１
 11155,Orange Wyvernspike,橙龍的棘
-11156,Trial Gacha Coin,試轉蛋硬幣
+11156,Trial Gacha Coin,硬幣【試轉蛋】
 11157,Dummy 11157,(dummy)
-11158,Singed Book,焦書
+11158,Singed Book,焦之書
 11159,Courage gem,勇気的寶玉
 11160,Glittering Gem,煌めく的寶玉
 11161,Divine Gem,神寶玉
@@ -11170,8 +11170,8 @@ index,source,target
 11168,Nickname Ticket,稱號票
 11169,Personality Ticket,性格票
 11170,Purple Black Ore,紫黑礦石
-11171,Motion・DS 1,雙劍動作１
-11172,Motion・Hammer 1,動作鎚１
+11171,Motion・DS 1,動作・雙劍１
+11172,Motion・Hammer 1,動作・鎚１
 11173,Ancient Book,古代書
 11174,Cardia Tkt,鐵初音票
 11175,Munimy Tkt,恩流浪票
@@ -11249,8 +11249,8 @@ index,source,target
 11247,Halk Thndr Feed,雷鷹飼料
 11248,Halk Dragn Feed,鷹球紋章餌
 11249,Halk Ice Feed,鷹氷飼料
-11250,Motion・Bow 1,弓動作１
-11251,Motion・GL 1,銃槍動作１
+11250,Motion・Bow 1,動作・弓１
+11251,Motion・GL 1,動作・銃槍１
 11252,Pallone Wve Velvet,氣球波絲絨
 11253,Pallone Wve Calico,球波比納桃
 11254,Pallone Wve Gold,氣球波金
@@ -11277,9 +11277,9 @@ index,source,target
 11275,G.Plesioth Finblade,翠水龍的鰭刃
 11276,G.PlesiothTerribFin,翠水龍的恐怖鰭
 11277,G.Plesi Bubble Gem,水龍的緑泡沫寶玉
-11278,Gesture・SnS Ⅰ,姿勢片手劍Ⅰ
-11279,Gesture・LS Ⅰ,太刀的姿勢Ⅰ
-11280,Gesture・HBG Ⅰ,重弩的姿勢Ⅰ
+11278,Gesture・SnS Ⅰ,姿勢・片手劍Ⅰ
+11279,Gesture・LS Ⅰ,姿勢・太刀Ⅰ
+11280,Gesture・HBG Ⅰ,姿勢・重弩Ⅰ
 11281,True Soul Ball G,真魂球Ｇ
 11282,True Soul Ball,真魂球
 11283,Dragon Crystal Gem,龍的結晶寶玉
@@ -11353,11 +11353,11 @@ index,source,target
 11351,P.White Flower Petal,粉白花花瓣
 11352,Night Sky Yarn,夜空糸
 11353,F. Pttrn Hachimaki,Ｆ龍鎧沸鉢巻
-11354,Sparkling Mtl Shard,煌紋章觸的碎片
+11354,Sparkling Mtl Shard,煌金屬碎片
 11355,Frozen Metal Pieces,凍結金屬片
-11356,Argent Book,銀書
-11357,Blood Stained Book,血波奇可書
-11358,Blackened Book,服拉比書
+11356,Argent Book,白銀之書
+11357,Blood Stained Book,血染之書
+11358,Blackened Book,黒化之書
 11359,Treasured Flwr Bskt,媒研磨努波奇努波奇
 11360,Some Old Bone,某根舊骨
 11361,White Melody,白旋律
@@ -11382,10 +11382,10 @@ index,source,target
 11380,Gureadomosu Proof,水砦龍之証
 11381,Power Ritual・Red,力量儀式・赤
 11382,Power Ritual・Blue,力量儀式・青
-11383,Power Ritual・Dark,力量儀式闇
+11383,Power Ritual・Dark,力量儀式・闇
 11384,Purity Ritual・Red,純潔儀式・赤
 11385,Purity Ritual・Blue,純潔儀式・青
-11386,Purity Ritual・Dark,純潔儀式闇
+11386,Purity Ritual・Dark,純潔儀式・闇
 11387,"Cats Eye Gem ""Green""",猫眼寶玉．緑
 11388,Assault Sand Iron,強襲沙鐵
 11389,Brilliant Red Cloth,比納桃赤布
@@ -11461,7 +11461,7 @@ index,source,target
 11459,Patina Jewel,銅緑珠
 11460,Ebony Jewel,黒檀珠
 11461,Gentiana Jewel,龍膽珠
-11462,Heaven Book [BluPnk],天書里艾恩
+11462,Heaven Book [BluPnk],天之書【青粉】
 11463,Elegant Ancient Docs,優雅古代文書
 11464,Bleak Ancient Docs,螺鈿終古代文書
 11465,Anc.HopeStone [Org],古代希望石［橙］
@@ -11698,7 +11698,7 @@ index,source,target
 11696,Blazing Grace Gem Ⅰ,熾恩寵寶玉Ⅰ
 11697,Blazing Grace Gem Ⅱ,熾恩寵寶玉Ⅱ
 11698,NP G Finesse Mat,ＮＰＧ精巧素材
-11699,Tower Cost Book,費書【天廊】
+11699,Tower Cost Book,費用之書【天廊】
 11700,NP SnS Mat,ＮＰ片手劍素材
 11701,B.Diablos Worn Shl,黑角龍旧的殻
 11702,B.Diablos Worn Fng,黑角龍旧的牙
@@ -11784,9 +11784,9 @@ index,source,target
 11782,Tower Para S. Lv2,麻痺彈ＬＶ２【天廊】
 11783,Tower Sleep S. LV1,睡眠彈ＬＶ１【天廊】
 11784,Tower Sleep S. Lv2,睡眠彈ＬＶ２【天廊】
-11785,Gesture・LBG Ⅰ,輕弩的姿勢Ⅰ
-11786,Gesture・GS Ⅰ,大劍的姿勢Ⅰ
-11787,Gesture・Tonfa Ⅰ,姿勢穿刺棍Ⅰ
+11785,Gesture・LBG Ⅰ,姿勢・輕弩Ⅰ
+11786,Gesture・GS Ⅰ,姿勢・大劍Ⅰ
+11787,Gesture・Tonfa Ⅰ,姿勢・穿鑿棍Ⅰ
 11788,Gasurabazura Hide,怒貌龍的皮
 11789,Gasurabazura Scale,怒貌龍的鱗
 11790,Gasurabazura Fin,怒貌龍的鰭
@@ -12013,9 +12013,9 @@ index,source,target
 12011,Zinogre Skymerald,雷狼龍艾恩流
 12012,Zinogre Lash,雷狼龍的靭尾
 12013,Zinogre Hardhorn,雷狼龍的堅角
-12014,Sealed Book,恩流浪書
-12015,Binding Book,球紋章書
-12016,Cleansing Book,恩流浪書
+12014,Sealed Book,封印之書
+12015,Binding Book,束縛之書
+12016,Cleansing Book,淨化之書
 12017,Fate Sword Tkt,運命剣票
 12018,Karma Sword Tkt,業剣票
 12019,End Hammer Tkt,終焉大錘票
@@ -12445,20 +12445,20 @@ index,source,target
 12443,Friendship Proof Yllw,友情之証・黄
 12444,Friendship Proof Pink,友情之証・粉
 12445,Friendship Proof Pur,友情之証・紫
-12446,Bond Coin,絆硬幣
-12447,Meisei Coin,鍵盤歌硬幣
-12448,Shozo Coin,聲急証硬幣
-12449,Rare Coin,稀有硬幣
-12450,Nyanya Coin,泰里法硬幣
+12446,Bond Coin,硬幣【絆】
+12447,Meisei Coin,硬幣【明星】
+12448,Shozo Coin,硬幣【正造】
+12449,Rare Coin,硬幣【稀有】
+12450,Nyanya Coin,硬幣【猫猫】
 12451,Gook Coin,古古鴨的硬幣
-12452,Rusty Coin,生錆硬幣
-12453,Starry Sky Coin,星空硬幣
-12454,Sunlight Coin,陽光硬幣
-12455,Moonlight Coin,月光硬幣
-12456,Mysterious Coin,極征服硬幣
-12457,Memory Coin,記憶硬幣
-12458,Oblivion Coin,法磁化硬幣
-12459,Bright Coin,輝耀硬幣
+12452,Rusty Coin,硬幣【生錆】
+12453,Starry Sky Coin,硬幣【星空】
+12454,Sunlight Coin,硬幣【陽光】
+12455,Moonlight Coin,硬幣【月光】
+12456,Mysterious Coin,硬幣【神秘】
+12457,Memory Coin,硬幣【記憶】
+12458,Oblivion Coin,硬幣【忘却】
+12459,Bright Coin,硬幣【輝耀】
 12460,Raviente Blk Hide,大巖龍的皮
 12461,Raviente Blk Scale,大巖龍的鱗
 12462,Raviente Blk Blood,大巖龍的血
@@ -12510,11 +12510,11 @@ index,source,target
 12508,Grudg. Ancient Docs,鍵盤歌古代文書
 12509,Veitch Ticket,拉比納票
 12510,White Beak,白色的喙
-12511,Sakura Night Book,櫻夜書
+12511,Sakura Night Book,櫻夜之書
 12512,Guild Symbol,公會標誌
-12513,Shiusu Coin,四隅硬幣
-12514,Shiusu Mining Coin,四隅阿爾布硬幣
-12515,Shiusu Insect Coin,四隅蟲硬幣
+12513,Shiusu Coin,硬幣【四隅】
+12514,Shiusu Mining Coin,硬幣【四隅採掘】
+12515,Shiusu Insect Coin,硬幣【四隅蟲】
 12516,ShiusuGatheringCoin,四隅採取硬幣
 12517,採集のコイン４Ｇ,採集的硬幣４Ｇ
 12518,採集のコイン５Ｇ,採集的硬幣５Ｇ
@@ -12803,10 +12803,10 @@ index,source,target
 12801,Dummy 12801,(dummy)
 12802,Dummy 12802,(dummy)
 12803,Dummy 12803,(dummy)
-12804,Gesture・HBG Ⅱ,重弩的姿勢Ⅱ
-12805,Gesture・GL Ⅱ,銃槍的姿勢Ⅱ
-12806,Gesture・GS Ⅱ,大劍的姿勢Ⅱ
-12807,Gesture・Tonfa Ⅱ,姿勢穿刺棍Ⅱ
+12804,Gesture・HBG Ⅱ,姿勢・重弩Ⅱ
+12805,Gesture・GL Ⅱ,姿勢・銃槍Ⅱ
+12806,Gesture・GS Ⅱ,姿勢・大劍Ⅱ
+12807,Gesture・Tonfa Ⅱ,姿勢・穿鑿棍Ⅱ
 12808,Odi Absolute Shl,弩岩龍的絶対殻
 12809,Odi Absolute Scale,弩岩龍的絶對鱗
 12810,Odi Mandible,弩岩龍的顎
@@ -12862,12 +12862,12 @@ index,source,target
 12860,Dark Cat Seal White,猫的闇封印白
 12861,Dark Cat Seal Black,猫的闇封印黒
 12862,Dark Cat Seal Gold,猫的闇封印金
-12863,Dark Cat Button Red,闇猫鈕赤
-12864,Dark Cat Button Blue,闇猫鈕青
-12865,Dark Cat Button Peach,闇猫鈕桃
-12866,Dark Cat Button White,闇猫鈕白
-12867,Dark Cat Button Black,闇猫鈕黒
-12868,Dark Cat Button Gold,闇猫鈕金
+12863,Dark Cat Button Red,闇猫鈕・赤
+12864,Dark Cat Button Blue,闇猫鈕・青
+12865,Dark Cat Button Peach,闇猫鈕・桃
+12866,Dark Cat Button White,闇猫鈕・白
+12867,Dark Cat Button Black,闇猫鈕・黒
+12868,Dark Cat Button Gold,闇猫鈕・金
 12869,Lost Lens,失鏡
 12870,Freeze Res SC1,耐凍結ＳＣ１
 12871,Ice Age SA1,冰河ＳＡ１
@@ -13237,7 +13237,7 @@ index,source,target
 13235,Saint GN GX3,聖射手ＧＸ３
 13236,Saint GN GX4,聖射手ＧＸ４
 13237,Saint GN GX5,聖射手ＧＸ５
-13238,Golden Night Book,黄金夜書
+13238,Golden Night Book,黄金夜之書
 13239,Kushala BM G,鋼龍的BM G
 13240,Kushala BM GF,鋼龍的BM GF
 13241,Kushala BM GX1,鋼龍的BM GX1
@@ -13310,19 +13310,19 @@ index,source,target
 13308,Norukku GN GX5,諾魯克射手ＧＸ５
 13309,Lavish Attack SA1,豪撃ＳＡ１
 13310,Fortification SA1,強化ＳＡ１
-13311,G Attack・Draw,Ｇ攻撃抽
-13312,G Issen・Draw,Ｇ一閃抽
-13313,G Attack・Herb,Ｇ攻撃草
-13314,G Issen・Herb,Ｇ一閃草
-13315,G Protect・Status,Ｇ守状態
-13316,G Protect・Exploit,Ｇ守弱點特效
-13317,G Attack・Dissolve,Ｇ攻撃鐵初音
-13318,G Attack・Blaze,Ｇ攻撃炎
+13311,G Attack・Draw,攻撃・拔刀Ｇ
+13312,G Issen・Draw,一閃・拔刀Ｇ
+13313,G Attack・Herb,攻撃・草藥Ｇ
+13314,G Issen・Herb,一閃・草藥Ｇ
+13315,G Protect・Status,守護・状態Ｇ
+13316,G Protect・Exploit,守護・弱點特效Ｇ
+13317,G Attack・Dissolve,攻撃・溶解Ｇ
+13318,G Attack・Blaze,攻撃・炎Ｇ
 13319,Attack 4 Deco,攻撃力的４裝飾品
-13320,G Attack・Resist,Ｇ攻撃抵抗
-13321,G Issen・Resist,Ｇ一閃抵抗
+13320,G Attack・Resist,攻撃・抵抗Ｇ
+13321,G Issen・Resist,一閃・抵抗Ｇ
 13322,Spec.Flower Basket,証明球籃
-13323,Golden Book,黄金書
+13323,Golden Book,黄金之書
 13324,Shining Fur,閃亮的毛
 13325,Solemn Thorns,厳粛的棘
 13326,Waka Ticket,若票
@@ -13335,7 +13335,7 @@ index,source,target
 13333,Kirin Sinew,麒麟黑鍵盤
 13334,Kirin Silver Mane,麒麟的銀的鬣毛
 13335,Kirin Purehorn,麒麟磁化角
-13336,Ruko.Pureshard,極龍姆努波
+13336,Ruko.Pureshard,極龍的純碎片
 13337,Ruko.Purecortex,極龍急証明
 13338,Ruko.Dynamo Horn,極龍的動力角
 13339,Ruko.Magnetic Wve,極龍磁気波
@@ -13367,8 +13367,8 @@ index,source,target
 13365,Dummy 13365,(dummy)
 13366,Porta Pyroxene Green,波爾塔輝石・緑
 13367,Porta Pyroxene Sakura,波爾塔輝石・櫻
-13368,G Issen・Vigor,Ｇ一閃努波奇
-13369,G Issen・Rage,憤怒的Ｇ一閃
+13368,G Issen・Vigor,一閃・活力Ｇ
+13369,G Issen・Rage,一閃・憤怒Ｇ
 13370,Dummy 13370,(dummy)
 13371,Dummy 13371,(dummy)
 13372,Dummy 13372,(dummy)
@@ -13477,7 +13477,7 @@ index,source,target
 13475,Peach Orb,桃球
 13476,Green Orb,緑球
 13477,Purple Orb,紫球
-13478,Silver Book,銀書
+13478,Silver Book,銀之書
 13479,Bond Stone,絆石
 13480,Unknown Blueprint,未知設計図
 13481,Cosmic Soul Grass,宇宙魂草
@@ -13627,8 +13627,8 @@ index,source,target
 13625,Dummy 13625,(dummy)
 13626,Tio Tkt,托吉阿票
 13627,Zio Tkt,怪轟龍票
-13628,Light Twr SAF Book,光塔劍槍書
-13629,Dark Twr SAF Book,闇塔劍槍書
+13628,Light Twr SAF Book,光劍斧之書【天廊】
+13629,Dark Twr SAF Book,闇劍斧之書【天廊】
 13630,NK3 Tkt 1,ＮＫ３票・１
 13631,NK3 Tkt 2,ＮＫ３票・２
 13632,NK3 Tkt 3,ＮＫ３票・３
@@ -14063,7 +14063,7 @@ index,source,target
 14061,Keoaru Large Claw,焔嶽龍的爪
 14062,Keoaru Shaped Shl,焦土龍流浪紫的殻
 14063,Legendary Rasta Tkt,伝説光明票
-14064,Storage Guide・Extreme,貯導極
+14064,Storage Guide・Extreme,倉庫指南・極
 14065,IC Sword Tkt,ＩＣ剣票
 14066,LH Sword Tkt,ＬＨ剣票
 14067,G Reaper Tkt,Ｇ・死神票
@@ -14292,11 +14292,11 @@ index,source,target
 14290,水銀の書,水銀的書
 14291,Reflect Up SZ,反射強化ＳＺ
 14292,Stylish Up SZ,時装強化ＳＺ
-14293,Hunter's Book 1,獵人的Ｓ書１
-14294,Hunter's Book 2,獵人的Ｓ書２
-14295,Hunter's Book 3,獵人的Ｓ書３
-14296,Hunter's Book 4,獵人的Ｓ書４
-14297,Hunter's Book 5,獵人的Ｓ書５
+14293,Hunter's Book 1,獵人之書１
+14294,Hunter's Book 2,獵人之書２
+14295,Hunter's Book 3,獵人之書３
+14296,Hunter's Book 4,獵人之書４
+14297,Hunter's Book 5,獵人之書５
 14298,Zenith Mog Mat,極位莫格素材
 14299,Ricante Mat,里坎素材
 14300,Chatore BM G,夏托雷劍士Ｇ
@@ -14314,7 +14314,7 @@ index,source,target
 14312,Chatore GN GX4,夏托雷射手ＧＸ４
 14313,Chatore GN GX5,夏托雷射手ＧＸ５
 14314,Muruta D Tkt,村田Ｄ票
-14315,Hunter's Book 6,獵人的Ｓ書６
+14315,Hunter's Book 6,獵人之書６
 14316,Dummy 14316,(dummy)
 14317,Dummy 14317,(dummy)
 14318,Dummy 14318,(dummy)
@@ -14442,17 +14442,17 @@ index,source,target
 14440,Halgan D Tkt,吉阿爾Ｄ票
 14441,Abyad D Tkt,牙血鐵Ｄ票
 14442,Burnt Frost Scale,焦霜的鱗
-14443,SP Book,ＳＰ書
-14444,Cost Book,費書
+14443,SP Book,ＳＰ之書
+14444,Cost Book,費用之書
 14445,Road Respec,可雷托征服拉
 14446,Wht Fatalis D Tik,白黒龍Ｄ納桃毛
 14447,Dummy 14447,(dummy)
 14448,Dummy 14448,(dummy)
 14449,Dummy 14449,(dummy)
-14450,G Issen・Protect,Ｇ一閃守
-14451,G Strong・Worlds,Ｇ強靭界
-14452,G Bullet・Worlds,Ｇ弾界
-14453,G Flash・Clad,Ｇ閃光纏
+14450,G Issen・Protect,一閃・守護Ｇ
+14451,G Strong・Worlds,強靭・界Ｇ
+14452,G Bullet・Worlds,彈・界Ｇ
+14453,G Flash・Clad,閃光・纏Ｇ
 14454,Wht Fatalis BM GX1,白黒龍劍士ＧＸ１
 14455,Wht Fatalis BM GX2,白黒龍劍士ＧＸ２
 14456,Wht Fatalis BM GX3,白黒龍劍士ＧＸ３
@@ -14783,16 +14783,16 @@ index,source,target
 14781,Rizuvue GN G,里茲維射手Ｇ
 14782,Rizuvue GN GF,里茲維射手ＧＦ
 14783,Artisan 2 G,匠２Ｇ
-14784,G Break・Blade,Ｇ破刃
-14785,G Break・Gunner,Ｇ破射手
-14786,G Break・Protect,Ｇ破守
-14787,G Attack・Style,Ｇ攻撃流
-14788,G Attack・Sword,Ｇ攻撃劍
-14789,G Attack・Clad,Ｇ攻撃纏
-14790,G Attack・Rush,Ｇ攻撃突進
-14791,G Attack・Cease,Ｇ攻撃止
-14792,G Attack・Realms,Ｇ攻撃界
-14793,G Issen・Realms,Ｇ一閃界
+14784,G Break・Blade,破壞・刃Ｇ
+14785,G Break・Gunner,破壞・射手Ｇ
+14786,G Break・Protect,破壞・守護Ｇ
+14787,G Attack・Style,攻撃・流派Ｇ
+14788,G Attack・Sword,攻撃・劍Ｇ
+14789,G Attack・Clad,攻撃・纏Ｇ
+14790,G Attack・Rush,攻撃・突進Ｇ
+14791,G Attack・Cease,攻撃・制止Ｇ
+14792,G Attack・Realms,攻撃・領域Ｇ
+14793,G Issen・Realms,一閃・領域Ｇ
 14794,Point Breakthrough SA1,一點突破ＳＡ１
 14795,Ragri PT Tkt,拉瓦里ＰＴ票
 14796,Zauri PT Tkt,急証明ＰＴ票
@@ -14887,9 +14887,9 @@ index,source,target
 14885,Dora Grief Tail,冥雷龍的尾
 14886,Dora Erosion Tail,冥雷龍的尾
 14887,EXTELLA Gacha Token,極星轉蛋代幣
-14888,Gesture・SAF Ⅰ,姿勢劍槍Ⅰ
-14889,Gesture・SAF Ⅱ,姿勢劍槍Ⅱ
-14890,Gesture・Dance Ⅱ,姿勢舞Ⅱ
+14888,Gesture・SAF Ⅰ,姿勢・劍斧Ⅰ
+14889,Gesture・SAF Ⅱ,姿勢・劍斧Ⅱ
+14890,Gesture・Dance Ⅱ,姿勢・舞Ⅱ
 14891,Kaifa Ticket,開花票
 14892,Rainbow Powder,彩虹粉末
 14893,Freezing Iron,凍結鐵
@@ -14938,11 +14938,11 @@ index,source,target
 14936,Bonne GN GX3,博恩射手ＧＸ３
 14937,Bonne GN GX4,博恩射手ＧＸ４
 14938,Bonne GN GX5,博恩射手ＧＸ５
-14939,G Abnorm・Vamp,Ｇ異常吸
-14940,G Abnorm・Clad,Ｇ異常纏
-14941,G Abnorm・Draw,Ｇ異常抽
-14942,G Abnorm・Boost,Ｇ異常強化
-14943,G Abnorm・Obscure,Ｇ異常幽
+14939,G Abnorm・Vamp,異常・吸血Ｇ
+14940,G Abnorm・Clad,異常・纏Ｇ
+14941,G Abnorm・Draw,異常・拔刀Ｇ
+14942,G Abnorm・Boost,異常・強化Ｇ
+14943,G Abnorm・Obscure,異常・幽晦Ｇ
 14944,Abnormal Jewel,異常珠
 14945,Obscurity Up Sigil,紋章的幽闇強化
 14946,Renka C Tkt,連歌Ｃ票
@@ -15089,12 +15089,12 @@ index,source,target
 15087,Cassius GN GX3,可西烏斯射手ＧＸ３
 15088,Cassius GN GX4,可西烏斯射手ＧＸ４
 15089,Cassius GN GX5,可西烏斯射手ＧＸ５
-15090,G Spacing・Draw,Ｇ間隔抽
-15091,G Spacing・Vamp,Ｇ間隔吸
-15092,G Spacing・Mount,騎乘Ｇ間隔
-15093,G Spacing・Gentle,Ｇ間隔柔
-15094,G Spacing・Bullets,Ｇ間隔毒怪轟
-15095,G Spacing・Steady,Ｇ間隔穏
+15090,G Spacing・Draw,間合・拔刀Ｇ
+15091,G Spacing・Vamp,間合・吸血Ｇ
+15092,G Spacing・Mount,間合・騎乘Ｇ
+15093,G Spacing・Gentle,間合・柔Ｇ
+15094,G Spacing・Bullets,間合・彈Ｇ
+15095,G Spacing・Steady,間合・穏Ｇ
 15096,Melas D Tkt,轟龍鎧Ｄ票
 15097,Robin Neko Ticket,吼牙血猫票
 15098,Spacing SA1,間合ＳＡ１
@@ -15211,11 +15211,11 @@ index,source,target
 15209,Desutora Tkt,德斯托票
 15210,Desutora D Tkt,德斯托Ｄ票
 15211,Kashoku D Tkt,華飾Ｄ票
-15212,Gesture・Sit Ⅰ,姿勢吼牙血Ⅰ
-15213,Gesture・Dance Ⅲ,姿勢舞Ⅲ
-15214,Gesture・Dance Ⅳ,姿勢舞Ⅳ
-15215,Gesture・Dance Ⅴ,姿勢舞Ⅴ
-15216,Gesture・Thanks,姿勢波奇可
+15212,Gesture・Sit Ⅰ,姿勢・坐Ⅰ
+15213,Gesture・Dance Ⅲ,姿勢・舞Ⅲ
+15214,Gesture・Dance Ⅳ,姿勢・舞Ⅳ
+15215,Gesture・Dance Ⅴ,姿勢・舞Ⅴ
+15216,Gesture・Thanks,姿勢・感謝
 15217,Shaka Poison Lump,毒沙加團
 15218,Shaka Venom Lump,沙加猛毒團
 15219,Portane,極征服
@@ -15230,8 +15230,8 @@ index,source,target
 15228,Light Invitation,光拉比納
 15229,Kiyoshi D Tkt,鎧沸血Ｄ票
 15230,AnivaMemoryGachaTkt,聲急票
-15231,Tokimeki Coin,沸血吼硬幣
-15232,G Abnorm・Protect,Ｇ異常守
+15231,Tokimeki Coin,硬幣【心動】
+15232,G Abnorm・Protect,異常・守護Ｇ
 15233,Lynx BM GX1,山猫劍士ＧＸ１
 15234,Lynx BM GX2,山猫劍士ＧＸ２
 15235,Lynx BM GX3,山猫劍士ＧＸ３
@@ -15265,7 +15265,7 @@ index,source,target
 15263,MS Merit Low,磁界銃功績下位
 15264,MS Merit Mid,磁界銃功績中級
 15265,MS Merit High,磁界銃功績高級
-15266,Storage Guide・Illusion,貯導幻
+15266,Storage Guide・Illusion,倉庫指南・幻
 15267,Hiden Stamp・SnS,秘傳印章片手劍
 15268,Hiden Stamp・DS,雙劍秘傳印章
 15269,Hiden Stamp・GS,大劍秘傳印章
@@ -15516,10 +15516,10 @@ index,source,target
 15514,青年の情報②,青年的情報②
 15515,青年のつぶやき,青年的低語
 15516,Gesture・Solicitate,姿勢・勸誘
-15517,Gesture・Air Mic,姿勢空球紋章
-15518,Gesture・Air Guitar,姿勢空終極征
-15519,Gesture・Janken,姿勢波奇可
-15520,Gesture・Terror,姿勢磨尾虎
+15517,Gesture・Air Mic,姿勢・空中麥克風
+15518,Gesture・Air Guitar,姿勢・空中吉他
+15519,Gesture・Janken,姿勢・猜拳
+15520,Gesture・Terror,姿勢・恐怖
 15521,Masaha Ticket,真砂票
 15522,Masaha D Ticket,真砂Ｄ票
 15523,Masaha C Ticket,真砂Ｃ票
@@ -15528,19 +15528,19 @@ index,source,target
 15526,Furious Jewel,憤怒珠
 15527,Black Belt Jewel,黑帶珠
 15528,Lost Object,失物
-15529,Piping Hot Meat,野泰里熱肉
+15529,Piping Hot Meat,熱騰騰的肉
 15530,G Fire Res,Ｇ炎耐性
-15531,G Furious・Health,Ｇ狂體力
-15532,G Furious・Clad,Ｇ狂纏
-15533,G Furious・Assault,Ｇ狂強襲
-15534,G Furious・Rush,Ｇ狂突進
-15535,G Furious・Blade,Ｇ狂刃
-15536,G Furious・Ranged,Ｇ狂射
-15537,G Issen・Cease,Ｇ一閃止
-15538,G Attack・Vamp,Ｇ攻撃吸
-15539,G Attack・Abnorm,Ｇ攻撃異常
-15540,G Attack・Suprem,Ｇ攻撃征服拉
-15541,G Attack・Ranged,Ｇ攻撃射
+15531,G Furious・Health,憤怒・體力Ｇ
+15532,G Furious・Clad,憤怒・纏Ｇ
+15533,G Furious・Assault,憤怒・強襲Ｇ
+15534,G Furious・Rush,憤怒・突進Ｇ
+15535,G Furious・Blade,憤怒・刃Ｇ
+15536,G Furious・Ranged,憤怒・射撃Ｇ
+15537,G Issen・Cease,一閃・制止Ｇ
+15538,G Attack・Vamp,攻撃・吸血Ｇ
+15539,G Attack・Abnorm,攻撃・異常Ｇ
+15540,G Attack・Suprem,攻撃・至上Ｇ
+15541,G Attack・Ranged,攻撃・射撃Ｇ
 15542,MS Hiden? White,磁界銃秘傳白
 15543,MS Hiden? Red,磁界銃秘傳赤
 15544,MS Hiden? Black,磁界銃秘傳黒
@@ -15553,16 +15553,16 @@ index,source,target
 15551,MS Hiden EX? Red,磁界銃秘傳ＥＸ赤
 15552,MS Hiden EX? Black,磁界銃秘傳ＥＸ黒
 15553,MS Hiden EX? Blue,磁界銃秘傳ＥＸ青
-15554,G Rolling・Curtain,Ｇ瓦里艾毛毒怪
-15555,G Strong・Technique,Ｇ堅艾恩流
-15556,G Obscurity・Clad,Ｇ幽闇纏
-15557,G Spacing・Saver,Ｇ間隔節約
+15554,G Rolling・Curtain,迴轉・幕Ｇ
+15555,G Strong・Technique,強靭・技Ｇ
+15556,G Obscurity・Clad,幽晦・纏Ｇ
+15557,G Spacing・Saver,間合・節約Ｇ
 15558,Black Stone,黑石
 15559,Black Lava,黒熔岩
 15560,Wings of Goodness,翼未來迪
 15561,Wings of Passion,翼情熱
-15562,Highlands Diary・1,高地日記１
-15563,Highlands Diary・2,高地日記２
+15562,Highlands Diary・1,高地日記・１
+15563,Highlands Diary・2,高地日記・２
 15564,Highlands Report,高地急証明
 15565,Furious SA1 SA1,憤激ＳＡ１
 15566,Rush Up SZ,突進強化ＳＺ
@@ -15778,7 +15778,7 @@ index,source,target
 15776,Loli Tkt,法磁化票
 15777,Loli D Tkt,法磁化Ｄ票
 15778,Gears of Destiny,齒輪命運
-15779,Santa Gook Effigy,聖誕古克偶
+15779,Santa Gook Effigy,聖誕古克鴨偶
 15780,Onimusha D Tkt,鬼武者Ｄ票
 15781,Lion Soulstone,獅魂石
 15782,Rabbit Soulstone,兔魂石
@@ -15862,11 +15862,11 @@ index,source,target
 15860,G Thunder Res,雷的Ｇ耐性
 15861,G Ice Res,Ｇ氷耐性
 15862,G Dragon Res,龍的Ｇ耐性
-15863,G Trained・Attack,Ｇ熟練攻撃
-15864,G Trained・Clad,Ｇ熟練纏
-15865,G Trained・Flash,Ｇ熟練閃光
-15866,G Trained・Ceaseless,Ｇ熟練無尽
-15867,G Trained・Sword,Ｇ熟練劍
+15863,G Trained・Attack,熟練・攻撃Ｇ
+15864,G Trained・Clad,熟練・纏Ｇ
+15865,G Trained・Flash,熟練・閃光Ｇ
+15866,G Trained・Ceaseless,熟練・無尽Ｇ
+15867,G Trained・Sword,熟練・劍Ｇ
 15868,Nerishoku Mog Tkt,証明球莫格票
 15869,Rafan D Tkt,拉凡Ｄ票
 15870,Rafan C Tkt,拉凡Ｃ票
@@ -16199,16 +16199,16 @@ index,source,target
 16197,LS・Rush,太刀的突進
 16198,LS・Furious,太刀的狂
 16199,LS・Lavish Attack,太刀豪華攻撃
-16200,Hammer・Basic,大錘的基本
-16201,Hammer・G,大錘的Ｇ
-16202,Hammer・S. Attack,大錘的Ｓ攻撃
-16203,Hammer・Issen,大錘的一閃
-16204,Hammer・Charge Up,大錘充強化
-16205,Hammer・Thunder Cld,大錘雷艾恩流
-16206,Hammer・Ceaseless,大錘的無尽
-16207,Hammer・Rush,大錘的突進
-16208,Hammer・Furious,大錘的狂
-16209,Hammer・Point Break,大錘點破
+16200,Hammer・Basic,大錘・基本
+16201,Hammer・G,大錘Ｇ
+16202,Hammer・S. Attack,大錘・強攻撃
+16203,Hammer・Issen,大錘・一閃
+16204,Hammer・Charge Up,大錘・蓄力強化
+16205,Hammer・Thunder Cld,大錘・雷雲
+16206,Hammer・Ceaseless,大錘・無尽
+16207,Hammer・Rush,大錘・突進
+16208,Hammer・Furious,大錘・憤怒
+16209,Hammer・Point Break,大錘・點破
 16210,HH・Basic,狩獵笛的基本
 16211,HH・G,狩獵笛的Ｇ
 16212,HH・Strong Attack,狩獵笛的強靭攻撃
@@ -16219,16 +16219,16 @@ index,source,target
 16217,HH・Rush,狩獵笛的突進
 16218,HH・Furious,狩獵笛的狂
 16219,HH・Point Break,狩獵笛點破
-16220,Lance・Basic,長槍的基本
-16221,Lance・G,長槍的Ｇ
-16222,Lance・S. Attack,長槍的Ｓ攻撃
-16223,Lance・Issen,長槍的一閃
-16224,Lance・Frtfctn,長槍奇可雷
-16225,Lance・Obscurity,長槍的幽闇
-16226,Lance・Ceaseless,長槍的無尽
-16227,Lance・Rush,長槍的突進
-16228,Lance・Furious,長槍的狂
-16229,Lance・Reflect,長槍的反射
+16220,Lance・Basic,長槍・基本
+16221,Lance・G,長槍Ｇ
+16222,Lance・S. Attack,長槍・強攻撃
+16223,Lance・Issen,長槍・一閃
+16224,Lance・Frtfctn,長槍・要塞
+16225,Lance・Obscurity,長槍・幽晦
+16226,Lance・Ceaseless,長槍・無尽
+16227,Lance・Rush,長槍・突進
+16228,Lance・Furious,長槍・憤怒
+16229,Lance・Reflect,長槍・反射
 16230,GL・Basic,銃槍的基本
 16231,GL・G,銃槍的Ｇ
 16232,GL・Strong Attack,銃槍的強靭攻撃
@@ -16289,16 +16289,16 @@ index,source,target
 16287,HBG・Rush,重弩的突進
 16288,HBG・Furious,重弩的狂
 16289,HBG・Spacing,重弩間隔
-16290,Bow・Basic,弓的基本
-16291,Bow・G,弓的Ｇ
-16292,Bow・Strong Attack,弓的強靭攻撃
-16293,Bow・Issen,弓的一閃
-16294,Bow・Sniper,弓姆努波
-16295,Bow・Lavish Attack,弓豪華攻撃
-16296,Bow・Ceaseless,弓的無尽
-16297,Bow・Rush,弓的突進
-16298,Bow・Furious,弓的狂
-16299,Bow・Spacing,弓間隔
+16290,Bow・Basic,弓・基本
+16291,Bow・G,弓Ｇ
+16292,Bow・Strong Attack,弓・強攻撃
+16293,Bow・Issen,弓・一閃
+16294,Bow・Sniper,弓・狙撃
+16295,Bow・Lavish Attack,弓・豪攻撃
+16296,Bow・Ceaseless,弓・無尽
+16297,Bow・Rush,弓・突進
+16298,Bow・Furious,弓・憤怒
+16299,Bow・Spacing,弓・間合
 16300,青龍・剣聖功券,青龍・剣聖功券
 16301,青龍・双龍功券,青龍・双龍功券
 16302,青龍・剣王功券,青龍・剣王功券
@@ -16353,15 +16353,15 @@ index,source,target
 16351,Shuri D Tkt,朱里Ｄ票
 16352,Ricca Tkt,里可票
 16353,Ricca D Tkt,里可Ｄ票
-16354,Ninja Code・Land,忍者符地
-16355,Ninja Code・Sea,忍者暗号海
-16356,Ninja Code・Sky,忍者暗号空
-16357,Ninja Code・Heaven,忍者暗号天
+16354,Ninja Code・Land,忍術符・地
+16355,Ninja Code・Sea,忍術符・海
+16356,Ninja Code・Sky,忍術符・空
+16357,Ninja Code・Heaven,忍術符・天
 16358,Otono D Tkt,抑制螺Ｄ票
 16359,Hope D Tkt,希望Ｄ票
-16360,Gesture・Speak,姿勢制螺鈿
-16361,Gesture・Dance Ⅵ,姿勢舞Ⅵ
-16362,Gesture・Dance Ⅶ,姿勢舞Ⅶ
+16360,Gesture・Speak,姿勢・發言
+16361,Gesture・Dance Ⅵ,姿勢・舞Ⅵ
+16362,Gesture・Dance Ⅶ,姿勢・舞Ⅶ
 16363,SnS Soul Mass,片手劍魂塊
 16364,SnS Ribbon Mass,片手劍飾帶塊
 16365,SnS Merit Mass,片手劍功績塊

@@ -1,50 +1,46 @@
 {
   "section_id": "items-name",
-  "label": "艾路／貓／古古",
+  "label": "companion-fix",
   "translations": [
     {
       "index": "3012",
-      "target": "猫的頭【金色】"
+      "target": "金色的猫頭"
     },
     {
       "index": "3013",
-      "target": "猫的胸【金色】"
+      "target": "金色的猫胸"
     },
     {
       "index": "3014",
-      "target": "猫的腕【金色】"
+      "target": "金色的猫腕"
     },
     {
       "index": "3015",
-      "target": "猫的腰【金色】"
+      "target": "金色的猫腰"
     },
     {
       "index": "3016",
-      "target": "猫的脚【金色】"
+      "target": "金色的猫脚"
     },
     {
       "index": "3017",
-      "target": "猫的頭【銀色】"
+      "target": "銀色的猫頭"
     },
     {
       "index": "3018",
-      "target": "猫的胸【銀色】"
+      "target": "銀色的猫胸"
     },
     {
       "index": "3019",
-      "target": "猫的腕【銀色】"
+      "target": "銀色的猫腕"
     },
     {
       "index": "3020",
-      "target": "猫的腰【銀色】"
+      "target": "銀色的猫腰"
     },
     {
       "index": "3021",
-      "target": "猫的脚【銀色】"
-    },
-    {
-      "index": "3299",
-      "target": "猫霧"
+      "target": "銀色的猫脚"
     },
     {
       "index": "4471",
@@ -69,14 +65,6 @@
     {
       "index": "9180",
       "target": "猫涙・赤"
-    },
-    {
-      "index": "9181",
-      "target": "惡猫涙"
-    },
-    {
-      "index": "12775",
-      "target": "祭典猫鈴"
     },
     {
       "index": "12863",

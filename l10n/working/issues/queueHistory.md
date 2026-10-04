@@ -23,6 +23,9 @@
 | items-name／skill-cuffs（PA/PB/PC…） | **0** | **~10 min** | batch n=2877；格式如匠ＰＡ１；delta 完成 |
 | items-name／skill-cuffs（人審 QA） | **0** | **~2 min** | 採取→採集（84）；其餘無問題 → **qa_done** |
 | items-name／dummy（Dummy→(dummy)） | **0** | **~5 min** | n=676；charset 無「虛設」改沿用 (dummy)；delta |
+| items-name／dummy（人審 QA） | **0** | **~1 min** | review 無問題 → **qa_done** |
+| items-name／remainder（人審 QA） | **0** | **~1 min** | 舊 stub 結案；細審改看 all-rest → **qa_done** |
+| items-name／all-rest 首批 9 檔（人審） | **0** | **~30 min** | info／bond／chunks／coin／collectible／companion／consumable-like／cuff-base／dot-series → **qa_done**（暫不回寫） |
 | items-name／kits（防具套件 Kit） | **0** | **~5 min** | n=45；delta |
 | items-name／kits（人審 QA） | **0** | **~1 min** | wiki 無定名維持現譯 → **qa_done** |
 | items-name／monster-rest（中斷後全表重譯） | **0** | **~45 min** | n=438；片假名0；仍偏原文0；delta+bin |

@@ -1,0 +1,45 @@
+{
+  "section_id": "items-name",
+  "translations": [
+    {
+      "index": "3012",
+      "target": "猫的頭【金色】"
+    },
+    {
+      "index": "3013",
+      "target": "猫的胸【金色】"
+    },
+    {
+      "index": "3014",
+      "target": "猫的腕【金色】"
+    },
+    {
+      "index": "3015",
+      "target": "猫的腰【金色】"
+    },
+    {
+      "index": "3016",
+      "target": "猫的脚【金色】"
+    },
+    {
+      "index": "3017",
+      "target": "猫的頭【銀色】"
+    },
+    {
+      "index": "3018",
+      "target": "猫的胸【銀色】"
+    },
+    {
+      "index": "3019",
+      "target": "猫的腕【銀色】"
+    },
+    {
+      "index": "3020",
+      "target": "猫的腰【銀色】"
+    },
+    {
+      "index": "3021",
+      "target": "猫的脚【銀色】"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "section_id": "items-name",
-  "label": "塊／碎片／感謝色票",
+  "label": "chunks-shards-fix",
   "translations": [
     {
       "index": "1469",
@@ -45,10 +45,6 @@
     {
       "index": "6739",
       "target": "冰狐龍的凍結碎片"
-    },
-    {
-      "index": "6830",
-      "target": "眩目碎片"
     },
     {
       "index": "9596",

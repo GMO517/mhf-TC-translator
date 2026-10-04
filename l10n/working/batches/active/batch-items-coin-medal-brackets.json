@@ -1,0 +1,18 @@
+{
+  "section_id": "items-name",
+  "label": "coin-medal-brackets",
+  "translations": [
+    {
+      "index": "5383",
+      "target": "肉球印勳章【ＨＣ】"
+    },
+    {
+      "index": "8963",
+      "target": "黄金硬幣【Ｇ】"
+    },
+    {
+      "index": "8964",
+      "target": "試硬幣【Ｇ】"
+    }
+  ]
+}

@@ -7,4 +7,4 @@
 
 路徑：`archive/items-name/review-items-name__*.md`
 
-含：tickets／consumables／monster-materials／gathering／jewels／skill-cuffs／kits／monster-rest／misc。
+含：tickets／consumables／monster-materials／gathering／jewels／skill-cuffs／kits／monster-rest／misc／dummy／remainder。

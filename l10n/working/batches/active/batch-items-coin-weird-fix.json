@@ -1,0 +1,82 @@
+{
+  "section_id": "items-name",
+  "label": "coin-weird-fix",
+  "translations": [
+    {
+      "index": "1690",
+      "target": "硬幣【劍梅澤】"
+    },
+    {
+      "index": "2092",
+      "target": "硬幣【空】"
+    },
+    {
+      "index": "3583",
+      "target": "硬幣【輝】"
+    },
+    {
+      "index": "3584",
+      "target": "硬幣【霞】"
+    },
+    {
+      "index": "3585",
+      "target": "硬幣【閃】"
+    },
+    {
+      "index": "8300",
+      "target": "硬幣【奇】"
+    },
+    {
+      "index": "8338",
+      "target": "硬幣【繁榮】"
+    },
+    {
+      "index": "8964",
+      "target": "硬幣【試煉Ｇ】"
+    },
+    {
+      "index": "8965",
+      "target": "硬幣【週年】"
+    },
+    {
+      "index": "12446",
+      "target": "硬幣【絆】"
+    },
+    {
+      "index": "12447",
+      "target": "硬幣【明星】"
+    },
+    {
+      "index": "12448",
+      "target": "硬幣【正造】"
+    },
+    {
+      "index": "12450",
+      "target": "硬幣【猫猫】"
+    },
+    {
+      "index": "12456",
+      "target": "硬幣【神秘】"
+    },
+    {
+      "index": "12458",
+      "target": "硬幣【忘却】"
+    },
+    {
+      "index": "12513",
+      "target": "硬幣【四隅】"
+    },
+    {
+      "index": "12514",
+      "target": "硬幣【四隅採掘】"
+    },
+    {
+      "index": "12515",
+      "target": "硬幣【四隅蟲】"
+    },
+    {
+      "index": "15231",
+      "target": "硬幣【心動】"
+    }
+  ]
+}

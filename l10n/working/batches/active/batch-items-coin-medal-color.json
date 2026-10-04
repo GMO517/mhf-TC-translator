@@ -1,0 +1,82 @@
+{
+  "section_id": "items-name",
+  "label": "coin-medal-color",
+  "translations": [
+    {
+      "index": "1701",
+      "target": "獵人硬幣・赤"
+    },
+    {
+      "index": "1702",
+      "target": "獵人硬幣・青"
+    },
+    {
+      "index": "1703",
+      "target": "獵人硬幣・白"
+    },
+    {
+      "index": "1704",
+      "target": "獵人硬幣・粉"
+    },
+    {
+      "index": "1705",
+      "target": "獵人硬幣・紫"
+    },
+    {
+      "index": "1706",
+      "target": "獵人硬幣・黄"
+    },
+    {
+      "index": "1906",
+      "target": "表彰勳章・青"
+    },
+    {
+      "index": "1907",
+      "target": "表彰勳章・赤"
+    },
+    {
+      "index": "5702",
+      "target": "銀幣・銅"
+    },
+    {
+      "index": "7503",
+      "target": "Ｄ猫勳章・白"
+    },
+    {
+      "index": "7504",
+      "target": "Ｄ猫勳章・黄"
+    },
+    {
+      "index": "7505",
+      "target": "Ｄ猫勳章・赤"
+    },
+    {
+      "index": "7506",
+      "target": "Ｄ猫勳章・青"
+    },
+    {
+      "index": "7507",
+      "target": "Ｄ猫勳章・黒"
+    },
+    {
+      "index": "7508",
+      "target": "Ｄ猫硬幣・白"
+    },
+    {
+      "index": "7509",
+      "target": "Ｄ猫硬幣・黄"
+    },
+    {
+      "index": "7510",
+      "target": "Ｄ猫硬幣・赤"
+    },
+    {
+      "index": "7511",
+      "target": "Ｄ猫硬幣・青"
+    },
+    {
+      "index": "7512",
+      "target": "Ｄ猫硬幣・黒"
+    }
+  ]
+}

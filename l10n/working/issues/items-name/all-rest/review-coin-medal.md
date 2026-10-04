@@ -1,8 +1,9 @@
 # Review：items-name／幣／勳章／支票
+> **狀態**：**qa_done**（2026-10-04 人審通過；尚未整批回寫本體）
 
 > **用途**：最終確認。不中斷主線。
-> 來源 batch：`batches/awaiting_qa/items-name/all-rest/coin-medal.json`｜**完整 n=107**
-> 目錄：`issues/items-name/all-rest/`（原 all-rest 拆分，非「剩餘」）
+> 來源 batch：atches/awaiting_qa/items-name/all-rest/coin-medal.json｜**完整 n=107**
+> 目錄：issues/items-name/all-rest/（原 all-rest 拆分，非「剩餘」）
 
 ## 摘要
 
@@ -12,110 +13,110 @@
 
 | index | 原文 | 譯文 |
 |---|---|---|
-| 1473 | 40k Cheque | ４０ｋ支票 |
-| 1474 | 30k Cheque 2 | ３０ｋ支票２ |
-| 1475 | 20k Cheque | ２０ｋ支票 |
-| 1476 | 10k Cheque | １０ｋ支票 |
-| 1477 | 5k Cheque | ５ｋ支票 |
-| 1478 | 1k Cheque | １ｋ支票 |
-| 1479 | 1z Cheque | １ｚ支票 |
-| 1480 | 1z Cheque 2 | １ｚ支票２ |
-| 1514 | N Medal・Red | Ｎ勳章・赤 |
-| 1515 | N Medal・Blue | Ｎ勳章・青 |
-| 1516 | N Medal・Purple | Ｎ勳章・紫 |
-| 1688 | Dragoness Coin | 龍女硬幣 |
-| 1689 | Dragonlord Coin | 龍王硬幣 |
-| 1690 | Saber Mezecoin | 劍梅澤幣 |
-| 1701 | Red Hunter Coin | 獵人的赤硬幣 |
-| 1702 | Blue Hunter Coin | 獵人的青硬幣 |
-| 1703 | Wht Hunter Coin | 獵人的白硬幣 |
-| 1704 | Pink Hunter Coin | 獵人的粉硬幣 |
-| 1705 | Prpl Hunter Coin | 獵人的紫硬幣 |
-| 1706 | Ylw Hunter Coin | 獵人的黄硬幣 |
-| 1729 | PawCoin・Bronze | 肉球幣・青銅 |
-| 1730 | PawCoin・Silver | 肉球幣・銀 |
-| 1731 | PawCoin・Gold | 肉球幣・金 |
-| 1906 | Award Medal Blue | 表彰勳章青 |
-| 1907 | Award Medal Red | 表彰勳章赤 |
-| 2074 | Harvest Coin | 収穫硬幣 |
-| 2075 | Gather Coin 1 | 採取硬幣１ |
-| 2076 | Gather Coin 2 | 採取硬幣２ |
-| 2077 | Gather Coin 3 | 採取硬幣３ |
-| 2078 | Gather Coin 4 | 採取硬幣４ |
-| 2079 | Gather Coin 5 | 採取硬幣５ |
-| 2080 | Gather Coin 6 | 採取硬幣６ |
-| 2081 | Eligibility Coin | 資格硬幣 |
-| 2082 | Final Coin | 決勝硬幣 |
-| 2091 | Marine Coin | 海洋硬幣 |
-| 2092 | Sky Coin | 空硬幣 |
-| 2093 | Earth Coin | 大地硬幣 |
-| 2139 | PawCoin・Steel | 肉球幣・鋼 |
-| 2140 | PawCoin・Iron | 肉球幣・鉄 |
-| 2141 | PawCoin・Lead | 肉球幣・鉛 |
-| 3043 | Primo Coin | 極品硬幣 |
-| 3061 | Instructor Coin | 教官硬幣 |
-| 3582 | Bewitching Coin | 魅惑硬幣 |
-| 3583 | Glimmering Coin | 輝硬幣 |
-| 3584 | Hazy Coin | 霞硬幣 |
-| 3585 | Blinking Coin | 閃硬幣 |
-| 3671 | Felvine Coin | 木天蓼硬幣 |
-| 3971 | Fertility Coin | 豊饒硬幣 |
-| 3998 | Pawprint Medal | 肉球印勳章 |
-| 4058 | Earth Medal | 大地勳章 |
-| 4059 | Marine Medal | 海洋勳章 |
-| 4060 | Sky Medal | 空勳章 |
-| 4837 | Flash Coin | 閃光硬幣 |
-| 5383 | HC Pawprint Medal | ＨＣ肉球印勳章 |
-| 5621 | Flourish Coin | 繁榮硬幣 |
-| 5700 | Denarius・Gold | 銀幣・金 |
-| 5701 | Denarius・Silver | 銀幣・銀 |
-| 5702 | Denarius・Copper | 銀幣銅 |
-| 7123 | 1k Gz Cheque | １ｋＧＺ支票 |
-| 7471 | ★5 Liberation Coin | ★5解放硬幣 |
-| 7476 | ★6 Liberation Coin | ★6解放硬幣 |
-| 7477 | ★7 Liberation Coin | ★7解放硬幣 |
-| 7502 | Glory Coin | 栄光硬幣 |
-| 7503 | D.Cat Medal White | Ｄ猫勳章白 |
-| 7504 | D.Cat Medal Yellow | Ｄ猫勳章黄 |
-| 7505 | D.Cat Medal Red | Ｄ猫勳章赤 |
-| 7506 | D.Cat Medal Blue | Ｄ猫勳章青 |
-| 7507 | D.Cat Medal Black | Ｄ猫勳章黒 |
-| 7508 | D.Cat Coin White | Ｄ猫硬幣白 |
-| 7509 | D.Cat Coin Yellow | Ｄ猫硬幣黄 |
-| 7510 | D.Cat Coin Red | Ｄ猫硬幣赤 |
-| 7511 | D.Cat Coin Blue | Ｄ猫硬幣青 |
-| 7512 | D.Cat Coin Black | Ｄ猫硬幣黒 |
-| 7971 | 5k Gz Cheque | ５ｋＧＺ支票 |
-| 7972 | 10k Gz Cheque | １０ｋＧＺ支票 |
-| 7973 | 20k Gz Cheque | ２０ｋＧＺ支票 |
-| 7974 | 30k Gz Cheque | ３０ｋＧＺ支票 |
-| 7975 | 40k Gz Cheque | ４０ｋＧＺ支票 |
-| 7976 | 50k Gz Cheque | ５０ｋＧＺ支票 |
-| 7977 | 100k Gz Cheque | １００ｋＧＺ支票 |
-| 8032 | Hunting Medal | 狩勳章 |
-| 8299 | Christmas Coin | 聖誕硬幣 |
-| 8300 | Strange Coin | 奇硬幣 |
-| 8338 | Prosperity Coin | 泰里法硬幣 |
-| 8963 | Golden Coin G | 黄金硬幣Ｇ |
-| 8964 | Trial Coin G | 試硬幣Ｇ |
-| 8965 | Aniv. Memory Coin | 鈿終極記憶硬幣 |
-| 9182 | King's Medal | 王Ｓ勳章 |
-| 11156 | Trial Gacha Coin | 試轉蛋硬幣 |
-| 11167 | Tower Medal | 天廊的勳章 |
-| 12446 | Bond Coin | 絆硬幣 |
-| 12447 | Meisei Coin | 鍵盤歌硬幣 |
-| 12448 | Shozo Coin | 聲急証硬幣 |
-| 12449 | Rare Coin | 稀有硬幣 |
-| 12450 | Nyanya Coin | 泰里法硬幣 |
-| 12452 | Rusty Coin | 生錆硬幣 |
-| 12453 | Starry Sky Coin | 星空硬幣 |
-| 12454 | Sunlight Coin | 陽光硬幣 |
-| 12455 | Moonlight Coin | 月光硬幣 |
-| 12456 | Mysterious Coin | 極征服硬幣 |
-| 12457 | Memory Coin | 記憶硬幣 |
-| 12458 | Oblivion Coin | 法磁化硬幣 |
-| 12459 | Bright Coin | 輝耀硬幣 |
-| 12513 | Shiusu Coin | 四隅硬幣 |
-| 12514 | Shiusu Mining Coin | 四隅阿爾布硬幣 |
-| 12515 | Shiusu Insect Coin | 四隅蟲硬幣 |
-| 15231 | Tokimeki Coin | 沸血吼硬幣 |
+| 1473 | 40k Cheque | 支票【４０ｋ】 |
+| 1474 | 30k Cheque 2 | 支票【３０ｋ・２】 |
+| 1475 | 20k Cheque | 支票【２０ｋ】 |
+| 1476 | 10k Cheque | 支票【１０ｋ】 |
+| 1477 | 5k Cheque | 支票【５ｋ】 |
+| 1478 | 1k Cheque | 支票【１ｋ】 |
+| 1479 | 1z Cheque | 支票【１ｚ】 |
+| 1480 | 1z Cheque 2 | 支票【１ｚ・２】 |
+| 1514 | N Medal・Red | Ｎ勳章【赤】 |
+| 1515 | N Medal・Blue | Ｎ勳章【青】 |
+| 1516 | N Medal・Purple | Ｎ勳章【紫】 |
+| 1688 | Dragoness Coin | 硬幣【龍女】 |
+| 1689 | Dragonlord Coin | 硬幣【龍王】 |
+| 1690 | Saber Mezecoin | 硬幣【劍梅澤】 |
+| 1701 | Red Hunter Coin | 獵人硬幣【赤】 |
+| 1702 | Blue Hunter Coin | 獵人硬幣【青】 |
+| 1703 | Wht Hunter Coin | 獵人硬幣【白】 |
+| 1704 | Pink Hunter Coin | 獵人硬幣【粉】 |
+| 1705 | Prpl Hunter Coin | 獵人硬幣【紫】 |
+| 1706 | Ylw Hunter Coin | 獵人硬幣【黄】 |
+| 1729 | PawCoin・Bronze | 肉球幣【青銅】 |
+| 1730 | PawCoin・Silver | 肉球幣【銀】 |
+| 1731 | PawCoin・Gold | 肉球幣【金】 |
+| 1906 | Award Medal Blue | 表彰勳章【青】 |
+| 1907 | Award Medal Red | 表彰勳章【赤】 |
+| 2074 | Harvest Coin | 硬幣【収穫】 |
+| 2075 | Gather Coin 1 | 採集硬幣【１】 |
+| 2076 | Gather Coin 2 | 採集硬幣【２】 |
+| 2077 | Gather Coin 3 | 採集硬幣【３】 |
+| 2078 | Gather Coin 4 | 採集硬幣【４】 |
+| 2079 | Gather Coin 5 | 採集硬幣【５】 |
+| 2080 | Gather Coin 6 | 採集硬幣【６】 |
+| 2081 | Eligibility Coin | 硬幣【資格】 |
+| 2082 | Final Coin | 硬幣【決勝】 |
+| 2091 | Marine Coin | 硬幣【海洋】 |
+| 2092 | Sky Coin | 硬幣【空】 |
+| 2093 | Earth Coin | 硬幣【大地】 |
+| 2139 | PawCoin・Steel | 肉球幣【鋼】 |
+| 2140 | PawCoin・Iron | 肉球幣【鉄】 |
+| 2141 | PawCoin・Lead | 肉球幣【鉛】 |
+| 3043 | Primo Coin | 硬幣【極品】 |
+| 3061 | Instructor Coin | 硬幣【教官】 |
+| 3582 | Bewitching Coin | 硬幣【魅惑】 |
+| 3583 | Glimmering Coin | 硬幣【輝】 |
+| 3584 | Hazy Coin | 硬幣【霞】 |
+| 3585 | Blinking Coin | 硬幣【閃】 |
+| 3671 | Felvine Coin | 硬幣【木天蓼】 |
+| 3971 | Fertility Coin | 硬幣【豊饒】 |
+| 3998 | Pawprint Medal | 勳章【肉球印】 |
+| 4058 | Earth Medal | 勳章【大地】 |
+| 4059 | Marine Medal | 勳章【海洋】 |
+| 4060 | Sky Medal | 勳章【空】 |
+| 4837 | Flash Coin | 硬幣【閃光】 |
+| 5383 | HC Pawprint Medal | 肉球印勳章【ＨＣ】 |
+| 5621 | Flourish Coin | 硬幣【興隆】 |
+| 5700 | Denarius・Gold | 銀幣【金】 |
+| 5701 | Denarius・Silver | 銀幣【銀】 |
+| 5702 | Denarius・Copper | 銀幣【銅】 |
+| 7123 | 1k Gz Cheque | 支票【１ｋＧＺ】 |
+| 7471 | ★5 Liberation Coin | 解放硬幣【★5】 |
+| 7476 | ★6 Liberation Coin | 解放硬幣【★6】 |
+| 7477 | ★7 Liberation Coin | 解放硬幣【★7】 |
+| 7502 | Glory Coin | 硬幣【栄光】 |
+| 7503 | D.Cat Medal White | Ｄ猫勳章【白】 |
+| 7504 | D.Cat Medal Yellow | Ｄ猫勳章【黄】 |
+| 7505 | D.Cat Medal Red | Ｄ猫勳章【赤】 |
+| 7506 | D.Cat Medal Blue | Ｄ猫勳章【青】 |
+| 7507 | D.Cat Medal Black | Ｄ猫勳章【黒】 |
+| 7508 | D.Cat Coin White | Ｄ猫硬幣【白】 |
+| 7509 | D.Cat Coin Yellow | Ｄ猫硬幣【黄】 |
+| 7510 | D.Cat Coin Red | Ｄ猫硬幣【赤】 |
+| 7511 | D.Cat Coin Blue | Ｄ猫硬幣【青】 |
+| 7512 | D.Cat Coin Black | Ｄ猫硬幣【黒】 |
+| 7971 | 5k Gz Cheque | 支票【５ｋＧＺ】 |
+| 7972 | 10k Gz Cheque | 支票【１０ｋＧＺ】 |
+| 7973 | 20k Gz Cheque | 支票【２０ｋＧＺ】 |
+| 7974 | 30k Gz Cheque | 支票【３０ｋＧＺ】 |
+| 7975 | 40k Gz Cheque | 支票【４０ｋＧＺ】 |
+| 7976 | 50k Gz Cheque | 支票【５０ｋＧＺ】 |
+| 7977 | 100k Gz Cheque | 支票【１００ｋＧＺ】 |
+| 8032 | Hunting Medal | 勳章【狩】 |
+| 8299 | Christmas Coin | 硬幣【聖誕】 |
+| 8300 | Strange Coin | 硬幣【奇】 |
+| 8338 | Prosperity Coin | 硬幣【繁榮】 |
+| 8963 | Golden Coin G | 硬幣【黄金Ｇ】 |
+| 8964 | Trial Coin G | 硬幣【試煉Ｇ】 |
+| 8965 | Aniv. Memory Coin | 硬幣【週年】 |
+| 9182 | King's Medal | 勳章【王】 |
+| 11156 | Trial Gacha Coin | 硬幣【試轉蛋】 |
+| 11167 | Tower Medal | 勳章【天廊】 |
+| 12446 | Bond Coin | 硬幣【絆】 |
+| 12447 | Meisei Coin | 硬幣【明星】 |
+| 12448 | Shozo Coin | 硬幣【正造】 |
+| 12449 | Rare Coin | 硬幣【稀有】 |
+| 12450 | Nyanya Coin | 硬幣【猫猫】 |
+| 12452 | Rusty Coin | 硬幣【生錆】 |
+| 12453 | Starry Sky Coin | 硬幣【星空】 |
+| 12454 | Sunlight Coin | 硬幣【陽光】 |
+| 12455 | Moonlight Coin | 硬幣【月光】 |
+| 12456 | Mysterious Coin | 硬幣【神秘】 |
+| 12457 | Memory Coin | 硬幣【記憶】 |
+| 12458 | Oblivion Coin | 硬幣【忘却】 |
+| 12459 | Bright Coin | 硬幣【輝耀】 |
+| 12513 | Shiusu Coin | 硬幣【四隅】 |
+| 12514 | Shiusu Mining Coin | 硬幣【四隅採掘】 |
+| 12515 | Shiusu Insect Coin | 硬幣【四隅蟲】 |
+| 15231 | Tokimeki Coin | 硬幣【心動】 |

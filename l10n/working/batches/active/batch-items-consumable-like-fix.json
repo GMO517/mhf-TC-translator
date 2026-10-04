@@ -1,0 +1,18 @@
+{
+  "section_id": "items-name",
+  "label": "consumable-like-fix",
+  "translations": [
+    {
+      "index": "6063",
+      "target": "強化蛋"
+    },
+    {
+      "index": "8248",
+      "target": "美味蛋"
+    },
+    {
+      "index": "15529",
+      "target": "熱騰騰的肉"
+    }
+  ]
+}

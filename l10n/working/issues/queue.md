@@ -18,8 +18,13 @@
 | CATEGORY | issue |
 |---|---|
 | beads-info / seals-jebia | 見既有 stub；勿重翻 |
-| items-name / dummy | `issues/items-name__dummy.md`；batch n=676 已 delta |
-| items-name／原 all-rest 拆分（待審） | 清單：`issues/items-name/README.md`；review：`issues/items-name/all-rest/review-*.md`；batch：`batches/awaiting_qa/items-name/all-rest/*.json` |
+| items-name／原 all-rest 拆分（待審） | 清單：`issues/items-name/README.md`（待審 25 檔）；已處理 9 檔見下表 |
+
+## all-rest 已處理（qa_done・尚未整批回寫）
+
+| 子類 | review |
+|---|---|
+| allrest-info／bond-map／chunks-shards／coin-medal／collectible／companion／consumable-like／cuff-base／dot-series | `issues/items-name/all-rest/review-*.md`（檔內已註 `qa_done`） |
 
 ## 處理完（qa_done）
 
@@ -34,5 +39,7 @@
 | kits | `items-name__kits.md`；`archive/items-name/review-items-name__kits.md` |
 | monster-rest | `items-name__monster-rest.md`；`archive/items-name/review-items-name__monster-rest.md` |
 | misc | `items-name__misc.md`；`archive/items-name/review-items-name__misc.md` |
+| dummy | `items-name__dummy.md`；`archive/items-name/review-items-name__dummy.md` |
+| remainder（舊 stub） | `items-name__remainder.md`；`archive/items-name/review-items-name__remainder.md`（細審改看 all-rest） |
 
 相關 delta 批次歸檔：`batches/legacy/items-name-qa-done-20261004/`。
