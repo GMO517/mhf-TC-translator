@@ -18,17 +18,16 @@
 | CATEGORY | issue |
 |---|---|
 | beads-info / seals-jebia | 見既有 stub；勿重翻 |
-| items-name／原 all-rest 拆分 | 現況：`issues/items-name/README.md`（29 檔／5450；語意重分類＋殘譯已清；**未整批回寫**） |
+| items-name／原 all-rest 拆分 | **qa_done**（29／5450）；**下一動＝整批回寫本體**（待明示） |
 
 ## all-rest 現況（2026-10-04 晚・尚未整批回寫）
 
 | 區 | 內容 |
 |---|---|
-| A＋B 已標 qa_done（18／2492） | 原 A13＋B5（B 已補標：dummy／equip／gather／gem／jp-src-mid） |
-| C→語意新檔（11／2958） | armor-bm-gn／weapon-soul／monster-mat／raw-mat／seal-mark／proof／song／skill-related／permit／otoshidama／misc-rest |
-| 已完成 | 背景清除；B 補標；C 語意重分；殘譯清零；CSV 已對齊 |
-| 未完成 | 整批回寫本體（待明示） |
-| 舊檔 | `all-rest/_deprecated_index_split/`（原 16 檔切片等） |
+| 全部分拆 review | **29** 檔／**5450** 筆皆 **qa_done**（A＋B 18＋C 11） |
+| 已完成 | 語意重分＋品質重譯＋主規則巡檢；CSV／review／batch 對齊 |
+| **下一動** | **整批回寫本體**（待明示；勿自行 finish_batch／csv-to-bin） |
+| 舊檔 | `all-rest/_deprecated_index_split/` |
 
 ## 處理完（qa_done）
 

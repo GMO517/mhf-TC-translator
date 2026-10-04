@@ -36,10 +36,9 @@
 - kits: qa_done → issues/items-name__kits.md；review→`archive/items-name/`；batch n=45
 - monster-rest: qa_done → issues/items-name__monster-rest.md；review→`archive/items-name/`；batch n=438
 - misc: qa_done → issues/items-name__misc.md；review→`archive/items-name/`；batch n=199
-- all-rest 拆分: in_progress → `issues/items-name/all-rest/`（**29** 檔／**5450** 筆）
-  - A＋B 已標 qa_done：**18** 檔／**2492** 筆（B 5 檔已補標）
-  - C 已語意重分類＋殘譯清零：**11** 檔／**2958** 筆；CSV 已對齊
-  - **下一動**：整批回寫本體（待明示；勿自行 finish_batch）
+- all-rest 拆分: qa_done → `issues/items-name/all-rest/`（**29** 檔／**5450** 筆；CSV 已對齊）
+  - A＋B＋C 全部分拆 review 已標 **qa_done**（品質＋主規則巡檢）
+  - **下一動**：整批回寫本體（待明示；勿自行 finish_batch／csv-to-bin）
   - 詳見 `issues/items-name/README.md`；舊切片→`all-rest/_deprecated_index_split/`
 
 ---

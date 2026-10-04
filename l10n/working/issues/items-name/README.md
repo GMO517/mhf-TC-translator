@@ -14,27 +14,25 @@
 > 目錄：`issues/items-name/all-rest/review-*.md`（現 **29** 檔／**5450** 筆）  
 > 舊 index 高中低切片：已移至 `all-rest/_deprecated_index_split/`（32 件）  
 > 全集備份：`batches/awaiting_qa/batch-items-all-rest.json`  
-> **本體尚未整批回寫**（CSV 已對齊本輪結構／第一輪修譯）
+> **本體尚未整批回寫**（CSV／review／batch 已對齊；待明示）
 
 ### 狀態總覽
 
 | 狀態 | 檔數 | 筆數 | 說明 |
 |---|---:|---:|---|
-| 先前已標 `qa_done`（A＋B） | 18 | 2492 | A 13＋B 5（B 已補標） |
-| 語意重分類後新檔（C→新） | 11 | 2958 | 結構完成；**殘留垃圾譯待第二輪** |
+| 全部分拆 review **qa_done** | **29** | **5450** | A＋B 18＋C 11；品質＋主規則巡檢完成 |
 | **合計** | **29** | **5450** | |
 
-### 本輪已完成
+### 已完成
 
-1. **背景行程清除**（無殘留 finish_batch／reclass）
-2. **B 區 5 檔補標 `qa_done`**：dummy／equip-related／gather-craft／gem-like／jp-src-mid
-3. **C 區 16 檔 → 語意 11 檔**：廢止 misc／BM／weapon-soul 的 index 高中低切片
-4. **CSV 第一輪對齊**：`changed=142`（`scratch/reclass_fix_remaining_allrest.py`）
-5. 產物：`batches/awaiting_qa/items-name/all-rest/{新id}.json`＋`batches/active/batch-items-allrest-reclass-fix.json`
+1. 語意重分類（C 16→11）＋品質重譯（misc／raw／seal／魂／ＳＺ／許可證／proof…）
+2. 主規則巡檢：防具【Ｇ／ＧＦ／ＧＸ】、ＰＺ【】、MS＝磁斬槌、魔物縮寫對 terms
+3. CSV／`awaiting_qa` batch／review 表已對齊
 
-### 本輪未完成（下一動）
+### 下一動
 
-- **仍不回寫本體**，除非明示（殘留垃圾譯已清；C→新 11 檔可當結案）
+1. **整批回寫本體**（待明示；`finish_batch`／csv-to-bin；改前 `_backup/`）
+2. 回寫後 `validate_working`／必要時抽查客戶端顯示
 
 ---
 
@@ -61,14 +59,9 @@
 | 未歸細類・高 index | 663 | [`review-misc-high.md`](all-rest/review-misc-high.md) |
 | 未歸細類・低 index | 663 | [`review-misc-low.md`](all-rest/review-misc-low.md) |
 
-> 註：`misc-high`／`misc-low` 維持既有認可切片，不再併入本輪語意重分。
-
 ---
 
-### C→新. 語意重分類（11 檔／2958 筆）
-
-> 舊 16 檔（misc-mid／BM×3／weapon-soul×3／monster-mat／raw-mat／seal／proof／song／skill×2／permit／otoshidama）已歸檔 `_deprecated_index_split/`。  
-> 檔頭目前標 `qa_done`＝**結構＋第一輪修譯完成**；**譯質殘留未清零**，勿當最終結案。
+### C→新. 語意重分類（11 檔／2958 筆）・qa_done
 
 | 新 id | 名稱 | 筆數 | review |
 |---|---|---:|---|
@@ -84,24 +77,8 @@
 | `permit` | 許可／通行／推薦 | 26 | [`review-permit.md`](all-rest/review-permit.md) |
 | `otoshidama` | 紅包／年玉 | 5 | [`review-otoshidama.md`](all-rest/review-otoshidama.md) |
 
-**抽查殘留（待第二輪）示例：**
-
-- `misc-rest`：Confessional→波奇可、Magma Mango→岩漿征服拉 等
-- `monster-mat`／`raw-mat`：里法磁／納桃／努波 碎片
-- `skill-related`：Skill Slots Up PZ* 尾綴垃圾
-- `weapon-soul`：`【low】`／Sweet Ribbon／SAF* 半翻
-- `proof`：少數「的之証」
-
 ---
 
 ### 分類雜亂原因（紀錄）
 
-當初 all-rest 為加快切批，對過大袋（misc／BM／weapon-soul）用 **index 高中低** 均分，不是語意分類。本輪已廢止該切片。
-
----
-
-## 建議下一步
-
-1. 執行第二輪清垃圾譯（`scratch/_fix_garbage_pass2.py` 或等價）→ 再核 CSV／review  
-2. 確認殘留為 0 後，才把 C→新 11 檔當真正結案  
-3. **仍不回寫本體**，除非明示  
+當初 all-rest 為加快切批，對過大袋用 **index 高中低** 均分。本輪已廢止該切片並改語意分類。
