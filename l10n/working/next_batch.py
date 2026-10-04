@@ -16,10 +16,11 @@ SEC_BY_ID = {s["id"]: s for s in SECTIONS}
 
 def main(argv: list[str]) -> int:
     if len(argv) < 2:
-        print("用法: next_batch.py <section-id> [limit=40]")
+        print("用法: next_batch.py <section-id> [limit=200]")
         return 2
     sec_id = argv[1]
-    limit = int(argv[2]) if len(argv) > 2 else 40
+    # 預設 200：減少 subagent／回寫／commit 次數（固定開銷）以省 token
+    limit = int(argv[2]) if len(argv) > 2 else 200
     sec = SEC_BY_ID[sec_id]
     rows = list(
         csv.DictReader((CSV_DIR / sec["extracted"]).open(encoding="utf-8", newline=""))

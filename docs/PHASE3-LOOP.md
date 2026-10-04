@@ -31,7 +31,7 @@ feat: items-name batch 16（音符／布料；ネオジム・緑）
 ## 標準循環（層次 B：道具名等）
 
 ```
-1. next_batch.py <section> 80          → 候選
+1. next_batch.py <section> 200         → 候選（預設 200；批太小會抬高固定開銷）
 2. subagent 只譯「這一 batch」         → batch-XXX.json
 3. apply_batch_json.py + validate      → 寫入 working CSV
 4. finish_batch.py batch-XXX.json      → 只回寫本批 delta → 本體

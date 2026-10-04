@@ -5,7 +5,7 @@
 ## 日常一批（省時）
 
 ```bash
-python next_batch.py items-name 80
+python next_batch.py items-name 200
 # → subagent 產 reports/batch-items-00N.json 並 apply+validate
 python finish_batch.py reports/batch-items-00N.json
 # → validate + 只回寫本批 delta + 同步本體
