@@ -9,7 +9,7 @@
 
 | CATEGORY | 進度 | 批次產物 | 下一筆 |
 |---|---|---|---|
-| items-name／misc | pending | — | 其餘未譯雜項（布料／計畫書／殘留素材等） |
+| items-name／殘留 | pending | — | 約 1147 列未譯（charset／半翻英文殘留） |
 
 ## 待獨立 QA
 
@@ -22,3 +22,8 @@
 | items-name / gathering | `issues/review-items-name__gathering.md`；batch n=488 已 delta |
 | items-name / jewels | `issues/review-items-name__jewels.md`；batch n=480 已 delta |
 | items-name / skill-cuffs | `issues/review-items-name__skill-cuffs.md`；batch n=2877 已 delta |
+| items-name / dummy | `issues/items-name__dummy.md`；batch n=676 已 delta |
+| items-name / kits | `issues/items-name__kits.md`；batch n=45 已 delta |
+| items-name / monster-rest | `issues/items-name__monster-rest.md`；batch n=438 已 delta |
+| items-name / misc | `issues/items-name__misc.md`；batch n=199 已 delta |
+| items-name / remainder | `issues/items-name__remainder.md`；batch n=5450 已 delta |

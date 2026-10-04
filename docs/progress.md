@@ -9,7 +9,7 @@
 ## items-name
 
 - status: in_progress
-- notes: "主真相＝csv。skill-cuffs 已完；下一＝items-name 其餘雜項。"
+- notes: "主真相＝csv。大批義譯子類已 awaiting_qa；殘約 1147 列未譯（多為 charset 拒譯／專名）。"
 
 ### files
 
@@ -19,7 +19,7 @@
 
 - path: l10n/working/csv/dat-items-name.csv
   status: in_progress
-  notes: "含 skill-cuffs n=2877 已 delta；其餘未譯仍多"
+  notes: "skill-cuffs 等已 delta；dummy/kits/monster-rest/misc/remainder 本輪已 delta"
 
 ### subclasses（語意，非流水號）
 
@@ -31,6 +31,11 @@
 - gathering: translated → issues/review-items-name__gathering.md（awaiting_qa）；batches/awaiting_qa/batch-items-gathering.json（n=488）
 - jewels: translated → issues/review-items-name__jewels.md（awaiting_qa）；batches/awaiting_qa/batch-items-jewels.json（n=480）
 - skill-cuffs: translated → issues/review-items-name__skill-cuffs.md（awaiting_qa）；batches/awaiting_qa/batch-items-skill-cuffs.json（n=2877）
+- dummy: translated → issues/review-items-name__dummy.md（awaiting_qa）；batches/awaiting_qa/batch-items-dummy.json（n=676）
+- kits: translated → issues/review-items-name__kits.md（awaiting_qa）；batches/awaiting_qa/batch-items-kits.json（n=45）
+- monster-rest: translated → issues/review-items-name__monster-rest.md（awaiting_qa）；batches/awaiting_qa/batch-items-monster-rest.json（n=438）
+- misc: translated → issues/review-items-name__misc.md（awaiting_qa）；batches/awaiting_qa/batch-items-misc.json（n=199）
+- remainder: translated → issues/review-items-name__remainder.md（awaiting_qa）；batches/awaiting_qa/batch-items-all-rest.json（n=5450）
 
 ---
 

@@ -16,5 +16,10 @@
 | items-name／gathering（採集礦蟲草魚） | **0** | **~12 min** | batch n=488；charset fallback（可片／麻痺／温暖等）；delta 完成；awaiting_qa |
 | items-name／jewels（裝飾珠 Jewel） | **0** | **~8 min** | batch n=480；charset：多拉／鷄翅／獅毛／乳脂；delta 完成 |
 | items-name／skill-cuffs（PA/PB/PC…） | **0** | **~10 min** | batch n=2877；格式如匠ＰＡ１；delta 完成 |
+| items-name／dummy（Dummy→(dummy)） | **0** | **~5 min** | n=676；charset 無「虛設」改沿用 (dummy)；delta |
+| items-name／kits（防具套件 Kit） | **0** | **~5 min** | n=45；delta |
+| items-name／monster-rest（殘餘魔物素材） | **0** | **~8 min** | n=438；鬣毛取代缺字鬃；delta 259 新 |
+| items-name／misc（公會／獵人／旅團雜項） | **0** | **~5 min** | n=199；delta |
+| items-name／remainder（義譯掃尾） | **0** | **~15 min** | n=5450；delta 4436 新；殘未譯約 1147 |
 
-**當日合計（續跑段）**：約 **52 min**｜待決合計 **0** 筆
+**當日合計（續跑段）**：約 **90 min**｜待決合計 **0** 筆
