@@ -308,73 +308,73 @@ index,source,target
 306,Sleep Sac,睡眠袋
 307,(dummy),(dummy)
 308,Flame Sac,火炎袋
-309,Electro Sac,Electro Sac
-310,Dash Extract,Dash Extract
-311,Pale Extract,Pale Extract
-312,Sm Monster Bone,Sm Monster Bone
-313,Med Monster Bone,Med Monster Bone
-314,Lg Monster Bone,Lg Monster Bone
-315,Monster Hardbone,Monster Hardbone
-316,Elder Dragon Bone,Elder Dragon Bone
-317,Mystery Bone,Mystery Bone
-318,Unknown Skull,Unknown Skull
-319,Master's Skull,Master's Skull
-320,Bone,Bone
-321,Jumbo Bone,Jumbo Bone
-322,Wyvern Fang,Wyvern Fang
-323,Wyvern Claw,Wyvern Claw
-324,Wyvern Gem,Wyvern Gem
-325,Wyvern Tears,Wyvern Tears
-326,Territorial Dung,Territorial Dung
-327,Crab Pearl,Crab Pearl
-328,Dragon Treasure,Dragon Treasure
-329,Decayed Drgn Scl,Decayed Drgn Scl
-330,Crystalized Scale,Crystalized Scale
-331,Mosswine Hide,Mosswine Hide
-332,Mosswine Head,Mosswine Head
-333,Bullfango Pelt,Bullfango Pelt
-334,Bullfango Head,Bullfango Head
-335,Bulldrome Hide,Bulldrome Hide
-336,Bulldrome Hide+,Bulldrome Hide+
-337,Kelbi Horn,Kelbi Horn
-338,Kelbi Hide,Kelbi Hide
-339,Anteka Pelt,Anteka Pelt
-340,Anteka Antlers,Anteka Antlers
-341,Velociprey Fang,Velociprey Fang
-342,Velociprey Scale,Velociprey Scale
-343,Velociprey Scale+,Velociprey Scale+
-344,Velociprey Hide,Velociprey Hide
-345,Velocidrome Hide,Velocidrome Hide
-346,Velocidrome Claw,Velocidrome Claw
-347,Velocidrome Claw+,Velocidrome Claw+
-348,Velocidrome Head,Velocidrome Head
-349,Giaprey Scale,Giaprey Scale
-350,Giaprey Hide,Giaprey Hide
-351,Genprey Fang,Genprey Fang
-352,Genprey Scale,Genprey Scale
-353,Genprey Scale+,Genprey Scale+
-354,Genprey Hide,Genprey Hide
-355,Gendrome Hide,Gendrome Hide
-356,Gendrome Skull,Gendrome Skull
-357,Ioprey Fang,Ioprey Fang
-358,Ioprey Scale,Ioprey Scale
-359,Ioprey Scale+,Ioprey Scale+
-360,Ioprey Hide,Ioprey Hide
-361,Iodrome Hide,Iodrome Hide
-362,Iodrome Skull,Iodrome Skull
-363,Kut-Ku Scale,Kut-Ku Scale
-364,Kut-Ku Shell,Kut-Ku Shell
-365,Kut-Ku Carapace,Kut-Ku Carapace
-366,Kut-Ku Ear,Kut-Ku Ear
-367,Long Kut-Ku Ear,Long Kut-Ku Ear
-368,Giant Beak,Giant Beak
-369,Splendid Beak,Splendid Beak
-370,Kut-Ku Webbing,Kut-Ku Webbing
-371,B.Kut-Ku Scale,B.Kut-Ku Scale
-372,B.Kut-Ku Shell,B.Kut-Ku Shell
-373,B.Kut-Ku Carapace,B.Kut-Ku Carapace
-374,Rubbery Hide,Rubbery Hide
-375,Rubbery Hide+,Rubbery Hide+
+309,Electro Sac,電撃袋
+310,Dash Extract,強走精華
+311,Pale Extract,蒼白精華
+312,Sm Monster Bone,魔物骨．小
+313,Med Monster Bone,魔物骨．中
+314,Lg Monster Bone,魔物骨．大
+315,Monster Hardbone,堅龍骨
+316,Elder Dragon Bone,古龍骨
+317,Mystery Bone,謎之骨
+318,Unknown Skull,未知的頭骨
+319,Master's Skull,大師的頭骨
+320,Bone,骨頭
+321,Jumbo Bone,巨大的骨
+322,Wyvern Fang,龍牙
+323,Wyvern Claw,龍爪
+324,Wyvern Gem,龍玉
+325,Wyvern Tears,龍之涙
+326,Territorial Dung,地盤糞
+327,Crab Pearl,蟹珍珠
+328,Dragon Treasure,龍之秘寶
+329,Decayed Drgn Scl,腐敗的龍鱗
+330,Crystalized Scale,結晶化的鱗
+331,Mosswine Hide,菌豬的皮
+332,Mosswine Head,菌豬的頭
+333,Bullfango Pelt,野豬的皮
+334,Bullfango Head,野豬的頭
+335,Bulldrome Hide,大野豬的皮
+336,Bulldrome Hide+,大野豬的皮＋
+337,Kelbi Horn,精靈鹿的角
+338,Kelbi Hide,精靈鹿的皮
+339,Anteka Pelt,雪鹿的皮
+340,Anteka Antlers,雪鹿的角
+341,Velociprey Fang,藍速龍的牙
+342,Velociprey Scale,藍速龍的鱗
+343,Velociprey Scale+,藍速龍的上鱗
+344,Velociprey Hide,藍速龍的皮
+345,Velocidrome Hide,藍速龍王的皮
+346,Velocidrome Claw,藍速龍王的爪
+347,Velocidrome Claw+,藍速龍王的尖爪
+348,Velocidrome Head,藍速龍王的頭
+349,Giaprey Scale,白速龍的鱗
+350,Giaprey Hide,白速龍的皮
+351,Genprey Fang,黄速龍的牙
+352,Genprey Scale,黄速龍的鱗
+353,Genprey Scale+,黄速龍的上鱗
+354,Genprey Hide,黄速龍的皮
+355,Gendrome Hide,黄速龍王的皮
+356,Gendrome Skull,黄速龍王的頭骨
+357,Ioprey Fang,紅速龍的牙
+358,Ioprey Scale,紅速龍的鱗
+359,Ioprey Scale+,紅速龍的上鱗
+360,Ioprey Hide,紅速龍的皮
+361,Iodrome Hide,紅速龍王的皮
+362,Iodrome Skull,紅速龍王的頭骨
+363,Kut-Ku Scale,怪鳥的鱗
+364,Kut-Ku Shell,怪鳥的甲殼
+365,Kut-Ku Carapace,怪鳥的堅殼
+366,Kut-Ku Ear,怪鳥的耳
+367,Long Kut-Ku Ear,怪鳥的長耳
+368,Giant Beak,巨大的喙
+369,Splendid Beak,華麗的喙
+370,Kut-Ku Webbing,怪鳥的翼膜
+371,B.Kut-Ku Scale,青怪鳥的鱗
+372,B.Kut-Ku Shell,青怪鳥的甲殼
+373,B.Kut-Ku Carapace,青怪鳥的堅殼
+374,Rubbery Hide,橡膠質的皮
+375,Rubbery Hide+,橡膠質的皮＋
 376,Gypceros Head,Gypceros Head
 377,P.Rubbery Hide,P.Rubbery Hide
 378,P.Gypceros Wing,P.Gypceros Wing

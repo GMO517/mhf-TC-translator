@@ -1,7 +1,7 @@
 {
   "section_id": "items-name",
   "xpath": "dat/items/name",
-  "pending_total_estimate": 16473,
+  "pending_total_estimate": 16406,
   "batch": [
     {
       "index": "31",
@@ -40,288 +40,288 @@
       "source": "(dummy)"
     },
     {
-      "index": "238",
-      "source": "Rumblefish"
-    },
-    {
-      "index": "239",
-      "source": "Scatterfish"
-    },
-    {
-      "index": "240",
-      "source": "Burst Arowana"
-    },
-    {
-      "index": "241",
-      "source": "Bomb Arowana"
-    },
-    {
-      "index": "242",
-      "source": "Lg Knife Mackarel"
-    },
-    {
-      "index": "243",
-      "source": "Lg Sleepy Fish"
-    },
-    {
-      "index": "244",
-      "source": "Lg Pin Tuna"
-    },
-    {
-      "index": "245",
-      "source": "Lg Burst Arowana"
-    },
-    {
-      "index": "246",
-      "source": "Lg Bomb Arowana"
-    },
-    {
-      "index": "247",
-      "source": "Glutton Tuna"
-    },
-    {
-      "index": "248",
-      "source": "Gastronome Tuna"
-    },
-    {
-      "index": "249",
-      "source": "Goldenfish"
-    },
-    {
-      "index": "250",
-      "source": "Speartuna"
-    },
-    {
-      "index": "251",
-      "source": "Small Goldenfish"
-    },
-    {
-      "index": "252",
-      "source": "Silverfish"
-    },
-    {
-      "index": "253",
-      "source": "Ancient Fish"
-    },
-    {
-      "index": "254",
-      "source": "Queen Shrimp"
-    },
-    {
-      "index": "255",
-      "source": "Insect Husk"
-    },
-    {
-      "index": "256",
-      "source": "Yambug"
-    },
-    {
-      "index": "257",
-      "source": "Stinkhopper"
-    },
-    {
-      "index": "258",
-      "source": "Snakebee Larva"
-    },
-    {
-      "index": "259",
-      "source": "Godbug"
-    },
-    {
-      "index": "260",
-      "source": "Bitterbug"
-    },
-    {
-      "index": "261",
-      "source": "Flashbug"
-    },
-    {
-      "index": "262",
-      "source": "Thunderbug"
-    },
-    {
-      "index": "263",
-      "source": "King Scarab"
-    },
-    {
-      "index": "264",
-      "source": "Gluehopper"
-    },
-    {
       "index": "265",
       "source": "(dummy)"
-    },
-    {
-      "index": "266",
-      "source": "Killer Beetle"
-    },
-    {
-      "index": "267",
-      "source": "Rare Scarab"
-    },
-    {
-      "index": "268",
-      "source": "Royal Rhino"
-    },
-    {
-      "index": "269",
-      "source": "Green Onion"
-    },
-    {
-      "index": "270",
-      "source": "Sliced Cactus"
-    },
-    {
-      "index": "271",
-      "source": "Rare Onion"
-    },
-    {
-      "index": "272",
-      "source": "Fatty Tomato"
-    },
-    {
-      "index": "273",
-      "source": "Demon Mushroom"
-    },
-    {
-      "index": "274",
-      "source": "Warwheat"
-    },
-    {
-      "index": "275",
-      "source": "Mixed Beans"
-    },
-    {
-      "index": "276",
-      "source": "Stubborn Pan"
-    },
-    {
-      "index": "277",
-      "source": "Silver Cordgrass"
-    },
-    {
-      "index": "278",
-      "source": "Ancient Beans"
-    },
-    {
-      "index": "279",
-      "source": "White Liver"
-    },
-    {
-      "index": "280",
-      "source": "Popo Tongue"
-    },
-    {
-      "index": "281",
-      "source": "Pickled Khezu Whlp"
-    },
-    {
-      "index": "282",
-      "source": "Remobra Shank"
-    },
-    {
-      "index": "283",
-      "source": "Dragon Tail"
-    },
-    {
-      "index": "284",
-      "source": "Songfish"
-    },
-    {
-      "index": "285",
-      "source": "Snake Salmon"
-    },
-    {
-      "index": "286",
-      "source": "Rice Bug"
-    },
-    {
-      "index": "287",
-      "source": "Spice Worm"
-    },
-    {
-      "index": "288",
-      "source": "Honey Dragonfly"
-    },
-    {
-      "index": "289",
-      "source": "Hercudrome"
-    },
-    {
-      "index": "290",
-      "source": "Red Oil"
-    },
-    {
-      "index": "291",
-      "source": "Power Lard"
-    },
-    {
-      "index": "292",
-      "source": "Lifejam"
-    },
-    {
-      "index": "293",
-      "source": "Dry Margarine"
-    },
-    {
-      "index": "294",
-      "source": "Maengwoo Butter"
-    },
-    {
-      "index": "295",
-      "source": "Royal Cheese"
-    },
-    {
-      "index": "296",
-      "source": "Hopi Brew"
-    },
-    {
-      "index": "297",
-      "source": "Blessed Wine"
-    },
-    {
-      "index": "298",
-      "source": "Golden Ale"
-    },
-    {
-      "index": "299",
-      "source": "Monster Egg"
-    },
-    {
-      "index": "300",
-      "source": "Poogie Crackers"
     },
     {
       "index": "301",
       "source": "(dummy)"
     },
     {
-      "index": "302",
-      "source": "Screamer"
-    },
-    {
-      "index": "303",
-      "source": "Poison Sac"
-    },
-    {
-      "index": "304",
-      "source": "Paralysis Sac"
-    },
-    {
       "index": "305",
       "source": "(dummy)"
-    },
-    {
-      "index": "306",
-      "source": "Sleep Sac"
     },
     {
       "index": "307",
       "source": "(dummy)"
     },
     {
-      "index": "308",
-      "source": "Flame Sac"
+      "index": "309",
+      "source": "Electro Sac"
+    },
+    {
+      "index": "310",
+      "source": "Dash Extract"
+    },
+    {
+      "index": "311",
+      "source": "Pale Extract"
+    },
+    {
+      "index": "312",
+      "source": "Sm Monster Bone"
+    },
+    {
+      "index": "313",
+      "source": "Med Monster Bone"
+    },
+    {
+      "index": "314",
+      "source": "Lg Monster Bone"
+    },
+    {
+      "index": "315",
+      "source": "Monster Hardbone"
+    },
+    {
+      "index": "316",
+      "source": "Elder Dragon Bone"
+    },
+    {
+      "index": "317",
+      "source": "Mystery Bone"
+    },
+    {
+      "index": "318",
+      "source": "Unknown Skull"
+    },
+    {
+      "index": "319",
+      "source": "Master's Skull"
+    },
+    {
+      "index": "320",
+      "source": "Bone"
+    },
+    {
+      "index": "321",
+      "source": "Jumbo Bone"
+    },
+    {
+      "index": "322",
+      "source": "Wyvern Fang"
+    },
+    {
+      "index": "323",
+      "source": "Wyvern Claw"
+    },
+    {
+      "index": "324",
+      "source": "Wyvern Gem"
+    },
+    {
+      "index": "325",
+      "source": "Wyvern Tears"
+    },
+    {
+      "index": "326",
+      "source": "Territorial Dung"
+    },
+    {
+      "index": "327",
+      "source": "Crab Pearl"
+    },
+    {
+      "index": "328",
+      "source": "Dragon Treasure"
+    },
+    {
+      "index": "329",
+      "source": "Decayed Drgn Scl"
+    },
+    {
+      "index": "330",
+      "source": "Crystalized Scale"
+    },
+    {
+      "index": "331",
+      "source": "Mosswine Hide"
+    },
+    {
+      "index": "332",
+      "source": "Mosswine Head"
+    },
+    {
+      "index": "333",
+      "source": "Bullfango Pelt"
+    },
+    {
+      "index": "334",
+      "source": "Bullfango Head"
+    },
+    {
+      "index": "335",
+      "source": "Bulldrome Hide"
+    },
+    {
+      "index": "336",
+      "source": "Bulldrome Hide+"
+    },
+    {
+      "index": "337",
+      "source": "Kelbi Horn"
+    },
+    {
+      "index": "338",
+      "source": "Kelbi Hide"
+    },
+    {
+      "index": "339",
+      "source": "Anteka Pelt"
+    },
+    {
+      "index": "340",
+      "source": "Anteka Antlers"
+    },
+    {
+      "index": "341",
+      "source": "Velociprey Fang"
+    },
+    {
+      "index": "342",
+      "source": "Velociprey Scale"
+    },
+    {
+      "index": "343",
+      "source": "Velociprey Scale+"
+    },
+    {
+      "index": "344",
+      "source": "Velociprey Hide"
+    },
+    {
+      "index": "345",
+      "source": "Velocidrome Hide"
+    },
+    {
+      "index": "346",
+      "source": "Velocidrome Claw"
+    },
+    {
+      "index": "347",
+      "source": "Velocidrome Claw+"
+    },
+    {
+      "index": "348",
+      "source": "Velocidrome Head"
+    },
+    {
+      "index": "349",
+      "source": "Giaprey Scale"
+    },
+    {
+      "index": "350",
+      "source": "Giaprey Hide"
+    },
+    {
+      "index": "351",
+      "source": "Genprey Fang"
+    },
+    {
+      "index": "352",
+      "source": "Genprey Scale"
+    },
+    {
+      "index": "353",
+      "source": "Genprey Scale+"
+    },
+    {
+      "index": "354",
+      "source": "Genprey Hide"
+    },
+    {
+      "index": "355",
+      "source": "Gendrome Hide"
+    },
+    {
+      "index": "356",
+      "source": "Gendrome Skull"
+    },
+    {
+      "index": "357",
+      "source": "Ioprey Fang"
+    },
+    {
+      "index": "358",
+      "source": "Ioprey Scale"
+    },
+    {
+      "index": "359",
+      "source": "Ioprey Scale+"
+    },
+    {
+      "index": "360",
+      "source": "Ioprey Hide"
+    },
+    {
+      "index": "361",
+      "source": "Iodrome Hide"
+    },
+    {
+      "index": "362",
+      "source": "Iodrome Skull"
+    },
+    {
+      "index": "363",
+      "source": "Kut-Ku Scale"
+    },
+    {
+      "index": "364",
+      "source": "Kut-Ku Shell"
+    },
+    {
+      "index": "365",
+      "source": "Kut-Ku Carapace"
+    },
+    {
+      "index": "366",
+      "source": "Kut-Ku Ear"
+    },
+    {
+      "index": "367",
+      "source": "Long Kut-Ku Ear"
+    },
+    {
+      "index": "368",
+      "source": "Giant Beak"
+    },
+    {
+      "index": "369",
+      "source": "Splendid Beak"
+    },
+    {
+      "index": "370",
+      "source": "Kut-Ku Webbing"
+    },
+    {
+      "index": "371",
+      "source": "B.Kut-Ku Scale"
+    },
+    {
+      "index": "372",
+      "source": "B.Kut-Ku Shell"
+    },
+    {
+      "index": "373",
+      "source": "B.Kut-Ku Carapace"
+    },
+    {
+      "index": "374",
+      "source": "Rubbery Hide"
+    },
+    {
+      "index": "375",
+      "source": "Rubbery Hide+"
     }
   ]
 }

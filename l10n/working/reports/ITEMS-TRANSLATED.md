@@ -275,6 +275,48 @@
 | 304 | Paralysis Sac | 麻痺袋 |
 | 306 | Sleep Sac | 睡眠袋 |
 | 308 | Flame Sac | 火炎袋 |
+| 309 | Electro Sac | 電撃袋 |
+| 310 | Dash Extract | 強走精華 |
+| 311 | Pale Extract | 蒼白精華 |
+| 312 | Sm Monster Bone | 魔物骨．小 |
+| 313 | Med Monster Bone | 魔物骨．中 |
+| 314 | Lg Monster Bone | 魔物骨．大 |
+| 315 | Monster Hardbone | 堅龍骨 |
+| 316 | Elder Dragon Bone | 古龍骨 |
+| 317 | Mystery Bone | 謎之骨 |
+| 318 | Unknown Skull | 未知的頭骨 |
+| 319 | Master's Skull | 大師的頭骨 |
+| 320 | Bone | 骨頭 |
+| 321 | Jumbo Bone | 巨大的骨 |
+| 322 | Wyvern Fang | 龍牙 |
+| 323 | Wyvern Claw | 龍爪 |
+| 324 | Wyvern Gem | 龍玉 |
+| 325 | Wyvern Tears | 龍之涙 |
+| 326 | Territorial Dung | 地盤糞 |
+| 327 | Crab Pearl | 蟹珍珠 |
+| 328 | Dragon Treasure | 龍之秘寶 |
+| 329 | Decayed Drgn Scl | 腐敗的龍鱗 |
+| 330 | Crystalized Scale | 結晶化的鱗 |
+| 331 | Mosswine Hide | 菌豬的皮 |
+| 332 | Mosswine Head | 菌豬的頭 |
+| 333 | Bullfango Pelt | 野豬的皮 |
+| 334 | Bullfango Head | 野豬的頭 |
+| 335 | Bulldrome Hide | 大野豬的皮 |
+| 336 | Bulldrome Hide+ | 大野豬的皮＋ |
+| 337 | Kelbi Horn | 精靈鹿的角 |
+| 338 | Kelbi Hide | 精靈鹿的皮 |
+| 339 | Anteka Pelt | 雪鹿的皮 |
+| 340 | Anteka Antlers | 雪鹿的角 |
+| 341–348 | Velociprey／Velocidrome | 藍速龍／藍速龍王素材 |
+| 349–350 | Giaprey | 白速龍的鱗／皮 |
+| 351–356 | Genprey／Gendrome | 黄速龍／黄速龍王素材 |
+| 357–362 | Ioprey／Iodrome | 紅速龍／紅速龍王素材 |
+| 363–370 | Kut-Ku | 怪鳥素材（鱗／甲殼／堅殼／耳／長耳／喙／翼膜） |
+| 368 | Giant Beak | 巨大的喙 |
+| 369 | Splendid Beak | 華麗的喙 |
+| 371–373 | B.Kut-Ku | 青怪鳥的鱗／甲殼／堅殼 |
+| 374 | Rubbery Hide | 橡膠質的皮 |
+| 375 | Rubbery Hide+ | 橡膠質的皮＋ |
 
 ## 字型暫用（已標）
 
@@ -296,4 +338,7 @@
 - 蜓→蛉：蜂蜜蜻蛉｜Honey Dragonfly｜`batch-items-004` #288  
 - 醬→醤：生命果醤｜Lifejam｜`batch-items-004` #292  
 - 奶→乳／瑪琪琳：猛牛乳油／乾燥瑪琪琳｜Maengwoo Butter／Dry Margarine｜`batch-items-004` #293～294（奶缺）  
+- 擊→撃：電撃袋｜Electro Sac｜`batch-items-005` #309  
+- 淚→涙：龍之涙｜Wyvern Tears｜`batch-items-005` #325（淚缺）  
+- 黃→黄：黄速龍／黄速龍王素材｜Genprey／Gendrome｜`batch-items-005` #351～356（詞庫定稿「黃速龍」）  
 
