@@ -1,0 +1,42 @@
+{
+  "section_id": "items-name",
+  "label": "消耗品樣",
+  "translations": [
+    {
+      "index": "3070",
+      "target": "怪異蛋"
+    },
+    {
+      "index": "4333",
+      "target": "飛龍的蛋？"
+    },
+    {
+      "index": "6063",
+      "target": "疫病蛋"
+    },
+    {
+      "index": "6064",
+      "target": "坎布里歐蛋"
+    },
+    {
+      "index": "6826",
+      "target": "圓蛋"
+    },
+    {
+      "index": "8248",
+      "target": "布爾霧蛋"
+    },
+    {
+      "index": "8249",
+      "target": "幻影蛋"
+    },
+    {
+      "index": "11739",
+      "target": "月光蛋"
+    },
+    {
+      "index": "15529",
+      "target": "野泰里熱肉"
+    }
+  ]
+}

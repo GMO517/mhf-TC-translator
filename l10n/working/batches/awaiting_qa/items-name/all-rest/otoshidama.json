@@ -1,0 +1,18 @@
+{
+  "section_id": "items-name",
+  "label": "紅包／年玉",
+  "translations": [
+    {
+      "index": "1642",
+      "target": "紅包【醜】"
+    },
+    {
+      "index": "2145",
+      "target": "紅包【陰】"
+    },
+    {
+      "index": "3302",
+      "target": "紅包【第四】"
+    }
+  ]
+}

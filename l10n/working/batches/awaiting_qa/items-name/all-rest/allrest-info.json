@@ -1,0 +1,30 @@
+{
+  "section_id": "items-name",
+  "label": "情報",
+  "translations": [
+    {
+      "index": "4714",
+      "target": "攻撃情報悪"
+    },
+    {
+      "index": "4715",
+      "target": "攻撃情報良"
+    },
+    {
+      "index": "4716",
+      "target": "属性情報良"
+    },
+    {
+      "index": "6540",
+      "target": "照雷鳥的情報"
+    },
+    {
+      "index": "6541",
+      "target": "砦蟹的情報"
+    },
+    {
+      "index": "6551",
+      "target": "天照情報"
+    }
+  ]
+}

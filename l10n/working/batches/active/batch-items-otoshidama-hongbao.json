@@ -1,0 +1,22 @@
+{
+  "section_id": "items-name",
+  "label": "otoshidama-hongbao",
+  "translations": [
+    {
+      "index": "1045",
+      "target": "紅包【子】"
+    },
+    {
+      "index": "1642",
+      "target": "紅包【醜】"
+    },
+    {
+      "index": "2145",
+      "target": "紅包【陰】"
+    },
+    {
+      "index": "3302",
+      "target": "紅包【第四】"
+    }
+  ]
+}

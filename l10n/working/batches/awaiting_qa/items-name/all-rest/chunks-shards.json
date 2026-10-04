@@ -1,0 +1,74 @@
+{
+  "section_id": "items-name",
+  "label": "塊／碎片／感謝色票",
+  "translations": [
+    {
+      "index": "1469",
+      "target": "大塊赤"
+    },
+    {
+      "index": "1470",
+      "target": "小塊赤"
+    },
+    {
+      "index": "1517",
+      "target": "大塊白"
+    },
+    {
+      "index": "1518",
+      "target": "小塊白"
+    },
+    {
+      "index": "1696",
+      "target": "感謝赤"
+    },
+    {
+      "index": "1697",
+      "target": "感謝白"
+    },
+    {
+      "index": "1698",
+      "target": "小赤的碎片"
+    },
+    {
+      "index": "1699",
+      "target": "小白的碎片"
+    },
+    {
+      "index": "2087",
+      "target": "黒渇望的碎片"
+    },
+    {
+      "index": "2088",
+      "target": "粉渇望的碎片"
+    },
+    {
+      "index": "6739",
+      "target": "迪尤拉凍結的碎片"
+    },
+    {
+      "index": "6830",
+      "target": "眩目碎片"
+    },
+    {
+      "index": "9596",
+      "target": "棘白龍紫黑鍵"
+    },
+    {
+      "index": "9736",
+      "target": "桃玻璃的碎片"
+    },
+    {
+      "index": "10119",
+      "target": "焦金属的碎片"
+    },
+    {
+      "index": "11354",
+      "target": "煌紋章觸的碎片"
+    },
+    {
+      "index": "13336",
+      "target": "極龍姆努波"
+    }
+  ]
+}

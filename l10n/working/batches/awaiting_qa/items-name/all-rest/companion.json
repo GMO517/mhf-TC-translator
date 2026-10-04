@@ -1,0 +1,110 @@
+{
+  "section_id": "items-name",
+  "label": "艾路／貓／古古",
+  "translations": [
+    {
+      "index": "3012",
+      "target": "猫的金頭"
+    },
+    {
+      "index": "3013",
+      "target": "金猫胸"
+    },
+    {
+      "index": "3014",
+      "target": "猫的金腕"
+    },
+    {
+      "index": "3015",
+      "target": "猫的金腰"
+    },
+    {
+      "index": "3016",
+      "target": "猫的金脚"
+    },
+    {
+      "index": "3017",
+      "target": "猫的銀頭"
+    },
+    {
+      "index": "3018",
+      "target": "銀猫胸"
+    },
+    {
+      "index": "3019",
+      "target": "猫的銀腕"
+    },
+    {
+      "index": "3020",
+      "target": "猫的銀腰"
+    },
+    {
+      "index": "3021",
+      "target": "猫的銀脚"
+    },
+    {
+      "index": "3299",
+      "target": "猫霧"
+    },
+    {
+      "index": "4471",
+      "target": "猫豪華砥"
+    },
+    {
+      "index": "6165",
+      "target": "薄古克汁"
+    },
+    {
+      "index": "6166",
+      "target": "美味古克汁"
+    },
+    {
+      "index": "6167",
+      "target": "豊古克汁"
+    },
+    {
+      "index": "6392",
+      "target": "Ｍ猫Ｓ最愛"
+    },
+    {
+      "index": "9180",
+      "target": "赤猫涙"
+    },
+    {
+      "index": "9181",
+      "target": "惡猫涙"
+    },
+    {
+      "index": "12775",
+      "target": "祭典猫鈴"
+    },
+    {
+      "index": "12863",
+      "target": "闇猫鈕赤"
+    },
+    {
+      "index": "12864",
+      "target": "闇猫鈕青"
+    },
+    {
+      "index": "12865",
+      "target": "闇猫鈕桃"
+    },
+    {
+      "index": "12866",
+      "target": "闇猫鈕白"
+    },
+    {
+      "index": "12867",
+      "target": "闇猫鈕黒"
+    },
+    {
+      "index": "12868",
+      "target": "闇猫鈕金"
+    },
+    {
+      "index": "15779",
+      "target": "聖誕古克偶"
+    }
+  ]
+}

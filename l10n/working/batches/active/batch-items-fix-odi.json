@@ -1,0 +1,26 @@
+{
+  "section_id": "items-name",
+  "label": "fix-odi-odibatorasu",
+  "translations": [
+    {
+      "index": "6146",
+      "target": "弩岩龍撃退之証"
+    },
+    {
+      "index": "6147",
+      "target": "弩岩龍討伐之証"
+    },
+    {
+      "index": "12808",
+      "target": "弩岩龍的絶対殻"
+    },
+    {
+      "index": "12810",
+      "target": "弩岩龍的顎"
+    },
+    {
+      "index": "12814",
+      "target": "弩岩龍的大殻"
+    }
+  ]
+}
