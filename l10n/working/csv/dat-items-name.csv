@@ -1241,8 +1241,8 @@ index,source,target
 1239,King's Mischief,King's Mischief
 1240,Secret Weapon Plan,Secret Weapon Plan
 1241,Brown Fabric,Brown Fabric
-1242,Throwing Bomb,Throwing Bomb
-1243,L.Barrel Bomb G2,L.Barrel Bomb G2
+1242,Throwing Bomb,投擲爆彈
+1243,L.Barrel Bomb G2,大桶爆彈Ｇ２
 1244,Lynian Trsr,Lynian Trsr
 1245,Lynian Trsr+,Lynian Trsr+
 1246,Lynian Hdn Trsr,Lynian Hdn Trsr
@@ -1450,7 +1450,7 @@ index,source,target
 1448,Jade Piece,Jade Piece
 1449,Large Armor Ball,Large Armor Ball
 1450,Super Armor Ball,Super Armor Ball
-1451,Mega Armor Ball,Mega Armor Ball
+1451,Mega Armor Ball,強化裝甲球
 1452,Red Dyegrass,Red Dyegrass
 1453,Blue Dyegrass,Blue Dyegrass
 1454,Yellow Dyegrass,Yellow Dyegrass
@@ -1483,36 +1483,36 @@ index,source,target
 1481,Maiden Health,Maiden Health
 1482,Maiden Resilience,Maiden Resilience
 1483,Maiden Persistence,Maiden Persistence
-1484,Paint Bomb,Paint Bomb
-1485,Sleep T.Bomb,Sleep T.Bomb
-1486,Boomerang G,Boomerang G
+1484,Paint Bomb,塗料爆彈
+1485,Sleep T.Bomb,睡眠投擲爆彈
+1486,Boomerang G,回力標Ｇ
 1487,Boiled Silver Egg,Boiled Silver Egg
 1488,Boiled Golden Egg,Boiled Golden Egg
 1489,Anti-Flinch Fruit,Anti-Flinch Fruit
 1490,Stone G,Stone G
-1491,Hot & Cold Drink,Hot & Cold Drink
-1492,Thunder T.Bomb,Thunder T.Bomb
-1493,Ice T.Bomb,Ice T.Bomb
-1494,Thunder B.Bomb,Thunder B.Bomb
-1495,Poison B.Bomb,Poison B.Bomb
-1496,Ice B.Bomb,Ice B.Bomb
-1497,Sleep B.Bomb,Sleep B.Bomb
-1498,Paralysis B.Bomb,Paralysis B.Bomb
-1499,Rolling Bomb,Rolling Bomb
-1500,G Whetstone,G Whetstone
-1501,Hi-Speed Whetstone,Hi-Speed Whetstone
+1491,Hot & Cold Drink,冷熱飲
+1492,Thunder T.Bomb,雷投擲爆彈
+1493,Ice T.Bomb,冰投擲爆彈
+1494,Thunder B.Bomb,雷桶爆彈
+1495,Poison B.Bomb,毒桶爆彈
+1496,Ice B.Bomb,冰桶爆彈
+1497,Sleep B.Bomb,睡眠桶爆彈
+1498,Paralysis B.Bomb,麻痺桶爆彈
+1499,Rolling Bomb,滾動爆彈
+1500,G Whetstone,Ｇ砥石
+1501,Hi-Speed Whetstone,高速砥石
 1502,Disposable Earplug,Disposable Earplug
 1503,Disposable HGE,Disposable HGE
-1504,[Old] Pitfall Bomb,[Old] Pitfall Bomb
-1505,Hot Powder,Hot Powder
-1506,Cool Powder,Cool Powder
-1507,Detox Powder,Detox Powder
-1508,Awakening Powder,Awakening Powder
-1509,Paralysis Powder,Paralysis Powder
+1504,[Old] Pitfall Bomb,【舊】落穴爆彈
+1505,Hot Powder,熱粉末
+1506,Cool Powder,冷粉末
+1507,Detox Powder,解毒粉末
+1508,Awakening Powder,覺醒粉末
+1509,Paralysis Powder,麻痺粉末
 1510,Lightningrod G,Lightningrod G
-1511,Herbal Medicine G,Herbal Medicine G
-1512,EZ Throwing Bomb,EZ Throwing Bomb
-1513,EZ LgBarrelBombG2,EZ LgBarrelBombG2
+1511,Herbal Medicine G,漢方藥Ｇ
+1512,EZ Throwing Bomb,簡易投擲爆彈
+1513,EZ LgBarrelBombG2,簡易大桶爆彈Ｇ２
 1514,N Medal・Red,N Medal・Red
 1515,N Medal・Blue,N Medal・Blue
 1516,N Medal・Purple,N Medal・Purple
@@ -1524,36 +1524,36 @@ index,source,target
 1522,Friendship Bond,Friendship Bond
 1523,Egg Pieces,Egg Pieces
 1524,Hunter Knowledge,Hunter Knowledge
-1525,Health Drink Mix,Health Drink Mix
-1526,Health Drink【HP】,Health Drink【HP】
-1527,Health Drink【Stm】,Health Drink【Stm】
-1528,Health Drink【Atk】,Health Drink【Atk】
-1529,Health Drink【Def】,Health Drink【Def】
+1525,Health Drink Mix,體力飲料綜合
+1526,Health Drink【HP】,體力飲料【體力】
+1527,Health Drink【Stm】,體力飲料【耐力】
+1528,Health Drink【Atk】,體力飲料【攻撃】
+1529,Health Drink【Def】,體力飲料【防禦】
 1530,Festi Memories,Festi Memories
 1531,Diploma,Diploma
 1532,E-Edge Ticket,Ｅ-Edge票
 1533,Star Festi Ticket,星祭票
 1534,Weaver Festi Tkt,七夕票
 1535,N Head Tkt,Ｎ頭票
-1536,Gunlance Coolant,Gunlance Coolant
+1536,Gunlance Coolant,銃槍冷卻劑
 1537,Nearcaster,Nearcaster
-1538,Fire-Proof Drink,Fire-Proof Drink
-1539,Water-Proof Drink,Water-Proof Drink
-1540,Ice-Proof Drink,Ice-Proof Drink
-1541,Thndr-Proof Drink,Thndr-Proof Drink
-1542,Dragon-Proof Drink,Dragon-Proof Drink
+1538,Fire-Proof Drink,耐火飲料
+1539,Water-Proof Drink,耐水飲料
+1540,Ice-Proof Drink,耐冰飲料
+1541,Thndr-Proof Drink,耐雷飲料
+1542,Dragon-Proof Drink,耐龍飲料
 1543,Poison DefenceTkt,毒耐性票
 1544,Sleep Defence Tkt,睡眠耐性票
 1545,Para Defence Tkt,麻痺耐性票
 1546,Guts Ticket,根性票
-1547,Adrenaline Potion,Adrenaline Potion
-1548,Starving Wolf Pot.,Starving Wolf Pot.
+1547,Adrenaline Potion,興奮藥
+1548,Starving Wolf Pot.,餓狼壺
 1549,Emergency Bag,Emergency Bag
-1550,Rasta Return Flute,Rasta Return Flute
-1551,Rasta Cover Flute,Rasta Cover Flute
-1552,Poogie Aid Flute,Poogie Aid Flute
-1553,Spirit Drink,Spirit Drink
-1554,Immunizer G,Immunizer G
+1550,Rasta Return Flute,光明歸還笛
+1551,Rasta Cover Flute,光明掩護笛
+1552,Poogie Aid Flute,波奇援助笛
+1553,Spirit Drink,精神飲料
+1554,Immunizer G,免疫藥Ｇ
 1555,Caravan Mineral,Caravan Mineral
 1556,Caravan Jewel,Caravan Jewel
 1557,Caravan Rare Herb,Caravan Rare Herb
@@ -1578,32 +1578,32 @@ index,source,target
 1576,(dummy),(dummy)
 1577,(dummy),(dummy)
 1578,Flower Extract,Flower Extract
-1579,Explosive Coating,Explosive Coating
-1580,VS Returning Ball,VS Returning Ball
-1581,VS Landmine,VS Landmine
-1582,VS Landmine G,VS Landmine G
-1583,VS Slow Trap,VS Slow Trap
-1584,VS Poison Trap,VS Poison Trap
-1585,VS Sleep Trap,VS Sleep Trap
-1586,VS Trap Breaker,VS Trap Breaker
-1587,VS Rust Trap,VS Rust Trap
-1588,VS Flash Trap,VS Flash Trap
-1589,VS Dung Trap,VS Dung Trap
+1579,Explosive Coating,爆炸瓶
+1580,VS Returning Ball,對戰歸還球
+1581,VS Landmine,對戰地雷
+1582,VS Landmine G,對戰地雷Ｇ
+1583,VS Slow Trap,對戰減速罠
+1584,VS Poison Trap,對戰毒罠
+1585,VS Sleep Trap,對戰睡眠罠
+1586,VS Trap Breaker,對戰罠破壞
+1587,VS Rust Trap,對戰錆罠
+1588,VS Flash Trap,對戰閃光罠
+1589,VS Dung Trap,對戰糞罠
 1590,(dummy),(dummy)
 1591,(dummy),(dummy)
 1592,(dummy),(dummy)
 1593,(dummy),(dummy)
 1594,(dummy),(dummy)
-1595,EZ VS Return Ball,EZ VS Return Ball
-1596,EZ VS Landmine,EZ VS Landmine
-1597,EZ VS Landmine G,EZ VS Landmine G
-1598,EZ VS Slow Trap,EZ VS Slow Trap
-1599,EZ VS Poison Trap,EZ VS Poison Trap
-1600,EZ VS Sleep Trap,EZ VS Sleep Trap
-1601,EZ VS Break Trap,EZ VS Break Trap
-1602,EZ VS Rust Trap,EZ VS Rust Trap
-1603,EZ VS Flash Trap,EZ VS Flash Trap
-1604,EZ VS Dung Trap,EZ VS Dung Trap
+1595,EZ VS Return Ball,簡易對戰回歸球
+1596,EZ VS Landmine,簡易對戰地雷
+1597,EZ VS Landmine G,簡易對戰地雷Ｇ
+1598,EZ VS Slow Trap,簡易對戰減速罠
+1599,EZ VS Poison Trap,簡易對戰毒罠
+1600,EZ VS Sleep Trap,簡易對戰睡眠罠
+1601,EZ VS Break Trap,簡易對戰破壞罠
+1602,EZ VS Rust Trap,簡易對戰錆罠
+1603,EZ VS Flash Trap,簡易對戰閃光罠
+1604,EZ VS Dung Trap,簡易對戰糞罠
 1605,(dummy),(dummy)
 1606,(dummy),(dummy)
 1607,(dummy),(dummy)
@@ -1677,15 +1677,15 @@ index,source,target
 1675,Beru Charged Scale,Beru Charged Scale
 1676,Beru Jewel,Beru Jewel
 1677,Best Recipe,Best Recipe
-1678,Essential Drink,Essential Drink
+1678,Essential Drink,必需飲料
 1679,My Tore Ticket,マイトレ票
 1680,Perk Token,Perk Token
 1681,Maiden's Vitality,Maiden's Vitality
 1682,Maiden's Immunity,Maiden's Immunity
 1683,Maiden's Stamina,Maiden's Stamina
 1684,Maiden's Soul,Maiden's Soul
-1685,Affinity Whetstone,Affinity Whetstone
-1686,Hawkeye Drink,Hawkeye Drink
+1685,Affinity Whetstone,會心砥石
+1686,Hawkeye Drink,鷹眼飲料
 1687,Move Speed Fruit,Move Speed Fruit
 1688,Dragoness Coin,Dragoness Coin
 1689,Dragonlord Coin,Dragonlord Coin
@@ -1707,8 +1707,8 @@ index,source,target
 1705,Prpl Hunter Coin,Prpl Hunter Coin
 1706,Ylw Hunter Coin,Ylw Hunter Coin
 1707,Khezu L Tkt,電龍Ｌ票
-1708,M Creek Tkt,Ｍクリーク票
-1709,B Marsh Tkt,Ｂマルシュ票
+1708,M Creek Tkt,Ｍ・溪流票
+1709,B Marsh Tkt,Ｂ・沼澤票
 1710,Berserker Swrd Tkt,狂戦士劍票
 1711,Crystal Swrd Tkt,水晶劍票
 1712,Dummy,(dummy)
@@ -1782,15 +1782,15 @@ index,source,target
 1780,Metal Tkt Legs,白合金脚票
 1781,Xmas Treetop Tkt,聖誕樹上票
 1782,Random Ball,Random Ball
-1783,L.Barrel Bomb G3,L.Barrel Bomb G3
-1784,Pitfall Bomb,Pitfall Bomb
-1785,Hi-Grade Whetstone,Hi-Grade Whetstone
-1786,Potion Set,Potion Set
-1787,Terrain Powder,Terrain Powder
-1788,Antidote Powder,Antidote Powder
+1783,L.Barrel Bomb G3,大桶爆彈Ｇ３
+1784,Pitfall Bomb,落穴爆彈
+1785,Hi-Grade Whetstone,高級砥石
+1786,Potion Set,回復藥組合
+1787,Terrain Powder,地形粉末
+1788,Antidote Powder,解毒粉末
 1789,Immortal's Map,Immortal's Map
-1790,Pickaxe G,Pickaxe G
-1791,Bugnet G,Bugnet G
+1790,Pickaxe G,十字鎬Ｇ
+1791,Bugnet G,捕蟲網Ｇ
 1792,Nitro Drug,Nitro Drug
 1793,Chameleos Proof,Chameleos Proof
 1794,Paria Proof,Paria Proof
@@ -1885,7 +1885,7 @@ index,source,target
 1883,Orugaron Ruby,Orugaron Ruby
 1884,Red Orugaron Pelt,Red Orugaron Pelt
 1885,Lunastra Proof,Lunastra Proof
-1886,Heat Bomb,Heat Bomb
+1886,Heat Bomb,熱爆彈
 1887,Bomb S.Crystal,Bomb S.Crystal
 1888,Power S.Crystal,Power S.Crystal
 1889,Poison S.Crystal,Poison S.Crystal
@@ -2034,41 +2034,41 @@ index,source,target
 2032,Black Beast Claw,Black Beast Claw
 2033,Moonlight Stone,Moonlight Stone
 2034,Sharp Twin Fangs,Sharp Twin Fangs
-2035,Timeless Flute,Timeless Flute
+2035,Timeless Flute,悠久笛
 2036,Strange Seeds,Strange Seeds
 2037,Core Fragment,Core Fragment
 2038,Rasta Metal,Rasta Metal
 2039,Caravan Medal,Caravan Medal
 2040,No Crystal,No Crystal
 2041,First Aid Med G,First Aid Med G
-2042,EZ Resolve Fruit,EZ Resolve Fruit
-2043,Mobile Boomerang G,Mobile Boomerang G
-2044,EZ Stones,EZ Stones
-2045,EZ Earplugs,EZ Earplugs
-2046,Flying Bomb,Flying Bomb
-2047,EZ Mega Demondrug,EZ Mega Demondrug
-2048,EZ Mega Armorskin,EZ Mega Armorskin
-2049,EZ Hot & Cld Drink,EZ Hot & Cld Drink
-2050,EZ Thunder Bomb,EZ Thunder Bomb
-2051,EZ Poison Bomb,EZ Poison Bomb
-2052,EZ Ice Bomb,EZ Ice Bomb
-2053,EZ Sleep Bomb,EZ Sleep Bomb
-2054,EZ Paralysis Bomb,EZ Paralysis Bomb
-2055,EZ Horizontal Bomb,EZ Horizontal Bomb
-2056,EZ Paint Ball,EZ Paint Ball
-2057,EZ T.Sleep Bomb,EZ T.Sleep Bomb
-2058,EZ T.Thunder Bomb,EZ T.Thunder Bomb
-2059,EZ T.Ice Bomb,EZ T.Ice Bomb
-2060,EZ Power Juice,EZ Power Juice
-2061,EZ Mega Juice,EZ Mega Juice
-2062,EZ Poison Powder,EZ Poison Powder
-2063,EZ Sleep Powder,EZ Sleep Powder
-2064,EZ Para Powder,EZ Para Powder
-2065,EZ Hot Powder,EZ Hot Powder
-2066,EZ Cool Powder,EZ Cool Powder
-2067,EZ Natural Powder,EZ Natural Powder
-2068,EZ GL Coolant,EZ GL Coolant
-2069,EZ Ancient Potion,EZ Ancient Potion
+2042,EZ Resolve Fruit,簡易覺悟果實
+2043,Mobile Boomerang G,飛行回力標Ｇ
+2044,EZ Stones,簡易石子
+2045,EZ Earplugs,簡易耳塞
+2046,Flying Bomb,飛行爆彈
+2047,EZ Mega Demondrug,簡易鬼人藥．大
+2048,EZ Mega Armorskin,簡易硬化藥．大
+2049,EZ Hot & Cld Drink,簡易冷熱飲
+2050,EZ Thunder Bomb,簡易雷爆彈
+2051,EZ Poison Bomb,簡易毒爆彈
+2052,EZ Ice Bomb,簡易冰爆彈
+2053,EZ Sleep Bomb,簡易睡眠爆彈
+2054,EZ Paralysis Bomb,簡易麻痺爆彈
+2055,EZ Horizontal Bomb,簡易水平爆彈
+2056,EZ Paint Ball,簡易塗料球
+2057,EZ T.Sleep Bomb,簡易投擲睡眠爆彈
+2058,EZ T.Thunder Bomb,簡易投擲雷爆彈
+2059,EZ T.Ice Bomb,簡易投擲冰爆彈
+2060,EZ Power Juice,簡易強走藥
+2061,EZ Mega Juice,簡易強走藥．大
+2062,EZ Poison Powder,簡易毒粉末
+2063,EZ Sleep Powder,簡易睡眠粉末
+2064,EZ Para Powder,簡易麻痺粉末
+2065,EZ Hot Powder,簡易熱粉末
+2066,EZ Cool Powder,簡易冷粉末
+2067,EZ Natural Powder,簡易天然粉末
+2068,EZ GL Coolant,簡易銃槍冷卻劑
+2069,EZ Ancient Potion,簡易秘藥
 2070,Old Frost Branch,Old Frost Branch
 2071,Rust Chunk,Rust Chunk
 2072,Rusty Cat's Mark,Rusty Cat's Mark
@@ -2180,7 +2180,7 @@ index,source,target
 2178,Smooth Stone,Smooth Stone
 2179,Bent Timber,Bent Timber
 2180,Worn Cloth,Worn Cloth
-2181,Chipped Knife,Chipped Knife
+2181,Chipped Knife,缺損的小刀
 2182,Thin Plate,Thin Plate
 2183,Dapoten Flower,Dapoten Flower
 2184,Parapara Fruits,Parapara Fruits
@@ -2201,7 +2201,7 @@ index,source,target
 2199,Sweet Insect,Sweet Insect
 2200,Rice Hopper,Rice Hopper
 2201,Felvine Necklace,Felvine Necklace
-2202,Broken Pickaxe,Broken Pickaxe
+2202,Broken Pickaxe,壞掉的鶴嘴鋤
 2203,Mirror Stone,Mirror Stone
 2204,Old Ladle,Old Ladle
 2205,Elongated Bar,Elongated Bar
@@ -2211,7 +2211,7 @@ index,source,target
 2209,Elder Dragon Jewel,Elder Dragon Jewel
 2210,Yearly Sub Ticket,年間特典票
 2211,Dummy,(dummy)
-2212,Impact Coating,Impact Coating
+2212,Impact Coating,強撃瓶
 2213,Artisan PA1,Artisan PA1
 2214,Recoil PA1,Recoil PA1
 2215,Status Attack PA1,Status Attack PA1
@@ -2554,8 +2554,8 @@ index,source,target
 2552,Hunter Seal Pink,Hunter Seal Pink
 2553,Hunter Seal Prpl,Hunter Seal Prpl
 2554,Hunter Seal Ylw,Hunter Seal Ylw
-2555,EZ Poison Green,EZ Poison Green
-2556,EZ Poison Yellow,EZ Poison Yellow
+2555,EZ Poison Green,簡易緑毒
+2556,EZ Poison Yellow,簡易黄毒
 2557,Warm Oil,Warm Oil
 2558,Cooling Oil,Cooling Oil
 2559,G Baron Tkt,Ｇ男爵票
@@ -2948,7 +2948,7 @@ index,source,target
 2946,Blue-eyed Monarch,Blue-eyed Monarch
 2947,Small Sword Hilt,Small Sword Hilt
 2948,Burnt Felvine,Burnt Felvine
-2949,Unfinished Barrel,Unfinished Barrel
+2949,Unfinished Barrel,未完成桶
 2950,Stone Shard [Top],Stone Shard [Top]
 2951,Stone Shard [Mid],Stone Shard [Mid]
 2952,Stone Shard [Bot],Stone Shard [Bot]
@@ -2973,8 +2973,8 @@ index,source,target
 2971,Drake M Tkt,巨龍Ｍ票
 2972,Gold Cat GS Tkt,金猫大劍票
 2973,Silver Cat GS Tkt,銀猫大劍票
-2974,W Bolt Tkt,Ｗボルト票
-2975,C Fang Tkt,Ｃファング票
+2974,W Bolt Tkt,Ｗ・雷栓票
+2975,C Fang Tkt,Ｃ・牙票
 2976,T Fang Tkt,Ｔファング票
 2977,Heat S Tkt,火焔Ｓ票
 2978,Blaze S Tkt,烈焔Ｓ票
@@ -3299,7 +3299,7 @@ index,source,target
 3297,Iceberg Tip,Iceberg Tip
 3298,Reversible Stone,Reversible Stone
 3299,Cat Mist,Cat Mist
-3300,False Whetstone,False Whetstone
+3300,False Whetstone,假砥石
 3301,Black Platinum,Black Platinum
 3302,Otoshidama [4th],Otoshidama [4th]
 3303,Shakalaka Fragment,Shakalaka Fragment
@@ -3314,7 +3314,7 @@ index,source,target
 3312,Arrow of Passion,Arrow of Passion
 3313,Comrade Seal,Comrade Seal
 3314,Hunter's Deed,Hunter's Deed
-3315,Strange BBQ,Strange BBQ
+3315,Strange BBQ,奇怪燒肉
 3316,Strange Spike,Strange Spike
 3317,Strange Pouch,Strange Pouch
 3318,Shining Star,Shining Star
@@ -3328,7 +3328,7 @@ index,source,target
 3326,Strong Heavy Scale,Strong Heavy Scale
 3327,Shotgun,Shotgun
 3328,Pitchfork,Pitchfork
-3329,Knife Set,Knife Set
+3329,Knife Set,小刀組
 3330,Globe,Globe
 3331,Duct Tape,Duct Tape
 3332,DR2 Tkt Head,ＤＲ２頭票
@@ -3668,7 +3668,7 @@ index,source,target
 3666,False Gemstone,False Gemstone
 3667,Camellia Grass St.,Camellia Grass St.
 3668,Camellia Grass Se.,Camellia Grass Se.
-3669,Came. Grass Juice,Came. Grass Juice
+3669,Came. Grass Juice,椿草汁
 3670,Conc Grass Essence,Conc Grass Essence
 3671,Felvine Coin,Felvine Coin
 3672,BP9 Tkt・1,ＢＰ９票・１
@@ -3954,7 +3954,7 @@ index,source,target
 3952,Fasting 1 G,Fasting 1 G
 3953,Focus 1 G,Focus 1 G
 3954,Guts G,Guts G
-3955,Trapper G,Trapper G
+3955,Trapper G,罠師Ｇ
 3956,Fire Atk G,Fire Atk G
 3957,Water Atk G,Water Atk G
 3958,Thunder Atk G,Thunder Atk G
@@ -3963,13 +3963,13 @@ index,source,target
 3961,Bomb Sword G,Bomb Sword G
 3962,Dragon Sword G,Dragon Sword G
 3963,Dummy101802,Dummy101802
-3964,EZ Adrenaline Drug,EZ Adrenaline Drug
+3964,EZ Adrenaline Drug,簡易興奮藥
 3965,Double Point Pill,Double Point Pill
 3966,Small Point Ball,Small Point Ball
 3967,Medium Point Ball,Medium Point Ball
 3968,Large Point Ball,Large Point Ball
 3969,Return Ball,Return Ball
-3970,Point Thief Flute,Point Thief Flute
+3970,Point Thief Flute,奪點笛
 3971,Fertility Coin,Fertility Coin
 3972,Transcend Proof 1,Transcend Proof 1
 3973,Transcend Proof 2,Transcend Proof 2
@@ -4016,12 +4016,12 @@ index,source,target
 4014,N Force Tkt,Ｎ神力票
 4015,N Baum Tkt,Ｎ神木票
 4016,V Jewel Tkt,Ｖ寶石票
-4017,V Lever Tkt,Ｖレバー票
+4017,V Lever Tkt,Ｖ・槓桿票
 4018,A Leaf Tkt,Ａ緑葉票
 4019,A Derive Tkt,Ａ玉葉票
 4020,Bati Q Tkt,バティＱ票
-4021,A Rose Tkt,Ａローズ票
-4022,A Derose Tkt,Ａデローズ票
+4021,A Rose Tkt,Ａ・薔薇票
+4022,A Derose Tkt,德羅澤Ａ票
 4023,Kivala Q Tkt,惡魔Ｑ票
 4024,Edio Head Tkt,城衛頭票
 4025,Edio Chest Tkt,城衛胴票
@@ -4309,9 +4309,9 @@ index,source,target
 4307,Health Ⅱ SC2,Health Ⅱ SC2
 4308,Health Ⅱ SC3,Health Ⅱ SC3
 4309,Health Ⅱ SC4,Health Ⅱ SC4
-4310,Poison Coating G,Poison Coating G
-4311,Para Coating G,Para Coating G
-4312,Sleep Coating G,Sleep Coating G
+4310,Poison Coating G,毒瓶Ｇ
+4311,Para Coating G,麻痺瓶Ｇ
+4312,Sleep Coating G,睡眠瓶Ｇ
 4313,Poison Sword G,Poison Sword G
 4314,Paralysis Sword G,Paralysis Sword G
 4315,Sleep Sword G,Sleep Sword G
@@ -4357,8 +4357,8 @@ index,source,target
 4355,Combo Rate Berry,Combo Rate Berry
 4356,Passive Berry,Passive Berry
 4357,Eating Speed Berry,Eating Speed Berry
-4358,G2 Potion,G2 Potion
-4359,Mega Drink,Mega Drink
+4358,G2 Potion,Ｇ２回復藥
+4359,Mega Drink,強力飲料
 4360,Mega Guts Tkt,メガガッツ票
 4361,Poisoner Tkt,使毒票
 4362,Pararaipi Tkt,麻痺雙針票
@@ -4392,11 +4392,11 @@ index,source,target
 4390,Cuff Base・Leather,Cuff Base・Leather
 4391,Cuff Base・Wax,Cuff Base・Wax
 4392,Sply Guts Tkt,補給ガッツ票
-4393,Cat Balloon Flute,Cat Balloon Flute
-4394,Cat Ballista,Cat Ballista
-4395,EZ Sonic Bomb,EZ Sonic Bomb
+4393,Cat Balloon Flute,猫氣球笛
+4394,Cat Ballista,猫弩砲
+4395,EZ Sonic Bomb,簡易音爆彈
 4396,Signal Flare,Signal Flare
-4397,Geyser Bomb,Geyser Bomb
+4397,Geyser Bomb,間歇泉爆彈
 4398,Violent Ravi Blood,Violent Ravi Blood
 4399,Ancient Drgn Bone,Ancient Drgn Bone
 4400,Rukodiora Stone,Rukodiora Stone
@@ -4426,7 +4426,7 @@ index,source,target
 4424,Lunar Yarn,Lunar Yarn
 4425,Steel Polyhedron,Steel Polyhedron
 4426,Virulent Mushroom,Virulent Mushroom
-4427,Rainbow Gunpowder,Rainbow Gunpowder
+4427,Rainbow Gunpowder,彩虹火藥
 4428,Yggdrasil Branch,Yggdrasil Branch
 4429,Inky Fragm,Inky Fragm
 4430,Thank You Ⅳ,Thank You Ⅳ
@@ -4457,7 +4457,7 @@ index,source,target
 4455,2011 Kit 2 Legs,2011 Kit 2 Legs
 4456,Ethereal Branch,Ethereal Branch
 4457,Teal Rubbish,Teal Rubbish
-4458,Daoran Gunpowder,Daoran Gunpowder
+4458,Daoran Gunpowder,道蘭火藥
 4459,Scarlet Festi Mem.,Scarlet Festi Mem.
 4460,Indigo Festi Mem.,Indigo Festi Mem.
 4461,Peach Festi Memory,Peach Festi Memory
@@ -4688,21 +4688,21 @@ index,source,target
 4686,Wall G,Wall G
 4687,Reload G,Reload G
 4688,Auto-Reload G,Auto-Reload G
-4689,Bomber G,Bomber G
+4689,Bomber G,轟炸Ｇ
 4690,Protection G,Protection G
 4691,Paperweight G,Paperweight G
 4692,Nimble G,Nimble G
 4693,Stamina G,Stamina G
 4694,Pinpoint G,Pinpoint G
 4695,Gunnery 1 G,Gunnery 1 G
-4696,Corrosive Knife,Corrosive Knife
+4696,Corrosive Knife,腐蝕投擲刀
 4697,Power Needle,Power Needle
 4698,Power Ball,Power Ball
-4699,Fire Knife,Fire Knife
-4700,Water Knife,Water Knife
-4701,Ice Knife,Ice Knife
-4702,Thunder Knife,Thunder Knife
-4703,Dragon Knife,Dragon Knife
+4699,Fire Knife,火投擲刀
+4700,Water Knife,水投擲刀
+4701,Ice Knife,冰投擲刀
+4702,Thunder Knife,雷投擲刀
+4703,Dragon Knife,龍投擲刀
 4704,Whaletide Jewel,Whaletide Jewel
 4705,Weaselscythe Jewel,Weaselscythe Jewel
 4706,Crowbeak Jewel,Crowbeak Jewel
@@ -4749,12 +4749,12 @@ index,source,target
 4747,Rec Speed Fruit,Rec Speed Fruit
 4748,Anti-venom Fruit,Anti-venom Fruit
 4749,Capture Exp Fruit,Capture Exp Fruit
-4750,Perfect Whetstone,Perfect Whetstone
-4751,Superior Nutrients,Superior Nutrients
-4752,Tracker's Drink,Tracker's Drink
+4750,Perfect Whetstone,完美砥石
+4751,Superior Nutrients,上等營養劑
+4752,Tracker's Drink,追蹤飲料
 4753,Marking Ball,Marking Ball
-4754,Ultra Cool Drink,Ultra Cool Drink
-4755,Ultra Hot Drink,Ultra Hot Drink
+4754,Ultra Cool Drink,究極冷飲
+4755,Ultra Hot Drink,究極熱飲
 4756,Thin Jack Mackerel,Thin Jack Mackerel
 4757,Halfmoon Carp,Halfmoon Carp
 4758,Black Belly Eel,Black Belly Eel
@@ -4942,7 +4942,7 @@ index,source,target
 4940,Halk Feathers [I],Halk Feathers [I]
 4941,Halk Feathers [T],Halk Feathers [T]
 4942,Halk Feathers [D],Halk Feathers [D]
-4943,Serious Drink Aff,Serious Drink Aff
+4943,Serious Drink Aff,認真飲料會心
 4944,Hunter's Paper,Hunter's Paper
 4945,Tuxedo Paper,Tuxedo Paper
 4946,Mofumofu Patrn,Mofumofu Patrn
@@ -4951,12 +4951,12 @@ index,source,target
 4949,Fort Drawing,Fort Drawing
 4950,Yase Yase Food,Yase Yase Food
 4951,Plump Food,Plump Food
-4952,Halk Potion,Halk Potion
-4953,Serious Drink Fire,Serious Drink Fire
-4954,Serious Drink Wat,Serious Drink Wat
-4955,Serious Drink Ice,Serious Drink Ice
-4956,Serious Drink Thnd,Serious Drink Thnd
-4957,Serious Drink Drgn,Serious Drink Drgn
+4952,Halk Potion,霍克回復藥
+4953,Serious Drink Fire,認真飲料火
+4954,Serious Drink Wat,認真飲料水
+4955,Serious Drink Ice,認真飲料冰
+4956,Serious Drink Thnd,認真飲料雷
+4957,Serious Drink Drgn,認真飲料龍
 4958,Gogomoa Pelt,Gogomoa Pelt
 4959,Gogomoa Fang,Gogomoa Fang
 4960,Gogomoa Claw,Gogomoa Claw
@@ -5113,8 +5113,8 @@ index,source,target
 5111,Cat's Eye Jewel,Cat's Eye Jewel
 5112,Turtleshell Jewel,Turtleshell Jewel
 5113,E.Dragon Marrow,E.Dragon Marrow
-5114,Throwing Knife G,Throwing Knife G
-5115,Knife Kit,Knife Kit
+5114,Throwing Knife G,投擲刀Ｇ
+5115,Knife Kit,小刀套組
 5116,Acid S,Acid S
 5117,Fire Acid S,Fire Acid S
 5118,Water Acid S,Water Acid S
@@ -5126,9 +5126,9 @@ index,source,target
 5124,Dragon Res Fruit,Dragon Res Fruit
 5125,Runner Fruit,Runner Fruit
 5126,Ele Attack Fruit,Ele Attack Fruit
-5127,Strength Powder,Strength Powder
+5127,Strength Powder,力量粉末
 5128,Double Abi Proof,Double Abi Proof
-5129,Status Powder,Status Powder
+5129,Status Powder,状態粉末
 5130,Huge F.Wyvern Gem,Huge F.Wyvern Gem
 5131,Sturdy Wind Box,Sturdy Wind Box
 5132,Tuning Fork,Tuning Fork
@@ -5218,7 +5218,7 @@ index,source,target
 5216,Prototype Design,Prototype Design
 5217,Phantom Thread,Phantom Thread
 5218,Night Thread,Night Thread
-5219,Hexar Powder,Hexar Powder
+5219,Hexar Powder,咒術粉末
 5220,F.Instructor's Soul,F.Instructor's Soul
 5221,Song of the Sun,Song of the Sun
 5222,Song of Glaciers,Song of Glaciers
@@ -5276,9 +5276,9 @@ index,source,target
 5274,TP6 Tkt・3,ＴＰ６票・３
 5275,TP6 Tkt・4,ＴＰ６票・４
 5276,TP6 Tkt・5,ＴＰ６票・５
-5277,Gook Bomb,Gook Bomb
-5278,Egg Bomb,Egg Bomb
-5279,Gook Cracker,Gook Cracker
+5277,Gook Bomb,古克爆彈
+5278,Egg Bomb,蛋爆彈
+5279,Gook Cracker,古克爆竹
 5280,??? Doll,??? Doll
 5281,Gook Bomb Token,Gook Bomb Token
 5282,Egg Bomb Token,Egg Bomb Token
@@ -5293,8 +5293,8 @@ index,source,target
 5291,Crystal Fungus Ore,Crystal Fungus Ore
 5292,Limestone,Limestone
 5293,No Attack Marker,No Attack Marker
-5294,Halk Flute・Demon,Halk Flute・Demon
-5295,Halk Flute・Armor,Halk Flute・Armor
+5294,Halk Flute・Demon,霍克笛・鬼人
+5295,Halk Flute・Armor,霍克笛・硬化
 5296,Zamuza Fungus,Zamuza Fungus
 5297,Zamuza Stoneshell,Zamuza Stoneshell
 5298,Zamuza Stoneclaw,Zamuza Stoneclaw
@@ -5654,9 +5654,9 @@ index,source,target
 5652,Song of Abyss,Song of Abyss
 5653,Song of Tornado,Song of Tornado
 5654,Song of Blizzard,Song of Blizzard
-5655,S Tweeter Tkt,Ｓツィータ票
+5655,S Tweeter Tkt,Ｓ・高音票
 5656,N Tweeter Tkt,Ｎツィータ票
-5657,S Fanare Tkt,Ｓファナレ票
+5657,S Fanare Tkt,法納雷Ｓ票
 5658,N Fanare Tkt,Ｎファナレ票
 5659,Gauss Head Tkt,神使頭票
 5660,Gauss Chest Tkt,神使胴票
@@ -5696,7 +5696,7 @@ index,source,target
 5694,Lucius's Request Ⅰ,Lucius's Request Ⅰ
 5695,Lucius's Request Ⅱ,Lucius's Request Ⅱ
 5696,Lucius's Request Ⅲ,Lucius's Request Ⅲ
-5697,Refreshing Drink,Refreshing Drink
+5697,Refreshing Drink,清涼飲料
 5698,Hot Water Pan,Hot Water Pan
 5699,Rich Fruit,Rich Fruit
 5700,Denarius・Gold,Denarius・Gold
@@ -5710,12 +5710,12 @@ index,source,target
 5708,Dragon Blastshot,Dragon Blastshot
 5709,Blasting Fluid,Blasting Fluid
 5710,Healing Ball,Healing Ball
-5711,Gook Whistle,Gook Whistle
-5712,Gook Fireworks,Gook Fireworks
+5711,Gook Whistle,古克笛
+5712,Gook Fireworks,古克煙火
 5713,Lost Ball,Lost Ball
-5714,Gook Pickaxe,Gook Pickaxe
-5715,Gook Fishing Bait,Gook Fishing Bait
-5716,Gook Bug Net,Gook Bug Net
+5714,Gook Pickaxe,古克鶴嘴鋤
+5715,Gook Fishing Bait,古克魚餌
+5716,Gook Bug Net,古克蟲網
 5717,Gook Gloves,Gook Gloves
 5718,Healing Ball Token,Healing Ball Token
 5719,Gook Whistle Tkn,Gook Whistle Tkn
@@ -5790,10 +5790,10 @@ index,source,target
 5788,HC Crystal Blue,HC Crystal Blue
 5789,HC Crystal Gray,HC Crystal Gray
 5790,HC Crystal Purple,HC Crystal Purple
-5791,Combo Drink,Combo Drink
+5791,Combo Drink,調合飲料
 5792,Dummy 5792,Dummy 5792
-5793,Psychic Powder,Psychic Powder
-5794,Sacrifice Potion,Sacrifice Potion
+5793,Psychic Powder,千里眼粉末
+5794,Sacrifice Potion,犧牲回復藥
 5795,Thunder Res Fruit,Thunder Res Fruit
 5796,Ice Res Fruit,Ice Res Fruit
 5797,Wind Res Fruit,Wind Res Fruit
@@ -6030,7 +6030,7 @@ index,source,target
 6028,Ticking Device,Ticking Device
 6029,Carbide Edge,Carbide Edge
 6030,Charm Gear,Charm Gear
-6031,Sonic Gear,Sonic Gear
+6031,Sonic Gear,音波裝置
 6032,Fancy Book 6,Fancy Book 6
 6033,Akura Jebia Hymn,Akura Jebia Hymn
 6034,Black Beast Fur,Black Beast Fur
@@ -6173,7 +6173,7 @@ index,source,target
 6171,Thunder Atk Fruit,Thunder Atk Fruit
 6172,Dragon Atk Fruit,Dragon Atk Fruit
 6173,Tremor Pear,Tremor Pear
-6174,Flinch Powder,Flinch Powder
+6174,Flinch Powder,硬直粉末
 6175,HRP Tkt (10K),ＨＲＰ票（10K）
 6176,HRP Tkt (20k),ＨＲＰ票（20K）
 6177,Monster Drawings,Monster Drawings
@@ -6246,7 +6246,7 @@ index,source,target
 6244,Gastronomy SP β,Gastronomy SP β
 6245,Recoil 2 G,Recoil 2 G
 6246,Handling G,Handling G
-6247,Throwing G,Throwing G
+6247,Throwing G,投擲Ｇ
 6248,Guard G,Guard G
 6249,Focus 2 G,Focus 2 G
 6250,Psychic 2 G,Psychic 2 G
@@ -6475,15 +6475,15 @@ index,source,target
 6473,Sentopi Tkt A,セントピ票Ａ
 6474,Sentopi Tkt B,セントピ票Ｂ
 6475,Sentopi Tkt C,セントピ票Ｃ
-6476,D Blade Tkt,Ｄブレイド票
+6476,D Blade Tkt,Ｄ・刃票
 6477,R Blade Tkt,Ｒブレイド票
-6478,C Lance Tkt,Ｃランス票
+6478,C Lance Tkt,Ｃ・槍票
 6479,K Lance Tkt,Ｋランス票
-6480,S Mortar Tkt,Ｓモルタル票
+6480,S Mortar Tkt,Ｓ・迫撃砲票
 6481,W Mortar Tkt,Ｗモルタル票
 6482,A Mortar Tkt,Ａモルタル票
 6483,B Mortar Tkt,Ｂモルタル票
-6484,S Cavalry Tkt,Ｓカルバリ票
+6484,S Cavalry Tkt,Ｓ・騎兵票
 6485,W Cavalry Tkt,Ｗカルバリ票
 6486,A Cavalry Tkt,Ａカルバリ票
 6487,B Cavalry Tkt,Ｂカルバリ票
@@ -6793,7 +6793,7 @@ index,source,target
 6791,Dummy 6791,Dummy 6791
 6792,Dummy 6792,Dummy 6792
 6793,Unique Monst.Bone,Unique Monst.Bone
-6794,Marbled Steak,Marbled Steak
+6794,Marbled Steak,霜降牛排
 6795,Glossy Skin,Glossy Skin
 6796,Herb. Shine Shell,Herb. Shine Shell
 6797,Unique Animal Bone,Unique Animal Bone
@@ -6810,7 +6810,7 @@ index,source,target
 6808,Insect Pheromones,Insect Pheromones
 6809,TopSecret TrsrBag,TopSecret TrsrBag
 6810,Clean Junk,Clean Junk
-6811,Shakalaka Bomb,Shakalaka Bomb
+6811,Shakalaka Bomb,奇面族爆彈
 6812,Jagged Tusks,Jagged Tusks
 6813,Rough Scale,Rough Scale
 6814,Bird Wyvern Talon,Bird Wyvern Talon
@@ -7163,9 +7163,9 @@ index,source,target
 7161,GR6 Gem,GR6 Gem
 7162,B Edge Tkt,Ｂ鋭劍票
 7163,T Anger Tkt,Ｔ憤怒票
-7164,D Gear Tkt,Ｄギア票
+7164,D Gear Tkt,Ｄ・齒輪票
 7165,B Roar Tkt,Ｂ咆哮票
-7166,IM Carbine Tkt,ＩＭカービン票
+7166,IM Carbine Tkt,ＩＭ・短歩槍票
 7167,IM Cannon Tkt,ＩＭ加農票
 7168,IM Burst Tkt,ＩＭ爆發票
 7169,IM Assault Tkt,ＩＭ強襲票
@@ -7271,7 +7271,7 @@ index,source,target
 7269,Blue Valor Stone,Blue Valor Stone
 7270,Red Valor Stone,Red Valor Stone
 7271,Yellow Valor Stone,Yellow Valor Stone
-7272,IM Tomen Tkt,ＩＭトメン票
+7272,IM Tomen Tkt,托門ＩＭ票
 7273,Rabina FU Tkt,ラビーナＦＵ票
 7274,AppreciationTkt VI,感謝票Ⅵ
 7275,Magnetised Fur,Magnetised Fur
@@ -7409,7 +7409,7 @@ index,source,target
 7407,Breeder SC2,Breeder SC2
 7408,Survivor SC2,Survivor SC2
 7409,Light Tread SC1,Light Tread SC1
-7410,Anti Ravi Bomb+,Anti Ravi Bomb+
+7410,Anti Ravi Bomb+,對拉維爆彈＋
 7411,Revival Ore,Revival Ore
 7412,Sedative Ore,Sedative Ore
 7413,Deadly Ore,Deadly Ore
@@ -7492,7 +7492,7 @@ index,source,target
 7490,Raisins G Tkt,葡萄乾Ｇ票
 7491,Crispy Corn,Crispy Corn
 7492,Fresh Ice Flowers,Fresh Ice Flowers
-7493,HR Neko Whetstone,HR Neko Whetstone
+7493,HR Neko Whetstone,ＨＲ猫砥石
 7494,Hunter's Resolve,Hunter's Resolve
 7495,Glass Tuning Fork,Glass Tuning Fork
 7496,Fancy Book 5,Fancy Book 5
@@ -7998,8 +7998,8 @@ index,source,target
 7996,セクティ生産券脚,セクティ生産券脚
 7997,Roji B Tkt,ロジＢ票
 7998,Grind P Tkt,研磨Ｐ票
-7999,GE Regil Tkt,ＧＥレギル票
-8000,GE Dore Tkt,ＧＥドーレ票
+7999,GE Regil Tkt,雷吉爾ＧＥ票
+8000,GE Dore Tkt,多雷ＧＥ票
 8001,Adonis R Tkt,アドニスＲ票
 8002,メルガイＳ生産券,メルガイＳ生産券
 8003,Nocta B Tkt,ノクタＢ票
@@ -8189,7 +8189,7 @@ index,source,target
 8187,Pioneer Mark Ⅲ,Pioneer Mark Ⅲ
 8188,Ｓリステ生産券,Ｓリステ生産券
 8189,Ｇギャルド生産券,Ｇギャルド生産券
-8190,E Greed Tkt,Ｅグリード票
+8190,E Greed Tkt,Ｅ・貪婪票
 8191,Ａジーク生産券,Ａジーク生産券
 8192,Ｎスヴェア生産券,Ｎスヴェア生産券
 8193,H Nade Tkt,Ｈ飛躍票
@@ -8270,7 +8270,7 @@ index,source,target
 8268,Gentleman's Guide,Gentleman's Guide
 8269,Lubricant,Lubricant
 8270,Durable Spring,Durable Spring
-8271,Divine Gold Powder,Divine Gold Powder
+8271,Divine Gold Powder,神聖金粉
 8272,Shiny Portrait,Shiny Portrait
 8273,The Phantom Play,The Phantom Play
 8274,Secret of Kut-Ku,Secret of Kut-Ku
@@ -8338,7 +8338,7 @@ index,source,target
 8336,Crimson GS Tkt,深紅ＧＳ票
 8337,White GS Tkt,白ＧＳ票
 8338,Prosperity Coin,Prosperity Coin
-8339,E Vang Tkt,Ｅヴァング票
+8339,E Vang Tkt,范格Ｅ票
 8340,"Porta Ore ""Sprkl""","Porta Ore ""Sprkl"""
 8341,GTUNE Tkt,ＧＴＵＮＥ票
 8342,Radius Tkt,ラディウス票
@@ -8819,8 +8819,8 @@ index,source,target
 8817,シュッド生産券,シュッド生産券
 8818,ヴェスト生産券,ヴェスト生産券
 8819,メリーディ生産券,メリーディ生産券
-8820,I Aria Tkt,Ｉアリア票
-8821,I Bank Tkt,Ｉバンク票
+8820,I Aria Tkt,阿利亞Ｉ票
+8821,I Bank Tkt,班克Ｉ票
 8822,S Aria Tkt,Ｓアリア票
 8823,S Bank Tkt,Ｓバンク票
 8824,パートル生産券,パートル生産券
@@ -8838,7 +8838,7 @@ index,source,target
 8836,Charmant Tkt,魅力票
 8837,クルール生産券,クルール生産券
 8838,Hunting Miracle,Hunting Miracle
-8839,Grace Smoke,Grace Smoke
+8839,Grace Smoke,優雅煙霧
 8840,Sky S Tkt,スカイＳ票
 8841,Shall S Tkt,シャルＳ票
 8842,V Gardo Tkt,Ｖ架勢票
@@ -8967,7 +8967,7 @@ index,source,target
 8965,Aniv. Memory Coin,Aniv. Memory Coin
 8966,Gacha Lucky Charm,Gacha Lucky Charm
 8967,Acid Pepper,Acid Pepper
-8968,Snow Powder,Snow Powder
+8968,Snow Powder,雪粉末
 8969,Wabisabi Wasabi,Wabisabi Wasabi
 8970,Dangerous Melon,Dangerous Melon
 8971,Dummy 8971,Dummy 8971
@@ -9171,8 +9171,8 @@ index,source,target
 9169,Falls Soul Grass,Falls Soul Grass
 9170,Cliff Soul Grass,Cliff Soul Grass
 9171,Replacement Blade,Replacement Blade
-9172,First-Aid Med S,First-Aid Med S
-9173,Sublime Ration,Sublime Ration
+9172,First-Aid Med S,急救藥Ｓ
+9173,Sublime Ration,極上攜帶糧食
 9174,カルド鉱石・成,カルド鉱石・成
 9175,カルド鉱石・貴,カルド鉱石・貴
 9176,カルド鉱石・発,カルド鉱石・発
@@ -9345,7 +9345,7 @@ index,source,target
 9343,Comrade GN GX5,Comrade GN GX5
 9344,Prayer Tree Ore,Prayer Tree Ore
 9345,C Crest Tkt,Ｃ・紋章票
-9346,N Tavros Tkt,Ｎタウロス票
+9346,N Tavros Tkt,塔弗洛斯Ｎ票
 9347,G Glaria Tkt,Ｇ瀑布票
 9348,R Glaria Tkt,Ｒ瀑布票
 9349,Sheriff Tkt Head,警長頭票
@@ -9364,7 +9364,7 @@ index,source,target
 9362,IS Waist Tkt,ＩＳ腰票
 9363,IS Legs Tkt,ＩＳ脚票
 9364,Gorgeous Feathers,Gorgeous Feathers
-9365,Oblivion Flute,Oblivion Flute
+9365,Oblivion Flute,忘卻笛
 9366,Elegant Bag,Elegant Bag
 9367,Taboo Abyssal Tome,Taboo Abyssal Tome
 9368,Silence Gem,Silence Gem
@@ -9695,7 +9695,7 @@ index,source,target
 9693,Cuff Base G・Incite,Cuff Base G・Incite
 9694,Cuff Base G・Abslt,Cuff Base G・Abslt
 9695,Cuff Base G・Asst,Cuff Base G・Asst
-9696,C Pact Tkt,Ｃパクト票
+9696,C Pact Tkt,Ｃ・契約票
 9697,Glittering Wings,Glittering Wings
 9698,Prima F Tkt,プリマＦ票
 9699,Prima D Tkt,プリマＤ票
@@ -9710,22 +9710,22 @@ index,source,target
 9708,Nyananite,Nyananite
 9709,Cat Eye Ore [Red],Cat Eye Ore [Red]
 9710,Cat Eye Ore [Blue],Cat Eye Ore [Blue]
-9711,Quick Potion,Quick Potion
-9712,Quick Mega Potion,Quick Mega Potion
+9711,Quick Potion,速效回復藥
+9712,Quick Mega Potion,速效回復藥．大
 9713,Quick Poison,Quick Poison
-9714,Quick Max Potion,Quick Max Potion
-9715,Quick Mega Juice,Quick Mega Juice
+9714,Quick Max Potion,速效萬能藥
+9715,Quick Mega Juice,速效強走藥．大
 9716,Dummy 9716,Dummy 9716
-9717,Attack Medicine,Attack Medicine
-9718,Defense Medicine,Defense Medicine
+9717,Attack Medicine,攻撃藥
+9718,Defense Medicine,防禦藥
 9719,All Element Drug,All Element Drug
-9720,Health Medicine,Health Medicine
-9721,Stamina Medicine,Stamina Medicine
+9720,Health Medicine,體力藥
+9721,Stamina Medicine,耐力藥
 9722,Guigui Dumbell,Guigui Dumbell
 9723,Pospos Gloves,Pospos Gloves
 9724,Bunbun Stick,Bunbun Stick
 9725,Kunkun Aroma,Kunkun Aroma
-9726,Suyasuya Pillow,Suyasuya Pillow
+9726,Suyasuya Pillow,呼呼大睡枕
 9727,Beyond Belt,Beyond Belt
 9728,TrsrHuntersTrsr,TrsrHuntersTrsr
 9729,Felyne Hair Gem,Felyne Hair Gem
@@ -9833,24 +9833,24 @@ index,source,target
 9831,Chande Tkt Legs,シャンデ脚票
 9832,Banquet Tkt Head,宴會頭票
 9833,Banquet Tkt Torso,宴會胴票
-9834,Banquet Tkt Arms,Banquet Tkt Arms
-9835,Banquet Tkt Waist,Banquet Tkt Waist
-9836,Banquet Tkt Legs,Banquet Tkt Legs
-9837,Veran Tkt Head,Veran Tkt Head
-9838,Veran Tkt Torso,Veran Tkt Torso
-9839,Veran Tkt Arms,Veran Tkt Arms
-9840,Veran Tkt Waist,Veran Tkt Waist
-9841,Veran Tkt Legs,Veran Tkt Legs
+9834,Banquet Tkt Arms,宴會腕票
+9835,Banquet Tkt Waist,宴會腰票
+9836,Banquet Tkt Legs,宴會脚票
+9837,Veran Tkt Head,維蘭頭票
+9838,Veran Tkt Torso,ヴェラン胴票
+9839,Veran Tkt Arms,ヴェラン腕票
+9840,Veran Tkt Waist,ヴェラン腰票
+9841,Veran Tkt Legs,ヴェラン脚票
 9842,ランデグ生産券頭,ランデグ生産券頭
 9843,ランデグ生産券胴,ランデグ生産券胴
 9844,ランデグ生産券腕,ランデグ生産券腕
 9845,ランデグ生産券腰,ランデグ生産券腰
 9846,ランデグ生産券脚,ランデグ生産券脚
-9847,Endore Tkt Head,Endore Tkt Head
-9848,Endore Tkt Torso,Endore Tkt Torso
-9849,Endore Tkt Arms,Endore Tkt Arms
-9850,Endore Tkt Waist,Endore Tkt Waist
-9851,Endore Tkt Legs,Endore Tkt Legs
+9847,Endore Tkt Head,恩多爾頭票
+9848,Endore Tkt Torso,エンドア胴票
+9849,Endore Tkt Arms,エンドア腕票
+9850,Endore Tkt Waist,エンドア腰票
+9851,Endore Tkt Legs,エンドア脚票
 9852,Dark Night Ore,Dark Night Ore
 9853,Hypnoc BM G,Hypnoc BM G
 9854,Hypnoc BM GF,Hypnoc BM GF
@@ -9957,7 +9957,7 @@ index,source,target
 9955,ギルド黒晶栄典,ギルド黒晶栄典
 9956,ギルド黒輝栄典,ギルド黒輝栄典
 9957,ギルド冥朱栄典,ギルド冥朱栄典
-9958,Superior Tkt,Superior Tkt
+9958,Superior Tkt,上位票
 9959,Dummy 9959,Dummy 9959
 9960,Dummy 9960,Dummy 9960
 9961,Dummy 9961,Dummy 9961
@@ -10104,15 +10104,15 @@ index,source,target
 10102,Albino Extract,Albino Extract
 10103,Burnt Iron Shards,Burnt Iron Shards
 10104,Yuki Fluff,Yuki Fluff
-10105,Guild Cat Tkt,Guild Cat Tkt
-10106,Acorn Tkt,Acorn Tkt
-10107,Magma Cat Tkt,Magma Cat Tkt
-10108,Guild Cat Tkt Top,Guild Cat Tkt Top
-10109,Guild Cat Tkt Mid,Guild Cat Tkt Mid
-10110,Acorn Tkt Head,Acorn Tkt Head
-10111,Acorn Tkt Torso,Acorn Tkt Torso
-10112,Magma Cat Tkt Top,Magma Cat Tkt Top
-10113,Magma Cat Tkt Mid,Magma Cat Tkt Mid
+10105,Guild Cat Tkt,公會猫票
+10106,Acorn Tkt,橡實票
+10107,Magma Cat Tkt,熔岩猫票
+10108,Guild Cat Tkt Top,公會猫上票
+10109,Guild Cat Tkt Mid,公會猫中票
+10110,Acorn Tkt Head,橡實頭票
+10111,Acorn Tkt Torso,橡實胴票
+10112,Magma Cat Tkt Top,熔岩猫上票
+10113,Magma Cat Tkt Mid,熔岩猫中票
 10114,Raw Soul [Low],Raw Soul [Low]
 10115,Raw Soul [Mid],Raw Soul [Mid]
 10116,Raw Soul [High],Raw Soul [High]
@@ -10178,7 +10178,7 @@ index,source,target
 10176,Tonfa Hiden EX?Red,Tonfa Hiden EX?Red
 10177,Tonfa Hiden EX?Blk,Tonfa Hiden EX?Blk
 10178,Tonfa Hiden EX?Blu,Tonfa Hiden EX?Blu
-10179,Shiten Tkt,Shiten Tkt
+10179,Shiten Tkt,始天票
 10180,Shiten Key,Shiten Key
 10181,Shiten Lock,Shiten Lock
 10182,Hunter Heart・Yellw,Hunter Heart・Yellw
@@ -10356,11 +10356,11 @@ index,source,target
 10354,ロワファル生産券,ロワファル生産券
 10355,Blue Ruin Document,Blue Ruin Document
 10356,Starry Night Book,Starry Night Book
-10357,Done Cat Tkt Head,Done Cat Tkt Head
-10358,Done Cat Tkt Torso,Done Cat Tkt Torso
-10359,Done Cat Tkt Arms,Done Cat Tkt Arms
-10360,Done Cat Tkt Waist,Done Cat Tkt Waist
-10361,Done Cat Tkt Legs,Done Cat Tkt Legs
+10357,Done Cat Tkt Head,多内猫頭票
+10358,Done Cat Tkt Torso,ドーネ猫胴票
+10359,Done Cat Tkt Arms,ドーネ猫腕票
+10360,Done Cat Tkt Waist,ドーネ猫腰票
+10361,Done Cat Tkt Legs,ドーネ猫脚票
 10362,Vigorous PC5,Vigorous PC5
 10363,Compensation PA1,Compensation PA1
 10364,Blaze PA1,Blaze PA1
@@ -10378,8 +10378,8 @@ index,source,target
 10376,Thunder Sword Gem,Thunder Sword Gem
 10377,Ice Sword Gem,Ice Sword Gem
 10378,Dragon Sword Gem,Dragon Sword Gem
-10379,Neko Gemtail Tkt,Neko Gemtail Tkt
-10380,Harze Ticket,Harze Ticket
+10379,Neko Gemtail Tkt,宝石尾猫票
+10380,Harze Ticket,哈爾澤票
 10381,Neko Offense Jewel,Neko Offense Jewel
 10382,Neko Poisoning Jwl,Neko Poisoning Jwl
 10383,Neko Drowsiness Jwl,Neko Drowsiness Jwl
@@ -10592,50 +10592,50 @@ index,source,target
 10590,Poboru. Dentition,Poboru. Dentition
 10591,Poborubarumu Wing,Poborubarumu Wing
 10592,Poboru. Song Sac,Poboru. Song Sac
-10593,Stradia Tkt,Stradia Tkt
-10594,Riura Tkt,Riura Tkt
-10595,Larcia Tkt,Larcia Tkt
-10596,Shelsha Tkt,Shelsha Tkt
-10597,Lagri Tkt,Lagri Tkt
-10598,Lagri B Tkt,Lagri B Tkt
-10599,Lagri P Tkt,Lagri P Tkt
-10600,Lagri R Tkt,Lagri R Tkt
-10601,Lagri D Tkt,Lagri D Tkt
-10602,Lagri S Tkt,Lagri S Tkt
-10603,Lagri K Tkt,Lagri K Tkt
-10604,Zaouli Tkt,Zaouli Tkt
-10605,Zaouli B Tkt,Zaouli B Tkt
-10606,Zaouli P Tkt,Zaouli P Tkt
-10607,Zaouli R Tkt,Zaouli R Tkt
-10608,Zaouli D Tkt,Zaouli D Tkt
-10609,Zaouli S Tkt,Zaouli S Tkt
-10610,Zaouli K Tkt,Zaouli K Tkt
-10611,Hanachirusato Tkt,Hanachirusato Tkt
-10612,Flower Petal V.Tkt,Flower Petal V.Tkt
-10613,Flower Bow Tkt,Flower Bow Tkt
-10614,Wysteria Bow Tkt,Wysteria Bow Tkt
-10615,Defi Tkt,Defi Tkt
-10616,Vizov Tkt,Vizov Tkt
-10617,Lies Tkt,Lies Tkt
-10618,Via Tkt,Via Tkt
-10619,Ketto Tkt,Ketto Tkt
-10620,Ketto R Tkt,Ketto R Tkt
-10621,Ketto O Tkt,Ketto O Tkt
-10622,Ketto K Tkt,Ketto K Tkt
-10623,Ketto S Tkt,Ketto S Tkt
-10624,Ketto C Tkt,Ketto C Tkt
-10625,Ketto D Tkt,Ketto D Tkt
-10626,Poisuku Tkt,Poisuku Tkt
-10627,Poisuku R Tkt,Poisuku R Tkt
-10628,Poisuku J Tkt,Poisuku J Tkt
-10629,Poisuku P Tkt,Poisuku P Tkt
-10630,Poisuku C Tkt,Poisuku C Tkt
-10631,Poisuku S Tkt,Poisuku S Tkt
-10632,Poisuku U Tkt,Poisuku U Tkt
-10633,Lorelei Tkt,Lorelei Tkt
-10634,Mansana Tkt,Mansana Tkt
-10635,Fata Tkt,Fata Tkt
-10636,Fleur Tkt,Fleur Tkt
+10593,Stradia Tkt,斯特拉迪亞票
+10594,Riura Tkt,琉拉票
+10595,Larcia Tkt,拉爾西亞票
+10596,Shelsha Tkt,謝爾夏票
+10597,Lagri Tkt,拉格里票
+10598,Lagri B Tkt,ラグリＢ票
+10599,Lagri P Tkt,ラグリＰ票
+10600,Lagri R Tkt,ラグリＲ票
+10601,Lagri D Tkt,ラグリＤ票
+10602,Lagri S Tkt,ラグリＳ票
+10603,Lagri K Tkt,ラグリＫ票
+10604,Zaouli Tkt,扎烏里票
+10605,Zaouli B Tkt,ザウリＢ票
+10606,Zaouli P Tkt,ザウリＰ票
+10607,Zaouli R Tkt,ザウリＲ票
+10608,Zaouli D Tkt,ザウリＤ票
+10609,Zaouli S Tkt,ザウリＳ票
+10610,Zaouli K Tkt,ザウリＫ票
+10611,Hanachirusato Tkt,花散里票
+10612,Flower Petal V.Tkt,花弁Ｖ票
+10613,Flower Bow Tkt,花弓票
+10614,Wysteria Bow Tkt,紫藤弓票
+10615,Defi Tkt,德菲票
+10616,Vizov Tkt,維佐夫票
+10617,Lies Tkt,利斯票
+10618,Via Tkt,維亞票
+10619,Ketto Tkt,凱托票
+10620,Ketto R Tkt,ケットＲ票
+10621,Ketto O Tkt,ケットＯ票
+10622,Ketto K Tkt,ケットＫ票
+10623,Ketto S Tkt,ケットＳ票
+10624,Ketto C Tkt,ケットＣ票
+10625,Ketto D Tkt,ケットＤ票
+10626,Poisuku Tkt,波伊斯克票
+10627,Poisuku R Tkt,ポイスクＲ票
+10628,Poisuku J Tkt,ポイスクＪ票
+10629,Poisuku P Tkt,ポイスクＰ票
+10630,Poisuku C Tkt,ポイスクＣ票
+10631,Poisuku S Tkt,ポイスクＳ票
+10632,Poisuku U Tkt,ポイスクＵ票
+10633,Lorelei Tkt,羅蕾来票
+10634,Mansana Tkt,曼薩納票
+10635,Fata Tkt,法塔票
+10636,Fleur Tkt,芙蕾票
 10637,Lunastra Pwr.Scl,Lunastra Pwr.Scl
 10638,Lunastra Pwr.Shl,Lunastra Pwr.Shl
 10639,Luna. Noble Wing,Luna. Noble Wing
@@ -10661,56 +10661,56 @@ index,source,target
 10659,P. Rath Great Spike,P. Rath Great Spike
 10660,P. Rath Glow Plate,P. Rath Glow Plate
 10661,P. Rathian Haze Shl,P. Rathian Haze Shl
-10662,Risty Tkt,Risty Tkt
-10663,Del Sur Tkt,Del Sur Tkt
-10664,Trihes Tkt,Trihes Tkt
-10665,Lux Raw Tkt,Lux Raw Tkt
-10666,Zut Student Tkt,Zut Student Tkt
-10667,Tower Potion,Tower Potion
-10668,Tower Mega Potion,Tower Mega Potion
-10669,Tower Max Potion,Tower Max Potion
+10662,Risty Tkt,里斯蒂票
+10663,Del Sur Tkt,德爾蘇爾票
+10664,Trihes Tkt,特里赫斯票
+10665,Lux Raw Tkt,呂克斯生票
+10666,Zut Student Tkt,祖特生徒票
+10667,Tower Potion,塔回復藥
+10668,Tower Mega Potion,塔回復藥．大
+10669,Tower Max Potion,塔萬能藥
 10670,Life Dust,Life Dust
-10671,Tower Steak,Tower Steak
-10672,Twr WellDone Steak,Twr WellDone Steak
-10673,Tower Antidote,Tower Antidote
+10671,Tower Steak,塔牛排
+10672,Twr WellDone Steak,塔熟肉
+10673,Tower Antidote,塔解毒藥
 10674,Deadly Poison Cure,Deadly Poison Cure
-10675,Tower Deoderant,Tower Deoderant
-10676,Tower Immunizer,Tower Immunizer
-10677,Tower Immunizer G,Tower Immunizer G
-10678,Twr MoveSpd Fruit,Twr MoveSpd Fruit
-10679,Tower Armor Pill,Tower Armor Pill
-10680,Tower Dash Juice,Tower Dash Juice
-10681,Tower Dash Juice G,Tower Dash Juice G
-10682,Tower SmallBrlBomb,Tower SmallBrlBomb
-10683,Tower ThrowingBomb,Tower ThrowingBomb
+10675,Tower Deoderant,塔消臭劑
+10676,Tower Immunizer,塔免疫藥
+10677,Tower Immunizer G,塔免疫藥Ｇ
+10678,Twr MoveSpd Fruit,塔移動速度果實
+10679,Tower Armor Pill,塔硬化藥丸
+10680,Tower Dash Juice,塔強走藥
+10681,Tower Dash Juice G,塔強走藥Ｇ
+10682,Tower SmallBrlBomb,塔小桶爆彈
+10683,Tower ThrowingBomb,塔投擲爆彈
 10684,Small horn,Small horn
-10685,T. Whetstones,T. Whetstones
-10686,T. Fast Whetstone,T. Fast Whetstone
-10687,T. Power Coating,T. Power Coating
-10688,T. Poison Coating,T. Poison Coating
-10689,T. Normal S LV2,T. Normal S LV2
-10690,T. Normal S LV3,T. Normal S LV3
-10691,T. Pierce S LV1,T. Pierce S LV1
-10692,T. Pierce S LV2,T. Pierce S LV2
-10693,T. Pierce S LV3,T. Pierce S LV3
-10694,T. Pellet S Lv1,T. Pellet S Lv1
-10695,T. Pellet S Lv2,T. Pellet S Lv2
-10696,T. Pellet S Lv3,T. Pellet S Lv3
-10697,T. Crag S Lv1,T. Crag S Lv1
-10698,T. Crag S Lv2,T. Crag S Lv2
-10699,T. Crag S Lv3,T. Crag S Lv3
-10700,T. Clust S Lv1,T. Clust S Lv1
-10701,T. Clust S Lv2,T. Clust S Lv2
-10702,T. Clust S Lv3,T. Clust S Lv3
-10703,T. Flaming S,T. Flaming S
-10704,T. Water S,T. Water S
-10705,T. Thunder S,T. Thunder S
-10706,T. Freeze S,T. Freeze S
-10707,T. Dragon S,T. Dragon S
-10708,T. Recov S Lv1,T. Recov S Lv1
-10709,T. Recov S Lv2,T. Recov S Lv2
-10710,T. Poison S Lv1,T. Poison S Lv1
-10711,T. Poison S Lv2,T. Poison S Lv2
+10685,T. Whetstones,塔砥石
+10686,T. Fast Whetstone,塔高速砥石
+10687,T. Power Coating,塔強撃瓶
+10688,T. Poison Coating,塔毒瓶
+10689,T. Normal S LV2,塔通常彈ＬＶ２
+10690,T. Normal S LV3,塔通常彈ＬＶ３
+10691,T. Pierce S LV1,塔貫通彈ＬＶ１
+10692,T. Pierce S LV2,塔貫通彈ＬＶ２
+10693,T. Pierce S LV3,塔貫通彈ＬＶ３
+10694,T. Pellet S Lv1,塔散彈ＬＶ１
+10695,T. Pellet S Lv2,塔散彈ＬＶ２
+10696,T. Pellet S Lv3,塔散彈ＬＶ３
+10697,T. Crag S Lv1,塔徹甲榴彈ＬＶ１
+10698,T. Crag S Lv2,塔徹甲榴彈ＬＶ２
+10699,T. Crag S Lv3,塔徹甲榴彈ＬＶ３
+10700,T. Clust S Lv1,塔擴散彈ＬＶ１
+10701,T. Clust S Lv2,塔擴散彈ＬＶ２
+10702,T. Clust S Lv3,塔擴散彈ＬＶ３
+10703,T. Flaming S,塔火炎彈
+10704,T. Water S,塔水冷彈
+10705,T. Thunder S,塔電撃彈
+10706,T. Freeze S,塔凍結彈
+10707,T. Dragon S,塔滅龍彈
+10708,T. Recov S Lv1,塔回復彈ＬＶ１
+10709,T. Recov S Lv2,塔回復彈ＬＶ２
+10710,T. Poison S Lv1,塔毒彈ＬＶ１
+10711,T. Poison S Lv2,塔毒彈ＬＶ２
 10712,T.Bomb Crystal,T.Bomb Crystal
 10713,T.Poison Crystal,T.Poison Crystal
 10714,T.Fire Crystal,T.Fire Crystal
@@ -10749,28 +10749,28 @@ index,source,target
 10747,Caravan ChrysnthmBox,Caravan ChrysnthmBox
 10748,Caravan Cherry Box,Caravan Cherry Box
 10749,Grief Seed,Grief Seed
-10750,Madoka Tkt,Madoka Tkt
+10750,Madoka Tkt,瑪多可票
 10751,Soul Gem,Soul Gem
 10752,Faded Soul Gem,Faded Soul Gem
-10753,FG2 Tkt 1,FG2 Tkt 1
-10754,FG2 Tkt 2,FG2 Tkt 2
-10755,FG2 Tkt 3,FG2 Tkt 3
-10756,FG2 Tkt 4,FG2 Tkt 4
-10757,FG2 Tkt 5,FG2 Tkt 5
-10758,FG2 Tkt 6,FG2 Tkt 6
-10759,FG2 Tkt 7,FG2 Tkt 7
+10753,FG2 Tkt 1,ＦＧ２票・１
+10754,FG2 Tkt 2,ＦＧ２票・２
+10755,FG2 Tkt 3,ＦＧ２票・３
+10756,FG2 Tkt 4,ＦＧ２票・４
+10757,FG2 Tkt 5,ＦＧ２票・５
+10758,FG2 Tkt 6,ＦＧ２票・６
+10759,FG2 Tkt 7,ＦＧ２票・７
 10760,Dummy 10760,Dummy 10760
 10761,Dummy 10761,Dummy 10761
 10762,Dummy 10762,Dummy 10762
 10763,"New Years Gift ""Ram""","New Years Gift ""Ram"""
 10764,Sweet Fragrance,Sweet Fragrance
 10765,Glimmering Peach,Glimmering Peach
-10766,Glitter Powder,Glitter Powder
+10766,Glitter Powder,閃耀粉末
 10767,Graceful Vessel,Graceful Vessel
 10768,Brave Helmet,Brave Helmet
 10769,White Cats Bill,White Cats Bill
-10770,Crimson Cat Barrel,Crimson Cat Barrel
-10771,Aku Cat Barrel,Aku Cat Barrel
+10770,Crimson Cat Barrel,紅猫桶
+10771,Aku Cat Barrel,惡猫桶
 10772,Stormsoul Grass,Stormsoul Grass
 10773,Hillsoul Grass,Hillsoul Grass
 10774,Dusk ・ Navy Blue,Dusk ・ Navy Blue
@@ -10779,7 +10779,7 @@ index,source,target
 10777,Reisei Petal,Reisei Petal
 10778,Regal Black Cloth,Regal Black Cloth
 10779,Golden Thread,Golden Thread
-10780,Trume Tkt,Trume Tkt
+10780,Trume Tkt,特魯梅票
 10781,Guild Crystal Crest,Guild Crystal Crest
 10782,Guild Abyss Crest,Guild Abyss Crest
 10783,Guild Cerise Crest,Guild Cerise Crest
@@ -10799,18 +10799,18 @@ index,source,target
 10797,Shantien Kit 3 Arms,Shantien Kit 3 Arms
 10798,Shantien Kit 3 Waist,Shantien Kit 3 Waist
 10799,Shantien Kit 3 Legs,Shantien Kit 3 Legs
-10800,Bande Tkt (Head),Bande Tkt (Head)
-10801,Bande Tkt (Chest),Bande Tkt (Chest)
-10802,Bande Tkt (Arm),Bande Tkt (Arm)
-10803,Bande Tkt (Waist),Bande Tkt (Waist)
-10804,Bande Tkt (Leg),Bande Tkt (Leg)
-10805,Sun Tkt Head,Sun Tkt Head
-10806,Sun Tkt Torso,Sun Tkt Torso
-10807,Sun Tkt Arms,Sun Tkt Arms
-10808,Sun Tkt Waist,Sun Tkt Waist
-10809,Sun Tkt Legs,Sun Tkt Legs
-10810,Bendi Tkt,Bendi Tkt
-10811,Revenants Tkt,Revenants Tkt
+10800,Bande Tkt (Head),班德()頭票
+10801,Bande Tkt (Chest),バンデ胴票
+10802,Bande Tkt (Arm),バンデ腕票
+10803,Bande Tkt (Waist),バンデ腰票
+10804,Bande Tkt (Leg),バンデ脚票
+10805,Sun Tkt Head,太陽頭票
+10806,Sun Tkt Torso,太陽胴票
+10807,Sun Tkt Arms,太陽腕票
+10808,Sun Tkt Waist,太陽腰票
+10809,Sun Tkt Legs,太陽脚票
+10810,Bendi Tkt,本迪票
+10811,Revenants Tkt,亡靈票
 10812,Gold Ornament Shrd,Gold Ornament Shrd
 10813,Pink Star Iron,Pink Star Iron
 10814,Iron Tinted Jewel,Iron Tinted Jewel
@@ -10998,11 +10998,11 @@ index,source,target
 10996,Steady Hand PA1,Steady Hand PA1
 10997,Drug Knowledge PA4,Drug Knowledge PA4
 10998,dummy10998,dummy10998
-10999,Banded Cat Tkt,Banded Cat Tkt
-11000,Ban Cat Tkt Head,Ban Cat Tkt Head
-11001,Ban Cat Tkt Torso,Ban Cat Tkt Torso
+10999,Banded Cat Tkt,縞猫票
+11000,Ban Cat Tkt Head,宴會猫頭票
+11001,Ban Cat Tkt Torso,宴會猫胴票
 11002,Flower Dumpling,Flower Dumpling
-11003,Sun Cat Tkt Head,Sun Cat Tkt Head
+11003,Sun Cat Tkt Head,太陽猫頭票
 11004,Copper Flower,Copper Flower
 11005,Transparent Crystl,Transparent Crystl
 11006,Blue Crystal,Blue Crystal
@@ -11164,19 +11164,19 @@ index,source,target
 11162,Pulsating Liquid,Pulsating Liquid
 11163,Ancient Gold Shard,Ancient Gold Shard
 11164,Ancient Technology,Ancient Technology
-11165,Tower Catalyst,Tower Catalyst
-11166,Sun Cat Tkt Torso,Sun Cat Tkt Torso
+11165,Tower Catalyst,塔催化劑
+11166,Sun Cat Tkt Torso,太陽猫胴票
 11167,Tower Medal,Tower Medal
-11168,Nickname Ticket,Nickname Ticket
-11169,Personality Ticket,Personality Ticket
+11168,Nickname Ticket,稱號票
+11169,Personality Ticket,性格票
 11170,Purple Black Ore,Purple Black Ore
 11171,Motion・DS 1,Motion・DS 1
 11172,Motion・Hammer 1,Motion・Hammer 1
 11173,Ancient Book,Ancient Book
-11174,Cardia Tkt,Cardia Tkt
-11175,Munimy Tkt,Munimy Tkt
-11176,Melody Tkt,Melody Tkt
-11177,Harmony Tkt,Harmony Tkt
+11174,Cardia Tkt,可爾迪亞票
+11175,Munimy Tkt,穆尼米票
+11176,Melody Tkt,旋律票
+11177,Harmony Tkt,調和票
 11178,Asteli Head,Asteli Head
 11179,Asteli Chest,Asteli Chest
 11180,Asteli Arms,Asteli Arms
@@ -11241,8 +11241,8 @@ index,source,target
 11239,Luchar GN G,Luchar GN G
 11240,Luchar GN GF,Luchar GN GF
 11241,Luchar GN GX,Luchar GN GX
-11242,3P Pugi Tkt,3P Pugi Tkt
-11243,5P Pugi Tkt,5P Pugi Tkt
+11242,3P Pugi Tkt,3普吉票
+11243,5P Pugi Tkt,プギ５票
 11244,Halk Raw Feed,Halk Raw Feed
 11245,Halk Fire Feed,Halk Fire Feed
 11246,Halk Water Feed,Halk Water Feed
@@ -11284,36 +11284,36 @@ index,source,target
 11282,True Soul Ball,True Soul Ball
 11283,Dragon Crystal Gem,Dragon Crystal Gem
 11284,Ceremony Lyrics,Ceremony Lyrics
-11285,Mirage Powder,Mirage Powder
+11285,Mirage Powder,幻影粉末
 11286,Ancient Super Stl,Ancient Super Stl
 11287,Thank You Ⅷ,Thank You Ⅷ
-11288,Azoth Tkt,Azoth Tkt
-11289,Blue Azoth Tkt,Blue Azoth Tkt
-11290,Red Spear Tkt,Red Spear Tkt
-11291,Black Spear Tkt,Black Spear Tkt
-11292,Marinero Tkt,Marinero Tkt
-11293,Materoto Tkt,Materoto Tkt
-11294,Maru Tkt,Maru Tkt
-11295,Thalassa Tkt,Thalassa Tkt
-11296,FG3 Tkt 1,FG3 Tkt 1
-11297,FG3 Tkt 2,FG3 Tkt 2
-11298,FG3 Tkt 3,FG3 Tkt 3
-11299,FG3 Tkt 4,FG3 Tkt 4
-11300,FG3 Tkt 5,FG3 Tkt 5
-11301,Ruvuni Tkt,Ruvuni Tkt
-11302,Diablos Tkt,Diablos Tkt
-11303,Viri Tkt,Viri Tkt
-11304,Viri B Tkt,Viri B Tkt
-11305,Viri R Tkt,Viri R Tkt
-11306,Viri L Tkt,Viri L Tkt
-11307,Tupars Tkt,Tupars Tkt
-11308,Zafia Tkt,Zafia Tkt
-11309,Oniche Tkt,Oniche Tkt
-11310,Oniche B Tkt,Oniche B Tkt
-11311,Oniche R Tkt,Oniche R Tkt
-11312,Oniche L Tkt,Oniche L Tkt
-11313,Manaito Tkt,Manaito Tkt
-11314,Supirune Tkt,Supirune Tkt
+11288,Azoth Tkt,阿佐特票
+11289,Blue Azoth Tkt,青アゾット票
+11290,Red Spear Tkt,紅槍票
+11291,Black Spear Tkt,黒槍票
+11292,Marinero Tkt,馬里内羅票
+11293,Materoto Tkt,馬特羅托票
+11294,Maru Tkt,瑪魯票
+11295,Thalassa Tkt,塔拉薩票
+11296,FG3 Tkt 1,ＦＧ３票・１
+11297,FG3 Tkt 2,ＦＧ３票・２
+11298,FG3 Tkt 3,ＦＧ３票・３
+11299,FG3 Tkt 4,ＦＧ３票・４
+11300,FG3 Tkt 5,ＦＧ３票・５
+11301,Ruvuni Tkt,魯弗尼票
+11302,Diablos Tkt,角龍票
+11303,Viri Tkt,維里票
+11304,Viri B Tkt,ヴィリＢ票
+11305,Viri R Tkt,ヴィリＲ票
+11306,Viri L Tkt,ヴィリＬ票
+11307,Tupars Tkt,圖拍爾斯票
+11308,Zafia Tkt,扎菲亞票
+11309,Oniche Tkt,奧尼切票
+11310,Oniche B Tkt,オニチェＢ票
+11311,Oniche R Tkt,オニチェＲ票
+11312,Oniche L Tkt,オニチェＬ票
+11313,Manaito Tkt,馬奈托票
+11314,Supirune Tkt,斯皮魯内票
 11315,Abyssal Origin Gem,Abyssal Origin Gem
 11316,Gureadomosu Shl,Gureadomosu Shl
 11317,Gureadomosu Hide,Gureadomosu Hide
@@ -11329,12 +11329,12 @@ index,source,target
 11327,Gurea.Slick Wing,Gurea.Slick Wing
 11328,Gurea.Mossy Tail,Gurea.Mossy Tail
 11329,Gurea.Soft Tube,Gurea.Soft Tube
-11330,Valier Tkt,Valier Tkt
-11331,Louise Tkt,Louise Tkt
-11332,Rei Alma Tkt,Rei Alma Tkt
-11333,Kanpi Tkt,Kanpi Tkt
-11334,Vinci Tkt,Vinci Tkt
-11335,Victor Tkt,Victor Tkt
+11330,Valier Tkt,瓦利埃票
+11331,Louise Tkt,路易絲票
+11332,Rei Alma Tkt,蕾阿爾瑪票
+11333,Kanpi Tkt,坎皮票
+11334,Vinci Tkt,文奇票
+11335,Victor Tkt,勝者票
 11336,Harudomerugu Scale,Harudomerugu Scale
 11337,Harudomerugu Shl,Harudomerugu Shl
 11338,Harudomerugu Claw,Harudomerugu Claw
@@ -11363,21 +11363,21 @@ index,source,target
 11361,White Melody,White Melody
 11362,Charged Junk,Charged Junk
 11363,Black Steel Stone,Black Steel Stone
-11364,Rotten Shock Water,Rotten Shock Water
+11364,Rotten Shock Water,腐敗麻痺水
 11365,Blaze Box,Blaze Box
 11366,Fague Steel,Fague Steel
 11367,Shiny Sucker,Shiny Sucker
 11368,Coast Soul Grass,Coast Soul Grass
 11369,Forest Soul Grass,Forest Soul Grass
 11370,Lake Soul Grass,Lake Soul Grass
-11371,Lineage Tkt,Lineage Tkt
-11372,Regina Tkt,Regina Tkt
-11373,Prince Tkt,Prince Tkt
-11374,Sovereign Tkt,Sovereign Tkt
-11375,Regalia Tkt,Regalia Tkt
-11376,Nobless Tkt,Nobless Tkt
-11377,Varia T Tkt,Varia T Tkt
-11378,Esse SC Tkt,Esse SC Tkt
+11371,Lineage Tkt,血脈票
+11372,Regina Tkt,女王票
+11373,Prince Tkt,王子票
+11374,Sovereign Tkt,君主票
+11375,Regalia Tkt,王徽票
+11376,Nobless Tkt,貴族票
+11377,Varia T Tkt,ヴァリアＴ票
+11378,Esse SC Tkt,艾塞ＳＣ票
 11379,Harudomerugu Proof,Harudomerugu Proof
 11380,Gureadomosu Proof,Gureadomosu Proof
 11381,Power Ritual・Red,Power Ritual・Red
@@ -11392,8 +11392,8 @@ index,source,target
 11390,Forgotten Seashell,Forgotten Seashell
 11391,Precious Heart,Precious Heart
 11392,Flowing Metal Pieces,Flowing Metal Pieces
-11393,Prime Ticket,Prime Ticket
-11394,Regnum Neko Tkt,Regnum Neko Tkt
+11393,Prime Ticket,極票
+11394,Regnum Neko Tkt,王領猫票
 11395,Entangled Chains,Entangled Chains
 11396,Rusty Fork,Rusty Fork
 11397,Distorted Fork,Distorted Fork
@@ -11402,46 +11402,46 @@ index,source,target
 11400,Silent Fuse,Silent Fuse
 11401,Sorairodake,Sorairodake
 11402,Momoirodake,Momoirodake
-11403,Projection Cat Tkt,Projection Cat Tkt
-11404,Promise Cat Tkt,Promise Cat Tkt
-11405,Regu Cat Tkt,Regu Cat Tkt
+11403,Projection Cat Tkt,投影猫票
+11404,Promise Cat Tkt,約定猫票
+11405,Regu Cat Tkt,雷古猫票
 11406,Dirty Blue S. Fabric,Dirty Blue S. Fabric
-11407,Distorted Knife,Distorted Knife
+11407,Distorted Knife,歪曲投擲刀
 11408,Sunset Blade,Sunset Blade
 11409,Night Blade,Night Blade
 11410,Star Type Augite,Star Type Augite
 11411,Rugged Stone,Rugged Stone
-11412,Used Barrel Bomb,Used Barrel Bomb
+11412,Used Barrel Bomb,用過的桶爆彈
 11413,Worn Button,Worn Button
 11414,Scratched Button,Scratched Button
-11415,Archer Cat Tkt Head,Archer Cat Tkt Head
-11416,Knight Cat Tkt Head,Knight Cat Tkt Head
-11417,Regu Cat Tkt Torso,Regu Cat Tkt Torso
-11418,Archer Cat Tkt Torso,Archer Cat Tkt Torso
-11419,Knight Cat Tkt Torso,Knight Cat Tkt Torso
-11420,UBW Tkt,UBW Tkt
-11421,Regnum Tkt Head,Regnum Tkt Head
-11422,Regnum Tkt Torso,Regnum Tkt Torso
-11423,Regnum Tkt Arms,Regnum Tkt Arms
-11424,Regnum Tkt Waist,Regnum Tkt Waist
-11425,Regnum Tkt Legs,Regnum Tkt Legs
-11426,Marine Tkt Head,Marine Tkt Head
-11427,Marine Tkt Torso,Marine Tkt Torso
-11428,Marine Tkt Arms,Marine Tkt Arms
-11429,Marine Tkt Waist,Marine Tkt Waist
-11430,Marine Tkt Legs,Marine Tkt Legs
-11431,Rufflet Tkt Head,Rufflet Tkt Head
-11432,Rufflet Tkt Torso,Rufflet Tkt Torso
-11433,Rufflet Tkt Arms,Rufflet Tkt Arms
-11434,Rufflet Tkt Waist,Rufflet Tkt Waist
-11435,Rufflet Tkt Legs,Rufflet Tkt Legs
-11436,Bronte Tkt,Bronte Tkt
-11437,Solene Tkt,Solene Tkt
-11438,Rapinu Ticket,Rapinu Ticket
+11415,Archer Cat Tkt Head,射手猫頭票
+11416,Knight Cat Tkt Head,騎士猫頭票
+11417,Regu Cat Tkt Torso,レグ猫胴票
+11418,Archer Cat Tkt Torso,射手猫胴票
+11419,Knight Cat Tkt Torso,騎士猫胴票
+11420,UBW Tkt,ＵＢＷ票
+11421,Regnum Tkt Head,王領頭票
+11422,Regnum Tkt Torso,王領胴票
+11423,Regnum Tkt Arms,王領腕票
+11424,Regnum Tkt Waist,王領腰票
+11425,Regnum Tkt Legs,王領脚票
+11426,Marine Tkt Head,海洋頭票
+11427,Marine Tkt Torso,海洋胴票
+11428,Marine Tkt Arms,海洋腕票
+11429,Marine Tkt Waist,海洋腰票
+11430,Marine Tkt Legs,海洋脚票
+11431,Rufflet Tkt Head,拉弗雷特頭票
+11432,Rufflet Tkt Torso,ラフレット胴票
+11433,Rufflet Tkt Arms,ラフレット腕票
+11434,Rufflet Tkt Waist,ラフレット腰票
+11435,Rufflet Tkt Legs,ラフレット脚票
+11436,Bronte Tkt,布朗特票
+11437,Solene Tkt,索蕾努票
+11438,Rapinu Ticket,拉皮努票
 11439,Caravan Secret Box,Caravan Secret Box
 11440,Pallone Trsr,Pallone Trsr
 11441,Faded Blue S. Fabric,Faded Blue S. Fabric
-11442,Tropio Tkt,Tropio Tkt
+11442,Tropio Tkt,特羅皮奧票
 11443,Sharp UP Sigil,Sharp UP Sigil
 11444,Skill UP Sigil,Skill UP Sigil
 11445,Attack UP Sigil,Attack UP Sigil
@@ -11454,9 +11454,9 @@ index,source,target
 11452,GR Armor Sigil,GR Armor Sigil
 11453,Old Stone Block,Old Stone Block
 11454,Tecatekanite,Tecatekanite
-11455,Gold Tarneko Tkt ,Gold Tarneko Tkt 
-11456,Silver Tarneko Tkt ,Silver Tarneko Tkt 
-11457,Cppr Tarneko Tkt ,Cppr Tarneko Tkt 
+11455,Gold Tarneko Tkt ,金タルネコ票
+11456,Silver Tarneko Tkt ,銀タルネコ票
+11457,Cppr Tarneko Tkt ,銅タルネコ票
 11458,Gamboge Jewel,Gamboge Jewel
 11459,Patina Jewel,Patina Jewel
 11460,Ebony Jewel,Ebony Jewel
@@ -11470,7 +11470,7 @@ index,source,target
 11468,Anc.HopeStone [Yel],Anc.HopeStone [Yel]
 11469,Anc.HopeStone [Pur],Anc.HopeStone [Pur]
 11470,Guild Crest,Guild Crest
-11471,Support Flute G,Support Flute G
+11471,Support Flute G,支援笛Ｇ
 11472,Hungry Blade G,Hungry Blade G
 11473,Gunlancer G,Gunlancer G
 11474,Persistence G,Persistence G
@@ -11712,7 +11712,7 @@ index,source,target
 11710,W.Monoblos Hard Fng,W.Monoblos Hard Fng
 11711,W.Monoblos Hrd Shl,W.Monoblos Hrd Shl
 11712,W.Mono Savage Shl,W.Mono Savage Shl
-11713,Preparation Tkt,Preparation Tkt
+11713,Preparation Tkt,準備票
 11714,Abyssal True Blood,Abyssal True Blood
 11715,Yama Kurai Hide,Yama Kurai Hide
 11716,Yama Kurai Fur,Yama Kurai Fur
@@ -11780,10 +11780,10 @@ index,source,target
 11778,Neko Jewel L.Yellow,Neko Jewel L.Yellow
 11779,Neko Jewel D.Green,Neko Jewel D.Green
 11780,Neko Jewel D.Brown,Neko Jewel D.Brown
-11781,Tower Para S. Lv1,Tower Para S. Lv1
-11782,Tower Para S. Lv2,Tower Para S. Lv2
-11783,Tower Sleep S. LV1,Tower Sleep S. LV1
-11784,Tower Sleep S. Lv2,Tower Sleep S. Lv2
+11781,Tower Para S. Lv1,塔麻痺彈ＬＶ１
+11782,Tower Para S. Lv2,塔麻痺彈ＬＶ２
+11783,Tower Sleep S. LV1,塔睡眠彈ＬＶ１
+11784,Tower Sleep S. Lv2,塔睡眠彈ＬＶ２
 11785,Gesture・LBG Ⅰ,Gesture・LBG Ⅰ
 11786,Gesture・GS Ⅰ,Gesture・GS Ⅰ
 11787,Gesture・Tonfa Ⅰ,Gesture・Tonfa Ⅰ
@@ -11803,7 +11803,7 @@ index,source,target
 11801,Gasura.Spiketail,Gasura.Spiketail
 11802,Gasura.Ocean Lung,Gasura.Ocean Lung
 11803,Gasurabazura Proof,Gasurabazura Proof
-11804,Cilty Tkt,Cilty Tkt
+11804,Cilty Tkt,奇爾蒂票
 11805,Neko Commendation Jwl,Neko Commendation Jwl
 11806,Neko Gathering Jwl,Neko Gathering Jwl
 11807,Neko Exploration Jwl,Neko Exploration Jwl
@@ -11981,23 +11981,23 @@ index,source,target
 11979,ネコ攻睡爆・極珠,ネコ攻睡爆・極珠
 11980,Exotic Gem,Exotic Gem
 11981,Exotic Bone,Exotic Bone
-11982,Airyu Tkt,Airyu Tkt
-11983,Cornpopper Tkt,Cornpopper Tkt
-11984,Gaiasp Tkt,Gaiasp Tkt
-11985,Chak Chak Tkt,Chak Chak Tkt
-11986,Arca Tkt,Arca Tkt
-11987,Grau C Tkt,Grau C Tkt
-11988,Mavro C Tkt,Mavro C Tkt
-11989,Mauve C Tkt,Mauve C Tkt
-11990,Rose C Tkt,Rose C Tkt
-11991,Rashino Tkt,Rashino Tkt
-11992,Rosson Tkt,Rosson Tkt
-11993,IM Pain Tkt,IM Pain Tkt
-11994,Demon FU Tkt,Demon FU Tkt
-11995,Longinus Tkt,Longinus Tkt
-11996,P Rifle Tkt,P Rifle Tkt
-11997,P Knife Tkt,P Knife Tkt
-11998,C Sword Tkt,C Sword Tkt
+11982,Airyu Tkt,艾琉票
+11983,Cornpopper Tkt,爆米花票
+11984,Gaiasp Tkt,蓋亞斯普票
+11985,Chak Chak Tkt,査克査克票
+11986,Arca Tkt,阿爾可票
+11987,Grau C Tkt,灰Ｃ票
+11988,Mavro C Tkt,黒Ｃ票
+11989,Mauve C Tkt,淡紫Ｃ票
+11990,Rose C Tkt,薔薇Ｃ票
+11991,Rashino Tkt,拉希諾票
+11992,Rosson Tkt,羅松票
+11993,IM Pain Tkt,ＩＭ苦痛票
+11994,Demon FU Tkt,鬼人ＦＵ票
+11995,Longinus Tkt,隆基努斯票
+11996,P Rifle Tkt,Ｐ銃票
+11997,P Knife Tkt,Ｐ刀票
+11998,C Sword Tkt,Ｃ大剣票
 11999,Zinogre Carapace,Zinogre Carapace
 12000,Zinogre Electrofur,Zinogre Electrofur
 12001,Zinogre Claw+,Zinogre Claw+
@@ -12016,41 +12016,41 @@ index,source,target
 12014,Sealed Book,Sealed Book
 12015,Binding Book,Binding Book
 12016,Cleansing Book,Cleansing Book
-12017,Fate Sword Tkt,Fate Sword Tkt
-12018,Karma Sword Tkt,Karma Sword Tkt
-12019,End Hammer Tkt,End Hammer Tkt
-12020,Final Hammer Tkt,Final Hammer Tkt
-12021,Eternal Bow Tkt,Eternal Bow Tkt
-12022,Immortal Bow Tkt,Immortal Bow Tkt
-12023,Etotra Tkt,Etotra Tkt
-12024,Latesia Tkt,Latesia Tkt
-12025,Artes Tkt,Artes Tkt
-12026,Polemika Tkt,Polemika Tkt
-12027,S Dist Tkt,S Dist Tkt
-12028,S Troll Tkt,S Troll Tkt
-12029,S Est Tkt,S Est Tkt
-12030,S Mira Tkt,S Mira Tkt
-12031,S Domino Tkt,S Domino Tkt
-12032,Pral Tkt,Pral Tkt
-12033,Larufi Tkt,Larufi Tkt
-12034,F Dist Tkt,F Dist Tkt
-12035,F Troll Tkt,F Troll Tkt
-12036,F Est Tkt,F Est Tkt
-12037,F Mira Tkt,F Mira Tkt
-12038,F Domino Tkt,F Domino Tkt
-12039,Uber Tkt,Uber Tkt
-12040,Yufal Tkt,Yufal Tkt
+12017,Fate Sword Tkt,運命剣票
+12018,Karma Sword Tkt,業剣票
+12019,End Hammer Tkt,終焉大錘票
+12020,Final Hammer Tkt,最終大錘票
+12021,Eternal Bow Tkt,永遠弓票
+12022,Immortal Bow Tkt,不滅弓票
+12023,Etotra Tkt,埃托特拉票
+12024,Latesia Tkt,拉特西亞票
+12025,Artes Tkt,阿爾特斯票
+12026,Polemika Tkt,波来米可票
+12027,S Dist Tkt,迪斯特Ｓ票
+12028,S Troll Tkt,巨魔Ｓ票
+12029,S Est Tkt,艾斯特Ｓ票
+12030,S Mira Tkt,米拉Ｓ票
+12031,S Domino Tkt,多米諾Ｓ票
+12032,Pral Tkt,普拉爾票
+12033,Larufi Tkt,拉魯菲票
+12034,F Dist Tkt,ディストＦ票
+12035,F Troll Tkt,トロールＦ票
+12036,F Est Tkt,エストＦ票
+12037,F Mira Tkt,ミラＦ票
+12038,F Domino Tkt,ドミノＦ票
+12039,Uber Tkt,超絶票
+12040,Yufal Tkt,尤法爾票
 12041,Caravan Crmellia Box,Caravan Crmellia Box
 12042,Caravan Hllyhock Box,Caravan Hllyhock Box
-12043,T.Para Coating,T.Para Coating
-12044,T.Sleep Coating,T.Sleep Coating
+12043,T.Para Coating,塔麻痺瓶
+12044,T.Sleep Coating,塔睡眠瓶
 12045,Grave Claw,Grave Claw
 12046,Solemn Purple Cloth,Solemn Purple Cloth
 12047,Soft White Hair,Soft White Hair
 12048,Large Black Cusps,Large Black Cusps
 12049,Surging Blk Carapace,Surging Blk Carapace
 12050,Boiling Red Carapace,Boiling Red Carapace
-12051,Crab Cat Tkt,Crab Cat Tkt
+12051,Crab Cat Tkt,蟹猫票
 12052,Chipped Metal Piece,Chipped Metal Piece
 12053,Palm Sized Screw,Palm Sized Screw
 12054,Muddy Ball,Muddy Ball
@@ -12059,8 +12059,8 @@ index,source,target
 12057,Fragrant Fishing Line,Fragrant Fishing Line
 12058,Fragrant Fish Net,Fragrant Fish Net
 12059,Frgrnt Metal Fitting,Frgrnt Metal Fitting
-12060,Crab Cat Tkt Head,Crab Cat Tkt Head
-12061,Pen Cat Tkt Head,Pen Cat Tkt Head
+12060,Crab Cat Tkt Head,蟹猫頭票
+12061,Pen Cat Tkt Head,潘猫頭票
 12062,Hajikeru Fruit,Hajikeru Fruit
 12063,Bright Blue Flower,Bright Blue Flower
 12064,Frostbite Flower,Frostbite Flower
@@ -12085,24 +12085,24 @@ index,source,target
 12083,Coral Jewel,Coral Jewel
 12084,Navy Jewel,Navy Jewel
 12085,Crabapple Jewel,Crabapple Jewel
-12086,M. Challenge Tkt 1,M. Challenge Tkt 1
-12087,M. Challenge Tkt 2,M. Challenge Tkt 2
-12088,M. Challenge Tkt 3,M. Challenge Tkt 3
-12089,M. Challenge Tkt 4,M. Challenge Tkt 4
-12090,M. Challenge Tkt 5,M. Challenge Tkt 5
-12091,M. Challenge Tkt 6,M. Challenge Tkt 6
-12092,M. Answer Tkt 1A,M. Answer Tkt 1A
-12093,M. Answer Tkt 1B,M. Answer Tkt 1B
-12094,M. Answer Tkt 2A,M. Answer Tkt 2A
-12095,M. Answer Tkt 2B,M. Answer Tkt 2B
-12096,M. Answer Tkt 3A,M. Answer Tkt 3A
-12097,M. Answer Tkt 3B,M. Answer Tkt 3B
-12098,M. Answer Tkt 4A,M. Answer Tkt 4A
-12099,M. Answer Tkt 4B,M. Answer Tkt 4B
-12100,M. Answer Tkt 5A,M. Answer Tkt 5A
-12101,M. Answer Tkt 5B,M. Answer Tkt 5B
-12102,M. Answer Tkt 6A,M. Answer Tkt 6A
-12103,M. Answer Tkt 6B,M. Answer Tkt 6B
+12086,M. Challenge Tkt 1,Ｍ・挑戦票・１
+12087,M. Challenge Tkt 2,Ｍ・挑戦票・２
+12088,M. Challenge Tkt 3,Ｍ・挑戦票・３
+12089,M. Challenge Tkt 4,Ｍ・挑戦票・４
+12090,M. Challenge Tkt 5,Ｍ・挑戦票・５
+12091,M. Challenge Tkt 6,Ｍ・挑戦票・６
+12092,M. Answer Tkt 1A,Ｍ・回答票・１Ａ
+12093,M. Answer Tkt 1B,Ｍ・回答票・１Ｂ
+12094,M. Answer Tkt 2A,Ｍ・回答票・２Ａ
+12095,M. Answer Tkt 2B,Ｍ・回答票・２Ｂ
+12096,M. Answer Tkt 3A,Ｍ・回答票・３Ａ
+12097,M. Answer Tkt 3B,Ｍ・回答票・３Ｂ
+12098,M. Answer Tkt 4A,Ｍ・回答票・４Ａ
+12099,M. Answer Tkt 4B,Ｍ・回答票・４Ｂ
+12100,M. Answer Tkt 5A,Ｍ・回答票・５Ａ
+12101,M. Answer Tkt 5B,Ｍ・回答票・５Ｂ
+12102,M. Answer Tkt 6A,Ｍ・回答票・６Ａ
+12103,M. Answer Tkt 6B,Ｍ・回答票・６Ｂ
 12104,Cross Pendant,Cross Pendant
 12105,Fancy Mirror,Fancy Mirror
 12106,Beautiful Mirror,Beautiful Mirror
@@ -12129,12 +12129,12 @@ index,source,target
 12127,Leather Bookmark,Leather Bookmark
 12128,Embroidered Bookmark,Embroidered Bookmark
 12129,人類補完計画書,人類補完計画書
-12130,Dusk Tkt Head,Dusk Tkt Head
-12131,Dusk Tkt Torso,Dusk Tkt Torso
-12132,Dusk Tkt Arms,Dusk Tkt Arms
-12133,Dusk Tkt Waist,Dusk Tkt Waist
-12134,Dusk Tkt Legs,Dusk Tkt Legs
-12135,EVA Tkt,EVA Tkt
+12130,Dusk Tkt Head,黄昏頭票
+12131,Dusk Tkt Torso,黄昏胴票
+12132,Dusk Tkt Arms,黄昏腕票
+12133,Dusk Tkt Waist,黄昏腰票
+12134,Dusk Tkt Legs,黄昏脚票
+12135,EVA Tkt,ＥＶＡ票
 12136,トイスト生産券,トイスト生産券
 12137,Disu Kit 1 Head,Disu Kit 1 Head
 12138,Disu Kit 1 Chest,Disu Kit 1 Chest
@@ -12151,11 +12151,11 @@ index,source,target
 12149,Disu Kit 3 Arms,Disu Kit 3 Arms
 12150,Disu Kit 3 Waist,Disu Kit 3 Waist
 12151,Disu Kit 3 Legs,Disu Kit 3 Legs
-12152,Gania Tkt Head,Gania Tkt Head
-12153,Gania Tkt Torso,Gania Tkt Torso
-12154,Gania Tkt Arms,Gania Tkt Arms
-12155,Gania Tkt Waist,Gania Tkt Waist
-12156,Gania Tkt Legs,Gania Tkt Legs
+12152,Gania Tkt Head,加尼亞頭票
+12153,Gania Tkt Torso,ガニア胴票
+12154,Gania Tkt Arms,ガニア腕票
+12155,Gania Tkt Waist,ガニア腰票
+12156,Gania Tkt Legs,ガニア脚票
 12157,Wrath BM G,Wrath BM G
 12158,Wrath BM GF,Wrath BM GF
 12159,Wrath BM GX1,Wrath BM GX1
@@ -12385,21 +12385,21 @@ index,source,target
 12383,Dummy 12383,Dummy 12383
 12384,Dummy 12384,Dummy 12384
 12385,Dummy 12385,Dummy 12385
-12386,FG4 Tkt 1,FG4 Tkt 1
-12387,FG4 Tkt 2,FG4 Tkt 2
-12388,FG4 Tkt 3,FG4 Tkt 3
-12389,FG4 Tkt 4,FG4 Tkt 4
-12390,FG4 Tkt 5,FG4 Tkt 5
+12386,FG4 Tkt 1,ＦＧ４票・１
+12387,FG4 Tkt 2,ＦＧ４票・２
+12388,FG4 Tkt 3,ＦＧ４票・３
+12389,FG4 Tkt 4,ＦＧ４票・４
+12390,FG4 Tkt 5,ＦＧ４票・５
 12391,オスクリ生産券,オスクリ生産券
 12392,ルスクリ生産券,ルスクリ生産券
-12393,Valenti Tkt,Valenti Tkt
-12394,Begia Tkt,Begia Tkt
+12393,Valenti Tkt,瓦倫蒂票
+12394,Begia Tkt,貝吉亞票
 12395,Dummy 12395,Dummy 12395
 12396,Dummy 12396,Dummy 12396
 12397,Dummy 12397,Dummy 12397
 12398,Dummy 12398,Dummy 12398
 12399,Dummy 12399,Dummy 12399
-12400,Aniba Quest Tkt,Aniba Quest Tkt
+12400,Aniba Quest Tkt,週年任務票
 12401,Exotic Shl,Exotic Shl
 12402,Brach Carapace,Brach Carapace
 12403,Brach EbonShl,Brach EbonShl
@@ -12415,30 +12415,30 @@ index,source,target
 12413,Brach Lash,Brach Lash
 12414,Brach Pounder+,Brach Pounder+
 12415,Brach Pallium,Brach Pallium
-12416,Riko No. Tkt,Riko No. Tkt
-12417,Riko De. Tkt,Riko De. Tkt
-12418,Riko To. Tkt,Riko To. Tkt
-12419,Riko Ku. Tkt,Riko Ku. Tkt
-12420,Riko Shi. Tkt,Riko Shi. Tkt
-12421,Riko Tou. Tkt,Riko Tou. Tkt
-12422,Riko Gala. Tkt,Riko Gala. Tkt
-12423,Gio No. Tkt,Gio No. Tkt
-12424,Gio De. Tkt,Gio De. Tkt
-12425,Gio To. Tkt,Gio To. Tkt
-12426,Gio Ku. Tkt,Gio Ku. Tkt
-12427,Gio Shi. Tkt,Gio Shi. Tkt
-12428,Gio Tou. Tkt,Gio Tou. Tkt
-12429,Gio Gala. Tkt,Gio Gala. Tkt
-12430,Azul Tkt,Azul Tkt
+12416,Riko No. Tkt,里科票
+12417,Riko De. Tkt,リコデ票
+12418,Riko To. Tkt,リコト票
+12419,Riko Ku. Tkt,リコク票
+12420,Riko Shi. Tkt,リコシ票
+12421,Riko Tou. Tkt,リコトウ票
+12422,Riko Gala. Tkt,リコガラ票
+12423,Gio No. Tkt,吉奧票
+12424,Gio De. Tkt,ジオデ票
+12425,Gio To. Tkt,ジオト票
+12426,Gio Ku. Tkt,ジオク票
+12427,Gio Shi. Tkt,ジオシ票
+12428,Gio Tou. Tkt,ジオトウ票
+12429,Gio Gala. Tkt,ジオガラ票
+12430,Azul Tkt,阿祖爾票
 12431,アクダル生産券,アクダル生産券
 12432,ズセ生産券,ズセ生産券
 12433,ロズ生産券,ロズ生産券
-12434,Verde Tkt,Verde Tkt
+12434,Verde Tkt,維爾德票
 12435,アイスバ生産券,アイスバ生産券
-12436,Cassius Tkt,Cassius Tkt
-12437,T Spear Tkt,T Spear Tkt
-12438,N2 Tkt,N2 Tkt
-12439,Super Electromagnet Tkt,Super Electromagnet Tkt
+12436,Cassius Tkt,可西烏斯票
+12437,T Spear Tkt,Ｔ槍票
+12438,N2 Tkt,Ｎ２票
+12439,Super Electromagnet Tkt,超電磁票
 12440,Friendship Proof Red,Friendship Proof Red
 12441,Friendship Proof Blue,Friendship Proof Blue
 12442,Friendship Proof Wht,Friendship Proof Wht
@@ -12469,9 +12469,9 @@ index,source,target
 12467,Raviente Blk Fang,Raviente Blk Fang
 12468,Ravi Hidden Marrow,Ravi Hidden Marrow
 12469,Raviente Blk Spike,Raviente Blk Spike
-12470,Volga Tkt,Volga Tkt
-12471,W Eater Tkt,W Eater Tkt
-12472,Tallfish Tkt,Tallfish Tkt
+12470,Volga Tkt,沃爾加票
+12471,W Eater Tkt,Ｗ・喰者票
+12472,Tallfish Tkt,高魚票
 12473,B Star,B Star
 12474,Green Light Stone,Green Light Stone
 12475,Blood Light Stone,Blood Light Stone
@@ -12494,21 +12494,21 @@ index,source,target
 12492,Guren Jam,Guren Jam
 12493,Toxic Flower,Toxic Flower
 12494,Magzegite Ore,Magzegite Ore
-12495,T. Impact Coating,T. Impact Coating
-12496,T. Acid Shot,T. Acid Shot
-12497,T. Bomb S.,T. Bomb S.
+12495,T. Impact Coating,塔強撃瓶
+12496,T. Acid Shot,塔酸彈
+12497,T. Bomb S.,塔爆彈
 12498,T. Power Crystal,T. Power Crystal
-12499,G9 Gacha Tkt,G9 Gacha Tkt
+12499,G9 Gacha Tkt,Ｇ９抽選票
 12500,Rouge Jewel,Rouge Jewel
 12501,Tortoise Jewel,Tortoise Jewel
 12502,Pale Indigo Jewel,Pale Indigo Jewel
 12503,Elegant Blue Cloth,Elegant Blue Cloth
 12504,Agerta Ore,Agerta Ore
-12505,Kaila Ticket,Kaila Ticket
+12505,Kaila Ticket,凱拉票
 12506,Dawn Docs,Dawn Docs
 12507,RedSnow Ancient Docs,RedSnow Ancient Docs
 12508,Grudg. Ancient Docs,Grudg. Ancient Docs
-12509,Veitch Ticket,Veitch Ticket
+12509,Veitch Ticket,維奇票
 12510,White Beak,White Beak
 12511,Sakura Night Book,Sakura Night Book
 12512,Guild Symbol,Guild Symbol
@@ -12521,14 +12521,14 @@ index,source,target
 12519,採集のコイン６Ｇ,採集のコイン６Ｇ
 12520,採集のコイン収Ｇ,採集のコイン収Ｇ
 12521,採集のコイン穫Ｇ,採集のコイン穫Ｇ
-12522,EVA Tkt Ⅱ,EVA Tkt Ⅱ
-12523,Pen Cat Tkt,Pen Cat Tkt
+12522,EVA Tkt Ⅱ,ＥＶＡ票Ⅱ
+12523,Pen Cat Tkt,ペン猫票
 12524,ギルスカ生産券,ギルスカ生産券
-12525,Amista Tkt Head,Amista Tkt Head
-12526,Amista Tkt Torso,Amista Tkt Torso
-12527,Amista Tkt Arms,Amista Tkt Arms
-12528,Amista Tkt Waist,Amista Tkt Waist
-12529,Amista Tkt Legs,Amista Tkt Legs
+12525,Amista Tkt Head,阿米斯塔頭票
+12526,Amista Tkt Torso,アミスタ胴票
+12527,Amista Tkt Arms,アミスタ腕票
+12528,Amista Tkt Waist,アミスタ腰票
+12529,Amista Tkt Legs,アミスタ脚票
 12530,Lightning BM G,Lightning BM G
 12531,Lightning BM GF,Lightning BM GF
 12532,Lightning BM GX1,Lightning BM GX1
@@ -12768,7 +12768,7 @@ index,source,target
 12766,No.1 Vote Material,No.1 Vote Material
 12767,No.2 Vote Material,No.2 Vote Material
 12768,No.3 Vote Material,No.3 Vote Material
-12769,Amineko Tkt,Amineko Tkt
+12769,Amineko Tkt,阿米猫票
 12770,Thorny Flower,Thorny Flower
 12771,Smooth Flower,Smooth Flower
 12772,Twilight Ore,Twilight Ore
@@ -12777,16 +12777,16 @@ index,source,target
 12775,Festival Cat Bell,Festival Cat Bell
 12776,カラカラ石の塊,カラカラ石の塊
 12777,パローニャ空石,パローニャ空石
-12778,Amineko Tkt Head,Amineko Tkt Head
+12778,Amineko Tkt Head,アミ猫頭票
 12779,Torn Rope,Torn Rope
 12780,Charcoal Rope,Charcoal Rope
-12781,Burnt Cannonball,Burnt Cannonball
-12782,Crushed Cannonball,Crushed Cannonball
+12781,Burnt Cannonball,燒焦砲彈
+12782,Crushed Cannonball,碎裂砲彈
 12783,Soft Fabric,Soft Fabric
 12784,赤青縞の布地,赤青縞の布地
 12785,Glitter Stone,Glitter Stone
 12786,パローニャ緑布,パローニャ緑布
-12787,Amineko Tkt Torso,Amineko Tkt Torso
+12787,Amineko Tkt Torso,アミ猫胴票
 12788,S-DAT,S-DAT
 12789,Dummy 12789,Dummy 12789
 12790,Dummy 12790,Dummy 12790
@@ -12839,7 +12839,7 @@ index,source,target
 12837,Toa Pale Sharphorn,Toa Pale Sharphorn
 12838,Toa Fellwing,Toa Fellwing
 12839,Toa Strong Tail,Toa Strong Tail
-12840,Paraly Tkt,Paraly Tkt
+12840,Paraly Tkt,麻痺票
 12841,デシルト生産券,デシルト生産券
 12842,Uragaan Scale+,Uragaan Scale+
 12843,Uragaan Carapace,Uragaan Carapace
@@ -12852,7 +12852,7 @@ index,source,target
 12850,Uragaan Scute+,Uragaan Scute+
 12851,Uragaan Hard Jaw,Uragaan Hard Jaw
 12852,Uragaan Pallium,Uragaan Pallium
-12853,Gagachu Ticket,Gagachu Ticket
+12853,Gagachu Ticket,加加丘票
 12854,甘露石,甘露石
 12855,夜香水,夜香水
 12856,Toa Proof,Toa Proof
@@ -12871,8 +12871,8 @@ index,source,target
 12869,Lost Lens,Lost Lens
 12870,Freeze Res SC1,Freeze Res SC1
 12871,Ice Age SA1,Ice Age SA1
-12872,Cielo Ticket,Cielo Ticket
-12873,Salta Tkt,Salta Tkt
+12872,Cielo Ticket,西埃洛票
+12873,Salta Tkt,薩爾塔票
 12874,トドル生産券,トドル生産券
 12875,ミネスト生産券,ミネスト生産券
 12876,China Pink Jewel,China Pink Jewel
@@ -12888,7 +12888,7 @@ index,source,target
 12886,Guildmaster Arms,Guildmaster Arms
 12887,Guildmaster Waist,Guildmaster Waist
 12888,Guildmaster Legs,Guildmaster Legs
-12889,Special Hunting Tkt,Special Hunting Tkt
+12889,Special Hunting Tkt,特別狩猟票
 12890,Dummy 12890,Dummy 12890
 12891,Dummy 12891,Dummy 12891
 12892,Dummy 12892,Dummy 12892
@@ -12907,7 +12907,7 @@ index,source,target
 12905,Kushala Fellwing,Kushala Fellwing
 12906,Kushala Strong Tail,Kushala Strong Tail
 12907,Kushala Rage Shl,Kushala Rage Shl
-12908,Nullberry,Nullberry
+12908,Nullberry,抹消果實
 12909,Chameleos Rare Hde,Chameleos Rare Hde
 12910,Chameleos Fellwing,Chameleos Fellwing
 12911,Chameleos Riptalon,Chameleos Riptalon
@@ -12974,26 +12974,26 @@ index,source,target
 12972,SAF Merit Low,SAF Merit Low
 12973,SAF Merit Mid,SAF Merit Mid
 12974,SAF Merit High,SAF Merit High
-12975,Peri Cat Tkt,Peri Cat Tkt
-12976,Peri Cat Head Tkt,Peri Cat Head Tkt
-12977,Peri Cat Torso Tkt,Peri Cat Torso Tkt
+12975,Peri Cat Tkt,佩里猫票
+12976,Peri Cat Head Tkt,ペリ猫頭票
+12977,Peri Cat Torso Tkt,ペリ猫胴票
 12978,桃雫の石,桃雫の石
 12979,Bright Red Ball,Bright Red Ball
 12980,Smooth Fabric,Smooth Fabric
-12981,Broken Barrel Bomb,Broken Barrel Bomb
+12981,Broken Barrel Bomb,破損桶爆彈
 12982,マシノ生産券,マシノ生産券
-12983,Mimital Tkt,Mimital Tkt
+12983,Mimital Tkt,米米塔爾票
 12984,デュヴェ生産券,デュヴェ生産券
 12985,イレク生産券,イレク生産券
 12986,シンシュ生産券,シンシュ生産券
-12987,Feza Tkt,Feza Tkt
-12988,E.Steel Frame Tkt,E.Steel Frame Tkt
+12987,Feza Tkt,費扎票
+12988,E.Steel Frame Tkt,Ｅ・鋼架票
 12989,ジャン剣生産券,ジャン剣生産券
-12990,BOF Tkt,BOF Tkt
-12991,Ryu Dragon Tkt,Ryu Dragon Tkt
-12992,Ryu Fire Tkt,Ryu Fire Tkt
-12993,Engetsu Thndr Tkt,Engetsu Thndr Tkt
-12994,Engetsu Fire Tkt,Engetsu Fire Tkt
+12990,BOF Tkt,ＢＯＦ票
+12991,Ryu Dragon Tkt,琉龍票
+12992,Ryu Fire Tkt,リュウ炎票
+12993,Engetsu Thndr Tkt,炎月雷票
+12994,Engetsu Fire Tkt,エンゲツ炎票
 12995,Hiden Stn (Ribbon),Hiden Stn (Ribbon)
 12996,Hiden Stn (Merits),Hiden Stn (Merits)
 12997,Dummy 12997,Dummy 12997
@@ -13012,32 +13012,32 @@ index,source,target
 13010,Dummy 13010,Dummy 13010
 13011,Dummy 13011,Dummy 13011
 13012,Dummy 13012,Dummy 13012
-13013,Ranze B Tkt,Ranze B Tkt
-13014,Ranze A Tkt,Ranze A Tkt
-13015,Ranze V Tkt,Ranze V Tkt
-13016,Ranze N Tkt,Ranze N Tkt
+13013,Ranze B Tkt,蘭澤Ｂ票
+13014,Ranze A Tkt,ランゼＡ票
+13015,Ranze V Tkt,ランゼＶ票
+13016,Ranze N Tkt,ランゼＮ票
 13017,Dummy 13017,Dummy 13017
 13018,Dummy 13018,Dummy 13018
-13019,Ranze R Tkt,Ranze R Tkt
+13019,Ranze R Tkt,ランゼＲ票
 13020,Dummy 13020,Dummy 13020
-13021,Ranze L Tkt,Ranze L Tkt
-13022,Perif Tkt Head,Perif Tkt Head
-13023,Kaiji Tkt,Kaiji Tkt
+13021,Ranze L Tkt,ランゼＬ票
+13022,Perif Tkt Head,佩里夫頭票
+13023,Kaiji Tkt,凱吉票
 13024,Dummy 13024,Dummy 13024
 13025,Dummy 13025,Dummy 13025
 13026,Dummy 13026,Dummy 13026
-13027,Sailor Tkt,Sailor Tkt
-13028,Souffle Tkt,Souffle Tkt
+13027,Sailor Tkt,水手票
+13028,Souffle Tkt,舒芙蕾票
 13029,Dummy 13029,Dummy 13029
 13030,Dummy 13030,Dummy 13030
 13031,Dummy 13031,Dummy 13031
 13032,Dummy 13032,Dummy 13032
 13033,Dummy 13033,Dummy 13033
-13034,FG5 Tkt 1,FG5 Tkt 1
-13035,FG5 Tkt 2,FG5 Tkt 2
-13036,FG5 Tkt 3,FG5 Tkt 3
-13037,FG5 Tkt 4,FG5 Tkt 4
-13038,FG5 Tkt 5,FG5 Tkt 5
+13034,FG5 Tkt 1,ＦＧ５票・１
+13035,FG5 Tkt 2,ＦＧ５票・２
+13036,FG5 Tkt 3,ＦＧ５票・３
+13037,FG5 Tkt 4,ＦＧ５票・４
+13038,FG5 Tkt 5,ＦＧ５票・５
 13039,Nargacuga Scale,Nargacuga Scale
 13040,Nargacuga Blackfur,Nargacuga Blackfur
 13041,Narga Tail,Narga Tail
@@ -13075,7 +13075,7 @@ index,source,target
 13073,Red Candle,Red Candle
 13074,Great Flame,Great Flame
 13075,Starbreaker Jewel,Starbreaker Jewel
-13076,Fiery Gunpowder,Fiery Gunpowder
+13076,Fiery Gunpowder,熾烈火藥
 13077,Raiden Cotton,Raiden Cotton
 13078,Phantom Eggshell,Phantom Eggshell
 13079,Caravan Orchid Box,Caravan Orchid Box
@@ -13176,25 +13176,25 @@ index,source,target
 13174,Adaptation PC8,Adaptation PC8
 13175,Guanzorumu Proof,Guanzorumu Proof
 13176,Lotto SAF Mat,Lotto SAF Mat
-13177,Arbden Ticket,Arbden Ticket
-13178,Keravuno Ticket,Keravuno Ticket
+13177,Arbden Ticket,阿爾布登票
+13178,Keravuno Ticket,凱拉弗諾票
 13179,Proof of Appreciation Ⅸ,Proof of Appreciation Ⅸ
-13180,Windbreak P Upgrade Tkt,Windbreak P Upgrade Tkt
-13181,P Upgrade Tkt,P Upgrade Tkt
+13180,Windbreak P Upgrade Tkt,風防Ｐ強化票
+13181,P Upgrade Tkt,Ｐ強化票
 13182,Demon Iron,Demon Iron
 13183,Jita Jita Guide,Jita Jita Guide
 13184,Dogeza Guide,Dogeza Guide
 13185,E Card,E Card
-13186,10 Million Tkts,10 Million Tkts
+13186,10 Million Tkts,1000万票
 13187,Dummy 13187,Dummy 13187
 13188,Dummy 13188,Dummy 13188
 13189,Dummy 13189,Dummy 13189
-13190,Guild Point Tkt,Guild Point Tkt
+13190,Guild Point Tkt,公会点票
 13191,テリュオ生産券,テリュオ生産券
-13192,Perif Tkt Torso,Perif Tkt Torso
-13193,Perif Tkt Arms,Perif Tkt Arms
-13194,Perif Tkt Waist,Perif Tkt Waist
-13195,Perif Tkt Legs,Perif Tkt Legs
+13192,Perif Tkt Torso,ペリフ胴票
+13193,Perif Tkt Arms,ペリフ腕票
+13194,Perif Tkt Waist,ペリフ腰票
+13195,Perif Tkt Legs,ペリフ脚票
 13196,SAF Hiden? White,SAF Hiden? White
 13197,SAF Hiden? Red,SAF Hiden? Red
 13198,SAF Hiden? Black,SAF Hiden? Black
@@ -13325,10 +13325,10 @@ index,source,target
 13323,Golden Book,Golden Book
 13324,Shining Fur,Shining Fur
 13325,Solemn Thorns,Solemn Thorns
-13326,Waka Ticket,Waka Ticket
-13327,S Flare Tkt Ⅰ,S Flare Tkt Ⅰ
-13328,S Flare Tkt Ⅱ,S Flare Tkt Ⅱ
-13329,S Flare Tkt Ⅲ,S Flare Tkt Ⅲ
+13326,Waka Ticket,瓦可票
+13327,S Flare Tkt Ⅰ,閃焔ＳⅠ票
+13328,S Flare Tkt Ⅱ,フレアＳ票Ⅱ
+13329,S Flare Tkt Ⅲ,フレアＳ票Ⅲ
 13330,Voljang Proof,Voljang Proof
 13331,Kirin Storm Hide,Kirin Storm Hide
 13332,Kirin Storm Tail,Kirin Storm Tail
@@ -13359,11 +13359,11 @@ index,source,target
 13357,Voljang Heavy Horn,Voljang Heavy Horn
 13358,Solid Flintstone,Solid Flintstone
 13359,Voljang Lash,Voljang Lash
-13360,NK1 Tkt 1,NK1 Tkt 1
-13361,NK1 Tkt 2,NK1 Tkt 2
-13362,NK1 Tkt 3,NK1 Tkt 3
-13363,NK1 Tkt 4,NK1 Tkt 4
-13364,NK1 Tkt 5,NK1 Tkt 5
+13360,NK1 Tkt 1,ＮＫ１票・１
+13361,NK1 Tkt 2,ＮＫ１票・２
+13362,NK1 Tkt 3,ＮＫ１票・３
+13363,NK1 Tkt 4,ＮＫ１票・４
+13364,NK1 Tkt 5,ＮＫ１票・５
 13365,Dummy 13365,Dummy 13365
 13366,Porta Pyroxene Green,Porta Pyroxene Green
 13367,Porta Pyroxene Sakura,Porta Pyroxene Sakura
@@ -13391,19 +13391,19 @@ index,source,target
 13389,S.Zinogre Hardhorn,S.Zinogre Hardhorn
 13390,Engine Key,Engine Key
 13391,Vampire Blood,Vampire Blood
-13392,Gu Neko Tkt,Gu Neko Tkt
-13393,Eastrn NekoSwrd SkyTkt,Eastrn NekoSwrd SkyTkt
-13394,Eastrn NekoSwrd NorthTkt,Eastrn NekoSwrd NorthTkt
+13392,Gu Neko Tkt,古猫票
+13393,Eastrn NekoSwrd SkyTkt,東猫剣空票
+13394,Eastrn NekoSwrd NorthTkt,東猫剣北票
 13395,東ネコ槌生産券奥,東ネコ槌生産券奥
-13396,EastrnNekoSwrd RiverTkt,EastrnNekoSwrd RiverTkt
-13397,EastrnNekoSwrd TailTkt,EastrnNekoSwrd TailTkt
-13398,EastrnNekoMallet WaveTkt,EastrnNekoMallet WaveTkt
-13399,EastrnNekoMallet ShdwTkt,EastrnNekoMallet ShdwTkt
+13396,EastrnNekoSwrd RiverTkt,東猫剣川票
+13397,EastrnNekoSwrd TailTkt,東猫剣尾票
+13398,EastrnNekoMallet WaveTkt,東猫槌波票
+13399,EastrnNekoMallet ShdwTkt,東猫槌影票
 13400,東ネコ槌生産券伊,東ネコ槌生産券伊
 13401,東ネコ槌生産券筑,東ネコ槌生産券筑
 13402,星柄の柔らかい布,星柄の柔らかい布
 13403,花柄の柔らかい布,花柄の柔らかい布
-13404,Felyne Ticket,Felyne Ticket
+13404,Felyne Ticket,艾路猫票
 13405,Prayer Jwl (Ring),Prayer Jwl (Ring)
 13406,Prayer Jwl (Music),Prayer Jwl (Music)
 13407,Prayer Jwl (Sound),Prayer Jwl (Sound)
@@ -13415,11 +13415,11 @@ index,source,target
 13413,ポルタ切手・火山,ポルタ切手・火山
 13414,ポルタ切手・沼地,ポルタ切手・沼地
 13415,ポルタ切手・雪山,ポルタ切手・雪山
-13416,NK2 Tkt 1,NK2 Tkt 1
-13417,NK2 Tkt 2,NK2 Tkt 2
-13418,NK2 Tkt 3,NK2 Tkt 3
-13419,NK2 Tkt 4,NK2 Tkt 4
-13420,NK2 Tkt 5,NK2 Tkt 5
+13416,NK2 Tkt 1,ＮＫ２票・１
+13417,NK2 Tkt 2,ＮＫ２票・２
+13418,NK2 Tkt 3,ＮＫ２票・３
+13419,NK2 Tkt 4,ＮＫ２票・４
+13420,NK2 Tkt 5,ＮＫ２票・５
 13421,Dummy 13421,Dummy 13421
 13422,アイルー刀生産券,アイルー刀生産券
 13423,メラルー刀生産券,メラルー刀生産券
@@ -13427,37 +13427,37 @@ index,source,target
 13425,メラルー棍生産券,メラルー棍生産券
 13426,アイルー銃生産券,アイルー銃生産券
 13427,メラルー銃生産券,メラルー銃生産券
-13428,Twin Iron Fan Tkt,Twin Iron Fan Tkt
-13429,Log Greatsword Tkt,Log Greatsword Tkt
-13430,Log Mallet Tkt,Log Mallet Tkt
-13431,Iron Fan Sword Tkt,Iron Fan Sword Tkt
-13432,Elegant Tkt,Elegant Tkt
+13428,Twin Iron Fan Tkt,双鉄扇票
+13429,Log Greatsword Tkt,丸太大剣票
+13430,Log Mallet Tkt,丸太大錘票
+13431,Iron Fan Sword Tkt,鉄扇剣票
+13432,Elegant Tkt,優雅票
 13433,Dummy 13433,Dummy 13433
 13434,Dummy 13434,Dummy 13434
 13435,Dummy 13435,Dummy 13435
 13436,ポイニー生産券,ポイニー生産券
-13437,Rufus Tkt,Rufus Tkt
+13437,Rufus Tkt,魯弗斯票
 13438,シーニット生産券,シーニット生産券
 13439,ウィリディ生産券,ウィリディ生産券
 13440,アルブス生産券,アルブス生産券
 13441,シュウィ生産券,シュウィ生産券
-13442,IceEmperor GS Tkt,IceEmperor GS Tkt
-13443,DarkIce GS Tkt,DarkIce GS Tkt
-13444,Ice Emperor Ax Tkt,Ice Emperor Ax Tkt
-13445,Dark Ice Ax Tkt,Dark Ice Ax Tkt
+13442,IceEmperor GS Tkt,氷帝大剣票
+13443,DarkIce GS Tkt,暗氷大剣票
+13444,Ice Emperor Ax Tkt,氷帝斧票
+13445,Dark Ice Ax Tkt,暗氷斧票
 13446,Dummy 13446,Dummy 13446
 13447,Dummy 13447,Dummy 13447
 13448,Dummy 13448,Dummy 13448
-13449,Aura Ticket,Aura Ticket
-13450,Wasou Ticket,Wasou Ticket
-13451,Taruta Tkt,Taruta Tkt
-13452,Ruruta Tkt,Ruruta Tkt
-13453,Clofi Ticket,Clofi Ticket
-13454,Gudan Tkt Head,Gudan Tkt Head
-13455,Gudan Tkt Torso,Gudan Tkt Torso
-13456,Gudan Tkt Arms,Gudan Tkt Arms
-13457,Gudan Tkt Waist,Gudan Tkt Waist
-13458,Gudan Tkt Legs,Gudan Tkt Legs
+13449,Aura Ticket,光環票
+13450,Wasou Ticket,和装票
+13451,Taruta Tkt,塔魯塔票
+13452,Ruruta Tkt,魯魯塔票
+13453,Clofi Ticket,克洛菲票
+13454,Gudan Tkt Head,古丹頭票
+13455,Gudan Tkt Torso,グダン胴票
+13456,Gudan Tkt Arms,グダン腕票
+13457,Gudan Tkt Waist,グダン腰票
+13458,Gudan Tkt Legs,グダン脚票
 13459,Purple Dure Head,Purple Dure Head
 13460,Purple Dure Chest,Purple Dure Chest
 13461,Purple Dure Arms,Purple Dure Arms
@@ -13491,15 +13491,15 @@ index,source,target
 13489,Golden Bell,Golden Bell
 13490,Sniper SA1,Sniper SA1
 13491,Obscurity SA1,Obscurity SA1
-13492,EmprIceBowgun Tkt,EmprIceBowgun Tkt
-13493,EmprIceBowgun+ Tkt,EmprIceBowgun+ Tkt
+13492,EmprIceBowgun Tkt,氷帝弩票
+13493,EmprIceBowgun+ Tkt,氷帝弩＋票
 13494,皇氷弩舞生産券,皇氷弩舞生産券
 13495,皇氷弩襲生産券,皇氷弩襲生産券
 13496,皇氷弩氷河生産券,皇氷弩氷河生産券
 13497,王皇氷弩生産券,王皇氷弩生産券
 13498,王皇氷弩改生産券,王皇氷弩改生産券
-13499,DarkIceBowgun Tkt,DarkIceBowgun Tkt
-13500,DarkIceBowgun+ Tkt,DarkIceBowgun+ Tkt
+13499,DarkIceBowgun Tkt,暗氷弩票
+13500,DarkIceBowgun+ Tkt,暗氷弩＋票
 13501,冥氷弩舞生産券,冥氷弩舞生産券
 13502,冥氷弩襲生産券,冥氷弩襲生産券
 13503,冥氷弩氷河生産券,冥氷弩氷河生産券
@@ -13507,7 +13507,7 @@ index,source,target
 13505,王冥氷弩改生産券,王冥氷弩改生産券
 13506,NP Duals Mat,NP Duals Mat
 13507,Oni True Iron,Oni True Iron
-13508,Chiarim Ticket,Chiarim Ticket
+13508,Chiarim Ticket,奇阿里姆票
 13509,祈奏石,祈奏石
 13510,祈響石,祈響石
 13511,祈唄石,祈唄石
@@ -13573,24 +13573,24 @@ index,source,target
 13571,Vakusu GN GX4,Vakusu GN GX4
 13572,Vakusu GN GX5,Vakusu GN GX5
 13573,Dummy 13573,Dummy 13573
-13574,2016 ChallengeTktⅠ,2016 ChallengeTktⅠ
-13575,2016 ChallengeTktⅡ,2016 ChallengeTktⅡ
-13576,2016 ChallengeTktⅢ,2016 ChallengeTktⅢ
-13577,2016 ChallengeTktⅣ,2016 ChallengeTktⅣ
-13578,2016 ChallengeTktⅤ,2016 ChallengeTktⅤ
-13579,2016 ChallengeTktⅥ,2016 ChallengeTktⅥ
-13580,2016 Answer TktⅠＡ,2016 Answer TktⅠＡ
-13581,2016 Answer TktⅠＢ,2016 Answer TktⅠＢ
-13582,2016 Answer TktⅡＡ,2016 Answer TktⅡＡ
-13583,2016 Answer TktⅡＢ,2016 Answer TktⅡＢ
-13584,2016 Answer TktⅢＡ,2016 Answer TktⅢＡ
-13585,2016 Answer TktⅢＢ,2016 Answer TktⅢＢ
-13586,2016 Answer TktⅣＡ,2016 Answer TktⅣＡ
-13587,2016 Answer TktⅣＢ,2016 Answer TktⅣＢ
-13588,2016 Answer TktⅤＡ,2016 Answer TktⅤＡ
-13589,2016 Answer TktⅤＢ,2016 Answer TktⅤＢ
-13590,2016 Answer TktⅥＡ,2016 Answer TktⅥＡ
-13591,2016 Answer TktⅥＢ,2016 Answer TktⅥＢ
+13574,2016 ChallengeTktⅠ,2016挑戦票Ⅰ
+13575,2016 ChallengeTktⅡ,2016挑戦票Ⅱ
+13576,2016 ChallengeTktⅢ,2016挑戦票Ⅲ
+13577,2016 ChallengeTktⅣ,2016挑戦票Ⅳ
+13578,2016 ChallengeTktⅤ,2016挑戦票Ⅴ
+13579,2016 ChallengeTktⅥ,2016挑戦票Ⅵ
+13580,2016 Answer TktⅠＡ,2016回答票ⅠＡ
+13581,2016 Answer TktⅠＢ,2016回答票ⅠＢ
+13582,2016 Answer TktⅡＡ,2016回答票ⅡＡ
+13583,2016 Answer TktⅡＢ,2016回答票ⅡＢ
+13584,2016 Answer TktⅢＡ,2016回答票ⅢＡ
+13585,2016 Answer TktⅢＢ,2016回答票ⅢＢ
+13586,2016 Answer TktⅣＡ,2016回答票ⅣＡ
+13587,2016 Answer TktⅣＢ,2016回答票ⅣＢ
+13588,2016 Answer TktⅤＡ,2016回答票ⅤＡ
+13589,2016 Answer TktⅤＢ,2016回答票ⅤＢ
+13590,2016 Answer TktⅥＡ,2016回答票ⅥＡ
+13591,2016 Answer TktⅥＢ,2016回答票ⅥＢ
 13592,Dummy 13592,Dummy 13592
 13593,Bleed Cure,Bleed Cure
 13594,Dummy 13594,Dummy 13594
@@ -13607,12 +13607,12 @@ index,source,target
 13605,Dummy 13605,Dummy 13605
 13606,Dummy 13606,Dummy 13606
 13607,Anti-Venom,Anti-Venom
-13608,Heat Cannon,Heat Cannon
-13609,T. Fire Acid,T. Fire Acid
-13610,T. Water Acid,T. Water Acid
-13611,T. Thunder Acid,T. Thunder Acid
-13612,T. Ice Acid,T. Ice Acid
-13613,T. Dragon Acid,T. Dragon Acid
+13608,Heat Cannon,熱砲
+13609,T. Fire Acid,塔火炎酸
+13610,T. Water Acid,塔水冷酸
+13611,T. Thunder Acid,塔電撃酸
+13612,T. Ice Acid,塔冰結酸
+13613,T. Dragon Acid,塔滅龍酸
 13614,Dummy 13614,Dummy 13614
 13615,Zena Scale,Zena Scale
 13616,Zena Shell,Zena Shell
@@ -13623,18 +13623,18 @@ index,source,target
 13621,Zena Blood Gem,Zena Blood Gem
 13622,Dummy 13622,Dummy 13622
 13623,Dummy 13623,Dummy 13623
-13624,Evoneko Tkt,Evoneko Tkt
+13624,Evoneko Tkt,進化猫票
 13625,Dummy 13625,Dummy 13625
-13626,Tio Tkt,Tio Tkt
-13627,Zio Tkt,Zio Tkt
+13626,Tio Tkt,提奧票
+13627,Zio Tkt,吉奧票
 13628,Light Twr SAF Book,Light Twr SAF Book
 13629,Dark Twr SAF Book,Dark Twr SAF Book
-13630,NK3 Tkt 1,NK3 Tkt 1
-13631,NK3 Tkt 2,NK3 Tkt 2
-13632,NK3 Tkt 3,NK3 Tkt 3
-13633,NK3 Tkt 4,NK3 Tkt 4
-13634,NK3 Tkt 5,NK3 Tkt 5
-13635,NK3 Tkt 6,NK3 Tkt 6
+13630,NK3 Tkt 1,ＮＫ３票・１
+13631,NK3 Tkt 2,ＮＫ３票・２
+13632,NK3 Tkt 3,ＮＫ３票・３
+13633,NK3 Tkt 4,ＮＫ３票・４
+13634,NK3 Tkt 5,ＮＫ３票・５
+13635,NK3 Tkt 6,ＮＫ３票・６
 13636,NP SAF Mat,NP SAF Mat
 13637,祈律石,祈律石
 13638,祈唱石,祈唱石
@@ -13692,7 +13692,7 @@ index,source,target
 13690,Bow True? Black,Bow True? Black
 13691,Bow True? Blue,Bow True? Blue
 13692,Taiko Olive,Taiko Olive
-13693,Gutsy Meat,Gutsy Meat
+13693,Gutsy Meat,膽大肉
 13694,Daimyo Huge Shl,Daimyo Huge Shl
 13695,Daimyo Huge Claw,Daimyo Huge Claw
 13696,Daimyo Huge Leg,Daimyo Huge Leg
@@ -13785,19 +13785,19 @@ index,source,target
 13783,マヴロヴ生産券,マヴロヴ生産券
 13784,ロゾヴィ生産券,ロゾヴィ生産券
 13785,ヴィグル生産券,ヴィグル生産券
-13786,Solitaire Tkt,Solitaire Tkt
+13786,Solitaire Tkt,接龍票
 13787,プレット生産券,プレット生産券
 13788,ネキュロ生産券,ネキュロ生産券
 13789,Proof of a Pioneer,Proof of a Pioneer
-13790,Sakufi Tkt,Sakufi Tkt
-13791,Asumo Ticket,Asumo Ticket
-13792,Dios Tkt,Dios Tkt
+13790,Sakufi Tkt,薩庫菲票
+13791,Asumo Ticket,阿斯莫票
+13792,Dios Tkt,迪奧斯票
 13793,MHF-Z Kit,MHF-Z Kit
-13794,Carrol C Tkt,Carrol C Tkt
-13795,Zyra C Tkt,Zyra C Tkt
-13796,Loose C Tkt,Loose C Tkt
-13797,Harokyu D Tkt,Harokyu D Tkt
-13798,Higakure C Tkt,Higakure C Tkt
+13794,Carrol C Tkt,可蘿爾Ｃ票
+13795,Zyra C Tkt,ジーラＣ票
+13796,Loose C Tkt,寬鬆Ｃ票
+13797,Harokyu D Tkt,哈洛丘Ｄ票
+13798,Higakure C Tkt,日隱Ｃ票
 13799,Thunder Clad PA3,Thunder Clad PA3
 13800,Thunder Clad PA4,Thunder Clad PA4
 13801,Lavish Attack PA1,Lavish Attack PA1
@@ -13893,7 +13893,7 @@ index,source,target
 13891,Poison Res Up SZ,Poison Res Up SZ
 13892,Para Res Up SZ,Para Res Up SZ
 13893,Sleep Res Up SZ,Sleep Res Up SZ
-13894,Evol D Tkt,Evol D Tkt
+13894,Evol D Tkt,埃沃爾Ｄ票
 13895,Wht War Flag,Wht War Flag
 13896,Purple War Flag,Purple War Flag
 13897,Orange War Flag,Orange War Flag
@@ -13935,48 +13935,48 @@ index,source,target
 13933,Unique Blk Scales,Unique Blk Scales
 13934,Sirena Ore,Sirena Ore
 13935,Mutant Shell,Mutant Shell
-13936,Destin Tkt,Destin Tkt
+13936,Destin Tkt,德斯坦票
 13937,エヴァイ生産券,エヴァイ生産券
 13938,スコペル生産券,スコペル生産券
 13939,パルトネ生産券,パルトネ生産券
-13940,Diletto Tkt,Diletto Tkt
+13940,Diletto Tkt,迪来托票
 13941,Ｄソルテ生産券,Ｄソルテ生産券
-13942,D Solte Tkt,D Solte Tkt
+13942,D Solte Tkt,索爾特Ｄ票
 13943,Ｄヴィーゴ生産券,Ｄヴィーゴ生産券
 13944,Ｄシィラ生産券,Ｄシィラ生産券
 13945,Ｄサン生産券,Ｄサン生産券
 13946,Ｄシン生産券,Ｄシン生産券
 13947,イスティ生産券,イスティ生産券
-13948,E Solte Tkt,E Solte Tkt
+13948,E Solte Tkt,ソルテＥ票
 13949,Ｅタジャウ生産券,Ｅタジャウ生産券
 13950,Ｅヴィーゴ生産券,Ｅヴィーゴ生産券
 13951,E Shira,E Shira
-13952,E San Tkt,E San Tkt
-13953,E Shin Tkt,E Shin Tkt
+13952,E San Tkt,桑Ｅ票
+13953,E Shin Tkt,辛Ｅ票
 13954,王皇氷弩絶生産券,王皇氷弩絶生産券
 13955,王冥氷弩絶生産券,王冥氷弩絶生産券
-13956,Snow SnS 1 Tkt,Snow SnS 1 Tkt
-13957,Snow Bow 1 Tkt,Snow Bow 1 Tkt
-13958,Snow SnS 2 Tkt,Snow SnS 2 Tkt
-13959,Snow Bow 2 Tkt,Snow Bow 2 Tkt
-13960,Snow Miku Tkt,Snow Miku Tkt
-13961,Wander Tkt,Wander Tkt
-13962,Muruta Ticket,Muruta Ticket
-13963,Howla Ticket,Howla Ticket
-13964,Panse Ticket,Panse Ticket
-13965,Marriage Ticket,Marriage Ticket
-13966,Wander D Tkt,Wander D Tkt
-13967,Blue Ice Emperor D Tkt,Blue Ice Emperor D Tkt
-13968,White Ice Emperor D Tkt,White Ice Emperor D Tkt
-13969,Red Ice Emperor D Tkt,Red Ice Emperor D Tkt
+13956,Snow SnS 1 Tkt,雪片手1票
+13957,Snow Bow 1 Tkt,雪弓1票
+13958,Snow SnS 2 Tkt,雪片手2票
+13959,Snow Bow 2 Tkt,雪弓2票
+13960,Snow Miku Tkt,雪未來票
+13961,Wander Tkt,漫遊票
+13962,Muruta Ticket,穆魯塔票
+13963,Howla Ticket,豪拉票
+13964,Panse Ticket,潘塞票
+13965,Marriage Ticket,婚約票
+13966,Wander D Tkt,ワンダレＤ票
+13967,Blue Ice Emperor D Tkt,蒼氷帝Ｄ票
+13968,White Ice Emperor D Tkt,白氷帝Ｄ票
+13969,Red Ice Emperor D Tkt,紅氷帝Ｄ票
 13970,Music Shapd Crystl,Music Shapd Crystl
 13971,Snow Mike Music,Snow Mike Music
 13972,Prayer Pebbles,Prayer Pebbles
 13973,Fine Feathers,Fine Feathers
 13974,Katante Mat,Katante Mat
-13975,Santa D Tkt,Santa D Tkt
-13976,Anteka D Tkt,Anteka D Tkt
-13977,Rance C Tkt,Rance C Tkt
+13975,Santa D Tkt,サンタＤ票
+13976,Anteka D Tkt,雪鹿Ｄ票
+13977,Rance C Tkt,蘭塞Ｃ票
 13978,Demon Soul Stone,Demon Soul Stone
 13979,Fish Soul Stone,Fish Soul Stone
 13980,祭典の刻印,祭典の刻印
@@ -14004,42 +14004,42 @@ index,source,target
 14002,Dojiclad GN GX3,Dojiclad GN GX3
 14003,Dojiclad GN GX4,Dojiclad GN GX4
 14004,Dojiclad GN GX5,Dojiclad GN GX5
-14005,Sakufi D Tkt,Sakufi D Tkt
-14006,Asumo D Tkt,Asumo D Tkt
-14007,Dios D Tkt,Dios D Tkt
-14008,Asteli D Tkt,Asteli D Tkt
-14009,Lien D Tkt,Lien D Tkt
-14010,Carrol D Tkt,Carrol D Tkt
-14011,Azul D Tkt,Azul D Tkt
-14012,Harve D Tkt,Harve D Tkt
-14013,Melan D Tkt,Melan D Tkt
-14014,Diru D Tkt,Diru D Tkt
-14015,Tandre D Tkt,Tandre D Tkt
-14016,Rance D Tkt,Rance D Tkt
-14017,Ganeto D Tkt,Ganeto D Tkt
-14018,Chiru D Tkt,Chiru D Tkt
-14019,Shiusu D Tkt,Shiusu D Tkt
-14020,Uruki D Tkt,Uruki D Tkt
-14021,Wans D Tkt,Wans D Tkt
-14022,Pale Sakura D Tkt,Pale Sakura D Tkt
-14023,Iris D Tkt,Iris D Tkt
+14005,Sakufi D Tkt,サクフィＤ票
+14006,Asumo D Tkt,アスモＤ票
+14007,Dios D Tkt,ディオスＤ票
+14008,Asteli D Tkt,阿斯特里Ｄ票
+14009,Lien D Tkt,羈絆Ｄ票
+14010,Carrol D Tkt,キャロルＤ票
+14011,Azul D Tkt,アズールＤ票
+14012,Harve D Tkt,哈維Ｄ票
+14013,Melan D Tkt,梅蘭Ｄ票
+14014,Diru D Tkt,迪爾Ｄ票
+14015,Tandre D Tkt,坦德雷Ｄ票
+14016,Rance D Tkt,ランセＤ票
+14017,Ganeto D Tkt,加内托Ｄ票
+14018,Chiru D Tkt,奇爾Ｄ票
+14019,Shiusu D Tkt,希烏斯Ｄ票
+14020,Uruki D Tkt,烏魯基Ｄ票
+14021,Wans D Tkt,萬斯Ｄ票
+14022,Pale Sakura D Tkt,薄桜Ｄ票
+14023,Iris D Tkt,鳶尾Ｄ票
 14024,Heruto GX,Heruto GX
 14025,Iroasu GX,Iroasu GX
-14026,Howla D Tkt,Howla D Tkt
-14027,Panse D Tkt,Panse D Tkt
-14028,Marriage D Tkt,Marriage D Tkt
-14029,Snow Miku D Tkt,Snow Miku D Tkt
-14030,Miku Cos D Tkt,Miku Cos D Tkt
-14031,Wasou D Tkt,Wasou D Tkt
-14032,Felyne D Tkt,Felyne D Tkt
-14033,Obituary D Tkt,Obituary D Tkt
-14034,Butterfly D Tkt,Butterfly D Tkt
-14035,V Ad D Tkt,V Ad D Tkt
-14036,V Reje D Tkt,V Reje D Tkt
-14037,Demon Lord D Tkt,Demon Lord D Tkt
-14038,Demon Tale D Tkt,Demon Tale D Tkt
-14039,Demon Rule D Tkt,Demon Rule D Tkt
-14040,Bistro D Tkt,Bistro D Tkt
+14026,Howla D Tkt,ハウラＤ票
+14027,Panse D Tkt,パンセＤ票
+14028,Marriage D Tkt,マリジュＤ票
+14029,Snow Miku D Tkt,雪ミクＤ票
+14030,Miku Cos D Tkt,未來装Ｄ票
+14031,Wasou D Tkt,和装Ｄ票
+14032,Felyne D Tkt,艾路猫Ｄ票
+14033,Obituary D Tkt,訃告Ｄ票
+14034,Butterfly D Tkt,蝶Ｄ票
+14035,V Ad D Tkt,亞德ＶＤ票
+14036,V Reje D Tkt,雷傑ＶＤ票
+14037,Demon Lord D Tkt,魔王Ｄ票
+14038,Demon Tale D Tkt,魔譚Ｄ票
+14039,Demon Rule D Tkt,魔則Ｄ票
+14040,Bistro D Tkt,食堂Ｄ票
 14041,Vashimu Purple Shl,Vashimu Purple Shl
 14042,Vash. Crystal Fluid,Vash. Crystal Fluid
 14043,Vashimu Strange Hair,Vashimu Strange Hair
@@ -14062,14 +14062,14 @@ index,source,target
 14060,Keoaru Burning Horn,Keoaru Burning Horn
 14061,Keoaru Large Claw,Keoaru Large Claw
 14062,Keoaru Shaped Shl,Keoaru Shaped Shl
-14063,Legendary Rasta Tkt,Legendary Rasta Tkt
+14063,Legendary Rasta Tkt,伝説光明票
 14064,Storage Guide・Extreme,Storage Guide・Extreme
-14065,IC Sword Tkt,IC Sword Tkt
-14066,LH Sword Tkt,LH Sword Tkt
-14067,G Reaper Tkt,G Reaper Tkt
+14065,IC Sword Tkt,ＩＣ剣票
+14066,LH Sword Tkt,ＬＨ剣票
+14067,G Reaper Tkt,死神Ｇ票
 14068,Rusty Old Sword,Rusty Old Sword
-14069,Saga Tkt,Saga Tkt
-14070,T260G Tkt,T260G Tkt
+14069,Saga Tkt,傳奇票
+14070,T260G Tkt,Ｔ２６０Ｇ票
 14071,Katana Soul,Katana Soul
 14072,Tigrex Hard Scale,Tigrex Hard Scale
 14073,Tigrex Hard Hide,Tigrex Hard Hide
@@ -14087,13 +14087,13 @@ index,source,target
 14085,Tigrex Z Top Claw,Tigrex Z Top Claw
 14086,Dummy 14088,Dummy 14088
 14087,Dummy 14089,Dummy 14089
-14088,Emil D Tkt,Emil D Tkt
-14089,Hesham Ticket,Hesham Ticket
-14090,Hesham D Tkt,Hesham D Tkt
-14091,Kasamie Ticket,Kasamie Ticket
-14092,Kasamie D Tkt,Kasamie D Tkt
+14088,Emil D Tkt,埃米爾Ｄ票
+14089,Hesham Ticket,赫舒姆票
+14090,Hesham D Tkt,ヘシュムＤ票
+14091,Kasamie Ticket,可薩米埃票
+14092,Kasamie D Tkt,カサミエＤ票
 14093,Beautiful Badge,Beautiful Badge
-14094,Spooky Tkt,Spooky Tkt
+14094,Spooky Tkt,怪奇票
 14095,Big Pumpkin,Big Pumpkin
 14096,Small Pumpkin,Small Pumpkin
 14097,Special Ribbon,Special Ribbon
@@ -14103,29 +14103,29 @@ index,source,target
 14101,Hot Cookies,Hot Cookies
 14102,Moist Cookies,Moist Cookies
 14103,Dummy 14105,Dummy 14105
-14104,Kinosu D Tkt,Kinosu D Tkt
-14105,Himeros D Tkt,Himeros D Tkt
-14106,Charien D Tkt,Charien D Tkt
-14107,Arie D Tkt,Arie D Tkt
-14108,Craft D Tkt,Craft D Tkt
-14109,Shieri D Tkt,Shieri D Tkt
-14110,Pupen D Tkt,Pupen D Tkt
-14111,Moss Cover D Tkt,Moss Cover D Tkt
-14112,Excelle D Tkt,Excelle D Tkt
-14113,Ordre D Tkt,Ordre D Tkt
-14114,R Duo D Tkt,R Duo D Tkt
-14115,Atra D Tkt,Atra D Tkt
-14116,Madaru D Tkt,Madaru D Tkt
-14117,Shasse D Tkt,Shasse D Tkt
-14118,Orchesis D Tkt,Orchesis D Tkt
-14119,Blize D Tkt,Blize D Tkt
-14120,Quoiz D Tkt,Quoiz D Tkt
-14121,Kalais D Tkt,Kalais D Tkt
-14122,Lucchese D Tkt,Lucchese D Tkt
-14123,Entora D Tkt,Entora D Tkt
-14124,Saga D Tkt,Saga D Tkt
-14125,Cielo D Tkt,Cielo D Tkt
-14126,Vichi D Tkt,Vichi D Tkt
+14104,Kinosu D Tkt,奇諾斯Ｄ票
+14105,Himeros D Tkt,希梅洛斯Ｄ票
+14106,Charien D Tkt,可里恩Ｄ票
+14107,Arie D Tkt,阿利埃Ｄ票
+14108,Craft D Tkt,工藝Ｄ票
+14109,Shieri D Tkt,希埃里Ｄ票
+14110,Pupen D Tkt,普彭Ｄ票
+14111,Moss Cover D Tkt,苔覆Ｄ票
+14112,Excelle D Tkt,艾克塞勒Ｄ票
+14113,Ordre D Tkt,奧爾德爾Ｄ票
+14114,R Duo D Tkt,二重ＲＤ票
+14115,Atra D Tkt,阿特拉Ｄ票
+14116,Madaru D Tkt,馬達爾Ｄ票
+14117,Shasse D Tkt,夏塞Ｄ票
+14118,Orchesis D Tkt,奧爾凱西斯Ｄ票
+14119,Blize D Tkt,布来茲Ｄ票
+14120,Quoiz D Tkt,奎茲Ｄ票
+14121,Kalais D Tkt,可来斯Ｄ票
+14122,Lucchese D Tkt,魯凱塞Ｄ票
+14123,Entora D Tkt,恩托拉Ｄ票
+14124,Saga D Tkt,サガＤ票
+14125,Cielo D Tkt,シエロＤ票
+14126,Vichi D Tkt,維奇Ｄ票
 14127,Bullet Saver Up SZ,Bullet Saver Up SZ
 14128,Guard Up SZ,Guard Up SZ
 14129,Adaptation Up SZ,Adaptation Up SZ
@@ -14164,7 +14164,7 @@ index,source,target
 14162,力強い熱意,力強い熱意
 14163,絢爛な七段・紺,絢爛な七段・紺
 14164,絢爛な七段・桃,絢爛な七段・桃
-14165,Saga Gacha Tkt,Saga Gacha Tkt
+14165,Saga Gacha Tkt,サガ抽選票
 14166,祈演石,祈演石
 14167,祈楽石,祈楽石
 14168,祈旋石,祈旋石
@@ -14178,38 +14178,38 @@ index,source,target
 14176,祈笛石,祈笛石
 14177,祈紋石,祈紋石
 14178,祈叉石,祈叉石
-14179,FG6 Tkt 1,FG6 Tkt 1
-14180,FG6 Tkt 2,FG6 Tkt 2
-14181,FG6 Tkt 3,FG6 Tkt 3
-14182,FG6 Tkt 4,FG6 Tkt 4
-14183,FG6 Tkt 5,FG6 Tkt 5
-14184,Furu B Tkt,Furu B Tkt
+14179,FG6 Tkt 1,ＦＧ６票・１
+14180,FG6 Tkt 2,ＦＧ６票・２
+14181,FG6 Tkt 3,ＦＧ６票・３
+14182,FG6 Tkt 4,ＦＧ６票・４
+14183,FG6 Tkt 5,ＦＧ６票・５
+14184,Furu B Tkt,弗魯Ｂ票
 14185,フルＢ亜生産券,フルＢ亜生産券
 14186,フルＢ辿生産券,フルＢ辿生産券
-14187,Cielo C Tkt,Cielo C Tkt
-14188,Felyne C Tkt,Felyne C Tkt
-14189,Fate/SN Tkt D,Fate/SN Tkt D
-14190,Fate Ⅱ Tkt D,Fate Ⅱ Tkt D
-14191,Arben D Tkt,Arben D Tkt
-14192,Aura D Tkt,Aura D Tkt
-14193,Clofi D Tkt,Clofi D Tkt
-14194,Keravuno D Tkt,Keravuno D Tkt
-14195,Penre D Tkt,Penre D Tkt
-14196,Penre Ticket,Penre Ticket
-14197,Rokka D Tkt,Rokka D Tkt
-14198,Rokka Ticket,Rokka Ticket
+14187,Cielo C Tkt,シエロＣ票
+14188,Felyne C Tkt,艾路Ｃ票
+14189,Fate/SN Tkt D,Ｆ／ＳＮＤ票
+14190,Fate Ⅱ Tkt D,フェイトⅡＤ票
+14191,Arben D Tkt,阿爾本Ｄ票
+14192,Aura D Tkt,オーラＤ票
+14193,Clofi D Tkt,クロフィＤ票
+14194,Keravuno D Tkt,ケラヴノＤ票
+14195,Penre D Tkt,潘雷Ｄ票
+14196,Penre Ticket,ペンレ票
+14197,Rokka D Tkt,羅可Ｄ票
+14198,Rokka Ticket,ロッカ票
 14199,トリート解放券Ｃ,トリート解放券Ｃ
-14200,Craft C Tkt,Craft C Tkt
-14201,NieR Ticket,NieR Ticket
-14202,NieR Ticket D,NieR Ticket D
-14203,White Execution Tkt,White Execution Tkt
-14204,White Sorrow Tkt,White Sorrow Tkt
-14205,NieR Gacha Tkt,NieR Gacha Tkt
-14206,Tower Fire Bomb S.,Tower Fire Bomb S.
-14207,Tower Water Bomb S.,Tower Water Bomb S.
-14208,Tower Tnd Bomb S.,Tower Tnd Bomb S.
-14209,Tower Ice Bomb S.,Tower Ice Bomb S.
-14210,Tower Drg Bomb S.,Tower Drg Bomb S.
+14200,Craft C Tkt,クラフトＣ票
+14201,NieR Ticket,尼爾票
+14202,NieR Ticket D,ニーアＤ票
+14203,White Execution Tkt,白処刑票
+14204,White Sorrow Tkt,白哀惜票
+14205,NieR Gacha Tkt,ニーア抽選票
+14206,Tower Fire Bomb S.,塔火爆彈Ｓ
+14207,Tower Water Bomb S.,塔水爆彈Ｓ
+14208,Tower Tnd Bomb S.,塔雷爆彈Ｓ
+14209,Tower Ice Bomb S.,塔冰爆彈Ｓ
+14210,Tower Drg Bomb S.,塔龍爆彈Ｓ
 14211,S.Magala Scale+,S.Magala Scale+
 14212,S.Magala Carapace,S.Magala Carapace
 14213,S.Magala Caress+,S.Magala Caress+
@@ -14282,12 +14282,12 @@ index,source,target
 14280,Hyuji Z Top Needle,Hyuji Z Top Needle
 14281,ﾖﾙﾊ部隊依頼書②,ﾖﾙﾊ部隊依頼書②
 14282,ﾖﾙﾊ部隊依頼書③,ﾖﾙﾊ部隊依頼書③
-14283,NK4 Tkt 1,NK4 Tkt 1
-14284,NK4 Tkt 2,NK4 Tkt 2
-14285,NK4 Tkt 3,NK4 Tkt 3
-14286,NK4 Tkt 4,NK4 Tkt 4
+14283,NK4 Tkt 1,ＮＫ４票・１
+14284,NK4 Tkt 2,ＮＫ４票・２
+14285,NK4 Tkt 3,ＮＫ４票・３
+14286,NK4 Tkt 4,ＮＫ４票・４
 14287,Bird Soul Stone,Bird Soul Stone
-14288,Gagachu D Tkt,Gagachu D Tkt
+14288,Gagachu D Tkt,ガガチュＤ票
 14289,Land Soul Stone,Land Soul Stone
 14290,水銀の書,水銀の書
 14291,Reflect Up SZ,Reflect Up SZ
@@ -14313,20 +14313,20 @@ index,source,target
 14311,Chatore GN GX3,Chatore GN GX3
 14312,Chatore GN GX4,Chatore GN GX4
 14313,Chatore GN GX5,Chatore GN GX5
-14314,Muruta D Tkt,Muruta D Tkt
+14314,Muruta D Tkt,ムルタＤ票
 14315,Hunter's Book 6,Hunter's Book 6
 14316,Dummy 14316,Dummy 14316
 14317,Dummy 14317,Dummy 14317
 14318,Dummy 14318,Dummy 14318
 14319,Dummy 14319,Dummy 14319
-14320,Tower Nullberry,Tower Nullberry
-14321,Tower Bleed Cure,Tower Bleed Cure
-14322,Tower Energy Drink,Tower Energy Drink
-14323,Tower Adren Drink,Tower Adren Drink
-14324,Tower S.Wolf Drink,Tower S.Wolf Drink
+14320,Tower Nullberry,塔抹消果實
+14321,Tower Bleed Cure,塔裂傷藥
+14322,Tower Energy Drink,塔能量飲料
+14323,Tower Adren Drink,塔興奮飲料
+14324,Tower S.Wolf Drink,塔劍狼飲料
 14325,Tower Random Beads,Tower Random Beads
-14326,Tower Shocktrap,Tower Shocktrap
-14327,Tower Pitfall,Tower Pitfall
+14326,Tower Shocktrap,塔麻痺罠
+14327,Tower Pitfall,塔落穴罠
 14328,Moon Silver Grass,Moon Silver Grass
 14329,Stange Pumpkin,Stange Pumpkin
 14330,Goldfish Patternd Chime,Goldfish Patternd Chime
@@ -14352,7 +14352,7 @@ index,source,target
 14350,Courrier Notes Ⅴ,Courrier Notes Ⅴ
 14351,支給品の一部,支給品の一部
 14352,Insect Soul Stone,Insect Soul Stone
-14353,Golden Wings Tkt,Golden Wings Tkt
+14353,Golden Wings Tkt,金翼票
 14354,クロエの恥じらい,クロエの恥じらい
 14355,紅竜蒼竜の大魂魄,紅竜蒼竜の大魂魄
 14356,Elzelion Sharp Scale,Elzelion Sharp Scale
@@ -14364,10 +14364,10 @@ index,source,target
 14362,Elzelion Fuel Horn,Elzelion Fuel Horn
 14363,Elze Frozen Horn,Elze Frozen Horn
 14364,Elzelion Tail,Elzelion Tail
-14365,10th Ticket,10th Ticket
-14366,10th Combo Ticket,10th Combo Ticket
-14367,10th Weapon Ticket,10th Weapon Ticket
-14368,10th Armor Ticket,10th Armor Ticket
+14365,10th Ticket,10周年票
+14366,10th Combo Ticket,10周年組合票
+14367,10th Weapon Ticket,10周年武器票
+14368,10th Armor Ticket,10周年防具票
 14369,ホルクの楽譜,ホルクの楽譜
 14370,幻の灼零卵殻,幻の灼零卵殻
 14371,淡雪シュガー,淡雪シュガー
@@ -14401,46 +14401,46 @@ index,source,target
 14399,W. Fata Glwng Rd Shl,W. Fata Glwng Rd Shl
 14400,End Soul Grass,End Soul Grass
 14401,Blue Ice Magatama,Blue Ice Magatama
-14402,10th Anniv C Tkt,10th Anniv C Tkt
-14403,10th Anniv Neko Tkt,10th Anniv Neko Tkt
-14404,T. Sonic Bomb,T. Sonic Bomb
-14405,T. Flash Bomb,T. Flash Bomb
-14406,Zakka Ticket,Zakka Ticket
-14407,Rantana Ticket,Rantana Ticket
-14408,Eris Tkt,Eris Tkt
+14402,10th Anniv C Tkt,10周年Ｃ票
+14403,10th Anniv Neko Tkt,10周年猫票
+14404,T. Sonic Bomb,塔音爆彈
+14405,T. Flash Bomb,塔閃光彈
+14406,Zakka Ticket,扎可票
+14407,Rantana Ticket,蘭塔納票
+14408,Eris Tkt,埃里斯票
 14409,10の希望【黒兎】,10の希望【黒兎】
 14410,怪異譚【山】,怪異譚【山】
 14411,怪異譚【川】,怪異譚【川】
 14412,怪異譚【雲】,怪異譚【雲】
-14413,Zakka D Tkt,Zakka D Tkt
-14414,Rantana D Tkt,Rantana D Tkt
-14415,Eris D Tkt,Eris D Tkt
-14416,Waka D Tkt,Waka D Tkt
-14417,Magisa D Tkt,Magisa D Tkt
-14418,Shaln D Tkt,Shaln D Tkt
+14413,Zakka D Tkt,ザッカＤ票
+14414,Rantana D Tkt,ランタナＤ票
+14415,Eris D Tkt,エリスＤ票
+14416,Waka D Tkt,ワカＤ票
+14417,Magisa D Tkt,瑪吉薩Ｄ票
+14418,Shaln D Tkt,夏蘭Ｄ票
 14419,キャリジ生産券Ｄ,キャリジ生産券Ｄ
-14420,Marble D Tkt,Marble D Tkt
-14421,Chandelier D Tkt,Chandelier D Tkt
-14422,Banquette D Tkt,Banquette D Tkt
-14423,Korinyi D Tkt,Korinyi D Tkt
-14424,Renka D Tkt,Renka D Tkt
+14420,Marble D Tkt,マーブルＤ票
+14421,Chandelier D Tkt,枝燈Ｄ票
+14422,Banquette D Tkt,宴會Ｄ票
+14423,Korinyi D Tkt,科里尼Ｄ票
+14424,Renka D Tkt,蓮華Ｄ票
 14425,Dummy 14425,Dummy 14425
 14426,Dummy 14426,Dummy 14426
 14427,Dummy 14427,Dummy 14427
-14428,Kukubo D Tkt,Kukubo D Tkt
-14429,Kakabu D Tkt,Kakabu D Tkt
-14430,Aruru D Tkt,Aruru D Tkt
-14431,Scarlet Neko D Tkt,Scarlet Neko D Tkt
-14432,Raios D Tkt,Raios D Tkt
-14433,Bonito D Tkt,Bonito D Tkt
-14434,Meirida D Tkt,Meirida D Tkt
-14435,Miniom D Tkt,Miniom D Tkt
-14436,Harimeno D Tkt,Harimeno D Tkt
-14437,Deriv D Tkt,Deriv D Tkt
-14438,Asaak D Tkt,Asaak D Tkt
-14439,Desert D Tkt,Desert D Tkt
-14440,Halgan D Tkt,Halgan D Tkt
-14441,Abyad D Tkt,Abyad D Tkt
+14428,Kukubo D Tkt,庫庫博Ｄ票
+14429,Kakabu D Tkt,可可布Ｄ票
+14430,Aruru D Tkt,阿魯魯Ｄ票
+14431,Scarlet Neko D Tkt,緋猫Ｄ票
+14432,Raios D Tkt,来奧斯Ｄ票
+14433,Bonito D Tkt,博尼托Ｄ票
+14434,Meirida D Tkt,梅里達Ｄ票
+14435,Miniom D Tkt,米尼奧姆Ｄ票
+14436,Harimeno D Tkt,哈里梅諾Ｄ票
+14437,Deriv D Tkt,德里夫Ｄ票
+14438,Asaak D Tkt,阿薩克Ｄ票
+14439,Desert D Tkt,沙漠Ｄ票
+14440,Halgan D Tkt,哈拉甘Ｄ票
+14441,Abyad D Tkt,阿布亞德Ｄ票
 14442,Burnt Frost Scale,Burnt Frost Scale
 14443,SP Book,SP Book
 14444,Cost Book,Cost Book
@@ -14494,22 +14494,22 @@ index,source,target
 14492,Vigorous Up SZ,Vigorous Up SZ
 14493,Ceaseless SA1,Ceaseless SA1
 14494,Skilled SA1 SA1,Skilled SA1 SA1
-14495,2010 Anniv D Tkt,2010 Anniv D Tkt
-14496,2011 Anniv D Tkt,2011 Anniv D Tkt
-14497,2012 Anniv D Tkt,2012 Anniv D Tkt
-14498,Zuibei D Tkt,Zuibei D Tkt
-14499,Demonclad D Tkt,Demonclad D Tkt
-14500,Scharf Ticket,Scharf Ticket
-14501,Kamara Ticket,Kamara Ticket
-14502,Ruche Ticket,Ruche Ticket
-14503,Levin Ticket,Levin Ticket
+14495,2010 Anniv D Tkt,2010周年Ｄ票
+14496,2011 Anniv D Tkt,2011周年Ｄ票
+14497,2012 Anniv D Tkt,2012周年Ｄ票
+14498,Zuibei D Tkt,ズィベイＤ票
+14499,Demonclad D Tkt,魔装Ｄ票
+14500,Scharf Ticket,夏爾夫票
+14501,Kamara Ticket,可馬拉票
+14502,Ruche Ticket,魯切票
+14503,Levin Ticket,来文票
 14504,小力生産券Ｄ,小力生産券Ｄ
-14505,Scharf D Tkt,Scharf D Tkt
-14506,Kamara D Tkt,Kamara D Tkt
-14507,Ruche D Tkt,Ruche D Tkt
-14508,Liebre D Tkt,Liebre D Tkt
-14509,Korinyi C Tkt,Korinyi C Tkt
-14510,Levin D Tkt,Levin D Tkt
+14505,Scharf D Tkt,シャルフＤ票
+14506,Kamara D Tkt,カマラＤ票
+14507,Ruche D Tkt,ルーチェＤ票
+14508,Liebre D Tkt,利埃布雷Ｄ票
+14509,Korinyi C Tkt,コリニィＣ票
+14510,Levin D Tkt,レビンＤ票
 14511,Plesioth Dull Scale,Plesioth Dull Scale
 14512,Plesioth Gill,Plesioth Gill
 14513,Plesioth Blue Fang,Plesioth Blue Fang
@@ -14537,7 +14537,7 @@ index,source,target
 14535,Ruko Orange Horn,Ruko Orange Horn
 14536,Ruko Extreme Horn,Ruko Extreme Horn
 14537,Melente Mat,Melente Mat
-14538,HL Hiden Tkt,HL Hiden Tkt
+14538,HL Hiden Tkt,ＨＬ秘傳票
 14539,Ruko Z Wing,Ruko Z Wing
 14540,Ruko Z Mid Wing,Ruko Z Mid Wing
 14541,Ruko Z High Wng,Ruko Z High Wng
@@ -14546,10 +14546,10 @@ index,source,target
 14544,Season Soul Stone,Season Soul Stone
 14545,Snake Soul Stone,Snake Soul Stone
 14546,Ash Crystals,Ash Crystals
-14547,Tangusu D Tkt,Tangusu D Tkt
-14548,FP Transmog Ticket,FP Transmog Ticket
-14549,White Hiden EX D Tkt,White Hiden EX D Tkt
-14550,Red Hiden EX D Tkt,Red Hiden EX D Tkt
+14547,Tangusu D Tkt,坦古斯Ｄ票
+14548,FP Transmog Ticket,ＦＰ外装票
+14549,White Hiden EX D Tkt,白秘傳ＥＸＤ票
+14550,Red Hiden EX D Tkt,紅秘傳ＥＸＤ票
 14551,Glittering Wreath,Glittering Wreath
 14552,New Year Gem [Inu],New Year Gem [Inu]
 14553,Sweet Flower Words,Sweet Flower Words
@@ -14567,51 +14567,51 @@ index,source,target
 14565,Riebure GN GX3,Riebure GN GX3
 14566,Riebure GN GX4,Riebure GN GX4
 14567,Riebure GN GX5,Riebure GN GX5
-14568,Lovely AT Tkt,Lovely AT Tkt
-14569,Lovely BO Tkt,Lovely BO Tkt
-14570,Lovely P Tkt,Lovely P Tkt
+14568,Lovely AT Tkt,可愛豬ＡＴ票
+14569,Lovely BO Tkt,可愛豬ＢＯ票
+14570,Lovely P Tkt,可愛豬Ｐ票
 14571,ベイビーAT生産券,ベイビーAT生産券
 14572,ベイビーBO生産券,ベイビーBO生産券
 14573,ベイビーＰ生産券,ベイビーＰ生産券
-14574,Disu D Tkt,Disu D Tkt
-14575,Lils D Tkt,Lils D Tkt
-14576,Dragoon SC Tkt,Dragoon SC Tkt
-14577,Dragoon GD Tkt,Dragoon GD Tkt
-14578,Vulcan D Tkt,Vulcan D Tkt
-14579,Vulcan GD Tkt,Vulcan GD Tkt
-14580,Garnet Tkt,Garnet Tkt
-14581,Amethyst Tkt,Amethyst Tkt
-14582,Coral Tkt,Coral Tkt
-14583,Quartz Tkt,Quartz Tkt
-14584,Emerald Tkt,Emerald Tkt
+14574,Disu D Tkt,迪斯Ｄ票
+14575,Lils D Tkt,里爾斯Ｄ票
+14576,Dragoon SC Tkt,惡龍ＳＣ票
+14577,Dragoon GD Tkt,惡龍ＧＤ票
+14578,Vulcan D Tkt,火神Ｄ票
+14579,Vulcan GD Tkt,バルカンＧＤ票
+14580,Garnet Tkt,石榴石票
+14581,Amethyst Tkt,紫水晶票
+14582,Coral Tkt,珊瑚票
+14583,Quartz Tkt,石英票
+14584,Emerald Tkt,緑寶石票
 14585,Pearl Badge,Pearl Badge
-14586,Ruby Tkt,Ruby Tkt
-14587,Sapphire Tkt,Sapphire Tkt
-14588,Onyx Tkt,Onyx Tkt
-14589,Jade Tkt,Jade Tkt
-14590,Topaz Tkt,Topaz Tkt
-14591,Tourmaline Tkt,Tourmaline Tkt
-14592,Lapis Tkt,Lapis Tkt
-14593,Bulphan Tkt,Bulphan Tkt
-14594,Garuruga Tkt,Garuruga Tkt
-14595,Lampos Tkt,Lampos Tkt
-14596,Genepos Tkt,Genepos Tkt
-14597,Eos Tkt,Eos Tkt
-14598,Gianos Tkt,Gianos Tkt
-14599,Mos Tkt,Mos Tkt
-14600,Gaburas Merit Tkt,Gaburas Merit Tkt
-14601,Battle SP Blu Tkt,Battle SP Blu Tkt
-14602,Battle SP Yellow Tkt,Battle SP Yellow Tkt
-14603,Battle SP Purple Tkt,Battle SP Purple Tkt
-14604,Leia SP Blue Tkt,Leia SP Blue Tkt
-14605,Leia SP Red Tkt,Leia SP Red Tkt
-14606,Leia SP Black Tkt,Leia SP Black Tkt
+14586,Ruby Tkt,紅寶石票
+14587,Sapphire Tkt,藍寶石票
+14588,Onyx Tkt,縞瑪瑙票
+14589,Jade Tkt,翡翠票
+14590,Topaz Tkt,黄玉票
+14591,Tourmaline Tkt,電気石票
+14592,Lapis Tkt,青金石票
+14593,Bulphan Tkt,ブルファン票
+14594,Garuruga Tkt,ガルルガ票
+14595,Lampos Tkt,ランポス票
+14596,Genepos Tkt,ゲネポス票
+14597,Eos Tkt,イーオス票
+14598,Gianos Tkt,ギアノス票
+14599,Mos Tkt,モス票
+14600,Gaburas Merit Tkt,加布拉斯功票
+14601,Battle SP Blu Tkt,バトルＳＰ青票
+14602,Battle SP Yellow Tkt,バトルＳＰ黄票
+14603,Battle SP Purple Tkt,バトルＳＰ紫票
+14604,Leia SP Blue Tkt,レイアＳＰ青票
+14605,Leia SP Red Tkt,レイアＳＰ赤票
+14606,Leia SP Black Tkt,レイアＳＰ黒票
 14607,フルフルSP青功券,フルフルSP青功券
 14608,フルフルSP緑功券,フルフルSP緑功券
 14609,フルフルSP黒功券,フルフルSP黒功券
-14610,Espinas SP Red Tkt,Espinas SP Red Tkt
-14611,Espinas SP Blu Tkt,Espinas SP Blu Tkt
-14612,Espinas SP Ylw Tkt,Espinas SP Ylw Tkt
+14610,Espinas SP Red Tkt,エスピナＳＰ赤票
+14611,Espinas SP Blu Tkt,エスピナＳＰ青票
+14612,Espinas SP Ylw Tkt,エスピナＳＰ黄票
 14613,ヒーディSP功券,ヒーディSP功券
 14614,Upper Shiten Key,Upper Shiten Key
 14615,Upper Shiten Lock,Upper Shiten Lock
@@ -14637,69 +14637,69 @@ index,source,target
 14635,Reflect Up Sigil,Reflect Up Sigil
 14636,Stylish Up Sigil,Stylish Up Sigil
 14637,Vigorous Up Sigil,Vigorous Up Sigil
-14638,Routama D Tkt,Routama D Tkt
+14638,Routama D Tkt,魯塔瑪Ｄ票
 14639,Z Tower Sigil Mat,Z Tower Sigil Mat
 14640,Power Taloncharm,Power Taloncharm
 14641,Armor Taloncharm,Armor Taloncharm
 14642,Hunter's Taloncharm,Hunter's Taloncharm
-14643,Burning Cliff D Tkt,Burning Cliff D Tkt
-14644,Crimson Cliff D Tkt,Crimson Cliff D Tkt
-14645,Furogada D Tkt,Furogada D Tkt
-14646,Lars D Tkt,Lars D Tkt
-14647,Donru D Tkt,Donru D Tkt
-14648,White Snake D Tkt,White Snake D Tkt
-14649,Black Tiger D Tkt,Black Tiger D Tkt
-14650,Crushing Fog D Tkt,Crushing Fog D Tkt
-14651,Valued Word D Tkt,Valued Word D Tkt
-14652,Blue Sky D Tkt,Blue Sky D Tkt
-14653,Noon Glow D Tkt,Noon Glow D Tkt
-14654,Kosho D Tkt,Kosho D Tkt
-14655,True Shadow D Tkt,True Shadow D Tkt
+14643,Burning Cliff D Tkt,焔嶽Ｄ票
+14644,Crimson Cliff D Tkt,緋嶽Ｄ票
+14645,Furogada D Tkt,弗羅加達Ｄ票
+14646,Lars D Tkt,拉爾斯Ｄ票
+14647,Donru D Tkt,東魯Ｄ票
+14648,White Snake D Tkt,白蛇Ｄ票
+14649,Black Tiger D Tkt,黒虎Ｄ票
+14650,Crushing Fog D Tkt,砕霧Ｄ票
+14651,Valued Word D Tkt,金言Ｄ票
+14652,Blue Sky D Tkt,蒼天Ｄ票
+14653,Noon Glow D Tkt,午光Ｄ票
+14654,Kosho D Tkt,科肖Ｄ票
+14655,True Shadow D Tkt,真影Ｄ票
 14656,アイルＦ解放券Ｄ,アイルＦ解放券Ｄ
-14657,Primitive Fire Tkt,Primitive Fire Tkt
+14657,Primitive Fire Tkt,原火票
 14658,転輪勝利生産券,転輪勝利生産券
-14659,EXTELLA Tkt,EXTELLA Tkt
-14660,EXTELLA Tkt D,EXTELLA Tkt D
-14661,Rose Cat Tkt,Rose Cat Tkt
-14662,Shui Ticket,Shui Ticket
-14663,Shui D Tkt,Shui D Tkt
-14664,Ledia D Tkt,Ledia D Tkt
-14665,Hypno R Tkt D,Hypno R Tkt D
-14666,Hypno L Tkt D,Hypno L Tkt D
+14659,EXTELLA Tkt,ＥＸＴＥＬＬＡ票
+14660,EXTELLA Tkt D,エクステラＤ票
+14661,Rose Cat Tkt,薔薇猫票
+14662,Shui Ticket,舒伊票
+14663,Shui D Tkt,シュイＤ票
+14664,Ledia D Tkt,蕾迪亞Ｄ票
+14665,Hypno R Tkt D,眠鳥ＲＤ票
+14666,Hypno L Tkt D,眠鳥ＬＤ票
 14667,エス生産券Ｄ,エス生産券Ｄ
-14668,?cole D Tkt,?cole D Tkt
-14669,Guns D Tkt,Guns D Tkt
-14670,Agria D Tkt,Agria D Tkt
-14671,Fauve D Tkt,Fauve D Tkt
-14672,Tier D Tkt,Tier D Tkt
-14673,Muse D Tkt,Muse D Tkt
-14674,Dicto D Tkt,Dicto D Tkt
-14675,Kruss D Tkt,Kruss D Tkt
-14676,Starina D Tkt,Starina D Tkt
-14677,Loose D Tkt,Loose D Tkt
-14678,Mirado D Tkt,Mirado D Tkt
-14679,Deyuru D Tkt,Deyuru D Tkt
-14680,Robust D Tkt,Robust D Tkt
-14681,Falco D Tkt,Falco D Tkt
-14682,Howx D Tkt,Howx D Tkt
-14683,Pirata D Tkt,Pirata D Tkt
-14684,Zeroi D Tkt,Zeroi D Tkt
-14685,Rail D Tkt,Rail D Tkt
-14686,Ridere D Tkt,Ridere D Tkt
-14687,Riot D Tkt,Riot D Tkt
-14688,Rutare D Tkt,Rutare D Tkt
-14689,Rolling Flow D Tkt,Rolling Flow D Tkt
-14690,Rolling Sky D Tkt,Rolling Sky D Tkt
-14691,Cubie D Tkt,Cubie D Tkt
-14692,Kemor D Tkt,Kemor D Tkt
-14693,Latria D Tkt,Latria D Tkt
-14694,Kontao D Tkt,Kontao D Tkt
-14695,Ukon D Tkt,Ukon D Tkt
-14696,Rotto D Tkt,Rotto D Tkt
-14697,Shoko D Tkt,Shoko D Tkt
-14698,Nimbus D Tkt,Nimbus D Tkt
-14699,Moonlight D Tkt,Moonlight D Tkt
-14700,Dawnbreak D Tkt,Dawnbreak D Tkt
+14668,?cole D Tkt,埃科爾Ｄ票
+14669,Guns D Tkt,槍械Ｄ票
+14670,Agria D Tkt,阿格里亞Ｄ票
+14671,Fauve D Tkt,福夫Ｄ票
+14672,Tier D Tkt,蒂埃爾Ｄ票
+14673,Muse D Tkt,謬思Ｄ票
+14674,Dicto D Tkt,迪克托Ｄ票
+14675,Kruss D Tkt,克魯斯Ｄ票
+14676,Starina D Tkt,斯塔里納Ｄ票
+14677,Loose D Tkt,ルーズＤ票
+14678,Mirado D Tkt,米拉多Ｄ票
+14679,Deyuru D Tkt,德尤魯Ｄ票
+14680,Robust D Tkt,羅巴斯特Ｄ票
+14681,Falco D Tkt,法爾科Ｄ票
+14682,Howx D Tkt,豪克斯Ｄ票
+14683,Pirata D Tkt,皮拉塔Ｄ票
+14684,Zeroi D Tkt,澤羅伊Ｄ票
+14685,Rail D Tkt,軌Ｄ票
+14686,Ridere D Tkt,里黛蕾Ｄ票
+14687,Riot D Tkt,暴動Ｄ票
+14688,Rutare D Tkt,魯塔蕾Ｄ票
+14689,Rolling Flow D Tkt,転流Ｄ票
+14690,Rolling Sky D Tkt,転空Ｄ票
+14691,Cubie D Tkt,庫比Ｄ票
+14692,Kemor D Tkt,凱莫爾Ｄ票
+14693,Latria D Tkt,拉特里亞Ｄ票
+14694,Kontao D Tkt,孔塔奧Ｄ票
+14695,Ukon D Tkt,烏孔Ｄ票
+14696,Rotto D Tkt,羅托Ｄ票
+14697,Shoko D Tkt,肖科Ｄ票
+14698,Nimbus D Tkt,寧巴斯Ｄ票
+14699,Moonlight D Tkt,月光Ｄ票
+14700,Dawnbreak D Tkt,黎明Ｄ票
 14701,Croc Soul Stone,Croc Soul Stone
 14702,Falcon Soul Stone,Falcon Soul Stone
 14703,Wet Soul Stone,Wet Soul Stone
@@ -14707,8 +14707,8 @@ index,source,target
 14705,Madoka Production D,Madoka Production D
 14706,Ani 2013 Production D,Ani 2013 Production D
 14707,Ani 2014 Production D,Ani 2014 Production D
-14708,Kaila D Tkt,Kaila D Tkt
-14709,Fonse D Tkt,Fonse D Tkt
+14708,Kaila D Tkt,カイラＤ票
+14709,Fonse D Tkt,豐斯Ｄ票
 14710,Amatsu Carapace,Amatsu Carapace
 14711,Amatsu Pleura,Amatsu Pleura
 14712,Amatsu Claw+,Amatsu Claw+
@@ -14794,67 +14794,67 @@ index,source,target
 14792,G Attack・Realms,G Attack・Realms
 14793,G Issen・Realms,G Issen・Realms
 14794,Point Breakthrough SA1,Point Breakthrough SA1
-14795,Ragri PT Tkt,Ragri PT Tkt
-14796,Zauri PT Tkt,Zauri PT Tkt
-14797,IM Sorrow Tkt,IM Sorrow Tkt
-14798,Storm FU Tkt,Storm FU Tkt
-14799,UBW Lottery Tkt,UBW Lottery Tkt
-14800,Madoka Lottery Tkt,Madoka Lottery Tkt
+14795,Ragri PT Tkt,拉格里ＰＴ票
+14796,Zauri PT Tkt,扎烏里ＰＴ票
+14797,IM Sorrow Tkt,ＩＭ哀惜票
+14798,Storm FU Tkt,嵐ＦＵ票
+14799,UBW Lottery Tkt,ＵＢＷ抽選票
+14800,Madoka Lottery Tkt,マドカ抽選票
 14801,Abnormality SA1,Abnormality SA1
 14802,Obscurity Up SZ,Obscurity Up SZ
 14803,Adrenaline Charm,Adrenaline Charm
 14804,Starvation Charm,Starvation Charm
-14805,Sun Ninja D Tkt,Sun Ninja D Tkt
-14806,Moon Ninja D Tkt,Moon Ninja D Tkt
-14807,Rubellite Tkt,Rubellite Tkt
+14805,Sun Ninja D Tkt,陽忍Ｄ票
+14806,Moon Ninja D Tkt,月忍Ｄ票
+14807,Rubellite Tkt,紅電気石票
 14808,Lazurite,Lazurite
-14809,Zircon Tkt,Zircon Tkt
-14810,Spinel Tkt,Spinel Tkt
-14811,Jade Tkt,Jade Tkt
-14812,Agate Tkt,Agate Tkt
-14813,Pilove Tkt,Pilove Tkt
-14814,Iora Tkt,Iora Tkt
-14815,Rutile Tkt,Rutile Tkt
+14809,Zircon Tkt,ジルコン票
+14810,Spinel Tkt,尖晶石票
+14811,Jade Tkt,翡翠票
+14812,Agate Tkt,瑪瑙票
+14813,Pilove Tkt,皮洛夫票
+14814,Iora Tkt,伊奧拉票
+14815,Rutile Tkt,金紅石票
 14816,ブラッド功券,ブラッド功券
-14817,Citrine Tkt,Citrine Tkt
-14818,Peridot Tkt,Peridot Tkt
-14819,Turqoise Tkt,Turqoise Tkt
+14817,Citrine Tkt,黄水晶票
+14818,Peridot Tkt,橄欖石票
+14819,Turqoise Tkt,緑松石票
 14820,マフモフSP赤功券,マフモフSP赤功券
 14821,マフモフSP黄功券,マフモフSP黄功券
 14822,マフモフSP紫功券,マフモフSP紫功券
 14823,バサルSP赤功券,バサルSP赤功券
 14824,バサルSP黒功券,バサルSP黒功券
 14825,バサルSP黄功券,バサルSP黄功券
-14826,Blanco SP Yllw Tkt,Blanco SP Yllw Tkt
-14827,Blanco SP Blu Tkt,Blanco SP Blu Tkt
-14828,Blanco SP Blk Tkt,Blanco SP Blk Tkt
-14829,Golden SP Wht Tkt,Golden SP Wht Tkt
-14830,Golden SP Purp Tkt,Golden SP Purp Tkt
-14831,Golden SP Grn Tkt,Golden SP Grn Tkt
+14826,Blanco SP Yllw Tkt,ブランゴＳＰ黄票
+14827,Blanco SP Blu Tkt,ブランゴＳＰ青票
+14828,Blanco SP Blk Tkt,ブランゴＳＰ黒票
+14829,Golden SP Wht Tkt,金色ＳＰ白票
+14830,Golden SP Purp Tkt,金色ＳＰ紫票
+14831,Golden SP Grn Tkt,金色ＳＰ緑票
 14832,グラビドSP緑功券,グラビドSP緑功券
 14833,グラビドSP紫功券,グラビドSP紫功券
 14834,グラビドSP赤功券,グラビドSP赤功券
 14835,ハイメタSP黒功券,ハイメタSP黒功券
 14836,ハイメタSP青功券,ハイメタSP青功券
 14837,ハイメタSP黄功券,ハイメタSP黄功券
-14838,S Sol SP Red Tkt,S Sol SP Red Tkt
-14839,S Sol SP Purp Tkt,S Sol SP Purp Tkt
-14840,S Sol SP Black Tkt,S Sol SP Black Tkt
+14838,S Sol SP Red Tkt,索爾ＳＰ赤票
+14839,S Sol SP Purp Tkt,ソルＳＰ紫票
+14840,S Sol SP Black Tkt,ソルＳＰ黒票
 14841,ガルルガSP白功券,ガルルガSP白功券
 14842,ガルルガSP緑功券,ガルルガSP緑功券
 14843,ガルルガSP赤功券,ガルルガSP赤功券
-14844,Zazami SP Blue Tkt,Zazami SP Blue Tkt
-14845,Zazami SP Wht Tkt,Zazami SP Wht Tkt
-14846,Zazami SP Purp Tkt,Zazami SP Purp Tkt
-14847,Kushana SP Red Tkt,Kushana SP Red Tkt
-14848,Kushana SP Ylw Tkt,Kushana SP Ylw Tkt
-14849,Kushana SP Grn Tkt,Kushana SP Grn Tkt
+14844,Zazami SP Blue Tkt,ザザミＳＰ青票
+14845,Zazami SP Wht Tkt,ザザミＳＰ白票
+14846,Zazami SP Purp Tkt,ザザミＳＰ紫票
+14847,Kushana SP Red Tkt,クシャナＳＰ赤票
+14848,Kushana SP Ylw Tkt,クシャナＳＰ黄票
+14849,Kushana SP Grn Tkt,クシャナＳＰ緑票
 14850,Wolf Soul Stone,Wolf Soul Stone
 14851,Mirage Soul Stone,Mirage Soul Stone
 14852,Ink Soul Stone,Ink Soul Stone
 14853,Blooming Cast Iron,Blooming Cast Iron
 14854,Furante Mat,Furante Mat
-14855,Alfi Ticket,Alfi Ticket
+14855,Alfi Ticket,阿爾菲票
 14856,DoublCherryTreSeed,DoublCherryTreSeed
 14857,桜吹雪の巻物,桜吹雪の巻物
 14858,Absolute Armor Sphere,Absolute Armor Sphere
@@ -14890,30 +14890,30 @@ index,source,target
 14888,Gesture・SAF Ⅰ,Gesture・SAF Ⅰ
 14889,Gesture・SAF Ⅱ,Gesture・SAF Ⅱ
 14890,Gesture・Dance Ⅱ,Gesture・Dance Ⅱ
-14891,Kaifa Ticket,Kaifa Ticket
-14892,Rainbow Powder,Rainbow Powder
+14891,Kaifa Ticket,凱法票
+14892,Rainbow Powder,彩虹粉末
 14893,Freezing Iron,Freezing Iron
-14894,Alfi D Tkt,Alfi D Tkt
-14895,Kaifa D Tkt,Kaifa D Tkt
-14896,Ani 2015 Tkt D,Ani 2015 Tkt D
-14897,Chiyo D Tkt,Chiyo D Tkt
-14898,Shingeki D Tkt,Shingeki D Tkt
-14899,Nekodan D Tkt,Nekodan D Tkt
-14900,Gudan D Tkt,Gudan D Tkt
+14894,Alfi D Tkt,アルフィＤ票
+14895,Kaifa D Tkt,カイファＤ票
+14896,Ani 2015 Tkt D,2015周年Ｄ票
+14897,Chiyo D Tkt,千代Ｄ票
+14898,Shingeki D Tkt,進撃Ｄ票
+14899,Nekodan D Tkt,猫團Ｄ票
+14900,Gudan D Tkt,グダンＤ票
 14901,Proof of Passion,Proof of Passion
 14902,Proof of Love,Proof of Love
 14903,絢爛四季手箱・春,絢爛四季手箱・春
-14904,Fate AP Ⅰ Tkt,Fate AP Ⅰ Tkt
-14905,Fate AP Ⅱ Tkt,Fate AP Ⅱ Tkt
-14906,Fate AP Ⅰ Tkt D,Fate AP Ⅰ Tkt D
-14907,Fate AP Ⅱ Tkt D,Fate AP Ⅱ Tkt D
-14908,Saint Cat Tkt,Saint Cat Tkt
-14909,Glittering Tkt,Glittering Tkt
-14910,Fantasy GS Tkt,Fantasy GS Tkt
-14911,Twelve Heroes Tkt,Twelve Heroes Tkt
-14912,Saint Flag Tkt,Saint Flag Tkt
-14913,Straza Ticket,Straza Ticket
-14914,Straza D Ticket,Straza D Ticket
+14904,Fate AP Ⅰ Tkt,命運ＡＰⅠ票
+14905,Fate AP Ⅱ Tkt,フェイトＡＰⅡ票
+14906,Fate AP Ⅰ Tkt D,フェイトＡＰⅠＤ票
+14907,Fate AP Ⅱ Tkt D,フェイトＡＰⅡＤ票
+14908,Saint Cat Tkt,聖猫票
+14909,Glittering Tkt,煌めき票
+14910,Fantasy GS Tkt,幻想大剣票
+14911,Twelve Heroes Tkt,十二英雄票
+14912,Saint Flag Tkt,聖旗票
+14913,Straza Ticket,斯特拉扎票
+14914,Straza D Ticket,ストラザＤ票
 14915,Cariva BM G,Cariva BM G
 14916,Cariva BM GF,Cariva BM GF
 14917,Cariva BM GX1,Cariva BM GX1
@@ -14945,10 +14945,10 @@ index,source,target
 14943,G Abnorm・Obscure,G Abnorm・Obscure
 14944,Abnormal Jewel,Abnormal Jewel
 14945,Obscurity Up Sigil,Obscurity Up Sigil
-14946,Renka C Tkt,Renka C Tkt
+14946,Renka C Tkt,レンカＣ票
 14947,Apocrypha Gacha Token 1,Apocrypha Gacha Token 1
 14948,Apocrypha Gacha Token 2,Apocrypha Gacha Token 2
-14949,Bonne D Tkt,Bonne D Tkt
+14949,Bonne D Tkt,邦内Ｄ票
 14950,G Evasion Boost,G Evasion Boost
 14951,Anoru Woe Scale,Anoru Woe Scale
 14952,Anoru Woe Shell,Anoru Woe Shell
@@ -14982,11 +14982,11 @@ index,source,target
 14980,Gasura Z Mid Arm,Gasura Z Mid Arm
 14981,Gasura Z High Arm,Gasura Z High Arm
 14982,Gasura Z Top Arm,Gasura Z Top Arm
-14983,WhtTigrHolySwrdTkt,WhtTigrHolySwrdTkt
-14984,WhtTigrDrgnPairTkt,WhtTigrDrgnPairTkt
-14985,WhtTigrKingSwrdTkt,WhtTigrKingSwrdTkt
-14986,WhtTigrSwrdGodTkt,WhtTigrSwrdGodTkt
-14987,WhtTigrGodSpearTkt,WhtTigrGodSpearTkt
+14983,WhtTigrHolySwrdTkt,白虎・剣聖票
+14984,WhtTigrDrgnPairTkt,白虎・双龍票
+14985,WhtTigrKingSwrdTkt,白虎・剣王票
+14986,WhtTigrSwrdGodTkt,白虎・刀神票
+14987,WhtTigrGodSpearTkt,白虎・天槍票
 14988,白虎・砲皇功券,白虎・砲皇功券
 14989,白虎・鈍器獣功券,白虎・鈍器獣功券
 14990,白虎・奏帝功券,白虎・奏帝功券
@@ -14994,16 +14994,16 @@ index,source,target
 14992,白虎・斬将功券,白虎・斬将功券
 14993,白虎・銃傑功券,白虎・銃傑功券
 14994,白虎・銃仙功券,白虎・銃仙功券
-14995,WhtTigrBowDemonTkt,WhtTigrBowDemonTkt
-14996,Kirin SP Red Tkt,Kirin SP Red Tkt
-14997,Kirin SP Purp Tkt,Kirin SP Purp Tkt
-14998,Kirin SP Black Tkt,Kirin SP Black Tkt
-14999,Kaiser SP Wht Tkt,Kaiser SP Wht Tkt
-15000,Kaiser SP Blk Tkt,Kaiser SP Blk Tkt
-15001,Kaiser SP Grn Tkt,Kaiser SP Grn Tkt
-15002,Mizuha SP Blu Tkt,Mizuha SP Blu Tkt
-15003,Mizuha SP Red Tkt,Mizuha SP Red Tkt
-15004,Mizuha SP Ylw Tkt,Mizuha SP Ylw Tkt
+14995,WhtTigrBowDemonTkt,白虎・弓鬼票
+14996,Kirin SP Red Tkt,キリンＳＰ赤票
+14997,Kirin SP Purp Tkt,キリンＳＰ紫票
+14998,Kirin SP Black Tkt,キリンＳＰ黒票
+14999,Kaiser SP Wht Tkt,カイザーＳＰ白票
+15000,Kaiser SP Blk Tkt,カイザーＳＰ黒票
+15001,Kaiser SP Grn Tkt,カイザーＳＰ緑票
+15002,Mizuha SP Blu Tkt,ミズハＳＰ青票
+15003,Mizuha SP Red Tkt,ミズハＳＰ赤票
+15004,Mizuha SP Ylw Tkt,ミズハＳＰ黄票
 15005,トヨタマSP青功券,トヨタマSP青功券
 15006,トヨタマSP赤功券,トヨタマSP赤功券
 15007,トヨタマSP黄功券,トヨタマSP黄功券
@@ -15013,25 +15013,25 @@ index,source,target
 15011,Heaven Wedge Stone,Heaven Wedge Stone
 15012,100 Days Bamboo,100 Days Bamboo
 15013,"1,000 Days Bamboo","1,000 Days Bamboo"
-15014,Jagged SP Red Tkt,Jagged SP Red Tkt
-15015,Jagged SP Blk Tkt,Jagged SP Blk Tkt
-15016,Jagged SP Yllw Tkt,Jagged SP Yllw Tkt
+15014,Jagged SP Red Tkt,鋸齒ＳＰ赤票
+15015,Jagged SP Blk Tkt,ジャギドＳＰ黒票
+15016,Jagged SP Yllw Tkt,ジャギドＳＰ黄票
 15017,ガブラスSP白功券,ガブラスSP白功券
 15018,ガブラスSP黄功券,ガブラスSP黄功券
 15019,ガブラスSP黒功券,ガブラスSP黒功券
 15020,Forged Harmonic Steel,Forged Harmonic Steel
 15021,Harmonic Cotton,Harmonic Cotton
 15022,Supreme Scroll,Supreme Scroll
-15023,Gae Bolg Tkt,Gae Bolg Tkt
-15024,Golden Tkt,Golden Tkt
+15023,Gae Bolg Tkt,蓋伯爾格票
+15024,Golden Tkt,金色票
 15025,アウナス鎌生産券,アウナス鎌生産券
-15026,Drgn Scl Sword Tkt,Drgn Scl Sword Tkt
-15027,Saga II Ticket,Saga II Ticket
-15028,Saga II D Ticket,Saga II D Ticket
+15026,Drgn Scl Sword Tkt,龍鱗剣票
+15027,Saga II Ticket,傳奇Ⅱ票
+15028,Saga II D Ticket,サガⅡＤ票
 15029,Saga II Gacha Token,Saga II Gacha Token
-15030,Saine Ticket,Saine Ticket
-15031,Saine D Tkt,Saine D Tkt
-15032,Nerihi D Tkt,Nerihi D Tkt
+15030,Saine Ticket,賽内票
+15031,Saine D Tkt,サイネＤ票
+15032,Nerihi D Tkt,内里希Ｄ票
 15033,祈拭石,祈拭石
 15034,祈塞石,祈塞石
 15035,祈放石,祈放石
@@ -15059,14 +15059,14 @@ index,source,target
 15057,Seregios Lens,Seregios Lens
 15058,Seregios Impaler+,Seregios Impaler+
 15059,Seregios Sunderer+,Seregios Sunderer+
-15060,Harze D Tkt,Harze D Tkt
-15061,Revenants D Tkt,Revenants D Tkt
-15062,Wing Ticket,Wing Ticket
-15063,Wing D Ticket,Wing D Ticket
-15064,Pinbi Ticket,Pinbi Ticket
-15065,Pinbi D Ticket,Pinbi D Ticket
-15066,Pribu Ticket,Pribu Ticket
-15067,Pribu D Ticket,Pribu D Ticket
+15060,Harze D Tkt,ハルゼＤ票
+15061,Revenants D Tkt,レヴナントＤ票
+15062,Wing Ticket,翼票
+15063,Wing D Ticket,ウィングＤ票
+15064,Pinbi Ticket,平比票
+15065,Pinbi D Ticket,ピンビＤ票
+15066,Pribu Ticket,普里布票
+15067,Pribu D Ticket,プリブＤ票
 15068,Utaei Mat,Utaei Mat
 15069,Spacing Jewel,Spacing Jewel
 15070,Extreme Ravi BM GX1,Extreme Ravi BM GX1
@@ -15095,67 +15095,67 @@ index,source,target
 15093,G Spacing・Gentle,G Spacing・Gentle
 15094,G Spacing・Bullets,G Spacing・Bullets
 15095,G Spacing・Steady,G Spacing・Steady
-15096,Melas D Tkt,Melas D Tkt
-15097,Robin Neko Ticket,Robin Neko Ticket
+15096,Melas D Tkt,梅拉斯Ｄ票
+15097,Robin Neko Ticket,羅賓猫票
 15098,Spacing SA1,Spacing SA1
 15099,Spacing SA2,Spacing SA2
 15100,Soul Up SZ,Soul Up SZ
 15101,Soul Up Sigil,Soul Up Sigil
 15102,祈濯石,祈濯石
-15103,NK5 Tkt 1,NK5 Tkt 1
-15104,NK5 Tkt 2,NK5 Tkt 2
-15105,NK5 Tkt 3,NK5 Tkt 3
-15106,NK5 Tkt 4,NK5 Tkt 4
-15107,NK5 Tkt 5,NK5 Tkt 5
-15108,NK5 Tkt 6,NK5 Tkt 6
+15103,NK5 Tkt 1,ＮＫ５票・１
+15104,NK5 Tkt 2,ＮＫ５票・２
+15105,NK5 Tkt 3,ＮＫ５票・３
+15106,NK5 Tkt 4,ＮＫ５票・４
+15107,NK5 Tkt 5,ＮＫ５票・５
+15108,NK5 Tkt 6,ＮＫ５票・６
 15109,Raviente Ruby,Raviente Ruby
 15110,Raviente Sapphire,Raviente Sapphire
 15111,Calm Phoenix Silk,Calm Phoenix Silk
 15112,Silver Harmonic Stone,Silver Harmonic Stone
-15113,Dylan Tkt,Dylan Tkt
-15114,Dylan D Tkt,Dylan D Tkt
-15115,Dibble Tkt,Dibble Tkt
-15116,Dibble D Tkt,Dibble D Tkt
-15117,Neriotori D Tkt,Neriotori D Tkt
-15118,Sharuru Tkt,Sharuru Tkt
-15119,Sharuru D Tkt,Sharuru D Tkt
-15120,Suzaku Blade Tkt,Suzaku Blade Tkt
-15121,Suzaku DB Tkt,Suzaku DB Tkt
-15122,Suzaku GS Tkt,Suzaku GS Tkt
-15123,Suzaku LS Tkt,Suzaku LS Tkt
-15124,Suzaku Lance Tkt,Suzaku Lance Tkt
-15125,Suzaku Cannon Tkt,Suzaku Cannon Tkt
-15126,Suzaku Basher Tkt,Suzaku Basher Tkt
-15127,Suzaku Horn Tkt,Suzaku Horn Tkt
-15128,Suzaku Tonfa Tkt,Suzaku Tonfa Tkt
-15129,Suzaku Slasher Tkt,Suzaku Slasher Tkt
-15130,Suzaku Gunmaster Tkt,Suzaku Gunmaster Tkt
-15131,Suzaku Blaster Tkt,Suzaku Blaster Tkt
-15132,Suzaku Bow Tkt,Suzaku Bow Tkt
-15133,G Night PVSP Tkt,G Night PVSP Tkt
-15134,Empre SP Red Tkt,Empre SP Red Tkt
-15135,Empre SP Yellow Tkt,Empre SP Yellow Tkt
-15136,Empre SP Purple Tkt,Empre SP Purple Tkt
-15137,Rango SP Yellow Tkt,Rango SP Yellow Tkt
-15138,Rango SP Black Tkt,Rango SP Black Tkt
-15139,Rango SP Blue Tkt,Rango SP Blue Tkt
-15140,Death S. SP White Tkt,Death S. SP White Tkt
-15141,Death S. SP Red Tkt,Death S. SP Red Tkt
-15142,Death S. SP Blue Tkt,Death S. SP Blue Tkt
-15143,Diablo SP Purple Tkt,Diablo SP Purple Tkt
-15144,Diablo SP Blue Tkt,Diablo SP Blue Tkt
-15145,Diablo SP Yellow Tkt,Diablo SP Yellow Tkt
-15146,Makluva SP Green Tkt,Makluva SP Green Tkt
-15147,Makluva SP Blue Tkt,Makluva SP Blue Tkt
-15148,Makluva SP Black Tkt,Makluva SP Black Tkt
-15149,Akantor SP Black Tkt,Akantor SP Black Tkt
-15150,Akantor SP Red Tkt,Akantor SP Red Tkt
-15151,Akantor SP White Tkt,Akantor SP White Tkt
-15152,Gravi SP Black Tkt,Gravi SP Black Tkt
-15153,Gravi SP Blue Tkt,Gravi SP Blue Tkt
-15154,Gravi SP Red Tkt,Gravi SP Red Tkt
-15155,Cure D Tkt,Cure D Tkt
-15156,Jyaga D Tkt,Jyaga D Tkt
+15113,Dylan Tkt,迪倫票
+15114,Dylan D Tkt,ディランＤ票
+15115,Dibble Tkt,迪布爾票
+15116,Dibble D Tkt,ディブルＤ票
+15117,Neriotori D Tkt,内里奧托里Ｄ票
+15118,Sharuru Tkt,夏魯爾票
+15119,Sharuru D Tkt,シャルルＤ票
+15120,Suzaku Blade Tkt,朱雀・剣聖票
+15121,Suzaku DB Tkt,朱雀・双龍票
+15122,Suzaku GS Tkt,朱雀・剣王票
+15123,Suzaku LS Tkt,朱雀・刀神票
+15124,Suzaku Lance Tkt,朱雀・天槍票
+15125,Suzaku Cannon Tkt,朱雀・砲皇票
+15126,Suzaku Basher Tkt,朱雀・鈍器獣票
+15127,Suzaku Horn Tkt,朱雀・奏帝票
+15128,Suzaku Tonfa Tkt,朱雀・穿凰票
+15129,Suzaku Slasher Tkt,朱雀・斬将票
+15130,Suzaku Gunmaster Tkt,朱雀・銃傑票
+15131,Suzaku Blaster Tkt,朱雀・銃仙票
+15132,Suzaku Bow Tkt,朱雀・弓鬼票
+15133,G Night PVSP Tkt,Ｇ夜ＰＶＳＰ票
+15134,Empre SP Red Tkt,女帝ＳＰ赤票
+15135,Empre SP Yellow Tkt,エンプレスＳＰ黄票
+15136,Empre SP Purple Tkt,エンプレスＳＰ紫票
+15137,Rango SP Yellow Tkt,蘭戈ＳＰ黄票
+15138,Rango SP Black Tkt,ランゴＳＰ黒票
+15139,Rango SP Blue Tkt,ランゴＳＰ青票
+15140,Death S. SP White Tkt,死.ＳＰ白票
+15141,Death S. SP Red Tkt,デススタＳＰ赤票
+15142,Death S. SP Blue Tkt,デススタＳＰ青票
+15143,Diablo SP Purple Tkt,ディアブロＳＰ紫票
+15144,Diablo SP Blue Tkt,ディアブロＳＰ青票
+15145,Diablo SP Yellow Tkt,ディアブロＳＰ黄票
+15146,Makluva SP Green Tkt,瑪克魯瓦ＳＰ緑票
+15147,Makluva SP Blue Tkt,マクロアバＳＰ青票
+15148,Makluva SP Black Tkt,マクロアバＳＰ黒票
+15149,Akantor SP Black Tkt,アカムトＳＰ黒票
+15150,Akantor SP Red Tkt,アカムトＳＰ赤票
+15151,Akantor SP White Tkt,アカムトＳＰ白票
+15152,Gravi SP Black Tkt,グラビＳＰ黒票
+15153,Gravi SP Blue Tkt,グラビＳＰ青票
+15154,Gravi SP Red Tkt,グラビＳＰ赤票
+15155,Cure D Tkt,治癒Ｄ票
+15156,Jyaga D Tkt,加加Ｄ票
 15157,100 Year Old Items,100 Year Old Items
 15158,Firefly Soul Rock,Firefly Soul Rock
 15159,Demon Soul Rock,Demon Soul Rock
@@ -15168,14 +15168,14 @@ index,source,target
 15166,旧・怪異譚【風】,旧・怪異譚【風】
 15167,旧・怪異譚【雨】,旧・怪異譚【雨】
 15168,旧・怪異譚【鳴】,旧・怪異譚【鳴】
-15169,SnowWeapn TrialTkt,SnowWeapn TrialTkt
+15169,SnowWeapn TrialTkt,雪武器體驗票
 15170,奇面族の猛毒塊,奇面族の猛毒塊
 15171,砕竜への憧れ,砕竜への憧れ
 15172,アイルー印の果実,アイルー印の果実
-15173,Mezefest Tkt,Mezefest Tkt
+15173,Mezefest Tkt,梅傑祭票
 15174,親方からの伝言,親方からの伝言
 15175,たい変めでたい品,たい変めでたい品
-15176,Algol D Tkt,Algol D Tkt
+15176,Algol D Tkt,阿爾戈爾Ｄ票
 15177,きらめく鱗形見,きらめく鱗形見
 15178,Thank You XI,Thank You XI
 15179,祈繋石,祈繋石
@@ -15189,28 +15189,28 @@ index,source,target
 15187,祈貢石,祈貢石
 15188,祈光石,祈光石
 15189,祈照石,祈照石
-15190,Glitter Gunpowder,Glitter Gunpowder
+15190,Glitter Gunpowder,閃亮火藥
 15191,盈月輝石,盈月輝石
-15192,Katante D Tkt,Katante D Tkt
-15193,Ricante D Tkt,Ricante D Tkt
-15194,Merente D Tkt,Merente D Tkt
-15195,Utante D Tkt,Utante D Tkt
-15196,Furante D Tkt,Furante D Tkt
-15197,Jess D Tkt,Jess D Tkt
-15198,Riaruo D Tkt,Riaruo D Tkt
-15199,Reiresu D Tkt,Reiresu D Tkt
-15200,Reuasu D Tkt,Reuasu D Tkt
-15201,Blanc D Tkt,Blanc D Tkt
-15202,H Shock D Tkt,H Shock D Tkt
-15203,Shimashima D Tkt,Shimashima D Tkt
-15204,Sparkle Gunpowder,Sparkle Gunpowder
+15192,Katante D Tkt,可坦特Ｄ票
+15193,Ricante D Tkt,里坎特Ｄ票
+15194,Merente D Tkt,梅倫特Ｄ票
+15195,Utante D Tkt,烏坦特Ｄ票
+15196,Furante D Tkt,弗蘭特Ｄ票
+15197,Jess D Tkt,傑斯Ｄ票
+15198,Riaruo D Tkt,里阿魯奧Ｄ票
+15199,Reiresu D Tkt,雷雷斯Ｄ票
+15200,Reuasu D Tkt,雷烏阿斯Ｄ票
+15201,Blanc D Tkt,布蘭Ｄ票
+15202,H Shock D Tkt,Ｈ衝撃Ｄ票
+15203,Shimashima D Tkt,島島Ｄ票
+15204,Sparkle Gunpowder,炫光火藥
 15205,Dummy 15205,Dummy 15205
 15206,Dummy 15206,Dummy 15206
-15207,Charis Tkt,Charis Tkt
-15208,Charis D Tkt,Charis D Tkt
-15209,Desutora Tkt,Desutora Tkt
-15210,Desutora D Tkt,Desutora D Tkt
-15211,Kashoku D Tkt,Kashoku D Tkt
+15207,Charis Tkt,可里斯票
+15208,Charis D Tkt,カリスＤ票
+15209,Desutora Tkt,德斯特拉票
+15210,Desutora D Tkt,デストラＤ票
+15211,Kashoku D Tkt,華飾Ｄ票
 15212,Gesture・Sit Ⅰ,Gesture・Sit Ⅰ
 15213,Gesture・Dance Ⅲ,Gesture・Dance Ⅲ
 15214,Gesture・Dance Ⅳ,Gesture・Dance Ⅳ
@@ -15219,17 +15219,17 @@ index,source,target
 15217,Shaka Poison Lump,Shaka Poison Lump
 15218,Shaka Venom Lump,Shaka Venom Lump
 15219,Portane,Portane
-15220,Fins Tkt,Fins Tkt
-15221,Fins D Tkt,Fins D Tkt
-15222,Dins Tkt,Dins Tkt
-15223,Dins D Tkt,Dins D Tkt
-15224,Lenigan Tkt,Lenigan Tkt
-15225,Lenigan D Tkt,Lenigan D Tkt
+15220,Fins Tkt,芬茲票
+15221,Fins D Tkt,フィンズＤ票
+15222,Dins Tkt,丁茲票
+15223,Dins D Tkt,ディンズＤ票
+15224,Lenigan Tkt,雷尼甘票
+15225,Lenigan D Tkt,レニガンＤ票
 15226,Utatsumugu Cloth,Utatsumugu Cloth
 15227,Dark Invitation,Dark Invitation
 15228,Light Invitation,Light Invitation
-15229,Kiyoshi D Tkt,Kiyoshi D Tkt
-15230,AnivaMemoryGachaTkt,AnivaMemoryGachaTkt
+15229,Kiyoshi D Tkt,清Ｄ票
+15230,AnivaMemoryGachaTkt,阿尼瓦記憶抽選票
 15231,Tokimeki Coin,Tokimeki Coin
 15232,G Abnorm・Protect,G Abnorm・Protect
 15233,Lynx BM GX1,Lynx BM GX1
@@ -15252,9 +15252,9 @@ index,source,target
 15250,Zindol GN GX3,Zindol GN GX3
 15251,Zindol GN GX4,Zindol GN GX4
 15252,Zindol GN GX5,Zindol GN GX5
-15253,Burukku D Tkt,Burukku D Tkt
-15254,Shirukku D Tkt,Shirukku D Tkt
-15255,Gorukku D Tkt,Gorukku D Tkt
+15253,Burukku D Tkt,布魯克Ｄ票
+15254,Shirukku D Tkt,希爾克Ｄ票
+15255,Gorukku D Tkt,戈爾克Ｄ票
 15256,MS Soul Low,MS Soul Low
 15257,MS Soul Mid,MS Soul Mid
 15258,MS Soul High,MS Soul High
@@ -15281,108 +15281,108 @@ index,source,target
 15279,Hiden Stamp・HBG,Hiden Stamp・HBG
 15280,Hiden Stamp・Bow,Hiden Stamp・Bow
 15281,舞姫歌扇生産券,舞姫歌扇生産券
-15282,S Eater Tkt,S Eater Tkt
-15283,Strider Tkt,Strider Tkt
+15282,S Eater Tkt,噬魂Ｓ票
+15283,Strider Tkt,闊歩票
 15284,樽ラッピー生産券,樽ラッピー生産券
-15285,PSO2 Ticket,PSO2 Ticket
-15286,PSO2 D Ticket,PSO2 D Ticket
+15285,PSO2 Ticket,ＰＳＯ２票
+15286,PSO2 D Ticket,ＰＳＯ２Ｄ票
 15287,PSO2 Gacha Token,PSO2 Gacha Token
 15288,Zenith Sigil Stamp,Zenith Sigil Stamp
-15289,Metal D Tkt,Metal D Tkt
-15290,Promise D Tkt,Promise D Tkt
-15291,Star Festival D Tkt,Star Festival D Tkt
-15292,Ex D Tkt,Ex D Tkt
-15293,Gold Cat D Tkt,Gold Cat D Tkt
-15294,Silver Cat D Tkt,Silver Cat D Tkt
-15295,Claire D Tkt,Claire D Tkt
-15296,Gold D Tkt,Gold D Tkt
-15297,Pharan D Tkt,Pharan D Tkt
-15298,Text D Tkt,Text D Tkt
-15299,Galitos D Tkt,Galitos D Tkt
-15300,Suriito D Tkt,Suriito D Tkt
-15301,Steno D Tkt,Steno D Tkt
-15302,Edio D Tkt,Edio D Tkt
-15303,Omet D Tkt,Omet D Tkt
-15304,Cayssis D Tkt,Cayssis D Tkt
-15305,Zodic D Tkt,Zodic D Tkt
-15306,Arge D Tkt,Arge D Tkt
-15307,Camarera D Tkt,Camarera D Tkt
-15308,Metenera D Tkt,Metenera D Tkt
-15309,Abitto D Tkt,Abitto D Tkt
-15310,Riburi D Tkt,Riburi D Tkt
-15311,M?gos D Tkt,M?gos D Tkt
-15312,Pics D Tkt,Pics D Tkt
-15313,Secuti D Tkt,Secuti D Tkt
-15314,Honour D Tkt,Honour D Tkt
-15315,Flight D Tkt,Flight D Tkt
-15316,Bande D Tkt,Bande D Tkt
-15317,Regnum D Tkt,Regnum D Tkt
-15318,Gania D Tkt,Gania D Tkt
-15319,Amistad D Tkt,Amistad D Tkt
-15320,Perifu D Tkt,Perifu D Tkt
-15321,Arma D Tkt,Arma D Tkt
-15322,Real D Tkt,Real D Tkt
-15323,Ferme D Tkt,Ferme D Tkt
-15324,Melety D Tkt,Melety D Tkt
-15325,Aristo D Tkt,Aristo D Tkt
-15326,Regelia D Tkt,Regelia D Tkt
-15327,Bunny D Tkt,Bunny D Tkt
-15328,Randa D Tkt,Randa D Tkt
-15329,Maisto D Tkt,Maisto D Tkt
-15330,Truss D Tkt,Truss D Tkt
-15331,Cultu D Tkt,Cultu D Tkt
-15332,Siena D Tkt,Siena D Tkt
-15333,Rast D Tkt,Rast D Tkt
-15334,Cloth D Tkt,Cloth D Tkt
-15335,Gloria D Tkt,Gloria D Tkt
-15336,Gelt D Tkt,Gelt D Tkt
-15337,Serena D Tkt,Serena D Tkt
-15338,Sheriff D Tkt,Sheriff D Tkt
-15339,Naga D Tkt,Naga D Tkt
-15340,Tenpi D Tkt,Tenpi D Tkt
-15341,Reflet D Tkt,Reflet D Tkt
-15342,Marin D Tkt,Marin D Tkt
-15343,Dusk D Tkt,Dusk D Tkt
-15344,Vakusu D Tkt,Vakusu D Tkt
-15345,Rizuvue D Tkt,Rizuvue D Tkt
-15346,Konseru D Tkt,Konseru D Tkt
-15347,Shikari D Tkt,Shikari D Tkt
-15348,Strega D Tkt,Strega D Tkt
-15349,Eques D Tkt,Eques D Tkt
-15350,Uida D Tkt,Uida D Tkt
-15351,Kuraaji D Tkt,Kuraaji D Tkt
-15352,Anesis D Tkt,Anesis D Tkt
-15353,Zaakaa D Tkt,Zaakaa D Tkt
-15354,Vinen D Tkt,Vinen D Tkt
-15355,Rudeos D Tkt,Rudeos D Tkt
-15356,Breo D Tkt,Breo D Tkt
-15357,Rouge D Tkt,Rouge D Tkt
-15358,Onero D Tkt,Onero D Tkt
-15359,Diina D Tkt,Diina D Tkt
-15360,Oorowa D Tkt,Oorowa D Tkt
-15361,Higakure D Tkt,Higakure D Tkt
-15362,Perce D Tkt,Perce D Tkt
-15363,Orykto D Tkt,Orykto D Tkt
-15364,Yoruti D Tkt,Yoruti D Tkt
-15365,Nisuru D Tkt,Nisuru D Tkt
-15366,Maaden D Tkt,Maaden D Tkt
-15367,Cheni D Tkt,Cheni D Tkt
-15368,Eguiene D Tkt,Eguiene D Tkt
-15369,Torboda D Tkt,Torboda D Tkt
-15370,Cavalliba D Tkt,Cavalliba D Tkt
-15371,Norukku D Tkt,Norukku D Tkt
-15372,Valier D Tkt,Valier D Tkt
-15373,Arumyu D Tkt,Arumyu D Tkt
-15374,Chatore D Tkt,Chatore D Tkt
-15375,Pashio D Tkt,Pashio D Tkt
-15376,Cariva D Tkt,Cariva D Tkt
+15289,Metal D Tkt,白合金Ｄ票
+15290,Promise D Tkt,約定Ｄ票
+15291,Star Festival D Tkt,星祭Ｄ票
+15292,Ex D Tkt,ＥＸＤ票
+15293,Gold Cat D Tkt,金猫Ｄ票
+15294,Silver Cat D Tkt,銀猫Ｄ票
+15295,Claire D Tkt,煥晶Ｄ票
+15296,Gold D Tkt,耀金Ｄ票
+15297,Pharan D Tkt,巫者Ｄ票
+15298,Text D Tkt,原典Ｄ票
+15299,Galitos D Tkt,元帥Ｄ票
+15300,Suriito D Tkt,斯里特Ｄ票
+15301,Steno D Tkt,月坑Ｄ票
+15302,Edio D Tkt,城衛Ｄ票
+15303,Omet D Tkt,眩光Ｄ票
+15304,Cayssis D Tkt,凱西斯Ｄ票
+15305,Zodic D Tkt,佐迪克Ｄ票
+15306,Arge D Tkt,阿爾傑Ｄ票
+15307,Camarera D Tkt,可馬蕾拉Ｄ票
+15308,Metenera D Tkt,梅特内拉Ｄ票
+15309,Abitto D Tkt,阿比特Ｄ票
+15310,Riburi D Tkt,里布里Ｄ票
+15311,M?gos D Tkt,戈Ｄ票
+15312,Pics D Tkt,精靈Ｄ票
+15313,Secuti D Tkt,塞庫蒂Ｄ票
+15314,Honour D Tkt,榮譽Ｄ票
+15315,Flight D Tkt,飛翔Ｄ票
+15316,Bande D Tkt,バンデＤ票
+15317,Regnum D Tkt,王領Ｄ票
+15318,Gania D Tkt,ガニアＤ票
+15319,Amistad D Tkt,阿米斯塔Ｄ票
+15320,Perifu D Tkt,佩里夫Ｄ票
+15321,Arma D Tkt,阿爾瑪Ｄ票
+15322,Real D Tkt,皇室Ｄ票
+15323,Ferme D Tkt,沈默Ｄ票
+15324,Melety D Tkt,專家Ｄ票
+15325,Aristo D Tkt,貴族Ｄ票
+15326,Regelia D Tkt,英豪Ｄ票
+15327,Bunny D Tkt,兎Ｄ票
+15328,Randa D Tkt,蘭達Ｄ票
+15329,Maisto D Tkt,邁斯特Ｄ票
+15330,Truss D Tkt,特拉斯Ｄ票
+15331,Cultu D Tkt,可爾丘Ｄ票
+15332,Siena D Tkt,狂戰Ｄ票
+15333,Rast D Tkt,星塵Ｄ票
+15334,Cloth D Tkt,布Ｄ票
+15335,Gloria D Tkt,榮耀Ｄ票
+15336,Gelt D Tkt,強獸神Ｄ票
+15337,Serena D Tkt,劍客Ｄ票
+15338,Sheriff D Tkt,警長Ｄ票
+15339,Naga D Tkt,蛇神Ｄ票
+15340,Tenpi D Tkt,天丕Ｄ票
+15341,Reflet D Tkt,魯弗雷Ｄ票
+15342,Marin D Tkt,馬林Ｄ票
+15343,Dusk D Tkt,黄昏Ｄ票
+15344,Vakusu D Tkt,瓦克斯Ｄ票
+15345,Rizuvue D Tkt,里茲維埃Ｄ票
+15346,Konseru D Tkt,孔塞爾Ｄ票
+15347,Shikari D Tkt,希可里Ｄ票
+15348,Strega D Tkt,斯特雷加Ｄ票
+15349,Eques D Tkt,埃奎斯Ｄ票
+15350,Uida D Tkt,烏伊達Ｄ票
+15351,Kuraaji D Tkt,庫拉吉Ｄ票
+15352,Anesis D Tkt,阿内西斯Ｄ票
+15353,Zaakaa D Tkt,扎可Ｄ票
+15354,Vinen D Tkt,維内恩Ｄ票
+15355,Rudeos D Tkt,魯德奧斯Ｄ票
+15356,Breo D Tkt,布雷奧Ｄ票
+15357,Rouge D Tkt,魯熱Ｄ票
+15358,Onero D Tkt,奧内羅Ｄ票
+15359,Diina D Tkt,迪娜Ｄ票
+15360,Oorowa D Tkt,奧羅瓦Ｄ票
+15361,Higakure D Tkt,ヒガクレＤ票
+15362,Perce D Tkt,拍斯Ｄ票
+15363,Orykto D Tkt,奧里克托Ｄ票
+15364,Yoruti D Tkt,約魯蒂Ｄ票
+15365,Nisuru D Tkt,尼斯魯Ｄ票
+15366,Maaden D Tkt,馬登Ｄ票
+15367,Cheni D Tkt,切尼Ｄ票
+15368,Eguiene D Tkt,埃吉埃内Ｄ票
+15369,Torboda D Tkt,托爾博達Ｄ票
+15370,Cavalliba D Tkt,可瓦里巴Ｄ票
+15371,Norukku D Tkt,諾爾克Ｄ票
+15372,Valier D Tkt,ヴァリエＤ票
+15373,Arumyu D Tkt,阿爾繆Ｄ票
+15374,Chatore D Tkt,査托雷Ｄ票
+15375,Pashio D Tkt,拍西奧Ｄ票
+15376,Cariva D Tkt,可利瓦Ｄ票
 15377,Yellow Feather,Yellow Feather
 15378,Fluffy Yellow Feather,Fluffy Yellow Feather
 15379,Boga Layered Hide,Boga Layered Hide
 15380,Boga Deflecting Scale,Boga Deflecting Scale
 15381,Boga High Density Bone,Boga High Density Bone
 15382,Boga Pressure Blood,Boga Pressure Blood
-15383,Boga Emission Powder,Boga Emission Powder
+15383,Boga Emission Powder,博加噴射粉末
 15384,Boga Flaming Fog Gem,Boga Flaming Fog Gem
 15385,Boga Cone Tail,Boga Cone Tail
 15386,Boga Sharp Cone Tail,Boga Sharp Cone Tail
@@ -15394,46 +15394,46 @@ index,source,target
 15392,Boga Z Mid Arm,Boga Z Mid Arm
 15393,Boga Z High Arm,Boga Z High Arm
 15394,Boga Z Top Arm,Boga Z Top Arm
-15395,Genbu Sword Tkt,Genbu Sword Tkt
-15396,Genbu Twin Dragons Tkt,Genbu Twin Dragons Tkt
-15397,Genbu Sword King Tkt,Genbu Sword King Tkt
-15398,Genbu Sword God Tkt,Genbu Sword God Tkt
+15395,Genbu Sword Tkt,玄武・剣聖票
+15396,Genbu Twin Dragons Tkt,玄武・双龍票
+15397,Genbu Sword King Tkt,玄武・剣王票
+15398,Genbu Sword God Tkt,玄武・刀神票
 15399,Genbu Sky Spear,Genbu Sky Spear
-15400,Genbu Gun Emperor Tkt,Genbu Gun Emperor Tkt
+15400,Genbu Gun Emperor Tkt,玄武・砲皇票
 15401,玄武・鈍器獣功券,玄武・鈍器獣功券
 15402,玄武・奏帝功券,玄武・奏帝功券
 15403,玄武・穿凰功券,玄武・穿凰功券
 15404,玄武・斬将功券,玄武・斬将功券
-15405,Genbu Guru Tkt,Genbu Guru Tkt
-15406,Genbu Wizard Tkt,Genbu Wizard Tkt
+15405,Genbu Guru Tkt,玄武・銃傑票
+15406,Genbu Wizard Tkt,玄武・銃仙票
 15407,玄武・弓鬼功券,玄武・弓鬼功券
-15408,Rex SP BlkTkt,Rex SP BlkTkt
-15409,Rex SP WhtTkt,Rex SP WhtTkt
-15410,RexSP PurTkt,RexSP PurTkt
-15411,MonoblosSP YllwTkt,MonoblosSP YllwTkt
-15412,MonoblosSP GrnTkt,MonoblosSP GrnTkt
-15413,MonoblosSP WhtTkt,MonoblosSP WhtTkt
-15414,Furu SP Blk Tkt,Furu SP Blk Tkt
-15415,Furu SP Grn Tkt,Furu SP Grn Tkt
-15416,Furu SP Blu Tkt,Furu SP Blu Tkt
-15417,Ganos SP Blk Tkt,Ganos SP Blk Tkt
-15418,Ganos SP Yllw Tkt,Ganos SP Yllw Tkt
-15419,Ganos SP Pur Tkt,Ganos SP Pur Tkt
-15420,Geryos SP Red Tkt,Geryos SP Red Tkt
-15421,Geryos SP Yllw Tkt,Geryos SP Yllw Tkt
-15422,Geryos SP Grn Tkt,Geryos SP Grn Tkt
-15423,Kagura SP Red Tkt,Kagura SP Red Tkt
-15424,Kagura SP Blk Tkt,Kagura SP Blk Tkt
-15425,Kagura SP Pur Tkt,Kagura SP Pur Tkt
-15426,Kamukura SP Red Tkt,Kamukura SP Red Tkt
-15427,Kamukura SP Blk Tkt,Kamukura SP Blk Tkt
-15428,Kamukura SP Pur Tkt,Kamukura SP Pur Tkt
-15429,Moss SP Wht Tkt,Moss SP Wht Tkt
-15430,Moss SP Yllw Tkt,Moss SP Yllw Tkt
-15431,Moss SP Blu Tkt,Moss SP Blu Tkt
-15432,Shinobu SP Yllw Tkt,Shinobu SP Yllw Tkt
-15433,Shinobu SP Red Tkt,Shinobu SP Red Tkt
-15434,Shinobu SP Blu Tkt,Shinobu SP Blu Tkt
+15408,Rex SP BlkTkt,轟龍ＳＰ黒票
+15409,Rex SP WhtTkt,レックスＳＰ白票
+15410,RexSP PurTkt,レックスＳＰ紫票
+15411,MonoblosSP YllwTkt,一角龍ＳＰ黄票
+15412,MonoblosSP GrnTkt,モノブロスＳＰ緑票
+15413,MonoblosSP WhtTkt,モノブロスＳＰ白票
+15414,Furu SP Blk Tkt,弗魯ＳＰ黒票
+15415,Furu SP Grn Tkt,フルＳＰ緑票
+15416,Furu SP Blu Tkt,フルＳＰ青票
+15417,Ganos SP Blk Tkt,水龍ＳＰ黒票
+15418,Ganos SP Yllw Tkt,ガノスＳＰ黄票
+15419,Ganos SP Pur Tkt,ガノスＳＰ紫票
+15420,Geryos SP Red Tkt,毒怪鳥ＳＰ赤票
+15421,Geryos SP Yllw Tkt,ゲリオスＳＰ黄票
+15422,Geryos SP Grn Tkt,ゲリオスＳＰ緑票
+15423,Kagura SP Red Tkt,神樂ＳＰ赤票
+15424,Kagura SP Blk Tkt,カグラＳＰ黒票
+15425,Kagura SP Pur Tkt,カグラＳＰ紫票
+15426,Kamukura SP Red Tkt,神倉ＳＰ赤票
+15427,Kamukura SP Blk Tkt,カムクラＳＰ黒票
+15428,Kamukura SP Pur Tkt,カムクラＳＰ紫票
+15429,Moss SP Wht Tkt,苔ＳＰ白票
+15430,Moss SP Yllw Tkt,モスＳＰ黄票
+15431,Moss SP Blu Tkt,モスＳＰ青票
+15432,Shinobu SP Yllw Tkt,忍ＳＰ黄票
+15433,Shinobu SP Red Tkt,シノブＳＰ赤票
+15434,Shinobu SP Blu Tkt,シノブＳＰ青票
 15435,Mag Hammr Material,Mag Hammr Material
 15436,Dark Neko Pass Red,Dark Neko Pass Red
 15437,Dark Neko Pass Blue,Dark Neko Pass Blue
@@ -15455,10 +15455,10 @@ index,source,target
 15453,改良型軽弩設計図,改良型軽弩設計図
 15454,青紫色のビン,青紫色のビン
 15455,不思議な塗料,不思議な塗料
-15456,Rappy D Tkt,Rappy D Tkt
-15457,Rapineko Tkt,Rapineko Tkt
-15458,Utaei D Tkt,Utaei D Tkt
-15459,Utatsumugu D Tkt,Utatsumugu D Tkt
+15456,Rappy D Tkt,拉皮Ｄ票
+15457,Rapineko Tkt,拉皮猫票
+15458,Utaei D Tkt,歌詠Ｄ票
+15459,Utatsumugu D Tkt,歌紡Ｄ票
 15460,Calamity Insignia,Calamity Insignia
 15461,Disaster Insignia,Disaster Insignia
 15462,Gravios Heavy Shell,Gravios Heavy Shell
@@ -15491,7 +15491,7 @@ index,source,target
 15489,Baru Z Mid Head,Baru Z Mid Head
 15490,Baru Z High Head,Baru Z High Head
 15491,Baru Z Top Head,Baru Z Top Head
-15492,Tanzanite Tkt,Tanzanite Tkt
+15492,Tanzanite Tkt,丹泉石票
 15493,ヘマタイト功券,ヘマタイト功券
 15494,白虎・磁星功券,白虎・磁星功券
 15495,朱雀・磁星功券,朱雀・磁星功券
@@ -15506,8 +15506,8 @@ index,source,target
 15504,パックリＧ生産券,パックリＧ生産券
 15505,でか焼鳥生産券,でか焼鳥生産券
 15506,Ｌネコ生産券,Ｌネコ生産券
-15507,Alicia Tkt,Alicia Tkt
-15508,Alicia D Tkt,Alicia D Tkt
+15507,Alicia Tkt,阿莉西亞票
+15508,Alicia D Tkt,アリシアＤ票
 15509,竜宮状,竜宮状
 15510,安全な箱,安全な箱
 15511,新鮮な血,新鮮な血
@@ -15520,11 +15520,11 @@ index,source,target
 15518,Gesture・Air Guitar,Gesture・Air Guitar
 15519,Gesture・Janken,Gesture・Janken
 15520,Gesture・Terror,Gesture・Terror
-15521,Masaha Ticket,Masaha Ticket
-15522,Masaha D Ticket,Masaha D Ticket
-15523,Masaha C Ticket,Masaha C Ticket
-15524,Favila Tkt,Favila Tkt
-15525,Favila D Tkt,Favila D Tkt
+15521,Masaha Ticket,正羽票
+15522,Masaha D Ticket,マサハＤ票
+15523,Masaha C Ticket,マサハＣ票
+15524,Favila Tkt,法維拉票
+15525,Favila D Tkt,ファビラＤ票
 15526,Furious Jewel,Furious Jewel
 15527,Black Belt Jewel,Black Belt Jewel
 15528,Lost Object,Lost Object
@@ -15767,19 +15767,19 @@ index,source,target
 15765,Bullet Saver Up PZ5,Bullet Saver Up PZ5
 15766,Bullet Saver Up PZ6,Bullet Saver Up PZ6
 15767,Rush Up Sigil,Rush Up Sigil
-15768,Asumo C Tkt,Asumo C Tkt
-15769,Rokka C Tkt,Rokka C Tkt
-15770,Ruche C Tkt,Ruche C Tkt
-15771,Shui C Tkt,Shui C Tkt
-15772,Aura C Tkt,Aura C Tkt
+15768,Asumo C Tkt,アスモＣ票
+15769,Rokka C Tkt,ロッカＣ票
+15770,Ruche C Tkt,ルーチェＣ票
+15771,Shui C Tkt,シュイＣ票
+15772,Aura C Tkt,オーラＣ票
 15773,Resonant Hemp,Resonant Hemp
-15774,Alisys Tkt,Alisys Tkt
-15775,Alisys D Tkt,Alisys D Tkt
-15776,Loli Tkt,Loli Tkt
-15777,Loli D Tkt,Loli D Tkt
+15774,Alisys Tkt,阿莉西斯票
+15775,Alisys D Tkt,アリシスＤ票
+15776,Loli Tkt,蘿莉票
+15777,Loli D Tkt,ロリＤ票
 15778,Gears of Destiny,Gears of Destiny
 15779,Santa Gook Effigy,Santa Gook Effigy
-15780,Onimusha D Tkt,Onimusha D Tkt
+15780,Onimusha D Tkt,鬼武者Ｄ票
 15781,Lion Soulstone,Lion Soulstone
 15782,Rabbit Soulstone,Rabbit Soulstone
 15783,Whale Soulstone,Whale Soulstone
@@ -15790,44 +15790,44 @@ index,source,target
 15788,Varusa Object,Varusa Object
 15789,Varusa Object G,Varusa Object G
 15790,Colourful Yarn,Colourful Yarn
-15791,Cute Powder,Cute Powder
+15791,Cute Powder,可愛粉末
 15792,New Year Gem [Pig],New Year Gem [Pig]
-15793,Gook Crane Tkt,Gook Crane Tkt
-15794,Gook Duck Tkt,Gook Duck Tkt
-15795,Gook Parrot Tkt,Gook Parrot Tkt
-15796,Gook Poison Tkt,Gook Poison Tkt
-15797,Gook Para Tkt ,Gook Para Tkt 
-15798,Gook Ice Tkt,Gook Ice Tkt
-15799,Gook Phantom Tkt,Gook Phantom Tkt
-15800,Gook Oriental Tkt,Gook Oriental Tkt
-15801,Gook Sleepy Tkt,Gook Sleepy Tkt
-15802,Gook Slumber Tkt,Gook Slumber Tkt
-15803,Gook Dream Tkt,Gook Dream Tkt
-15804,Gold GookTkt,Gold GookTkt
-15805,Silver Gook Tkt,Silver Gook Tkt
-15806,Copper Gook Tkt,Copper Gook Tkt
-15807,Rainbow Gook Tkt,Rainbow Gook Tkt
-15808,Gold Gook Tkt L,Gold Gook Tkt L
-15809,Silver Gook Tkt L,Silver Gook Tkt L
-15810,Copper Gook Tkt L,Copper Gook Tkt L
-15811,Gook C Tkt,Gook C Tkt
-15812,Gold Gook Tkt D,Gold Gook Tkt D
-15813,Silver Gook Tkt D,Silver Gook Tkt D
-15814,Copper Gook Tkt D,Copper Gook Tkt D
-15815,White Gook Tkt D,White Gook Tkt D
-15816,Red Gook Tkt D,Red Gook Tkt D
-15817,Gray Gook Tkt D,Gray Gook Tkt D
+15793,Gook Crane Tkt,谷谷鶴票
+15794,Gook Duck Tkt,アヒル古古鴨票
+15795,Gook Parrot Tkt,インコ古古鴨票
+15796,Gook Poison Tkt,毒古古鴨票
+15797,Gook Para Tkt ,麻痺古古鴨票
+15798,Gook Ice Tkt,氷古古鴨票
+15799,Gook Phantom Tkt,幻影古古鴨票
+15800,Gook Oriental Tkt,和風古古鴨票
+15801,Gook Sleepy Tkt,眠気古古鴨票
+15802,Gook Slumber Tkt,微睡古古鴨票
+15803,Gook Dream Tkt,夢古古鴨票
+15804,Gold GookTkt,金古古鴨票
+15805,Silver Gook Tkt,銀古古鴨票
+15806,Copper Gook Tkt,銅古古鴨票
+15807,Rainbow Gook Tkt,虹古古鴨票
+15808,Gold Gook Tkt L,金古古鴨票Ｌ
+15809,Silver Gook Tkt L,銀古古鴨票Ｌ
+15810,Copper Gook Tkt L,銅古古鴨票Ｌ
+15811,Gook C Tkt,古古鴨Ｃ票
+15812,Gold Gook Tkt D,金古古鴨Ｄ票
+15813,Silver Gook Tkt D,銀古古鴨Ｄ票
+15814,Copper Gook Tkt D,銅古古鴨Ｄ票
+15815,White Gook Tkt D,白古古鴨Ｄ票
+15816,Red Gook Tkt D,赤古古鴨Ｄ票
+15817,Gray Gook Tkt D,灰古古鴨Ｄ票
 15818,Newyear Snake Gem,Newyear Snake Gem
-15819,Rabius Tkt,Rabius Tkt
-15820,Rabius D Tkt,Rabius D Tkt
-15821,Rocras Tkt,Rocras Tkt
-15822,Rocras D Tkt,Rocras D Tkt
-15823,Recolis Tkt,Recolis Tkt
-15824,Recolis D Tkt,Recolis D Tkt
+15819,Rabius Tkt,拉比烏斯票
+15820,Rabius D Tkt,ラビウスＤ票
+15821,Rocras Tkt,羅克拉斯票
+15822,Rocras D Tkt,ロクラスＤ票
+15823,Recolis Tkt,雷科利斯票
+15824,Recolis D Tkt,レコリスＤ票
 15825,Rusty Gears,Rusty Gears
-15826,Guridi D Tkt,Guridi D Tkt
+15826,Guridi D Tkt,古里迪Ｄ票
 15827,Fluffy Tail,Fluffy Tail
-15828,Shifunyi D Tkt,Shifunyi D Tkt
+15828,Shifunyi D Tkt,希芙尼Ｄ票
 15829,Bita BM GX1,Bita BM GX1
 15830,Bita BM GX2,Bita BM GX2
 15831,Bita BM GX3,Bita BM GX3
@@ -15867,11 +15867,11 @@ index,source,target
 15865,G Trained・Flash,G Trained・Flash
 15866,G Trained・Ceaseless,G Trained・Ceaseless
 15867,G Trained・Sword,G Trained・Sword
-15868,Nerishoku Mog Tkt,Nerishoku Mog Tkt
-15869,Rafan D Tkt,Rafan D Tkt
-15870,Rafan C Tkt,Rafan C Tkt
-15871,Bita D Tkt,Bita D Tkt
-15872,Koreputo D Tkt,Koreputo D Tkt
+15868,Nerishoku Mog Tkt,練飾莫格票
+15869,Rafan D Tkt,拉凡Ｄ票
+15870,Rafan C Tkt,ラファンＣ票
+15871,Bita D Tkt,比塔Ｄ票
+15872,Koreputo D Tkt,科雷普托Ｄ票
 15873,Z3P_item_055,Z3P_item_055
 15874,Z3P_item_056,Z3P_item_056
 15875,Z3P_item_057,Z3P_item_057
@@ -16316,12 +16316,12 @@ index,source,target
 16314,ＫロブスSP黒功券,ＫロブスSP黒功券
 16315,ＫロブスSP緑功券,ＫロブスSP緑功券
 16316,ＫロブスSP青功券,ＫロブスSP青功券
-16317,Hypno SP Green Tkt,Hypno SP Green Tkt
-16318,Hypno SP Red Tkt,Hypno SP Red Tkt
-16319,Hypno SP Yllw Tkt,Hypno SP Yllw Tkt
-16320,Bell SP Black Tkt,Bell SP Black Tkt
-16321,Bell SP Red Tkt,Bell SP Red Tkt
-16322,Bell SP Purple Tkt,Bell SP Purple Tkt
+16317,Hypno SP Green Tkt,眠鳥ＳＰ緑票
+16318,Hypno SP Red Tkt,ヒプノＳＰ赤票
+16319,Hypno SP Yllw Tkt,ヒプノＳＰ黄票
+16320,Bell SP Black Tkt,鈴ＳＰ黒票
+16321,Bell SP Red Tkt,ベルＳＰ赤票
+16322,Bell SP Purple Tkt,ベルＳＰ紫票
 16323,クロオビSP白功券,クロオビSP白功券
 16324,クロオビSP黒功券,クロオビSP黒功券
 16325,クロオビSP青功券,クロオビSP青功券
@@ -16334,31 +16334,31 @@ index,source,target
 16332,コムラSP白赤功券,コムラSP白赤功券
 16333,コムラSP白青功券,コムラSP白青功券
 16334,コムラSP白黄功券,コムラSP白黄功券
-16335,Sea Ninja D Tkt,Sea Ninja D Tkt
-16336,Sky Ninja D Tkt,Sky Ninja D Tkt
-16337,Shadowed D Tkt,Shadowed D Tkt
+16335,Sea Ninja D Tkt,海忍Ｄ票
+16336,Sky Ninja D Tkt,空忍Ｄ票
+16337,Shadowed D Tkt,影忍Ｄ票
 16338,Refined Peace Iron,Refined Peace Iron
 16339,Pure Peace Iron,Pure Peace Iron
 16340,Peace Silk,Peace Silk
 16341,Halberd Silk,Halberd Silk
-16342,Finis Tkt,Finis Tkt
-16343,Finis D Tkt,Finis D Tkt
-16344,Firl Tkt,Firl Tkt
-16345,Firl D Tkt,Firl D Tkt
-16346,Marina Tkt,Marina Tkt
-16347,Marina D Tkt,Marina D Tkt
-16348,Alisha Tkt,Alisha Tkt
-16349,Alisha D Tkt,Alisha D Tkt
-16350,Shuri Tkt,Shuri Tkt
-16351,Shuri D Tkt,Shuri D Tkt
-16352,Ricca Tkt,Ricca Tkt
-16353,Ricca D Tkt,Ricca D Tkt
+16342,Finis Tkt,菲尼斯票
+16343,Finis D Tkt,フィニスＤ票
+16344,Firl Tkt,菲爾票
+16345,Firl D Tkt,フィルＤ票
+16346,Marina Tkt,瑪麗娜票
+16347,Marina D Tkt,マリーナＤ票
+16348,Alisha Tkt,阿莉莎票
+16349,Alisha D Tkt,アリシャＤ票
+16350,Shuri Tkt,修理票
+16351,Shuri D Tkt,シュリＤ票
+16352,Ricca Tkt,里可票
+16353,Ricca D Tkt,リッカＤ票
 16354,Ninja Code・Land,Ninja Code・Land
 16355,Ninja Code・Sea,Ninja Code・Sea
 16356,Ninja Code・Sky,Ninja Code・Sky
 16357,Ninja Code・Heaven,Ninja Code・Heaven
-16358,Otono D Tkt,Otono D Tkt
-16359,Hope D Tkt,Hope D Tkt
+16358,Otono D Tkt,音乃Ｄ票
+16359,Hope D Tkt,希望Ｄ票
 16360,Gesture・Speak,Gesture・Speak
 16361,Gesture・Dance Ⅵ,Gesture・Dance Ⅵ
 16362,Gesture・Dance Ⅶ,Gesture・Dance Ⅶ
@@ -16438,40 +16438,40 @@ index,source,target
 16436,Harudo Z Mid Head,Harudo Z Mid Head
 16437,Harudo Z High Head,Harudo Z High Head
 16438,Harudo Z Top Head,Harudo Z Top Head
-16439,Rattling Powder,Rattling Powder
+16439,Rattling Powder,響聲粉末
 16440,Gachi Flower,Gachi Flower
 16441,Exploration Report,Exploration Report
-16442,Kinkou Tkt,Kinkou Tkt
-16443,Kinkou D Tkt,Kinkou D Tkt
-16444,Anbu Tkt,Anbu Tkt
-16445,Anbu D Tkt,Anbu D Tkt
-16446,Ryoso Tkt,Ryoso Tkt
-16447,Ryoso D Tkt,Ryoso D Tkt
-16448,Gems Tkt,Gems Tkt
-16449,Gems D Tkt,Gems D Tkt
-16450,Fine Tkt,Fine Tkt
-16451,Fine D Tkt,Fine D Tkt
-16452,Kelis Tkt,Kelis Tkt
-16453,Kelis D Tkt,Kelis D Tkt
-16454,Kotona Tkt,Kotona Tkt
-16455,Kotona D Tkt,Kotona D Tkt
+16442,Kinkou Tkt,金光票
+16443,Kinkou D Tkt,キンコウＤ票
+16444,Anbu Tkt,暗部票
+16445,Anbu D Tkt,暗部Ｄ票
+16446,Ryoso Tkt,涼素票
+16447,Ryoso D Tkt,リョウソＤ票
+16448,Gems Tkt,寶石票
+16449,Gems D Tkt,ジェムスＤ票
+16450,Fine Tkt,佳票
+16451,Fine D Tkt,ファインＤ票
+16452,Kelis Tkt,凱里斯票
+16453,Kelis D Tkt,ケリスＤ票
+16454,Kotona Tkt,科托納票
+16455,Kotona D Tkt,コトナＤ票
 16456,Shanru Silk,Shanru Silk
 16457,Fanru Silk,Fanru Silk
 16458,Myunru Silk,Myunru Silk
-16459,FZ Ticket・1,FZ Ticket・1
-16460,FZ Ticket・2,FZ Ticket・2
-16461,FZ Ticket・3,FZ Ticket・3
-16462,FZ Ticket・4,FZ Ticket・4
-16463,FZ Ticket・5,FZ Ticket・5
-16464,FZ Ticket・6,FZ Ticket・6
-16465,FZ Ticket・7,FZ Ticket・7
-16466,FZ Ticket・8,FZ Ticket・8
-16467,FZ Ticket・9,FZ Ticket・9
-16468,FZ Ticket・10,FZ Ticket・10
-16469,FZ Ticket・11,FZ Ticket・11
-16470,FZ Ticket・12,FZ Ticket・12
-16471,FZ Ticket・13,FZ Ticket・13
-16472,FZ Ticket・14,FZ Ticket・14
+16459,FZ Ticket・1,ＦＺ票・1
+16460,FZ Ticket・2,ＦＺ票・2
+16461,FZ Ticket・3,ＦＺ票・3
+16462,FZ Ticket・4,ＦＺ票・4
+16463,FZ Ticket・5,ＦＺ票・5
+16464,FZ Ticket・6,ＦＺ票・6
+16465,FZ Ticket・7,ＦＺ票・7
+16466,FZ Ticket・8,ＦＺ票・8
+16467,FZ Ticket・9,ＦＺ票・9
+16468,FZ Ticket・10,ＦＺ票・10
+16469,FZ Ticket・11,ＦＺ票・11
+16470,FZ Ticket・12,ＦＺ票・12
+16471,FZ Ticket・13,ＦＺ票・13
+16472,FZ Ticket・14,ＦＺ票・14
 16473,High Prayer Gem,High Prayer Gem
 16474,Song Prayer Gem,Song Prayer Gem
 16475,Bullet Prayer Gem,Bullet Prayer Gem
@@ -16491,8 +16491,8 @@ index,source,target
 16489,Fresh Flowers,Fresh Flowers
 16490,Fine Carp Brocade,Fine Carp Brocade
 16491,Hero Carp Brocade,Hero Carp Brocade
-16492,Arbiter Ticket,Arbiter Ticket
-16493,Arbiter D Tkt,Arbiter D Tkt
+16492,Arbiter Ticket,仲裁票
+16493,Arbiter D Tkt,アービターＤ票
 16494,Taikun Crush Shell,Taikun Crush Shell
 16495,Taikun Orange Shl,Taikun Orange Shl
 16496,Taikun White Shell,Taikun White Shell
@@ -16507,10 +16507,10 @@ index,source,target
 16505,Taikun Z Mid Claw,Taikun Z Mid Claw
 16506,Taikun Z High Claw,Taikun Z High Claw
 16507,Taikun Z Top Claw,Taikun Z Top Claw
-16508,Rengoku D Tkt,Rengoku D Tkt
-16509,Nerigeki D Tkt,Nerigeki D Tkt
-16510,Elysi D Tkt,Elysi D Tkt
-16511,Enzu D Tkt,Enzu D Tkt
+16508,Rengoku D Tkt,煉獄Ｄ票
+16509,Nerigeki D Tkt,練撃Ｄ票
+16510,Elysi D Tkt,艾麗西Ｄ票
+16511,Enzu D Tkt,恩茲Ｄ票
 16512,Tapir Soul Stone,Tapir Soul Stone
 16513,Shrimp Soul Stone,Shrimp Soul Stone
 16514,Crab Soul Stone,Crab Soul Stone
@@ -16528,13 +16528,13 @@ index,source,target
 16526,Elysium GN GX3,Elysium GN GX3
 16527,Elysium GN GX4,Elysium GN GX4
 16528,Elysium GN GX5,Elysium GN GX5
-16529,NK6 Ticket・1,NK6 Ticket・1
-16530,NK6 Ticket・2,NK6 Ticket・2
-16531,NK6 Ticket・3,NK6 Ticket・3
-16532,NK6 Ticket・4,NK6 Ticket・4
-16533,Shanru D Tkt,Shanru D Tkt
-16534,Fanru D Tkt,Fanru D Tkt
-16535,Myunru D Tkt,Myunru D Tkt
+16529,NK6 Ticket・1,ＮＫ６票・1
+16530,NK6 Ticket・2,ＮＫ６票・2
+16531,NK6 Ticket・3,ＮＫ６票・3
+16532,NK6 Ticket・4,ＮＫ６票・4
+16533,Shanru D Tkt,香魯Ｄ票
+16534,Fanru D Tkt,范魯Ｄ票
+16535,Myunru D Tkt,繆恩魯Ｄ票
 16536,Dummy 16536,Dummy 16536
 16537,Dummy 16537,Dummy 16537
 16538,Dummy 16538,Dummy 16538

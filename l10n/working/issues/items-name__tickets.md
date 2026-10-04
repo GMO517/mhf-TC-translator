@@ -1,19 +1,20 @@
 # QA: items-name / tickets
 
-- progress_suggestion: （子類未譯完，尚不進全量 QA）
-- translation_status: **partial — in_progress**
-- active_batch: `l10n/working/batches/active/batch-items-tickets.json`
-- legacy_batches: `batches/legacy/batch-items-tickets-a.json` … `-d.json`（已 commit；已在 CSV）
-- csv_verify_active: 累積至 **#8915**（約 638 筆在 active JSON；含手修 Ohai／綠茶／HRP／深紅・白ＧＳ）
-- next_untranslated: **#9092** `Baro K Tkt`
-- note: 整類票券清完前不要宣告 translated；**已譯列禁止重翻**
+- progress_suggestion: translated（子類完；PENDING 已核可；待 QA）
+- translation_status: **translated — awaiting_qa**
+- batch: `l10n/working/batches/awaiting_qa/batch-items-tickets.json`（n=1927）
+- legacy_batches: `batches/legacy/batch-items-tickets-*.json`（已 commit；已在 CSV）
+- finish_batch: **OK**（初回 delta 1927）；定稿後 Fixer 再改 CSV 441 列（見 `glossary/DECIDED-tickets.md`；本體若需同步另跑 delta）
+- next_untranslated: **無**
+- note: **已譯列禁止重翻**；PENDING 票券區已空
 
 ## 已保全區段（勿重做）
 
 | 區段 | 產物 | 狀態 |
 |---|---|---|
 | 票券 A–D | `batches/legacy/batch-items-tickets-*.json` | 已 commit＋CSV |
-| 票券續推（#4856 起累積） | `batches/active/batch-items-tickets.json` | CSV＋多次 delta；下一 #9092 |
+| 票券全段 | `batches/awaiting_qa/batch-items-tickets.json` | CSV＋finish_batch delta 1927 |
+| scratch FINAL | `scratch/tickets-chunk-apply.json` | #15376–16535 已併入 batch |
 
 ## blocking / high / low
 

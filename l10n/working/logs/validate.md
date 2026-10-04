@@ -1,7 +1,91 @@
 # working 驗證報告
 
-- `items-name`：PASS
+- `items-name`：PASS；半翻警告 579
 
 ## 錯誤
 
 - （無）
+
+## 半翻／片假名混中文警告（暫不致 FAIL；應列入 PENDING，子類完成後回修）
+
+- dat-items-name.csv#759: 片假名混中文 | モチャ鍋 → 見 glossary/PENDING.md
+- dat-items-name.csv#760: 片假名混中文 | モチャ・緑 → 見 glossary/PENDING.md
+- dat-items-name.csv#761: 片假名混中文 | モチャ・緑 → 見 glossary/PENDING.md
+- dat-items-name.csv#762: 片假名混中文 | モチャ・緑 → 見 glossary/PENDING.md
+- dat-items-name.csv#763: 片假名混中文 | モチャ・緑 → 見 glossary/PENDING.md
+- dat-items-name.csv#764: 片假名混中文 | モチャ・緑 → 見 glossary/PENDING.md
+- dat-items-name.csv#765: 片假名混中文 | モチャ・緑 → 見 glossary/PENDING.md
+- dat-items-name.csv#766: 片假名混中文 | モチャ・緑 → 見 glossary/PENDING.md
+- dat-items-name.csv#767: 片假名混中文 | モチャ・緑 → 見 glossary/PENDING.md
+- dat-items-name.csv#768: 片假名混中文 | モチャ・緑 → 見 glossary/PENDING.md
+- dat-items-name.csv#769: 片假名混中文 | モチャ・緑 → 見 glossary/PENDING.md
+- dat-items-name.csv#770: 片假名混中文 | モチャ・緑 → 見 glossary/PENDING.md
+- dat-items-name.csv#771: 片假名混中文 | モチャ・緑 → 見 glossary/PENDING.md
+- dat-items-name.csv#772: 片假名混中文 | モチャ・緑 → 見 glossary/PENDING.md
+- dat-items-name.csv#773: 片假名混中文 | モチャ・緑 → 見 glossary/PENDING.md
+- dat-items-name.csv#774: 片假名混中文 | モチャ・赤 → 見 glossary/PENDING.md
+- dat-items-name.csv#775: 片假名混中文 | モチャ・赤 → 見 glossary/PENDING.md
+- dat-items-name.csv#776: 片假名混中文 | モチャ・赤 → 見 glossary/PENDING.md
+- dat-items-name.csv#777: 片假名混中文 | モチャ・赤 → 見 glossary/PENDING.md
+- dat-items-name.csv#778: 片假名混中文 | モチャ・黄 → 見 glossary/PENDING.md
+- dat-items-name.csv#779: 片假名混中文 | モチャ・黄 → 見 glossary/PENDING.md
+- dat-items-name.csv#780: 片假名混中文 | モチャ・黄 → 見 glossary/PENDING.md
+- dat-items-name.csv#781: 片假名混中文 | モチャ・黄 → 見 glossary/PENDING.md
+- dat-items-name.csv#782: 片假名混中文 | モチャ・青 → 見 glossary/PENDING.md
+- dat-items-name.csv#783: 片假名混中文 | モチャ・黄 → 見 glossary/PENDING.md
+- dat-items-name.csv#784: 片假名混中文 | モチャ・黄 → 見 glossary/PENDING.md
+- dat-items-name.csv#785: 片假名混中文 | モチャ・黄 → 見 glossary/PENDING.md
+- dat-items-name.csv#786: 片假名混中文 | モチャ・黄 → 見 glossary/PENDING.md
+- dat-items-name.csv#787: 片假名混中文 | モチャ・黄 → 見 glossary/PENDING.md
+- dat-items-name.csv#788: 片假名混中文 | モチャ・黄 → 見 glossary/PENDING.md
+- dat-items-name.csv#789: 片假名混中文 | モチャ・黄 → 見 glossary/PENDING.md
+- dat-items-name.csv#790: 片假名混中文 | モチャ・黄 → 見 glossary/PENDING.md
+- dat-items-name.csv#791: 片假名混中文 | モチャ・黄 → 見 glossary/PENDING.md
+- dat-items-name.csv#792: 片假名混中文 | モチャ・黄 → 見 glossary/PENDING.md
+- dat-items-name.csv#793: 片假名混中文 | モチャ・黄 → 見 glossary/PENDING.md
+- dat-items-name.csv#1024: 片假名混中文 | ネオジム音符 → 見 glossary/PENDING.md
+- dat-items-name.csv#1075: 片假名混中文 | 紅的ポルタ鉱石 → 見 glossary/PENDING.md
+- dat-items-name.csv#1076: 片假名混中文 | 青的ポルタ鉱石 → 見 glossary/PENDING.md
+- dat-items-name.csv#1077: 片假名混中文 | 黒的ポルタ鉱石 → 見 glossary/PENDING.md
+- dat-items-name.csv#1078: 片假名混中文 | 白的ポルタ鉱石 → 見 glossary/PENDING.md
+- dat-items-name.csv#1079: 片假名混中文 | 透的ポルタ鉱石 → 見 glossary/PENDING.md
+- dat-items-name.csv#1080: 片假名混中文 | 紫的ポルタ鉱石 → 見 glossary/PENDING.md
+- dat-items-name.csv#1081: 片假名混中文 | 虹色ポルタ鉱石 → 見 glossary/PENDING.md
+- dat-items-name.csv#1083: 片假名混中文 | ドラマ票 → 見 glossary/PENDING.md
+- dat-items-name.csv#1633: 片假名混中文 | ユナペル票 → 見 glossary/PENDING.md
+- dat-items-name.csv#1679: 片假名混中文 | マイトレ票 → 見 glossary/PENDING.md
+- dat-items-name.csv#1713: 片假名混中文 | スクアーレ票 → 見 glossary/PENDING.md
+- dat-items-name.csv#1714: 片假名混中文 | カッツェ票 → 見 glossary/PENDING.md
+- dat-items-name.csv#1715: 片假名混中文 | ヴォルペ票 → 見 glossary/PENDING.md
+- dat-items-name.csv#1732: 片假名混中文 | カバル票・白 → 見 glossary/PENDING.md
+- dat-items-name.csv#1733: 片假名混中文 | カバル票・黒 → 見 glossary/PENDING.md
+- dat-items-name.csv#1734: 片假名混中文 | カバル票・赤 → 見 glossary/PENDING.md
+- dat-items-name.csv#1735: 片假名混中文 | カバル票・青 → 見 glossary/PENDING.md
+- dat-items-name.csv#1736: 片假名混中文 | カバル票・黄 → 見 glossary/PENDING.md
+- dat-items-name.csv#1765: 片假名混中文 | セラムＶ票 → 見 glossary/PENDING.md
+- dat-items-name.csv#2964: 片假名混中文 | スティフＩ票 → 見 glossary/PENDING.md
+- dat-items-name.csv#2965: 片假名混中文 | グレーヴＩ票 → 見 glossary/PENDING.md
+- dat-items-name.csv#2966: 片假名混中文 | マンモスＳ票 → 見 glossary/PENDING.md
+- dat-items-name.csv#2967: 片假名混中文 | フュリアＳ票 → 見 glossary/PENDING.md
+- dat-items-name.csv#2976: 半翻（全形字母＋片假名）| Ｔファング票 → 見 glossary/PENDING.md
+- dat-items-name.csv#3608: 片假名混中文 | アストラルＦ票 → 見 glossary/PENDING.md
+- dat-items-name.csv#3690: 片假名混中文 | アギタＳ票 → 見 glossary/PENDING.md
+- dat-items-name.csv#4020: 片假名混中文 | バティＱ票 → 見 glossary/PENDING.md
+- dat-items-name.csv#4360: 片假名混中文 | メガガッツ票 → 見 glossary/PENDING.md
+- dat-items-name.csv#4371: 片假名混中文 | チャンピオン票 → 見 glossary/PENDING.md
+- dat-items-name.csv#4386: 片假名混中文 | ノッテＨ票 → 見 glossary/PENDING.md
+- dat-items-name.csv#4392: 片假名混中文 | 補給ガッツ票 → 見 glossary/PENDING.md
+- dat-items-name.csv#4415: 片假名混中文 | マイスト頭票 → 見 glossary/PENDING.md
+- dat-items-name.csv#4416: 片假名混中文 | マイスト胴票 → 見 glossary/PENDING.md
+- dat-items-name.csv#4417: 片假名混中文 | マイスト腕票 → 見 glossary/PENDING.md
+- dat-items-name.csv#4418: 片假名混中文 | マイスト腰票 → 見 glossary/PENDING.md
+- dat-items-name.csv#4419: 片假名混中文 | マイスト脚票 → 見 glossary/PENDING.md
+- dat-items-name.csv#4866: 片假名混中文 | セケン票Ⅰ → 見 glossary/PENDING.md
+- dat-items-name.csv#4867: 片假名混中文 | セケン票Ⅱ → 見 glossary/PENDING.md
+- dat-items-name.csv#4868: 片假名混中文 | セケン票Ⅲ → 見 glossary/PENDING.md
+- dat-items-name.csv#4869: 片假名混中文 | セケン票Ⅳ → 見 glossary/PENDING.md
+- dat-items-name.csv#4870: 片假名混中文 | セケン票Ⅴ → 見 glossary/PENDING.md
+- dat-items-name.csv#4871: 片假名混中文 | セケン票Ⅵ → 見 glossary/PENDING.md
+- dat-items-name.csv#4872: 片假名混中文 | セケン票Ⅶ → 見 glossary/PENDING.md
+- dat-items-name.csv#4873: 片假名混中文 | セケン票Ⅷ → 見 glossary/PENDING.md
+- …另有 499 筆

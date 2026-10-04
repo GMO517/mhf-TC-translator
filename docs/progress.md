@@ -9,7 +9,7 @@
 ## items-name
 
 - status: in_progress
-- notes: "主真相＝csv。票券已 finish_batch（delta 1927）。PENDING 建議已去片假名（漢字音譯／義譯）；現況欄仍可能是舊片假名暫譯。待使用者定稿→Fixer 回修 CSV／半翻與片假名混中文警告。"
+- notes: "主真相＝csv。tickets／consumables 已 finish_batch＋delta；票券 PENDING 定稿見 DECIDED-tickets.md。"
 
 ### files
 
@@ -19,14 +19,14 @@
 
 - path: l10n/working/csv/dat-items-name.csv
   status: in_progress
-  notes: "票券 CSV 完並已 delta 回寫本體；batch → awaiting_qa/batch-items-tickets.json（n=1927）"
+  notes: "tickets＋consumables 已 delta；其餘子類未完"
 
 ### subclasses（語意，非流水號）
 
 - beads / info: translated → issues/items-name__beads-info.md（awaiting_qa）
 - seals / jebia: translated → issues/items-name__seals-jebia.md（awaiting_qa）
-- tickets: translated → issues/items-name__tickets.md（awaiting_qa；PENDING 定稿後 Fixer）；batches/awaiting_qa/batch-items-tickets.json
-- consumables: in_progress → batches/active/batch-items-consumables.json（n=216 已 apply；未 finish_batch）
+- tickets: translated → issues/items-name__tickets.md（awaiting_qa）；batches/awaiting_qa/batch-items-tickets.json
+- consumables: translated → issues/items-name__consumables.md（awaiting_qa）；batches/awaiting_qa/batch-items-consumables.json（n=282）
 
 ---
 
