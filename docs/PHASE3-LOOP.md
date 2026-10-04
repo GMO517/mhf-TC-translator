@@ -1,11 +1,9 @@
-# Phase 3 工作循環（技術節奏）
+# Gate3 工作循環（技術節奏・子規範）
 
-> **最高優先**：`docs/agent-translation-playbook.md`（角色、停止條件、QA／Fixer）。  
-> 本檔只補 **子類優先序、finish_batch／commit、禁流水切片** 等技術細節。  
-> Translator 執行時依本檔循環，**不必每步向使用者要「下一步」**；最終 QA 必須換獨立 agent／對話。  
-> 僅在真正阻塞（缺備份、工具壞、方針衝突）時才停下來問。  
-> Commit 以**子類完成**為主（見 playbook Part A）；禁止續段字母／batch N 當結案單位。  
-> **禁止**把過期的背景行程通知當現況複述。
+> 檔名仍為 `PHASE3-LOOP.md`（相容舊連結）；內容＝Gate3 翻譯循環。  
+> **父規範**：`docs/agent-translation-playbook.md`（核心目標：加快／省 token／品質底線）。  
+> 本檔**只補**子類優先序與管線；開場不必讀全文——選定子類後才查優先序表。  
+> 完成單位＝語意子類；禁 batch N；日常不必每步問。
 
 ## 分批原則（依分類，不再依固定筆數切片）
 
@@ -18,7 +16,7 @@
 | **武器名** | `dat/weapons/melee/name`、`ranged/name` | 近戰／遠程可分兩段 commit |
 | **防具名** | `dat/armors/head`、`body` | 頭／身可分兩段 |
 | **文本／說明** | `dat/monsters/description` 等長文 | 以圖鑑／說明段為批，用語感樣本校準後整類推進 |
-| **系統／UI**（後續） | pac／menu 等 | Phase 4 |
+| **系統／UI**（後續） | pac／menu 等 | Gate4 |
 
 ### 道具子類（粗分，禁止再切 A/B/C 或 batch N）
 
@@ -33,7 +31,7 @@
 
 1. 詞庫已有  
 2. 技能珠／SP・G 珠  
-3. Frontier 情報／專有道具（STYLE 五步）  
+3. Frontier 情報／專有道具（STYLE 日常三步；高頻才深查）  
 4. 消耗品／調合／陷阱彈刀  
 5. 魔物素材  
 6. 採集素材  
@@ -67,7 +65,7 @@
 |---|---|
 | A | 6 xpath 詞庫命中（已完成並回寫） |
 | B | 依分類清完已抽出 section（道具→武器→防具→說明文本） |
-| C | pac／skills／menu、劇情 → Phase 4 |
+| C | pac／skills／menu、劇情 → Gate4 |
 
 ## 品質複審檢查清單
 

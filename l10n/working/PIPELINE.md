@@ -1,9 +1,7 @@
-# Phase 3 管線（指令與路徑）
+# Gate3 管線（指令與路徑・子規範）
 
-工作流：`docs/agent-translation-playbook.md`。  
-節奏：`docs/PHASE3-LOOP.md`。分類狀態：`docs/progress.md`。  
-**待審隊列：`issues/queue.md`（已譯勿重做）**。  
-目錄契約：`README.md`＋`paths.py`。
+> **父規範**：`docs/agent-translation-playbook.md`。本檔只列腳本指令與目錄。  
+> 節奏細節：`docs/PHASE3-LOOP.md`。狀態：`docs/progress.md`。隊列：`issues/queue.md`。
 
 ## 目錄
 

@@ -5,14 +5,13 @@ alwaysApply: true
 
 # MHF 繁中翻譯 Agent 規則
 
-1. 開始工作前必讀：`docs/agent-translation-playbook.md`（最高優先）、`docs/progress.md`、`docs/TODO.md`、`docs/STYLE.md`、`docs/MCP-TOOLS.md`。
-2. 完成或推進任務後，立刻更新 `docs/progress.md`（分類狀態）與 `docs/TODO.md`（Phase）；禁止文件與磁碟脫節。
-3. **禁止**再裝待辦／記憶類 MCP；進度只寫上述 Markdown，勿雙源。
-4. 本體路徑：`client/MHFCT4.1/`。禁止把本體二進位加入 git commit。
-5. 抽出／譯文文字放 `l10n/`；`.bin` 複本只放 `l10n/data/`（已 gitignore）。已存在的抽出檔勿無故重抽。
-6. 風格：系統訊息清楚；NPC 像人話；數字半形、標點全形；台灣漢字；MH 詞彙以荒野為準；Frontier 專有詞另條。
-7. 佔位符 `{j}` `{cNN}` `{/c}` `{K…}` `{i…}` `{u…}` 不可改壞。
-8. 閘門：round-trip、字型可顯示、詞語庫審核未過前，不做大批翻譯回寫。
-9. 一次任務只擔任一種角色（Translator／QA／Fixer）且只做一個 CATEGORY；翻譯與最終 QA 必須分開。
-10. 禁止 `tickets-a/b/c`、`batch N` 流水切片當完成單位；子類整段推進（見 playbook Part A、`PHASE3-LOOP.md`）。
-11. 範圍為私服客戶端；改本體前確認 `_backup/` 存在。減少重複盤點以省 token。
+**目標：** 加快翻譯 + 控制 token + 品質底線（不壞檔／標記／誤導／缺字）。
+
+1. **父規範**：`docs/agent-translation-playbook.md`（先讀「核心目標」＋Part A）。子規範不得反向覆寫。
+2. **開場精簡**：核心目標＋Part A → `progress.md`／`queue.md` → 該子類 CSV。禁止每輪通讀 STYLE／TODO／全庫／舊長文附錄。
+3. **完成單位**：一個角色 + 一個語意子類；子類未完不得只交摘要就停；禁 batch N／tickets-a/b/c 結案。
+4. **日常推進不必每步確認／feedback**；僅缺備份、工具壞、方針衝突、使用者明示要審時才停。
+5. 推進後更新 `progress.md`（必要時 `TODO.md` Gate）；禁待辦 MCP 雙源。
+6. 本體 `client/MHFCT4.1/`；改前 `_backup/`；bin 不進 commit。
+7. 用字聽 `STYLE.md`（日常三步；禁半翻／片假名混中文）；佔位符不可壞。
+8. Gate0／0.5 未過不做大批本體回寫。

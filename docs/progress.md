@@ -1,16 +1,15 @@
-# Progress（分類狀態機）
+# Progress（分類狀態機・子規範）
 
-> Source of Truth：**分類／檔案狀態**以本檔為準。  
-> Phase 總覽與閘門仍看 `docs/TODO.md`。  
-> 狀態僅允許：`pending` | `in_progress` | `translated` | `qa_issues` | `qa_done`。  
-> 規則見 `docs/agent-translation-playbook.md`。
+> **父規範**：`docs/agent-translation-playbook.md`。  
+> 本檔**只管**各 CATEGORY／子類狀態：`pending` | `in_progress` | `translated` | `qa_issues` | `qa_done`。  
+> 工程 Gate 看 `docs/TODO.md`；用字看 `STYLE.md`；二者都不得在本檔發明新流程。
 
 ---
 
 ## items-name
 
 - status: in_progress
-- notes: "主真相＝csv。票券**已暫停**（禁Ｃクレスト類譯法，待 STYLE／validate 定稿）。下一未譯 #9834。禁止重翻已有 target。"
+- notes: "主真相＝csv。票券已 finish_batch（delta 1927）。PENDING 建議已去片假名（漢字音譯／義譯）；現況欄仍可能是舊片假名暫譯。待使用者定稿→Fixer 回修 CSV／半翻與片假名混中文警告。"
 
 ### files
 
@@ -20,13 +19,14 @@
 
 - path: l10n/working/csv/dat-items-name.csv
   status: in_progress
-  notes: "票券未完；active 已 delta 至約 #9833（798 列）；續翻暫停中"
+  notes: "票券 CSV 完並已 delta 回寫本體；batch → awaiting_qa/batch-items-tickets.json（n=1927）"
 
 ### subclasses（語意，非流水號）
 
 - beads / info: translated → issues/items-name__beads-info.md（awaiting_qa）
 - seals / jebia: translated → issues/items-name__seals-jebia.md（awaiting_qa）
-- tickets: in_progress → issues/items-name__tickets.md；batches/active/batch-items-tickets.json
+- tickets: translated → issues/items-name__tickets.md（awaiting_qa；PENDING 定稿後 Fixer）；batches/awaiting_qa/batch-items-tickets.json
+- consumables: in_progress → batches/active/batch-items-consumables.json（n=216 已 apply；未 finish_batch）
 
 ---
 
@@ -85,7 +85,7 @@
 ## monsters-description
 
 - status: pending
-- notes: "已抽出；Phase 3 層次 B 較後；長文語感樣本後整類推進"
+- notes: "已抽出；Gate3 層次 B 較後；長文語感樣本後整類推進"
 
 ### files
 

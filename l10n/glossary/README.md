@@ -1,11 +1,8 @@
-# 詞語庫（glossary）
+# 詞語庫（glossary・子規範）
 
-**審閱主檔：`REVIEW.md`（人手改這裡）**  
-機器可讀主檔：`terms.csv`  
-**翻譯中待決專名：`PENDING.md`**（拿不定／曾半翻者；子類完成後一次定稿再回修）
+> **父規範**：`docs/agent-translation-playbook.md`。用字：`docs/STYLE.md`。
 
-命名原則見 `docs/STYLE.md`：系列→荒野；Frontier 專有→台服 wiki 為主，但 wiki 可能缺漏／與日服不一致，缺條或衝突時對照日服補齊。  
-**禁止半翻**（`Ｃクレスト` 類）；見 STYLE。
+**審閱主檔：`REVIEW.md`**｜機器主檔：`terms.csv`｜待裁定：`PENDING.md`（資料表，不定義工作流）
 
 ## 最終三步（腳本）
 
