@@ -3,7 +3,7 @@
 > Translator 拿不定、或曾出現**半翻**時列在這裡。  
 > **禁止**用「全形拉丁字母＋片假名」充數（見 docs/STYLE.md）。  
 > 該 CATEGORY／子類**整段譯完後**，使用者在「決定」欄給定譯 → Fixer 回寫 CSV／batches。  
-> 已定稿可移入 	erms.csv（approved=Y）並從本表刪除或標 decided。
+> 已定稿可移入 `terms.csv`（approved=Y）並從本表刪除或標 `decided`。
 
 ## 欄位（必填）
 
