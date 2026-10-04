@@ -6,6 +6,28 @@
 > 合適段落主動 `commit`（管線／一批譯文），避免一次還原過多。  
 > **禁止**把過期的背景行程通知當現況複述。
 
+## Commit 訊息（道具分批）
+
+- 批號用**半形數字**：`batch 16`，禁止「第十六批」
+- subject 要有辨識度：範圍或品類＋缺字／暫用形（若有）
+- body「調整項目」寫清 index 區間、實譯／dummy 數、缺字對照
+
+範例：
+
+```
+feat: items-name batch 16（音符／布料；ネオジム・緑）
+
+調整項目:
+1. l10n/working/csv/dat-items-name.csv
+- #979–#1034 實譯 56；dummy 24
+
+2. l10n/working/reports/batch-items-016.json
+- 本批譯文
+
+3. l10n/working/reports/ITEMS-TRANSLATED.md
+- 缺字：釹→ネオジム音符；綠→緑
+```
+
 ## 標準循環（層次 B：道具名等）
 
 ```
