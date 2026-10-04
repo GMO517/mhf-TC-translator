@@ -1,37 +1,32 @@
 # Phase 3 管線（指令與路徑）
 
-節奏與決策見 `docs/PHASE3-LOOP.md`。本檔只列怎麼跑。
+節奏見 `docs/PHASE3-LOOP.md`。
 
-## 循環對應
+## 日常一批（省時）
 
-| 循環步驟 | 指令／動作 |
+```bash
+python next_batch.py items-name 80
+# → subagent 產 reports/batch-items-00N.json 並 apply+validate
+python finish_batch.py reports/batch-items-00N.json
+# → validate + 只回寫本批 delta + 同步本體
+# → 再 git commit 本批
+```
+
+## 腳本
+
+| 檔 | 用途 |
 |---|---|
-| 1 部分處理 | `python apply_glossary_section.py [section-id…]` |
-| 腳本閘門 | `python validate_working.py` |
-| 一鍵 1+閘門 | `python run_glossary_pass.py` |
-| 2～3 複審 | 另開 agent 讀 `reports/`；FAIL 則改 CSV／詞庫後重跑 |
-| 4 回寫 | `python writeback_sections.py`（需 `_backup`；先 data 再 client） |
-
-## section 定義
-
-見 `sections.json`（xpath、抽出 CSV、允許的 glossary category）。
-
-## 目錄
-
-| 路徑 | 用途 |
-|---|---|
-| `csv/` | working 譯文 |
-| `reports/` | 套用／驗證／複審報告 |
-| `../data/*.bin` | 回寫目標（gitignore） |
-| `../../client/MHFCT4.1/dat/mhfdat.bin` | 本體同步目標 |
-
-## 未命中列策略
-
-`target = source`（暫留英文／原文），避免回寫空白；待層次 B 再譯。
+| `apply_glossary_section.py` | 層次 A 詞庫命中 |
+| `next_batch.py` | 列出未譯候選 |
+| `apply_batch_json.py` | 合併批次譯文＋charset |
+| `validate_working.py` | 白名單／CP932／placeholder |
+| `writeback_sections.py --batch …` | **只回寫該批** |
+| `writeback_sections.py --all-changed …` | 全量（慢，少用） |
+| `finish_batch.py` | validate＋delta 回寫一鍵 |
 
 ## 注意
 
-- working CSV **必須 UTF-8 無 BOM**（FTH 靠首欄名 `index` 辨識格式；BOM 會變成 offset 模式並寫入 0 條）。
-- FTH `--csv-to-bin` 產物是 `output/mhfdat-modified.bin`，**不是**原地改 `data/mhfdat.bin`；`writeback_sections.py` 會再拷回。
-
-
+- working CSV：**UTF-8 無 BOM**  
+- FTH 產物：`output/mhfdat-modified.bin`（腳本會拷回）  
+- 狀態：`reports/writeback-state.json`（已回寫過的 index 累計）  
+- 暫存目錄：`_writeback_work_*`／`_verify*`（gitignore）
