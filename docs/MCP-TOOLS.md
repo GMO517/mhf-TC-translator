@@ -8,9 +8,11 @@
 
 唯一 Source of Truth：
 
-1. `docs/TODO.md` — 進度  
-2. `docs/STYLE.md` + `l10n/glossary/terms.csv` — 用語與風格  
-3. `.cursor/rules/mhf-l10n.mdc` — 強制開場必讀上列檔案  
+1. `docs/agent-translation-playbook.md` — 角色／停止條件／最高優先工作流  
+2. `docs/progress.md` — 分類狀態機  
+3. `docs/TODO.md` — Phase 總覽與閘門  
+4. `docs/STYLE.md` + `l10n/glossary/terms.csv` — 用語與風格  
+5. `.cursor/rules/mhf-l10n.mdc` — 強制開場必讀上列檔案  
 
 ## 為何那些推薦是雞肋
 

@@ -1,6 +1,7 @@
 ﻿# MHF 繁中翻譯工程 — 代辦清單（Source of Truth）
 
-> Agent／人類都以本檔為準。開始任何階段前先讀本檔與 `docs/STYLE.md`。  
+> Agent／人類都以本檔為 **Phase 總覽**。開始任何階段前先讀：  
+> `docs/agent-translation-playbook.md`（角色／停止條件／最高優先）→ `docs/progress.md`（分類狀態）→ 本檔 → `docs/STYLE.md`。  
 > 範圍：**私服自用**客戶端文字；不做公開伺服器／持續線上翻譯管線。  
 > MCP 方針見 `docs/MCP-TOOLS.md`（**不裝**待辦／記憶類 MCP）。
 
@@ -55,13 +56,16 @@
 ## Phase 3 — MVP 翻譯與回寫（小步）
 
 > 閘門：Phase 0 round-trip + Phase 0.5 字型 + Phase 2 審詞，三者未過不開始。  
-> **工作循環**：`docs/PHASE3-LOOP.md`（部分處理 → agent 複審 → 過則擴大／不過則修 → 做到完）。
+> **工作流**：`docs/agent-translation-playbook.md`（Translator → 獨立 QA → Fixer）。  
+> **技術循環**：`docs/PHASE3-LOOP.md`＋`l10n/working/PIPELINE.md`。  
+> **分類狀態**：`docs/progress.md`；QA 產出：`l10n/working/issues/`。
 
+- [x] 定稿 Agent 工作流文件（playbook＋progress＋issues 骨架）
 - [~] 按循環執行（層次 A 詞庫命中已回寫本體 → 層次 B：未入庫列）
 - [x] working 管線腳本（apply／validate／writeback／batch；CSV 無 BOM）
 - [x] 層次 A 回寫：items／melee／ranged／head／body（FTH 產物為 `*-modified.bin`）
-- [~] 層次 B：**依分類推進**（見 `PHASE3-LOOP.md`／`STYLE.md` 專有名詞五步）  
-  - 道具 `items-name`：流水 1–18 已封存；已做子類「技能珠SP/G・情報」；續做灰晶蠍素材／票券等至整表完成  
+- [~] 層次 B：**依子類整段推進**（禁止再切 A/B/C／batch N；見 playbook Part A／`PHASE3-LOOP.md`）  
+  - 道具 `items-name`：珠／情報／印記已做；票券 A–D 為遺留誤切；產物 `batch-items-tickets.json`（#4856～5772）已 delta 回寫、**不**另 commit 續段；下一未譯 **#6018 Parin WhtTea Tkt**；票券未完（約 1764+）；整類清完再 `feat: items-name 票券`  
   - 一覽／缺字：`working/reports/ITEMS-TRANSLATED.md`
 - [ ] 私服進遊戲驗收
 
@@ -86,6 +90,9 @@
 
 | 用途 | 路徑 |
 |------|------|
+| Agent 工作流 | `docs/agent-translation-playbook.md` |
+| 分類進度 | `docs/progress.md` |
+| QA issues | `l10n/working/issues/` |
 | 本體父層 | `client/` |
 | 本體 | `client/MHFCT4.1/` |
 | 抽出 CSV/JSON | `l10n/extracted/` |
@@ -97,9 +104,10 @@
 
 ## 建議 Agent 開場動作
 
-1. 讀 `docs/TODO.md`、`docs/STYLE.md`、`docs/MCP-TOOLS.md`
-2. 用磁碟實況核對並更新本檔核取方塊（禁止文件與抽出物脫節）
-3. 只執行目前未完成且閘門允許的 Phase；改本體前確認 `_backup` 存在
-4. 避免重複盤點／重複抽出已存在的 CSV（浪費 token、打斷節奏）
+1. 確認角色（Translator／QA／Fixer）與單一 CATEGORY；讀 `docs/agent-translation-playbook.md`
+2. 讀 `docs/progress.md`、本檔、`docs/STYLE.md`、`docs/MCP-TOOLS.md`
+3. 用磁碟實況核對並更新 progress／本檔（禁止文件與抽出物脫節）
+4. 只執行目前未完成且閘門允許的 Phase；改本體前確認 `_backup` 存在
+5. 避免重複盤點／重複抽出已存在的 CSV（浪費 token、打斷節奏）
 
 

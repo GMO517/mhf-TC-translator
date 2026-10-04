@@ -1,6 +1,7 @@
 # 翻譯風格規範
 
-適用於本專案所有 `target` 譯文與詞語庫。
+適用於本專案所有 `target` 譯文與詞語庫。  
+Agent 角色／停止條件見 `docs/agent-translation-playbook.md`（本檔只管用語與風格）。
 
 ## 語域
 

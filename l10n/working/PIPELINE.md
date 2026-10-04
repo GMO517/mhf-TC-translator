@@ -1,6 +1,7 @@
 # Phase 3 管線（指令與路徑）
 
-節奏見 `docs/PHASE3-LOOP.md`。  
+工作流：`docs/agent-translation-playbook.md`。  
+節奏：`docs/PHASE3-LOOP.md`。分類狀態：`docs/progress.md`。QA：`l10n/working/issues/`。  
 **分批依分類**（道具／武器／防具／說明文本／詞庫），不用固定筆數流水號。
 
 ## 日常（一類或一子類）
@@ -12,7 +13,8 @@ python finish_batch.py reports/<batch-label>.json
 # → git commit（訊息標分類＋缺字）
 ```
 
-`next_batch.py` 仍可用來列未譯候選，但 **limit 僅輔助**，規劃以子類為準，勿再開 `batch-019` 這類流水。
+`next_batch.py` 僅輔助列候選。  
+**禁止**再產 `batch-items-019`／`tickets-e` 這類流水切片檔名；票券未完就繼續寫入同一語意產物（例：累積進 `batch-items-tickets.json`）或臨時檔，commit 等「票券」子類做完。
 
 ## 腳本
 
