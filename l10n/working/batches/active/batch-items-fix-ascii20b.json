@@ -1,0 +1,26 @@
+{
+  "section_id": "items-name",
+  "label": "ascii-20b",
+  "translations": [
+    { "index": "7166", "target": "ＩＭ卡賓票" },
+    { "index": "7177", "target": "流浪紫票" },
+    { "index": "7180", "target": "阿魯多魯黑票" },
+    { "index": "7207", "target": "初音鍵盤" },
+    { "index": "7209", "target": "未來歌聲" },
+    { "index": "7219", "target": "迪拉伊票" },
+    { "index": "7220", "target": "瓦里阿提票" },
+    { "index": "7231", "target": "艾恩Ａ票" },
+    { "index": "7232", "target": "螺鈿水扇" },
+    { "index": "7267", "target": "終極征服絆" },
+    { "index": "7273", "target": "拉比納ＦＵ票" },
+    { "index": "7275", "target": "磁化毛" },
+    { "index": "7276", "target": "急証明" },
+    { "index": "7277", "target": "抑制球" },
+    { "index": "7282", "target": "紋章觸媒" },
+    { "index": "7285", "target": "桃毛獸磨牙" },
+    { "index": "7286", "target": "毒怪鳥毒尾" },
+    { "index": "7290", "target": "轟龍虎皮" },
+    { "index": "7295", "target": "鎧龍沸血" },
+    { "index": "7312", "target": "吼牙龍血鐵" }
+  ]
+}

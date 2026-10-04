@@ -1,0 +1,26 @@
+{
+  "section_id": "items-name",
+  "label": "ascii-last20",
+  "translations": [
+    { "index": "7032", "target": "大師封印" },
+    { "index": "7038", "target": "精美手巾" },
+    { "index": "7051", "target": "雷Ｔ票" },
+    { "index": "7023", "target": "至高団子" },
+    { "index": "7027", "target": "石英集合" },
+    { "index": "7022", "target": "金神輿装飾" },
+    { "index": "7037", "target": "錆旧灯" },
+    { "index": "7127", "target": "繊細花" },
+    { "index": "7159", "target": "托子之書" },
+    { "index": "7160", "target": "最高之書" },
+    { "index": "7047", "target": "可雷托Ｒ票" },
+    { "index": "7048", "target": "吉阿爾Ｒ票" },
+    { "index": "7049", "target": "布爾Ｒ票" },
+    { "index": "7050", "target": "霧野Ｔ票" },
+    { "index": "6638", "target": "弩炮用弾" },
+    { "index": "6713", "target": "麻痺厚粘液" },
+    { "index": "6462", "target": "爆裂果" },
+    { "index": "6473", "target": "千啓票Ａ" },
+    { "index": "6474", "target": "千啓票Ｂ" },
+    { "index": "6475", "target": "千啓票Ｃ" }
+  ]
+}

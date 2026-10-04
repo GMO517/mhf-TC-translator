@@ -1,0 +1,30 @@
+{
+  "section_id": "items-name",
+  "label": "fix-monster-rest-kata",
+  "translations": [
+    {
+      "index": "13618",
+      "target": "裂水龍的黒寶玉"
+    },
+    {
+      "index": "13621",
+      "target": "裂水龍的血寶玉"
+    },
+    {
+      "index": "14360",
+      "target": "灼零龍的燃燒爪"
+    },
+    {
+      "index": "14363",
+      "target": "灼零龍的凍結角"
+    },
+    {
+      "index": "15480",
+      "target": "噬血龍的特殊血袋"
+    },
+    {
+      "index": "15485",
+      "target": "噬血龍的朱紅鰭"
+    }
+  ]
+}

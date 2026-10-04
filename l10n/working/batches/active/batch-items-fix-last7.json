@@ -1,0 +1,33 @@
+{
+  "section_id": "items-name",
+  "translations": [
+    {
+      "index": "15505",
+      "target": "大焼鳥生産券"
+    },
+    {
+      "index": "15911",
+      "target": "Ｚ３Ｐ道具０９３"
+    },
+    {
+      "index": "15916",
+      "target": "Ｚ３Ｐ道具０９８"
+    },
+    {
+      "index": "15917",
+      "target": "Ｚ３Ｐ道具０９９"
+    },
+    {
+      "index": "15982",
+      "target": "Ｚ３Ｐ珠０６４"
+    },
+    {
+      "index": "16030",
+      "target": "Ｚ３Ｐ珠１１２"
+    },
+    {
+      "index": "16110",
+      "target": "Ｚ３Ｐ珠１９２"
+    }
+  ]
+}

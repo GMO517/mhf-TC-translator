@@ -1,0 +1,23 @@
+{
+  "section_id": "items-name",
+  "label": "fix-priority-notes-tickets",
+  "translations": [
+    { "index": "4911", "target": "硼音符" },
+    { "index": "4912", "target": "曹達音符" },
+    { "index": "4913", "target": "塩素音符" },
+    { "index": "4914", "target": "堅金音符" },
+    { "index": "4915", "target": "蒼鉛音符" },
+    { "index": "4916", "target": "蒼音符" },
+    { "index": "4917", "target": "安音符" },
+    { "index": "4918", "target": "鑪音符" },
+    { "index": "4919", "target": "古音符" },
+    { "index": "4920", "target": "鐵音符" },
+    { "index": "1024", "target": "磁音符" },
+    { "index": "1025", "target": "水銀音符" },
+    { "index": "4927", "target": "大野豬王頂牙" },
+    { "index": "4947", "target": "雄鳥圖案" },
+    { "index": "5337", "target": "庫羅尼粉票" },
+    { "index": "5338", "target": "阿哈巴粉票" },
+    { "index": "5256", "target": "波奇卡縞票" }
+  ]
+}

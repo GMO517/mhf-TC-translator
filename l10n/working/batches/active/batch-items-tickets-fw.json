@@ -1,0 +1,190 @@
+{
+  "section_id": "items-name",
+  "label": "tickets-fullwidth-latin",
+  "translations": [
+    {
+      "index": "5392",
+      "target": "ＨＲＰ票（４ｋ）"
+    },
+    {
+      "index": "6175",
+      "target": "ＨＲＰ票（１０Ｋ）"
+    },
+    {
+      "index": "6176",
+      "target": "ＨＲＰ票（２０Ｋ）"
+    },
+    {
+      "index": "7272",
+      "target": "ＩＭ托門票"
+    },
+    {
+      "index": "7322",
+      "target": "尾虎皮Ｈ票"
+    },
+    {
+      "index": "7986",
+      "target": "達克斯Ｈ票"
+    },
+    {
+      "index": "7999",
+      "target": "ＧＥ怪轟龍票"
+    },
+    {
+      "index": "8000",
+      "target": "ＧＥ化抑礦票"
+    },
+    {
+      "index": "8004",
+      "target": "盤歌聲Ｍ票"
+    },
+    {
+      "index": "8010",
+      "target": "鍵盤歌Ｈ票"
+    },
+    {
+      "index": "8346",
+      "target": "迪拉瓦Ｊ票"
+    },
+    {
+      "index": "8350",
+      "target": "姆努波黑鍵盤Ｆ票"
+    },
+    {
+      "index": "8351",
+      "target": "音未來Ｓ票"
+    },
+    {
+      "index": "8352",
+      "target": "托吉阿Ｓ票"
+    },
+    {
+      "index": "8353",
+      "target": "流浪紫Ｓ票"
+    },
+    {
+      "index": "8354",
+      "target": "未來迪Ｓ票"
+    },
+    {
+      "index": "8362",
+      "target": "流浪紫Ｊ票"
+    },
+    {
+      "index": "8820",
+      "target": "Ｉ詠票"
+    },
+    {
+      "index": "8821",
+      "target": "Ｉ岸票"
+    },
+    {
+      "index": "8822",
+      "target": "Ｓ詠票"
+    },
+    {
+      "index": "8823",
+      "target": "Ｓ岸票"
+    },
+    {
+      "index": "8841",
+      "target": "磨尾虎Ｓ票"
+    },
+    {
+      "index": "9346",
+      "target": "Ｎ法磁化票"
+    },
+    {
+      "index": "9561",
+      "target": "魚Ｎ票"
+    },
+    {
+      "index": "9698",
+      "target": "第一Ｆ票"
+    },
+    {
+      "index": "11378",
+      "target": "托吉阿ＳＣ票"
+    },
+    {
+      "index": "12028",
+      "target": "Ｓ巨票"
+    },
+    {
+      "index": "12029",
+      "target": "Ｓ東票"
+    },
+    {
+      "index": "12030",
+      "target": "Ｓ米拉票"
+    },
+    {
+      "index": "12031",
+      "target": "Ｓ骨牌票"
+    },
+    {
+      "index": "12034",
+      "target": "Ｆ距票"
+    },
+    {
+      "index": "12035",
+      "target": "Ｆ巨票"
+    },
+    {
+      "index": "12036",
+      "target": "Ｆ東票"
+    },
+    {
+      "index": "12037",
+      "target": "Ｆ米拉票"
+    },
+    {
+      "index": "12038",
+      "target": "Ｆ骨牌票"
+    },
+    {
+      "index": "14576",
+      "target": "龍騎ＳＣ票"
+    },
+    {
+      "index": "14577",
+      "target": "龍騎ＧＤ票"
+    },
+    {
+      "index": "14579",
+      "target": "火山ＧＤ票"
+    },
+    {
+      "index": "14795",
+      "target": "拉瓦里ＰＴ票"
+    },
+    {
+      "index": "14796",
+      "target": "急証明ＰＴ票"
+    },
+    {
+      "index": "14904",
+      "target": "宿命ＡＰⅠ票"
+    },
+    {
+      "index": "14905",
+      "target": "宿命ＡＰⅡ票"
+    },
+    {
+      "index": "14906",
+      "target": "宿命ＡＰⅠ票Ｄ"
+    },
+    {
+      "index": "14907",
+      "target": "宿命ＡＰⅡ票Ｄ"
+    },
+    {
+      "index": "15282",
+      "target": "Ｓ龍鎧沸票"
+    },
+    {
+      "index": "15311",
+      "target": "Ｍ章觸媒Ｄ票"
+    }
+  ]
+}

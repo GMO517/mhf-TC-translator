@@ -1,0 +1,18 @@
+{
+  "section_id": "items-name",
+  "label": "ascii-mass-0-0",
+  "translations": [
+    {
+      "index": "12002",
+      "target": "雷狼龍鈿終極"
+    },
+    {
+      "index": "14213",
+      "target": "天廻龍抑制螺"
+    },
+    {
+      "index": "14214",
+      "target": "天廻龍音未來"
+    }
+  ]
+}

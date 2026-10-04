@@ -1,0 +1,11242 @@
+{
+  "section_id": "items-name",
+  "label": "residue-delta",
+  "translations": [
+    {
+      "index": "31",
+      "target": "(dummy)"
+    },
+    {
+      "index": "63",
+      "target": "(dummy)"
+    },
+    {
+      "index": "87",
+      "target": "(dummy)"
+    },
+    {
+      "index": "134",
+      "target": "(dummy)"
+    },
+    {
+      "index": "141",
+      "target": "(dummy)"
+    },
+    {
+      "index": "170",
+      "target": "(dummy)"
+    },
+    {
+      "index": "171",
+      "target": "(dummy)"
+    },
+    {
+      "index": "223",
+      "target": "(dummy)"
+    },
+    {
+      "index": "229",
+      "target": "(dummy)"
+    },
+    {
+      "index": "265",
+      "target": "(dummy)"
+    },
+    {
+      "index": "301",
+      "target": "(dummy)"
+    },
+    {
+      "index": "305",
+      "target": "(dummy)"
+    },
+    {
+      "index": "307",
+      "target": "(dummy)"
+    },
+    {
+      "index": "520",
+      "target": "(dummy)"
+    },
+    {
+      "index": "534",
+      "target": "(dummy)"
+    },
+    {
+      "index": "542",
+      "target": "(dummy)"
+    },
+    {
+      "index": "547",
+      "target": "(dummy)"
+    },
+    {
+      "index": "568",
+      "target": "(dummy)"
+    },
+    {
+      "index": "580",
+      "target": "(dummy)"
+    },
+    {
+      "index": "593",
+      "target": "(dummy)"
+    },
+    {
+      "index": "652",
+      "target": "(dummy)"
+    },
+    {
+      "index": "653",
+      "target": "(dummy)"
+    },
+    {
+      "index": "654",
+      "target": "(dummy)"
+    },
+    {
+      "index": "697",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1469",
+      "target": "大塊赤"
+    },
+    {
+      "index": "1470",
+      "target": "小塊赤"
+    },
+    {
+      "index": "1473",
+      "target": "４０ｋ支票"
+    },
+    {
+      "index": "1474",
+      "target": "３０ｋ支票２"
+    },
+    {
+      "index": "1475",
+      "target": "２０ｋ支票"
+    },
+    {
+      "index": "1476",
+      "target": "１０ｋ支票"
+    },
+    {
+      "index": "1477",
+      "target": "５ｋ支票"
+    },
+    {
+      "index": "1478",
+      "target": "１ｋ支票"
+    },
+    {
+      "index": "1479",
+      "target": "１ｚ支票"
+    },
+    {
+      "index": "1480",
+      "target": "１ｚ支票２"
+    },
+    {
+      "index": "1514",
+      "target": "Ｎ勳章赤"
+    },
+    {
+      "index": "1515",
+      "target": "Ｎ勳章青"
+    },
+    {
+      "index": "1516",
+      "target": "Ｎ勳章紫"
+    },
+    {
+      "index": "1517",
+      "target": "大塊白"
+    },
+    {
+      "index": "1518",
+      "target": "小塊白"
+    },
+    {
+      "index": "1559",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1560",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1561",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1562",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1563",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1564",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1565",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1566",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1567",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1568",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1569",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1570",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1571",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1572",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1573",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1574",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1575",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1576",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1577",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1590",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1591",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1592",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1593",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1594",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1605",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1606",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1607",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1608",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1609",
+      "target": "(dummy)"
+    },
+    {
+      "index": "1642",
+      "target": "年玉醜"
+    },
+    {
+      "index": "1660",
+      "target": "岡山薯"
+    },
+    {
+      "index": "1661",
+      "target": "葉果實"
+    },
+    {
+      "index": "1688",
+      "target": "龍女硬幣"
+    },
+    {
+      "index": "1689",
+      "target": "龍王硬幣"
+    },
+    {
+      "index": "1690",
+      "target": "劍梅澤幣"
+    },
+    {
+      "index": "1694",
+      "target": "尤納佩爾赤布"
+    },
+    {
+      "index": "1695",
+      "target": "尤納佩爾灰布"
+    },
+    {
+      "index": "1696",
+      "target": "感謝赤"
+    },
+    {
+      "index": "1697",
+      "target": "感謝白"
+    },
+    {
+      "index": "1698",
+      "target": "小赤的碎片"
+    },
+    {
+      "index": "1699",
+      "target": "小白的碎片"
+    },
+    {
+      "index": "1701",
+      "target": "獵人的赤硬幣"
+    },
+    {
+      "index": "1702",
+      "target": "獵人的青硬幣"
+    },
+    {
+      "index": "1703",
+      "target": "獵人的白硬幣"
+    },
+    {
+      "index": "1704",
+      "target": "獵人的粉硬幣"
+    },
+    {
+      "index": "1705",
+      "target": "獵人的紫硬幣"
+    },
+    {
+      "index": "1706",
+      "target": "獵人的黄硬幣"
+    },
+    {
+      "index": "1728",
+      "target": "百萬記憶"
+    },
+    {
+      "index": "1729",
+      "target": "肉球幣青銅"
+    },
+    {
+      "index": "1730",
+      "target": "肉球幣銀"
+    },
+    {
+      "index": "1731",
+      "target": "肉球幣金"
+    },
+    {
+      "index": "1738",
+      "target": "破損書・第１章"
+    },
+    {
+      "index": "1739",
+      "target": "破損書・第２章"
+    },
+    {
+      "index": "1740",
+      "target": "破損書・第３章"
+    },
+    {
+      "index": "1741",
+      "target": "破損書・第４章"
+    },
+    {
+      "index": "1742",
+      "target": "破損書・第５章"
+    },
+    {
+      "index": "1743",
+      "target": "達人書１"
+    },
+    {
+      "index": "1744",
+      "target": "達人書２"
+    },
+    {
+      "index": "1768",
+      "target": "惡魔合金"
+    },
+    {
+      "index": "1774",
+      "target": "真心絆"
+    },
+    {
+      "index": "1775",
+      "target": "真誠絆"
+    },
+    {
+      "index": "1782",
+      "target": "隨機球"
+    },
+    {
+      "index": "1789",
+      "target": "不死者地圖"
+    },
+    {
+      "index": "1792",
+      "target": "硝化藥"
+    },
+    {
+      "index": "1794",
+      "target": "呑龍證明"
+    },
+    {
+      "index": "1797",
+      "target": "呑龍酸液"
+    },
+    {
+      "index": "1817",
+      "target": "史詩紀録"
+    },
+    {
+      "index": "1818",
+      "target": "至高廢材"
+    },
+    {
+      "index": "1823",
+      "target": "Ｎ封印"
+    },
+    {
+      "index": "1824",
+      "target": "Ｎ封印Ｂ"
+    },
+    {
+      "index": "1825",
+      "target": "Ｎ封印Ｃ"
+    },
+    {
+      "index": "1836",
+      "target": "夏恩的頭"
+    },
+    {
+      "index": "1837",
+      "target": "夏恩胸"
+    },
+    {
+      "index": "1838",
+      "target": "夏恩腕"
+    },
+    {
+      "index": "1839",
+      "target": "夏恩腰"
+    },
+    {
+      "index": "1840",
+      "target": "夏恩脚"
+    },
+    {
+      "index": "1847",
+      "target": "書命"
+    },
+    {
+      "index": "1858",
+      "target": "感謝汝Ⅱ"
+    },
+    {
+      "index": "1860",
+      "target": "惡猫記憶"
+    },
+    {
+      "index": "1861",
+      "target": "赤猫記憶"
+    },
+    {
+      "index": "1866",
+      "target": "老山龍的證明"
+    },
+    {
+      "index": "1887",
+      "target": "炸彈堅結晶"
+    },
+    {
+      "index": "1897",
+      "target": "大幸運護符"
+    },
+    {
+      "index": "1899",
+      "target": "剥取護符"
+    },
+    {
+      "index": "1900",
+      "target": "證明絆"
+    },
+    {
+      "index": "1901",
+      "target": "報酬碎片赤"
+    },
+    {
+      "index": "1902",
+      "target": "報酬碎片青"
+    },
+    {
+      "index": "1903",
+      "target": "報酬碎片黄"
+    },
+    {
+      "index": "1904",
+      "target": "絆之書青"
+    },
+    {
+      "index": "1905",
+      "target": "絆之書赤"
+    },
+    {
+      "index": "1906",
+      "target": "表彰勳章青"
+    },
+    {
+      "index": "1907",
+      "target": "表彰勳章赤"
+    },
+    {
+      "index": "2008",
+      "target": "Ｎ封印Ｄ"
+    },
+    {
+      "index": "2009",
+      "target": "Ｎ封印Ｅ"
+    },
+    {
+      "index": "2010",
+      "target": "Ｎ封印Ｆ"
+    },
+    {
+      "index": "2038",
+      "target": "賴狩人金屬"
+    },
+    {
+      "index": "2041",
+      "target": "応急藥Ｇ"
+    },
+    {
+      "index": "2070",
+      "target": "舊霜枝"
+    },
+    {
+      "index": "2071",
+      "target": "錆塊"
+    },
+    {
+      "index": "2072",
+      "target": "生錆猫Ｓ印"
+    },
+    {
+      "index": "2073",
+      "target": "力量証言"
+    },
+    {
+      "index": "2074",
+      "target": "収穫硬幣"
+    },
+    {
+      "index": "2075",
+      "target": "採取硬幣１"
+    },
+    {
+      "index": "2076",
+      "target": "採取硬幣２"
+    },
+    {
+      "index": "2077",
+      "target": "採取硬幣３"
+    },
+    {
+      "index": "2078",
+      "target": "採取硬幣４"
+    },
+    {
+      "index": "2079",
+      "target": "採取硬幣５"
+    },
+    {
+      "index": "2080",
+      "target": "採取硬幣６"
+    },
+    {
+      "index": "2081",
+      "target": "資格硬幣"
+    },
+    {
+      "index": "2082",
+      "target": "決勝硬幣"
+    },
+    {
+      "index": "2083",
+      "target": "極暴力"
+    },
+    {
+      "index": "2084",
+      "target": "熱帯樹"
+    },
+    {
+      "index": "2087",
+      "target": "黒渇望的碎片"
+    },
+    {
+      "index": "2088",
+      "target": "粉渇望的碎片"
+    },
+    {
+      "index": "2089",
+      "target": "天使声音"
+    },
+    {
+      "index": "2091",
+      "target": "海洋硬幣"
+    },
+    {
+      "index": "2092",
+      "target": "空硬幣"
+    },
+    {
+      "index": "2093",
+      "target": "大地硬幣"
+    },
+    {
+      "index": "2094",
+      "target": "Ｎ封印Ｇ"
+    },
+    {
+      "index": "2095",
+      "target": "Ｎ封印Ｈ"
+    },
+    {
+      "index": "2096",
+      "target": "Ｎ封印Ｉ"
+    },
+    {
+      "index": "2139",
+      "target": "肉球幣鋼"
+    },
+    {
+      "index": "2140",
+      "target": "肉球幣鉄"
+    },
+    {
+      "index": "2141",
+      "target": "肉球幣鉛"
+    },
+    {
+      "index": "2143",
+      "target": "剛蛇的皮"
+    },
+    {
+      "index": "2145",
+      "target": "年玉陰"
+    },
+    {
+      "index": "2159",
+      "target": "蒲公英的葉"
+    },
+    {
+      "index": "2165",
+      "target": "翡翠"
+    },
+    {
+      "index": "2174",
+      "target": "紅牡丹蠅"
+    },
+    {
+      "index": "2175",
+      "target": "緑眼帝王"
+    },
+    {
+      "index": "2179",
+      "target": "曲木材"
+    },
+    {
+      "index": "2180",
+      "target": "旧布"
+    },
+    {
+      "index": "2184",
+      "target": "爆裂果果實"
+    },
+    {
+      "index": "2195",
+      "target": "刺蟲"
+    },
+    {
+      "index": "2199",
+      "target": "甜蟲"
+    },
+    {
+      "index": "2200",
+      "target": "米跳蟲"
+    },
+    {
+      "index": "2201",
+      "target": "木天蓼項鏈"
+    },
+    {
+      "index": "2204",
+      "target": "舊杓"
+    },
+    {
+      "index": "2205",
+      "target": "細長棒"
+    },
+    {
+      "index": "2206",
+      "target": "厚編繩"
+    },
+    {
+      "index": "2536",
+      "target": "護腕基底祭典"
+    },
+    {
+      "index": "2537",
+      "target": "護腕基底黒"
+    },
+    {
+      "index": "2538",
+      "target": "護腕基底白"
+    },
+    {
+      "index": "2539",
+      "target": "護腕基底青"
+    },
+    {
+      "index": "2540",
+      "target": "護腕基底紫"
+    },
+    {
+      "index": "2541",
+      "target": "護腕基底櫻"
+    },
+    {
+      "index": "2542",
+      "target": "護腕基底的紅寶石"
+    },
+    {
+      "index": "2543",
+      "target": "護腕基底緑"
+    },
+    {
+      "index": "2544",
+      "target": "護腕基底黄"
+    },
+    {
+      "index": "2545",
+      "target": "護腕基底橙"
+    },
+    {
+      "index": "2546",
+      "target": "水護腕基底"
+    },
+    {
+      "index": "2547",
+      "target": "護腕基底灰"
+    },
+    {
+      "index": "2548",
+      "target": "護腕基底胡桃"
+    },
+    {
+      "index": "2557",
+      "target": "暖油"
+    },
+    {
+      "index": "2558",
+      "target": "冷却油"
+    },
+    {
+      "index": "2598",
+      "target": "誠実絆"
+    },
+    {
+      "index": "2599",
+      "target": "正直絆"
+    },
+    {
+      "index": "2600",
+      "target": "赤法典"
+    },
+    {
+      "index": "2601",
+      "target": "青法典"
+    },
+    {
+      "index": "2602",
+      "target": "黄法典"
+    },
+    {
+      "index": "2604",
+      "target": "地圖的裂頂級"
+    },
+    {
+      "index": "2605",
+      "target": "地圖破損下"
+    },
+    {
+      "index": "2606",
+      "target": "卷線器設計図"
+    },
+    {
+      "index": "2608",
+      "target": "切片翡翠"
+    },
+    {
+      "index": "2613",
+      "target": "地圖的碎片Ⅰ"
+    },
+    {
+      "index": "2614",
+      "target": "地圖的碎片Ⅱ"
+    },
+    {
+      "index": "2615",
+      "target": "地圖的碎片Ⅲ"
+    },
+    {
+      "index": "2616",
+      "target": "地圖的碎片Ⅳ"
+    },
+    {
+      "index": "2617",
+      "target": "地圖的碎片Ⅴ"
+    },
+    {
+      "index": "2618",
+      "target": "水稀有琥珀"
+    },
+    {
+      "index": "2619",
+      "target": "水的稀有深紅"
+    },
+    {
+      "index": "2620",
+      "target": "水稀有薔薇"
+    },
+    {
+      "index": "2621",
+      "target": "水稀有翡翠"
+    },
+    {
+      "index": "2622",
+      "target": "水稀有青金"
+    },
+    {
+      "index": "2623",
+      "target": "水的稀有黒"
+    },
+    {
+      "index": "2624",
+      "target": "水的稀有銀"
+    },
+    {
+      "index": "2625",
+      "target": "水的稀有金"
+    },
+    {
+      "index": "2626",
+      "target": "稀有琥珀的袋"
+    },
+    {
+      "index": "2627",
+      "target": "稀有深紅的袋"
+    },
+    {
+      "index": "2628",
+      "target": "稀有薔薇的袋"
+    },
+    {
+      "index": "2629",
+      "target": "稀有翡翠的袋"
+    },
+    {
+      "index": "2630",
+      "target": "稀有青金的袋"
+    },
+    {
+      "index": "2631",
+      "target": "稀有黒的袋"
+    },
+    {
+      "index": "2632",
+      "target": "稀有銀的袋"
+    },
+    {
+      "index": "2633",
+      "target": "稀有黄金的袋"
+    },
+    {
+      "index": "2634",
+      "target": "琥珀秘傳鍋"
+    },
+    {
+      "index": "2635",
+      "target": "深紅秘傳鍋"
+    },
+    {
+      "index": "2636",
+      "target": "薔薇秘傳鍋"
+    },
+    {
+      "index": "2637",
+      "target": "翡翠秘傳鍋"
+    },
+    {
+      "index": "2638",
+      "target": "青金秘傳鍋"
+    },
+    {
+      "index": "2639",
+      "target": "黒秘傳鍋"
+    },
+    {
+      "index": "2640",
+      "target": "銀秘傳鍋"
+    },
+    {
+      "index": "2641",
+      "target": "金秘傳鍋"
+    },
+    {
+      "index": "2657",
+      "target": "氷獰龍的證明"
+    },
+    {
+      "index": "2658",
+      "target": "新人的證明"
+    },
+    {
+      "index": "2659",
+      "target": "片手劍魂下位"
+    },
+    {
+      "index": "2660",
+      "target": "片手劍魂中位"
+    },
+    {
+      "index": "2661",
+      "target": "片手劍魂上位"
+    },
+    {
+      "index": "2662",
+      "target": "片手劍魂最上位"
+    },
+    {
+      "index": "2663",
+      "target": "雙劍魂下位"
+    },
+    {
+      "index": "2664",
+      "target": "雙劍魂中位"
+    },
+    {
+      "index": "2665",
+      "target": "雙劍魂上位"
+    },
+    {
+      "index": "2666",
+      "target": "雙劍魂最上位"
+    },
+    {
+      "index": "2667",
+      "target": "大劍魂下位"
+    },
+    {
+      "index": "2668",
+      "target": "大劍魂中位"
+    },
+    {
+      "index": "2669",
+      "target": "大劍魂上位"
+    },
+    {
+      "index": "2670",
+      "target": "大劍魂最上位"
+    },
+    {
+      "index": "2671",
+      "target": "太刀魂下位"
+    },
+    {
+      "index": "2672",
+      "target": "太刀魂中位"
+    },
+    {
+      "index": "2673",
+      "target": "太刀魂上位"
+    },
+    {
+      "index": "2674",
+      "target": "太刀魂最上位"
+    },
+    {
+      "index": "2675",
+      "target": "大錘魂下位"
+    },
+    {
+      "index": "2676",
+      "target": "大錘魂中位"
+    },
+    {
+      "index": "2677",
+      "target": "大錘魂上位"
+    },
+    {
+      "index": "2678",
+      "target": "大錘魂最上位"
+    },
+    {
+      "index": "2679",
+      "target": "狩獵笛魂下位"
+    },
+    {
+      "index": "2680",
+      "target": "狩獵笛魂中位"
+    },
+    {
+      "index": "2681",
+      "target": "狩獵笛魂上位"
+    },
+    {
+      "index": "2682",
+      "target": "狩獵笛魂最上位"
+    },
+    {
+      "index": "2683",
+      "target": "長槍魂下位"
+    },
+    {
+      "index": "2684",
+      "target": "長槍魂中位"
+    },
+    {
+      "index": "2685",
+      "target": "長槍魂上位"
+    },
+    {
+      "index": "2686",
+      "target": "長槍魂最上位"
+    },
+    {
+      "index": "2687",
+      "target": "銃槍魂下位"
+    },
+    {
+      "index": "2688",
+      "target": "銃槍魂中位"
+    },
+    {
+      "index": "2689",
+      "target": "銃槍魂上位"
+    },
+    {
+      "index": "2690",
+      "target": "銃槍魂最上位"
+    },
+    {
+      "index": "2691",
+      "target": "重弩魂下位"
+    },
+    {
+      "index": "2692",
+      "target": "重弩魂中位"
+    },
+    {
+      "index": "2693",
+      "target": "重弩魂上位"
+    },
+    {
+      "index": "2694",
+      "target": "重弩魂最上位"
+    },
+    {
+      "index": "2695",
+      "target": "輕弩魂下位"
+    },
+    {
+      "index": "2696",
+      "target": "輕弩魂中位"
+    },
+    {
+      "index": "2697",
+      "target": "輕弩魂上位"
+    },
+    {
+      "index": "2698",
+      "target": "輕弩魂最上位"
+    },
+    {
+      "index": "2699",
+      "target": "弓魂下位"
+    },
+    {
+      "index": "2700",
+      "target": "弓魂中位"
+    },
+    {
+      "index": "2701",
+      "target": "弓魂上位"
+    },
+    {
+      "index": "2702",
+      "target": "弓魂最上位"
+    },
+    {
+      "index": "2906",
+      "target": "護腕基底褐"
+    },
+    {
+      "index": "2907",
+      "target": "護腕基底優花"
+    },
+    {
+      "index": "2908",
+      "target": "護腕基底柑橘"
+    },
+    {
+      "index": "2909",
+      "target": "護腕基底丁香"
+    },
+    {
+      "index": "2910",
+      "target": "護腕基底芽"
+    },
+    {
+      "index": "2911",
+      "target": "護腕基底赤"
+    },
+    {
+      "index": "2912",
+      "target": "護腕基底深紅"
+    },
+    {
+      "index": "2913",
+      "target": "護腕基底松"
+    },
+    {
+      "index": "2914",
+      "target": "護腕基底緋"
+    },
+    {
+      "index": "2927",
+      "target": "白蜈蚣"
+    },
+    {
+      "index": "2930",
+      "target": "破損小袋"
+    },
+    {
+      "index": "2931",
+      "target": "枯花束"
+    },
+    {
+      "index": "2932",
+      "target": "亀裂鍋"
+    },
+    {
+      "index": "2938",
+      "target": "朱比"
+    },
+    {
+      "index": "2944",
+      "target": "毒弄蝶"
+    },
+    {
+      "index": "2946",
+      "target": "青眼帝王"
+    },
+    {
+      "index": "2947",
+      "target": "小劍柄"
+    },
+    {
+      "index": "2948",
+      "target": "焦木天蓼"
+    },
+    {
+      "index": "3012",
+      "target": "猫的金的頭"
+    },
+    {
+      "index": "3013",
+      "target": "金猫胸"
+    },
+    {
+      "index": "3014",
+      "target": "猫的金腕"
+    },
+    {
+      "index": "3015",
+      "target": "猫的金腰"
+    },
+    {
+      "index": "3016",
+      "target": "猫的金脚"
+    },
+    {
+      "index": "3017",
+      "target": "猫的銀的頭"
+    },
+    {
+      "index": "3018",
+      "target": "銀猫胸"
+    },
+    {
+      "index": "3019",
+      "target": "猫的銀腕"
+    },
+    {
+      "index": "3020",
+      "target": "猫的銀腰"
+    },
+    {
+      "index": "3021",
+      "target": "猫的銀脚"
+    },
+    {
+      "index": "3041",
+      "target": "感謝汝Ⅲ"
+    },
+    {
+      "index": "3042",
+      "target": "先駆的證明"
+    },
+    {
+      "index": "3043",
+      "target": "極品硬幣"
+    },
+    {
+      "index": "3044",
+      "target": "黒檀龍石"
+    },
+    {
+      "index": "3045",
+      "target": "象牙龍石"
+    },
+    {
+      "index": "3046",
+      "target": "炭化物板"
+    },
+    {
+      "index": "3047",
+      "target": "炭化物鏈"
+    },
+    {
+      "index": "3048",
+      "target": "巴比德螺栓"
+    },
+    {
+      "index": "3049",
+      "target": "軟物"
+    },
+    {
+      "index": "3054",
+      "target": "充電齒輪"
+    },
+    {
+      "index": "3068",
+      "target": "白工具"
+    },
+    {
+      "index": "3069",
+      "target": "黄工具"
+    },
+    {
+      "index": "3075",
+      "target": "護腕基底Ｎ"
+    },
+    {
+      "index": "3076",
+      "target": "護腕基底深淵"
+    },
+    {
+      "index": "3078",
+      "target": "護腕基底種子"
+    },
+    {
+      "index": "3079",
+      "target": "護腕基底珍珠"
+    },
+    {
+      "index": "3080",
+      "target": "護腕基底桃"
+    },
+    {
+      "index": "3081",
+      "target": "護腕基底金"
+    },
+    {
+      "index": "3082",
+      "target": "護腕基底王"
+    },
+    {
+      "index": "3083",
+      "target": "護腕基底茜"
+    },
+    {
+      "index": "3296",
+      "target": "永久凍土"
+    },
+    {
+      "index": "3301",
+      "target": "黒白金"
+    },
+    {
+      "index": "3304",
+      "target": "深紅旋律"
+    },
+    {
+      "index": "3305",
+      "target": "蒼旋律"
+    },
+    {
+      "index": "3309",
+      "target": "聖誕歌"
+    },
+    {
+      "index": "3313",
+      "target": "戰友封印"
+    },
+    {
+      "index": "3317",
+      "target": "奇小袋"
+    },
+    {
+      "index": "3318",
+      "target": "輝耀星"
+    },
+    {
+      "index": "3339",
+      "target": "護腕基底翡翠"
+    },
+    {
+      "index": "3340",
+      "target": "護腕基底青藍"
+    },
+    {
+      "index": "3344",
+      "target": "護腕基底的塵粉"
+    },
+    {
+      "index": "3551",
+      "target": "紅蓮的證明"
+    },
+    {
+      "index": "3558",
+      "target": "桶蝗"
+    },
+    {
+      "index": "3591",
+      "target": "苔黒曜石"
+    },
+    {
+      "index": "3592",
+      "target": "苔大理石"
+    },
+    {
+      "index": "3609",
+      "target": "證明同盟"
+    },
+    {
+      "index": "3610",
+      "target": "絆同盟"
+    },
+    {
+      "index": "3611",
+      "target": "封印同盟"
+    },
+    {
+      "index": "3612",
+      "target": "甜記憶"
+    },
+    {
+      "index": "3613",
+      "target": "白糖"
+    },
+    {
+      "index": "3629",
+      "target": "奥義布Ｈ"
+    },
+    {
+      "index": "3630",
+      "target": "奥義布Ｓ"
+    },
+    {
+      "index": "3636",
+      "target": "獵人赤骰"
+    },
+    {
+      "index": "3637",
+      "target": "獵人青骰"
+    },
+    {
+      "index": "3638",
+      "target": "獵人白骰"
+    },
+    {
+      "index": "3639",
+      "target": "獵人粉骰"
+    },
+    {
+      "index": "3640",
+      "target": "獵人紫骰"
+    },
+    {
+      "index": "3641",
+      "target": "獵人的赤可片"
+    },
+    {
+      "index": "3642",
+      "target": "獵人的青可片"
+    },
+    {
+      "index": "3643",
+      "target": "獵人的白可片"
+    },
+    {
+      "index": "3644",
+      "target": "獵人的粉可片"
+    },
+    {
+      "index": "3645",
+      "target": "獵人的紫可片"
+    },
+    {
+      "index": "3646",
+      "target": "獵人的赤書"
+    },
+    {
+      "index": "3647",
+      "target": "獵人的青書"
+    },
+    {
+      "index": "3648",
+      "target": "獵人的白書"
+    },
+    {
+      "index": "3649",
+      "target": "獵人的粉書"
+    },
+    {
+      "index": "3650",
+      "target": "獵人的紫書"
+    },
+    {
+      "index": "3656",
+      "target": "獵人的赤的袋"
+    },
+    {
+      "index": "3657",
+      "target": "獵人的青的袋"
+    },
+    {
+      "index": "3658",
+      "target": "獵人的白的袋"
+    },
+    {
+      "index": "3659",
+      "target": "獵人的粉的袋"
+    },
+    {
+      "index": "3660",
+      "target": "獵人的紫的袋"
+    },
+    {
+      "index": "3671",
+      "target": "木天蓼硬幣"
+    },
+    {
+      "index": "3699",
+      "target": "火證明青金"
+    },
+    {
+      "index": "3700",
+      "target": "水證明青金"
+    },
+    {
+      "index": "3701",
+      "target": "雷證明青金"
+    },
+    {
+      "index": "3702",
+      "target": "冰證明青金"
+    },
+    {
+      "index": "3952",
+      "target": "斷食１Ｇ"
+    },
+    {
+      "index": "3953",
+      "target": "集中１Ｇ"
+    },
+    {
+      "index": "3954",
+      "target": "氣力Ｇ"
+    },
+    {
+      "index": "3956",
+      "target": "火的攻撃Ｇ"
+    },
+    {
+      "index": "3957",
+      "target": "水的攻撃Ｇ"
+    },
+    {
+      "index": "3958",
+      "target": "雷的攻撃Ｇ"
+    },
+    {
+      "index": "3959",
+      "target": "冰的攻撃Ｇ"
+    },
+    {
+      "index": "3960",
+      "target": "龍的攻撃Ｇ"
+    },
+    {
+      "index": "3961",
+      "target": "爆弾劍Ｇ"
+    },
+    {
+      "index": "3962",
+      "target": "龍的劍Ｇ"
+    },
+    {
+      "index": "3966",
+      "target": "小點球"
+    },
+    {
+      "index": "3968",
+      "target": "大點球"
+    },
+    {
+      "index": "3972",
+      "target": "超越證明１"
+    },
+    {
+      "index": "3973",
+      "target": "超越證明２"
+    },
+    {
+      "index": "3974",
+      "target": "超越證明３"
+    },
+    {
+      "index": "3975",
+      "target": "超越證明４"
+    },
+    {
+      "index": "3976",
+      "target": "超越證明５"
+    },
+    {
+      "index": "3977",
+      "target": "超越證明６"
+    },
+    {
+      "index": "3978",
+      "target": "超越證明７"
+    },
+    {
+      "index": "3979",
+      "target": "超越證明８"
+    },
+    {
+      "index": "3980",
+      "target": "超越證明９"
+    },
+    {
+      "index": "3981",
+      "target": "超越證明１０"
+    },
+    {
+      "index": "3998",
+      "target": "肉球印勳章"
+    },
+    {
+      "index": "4002",
+      "target": "冠軍的證明"
+    },
+    {
+      "index": "4003",
+      "target": "奔流黒的殻"
+    },
+    {
+      "index": "4004",
+      "target": "沸騰赤的殻"
+    },
+    {
+      "index": "4010",
+      "target": "歌野"
+    },
+    {
+      "index": "4011",
+      "target": "精河設計"
+    },
+    {
+      "index": "4038",
+      "target": "華書３"
+    },
+    {
+      "index": "4039",
+      "target": "獵人的Ｓ技能２"
+    },
+    {
+      "index": "4040",
+      "target": "武器設計文書Ⅱ"
+    },
+    {
+      "index": "4058",
+      "target": "大地勳章"
+    },
+    {
+      "index": "4059",
+      "target": "海洋勳章"
+    },
+    {
+      "index": "4060",
+      "target": "空勳章"
+    },
+    {
+      "index": "4064",
+      "target": "青空布"
+    },
+    {
+      "index": "4065",
+      "target": "蒼空布"
+    },
+    {
+      "index": "4105",
+      "target": "護腕基底樺"
+    },
+    {
+      "index": "4106",
+      "target": "護腕基底絲"
+    },
+    {
+      "index": "4248",
+      "target": "捕獲的達人"
+    },
+    {
+      "index": "4313",
+      "target": "毒的劍Ｇ"
+    },
+    {
+      "index": "4314",
+      "target": "麻痺的劍Ｇ"
+    },
+    {
+      "index": "4315",
+      "target": "睡眠的劍Ｇ"
+    },
+    {
+      "index": "4316",
+      "target": "火的劍Ｇ"
+    },
+    {
+      "index": "4317",
+      "target": "水的劍Ｇ"
+    },
+    {
+      "index": "4318",
+      "target": "雷的劍Ｇ"
+    },
+    {
+      "index": "4319",
+      "target": "冰的劍Ｇ"
+    },
+    {
+      "index": "4321",
+      "target": "鋼龍的兇猛的殻"
+    },
+    {
+      "index": "4322",
+      "target": "鋼龍的猛的殻"
+    },
+    {
+      "index": "4330",
+      "target": "柔軟赤革"
+    },
+    {
+      "index": "4336",
+      "target": "通常圖１"
+    },
+    {
+      "index": "4337",
+      "target": "通常圖２"
+    },
+    {
+      "index": "4356",
+      "target": "被動漿果"
+    },
+    {
+      "index": "4390",
+      "target": "皮革的護腕基底"
+    },
+    {
+      "index": "4430",
+      "target": "感謝汝Ⅳ"
+    },
+    {
+      "index": "4461",
+      "target": "桃祭典記憶"
+    },
+    {
+      "index": "4468",
+      "target": "星殘骸"
+    },
+    {
+      "index": "4687",
+      "target": "裝填Ｇ"
+    },
+    {
+      "index": "4688",
+      "target": "自動裝填Ｇ"
+    },
+    {
+      "index": "4690",
+      "target": "防護Ｇ"
+    },
+    {
+      "index": "4693",
+      "target": "耐力的Ｇ"
+    },
+    {
+      "index": "4695",
+      "target": "砲術１Ｇ"
+    },
+    {
+      "index": "4697",
+      "target": "力量針"
+    },
+    {
+      "index": "4698",
+      "target": "力量球"
+    },
+    {
+      "index": "4717",
+      "target": "餅餅果實"
+    },
+    {
+      "index": "4719",
+      "target": "深紅公主"
+    },
+    {
+      "index": "4726",
+      "target": "神神果實"
+    },
+    {
+      "index": "4731",
+      "target": "頂点齒輪"
+    },
+    {
+      "index": "4732",
+      "target": "鏈齒輪"
+    },
+    {
+      "index": "4733",
+      "target": "腰帶齒輪"
+    },
+    {
+      "index": "4734",
+      "target": "青琥珀金"
+    },
+    {
+      "index": "4735",
+      "target": "黄琥珀金"
+    },
+    {
+      "index": "4737",
+      "target": "緋琥珀金"
+    },
+    {
+      "index": "4738",
+      "target": "灰琥珀金"
+    },
+    {
+      "index": "4739",
+      "target": "赤琥珀金"
+    },
+    {
+      "index": "4740",
+      "target": "白琥珀金"
+    },
+    {
+      "index": "4741",
+      "target": "緑琥珀金"
+    },
+    {
+      "index": "4742",
+      "target": "橙琥珀金"
+    },
+    {
+      "index": "4743",
+      "target": "粉琥珀金"
+    },
+    {
+      "index": "4744",
+      "target": "紫琥珀金"
+    },
+    {
+      "index": "4745",
+      "target": "全耐性果實"
+    },
+    {
+      "index": "4747",
+      "target": "回復速度果實"
+    },
+    {
+      "index": "4748",
+      "target": "抗猛毒果實"
+    },
+    {
+      "index": "4749",
+      "target": "捕獲的達人果實"
+    },
+    {
+      "index": "4766",
+      "target": "黒輝石"
+    },
+    {
+      "index": "4774",
+      "target": "氷枝"
+    },
+    {
+      "index": "4796",
+      "target": "魅惑的羽"
+    },
+    {
+      "index": "4799",
+      "target": "深紅嵐鈴"
+    },
+    {
+      "index": "4800",
+      "target": "象牙星黏土"
+    },
+    {
+      "index": "4802",
+      "target": "光澤礫"
+    },
+    {
+      "index": "4833",
+      "target": "水謎"
+    },
+    {
+      "index": "4834",
+      "target": "惡魔菌"
+    },
+    {
+      "index": "4835",
+      "target": "獵人Ｓ意志"
+    },
+    {
+      "index": "4837",
+      "target": "閃光硬幣"
+    },
+    {
+      "index": "4842",
+      "target": "劍士封印"
+    },
+    {
+      "index": "4855",
+      "target": "柔軟線"
+    },
+    {
+      "index": "4888",
+      "target": "歌浜"
+    },
+    {
+      "index": "4890",
+      "target": "歌洞"
+    },
+    {
+      "index": "4892",
+      "target": "歌春"
+    },
+    {
+      "index": "4893",
+      "target": "歌夏"
+    },
+    {
+      "index": "4897",
+      "target": "金蠍絆"
+    },
+    {
+      "index": "4903",
+      "target": "金呑龍絆"
+    },
+    {
+      "index": "4904",
+      "target": "灰祭典紀念"
+    },
+    {
+      "index": "4906",
+      "target": "緑祭典紀念"
+    },
+    {
+      "index": "4908",
+      "target": "護腕基底蒼"
+    },
+    {
+      "index": "4944",
+      "target": "獵人Ｓ紙"
+    },
+    {
+      "index": "4948",
+      "target": "可愛圖"
+    },
+    {
+      "index": "4949",
+      "target": "要塞圖"
+    },
+    {
+      "index": "4950",
+      "target": "痩痩食"
+    },
+    {
+      "index": "5100",
+      "target": "攻撃力的Ｇ"
+    },
+    {
+      "index": "5101",
+      "target": "食事１Ｇ"
+    },
+    {
+      "index": "5102",
+      "target": "研ぎＧ"
+    },
+    {
+      "index": "5103",
+      "target": "集中裝飾品"
+    },
+    {
+      "index": "5104",
+      "target": "絆裝飾品"
+    },
+    {
+      "index": "5105",
+      "target": "捕獲的裝飾品"
+    },
+    {
+      "index": "5106",
+      "target": "被動装飾品"
+    },
+    {
+      "index": "5107",
+      "target": "笛達人裝飾品"
+    },
+    {
+      "index": "5109",
+      "target": "圧力裝飾品"
+    },
+    {
+      "index": "5116",
+      "target": "酸液Ｓ"
+    },
+    {
+      "index": "5117",
+      "target": "火酸液Ｓ"
+    },
+    {
+      "index": "5118",
+      "target": "水酸液Ｓ"
+    },
+    {
+      "index": "5119",
+      "target": "雷酸液Ｓ"
+    },
+    {
+      "index": "5120",
+      "target": "冰酸液Ｓ"
+    },
+    {
+      "index": "5121",
+      "target": "龍酸液Ｓ"
+    },
+    {
+      "index": "5122",
+      "target": "火的耐性果實"
+    },
+    {
+      "index": "5123",
+      "target": "水的耐性果實"
+    },
+    {
+      "index": "5124",
+      "target": "龍的耐性果實"
+    },
+    {
+      "index": "5128",
+      "target": "雙阿比的證明"
+    },
+    {
+      "index": "5157",
+      "target": "化瓶赤"
+    },
+    {
+      "index": "5158",
+      "target": "化瓶青"
+    },
+    {
+      "index": "5159",
+      "target": "化瓶緑"
+    },
+    {
+      "index": "5160",
+      "target": "化瓶黄"
+    },
+    {
+      "index": "5161",
+      "target": "化瓶白"
+    },
+    {
+      "index": "5162",
+      "target": "化瓶黒"
+    },
+    {
+      "index": "5163",
+      "target": "木偶赤"
+    },
+    {
+      "index": "5164",
+      "target": "木偶緑"
+    },
+    {
+      "index": "5165",
+      "target": "木偶白"
+    },
+    {
+      "index": "5166",
+      "target": "木偶灰"
+    },
+    {
+      "index": "5167",
+      "target": "木偶褐"
+    },
+    {
+      "index": "5168",
+      "target": "木偶黒"
+    },
+    {
+      "index": "5169",
+      "target": "木偶黄"
+    },
+    {
+      "index": "5170",
+      "target": "木偶青"
+    },
+    {
+      "index": "5172",
+      "target": "木偶青藍"
+    },
+    {
+      "index": "5173",
+      "target": "粉肖像"
+    },
+    {
+      "index": "5174",
+      "target": "桃肖像"
+    },
+    {
+      "index": "5176",
+      "target": "青藍肖像"
+    },
+    {
+      "index": "5177",
+      "target": "紫肖像"
+    },
+    {
+      "index": "5178",
+      "target": "赤肖像"
+    },
+    {
+      "index": "5179",
+      "target": "黄肖像"
+    },
+    {
+      "index": "5180",
+      "target": "青肖像"
+    },
+    {
+      "index": "5181",
+      "target": "白肖像"
+    },
+    {
+      "index": "5182",
+      "target": "橙肖像"
+    },
+    {
+      "index": "5183",
+      "target": "黒肖像"
+    },
+    {
+      "index": "5184",
+      "target": "青的羽"
+    },
+    {
+      "index": "5193",
+      "target": "茜Ｓ夢"
+    },
+    {
+      "index": "5213",
+      "target": "微装飾青"
+    },
+    {
+      "index": "5214",
+      "target": "微装飾粉"
+    },
+    {
+      "index": "5217",
+      "target": "幻影線"
+    },
+    {
+      "index": "5218",
+      "target": "夜線"
+    },
+    {
+      "index": "5221",
+      "target": "歌日"
+    },
+    {
+      "index": "5224",
+      "target": "歌風圧洞"
+    },
+    {
+      "index": "5225",
+      "target": "歌流星"
+    },
+    {
+      "index": "5230",
+      "target": "謝罪可片白"
+    },
+    {
+      "index": "5231",
+      "target": "謝罪可片赤"
+    },
+    {
+      "index": "5232",
+      "target": "華書４"
+    },
+    {
+      "index": "5236",
+      "target": "武器設計文書Ⅲ"
+    },
+    {
+      "index": "5245",
+      "target": "浜護身符"
+    },
+    {
+      "index": "5249",
+      "target": "空書"
+    },
+    {
+      "index": "5282",
+      "target": "蛋爆弾代幣"
+    },
+    {
+      "index": "5285",
+      "target": "煌物"
+    },
+    {
+      "index": "5286",
+      "target": "閃物"
+    },
+    {
+      "index": "5287",
+      "target": "毛絨物"
+    },
+    {
+      "index": "5288",
+      "target": "滑物"
+    },
+    {
+      "index": "5290",
+      "target": "闇鋼"
+    },
+    {
+      "index": "5296",
+      "target": "盾蟹菌"
+    },
+    {
+      "index": "5299",
+      "target": "盾蟹的橙的殻"
+    },
+    {
+      "index": "5301",
+      "target": "盾蟹的鎚"
+    },
+    {
+      "index": "5304",
+      "target": "盾蟹的薄的殻"
+    },
+    {
+      "index": "5308",
+      "target": "盾蟹的證明"
+    },
+    {
+      "index": "5339",
+      "target": "護腕基底象牙"
+    },
+    {
+      "index": "5346",
+      "target": "防具魂靜"
+    },
+    {
+      "index": "5347",
+      "target": "防具魂幸運"
+    },
+    {
+      "index": "5348",
+      "target": "防具魂奇"
+    },
+    {
+      "index": "5349",
+      "target": "熔岩龍青人偶"
+    },
+    {
+      "index": "5350",
+      "target": "熔岩龍赤人偶"
+    },
+    {
+      "index": "5351",
+      "target": "熔岩龍白人偶"
+    },
+    {
+      "index": "5352",
+      "target": "熔岩龍緑人偶"
+    },
+    {
+      "index": "5357",
+      "target": "赤工具"
+    },
+    {
+      "index": "5358",
+      "target": "緑工具"
+    },
+    {
+      "index": "5359",
+      "target": "青工具"
+    },
+    {
+      "index": "5360",
+      "target": "紫工具"
+    },
+    {
+      "index": "5361",
+      "target": "空工具"
+    },
+    {
+      "index": "5362",
+      "target": "橙工具"
+    },
+    {
+      "index": "5363",
+      "target": "粉工具"
+    },
+    {
+      "index": "5364",
+      "target": "黒工具"
+    },
+    {
+      "index": "5365",
+      "target": "證明商會"
+    },
+    {
+      "index": "5367",
+      "target": "封印商會"
+    },
+    {
+      "index": "5368",
+      "target": "鋭光黏土"
+    },
+    {
+      "index": "5374",
+      "target": "月墨"
+    },
+    {
+      "index": "5383",
+      "target": "ＨＣ肉球印勳章"
+    },
+    {
+      "index": "5388",
+      "target": "煌片"
+    },
+    {
+      "index": "5389",
+      "target": "閃片"
+    },
+    {
+      "index": "5390",
+      "target": "毛絨片"
+    },
+    {
+      "index": "5391",
+      "target": "滑片"
+    },
+    {
+      "index": "5395",
+      "target": "貴族的音符"
+    },
+    {
+      "index": "5400",
+      "target": "回復強化塵"
+    },
+    {
+      "index": "5412",
+      "target": "寶物Ｇ"
+    },
+    {
+      "index": "5413",
+      "target": "装填Ｇ"
+    },
+    {
+      "index": "5415",
+      "target": "広域範囲Ｇ"
+    },
+    {
+      "index": "5416",
+      "target": "通常追加Ｇ"
+    },
+    {
+      "index": "5417",
+      "target": "貫通追加Ｇ"
+    },
+    {
+      "index": "5418",
+      "target": "散弾追加Ｇ"
+    },
+    {
+      "index": "5425",
+      "target": "介護裝飾品"
+    },
+    {
+      "index": "5426",
+      "target": "防御鎖定裝飾品"
+    },
+    {
+      "index": "5590",
+      "target": "劍的碎片"
+    },
+    {
+      "index": "5598",
+      "target": "祭典記憶黒"
+    },
+    {
+      "index": "5599",
+      "target": "祭典記憶白"
+    },
+    {
+      "index": "5609",
+      "target": "龍抗鋼"
+    },
+    {
+      "index": "5644",
+      "target": "鋼龍蒼白氷"
+    },
+    {
+      "index": "5645",
+      "target": "鋼龍紫氷"
+    },
+    {
+      "index": "5693",
+      "target": "感謝汝Ⅴ"
+    },
+    {
+      "index": "5703",
+      "target": "爆射"
+    },
+    {
+      "index": "5704",
+      "target": "火爆射"
+    },
+    {
+      "index": "5705",
+      "target": "水爆射"
+    },
+    {
+      "index": "5706",
+      "target": "雷爆射"
+    },
+    {
+      "index": "5707",
+      "target": "冰爆射"
+    },
+    {
+      "index": "5708",
+      "target": "龍爆射"
+    },
+    {
+      "index": "5713",
+      "target": "失球"
+    },
+    {
+      "index": "5750",
+      "target": "水砦龍的證明"
+    },
+    {
+      "index": "5754",
+      "target": "祭典的音符"
+    },
+    {
+      "index": "5770",
+      "target": "舞香辛料"
+    },
+    {
+      "index": "5773",
+      "target": "未知赤眼"
+    },
+    {
+      "index": "5776",
+      "target": "ＨＣ證明白"
+    },
+    {
+      "index": "5777",
+      "target": "ＨＣ證明赤"
+    },
+    {
+      "index": "5778",
+      "target": "ＨＣ證明緑"
+    },
+    {
+      "index": "5779",
+      "target": "ＨＣ證明青"
+    },
+    {
+      "index": "5780",
+      "target": "ＨＣ證明黄"
+    },
+    {
+      "index": "5781",
+      "target": "ＨＣ證明紫"
+    },
+    {
+      "index": "5782",
+      "target": "ＨＣ證明青藍"
+    },
+    {
+      "index": "5783",
+      "target": "ＨＣ證明橙"
+    },
+    {
+      "index": "5784",
+      "target": "ＨＣ證明桃"
+    },
+    {
+      "index": "5785",
+      "target": "ＨＣ證明灰"
+    },
+    {
+      "index": "5786",
+      "target": "ＨＣ結晶赤"
+    },
+    {
+      "index": "5787",
+      "target": "ＨＣ結晶黄"
+    },
+    {
+      "index": "5788",
+      "target": "ＨＣ結晶青"
+    },
+    {
+      "index": "5789",
+      "target": "ＨＣ結晶灰"
+    },
+    {
+      "index": "5790",
+      "target": "ＨＣ結晶紫"
+    },
+    {
+      "index": "5795",
+      "target": "雷的耐性果實"
+    },
+    {
+      "index": "5796",
+      "target": "冰的耐性果實"
+    },
+    {
+      "index": "5797",
+      "target": "風圧耐性果實"
+    },
+    {
+      "index": "5798",
+      "target": "回避果實"
+    },
+    {
+      "index": "5799",
+      "target": "昏厥抗果實"
+    },
+    {
+      "index": "5832",
+      "target": "集中ＳＰ"
+    },
+    {
+      "index": "5835",
+      "target": "砲術ＳＰ"
+    },
+    {
+      "index": "5841",
+      "target": "聴覚ＳＰ"
+    },
+    {
+      "index": "5844",
+      "target": "麻痺的鷹球"
+    },
+    {
+      "index": "5845",
+      "target": "睡眠的鷹球"
+    },
+    {
+      "index": "5847",
+      "target": "爆破的鷹球"
+    },
+    {
+      "index": "5849",
+      "target": "介護Ｇ"
+    },
+    {
+      "index": "5851",
+      "target": "龍的耐性Ｇ"
+    },
+    {
+      "index": "5852",
+      "target": "防御鎖定Ｇ"
+    },
+    {
+      "index": "5853",
+      "target": "通常強化Ｇ"
+    },
+    {
+      "index": "5854",
+      "target": "貫通強化Ｇ"
+    },
+    {
+      "index": "5855",
+      "target": "散弾強化Ｇ"
+    },
+    {
+      "index": "5858",
+      "target": "状態攻撃Ｇ"
+    },
+    {
+      "index": "5999",
+      "target": "護腕基底青藍"
+    },
+    {
+      "index": "6010",
+      "target": "水砦龍的嵐的證明"
+    },
+    {
+      "index": "6011",
+      "target": "水砦龍的雙的證明"
+    },
+    {
+      "index": "6029",
+      "target": "炭化物刃"
+    },
+    {
+      "index": "6030",
+      "target": "護符裝備"
+    },
+    {
+      "index": "6032",
+      "target": "華書６"
+    },
+    {
+      "index": "6040",
+      "target": "毒的皮"
+    },
+    {
+      "index": "6155",
+      "target": "深紅腹的毛"
+    },
+    {
+      "index": "6157",
+      "target": "ＨＣ結晶白"
+    },
+    {
+      "index": "6158",
+      "target": "ＨＣ結晶緑"
+    },
+    {
+      "index": "6159",
+      "target": "ＨＣ結晶青藍"
+    },
+    {
+      "index": "6160",
+      "target": "ＨＣ結晶橙"
+    },
+    {
+      "index": "6161",
+      "target": "ＨＣ結晶桃"
+    },
+    {
+      "index": "6162",
+      "target": "ＨＣ結晶銀"
+    },
+    {
+      "index": "6163",
+      "target": "ＨＣ結晶金"
+    },
+    {
+      "index": "6168",
+      "target": "火的攻撃果實"
+    },
+    {
+      "index": "6169",
+      "target": "水的攻撃果實"
+    },
+    {
+      "index": "6170",
+      "target": "冰的攻撃果實"
+    },
+    {
+      "index": "6171",
+      "target": "雷的攻撃果實"
+    },
+    {
+      "index": "6172",
+      "target": "龍的攻撃果實"
+    },
+    {
+      "index": "6177",
+      "target": "魔物圖"
+    },
+    {
+      "index": "6192",
+      "target": "護腕基底黒檀"
+    },
+    {
+      "index": "6193",
+      "target": "護腕基底紫水晶"
+    },
+    {
+      "index": "6245",
+      "target": "反動２Ｇ"
+    },
+    {
+      "index": "6246",
+      "target": "扱Ｇ"
+    },
+    {
+      "index": "6248",
+      "target": "防御Ｇ"
+    },
+    {
+      "index": "6249",
+      "target": "集中２Ｇ"
+    },
+    {
+      "index": "6250",
+      "target": "千里眼２Ｇ"
+    },
+    {
+      "index": "6251",
+      "target": "斷食２Ｇ"
+    },
+    {
+      "index": "6252",
+      "target": "砲術２Ｇ"
+    },
+    {
+      "index": "6253",
+      "target": "回避Ｇ"
+    },
+    {
+      "index": "6254",
+      "target": "耐震的耐性Ｇ"
+    },
+    {
+      "index": "6458",
+      "target": "青餅"
+    },
+    {
+      "index": "6459",
+      "target": "粉餅"
+    },
+    {
+      "index": "6463",
+      "target": "弓的姿勢Ⅱ"
+    },
+    {
+      "index": "6464",
+      "target": "輕弩的姿勢Ⅱ"
+    },
+    {
+      "index": "6465",
+      "target": "姿勢片手劍Ⅱ"
+    },
+    {
+      "index": "6466",
+      "target": "太刀的姿勢Ⅱ"
+    },
+    {
+      "index": "6488",
+      "target": "紫氷果實"
+    },
+    {
+      "index": "6489",
+      "target": "黄氷果實"
+    },
+    {
+      "index": "6490",
+      "target": "橙氷果實"
+    },
+    {
+      "index": "6491",
+      "target": "桃氷果實"
+    },
+    {
+      "index": "6540",
+      "target": "照雷鳥的情報"
+    },
+    {
+      "index": "6541",
+      "target": "砦蟹的情報"
+    },
+    {
+      "index": "6600",
+      "target": "黒七果實"
+    },
+    {
+      "index": "6605",
+      "target": "閃護符果實"
+    },
+    {
+      "index": "6620",
+      "target": "輝耀謎"
+    },
+    {
+      "index": "6637",
+      "target": "大褪色珍珠"
+    },
+    {
+      "index": "6639",
+      "target": "攻撃力的３裝飾品"
+    },
+    {
+      "index": "6640",
+      "target": "憤怒的Ｇ攻撃"
+    },
+    {
+      "index": "6641",
+      "target": "憤怒的Ｇ一閃"
+    },
+    {
+      "index": "6681",
+      "target": "冰狐龍赤針"
+    },
+    {
+      "index": "6700",
+      "target": "爆狼火腱"
+    },
+    {
+      "index": "6728",
+      "target": "尾晶蠍頂点結晶"
+    },
+    {
+      "index": "6787",
+      "target": "雙劍的姿勢Ⅱ"
+    },
+    {
+      "index": "6788",
+      "target": "姿勢鎚Ⅱ"
+    },
+    {
+      "index": "6789",
+      "target": "狩獵笛的姿勢Ⅱ"
+    },
+    {
+      "index": "6790",
+      "target": "長槍的姿勢Ⅱ"
+    },
+    {
+      "index": "6795",
+      "target": "光澤的皮"
+    },
+    {
+      "index": "6798",
+      "target": "精獣的毛"
+    },
+    {
+      "index": "6801",
+      "target": "龍的飛腕"
+    },
+    {
+      "index": "6814",
+      "target": "鳥飛龍的爪"
+    },
+    {
+      "index": "6816",
+      "target": "赤珍珠"
+    },
+    {
+      "index": "6892",
+      "target": "希望劍士Ｇ"
+    },
+    {
+      "index": "6893",
+      "target": "希望劍士ＧＦ"
+    },
+    {
+      "index": "6894",
+      "target": "希望射手Ｇ"
+    },
+    {
+      "index": "6895",
+      "target": "希望射手ＧＦ"
+    },
+    {
+      "index": "6896",
+      "target": "岩華劍士Ｇ"
+    },
+    {
+      "index": "6897",
+      "target": "岩華劍士ＧＦ"
+    },
+    {
+      "index": "6898",
+      "target": "岩華射手Ｇ"
+    },
+    {
+      "index": "6899",
+      "target": "岩華射手ＧＦ"
+    },
+    {
+      "index": "6912",
+      "target": "桃毛獸劍士Ｇ"
+    },
+    {
+      "index": "6913",
+      "target": "桃毛獸劍士ＧＦ"
+    },
+    {
+      "index": "6914",
+      "target": "桃毛獸射手Ｇ"
+    },
+    {
+      "index": "6915",
+      "target": "桃毛獸射手ＧＦ"
+    },
+    {
+      "index": "6952",
+      "target": "御神樂劍士Ｇ"
+    },
+    {
+      "index": "6953",
+      "target": "御神樂劍士ＧＦ"
+    },
+    {
+      "index": "6954",
+      "target": "里神樂射手Ｇ"
+    },
+    {
+      "index": "6955",
+      "target": "里神樂射手ＧＦ"
+    },
+    {
+      "index": "6956",
+      "target": "薔薇劍士Ｇ"
+    },
+    {
+      "index": "6957",
+      "target": "薔薇劍士ＧＦ"
+    },
+    {
+      "index": "6958",
+      "target": "薔薇射手Ｇ"
+    },
+    {
+      "index": "6959",
+      "target": "薔薇射手ＧＦ"
+    },
+    {
+      "index": "6960",
+      "target": "混合劍士Ｇ"
+    },
+    {
+      "index": "6961",
+      "target": "混合劍士ＧＦ"
+    },
+    {
+      "index": "6962",
+      "target": "混合劍士ＧＸ１"
+    },
+    {
+      "index": "6963",
+      "target": "混合劍士ＧＸ２"
+    },
+    {
+      "index": "6964",
+      "target": "混合劍士ＧＸ３"
+    },
+    {
+      "index": "6965",
+      "target": "混合劍士ＧＸ４"
+    },
+    {
+      "index": "6966",
+      "target": "混合劍士ＧＸ５"
+    },
+    {
+      "index": "6967",
+      "target": "混合射手Ｇ"
+    },
+    {
+      "index": "6968",
+      "target": "混合射手ＧＦ"
+    },
+    {
+      "index": "6969",
+      "target": "混合射手ＧＸ１"
+    },
+    {
+      "index": "6970",
+      "target": "混合射手ＧＸ２"
+    },
+    {
+      "index": "6971",
+      "target": "混合射手ＧＸ３"
+    },
+    {
+      "index": "6972",
+      "target": "混合射手ＧＸ４"
+    },
+    {
+      "index": "6973",
+      "target": "混合射手ＧＸ５"
+    },
+    {
+      "index": "6986",
+      "target": "毒"
+    },
+    {
+      "index": "6990",
+      "target": "桃毛獸粉碎"
+    },
+    {
+      "index": "7007",
+      "target": "武器的Ｇ套組"
+    },
+    {
+      "index": "7008",
+      "target": "防具的Ｇ套組"
+    },
+    {
+      "index": "7010",
+      "target": "祭典徽章"
+    },
+    {
+      "index": "7024",
+      "target": "精金橙"
+    },
+    {
+      "index": "7041",
+      "target": "紋章的基本素材"
+    },
+    {
+      "index": "7059",
+      "target": "奇赤液體"
+    },
+    {
+      "index": "7060",
+      "target": "奇青液體"
+    },
+    {
+      "index": "7062",
+      "target": "奇粉液體"
+    },
+    {
+      "index": "7063",
+      "target": "奇白液體"
+    },
+    {
+      "index": "7064",
+      "target": "奇黒液體"
+    },
+    {
+      "index": "7065",
+      "target": "奇桃液體"
+    },
+    {
+      "index": "7066",
+      "target": "奇蒼液體"
+    },
+    {
+      "index": "7067",
+      "target": "奇黄液體"
+    },
+    {
+      "index": "7068",
+      "target": "奇褐液體"
+    },
+    {
+      "index": "7069",
+      "target": "奇緑液體"
+    },
+    {
+      "index": "7070",
+      "target": "奇銀液體"
+    },
+    {
+      "index": "7071",
+      "target": "奇金液體"
+    },
+    {
+      "index": "7072",
+      "target": "舊赤橡箱"
+    },
+    {
+      "index": "7073",
+      "target": "舊青橡箱"
+    },
+    {
+      "index": "7074",
+      "target": "舊緑橡箱"
+    },
+    {
+      "index": "7075",
+      "target": "舊白橡箱"
+    },
+    {
+      "index": "7076",
+      "target": "舊黒橡箱"
+    },
+    {
+      "index": "7077",
+      "target": "舊粉橡箱"
+    },
+    {
+      "index": "7078",
+      "target": "舊黄橡箱"
+    },
+    {
+      "index": "7079",
+      "target": "舊褐橡箱"
+    },
+    {
+      "index": "7080",
+      "target": "舊銀橡箱"
+    },
+    {
+      "index": "7081",
+      "target": "舊黄金橡箱"
+    },
+    {
+      "index": "7082",
+      "target": "赤手環"
+    },
+    {
+      "index": "7083",
+      "target": "青手環"
+    },
+    {
+      "index": "7084",
+      "target": "黄手環"
+    },
+    {
+      "index": "7085",
+      "target": "緑手環"
+    },
+    {
+      "index": "7086",
+      "target": "金手環"
+    },
+    {
+      "index": "7087",
+      "target": "銀手環"
+    },
+    {
+      "index": "7088",
+      "target": "青藍手環"
+    },
+    {
+      "index": "7089",
+      "target": "紫手環"
+    },
+    {
+      "index": "7090",
+      "target": "粉手環"
+    },
+    {
+      "index": "7091",
+      "target": "白手環"
+    },
+    {
+      "index": "7092",
+      "target": "黒手環"
+    },
+    {
+      "index": "7123",
+      "target": "１ｋＧＺ支票"
+    },
+    {
+      "index": "7124",
+      "target": "軟布"
+    },
+    {
+      "index": "7139",
+      "target": "至高證明赤"
+    },
+    {
+      "index": "7140",
+      "target": "至高證明青"
+    },
+    {
+      "index": "7141",
+      "target": "至高證明黄"
+    },
+    {
+      "index": "7142",
+      "target": "至高證明白"
+    },
+    {
+      "index": "7143",
+      "target": "至高證明緑"
+    },
+    {
+      "index": "7144",
+      "target": "赤通行Ⅰ"
+    },
+    {
+      "index": "7145",
+      "target": "青通行Ⅰ"
+    },
+    {
+      "index": "7146",
+      "target": "青通行Ⅱ"
+    },
+    {
+      "index": "7147",
+      "target": "黄通行Ⅰ"
+    },
+    {
+      "index": "7148",
+      "target": "黄通行Ⅱ"
+    },
+    {
+      "index": "7149",
+      "target": "黄通行Ⅲ"
+    },
+    {
+      "index": "7150",
+      "target": "白通行Ⅰ"
+    },
+    {
+      "index": "7151",
+      "target": "白通行Ⅱ"
+    },
+    {
+      "index": "7152",
+      "target": "白通行Ⅲ"
+    },
+    {
+      "index": "7153",
+      "target": "白通行Ⅳ"
+    },
+    {
+      "index": "7154",
+      "target": "緑通行Ⅰ"
+    },
+    {
+      "index": "7155",
+      "target": "緑通行Ⅱ"
+    },
+    {
+      "index": "7156",
+      "target": "緑通行Ⅲ"
+    },
+    {
+      "index": "7157",
+      "target": "緑通行Ⅳ"
+    },
+    {
+      "index": "7158",
+      "target": "緑通行Ⅴ"
+    },
+    {
+      "index": "7234",
+      "target": "片手劍飾帶下位"
+    },
+    {
+      "index": "7235",
+      "target": "片手劍飾帶中位"
+    },
+    {
+      "index": "7236",
+      "target": "片手劍飾帶高級"
+    },
+    {
+      "index": "7237",
+      "target": "雙劍的飾帶下位"
+    },
+    {
+      "index": "7238",
+      "target": "雙劍的飾帶中位"
+    },
+    {
+      "index": "7239",
+      "target": "雙劍的飾帶高級"
+    },
+    {
+      "index": "7240",
+      "target": "大劍的飾帶下位"
+    },
+    {
+      "index": "7241",
+      "target": "大劍的飾帶中位"
+    },
+    {
+      "index": "7242",
+      "target": "大劍的飾帶高級"
+    },
+    {
+      "index": "7243",
+      "target": "太刀的飾帶下位"
+    },
+    {
+      "index": "7244",
+      "target": "太刀的飾帶中位"
+    },
+    {
+      "index": "7245",
+      "target": "太刀的飾帶高級"
+    },
+    {
+      "index": "7246",
+      "target": "大錘的飾帶下位"
+    },
+    {
+      "index": "7247",
+      "target": "大錘的飾帶中位"
+    },
+    {
+      "index": "7248",
+      "target": "大錘的飾帶高級"
+    },
+    {
+      "index": "7249",
+      "target": "狩獵笛的飾帶下位"
+    },
+    {
+      "index": "7250",
+      "target": "狩獵笛的飾帶中位"
+    },
+    {
+      "index": "7251",
+      "target": "狩獵笛的飾帶高級"
+    },
+    {
+      "index": "7252",
+      "target": "長槍的飾帶下位"
+    },
+    {
+      "index": "7253",
+      "target": "長槍的飾帶中位"
+    },
+    {
+      "index": "7254",
+      "target": "長槍的飾帶高級"
+    },
+    {
+      "index": "7255",
+      "target": "銃槍的飾帶下位"
+    },
+    {
+      "index": "7256",
+      "target": "銃槍的飾帶中位"
+    },
+    {
+      "index": "7257",
+      "target": "銃槍的飾帶高級"
+    },
+    {
+      "index": "7258",
+      "target": "輕弩的飾帶下位"
+    },
+    {
+      "index": "7259",
+      "target": "輕弩的飾帶中位"
+    },
+    {
+      "index": "7260",
+      "target": "輕弩的飾帶高級"
+    },
+    {
+      "index": "7261",
+      "target": "重弩的飾帶下位"
+    },
+    {
+      "index": "7262",
+      "target": "重弩的飾帶中位"
+    },
+    {
+      "index": "7263",
+      "target": "重弩的飾帶高級"
+    },
+    {
+      "index": "7264",
+      "target": "弓的飾帶下位"
+    },
+    {
+      "index": "7265",
+      "target": "弓的飾帶中位"
+    },
+    {
+      "index": "7266",
+      "target": "弓的飾帶高級"
+    },
+    {
+      "index": "7291",
+      "target": "呑龍的石"
+    },
+    {
+      "index": "7496",
+      "target": "華書５"
+    },
+    {
+      "index": "7502",
+      "target": "栄光硬幣"
+    },
+    {
+      "index": "7513",
+      "target": "岩華劍士ＧＸ１"
+    },
+    {
+      "index": "7514",
+      "target": "岩華劍士ＧＸ２"
+    },
+    {
+      "index": "7515",
+      "target": "岩華劍士ＧＸ３"
+    },
+    {
+      "index": "7516",
+      "target": "岩華劍士ＧＸ４"
+    },
+    {
+      "index": "7517",
+      "target": "岩華劍士ＧＸ５"
+    },
+    {
+      "index": "7518",
+      "target": "岩華射手ＧＸ１"
+    },
+    {
+      "index": "7519",
+      "target": "岩華射手ＧＸ２"
+    },
+    {
+      "index": "7520",
+      "target": "岩華射手ＧＸ３"
+    },
+    {
+      "index": "7521",
+      "target": "岩華射手ＧＸ４"
+    },
+    {
+      "index": "7522",
+      "target": "岩華射手ＧＸ５"
+    },
+    {
+      "index": "7573",
+      "target": "桃毛獸劍士ＧＸ１"
+    },
+    {
+      "index": "7574",
+      "target": "桃毛獸劍士ＧＸ２"
+    },
+    {
+      "index": "7575",
+      "target": "桃毛獸劍士ＧＸ３"
+    },
+    {
+      "index": "7576",
+      "target": "桃毛獸劍士ＧＸ４"
+    },
+    {
+      "index": "7577",
+      "target": "桃毛獸劍士ＧＸ５"
+    },
+    {
+      "index": "7578",
+      "target": "桃毛獸射手ＧＸ１"
+    },
+    {
+      "index": "7579",
+      "target": "桃毛獸射手ＧＸ２"
+    },
+    {
+      "index": "7580",
+      "target": "桃毛獸射手ＧＸ３"
+    },
+    {
+      "index": "7581",
+      "target": "桃毛獸射手ＧＸ４"
+    },
+    {
+      "index": "7582",
+      "target": "桃毛獸射手ＧＸ５"
+    },
+    {
+      "index": "7623",
+      "target": "御神樂劍士ＧＸ１"
+    },
+    {
+      "index": "7624",
+      "target": "御神樂劍士ＧＸ２"
+    },
+    {
+      "index": "7625",
+      "target": "御神樂劍士ＧＸ３"
+    },
+    {
+      "index": "7626",
+      "target": "御神樂劍士ＧＸ４"
+    },
+    {
+      "index": "7627",
+      "target": "御神樂劍士ＧＸ５"
+    },
+    {
+      "index": "7628",
+      "target": "里神樂射手ＧＸ１"
+    },
+    {
+      "index": "7629",
+      "target": "里神樂射手ＧＸ２"
+    },
+    {
+      "index": "7630",
+      "target": "里神樂射手ＧＸ３"
+    },
+    {
+      "index": "7631",
+      "target": "里神樂射手ＧＸ４"
+    },
+    {
+      "index": "7632",
+      "target": "里神樂射手ＧＸ５"
+    },
+    {
+      "index": "7663",
+      "target": "希望劍士ＧＸ１"
+    },
+    {
+      "index": "7664",
+      "target": "希望劍士ＧＸ２"
+    },
+    {
+      "index": "7665",
+      "target": "希望劍士ＧＸ３"
+    },
+    {
+      "index": "7666",
+      "target": "希望劍士ＧＸ４"
+    },
+    {
+      "index": "7667",
+      "target": "希望劍士ＧＸ５"
+    },
+    {
+      "index": "7668",
+      "target": "希望射手ＧＸ１"
+    },
+    {
+      "index": "7669",
+      "target": "希望射手ＧＸ２"
+    },
+    {
+      "index": "7670",
+      "target": "希望射手ＧＸ３"
+    },
+    {
+      "index": "7671",
+      "target": "希望射手ＧＸ４"
+    },
+    {
+      "index": "7672",
+      "target": "希望射手ＧＸ５"
+    },
+    {
+      "index": "7757",
+      "target": "魚雷劍士Ｇ"
+    },
+    {
+      "index": "7758",
+      "target": "魚雷劍士ＧＦ"
+    },
+    {
+      "index": "7759",
+      "target": "魚雷劍士ＧＸ１"
+    },
+    {
+      "index": "7760",
+      "target": "魚雷劍士ＧＸ２"
+    },
+    {
+      "index": "7761",
+      "target": "魚雷劍士ＧＸ３"
+    },
+    {
+      "index": "7762",
+      "target": "魚雷劍士ＧＸ４"
+    },
+    {
+      "index": "7763",
+      "target": "魚雷劍士ＧＸ５"
+    },
+    {
+      "index": "7764",
+      "target": "魚雷射手Ｇ"
+    },
+    {
+      "index": "7765",
+      "target": "魚雷射手ＧＦ"
+    },
+    {
+      "index": "7766",
+      "target": "魚雷射手ＧＸ１"
+    },
+    {
+      "index": "7767",
+      "target": "魚雷射手ＧＸ２"
+    },
+    {
+      "index": "7768",
+      "target": "魚雷射手ＧＸ３"
+    },
+    {
+      "index": "7769",
+      "target": "魚雷射手ＧＸ４"
+    },
+    {
+      "index": "7770",
+      "target": "魚雷射手ＧＸ５"
+    },
+    {
+      "index": "7771",
+      "target": "熔岩龍的劍士Ｇ"
+    },
+    {
+      "index": "7772",
+      "target": "熔岩龍的劍士ＧＦ"
+    },
+    {
+      "index": "7773",
+      "target": "熔岩龍劍士ＧＸ１"
+    },
+    {
+      "index": "7774",
+      "target": "熔岩龍劍士ＧＸ２"
+    },
+    {
+      "index": "7775",
+      "target": "熔岩龍劍士ＧＸ３"
+    },
+    {
+      "index": "7776",
+      "target": "熔岩龍劍士ＧＸ４"
+    },
+    {
+      "index": "7777",
+      "target": "熔岩龍劍士ＧＸ５"
+    },
+    {
+      "index": "7778",
+      "target": "熔岩龍的射手Ｇ"
+    },
+    {
+      "index": "7779",
+      "target": "熔岩龍的射手ＧＦ"
+    },
+    {
+      "index": "7780",
+      "target": "熔岩龍射手ＧＸ１"
+    },
+    {
+      "index": "7781",
+      "target": "熔岩龍射手ＧＸ２"
+    },
+    {
+      "index": "7782",
+      "target": "熔岩龍射手ＧＸ３"
+    },
+    {
+      "index": "7783",
+      "target": "熔岩龍射手ＧＸ４"
+    },
+    {
+      "index": "7784",
+      "target": "熔岩龍射手ＧＸ５"
+    },
+    {
+      "index": "7799",
+      "target": "黄金劍士Ｇ"
+    },
+    {
+      "index": "7800",
+      "target": "黄金劍士ＧＦ"
+    },
+    {
+      "index": "7801",
+      "target": "黄金劍士ＧＸ１"
+    },
+    {
+      "index": "7802",
+      "target": "黄金劍士ＧＸ２"
+    },
+    {
+      "index": "7803",
+      "target": "黄金劍士ＧＸ３"
+    },
+    {
+      "index": "7804",
+      "target": "黄金劍士ＧＸ４"
+    },
+    {
+      "index": "7805",
+      "target": "黄金劍士ＧＸ５"
+    },
+    {
+      "index": "7806",
+      "target": "黒幼射手Ｇ"
+    },
+    {
+      "index": "7807",
+      "target": "黒幼射手ＧＦ"
+    },
+    {
+      "index": "7808",
+      "target": "黒幼射手ＧＸ１"
+    },
+    {
+      "index": "7809",
+      "target": "黒幼射手ＧＸ２"
+    },
+    {
+      "index": "7810",
+      "target": "黒幼射手ＧＸ３"
+    },
+    {
+      "index": "7811",
+      "target": "黒幼射手ＧＸ４"
+    },
+    {
+      "index": "7812",
+      "target": "黒幼射手ＧＸ５"
+    },
+    {
+      "index": "7841",
+      "target": "晶蠍劍士Ｇ"
+    },
+    {
+      "index": "7842",
+      "target": "晶蠍劍士ＧＦ"
+    },
+    {
+      "index": "7843",
+      "target": "晶蠍劍士ＧＸ１"
+    },
+    {
+      "index": "7844",
+      "target": "晶蠍劍士ＧＸ２"
+    },
+    {
+      "index": "7845",
+      "target": "晶蠍劍士ＧＸ３"
+    },
+    {
+      "index": "7846",
+      "target": "晶蠍劍士ＧＸ４"
+    },
+    {
+      "index": "7847",
+      "target": "晶蠍劍士ＧＸ５"
+    },
+    {
+      "index": "7848",
+      "target": "晶蠍射手Ｇ"
+    },
+    {
+      "index": "7849",
+      "target": "晶蠍射手ＧＦ"
+    },
+    {
+      "index": "7850",
+      "target": "晶蠍射手ＧＸ１"
+    },
+    {
+      "index": "7851",
+      "target": "晶蠍射手ＧＸ２"
+    },
+    {
+      "index": "7852",
+      "target": "晶蠍射手ＧＸ３"
+    },
+    {
+      "index": "7853",
+      "target": "晶蠍射手ＧＸ４"
+    },
+    {
+      "index": "7854",
+      "target": "晶蠍射手ＧＸ５"
+    },
+    {
+      "index": "7855",
+      "target": "紅蓮劍士Ｇ"
+    },
+    {
+      "index": "7856",
+      "target": "紅蓮劍士ＧＦ"
+    },
+    {
+      "index": "7857",
+      "target": "紅蓮劍士ＧＸ１"
+    },
+    {
+      "index": "7858",
+      "target": "紅蓮劍士ＧＸ２"
+    },
+    {
+      "index": "7859",
+      "target": "紅蓮劍士ＧＸ３"
+    },
+    {
+      "index": "7860",
+      "target": "紅蓮劍士ＧＸ４"
+    },
+    {
+      "index": "7861",
+      "target": "紅蓮劍士ＧＸ５"
+    },
+    {
+      "index": "7862",
+      "target": "紅蓮射手Ｇ"
+    },
+    {
+      "index": "7863",
+      "target": "紅蓮射手ＧＦ"
+    },
+    {
+      "index": "7864",
+      "target": "紅蓮射手ＧＸ１"
+    },
+    {
+      "index": "7865",
+      "target": "紅蓮射手ＧＸ２"
+    },
+    {
+      "index": "7866",
+      "target": "紅蓮射手ＧＸ３"
+    },
+    {
+      "index": "7867",
+      "target": "紅蓮射手ＧＸ４"
+    },
+    {
+      "index": "7868",
+      "target": "紅蓮射手ＧＸ５"
+    },
+    {
+      "index": "7869",
+      "target": "稻荷劍士Ｇ"
+    },
+    {
+      "index": "7870",
+      "target": "稻荷劍士ＧＦ"
+    },
+    {
+      "index": "7871",
+      "target": "稻荷劍士ＧＸ１"
+    },
+    {
+      "index": "7872",
+      "target": "稻荷劍士ＧＸ２"
+    },
+    {
+      "index": "7873",
+      "target": "稻荷劍士ＧＸ３"
+    },
+    {
+      "index": "7874",
+      "target": "稻荷劍士ＧＸ４"
+    },
+    {
+      "index": "7875",
+      "target": "稻荷劍士ＧＸ５"
+    },
+    {
+      "index": "7876",
+      "target": "玉藻射手Ｇ"
+    },
+    {
+      "index": "7877",
+      "target": "玉藻射手ＧＦ"
+    },
+    {
+      "index": "7878",
+      "target": "玉藻射手ＧＸ１"
+    },
+    {
+      "index": "7879",
+      "target": "玉藻射手ＧＸ２"
+    },
+    {
+      "index": "7880",
+      "target": "玉藻射手ＧＸ３"
+    },
+    {
+      "index": "7881",
+      "target": "玉藻射手ＧＸ４"
+    },
+    {
+      "index": "7882",
+      "target": "玉藻射手ＧＸ５"
+    },
+    {
+      "index": "7897",
+      "target": "影劍士Ｇ"
+    },
+    {
+      "index": "7898",
+      "target": "影劍士ＧＦ"
+    },
+    {
+      "index": "7899",
+      "target": "影劍士ＧＸ１"
+    },
+    {
+      "index": "7900",
+      "target": "影劍士ＧＸ２"
+    },
+    {
+      "index": "7901",
+      "target": "影劍士ＧＸ３"
+    },
+    {
+      "index": "7902",
+      "target": "影劍士ＧＸ４"
+    },
+    {
+      "index": "7903",
+      "target": "影劍士ＧＸ５"
+    },
+    {
+      "index": "7904",
+      "target": "影射手Ｇ"
+    },
+    {
+      "index": "7905",
+      "target": "影射手ＧＦ"
+    },
+    {
+      "index": "7906",
+      "target": "影射手ＧＸ１"
+    },
+    {
+      "index": "7907",
+      "target": "影射手ＧＸ２"
+    },
+    {
+      "index": "7908",
+      "target": "影射手ＧＸ３"
+    },
+    {
+      "index": "7909",
+      "target": "影射手ＧＸ４"
+    },
+    {
+      "index": "7910",
+      "target": "影射手ＧＸ５"
+    },
+    {
+      "index": "7911",
+      "target": "薔薇劍士ＧＸ１"
+    },
+    {
+      "index": "7912",
+      "target": "薔薇劍士ＧＸ２"
+    },
+    {
+      "index": "7913",
+      "target": "薔薇劍士ＧＸ３"
+    },
+    {
+      "index": "7914",
+      "target": "薔薇劍士ＧＸ４"
+    },
+    {
+      "index": "7915",
+      "target": "薔薇劍士ＧＸ５"
+    },
+    {
+      "index": "7916",
+      "target": "薔薇射手ＧＸ１"
+    },
+    {
+      "index": "7917",
+      "target": "薔薇射手ＧＸ２"
+    },
+    {
+      "index": "7918",
+      "target": "薔薇射手ＧＸ３"
+    },
+    {
+      "index": "7919",
+      "target": "薔薇射手ＧＸ４"
+    },
+    {
+      "index": "7920",
+      "target": "薔薇射手ＧＸ５"
+    },
+    {
+      "index": "7921",
+      "target": "魔女劍士Ｇ"
+    },
+    {
+      "index": "7926",
+      "target": "魔女劍士ＧＦ"
+    },
+    {
+      "index": "7931",
+      "target": "魔女劍士ＧＸ１"
+    },
+    {
+      "index": "7932",
+      "target": "魔女劍士ＧＸ２"
+    },
+    {
+      "index": "7933",
+      "target": "魔女劍士ＧＸ３"
+    },
+    {
+      "index": "7934",
+      "target": "魔女劍士ＧＸ４"
+    },
+    {
+      "index": "7935",
+      "target": "魔女劍士ＧＸ５"
+    },
+    {
+      "index": "7936",
+      "target": "魔女射手Ｇ"
+    },
+    {
+      "index": "7941",
+      "target": "魔女射手ＧＦ"
+    },
+    {
+      "index": "7946",
+      "target": "魔女射手ＧＸ１"
+    },
+    {
+      "index": "7947",
+      "target": "魔女射手ＧＸ２"
+    },
+    {
+      "index": "7948",
+      "target": "魔女射手ＧＸ３"
+    },
+    {
+      "index": "7949",
+      "target": "魔女射手ＧＸ４"
+    },
+    {
+      "index": "7950",
+      "target": "魔女射手ＧＸ５"
+    },
+    {
+      "index": "7971",
+      "target": "５ｋＧＺ支票"
+    },
+    {
+      "index": "7972",
+      "target": "１０ｋＧＺ支票"
+    },
+    {
+      "index": "7973",
+      "target": "２０ｋＧＺ支票"
+    },
+    {
+      "index": "7974",
+      "target": "３０ｋＧＺ支票"
+    },
+    {
+      "index": "7975",
+      "target": "４０ｋＧＺ支票"
+    },
+    {
+      "index": "7976",
+      "target": "５０ｋＧＺ支票"
+    },
+    {
+      "index": "7977",
+      "target": "１００ｋＧＺ支票"
+    },
+    {
+      "index": "8026",
+      "target": "激勵果實"
+    },
+    {
+      "index": "8027",
+      "target": "体力果實"
+    },
+    {
+      "index": "8028",
+      "target": "赤魂果實"
+    },
+    {
+      "index": "8029",
+      "target": "青魂果實"
+    },
+    {
+      "index": "8054",
+      "target": "護身Ｅ２"
+    },
+    {
+      "index": "8055",
+      "target": "護身Ｅ３"
+    },
+    {
+      "index": "8056",
+      "target": "護身Ｅ４"
+    },
+    {
+      "index": "8057",
+      "target": "護身Ｅ５"
+    },
+    {
+      "index": "8058",
+      "target": "爆弾結晶Ｇ"
+    },
+    {
+      "index": "8070",
+      "target": "毛絨菓子"
+    },
+    {
+      "index": "8071",
+      "target": "厚花蜜"
+    },
+    {
+      "index": "8082",
+      "target": "砂龍的盾的鱗"
+    },
+    {
+      "index": "8083",
+      "target": "砂龍的青藍的鱗"
+    },
+    {
+      "index": "8119",
+      "target": "砂龍的閃的鱗"
+    },
+    {
+      "index": "8157",
+      "target": "噬血龍薄舌"
+    },
+    {
+      "index": "8160",
+      "target": "噬血龍的麻痺的袋"
+    },
+    {
+      "index": "8161",
+      "target": "噬血龍的毒的袋"
+    },
+    {
+      "index": "8169",
+      "target": "噬血龍舌"
+    },
+    {
+      "index": "8176",
+      "target": "祈願的葉"
+    },
+    {
+      "index": "8177",
+      "target": "祈願枝"
+    },
+    {
+      "index": "8185",
+      "target": "先駆印Ⅰ"
+    },
+    {
+      "index": "8186",
+      "target": "先駆印Ⅱ"
+    },
+    {
+      "index": "8187",
+      "target": "先駆印Ⅲ"
+    },
+    {
+      "index": "8209",
+      "target": "緋布"
+    },
+    {
+      "index": "8214",
+      "target": "舊青藍鏡"
+    },
+    {
+      "index": "8215",
+      "target": "生錆青藍刃"
+    },
+    {
+      "index": "8218",
+      "target": "舊信件"
+    },
+    {
+      "index": "8219",
+      "target": "黄砂設計"
+    },
+    {
+      "index": "8220",
+      "target": "黄砂螺絲"
+    },
+    {
+      "index": "8221",
+      "target": "黄砂弾"
+    },
+    {
+      "index": "8226",
+      "target": "團青氷"
+    },
+    {
+      "index": "8234",
+      "target": "稀有雪的葉"
+    },
+    {
+      "index": "8237",
+      "target": "黄金的毛"
+    },
+    {
+      "index": "8238",
+      "target": "黄金祝福"
+    },
+    {
+      "index": "8242",
+      "target": "青豪華塗"
+    },
+    {
+      "index": "8243",
+      "target": "桃豪華塗"
+    },
+    {
+      "index": "8249",
+      "target": "幻影蛋"
+    },
+    {
+      "index": "8264",
+      "target": "光澤布"
+    },
+    {
+      "index": "8272",
+      "target": "閃肖像"
+    },
+    {
+      "index": "8279",
+      "target": "深紅的毛"
+    },
+    {
+      "index": "8290",
+      "target": "冰雪果實"
+    },
+    {
+      "index": "8298",
+      "target": "聖誕小袋"
+    },
+    {
+      "index": "8299",
+      "target": "聖誕硬幣"
+    },
+    {
+      "index": "8300",
+      "target": "奇硬幣"
+    },
+    {
+      "index": "8301",
+      "target": "奇護符"
+    },
+    {
+      "index": "8302",
+      "target": "甜希望"
+    },
+    {
+      "index": "8303",
+      "target": "甜愛"
+    },
+    {
+      "index": "8304",
+      "target": "銀箱"
+    },
+    {
+      "index": "8305",
+      "target": "金箱"
+    },
+    {
+      "index": "8314",
+      "target": "線情熱"
+    },
+    {
+      "index": "8320",
+      "target": "輝耀弦"
+    },
+    {
+      "index": "8321",
+      "target": "輝耀繩"
+    },
+    {
+      "index": "8581",
+      "target": "伊歐劍士Ｇ"
+    },
+    {
+      "index": "8582",
+      "target": "伊歐劍士ＧＦ"
+    },
+    {
+      "index": "8583",
+      "target": "伊歐劍士ＧＸ１"
+    },
+    {
+      "index": "8584",
+      "target": "伊歐劍士ＧＸ２"
+    },
+    {
+      "index": "8585",
+      "target": "伊歐劍士ＧＸ３"
+    },
+    {
+      "index": "8586",
+      "target": "伊歐劍士ＧＸ４"
+    },
+    {
+      "index": "8587",
+      "target": "伊歐劍士ＧＸ５"
+    },
+    {
+      "index": "8588",
+      "target": "伊歐射手Ｇ"
+    },
+    {
+      "index": "8589",
+      "target": "伊歐射手ＧＦ"
+    },
+    {
+      "index": "8590",
+      "target": "伊歐射手ＧＸ１"
+    },
+    {
+      "index": "8591",
+      "target": "伊歐射手ＧＸ２"
+    },
+    {
+      "index": "8592",
+      "target": "伊歐射手ＧＸ３"
+    },
+    {
+      "index": "8593",
+      "target": "伊歐射手ＧＸ４"
+    },
+    {
+      "index": "8594",
+      "target": "伊歐射手ＧＸ５"
+    },
+    {
+      "index": "8595",
+      "target": "源劍士Ｇ"
+    },
+    {
+      "index": "8596",
+      "target": "源劍士ＧＦ"
+    },
+    {
+      "index": "8597",
+      "target": "源劍士ＧＸ１"
+    },
+    {
+      "index": "8598",
+      "target": "源劍士ＧＸ２"
+    },
+    {
+      "index": "8599",
+      "target": "源劍士ＧＸ３"
+    },
+    {
+      "index": "8600",
+      "target": "源劍士ＧＸ４"
+    },
+    {
+      "index": "8601",
+      "target": "源劍士ＧＸ５"
+    },
+    {
+      "index": "8602",
+      "target": "源射手Ｇ"
+    },
+    {
+      "index": "8603",
+      "target": "源射手ＧＦ"
+    },
+    {
+      "index": "8604",
+      "target": "源射手ＧＸ１"
+    },
+    {
+      "index": "8605",
+      "target": "源射手ＧＸ２"
+    },
+    {
+      "index": "8606",
+      "target": "源射手ＧＸ３"
+    },
+    {
+      "index": "8607",
+      "target": "源射手ＧＸ４"
+    },
+    {
+      "index": "8608",
+      "target": "源射手ＧＸ５"
+    },
+    {
+      "index": "8609",
+      "target": "沙龍劍士Ｇ"
+    },
+    {
+      "index": "8610",
+      "target": "沙龍劍士ＧＦ"
+    },
+    {
+      "index": "8611",
+      "target": "沙龍劍士ＧＸ１"
+    },
+    {
+      "index": "8612",
+      "target": "沙龍劍士ＧＸ２"
+    },
+    {
+      "index": "8613",
+      "target": "沙龍劍士ＧＸ３"
+    },
+    {
+      "index": "8614",
+      "target": "沙龍劍士ＧＸ４"
+    },
+    {
+      "index": "8615",
+      "target": "沙龍劍士ＧＸ５"
+    },
+    {
+      "index": "8616",
+      "target": "沙龍射手Ｇ"
+    },
+    {
+      "index": "8617",
+      "target": "沙龍射手ＧＦ"
+    },
+    {
+      "index": "8618",
+      "target": "沙龍射手ＧＸ１"
+    },
+    {
+      "index": "8619",
+      "target": "沙龍射手ＧＸ２"
+    },
+    {
+      "index": "8620",
+      "target": "沙龍射手ＧＸ３"
+    },
+    {
+      "index": "8621",
+      "target": "沙龍射手ＧＸ４"
+    },
+    {
+      "index": "8622",
+      "target": "沙龍射手ＧＸ５"
+    },
+    {
+      "index": "8665",
+      "target": "鎧龍的黒劍士Ｇ"
+    },
+    {
+      "index": "8666",
+      "target": "鎧龍的黒劍士ＧＦ"
+    },
+    {
+      "index": "8667",
+      "target": "鎧龍黒劍士ＧＸ１"
+    },
+    {
+      "index": "8668",
+      "target": "鎧龍黒劍士ＧＸ２"
+    },
+    {
+      "index": "8669",
+      "target": "鎧龍黒劍士ＧＸ３"
+    },
+    {
+      "index": "8670",
+      "target": "鎧龍黒劍士ＧＸ４"
+    },
+    {
+      "index": "8671",
+      "target": "鎧龍黒劍士ＧＸ５"
+    },
+    {
+      "index": "8672",
+      "target": "鎧龍的黒射手Ｇ"
+    },
+    {
+      "index": "8673",
+      "target": "鎧龍的黒射手ＧＦ"
+    },
+    {
+      "index": "8674",
+      "target": "鎧龍黒射手ＧＸ１"
+    },
+    {
+      "index": "8675",
+      "target": "鎧龍黒射手ＧＸ２"
+    },
+    {
+      "index": "8676",
+      "target": "鎧龍黒射手ＧＸ３"
+    },
+    {
+      "index": "8677",
+      "target": "鎧龍黒射手ＧＸ４"
+    },
+    {
+      "index": "8678",
+      "target": "鎧龍黒射手ＧＸ５"
+    },
+    {
+      "index": "8679",
+      "target": "月劍士Ｇ"
+    },
+    {
+      "index": "8680",
+      "target": "月劍士ＧＦ"
+    },
+    {
+      "index": "8681",
+      "target": "月劍士ＧＸ１"
+    },
+    {
+      "index": "8682",
+      "target": "月劍士ＧＸ２"
+    },
+    {
+      "index": "8683",
+      "target": "月劍士ＧＸ３"
+    },
+    {
+      "index": "8684",
+      "target": "月劍士ＧＸ４"
+    },
+    {
+      "index": "8685",
+      "target": "月劍士ＧＸ５"
+    },
+    {
+      "index": "8686",
+      "target": "月射手Ｇ"
+    },
+    {
+      "index": "8687",
+      "target": "月射手ＧＦ"
+    },
+    {
+      "index": "8688",
+      "target": "月射手ＧＸ１"
+    },
+    {
+      "index": "8689",
+      "target": "月射手ＧＸ２"
+    },
+    {
+      "index": "8690",
+      "target": "月射手ＧＸ３"
+    },
+    {
+      "index": "8691",
+      "target": "月射手ＧＸ４"
+    },
+    {
+      "index": "8692",
+      "target": "月射手ＧＸ５"
+    },
+    {
+      "index": "8693",
+      "target": "掠奪劍士Ｇ"
+    },
+    {
+      "index": "8694",
+      "target": "掠奪劍士ＧＦ"
+    },
+    {
+      "index": "8695",
+      "target": "掠奪劍士ＧＸ１"
+    },
+    {
+      "index": "8696",
+      "target": "掠奪劍士ＧＸ２"
+    },
+    {
+      "index": "8697",
+      "target": "掠奪劍士ＧＸ３"
+    },
+    {
+      "index": "8698",
+      "target": "掠奪劍士ＧＸ４"
+    },
+    {
+      "index": "8699",
+      "target": "掠奪劍士ＧＸ５"
+    },
+    {
+      "index": "8700",
+      "target": "掠奪射手Ｇ"
+    },
+    {
+      "index": "8701",
+      "target": "掠奪射手ＧＦ"
+    },
+    {
+      "index": "8702",
+      "target": "掠奪射手ＧＸ１"
+    },
+    {
+      "index": "8703",
+      "target": "掠奪射手ＧＸ２"
+    },
+    {
+      "index": "8704",
+      "target": "掠奪射手ＧＸ３"
+    },
+    {
+      "index": "8705",
+      "target": "掠奪射手ＧＸ４"
+    },
+    {
+      "index": "8706",
+      "target": "掠奪射手ＧＸ５"
+    },
+    {
+      "index": "8707",
+      "target": "龍的劍士Ｇ"
+    },
+    {
+      "index": "8708",
+      "target": "龍的劍士ＧＦ"
+    },
+    {
+      "index": "8709",
+      "target": "龍劍士ＧＸ１"
+    },
+    {
+      "index": "8710",
+      "target": "龍劍士ＧＸ２"
+    },
+    {
+      "index": "8711",
+      "target": "龍劍士ＧＸ３"
+    },
+    {
+      "index": "8712",
+      "target": "龍劍士ＧＸ４"
+    },
+    {
+      "index": "8713",
+      "target": "龍劍士ＧＸ５"
+    },
+    {
+      "index": "8714",
+      "target": "龍的射手Ｇ"
+    },
+    {
+      "index": "8715",
+      "target": "龍的射手ＧＦ"
+    },
+    {
+      "index": "8716",
+      "target": "龍射手ＧＸ１"
+    },
+    {
+      "index": "8717",
+      "target": "龍射手ＧＸ２"
+    },
+    {
+      "index": "8718",
+      "target": "龍射手ＧＸ３"
+    },
+    {
+      "index": "8719",
+      "target": "龍射手ＧＸ４"
+    },
+    {
+      "index": "8720",
+      "target": "龍射手ＧＸ５"
+    },
+    {
+      "index": "8721",
+      "target": "秘隱劍士Ｇ"
+    },
+    {
+      "index": "8722",
+      "target": "秘隱劍士ＧＦ"
+    },
+    {
+      "index": "8723",
+      "target": "秘隱劍士ＧＸ１"
+    },
+    {
+      "index": "8724",
+      "target": "秘隱劍士ＧＸ２"
+    },
+    {
+      "index": "8725",
+      "target": "秘隱劍士ＧＸ３"
+    },
+    {
+      "index": "8726",
+      "target": "秘隱劍士ＧＸ４"
+    },
+    {
+      "index": "8727",
+      "target": "秘隱劍士ＧＸ５"
+    },
+    {
+      "index": "8728",
+      "target": "秘隱射手Ｇ"
+    },
+    {
+      "index": "8729",
+      "target": "秘隱射手ＧＦ"
+    },
+    {
+      "index": "8730",
+      "target": "秘隱射手ＧＸ１"
+    },
+    {
+      "index": "8731",
+      "target": "秘隱射手ＧＸ２"
+    },
+    {
+      "index": "8732",
+      "target": "秘隱射手ＧＸ３"
+    },
+    {
+      "index": "8733",
+      "target": "秘隱射手ＧＸ４"
+    },
+    {
+      "index": "8734",
+      "target": "秘隱射手ＧＸ５"
+    },
+    {
+      "index": "8735",
+      "target": "康瑟魯劍士Ｇ"
+    },
+    {
+      "index": "8736",
+      "target": "康瑟魯劍士ＧＦ"
+    },
+    {
+      "index": "8737",
+      "target": "康瑟魯劍士ＧＸ１"
+    },
+    {
+      "index": "8738",
+      "target": "康瑟魯劍士ＧＸ２"
+    },
+    {
+      "index": "8739",
+      "target": "康瑟魯劍士ＧＸ３"
+    },
+    {
+      "index": "8740",
+      "target": "康瑟魯劍士ＧＸ４"
+    },
+    {
+      "index": "8741",
+      "target": "康瑟魯劍士ＧＸ５"
+    },
+    {
+      "index": "8742",
+      "target": "康瑟魯射手Ｇ"
+    },
+    {
+      "index": "8743",
+      "target": "康瑟魯射手ＧＦ"
+    },
+    {
+      "index": "8744",
+      "target": "康瑟魯射手ＧＸ１"
+    },
+    {
+      "index": "8745",
+      "target": "康瑟魯射手ＧＸ２"
+    },
+    {
+      "index": "8746",
+      "target": "康瑟魯射手ＧＸ３"
+    },
+    {
+      "index": "8747",
+      "target": "康瑟魯射手ＧＸ４"
+    },
+    {
+      "index": "8748",
+      "target": "康瑟魯射手ＧＸ５"
+    },
+    {
+      "index": "8749",
+      "target": "迪魯劍士Ｇ"
+    },
+    {
+      "index": "8750",
+      "target": "迪魯劍士ＧＦ"
+    },
+    {
+      "index": "8751",
+      "target": "迪魯劍士ＧＸ１"
+    },
+    {
+      "index": "8752",
+      "target": "迪魯劍士ＧＸ２"
+    },
+    {
+      "index": "8753",
+      "target": "迪魯劍士ＧＸ３"
+    },
+    {
+      "index": "8754",
+      "target": "迪魯劍士ＧＸ４"
+    },
+    {
+      "index": "8755",
+      "target": "迪魯劍士ＧＸ５"
+    },
+    {
+      "index": "8756",
+      "target": "迪魯射手Ｇ"
+    },
+    {
+      "index": "8757",
+      "target": "迪魯射手ＧＦ"
+    },
+    {
+      "index": "8758",
+      "target": "迪魯射手ＧＸ１"
+    },
+    {
+      "index": "8759",
+      "target": "迪魯射手ＧＸ２"
+    },
+    {
+      "index": "8760",
+      "target": "迪魯射手ＧＸ３"
+    },
+    {
+      "index": "8761",
+      "target": "迪魯射手ＧＸ４"
+    },
+    {
+      "index": "8762",
+      "target": "迪魯射手ＧＸ５"
+    },
+    {
+      "index": "8763",
+      "target": "火的攻撃裝飾品"
+    },
+    {
+      "index": "8764",
+      "target": "水的攻撃裝飾品"
+    },
+    {
+      "index": "8765",
+      "target": "雷的攻撃裝飾品"
+    },
+    {
+      "index": "8766",
+      "target": "冰的攻撃裝飾品"
+    },
+    {
+      "index": "8767",
+      "target": "龍的攻撃裝飾品"
+    },
+    {
+      "index": "8768",
+      "target": "火的劍裝飾品"
+    },
+    {
+      "index": "8769",
+      "target": "水的劍裝飾品"
+    },
+    {
+      "index": "8770",
+      "target": "雷的劍裝飾品"
+    },
+    {
+      "index": "8771",
+      "target": "冰的劍裝飾品"
+    },
+    {
+      "index": "8772",
+      "target": "龍的劍裝飾品"
+    },
+    {
+      "index": "8773",
+      "target": "剣術Ｇ"
+    },
+    {
+      "index": "8774",
+      "target": "集中Ｇ"
+    },
+    {
+      "index": "8775",
+      "target": "状態耐性Ｇ"
+    },
+    {
+      "index": "8776",
+      "target": "反動Ｇ"
+    },
+    {
+      "index": "8777",
+      "target": "斷食Ｇ"
+    },
+    {
+      "index": "8901",
+      "target": "可羅的頭"
+    },
+    {
+      "index": "8902",
+      "target": "可羅胸"
+    },
+    {
+      "index": "8903",
+      "target": "可羅腕"
+    },
+    {
+      "index": "8904",
+      "target": "可羅腰"
+    },
+    {
+      "index": "8905",
+      "target": "可羅脚"
+    },
+    {
+      "index": "8937",
+      "target": "東Ｓ感謝"
+    },
+    {
+      "index": "8939",
+      "target": "西Ｓ感謝"
+    },
+    {
+      "index": "8961",
+      "target": "熔岩王蟹"
+    },
+    {
+      "index": "8963",
+      "target": "黄金硬幣Ｇ"
+    },
+    {
+      "index": "8966",
+      "target": "轉蛋幸運護符"
+    },
+    {
+      "index": "8979",
+      "target": "片手劍功績下位"
+    },
+    {
+      "index": "8980",
+      "target": "片手劍功績中位"
+    },
+    {
+      "index": "8981",
+      "target": "片手劍功績高級"
+    },
+    {
+      "index": "8982",
+      "target": "雙劍的功績下位"
+    },
+    {
+      "index": "8983",
+      "target": "雙劍的功績中位"
+    },
+    {
+      "index": "8984",
+      "target": "雙劍的功績高級"
+    },
+    {
+      "index": "8985",
+      "target": "大劍的功績下位"
+    },
+    {
+      "index": "8986",
+      "target": "大劍的功績中位"
+    },
+    {
+      "index": "8987",
+      "target": "大劍的功績高級"
+    },
+    {
+      "index": "8988",
+      "target": "太刀的功績下位"
+    },
+    {
+      "index": "8989",
+      "target": "太刀的功績中位"
+    },
+    {
+      "index": "8990",
+      "target": "太刀的功績高級"
+    },
+    {
+      "index": "8991",
+      "target": "大錘的功績Ｌ"
+    },
+    {
+      "index": "8992",
+      "target": "大錘的功績Ｍ"
+    },
+    {
+      "index": "8993",
+      "target": "大錘的功績Ｈ"
+    },
+    {
+      "index": "8994",
+      "target": "狩獵笛的功績下位"
+    },
+    {
+      "index": "8995",
+      "target": "狩獵笛的功績中位"
+    },
+    {
+      "index": "8996",
+      "target": "狩獵笛的功績高級"
+    },
+    {
+      "index": "8997",
+      "target": "長槍的功績下位"
+    },
+    {
+      "index": "8998",
+      "target": "長槍的功績中位"
+    },
+    {
+      "index": "8999",
+      "target": "長槍的功績高級"
+    },
+    {
+      "index": "9000",
+      "target": "銃槍的功績下位"
+    },
+    {
+      "index": "9001",
+      "target": "銃槍的功績中位"
+    },
+    {
+      "index": "9002",
+      "target": "銃槍的功績高級"
+    },
+    {
+      "index": "9003",
+      "target": "穿龍棍的功績Ｌ"
+    },
+    {
+      "index": "9004",
+      "target": "穿龍棍的功績Ｍ"
+    },
+    {
+      "index": "9005",
+      "target": "穿龍棍的功績Ｈ"
+    },
+    {
+      "index": "9006",
+      "target": "重弩的功績下位"
+    },
+    {
+      "index": "9007",
+      "target": "重弩的功績中位"
+    },
+    {
+      "index": "9008",
+      "target": "重弩的功績高級"
+    },
+    {
+      "index": "9009",
+      "target": "輕弩的功績下位"
+    },
+    {
+      "index": "9010",
+      "target": "輕弩的功績中位"
+    },
+    {
+      "index": "9011",
+      "target": "輕弩的功績高級"
+    },
+    {
+      "index": "9012",
+      "target": "弓的功績下位"
+    },
+    {
+      "index": "9013",
+      "target": "弓的功績中位"
+    },
+    {
+      "index": "9014",
+      "target": "弓的功績高級"
+    },
+    {
+      "index": "9018",
+      "target": "穿龍棍的魂下位"
+    },
+    {
+      "index": "9019",
+      "target": "穿龍棍的魂中位"
+    },
+    {
+      "index": "9020",
+      "target": "穿龍棍的魂高級"
+    },
+    {
+      "index": "9021",
+      "target": "穿龍棍的魂頂級"
+    },
+    {
+      "index": "9022",
+      "target": "穿龍棍的飾帶下位"
+    },
+    {
+      "index": "9023",
+      "target": "穿龍棍的飾帶中位"
+    },
+    {
+      "index": "9024",
+      "target": "穿龍棍的飾帶高級"
+    },
+    {
+      "index": "9041",
+      "target": "尾錘龍的爪"
+    },
+    {
+      "index": "9048",
+      "target": "尾錘龍花蜜"
+    },
+    {
+      "index": "9056",
+      "target": "尾錘龍的蜂蜜"
+    },
+    {
+      "index": "9058",
+      "target": "尾錘龍的證明"
+    },
+    {
+      "index": "9068",
+      "target": "電龍的延髄"
+    },
+    {
+      "index": "9071",
+      "target": "電龍的腕"
+    },
+    {
+      "index": "9073",
+      "target": "電龍的證明"
+    },
+    {
+      "index": "9079",
+      "target": "銀火龍的紅寶石"
+    },
+    {
+      "index": "9081",
+      "target": "晶蠍赤結晶"
+    },
+    {
+      "index": "9125",
+      "target": "失豪華的冠"
+    },
+    {
+      "index": "9126",
+      "target": "堅記憶"
+    },
+    {
+      "index": "9162",
+      "target": "祝福鈴"
+    },
+    {
+      "index": "9164",
+      "target": "光鋼球"
+    },
+    {
+      "index": "9165",
+      "target": "闇鋼球"
+    },
+    {
+      "index": "9166",
+      "target": "輝石"
+    },
+    {
+      "index": "9182",
+      "target": "王Ｓ勳章"
+    },
+    {
+      "index": "9183",
+      "target": "感謝汝Ⅶ"
+    },
+    {
+      "index": "9184",
+      "target": "法郎劍士Ｇ"
+    },
+    {
+      "index": "9185",
+      "target": "法郎劍士ＧＦ"
+    },
+    {
+      "index": "9186",
+      "target": "法郎劍士ＧＸ１"
+    },
+    {
+      "index": "9187",
+      "target": "法郎劍士ＧＸ２"
+    },
+    {
+      "index": "9188",
+      "target": "法郎劍士ＧＸ３"
+    },
+    {
+      "index": "9189",
+      "target": "法郎劍士ＧＸ４"
+    },
+    {
+      "index": "9190",
+      "target": "法郎劍士ＧＸ５"
+    },
+    {
+      "index": "9191",
+      "target": "法郎射手Ｇ"
+    },
+    {
+      "index": "9192",
+      "target": "法郎射手ＧＦ"
+    },
+    {
+      "index": "9193",
+      "target": "法郎射手ＧＸ１"
+    },
+    {
+      "index": "9194",
+      "target": "法郎射手ＧＸ２"
+    },
+    {
+      "index": "9195",
+      "target": "法郎射手ＧＸ３"
+    },
+    {
+      "index": "9196",
+      "target": "法郎射手ＧＸ４"
+    },
+    {
+      "index": "9197",
+      "target": "法郎射手ＧＸ５"
+    },
+    {
+      "index": "9198",
+      "target": "神樂劍士Ｇ"
+    },
+    {
+      "index": "9199",
+      "target": "神樂劍士ＧＦ"
+    },
+    {
+      "index": "9200",
+      "target": "神樂劍士ＧＸ１"
+    },
+    {
+      "index": "9201",
+      "target": "神樂劍士ＧＸ２"
+    },
+    {
+      "index": "9202",
+      "target": "神樂劍士ＧＸ３"
+    },
+    {
+      "index": "9203",
+      "target": "神樂劍士ＧＸ４"
+    },
+    {
+      "index": "9204",
+      "target": "神樂劍士ＧＸ５"
+    },
+    {
+      "index": "9205",
+      "target": "上座射手Ｇ"
+    },
+    {
+      "index": "9206",
+      "target": "上座射手ＧＦ"
+    },
+    {
+      "index": "9207",
+      "target": "上座射手ＧＸ１"
+    },
+    {
+      "index": "9208",
+      "target": "上座射手ＧＸ２"
+    },
+    {
+      "index": "9209",
+      "target": "上座射手ＧＸ３"
+    },
+    {
+      "index": "9210",
+      "target": "上座射手ＧＸ４"
+    },
+    {
+      "index": "9211",
+      "target": "上座射手ＧＸ５"
+    },
+    {
+      "index": "9212",
+      "target": "灰晶蠍的劍士Ｇ"
+    },
+    {
+      "index": "9213",
+      "target": "灰晶蠍的劍士ＧＦ"
+    },
+    {
+      "index": "9214",
+      "target": "灰晶蠍劍士ＧＸ１"
+    },
+    {
+      "index": "9215",
+      "target": "灰晶蠍劍士ＧＸ２"
+    },
+    {
+      "index": "9216",
+      "target": "灰晶蠍劍士ＧＸ３"
+    },
+    {
+      "index": "9217",
+      "target": "灰晶蠍劍士ＧＸ４"
+    },
+    {
+      "index": "9218",
+      "target": "灰晶蠍劍士ＧＸ５"
+    },
+    {
+      "index": "9219",
+      "target": "灰晶蠍的射手Ｇ"
+    },
+    {
+      "index": "9220",
+      "target": "灰晶蠍的射手ＧＦ"
+    },
+    {
+      "index": "9221",
+      "target": "灰晶蠍射手ＧＸ１"
+    },
+    {
+      "index": "9222",
+      "target": "灰晶蠍射手ＧＸ２"
+    },
+    {
+      "index": "9223",
+      "target": "灰晶蠍射手ＧＸ３"
+    },
+    {
+      "index": "9224",
+      "target": "灰晶蠍射手ＧＸ４"
+    },
+    {
+      "index": "9225",
+      "target": "灰晶蠍射手ＧＸ５"
+    },
+    {
+      "index": "9226",
+      "target": "日輪劍士Ｇ"
+    },
+    {
+      "index": "9227",
+      "target": "日輪劍士ＧＦ"
+    },
+    {
+      "index": "9228",
+      "target": "日輪劍士ＧＸ１"
+    },
+    {
+      "index": "9229",
+      "target": "日輪劍士ＧＸ２"
+    },
+    {
+      "index": "9230",
+      "target": "日輪劍士ＧＸ３"
+    },
+    {
+      "index": "9231",
+      "target": "日輪劍士ＧＸ４"
+    },
+    {
+      "index": "9232",
+      "target": "日輪劍士ＧＸ５"
+    },
+    {
+      "index": "9233",
+      "target": "日輪射手Ｇ"
+    },
+    {
+      "index": "9234",
+      "target": "日輪射手ＧＦ"
+    },
+    {
+      "index": "9235",
+      "target": "日輪射手ＧＸ１"
+    },
+    {
+      "index": "9236",
+      "target": "日輪射手ＧＸ２"
+    },
+    {
+      "index": "9237",
+      "target": "日輪射手ＧＸ３"
+    },
+    {
+      "index": "9238",
+      "target": "日輪射手ＧＸ４"
+    },
+    {
+      "index": "9239",
+      "target": "日輪射手ＧＸ５"
+    },
+    {
+      "index": "9240",
+      "target": "火山劍士Ｇ"
+    },
+    {
+      "index": "9241",
+      "target": "火山劍士ＧＦ"
+    },
+    {
+      "index": "9242",
+      "target": "火山劍士ＧＸ１"
+    },
+    {
+      "index": "9243",
+      "target": "火山劍士ＧＸ２"
+    },
+    {
+      "index": "9244",
+      "target": "火山劍士ＧＸ３"
+    },
+    {
+      "index": "9245",
+      "target": "火山劍士ＧＸ４"
+    },
+    {
+      "index": "9246",
+      "target": "火山劍士ＧＸ５"
+    },
+    {
+      "index": "9247",
+      "target": "火山射手Ｇ"
+    },
+    {
+      "index": "9248",
+      "target": "火山射手ＧＦ"
+    },
+    {
+      "index": "9249",
+      "target": "火山射手ＧＸ１"
+    },
+    {
+      "index": "9250",
+      "target": "火山射手ＧＸ２"
+    },
+    {
+      "index": "9251",
+      "target": "火山射手ＧＸ３"
+    },
+    {
+      "index": "9252",
+      "target": "火山射手ＧＸ４"
+    },
+    {
+      "index": "9253",
+      "target": "火山射手ＧＸ５"
+    },
+    {
+      "index": "9302",
+      "target": "尼斯魯劍士Ｇ"
+    },
+    {
+      "index": "9303",
+      "target": "尼斯魯劍士ＧＦ"
+    },
+    {
+      "index": "9304",
+      "target": "尼斯魯劍士ＧＸ１"
+    },
+    {
+      "index": "9305",
+      "target": "尼斯魯劍士ＧＸ２"
+    },
+    {
+      "index": "9306",
+      "target": "尼斯魯劍士ＧＸ３"
+    },
+    {
+      "index": "9307",
+      "target": "尼斯魯劍士ＧＸ４"
+    },
+    {
+      "index": "9308",
+      "target": "尼斯魯劍士ＧＸ５"
+    },
+    {
+      "index": "9309",
+      "target": "尼斯魯射手Ｇ"
+    },
+    {
+      "index": "9310",
+      "target": "尼斯魯射手ＧＦ"
+    },
+    {
+      "index": "9311",
+      "target": "尼斯魯射手ＧＸ１"
+    },
+    {
+      "index": "9312",
+      "target": "尼斯魯射手ＧＸ２"
+    },
+    {
+      "index": "9313",
+      "target": "尼斯魯射手ＧＸ３"
+    },
+    {
+      "index": "9314",
+      "target": "尼斯魯射手ＧＸ４"
+    },
+    {
+      "index": "9315",
+      "target": "尼斯魯射手ＧＸ５"
+    },
+    {
+      "index": "9316",
+      "target": "珀斯劍士Ｇ"
+    },
+    {
+      "index": "9317",
+      "target": "珀斯劍士ＧＦ"
+    },
+    {
+      "index": "9318",
+      "target": "珀斯劍士ＧＸ１"
+    },
+    {
+      "index": "9319",
+      "target": "珀斯劍士ＧＸ２"
+    },
+    {
+      "index": "9320",
+      "target": "珀斯劍士ＧＸ３"
+    },
+    {
+      "index": "9321",
+      "target": "珀斯劍士ＧＸ４"
+    },
+    {
+      "index": "9322",
+      "target": "珀斯劍士ＧＸ５"
+    },
+    {
+      "index": "9323",
+      "target": "珀斯射手Ｇ"
+    },
+    {
+      "index": "9324",
+      "target": "珀斯射手ＧＦ"
+    },
+    {
+      "index": "9325",
+      "target": "珀斯射手ＧＸ１"
+    },
+    {
+      "index": "9326",
+      "target": "珀斯射手ＧＸ２"
+    },
+    {
+      "index": "9327",
+      "target": "珀斯射手ＧＸ３"
+    },
+    {
+      "index": "9328",
+      "target": "珀斯射手ＧＸ４"
+    },
+    {
+      "index": "9329",
+      "target": "珀斯射手ＧＸ５"
+    },
+    {
+      "index": "9330",
+      "target": "戰友劍士Ｇ"
+    },
+    {
+      "index": "9331",
+      "target": "戰友劍士ＧＦ"
+    },
+    {
+      "index": "9332",
+      "target": "戰友劍士ＧＸ１"
+    },
+    {
+      "index": "9333",
+      "target": "戰友劍士ＧＸ２"
+    },
+    {
+      "index": "9334",
+      "target": "戰友劍士ＧＸ３"
+    },
+    {
+      "index": "9335",
+      "target": "戰友劍士ＧＸ４"
+    },
+    {
+      "index": "9336",
+      "target": "戰友劍士ＧＸ５"
+    },
+    {
+      "index": "9337",
+      "target": "戰友射手Ｇ"
+    },
+    {
+      "index": "9338",
+      "target": "戰友射手ＧＦ"
+    },
+    {
+      "index": "9339",
+      "target": "戰友射手ＧＸ１"
+    },
+    {
+      "index": "9340",
+      "target": "戰友射手ＧＸ２"
+    },
+    {
+      "index": "9341",
+      "target": "戰友射手ＧＸ３"
+    },
+    {
+      "index": "9342",
+      "target": "戰友射手ＧＸ４"
+    },
+    {
+      "index": "9343",
+      "target": "戰友射手ＧＸ５"
+    },
+    {
+      "index": "9491",
+      "target": "食事２Ｇ"
+    },
+    {
+      "index": "9492",
+      "target": "匠１Ｇ"
+    },
+    {
+      "index": "9577",
+      "target": "武器新設計文書"
+    },
+    {
+      "index": "9582",
+      "target": "松樹"
+    },
+    {
+      "index": "9583",
+      "target": "月光砂"
+    },
+    {
+      "index": "9600",
+      "target": "棘白龍的炎的石"
+    },
+    {
+      "index": "9672",
+      "target": "美書"
+    },
+    {
+      "index": "9675",
+      "target": "大書"
+    },
+    {
+      "index": "9676",
+      "target": "小書"
+    },
+    {
+      "index": "9682",
+      "target": "軟黒布"
+    },
+    {
+      "index": "9683",
+      "target": "破損赤部位"
+    },
+    {
+      "index": "9684",
+      "target": "破損青部位"
+    },
+    {
+      "index": "9685",
+      "target": "黄金護身"
+    },
+    {
+      "index": "9719",
+      "target": "屬性全藥"
+    },
+    {
+      "index": "9735",
+      "target": "破損玻璃"
+    },
+    {
+      "index": "9750",
+      "target": "甜果實"
+    },
+    {
+      "index": "9785",
+      "target": "破損黒面具"
+    },
+    {
+      "index": "9895",
+      "target": "白銀劍士Ｇ"
+    },
+    {
+      "index": "9896",
+      "target": "白銀劍士ＧＦ"
+    },
+    {
+      "index": "9897",
+      "target": "白銀劍士ＧＸ１"
+    },
+    {
+      "index": "9898",
+      "target": "白銀劍士ＧＸ２"
+    },
+    {
+      "index": "9899",
+      "target": "白銀劍士ＧＸ３"
+    },
+    {
+      "index": "9900",
+      "target": "白銀劍士ＧＸ４"
+    },
+    {
+      "index": "9901",
+      "target": "白銀劍士ＧＸ５"
+    },
+    {
+      "index": "9902",
+      "target": "白銀射手Ｇ"
+    },
+    {
+      "index": "9903",
+      "target": "白銀射手ＧＦ"
+    },
+    {
+      "index": "9904",
+      "target": "白銀射手ＧＸ１"
+    },
+    {
+      "index": "9905",
+      "target": "白銀射手ＧＸ２"
+    },
+    {
+      "index": "9906",
+      "target": "白銀射手ＧＸ３"
+    },
+    {
+      "index": "9907",
+      "target": "白銀射手ＧＸ４"
+    },
+    {
+      "index": "9908",
+      "target": "白銀射手ＧＸ５"
+    },
+    {
+      "index": "9909",
+      "target": "猛毒劍士Ｇ"
+    },
+    {
+      "index": "9910",
+      "target": "猛毒劍士ＧＦ"
+    },
+    {
+      "index": "9911",
+      "target": "猛毒劍士ＧＸ１"
+    },
+    {
+      "index": "9912",
+      "target": "猛毒劍士ＧＸ２"
+    },
+    {
+      "index": "9913",
+      "target": "猛毒劍士ＧＸ３"
+    },
+    {
+      "index": "9914",
+      "target": "猛毒劍士ＧＸ４"
+    },
+    {
+      "index": "9915",
+      "target": "猛毒劍士ＧＸ５"
+    },
+    {
+      "index": "9916",
+      "target": "猛毒射手Ｇ"
+    },
+    {
+      "index": "9917",
+      "target": "猛毒射手ＧＦ"
+    },
+    {
+      "index": "9918",
+      "target": "猛毒射手ＧＸ１"
+    },
+    {
+      "index": "9919",
+      "target": "猛毒射手ＧＸ２"
+    },
+    {
+      "index": "9920",
+      "target": "猛毒射手ＧＸ３"
+    },
+    {
+      "index": "9921",
+      "target": "猛毒射手ＧＸ４"
+    },
+    {
+      "index": "9922",
+      "target": "猛毒射手ＧＸ５"
+    },
+    {
+      "index": "9923",
+      "target": "優雅劍士Ｇ"
+    },
+    {
+      "index": "9924",
+      "target": "優雅劍士ＧＦ"
+    },
+    {
+      "index": "9925",
+      "target": "優雅劍士ＧＸ１"
+    },
+    {
+      "index": "9926",
+      "target": "優雅劍士ＧＸ２"
+    },
+    {
+      "index": "9927",
+      "target": "優雅劍士ＧＸ３"
+    },
+    {
+      "index": "9928",
+      "target": "優雅劍士ＧＸ４"
+    },
+    {
+      "index": "9929",
+      "target": "優雅劍士ＧＸ５"
+    },
+    {
+      "index": "9930",
+      "target": "恩寵射手Ｇ"
+    },
+    {
+      "index": "9931",
+      "target": "恩寵射手ＧＦ"
+    },
+    {
+      "index": "9932",
+      "target": "恩寵射手ＧＸ１"
+    },
+    {
+      "index": "9933",
+      "target": "恩寵射手ＧＸ２"
+    },
+    {
+      "index": "9934",
+      "target": "恩寵射手ＧＸ３"
+    },
+    {
+      "index": "9935",
+      "target": "恩寵射手ＧＸ４"
+    },
+    {
+      "index": "9936",
+      "target": "恩寵射手ＧＸ５"
+    },
+    {
+      "index": "9937",
+      "target": "傑斯劍士Ｇ"
+    },
+    {
+      "index": "9938",
+      "target": "傑斯劍士ＧＦ"
+    },
+    {
+      "index": "9939",
+      "target": "傑斯劍士ＧＸ１"
+    },
+    {
+      "index": "9940",
+      "target": "傑斯劍士ＧＸ２"
+    },
+    {
+      "index": "9941",
+      "target": "傑斯劍士ＧＸ３"
+    },
+    {
+      "index": "9942",
+      "target": "傑斯劍士ＧＸ４"
+    },
+    {
+      "index": "9943",
+      "target": "傑斯劍士ＧＸ５"
+    },
+    {
+      "index": "9944",
+      "target": "傑斯射手Ｇ"
+    },
+    {
+      "index": "9945",
+      "target": "傑斯射手ＧＦ"
+    },
+    {
+      "index": "9946",
+      "target": "傑斯射手ＧＸ１"
+    },
+    {
+      "index": "9947",
+      "target": "傑斯射手ＧＸ２"
+    },
+    {
+      "index": "9948",
+      "target": "傑斯射手ＧＸ３"
+    },
+    {
+      "index": "9949",
+      "target": "傑斯射手ＧＸ４"
+    },
+    {
+      "index": "9950",
+      "target": "傑斯射手ＧＸ５"
+    },
+    {
+      "index": "9965",
+      "target": "布雷歐Ｇ"
+    },
+    {
+      "index": "9966",
+      "target": "布雷歐ＧＦ"
+    },
+    {
+      "index": "9967",
+      "target": "布雷歐ＧＸ１"
+    },
+    {
+      "index": "9968",
+      "target": "布雷歐ＧＸ２"
+    },
+    {
+      "index": "9969",
+      "target": "布雷歐ＧＸ３"
+    },
+    {
+      "index": "9970",
+      "target": "布雷歐ＧＸ４"
+    },
+    {
+      "index": "9971",
+      "target": "布雷歐ＧＸ５"
+    },
+    {
+      "index": "9972",
+      "target": "金奧魯劍士Ｇ"
+    },
+    {
+      "index": "9973",
+      "target": "金奧魯劍士ＧＦ"
+    },
+    {
+      "index": "9974",
+      "target": "金奧魯劍士ＧＸ１"
+    },
+    {
+      "index": "9975",
+      "target": "金奧魯劍士ＧＸ２"
+    },
+    {
+      "index": "9976",
+      "target": "金奧魯劍士ＧＸ３"
+    },
+    {
+      "index": "9977",
+      "target": "金奧魯劍士ＧＸ４"
+    },
+    {
+      "index": "9978",
+      "target": "金奧魯劍士ＧＸ５"
+    },
+    {
+      "index": "9979",
+      "target": "金奧魯射手Ｇ"
+    },
+    {
+      "index": "9980",
+      "target": "金奧魯射手ＧＦ"
+    },
+    {
+      "index": "9981",
+      "target": "金奧魯射手ＧＸ１"
+    },
+    {
+      "index": "9982",
+      "target": "金奧魯射手ＧＸ２"
+    },
+    {
+      "index": "9983",
+      "target": "金奧魯射手ＧＸ３"
+    },
+    {
+      "index": "9984",
+      "target": "金奧魯射手ＧＸ４"
+    },
+    {
+      "index": "9985",
+      "target": "金奧魯射手ＧＸ５"
+    },
+    {
+      "index": "9989",
+      "target": "猫的刃Ｇ"
+    },
+    {
+      "index": "9990",
+      "target": "猫的刃ＧＦ"
+    },
+    {
+      "index": "9991",
+      "target": "猫刃ＧＸ"
+    },
+    {
+      "index": "9992",
+      "target": "鋭達人Ｇ"
+    },
+    {
+      "index": "9993",
+      "target": "状態剣術Ｇ"
+    },
+    {
+      "index": "10120",
+      "target": "黄金果實"
+    },
+    {
+      "index": "10212",
+      "target": "猫腕手環"
+    },
+    {
+      "index": "10386",
+      "target": "原卷軸"
+    },
+    {
+      "index": "10571",
+      "target": "金猫的冠"
+    },
+    {
+      "index": "10572",
+      "target": "猫的銀栄光"
+    },
+    {
+      "index": "10574",
+      "target": "猫的耐性寶玉Ｐ"
+    },
+    {
+      "index": "10582",
+      "target": "巨大蛤殘骸"
+    },
+    {
+      "index": "10652",
+      "target": "火龍的至高的殻"
+    },
+    {
+      "index": "10670",
+      "target": "命塵"
+    },
+    {
+      "index": "10724",
+      "target": "純金屬球"
+    },
+    {
+      "index": "10729",
+      "target": "頭的化石"
+    },
+    {
+      "index": "10816",
+      "target": "夜琉璃劍士Ｇ"
+    },
+    {
+      "index": "10817",
+      "target": "夜琉璃劍士ＧＦ"
+    },
+    {
+      "index": "10818",
+      "target": "夜琉璃劍士ＧＸ１"
+    },
+    {
+      "index": "10819",
+      "target": "夜琉璃劍士ＧＸ２"
+    },
+    {
+      "index": "10820",
+      "target": "夜琉璃劍士ＧＸ３"
+    },
+    {
+      "index": "10821",
+      "target": "夜琉璃劍士ＧＸ４"
+    },
+    {
+      "index": "10822",
+      "target": "夜琉璃劍士ＧＸ５"
+    },
+    {
+      "index": "10823",
+      "target": "夜琉璃射手Ｇ"
+    },
+    {
+      "index": "10824",
+      "target": "夜琉璃射手ＧＦ"
+    },
+    {
+      "index": "10825",
+      "target": "夜琉璃射手ＧＸ１"
+    },
+    {
+      "index": "10826",
+      "target": "夜琉璃射手ＧＸ２"
+    },
+    {
+      "index": "10827",
+      "target": "夜琉璃射手ＧＸ３"
+    },
+    {
+      "index": "10828",
+      "target": "夜琉璃射手ＧＸ４"
+    },
+    {
+      "index": "10829",
+      "target": "夜琉璃射手ＧＸ５"
+    },
+    {
+      "index": "10830",
+      "target": "水砦龍的劍士Ｇ"
+    },
+    {
+      "index": "10831",
+      "target": "水砦龍的劍士ＧＦ"
+    },
+    {
+      "index": "10832",
+      "target": "水砦龍劍士ＧＸ１"
+    },
+    {
+      "index": "10833",
+      "target": "水砦龍劍士ＧＸ２"
+    },
+    {
+      "index": "10834",
+      "target": "水砦龍劍士ＧＸ３"
+    },
+    {
+      "index": "10835",
+      "target": "水砦龍劍士ＧＸ４"
+    },
+    {
+      "index": "10836",
+      "target": "水砦龍劍士ＧＸ５"
+    },
+    {
+      "index": "10837",
+      "target": "水砦龍的射手Ｇ"
+    },
+    {
+      "index": "10838",
+      "target": "水砦龍的射手ＧＦ"
+    },
+    {
+      "index": "10839",
+      "target": "水砦龍射手ＧＸ１"
+    },
+    {
+      "index": "10840",
+      "target": "水砦龍射手ＧＸ２"
+    },
+    {
+      "index": "10841",
+      "target": "水砦龍射手ＧＸ３"
+    },
+    {
+      "index": "10842",
+      "target": "水砦龍射手ＧＸ４"
+    },
+    {
+      "index": "10843",
+      "target": "水砦龍射手ＧＸ５"
+    },
+    {
+      "index": "10858",
+      "target": "創世劍士Ｇ"
+    },
+    {
+      "index": "10859",
+      "target": "創世劍士ＧＦ"
+    },
+    {
+      "index": "10860",
+      "target": "創世劍士ＧＸ１"
+    },
+    {
+      "index": "10861",
+      "target": "創世劍士ＧＸ２"
+    },
+    {
+      "index": "10862",
+      "target": "創世劍士ＧＸ３"
+    },
+    {
+      "index": "10863",
+      "target": "創世劍士ＧＸ４"
+    },
+    {
+      "index": "10864",
+      "target": "創世劍士ＧＸ５"
+    },
+    {
+      "index": "10865",
+      "target": "動作射手Ｇ"
+    },
+    {
+      "index": "10866",
+      "target": "動作射手ＧＦ"
+    },
+    {
+      "index": "10867",
+      "target": "動作射手ＧＸ１"
+    },
+    {
+      "index": "10868",
+      "target": "動作射手ＧＸ２"
+    },
+    {
+      "index": "10869",
+      "target": "動作射手ＧＸ３"
+    },
+    {
+      "index": "10870",
+      "target": "動作射手ＧＸ４"
+    },
+    {
+      "index": "10871",
+      "target": "動作射手ＧＸ５"
+    },
+    {
+      "index": "10872",
+      "target": "魂劍士Ｇ"
+    },
+    {
+      "index": "10873",
+      "target": "魂劍士ＧＦ"
+    },
+    {
+      "index": "10874",
+      "target": "魂劍士ＧＸ１"
+    },
+    {
+      "index": "10875",
+      "target": "魂劍士ＧＸ２"
+    },
+    {
+      "index": "10876",
+      "target": "魂劍士ＧＸ３"
+    },
+    {
+      "index": "10877",
+      "target": "魂劍士ＧＸ４"
+    },
+    {
+      "index": "10878",
+      "target": "魂劍士ＧＸ５"
+    },
+    {
+      "index": "10879",
+      "target": "魂射手Ｇ"
+    },
+    {
+      "index": "10880",
+      "target": "魂射手ＧＦ"
+    },
+    {
+      "index": "10881",
+      "target": "魂射手ＧＸ１"
+    },
+    {
+      "index": "10882",
+      "target": "魂射手ＧＸ２"
+    },
+    {
+      "index": "10883",
+      "target": "魂射手ＧＸ３"
+    },
+    {
+      "index": "10884",
+      "target": "魂射手ＧＸ４"
+    },
+    {
+      "index": "10885",
+      "target": "魂射手ＧＸ５"
+    },
+    {
+      "index": "10886",
+      "target": "心臟劍士Ｇ"
+    },
+    {
+      "index": "10887",
+      "target": "心臟劍士ＧＦ"
+    },
+    {
+      "index": "10888",
+      "target": "心劍士ＧＸ１"
+    },
+    {
+      "index": "10889",
+      "target": "心劍士ＧＸ２"
+    },
+    {
+      "index": "10890",
+      "target": "心劍士ＧＸ３"
+    },
+    {
+      "index": "10891",
+      "target": "心劍士ＧＸ４"
+    },
+    {
+      "index": "10892",
+      "target": "心劍士ＧＸ５"
+    },
+    {
+      "index": "10893",
+      "target": "心臟射手Ｇ"
+    },
+    {
+      "index": "10894",
+      "target": "心臟射手ＧＦ"
+    },
+    {
+      "index": "10895",
+      "target": "心射手ＧＸ１"
+    },
+    {
+      "index": "10896",
+      "target": "心射手ＧＸ２"
+    },
+    {
+      "index": "10897",
+      "target": "心射手ＧＸ３"
+    },
+    {
+      "index": "10898",
+      "target": "心射手ＧＸ４"
+    },
+    {
+      "index": "10899",
+      "target": "心射手ＧＸ５"
+    },
+    {
+      "index": "10904",
+      "target": "結晶裝飾品"
+    },
+    {
+      "index": "10905",
+      "target": "磁鐵裝飾品"
+    },
+    {
+      "index": "10907",
+      "target": "反動達人Ｇ"
+    },
+    {
+      "index": "10908",
+      "target": "奇耐性Ｇ"
+    },
+    {
+      "index": "11007",
+      "target": "舊枝"
+    },
+    {
+      "index": "11008",
+      "target": "焦枝"
+    },
+    {
+      "index": "11012",
+      "target": "火的紋章"
+    },
+    {
+      "index": "11013",
+      "target": "水的紋章"
+    },
+    {
+      "index": "11014",
+      "target": "雷的紋章"
+    },
+    {
+      "index": "11015",
+      "target": "龍的紋章"
+    },
+    {
+      "index": "11016",
+      "target": "冰的紋章"
+    },
+    {
+      "index": "11017",
+      "target": "麻痺的紋章"
+    },
+    {
+      "index": "11018",
+      "target": "睡眠的紋章"
+    },
+    {
+      "index": "11019",
+      "target": "毒的紋章"
+    },
+    {
+      "index": "11020",
+      "target": "會心率的紋章"
+    },
+    {
+      "index": "11022",
+      "target": "紋章的貫通Ｓ"
+    },
+    {
+      "index": "11023",
+      "target": "紋章的散弾Ｓ"
+    },
+    {
+      "index": "11025",
+      "target": "火的Ｓ紋章"
+    },
+    {
+      "index": "11026",
+      "target": "水的Ｓ紋章"
+    },
+    {
+      "index": "11027",
+      "target": "雷的Ｓ紋章"
+    },
+    {
+      "index": "11028",
+      "target": "冰的Ｓ紋章"
+    },
+    {
+      "index": "11030",
+      "target": "紋章的貫通ＳⅡ"
+    },
+    {
+      "index": "11031",
+      "target": "紋章的散弾ＳⅡ"
+    },
+    {
+      "index": "11033",
+      "target": "火的Ｓ紋章Ⅱ"
+    },
+    {
+      "index": "11034",
+      "target": "水的Ｓ紋章Ⅱ"
+    },
+    {
+      "index": "11035",
+      "target": "雷的Ｓ紋章Ⅱ"
+    },
+    {
+      "index": "11036",
+      "target": "冰的Ｓ紋章Ⅱ"
+    },
+    {
+      "index": "11153",
+      "target": "狩獵笛動作１"
+    },
+    {
+      "index": "11154",
+      "target": "長槍動作１"
+    },
+    {
+      "index": "11167",
+      "target": "天廊的勳章"
+    },
+    {
+      "index": "11171",
+      "target": "雙劍動作１"
+    },
+    {
+      "index": "11172",
+      "target": "動作鎚１"
+    },
+    {
+      "index": "11178",
+      "target": "阿斯特利的頭"
+    },
+    {
+      "index": "11179",
+      "target": "阿斯特利胴"
+    },
+    {
+      "index": "11180",
+      "target": "阿斯特利腕"
+    },
+    {
+      "index": "11181",
+      "target": "阿斯特利腰"
+    },
+    {
+      "index": "11182",
+      "target": "阿斯特利脚"
+    },
+    {
+      "index": "11183",
+      "target": "炎角龍的殻"
+    },
+    {
+      "index": "11207",
+      "target": "熾徽章"
+    },
+    {
+      "index": "11225",
+      "target": "奧利克托劍士Ｇ"
+    },
+    {
+      "index": "11226",
+      "target": "奧利克托劍士ＧＦ"
+    },
+    {
+      "index": "11227",
+      "target": "奧利克托劍士ＧＸ１"
+    },
+    {
+      "index": "11228",
+      "target": "奧利克托劍士ＧＸ２"
+    },
+    {
+      "index": "11229",
+      "target": "奧利克托劍士ＧＸ３"
+    },
+    {
+      "index": "11230",
+      "target": "奧利克托劍士ＧＸ４"
+    },
+    {
+      "index": "11231",
+      "target": "奧利克托劍士ＧＸ５"
+    },
+    {
+      "index": "11232",
+      "target": "奧利克托射手Ｇ"
+    },
+    {
+      "index": "11233",
+      "target": "奧利克托射手ＧＦ"
+    },
+    {
+      "index": "11234",
+      "target": "奧利克托射手ＧＸ１"
+    },
+    {
+      "index": "11235",
+      "target": "奧利克托射手ＧＸ２"
+    },
+    {
+      "index": "11236",
+      "target": "奧利克托射手ＧＸ３"
+    },
+    {
+      "index": "11237",
+      "target": "奧利克托射手ＧＸ４"
+    },
+    {
+      "index": "11238",
+      "target": "奧利克托射手ＧＸ５"
+    },
+    {
+      "index": "11244",
+      "target": "鷹生飼料"
+    },
+    {
+      "index": "11245",
+      "target": "火鷹飼料"
+    },
+    {
+      "index": "11246",
+      "target": "水鷹飼料"
+    },
+    {
+      "index": "11247",
+      "target": "雷鷹飼料"
+    },
+    {
+      "index": "11249",
+      "target": "鷹氷飼料"
+    },
+    {
+      "index": "11250",
+      "target": "弓動作１"
+    },
+    {
+      "index": "11251",
+      "target": "銃槍動作１"
+    },
+    {
+      "index": "11270",
+      "target": "水龍的緑勇的牙"
+    },
+    {
+      "index": "11278",
+      "target": "姿勢片手劍Ⅰ"
+    },
+    {
+      "index": "11279",
+      "target": "太刀的姿勢Ⅰ"
+    },
+    {
+      "index": "11280",
+      "target": "重弩的姿勢Ⅰ"
+    },
+    {
+      "index": "11281",
+      "target": "真魂球Ｇ"
+    },
+    {
+      "index": "11282",
+      "target": "真魂球"
+    },
+    {
+      "index": "11287",
+      "target": "感謝汝Ⅷ"
+    },
+    {
+      "index": "11325",
+      "target": "蠻龍稀有苔"
+    },
+    {
+      "index": "11329",
+      "target": "蠻龍軟管"
+    },
+    {
+      "index": "11355",
+      "target": "凍結金屬片"
+    },
+    {
+      "index": "11361",
+      "target": "白旋律"
+    },
+    {
+      "index": "11362",
+      "target": "充電廃材"
+    },
+    {
+      "index": "11381",
+      "target": "力量儀式赤"
+    },
+    {
+      "index": "11382",
+      "target": "力量儀式青"
+    },
+    {
+      "index": "11383",
+      "target": "力量儀式闇"
+    },
+    {
+      "index": "11396",
+      "target": "生錆叉"
+    },
+    {
+      "index": "11399",
+      "target": "齒印鉄"
+    },
+    {
+      "index": "11409",
+      "target": "夜刃"
+    },
+    {
+      "index": "11413",
+      "target": "旧鈕"
+    },
+    {
+      "index": "11441",
+      "target": "褪色青Ｓ布"
+    },
+    {
+      "index": "11443",
+      "target": "紋章鋭強化"
+    },
+    {
+      "index": "11444",
+      "target": "技能的強化紋章"
+    },
+    {
+      "index": "11445",
+      "target": "攻撃力的強化紋章"
+    },
+    {
+      "index": "11449",
+      "target": "防禦力的強化紋章"
+    },
+    {
+      "index": "11452",
+      "target": "GR的防具紋章"
+    },
+    {
+      "index": "11478",
+      "target": "索爾規則劍士Ｇ"
+    },
+    {
+      "index": "11479",
+      "target": "索爾規則劍士ＧＦ"
+    },
+    {
+      "index": "11480",
+      "target": "索爾規則劍士ＧＸ１"
+    },
+    {
+      "index": "11481",
+      "target": "索爾規則劍士ＧＸ２"
+    },
+    {
+      "index": "11482",
+      "target": "索爾規則劍士ＧＸ３"
+    },
+    {
+      "index": "11483",
+      "target": "索爾規則劍士ＧＸ４"
+    },
+    {
+      "index": "11484",
+      "target": "索爾規則劍士ＧＸ５"
+    },
+    {
+      "index": "11485",
+      "target": "索爾領主射手Ｇ"
+    },
+    {
+      "index": "11486",
+      "target": "索爾領主射手ＧＦ"
+    },
+    {
+      "index": "11487",
+      "target": "索爾領主射手ＧＸ１"
+    },
+    {
+      "index": "11488",
+      "target": "索爾領主射手ＧＸ２"
+    },
+    {
+      "index": "11489",
+      "target": "索爾領主射手ＧＸ３"
+    },
+    {
+      "index": "11490",
+      "target": "索爾領主射手ＧＸ４"
+    },
+    {
+      "index": "11491",
+      "target": "索爾領主射手ＧＸ５"
+    },
+    {
+      "index": "11506",
+      "target": "水龍的緑劍士Ｇ"
+    },
+    {
+      "index": "11507",
+      "target": "水龍的緑劍士ＧＦ"
+    },
+    {
+      "index": "11508",
+      "target": "水龍緑劍士ＧＸ１"
+    },
+    {
+      "index": "11509",
+      "target": "水龍緑劍士ＧＸ２"
+    },
+    {
+      "index": "11510",
+      "target": "水龍緑劍士ＧＸ３"
+    },
+    {
+      "index": "11511",
+      "target": "水龍緑劍士ＧＸ４"
+    },
+    {
+      "index": "11512",
+      "target": "水龍緑劍士ＧＸ５"
+    },
+    {
+      "index": "11513",
+      "target": "水龍的緑射手Ｇ"
+    },
+    {
+      "index": "11514",
+      "target": "水龍的緑射手ＧＦ"
+    },
+    {
+      "index": "11515",
+      "target": "水龍緑射手ＧＸ１"
+    },
+    {
+      "index": "11516",
+      "target": "水龍緑射手ＧＸ２"
+    },
+    {
+      "index": "11517",
+      "target": "水龍緑射手ＧＸ３"
+    },
+    {
+      "index": "11518",
+      "target": "水龍緑射手ＧＸ４"
+    },
+    {
+      "index": "11519",
+      "target": "水龍緑射手ＧＸ５"
+    },
+    {
+      "index": "11520",
+      "target": "眠鳥的輝耀劍士Ｇ"
+    },
+    {
+      "index": "11521",
+      "target": "眠鳥的輝耀劍士ＧＦ"
+    },
+    {
+      "index": "11527",
+      "target": "眠鳥的輝耀射手Ｇ"
+    },
+    {
+      "index": "11528",
+      "target": "眠鳥的輝耀射手ＧＦ"
+    },
+    {
+      "index": "11534",
+      "target": "寧芙劍士ＧＸ１"
+    },
+    {
+      "index": "11535",
+      "target": "寧芙劍士ＧＸ２"
+    },
+    {
+      "index": "11536",
+      "target": "寧芙劍士ＧＸ３"
+    },
+    {
+      "index": "11537",
+      "target": "寧芙劍士ＧＸ４"
+    },
+    {
+      "index": "11538",
+      "target": "寧芙劍士ＧＸ５"
+    },
+    {
+      "index": "11539",
+      "target": "寧芙射手ＧＸ１"
+    },
+    {
+      "index": "11540",
+      "target": "寧芙射手ＧＸ２"
+    },
+    {
+      "index": "11541",
+      "target": "寧芙射手ＧＸ３"
+    },
+    {
+      "index": "11542",
+      "target": "寧芙射手ＧＸ４"
+    },
+    {
+      "index": "11543",
+      "target": "寧芙射手ＧＸ５"
+    },
+    {
+      "index": "11544",
+      "target": "馬登劍士Ｇ"
+    },
+    {
+      "index": "11545",
+      "target": "馬登劍士ＧＦ"
+    },
+    {
+      "index": "11546",
+      "target": "馬登劍士ＧＸ１"
+    },
+    {
+      "index": "11547",
+      "target": "馬登劍士ＧＸ２"
+    },
+    {
+      "index": "11548",
+      "target": "馬登劍士ＧＸ３"
+    },
+    {
+      "index": "11549",
+      "target": "馬登劍士ＧＸ４"
+    },
+    {
+      "index": "11550",
+      "target": "馬登劍士ＧＸ５"
+    },
+    {
+      "index": "11551",
+      "target": "馬登射手Ｇ"
+    },
+    {
+      "index": "11552",
+      "target": "馬登射手ＧＦ"
+    },
+    {
+      "index": "11553",
+      "target": "馬登射手ＧＸ１"
+    },
+    {
+      "index": "11554",
+      "target": "馬登射手ＧＸ２"
+    },
+    {
+      "index": "11555",
+      "target": "馬登射手ＧＸ３"
+    },
+    {
+      "index": "11556",
+      "target": "馬登射手ＧＸ４"
+    },
+    {
+      "index": "11557",
+      "target": "馬登射手ＧＸ５"
+    },
+    {
+      "index": "11558",
+      "target": "古書劍士Ｇ"
+    },
+    {
+      "index": "11559",
+      "target": "古書劍士ＧＦ"
+    },
+    {
+      "index": "11560",
+      "target": "古書劍士ＧＸ１"
+    },
+    {
+      "index": "11561",
+      "target": "古書劍士ＧＸ２"
+    },
+    {
+      "index": "11562",
+      "target": "古書劍士ＧＸ３"
+    },
+    {
+      "index": "11563",
+      "target": "古書劍士ＧＸ４"
+    },
+    {
+      "index": "11564",
+      "target": "古書劍士ＧＸ５"
+    },
+    {
+      "index": "11565",
+      "target": "小射手Ｇ"
+    },
+    {
+      "index": "11566",
+      "target": "小射手ＧＦ"
+    },
+    {
+      "index": "11567",
+      "target": "小射手ＧＸ１"
+    },
+    {
+      "index": "11568",
+      "target": "小射手ＧＸ２"
+    },
+    {
+      "index": "11569",
+      "target": "小射手ＧＸ３"
+    },
+    {
+      "index": "11570",
+      "target": "小射手ＧＸ４"
+    },
+    {
+      "index": "11571",
+      "target": "小射手ＧＸ５"
+    },
+    {
+      "index": "11714",
+      "target": "深淵真的血"
+    },
+    {
+      "index": "11719",
+      "target": "龍藤"
+    },
+    {
+      "index": "11723",
+      "target": "輝耀金齒"
+    },
+    {
+      "index": "11725",
+      "target": "龍神藤"
+    },
+    {
+      "index": "11729",
+      "target": "獰龍的至高的鱗"
+    },
+    {
+      "index": "11739",
+      "target": "月光蛋"
+    },
+    {
+      "index": "11741",
+      "target": "貴族白的毛"
+    },
+    {
+      "index": "11743",
+      "target": "孤緋的毛"
+    },
+    {
+      "index": "11744",
+      "target": "金塗"
+    },
+    {
+      "index": "11745",
+      "target": "銀塗"
+    },
+    {
+      "index": "11746",
+      "target": "青銅塗"
+    },
+    {
+      "index": "11751",
+      "target": "白磁鐵"
+    },
+    {
+      "index": "11772",
+      "target": "猫珠柳"
+    },
+    {
+      "index": "11775",
+      "target": "猫珠米種子"
+    },
+    {
+      "index": "11776",
+      "target": "猫珠翡翠"
+    },
+    {
+      "index": "11777",
+      "target": "猫珠柑橘"
+    },
+    {
+      "index": "11785",
+      "target": "輕弩的姿勢Ⅰ"
+    },
+    {
+      "index": "11786",
+      "target": "大劍的姿勢Ⅰ"
+    },
+    {
+      "index": "11787",
+      "target": "姿勢穿刺棍Ⅰ"
+    },
+    {
+      "index": "12047",
+      "target": "軟白的毛"
+    },
+    {
+      "index": "12066",
+      "target": "滑的葉"
+    },
+    {
+      "index": "12105",
+      "target": "華鏡"
+    },
+    {
+      "index": "12106",
+      "target": "美鏡"
+    },
+    {
+      "index": "12107",
+      "target": "生錆鏡"
+    },
+    {
+      "index": "12108",
+      "target": "破損鏡"
+    },
+    {
+      "index": "12119",
+      "target": "美的冠"
+    },
+    {
+      "index": "12122",
+      "target": "新書籤"
+    },
+    {
+      "index": "12123",
+      "target": "舊書籤"
+    },
+    {
+      "index": "12124",
+      "target": "破損書籤"
+    },
+    {
+      "index": "12126",
+      "target": "布書籤"
+    },
+    {
+      "index": "12127",
+      "target": "皮革書籤"
+    },
+    {
+      "index": "12157",
+      "target": "怒劍士Ｇ"
+    },
+    {
+      "index": "12158",
+      "target": "怒劍士ＧＦ"
+    },
+    {
+      "index": "12159",
+      "target": "怒劍士ＧＸ１"
+    },
+    {
+      "index": "12160",
+      "target": "怒劍士ＧＸ２"
+    },
+    {
+      "index": "12161",
+      "target": "怒劍士ＧＸ３"
+    },
+    {
+      "index": "12162",
+      "target": "怒劍士ＧＸ４"
+    },
+    {
+      "index": "12163",
+      "target": "怒劍士ＧＸ５"
+    },
+    {
+      "index": "12164",
+      "target": "憤怒的射手Ｇ"
+    },
+    {
+      "index": "12165",
+      "target": "憤怒的射手ＧＦ"
+    },
+    {
+      "index": "12166",
+      "target": "激昂射手ＧＸ１"
+    },
+    {
+      "index": "12167",
+      "target": "激昂射手ＧＸ２"
+    },
+    {
+      "index": "12168",
+      "target": "激昂射手ＧＸ３"
+    },
+    {
+      "index": "12169",
+      "target": "激昂射手ＧＸ４"
+    },
+    {
+      "index": "12170",
+      "target": "激昂射手ＧＸ５"
+    },
+    {
+      "index": "12171",
+      "target": "阿比劍士Ｇ"
+    },
+    {
+      "index": "12172",
+      "target": "阿比劍士ＧＦ"
+    },
+    {
+      "index": "12173",
+      "target": "阿比劍士ＧＸ１"
+    },
+    {
+      "index": "12174",
+      "target": "阿比劍士ＧＸ２"
+    },
+    {
+      "index": "12175",
+      "target": "阿比劍士ＧＸ３"
+    },
+    {
+      "index": "12176",
+      "target": "阿比劍士ＧＸ４"
+    },
+    {
+      "index": "12177",
+      "target": "阿比劍士ＧＸ５"
+    },
+    {
+      "index": "12178",
+      "target": "阿比射手Ｇ"
+    },
+    {
+      "index": "12179",
+      "target": "阿比射手ＧＦ"
+    },
+    {
+      "index": "12180",
+      "target": "阿比射手ＧＸ１"
+    },
+    {
+      "index": "12181",
+      "target": "阿比射手ＧＸ２"
+    },
+    {
+      "index": "12182",
+      "target": "阿比射手ＧＸ３"
+    },
+    {
+      "index": "12183",
+      "target": "阿比射手ＧＸ４"
+    },
+    {
+      "index": "12184",
+      "target": "阿比射手ＧＸ５"
+    },
+    {
+      "index": "12185",
+      "target": "秩序劍士Ｇ"
+    },
+    {
+      "index": "12186",
+      "target": "秩序劍士ＧＦ"
+    },
+    {
+      "index": "12187",
+      "target": "秩序劍士ＧＸ１"
+    },
+    {
+      "index": "12188",
+      "target": "秩序劍士ＧＸ２"
+    },
+    {
+      "index": "12189",
+      "target": "秩序劍士ＧＸ３"
+    },
+    {
+      "index": "12190",
+      "target": "秩序劍士ＧＸ４"
+    },
+    {
+      "index": "12191",
+      "target": "秩序劍士ＧＸ５"
+    },
+    {
+      "index": "12192",
+      "target": "秩序射手Ｇ"
+    },
+    {
+      "index": "12193",
+      "target": "秩序射手ＧＦ"
+    },
+    {
+      "index": "12194",
+      "target": "秩序射手ＧＸ１"
+    },
+    {
+      "index": "12195",
+      "target": "秩序射手ＧＸ２"
+    },
+    {
+      "index": "12196",
+      "target": "秩序射手ＧＸ３"
+    },
+    {
+      "index": "12197",
+      "target": "秩序射手ＧＸ４"
+    },
+    {
+      "index": "12198",
+      "target": "秩序射手ＧＸ５"
+    },
+    {
+      "index": "12199",
+      "target": "切尼劍士Ｇ"
+    },
+    {
+      "index": "12200",
+      "target": "切尼劍士ＧＦ"
+    },
+    {
+      "index": "12201",
+      "target": "切尼劍士ＧＸ１"
+    },
+    {
+      "index": "12202",
+      "target": "切尼劍士ＧＸ２"
+    },
+    {
+      "index": "12203",
+      "target": "切尼劍士ＧＸ３"
+    },
+    {
+      "index": "12204",
+      "target": "切尼劍士ＧＸ４"
+    },
+    {
+      "index": "12205",
+      "target": "切尼劍士ＧＸ５"
+    },
+    {
+      "index": "12206",
+      "target": "切尼射手Ｇ"
+    },
+    {
+      "index": "12207",
+      "target": "切尼射手ＧＦ"
+    },
+    {
+      "index": "12208",
+      "target": "切尼射手ＧＸ１"
+    },
+    {
+      "index": "12209",
+      "target": "切尼射手ＧＸ２"
+    },
+    {
+      "index": "12210",
+      "target": "切尼射手ＧＸ３"
+    },
+    {
+      "index": "12211",
+      "target": "切尼射手ＧＸ４"
+    },
+    {
+      "index": "12212",
+      "target": "切尼射手ＧＸ５"
+    },
+    {
+      "index": "12213",
+      "target": "里亞羅劍士ＧＸ１"
+    },
+    {
+      "index": "12214",
+      "target": "里亞羅劍士ＧＸ２"
+    },
+    {
+      "index": "12215",
+      "target": "里亞羅劍士ＧＸ３"
+    },
+    {
+      "index": "12216",
+      "target": "里亞羅劍士ＧＸ４"
+    },
+    {
+      "index": "12217",
+      "target": "里亞羅劍士ＧＸ５"
+    },
+    {
+      "index": "12218",
+      "target": "里亞羅射手ＧＸ１"
+    },
+    {
+      "index": "12219",
+      "target": "里亞羅射手ＧＸ２"
+    },
+    {
+      "index": "12220",
+      "target": "里亞羅射手ＧＸ３"
+    },
+    {
+      "index": "12221",
+      "target": "里亞羅射手ＧＸ４"
+    },
+    {
+      "index": "12222",
+      "target": "里亞羅射手ＧＸ５"
+    },
+    {
+      "index": "12311",
+      "target": "棘茶龍的褐的殻"
+    },
+    {
+      "index": "12312",
+      "target": "照雷鳥的殻"
+    },
+    {
+      "index": "12319",
+      "target": "照雷鳥的殻＋"
+    },
+    {
+      "index": "12326",
+      "target": "照雷鳥的身的體液"
+    },
+    {
+      "index": "12339",
+      "target": "星砂"
+    },
+    {
+      "index": "12340",
+      "target": "月砂"
+    },
+    {
+      "index": "12341",
+      "target": "地砂"
+    },
+    {
+      "index": "12343",
+      "target": "化石砂"
+    },
+    {
+      "index": "12344",
+      "target": "貴族羽筆"
+    },
+    {
+      "index": "12351",
+      "target": "甜飾帶"
+    },
+    {
+      "index": "12352",
+      "target": "白領帶"
+    },
+    {
+      "index": "12355",
+      "target": "照雷鳥的證明"
+    },
+    {
+      "index": "12401",
+      "target": "異国的殻"
+    },
+    {
+      "index": "12412",
+      "target": "砕竜的冠"
+    },
+    {
+      "index": "12446",
+      "target": "絆硬幣"
+    },
+    {
+      "index": "12449",
+      "target": "稀有硬幣"
+    },
+    {
+      "index": "12452",
+      "target": "生錆硬幣"
+    },
+    {
+      "index": "12454",
+      "target": "陽光硬幣"
+    },
+    {
+      "index": "12455",
+      "target": "月光硬幣"
+    },
+    {
+      "index": "12457",
+      "target": "記憶硬幣"
+    },
+    {
+      "index": "12459",
+      "target": "輝耀硬幣"
+    },
+    {
+      "index": "12463",
+      "target": "烈海龍輝耀結晶"
+    },
+    {
+      "index": "12473",
+      "target": "Ｂ星"
+    },
+    {
+      "index": "12511",
+      "target": "櫻夜書"
+    },
+    {
+      "index": "12530",
+      "target": "雷劍士Ｇ"
+    },
+    {
+      "index": "12531",
+      "target": "雷劍士ＧＦ"
+    },
+    {
+      "index": "12532",
+      "target": "雷劍士ＧＸ１"
+    },
+    {
+      "index": "12533",
+      "target": "雷劍士ＧＸ２"
+    },
+    {
+      "index": "12534",
+      "target": "雷劍士ＧＸ３"
+    },
+    {
+      "index": "12535",
+      "target": "雷劍士ＧＸ４"
+    },
+    {
+      "index": "12536",
+      "target": "雷劍士ＧＸ５"
+    },
+    {
+      "index": "12537",
+      "target": "雷的射手Ｇ"
+    },
+    {
+      "index": "12538",
+      "target": "雷的射手ＧＦ"
+    },
+    {
+      "index": "12539",
+      "target": "雷射手ＧＸ１"
+    },
+    {
+      "index": "12540",
+      "target": "雷射手ＧＸ２"
+    },
+    {
+      "index": "12541",
+      "target": "雷射手ＧＸ３"
+    },
+    {
+      "index": "12542",
+      "target": "雷射手ＧＸ４"
+    },
+    {
+      "index": "12543",
+      "target": "雷射手ＧＸ５"
+    },
+    {
+      "index": "12544",
+      "target": "棘龍的橙劍士Ｇ"
+    },
+    {
+      "index": "12545",
+      "target": "棘龍的橙劍士ＧＦ"
+    },
+    {
+      "index": "12546",
+      "target": "棘龍橙劍士ＧＸ１"
+    },
+    {
+      "index": "12547",
+      "target": "棘龍橙劍士ＧＸ２"
+    },
+    {
+      "index": "12548",
+      "target": "棘龍橙劍士ＧＸ３"
+    },
+    {
+      "index": "12549",
+      "target": "棘龍橙劍士ＧＸ４"
+    },
+    {
+      "index": "12550",
+      "target": "棘龍橙劍士ＧＸ５"
+    },
+    {
+      "index": "12551",
+      "target": "棘龍的橙射手Ｇ"
+    },
+    {
+      "index": "12552",
+      "target": "棘龍的橙射手ＧＦ"
+    },
+    {
+      "index": "12553",
+      "target": "棘龍橙射手ＧＸ１"
+    },
+    {
+      "index": "12554",
+      "target": "棘龍橙射手ＧＸ２"
+    },
+    {
+      "index": "12555",
+      "target": "棘龍橙射手ＧＸ３"
+    },
+    {
+      "index": "12556",
+      "target": "棘龍橙射手ＧＸ４"
+    },
+    {
+      "index": "12557",
+      "target": "棘龍橙射手ＧＸ５"
+    },
+    {
+      "index": "12558",
+      "target": "赤沃拉劍士Ｇ"
+    },
+    {
+      "index": "12559",
+      "target": "赤沃拉劍士ＧＦ"
+    },
+    {
+      "index": "12560",
+      "target": "赤沃拉劍士ＧＸ１"
+    },
+    {
+      "index": "12561",
+      "target": "赤沃拉劍士ＧＸ２"
+    },
+    {
+      "index": "12562",
+      "target": "赤沃拉劍士ＧＸ３"
+    },
+    {
+      "index": "12563",
+      "target": "赤沃拉劍士ＧＸ４"
+    },
+    {
+      "index": "12564",
+      "target": "赤沃拉劍士ＧＸ５"
+    },
+    {
+      "index": "12565",
+      "target": "赤沃拉射手Ｇ"
+    },
+    {
+      "index": "12566",
+      "target": "赤沃拉射手ＧＦ"
+    },
+    {
+      "index": "12567",
+      "target": "赤沃拉射手ＧＸ１"
+    },
+    {
+      "index": "12568",
+      "target": "赤沃拉射手ＧＸ２"
+    },
+    {
+      "index": "12569",
+      "target": "赤沃拉射手ＧＸ３"
+    },
+    {
+      "index": "12570",
+      "target": "赤沃拉射手ＧＸ４"
+    },
+    {
+      "index": "12571",
+      "target": "赤沃拉射手ＧＸ５"
+    },
+    {
+      "index": "12572",
+      "target": "意志劍士ＧＸ１"
+    },
+    {
+      "index": "12573",
+      "target": "意志劍士ＧＸ２"
+    },
+    {
+      "index": "12574",
+      "target": "意志劍士ＧＸ３"
+    },
+    {
+      "index": "12575",
+      "target": "意志劍士ＧＸ４"
+    },
+    {
+      "index": "12576",
+      "target": "意志劍士ＧＸ５"
+    },
+    {
+      "index": "12577",
+      "target": "意志射手ＧＸ１"
+    },
+    {
+      "index": "12578",
+      "target": "意志射手ＧＸ２"
+    },
+    {
+      "index": "12579",
+      "target": "意志射手ＧＸ３"
+    },
+    {
+      "index": "12580",
+      "target": "意志射手ＧＸ４"
+    },
+    {
+      "index": "12581",
+      "target": "意志射手ＧＸ５"
+    },
+    {
+      "index": "12582",
+      "target": "眠鳥的白劍士Ｇ"
+    },
+    {
+      "index": "12583",
+      "target": "眠鳥的白劍士ＧＦ"
+    },
+    {
+      "index": "12584",
+      "target": "眠鳥白劍士ＧＸ１"
+    },
+    {
+      "index": "12585",
+      "target": "眠鳥白劍士ＧＸ２"
+    },
+    {
+      "index": "12586",
+      "target": "眠鳥白劍士ＧＸ３"
+    },
+    {
+      "index": "12587",
+      "target": "眠鳥白劍士ＧＸ４"
+    },
+    {
+      "index": "12588",
+      "target": "眠鳥白劍士ＧＸ５"
+    },
+    {
+      "index": "12589",
+      "target": "眠鳥的白射手Ｇ"
+    },
+    {
+      "index": "12590",
+      "target": "眠鳥的白射手ＧＦ"
+    },
+    {
+      "index": "12591",
+      "target": "眠鳥白射手ＧＸ１"
+    },
+    {
+      "index": "12592",
+      "target": "眠鳥白射手ＧＸ２"
+    },
+    {
+      "index": "12593",
+      "target": "眠鳥白射手ＧＸ３"
+    },
+    {
+      "index": "12594",
+      "target": "眠鳥白射手ＧＸ４"
+    },
+    {
+      "index": "12595",
+      "target": "眠鳥白射手ＧＸ５"
+    },
+    {
+      "index": "12596",
+      "target": "可瓦利劍士Ｇ"
+    },
+    {
+      "index": "12597",
+      "target": "可瓦利劍士ＧＦ"
+    },
+    {
+      "index": "12598",
+      "target": "可瓦利劍士ＧＸ１"
+    },
+    {
+      "index": "12599",
+      "target": "可瓦利劍士ＧＸ２"
+    },
+    {
+      "index": "12600",
+      "target": "可瓦利劍士ＧＸ３"
+    },
+    {
+      "index": "12601",
+      "target": "可瓦利劍士ＧＸ４"
+    },
+    {
+      "index": "12602",
+      "target": "可瓦利劍士ＧＸ５"
+    },
+    {
+      "index": "12603",
+      "target": "可瓦利射手Ｇ"
+    },
+    {
+      "index": "12604",
+      "target": "可瓦利射手ＧＦ"
+    },
+    {
+      "index": "12605",
+      "target": "可瓦利射手ＧＸ１"
+    },
+    {
+      "index": "12606",
+      "target": "可瓦利射手ＧＸ２"
+    },
+    {
+      "index": "12607",
+      "target": "可瓦利射手ＧＸ３"
+    },
+    {
+      "index": "12608",
+      "target": "可瓦利射手ＧＸ４"
+    },
+    {
+      "index": "12609",
+      "target": "可瓦利射手ＧＸ５"
+    },
+    {
+      "index": "12610",
+      "target": "托魯波劍士Ｇ"
+    },
+    {
+      "index": "12611",
+      "target": "托魯波劍士ＧＦ"
+    },
+    {
+      "index": "12612",
+      "target": "托魯波劍士ＧＸ１"
+    },
+    {
+      "index": "12613",
+      "target": "托魯波劍士ＧＸ２"
+    },
+    {
+      "index": "12614",
+      "target": "托魯波劍士ＧＸ３"
+    },
+    {
+      "index": "12615",
+      "target": "托魯波劍士ＧＸ４"
+    },
+    {
+      "index": "12616",
+      "target": "托魯波劍士ＧＸ５"
+    },
+    {
+      "index": "12617",
+      "target": "托魯波射手Ｇ"
+    },
+    {
+      "index": "12618",
+      "target": "托魯波射手ＧＦ"
+    },
+    {
+      "index": "12619",
+      "target": "托魯波射手ＧＸ１"
+    },
+    {
+      "index": "12620",
+      "target": "托魯波射手ＧＸ２"
+    },
+    {
+      "index": "12621",
+      "target": "托魯波射手ＧＸ３"
+    },
+    {
+      "index": "12622",
+      "target": "托魯波射手ＧＸ４"
+    },
+    {
+      "index": "12623",
+      "target": "托魯波射手ＧＸ５"
+    },
+    {
+      "index": "12626",
+      "target": "爆破的耐性Ｇ"
+    },
+    {
+      "index": "12627",
+      "target": "介護集中Ｇ"
+    },
+    {
+      "index": "12628",
+      "target": "気配Ｇ"
+    },
+    {
+      "index": "12629",
+      "target": "刃守Ｇ"
+    },
+    {
+      "index": "12630",
+      "target": "銃守Ｇ"
+    },
+    {
+      "index": "12734",
+      "target": "猛烈海龍劍士ＧＸ１"
+    },
+    {
+      "index": "12735",
+      "target": "猛烈海龍劍士ＧＸ２"
+    },
+    {
+      "index": "12736",
+      "target": "猛烈海龍劍士ＧＸ３"
+    },
+    {
+      "index": "12737",
+      "target": "猛烈海龍劍士ＧＸ４"
+    },
+    {
+      "index": "12738",
+      "target": "猛烈海龍劍士ＧＸ５"
+    },
+    {
+      "index": "12739",
+      "target": "猛烈海龍射手ＧＸ１"
+    },
+    {
+      "index": "12740",
+      "target": "猛烈海龍射手ＧＸ２"
+    },
+    {
+      "index": "12741",
+      "target": "猛烈海龍射手ＧＸ３"
+    },
+    {
+      "index": "12742",
+      "target": "猛烈海龍射手ＧＸ４"
+    },
+    {
+      "index": "12743",
+      "target": "猛烈海龍射手ＧＸ５"
+    },
+    {
+      "index": "12744",
+      "target": "狂戦烈海龍劍士ＧＸ１"
+    },
+    {
+      "index": "12745",
+      "target": "狂戦烈海龍劍士ＧＸ２"
+    },
+    {
+      "index": "12746",
+      "target": "狂戦烈海龍劍士ＧＸ３"
+    },
+    {
+      "index": "12747",
+      "target": "狂戦烈海龍劍士ＧＸ４"
+    },
+    {
+      "index": "12748",
+      "target": "狂戦烈海龍劍士ＧＸ５"
+    },
+    {
+      "index": "12749",
+      "target": "狂戦烈海龍射手ＧＸ１"
+    },
+    {
+      "index": "12750",
+      "target": "狂戦烈海龍射手ＧＸ２"
+    },
+    {
+      "index": "12751",
+      "target": "狂戦烈海龍射手ＧＸ３"
+    },
+    {
+      "index": "12752",
+      "target": "狂戦烈海龍射手ＧＸ４"
+    },
+    {
+      "index": "12753",
+      "target": "狂戦烈海龍射手ＧＸ５"
+    },
+    {
+      "index": "12754",
+      "target": "雷阿蘇劍士ＧＸ１"
+    },
+    {
+      "index": "12755",
+      "target": "雷阿蘇劍士ＧＸ２"
+    },
+    {
+      "index": "12756",
+      "target": "雷阿蘇劍士ＧＸ３"
+    },
+    {
+      "index": "12757",
+      "target": "雷阿蘇劍士ＧＸ４"
+    },
+    {
+      "index": "12758",
+      "target": "雷阿蘇劍士ＧＸ５"
+    },
+    {
+      "index": "12759",
+      "target": "雷阿蘇射手ＧＸ１"
+    },
+    {
+      "index": "12760",
+      "target": "雷阿蘇射手ＧＸ２"
+    },
+    {
+      "index": "12761",
+      "target": "雷阿蘇射手ＧＸ３"
+    },
+    {
+      "index": "12762",
+      "target": "雷阿蘇射手ＧＸ４"
+    },
+    {
+      "index": "12763",
+      "target": "雷阿蘇射手ＧＸ５"
+    },
+    {
+      "index": "12764",
+      "target": "護腕基底Ｇ閃光"
+    },
+    {
+      "index": "12765",
+      "target": "護腕基底Ｇ状態"
+    },
+    {
+      "index": "12775",
+      "target": "祭典猫鈴"
+    },
+    {
+      "index": "12779",
+      "target": "破損繩"
+    },
+    {
+      "index": "12780",
+      "target": "木炭繩"
+    },
+    {
+      "index": "12783",
+      "target": "軟布"
+    },
+    {
+      "index": "12804",
+      "target": "重弩的姿勢Ⅱ"
+    },
+    {
+      "index": "12805",
+      "target": "銃槍的姿勢Ⅱ"
+    },
+    {
+      "index": "12806",
+      "target": "大劍的姿勢Ⅱ"
+    },
+    {
+      "index": "12807",
+      "target": "姿勢穿刺棍Ⅱ"
+    },
+    {
+      "index": "12814",
+      "target": "奧迪大的殻"
+    },
+    {
+      "index": "12827",
+      "target": "砦蟹的殻"
+    },
+    {
+      "index": "12833",
+      "target": "砦蟹的根源氷的鱗"
+    },
+    {
+      "index": "12834",
+      "target": "砦蟹的根源的殻"
+    },
+    {
+      "index": "12835",
+      "target": "砦蟹的白氷的毛"
+    },
+    {
+      "index": "12836",
+      "target": "砦蟹的紅寶石"
+    },
+    {
+      "index": "12856",
+      "target": "砦蟹的證明"
+    },
+    {
+      "index": "12857",
+      "target": "猫的闇封印赤"
+    },
+    {
+      "index": "12858",
+      "target": "猫的闇封印青"
+    },
+    {
+      "index": "12859",
+      "target": "猫的闇封印桃"
+    },
+    {
+      "index": "12860",
+      "target": "猫的闇封印白"
+    },
+    {
+      "index": "12861",
+      "target": "猫的闇封印黒"
+    },
+    {
+      "index": "12862",
+      "target": "猫的闇封印金"
+    },
+    {
+      "index": "12863",
+      "target": "闇猫鈕赤"
+    },
+    {
+      "index": "12864",
+      "target": "闇猫鈕青"
+    },
+    {
+      "index": "12865",
+      "target": "闇猫鈕桃"
+    },
+    {
+      "index": "12866",
+      "target": "闇猫鈕白"
+    },
+    {
+      "index": "12867",
+      "target": "闇猫鈕黒"
+    },
+    {
+      "index": "12868",
+      "target": "闇猫鈕金"
+    },
+    {
+      "index": "12879",
+      "target": "鋭集中Ｇ"
+    },
+    {
+      "index": "12880",
+      "target": "採取Ｇ"
+    },
+    {
+      "index": "12937",
+      "target": "怪鳥的青空劍士Ｇ"
+    },
+    {
+      "index": "12938",
+      "target": "怪鳥的青空劍士ＧＦ"
+    },
+    {
+      "index": "12939",
+      "target": "怪鳥青空劍士ＧＸ１"
+    },
+    {
+      "index": "12940",
+      "target": "怪鳥青空劍士ＧＸ２"
+    },
+    {
+      "index": "12941",
+      "target": "怪鳥青空劍士ＧＸ３"
+    },
+    {
+      "index": "12942",
+      "target": "怪鳥青空劍士ＧＸ４"
+    },
+    {
+      "index": "12943",
+      "target": "怪鳥青空劍士ＧＸ５"
+    },
+    {
+      "index": "12944",
+      "target": "怪鳥的青空射手Ｇ"
+    },
+    {
+      "index": "12945",
+      "target": "怪鳥的青空射手ＧＦ"
+    },
+    {
+      "index": "12946",
+      "target": "怪鳥青空射手ＧＸ１"
+    },
+    {
+      "index": "12947",
+      "target": "怪鳥青空射手ＧＸ２"
+    },
+    {
+      "index": "12948",
+      "target": "怪鳥青空射手ＧＸ３"
+    },
+    {
+      "index": "12949",
+      "target": "怪鳥青空射手ＧＸ４"
+    },
+    {
+      "index": "12950",
+      "target": "怪鳥青空射手ＧＸ５"
+    },
+    {
+      "index": "12951",
+      "target": "懼岩劍士Ｇ"
+    },
+    {
+      "index": "12952",
+      "target": "懼岩劍士ＧＦ"
+    },
+    {
+      "index": "12953",
+      "target": "懼岩劍士ＧＸ１"
+    },
+    {
+      "index": "12954",
+      "target": "懼岩劍士ＧＸ２"
+    },
+    {
+      "index": "12955",
+      "target": "懼岩劍士ＧＸ３"
+    },
+    {
+      "index": "12956",
+      "target": "懼岩劍士ＧＸ４"
+    },
+    {
+      "index": "12957",
+      "target": "懼岩劍士ＧＸ５"
+    },
+    {
+      "index": "12958",
+      "target": "赤岩射手Ｇ"
+    },
+    {
+      "index": "12959",
+      "target": "赤岩射手ＧＦ"
+    },
+    {
+      "index": "12960",
+      "target": "赤岩射手ＧＸ１"
+    },
+    {
+      "index": "12961",
+      "target": "赤岩射手ＧＸ２"
+    },
+    {
+      "index": "12962",
+      "target": "赤岩射手ＧＸ３"
+    },
+    {
+      "index": "12963",
+      "target": "赤岩射手ＧＸ４"
+    },
+    {
+      "index": "12964",
+      "target": "赤岩射手ＧＸ５"
+    },
+    {
+      "index": "12965",
+      "target": "劍槍魂下位"
+    },
+    {
+      "index": "12966",
+      "target": "劍槍魂中位"
+    },
+    {
+      "index": "12967",
+      "target": "劍槍魂高級"
+    },
+    {
+      "index": "12968",
+      "target": "劍槍魂頂級"
+    },
+    {
+      "index": "12969",
+      "target": "劍槍飾帶下位"
+    },
+    {
+      "index": "12970",
+      "target": "劍槍飾帶中位"
+    },
+    {
+      "index": "12971",
+      "target": "劍槍飾帶高級"
+    },
+    {
+      "index": "12972",
+      "target": "劍槍功績下位"
+    },
+    {
+      "index": "12973",
+      "target": "劍槍功績中位"
+    },
+    {
+      "index": "12974",
+      "target": "劍槍功績高級"
+    },
+    {
+      "index": "12979",
+      "target": "輝耀赤球"
+    },
+    {
+      "index": "12980",
+      "target": "滑布"
+    },
+    {
+      "index": "13057",
+      "target": "防具的球"
+    },
+    {
+      "index": "13058",
+      "target": "防具的球＋"
+    },
+    {
+      "index": "13060",
+      "target": "防具的硬球"
+    },
+    {
+      "index": "13061",
+      "target": "防具的天球"
+    },
+    {
+      "index": "13062",
+      "target": "防具的真球"
+    },
+    {
+      "index": "13063",
+      "target": "防具的強靭球"
+    },
+    {
+      "index": "13064",
+      "target": "防具的神球"
+    },
+    {
+      "index": "13074",
+      "target": "偉大炎"
+    },
+    {
+      "index": "13082",
+      "target": "青球"
+    },
+    {
+      "index": "13083",
+      "target": "白球"
+    },
+    {
+      "index": "13084",
+      "target": "黒球"
+    },
+    {
+      "index": "13085",
+      "target": "黄球"
+    },
+    {
+      "index": "13185",
+      "target": "Ｅ可片"
+    },
+    {
+      "index": "13204",
+      "target": "征服者劍士Ｇ"
+    },
+    {
+      "index": "13205",
+      "target": "征服者劍士ＧＦ"
+    },
+    {
+      "index": "13206",
+      "target": "征服者劍士ＧＸ１"
+    },
+    {
+      "index": "13207",
+      "target": "征服者劍士ＧＸ２"
+    },
+    {
+      "index": "13208",
+      "target": "征服者劍士ＧＸ３"
+    },
+    {
+      "index": "13209",
+      "target": "征服者劍士ＧＸ４"
+    },
+    {
+      "index": "13210",
+      "target": "征服者劍士ＧＸ５"
+    },
+    {
+      "index": "13211",
+      "target": "皇帝射手Ｇ"
+    },
+    {
+      "index": "13212",
+      "target": "皇帝射手ＧＦ"
+    },
+    {
+      "index": "13213",
+      "target": "皇帝射手ＧＸ１"
+    },
+    {
+      "index": "13214",
+      "target": "皇帝射手ＧＸ２"
+    },
+    {
+      "index": "13215",
+      "target": "皇帝射手ＧＸ３"
+    },
+    {
+      "index": "13216",
+      "target": "皇帝射手ＧＸ４"
+    },
+    {
+      "index": "13217",
+      "target": "皇帝射手ＧＸ５"
+    },
+    {
+      "index": "13218",
+      "target": "雷雷斯劍士ＧＸ１"
+    },
+    {
+      "index": "13219",
+      "target": "雷雷斯劍士ＧＸ２"
+    },
+    {
+      "index": "13220",
+      "target": "雷雷斯劍士ＧＸ３"
+    },
+    {
+      "index": "13221",
+      "target": "雷雷斯劍士ＧＸ４"
+    },
+    {
+      "index": "13222",
+      "target": "雷雷斯劍士ＧＸ５"
+    },
+    {
+      "index": "13223",
+      "target": "雷雷斯射手ＧＸ１"
+    },
+    {
+      "index": "13224",
+      "target": "雷雷斯射手ＧＸ２"
+    },
+    {
+      "index": "13225",
+      "target": "雷雷斯射手ＧＸ３"
+    },
+    {
+      "index": "13226",
+      "target": "雷雷斯射手ＧＸ４"
+    },
+    {
+      "index": "13227",
+      "target": "雷雷斯射手ＧＸ５"
+    },
+    {
+      "index": "13228",
+      "target": "聖劍士ＧＸ１"
+    },
+    {
+      "index": "13229",
+      "target": "聖劍士ＧＸ２"
+    },
+    {
+      "index": "13230",
+      "target": "聖劍士ＧＸ３"
+    },
+    {
+      "index": "13231",
+      "target": "聖劍士ＧＸ４"
+    },
+    {
+      "index": "13232",
+      "target": "聖劍士ＧＸ５"
+    },
+    {
+      "index": "13233",
+      "target": "聖射手ＧＸ１"
+    },
+    {
+      "index": "13234",
+      "target": "聖射手ＧＸ２"
+    },
+    {
+      "index": "13235",
+      "target": "聖射手ＧＸ３"
+    },
+    {
+      "index": "13236",
+      "target": "聖射手ＧＸ４"
+    },
+    {
+      "index": "13237",
+      "target": "聖射手ＧＸ５"
+    },
+    {
+      "index": "13238",
+      "target": "黄金夜書"
+    },
+    {
+      "index": "13253",
+      "target": "帝王劍士Ｇ"
+    },
+    {
+      "index": "13254",
+      "target": "帝王劍士ＧＦ"
+    },
+    {
+      "index": "13255",
+      "target": "帝王劍士ＧＸ１"
+    },
+    {
+      "index": "13256",
+      "target": "帝王劍士ＧＸ２"
+    },
+    {
+      "index": "13257",
+      "target": "帝王劍士ＧＸ３"
+    },
+    {
+      "index": "13258",
+      "target": "帝王劍士ＧＸ４"
+    },
+    {
+      "index": "13259",
+      "target": "帝王劍士ＧＸ５"
+    },
+    {
+      "index": "13260",
+      "target": "帝王射手Ｇ"
+    },
+    {
+      "index": "13261",
+      "target": "帝王射手ＧＦ"
+    },
+    {
+      "index": "13262",
+      "target": "帝王射手ＧＸ１"
+    },
+    {
+      "index": "13263",
+      "target": "帝王射手ＧＸ２"
+    },
+    {
+      "index": "13264",
+      "target": "帝王射手ＧＸ３"
+    },
+    {
+      "index": "13265",
+      "target": "帝王射手ＧＸ４"
+    },
+    {
+      "index": "13266",
+      "target": "帝王射手ＧＸ５"
+    },
+    {
+      "index": "13267",
+      "target": "瑞葉劍士Ｇ"
+    },
+    {
+      "index": "13268",
+      "target": "瑞葉劍士ＧＦ"
+    },
+    {
+      "index": "13269",
+      "target": "瑞葉劍士ＧＸ１"
+    },
+    {
+      "index": "13270",
+      "target": "瑞葉劍士ＧＸ２"
+    },
+    {
+      "index": "13271",
+      "target": "瑞葉劍士ＧＸ３"
+    },
+    {
+      "index": "13272",
+      "target": "瑞葉劍士ＧＸ４"
+    },
+    {
+      "index": "13273",
+      "target": "瑞葉劍士ＧＸ５"
+    },
+    {
+      "index": "13274",
+      "target": "豐玉射手Ｇ"
+    },
+    {
+      "index": "13275",
+      "target": "豐玉射手ＧＦ"
+    },
+    {
+      "index": "13276",
+      "target": "豐玉射手ＧＸ１"
+    },
+    {
+      "index": "13277",
+      "target": "豐玉射手ＧＸ２"
+    },
+    {
+      "index": "13278",
+      "target": "豐玉射手ＧＸ３"
+    },
+    {
+      "index": "13279",
+      "target": "豐玉射手ＧＸ４"
+    },
+    {
+      "index": "13280",
+      "target": "豐玉射手ＧＸ５"
+    },
+    {
+      "index": "13281",
+      "target": "勇士劍士Ｇ"
+    },
+    {
+      "index": "13282",
+      "target": "勇士劍士ＧＦ"
+    },
+    {
+      "index": "13283",
+      "target": "勇士劍士ＧＸ１"
+    },
+    {
+      "index": "13284",
+      "target": "勇士劍士ＧＸ２"
+    },
+    {
+      "index": "13285",
+      "target": "勇士劍士ＧＸ３"
+    },
+    {
+      "index": "13286",
+      "target": "勇士劍士ＧＸ４"
+    },
+    {
+      "index": "13287",
+      "target": "勇士劍士ＧＸ５"
+    },
+    {
+      "index": "13288",
+      "target": "勇士射手Ｇ"
+    },
+    {
+      "index": "13289",
+      "target": "勇士射手ＧＦ"
+    },
+    {
+      "index": "13290",
+      "target": "勇士射手ＧＸ１"
+    },
+    {
+      "index": "13291",
+      "target": "勇士射手ＧＸ２"
+    },
+    {
+      "index": "13292",
+      "target": "勇士射手ＧＸ３"
+    },
+    {
+      "index": "13293",
+      "target": "勇士射手ＧＸ４"
+    },
+    {
+      "index": "13294",
+      "target": "勇士射手ＧＸ５"
+    },
+    {
+      "index": "13295",
+      "target": "諾魯克劍士Ｇ"
+    },
+    {
+      "index": "13296",
+      "target": "諾魯克劍士ＧＦ"
+    },
+    {
+      "index": "13297",
+      "target": "諾魯克劍士ＧＸ１"
+    },
+    {
+      "index": "13298",
+      "target": "諾魯克劍士ＧＸ２"
+    },
+    {
+      "index": "13299",
+      "target": "諾魯克劍士ＧＸ３"
+    },
+    {
+      "index": "13300",
+      "target": "諾魯克劍士ＧＸ４"
+    },
+    {
+      "index": "13301",
+      "target": "諾魯克劍士ＧＸ５"
+    },
+    {
+      "index": "13302",
+      "target": "諾魯克射手Ｇ"
+    },
+    {
+      "index": "13303",
+      "target": "諾魯克射手ＧＦ"
+    },
+    {
+      "index": "13304",
+      "target": "諾魯克射手ＧＸ１"
+    },
+    {
+      "index": "13305",
+      "target": "諾魯克射手ＧＸ２"
+    },
+    {
+      "index": "13306",
+      "target": "諾魯克射手ＧＸ３"
+    },
+    {
+      "index": "13307",
+      "target": "諾魯克射手ＧＸ４"
+    },
+    {
+      "index": "13308",
+      "target": "諾魯克射手ＧＸ５"
+    },
+    {
+      "index": "13313",
+      "target": "Ｇ攻撃草"
+    },
+    {
+      "index": "13314",
+      "target": "Ｇ一閃草"
+    },
+    {
+      "index": "13315",
+      "target": "Ｇ守状態"
+    },
+    {
+      "index": "13316",
+      "target": "Ｇ守弱點特效"
+    },
+    {
+      "index": "13319",
+      "target": "攻撃力的４裝飾品"
+    },
+    {
+      "index": "13323",
+      "target": "黄金書"
+    },
+    {
+      "index": "13369",
+      "target": "憤怒的Ｇ一閃"
+    },
+    {
+      "index": "13390",
+      "target": "引擎調"
+    },
+    {
+      "index": "13459",
+      "target": "紫杜雷的頭"
+    },
+    {
+      "index": "13460",
+      "target": "紫杜雷胸"
+    },
+    {
+      "index": "13461",
+      "target": "紫杜雷腕"
+    },
+    {
+      "index": "13462",
+      "target": "紫杜雷腰"
+    },
+    {
+      "index": "13463",
+      "target": "紫杜雷脚"
+    },
+    {
+      "index": "13464",
+      "target": "青杜雷的頭"
+    },
+    {
+      "index": "13465",
+      "target": "青杜雷胸"
+    },
+    {
+      "index": "13466",
+      "target": "青杜雷腕"
+    },
+    {
+      "index": "13467",
+      "target": "青杜雷腰"
+    },
+    {
+      "index": "13468",
+      "target": "青杜雷脚"
+    },
+    {
+      "index": "13469",
+      "target": "白杜雷的頭"
+    },
+    {
+      "index": "13470",
+      "target": "白杜雷胸"
+    },
+    {
+      "index": "13471",
+      "target": "白杜雷腕"
+    },
+    {
+      "index": "13472",
+      "target": "白杜雷腰"
+    },
+    {
+      "index": "13473",
+      "target": "白杜雷脚"
+    },
+    {
+      "index": "13475",
+      "target": "桃球"
+    },
+    {
+      "index": "13476",
+      "target": "緑球"
+    },
+    {
+      "index": "13477",
+      "target": "紫球"
+    },
+    {
+      "index": "13478",
+      "target": "銀書"
+    },
+    {
+      "index": "13487",
+      "target": "月光枝"
+    },
+    {
+      "index": "13489",
+      "target": "黄金鈴"
+    },
+    {
+      "index": "13545",
+      "target": "艾吉恩劍士Ｇ"
+    },
+    {
+      "index": "13546",
+      "target": "艾吉恩劍士ＧＦ"
+    },
+    {
+      "index": "13547",
+      "target": "艾吉恩劍士ＧＸ１"
+    },
+    {
+      "index": "13548",
+      "target": "艾吉恩劍士ＧＸ２"
+    },
+    {
+      "index": "13549",
+      "target": "艾吉恩劍士ＧＸ３"
+    },
+    {
+      "index": "13550",
+      "target": "艾吉恩劍士ＧＸ４"
+    },
+    {
+      "index": "13551",
+      "target": "艾吉恩劍士ＧＸ５"
+    },
+    {
+      "index": "13552",
+      "target": "艾吉恩射手Ｇ"
+    },
+    {
+      "index": "13553",
+      "target": "艾吉恩射手ＧＦ"
+    },
+    {
+      "index": "13554",
+      "target": "艾吉恩射手ＧＸ１"
+    },
+    {
+      "index": "13555",
+      "target": "艾吉恩射手ＧＸ２"
+    },
+    {
+      "index": "13556",
+      "target": "艾吉恩射手ＧＸ３"
+    },
+    {
+      "index": "13557",
+      "target": "艾吉恩射手ＧＸ４"
+    },
+    {
+      "index": "13558",
+      "target": "艾吉恩射手ＧＸ５"
+    },
+    {
+      "index": "13559",
+      "target": "瓦庫斯劍士Ｇ"
+    },
+    {
+      "index": "13560",
+      "target": "瓦庫斯劍士ＧＦ"
+    },
+    {
+      "index": "13561",
+      "target": "瓦庫斯劍士ＧＸ１"
+    },
+    {
+      "index": "13562",
+      "target": "瓦庫斯劍士ＧＸ２"
+    },
+    {
+      "index": "13563",
+      "target": "瓦庫斯劍士ＧＸ３"
+    },
+    {
+      "index": "13564",
+      "target": "瓦庫斯劍士ＧＸ４"
+    },
+    {
+      "index": "13565",
+      "target": "瓦庫斯劍士ＧＸ５"
+    },
+    {
+      "index": "13566",
+      "target": "瓦庫斯射手Ｇ"
+    },
+    {
+      "index": "13567",
+      "target": "瓦庫斯射手ＧＦ"
+    },
+    {
+      "index": "13568",
+      "target": "瓦庫斯射手ＧＸ１"
+    },
+    {
+      "index": "13569",
+      "target": "瓦庫斯射手ＧＸ２"
+    },
+    {
+      "index": "13570",
+      "target": "瓦庫斯射手ＧＸ３"
+    },
+    {
+      "index": "13571",
+      "target": "瓦庫斯射手ＧＸ４"
+    },
+    {
+      "index": "13572",
+      "target": "瓦庫斯射手ＧＸ５"
+    },
+    {
+      "index": "13607",
+      "target": "抗猛毒"
+    },
+    {
+      "index": "13699",
+      "target": "黄金珍珠"
+    },
+    {
+      "index": "13718",
+      "target": "棘龍的厚緑的鱗"
+    },
+    {
+      "index": "13720",
+      "target": "棘龍的厚緑的殻"
+    },
+    {
+      "index": "13780",
+      "target": "美Ｂ布"
+    },
+    {
+      "index": "13789",
+      "target": "證明先駆"
+    },
+    {
+      "index": "13879",
+      "target": "技能的孔強化ＳＺ"
+    },
+    {
+      "index": "13880",
+      "target": "會心轉換強化ＳＺ"
+    },
+    {
+      "index": "13881",
+      "target": "強強襲強化ＳＺ"
+    },
+    {
+      "index": "13882",
+      "target": "溶解強化ＳＺ"
+    },
+    {
+      "index": "13883",
+      "target": "雷的纏強化ＳＺ"
+    },
+    {
+      "index": "13884",
+      "target": "冰齡強化ＳＺ"
+    },
+    {
+      "index": "13885",
+      "target": "吸血強化ＳＺ"
+    },
+    {
+      "index": "13887",
+      "target": "支援強化ＳＺ"
+    },
+    {
+      "index": "13888",
+      "target": "耳塞的強化ＳＺ"
+    },
+    {
+      "index": "13889",
+      "target": "風圧耐性強化ＳＺ"
+    },
+    {
+      "index": "13890",
+      "target": "耐震的耐性強化ＳＺ"
+    },
+    {
+      "index": "13891",
+      "target": "毒的耐性強化ＳＺ"
+    },
+    {
+      "index": "13892",
+      "target": "麻痺的耐性強化ＳＺ"
+    },
+    {
+      "index": "13893",
+      "target": "睡眠的耐性強化ＳＺ"
+    },
+    {
+      "index": "13904",
+      "target": "裂水龍的劍士Ｇ"
+    },
+    {
+      "index": "13905",
+      "target": "裂水龍的劍士ＧＦ"
+    },
+    {
+      "index": "13906",
+      "target": "裂水龍劍士ＧＸ１"
+    },
+    {
+      "index": "13907",
+      "target": "裂水龍劍士ＧＸ２"
+    },
+    {
+      "index": "13908",
+      "target": "裂水龍劍士ＧＸ３"
+    },
+    {
+      "index": "13909",
+      "target": "裂水龍劍士ＧＸ４"
+    },
+    {
+      "index": "13910",
+      "target": "裂水龍劍士ＧＸ５"
+    },
+    {
+      "index": "13911",
+      "target": "裂水龍的射手Ｇ"
+    },
+    {
+      "index": "13912",
+      "target": "裂水龍的射手ＧＦ"
+    },
+    {
+      "index": "13913",
+      "target": "裂水龍射手ＧＸ１"
+    },
+    {
+      "index": "13914",
+      "target": "裂水龍射手ＧＸ２"
+    },
+    {
+      "index": "13915",
+      "target": "裂水龍射手ＧＸ３"
+    },
+    {
+      "index": "13916",
+      "target": "裂水龍射手ＧＸ４"
+    },
+    {
+      "index": "13917",
+      "target": "裂水龍射手ＧＸ５"
+    },
+    {
+      "index": "13973",
+      "target": "精的羽"
+    },
+    {
+      "index": "13983",
+      "target": "甜情熱"
+    },
+    {
+      "index": "14041",
+      "target": "尾晶蠍的紫的殻"
+    },
+    {
+      "index": "14042",
+      "target": "尾晶蠍的結晶的體液"
+    },
+    {
+      "index": "14043",
+      "target": "尾晶蠍的奇的毛"
+    },
+    {
+      "index": "14044",
+      "target": "尾晶蠍的極限的體液"
+    },
+    {
+      "index": "14046",
+      "target": "尾晶蠍的大結晶"
+    },
+    {
+      "index": "14068",
+      "target": "生錆舊劍"
+    },
+    {
+      "index": "14093",
+      "target": "美徽章"
+    },
+    {
+      "index": "14097",
+      "target": "特殊飾帶"
+    },
+    {
+      "index": "14098",
+      "target": "深臼"
+    },
+    {
+      "index": "14127",
+      "target": "弾節約強化ＳＺ"
+    },
+    {
+      "index": "14128",
+      "target": "防御強化ＳＺ"
+    },
+    {
+      "index": "14129",
+      "target": "適應強化ＳＺ"
+    },
+    {
+      "index": "14130",
+      "target": "激勵強化ＳＺ"
+    },
+    {
+      "index": "14134",
+      "target": "雷的Ｇ纏"
+    },
+    {
+      "index": "14135",
+      "target": "Ｇ激勵"
+    },
+    {
+      "index": "14136",
+      "target": "燃燒崖劍士ＧＸ１"
+    },
+    {
+      "index": "14137",
+      "target": "燃燒崖劍士ＧＸ２"
+    },
+    {
+      "index": "14138",
+      "target": "燃燒崖劍士ＧＸ３"
+    },
+    {
+      "index": "14139",
+      "target": "燃燒崖劍士ＧＸ４"
+    },
+    {
+      "index": "14140",
+      "target": "燃燒崖劍士ＧＸ５"
+    },
+    {
+      "index": "14141",
+      "target": "深紅崖射手ＧＸ１"
+    },
+    {
+      "index": "14142",
+      "target": "深紅崖射手ＧＸ２"
+    },
+    {
+      "index": "14143",
+      "target": "深紅崖射手ＧＸ３"
+    },
+    {
+      "index": "14144",
+      "target": "深紅崖射手ＧＸ４"
+    },
+    {
+      "index": "14145",
+      "target": "深紅崖射手ＧＸ５"
+    },
+    {
+      "index": "14146",
+      "target": "培西歐劍士Ｇ"
+    },
+    {
+      "index": "14147",
+      "target": "培西歐劍士ＧＦ"
+    },
+    {
+      "index": "14148",
+      "target": "培西歐劍士ＧＸ１"
+    },
+    {
+      "index": "14149",
+      "target": "培西歐劍士ＧＸ２"
+    },
+    {
+      "index": "14150",
+      "target": "培西歐劍士ＧＸ３"
+    },
+    {
+      "index": "14151",
+      "target": "培西歐劍士ＧＸ４"
+    },
+    {
+      "index": "14152",
+      "target": "培西歐劍士ＧＸ５"
+    },
+    {
+      "index": "14153",
+      "target": "培西歐射手Ｇ"
+    },
+    {
+      "index": "14154",
+      "target": "培西歐射手ＧＦ"
+    },
+    {
+      "index": "14155",
+      "target": "培西歐射手ＧＸ１"
+    },
+    {
+      "index": "14156",
+      "target": "培西歐射手ＧＸ２"
+    },
+    {
+      "index": "14157",
+      "target": "培西歐射手ＧＸ３"
+    },
+    {
+      "index": "14158",
+      "target": "培西歐射手ＧＸ４"
+    },
+    {
+      "index": "14159",
+      "target": "培西歐射手ＧＸ５"
+    },
+    {
+      "index": "14161",
+      "target": "橙球"
+    },
+    {
+      "index": "14268",
+      "target": "冰狐龍腱"
+    },
+    {
+      "index": "14270",
+      "target": "黄金針"
+    },
+    {
+      "index": "14275",
+      "target": "冰狐龍的鉄的爪"
+    },
+    {
+      "index": "14277",
+      "target": "冰狐龍Ｚ針"
+    },
+    {
+      "index": "14278",
+      "target": "冰狐龍Ｚ中位針"
+    },
+    {
+      "index": "14279",
+      "target": "冰狐龍Ｚ上位針"
+    },
+    {
+      "index": "14280",
+      "target": "冰狐龍Ｚ頂級針"
+    },
+    {
+      "index": "14291",
+      "target": "反射強化ＳＺ"
+    },
+    {
+      "index": "14292",
+      "target": "時装強化ＳＺ"
+    },
+    {
+      "index": "14293",
+      "target": "獵人的Ｓ書１"
+    },
+    {
+      "index": "14294",
+      "target": "獵人的Ｓ書２"
+    },
+    {
+      "index": "14295",
+      "target": "獵人的Ｓ書３"
+    },
+    {
+      "index": "14296",
+      "target": "獵人的Ｓ書４"
+    },
+    {
+      "index": "14297",
+      "target": "獵人的Ｓ書５"
+    },
+    {
+      "index": "14300",
+      "target": "夏托雷劍士Ｇ"
+    },
+    {
+      "index": "14301",
+      "target": "夏托雷劍士ＧＦ"
+    },
+    {
+      "index": "14302",
+      "target": "夏托雷劍士ＧＸ１"
+    },
+    {
+      "index": "14303",
+      "target": "夏托雷劍士ＧＸ２"
+    },
+    {
+      "index": "14304",
+      "target": "夏托雷劍士ＧＸ３"
+    },
+    {
+      "index": "14305",
+      "target": "夏托雷劍士ＧＸ４"
+    },
+    {
+      "index": "14306",
+      "target": "夏托雷劍士ＧＸ５"
+    },
+    {
+      "index": "14307",
+      "target": "夏托雷射手Ｇ"
+    },
+    {
+      "index": "14308",
+      "target": "夏托雷射手ＧＦ"
+    },
+    {
+      "index": "14309",
+      "target": "夏托雷射手ＧＸ１"
+    },
+    {
+      "index": "14310",
+      "target": "夏托雷射手ＧＸ２"
+    },
+    {
+      "index": "14311",
+      "target": "夏托雷射手ＧＸ３"
+    },
+    {
+      "index": "14312",
+      "target": "夏托雷射手ＧＸ４"
+    },
+    {
+      "index": "14313",
+      "target": "夏托雷射手ＧＸ５"
+    },
+    {
+      "index": "14315",
+      "target": "獵人的Ｓ書６"
+    },
+    {
+      "index": "14339",
+      "target": "雷的纏"
+    },
+    {
+      "index": "14373",
+      "target": "溟龍的紫的毛"
+    },
+    {
+      "index": "14376",
+      "target": "溟龍軟腱"
+    },
+    {
+      "index": "14380",
+      "target": "溟龍的赤的棘"
+    },
+    {
+      "index": "14384",
+      "target": "溟龍的ｚ脚"
+    },
+    {
+      "index": "14385",
+      "target": "溟龍的ｚ中位脚"
+    },
+    {
+      "index": "14386",
+      "target": "溟龍的ｚ高級脚"
+    },
+    {
+      "index": "14387",
+      "target": "溟龍的ｚ頂級脚"
+    },
+    {
+      "index": "14390",
+      "target": "雷的白黒龍的鱗"
+    },
+    {
+      "index": "14391",
+      "target": "雷的白黒龍的殻"
+    },
+    {
+      "index": "14443",
+      "target": "ＳＰ書"
+    },
+    {
+      "index": "14450",
+      "target": "Ｇ一閃守"
+    },
+    {
+      "index": "14451",
+      "target": "Ｇ強靭界"
+    },
+    {
+      "index": "14452",
+      "target": "Ｇ弾界"
+    },
+    {
+      "index": "14453",
+      "target": "Ｇ閃光纏"
+    },
+    {
+      "index": "14454",
+      "target": "白黒龍劍士ＧＸ１"
+    },
+    {
+      "index": "14455",
+      "target": "白黒龍劍士ＧＸ２"
+    },
+    {
+      "index": "14456",
+      "target": "白黒龍劍士ＧＸ３"
+    },
+    {
+      "index": "14457",
+      "target": "白黒龍劍士ＧＸ４"
+    },
+    {
+      "index": "14458",
+      "target": "白黒龍劍士ＧＸ５"
+    },
+    {
+      "index": "14459",
+      "target": "白黒龍射手ＧＸ１"
+    },
+    {
+      "index": "14460",
+      "target": "白黒龍射手ＧＸ２"
+    },
+    {
+      "index": "14461",
+      "target": "白黒龍射手ＧＸ３"
+    },
+    {
+      "index": "14462",
+      "target": "白黒龍射手ＧＸ４"
+    },
+    {
+      "index": "14463",
+      "target": "白黒龍射手ＧＸ５"
+    },
+    {
+      "index": "14464",
+      "target": "阿魯謬劍士Ｇ"
+    },
+    {
+      "index": "14465",
+      "target": "阿魯謬劍士ＧＦ"
+    },
+    {
+      "index": "14466",
+      "target": "阿魯謬劍士ＧＸ１"
+    },
+    {
+      "index": "14467",
+      "target": "阿魯謬劍士ＧＸ２"
+    },
+    {
+      "index": "14468",
+      "target": "阿魯謬劍士ＧＸ３"
+    },
+    {
+      "index": "14469",
+      "target": "阿魯謬劍士ＧＸ４"
+    },
+    {
+      "index": "14470",
+      "target": "阿魯謬劍士ＧＸ５"
+    },
+    {
+      "index": "14471",
+      "target": "阿魯謬射手Ｇ"
+    },
+    {
+      "index": "14472",
+      "target": "阿魯謬射手ＧＦ"
+    },
+    {
+      "index": "14473",
+      "target": "阿魯謬射手ＧＸ１"
+    },
+    {
+      "index": "14474",
+      "target": "阿魯謬射手ＧＸ２"
+    },
+    {
+      "index": "14475",
+      "target": "阿魯謬射手ＧＸ３"
+    },
+    {
+      "index": "14476",
+      "target": "阿魯謬射手ＧＸ４"
+    },
+    {
+      "index": "14477",
+      "target": "阿魯謬射手ＧＸ５"
+    },
+    {
+      "index": "14492",
+      "target": "健強化ＳＺ"
+    },
+    {
+      "index": "14518",
+      "target": "水龍的ｚ中位的頭"
+    },
+    {
+      "index": "14519",
+      "target": "水龍的ｚ高級的頭"
+    },
+    {
+      "index": "14520",
+      "target": "水龍的ｚ頂級的頭"
+    },
+    {
+      "index": "14554",
+      "target": "里布爾劍士Ｇ"
+    },
+    {
+      "index": "14555",
+      "target": "里布爾劍士ＧＦ"
+    },
+    {
+      "index": "14556",
+      "target": "里布爾劍士ＧＸ１"
+    },
+    {
+      "index": "14557",
+      "target": "里布爾劍士ＧＸ２"
+    },
+    {
+      "index": "14558",
+      "target": "里布爾劍士ＧＸ３"
+    },
+    {
+      "index": "14559",
+      "target": "里布爾劍士ＧＸ４"
+    },
+    {
+      "index": "14560",
+      "target": "里布爾劍士ＧＸ５"
+    },
+    {
+      "index": "14561",
+      "target": "里布爾射手Ｇ"
+    },
+    {
+      "index": "14562",
+      "target": "里布爾射手ＧＦ"
+    },
+    {
+      "index": "14563",
+      "target": "里布爾射手ＧＸ１"
+    },
+    {
+      "index": "14564",
+      "target": "里布爾射手ＧＸ２"
+    },
+    {
+      "index": "14565",
+      "target": "里布爾射手ＧＸ３"
+    },
+    {
+      "index": "14566",
+      "target": "里布爾射手ＧＸ４"
+    },
+    {
+      "index": "14567",
+      "target": "里布爾射手ＧＸ５"
+    },
+    {
+      "index": "14585",
+      "target": "珍珠徽章"
+    },
+    {
+      "index": "14616",
+      "target": "技能的孔強化紋章"
+    },
+    {
+      "index": "14617",
+      "target": "紋章會心轉換強化"
+    },
+    {
+      "index": "14619",
+      "target": "紋章的溶解強化"
+    },
+    {
+      "index": "14620",
+      "target": "雷的纏強化紋章"
+    },
+    {
+      "index": "14621",
+      "target": "冰齡強化紋章"
+    },
+    {
+      "index": "14622",
+      "target": "紋章的吸血強化"
+    },
+    {
+      "index": "14624",
+      "target": "紋章支援強化"
+    },
+    {
+      "index": "14625",
+      "target": "紋章聴覚粉強化"
+    },
+    {
+      "index": "14626",
+      "target": "紋章的風圧耐性強化"
+    },
+    {
+      "index": "14627",
+      "target": "耐震的耐性強化紋章"
+    },
+    {
+      "index": "14628",
+      "target": "毒的耐性強化紋章"
+    },
+    {
+      "index": "14629",
+      "target": "麻痺的耐性強化紋章"
+    },
+    {
+      "index": "14630",
+      "target": "睡眠的耐性強化紋章"
+    },
+    {
+      "index": "14631",
+      "target": "紋章的弾節約強化"
+    },
+    {
+      "index": "14632",
+      "target": "紋章的防御強化"
+    },
+    {
+      "index": "14633",
+      "target": "紋章適應強化"
+    },
+    {
+      "index": "14634",
+      "target": "紋章的激勵強化"
+    },
+    {
+      "index": "14635",
+      "target": "紋章的反射強化"
+    },
+    {
+      "index": "14636",
+      "target": "紋章的時装強化"
+    },
+    {
+      "index": "14637",
+      "target": "紋章健強化"
+    },
+    {
+      "index": "14639",
+      "target": "天廊的ｚ紋章素材"
+    },
+    {
+      "index": "14759",
+      "target": "里茲維劍士ＧＸ１"
+    },
+    {
+      "index": "14760",
+      "target": "里茲維劍士ＧＸ２"
+    },
+    {
+      "index": "14761",
+      "target": "里茲維劍士ＧＸ３"
+    },
+    {
+      "index": "14762",
+      "target": "里茲維劍士ＧＸ４"
+    },
+    {
+      "index": "14763",
+      "target": "里茲維劍士ＧＸ５"
+    },
+    {
+      "index": "14764",
+      "target": "里茲維射手ＧＸ１"
+    },
+    {
+      "index": "14765",
+      "target": "里茲維射手ＧＸ２"
+    },
+    {
+      "index": "14766",
+      "target": "里茲維射手ＧＸ３"
+    },
+    {
+      "index": "14767",
+      "target": "里茲維射手ＧＸ４"
+    },
+    {
+      "index": "14768",
+      "target": "里茲維射手ＧＸ５"
+    },
+    {
+      "index": "14769",
+      "target": "衝劍士ＧＸ１"
+    },
+    {
+      "index": "14770",
+      "target": "衝劍士ＧＸ２"
+    },
+    {
+      "index": "14771",
+      "target": "衝劍士ＧＸ３"
+    },
+    {
+      "index": "14772",
+      "target": "衝劍士ＧＸ４"
+    },
+    {
+      "index": "14773",
+      "target": "衝劍士ＧＸ５"
+    },
+    {
+      "index": "14774",
+      "target": "衝射手ＧＸ１"
+    },
+    {
+      "index": "14775",
+      "target": "衝射手ＧＸ２"
+    },
+    {
+      "index": "14776",
+      "target": "衝射手ＧＸ３"
+    },
+    {
+      "index": "14777",
+      "target": "衝射手ＧＸ４"
+    },
+    {
+      "index": "14778",
+      "target": "衝射手ＧＸ５"
+    },
+    {
+      "index": "14779",
+      "target": "里茲維劍士Ｇ"
+    },
+    {
+      "index": "14780",
+      "target": "里茲維劍士ＧＦ"
+    },
+    {
+      "index": "14781",
+      "target": "里茲維射手Ｇ"
+    },
+    {
+      "index": "14782",
+      "target": "里茲維射手ＧＦ"
+    },
+    {
+      "index": "14783",
+      "target": "匠２Ｇ"
+    },
+    {
+      "index": "14787",
+      "target": "Ｇ攻撃流"
+    },
+    {
+      "index": "14788",
+      "target": "Ｇ攻撃劍"
+    },
+    {
+      "index": "14789",
+      "target": "Ｇ攻撃纏"
+    },
+    {
+      "index": "14790",
+      "target": "Ｇ攻撃突進"
+    },
+    {
+      "index": "14802",
+      "target": "幽闇強化ＳＺ"
+    },
+    {
+      "index": "14803",
+      "target": "興奮護符"
+    },
+    {
+      "index": "14869",
+      "target": "照雷鳥滿羽飾"
+    },
+    {
+      "index": "14870",
+      "target": "照雷鳥可愛羽飾"
+    },
+    {
+      "index": "14888",
+      "target": "姿勢劍槍Ⅰ"
+    },
+    {
+      "index": "14889",
+      "target": "姿勢劍槍Ⅱ"
+    },
+    {
+      "index": "14890",
+      "target": "姿勢舞Ⅱ"
+    },
+    {
+      "index": "14901",
+      "target": "證明情熱"
+    },
+    {
+      "index": "14902",
+      "target": "證明愛"
+    },
+    {
+      "index": "14915",
+      "target": "可里瓦劍士Ｇ"
+    },
+    {
+      "index": "14916",
+      "target": "可里瓦劍士ＧＦ"
+    },
+    {
+      "index": "14917",
+      "target": "可里瓦劍士ＧＸ１"
+    },
+    {
+      "index": "14918",
+      "target": "可里瓦劍士ＧＸ２"
+    },
+    {
+      "index": "14919",
+      "target": "可里瓦劍士ＧＸ３"
+    },
+    {
+      "index": "14920",
+      "target": "可里瓦劍士ＧＸ４"
+    },
+    {
+      "index": "14921",
+      "target": "可里瓦劍士ＧＸ５"
+    },
+    {
+      "index": "14922",
+      "target": "可里瓦射手Ｇ"
+    },
+    {
+      "index": "14923",
+      "target": "可里瓦射手ＧＦ"
+    },
+    {
+      "index": "14924",
+      "target": "可里瓦射手ＧＸ１"
+    },
+    {
+      "index": "14925",
+      "target": "可里瓦射手ＧＸ２"
+    },
+    {
+      "index": "14926",
+      "target": "可里瓦射手ＧＸ３"
+    },
+    {
+      "index": "14927",
+      "target": "可里瓦射手ＧＸ４"
+    },
+    {
+      "index": "14928",
+      "target": "可里瓦射手ＧＸ５"
+    },
+    {
+      "index": "14929",
+      "target": "博恩劍士ＧＸ１"
+    },
+    {
+      "index": "14930",
+      "target": "博恩劍士ＧＸ２"
+    },
+    {
+      "index": "14931",
+      "target": "博恩劍士ＧＸ３"
+    },
+    {
+      "index": "14932",
+      "target": "博恩劍士ＧＸ４"
+    },
+    {
+      "index": "14933",
+      "target": "博恩劍士ＧＸ５"
+    },
+    {
+      "index": "14934",
+      "target": "博恩射手ＧＸ１"
+    },
+    {
+      "index": "14935",
+      "target": "博恩射手ＧＸ２"
+    },
+    {
+      "index": "14936",
+      "target": "博恩射手ＧＸ３"
+    },
+    {
+      "index": "14937",
+      "target": "博恩射手ＧＸ４"
+    },
+    {
+      "index": "14938",
+      "target": "博恩射手ＧＸ５"
+    },
+    {
+      "index": "14940",
+      "target": "Ｇ異常纏"
+    },
+    {
+      "index": "14945",
+      "target": "紋章的幽闇強化"
+    },
+    {
+      "index": "14979",
+      "target": "鎧竜的Ｚ腕"
+    },
+    {
+      "index": "14980",
+      "target": "鎧竜的Ｚ中級腕"
+    },
+    {
+      "index": "14981",
+      "target": "鎧竜的Ｚ高級腕"
+    },
+    {
+      "index": "14982",
+      "target": "鎧竜的Ｚ頂級腕"
+    },
+    {
+      "index": "15022",
+      "target": "至高卷軸"
+    },
+    {
+      "index": "15029",
+      "target": "伝奇Ⅱ轉蛋代幣"
+    },
+    {
+      "index": "15045",
+      "target": "感謝汝Ⅹ"
+    },
+    {
+      "index": "15070",
+      "target": "極烈海龍劍士ＧＸ１"
+    },
+    {
+      "index": "15071",
+      "target": "極烈海龍劍士ＧＸ２"
+    },
+    {
+      "index": "15072",
+      "target": "極烈海龍劍士ＧＸ３"
+    },
+    {
+      "index": "15073",
+      "target": "極烈海龍劍士ＧＸ４"
+    },
+    {
+      "index": "15074",
+      "target": "極烈海龍劍士ＧＸ５"
+    },
+    {
+      "index": "15075",
+      "target": "極烈海龍射手ＧＸ１"
+    },
+    {
+      "index": "15076",
+      "target": "極烈海龍射手ＧＸ２"
+    },
+    {
+      "index": "15077",
+      "target": "極烈海龍射手ＧＸ３"
+    },
+    {
+      "index": "15078",
+      "target": "極烈海龍射手ＧＸ４"
+    },
+    {
+      "index": "15079",
+      "target": "極烈海龍射手ＧＸ５"
+    },
+    {
+      "index": "15080",
+      "target": "可西烏斯劍士ＧＸ１"
+    },
+    {
+      "index": "15081",
+      "target": "可西烏斯劍士ＧＸ２"
+    },
+    {
+      "index": "15082",
+      "target": "可西烏斯劍士ＧＸ３"
+    },
+    {
+      "index": "15083",
+      "target": "可西烏斯劍士ＧＸ４"
+    },
+    {
+      "index": "15084",
+      "target": "可西烏斯劍士ＧＸ５"
+    },
+    {
+      "index": "15085",
+      "target": "可西烏斯射手ＧＸ１"
+    },
+    {
+      "index": "15086",
+      "target": "可西烏斯射手ＧＸ２"
+    },
+    {
+      "index": "15087",
+      "target": "可西烏斯射手ＧＸ３"
+    },
+    {
+      "index": "15088",
+      "target": "可西烏斯射手ＧＸ４"
+    },
+    {
+      "index": "15089",
+      "target": "可西烏斯射手ＧＸ５"
+    },
+    {
+      "index": "15092",
+      "target": "騎乘Ｇ間隔"
+    },
+    {
+      "index": "15093",
+      "target": "Ｇ間隔柔"
+    },
+    {
+      "index": "15095",
+      "target": "Ｇ間隔穏"
+    },
+    {
+      "index": "15100",
+      "target": "魂強化ＳＺ"
+    },
+    {
+      "index": "15101",
+      "target": "紋章的魂強化"
+    },
+    {
+      "index": "15178",
+      "target": "感謝汝XI"
+    },
+    {
+      "index": "15213",
+      "target": "姿勢舞Ⅲ"
+    },
+    {
+      "index": "15214",
+      "target": "姿勢舞Ⅳ"
+    },
+    {
+      "index": "15215",
+      "target": "姿勢舞Ⅴ"
+    },
+    {
+      "index": "15232",
+      "target": "Ｇ異常守"
+    },
+    {
+      "index": "15233",
+      "target": "山猫劍士ＧＸ１"
+    },
+    {
+      "index": "15234",
+      "target": "山猫劍士ＧＸ２"
+    },
+    {
+      "index": "15235",
+      "target": "山猫劍士ＧＸ３"
+    },
+    {
+      "index": "15236",
+      "target": "山猫劍士ＧＸ４"
+    },
+    {
+      "index": "15237",
+      "target": "山猫劍士ＧＸ５"
+    },
+    {
+      "index": "15238",
+      "target": "山猫射手ＧＸ１"
+    },
+    {
+      "index": "15239",
+      "target": "山猫射手ＧＸ２"
+    },
+    {
+      "index": "15240",
+      "target": "山猫射手ＧＸ３"
+    },
+    {
+      "index": "15241",
+      "target": "山猫射手ＧＸ４"
+    },
+    {
+      "index": "15242",
+      "target": "山猫射手ＧＸ５"
+    },
+    {
+      "index": "15243",
+      "target": "辛多爾劍士ＧＸ１"
+    },
+    {
+      "index": "15244",
+      "target": "辛多爾劍士ＧＸ２"
+    },
+    {
+      "index": "15245",
+      "target": "辛多爾劍士ＧＸ３"
+    },
+    {
+      "index": "15246",
+      "target": "辛多爾劍士ＧＸ４"
+    },
+    {
+      "index": "15247",
+      "target": "辛多爾劍士ＧＸ５"
+    },
+    {
+      "index": "15248",
+      "target": "辛多爾射手ＧＸ１"
+    },
+    {
+      "index": "15249",
+      "target": "辛多爾射手ＧＸ２"
+    },
+    {
+      "index": "15250",
+      "target": "辛多爾射手ＧＸ３"
+    },
+    {
+      "index": "15251",
+      "target": "辛多爾射手ＧＸ４"
+    },
+    {
+      "index": "15252",
+      "target": "辛多爾射手ＧＸ５"
+    },
+    {
+      "index": "15256",
+      "target": "磁界銃魂下位"
+    },
+    {
+      "index": "15257",
+      "target": "磁界銃魂中級"
+    },
+    {
+      "index": "15258",
+      "target": "磁界銃魂高級"
+    },
+    {
+      "index": "15259",
+      "target": "磁界銃魂頂級"
+    },
+    {
+      "index": "15260",
+      "target": "磁界銃飾帶下位"
+    },
+    {
+      "index": "15261",
+      "target": "磁界銃飾帶中級"
+    },
+    {
+      "index": "15262",
+      "target": "磁界銃飾帶高級"
+    },
+    {
+      "index": "15263",
+      "target": "磁界銃功績下位"
+    },
+    {
+      "index": "15264",
+      "target": "磁界銃功績中級"
+    },
+    {
+      "index": "15265",
+      "target": "磁界銃功績高級"
+    },
+    {
+      "index": "15267",
+      "target": "秘傳印章片手劍"
+    },
+    {
+      "index": "15268",
+      "target": "雙劍秘傳印章"
+    },
+    {
+      "index": "15269",
+      "target": "大劍秘傳印章"
+    },
+    {
+      "index": "15270",
+      "target": "太刀秘傳印章"
+    },
+    {
+      "index": "15271",
+      "target": "秘傳印章鎚"
+    },
+    {
+      "index": "15272",
+      "target": "狩獵笛秘傳印章"
+    },
+    {
+      "index": "15273",
+      "target": "長槍秘傳印章"
+    },
+    {
+      "index": "15274",
+      "target": "銃槍秘傳印章"
+    },
+    {
+      "index": "15275",
+      "target": "秘傳印章劍槍"
+    },
+    {
+      "index": "15276",
+      "target": "秘傳印章穿刺棍"
+    },
+    {
+      "index": "15277",
+      "target": "秘傳印章磁界銃"
+    },
+    {
+      "index": "15278",
+      "target": "輕弩秘傳印章"
+    },
+    {
+      "index": "15279",
+      "target": "重弩秘傳印章"
+    },
+    {
+      "index": "15280",
+      "target": "弓秘傳印章"
+    },
+    {
+      "index": "15288",
+      "target": "極位紋章印章"
+    },
+    {
+      "index": "15377",
+      "target": "黄的羽"
+    },
+    {
+      "index": "15378",
+      "target": "毛絨黄的羽"
+    },
+    {
+      "index": "15382",
+      "target": "爆霧龍的圧力的血"
+    },
+    {
+      "index": "15391",
+      "target": "爆霧龍的Ｚ腕"
+    },
+    {
+      "index": "15392",
+      "target": "爆霧龍的Ｚ中級腕"
+    },
+    {
+      "index": "15393",
+      "target": "爆霧龍的Ｚ高級腕"
+    },
+    {
+      "index": "15394",
+      "target": "爆霧龍的Ｚ頂級腕"
+    },
+    {
+      "index": "15436",
+      "target": "猫的闇通行赤"
+    },
+    {
+      "index": "15437",
+      "target": "猫的闇通行青"
+    },
+    {
+      "index": "15438",
+      "target": "闇猫通行桃"
+    },
+    {
+      "index": "15439",
+      "target": "猫的闇通行白"
+    },
+    {
+      "index": "15440",
+      "target": "猫的闇通行黒"
+    },
+    {
+      "index": "15441",
+      "target": "猫的闇通行金"
+    },
+    {
+      "index": "15442",
+      "target": "闇猫環赤"
+    },
+    {
+      "index": "15443",
+      "target": "闇猫環青"
+    },
+    {
+      "index": "15444",
+      "target": "闇猫環桃"
+    },
+    {
+      "index": "15445",
+      "target": "闇猫環白"
+    },
+    {
+      "index": "15446",
+      "target": "闇猫環黒"
+    },
+    {
+      "index": "15447",
+      "target": "闇猫環金"
+    },
+    {
+      "index": "15488",
+      "target": "噬血龍的ｚ的頭"
+    },
+    {
+      "index": "15489",
+      "target": "噬血龍的ｚ中位的頭"
+    },
+    {
+      "index": "15490",
+      "target": "噬血龍的ｚ高級的頭"
+    },
+    {
+      "index": "15491",
+      "target": "噬血龍的ｚ頂級的頭"
+    },
+    {
+      "index": "15530",
+      "target": "Ｇ炎耐性"
+    },
+    {
+      "index": "15531",
+      "target": "Ｇ狂體力"
+    },
+    {
+      "index": "15532",
+      "target": "Ｇ狂纏"
+    },
+    {
+      "index": "15533",
+      "target": "Ｇ狂強襲"
+    },
+    {
+      "index": "15534",
+      "target": "Ｇ狂突進"
+    },
+    {
+      "index": "15535",
+      "target": "Ｇ狂刃"
+    },
+    {
+      "index": "15539",
+      "target": "Ｇ攻撃異常"
+    },
+    {
+      "index": "15556",
+      "target": "Ｇ幽闇纏"
+    },
+    {
+      "index": "15557",
+      "target": "Ｇ間隔節約"
+    },
+    {
+      "index": "15559",
+      "target": "黒熔岩"
+    },
+    {
+      "index": "15566",
+      "target": "突進強化ＳＺ"
+    },
+    {
+      "index": "15767",
+      "target": "紋章的突進強化"
+    },
+    {
+      "index": "15829",
+      "target": "比塔劍士ＧＸ１"
+    },
+    {
+      "index": "15830",
+      "target": "比塔劍士ＧＸ２"
+    },
+    {
+      "index": "15831",
+      "target": "比塔劍士ＧＸ３"
+    },
+    {
+      "index": "15832",
+      "target": "比塔劍士ＧＸ４"
+    },
+    {
+      "index": "15833",
+      "target": "比塔劍士ＧＸ５"
+    },
+    {
+      "index": "15834",
+      "target": "比塔射手ＧＸ１"
+    },
+    {
+      "index": "15835",
+      "target": "比塔射手ＧＸ２"
+    },
+    {
+      "index": "15836",
+      "target": "比塔射手ＧＸ３"
+    },
+    {
+      "index": "15837",
+      "target": "比塔射手ＧＸ４"
+    },
+    {
+      "index": "15838",
+      "target": "比塔射手ＧＸ５"
+    },
+    {
+      "index": "15839",
+      "target": "科雷普托劍士ＧＸ１"
+    },
+    {
+      "index": "15840",
+      "target": "科雷普托劍士ＧＸ２"
+    },
+    {
+      "index": "15841",
+      "target": "科雷普托劍士ＧＸ３"
+    },
+    {
+      "index": "15842",
+      "target": "科雷普托劍士ＧＸ４"
+    },
+    {
+      "index": "15843",
+      "target": "科雷普托劍士ＧＸ５"
+    },
+    {
+      "index": "15844",
+      "target": "科雷普托射手ＧＸ１"
+    },
+    {
+      "index": "15845",
+      "target": "科雷普托射手ＧＸ２"
+    },
+    {
+      "index": "15846",
+      "target": "科雷普托射手ＧＸ３"
+    },
+    {
+      "index": "15847",
+      "target": "科雷普托射手ＧＸ４"
+    },
+    {
+      "index": "15848",
+      "target": "科雷普托射手ＧＸ５"
+    },
+    {
+      "index": "15849",
+      "target": "拉凡劍士ＧＸ１"
+    },
+    {
+      "index": "15850",
+      "target": "拉凡劍士ＧＸ２"
+    },
+    {
+      "index": "15851",
+      "target": "拉凡劍士ＧＸ３"
+    },
+    {
+      "index": "15852",
+      "target": "拉凡劍士ＧＸ４"
+    },
+    {
+      "index": "15853",
+      "target": "拉凡劍士ＧＸ５"
+    },
+    {
+      "index": "15854",
+      "target": "拉凡射手ＧＸ１"
+    },
+    {
+      "index": "15855",
+      "target": "拉凡射手ＧＸ２"
+    },
+    {
+      "index": "15856",
+      "target": "拉凡射手ＧＸ３"
+    },
+    {
+      "index": "15857",
+      "target": "拉凡射手ＧＸ４"
+    },
+    {
+      "index": "15858",
+      "target": "拉凡射手ＧＸ５"
+    },
+    {
+      "index": "15859",
+      "target": "水的Ｇ耐性"
+    },
+    {
+      "index": "15860",
+      "target": "雷的Ｇ耐性"
+    },
+    {
+      "index": "15861",
+      "target": "Ｇ氷耐性"
+    },
+    {
+      "index": "15862",
+      "target": "龍的Ｇ耐性"
+    },
+    {
+      "index": "15863",
+      "target": "Ｇ熟練攻撃"
+    },
+    {
+      "index": "15864",
+      "target": "Ｇ熟練纏"
+    },
+    {
+      "index": "15865",
+      "target": "Ｇ熟練閃光"
+    },
+    {
+      "index": "15866",
+      "target": "Ｇ熟練無尽"
+    },
+    {
+      "index": "15867",
+      "target": "Ｇ熟練劍"
+    },
+    {
+      "index": "15970",
+      "target": "無尽強化ＳＺ"
+    },
+    {
+      "index": "16160",
+      "target": "片手劍基本"
+    },
+    {
+      "index": "16161",
+      "target": "片手劍Ｇ"
+    },
+    {
+      "index": "16162",
+      "target": "片手劍Ｓ攻撃"
+    },
+    {
+      "index": "16163",
+      "target": "片手劍一閃"
+    },
+    {
+      "index": "16164",
+      "target": "片手劍強靭強襲"
+    },
+    {
+      "index": "16165",
+      "target": "雷的片手劍纏"
+    },
+    {
+      "index": "16166",
+      "target": "片手劍無尽"
+    },
+    {
+      "index": "16167",
+      "target": "片手劍突進"
+    },
+    {
+      "index": "16168",
+      "target": "片手劍狂"
+    },
+    {
+      "index": "16170",
+      "target": "雙劍的基本"
+    },
+    {
+      "index": "16171",
+      "target": "雙劍的Ｇ"
+    },
+    {
+      "index": "16172",
+      "target": "雙劍的強靭攻撃"
+    },
+    {
+      "index": "16173",
+      "target": "雙劍的一閃"
+    },
+    {
+      "index": "16174",
+      "target": "雙劍的強靭強襲"
+    },
+    {
+      "index": "16175",
+      "target": "雙劍的時装"
+    },
+    {
+      "index": "16176",
+      "target": "雙劍的無尽"
+    },
+    {
+      "index": "16177",
+      "target": "雙劍的突進"
+    },
+    {
+      "index": "16178",
+      "target": "雙劍的狂"
+    },
+    {
+      "index": "16180",
+      "target": "大劍的基本"
+    },
+    {
+      "index": "16181",
+      "target": "大劍的Ｇ"
+    },
+    {
+      "index": "16182",
+      "target": "大劍的強靭攻撃"
+    },
+    {
+      "index": "16183",
+      "target": "大劍的一閃"
+    },
+    {
+      "index": "16184",
+      "target": "大劍充強化"
+    },
+    {
+      "index": "16185",
+      "target": "大劍的幽闇"
+    },
+    {
+      "index": "16186",
+      "target": "大劍的無尽"
+    },
+    {
+      "index": "16187",
+      "target": "大劍的突進"
+    },
+    {
+      "index": "16188",
+      "target": "大劍的狂"
+    },
+    {
+      "index": "16190",
+      "target": "太刀的基本"
+    },
+    {
+      "index": "16191",
+      "target": "太刀的Ｇ"
+    },
+    {
+      "index": "16192",
+      "target": "太刀的強靭攻撃"
+    },
+    {
+      "index": "16193",
+      "target": "太刀的一閃"
+    },
+    {
+      "index": "16194",
+      "target": "太刀充強化"
+    },
+    {
+      "index": "16195",
+      "target": "太刀的幽闇"
+    },
+    {
+      "index": "16196",
+      "target": "太刀的無尽"
+    },
+    {
+      "index": "16197",
+      "target": "太刀的突進"
+    },
+    {
+      "index": "16198",
+      "target": "太刀的狂"
+    },
+    {
+      "index": "16200",
+      "target": "大錘的基本"
+    },
+    {
+      "index": "16201",
+      "target": "大錘的Ｇ"
+    },
+    {
+      "index": "16202",
+      "target": "大錘的Ｓ攻撃"
+    },
+    {
+      "index": "16203",
+      "target": "大錘的一閃"
+    },
+    {
+      "index": "16204",
+      "target": "大錘充強化"
+    },
+    {
+      "index": "16206",
+      "target": "大錘的無尽"
+    },
+    {
+      "index": "16207",
+      "target": "大錘的突進"
+    },
+    {
+      "index": "16208",
+      "target": "大錘的狂"
+    },
+    {
+      "index": "16210",
+      "target": "狩獵笛的基本"
+    },
+    {
+      "index": "16211",
+      "target": "狩獵笛的Ｇ"
+    },
+    {
+      "index": "16212",
+      "target": "狩獵笛的強靭攻撃"
+    },
+    {
+      "index": "16213",
+      "target": "狩獵笛的一閃"
+    },
+    {
+      "index": "16214",
+      "target": "狩獵笛的激勵"
+    },
+    {
+      "index": "16215",
+      "target": "狩獵笛支援"
+    },
+    {
+      "index": "16216",
+      "target": "狩獵笛的無尽"
+    },
+    {
+      "index": "16217",
+      "target": "狩獵笛的突進"
+    },
+    {
+      "index": "16218",
+      "target": "狩獵笛的狂"
+    },
+    {
+      "index": "16220",
+      "target": "長槍的基本"
+    },
+    {
+      "index": "16221",
+      "target": "長槍的Ｇ"
+    },
+    {
+      "index": "16222",
+      "target": "長槍的Ｓ攻撃"
+    },
+    {
+      "index": "16223",
+      "target": "長槍的一閃"
+    },
+    {
+      "index": "16225",
+      "target": "長槍的幽闇"
+    },
+    {
+      "index": "16226",
+      "target": "長槍的無尽"
+    },
+    {
+      "index": "16227",
+      "target": "長槍的突進"
+    },
+    {
+      "index": "16228",
+      "target": "長槍的狂"
+    },
+    {
+      "index": "16229",
+      "target": "長槍的反射"
+    },
+    {
+      "index": "16230",
+      "target": "銃槍的基本"
+    },
+    {
+      "index": "16231",
+      "target": "銃槍的Ｇ"
+    },
+    {
+      "index": "16232",
+      "target": "銃槍的強靭攻撃"
+    },
+    {
+      "index": "16233",
+      "target": "銃槍的一閃"
+    },
+    {
+      "index": "16235",
+      "target": "銃槍的幽闇"
+    },
+    {
+      "index": "16236",
+      "target": "銃槍的無尽"
+    },
+    {
+      "index": "16237",
+      "target": "銃槍的突進"
+    },
+    {
+      "index": "16238",
+      "target": "銃槍的狂"
+    },
+    {
+      "index": "16239",
+      "target": "銃槍的熾恩寵"
+    },
+    {
+      "index": "16240",
+      "target": "劍槍基本"
+    },
+    {
+      "index": "16241",
+      "target": "劍槍Ｇ"
+    },
+    {
+      "index": "16242",
+      "target": "劍槍Ｓ攻撃"
+    },
+    {
+      "index": "16243",
+      "target": "劍槍一閃"
+    },
+    {
+      "index": "16244",
+      "target": "劍槍充強化"
+    },
+    {
+      "index": "16245",
+      "target": "劍槍幽闇"
+    },
+    {
+      "index": "16246",
+      "target": "劍槍無尽"
+    },
+    {
+      "index": "16247",
+      "target": "劍槍突進"
+    },
+    {
+      "index": "16248",
+      "target": "劍槍狂"
+    },
+    {
+      "index": "16249",
+      "target": "劍槍強靭強襲"
+    },
+    {
+      "index": "16250",
+      "target": "穿龍棍的基本"
+    },
+    {
+      "index": "16251",
+      "target": "穿龍棍的Ｇ"
+    },
+    {
+      "index": "16252",
+      "target": "穿龍棍的Ｓ攻撃"
+    },
+    {
+      "index": "16253",
+      "target": "穿龍棍的一閃"
+    },
+    {
+      "index": "16254",
+      "target": "穿龍棍充強化"
+    },
+    {
+      "index": "16255",
+      "target": "穿龍棍的時装"
+    },
+    {
+      "index": "16256",
+      "target": "穿龍棍的無尽"
+    },
+    {
+      "index": "16257",
+      "target": "穿龍棍的突進"
+    },
+    {
+      "index": "16258",
+      "target": "穿龍棍的狂"
+    },
+    {
+      "index": "16259",
+      "target": "穿龍棍熟練"
+    },
+    {
+      "index": "16260",
+      "target": "磁界銃基本"
+    },
+    {
+      "index": "16261",
+      "target": "磁界銃Ｇ"
+    },
+    {
+      "index": "16262",
+      "target": "磁界銃強攻撃"
+    },
+    {
+      "index": "16263",
+      "target": "磁界銃一閃"
+    },
+    {
+      "index": "16264",
+      "target": "磁界銃幽闇"
+    },
+    {
+      "index": "16265",
+      "target": "雷的磁界銃纏"
+    },
+    {
+      "index": "16266",
+      "target": "磁界銃無尽"
+    },
+    {
+      "index": "16267",
+      "target": "磁界銃突進"
+    },
+    {
+      "index": "16268",
+      "target": "磁界銃狂"
+    },
+    {
+      "index": "16269",
+      "target": "磁界銃強強襲"
+    },
+    {
+      "index": "16270",
+      "target": "輕弩的基本"
+    },
+    {
+      "index": "16271",
+      "target": "輕弩的Ｇ"
+    },
+    {
+      "index": "16272",
+      "target": "輕弩的強靭攻撃"
+    },
+    {
+      "index": "16273",
+      "target": "輕弩的一閃"
+    },
+    {
+      "index": "16274",
+      "target": "輕弩的柔弾"
+    },
+    {
+      "index": "16275",
+      "target": "輕弩的騎乘"
+    },
+    {
+      "index": "16276",
+      "target": "輕弩的無尽"
+    },
+    {
+      "index": "16277",
+      "target": "輕弩的突進"
+    },
+    {
+      "index": "16278",
+      "target": "輕弩的狂"
+    },
+    {
+      "index": "16279",
+      "target": "輕弩間隔"
+    },
+    {
+      "index": "16280",
+      "target": "重弩的基本"
+    },
+    {
+      "index": "16281",
+      "target": "重弩的Ｇ"
+    },
+    {
+      "index": "16282",
+      "target": "重弩的強靭攻撃"
+    },
+    {
+      "index": "16283",
+      "target": "重弩的一閃"
+    },
+    {
+      "index": "16284",
+      "target": "重弩的柔弾"
+    },
+    {
+      "index": "16285",
+      "target": "重弩的騎乘"
+    },
+    {
+      "index": "16286",
+      "target": "重弩的無尽"
+    },
+    {
+      "index": "16287",
+      "target": "重弩的突進"
+    },
+    {
+      "index": "16288",
+      "target": "重弩的狂"
+    },
+    {
+      "index": "16289",
+      "target": "重弩間隔"
+    },
+    {
+      "index": "16290",
+      "target": "弓的基本"
+    },
+    {
+      "index": "16291",
+      "target": "弓的Ｇ"
+    },
+    {
+      "index": "16292",
+      "target": "弓的強靭攻撃"
+    },
+    {
+      "index": "16293",
+      "target": "弓的一閃"
+    },
+    {
+      "index": "16296",
+      "target": "弓的無尽"
+    },
+    {
+      "index": "16297",
+      "target": "弓的突進"
+    },
+    {
+      "index": "16298",
+      "target": "弓的狂"
+    },
+    {
+      "index": "16299",
+      "target": "弓間隔"
+    },
+    {
+      "index": "16361",
+      "target": "姿勢舞Ⅵ"
+    },
+    {
+      "index": "16362",
+      "target": "姿勢舞Ⅶ"
+    },
+    {
+      "index": "16363",
+      "target": "片手劍魂塊"
+    },
+    {
+      "index": "16364",
+      "target": "片手劍飾帶塊"
+    },
+    {
+      "index": "16365",
+      "target": "片手劍功績塊"
+    },
+    {
+      "index": "16366",
+      "target": "雙劍的魂塊"
+    },
+    {
+      "index": "16367",
+      "target": "雙劍的飾帶塊"
+    },
+    {
+      "index": "16368",
+      "target": "雙劍的功績塊"
+    },
+    {
+      "index": "16369",
+      "target": "大劍的魂塊"
+    },
+    {
+      "index": "16370",
+      "target": "大劍的飾帶塊"
+    },
+    {
+      "index": "16371",
+      "target": "大劍的功績塊"
+    },
+    {
+      "index": "16372",
+      "target": "太刀的魂塊"
+    },
+    {
+      "index": "16373",
+      "target": "太刀的飾帶塊"
+    },
+    {
+      "index": "16374",
+      "target": "太刀的功績塊"
+    },
+    {
+      "index": "16375",
+      "target": "大錘的魂塊"
+    },
+    {
+      "index": "16376",
+      "target": "大錘的飾帶塊"
+    },
+    {
+      "index": "16377",
+      "target": "大錘的功績塊"
+    },
+    {
+      "index": "16378",
+      "target": "狩獵笛的魂塊"
+    },
+    {
+      "index": "16379",
+      "target": "狩獵笛的飾帶塊"
+    },
+    {
+      "index": "16380",
+      "target": "狩獵笛的功績塊"
+    },
+    {
+      "index": "16381",
+      "target": "長槍的魂塊"
+    },
+    {
+      "index": "16382",
+      "target": "長槍的飾帶塊"
+    },
+    {
+      "index": "16383",
+      "target": "長槍的功績塊"
+    },
+    {
+      "index": "16384",
+      "target": "銃槍的魂塊"
+    },
+    {
+      "index": "16385",
+      "target": "銃槍的飾帶塊"
+    },
+    {
+      "index": "16386",
+      "target": "銃槍的功績塊"
+    },
+    {
+      "index": "16387",
+      "target": "劍槍魂塊"
+    },
+    {
+      "index": "16388",
+      "target": "劍槍飾帶塊"
+    },
+    {
+      "index": "16389",
+      "target": "劍槍功績塊"
+    },
+    {
+      "index": "16390",
+      "target": "穿龍棍的魂塊"
+    },
+    {
+      "index": "16391",
+      "target": "穿龍棍的飾帶塊"
+    },
+    {
+      "index": "16392",
+      "target": "穿龍棍的功績塊"
+    },
+    {
+      "index": "16393",
+      "target": "磁界銃魂塊"
+    },
+    {
+      "index": "16394",
+      "target": "磁界銃飾帶塊"
+    },
+    {
+      "index": "16395",
+      "target": "磁界銃功績塊"
+    },
+    {
+      "index": "16396",
+      "target": "輕弩的魂塊"
+    },
+    {
+      "index": "16397",
+      "target": "輕弩的飾帶塊"
+    },
+    {
+      "index": "16398",
+      "target": "輕弩的功績塊"
+    },
+    {
+      "index": "16399",
+      "target": "重弩的魂塊"
+    },
+    {
+      "index": "16400",
+      "target": "重弩的飾帶塊"
+    },
+    {
+      "index": "16401",
+      "target": "重弩的功績塊"
+    },
+    {
+      "index": "16402",
+      "target": "弓的魂塊"
+    },
+    {
+      "index": "16403",
+      "target": "弓的飾帶塊"
+    },
+    {
+      "index": "16404",
+      "target": "弓的功績塊"
+    },
+    {
+      "index": "16419",
+      "target": "緋光"
+    },
+    {
+      "index": "16424",
+      "target": "金華龍的重的皮"
+    },
+    {
+      "index": "16427",
+      "target": "金華龍的延髄"
+    },
+    {
+      "index": "16435",
+      "target": "金華龍的ｚ的頭"
+    },
+    {
+      "index": "16436",
+      "target": "金華龍的ｚ中位的頭"
+    },
+    {
+      "index": "16437",
+      "target": "金華龍的ｚ高級的頭"
+    },
+    {
+      "index": "16438",
+      "target": "金華龍的ｚ頂級的頭"
+    },
+    {
+      "index": "16495",
+      "target": "多殼蟹的橙的殻"
+    },
+    {
+      "index": "16502",
+      "target": "多殼蟹的脚"
+    },
+    {
+      "index": "16503",
+      "target": "多殼蟹的硬脚"
+    },
+    {
+      "index": "16515",
+      "target": "永遠炎"
+    },
+    {
+      "index": "16516",
+      "target": "深紅炎"
+    },
+    {
+      "index": "16517",
+      "target": "青炎"
+    },
+    {
+      "index": "16518",
+      "target": "紋章的無尽強化"
+    },
+    {
+      "index": "16519",
+      "target": "樂園劍士ＧＸ１"
+    },
+    {
+      "index": "16520",
+      "target": "樂園劍士ＧＸ２"
+    },
+    {
+      "index": "16521",
+      "target": "樂園劍士ＧＸ３"
+    },
+    {
+      "index": "16522",
+      "target": "樂園劍士ＧＸ４"
+    },
+    {
+      "index": "16523",
+      "target": "樂園劍士ＧＸ５"
+    },
+    {
+      "index": "16524",
+      "target": "樂園射手ＧＸ１"
+    },
+    {
+      "index": "16525",
+      "target": "樂園射手ＧＸ２"
+    },
+    {
+      "index": "16526",
+      "target": "樂園射手ＧＸ３"
+    },
+    {
+      "index": "16527",
+      "target": "樂園射手ＧＸ４"
+    },
+    {
+      "index": "16528",
+      "target": "樂園射手ＧＸ５"
+    }
+  ]
+}

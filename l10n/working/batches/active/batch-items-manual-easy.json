@@ -1,0 +1,58 @@
+{
+  "section_id": "items-name",
+  "label": "manual-easy-wins",
+  "translations": [
+    {
+      "index": "1738",
+      "target": "破損書・第１章"
+    },
+    {
+      "index": "1739",
+      "target": "破損書・第２章"
+    },
+    {
+      "index": "1740",
+      "target": "破損書・第３章"
+    },
+    {
+      "index": "1741",
+      "target": "破損書・第４章"
+    },
+    {
+      "index": "1742",
+      "target": "破損書・第５章"
+    },
+    {
+      "index": "1765",
+      "target": "血清Ｖ票"
+    },
+    {
+      "index": "1768",
+      "target": "惡魔合金"
+    },
+    {
+      "index": "1774",
+      "target": "真心絆"
+    },
+    {
+      "index": "1775",
+      "target": "真誠絆"
+    },
+    {
+      "index": "1782",
+      "target": "隨機球"
+    },
+    {
+      "index": "1789",
+      "target": "不死者地圖"
+    },
+    {
+      "index": "1792",
+      "target": "硝化藥"
+    },
+    {
+      "index": "1817",
+      "target": "史詩紀録"
+    }
+  ]
+}
