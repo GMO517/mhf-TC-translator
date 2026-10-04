@@ -73,90 +73,90 @@ index,source,target
 71,Paintball,塗料球
 72,Flash Bomb,閃光彈
 73,Sonic Bomb,音爆彈
-74,Dung,Dung
-75,Dung Bomb,Dung Bomb
+74,Dung,糞
+75,Dung Bomb,糞彈
 76,Smoke Bomb,煙霧彈
-77,Poison Smoke Bomb,Poison Smoke Bomb
-78,Farcaster,Farcaster
-79,Deodorant,Deodorant
+77,Poison Smoke Bomb,毒煙彈
+78,Farcaster,回歸彈
+79,Deodorant,消臭彈
 80,Tranq Bomb,捕獲用麻醉球
-81,Spiderweb,Spiderweb
-82,Net,Net
-83,Trap Tool,Trap Tool
+81,Spiderweb,蜘蛛網
+82,Net,網
+83,Trap Tool,陷罠工具
 84,Pitfall Trap,落穴罠
 85,Shock Trap,麻痺罠
-86,Lightning Rod,Lightning Rod
+86,Lightning Rod,避雷針
 87,(dummy),(dummy)
-88,Barrel Lid,Barrel Lid
-89,Small Barrel,Small Barrel
-90,Large Barrel,Large Barrel
+88,Barrel Lid,桶蓋
+89,Small Barrel,小桶
+90,Large Barrel,大桶
 91,Barrel Bomb S,小桶爆彈
-92,Barrel Bomb S+,Barrel Bomb S+
+92,Barrel Bomb S+,小桶爆彈＋
 93,Barrel Bomb L,大桶爆彈
-94,Barrel Bomb L+,Barrel Bomb L+
-95,Bounce Bomb,Bounce Bomb
-96,Bounce Bomb+,Bounce Bomb+
-97,Anti-Dragon Bomb,Anti-Dragon Bomb
-98,Event Bomb,Event Bomb
-99,Huskberry,Huskberry
-100,Bone Husk S,Bone Husk S
-101,Bone Husk L,Bone Husk L
-102,Normal S LV1,Normal S LV1
-103,Normal S LV2,Normal S LV2
-104,Normal S LV3,Normal S LV3
-105,Pierce S LV1,Pierce S LV1
-106,Pierce S LV2,Pierce S LV2
-107,Pierce S LV3,Pierce S LV3
-108,Pellet S Lv1,Pellet S Lv1
-109,Pellet S Lv2,Pellet S Lv2
-110,Pellet S Lv3,Pellet S Lv3
-111,Crag S Lv1,Crag S Lv1
-112,Crag S Lv2,Crag S Lv2
-113,Crag S Lv3,Crag S Lv3
-114,Clust S Lv1,Clust S Lv1
-115,Clust S Lv2,Clust S Lv2
-116,Clust S Lv3,Clust S Lv3
-117,Flaming S,Flaming S
-118,Water S,Water S
-119,Thunder S,Thunder S
-120,Freeze S,Freeze S
-121,Dragon S,Dragon S
-122,Recover S Lv1,Recover S Lv1
-123,Recover S Lv2,Recover S Lv2
-124,Poison S Lv1,Poison S Lv1
-125,Poison S Lv2,Poison S Lv2
-126,Para S Lv1,Para S Lv1
-127,Para S Lv2,Para S Lv2
-128,Sleep S Lv1,Sleep S Lv1
-129,Sleep S Lv2,Sleep S Lv2
-130,Tranq S,Tranq S
-131,Paint S,Paint S
-132,Demon S,Demon S
-133,Armor S,Armor S
+94,Barrel Bomb L+,大桶爆彈＋
+95,Bounce Bomb,跳躍爆彈
+96,Bounce Bomb+,跳躍爆彈＋
+97,Anti-Dragon Bomb,對龍爆彈
+98,Event Bomb,活動爆彈
+99,Huskberry,空殼果實
+100,Bone Husk S,骨製彈殼．小
+101,Bone Husk L,骨製彈殼．大
+102,Normal S LV1,通常彈LV1
+103,Normal S LV2,通常彈LV2
+104,Normal S LV3,通常彈LV3
+105,Pierce S LV1,貫通彈LV1
+106,Pierce S LV2,貫通彈LV2
+107,Pierce S LV3,貫通彈LV3
+108,Pellet S Lv1,散彈LV1
+109,Pellet S Lv2,散彈LV2
+110,Pellet S Lv3,散彈LV3
+111,Crag S Lv1,徹甲榴彈LV1
+112,Crag S Lv2,徹甲榴彈LV2
+113,Crag S Lv3,徹甲榴彈LV3
+114,Clust S Lv1,擴散彈LV1
+115,Clust S Lv2,擴散彈LV2
+116,Clust S Lv3,擴散彈LV3
+117,Flaming S,火炎彈
+118,Water S,水冷彈
+119,Thunder S,電撃彈
+120,Freeze S,冰結彈
+121,Dragon S,滅龍彈
+122,Recover S Lv1,回復彈LV1
+123,Recover S Lv2,回復彈LV2
+124,Poison S Lv1,毒彈LV1
+125,Poison S Lv2,毒彈LV2
+126,Para S Lv1,麻痺彈LV1
+127,Para S Lv2,麻痺彈LV2
+128,Sleep S Lv1,睡眠彈LV1
+129,Sleep S Lv2,睡眠彈LV2
+130,Tranq S,捕獲麻醉彈
+131,Paint S,塗料彈
+132,Demon S,鬼人彈
+133,Armor S,硬化彈
 134,(dummy),(dummy)
-135,No Coating,No Coating
-136,Empty Bottle,Empty Bottle
-137,Power Coating,Power Coating
-138,Poison Coating,Poison Coating
-139,Para Coating,Para Coating
-140,Sleep Coating,Sleep Coating
+135,No Coating,無瓶
+136,Empty Bottle,空瓶
+137,Power Coating,強撃瓶
+138,Poison Coating,毒瓶
+139,Para Coating,麻痺瓶
+140,Sleep Coating,睡眠瓶
 141,(dummy),(dummy)
-142,Cricket,Cricket
-143,Worm,Worm
-144,Firefly,Firefly
-145,Frog,Frog
-146,Tuna Bait,Tuna Bait
-147,Arowana Bait,Arowana Bait
-148,Goldenfish Bait,Goldenfish Bait
-149,Mega Fishing Fly,Mega Fishing Fly
-150,Old Pickaxe,Old Pickaxe
-151,Iron Pickaxe,Iron Pickaxe
-152,Mega Pickaxe,Mega Pickaxe
-153,Old Bugnet,Old Bugnet
-154,Bugnet,Bugnet
-155,Mega Bugnet,Mega Bugnet
-156,BBQ Spit,BBQ Spit
-157,Quick BBQ Spit,Quick BBQ Spit
+142,Cricket,蟋蟀
+143,Worm,蚯蚓
+144,Firefly,螢火蟲
+145,Frog,青蛙
+146,Tuna Bait,鮪魚餌
+147,Arowana Bait,龍魚餌
+148,Goldenfish Bait,黄金魚餌
+149,Mega Fishing Fly,釣蠅．大
+150,Old Pickaxe,舊十字鎬
+151,Iron Pickaxe,鐵十字鎬
+152,Mega Pickaxe,十字鎬．大
+153,Old Bugnet,舊捕蟲網
+154,Bugnet,捕蟲網
+155,Mega Bugnet,捕蟲網．大
+156,BBQ Spit,燒肉套組
+157,Quick BBQ Spit,攜帶燒肉套組
 158,Male BBQ Spit,Male BBQ Spit
 159,Female BBQ Spit,Female BBQ Spit
 160,Felyne BBQ Spit,Felyne BBQ Spit
