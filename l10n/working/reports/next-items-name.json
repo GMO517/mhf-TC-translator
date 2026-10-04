@@ -1,7 +1,7 @@
 {
   "section_id": "items-name",
   "xpath": "dat/items/name",
-  "pending_total_estimate": 15859,
+  "pending_total_estimate": 15803,
   "batch": [
     {
       "index": "31",
@@ -100,228 +100,228 @@
       "source": "(dummy)"
     },
     {
-      "index": "867",
-      "source": "Anti-Theft Deco"
+      "index": "923",
+      "source": "Springnight Carp"
     },
     {
-      "index": "868",
-      "source": "Fishing Deco"
+      "index": "924",
+      "source": "Carpenterbug"
     },
     {
-      "index": "869",
-      "source": "Map Deco"
+      "index": "925",
+      "source": "Rainbow Insect"
     },
     {
-      "index": "870",
-      "source": "Psychic 1 Deco"
+      "index": "926",
+      "source": "Great Hornfly"
     },
     {
-      "index": "871",
-      "source": "Stealth Deco"
+      "index": "927",
+      "source": "Great Ladybug"
     },
     {
-      "index": "872",
-      "source": "Adrenaline Deco"
+      "index": "928",
+      "source": "Shaka Treasure"
     },
     {
-      "index": "873",
-      "source": "Monster Deco"
+      "index": "929",
+      "source": "Shaka Inheritance"
     },
     {
-      "index": "874",
-      "source": "Paralysis 2 Deco"
+      "index": "930",
+      "source": "Giaprey Scale"
     },
     {
-      "index": "875",
-      "source": "Stun 2 Deco"
+      "index": "931",
+      "source": "Giaprey Scale+"
     },
     {
-      "index": "876",
-      "source": "Stun 3 Deco"
+      "index": "932",
+      "source": "Giaprey Hide"
     },
     {
-      "index": "877",
-      "source": "Poison 2 Deco"
+      "index": "933",
+      "source": "Giadrome Hide"
     },
     {
-      "index": "878",
-      "source": "Heat 2 Deco"
+      "index": "934",
+      "source": "Giadrome Claw"
     },
     {
-      "index": "879",
-      "source": "Cold 2 Deco"
+      "index": "935",
+      "source": "Giadrome Claw+"
     },
     {
-      "index": "880",
-      "source": "Wind Pres. 2 Deco"
+      "index": "936",
+      "source": "Giadrome Head"
     },
     {
-      "index": "881",
-      "source": "Health 3 Deco"
+      "index": "937",
+      "source": "Sinister Cloth"
     },
     {
-      "index": "882",
-      "source": "Rec Speed 2 Deco"
+      "index": "938",
+      "source": "C2D Fragment"
     },
     {
-      "index": "883",
-      "source": "Attack 2 Deco"
+      "index": "939",
+      "source": "Perennial Frost"
     },
     {
-      "index": "884",
-      "source": "Defense 3 Deco"
+      "index": "940",
+      "source": "Drgn Scale Fossil"
     },
     {
-      "index": "885",
-      "source": "Sharpness 2 Deco"
+      "index": "941",
+      "source": "Aminotite"
     },
     {
-      "index": "886",
-      "source": "Expert 2 Deco"
+      "index": "942",
+      "source": "Slimy Mushroom"
     },
     {
-      "index": "887",
-      "source": "Evasion 2 Deco"
+      "index": "943",
+      "source": "Sticky Caterpillar"
     },
     {
-      "index": "888",
-      "source": "Recoil 2 Deco"
+      "index": "944",
+      "source": "Sniper Fish"
     },
     {
-      "index": "889",
-      "source": "Normal Add 2 Deco"
+      "index": "945",
+      "source": "Kurenzite"
     },
     {
-      "index": "890",
-      "source": "Pierce Add 2 Deco"
+      "index": "946",
+      "source": "Furniture Tkt"
     },
     {
-      "index": "891",
-      "source": "Pellet Add 2 Deco"
+      "index": "947",
+      "source": "Furniture Tkt G"
     },
     {
-      "index": "892",
-      "source": "Crag Add 2 Deco"
+      "index": "948",
+      "source": "Lightning Extract"
     },
     {
-      "index": "893",
-      "source": "Clust Add 2 Deco"
+      "index": "949",
+      "source": "Chaos Shroom"
     },
     {
-      "index": "894",
-      "source": "Bomb Boost Deco"
+      "index": "950",
+      "source": "Toxin Sac"
     },
     {
-      "index": "895",
-      "source": "Gunnery Deco"
+      "index": "951",
+      "source": "Inferno Sac"
     },
     {
-      "index": "896",
-      "source": "Wide-Area 2 Deco"
+      "index": "952",
+      "source": "Thunder Sac"
     },
     {
-      "index": "897",
-      "source": "Everlasting 2 Deco"
+      "index": "953",
+      "source": "Monster Bone+"
     },
     {
-      "index": "898",
-      "source": "Backpacking 2 Deco"
+      "index": "954",
+      "source": "Brute Bone"
     },
     {
-      "index": "899",
-      "source": "All UP 3 Deco"
+      "index": "955",
+      "source": "Stout Bone"
     },
     {
-      "index": "900",
-      "source": "Fire 2 Deco"
+      "index": "956",
+      "source": "Felyne Fur Ruby"
     },
     {
-      "index": "901",
-      "source": "Water 2 Deco"
+      "index": "957",
+      "source": "Bulldrome Tusk"
     },
     {
-      "index": "902",
-      "source": "Ice 2 Deco"
+      "index": "958",
+      "source": "High Quality Pelt"
     },
     {
-      "index": "903",
-      "source": "Thunder 2 Deco"
+      "index": "959",
+      "source": "Giaprey Hide+"
     },
     {
-      "index": "904",
-      "source": "Dragon 2 Deco"
+      "index": "960",
+      "source": "Velociprey Hide+"
     },
     {
-      "index": "905",
-      "source": "Gathering 3 Deco"
+      "index": "961",
+      "source": "Genprey Hide+"
     },
     {
-      "index": "906",
-      "source": "Gather Spd 2 Deco"
+      "index": "962",
+      "source": "Gendrome Tail"
     },
     {
-      "index": "907",
-      "source": "Carving 2 Deco"
+      "index": "963",
+      "source": "Ioprey Hide+"
     },
     {
-      "index": "908",
-      "source": "Fate 2 Deco"
+      "index": "964",
+      "source": "Kut-Ku Scale+"
     },
     {
-      "index": "909",
-      "source": "Psychic 2 Deco"
+      "index": "965",
+      "source": "B.Kut-Ku Scale+"
     },
     {
-      "index": "910",
-      "source": "Gallery Atk Deco"
+      "index": "966",
+      "source": "Blango Pelt"
     },
     {
-      "index": "911",
-      "source": "Gallery Def Deco"
+      "index": "967",
+      "source": "Blango Pelt+"
     },
     {
-      "index": "912",
-      "source": "Guard 2 Deco"
+      "index": "968",
+      "source": "Conga Pelt"
     },
     {
-      "index": "913",
-      "source": "Earplugs Deco"
+      "index": "969",
+      "source": "Conga Pelt+"
     },
     {
-      "index": "914",
-      "source": "All UP 1 Deco"
+      "index": "970",
+      "source": "Plesioth Fin+"
     },
     {
-      "index": "915",
-      "source": "Fire 3 Deco"
+      "index": "971",
+      "source": "G.Plesioth Scale+"
     },
     {
-      "index": "916",
-      "source": "Water 3 Deco"
+      "index": "972",
+      "source": "G.Plesioth Fin+"
     },
     {
-      "index": "917",
-      "source": "Ice 3 Deco"
+      "index": "973",
+      "source": "Rath Fluid"
     },
     {
-      "index": "918",
-      "source": "Thunder 3 Deco"
+      "index": "974",
+      "source": "Rath Medulla"
     },
     {
-      "index": "919",
-      "source": "Dragon 3 Deco"
+      "index": "975",
+      "source": "Basarios Tears"
     },
     {
-      "index": "920",
-      "source": "Psychic 3 Deco"
+      "index": "976",
+      "source": "Gravios Medulla"
     },
     {
-      "index": "921",
-      "source": "Firecell Stone"
+      "index": "977",
+      "source": "B.Diablos Ridge"
     },
     {
-      "index": "922",
-      "source": "Rainbow Ore"
+      "index": "978",
+      "source": "Hornetaur Carapace"
     }
   ]
 }

@@ -582,6 +582,62 @@
 | 920 | Psychic 3 Deco | 千里眼珠【3】 |
 | 921 | Firecell Stone | 獄炎石 |
 | 922 | Rainbow Ore | 虹色鉱石 |
+| 923 | Springnight Carp | 春夜鯉 |
+| 924 | Carpenterbug | 木甲虫 |
+| 925 | Rainbow Insect | 虹色虫 |
+| 926 | Great Hornfly | 大角蠅 |
+| 927 | Great Ladybug | 大天道虫 |
+| 928 | Shaka Treasure | 奇面族的財宝 |
+| 929 | Shaka Inheritance | 奇面族的遺産 |
+| 930 | Giaprey Scale | 白速龍的鱗 |
+| 931 | Giaprey Scale+ | 白速龍的上鱗 |
+| 932 | Giaprey Hide | 白速龍的皮 |
+| 933 | Giadrome Hide | 白速龍王的皮 |
+| 934 | Giadrome Claw | 白速龍王的爪 |
+| 935 | Giadrome Claw+ | 白速龍王的尖爪 |
+| 936 | Giadrome Head | 白速龍王的頭 |
+| 937 | Sinister Cloth | 不気味之布 |
+| 938 | C2D Fragment | C2D碎片 |
+| 939 | Perennial Frost | 万年霜 |
+| 940 | Drgn Scale Fossil | 龍鱗化石 |
+| 941 | Aminotite | アミノタイト |
+| 942 | Slimy Mushroom | 黏滑菇 |
+| 943 | Sticky Caterpillar | 粘著毛虫 |
+| 944 | Sniper Fish | 狙撃魚 |
+| 945 | Kurenzite | クレンザイト |
+| 946 | Furniture Tkt | 家具票 |
+| 947 | Furniture Tkt G | 家具票Ｇ |
+| 948 | Lightning Extract | 雷光精華 |
+| 949 | Chaos Shroom | 混沌菇 |
+| 950 | Toxin Sac | 猛毒袋 |
+| 951 | Inferno Sac | 爆炎袋 |
+| 952 | Thunder Sac | 雷袋 |
+| 953 | Monster Bone+ | 魔物骨＋ |
+| 954 | Brute Bone | 獣骨 |
+| 955 | Stout Bone | 堅牢之骨 |
+| 956 | Felyne Fur Ruby | 艾路猫的毛玉 |
+| 957 | Bulldrome Tusk | 大野豬的牙 |
+| 958 | High Quality Pelt | 上質毛皮 |
+| 959 | Giaprey Hide+ | 白速龍的皮＋ |
+| 960 | Velociprey Hide+ | 藍速龍的皮＋ |
+| 961 | Genprey Hide+ | 黄速龍的皮＋ |
+| 962 | Gendrome Tail | 黄速龍王的尾巴 |
+| 963 | Ioprey Hide+ | 紅速龍的皮＋ |
+| 964 | Kut-Ku Scale+ | 怪鳥的上鱗 |
+| 965 | B.Kut-Ku Scale+ | 青怪鳥的上鱗 |
+| 966 | Blango Pelt | 雪獅子的皮 |
+| 967 | Blango Pelt+ | 雪獅子的皮＋ |
+| 968 | Conga Pelt | 桃毛獸的皮 |
+| 969 | Conga Pelt+ | 桃毛獸的皮＋ |
+| 970 | Plesioth Fin+ | 水龍的上鰭 |
+| 971 | G.Plesioth Scale+ | 翠水龍的上鱗 |
+| 972 | G.Plesioth Fin+ | 翠水龍的上鰭 |
+| 973 | Rath Fluid | 火龍的體液 |
+| 974 | Rath Medulla | 火龍的延髄 |
+| 975 | Basarios Tears | 岩龍的涙 |
+| 976 | Gravios Medulla | 鎧龍的延髄 |
+| 977 | B.Diablos Ridge | 黑角龍的堅甲 |
+| 978 | Hornetaur Carapace | 巨甲蟲的堅殼 |
 
 ## 字型暫用（已標）
 
@@ -622,4 +678,13 @@
 - 砲術珠重名：#847 Small Arms／#895 Gunnery 皆作砲術珠｜`batch-items-014`  
 - 畫廊：Frontier マイギャラリー獎珠；日文剛力／剛体暫依英文作畫廊攻撃／防禦｜Gallery Atk／Def｜`batch-items-014` #910～911  
 - 鉱：虹色鉱石｜Rainbow Ore｜`batch-items-014` #922（日文鉱）  
+- 產缺：奇面族的遺産｜Shaka Inheritance｜`batch-items-015` #929（產缺；用遺産）  
+- 胺／氨缺：アミノタイト（片假名保留）｜Aminotite｜`batch-items-015` #941  
+- クレンザイト：片假名保留｜Kurenzite｜`batch-items-015` #945  
+- 擊→撃：狙撃魚｜Sniper Fish｜`batch-items-015` #944  
+- 貓→猫：艾路猫的毛玉｜Felyne Fur Ruby｜`batch-items-015` #956（詞庫定稿「艾路貓」）  
+- 黃→黄：黄速龍的皮＋／黄速龍王的尾巴｜Genprey／Gendrome｜`batch-items-015` #961～962  
+- 淚→涙：岩龍的涙｜Basarios Tears｜`batch-items-015` #975  
+- 蘑菇→菇：黏滑菇／混沌菇｜Slimy Mushroom／Chaos Shroom｜`batch-items-015` #942／#949  
+- Blango／Conga 皮與 Blangonga／Congalala 同譯雪獅子／桃毛獸（沿用既有素材命名）｜`batch-items-015` #966～969  
 
