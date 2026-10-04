@@ -750,6 +750,62 @@
 | 1088 | Carapaceon Gem | 甲殼種的寶石 |
 | 1089 | Carapaceon Gem+ | 甲殼種的寶石＋ |
 | 1090 | Big Carapaceon Gem | 甲殼種的大寶石 |
+| 1091 | Achievement Proof | 達成之證 |
+| 1092 | A Father's Hope | 父親的希望 |
+| 1093 | A Son's Love | 兒子的愛 |
+| 1094 | Familial Bond | 家族的絆 |
+| 1095 | First Heart | 初戀的心 |
+| 1096 | Unrequited Soul | 單戀的魂 |
+| 1097 | Bancho's Proof | 番長之證 |
+| 1098 | N Medal・Black | N獎章・黒 |
+| 1099 | N Medal・White | N獎章・白 |
+| 1100 | N Medal・Gray | N獎章・灰 |
+| 1101 | Artisan's Nature | 匠的本質 |
+| 1102 | Artisan's Mind | 匠的心 |
+| 1103 | Artisan's Belief | 匠的信念 |
+| 1104 | Artisan SP | 匠珠SP |
+| 1105 | Recoil SP | 抑反珠SP |
+| 1106 | Assault SP | 腕力珠SP |
+| 1107 | Sharpness SP | 斬鐵珠SP |
+| 1108 | Wind Pres.SP | 文鎮珠SP |
+| 1109 | Sharpen SP | 研磨珠SP |
+| 1110 | Ammosmith SP | 彈製珠SP |
+| 1111 | Loading SP | 彈穴珠SP |
+| 1112 | Reload SP | 裝填珠SP |
+| 1113 | Truesight SP | 透眼珠SP |
+| 1114 | Endurance SP | 耐絶珠SP |
+| 1115 | Stealth SP | 忍足珠SP |
+| 1116 | Antivirus SP | 抗毒珠SP |
+| 1117 | Alchemist SP | 秘術珠SP |
+| 1118 | Hermit G | 仙人珠G |
+| 1119 | Defense G | 防禦珠G |
+| 1120 | Edge G | 斬空珠G |
+| 1121 | Recoil 1 G | 反動1珠G |
+| 1122 | Sterile G | 斷毒珠G |
+| 1123 | Awareness G | 洞察珠G |
+| 1124 | Earplug G | 音無珠G |
+| 1125 | Flute G | 笛吹珠G |
+| 1126 | Escape G | 逃足珠G |
+| 1127 | Taijutsu G | 體術珠G |
+| 1128 | Strong Arm G | 腕力珠G |
+| 1129 | Inspiration G | 頭電珠G |
+| 1130 | Passive G | 受身珠G |
+| 1131 | Psychic 1 G | 萬里珠G |
+| 1132 | Pressure G | 交渉珠G |
+| 1133 | Capture G | 捕獲珠G |
+| 1134 | Adrenaline SP | 危機珠SP |
+| 1135 | Normal Shot SP | 強彈珠SP |
+| 1136 | Pierce Shot SP | 貫通珠SP |
+| 1137 | Pellet Shot SP | 散彈珠SP |
+| 1138 | Persistence SP | 持續珠SP |
+| 1139 | Fullness SP | 滿腹珠SP |
+| 1140 | Impatience SP | 氣短珠SP |
+| 1141 | Heavenshield SP | 天盾珠SP |
+| 1142 | Sprit SP | 強精珠SP |
+| 1143 | Steadiness SP | 強腰珠SP |
+| 1144 | Bullseye SP | 針穴珠SP |
+| 1145 | Para Res SP | 耐麻痺珠SP |
+| 1146 | Traveller SP | 旅人珠SP |
 
 ## 字型暫用（已標）
 
@@ -809,4 +865,9 @@
 - 黒：棘黒龍／黒的ポルタ鉱石（日文形；與棘茶／棘白對齊）｜B.Espinas／Porta Ore Blk｜`batch-items-017`  
 - R.Volganos＝紅熔岩龍；Vashimu＝尾晶蠍；S.Hypnoc＝白眠鳥｜`batch-items-017` #1037～1073  
 - ポルタ：Frontier 鉱石專有名片假名保留｜Porta Ore*｜`batch-items-017` #1075～1081  
+- 黒：N獎章・黒｜N Medal・Black｜`batch-items-018` #1098  
+- 絶：耐絶珠SP（日文形；気絶耐性）｜Endurance SP｜`batch-items-018` #1114  
+- 涉缺：交渉珠G（用日文交渉）｜Pressure G｜`batch-items-018` #1132  
+- SP／G 珠名依日文 Frontier 珠名＋既有技能譯｜Artisan SP～Traveller SP｜`batch-items-018` #1104～1146  
+- Sprit SP＝強精珠SP（原文拼字；スタミナ系）｜`batch-items-018` #1142  
 
