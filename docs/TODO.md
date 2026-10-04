@@ -48,7 +48,7 @@
 - [x] 詞語庫管線收斂為 step1～3（見 `l10n/glossary/README.md`；中間腳本見 `HISTORY.md`）
 - [x] MHF 特有魔物擴充（frontier／monster 加厚；總詞條見 REVIEW）
 - [x] 補漏：辿異種／辿異技能／武器／防具／任務／發達部位
-- [x] **使用者審核詞語庫**（REVIEW 全數核准；含斬擊斧F；尾錘龍日文已修正）
+- [x] **使用者審核詞語庫**（358 條全核准；補詞→REVIEW 只審未審→回寫 terms→commit 為定稿節奏）
 
 ## Phase 3 — MVP 翻譯與回寫（小步）
 
