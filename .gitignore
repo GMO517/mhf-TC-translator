@@ -23,6 +23,11 @@
 /tools/**/bin/
 /tools/**/obj/
 /tools/**/.vs/
+# aoci 下載解壓快取（執行檔改放 tools/aoci/）
+/tools/aoci-code/
+
+# Cursor MCP（AOCI 等）
+!.cursor/mcp.json
 
 # ----- 翻譯工作中的二進位產物（可從 CSV/JSON 重建）-----
 /l10n/data/
