@@ -27,9 +27,10 @@
 
 ## Phase 0.5 — 字型硬閘門（下一個硬前置）
 
-- [ ] 盤點內建字型／可顯示字集
-- [ ] 建立 `l10n/charset/` 白名單＋禁字替換表
-- [ ] 詞語庫 `display_ok` 必須可判定（目前 170 條皆 `pending`）
+- [x] 盤點可顯示字集依據：JIS X 0208 + ASCII（FTH 文件／內嵌點陣）
+- [x] 建立 `l10n/charset/`：`whitelist.txt`（7421）＋`fallback_map.csv`＋檢查腳本
+- [x] 詞語庫 `display_ok` 可判定（報告見 `charset/glossary_display_report.md`）
+- [x] 處理缺字：整詞定稿＋fallback；目前 **Y=358／N=0**（罠／鎌／剥 等暫用形已註記）
 
 ## Phase 1 — 抽出（MVP）
 
