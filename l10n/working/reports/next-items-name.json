@@ -1,7 +1,7 @@
 {
   "section_id": "items-name",
   "xpath": "dat/items/name",
-  "pending_total_estimate": 15915,
+  "pending_total_estimate": 15859,
   "batch": [
     {
       "index": "31",
@@ -100,228 +100,228 @@
       "source": "(dummy)"
     },
     {
-      "index": "811",
-      "source": "Wind Pres.1 Deco"
+      "index": "867",
+      "source": "Anti-Theft Deco"
     },
     {
-      "index": "812",
-      "source": "Terrain Deco"
+      "index": "868",
+      "source": "Fishing Deco"
     },
     {
-      "index": "813",
-      "source": "Health 1 Deco"
+      "index": "869",
+      "source": "Map Deco"
     },
     {
-      "index": "814",
-      "source": "Health 2 Deco"
+      "index": "870",
+      "source": "Psychic 1 Deco"
     },
     {
-      "index": "815",
-      "source": "Recovery Deco"
+      "index": "871",
+      "source": "Stealth Deco"
     },
     {
-      "index": "816",
-      "source": "Rec Speed 1 Deco"
+      "index": "872",
+      "source": "Adrenaline Deco"
     },
     {
-      "index": "817",
-      "source": "Attack 1 Deco"
+      "index": "873",
+      "source": "Monster Deco"
     },
     {
-      "index": "818",
-      "source": "Status Attack Deco"
+      "index": "874",
+      "source": "Paralysis 2 Deco"
     },
     {
-      "index": "819",
-      "source": "Defense 1 Deco"
+      "index": "875",
+      "source": "Stun 2 Deco"
     },
     {
-      "index": "820",
-      "source": "Guard 1 Deco"
+      "index": "876",
+      "source": "Stun 3 Deco"
     },
     {
-      "index": "821",
-      "source": "Auto-Guard Deco"
+      "index": "877",
+      "source": "Poison 2 Deco"
     },
     {
-      "index": "822",
-      "source": "Stamina Deco"
+      "index": "878",
+      "source": "Heat 2 Deco"
     },
     {
-      "index": "823",
-      "source": "Hunger Deco"
+      "index": "879",
+      "source": "Cold 2 Deco"
     },
     {
-      "index": "824",
-      "source": "Gluttony Deco"
+      "index": "880",
+      "source": "Wind Pres. 2 Deco"
     },
     {
-      "index": "825",
-      "source": "Eating Deco"
+      "index": "881",
+      "source": "Health 3 Deco"
     },
     {
-      "index": "826",
-      "source": "Sharpness 1 Deco"
+      "index": "882",
+      "source": "Rec Speed 2 Deco"
     },
     {
-      "index": "827",
-      "source": "Artisan Deco"
+      "index": "883",
+      "source": "Attack 2 Deco"
     },
     {
-      "index": "828",
-      "source": "Expert 1 Deco"
+      "index": "884",
+      "source": "Defense 3 Deco"
     },
     {
-      "index": "829",
-      "source": "Throwing 1 Deco"
+      "index": "885",
+      "source": "Sharpness 2 Deco"
     },
     {
-      "index": "830",
-      "source": "Evasion 1 Deco"
+      "index": "886",
+      "source": "Expert 2 Deco"
     },
     {
-      "index": "831",
-      "source": "Combining Deco"
+      "index": "887",
+      "source": "Evasion 2 Deco"
     },
     {
-      "index": "832",
-      "source": "Ammo Combo Deco"
+      "index": "888",
+      "source": "Recoil 2 Deco"
     },
     {
-      "index": "833",
-      "source": "Alchemy Deco"
+      "index": "889",
+      "source": "Normal Add 2 Deco"
     },
     {
-      "index": "834",
-      "source": "Reload Deco"
+      "index": "890",
+      "source": "Pierce Add 2 Deco"
     },
     {
-      "index": "835",
-      "source": "Loading Deco"
+      "index": "891",
+      "source": "Pellet Add 2 Deco"
     },
     {
-      "index": "836",
-      "source": "Recoil 1 Deco"
+      "index": "892",
+      "source": "Crag Add 2 Deco"
     },
     {
-      "index": "837",
-      "source": "Precision Deco"
+      "index": "893",
+      "source": "Clust Add 2 Deco"
     },
     {
-      "index": "838",
-      "source": "Normal Up Deco"
+      "index": "894",
+      "source": "Bomb Boost Deco"
     },
     {
-      "index": "839",
-      "source": "Pierce Up Deco"
+      "index": "895",
+      "source": "Gunnery Deco"
     },
     {
-      "index": "840",
-      "source": "Pellet Up Deco"
+      "index": "896",
+      "source": "Wide-Area 2 Deco"
     },
     {
-      "index": "841",
-      "source": "Normal Add 1 Deco"
+      "index": "897",
+      "source": "Everlasting 2 Deco"
     },
     {
-      "index": "842",
-      "source": "Pierce Add 1 Deco"
+      "index": "898",
+      "source": "Backpacking 2 Deco"
     },
     {
-      "index": "843",
-      "source": "Pellet Add 1 Deco"
+      "index": "899",
+      "source": "All UP 3 Deco"
     },
     {
-      "index": "844",
-      "source": "Crag Add 1 Deco"
+      "index": "900",
+      "source": "Fire 2 Deco"
     },
     {
-      "index": "845",
-      "source": "Clust Add 1 Deco"
+      "index": "901",
+      "source": "Water 2 Deco"
     },
     {
-      "index": "846",
-      "source": "Sharpening Deco"
+      "index": "902",
+      "source": "Ice 2 Deco"
     },
     {
-      "index": "847",
-      "source": "Small Arms Deco"
+      "index": "903",
+      "source": "Thunder 2 Deco"
     },
     {
-      "index": "848",
-      "source": "Cooking Deco"
+      "index": "904",
+      "source": "Dragon 2 Deco"
     },
     {
-      "index": "849",
-      "source": "Hearing Deco"
+      "index": "905",
+      "source": "Gathering 3 Deco"
     },
     {
-      "index": "850",
-      "source": "Wide-Area 1 Deco"
+      "index": "906",
+      "source": "Gather Spd 2 Deco"
     },
     {
-      "index": "851",
-      "source": "Everlasting 1 Deco"
+      "index": "907",
+      "source": "Carving 2 Deco"
     },
     {
-      "index": "852",
-      "source": "Backpacking 1 Deco"
+      "index": "908",
+      "source": "Fate 2 Deco"
     },
     {
-      "index": "853",
-      "source": "All UP 2 Deco"
+      "index": "909",
+      "source": "Psychic 2 Deco"
     },
     {
-      "index": "854",
-      "source": "Fire 1 Deco"
+      "index": "910",
+      "source": "Gallery Atk Deco"
     },
     {
-      "index": "855",
-      "source": "Water 1 Deco"
+      "index": "911",
+      "source": "Gallery Def Deco"
     },
     {
-      "index": "856",
-      "source": "Ice 1 Deco"
+      "index": "912",
+      "source": "Guard 2 Deco"
     },
     {
-      "index": "857",
-      "source": "Thunder 1 Deco"
+      "index": "913",
+      "source": "Earplugs Deco"
     },
     {
-      "index": "858",
-      "source": "Dragon 1 Deco"
+      "index": "914",
+      "source": "All UP 1 Deco"
     },
     {
-      "index": "859",
-      "source": "Gathering 1 Deco"
+      "index": "915",
+      "source": "Fire 3 Deco"
     },
     {
-      "index": "860",
-      "source": "Gathering 2 Deco"
+      "index": "916",
+      "source": "Water 3 Deco"
     },
     {
-      "index": "861",
-      "source": "Gather Speed Deco"
+      "index": "917",
+      "source": "Ice 3 Deco"
     },
     {
-      "index": "862",
-      "source": "Carving 1 Deco"
+      "index": "918",
+      "source": "Thunder 3 Deco"
     },
     {
-      "index": "863",
-      "source": "Blessing 1 Deco"
+      "index": "919",
+      "source": "Dragon 3 Deco"
     },
     {
-      "index": "864",
-      "source": "Blessing 2 Deco"
+      "index": "920",
+      "source": "Psychic 3 Deco"
     },
     {
-      "index": "865",
-      "source": "Protection Deco"
+      "index": "921",
+      "source": "Firecell Stone"
     },
     {
-      "index": "866",
-      "source": "Fate 1 Deco"
+      "index": "922",
+      "source": "Rainbow Ore"
     }
   ]
 }

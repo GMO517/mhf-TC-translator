@@ -526,6 +526,62 @@
 | 864 | Blessing 2 Deco | 加護珠【2】 |
 | 865 | Protection Deco | 精靈王的加護珠 |
 | 866 | Fate 1 Deco | 運氣珠【1】 |
+| 867 | Anti-Theft Deco | 防盜珠 |
+| 868 | Fishing Deco | 釣魚珠 |
+| 869 | Map Deco | 地圖珠 |
+| 870 | Psychic 1 Deco | 千里眼珠【1】 |
+| 871 | Stealth Deco | 隱密珠 |
+| 872 | Adrenaline Deco | 火場怪力珠 |
+| 873 | Monster Deco | 對怪珠 |
+| 874 | Paralysis 2 Deco | 耐麻痺珠【2】 |
+| 875 | Stun 2 Deco | 耐気絶珠【2】 |
+| 876 | Stun 3 Deco | 耐気絶珠【3】 |
+| 877 | Poison 2 Deco | 耐毒珠【2】 |
+| 878 | Heat 2 Deco | 耐暑珠【2】 |
+| 879 | Cold 2 Deco | 耐寒珠【2】 |
+| 880 | Wind Pres. 2 Deco | 耐風壓珠【2】 |
+| 881 | Health 3 Deco | 體力珠【3】 |
+| 882 | Rec Speed 2 Deco | 回復速度珠【2】 |
+| 883 | Attack 2 Deco | 攻撃珠【2】 |
+| 884 | Defense 3 Deco | 防禦珠【3】 |
+| 885 | Sharpness 2 Deco | 鋒利度珠【2】 |
+| 886 | Expert 2 Deco | 達人珠【2】 |
+| 887 | Evasion 2 Deco | 迴避珠【2】 |
+| 888 | Recoil 2 Deco | 反動珠【2】 |
+| 889 | Normal Add 2 Deco | 通常彈追加珠【2】 |
+| 890 | Pierce Add 2 Deco | 貫通彈追加珠【2】 |
+| 891 | Pellet Add 2 Deco | 散彈追加珠【2】 |
+| 892 | Crag Add 2 Deco | 徹甲榴彈追加珠【2】 |
+| 893 | Clust Add 2 Deco | 擴散彈追加珠【2】 |
+| 894 | Bomb Boost Deco | 爆彈強化珠 |
+| 895 | Gunnery Deco | 砲術珠 |
+| 896 | Wide-Area 2 Deco | 廣域珠【2】 |
+| 897 | Everlasting 2 Deco | 效果持續珠【2】 |
+| 898 | Backpacking 2 Deco | 搬運珠【2】 |
+| 899 | All UP 3 Deco | 全耐性珠【3】 |
+| 900 | Fire 2 Deco | 耐火珠【2】 |
+| 901 | Water 2 Deco | 耐水珠【2】 |
+| 902 | Ice 2 Deco | 耐冰珠【2】 |
+| 903 | Thunder 2 Deco | 耐雷珠【2】 |
+| 904 | Dragon 2 Deco | 耐龍珠【2】 |
+| 905 | Gathering 3 Deco | 採取珠【3】 |
+| 906 | Gather Spd 2 Deco | 高速採取珠【2】 |
+| 907 | Carving 2 Deco | 剥取珠【2】 |
+| 908 | Fate 2 Deco | 運氣珠【2】 |
+| 909 | Psychic 2 Deco | 千里眼珠【2】 |
+| 910 | Gallery Atk Deco | 畫廊攻撃珠 |
+| 911 | Gallery Def Deco | 畫廊防禦珠 |
+| 912 | Guard 2 Deco | 防禦性能珠【2】 |
+| 913 | Earplugs Deco | 耳塞珠 |
+| 914 | All UP 1 Deco | 全耐性珠【1】 |
+| 915 | Fire 3 Deco | 耐火珠【3】 |
+| 916 | Water 3 Deco | 耐水珠【3】 |
+| 917 | Ice 3 Deco | 耐冰珠【3】 |
+| 918 | Thunder 3 Deco | 耐雷珠【3】 |
+| 919 | Dragon 3 Deco | 耐龍珠【3】 |
+| 920 | Psychic 3 Deco | 千里眼珠【3】 |
+| 921 | Firecell Stone | 獄炎石 |
+| 922 | Rainbow Ore | 虹色鉱石 |
 
 ## 字型暫用（已標）
 
@@ -559,4 +615,11 @@
 - 擊→撃：攻撃珠／特殊攻撃珠｜Attack／Status Attack｜`batch-items-013` #817～818  
 - 剝→剥：剥取珠【1】｜Carving 1 Deco｜`batch-items-013` #862（詞庫定稿「剝取」）  
 - 狀缺：特殊攻撃珠（不用「狀態異常攻擊」）｜Status Attack Deco｜`batch-items-013` #818  
+- 擊→撃：攻撃珠【2】／畫廊攻撃珠｜Attack 2／Gallery Atk｜`batch-items-014` #883／#910  
+- 剝→剥：剥取珠【2】｜Carving 2 Deco｜`batch-items-014` #907  
+- 偷缺：防盜珠（不用「偷竊無效」）｜Anti-Theft Deco｜`batch-items-014` #867  
+- 耳栓→耳塞：耳塞珠｜Earplugs Deco｜`batch-items-014` #913（詞庫定稿）  
+- 砲術珠重名：#847 Small Arms／#895 Gunnery 皆作砲術珠｜`batch-items-014`  
+- 畫廊：Frontier マイギャラリー獎珠；日文剛力／剛体暫依英文作畫廊攻撃／防禦｜Gallery Atk／Def｜`batch-items-014` #910～911  
+- 鉱：虹色鉱石｜Rainbow Ore｜`batch-items-014` #922（日文鉱）  
 
