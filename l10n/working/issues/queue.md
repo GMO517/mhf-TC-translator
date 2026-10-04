@@ -9,7 +9,7 @@
 
 | CATEGORY | 進度 | 批次產物 | 下一筆 |
 |---|---|---|---|
-| items-name／殘留 | in_progress | all-rest／misc／kits | monster-rest 已清；半翻警告 ~687；繼續清英文殘留 |
+| items-name／殘留 | done | — | validate PASS、半翻 0；下一項武器／防具 |
 
 ## 待獨立 QA
 

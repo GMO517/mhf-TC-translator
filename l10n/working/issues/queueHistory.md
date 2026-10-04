@@ -23,4 +23,6 @@
 | items-name／misc（公會／獵人／旅團雜項） | **0** | **~5 min** | n=199；delta |
 | items-name／remainder（義譯掃尾） | **0** | **~15 min** | n=5450；delta 4436 新；殘未譯約 1147 |
 
-**當日合計（續跑段）**：約 **90 min**｜待決合計 **0** 筆
+| items-name／殘留清零（英文＋片假名） | **0** | **~120 min** | validate PASS、半翻警告 0；needs_rework=0；delta 多次 |
+
+**當日合計（續跑段）**：約 **210 min**｜待決合計 **0** 筆

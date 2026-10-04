@@ -312,15 +312,15 @@
     },
     {
       "index": "3568",
-      "target": "波爾塔Cookies"
+      "target": "波爾塔餅"
     },
     {
       "index": "3569",
-      "target": "波爾塔Chocolate"
+      "target": "波爾塔可可"
     },
     {
       "index": "3570",
-      "target": "波爾塔Candy"
+      "target": "波爾塔飴"
     },
     {
       "index": "4088",
@@ -400,19 +400,19 @@
     },
     {
       "index": "6059",
-      "target": "超HardWCCO"
+      "target": "超硬ＷＣＣＯ"
     },
     {
       "index": "6060",
-      "target": "超HardHCLM"
+      "target": "超硬ＨＣＬＭ"
     },
     {
       "index": "6225",
-      "target": "SecretArtsSPα"
+      "target": "秘傳術ＳＰα"
     },
     {
       "index": "6226",
-      "target": "SecretArtsSPβ"
+      "target": "秘傳術SPβ"
     },
     {
       "index": "6832",
@@ -468,15 +468,15 @@
     },
     {
       "index": "7224",
-      "target": "旅團Trsr"
+      "target": "旅團寶"
     },
     {
       "index": "7980",
-      "target": "公會IntroLetter"
+      "target": "公會序信件"
     },
     {
       "index": "7982",
-      "target": "公會Commendation"
+      "target": "公會沸血吼"
     },
     {
       "index": "8068",
@@ -496,7 +496,7 @@
     },
     {
       "index": "8951",
-      "target": "古代Algae"
+      "target": "古代波奇可"
     },
     {
       "index": "9366",
@@ -580,7 +580,7 @@
     },
     {
       "index": "9660",
-      "target": "獵人Badge・Yell"
+      "target": "獵人徽章叫"
     },
     {
       "index": "9661",
@@ -600,19 +600,19 @@
     },
     {
       "index": "9665",
-      "target": "獵人勳章・Purpl"
+      "target": "獵人勳章紫"
     },
     {
       "index": "9666",
-      "target": "獵人勳章・Yellw"
+      "target": "獵人勳章黄"
     },
     {
       "index": "9701",
-      "target": "超DashExtract"
+      "target": "超泰里法抽出"
     },
     {
       "index": "9795",
-      "target": "超HardGGGX"
+      "target": "超硬ＧＧＧＸ"
     },
     {
       "index": "9951",
@@ -628,11 +628,11 @@
     },
     {
       "index": "9954",
-      "target": "旅團AirBox"
+      "target": "旅團空箱"
     },
     {
       "index": "10182",
-      "target": "獵人Heart・Yellw"
+      "target": "獵人心黄"
     },
     {
       "index": "10183",
@@ -648,15 +648,15 @@
     },
     {
       "index": "10746",
-      "target": "旅團PlumBox"
+      "target": "旅團梅箱"
     },
     {
       "index": "10747",
-      "target": "旅團ChrysnthmBox"
+      "target": "旅團血吼箱"
     },
     {
       "index": "10748",
-      "target": "旅團CherryBox"
+      "target": "旅團比納桃箱"
     },
     {
       "index": "10768",
@@ -696,7 +696,7 @@
     },
     {
       "index": "11164",
-      "target": "古代Technology"
+      "target": "古代初音未"
     },
     {
       "index": "11173",
@@ -708,7 +708,7 @@
     },
     {
       "index": "11286",
-      "target": "古代超Stl"
+      "target": "古代超姆努波"
     },
     {
       "index": "11439",
@@ -716,7 +716,7 @@
     },
     {
       "index": "11463",
-      "target": "Elegant古代Docs"
+      "target": "優雅古代文書"
     },
     {
       "index": "11470",
@@ -728,23 +728,23 @@
     },
     {
       "index": "11662",
-      "target": "古代Lubricant"
+      "target": "古代滑油"
     },
     {
       "index": "12041",
-      "target": "旅團CrmelliaBox"
+      "target": "旅團山茶箱"
     },
     {
       "index": "12042",
-      "target": "旅團HllyhockBox"
+      "target": "旅團浪紫黑箱"
     },
     {
       "index": "12360",
-      "target": "波爾塔Brownies"
+      "target": "波爾塔觸媒研"
     },
     {
       "index": "12361",
-      "target": "波爾塔Marshmallows"
+      "target": "波爾塔爾霧野"
     },
     {
       "index": "12440",
@@ -776,7 +776,7 @@
     },
     {
       "index": "12512",
-      "target": "公會Symbol"
+      "target": "公會野泰里"
     },
     {
       "index": "13065",
@@ -784,7 +784,7 @@
     },
     {
       "index": "13079",
-      "target": "旅團OrchidBox"
+      "target": "旅團蘭箱"
     },
     {
       "index": "13366",
@@ -796,7 +796,7 @@
     },
     {
       "index": "15044",
-      "target": "波爾塔Anko"
+      "target": "波爾塔紫黑鍵"
     }
   ]
 }
