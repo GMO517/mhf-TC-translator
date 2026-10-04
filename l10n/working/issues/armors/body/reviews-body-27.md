@@ -1,0 +1,405 @@
+# reviews-body-27（body 27/27）
+
+> CSV：`csv/dat-armors-body.csv`｜index **13064–13461**｜本檔 **398**｜全表異於原文 **13398**
+
+| index | 原文 | 譯文 |
+|---|---|---|
+| 13064 | Rapin G Vest | 爾阿普伊恩背心【Ｇ】 |
+| 13065 | Rapin GF Vest | 爾阿普伊恩背心【ＧＦ】 |
+| 13066 | Rapin GX Vest | 爾阿普伊恩背心【ＧＸ】 |
+| 13067 | Kireek Mail | 基雷艾克鎧 |
+| 13068 | Kireek F Mail | 基雷艾克鎧【Ｆ】 |
+| 13069 | Kireek FZ Mail | 基雷艾克鎧【ＦＺ】 |
+| 13070 | Kireek HS Mail | 基雷艾克鎧【ＨＳ】 |
+| 13071 | Kireek GS Mail | 基雷艾克鎧【ＧＳ】 |
+| 13072 | Kireek GP Mail | 基雷艾克鎧【ＧＰ】 |
+| 13073 | Kireek ZP Mail | 基雷艾克鎧【ＺＰ】 |
+| 13074 | Kireek Vest | 基雷艾克背心 |
+| 13075 | Kireek F Vest | 基雷艾克背心【Ｆ】 |
+| 13076 | Kireek FZ Vest | 基雷艾克背心【ＦＺ】 |
+| 13077 | Kireek HS Vest | 基雷艾克背心【ＨＳ】 |
+| 13078 | Kireek GS Vest | 基雷艾克背心【ＧＳ】 |
+| 13079 | Kireek GP Vest | 基雷艾克背心【ＧＰ】 |
+| 13080 | Kireek ZP Vest | 基雷艾克背心【ＺＰ】 |
+| 13081 | Quna Vest | 克烏納背心 |
+| 13082 | Quna F Vest | 克烏納背心【Ｆ】 |
+| 13083 | Quna FZ Vest | 克烏納背心【ＦＺ】 |
+| 13084 | Quna HS Vest | 克烏納背心【ＨＳ】 |
+| 13085 | Quna GS Vest | 克烏納背心【ＧＳ】 |
+| 13086 | Quna GP Vest | 克烏納背心【ＧＰ】 |
+| 13087 | Quna ZP Vest | 克烏納背心【ＺＰ】 |
+| 13088 | Quna Suit | 克烏納套裝 |
+| 13089 | Quna F Suit | 克烏納套裝【Ｆ】 |
+| 13090 | Quna FZ Suit | 克烏納套裝【ＦＺ】 |
+| 13091 | Quna HS Suit | 克烏納套裝【ＨＳ】 |
+| 13092 | Quna GS Suit | 克烏納套裝【ＧＳ】 |
+| 13093 | Quna GP Suit | 克烏納套裝【ＧＰ】 |
+| 13094 | Quna ZP Suit | 克烏納套裝【ＺＰ】 |
+| 13095 | Dista Vest | 迪斯塔背心 |
+| 13096 | Dista F Vest | 迪斯塔背心【Ｆ】 |
+| 13097 | Dista FZ Vest | 迪斯塔背心【ＦＺ】 |
+| 13098 | Dista HS Vest | 迪斯塔背心【ＨＳ】 |
+| 13099 | Dista GS Vest | 迪斯塔背心【ＧＳ】 |
+| 13100 | Dista GP Vest | 迪斯塔背心【ＧＰ】 |
+| 13101 | Dista ZP Vest | 迪斯塔背心【ＺＰ】 |
+| 13102 | Dista Suit | 迪斯塔套裝 |
+| 13103 | Dista F Suit | 迪斯塔套裝【Ｆ】 |
+| 13104 | Dista FZ Suit | 迪斯塔套裝【ＦＺ】 |
+| 13105 | Dista HS Suit | 迪斯塔套裝【ＨＳ】 |
+| 13106 | Dista GS Suit | 迪斯塔套裝【ＧＳ】 |
+| 13107 | Dista GP Suit | 迪斯塔套裝【ＧＰ】 |
+| 13108 | Dista ZP Suit | 迪斯塔套裝【ＺＰ】 |
+| 13109 | Ionia Vest | 伊歐尼阿背心 |
+| 13110 | Ionia F Vest | 伊歐尼阿背心【Ｆ】 |
+| 13111 | Ionia FZ Vest | 伊歐尼阿背心【ＦＺ】 |
+| 13112 | Ionia HS Vest | 伊歐尼阿背心【ＨＳ】 |
+| 13113 | Ionia GS Vest | 伊歐尼阿背心【ＧＳ】 |
+| 13114 | Ionia GP Vest | 伊歐尼阿背心【ＧＰ】 |
+| 13115 | Ionia ZP Vest | 伊歐尼阿背心【ＺＰ】 |
+| 13116 | Ionia Suit | 伊歐尼阿套裝 |
+| 13117 | Ionia F Suit | 伊歐尼阿套裝【Ｆ】 |
+| 13118 | Ionia FZ Suit | 伊歐尼阿套裝【ＦＺ】 |
+| 13119 | Ionia HS Suit | 伊歐尼阿套裝【ＨＳ】 |
+| 13120 | Ionia GS Suit | 伊歐尼阿套裝【ＧＳ】 |
+| 13121 | Ionia GP Suit | 伊歐尼阿套裝【ＧＰ】 |
+| 13122 | Ionia ZP Suit | 伊歐尼阿套裝【ＺＰ】 |
+| 13123 | Guridi Z Mail | 古里迪鎧【Ｚ】 |
+| 13124 | Guridi ZF Mail | 古里迪鎧【ＺＦ】 |
+| 13125 | Guridi ZY Mail | 古里迪鎧【ＺＹ】 |
+| 13126 | Guridi ZX Mail | 古里迪鎧【ＺＸ】 |
+| 13127 | Guridi Z Vest | 古里迪背心【Ｚ】 |
+| 13128 | Guridi ZF Vest | 古里迪背心【ＺＦ】 |
+| 13129 | Guridi ZY Vest | 古里迪背心【ＺＹ】 |
+| 13130 | Guridi ZX Vest | 古里迪背心【ＺＸ】 |
+| 13131 | Shifunyi Z Suit | 初音未Ｚ套裝【Ｚ】 |
+| 13132 | Shifunyi ZF Suit | 初音未Ｚ套裝【ＺＦ】 |
+| 13133 | Shifunyi ZY Suit | 初音未Ｚ套裝【ＺＹ】 |
+| 13134 | Shifunyi ZX Suit | 初音未Ｚ套裝【ＺＸ】 |
+| 13135 | Shifunyi Z Vest | 初音未Ｚ背心【Ｚ】 |
+| 13136 | Shifunyi ZF Vest | 初音未Ｚ背心【ＺＦ】 |
+| 13137 | Shifunyi ZY Vest | 初音未Ｚ背心【ＺＹ】 |
+| 13138 | Shifunyi ZX Vest | 初音未Ｚ背心【ＺＸ】 |
+| 13139 | Rockman Suit | 爾歐克克姆阿恩套裝 |
+| 13140 | Nerishoku Haori D | 証明球哈歐里Ｄ羽織 |
+| 13141 | Gravios ZD Mail | 鎧龍鎧 |
+| 13142 | Gravios ZD Vest | 鎧龍背心 |
+| 13143 | Baruragaru ZD Mail | 巴魯拉加魯茲德鎧 |
+| 13144 | Baruragaru ZD Vest | 巴魯拉加魯茲德背心 |
+| 13145 | Rabius D Suit | 拉比烏斯Ｄ套裝 |
+| 13146 | Rocras D Suit | 洛克拉斯Ｄ套裝 |
+| 13147 | Alisys D Suit | 阿莉西斯Ｄ套裝 |
+| 13148 | Loli D Suit | 法磁化Ｄ套裝 |
+| 13149 | Recolis D Suit | 雷科利斯Ｄ套裝 |
+| 13150 | Rapin D Mail | 爾阿普伊恩Ｄ鎧 |
+| 13151 | Rapin C Mail | 爾阿普伊恩Ｃ鎧 |
+| 13152 | Kireek D Mail | 克伊爾艾艾克Ｄ鎧 |
+| 13153 | Quna D Vest | 奎娜Ｄ背心 |
+| 13154 | Dista D Vest | 迪斯阿Ｄ背心 |
+| 13155 | Ionia D Vest | 伊歐尼阿Ｄ背心 |
+| 13156 | Guridi D Mail | 古里迪Ｄ鎧 |
+| 13157 | Shifunyi D Suit | 初音未Ｄ帯套裝 |
+| 13158 | Rappy D Suit | 吼牙血Ｄ套裝 |
+| 13159 | Bita D Mail | 比塔Ｄ鎧 |
+| 13160 | Koreputo D Mail | 科雷普托Ｄ鎧 |
+| 13161 | Secuti D Mail・Black | 塞克烏提德鎧・黑 |
+| 13162 | Secuti D Mail・Blue | 塞克烏提德鎧・青 |
+| 13163 | Secuti D Mail・Red | 塞克烏提德鎧・赤 |
+| 13164 | Secuti D Mail・White | 塞克烏提德鎧・白 |
+| 13165 | Rockman D Suit | 爾歐克克姆阿恩Ｄ套裝 |
+| 13166 | Issen D【胴当て】・Red | 胴当て・赤 |
+| 13167 | 蜂針D [Chestplate 】・Orange | 蜂針・橙 |
+| 13168 | Shanru Z Mail | 浪紫黑鎧【Ｚ】 |
+| 13169 | Shanru ZF Mail | 浪紫黑鎧【ＺＦ】 |
+| 13170 | Shanru ZY Mail | 浪紫黑鎧【ＺＹ】 |
+| 13171 | Shanru ZX Mail | 浪紫黑鎧【ＺＸ】 |
+| 13172 | Shanru Z Vest | 浪紫黑背心【Ｚ】 |
+| 13173 | Shanru ZF Vest | 浪紫黑背心【ＺＦ】 |
+| 13174 | Shanru ZY Vest | 浪紫黑背心【ＺＹ】 |
+| 13175 | Shanru ZX Vest | 浪紫黑背心【ＺＸ】 |
+| 13176 | Fanru Z Mail | 觸媒研鎧【Ｚ】 |
+| 13177 | Fanru ZF Mail | 觸媒研鎧【ＺＦ】 |
+| 13178 | Fanru ZY Mail | 觸媒研鎧【ＺＹ】 |
+| 13179 | Fanru ZX Mail | 觸媒研鎧【ＺＸ】 |
+| 13180 | Fanru Z Vest | 觸媒研背心【Ｚ】 |
+| 13181 | Fanru ZF Vest | 觸媒研背心【ＺＦ】 |
+| 13182 | Fanru ZY Vest | 觸媒研背心【ＺＹ】 |
+| 13183 | Fanru ZX Vest | 觸媒研背心【ＺＸ】 |
+| 13184 | Rengoku Haori Z | 雷恩戈庫羽織【Ｚ】 |
+| 13185 | Rengoku Haori ZF | 雷恩戈庫羽織【ＺＦ】 |
+| 13186 | Rengoku Haori ZY | 雷恩戈庫羽織【ＺＹ】 |
+| 13187 | Rengoku Haori ZX | 雷恩戈庫羽織【ＺＸ】 |
+| 13188 | Rengoku Shozoku Z | 雷恩戈庫修歐【Ｚ】 |
+| 13189 | Rengoku Shozoku ZF | 雷恩戈庫修歐【ＺＦ】 |
+| 13190 | Rengoku Shozoku ZY | 雷恩戈庫修歐【ＺＹ】 |
+| 13191 | Rengoku Shozoku ZX | 雷恩戈庫修歐【ＺＸ】 |
+| 13192 | Nerigeki Haori Z | 涅里蓋基羽織【Ｚ】 |
+| 13193 | Nerigeki Haori ZF | 涅里蓋基羽織【ＺＦ】 |
+| 13194 | Nerigeki Haori ZY | 涅里蓋基羽織【ＺＹ】 |
+| 13195 | Nerigeki Haori ZX | 涅里蓋基羽織【ＺＸ】 |
+| 13196 | Nerigeki Shozoku Z | 涅里蓋基修歐【Ｚ】 |
+| 13197 | Nerigeki Shozoku ZF | 涅里蓋基修歐【ＺＦ】 |
+| 13198 | Nerigeki Shozoku ZY | 涅里蓋基修歐【ＺＹ】 |
+| 13199 | Nerigeki Shozoku ZX | 涅里蓋基修歐【ＺＸ】 |
+| 13200 | Zamuza Z Mail | 多殼蟹鎧【Ｚ】 |
+| 13201 | Zamuza ZF Mail | 多殼蟹鎧【ＺＦ】 |
+| 13202 | Zamuza ZY Mail | 多殼蟹鎧【ＺＹ】 |
+| 13203 | Zamuza ZX Mail | 多殼蟹鎧【ＺＸ】 |
+| 13204 | Zamuza Z Vest | 多殼蟹背心【Ｚ】 |
+| 13205 | Zamuza ZF Vest | 多殼蟹背心【ＺＦ】 |
+| 13206 | Zamuza ZY Vest | 多殼蟹背心【ＺＹ】 |
+| 13207 | Zamuza ZX Vest | 多殼蟹背心【ＺＸ】 |
+| 13208 | Harudo Z Mail | 司銀龍鎧【Ｚ】 |
+| 13209 | Harudo ZF Mail | 司銀龍鎧【ＺＦ】 |
+| 13210 | Harudo ZY Mail | 司銀龍鎧【ＺＹ】 |
+| 13211 | Harudo ZX Mail | 司銀龍鎧【ＺＸ】 |
+| 13212 | Harudo Z Vest | 司銀龍背心【Ｚ】 |
+| 13213 | Harudo ZF Vest | 司銀龍背心【ＺＦ】 |
+| 13214 | Harudo ZY Vest | 司銀龍背心【ＺＹ】 |
+| 13215 | Harudo ZX Vest | 司銀龍背心【ＺＸ】 |
+| 13216 | Elysi G Mail | 初音未鎧【Ｇ】 |
+| 13217 | Elysi GF Mail | 初音未鎧【ＧＦ】 |
+| 13218 | Elysi GX Mail | 初音未鎧【ＧＸ】 |
+| 13219 | Elysi G Vest | 初音未背心【Ｇ】 |
+| 13220 | Elysi GF Vest | 初音未背心【ＧＦ】 |
+| 13221 | Elysi GX Vest | 初音未背心【ＧＸ】 |
+| 13222 | Myunru Z Mail | 姆伊烏恩爾烏鎧【Ｚ】 |
+| 13223 | Myunru ZF Mail | 姆伊烏恩爾烏鎧【ＺＦ】 |
+| 13224 | Myunru ZY Mail | 姆伊烏恩爾烏鎧【ＺＹ】 |
+| 13225 | Myunru ZX Mail | 姆伊烏恩爾烏鎧【ＺＸ】 |
+| 13226 | Myunru Z Vest | 姆伊烏恩爾烏背心【Ｚ】 |
+| 13227 | Myunru ZF Vest | 姆伊烏恩爾烏背心【ＺＦ】 |
+| 13228 | Myunru ZY Vest | 姆伊烏恩爾烏背心【ＺＹ】 |
+| 13229 | Myunru ZX Vest | 姆伊烏恩爾烏背心【ＺＸ】 |
+| 13230 | Kinkou Suit | 基恩科烏套裝 |
+| 13231 | Kinkou F Suit | 基恩科烏套裝【Ｆ】 |
+| 13232 | Kinkou FZ Suit | 基恩科烏套裝【ＦＺ】 |
+| 13233 | Kinkou HS Suit | 基恩科烏套裝【ＨＳ】 |
+| 13234 | Kinkou GS Suit | 基恩科烏套裝【ＧＳ】 |
+| 13235 | Kinkou GP Suit | 基恩科烏套裝【ＧＰ】 |
+| 13236 | Kinkou ZP Suit | 基恩科烏套裝【ＺＰ】 |
+| 13237 | Kinkou Vest | 基恩科烏背心 |
+| 13238 | Kinkou F Vest | 基恩科烏背心【Ｆ】 |
+| 13239 | Kinkou FZ Vest | 基恩科烏背心【ＦＺ】 |
+| 13240 | Kinkou HS Vest | 基恩科烏背心【ＨＳ】 |
+| 13241 | Kinkou GS Vest | 基恩科烏背心【ＧＳ】 |
+| 13242 | Kinkou GP Vest | 基恩科烏背心【ＧＰ】 |
+| 13243 | Kinkou ZP Vest | 基恩科烏背心【ＺＰ】 |
+| 13244 | Anbu Suit | 阿恩布套裝 |
+| 13245 | Anbu F Suit | 阿恩布套裝【Ｆ】 |
+| 13246 | Anbu FZ Suit | 阿恩布套裝【ＦＺ】 |
+| 13247 | Anbu HS Suit | 阿恩布套裝【ＨＳ】 |
+| 13248 | Anbu GS Suit | 阿恩布套裝【ＧＳ】 |
+| 13249 | Anbu GP Suit | 阿恩布套裝【ＧＰ】 |
+| 13250 | Anbu ZP Suit | 阿恩布套裝【ＺＰ】 |
+| 13251 | Anbu Vest | 阿恩布背心 |
+| 13252 | Anbu F Vest | 阿恩布背心【Ｆ】 |
+| 13253 | Anbu FZ Vest | 阿恩布背心【ＦＺ】 |
+| 13254 | Anbu HS Vest | 阿恩布背心【ＨＳ】 |
+| 13255 | Anbu GS Vest | 阿恩布背心【ＧＳ】 |
+| 13256 | Anbu GP Vest | 阿恩布背心【ＧＰ】 |
+| 13257 | Anbu ZP Vest | 阿恩布背心【ＺＰ】 |
+| 13258 | Arbiter GS Plate | 阿爾比特爾普【ＧＳ】 |
+| 13259 | Arbiter GP Plate | 阿爾比特爾普【ＧＰ】 |
+| 13260 | Arbiter ZP Plate | 阿爾比特爾普【ＺＰ】 |
+| 13261 | Arbiter GS Skin | 阿爾比特爾斯【ＧＳ】 |
+| 13262 | Arbiter GP Skin | 阿爾比特爾斯【ＧＰ】 |
+| 13263 | Arbiter ZP Skin | 阿爾比特爾斯【ＺＰ】 |
+| 13264 | Fine Suit | 精套裝 |
+| 13265 | Fine F Suit | 精套裝【Ｆ】 |
+| 13266 | Fine FZ Suit | 精套裝【ＦＺ】 |
+| 13267 | Fine HS Suit | 精套裝【ＨＳ】 |
+| 13268 | Fine GS Suit | 精套裝【ＧＳ】 |
+| 13269 | Fine GP Suit | 精套裝【ＧＰ】 |
+| 13270 | Fine ZP Suit | 精套裝【ＺＰ】 |
+| 13271 | Fine Vest | 精背心 |
+| 13272 | Fine F Vest | 精背心【Ｆ】 |
+| 13273 | Fine FZ Vest | 精背心【ＦＺ】 |
+| 13274 | Fine HS Vest | 精背心【ＨＳ】 |
+| 13275 | Fine GS Vest | 精背心【ＧＳ】 |
+| 13276 | Fine GP Vest | 精背心【ＧＰ】 |
+| 13277 | Fine ZP Vest | 精背心【ＺＰ】 |
+| 13278 | Kotona Suit | 科托納套裝 |
+| 13279 | Kotona F Suit | 科托納套裝【Ｆ】 |
+| 13280 | Kotona FZ Suit | 科托納套裝【ＦＺ】 |
+| 13281 | Kotona HS Suit | 科托納套裝【ＨＳ】 |
+| 13282 | Kotona GS Suit | 科托納套裝【ＧＳ】 |
+| 13283 | Kotona GP Suit | 科托納套裝【ＧＰ】 |
+| 13284 | Kotona ZP Suit | 科托納套裝【ＺＰ】 |
+| 13285 | Kotona Vest | 科托納背心 |
+| 13286 | Kotona F Vest | 科托納背心【Ｆ】 |
+| 13287 | Kotona FZ Vest | 科托納背心【ＦＺ】 |
+| 13288 | Kotona HS Vest | 科托納背心【ＨＳ】 |
+| 13289 | Kotona GS Vest | 科托納背心【ＧＳ】 |
+| 13290 | Kotona GP Vest | 科托納背心【ＧＰ】 |
+| 13291 | Kotona ZP Vest | 科托納背心【ＺＰ】 |
+| 13292 | Finis Suit | 夫伊尼斯套裝 |
+| 13293 | Finis F Suit | 夫伊尼斯套裝【Ｆ】 |
+| 13294 | Finis FZ Suit | 夫伊尼斯套裝【ＦＺ】 |
+| 13295 | Finis HS Suit | 夫伊尼斯套裝【ＨＳ】 |
+| 13296 | Finis GS Suit | 夫伊尼斯套裝【ＧＳ】 |
+| 13297 | Finis GP Suit | 夫伊尼斯套裝【ＧＰ】 |
+| 13298 | Finis ZP Suit | 夫伊尼斯套裝【ＺＰ】 |
+| 13299 | Finis Vest | 夫伊尼斯背心 |
+| 13300 | Finis F Vest | 夫伊尼斯背心【Ｆ】 |
+| 13301 | Finis FZ Vest | 夫伊尼斯背心【ＦＺ】 |
+| 13302 | Finis HS Vest | 夫伊尼斯背心【ＨＳ】 |
+| 13303 | Finis GS Vest | 夫伊尼斯背心【ＧＳ】 |
+| 13304 | Finis GP Vest | 夫伊尼斯背心【ＧＰ】 |
+| 13305 | Finis ZP Vest | 夫伊尼斯背心【ＺＰ】 |
+| 13306 | Firl Suit | 夫伊爾爾套裝 |
+| 13307 | Firl F Suit | 夫伊爾爾套裝【Ｆ】 |
+| 13308 | Firl FZ Suit | 夫伊爾爾套裝【ＦＺ】 |
+| 13309 | Firl HS Suit | 夫伊爾爾套裝【ＨＳ】 |
+| 13310 | Firl GS Suit | 夫伊爾爾套裝【ＧＳ】 |
+| 13311 | Firl GP Suit | 夫伊爾爾套裝【ＧＰ】 |
+| 13312 | Firl ZP Suit | 夫伊爾爾套裝【ＺＰ】 |
+| 13313 | Firl Vest | 夫伊爾爾背心 |
+| 13314 | Firl F Vest | 夫伊爾爾背心【Ｆ】 |
+| 13315 | Firl FZ Vest | 夫伊爾爾背心【ＦＺ】 |
+| 13316 | Firl HS Vest | 夫伊爾爾背心【ＨＳ】 |
+| 13317 | Firl GS Vest | 夫伊爾爾背心【ＧＳ】 |
+| 13318 | Firl GP Vest | 夫伊爾爾背心【ＧＰ】 |
+| 13319 | Firl ZP Vest | 夫伊爾爾背心【ＺＰ】 |
+| 13320 | Ryoso Torso | 爾約索托爾索 |
+| 13321 | Ryoso Torso F | 爾約索托爾索【Ｆ】 |
+| 13322 | Ryoso Torso FZ | 爾約索托爾索【ＦＺ】 |
+| 13323 | Ryoso Torso HS | 爾約索托爾索【ＨＳ】 |
+| 13324 | Ryoso Torso GS | 爾約索托爾索【ＧＳ】 |
+| 13325 | Ryoso Torso GP | 爾約索托爾索【ＧＰ】 |
+| 13326 | Ryoso Torso ZP | 爾約索托爾索【ＺＰ】 |
+| 13327 | Ryoso Chestplate | 爾約索奇艾斯 |
+| 13328 | Ryoso Chestplate F | 爾約索奇艾斯【Ｆ】 |
+| 13329 | Ryoso Chestplate FZ | 爾約索奇艾斯【ＦＺ】 |
+| 13330 | Ryoso Chestplate HS | 爾約索奇艾斯【ＨＳ】 |
+| 13331 | Ryoso Chestplate GS | 爾約索奇艾斯【ＧＳ】 |
+| 13332 | Ryoso Chestplate GP | 爾約索奇艾斯【ＧＰ】 |
+| 13333 | Ryoso Chestplate ZP | 爾約索奇艾斯【ＺＰ】 |
+| 13334 | Gems Suit | 蓋姆斯套裝 |
+| 13335 | Gems F Suit | 蓋姆斯套裝【Ｆ】 |
+| 13336 | Gems FZ Suit | 蓋姆斯套裝【ＦＺ】 |
+| 13337 | Gems HS Suit | 蓋姆斯套裝【ＨＳ】 |
+| 13338 | Gems GS Suit | 蓋姆斯套裝【ＧＳ】 |
+| 13339 | Gems GP Suit | 蓋姆斯套裝【ＧＰ】 |
+| 13340 | Gems ZP Suit | 蓋姆斯套裝【ＺＰ】 |
+| 13341 | Gems Vest | 蓋姆斯背心 |
+| 13342 | Gems F Vest | 蓋姆斯背心【Ｆ】 |
+| 13343 | Gems FZ Vest | 蓋姆斯背心【ＦＺ】 |
+| 13344 | Gems HS Vest | 蓋姆斯背心【ＨＳ】 |
+| 13345 | Gems GS Vest | 蓋姆斯背心【ＧＳ】 |
+| 13346 | Gems GP Vest | 蓋姆斯背心【ＧＰ】 |
+| 13347 | Gems ZP Vest | 蓋姆斯背心【ＺＰ】 |
+| 13348 | Alisha Suit | 阿爾伊夏套裝 |
+| 13349 | Alisha F Suit | 阿爾伊夏套裝【Ｆ】 |
+| 13350 | Alisha FZ Suit | 阿爾伊夏套裝【ＦＺ】 |
+| 13351 | Alisha HS Suit | 阿爾伊夏套裝【ＨＳ】 |
+| 13352 | Alisha GS Suit | 阿爾伊夏套裝【ＧＳ】 |
+| 13353 | Alisha GP Suit | 阿爾伊夏套裝【ＧＰ】 |
+| 13354 | Alisha ZP Suit | 阿爾伊夏套裝【ＺＰ】 |
+| 13355 | Alisha Vest | 阿爾伊夏背心 |
+| 13356 | Alisha F Vest | 阿爾伊夏背心【Ｆ】 |
+| 13357 | Alisha FZ Vest | 阿爾伊夏背心【ＦＺ】 |
+| 13358 | Alisha HS Vest | 阿爾伊夏背心【ＨＳ】 |
+| 13359 | Alisha GS Vest | 阿爾伊夏背心【ＧＳ】 |
+| 13360 | Alisha GP Vest | 阿爾伊夏背心【ＧＰ】 |
+| 13361 | Alisha ZP Vest | 阿爾伊夏背心【ＺＰ】 |
+| 13362 | Ricca Suit | 里克克阿套裝 |
+| 13363 | Ricca F Suit | 里克克阿套裝【Ｆ】 |
+| 13364 | Ricca FZ Suit | 里克克阿套裝【ＦＺ】 |
+| 13365 | Ricca HS Suit | 里克克阿套裝【ＨＳ】 |
+| 13366 | Ricca GS Suit | 里克克阿套裝【ＧＳ】 |
+| 13367 | Ricca GP Suit | 里克克阿套裝【ＧＰ】 |
+| 13368 | Ricca ZP Suit | 里克克阿套裝【ＺＰ】 |
+| 13369 | Ricca Vest | 里克克阿背心 |
+| 13370 | Ricca F Vest | 里克克阿背心【Ｆ】 |
+| 13371 | Ricca FZ Vest | 里克克阿背心【ＦＺ】 |
+| 13372 | Ricca HS Vest | 里克克阿背心【ＨＳ】 |
+| 13373 | Ricca GS Vest | 里克克阿背心【ＧＳ】 |
+| 13374 | Ricca GP Vest | 里克克阿背心【ＧＰ】 |
+| 13375 | Ricca ZP Vest | 里克克阿背心【ＺＰ】 |
+| 13376 | Kelis Suit | 凱爾伊斯套裝 |
+| 13377 | Kelis F Suit | 凱爾伊斯套裝【Ｆ】 |
+| 13378 | Kelis FZ Suit | 凱爾伊斯套裝【ＦＺ】 |
+| 13379 | Kelis HS Suit | 凱爾伊斯套裝【ＨＳ】 |
+| 13380 | Kelis GS Suit | 凱爾伊斯套裝【ＧＳ】 |
+| 13381 | Kelis GP Suit | 凱爾伊斯套裝【ＧＰ】 |
+| 13382 | Kelis ZP Suit | 凱爾伊斯套裝【ＺＰ】 |
+| 13383 | Kelis Vest | 凱爾伊斯背心 |
+| 13384 | Kelis F Vest | 凱爾伊斯背心【Ｆ】 |
+| 13385 | Kelis FZ Vest | 凱爾伊斯背心【ＦＺ】 |
+| 13386 | Kelis HS Vest | 凱爾伊斯背心【ＨＳ】 |
+| 13387 | Kelis GS Vest | 凱爾伊斯背心【ＧＳ】 |
+| 13388 | Kelis GP Vest | 凱爾伊斯背心【ＧＰ】 |
+| 13389 | Kelis ZP Vest | 凱爾伊斯背心【ＺＰ】 |
+| 13390 | Kinkou D Suit | 金剛Ｄ套裝 |
+| 13391 | Anbu D Suit | 阿恩布烏Ｄ套裝 |
+| 13392 | Rengoku Haori D | 雷恩歐庫哈歐里Ｄ羽織 |
+| 13393 | Nerigeki Haori D | 涅里格奇哈歐里Ｄ羽織 |
+| 13394 | Shanru D Mail | 浪紫黑Ｄ鎧 |
+| 13395 | Fanru D Mail | 觸媒研Ｄ鎧 |
+| 13396 | Zamuza ZD Mail | 扎穆扎茲德鎧 |
+| 13397 | Zamuza ZD Vest | 扎穆扎茲德背心 |
+| 13398 | Harudo ZD Mail | 哈魯多茲德鎧 |
+| 13399 | Harudo ZD Vest | 哈魯多茲德背心 |
+| 13400 | Arbiter D Plate | 阿爾比特爾德 |
+| 13401 | Elysi D Mail | 初音未Ｄ鎧 |
+| 13402 | Fine D Suit | 精Ｄ套裝 |
+| 13403 | Kotona D Suit | 媒研磨Ｄ套裝 |
+| 13404 | Finis D Suit | 終極征Ｄ套裝 |
+| 13405 | Firl D Suit | 媒研磨Ｄ套裝 |
+| 13406 | Ryoso Torso D | 爾約索托爾索 |
+| 13407 | Gems D Suit | 可雷托Ｄ套裝 |
+| 13408 | Alisha D Suit | 阿莉莎Ｄ套裝 |
+| 13409 | Ricca D Suit | 里可Ｄ套裝 |
+| 13410 | Kelis D Suit | 雷托吉Ｄ套裝 |
+| 13411 | Myunru D Mail | 姆伊烏恩爾烏Ｄ鎧 |
+| 13412 | Seiryu・Kensei D Mail | 瑟伊里烏克艾恩斯艾伊Ｄ鎧 |
+| 13413 | Seiryu・双龍D Mail | 瑟伊里烏・Ｄ鎧 |
+| 13414 | Seiryu・剣王D Mail | 瑟伊里烏・Ｄ鎧 |
+| 13415 | Seiryu・刀神D Mail | 瑟伊里烏・Ｄ鎧 |
+| 13416 | Seiryu・Heaven 槍D Mail | 瑟伊里烏・天Ｄ頭部防具鎧 |
+| 13417 | Seiryu・砲皇D Mail | 瑟伊里烏・Ｄ鎧 |
+| 13418 | Seiryu・鈍器獣D Mail | 瑟伊里烏・Ｄ鎧 |
+| 13419 | Seiryu・奏帝D Mail | 瑟伊里烏・Ｄ鎧 |
+| 13420 | Seiryu・穿凰D Mail | 瑟伊里烏・Ｄ鎧 |
+| 13421 | Seiryu・斬将D Mail | 瑟伊里烏・Ｄ鎧 |
+| 13422 | Seiryu・銃傑D Suit | 瑟伊里烏・Ｄ面罩套裝 |
+| 13423 | Seiryu・銃仙D Suit | 瑟伊里烏・Ｄ面罩套裝 |
+| 13424 | Seiryu・Bow 鬼D Suit | 瑟伊里烏・弓Ｄ套裝 |
+| 13425 | Seiryu・磁星D Mail | 瑟伊里烏・Ｄ鎧 |
+| 13426 | K. Lobster Shell PD Black | 克洛布斯特爾【ＰＤ】・黑 |
+| 13427 | K. Lobster Shell PD Green | 克洛布斯特爾【ＰＤ】・緑 |
+| 13428 | K. Lobster Shell PD Blue | 克洛布斯特爾【ＰＤ】・青 |
+| 13429 | K. Lobster Skin PD Black | 克洛布斯特爾【ＰＤ】・黑 |
+| 13430 | K. Lobster Skin PD Green | 克洛布斯特爾【ＰＤ】・緑 |
+| 13431 | K. Lobster Skin PD Blue | 克洛布斯特爾【ＰＤ】・青 |
+| 13432 | Hypnoc Mail PD Green | 眠鳥鎧【ＰＤ】・緑 |
+| 13433 | Hypnoc Mail PD Red | 眠鳥鎧【ＰＤ】・赤 |
+| 13434 | Hypnoc Mail PD Yellow | 眠鳥鎧【ＰＤ】・黄 |
+| 13435 | Beru Mail PD Black | 舞雷龍鎧【ＰＤ】・黑 |
+| 13436 | Beru Mail PD Red | 舞雷龍鎧【ＰＤ】・赤 |
+| 13437 | Beru Mail PD Purple | 舞雷龍鎧【ＰＤ】・紫 |
+| 13438 | Beru Vest PD Black | 舞雷龍背心【ＰＤ】・黑 |
+| 13439 | Beru Vest PD Red | 舞雷龍背心【ＰＤ】・赤 |
+| 13440 | Beru Vest PD Purple | 舞雷龍背心【ＰＤ】・紫 |
+| 13441 | Black Belt Mail PD White | 黑腰帶鎧【ＰＤ】・黑・白 |
+| 13442 | Black Belt Mail PD Black | 黑腰帶鎧【ＰＤ】・黑 |
+| 13443 | Black Belt Mail PD Blue | 黑腰帶鎧【ＰＤ】・黑・青 |
+| 13444 | Apkallu Mail PD White | 阿普可魯鎧【ＰＤ】・白 |
+| 13445 | Apkallu Mail PD Green | 阿普可魯鎧【ＰＤ】・緑 |
+| 13446 | Apkallu Mail PD Yellow | 阿普可魯鎧【ＰＤ】・黄 |
+| 13447 | Ruko Hide PD White | 魯科皮衣【ＰＤ】・白 |
+| 13448 | Ruko Hide PD Blue | 魯科皮衣【ＰＤ】・青 |
+| 13449 | Ruko Hide PD Red | 魯科皮衣【ＰＤ】・赤 |
+| 13450 | Ruko Skin PD White | 魯科斯基恩【ＰＤ】・白 |
+| 13451 | Ruko Skin PD Blue | 魯科斯基恩【ＰＤ】・青 |
+| 13452 | Ruko Skin PD Red | 魯科斯基恩【ＰＤ】・赤 |
+| 13453 | Comrade Mail PD White Red | 戰友鎧【ＰＤ】・白・赤 |
+| 13454 | Comrade Mail PD White Blue | 戰友鎧【ＰＤ】・白・青 |
+| 13455 | Comrade Mail PD White Yellow | 戰友鎧【ＰＤ】・白・黄 |
+| 13456 | Otono D Jacket | 抑制螺腕夾克 |
+| 13457 | 忍の Shozoku・空D | 忍之籠手・空 |
+| 13458 | 忍の Shozoku・海D | 忍之籠手・海 |
+| 13459 | Shadow Shozoku・D | 修阿多烏修歐 |
+| 13460 | Shade Shozoku・D | 修阿德修歐佐 |
+| 13461 | Hope D Mail | 望Ｄ鎧 |
+

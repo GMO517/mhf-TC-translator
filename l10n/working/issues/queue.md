@@ -9,15 +9,18 @@
 
 | CATEGORY | 進度 | 批次產物 | 下一筆 |
 |---|---|---|---|
-| armors 連夜重譯 | in_progress | arms 已重譯＋拆檔 | 下一步：arms commit → waist/legs/head/body |
+| armors 連夜重譯 | done | 五部位拆檔 review | 待最終人審；下一步 Gate4；未回寫本體 |
 
 ## 待獨立 QA
 
 | CATEGORY | issue |
 |---|---|
 | beads-info / seals-jebia | 見既有 stub；勿重翻 |
-| armors-arms | `issues/armors/arms/reviews-arms-1.md` … `27.md`（連夜重譯完成；待最終人審；未回寫） |
-| armors-waist／legs | `issues/armors/review-armors-*.md`（全表；待比照拆檔） |
+| armors-arms | `issues/armors/arms/reviews-arms-*.md` |
+| armors-waist | `issues/armors/waist/reviews-waist-*.md` |
+| armors-legs | `issues/armors/legs/reviews-legs-*.md` |
+| armors-head | `issues/armors/head/reviews-head-*.md` |
+| armors-body | `issues/armors/body/reviews-body-*.md` |
 | monsters-description | `issues/monsters/review-monsters-description.md` |
 
 ## 處理完（qa_done）
