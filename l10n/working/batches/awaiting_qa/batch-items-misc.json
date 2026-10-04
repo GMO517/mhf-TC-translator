@@ -1,0 +1,802 @@
+{
+  "section_id": "items-name",
+  "label": "雜項常用",
+  "translations": [
+    {
+      "index": "1238",
+      "target": "龍撃者報告"
+    },
+    {
+      "index": "1239",
+      "target": "王的惡作劇"
+    },
+    {
+      "index": "1240",
+      "target": "秘密武器計畫"
+    },
+    {
+      "index": "1241",
+      "target": "褐色布料"
+    },
+    {
+      "index": "1244",
+      "target": "猫人秘寶"
+    },
+    {
+      "index": "1245",
+      "target": "猫人秘寶＋"
+    },
+    {
+      "index": "1246",
+      "target": "猫人隱藏秘寶"
+    },
+    {
+      "index": "1247",
+      "target": "猫人紅寶石"
+    },
+    {
+      "index": "1248",
+      "target": "猫人紅寶石＋"
+    },
+    {
+      "index": "1249",
+      "target": "猫人神紅寶石"
+    },
+    {
+      "index": "1443",
+      "target": "龍之油"
+    },
+    {
+      "index": "1444",
+      "target": "龍之油＋"
+    },
+    {
+      "index": "1445",
+      "target": "濃厚龍之油"
+    },
+    {
+      "index": "1446",
+      "target": "捕獲證明"
+    },
+    {
+      "index": "1447",
+      "target": "破壞證明"
+    },
+    {
+      "index": "1448",
+      "target": "玉片"
+    },
+    {
+      "index": "1449",
+      "target": "大裝甲玉"
+    },
+    {
+      "index": "1450",
+      "target": "超裝甲玉"
+    },
+    {
+      "index": "1467",
+      "target": "公會徽章"
+    },
+    {
+      "index": "1468",
+      "target": "公會支票（１ｋ）"
+    },
+    {
+      "index": "1471",
+      "target": "６０ｋ支票"
+    },
+    {
+      "index": "1472",
+      "target": "３０ｋ支票"
+    },
+    {
+      "index": "1481",
+      "target": "少女的體力"
+    },
+    {
+      "index": "1482",
+      "target": "少女的耐性"
+    },
+    {
+      "index": "1483",
+      "target": "少女的持續"
+    },
+    {
+      "index": "1487",
+      "target": "水煮銀蛋"
+    },
+    {
+      "index": "1488",
+      "target": "水煮金蛋"
+    },
+    {
+      "index": "1489",
+      "target": "耐震果實"
+    },
+    {
+      "index": "1510",
+      "target": "避雷針Ｇ"
+    },
+    {
+      "index": "1521",
+      "target": "古代讚美歌"
+    },
+    {
+      "index": "1522",
+      "target": "友情羈絆"
+    },
+    {
+      "index": "1523",
+      "target": "蛋碎片"
+    },
+    {
+      "index": "1524",
+      "target": "獵人知識"
+    },
+    {
+      "index": "1530",
+      "target": "祭典回憶"
+    },
+    {
+      "index": "1531",
+      "target": "文憑"
+    },
+    {
+      "index": "1537",
+      "target": "近距投射器"
+    },
+    {
+      "index": "1549",
+      "target": "緊急袋"
+    },
+    {
+      "index": "1555",
+      "target": "旅團礦物"
+    },
+    {
+      "index": "1558",
+      "target": "速度果實"
+    },
+    {
+      "index": "1611",
+      "target": "公會印章"
+    },
+    {
+      "index": "1613",
+      "target": "超幸運護符"
+    },
+    {
+      "index": "1634",
+      "target": "熱猫字條"
+    },
+    {
+      "index": "1635",
+      "target": "涼猫字條"
+    },
+    {
+      "index": "1636",
+      "target": "扇猫字條"
+    },
+    {
+      "index": "1637",
+      "target": "硬幣清潔劑"
+    },
+    {
+      "index": "1638",
+      "target": "優勝硬幣"
+    },
+    {
+      "index": "1641",
+      "target": "漁夫證明"
+    },
+    {
+      "index": "1652",
+      "target": "岩鹽"
+    },
+    {
+      "index": "1677",
+      "target": "最佳食譜"
+    },
+    {
+      "index": "1680",
+      "target": "特典代幣"
+    },
+    {
+      "index": "1681",
+      "target": "少女的活力"
+    },
+    {
+      "index": "1682",
+      "target": "少女的免疫"
+    },
+    {
+      "index": "1683",
+      "target": "少女的耐力"
+    },
+    {
+      "index": "1684",
+      "target": "少女的魂"
+    },
+    {
+      "index": "1687",
+      "target": "移動速度果實"
+    },
+    {
+      "index": "1693",
+      "target": "波爾塔Mochio"
+    },
+    {
+      "index": "1716",
+      "target": "獵人SecretText"
+    },
+    {
+      "index": "1805",
+      "target": "異國首飾"
+    },
+    {
+      "index": "1846",
+      "target": "古代HymnII"
+    },
+    {
+      "index": "1862",
+      "target": "波爾塔Snail"
+    },
+    {
+      "index": "1863",
+      "target": "波爾塔Grill"
+    },
+    {
+      "index": "1864",
+      "target": "波爾塔Ice"
+    },
+    {
+      "index": "1865",
+      "target": "波爾塔Velvet"
+    },
+    {
+      "index": "2031",
+      "target": "公會勳章lion"
+    },
+    {
+      "index": "2039",
+      "target": "旅團勳章"
+    },
+    {
+      "index": "2090",
+      "target": "珠寶箱"
+    },
+    {
+      "index": "2142",
+      "target": "公會Seal"
+    },
+    {
+      "index": "2549",
+      "target": "獵人SealRed"
+    },
+    {
+      "index": "2550",
+      "target": "獵人SealBlue"
+    },
+    {
+      "index": "2551",
+      "target": "獵人SealWhite"
+    },
+    {
+      "index": "2552",
+      "target": "獵人SealPink"
+    },
+    {
+      "index": "2553",
+      "target": "獵人SealPrpl"
+    },
+    {
+      "index": "2554",
+      "target": "獵人SealYlw"
+    },
+    {
+      "index": "2644",
+      "target": "防具匠的秘訣"
+    },
+    {
+      "index": "3053",
+      "target": "Secret字條sBook"
+    },
+    {
+      "index": "3311",
+      "target": "情熱之形"
+    },
+    {
+      "index": "3312",
+      "target": "情熱之矢"
+    },
+    {
+      "index": "3568",
+      "target": "波爾塔Cookies"
+    },
+    {
+      "index": "3569",
+      "target": "波爾塔Chocolate"
+    },
+    {
+      "index": "3570",
+      "target": "波爾塔Candy"
+    },
+    {
+      "index": "4088",
+      "target": "森林之歌"
+    },
+    {
+      "index": "4476",
+      "target": "鐵羅盤"
+    },
+    {
+      "index": "4480",
+      "target": "獵人可片Green"
+    },
+    {
+      "index": "4481",
+      "target": "獵人可片Black"
+    },
+    {
+      "index": "4482",
+      "target": "獵人可片Yellow"
+    },
+    {
+      "index": "4483",
+      "target": "獵人可片Water"
+    },
+    {
+      "index": "4484",
+      "target": "獵人可片Orange"
+    },
+    {
+      "index": "4782",
+      "target": "古代Debris"
+    },
+    {
+      "index": "4841",
+      "target": "古代Ink"
+    },
+    {
+      "index": "4887",
+      "target": "森林之歌"
+    },
+    {
+      "index": "4910",
+      "target": "波爾塔Pyroxene"
+    },
+    {
+      "index": "5175",
+      "target": "BrownPortrait"
+    },
+    {
+      "index": "5247",
+      "target": "真實羅盤"
+    },
+    {
+      "index": "5384",
+      "target": "Secret證明・Low"
+    },
+    {
+      "index": "5385",
+      "target": "Secret證明・Mid"
+    },
+    {
+      "index": "5386",
+      "target": "Secret證明・High"
+    },
+    {
+      "index": "5387",
+      "target": "SecretGuide"
+    },
+    {
+      "index": "5586",
+      "target": "古代Quartz"
+    },
+    {
+      "index": "5595",
+      "target": "公會Banner"
+    },
+    {
+      "index": "6059",
+      "target": "超HardWCCO"
+    },
+    {
+      "index": "6060",
+      "target": "超HardHCLM"
+    },
+    {
+      "index": "6225",
+      "target": "SecretArtsSPα"
+    },
+    {
+      "index": "6226",
+      "target": "SecretArtsSPβ"
+    },
+    {
+      "index": "6832",
+      "target": "ＧＷ裝飾券"
+    },
+    {
+      "index": "6837",
+      "target": "公會R.Cuff1"
+    },
+    {
+      "index": "6838",
+      "target": "公會R.Cuff2"
+    },
+    {
+      "index": "6839",
+      "target": "公會R.Cuff3"
+    },
+    {
+      "index": "6840",
+      "target": "公會R.Cuff4"
+    },
+    {
+      "index": "6841",
+      "target": "公會R.Cuff5"
+    },
+    {
+      "index": "6842",
+      "target": "公會R.Cuff6"
+    },
+    {
+      "index": "6843",
+      "target": "公會R.Cuff7"
+    },
+    {
+      "index": "6844",
+      "target": "公會R.Cuff8"
+    },
+    {
+      "index": "6845",
+      "target": "公會R.Cuff9"
+    },
+    {
+      "index": "6846",
+      "target": "公會R.Cuff10"
+    },
+    {
+      "index": "6847",
+      "target": "公會R.Cuff11"
+    },
+    {
+      "index": "6848",
+      "target": "公會R.Cuff12"
+    },
+    {
+      "index": "7224",
+      "target": "旅團Trsr"
+    },
+    {
+      "index": "7980",
+      "target": "公會IntroLetter"
+    },
+    {
+      "index": "7982",
+      "target": "公會Commendation"
+    },
+    {
+      "index": "8068",
+      "target": "公會Aid證明"
+    },
+    {
+      "index": "8260",
+      "target": "SecretRedBall"
+    },
+    {
+      "index": "8274",
+      "target": "SecretofKut-Ku"
+    },
+    {
+      "index": "8936",
+      "target": "旅團MoonBox"
+    },
+    {
+      "index": "8951",
+      "target": "古代Algae"
+    },
+    {
+      "index": "9366",
+      "target": "Elegant袋"
+    },
+    {
+      "index": "9490",
+      "target": "獵人G"
+    },
+    {
+      "index": "9581",
+      "target": "波爾塔Pyroxene(F)"
+    },
+    {
+      "index": "9643",
+      "target": "獵人通行證・Red"
+    },
+    {
+      "index": "9644",
+      "target": "獵人通行證・Blue"
+    },
+    {
+      "index": "9645",
+      "target": "獵人通行證・White"
+    },
+    {
+      "index": "9646",
+      "target": "獵人通行證・Pink"
+    },
+    {
+      "index": "9647",
+      "target": "獵人通行證・Purple"
+    },
+    {
+      "index": "9648",
+      "target": "獵人通行證・Yellow"
+    },
+    {
+      "index": "9649",
+      "target": "獵人Ring・Red"
+    },
+    {
+      "index": "9650",
+      "target": "獵人Ring・Blue"
+    },
+    {
+      "index": "9651",
+      "target": "獵人Ring・White"
+    },
+    {
+      "index": "9652",
+      "target": "獵人Ring・Pink"
+    },
+    {
+      "index": "9653",
+      "target": "獵人Ring・Purple"
+    },
+    {
+      "index": "9654",
+      "target": "獵人Ring・Yellow"
+    },
+    {
+      "index": "9655",
+      "target": "獵人Badge・Red"
+    },
+    {
+      "index": "9656",
+      "target": "獵人Badge・Blue"
+    },
+    {
+      "index": "9657",
+      "target": "獵人Badge・White"
+    },
+    {
+      "index": "9658",
+      "target": "獵人Badge・Pink"
+    },
+    {
+      "index": "9659",
+      "target": "獵人Badge・Purp"
+    },
+    {
+      "index": "9660",
+      "target": "獵人Badge・Yell"
+    },
+    {
+      "index": "9661",
+      "target": "獵人勳章・Red"
+    },
+    {
+      "index": "9662",
+      "target": "獵人勳章・Blue"
+    },
+    {
+      "index": "9663",
+      "target": "獵人勳章・White"
+    },
+    {
+      "index": "9664",
+      "target": "獵人勳章・Pink"
+    },
+    {
+      "index": "9665",
+      "target": "獵人勳章・Purpl"
+    },
+    {
+      "index": "9666",
+      "target": "獵人勳章・Yellw"
+    },
+    {
+      "index": "9701",
+      "target": "超DashExtract"
+    },
+    {
+      "index": "9795",
+      "target": "超HardGGGX"
+    },
+    {
+      "index": "9951",
+      "target": "旅團BloomBox"
+    },
+    {
+      "index": "9952",
+      "target": "旅團StarBox"
+    },
+    {
+      "index": "9953",
+      "target": "旅團SnowBox"
+    },
+    {
+      "index": "9954",
+      "target": "旅團AirBox"
+    },
+    {
+      "index": "10182",
+      "target": "獵人Heart・Yellw"
+    },
+    {
+      "index": "10183",
+      "target": "獵人Heart・Red"
+    },
+    {
+      "index": "10184",
+      "target": "獵人Heart・Green"
+    },
+    {
+      "index": "10185",
+      "target": "獵人Heart・Blue"
+    },
+    {
+      "index": "10746",
+      "target": "旅團PlumBox"
+    },
+    {
+      "index": "10747",
+      "target": "旅團ChrysnthmBox"
+    },
+    {
+      "index": "10748",
+      "target": "旅團CherryBox"
+    },
+    {
+      "index": "10768",
+      "target": "勇敢頭兜"
+    },
+    {
+      "index": "10769",
+      "target": "白猫票據"
+    },
+    {
+      "index": "10778",
+      "target": "皇家黑布"
+    },
+    {
+      "index": "10779",
+      "target": "金線"
+    },
+    {
+      "index": "10781",
+      "target": "公會結晶紋章"
+    },
+    {
+      "index": "10782",
+      "target": "公會深淵紋章"
+    },
+    {
+      "index": "10783",
+      "target": "公會櫻紅紋章"
+    },
+    {
+      "index": "10900",
+      "target": "獵人Deco"
+    },
+    {
+      "index": "11163",
+      "target": "古代GoldShard"
+    },
+    {
+      "index": "11164",
+      "target": "古代Technology"
+    },
+    {
+      "index": "11173",
+      "target": "古代Book"
+    },
+    {
+      "index": "11209",
+      "target": "ElegantWhtCloth"
+    },
+    {
+      "index": "11286",
+      "target": "古代超Stl"
+    },
+    {
+      "index": "11439",
+      "target": "旅團SecretBox"
+    },
+    {
+      "index": "11463",
+      "target": "Elegant古代Docs"
+    },
+    {
+      "index": "11470",
+      "target": "公會紋章"
+    },
+    {
+      "index": "11661",
+      "target": "古代Dissolver"
+    },
+    {
+      "index": "11662",
+      "target": "古代Lubricant"
+    },
+    {
+      "index": "12041",
+      "target": "旅團CrmelliaBox"
+    },
+    {
+      "index": "12042",
+      "target": "旅團HllyhockBox"
+    },
+    {
+      "index": "12360",
+      "target": "波爾塔Brownies"
+    },
+    {
+      "index": "12361",
+      "target": "波爾塔Marshmallows"
+    },
+    {
+      "index": "12440",
+      "target": "友情證明Red"
+    },
+    {
+      "index": "12441",
+      "target": "友情證明Blue"
+    },
+    {
+      "index": "12442",
+      "target": "友情證明Wht"
+    },
+    {
+      "index": "12443",
+      "target": "友情證明Yllw"
+    },
+    {
+      "index": "12444",
+      "target": "友情證明Pink"
+    },
+    {
+      "index": "12445",
+      "target": "友情證明Pur"
+    },
+    {
+      "index": "12503",
+      "target": "ElegantBlueCloth"
+    },
+    {
+      "index": "12512",
+      "target": "公會Symbol"
+    },
+    {
+      "index": "13065",
+      "target": "ElegantBladeG"
+    },
+    {
+      "index": "13079",
+      "target": "旅團OrchidBox"
+    },
+    {
+      "index": "13366",
+      "target": "波爾塔PyroxeneGreen"
+    },
+    {
+      "index": "13367",
+      "target": "波爾塔PyroxeneSakura"
+    },
+    {
+      "index": "15044",
+      "target": "波爾塔Anko"
+    }
+  ]
+}
