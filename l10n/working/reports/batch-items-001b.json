@@ -1,0 +1,11 @@
+{
+  "section_id": "items-name",
+  "translations": [
+    {"index": "12", "target": "免疫藥"},
+    {"index": "13", "target": "強走藥"},
+    {"index": "14", "target": "強走藥．大"},
+    {"index": "43", "target": "蜜汁肉"},
+    {"index": "45", "target": "麻痺肉"},
+    {"index": "64", "target": "回力標"}
+  ]
+}

@@ -1,76 +1,76 @@
 index,source,target
 0,－－－－－－,－－－－－－
 1,Book of Combos 1,調合書①
-2,Book of Combos 2,Book of Combos 2
-3,Book of Combos 3,Book of Combos 3
-4,Book of Combos 4,Book of Combos 4
-5,Book of Combos 5,Book of Combos 5
+2,Book of Combos 2,調合書②
+3,Book of Combos 3,調合書③
+4,Book of Combos 4,調合書④
+5,Book of Combos 5,調合書⑤
 6,Alchemy Guide,煉金術指南
 7,Potion,回復藥
 8,Mega Potion,回復藥．大
-9,Nutrients,Nutrients
-10,Mega Nutrients,Mega Nutrients
+9,Nutrients,營養劑
+10,Mega Nutrients,營養劑．大
 11,Antidote,解毒藥
-12,Immunizer,Immunizer
-13,Dash Juice,Dash Juice
-14,Mega Dash Juice,Mega Dash Juice
+12,Immunizer,免疫藥
+13,Dash Juice,強走藥
+14,Mega Dash Juice,強走藥．大
 15,Demondrug,鬼人藥
 16,Mega Demondrug,鬼人藥．大
-17,Might Pill,Might Pill
+17,Might Pill,怪力藥丸
 18,Armorskin,硬化藥
 19,Mega Armorskin,硬化藥．大
-20,Adamant Pill,Adamant Pill
+20,Adamant Pill,忍耐藥丸
 21,Cool Drink,冷飲
 22,Hot Drink,熱飲
-23,Psychoserum,Psychoserum
-24,Monster Fluid,Monster Fluid
-25,Monster Broth,Monster Broth
+23,Psychoserum,千里眼藥
+24,Monster Fluid,魔物體液
+25,Monster Broth,魔物濃汁
 26,Herbal Medicine,漢方藥
 27,Max Potion,萬能藥
 28,Ancient Potion,秘藥
-29,Catalyst,Catalyst
-30,Energy Drink,Energy Drink
+29,Catalyst,催化劑
+30,Energy Drink,能量飲料
 31,(dummy),(dummy)
-32,Gunpowder,Gunpowder
-33,Lifecrystals,Lifecrystals
-34,Lifepowder,Lifepowder
+32,Gunpowder,火藥
+33,Lifecrystals,生命結晶
+34,Lifepowder,生命粉塵
 35,Powercharm,力量護符
 36,Powertalon,力量之爪
 37,Armorcharm,守護護符
 38,Armortalon,守護之爪
-39,Tranquilizer,Tranquilizer
+39,Tranquilizer,鎮定劑
 40,Raw Meat,生肉
-41,Oiled Meat,Oiled Meat
-42,Spiced Meat,Spiced Meat
-43,Glazed meat,Glazed meat
-44,Poisoned Meat,Poisoned Meat
-45,Tinged Meat,Tinged Meat
-46,Drugged Meat,Drugged Meat
+41,Oiled Meat,塗油肉
+42,Spiced Meat,辣味肉
+43,Glazed meat,蜜汁肉
+44,Poisoned Meat,毒肉
+45,Tinged Meat,麻痺肉
+46,Drugged Meat,睡眠肉
 47,Rare Steak,半熟肉
 48,Well-done Steak,熟肉
-49,Gourmet Steak,Gourmet Steak
-50,Burnt Meat,Burnt Meat
-51,Hot Meat,Hot Meat
-52,Hot Meat+,Hot Meat+
-53,Chilled Meat,Chilled Meat
-54,Chilled Meat+,Chilled Meat+
-55,Antidote Meat,Antidote Meat
-56,Antidote Meat+,Antidote Meat+
-57,Rare Fish,Rare Fish
-58,Well Done Fish,Well Done Fish
-59,Well Done Fish Dos,Well Done Fish Dos
-60,Gourmet Fish,Gourmet Fish
-61,Gourmet Fish Dos,Gourmet Fish Dos
-62,Burnt Fish,Burnt Fish
+49,Gourmet Steak,美食牛排
+50,Burnt Meat,燒焦肉
+51,Hot Meat,熱肉
+52,Hot Meat+,熱肉＋
+53,Chilled Meat,冷肉
+54,Chilled Meat+,冷肉＋
+55,Antidote Meat,解毒肉
+56,Antidote Meat+,解毒肉＋
+57,Rare Fish,半熟魚
+58,Well Done Fish,熟魚
+59,Well Done Fish Dos,熟魚．改
+60,Gourmet Fish,美食魚
+61,Gourmet Fish Dos,美食魚．改
+62,Burnt Fish,燒焦魚
 63,(dummy),(dummy)
-64,Boomerang,Boomerang
-65,Throwing Knife,Throwing Knife
-66,Poison Knife,Poison Knife
-67,Sleep Knife,Sleep Knife
-68,Paralysis Knife,Paralysis Knife
-69,Tranq Knife,Tranq Knife
-70,Bomb Casing,Bomb Casing
-71,Paintball,Paintball
+64,Boomerang,回力標
+65,Throwing Knife,投擲刀
+66,Poison Knife,毒投擲刀
+67,Sleep Knife,睡眠投擲刀
+68,Paralysis Knife,麻痺投擲刀
+69,Tranq Knife,捕獲用麻醉刀
+70,Bomb Casing,爆彈殼
+71,Paintball,塗料球
 72,Flash Bomb,閃光彈
 73,Sonic Bomb,音爆彈
 74,Dung,Dung

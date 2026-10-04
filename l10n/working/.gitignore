@@ -1,6 +1,8 @@
 _writeback_work/
 _writeback_work_*/
 _verify/
+_verify*/
 _wbtest/
+_wbtest*/
 __pycache__/
 *.pyc
