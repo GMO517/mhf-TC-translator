@@ -54,8 +54,10 @@
 
 ## Phase 3 — MVP 翻譯與回寫（小步）
 
-> 閘門：Phase 0 round-trip + Phase 0.5 字型 + Phase 2 審詞，三者未過不開始。
+> 閘門：Phase 0 round-trip + Phase 0.5 字型 + Phase 2 審詞，三者未過不開始。  
+> **工作循環**：`docs/PHASE3-LOOP.md`（部分處理 → agent 複審 → 過則擴大／不過則修 → 做到完）。
 
+- [~] 按循環執行（層次 A：6 xpath 詞庫命中 → 層次 B：未入庫列）
 - [ ] 按 section：填 `l10n/working/` → 驗證 placeholder／行寬／編碼
 - [ ] `--compress --encrypt` 回寫，覆蓋前對指紋
 - [ ] 私服進遊戲驗收該 section 後再做下一 section

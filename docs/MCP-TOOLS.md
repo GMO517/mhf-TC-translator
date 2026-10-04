@@ -36,6 +36,7 @@
 3. section 進遊戲驗收清單  
 4. FTH 常用指令速查（`l10n/README.md`）  
 5. 有抽出／詞庫變更時**立刻**改 `TODO.md`，禁止文件與磁碟脫節  
+6. Phase 3 循環節奏 → `docs/PHASE3-LOOP.md`＋`l10n/working/PIPELINE.md`  
 
 ## 禁止
 
