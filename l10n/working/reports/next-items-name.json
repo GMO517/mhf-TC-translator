@@ -1,7 +1,7 @@
 {
   "section_id": "items-name",
   "xpath": "dat/items/name",
-  "pending_total_estimate": 16406,
+  "pending_total_estimate": 16339,
   "batch": [
     {
       "index": "31",
@@ -56,272 +56,272 @@
       "source": "(dummy)"
     },
     {
-      "index": "309",
-      "source": "Electro Sac"
+      "index": "376",
+      "source": "Gypceros Head"
     },
     {
-      "index": "310",
-      "source": "Dash Extract"
+      "index": "377",
+      "source": "P.Rubbery Hide"
     },
     {
-      "index": "311",
-      "source": "Pale Extract"
+      "index": "378",
+      "source": "P.Gypceros Wing"
     },
     {
-      "index": "312",
-      "source": "Sm Monster Bone"
+      "index": "379",
+      "source": "Piscine Liver"
     },
     {
-      "index": "313",
-      "source": "Med Monster Bone"
+      "index": "380",
+      "source": "Piscine Fang"
     },
     {
-      "index": "314",
-      "source": "Lg Monster Bone"
+      "index": "381",
+      "source": "Plesioth Scale"
     },
     {
-      "index": "315",
-      "source": "Monster Hardbone"
+      "index": "382",
+      "source": "Plesioth Scale+"
     },
     {
-      "index": "316",
-      "source": "Elder Dragon Bone"
+      "index": "383",
+      "source": "Plesioth Fin"
     },
     {
-      "index": "317",
-      "source": "Mystery Bone"
+      "index": "384",
+      "source": "G.Plesioth Scale"
     },
     {
-      "index": "318",
-      "source": "Unknown Skull"
+      "index": "385",
+      "source": "G.Plesioth Fin"
     },
     {
-      "index": "319",
-      "source": "Master's Skull"
+      "index": "386",
+      "source": "Cephalos Scale"
     },
     {
-      "index": "320",
-      "source": "Bone"
+      "index": "387",
+      "source": "Cephalos Scale+"
     },
     {
-      "index": "321",
-      "source": "Jumbo Bone"
+      "index": "388",
+      "source": "Cephalos Fin"
     },
     {
-      "index": "322",
-      "source": "Wyvern Fang"
+      "index": "389",
+      "source": "Cephalos Fin+"
     },
     {
-      "index": "323",
-      "source": "Wyvern Claw"
+      "index": "390",
+      "source": "Coral Cphlos Scl"
     },
     {
-      "index": "324",
-      "source": "Wyvern Gem"
+      "index": "391",
+      "source": "Coral Cphlos Fin"
     },
     {
-      "index": "325",
-      "source": "Wyvern Tears"
+      "index": "392",
+      "source": "Rathian Scale"
     },
     {
-      "index": "326",
-      "source": "Territorial Dung"
+      "index": "393",
+      "source": "Rathian Scale+"
     },
     {
-      "index": "327",
-      "source": "Crab Pearl"
+      "index": "394",
+      "source": "Rathian Plate"
     },
     {
-      "index": "328",
-      "source": "Dragon Treasure"
+      "index": "395",
+      "source": "Rathian Ruby"
     },
     {
-      "index": "329",
-      "source": "Decayed Drgn Scl"
+      "index": "396",
+      "source": "Rathian Shell"
     },
     {
-      "index": "330",
-      "source": "Crystalized Scale"
+      "index": "397",
+      "source": "Rathian Carapace"
     },
     {
-      "index": "331",
-      "source": "Mosswine Hide"
+      "index": "398",
+      "source": "Rathian Spike"
     },
     {
-      "index": "332",
-      "source": "Mosswine Head"
+      "index": "399",
+      "source": "Rathian Spike+"
     },
     {
-      "index": "333",
-      "source": "Bullfango Pelt"
+      "index": "400",
+      "source": "P.Rathian Scale"
     },
     {
-      "index": "334",
-      "source": "Bullfango Head"
+      "index": "401",
+      "source": "P.Rathian Scale+"
     },
     {
-      "index": "335",
-      "source": "Bulldrome Hide"
+      "index": "402",
+      "source": "P.Rathian Shell"
     },
     {
-      "index": "336",
-      "source": "Bulldrome Hide+"
+      "index": "403",
+      "source": "P.Rathian Carpace"
     },
     {
-      "index": "337",
-      "source": "Kelbi Horn"
+      "index": "404",
+      "source": "G.Rathian Scale+"
     },
     {
-      "index": "338",
-      "source": "Kelbi Hide"
+      "index": "405",
+      "source": "G.Rathian Carpace"
     },
     {
-      "index": "339",
-      "source": "Anteka Pelt"
+      "index": "406",
+      "source": "Fire Wyvern Claw"
     },
     {
-      "index": "340",
-      "source": "Anteka Antlers"
+      "index": "407",
+      "source": "Fire Wyvern Marrw"
     },
     {
-      "index": "341",
-      "source": "Velociprey Fang"
+      "index": "408",
+      "source": "Rathalos Scale"
     },
     {
-      "index": "342",
-      "source": "Velociprey Scale"
+      "index": "409",
+      "source": "Rathalos Scale+"
     },
     {
-      "index": "343",
-      "source": "Velociprey Scale+"
+      "index": "410",
+      "source": "Rathalos Plate"
     },
     {
-      "index": "344",
-      "source": "Velociprey Hide"
+      "index": "411",
+      "source": "Rathalos Ruby"
     },
     {
-      "index": "345",
-      "source": "Velocidrome Hide"
+      "index": "412",
+      "source": "Rathalos Shell"
     },
     {
-      "index": "346",
-      "source": "Velocidrome Claw"
+      "index": "413",
+      "source": "Rathalos Carpace"
     },
     {
-      "index": "347",
-      "source": "Velocidrome Claw+"
+      "index": "414",
+      "source": "Rathalos Tail"
     },
     {
-      "index": "348",
-      "source": "Velocidrome Head"
+      "index": "415",
+      "source": "Rathalos Webbing"
     },
     {
-      "index": "349",
-      "source": "Giaprey Scale"
+      "index": "416",
+      "source": "Rathalos Wing"
     },
     {
-      "index": "350",
-      "source": "Giaprey Hide"
+      "index": "417",
+      "source": "A.Rathalos Scale"
     },
     {
-      "index": "351",
-      "source": "Genprey Fang"
+      "index": "418",
+      "source": "A.Rathalos Scale+"
     },
     {
-      "index": "352",
-      "source": "Genprey Scale"
+      "index": "419",
+      "source": "A.Rathalos Shell"
     },
     {
-      "index": "353",
-      "source": "Genprey Scale+"
+      "index": "420",
+      "source": "A.Rathalos Cpc"
     },
     {
-      "index": "354",
-      "source": "Genprey Hide"
+      "index": "421",
+      "source": "A.Rathalos Tail"
     },
     {
-      "index": "355",
-      "source": "Gendrome Hide"
+      "index": "422",
+      "source": "A.Rathalos Wing"
     },
     {
-      "index": "356",
-      "source": "Gendrome Skull"
+      "index": "423",
+      "source": "S.Rathalos Scale+"
     },
     {
-      "index": "357",
-      "source": "Ioprey Fang"
+      "index": "424",
+      "source": "S.Rathalos Cpc"
     },
     {
-      "index": "358",
-      "source": "Ioprey Scale"
+      "index": "425",
+      "source": "S.Rathalos Tail"
     },
     {
-      "index": "359",
-      "source": "Ioprey Scale+"
+      "index": "426",
+      "source": "S.Rath Webbing"
     },
     {
-      "index": "360",
-      "source": "Ioprey Hide"
+      "index": "427",
+      "source": "S.Rathalos Wing"
     },
     {
-      "index": "361",
-      "source": "Iodrome Hide"
+      "index": "428",
+      "source": "Flabby Hide"
     },
     {
-      "index": "362",
-      "source": "Iodrome Skull"
+      "index": "429",
+      "source": "Khezu Pearl Hide"
     },
     {
-      "index": "363",
-      "source": "Kut-Ku Scale"
+      "index": "430",
+      "source": "Pale Bone"
     },
     {
-      "index": "364",
-      "source": "Kut-Ku Shell"
+      "index": "431",
+      "source": "Pale Khezu Steak"
     },
     {
-      "index": "365",
-      "source": "Kut-Ku Carapace"
+      "index": "432",
+      "source": "Alluring Hide"
     },
     {
-      "index": "366",
-      "source": "Kut-Ku Ear"
+      "index": "433",
+      "source": "Alluring Webbing"
     },
     {
-      "index": "367",
-      "source": "Long Kut-Ku Ear"
+      "index": "434",
+      "source": "Basarios Shell"
     },
     {
-      "index": "368",
-      "source": "Giant Beak"
+      "index": "435",
+      "source": "Basarios Carapace"
     },
     {
-      "index": "369",
-      "source": "Splendid Beak"
+      "index": "436",
+      "source": "Basarios Wing"
     },
     {
-      "index": "370",
-      "source": "Kut-Ku Webbing"
+      "index": "437",
+      "source": "Gravios Marrow"
     },
     {
-      "index": "371",
-      "source": "B.Kut-Ku Scale"
+      "index": "438",
+      "source": "Gravios Shell"
     },
     {
-      "index": "372",
-      "source": "B.Kut-Ku Shell"
+      "index": "439",
+      "source": "Gravios Carapace"
     },
     {
-      "index": "373",
-      "source": "B.Kut-Ku Carapace"
+      "index": "440",
+      "source": "Gravios Scalp"
     },
     {
-      "index": "374",
-      "source": "Rubbery Hide"
+      "index": "441",
+      "source": "B.Gravios Shell"
     },
     {
-      "index": "375",
-      "source": "Rubbery Hide+"
+      "index": "442",
+      "source": "B.Gravios Carpace"
     }
   ]
 }

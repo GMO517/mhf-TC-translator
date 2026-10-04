@@ -375,73 +375,73 @@ index,source,target
 373,B.Kut-Ku Carapace,青怪鳥的堅殼
 374,Rubbery Hide,橡膠質的皮
 375,Rubbery Hide+,橡膠質的皮＋
-376,Gypceros Head,Gypceros Head
-377,P.Rubbery Hide,P.Rubbery Hide
-378,P.Gypceros Wing,P.Gypceros Wing
-379,Piscine Liver,Piscine Liver
-380,Piscine Fang,Piscine Fang
-381,Plesioth Scale,Plesioth Scale
-382,Plesioth Scale+,Plesioth Scale+
-383,Plesioth Fin,Plesioth Fin
-384,G.Plesioth Scale,G.Plesioth Scale
-385,G.Plesioth Fin,G.Plesioth Fin
-386,Cephalos Scale,Cephalos Scale
-387,Cephalos Scale+,Cephalos Scale+
-388,Cephalos Fin,Cephalos Fin
-389,Cephalos Fin+,Cephalos Fin+
-390,Coral Cphlos Scl,Coral Cphlos Scl
-391,Coral Cphlos Fin,Coral Cphlos Fin
-392,Rathian Scale,Rathian Scale
-393,Rathian Scale+,Rathian Scale+
-394,Rathian Plate,Rathian Plate
-395,Rathian Ruby,Rathian Ruby
-396,Rathian Shell,Rathian Shell
-397,Rathian Carapace,Rathian Carapace
-398,Rathian Spike,Rathian Spike
-399,Rathian Spike+,Rathian Spike+
-400,P.Rathian Scale,P.Rathian Scale
-401,P.Rathian Scale+,P.Rathian Scale+
-402,P.Rathian Shell,P.Rathian Shell
-403,P.Rathian Carpace,P.Rathian Carpace
-404,G.Rathian Scale+,G.Rathian Scale+
-405,G.Rathian Carpace,G.Rathian Carpace
-406,Fire Wyvern Claw,Fire Wyvern Claw
-407,Fire Wyvern Marrw,Fire Wyvern Marrw
-408,Rathalos Scale,Rathalos Scale
-409,Rathalos Scale+,Rathalos Scale+
-410,Rathalos Plate,Rathalos Plate
-411,Rathalos Ruby,Rathalos Ruby
-412,Rathalos Shell,Rathalos Shell
-413,Rathalos Carpace,Rathalos Carpace
-414,Rathalos Tail,Rathalos Tail
-415,Rathalos Webbing,Rathalos Webbing
-416,Rathalos Wing,Rathalos Wing
-417,A.Rathalos Scale,A.Rathalos Scale
-418,A.Rathalos Scale+,A.Rathalos Scale+
-419,A.Rathalos Shell,A.Rathalos Shell
-420,A.Rathalos Cpc,A.Rathalos Cpc
-421,A.Rathalos Tail,A.Rathalos Tail
-422,A.Rathalos Wing,A.Rathalos Wing
-423,S.Rathalos Scale+,S.Rathalos Scale+
-424,S.Rathalos Cpc,S.Rathalos Cpc
-425,S.Rathalos Tail,S.Rathalos Tail
-426,S.Rath Webbing,S.Rath Webbing
-427,S.Rathalos Wing,S.Rathalos Wing
-428,Flabby Hide,Flabby Hide
-429,Khezu Pearl Hide,Khezu Pearl Hide
-430,Pale Bone,Pale Bone
-431,Pale Khezu Steak,Pale Khezu Steak
-432,Alluring Hide,Alluring Hide
-433,Alluring Webbing,Alluring Webbing
-434,Basarios Shell,Basarios Shell
-435,Basarios Carapace,Basarios Carapace
-436,Basarios Wing,Basarios Wing
-437,Gravios Marrow,Gravios Marrow
-438,Gravios Shell,Gravios Shell
-439,Gravios Carapace,Gravios Carapace
-440,Gravios Scalp,Gravios Scalp
-441,B.Gravios Shell,B.Gravios Shell
-442,B.Gravios Carpace,B.Gravios Carpace
+376,Gypceros Head,毒怪鳥的頭
+377,P.Rubbery Hide,紫橡膠質的皮
+378,P.Gypceros Wing,紫毒鳥的翼
+379,Piscine Liver,魚龍的肝
+380,Piscine Fang,魚龍的牙
+381,Plesioth Scale,水龍的鱗
+382,Plesioth Scale+,水龍的上鱗
+383,Plesioth Fin,水龍的鰭
+384,G.Plesioth Scale,翠水龍的鱗
+385,G.Plesioth Fin,翠水龍的鰭
+386,Cephalos Scale,砂龍的鱗
+387,Cephalos Scale+,砂龍的上鱗
+388,Cephalos Fin,砂龍的鰭
+389,Cephalos Fin+,砂龍的上鰭
+390,Coral Cphlos Scl,砂龍的珊瑚鱗
+391,Coral Cphlos Fin,砂龍的珊瑚鰭
+392,Rathian Scale,雌火龍的鱗
+393,Rathian Scale+,雌火龍的上鱗
+394,Rathian Plate,雌火龍的逆鱗
+395,Rathian Ruby,雌火龍的寶玉
+396,Rathian Shell,雌火龍的甲殼
+397,Rathian Carapace,雌火龍的堅殼
+398,Rathian Spike,雌火龍的棘
+399,Rathian Spike+,雌火龍的上棘
+400,P.Rathian Scale,櫻火龍的鱗
+401,P.Rathian Scale+,櫻火龍的上鱗
+402,P.Rathian Shell,櫻火龍的甲殼
+403,P.Rathian Carpace,櫻火龍的堅殼
+404,G.Rathian Scale+,金火龍的上鱗
+405,G.Rathian Carpace,金火龍的堅殼
+406,Fire Wyvern Claw,火龍的爪
+407,Fire Wyvern Marrw,火龍的骨髓
+408,Rathalos Scale,雄火龍的鱗
+409,Rathalos Scale+,雄火龍的上鱗
+410,Rathalos Plate,雄火龍的逆鱗
+411,Rathalos Ruby,雄火龍的寶玉
+412,Rathalos Shell,雄火龍的甲殼
+413,Rathalos Carpace,雄火龍的堅殼
+414,Rathalos Tail,雄火龍的尾巴
+415,Rathalos Webbing,雄火龍的翼膜
+416,Rathalos Wing,雄火龍的翼
+417,A.Rathalos Scale,蒼火龍的鱗
+418,A.Rathalos Scale+,蒼火龍的上鱗
+419,A.Rathalos Shell,蒼火龍的甲殼
+420,A.Rathalos Cpc,蒼火龍的堅殼
+421,A.Rathalos Tail,蒼火龍的尾巴
+422,A.Rathalos Wing,蒼火龍的翼
+423,S.Rathalos Scale+,銀火龍的上鱗
+424,S.Rathalos Cpc,銀火龍的堅殼
+425,S.Rathalos Tail,銀火龍的尾巴
+426,S.Rath Webbing,銀火龍的翼膜
+427,S.Rathalos Wing,銀火龍的翼
+428,Flabby Hide,柔軟的皮
+429,Khezu Pearl Hide,珍珠色的柔皮
+430,Pale Bone,蒼白的骨
+431,Pale Khezu Steak,蒼白奇怪龍牛排
+432,Alluring Hide,魅惑色的皮
+433,Alluring Webbing,魅惑色的翼膜
+434,Basarios Shell,岩龍的甲殼
+435,Basarios Carapace,岩龍的堅殼
+436,Basarios Wing,岩龍的翼
+437,Gravios Marrow,鎧龍的骨髓
+438,Gravios Shell,鎧龍的甲殼
+439,Gravios Carapace,鎧龍的堅殼
+440,Gravios Scalp,鎧龍的頭殼
+441,B.Gravios Shell,黑鎧龍的甲殼
+442,B.Gravios Carpace,黑鎧龍的堅殼
 443,B.Gravios Skull,B.Gravios Skull
 444,Twisted Horn,Twisted Horn
 445,Majestic Horn,Majestic Horn

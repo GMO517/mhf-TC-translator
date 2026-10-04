@@ -317,6 +317,30 @@
 | 371–373 | B.Kut-Ku | 青怪鳥的鱗／甲殼／堅殼 |
 | 374 | Rubbery Hide | 橡膠質的皮 |
 | 375 | Rubbery Hide+ | 橡膠質的皮＋ |
+| 376 | Gypceros Head | 毒怪鳥的頭 |
+| 377 | P.Rubbery Hide | 紫橡膠質的皮 |
+| 378 | P.Gypceros Wing | 紫毒鳥的翼 |
+| 379 | Piscine Liver | 魚龍的肝 |
+| 380 | Piscine Fang | 魚龍的牙 |
+| 381–383 | Plesioth | 水龍的鱗／上鱗／鰭 |
+| 384–385 | G.Plesioth | 翠水龍的鱗／鰭 |
+| 386–389 | Cephalos | 砂龍的鱗／上鱗／鰭／上鰭 |
+| 390–391 | Coral Cphlos | 砂龍的珊瑚鱗／珊瑚鰭 |
+| 392–399 | Rathian | 雌火龍素材（鱗／上鱗／逆鱗／寶玉／甲殼／堅殼／棘／上棘） |
+| 400–403 | P.Rathian | 櫻火龍的鱗／上鱗／甲殼／堅殼 |
+| 404–405 | G.Rathian | 金火龍的上鱗／堅殼 |
+| 406–407 | Fire Wyvern | 火龍的爪／骨髓 |
+| 408–416 | Rathalos | 雄火龍素材（鱗／上鱗／逆鱗／寶玉／甲殼／堅殼／尾巴／翼膜／翼） |
+| 417–422 | A.Rathalos | 蒼火龍素材（鱗／上鱗／甲殼／堅殼／尾巴／翼） |
+| 423–427 | S.Rathalos | 銀火龍素材（上鱗／堅殼／尾巴／翼膜／翼） |
+| 428 | Flabby Hide | 柔軟的皮 |
+| 429 | Khezu Pearl Hide | 珍珠色的柔皮 |
+| 430 | Pale Bone | 蒼白的骨 |
+| 431 | Pale Khezu Steak | 蒼白奇怪龍牛排 |
+| 432–433 | Alluring Hide／Webbing | 魅惑色的皮／翼膜 |
+| 434–436 | Basarios | 岩龍的甲殼／堅殼／翼 |
+| 437–440 | Gravios | 鎧龍的骨髓／甲殼／堅殼／頭殼 |
+| 441–442 | B.Gravios | 黑鎧龍的甲殼／堅殼 |
 
 ## 字型暫用（已標）
 
