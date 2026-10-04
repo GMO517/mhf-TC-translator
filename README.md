@@ -27,4 +27,3 @@ Monster Hunter Frontier 用戶端文字繁中化工程。遊戲本體不上庫�
 
 - [FrontierTextHandler](https://github.com/Houmgaor/FrontierTextHandler)
 - [ReFrontier](https://github.com/mhvuze/ReFrontier)
-- **AOCI-CODE**：倉庫認知索引（Cursor MCP）；見 `docs/AOCI.md`（執行檔 `tools/aoci/aoci.exe`）

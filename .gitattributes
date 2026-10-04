@@ -1,5 +1,3 @@
-# AOCI baselines exact raw bytes, so a checkout must be byte-identical on
-# every platform: text always checks out LF, overriding any autocrlf rewrite
-# (the Windows default) that would otherwise mark the whole tree stale.
-# Binaries are auto-detected and left untouched.
+# 文字統一以 LF checkout，避免跨平台行尾把工作樹弄髒。
+# 二進位由 git 自動偵測，不改寫。
 * text=auto eol=lf
