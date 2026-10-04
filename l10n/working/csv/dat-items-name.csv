@@ -3025,21 +3025,21 @@ index,source,target
 3023,Card Ore Gray,Card Ore Gray
 3024,Card Ore Green,Card Ore Green
 3025,Card Ore Orange,Card Ore Orange
-3026,P Lance Tkt Black,P Lance Tkt Black
-3027,P Lance Tkt White,P Lance Tkt White
-3028,BP７ Tkt・１,BP７ Tkt・１
-3029,BP７ Tkt・２,BP７ Tkt・２
-3030,BP７ Tkt・３,BP７ Tkt・３
-3031,BP７ Tkt・４,BP７ Tkt・４
-3032,BP７ Tkt・５,BP７ Tkt・５
-3033,BP７ Tkt・６,BP７ Tkt・６
-3034,BP７ Tkt・７,BP７ Tkt・７
-3035,BP７ Tkt・８,BP７ Tkt・８
-3036,ＴＰ３ Tkt・１,ＴＰ３ Tkt・１
-3037,ＴＰ３ Tkt・２,ＴＰ３ Tkt・２
-3038,ＴＰ３ Tkt・３,ＴＰ３ Tkt・３
-3039,ＴＰ３ Tkt・４,ＴＰ３ Tkt・４
-3040,ＴＰ３ Tkt・５,ＴＰ３ Tkt・５
+3026,P Lance Tkt Black,Ｐ長槍票黒
+3027,P Lance Tkt White,Ｐ長槍票白
+3028,BP７ Tkt・１,ＢＰ７票・１
+3029,BP７ Tkt・２,ＢＰ７票・２
+3030,BP７ Tkt・３,ＢＰ７票・３
+3031,BP７ Tkt・４,ＢＰ７票・４
+3032,BP７ Tkt・５,ＢＰ７票・５
+3033,BP７ Tkt・６,ＢＰ７票・６
+3034,BP７ Tkt・７,ＢＰ７票・７
+3035,BP７ Tkt・８,ＢＰ７票・８
+3036,ＴＰ３ Tkt・１,ＴＰ３票・１
+3037,ＴＰ３ Tkt・２,ＴＰ３票・２
+3038,ＴＰ３ Tkt・３,ＴＰ３票・３
+3039,ＴＰ３ Tkt・４,ＴＰ３票・４
+3040,ＴＰ３ Tkt・５,ＴＰ３票・５
 3041,Thank You Ⅲ,Thank You Ⅲ
 3042,Pioneer Proof,Pioneer Proof
 3043,Primo Coin,Primo Coin
@@ -3049,24 +3049,24 @@ index,source,target
 3047,Carbide Chain,Carbide Chain
 3048,Barbide Bolt,Barbide Bolt
 3049,Squishy Thing,Squishy Thing
-3050,Warm S Tkt,Warm S Tkt
-3051,Shine S Tkt,Shine S Tkt
-3052,Desire S Tkt,Desire S Tkt
+3050,Warm S Tkt,暖熱Ｓ票
+3051,Shine S Tkt,眩光Ｓ票
+3052,Desire S Tkt,強欲Ｓ票
 3053,Secret Notes Book,Secret Notes Book
 3054,Charged Gear,Charged Gear
-3055,EBX C Tkt,EBX C Tkt
-3056,EBX P Tkt,EBX P Tkt
-3057,EBX E Tkt,EBX E Tkt
+3055,EBX C Tkt,ＥＢＸＣ票
+3056,EBX P Tkt,ＥＢＸＰ票
+3057,EBX E Tkt,ＥＢＸＥ票
 3058,Big Flash Gem,Big Flash Gem
 3059,Big Blast Gem,Big Blast Gem
 3060,Big Penetrator Gem,Big Penetrator Gem
 3061,Instructor Coin,Instructor Coin
 3062,Pale Hypnoc Pelt,Pale Hypnoc Pelt
-3063,Sphere Tkt Head,Sphere Tkt Head
-3064,Sphere Tkt Torso,Sphere Tkt Torso
-3065,Sphere Tkt Arms,Sphere Tkt Arms
-3066,Sphere Tkt Waist,Sphere Tkt Waist
-3067,Sphere Tkt Legs,Sphere Tkt Legs
+3063,Sphere Tkt Head,星體頭票
+3064,Sphere Tkt Torso,星體胴票
+3065,Sphere Tkt Arms,星體腕票
+3066,Sphere Tkt Waist,星體腰票
+3067,Sphere Tkt Legs,星體脚票
 3068,White Tools,White Tools
 3069,Yellow Tools,Yellow Tools
 3070,Bizarre Egg,Bizarre Egg
@@ -3248,51 +3248,51 @@ index,source,target
 3246,Monster SC4,Monster SC4
 3247,Monster SC5,Monster SC5
 3248,Winner's Proof,Winner's Proof
-3249,Hail P Tkt,Hail P Tkt
-3250,Toxic P Tkt,Toxic P Tkt
-3251,Aqua C Tkt,Aqua C Tkt
-3252,Metal C Tkt,Metal C Tkt
-3253,Venom S Tkt,Venom S Tkt
-3254,Elec S Tkt,Elec S Tkt
-3255,Naga W Tkt,Naga W Tkt
-3256,Hydra W Tkt,Hydra W Tkt
-3257,Slug L Tkt,Slug L Tkt
-3258,Nade L Tkt,Nade L Tkt
-3259,Alti L Tkt,Alti L Tkt
-3260,Lizard M Tkt,Lizard M Tkt
-3261,Scale M Tkt,Scale M Tkt
-3262,Draco M Tkt,Draco M Tkt
-3263,Regelia Tkt Head,Regelia Tkt Head
-3264,Regelia Tkt Torso,Regelia Tkt Torso
-3265,Regelia Tkt Arms,Regelia Tkt Arms
-3266,Regelia Tkt Waist,Regelia Tkt Waist
-3267,Regelia Tkt Legs,Regelia Tkt Legs
-3268,ＴＮ２ Tkt・１,ＴＮ２ Tkt・１
-3269,ＴＮ２ Tkt・２,ＴＮ２ Tkt・２
-3270,ＴＮ２ Tkt・３,ＴＮ２ Tkt・３
-3271,ＴＮ２ Tkt・４,ＴＮ２ Tkt・４
-3272,ＴＮ２ Tkt・５,ＴＮ２ Tkt・５
-3273,Sleet Tkt Head,Sleet Tkt Head
-3274,Sleet Tkt Torso,Sleet Tkt Torso
-3275,Sleet Tkt Arms,Sleet Tkt Arms
-3276,Sleet Tkt Waist,Sleet Tkt Waist
-3277,Sleet Tkt Legs,Sleet Tkt Legs
-3278,Chamarella Tkt・H,Chamarella Tkt・H
-3279,Chamerella Tkt・T,Chamerella Tkt・T
-3280,Chamerella Tkt・A,Chamerella Tkt・A
-3281,Chamerella Tkt・W,Chamerella Tkt・W
-3282,Chamerella Tkt・L,Chamerella Tkt・L
-3283,BP８ Tkt・１,BP８ Tkt・１
-3284,BP８ Tkt・２,BP８ Tkt・２
-3285,BP８ Tkt・３,BP８ Tkt・３
-3286,BP８ Tkt・４,BP８ Tkt・４
-3287,BP８ Tkt・５,BP８ Tkt・５
-3288,BP８ Tkt・６,BP８ Tkt・６
-3289,BP８ Tkt・７,BP８ Tkt・７
-3290,BP８ Tkt・８,BP８ Tkt・８
-3291,Thunder Scythe Tkt,Thunder Scythe Tkt
-3292,Burning Scythe Tkt,Burning Scythe Tkt
-3293,Death Scythe Tkt,Death Scythe Tkt
+3249,Hail P Tkt,冰雹Ｐ票
+3250,Toxic P Tkt,熱疫Ｐ票
+3251,Aqua C Tkt,水藍Ｃ票
+3252,Metal C Tkt,金屬Ｃ票
+3253,Venom S Tkt,毒魔Ｓ票
+3254,Elec S Tkt,電氣Ｓ票
+3255,Naga W Tkt,蛇神Ｗ票
+3256,Hydra W Tkt,海蛇Ｗ票
+3257,Slug L Tkt,亂鬥Ｌ票
+3258,Nade L Tkt,飛躍Ｌ票
+3259,Alti L Tkt,豪鋒Ｌ票
+3260,Lizard M Tkt,蜥蜴Ｍ票
+3261,Scale M Tkt,鱗之Ｍ票
+3262,Draco M Tkt,龍之Ｍ票
+3263,Regelia Tkt Head,英豪頭票
+3264,Regelia Tkt Torso,英豪胴票
+3265,Regelia Tkt Arms,英豪腕票
+3266,Regelia Tkt Waist,英豪腰票
+3267,Regelia Tkt Legs,英豪脚票
+3268,ＴＮ２ Tkt・１,ＴＮ２票・１
+3269,ＴＮ２ Tkt・２,ＴＮ２票・２
+3270,ＴＮ２ Tkt・３,ＴＮ２票・３
+3271,ＴＮ２ Tkt・４,ＴＮ２票・４
+3272,ＴＮ２ Tkt・５,ＴＮ２票・５
+3273,Sleet Tkt Head,雪花頭票
+3274,Sleet Tkt Torso,雪花胴票
+3275,Sleet Tkt Arms,雪花腕票
+3276,Sleet Tkt Waist,雪花腰票
+3277,Sleet Tkt Legs,雪花脚票
+3278,Chamarella Tkt・H,接待頭票
+3279,Chamerella Tkt・T,接待胴票
+3280,Chamerella Tkt・A,接待腕票
+3281,Chamerella Tkt・W,接待腰票
+3282,Chamerella Tkt・L,接待脚票
+3283,BP８ Tkt・１,ＢＰ８票・１
+3284,BP８ Tkt・２,ＢＰ８票・２
+3285,BP８ Tkt・３,ＢＰ８票・３
+3286,BP８ Tkt・４,ＢＰ８票・４
+3287,BP８ Tkt・５,ＢＰ８票・５
+3288,BP８ Tkt・６,ＢＰ８票・６
+3289,BP８ Tkt・７,ＢＰ８票・７
+3290,BP８ Tkt・８,ＢＰ８票・８
+3291,Thunder Scythe Tkt,雷豪鎌票
+3292,Burning Scythe Tkt,灼熱鎌票
+3293,Death Scythe Tkt,恐龍鎌票
 3294,Ice Wedding Tiara,Ice Wedding Tiara
 3295,Millenium Snow,Millenium Snow
 3296,Permafrost,Permafrost
@@ -3331,12 +3331,12 @@ index,source,target
 3329,Knife Set,Knife Set
 3330,Globe,Globe
 3331,Duct Tape,Duct Tape
-3332,DR2 Tkt Head,DR2 Tkt Head
-3333,DR2 Tkt Torso,DR2 Tkt Torso
-3334,DR2 Tkt Arms,DR2 Tkt Arms
-3335,Dummy,Dummy
-3336,DR2 Tkt Waist,DR2 Tkt Waist
-3337,DR2 Tkt Legs,DR2 Tkt Legs
+3332,DR2 Tkt Head,ＤＲ２頭票
+3333,DR2 Tkt Torso,ＤＲ２胴票
+3334,DR2 Tkt Arms,ＤＲ２腕票
+3335,Dummy,(dummy)
+3336,DR2 Tkt Waist,ＤＲ２腰票
+3337,DR2 Tkt Legs,ＤＲ２脚票
 3338,Cuff Base・Mustard,Cuff Base・Mustard
 3339,Cuff Base・Jade,Cuff Base・Jade
 3340,Cuff Base・Cyan,Cuff Base・Cyan
@@ -3585,56 +3585,56 @@ index,source,target
 3583,Glimmering Coin,Glimmering Coin
 3584,Hazy Coin,Hazy Coin
 3585,Blinking Coin,Blinking Coin
-3586,SSFⅣ Tkt Head,SSFⅣ Tkt Head
-3587,SSFⅣ Tkt Torso,SSFⅣ Tkt Torso
-3588,SSFⅣ Tkt Arms,SSFⅣ Tkt Arms
-3589,SSFⅣ Tkt Waist,SSFⅣ Tkt Waist
-3590,SSFⅣ Tkt Legs,SSFⅣ Tkt Legs
+3586,SSFⅣ Tkt Head,ＳＳＦⅣ頭票
+3587,SSFⅣ Tkt Torso,ＳＳＦⅣ胴票
+3588,SSFⅣ Tkt Arms,ＳＳＦⅣ腕票
+3589,SSFⅣ Tkt Waist,ＳＳＦⅣ腰票
+3590,SSFⅣ Tkt Legs,ＳＳＦⅣ脚票
 3591,Mossy Obsidian,Mossy Obsidian
 3592,Mossy Marble,Mossy Marble
-3593,Flame T Tkt,Flame T Tkt
-3594,Rain T Tkt,Rain T Tkt
-3595,Shock S Tkt,Shock S Tkt
-3596,Lizard S Tkt,Lizard S Tkt
-3597,Steno Head Tkt,Steno Head Tkt
-3598,Steno Torso Tkt,Steno Torso Tkt
-3599,Steno Arms Tkt,Steno Arms Tkt
-3600,Steno Waist Tkt,Steno Waist Tkt
-3601,Steno Legs Tkt,Steno Legs Tkt
-3602,Metenella Cap Tkt,Metenella Cap Tkt
-3603,Metenalla Mid Tkt,Metenalla Mid Tkt
-3604,Metenalla Arm Tkt,Metenalla Arm Tkt
-3605,Metenella Belt Tkt,Metenella Belt Tkt
-3606,Metenella Boot Tkt,Metenella Boot Tkt
-3607,Poison F Tkt,Poison F Tkt
-3608,Astral F Tkt,Astral F Tkt
+3593,Flame T Tkt,火焔Ｔ票
+3594,Rain T Tkt,暴雨Ｔ票
+3595,Shock S Tkt,震驚Ｓ票
+3596,Lizard S Tkt,蜥蜴Ｓ票
+3597,Steno Head Tkt,月坑頭票
+3598,Steno Torso Tkt,月坑胴票
+3599,Steno Arms Tkt,月坑腕票
+3600,Steno Waist Tkt,月坑腰票
+3601,Steno Legs Tkt,月坑脚票
+3602,Metenella Cap Tkt,高手頭票
+3603,Metenalla Mid Tkt,高手胴票
+3604,Metenalla Arm Tkt,高手腕票
+3605,Metenella Belt Tkt,高手腰票
+3606,Metenella Boot Tkt,高手脚票
+3607,Poison F Tkt,毒鞭Ｆ票
+3608,Astral F Tkt,アストラルＦ票
 3609,Proof of Alliance,Proof of Alliance
 3610,Bond of Alliance,Bond of Alliance
 3611,Seal of Alliance,Seal of Alliance
 3612,Sweet Memory,Sweet Memory
 3613,White Sugar,White Sugar
-3614,Alti Tkt Red,Alti Tkt Red
-3615,Alti Tkt Yellow,Alti Tkt Yellow
-3616,Alti Tkt White,Alti Tkt White
-3617,Fer Tkt,Fer Tkt
-3618,Asiel Tkt,Asiel Tkt
-3619,LC Tkt Red,LC Tkt Red
-3620,LC Tkt Blue,LC Tkt Blue
-3621,LC Tkt Green,LC Tkt Green
-3622,Reino Tkt,Reino Tkt
-3623,Republica Tkt,Republica Tkt
-3624,Fede Tkt,Fede Tkt
-3625,Baron Tkt,Baron Tkt
-3626,Conde Tkt,Conde Tkt
-3627,Marquee Tkt,Marquee Tkt
+3614,Alti Tkt Red,豪鋒票赤
+3615,Alti Tkt Yellow,豪鋒票黄
+3616,Alti Tkt White,豪鋒票白
+3617,Fer Tkt,紅鐵票
+3618,Asiel Tkt,鋼票
+3619,LC Tkt Red,ＬＣ票紅
+3620,LC Tkt Blue,ＬＣ票藍
+3621,LC Tkt Green,ＬＣ票緑
+3622,Reino Tkt,帝國票
+3623,Republica Tkt,共和票
+3624,Fede Tkt,聯邦票
+3625,Baron Tkt,男爵票
+3626,Conde Tkt,伯爵票
+3627,Marquee Tkt,侯爵票
 3628,Sturdy Horn,Sturdy Horn
 3629,Esoteric Fabric-H,Esoteric Fabric-H
 3630,Esoteric Fabric-S,Esoteric Fabric-S
-3631,Bunny Tkt Head,Bunny Tkt Head
-3632,Bunny Tkt Torso,Bunny Tkt Torso
-3633,Bunny Tkt Arms,Bunny Tkt Arms
-3634,Bunny Tkt Waist,Bunny Tkt Waist
-3635,Bunny Tkt Legs,Bunny Tkt Legs
+3631,Bunny Tkt Head,兎頭票
+3632,Bunny Tkt Torso,兎胴票
+3633,Bunny Tkt Arms,兎腕票
+3634,Bunny Tkt Waist,兎腰票
+3635,Bunny Tkt Legs,兎脚票
 3636,Red Hunter Dice,Red Hunter Dice
 3637,Blue Hunter Dice,Blue Hunter Dice
 3638,White Hunter Dice,White Hunter Dice
@@ -3650,11 +3650,11 @@ index,source,target
 3648,Wht Hunter Book,Wht Hunter Book
 3649,Pink Hunter Book,Pink Hunter Book
 3650,Purple Hunter Book,Purple Hunter Book
-3651,Red Half-Tkt,Red Half-Tkt
-3652,Blue Half-Tkt,Blue Half-Tkt
-3653,Wht Half-Tkt,Wht Half-Tkt
-3654,Pink Half-Tkt,Pink Half-Tkt
-3655,Purple Half-Tkt,Purple Half-Tkt
+3651,Red Half-Tkt,赤半票
+3652,Blue Half-Tkt,青半票
+3653,Wht Half-Tkt,白半票
+3654,Pink Half-Tkt,桃半票
+3655,Purple Half-Tkt,紫半票
 3656,Red Hunter Bag,Red Hunter Bag
 3657,Blue Hunter Bag,Blue Hunter Bag
 3658,Wht Hunter Bag,Wht Hunter Bag
@@ -3671,29 +3671,29 @@ index,source,target
 3669,Came. Grass Juice,Came. Grass Juice
 3670,Conc Grass Essence,Conc Grass Essence
 3671,Felvine Coin,Felvine Coin
-3672,BP9 Tkt・1,BP9 Tkt・1
-3673,BP9 Tkt・2,BP9 Tkt・2
-3674,BP9 Tkt・3,BP9 Tkt・3
-3675,BP9 Tkt・4,BP9 Tkt・4
-3676,BP9 Tkt・5,BP9 Tkt・5
-3677,BP9 Tkt・6,BP9 Tkt・6
-3678,BP9 Tkt・7,BP9 Tkt・7
-3679,BP9 Tkt・8,BP9 Tkt・8
-3680,TP4 Tkt・1,TP4 Tkt・1
-3681,TP4 Tkt・2,TP4 Tkt・2
-3682,TP4 Tkt・3,TP4 Tkt・3
-3683,TP4 Tkt・4,TP4 Tkt・4
-3684,TP4 Tkt・5,TP4 Tkt・5
+3672,BP9 Tkt・1,ＢＰ９票・１
+3673,BP9 Tkt・2,ＢＰ９票・２
+3674,BP9 Tkt・3,ＢＰ９票・３
+3675,BP9 Tkt・4,ＢＰ９票・４
+3676,BP9 Tkt・5,ＢＰ９票・５
+3677,BP9 Tkt・6,ＢＰ９票・６
+3678,BP9 Tkt・7,ＢＰ９票・７
+3679,BP9 Tkt・8,ＢＰ９票・８
+3680,TP4 Tkt・1,ＴＰ４票・１
+3681,TP4 Tkt・2,ＴＰ４票・２
+3682,TP4 Tkt・3,ＴＰ４票・３
+3683,TP4 Tkt・4,ＴＰ４票・４
+3684,TP4 Tkt・5,ＴＰ４票・５
 3685,Card Ore Red,Card Ore Red
 3686,Card Ore Clr,Card Ore Clr
 3687,Card Ore Purple,Card Ore Purple
 3688,Card Ore Pink,Card Ore Pink
-3689,Garde S Tkt,Garde S Tkt
-3690,Agita S Tkt,Agita S Tkt
-3691,Excavator S Tkt,Excavator S Tkt
-3692,Noble L Tkt,Noble L Tkt
-3693,Officer L Tkt,Officer L Tkt
-3694,Cleanse L Tkt,Cleanse L Tkt
+3689,Garde S Tkt,前衛Ｓ票
+3690,Agita S Tkt,アギタＳ票
+3691,Excavator S Tkt,発掘Ｓ票
+3692,Noble L Tkt,貴紳Ｌ票
+3693,Officer L Tkt,士官Ｌ票
+3694,Cleanse L Tkt,浄化Ｌ票
 3695,Rogue Twinhorn,Rogue Twinhorn
 3696,Violent Twinhorn,Violent Twinhorn
 3697,Rogue Blk Bihorn,Rogue Blk Bihorn
@@ -3981,8 +3981,8 @@ index,source,target
 3979,Transcend Proof 8,Transcend Proof 8
 3980,Transcend Proof 9,Transcend Proof 9
 3981,Transcend Proof 10,Transcend Proof 10
-3982,Morudeno P Tkt,Morudeno P Tkt
-3983,Steno R Tkt,Steno R Tkt
+3982,Morudeno P Tkt,蔚藍Ｐ票
+3983,Steno R Tkt,月坑Ｒ票
 3984,Rukodiora Scale,Rukodiora Scale
 3985,Rukodiora Claw,Rukodiora Claw
 3986,Rukodiora Horn,Rukodiora Horn
@@ -3996,7 +3996,7 @@ index,source,target
 3994,Rukodiora Tail+,Rukodiora Tail+
 3995,Elder Dragon Gem,Elder Dragon Gem
 3996,Rukodiora Proof,Rukodiora Proof
-3997,Famitsu Tkt,Famitsu Tkt
+3997,Famitsu Tkt,法米通票
 3998,Pawprint Medal,Pawprint Medal
 3999,Card Ore White,Card Ore White
 4000,Card Ore Maroon,Card Ore Maroon
@@ -4013,16 +4013,16 @@ index,source,target
 4011,Fine River Design,Fine River Design
 4012,Wind Chime,Wind Chime
 4013,Crazed Maid's Plot,Crazed Maid's Plot
-4014,N Force Tkt,N Force Tkt
-4015,N Baum Tkt,N Baum Tkt
-4016,V Jewel Tkt,V Jewel Tkt
-4017,V Lever Tkt,V Lever Tkt
-4018,A Leaf Tkt,A Leaf Tkt
-4019,A Derive Tkt,A Derive Tkt
-4020,Bati Q Tkt,Bati Q Tkt
-4021,A Rose Tkt,A Rose Tkt
-4022,A Derose Tkt,A Derose Tkt
-4023,Kivala Q Tkt,Kivala Q Tkt
+4014,N Force Tkt,Ｎ神力票
+4015,N Baum Tkt,Ｎ神木票
+4016,V Jewel Tkt,Ｖ寶石票
+4017,V Lever Tkt,Ｖレバー票
+4018,A Leaf Tkt,Ａ緑葉票
+4019,A Derive Tkt,Ａ玉葉票
+4020,Bati Q Tkt,バティＱ票
+4021,A Rose Tkt,Ａローズ票
+4022,A Derose Tkt,Ａデローズ票
+4023,Kivala Q Tkt,惡魔Ｑ票
 4024,Edio Head Tkt,Edio Head Tkt
 4025,Edio Chest Tkt,Edio Chest Tkt
 4026,Edio Arms Tkt,Edio Arms Tkt
