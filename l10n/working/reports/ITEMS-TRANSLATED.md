@@ -871,3 +871,40 @@
 - SP／G 珠名依日文 Frontier 珠名＋既有技能譯｜Artisan SP～Traveller SP｜`batch-items-018` #1104～1146  
 - Sprit SP＝強精珠SP（原文拼字；スタミナ系）｜`batch-items-018` #1142  
 
+| 1200 | Tai Chi Stamp | 太極印 |
+| 1206 | White Scholar Tome | 白學者之書 |
+| 1212 | Pioneer Mark | 先駆者之証 |
+| 1213 | Lineage Mark | 血脈之証 |
+| 1214 | Friend's letter | 友人的信 |
+| 1215 | Kirin Proof | 麒麟之證 |
+| 1216 | Kushala Proof | 鋼龍之證 |
+| 1217 | Jebia Carapace | 灰晶蠍的甲殼 |
+| 1218 | Jebia Claw | 灰晶蠍的爪 |
+| 1219 | Jebia Jaw | 灰晶蠍的大顎 |
+| 1220 | Jebia Tail Crystal | 灰晶蠍的輝晶石 |
+| 1221 | Jebia Tail | 灰晶蠍的靭尾 |
+| 1222 | Jebia Wht Blood | 灰晶蠍的白血 |
+| 1223 | Jebia Ylw Blood | 灰晶蠍的黄血 |
+| 1224 | Jebia Blue Blood | 灰晶蠍的青血 |
+| 1225 | Jebia Red Blood | 灰晶蠍的赤血 |
+| 1226 | Jebia Blood Stone | 灰晶蠍的血晶石 |
+| 1227 | Netcafe Token | ネカフェトークン |
+| 1228 | Memory Fragm | 記憶碎片 |
+| 1229 | Lost Crown | 失落之冠 |
+| 1230 | Pearl Sword I Tkt | 珍珠劍Ｉ票 |
+| 1231 | Pearl Sword F Tkt | 珍珠劍Ｆ票 |
+| 1232 | Secret Sword T Tkt | 秘劍Ｔ票 |
+| 1233 | 1st Year Head Tkt | 1周年頭票 |
+| 1234 | 1st Year Body Tkt | 1周年胴票 |
+| 1235 | 1st Year Arms Tkt | 1周年腕票 |
+| 1236 | 1st Year Waist Tkt | 1周年腰票 |
+| 1237 | 1st Year Legs Tkt | 1周年脚票 |
+
+- 韌→靭：灰晶蠍的靭尾｜Jebia Tail｜`batch-items-jebia-marks` #1221（韌缺）  
+- 咖缺：ネカフェトークン（片假名保留；理想「網咖代幣」）｜Netcafe Token｜`batch-items-jebia-marks` #1227  
+- 黃→黄：灰晶蠍的黄血｜Jebia Ylw Blood｜`batch-items-jebia-marks` #1223  
+- Jebia＝灰晶蠍（詞庫／台服 wiki）；血晶石・輝晶石・大顎依 wiki｜`batch-items-jebia-marks` #1217～1226  
+- Pioneer Mark＝先駆者の証（gorillawiki）；体液系血色沿用尾晶蠍白血／黄血形｜`batch-items-jebia-marks`  
+- 1周年*票＝日文「1周年生産券・*」縮為票｜`batch-items-jebia-marks` #1233～1237  
+- 票券：本批僅納入緊接 8 筆；**票券未完**（後表大量 Ticket 另案）｜`batch-items-jebia-marks`  
+
