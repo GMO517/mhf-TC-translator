@@ -1,0 +1,42 @@
+{
+  "section_id": "armors-body",
+  "label": "mixed-body",
+  "translations": [
+    {
+      "index": "1773",
+      "target": "正拳Ｆ胴着"
+    },
+    {
+      "index": "1775",
+      "target": "灼熱Ｆ胴着"
+    },
+    {
+      "index": "1777",
+      "target": "龍星Ｆ胴着"
+    },
+    {
+      "index": "1779",
+      "target": "虎襲Ｆ胴着"
+    },
+    {
+      "index": "1781",
+      "target": "旋風Ｆ胴着"
+    },
+    {
+      "index": "1783",
+      "target": "巴Ｆ胴着"
+    },
+    {
+      "index": "5142",
+      "target": "雷刃Ｆ胴着"
+    },
+    {
+      "index": "5148",
+      "target": "迅雷Ｆ胴着"
+    },
+    {
+      "index": "5160",
+      "target": "飛燕Ｆ胴着"
+    }
+  ]
+}
