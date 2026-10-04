@@ -3700,7 +3700,7 @@
     },
     {
       "index": "5801",
-      "target": "反動SPβ"
+      "target": "反動ＳＰβ"
     },
     {
       "index": "5802",
@@ -3708,7 +3708,7 @@
     },
     {
       "index": "5803",
-      "target": "強襲SPβ"
+      "target": "強襲ＳＰβ"
     },
     {
       "index": "5804",
@@ -3716,7 +3716,7 @@
     },
     {
       "index": "5805",
-      "target": "風SPβ"
+      "target": "風ＳＰβ"
     },
     {
       "index": "5806",
@@ -3724,7 +3724,7 @@
     },
     {
       "index": "5807",
-      "target": "研SPβ"
+      "target": "研ＳＰβ"
     },
     {
       "index": "5808",
@@ -3732,7 +3732,7 @@
     },
     {
       "index": "5809",
-      "target": "彈匠SPβ"
+      "target": "彈匠ＳＰβ"
     },
     {
       "index": "5810",
@@ -3740,7 +3740,7 @@
     },
     {
       "index": "5811",
-      "target": "装填SPβ"
+      "target": "装填ＳＰβ"
     },
     {
       "index": "5812",
@@ -3748,7 +3748,7 @@
     },
     {
       "index": "5813",
-      "target": "裝填SPβ"
+      "target": "裝填ＳＰβ"
     },
     {
       "index": "5814",
@@ -3756,7 +3756,7 @@
     },
     {
       "index": "5815",
-      "target": "通常弾SPβ"
+      "target": "通常弾ＳＰβ"
     },
     {
       "index": "5816",
@@ -3764,7 +3764,7 @@
     },
     {
       "index": "5817",
-      "target": "貫通弾SPβ"
+      "target": "貫通弾ＳＰβ"
     },
     {
       "index": "5818",
@@ -3772,7 +3772,7 @@
     },
     {
       "index": "5819",
-      "target": "散弾弾SPβ"
+      "target": "散弾弾ＳＰβ"
     },
     {
       "index": "5820",
@@ -3780,7 +3780,7 @@
     },
     {
       "index": "5821",
-      "target": "天盾SPβ"
+      "target": "天盾ＳＰβ"
     },
     {
       "index": "5822",
@@ -3788,7 +3788,7 @@
     },
     {
       "index": "5823",
-      "target": "魂SPβ"
+      "target": "魂ＳＰβ"
     },
     {
       "index": "5824",
@@ -3796,15 +3796,15 @@
     },
     {
       "index": "5825",
-      "target": "安定SPβ"
+      "target": "安定ＳＰβ"
     },
     {
       "index": "5826",
-      "target": "正中SPα"
+      "target": "正中ＳＰα"
     },
     {
       "index": "5827",
-      "target": "正中SPβ"
+      "target": "正中ＳＰβ"
     },
     {
       "index": "5828",
@@ -3812,7 +3812,7 @@
     },
     {
       "index": "5829",
-      "target": "旅人SPβ"
+      "target": "旅人ＳＰβ"
     },
     {
       "index": "5830",
@@ -3820,7 +3820,7 @@
     },
     {
       "index": "5831",
-      "target": "発射SPβ"
+      "target": "発射ＳＰβ"
     },
     {
       "index": "5832",
@@ -3832,7 +3832,7 @@
     },
     {
       "index": "5834",
-      "target": "集中SPβ"
+      "target": "集中ＳＰβ"
     },
     {
       "index": "5835",
@@ -3844,7 +3844,7 @@
     },
     {
       "index": "5837",
-      "target": "砲術SPβ"
+      "target": "砲術ＳＰβ"
     },
     {
       "index": "5838",
@@ -3856,7 +3856,7 @@
     },
     {
       "index": "5840",
-      "target": "敏捷SPβ"
+      "target": "敏捷ＳＰβ"
     },
     {
       "index": "5841",
@@ -3868,7 +3868,7 @@
     },
     {
       "index": "5843",
-      "target": "聴覚SPβ"
+      "target": "聴覚ＳＰβ"
     },
     {
       "index": "5844",
@@ -4292,7 +4292,7 @@
     },
     {
       "index": "6198",
-      "target": "工匠SPβ"
+      "target": "工匠ＳＰβ"
     },
     {
       "index": "6199",
@@ -4300,7 +4300,7 @@
     },
     {
       "index": "6200",
-      "target": "殺鉄SPβ"
+      "target": "殺鉄ＳＰβ"
     },
     {
       "index": "6201",
@@ -4308,7 +4308,7 @@
     },
     {
       "index": "6202",
-      "target": "見透SPβ"
+      "target": "見透ＳＰβ"
     },
     {
       "index": "6203",
@@ -4316,7 +4316,7 @@
     },
     {
       "index": "6204",
-      "target": "持久SPβ"
+      "target": "持久ＳＰβ"
     },
     {
       "index": "6205",
@@ -4324,7 +4324,7 @@
     },
     {
       "index": "6206",
-      "target": "抗毒SPβ"
+      "target": "抗毒ＳＰβ"
     },
     {
       "index": "6207",
@@ -4332,7 +4332,7 @@
     },
     {
       "index": "6208",
-      "target": "麻痺SPβ"
+      "target": "麻痺ＳＰβ"
     },
     {
       "index": "6209",
@@ -4340,7 +4340,7 @@
     },
     {
       "index": "6210",
-      "target": "雪球SPβ"
+      "target": "雪球ＳＰβ"
     },
     {
       "index": "6211",
@@ -4348,7 +4348,7 @@
     },
     {
       "index": "6212",
-      "target": "耐性SPβ"
+      "target": "耐性ＳＰβ"
     },
     {
       "index": "6215",
@@ -4356,7 +4356,7 @@
     },
     {
       "index": "6216",
-      "target": "耐暑耐性SPβ"
+      "target": "耐暑耐性ＳＰβ"
     },
     {
       "index": "6217",
@@ -4364,7 +4364,7 @@
     },
     {
       "index": "6218",
-      "target": "耐寒耐性SPβ"
+      "target": "耐寒耐性ＳＰβ"
     },
     {
       "index": "6219",
@@ -4372,7 +4372,7 @@
     },
     {
       "index": "6220",
-      "target": "危機SPβ"
+      "target": "危機ＳＰβ"
     },
     {
       "index": "6221",
@@ -4380,7 +4380,7 @@
     },
     {
       "index": "6222",
-      "target": "體力SPβ"
+      "target": "體力ＳＰβ"
     },
     {
       "index": "6223",
@@ -4388,15 +4388,15 @@
     },
     {
       "index": "6224",
-      "target": "忍SPβ"
+      "target": "忍ＳＰβ"
     },
     {
       "index": "6227",
-      "target": "持久SPα"
+      "target": "持久ＳＰα"
     },
     {
       "index": "6228",
-      "target": "持久SPβ"
+      "target": "持久ＳＰβ"
     },
     {
       "index": "6229",
@@ -4404,15 +4404,15 @@
     },
     {
       "index": "6230",
-      "target": "氣力SPβ"
+      "target": "氣力ＳＰβ"
     },
     {
       "index": "6231",
-      "target": "性急SPα"
+      "target": "性急ＳＰα"
     },
     {
       "index": "6232",
-      "target": "性急SPβ"
+      "target": "性急ＳＰβ"
     },
     {
       "index": "6233",
@@ -4420,7 +4420,7 @@
     },
     {
       "index": "6234",
-      "target": "加護SPβ"
+      "target": "加護ＳＰβ"
     },
     {
       "index": "6235",
@@ -4428,15 +4428,15 @@
     },
     {
       "index": "6236",
-      "target": "回復SPβ"
+      "target": "回復ＳＰβ"
     },
     {
       "index": "6237",
-      "target": "快足技SPα"
+      "target": "快足技ＳＰα"
     },
     {
       "index": "6238",
-      "target": "快足技SPβ"
+      "target": "快足技ＳＰβ"
     },
     {
       "index": "6239",
@@ -4444,23 +4444,23 @@
     },
     {
       "index": "6240",
-      "target": "力量釣SPβ"
+      "target": "力量釣ＳＰβ"
     },
     {
       "index": "6241",
-      "target": "医SPα"
+      "target": "医ＳＰα"
     },
     {
       "index": "6242",
-      "target": "医SPβ"
+      "target": "医ＳＰβ"
     },
     {
       "index": "6243",
-      "target": "美食SPα"
+      "target": "美食ＳＰα"
     },
     {
       "index": "6244",
-      "target": "美食SPβ"
+      "target": "美食ＳＰβ"
     },
     {
       "index": "6245",
@@ -5648,71 +5648,71 @@
     },
     {
       "index": "7418",
-      "target": "技能護腕G84"
+      "target": "技能護腕Ｇ84"
     },
     {
       "index": "7419",
-      "target": "技能護腕G85"
+      "target": "技能護腕Ｇ85"
     },
     {
       "index": "7420",
-      "target": "技能護腕G86"
+      "target": "技能護腕Ｇ86"
     },
     {
       "index": "7421",
-      "target": "技能護腕G87"
+      "target": "技能護腕Ｇ87"
     },
     {
       "index": "7422",
-      "target": "技能護腕G88"
+      "target": "技能護腕Ｇ88"
     },
     {
       "index": "7423",
-      "target": "技能護腕G89"
+      "target": "技能護腕Ｇ89"
     },
     {
       "index": "7424",
-      "target": "技能護腕G90"
+      "target": "技能護腕Ｇ90"
     },
     {
       "index": "7425",
-      "target": "技能護腕G91"
+      "target": "技能護腕Ｇ91"
     },
     {
       "index": "7426",
-      "target": "技能護腕G92"
+      "target": "技能護腕Ｇ92"
     },
     {
       "index": "7427",
-      "target": "技能護腕G93"
+      "target": "技能護腕Ｇ93"
     },
     {
       "index": "7428",
-      "target": "技能護腕G94"
+      "target": "技能護腕Ｇ94"
     },
     {
       "index": "7429",
-      "target": "技能護腕G95"
+      "target": "技能護腕Ｇ95"
     },
     {
       "index": "7430",
-      "target": "技能護腕G96"
+      "target": "技能護腕Ｇ96"
     },
     {
       "index": "7431",
-      "target": "技能護腕G97"
+      "target": "技能護腕Ｇ97"
     },
     {
       "index": "7432",
-      "target": "技能護腕G98"
+      "target": "技能護腕Ｇ98"
     },
     {
       "index": "7433",
-      "target": "技能護腕G99"
+      "target": "技能護腕Ｇ99"
     },
     {
       "index": "7434",
-      "target": "技能護腕G100"
+      "target": "技能護腕Ｇ100"
     },
     {
       "index": "7435",
@@ -5848,43 +5848,43 @@
     },
     {
       "index": "7503",
-      "target": "D猫勳章白"
+      "target": "Ｄ猫勳章白"
     },
     {
       "index": "7504",
-      "target": "D猫勳章黄"
+      "target": "Ｄ猫勳章黄"
     },
     {
       "index": "7505",
-      "target": "D猫勳章赤"
+      "target": "Ｄ猫勳章赤"
     },
     {
       "index": "7506",
-      "target": "D猫勳章青"
+      "target": "Ｄ猫勳章青"
     },
     {
       "index": "7507",
-      "target": "D猫勳章黒"
+      "target": "Ｄ猫勳章黒"
     },
     {
       "index": "7508",
-      "target": "D猫硬幣白"
+      "target": "Ｄ猫硬幣白"
     },
     {
       "index": "7509",
-      "target": "D猫硬幣黄"
+      "target": "Ｄ猫硬幣黄"
     },
     {
       "index": "7510",
-      "target": "D猫硬幣赤"
+      "target": "Ｄ猫硬幣赤"
     },
     {
       "index": "7511",
-      "target": "D猫硬幣青"
+      "target": "Ｄ猫硬幣青"
     },
     {
       "index": "7512",
-      "target": "D猫硬幣黒"
+      "target": "Ｄ猫硬幣黒"
     },
     {
       "index": "7513",
@@ -6676,23 +6676,23 @@
     },
     {
       "index": "8038",
-      "target": "採集C納桃毛"
+      "target": "採集Ｃ納桃毛"
     },
     {
       "index": "8039",
-      "target": "採集C毛毒怪"
+      "target": "採集Ｃ毛毒怪"
     },
     {
       "index": "8040",
-      "target": "採集C拉瓦里"
+      "target": "採集Ｃ拉瓦里"
     },
     {
       "index": "8041",
-      "target": "採集C急証明"
+      "target": "採集Ｃ急証明"
     },
     {
       "index": "8042",
-      "target": "採集C歌聲急"
+      "target": "採集Ｃ歌聲急"
     },
     {
       "index": "8043",
@@ -7104,7 +7104,7 @@
     },
     {
       "index": "8268",
-      "target": "毒怪轟S導"
+      "target": "毒怪轟Ｓ導"
     },
     {
       "index": "8269",
@@ -8032,7 +8032,7 @@
     },
     {
       "index": "8802",
-      "target": "SR皮n石"
+      "target": "ＳＲ皮ｎ石"
     },
     {
       "index": "8804",
@@ -8236,7 +8236,7 @@
     },
     {
       "index": "8938",
-      "target": "鐵初音S感謝"
+      "target": "鐵初音Ｓ感謝"
     },
     {
       "index": "8939",
@@ -8260,7 +8260,7 @@
     },
     {
       "index": "8947",
-      "target": "毛毒怪S感謝"
+      "target": "毛毒怪Ｓ感謝"
     },
     {
       "index": "8949",
@@ -9464,11 +9464,11 @@
     },
     {
       "index": "9548",
-      "target": "GR黒津生産券"
+      "target": "ＧＲ黒津生産券"
     },
     {
       "index": "9549",
-      "target": "GE黒津生産券"
+      "target": "ＧＥ黒津生産券"
     },
     {
       "index": "9550",
@@ -9508,7 +9508,7 @@
     },
     {
       "index": "9573",
-      "target": "鍵盤歌S書"
+      "target": "鍵盤歌Ｓ書"
     },
     {
       "index": "9574",
@@ -10316,195 +10316,195 @@
     },
     {
       "index": "10131",
-      "target": "片手劍秘傳EX白"
+      "target": "片手劍秘傳ＥＸ白"
     },
     {
       "index": "10132",
-      "target": "片手劍秘傳EX赤"
+      "target": "片手劍秘傳ＥＸ赤"
     },
     {
       "index": "10133",
-      "target": "片手劍秘傳EX黒"
+      "target": "片手劍秘傳ＥＸ黒"
     },
     {
       "index": "10134",
-      "target": "片手劍秘傳EX青"
+      "target": "片手劍秘傳ＥＸ青"
     },
     {
       "index": "10135",
-      "target": "雙劍秘傳EX白"
+      "target": "雙劍秘傳ＥＸ白"
     },
     {
       "index": "10136",
-      "target": "雙劍秘傳EX赤"
+      "target": "雙劍秘傳ＥＸ赤"
     },
     {
       "index": "10137",
-      "target": "雙劍秘傳EX黒"
+      "target": "雙劍秘傳ＥＸ黒"
     },
     {
       "index": "10138",
-      "target": "雙劍秘傳EX青"
+      "target": "雙劍秘傳ＥＸ青"
     },
     {
       "index": "10139",
-      "target": "大劍秘傳EX白"
+      "target": "大劍秘傳ＥＸ白"
     },
     {
       "index": "10140",
-      "target": "大劍秘傳EX赤"
+      "target": "大劍秘傳ＥＸ赤"
     },
     {
       "index": "10141",
-      "target": "大劍秘傳EX黒"
+      "target": "大劍秘傳ＥＸ黒"
     },
     {
       "index": "10142",
-      "target": "大劍秘傳EX青"
+      "target": "大劍秘傳ＥＸ青"
     },
     {
       "index": "10143",
-      "target": "太刀秘傳EX白"
+      "target": "太刀秘傳ＥＸ白"
     },
     {
       "index": "10144",
-      "target": "太刀秘傳EX赤"
+      "target": "太刀秘傳ＥＸ赤"
     },
     {
       "index": "10145",
-      "target": "太刀秘傳EX黒"
+      "target": "太刀秘傳ＥＸ黒"
     },
     {
       "index": "10146",
-      "target": "太刀秘傳EX青"
+      "target": "太刀秘傳ＥＸ青"
     },
     {
       "index": "10147",
-      "target": "長槍秘傳EX白"
+      "target": "長槍秘傳ＥＸ白"
     },
     {
       "index": "10148",
-      "target": "長槍秘傳EX赤"
+      "target": "長槍秘傳ＥＸ赤"
     },
     {
       "index": "10149",
-      "target": "長槍秘傳EX黒"
+      "target": "長槍秘傳ＥＸ黒"
     },
     {
       "index": "10150",
-      "target": "長槍秘傳EX青"
+      "target": "長槍秘傳ＥＸ青"
     },
     {
       "index": "10151",
-      "target": "銃槍秘傳EX白"
+      "target": "銃槍秘傳ＥＸ白"
     },
     {
       "index": "10152",
-      "target": "銃槍秘傳EX赤"
+      "target": "銃槍秘傳ＥＸ赤"
     },
     {
       "index": "10153",
-      "target": "銃槍秘傳EX黒"
+      "target": "銃槍秘傳ＥＸ黒"
     },
     {
       "index": "10154",
-      "target": "銃槍秘傳EX青"
+      "target": "銃槍秘傳ＥＸ青"
     },
     {
       "index": "10155",
-      "target": "大錘秘傳EX白"
+      "target": "大錘秘傳ＥＸ白"
     },
     {
       "index": "10156",
-      "target": "大錘秘傳EX赤"
+      "target": "大錘秘傳ＥＸ赤"
     },
     {
       "index": "10157",
-      "target": "大錘秘傳EX黒"
+      "target": "大錘秘傳ＥＸ黒"
     },
     {
       "index": "10158",
-      "target": "大錘秘傳EX青"
+      "target": "大錘秘傳ＥＸ青"
     },
     {
       "index": "10159",
-      "target": "狩獵笛秘傳EX白"
+      "target": "狩獵笛秘傳ＥＸ白"
     },
     {
       "index": "10160",
-      "target": "狩獵笛秘傳EX赤"
+      "target": "狩獵笛秘傳ＥＸ赤"
     },
     {
       "index": "10161",
-      "target": "狩獵笛秘傳EX黒"
+      "target": "狩獵笛秘傳ＥＸ黒"
     },
     {
       "index": "10162",
-      "target": "狩獵笛秘傳EX青"
+      "target": "狩獵笛秘傳ＥＸ青"
     },
     {
       "index": "10163",
-      "target": "輕弩秘傳EX白"
+      "target": "輕弩秘傳ＥＸ白"
     },
     {
       "index": "10164",
-      "target": "輕弩秘傳EX赤"
+      "target": "輕弩秘傳ＥＸ赤"
     },
     {
       "index": "10165",
-      "target": "輕弩秘傳EX黒"
+      "target": "輕弩秘傳ＥＸ黒"
     },
     {
       "index": "10166",
-      "target": "輕弩秘傳EX青"
+      "target": "輕弩秘傳ＥＸ青"
     },
     {
       "index": "10167",
-      "target": "重弩秘傳EX白"
+      "target": "重弩秘傳ＥＸ白"
     },
     {
       "index": "10168",
-      "target": "重弩秘傳EX赤"
+      "target": "重弩秘傳ＥＸ赤"
     },
     {
       "index": "10169",
-      "target": "重弩秘傳EX黒"
+      "target": "重弩秘傳ＥＸ黒"
     },
     {
       "index": "10170",
-      "target": "重弩秘傳EX青"
+      "target": "重弩秘傳ＥＸ青"
     },
     {
       "index": "10171",
-      "target": "弓秘傳EX白"
+      "target": "弓秘傳ＥＸ白"
     },
     {
       "index": "10172",
-      "target": "弓秘傳EX赤"
+      "target": "弓秘傳ＥＸ赤"
     },
     {
       "index": "10173",
-      "target": "弓秘傳EX黒"
+      "target": "弓秘傳ＥＸ黒"
     },
     {
       "index": "10174",
-      "target": "弓秘傳EX青"
+      "target": "弓秘傳ＥＸ青"
     },
     {
       "index": "10175",
-      "target": "穿龍棍秘傳EX白"
+      "target": "穿龍棍秘傳ＥＸ白"
     },
     {
       "index": "10176",
-      "target": "穿龍棍秘傳EX赤"
+      "target": "穿龍棍秘傳ＥＸ赤"
     },
     {
       "index": "10177",
-      "target": "穿龍棍秘傳EX黒"
+      "target": "穿龍棍秘傳ＥＸ黒"
     },
     {
       "index": "10178",
-      "target": "穿龍棍秘傳EX青"
+      "target": "穿龍棍秘傳ＥＸ青"
     },
     {
       "index": "10180",
@@ -11132,7 +11132,7 @@
     },
     {
       "index": "11021",
-      "target": "紋章常S"
+      "target": "紋章常Ｓ"
     },
     {
       "index": "11022",
@@ -11144,7 +11144,7 @@
     },
     {
       "index": "11024",
-      "target": "紋章岩S"
+      "target": "紋章岩Ｓ"
     },
     {
       "index": "11025",
@@ -11164,7 +11164,7 @@
     },
     {
       "index": "11029",
-      "target": "紋章常SⅡ"
+      "target": "紋章常ＳⅡ"
     },
     {
       "index": "11030",
@@ -11176,7 +11176,7 @@
     },
     {
       "index": "11032",
-      "target": "紋章岩SⅡ"
+      "target": "紋章岩ＳⅡ"
     },
     {
       "index": "11033",
@@ -11464,7 +11464,7 @@
     },
     {
       "index": "11353",
-      "target": "F龍鎧沸鉢巻"
+      "target": "Ｆ龍鎧沸鉢巻"
     },
     {
       "index": "11354",
@@ -11644,7 +11644,7 @@
     },
     {
       "index": "11452",
-      "target": "GR的防具紋章"
+      "target": "ＧＲ的防具紋章"
     },
     {
       "index": "11454",
@@ -12020,7 +12020,7 @@
     },
     {
       "index": "11700",
-      "target": "NP片手劍素材"
+      "target": "ＮＰ片手劍素材"
     },
     {
       "index": "11701",
@@ -13384,7 +13384,7 @@
     },
     {
       "index": "12382",
-      "target": "眠鳥的W白的毛"
+      "target": "眠鳥的Ｗ白的毛"
     },
     {
       "index": "12391",
@@ -13552,7 +13552,7 @@
     },
     {
       "index": "12498",
-      "target": "T力量結晶"
+      "target": "Ｔ力量結晶"
     },
     {
       "index": "12506",
@@ -14188,7 +14188,7 @@
     },
     {
       "index": "12788",
-      "target": "S鍵盤歌"
+      "target": "Ｓ鍵盤歌"
     },
     {
       "index": "12804",
@@ -14220,15 +14220,15 @@
     },
     {
       "index": "12821",
-      "target": "怪鳥的B庫特古代的鱗"
+      "target": "怪鳥的Ｂ庫特古代的鱗"
     },
     {
       "index": "12822",
-      "target": "怪鳥的B庫特古代的殻"
+      "target": "怪鳥的Ｂ庫特古代的殻"
     },
     {
       "index": "12824",
-      "target": "B庫特空魔耳"
+      "target": "Ｂ庫特空魔耳"
     },
     {
       "index": "12825",
@@ -14700,19 +14700,19 @@
     },
     {
       "index": "13200",
-      "target": "劍槍秘傳EX白"
+      "target": "劍槍秘傳ＥＸ白"
     },
     {
       "index": "13201",
-      "target": "劍槍秘傳EX赤"
+      "target": "劍槍秘傳ＥＸ赤"
     },
     {
       "index": "13202",
-      "target": "劍槍秘傳EX黒"
+      "target": "劍槍秘傳ＥＸ黒"
     },
     {
       "index": "13203",
-      "target": "劍槍秘傳EX青"
+      "target": "劍槍秘傳ＥＸ青"
     },
     {
       "index": "13204",
@@ -15572,7 +15572,7 @@
     },
     {
       "index": "13636",
-      "target": "NP劍槍素材"
+      "target": "ＮＰ劍槍素材"
     },
     {
       "index": "13637",
@@ -16768,11 +16768,11 @@
     },
     {
       "index": "14394",
-      "target": "雷的白黒龍RD的角"
+      "target": "雷的白黒龍ＲＤ的角"
     },
     {
       "index": "14395",
-      "target": "W黒龍化抑制RD眼"
+      "target": "Ｗ黒龍化抑制ＲＤ眼"
     },
     {
       "index": "14396",
@@ -16780,7 +16780,7 @@
     },
     {
       "index": "14399",
-      "target": "白黒龍証明球RD的殻"
+      "target": "白黒龍証明球ＲＤ的殻"
     },
     {
       "index": "14401",
@@ -17032,11 +17032,11 @@
     },
     {
       "index": "14571",
-      "target": "嬰兒AT生産券"
+      "target": "嬰兒ＡＴ生産券"
     },
     {
       "index": "14572",
-      "target": "嬰兒BO生産券"
+      "target": "嬰兒ＢＯ生産券"
     },
     {
       "index": "14573",
@@ -17048,19 +17048,19 @@
     },
     {
       "index": "14607",
-      "target": "雪獅子SP青功券"
+      "target": "雪獅子ＳＰ青功券"
     },
     {
       "index": "14608",
-      "target": "雪獅子SP緑功券"
+      "target": "雪獅子ＳＰ緑功券"
     },
     {
       "index": "14609",
-      "target": "雪獅子SP黒功券"
+      "target": "雪獅子ＳＰ黒功券"
     },
     {
       "index": "14613",
-      "target": "希徳伊SP功券"
+      "target": "希徳伊ＳＰ功券"
     },
     {
       "index": "14614",
@@ -17440,63 +17440,63 @@
     },
     {
       "index": "14820",
-      "target": "白兔獸SP赤功券"
+      "target": "白兔獸ＳＰ赤功券"
     },
     {
       "index": "14821",
-      "target": "白兔獸SP黄功券"
+      "target": "白兔獸ＳＰ黄功券"
     },
     {
       "index": "14822",
-      "target": "白兔獸SP紫功券"
+      "target": "白兔獸ＳＰ紫功券"
     },
     {
       "index": "14823",
-      "target": "岩龍SP赤功券"
+      "target": "岩龍ＳＰ赤功券"
     },
     {
       "index": "14824",
-      "target": "岩龍SP黒功券"
+      "target": "岩龍ＳＰ黒功券"
     },
     {
       "index": "14825",
-      "target": "岩龍SP黄功券"
+      "target": "岩龍ＳＰ黄功券"
     },
     {
       "index": "14832",
-      "target": "鎧龍SP緑功券"
+      "target": "鎧龍ＳＰ緑功券"
     },
     {
       "index": "14833",
-      "target": "鎧龍SP紫功券"
+      "target": "鎧龍ＳＰ紫功券"
     },
     {
       "index": "14834",
-      "target": "鎧龍SP赤功券"
+      "target": "鎧龍ＳＰ赤功券"
     },
     {
       "index": "14835",
-      "target": "高級甲SP黒功券"
+      "target": "高級甲ＳＰ黒功券"
     },
     {
       "index": "14836",
-      "target": "高級甲SP青功券"
+      "target": "高級甲ＳＰ青功券"
     },
     {
       "index": "14837",
-      "target": "高級甲SP黄功券"
+      "target": "高級甲ＳＰ黄功券"
     },
     {
       "index": "14841",
-      "target": "黑狼鳥SP白功券"
+      "target": "黑狼鳥ＳＰ白功券"
     },
     {
       "index": "14842",
-      "target": "黑狼鳥SP緑功券"
+      "target": "黑狼鳥ＳＰ緑功券"
     },
     {
       "index": "14843",
-      "target": "黑狼鳥SP赤功券"
+      "target": "黑狼鳥ＳＰ赤功券"
     },
     {
       "index": "14854",
@@ -17760,15 +17760,15 @@
     },
     {
       "index": "15005",
-      "target": "豐玉SP青功券"
+      "target": "豐玉ＳＰ青功券"
     },
     {
       "index": "15006",
-      "target": "豐玉SP赤功券"
+      "target": "豐玉ＳＰ赤功券"
     },
     {
       "index": "15007",
-      "target": "豐玉SP黄功券"
+      "target": "豐玉ＳＰ黄功券"
     },
     {
       "index": "15008",
@@ -17784,15 +17784,15 @@
     },
     {
       "index": "15017",
-      "target": "加布拉斯SP白功券"
+      "target": "加布拉斯ＳＰ白功券"
     },
     {
       "index": "15018",
-      "target": "加布拉斯SP黄功券"
+      "target": "加布拉斯ＳＰ黄功券"
     },
     {
       "index": "15019",
-      "target": "加布拉斯SP黒功券"
+      "target": "加布拉斯ＳＰ黒功券"
     },
     {
       "index": "15020",
@@ -18036,7 +18036,7 @@
     },
     {
       "index": "15178",
-      "target": "感謝汝XI"
+      "target": "感謝汝ＸＩ"
     },
     {
       "index": "15179",
@@ -18728,19 +18728,19 @@
     },
     {
       "index": "15550",
-      "target": "磁界銃秘傳EX白"
+      "target": "磁界銃秘傳ＥＸ白"
     },
     {
       "index": "15551",
-      "target": "磁界銃秘傳EX赤"
+      "target": "磁界銃秘傳ＥＸ赤"
     },
     {
       "index": "15552",
-      "target": "磁界銃秘傳EX黒"
+      "target": "磁界銃秘傳ＥＸ黒"
     },
     {
       "index": "15553",
-      "target": "磁界銃秘傳EX青"
+      "target": "磁界銃秘傳ＥＸ青"
     },
     {
       "index": "15554",
@@ -18788,43 +18788,43 @@
     },
     {
       "index": "15567",
-      "target": "技能孔強化PZ1"
+      "target": "技能孔強化ＰＺ1"
     },
     {
       "index": "15568",
-      "target": "技能孔強化PZ2"
+      "target": "技能孔強化ＰＺ2"
     },
     {
       "index": "15569",
-      "target": "技能孔強化PZ3"
+      "target": "技能孔強化ＰＺ3"
     },
     {
       "index": "15570",
-      "target": "技能孔強化PZ4"
+      "target": "技能孔強化ＰＺ4"
     },
     {
       "index": "15571",
-      "target": "技能孔強化PZ5"
+      "target": "技能孔強化ＰＺ5"
     },
     {
       "index": "15572",
-      "target": "技能孔強化PZ6"
+      "target": "技能孔強化ＰＺ6"
     },
     {
       "index": "15573",
-      "target": "技能孔強化PZ7"
+      "target": "技能孔強化ＰＺ7"
     },
     {
       "index": "15574",
-      "target": "技能孔強化PZ8"
+      "target": "技能孔強化ＰＺ8"
     },
     {
       "index": "15575",
-      "target": "技能孔強化PZ9"
+      "target": "技能孔強化ＰＺ9"
     },
     {
       "index": "15576",
-      "target": "技能孔強化PZ10"
+      "target": "技能孔強化ＰＺ10"
     },
     {
       "index": "15577",
@@ -19008,583 +19008,583 @@
     },
     {
       "index": "15622",
-      "target": "會心轉換強化PZ1"
+      "target": "會心轉換強化ＰＺ1"
     },
     {
       "index": "15623",
-      "target": "會心轉換強化PZ2"
+      "target": "會心轉換強化ＰＺ2"
     },
     {
       "index": "15624",
-      "target": "會心轉換強化PZ3"
+      "target": "會心轉換強化ＰＺ3"
     },
     {
       "index": "15625",
-      "target": "會心轉換強化PZ4"
+      "target": "會心轉換強化ＰＺ4"
     },
     {
       "index": "15626",
-      "target": "會心轉換強化PZ5"
+      "target": "會心轉換強化ＰＺ5"
     },
     {
       "index": "15627",
-      "target": "會心轉換強化PZ6"
+      "target": "會心轉換強化ＰＺ6"
     },
     {
       "index": "15628",
-      "target": "會心轉換強化PZ7"
+      "target": "會心轉換強化ＰＺ7"
     },
     {
       "index": "15629",
-      "target": "雷纏強化PZ1"
+      "target": "雷纏強化ＰＺ1"
     },
     {
       "index": "15630",
-      "target": "雷纏強化PZ2"
+      "target": "雷纏強化ＰＺ2"
     },
     {
       "index": "15631",
-      "target": "雷纏強化PZ3"
+      "target": "雷纏強化ＰＺ3"
     },
     {
       "index": "15632",
-      "target": "雷纏強化PZ4"
+      "target": "雷纏強化ＰＺ4"
     },
     {
       "index": "15633",
-      "target": "雷纏強化PZ5"
+      "target": "雷纏強化ＰＺ5"
     },
     {
       "index": "15634",
-      "target": "雷纏強化PZ6"
+      "target": "雷纏強化ＰＺ6"
     },
     {
       "index": "15635",
-      "target": "雷纏強化PZ7"
+      "target": "雷纏強化ＰＺ7"
     },
     {
       "index": "15636",
-      "target": "強強襲強化PZ1"
+      "target": "強強襲強化ＰＺ1"
     },
     {
       "index": "15637",
-      "target": "強強襲強化PZ2"
+      "target": "強強襲強化ＰＺ2"
     },
     {
       "index": "15638",
-      "target": "強強襲強化PZ3"
+      "target": "強強襲強化ＰＺ3"
     },
     {
       "index": "15639",
-      "target": "強強襲強化PZ4"
+      "target": "強強襲強化ＰＺ4"
     },
     {
       "index": "15640",
-      "target": "強強襲強化PZ5"
+      "target": "強強襲強化ＰＺ5"
     },
     {
       "index": "15641",
-      "target": "強強襲強化PZ6"
+      "target": "強強襲強化ＰＺ6"
     },
     {
       "index": "15642",
-      "target": "吸血強化PZ1"
+      "target": "吸血強化ＰＺ1"
     },
     {
       "index": "15643",
-      "target": "吸血強化PZ2"
+      "target": "吸血強化ＰＺ2"
     },
     {
       "index": "15644",
-      "target": "吸血強化PZ3"
+      "target": "吸血強化ＰＺ3"
     },
     {
       "index": "15645",
-      "target": "吸血強化PZ4"
+      "target": "吸血強化ＰＺ4"
     },
     {
       "index": "15646",
-      "target": "吸血強化PZ5"
+      "target": "吸血強化ＰＺ5"
     },
     {
       "index": "15647",
-      "target": "吸血強化PZ6"
+      "target": "吸血強化ＰＺ6"
     },
     {
       "index": "15648",
-      "target": "溶解強化PZ1"
+      "target": "溶解強化ＰＺ1"
     },
     {
       "index": "15649",
-      "target": "溶解強化PZ2"
+      "target": "溶解強化ＰＺ2"
     },
     {
       "index": "15650",
-      "target": "溶解強化PZ3"
+      "target": "溶解強化ＰＺ3"
     },
     {
       "index": "15651",
-      "target": "溶解強化PZ4"
+      "target": "溶解強化ＰＺ4"
     },
     {
       "index": "15652",
-      "target": "溶解強化PZ5"
+      "target": "溶解強化ＰＺ5"
     },
     {
       "index": "15653",
-      "target": "溶解強化PZ6"
+      "target": "溶解強化ＰＺ6"
     },
     {
       "index": "15654",
-      "target": "冰齡強化PZ1"
+      "target": "冰齡強化ＰＺ1"
     },
     {
       "index": "15655",
-      "target": "冰齡強化PZ2"
+      "target": "冰齡強化ＰＺ2"
     },
     {
       "index": "15656",
-      "target": "冰齡強化PZ3"
+      "target": "冰齡強化ＰＺ3"
     },
     {
       "index": "15657",
-      "target": "冰齡強化PZ4"
+      "target": "冰齡強化ＰＺ4"
     },
     {
       "index": "15658",
-      "target": "冰齡強化PZ5"
+      "target": "冰齡強化ＰＺ5"
     },
     {
       "index": "15659",
-      "target": "冰齡強化PZ6"
+      "target": "冰齡強化ＰＺ6"
     },
     {
       "index": "15660",
-      "target": "藥ｋ強化PZ1"
+      "target": "藥ｋ強化ＰＺ1"
     },
     {
       "index": "15661",
-      "target": "藥ｋ強化PZ2"
+      "target": "藥ｋ強化ＰＺ2"
     },
     {
       "index": "15662",
-      "target": "藥ｋ強化PZ3"
+      "target": "藥ｋ強化ＰＺ3"
     },
     {
       "index": "15663",
-      "target": "藥ｋ強化PZ4"
+      "target": "藥ｋ強化ＰＺ4"
     },
     {
       "index": "15664",
-      "target": "藥ｋ強化PZ5"
+      "target": "藥ｋ強化ＰＺ5"
     },
     {
       "index": "15665",
-      "target": "藥ｋ強化PZ6"
+      "target": "藥ｋ強化ＰＺ6"
     },
     {
       "index": "15666",
-      "target": "支援強化PZ1"
+      "target": "支援強化ＰＺ1"
     },
     {
       "index": "15667",
-      "target": "支援強化PZ2"
+      "target": "支援強化ＰＺ2"
     },
     {
       "index": "15668",
-      "target": "支援強化PZ3"
+      "target": "支援強化ＰＺ3"
     },
     {
       "index": "15669",
-      "target": "支援強化PZ4"
+      "target": "支援強化ＰＺ4"
     },
     {
       "index": "15670",
-      "target": "支援強化PZ5"
+      "target": "支援強化ＰＺ5"
     },
     {
       "index": "15671",
-      "target": "支援強化PZ6"
+      "target": "支援強化ＰＺ6"
     },
     {
       "index": "15672",
-      "target": "突進強化PZ1"
+      "target": "突進強化ＰＺ1"
     },
     {
       "index": "15673",
-      "target": "突進強化PZ2"
+      "target": "突進強化ＰＺ2"
     },
     {
       "index": "15674",
-      "target": "突進強化PZ3"
+      "target": "突進強化ＰＺ3"
     },
     {
       "index": "15675",
-      "target": "突進強化PZ4"
+      "target": "突進強化ＰＺ4"
     },
     {
       "index": "15676",
-      "target": "突進強化PZ5"
+      "target": "突進強化ＰＺ5"
     },
     {
       "index": "15677",
-      "target": "突進強化PZ6"
+      "target": "突進強化ＰＺ6"
     },
     {
       "index": "15678",
-      "target": "突進強化PZ7"
+      "target": "突進強化ＰＺ7"
     },
     {
       "index": "15679",
-      "target": "適應強化PZ1"
+      "target": "適應強化ＰＺ1"
     },
     {
       "index": "15680",
-      "target": "適應強化PZ2"
+      "target": "適應強化ＰＺ2"
     },
     {
       "index": "15681",
-      "target": "適應強化PZ3"
+      "target": "適應強化ＰＺ3"
     },
     {
       "index": "15682",
-      "target": "適應強化PZ4"
+      "target": "適應強化ＰＺ4"
     },
     {
       "index": "15683",
-      "target": "適應強化PZ5"
+      "target": "適應強化ＰＺ5"
     },
     {
       "index": "15684",
-      "target": "適應強化PZ6"
+      "target": "適應強化ＰＺ6"
     },
     {
       "index": "15685",
-      "target": "激勵強化PZ1"
+      "target": "激勵強化ＰＺ1"
     },
     {
       "index": "15686",
-      "target": "激勵強化PZ2"
+      "target": "激勵強化ＰＺ2"
     },
     {
       "index": "15687",
-      "target": "激勵強化PZ3"
+      "target": "激勵強化ＰＺ3"
     },
     {
       "index": "15688",
-      "target": "激勵強化PZ4"
+      "target": "激勵強化ＰＺ4"
     },
     {
       "index": "15689",
-      "target": "激勵強化PZ5"
+      "target": "激勵強化ＰＺ5"
     },
     {
       "index": "15690",
-      "target": "激勵強化PZ6"
+      "target": "激勵強化ＰＺ6"
     },
     {
       "index": "15691",
-      "target": "反射強化PZ1"
+      "target": "反射強化ＰＺ1"
     },
     {
       "index": "15692",
-      "target": "反射強化PZ2"
+      "target": "反射強化ＰＺ2"
     },
     {
       "index": "15693",
-      "target": "反射強化PZ3"
+      "target": "反射強化ＰＺ3"
     },
     {
       "index": "15694",
-      "target": "反射強化PZ4"
+      "target": "反射強化ＰＺ4"
     },
     {
       "index": "15695",
-      "target": "反射強化PZ5"
+      "target": "反射強化ＰＺ5"
     },
     {
       "index": "15696",
-      "target": "反射強化PZ6"
+      "target": "反射強化ＰＺ6"
     },
     {
       "index": "15697",
-      "target": "時装強化PZ1"
+      "target": "時装強化ＰＺ1"
     },
     {
       "index": "15698",
-      "target": "時装強化PZ2"
+      "target": "時装強化ＰＺ2"
     },
     {
       "index": "15699",
-      "target": "時装強化PZ3"
+      "target": "時装強化ＰＺ3"
     },
     {
       "index": "15700",
-      "target": "時装強化PZ4"
+      "target": "時装強化ＰＺ4"
     },
     {
       "index": "15701",
-      "target": "時装強化PZ5"
+      "target": "時装強化ＰＺ5"
     },
     {
       "index": "15702",
-      "target": "時装強化PZ6"
+      "target": "時装強化ＰＺ6"
     },
     {
       "index": "15703",
-      "target": "健強化PZ1"
+      "target": "健強化ＰＺ1"
     },
     {
       "index": "15704",
-      "target": "健強化PZ2"
+      "target": "健強化ＰＺ2"
     },
     {
       "index": "15705",
-      "target": "健強化PZ3"
+      "target": "健強化ＰＺ3"
     },
     {
       "index": "15706",
-      "target": "健強化PZ4"
+      "target": "健強化ＰＺ4"
     },
     {
       "index": "15707",
-      "target": "健強化PZ5"
+      "target": "健強化ＰＺ5"
     },
     {
       "index": "15708",
-      "target": "健強化PZ6"
+      "target": "健強化ＰＺ6"
     },
     {
       "index": "15709",
-      "target": "幽闇強化PZ1"
+      "target": "幽闇強化ＰＺ1"
     },
     {
       "index": "15710",
-      "target": "幽闇強化PZ2"
+      "target": "幽闇強化ＰＺ2"
     },
     {
       "index": "15711",
-      "target": "幽闇強化PZ3"
+      "target": "幽闇強化ＰＺ3"
     },
     {
       "index": "15712",
-      "target": "幽闇強化PZ4"
+      "target": "幽闇強化ＰＺ4"
     },
     {
       "index": "15713",
-      "target": "幽闇強化PZ5"
+      "target": "幽闇強化ＰＺ5"
     },
     {
       "index": "15714",
-      "target": "幽闇強化PZ6"
+      "target": "幽闇強化ＰＺ6"
     },
     {
       "index": "15715",
-      "target": "魂強化PZ1"
+      "target": "魂強化ＰＺ1"
     },
     {
       "index": "15716",
-      "target": "魂強化PZ2"
+      "target": "魂強化ＰＺ2"
     },
     {
       "index": "15717",
-      "target": "魂強化PZ3"
+      "target": "魂強化ＰＺ3"
     },
     {
       "index": "15718",
-      "target": "魂強化PZ4"
+      "target": "魂強化ＰＺ4"
     },
     {
       "index": "15719",
-      "target": "魂強化PZ5"
+      "target": "魂強化ＰＺ5"
     },
     {
       "index": "15720",
-      "target": "魂強化PZ6"
+      "target": "魂強化ＰＺ6"
     },
     {
       "index": "15721",
-      "target": "魂強化PZ7"
+      "target": "魂強化ＰＺ7"
     },
     {
       "index": "15722",
-      "target": "耳塞強化PZ1"
+      "target": "耳塞強化ＰＺ1"
     },
     {
       "index": "15723",
-      "target": "耳塞強化PZ2"
+      "target": "耳塞強化ＰＺ2"
     },
     {
       "index": "15724",
-      "target": "耳塞強化PZ3"
+      "target": "耳塞強化ＰＺ3"
     },
     {
       "index": "15725",
-      "target": "耳塞強化PZ4"
+      "target": "耳塞強化ＰＺ4"
     },
     {
       "index": "15726",
-      "target": "耳塞強化PZ5"
+      "target": "耳塞強化ＰＺ5"
     },
     {
       "index": "15727",
-      "target": "風耐性強化PZ1"
+      "target": "風耐性強化ＰＺ1"
     },
     {
       "index": "15728",
-      "target": "風耐性強化PZ2"
+      "target": "風耐性強化ＰＺ2"
     },
     {
       "index": "15729",
-      "target": "風耐性強化PZ3"
+      "target": "風耐性強化ＰＺ3"
     },
     {
       "index": "15730",
-      "target": "風耐性強化PZ4"
+      "target": "風耐性強化ＰＺ4"
     },
     {
       "index": "15731",
-      "target": "風耐性強化PZ5"
+      "target": "風耐性強化ＰＺ5"
     },
     {
       "index": "15732",
-      "target": "耐震耐性強化PZ1"
+      "target": "耐震耐性強化ＰＺ1"
     },
     {
       "index": "15733",
-      "target": "耐震耐性強化PZ2"
+      "target": "耐震耐性強化ＰＺ2"
     },
     {
       "index": "15734",
-      "target": "耐震耐性強化PZ3"
+      "target": "耐震耐性強化ＰＺ3"
     },
     {
       "index": "15735",
-      "target": "耐震耐性強化PZ4"
+      "target": "耐震耐性強化ＰＺ4"
     },
     {
       "index": "15736",
-      "target": "耐震耐性強化PZ5"
+      "target": "耐震耐性強化ＰＺ5"
     },
     {
       "index": "15737",
-      "target": "毒耐性強化PZ1"
+      "target": "毒耐性強化ＰＺ1"
     },
     {
       "index": "15738",
-      "target": "毒耐性強化PZ2"
+      "target": "毒耐性強化ＰＺ2"
     },
     {
       "index": "15739",
-      "target": "毒耐性強化PZ3"
+      "target": "毒耐性強化ＰＺ3"
     },
     {
       "index": "15740",
-      "target": "毒耐性強化PZ4"
+      "target": "毒耐性強化ＰＺ4"
     },
     {
       "index": "15741",
-      "target": "毒耐性強化PZ5"
+      "target": "毒耐性強化ＰＺ5"
     },
     {
       "index": "15742",
-      "target": "毒耐性強化PZ6"
+      "target": "毒耐性強化ＰＺ6"
     },
     {
       "index": "15743",
-      "target": "麻痺耐性強化PZ1"
+      "target": "麻痺耐性強化ＰＺ1"
     },
     {
       "index": "15744",
-      "target": "麻痺耐性強化PZ2"
+      "target": "麻痺耐性強化ＰＺ2"
     },
     {
       "index": "15745",
-      "target": "麻痺耐性強化PZ3"
+      "target": "麻痺耐性強化ＰＺ3"
     },
     {
       "index": "15746",
-      "target": "麻痺耐性強化PZ4"
+      "target": "麻痺耐性強化ＰＺ4"
     },
     {
       "index": "15747",
-      "target": "麻痺耐性強化PZ5"
+      "target": "麻痺耐性強化ＰＺ5"
     },
     {
       "index": "15748",
-      "target": "麻痺耐性強化PZ6"
+      "target": "麻痺耐性強化ＰＺ6"
     },
     {
       "index": "15749",
-      "target": "睡眠耐性強化PZ1"
+      "target": "睡眠耐性強化ＰＺ1"
     },
     {
       "index": "15750",
-      "target": "睡眠耐性強化PZ2"
+      "target": "睡眠耐性強化ＰＺ2"
     },
     {
       "index": "15751",
-      "target": "睡眠耐性強化PZ3"
+      "target": "睡眠耐性強化ＰＺ3"
     },
     {
       "index": "15752",
-      "target": "睡眠耐性強化PZ4"
+      "target": "睡眠耐性強化ＰＺ4"
     },
     {
       "index": "15753",
-      "target": "睡眠耐性強化PZ5"
+      "target": "睡眠耐性強化ＰＺ5"
     },
     {
       "index": "15754",
-      "target": "睡眠耐性強化PZ6"
+      "target": "睡眠耐性強化ＰＺ6"
     },
     {
       "index": "15755",
-      "target": "守衛強化PZ1"
+      "target": "守衛強化ＰＺ1"
     },
     {
       "index": "15756",
-      "target": "守衛強化PZ2"
+      "target": "守衛強化ＰＺ2"
     },
     {
       "index": "15757",
-      "target": "守衛強化PZ3"
+      "target": "守衛強化ＰＺ3"
     },
     {
       "index": "15758",
-      "target": "守衛強化PZ4"
+      "target": "守衛強化ＰＺ4"
     },
     {
       "index": "15759",
-      "target": "守衛強化PZ5"
+      "target": "守衛強化ＰＺ5"
     },
     {
       "index": "15760",
-      "target": "守衛強化PZ6"
+      "target": "守衛強化ＰＺ6"
     },
     {
       "index": "15761",
-      "target": "弾節約強化PZ1"
+      "target": "弾節約強化ＰＺ1"
     },
     {
       "index": "15762",
-      "target": "弾節約強化PZ2"
+      "target": "弾節約強化ＰＺ2"
     },
     {
       "index": "15763",
-      "target": "弾節約強化PZ3"
+      "target": "弾節約強化ＰＺ3"
     },
     {
       "index": "15764",
-      "target": "弾節約強化PZ4"
+      "target": "弾節約強化ＰＺ4"
     },
     {
       "index": "15765",
-      "target": "弾節約強化PZ5"
+      "target": "弾節約強化ＰＺ5"
     },
     {
       "index": "15766",
-      "target": "弾節約強化PZ6"
+      "target": "弾節約強化ＰＺ6"
     },
     {
       "index": "15767",
@@ -19968,191 +19968,191 @@
     },
     {
       "index": "15919",
-      "target": "無尽強化PZ1"
+      "target": "無尽強化ＰＺ1"
     },
     {
       "index": "15920",
-      "target": "無尽強化PZ2"
+      "target": "無尽強化ＰＺ2"
     },
     {
       "index": "15921",
-      "target": "無尽強化PZ3"
+      "target": "無尽強化ＰＺ3"
     },
     {
       "index": "15922",
-      "target": "無尽強化PZ4"
+      "target": "無尽強化ＰＺ4"
     },
     {
       "index": "15923",
-      "target": "無尽強化PZ5"
+      "target": "無尽強化ＰＺ5"
     },
     {
       "index": "15924",
-      "target": "無尽強化PZ6"
+      "target": "無尽強化ＰＺ6"
     },
     {
       "index": "15925",
-      "target": "無尽強化PZ7"
+      "target": "無尽強化ＰＺ7"
     },
     {
       "index": "15926",
-      "target": "會心轉換強化PZ8"
+      "target": "會心轉換強化ＰＺ8"
     },
     {
       "index": "15927",
-      "target": "會心轉換強化PZ9"
+      "target": "會心轉換強化ＰＺ9"
     },
     {
       "index": "15928",
-      "target": "雷纏強化PZ8"
+      "target": "雷纏強化ＰＺ8"
     },
     {
       "index": "15929",
-      "target": "雷纏強化PZ9"
+      "target": "雷纏強化ＰＺ9"
     },
     {
       "index": "15930",
-      "target": "強強襲強化PZ7"
+      "target": "強強襲強化ＰＺ7"
     },
     {
       "index": "15931",
-      "target": "強強襲強化PZ8"
+      "target": "強強襲強化ＰＺ8"
     },
     {
       "index": "15932",
-      "target": "吸血強化PZ7"
+      "target": "吸血強化ＰＺ7"
     },
     {
       "index": "15933",
-      "target": "吸血強化PZ8"
+      "target": "吸血強化ＰＺ8"
     },
     {
       "index": "15934",
-      "target": "溶解強化PZ7"
+      "target": "溶解強化ＰＺ7"
     },
     {
       "index": "15935",
-      "target": "冰齡強化PZ7"
+      "target": "冰齡強化ＰＺ7"
     },
     {
       "index": "15936",
-      "target": "藥ｋ強化PZ7"
+      "target": "藥ｋ強化ＰＺ7"
     },
     {
       "index": "15937",
-      "target": "支援強化PZ7"
+      "target": "支援強化ＰＺ7"
     },
     {
       "index": "15938",
-      "target": "支援強化PZ8"
+      "target": "支援強化ＰＺ8"
     },
     {
       "index": "15939",
-      "target": "突進強化PZ8"
+      "target": "突進強化ＰＺ8"
     },
     {
       "index": "15940",
-      "target": "突進強化PZ9"
+      "target": "突進強化ＰＺ9"
     },
     {
       "index": "15941",
-      "target": "適應強化PZ7"
+      "target": "適應強化ＰＺ7"
     },
     {
       "index": "15942",
-      "target": "適應強化PZ8"
+      "target": "適應強化ＰＺ8"
     },
     {
       "index": "15943",
-      "target": "激勵強化PZ7"
+      "target": "激勵強化ＰＺ7"
     },
     {
       "index": "15944",
-      "target": "反射強化PZ7"
+      "target": "反射強化ＰＺ7"
     },
     {
       "index": "15945",
-      "target": "時装強化PZ7"
+      "target": "時装強化ＰＺ7"
     },
     {
       "index": "15946",
-      "target": "時装強化PZ8"
+      "target": "時装強化ＰＺ8"
     },
     {
       "index": "15947",
-      "target": "健強化PZ7"
+      "target": "健強化ＰＺ7"
     },
     {
       "index": "15948",
-      "target": "健強化PZ8"
+      "target": "健強化ＰＺ8"
     },
     {
       "index": "15949",
-      "target": "幽闇強化PZ7"
+      "target": "幽闇強化ＰＺ7"
     },
     {
       "index": "15950",
-      "target": "幽闇強化PZ8"
+      "target": "幽闇強化ＰＺ8"
     },
     {
       "index": "15951",
-      "target": "魂強化PZ8"
+      "target": "魂強化ＰＺ8"
     },
     {
       "index": "15952",
-      "target": "耳塞強化PZ6"
+      "target": "耳塞強化ＰＺ6"
     },
     {
       "index": "15953",
-      "target": "風耐性強化PZ6"
+      "target": "風耐性強化ＰＺ6"
     },
     {
       "index": "15954",
-      "target": "耐震耐性強化PZ6"
+      "target": "耐震耐性強化ＰＺ6"
     },
     {
       "index": "15955",
-      "target": "毒耐性強化PZ7"
+      "target": "毒耐性強化ＰＺ7"
     },
     {
       "index": "15956",
-      "target": "麻痺耐性強化PZ7"
+      "target": "麻痺耐性強化ＰＺ7"
     },
     {
       "index": "15957",
-      "target": "睡眠耐性強化PZ7"
+      "target": "睡眠耐性強化ＰＺ7"
     },
     {
       "index": "15958",
-      "target": "守衛強化PZ7"
+      "target": "守衛強化ＰＺ7"
     },
     {
       "index": "15959",
-      "target": "守衛強化PZ8"
+      "target": "守衛強化ＰＺ8"
     },
     {
       "index": "15960",
-      "target": "守衛強化PZ9"
+      "target": "守衛強化ＰＺ9"
     },
     {
       "index": "15961",
-      "target": "守衛強化PZ10"
+      "target": "守衛強化ＰＺ10"
     },
     {
       "index": "15962",
-      "target": "弾節約強化PZ7"
+      "target": "弾節約強化ＰＺ7"
     },
     {
       "index": "15963",
-      "target": "弾節約強化PZ8"
+      "target": "弾節約強化ＰＺ8"
     },
     {
       "index": "15964",
-      "target": "弾節約強化PZ9"
+      "target": "弾節約強化ＰＺ9"
     },
     {
       "index": "15965",
-      "target": "浪紫黑強化PZ10"
+      "target": "浪紫黑強化ＰＺ10"
     },
     {
       "index": "15966",
@@ -21388,63 +21388,63 @@
     },
     {
       "index": "16314",
-      "target": "Ｋ羅布斯SP黒功券"
+      "target": "Ｋ羅布斯ＳＰ黒功券"
     },
     {
       "index": "16315",
-      "target": "Ｋ羅布斯SP緑功券"
+      "target": "Ｋ羅布斯ＳＰ緑功券"
     },
     {
       "index": "16316",
-      "target": "Ｋ羅布斯SP青功券"
+      "target": "Ｋ羅布斯ＳＰ青功券"
     },
     {
       "index": "16323",
-      "target": "黒帯SP白功券"
+      "target": "黒帯ＳＰ白功券"
     },
     {
       "index": "16324",
-      "target": "黒帯SP黒功券"
+      "target": "黒帯ＳＰ黒功券"
     },
     {
       "index": "16325",
-      "target": "黒帯SP青功券"
+      "target": "黒帯ＳＰ青功券"
     },
     {
       "index": "16326",
-      "target": "阿普可爾SP白功券"
+      "target": "阿普可爾ＳＰ白功券"
     },
     {
       "index": "16327",
-      "target": "阿普可爾SP緑功券"
+      "target": "阿普可爾ＳＰ緑功券"
     },
     {
       "index": "16328",
-      "target": "阿普可爾SP黄功券"
+      "target": "阿普可爾ＳＰ黄功券"
     },
     {
       "index": "16329",
-      "target": "極龍SP白功券"
+      "target": "極龍ＳＰ白功券"
     },
     {
       "index": "16330",
-      "target": "極龍SP青功券"
+      "target": "極龍ＳＰ青功券"
     },
     {
       "index": "16331",
-      "target": "極龍SP赤功券"
+      "target": "極龍ＳＰ赤功券"
     },
     {
       "index": "16332",
-      "target": "小村SP白赤功券"
+      "target": "小村ＳＰ白赤功券"
     },
     {
       "index": "16333",
-      "target": "小村SP白青功券"
+      "target": "小村ＳＰ白青功券"
     },
     {
       "index": "16334",
-      "target": "小村SP白黄功券"
+      "target": "小村ＳＰ白黄功券"
     },
     {
       "index": "16340",
