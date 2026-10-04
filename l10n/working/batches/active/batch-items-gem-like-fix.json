@@ -1,0 +1,54 @@
+{
+  "section_id": "items-name",
+  "label": "gem-like-fix",
+  "translations": [
+    {
+      "index": "10574",
+      "target": "耐性猫珠Ｐ"
+    },
+    {
+      "index": "11769",
+      "target": "猫珠・梅"
+    },
+    {
+      "index": "11770",
+      "target": "猫珠・杏"
+    },
+    {
+      "index": "11771",
+      "target": "猫珠・菫"
+    },
+    {
+      "index": "11772",
+      "target": "猫珠・柳"
+    },
+    {
+      "index": "11773",
+      "target": "猫珠・石榴"
+    },
+    {
+      "index": "11774",
+      "target": "猫珠・金櫻"
+    },
+    {
+      "index": "11776",
+      "target": "猫珠・翡翠"
+    },
+    {
+      "index": "11777",
+      "target": "猫珠・柑橘"
+    },
+    {
+      "index": "11778",
+      "target": "猫珠・淺黄"
+    },
+    {
+      "index": "11779",
+      "target": "猫珠・濃緑"
+    },
+    {
+      "index": "11780",
+      "target": "猫珠・濃褐"
+    }
+  ]
+}

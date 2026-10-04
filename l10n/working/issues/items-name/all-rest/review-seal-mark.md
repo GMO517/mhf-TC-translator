@@ -1,12 +1,14 @@
 # Review：items-name／封印／紋章／印
 
+> **狀態**：**qa_done**（2026-10-04 重分類審改；尚未整批回寫本體）
+
 > **用途**：最終確認。不中斷主線。
-> 來源 batch：`batches/awaiting_qa/items-name/all-rest/seal-mark.json`｜**完整 n=124**
-> 目錄：`issues/items-name/all-rest/`（原 all-rest 拆分，非「剩餘」）
+> 來源 batch：`batches/awaiting_qa/items-name/all-rest/seal-mark.json`｜**完整 n=125**
+> 目錄：`issues/items-name/all-rest/`（語意重分類，已廢止 index 高中低切片）
 
 ## 摘要
 
-- 筆數：**124**
+- 筆數：**125**
 
 ## 全表
 
@@ -18,7 +20,7 @@
 | 2008 | N Seal D | Ｎ封印Ｄ |
 | 2009 | N Seal E | Ｎ封印Ｅ |
 | 2010 | N Seal F | Ｎ封印Ｆ |
-| 2072 | Rusty Cat's Mark | 生錆猫Ｓ印 |
+| 2072 | Rusty Cat's Mark | 生錆猫的印 |
 | 2094 | N Seal G | Ｎ封印Ｇ |
 | 2095 | N Seal H | Ｎ封印Ｈ |
 | 2096 | N Seal I | Ｎ封印Ｉ |
@@ -71,12 +73,13 @@
 | 11036 | Ice S. Sigil Ⅱ | 冰的Ｓ紋章Ⅱ |
 | 11399 | Tooth-Marked Iron | 齒印鉄 |
 | 11443 | Sharp UP Sigil | 紋章鋭強化 |
+| 11444 | Skill UP Sigil | 技能的強化紋章 |
 | 11445 | Attack UP Sigil | 攻撃力的強化紋章 |
 | 11446 | Ele Status UP Sigil | 紋章屬状態強化 |
 | 11447 | Crit Dist UP Sigil | 紋章會心距強化 |
 | 11448 | Coating UP Sigil | 紋章塗強化 |
 | 11449 | Defense UP Sigil | 防禦力的強化紋章 |
-| 11450 | Damage Red Sigil | 紋章納桃毛赤 |
+| 11450 | Damage Red Sigil | 減傷赤紋章 |
 | 11451 | HP Regen Sigil | 紋章血鐵初極征服 |
 | 11452 | GR Armor Sigil | ＧＲ的防具紋章 |
 | 12119 | Beautiful Crest | 美的冠 |
@@ -95,6 +98,7 @@
 | 12861 | Dark Cat Seal Black | 猫的闇封印黒 |
 | 12862 | Dark Cat Seal Gold | 猫的闇封印金 |
 | 13985 | ギルド双獅紋章 | 公會双獅紋章 |
+| 14616 | Skill Slots Up Sigil | 技能的孔強化紋章 |
 | 14617 | Crit Conv Up Sigil | 紋章會心轉換強化 |
 | 14618 | Sty. Assault Up Sigil | 紋章奇可雷強襲強化 |
 | 14619 | Dissolver Up Sigil | 紋章的溶解強化 |
@@ -118,7 +122,6 @@
 | 14637 | Vigorous Up Sigil | 紋章健強化 |
 | 14639 | Z Tower Sigil Mat | 天廊的ｚ紋章素材 |
 | 14945 | Obscurity Up Sigil | 紋章的幽闇強化 |
-| 15101 | Soul Up Sigil | 紋章的魂強化 |
 | 15267 | Hiden Stamp・SnS | 秘傳印章片手劍 |
 | 15268 | Hiden Stamp・DS | 雙劍秘傳印章 |
 | 15269 | Hiden Stamp・GS | 大劍秘傳印章 |

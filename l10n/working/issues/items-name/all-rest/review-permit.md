@@ -1,12 +1,14 @@
-# Review：items-name／許可／通行
+# Review：items-name／許可／通行／推薦
+
+> **狀態**：**qa_done**（2026-10-04 重分類審改；尚未整批回寫本體）
 
 > **用途**：最終確認。不中斷主線。
-> 來源 batch：`batches/awaiting_qa/items-name/all-rest/permit.json`｜**完整 n=24**
-> 目錄：`issues/items-name/all-rest/`（原 all-rest 拆分，非「剩餘」）
+> 來源 batch：`batches/awaiting_qa/items-name/all-rest/permit.json`｜**完整 n=26**
+> 目錄：`issues/items-name/all-rest/`（語意重分類，已廢止 index 高中低切片）
 
 ## 摘要
 
-- 筆數：**24**
+- 筆數：**26**
 
 ## 全表
 
@@ -29,6 +31,8 @@
 | 7156 | Green Pass Ⅲ | 緑通行Ⅲ |
 | 7157 | Green Pass Ⅳ | 緑通行Ⅳ |
 | 7158 | Green Pass Ⅴ | 緑通行Ⅴ |
+| 7983 | 猟団特別推薦状 | 猟団特別推薦状 |
+| 7984 | 猟団長の推薦状 | 猟団長的推薦状 |
 | 13983 | Sweet Passion | 甜情熱 |
 | 15436 | Dark Neko Pass Red | 猫的闇通行赤 |
 | 15437 | Dark Neko Pass Blue | 猫的闇通行青 |

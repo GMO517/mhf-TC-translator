@@ -1,0 +1,142 @@
+{
+  "section_id": "items-name",
+  "label": "gather-craft-fix",
+  "translations": [
+    {
+      "index": "3966",
+      "target": "小標記球"
+    },
+    {
+      "index": "3967",
+      "target": "中標記球"
+    },
+    {
+      "index": "3968",
+      "target": "大標記球"
+    },
+    {
+      "index": "4472",
+      "target": "漁師狡智Ｓ"
+    },
+    {
+      "index": "5108",
+      "target": "罠師珠"
+    },
+    {
+      "index": "5282",
+      "target": "蛋爆彈代幣"
+    },
+    {
+      "index": "5713",
+      "target": "遺失球"
+    },
+    {
+      "index": "5722",
+      "target": "十字鎬代幣Ｇ"
+    },
+    {
+      "index": "5723",
+      "target": "釣餌券Ｇ"
+    },
+    {
+      "index": "5724",
+      "target": "捕蟲網代幣Ｇ"
+    },
+    {
+      "index": "5762",
+      "target": "鷹球・毒"
+    },
+    {
+      "index": "5844",
+      "target": "鷹球・麻痺"
+    },
+    {
+      "index": "5845",
+      "target": "鷹球・睡眠"
+    },
+    {
+      "index": "5846",
+      "target": "鷹球・斬"
+    },
+    {
+      "index": "5847",
+      "target": "鷹球・爆破"
+    },
+    {
+      "index": "5848",
+      "target": "鷹球・爆音"
+    },
+    {
+      "index": "6209",
+      "target": "雪球αＳＰ"
+    },
+    {
+      "index": "6210",
+      "target": "雪球βＳＰ"
+    },
+    {
+      "index": "6239",
+      "target": "力量釣αＳＰ"
+    },
+    {
+      "index": "6240",
+      "target": "力量釣βＳＰ"
+    },
+    {
+      "index": "8247",
+      "target": "新鮮漬蛋"
+    },
+    {
+      "index": "8259",
+      "target": "遺失赤球"
+    },
+    {
+      "index": "8292",
+      "target": "閃耀球"
+    },
+    {
+      "index": "8293",
+      "target": "糖球"
+    },
+    {
+      "index": "9056",
+      "target": "華鳳鳥的蜂蜜"
+    },
+    {
+      "index": "9671",
+      "target": "低俗雜誌"
+    },
+    {
+      "index": "10905",
+      "target": "磁鐵珠"
+    },
+    {
+      "index": "12057",
+      "target": "芳香釣線"
+    },
+    {
+      "index": "12058",
+      "target": "芳香魚網"
+    },
+    {
+      "index": "12979",
+      "target": "赤球・輝"
+    },
+    {
+      "index": "13339",
+      "target": "極龍的磁力波"
+    },
+    {
+      "index": "14330",
+      "target": "金魚紋風鈴"
+    },
+    {
+      "index": "14388",
+      "target": "雙魚情熱"
+    },
+    {
+      "index": "14529",
+      "target": "極龍的鋭磁爪"
+    }
+  ]
+}

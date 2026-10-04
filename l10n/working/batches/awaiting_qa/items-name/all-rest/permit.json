@@ -1,6 +1,6 @@
 {
   "section_id": "items-name",
-  "label": "許可／通行",
+  "label": "permit",
   "translations": [
     {
       "index": "6027",
@@ -69,6 +69,14 @@
     {
       "index": "7158",
       "target": "緑通行Ⅴ"
+    },
+    {
+      "index": "7983",
+      "target": "猟団特別推薦状"
+    },
+    {
+      "index": "7984",
+      "target": "猟団長的推薦状"
     },
     {
       "index": "13983",

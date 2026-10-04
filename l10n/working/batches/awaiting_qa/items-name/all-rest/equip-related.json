@@ -4,43 +4,43 @@
   "translations": [
     {
       "index": "5103",
-      "target": "集中裝飾品"
+      "target": "集中珠"
     },
     {
       "index": "5105",
-      "target": "捕獲的裝飾品"
+      "target": "捕獲珠"
     },
     {
       "index": "5106",
-      "target": "被動装飾品"
+      "target": "被動珠"
     },
     {
       "index": "5107",
-      "target": "笛達人裝飾品"
+      "target": "笛達人珠"
     },
     {
       "index": "5109",
-      "target": "圧力裝飾品"
+      "target": "壓力珠"
     },
     {
       "index": "5213",
-      "target": "微装飾青"
+      "target": "微裝飾・青"
     },
     {
       "index": "5214",
-      "target": "微装飾粉"
+      "target": "微裝飾・粉"
     },
     {
       "index": "5250",
-      "target": "装飾竿"
+      "target": "裝飾竿"
     },
     {
       "index": "5425",
-      "target": "介護裝飾品"
+      "target": "看護珠"
     },
     {
       "index": "5426",
-      "target": "防御鎖定裝飾品"
+      "target": "防御鎖定珠"
     },
     {
       "index": "6248",
@@ -48,127 +48,127 @@
     },
     {
       "index": "6639",
-      "target": "攻撃力的３裝飾品"
+      "target": "攻撃珠【３】"
     },
     {
       "index": "7008",
-      "target": "防具的Ｇ套組"
+      "target": "防具套組Ｇ"
     },
     {
       "index": "7022",
-      "target": "金神輿装飾"
+      "target": "金神輿裝飾"
     },
     {
       "index": "7479",
-      "target": "布爾霧岩"
+      "target": "防具岩・輝"
     },
     {
       "index": "7480",
-      "target": "音未來鎧岩"
+      "target": "防具岩・小物"
     },
     {
       "index": "8763",
-      "target": "火的攻撃裝飾品"
+      "target": "攻撃珠・火"
     },
     {
       "index": "8764",
-      "target": "水的攻撃裝飾品"
+      "target": "攻撃珠・水"
     },
     {
       "index": "8765",
-      "target": "雷的攻撃裝飾品"
+      "target": "攻撃珠・雷"
     },
     {
       "index": "8766",
-      "target": "冰的攻撃裝飾品"
+      "target": "攻撃珠・冰"
     },
     {
       "index": "8767",
-      "target": "龍的攻撃裝飾品"
+      "target": "攻撃珠・龍"
     },
     {
       "index": "8768",
-      "target": "火的劍裝飾品"
+      "target": "劍珠・火"
     },
     {
       "index": "8769",
-      "target": "水的劍裝飾品"
+      "target": "劍珠・水"
     },
     {
       "index": "8770",
-      "target": "雷的劍裝飾品"
+      "target": "劍珠・雷"
     },
     {
       "index": "8771",
-      "target": "冰的劍裝飾品"
+      "target": "劍珠・冰"
     },
     {
       "index": "8772",
-      "target": "龍的劍裝飾品"
+      "target": "劍珠・龍"
     },
     {
       "index": "10901",
-      "target": "來迪拉装飾品"
+      "target": "飼育珠"
     },
     {
       "index": "10902",
-      "target": "章觸媒装飾品"
+      "target": "救濟珠"
     },
     {
       "index": "10903",
-      "target": "毒怪轟装飾品"
+      "target": "酩酊珠"
     },
     {
       "index": "10906",
-      "target": "紋章觸装飾品"
+      "target": "警戒珠"
     },
     {
       "index": "11842",
-      "target": "鎧沸血龍鎧沸"
+      "target": "體防聲援猫珠"
     },
     {
       "index": "12350",
-      "target": "東方爾霧野"
+      "target": "東方裝飾"
     },
     {
       "index": "12878",
-      "target": "恩流浪装飾品"
+      "target": "凍結珠"
     },
     {
       "index": "13057",
-      "target": "防具的球"
+      "target": "鎧玉"
     },
     {
       "index": "13058",
-      "target": "防具的球＋"
+      "target": "上鎧玉"
     },
     {
       "index": "13059",
-      "target": "盤歌聲鎧球"
+      "target": "尖鎧玉"
     },
     {
       "index": "13060",
-      "target": "防具的硬球"
+      "target": "堅鎧玉"
     },
     {
       "index": "13061",
-      "target": "防具的天球"
+      "target": "重鎧玉"
     },
     {
       "index": "13062",
-      "target": "防具的真球"
+      "target": "真鎧玉"
     },
     {
       "index": "13063",
-      "target": "防具的強靭球"
+      "target": "剛鎧玉"
     },
     {
       "index": "13064",
-      "target": "防具的神球"
+      "target": "神鎧玉"
     },
     {
       "index": "13319",
-      "target": "攻撃力的４裝飾品"
+      "target": "攻撃珠【４】"
     },
     {
       "index": "14128",
@@ -180,51 +180,51 @@
     },
     {
       "index": "14858",
-      "target": "防具絶対球"
+      "target": "絶鎧玉"
     },
     {
       "index": "15755",
-      "target": "守衛強化ＰＺ1"
+      "target": "防御強化ＰＺ１"
     },
     {
       "index": "15756",
-      "target": "守衛強化ＰＺ2"
+      "target": "防御強化ＰＺ２"
     },
     {
       "index": "15757",
-      "target": "守衛強化ＰＺ3"
+      "target": "防御強化ＰＺ３"
     },
     {
       "index": "15758",
-      "target": "守衛強化ＰＺ4"
+      "target": "防御強化ＰＺ４"
     },
     {
       "index": "15759",
-      "target": "守衛強化ＰＺ5"
+      "target": "防御強化ＰＺ５"
     },
     {
       "index": "15760",
-      "target": "守衛強化ＰＺ6"
+      "target": "防御強化ＰＺ６"
     },
     {
       "index": "15958",
-      "target": "守衛強化ＰＺ7"
+      "target": "防御強化ＰＺ７"
     },
     {
       "index": "15959",
-      "target": "守衛強化ＰＺ8"
+      "target": "防御強化ＰＺ８"
     },
     {
       "index": "15960",
-      "target": "守衛強化ＰＺ9"
+      "target": "防御強化ＰＺ９"
     },
     {
       "index": "15961",
-      "target": "守衛強化ＰＺ10"
+      "target": "防御強化ＰＺ１０"
     },
     {
       "index": "16420",
-      "target": "装飾磁化抑"
+      "target": "裝飾・椿"
     }
   ]
 }

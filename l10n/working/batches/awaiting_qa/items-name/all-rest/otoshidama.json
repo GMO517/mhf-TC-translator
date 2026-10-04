@@ -1,6 +1,6 @@
 {
   "section_id": "items-name",
-  "label": "紅包／年玉",
+  "label": "otoshidama",
   "translations": [
     {
       "index": "1642",
@@ -13,6 +13,14 @@
     {
       "index": "3302",
       "target": "紅包【第四】"
+    },
+    {
+      "index": "10763",
+      "target": "新年贈禮・羊"
+    },
+    {
+      "index": "12488",
+      "target": "新年贈禮奇可鑰"
     }
   ]
 }

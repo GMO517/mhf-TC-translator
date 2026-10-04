@@ -12,15 +12,15 @@
     },
     {
       "index": "3966",
-      "target": "小點球"
+      "target": "小標記球"
     },
     {
       "index": "3967",
-      "target": "中點球"
+      "target": "中標記球"
     },
     {
       "index": "3968",
-      "target": "大點球"
+      "target": "大標記球"
     },
     {
       "index": "3969",
@@ -32,7 +32,7 @@
     },
     {
       "index": "4472",
-      "target": "漁師Ｓ狡智"
+      "target": "漁師狡智Ｓ"
     },
     {
       "index": "4698",
@@ -40,11 +40,11 @@
     },
     {
       "index": "5108",
-      "target": "陷罠裝飾"
+      "target": "罠師珠"
     },
     {
       "index": "5282",
-      "target": "蛋爆弾代幣"
+      "target": "蛋爆彈代幣"
     },
     {
       "index": "5710",
@@ -52,7 +52,7 @@
     },
     {
       "index": "5713",
-      "target": "失球"
+      "target": "遺失球"
     },
     {
       "index": "5718",
@@ -60,55 +60,55 @@
     },
     {
       "index": "5722",
-      "target": "鎬Ｇ代幣"
+      "target": "十字鎬代幣Ｇ"
     },
     {
       "index": "5723",
-      "target": "釣餌Ｇ券"
+      "target": "釣餌券Ｇ"
     },
     {
       "index": "5724",
-      "target": "蟲網Ｇ代幣"
+      "target": "捕蟲網代幣Ｇ"
     },
     {
       "index": "5762",
-      "target": "毒鷹球"
+      "target": "鷹球・毒"
     },
     {
       "index": "5844",
-      "target": "麻痺的鷹球"
+      "target": "鷹球・麻痺"
     },
     {
       "index": "5845",
-      "target": "睡眠的鷹球"
+      "target": "鷹球・睡眠"
     },
     {
       "index": "5846",
-      "target": "霍克斬球"
+      "target": "鷹球・斬"
     },
     {
       "index": "5847",
-      "target": "爆破的鷹球"
+      "target": "鷹球・爆破"
     },
     {
       "index": "5848",
-      "target": "霍克爆球"
+      "target": "鷹球・爆音"
     },
     {
       "index": "6209",
-      "target": "雪球ＳＰα"
+      "target": "雪球【ＳＰ】α"
     },
     {
       "index": "6210",
-      "target": "雪球ＳＰβ"
+      "target": "雪球【ＳＰ】β"
     },
     {
       "index": "6239",
-      "target": "力量釣ＳＰα"
+      "target": "力量釣【ＳＰ】α"
     },
     {
       "index": "6240",
-      "target": "力量釣ＳＰβ"
+      "target": "力量釣【ＳＰ】β"
     },
     {
       "index": "6461",
@@ -120,11 +120,11 @@
     },
     {
       "index": "8247",
-      "target": "新鮮爾霧野蛋"
+      "target": "新鮮漬蛋"
     },
     {
       "index": "8259",
-      "target": "浪紫黑赤球"
+      "target": "遺失赤球"
     },
     {
       "index": "8282",
@@ -132,19 +132,19 @@
     },
     {
       "index": "8292",
-      "target": "可雷托征服拉"
+      "target": "閃耀球"
     },
     {
       "index": "8293",
-      "target": "觸媒研球"
+      "target": "糖球"
     },
     {
       "index": "9056",
-      "target": "尾錘龍的蜂蜜"
+      "target": "華鳳鳥的蜂蜜"
     },
     {
       "index": "9671",
-      "target": "研磨尾鈿終極"
+      "target": "低俗雜誌"
     },
     {
       "index": "10385",
@@ -156,7 +156,7 @@
     },
     {
       "index": "10905",
-      "target": "磁鐵裝飾品"
+      "target": "磁鐵珠"
     },
     {
       "index": "11281",
@@ -180,31 +180,31 @@
     },
     {
       "index": "12057",
-      "target": "芳釣行"
+      "target": "芳香釣線"
     },
     {
       "index": "12058",
-      "target": "芳魚網"
+      "target": "芳香魚網"
     },
     {
       "index": "12979",
-      "target": "輝耀赤球"
+      "target": "赤球・輝"
     },
     {
       "index": "13339",
-      "target": "極龍磁気波"
+      "target": "極龍的磁力波"
     },
     {
       "index": "14330",
-      "target": "納桃毛霧野泰風鈴"
+      "target": "金魚紋風鈴"
     },
     {
       "index": "14388",
-      "target": "魚雙沸血吼"
+      "target": "雙魚情熱"
     },
     {
       "index": "14529",
-      "target": "嵐龍的斬位磁鐵爪"
+      "target": "極龍的鋭磁爪"
     }
   ]
 }

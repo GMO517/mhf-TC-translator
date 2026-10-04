@@ -1,8 +1,10 @@
-# Review：items-name／之証／Proof
+# Review：items-name／之証／證明
+
+> **狀態**：**qa_done**（2026-10-04 重分類審改；尚未整批回寫本體）
 
 > **用途**：最終確認。不中斷主線。
 > 來源 batch：`batches/awaiting_qa/items-name/all-rest/proof.json`｜**完整 n=67**
-> 目錄：`issues/items-name/all-rest/`（原 all-rest 拆分，非「剩餘」）
+> 目錄：`issues/items-name/all-rest/`（語意重分類，已廢止 index 高中低切片）
 
 ## 摘要
 
@@ -66,10 +68,10 @@
 | 7141 | Supr.Proof-Yellow | 至高證明黄 |
 | 7142 | Supr.Proof-White | 至高證明白 |
 | 7143 | Supr.Proof-Green | 至高證明緑 |
-| 7276 | Urgent Proof | 急証明之証 |
+| 7276 | Urgent Proof | 緊急之証 |
 | 8284 | Proof of Unity | 団結之証 |
 | 8287 | Evangalists Proof | 鎧沸血證之証 |
-| 8860 | Mera Proof | 研磨尾證之証 |
+| 8860 | Mera Proof | 梅拉之証 |
 | 9058 | Foro Proof | 尾錘龍之証 |
 | 9073 | Diorex Proof | 電龍之証 |
 | 9586 | Garuba Proof | 金塵之証 |

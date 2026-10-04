@@ -1,6 +1,6 @@
 {
   "section_id": "items-name",
-  "label": "之証／Proof",
+  "label": "proof",
   "translations": [
     {
       "index": "1794",
@@ -220,7 +220,7 @@
     },
     {
       "index": "7276",
-      "target": "急証明之証"
+      "target": "緊急之証"
     },
     {
       "index": "8284",
@@ -232,7 +232,7 @@
     },
     {
       "index": "8860",
-      "target": "研磨尾證之証"
+      "target": "梅拉之証"
     },
     {
       "index": "9058",

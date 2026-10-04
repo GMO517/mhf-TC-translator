@@ -1,0 +1,274 @@
+{
+  "section_id": "items-name",
+  "label": "歌曲／音符",
+  "translations": [
+    {
+      "index": "3309",
+      "target": "聖誕歌"
+    },
+    {
+      "index": "4008",
+      "target": "峰之歌"
+    },
+    {
+      "index": "4009",
+      "target": "湖之歌"
+    },
+    {
+      "index": "4010",
+      "target": "歌野"
+    },
+    {
+      "index": "4089",
+      "target": "山之歌"
+    },
+    {
+      "index": "4090",
+      "target": "沙丘之歌"
+    },
+    {
+      "index": "4091",
+      "target": "海洋之歌"
+    },
+    {
+      "index": "4092",
+      "target": "草原之歌"
+    },
+    {
+      "index": "4888",
+      "target": "歌浜"
+    },
+    {
+      "index": "4889",
+      "target": "流沙之歌"
+    },
+    {
+      "index": "4890",
+      "target": "歌洞"
+    },
+    {
+      "index": "4891",
+      "target": "安寧之歌"
+    },
+    {
+      "index": "4892",
+      "target": "歌春"
+    },
+    {
+      "index": "4893",
+      "target": "歌夏"
+    },
+    {
+      "index": "4894",
+      "target": "雨之歌"
+    },
+    {
+      "index": "4911",
+      "target": "硼音符"
+    },
+    {
+      "index": "4912",
+      "target": "曹達音符"
+    },
+    {
+      "index": "4913",
+      "target": "塩素音符"
+    },
+    {
+      "index": "4914",
+      "target": "堅金音符"
+    },
+    {
+      "index": "4915",
+      "target": "蒼鉛音符"
+    },
+    {
+      "index": "4916",
+      "target": "蒼音符"
+    },
+    {
+      "index": "4917",
+      "target": "安音符"
+    },
+    {
+      "index": "4918",
+      "target": "鑪音符"
+    },
+    {
+      "index": "4919",
+      "target": "古音符"
+    },
+    {
+      "index": "4920",
+      "target": "鐵音符"
+    },
+    {
+      "index": "5221",
+      "target": "歌日"
+    },
+    {
+      "index": "5222",
+      "target": "冰川之歌"
+    },
+    {
+      "index": "5223",
+      "target": "峡谷之歌"
+    },
+    {
+      "index": "5224",
+      "target": "歌風圧洞"
+    },
+    {
+      "index": "5225",
+      "target": "歌流星"
+    },
+    {
+      "index": "5226",
+      "target": "日出之歌"
+    },
+    {
+      "index": "5227",
+      "target": "沼澤之歌"
+    },
+    {
+      "index": "5228",
+      "target": "叢林之歌"
+    },
+    {
+      "index": "5251",
+      "target": "記念音樂盒"
+    },
+    {
+      "index": "5395",
+      "target": "貴族的音符"
+    },
+    {
+      "index": "5396",
+      "target": "雛音符"
+    },
+    {
+      "index": "5397",
+      "target": "騎手音符"
+    },
+    {
+      "index": "5647",
+      "target": "源之歌"
+    },
+    {
+      "index": "5648",
+      "target": "巨岩之歌"
+    },
+    {
+      "index": "5649",
+      "target": "高原之歌"
+    },
+    {
+      "index": "5650",
+      "target": "樹之歌"
+    },
+    {
+      "index": "5651",
+      "target": "歌霧"
+    },
+    {
+      "index": "5652",
+      "target": "深淵之歌"
+    },
+    {
+      "index": "5653",
+      "target": "龍巻之歌"
+    },
+    {
+      "index": "5654",
+      "target": "吹雪之歌"
+    },
+    {
+      "index": "5752",
+      "target": "調皮的音符"
+    },
+    {
+      "index": "5753",
+      "target": "記念的音符"
+    },
+    {
+      "index": "5754",
+      "target": "祭典的音符"
+    },
+    {
+      "index": "6178",
+      "target": "大耳的音符"
+    },
+    {
+      "index": "6179",
+      "target": "小耳的音符"
+    },
+    {
+      "index": "6180",
+      "target": "尖耳的音符"
+    },
+    {
+      "index": "6184",
+      "target": "閃的音符"
+    },
+    {
+      "index": "6185",
+      "target": "爍的音符"
+    },
+    {
+      "index": "6186",
+      "target": "怒的音符"
+    },
+    {
+      "index": "6187",
+      "target": "愚的音符"
+    },
+    {
+      "index": "6188",
+      "target": "麻的音符"
+    },
+    {
+      "index": "6189",
+      "target": "冰音符"
+    },
+    {
+      "index": "9741",
+      "target": "拉比納的羽"
+    },
+    {
+      "index": "9742",
+      "target": "鎧沸血的羽"
+    },
+    {
+      "index": "13511",
+      "target": "祈唄石"
+    },
+    {
+      "index": "13970",
+      "target": "音樂形結晶"
+    },
+    {
+      "index": "13971",
+      "target": "雪話筒音樂"
+    },
+    {
+      "index": "14346",
+      "target": "信使音符Ⅰ"
+    },
+    {
+      "index": "14347",
+      "target": "信使音符Ⅱ"
+    },
+    {
+      "index": "14348",
+      "target": "信使音符Ⅲ"
+    },
+    {
+      "index": "14349",
+      "target": "信使音符Ⅳ"
+    },
+    {
+      "index": "14350",
+      "target": "信使音符Ⅴ"
+    }
+  ]
+}
