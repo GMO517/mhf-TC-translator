@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
-"""只依 terms.csv 重寫 REVIEW.md（不改核准狀態）。魔物清單置頂＋備註完整。
+"""【step2】只依 terms.csv 重寫 REVIEW.md（不改核准狀態）。
 
-警告：會整檔覆寫 REVIEW.md。若使用者有手改 REVIEW，先跑
-sync_review_edits_to_csv（或手動併入 terms.csv），禁止直接還原覆蓋手改。
+警告：會整檔覆寫 REVIEW.md。有手改時先跑 step3_sync_review_to_csv.py，
+禁止直接用本腳本還原覆蓋手改。見 README.md。
 """
 from __future__ import annotations
 

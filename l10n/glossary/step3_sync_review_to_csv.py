@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""以 REVIEW.md 魔物／道具表為準，只更新 terms.csv 的繁中（不改 REVIEW）。"""
+"""【step3】以 REVIEW.md 為準，只更新 terms.csv 的繁中（不改 REVIEW）。日常審完後跑。見 README.md。"""
 from __future__ import annotations
 
 import csv

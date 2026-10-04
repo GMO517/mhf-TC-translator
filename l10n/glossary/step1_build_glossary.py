@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""從抽出 CSV 與定稿種子產生詞語庫初稿。"""
+"""【step1】從抽出 CSV 與定稿種子產生詞語庫初稿（會覆寫 terms.csv）。見 README.md。"""
 import csv
 import pathlib
 from collections import Counter

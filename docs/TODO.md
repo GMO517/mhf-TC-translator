@@ -45,7 +45,7 @@
 
 - [x] 風格規範 `docs/STYLE.md`
 - [x] 詞語庫初稿：`l10n/glossary/terms.csv` + `REVIEW.md`（**170** 條）
-- [x] 建置腳本 `l10n/glossary/build_glossary.py`
+- [x] 詞語庫管線收斂為 step1～3（見 `l10n/glossary/README.md`；中間腳本見 `HISTORY.md`）
 - [x] MHF 特有魔物擴充（frontier／monster 加厚；總詞條見 REVIEW）
 - [x] 補漏：辿異種／辿異技能／武器／防具／任務／發達部位
 - [~] **使用者審核詞語庫**（魔物已確認；道具 35 條已核准並寫回 CSV；系統／UI／武器種待審）
