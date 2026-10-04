@@ -638,6 +638,62 @@
 | 976 | Gravios Medulla | 鎧龍的延髄 |
 | 977 | B.Diablos Ridge | 黑角龍的堅甲 |
 | 978 | Hornetaur Carapace | 巨甲蟲的堅殼 |
+| 979 | Lao-Shan Scale+ | 老山龍的上鱗 |
+| 980 | Heavy Gaoren Shell | 砦蟹的重殼 |
+| 981 | Gaoren Carapace | 砦蟹的堅殼 |
+| 982 | Teo Wing Membrane | 炎王龍的翼膜 |
+| 983 | Ancient Dragonwood | 古代的龍木 |
+| 984 | Ancient Dragonmoss | 古代的龍苔 |
+| 985 | Tigrex Scale | 轟龍的鱗 |
+| 986 | Tigrex Scale+ | 轟龍的上鱗 |
+| 987 | Tigrex Shell | 轟龍的甲殼 |
+| 988 | Tigrex Carapace | 轟龍的堅殼 |
+| 989 | Tigrex Tail | 轟龍的尾巴 |
+| 990 | Tigrex Claw | 轟龍的爪 |
+| 991 | Tigrex Claw+ | 轟龍的尖爪 |
+| 992 | Tigrex Fang | 轟龍的牙 |
+| 993 | Tigrex Fang+ | 轟龍的鋭牙 |
+| 994 | Tigrex Scalp | 轟龍的頭殼 |
+| 995 | Akantor Scale | 霸龍的鱗 |
+| 996 | Akantor Carapace | 霸龍的堅殼 |
+| 997 | Akantor Tail | 霸龍的尾巴 |
+| 998 | Akantor Claw | 霸龍的爪 |
+| 999 | Akantor Fang | 霸龍的牙 |
+| 1000 | Akantor Spike | 霸龍的棘 |
+| 1001 | Hypnoc Pelt | 眠鳥的皮 |
+| 1002 | Hypnoc Claw | 眠鳥的爪 |
+| 1003 | Rainbow Feather | 虹色羽毛 |
+| 1004 | Hypnoc Beak | 眠鳥的喙 |
+| 1005 | Hypnoc Bezoar | 眠鳥的胃石 |
+| 1006 | Hypnoc Pelt+ | 眠鳥的皮＋ |
+| 1007 | Hypnoc Fang | 眠鳥的牙 |
+| 1008 | Hypnoc Claw+ | 眠鳥的尖爪 |
+| 1009 | Hypnoc Bezoar+ | 眠鳥的胃石＋ |
+| 1010 | B.Hypnoc Pelt | 蒼眠鳥的皮 |
+| 1011 | B.Hypnoc Pelt+ | 蒼眠鳥的皮＋ |
+| 1012 | Volganos Scale | 熔岩龍的鱗 |
+| 1013 | Volganos Shell | 熔岩龍的甲殼 |
+| 1014 | Volganos Fang | 熔岩龍的牙 |
+| 1015 | Volganos Fin | 熔岩龍的鰭 |
+| 1016 | Volganos Scale+ | 熔岩龍的上鱗 |
+| 1017 | Volganos Carapace | 熔岩龍的堅殼 |
+| 1018 | Volganos Fang+ | 熔岩龍的鋭牙 |
+| 1019 | Volganos Fin+ | 熔岩龍的上鰭 |
+| 1020 | Bond of Friendship | 友情的絆 |
+| 1021 | N Medal・Copper | N獎章・銅 |
+| 1022 | N Medal・Silver | N獎章・銀 |
+| 1023 | N Medal・Gold | N獎章・金 |
+| 1024 | Neodymium Note | ネオジム音符 |
+| 1025 | Mercury Note | 水銀音符 |
+| 1026 | Guild Ticket | 公會票 |
+| 1027 | Black Currency | 黑通貨 |
+| 1028 | Sturdy Wht Cloth | 堅固的白布 |
+| 1029 | Appropriate Parts | 剛好的零件 |
+| 1030 | Striped Fabric | 縞模様的布 |
+| 1031 | Green Fabric | 緑的布 |
+| 1032 | Fluffy Serum | 蓬鬆血清 |
+| 1033 | Black Fabric | 黑的布 |
+| 1034 | Blue Fabric | 青的布 |
 
 ## 字型暫用（已標）
 
@@ -687,4 +743,8 @@
 - 淚→涙：岩龍的涙｜Basarios Tears｜`batch-items-015` #975  
 - 蘑菇→菇：黏滑菇／混沌菇｜Slimy Mushroom／Chaos Shroom｜`batch-items-015` #942／#949  
 - Blango／Conga 皮與 Blangonga／Congalala 同譯雪獅子／桃毛獸（沿用既有素材命名）｜`batch-items-015` #966～969  
+- 釹缺：ネオジム音符（片假名保留）｜Neodymium Note｜`batch-items-016` #1024  
+- 綠→緑：緑的布｜Green Fabric｜`batch-items-016` #1031  
+- Volganos＝熔岩龍（台服 wiki／與 Lavasioth 同名系）｜`batch-items-016` #1012～1019  
+- Teo Wing Membrane 同 Teostra Webbing 作炎王龍的翼膜｜`batch-items-016` #982  
 

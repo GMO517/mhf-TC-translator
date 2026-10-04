@@ -1,7 +1,7 @@
 {
   "section_id": "items-name",
   "xpath": "dat/items/name",
-  "pending_total_estimate": 15803,
+  "pending_total_estimate": 15747,
   "batch": [
     {
       "index": "31",
@@ -100,228 +100,228 @@
       "source": "(dummy)"
     },
     {
-      "index": "923",
-      "source": "Springnight Carp"
+      "index": "979",
+      "source": "Lao-Shan Scale+"
     },
     {
-      "index": "924",
-      "source": "Carpenterbug"
+      "index": "980",
+      "source": "Heavy Gaoren Shell"
     },
     {
-      "index": "925",
-      "source": "Rainbow Insect"
+      "index": "981",
+      "source": "Gaoren Carapace"
     },
     {
-      "index": "926",
-      "source": "Great Hornfly"
+      "index": "982",
+      "source": "Teo Wing Membrane"
     },
     {
-      "index": "927",
-      "source": "Great Ladybug"
+      "index": "983",
+      "source": "Ancient Dragonwood"
     },
     {
-      "index": "928",
-      "source": "Shaka Treasure"
+      "index": "984",
+      "source": "Ancient Dragonmoss"
     },
     {
-      "index": "929",
-      "source": "Shaka Inheritance"
+      "index": "985",
+      "source": "Tigrex Scale"
     },
     {
-      "index": "930",
-      "source": "Giaprey Scale"
+      "index": "986",
+      "source": "Tigrex Scale+"
     },
     {
-      "index": "931",
-      "source": "Giaprey Scale+"
+      "index": "987",
+      "source": "Tigrex Shell"
     },
     {
-      "index": "932",
-      "source": "Giaprey Hide"
+      "index": "988",
+      "source": "Tigrex Carapace"
     },
     {
-      "index": "933",
-      "source": "Giadrome Hide"
+      "index": "989",
+      "source": "Tigrex Tail"
     },
     {
-      "index": "934",
-      "source": "Giadrome Claw"
+      "index": "990",
+      "source": "Tigrex Claw"
     },
     {
-      "index": "935",
-      "source": "Giadrome Claw+"
+      "index": "991",
+      "source": "Tigrex Claw+"
     },
     {
-      "index": "936",
-      "source": "Giadrome Head"
+      "index": "992",
+      "source": "Tigrex Fang"
     },
     {
-      "index": "937",
-      "source": "Sinister Cloth"
+      "index": "993",
+      "source": "Tigrex Fang+"
     },
     {
-      "index": "938",
-      "source": "C2D Fragment"
+      "index": "994",
+      "source": "Tigrex Scalp"
     },
     {
-      "index": "939",
-      "source": "Perennial Frost"
+      "index": "995",
+      "source": "Akantor Scale"
     },
     {
-      "index": "940",
-      "source": "Drgn Scale Fossil"
+      "index": "996",
+      "source": "Akantor Carapace"
     },
     {
-      "index": "941",
-      "source": "Aminotite"
+      "index": "997",
+      "source": "Akantor Tail"
     },
     {
-      "index": "942",
-      "source": "Slimy Mushroom"
+      "index": "998",
+      "source": "Akantor Claw"
     },
     {
-      "index": "943",
-      "source": "Sticky Caterpillar"
+      "index": "999",
+      "source": "Akantor Fang"
     },
     {
-      "index": "944",
-      "source": "Sniper Fish"
+      "index": "1000",
+      "source": "Akantor Spike"
     },
     {
-      "index": "945",
-      "source": "Kurenzite"
+      "index": "1001",
+      "source": "Hypnoc Pelt"
     },
     {
-      "index": "946",
-      "source": "Furniture Tkt"
+      "index": "1002",
+      "source": "Hypnoc Claw"
     },
     {
-      "index": "947",
-      "source": "Furniture Tkt G"
+      "index": "1003",
+      "source": "Rainbow Feather"
     },
     {
-      "index": "948",
-      "source": "Lightning Extract"
+      "index": "1004",
+      "source": "Hypnoc Beak"
     },
     {
-      "index": "949",
-      "source": "Chaos Shroom"
+      "index": "1005",
+      "source": "Hypnoc Bezoar"
     },
     {
-      "index": "950",
-      "source": "Toxin Sac"
+      "index": "1006",
+      "source": "Hypnoc Pelt+"
     },
     {
-      "index": "951",
-      "source": "Inferno Sac"
+      "index": "1007",
+      "source": "Hypnoc Fang"
     },
     {
-      "index": "952",
-      "source": "Thunder Sac"
+      "index": "1008",
+      "source": "Hypnoc Claw+"
     },
     {
-      "index": "953",
-      "source": "Monster Bone+"
+      "index": "1009",
+      "source": "Hypnoc Bezoar+"
     },
     {
-      "index": "954",
-      "source": "Brute Bone"
+      "index": "1010",
+      "source": "B.Hypnoc Pelt"
     },
     {
-      "index": "955",
-      "source": "Stout Bone"
+      "index": "1011",
+      "source": "B.Hypnoc Pelt+"
     },
     {
-      "index": "956",
-      "source": "Felyne Fur Ruby"
+      "index": "1012",
+      "source": "Volganos Scale"
     },
     {
-      "index": "957",
-      "source": "Bulldrome Tusk"
+      "index": "1013",
+      "source": "Volganos Shell"
     },
     {
-      "index": "958",
-      "source": "High Quality Pelt"
+      "index": "1014",
+      "source": "Volganos Fang"
     },
     {
-      "index": "959",
-      "source": "Giaprey Hide+"
+      "index": "1015",
+      "source": "Volganos Fin"
     },
     {
-      "index": "960",
-      "source": "Velociprey Hide+"
+      "index": "1016",
+      "source": "Volganos Scale+"
     },
     {
-      "index": "961",
-      "source": "Genprey Hide+"
+      "index": "1017",
+      "source": "Volganos Carapace"
     },
     {
-      "index": "962",
-      "source": "Gendrome Tail"
+      "index": "1018",
+      "source": "Volganos Fang+"
     },
     {
-      "index": "963",
-      "source": "Ioprey Hide+"
+      "index": "1019",
+      "source": "Volganos Fin+"
     },
     {
-      "index": "964",
-      "source": "Kut-Ku Scale+"
+      "index": "1020",
+      "source": "Bond of Friendship"
     },
     {
-      "index": "965",
-      "source": "B.Kut-Ku Scale+"
+      "index": "1021",
+      "source": "N Medal・Copper"
     },
     {
-      "index": "966",
-      "source": "Blango Pelt"
+      "index": "1022",
+      "source": "N Medal・Silver"
     },
     {
-      "index": "967",
-      "source": "Blango Pelt+"
+      "index": "1023",
+      "source": "N Medal・Gold"
     },
     {
-      "index": "968",
-      "source": "Conga Pelt"
+      "index": "1024",
+      "source": "Neodymium Note"
     },
     {
-      "index": "969",
-      "source": "Conga Pelt+"
+      "index": "1025",
+      "source": "Mercury Note"
     },
     {
-      "index": "970",
-      "source": "Plesioth Fin+"
+      "index": "1026",
+      "source": "Guild Ticket"
     },
     {
-      "index": "971",
-      "source": "G.Plesioth Scale+"
+      "index": "1027",
+      "source": "Black Currency"
     },
     {
-      "index": "972",
-      "source": "G.Plesioth Fin+"
+      "index": "1028",
+      "source": "Sturdy Wht Cloth"
     },
     {
-      "index": "973",
-      "source": "Rath Fluid"
+      "index": "1029",
+      "source": "Appropriate Parts"
     },
     {
-      "index": "974",
-      "source": "Rath Medulla"
+      "index": "1030",
+      "source": "Striped Fabric"
     },
     {
-      "index": "975",
-      "source": "Basarios Tears"
+      "index": "1031",
+      "source": "Green Fabric"
     },
     {
-      "index": "976",
-      "source": "Gravios Medulla"
+      "index": "1032",
+      "source": "Fluffy Serum"
     },
     {
-      "index": "977",
-      "source": "B.Diablos Ridge"
+      "index": "1033",
+      "source": "Black Fabric"
     },
     {
-      "index": "978",
-      "source": "Hornetaur Carapace"
+      "index": "1034",
+      "source": "Blue Fabric"
     }
   ]
 }
