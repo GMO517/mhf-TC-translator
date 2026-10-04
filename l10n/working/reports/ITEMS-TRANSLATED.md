@@ -470,6 +470,62 @@
 | 808 | Vocal Chords Deco | 防音珠 |
 | 809 | Heat 1 Deco | 耐暑珠【1】 |
 | 810 | Cold 1 Deco | 耐寒珠【1】 |
+| 811 | Wind Pres.1 Deco | 耐風壓珠【1】 |
+| 812 | Terrain Deco | 地形珠 |
+| 813 | Health 1 Deco | 體力珠【1】 |
+| 814 | Health 2 Deco | 體力珠【2】 |
+| 815 | Recovery Deco | 回復珠 |
+| 816 | Rec Speed 1 Deco | 回復速度珠【1】 |
+| 817 | Attack 1 Deco | 攻撃珠【1】 |
+| 818 | Status Attack Deco | 特殊攻撃珠 |
+| 819 | Defense 1 Deco | 防禦珠【1】 |
+| 820 | Guard 1 Deco | 防禦性能珠【1】 |
+| 821 | Auto-Guard Deco | 自動防禦珠 |
+| 822 | Stamina Deco | 耐力珠 |
+| 823 | Hunger Deco | 飢餓珠 |
+| 824 | Gluttony Deco | 大胃王珠 |
+| 825 | Eating Deco | 食事珠 |
+| 826 | Sharpness 1 Deco | 鋒利度珠【1】 |
+| 827 | Artisan Deco | 匠珠 |
+| 828 | Expert 1 Deco | 達人珠【1】 |
+| 829 | Throwing 1 Deco | 投擲珠【1】 |
+| 830 | Evasion 1 Deco | 迴避珠【1】 |
+| 831 | Combining Deco | 調合珠 |
+| 832 | Ammo Combo Deco | 彈藥調合珠 |
+| 833 | Alchemy Deco | 煉金珠 |
+| 834 | Reload Deco | 裝填珠 |
+| 835 | Loading Deco | 裝填數珠 |
+| 836 | Recoil 1 Deco | 反動珠【1】 |
+| 837 | Precision Deco | 精密珠 |
+| 838 | Normal Up Deco | 通常彈強化珠 |
+| 839 | Pierce Up Deco | 貫通彈強化珠 |
+| 840 | Pellet Up Deco | 散彈強化珠 |
+| 841 | Normal Add 1 Deco | 通常彈追加珠【1】 |
+| 842 | Pierce Add 1 Deco | 貫通彈追加珠【1】 |
+| 843 | Pellet Add 1 Deco | 散彈追加珠【1】 |
+| 844 | Crag Add 1 Deco | 徹甲榴彈追加珠【1】 |
+| 845 | Clust Add 1 Deco | 擴散彈追加珠【1】 |
+| 846 | Sharpening Deco | 砥石使用珠 |
+| 847 | Small Arms Deco | 砲術珠 |
+| 848 | Cooking Deco | 料理珠 |
+| 849 | Hearing Deco | 聽覺保護珠 |
+| 850 | Wide-Area 1 Deco | 廣域珠【1】 |
+| 851 | Everlasting 1 Deco | 效果持續珠【1】 |
+| 852 | Backpacking 1 Deco | 搬運珠【1】 |
+| 853 | All UP 2 Deco | 全耐性珠【2】 |
+| 854 | Fire 1 Deco | 耐火珠【1】 |
+| 855 | Water 1 Deco | 耐水珠【1】 |
+| 856 | Ice 1 Deco | 耐冰珠【1】 |
+| 857 | Thunder 1 Deco | 耐雷珠【1】 |
+| 858 | Dragon 1 Deco | 耐龍珠【1】 |
+| 859 | Gathering 1 Deco | 採取珠【1】 |
+| 860 | Gathering 2 Deco | 採取珠【2】 |
+| 861 | Gather Speed Deco | 高速採取珠 |
+| 862 | Carving 1 Deco | 剥取珠【1】 |
+| 863 | Blessing 1 Deco | 加護珠【1】 |
+| 864 | Blessing 2 Deco | 加護珠【2】 |
+| 865 | Protection Deco | 精靈王的加護珠 |
+| 866 | Fate 1 Deco | 運氣珠【1】 |
 
 ## 字型暫用（已標）
 
@@ -500,4 +556,7 @@
 - 綠→緑：緑之裝飾品／モチャ・緑｜Green Deco／Mocha・Green｜`batch-items-012`（沿用系列常用形）  
 - 黃→黄：モチャ・黄｜Mocha・Yellow｜`batch-items-012`  
 - モチャ：日文片假名專有名保留｜Mocha*｜`batch-items-012`  
+- 擊→撃：攻撃珠／特殊攻撃珠｜Attack／Status Attack｜`batch-items-013` #817～818  
+- 剝→剥：剥取珠【1】｜Carving 1 Deco｜`batch-items-013` #862（詞庫定稿「剝取」）  
+- 狀缺：特殊攻撃珠（不用「狀態異常攻擊」）｜Status Attack Deco｜`batch-items-013` #818  
 

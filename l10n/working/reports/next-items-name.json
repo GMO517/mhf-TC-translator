@@ -1,7 +1,7 @@
 {
   "section_id": "items-name",
   "xpath": "dat/items/name",
-  "pending_total_estimate": 15971,
+  "pending_total_estimate": 15915,
   "batch": [
     {
       "index": "31",
@@ -100,228 +100,228 @@
       "source": "(dummy)"
     },
     {
-      "index": "755",
-      "source": "F Ticket CT 1"
+      "index": "811",
+      "source": "Wind Pres.1 Deco"
     },
     {
-      "index": "756",
-      "source": "F Ticket CT 2"
+      "index": "812",
+      "source": "Terrain Deco"
     },
     {
-      "index": "757",
-      "source": "F Ticket CT 3"
+      "index": "813",
+      "source": "Health 1 Deco"
     },
     {
-      "index": "758",
-      "source": "F Ticket CT 4"
+      "index": "814",
+      "source": "Health 2 Deco"
     },
     {
-      "index": "759",
-      "source": "Mocha Pot"
+      "index": "815",
+      "source": "Recovery Deco"
     },
     {
-      "index": "760",
-      "source": "Mocha・Green"
+      "index": "816",
+      "source": "Rec Speed 1 Deco"
     },
     {
-      "index": "761",
-      "source": "Mocha・Green"
+      "index": "817",
+      "source": "Attack 1 Deco"
     },
     {
-      "index": "762",
-      "source": "Mocha・Green"
+      "index": "818",
+      "source": "Status Attack Deco"
     },
     {
-      "index": "763",
-      "source": "Mocha・Green"
+      "index": "819",
+      "source": "Defense 1 Deco"
     },
     {
-      "index": "764",
-      "source": "Mocha・Green"
+      "index": "820",
+      "source": "Guard 1 Deco"
     },
     {
-      "index": "765",
-      "source": "Mocha・Green"
+      "index": "821",
+      "source": "Auto-Guard Deco"
     },
     {
-      "index": "766",
-      "source": "Mocha・Green"
+      "index": "822",
+      "source": "Stamina Deco"
     },
     {
-      "index": "767",
-      "source": "Mocha・Green"
+      "index": "823",
+      "source": "Hunger Deco"
     },
     {
-      "index": "768",
-      "source": "Mocha・Green"
+      "index": "824",
+      "source": "Gluttony Deco"
     },
     {
-      "index": "769",
-      "source": "Mocha・Green"
+      "index": "825",
+      "source": "Eating Deco"
     },
     {
-      "index": "770",
-      "source": "Mocha・Green"
+      "index": "826",
+      "source": "Sharpness 1 Deco"
     },
     {
-      "index": "771",
-      "source": "Mocha・Green"
+      "index": "827",
+      "source": "Artisan Deco"
     },
     {
-      "index": "772",
-      "source": "Mocha・Green"
+      "index": "828",
+      "source": "Expert 1 Deco"
     },
     {
-      "index": "773",
-      "source": "Mocha・Green"
+      "index": "829",
+      "source": "Throwing 1 Deco"
     },
     {
-      "index": "774",
-      "source": "Mocha・Red"
+      "index": "830",
+      "source": "Evasion 1 Deco"
     },
     {
-      "index": "775",
-      "source": "Mocha・Red"
+      "index": "831",
+      "source": "Combining Deco"
     },
     {
-      "index": "776",
-      "source": "Mocha・Red"
+      "index": "832",
+      "source": "Ammo Combo Deco"
     },
     {
-      "index": "777",
-      "source": "Mocha・Red"
+      "index": "833",
+      "source": "Alchemy Deco"
     },
     {
-      "index": "778",
-      "source": "Mocha・Yellow"
+      "index": "834",
+      "source": "Reload Deco"
     },
     {
-      "index": "779",
-      "source": "Mocha・Yellow"
+      "index": "835",
+      "source": "Loading Deco"
     },
     {
-      "index": "780",
-      "source": "Mocha・Yellow"
+      "index": "836",
+      "source": "Recoil 1 Deco"
     },
     {
-      "index": "781",
-      "source": "Mocha・Yellow"
+      "index": "837",
+      "source": "Precision Deco"
     },
     {
-      "index": "782",
-      "source": "Mocha・Blue"
+      "index": "838",
+      "source": "Normal Up Deco"
     },
     {
-      "index": "783",
-      "source": "Mocha・Yellow"
+      "index": "839",
+      "source": "Pierce Up Deco"
     },
     {
-      "index": "784",
-      "source": "Mocha・Yellow"
+      "index": "840",
+      "source": "Pellet Up Deco"
     },
     {
-      "index": "785",
-      "source": "Mocha・Yellow"
+      "index": "841",
+      "source": "Normal Add 1 Deco"
     },
     {
-      "index": "786",
-      "source": "Mocha・Yellow"
+      "index": "842",
+      "source": "Pierce Add 1 Deco"
     },
     {
-      "index": "787",
-      "source": "Mocha・Yellow"
+      "index": "843",
+      "source": "Pellet Add 1 Deco"
     },
     {
-      "index": "788",
-      "source": "Mocha・Yellow"
+      "index": "844",
+      "source": "Crag Add 1 Deco"
     },
     {
-      "index": "789",
-      "source": "Mocha・Yellow"
+      "index": "845",
+      "source": "Clust Add 1 Deco"
     },
     {
-      "index": "790",
-      "source": "Mocha・Yellow"
+      "index": "846",
+      "source": "Sharpening Deco"
     },
     {
-      "index": "791",
-      "source": "Mocha・Yellow"
+      "index": "847",
+      "source": "Small Arms Deco"
     },
     {
-      "index": "792",
-      "source": "Mocha・Yellow"
+      "index": "848",
+      "source": "Cooking Deco"
     },
     {
-      "index": "793",
-      "source": "Mocha・Yellow"
+      "index": "849",
+      "source": "Hearing Deco"
     },
     {
-      "index": "794",
-      "source": "Aquaglow Jewel"
+      "index": "850",
+      "source": "Wide-Area 1 Deco"
     },
     {
-      "index": "795",
-      "source": "Sunspire Jewel"
+      "index": "851",
+      "source": "Everlasting 1 Deco"
     },
     {
-      "index": "796",
-      "source": "Bloodrun Jewel"
+      "index": "852",
+      "source": "Backpacking 1 Deco"
     },
     {
-      "index": "797",
-      "source": "Lazurite Jewel"
+      "index": "853",
+      "source": "All UP 2 Deco"
     },
     {
-      "index": "798",
-      "source": "Green Deco"
+      "index": "854",
+      "source": "Fire 1 Deco"
     },
     {
-      "index": "799",
-      "source": "Paralysis 1 Deco"
+      "index": "855",
+      "source": "Water 1 Deco"
     },
     {
-      "index": "800",
-      "source": "Sleep 1 Deco"
+      "index": "856",
+      "source": "Ice 1 Deco"
     },
     {
-      "index": "801",
-      "source": "Sleep 2 Deco"
+      "index": "857",
+      "source": "Thunder 1 Deco"
     },
     {
-      "index": "802",
-      "source": "Stun 1 Deco"
+      "index": "858",
+      "source": "Dragon 1 Deco"
     },
     {
-      "index": "803",
-      "source": "Poison 1 Deco"
+      "index": "859",
+      "source": "Gathering 1 Deco"
     },
     {
-      "index": "804",
-      "source": "Deoderant 1 Deco"
+      "index": "860",
+      "source": "Gathering 2 Deco"
     },
     {
-      "index": "805",
-      "source": "Deoderant 2 Deco"
+      "index": "861",
+      "source": "Gather Speed Deco"
     },
     {
-      "index": "806",
-      "source": "Snowball Deco"
+      "index": "862",
+      "source": "Carving 1 Deco"
     },
     {
-      "index": "807",
-      "source": "Quake Deco"
+      "index": "863",
+      "source": "Blessing 1 Deco"
     },
     {
-      "index": "808",
-      "source": "Vocal Chords Deco"
+      "index": "864",
+      "source": "Blessing 2 Deco"
     },
     {
-      "index": "809",
-      "source": "Heat 1 Deco"
+      "index": "865",
+      "source": "Protection Deco"
     },
     {
-      "index": "810",
-      "source": "Cold 1 Deco"
+      "index": "866",
+      "source": "Fate 1 Deco"
     }
   ]
 }
