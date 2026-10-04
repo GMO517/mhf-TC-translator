@@ -98,13 +98,14 @@
 ## armors-arms / armors-waist / armors-legs
 
 - status: translated
-- notes: "2026-10-04 抽出＋層次 B 清零；validate PASS；all-changed 回寫（arms 13443／waist 13699／legs 13480）。review 抽樣見 issues/armors/。"
+- status: in_progress
+- notes: "2026-10-04 arms 連夜重譯完成（遺失道具No.／拆檔 27）；待 commit 後切分腰腿頭胸。"
 
 ### files
 
 - path: l10n/working/csv/dat-armors-arms.csv
   status: translated
-  notes: "needs_rework=0"
+  notes: "overnight pipeline；reviews-arms-1…27；未回寫本體"
 
 - path: l10n/working/csv/dat-armors-waist.csv
   status: translated

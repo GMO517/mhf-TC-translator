@@ -9,14 +9,15 @@
 
 | CATEGORY | 進度 | 批次產物 | 下一筆 |
 |---|---|---|---|
-| （Gate3 已登錄 section 層次 B） | done | arms／waist／legs／monsters-description | 待人審抽樣；Gate4 另開 |
+| armors 連夜重譯 | in_progress | arms 已重譯＋拆檔 | 下一步：arms commit → waist/legs/head/body |
 
 ## 待獨立 QA
 
 | CATEGORY | issue |
 |---|---|
 | beads-info / seals-jebia | 見既有 stub；勿重翻 |
-| armors-arms／waist／legs | `issues/armors/review-armors-*.md`（抽樣 120） |
+| armors-arms | `issues/armors/arms/reviews-arms-1.md` … `27.md`（連夜重譯完成；待最終人審；未回寫） |
+| armors-waist／legs | `issues/armors/review-armors-*.md`（全表；待比照拆檔） |
 | monsters-description | `issues/monsters/review-monsters-description.md` |
 
 ## 處理完（qa_done）
