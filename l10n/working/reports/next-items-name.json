@@ -1,7 +1,7 @@
 {
   "section_id": "items-name",
   "xpath": "dat/items/name",
-  "pending_total_estimate": 16143,
+  "pending_total_estimate": 16083,
   "batch": [
     {
       "index": "31",
@@ -76,252 +76,252 @@
       "source": "(dummy)"
     },
     {
-      "index": "577",
-      "source": "Lunastra Webbing"
-    },
-    {
-      "index": "578",
-      "source": "Lunastra Tail"
-    },
-    {
-      "index": "579",
-      "source": "Lunastra Horn"
-    },
-    {
       "index": "580",
       "source": "(dummy)"
-    },
-    {
-      "index": "581",
-      "source": "Teostra Shell"
-    },
-    {
-      "index": "582",
-      "source": "Teostra Carapace"
-    },
-    {
-      "index": "583",
-      "source": "Teostra Mane"
-    },
-    {
-      "index": "584",
-      "source": "Teostra Webbing"
-    },
-    {
-      "index": "585",
-      "source": "Teostra Tail"
-    },
-    {
-      "index": "586",
-      "source": "Teostra Horn"
-    },
-    {
-      "index": "587",
-      "source": "Teostra Horn+"
-    },
-    {
-      "index": "588",
-      "source": "Yama Fin"
-    },
-    {
-      "index": "589",
-      "source": "Yama Hide"
-    },
-    {
-      "index": "590",
-      "source": "Yama Fluid"
-    },
-    {
-      "index": "591",
-      "source": "Dragonwood"
-    },
-    {
-      "index": "592",
-      "source": "Dragonmoss"
     },
     {
       "index": "593",
       "source": "(dummy)"
     },
     {
-      "index": "594",
-      "source": "Remobra Skin"
+      "index": "639",
+      "source": "Shen Gaoren Info"
     },
     {
-      "index": "595",
-      "source": "Remobra Skin+"
+      "index": "640",
+      "source": "Fanged Beast Info"
     },
     {
-      "index": "596",
-      "source": "Striped Skin"
+      "index": "641",
+      "source": "Blangonga Info"
     },
     {
-      "index": "597",
-      "source": "Remobra Skull"
+      "index": "642",
+      "source": "Rajang Info"
     },
     {
-      "index": "598",
-      "source": "Garuga Scale"
+      "index": "643",
+      "source": "Kirin Info"
     },
     {
-      "index": "599",
-      "source": "Garuga Shell"
+      "index": "644",
+      "source": "Kushala Info"
     },
     {
-      "index": "600",
-      "source": "Garuga Ear"
+      "index": "645",
+      "source": "Chameleos Info"
     },
     {
-      "index": "601",
-      "source": "Sharpened Beak"
+      "index": "646",
+      "source": "Lunastra Info"
     },
     {
-      "index": "602",
-      "source": "Garuga Wing"
+      "index": "647",
+      "source": "Teostra Info"
     },
     {
-      "index": "603",
-      "source": "Garuga Tail"
+      "index": "648",
+      "source": "Lao-Shan Info"
     },
     {
-      "index": "604",
-      "source": "Garuga Mane"
+      "index": "649",
+      "source": "Yamatsukami Info"
     },
     {
-      "index": "605",
-      "source": "Lost Umbrella"
+      "index": "650",
+      "source": "Fatalis Info"
     },
     {
-      "index": "606",
-      "source": "Chief's Sword F"
+      "index": "651",
+      "source": "Akura Vashimu Info"
     },
     {
-      "index": "607",
-      "source": "Stone Fist"
+      "index": "652",
+      "source": "(dummy)"
     },
     {
-      "index": "608",
-      "source": "Broken Dragonator"
+      "index": "653",
+      "source": "(dummy)"
     },
     {
-      "index": "609",
-      "source": "Titan Chain F"
+      "index": "654",
+      "source": "(dummy)"
     },
     {
-      "index": "610",
-      "source": "Extra Pay"
+      "index": "655",
+      "source": "Silver Egg"
     },
     {
-      "index": "611",
-      "source": "Ruststone"
+      "index": "656",
+      "source": "Gold Egg"
     },
     {
-      "index": "612",
-      "source": "Flat Ruststone"
+      "index": "657",
+      "source": "Map"
     },
     {
-      "index": "613",
-      "source": "Large Ruststone"
+      "index": "658",
+      "source": "First-Aid Med"
     },
     {
-      "index": "614",
-      "source": "Small Ruststone"
+      "index": "659",
+      "source": "Ration"
     },
     {
-      "index": "615",
-      "source": "Ruststone Rod"
+      "index": "660",
+      "source": "Portable Spit"
     },
     {
-      "index": "616",
-      "source": "Ancient Stone"
+      "index": "661",
+      "source": "Mini-Whetstone"
     },
     {
-      "index": "617",
-      "source": "AncientFlatstone"
+      "index": "662",
+      "source": "EZ Shock Trap"
     },
     {
-      "index": "618",
-      "source": "Lg Ancient Stone"
+      "index": "663",
+      "source": "EZ Flash Bomb"
     },
     {
-      "index": "619",
-      "source": "Sm Ancient Stone"
+      "index": "664",
+      "source": "EZ Max Potion"
     },
     {
-      "index": "620",
-      "source": "Ancient StoneRod"
+      "index": "665",
+      "source": "EZ Pitfall Trap"
     },
     {
-      "index": "621",
-      "source": "Storage Guide"
+      "index": "666",
+      "source": "EZ Barrel Bomb L"
     },
     {
-      "index": "622",
-      "source": "Storage Guide+"
+      "index": "667",
+      "source": "Ballista Ammo"
     },
     {
-      "index": "623",
-      "source": "House Expansion 1"
+      "index": "668",
+      "source": "Cannon Ammo"
     },
     {
-      "index": "624",
-      "source": "House Expansion 2"
+      "index": "669",
+      "source": "Wyvern"
     },
     {
-      "index": "625",
-      "source": "Lynians Info"
+      "index": "670",
+      "source": "Wyvern Egg"
     },
     {
-      "index": "626",
-      "source": "Shakalaka Info"
+      "index": "671",
+      "source": "Herbivore Egg"
     },
     {
-      "index": "627",
-      "source": "Neopteron Info"
+      "index": "672",
+      "source": "Carnivore Egg"
     },
     {
-      "index": "628",
-      "source": "Grt.Thndrbug Info"
+      "index": "673",
+      "source": "Sootstone Ore"
     },
     {
-      "index": "629",
-      "source": "Herbivore Info"
+      "index": "674",
+      "source": "Quartz Ore"
     },
     {
-      "index": "630",
-      "source": "Bird Wyvern Info"
+      "index": "675",
+      "source": "Powderstone"
     },
     {
-      "index": "631",
-      "source": "Yian Garuga Info"
+      "index": "676",
+      "source": "Khezu Whelp"
     },
     {
-      "index": "632",
-      "source": "F.Wyvern Info 1"
+      "index": "677",
+      "source": "Khezu Ice Cream"
     },
     {
-      "index": "633",
-      "source": "F.Wyvern Info 2"
+      "index": "678",
+      "source": "Guild Flag"
     },
     {
-      "index": "634",
-      "source": "Rathalos Info"
+      "index": "679",
+      "source": "City Remnants"
     },
     {
-      "index": "635",
-      "source": "Monoblos Info"
+      "index": "680",
+      "source": "Bizarre Food"
     },
     {
-      "index": "636",
-      "source": "Pisc.Wyvern Info"
+      "index": "681",
+      "source": "Dragon Food"
     },
     {
-      "index": "637",
-      "source": "Carapaceon Info 1"
+      "index": "682",
+      "source": "Power Food"
     },
     {
-      "index": "638",
-      "source": "Carapaceon Info 2"
+      "index": "683",
+      "source": "Monster Food"
+    },
+    {
+      "index": "684",
+      "source": "EX Dragon Food"
+    },
+    {
+      "index": "685",
+      "source": "Red Dragon Food"
+    },
+    {
+      "index": "686",
+      "source": "Green Dragon Food"
+    },
+    {
+      "index": "687",
+      "source": "Blue Dragon Food"
+    },
+    {
+      "index": "688",
+      "source": "Shot Flute"
+    },
+    {
+      "index": "689",
+      "source": "Assault Flute"
+    },
+    {
+      "index": "690",
+      "source": "Tail Flute"
+    },
+    {
+      "index": "691",
+      "source": "Deadly Flute"
+    },
+    {
+      "index": "692",
+      "source": "Special Flute"
+    },
+    {
+      "index": "693",
+      "source": "Rage Flute"
+    },
+    {
+      "index": "694",
+      "source": "Wrath Flute"
+    },
+    {
+      "index": "695",
+      "source": "Dragonator Key"
+    },
+    {
+      "index": "696",
+      "source": "Competition Ticket"
+    },
+    {
+      "index": "697",
+      "source": "(dummy)"
+    },
+    {
+      "index": "698",
+      "source": "Sleep Smoke Ball"
     }
   ]
 }

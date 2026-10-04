@@ -341,6 +341,55 @@
 | 434–436 | Basarios | 岩龍的甲殼／堅殼／翼 |
 | 437–440 | Gravios | 鎧龍的骨髓／甲殼／堅殼／頭殼 |
 | 441–442 | B.Gravios | 黑鎧龍的甲殼／堅殼 |
+| 639 | Shen Gaoren Info | 砦蟹的情報 |
+| 640 | Fanged Beast Info | 牙獸種的情報 |
+| 641 | Blangonga Info | 雪獅子王的情報 |
+| 642 | Rajang Info | 金獅子的情報 |
+| 643 | Kirin Info | 麒麟的情報 |
+| 644 | Kushala Info | 鋼龍的情報 |
+| 645 | Chameleos Info | 霞龍的情報 |
+| 646 | Lunastra Info | 炎妃龍的情報 |
+| 647 | Teostra Info | 炎王龍的情報 |
+| 648 | Lao-Shan Info | 老山龍的情報 |
+| 649 | Yamatsukami Info | 山神龍的情報 |
+| 650 | Fatalis Info | 黑龍的情報 |
+| 651 | Akura Vashimu Info | 尾晶蠍的情報 |
+| 655 | Silver Egg | 銀蛋 |
+| 656 | Gold Egg | 金蛋 |
+| 657 | Map | 地圖 |
+| 658 | First-Aid Med | 急救藥 |
+| 659 | Ration | 攜帶食料 |
+| 660 | Portable Spit | 攜帶燒肉套組 |
+| 661 | Mini-Whetstone | 攜帶砥石 |
+| 662 | EZ Shock Trap | 支給用麻痺罠 |
+| 663 | EZ Flash Bomb | 支給用閃光彈 |
+| 664 | EZ Max Potion | 支給用萬能藥 |
+| 665 | EZ Pitfall Trap | 支給用落穴罠 |
+| 666 | EZ Barrel Bomb L | 支給用大桶爆彈 |
+| 667 | Ballista Ammo | 弩砲彈 |
+| 668 | Cannon Ammo | 大砲彈 |
+| 669 | Wyvern | 飛龍 |
+| 670 | Wyvern Egg | 飛龍的蛋 |
+| 671 | Herbivore Egg | 草食種的蛋 |
+| 672 | Carnivore Egg | 肉食種的蛋 |
+| 673 | Sootstone Ore | 煤灰礦石 |
+| 674 | Quartz Ore | 石英原石 |
+| 675 | Powderstone | 火藥岩 |
+| 676 | Khezu Whelp | 奇怪龍幼體 |
+| 677 | Khezu Ice Cream | 奇怪龍冰淇淋 |
+| 678 | Guild Flag | 公會旗 |
+| 679 | City Remnants | 都市的殘骸 |
+| 680–687 | * Food | 奇妙／龍／力量／魔物／EX龍／紅／綠／藍龍飼料 |
+| 688 | Shot Flute | 射撃笛 |
+| 689 | Assault Flute | 強襲笛 |
+| 690 | Tail Flute | 尾巴笛 |
+| 691 | Deadly Flute | 必殺笛 |
+| 692 | Special Flute | 特殊笛 |
+| 693 | Rage Flute | 憤怒笛 |
+| 694 | Wrath Flute | 憤激笛 |
+| 695 | Dragonator Key | 龍杭砲的鑰匙 |
+| 696 | Competition Ticket | 競賽票 |
+| 698 | Sleep Smoke Ball | 睡眠煙球 |
 
 ## 字型暫用（已標）
 
@@ -365,4 +414,5 @@
 - 擊→撃：電撃袋｜Electro Sac｜`batch-items-005` #309  
 - 淚→涙：龍之涙｜Wyvern Tears｜`batch-items-005` #325（淚缺）  
 - 黃→黄：黄速龍／黄速龍王素材｜Genprey／Gendrome｜`batch-items-005` #351～356（詞庫定稿「黃速龍」）  
+- 擊→撃：射撃笛｜Shot Flute｜`batch-items-010` #688  
 
