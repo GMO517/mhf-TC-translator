@@ -9,7 +9,7 @@
 ## items-name
 
 - status: in_progress
-- notes: "主真相＝csv。tickets／consumables 已 finish_batch＋delta；票券 PENDING 定稿見 DECIDED-tickets.md。"
+- notes: "主真相＝csv。tickets／consumables 已完；魔物素材主體 n≈1088 已 delta，殘餘複合名續清。"
 
 ### files
 
@@ -19,7 +19,7 @@
 
 - path: l10n/working/csv/dat-items-name.csv
   status: in_progress
-  notes: "tickets＋consumables 已 delta；其餘子類未完"
+  notes: "tickets／consumables／monster-materials 主體已 delta"
 
 ### subclasses（語意，非流水號）
 
@@ -27,6 +27,7 @@
 - seals / jebia: translated → issues/items-name__seals-jebia.md（awaiting_qa）
 - tickets: translated → issues/items-name__tickets.md（awaiting_qa）；batches/awaiting_qa/batch-items-tickets.json
 - consumables: translated → issues/items-name__consumables.md（awaiting_qa）；batches/awaiting_qa/batch-items-consumables.json（n=282）
+- monster-materials: in_progress → issues/items-name__monster-materials.md；batches/awaiting_qa/batch-items-monster-materials.json（n≈1088）
 
 ---
 

@@ -8,12 +8,12 @@
 
 | CATEGORY | 進度 | 批次產物 | 下一筆 |
 |---|---|---|---|
-| （無） |  |  | 下一子類：魔物素材（PHASE3 優先序 5） |
+| items-name/monster-materials | in_progress | `batches/awaiting_qa/batch-items-monster-materials.json`（n≈1088 已 delta） | 清殘餘複合修飾名；彩色小殼等可併採集素材 |
 
 ## 待獨立 QA
 
 | CATEGORY | issue |
 |---|---|
 | beads-info / seals-jebia | 見既有 stub；勿重翻 |
-| items-name / tickets | `issues/items-name__tickets.md`；`batches/awaiting_qa/batch-items-tickets.json` |
-| items-name / consumables | `issues/items-name__consumables.md`；`batches/awaiting_qa/batch-items-consumables.json`（n=282） |
+| items-name / tickets | `issues/items-name__tickets.md` |
+| items-name / consumables | `issues/items-name__consumables.md` |

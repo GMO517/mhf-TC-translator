@@ -1249,199 +1249,199 @@ index,source,target
 1247,Lynian Ruby,Lynian Ruby
 1248,Lynian Ruby+,Lynian Ruby+
 1249,Lynian Divine Ruby,Lynian Divine Ruby
-1250,Herbivore Horn,Herbivore Horn
-1251,Herbivore Horn+,Herbivore Horn+
-1252,Herbivore Hardhorn,Herbivore Hardhorn
-1253,Herbivore Pelt,Herbivore Pelt
-1254,Herbivore Pelt+,Herbivore Pelt+
-1255,Herbivore Finepelt,Herbivore Finepelt
-1256,Herbivore Bone,Herbivore Bone
-1257,Herbivore Bone+,Herbivore Bone+
-1258,Herbivore Hardbone,Herbivore Hardbone
-1259,Herbivore Hoof,Herbivore Hoof
-1260,Herbivore Hoof+,Herbivore Hoof+
-1261,Herbivore Hoof++,Herbivore Hoof++
-1262,Herbivore Shell,Herbivore Shell
-1263,Herbivore Carapace,Herbivore Carapace
-1264,Herbivore Cortex,Herbivore Cortex
-1265,Herbivore Fang,Herbivore Fang
-1266,Herbivore Fang+,Herbivore Fang+
-1267,Herbivore Hardfang,Herbivore Hardfang
-1268,Pelagus Hide,Pelagus Hide
-1269,Pelagus Hide+,Pelagus Hide+
-1270,Pelagus Tough Hide,Pelagus Tough Hide
-1271,Pelagus Fang,Pelagus Fang
-1272,Pelagus Fang+,Pelagus Fang+
-1273,Pelagus Hard Fang,Pelagus Hard Fang
-1274,Pelagus Claw,Pelagus Claw
-1275,Pelagus Claw+,Pelagus Claw+
-1276,Pelagus Hard Claw,Pelagus Hard Claw
-1277,Pelagus Tail,Pelagus Tail
-1278,Pelagus Tail+,Pelagus Tail+
-1279,Pelagus Hard Tail,Pelagus Hard Tail
-1280,Insect Shell,Insect Shell
-1281,Insect Carapace,Insect Carapace
-1282,Insect Cortex,Insect Cortex
+1250,Herbivore Horn,草食種的角
+1251,Herbivore Horn+,草食種的尖角
+1252,Herbivore Hardhorn,草食種的堅角
+1253,Herbivore Pelt,草食種的皮
+1254,Herbivore Pelt+,草食種的皮＋
+1255,Herbivore Finepelt,草食種的上等皮
+1256,Herbivore Bone,草食種的骨
+1257,Herbivore Bone+,草食種的上骨
+1258,Herbivore Hardbone,草食種的堅骨
+1259,Herbivore Hoof,草食種的蹄
+1260,Herbivore Hoof+,草食種的尖蹄
+1261,Herbivore Hoof++,草食種的剛蹄
+1262,Herbivore Shell,草食種的甲殼
+1263,Herbivore Carapace,草食種的堅殼
+1264,Herbivore Cortex,草食種的重殼
+1265,Herbivore Fang,草食種的牙
+1266,Herbivore Fang+,草食種的尖牙
+1267,Herbivore Hardfang,草食種的堅牙
+1268,Pelagus Hide,牙獸種的皮
+1269,Pelagus Hide+,牙獸種的皮＋
+1270,Pelagus Tough Hide,牙獸種的強皮
+1271,Pelagus Fang,牙獸種的牙
+1272,Pelagus Fang+,牙獸種的尖牙
+1273,Pelagus Hard Fang,牙獸種的堅牙
+1274,Pelagus Claw,牙獸種的爪
+1275,Pelagus Claw+,牙獸種的尖爪
+1276,Pelagus Hard Claw,牙獸種的堅爪
+1277,Pelagus Tail,牙獸種的尾
+1278,Pelagus Tail+,牙獸種的上尾
+1279,Pelagus Hard Tail,牙獸種的堅尾
+1280,Insect Shell,甲蟲種的甲殼
+1281,Insect Carapace,甲蟲種的堅殼
+1282,Insect Cortex,甲蟲種的重殼
 1283,Insect Needle,Insect Needle
 1284,Insect Needle+,Insect Needle+
 1285,Insect Stinger,Insect Stinger
-1286,Insect Fluid,Insect Fluid
-1287,Insect Fluid+,Insect Fluid+
-1288,Insect Thick Fluid,Insect Thick Fluid
-1289,Carapaceon Shell,Carapaceon Shell
-1290,Carapaceon Cpc,Carapaceon Cpc
-1291,Carapaceon Cortex,Carapaceon Cortex
-1292,Carapaceon Pincer,Carapaceon Pincer
-1293,Carapaceon Pincer+,Carapaceon Pincer+
-1294,Carapaceon T.Pincr,Carapaceon T.Pincr
-1295,Carapaceon Blade,Carapaceon Blade
-1296,Carapaceon Blade+,Carapaceon Blade+
-1297,Carapaceon Gasher,Carapaceon Gasher
-1298,F.Wyvern Shell,F.Wyvern Shell
-1299,F.Wyvern Carapace,F.Wyvern Carapace
-1300,F.Wyvern Cortex,F.Wyvern Cortex
-1301,F.Wyvern Fang,F.Wyvern Fang
-1302,F.Wyvern Fang+,F.Wyvern Fang+
-1303,F.Wyvern Hardfang,F.Wyvern Hardfang
-1304,F.Wyvern Claw,F.Wyvern Claw
-1305,F.Wyvern Claw+,F.Wyvern Claw+
-1306,F.Wyvern Riptalon,F.Wyvern Riptalon
-1307,F.Wyvern Bone,F.Wyvern Bone
-1308,F.Wyvern Bone+,F.Wyvern Bone+
-1309,F.Wyvern Hardbone,F.Wyvern Hardbone
-1310,F.Wyvern Skin,F.Wyvern Skin
-1311,F.Wyvern Skin+,F.Wyvern Skin+
-1312,F.Wyvern Finehide,F.Wyvern Finehide
-1313,F.Wyvern Wing,F.Wyvern Wing
-1314,F.Wyvern Wing+,F.Wyvern Wing+
-1315,F.Wyvern Fellwing,F.Wyvern Fellwing
-1316,F.Wyvern Tail,F.Wyvern Tail
-1317,F.Wyvern Tail+,F.Wyvern Tail+
-1318,F.Wyvern Hardtail,F.Wyvern Hardtail
-1319,F.Wyvern Spike,F.Wyvern Spike
-1320,F.Wyvern Spike+,F.Wyvern Spike+
-1321,F.Wyvern Surspike,F.Wyvern Surspike
-1322,F.Wyvern Horn,F.Wyvern Horn
-1323,F.Wyvern Horn+,F.Wyvern Horn+
-1324,F.Wyvern Hardhorn,F.Wyvern Hardhorn
-1325,F.Wyvern Scale,F.Wyvern Scale
-1326,F.Wyvern Scale+,F.Wyvern Scale+
-1327,F.Wyvern Shard,F.Wyvern Shard
-1328,F.Wyvern Blood,F.Wyvern Blood
-1329,F.Wyvern Blood+,F.Wyvern Blood+
-1330,F.Wyvern Pureblood,F.Wyvern Pureblood
-1331,F.Wyvern Gem,F.Wyvern Gem
-1332,F.Wyvern Gem+,F.Wyvern Gem+
-1333,F.Wyvern Puregem,F.Wyvern Puregem
-1334,F.Wyvern Head,F.Wyvern Head
-1335,F.Wyvern Scalp,F.Wyvern Scalp
-1336,F.Wyvern Crown,F.Wyvern Crown
-1337,F.Wyvern Marrow,F.Wyvern Marrow
-1338,F.Wyvern Marrow+,F.Wyvern Marrow+
-1339,F.Wyvern Myeloid,F.Wyvern Myeloid
-1340,F.Wyvern Liver,F.Wyvern Liver
-1341,F.Wyvern Liver+,F.Wyvern Liver+
-1342,F.Wyvern Hvy Liver,F.Wyvern Hvy Liver
-1343,F.Wyvern Jaw,F.Wyvern Jaw
-1344,F.Wyvern Jaw+,F.Wyvern Jaw+
-1345,F.Wyvern Hardjaw,F.Wyvern Hardjaw
-1346,F.Wyvern Tear,F.Wyvern Tear
-1347,F.Wyvern Tear+,F.Wyvern Tear+
-1348,F.Wyvern Pure Tear,F.Wyvern Pure Tear
-1349,F.Wyvern Fluid,F.Wyvern Fluid
-1350,F.Wyvern Fluid+,F.Wyvern Fluid+
-1351,F.Wyvern Broth,F.Wyvern Broth
-1352,Piscine Scale,Piscine Scale
-1353,Piscine Scale+,Piscine Scale+
-1354,Piscine Thck Scale,Piscine Thck Scale
-1355,Piscine Fin,Piscine Fin
-1356,Piscine Fin+,Piscine Fin+
-1357,Piscine Hard Fin,Piscine Hard Fin
-1358,Piscine Blood,Piscine Blood
-1359,Piscine Blood+,Piscine Blood+
-1360,Piscine Thck Blood,Piscine Thck Blood
-1361,Piscine Tusk,Piscine Tusk
-1362,Piscine Tusk+,Piscine Tusk+
-1363,Piscine Hardtusk,Piscine Hardtusk
-1364,Piscine Gills,Piscine Gills
-1365,Piscine Gills+,Piscine Gills+
-1366,Piscine Hvy Gill,Piscine Hvy Gill
-1367,B.Wyvern Shell,B.Wyvern Shell
-1368,B.Wyvern Carapace,B.Wyvern Carapace
-1369,B.Wyvern Cortex,B.Wyvern Cortex
-1370,B.Wyvern Hide,B.Wyvern Hide
-1371,B.Wyvern Hide+,B.Wyvern Hide+
-1372,B.Wyvern Finehide,B.Wyvern Finehide
-1373,B.Wyvern Scale Ⅰ,B.Wyvern Scale Ⅰ
-1374,B.Wyvern Scale Ⅱ,B.Wyvern Scale Ⅱ
-1375,B.Wyvern Scale Ⅲ,B.Wyvern Scale Ⅲ
-1376,B.Wyvern Fang,B.Wyvern Fang
-1377,B.Wyvern Fang+,B.Wyvern Fang+
-1378,B.Wyvern Hardfang,B.Wyvern Hardfang
-1379,B.Wyvern Claw,B.Wyvern Claw
-1380,B.Wyvern Claw+,B.Wyvern Claw+
-1381,B.Wyvern Riptalon,B.Wyvern Riptalon
-1382,B.Wyvern Bone,B.Wyvern Bone
-1383,B.Wyvern Bone+,B.Wyvern Bone+
-1384,B.Wyvern Hardbone,B.Wyvern Hardbone
-1385,B.Wyvern Gem,B.Wyvern Gem
-1386,B.Wyvern Gem+,B.Wyvern Gem+
-1387,B.Wyvern Fine Gem,B.Wyvern Fine Gem
+1286,Insect Fluid,甲蟲種的體液
+1287,Insect Fluid+,甲蟲種的液＋
+1288,Insect Thick Fluid,甲蟲種的濃液
+1289,Carapaceon Shell,甲殼種的甲殼
+1290,Carapaceon Cpc,甲殼種的堅殼
+1291,Carapaceon Cortex,甲殼種的重殼
+1292,Carapaceon Pincer,甲殼種的鉗
+1293,Carapaceon Pincer+,甲殼種的尖鉗
+1294,Carapaceon T.Pincr,甲殼種的巨大鉗
+1295,Carapaceon Blade,甲殼種的刃
+1296,Carapaceon Blade+,甲殼種的鋭刃
+1297,Carapaceon Gasher,甲殼種的裂爪
+1298,F.Wyvern Shell,飛龍種的甲殼
+1299,F.Wyvern Carapace,飛龍種的堅殼
+1300,F.Wyvern Cortex,飛龍種的重殼
+1301,F.Wyvern Fang,飛龍種的牙
+1302,F.Wyvern Fang+,飛龍種的尖牙
+1303,F.Wyvern Hardfang,飛龍種的堅牙
+1304,F.Wyvern Claw,飛龍種的爪
+1305,F.Wyvern Claw+,飛龍種的尖爪
+1306,F.Wyvern Riptalon,飛龍種的鋭爪
+1307,F.Wyvern Bone,飛龍種的骨
+1308,F.Wyvern Bone+,飛龍種的上骨
+1309,F.Wyvern Hardbone,飛龍種的堅骨
+1310,F.Wyvern Skin,飛龍種的皮
+1311,F.Wyvern Skin+,飛龍種的皮＋
+1312,F.Wyvern Finehide,飛龍種的上等皮
+1313,F.Wyvern Wing,飛龍種的翼
+1314,F.Wyvern Wing+,飛龍種的上翼
+1315,F.Wyvern Fellwing,飛龍種的剛翼
+1316,F.Wyvern Tail,飛龍種的尾
+1317,F.Wyvern Tail+,飛龍種的上尾
+1318,F.Wyvern Hardtail,飛龍種的堅尾
+1319,F.Wyvern Spike,飛龍種的棘
+1320,F.Wyvern Spike+,飛龍種的上棘
+1321,F.Wyvern Surspike,飛龍種的特大棘
+1322,F.Wyvern Horn,飛龍種的角
+1323,F.Wyvern Horn+,飛龍種的尖角
+1324,F.Wyvern Hardhorn,飛龍種的堅角
+1325,F.Wyvern Scale,飛龍種的鱗
+1326,F.Wyvern Scale+,飛龍種的上鱗
+1327,F.Wyvern Shard,飛龍種的厚鱗
+1328,F.Wyvern Blood,飛龍種的血
+1329,F.Wyvern Blood+,飛龍種的血＋
+1330,F.Wyvern Pureblood,飛龍種的淨血
+1331,F.Wyvern Gem,飛龍種的寶玉
+1332,F.Wyvern Gem+,飛龍種的寶玉＋
+1333,F.Wyvern Puregem,飛龍種的淨寶玉
+1334,F.Wyvern Head,飛龍種的頭
+1335,F.Wyvern Scalp,飛龍種的頭皮
+1336,F.Wyvern Crown,飛龍種的冠
+1337,F.Wyvern Marrow,飛龍種的骨髓
+1338,F.Wyvern Marrow+,飛龍種的上骨髓
+1339,F.Wyvern Myeloid,飛龍種的脊髄
+1340,F.Wyvern Liver,飛龍種的肝
+1341,F.Wyvern Liver+,飛龍種的上肝
+1342,F.Wyvern Hvy Liver,飛龍種的重肝
+1343,F.Wyvern Jaw,飛龍種的顎
+1344,F.Wyvern Jaw+,飛龍種的尖顎
+1345,F.Wyvern Hardjaw,飛龍種的堅顎
+1346,F.Wyvern Tear,飛龍種的涙
+1347,F.Wyvern Tear+,飛龍種的涙＋
+1348,F.Wyvern Pure Tear,飛龍種的淨涙
+1349,F.Wyvern Fluid,飛龍種的體液
+1350,F.Wyvern Fluid+,飛龍種的液＋
+1351,F.Wyvern Broth,飛龍種的湯汁
+1352,Piscine Scale,魚龍種的鱗
+1353,Piscine Scale+,魚龍種的上鱗
+1354,Piscine Thck Scale,魚龍種的厚鱗
+1355,Piscine Fin,魚龍種的鰭
+1356,Piscine Fin+,魚龍種的上鰭
+1357,Piscine Hard Fin,魚龍種的堅鰭
+1358,Piscine Blood,魚龍種的血
+1359,Piscine Blood+,魚龍種的血＋
+1360,Piscine Thck Blood,魚龍種的厚血
+1361,Piscine Tusk,魚龍種的牙
+1362,Piscine Tusk+,魚龍種的尖牙
+1363,Piscine Hardtusk,魚龍種的堅牙
+1364,Piscine Gills,魚龍種的鰓
+1365,Piscine Gills+,魚龍種的上鰓
+1366,Piscine Hvy Gill,魚龍種的重鰓
+1367,B.Wyvern Shell,鳥龍種的甲殼
+1368,B.Wyvern Carapace,鳥龍種的堅殼
+1369,B.Wyvern Cortex,鳥龍種的重殼
+1370,B.Wyvern Hide,鳥龍種的皮
+1371,B.Wyvern Hide+,鳥龍種的皮＋
+1372,B.Wyvern Finehide,鳥龍種的上等皮
+1373,B.Wyvern Scale Ⅰ,鳥龍種的鱗Ⅰ
+1374,B.Wyvern Scale Ⅱ,鳥龍種的鱗Ⅱ
+1375,B.Wyvern Scale Ⅲ,鳥龍種的鱗Ⅲ
+1376,B.Wyvern Fang,鳥龍種的牙
+1377,B.Wyvern Fang+,鳥龍種的尖牙
+1378,B.Wyvern Hardfang,鳥龍種的堅牙
+1379,B.Wyvern Claw,鳥龍種的爪
+1380,B.Wyvern Claw+,鳥龍種的尖爪
+1381,B.Wyvern Riptalon,鳥龍種的鋭爪
+1382,B.Wyvern Bone,鳥龍種的骨
+1383,B.Wyvern Bone+,鳥龍種的上骨
+1384,B.Wyvern Hardbone,鳥龍種的堅骨
+1385,B.Wyvern Gem,鳥龍種的寶玉
+1386,B.Wyvern Gem+,鳥龍種的寶玉＋
+1387,B.Wyvern Fine Gem,鳥龍種的上等寶玉
 1388,B.Wyvern Beak,B.Wyvern Beak
 1389,B.Wyvern Beak+,B.Wyvern Beak+
 1390,B.Wyvern Hard Beak,B.Wyvern Hard Beak
-1391,B.Wyvern Pelt,B.Wyvern Pelt
-1392,B.Wyvern Pelt+,B.Wyvern Pelt+
-1393,B.Wyvern Finepelt,B.Wyvern Finepelt
-1394,B.Wyvern Tail,B.Wyvern Tail
-1395,B.Wyvern Tail+,B.Wyvern Tail+
-1396,B.Wyvern Hardtail,B.Wyvern Hardtail
+1391,B.Wyvern Pelt,鳥龍種的皮
+1392,B.Wyvern Pelt+,鳥龍種的皮＋
+1393,B.Wyvern Finepelt,鳥龍種的上等皮
+1394,B.Wyvern Tail,鳥龍種的尾
+1395,B.Wyvern Tail+,鳥龍種的上尾
+1396,B.Wyvern Hardtail,鳥龍種的堅尾
 1397,B.Wyvern Head Ⅰ,B.Wyvern Head Ⅰ
 1398,B.Wyvern Head Ⅱ,B.Wyvern Head Ⅱ
 1399,B.Wyvern Head Ⅲ,B.Wyvern Head Ⅲ
-1400,E.Dragon Shell,E.Dragon Shell
-1401,E.Dragon Carapace,E.Dragon Carapace
-1402,E.Dragon Hardshell,E.Dragon Hardshell
-1403,E.Dragon Pelt,E.Dragon Pelt
-1404,E.Dragon Pelt+,E.Dragon Pelt+
-1405,E.Dragon Finepelt,E.Dragon Finepelt
-1406,E.Dragon Hide,E.Dragon Hide
-1407,E.Dragon Hide+,E.Dragon Hide+
-1408,E.Dragon Finehide,E.Dragon Finehide
-1409,E.Dragon Claw,E.Dragon Claw
-1410,E.Dragon Claw+,E.Dragon Claw+
-1411,E.Dragon Riptalon,E.Dragon Riptalon
-1412,E.Dragon Tail,E.Dragon Tail
-1413,E.Dragon Tail+,E.Dragon Tail+
-1414,E.Dragon Hardtail,E.Dragon Hardtail
-1415,E.Dragon Blood,E.Dragon Blood
-1416,E.Dragon Blood+,E.Dragon Blood+
-1417,E.Dragon Pureblood,E.Dragon Pureblood
-1418,E.Dragon Wing,E.Dragon Wing
-1419,E.Dragon Wing+,E.Dragon Wing+
-1420,E.Dragon Fellwing,E.Dragon Fellwing
-1421,E.Dragon Horn,E.Dragon Horn
-1422,E.Dragon Horn+,E.Dragon Horn+
-1423,E.Dragon Hardhorn,E.Dragon Hardhorn
-1424,E.Dragon Scale,E.Dragon Scale
-1425,E.Dragon Scale+,E.Dragon Scale+
-1426,E.Dragon Shard,E.Dragon Shard
-1427,Fatalis Horn Ⅰ,Fatalis Horn Ⅰ
-1428,Fatalis Horn Ⅱ,Fatalis Horn Ⅱ
-1429,Fatalis Horn Ⅲ,Fatalis Horn Ⅲ
-1430,Fatalis Wing Ⅰ,Fatalis Wing Ⅰ
-1431,Fatalis Wing Ⅱ,Fatalis Wing Ⅱ
-1432,Fatalis Wing Ⅲ,Fatalis Wing Ⅲ
-1433,Fatalis Scale Ⅰ,Fatalis Scale Ⅰ
-1434,Fatalis Scale Ⅱ,Fatalis Scale Ⅱ
-1435,Fatalis Scale Ⅲ,Fatalis Scale Ⅲ
-1436,Storm Sac,Storm Sac
-1437,Scorch Sac,Scorch Sac
-1438,Tidal Sac,Tidal Sac
-1439,Glacial Sac,Glacial Sac
-1440,Coma Sac,Coma Sac
-1441,Virulent Sac,Virulent Sac
-1442,Omniplegia Sac,Omniplegia Sac
+1400,E.Dragon Shell,古龍種的甲殼
+1401,E.Dragon Carapace,古龍種的堅殼
+1402,E.Dragon Hardshell,古龍種的堅殼
+1403,E.Dragon Pelt,古龍種的皮
+1404,E.Dragon Pelt+,古龍種的皮＋
+1405,E.Dragon Finepelt,古龍種的上等皮
+1406,E.Dragon Hide,古龍種的皮
+1407,E.Dragon Hide+,古龍種的皮＋
+1408,E.Dragon Finehide,古龍種的上等皮
+1409,E.Dragon Claw,古龍種的爪
+1410,E.Dragon Claw+,古龍種的尖爪
+1411,E.Dragon Riptalon,古龍種的鋭爪
+1412,E.Dragon Tail,古龍種的尾
+1413,E.Dragon Tail+,古龍種的上尾
+1414,E.Dragon Hardtail,古龍種的堅尾
+1415,E.Dragon Blood,古龍種的血
+1416,E.Dragon Blood+,古龍種的血＋
+1417,E.Dragon Pureblood,古龍種的淨血
+1418,E.Dragon Wing,古龍種的翼
+1419,E.Dragon Wing+,古龍種的上翼
+1420,E.Dragon Fellwing,古龍種的剛翼
+1421,E.Dragon Horn,古龍種的角
+1422,E.Dragon Horn+,古龍種的尖角
+1423,E.Dragon Hardhorn,古龍種的堅角
+1424,E.Dragon Scale,古龍種的鱗
+1425,E.Dragon Scale+,古龍種的上鱗
+1426,E.Dragon Shard,古龍種的厚鱗
+1427,Fatalis Horn Ⅰ,黑龍的角Ⅰ
+1428,Fatalis Horn Ⅱ,黑龍的角Ⅱ
+1429,Fatalis Horn Ⅲ,黑龍的角Ⅲ
+1430,Fatalis Wing Ⅰ,黑龍的翼Ⅰ
+1431,Fatalis Wing Ⅱ,黑龍的翼Ⅱ
+1432,Fatalis Wing Ⅲ,黑龍的翼Ⅲ
+1433,Fatalis Scale Ⅰ,黑龍的鱗Ⅰ
+1434,Fatalis Scale Ⅱ,黑龍的鱗Ⅱ
+1435,Fatalis Scale Ⅲ,黑龍的鱗Ⅲ
+1436,Storm Sac,嵐袋
+1437,Scorch Sac,焦熱袋
+1438,Tidal Sac,潮袋
+1439,Glacial Sac,氷袋
+1440,Coma Sac,昏睡袋
+1441,Virulent Sac,劇毒袋
+1442,Omniplegia Sac,強麻痺袋
 1443,Wyvern Oil,Wyvern Oil
 1444,Wyvern Oil+,Wyvern Oil+
 1445,Thick Wyvern Oil,Thick Wyvern Oil
@@ -1642,7 +1642,7 @@ index,source,target
 1640,Fish Print [Lg],Fish Print [Lg]
 1641,Fisherman Proof,Fisherman Proof
 1642,Otoshidama [Ugly],Otoshidama [Ugly]
-1643,Electric Thorn,Electric Thorn
+1643,Electric Thorn,電棘
 1644,ＢＰ Ticket [１],ＢＰ票【１】
 1645,ＢＰ Ticket [２],ＢＰ票【２】
 1646,ＢＰ Ticket [３],ＢＰ票【３】
@@ -1664,17 +1664,17 @@ index,source,target
 1662,Goushu Ticket,剛種票
 1663,Teostra Proof,Teostra Proof
 1664,Beru Proof,Beru Proof
-1665,Beru Carapace,Beru Carapace
-1666,Beru Scale,Beru Scale
-1667,Beru Tail,Beru Tail
-1668,Beru Claw,Beru Claw
-1669,Beru Horn,Beru Horn
-1670,Beru Wing,Beru Wing
-1671,Beru Fluid,Beru Fluid
-1672,Beru Marrow,Beru Marrow
-1673,Beru Fur,Beru Fur
+1665,Beru Carapace,舞雷龍的堅殼
+1666,Beru Scale,舞雷龍的鱗
+1667,Beru Tail,舞雷龍的尾
+1668,Beru Claw,舞雷龍的爪
+1669,Beru Horn,舞雷龍的角
+1670,Beru Wing,舞雷龍的翼
+1671,Beru Fluid,舞雷龍的體液
+1672,Beru Marrow,舞雷龍的骨髓
+1673,Beru Fur,舞雷龍的毛
 1674,Beru Mane,Beru Mane
-1675,Beru Charged Scale,Beru Charged Scale
+1675,Beru Charged Scale,舞雷龍的帶電鱗
 1676,Beru Jewel,Beru Jewel
 1677,Best Recipe,Best Recipe
 1678,Essential Drink,必需飲料
@@ -1757,7 +1757,7 @@ index,source,target
 1755,ＴＰ Tkt・３,ＴＰ票・３
 1756,ＴＰ Tkt・４,ＴＰ票・４
 1757,ＴＰ Tkt・５,ＴＰ票・５
-1758,Mysterious Fluid,Mysterious Fluid
+1758,Mysterious Fluid,謎之體液
 1759,G Scimitar Tkt,Ｇ彎刀票
 1760,F Berge Tkt,Ｆ波形劍票
 1761,R.Crystal Tkt,紅水晶票
@@ -1794,13 +1794,13 @@ index,source,target
 1792,Nitro Drug,Nitro Drug
 1793,Chameleos Proof,Chameleos Proof
 1794,Paria Proof,Paria Proof
-1795,Paria Hide,Paria Hide
-1796,Paria Fang,Paria Fang
+1795,Paria Hide,呑龍的皮
+1796,Paria Fang,呑龍的牙
 1797,Paria Acid,Paria Acid
-1798,Paria Blood,Paria Blood
-1799,Paria Fin,Paria Fin
-1800,Paria Bone,Paria Bone
-1801,Paria Liver,Paria Liver
+1798,Paria Blood,呑龍的血
+1799,Paria Fin,呑龍的鰭
+1800,Paria Bone,呑龍的骨
+1801,Paria Liver,呑龍的肝
 1802,Caravan Copper Gem,Caravan Copper Gem
 1803,Caravan Silver Gem,Caravan Silver Gem
 1804,Caravan Gold Gem,Caravan Gold Gem
@@ -1867,23 +1867,23 @@ index,source,target
 1865,Porta Velvet,Porta Velvet
 1866,Lao-Shan Proof,Lao-Shan Proof
 1867,Shen Gaoren Proof,Shen Gaoren Proof
-1868,W.Espinas Scale,W.Espinas Scale
-1869,W.Espi Carapace,W.Espi Carapace
-1870,W.Espinas Spike,W.Espinas Spike
+1868,W.Espinas Scale,棘白龍的鱗
+1869,W.Espi Carapace,棘白龍的堅殼
+1870,W.Espinas Spike,棘白龍的棘
 1871,W.Espinas Scalp,W.Espinas Scalp
-1872,W.Espinas Tail,W.Espinas Tail
+1872,W.Espinas Tail,棘白龍的尾
 1873,W.Espinas Ruby,W.Espinas Ruby
-1874,W.Espinas Horn,W.Espinas Horn
+1874,W.Espinas Horn,棘白龍的角
 1875,W.Espinas Flint,W.Espinas Flint
-1876,Orugaron Claw,Orugaron Claw
-1877,Orugaron Pelt,Orugaron Pelt
-1878,Orugaron Fang,Orugaron Fang
+1876,Orugaron Claw,奧魯加龍的爪
+1877,Orugaron Pelt,奧魯加龍的皮
+1878,Orugaron Fang,奧魯加龍的牙
 1879,Orugaron Mane,Orugaron Mane
-1880,Orugaron Spike+,Orugaron Spike+
-1881,Orugaron Spike,Orugaron Spike
-1882,Orugaron Blood,Orugaron Blood
+1880,Orugaron Spike+,奧魯加龍的上棘
+1881,Orugaron Spike,奧魯加龍的棘
+1882,Orugaron Blood,奧魯加龍的血
 1883,Orugaron Ruby,Orugaron Ruby
-1884,Red Orugaron Pelt,Red Orugaron Pelt
+1884,Red Orugaron Pelt,赤奧魯加龍的皮
 1885,Lunastra Proof,Lunastra Proof
 1886,Heat Bomb,熱爆彈
 1887,Bomb S.Crystal,Bomb S.Crystal
@@ -2031,9 +2031,9 @@ index,source,target
 2029,Claire Tkt Waist,煥晶腰票
 2030,Claire Tkt Legs,煥晶脚票
 2031,Guild Medallion,Guild Medallion
-2032,Black Beast Claw,Black Beast Claw
+2032,Black Beast Claw,黑獸的爪
 2033,Moonlight Stone,Moonlight Stone
-2034,Sharp Twin Fangs,Sharp Twin Fangs
+2034,Sharp Twin Fangs,鋭利雙牙
 2035,Timeless Flute,悠久笛
 2036,Strange Seeds,Strange Seeds
 2037,Core Fragment,Core Fragment
@@ -2145,16 +2145,16 @@ index,source,target
 2143,Tough Snake Skin,Tough Snake Skin
 2144,Gratitude Tkt,感謝票
 2145,Otoshidama [Yin],Otoshidama [Yin]
-2146,Raviente Blood,Raviente Blood
-2147,Raviente Gem,Raviente Gem
-2148,Raviente Hide,Raviente Hide
-2149,Raviente Scale,Raviente Scale
-2150,Raviente Wing,Raviente Wing
-2151,Raviente Marrow,Raviente Marrow
-2152,Raviente Horn,Raviente Horn
-2153,Raviente Fang,Raviente Fang
-2154,Raviente Tail,Raviente Tail
-2155,Raviente Spike,Raviente Spike
+2146,Raviente Blood,大巖龍的血
+2147,Raviente Gem,大巖龍的寶玉
+2148,Raviente Hide,大巖龍的皮
+2149,Raviente Scale,大巖龍的鱗
+2150,Raviente Wing,大巖龍的翼
+2151,Raviente Marrow,大巖龍的骨髓
+2152,Raviente Horn,大巖龍的角
+2153,Raviente Fang,大巖龍的牙
+2154,Raviente Tail,大巖龍的尾
+2155,Raviente Spike,大巖龍的棘
 2156,Power Gem,Power Gem
 2157,Mid Power gem,Mid Power gem
 2158,Secret Power Gem,Secret Power Gem
@@ -2181,7 +2181,7 @@ index,source,target
 2179,Bent Timber,Bent Timber
 2180,Worn Cloth,Worn Cloth
 2181,Chipped Knife,缺損的小刀
-2182,Thin Plate,Thin Plate
+2182,Thin Plate,薄逆鱗
 2183,Dapoten Flower,Dapoten Flower
 2184,Parapara Fruits,Parapara Fruits
 2185,Honey Grass,Honey Grass
@@ -2207,7 +2207,7 @@ index,source,target
 2205,Elongated Bar,Elongated Bar
 2206,Thick Braid,Thick Braid
 2207,Yamatsukami Proof,Yamatsukami Proof
-2208,Elder Dragon Fang,Elder Dragon Fang
+2208,Elder Dragon Fang,古龍種的牙
 2209,Elder Dragon Jewel,Elder Dragon Jewel
 2210,Yearly Sub Ticket,年間特典票
 2211,Dummy,(dummy)
@@ -2641,21 +2641,21 @@ index,source,target
 2639,Black Secret Pot,Black Secret Pot
 2640,Silver Secret Pot,Silver Secret Pot
 2641,Gold Secret pot,Gold Secret pot
-2642,Decayed Hide,Decayed Hide
-2643,Gravios Tailbone,Gravios Tailbone
+2642,Decayed Hide,腐敗的皮
+2643,Gravios Tailbone,鎧龍的尾骨
 2644,Armorer's Secret,Armorer's Secret
-2645,Dyuragaua Scale,Dyuragaua Scale
-2646,Dyuragaua Shell,Dyuragaua Shell
-2647,Dyuragaua Claw,Dyuragaua Claw
-2648,Dyuragaua Horn,Dyuragaua Horn
-2649,Dyuragaua Tail,Dyuragaua Tail
-2650,Dyuragaua Spike,Dyuragaua Spike
-2651,Dyuragaua Scale+,Dyuragaua Scale+
-2652,Dyuragaua Carapace,Dyuragaua Carapace
-2653,Dyuragaua Claw+,Dyuragaua Claw+
-2654,Dyuragaua Horn+,Dyuragaua Horn+
-2655,Dyuragaua Tail+,Dyuragaua Tail+
-2656,Dyuragaua Spike+,Dyuragaua Spike+
+2645,Dyuragaua Scale,凍戈龍的鱗
+2646,Dyuragaua Shell,凍戈龍的甲殼
+2647,Dyuragaua Claw,凍戈龍的爪
+2648,Dyuragaua Horn,凍戈龍的角
+2649,Dyuragaua Tail,凍戈龍的尾
+2650,Dyuragaua Spike,凍戈龍的棘
+2651,Dyuragaua Scale+,凍戈龍的上鱗
+2652,Dyuragaua Carapace,凍戈龍的堅殼
+2653,Dyuragaua Claw+,凍戈龍的尖爪
+2654,Dyuragaua Horn+,凍戈龍的尖角
+2655,Dyuragaua Tail+,凍戈龍的上尾
+2656,Dyuragaua Spike+,凍戈龍的上棘
 2657,Dyuragaua Proof,Dyuragaua Proof
 2658,Rookie Proof,Rookie Proof
 2659,SnS Soul (Low),SnS Soul (Low)
@@ -2705,27 +2705,27 @@ index,source,target
 2703,Strong Beak,Strong Beak
 2704,Ferocious Beak,Ferocious Beak
 2705,Divine Beak,Divine Beak
-2706,Conga Savage Claw,Conga Savage Claw
-2707,Conga Choice Claw,Conga Choice Claw
-2708,Conga Rend Claw,Conga Rend Claw
-2709,Volga Rare Fin,Volga Rare Fin
-2710,Volga Blade Fin,Volga Blade Fin
-2711,Volga Tyrant Fin,Volga Tyrant Fin
-2712,Khezu Cushy Hide,Khezu Cushy Hide
-2713,Khezu Ghost Hide,Khezu Ghost Hide
+2706,Conga Savage Claw,兇桃毛獸的爪
+2707,Conga Choice Claw,精桃毛獸的爪
+2708,Conga Rend Claw,裂桃毛獸的爪
+2709,Volga Rare Fin,稀熔岩龍的鰭
+2710,Volga Blade Fin,刃熔岩龍的鰭
+2711,Volga Tyrant Fin,暴熔岩龍的鰭
+2712,Khezu Cushy Hide,柔柔皮龍的皮
+2713,Khezu Ghost Hide,幽靈柔皮龍的皮
 2714,Khezu Ivory Belly,Khezu Ivory Belly
-2715,Los Calamity Scale,Los Calamity Scale
-2716,Los Stygian Scale,Los Stygian Scale
-2717,Los Emperor Scale,Los Emperor Scale
-2718,Ian Steel Shell,Ian Steel Shell
-2719,Ian Radiant Shell,Ian Radiant Shell
-2720,Ian Glossy Shell,Ian Glossy Shell
-2721,Great Twisted Horn,Great Twisted Horn
-2722,Contorted Direhorn,Contorted Direhorn
-2723,Sublime Direhorn,Sublime Direhorn
-2724,Blango Crush Fang,Blango Crush Fang
-2725,Blango Pierce Fang,Blango Pierce Fang
-2726,Blango Mystic fang,Blango Mystic fang
+2715,Los Calamity Scale,災火龍的鱗
+2716,Los Stygian Scale,冥火龍的鱗
+2717,Los Emperor Scale,帝火龍的鱗
+2718,Ian Steel Shell,鋼雌火龍的甲殼
+2719,Ian Radiant Shell,輝雌火龍的甲殼
+2720,Ian Glossy Shell,艶雌火龍的甲殼
+2721,Great Twisted Horn,大歪角
+2722,Contorted Direhorn,歪曲兇角
+2723,Sublime Direhorn,崇高兇角
+2724,Blango Crush Fang,雪獅子的碎牙
+2725,Blango Pierce Fang,雪獅子的貫通牙
+2726,Blango Mystic fang,雪獅子的神秘牙
 2727,HC Ticket,ＨＣ票
 2728,Sharpening PA1,Sharpening PA1
 2729,Reload PA1,Reload PA1
@@ -2952,14 +2952,14 @@ index,source,target
 2950,Stone Shard [Top],Stone Shard [Top]
 2951,Stone Shard [Mid],Stone Shard [Mid]
 2952,Stone Shard [Bot],Stone Shard [Bot]
-2953,Final Stone Plate,Final Stone Plate
-2954,Dora Carapace,Dora Carapace
-2955,Dora Scale,Dora Scale
-2956,Dora Tail,Dora Tail
-2957,Dora Claw,Dora Claw
-2958,Dora Horn,Dora Horn
-2959,Dora Wing,Dora Wing
-2960,Dora Marrow,Dora Marrow
+2953,Final Stone Plate,終焉石板
+2954,Dora Carapace,冥雷龍的堅殼
+2955,Dora Scale,冥雷龍的鱗
+2956,Dora Tail,冥雷龍的尾
+2957,Dora Claw,冥雷龍的爪
+2958,Dora Horn,冥雷龍的角
+2959,Dora Wing,冥雷龍的翼
+2960,Dora Marrow,冥雷龍的骨髓
 2961,Dora Mane,Dora Mane
 2962,Dora Jewel,Dora Jewel
 2963,Dora Proof,Dora Proof
@@ -3061,7 +3061,7 @@ index,source,target
 3059,Big Blast Gem,Big Blast Gem
 3060,Big Penetrator Gem,Big Penetrator Gem
 3061,Instructor Coin,Instructor Coin
-3062,Pale Hypnoc Pelt,Pale Hypnoc Pelt
+3062,Pale Hypnoc Pelt,蒼眠鳥的皮
 3063,Sphere Tkt Head,星體頭票
 3064,Sphere Tkt Torso,星體胴票
 3065,Sphere Tkt Arms,星體腕票
@@ -3315,17 +3315,17 @@ index,source,target
 3313,Comrade Seal,Comrade Seal
 3314,Hunter's Deed,Hunter's Deed
 3315,Strange BBQ,奇怪燒肉
-3316,Strange Spike,Strange Spike
+3316,Strange Spike,奇怪的棘
 3317,Strange Pouch,Strange Pouch
 3318,Shining Star,Shining Star
-3319,Frozen Fur,Frozen Fur
+3319,Frozen Fur,凍結的毛
 3320,Steel Ore,Steel Ore
-3321,Beast Claw,Beast Claw
-3322,Beast Fang,Beast Fang
+3321,Beast Claw,牙獸種的爪
+3322,Beast Fang,牙獸種的牙
 3323,Pure White Teeth,Pure White Teeth
 3324,Hard Dorsal Spine,Hard Dorsal Spine
-3325,Hard Red Horn,Hard Red Horn
-3326,Strong Heavy Scale,Strong Heavy Scale
+3325,Hard Red Horn,堅紅角
+3326,Strong Heavy Scale,強重鱗
 3327,Shotgun,Shotgun
 3328,Pitchfork,Pitchfork
 3329,Knife Set,小刀組
@@ -3512,44 +3512,44 @@ index,source,target
 3510,Basarios Sink Shl,Basarios Sink Shl
 3511,Basarios Firm Shl,Basarios Firm Shl
 3512,Basarios Rigid Shl,Basarios Rigid Shl
-3513,Very Rubbery Hide,Very Rubbery Hide
-3514,Most Rubbery Hide,Most Rubbery Hide
+3513,Very Rubbery Hide,超彈性皮
+3514,Most Rubbery Hide,極彈性皮
 3515,Gypceros Crystal,Gypceros Crystal
-3516,Teostra Fine Horn,Teostra Fine Horn
-3517,Teostra Rend Horn,Teostra Rend Horn
-3518,Teostra Lord Horn,Teostra Lord Horn
-3519,Plesioth Razorfin,Plesioth Razorfin
-3520,Plesioth Bladefin,Plesioth Bladefin
-3521,Plesi Tyrant Fin,Plesi Tyrant Fin
-3522,Daimyo Kill Claw,Daimyo Kill Claw
-3523,Daimyo Slice Claw,Daimyo Slice Claw
-3524,Daimyo Sever Claw,Daimyo Sever Claw
+3516,Teostra Fine Horn,炎王龍的上等角
+3517,Teostra Rend Horn,炎王龍的裂角
+3518,Teostra Lord Horn,炎王龍的主角
+3519,Plesioth Razorfin,水龍的剃刀鰭
+3520,Plesioth Bladefin,水龍的刃鰭
+3521,Plesi Tyrant Fin,水龍的暴君鰭
+3522,Daimyo Kill Claw,大名盾蟹的殺爪
+3523,Daimyo Slice Claw,大名盾蟹的斬爪
+3524,Daimyo Sever Claw,大名盾蟹的斷爪
 3525,dummy,dummy
-3526,Tigrex Gouge Claw,Tigrex Gouge Claw
-3527,Tigrex Rend Claw,Tigrex Rend Claw
-3528,Hypnoc Amber Pelt,Hypnoc Amber Pelt
-3529,Hypnoc Crimson Pelt,Hypnoc Crimson Pelt
+3526,Tigrex Gouge Claw,轟龍的鑿爪
+3527,Tigrex Rend Claw,轟龍的裂爪
+3528,Hypnoc Amber Pelt,眠鳥的琥珀皮
+3529,Hypnoc Crimson Pelt,眠鳥的緋皮
 3530,Hypnoc Old Bezoar,Hypnoc Old Bezoar
 3531,dummy,dummy
-3532,Paria Pierce Fang,Paria Pierce Fang
-3533,Paria Terror Fin,Paria Terror Fin
+3532,Paria Pierce Fang,呑龍的貫通牙
+3533,Paria Terror Fin,呑龍的恐怖鰭
 3534,dummy,dummy
-3535,O.Espi Rage Spike,O.Espi Rage Spike
+3535,O.Espi Rage Spike,棘茶龍的憤怒棘
 3536,dummy,dummy
-3537,Guren Scale,Guren Scale
-3538,Guren Hide,Guren Hide
-3539,Guren Claw,Guren Claw
-3540,Guren Horn,Guren Horn
-3541,Guren Wing,Guren Wing
-3542,Guren Tail,Guren Tail
-3543,Guren Spike,Guren Spike
-3544,Guren Scale+,Guren Scale+
-3545,Guren Hide+,Guren Hide+
-3546,Guren Claw+,Guren Claw+
-3547,Guren Horn+,Guren Horn+
-3548,Guren Wing+,Guren Wing+
-3549,Guren Tail+,Guren Tail+
-3550,Guren Spike+,Guren Spike+
+3537,Guren Scale,紅蓮獅子的鱗
+3538,Guren Hide,紅蓮獅子的皮
+3539,Guren Claw,紅蓮獅子的爪
+3540,Guren Horn,紅蓮獅子的角
+3541,Guren Wing,紅蓮獅子的翼
+3542,Guren Tail,紅蓮獅子的尾
+3543,Guren Spike,紅蓮獅子的棘
+3544,Guren Scale+,紅蓮獅子的上鱗
+3545,Guren Hide+,紅蓮獅子的皮＋
+3546,Guren Claw+,紅蓮獅子的尖爪
+3547,Guren Horn+,紅蓮獅子的尖角
+3548,Guren Wing+,紅蓮獅子的上翼
+3549,Guren Tail+,紅蓮獅子的上尾
+3550,Guren Spike+,紅蓮獅子的上棘
 3551,Guren Proof,Guren Proof
 3552,Training Jewel Ⅰ,Training Jewel Ⅰ
 3553,Training Jewel Ⅱ,Training Jewel Ⅱ
@@ -3570,16 +3570,16 @@ index,source,target
 3568,Porta Cookies,Porta Cookies
 3569,Porta Chocolate,Porta Chocolate
 3570,Porta Candy,Porta Candy
-3571,Elder Dragon Jaw,Elder Dragon Jaw
-3572,E.Dragon Webbing,E.Dragon Webbing
+3571,Elder Dragon Jaw,古龍種的顎
+3572,E.Dragon Webbing,古龍種的翼膜
 3573,Kouzandake,Kouzandake
 3574,Mellow Mackerel,Mellow Mackerel
-3575,Burukku Horn,Burukku Horn
-3576,Burukku Hide,Burukku Hide
+3575,Burukku Horn,野牛獸的角
+3576,Burukku Hide,野牛獸的皮
 3577,Burukku Head,Burukku Head
-3578,Erupe Horn,Erupe Horn
-3579,Erupe Hide,Erupe Hide
-3580,Erupe Hoof,Erupe Hoof
+3578,Erupe Horn,雪羊獸的角
+3579,Erupe Hide,雪羊獸的皮
+3580,Erupe Hoof,雪羊獸的蹄
 3581,Training Jewel Ⅴ,Training Jewel Ⅴ
 3582,Bewitching Coin,Bewitching Coin
 3583,Glimmering Coin,Glimmering Coin
@@ -3627,7 +3627,7 @@ index,source,target
 3625,Baron Tkt,男爵票
 3626,Conde Tkt,伯爵票
 3627,Marquee Tkt,侯爵票
-3628,Sturdy Horn,Sturdy Horn
+3628,Sturdy Horn,堅固的角
 3629,Esoteric Fabric-H,Esoteric Fabric-H
 3630,Esoteric Fabric-S,Esoteric Fabric-S
 3631,Bunny Tkt Head,兎頭票
@@ -3694,10 +3694,10 @@ index,source,target
 3692,Noble L Tkt,貴紳Ｌ票
 3693,Officer L Tkt,士官Ｌ票
 3694,Cleanse L Tkt,浄化Ｌ票
-3695,Rogue Twinhorn,Rogue Twinhorn
-3696,Violent Twinhorn,Violent Twinhorn
-3697,Rogue Blk Bihorn,Rogue Blk Bihorn
-3698,Brutal Blk Bihorn,Brutal Blk Bihorn
+3695,Rogue Twinhorn,流氓雙角
+3696,Violent Twinhorn,狂暴雙角
+3697,Rogue Blk Bihorn,流氓黑雙角
+3698,Brutal Blk Bihorn,兇暴黑雙角
 3699,Fire-Proof Lapis,Fire-Proof Lapis
 3700,Water-Proof Lapis,Water-Proof Lapis
 3701,Thndr-Proof Lapis,Thndr-Proof Lapis
@@ -3712,29 +3712,29 @@ index,source,target
 3710,Cuff Base・Tokiwa,Cuff Base・Tokiwa
 3711,Cuff Base・Ruri,Cuff Base・Ruri
 3712,Kirin Piel,Kirin Piel
-3713,Kirin Silver Tail,Kirin Silver Tail
-3714,Kirin Silver Horn,Kirin Silver Horn
+3713,Kirin Silver Tail,銀麒麟的尾
+3714,Kirin Silver Horn,銀麒麟的角
 3715,Cham.Speckled Skin,Cham.Speckled Skin
 3716,Cham.Illusion Skin,Cham.Illusion Skin
 3717,Cham.Chroma Skin,Cham.Chroma Skin
-3718,Garuga Purple Wing,Garuga Purple Wing
+3718,Garuga Purple Wing,黑狼鳥的紫翼
 3719,Poisonous Beak,Poisonous Beak
-3720,Espinas Rage Spike,Espinas Rage Spike
+3720,Espinas Rage Spike,棘龍的憤怒棘
 3721,Espi.Euphoria Spk,Espi.Euphoria Spk
-3722,Dyura Cold Shell,Dyura Cold Shell
-3723,Dyura Frost Shell,Dyura Frost Shell
-3724,Dyura Ice Shell,Dyura Ice Shell
-3725,Shogun Kill Claw,Shogun Kill Claw
-3726,Shogun Slice Claw,Shogun Slice Claw
-3727,Shogun Sever Claw,Shogun Sever Claw
-3728,Rajang Fierce Fang,Rajang Fierce Fang
-3729,Rajang Jet-Blk Fur,Rajang Jet-Blk Fur
-3730,Rajang King Fang,Rajang King Fang
+3722,Dyura Cold Shell,冷凍戈龍的甲殼
+3723,Dyura Frost Shell,霜凍戈龍的甲殼
+3724,Dyura Ice Shell,氷凍戈龍的甲殼
+3725,Shogun Kill Claw,將軍鎌蟹的殺爪
+3726,Shogun Slice Claw,將軍鎌蟹的斬爪
+3727,Shogun Sever Claw,將軍鎌蟹的斷爪
+3728,Rajang Fierce Fang,金獅子的猛烈牙
+3729,Rajang Jet-Blk Fur,金獅子的漆黑毛
+3730,Rajang King Fang,金獅子的王牙
 3731,V.Drome Vivid Scle,V.Drome Vivid Scle
 3732,V.Drome Piel,V.Drome Piel
-3733,V.Drome Lng Claw,V.Drome Lng Claw
+3733,V.Drome Lng Claw,藍速龍王的長爪
 3734,Monoblos Hard Shl,Monoblos Hard Shl
-3735,A.Rath Doom Scale,A.Rath Doom Scale
+3735,A.Rath Doom Scale,蒼火龍的末日鱗
 3736,A.Rath Prison Scl,A.Rath Prison Scl
 3737,E.Dragon Tongue,E.Dragon Tongue
 3738,E.Dragon Muscle,E.Dragon Muscle
@@ -3983,18 +3983,18 @@ index,source,target
 3981,Transcend Proof 10,Transcend Proof 10
 3982,Morudeno P Tkt,蔚藍Ｐ票
 3983,Steno R Tkt,月坑Ｒ票
-3984,Rukodiora Scale,Rukodiora Scale
-3985,Rukodiora Claw,Rukodiora Claw
-3986,Rukodiora Horn,Rukodiora Horn
-3987,Rukodiora Wing,Rukodiora Wing
-3988,Rukodiora Tail,Rukodiora Tail
-3989,Rukodiora Gem,Rukodiora Gem
-3990,Rukodiora Scale+,Rukodiora Scale+
-3991,Rukodiora Claw+,Rukodiora Claw+
-3992,Rukodiora Horn+,Rukodiora Horn+
-3993,Rukodiora Webbing,Rukodiora Webbing
-3994,Rukodiora Tail+,Rukodiora Tail+
-3995,Elder Dragon Gem,Elder Dragon Gem
+3984,Rukodiora Scale,極龍的鱗
+3985,Rukodiora Claw,極龍的爪
+3986,Rukodiora Horn,極龍的角
+3987,Rukodiora Wing,極龍的翼
+3988,Rukodiora Tail,極龍的尾
+3989,Rukodiora Gem,極龍的寶玉
+3990,Rukodiora Scale+,極龍的上鱗
+3991,Rukodiora Claw+,極龍的尖爪
+3992,Rukodiora Horn+,極龍的尖角
+3993,Rukodiora Webbing,極龍的翼膜
+3994,Rukodiora Tail+,極龍的上尾
+3995,Elder Dragon Gem,古龍種的寶玉
 3996,Rukodiora Proof,Rukodiora Proof
 3997,Famitsu Tkt,法米通票
 3998,Pawprint Medal,Pawprint Medal
@@ -4033,14 +4033,14 @@ index,source,target
 4031,Abit Tkt Arms,嚮導腕票
 4032,Abit Tkt Waist,嚮導腰票
 4033,Abit Tkt Legs,嚮導脚票
-4034,Large Angry Bone,Large Angry Bone
+4034,Large Angry Bone,大憤怒骨
 4035,Varusaburosu Doll,Varusaburosu Doll
 4036,Airborne Spores,Airborne Spores
 4037,Wyvern Mallet Tkt,撃龍鎚票
 4038,Fancy Book 3,Fancy Book 3
 4039,Hunter's Skill 2,Hunter's Skill 2
 4040,Wpn Design Doc II,Wpn Design Doc II
-4041,Magnetic Scales,Magnetic Scales
+4041,Magnetic Scales,磁力鱗
 4042,SSFⅣ Head Tkt 2,ＳＳＦⅣ頭票２
 4043,SSFⅣ Torso Tkt 2,ＳＳＦⅣ胴票２
 4044,SSFⅣ Arms Tkt 2,ＳＳＦⅣ腕票２
@@ -4322,12 +4322,12 @@ index,source,target
 4320,Daora Desolate Shl,Daora Desolate Shl
 4321,Daora Fierce Shl,Daora Fierce Shl
 4322,Daora Violent Shl,Daora Violent Shl
-4323,Orugaron Bld. Fang,Orugaron Bld. Fang
-4324,Orugaron Brkn Fang,Orugaron Brkn Fang
-4325,Orugaron P.WhtFur,Orugaron P.WhtFur
-4326,Orugaron B.WhtFur,Orugaron B.WhtFur
+4323,Orugaron Bld. Fang,奧魯加龍的血牙
+4324,Orugaron Brkn Fang,奧魯加龍的折牙
+4325,Orugaron P.WhtFur,奧魯加龍的純白毛
+4326,Orugaron B.WhtFur,奧魯加龍的黑白毛
 4327,P.Rathian St. Shl,P.Rathian St. Shl
-4328,P.Rath Res. Shell,P.Rath Res. Shell
+4328,P.Rath Res. Shell,桜火龍的耐殼
 4329,Quivering Leather,Quivering Leather
 4330,Supple Red Leather,Supple Red Leather
 4331,Hypnoc Argent Fthr,Hypnoc Argent Fthr
@@ -4339,7 +4339,7 @@ index,source,target
 4337,Normal Drawing 2,Normal Drawing 2
 4338,Miniature Drawing,Miniature Drawing
 4339,Dummy38,(dummy)
-4340,Gook Tear,Gook Tear
+4340,Gook Tear,古古鴨的涙
 4341,Gook Feather,Gook Feather
 4342,Polka Dot Patrn,Polka Dot Patrn
 4343,Gunman Pattern,Gunman Pattern
@@ -4350,7 +4350,7 @@ index,source,target
 4348,Tattered Drawings,Tattered Drawings
 4349,Shabby Drawings,Shabby Drawings
 4350,Gook Memories,Gook Memories
-4351,F.Wyvern Plate,F.Wyvern Plate
+4351,F.Wyvern Plate,飛龍種的逆鱗
 4352,F.Wyvern Jewel,F.Wyvern Jewel
 4353,Earplugs Berry,Earplugs Berry
 4354,Defense Berry,Defense Berry
@@ -4366,7 +4366,7 @@ index,source,target
 4364,PA Cuff Tkt Ⅱ,ＰＡ袖飾票Ⅱ
 4365,PB Cuff Tkt Ⅱ,ＰＢ袖飾票Ⅱ
 4366,PC Cuff Tkt Ⅱ,ＰＣ袖飾票Ⅱ
-4367,Sturdy Jawbone,Sturdy Jawbone
+4367,Sturdy Jawbone,堅固顎骨
 4368,Card Ore Sand,Card Ore Sand
 4369,Card Ore Plum,Card Ore Plum
 4370,Card Ore Soot,Card Ore Soot
@@ -4397,8 +4397,8 @@ index,source,target
 4395,EZ Sonic Bomb,簡易音爆彈
 4396,Signal Flare,Signal Flare
 4397,Geyser Bomb,間歇泉爆彈
-4398,Violent Ravi Blood,Violent Ravi Blood
-4399,Ancient Drgn Bone,Ancient Drgn Bone
+4398,Violent Ravi Blood,狂暴大巖龍之血
+4399,Ancient Drgn Bone,古代龍骨
 4400,Rukodiora Stone,Rukodiora Stone
 4401,4401dummy,4401dummy
 4402,4402dummy,4402dummy
@@ -4461,22 +4461,22 @@ index,source,target
 4459,Scarlet Festi Mem.,Scarlet Festi Mem.
 4460,Indigo Festi Mem.,Indigo Festi Mem.
 4461,Peach Festi Memory,Peach Festi Memory
-4462,Freezing Fang,Freezing Fang
+4462,Freezing Fang,凍結的牙
 4463,Eternal Friend Tkt,永遠友票
 4464,Power Friend Tkt,力友票
 4465,True Friend Tkt,真友票
 4466,Pure Dawn Crystal,Pure Dawn Crystal
 4467,Electric Stone,Electric Stone
 4468,Star Debris,Star Debris
-4469,Steel Direbone,Steel Direbone
+4469,Steel Direbone,鋼兇骨
 4470,Carbon Blade,Carbon Blade
 4471,Cat Luxury File,Cat Luxury File
 4472,Fisherman's Guile,Fisherman's Guile
-4473,Blk Beast Fang,Blk Beast Fang
+4473,Blk Beast Fang,黑獸的牙
 4474,Extreme Flame Gem,Extreme Flame Gem
 4475,Mutation Hammer,Mutation Hammer
 4476,Iron Compass,Iron Compass
-4477,Blk Fur,Blk Fur
+4477,Blk Fur,黑的毛
 4478,Rip Talon,Rip Talon
 4479,Fire Blast Stone,Fire Blast Stone
 4480,Hunter Card Green,Hunter Card Green
@@ -4484,15 +4484,15 @@ index,source,target
 4482,Hunter Card Yellow,Hunter Card Yellow
 4483,Hunter Card Water,Hunter Card Water
 4484,Hunter Card Orange,Hunter Card Orange
-4485,Unknown Scale,Unknown Scale
+4485,Unknown Scale,未知的鱗
 4486,Unknown Webbing,Unknown Webbing
-4487,Unknown Fang,Unknown Fang
+4487,Unknown Fang,未知的牙
 4488,Unknown Jaw,Unknown Jaw
-4489,Unknown Claw,Unknown Claw
-4490,Unknown Wing,Unknown Wing
+4489,Unknown Claw,未知的爪
+4490,Unknown Wing,未知的翼
 4491,Unknown Marrow,Unknown Marrow
-4492,Unknown Tail,Unknown Tail
-4493,Unknown Spike,Unknown Spike
+4492,Unknown Tail,未知的尾
+4493,Unknown Spike,未知的棘
 4494,Earplugs II PA1,Earplugs II PA1
 4495,Earplugs II PA2,Earplugs II PA2
 4496,Earplugs II PA3,Earplugs II PA3
@@ -4761,25 +4761,25 @@ index,source,target
 4759,Fragrant Grass,Fragrant Grass
 4760,Pinky Grass,Pinky Grass
 4761,Fuzzy Grass,Fuzzy Grass
-4762,Clean Shell,Clean Shell
-4763,Soft Shell,Soft Shell
-4764,Rare Shell,Rare Shell
+4762,Clean Shell,潔淨甲殼
+4763,Soft Shell,柔軟甲殼
+4764,Rare Shell,稀有甲殼
 4765,Pelican Ore,Pelican Ore
 4766,Black Pyroxene,Black Pyroxene
 4767,Parusanto Ore,Parusanto Ore
 4768,Shovel Hopper,Shovel Hopper
 4769,Fishing Bug,Fishing Bug
 4770,Rockfang Worm,Rockfang Worm
-4771,Valiant Horn,Valiant Horn
+4771,Valiant Horn,勇猛的角
 4772,Fragrant Branch,Fragrant Branch
 4773,Charming Fruit,Charming Fruit
 4774,Icy Branch,Icy Branch
 4775,Card Ore [Ibis],Card Ore [Ibis]
 4776,Card Ore [Muscle],Card Ore [Muscle]
 4777,Card Ore [Leap],Card Ore [Leap]
-4778,Unyielding Spike,Unyielding Spike
-4779,Huge Wthrd. Bone,Huge Wthrd. Bone
-4780,Mega-Rage Horn,Mega-Rage Horn
+4778,Unyielding Spike,不屈的棘
+4779,Huge Wthrd. Bone,巨大風化骨
+4780,Mega-Rage Horn,超憤怒角
 4781,Goldenblack Silk,Goldenblack Silk
 4782,Ancient Debris,Ancient Debris
 4783,Dorek P Tkt,泥濘Ｐ票
@@ -4835,11 +4835,11 @@ index,source,target
 4833,Mystery Water,Mystery Water
 4834,Demonic Fungus,Demonic Fungus
 4835,Hunter's Will,Hunter's Will
-4836,Beast Horn,Beast Horn
+4836,Beast Horn,牙獸種的角
 4837,Flash Coin,Flash Coin
 4838,Shakalaka Game,Shakalaka Game
-4839,Shiny Blk Carapace,Shiny Blk Carapace
-4840,Buried Black Shell,Buried Black Shell
+4839,Shiny Blk Carapace,閃亮黑堅殼
+4840,Buried Black Shell,埋沒的黑殼
 4841,Ancient Ink,Ancient Ink
 4842,Blademaster Seal,Blademaster Seal
 4843,Gunmaster Seal,Gunmaster Seal
@@ -4921,21 +4921,21 @@ index,source,target
 4919,Protactinium Note,Protactinium Note
 4920,Fermium Note,Fermium Note
 4921,Dora Leaden Gem,Dora Leaden Gem
-4922,Dora Mystic Claw,Dora Mystic Claw
-4923,Dora Eternal Scale,Dora Eternal Scale
-4924,Gravi. Charr Shell,Gravi. Charr Shell
+4922,Dora Mystic Claw,冥雷龍的神秘爪
+4923,Dora Eternal Scale,冥雷龍的永恆鱗
+4924,Gravi. Charr Shell,鎧龍的焦殼
 4925,Gravios Heat Shl,Gravios Heat Shl
 4926,Gravi. Miracle Shl,Gravi. Miracle Shl
 4927,Bulldrome Apex Fng,Bulldrome Apex Fng
 4928,B.Drome Fierce Fng,B.Drome Fierce Fng
 4929,B.Drome ViolentFng,B.Drome ViolentFng
 4930,Akantor Death Scl,Akantor Death Scl
-4931,Akan. Corrupt Claw,Akan. Corrupt Claw
+4931,Akan. Corrupt Claw,覇龍的腐敗爪
 4932,Stately Beak,Stately Beak
 4933,Pompous Beak,Pompous Beak
 4934,4 4 0 6 Dummy,(dummy)
-4935,Horrid Twist Horn,Horrid Twist Horn
-4936,Horrid Warped Horn,Horrid Warped Horn
+4935,Horrid Twist Horn,恐怖歪角
+4936,Horrid Warped Horn,恐怖歪角
 4937,Halk Feathers [R],Halk Feathers [R]
 4938,Halk Feathers [F],Halk Feathers [F]
 4939,Halk Feathers [W],Halk Feathers [W]
@@ -4957,20 +4957,20 @@ index,source,target
 4955,Serious Drink Ice,認真飲料冰
 4956,Serious Drink Thnd,認真飲料雷
 4957,Serious Drink Drgn,認真飲料龍
-4958,Gogomoa Pelt,Gogomoa Pelt
-4959,Gogomoa Fang,Gogomoa Fang
-4960,Gogomoa Claw,Gogomoa Claw
-4961,Gogomoa Horn,Gogomoa Horn
-4962,Gogomoa Tail,Gogomoa Tail
-4963,Kokomoa Pelt,Kokomoa Pelt
-4964,Gogomoa Pelt+,Gogomoa Pelt+
-4965,Gogomoa Fang+,Gogomoa Fang+
-4966,Gogomoa Claw+,Gogomoa Claw+
-4967,Gogomoa Horn+,Gogomoa Horn+
-4968,Gogomoa Tail+,Gogomoa Tail+
-4969,Kokomoa Pelt+,Kokomoa Pelt+
+4958,Gogomoa Pelt,跳緋獸的皮
+4959,Gogomoa Fang,跳緋獸的牙
+4960,Gogomoa Claw,跳緋獸的爪
+4961,Gogomoa Horn,跳緋獸的角
+4962,Gogomoa Tail,跳緋獸的尾
+4963,Kokomoa Pelt,跳緋幼獸的皮
+4964,Gogomoa Pelt+,跳緋獸的皮＋
+4965,Gogomoa Fang+,跳緋獸的尖牙
+4966,Gogomoa Claw+,跳緋獸的尖爪
+4967,Gogomoa Horn+,跳緋獸的尖角
+4968,Gogomoa Tail+,跳緋獸的上尾
+4969,Kokomoa Pelt+,跳緋幼獸的皮＋
 4970,Gogomoa Proof,Gogomoa Proof
-4971,Pelagus Horn,Pelagus Horn
+4971,Pelagus Horn,牙獸種的角
 4972,Evasion Ⅱ PA3,Evasion Ⅱ PA3
 4973,Sleep Sword Ⅱ PA1,Sleep Sword Ⅱ PA1
 4974,Para. Sword Ⅱ PA1,Para. Sword Ⅱ PA1
@@ -5112,7 +5112,7 @@ index,source,target
 5110,Cranethroat Jewel,Cranethroat Jewel
 5111,Cat's Eye Jewel,Cat's Eye Jewel
 5112,Turtleshell Jewel,Turtleshell Jewel
-5113,E.Dragon Marrow,E.Dragon Marrow
+5113,E.Dragon Marrow,古龍種的骨髓
 5114,Throwing Knife G,投擲刀Ｇ
 5115,Knife Kit,小刀套組
 5116,Acid S,Acid S
@@ -5137,7 +5137,7 @@ index,source,target
 5135,Audi Tkt,頌歌Ｌ票
 5136,Almo Tkt,莊嚴Ｌ票
 5137,Lg. Fang Fragment,Lg. Fang Fragment
-5138,Giant Skull,Giant Skull
+5138,Giant Skull,巨大龍蝦的頭蓋
 5139,Kauchu Top Tkt,典雅頭票
 5140,Kauchu Jacket Tkt,典雅胴票
 5141,Kauchu Sleeves Tkt,典雅腕票
@@ -5233,14 +5233,14 @@ index,source,target
 5231,Apology Card Red,Apology Card Red
 5232,Fancy Book 4,Fancy Book 4
 5233,Ghost-Dragon Iron,Ghost-Dragon Iron
-5234,Dark-Dragon Bone,Dark-Dragon Bone
+5234,Dark-Dragon Bone,闇龍骨
 5235,Polyhedron Crystal,Polyhedron Crystal
 5236,Wpn Design Doc Ⅲ,Wpn Design Doc Ⅲ
 5237,Gold Fish,Gold Fish
 5238,A Sweet Time,A Sweet Time
 5239,Silken White Hair,Silken White Hair
-5240,Big Black Horn,Big Black Horn
-5241,Bloody Black Shell,Bloody Black Shell
+5240,Big Black Horn,大黑角
+5241,Bloody Black Shell,血色黑殼
 5242,Sepia Portrait,Sepia Portrait
 5243,Pisca Bait,Pisca Bait
 5244,Mirror Sheen Stone,Mirror Sheen Stone
@@ -5296,46 +5296,46 @@ index,source,target
 5294,Halk Flute・Demon,霍克笛・鬼人
 5295,Halk Flute・Armor,霍克笛・硬化
 5296,Zamuza Fungus,Zamuza Fungus
-5297,Zamuza Stoneshell,Zamuza Stoneshell
-5298,Zamuza Stoneclaw,Zamuza Stoneclaw
+5297,Zamuza Stoneshell,絶島蟹的石殼
+5298,Zamuza Stoneclaw,絶島蟹的石爪
 5299,Zamuza Orange Shl,Zamuza Orange Shl
-5300,Zamuza Orange Claw,Zamuza Orange Claw
+5300,Zamuza Orange Claw,絶島蟹的橙爪
 5301,Zamuza Hammer,Zamuza Hammer
-5302,Zamuza Carapace,Zamuza Carapace
-5303,Zamuza Claw+,Zamuza Claw+
+5302,Zamuza Carapace,絶島蟹的堅殼
+5303,Zamuza Claw+,絶島蟹的尖爪
 5304,Zamuza Thin Shl,Zamuza Thin Shl
-5305,Zamuza Thin Claw,Zamuza Thin Claw
+5305,Zamuza Thin Claw,絶島蟹的薄爪
 5306,Zamuza Drill,Zamuza Drill
 5307,Carapaceon Jewel,Carapaceon Jewel
 5308,Zamuza Proof,Zamuza Proof
-5309,Abiorugu Scale,Abiorugu Scale
-5310,Abiorugu Bone,Abiorugu Bone
-5311,Abiorugu Hide,Abiorugu Hide
-5312,Abiorugu Fang,Abiorugu Fang
-5313,Abiorugu Tail,Abiorugu Tail
-5314,Abiorugu Horn,Abiorugu Horn
-5315,Abiorugu Blood,Abiorugu Blood
-5316,Abiorugu Scale+,Abiorugu Scale+
-5317,Abiorugu Bone+,Abiorugu Bone+
-5318,Abiorugu Hide+,Abiorugu Hide+
-5319,Abiorugu Fang+,Abiorugu Fang+
-5320,Abiorugu Tail+,Abiorugu Tail+
-5321,Abiorugu Horn+,Abiorugu Horn+
-5322,Abiorugu Blood+,Abiorugu Blood+
-5323,Brute Scale,Brute Scale
-5324,Brute Scale+,Brute Scale+
-5325,Brute Hardscale,Brute Hardscale
-5326,Brute Horn,Brute Horn
-5327,Brute Horn+,Brute Horn+
-5328,Brute Hardhorn,Brute Hardhorn
-5329,Brute Fang,Brute Fang
-5330,Brute Fang+,Brute Fang+
-5331,Brute Hrd Fang,Brute Hrd Fang
-5332,Brute Tail,Brute Tail
-5333,Brute Tail+,Brute Tail+
-5334,Brute Hardtail,Brute Hardtail
+5309,Abiorugu Scale,獰龍的鱗
+5310,Abiorugu Bone,獰龍的骨
+5311,Abiorugu Hide,獰龍的皮
+5312,Abiorugu Fang,獰龍的牙
+5313,Abiorugu Tail,獰龍的尾
+5314,Abiorugu Horn,獰龍的角
+5315,Abiorugu Blood,獰龍的血
+5316,Abiorugu Scale+,獰龍的上鱗
+5317,Abiorugu Bone+,獰龍的上骨
+5318,Abiorugu Hide+,獰龍的皮＋
+5319,Abiorugu Fang+,獰龍的尖牙
+5320,Abiorugu Tail+,獰龍的上尾
+5321,Abiorugu Horn+,獰龍的尖角
+5322,Abiorugu Blood+,獰龍的血＋
+5323,Brute Scale,獸龍種的鱗
+5324,Brute Scale+,獸龍種的上鱗
+5325,Brute Hardscale,獸龍種的堅鱗
+5326,Brute Horn,獸龍種的角
+5327,Brute Horn+,獸龍種的尖角
+5328,Brute Hardhorn,獸龍種的堅角
+5329,Brute Fang,獸龍種的牙
+5330,Brute Fang+,獸龍種的尖牙
+5331,Brute Hrd Fang,獸龍種的堅牙
+5332,Brute Tail,獸龍種的尾
+5333,Brute Tail+,獸龍種的上尾
+5334,Brute Hardtail,獸龍種的堅尾
 5335,Abiorugu Proof,Abiorugu Proof
-5336,Brute Blood,Brute Blood
+5336,Brute Blood,獸龍種的血
 5337,Kuroni P Ticket,クローニＰ票
 5338,Ahaba P Ticket,アハバーＰ票
 5339,Cuff Base・Ivory,Cuff Base・Ivory
@@ -5354,8 +5354,8 @@ index,source,target
 5352,Green Volga Doll,Green Volga Doll
 5353,Prple Volga Doll,Prple Volga Doll
 5354,Immature Mussels,Immature Mussels
-5355,Solid Black Shell,Solid Black Shell
-5356,Unearthed Shell,Unearthed Shell
+5355,Solid Black Shell,堅實黑殼
+5356,Unearthed Shell,出土的甲殼
 5357,Red Tools,Red Tools
 5358,Green Tools,Green Tools
 5359,Blue Tools,Blue Tools
@@ -5370,8 +5370,8 @@ index,source,target
 5368,Sharp Light Clay,Sharp Light Clay
 5369,Fluid Stone,Fluid Stone
 5370,Autumn Hearts,Autumn Hearts
-5371,Black Double Thorn,Black Double Thorn
-5372,Big Shimmerbone,Big Shimmerbone
+5371,Black Double Thorn,黑雙棘
+5372,Big Shimmerbone,大微光骨
 5373,Wpn Design Doc α,Wpn Design Doc α
 5374,Lunar Ink,Lunar Ink
 5375,Festi Echoes Jia,Festi Echoes Jia
@@ -5420,9 +5420,9 @@ index,source,target
 5418,Pellet Add G,Pellet Add G
 5419,Laziness G,Laziness G
 5420,Fraility G,Fraility G
-5421,Teostra Sup. Wing,Teostra Sup. Wing
+5421,Teostra Sup. Wing,炎王龍的至高翼
 5422,Paria Sup. Stone,Paria Sup. Stone
-5423,Dora Sup. Scale,Dora Sup. Scale
+5423,Dora Sup. Scale,冥雷龍的至高鱗
 5424,Throwing 2 Deco,Throwing 2 Deco
 5425,Caring Deco,Caring Deco
 5426,Def Lock Deco,Def Lock Deco
@@ -5588,7 +5588,7 @@ index,source,target
 5586,Ancient Quartz,Ancient Quartz
 5587,Corum Steel Stone,Corum Steel Stone
 5588,Megolum Steel Wire,Megolum Steel Wire
-5589,Onness Fluid,Onness Fluid
+5589,Onness Fluid,奧恩内的體液
 5590,Sword Fragment,Sword Fragment
 5591,Poison Icicle,Poison Icicle
 5592,Starlight Crystal,Starlight Crystal
@@ -5614,12 +5614,12 @@ index,source,target
 5612,Refreshing Fan,Refreshing Fan
 5613,Midsummer Memories,Midsummer Memories
 5614,Mezeporta Flower,Mezeporta Flower
-5615,Shiny White Shell,Shiny White Shell
+5615,Shiny White Shell,閃亮白殼
 5616,Moonlight Sake,Moonlight Sake
 5617,Moonlight Herbs,Moonlight Herbs
-5618,Silver Wings,Silver Wings
-5619,Silver Fur,Silver Fur
-5620,Silver Wingfeather,Silver Wingfeather
+5618,Silver Wings,銀翼
+5619,Silver Fur,銀火龍的毛
+5620,Silver Wingfeather,銀翼羽
 5621,Flourish Coin,Flourish Coin
 5622,Flashing Gemstone,Flashing Gemstone
 5623,Piercing Gemstone,Piercing Gemstone
@@ -5725,28 +5725,28 @@ index,source,target
 5723,Fishing Bait G Tkn,Fishing Bait G Tkn
 5724,Bug Net G Token,Bug Net G Token
 5725,Glove G Token,Glove G Token
-5726,Pelagus Spike,Pelagus Spike
-5727,Guren Rough Horn,Guren Rough Horn
-5728,Guren Fierce Horn,Guren Fierce Horn
-5729,Guren Violent Horn,Guren Violent Horn
-5730,Rusted Heavy Wing,Rusted Heavy Wing
-5731,Rusted Lead Wing,Rusted Lead Wing
-5732,Rusted Fellwing,Rusted Fellwing
+5726,Pelagus Spike,牙獸種的棘
+5727,Guren Rough Horn,古雷恩羅烏的角
+5728,Guren Fierce Horn,猛紅蓮獅子的角
+5729,Guren Violent Horn,紅蓮獅子的狂暴角
+5730,Rusted Heavy Wing,生銹的重翼
+5731,Rusted Lead Wing,生銹的鉛翼
+5732,Rusted Fellwing,生銹的剛翼
 5733,Exercise Beads Ⅵ,Exercise Beads Ⅵ
-5734,Espi Miasma Spike,Espi Miasma Spike
-5735,Azure Ruler Scale,Azure Ruler Scale
-5736,Pink Charm Shell,Pink Charm Shell
+5734,Espi Miasma Spike,棘龍的瘴氣棘
+5735,Azure Ruler Scale,阿祖雷魯雷的鱗
+5736,Pink Charm Shell,粉紅魅力甲殼
 5737,Hypnoc Clr Bezoar,Hypnoc Clr Bezoar
-5738,Kuaru Scale,Kuaru Scale
-5739,Kuaru Claw,Kuaru Claw
-5740,Kuaru Hide,Kuaru Hide
-5741,Kuaru Shard,Kuaru Shard
+5738,Kuaru Scale,晶龍的鱗
+5739,Kuaru Claw,晶龍的爪
+5740,Kuaru Hide,晶龍的皮
+5741,Kuaru Shard,晶龍的厚鱗
 5742,Kuaru Beam Crystal,Kuaru Beam Crystal
-5743,Leviathan Scale,Leviathan Scale
-5744,Leviathan Scale+,Leviathan Scale+
-5745,Leviathan Shard,Leviathan Shard
-5746,Leviathan Hide,Leviathan Hide
-5747,Leviathan Hide+,Leviathan Hide+
+5743,Leviathan Scale,海龍種的鱗
+5744,Leviathan Scale+,海龍種的上鱗
+5745,Leviathan Shard,海龍種的厚鱗
+5746,Leviathan Hide,海龍種的皮
+5747,Leviathan Hide+,海龍種的皮＋
 5748,Leviathan Piel,Leviathan Piel
 5749,Leviathan Jewel,Leviathan Jewel
 5750,Kuaru Proof,Kuaru Proof
@@ -5763,7 +5763,7 @@ index,source,target
 5761,Intro Special Bag,Intro Special Bag
 5762,Halk Ball [Poison],Halk Ball [Poison]
 5763,Millennium Rice,Millennium Rice
-5764,Silver Liver,Silver Liver
+5764,Silver Liver,銀火龍的肝
 5765,Tuna Blowfish,Tuna Blowfish
 5766,Thin Wyvern Cut,Thin Wyvern Cut
 5767,Rainbow Lettuce,Rainbow Lettuce
@@ -6033,8 +6033,8 @@ index,source,target
 6031,Sonic Gear,音波裝置
 6032,Fancy Book 6,Fancy Book 6
 6033,Akura Jebia Hymn,Akura Jebia Hymn
-6034,Black Beast Fur,Black Beast Fur
-6035,Eternal Ice Fang,Eternal Ice Fang
+6034,Black Beast Fur,黑獸的毛
+6035,Eternal Ice Fang,永氷的牙
 6036,Conductive Padding,Conductive Padding
 6037,Magudaora Alloy,Magudaora Alloy
 6038,Suspicious Parts,Suspicious Parts
@@ -6112,8 +6112,8 @@ index,source,target
 6110,Mounto Tkt,マウント票
 6111,Grande Tkt,グランデ票
 6112,Lavia Tkt,ラヴィア票
-6113,Black Wyvern Claw,Black Wyvern Claw
-6114,Boiling Blood,Boiling Blood
+6113,Black Wyvern Claw,黑龍的爪
+6114,Boiling Blood,博伊利恩的血
 6115,Dummy 6115,Dummy 6115
 6116,Dragoon Tkt,惡龍票
 6117,L Burst Tkt,Ｌ爆破票
@@ -6139,23 +6139,23 @@ index,source,target
 6137,Realgar Jewel,Realgar Jewel
 6138,Orchid Jewel,Orchid Jewel
 6139,Lime Jewel,Lime Jewel
-6140,Odi Cannon Shell,Odi Cannon Shell
-6141,Odi Iron Scale,Odi Iron Scale
-6142,Odi Gnashing Jaw,Odi Gnashing Jaw
-6143,Odi Tall Horn,Odi Tall Horn
-6144,Odi Shredclaw,Odi Shredclaw
-6145,Odi Grand Spike,Odi Grand Spike
+6140,Odi Cannon Shell,弩岩龍的砲殼
+6141,Odi Iron Scale,奧迪伊羅恩的鱗
+6142,Odi Gnashing Jaw,弩岩龍的咬顎
+6143,Odi Tall Horn,奧迪塔的角
+6144,Odi Shredclaw,弩岩龍的裂爪
+6145,Odi Grand Spike,奧迪格拉恩的棘
 6146,Odi Repel Proof,Odi Repel Proof
 6147,Odi Slay Proof,Odi Slay Proof
-6148,Odi Supreme Scale,Odi Supreme Scale
-6149,Gogo Scarlet Fur,Gogo Scarlet Fur
-6150,Gogo Fierce Fur,Gogo Fierce Fur
-6151,Gogo Thickfur,Gogo Thickfur
+6148,Odi Supreme Scale,弩岩龍的至高鱗
+6149,Gogo Scarlet Fur,緋紅戈戈的毛
+6150,Gogo Fierce Fur,猛烈戈戈的毛
+6151,Gogo Thickfur,厚戈戈的毛
 6152,Beru Thunder Scl,Beru Thunder Scl
 6153,Beru Phosphor Scl,Beru Phosphor Scl
 6154,Gaudy Beak,Gaudy Beak
 6155,Crimson Belly Hair,Crimson Belly Hair
-6156,Sharp Twisted Horn,Sharp Twisted Horn
+6156,Sharp Twisted Horn,鋭利歪角
 6157,HC Crystal White ,HC Crystal White 
 6158,HC Crystal Green ,HC Crystal Green 
 6159,HC Crystal Cyan ,HC Crystal Cyan 
@@ -6390,7 +6390,7 @@ index,source,target
 6388,Def Lock II SC3,Def Lock II SC3
 6389,Def Lock II SC4,Def Lock II SC4
 6390,Def Lock II SC5,Def Lock II SC5
-6391,Carapaceon Fluid,Carapaceon Fluid
+6391,Carapaceon Fluid,甲殼種的體液
 6392,M. Cat's Favourite,M. Cat's Favourite
 6393,Exercise Pearl Ⅶ,Exercise Pearl Ⅶ
 6394,Fort C Tkt,要塞Ｃ票
@@ -6430,9 +6430,9 @@ index,source,target
 6428,Cross Tkt Arms,勝利腕票
 6429,Cross Tkt Waist,勝利腰票
 6430,Cross Tkt Legs,勝利脚票
-6431,Goruganos Scale,Goruganos Scale
+6431,Goruganos Scale,戈魯加諾的鱗
 6432,Goruganos Scle+,Goruganos Scle+
-6433,Aruganos Scale,Aruganos Scale
+6433,Aruganos Scale,阿魯加諾的鱗
 6434,Aruganos Scle+,Aruganos Scle+
 6435,Piscine Drilltusk,Piscine Drilltusk
 6436,Piscine Greatfin,Piscine Greatfin
@@ -6466,7 +6466,7 @@ index,source,target
 6464,Gesture・LBG Ⅱ,Gesture・LBG Ⅱ
 6465,Gesture・SnS Ⅱ,Gesture・SnS Ⅱ
 6466,Gesture・LS Ⅱ,Gesture・LS Ⅱ
-6467,Valorant Crest,Valorant Crest
+6467,Valorant Crest,阿洛拉恩的冠
 6468,Valorant Plume,Valorant Plume
 6469,Admirable Shinobi,Admirable Shinobi
 6470,Firth Tkt,ファース票
@@ -6642,149 +6642,149 @@ index,source,target
 6640,G Rage・Attack,G Rage・Attack
 6641,G Rage・Issen,G Rage・Issen
 6642,dummy 6642,dummy 6642
-6643,Kut-Ku Bone,Kut-Ku Bone
+6643,Kut-Ku Bone,怪鳥的骨
 6644,Kut-Ku Hollow Beak,Kut-Ku Hollow Beak
 6645,K.Ku Bewitchng Ear,K.Ku Bewitchng Ear
-6646,Hrm.Shield Claw,Hrm.Shield Claw
+6646,Hrm.Shield Claw,希艾的爪
 6647,Hrm.Eternal Claw,Hrm.Eternal Claw
 6648,Hermitaur Feeler,Hermitaur Feeler
-6649,Pokaradon Bone,Pokaradon Bone
-6650,Pokaradon Claw,Pokaradon Claw
-6651,Pokaradon Tusk,Pokaradon Tusk
+6649,Pokaradon Bone,凍海獸的骨
+6650,Pokaradon Claw,凍海獸的爪
+6651,Pokaradon Tusk,波可拉多恩的牙
 6652,Pokaradon Ice Tear,Pokaradon Ice Tear
-6653,Pokaradon Tail,Pokaradon Tail
-6654,Pokaradon Hide,Pokaradon Hide
+6653,Pokaradon Tail,凍海獸的尾
+6654,Pokaradon Hide,凍海獸的皮
 6655,GR1 Gem,GR1 Gem
 6656,Rubbery Everhide,Rubbery Everhide
 6657,Inexhaustive Fluid,Inexhaustive Fluid
 6658,Gyp.Radiant Stone,Gyp.Radiant Stone
-6659,Conga. Everpelt,Conga. Everpelt
+6659,Conga. Everpelt,桃毛獸的永皮
 6660,Lovely Pelt,Lovely Pelt
-6661,Conga.Sharp Claws,Conga.Sharp Claws
-6662,Farunokku Claw,Farunokku Claw
-6663,Farunokku Hide,Farunokku Hide
+6661,Conga.Sharp Claws,桃毛獸的鋭爪
+6662,Farunokku Claw,傾雷鳥的爪
+6663,Farunokku Hide,傾雷鳥的皮
 6664,Far.Rainbow Tail,Far.Rainbow Tail
 6665,Far.Thunder Hide,Far.Thunder Hide
 6666,Farunokku Beak,Farunokku Beak
-6667,Farunokku Tail,Farunokku Tail
+6667,Farunokku Tail,傾雷鳥的尾
 6668,GR2 Gem,GR2 Gem
 6669,Bas.Glitter Shell,Bas.Glitter Shell
-6670,Basarios Direwing,Basarios Direwing
+6670,Basarios Direwing,岩龍的兇翼
 6671,Basarios Head,Basarios Head
 6672,Rath.Glitter Scale,Rath.Glitter Scale
-6673,Rathian Toxi Spike,Rathian Toxi Spike
+6673,Rathian Toxi Spike,雌火龍的毒棘
 6674,Rath.Wicked Plate,Rath.Wicked Plate
 6675,Cean.Glisten Shell,Cean.Glisten Shell
 6676,Cean.Scissor Claw,Cean.Scissor Claw
 6677,Cean.Honed Blade,Cean.Honed Blade
-6678,Hyuji Bristle Pelt,Hyuji Bristle Pelt
-6679,Hyuji Fang,Hyuji Fang
-6680,Hyuji Thorn Spike,Hyuji Thorn Spike
+6678,Hyuji Bristle Pelt,針纏龍的剛毛皮
+6679,Hyuji Fang,針纏龍的牙
+6680,Hyuji Thorn Spike,針纏龍的刺棘
 6681,Hyuji Red Needle,Hyuji Red Needle
-6682,Hyuji Tail,Hyuji Tail
-6683,Hyuji Horn,Hyuji Horn
+6682,Hyuji Tail,針纏龍的尾
+6683,Hyuji Horn,針纏龍的角
 6684,GR3 Gem,GR3 Gem
-6685,Los.Wthrd Scale,Los.Wthrd Scale
+6685,Los.Wthrd Scale,洛的鱗
 6686,Los.Deep Marrow,Los.Deep Marrow
 6687,Los.Prisma Blood,Los.Prisma Blood
 6688,Blng.Glacial Hide,Blng.Glacial Hide
 6689,Blng.Thick Tail,Blng.Thick Tail
 6690,Blng.Aged Beard,Blng.Aged Beard
 6691,Blng.Berg Fang,Blng.Berg Fang
-6692,Khezu Aged Hide,Khezu Aged Hide
+6692,Khezu Aged Hide,赫祖阿蓋的皮
 6693,Khezu Soul Extract,Khezu Soul Extract
-6694,Khezu Azure Hide,Khezu Azure Hide
-6695,Gravios Lord Bone,Gravios Lord Bone
-6696,Gravios Liver,Gravios Liver
+6694,Khezu Azure Hide,赫祖阿祖雷的皮
+6695,Gravios Lord Bone,鎧龍的主骨
+6696,Gravios Liver,鎧龍的肝
 6697,Gravios Bulwark,Gravios Bulwark
-6698,Mido.Heat Pelt,Mido.Heat Pelt
-6699,Midogaron Fang,Midogaron Fang
+6698,Mido.Heat Pelt,米多赫阿的皮
+6699,Midogaron Fang,爆狼的牙
 6700,Mido.Fire Tendon,Mido.Fire Tendon
 6701,Mido.Lava Claw,Mido.Lava Claw
 6702,Midogaron Mane,Midogaron Mane
-6703,Midogaron Spike,Midogaron Spike
+6703,Midogaron Spike,爆狼的棘
 6704,GR4 Gem,GR4 Gem
 6705,Espi.Eternal Thorn,Espi.Eternal Thorn
-6706,Espinas Thorn,Espinas Thorn
-6707,Espinas Dark Shell,Espinas Dark Shell
+6706,Espinas Thorn,棘龍的棘
+6707,Espinas Dark Shell,棘龍的闇殼
 6708,Volg.Scoria Scale,Volg.Scoria Scale
 6709,Volg.Solid Fang,Volg.Solid Fang
 6710,Volg.Magma Fin,Volg.Magma Fin
-6711,Paria Supreme Hide,Paria Supreme Hide
-6712,Paria Durable Bone,Paria Durable Bone
+6711,Paria Supreme Hide,至高呑龍的皮
+6712,Paria Durable Bone,耐久呑龍的骨
 6713,Par.Thick Mucus,Par.Thick Mucus
 6714,Tgrx.Supreme Scale,Tgrx.Supreme Scale
 6715,Tgrx.FierceWebbing,Tgrx.FierceWebbing
-6716,Tigrex Great Fang,Tigrex Great Fang
-6717,Giaorugu Scale,Giaorugu Scale
-6718,Giaorugu Hide,Giaorugu Hide
-6719,Giaorugu Horn,Giaorugu Horn
-6720,Giaorugu Blood,Giaorugu Blood
-6721,Giaorugu Fang,Giaorugu Fang
-6722,Giaorugu Tail,Giaorugu Tail
+6716,Tigrex Great Fang,轟龍的大牙
+6717,Giaorugu Scale,冰獰龍的鱗
+6718,Giaorugu Hide,冰獰龍的皮
+6719,Giaorugu Horn,冰獰龍的角
+6720,Giaorugu Blood,冰獰龍的血
+6721,Giaorugu Fang,冰獰龍的牙
+6722,Giaorugu Tail,冰獰龍的尾
 6723,GR5 Gem,GR5 Gem
-6724,Rajang Mystic Fang,Rajang Mystic Fang
-6725,Pure Gold Pelt,Pure Gold Pelt
-6726,Rajang Blood,Rajang Blood
-6727,Rajang Mystic Horn,Rajang Mystic Horn
+6724,Rajang Mystic Fang,神秘金獅子的牙
+6725,Pure Gold Pelt,普雷戈的皮
+6726,Rajang Blood,金獅子的血
+6727,Rajang Mystic Horn,神秘金獅子的角
 6728,Vash. Apex Crystal,Vash. Apex Crystal
 6729,Vash. Demise Claw,Vash. Demise Claw
-6730,Vashimu Rare Fluid,Vashimu Rare Fluid
+6730,Vashimu Rare Fluid,阿希穆拉雷的體液
 6731,Vash. Solid Tail,Vash. Solid Tail
-6732,Garuga Crazy Shell,Garuga Crazy Shell
+6732,Garuga Crazy Shell,黑狼鳥的狂殼
 6733,Garuga Dark Weave,Garuga Dark Weave
-6734,Garuga Rend Claw,Garuga Rend Claw
-6735,Guren Wrath Shell,Guren Wrath Shell
-6736,Guren Rage Horn,Guren Rage Horn
-6737,Guren Fierce Tail,Guren Fierce Tail
-6738,Guren Brute Spike,Guren Brute Spike
+6734,Garuga Rend Claw,黑狼鳥的裂爪
+6735,Guren Wrath Shell,紅蓮獅子的憤怒殼
+6736,Guren Rage Horn,怒紅蓮獅子的角
+6737,Guren Fierce Tail,猛紅蓮獅子的尾
+6738,Guren Brute Spike,古雷恩布魯特的棘
 6739,Dyura Frozen Shard,Dyura Frozen Shard
-6740,Dyura Frost Cortex,Dyura Frost Cortex
-6741,Dyura Chill Spike,Dyura Chill Spike
-6742,Anoru Fang,Anoru Fang
-6743,Anour Shell,Anour Shell
-6744,Anoru Horn,Anoru Horn
+6740,Dyura Frost Cortex,霜凍戈龍的重殼
+6741,Dyura Chill Spike,尤拉奇的棘
+6742,Anoru Fang,暴鋸龍的牙
+6743,Anour Shell,阿諾烏的甲殼
+6744,Anoru Horn,暴鋸龍的角
 6745,Anoru Glare,Anoru Glare
-6746,Anoru Tail,Anoru Tail
-6747,Anoru Webbing,Anoru Webbing
+6746,Anoru Tail,暴鋸龍的尾
+6747,Anoru Webbing,暴鋸龍的翼膜
 6748,GR7 Gem,GR7 Gem
-6749,Scorch Sac,Scorch Sac
-6750,Tsunami Sac,Tsunami Sac
-6751,Typhoon Sac,Typhoon Sac
+6749,Scorch Sac,焦熱袋
+6750,Tsunami Sac,蘇納米的袋
+6751,Typhoon Sac,霍奧恩的袋
 6752,Permafrost Sac,Permafrost Sac
 6753,Miasma Sac,Miasma Sac
 6754,Immobilizing Sac,Immobilizing Sac
 6755,Deep Coma Sac,Deep Coma Sac
-6756,Wyvern Tail,Wyvern Tail
-6757,Wyvern Wing,Wyvern Wing
-6758,Wyvern Tail+,Wyvern Tail+
-6759,Wyvern Wing+,Wyvern Wing+
+6756,Wyvern Tail,龍的尾
+6757,Wyvern Wing,龍的翼
+6758,Wyvern Tail+,龍的上尾
+6759,Wyvern Wing+,龍的上翼
 6760,Mi-Ru Enigma Scale,Mi-Ru Enigma Scale
-6761,Mi-Ru Onyx Shell,Mi-Ru Onyx Shell
+6761,Mi-Ru Onyx Shell,米魯奧恩的甲殼
 6762,Mi-Ru Crystal,Mi-Ru Crystal
-6763,Mi-Ru Blood,Mi-Ru Blood
+6763,Mi-Ru Blood,黑狐龍的血
 6764,Mi-Ru Obscure Horn,Mi-Ru Obscure Horn
-6765,Mi-Ru Spike,Mi-Ru Spike
-6766,Rebidiora Shard,Rebidiora Shard
-6767,Rebidiora Cortex,Rebidiora Cortex
+6765,Mi-Ru Spike,黑狐龍的棘
+6766,Rebidiora Shard,雷極龍的厚鱗
+6767,Rebidiora Cortex,雷極龍的重殼
 6768,Rebidiora Weave,Rebidiora Weave
 6769,Magnetic Stone,Magnetic Stone
-6770,Rebidiora Horn,Rebidiora Horn
-6771,Rebidiora Lash,Rebidiora Lash
+6770,Rebidiora Horn,雷極龍的角
+6771,Rebidiora Lash,雷極龍的靭尾
 6772,Rebidiora Direwing,Rebidiora Direwing
-6773,Shanthien Shard,Shanthien Shard
-6774,Shanthien Cortex,Shanthien Cortex
+6773,Shanthien Shard,天翔龍的厚鱗
+6774,Shanthien Cortex,天翔龍的重殼
 6775,Shanthien Piel,Shanthien Piel
 6776,Shanthien Crystal,Shanthien Crystal
-6777,Shanthien Hardhorn,Shanthien Hardhorn
-6778,Shan.Air Shell,Shan.Air Shell
+6777,Shanthien Hardhorn,天翔龍的堅角
+6778,Shan.Air Shell,夏納伊的甲殼
 6779,Shanthien Ripper,Shanthien Ripper
 6780,Disu.Fire Plate,Disu.Fire Plate
 6781,Disu.Ice Plate,Disu.Ice Plate
 6782,Disufiroa Talon,Disufiroa Talon
 6783,Skyslasher,Skyslasher
 6784,Ivory Dgnsphire,Ivory Dgnsphire
-6785,Disufiroa Fellwing,Disufiroa Fellwing
+6785,Disufiroa Fellwing,熾凍龍的剛翼
 6786,Disufiroa Diretail,Disufiroa Diretail
 6787,Gesture・DS Ⅱ,Gesture・DS Ⅱ
 6788,Gesture・Hammer Ⅱ,Gesture・Hammer Ⅱ
@@ -6798,12 +6798,12 @@ index,source,target
 6796,Herb. Shine Shell,Herb. Shine Shell
 6797,Unique Animal Bone,Unique Animal Bone
 6798,Fine Beast Hair,Fine Beast Hair
-6799,Beast Blood,Beast Blood
-6800,Heavy Wyvern Hide,Heavy Wyvern Hide
+6799,Beast Blood,牙獸種的血
+6800,Heavy Wyvern Hide,重龍的皮
 6801,Flying Wyvern Arm,Flying Wyvern Arm
 6802,Fly.Wyvern Tongue,Fly.Wyvern Tongue
-6803,Piscine Great Fin,Piscine Great Fin
-6804,Piscine Great Fang,Piscine Great Fang
+6803,Piscine Great Fin,大魚龍種的鰭
+6804,Piscine Great Fang,大魚龍種的牙
 6805,Piscine Great Scl,Piscine Great Scl
 6806,Insect Bladeshell,Insect Bladeshell
 6807,Poison Stinger,Poison Stinger
@@ -6812,13 +6812,13 @@ index,source,target
 6810,Clean Junk,Clean Junk
 6811,Shakalaka Bomb,奇面族爆彈
 6812,Jagged Tusks,Jagged Tusks
-6813,Rough Scale,Rough Scale
+6813,Rough Scale,羅烏的鱗
 6814,Bird Wyvern Talon,Bird Wyvern Talon
 6815,Bug Small Legs,Bug Small Legs
 6816,Red Pearl,Red Pearl
 6817,Stoneshell Crab,Stoneshell Crab
-6818,Pokara Fang,Pokara Fang
-6819,Pokara Hide,Pokara Hide
+6818,Pokara Fang,凍冰獸的牙
+6819,Pokara Hide,凍冰獸的皮
 6820,Pokara Blubber,Pokara Blubber
 6821,Pepper Bug,Pepper Bug
 6822,Fatty Blowfish,Fatty Blowfish
@@ -6827,7 +6827,7 @@ index,source,target
 6825,Fist Rice,Fist Rice
 6826,Round Egg,Round Egg
 6827,Gyre Cucumber,Gyre Cucumber
-6828,Gold Extract,Gold Extract
+6828,Gold Extract,金色的精華
 6829,Predator Honey,Predator Honey
 6830,Dazzling Shard,Dazzling Shard
 6831,GW Ticket,ＧＷ票
@@ -6876,16 +6876,16 @@ index,source,target
 6874,Dummy 6674,Dummy 6674
 6875,Dummy 6675,Dummy 6675
 6876,Dummy 6676,Dummy 6676
-6877,Deviljho Scale,Deviljho Scale
-6878,Deviljho Hide,Deviljho Hide
-6879,Deviljho Fang,Deviljho Fang
+6877,Deviljho Scale,恐暴龍的鱗
+6878,Deviljho Hide,恐暴龍的皮
+6879,Deviljho Fang,恐暴龍的牙
 6880,Deviljho talon,Deviljho talon
 6881,Deviljho Scalp,Deviljho Scalp
-6882,Deviljho Tail,Deviljho Tail
-6883,Deviljho Gem,Deviljho Gem
-6884,Deviljho Shard,Deviljho Shard
+6882,Deviljho Tail,恐暴龍的尾
+6883,Deviljho Gem,恐暴龍的寶玉
+6884,Deviljho Shard,恐暴龍的厚鱗
 6885,Deviljho Coat,Deviljho Coat
-6886,Deviljho Hardfang,Deviljho Hardfang
+6886,Deviljho Hardfang,恐暴龍的堅牙
 6887,Deviljho Ripper,Deviljho Ripper
 6888,Deviljho Flail,Deviljho Flail
 6889,Deviljho Crook,Deviljho Crook
@@ -6988,24 +6988,24 @@ index,source,target
 6986,Poison,Poison
 6987,Kut-Ku Fine Scale,Kut-Ku Fine Scale
 6988,Hermitaur Scissor,Hermitaur Scissor
-6989,Gypceros Hard Claw,Gypceros Hard Claw
+6989,Gypceros Hard Claw,毒怪鳥的堅爪
 6990,Congalala Shredder,Congalala Shredder
 6991,Basarios Teardrop,Basarios Teardrop
-6992,Rathian Shineshell,Rathian Shineshell
+6992,Rathian Shineshell,雌火龍的輝殼
 6993,Shogun Great Leg,Shogun Great Leg
-6994,Blango Prime Fang,Blango Prime Fang
+6994,Blango Prime Fang,雪獅子的極牙
 6995,Khezu Membrane,Khezu Membrane
-6996,Gravios Mega Shell,Gravios Mega Shell
+6996,Gravios Mega Shell,鎧龍的大殼
 6997,Los Great Shell,Los Great Shell
 6998,Espi Eternal Scale,Espi Eternal Scale
 6999,Volga Divine Fin,Volga Divine Fin
-7000,Paria Supreme Fang,Paria Supreme Fang
-7001,Tigrex Mega Claw,Tigrex Mega Claw
-7002,Rajang Everhide,Rajang Everhide
-7003,Garuga Powerscale,Garuga Powerscale
+7000,Paria Supreme Fang,至高呑龍的牙
+7001,Tigrex Mega Claw,轟龍的大爪
+7002,Rajang Everhide,金獅子的永皮
+7003,Garuga Powerscale,黑狼鳥的力鱗
 7004,Dyura Powerclaw,Dyura Powerclaw
-7005,Vashimu Mega Shell,Vashimu Mega Shell
-7006,Guren Death Scale,Guren Death Scale
+7005,Vashimu Mega Shell,阿希穆梅加的甲殼
+7006,Guren Death Scale,古雷恩德阿的鱗
 7007,G Weapon Kit,G Weapon Kit
 7008,G Armor Kit,G Armor Kit
 7009,Hades Inter. Tkt,ハデスインター票
@@ -7018,7 +7018,7 @@ index,source,target
 7016,Sharp Fang Shard,Sharp Fang Shard
 7017,Ice Scales,Ice Scales
 7018,Ice Petals,Ice Petals
-7019,Andradite Shard,Andradite Shard
+7019,Andradite Shard,阿恩德拉迪特的厚鱗
 7020,Twisted Hachimaki,Twisted Hachimaki
 7021,Bright Red Happi,Bright Red Happi
 7022,Gold Mikoshi Decor,Gold Mikoshi Decor
@@ -7035,11 +7035,11 @@ index,source,target
 7033,Huge Pierced Bone,Huge Pierced Bone
 7034,Old Keel Bone,Old Keel Bone
 7035,Old Beast Bone,Old Beast Bone
-7036,Luminous Scale,Luminous Scale
+7036,Luminous Scale,魯米諾烏的鱗
 7037,Rusty Old Lantern,Rusty Old Lantern
 7038,Fine Handkerchief,Fine Handkerchief
 7039,Weathered Leather,Weathered Leather
-7040,Warm Fur,Warm Fur
+7040,Warm Fur,瓦的毛
 7041,Basic Sigil Mat,Basic Sigil Mat
 7042,Dummy 7042,Dummy 7042
 7043,Card Ore Violet,Card Ore Violet
@@ -7125,7 +7125,7 @@ index,source,target
 7123,1k Gz Cheque,1k Gz Cheque
 7124,Soft Cloth,Soft Cloth
 7125,Light Colour Dye,Light Colour Dye
-7126,Damaged Scale,Damaged Scale
+7126,Damaged Scale,達瑪蓋的鱗
 7127,Delicate Blossom,Delicate Blossom
 7128,Saint Ore,Saint Ore
 7129,Wire Worm,Wire Worm
@@ -7135,9 +7135,9 @@ index,source,target
 7133,Chipped Fang,Chipped Fang
 7134,Chipped Bone,Chipped Bone
 7135,Chipped Claw,Chipped Claw
-7136,Broken Fang,Broken Fang
-7137,Broken Bone,Broken Bone
-7138,Broken Claw,Broken Claw
+7136,Broken Fang,羅凱恩的牙
+7137,Broken Bone,羅凱恩的骨
+7138,Broken Claw,羅凱恩的爪
 7139,Supr.Proof-Red,Supr.Proof-Red
 7140,Supr.Proof-Blue,Supr.Proof-Blue
 7141,Supr.Proof-Yellow,Supr.Proof-Yellow
@@ -7286,33 +7286,33 @@ index,source,target
 7284,Hermitaur Armor,Hermitaur Armor
 7285,Conga.Polished Fng,Conga.Polished Fng
 7286,Gypceros Ven.Tail,Gypceros Ven.Tail
-7287,Basarios Ven.Shell,Basarios Ven.Shell
+7287,Basarios Ven.Shell,岩龍的毒殼
 7288,Ceanataur Katana,Ceanataur Katana
 7289,Elastic Hide,Elastic Hide
 7290,Tigrex Tiger Skin,Tigrex Tiger Skin
 7291,Paria Stone,Paria Stone
 7292,Gravios Magma Ore,Gravios Magma Ore
 7293,Volg.Fierce Fang,Volg.Fierce Fang
-7294,Espinas Tox.Thorn,Espinas Tox.Thorn
+7294,Espinas Tox.Thorn,棘龍的毒刺
 7295,Raj.Boiling Blood,Raj.Boiling Blood
-7296,Guren Rage Spike,Guren Rage Spike
+7296,Guren Rage Spike,怒紅蓮獅子的棘
 7297,Dyuragaua Hvy.Tail,Dyuragaua Hvy.Tail
-7298,Garuga Iron Cortex,Garuga Iron Cortex
+7298,Garuga Iron Cortex,加魯加伊羅恩的重殼
 7299,Gougarf Strong Arm,Gougarf Strong Arm
 7300,Gougarf Proof,Gougarf Proof
-7301,Lolo Pelt,Lolo Pelt
-7302,Ray Pelt,Ray Pelt
-7303,Gougarf Marrow,Gougarf Marrow
-7304,Gougarf Tail,Gougarf Tail
+7301,Lolo Pelt,洛洛的皮
+7302,Ray Pelt,拉的皮
+7303,Gougarf Marrow,鬥獸的骨髓
+7304,Gougarf Tail,鬥獸的尾
 7305,Gougarf Mane,Gougarf Mane
 7306,Magnetic Iron,Magnetic Iron
-7307,White Lolo Pelt,White Lolo Pelt
+7307,White Lolo Pelt,希特洛洛的皮
 7308,Black Ray Pelt,Black Ray Pelt
 7309,Gougarf Piel,Gougarf Piel
-7310,Gougarf Lash,Gougarf Lash
-7311,Gougarf Jaw,Gougarf Jaw
+7310,Gougarf Lash,鬥獸的靭尾
+7311,Gougarf Jaw,鬥獸的顎
 7312,Gougarf Hematite,Gougarf Hematite
-7313,Gougarf Heart,Gougarf Heart
+7313,Gougarf Heart,鬥獸的心臟
 7314,Pics Tkt Head,精靈頭票
 7315,Pics Tkt Torso,精靈胴票
 7316,Pics Tkt Arms,精靈腕票
@@ -8074,7 +8074,7 @@ index,source,target
 8072,Warm Honey Tea,Warm Honey Tea
 8073,Small Flower Seeds,Small Flower Seeds
 8074,Still Life Collect,Still Life Collect
-8075,Akura Poison Fur,Akura Poison Fur
+8075,Akura Poison Fur,阿庫拉波伊索恩的毛
 8076,Akura Lightcrystal,Akura Lightcrystal
 8077,Vash. Conc Fluid,Vash. Conc Fluid
 8078,B.Gravios Red Mrw,B.Gravios Red Mrw
@@ -8083,96 +8083,96 @@ index,source,target
 8081,Black Gravios Core,Black Gravios Core
 8082,C.Drome Shield Scl,C.Drome Shield Scl
 8083,C.Drome Indigo Scl,C.Drome Indigo Scl
-8084,Cephadrome R.Scale,Cephadrome R.Scale
-8085,Cephadrome Plate,Cephadrome Plate
-8086,Gold Rathian Plate,Gold Rathian Plate
+8084,Cephadrome R.Scale,沙龍王的紅鱗
+8085,Cephadrome Plate,沙龍王的逆鱗
+8086,Gold Rathian Plate,金火龍的逆鱗
 8087,Gold Rathian Ruby,Gold Rathian Ruby
-8088,Velocidrome Sac,Velocidrome Sac
+8088,Velocidrome Sac,藍速龍王的袋
 8089,Plesioth Bub.Gem,Plesioth Bub.Gem
 8090,Berukyurosu Tears,Berukyurosu Tears
-8091,Barur.Fluid Sac,Barur.Fluid Sac
-8092,Velocidrome Scale,Velocidrome Scale
-8093,Velocidrome Fang,Velocidrome Fang
-8094,Velocidrome Crest,Velocidrome Crest
-8095,Velocidrome Bone,Velocidrome Bone
-8096,Gendrome Scale,Gendrome Scale
-8097,Gendrome Fang,Gendrome Fang
-8098,Gendrome Crest,Gendrome Crest
-8099,Gendrome Claw,Gendrome Claw
-8100,Iodrome Scale,Iodrome Scale
-8101,Iodrome Bone,Iodrome Bone
-8102,Iodrome Crest,Iodrome Crest
-8103,Iodrome Fang,Iodrome Fang
+8091,Barur.Fluid Sac,噬血龍的液袋
+8092,Velocidrome Scale,藍速龍王的鱗
+8093,Velocidrome Fang,藍速龍王的牙
+8094,Velocidrome Crest,藍速龍王的冠
+8095,Velocidrome Bone,藍速龍王的骨
+8096,Gendrome Scale,黄速龍王的鱗
+8097,Gendrome Fang,黄速龍王的牙
+8098,Gendrome Crest,黄速龍王的冠
+8099,Gendrome Claw,黄速龍王的爪
+8100,Iodrome Scale,紅速龍王的鱗
+8101,Iodrome Bone,紅速龍王的骨
+8102,Iodrome Crest,紅速龍王的冠
+8103,Iodrome Fang,紅速龍王的牙
 8104,Plesioth Elder Fng,Plesioth Elder Fng
 8105,Plesi.Ancient Fin,Plesi.Ancient Fin
 8106,Massive LobsterShl,Massive LobsterShl
-8107,Plesioth T.Webbing,Plesioth T.Webbing
-8108,Diablos Old Shell,Diablos Old Shell
+8107,Plesioth T.Webbing,水龍的厚翼膜
+8108,Diablos Old Shell,角龍的舊殼
 8109,Blos Tempered Fng,Blos Tempered Fng
-8110,Diablos Temp.Horn,Diablos Temp.Horn
+8110,Diablos Temp.Horn,角龍的暴角
 8111,Blos Symmetry Horn,Blos Symmetry Horn
 8112,Beru. Supreme Shl,Beru. Supreme Shl
 8113,Beru. Supreme Scl,Beru. Supreme Scl
 8114,Beru. Medulla,Beru. Medulla
-8115,Beru Flawless Horn,Beru Flawless Horn
+8115,Beru Flawless Horn,舞雷龍的無瑕角
 8116,C.Drome Elder Fang,C.Drome Elder Fang
 8117,C.Drome Elder Fin,C.Drome Elder Fin
-8118,Cephadrome G.Fin,Cephadrome G.Fin
+8118,Cephadrome G.Fin,沙龍王的偉鰭
 8119,C.Drome Shiny Scl,C.Drome Shiny Scl
 8120,B.Gravi Evershell,B.Gravi Evershell
 8121,B.Gravi Everbone,B.Gravi Everbone
 8122,B.Gravios Bulwark,B.Gravios Bulwark
-8123,B.Gravios Wing,B.Gravios Wing
-8124,G.Rath Shard,G.Rath Shard
-8125,G.Rath Cortex,G.Rath Cortex
+8123,B.Gravios Wing,黑鎧龍的翼
+8124,G.Rath Shard,金火龍的厚鱗
+8125,G.Rath Cortex,金火龍的重殼
 8126,G.Rath Direspike,G.Rath Direspike
-8127,G.Rath Mantle,G.Rath Mantle
-8128,Fatalis Cortex,Fatalis Cortex
-8129,Fatalis Hardhorn,Fatalis Hardhorn
-8130,Fatalis Fellwing,Fatalis Fellwing
+8127,G.Rath Mantle,金火龍的天鱗
+8128,Fatalis Cortex,黑龍的重殼
+8129,Fatalis Hardhorn,黑龍的堅角
+8130,Fatalis Fellwing,黑龍的剛翼
 8131,Fatalis Devil Eye,Fatalis Devil Eye
-8132,Fatalis Gem,Fatalis Gem
+8132,Fatalis Gem,黑龍的寶玉
 8133,Black Drgnsphire,Black Drgnsphire
-8134,Zeru Shard,Zeru Shard
-8135,Zeru Cortex,Zeru Cortex
-8136,Zeru Marrow,Zeru Marrow
+8134,Zeru Shard,輝界龍的厚鱗
+8135,Zeru Cortex,輝界龍的重殼
+8136,Zeru Marrow,輝界龍的骨髓
 8137,Zeru Sapphire,Zeru Sapphire
-8138,Zeru Lash,Zeru Lash
-8139,Zeru Blunt Horn,Zeru Blunt Horn
-8140,Zeru Light Wing,Zeru Light Wing
-8141,Zeru Shineclaw,Zeru Shineclaw
-8142,Zeru Scale,Zeru Scale
-8143,Zeru Shell,Zeru Shell
+8138,Zeru Lash,輝界龍的靭尾
+8139,Zeru Blunt Horn,輝界龍的鈍角
+8140,Zeru Light Wing,澤魯利的翼
+8141,Zeru Shineclaw,輝界龍的輝爪
+8142,Zeru Scale,輝界龍的鱗
+8143,Zeru Shell,輝界龍的甲殼
 8144,Zeru Gleam,Zeru Gleam
-8145,Zeru Plate,Zeru Plate
-8146,Zeru Tail,Zeru Tail
-8147,Zeru Horn,Zeru Horn
+8145,Zeru Plate,輝界龍的逆鱗
+8146,Zeru Tail,輝界龍的尾
+8147,Zeru Horn,輝界龍的角
 8148,Zeru Talon,Zeru Talon
-8149,Zeru Claw,Zeru Claw
-8150,Baru White Hide,Baru White Hide
-8151,Baru Purple Scale,Baru Purple Scale
-8152,Baru Dense Fluid,Baru Dense Fluid
-8153,Baru Blood Vessel,Baru Blood Vessel
-8154,Baru Lash,Baru Lash
+8149,Zeru Claw,輝界龍的爪
+8150,Baru White Hide,噬血龍的白皮
+8151,Baru Purple Scale,噬血龍的紫鱗
+8152,Baru Dense Fluid,巴魯德恩塞的體液
+8153,Baru Blood Vessel,噬血龍的血管
+8154,Baru Lash,噬血龍的靭尾
 8155,Baru Thin Tentacle,Baru Thin Tentacle
-8156,Baru Rainbow Fin,Baru Rainbow Fin
+8156,Baru Rainbow Fin,巴魯拉伊恩博的鰭
 8157,Baru Thin Tongue,Baru Thin Tongue
-8158,Baru Crest,Baru Crest
-8159,Baru Blood Bag,Baru Blood Bag
+8158,Baru Crest,噬血龍的冠
+8159,Baru Blood Bag,噬血龍的血袋
 8160,Baru Para Bag,Baru Para Bag
 8161,Baru Poison Bag,Baru Poison Bag
-8162,Baru Hide,Baru Hide
-8163,Baru Scale,Baru Scale
-8164,Baru Fluid,Baru Fluid
-8165,Baru Blood,Baru Blood
-8166,Baru Tail,Baru Tail
+8162,Baru Hide,噬血龍的皮
+8163,Baru Scale,噬血龍的鱗
+8164,Baru Fluid,噬血龍的體液
+8165,Baru Blood,噬血龍的血
+8166,Baru Tail,噬血龍的尾
 8167,Baru Tentacle,Baru Tentacle
-8168,Baru Fin,Baru Fin
+8168,Baru Fin,噬血龍的鰭
 8169,Baru Tongue,Baru Tongue
 8170,Baru Frill,Baru Frill
-8171,Baru Blood Sac,Baru Blood Sac
-8172,Baru Para Sac,Baru Para Sac
-8173,Baru Poison Sac,Baru Poison Sac
+8171,Baru Blood Sac,血噬血龍的袋
+8172,Baru Para Sac,噬血龍的麻痺袋
+8173,Baru Poison Sac,噬血龍的毒袋
 8174,Baruragaru Proof,Baruragaru Proof
 8175,Zerureusu Proof,Zerureusu Proof
 8176,Prayer Leaves,Prayer Leaves
@@ -8249,7 +8249,7 @@ index,source,target
 8247,Fresh Pickled Egg,Fresh Pickled Egg
 8248,Delicious Egg,Delicious Egg
 8249,Phantom Egg,Phantom Egg
-8250,Sakura Ore Shard,Sakura Ore Shard
+8250,Sakura Ore Shard,薩庫拉奧雷的厚鱗
 8251,Heavy Sakura Ore,Heavy Sakura Ore
 8252,Sharp Sakura Ore,Sharp Sakura Ore
 8253,Rare Sakura Ore,Rare Sakura Ore
@@ -8284,11 +8284,11 @@ index,source,target
 8282,Candy Ball,Candy Ball
 8283,Sign of Unity,Sign of Unity
 8284,Proof of Unity,Proof of Unity
-8285,Sakura Crest,Sakura Crest
+8285,Sakura Crest,薩庫拉的冠
 8286,Inner Thoughts,Inner Thoughts
 8287,Evangalists Proof,Evangalists Proof
 8288,Colored Horns,Colored Horns
-8289,Colored Horn,Colored Horn
+8289,Colored Horn,奧洛雷的角
 8290,Ice and Snow Fruit,Ice and Snow Fruit
 8291,Frosty Sugar Plum,Frosty Sugar Plum
 8292,Shimmering Balls,Shimmering Balls
@@ -8311,7 +8311,7 @@ index,source,target
 8309,Longevity Bamboo,Longevity Bamboo
 8310,Enchanting Letter,Enchanting Letter
 8311,Strong Temptations,Strong Temptations
-8312,Frozen Horn,Frozen Horn
+8312,Frozen Horn,羅澤恩的角
 8313,Large Frozen Fur,Large Frozen Fur
 8314,Thread of Passion,Thread of Passion
 8315,Wing of Passion,Wing of Passion
@@ -8845,20 +8845,20 @@ index,source,target
 8843,B Gardo Tkt,Ｂ架勢票
 8844,P Fiaro Tkt,Ｐ艶紫票
 8845,P Baiso,P Baiso
-8846,Mera Scale,Mera Scale
-8847,Mera Shell,Mera Shell
-8848,Mera Spike,Mera Spike
+8846,Mera Scale,黑穿龍的鱗
+8847,Mera Shell,黑穿龍的甲殼
+8848,Mera Spike,黑穿龍的棘
 8849,Mera Jewel,Mera Jewel
-8850,Mera Tail Spike,Mera Tail Spike
-8851,Mera Horn,Mera Horn
-8852,Mera Fluid,Mera Fluid
-8853,Mera Shard,Mera Shard
-8854,Mera Cortex,Mera Cortex
-8855,Mera Surespike,Mera Surespike
+8850,Mera Tail Spike,梅拉塔伊的棘
+8851,Mera Horn,黑穿龍的角
+8852,Mera Fluid,黑穿龍的體液
+8853,Mera Shard,黑穿龍的厚鱗
+8854,Mera Cortex,黑穿龍的重殼
+8855,Mera Surespike,黑穿龍的必中棘
 8856,Mera Onyx Stone,Mera Onyx Stone
-8857,Mera Tail,Mera Tail
-8858,Mera Bladehorn,Mera Bladehorn
-8859,Mera Blood,Mera Blood
+8857,Mera Tail,黑穿龍的尾
+8858,Mera Bladehorn,黑穿龍的刃角
+8859,Mera Blood,黑穿龍的血
 8860,Mera Proof,Mera Proof
 8861,Ｐゼスカル生産券,Ｐゼスカル生産券
 8862,Ｆゼスカル生産券,Ｆゼスカル生産券
@@ -8882,9 +8882,9 @@ index,source,target
 8880,イクロムＷ生産券,イクロムＷ生産券
 8881,Megadeath L Tkt,超死神Ｌ票
 8882,Echidna M Tkt,毒蛇Ｍ票
-8883,Dora Glass Scale,Dora Glass Scale
-8884,Dora Gleam Scale,Dora Gleam Scale
-8885,Dora Murder Scale,Dora Murder Scale
+8883,Dora Glass Scale,冥雷龍的玻璃鱗
+8884,Dora Gleam Scale,冥雷龍的微光鱗
+8885,Dora Murder Scale,冥雷龍的殺鱗
 8886,Black Crystal Pin,Black Crystal Pin
 8887,Black Radiant Pin,Black Radiant Pin
 8888,Red Phantom Pin,Red Phantom Pin
@@ -8947,13 +8947,13 @@ index,source,target
 8945,Monochrome Shroom,Monochrome Shroom
 8946,Iron Cannon Fish,Iron Cannon Fish
 8947,South's Gratitude,South's Gratitude
-8948,East's Heart,East's Heart
+8948,East's Heart,艾阿的心臟
 8949,Star Pineapple,Star Pineapple
-8950,North's Heart,North's Heart
+8950,North's Heart,諾的心臟
 8951,Ancient Algae,Ancient Algae
-8952,West's Heart,West's Heart
+8952,West's Heart,韋的心臟
 8953,Snow Kiwi,Snow Kiwi
-8954,South's Heart,South's Heart
+8954,South's Heart,索烏的心臟
 8955,Goemon Frog,Goemon Frog
 8956,Magma Mango,Magma Mango
 8957,Bicolour Skimmer,Bicolour Skimmer
@@ -9024,70 +9024,70 @@ index,source,target
 9022,Tonfa Ribbon Low,Tonfa Ribbon Low
 9023,Tonfa Ribbon Mid,Tonfa Ribbon Mid
 9024,Tonfa Ribbon High,Tonfa Ribbon High
-9025,Kamu Hardfang,Kamu Hardfang
-9026,Kamu Finepelt,Kamu Finepelt
-9027,Kamu Frost Spike,Kamu Frost Spike
-9028,Kamu Frost Gem,Kamu Frost Gem
-9029,Orugaron Icefang,Orugaron Icefang
-9030,Nono Fine Fang,Nono Fine Fang
-9031,Nono Fine Pelt,Nono Fine Pelt
-9032,Nono Frost Spike,Nono Frost Spike
-9033,Nono Frost Gem,Nono Frost Gem
-9034,Nono Frost Fur,Nono Frost Fur
-9035,Orugaron Iceblood,Orugaron Iceblood
-9036,Bulldrome Finepelt,Bulldrome Finepelt
+9025,Kamu Hardfang,炎戈龍的堅牙
+9026,Kamu Finepelt,炎戈龍的上等皮
+9027,Kamu Frost Spike,炎戈龍的霜棘
+9028,Kamu Frost Gem,炎戈龍的寶玉
+9029,Orugaron Icefang,奧魯加龍的氷牙
+9030,Nono Fine Fang,上等諾諾的牙
+9031,Nono Fine Pelt,上等諾諾的皮
+9032,Nono Frost Spike,霜諾諾的棘
+9033,Nono Frost Gem,霜諾諾的寶玉
+9034,Nono Frost Fur,霜諾諾的毛
+9035,Orugaron Iceblood,奧魯加龍的氷血
+9036,Bulldrome Finepelt,大野豬的上等皮
 9037,Bulldrome Long Fur,Bulldrome Long Fur
 9038,Bulldrome Head,Bulldrome Head
-9039,Bulldrome Hardbone,Bulldrome Hardbone
+9039,Bulldrome Hardbone,大野豬的堅骨
 9040,Bulldrome Ripfang,Bulldrome Ripfang
 9041,Foro Talon,Foro Talon
-9042,Foro Hide,Foro Hide
-9043,Foro Fluid,Foro Fluid
-9044,Foro Pelt,Foro Pelt
+9042,Foro Hide,風翔鳥的皮
+9043,Foro Fluid,風翔鳥的體液
+9044,Foro Pelt,風翔鳥的皮
 9045,Foro Beak,Foro Beak
 9046,Foro Tailfeathers,Foro Tailfeathers
 9047,Foro Weave,Foro Weave
 9048,Foro Nectar,Foro Nectar
-9049,Foro Hardclaw,Foro Hardclaw
+9049,Foro Hardclaw,風翔鳥的堅爪
 9050,Foro Fine Pelt,Foro Fine Pelt
-9051,Foro Extract,Foro Extract
-9052,Foro Red Pelt,Foro Red Pelt
+9051,Foro Extract,風翔鳥的精華
+9052,Foro Red Pelt,奧羅雷的皮
 9053,Dignified Longbeak,Dignified Longbeak
-9054,Foro Tail,Foro Tail
-9055,Foro Wing,Foro Wing
+9054,Foro Tail,風翔鳥的尾
+9055,Foro Wing,風翔鳥的翼
 9056,Foro Honey,Foro Honey
 9057,Foro Screamer,Foro Screamer
 9058,Foro Proof,Foro Proof
-9059,Diorex Scale,Diorex Scale
-9060,Diorex Shell,Diorex Shell
-9061,Diorex Marrow,Diorex Marrow
+9059,Diorex Scale,雷鎧龍的鱗
+9060,Diorex Shell,雷鎧龍的甲殼
+9061,Diorex Marrow,雷鎧龍的骨髓
 9062,Diorex Voltshell,Diorex Voltshell
 9063,Diorex Scalp,Diorex Scalp
 9064,Diorex Leg Shell,Diorex Leg Shell
 9065,Diorex Tail Shell,Diorex Tail Shell
-9066,Diorex Shard,Diorex Shard
-9067,Diorex Cortex,Diorex Cortex
+9066,Diorex Shard,雷鎧龍的厚鱗
+9067,Diorex Cortex,雷鎧龍的重殼
 9068,Diorex Medulla,Diorex Medulla
 9069,Diorex Shockstone,Diorex Shockstone
-9070,Diorex Hardfang,Diorex Hardfang
+9070,Diorex Hardfang,雷鎧龍的堅牙
 9071,Diorex Arm,Diorex Arm
-9072,Diorex Tail,Diorex Tail
+9072,Diorex Tail,雷鎧龍的尾
 9073,Diorex Proof,Diorex Proof
-9074,S.Rath Plate,S.Rath Plate
-9075,S.Rath Cortex,S.Rath Cortex
-9076,S.Rath Shard,S.Rath Shard
+9074,S.Rath Plate,銀火龍的逆鱗
+9075,S.Rath Cortex,銀火龍的重殼
+9076,S.Rath Shard,銀火龍的厚鱗
 9077,S.Rath Darkmarrow,S.Rath Darkmarrow
 9078,S.Rath Bloodstone,S.Rath Bloodstone
 9079,S.Rath Ruby,S.Rath Ruby
-9080,Akura Acidfur,Akura Acidfur
+9080,Akura Acidfur,尾晶蠍的酸毛
 9081,Akura Red Crystal,Akura Red Crystal
-9082,Jebia Cortex,Jebia Cortex
-9083,Jebia Extract,Jebia Extract
-9084,Jebia Hardclaw,Jebia Hardclaw
+9082,Jebia Cortex,灰晶蠍的重殼
+9083,Jebia Extract,灰晶蠍的精華
+9084,Jebia Hardclaw,灰晶蠍的堅爪
 9085,Volatile Crystal,Volatile Crystal
 9086,Jebia Strong Tail,Jebia Strong Tail
-9087,Jebia Blood Gem,Jebia Blood Gem
-9088,Jebia Rich Fluid,Jebia Rich Fluid
+9087,Jebia Blood Gem,灰晶蠍的寶玉
+9088,Jebia Rich Fluid,艾比阿里的體液
 9089,Rath Trove Scale,Rath Trove Scale
 9090,ラオウトＤ生産券,ラオウトＤ生産券
 9091,ルペルスＤ生産券,ルペルスＤ生産券
@@ -9119,10 +9119,10 @@ index,source,target
 9117,Medium Flowers G,Medium Flowers G
 9118,Luxury Flowers G,Luxury Flowers G
 9119,Fatalis Flame Scl,Fatalis Flame Scl
-9120,Fatalis Flame Horn,Fatalis Flame Horn
-9121,Fatalis Flame Wing,Fatalis Flame Wing
-9122,Fatalis Flame Eye,Fatalis Flame Eye
-9123,Fatalis Plate,Fatalis Plate
+9120,Fatalis Flame Horn,炎黑龍的角
+9121,Fatalis Flame Wing,炎黑龍的翼
+9122,Fatalis Flame Eye,炎黑龍的眼
+9123,Fatalis Plate,黑龍的逆鱗
 9124,Fatalis Ruby,Fatalis Ruby
 9125,Lost Luxury Crown,Lost Luxury Crown
 9126,Solid Memories,Solid Memories
@@ -9166,7 +9166,7 @@ index,source,target
 9164,Light Steel Ball,Light Steel Ball
 9165,Dark Steel Ball,Dark Steel Ball
 9166,Pyroxene,Pyroxene
-9167,Old Bone,Old Bone
+9167,Old Bone,奧的骨
 9168,Wave Soul Grass,Wave Soul Grass
 9169,Falls Soul Grass,Falls Soul Grass
 9170,Cliff Soul Grass,Cliff Soul Grass
@@ -9589,11 +9589,11 @@ index,source,target
 9587,P.Rubber Greathide,P.Rubber Greathide
 9588,P.Rubber Purehide,P.Rubber Purehide
 9589,P.Gyp Hard Head,P.Gyp Hard Head
-9590,P.Gyp Green Tail,P.Gyp Green Tail
+9590,P.Gyp Green Tail,雷艾恩的尾
 9591,P.Gyp Shineclaw,P.Gyp Shineclaw
 9592,P.Gyp Shinehide,P.Gyp Shinehide
 9593,P.Gyp Lightcrystal,P.Gyp Lightcrystal
-9594,W.Espi Rage Spike,W.Espi Rage Spike
+9594,W.Espi Rage Spike,棘白龍的憤怒棘
 9595,W.Espi Venom Spike,W.Espi Venom Spike
 9596,W.Espi Direshard,W.Espi Direshard
 9597,W.Espi Direcortex,W.Espi Direcortex
@@ -9601,47 +9601,47 @@ index,source,target
 9599,W.Espi Dense Shell,W.Espi Dense Shell
 9600,W.Espi Flame Stone,W.Espi Flame Stone
 9601,Monoblos Scute,Monoblos Scute
-9602,Monoblos Carapace,Monoblos Carapace
-9603,Monoblos Cortex,Monoblos Cortex
+9602,Monoblos Carapace,一角龍的堅殼
+9603,Monoblos Cortex,一角龍的重殼
 9604,Crimson Horn,Crimson Horn
 9605,Brave Crimson Horn,Brave Crimson Horn
-9606,Monoblos Hardfang,Monoblos Hardfang
+9606,Monoblos Hardfang,一角龍的堅牙
 9607,Malleable Hide,Malleable Hide
 9608,Red Khezu Membrane,Red Khezu Membrane
 9609,Red Khezu Piel,Red Khezu Piel
 9610,Red Alluring Hide,Red Alluring Hide
-9611,Hypnoc Brighthide,Hypnoc Brighthide
-9612,Hypnoc Finehide,Hypnoc Finehide
-9613,Hypnoc Hardclaw,Hypnoc Hardclaw
+9611,Hypnoc Brighthide,眠鳥的輝皮
+9612,Hypnoc Finehide,眠鳥的上等皮
+9613,Hypnoc Hardclaw,眠鳥的堅爪
 9614,Hypnoc Brave Beak,Hypnoc Brave Beak
 9615,Hypnoc Mega Bezoar,Hypnoc Mega Bezoar
-9616,Garuba Scale,Garuba Scale
-9617,Garuba Shell,Garuba Shell
-9618,Garuba Claw,Garuba Claw
+9616,Garuba Scale,風塵龍的鱗
+9617,Garuba Shell,風塵龍的甲殼
+9618,Garuba Claw,風塵龍的爪
 9619,Garuba Topaz,Garuba Topaz
-9620,Garuba Horn,Garuba Horn
-9621,Garuba Tail,Garuba Tail
-9622,Garuba Webbing,Garuba Webbing
-9623,Garuba Shard,Garuba Shard
-9624,Garuba Cortex,Garuba Cortex
-9625,Garuba Glassclaw,Garuba Glassclaw
+9620,Garuba Horn,風塵龍的角
+9621,Garuba Tail,風塵龍的尾
+9622,Garuba Webbing,風塵龍的翼膜
+9623,Garuba Shard,風塵龍的厚鱗
+9624,Garuba Cortex,風塵龍的重殼
+9625,Garuba Glassclaw,風塵龍的玻璃爪
 9626,Garuba Sunstone,Garuba Sunstone
-9627,Garuba Chrome Horn,Garuba Chrome Horn
-9628,Garuba Crystaltail,Garuba Crystaltail
-9629,Garuba Goldenwing,Garuba Goldenwing
-9630,Inagami Hide,Inagami Hide
-9631,Inagami Fur,Inagami Fur
-9632,Inagami Scale,Inagami Scale
+9627,Garuba Chrome Horn,風塵龍的輝角
+9628,Garuba Crystaltail,風塵龍的晶尾
+9629,Garuba Goldenwing,風塵龍的金翼
+9630,Inagami Hide,雅翁龍的皮
+9631,Inagami Fur,雅翁龍的毛
+9632,Inagami Scale,雅翁龍的鱗
 9633,Inagami Tendon,Inagami Tendon
-9634,Inagami Marrow,Inagami Marrow
-9635,Inagami Tail,Inagami Tail
+9634,Inagami Marrow,雅翁龍的骨髓
+9635,Inagami Tail,雅翁龍的尾
 9636,Inagami Piel,Inagami Piel
 9637,Inagami Glosshair,Inagami Glosshair
-9638,Inagami Shard,Inagami Shard
+9638,Inagami Shard,雅翁龍的厚鱗
 9639,Inagami Muscle,Inagami Muscle
-9640,Inagami Darkmarrow,Inagami Darkmarrow
-9641,Inagami Pure Scale,Inagami Pure Scale
-9642,Inagami Lash,Inagami Lash
+9640,Inagami Darkmarrow,稻荷龍的闇骨髓
+9641,Inagami Pure Scale,伊納加米普雷的鱗
+9642,Inagami Lash,雅翁龍的靭尾
 9643,Hunter Pass・Red,Hunter Pass・Red
 9644,Hunter Pass・Blue,Hunter Pass・Blue
 9645,Hunter Pass・White,Hunter Pass・White
@@ -9771,7 +9771,7 @@ index,source,target
 9769,Drought Bloom,Drought Bloom
 9770,Quivering Bloom,Quivering Bloom
 9771,Uzumaki Seashell,Uzumaki Seashell
-9772,Clam Shell,Clam Shell
+9772,Clam Shell,拉的甲殼
 9773,Sunspot Flower,Sunspot Flower
 9774,Masked Grass,Masked Grass
 9775,Biting Shell Case,Biting Shell Case
@@ -9787,7 +9787,7 @@ index,source,target
 9785,Torn Black Mask,Torn Black Mask
 9786,River Soul Stone,River Soul Stone
 9787,Tree Soul Stone,Tree Soul Stone
-9788,Kind Heart,Kind Heart
+9788,Kind Heart,基恩的心臟
 9789,Displaced Thread,Displaced Thread
 9790,Pink Weave,Pink Weave
 9791,Elegant Mane,Elegant Mane
@@ -10577,21 +10577,21 @@ index,source,target
 10575,Neko Flutist Jwl P,Neko Flutist Jwl P
 10576,Dummy 10576,Dummy 10576
 10577,Poborubarumu Proof,Poborubarumu Proof
-10578,Poborubarumu Hide,Poborubarumu Hide
-10579,Poborubarumu Fluid,Poborubarumu Fluid
-10580,Poborubarumu Marrow,Poborubarumu Marrow
+10578,Poborubarumu Hide,創音龍的皮
+10579,Poborubarumu Fluid,創音龍的體液
+10580,Poborubarumu Marrow,創音龍的骨髓
 10581,Poborubarumu Ringer,Poborubarumu Ringer
 10582,Giant Clam Debris,Giant Clam Debris
-10583,Poborubarumu Fang,Poborubarumu Fang
-10584,Poboru. Webbing,Poboru. Webbing
+10583,Poborubarumu Fang,創音龍的牙
+10584,Poboru. Webbing,波博魯的翼膜
 10585,Poborubarumu Piel,Poborubarumu Piel
 10586,Poboru. Emulsion,Poboru. Emulsion
-10587,Poboru.Deep Marrow,Poboru.Deep Marrow
+10587,Poboru.Deep Marrow,波博魯德艾的骨髓
 10588,Poborubarumu Throat,Poborubarumu Throat
 10589,Poborubarumu Shl,Poborubarumu Shl
 10590,Poboru. Dentition,Poboru. Dentition
-10591,Poborubarumu Wing,Poborubarumu Wing
-10592,Poboru. Song Sac,Poboru. Song Sac
+10591,Poborubarumu Wing,創音龍的翼
+10592,Poboru. Song Sac,波博魯索恩的袋
 10593,Stradia Tkt,斯特拉迪亞票
 10594,Riura Tkt,琉拉票
 10595,Larcia Tkt,拉爾西亞票
@@ -10638,14 +10638,14 @@ index,source,target
 10636,Fleur Tkt,芙蕾票
 10637,Lunastra Pwr.Scl,Lunastra Pwr.Scl
 10638,Lunastra Pwr.Shl,Lunastra Pwr.Shl
-10639,Luna. Noble Wing,Luna. Noble Wing
+10639,Luna. Noble Wing,炎妃龍・貴的翼
 10640,Lunastra Crown Mane,Lunastra Crown Mane
 10641,Phantom Drgn Trsr,Phantom Drgn Trsr
-10642,Luna. Lovely Fang,Luna. Lovely Fang
-10643,Luna. Mystic Fang,Luna. Mystic Fang
-10644,Lunastra Trsr Fang,Lunastra Trsr Fang
-10645,Kuaru. Ever Scale,Kuaru. Ever Scale
-10646,Kuaru. Ever Hide,Kuaru. Ever Hide
+10642,Luna. Lovely Fang,炎妃龍的麗牙
+10643,Luna. Mystic Fang,炎妃龍的神秘牙
+10644,Lunastra Trsr Fang,炎妃龍的寶牙
+10645,Kuaru. Ever Scale,永晶龍的鱗
+10646,Kuaru. Ever Hide,永晶龍的皮
 10647,Kuaru. Essence Gem,Kuaru. Essence Gem
 10648,Kuaru. UV Crystal,Kuaru. UV Crystal
 10649,Kuaru. Stripestone,Kuaru. Stripestone
@@ -10683,7 +10683,7 @@ index,source,target
 10681,Tower Dash Juice G,塔強走藥Ｇ
 10682,Tower SmallBrlBomb,塔小桶爆彈
 10683,Tower ThrowingBomb,塔投擲爆彈
-10684,Small horn,Small horn
+10684,Small horn,小龍蝦的角
 10685,T. Whetstones,塔砥石
 10686,T. Fast Whetstone,塔高速砥石
 10687,T. Power Coating,塔強撃瓶
@@ -11040,12 +11040,12 @@ index,source,target
 11038,Rec Speed Gem Ⅱ,Rec Speed Gem Ⅱ
 11039,Stamina Rec Gem Ⅰ,Stamina Rec Gem Ⅰ
 11040,Stamina Rec Gem Ⅱ,Stamina Rec Gem Ⅱ
-11041,Stamina Gem Ⅰ,Stamina Gem Ⅰ
-11042,Stamina Gem Ⅱ,Stamina Gem Ⅱ
+11041,Stamina Gem Ⅰ,耐力的寶玉Ⅰ
+11042,Stamina Gem Ⅱ,耐力的寶玉Ⅱ
 11043,Eating Gem,Eating Gem
-11044,Attack Gem Ⅰ,Attack Gem Ⅰ
-11045,Attack Gem Ⅱ,Attack Gem Ⅱ
-11046,Attack Gem Ⅲ,Attack Gem Ⅲ
+11044,Attack Gem Ⅰ,攻撃力的寶玉Ⅰ
+11045,Attack Gem Ⅱ,攻撃力的寶玉Ⅱ
+11046,Attack Gem Ⅲ,攻撃力的寶玉Ⅲ
 11047,Adrenaline Gem Ⅰ,Adrenaline Gem Ⅰ
 11048,Adrenaline Gem Ⅱ,Adrenaline Gem Ⅱ
 11049,Expert Gem Ⅰ,Expert Gem Ⅰ
@@ -11078,8 +11078,8 @@ index,source,target
 11076,Guard Gem Ⅱ,Guard Gem Ⅱ
 11077,Sharpening Gem Ⅰ,Sharpening Gem Ⅰ
 11078,Sharpening Gem Ⅱ,Sharpening Gem Ⅱ
-11079,Sharpness Gem Ⅰ,Sharpness Gem Ⅰ
-11080,Sharpness Gem Ⅱ,Sharpness Gem Ⅱ
+11079,Sharpness Gem Ⅰ,鋒利度的寶玉Ⅰ
+11080,Sharpness Gem Ⅱ,鋒利度的寶玉Ⅱ
 11081,Artisan Gem,Artisan Gem
 11082,Fencing Gem Ⅰ,Fencing Gem Ⅰ
 11083,Fencing Gem Ⅱ,Fencing Gem Ⅱ
@@ -11134,7 +11134,7 @@ index,source,target
 11132,Flute Expert Gem,Flute Expert Gem
 11133,Speed Setup Gem Ⅰ,Speed Setup Gem Ⅰ
 11134,Speed Setup Gem Ⅱ,Speed Setup Gem Ⅱ
-11135,Map Gem,Map Gem
+11135,Map Gem,地圖的寶玉
 11136,Psychic Gem,Psychic Gem
 11137,Backpacking Gem,Backpacking Gem
 11138,Gather Speed Gem Ⅱ,Gather Speed Gem Ⅱ
@@ -11154,7 +11154,7 @@ index,source,target
 11152,Exploit SA8,Exploit SA8
 11153,Motion・HH 1,Motion・HH 1
 11154,Motion・Lance 1,Motion・Lance 1
-11155,Orange Wyvernspike,Orange Wyvernspike
+11155,Orange Wyvernspike,橙龍的棘
 11156,Trial Gacha Coin,Trial Gacha Coin
 11157,Dummy 11157,Dummy 11157
 11158,Singed Book,Singed Book
@@ -11183,27 +11183,27 @@ index,source,target
 11181,Asteli Waist,Asteli Waist
 11182,Asteli Legs,Asteli Legs
 11183,Varusa Shl,Varusa Shl
-11184,Varusa Fang,Varusa Fang
-11185,Varusa Blood,Varusa Blood
+11184,Varusa Fang,炎角龍的牙
+11185,Varusa Blood,炎角龍的血
 11186,Varusa Indigo Gem,Varusa Indigo Gem
-11187,Varusa Tail,Varusa Tail
-11188,Varusa Horn,Varusa Horn
-11189,Varusa Fine Shell,Varusa Fine Shell
-11190,Varusa Fine Hide,Varusa Fine Hide
-11191,Varusa Brightblood,Varusa Brightblood
+11187,Varusa Tail,炎角龍的尾
+11188,Varusa Horn,炎角龍的角
+11189,Varusa Fine Shell,炎角龍的上等甲殼
+11190,Varusa Fine Hide,炎角龍的上等皮
+11191,Varusa Brightblood,炎角龍的輝血
 11192,Varusa Crimson Gem,Varusa Crimson Gem
-11193,Varusa Flametail,Varusa Flametail
-11194,Varusa Twinhorns,Varusa Twinhorns
+11193,Varusa Flametail,炎角龍的炎尾
+11194,Varusa Twinhorns,炎角龍的雙角
 11195,Burning Cactus,Burning Cactus
 11196,Sandsoul Grass,Sandsoul Grass
 11197,Valleysoul Grass,Valleysoul Grass
-11198,Gogo Eminent Fur,Gogo Eminent Fur
+11198,Gogo Eminent Fur,戈戈艾米内恩的毛
 11199,Gogo Eminent Clw,Gogo Eminent Clw
-11200,Gogo Combat Fang,Gogo Combat Fang
-11201,Gogo Extreme Horn,Gogo Extreme Horn
-11202,Gogo Silk Tail,Gogo Silk Tail
+11200,Gogo Combat Fang,戈戈的戰牙
+11201,Gogo Extreme Horn,戈戈的極角
+11202,Gogo Silk Tail,戈戈西的尾
 11203,Koko Quality Fur,Koko Quality Fur
-11204,Gogo Orange Fur,Gogo Orange Fur
+11204,Gogo Orange Fur,橙戈戈的毛
 11205,Cuff Base G・Raisin,Cuff Base G・Raisin
 11206,Varusaburosu Proof,Varusaburosu Proof
 11207,Blazing Emblem,Blazing Emblem
@@ -11259,23 +11259,23 @@ index,source,target
 11257,Akantor Myeloid,Akantor Myeloid
 11258,Akantor Ripclaw,Akantor Ripclaw
 11259,Akantor Eradicator,Akantor Eradicator
-11260,B.Hypnoc Long Fur,B.Hypnoc Long Fur
+11260,B.Hypnoc Long Fur,蒼眠鳥的長毛
 11261,B.Hypnoc Supr Clw,B.Hypnoc Supr Clw
 11262,B.Hypnoc BraveBeak,B.Hypnoc BraveBeak
 11263,B.Hypnoc S.Bezoar,B.Hypnoc S.Bezoar
-11264,B.Hypnoc Fine Fur,B.Hypnoc Fine Fur
+11264,B.Hypnoc Fine Fur,蒼眠鳥的上等毛
 11265,Conquest Crystal,Conquest Crystal
 11266,Gendrome Vivid Scl,Gendrome Vivid Scl
 11267,Gendrome Piel,Gendrome Piel
 11268,Gendrome Long Claw,Gendrome Long Claw
-11269,Gendrome Sac,Gendrome Sac
+11269,Gendrome Sac,黄速龍王的袋
 11270,G.Plesi Brave Fng,G.Plesi Brave Fng
 11271,G.Plesi Brave Fin,G.Plesi Brave Fin
 11272,Curved Shrimp Claw,Curved Shrimp Claw
-11273,G.Plesi Webbing,G.Plesi Webbing
-11274,G.PlesiothRotaryFin,G.PlesiothRotaryFin
-11275,G.Plesioth Finblade,G.Plesioth Finblade
-11276,G.PlesiothTerribFin,G.PlesiothTerribFin
+11273,G.Plesi Webbing,雷西的翼膜
+11274,G.PlesiothRotaryFin,翠水龍的旋轉鰭
+11275,G.Plesioth Finblade,翠水龍的鰭刃
+11276,G.PlesiothTerribFin,翠水龍的恐怖鰭
 11277,G.Plesi Bubble Gem,G.Plesi Bubble Gem
 11278,Gesture・SnS Ⅰ,Gesture・SnS Ⅰ
 11279,Gesture・LS Ⅰ,Gesture・LS Ⅰ
@@ -11316,18 +11316,18 @@ index,source,target
 11314,Supirune Tkt,斯皮魯内票
 11315,Abyssal Origin Gem,Abyssal Origin Gem
 11316,Gureadomosu Shl,Gureadomosu Shl
-11317,Gureadomosu Hide,Gureadomosu Hide
+11317,Gureadomosu Hide,水砦龍的皮
 11318,Gureadomosu Moss,Gureadomosu Moss
 11319,Guread. WaterSac,Guread. WaterSac
-11320,Gureadomosu Webbing,Gureadomosu Webbing
-11321,Gureadomosu Tail,Gureadomosu Tail
+11320,Gureadomosu Webbing,水砦龍的翼膜
+11321,Gureadomosu Tail,水砦龍的尾
 11322,Gureadomosu Tube,Gureadomosu Tube
-11323,Gurea.Origin Shell,Gurea.Origin Shell
-11324,Gurea.Origin Hide,Gurea.Origin Hide
+11323,Gurea.Origin Shell,始源紅蓮的甲殼
+11324,Gurea.Origin Hide,始源紅蓮的皮
 11325,Gurea.Rare Moss,Gurea.Rare Moss
 11326,Gurea.Hydro Filter,Gurea.Hydro Filter
 11327,Gurea.Slick Wing,Gurea.Slick Wing
-11328,Gurea.Mossy Tail,Gurea.Mossy Tail
+11328,Gurea.Mossy Tail,古雷阿莫的尾
 11329,Gurea.Soft Tube,Gurea.Soft Tube
 11330,Valier Tkt,瓦利埃票
 11331,Louise Tkt,路易絲票
@@ -11335,20 +11335,20 @@ index,source,target
 11333,Kanpi Tkt,坎皮票
 11334,Vinci Tkt,文奇票
 11335,Victor Tkt,勝者票
-11336,Harudomerugu Scale,Harudomerugu Scale
+11336,Harudomerugu Scale,司銀龍的鱗
 11337,Harudomerugu Shl,Harudomerugu Shl
-11338,Harudomerugu Claw,Harudomerugu Claw
-11339,Harudomerugu Wing,Harudomerugu Wing
-11340,Harudomerugu Horn,Harudomerugu Horn
+11338,Harudomerugu Claw,司銀龍的爪
+11339,Harudomerugu Wing,司銀龍的翼
+11340,Harudomerugu Horn,司銀龍的角
 11341,Harudo.Flowgem,Harudo.Flowgem
-11342,Harudomerugu Tail,Harudomerugu Tail
-11343,Harudo.Sharp Scale,Harudo.Sharp Scale
+11342,Harudomerugu Tail,司銀龍的尾
+11343,Harudo.Sharp Scale,鋭金塵龍的鱗
 11344,Harudo.Sharp Shl,Harudo.Sharp Shl
-11345,Harudo.Sharp Claw,Harudo.Sharp Claw
-11346,Harudo H. Wingblade,Harudo H. Wingblade
-11347,Harudo H. Hornblade,Harudo H. Hornblade
+11345,Harudo.Sharp Claw,鋭金塵龍的爪
+11346,Harudo H. Wingblade,金塵龍的翼刃
+11347,Harudo H. Hornblade,金塵龍的角刃
 11348,Harudo Torrent Gem,Harudo Torrent Gem
-11349,Harudo H.Tailblade,Harudo H.Tailblade
+11349,Harudo H.Tailblade,金塵龍的尾刃
 11350,Harudo Control Core,Harudo Control Core
 11351,P.White Flower Petal,P.White Flower Petal
 11352,Night Sky Yarn,Night Sky Yarn
@@ -11359,7 +11359,7 @@ index,source,target
 11357,Blood Stained Book,Blood Stained Book
 11358,Blackened Book,Blackened Book
 11359,Treasured Flwr Bskt,Treasured Flwr Bskt
-11360,Some Old Bone,Some Old Bone
+11360,Some Old Bone,索梅奧的骨
 11361,White Melody,White Melody
 11362,Charged Junk,Charged Junk
 11363,Black Steel Stone,Black Steel Stone
@@ -11702,8 +11702,8 @@ index,source,target
 11700,NP SnS Mat,NP SnS Mat
 11701,B.Diablos Worn Shl,B.Diablos Worn Shl
 11702,B.Diablos Worn Fng,B.Diablos Worn Fng
-11703,Blk Twisted Horn,Blk Twisted Horn
-11704,Blk Twisted Bihorn,Blk Twisted Bihorn
+11703,Blk Twisted Horn,黑歪的角
+11704,Blk Twisted Bihorn,黑歪的雙角
 11705,Dashing Twisted Hrn,Dashing Twisted Hrn
 11706,W.Monoblos Grt Shl,W.Monoblos Grt Shl
 11707,W.Monoblos Grt Crpc,W.Monoblos Grt Crpc
@@ -11714,14 +11714,14 @@ index,source,target
 11712,W.Mono Savage Shl,W.Mono Savage Shl
 11713,Preparation Tkt,準備票
 11714,Abyssal True Blood,Abyssal True Blood
-11715,Yama Kurai Hide,Yama Kurai Hide
-11716,Yama Kurai Fur,Yama Kurai Fur
+11715,Yama Kurai Hide,浮峰龍的皮
+11716,Yama Kurai Fur,浮峰龍的毛
 11717,Dirty Golden Tooth,Dirty Golden Tooth
 11718,Yama Kurai Acid,Yama Kurai Acid
 11719,Dragon Vine,Dragon Vine
 11720,Mystery Seed,Mystery Seed
-11721,Y.Kurai Origin Hide,Y.Kurai Origin Hide
-11722,Y.Kurai Origin Fur,Y.Kurai Origin Fur
+11721,Y.Kurai Origin Hide,始源夜倉井的皮
+11722,Y.Kurai Origin Fur,始源夜倉井的毛
 11723,Shining Gold Tooth,Shining Gold Tooth
 11724,Yama Kurai Maw,Yama Kurai Maw
 11725,Dragon God Vine,Dragon God Vine
@@ -11729,15 +11729,15 @@ index,source,target
 11727,Yama Kurai Proof,Yama Kurai Proof
 11728,Dummy 11728,Dummy 11728
 11729,Abio.Supreme Scl,Abio.Supreme Scl
-11730,Abiorugu Suprm Hide,Abiorugu Suprm Hide
+11730,Abiorugu Suprm Hide,阿比奧魯古蘇的皮
 11731,Abiorugu Cruel Hrn,Abiorugu Cruel Hrn
 11732,Abio.Starved Blood,Abio.Starved Blood
 11733,Abiorugu Flayer,Abiorugu Flayer
 11734,Abiorugu Fierce Fng,Abiorugu Fierce Fng
 11735,Abio. Malice Bone,Abio. Malice Bone
 11736,Abiorugu Feral Bone,Abiorugu Feral Bone
-11737,Abiorugu Solid Bone,Abiorugu Solid Bone
-11738,Abiorugu Heat Bone,Abiorugu Heat Bone
+11737,Abiorugu Solid Bone,阿比奧魯古索利的骨
+11738,Abiorugu Heat Bone,阿比奧魯古赫阿的骨
 11739,Moonlight Egg,Moonlight Egg
 11740,Shakalaka Hat,Shakalaka Hat
 11741,Noble White Hair,Noble White Hair
@@ -11787,20 +11787,20 @@ index,source,target
 11785,Gesture・LBG Ⅰ,Gesture・LBG Ⅰ
 11786,Gesture・GS Ⅰ,Gesture・GS Ⅰ
 11787,Gesture・Tonfa Ⅰ,Gesture・Tonfa Ⅰ
-11788,Gasurabazura Hide,Gasurabazura Hide
-11789,Gasurabazura Scale,Gasurabazura Scale
-11790,Gasurabazura Fin,Gasurabazura Fin
-11791,Gasurabazura Blood+,Gasurabazura Blood+
+11788,Gasurabazura Hide,怒貌龍的皮
+11789,Gasurabazura Scale,怒貌龍的鱗
+11790,Gasurabazura Fin,怒貌龍的鰭
+11791,Gasurabazura Blood+,怒貌龍的血＋
 11792,Gasura.Brace,Gasura.Brace
-11793,Gasura.Venom Fang,Gasura.Venom Fang
-11794,Gasura.Barbtail,Gasura.Barbtail
-11795,Gasura.Thick Hide,Gasura.Thick Hide
-11796,Gasura.Thick Scale,Gasura.Thick Scale
-11797,Gasura.Speed Fin,Gasura.Speed Fin
-11798,Gasura.Scald Blood,Gasura.Scald Blood
+11793,Gasura.Venom Fang,怒貌龍的毒牙
+11794,Gasura.Barbtail,怒貌龍的刺尾
+11795,Gasura.Thick Hide,厚怒貌龍的皮
+11796,Gasura.Thick Scale,厚怒貌龍的鱗
+11797,Gasura.Speed Fin,怒貌龍的速鰭
+11798,Gasura.Scald Blood,怒貌龍的熱血
 11799,Gasura.Strng Arm Skn,Gasura.Strng Arm Skn
 11800,Gasura D.Venom Fng,Gasura D.Venom Fng
-11801,Gasura.Spiketail,Gasura.Spiketail
+11801,Gasura.Spiketail,怒貌龍的棘尾
 11802,Gasura.Ocean Lung,Gasura.Ocean Lung
 11803,Gasurabazura Proof,Gasurabazura Proof
 11804,Cilty Tkt,奇爾蒂票
@@ -11998,21 +11998,21 @@ index,source,target
 11996,P Rifle Tkt,Ｐ銃票
 11997,P Knife Tkt,Ｐ刀票
 11998,C Sword Tkt,Ｃ大剣票
-11999,Zinogre Carapace,Zinogre Carapace
-12000,Zinogre Electrofur,Zinogre Electrofur
-12001,Zinogre Claw+,Zinogre Claw+
+11999,Zinogre Carapace,雷狼龍的堅殼
+12000,Zinogre Electrofur,雷狼龍的電毛
+12001,Zinogre Claw+,雷狼龍的尖爪
 12002,Zinogre Shocker+,Zinogre Shocker+
 12003,Fulgurbug,Fulgurbug
 12004,Zinogre Jasper,Zinogre Jasper
-12005,Zinogre Tail,Zinogre Tail
-12006,Zinogre Horn,Zinogre Horn
-12007,Zinogre Cortex,Zinogre Cortex
-12008,Zinogre Electrfur+,Zinogre Electrfur+
-12009,Zinogre Riptalon,Zinogre Riptalon
+12005,Zinogre Tail,雷狼龍的尾
+12006,Zinogre Horn,雷狼龍的角
+12007,Zinogre Cortex,雷狼龍的重殼
+12008,Zinogre Electrfur+,雷狼龍的電毛＋
+12009,Zinogre Riptalon,雷狼龍的鋭爪
 12010,Zinogre D.Shocker,Zinogre D.Shocker
 12011,Zinogre Skymerald,Zinogre Skymerald
-12012,Zinogre Lash,Zinogre Lash
-12013,Zinogre Hardhorn,Zinogre Hardhorn
+12012,Zinogre Lash,雷狼龍的靭尾
+12013,Zinogre Hardhorn,雷狼龍的堅角
 12014,Sealed Book,Sealed Book
 12015,Binding Book,Binding Book
 12016,Cleansing Book,Cleansing Book
@@ -12116,11 +12116,11 @@ index,source,target
 12114,Mystery Yellw Bill,Mystery Yellw Bill
 12115,Mystery Purpl Bill,Mystery Purpl Bill
 12116,Mystery Blue Bill,Mystery Blue Bill
-12117,Dirty Crest,Dirty Crest
-12118,Cute Crest,Cute Crest
+12117,Dirty Crest,迪的冠
+12118,Cute Crest,烏特的冠
 12119,Beautiful Crest,Beautiful Crest
 12120,Gorgeous Crest,Gorgeous Crest
-12121,Creepy Crest,Creepy Crest
+12121,Creepy Crest,雷艾的冠
 12122,New Bookmark,New Bookmark
 12123,Old Bookmark,Old Bookmark
 12124,Broken Bookmark,Broken Bookmark
@@ -12312,22 +12312,22 @@ index,source,target
 12310,O. Espi Blade Spike,O. Espi Blade Spike
 12311,O. Espi Brown Shl,O. Espi Brown Shl
 12312,Torid Shl,Torid Shl
-12313,Toridcles Fur,Toridcles Fur
-12314,Torid Claw,Torid Claw
-12315,Torid Gem,Torid Gem
+12313,Toridcles Fur,照雷鳥的毛
+12314,Torid Claw,照雷鳥的爪
+12315,Torid Gem,照雷鳥的寶玉
 12316,Torid Fthrhrn Piece,Torid Fthrhrn Piece
-12317,Toridlcess Wing Shl,Toridlcess Wing Shl
-12318,Toridcles Tail Shl,Toridcles Tail Shl
+12317,Toridlcess Wing Shl,照雷鳥的翼殼
+12318,Toridcles Tail Shl,照雷鳥的尾殼
 12319,Torid Shl+,Torid Shl+
-12320,Torid Fur+,Torid Fur+
-12321,Torid Claw+,Torid Claw+
-12322,Torid Pure Gem,Torid Pure Gem
-12323,Torid Featherhorn,Torid Featherhorn
-12324,Torid Hard Wing Shl,Torid Hard Wing Shl
-12325,Torid Tail,Torid Tail
+12320,Torid Fur+,照雷鳥的毛＋
+12321,Torid Claw+,照雷鳥的尖爪
+12322,Torid Pure Gem,照雷鳥的淨寶玉
+12323,Torid Featherhorn,照雷鳥的羽角
+12324,Torid Hard Wing Shl,照雷鳥的堅翼殼
+12325,Torid Tail,照雷鳥的尾
 12326,Torid Body Fluid,Torid Body Fluid
-12327,R. Volga Ageless Fin,R. Volga Ageless Fin
-12328,R. Volga Ageless Scale,R. Volga Ageless Scale
+12327,R. Volga Ageless Fin,不朽紅熔岩龍的鰭
+12328,R. Volga Ageless Scale,不朽紅熔岩龍的鱗
 12329,R. Volga Magma Fang,R. Volga Magma Fang
 12330,R. Volga Slag Shell,R. Volga Slag Shell
 12331,R. Volga Rotary Fin,R. Volga Rotary Fin
@@ -12361,23 +12361,23 @@ index,source,target
 12359,Wpn Forging Study,Wpn Forging Study
 12360,Porta Brownies,Porta Brownies
 12361,Porta Marshmallows,Porta Marshmallows
-12362,Barioth Carapace,Barioth Carapace
+12362,Barioth Carapace,冰牙龍的堅殼
 12363,Barioth Prmafrst Sac,Barioth Prmafrst Sac
 12364,Barioth Thickfur,Barioth Thickfur
 12365,Barioth Frost Gem,Barioth Frost Gem
 12366,Amber Tusk,Amber Tusk
-12367,Barioth Spike,Barioth Spike
-12368,Barioth Tail,Barioth Tail
-12369,Barioth Claw+,Barioth Claw+
-12370,Barioth Cortex,Barioth Cortex
+12367,Barioth Spike,冰牙龍的棘
+12368,Barioth Tail,冰牙龍的尾
+12369,Barioth Claw+,冰牙龍的尖爪
+12370,Barioth Cortex,冰牙龍的重殼
 12371,Flashfrost Sac,Flashfrost Sac
-12372,Barioth Tough Hide,Barioth Tough Hide
-12373,Barioth Mantle,Barioth Mantle
+12372,Barioth Tough Hide,冰牙龍的強皮
+12373,Barioth Mantle,冰牙龍的天鱗
 12374,Hvy Amber Tusks,Hvy Amber Tusks
-12375,Barioth Lash,Barioth Lash
+12375,Barioth Lash,冰牙龍的靭尾
 12376,Barioth Talon,Barioth Talon
-12377,W.Hypnoc Suprm Fur,W.Hypnoc Suprm Fur
-12378,W.Hypnoc Suprm Claw,W.Hypnoc Suprm Claw
+12377,W.Hypnoc Suprm Fur,至高白眠鳥的毛
+12378,W.Hypnoc Suprm Claw,至高白眠鳥的爪
 12379,W.Hypnoc V.Beak,W.Hypnoc V.Beak
 12380,W.Hypnoc Tru Bezoar,W.Hypnoc Tru Bezoar
 12381,Hypnoc Silver Hair,Hypnoc Silver Hair
@@ -12401,20 +12401,20 @@ index,source,target
 12399,Dummy 12399,Dummy 12399
 12400,Aniba Quest Tkt,週年任務票
 12401,Exotic Shl,Exotic Shl
-12402,Brach Carapace,Brach Carapace
+12402,Brach Carapace,砕龍的堅殼
 12403,Brach EbonShl,Brach EbonShl
 12404,Mystery Slime,Mystery Slime
 12405,Brach Scalp,Brach Scalp
-12406,Brach Tail,Brach Tail
+12406,Brach Tail,砕龍的尾
 12407,Brach Pounder,Brach Pounder
-12408,Brach Gem,Brach Gem
-12409,Brach Cortex,Brach Cortex
+12408,Brach Gem,砕龍的寶玉
+12409,Brach Cortex,砕龍的重殼
 12410,Brach EbonShl+,Brach EbonShl+
 12411,Glowing Slime,Glowing Slime
 12412,Brach Crown,Brach Crown
-12413,Brach Lash,Brach Lash
+12413,Brach Lash,砕龍的靭尾
 12414,Brach Pounder+,Brach Pounder+
-12415,Brach Pallium,Brach Pallium
+12415,Brach Pallium,砕龍的天殻
 12416,Riko No. Tkt,里科票
 12417,Riko De. Tkt,リコデ票
 12418,Riko To. Tkt,リコト票
@@ -12459,16 +12459,16 @@ index,source,target
 12457,Memory Coin,Memory Coin
 12458,Oblivion Coin,Oblivion Coin
 12459,Bright Coin,Bright Coin
-12460,Raviente Blk Hide,Raviente Blk Hide
-12461,Raviente Blk Scale,Raviente Blk Scale
-12462,Raviente Blk Blood,Raviente Blk Blood
+12460,Raviente Blk Hide,黑大巖龍的皮
+12461,Raviente Blk Scale,黑大巖龍的鱗
+12462,Raviente Blk Blood,黑大巖龍的血
 12463,Ravi Bright Crystal,Ravi Bright Crystal
-12464,Raviente Blk Horn,Raviente Blk Horn
-12465,Raviente Blk Wing,Raviente Blk Wing
-12466,Raviente Blk Tail,Raviente Blk Tail
-12467,Raviente Blk Fang,Raviente Blk Fang
+12464,Raviente Blk Horn,黑大巖龍的角
+12465,Raviente Blk Wing,黑大巖龍的翼
+12466,Raviente Blk Tail,黑大巖龍的尾
+12467,Raviente Blk Fang,黑大巖龍的牙
 12468,Ravi Hidden Marrow,Ravi Hidden Marrow
-12469,Raviente Blk Spike,Raviente Blk Spike
+12469,Raviente Blk Spike,黑大巖龍的棘
 12470,Volga Tkt,沃爾加票
 12471,W Eater Tkt,Ｗ・喰者票
 12472,Tallfish Tkt,高魚票
@@ -12808,18 +12808,18 @@ index,source,target
 12806,Gesture・GS Ⅱ,Gesture・GS Ⅱ
 12807,Gesture・Tonfa Ⅱ,Gesture・Tonfa Ⅱ
 12808,Odi Absolute Shl,Odi Absolute Shl
-12809,Odi Absolute Scale,Odi Absolute Scale
+12809,Odi Absolute Scale,弩岩龍的絶對鱗
 12810,Odi Mandible,Odi Mandible
-12811,Odi Hardspike,Odi Hardspike
-12812,Odi Anger Horn,Odi Anger Horn
-12813,Odi Slaughter Claw,Odi Slaughter Claw
+12811,Odi Hardspike,弩岩龍的堅棘
+12812,Odi Anger Horn,奧迪阿恩蓋的角
+12813,Odi Slaughter Claw,弩岩龍的殺戮爪
 12814,Odi Large Shl,Odi Large Shl
-12815,Odi Huge Carapace,Odi Huge Carapace
+12815,Odi Huge Carapace,奧迪胡蓋的堅殼
 12816,Dora Immortal Shl,Dora Immortal Shl
-12817,Dora Immortal Scale,Dora Immortal Scale
+12817,Dora Immortal Scale,冥雷龍的不滅鱗
 12818,Dora Twilight Gem,Dora Twilight Gem
-12819,Dora Blk Blood,Dora Blk Blood
-12820,Dora Perish Claw,Dora Perish Claw
+12819,Dora Blk Blood,多拉的血
+12820,Dora Perish Claw,多拉佩里的爪
 12821,B.Kut-Ku Ancnt Scl,B.Kut-Ku Ancnt Scl
 12822,B.Kut-Ku Ancnt Shl,B.Kut-Ku Ancnt Shl
 12823,Daming Beak,Daming Beak
@@ -12827,31 +12827,31 @@ index,source,target
 12825,Blue Kut-Ku Ringer,Blue Kut-Ku Ringer
 12826,Toa Ice Scale,Toa Ice Scale
 12827,Toa Shl,Toa Shl
-12828,Toa Fur,Toa Fur
-12829,Toa Gem,Toa Gem
-12830,Toa horn,Toa horn
-12831,Toa Wing,Toa Wing
-12832,Toa Tail,Toa Tail
+12828,Toa Fur,炎狐龍的毛
+12829,Toa Gem,炎狐龍的寶玉
+12830,Toa horn,炎狐龍的角
+12831,Toa Wing,炎狐龍的翼
+12832,Toa Tail,炎狐龍的尾
 12833,Toa Origin Ice Scl,Toa Origin Ice Scl
 12834,Toa Origin Shl,Toa Origin Shl
 12835,Toa Wht Ice Fur,Toa Wht Ice Fur
 12836,Toa Ruby,Toa Ruby
 12837,Toa Pale Sharphorn,Toa Pale Sharphorn
-12838,Toa Fellwing,Toa Fellwing
+12838,Toa Fellwing,炎狐龍的剛翼
 12839,Toa Strong Tail,Toa Strong Tail
 12840,Paraly Tkt,麻痺票
 12841,デシルト生産券,デシルト生産券
-12842,Uragaan Scale+,Uragaan Scale+
-12843,Uragaan Carapace,Uragaan Carapace
+12842,Uragaan Scale+,爆錘龍的上鱗
+12843,Uragaan Carapace,爆錘龍的堅殼
 12844,Uragaan Scute ,Uragaan Scute 
-12845,Uragaan Jaw,Uragaan Jaw
-12846,Uragaan Marrow,Uragaan Marrow
+12845,Uragaan Jaw,爆錘龍的顎
+12846,Uragaan Marrow,爆錘龍的骨髓
 12847,Uragaan Ruby,Uragaan Ruby
-12848,Uragaan Shard,Uragaan Shard
-12849,Uragaan Cortex,Uragaan Cortex
+12848,Uragaan Shard,爆錘龍的厚鱗
+12849,Uragaan Cortex,爆錘龍的重殼
 12850,Uragaan Scute+,Uragaan Scute+
-12851,Uragaan Hard Jaw,Uragaan Hard Jaw
-12852,Uragaan Pallium,Uragaan Pallium
+12851,Uragaan Hard Jaw,爆錘龍的堅顎
+12852,Uragaan Pallium,爆錘龍的天殻
 12853,Gagachu Ticket,加加丘票
 12854,甘露石,甘露石
 12855,夜香水,夜香水
@@ -12900,26 +12900,26 @@ index,source,target
 12898,Movement Speed Gem Ⅰ,Movement Speed Gem Ⅰ
 12899,Movement Speed Gem Ⅱ,Movement Speed Gem Ⅱ
 12900,Kushala Dragon Scl,Kushala Dragon Scl
-12901,Kushala Cortex,Kushala Cortex
-12902,Kushala Riptalon,Kushala Riptalon
+12901,Kushala Cortex,鋼龍的重殼
+12902,Kushala Riptalon,鋼龍的鋭爪
 12903,Large Kushala Gem,Large Kushala Gem
-12904,Kushala Hardhorn,Kushala Hardhorn
-12905,Kushala Fellwing,Kushala Fellwing
+12904,Kushala Hardhorn,鋼龍的堅角
+12905,Kushala Fellwing,鋼龍的剛翼
 12906,Kushala Strong Tail,Kushala Strong Tail
 12907,Kushala Rage Shl,Kushala Rage Shl
 12908,Nullberry,抹消果實
 12909,Chameleos Rare Hde,Chameleos Rare Hde
-12910,Chameleos Fellwing,Chameleos Fellwing
-12911,Chameleos Riptalon,Chameleos Riptalon
+12910,Chameleos Fellwing,霞龍的剛翼
+12911,Chameleos Riptalon,霞龍的鋭爪
 12912,Lg Chameleos Gem,Lg Chameleos Gem
-12913,Chameleos Hardhorn,Chameleos Hardhorn
-12914,Chameleos Hardtail,Chameleos Hardtail
+12913,Chameleos Hardhorn,霞龍的堅角
+12914,Chameleos Hardtail,霞龍的堅尾
 12915,Chameleos GlossHde,Chameleos GlossHde
-12916,Teostra Cortex,Teostra Cortex
+12916,Teostra Cortex,炎王龍的重殼
 12917,Teostra Dragon Scl,Teostra Dragon Scl
-12918,Teostra Hardhorn,Teostra Hardhorn
-12919,Teostra Hardtail,Teostra Hardtail
-12920,Teostra Riptalon,Teostra Riptalon
+12918,Teostra Hardhorn,炎王龍的堅角
+12919,Teostra Hardtail,炎王龍的堅尾
+12920,Teostra Riptalon,炎王龍的鋭爪
 12921,Large Teostra Gem,Large Teostra Gem
 12922,Teostra ImprisonHorn,Teostra ImprisonHorn
 12923,Doragyurosu BM G,Doragyurosu BM G
@@ -13038,20 +13038,20 @@ index,source,target
 13036,FG5 Tkt 3,ＦＧ５票・３
 13037,FG5 Tkt 4,ＦＧ５票・４
 13038,FG5 Tkt 5,ＦＧ５票・５
-13039,Nargacuga Scale,Nargacuga Scale
+13039,Nargacuga Scale,迅龍的鱗
 13040,Nargacuga Blackfur,Nargacuga Blackfur
-13041,Narga Tail,Narga Tail
+13041,Narga Tail,迅龍的尾
 13042,Narga Tailspike,Narga Tailspike
 13043,Nargacuga Cutwing,Nargacuga Cutwing
-13044,Narga Fang,Narga Fang
+13044,Narga Fang,迅龍的牙
 13045,Narga Medulla,Narga Medulla
-13046,Nargacuga Shard,Nargacuga Shard
+13046,Nargacuga Shard,迅龍的厚鱗
 13047,Narga Blackfur+,Narga Blackfur+
 13048,Narga Strong Tail,Narga Strong Tail
 13049,Narga Tailspear,Narga Tailspear
-13050,Nargacuga Lash,Nargacuga Lash
-13051,Narga Heavy Fang,Narga Heavy Fang
-13052,Nargacuga Mantle,Nargacuga Mantle
+13050,Nargacuga Lash,迅龍的靭尾
+13051,Narga Heavy Fang,迅龍的重牙
+13052,Nargacuga Mantle,迅龍的天鱗
 13053,Persimmon Jewel,Persimmon Jewel
 13054,Magnolia Jewel,Magnolia Jewel
 13055,Mosaic Jewel,Mosaic Jewel
@@ -13086,14 +13086,14 @@ index,source,target
 13084,Black Orb,Black Orb
 13085,Yellow Orb,Yellow Orb
 13086,Dummy 13086,Dummy 13086
-13087,Guanzorumu Scale,Guanzorumu Scale
-13088,Guanzorumu Pelt,Guanzorumu Pelt
-13089,Guanzorumu Blood,Guanzorumu Blood
+13087,Guanzorumu Scale,帝征龍的鱗
+13088,Guanzorumu Pelt,帝征龍的皮
+13089,Guanzorumu Blood,帝征龍的血
 13090,Guanzorumu Ruby,Guanzorumu Ruby
-13091,Guanzorumu Claw,Guanzorumu Claw
-13092,Guanzorumu Wing,Guanzorumu Wing
-13093,Guanzorumu Tail,Guanzorumu Tail
-13094,Guanzorumu Marrow,Guanzorumu Marrow
+13091,Guanzorumu Claw,帝征龍的爪
+13092,Guanzorumu Wing,帝征龍的翼
+13093,Guanzorumu Tail,帝征龍的尾
+13094,Guanzorumu Marrow,帝征龍的骨髓
 13095,Crit Conv PA1,Crit Conv PA1
 13096,Crit Conv PA2,Crit Conv PA2
 13097,S. Assault PA1,S. Assault PA1
@@ -13323,15 +13323,15 @@ index,source,target
 13321,G Issen・Resist,G Issen・Resist
 13322,Spec.Flower Basket,Spec.Flower Basket
 13323,Golden Book,Golden Book
-13324,Shining Fur,Shining Fur
+13324,Shining Fur,希尼恩的毛
 13325,Solemn Thorns,Solemn Thorns
 13326,Waka Ticket,瓦可票
 13327,S Flare Tkt Ⅰ,閃焔ＳⅠ票
 13328,S Flare Tkt Ⅱ,フレアＳ票Ⅱ
 13329,S Flare Tkt Ⅲ,フレアＳ票Ⅲ
 13330,Voljang Proof,Voljang Proof
-13331,Kirin Storm Hide,Kirin Storm Hide
-13332,Kirin Storm Tail,Kirin Storm Tail
+13331,Kirin Storm Hide,嵐麒麟的皮
+13332,Kirin Storm Tail,嵐麒麟的尾
 13333,Kirin Sinew,Kirin Sinew
 13334,Kirin Silver Mane,Kirin Silver Mane
 13335,Kirin Purehorn,Kirin Purehorn
@@ -13342,23 +13342,23 @@ index,source,target
 13340,Ruko.Shocklash,Ruko.Shocklash
 13341,Dark Spectrum Gem,Dark Spectrum Gem
 13342,Rukodiora R.Spine,Rukodiora R.Spine
-13343,Rukodiora Red Claw,Rukodiora Red Claw
-13344,Rukodiora Red Horn,Rukodiora Red Horn
+13343,Rukodiora Red Claw,赤黑狐龍的爪
+13344,Rukodiora Red Horn,赤黑狐龍的角
 13345,Ruko Red Membrane,Ruko Red Membrane
-13346,Voljang Shell,Voljang Shell
-13347,Voljang Fang,Voljang Fang
+13346,Voljang Shell,紅蓮獅子的甲殼
+13347,Voljang Fang,紅蓮獅子的牙
 13348,Voljang Heat Hide,Voljang Heat Hide
-13349,Voljang Blood,Voljang Blood
-13350,Voljang Horn,Voljang Horn
+13349,Voljang Blood,紅蓮獅子的血
+13350,Voljang Horn,紅蓮獅子的角
 13351,Flintstone,Flintstone
-13352,Voljang Tail,Voljang Tail
+13352,Voljang Tail,紅蓮獅子的尾
 13353,Voljang Origin Shl,Voljang Origin Shl
 13354,Voljang Origin Fng,Voljang Origin Fng
 13355,Voljang Heat Piel,Voljang Heat Piel
 13356,Voljang Dark Blood,Voljang Dark Blood
 13357,Voljang Heavy Horn,Voljang Heavy Horn
 13358,Solid Flintstone,Solid Flintstone
-13359,Voljang Lash,Voljang Lash
+13359,Voljang Lash,紅蓮獅子的靭尾
 13360,NK1 Tkt 1,ＮＫ１票・１
 13361,NK1 Tkt 2,ＮＫ１票・２
 13362,NK1 Tkt 3,ＮＫ１票・３
@@ -13376,19 +13376,19 @@ index,source,target
 13374,Dummy 13374,Dummy 13374
 13375,S.Zinogre Shl,S.Zinogre Shl
 13376,S.Zinogre Drgn Fur,S.Zinogre Drgn Fur
-13377,S.Zinogre Claw,S.Zinogre Claw
+13377,S.Zinogre Claw,獄狼龍的爪
 13378,S.Zinogre Drgn Shl,S.Zinogre Drgn Shl
 13379,Dracophage Bug,Dracophage Bug
 13380,S.ZinogreUmbrge,S.ZinogreUmbrge
-13381,S.Zinogre Tail,S.Zinogre Tail
-13382,S.Zinogre Horn,S.Zinogre Horn
-13383,S.Zin Cortex,S.Zin Cortex
+13381,S.Zinogre Tail,獄狼龍的尾
+13382,S.Zinogre Horn,獄狼龍的角
+13383,S.Zin Cortex,齊恩的重殼
 13384,S.Zin Pulsing Fur,S.Zin Pulsing Fur
-13385,S.Zin Riptalon,S.Zin Riptalon
+13385,S.Zin Riptalon,齊恩的鋭爪
 13386,S.Zin Pulsing Shl,S.Zin Pulsing Shl
 13387,S.Zinogre Jasper,S.Zinogre Jasper
-13388,S.Zinogre Hardtail,S.Zinogre Hardtail
-13389,S.Zinogre Hardhorn,S.Zinogre Hardhorn
+13388,S.Zinogre Hardtail,獄狼龍的堅尾
+13389,S.Zinogre Hardhorn,獄狼龍的堅角
 13390,Engine Key,Engine Key
 13391,Vampire Blood,Vampire Blood
 13392,Gu Neko Tkt,古猫票
@@ -13614,12 +13614,12 @@ index,source,target
 13612,T. Ice Acid,塔冰結酸
 13613,T. Dragon Acid,塔滅龍酸
 13614,Dummy 13614,Dummy 13614
-13615,Zena Scale,Zena Scale
-13616,Zena Shell,Zena Shell
-13617,Zena Marrow,Zena Marrow
+13615,Zena Scale,天彗龍的鱗
+13616,Zena Shell,天彗龍的甲殼
+13617,Zena Marrow,天彗龍的骨髓
 13618,Zena Black Gem,Zena Black Gem
-13619,Zena Blade,Zena Blade
-13620,Zena Tail,Zena Tail
+13619,Zena Blade,天彗龍的刃
+13620,Zena Tail,天彗龍的尾
 13621,Zena Blood Gem,Zena Blood Gem
 13622,Dummy 13622,Dummy 13622
 13623,Dummy 13623,Dummy 13623
@@ -13705,8 +13705,8 @@ index,source,target
 13703,Daimyo Z Mid Claw,Daimyo Z Mid Claw
 13704,Daimyo Z High Claw,Daimyo Z High Claw
 13705,Daimyo Z Top Claw,Daimyo Z Top Claw
-13706,Hypnoc Orange Fur,Hypnoc Orange Fur
-13707,Hypnoc Riptalon,Hypnoc Riptalon
+13706,Hypnoc Orange Fur,眠鳥的橙毛
+13707,Hypnoc Riptalon,眠鳥的鋭爪
 13708,Hypnoc Saliva,Hypnoc Saliva
 13709,Hypnoc Comb,Hypnoc Comb
 13710,Hypnoc Dark Bezoar,Hypnoc Dark Bezoar
@@ -13724,22 +13724,22 @@ index,source,target
 13722,Deadly Poison Sac,Deadly Poison Sac
 13723,Espinas Huge Gem,Espinas Huge Gem
 13724,Espinas Wing Claw,Espinas Wing Claw
-13725,Espinas Heavy Wing,Espinas Heavy Wing
+13725,Espinas Heavy Wing,棘龍的重翼
 13726,Espi Psn Gland,Espi Psn Gland
 13727,Espinas Para Gland,Espinas Para Gland
-13728,Espinas Psn Marrow,Espinas Psn Marrow
-13729,Espinas Psn Tail,Espinas Psn Tail
-13730,Espinas Z Horn,Espinas Z Horn
-13731,Espinas Z Mid Horn,Espinas Z Mid Horn
+13728,Espinas Psn Marrow,毒棘龍的骨髓
+13729,Espinas Psn Tail,毒棘龍的尾
+13730,Espinas Z Horn,棘龍的角
+13731,Espinas Z Mid Horn,棘龍的角
 13732,Espinas Z High Hrn,Espinas Z High Hrn
-13733,Espinas Z Top Horn,Espinas Z Top Horn
+13733,Espinas Z Top Horn,棘龍的角
 13734,Khezu Fresh Hide,Khezu Fresh Hide
 13735,Khezu Spleen,Khezu Spleen
 13736,Khezu InsulatingFilm,Khezu InsulatingFilm
-13737,Khezu Antenna Fur,Khezu Antenna Fur
+13737,Khezu Antenna Fur,赫祖阿恩特恩納的毛
 13738,Khezu SoftPearlSkn,Khezu SoftPearlSkn
 13739,Khezu Pearl,Khezu Pearl
-13740,Khezu Soft Wing,Khezu Soft Wing
+13740,Khezu Soft Wing,赫祖索的翼
 13741,Khezu Sup Soft Wng,Khezu Sup Soft Wng
 13742,Khezu Stomach,Khezu Stomach
 13743,Khezu Huge Stomach,Khezu Huge Stomach
@@ -13749,33 +13749,33 @@ index,source,target
 13747,Khezu Z Mid Head,Khezu Z Mid Head
 13748,Khezu Z High Head,Khezu Z High Head
 13749,Khezu Z Top Head,Khezu Z Top Head
-13750,Gore Magala Scale+,Gore Magala Scale+
-13751,Gore Magala Carapace,Gore Magala Carapace
+13750,Gore Magala Scale+,黑蝕龍的上鱗
+13751,Gore Magala Carapace,黑蝕龍的堅殼
 13752,Gore Magala Ripclaw+,Gore Magala Ripclaw+
-13753,Gore Magala Wing+,Gore Magala Wing+
+13753,Gore Magala Wing+,黑蝕龍的上翼
 13754,Gore Magala Nyctgem,Gore Magala Nyctgem
-13755,Gore Magala Plate,Gore Magala Plate
-13756,Gore Magala Tail,Gore Magala Tail
+13755,Gore Magala Plate,黑蝕龍的逆鱗
+13756,Gore Magala Tail,黑蝕龍的尾
 13757,Gore Magala Feeler+,Gore Magala Feeler+
 13758,Defiled Scale,Defiled Scale
-13759,Gore Magala Shard,Gore Magala Shard
-13760,Gore Magala Cortex,Gore Magala Cortex
+13759,Gore Magala Shard,黑蝕龍的厚鱗
+13760,Gore Magala Cortex,黑蝕龍的重殼
 13761,Gore Magala Shredder,Gore Magala Shredder
 13762,Gore Magala Eclipse,Gore Magala Eclipse
-13763,Gore Magala Mantle,Gore Magala Mantle
-13764,Gore Magala Lash,Gore Magala Lash
+13763,Gore Magala Mantle,黑蝕龍的天鱗
+13764,Gore Magala Lash,黑蝕龍的靭尾
 13765,Gore Magala Sensor,Gore Magala Sensor
 13766,Rathalos Flame Shl,Rathalos Flame Shl
 13767,Rathalos Searscale,Rathalos Searscale
 13768,Rathalos Searclaw,Rathalos Searclaw
-13769,Los Burning Blood,Los Burning Blood
+13769,Los Burning Blood,炎火龍的血
 13770,Rathalos L.Plate,Rathalos L.Plate
 13771,Rathalos Nova Gem,Rathalos Nova Gem
 13772,Rathalos Crown,Rathalos Crown
 13773,Rathalos S. Crown,Rathalos S. Crown
-13774,Los Burning Tail,Los Burning Tail
+13774,Los Burning Tail,炎火龍的尾
 13775,Los S.Burning Tail,Los S.Burning Tail
-13776,Rathalos Z Wing,Rathalos Z Wing
+13776,Rathalos Z Wing,拉薩洛的翼
 13777,Los Z Mid Wing,Los Z Mid Wing
 13778,Los Z High Wing,Los Z High Wing
 13779,Los Z Fellwing,Los Z Fellwing
@@ -13917,15 +13917,15 @@ index,source,target
 13915,Zena GN GX3,Zena GN GX3
 13916,Zena GN GX4,Zena GN GX4
 13917,Zena GN GX5,Zena GN GX5
-13918,Blang Brutal Fur,Blang Brutal Fur
-13919,Blang Brutal Fang,Blang Brutal Fang
-13920,Blang Brutal Hide,Blang Brutal Hide
-13921,Blang Brutal Bone,Blang Brutal Bone
+13918,Blang Brutal Fur,兇暴雪獅子的毛
+13919,Blang Brutal Fang,兇暴雪獅子的牙
+13920,Blang Brutal Hide,兇暴雪獅子的皮
+13921,Blang Brutal Bone,兇暴雪獅子的骨
 13922,Blang Noble Beard,Blang Noble Beard
 13923,Blangonga Winter Gem,Blangonga Winter Gem
 13924,Blang Majestic Fang,Blang Majestic Fang
 13925,Blang HvyMajesticFng,Blang HvyMajesticFng
-13926,Blangonga Soft Tail,Blangonga Soft Tail
+13926,Blangonga Soft Tail,拉恩戈恩加索的尾
 13927,Blang Strng Soft Tl,Blang Strng Soft Tl
 13928,Blangonga Z Arm,Blangonga Z Arm
 13929,Blangonga Z Mid Arm,Blangonga Z Mid Arm
@@ -13934,7 +13934,7 @@ index,source,target
 13932,Solid Giant Bone,Solid Giant Bone
 13933,Unique Blk Scales,Unique Blk Scales
 13934,Sirena Ore,Sirena Ore
-13935,Mutant Shell,Mutant Shell
+13935,Mutant Shell,穆塔恩的甲殼
 13936,Destin Tkt,德斯坦票
 13937,エヴァイ生産券,エヴァイ生産券
 13938,スコペル生産券,スコペル生産券
@@ -14046,21 +14046,21 @@ index,source,target
 14044,Vash. Extreme Fluid,Vash. Extreme Fluid
 14045,Deadly Paralysis Sac,Deadly Paralysis Sac
 14046,Vashimu Lrg Crystal,Vashimu Lrg Crystal
-14047,Vashimu Hard Jaw,Vashimu Hard Jaw
+14047,Vashimu Hard Jaw,尾晶蠍的顎
 14048,Vashimu Strong Jaw,Vashimu Strong Jaw
-14049,Vashimu Hard Claw,Vashimu Hard Claw
+14049,Vashimu Hard Claw,尾晶蠍的爪
 14050,Vashimu Shred Claw,Vashimu Shred Claw
-14051,Vashimu Z Tail,Vashimu Z Tail
+14051,Vashimu Z Tail,阿希穆的尾
 14052,Vashimu Z Mid Tail,Vashimu Z Mid Tail
 14053,Vashimu Z High Tail,Vashimu Z High Tail
 14054,Vashimu Z Top Tail,Vashimu Z Top Tail
 14055,Keoaru Charcoal Hide,Keoaru Charcoal Hide
-14056,Keoaru Large Bone,Keoaru Large Bone
-14057,Keoaru Boiling Fluid,Keoaru Boiling Fluid
+14056,Keoaru Large Bone,大煌晶龍的骨
+14057,Keoaru Boiling Fluid,凱奧阿魯博伊利恩的體液
 14058,Keoaruboru Large Gem,Keoaruboru Large Gem
-14059,Keoaru Super Tail,Keoaru Super Tail
-14060,Keoaru Burning Horn,Keoaru Burning Horn
-14061,Keoaru Large Claw,Keoaru Large Claw
+14059,Keoaru Super Tail,凱奧阿魯蘇佩的尾
+14060,Keoaru Burning Horn,煌晶龍的燃燒角
+14061,Keoaru Large Claw,大煌晶龍的爪
 14062,Keoaru Shaped Shl,Keoaru Shaped Shl
 14063,Legendary Rasta Tkt,伝説光明票
 14064,Storage Guide・Extreme,Storage Guide・Extreme
@@ -14071,11 +14071,11 @@ index,source,target
 14069,Saga Tkt,傳奇票
 14070,T260G Tkt,Ｔ２６０Ｇ票
 14071,Katana Soul,Katana Soul
-14072,Tigrex Hard Scale,Tigrex Hard Scale
-14073,Tigrex Hard Hide,Tigrex Hard Hide
+14072,Tigrex Hard Scale,堅轟龍的鱗
+14073,Tigrex Hard Hide,堅轟龍的皮
 14074,Tigrex Hunger Fang,Tigrex Hunger Fang
-14075,Tigrex Rage Blood,Tigrex Rage Blood
-14076,Tigrex Rage Sac,Tigrex Rage Sac
+14075,Tigrex Rage Blood,怒轟龍的血
+14076,Tigrex Rage Sac,怒轟龍的袋
 14077,Tigrex Amber Gem,Tigrex Amber Gem
 14078,Tigrex Grinding Jaw,Tigrex Grinding Jaw
 14079,Tigrex Crushing Jaw,Tigrex Crushing Jaw
@@ -14210,22 +14210,22 @@ index,source,target
 14208,Tower Tnd Bomb S.,塔雷爆彈Ｓ
 14209,Tower Ice Bomb S.,塔冰爆彈Ｓ
 14210,Tower Drg Bomb S.,塔龍爆彈Ｓ
-14211,S.Magala Scale+,S.Magala Scale+
-14212,S.Magala Carapace,S.Magala Carapace
+14211,S.Magala Scale+,天廻龍的上鱗
+14212,S.Magala Carapace,天廻龍的堅殼
 14213,S.Magala Caress+,S.Magala Caress+
 14214,S.Magala Prismwing+,S.Magala Prismwing+
 14215,S.Magala Phosgem,S.Magala Phosgem
-14216,S.Magala Plate,S.Magala Plate
-14217,S.Magala Tail,S.Magala Tail
-14218,S.Magala Horn,S.Magala Horn
-14219,Pure Scale,Pure Scale
-14220,S.Magala Shard,S.Magala Shard
-14221,S.Magala Cortex,S.Magala Cortex
+14216,S.Magala Plate,天廻龍的逆鱗
+14217,S.Magala Tail,天廻龍的尾
+14218,S.Magala Horn,天廻龍的角
+14219,Pure Scale,普雷的鱗
+14220,S.Magala Shard,天廻龍的厚鱗
+14221,S.Magala Cortex,天廻龍的重殼
 14222,S.Magala Purifier,S.Magala Purifier
 14223,S.Magala Lightwing,S.Magala Lightwing
-14224,S.Magala Mantle,S.Magala Mantle
-14225,S.Magala Lash,S.Magala Lash
-14226,S.Magala Hardhorn,S.Magala Hardhorn
+14224,S.Magala Mantle,天廻龍的天鱗
+14225,S.Magala Lash,天廻龍的靭尾
+14226,S.Magala Hardhorn,天廻龍的堅角
 14227,桃のクリスタル,桃のクリスタル
 14228,緑のクリスタル,緑のクリスタル
 14229,紫のクリスタル,紫のクリスタル
@@ -14250,7 +14250,7 @@ index,source,target
 14248,Ripped Paper Piece:3/3,Ripped Paper Piece:3/3
 14249,Giaorugu Frozen Scle,Giaorugu Frozen Scle
 14250,Giaorugu Fever Hide,Giaorugu Fever Hide
-14251,Giaorugu Sharp Claw,Giaorugu Sharp Claw
+14251,Giaorugu Sharp Claw,吉阿奧魯古夏的爪
 14252,Giao Frost Marrow,Giao Frost Marrow
 14253,Giaorugu Frost Blood,Giaorugu Frost Blood
 14254,Giaorugu Frost Gem,Giaorugu Frost Gem
@@ -14259,21 +14259,21 @@ index,source,target
 14257,Giaorugu Ice Sac,Giaorugu Ice Sac
 14258,Giao Ultra Ice Sac,Giao Ultra Ice Sac
 14259,Giaorugu Thick Bone,Giaorugu Thick Bone
-14260,Giaorugu Heavy Bone,Giaorugu Heavy Bone
-14261,Giaorugu Z Tail,Giaorugu Z Tail
+14260,Giaorugu Heavy Bone,吉阿奧魯古赫阿的骨
+14261,Giaorugu Z Tail,吉阿奧魯古的尾
 14262,Giao Z Mid Tail,Giao Z Mid Tail
 14263,Giao Z High tail,Giao Z High tail
 14264,Giao Z Top Tail,Giao Z Top Tail
-14265,Hyuji Soft Fur,Hyuji Soft Fur
-14266,Hyuji Heavy Bone,Hyuji Heavy Bone
-14267,Hyuji Large Spike,Hyuji Large Spike
+14265,Hyuji Soft Fur,針纏龍的毛
+14266,Hyuji Heavy Bone,針纏龍的重骨
+14267,Hyuji Large Spike,大針纏龍的棘
 14268,Hyuji Tendon,Hyuji Tendon
-14269,Shrunken Poison Sac,Shrunken Poison Sac
+14269,Shrunken Poison Sac,魯恩凱恩波伊索恩的袋
 14270,Golden Needle,Golden Needle
 14271,Hyuji Strong Tail,Hyuji Strong Tail
 14272,Hyuji Tough Tail,Hyuji Tough Tail
-14273,Hyuji Large Horn,Hyuji Large Horn
-14274,Hyuji Lrg Solid Horn,Hyuji Lrg Solid Horn
+14273,Hyuji Large Horn,大針纏龍的角
+14274,Hyuji Lrg Solid Horn,針纏龍的角
 14275,Hyuji Iron Talon,Hyuji Iron Talon
 14276,Hyuji Shrp Irn Talon,Hyuji Shrp Irn Talon
 14277,Hyuji Z Needle,Hyuji Z Needle
@@ -14358,12 +14358,12 @@ index,source,target
 14356,Elzelion Sharp Scale,Elzelion Sharp Scale
 14357,Elzelion Mane,Elzelion Mane
 14358,Elzelion Twin Sac,Elzelion Twin Sac
-14359,Elzelion Gem,Elzelion Gem
+14359,Elzelion Gem,灼零龍的寶玉
 14360,Elze Burning Claw,Elze Burning Claw
 14361,Elzelion Zero Claw,Elzelion Zero Claw
 14362,Elzelion Fuel Horn,Elzelion Fuel Horn
 14363,Elze Frozen Horn,Elze Frozen Horn
-14364,Elzelion Tail,Elzelion Tail
+14364,Elzelion Tail,灼零龍的尾
 14365,10th Ticket,10周年票
 14366,10th Combo Ticket,10周年組合票
 14367,10th Weapon Ticket,10周年武器票
@@ -14371,12 +14371,12 @@ index,source,target
 14369,ホルクの楽譜,ホルクの楽譜
 14370,幻の灼零卵殻,幻の灼零卵殻
 14371,淡雪シュガー,淡雪シュガー
-14372,Mido Tough Hide,Mido Tough Hide
+14372,Mido Tough Hide,米多托烏的皮
 14373,Mido Purple Fur,Mido Purple Fur
 14374,Mido Large Bone,Mido Large Bone
 14375,Mido Speed Claw,Mido Speed Claw
 14376,Mido Soft Tendon,Mido Soft Tendon
-14377,Mido Boiling Blood,Mido Boiling Blood
+14377,Mido Boiling Blood,米多博伊利恩的血
 14378,MidoHotPiercingFang,MidoHotPiercingFang
 14379,Mido Warp Eye,Mido Warp Eye
 14380,Mido Red Spine,Mido Red Spine
@@ -14397,7 +14397,7 @@ index,source,target
 14395,W Fata Flshng Rd Eye,W Fata Flshng Rd Eye
 14396,W. Fata Pale Wng Clw,W. Fata Pale Wng Clw
 14397,W. Fata Cracked Wing,W. Fata Cracked Wing
-14398,W. Fata Wht Shell,W. Fata Wht Shell
+14398,W. Fata Wht Shell,阿塔的甲殼
 14399,W. Fata Glwng Rd Shl,W. Fata Glwng Rd Shl
 14400,End Soul Grass,End Soul Grass
 14401,Blue Ice Magatama,Blue Ice Magatama
@@ -14511,7 +14511,7 @@ index,source,target
 14509,Korinyi C Tkt,コリニィＣ票
 14510,Levin D Tkt,レビンＤ票
 14511,Plesioth Dull Scale,Plesioth Dull Scale
-14512,Plesioth Gill,Plesioth Gill
+14512,Plesioth Gill,雷西奧的鰓
 14513,Plesioth Blue Fang,Plesioth Blue Fang
 14514,Plesi Viscous Marrow,Plesi Viscous Marrow
 14515,Plesioth Muddy Gel,Plesioth Muddy Gel
@@ -14520,25 +14520,25 @@ index,source,target
 14518,Plesi Z Mid Head,Plesi Z Mid Head
 14519,Plesi Z High Head,Plesi Z High Head
 14520,Plesi Z Top Head,Plesi Z Top Head
-14521,Plesioth Large Fin,Plesioth Large Fin
+14521,Plesioth Large Fin,水龍的大鰭
 14522,Plesioth Huge Fin,Plesioth Huge Fin
 14523,Plesioth Strong Leg,Plesioth Strong Leg
 14524,Plesioth Tough Leg,Plesioth Tough Leg
-14525,Plesioth Tail Spike,Plesioth Tail Spike
+14525,Plesioth Tail Spike,水龍的棘
 14526,Plesi Shrp Tail Spk,Plesi Shrp Tail Spk
 14527,Ruko Magnet Scale,Ruko Magnet Scale
 14528,Rukodiora Rigid Shll,Rukodiora Rigid Shll
 14529,Ruko Shrp Magnet Clw,Ruko Shrp Magnet Clw
-14530,Rukodiora Heavy Bone,Rukodiora Heavy Bone
-14531,Rukodiora Null Blood,Rukodiora Null Blood
+14530,Rukodiora Heavy Bone,黑狐龍的重骨
+14531,Rukodiora Null Blood,魯科迪奧拉努的血
 14532,Rukodiora Magnet Gem,Rukodiora Magnet Gem
-14533,Ruko Orange Spike,Ruko Orange Spike
+14533,Ruko Orange Spike,橙黑狐龍的棘
 14534,Ruko Magnetic Tail,Ruko Magnetic Tail
-14535,Ruko Orange Horn,Ruko Orange Horn
+14535,Ruko Orange Horn,橙黑狐龍的角
 14536,Ruko Extreme Horn,Ruko Extreme Horn
 14537,Melente Mat,Melente Mat
 14538,HL Hiden Tkt,ＨＬ秘傳票
-14539,Ruko Z Wing,Ruko Z Wing
+14539,Ruko Z Wing,魯科的翼
 14540,Ruko Z Mid Wing,Ruko Z Mid Wing
 14541,Ruko Z High Wng,Ruko Z High Wng
 14542,Ruko Z Top Wing,Ruko Z Top Wing
@@ -14709,15 +14709,15 @@ index,source,target
 14707,Ani 2014 Production D,Ani 2014 Production D
 14708,Kaila D Tkt,カイラＤ票
 14709,Fonse D Tkt,豐斯Ｄ票
-14710,Amatsu Carapace,Amatsu Carapace
+14710,Amatsu Carapace,嵐龍的堅殼
 14711,Amatsu Pleura,Amatsu Pleura
-14712,Amatsu Claw+,Amatsu Claw+
-14713,Amatsu Webbing,Amatsu Webbing
+14712,Amatsu Claw+,嵐龍的尖爪
+14713,Amatsu Webbing,嵐龍的翼膜
 14714,Storm Vesicle,Storm Vesicle
 14715,Heavenly Dragon Gem,Heavenly Dragon Gem
-14716,Amatsu Tail,Amatsu Tail
-14717,Amatsu Horn,Amatsu Horn
-14718,Amatsu Cortex,Amatsu Cortex
+14716,Amatsu Tail,嵐龍的尾
+14717,Amatsu Horn,嵐龍的角
+14718,Amatsu Cortex,嵐龍的重殼
 14719,Amatsu Heavy Pleura,Amatsu Heavy Pleura
 14720,AmatsuHrdClw(GRClaw),AmatsuHrdClw(GRClaw)
 14721,Amatsu Thickweb,Amatsu Thickweb
@@ -14725,19 +14725,19 @@ index,source,target
 14723,Heavenly Dragsphire,Heavenly Dragsphire
 14724,Amatsu Storm Tail,Amatsu Storm Tail
 14725,Amatsu Hard Horn,Amatsu Hard Horn
-14726,Inagami Tenacious Hide,Inagami Tenacious Hide
-14727,Inagami Tenacious Scale,Inagami Tenacious Scale
-14728,Inagami Tenacious Bone,Inagami Tenacious Bone
+14726,Inagami Tenacious Hide,強稻荷龍的皮
+14727,Inagami Tenacious Scale,強稻荷龍的鱗
+14728,Inagami Tenacious Bone,強稻荷龍的骨
 14729,Inagami Tenacious Hair,Inagami Tenacious Hair
-14730,Inagami Bamboo Shell,Inagami Bamboo Shell
-14731,Inagami Shoot Marrow,Inagami Shoot Marrow
-14732,Inagami Hardfang,Inagami Hardfang
+14730,Inagami Bamboo Shell,稻荷龍的甲殼
+14731,Inagami Shoot Marrow,伊納加米肖奧的骨髓
+14732,Inagami Hardfang,雅翁龍的堅牙
 14733,Inagami Bold Mustasche,Inagami Bold Mustasche
-14734,Inagami Sharp Claw,Inagami Sharp Claw
+14734,Inagami Sharp Claw,稻荷龍的鋭爪
 14735,Inagami Fibrous Tendon,Inagami Fibrous Tendon
 14736,Inagami Blunt Claw,Inagami Blunt Claw
 14737,Inagami Hard Tendon,Inagami Hard Tendon
-14738,Inagami Z Tail,Inagami Z Tail
+14738,Inagami Z Tail,伊納加米的尾
 14739,Inagami Z Mid Tail,Inagami Z Mid Tail
 14740,Inagami Z High Tail,Inagami Z High Tail
 14741,Inagami Z Top Tail,Inagami Z Top Tail
@@ -14858,34 +14858,34 @@ index,source,target
 14856,DoublCherryTreSeed,DoublCherryTreSeed
 14857,桜吹雪の巻物,桜吹雪の巻物
 14858,Absolute Armor Sphere,Absolute Armor Sphere
-14859,Torid Lovely Shell,Torid Lovely Shell
-14860,Torid Lovely Fur,Torid Lovely Fur
+14859,Torid Lovely Shell,照雷鳥・麗的甲殼
+14860,Torid Lovely Fur,照雷鳥・麗的毛
 14861,Torid Lovely Wng Clw,Torid Lovely Wng Clw
 14862,Torid Lovely Marrow,Torid Lovely Marrow
 14863,Torid Bright Roots,Torid Bright Roots
 14864,Torid Shining Gem,Torid Shining Gem
-14865,Torid Z Wing,Torid Z Wing
+14865,Torid Z Wing,托里的翼
 14866,Torid Z Mid Wing,Torid Z Mid Wing
 14867,Torid Z High Wing,Torid Z High Wing
 14868,Torid Z Top Wing,Torid Z Top Wing
 14869,Torid Full Plume,Torid Full Plume
 14870,Torid Lovely Plume,Torid Lovely Plume
 14871,Torid Complete Tail,Torid Complete Tail
-14872,Torid Lovely Tail,Torid Lovely Tail
+14872,Torid Lovely Tail,照雷鳥・麗的尾
 14873,Dora Grief Shl,Dora Grief Shl
-14874,Dora Grief Scale,Dora Grief Scale
-14875,Dora Grief Claw,Dora Grief Claw
-14876,Dora Roaring Blood,Dora Roaring Blood
+14874,Dora Grief Scale,冥雷龍・悼的鱗
+14875,Dora Grief Claw,冥雷龍・悼的爪
+14876,Dora Roaring Blood,多拉羅阿里恩的血
 14877,Dora Erosion Gem,Dora Erosion Gem
 14878,Dora Erosion Marrow,Dora Erosion Marrow
-14879,Dora Z Horn,Dora Z Horn
-14880,Dora Z Mid Horn,Dora Z Mid Horn
+14879,Dora Z Horn,多拉的角
+14880,Dora Z Mid Horn,冥雷龍的角
 14881,Dora Z High Hrn,Dora Z High Hrn
-14882,Dora Z Top Horn,Dora Z Top Horn
-14883,Dora Grief Wing,Dora Grief Wing
-14884,Dora Erosion Wing,Dora Erosion Wing
-14885,Dora Grief Tail,Dora Grief Tail
-14886,Dora Erosion Tail,Dora Erosion Tail
+14882,Dora Z Top Horn,冥雷龍的角
+14883,Dora Grief Wing,冥雷龍・悼的翼
+14884,Dora Erosion Wing,冥雷龍・蝕的翼
+14885,Dora Grief Tail,冥雷龍・悼的尾
+14886,Dora Erosion Tail,冥雷龍・蝕的尾
 14887,EXTELLA Gacha Token,EXTELLA Gacha Token
 14888,Gesture・SAF Ⅰ,Gesture・SAF Ⅰ
 14889,Gesture・SAF Ⅱ,Gesture・SAF Ⅱ
@@ -14950,31 +14950,31 @@ index,source,target
 14948,Apocrypha Gacha Token 2,Apocrypha Gacha Token 2
 14949,Bonne D Tkt,邦内Ｄ票
 14950,G Evasion Boost,G Evasion Boost
-14951,Anoru Woe Scale,Anoru Woe Scale
-14952,Anoru Woe Shell,Anoru Woe Shell
-14953,Anoru Woe Fang,Anoru Woe Fang
+14951,Anoru Woe Scale,暴鋸龍・厄的鱗
+14952,Anoru Woe Shell,暴鋸龍・厄的甲殼
+14953,Anoru Woe Fang,暴鋸龍・厄的牙
 14954,Anoru Silver Gem,Anoru Silver Gem
 14955,Anoru Disaster Marrow,Anoru Disaster Marrow
 14956,Anoru Z Sawhorn,Anoru Z Sawhorn
 14957,Anoru Z Mid Sawhorn,Anoru Z Mid Sawhorn
 14958,Anoru Z High Sawhorn,Anoru Z High Sawhorn
 14959,Anoru Z Top Sawhorn,Anoru Z Top Sawhorn
-14960,Anoru Misery Tail,Anoru Misery Tail
+14960,Anoru Misery Tail,阿諾魯米塞的尾
 14961,Anoru Gruesome Tail,Anoru Gruesome Tail
 14962,Anoru Large Back Fin,Anoru Large Back Fin
 14963,Anoru Extreme Back Fin,Anoru Extreme Back Fin
 14964,Anoru Blue Wing,Anoru Blue Wing
 14965,Anoru Extreme Blue Wing,Anoru Extreme Blue Wing
-14966,Anoru Woe Blood,Anoru Woe Blood
-14967,Gasura Dried Hide,Gasura Dried Hide
-14968,Gasura Dried Scale,Gasura Dried Scale
+14966,Anoru Woe Blood,暴鋸龍・厄的血
+14967,Gasura Dried Hide,乾怒貌龍的皮
+14968,Gasura Dried Scale,乾怒貌龍的鱗
 14969,Gasura Poison Gland,Gasura Poison Gland
-14970,Gasurabazura Bone,Gasurabazura Bone
+14970,Gasurabazura Bone,怒貌龍的骨
 14971,Gasura Venom Sac,Gasura Venom Sac
 14972,Gasura Fever Blood,Gasura Fever Blood
-14973,Gasura Poison Fang,Gasura Poison Fang
+14973,Gasura Poison Fang,加蘇拉波伊索恩的牙
 14974,Gasura Dried Bld Fng,Gasura Dried Bld Fng
-14975,Gasura Thick Fin,Gasura Thick Fin
+14975,Gasura Thick Fin,怒貌龍的厚鰭
 14976,Gasura Phosphor Fin,Gasura Phosphor Fin
 14977,Gasura Shrp Tail Spk,Gasura Shrp Tail Spk
 14978,Gasura Hvy Tail Spk,Gasura Hvy Tail Spk
@@ -15461,10 +15461,10 @@ index,source,target
 15459,Utatsumugu D Tkt,歌紡Ｄ票
 15460,Calamity Insignia,Calamity Insignia
 15461,Disaster Insignia,Disaster Insignia
-15462,Gravios Heavy Shell,Gravios Heavy Shell
-15463,Gravios Fever Shell,Gravios Fever Shell
-15464,Gravios Heavy Bone,Gravios Heavy Bone
-15465,Gravios Heavy Wing,Gravios Heavy Wing
+15462,Gravios Heavy Shell,重鎧龍的甲殼
+15463,Gravios Fever Shell,鎧龍的甲殼
+15464,Gravios Heavy Bone,重鎧龍的骨
+15465,Gravios Heavy Wing,重鎧龍的翼
 15466,Gravios Blasting Sac,Gravios Blasting Sac
 15467,Gravios Burning Gem,Gravios Burning Gem
 15468,Gravios Heavy Headshell,Gravios Heavy Headshell
@@ -15476,14 +15476,14 @@ index,source,target
 15474,Gravios Z High Body,Gravios Z High Body
 15475,Gravios Z Top Body,Gravios Z Top Body
 15476,Baru Mottled Skin,Baru Mottled Skin
-15477,Baru Indigo Scale,Baru Indigo Scale
+15477,Baru Indigo Scale,巴魯伊恩迪戈的鱗
 15478,Baru Mixed Blood,Baru Mixed Blood
 15479,Baru Crimson Gland,Baru Crimson Gland
 15480,Baru Special Blood Sac,Baru Special Blood Sac
 15481,Baru Grasping Tongue,Baru Grasping Tongue
 15482,Baru Fine Tentacle,Baru Fine Tentacle
 15483,Baru Exquisite Tentacle,Baru Exquisite Tentacle
-15484,Baru Crimson Fin,Baru Crimson Fin
+15484,Baru Crimson Fin,噬血龍的緋鰭
 15485,Baru Vermillion Fin,Baru Vermillion Fin
 15486,Baru Tailtip,Baru Tailtip
 15487,Baru Sharp Tailtip,Baru Sharp Tailtip
@@ -15826,7 +15826,7 @@ index,source,target
 15824,Recolis D Tkt,レコリスＤ票
 15825,Rusty Gears,Rusty Gears
 15826,Guridi D Tkt,古里迪Ｄ票
-15827,Fluffy Tail,Fluffy Tail
+15827,Fluffy Tail,魯的尾
 15828,Shifunyi D Tkt,希芙尼Ｄ票
 15829,Bita BM GX1,Bita BM GX1
 15830,Bita BM GX2,Bita BM GX2
@@ -16424,16 +16424,16 @@ index,source,target
 16422,Choronite,Choronite
 16423,Harudo Ivory Scale,Harudo Ivory Scale
 16424,Harudo Heavy Skin,Harudo Heavy Skin
-16425,Harudo Fine Bone,Harudo Fine Bone
+16425,Harudo Fine Bone,金塵龍的上等骨
 16426,Harudo Brightblood,Harudo Brightblood
 16427,Harudo Medulla,Harudo Medulla
 16428,Harudo Manipulator,Harudo Manipulator
-16429,Harudo Sharp Tail,Harudo Sharp Tail
+16429,Harudo Sharp Tail,鋭金塵龍的尾
 16430,Harudo Tail Core,Harudo Tail Core
-16431,Harudo Sharp Wing,Harudo Sharp Wing
+16431,Harudo Sharp Wing,鋭金塵龍的翼
 16432,Harudo Wing Core,Harudo Wing Core
 16433,Harudo Slash Claw,Harudo Slash Claw
-16434,Harudo Limb Claw,Harudo Limb Claw
+16434,Harudo Limb Claw,哈魯多利的爪
 16435,Harudo Z Head,Harudo Z Head
 16436,Harudo Z Mid Head,Harudo Z Mid Head
 16437,Harudo Z High Head,Harudo Z High Head
@@ -16499,11 +16499,11 @@ index,source,target
 16497,Taikun Cyan Shell,Taikun Cyan Shell
 16498,Taikun Whisker,Taikun Whisker
 16499,Taikun Boltstone,Taikun Boltstone
-16500,Taikun Spike,Taikun Spike
+16500,Taikun Spike,塔伊庫恩的棘
 16501,Taikun Blue Spike,Taikun Blue Spike
 16502,Taikun Leg,Taikun Leg
 16503,Taikun Hard Leg,Taikun Hard Leg
-16504,Taikun Z Claw,Taikun Z Claw
+16504,Taikun Z Claw,塔伊庫恩的爪
 16505,Taikun Z Mid Claw,Taikun Z Mid Claw
 16506,Taikun Z High Claw,Taikun Z High Claw
 16507,Taikun Z Top Claw,Taikun Z Top Claw
