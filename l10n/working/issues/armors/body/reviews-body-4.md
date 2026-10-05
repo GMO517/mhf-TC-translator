@@ -332,11 +332,11 @@
 | 1826 | Charien FX Vest | 夏里安背心【ＦＸ】 |
 | 1827 | Bureshisu FX Mail | 布烏爾艾鎧甲【ＦＸ】 |
 | 1828 | Rathalos LX Mail | 雄火龍鎧甲 |
-| 1829 | Rath Soul RX Mail | 爾阿斯歐鎧甲 |
+| 1829 | Rath Soul RX Mail | 火龍魂鎧甲 |
 | 1830 | Khezu LX Mail | 奇怪龍鎧甲 |
 | 1831 | Khezu RX Mail | 奇怪龍鎧甲 |
-| 1832 | High Metal LX Mail | 赫伊格艾鎧甲 |
-| 1833 | High Metal RX Mail | 赫伊格艾鎧甲 |
+| 1832 | High Metal LX Mail | 上位金屬鎧甲 |
+| 1833 | High Metal RX Mail | 上位金屬鎧甲 |
 | 1834 | Hornetaur LX Vest | 巨甲蟲背心 |
 | 1835 | Hornetaur RX Vest | 巨甲蟲背心 |
 | 1836 | Beru ドラR Mail | 舞雷龍鎧甲【Ｒ】 |

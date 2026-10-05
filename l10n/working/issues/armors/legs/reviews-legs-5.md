@@ -63,8 +63,8 @@
 | 2057 | Kurossu F Boots | 克烏爾歐靴【Ｆ】 |
 | 2058 | Shieri FX Greaves | 夏伊爾伊護腿【ＦＸ】 |
 | 2059 | Shieri FX Leggings | 夏伊爾伊裹腿【ＦＸ】 |
-| 2060 | Craft FX Boots | 克阿芙靴【ＦＸ】 |
-| 2061 | Craft FX Leggings | 克阿芙裹腿【ＦＸ】 |
+| 2060 | Craft FX Boots | 工匠靴【ＦＸ】 |
+| 2061 | Craft FX Leggings | 工匠裹腿【ＦＸ】 |
 | 2062 | Moss Covered FX Greaves | 苔覆護腿【ＦＸ】 |
 | 2063 | Moss Covered FX Leggings | 苔覆裹腿【ＦＸ】 |
 | 2064 | Excelle FX Greaves | 艾克斯艾護腿【ＦＸ】 |
@@ -338,9 +338,9 @@
 | 2332 | Ruko Legs SP White | 極龍腿甲【ＳＰ】・白 |
 | 2333 | Ruko Legs SP Blue | 極龍腿甲【ＳＰ】・青 |
 | 2334 | Ruko Legs SP Red | 極龍腿甲【ＳＰ】・赤 |
-| 2335 | Comrade Boots SP White Red | 戰友靴【ＳＰ】・白 |
-| 2336 | Comrade Boots SP White Blue | 戰友靴【ＳＰ】・白 |
-| 2337 | Comrade Boots SP White Yellow | 戰友靴【ＳＰ】・白 |
+| 2335 | Comrade Boots SP White Red | 戰友靴【ＳＰ】・白赤 |
+| 2336 | Comrade Boots SP White Blue | 戰友靴【ＳＰ】・白青 |
+| 2337 | Comrade Boots SP White Yellow | 戰友靴【ＳＰ】・白黄 |
 | 2338 | Rubellite Greaves | 爾烏布艾護腿 |
 | 2339 | Rubellite F Greaves | 爾烏布艾護腿【Ｆ】 |
 | 2340 | Rubellite FX Greaves | 爾烏布艾護腿【ＦＸ】 |
@@ -418,8 +418,8 @@
 | 2412 | アナキHC Boots | 阿納基靴【ＨＣ】 |
 | 2413 | Royal FY Greaves | 王室護腿 |
 | 2414 | Royal HC Greaves | 王室護腿【ＨＣ】 |
-| 2415 | Lord FY Leggings | 爾歐爾裹腿 |
-| 2416 | Lord HC Leggings | 爾歐爾裹腿【ＨＣ】 |
+| 2415 | Lord FY Leggings | 領主裹腿 |
+| 2416 | Lord HC Leggings | 領主裹腿【ＨＣ】 |
 | 2417 | フレイ Boots | 芙雷伊靴 |
 | 2418 | クロノス Boots | 庫羅諾斯靴 |
 | 2419 | フレイ Leggings | 芙雷伊裹腿 |

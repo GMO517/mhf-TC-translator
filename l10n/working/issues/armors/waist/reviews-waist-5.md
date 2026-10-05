@@ -217,8 +217,8 @@
 | 2211 | Kurossu F Coat | 克烏爾歐腰衣【Ｆ】 |
 | 2212 | Shieri FX Faulds | 夏伊爾伊腰甲【ＦＸ】 |
 | 2213 | Shieri FX Coat | 夏伊爾伊腰衣【ＦＸ】 |
-| 2214 | Craft FX Coil | 克阿芙腰甲【ＦＸ】 |
-| 2215 | Craft FX Coat | 克阿芙腰衣【ＦＸ】 |
+| 2214 | Craft FX Coil | 工匠腰甲【ＦＸ】 |
+| 2215 | Craft FX Coat | 工匠腰衣【ＦＸ】 |
 | 2216 | Moss Covered FX Faulds | 苔覆腰甲【ＦＸ】 |
 | 2217 | Moss Covered FX Coat | 苔覆腰衣【ＦＸ】 |
 | 2218 | Excelle FX Faulds | 艾克斯艾腰甲【ＦＸ】 |
@@ -492,9 +492,9 @@
 | 2486 | Ruko テイル SP White | 極龍腰甲【ＳＰ】・白 |
 | 2487 | Ruko テイル SP Blue | 極龍腰甲【ＳＰ】・青 |
 | 2488 | Ruko テイル SP Red | 極龍腰甲【ＳＰ】・赤 |
-| 2489 | Comrade Belt SP White Red | 戰友腰帶【ＳＰ】・白 |
-| 2490 | Comrade Belt SP White Blue | 戰友腰帶【ＳＰ】・白 |
-| 2491 | Comrade Belt SP White Yellow | 戰友腰帶【ＳＰ】・白 |
+| 2489 | Comrade Belt SP White Red | 戰友腰帶【ＳＰ】・白赤 |
+| 2490 | Comrade Belt SP White Blue | 戰友腰帶【ＳＰ】・白青 |
+| 2491 | Comrade Belt SP White Yellow | 戰友腰帶【ＳＰ】・白黄 |
 | 2492 | Rubellite Coil | 爾烏布艾腰甲 |
 | 2493 | Rubellite F Coil | 爾烏布艾腰甲【Ｆ】 |
 | 2494 | Rubellite FX Coil | 爾烏布艾腰甲【ＦＸ】 |

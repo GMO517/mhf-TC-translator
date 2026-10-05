@@ -161,20 +161,20 @@
 | 13655 | Ricca D Coil | 爾伊克阿腰甲 |
 | 13656 | Kelis D Coil | 克艾爾伊腰甲 |
 | 13657 | Myunru D Coil | 姆烏恩烏腰甲 |
-| 13658 | Seiryu・Kensei D Coil | 斯艾爾烏腰甲 |
-| 13659 | Seiryu・双龍D Coil | 双龍腰甲 |
-| 13660 | Seiryu・剣王D Coil | 剣王腰甲 |
-| 13661 | Seiryu・刀神D Coil | 刀神腰甲 |
-| 13662 | Seiryu・Heaven 槍D Coil | 槍天腰甲 |
-| 13663 | Seiryu・砲皇D Coil | 砲皇腰甲 |
-| 13664 | Seiryu・鈍器獣D Coil | 鈍器獣腰甲 |
-| 13665 | Seiryu・奏帝D Coil | 奏帝腰甲 |
-| 13666 | Seiryu・穿凰D Coil | 穿凰腰甲 |
-| 13667 | Seiryu・斬将D Coil | 斬将腰甲 |
-| 13668 | Seiryu・銃傑D Coat | 銃傑腰衣 |
-| 13669 | Seiryu・銃仙D Coat | 銃仙腰衣 |
+| 13658 | Seiryu・Kensei D Coil | 青龍斯艾爾烏腰甲 |
+| 13659 | Seiryu・双龍D Coil | 青龍双龍腰甲 |
+| 13660 | Seiryu・剣王D Coil | 青龍剣王腰甲 |
+| 13661 | Seiryu・刀神D Coil | 青龍刀神腰甲 |
+| 13662 | Seiryu・Heaven 槍D Coil | 青龍槍天腰甲 |
+| 13663 | Seiryu・砲皇D Coil | 青龍砲皇腰甲 |
+| 13664 | Seiryu・鈍器獣D Coil | 青龍鈍器獣腰甲 |
+| 13665 | Seiryu・奏帝D Coil | 青龍奏帝腰甲 |
+| 13666 | Seiryu・穿凰D Coil | 青龍穿凰腰甲 |
+| 13667 | Seiryu・斬将D Coil | 青龍斬将腰甲 |
+| 13668 | Seiryu・銃傑D Coat | 青龍銃傑腰衣 |
+| 13669 | Seiryu・銃仙D Coat | 青龍銃仙腰衣 |
 | 13670 | Seiryu・Bow 鬼D Coat | 青龍腰衣 |
-| 13671 | Seiryu・磁星D Coil | 磁星腰甲 |
+| 13671 | Seiryu・磁星D Coil | 青龍磁星腰甲 |
 | 13672 | K. Lobster Coil PD Black | 王龍蝦腰甲【ＰＤ】・黑 |
 | 13673 | K. Lobster Coil PD Green | 王龍蝦腰甲【ＰＤ】・緑 |
 | 13674 | K. Lobster Coil PD Blue | 王龍蝦腰甲【ＰＤ】・青 |
@@ -202,13 +202,13 @@
 | 13696 | Ruko テイル PD White | 極龍腰甲【ＰＤ】・白 |
 | 13697 | Ruko テイル PD Blue | 極龍腰甲【ＰＤ】・青 |
 | 13698 | Ruko テイル PD Red | 極龍腰甲【ＰＤ】・赤 |
-| 13699 | Comrade Belt PD White Red | 戰友腰帶【ＰＤ】・白 |
-| 13700 | Comrade Belt PD White Blue | 戰友腰帶【ＰＤ】・白 |
-| 13701 | Comrade Belt PD White Yellow | 戰友腰帶【ＰＤ】・白 |
+| 13699 | Comrade Belt PD White Red | 戰友腰帶【ＰＤ】・白赤 |
+| 13700 | Comrade Belt PD White Blue | 戰友腰帶【ＰＤ】・白青 |
+| 13701 | Comrade Belt PD White Yellow | 戰友腰帶【ＰＤ】・白黄 |
 | 13702 | Otono D Faulds | 歐特歐恩腰甲 |
 | 13703 | 忍の Obi・空D | 忍の空帶 |
 | 13704 | 忍の Obi・海D | 忍の海帶 |
-| 13705 | Shadow Obi・D | 夏阿德歐帶 |
+| 13705 | Shadow Obi・D | 影帶 |
 | 13706 | Shade Obi・D | 夏阿德艾帶 |
-| 13707 | Hope D Faulds | 赫歐普艾腰甲 |
+| 13707 | Hope D Faulds | 希望腰甲 |
 

@@ -223,7 +223,7 @@
 | 2217 | Melan F Head | 紫黑頭兜【Ｆ】 |
 | 2218 | Melan F Wig | 紫黑假髮【Ｆ】 |
 | 2219 | Buto F Head | 布烏特歐頭兜【Ｆ】 |
-| 2220 | Ocean Piercing | 歐克艾恩耳飾 |
+| 2220 | Ocean Piercing | 海洋耳飾 |
 | 2221 | Sky Piercing | 天空耳飾 |
 | 2222 | Earth Piercing | 地耳飾 |
 | 2223 | Himeros FX Helm | 赫伊姆艾頭兜【ＦＸ】 |
@@ -236,8 +236,8 @@
 | 2230 | Rath Soul RX Helm | 爾阿斯艾魂 |
 | 2231 | Khezu LX Helm | 奇怪龍頭兜 |
 | 2232 | Khezu RX Helm | 奇怪龍頭兜 |
-| 2233 | High Metal LX Helm | 赫伊格艾頭兜 |
-| 2234 | High Metal RX Helm | 赫伊格艾頭兜 |
+| 2233 | High Metal LX Helm | 上位金屬頭兜 |
+| 2234 | High Metal RX Helm | 上位金屬頭兜 |
 | 2235 | Hornetaur LX Cap | 巨甲蟲兜帽 |
 | 2236 | Hornetaur RX Cap | 巨甲蟲兜帽 |
 | 2237 | Orutemo F Piercing | 歐爾烏特耳飾【Ｆ】 |

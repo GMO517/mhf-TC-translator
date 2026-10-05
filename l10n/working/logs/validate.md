@@ -1,10 +1,14 @@
 # working 驗證報告
 
+- `items-name`：PASS
+- `weapons-melee-name`：PASS
+- `weapons-ranged-name`：PASS
 - `armors-head`：PASS
 - `armors-body`：PASS
 - `armors-arms`：PASS
 - `armors-waist`：PASS
 - `armors-legs`：PASS
+- `monsters-description`：PASS
 
 ## 錯誤
 

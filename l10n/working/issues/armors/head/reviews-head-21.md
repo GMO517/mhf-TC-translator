@@ -503,5 +503,5 @@
 | 10497 | Rutile F Helm | 爾烏特伊頭兜【Ｆ】 |
 | 10498 | Rutile FX Helm | 爾烏特伊頭兜【ＦＸ】 |
 | 10499 | Byakko・斬将G Helm | 白虎頭兜【Ｇ】 |
-| 10500 | Byakko・斬将GF Helm | 斬将頭兜【Ｆ】 |
+| 10500 | Byakko・斬将GF Helm | 白虎斬将頭兜【Ｆ】 |
 

@@ -415,20 +415,20 @@
 | 13409 | Ricca D Suit | 爾伊克阿套裝 |
 | 13410 | Kelis D Suit | 克艾爾伊套裝 |
 | 13411 | Myunru D Mail | 姆烏恩烏鎧甲 |
-| 13412 | Seiryu・Kensei D Mail | 斯艾爾烏鎧甲 |
-| 13413 | Seiryu・双龍D Mail | 双龍鎧甲 |
-| 13414 | Seiryu・剣王D Mail | 剣王鎧甲 |
-| 13415 | Seiryu・刀神D Mail | 刀神鎧甲 |
-| 13416 | Seiryu・Heaven 槍D Mail | 槍天鎧甲 |
-| 13417 | Seiryu・砲皇D Mail | 砲皇鎧甲 |
-| 13418 | Seiryu・鈍器獣D Mail | 鈍器獣鎧甲 |
-| 13419 | Seiryu・奏帝D Mail | 奏帝鎧甲 |
-| 13420 | Seiryu・穿凰D Mail | 穿凰鎧甲 |
-| 13421 | Seiryu・斬将D Mail | 斬将鎧甲 |
-| 13422 | Seiryu・銃傑D Suit | 銃傑套裝 |
-| 13423 | Seiryu・銃仙D Suit | 銃仙套裝 |
+| 13412 | Seiryu・Kensei D Mail | 青龍斯艾爾烏鎧甲 |
+| 13413 | Seiryu・双龍D Mail | 青龍双龍鎧甲 |
+| 13414 | Seiryu・剣王D Mail | 青龍剣王鎧甲 |
+| 13415 | Seiryu・刀神D Mail | 青龍刀神鎧甲 |
+| 13416 | Seiryu・Heaven 槍D Mail | 青龍槍天鎧甲 |
+| 13417 | Seiryu・砲皇D Mail | 青龍砲皇鎧甲 |
+| 13418 | Seiryu・鈍器獣D Mail | 青龍鈍器獣鎧甲 |
+| 13419 | Seiryu・奏帝D Mail | 青龍奏帝鎧甲 |
+| 13420 | Seiryu・穿凰D Mail | 青龍穿凰鎧甲 |
+| 13421 | Seiryu・斬将D Mail | 青龍斬将鎧甲 |
+| 13422 | Seiryu・銃傑D Suit | 青龍銃傑套裝 |
+| 13423 | Seiryu・銃仙D Suit | 青龍銃仙套裝 |
 | 13424 | Seiryu・Bow 鬼D Suit | 青龍套裝 |
-| 13425 | Seiryu・磁星D Mail | 磁星鎧甲 |
+| 13425 | Seiryu・磁星D Mail | 青龍磁星鎧甲 |
 | 13426 | K. Lobster Shell PD Black | 王龍蝦殼【ＰＤ】・黑 |
 | 13427 | K. Lobster Shell PD Green | 王龍蝦殼【ＰＤ】・緑 |
 | 13428 | K. Lobster Shell PD Blue | 王龍蝦殼【ＰＤ】・青 |
@@ -456,13 +456,13 @@
 | 13450 | Ruko Skin PD White | 極龍皮【ＰＤ】・白 |
 | 13451 | Ruko Skin PD Blue | 極龍皮【ＰＤ】・青 |
 | 13452 | Ruko Skin PD Red | 極龍皮【ＰＤ】・赤 |
-| 13453 | Comrade Mail PD White Red | 戰友鎧甲【ＰＤ】・白 |
-| 13454 | Comrade Mail PD White Blue | 戰友鎧甲【ＰＤ】・白 |
-| 13455 | Comrade Mail PD White Yellow | 戰友鎧甲【ＰＤ】・白 |
+| 13453 | Comrade Mail PD White Red | 戰友鎧甲【ＰＤ】・白赤 |
+| 13454 | Comrade Mail PD White Blue | 戰友鎧甲【ＰＤ】・白青 |
+| 13455 | Comrade Mail PD White Yellow | 戰友鎧甲【ＰＤ】・白黄 |
 | 13456 | Otono D Jacket | 歐特歐恩夾克 |
 | 13457 | 忍の Shozoku・空D | 忍の空裝束 |
 | 13458 | 忍の Shozoku・海D | 忍の海裝束 |
-| 13459 | Shadow Shozoku・D | 夏阿德歐裝束 |
+| 13459 | Shadow Shozoku・D | 影裝束 |
 | 13460 | Shade Shozoku・D | 夏阿德艾裝束 |
-| 13461 | Hope D Mail | 赫歐普艾鎧甲 |
+| 13461 | Hope D Mail | 希望鎧甲 |
 

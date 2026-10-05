@@ -98,7 +98,7 @@
 | 11092 | YoRHa No.9 Type S D Arms | 寄葉九號型護腕【Ｓ】 |
 | 11093 | YoRHa No.2 Type B D Arms | 寄葉二號Ｂ型護腕 |
 | 11094 | トリートC Arms | 托里托護腕 |
-| 11095 | Craft C Arms | 克阿芙護腕 |
+| 11095 | Craft C Arms | 工匠護腕 |
 | 11096 | Cielo C Arms | 克伊爾歐護腕 |
 | 11097 | Felyne C Arms | 艾路猫護腕 |
 | 11098 | Akahara Reisou GN Arms D Red | 阿克阿赫護腕・赤 |
@@ -173,13 +173,13 @@
 | 11167 | Zakka GS Guard | 札可臂甲【ＧＳ】 |
 | 11168 | Zakka GP Guard | 札可臂甲【ＧＰ】 |
 | 11169 | Zakka ZP Guard | 札可臂甲【ＺＰ】 |
-| 11170 | Sword Hero Arms | 斯歐爾艾護腕 |
-| 11171 | Sword Hero F Arms | 斯歐爾艾護腕【Ｆ】 |
-| 11172 | Sword Hero FZ Arms | 斯歐爾艾護腕【ＦＺ】 |
-| 11173 | Sword Hero HS Arms | 斯歐爾艾護腕【ＨＳ】 |
-| 11174 | Sword Hero GS Arms | 斯歐爾艾護腕【ＧＳ】 |
-| 11175 | Sword Hero GP Arms | 斯歐爾艾護腕【ＧＰ】 |
-| 11176 | Sword Hero ZP Arms | 斯歐爾艾護腕【ＺＰ】 |
+| 11170 | Sword Hero Arms | 劍之英雄護腕 |
+| 11171 | Sword Hero F Arms | 劍之英雄護腕【Ｆ】 |
+| 11172 | Sword Hero FZ Arms | 劍之英雄護腕【ＦＺ】 |
+| 11173 | Sword Hero HS Arms | 劍之英雄護腕【ＨＳ】 |
+| 11174 | Sword Hero GS Arms | 劍之英雄護腕【ＧＳ】 |
+| 11175 | Sword Hero GP Arms | 劍之英雄護腕【ＧＰ】 |
+| 11176 | Sword Hero ZP Arms | 劍之英雄護腕【ＺＰ】 |
 | 11177 | Twin Star Arms | 雙星護腕 |
 | 11178 | Twin Star F Arms | 雙星護腕【Ｆ】 |
 | 11179 | Twin Star FZ Arms | 雙星護腕【ＦＺ】 |
@@ -208,13 +208,13 @@
 | 11202 | Riot Hammer GS Arms | 爾伊特阿護腕【ＧＳ】 |
 | 11203 | Riot Hammer GP Arms | 爾伊特阿護腕【ＧＰ】 |
 | 11204 | Riot Hammer ZP Arms | 爾伊特阿護腕【ＺＰ】 |
-| 11205 | Song Horn Arms | 斯歐恩歐護腕 |
-| 11206 | Song Horn F Arms | 斯歐恩歐護腕【Ｆ】 |
-| 11207 | Song Horn FZ Arms | 斯歐恩歐護腕【ＦＺ】 |
-| 11208 | Song Horn HS Arms | 斯歐恩歐護腕【ＨＳ】 |
-| 11209 | Song Horn GS Arms | 斯歐恩歐護腕【ＧＳ】 |
-| 11210 | Song Horn GP Arms | 斯歐恩歐護腕【ＧＰ】 |
-| 11211 | Song Horn ZP Arms | 斯歐恩歐護腕【ＺＰ】 |
+| 11205 | Song Horn Arms | 歌角護腕 |
+| 11206 | Song Horn F Arms | 歌角護腕【Ｆ】 |
+| 11207 | Song Horn FZ Arms | 歌角護腕【ＦＺ】 |
+| 11208 | Song Horn HS Arms | 歌角護腕【ＨＳ】 |
+| 11209 | Song Horn GS Arms | 歌角護腕【ＧＳ】 |
+| 11210 | Song Horn GP Arms | 歌角護腕【ＧＰ】 |
+| 11211 | Song Horn ZP Arms | 歌角護腕【ＺＰ】 |
 | 11212 | Crush Lance Arms | 克烏夏阿護腕 |
 | 11213 | Crush Lance F Arms | 克烏夏阿護腕【Ｆ】 |
 | 11214 | Crush Lance FZ Arms | 克烏夏阿護腕【ＦＺ】 |

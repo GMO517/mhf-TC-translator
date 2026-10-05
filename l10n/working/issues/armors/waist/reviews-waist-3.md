@@ -45,10 +45,10 @@
 | 1038 | アナキ Belt | 阿納基腰帶 |
 | 1039 | Harvest Coil | 赫阿爾艾腰甲 |
 | 1040 | Harvest Coat | 赫阿爾艾腰衣 |
-| 1041 | Craft Coil | 克阿芙腰甲 |
-| 1042 | Craft F Coil | 克阿芙腰甲【Ｆ】 |
-| 1043 | Craft Coat | 克阿芙腰衣 |
-| 1044 | Craft F Coat | 克阿芙腰衣【Ｆ】 |
+| 1041 | Craft Coil | 工匠腰甲 |
+| 1042 | Craft F Coil | 工匠腰甲【Ｆ】 |
+| 1043 | Craft Coat | 工匠腰衣 |
+| 1044 | Craft F Coat | 工匠腰衣【Ｆ】 |
 | 1045 | Ledia Coil | 爾艾德伊腰甲 |
 | 1046 | Ledia F Coil | 爾艾德伊腰甲【Ｆ】 |
 | 1047 | Ledia Coat | 爾艾德伊腰衣 |
@@ -175,8 +175,8 @@
 | 1169 | Chaser F Belt | 追撃腰帶【Ｆ】 |
 | 1170 | Royal Coil | 王室腰甲 |
 | 1171 | Royal F Coil | 王室腰甲【Ｆ】 |
-| 1172 | Lord Belt | 爾歐爾腰帶 |
-| 1173 | Lord F Belt | 爾歐爾腰帶【Ｆ】 |
+| 1172 | Lord Belt | 領主腰帶 |
+| 1173 | Lord F Belt | 領主腰帶【Ｆ】 |
 | 1174 | Dicto Waist | 德伊克歐腰甲 |
 | 1175 | Dicto F Waist | 德伊克歐腰甲【Ｆ】 |
 | 1176 | Diletto Belt | 德伊爾艾腰帶 |

@@ -9,7 +9,7 @@
 | 12003 | Pyrope D Mail | 普歐普艾鎧甲 |
 | 12004 | アイオラD Mail | 阿伊歐拉鎧甲 |
 | 12005 | Rutile D Mail | 爾烏特伊鎧甲 |
-| 12006 | Blood D Mail | 布歐德鎧甲 |
+| 12006 | Blood D Mail | 血鎧甲 |
 | 12007 | Citrine D Vest | 克伊特伊背心 |
 | 12008 | Peridot D Vest | 普艾爾伊背心 |
 | 12009 | Turquoise D Vest | 特烏爾烏背心 |
@@ -215,7 +215,7 @@
 | 12209 | Revenants ZP Muscle | 亡靈筋肉衣【ＺＰ】 |
 | 12210 | Revenants ZP Heart | 亡靈心衣【ＺＰ】 |
 | 12211 | Saine D Suit | 斯阿恩艾套裝 |
-| 12212 | Wing D Vest | 沃伊恩背心 |
+| 12212 | Wing D Vest | 翼背心 |
 | 12213 | Gasura ZD Mail | 怒貌龍鎧甲 |
 | 12214 | Gasura ZD Vest | 怒貌龍背心 |
 | 12215 | Seregios C Mail | 斯艾爾艾鎧甲 |
@@ -228,18 +228,18 @@
 | 12222 | Noel D Mail | 恩歐爾鎧甲 |
 | 12223 | Bune D Vest | 布烏恩艾背心 |
 | 12224 | Melas D Suit | 姆艾爾阿套裝 |
-| 12225 | Byakko・Kensei D Mail | 布阿克歐鎧甲 |
-| 12226 | Byakko・双龍D Mail | 双龍鎧甲 |
-| 12227 | Byakko・剣王D Mail | 剣王鎧甲 |
-| 12228 | Byakko・刀神D Mail | 刀神鎧甲 |
-| 12229 | Byakko・Heaven 槍D Mail | 槍天鎧甲 |
-| 12230 | Byakko・砲皇D Mail | 砲皇鎧甲 |
-| 12231 | Byakko・鈍器獣D Mail | 鈍器獣鎧甲 |
-| 12232 | Byakko・奏帝D Mail | 奏帝鎧甲 |
-| 12233 | Byakko・穿凰D Mail | 穿凰鎧甲 |
-| 12234 | Byakko・斬将D Mail | 斬将鎧甲 |
-| 12235 | Byakko・銃傑D Suit | 銃傑套裝 |
-| 12236 | Byakko・銃仙D Suit | 銃仙套裝 |
+| 12225 | Byakko・Kensei D Mail | 白虎布阿克歐鎧甲 |
+| 12226 | Byakko・双龍D Mail | 白虎双龍鎧甲 |
+| 12227 | Byakko・剣王D Mail | 白虎剣王鎧甲 |
+| 12228 | Byakko・刀神D Mail | 白虎刀神鎧甲 |
+| 12229 | Byakko・Heaven 槍D Mail | 白虎槍天鎧甲 |
+| 12230 | Byakko・砲皇D Mail | 白虎砲皇鎧甲 |
+| 12231 | Byakko・鈍器獣D Mail | 白虎鈍器獣鎧甲 |
+| 12232 | Byakko・奏帝D Mail | 白虎奏帝鎧甲 |
+| 12233 | Byakko・穿凰D Mail | 白虎穿凰鎧甲 |
+| 12234 | Byakko・斬将D Mail | 白虎斬将鎧甲 |
+| 12235 | Byakko・銃傑D Suit | 白虎銃傑套裝 |
+| 12236 | Byakko・銃仙D Suit | 白虎銃仙套裝 |
 | 12237 | Byakko・Bow 鬼D Suit | 白虎套裝 |
 | 12238 | Kirin Vest PD Red | 麒麟背心【ＰＤ】・赤 |
 | 12239 | Kirin Vest PD Purple | 麒麟背心【ＰＤ】・紫 |
@@ -273,18 +273,18 @@
 | 12267 | Kukubo D Vest | 克烏克烏背心 |
 | 12268 | Kakabu D Vest | 克阿克阿背心 |
 | 12269 | Aruru D Vest | 阿爾烏爾背心 |
-| 12270 | Suzaku・Kensei D Mail | 斯烏茲阿鎧甲 |
-| 12271 | Suzaku・双龍D Mail | 双龍鎧甲 |
-| 12272 | Suzaku・剣王D Mail | 剣王鎧甲 |
-| 12273 | Suzaku・刀神D Mail | 刀神鎧甲 |
-| 12274 | Suzaku・Heaven 槍D Mail | 槍天鎧甲 |
-| 12275 | Suzaku・砲皇D Mail | 砲皇鎧甲 |
-| 12276 | Suzaku・鈍器獣D Mail | 鈍器獣鎧甲 |
-| 12277 | Suzaku・奏帝D Mail | 奏帝鎧甲 |
-| 12278 | Suzaku・穿凰D Mail | 穿凰鎧甲 |
-| 12279 | Suzaku・斬将D Mail | 斬将鎧甲 |
-| 12280 | Suzaku・銃傑D Suit | 銃傑套裝 |
-| 12281 | Suzaku・銃仙D Suit | 銃仙套裝 |
+| 12270 | Suzaku・Kensei D Mail | 朱雀斯烏茲阿鎧甲 |
+| 12271 | Suzaku・双龍D Mail | 朱雀双龍鎧甲 |
+| 12272 | Suzaku・剣王D Mail | 朱雀剣王鎧甲 |
+| 12273 | Suzaku・刀神D Mail | 朱雀刀神鎧甲 |
+| 12274 | Suzaku・Heaven 槍D Mail | 朱雀槍天鎧甲 |
+| 12275 | Suzaku・砲皇D Mail | 朱雀砲皇鎧甲 |
+| 12276 | Suzaku・鈍器獣D Mail | 朱雀鈍器獣鎧甲 |
+| 12277 | Suzaku・奏帝D Mail | 朱雀奏帝鎧甲 |
+| 12278 | Suzaku・穿凰D Mail | 朱雀穿凰鎧甲 |
+| 12279 | Suzaku・斬将D Mail | 朱雀斬将鎧甲 |
+| 12280 | Suzaku・銃傑D Suit | 朱雀銃傑套裝 |
+| 12281 | Suzaku・銃仙D Suit | 朱雀銃仙套裝 |
 | 12282 | Suzaku・Bow 鬼D Suit | 朱雀套裝 |
 | 12283 | G・Knight Vest PD Red | 騎士背心【ＰＤ】・赤 |
 | 12284 | G・Knight Vest PD Blue | 騎士背心【ＰＤ】・青 |

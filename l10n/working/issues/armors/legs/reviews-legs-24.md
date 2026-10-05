@@ -53,8 +53,8 @@
 | 11547 | Ruche D Greaves | 爾烏奇艾護腿 |
 | 11548 | Strength D Leg | 斯艾恩腿 |
 | 11549 | Rage D Feet | 憤怒足 |
-| 11550 | Rampage D Feet | 爾阿姆阿足 |
-| 11551 | Blaze D Feet | 布阿茲艾足 |
+| 11550 | Rampage D Feet | 狂暴足 |
+| 11551 | Blaze D Feet | 烈焔足 |
 | 11552 | Poogie D Feet | 普歐格伊足 |
 | 11553 | Mandora D Feet | 姆阿恩歐足 |
 | 11554 | Aonoko D Feet | 阿恩歐克足 |
@@ -63,8 +63,8 @@
 | 11557 | Gilbert D Greaves | 格伊爾艾護腿 |
 | 11558 | Zuibei D Heel | 茲烏布艾踵 |
 | 11559 | Chiarim D Feet | 奇伊爾伊足 |
-| 11560 | Guild Bard C Boots | 獵團靴 |
-| 11561 | Scholar C Socks | 施歐爾阿襪 |
+| 11560 | Guild Bard C Boots | 公會吟遊靴 |
+| 11561 | Scholar C Socks | 學者襪 |
 | 11562 | Aelucanth C Crura | 阿爾烏克腿甲 |
 | 11563 | Rhopessa C Crura | 爾歐普艾腿甲 |
 | 11564 | Yukumo ノハカマC・Heaven | 結雲天護腿 |
@@ -126,15 +126,15 @@
 | 11620 | Healer Socks PD Yellow | 治癒襪【ＰＤ】・黄 |
 | 11621 | Shourou 【端足】D | 夏歐爾歐上手 |
 | 11622 | Mitama 【端足】D | 姆伊特阿上手 |
-| 11623 | Burning Cliff D [Hakama 】 | 布烏爾伊袴 |
+| 11623 | Burning Cliff D [Hakama 】 | 燃崖袴 |
 | 11624 | Crimson Cliff D [Hakama 】 | 深紅崖袴 |
 | 11625 | Ledia D Boots | 爾艾德伊靴 |
 | 11626 | White Snake Greaves D | 白蛇護腿 |
 | 11627 | Black Tiger Greaves D | 黑虎護腿 |
-| 11628 | Crushing Fog D [Hakama 】 | 克烏夏伊袴 |
-| 11629 | Valued Word Hakama D | 芙阿爾烏袴 |
+| 11628 | Crushing Fog D [Hakama 】 | 碎霧袴 |
+| 11629 | Valued Word Hakama D | 珍言袴 |
 | 11630 | Blue Sky Hakama D | 蒼天袴 |
-| 11631 | Noon Glow Hakama D | 恩歐恩歐袴 |
+| 11631 | Noon Glow Hakama D | 午暉袴 |
 | 11632 | Kosho D [Hakama 】 | 克歐夏歐袴 |
 | 11633 | True Shadow Hakama D | 真影袴 |
 | 11634 | Furogada D Greaves | 芙烏爾歐護腿 |
@@ -337,7 +337,7 @@
 | 11831 | Riot D Greaves | 爾伊特護腿 |
 | 11832 | Rutare D Greaves | 爾烏特阿護腿 |
 | 11833 | Rolling Flow Greaves・D | 爾歐爾伊護腿 |
-| 11834 | Rolling Sky Greaves・D | 爾歐爾伊護腿 |
+| 11834 | Rolling Sky Greaves・D | 滾天護腿 |
 | 11835 | Cubie D Feet | 克烏布伊足 |
 | 11836 | Kemor D Feet | 克艾姆歐足 |
 | 11837 | Latria D Feet | 爾阿特伊足 |
@@ -472,20 +472,20 @@
 | 11966 | Dragon Slayer Armor GS・Greaves | 屠龍護腿【ＧＳ】 |
 | 11967 | Dragon Slayer Armor GP・Greaves | 屠龍護腿【ＧＰ】 |
 | 11968 | Dragon Slayer Armor ZP・Greaves | 屠龍護腿【ＺＰ】 |
-| 11969 | Rebellion Armour・Toenail | 爾艾布艾趾甲 |
-| 11970 | Rebellion Armour F・Toenail | 爾艾布艾趾甲【Ｆ】 |
-| 11971 | Rebellion Armour FZ・Toenail | 爾艾布艾趾甲【ＦＺ】 |
-| 11972 | Rebellion Armour HS・Toenail | 爾艾布艾趾甲【ＨＳ】 |
-| 11973 | Rebellion Armour GS・Toenail | 爾艾布艾趾甲【ＧＳ】 |
-| 11974 | Rebellion Armour GP・Toenail | 爾艾布艾趾甲【ＧＰ】 |
-| 11975 | Rebellion Armour ZP・Toenail | 爾艾布艾趾甲【ＺＰ】 |
-| 11976 | Rebellion Armour・Greaves | 爾艾布艾護腿 |
-| 11977 | Rebellion Armour F・Greaves | 爾艾布艾護腿【Ｆ】 |
-| 11978 | Rebellion Armour FZ・Greaves | 爾艾布艾護腿【ＦＺ】 |
-| 11979 | Rebellion Armour HS・Greaves | 爾艾布艾護腿【ＨＳ】 |
-| 11980 | Rebellion Armour GS・Greaves | 爾艾布艾護腿【ＧＳ】 |
-| 11981 | Rebellion Armour GP・Greaves | 爾艾布艾護腿【ＧＰ】 |
-| 11982 | Rebellion Armour ZP・Greaves | 爾艾布艾護腿【ＺＰ】 |
+| 11969 | Rebellion Armour・Toenail | 叛逆鎧趾甲 |
+| 11970 | Rebellion Armour F・Toenail | 叛逆鎧趾甲【Ｆ】 |
+| 11971 | Rebellion Armour FZ・Toenail | 叛逆鎧趾甲【ＦＺ】 |
+| 11972 | Rebellion Armour HS・Toenail | 叛逆鎧趾甲【ＨＳ】 |
+| 11973 | Rebellion Armour GS・Toenail | 叛逆鎧趾甲【ＧＳ】 |
+| 11974 | Rebellion Armour GP・Toenail | 叛逆鎧趾甲【ＧＰ】 |
+| 11975 | Rebellion Armour ZP・Toenail | 叛逆鎧趾甲【ＺＰ】 |
+| 11976 | Rebellion Armour・Greaves | 叛逆鎧護腿 |
+| 11977 | Rebellion Armour F・Greaves | 叛逆鎧護腿【Ｆ】 |
+| 11978 | Rebellion Armour FZ・Greaves | 叛逆鎧護腿【ＦＺ】 |
+| 11979 | Rebellion Armour HS・Greaves | 叛逆鎧護腿【ＨＳ】 |
+| 11980 | Rebellion Armour GS・Greaves | 叛逆鎧護腿【ＧＳ】 |
+| 11981 | Rebellion Armour GP・Greaves | 叛逆鎧護腿【ＧＰ】 |
+| 11982 | Rebellion Armour ZP・Greaves | 叛逆鎧護腿【ＺＰ】 |
 | 11983 | Dinato ZP Greaves | 迪納托護腿【ＺＰ】 |
 | 11984 | Dinato ZP Leggings | 迪納托裹腿【ＺＰ】 |
 | 11985 | Duque ZP Greaves | 公爵護腿【ＺＰ】 |

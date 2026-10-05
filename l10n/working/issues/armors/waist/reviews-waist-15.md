@@ -126,9 +126,9 @@
 | 7120 | Crimson 霞・双龍G Coil | 霞双龍腰甲【Ｇ】・紅 |
 | 7121 | Crimson 霞・双龍GF Coil | 霞双龍腰甲【Ｆ】・紅 |
 | 7122 | Crimson 霞・双龍GX Coil | 霞双龍腰甲【ＧＸ】・紅 |
-| 7123 | Green 穹・双龍G Coil | 穹双龍腰甲・緑 |
+| 7123 | Green 穹・双龍G Coil | 穹双龍腰甲【Ｇ】・緑 |
 | 7124 | Green 穹・双龍GF Coil | 穹双龍腰甲【Ｆ】・緑 |
-| 7125 | Green 穹・双龍GX Coil | 穹双龍腰甲・緑 |
+| 7125 | Green 穹・双龍GX Coil | 穹双龍腰甲【ＧＸ】・緑 |
 | 7126 | White 蘭・剣王 Coil | 蘭剣王腰甲・白 |
 | 7127 | White 蘭・剣王F Coil | 蘭剣王腰甲【Ｆ】・白 |
 | 7128 | White 蘭・剣王FX Coil | 蘭剣王腰甲【ＦＸ】・白 |
@@ -144,9 +144,9 @@
 | 7138 | Crimson 霞・剣王G Coil | 霞剣王腰甲【Ｇ】・紅 |
 | 7139 | Crimson 霞・剣王GF Coil | 霞剣王腰甲【Ｆ】・紅 |
 | 7140 | Crimson 霞・剣王GX Coil | 霞剣王腰甲【ＧＸ】・紅 |
-| 7141 | Green 穹・剣王G Coil | 穹剣王腰甲・緑 |
+| 7141 | Green 穹・剣王G Coil | 穹剣王腰甲【Ｇ】・緑 |
 | 7142 | Green 穹・剣王GF Coil | 穹剣王腰甲【Ｆ】・緑 |
-| 7143 | Green 穹・剣王GX Coil | 穹剣王腰甲・緑 |
+| 7143 | Green 穹・剣王GX Coil | 穹剣王腰甲【ＧＸ】・緑 |
 | 7144 | White 蘭・刀神 Coil | 蘭刀神腰甲・白 |
 | 7145 | White 蘭・刀神F Coil | 蘭刀神腰甲【Ｆ】・白 |
 | 7146 | White 蘭・刀神FX Coil | 蘭刀神腰甲【ＦＸ】・白 |
@@ -162,9 +162,9 @@
 | 7156 | Crimson 霞・刀神G Coil | 霞刀神腰甲【Ｇ】・紅 |
 | 7157 | Crimson 霞・刀神GF Coil | 霞刀神腰甲【Ｆ】・紅 |
 | 7158 | Crimson 霞・刀神GX Coil | 霞刀神腰甲【ＧＸ】・紅 |
-| 7159 | Green 穹・刀神G Coil | 穹刀神腰甲・緑 |
+| 7159 | Green 穹・刀神G Coil | 穹刀神腰甲【Ｇ】・緑 |
 | 7160 | Green 穹・刀神GF Coil | 穹刀神腰甲【Ｆ】・緑 |
-| 7161 | Green 穹・刀神GX Coil | 穹刀神腰甲・緑 |
+| 7161 | Green 穹・刀神GX Coil | 穹刀神腰甲【ＧＸ】・緑 |
 | 7162 | White 蘭・鈍器獣 Coil | 蘭鈍器獣腰甲・白 |
 | 7163 | White 蘭・鈍器獣F Coil | 蘭鈍器獣腰甲【Ｆ】・白 |
 | 7164 | White 蘭・鈍器獣FX Coil | 蘭鈍器獣腰甲【ＦＸ】・白 |
@@ -180,9 +180,9 @@
 | 7174 | Crimson 霞・鈍器獣G Coil | 霞鈍器獣腰甲【Ｇ】・紅 |
 | 7175 | Crimson 霞・鈍器獣GF Coil | 霞鈍器獣腰甲【Ｆ】・紅 |
 | 7176 | Crimson 霞・鈍器獣GX Coil | 霞鈍器獣腰甲【ＧＸ】・紅 |
-| 7177 | Green 穹・鈍器獣G Coil | 穹鈍器獣腰甲・緑 |
+| 7177 | Green 穹・鈍器獣G Coil | 穹鈍器獣腰甲【Ｇ】・緑 |
 | 7178 | Green 穹・鈍器獣GF Coil | 穹鈍器獣腰甲【Ｆ】・緑 |
-| 7179 | Green 穹・鈍器獣GX Coil | 穹鈍器獣腰甲・緑 |
+| 7179 | Green 穹・鈍器獣GX Coil | 穹鈍器獣腰甲【ＧＸ】・緑 |
 | 7180 | White 蘭・奏帝 Coil | 蘭奏帝腰甲・白 |
 | 7181 | White 蘭・奏帝F Coil | 蘭奏帝腰甲【Ｆ】・白 |
 | 7182 | White 蘭・奏帝FX Coil | 蘭奏帝腰甲【ＦＸ】・白 |
@@ -198,9 +198,9 @@
 | 7192 | Crimson 霞・奏帝G Coil | 霞奏帝腰甲【Ｇ】・紅 |
 | 7193 | Crimson 霞・奏帝GF Coil | 霞奏帝腰甲【Ｆ】・紅 |
 | 7194 | Crimson 霞・奏帝GX Coil | 霞奏帝腰甲【ＧＸ】・紅 |
-| 7195 | Green 穹・奏帝G Coil | 穹奏帝腰甲・緑 |
+| 7195 | Green 穹・奏帝G Coil | 穹奏帝腰甲【Ｇ】・緑 |
 | 7196 | Green 穹・奏帝GF Coil | 穹奏帝腰甲【Ｆ】・緑 |
-| 7197 | Green 穹・奏帝GX Coil | 穹奏帝腰甲・緑 |
+| 7197 | Green 穹・奏帝GX Coil | 穹奏帝腰甲【ＧＸ】・緑 |
 | 7198 | White 蘭・Heaven 槍 Coil | 蘭槍天腰甲・白 |
 | 7199 | White 蘭・Heaven 槍F Coil | 蘭槍天腰甲【Ｆ】・白 |
 | 7200 | White 蘭・Heaven 槍FX Coil | 蘭槍天腰甲【ＦＸ】・白 |
@@ -234,9 +234,9 @@
 | 7228 | Crimson 霞・砲皇G Coil | 霞砲皇腰甲【Ｇ】・紅 |
 | 7229 | Crimson 霞・砲皇GF Coil | 霞砲皇腰甲【Ｆ】・紅 |
 | 7230 | Crimson 霞・砲皇GX Coil | 霞砲皇腰甲【ＧＸ】・紅 |
-| 7231 | Green 穹・砲皇G Coil | 穹砲皇腰甲・緑 |
+| 7231 | Green 穹・砲皇G Coil | 穹砲皇腰甲【Ｇ】・緑 |
 | 7232 | Green 穹・砲皇GF Coil | 穹砲皇腰甲【Ｆ】・緑 |
-| 7233 | Green 穹・砲皇GX Coil | 穹砲皇腰甲・緑 |
+| 7233 | Green 穹・砲皇GX Coil | 穹砲皇腰甲【ＧＸ】・緑 |
 | 7234 | White 蘭・穿凰 Coil | 蘭穿凰腰甲・白 |
 | 7235 | White 蘭・穿凰F Coil | 蘭穿凰腰甲【Ｆ】・白 |
 | 7236 | White 蘭・穿凰FX Coil | 蘭穿凰腰甲【ＦＸ】・白 |
@@ -252,9 +252,9 @@
 | 7246 | Crimson 霞・穿凰G Coil | 霞穿凰腰甲【Ｇ】・紅 |
 | 7247 | Crimson 霞・穿凰GF Coil | 霞穿凰腰甲【Ｆ】・紅 |
 | 7248 | Crimson 霞・穿凰GX Coil | 霞穿凰腰甲【ＧＸ】・紅 |
-| 7249 | Green 穹・穿凰G Coil | 穹穿凰腰甲・緑 |
+| 7249 | Green 穹・穿凰G Coil | 穹穿凰腰甲【Ｇ】・緑 |
 | 7250 | Green 穹・穿凰GF Coil | 穹穿凰腰甲【Ｆ】・緑 |
-| 7251 | Green 穹・穿凰GX Coil | 穹穿凰腰甲・緑 |
+| 7251 | Green 穹・穿凰GX Coil | 穹穿凰腰甲【ＧＸ】・緑 |
 | 7252 | White 蘭・銃仙 Coat | 蘭銃仙腰衣・白 |
 | 7253 | White 蘭・銃仙F Coat | 蘭銃仙腰衣【Ｆ】・白 |
 | 7254 | White 蘭・銃仙FX Coat | 蘭銃仙腰衣【ＦＸ】・白 |
@@ -270,9 +270,9 @@
 | 7264 | Crimson 霞・銃仙G Coat | 霞銃仙腰衣【Ｇ】・紅 |
 | 7265 | Crimson 霞・銃仙GF Coat | 霞銃仙腰衣【Ｆ】・紅 |
 | 7266 | Crimson 霞・銃仙GX Coat | 霞銃仙腰衣【ＧＸ】・紅 |
-| 7267 | Green 穹・銃仙G Coat | 穹銃仙腰衣・緑 |
+| 7267 | Green 穹・銃仙G Coat | 穹銃仙腰衣【Ｇ】・緑 |
 | 7268 | Green 穹・銃仙GF Coat | 穹銃仙腰衣【Ｆ】・緑 |
-| 7269 | Green 穹・銃仙GX Coat | 穹銃仙腰衣・緑 |
+| 7269 | Green 穹・銃仙GX Coat | 穹銃仙腰衣【ＧＸ】・緑 |
 | 7270 | White 蘭・銃傑 Coat | 蘭銃傑腰衣・白 |
 | 7271 | White 蘭・銃傑F Coat | 蘭銃傑腰衣【Ｆ】・白 |
 | 7272 | White 蘭・銃傑FX Coat | 蘭銃傑腰衣【ＦＸ】・白 |
@@ -288,9 +288,9 @@
 | 7282 | Crimson 霞・銃傑G Coat | 霞銃傑腰衣【Ｇ】・紅 |
 | 7283 | Crimson 霞・銃傑GF Coat | 霞銃傑腰衣【Ｆ】・紅 |
 | 7284 | Crimson 霞・銃傑GX Coat | 霞銃傑腰衣【ＧＸ】・紅 |
-| 7285 | Green 穹・銃傑G Coat | 穹銃傑腰衣・緑 |
+| 7285 | Green 穹・銃傑G Coat | 穹銃傑腰衣【Ｇ】・緑 |
 | 7286 | Green 穹・銃傑GF Coat | 穹銃傑腰衣【Ｆ】・緑 |
-| 7287 | Green 穹・銃傑GX Coat | 穹銃傑腰衣・緑 |
+| 7287 | Green 穹・銃傑GX Coat | 穹銃傑腰衣【ＧＸ】・緑 |
 | 7288 | White 蘭・Bow 鬼 Coat | 蘭鬼腰衣・白 |
 | 7289 | White 蘭・Bow 鬼F Coat | 蘭鬼腰衣【Ｆ】・白 |
 | 7290 | White 蘭・Bow 鬼FX Coat | 蘭鬼腰衣【ＦＸ】・白 |

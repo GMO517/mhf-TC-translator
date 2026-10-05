@@ -251,8 +251,8 @@
 | 11745 | Korinyi C Belt | 克歐爾伊腰帶 |
 | 11746 | Ruche D Coil | 爾烏奇艾腰甲 |
 | 11747 | Rage D Coil | 憤怒腰甲 |
-| 11748 | Rampage D Coil | 爾阿姆阿腰甲 |
-| 11749 | Blaze D Coil | 布阿茲艾腰甲 |
+| 11748 | Rampage D Coil | 狂暴腰甲 |
+| 11749 | Blaze D Coil | 烈焔腰甲 |
 | 11750 | Poogie D Hip | 普歐格伊臀甲 |
 | 11751 | Mandora D Coil | 姆阿恩歐腰甲 |
 | 11752 | Aonoko D Coil | 阿恩歐克腰甲 |
@@ -261,8 +261,8 @@
 | 11755 | Gilbert D Coil | 格伊爾艾腰甲 |
 | 11756 | Zuibei D Navel | 茲烏布艾臍甲 |
 | 11757 | Chiarim D Coil | 奇伊爾伊腰甲 |
-| 11758 | Guild Bard C Coil | 獵團腰甲 |
-| 11759 | Scholar C Skirt | 施歐爾阿裙甲 |
+| 11758 | Guild Bard C Coil | 公會吟遊腰甲 |
+| 11759 | Scholar C Skirt | 學者裙甲 |
 | 11760 | Aelucanth C Elytra | 阿爾烏克翅腰 |
 | 11761 | Rhopessa C Elytra | 爾歐普艾翅腰 |
 | 11762 | Yukumo ノオビC・Heaven | 結雲天腰甲 |
@@ -320,15 +320,15 @@
 | 11814 | Healer Frill PD Yellow | 治癒褶邊【ＰＤ】・黄 |
 | 11815 | Shourou 【越腰】D | 夏歐爾歐上手 |
 | 11816 | Mitama 【越腰】D | 姆伊特阿上手 |
-| 11817 | Burning Cliff D [Waist て】 | 崖腰甲 |
-| 11818 | Crimson Cliff D [Waist て】 | 崖腰甲 |
+| 11817 | Burning Cliff D [Waist て】 | 燃崖腰甲 |
+| 11818 | Crimson Cliff D [Waist て】 | 深紅崖腰甲 |
 | 11819 | Ledia D Coil | 爾艾德伊腰甲 |
 | 11820 | White Snake Obi D | 白蛇帶 |
 | 11821 | Black Tiger Obi D | 黑虎帶 |
-| 11822 | Crushing Fog D [Obi 】 | 克烏夏伊帶 |
-| 11823 | Valued Word Obi D | 芙阿爾烏帶 |
+| 11822 | Crushing Fog D [Obi 】 | 碎霧帶 |
+| 11823 | Valued Word Obi D | 珍言帶 |
 | 11824 | Blue Sky Obi D | 蒼天帶 |
-| 11825 | Noon Glow Obi D | 恩歐恩歐帶 |
+| 11825 | Noon Glow Obi D | 午暉帶 |
 | 11826 | Kosho D [Obi 】 | 克歐夏歐帶 |
 | 11827 | True Shadow Obi D | 真影帶 |
 | 11828 | Furogada D Coil | 芙烏爾歐腰甲 |

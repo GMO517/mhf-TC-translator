@@ -32,7 +32,7 @@
 | 12026 | YoRHa No.9 Type S D Head | 寄葉九號型頭兜【Ｓ】 |
 | 12027 | YoRHa No.2 Type B D Head | 寄葉二號Ｂ型頭兜 |
 | 12028 | Treat C Head | 特艾特頭兜 |
-| 12029 | Craft C Head | 克阿芙頭兜 |
+| 12029 | Craft C Head | 工匠頭兜 |
 | 12030 | Cielo C Head | 克伊爾歐頭兜 |
 | 12031 | Felyne C Head | 艾路猫頭兜 |
 | 12032 | Akahara Reisou GN Head D Red | 阿克阿赫頭兜・赤 |
@@ -107,13 +107,13 @@
 | 12101 | Zakka GS Cap | 札可兜帽【ＧＳ】 |
 | 12102 | Zakka GP Cap | 札可兜帽【ＧＰ】 |
 | 12103 | Zakka ZP Cap | 札可兜帽【ＺＰ】 |
-| 12104 | Sword Hero Helm | 斯歐爾艾頭兜 |
-| 12105 | Sword Hero F Helm | 斯歐爾艾頭兜【Ｆ】 |
-| 12106 | Sword Hero FZ Helm | 斯歐爾艾頭兜【ＦＺ】 |
-| 12107 | Sword Hero HS Helm | 斯歐爾艾頭兜【ＨＳ】 |
-| 12108 | Sword Hero GS Helm | 斯歐爾艾頭兜【ＧＳ】 |
-| 12109 | Sword Hero GP Helm | 斯歐爾艾頭兜【ＧＰ】 |
-| 12110 | Sword Hero ZP Helm | 斯歐爾艾頭兜【ＺＰ】 |
+| 12104 | Sword Hero Helm | 劍之英雄頭兜 |
+| 12105 | Sword Hero F Helm | 劍之英雄頭兜【Ｆ】 |
+| 12106 | Sword Hero FZ Helm | 劍之英雄頭兜【ＦＺ】 |
+| 12107 | Sword Hero HS Helm | 劍之英雄頭兜【ＨＳ】 |
+| 12108 | Sword Hero GS Helm | 劍之英雄頭兜【ＧＳ】 |
+| 12109 | Sword Hero GP Helm | 劍之英雄頭兜【ＧＰ】 |
+| 12110 | Sword Hero ZP Helm | 劍之英雄頭兜【ＺＰ】 |
 | 12111 | Twin Star Helm | 雙星頭兜 |
 | 12112 | Twin Star F Helm | 雙星頭兜【Ｆ】 |
 | 12113 | Twin Star FZ Helm | 雙星頭兜【ＦＺ】 |
@@ -142,13 +142,13 @@
 | 12136 | Riot Hammer GS Helm | 爾伊特阿頭兜【ＧＳ】 |
 | 12137 | Riot Hammer GP Helm | 爾伊特阿頭兜【ＧＰ】 |
 | 12138 | Riot Hammer ZP Helm | 爾伊特阿頭兜【ＺＰ】 |
-| 12139 | Song Horn Helm | 斯歐恩艾角 |
-| 12140 | Song Horn F Helm | 斯歐恩艾角【Ｆ】 |
-| 12141 | Song Horn FZ Helm | 斯歐恩艾角【ＦＺ】 |
-| 12142 | Song Horn HS Helm | 斯歐恩艾角【ＨＳ】 |
-| 12143 | Song Horn GS Helm | 斯歐恩艾角【ＧＳ】 |
-| 12144 | Song Horn GP Helm | 斯歐恩艾角【ＧＰ】 |
-| 12145 | Song Horn ZP Helm | 斯歐恩艾角【ＺＰ】 |
+| 12139 | Song Horn Helm | 歌角 |
+| 12140 | Song Horn F Helm | 歌角【Ｆ】 |
+| 12141 | Song Horn FZ Helm | 歌角【ＦＺ】 |
+| 12142 | Song Horn HS Helm | 歌角【ＨＳ】 |
+| 12143 | Song Horn GS Helm | 歌角【ＧＳ】 |
+| 12144 | Song Horn GP Helm | 歌角【ＧＰ】 |
+| 12145 | Song Horn ZP Helm | 歌角【ＺＰ】 |
 | 12146 | Crush Lance Helm | 克烏夏阿頭兜 |
 | 12147 | Crush Lance F Helm | 克烏夏阿頭兜【Ｆ】 |
 | 12148 | Crush Lance FZ Helm | 克烏夏阿頭兜【ＦＺ】 |
@@ -483,8 +483,8 @@
 | 12477 | Ruche D Helm | 爾烏奇艾頭兜 |
 | 12478 | Strength D Head | 斯艾恩頭兜 |
 | 12479 | Rage D Helm | 憤怒頭兜 |
-| 12480 | Rampage D Helm | 爾阿姆阿頭兜 |
-| 12481 | Blaze D Helm | 布阿茲艾頭兜 |
+| 12480 | Rampage D Helm | 狂暴頭兜 |
+| 12481 | Blaze D Helm | 烈焔頭兜 |
 | 12482 | Espi D Mask・Green | 艾斯伊斯帽子・緑 |
 | 12483 | Espi D Mask・Tea | 艾斯伊斯帽子・茶 |
 | 12484 | Espi D Mask・White | 艾斯伊斯帽子・白 |
@@ -496,11 +496,11 @@
 | 12490 | Gilbert D Helm | 格伊爾艾頭兜 |
 | 12491 | Zuibei D Brain | 茲烏布艾腦 |
 | 12492 | Chiarim D Head | 奇伊爾伊頭兜 |
-| 12493 | Guild Bard C Lobos | 獵團軟帽 |
-| 12494 | Scholar C Hood | 施歐爾阿兜帽 |
+| 12493 | Guild Bard C Lobos | 公會吟遊軟帽 |
+| 12494 | Scholar C Hood | 學者兜帽 |
 | 12495 | Aelucanth C Vertex | 阿爾烏克頭頂 |
 | 12496 | Rhopessa C Vertex | 爾歐普艾頭頂 |
-| 12497 | Yukumo Kasa C・Heaven | 伊烏克烏天笠 |
+| 12497 | Yukumo Kasa C・Heaven | 結雲天笠 |
 | 12498 | Michelia Alba・ Kensei D Helm | 姆伊奇艾頭兜 |
 | 12499 | Michelia Alba・双龍D Helm | 双龍頭兜 |
 | 12500 | White 蘭・剣王D Helm | 蘭剣王頭兜・白 |

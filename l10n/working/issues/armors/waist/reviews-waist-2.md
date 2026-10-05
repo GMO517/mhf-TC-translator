@@ -185,8 +185,8 @@
 | 678 | Lavasioth R Faulds | 熔岩龍腰甲【Ｒ】 |
 | 679 | Gia R Coat | 格伊腰衣【Ｒ】 |
 | 680 | Battle R Coat | 戦腰衣【Ｒ】 |
-| 681 | Hypno ルータウエスト | 魯塔烏艾斯托腰甲 |
-| 682 | Hypno ルータ Belt | 魯塔腰帶 |
+| 681 | Hypno ルータウエスト | 眠鳥腰甲 |
+| 682 | Hypno ルータ Belt | 眠鳥腰帶 |
 | 683 | Garuda Waist | 迦樓羅腰甲 |
 | 684 | Garuda Belt | 迦樓羅腰帶 |
 | 685 | Extra F Waist | 追加腰甲【Ｆ】 |
@@ -235,7 +235,7 @@
 | 728 | Io R Coat | 伊歐腰衣【Ｒ】 |
 | 729 | Iris Belt SP | 伊爾伊斯腰帶【ＳＰ】 |
 | 730 | Hypnoc S Mask | 眠鳥腰甲【Ｓ】 |
-| 731 | True・Hypnoc S Mask | 特烏斯歐腰甲【Ｓ】 |
+| 731 | True・Hypnoc S Mask | 真・眠鳥腰甲【Ｓ】 |
 | 732 | Purokusu Coil | 普烏爾歐腰甲 |
 | 733 | Purokusu F Coil | 普烏爾歐腰甲【Ｆ】 |
 | 734 | Kurenesu Coil | 克烏爾艾腰甲 |
@@ -284,12 +284,12 @@
 | 777 | Trance F Coil | 特阿恩艾腰甲【Ｆ】 |
 | 778 | Trance Coat | 特阿恩艾腰衣 |
 | 779 | Trance F Coat | 特阿恩艾腰衣【Ｆ】 |
-| 780 | Mizuha 【丸 Obi 】 SP Blue | 水羽腰甲【ＳＰ】 |
-| 781 | Mizuha 【丸 Obi 】 SP Red | 水羽腰甲【ＳＰ】 |
-| 782 | Mizuha 【丸 Obi 】 SP Yellow | 水羽腰甲【ＳＰ】 |
-| 783 | Toyotama 【丸 Obi 】 SP Blue | 豐玉腰甲【ＳＰ】 |
-| 784 | Toyotama 【丸 Obi 】 SP Red | 豐玉腰甲【ＳＰ】 |
-| 785 | Toyotama 【丸 Obi 】 SP Yellow | 豐玉腰甲【ＳＰ】 |
+| 780 | Mizuha 【丸 Obi 】 SP Blue | 水羽腰甲【ＳＰ】・青 |
+| 781 | Mizuha 【丸 Obi 】 SP Red | 水羽腰甲【ＳＰ】・赤 |
+| 782 | Mizuha 【丸 Obi 】 SP Yellow | 水羽腰甲【ＳＰ】・黄 |
+| 783 | Toyotama 【丸 Obi 】 SP Blue | 豐玉腰甲【ＳＰ】・青 |
+| 784 | Toyotama 【丸 Obi 】 SP Red | 豐玉腰甲【ＳＰ】・赤 |
+| 785 | Toyotama 【丸 Obi 】 SP Yellow | 豐玉腰甲【ＳＰ】・黄 |
 | 786 | 暁丸【腰当て】 SP Red | 暁丸腰當【ＳＰ】・赤 |
 | 787 | 暁丸【腰当て】 SP Purple | 暁丸腰當【ＳＰ】・紫 |
 | 788 | 暁丸【腰当て】 SP White | 暁丸腰當【ＳＰ】・白 |
@@ -317,9 +317,9 @@
 | 810 | Espinas R Navel | 棘龍臍甲【Ｒ】 |
 | 811 | Tigrex L Coat | 轟龍腰衣【Ｌ】 |
 | 812 | Guns Waist | 格烏恩腰甲 |
-| 813 | Wild Waist | 沃伊爾腰甲 |
+| 813 | Wild Waist | 狂野腰甲 |
 | 814 | Guns Belt | 格烏恩腰帶 |
-| 815 | Wild Belt | 沃伊爾腰帶 |
+| 815 | Wild Belt | 狂野腰帶 |
 | 816 | Ecole Waist | 艾克歐爾腰甲 |
 | 817 | Dian Waist | 德伊恩腰甲 |
 | 818 | Ecole Belt | 艾克歐爾腰帶 |

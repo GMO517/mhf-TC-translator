@@ -18,18 +18,18 @@
 | 12512 | Kukubo D Coat | 克烏克烏腰衣 |
 | 12513 | Kakabu D Coat | 克阿克阿腰衣 |
 | 12514 | Aruru D Coat | 阿爾烏爾腰衣 |
-| 12515 | Suzaku・Kensei D Coil | 斯烏茲阿腰甲 |
-| 12516 | Suzaku・双龍D Coil | 双龍腰甲 |
-| 12517 | Suzaku・剣王D Coil | 剣王腰甲 |
-| 12518 | Suzaku・刀神D Coil | 刀神腰甲 |
-| 12519 | Suzaku・Heaven 槍D Coil | 槍天腰甲 |
-| 12520 | Suzaku・砲皇D Coil | 砲皇腰甲 |
-| 12521 | Suzaku・鈍器獣D Coil | 鈍器獣腰甲 |
-| 12522 | Suzaku・奏帝D Coil | 奏帝腰甲 |
-| 12523 | Suzaku・穿凰D Coil | 穿凰腰甲 |
-| 12524 | Suzaku・斬将D Coil | 斬将腰甲 |
-| 12525 | Suzaku・銃傑D Coat | 銃傑腰衣 |
-| 12526 | Suzaku・銃仙D Coat | 銃仙腰衣 |
+| 12515 | Suzaku・Kensei D Coil | 朱雀斯烏茲阿腰甲 |
+| 12516 | Suzaku・双龍D Coil | 朱雀双龍腰甲 |
+| 12517 | Suzaku・剣王D Coil | 朱雀剣王腰甲 |
+| 12518 | Suzaku・刀神D Coil | 朱雀刀神腰甲 |
+| 12519 | Suzaku・Heaven 槍D Coil | 朱雀槍天腰甲 |
+| 12520 | Suzaku・砲皇D Coil | 朱雀砲皇腰甲 |
+| 12521 | Suzaku・鈍器獣D Coil | 朱雀鈍器獣腰甲 |
+| 12522 | Suzaku・奏帝D Coil | 朱雀奏帝腰甲 |
+| 12523 | Suzaku・穿凰D Coil | 朱雀穿凰腰甲 |
+| 12524 | Suzaku・斬将D Coil | 朱雀斬将腰甲 |
+| 12525 | Suzaku・銃傑D Coat | 朱雀銃傑腰衣 |
+| 12526 | Suzaku・銃仙D Coat | 朱雀銃仙腰衣 |
 | 12527 | Suzaku・Bow 鬼D Coat | 朱雀腰衣 |
 | 12528 | G・Knight Coat PD Red | 騎士腰衣【ＰＤ】・赤 |
 | 12529 | G・Knight Coat PD Blue | 騎士腰衣【ＰＤ】・青 |
@@ -286,7 +286,7 @@
 | 12780 | ダミー | (dummy) |
 | 12781 | ダミー | (dummy) |
 | 12782 | ダミー | (dummy) |
-| 12783 | Brave ZX Faulds | 布阿芙艾腰甲【ＺＸ】 |
+| 12783 | Brave ZX Faulds | 勇者腰甲【ＺＸ】 |
 | 12784 | Bogabado Z Coil | 布歐格阿腰甲【Ｚ】 |
 | 12785 | Bogabado ZF Coil | 布歐格阿腰甲【ＺＦ】 |
 | 12786 | Bogabado ZY Coil | 布歐格阿腰甲【ＺＹ】 |
@@ -316,16 +316,16 @@
 | 12810 | Hematite F Coil | 赫艾姆阿腰甲【Ｆ】 |
 | 12811 | Hematite FX Coil | 赫艾姆阿腰甲【ＦＸ】 |
 | 12812 | Byakko・磁星G Coil | 白虎腰甲【Ｇ】 |
-| 12813 | Byakko・磁星GF Coil | 磁星腰甲【Ｆ】 |
+| 12813 | Byakko・磁星GF Coil | 白虎磁星腰甲【Ｆ】 |
 | 12814 | Byakko・磁星GX Coil | 白虎腰甲【ＧＸ】 |
 | 12815 | Suzaku・磁星G Coil | 朱雀腰甲【Ｇ】 |
-| 12816 | Suzaku・磁星GF Coil | 磁星腰甲【Ｆ】 |
+| 12816 | Suzaku・磁星GF Coil | 朱雀磁星腰甲【Ｆ】 |
 | 12817 | Suzaku・磁星GX Coil | 朱雀腰甲【ＧＸ】 |
 | 12818 | Genbu・磁星G Coil | 玄武腰甲【Ｇ】 |
-| 12819 | Genbu・磁星GF Coil | 磁星腰甲【Ｆ】 |
+| 12819 | Genbu・磁星GF Coil | 玄武磁星腰甲【Ｆ】 |
 | 12820 | Genbu・磁星GX Coil | 玄武腰甲【ＧＸ】 |
 | 12821 | Seiryu・磁星G Coil | 青龍腰甲【Ｇ】 |
-| 12822 | Seiryu・磁星GF Coil | 磁星腰甲【Ｆ】 |
+| 12822 | Seiryu・磁星GF Coil | 青龍磁星腰甲【Ｆ】 |
 | 12823 | Seiryu・磁星GX Coil | 青龍腰甲【ＧＸ】 |
 | 12824 | White 蘭・磁星 Coil | 蘭磁星腰甲・白 |
 | 12825 | White 蘭・磁星F Coil | 蘭磁星腰甲【Ｆ】・白 |
@@ -342,9 +342,9 @@
 | 12836 | 月夜・磁星G Coil | 月夜磁星腰甲【Ｇ】 |
 | 12837 | 月夜・磁星GF Coil | 月夜磁星腰甲【Ｆ】 |
 | 12838 | 月夜・磁星GX Coil | 月夜磁星腰甲【ＧＸ】 |
-| 12839 | Green 穹・磁星G Coil | 穹磁星腰甲・緑 |
+| 12839 | Green 穹・磁星G Coil | 穹磁星腰甲【Ｇ】・緑 |
 | 12840 | Green 穹・磁星GF Coil | 穹磁星腰甲【Ｆ】・緑 |
-| 12841 | Green 穹・磁星GX Coil | 穹磁星腰甲・緑 |
+| 12841 | Green 穹・磁星GX Coil | 穹磁星腰甲【ＧＸ】・緑 |
 | 12842 | Masaha Dress [Waistband] Red | 真砂禮服腰帶・赤 |
 | 12843 | Masaha Dress F [Waistband] Red | 真砂禮服腰帶【Ｆ】・赤 |
 | 12844 | Masaha Dress FZ [Waistband] Red | 真砂禮服腰帶【ＦＺ】・赤 |
@@ -414,24 +414,24 @@
 | 12908 | Masaha Dress D [Waistband] Silver | 姆阿斯阿腰帶・銀 |
 | 12909 | Masaha Dress D [Waistband] Blue | 姆阿斯阿腰帶・青 |
 | 12910 | Masaha Dress D [Waistband] Orange | 姆阿斯阿腰帶・橙 |
-| 12911 | Genbu・Kensei D Coil | 格艾恩烏腰甲 |
-| 12912 | Genbu・双龍D Coil | 双龍腰甲 |
-| 12913 | Genbu・剣王D Coil | 剣王腰甲 |
-| 12914 | Genbu・刀神D Coil | 刀神腰甲 |
-| 12915 | Genbu・Heaven 槍D Coil | 槍天腰甲 |
-| 12916 | Genbu・砲皇D Coil | 砲皇腰甲 |
-| 12917 | Genbu・鈍器獣D Coil | 鈍器獣腰甲 |
-| 12918 | Genbu・奏帝D Coil | 奏帝腰甲 |
-| 12919 | Genbu・穿凰D Coil | 穿凰腰甲 |
-| 12920 | Genbu・斬将D Coil | 斬将腰甲 |
-| 12921 | Genbu・銃傑D Coat | 銃傑腰衣 |
-| 12922 | Genbu・銃仙D Coat | 銃仙腰衣 |
+| 12911 | Genbu・Kensei D Coil | 玄武格艾恩烏腰甲 |
+| 12912 | Genbu・双龍D Coil | 玄武双龍腰甲 |
+| 12913 | Genbu・剣王D Coil | 玄武剣王腰甲 |
+| 12914 | Genbu・刀神D Coil | 玄武刀神腰甲 |
+| 12915 | Genbu・Heaven 槍D Coil | 玄武槍天腰甲 |
+| 12916 | Genbu・砲皇D Coil | 玄武砲皇腰甲 |
+| 12917 | Genbu・鈍器獣D Coil | 玄武鈍器獣腰甲 |
+| 12918 | Genbu・奏帝D Coil | 玄武奏帝腰甲 |
+| 12919 | Genbu・穿凰D Coil | 玄武穿凰腰甲 |
+| 12920 | Genbu・斬将D Coil | 玄武斬将腰甲 |
+| 12921 | Genbu・銃傑D Coat | 玄武銃傑腰衣 |
+| 12922 | Genbu・銃仙D Coat | 玄武銃仙腰衣 |
 | 12923 | Genbu・Bow 鬼D Coat | 玄武腰衣 |
 | 12924 | Tanzanite D Coil | 特阿恩阿腰甲 |
 | 12925 | Hematite D Coil | 赫艾姆阿腰甲 |
-| 12926 | Byakko・磁星D Coil | 磁星腰甲 |
-| 12927 | Suzaku・磁星D Coil | 磁星腰甲 |
-| 12928 | Genbu・磁星D Coil | 磁星腰甲 |
+| 12926 | Byakko・磁星D Coil | 白虎磁星腰甲 |
+| 12927 | Suzaku・磁星D Coil | 朱雀磁星腰甲 |
+| 12928 | Genbu・磁星D Coil | 玄武磁星腰甲 |
 | 12929 | Tigrex Coil PD Black | 轟龍腰甲【ＰＤ】・黑 |
 | 12930 | Tigrex Coil PD White | 轟龍腰甲【ＰＤ】・白 |
 | 12931 | Tigrex Coil PD Purple | 轟龍腰甲【ＰＤ】・紫 |

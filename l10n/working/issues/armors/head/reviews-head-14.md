@@ -263,12 +263,12 @@
 | 6757 | Dian HS Piercing | 德伊恩耳飾【ＨＳ】 |
 | 6758 | Dian GS Piercing | 德伊恩耳飾【ＧＳ】 |
 | 6759 | Dian GP Piercing | 德伊恩耳飾【ＧＰ】 |
-| 6760 | Wild HS Head | 沃伊爾頭兜【ＨＳ】 |
-| 6761 | Wild GS Head | 沃伊爾頭兜【ＧＳ】 |
-| 6762 | Wild GP Head | 沃伊爾頭兜【ＧＰ】 |
-| 6763 | Wild HS Piercing | 沃伊爾耳飾【ＨＳ】 |
-| 6764 | Wild GS Piercing | 沃伊爾耳飾【ＧＳ】 |
-| 6765 | Wild GP Piercing | 沃伊爾耳飾【ＧＰ】 |
+| 6760 | Wild HS Head | 狂野頭兜【ＨＳ】 |
+| 6761 | Wild GS Head | 狂野頭兜【ＧＳ】 |
+| 6762 | Wild GP Head | 狂野頭兜【ＧＰ】 |
+| 6763 | Wild HS Piercing | 狂野耳飾【ＨＳ】 |
+| 6764 | Wild GS Piercing | 狂野耳飾【ＧＳ】 |
+| 6765 | Wild GP Piercing | 狂野耳飾【ＧＰ】 |
 | 6766 | Flower HS Head | 芙歐沃艾頭兜【ＨＳ】 |
 | 6767 | Flower GS Head | 芙歐沃艾頭兜【ＧＳ】 |
 | 6768 | Flower GP Head | 芙歐沃艾頭兜【ＧＰ】 |
@@ -498,10 +498,10 @@
 | 6992 | Hisui Helm | 翡翠頭兜 |
 | 6993 | Hisui F Helm | 翡翠頭兜【Ｆ】 |
 | 6994 | Hisui FX Helm | 翡翠頭兜【ＦＸ】 |
-| 6995 | Blood Helm | 布歐德頭兜 |
-| 6996 | Blood F Helm | 布歐德頭兜【Ｆ】 |
-| 6997 | Blood FX Helm | 布歐德頭兜【ＦＸ】 |
+| 6995 | Blood Helm | 血頭兜 |
+| 6996 | Blood F Helm | 血頭兜【Ｆ】 |
+| 6997 | Blood FX Helm | 血頭兜【ＦＸ】 |
 | 6998 | Byakko・穿凰G Helm | 白虎頭兜【Ｇ】 |
-| 6999 | Byakko・穿凰GF Helm | 穿凰頭兜【Ｆ】 |
+| 6999 | Byakko・穿凰GF Helm | 白虎穿凰頭兜【Ｆ】 |
 | 7000 | Byakko・穿凰GX Helm | 白虎頭兜【ＧＸ】 |
 

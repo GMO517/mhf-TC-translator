@@ -138,8 +138,8 @@
 | 4132 | Blango GX Cap | 雪獅子兜帽【ＧＸ】 |
 | 4133 | Khezu GX Helm | 奇怪龍頭兜【ＧＸ】 |
 | 4134 | Khezu GX Cap | 奇怪龍兜帽【ＧＸ】 |
-| 4135 | Hope GX Helm | 赫歐普艾頭兜【ＧＸ】 |
-| 4136 | Hope GX Cap | 赫歐普艾兜帽【ＧＸ】 |
+| 4135 | Hope GX Helm | 希望頭兜【ＧＸ】 |
+| 4136 | Hope GX Cap | 希望兜帽【ＧＸ】 |
 | 4137 | Gougarf G Helm | 鬥獸頭兜【Ｇ】 |
 | 4138 | Gougarf GF Helm | 鬥獸頭兜【ＧＦ】 |
 | 4139 | Gougarf GX Helm | 鬥獸頭兜【ＧＸ】 |
@@ -251,77 +251,77 @@
 | 4245 | Seiryu・Kensei G Helm | 青龍劍聖頭兜【Ｇ】 |
 | 4246 | Seiryu・Kensei GF Helm | 青龍劍聖頭兜【ＧＦ】 |
 | 4247 | Byakko・双龍G Helm | 白虎頭兜【Ｇ】 |
-| 4248 | Byakko・双龍GF Helm | 双龍頭兜【Ｆ】 |
+| 4248 | Byakko・双龍GF Helm | 白虎双龍頭兜【Ｆ】 |
 | 4249 | Suzaku・双龍G Helm | 朱雀頭兜【Ｇ】 |
-| 4250 | Suzaku・双龍GF Helm | 双龍頭兜【Ｆ】 |
+| 4250 | Suzaku・双龍GF Helm | 朱雀双龍頭兜【Ｆ】 |
 | 4251 | Genbu・双龍G Helm | 玄武頭兜【Ｇ】 |
-| 4252 | Genbu・双龍GF Helm | 双龍頭兜【Ｆ】 |
+| 4252 | Genbu・双龍GF Helm | 玄武双龍頭兜【Ｆ】 |
 | 4253 | Seiryu・双龍G Helm | 青龍頭兜【Ｇ】 |
-| 4254 | Seiryu・双龍GF Helm | 双龍頭兜【Ｆ】 |
+| 4254 | Seiryu・双龍GF Helm | 青龍双龍頭兜【Ｆ】 |
 | 4255 | Byakko・剣王G Helm | 白虎頭兜【Ｇ】 |
-| 4256 | Byakko・剣王GF Helm | 剣王頭兜【Ｆ】 |
+| 4256 | Byakko・剣王GF Helm | 白虎剣王頭兜【Ｆ】 |
 | 4257 | Suzaku・剣王G Helm | 朱雀頭兜【Ｇ】 |
-| 4258 | Suzaku・剣王GF Helm | 剣王頭兜【Ｆ】 |
+| 4258 | Suzaku・剣王GF Helm | 朱雀剣王頭兜【Ｆ】 |
 | 4259 | Genbu・剣王G Helm | 玄武頭兜【Ｇ】 |
-| 4260 | Genbu・剣王GF Helm | 剣王頭兜【Ｆ】 |
+| 4260 | Genbu・剣王GF Helm | 玄武剣王頭兜【Ｆ】 |
 | 4261 | Seiryu・剣王G Helm | 青龍頭兜【Ｇ】 |
-| 4262 | Seiryu・剣王GF Helm | 剣王頭兜【Ｆ】 |
+| 4262 | Seiryu・剣王GF Helm | 青龍剣王頭兜【Ｆ】 |
 | 4263 | Byakko・刀神G Helm | 白虎頭兜【Ｇ】 |
-| 4264 | Byakko・刀神GF Helm | 刀神頭兜【Ｆ】 |
+| 4264 | Byakko・刀神GF Helm | 白虎刀神頭兜【Ｆ】 |
 | 4265 | Suzaku・刀神G Helm | 朱雀頭兜【Ｇ】 |
-| 4266 | Suzaku・刀神GF Helm | 刀神頭兜【Ｆ】 |
+| 4266 | Suzaku・刀神GF Helm | 朱雀刀神頭兜【Ｆ】 |
 | 4267 | Genbu・刀神G Helm | 玄武頭兜【Ｇ】 |
-| 4268 | Genbu・刀神GF Helm | 刀神頭兜【Ｆ】 |
+| 4268 | Genbu・刀神GF Helm | 玄武刀神頭兜【Ｆ】 |
 | 4269 | Seiryu・刀神G Helm | 青龍頭兜【Ｇ】 |
-| 4270 | Seiryu・刀神GF Helm | 刀神頭兜【Ｆ】 |
+| 4270 | Seiryu・刀神GF Helm | 青龍刀神頭兜【Ｆ】 |
 | 4271 | Byakko・Heaven 槍G Helm | 白虎天頭兜【Ｇ】 |
-| 4272 | Byakko・Heaven 槍GF Helm | 槍天頭兜【Ｆ】 |
+| 4272 | Byakko・Heaven 槍GF Helm | 白虎槍天頭兜【Ｆ】 |
 | 4273 | Suzaku・Heaven 槍G Helm | 朱雀天頭兜【Ｇ】 |
-| 4274 | Suzaku・Heaven 槍GF Helm | 槍天頭兜【Ｆ】 |
+| 4274 | Suzaku・Heaven 槍GF Helm | 朱雀槍天頭兜【Ｆ】 |
 | 4275 | Genbu・Heaven 槍G Helm | 玄武天頭兜【Ｇ】 |
-| 4276 | Genbu・Heaven 槍GF Helm | 槍天頭兜【Ｆ】 |
+| 4276 | Genbu・Heaven 槍GF Helm | 玄武槍天頭兜【Ｆ】 |
 | 4277 | Seiryu・Heaven 槍G Helm | 青龍天頭兜【Ｇ】 |
-| 4278 | Seiryu・Heaven 槍GF Helm | 槍天頭兜【Ｆ】 |
+| 4278 | Seiryu・Heaven 槍GF Helm | 青龍槍天頭兜【Ｆ】 |
 | 4279 | Byakko・砲皇G Helm | 白虎頭兜【Ｇ】 |
-| 4280 | Byakko・砲皇GF Helm | 砲皇頭兜【Ｆ】 |
+| 4280 | Byakko・砲皇GF Helm | 白虎砲皇頭兜【Ｆ】 |
 | 4281 | Suzaku・砲皇G Helm | 朱雀頭兜【Ｇ】 |
-| 4282 | Suzaku・砲皇GF Helm | 砲皇頭兜【Ｆ】 |
+| 4282 | Suzaku・砲皇GF Helm | 朱雀砲皇頭兜【Ｆ】 |
 | 4283 | Genbu・砲皇G Helm | 玄武頭兜【Ｇ】 |
-| 4284 | Genbu・砲皇GF Helm | 砲皇頭兜【Ｆ】 |
+| 4284 | Genbu・砲皇GF Helm | 玄武砲皇頭兜【Ｆ】 |
 | 4285 | Seiryu・砲皇G Helm | 青龍頭兜【Ｇ】 |
-| 4286 | Seiryu・砲皇GF Helm | 砲皇頭兜【Ｆ】 |
+| 4286 | Seiryu・砲皇GF Helm | 青龍砲皇頭兜【Ｆ】 |
 | 4287 | Byakko・鈍器獣G Helm | 白虎頭兜【Ｇ】 |
-| 4288 | Byakko・鈍器獣GF Helm | 鈍器獣頭兜【Ｆ】 |
+| 4288 | Byakko・鈍器獣GF Helm | 白虎鈍器獣頭兜【Ｆ】 |
 | 4289 | Suzaku・鈍器獣G Helm | 朱雀頭兜【Ｇ】 |
-| 4290 | Suzaku・鈍器獣GF Helm | 鈍器獣頭兜【Ｆ】 |
+| 4290 | Suzaku・鈍器獣GF Helm | 朱雀鈍器獣頭兜【Ｆ】 |
 | 4291 | Genbu・鈍器獣G Helm | 玄武頭兜【Ｇ】 |
-| 4292 | Genbu・鈍器獣GF Helm | 鈍器獣頭兜【Ｆ】 |
+| 4292 | Genbu・鈍器獣GF Helm | 玄武鈍器獣頭兜【Ｆ】 |
 | 4293 | Seiryu・鈍器獣G Helm | 青龍頭兜【Ｇ】 |
-| 4294 | Seiryu・鈍器獣GF Helm | 鈍器獣頭兜【Ｆ】 |
+| 4294 | Seiryu・鈍器獣GF Helm | 青龍鈍器獣頭兜【Ｆ】 |
 | 4295 | Byakko・奏帝G Helm | 白虎頭兜【Ｇ】 |
-| 4296 | Byakko・奏帝GF Helm | 奏帝頭兜【Ｆ】 |
+| 4296 | Byakko・奏帝GF Helm | 白虎奏帝頭兜【Ｆ】 |
 | 4297 | Suzaku・奏帝G Helm | 朱雀頭兜【Ｇ】 |
-| 4298 | Suzaku・奏帝GF Helm | 奏帝頭兜【Ｆ】 |
+| 4298 | Suzaku・奏帝GF Helm | 朱雀奏帝頭兜【Ｆ】 |
 | 4299 | Genbu・奏帝G Helm | 玄武頭兜【Ｇ】 |
-| 4300 | Genbu・奏帝GF Helm | 奏帝頭兜【Ｆ】 |
+| 4300 | Genbu・奏帝GF Helm | 玄武奏帝頭兜【Ｆ】 |
 | 4301 | Seiryu・奏帝G Helm | 青龍頭兜【Ｇ】 |
-| 4302 | Seiryu・奏帝GF Helm | 奏帝頭兜【Ｆ】 |
+| 4302 | Seiryu・奏帝GF Helm | 青龍奏帝頭兜【Ｆ】 |
 | 4303 | Byakko・銃傑G Mask | 白虎帽子【Ｇ】 |
-| 4304 | Byakko・銃傑GF Mask | 銃傑帽子【Ｆ】 |
+| 4304 | Byakko・銃傑GF Mask | 白虎銃傑帽子【Ｆ】 |
 | 4305 | Suzaku・銃傑G Mask | 朱雀帽子【Ｇ】 |
-| 4306 | Suzaku・銃傑GF Mask | 銃傑帽子【Ｆ】 |
+| 4306 | Suzaku・銃傑GF Mask | 朱雀銃傑帽子【Ｆ】 |
 | 4307 | Genbu・銃傑G Mask | 玄武帽子【Ｇ】 |
-| 4308 | Genbu・銃傑GF Mask | 銃傑帽子【Ｆ】 |
+| 4308 | Genbu・銃傑GF Mask | 玄武銃傑帽子【Ｆ】 |
 | 4309 | Seiryu・銃傑G Mask | 青龍帽子【Ｇ】 |
-| 4310 | Seiryu・銃傑GF Mask | 銃傑帽子【Ｆ】 |
+| 4310 | Seiryu・銃傑GF Mask | 青龍銃傑帽子【Ｆ】 |
 | 4311 | Byakko・銃仙G Mask | 白虎帽子【Ｇ】 |
-| 4312 | Byakko・銃仙GF Mask | 銃仙帽子【Ｆ】 |
+| 4312 | Byakko・銃仙GF Mask | 白虎銃仙帽子【Ｆ】 |
 | 4313 | Suzaku・銃仙G Mask | 朱雀帽子【Ｇ】 |
-| 4314 | Suzaku・銃仙GF Mask | 銃仙帽子【Ｆ】 |
+| 4314 | Suzaku・銃仙GF Mask | 朱雀銃仙帽子【Ｆ】 |
 | 4315 | Genbu・銃仙G Mask | 玄武帽子【Ｇ】 |
-| 4316 | Genbu・銃仙GF Mask | 銃仙帽子【Ｆ】 |
+| 4316 | Genbu・銃仙GF Mask | 玄武銃仙帽子【Ｆ】 |
 | 4317 | Seiryu・銃仙G Mask | 青龍帽子【Ｇ】 |
-| 4318 | Seiryu・銃仙GF Mask | 銃仙帽子【Ｆ】 |
+| 4318 | Seiryu・銃仙GF Mask | 青龍銃仙帽子【Ｆ】 |
 | 4319 | Byakko・Bow 鬼G Mask | 白虎帽子【Ｇ】 |
 | 4320 | Byakko・Bow 鬼GF Mask | 白虎帽子【Ｆ】 |
 | 4321 | Suzaku・Bow 鬼G Mask | 朱雀帽子【Ｇ】 |

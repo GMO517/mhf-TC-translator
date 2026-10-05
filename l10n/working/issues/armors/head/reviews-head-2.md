@@ -4,8 +4,8 @@
 
 | index | 原文 | 譯文 |
 |---|---|---|
-| 500 | Rookie Helm【Red】 | 爾歐克伊頭兜・赤 |
-| 501 | Rookie Helm【Green】 | 爾歐克伊頭兜・緑 |
+| 500 | Rookie Helm【Red】 | 新手頭兜・赤 |
+| 501 | Rookie Helm【Green】 | 新手頭兜・緑 |
 | 502 | Hypnoc S Helm | 眠鳥頭兜【Ｓ】 |
 | 503 | Hypnoc S Cap | 眠鳥兜帽【Ｓ】 |
 | 504 | Fest Victor's Crown | 優勝冠 |
@@ -41,9 +41,9 @@
 | 534 | Cool Black Masque | 涼面罩・黑 |
 | 535 | Cool Pale Masque | 克歐爾阿面罩 |
 | 536 | Sky White Masque | 天空面罩・白 |
-| 537 | Sky Brown Masque | 斯歐沃面罩 |
+| 537 | Sky Brown Masque | 天褐面罩 |
 | 538 | Sky Black Masque | 天空面罩・黑 |
-| 539 | Sky Pale Masque | 斯阿爾艾面罩 |
+| 539 | Sky Pale Masque | 天淡面罩 |
 | 540 | Vashimu Beretta | 尾晶蠍貝雷塔 |
 | 541 | Purogia Head | 普羅吉亞頭兜 |
 | 542 | Oracion Head | 祈願頭兜 |
@@ -421,9 +421,9 @@
 | 914 | Espinas R Brain | 棘龍腦【Ｒ】 |
 | 915 | Tigrex L Cap | 轟龍兜帽【Ｌ】 |
 | 916 | Guns Head | 格烏恩頭兜 |
-| 917 | Wild Head | 沃伊爾頭兜 |
+| 917 | Wild Head | 狂野頭兜 |
 | 918 | Guns Piercing | 格烏恩耳飾 |
-| 919 | Wild Piercing | 沃伊爾耳飾 |
+| 919 | Wild Piercing | 狂野耳飾 |
 | 920 | Ecole Head | 艾克歐爾頭兜 |
 | 921 | Dian Head | 德伊恩頭兜 |
 | 922 | Ecole Piercing | 艾克歐爾耳飾 |
@@ -492,9 +492,9 @@
 | 985 | Regis F Head | 爾艾格伊頭兜【Ｆ】 |
 | 986 | Regis Mask | 爾艾格伊帽子 |
 | 987 | Regis F Mask | 爾艾格伊帽子【Ｆ】 |
-| 988 | Fresh Comrade Helm | 芙艾夏歐頭兜 |
-| 989 | Sweet Comrade Helm | 斯艾特歐頭兜 |
-| 990 | Cool Comrade Helm | 克歐爾歐頭兜 |
+| 988 | Fresh Comrade Helm | 鮮戰友頭兜 |
+| 989 | Sweet Comrade Helm | 甜戰友頭兜 |
+| 990 | Cool Comrade Helm | 涼戰友頭兜 |
 | 991 | Ceanataur Cap SP Red | 鎌蟹兜帽【ＳＰ】・赤 |
 | 992 | Ceanataur Cap SP Black | 鎌蟹兜帽【ＳＰ】・黑 |
 | 993 | Ceanataur Cap SP Yellow | 鎌蟹兜帽【ＳＰ】・黄 |

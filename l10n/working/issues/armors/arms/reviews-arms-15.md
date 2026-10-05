@@ -8,9 +8,9 @@
 | 7002 | Crimson 霞・刀神G Arms | 霞刀神護腕【Ｇ】・紅 |
 | 7003 | Crimson 霞・刀神GF Arms | 霞刀神護腕【Ｆ】・紅 |
 | 7004 | Crimson 霞・刀神GX Arms | 霞刀神護腕【ＧＸ】・紅 |
-| 7005 | Green 穹・刀神G Arms | 穹刀神護腕・緑 |
+| 7005 | Green 穹・刀神G Arms | 穹刀神護腕【Ｇ】・緑 |
 | 7006 | Green 穹・刀神GF Arms | 穹刀神護腕【Ｆ】・緑 |
-| 7007 | Green 穹・刀神GX Arms | 穹刀神護腕・緑 |
+| 7007 | Green 穹・刀神GX Arms | 穹刀神護腕【ＧＸ】・緑 |
 | 7008 | White 蘭・鈍器獣 Arms | 蘭鈍器獣護腕・白 |
 | 7009 | White 蘭・鈍器獣F Arms | 蘭鈍器獣護腕【Ｆ】・白 |
 | 7010 | White 蘭・鈍器獣FX Arms | 蘭鈍器獣護腕【ＦＸ】・白 |
@@ -26,9 +26,9 @@
 | 7020 | Crimson 霞・鈍器獣G Arms | 霞鈍器獣護腕【Ｇ】・紅 |
 | 7021 | Crimson 霞・鈍器獣GF Arms | 霞鈍器獣護腕【Ｆ】・紅 |
 | 7022 | Crimson 霞・鈍器獣GX Arms | 霞鈍器獣護腕【ＧＸ】・紅 |
-| 7023 | Green 穹・鈍器獣G Arms | 穹鈍器獣護腕・緑 |
+| 7023 | Green 穹・鈍器獣G Arms | 穹鈍器獣護腕【Ｇ】・緑 |
 | 7024 | Green 穹・鈍器獣GF Arms | 穹鈍器獣護腕【Ｆ】・緑 |
-| 7025 | Green 穹・鈍器獣GX Arms | 穹鈍器獣護腕・緑 |
+| 7025 | Green 穹・鈍器獣GX Arms | 穹鈍器獣護腕【ＧＸ】・緑 |
 | 7026 | White 蘭・奏帝 Arms | 蘭奏帝護腕・白 |
 | 7027 | White 蘭・奏帝F Arms | 蘭奏帝護腕【Ｆ】・白 |
 | 7028 | White 蘭・奏帝FX Arms | 蘭奏帝護腕【ＦＸ】・白 |
@@ -44,9 +44,9 @@
 | 7038 | Crimson 霞・奏帝G Arms | 霞奏帝護腕【Ｇ】・紅 |
 | 7039 | Crimson 霞・奏帝GF Arms | 霞奏帝護腕【Ｆ】・紅 |
 | 7040 | Crimson 霞・奏帝GX Arms | 霞奏帝護腕【ＧＸ】・紅 |
-| 7041 | Green 穹・奏帝G Arms | 穹奏帝護腕・緑 |
+| 7041 | Green 穹・奏帝G Arms | 穹奏帝護腕【Ｇ】・緑 |
 | 7042 | Green 穹・奏帝GF Arms | 穹奏帝護腕【Ｆ】・緑 |
-| 7043 | Green 穹・奏帝GX Arms | 穹奏帝護腕・緑 |
+| 7043 | Green 穹・奏帝GX Arms | 穹奏帝護腕【ＧＸ】・緑 |
 | 7044 | White 蘭・Heaven 槍 Arms | 蘭槍天護腕・白 |
 | 7045 | White 蘭・Heaven 槍F Arms | 蘭槍天護腕【Ｆ】・白 |
 | 7046 | White 蘭・Heaven 槍FX Arms | 蘭槍天護腕【ＦＸ】・白 |
@@ -80,9 +80,9 @@
 | 7074 | Crimson 霞・砲皇G Arms | 霞砲皇護腕【Ｇ】・紅 |
 | 7075 | Crimson 霞・砲皇GF Arms | 霞砲皇護腕【Ｆ】・紅 |
 | 7076 | Crimson 霞・砲皇GX Arms | 霞砲皇護腕【ＧＸ】・紅 |
-| 7077 | Green 穹・砲皇G Arms | 穹砲皇護腕・緑 |
+| 7077 | Green 穹・砲皇G Arms | 穹砲皇護腕【Ｇ】・緑 |
 | 7078 | Green 穹・砲皇GF Arms | 穹砲皇護腕【Ｆ】・緑 |
-| 7079 | Green 穹・砲皇GX Arms | 穹砲皇護腕・緑 |
+| 7079 | Green 穹・砲皇GX Arms | 穹砲皇護腕【ＧＸ】・緑 |
 | 7080 | White 蘭・穿凰 Arms | 蘭穿凰護腕・白 |
 | 7081 | White 蘭・穿凰F Arms | 蘭穿凰護腕【Ｆ】・白 |
 | 7082 | White 蘭・穿凰FX Arms | 蘭穿凰護腕【ＦＸ】・白 |
@@ -98,9 +98,9 @@
 | 7092 | Crimson 霞・穿凰G Arms | 霞穿凰護腕【Ｇ】・紅 |
 | 7093 | Crimson 霞・穿凰GF Arms | 霞穿凰護腕【Ｆ】・紅 |
 | 7094 | Crimson 霞・穿凰GX Arms | 霞穿凰護腕【ＧＸ】・紅 |
-| 7095 | Green 穹・穿凰G Arms | 穹穿凰護腕・緑 |
+| 7095 | Green 穹・穿凰G Arms | 穹穿凰護腕【Ｇ】・緑 |
 | 7096 | Green 穹・穿凰GF Arms | 穹穿凰護腕【Ｆ】・緑 |
-| 7097 | Green 穹・穿凰GX Arms | 穹穿凰護腕・緑 |
+| 7097 | Green 穹・穿凰GX Arms | 穹穿凰護腕【ＧＸ】・緑 |
 | 7098 | White 蘭・銃仙 Guard | 蘭銃仙臂甲・白 |
 | 7099 | White 蘭・銃仙F Guard | 蘭銃仙臂甲【Ｆ】・白 |
 | 7100 | White 蘭・銃仙FX Guard | 蘭銃仙臂甲【ＦＸ】・白 |
@@ -116,9 +116,9 @@
 | 7110 | Crimson 霞・銃仙G Guard | 霞銃仙臂甲【Ｇ】・紅 |
 | 7111 | Crimson 霞・銃仙GF Guard | 霞銃仙臂甲【Ｆ】・紅 |
 | 7112 | Crimson 霞・銃仙GX Guard | 霞銃仙臂甲【ＧＸ】・紅 |
-| 7113 | Green 穹・銃仙G Guard | 穹銃仙臂甲・緑 |
+| 7113 | Green 穹・銃仙G Guard | 穹銃仙臂甲【Ｇ】・緑 |
 | 7114 | Green 穹・銃仙GF Guard | 穹銃仙臂甲【Ｆ】・緑 |
-| 7115 | Green 穹・銃仙GX Guard | 穹銃仙臂甲・緑 |
+| 7115 | Green 穹・銃仙GX Guard | 穹銃仙臂甲【ＧＸ】・緑 |
 | 7116 | White 蘭・銃傑 Guard | 蘭銃傑臂甲・白 |
 | 7117 | White 蘭・銃傑F Guard | 蘭銃傑臂甲【Ｆ】・白 |
 | 7118 | White 蘭・銃傑FX Guard | 蘭銃傑臂甲【ＦＸ】・白 |
@@ -134,9 +134,9 @@
 | 7128 | Crimson 霞・銃傑G Guard | 霞銃傑臂甲【Ｇ】・紅 |
 | 7129 | Crimson 霞・銃傑GF Guard | 霞銃傑臂甲【Ｆ】・紅 |
 | 7130 | Crimson 霞・銃傑GX Guard | 霞銃傑臂甲【ＧＸ】・紅 |
-| 7131 | Green 穹・銃傑G Guard | 穹銃傑臂甲・緑 |
+| 7131 | Green 穹・銃傑G Guard | 穹銃傑臂甲【Ｇ】・緑 |
 | 7132 | Green 穹・銃傑GF Guard | 穹銃傑臂甲【Ｆ】・緑 |
-| 7133 | Green 穹・銃傑GX Guard | 穹銃傑臂甲・緑 |
+| 7133 | Green 穹・銃傑GX Guard | 穹銃傑臂甲【ＧＸ】・緑 |
 | 7134 | White 蘭・Bow 鬼 Guard | 蘭鬼臂甲・白 |
 | 7135 | White 蘭・Bow 鬼F Guard | 蘭鬼臂甲【Ｆ】・白 |
 | 7136 | White 蘭・Bow 鬼FX Guard | 蘭鬼臂甲【ＦＸ】・白 |

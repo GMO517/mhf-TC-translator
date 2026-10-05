@@ -231,9 +231,9 @@
 | 724 | Espinas R Muscle | 棘龍筋肉衣【Ｒ】 |
 | 725 | Tigrex L Vest | 轟龍背心【Ｌ】 |
 | 726 | Guns Suit | 格烏恩套裝 |
-| 727 | Wild Suit | 沃伊爾套裝 |
+| 727 | Wild Suit | 狂野套裝 |
 | 728 | Guns Vest | 格烏恩背心 |
-| 729 | Wild Vest | 沃伊爾背心 |
+| 729 | Wild Vest | 狂野背心 |
 | 730 | Ecole Suit | 艾克歐爾套裝 |
 | 731 | Dian Suit | 德伊恩套裝 |
 | 732 | Ecole Vest | 艾克歐爾背心 |
@@ -459,10 +459,10 @@
 | 952 | アナキ Suit | 阿納基套裝 |
 | 953 | Harvest Mail | 赫阿爾艾鎧甲 |
 | 954 | Harvest Vest | 赫阿爾艾背心 |
-| 955 | Craft Mail | 克阿芙鎧甲 |
-| 956 | Craft F Mail | 克阿芙鎧甲【Ｆ】 |
-| 957 | Craft Vest | 克阿芙背心 |
-| 958 | Craft F Vest | 克阿芙背心【Ｆ】 |
+| 955 | Craft Mail | 工匠鎧甲 |
+| 956 | Craft F Mail | 工匠鎧甲【Ｆ】 |
+| 957 | Craft Vest | 工匠背心 |
+| 958 | Craft F Vest | 工匠背心【Ｆ】 |
 | 959 | Ledia Mail | 爾艾德伊鎧甲 |
 | 960 | Ledia F Mail | 爾艾德伊鎧甲【Ｆ】 |
 | 961 | Ledia Vest | 爾艾德伊背心 |

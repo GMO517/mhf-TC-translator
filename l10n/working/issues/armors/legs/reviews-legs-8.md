@@ -78,8 +78,8 @@
 | 3572 | Blango GX Leggings | 雪獅子裹腿【ＧＸ】 |
 | 3573 | Khezu GX Greaves | 奇怪龍護腿【ＧＸ】 |
 | 3574 | Khezu GX Leggings | 奇怪龍裹腿【ＧＸ】 |
-| 3575 | Hope GX Greaves | 赫歐普艾護腿【ＧＸ】 |
-| 3576 | Hope GX Leggings | 赫歐普艾裹腿【ＧＸ】 |
+| 3575 | Hope GX Greaves | 希望護腿【ＧＸ】 |
+| 3576 | Hope GX Leggings | 希望裹腿【ＧＸ】 |
 | 3577 | Gougarf G Greaves | 鬥獸護腿【Ｇ】 |
 | 3578 | Gougarf GF Greaves | 鬥獸護腿【ＧＦ】 |
 | 3579 | Gougarf GX Greaves | 鬥獸護腿【ＧＸ】 |
@@ -191,77 +191,77 @@
 | 3685 | Seiryu・Kensei G Feet | 青龍劍聖足【Ｇ】 |
 | 3686 | Seiryu・Kensei GF Feet | 青龍劍聖足【ＧＦ】 |
 | 3687 | Byakko・双龍G Feet | 白虎足【Ｇ】 |
-| 3688 | Byakko・双龍GF Feet | 双龍足【Ｆ】 |
+| 3688 | Byakko・双龍GF Feet | 白虎双龍足【Ｆ】 |
 | 3689 | Suzaku・双龍G Feet | 朱雀足【Ｇ】 |
-| 3690 | Suzaku・双龍GF Feet | 双龍足【Ｆ】 |
+| 3690 | Suzaku・双龍GF Feet | 朱雀双龍足【Ｆ】 |
 | 3691 | Genbu・双龍G Feet | 玄武足【Ｇ】 |
-| 3692 | Genbu・双龍GF Feet | 双龍足【Ｆ】 |
+| 3692 | Genbu・双龍GF Feet | 玄武双龍足【Ｆ】 |
 | 3693 | Seiryu・双龍G Feet | 青龍足【Ｇ】 |
-| 3694 | Seiryu・双龍GF Feet | 双龍足【Ｆ】 |
+| 3694 | Seiryu・双龍GF Feet | 青龍双龍足【Ｆ】 |
 | 3695 | Byakko・剣王G Feet | 白虎足【Ｇ】 |
-| 3696 | Byakko・剣王GF Feet | 剣王足【Ｆ】 |
+| 3696 | Byakko・剣王GF Feet | 白虎剣王足【Ｆ】 |
 | 3697 | Suzaku・剣王G Feet | 朱雀足【Ｇ】 |
-| 3698 | Suzaku・剣王GF Feet | 剣王足【Ｆ】 |
+| 3698 | Suzaku・剣王GF Feet | 朱雀剣王足【Ｆ】 |
 | 3699 | Genbu・剣王G Feet | 玄武足【Ｇ】 |
-| 3700 | Genbu・剣王GF Feet | 剣王足【Ｆ】 |
+| 3700 | Genbu・剣王GF Feet | 玄武剣王足【Ｆ】 |
 | 3701 | Seiryu・剣王G Feet | 青龍足【Ｇ】 |
-| 3702 | Seiryu・剣王GF Feet | 剣王足【Ｆ】 |
+| 3702 | Seiryu・剣王GF Feet | 青龍剣王足【Ｆ】 |
 | 3703 | Byakko・刀神G Feet | 白虎足【Ｇ】 |
-| 3704 | Byakko・刀神GF Feet | 刀神足【Ｆ】 |
+| 3704 | Byakko・刀神GF Feet | 白虎刀神足【Ｆ】 |
 | 3705 | Suzaku・刀神G Feet | 朱雀足【Ｇ】 |
-| 3706 | Suzaku・刀神GF Feet | 刀神足【Ｆ】 |
+| 3706 | Suzaku・刀神GF Feet | 朱雀刀神足【Ｆ】 |
 | 3707 | Genbu・刀神G Feet | 玄武足【Ｇ】 |
-| 3708 | Genbu・刀神GF Feet | 刀神足【Ｆ】 |
+| 3708 | Genbu・刀神GF Feet | 玄武刀神足【Ｆ】 |
 | 3709 | Seiryu・刀神G Feet | 青龍足【Ｇ】 |
-| 3710 | Seiryu・刀神GF Feet | 刀神足【Ｆ】 |
+| 3710 | Seiryu・刀神GF Feet | 青龍刀神足【Ｆ】 |
 | 3711 | Byakko・Heaven 槍G Feet | 白虎天足【Ｇ】 |
-| 3712 | Byakko・Heaven 槍GF Feet | 槍天足【Ｆ】 |
+| 3712 | Byakko・Heaven 槍GF Feet | 白虎槍天足【Ｆ】 |
 | 3713 | Suzaku・Heaven 槍G Feet | 朱雀天足【Ｇ】 |
-| 3714 | Suzaku・Heaven 槍GF Feet | 槍天足【Ｆ】 |
+| 3714 | Suzaku・Heaven 槍GF Feet | 朱雀槍天足【Ｆ】 |
 | 3715 | Genbu・Heaven 槍G Feet | 玄武天足【Ｇ】 |
-| 3716 | Genbu・Heaven 槍GF Feet | 槍天足【Ｆ】 |
+| 3716 | Genbu・Heaven 槍GF Feet | 玄武槍天足【Ｆ】 |
 | 3717 | Seiryu・Heaven 槍G Feet | 青龍天足【Ｇ】 |
-| 3718 | Seiryu・Heaven 槍GF Feet | 槍天足【Ｆ】 |
+| 3718 | Seiryu・Heaven 槍GF Feet | 青龍槍天足【Ｆ】 |
 | 3719 | Byakko・砲皇G Feet | 白虎足【Ｇ】 |
-| 3720 | Byakko・砲皇GF Feet | 砲皇足【Ｆ】 |
+| 3720 | Byakko・砲皇GF Feet | 白虎砲皇足【Ｆ】 |
 | 3721 | Suzaku・砲皇G Feet | 朱雀足【Ｇ】 |
-| 3722 | Suzaku・砲皇GF Feet | 砲皇足【Ｆ】 |
+| 3722 | Suzaku・砲皇GF Feet | 朱雀砲皇足【Ｆ】 |
 | 3723 | Genbu・砲皇G Feet | 玄武足【Ｇ】 |
-| 3724 | Genbu・砲皇GF Feet | 砲皇足【Ｆ】 |
+| 3724 | Genbu・砲皇GF Feet | 玄武砲皇足【Ｆ】 |
 | 3725 | Seiryu・砲皇G Feet | 青龍足【Ｇ】 |
-| 3726 | Seiryu・砲皇GF Feet | 砲皇足【Ｆ】 |
+| 3726 | Seiryu・砲皇GF Feet | 青龍砲皇足【Ｆ】 |
 | 3727 | Byakko・鈍器獣G Feet | 白虎足【Ｇ】 |
-| 3728 | Byakko・鈍器獣GF Feet | 鈍器獣足【Ｆ】 |
+| 3728 | Byakko・鈍器獣GF Feet | 白虎鈍器獣足【Ｆ】 |
 | 3729 | Suzaku・鈍器獣G Feet | 朱雀足【Ｇ】 |
-| 3730 | Suzaku・鈍器獣GF Feet | 鈍器獣足【Ｆ】 |
+| 3730 | Suzaku・鈍器獣GF Feet | 朱雀鈍器獣足【Ｆ】 |
 | 3731 | Genbu・鈍器獣G Feet | 玄武足【Ｇ】 |
-| 3732 | Genbu・鈍器獣GF Feet | 鈍器獣足【Ｆ】 |
+| 3732 | Genbu・鈍器獣GF Feet | 玄武鈍器獣足【Ｆ】 |
 | 3733 | Seiryu・鈍器獣G Feet | 青龍足【Ｇ】 |
-| 3734 | Seiryu・鈍器獣GF Feet | 鈍器獣足【Ｆ】 |
+| 3734 | Seiryu・鈍器獣GF Feet | 青龍鈍器獣足【Ｆ】 |
 | 3735 | Byakko・奏帝G Feet | 白虎足【Ｇ】 |
-| 3736 | Byakko・奏帝GF Feet | 奏帝足【Ｆ】 |
+| 3736 | Byakko・奏帝GF Feet | 白虎奏帝足【Ｆ】 |
 | 3737 | Suzaku・奏帝G Feet | 朱雀足【Ｇ】 |
-| 3738 | Suzaku・奏帝GF Feet | 奏帝足【Ｆ】 |
+| 3738 | Suzaku・奏帝GF Feet | 朱雀奏帝足【Ｆ】 |
 | 3739 | Genbu・奏帝G Feet | 玄武足【Ｇ】 |
-| 3740 | Genbu・奏帝GF Feet | 奏帝足【Ｆ】 |
+| 3740 | Genbu・奏帝GF Feet | 玄武奏帝足【Ｆ】 |
 | 3741 | Seiryu・奏帝G Feet | 青龍足【Ｇ】 |
-| 3742 | Seiryu・奏帝GF Feet | 奏帝足【Ｆ】 |
+| 3742 | Seiryu・奏帝GF Feet | 青龍奏帝足【Ｆ】 |
 | 3743 | Byakko・銃傑G Boots | 白虎靴【Ｇ】 |
-| 3744 | Byakko・銃傑GF Boots | 銃傑靴【Ｆ】 |
+| 3744 | Byakko・銃傑GF Boots | 白虎銃傑靴【Ｆ】 |
 | 3745 | Suzaku・銃傑G Boots | 朱雀靴【Ｇ】 |
-| 3746 | Suzaku・銃傑GF Boots | 銃傑靴【Ｆ】 |
+| 3746 | Suzaku・銃傑GF Boots | 朱雀銃傑靴【Ｆ】 |
 | 3747 | Genbu・銃傑G Boots | 玄武靴【Ｇ】 |
-| 3748 | Genbu・銃傑GF Boots | 銃傑靴【Ｆ】 |
+| 3748 | Genbu・銃傑GF Boots | 玄武銃傑靴【Ｆ】 |
 | 3749 | Seiryu・銃傑G Boots | 青龍靴【Ｇ】 |
-| 3750 | Seiryu・銃傑GF Boots | 銃傑靴【Ｆ】 |
+| 3750 | Seiryu・銃傑GF Boots | 青龍銃傑靴【Ｆ】 |
 | 3751 | Byakko・銃仙G Boots | 白虎靴【Ｇ】 |
-| 3752 | Byakko・銃仙GF Boots | 銃仙靴【Ｆ】 |
+| 3752 | Byakko・銃仙GF Boots | 白虎銃仙靴【Ｆ】 |
 | 3753 | Suzaku・銃仙G Boots | 朱雀靴【Ｇ】 |
-| 3754 | Suzaku・銃仙GF Boots | 銃仙靴【Ｆ】 |
+| 3754 | Suzaku・銃仙GF Boots | 朱雀銃仙靴【Ｆ】 |
 | 3755 | Genbu・銃仙G Boots | 玄武靴【Ｇ】 |
-| 3756 | Genbu・銃仙GF Boots | 銃仙靴【Ｆ】 |
+| 3756 | Genbu・銃仙GF Boots | 玄武銃仙靴【Ｆ】 |
 | 3757 | Seiryu・銃仙G Boots | 青龍靴【Ｇ】 |
-| 3758 | Seiryu・銃仙GF Boots | 銃仙靴【Ｆ】 |
+| 3758 | Seiryu・銃仙GF Boots | 青龍銃仙靴【Ｆ】 |
 | 3759 | Byakko・Bow 鬼G Boots | 白虎靴【Ｇ】 |
 | 3760 | Byakko・Bow 鬼GF Boots | 白虎靴【Ｆ】 |
 | 3761 | Suzaku・Bow 鬼G Boots | 朱雀靴【Ｇ】 |

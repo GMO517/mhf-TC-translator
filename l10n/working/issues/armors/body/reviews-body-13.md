@@ -104,12 +104,12 @@
 | 6098 | Dian HS Vest | 德伊恩背心【ＨＳ】 |
 | 6099 | Dian GS Vest | 德伊恩背心【ＧＳ】 |
 | 6100 | Dian GP Vest | 德伊恩背心【ＧＰ】 |
-| 6101 | Wild HS Suit | 沃伊爾套裝【ＨＳ】 |
-| 6102 | Wild GS Suit | 沃伊爾套裝【ＧＳ】 |
-| 6103 | Wild GP Suit | 沃伊爾套裝【ＧＰ】 |
-| 6104 | Wild HS Vest | 沃伊爾背心【ＨＳ】 |
-| 6105 | Wild GS Vest | 沃伊爾背心【ＧＳ】 |
-| 6106 | Wild GP Vest | 沃伊爾背心【ＧＰ】 |
+| 6101 | Wild HS Suit | 狂野套裝【ＨＳ】 |
+| 6102 | Wild GS Suit | 狂野套裝【ＧＳ】 |
+| 6103 | Wild GP Suit | 狂野套裝【ＧＰ】 |
+| 6104 | Wild HS Vest | 狂野背心【ＨＳ】 |
+| 6105 | Wild GS Vest | 狂野背心【ＧＳ】 |
+| 6106 | Wild GP Vest | 狂野背心【ＧＰ】 |
 | 6107 | Flower HS Suit | 芙歐沃艾套裝【ＨＳ】 |
 | 6108 | Flower GS Suit | 芙歐沃艾套裝【ＧＳ】 |
 | 6109 | Flower GP Suit | 芙歐沃艾套裝【ＧＰ】 |
@@ -307,20 +307,20 @@
 | 6301 | Hisui Mail | 翡翠鎧甲 |
 | 6302 | Hisui F Mail | 翡翠鎧甲【Ｆ】 |
 | 6303 | Hisui FX Mail | 翡翠鎧甲【ＦＸ】 |
-| 6304 | Blood Mail | 布歐德鎧甲 |
-| 6305 | Blood F Mail | 布歐德鎧甲【Ｆ】 |
-| 6306 | Blood FX Mail | 布歐德鎧甲【ＦＸ】 |
+| 6304 | Blood Mail | 血鎧甲 |
+| 6305 | Blood F Mail | 血鎧甲【Ｆ】 |
+| 6306 | Blood FX Mail | 血鎧甲【ＦＸ】 |
 | 6307 | Byakko・穿凰G Mail | 白虎鎧甲【Ｇ】 |
-| 6308 | Byakko・穿凰GF Mail | 穿凰鎧甲【Ｆ】 |
+| 6308 | Byakko・穿凰GF Mail | 白虎穿凰鎧甲【Ｆ】 |
 | 6309 | Byakko・穿凰GX Mail | 白虎鎧甲【ＧＸ】 |
 | 6310 | Suzaku・穿凰G Mail | 朱雀鎧甲【Ｇ】 |
-| 6311 | Suzaku・穿凰GF Mail | 穿凰鎧甲【Ｆ】 |
+| 6311 | Suzaku・穿凰GF Mail | 朱雀穿凰鎧甲【Ｆ】 |
 | 6312 | Suzaku・穿凰GX Mail | 朱雀鎧甲【ＧＸ】 |
 | 6313 | Genbu・穿凰G Mail | 玄武鎧甲【Ｇ】 |
-| 6314 | Genbu・穿凰GF Mail | 穿凰鎧甲【Ｆ】 |
+| 6314 | Genbu・穿凰GF Mail | 玄武穿凰鎧甲【Ｆ】 |
 | 6315 | Genbu・穿凰GX Mail | 玄武鎧甲【ＧＸ】 |
 | 6316 | Seiryu・穿凰G Mail | 青龍鎧甲【Ｇ】 |
-| 6317 | Seiryu・穿凰GF Mail | 穿凰鎧甲【Ｆ】 |
+| 6317 | Seiryu・穿凰GF Mail | 青龍穿凰鎧甲【Ｆ】 |
 | 6318 | Seiryu・穿凰GX Mail | 青龍鎧甲【ＧＸ】 |
 | 6319 | Honour Mail・Red | 榮譽鎧甲・赤 |
 | 6320 | Honour F Mail・Red | 榮譽鎧甲【Ｆ】・赤 |

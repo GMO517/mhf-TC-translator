@@ -5,13 +5,13 @@
 | index | 原文 | 譯文 |
 |---|---|---|
 | 7001 | Suzaku・穿凰G Helm | 朱雀頭兜【Ｇ】 |
-| 7002 | Suzaku・穿凰GF Helm | 穿凰頭兜【Ｆ】 |
+| 7002 | Suzaku・穿凰GF Helm | 朱雀穿凰頭兜【Ｆ】 |
 | 7003 | Suzaku・穿凰GX Helm | 朱雀頭兜【ＧＸ】 |
 | 7004 | Genbu・穿凰G Helm | 玄武頭兜【Ｇ】 |
-| 7005 | Genbu・穿凰GF Helm | 穿凰頭兜【Ｆ】 |
+| 7005 | Genbu・穿凰GF Helm | 玄武穿凰頭兜【Ｆ】 |
 | 7006 | Genbu・穿凰GX Helm | 玄武頭兜【ＧＸ】 |
 | 7007 | Seiryu・穿凰G Helm | 青龍頭兜【Ｇ】 |
-| 7008 | Seiryu・穿凰GF Helm | 穿凰頭兜【Ｆ】 |
+| 7008 | Seiryu・穿凰GF Helm | 青龍穿凰頭兜【Ｆ】 |
 | 7009 | Seiryu・穿凰GX Helm | 青龍頭兜【ＧＸ】 |
 | 7010 | Honour Helm・Red | 榮譽頭兜・赤 |
 | 7011 | Honour F Helm・Red | 榮譽頭兜【Ｆ】・赤 |

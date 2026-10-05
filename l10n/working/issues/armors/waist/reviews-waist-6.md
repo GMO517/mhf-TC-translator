@@ -72,8 +72,8 @@
 | 2566 | アナキHC Belt | 阿納基腰帶【ＨＣ】 |
 | 2567 | Royal FY Coil | 王室腰甲 |
 | 2568 | Royal HC Coil | 王室腰甲【ＨＣ】 |
-| 2569 | Lord FY Belt | 爾歐爾腰帶 |
-| 2570 | Lord HC Belt | 爾歐爾腰帶【ＨＣ】 |
+| 2569 | Lord FY Belt | 領主腰帶 |
+| 2570 | Lord HC Belt | 領主腰帶【ＨＣ】 |
 | 2571 | フレイ Coil | 芙雷伊腰甲 |
 | 2572 | クロノス Coil | 庫羅諾斯腰甲 |
 | 2573 | フレイ Coat | 芙雷伊腰衣 |
@@ -195,8 +195,8 @@
 | 2689 | Pandeum FZ Belt | 普阿恩艾腰帶【ＦＺ】 |
 | 2690 | Dian FZ Waist | 德伊恩腰甲【ＦＺ】 |
 | 2691 | Dian FZ Belt | 德伊恩腰帶【ＦＺ】 |
-| 2692 | Wild FZ Waist | 沃伊爾腰甲【ＦＺ】 |
-| 2693 | Wild FZ Belt | 沃伊爾腰帶【ＦＺ】 |
+| 2692 | Wild FZ Waist | 狂野腰甲【ＦＺ】 |
+| 2693 | Wild FZ Belt | 狂野腰帶【ＦＺ】 |
 | 2694 | Flower FZ Waist | 芙歐沃艾腰甲【ＦＺ】 |
 | 2695 | Flower FZ Belt | 芙歐沃艾腰帶【ＦＺ】 |
 | 2696 | Fias FZ Waist | 芙伊斯腰甲【ＦＺ】 |

@@ -229,14 +229,14 @@
 | 4723 | Lady HS Belt・Green | 淑女腰帶【ＨＳ】・緑 |
 | 4724 | Lady GS Belt・Green | 淑女腰帶【ＧＳ】・緑 |
 | 4725 | Lady GP Belt・Green | 淑女腰帶【ＧＰ】・緑 |
-| 4726 | 昇龍FZ Black Obi・White | 昇龍帶【ＦＺ】・黑 |
-| 4727 | 昇龍HS Black Obi・White | 昇龍帶【ＨＳ】・黑 |
-| 4728 | 昇龍GS Black Obi・White | 昇龍帶【ＧＳ】・黑 |
-| 4729 | 昇龍GP Black Obi・White | 昇龍帶【ＧＰ】・黑 |
-| 4730 | 波動FZ Black Obi・White | 波動帶【ＦＺ】・黑 |
-| 4731 | 波動HS Black Obi・White | 波動帶【ＨＳ】・黑 |
-| 4732 | 波動GS Black Obi・White | 波動帶【ＧＳ】・黑 |
-| 4733 | 波動GP Black Obi・White | 波動帶【ＧＰ】・黑 |
+| 4726 | 昇龍FZ Black Obi・White | 昇龍帶【ＦＺ】・黑白 |
+| 4727 | 昇龍HS Black Obi・White | 昇龍帶【ＨＳ】・黑白 |
+| 4728 | 昇龍GS Black Obi・White | 昇龍帶【ＧＳ】・黑白 |
+| 4729 | 昇龍GP Black Obi・White | 昇龍帶【ＧＰ】・黑白 |
+| 4730 | 波動FZ Black Obi・White | 波動帶【ＦＺ】・黑白 |
+| 4731 | 波動HS Black Obi・White | 波動帶【ＨＳ】・黑白 |
+| 4732 | 波動GS Black Obi・White | 波動帶【ＧＳ】・黑白 |
+| 4733 | 波動GP Black Obi・White | 波動帶【ＧＰ】・黑白 |
 | 4734 | 百裂FZ Waistband・Blue | 百裂腰帶【ＦＺ】・青 |
 | 4735 | 百裂HS Waistband・Blue | 百裂腰帶【ＨＳ】・青 |
 | 4736 | 百裂GS Waistband・Blue | 百裂腰帶【ＧＳ】・青 |
@@ -245,14 +245,14 @@
 | 4739 | 気功HS Waistband・Blue | 気功腰帶【ＨＳ】・青 |
 | 4740 | 気功GS Waistband・Blue | 気功腰帶【ＧＳ】・青 |
 | 4741 | 気功GP Waistband・Blue | 気功腰帶【ＧＰ】・青 |
-| 4742 | 昇龍FZ Black Obi・紺 | 昇龍帶 |
-| 4743 | 昇龍HS Black Obi・紺 | 昇龍帶 |
-| 4744 | 昇龍GS Black Obi・紺 | 昇龍帶 |
-| 4745 | 昇龍GP Black Obi・紺 | 昇龍帶 |
-| 4746 | 波動FZ Black Obi・紺 | 波動帶 |
-| 4747 | 波動HS Black Obi・紺 | 波動帶 |
-| 4748 | 波動GS Black Obi・紺 | 波動帶 |
-| 4749 | 波動GP Black Obi・紺 | 波動帶 |
+| 4742 | 昇龍FZ Black Obi・紺 | 昇龍紺帶【ＦＺ】・黑 |
+| 4743 | 昇龍HS Black Obi・紺 | 昇龍紺帶【ＨＳ】・黑 |
+| 4744 | 昇龍GS Black Obi・紺 | 昇龍紺帶【ＧＳ】・黑 |
+| 4745 | 昇龍GP Black Obi・紺 | 昇龍紺帶【ＧＰ】・黑 |
+| 4746 | 波動FZ Black Obi・紺 | 波動紺帶【ＦＺ】・黑 |
+| 4747 | 波動HS Black Obi・紺 | 波動紺帶【ＨＳ】・黑 |
+| 4748 | 波動GS Black Obi・紺 | 波動紺帶【ＧＳ】・黑 |
+| 4749 | 波動GP Black Obi・紺 | 波動紺帶【ＧＰ】・黑 |
 | 4750 | 百裂FZ Waistband・Black | 百裂腰帶【ＦＺ】・黑 |
 | 4751 | 百裂HS Waistband・Black | 百裂腰帶【ＨＳ】・黑 |
 | 4752 | 百裂GS Waistband・Black | 百裂腰帶【ＧＳ】・黑 |
@@ -261,14 +261,14 @@
 | 4755 | 気功HS Waistband・Black | 気功腰帶【ＨＳ】・黑 |
 | 4756 | 気功GS Waistband・Black | 気功腰帶【ＧＳ】・黑 |
 | 4757 | 気功GP Waistband・Black | 気功腰帶【ＧＰ】・黑 |
-| 4758 | 昇龍FZ Black Obi・Yellow | 昇龍帶【ＦＺ】・黑 |
-| 4759 | 昇龍HS Black Obi・Yellow | 昇龍帶【ＨＳ】・黑 |
-| 4760 | 昇龍GS Black Obi・Yellow | 昇龍帶【ＧＳ】・黑 |
-| 4761 | 昇龍GP Black Obi・Yellow | 昇龍帶【ＧＰ】・黑 |
-| 4762 | 波動FZ Black Obi・Yellow | 波動帶【ＦＺ】・黑 |
-| 4763 | 波動HS Black Obi・Yellow | 波動帶【ＨＳ】・黑 |
-| 4764 | 波動GS Black Obi・Yellow | 波動帶【ＧＳ】・黑 |
-| 4765 | 波動GP Black Obi・Yellow | 波動帶【ＧＰ】・黑 |
+| 4758 | 昇龍FZ Black Obi・Yellow | 昇龍帶【ＦＺ】・黑黄 |
+| 4759 | 昇龍HS Black Obi・Yellow | 昇龍帶【ＨＳ】・黑黄 |
+| 4760 | 昇龍GS Black Obi・Yellow | 昇龍帶【ＧＳ】・黑黄 |
+| 4761 | 昇龍GP Black Obi・Yellow | 昇龍帶【ＧＰ】・黑黄 |
+| 4762 | 波動FZ Black Obi・Yellow | 波動帶【ＦＺ】・黑黄 |
+| 4763 | 波動HS Black Obi・Yellow | 波動帶【ＨＳ】・黑黄 |
+| 4764 | 波動GS Black Obi・Yellow | 波動帶【ＧＳ】・黑黄 |
+| 4765 | 波動GP Black Obi・Yellow | 波動帶【ＧＰ】・黑黄 |
 | 4766 | 百裂FZ Waistband・Yellow | 百裂腰帶【ＦＺ】・黄 |
 | 4767 | 百裂HS Waistband・Yellow | 百裂腰帶【ＨＳ】・黄 |
 | 4768 | 百裂GS Waistband・Yellow | 百裂腰帶【ＧＳ】・黄 |
@@ -277,14 +277,14 @@
 | 4771 | 気功HS Waistband・Yellow | 気功腰帶【ＨＳ】・黄 |
 | 4772 | 気功GS Waistband・Yellow | 気功腰帶【ＧＳ】・黄 |
 | 4773 | 気功GP Waistband・Yellow | 気功腰帶【ＧＰ】・黄 |
-| 4774 | 昇龍FZ Black Obi・Purple | 昇龍帶【ＦＺ】・黑 |
-| 4775 | 昇龍HS Black Obi・Purple | 昇龍帶【ＨＳ】・黑 |
-| 4776 | 昇龍GS Black Obi・Purple | 昇龍帶【ＧＳ】・黑 |
-| 4777 | 昇龍GP Black Obi・Purple | 昇龍帶【ＧＰ】・黑 |
-| 4778 | 波動FZ Black Obi・Purple | 波動帶【ＦＺ】・黑 |
-| 4779 | 波動HS Black Obi・Purple | 波動帶【ＨＳ】・黑 |
-| 4780 | 波動GS Black Obi・Purple | 波動帶【ＧＳ】・黑 |
-| 4781 | 波動GP Black Obi・Purple | 波動帶【ＧＰ】・黑 |
+| 4774 | 昇龍FZ Black Obi・Purple | 昇龍帶【ＦＺ】・黑紫 |
+| 4775 | 昇龍HS Black Obi・Purple | 昇龍帶【ＨＳ】・黑紫 |
+| 4776 | 昇龍GS Black Obi・Purple | 昇龍帶【ＧＳ】・黑紫 |
+| 4777 | 昇龍GP Black Obi・Purple | 昇龍帶【ＧＰ】・黑紫 |
+| 4778 | 波動FZ Black Obi・Purple | 波動帶【ＦＺ】・黑紫 |
+| 4779 | 波動HS Black Obi・Purple | 波動帶【ＨＳ】・黑紫 |
+| 4780 | 波動GS Black Obi・Purple | 波動帶【ＧＳ】・黑紫 |
+| 4781 | 波動GP Black Obi・Purple | 波動帶【ＧＰ】・黑紫 |
 | 4782 | 百裂FZ Waistband・Green | 百裂腰帶【ＦＺ】・緑 |
 | 4783 | 百裂HS Waistband・Green | 百裂腰帶【ＨＳ】・緑 |
 | 4784 | 百裂GS Waistband・Green | 百裂腰帶【ＧＳ】・緑 |
@@ -453,34 +453,34 @@
 | 4947 | 蜂針GP【腰当て】・Black | 蜂針腰當【ＧＰ】・黑 |
 | 4948 | 気弾GS【腰当て】・Black | 気弾腰當【ＧＳ】・黑 |
 | 4949 | 気弾GP【腰当て】・Black | 気弾腰當【ＧＰ】・黑 |
-| 4950 | Shinryu GS Black Obi・Red | 神龍帶【ＧＳ】・黑 |
-| 4951 | Shinryu GP Black Obi・Red | 神龍帶【ＧＰ】・黑 |
-| 4952 | Reppa GS Black Obi・Red | 烈破帶【ＧＳ】・黑 |
-| 4953 | Reppa GP Black Obi・Red | 烈破帶【ＧＰ】・黑 |
+| 4950 | Shinryu GS Black Obi・Red | 神龍帶【ＧＳ】・黑赤 |
+| 4951 | Shinryu GP Black Obi・Red | 神龍帶【ＧＰ】・黑赤 |
+| 4952 | Reppa GS Black Obi・Red | 烈破帶【ＧＳ】・黑赤 |
+| 4953 | Reppa GP Black Obi・Red | 烈破帶【ＧＰ】・黑赤 |
 | 4954 | Cannon GS Will・Water | 砲意志腰甲【ＧＳ】・水 |
 | 4955 | Cannon GP Will・Water | 砲意志腰甲【ＧＰ】・水 |
 | 4956 | Axel GS Will・Water | 軸意志腰甲【ＧＳ】・水 |
 | 4957 | Axel GP Will・Water | 軸意志腰甲【ＧＰ】・水 |
-| 4958 | Shinryu GS Black Obi・White | 神龍帶【ＧＳ】・黑 |
-| 4959 | Shinryu GP Black Obi・White | 神龍帶【ＧＰ】・黑 |
-| 4960 | Reppa GS Black Obi・White | 烈破帶【ＧＳ】・黑 |
-| 4961 | Reppa GP Black Obi・White | 烈破帶【ＧＰ】・黑 |
+| 4958 | Shinryu GS Black Obi・White | 神龍帶【ＧＳ】・黑白 |
+| 4959 | Shinryu GP Black Obi・White | 神龍帶【ＧＰ】・黑白 |
+| 4960 | Reppa GS Black Obi・White | 烈破帶【ＧＳ】・黑白 |
+| 4961 | Reppa GP Black Obi・White | 烈破帶【ＧＰ】・黑白 |
 | 4962 | Cannon GS Will・Green | 砲意志腰甲【ＧＳ】・緑 |
 | 4963 | Cannon GP Will・Green | 砲意志腰甲【ＧＰ】・緑 |
 | 4964 | Axel GS Will・Green | 軸意志腰甲【ＧＳ】・緑 |
 | 4965 | Axel GP Will・Green | 軸意志腰甲【ＧＰ】・緑 |
-| 4966 | Shinryu GS Black Obi・Purple | 神龍帶【ＧＳ】・黑 |
-| 4967 | Shinryu GP Black Obi・Purple | 神龍帶【ＧＰ】・黑 |
-| 4968 | Reppa GS Black Obi・Purple | 烈破帶【ＧＳ】・黑 |
-| 4969 | Reppa GP Black Obi・Purple | 烈破帶【ＧＰ】・黑 |
+| 4966 | Shinryu GS Black Obi・Purple | 神龍帶【ＧＳ】・黑紫 |
+| 4967 | Shinryu GP Black Obi・Purple | 神龍帶【ＧＰ】・黑紫 |
+| 4968 | Reppa GS Black Obi・Purple | 烈破帶【ＧＳ】・黑紫 |
+| 4969 | Reppa GP Black Obi・Purple | 烈破帶【ＧＰ】・黑紫 |
 | 4970 | Cannon GS Will・Peach | 砲意志腰甲【ＧＳ】・桃 |
 | 4971 | Cannon GP Will・Peach | 砲意志腰甲【ＧＰ】・桃 |
 | 4972 | Axel GS Will・Peach | 軸意志腰甲【ＧＳ】・桃 |
 | 4973 | Axel GP Will・Peach | 軸意志腰甲【ＧＰ】・桃 |
-| 4974 | Shinryu GS Black Obi・Yellow | 神龍帶【ＧＳ】・黑 |
-| 4975 | Shinryu GP Black Obi・Yellow | 神龍帶【ＧＰ】・黑 |
-| 4976 | Reppa GS Black Obi・Yellow | 烈破帶【ＧＳ】・黑 |
-| 4977 | Reppa GP Black Obi・Yellow | 烈破帶【ＧＰ】・黑 |
+| 4974 | Shinryu GS Black Obi・Yellow | 神龍帶【ＧＳ】・黑黄 |
+| 4975 | Shinryu GP Black Obi・Yellow | 神龍帶【ＧＰ】・黑黄 |
+| 4976 | Reppa GS Black Obi・Yellow | 烈破帶【ＧＳ】・黑黄 |
+| 4977 | Reppa GP Black Obi・Yellow | 烈破帶【ＧＰ】・黑黄 |
 | 4978 | Cannon GS Will・Purple | 砲意志腰甲【ＧＳ】・紫 |
 | 4979 | Cannon GP Will・Purple | 砲意志腰甲【ＧＰ】・紫 |
 | 4980 | Axel GS Will・Purple | 軸意志腰甲【ＧＳ】・紫 |

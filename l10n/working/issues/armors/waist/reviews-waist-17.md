@@ -329,7 +329,7 @@
 | 8323 | Mist GX【 Obi 】 | 霧帶【ＧＸ】 |
 | 8324 | Fog 【 Obi 】 | 霧帶 |
 | 8325 | Fog F【 Obi 】 | 霧帶【Ｆ】 |
-| 8326 | Fog FY【 Obi 】 | 芙歐格帶 |
+| 8326 | Fog FY【 Obi 】 | 霧帶 |
 | 8327 | Fog HS【 Obi 】 | 霧帶【ＨＳ】 |
 | 8328 | Fog G【 Obi 】 | 霧帶【Ｇ】 |
 | 8329 | Fog GF【 Obi 】 | 霧帶【ＧＦ】 |

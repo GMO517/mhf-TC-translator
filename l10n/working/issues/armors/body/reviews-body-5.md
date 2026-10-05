@@ -71,8 +71,8 @@
 | 2065 | Kurossu F Suit | 克烏爾歐套裝【Ｆ】 |
 | 2066 | Shieri FX Mail | 夏伊爾伊鎧甲【ＦＸ】 |
 | 2067 | Shieri FX Vest | 夏伊爾伊背心【ＦＸ】 |
-| 2068 | Craft FX Mail | 克阿芙鎧甲【ＦＸ】 |
-| 2069 | Craft FX Vest | 克阿芙背心【ＦＸ】 |
+| 2068 | Craft FX Mail | 工匠鎧甲【ＦＸ】 |
+| 2069 | Craft FX Vest | 工匠背心【ＦＸ】 |
 | 2070 | Moss Covered FX Mail | 苔覆鎧甲【ＦＸ】 |
 | 2071 | Moss Covered FX Vest | 苔覆背心【ＦＸ】 |
 | 2072 | Excelle FX Mail | 艾克斯艾鎧甲【ＦＸ】 |
@@ -347,9 +347,9 @@
 | 2341 | Ruko Skin SP White | 極龍皮【ＳＰ】・白 |
 | 2342 | Ruko Skin SP Blue | 極龍皮【ＳＰ】・青 |
 | 2343 | Ruko Skin SP Red | 極龍皮【ＳＰ】・赤 |
-| 2344 | Comrade Mail SP White Red | 戰友鎧甲【ＳＰ】・白 |
-| 2345 | Comrade Mail SP White Blue | 戰友鎧甲【ＳＰ】・白 |
-| 2346 | Comrade Mail SP White Yellow | 戰友鎧甲【ＳＰ】・白 |
+| 2344 | Comrade Mail SP White Red | 戰友鎧甲【ＳＰ】・白赤 |
+| 2345 | Comrade Mail SP White Blue | 戰友鎧甲【ＳＰ】・白青 |
+| 2346 | Comrade Mail SP White Yellow | 戰友鎧甲【ＳＰ】・白黄 |
 | 2347 | Rubellite Mail | 爾烏布艾鎧甲 |
 | 2348 | Rubellite F Mail | 爾烏布艾鎧甲【Ｆ】 |
 | 2349 | Rubellite FX Mail | 爾烏布艾鎧甲【ＦＸ】 |
@@ -427,8 +427,8 @@
 | 2421 | アナキHC Suit | 阿納基套裝【ＨＣ】 |
 | 2422 | Royal FY Mail | 王室鎧甲 |
 | 2423 | Royal HC Mail | 王室鎧甲【ＨＣ】 |
-| 2424 | Lord FY Vest | 爾歐爾背心 |
-| 2425 | Lord HC Vest | 爾歐爾背心【ＨＣ】 |
+| 2424 | Lord FY Vest | 領主背心 |
+| 2425 | Lord HC Vest | 領主背心【ＨＣ】 |
 | 2426 | フレイ Mail | 芙雷伊鎧甲 |
 | 2427 | クロノス Mail | 庫羅諾斯鎧甲 |
 | 2428 | フレイ Vest | 芙雷伊背心 |

@@ -62,7 +62,7 @@
 | 55 | Yellow Piercing | 耳飾・黄 |
 | 56 | Black Piercing | 耳飾・黑 |
 | 57 | Solar Shinobi Mask | 斯歐爾阿帽子 |
-| 58 | Shadow Shinobi Mask | 夏阿德歐帽子 |
+| 58 | Shadow Shinobi Mask | 影忍帽子 |
 | 59 | Guardian Helm | 守護者頭兜 |
 | 60 | Guardian Mask | 守護者帽子 |
 | 61 | Helper Hood | 助手兜帽 |
@@ -117,16 +117,16 @@
 | 110 | Monodevil Cap | 單眼惡魔兜帽 |
 | 111 | Gravios U Helm | 鎧龍頭兜【Ｕ】 |
 | 112 | Gravios U Cap | 鎧龍兜帽【Ｕ】 |
-| 113 | Shinobi Mask・Sky | 忍帽子・天 |
+| 113 | Shinobi Mask・Sky | 忍天帽子・天 |
 | 114 | Shinobi Mask・Sea | 忍帽子・海 |
 | 115 | Guardian U Helm | 守護者頭兜【Ｕ】 |
 | 116 | Guardian U Mask | 守護者帽子【Ｕ】 |
 | 117 | Helper U Hood | 助手兜帽【Ｕ】 |
 | 118 | Healer U Beret | 治癒貝雷帽【Ｕ】 |
-| 119 | Emperor Auroros Helm | 艾姆艾爾頭兜 |
+| 119 | Emperor Auroros Helm | 皇帝極光頭兜 |
 | 120 | Emperor Genesis Helm | 帝王創世頭兜 |
 | 121 | Emprr Borealis Crown | 艾姆歐爾冠 |
-| 122 | Emperor Glyph Crown | 艾姆艾爾冠 |
+| 122 | Emperor Glyph Crown | 皇帝紋冠 |
 | 123 | Fatalis Head | 黑龍頭兜 |
 | 124 | Fatalis Face | 黑龍面罩 |
 | 125 | Golden Moon Helm | 金月頭兜 |
@@ -234,7 +234,7 @@
 | 227 | Black Belt S Helm | 黑帶頭兜【Ｓ】 |
 | 228 | Gia Mask | 格伊帽子 |
 | 229 | Remobra Mask | 翼蛇龍帽子 |
-| 230 | Guild Knight Feather | 獵團頭兜 |
+| 230 | Guild Knight Feather | 獵團騎士頭兜 |
 | 231 | Guild Knight Mask | 公會騎士帽子 |
 | 232 | Maid Headband | 女僕頭兜 |
 | 233 | Private Glasses | 士兵眼鏡 |
@@ -335,7 +335,7 @@
 | 328 | Ace Steadfast Helm | 阿克艾斯頭兜 |
 | 329 | Ace Guardian Mask | 王牌守護者帽子 |
 | 330 | Ace Carnage Mask | 阿克艾斯帽子 |
-| 331 | Empress F Sector | 艾姆艾斯頭兜【Ｆ】 |
+| 331 | Empress F Sector | 女帝頭兜【Ｆ】 |
 | 332 | Empress F Mask | 女帝帽子【Ｆ】 |
 | 333 | Ace Golden Hair Tie | 王牌金髮結 |
 | 334 | Ace Puppetmstr Mask | 阿克艾斯帽子 |
@@ -351,7 +351,7 @@
 | 344 | Ace Steadfast Helm | 阿克艾斯頭兜 |
 | 345 | Ace Guardian Mask | 王牌守護者帽子 |
 | 346 | Ace Carnage Mask | 阿克艾斯帽子 |
-| 347 | Empress F Sector | 艾姆艾斯頭兜【Ｆ】 |
+| 347 | Empress F Sector | 女帝頭兜【Ｆ】 |
 | 348 | Empress F Mask | 女帝帽子【Ｆ】 |
 | 349 | Ace Golden Hair Tie | 王牌金髮結 |
 | 350 | Ace Puppetmstr Mask | 阿克艾斯帽子 |
@@ -435,9 +435,9 @@
 | 428 | Blango Helm SP Yellow | 雪獅子頭兜【ＳＰ】・黄 |
 | 429 | Blango Helm SP Blue | 雪獅子頭兜【ＳＰ】・青 |
 | 430 | Blango Helm SP Black | 雪獅子頭兜【ＳＰ】・黑 |
-| 431 | Golden Tie SP White | 格歐爾艾頭兜【ＳＰ】・白 |
-| 432 | Golden Tie SP Purple | 格歐爾艾頭兜【ＳＰ】・紫 |
-| 433 | Golden Tie SP Green | 格歐爾艾頭兜【ＳＰ】・緑 |
+| 431 | Golden Tie SP White | 金緞頭兜【ＳＰ】・白 |
+| 432 | Golden Tie SP Purple | 金緞頭兜【ＳＰ】・紫 |
+| 433 | Golden Tie SP Green | 金緞頭兜【ＳＰ】・緑 |
 | 434 | Gravios Cap SP Green | 鎧龍兜帽【ＳＰ】・緑 |
 | 435 | Gravios Cap SP Purple | 鎧龍兜帽【ＳＰ】・紫 |
 | 436 | Gravios Cap SP Red | 鎧龍兜帽【ＳＰ】・赤 |
@@ -471,7 +471,7 @@
 | 464 | Eques F Helm | 騎士頭兜【Ｆ】 |
 | 465 | Eques F Cap | 騎士兜帽【Ｆ】 |
 | 466 | Hot Red Star Mask | 熱赤星帽子 |
-| 467 | Hot Blue Star Mask | 熱帽子 |
+| 467 | Hot Blue Star Mask | 熱星帽子・青 |
 | 468 | Hot Black Star Mask | 熱黑星帽子 |
 | 469 | Hot White Star Mask | 熱白星帽子 |
 | 470 | Hot Red Stellar Mask | 熱赤星帽子 |
@@ -479,7 +479,7 @@
 | 472 | Hot Blk Stellar Mask | 赫歐特艾帽子 |
 | 473 | Hot Wht Stellar Mask | 赫歐特艾帽子 |
 | 474 | Cool Red Star Mask | 涼赤星帽子 |
-| 475 | Cool Blue Star Mask | 涼帽子 |
+| 475 | Cool Blue Star Mask | 涼星帽子・青 |
 | 476 | Cool Black Star Mask | 涼黑星帽子 |
 | 477 | Cool White Star Mask | 涼白星帽子 |
 | 478 | Cool Rd Stellar Mask | 克歐爾艾帽子 |
@@ -487,13 +487,13 @@
 | 480 | Cool Bk Stellar Mask | 克歐爾艾帽子 |
 | 481 | Cool Wt Stellar Mask | 克歐爾艾帽子 |
 | 482 | Sky Red Star Mask | 天赤星帽子 |
-| 483 | Sky Blue Star Mask | 天空帽子 |
+| 483 | Sky Blue Star Mask | 天星帽子・青 |
 | 484 | Sky Black Star Mask | 天黑星帽子 |
 | 485 | Sky White Star Mask | 天白星帽子 |
 | 486 | Sky Red Stellar Mask | 天赤星帽子 |
 | 487 | Sky Blu Stellar Mask | 天藍星帽子 |
 | 488 | Sky Blk Stellar Mask | 天黑星帽子 |
-| 489 | Sky Wht Stellar Mask | 斯艾爾阿帽子 |
+| 489 | Sky Wht Stellar Mask | 天白星帽子 |
 | 490 | Hi-Metal Helm SP Blk | 赫伊斯艾頭兜【ＳＰ】 |
 | 491 | Hi-Metal Helm SP Blu | 赫伊斯艾頭兜【ＳＰ】 |
 | 492 | Hi-Metal Helm SP Ylw | 赫伊斯艾頭兜【ＳＰ】 |
@@ -503,5 +503,5 @@
 | 496 | Garuga Cap SP White | 黑狼鳥兜帽【ＳＰ】・白 |
 | 497 | Garuga Cap SP Green | 黑狼鳥兜帽【ＳＰ】・緑 |
 | 498 | Garuga Cap SP Red | 黑狼鳥兜帽【ＳＰ】・赤 |
-| 499 | Rookie Helm【White】 | 爾歐克伊頭兜・白 |
+| 499 | Rookie Helm【White】 | 新手頭兜・白 |
 

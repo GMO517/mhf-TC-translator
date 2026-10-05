@@ -6,13 +6,13 @@
 |---|---|---|
 | 10501 | Byakko・斬将GX Helm | 白虎頭兜【ＧＸ】 |
 | 10502 | Suzaku・斬将G Helm | 朱雀頭兜【Ｇ】 |
-| 10503 | Suzaku・斬将GF Helm | 斬将頭兜【Ｆ】 |
+| 10503 | Suzaku・斬将GF Helm | 朱雀斬将頭兜【Ｆ】 |
 | 10504 | Suzaku・斬将GX Helm | 朱雀頭兜【ＧＸ】 |
 | 10505 | Genbu・斬将G Helm | 玄武頭兜【Ｇ】 |
-| 10506 | Genbu・斬将GF Helm | 斬将頭兜【Ｆ】 |
+| 10506 | Genbu・斬将GF Helm | 玄武斬将頭兜【Ｆ】 |
 | 10507 | Genbu・斬将GX Helm | 玄武頭兜【ＧＸ】 |
 | 10508 | Seiryu・斬将G Helm | 青龍頭兜【Ｇ】 |
-| 10509 | Seiryu・斬将GF Helm | 斬将頭兜【Ｆ】 |
+| 10509 | Seiryu・斬将GF Helm | 青龍斬将頭兜【Ｆ】 |
 | 10510 | Seiryu・斬将GX Helm | 青龍頭兜【ＧＸ】 |
 | 10511 | White 蘭・斬将 Helm | 蘭斬将頭兜・白 |
 | 10512 | White 蘭・斬将F Helm | 蘭斬将頭兜【Ｆ】・白 |
@@ -29,9 +29,9 @@
 | 10523 | Crimson 霞・斬将G Helm | 霞斬将頭兜【Ｇ】・紅 |
 | 10524 | Crimson 霞・斬将GF Helm | 霞斬将頭兜【Ｆ】・紅 |
 | 10525 | Crimson 霞・斬将GX Helm | 霞斬将頭兜【ＧＸ】・紅 |
-| 10526 | Green 穹・斬将G Helm | 穹斬将頭兜・緑 |
+| 10526 | Green 穹・斬将G Helm | 穹斬将頭兜【Ｇ】・緑 |
 | 10527 | Green 穹・斬将GF Helm | 穹斬将頭兜【Ｆ】・緑 |
-| 10528 | Green 穹・斬将GX Helm | 穹斬将頭兜・緑 |
+| 10528 | Green 穹・斬将GX Helm | 穹斬将頭兜【ＧＸ】・緑 |
 | 10529 | Guan Head | 關頭兜 |
 | 10530 | Guan F Head | 關頭兜【Ｆ】 |
 | 10531 | Guan FX Head | 關頭兜【ＦＸ】 |

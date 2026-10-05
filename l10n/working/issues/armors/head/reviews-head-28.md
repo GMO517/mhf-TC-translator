@@ -130,7 +130,7 @@
 | 13624 | ダミー | (dummy) |
 | 13625 | ダミー | (dummy) |
 | 13626 | ダミー | (dummy) |
-| 13627 | Brave ZX Head | 布阿芙艾頭兜【ＺＸ】 |
+| 13627 | Brave ZX Head | 勇者頭兜【ＺＸ】 |
 | 13628 | Bogabado Z Helm | 布歐格阿頭兜【Ｚ】 |
 | 13629 | Bogabado ZF Helm | 布歐格阿頭兜【ＺＦ】 |
 | 13630 | Bogabado ZY Helm | 布歐格阿頭兜【ＺＹ】 |
@@ -170,16 +170,16 @@
 | 13664 | Hematite F Helm | 赫艾姆阿頭兜【Ｆ】 |
 | 13665 | Hematite FX Helm | 赫艾姆阿頭兜【ＦＸ】 |
 | 13666 | Byakko・磁星G Helm | 白虎頭兜【Ｇ】 |
-| 13667 | Byakko・磁星GF Helm | 磁星頭兜【Ｆ】 |
+| 13667 | Byakko・磁星GF Helm | 白虎磁星頭兜【Ｆ】 |
 | 13668 | Byakko・磁星GX Helm | 白虎頭兜【ＧＸ】 |
 | 13669 | Suzaku・磁星G Helm | 朱雀頭兜【Ｇ】 |
-| 13670 | Suzaku・磁星GF Helm | 磁星頭兜【Ｆ】 |
+| 13670 | Suzaku・磁星GF Helm | 朱雀磁星頭兜【Ｆ】 |
 | 13671 | Suzaku・磁星GX Helm | 朱雀頭兜【ＧＸ】 |
 | 13672 | Genbu・磁星G Helm | 玄武頭兜【Ｇ】 |
-| 13673 | Genbu・磁星GF Helm | 磁星頭兜【Ｆ】 |
+| 13673 | Genbu・磁星GF Helm | 玄武磁星頭兜【Ｆ】 |
 | 13674 | Genbu・磁星GX Helm | 玄武頭兜【ＧＸ】 |
 | 13675 | Seiryu・磁星G Helm | 青龍頭兜【Ｇ】 |
-| 13676 | Seiryu・磁星GF Helm | 磁星頭兜【Ｆ】 |
+| 13676 | Seiryu・磁星GF Helm | 青龍磁星頭兜【Ｆ】 |
 | 13677 | Seiryu・磁星GX Helm | 青龍頭兜【ＧＸ】 |
 | 13678 | White 蘭・磁星 Helm | 蘭磁星頭兜・白 |
 | 13679 | White 蘭・磁星F Helm | 蘭磁星頭兜【Ｆ】・白 |
@@ -196,9 +196,9 @@
 | 13690 | 月夜・磁星G Helm | 月夜磁星頭兜【Ｇ】 |
 | 13691 | 月夜・磁星GF Helm | 月夜磁星頭兜【Ｆ】 |
 | 13692 | 月夜・磁星GX Helm | 月夜磁星頭兜【ＧＸ】 |
-| 13693 | Green 穹・磁星G Helm | 穹磁星頭兜・緑 |
+| 13693 | Green 穹・磁星G Helm | 穹磁星頭兜【Ｇ】・緑 |
 | 13694 | Green 穹・磁星GF Helm | 穹磁星頭兜【Ｆ】・緑 |
-| 13695 | Green 穹・磁星GX Helm | 穹磁星頭兜・緑 |
+| 13695 | Green 穹・磁星GX Helm | 穹磁星頭兜【ＧＸ】・緑 |
 | 13696 | Masaha Dress [Hairpiece] Red | 真砂禮服髮飾・赤 |
 | 13697 | Masaha Dress F [Hairpiece] Red | 真砂禮服髮飾【Ｆ】・赤 |
 | 13698 | Masaha Dress FZ [Hairpiece] Red | 真砂禮服髮飾【ＦＺ】・赤 |
@@ -270,24 +270,24 @@
 | 13764 | Masaha Dress D [Hairpiece] Silver | 姆阿斯阿髮飾・銀 |
 | 13765 | Masaha Dress D [Hairpiece] Blue | 姆阿斯阿髮飾・青 |
 | 13766 | Masaha Dress D [Hairpiece] Orange | 姆阿斯阿髮飾・橙 |
-| 13767 | Genbu・Kensei D Helm | 格艾恩烏頭兜 |
-| 13768 | Genbu・双龍D Helm | 双龍頭兜 |
-| 13769 | Genbu・剣王D Helm | 剣王頭兜 |
-| 13770 | Genbu・刀神D Helm | 刀神頭兜 |
-| 13771 | Genbu・Heaven 槍D Helm | 槍天頭兜 |
-| 13772 | Genbu・砲皇D Helm | 砲皇頭兜 |
-| 13773 | Genbu・鈍器獣D Helm | 鈍器獣頭兜 |
-| 13774 | Genbu・奏帝D Helm | 奏帝頭兜 |
-| 13775 | Genbu・穿凰D Helm | 穿凰頭兜 |
-| 13776 | Genbu・斬将D Helm | 斬将頭兜 |
-| 13777 | Genbu・銃傑D Mask | 銃傑帽子 |
-| 13778 | Genbu・銃仙D Mask | 銃仙帽子 |
+| 13767 | Genbu・Kensei D Helm | 玄武格艾恩烏頭兜 |
+| 13768 | Genbu・双龍D Helm | 玄武双龍頭兜 |
+| 13769 | Genbu・剣王D Helm | 玄武剣王頭兜 |
+| 13770 | Genbu・刀神D Helm | 玄武刀神頭兜 |
+| 13771 | Genbu・Heaven 槍D Helm | 玄武槍天頭兜 |
+| 13772 | Genbu・砲皇D Helm | 玄武砲皇頭兜 |
+| 13773 | Genbu・鈍器獣D Helm | 玄武鈍器獣頭兜 |
+| 13774 | Genbu・奏帝D Helm | 玄武奏帝頭兜 |
+| 13775 | Genbu・穿凰D Helm | 玄武穿凰頭兜 |
+| 13776 | Genbu・斬将D Helm | 玄武斬将頭兜 |
+| 13777 | Genbu・銃傑D Mask | 玄武銃傑帽子 |
+| 13778 | Genbu・銃仙D Mask | 玄武銃仙帽子 |
 | 13779 | Genbu・Bow 鬼D Mask | 玄武帽子 |
 | 13780 | Tanzanite D Helm | 特阿恩阿頭兜 |
 | 13781 | Hematite D Helm | 赫艾姆阿頭兜 |
-| 13782 | Byakko・磁星D Helm | 磁星頭兜 |
-| 13783 | Suzaku・磁星D Helm | 磁星頭兜 |
-| 13784 | Genbu・磁星D Helm | 磁星頭兜 |
+| 13782 | Byakko・磁星D Helm | 白虎磁星頭兜 |
+| 13783 | Suzaku・磁星D Helm | 朱雀磁星頭兜 |
+| 13784 | Genbu・磁星D Helm | 玄武磁星頭兜 |
 | 13785 | Tigrex Helm PD Black | 轟龍頭兜【ＰＤ】・黑 |
 | 13786 | Tigrex Helm PD White | 轟龍頭兜【ＰＤ】・白 |
 | 13787 | Tigrex Helm PD Purple | 轟龍頭兜【ＰＤ】・紫 |
@@ -427,9 +427,9 @@
 | 13921 | Arma D Piercing・Blue | 阿爾阿斯耳飾・青 |
 | 13922 | Arma D Head・Tea | 阿爾阿斯頭兜・茶 |
 | 13923 | Arma D Piercing・Tea | 阿爾阿斯耳飾・茶 |
-| 13924 | Honour D Helm・Red | 赫歐恩歐頭兜・赤 |
-| 13925 | Honour D Helm・Blue | 赫歐恩歐頭兜・青 |
-| 13926 | Honour D Helm・Green | 赫歐恩歐頭兜・緑 |
+| 13924 | Honour D Helm・Red | 榮譽頭兜・赤 |
+| 13925 | Honour D Helm・Blue | 榮譽頭兜・青 |
+| 13926 | Honour D Helm・Green | 榮譽頭兜・緑 |
 | 13927 | Honour D Helm・紺 | 紺頭兜 |
 | 13928 | Pics D Head・Green | 皮克斯頭兜・緑 |
 | 13929 | Pics D Head・Purple | 皮克斯頭兜・紫 |

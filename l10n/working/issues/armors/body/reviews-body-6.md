@@ -50,8 +50,8 @@
 | 2544 | Pandeum FZ Vest | 普阿恩艾背心【ＦＺ】 |
 | 2545 | Dian FZ Suit | 德伊恩套裝【ＦＺ】 |
 | 2546 | Dian FZ Vest | 德伊恩背心【ＦＺ】 |
-| 2547 | Wild FZ Suit | 沃伊爾套裝【ＦＺ】 |
-| 2548 | Wild FZ Vest | 沃伊爾背心【ＦＺ】 |
+| 2547 | Wild FZ Suit | 狂野套裝【ＦＺ】 |
+| 2548 | Wild FZ Vest | 狂野背心【ＦＺ】 |
 | 2549 | Flower FZ Suit | 芙歐沃艾套裝【ＦＺ】 |
 | 2550 | Flower FZ Vest | 芙歐沃艾背心【ＦＺ】 |
 | 2551 | Fias FZ Suit | 芙伊斯套裝【ＦＺ】 |

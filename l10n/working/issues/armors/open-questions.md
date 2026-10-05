@@ -9,7 +9,7 @@
 |---|---|---|---|
 | Q-01 | 字庫無「卡」 | 專名改可／伽等可顯示字 | 是否補字庫「卡」 |
 | Q-02 | Gate4 TODO 條目含任務／劇情 | 本輪先清防具五部位至可回寫 | 是否立刻開任務說明 |
-| Q-03 | QA `truncate` 對合法短系列名（輝／翼／灰／蝶兜／龍皮）亦標 | 2026-10-05 triage：121 筆多為誤報；真截斷已修 | 是否放寬腳本閾值 |
+| Q-03 | QA `truncate` 對合法短系列名（輝／翼／灰／蝶兜／龍皮）亦標 | **已解**：`looks_truncated` 部位尾白名單；QA **0** | — |
 | Q-04 | 高頻 ZP 專名短音譯（Charis／Miriam…） | 已依片假名對照短音譯入典 | 人審抽樣是否改義譯 |
 | Q-05 | `風`（Wind）與鋼龍裝混用 | 字典有 wind＝風、kushala＝鋼龍；複合「Kushala バダル」未整段命中則保留舊譯 | 複合日英混名規則 |
 
@@ -18,7 +18,7 @@
 - [x] Gate0 round-trip（既有 PASS，見 TODO）
 - [x] Gate0.5 charset／fallback
 - [x] `_backup/20261004-armor/mhfdat.bin` 存在
-- [~] blocking／high：2026-10-05 QA 後 truncate 121／need_semantic 196／long_phon 1（見 `qa-armors.md`；未清零）
+- [x] blocking／high：2026-10-05 收尾 QA **0**（見 `qa-armors.md`）
 - [x] 詞庫優先：`terms_lookup`→series-dict→套用
 
 ## 追加疑問

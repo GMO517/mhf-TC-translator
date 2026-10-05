@@ -29,8 +29,8 @@
 | 11523 | Ruche D Arms | 爾烏奇艾護腕 |
 | 11524 | Strength D Hands | 斯艾恩手甲 |
 | 11525 | Rage D Arms | 憤怒護腕 |
-| 11526 | Rampage D Arms | 爾阿姆阿護腕 |
-| 11527 | Blaze D Arms | 布阿茲艾護腕 |
+| 11526 | Rampage D Arms | 狂暴護腕 |
+| 11527 | Blaze D Arms | 烈焔護腕 |
 | 11528 | Poogie D Punch | 普歐格伊拳套 |
 | 11529 | Mandora D Arms | 姆阿恩歐護腕 |
 | 11530 | Aonoko D Arms | 阿恩歐克護腕 |
@@ -39,14 +39,14 @@
 | 11533 | Gilbert D Arms | 格伊爾艾護腕 |
 | 11534 | Zuibei D Grip | 茲烏布艾握套 |
 | 11535 | Chiarim D Arms | 奇伊爾伊護腕 |
-| 11536 | Guild Bard C Arms | 獵團護腕 |
-| 11537 | Scholar C Claws | 施歐爾阿爪 |
+| 11536 | Guild Bard C Arms | 公會吟遊護腕 |
+| 11537 | Scholar C Claws | 學者爪 |
 | 11538 | Aelucanth C Brachia | 阿爾烏克臂甲 |
 | 11539 | Rhopessa C Brachia | 爾歐普艾臂甲 |
 | 11540 | Yukumo ノコテC・Heaven | 結雲天護腕 |
 | 11541 | White 蘭D Arms | 蘭護腕・白 |
 | 11542 | Crimson 霞D Arms | 霞護腕・紅 |
-| 11543 | Demonclad Kote D | 德艾姆歐籠手 |
+| 11543 | Demonclad Kote D | 鬼纏籠手 |
 | 11544 | Tangusu D Arms | 特阿恩烏護腕 |
 | 11545 | Disu D Arms | 德伊斯烏護腕 |
 | 11546 | Disu D Guard | 德伊斯烏臂甲 |
@@ -102,15 +102,15 @@
 | 11596 | Healer Cuffs PD Yellow | 治癒護腕【ＰＤ】・黄 |
 | 11597 | Shourou 【上手】D | 夏歐爾歐上手 |
 | 11598 | Mitama 【上手】D | 姆伊特阿上手 |
-| 11599 | Burning Cliff D [Kote 】 | 布烏爾伊籠手 |
+| 11599 | Burning Cliff D [Kote 】 | 燃崖籠手 |
 | 11600 | Crimson Cliff D [Kote 】 | 深紅崖籠手 |
 | 11601 | Ledia D Arms | 爾艾德伊護腕 |
 | 11602 | White Snake Sleeve D | 白蛇袖 |
 | 11603 | Black Tiger Sleeve D | 黑虎袖 |
-| 11604 | Crushing Fog D [Sleeve 】 | 克烏夏伊袖 |
-| 11605 | Valued Word Sleeve D | 芙阿爾烏袖 |
+| 11604 | Crushing Fog D [Sleeve 】 | 碎霧袖 |
+| 11605 | Valued Word Sleeve D | 珍言袖 |
 | 11606 | Blue Sky Sleeve D | 蒼天袖 |
-| 11607 | Noon Glow Sleeve D | 恩歐恩歐袖 |
+| 11607 | Noon Glow Sleeve D | 午暉袖 |
 | 11608 | Kosho D [Sleeve 】 | 克歐夏歐袖 |
 | 11609 | True Shadow Sleeve D | 真影袖 |
 | 11610 | Furogada D Arms | 芙烏爾歐護腕 |
@@ -313,7 +313,7 @@
 | 11807 | Riot D Arms | 爾伊特護腕 |
 | 11808 | Rutare D Arms | 爾烏特阿護腕 |
 | 11809 | Rolling Flow Kote・D | 爾歐爾伊籠手 |
-| 11810 | Rolling Sky Kote・D | 爾歐爾伊籠手 |
+| 11810 | Rolling Sky Kote・D | 滾天籠手 |
 | 11811 | Cubie D Arms | 克烏布伊護腕 |
 | 11812 | Kemor D Arms | 克艾姆歐護腕 |
 | 11813 | Latria D Arms | 爾阿特伊護腕 |
@@ -448,20 +448,20 @@
 | 11942 | Dragon Slayer Armor GS・Gauntlets | 屠龍手甲【ＧＳ】 |
 | 11943 | Dragon Slayer Armor GP・Gauntlets | 屠龍手甲【ＧＰ】 |
 | 11944 | Dragon Slayer Armor ZP・Gauntlets | 屠龍手甲【ＺＰ】 |
-| 11945 | Rebellion Armour・Kote | 爾艾布艾籠手 |
-| 11946 | Rebellion Armour F・Kote | 爾艾布艾籠手【Ｆ】 |
-| 11947 | Rebellion Armour FZ・Kote | 爾艾布艾籠手【ＦＺ】 |
-| 11948 | Rebellion Armour HS・Kote | 爾艾布艾籠手【ＨＳ】 |
-| 11949 | Rebellion Armour GS・Kote | 爾艾布艾籠手【ＧＳ】 |
-| 11950 | Rebellion Armour GP・Kote | 爾艾布艾籠手【ＧＰ】 |
-| 11951 | Rebellion Armour ZP・Kote | 爾艾布艾籠手【ＺＰ】 |
-| 11952 | Rebellion Armour・Gauntlets | 爾艾布艾手甲 |
-| 11953 | Rebellion Armour F・Gauntlets | 爾艾布艾手甲【Ｆ】 |
-| 11954 | Rebellion Armour FZ・Gauntlets | 爾艾布艾手甲【ＦＺ】 |
-| 11955 | Rebellion Armour HS・Gauntlets | 爾艾布艾手甲【ＨＳ】 |
-| 11956 | Rebellion Armour GS・Gauntlets | 爾艾布艾手甲【ＧＳ】 |
-| 11957 | Rebellion Armour GP・Gauntlets | 爾艾布艾手甲【ＧＰ】 |
-| 11958 | Rebellion Armour ZP・Gauntlets | 爾艾布艾手甲【ＺＰ】 |
+| 11945 | Rebellion Armour・Kote | 叛逆鎧籠手 |
+| 11946 | Rebellion Armour F・Kote | 叛逆鎧籠手【Ｆ】 |
+| 11947 | Rebellion Armour FZ・Kote | 叛逆鎧籠手【ＦＺ】 |
+| 11948 | Rebellion Armour HS・Kote | 叛逆鎧籠手【ＨＳ】 |
+| 11949 | Rebellion Armour GS・Kote | 叛逆鎧籠手【ＧＳ】 |
+| 11950 | Rebellion Armour GP・Kote | 叛逆鎧籠手【ＧＰ】 |
+| 11951 | Rebellion Armour ZP・Kote | 叛逆鎧籠手【ＺＰ】 |
+| 11952 | Rebellion Armour・Gauntlets | 叛逆鎧手甲 |
+| 11953 | Rebellion Armour F・Gauntlets | 叛逆鎧手甲【Ｆ】 |
+| 11954 | Rebellion Armour FZ・Gauntlets | 叛逆鎧手甲【ＦＺ】 |
+| 11955 | Rebellion Armour HS・Gauntlets | 叛逆鎧手甲【ＨＳ】 |
+| 11956 | Rebellion Armour GS・Gauntlets | 叛逆鎧手甲【ＧＳ】 |
+| 11957 | Rebellion Armour GP・Gauntlets | 叛逆鎧手甲【ＧＰ】 |
+| 11958 | Rebellion Armour ZP・Gauntlets | 叛逆鎧手甲【ＺＰ】 |
 | 11959 | Dinato ZP Arms | 迪納托護腕【ＺＰ】 |
 | 11960 | Dinato ZP Guard | 迪納托臂甲【ＺＰ】 |
 | 11961 | Duque ZP Arms | 公爵護腕【ＺＰ】 |
@@ -482,10 +482,10 @@
 | 11976 | Renka Kote C | 爾艾恩阿籠手 |
 | 11977 | Survey Corps D Arms | 斯烏爾艾護腕 |
 | 11978 | Training Corps D Arms | 特阿恩伊護腕 |
-| 11979 | Twelve Paladins' Armor D・Kote | 特艾爾艾籠手 |
-| 11980 | Holy Maiden Armor D・Sleeve | 赫歐爾阿袖 |
+| 11979 | Twelve Paladins' Armor D・Kote | 十二聖騎鎧籠手 |
+| 11980 | Holy Maiden Armor D・Sleeve | 聖女鎧袖 |
 | 11981 | Dragon Slayer Armor D・Kote | 屠龍籠手 |
-| 11982 | Rebellion Armour D・Kote | 爾艾布艾籠手 |
+| 11982 | Rebellion Armour D・Kote | 叛逆鎧籠手 |
 | 11983 | Dinato D Arms | 德伊恩阿護腕 |
 | 11984 | Duque D Arms | 德烏斯烏護腕 |
 | 11985 | Granu D Arms | 格阿恩烏護腕 |
@@ -499,7 +499,7 @@
 | 11993 | Pyrope D Arms | 普歐普艾護腕 |
 | 11994 | アイオラD Arms | 阿伊歐拉護腕 |
 | 11995 | Rutile D Arms | 爾烏特伊護腕 |
-| 11996 | Blood D Arms | 布歐德護腕 |
+| 11996 | Blood D Arms | 血護腕 |
 | 11997 | Citrine D Guard | 克伊特伊臂甲 |
 | 11998 | Peridot D Guard | 普艾爾伊臂甲 |
 | 11999 | Turquoise D Guard | 特烏爾烏臂甲 |

@@ -89,8 +89,8 @@
 | 1083 | Chaser F Vest | 追撃背心【Ｆ】 |
 | 1084 | Royal Mail | 王室鎧甲 |
 | 1085 | Royal F Mail | 王室鎧甲【Ｆ】 |
-| 1086 | Lord Vest | 爾歐爾背心 |
-| 1087 | Lord F Vest | 爾歐爾背心【Ｆ】 |
+| 1086 | Lord Vest | 領主背心 |
+| 1087 | Lord F Vest | 領主背心【Ｆ】 |
 | 1088 | Dicto Suit | 德伊克歐套裝 |
 | 1089 | Dicto F Suit | 德伊克歐套裝【Ｆ】 |
 | 1090 | Diletto Vest | 德伊爾艾背心 |

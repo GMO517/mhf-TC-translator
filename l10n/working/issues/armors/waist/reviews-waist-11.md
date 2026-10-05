@@ -503,5 +503,5 @@
 | 5497 | Knight King Waist GN GP White | 騎士王腰甲【ＧＰ】・白 |
 | 5498 | Green 竜ノ具足GP【腰 Obi 】 | 腰竜具足腰甲・緑 |
 | 5499 | Green 竜ノ Haori GP【腰 Obi 】 | 腰竜腰甲【ＧＰ】・緑 |
-| 5500 | Red 備ノ具足GP【腰 Obi 】 | 腰備具足腰甲・赤 |
+| 5500 | Red 備ノ具足GP【腰 Obi 】 | 備具足帶・赤 |
 

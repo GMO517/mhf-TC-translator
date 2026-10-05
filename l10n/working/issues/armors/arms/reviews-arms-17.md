@@ -175,7 +175,7 @@
 | 8169 | Mist GX【袖】 | 霧護腕【ＧＸ】 |
 | 8170 | Fog [Sleeve 】 | 霧袖 |
 | 8171 | Fog F [Sleeve 】 | 霧袖【Ｆ】 |
-| 8172 | Fog FY [Sleeve 】 | 芙歐格袖 |
+| 8172 | Fog FY [Sleeve 】 | 霧袖 |
 | 8173 | Fog HS [Sleeve 】 | 霧袖【ＨＳ】 |
 | 8174 | Fog G [Sleeve 】 | 霧袖【Ｇ】 |
 | 8175 | Fog GF [Sleeve 】 | 霧袖【ＧＦ】 |

@@ -193,7 +193,7 @@
 | 8187 | Mist GX【 Hakama 】 | 霧袴【ＧＸ】 |
 | 8188 | Fog 【 Hakama 】 | 霧袴 |
 | 8189 | Fog F【 Hakama 】 | 霧袴【Ｆ】 |
-| 8190 | Fog FY【 Hakama 】 | 芙歐格袴 |
+| 8190 | Fog FY【 Hakama 】 | 霧袴 |
 | 8191 | Fog HS【 Hakama 】 | 霧袴【ＨＳ】 |
 | 8192 | Fog G【 Hakama 】 | 霧袴【Ｇ】 |
 | 8193 | Fog GF【 Hakama 】 | 霧袴【ＧＦ】 |

@@ -319,11 +319,11 @@
 | 1813 | Charien FX Guard | 夏里安臂甲【ＦＸ】 |
 | 1814 | Bureshisu FX Arms | 布烏爾艾護腕【ＦＸ】 |
 | 1815 | Rathalos LX Arms | 雄火龍護腕 |
-| 1816 | Rath Soul RX Arms | 爾阿斯歐護腕 |
+| 1816 | Rath Soul RX Arms | 火龍魂護腕 |
 | 1817 | Khezu LX Arms | 奇怪龍護腕 |
 | 1818 | Khezu RX Arms | 奇怪龍護腕 |
-| 1819 | High Metal LX Arms | 赫伊格艾護腕 |
-| 1820 | High Metal RX Arms | 赫伊格艾護腕 |
+| 1819 | High Metal LX Arms | 上位金屬護腕 |
+| 1820 | High Metal RX Arms | 上位金屬護腕 |
 | 1821 | Hornetaur LX Guard | 巨甲蟲臂甲 |
 | 1822 | Hornetaur RX Guard | 巨甲蟲臂甲 |
 | 1823 | Beru ドラR Arms | 舞雷龍護腕【Ｒ】 |

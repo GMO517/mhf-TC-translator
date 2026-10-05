@@ -97,12 +97,12 @@
 | 6091 | Dian HS Boots | 德伊恩靴【ＨＳ】 |
 | 6092 | Dian GS Boots | 德伊恩靴【ＧＳ】 |
 | 6093 | Dian GP Boots | 德伊恩靴【ＧＰ】 |
-| 6094 | Wild HS Leg | 沃伊爾腿【ＨＳ】 |
-| 6095 | Wild GS Leg | 沃伊爾腿【ＧＳ】 |
-| 6096 | Wild GP Leg | 沃伊爾腿【ＧＰ】 |
-| 6097 | Wild HS Boots | 沃伊爾靴【ＨＳ】 |
-| 6098 | Wild GS Boots | 沃伊爾靴【ＧＳ】 |
-| 6099 | Wild GP Boots | 沃伊爾靴【ＧＰ】 |
+| 6094 | Wild HS Leg | 狂野腿【ＨＳ】 |
+| 6095 | Wild GS Leg | 狂野腿【ＧＳ】 |
+| 6096 | Wild GP Leg | 狂野腿【ＧＰ】 |
+| 6097 | Wild HS Boots | 狂野靴【ＨＳ】 |
+| 6098 | Wild GS Boots | 狂野靴【ＧＳ】 |
+| 6099 | Wild GP Boots | 狂野靴【ＧＰ】 |
 | 6100 | Flower HS Leg | 芙歐沃艾腿【ＨＳ】 |
 | 6101 | Flower GS Leg | 芙歐沃艾腿【ＧＳ】 |
 | 6102 | Flower GP Leg | 芙歐沃艾腿【ＧＰ】 |
@@ -300,20 +300,20 @@
 | 6294 | Hisui Greaves | 翡翠護腿 |
 | 6295 | Hisui F Greaves | 翡翠護腿【Ｆ】 |
 | 6296 | Hisui FX Greaves | 翡翠護腿【ＦＸ】 |
-| 6297 | Blood Greaves | 布歐德護腿 |
-| 6298 | Blood F Greaves | 布歐德護腿【Ｆ】 |
-| 6299 | Blood FX Greaves | 布歐德護腿【ＦＸ】 |
+| 6297 | Blood Greaves | 血護腿 |
+| 6298 | Blood F Greaves | 血護腿【Ｆ】 |
+| 6299 | Blood FX Greaves | 血護腿【ＦＸ】 |
 | 6300 | Byakko・穿凰G Feet | 白虎足【Ｇ】 |
-| 6301 | Byakko・穿凰GF Feet | 穿凰足【Ｆ】 |
+| 6301 | Byakko・穿凰GF Feet | 白虎穿凰足【Ｆ】 |
 | 6302 | Byakko・穿凰GX Feet | 白虎足【ＧＸ】 |
 | 6303 | Suzaku・穿凰G Feet | 朱雀足【Ｇ】 |
-| 6304 | Suzaku・穿凰GF Feet | 穿凰足【Ｆ】 |
+| 6304 | Suzaku・穿凰GF Feet | 朱雀穿凰足【Ｆ】 |
 | 6305 | Suzaku・穿凰GX Feet | 朱雀足【ＧＸ】 |
 | 6306 | Genbu・穿凰G Feet | 玄武足【Ｇ】 |
-| 6307 | Genbu・穿凰GF Feet | 穿凰足【Ｆ】 |
+| 6307 | Genbu・穿凰GF Feet | 玄武穿凰足【Ｆ】 |
 | 6308 | Genbu・穿凰GX Feet | 玄武足【ＧＸ】 |
 | 6309 | Seiryu・穿凰G Feet | 青龍足【Ｇ】 |
-| 6310 | Seiryu・穿凰GF Feet | 穿凰足【Ｆ】 |
+| 6310 | Seiryu・穿凰GF Feet | 青龍穿凰足【Ｆ】 |
 | 6311 | Seiryu・穿凰GX Feet | 青龍足【ＧＸ】 |
 | 6312 | Honour Feet・Red | 榮譽足・赤 |
 | 6313 | Honour F Feet・Red | 榮譽足【Ｆ】・赤 |

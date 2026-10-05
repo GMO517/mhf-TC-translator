@@ -136,12 +136,12 @@
 | 5630 | Diboa GF Arms | 迪博阿護腕【ＧＦ】 |
 | 5631 | Diboa GF Guard | 迪博阿臂甲【ＧＦ】 |
 | 5632 | 若 Crimson 葉【 Kote 】 | 若葉籠手・紅 |
-| 5633 | 若 Crimson 葉F【 Kote 】 | 若葉籠手・紅 |
+| 5633 | 若 Crimson 葉F【 Kote 】 | 若葉籠手【Ｆ】・紅 |
 | 5634 | 若 Crimson 葉FY【 Kote 】 | 若葉籠手・紅 |
-| 5635 | 若 Crimson 葉HS【 Kote 】 | 若葉籠手・紅 |
-| 5636 | 若 Crimson 葉G【 Kote 】 | 若葉籠手・紅 |
-| 5637 | 若 Crimson 葉GF【 Kote 】 | 若葉籠手・紅 |
-| 5638 | 若 Crimson 葉GX【 Kote 】 | 若葉籠手・紅 |
+| 5635 | 若 Crimson 葉HS【 Kote 】 | 若葉籠手【ＨＳ】・紅 |
+| 5636 | 若 Crimson 葉G【 Kote 】 | 若葉籠手【Ｇ】・紅 |
+| 5637 | 若 Crimson 葉GF【 Kote 】 | 若葉籠手【Ｆ】・紅 |
+| 5638 | 若 Crimson 葉GX【 Kote 】 | 若葉籠手【ＧＸ】・紅 |
 | 5639 | 翡戸隠【 Kote 】 | 翡戸隠籠手 |
 | 5640 | 翡戸隠F【 Kote 】 | 翡戸隠籠手【Ｆ】 |
 | 5641 | 翡戸隠FY【 Kote 】 | 翡戸隠籠手 |

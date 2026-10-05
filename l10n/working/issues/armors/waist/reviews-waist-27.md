@@ -58,9 +58,9 @@
 | 13052 | Arma D Coil・White | 阿爾阿斯腰甲・白 |
 | 13053 | Arma D Coil・Blue | 阿爾阿斯腰甲・青 |
 | 13054 | Arma D Coil・Tea | 阿爾阿斯腰甲・茶 |
-| 13055 | Honour D Coil・Red | 赫歐恩歐腰甲・赤 |
-| 13056 | Honour D Coil・Blue | 赫歐恩歐腰甲・青 |
-| 13057 | Honour D Coil・Green | 赫歐恩歐腰甲・緑 |
+| 13055 | Honour D Coil・Red | 榮譽腰甲・赤 |
+| 13056 | Honour D Coil・Blue | 榮譽腰甲・青 |
+| 13057 | Honour D Coil・Green | 榮譽腰甲・緑 |
 | 13058 | Honour D Coil・紺 | 紺腰甲 |
 | 13059 | Pics D Coil・Green | 皮克斯腰甲・緑 |
 | 13060 | Pics D Coil・Purple | 皮克斯腰甲・紫 |

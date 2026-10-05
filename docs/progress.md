@@ -71,48 +71,48 @@
 
 ## armors-head
 
-- status: qa_issues
-- notes: "2026-10-05 獨立 QA＋修譯：標記 1397→318（need 196／trunc 121／long 1）；validate PASS；issue→armors/qa-armors.md。Gate4 舊回寫仍在；本輪 CSV 未再 finish_batch。"
+- status: qa_done
+- notes: "2026-10-05 防具一次收尾：QA 0；validate PASS。未 finish_batch 本體。"
 
 ### files
 
 - path: l10n/working/csv/dat-armors-head.csv
-  status: qa_issues
-  notes: "QA 修訂已寫入 CSV；待使用者指示再回寫本體"
+  status: qa_done
+  notes: "14594 列；qa-transliteration 0 命中"
 
 ---
 
 ## armors-body
 
-- status: qa_issues
-- notes: "2026-10-05 同五部位 QA／修譯；見 qa-armors.md。"
+- status: qa_done
+- notes: "2026-10-05 同五部位收尾；見 qa-armors.md。"
 
 ### files
 
 - path: l10n/working/csv/dat-armors-body.csv
-  status: qa_issues
-  notes: "QA 修訂已寫入 CSV"
+  status: qa_done
+  notes: "13462 列；QA 0"
 
 ---
 
 ## armors-arms / armors-waist / armors-legs
 
-- status: qa_issues
-- notes: "2026-10-05 同五部位 QA／修譯；原始計數見 qa-armors.md／qa-transliteration。"
+- status: qa_done
+- notes: "2026-10-05 五部位機械 QA 清零。"
 
 ### files
 
 - path: l10n/working/csv/dat-armors-arms.csv
-  status: qa_issues
-  notes: "QA 修訂已寫入 CSV"
+  status: qa_done
+  notes: "13452 列；QA 0"
 
 - path: l10n/working/csv/dat-armors-waist.csv
-  status: qa_issues
-  notes: "QA 修訂已寫入 CSV；long_phon 殘 #681"
+  status: qa_done
+  notes: "13708 列；QA 0"
 
 - path: l10n/working/csv/dat-armors-legs.csv
-  status: qa_issues
-  notes: "QA 修訂已寫入 CSV；truncate 誤報多在本槽"
+  status: qa_done
+  notes: "13514 列；QA 0"
 
 ---
 

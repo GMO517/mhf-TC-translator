@@ -472,9 +472,9 @@
 | 6966 | Crimson 霞・双龍G Arms | 霞双龍護腕【Ｇ】・紅 |
 | 6967 | Crimson 霞・双龍GF Arms | 霞双龍護腕【Ｆ】・紅 |
 | 6968 | Crimson 霞・双龍GX Arms | 霞双龍護腕【ＧＸ】・紅 |
-| 6969 | Green 穹・双龍G Arms | 穹双龍護腕・緑 |
+| 6969 | Green 穹・双龍G Arms | 穹双龍護腕【Ｇ】・緑 |
 | 6970 | Green 穹・双龍GF Arms | 穹双龍護腕【Ｆ】・緑 |
-| 6971 | Green 穹・双龍GX Arms | 穹双龍護腕・緑 |
+| 6971 | Green 穹・双龍GX Arms | 穹双龍護腕【ＧＸ】・緑 |
 | 6972 | White 蘭・剣王 Arms | 蘭剣王護腕・白 |
 | 6973 | White 蘭・剣王F Arms | 蘭剣王護腕【Ｆ】・白 |
 | 6974 | White 蘭・剣王FX Arms | 蘭剣王護腕【ＦＸ】・白 |
@@ -490,9 +490,9 @@
 | 6984 | Crimson 霞・剣王G Arms | 霞剣王護腕【Ｇ】・紅 |
 | 6985 | Crimson 霞・剣王GF Arms | 霞剣王護腕【Ｆ】・紅 |
 | 6986 | Crimson 霞・剣王GX Arms | 霞剣王護腕【ＧＸ】・紅 |
-| 6987 | Green 穹・剣王G Arms | 穹剣王護腕・緑 |
+| 6987 | Green 穹・剣王G Arms | 穹剣王護腕【Ｇ】・緑 |
 | 6988 | Green 穹・剣王GF Arms | 穹剣王護腕【Ｆ】・緑 |
-| 6989 | Green 穹・剣王GX Arms | 穹剣王護腕・緑 |
+| 6989 | Green 穹・剣王GX Arms | 穹剣王護腕【ＧＸ】・緑 |
 | 6990 | White 蘭・刀神 Arms | 蘭刀神護腕・白 |
 | 6991 | White 蘭・刀神F Arms | 蘭刀神護腕【Ｆ】・白 |
 | 6992 | White 蘭・刀神FX Arms | 蘭刀神護腕【ＦＸ】・白 |

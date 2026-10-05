@@ -145,16 +145,16 @@
 | 9639 | Rutile F Mail | 爾烏特伊鎧甲【Ｆ】 |
 | 9640 | Rutile FX Mail | 爾烏特伊鎧甲【ＦＸ】 |
 | 9641 | Byakko・斬将G Mail | 白虎鎧甲【Ｇ】 |
-| 9642 | Byakko・斬将GF Mail | 斬将鎧甲【Ｆ】 |
+| 9642 | Byakko・斬将GF Mail | 白虎斬将鎧甲【Ｆ】 |
 | 9643 | Byakko・斬将GX Mail | 白虎鎧甲【ＧＸ】 |
 | 9644 | Suzaku・斬将G Mail | 朱雀鎧甲【Ｇ】 |
-| 9645 | Suzaku・斬将GF Mail | 斬将鎧甲【Ｆ】 |
+| 9645 | Suzaku・斬将GF Mail | 朱雀斬将鎧甲【Ｆ】 |
 | 9646 | Suzaku・斬将GX Mail | 朱雀鎧甲【ＧＸ】 |
 | 9647 | Genbu・斬将G Mail | 玄武鎧甲【Ｇ】 |
-| 9648 | Genbu・斬将GF Mail | 斬将鎧甲【Ｆ】 |
+| 9648 | Genbu・斬将GF Mail | 玄武斬将鎧甲【Ｆ】 |
 | 9649 | Genbu・斬将GX Mail | 玄武鎧甲【ＧＸ】 |
 | 9650 | Seiryu・斬将G Mail | 青龍鎧甲【Ｇ】 |
-| 9651 | Seiryu・斬将GF Mail | 斬将鎧甲【Ｆ】 |
+| 9651 | Seiryu・斬将GF Mail | 青龍斬将鎧甲【Ｆ】 |
 | 9652 | Seiryu・斬将GX Mail | 青龍鎧甲【ＧＸ】 |
 | 9653 | White 蘭・斬将 Mail | 蘭斬将鎧甲・白 |
 | 9654 | White 蘭・斬将F Mail | 蘭斬将鎧甲【Ｆ】・白 |
@@ -171,9 +171,9 @@
 | 9665 | Crimson 霞・斬将G Mail | 霞斬将鎧甲【Ｇ】・紅 |
 | 9666 | Crimson 霞・斬将GF Mail | 霞斬将鎧甲【Ｆ】・紅 |
 | 9667 | Crimson 霞・斬将GX Mail | 霞斬将鎧甲【ＧＸ】・紅 |
-| 9668 | Green 穹・斬将G Mail | 穹斬将鎧甲・緑 |
+| 9668 | Green 穹・斬将G Mail | 穹斬将鎧甲【Ｇ】・緑 |
 | 9669 | Green 穹・斬将GF Mail | 穹斬将鎧甲【Ｆ】・緑 |
-| 9670 | Green 穹・斬将GX Mail | 穹斬将鎧甲・緑 |
+| 9670 | Green 穹・斬将GX Mail | 穹斬将鎧甲【ＧＸ】・緑 |
 | 9671 | Guan Mail | 關鎧甲 |
 | 9672 | Guan F Mail | 關鎧甲【Ｆ】 |
 | 9673 | Guan FX Mail | 關鎧甲【ＦＸ】 |

@@ -421,8 +421,8 @@
 | 5415 | Knight King Legs GN GP White | 騎士王腿甲【ＧＰ】・白 |
 | 5416 | Green 竜ノ具足GP【脛当】 | 脛当竜具足護腿・緑 |
 | 5417 | Green 竜ノ Haori GP【脛当】 | 脛当竜護腿【ＧＰ】・緑 |
-| 5418 | Red 備ノ具足GP【脛当】 | 脛当備具足護腿・赤 |
-| 5419 | Red 備ノ Haori GP【脛当】 | 脛当備護腿【ＧＰ】・赤 |
+| 5418 | Red 備ノ具足GP【脛当】 | 備具足護腿・赤 |
+| 5419 | Red 備ノ Haori GP【脛当】 | 備羽織護腿【ＧＰ】・赤 |
 | 5420 | Real GP Feet・White | 真足【ＧＰ】・白 |
 | 5421 | Real GP Feet・Gold | 真足【ＧＰ】・金 |
 | 5422 | Real GP Feet・Blue | 真足【ＧＰ】・青 |

@@ -33,9 +33,9 @@
 | 8527 | Kuaru G Cap | 晶龍兜帽【Ｇ】 |
 | 8528 | Kuaru GF Cap | 晶龍兜帽【ＧＦ】 |
 | 8529 | Kuaru GX Cap | 晶龍兜帽【ＧＸ】 |
-| 8530 | Empress G Sector | 艾姆艾斯頭兜【Ｇ】 |
-| 8531 | Empress GF Sector | 艾姆艾斯頭兜【ＧＦ】 |
-| 8532 | Empress GX Sector | 艾姆艾斯頭兜【ＧＸ】 |
+| 8530 | Empress G Sector | 女帝頭兜【Ｇ】 |
+| 8531 | Empress GF Sector | 女帝頭兜【ＧＦ】 |
+| 8532 | Empress GX Sector | 女帝頭兜【ＧＸ】 |
 | 8533 | Empress G Mask | 女帝帽子【Ｇ】 |
 | 8534 | Empress GF Mask | 女帝帽子【ＧＦ】 |
 | 8535 | Empress GX Mask | 女帝帽子【ＧＸ】 |
@@ -419,7 +419,7 @@
 | 8913 | Mist GX Hachigane | 霧鉢金【ＧＸ】 |
 | 8914 | Fog Hachigane | 霧鉢金 |
 | 8915 | Fog F Hachigane | 霧鉢金【Ｆ】 |
-| 8916 | Fog FY Hachigane | 芙歐格鉢金 |
+| 8916 | Fog FY Hachigane | 霧鉢金 |
 | 8917 | Fog HS Hachigane | 霧鉢金【ＨＳ】 |
 | 8918 | Fog G Hachigane | 霧鉢金【Ｇ】 |
 | 8919 | Fog GF Hachigane | 霧鉢金【ＧＦ】 |

@@ -83,8 +83,8 @@
 | 1077 | Chaser F Leggings | 追撃裹腿【Ｆ】 |
 | 1078 | Royal Greaves | 王室護腿 |
 | 1079 | Royal F Greaves | 王室護腿【Ｆ】 |
-| 1080 | Lord Leggings | 爾歐爾裹腿 |
-| 1081 | Lord F Leggings | 爾歐爾裹腿【Ｆ】 |
+| 1080 | Lord Leggings | 領主裹腿 |
+| 1081 | Lord F Leggings | 領主裹腿【Ｆ】 |
 | 1082 | Dicto Leg | 德伊克歐腿 |
 | 1083 | Dicto F Leg | 德伊克歐腿【Ｆ】 |
 | 1084 | Diletto Boots | 德伊爾艾靴 |

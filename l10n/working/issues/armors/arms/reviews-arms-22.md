@@ -285,10 +285,10 @@
 | 10779 | Monotone D Arms | 姆歐恩歐護腕 |
 | 10780 | Chashiro D Arms | 奇阿夏伊護腕 |
 | 10781 | Two-tone D Arms | 特歐斯歐護腕 |
-| 10782 | King Beetle D Brachia | 克伊恩艾臂甲 |
+| 10782 | King Beetle D Brachia | 王甲蟲臂甲 |
 | 10783 | Butterfly D Brachia | 布烏特艾臂甲 |
 | 10784 | Demon Lord Kote D | 魔王籠手 |
-| 10785 | Demon Tale Kote D | 德艾姆歐籠手 |
+| 10785 | Demon Tale Kote D | 魔譚籠手 |
 | 10786 | 鬼凛ノ Kote D | 德籠手 |
 | 10787 | Empress C Arms | 女帝護腕 |
 | 10788 | Empress C Guard | 女帝臂甲 |
@@ -424,7 +424,7 @@
 | 10918 | Harudo D Arms | 赫阿爾烏護腕 |
 | 10919 | Harudo D Guard | 赫阿爾烏臂甲 |
 | 10920 | Elegance D【 Kote 】 | 艾爾艾格籠手 |
-| 10921 | Grace D【 Kote 】 | 格阿克艾籠手 |
+| 10921 | Grace D【 Kote 】 | 恩寵籠手 |
 | 10922 | Meraginasu D Arms | 姆艾爾阿護腕 |
 | 10923 | Meraginasu D Guard | 姆艾爾阿臂甲 |
 | 10924 | Hesyumu D Arms | 赫艾斯烏護腕 |
@@ -439,7 +439,7 @@
 | 10933 | Himeros D Arms | 赫伊姆艾護腕 |
 | 10934 | Charien D Guard | 奇阿爾伊臂甲 |
 | 10935 | Arietta D Arms | 阿爾伊特護腕 |
-| 10936 | Craft D Arms | 克阿芙護腕 |
+| 10936 | Craft D Arms | 工匠護腕 |
 | 10937 | Shieri D Arms | 夏伊爾伊護腕 |
 | 10938 | Pupen D Arms | 普烏普艾護腕 |
 | 10939 | Moss Covered D Arms | 姆歐斯歐護腕 |

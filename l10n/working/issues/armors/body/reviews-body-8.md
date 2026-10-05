@@ -85,8 +85,8 @@
 | 3579 | Blango GX Vest | 雪獅子背心【ＧＸ】 |
 | 3580 | Khezu GX Mail | 奇怪龍鎧甲【ＧＸ】 |
 | 3581 | Khezu GX Vest | 奇怪龍背心【ＧＸ】 |
-| 3582 | Hope GX Mail | 赫歐普艾鎧甲【ＧＸ】 |
-| 3583 | Hope GX Vest | 赫歐普艾背心【ＧＸ】 |
+| 3582 | Hope GX Mail | 希望鎧甲【ＧＸ】 |
+| 3583 | Hope GX Vest | 希望背心【ＧＸ】 |
 | 3584 | Gougarf G Mail | 鬥獸鎧甲【Ｇ】 |
 | 3585 | Gougarf GF Mail | 鬥獸鎧甲【ＧＦ】 |
 | 3586 | Gougarf GX Mail | 鬥獸鎧甲【ＧＸ】 |
@@ -198,77 +198,77 @@
 | 3692 | Seiryu・Kensei G Mail | 青龍劍聖鎧甲【Ｇ】 |
 | 3693 | Seiryu・Kensei GF Mail | 青龍劍聖鎧甲【ＧＦ】 |
 | 3694 | Byakko・双龍G Mail | 白虎鎧甲【Ｇ】 |
-| 3695 | Byakko・双龍GF Mail | 双龍鎧甲【Ｆ】 |
+| 3695 | Byakko・双龍GF Mail | 白虎双龍鎧甲【Ｆ】 |
 | 3696 | Suzaku・双龍G Mail | 朱雀鎧甲【Ｇ】 |
-| 3697 | Suzaku・双龍GF Mail | 双龍鎧甲【Ｆ】 |
+| 3697 | Suzaku・双龍GF Mail | 朱雀双龍鎧甲【Ｆ】 |
 | 3698 | Genbu・双龍G Mail | 玄武鎧甲【Ｇ】 |
-| 3699 | Genbu・双龍GF Mail | 双龍鎧甲【Ｆ】 |
+| 3699 | Genbu・双龍GF Mail | 玄武双龍鎧甲【Ｆ】 |
 | 3700 | Seiryu・双龍G Mail | 青龍鎧甲【Ｇ】 |
-| 3701 | Seiryu・双龍GF Mail | 双龍鎧甲【Ｆ】 |
+| 3701 | Seiryu・双龍GF Mail | 青龍双龍鎧甲【Ｆ】 |
 | 3702 | Byakko・剣王G Mail | 白虎鎧甲【Ｇ】 |
-| 3703 | Byakko・剣王GF Mail | 剣王鎧甲【Ｆ】 |
+| 3703 | Byakko・剣王GF Mail | 白虎剣王鎧甲【Ｆ】 |
 | 3704 | Suzaku・剣王G Mail | 朱雀鎧甲【Ｇ】 |
-| 3705 | Suzaku・剣王GF Mail | 剣王鎧甲【Ｆ】 |
+| 3705 | Suzaku・剣王GF Mail | 朱雀剣王鎧甲【Ｆ】 |
 | 3706 | Genbu・剣王G Mail | 玄武鎧甲【Ｇ】 |
-| 3707 | Genbu・剣王GF Mail | 剣王鎧甲【Ｆ】 |
+| 3707 | Genbu・剣王GF Mail | 玄武剣王鎧甲【Ｆ】 |
 | 3708 | Seiryu・剣王G Mail | 青龍鎧甲【Ｇ】 |
-| 3709 | Seiryu・剣王GF Mail | 剣王鎧甲【Ｆ】 |
+| 3709 | Seiryu・剣王GF Mail | 青龍剣王鎧甲【Ｆ】 |
 | 3710 | Byakko・刀神G Mail | 白虎鎧甲【Ｇ】 |
-| 3711 | Byakko・刀神GF Mail | 刀神鎧甲【Ｆ】 |
+| 3711 | Byakko・刀神GF Mail | 白虎刀神鎧甲【Ｆ】 |
 | 3712 | Suzaku・刀神G Mail | 朱雀鎧甲【Ｇ】 |
-| 3713 | Suzaku・刀神GF Mail | 刀神鎧甲【Ｆ】 |
+| 3713 | Suzaku・刀神GF Mail | 朱雀刀神鎧甲【Ｆ】 |
 | 3714 | Genbu・刀神G Mail | 玄武鎧甲【Ｇ】 |
-| 3715 | Genbu・刀神GF Mail | 刀神鎧甲【Ｆ】 |
+| 3715 | Genbu・刀神GF Mail | 玄武刀神鎧甲【Ｆ】 |
 | 3716 | Seiryu・刀神G Mail | 青龍鎧甲【Ｇ】 |
-| 3717 | Seiryu・刀神GF Mail | 刀神鎧甲【Ｆ】 |
+| 3717 | Seiryu・刀神GF Mail | 青龍刀神鎧甲【Ｆ】 |
 | 3718 | Byakko・Heaven 槍G Mail | 白虎天鎧甲【Ｇ】 |
-| 3719 | Byakko・Heaven 槍GF Mail | 槍天鎧甲【Ｆ】 |
+| 3719 | Byakko・Heaven 槍GF Mail | 白虎槍天鎧甲【Ｆ】 |
 | 3720 | Suzaku・Heaven 槍G Mail | 朱雀天鎧甲【Ｇ】 |
-| 3721 | Suzaku・Heaven 槍GF Mail | 槍天鎧甲【Ｆ】 |
+| 3721 | Suzaku・Heaven 槍GF Mail | 朱雀槍天鎧甲【Ｆ】 |
 | 3722 | Genbu・Heaven 槍G Mail | 玄武天鎧甲【Ｇ】 |
-| 3723 | Genbu・Heaven 槍GF Mail | 槍天鎧甲【Ｆ】 |
+| 3723 | Genbu・Heaven 槍GF Mail | 玄武槍天鎧甲【Ｆ】 |
 | 3724 | Seiryu・Heaven 槍G Mail | 青龍天鎧甲【Ｇ】 |
-| 3725 | Seiryu・Heaven 槍GF Mail | 槍天鎧甲【Ｆ】 |
+| 3725 | Seiryu・Heaven 槍GF Mail | 青龍槍天鎧甲【Ｆ】 |
 | 3726 | Byakko・砲皇G Mail | 白虎鎧甲【Ｇ】 |
-| 3727 | Byakko・砲皇GF Mail | 砲皇鎧甲【Ｆ】 |
+| 3727 | Byakko・砲皇GF Mail | 白虎砲皇鎧甲【Ｆ】 |
 | 3728 | Suzaku・砲皇G Mail | 朱雀鎧甲【Ｇ】 |
-| 3729 | Suzaku・砲皇GF Mail | 砲皇鎧甲【Ｆ】 |
+| 3729 | Suzaku・砲皇GF Mail | 朱雀砲皇鎧甲【Ｆ】 |
 | 3730 | Genbu・砲皇G Mail | 玄武鎧甲【Ｇ】 |
-| 3731 | Genbu・砲皇GF Mail | 砲皇鎧甲【Ｆ】 |
+| 3731 | Genbu・砲皇GF Mail | 玄武砲皇鎧甲【Ｆ】 |
 | 3732 | Seiryu・砲皇G Mail | 青龍鎧甲【Ｇ】 |
-| 3733 | Seiryu・砲皇GF Mail | 砲皇鎧甲【Ｆ】 |
+| 3733 | Seiryu・砲皇GF Mail | 青龍砲皇鎧甲【Ｆ】 |
 | 3734 | Byakko・鈍器獣G Mail | 白虎鎧甲【Ｇ】 |
-| 3735 | Byakko・鈍器獣GF Mail | 鈍器獣鎧甲【Ｆ】 |
+| 3735 | Byakko・鈍器獣GF Mail | 白虎鈍器獣鎧甲【Ｆ】 |
 | 3736 | Suzaku・鈍器獣G Mail | 朱雀鎧甲【Ｇ】 |
-| 3737 | Suzaku・鈍器獣GF Mail | 鈍器獣鎧甲【Ｆ】 |
+| 3737 | Suzaku・鈍器獣GF Mail | 朱雀鈍器獣鎧甲【Ｆ】 |
 | 3738 | Genbu・鈍器獣G Mail | 玄武鎧甲【Ｇ】 |
-| 3739 | Genbu・鈍器獣GF Mail | 鈍器獣鎧甲【Ｆ】 |
+| 3739 | Genbu・鈍器獣GF Mail | 玄武鈍器獣鎧甲【Ｆ】 |
 | 3740 | Seiryu・鈍器獣G Mail | 青龍鎧甲【Ｇ】 |
-| 3741 | Seiryu・鈍器獣GF Mail | 鈍器獣鎧甲【Ｆ】 |
+| 3741 | Seiryu・鈍器獣GF Mail | 青龍鈍器獣鎧甲【Ｆ】 |
 | 3742 | Byakko・奏帝G Mail | 白虎鎧甲【Ｇ】 |
-| 3743 | Byakko・奏帝GF Mail | 奏帝鎧甲【Ｆ】 |
+| 3743 | Byakko・奏帝GF Mail | 白虎奏帝鎧甲【Ｆ】 |
 | 3744 | Suzaku・奏帝G Mail | 朱雀鎧甲【Ｇ】 |
-| 3745 | Suzaku・奏帝GF Mail | 奏帝鎧甲【Ｆ】 |
+| 3745 | Suzaku・奏帝GF Mail | 朱雀奏帝鎧甲【Ｆ】 |
 | 3746 | Genbu・奏帝G Mail | 玄武鎧甲【Ｇ】 |
-| 3747 | Genbu・奏帝GF Mail | 奏帝鎧甲【Ｆ】 |
+| 3747 | Genbu・奏帝GF Mail | 玄武奏帝鎧甲【Ｆ】 |
 | 3748 | Seiryu・奏帝G Mail | 青龍鎧甲【Ｇ】 |
-| 3749 | Seiryu・奏帝GF Mail | 奏帝鎧甲【Ｆ】 |
+| 3749 | Seiryu・奏帝GF Mail | 青龍奏帝鎧甲【Ｆ】 |
 | 3750 | Byakko・銃傑G Suit | 白虎套裝【Ｇ】 |
-| 3751 | Byakko・銃傑GF Suit | 銃傑套裝【Ｆ】 |
+| 3751 | Byakko・銃傑GF Suit | 白虎銃傑套裝【Ｆ】 |
 | 3752 | Suzaku・銃傑G Suit | 朱雀套裝【Ｇ】 |
-| 3753 | Suzaku・銃傑GF Suit | 銃傑套裝【Ｆ】 |
+| 3753 | Suzaku・銃傑GF Suit | 朱雀銃傑套裝【Ｆ】 |
 | 3754 | Genbu・銃傑G Suit | 玄武套裝【Ｇ】 |
-| 3755 | Genbu・銃傑GF Suit | 銃傑套裝【Ｆ】 |
+| 3755 | Genbu・銃傑GF Suit | 玄武銃傑套裝【Ｆ】 |
 | 3756 | Seiryu・銃傑G Suit | 青龍套裝【Ｇ】 |
-| 3757 | Seiryu・銃傑GF Suit | 銃傑套裝【Ｆ】 |
+| 3757 | Seiryu・銃傑GF Suit | 青龍銃傑套裝【Ｆ】 |
 | 3758 | Byakko・銃仙G Suit | 白虎套裝【Ｇ】 |
-| 3759 | Byakko・銃仙GF Suit | 銃仙套裝【Ｆ】 |
+| 3759 | Byakko・銃仙GF Suit | 白虎銃仙套裝【Ｆ】 |
 | 3760 | Suzaku・銃仙G Suit | 朱雀套裝【Ｇ】 |
-| 3761 | Suzaku・銃仙GF Suit | 銃仙套裝【Ｆ】 |
+| 3761 | Suzaku・銃仙GF Suit | 朱雀銃仙套裝【Ｆ】 |
 | 3762 | Genbu・銃仙G Suit | 玄武套裝【Ｇ】 |
-| 3763 | Genbu・銃仙GF Suit | 銃仙套裝【Ｆ】 |
+| 3763 | Genbu・銃仙GF Suit | 玄武銃仙套裝【Ｆ】 |
 | 3764 | Seiryu・銃仙G Suit | 青龍套裝【Ｇ】 |
-| 3765 | Seiryu・銃仙GF Suit | 銃仙套裝【Ｆ】 |
+| 3765 | Seiryu・銃仙GF Suit | 青龍銃仙套裝【Ｆ】 |
 | 3766 | Byakko・Bow 鬼G Suit | 白虎套裝【Ｇ】 |
 | 3767 | Byakko・Bow 鬼GF Suit | 白虎套裝【Ｆ】 |
 | 3768 | Suzaku・Bow 鬼G Suit | 朱雀套裝【Ｇ】 |

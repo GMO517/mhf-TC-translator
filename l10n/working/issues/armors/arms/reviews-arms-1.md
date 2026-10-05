@@ -462,9 +462,9 @@
 | 455 | Garuga Guard SP White | 黑狼鳥臂甲【ＳＰ】・白 |
 | 456 | Garuga Guard SP Green | 黑狼鳥臂甲【ＳＰ】・緑 |
 | 457 | Garuga Guard SP Red | 黑狼鳥臂甲【ＳＰ】・赤 |
-| 458 | Rookie Arms 【 White 】 | 爾歐克伊護腕・白 |
-| 459 | Rookie Arms 【 Red 】 | 爾歐克伊護腕・赤 |
-| 460 | Rookie Arms 【 Green 】 | 爾歐克伊護腕・緑 |
+| 458 | Rookie Arms 【 White 】 | 新手護腕・白 |
+| 459 | Rookie Arms 【 Red 】 | 新手護腕・赤 |
+| 460 | Rookie Arms 【 Green 】 | 新手護腕・緑 |
 | 461 | Hypnoc S Arms | 眠鳥護腕【Ｓ】 |
 | 462 | Hypnoc S Guard | 眠鳥臂甲【Ｓ】 |
 | 463 | Purogia Arms | 普羅吉亞護腕 |

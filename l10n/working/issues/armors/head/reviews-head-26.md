@@ -14,7 +14,7 @@
 | 12508 | White 蘭・Bow 鬼D Mask | 蘭鬼帽子・白 |
 | 12509 | White 蘭・穿凰D Helm | 蘭穿凰頭兜・白 |
 | 12510 | White 蘭・斬将D Helm | 蘭斬将頭兜・白 |
-| 12511 | Sunset Glow・Kensei D Helm | 斯烏恩艾頭兜 |
+| 12511 | Sunset Glow・Kensei D Helm | 夕暉剣聖頭兜 |
 | 12512 | Crimson 霞・双龍D Helm | 霞双龍頭兜・紅 |
 | 12513 | Crimson 霞・剣王D Helm | 霞剣王頭兜・紅 |
 | 12514 | Crimson 霞・刀神D Helm | 霞刀神頭兜・紅 |
@@ -27,7 +27,7 @@
 | 12521 | Crimson 霞・Bow 鬼D Mask | 霞鬼帽子・紅 |
 | 12522 | Crimson 霞・穿凰D Helm | 霞穿凰頭兜・紅 |
 | 12523 | Crimson 霞・斬将D Helm | 霞斬将頭兜・紅 |
-| 12524 | Demonclad Horn D | 德艾姆歐角 |
+| 12524 | Demonclad Horn D | 鬼纏角 |
 | 12525 | Tangusu D Head | 特阿恩烏頭兜 |
 | 12526 | Disu D Helm | 德伊斯烏頭兜 |
 | 12527 | Disu D Cap | 德伊斯烏兜帽 |
@@ -82,15 +82,15 @@
 | 12576 | Healer Glasses PD Yellow | 治癒眼鏡【ＰＤ】・黄 |
 | 12577 | Shourou【Heaven 頭】D | 照楼天上手 |
 | 12578 | Mitama【Heaven 頭】D | 御魂天上手 |
-| 12579 | Burning Cliff D Kabuto | 布烏爾伊兜 |
+| 12579 | Burning Cliff D Kabuto | 燃崖兜 |
 | 12580 | Crimson Cliff D Kabuto | 深紅崖兜 |
 | 12581 | Ledia D Head | 爾艾德伊頭兜 |
 | 12582 | White Snake Headguard D | 白蛇護額 |
 | 12583 | Black Tiger Headguard D | 黑虎護額 |
-| 12584 | Crushing Fog D Hachigane | 克烏夏伊鉢金 |
-| 12585 | Valued Word Headguard D | 芙阿爾烏護額 |
+| 12584 | Crushing Fog D Hachigane | 碎霧鉢金 |
+| 12585 | Valued Word Headguard D | 珍言護額 |
 | 12586 | Blue Sky Headguard D | 蒼天護額 |
-| 12587 | Noon Glow Headguard D | 恩歐恩歐護額 |
+| 12587 | Noon Glow Headguard D | 午暉護額 |
 | 12588 | Kosho D Hachigane | 克歐夏歐鉢金 |
 | 12589 | True Shadow Headguard D | 真影護額 |
 | 12590 | Felyne D Mask | 艾路猫帽子 |
@@ -299,7 +299,7 @@
 | 12793 | Riot D Helm | 爾伊特頭兜 |
 | 12794 | Rutare D Helm | 爾烏特阿頭兜 |
 | 12795 | Rolling Flow Headguard・D | 爾歐爾伊護額 |
-| 12796 | Rolling Sky Headguard・D | 爾歐爾伊護額 |
+| 12796 | Rolling Sky Headguard・D | 滾天護額 |
 | 12797 | Cubie D Helm | 克烏布伊頭兜 |
 | 12798 | Kemor D Helm | 克艾姆歐頭兜 |
 | 12799 | Latria D Head | 爾阿特伊頭兜 |
@@ -392,33 +392,33 @@
 | 12886 | Survey Corps ZP Piercing | 斯烏爾艾耳飾【ＺＰ】 |
 | 12887 | Training Corps ZP Head | 特阿恩伊頭兜【ＺＰ】 |
 | 12888 | Training Corps ZP Piercing | 特阿恩伊耳飾【ＺＰ】 |
-| 12889 | Twelve Paladins' Armor・BM Yelow | 特艾爾艾頭兜 |
+| 12889 | Twelve Paladins' Armor・BM Yelow | 十二聖騎鎧ＢＭ頭兜 |
 | 12890 | Twelve Paladins' Armor・BM White | 十二聖騎鎧ＢＭ頭兜・白 |
-| 12891 | Twelve Paladins' Armor・BM Brown | 特艾爾艾頭兜 |
+| 12891 | Twelve Paladins' Armor・BM Brown | 十二聖騎鎧ＢＭ頭兜 |
 | 12892 | Twelve Paladins' Armor・BM Black | 十二聖騎鎧ＢＭ頭兜・黑 |
-| 12893 | Twelve Paladins' Armor F・BM Yelow | 特艾爾艾頭兜【Ｆ】 |
+| 12893 | Twelve Paladins' Armor F・BM Yelow | 十二聖騎鎧ＢＭ頭兜【Ｆ】 |
 | 12894 | Twelve Paladins' Armor F・BM White | 十二聖騎鎧ＢＭ頭兜【Ｆ】・白 |
-| 12895 | Twelve Paladins' Armor F・BM Brown | 特艾爾艾頭兜【Ｆ】 |
+| 12895 | Twelve Paladins' Armor F・BM Brown | 十二聖騎鎧ＢＭ頭兜【Ｆ】 |
 | 12896 | Twelve Paladins' Armor F・BM Black | 十二聖騎鎧ＢＭ頭兜【Ｆ】・黑 |
-| 12897 | Twelve Paladins' Armor FZ・BM Yelow | 特艾爾艾頭兜【ＦＺ】 |
+| 12897 | Twelve Paladins' Armor FZ・BM Yelow | 十二聖騎鎧ＢＭ頭兜【ＦＺ】 |
 | 12898 | Twelve Paladins' Armor FZ・BM White | 十二聖騎鎧ＢＭ頭兜【ＦＺ】・白 |
-| 12899 | Twelve Paladins' Armor FZ・BM Brown | 特艾爾艾頭兜【ＦＺ】 |
+| 12899 | Twelve Paladins' Armor FZ・BM Brown | 十二聖騎鎧ＢＭ頭兜【ＦＺ】 |
 | 12900 | Twelve Paladins' Armor FZ・BM Black | 十二聖騎鎧ＢＭ頭兜【ＦＺ】・黑 |
-| 12901 | Twelve Paladins' Armor HS・BM Yelow | 特艾爾艾頭兜【ＨＳ】 |
+| 12901 | Twelve Paladins' Armor HS・BM Yelow | 十二聖騎鎧ＢＭ頭兜【ＨＳ】 |
 | 12902 | Twelve Paladins' Armor HS・BM White | 十二聖騎鎧ＢＭ頭兜【ＨＳ】・白 |
-| 12903 | Twelve Paladins' Armor HS・BM Brown | 特艾爾艾頭兜【ＨＳ】 |
+| 12903 | Twelve Paladins' Armor HS・BM Brown | 十二聖騎鎧ＢＭ頭兜【ＨＳ】 |
 | 12904 | Twelve Paladins' Armor HS・BM Black | 十二聖騎鎧ＢＭ頭兜【ＨＳ】・黑 |
-| 12905 | Twelve Paladins' Armor GS・BM Yelow | 特艾爾艾頭兜【ＧＳ】 |
+| 12905 | Twelve Paladins' Armor GS・BM Yelow | 十二聖騎鎧ＢＭ頭兜【ＧＳ】 |
 | 12906 | Twelve Paladins' Armor GS・BM White | 十二聖騎鎧ＢＭ頭兜【ＧＳ】・白 |
-| 12907 | Twelve Paladins' Armor GS・BM Brown | 特艾爾艾頭兜【ＧＳ】 |
+| 12907 | Twelve Paladins' Armor GS・BM Brown | 十二聖騎鎧ＢＭ頭兜【ＧＳ】 |
 | 12908 | Twelve Paladins' Armor GS・BM Black | 十二聖騎鎧ＢＭ頭兜【ＧＳ】・黑 |
-| 12909 | Twelve Paladins' Armor GP・BM Yelow | 特艾爾艾頭兜【ＧＰ】 |
+| 12909 | Twelve Paladins' Armor GP・BM Yelow | 十二聖騎鎧ＢＭ頭兜【ＧＰ】 |
 | 12910 | Twelve Paladins' Armor GP・BM White | 十二聖騎鎧ＢＭ頭兜【ＧＰ】・白 |
-| 12911 | Twelve Paladins' Armor GP・BM Brown | 特艾爾艾頭兜【ＧＰ】 |
+| 12911 | Twelve Paladins' Armor GP・BM Brown | 十二聖騎鎧ＢＭ頭兜【ＧＰ】 |
 | 12912 | Twelve Paladins' Armor GP・BM Black | 十二聖騎鎧ＢＭ頭兜【ＧＰ】・黑 |
-| 12913 | Twelve Paladins' Armor ZP・BM Yelow | 特艾爾艾頭兜【ＺＰ】 |
+| 12913 | Twelve Paladins' Armor ZP・BM Yelow | 十二聖騎鎧ＢＭ頭兜【ＺＰ】 |
 | 12914 | Twelve Paladins' Armor ZP・BM White | 十二聖騎鎧ＢＭ頭兜【ＺＰ】・白 |
-| 12915 | Twelve Paladins' Armor ZP・BM Brown | 特艾爾艾頭兜【ＺＰ】 |
+| 12915 | Twelve Paladins' Armor ZP・BM Brown | 十二聖騎鎧ＢＭ頭兜【ＺＰ】 |
 | 12916 | Twelve Paladins' Armor ZP・BM Black | 十二聖騎鎧ＢＭ頭兜【ＺＰ】・黑 |
 | 12917 | Twelve Paladins' Armor・Bow Yellow | 十二聖騎鎧頭兜・黄 |
 | 12918 | Twelve Paladins' Armor・Bow White | 十二聖騎鎧頭兜・白 |

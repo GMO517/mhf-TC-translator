@@ -251,12 +251,12 @@
 | 6245 | Dian HS Belt | 德伊恩腰帶【ＨＳ】 |
 | 6246 | Dian GS Belt | 德伊恩腰帶【ＧＳ】 |
 | 6247 | Dian GP Belt | 德伊恩腰帶【ＧＰ】 |
-| 6248 | Wild HS Waist | 沃伊爾腰甲【ＨＳ】 |
-| 6249 | Wild GS Waist | 沃伊爾腰甲【ＧＳ】 |
-| 6250 | Wild GP Waist | 沃伊爾腰甲【ＧＰ】 |
-| 6251 | Wild HS Belt | 沃伊爾腰帶【ＨＳ】 |
-| 6252 | Wild GS Belt | 沃伊爾腰帶【ＧＳ】 |
-| 6253 | Wild GP Belt | 沃伊爾腰帶【ＧＰ】 |
+| 6248 | Wild HS Waist | 狂野腰甲【ＨＳ】 |
+| 6249 | Wild GS Waist | 狂野腰甲【ＧＳ】 |
+| 6250 | Wild GP Waist | 狂野腰甲【ＧＰ】 |
+| 6251 | Wild HS Belt | 狂野腰帶【ＨＳ】 |
+| 6252 | Wild GS Belt | 狂野腰帶【ＧＳ】 |
+| 6253 | Wild GP Belt | 狂野腰帶【ＧＰ】 |
 | 6254 | Flower HS Waist | 芙歐沃艾腰甲【ＨＳ】 |
 | 6255 | Flower GS Waist | 芙歐沃艾腰甲【ＧＳ】 |
 | 6256 | Flower GP Waist | 芙歐沃艾腰甲【ＧＰ】 |
@@ -454,20 +454,20 @@
 | 6448 | Hisui Coil | 翡翠腰甲 |
 | 6449 | Hisui F Coil | 翡翠腰甲【Ｆ】 |
 | 6450 | Hisui FX Coil | 翡翠腰甲【ＦＸ】 |
-| 6451 | Blood Coil | 布歐德腰甲 |
-| 6452 | Blood F Coil | 布歐德腰甲【Ｆ】 |
-| 6453 | Blood FX Coil | 布歐德腰甲【ＦＸ】 |
+| 6451 | Blood Coil | 血腰甲 |
+| 6452 | Blood F Coil | 血腰甲【Ｆ】 |
+| 6453 | Blood FX Coil | 血腰甲【ＦＸ】 |
 | 6454 | Byakko・穿凰G Coil | 白虎腰甲【Ｇ】 |
-| 6455 | Byakko・穿凰GF Coil | 穿凰腰甲【Ｆ】 |
+| 6455 | Byakko・穿凰GF Coil | 白虎穿凰腰甲【Ｆ】 |
 | 6456 | Byakko・穿凰GX Coil | 白虎腰甲【ＧＸ】 |
 | 6457 | Suzaku・穿凰G Coil | 朱雀腰甲【Ｇ】 |
-| 6458 | Suzaku・穿凰GF Coil | 穿凰腰甲【Ｆ】 |
+| 6458 | Suzaku・穿凰GF Coil | 朱雀穿凰腰甲【Ｆ】 |
 | 6459 | Suzaku・穿凰GX Coil | 朱雀腰甲【ＧＸ】 |
 | 6460 | Genbu・穿凰G Coil | 玄武腰甲【Ｇ】 |
-| 6461 | Genbu・穿凰GF Coil | 穿凰腰甲【Ｆ】 |
+| 6461 | Genbu・穿凰GF Coil | 玄武穿凰腰甲【Ｆ】 |
 | 6462 | Genbu・穿凰GX Coil | 玄武腰甲【ＧＸ】 |
 | 6463 | Seiryu・穿凰G Coil | 青龍腰甲【Ｇ】 |
-| 6464 | Seiryu・穿凰GF Coil | 穿凰腰甲【Ｆ】 |
+| 6464 | Seiryu・穿凰GF Coil | 青龍穿凰腰甲【Ｆ】 |
 | 6465 | Seiryu・穿凰GX Coil | 青龍腰甲【ＧＸ】 |
 | 6466 | Honour Coil・Red | 榮譽腰甲・赤 |
 | 6467 | Honour F Coil・Red | 榮譽腰甲【Ｆ】・赤 |

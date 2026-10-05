@@ -295,7 +295,7 @@
 | 10789 | Chashiro D Mail | 奇阿夏伊鎧甲 |
 | 10790 | Two-tone D Mail | 特歐斯歐鎧甲 |
 | 10791 | Bistro D Vest | 布伊斯歐背心 |
-| 10792 | King Beetle D Thorax | 克伊恩艾胸甲 |
+| 10792 | King Beetle D Thorax | 王甲蟲胸甲 |
 | 10793 | Butterfly D Thorax | 布烏特艾胸甲 |
 | 10794 | Demon Lord ノ肩鎧D | 魔王鎧甲 |
 | 10795 | Demon Tale ノ肩鎧D | 魔譚鎧甲 |
@@ -434,7 +434,7 @@
 | 10928 | Harudo D Mail | 赫阿爾烏鎧甲 |
 | 10929 | Harudo D Vest | 赫阿爾烏背心 |
 | 10930 | Elegance D【胴当て】 | 艾爾艾格胴當 |
-| 10931 | Grace D【胴当て】 | 格阿克艾胴當 |
+| 10931 | Grace D【胴当て】 | 恩寵胴當 |
 | 10932 | Meraginasu D Mail | 姆艾爾阿鎧甲 |
 | 10933 | Meraginasu D Vest | 姆艾爾阿背心 |
 | 10934 | Hesyumu D Mail | 赫艾斯烏鎧甲 |
@@ -449,7 +449,7 @@
 | 10943 | Himeros D Mail | 赫伊姆艾鎧甲 |
 | 10944 | Charien D Vest | 奇阿爾伊背心 |
 | 10945 | Arietta D Suit | 阿爾伊特套裝 |
-| 10946 | Craft D Mail | 克阿芙鎧甲 |
+| 10946 | Craft D Mail | 工匠鎧甲 |
 | 10947 | Shieri D Mail | 夏伊爾伊鎧甲 |
 | 10948 | Pupen D Mail | 普烏普艾鎧甲 |
 | 10949 | Moss Covered D Mail | 姆歐斯歐鎧甲 |

@@ -122,7 +122,7 @@
 | 11116 | YoRHa No.9 Type S D Feet | 寄葉九號型足【Ｓ】 |
 | 11117 | YoRHa No.2 Type B D Feet | 寄葉二號Ｂ型足 |
 | 11118 | トリートC Greaves | 托里托護腿 |
-| 11119 | Craft C Boots | 克阿芙靴 |
+| 11119 | Craft C Boots | 工匠靴 |
 | 11120 | Cielo C Feet | 克伊爾歐足 |
 | 11121 | Felyne C Greaves | 艾路猫護腿 |
 | 11122 | Akahara Reisou GN Legs D Red | 阿克阿赫腿甲・赤 |
@@ -197,13 +197,13 @@
 | 11191 | Zakka GS Boots | 札可靴【ＧＳ】 |
 | 11192 | Zakka GP Boots | 札可靴【ＧＰ】 |
 | 11193 | Zakka ZP Boots | 札可靴【ＺＰ】 |
-| 11194 | Sword Hero Feet | 斯歐爾艾足 |
-| 11195 | Sword Hero F Feet | 斯歐爾艾足【Ｆ】 |
-| 11196 | Sword Hero FZ Feet | 斯歐爾艾足【ＦＺ】 |
-| 11197 | Sword Hero HS Feet | 斯歐爾艾足【ＨＳ】 |
-| 11198 | Sword Hero GS Feet | 斯歐爾艾足【ＧＳ】 |
-| 11199 | Sword Hero GP Feet | 斯歐爾艾足【ＧＰ】 |
-| 11200 | Sword Hero ZP Feet | 斯歐爾艾足【ＺＰ】 |
+| 11194 | Sword Hero Feet | 劍之英雄足 |
+| 11195 | Sword Hero F Feet | 劍之英雄足【Ｆ】 |
+| 11196 | Sword Hero FZ Feet | 劍之英雄足【ＦＺ】 |
+| 11197 | Sword Hero HS Feet | 劍之英雄足【ＨＳ】 |
+| 11198 | Sword Hero GS Feet | 劍之英雄足【ＧＳ】 |
+| 11199 | Sword Hero GP Feet | 劍之英雄足【ＧＰ】 |
+| 11200 | Sword Hero ZP Feet | 劍之英雄足【ＺＰ】 |
 | 11201 | Twin Star Feet | 雙星足 |
 | 11202 | Twin Star F Feet | 雙星足【Ｆ】 |
 | 11203 | Twin Star FZ Feet | 雙星足【ＦＺ】 |
@@ -232,13 +232,13 @@
 | 11226 | Riot Hammer GS Feet | 爾伊特阿足【ＧＳ】 |
 | 11227 | Riot Hammer GP Feet | 爾伊特阿足【ＧＰ】 |
 | 11228 | Riot Hammer ZP Feet | 爾伊特阿足【ＺＰ】 |
-| 11229 | Song Horn Feet | 斯歐恩歐足 |
-| 11230 | Song Horn F Feet | 斯歐恩歐足【Ｆ】 |
-| 11231 | Song Horn FZ Feet | 斯歐恩歐足【ＦＺ】 |
-| 11232 | Song Horn HS Feet | 斯歐恩歐足【ＨＳ】 |
-| 11233 | Song Horn GS Feet | 斯歐恩歐足【ＧＳ】 |
-| 11234 | Song Horn GP Feet | 斯歐恩歐足【ＧＰ】 |
-| 11235 | Song Horn ZP Feet | 斯歐恩歐足【ＺＰ】 |
+| 11229 | Song Horn Feet | 歌角足 |
+| 11230 | Song Horn F Feet | 歌角足【Ｆ】 |
+| 11231 | Song Horn FZ Feet | 歌角足【ＦＺ】 |
+| 11232 | Song Horn HS Feet | 歌角足【ＨＳ】 |
+| 11233 | Song Horn GS Feet | 歌角足【ＧＳ】 |
+| 11234 | Song Horn GP Feet | 歌角足【ＧＰ】 |
+| 11235 | Song Horn ZP Feet | 歌角足【ＺＰ】 |
 | 11236 | Crush Lance Feet | 克烏夏阿足 |
 | 11237 | Crush Lance F Feet | 克烏夏阿足【Ｆ】 |
 | 11238 | Crush Lance FZ Feet | 克烏夏阿足【ＦＺ】 |

@@ -350,16 +350,16 @@
 | 9844 | Rutile F Coil | 爾烏特伊腰甲【Ｆ】 |
 | 9845 | Rutile FX Coil | 爾烏特伊腰甲【ＦＸ】 |
 | 9846 | Byakko・斬将G Coil | 白虎腰甲【Ｇ】 |
-| 9847 | Byakko・斬将GF Coil | 斬将腰甲【Ｆ】 |
+| 9847 | Byakko・斬将GF Coil | 白虎斬将腰甲【Ｆ】 |
 | 9848 | Byakko・斬将GX Coil | 白虎腰甲【ＧＸ】 |
 | 9849 | Suzaku・斬将G Coil | 朱雀腰甲【Ｇ】 |
-| 9850 | Suzaku・斬将GF Coil | 斬将腰甲【Ｆ】 |
+| 9850 | Suzaku・斬将GF Coil | 朱雀斬将腰甲【Ｆ】 |
 | 9851 | Suzaku・斬将GX Coil | 朱雀腰甲【ＧＸ】 |
 | 9852 | Genbu・斬将G Coil | 玄武腰甲【Ｇ】 |
-| 9853 | Genbu・斬将GF Coil | 斬将腰甲【Ｆ】 |
+| 9853 | Genbu・斬将GF Coil | 玄武斬将腰甲【Ｆ】 |
 | 9854 | Genbu・斬将GX Coil | 玄武腰甲【ＧＸ】 |
 | 9855 | Seiryu・斬将G Coil | 青龍腰甲【Ｇ】 |
-| 9856 | Seiryu・斬将GF Coil | 斬将腰甲【Ｆ】 |
+| 9856 | Seiryu・斬将GF Coil | 青龍斬将腰甲【Ｆ】 |
 | 9857 | Seiryu・斬将GX Coil | 青龍腰甲【ＧＸ】 |
 | 9858 | White 蘭・斬将 Coil | 蘭斬将腰甲・白 |
 | 9859 | White 蘭・斬将F Coil | 蘭斬将腰甲【Ｆ】・白 |
@@ -376,9 +376,9 @@
 | 9870 | Crimson 霞・斬将G Coil | 霞斬将腰甲【Ｇ】・紅 |
 | 9871 | Crimson 霞・斬将GF Coil | 霞斬将腰甲【Ｆ】・紅 |
 | 9872 | Crimson 霞・斬将GX Coil | 霞斬将腰甲【ＧＸ】・紅 |
-| 9873 | Green 穹・斬将G Coil | 穹斬将腰甲・緑 |
+| 9873 | Green 穹・斬将G Coil | 穹斬将腰甲【Ｇ】・緑 |
 | 9874 | Green 穹・斬将GF Coil | 穹斬将腰甲【Ｆ】・緑 |
-| 9875 | Green 穹・斬将GX Coil | 穹斬将腰甲・緑 |
+| 9875 | Green 穹・斬将GX Coil | 穹斬将腰甲【ＧＸ】・緑 |
 | 9876 | Guan Coil | 關腰甲 |
 | 9877 | Guan F Coil | 關腰甲【Ｆ】 |
 | 9878 | Guan FX Coil | 關腰甲【ＦＸ】 |

@@ -39,8 +39,8 @@
 | 11533 | Ruche D Mail | 爾烏奇艾鎧甲 |
 | 11534 | Strength Dボディ | 力鎧甲 |
 | 11535 | Rage D Mail | 憤怒鎧甲 |
-| 11536 | Rampage D Mail | 爾阿姆阿鎧甲 |
-| 11537 | Blaze D Mail | 布阿茲艾鎧甲 |
+| 11536 | Rampage D Mail | 狂暴鎧甲 |
+| 11537 | Blaze D Mail | 烈焔鎧甲 |
 | 11538 | Poogie D Vest | 普歐格伊背心 |
 | 11539 | Mandora D Vest | 姆阿恩歐背心 |
 | 11540 | Aonoko D Vest | 阿恩歐克背心 |
@@ -49,8 +49,8 @@
 | 11543 | Gilbert D Mail | 格伊爾艾鎧甲 |
 | 11544 | Zuibei D Muscle | 茲烏布艾筋肉衣 |
 | 11545 | Chiarim D Mail | 奇伊爾伊鎧甲 |
-| 11546 | Guild Bard C Suit | 獵團套裝 |
-| 11547 | Scholar C Suit | 施歐爾阿套裝 |
+| 11546 | Guild Bard C Suit | 公會吟遊套裝 |
+| 11547 | Scholar C Suit | 學者套裝 |
 | 11548 | Aelucanth C Thorax | 阿爾烏克胸甲 |
 | 11549 | Rhopessa C Thorax | 爾歐普艾胸甲 |
 | 11550 | Yukumo ノドウギC・Heaven | 結雲天鎧甲 |
@@ -112,15 +112,15 @@
 | 11606 | Healer Vest PD Yellow | 治癒背心【ＰＤ】・黄 |
 | 11607 | Shourou 【殻胴】D | 夏歐爾歐上手 |
 | 11608 | Mitama 【殻胴】D | 姆伊特阿上手 |
-| 11609 | Burning Cliff D【胴当て】 | 布烏爾伊胴當 |
+| 11609 | Burning Cliff D【胴当て】 | 燃崖胴當 |
 | 11610 | Crimson Cliff D【胴当て】 | 深紅崖胴當 |
 | 11611 | Ledia D Mail | 爾艾德伊鎧甲 |
 | 11612 | White Snake Haori D | 白蛇羽織 |
 | 11613 | Black Tiger Haori D | 黑虎羽織 |
-| 11614 | Crushing Fog D [Haori 】 | 克烏夏伊羽織 |
-| 11615 | Valued Word Haori D | 芙阿爾烏羽織 |
+| 11614 | Crushing Fog D [Haori 】 | 碎霧羽織 |
+| 11615 | Valued Word Haori D | 珍言羽織 |
 | 11616 | Blue Sky Haori D | 蒼天羽織 |
-| 11617 | Noon Glow Haori D | 恩歐恩歐羽織 |
+| 11617 | Noon Glow Haori D | 午暉羽織 |
 | 11618 | Kosho D [Haori 】 | 克歐夏歐羽織 |
 | 11619 | True Shadow Haori D | 真影羽織 |
 | 11620 | Furogada D Mail | 芙烏爾歐鎧甲 |
@@ -323,7 +323,7 @@
 | 11817 | Riot D Mail | 爾伊特鎧甲 |
 | 11818 | Rutare D Mail | 爾烏特阿鎧甲 |
 | 11819 | Rolling Flow Chestplate・D | 爾歐爾伊胸甲 |
-| 11820 | Rolling Sky Chestplate・D | 爾歐爾伊胸甲 |
+| 11820 | Rolling Sky Chestplate・D | 滾天胸甲 |
 | 11821 | Cubie D Mail | 克烏布伊鎧甲 |
 | 11822 | Kemor D Mail | 克艾姆歐鎧甲 |
 | 11823 | Latria D Vest | 爾阿特伊背心 |
@@ -416,20 +416,20 @@
 | 11910 | Survey Corps ZP Suit | 斯烏爾艾套裝【ＺＰ】 |
 | 11911 | Training Corps ZP Vest | 特阿恩伊背心【ＺＰ】 |
 | 11912 | Training Corps ZP Suit | 特阿恩伊套裝【ＺＰ】 |
-| 11913 | Twelve Paladins' Armor・Body | 特艾爾艾鎧甲 |
-| 11914 | Twelve Paladins' Armor F・Body | 特艾爾艾鎧甲【Ｆ】 |
-| 11915 | Twelve Paladins' Armor FZ・Body | 特艾爾艾鎧甲【ＦＺ】 |
-| 11916 | Twelve Paladins' Armor HS・Body | 特艾爾艾鎧甲【ＨＳ】 |
-| 11917 | Twelve Paladins' Armor GS・Body | 特艾爾艾鎧甲【ＧＳ】 |
-| 11918 | Twelve Paladins' Armor GP・Body | 特艾爾艾鎧甲【ＧＰ】 |
-| 11919 | Twelve Paladins' Armor ZP・Body | 特艾爾艾鎧甲【ＺＰ】 |
-| 11920 | Twelve Paladins' Armor・Chest | 特艾爾艾鎧甲 |
-| 11921 | Twelve Paladins' Armor F・Chest | 特艾爾艾鎧甲【Ｆ】 |
-| 11922 | Twelve Paladins' Armor FZ・Chest | 特艾爾艾鎧甲【ＦＺ】 |
-| 11923 | Twelve Paladins' Armor HS・Chest | 特艾爾艾鎧甲【ＨＳ】 |
-| 11924 | Twelve Paladins' Armor GS・Chest | 特艾爾艾鎧甲【ＧＳ】 |
-| 11925 | Twelve Paladins' Armor GP・Chest | 特艾爾艾鎧甲【ＧＰ】 |
-| 11926 | Twelve Paladins' Armor ZP・Chest | 特艾爾艾鎧甲【ＺＰ】 |
+| 11913 | Twelve Paladins' Armor・Body | 十二聖騎鎧鎧甲 |
+| 11914 | Twelve Paladins' Armor F・Body | 十二聖騎鎧鎧甲【Ｆ】 |
+| 11915 | Twelve Paladins' Armor FZ・Body | 十二聖騎鎧鎧甲【ＦＺ】 |
+| 11916 | Twelve Paladins' Armor HS・Body | 十二聖騎鎧鎧甲【ＨＳ】 |
+| 11917 | Twelve Paladins' Armor GS・Body | 十二聖騎鎧鎧甲【ＧＳ】 |
+| 11918 | Twelve Paladins' Armor GP・Body | 十二聖騎鎧鎧甲【ＧＰ】 |
+| 11919 | Twelve Paladins' Armor ZP・Body | 十二聖騎鎧鎧甲【ＺＰ】 |
+| 11920 | Twelve Paladins' Armor・Chest | 十二聖騎鎧鎧甲 |
+| 11921 | Twelve Paladins' Armor F・Chest | 十二聖騎鎧鎧甲【Ｆ】 |
+| 11922 | Twelve Paladins' Armor FZ・Chest | 十二聖騎鎧鎧甲【ＦＺ】 |
+| 11923 | Twelve Paladins' Armor HS・Chest | 十二聖騎鎧鎧甲【ＨＳ】 |
+| 11924 | Twelve Paladins' Armor GS・Chest | 十二聖騎鎧鎧甲【ＧＳ】 |
+| 11925 | Twelve Paladins' Armor GP・Chest | 十二聖騎鎧鎧甲【ＧＰ】 |
+| 11926 | Twelve Paladins' Armor ZP・Chest | 十二聖騎鎧鎧甲【ＺＰ】 |
 | 11927 | Holy Maiden Armor・Shozoku | 聖女鎧裝束 |
 | 11928 | Holy Maiden Armor F・Shozoku | 聖女鎧裝束【Ｆ】 |
 | 11929 | Holy Maiden Armor FZ・Shozoku | 聖女鎧裝束【ＦＺ】 |
@@ -458,20 +458,20 @@
 | 11952 | Dragon Slayer Armor GS・Chest | 屠龍鎧甲【ＧＳ】 |
 | 11953 | Dragon Slayer Armor GP・Chest | 屠龍鎧甲【ＧＰ】 |
 | 11954 | Dragon Slayer Armor ZP・Chest | 屠龍鎧甲【ＺＰ】 |
-| 11955 | Rebellion Armour・Body | 爾艾布艾胴 |
-| 11956 | Rebellion Armour F・Body | 爾艾布艾胴【Ｆ】 |
-| 11957 | Rebellion Armour FZ・Body | 爾艾布艾胴【ＦＺ】 |
-| 11958 | Rebellion Armour HS・Body | 爾艾布艾胴【ＨＳ】 |
-| 11959 | Rebellion Armour GS・Body | 爾艾布艾胴【ＧＳ】 |
-| 11960 | Rebellion Armour GP・Body | 爾艾布艾胴【ＧＰ】 |
-| 11961 | Rebellion Armour ZP・Body | 爾艾布艾胴【ＺＰ】 |
-| 11962 | Rebellion Armour・Chest | 爾艾布艾胸甲 |
-| 11963 | Rebellion Armour F・Chest | 爾艾布艾胸甲【Ｆ】 |
-| 11964 | Rebellion Armour FZ・Chest | 爾艾布艾胸甲【ＦＺ】 |
-| 11965 | Rebellion Armour HS・Chest | 爾艾布艾胸甲【ＨＳ】 |
-| 11966 | Rebellion Armour GS・Chest | 爾艾布艾胸甲【ＧＳ】 |
-| 11967 | Rebellion Armour GP・Chest | 爾艾布艾胸甲【ＧＰ】 |
-| 11968 | Rebellion Armour ZP・Chest | 爾艾布艾胸甲【ＺＰ】 |
+| 11955 | Rebellion Armour・Body | 叛逆鎧胴 |
+| 11956 | Rebellion Armour F・Body | 叛逆鎧胴【Ｆ】 |
+| 11957 | Rebellion Armour FZ・Body | 叛逆鎧胴【ＦＺ】 |
+| 11958 | Rebellion Armour HS・Body | 叛逆鎧胴【ＨＳ】 |
+| 11959 | Rebellion Armour GS・Body | 叛逆鎧胴【ＧＳ】 |
+| 11960 | Rebellion Armour GP・Body | 叛逆鎧胴【ＧＰ】 |
+| 11961 | Rebellion Armour ZP・Body | 叛逆鎧胴【ＺＰ】 |
+| 11962 | Rebellion Armour・Chest | 叛逆鎧胸甲 |
+| 11963 | Rebellion Armour F・Chest | 叛逆鎧胸甲【Ｆ】 |
+| 11964 | Rebellion Armour FZ・Chest | 叛逆鎧胸甲【ＦＺ】 |
+| 11965 | Rebellion Armour HS・Chest | 叛逆鎧胸甲【ＨＳ】 |
+| 11966 | Rebellion Armour GS・Chest | 叛逆鎧胸甲【ＧＳ】 |
+| 11967 | Rebellion Armour GP・Chest | 叛逆鎧胸甲【ＧＰ】 |
+| 11968 | Rebellion Armour ZP・Chest | 叛逆鎧胸甲【ＺＰ】 |
 | 11969 | Dinato ZP Mail | 迪納托鎧甲【ＺＰ】 |
 | 11970 | Dinato ZP Vest | 迪納托背心【ＺＰ】 |
 | 11971 | Duque ZP Mail | 公爵鎧甲【ＺＰ】 |
@@ -492,10 +492,10 @@
 | 11986 | Renka Haori C | 爾艾恩阿羽織 |
 | 11987 | Survey Corps D Vest | 斯烏爾艾背心 |
 | 11988 | Training Corps D Vest | 特阿恩伊背心 |
-| 11989 | Twelve Paladins' Armor D・Body | 特艾爾艾鎧甲 |
-| 11990 | Holy Maiden Armor D・Shozoku | 赫歐爾阿裝束 |
+| 11989 | Twelve Paladins' Armor D・Body | 十二聖騎鎧鎧甲 |
+| 11990 | Holy Maiden Armor D・Shozoku | 聖女鎧裝束 |
 | 11991 | Dragon Slayer Armor D・Body | 屠龍鎧甲 |
-| 11992 | Rebellion Armour D・Body | 爾艾布艾胴 |
+| 11992 | Rebellion Armour D・Body | 叛逆鎧胴 |
 | 11993 | Dinato D Mail | 德伊恩阿鎧甲 |
 | 11994 | Duque D Mail | 德烏斯烏鎧甲 |
 | 11995 | Granu D Mail | 格阿恩烏鎧甲 |

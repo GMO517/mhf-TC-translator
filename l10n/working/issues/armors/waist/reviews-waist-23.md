@@ -8,7 +8,7 @@
 | 11002 | Chashiro D Coil | 奇阿夏伊腰甲 |
 | 11003 | Two-tone D Coil | 特歐斯歐腰甲 |
 | 11004 | Bistro D Apron | 布伊斯歐圍裙 |
-| 11005 | King Beetle D Elytra | 克伊恩艾翅腰 |
+| 11005 | King Beetle D Elytra | 王甲蟲翅腰 |
 | 11006 | Butterfly D Elytra | 布烏特艾翅腰 |
 | 11007 | Demon Lord ノ虎布D | 魔王腰甲 |
 | 11008 | Demon Tale ノ虎布D | 魔譚腰甲 |
@@ -21,8 +21,8 @@
 | 11015 | Dragon Dテイル | 龍腰甲 |
 | 11016 | Nargacuga C Faulds | 恩阿爾阿腰甲 |
 | 11017 | Nargacuga C Coat | 恩阿爾阿腰衣 |
-| 11018 | Burning Cliff GX [Waist て】 | 崖腰甲【ＧＸ】 |
-| 11019 | Crimson Cliff GX [Waist て】 | 崖腰甲【ＧＸ】 |
+| 11018 | Burning Cliff GX [Waist て】 | 燃崖腰甲【ＧＸ】 |
+| 11019 | Crimson Cliff GX [Waist て】 | 深紅崖腰甲【ＧＸ】 |
 | 11020 | Vashimu Z Coil | 尾晶蠍腰甲【Ｚ】 |
 | 11021 | Vashimu ZF Coil | 尾晶蠍腰甲【ＺＦ】 |
 | 11022 | Vashimu ZY Coil | 尾晶蠍腰甲【ＺＹ】 |
@@ -147,7 +147,7 @@
 | 11141 | Harudo D Faulds | 赫阿爾烏腰甲 |
 | 11142 | Harudo D Coat | 赫阿爾烏腰衣 |
 | 11143 | Elegance D [Waistband 】 | 艾爾艾格腰帶 |
-| 11144 | Grace D [Waistband 】 | 格阿克艾腰帶 |
+| 11144 | Grace D [Waistband 】 | 恩寵腰帶 |
 | 11145 | Meraginasu D Faulds | 姆艾爾阿腰甲 |
 | 11146 | Meraginasu D Coat | 姆艾爾阿腰衣 |
 | 11147 | Hesyumu D Coil | 赫艾斯烏腰甲 |
@@ -162,7 +162,7 @@
 | 11156 | Himeros D Faulds | 赫伊姆艾腰甲 |
 | 11157 | Charien D Coat | 奇阿爾伊腰衣 |
 | 11158 | Arietta D Waist | 阿爾伊特腰甲 |
-| 11159 | Craft D Coil | 克阿芙腰甲 |
+| 11159 | Craft D Coil | 工匠腰甲 |
 | 11160 | Shieri D Faulds | 夏伊爾伊腰甲 |
 | 11161 | Pupen D Faulds | 普烏普艾腰甲 |
 | 11162 | Moss Covered D Faulds | 姆歐斯歐腰甲 |
@@ -321,7 +321,7 @@
 | 11315 | YoRHa No.9 Type S D Coil | 寄葉九號型腰甲【Ｓ】 |
 | 11316 | YoRHa No.2 Type B D Coil | 寄葉二號Ｂ型腰甲 |
 | 11317 | トリートC Waist | 托里托腰甲 |
-| 11318 | Craft C Coil | 克阿芙腰甲 |
+| 11318 | Craft C Coil | 工匠腰甲 |
 | 11319 | Cielo C Coil | 克伊爾歐腰甲 |
 | 11320 | Felyne C Coil | 艾路猫腰甲 |
 | 11321 | Akahara Reisou GN Waist D Red | 阿克阿赫腰甲・赤 |
@@ -396,13 +396,13 @@
 | 11390 | Zakka GS Coat | 札可腰衣【ＧＳ】 |
 | 11391 | Zakka GP Coat | 札可腰衣【ＧＰ】 |
 | 11392 | Zakka ZP Coat | 札可腰衣【ＺＰ】 |
-| 11393 | Sword Hero Coil | 斯歐爾艾腰甲 |
-| 11394 | Sword Hero F Coil | 斯歐爾艾腰甲【Ｆ】 |
-| 11395 | Sword Hero FZ Coil | 斯歐爾艾腰甲【ＦＺ】 |
-| 11396 | Sword Hero HS Coil | 斯歐爾艾腰甲【ＨＳ】 |
-| 11397 | Sword Hero GS Coil | 斯歐爾艾腰甲【ＧＳ】 |
-| 11398 | Sword Hero GP Coil | 斯歐爾艾腰甲【ＧＰ】 |
-| 11399 | Sword Hero ZP Coil | 斯歐爾艾腰甲【ＺＰ】 |
+| 11393 | Sword Hero Coil | 劍之英雄腰甲 |
+| 11394 | Sword Hero F Coil | 劍之英雄腰甲【Ｆ】 |
+| 11395 | Sword Hero FZ Coil | 劍之英雄腰甲【ＦＺ】 |
+| 11396 | Sword Hero HS Coil | 劍之英雄腰甲【ＨＳ】 |
+| 11397 | Sword Hero GS Coil | 劍之英雄腰甲【ＧＳ】 |
+| 11398 | Sword Hero GP Coil | 劍之英雄腰甲【ＧＰ】 |
+| 11399 | Sword Hero ZP Coil | 劍之英雄腰甲【ＺＰ】 |
 | 11400 | Twin Star Coil | 雙星腰甲 |
 | 11401 | Twin Star F Coil | 雙星腰甲【Ｆ】 |
 | 11402 | Twin Star FZ Coil | 雙星腰甲【ＦＺ】 |
@@ -431,13 +431,13 @@
 | 11425 | Riot Hammer GS Coil | 爾伊特阿腰甲【ＧＳ】 |
 | 11426 | Riot Hammer GP Coil | 爾伊特阿腰甲【ＧＰ】 |
 | 11427 | Riot Hammer ZP Coil | 爾伊特阿腰甲【ＺＰ】 |
-| 11428 | Song Horn Coil | 斯歐恩歐腰甲 |
-| 11429 | Song Horn F Coil | 斯歐恩歐腰甲【Ｆ】 |
-| 11430 | Song Horn FZ Coil | 斯歐恩歐腰甲【ＦＺ】 |
-| 11431 | Song Horn HS Coil | 斯歐恩歐腰甲【ＨＳ】 |
-| 11432 | Song Horn GS Coil | 斯歐恩歐腰甲【ＧＳ】 |
-| 11433 | Song Horn GP Coil | 斯歐恩歐腰甲【ＧＰ】 |
-| 11434 | Song Horn ZP Coil | 斯歐恩歐腰甲【ＺＰ】 |
+| 11428 | Song Horn Coil | 歌角腰甲 |
+| 11429 | Song Horn F Coil | 歌角腰甲【Ｆ】 |
+| 11430 | Song Horn FZ Coil | 歌角腰甲【ＦＺ】 |
+| 11431 | Song Horn HS Coil | 歌角腰甲【ＨＳ】 |
+| 11432 | Song Horn GS Coil | 歌角腰甲【ＧＳ】 |
+| 11433 | Song Horn GP Coil | 歌角腰甲【ＧＰ】 |
+| 11434 | Song Horn ZP Coil | 歌角腰甲【ＺＰ】 |
 | 11435 | Crush Lance Coil | 克烏夏阿腰甲 |
 | 11436 | Crush Lance F Coil | 克烏夏阿腰甲【Ｆ】 |
 | 11437 | Crush Lance FZ Coil | 克烏夏阿腰甲【ＦＺ】 |

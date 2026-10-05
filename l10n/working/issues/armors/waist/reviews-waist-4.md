@@ -206,34 +206,34 @@
 | 1700 | Bunny F Belt・Purple | 兔腰帶【Ｆ】・紫 |
 | 1701 | Bunny Coat・Purple | 兔腰衣・紫 |
 | 1702 | Bunny F Coat・Purple | 兔腰衣【Ｆ】・紫 |
-| 1703 | 昇龍 Black Obi・White | 昇龍帶・黑 |
-| 1704 | 昇龍F Black Obi・White | 昇龍帶【Ｆ】・黑 |
-| 1705 | 波動 Black Obi・White | 波動帶・黑 |
-| 1706 | 波動F Black Obi・White | 波動帶【Ｆ】・黑 |
+| 1703 | 昇龍 Black Obi・White | 昇龍帶・黑白 |
+| 1704 | 昇龍F Black Obi・White | 昇龍帶【Ｆ】・黑白 |
+| 1705 | 波動 Black Obi・White | 波動帶・黑白 |
+| 1706 | 波動F Black Obi・White | 波動帶【Ｆ】・黑白 |
 | 1707 | 百裂 Waistband・Blue | 百裂腰帶・青 |
 | 1708 | 百裂F Waistband・Blue | 百裂腰帶【Ｆ】・青 |
 | 1709 | 気功 Waistband・Blue | 気功腰帶・青 |
 | 1710 | 気功F Waistband・Blue | 気功腰帶【Ｆ】・青 |
-| 1711 | 昇龍 Black Obi・紺 | 昇龍帶 |
-| 1712 | 昇龍F Black Obi・紺 | 昇龍帶 |
-| 1713 | 波動 Black Obi・紺 | 波動帶 |
-| 1714 | 波動F Black Obi・紺 | 波動帶 |
+| 1711 | 昇龍 Black Obi・紺 | 昇龍紺帶・黑 |
+| 1712 | 昇龍F Black Obi・紺 | 昇龍紺帶【Ｆ】・黑 |
+| 1713 | 波動 Black Obi・紺 | 波動紺帶・黑 |
+| 1714 | 波動F Black Obi・紺 | 波動紺帶【Ｆ】・黑 |
 | 1715 | 百裂 Waistband・Black | 百裂腰帶・黑 |
 | 1716 | 百裂F Waistband・Black | 百裂腰帶【Ｆ】・黑 |
 | 1717 | 気功 Waistband・Black | 気功腰帶・黑 |
 | 1718 | 気功F Waistband・Black | 気功腰帶【Ｆ】・黑 |
-| 1719 | 昇龍 Black Obi・Yellow | 昇龍帶・黑 |
-| 1720 | 昇龍F Black Obi・Yellow | 昇龍帶【Ｆ】・黑 |
-| 1721 | 波動 Black Obi・Yellow | 波動帶・黑 |
-| 1722 | 波動F Black Obi・Yellow | 波動帶【Ｆ】・黑 |
+| 1719 | 昇龍 Black Obi・Yellow | 昇龍帶・黑黄 |
+| 1720 | 昇龍F Black Obi・Yellow | 昇龍帶【Ｆ】・黑黄 |
+| 1721 | 波動 Black Obi・Yellow | 波動帶・黑黄 |
+| 1722 | 波動F Black Obi・Yellow | 波動帶【Ｆ】・黑黄 |
 | 1723 | 百裂 Waistband・Yellow | 百裂腰帶・黄 |
 | 1724 | 百裂F Waistband・Yellow | 百裂腰帶【Ｆ】・黄 |
 | 1725 | 気功 Waistband・Yellow | 気功腰帶・黄 |
 | 1726 | 気功F Waistband・Yellow | 気功腰帶【Ｆ】・黄 |
-| 1727 | 昇龍 Black Obi・Purple | 昇龍帶・黑 |
-| 1728 | 昇龍F Black Obi・Purple | 昇龍帶【Ｆ】・黑 |
-| 1729 | 波動 Black Obi・Purple | 波動帶・黑 |
-| 1730 | 波動F Black Obi・Purple | 波動帶【Ｆ】・黑 |
+| 1727 | 昇龍 Black Obi・Purple | 昇龍帶・黑紫 |
+| 1728 | 昇龍F Black Obi・Purple | 昇龍帶【Ｆ】・黑紫 |
+| 1729 | 波動 Black Obi・Purple | 波動帶・黑紫 |
+| 1730 | 波動F Black Obi・Purple | 波動帶【Ｆ】・黑紫 |
 | 1731 | 百裂 Waistband・Green | 百裂腰帶・緑 |
 | 1732 | 百裂F Waistband・Green | 百裂腰帶【Ｆ】・緑 |
 | 1733 | 気功 Waistband・Green | 気功腰帶・緑 |
@@ -478,11 +478,11 @@
 | 1972 | Charien FX Coat | 夏里安腰衣【ＦＸ】 |
 | 1973 | Bureshisu FX Faulds | 布烏爾艾腰甲【ＦＸ】 |
 | 1974 | Rathalos LX Faulds | 雄火龍腰甲 |
-| 1975 | Rath Soul RX Coil | 爾阿斯歐腰甲 |
+| 1975 | Rath Soul RX Coil | 火龍魂腰甲 |
 | 1976 | Khezu LX Faulds | 奇怪龍腰甲 |
 | 1977 | Khezu RX Faulds | 奇怪龍腰甲 |
-| 1978 | High Metal LX Faulds | 赫伊格艾腰甲 |
-| 1979 | High Metal RX Faulds | 赫伊格艾腰甲 |
+| 1978 | High Metal LX Faulds | 上位金屬腰甲 |
+| 1979 | High Metal RX Faulds | 上位金屬腰甲 |
 | 1980 | Hornetaur LX Coat | 巨甲蟲腰衣 |
 | 1981 | Hornetaur RX Coat | 巨甲蟲腰衣 |
 | 1982 | Beru ドラR Faulds | 舞雷龍腰甲【Ｒ】 |

@@ -479,9 +479,9 @@
 | 6973 | Crimson 霞・双龍G Mail | 霞双龍鎧甲【Ｇ】・紅 |
 | 6974 | Crimson 霞・双龍GF Mail | 霞双龍鎧甲【Ｆ】・紅 |
 | 6975 | Crimson 霞・双龍GX Mail | 霞双龍鎧甲【ＧＸ】・紅 |
-| 6976 | Green 穹・双龍G Mail | 穹双龍鎧甲・緑 |
+| 6976 | Green 穹・双龍G Mail | 穹双龍鎧甲【Ｇ】・緑 |
 | 6977 | Green 穹・双龍GF Mail | 穹双龍鎧甲【Ｆ】・緑 |
-| 6978 | Green 穹・双龍GX Mail | 穹双龍鎧甲・緑 |
+| 6978 | Green 穹・双龍GX Mail | 穹双龍鎧甲【ＧＸ】・緑 |
 | 6979 | White 蘭・剣王 Mail | 蘭剣王鎧甲・白 |
 | 6980 | White 蘭・剣王F Mail | 蘭剣王鎧甲【Ｆ】・白 |
 | 6981 | White 蘭・剣王FX Mail | 蘭剣王鎧甲【ＦＸ】・白 |
@@ -497,9 +497,9 @@
 | 6991 | Crimson 霞・剣王G Mail | 霞剣王鎧甲【Ｇ】・紅 |
 | 6992 | Crimson 霞・剣王GF Mail | 霞剣王鎧甲【Ｆ】・紅 |
 | 6993 | Crimson 霞・剣王GX Mail | 霞剣王鎧甲【ＧＸ】・紅 |
-| 6994 | Green 穹・剣王G Mail | 穹剣王鎧甲・緑 |
+| 6994 | Green 穹・剣王G Mail | 穹剣王鎧甲【Ｇ】・緑 |
 | 6995 | Green 穹・剣王GF Mail | 穹剣王鎧甲【Ｆ】・緑 |
-| 6996 | Green 穹・剣王GX Mail | 穹剣王鎧甲・緑 |
+| 6996 | Green 穹・剣王GX Mail | 穹剣王鎧甲【ＧＸ】・緑 |
 | 6997 | White 蘭・刀神 Mail | 蘭刀神鎧甲・白 |
 | 6998 | White 蘭・刀神F Mail | 蘭刀神鎧甲【Ｆ】・白 |
 | 6999 | White 蘭・刀神FX Mail | 蘭刀神鎧甲【ＦＸ】・白 |

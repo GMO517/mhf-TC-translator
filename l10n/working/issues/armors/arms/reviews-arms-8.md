@@ -78,8 +78,8 @@
 | 3572 | Blango GX Guard | 雪獅子臂甲【ＧＸ】 |
 | 3573 | Khezu GX Arms | 奇怪龍護腕【ＧＸ】 |
 | 3574 | Khezu GX Guard | 奇怪龍臂甲【ＧＸ】 |
-| 3575 | Hope GX Arms | 赫歐普艾護腕【ＧＸ】 |
-| 3576 | Hope GX Guard | 赫歐普艾臂甲【ＧＸ】 |
+| 3575 | Hope GX Arms | 希望護腕【ＧＸ】 |
+| 3576 | Hope GX Guard | 希望臂甲【ＧＸ】 |
 | 3577 | Gougarf G Arms | 鬥獸護腕【Ｇ】 |
 | 3578 | Gougarf GF Arms | 鬥獸護腕【ＧＦ】 |
 | 3579 | Gougarf GX Arms | 鬥獸護腕【ＧＸ】 |
@@ -191,77 +191,77 @@
 | 3685 | Seiryu・Kensei G Arms | 青龍劍聖護腕【Ｇ】 |
 | 3686 | Seiryu・Kensei GF Arms | 青龍劍聖護腕【ＧＦ】 |
 | 3687 | Byakko・双龍G Arms | 白虎護腕【Ｇ】 |
-| 3688 | Byakko・双龍GF Arms | 双龍護腕【Ｆ】 |
+| 3688 | Byakko・双龍GF Arms | 白虎双龍護腕【Ｆ】 |
 | 3689 | Suzaku・双龍G Arms | 朱雀護腕【Ｇ】 |
-| 3690 | Suzaku・双龍GF Arms | 双龍護腕【Ｆ】 |
+| 3690 | Suzaku・双龍GF Arms | 朱雀双龍護腕【Ｆ】 |
 | 3691 | Genbu・双龍G Arms | 玄武護腕【Ｇ】 |
-| 3692 | Genbu・双龍GF Arms | 双龍護腕【Ｆ】 |
+| 3692 | Genbu・双龍GF Arms | 玄武双龍護腕【Ｆ】 |
 | 3693 | Seiryu・双龍G Arms | 青龍護腕【Ｇ】 |
-| 3694 | Seiryu・双龍GF Arms | 双龍護腕【Ｆ】 |
+| 3694 | Seiryu・双龍GF Arms | 青龍双龍護腕【Ｆ】 |
 | 3695 | Byakko・剣王G Arms | 白虎護腕【Ｇ】 |
-| 3696 | Byakko・剣王GF Arms | 剣王護腕【Ｆ】 |
+| 3696 | Byakko・剣王GF Arms | 白虎剣王護腕【Ｆ】 |
 | 3697 | Suzaku・剣王G Arms | 朱雀護腕【Ｇ】 |
-| 3698 | Suzaku・剣王GF Arms | 剣王護腕【Ｆ】 |
+| 3698 | Suzaku・剣王GF Arms | 朱雀剣王護腕【Ｆ】 |
 | 3699 | Genbu・剣王G Arms | 玄武護腕【Ｇ】 |
-| 3700 | Genbu・剣王GF Arms | 剣王護腕【Ｆ】 |
+| 3700 | Genbu・剣王GF Arms | 玄武剣王護腕【Ｆ】 |
 | 3701 | Seiryu・剣王G Arms | 青龍護腕【Ｇ】 |
-| 3702 | Seiryu・剣王GF Arms | 剣王護腕【Ｆ】 |
+| 3702 | Seiryu・剣王GF Arms | 青龍剣王護腕【Ｆ】 |
 | 3703 | Byakko・刀神G Arms | 白虎護腕【Ｇ】 |
-| 3704 | Byakko・刀神GF Arms | 刀神護腕【Ｆ】 |
+| 3704 | Byakko・刀神GF Arms | 白虎刀神護腕【Ｆ】 |
 | 3705 | Suzaku・刀神G Arms | 朱雀護腕【Ｇ】 |
-| 3706 | Suzaku・刀神GF Arms | 刀神護腕【Ｆ】 |
+| 3706 | Suzaku・刀神GF Arms | 朱雀刀神護腕【Ｆ】 |
 | 3707 | Genbu・刀神G Arms | 玄武護腕【Ｇ】 |
-| 3708 | Genbu・刀神GF Arms | 刀神護腕【Ｆ】 |
+| 3708 | Genbu・刀神GF Arms | 玄武刀神護腕【Ｆ】 |
 | 3709 | Seiryu・刀神G Arms | 青龍護腕【Ｇ】 |
-| 3710 | Seiryu・刀神GF Arms | 刀神護腕【Ｆ】 |
+| 3710 | Seiryu・刀神GF Arms | 青龍刀神護腕【Ｆ】 |
 | 3711 | Byakko・Heaven 槍G Arms | 白虎天護腕【Ｇ】 |
-| 3712 | Byakko・Heaven 槍GF Arms | 槍天護腕【Ｆ】 |
+| 3712 | Byakko・Heaven 槍GF Arms | 白虎槍天護腕【Ｆ】 |
 | 3713 | Suzaku・Heaven 槍G Arms | 朱雀天護腕【Ｇ】 |
-| 3714 | Suzaku・Heaven 槍GF Arms | 槍天護腕【Ｆ】 |
+| 3714 | Suzaku・Heaven 槍GF Arms | 朱雀槍天護腕【Ｆ】 |
 | 3715 | Genbu・Heaven 槍G Arms | 玄武天護腕【Ｇ】 |
-| 3716 | Genbu・Heaven 槍GF Arms | 槍天護腕【Ｆ】 |
+| 3716 | Genbu・Heaven 槍GF Arms | 玄武槍天護腕【Ｆ】 |
 | 3717 | Seiryu・Heaven 槍G Arms | 青龍天護腕【Ｇ】 |
-| 3718 | Seiryu・Heaven 槍GF Arms | 槍天護腕【Ｆ】 |
+| 3718 | Seiryu・Heaven 槍GF Arms | 青龍槍天護腕【Ｆ】 |
 | 3719 | Byakko・砲皇G Arms | 白虎護腕【Ｇ】 |
-| 3720 | Byakko・砲皇GF Arms | 砲皇護腕【Ｆ】 |
+| 3720 | Byakko・砲皇GF Arms | 白虎砲皇護腕【Ｆ】 |
 | 3721 | Suzaku・砲皇G Arms | 朱雀護腕【Ｇ】 |
-| 3722 | Suzaku・砲皇GF Arms | 砲皇護腕【Ｆ】 |
+| 3722 | Suzaku・砲皇GF Arms | 朱雀砲皇護腕【Ｆ】 |
 | 3723 | Genbu・砲皇G Arms | 玄武護腕【Ｇ】 |
-| 3724 | Genbu・砲皇GF Arms | 砲皇護腕【Ｆ】 |
+| 3724 | Genbu・砲皇GF Arms | 玄武砲皇護腕【Ｆ】 |
 | 3725 | Seiryu・砲皇G Arms | 青龍護腕【Ｇ】 |
-| 3726 | Seiryu・砲皇GF Arms | 砲皇護腕【Ｆ】 |
+| 3726 | Seiryu・砲皇GF Arms | 青龍砲皇護腕【Ｆ】 |
 | 3727 | Byakko・鈍器獣G Arms | 白虎護腕【Ｇ】 |
-| 3728 | Byakko・鈍器獣GF Arms | 鈍器獣護腕【Ｆ】 |
+| 3728 | Byakko・鈍器獣GF Arms | 白虎鈍器獣護腕【Ｆ】 |
 | 3729 | Suzaku・鈍器獣G Arms | 朱雀護腕【Ｇ】 |
-| 3730 | Suzaku・鈍器獣GF Arms | 鈍器獣護腕【Ｆ】 |
+| 3730 | Suzaku・鈍器獣GF Arms | 朱雀鈍器獣護腕【Ｆ】 |
 | 3731 | Genbu・鈍器獣G Arms | 玄武護腕【Ｇ】 |
-| 3732 | Genbu・鈍器獣GF Arms | 鈍器獣護腕【Ｆ】 |
+| 3732 | Genbu・鈍器獣GF Arms | 玄武鈍器獣護腕【Ｆ】 |
 | 3733 | Seiryu・鈍器獣G Arms | 青龍護腕【Ｇ】 |
-| 3734 | Seiryu・鈍器獣GF Arms | 鈍器獣護腕【Ｆ】 |
+| 3734 | Seiryu・鈍器獣GF Arms | 青龍鈍器獣護腕【Ｆ】 |
 | 3735 | Byakko・奏帝G Arms | 白虎護腕【Ｇ】 |
-| 3736 | Byakko・奏帝GF Arms | 奏帝護腕【Ｆ】 |
+| 3736 | Byakko・奏帝GF Arms | 白虎奏帝護腕【Ｆ】 |
 | 3737 | Suzaku・奏帝G Arms | 朱雀護腕【Ｇ】 |
-| 3738 | Suzaku・奏帝GF Arms | 奏帝護腕【Ｆ】 |
+| 3738 | Suzaku・奏帝GF Arms | 朱雀奏帝護腕【Ｆ】 |
 | 3739 | Genbu・奏帝G Arms | 玄武護腕【Ｇ】 |
-| 3740 | Genbu・奏帝GF Arms | 奏帝護腕【Ｆ】 |
+| 3740 | Genbu・奏帝GF Arms | 玄武奏帝護腕【Ｆ】 |
 | 3741 | Seiryu・奏帝G Arms | 青龍護腕【Ｇ】 |
-| 3742 | Seiryu・奏帝GF Arms | 奏帝護腕【Ｆ】 |
+| 3742 | Seiryu・奏帝GF Arms | 青龍奏帝護腕【Ｆ】 |
 | 3743 | Byakko・銃傑G Guard | 白虎臂甲【Ｇ】 |
-| 3744 | Byakko・銃傑GF Guard | 銃傑臂甲【Ｆ】 |
+| 3744 | Byakko・銃傑GF Guard | 白虎銃傑臂甲【Ｆ】 |
 | 3745 | Suzaku・銃傑G Guard | 朱雀臂甲【Ｇ】 |
-| 3746 | Suzaku・銃傑GF Guard | 銃傑臂甲【Ｆ】 |
+| 3746 | Suzaku・銃傑GF Guard | 朱雀銃傑臂甲【Ｆ】 |
 | 3747 | Genbu・銃傑G Guard | 玄武臂甲【Ｇ】 |
-| 3748 | Genbu・銃傑GF Guard | 銃傑臂甲【Ｆ】 |
+| 3748 | Genbu・銃傑GF Guard | 玄武銃傑臂甲【Ｆ】 |
 | 3749 | Seiryu・銃傑G Guard | 青龍臂甲【Ｇ】 |
-| 3750 | Seiryu・銃傑GF Guard | 銃傑臂甲【Ｆ】 |
+| 3750 | Seiryu・銃傑GF Guard | 青龍銃傑臂甲【Ｆ】 |
 | 3751 | Byakko・銃仙G Guard | 白虎臂甲【Ｇ】 |
-| 3752 | Byakko・銃仙GF Guard | 銃仙臂甲【Ｆ】 |
+| 3752 | Byakko・銃仙GF Guard | 白虎銃仙臂甲【Ｆ】 |
 | 3753 | Suzaku・銃仙G Guard | 朱雀臂甲【Ｇ】 |
-| 3754 | Suzaku・銃仙GF Guard | 銃仙臂甲【Ｆ】 |
+| 3754 | Suzaku・銃仙GF Guard | 朱雀銃仙臂甲【Ｆ】 |
 | 3755 | Genbu・銃仙G Guard | 玄武臂甲【Ｇ】 |
-| 3756 | Genbu・銃仙GF Guard | 銃仙臂甲【Ｆ】 |
+| 3756 | Genbu・銃仙GF Guard | 玄武銃仙臂甲【Ｆ】 |
 | 3757 | Seiryu・銃仙G Guard | 青龍臂甲【Ｇ】 |
-| 3758 | Seiryu・銃仙GF Guard | 銃仙臂甲【Ｆ】 |
+| 3758 | Seiryu・銃仙GF Guard | 青龍銃仙臂甲【Ｆ】 |
 | 3759 | Byakko・Bow 鬼G Guard | 白虎臂甲【Ｇ】 |
 | 3760 | Byakko・Bow 鬼GF Guard | 白虎臂甲【Ｆ】 |
 | 3761 | Suzaku・Bow 鬼G Guard | 朱雀臂甲【Ｇ】 |

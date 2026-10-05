@@ -191,9 +191,9 @@
 | 7685 | Crimson 霞・双龍G Helm | 霞双龍頭兜【Ｇ】・紅 |
 | 7686 | Crimson 霞・双龍GF Helm | 霞双龍頭兜【Ｆ】・紅 |
 | 7687 | Crimson 霞・双龍GX Helm | 霞双龍頭兜【ＧＸ】・紅 |
-| 7688 | Green 穹・双龍G Helm | 穹双龍頭兜・緑 |
+| 7688 | Green 穹・双龍G Helm | 穹双龍頭兜【Ｇ】・緑 |
 | 7689 | Green 穹・双龍GF Helm | 穹双龍頭兜【Ｆ】・緑 |
-| 7690 | Green 穹・双龍GX Helm | 穹双龍頭兜・緑 |
+| 7690 | Green 穹・双龍GX Helm | 穹双龍頭兜【ＧＸ】・緑 |
 | 7691 | White 蘭・剣王 Helm | 蘭剣王頭兜・白 |
 | 7692 | White 蘭・剣王F Helm | 蘭剣王頭兜【Ｆ】・白 |
 | 7693 | White 蘭・剣王FX Helm | 蘭剣王頭兜【ＦＸ】・白 |
@@ -209,9 +209,9 @@
 | 7703 | Crimson 霞・剣王G Helm | 霞剣王頭兜【Ｇ】・紅 |
 | 7704 | Crimson 霞・剣王GF Helm | 霞剣王頭兜【Ｆ】・紅 |
 | 7705 | Crimson 霞・剣王GX Helm | 霞剣王頭兜【ＧＸ】・紅 |
-| 7706 | Green 穹・剣王G Helm | 穹剣王頭兜・緑 |
+| 7706 | Green 穹・剣王G Helm | 穹剣王頭兜【Ｇ】・緑 |
 | 7707 | Green 穹・剣王GF Helm | 穹剣王頭兜【Ｆ】・緑 |
-| 7708 | Green 穹・剣王GX Helm | 穹剣王頭兜・緑 |
+| 7708 | Green 穹・剣王GX Helm | 穹剣王頭兜【ＧＸ】・緑 |
 | 7709 | White 蘭・刀神 Helm | 蘭刀神頭兜・白 |
 | 7710 | White 蘭・刀神F Helm | 蘭刀神頭兜【Ｆ】・白 |
 | 7711 | White 蘭・刀神FX Helm | 蘭刀神頭兜【ＦＸ】・白 |
@@ -227,9 +227,9 @@
 | 7721 | Crimson 霞・刀神G Helm | 霞刀神頭兜【Ｇ】・紅 |
 | 7722 | Crimson 霞・刀神GF Helm | 霞刀神頭兜【Ｆ】・紅 |
 | 7723 | Crimson 霞・刀神GX Helm | 霞刀神頭兜【ＧＸ】・紅 |
-| 7724 | Green 穹・刀神G Helm | 穹刀神頭兜・緑 |
+| 7724 | Green 穹・刀神G Helm | 穹刀神頭兜【Ｇ】・緑 |
 | 7725 | Green 穹・刀神GF Helm | 穹刀神頭兜【Ｆ】・緑 |
-| 7726 | Green 穹・刀神GX Helm | 穹刀神頭兜・緑 |
+| 7726 | Green 穹・刀神GX Helm | 穹刀神頭兜【ＧＸ】・緑 |
 | 7727 | White 蘭・鈍器獣 Helm | 蘭鈍器獣頭兜・白 |
 | 7728 | White 蘭・鈍器獣F Helm | 蘭鈍器獣頭兜【Ｆ】・白 |
 | 7729 | White 蘭・鈍器獣FX Helm | 蘭鈍器獣頭兜【ＦＸ】・白 |
@@ -245,9 +245,9 @@
 | 7739 | Crimson 霞・鈍器獣G Helm | 霞鈍器獣頭兜【Ｇ】・紅 |
 | 7740 | Crimson 霞・鈍器獣GF Helm | 霞鈍器獣頭兜【Ｆ】・紅 |
 | 7741 | Crimson 霞・鈍器獣GX Helm | 霞鈍器獣頭兜【ＧＸ】・紅 |
-| 7742 | Green 穹・鈍器獣G Helm | 穹鈍器獣頭兜・緑 |
+| 7742 | Green 穹・鈍器獣G Helm | 穹鈍器獣頭兜【Ｇ】・緑 |
 | 7743 | Green 穹・鈍器獣GF Helm | 穹鈍器獣頭兜【Ｆ】・緑 |
-| 7744 | Green 穹・鈍器獣GX Helm | 穹鈍器獣頭兜・緑 |
+| 7744 | Green 穹・鈍器獣GX Helm | 穹鈍器獣頭兜【ＧＸ】・緑 |
 | 7745 | White 蘭・奏帝 Helm | 蘭奏帝頭兜・白 |
 | 7746 | White 蘭・奏帝F Helm | 蘭奏帝頭兜【Ｆ】・白 |
 | 7747 | White 蘭・奏帝FX Helm | 蘭奏帝頭兜【ＦＸ】・白 |
@@ -263,9 +263,9 @@
 | 7757 | Crimson 霞・奏帝G Helm | 霞奏帝頭兜【Ｇ】・紅 |
 | 7758 | Crimson 霞・奏帝GF Helm | 霞奏帝頭兜【Ｆ】・紅 |
 | 7759 | Crimson 霞・奏帝GX Helm | 霞奏帝頭兜【ＧＸ】・紅 |
-| 7760 | Green 穹・奏帝G Helm | 穹奏帝頭兜・緑 |
+| 7760 | Green 穹・奏帝G Helm | 穹奏帝頭兜【Ｇ】・緑 |
 | 7761 | Green 穹・奏帝GF Helm | 穹奏帝頭兜【Ｆ】・緑 |
-| 7762 | Green 穹・奏帝GX Helm | 穹奏帝頭兜・緑 |
+| 7762 | Green 穹・奏帝GX Helm | 穹奏帝頭兜【ＧＸ】・緑 |
 | 7763 | White 蘭・Heaven 槍 Helm | 蘭槍天頭兜・白 |
 | 7764 | White 蘭・Heaven 槍F Helm | 蘭槍天頭兜【Ｆ】・白 |
 | 7765 | White 蘭・Heaven 槍FX Helm | 蘭槍天頭兜【ＦＸ】・白 |
@@ -299,9 +299,9 @@
 | 7793 | Crimson 霞・砲皇G Helm | 霞砲皇頭兜【Ｇ】・紅 |
 | 7794 | Crimson 霞・砲皇GF Helm | 霞砲皇頭兜【Ｆ】・紅 |
 | 7795 | Crimson 霞・砲皇GX Helm | 霞砲皇頭兜【ＧＸ】・紅 |
-| 7796 | Green 穹・砲皇G Helm | 穹砲皇頭兜・緑 |
+| 7796 | Green 穹・砲皇G Helm | 穹砲皇頭兜【Ｇ】・緑 |
 | 7797 | Green 穹・砲皇GF Helm | 穹砲皇頭兜【Ｆ】・緑 |
-| 7798 | Green 穹・砲皇GX Helm | 穹砲皇頭兜・緑 |
+| 7798 | Green 穹・砲皇GX Helm | 穹砲皇頭兜【ＧＸ】・緑 |
 | 7799 | White 蘭・穿凰 Helm | 蘭穿凰頭兜・白 |
 | 7800 | White 蘭・穿凰F Helm | 蘭穿凰頭兜【Ｆ】・白 |
 | 7801 | White 蘭・穿凰FX Helm | 蘭穿凰頭兜【ＦＸ】・白 |
@@ -317,9 +317,9 @@
 | 7811 | Crimson 霞・穿凰G Helm | 霞穿凰頭兜【Ｇ】・紅 |
 | 7812 | Crimson 霞・穿凰GF Helm | 霞穿凰頭兜【Ｆ】・紅 |
 | 7813 | Crimson 霞・穿凰GX Helm | 霞穿凰頭兜【ＧＸ】・紅 |
-| 7814 | Green 穹・穿凰G Helm | 穹穿凰頭兜・緑 |
+| 7814 | Green 穹・穿凰G Helm | 穹穿凰頭兜【Ｇ】・緑 |
 | 7815 | Green 穹・穿凰GF Helm | 穹穿凰頭兜【Ｆ】・緑 |
-| 7816 | Green 穹・穿凰GX Helm | 穹穿凰頭兜・緑 |
+| 7816 | Green 穹・穿凰GX Helm | 穹穿凰頭兜【ＧＸ】・緑 |
 | 7817 | White 蘭・銃仙 Mask | 蘭銃仙帽子・白 |
 | 7818 | White 蘭・銃仙F Mask | 蘭銃仙帽子【Ｆ】・白 |
 | 7819 | White 蘭・銃仙FX Mask | 蘭銃仙帽子【ＦＸ】・白 |
@@ -335,9 +335,9 @@
 | 7829 | Crimson 霞・銃仙G Mask | 霞銃仙帽子【Ｇ】・紅 |
 | 7830 | Crimson 霞・銃仙GF Mask | 霞銃仙帽子【Ｆ】・紅 |
 | 7831 | Crimson 霞・銃仙GX Mask | 霞銃仙帽子【ＧＸ】・紅 |
-| 7832 | Green 穹・銃仙G Mask | 穹銃仙帽子・緑 |
+| 7832 | Green 穹・銃仙G Mask | 穹銃仙帽子【Ｇ】・緑 |
 | 7833 | Green 穹・銃仙GF Mask | 穹銃仙帽子【Ｆ】・緑 |
-| 7834 | Green 穹・銃仙GX Mask | 穹銃仙帽子・緑 |
+| 7834 | Green 穹・銃仙GX Mask | 穹銃仙帽子【ＧＸ】・緑 |
 | 7835 | White 蘭・銃傑 Mask | 蘭銃傑帽子・白 |
 | 7836 | White 蘭・銃傑F Mask | 蘭銃傑帽子【Ｆ】・白 |
 | 7837 | White 蘭・銃傑FX Mask | 蘭銃傑帽子【ＦＸ】・白 |
@@ -353,9 +353,9 @@
 | 7847 | Crimson 霞・銃傑G Mask | 霞銃傑帽子【Ｇ】・紅 |
 | 7848 | Crimson 霞・銃傑GF Mask | 霞銃傑帽子【Ｆ】・紅 |
 | 7849 | Crimson 霞・銃傑GX Mask | 霞銃傑帽子【ＧＸ】・紅 |
-| 7850 | Green 穹・銃傑G Mask | 穹銃傑帽子・緑 |
+| 7850 | Green 穹・銃傑G Mask | 穹銃傑帽子【Ｇ】・緑 |
 | 7851 | Green 穹・銃傑GF Mask | 穹銃傑帽子【Ｆ】・緑 |
-| 7852 | Green 穹・銃傑GX Mask | 穹銃傑帽子・緑 |
+| 7852 | Green 穹・銃傑GX Mask | 穹銃傑帽子【ＧＸ】・緑 |
 | 7853 | White 蘭・Bow 鬼 Mask | 蘭鬼帽子・白 |
 | 7854 | White 蘭・Bow 鬼F Mask | 蘭鬼帽子【Ｆ】・白 |
 | 7855 | White 蘭・Bow 鬼FX Mask | 蘭鬼帽子【ＦＸ】・白 |

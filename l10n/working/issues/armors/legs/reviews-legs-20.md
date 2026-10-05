@@ -154,16 +154,16 @@
 | 9648 | Rutile F Greaves | 爾烏特伊護腿【Ｆ】 |
 | 9649 | Rutile FX Greaves | 爾烏特伊護腿【ＦＸ】 |
 | 9650 | Byakko・斬将G Feet | 白虎足【Ｇ】 |
-| 9651 | Byakko・斬将GF Feet | 斬将足【Ｆ】 |
+| 9651 | Byakko・斬将GF Feet | 白虎斬将足【Ｆ】 |
 | 9652 | Byakko・斬将GX Feet | 白虎足【ＧＸ】 |
 | 9653 | Suzaku・斬将G Feet | 朱雀足【Ｇ】 |
-| 9654 | Suzaku・斬将GF Feet | 斬将足【Ｆ】 |
+| 9654 | Suzaku・斬将GF Feet | 朱雀斬将足【Ｆ】 |
 | 9655 | Suzaku・斬将GX Feet | 朱雀足【ＧＸ】 |
 | 9656 | Genbu・斬将G Feet | 玄武足【Ｇ】 |
-| 9657 | Genbu・斬将GF Feet | 斬将足【Ｆ】 |
+| 9657 | Genbu・斬将GF Feet | 玄武斬将足【Ｆ】 |
 | 9658 | Genbu・斬将GX Feet | 玄武足【ＧＸ】 |
 | 9659 | Seiryu・斬将G Feet | 青龍足【Ｇ】 |
-| 9660 | Seiryu・斬将GF Feet | 斬将足【Ｆ】 |
+| 9660 | Seiryu・斬将GF Feet | 青龍斬将足【Ｆ】 |
 | 9661 | Seiryu・斬将GX Feet | 青龍足【ＧＸ】 |
 | 9662 | White 蘭・斬将 Feet | 蘭斬将足・白 |
 | 9663 | White 蘭・斬将F Feet | 蘭斬将足【Ｆ】・白 |
@@ -180,9 +180,9 @@
 | 9674 | Crimson 霞・斬将G Feet | 霞斬将足【Ｇ】・紅 |
 | 9675 | Crimson 霞・斬将GF Feet | 霞斬将足【Ｆ】・紅 |
 | 9676 | Crimson 霞・斬将GX Feet | 霞斬将足【ＧＸ】・紅 |
-| 9677 | Green 穹・斬将G Feet | 穹斬将足・緑 |
+| 9677 | Green 穹・斬将G Feet | 穹斬将足【Ｇ】・緑 |
 | 9678 | Green 穹・斬将GF Feet | 穹斬将足【Ｆ】・緑 |
-| 9679 | Green 穹・斬将GX Feet | 穹斬将足・緑 |
+| 9679 | Green 穹・斬将GX Feet | 穹斬将足【ＧＸ】・緑 |
 | 9680 | Guan Greaves | 關護腿 |
 | 9681 | Guan F Greaves | 關護腿【Ｆ】 |
 | 9682 | Guan FX Greaves | 關護腿【ＦＸ】 |

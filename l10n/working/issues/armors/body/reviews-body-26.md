@@ -40,7 +40,7 @@
 | 12534 | ダミー | (dummy) |
 | 12535 | ダミー | (dummy) |
 | 12536 | ダミー | (dummy) |
-| 12537 | Brave ZX Jacket | 布阿芙艾夾克【ＺＸ】 |
+| 12537 | Brave ZX Jacket | 勇者夾克【ＺＸ】 |
 | 12538 | Bogabado Z Mail | 布歐格阿鎧甲【Ｚ】 |
 | 12539 | Bogabado ZF Mail | 布歐格阿鎧甲【ＺＦ】 |
 | 12540 | Bogabado ZY Mail | 布歐格阿鎧甲【ＺＹ】 |
@@ -70,16 +70,16 @@
 | 12564 | Hematite F Mail | 赫艾姆阿鎧甲【Ｆ】 |
 | 12565 | Hematite FX Mail | 赫艾姆阿鎧甲【ＦＸ】 |
 | 12566 | Byakko・磁星G Mail | 白虎鎧甲【Ｇ】 |
-| 12567 | Byakko・磁星GF Mail | 磁星鎧甲【Ｆ】 |
+| 12567 | Byakko・磁星GF Mail | 白虎磁星鎧甲【Ｆ】 |
 | 12568 | Byakko・磁星GX Mail | 白虎鎧甲【ＧＸ】 |
 | 12569 | Suzaku・磁星G Mail | 朱雀鎧甲【Ｇ】 |
-| 12570 | Suzaku・磁星GF Mail | 磁星鎧甲【Ｆ】 |
+| 12570 | Suzaku・磁星GF Mail | 朱雀磁星鎧甲【Ｆ】 |
 | 12571 | Suzaku・磁星GX Mail | 朱雀鎧甲【ＧＸ】 |
 | 12572 | Genbu・磁星G Mail | 玄武鎧甲【Ｇ】 |
-| 12573 | Genbu・磁星GF Mail | 磁星鎧甲【Ｆ】 |
+| 12573 | Genbu・磁星GF Mail | 玄武磁星鎧甲【Ｆ】 |
 | 12574 | Genbu・磁星GX Mail | 玄武鎧甲【ＧＸ】 |
 | 12575 | Seiryu・磁星G Mail | 青龍鎧甲【Ｇ】 |
-| 12576 | Seiryu・磁星GF Mail | 磁星鎧甲【Ｆ】 |
+| 12576 | Seiryu・磁星GF Mail | 青龍磁星鎧甲【Ｆ】 |
 | 12577 | Seiryu・磁星GX Mail | 青龍鎧甲【ＧＸ】 |
 | 12578 | White 蘭・磁星 Mail | 蘭磁星鎧甲・白 |
 | 12579 | White 蘭・磁星F Mail | 蘭磁星鎧甲【Ｆ】・白 |
@@ -96,9 +96,9 @@
 | 12590 | 月夜・磁星G Mail | 月夜磁星鎧甲【Ｇ】 |
 | 12591 | 月夜・磁星GF Mail | 月夜磁星鎧甲【Ｆ】 |
 | 12592 | 月夜・磁星GX Mail | 月夜磁星鎧甲【ＧＸ】 |
-| 12593 | Green 穹・磁星G Mail | 穹磁星鎧甲・緑 |
+| 12593 | Green 穹・磁星G Mail | 穹磁星鎧甲【Ｇ】・緑 |
 | 12594 | Green 穹・磁星GF Mail | 穹磁星鎧甲【Ｆ】・緑 |
-| 12595 | Green 穹・磁星GX Mail | 穹磁星鎧甲・緑 |
+| 12595 | Green 穹・磁星GX Mail | 穹磁星鎧甲【ＧＸ】・緑 |
 | 12596 | Masaha Dress [Haori] Red | 真砂禮服羽織・赤 |
 | 12597 | Masaha Dress F [Haori] Red | 真砂禮服羽織【Ｆ】・赤 |
 | 12598 | Masaha Dress FZ [Haori] Red | 真砂禮服羽織【ＦＺ】・赤 |
@@ -168,24 +168,24 @@
 | 12662 | Masaha Dress D [Haori] Silver | 姆阿斯阿羽織・銀 |
 | 12663 | Masaha Dress D [Haori] Blue | 姆阿斯阿羽織・青 |
 | 12664 | Masaha Dress D [Haori] Orange | 姆阿斯阿羽織・橙 |
-| 12665 | Genbu・Kensei D Mail | 格艾恩烏鎧甲 |
-| 12666 | Genbu・双龍D Mail | 双龍鎧甲 |
-| 12667 | Genbu・剣王D Mail | 剣王鎧甲 |
-| 12668 | Genbu・刀神D Mail | 刀神鎧甲 |
-| 12669 | Genbu・Heaven 槍D Mail | 槍天鎧甲 |
-| 12670 | Genbu・砲皇D Mail | 砲皇鎧甲 |
-| 12671 | Genbu・鈍器獣D Mail | 鈍器獣鎧甲 |
-| 12672 | Genbu・奏帝D Mail | 奏帝鎧甲 |
-| 12673 | Genbu・穿凰D Mail | 穿凰鎧甲 |
-| 12674 | Genbu・斬将D Mail | 斬将鎧甲 |
-| 12675 | Genbu・銃傑D Suit | 銃傑套裝 |
-| 12676 | Genbu・銃仙D Suit | 銃仙套裝 |
+| 12665 | Genbu・Kensei D Mail | 玄武格艾恩烏鎧甲 |
+| 12666 | Genbu・双龍D Mail | 玄武双龍鎧甲 |
+| 12667 | Genbu・剣王D Mail | 玄武剣王鎧甲 |
+| 12668 | Genbu・刀神D Mail | 玄武刀神鎧甲 |
+| 12669 | Genbu・Heaven 槍D Mail | 玄武槍天鎧甲 |
+| 12670 | Genbu・砲皇D Mail | 玄武砲皇鎧甲 |
+| 12671 | Genbu・鈍器獣D Mail | 玄武鈍器獣鎧甲 |
+| 12672 | Genbu・奏帝D Mail | 玄武奏帝鎧甲 |
+| 12673 | Genbu・穿凰D Mail | 玄武穿凰鎧甲 |
+| 12674 | Genbu・斬将D Mail | 玄武斬将鎧甲 |
+| 12675 | Genbu・銃傑D Suit | 玄武銃傑套裝 |
+| 12676 | Genbu・銃仙D Suit | 玄武銃仙套裝 |
 | 12677 | Genbu・Bow 鬼D Suit | 玄武套裝 |
 | 12678 | Tanzanite D Mail | 特阿恩阿鎧甲 |
 | 12679 | Hematite D Mail | 赫艾姆阿鎧甲 |
-| 12680 | Byakko・磁星D Mail | 磁星鎧甲 |
-| 12681 | Suzaku・磁星D Mail | 磁星鎧甲 |
-| 12682 | Genbu・磁星D Mail | 磁星鎧甲 |
+| 12680 | Byakko・磁星D Mail | 白虎磁星鎧甲 |
+| 12681 | Suzaku・磁星D Mail | 朱雀磁星鎧甲 |
+| 12682 | Genbu・磁星D Mail | 玄武磁星鎧甲 |
 | 12683 | Tigrex Mail PD Black | 轟龍鎧甲【ＰＤ】・黑 |
 | 12684 | Tigrex Mail PD White | 轟龍鎧甲【ＰＤ】・白 |
 | 12685 | Tigrex Mail PD Purple | 轟龍鎧甲【ＰＤ】・紫 |
@@ -312,9 +312,9 @@
 | 12806 | Arma D Vest・White | 阿爾阿斯背心・白 |
 | 12807 | Arma D Vest・Blue | 阿爾阿斯背心・青 |
 | 12808 | Arma D Vest・Tea | 阿爾阿斯背心・茶 |
-| 12809 | Honour D Mail・Red | 赫歐恩歐鎧甲・赤 |
-| 12810 | Honour D Mail・Blue | 赫歐恩歐鎧甲・青 |
-| 12811 | Honour D Mail・Green | 赫歐恩歐鎧甲・緑 |
+| 12809 | Honour D Mail・Red | 榮譽鎧甲・赤 |
+| 12810 | Honour D Mail・Blue | 榮譽鎧甲・青 |
+| 12811 | Honour D Mail・Green | 榮譽鎧甲・緑 |
 | 12812 | Honour D Mail・紺 | 紺鎧甲 |
 | 12813 | Pics D Vest・Green | 皮克斯背心・緑 |
 | 12814 | Pics D Vest・Purple | 皮克斯背心・紫 |

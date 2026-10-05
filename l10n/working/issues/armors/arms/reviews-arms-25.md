@@ -205,7 +205,7 @@
 | 12199 | Revenants ZP Grip | 亡靈握套【ＺＰ】 |
 | 12200 | Revenants ZP Grasp | 亡靈抓握【ＺＰ】 |
 | 12201 | Saine D Arms | 斯阿恩艾護腕 |
-| 12202 | Wing D Arms | 沃伊恩護腕 |
+| 12202 | Wing D Arms | 翼護腕 |
 | 12203 | Gasura ZD Arms | 怒貌龍護腕 |
 | 12204 | Gasura ZD Guard | 怒貌龍臂甲 |
 | 12205 | Seregios C Arms | 斯艾爾艾護腕 |
@@ -218,18 +218,18 @@
 | 12212 | Noel D Arms | 恩歐爾護腕 |
 | 12213 | Bune D Arms | 布烏恩艾護腕 |
 | 12214 | Melas D Guard | 姆艾爾阿臂甲 |
-| 12215 | Byakko・Kensei D Arms | 布阿克歐護腕 |
-| 12216 | Byakko・双龍D Arms | 双龍護腕 |
-| 12217 | Byakko・剣王D Arms | 剣王護腕 |
-| 12218 | Byakko・刀神D Arms | 刀神護腕 |
-| 12219 | Byakko・Heaven 槍D Arms | 槍天護腕 |
-| 12220 | Byakko・砲皇D Arms | 砲皇護腕 |
-| 12221 | Byakko・鈍器獣D Arms | 鈍器獣護腕 |
-| 12222 | Byakko・奏帝D Arms | 奏帝護腕 |
-| 12223 | Byakko・穿凰D Arms | 穿凰護腕 |
-| 12224 | Byakko・斬将D Arms | 斬将護腕 |
-| 12225 | Byakko・銃傑D Guard | 銃傑臂甲 |
-| 12226 | Byakko・銃仙D Guard | 銃仙臂甲 |
+| 12215 | Byakko・Kensei D Arms | 白虎布阿克歐護腕 |
+| 12216 | Byakko・双龍D Arms | 白虎双龍護腕 |
+| 12217 | Byakko・剣王D Arms | 白虎剣王護腕 |
+| 12218 | Byakko・刀神D Arms | 白虎刀神護腕 |
+| 12219 | Byakko・Heaven 槍D Arms | 白虎槍天護腕 |
+| 12220 | Byakko・砲皇D Arms | 白虎砲皇護腕 |
+| 12221 | Byakko・鈍器獣D Arms | 白虎鈍器獣護腕 |
+| 12222 | Byakko・奏帝D Arms | 白虎奏帝護腕 |
+| 12223 | Byakko・穿凰D Arms | 白虎穿凰護腕 |
+| 12224 | Byakko・斬将D Arms | 白虎斬将護腕 |
+| 12225 | Byakko・銃傑D Guard | 白虎銃傑臂甲 |
+| 12226 | Byakko・銃仙D Guard | 白虎銃仙臂甲 |
 | 12227 | Byakko・Bow 鬼D Guard | 白虎臂甲 |
 | 12228 | Kirin Arms PD Red | 麒麟護腕【ＰＤ】・赤 |
 | 12229 | Kirin Arms PD Purple | 麒麟護腕【ＰＤ】・紫 |
@@ -263,18 +263,18 @@
 | 12257 | Kukubo D Guard | 克烏克烏臂甲 |
 | 12258 | Kakabu D Guard | 克阿克阿臂甲 |
 | 12259 | Aruru D Guard | 阿爾烏爾臂甲 |
-| 12260 | Suzaku・Kensei D Arms | 斯烏茲阿護腕 |
-| 12261 | Suzaku・双龍D Arms | 双龍護腕 |
-| 12262 | Suzaku・剣王D Arms | 剣王護腕 |
-| 12263 | Suzaku・刀神D Arms | 刀神護腕 |
-| 12264 | Suzaku・Heaven 槍D Arms | 槍天護腕 |
-| 12265 | Suzaku・砲皇D Arms | 砲皇護腕 |
-| 12266 | Suzaku・鈍器獣D Arms | 鈍器獣護腕 |
-| 12267 | Suzaku・奏帝D Arms | 奏帝護腕 |
-| 12268 | Suzaku・穿凰D Arms | 穿凰護腕 |
-| 12269 | Suzaku・斬将D Arms | 斬将護腕 |
-| 12270 | Suzaku・銃傑D Guard | 銃傑臂甲 |
-| 12271 | Suzaku・銃仙D Guard | 銃仙臂甲 |
+| 12260 | Suzaku・Kensei D Arms | 朱雀斯烏茲阿護腕 |
+| 12261 | Suzaku・双龍D Arms | 朱雀双龍護腕 |
+| 12262 | Suzaku・剣王D Arms | 朱雀剣王護腕 |
+| 12263 | Suzaku・刀神D Arms | 朱雀刀神護腕 |
+| 12264 | Suzaku・Heaven 槍D Arms | 朱雀槍天護腕 |
+| 12265 | Suzaku・砲皇D Arms | 朱雀砲皇護腕 |
+| 12266 | Suzaku・鈍器獣D Arms | 朱雀鈍器獣護腕 |
+| 12267 | Suzaku・奏帝D Arms | 朱雀奏帝護腕 |
+| 12268 | Suzaku・穿凰D Arms | 朱雀穿凰護腕 |
+| 12269 | Suzaku・斬将D Arms | 朱雀斬将護腕 |
+| 12270 | Suzaku・銃傑D Guard | 朱雀銃傑臂甲 |
+| 12271 | Suzaku・銃仙D Guard | 朱雀銃仙臂甲 |
 | 12272 | Suzaku・Bow 鬼D Guard | 朱雀臂甲 |
 | 12273 | G・Knight Cuffs PD Red | 騎士護腕【ＰＤ】・赤 |
 | 12274 | G・Knight Cuffs PD Blue | 騎士護腕【ＰＤ】・青 |

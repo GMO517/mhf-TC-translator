@@ -30,8 +30,8 @@
 | 12024 | Ridere D Coil | 爾伊德艾腰甲 |
 | 12025 | Riot D Faulds | 爾伊特腰甲 |
 | 12026 | Rutare D Faulds | 爾烏特阿腰甲 |
-| 12027 | Rolling Flow Waist て・D | て腰甲 |
-| 12028 | Rolling Sky Waist て・D | て腰甲 |
+| 12027 | Rolling Flow Waist て・D | 爾歐爾伊腰甲 |
+| 12028 | Rolling Sky Waist て・D | 滾天腰甲 |
 | 12029 | Cubie D Coil | 克烏布伊腰甲 |
 | 12030 | Kemor D Coil | 克艾姆歐腰甲 |
 | 12031 | Latria D Coil | 爾阿特伊腰甲 |
@@ -164,20 +164,20 @@
 | 12158 | Dragon Slayer Armor GS・Waistband | 屠龍腰帶【ＧＳ】 |
 | 12159 | Dragon Slayer Armor GP・Waistband | 屠龍腰帶【ＧＰ】 |
 | 12160 | Dragon Slayer Armor ZP・Waistband | 屠龍腰帶【ＺＰ】 |
-| 12161 | Rebellion Armour・Waist | 爾艾布艾腰甲 |
-| 12162 | Rebellion Armour F・Waist | 爾艾布艾腰甲【Ｆ】 |
-| 12163 | Rebellion Armour FZ・Waist | 爾艾布艾腰甲【ＦＺ】 |
-| 12164 | Rebellion Armour HS・Waist | 爾艾布艾腰甲【ＨＳ】 |
-| 12165 | Rebellion Armour GS・Waist | 爾艾布艾腰甲【ＧＳ】 |
-| 12166 | Rebellion Armour GP・Waist | 爾艾布艾腰甲【ＧＰ】 |
-| 12167 | Rebellion Armour ZP・Waist | 爾艾布艾腰甲【ＺＰ】 |
-| 12168 | Rebellion Armour・Waistband | 爾艾布艾腰帶 |
-| 12169 | Rebellion Armour F・Waistband | 爾艾布艾腰帶【Ｆ】 |
-| 12170 | Rebellion Armour FZ・Waistband | 爾艾布艾腰帶【ＦＺ】 |
-| 12171 | Rebellion Armour HS・Waistband | 爾艾布艾腰帶【ＨＳ】 |
-| 12172 | Rebellion Armour GS・Waistband | 爾艾布艾腰帶【ＧＳ】 |
-| 12173 | Rebellion Armour GP・Waistband | 爾艾布艾腰帶【ＧＰ】 |
-| 12174 | Rebellion Armour ZP・Waistband | 爾艾布艾腰帶【ＺＰ】 |
+| 12161 | Rebellion Armour・Waist | 叛逆鎧腰甲 |
+| 12162 | Rebellion Armour F・Waist | 叛逆鎧腰甲【Ｆ】 |
+| 12163 | Rebellion Armour FZ・Waist | 叛逆鎧腰甲【ＦＺ】 |
+| 12164 | Rebellion Armour HS・Waist | 叛逆鎧腰甲【ＨＳ】 |
+| 12165 | Rebellion Armour GS・Waist | 叛逆鎧腰甲【ＧＳ】 |
+| 12166 | Rebellion Armour GP・Waist | 叛逆鎧腰甲【ＧＰ】 |
+| 12167 | Rebellion Armour ZP・Waist | 叛逆鎧腰甲【ＺＰ】 |
+| 12168 | Rebellion Armour・Waistband | 叛逆鎧腰帶 |
+| 12169 | Rebellion Armour F・Waistband | 叛逆鎧腰帶【Ｆ】 |
+| 12170 | Rebellion Armour FZ・Waistband | 叛逆鎧腰帶【ＦＺ】 |
+| 12171 | Rebellion Armour HS・Waistband | 叛逆鎧腰帶【ＨＳ】 |
+| 12172 | Rebellion Armour GS・Waistband | 叛逆鎧腰帶【ＧＳ】 |
+| 12173 | Rebellion Armour GP・Waistband | 叛逆鎧腰帶【ＧＰ】 |
+| 12174 | Rebellion Armour ZP・Waistband | 叛逆鎧腰帶【ＺＰ】 |
 | 12175 | Dinato ZP Faulds | 迪納托腰甲【ＺＰ】 |
 | 12176 | Dinato ZP Coat | 迪納托腰衣【ＺＰ】 |
 | 12177 | Duque ZP Faulds | 公爵腰甲【ＺＰ】 |
@@ -197,10 +197,10 @@
 | 12191 | Straza D Faulds | 斯阿茲阿腰甲 |
 | 12192 | Renka Obi C | 爾艾恩阿帶 |
 | 12193 | VM Equipment D | 芙艾斯烏腰甲 |
-| 12194 | Twelve Paladins' Armor D・Waist | 特艾爾艾腰甲 |
-| 12195 | Holy Maiden Armor D・Waist | 赫歐爾阿腰甲 |
+| 12194 | Twelve Paladins' Armor D・Waist | 十二聖騎鎧腰甲 |
+| 12195 | Holy Maiden Armor D・Waist | 聖女鎧腰甲 |
 | 12196 | Dragon Slayer Armor D・Waist | 屠龍腰甲 |
-| 12197 | Rebellion Armour D・Waist | 爾艾布艾腰甲 |
+| 12197 | Rebellion Armour D・Waist | 叛逆鎧腰甲 |
 | 12198 | Dinato D Faulds | 德伊恩阿腰甲 |
 | 12199 | Duque D Faulds | 德烏斯烏腰甲 |
 | 12200 | Granu D Faulds | 格阿恩烏腰甲 |
@@ -214,7 +214,7 @@
 | 12208 | Pyrope D Coil | 普歐普艾腰甲 |
 | 12209 | アイオラD Coil | 阿伊歐拉腰甲 |
 | 12210 | Rutile D Coil | 爾烏特伊腰甲 |
-| 12211 | Blood D Coil | 布歐德腰甲 |
+| 12211 | Blood D Coil | 血腰甲 |
 | 12212 | Citrine D Coat | 克伊特伊腰衣 |
 | 12213 | Peridot D Coat | 普艾爾伊腰衣 |
 | 12214 | Turquoise D Coat | 特烏爾烏腰衣 |
@@ -460,7 +460,7 @@
 | 12454 | 祭のあとに【負け犬】 | 負け犬祭のあとに腰甲 |
 | 12455 | 祭のあとに【負け犬】 | 負け犬祭のあとに腰甲 |
 | 12456 | Saine D Coil | 斯阿恩艾腰甲 |
-| 12457 | Wing D Faulds | 沃伊恩腰甲 |
+| 12457 | Wing D Faulds | 翼腰甲 |
 | 12458 | Gasura ZD Coil | 怒貌龍腰甲 |
 | 12459 | Gasura ZD Coat | 怒貌龍腰衣 |
 | 12460 | Seregios C Faulds | 斯艾爾艾腰甲 |
@@ -473,18 +473,18 @@
 | 12467 | Noel D Coil | 恩歐爾腰甲 |
 | 12468 | Bune D Coil | 布烏恩艾腰甲 |
 | 12469 | Melas D Coat | 姆艾爾阿腰衣 |
-| 12470 | Byakko・Kensei D Coil | 布阿克歐腰甲 |
-| 12471 | Byakko・双龍D Coil | 双龍腰甲 |
-| 12472 | Byakko・剣王D Coil | 剣王腰甲 |
-| 12473 | Byakko・刀神D Coil | 刀神腰甲 |
-| 12474 | Byakko・Heaven 槍D Coil | 槍天腰甲 |
-| 12475 | Byakko・砲皇D Coil | 砲皇腰甲 |
-| 12476 | Byakko・鈍器獣D Coil | 鈍器獣腰甲 |
-| 12477 | Byakko・奏帝D Coil | 奏帝腰甲 |
-| 12478 | Byakko・穿凰D Coil | 穿凰腰甲 |
-| 12479 | Byakko・斬将D Coil | 斬将腰甲 |
-| 12480 | Byakko・銃傑D Coat | 銃傑腰衣 |
-| 12481 | Byakko・銃仙D Coat | 銃仙腰衣 |
+| 12470 | Byakko・Kensei D Coil | 白虎布阿克歐腰甲 |
+| 12471 | Byakko・双龍D Coil | 白虎双龍腰甲 |
+| 12472 | Byakko・剣王D Coil | 白虎剣王腰甲 |
+| 12473 | Byakko・刀神D Coil | 白虎刀神腰甲 |
+| 12474 | Byakko・Heaven 槍D Coil | 白虎槍天腰甲 |
+| 12475 | Byakko・砲皇D Coil | 白虎砲皇腰甲 |
+| 12476 | Byakko・鈍器獣D Coil | 白虎鈍器獣腰甲 |
+| 12477 | Byakko・奏帝D Coil | 白虎奏帝腰甲 |
+| 12478 | Byakko・穿凰D Coil | 白虎穿凰腰甲 |
+| 12479 | Byakko・斬将D Coil | 白虎斬将腰甲 |
+| 12480 | Byakko・銃傑D Coat | 白虎銃傑腰衣 |
+| 12481 | Byakko・銃仙D Coat | 白虎銃仙腰衣 |
 | 12482 | Byakko・Bow 鬼D Coat | 白虎腰衣 |
 | 12483 | Kirin フープ PD Red | 麒麟腰甲【ＰＤ】・赤 |
 | 12484 | Kirin フープ PD Purple | 麒麟腰甲【ＰＤ】・紫 |
@@ -495,12 +495,12 @@
 | 12489 | Kaiser Coat PD Black | 帝王腰衣【ＰＤ】・黑 |
 | 12490 | Kaiser Coil PD Green | 帝王腰甲【ＰＤ】・緑 |
 | 12491 | Kaiser Coat PD Green | 帝王腰衣【ＰＤ】・緑 |
-| 12492 | Mizuha 【丸 Obi 】 PD Blue | 水羽腰甲【ＰＤ】 |
-| 12493 | Mizuha 【丸 Obi 】 PD Red | 水羽腰甲【ＰＤ】 |
-| 12494 | Mizuha 【丸 Obi 】 PD Yellow | 水羽腰甲【ＰＤ】 |
-| 12495 | Toyotama 【丸 Obi 】 PD Blue | 豐玉腰甲【ＰＤ】 |
-| 12496 | Toyotama 【丸 Obi 】 PD Red | 豐玉腰甲【ＰＤ】 |
-| 12497 | Toyotama 【丸 Obi 】 PD Yellow | 豐玉腰甲【ＰＤ】 |
+| 12492 | Mizuha 【丸 Obi 】 PD Blue | 水羽腰甲【ＰＤ】・青 |
+| 12493 | Mizuha 【丸 Obi 】 PD Red | 水羽腰甲【ＰＤ】・赤 |
+| 12494 | Mizuha 【丸 Obi 】 PD Yellow | 水羽腰甲【ＰＤ】・黄 |
+| 12495 | Toyotama 【丸 Obi 】 PD Blue | 豐玉腰甲【ＰＤ】・青 |
+| 12496 | Toyotama 【丸 Obi 】 PD Red | 豐玉腰甲【ＰＤ】・赤 |
+| 12497 | Toyotama 【丸 Obi 】 PD Yellow | 豐玉腰甲【ＰＤ】・黄 |
 | 12498 | 暁丸【腰当て】 PD Red | 暁丸腰當【ＰＤ】・赤 |
 | 12499 | 暁丸【腰当て】 PD Purple | 暁丸腰當【ＰＤ】・紫 |
 | 12500 | 暁丸【腰当て】 PD White | 暁丸腰當【ＰＤ】・白 |

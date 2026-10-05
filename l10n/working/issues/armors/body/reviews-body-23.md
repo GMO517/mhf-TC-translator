@@ -108,7 +108,7 @@
 | 11102 | YoRHa No.9 Type S D Vest | 寄葉九號型背心【Ｓ】 |
 | 11103 | YoRHa No.2 Type B D Vest | 寄葉二號Ｂ型背心 |
 | 11104 | トリートC Jacket | 托里托夾克 |
-| 11105 | Craft C Mail | 克阿芙鎧甲 |
+| 11105 | Craft C Mail | 工匠鎧甲 |
 | 11106 | Cielo C Mail | 克伊爾歐鎧甲 |
 | 11107 | Felyne C Mail | 艾路猫鎧甲 |
 | 11108 | Akahara Reisou GN Chest D Red | 阿克阿赫胸甲・赤 |
@@ -183,13 +183,13 @@
 | 11177 | Zakka GS Vest | 札可背心【ＧＳ】 |
 | 11178 | Zakka GP Vest | 札可背心【ＧＰ】 |
 | 11179 | Zakka ZP Vest | 札可背心【ＺＰ】 |
-| 11180 | Sword Hero Suit | 斯歐爾艾套裝 |
-| 11181 | Sword Hero F Suit | 斯歐爾艾套裝【Ｆ】 |
-| 11182 | Sword Hero FZ Suit | 斯歐爾艾套裝【ＦＺ】 |
-| 11183 | Sword Hero HS Suit | 斯歐爾艾套裝【ＨＳ】 |
-| 11184 | Sword Hero GS Suit | 斯歐爾艾套裝【ＧＳ】 |
-| 11185 | Sword Hero GP Suit | 斯歐爾艾套裝【ＧＰ】 |
-| 11186 | Sword Hero ZP Suit | 斯歐爾艾套裝【ＺＰ】 |
+| 11180 | Sword Hero Suit | 劍之英雄套裝 |
+| 11181 | Sword Hero F Suit | 劍之英雄套裝【Ｆ】 |
+| 11182 | Sword Hero FZ Suit | 劍之英雄套裝【ＦＺ】 |
+| 11183 | Sword Hero HS Suit | 劍之英雄套裝【ＨＳ】 |
+| 11184 | Sword Hero GS Suit | 劍之英雄套裝【ＧＳ】 |
+| 11185 | Sword Hero GP Suit | 劍之英雄套裝【ＧＰ】 |
+| 11186 | Sword Hero ZP Suit | 劍之英雄套裝【ＺＰ】 |
 | 11187 | Twin Star Suit | 雙星套裝 |
 | 11188 | Twin Star F Suit | 雙星套裝【Ｆ】 |
 | 11189 | Twin Star FZ Suit | 雙星套裝【ＦＺ】 |
@@ -218,13 +218,13 @@
 | 11212 | Riot Hammer GS Suit | 爾伊特阿套裝【ＧＳ】 |
 | 11213 | Riot Hammer GP Suit | 爾伊特阿套裝【ＧＰ】 |
 | 11214 | Riot Hammer ZP Suit | 爾伊特阿套裝【ＺＰ】 |
-| 11215 | Song Horn Suit | 斯歐恩歐套裝 |
-| 11216 | Song Horn F Suit | 斯歐恩歐套裝【Ｆ】 |
-| 11217 | Song Horn FZ Suit | 斯歐恩歐套裝【ＦＺ】 |
-| 11218 | Song Horn HS Suit | 斯歐恩歐套裝【ＨＳ】 |
-| 11219 | Song Horn GS Suit | 斯歐恩歐套裝【ＧＳ】 |
-| 11220 | Song Horn GP Suit | 斯歐恩歐套裝【ＧＰ】 |
-| 11221 | Song Horn ZP Suit | 斯歐恩歐套裝【ＺＰ】 |
+| 11215 | Song Horn Suit | 歌角套裝 |
+| 11216 | Song Horn F Suit | 歌角套裝【Ｆ】 |
+| 11217 | Song Horn FZ Suit | 歌角套裝【ＦＺ】 |
+| 11218 | Song Horn HS Suit | 歌角套裝【ＨＳ】 |
+| 11219 | Song Horn GS Suit | 歌角套裝【ＧＳ】 |
+| 11220 | Song Horn GP Suit | 歌角套裝【ＧＰ】 |
+| 11221 | Song Horn ZP Suit | 歌角套裝【ＺＰ】 |
 | 11222 | Crush Lance Suit | 克烏夏阿套裝 |
 | 11223 | Crush Lance F Suit | 克烏夏阿套裝【Ｆ】 |
 | 11224 | Crush Lance FZ Suit | 克烏夏阿套裝【ＦＺ】 |

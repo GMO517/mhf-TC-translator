@@ -283,7 +283,7 @@
 | 3777 | ダミー | (dummy) |
 | 3778 | ダミー | (dummy) |
 | 3779 | ダミー | (dummy) |
-| 3780 | Hope Helm | 赫歐普艾頭兜 |
+| 3780 | Hope Helm | 希望頭兜 |
 | 3781 | エミット Helm | 艾米托頭兜 |
 | 3782 | エミットF Helm | 艾米托頭兜【Ｆ】 |
 | 3783 | エミットFX Helm | 艾米托頭兜【ＦＸ】 |
@@ -356,10 +356,10 @@
 | 3850 | Khezu GF Helm | 奇怪龍頭兜【ＧＦ】 |
 | 3851 | Khezu G Cap | 奇怪龍兜帽【Ｇ】 |
 | 3852 | Khezu GF Cap | 奇怪龍兜帽【ＧＦ】 |
-| 3853 | Hope G Helm | 赫歐普艾頭兜【Ｇ】 |
-| 3854 | Hope GF Helm | 赫歐普艾頭兜【ＧＦ】 |
-| 3855 | Hope G Cap | 赫歐普艾兜帽【Ｇ】 |
-| 3856 | Hope GF Cap | 赫歐普艾兜帽【ＧＦ】 |
+| 3853 | Hope G Helm | 希望頭兜【Ｇ】 |
+| 3854 | Hope GF Helm | 希望頭兜【ＧＦ】 |
+| 3855 | Hope G Cap | 希望兜帽【Ｇ】 |
+| 3856 | Hope GF Cap | 希望兜帽【ＧＦ】 |
 | 3857 | シャン Beretta | 希亞恩貝雷塔 |
 | 3858 | シャン Beretta F | 希亞恩貝雷塔【Ｆ】 |
 | 3859 | チャチャブファシーネ | 奇亞奇亞布芙頭兜 |
@@ -473,17 +473,17 @@
 | 3967 | Magos GS Head・Blue | 瑪戈斯頭兜【ＧＳ】・青 |
 | 3968 | Magos GS Haar・Blue | 瑪戈斯髮【ＧＳ】・青 |
 | 3969 | Red 備ノ具足 Kabuto | 備具足兜・赤 |
-| 3970 | Red 備ノ具足F Kabuto | 備具足兜【Ｆ】・赤 |
-| 3971 | Red 備ノ具足FZ Kabuto | 備具足兜【ＦＺ】・赤 |
-| 3972 | Red 備ノ具足HC Kabuto | 備具足兜【ＨＣ】・赤 |
-| 3973 | Red 備ノ具足HS Kabuto | 備具足兜【ＨＳ】・赤 |
-| 3974 | Red 備ノ具足GS Kabuto | 備具足兜【ＧＳ】・赤 |
-| 3975 | Red 備ノ Haori Kabuto | 備兜・赤 |
-| 3976 | Red 備ノ Haori F Kabuto | 備兜【Ｆ】・赤 |
-| 3977 | Red 備ノ Haori FZ Kabuto | 備兜【ＦＺ】・赤 |
-| 3978 | Red 備ノ Haori HC Kabuto | 備兜【ＨＣ】・赤 |
-| 3979 | Red 備ノ Haori HS Kabuto | 備兜【ＨＳ】・赤 |
-| 3980 | Red 備ノ Haori GS Kabuto | 備兜【ＧＳ】・赤 |
+| 3970 | Red 備ノ具足F Kabuto | 備具足兜・赤 |
+| 3971 | Red 備ノ具足FZ Kabuto | 備具足兜・赤 |
+| 3972 | Red 備ノ具足HC Kabuto | 備具足兜・赤 |
+| 3973 | Red 備ノ具足HS Kabuto | 備具足兜・赤 |
+| 3974 | Red 備ノ具足GS Kabuto | 備具足兜・赤 |
+| 3975 | Red 備ノ Haori Kabuto | 備羽織兜・赤 |
+| 3976 | Red 備ノ Haori F Kabuto | 備羽織兜【Ｆ】・赤 |
+| 3977 | Red 備ノ Haori FZ Kabuto | 備羽織兜【ＦＺ】・赤 |
+| 3978 | Red 備ノ Haori HC Kabuto | 備羽織兜【ＨＣ】・赤 |
+| 3979 | Red 備ノ Haori HS Kabuto | 備羽織兜【ＨＳ】・赤 |
+| 3980 | Red 備ノ Haori GS Kabuto | 備羽織兜【ＧＳ】・赤 |
 | 3981 | Miku Head | 初音未來頭兜 |
 | 3982 | Miku F Head | 初音未來頭兜【Ｆ】 |
 | 3983 | Miku FZ Head | 初音未來頭兜【ＦＺ】 |

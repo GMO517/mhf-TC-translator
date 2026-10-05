@@ -6,10 +6,10 @@
 |---|---|---|
 | 12001 | Survey Corps D Feet | 斯烏爾艾足 |
 | 12002 | Training Corps D Feet | 特阿恩伊足 |
-| 12003 | Twelve Paladins' Armor D・Toenail | 特艾爾艾趾甲 |
-| 12004 | Holy Maiden Armor D・Toenail | 赫歐爾阿趾甲 |
+| 12003 | Twelve Paladins' Armor D・Toenail | 十二聖騎鎧趾甲 |
+| 12004 | Holy Maiden Armor D・Toenail | 聖女鎧趾甲 |
 | 12005 | Dragon Slayer Armor D・Toenail | 屠龍趾甲 |
-| 12006 | Rebellion Armour D・Toenail | 爾艾布艾趾甲 |
+| 12006 | Rebellion Armour D・Toenail | 叛逆鎧趾甲 |
 | 12007 | Dinato D Greaves | 德伊恩阿護腿 |
 | 12008 | Duque D Greaves | 德烏斯烏護腿 |
 | 12009 | Granu D Greaves | 格阿恩烏護腿 |
@@ -23,7 +23,7 @@
 | 12017 | Pyrope D Greaves | 普歐普艾護腿 |
 | 12018 | アイオラD Greaves | 阿伊歐拉護腿 |
 | 12019 | Rutile D Greaves | 爾烏特伊護腿 |
-| 12020 | Blood D Greaves | 布歐德護腿 |
+| 12020 | Blood D Greaves | 血護腿 |
 | 12021 | Citrine D Leggings | 克伊特伊裹腿 |
 | 12022 | Peridot D Leggings | 普艾爾伊裹腿 |
 | 12023 | Turquoise D Leggings | 特烏爾烏裹腿 |
@@ -229,7 +229,7 @@
 | 12223 | Revenants ZP Heel | 亡靈踵【ＺＰ】 |
 | 12224 | Revenants ZP March | 亡靈行軍腿【ＺＰ】 |
 | 12225 | Saine D Feet | 斯阿恩艾足 |
-| 12226 | Wing D Feet | 沃伊恩足 |
+| 12226 | Wing D Feet | 翼足 |
 | 12227 | Gasura ZD Greaves | 怒貌龍護腿 |
 | 12228 | Gasura ZD Leggings | 怒貌龍裹腿 |
 | 12229 | Seregios C Greaves | 斯艾爾艾護腿 |
@@ -242,18 +242,18 @@
 | 12236 | Noel D Feet | 恩歐爾足 |
 | 12237 | Bune D Feet | 布烏恩艾足 |
 | 12238 | Melas D Leggings | 姆艾爾阿裹腿 |
-| 12239 | Byakko・Kensei D Feet | 布阿克歐足 |
-| 12240 | Byakko・双龍D Feet | 双龍足 |
-| 12241 | Byakko・剣王D Feet | 剣王足 |
-| 12242 | Byakko・刀神D Feet | 刀神足 |
-| 12243 | Byakko・Heaven 槍D Feet | 槍天足 |
-| 12244 | Byakko・砲皇D Feet | 砲皇足 |
-| 12245 | Byakko・鈍器獣D Feet | 鈍器獣足 |
-| 12246 | Byakko・奏帝D Feet | 奏帝足 |
-| 12247 | Byakko・穿凰D Feet | 穿凰足 |
-| 12248 | Byakko・斬将D Feet | 斬将足 |
-| 12249 | Byakko・銃傑D Boots | 銃傑靴 |
-| 12250 | Byakko・銃仙D Boots | 銃仙靴 |
+| 12239 | Byakko・Kensei D Feet | 白虎布阿克歐足 |
+| 12240 | Byakko・双龍D Feet | 白虎双龍足 |
+| 12241 | Byakko・剣王D Feet | 白虎剣王足 |
+| 12242 | Byakko・刀神D Feet | 白虎刀神足 |
+| 12243 | Byakko・Heaven 槍D Feet | 白虎槍天足 |
+| 12244 | Byakko・砲皇D Feet | 白虎砲皇足 |
+| 12245 | Byakko・鈍器獣D Feet | 白虎鈍器獣足 |
+| 12246 | Byakko・奏帝D Feet | 白虎奏帝足 |
+| 12247 | Byakko・穿凰D Feet | 白虎穿凰足 |
+| 12248 | Byakko・斬将D Feet | 白虎斬将足 |
+| 12249 | Byakko・銃傑D Boots | 白虎銃傑靴 |
+| 12250 | Byakko・銃仙D Boots | 白虎銃仙靴 |
 | 12251 | Byakko・Bow 鬼D Boots | 白虎靴 |
 | 12252 | キリンレガース PD Red | 奇里恩雷加斯護腿【ＰＤ】・赤 |
 | 12253 | キリンレガース PD Purple | 奇里恩雷加斯護腿【ＰＤ】・紫 |
@@ -287,25 +287,25 @@
 | 12281 | Kukubo D Leggings | 克烏克烏裹腿 |
 | 12282 | Kakabu D Leggings | 克阿克阿裹腿 |
 | 12283 | Aruru D Leggings | 阿爾烏爾裹腿 |
-| 12284 | Suzaku・Kensei D Feet | 斯烏茲阿足 |
-| 12285 | Suzaku・双龍D Feet | 双龍足 |
-| 12286 | Suzaku・剣王D Feet | 剣王足 |
-| 12287 | Suzaku・刀神D Feet | 刀神足 |
-| 12288 | Suzaku・Heaven 槍D Feet | 槍天足 |
-| 12289 | Suzaku・砲皇D Feet | 砲皇足 |
-| 12290 | Suzaku・鈍器獣D Feet | 鈍器獣足 |
-| 12291 | Suzaku・奏帝D Feet | 奏帝足 |
-| 12292 | Suzaku・穿凰D Feet | 穿凰足 |
-| 12293 | Suzaku・斬将D Feet | 斬将足 |
-| 12294 | Suzaku・銃傑D Boots | 銃傑靴 |
-| 12295 | Suzaku・銃仙D Boots | 銃仙靴 |
+| 12284 | Suzaku・Kensei D Feet | 朱雀斯烏茲阿足 |
+| 12285 | Suzaku・双龍D Feet | 朱雀双龍足 |
+| 12286 | Suzaku・剣王D Feet | 朱雀剣王足 |
+| 12287 | Suzaku・刀神D Feet | 朱雀刀神足 |
+| 12288 | Suzaku・Heaven 槍D Feet | 朱雀槍天足 |
+| 12289 | Suzaku・砲皇D Feet | 朱雀砲皇足 |
+| 12290 | Suzaku・鈍器獣D Feet | 朱雀鈍器獣足 |
+| 12291 | Suzaku・奏帝D Feet | 朱雀奏帝足 |
+| 12292 | Suzaku・穿凰D Feet | 朱雀穿凰足 |
+| 12293 | Suzaku・斬将D Feet | 朱雀斬将足 |
+| 12294 | Suzaku・銃傑D Boots | 朱雀銃傑靴 |
+| 12295 | Suzaku・銃仙D Boots | 朱雀銃仙靴 |
 | 12296 | Suzaku・Bow 鬼D Boots | 朱雀靴 |
 | 12297 | G・Knight タイツ PD Red | 騎士護腿【ＰＤ】・赤 |
 | 12298 | G・Knight タイツ PD Blue | 騎士護腿【ＰＤ】・青 |
 | 12299 | G・Knight タイツ PD Purple | 騎士護腿【ＰＤ】・紫 |
-| 12300 | PVタイツ PD Red | 塔伊茨護腿【ＰＤ】 |
-| 12301 | PVタイツ PD Blue | 塔伊茨護腿【ＰＤ】 |
-| 12302 | PVタイツ PD Purple | 塔伊茨護腿【ＰＤ】 |
+| 12300 | PVタイツ PD Red | 塔伊茨護腿【ＰＤ】・赤 |
+| 12301 | PVタイツ PD Blue | 塔伊茨護腿【ＰＤ】・青 |
+| 12302 | PVタイツ PD Purple | 塔伊茨護腿【ＰＤ】・紫 |
 | 12303 | Empress Feet PD Red | 女帝足【ＰＤ】・赤 |
 | 12304 | Empress Feet PD Yellow | 女帝足【ＰＤ】・黄 |
 | 12305 | Empress Feet PD Purple | 女帝足【ＰＤ】・紫 |

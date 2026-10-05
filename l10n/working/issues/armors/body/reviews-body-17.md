@@ -182,7 +182,7 @@
 | 8176 | Mist GX【 Haori 】 | 霧羽織【ＧＸ】 |
 | 8177 | Fog 【 Haori 】 | 霧羽織 |
 | 8178 | Fog F【 Haori 】 | 霧羽織【Ｆ】 |
-| 8179 | Fog FY【 Haori 】 | 芙歐格羽織 |
+| 8179 | Fog FY【 Haori 】 | 霧羽織 |
 | 8180 | Fog HS【 Haori 】 | 霧羽織【ＨＳ】 |
 | 8181 | Fog G【 Haori 】 | 霧羽織【Ｇ】 |
 | 8182 | Fog GF【 Haori 】 | 霧羽織【ＧＦ】 |

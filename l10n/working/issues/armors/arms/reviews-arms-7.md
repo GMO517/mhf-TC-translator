@@ -235,7 +235,7 @@
 | 3229 | ダミー | (dummy) |
 | 3230 | ダミー | (dummy) |
 | 3231 | ダミー | (dummy) |
-| 3232 | Hope Arms | 赫歐普艾護腕 |
+| 3232 | Hope Arms | 希望護腕 |
 | 3233 | エミット Arms | 艾米托護腕 |
 | 3234 | エミットF Arms | 艾米托護腕【Ｆ】 |
 | 3235 | エミットFX Arms | 艾米托護腕【ＦＸ】 |
@@ -308,10 +308,10 @@
 | 3302 | Khezu GF Arms | 奇怪龍護腕【ＧＦ】 |
 | 3303 | Khezu G Guard | 奇怪龍臂甲【Ｇ】 |
 | 3304 | Khezu GF Guard | 奇怪龍臂甲【ＧＦ】 |
-| 3305 | Hope G Arms | 赫歐普艾護腕【Ｇ】 |
-| 3306 | Hope GF Arms | 赫歐普艾護腕【ＧＦ】 |
-| 3307 | Hope G Guard | 赫歐普艾臂甲【Ｇ】 |
-| 3308 | Hope GF Guard | 赫歐普艾臂甲【ＧＦ】 |
+| 3305 | Hope G Arms | 希望護腕【Ｇ】 |
+| 3306 | Hope GF Arms | 希望護腕【ＧＦ】 |
+| 3307 | Hope G Guard | 希望臂甲【Ｇ】 |
+| 3308 | Hope GF Guard | 希望臂甲【ＧＦ】 |
 | 3309 | グラッシュ Arms | 古拉希尤護腕 |
 | 3310 | グラッシュF Arms | 古拉希尤護腕【Ｆ】 |
 | 3311 | グラッシュFY Arms | 古拉希尤護腕 |
@@ -419,17 +419,17 @@
 | 3413 | Magos GS Arms・Blue | 瑪戈斯護腕【ＧＳ】・青 |
 | 3414 | Magos GS Guard・Blue | 瑪戈斯臂甲【ＧＳ】・青 |
 | 3415 | Red 備ノ具足【 Kote 】 | 備具足籠手・赤 |
-| 3416 | Red 備ノ具足F【 Kote 】 | 備具足籠手【Ｆ】・赤 |
-| 3417 | Red 備ノ具足FZ【 Kote 】 | 備具足籠手【ＦＺ】・赤 |
-| 3418 | Red 備ノ具足HC【 Kote 】 | 備具足籠手【ＨＣ】・赤 |
-| 3419 | Red 備ノ具足HS【 Kote 】 | 備具足籠手【ＨＳ】・赤 |
-| 3420 | Red 備ノ具足GS【 Kote 】 | 備具足籠手【ＧＳ】・赤 |
-| 3421 | Red 備ノ Haori 【 Kote 】 | 備籠手・赤 |
-| 3422 | Red 備ノ Haori F【 Kote 】 | 備籠手【Ｆ】・赤 |
-| 3423 | Red 備ノ Haori FZ【 Kote 】 | 備籠手【ＦＺ】・赤 |
-| 3424 | Red 備ノ Haori HC【 Kote 】 | 備籠手【ＨＣ】・赤 |
-| 3425 | Red 備ノ Haori HS【 Kote 】 | 備籠手【ＨＳ】・赤 |
-| 3426 | Red 備ノ Haori GS【 Kote 】 | 備籠手【ＧＳ】・赤 |
+| 3416 | Red 備ノ具足F【 Kote 】 | 備具足籠手・赤 |
+| 3417 | Red 備ノ具足FZ【 Kote 】 | 備具足籠手・赤 |
+| 3418 | Red 備ノ具足HC【 Kote 】 | 備具足籠手・赤 |
+| 3419 | Red 備ノ具足HS【 Kote 】 | 備具足籠手・赤 |
+| 3420 | Red 備ノ具足GS【 Kote 】 | 備具足籠手・赤 |
+| 3421 | Red 備ノ Haori 【 Kote 】 | 備羽織籠手・赤 |
+| 3422 | Red 備ノ Haori F【 Kote 】 | 備羽織籠手【Ｆ】・赤 |
+| 3423 | Red 備ノ Haori FZ【 Kote 】 | 備羽織籠手【ＦＺ】・赤 |
+| 3424 | Red 備ノ Haori HC【 Kote 】 | 備羽織籠手【ＨＣ】・赤 |
+| 3425 | Red 備ノ Haori HS【 Kote 】 | 備羽織籠手【ＨＳ】・赤 |
+| 3426 | Red 備ノ Haori GS【 Kote 】 | 備羽織籠手【ＧＳ】・赤 |
 | 3427 | Miku Arms | 初音未來護腕 |
 | 3428 | Miku F Arms | 初音未來護腕【Ｆ】 |
 | 3429 | Miku FZ Arms | 初音未來護腕【ＦＺ】 |

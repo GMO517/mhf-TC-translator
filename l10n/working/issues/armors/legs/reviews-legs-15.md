@@ -8,9 +8,9 @@
 | 7002 | Crimson 霞・剣王G Feet | 霞剣王足【Ｇ】・紅 |
 | 7003 | Crimson 霞・剣王GF Feet | 霞剣王足【Ｆ】・紅 |
 | 7004 | Crimson 霞・剣王GX Feet | 霞剣王足【ＧＸ】・紅 |
-| 7005 | Green 穹・剣王G Feet | 穹剣王足・緑 |
+| 7005 | Green 穹・剣王G Feet | 穹剣王足【Ｇ】・緑 |
 | 7006 | Green 穹・剣王GF Feet | 穹剣王足【Ｆ】・緑 |
-| 7007 | Green 穹・剣王GX Feet | 穹剣王足・緑 |
+| 7007 | Green 穹・剣王GX Feet | 穹剣王足【ＧＸ】・緑 |
 | 7008 | White 蘭・刀神 Feet | 蘭刀神足・白 |
 | 7009 | White 蘭・刀神F Feet | 蘭刀神足【Ｆ】・白 |
 | 7010 | White 蘭・刀神FX Feet | 蘭刀神足【ＦＸ】・白 |
@@ -26,9 +26,9 @@
 | 7020 | Crimson 霞・刀神G Feet | 霞刀神足【Ｇ】・紅 |
 | 7021 | Crimson 霞・刀神GF Feet | 霞刀神足【Ｆ】・紅 |
 | 7022 | Crimson 霞・刀神GX Feet | 霞刀神足【ＧＸ】・紅 |
-| 7023 | Green 穹・刀神G Feet | 穹刀神足・緑 |
+| 7023 | Green 穹・刀神G Feet | 穹刀神足【Ｇ】・緑 |
 | 7024 | Green 穹・刀神GF Feet | 穹刀神足【Ｆ】・緑 |
-| 7025 | Green 穹・刀神GX Feet | 穹刀神足・緑 |
+| 7025 | Green 穹・刀神GX Feet | 穹刀神足【ＧＸ】・緑 |
 | 7026 | White 蘭・鈍器獣 Feet | 蘭鈍器獣足・白 |
 | 7027 | White 蘭・鈍器獣F Feet | 蘭鈍器獣足【Ｆ】・白 |
 | 7028 | White 蘭・鈍器獣FX Feet | 蘭鈍器獣足【ＦＸ】・白 |
@@ -44,9 +44,9 @@
 | 7038 | Crimson 霞・鈍器獣G Feet | 霞鈍器獣足【Ｇ】・紅 |
 | 7039 | Crimson 霞・鈍器獣GF Feet | 霞鈍器獣足【Ｆ】・紅 |
 | 7040 | Crimson 霞・鈍器獣GX Feet | 霞鈍器獣足【ＧＸ】・紅 |
-| 7041 | Green 穹・鈍器獣G Feet | 穹鈍器獣足・緑 |
+| 7041 | Green 穹・鈍器獣G Feet | 穹鈍器獣足【Ｇ】・緑 |
 | 7042 | Green 穹・鈍器獣GF Feet | 穹鈍器獣足【Ｆ】・緑 |
-| 7043 | Green 穹・鈍器獣GX Feet | 穹鈍器獣足・緑 |
+| 7043 | Green 穹・鈍器獣GX Feet | 穹鈍器獣足【ＧＸ】・緑 |
 | 7044 | White 蘭・奏帝 Feet | 蘭奏帝足・白 |
 | 7045 | White 蘭・奏帝F Feet | 蘭奏帝足【Ｆ】・白 |
 | 7046 | White 蘭・奏帝FX Feet | 蘭奏帝足【ＦＸ】・白 |
@@ -62,9 +62,9 @@
 | 7056 | Crimson 霞・奏帝G Feet | 霞奏帝足【Ｇ】・紅 |
 | 7057 | Crimson 霞・奏帝GF Feet | 霞奏帝足【Ｆ】・紅 |
 | 7058 | Crimson 霞・奏帝GX Feet | 霞奏帝足【ＧＸ】・紅 |
-| 7059 | Green 穹・奏帝G Feet | 穹奏帝足・緑 |
+| 7059 | Green 穹・奏帝G Feet | 穹奏帝足【Ｇ】・緑 |
 | 7060 | Green 穹・奏帝GF Feet | 穹奏帝足【Ｆ】・緑 |
-| 7061 | Green 穹・奏帝GX Feet | 穹奏帝足・緑 |
+| 7061 | Green 穹・奏帝GX Feet | 穹奏帝足【ＧＸ】・緑 |
 | 7062 | White 蘭・Heaven 槍 Feet | 蘭槍天足・白 |
 | 7063 | White 蘭・Heaven 槍F Feet | 蘭槍天足【Ｆ】・白 |
 | 7064 | White 蘭・Heaven 槍FX Feet | 蘭槍天足【ＦＸ】・白 |
@@ -98,9 +98,9 @@
 | 7092 | Crimson 霞・砲皇G Feet | 霞砲皇足【Ｇ】・紅 |
 | 7093 | Crimson 霞・砲皇GF Feet | 霞砲皇足【Ｆ】・紅 |
 | 7094 | Crimson 霞・砲皇GX Feet | 霞砲皇足【ＧＸ】・紅 |
-| 7095 | Green 穹・砲皇G Feet | 穹砲皇足・緑 |
+| 7095 | Green 穹・砲皇G Feet | 穹砲皇足【Ｇ】・緑 |
 | 7096 | Green 穹・砲皇GF Feet | 穹砲皇足【Ｆ】・緑 |
-| 7097 | Green 穹・砲皇GX Feet | 穹砲皇足・緑 |
+| 7097 | Green 穹・砲皇GX Feet | 穹砲皇足【ＧＸ】・緑 |
 | 7098 | White 蘭・穿凰 Feet | 蘭穿凰足・白 |
 | 7099 | White 蘭・穿凰F Feet | 蘭穿凰足【Ｆ】・白 |
 | 7100 | White 蘭・穿凰FX Feet | 蘭穿凰足【ＦＸ】・白 |
@@ -116,9 +116,9 @@
 | 7110 | Crimson 霞・穿凰G Feet | 霞穿凰足【Ｇ】・紅 |
 | 7111 | Crimson 霞・穿凰GF Feet | 霞穿凰足【Ｆ】・紅 |
 | 7112 | Crimson 霞・穿凰GX Feet | 霞穿凰足【ＧＸ】・紅 |
-| 7113 | Green 穹・穿凰G Feet | 穹穿凰足・緑 |
+| 7113 | Green 穹・穿凰G Feet | 穹穿凰足【Ｇ】・緑 |
 | 7114 | Green 穹・穿凰GF Feet | 穹穿凰足【Ｆ】・緑 |
-| 7115 | Green 穹・穿凰GX Feet | 穹穿凰足・緑 |
+| 7115 | Green 穹・穿凰GX Feet | 穹穿凰足【ＧＸ】・緑 |
 | 7116 | White 蘭・銃仙 Boots | 蘭銃仙靴・白 |
 | 7117 | White 蘭・銃仙F Boots | 蘭銃仙靴【Ｆ】・白 |
 | 7118 | White 蘭・銃仙FX Boots | 蘭銃仙靴【ＦＸ】・白 |
@@ -134,9 +134,9 @@
 | 7128 | Crimson 霞・銃仙G Boots | 霞銃仙靴【Ｇ】・紅 |
 | 7129 | Crimson 霞・銃仙GF Boots | 霞銃仙靴【Ｆ】・紅 |
 | 7130 | Crimson 霞・銃仙GX Boots | 霞銃仙靴【ＧＸ】・紅 |
-| 7131 | Green 穹・銃仙G Boots | 穹銃仙靴・緑 |
+| 7131 | Green 穹・銃仙G Boots | 穹銃仙靴【Ｇ】・緑 |
 | 7132 | Green 穹・銃仙GF Boots | 穹銃仙靴【Ｆ】・緑 |
-| 7133 | Green 穹・銃仙GX Boots | 穹銃仙靴・緑 |
+| 7133 | Green 穹・銃仙GX Boots | 穹銃仙靴【ＧＸ】・緑 |
 | 7134 | White 蘭・銃傑 Boots | 蘭銃傑靴・白 |
 | 7135 | White 蘭・銃傑F Boots | 蘭銃傑靴【Ｆ】・白 |
 | 7136 | White 蘭・銃傑FX Boots | 蘭銃傑靴【ＦＸ】・白 |
@@ -152,9 +152,9 @@
 | 7146 | Crimson 霞・銃傑G Boots | 霞銃傑靴【Ｇ】・紅 |
 | 7147 | Crimson 霞・銃傑GF Boots | 霞銃傑靴【Ｆ】・紅 |
 | 7148 | Crimson 霞・銃傑GX Boots | 霞銃傑靴【ＧＸ】・紅 |
-| 7149 | Green 穹・銃傑G Boots | 穹銃傑靴・緑 |
+| 7149 | Green 穹・銃傑G Boots | 穹銃傑靴【Ｇ】・緑 |
 | 7150 | Green 穹・銃傑GF Boots | 穹銃傑靴【Ｆ】・緑 |
-| 7151 | Green 穹・銃傑GX Boots | 穹銃傑靴・緑 |
+| 7151 | Green 穹・銃傑GX Boots | 穹銃傑靴【ＧＸ】・緑 |
 | 7152 | White 蘭・Bow 鬼 Boots | 蘭鬼靴・白 |
 | 7153 | White 蘭・Bow 鬼F Boots | 蘭鬼靴【Ｆ】・白 |
 | 7154 | White 蘭・Bow 鬼FX Boots | 蘭鬼靴【ＦＸ】・白 |

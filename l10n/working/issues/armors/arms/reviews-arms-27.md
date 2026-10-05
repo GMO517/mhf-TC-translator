@@ -405,20 +405,20 @@
 | 13399 | Ricca D Arms | 爾伊克阿護腕 |
 | 13400 | Kelis D Arms | 克艾爾伊護腕 |
 | 13401 | Myunru D Arms | 姆烏恩烏護腕 |
-| 13402 | Seiryu・Kensei D Arms | 斯艾爾烏護腕 |
-| 13403 | Seiryu・双龍D Arms | 双龍護腕 |
-| 13404 | Seiryu・剣王D Arms | 剣王護腕 |
-| 13405 | Seiryu・刀神D Arms | 刀神護腕 |
-| 13406 | Seiryu・Heaven 槍D Arms | 槍天護腕 |
-| 13407 | Seiryu・砲皇D Arms | 砲皇護腕 |
-| 13408 | Seiryu・鈍器獣D Arms | 鈍器獣護腕 |
-| 13409 | Seiryu・奏帝D Arms | 奏帝護腕 |
-| 13410 | Seiryu・穿凰D Arms | 穿凰護腕 |
-| 13411 | Seiryu・斬将D Arms | 斬将護腕 |
-| 13412 | Seiryu・銃傑D Guard | 銃傑臂甲 |
-| 13413 | Seiryu・銃仙D Guard | 銃仙臂甲 |
+| 13402 | Seiryu・Kensei D Arms | 青龍斯艾爾烏護腕 |
+| 13403 | Seiryu・双龍D Arms | 青龍双龍護腕 |
+| 13404 | Seiryu・剣王D Arms | 青龍剣王護腕 |
+| 13405 | Seiryu・刀神D Arms | 青龍刀神護腕 |
+| 13406 | Seiryu・Heaven 槍D Arms | 青龍槍天護腕 |
+| 13407 | Seiryu・砲皇D Arms | 青龍砲皇護腕 |
+| 13408 | Seiryu・鈍器獣D Arms | 青龍鈍器獣護腕 |
+| 13409 | Seiryu・奏帝D Arms | 青龍奏帝護腕 |
+| 13410 | Seiryu・穿凰D Arms | 青龍穿凰護腕 |
+| 13411 | Seiryu・斬将D Arms | 青龍斬将護腕 |
+| 13412 | Seiryu・銃傑D Guard | 青龍銃傑臂甲 |
+| 13413 | Seiryu・銃仙D Guard | 青龍銃仙臂甲 |
 | 13414 | Seiryu・Bow 鬼D Guard | 青龍臂甲 |
-| 13415 | Seiryu・磁星D Arms | 磁星護腕 |
+| 13415 | Seiryu・磁星D Arms | 青龍磁星護腕 |
 | 13416 | K.Lobster Arms PD Black | 王龍蝦護腕【ＰＤ】・黑 |
 | 13417 | K.Lobster Arms PD Green | 王龍蝦護腕【ＰＤ】・緑 |
 | 13418 | K.Lobster Arms PD Blue | 王龍蝦護腕【ＰＤ】・青 |
@@ -446,13 +446,13 @@
 | 13440 | Ruko フィスト PD White | 極龍拳【ＰＤ】・白 |
 | 13441 | Ruko フィスト PD Blue | 極龍拳【ＰＤ】・青 |
 | 13442 | Ruko フィスト PD Red | 極龍拳【ＰＤ】・赤 |
-| 13443 | Comrade Arms PD White Red | 戰友護腕【ＰＤ】・白 |
-| 13444 | Comrade Arms PD White Blue | 戰友護腕【ＰＤ】・白 |
-| 13445 | Comrade Arms PD White Yellow | 戰友護腕【ＰＤ】・白 |
+| 13443 | Comrade Arms PD White Red | 戰友護腕【ＰＤ】・白赤 |
+| 13444 | Comrade Arms PD White Blue | 戰友護腕【ＰＤ】・白青 |
+| 13445 | Comrade Arms PD White Yellow | 戰友護腕【ＰＤ】・白黄 |
 | 13446 | Otono D Arms | 歐特歐恩護腕 |
 | 13447 | 忍の Kote・空D | 忍の空籠手 |
 | 13448 | 忍の Kote・海D | 忍の海籠手 |
-| 13449 | Shadow Kote・D | 夏阿德歐籠手 |
+| 13449 | Shadow Kote・D | 影籠手 |
 | 13450 | Shade Kote・D | 夏阿德艾籠手 |
-| 13451 | Hope D Arms | 赫歐普艾護腕 |
+| 13451 | Hope D Arms | 希望護腕 |
 

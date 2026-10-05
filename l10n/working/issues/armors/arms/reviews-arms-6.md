@@ -37,8 +37,8 @@
 | 2531 | Pandeum FZ Guard | 普阿恩艾臂甲【ＦＺ】 |
 | 2532 | Dian FZ Arms | 德伊恩護腕【ＦＺ】 |
 | 2533 | Dian FZ Guard | 德伊恩臂甲【ＦＺ】 |
-| 2534 | Wild FZ Arms | 沃伊爾護腕【ＦＺ】 |
-| 2535 | Wild FZ Guard | 沃伊爾臂甲【ＦＺ】 |
+| 2534 | Wild FZ Arms | 狂野護腕【ＦＺ】 |
+| 2535 | Wild FZ Guard | 狂野臂甲【ＦＺ】 |
 | 2536 | Flower FZ Arms | 芙歐沃艾護腕【ＦＺ】 |
 | 2537 | Flower FZ Guard | 芙歐沃艾臂甲【ＦＺ】 |
 | 2538 | Fias FZ Arms | 芙伊斯護腕【ＦＺ】 |

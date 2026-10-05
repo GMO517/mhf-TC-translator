@@ -58,8 +58,8 @@
 | 2052 | Kurossu F Guard | 克烏爾歐臂甲【Ｆ】 |
 | 2053 | Shieri FX Arms | 夏伊爾伊護腕【ＦＸ】 |
 | 2054 | Shieri FX Guard | 夏伊爾伊臂甲【ＦＸ】 |
-| 2055 | Craft FX Arms | 克阿芙護腕【ＦＸ】 |
-| 2056 | Craft FX Guard | 克阿芙臂甲【ＦＸ】 |
+| 2055 | Craft FX Arms | 工匠護腕【ＦＸ】 |
+| 2056 | Craft FX Guard | 工匠臂甲【ＦＸ】 |
 | 2057 | Moss Covered FX Arms | 苔覆護腕【ＦＸ】 |
 | 2058 | Moss Covered FX Guard | 苔覆臂甲【ＦＸ】 |
 | 2059 | Excelle FX Arms | 艾克斯艾護腕【ＦＸ】 |
@@ -334,9 +334,9 @@
 | 2328 | Ruko フィスト SP White | 極龍拳【ＳＰ】・白 |
 | 2329 | Ruko フィスト SP Blue | 極龍拳【ＳＰ】・青 |
 | 2330 | Ruko フィスト SP Red | 極龍拳【ＳＰ】・赤 |
-| 2331 | Comrade Arms SP White Red | 戰友護腕【ＳＰ】・白 |
-| 2332 | Comrade Arms SP White Blue | 戰友護腕【ＳＰ】・白 |
-| 2333 | Comrade Arms SP White Yellow | 戰友護腕【ＳＰ】・白 |
+| 2331 | Comrade Arms SP White Red | 戰友護腕【ＳＰ】・白赤 |
+| 2332 | Comrade Arms SP White Blue | 戰友護腕【ＳＰ】・白青 |
+| 2333 | Comrade Arms SP White Yellow | 戰友護腕【ＳＰ】・白黄 |
 | 2334 | Rubellite Arms | 爾烏布艾護腕 |
 | 2335 | Rubellite F Arms | 爾烏布艾護腕【Ｆ】 |
 | 2336 | Rubellite FX Arms | 爾烏布艾護腕【ＦＸ】 |
@@ -414,8 +414,8 @@
 | 2408 | アナキHC Guard | 阿納基臂甲【ＨＣ】 |
 | 2409 | Royal FY Arms | 王室護腕 |
 | 2410 | Royal HC Arms | 王室護腕【ＨＣ】 |
-| 2411 | Lord FY Guard | 爾歐爾臂甲 |
-| 2412 | Lord HC Guard | 爾歐爾臂甲【ＨＣ】 |
+| 2411 | Lord FY Guard | 領主臂甲 |
+| 2412 | Lord HC Guard | 領主臂甲【ＨＣ】 |
 | 2413 | フ Rathian ーム | 雌火龍護腕 |
 | 2414 | クロノス Arms | 庫羅諾斯護腕 |
 | 2415 | フレイ Guard | 芙雷伊臂甲 |

@@ -72,18 +72,18 @@
 | 3566 | Magos GS Coat・Water | 瑪戈斯腰衣【ＧＳ】・水 |
 | 3567 | Magos GS Coil・Blue | 瑪戈斯腰甲【ＧＳ】・青 |
 | 3568 | Magos GS Coat・Blue | 瑪戈斯腰衣【ＧＳ】・青 |
-| 3569 | Red 備ノ Greaves [Waistband 】 | 護腿腰帶 |
-| 3570 |  Red 備ノ Greaves F [Waistband 】 | 護腿腰帶【Ｆ】 |
-| 3571 |  Red 備ノ Greaves FZ [Waistband 】 | 護腿腰帶【ＦＺ】 |
-| 3572 |  Red 備ノ Greaves HC [Waistband 】 | 護腿腰帶【ＨＣ】 |
-| 3573 |  Red 備ノ Greaves HS [Waistband 】 | 護腿腰帶【ＨＳ】 |
-| 3574 |  Red 備ノ Greaves GS [Waistband 】 | 護腿腰帶【ＧＳ】 |
-| 3575 |  Red 備ノ Haori [Waistband 】 | 備腰帶・赤 |
-| 3576 |  Red 備ノ Haori F [Waistband 】 | 備腰帶【Ｆ】・赤 |
-| 3577 |  Red 備ノ Haori FZ [Waistband 】 | 備腰帶【ＦＺ】・赤 |
-| 3578 |  Red 備ノ Haori HC [Waistband 】 | 備腰帶【ＨＣ】・赤 |
-| 3579 |  Red 備ノ Haori HS [Waistband 】 | 備腰帶【ＨＳ】・赤 |
-| 3580 |  Red 備ノ Haori GS [Waistband 】 | 備腰帶【ＧＳ】・赤 |
+| 3569 | Red 備ノ Greaves [Waistband 】 | 備腰帶・赤 |
+| 3570 |  Red 備ノ Greaves F [Waistband 】 | 備腰帶【Ｆ】・赤 |
+| 3571 |  Red 備ノ Greaves FZ [Waistband 】 | 備腰帶【ＦＺ】・赤 |
+| 3572 |  Red 備ノ Greaves HC [Waistband 】 | 備腰帶【ＨＣ】・赤 |
+| 3573 |  Red 備ノ Greaves HS [Waistband 】 | 備腰帶【ＨＳ】・赤 |
+| 3574 |  Red 備ノ Greaves GS [Waistband 】 | 備腰帶【ＧＳ】・赤 |
+| 3575 |  Red 備ノ Haori [Waistband 】 | 備羽織腰帶・赤 |
+| 3576 |  Red 備ノ Haori F [Waistband 】 | 備羽織腰帶【Ｆ】・赤 |
+| 3577 |  Red 備ノ Haori FZ [Waistband 】 | 備羽織腰帶【ＦＺ】・赤 |
+| 3578 |  Red 備ノ Haori HC [Waistband 】 | 備羽織腰帶【ＨＣ】・赤 |
+| 3579 |  Red 備ノ Haori HS [Waistband 】 | 備羽織腰帶【ＨＳ】・赤 |
+| 3580 |  Red 備ノ Haori GS [Waistband 】 | 備羽織腰帶【ＧＳ】・赤 |
 | 3581 | Miku Coil | 初音未來腰甲 |
 | 3582 | Miku F Coil | 初音未來腰甲【Ｆ】 |
 | 3583 | Miku FZ Coil | 初音未來腰甲【ＦＺ】 |
@@ -232,8 +232,8 @@
 | 3726 | Blango GX Coat | 雪獅子腰衣【ＧＸ】 |
 | 3727 | Khezu GX Faulds | 奇怪龍腰甲【ＧＸ】 |
 | 3728 | Khezu GX Coat | 奇怪龍腰衣【ＧＸ】 |
-| 3729 | Hope GX Faulds | 赫歐普艾腰甲【ＧＸ】 |
-| 3730 | Hope GX Coat | 赫歐普艾腰衣【ＧＸ】 |
+| 3729 | Hope GX Faulds | 希望腰甲【ＧＸ】 |
+| 3730 | Hope GX Coat | 希望腰衣【ＧＸ】 |
 | 3731 | Gougarf G Faulds | 鬥獸腰甲【Ｇ】 |
 | 3732 | Gougarf GF Faulds | 鬥獸腰甲【ＧＦ】 |
 | 3733 | Gougarf GX Faulds | 鬥獸腰甲【ＧＸ】 |
@@ -345,77 +345,77 @@
 | 3839 | Seiryu・Kensei G Coil | 青龍劍聖腰甲【Ｇ】 |
 | 3840 | Seiryu・Kensei GF Coil | 青龍劍聖腰甲【ＧＦ】 |
 | 3841 | Byakko・双龍G Coil | 白虎腰甲【Ｇ】 |
-| 3842 | Byakko・双龍GF Coil | 双龍腰甲【Ｆ】 |
+| 3842 | Byakko・双龍GF Coil | 白虎双龍腰甲【Ｆ】 |
 | 3843 | Suzaku・双龍G Coil | 朱雀腰甲【Ｇ】 |
-| 3844 | Suzaku・双龍GF Coil | 双龍腰甲【Ｆ】 |
+| 3844 | Suzaku・双龍GF Coil | 朱雀双龍腰甲【Ｆ】 |
 | 3845 | Genbu・双龍G Coil | 玄武腰甲【Ｇ】 |
-| 3846 | Genbu・双龍GF Coil | 双龍腰甲【Ｆ】 |
+| 3846 | Genbu・双龍GF Coil | 玄武双龍腰甲【Ｆ】 |
 | 3847 | Seiryu・双龍G Coil | 青龍腰甲【Ｇ】 |
-| 3848 | Seiryu・双龍GF Coil | 双龍腰甲【Ｆ】 |
+| 3848 | Seiryu・双龍GF Coil | 青龍双龍腰甲【Ｆ】 |
 | 3849 | Byakko・剣王G Coil | 白虎腰甲【Ｇ】 |
-| 3850 | Byakko・剣王GF Coil | 剣王腰甲【Ｆ】 |
+| 3850 | Byakko・剣王GF Coil | 白虎剣王腰甲【Ｆ】 |
 | 3851 | Suzaku・剣王G Coil | 朱雀腰甲【Ｇ】 |
-| 3852 | Suzaku・剣王GF Coil | 剣王腰甲【Ｆ】 |
+| 3852 | Suzaku・剣王GF Coil | 朱雀剣王腰甲【Ｆ】 |
 | 3853 | Genbu・剣王G Coil | 玄武腰甲【Ｇ】 |
-| 3854 | Genbu・剣王GF Coil | 剣王腰甲【Ｆ】 |
+| 3854 | Genbu・剣王GF Coil | 玄武剣王腰甲【Ｆ】 |
 | 3855 | Seiryu・剣王G Coil | 青龍腰甲【Ｇ】 |
-| 3856 | Seiryu・剣王GF Coil | 剣王腰甲【Ｆ】 |
+| 3856 | Seiryu・剣王GF Coil | 青龍剣王腰甲【Ｆ】 |
 | 3857 | Byakko・刀神G Coil | 白虎腰甲【Ｇ】 |
-| 3858 | Byakko・刀神GF Coil | 刀神腰甲【Ｆ】 |
+| 3858 | Byakko・刀神GF Coil | 白虎刀神腰甲【Ｆ】 |
 | 3859 | Suzaku・刀神G Coil | 朱雀腰甲【Ｇ】 |
-| 3860 | Suzaku・刀神GF Coil | 刀神腰甲【Ｆ】 |
+| 3860 | Suzaku・刀神GF Coil | 朱雀刀神腰甲【Ｆ】 |
 | 3861 | Genbu・刀神G Coil | 玄武腰甲【Ｇ】 |
-| 3862 | Genbu・刀神GF Coil | 刀神腰甲【Ｆ】 |
+| 3862 | Genbu・刀神GF Coil | 玄武刀神腰甲【Ｆ】 |
 | 3863 | Seiryu・刀神G Coil | 青龍腰甲【Ｇ】 |
-| 3864 | Seiryu・刀神GF Coil | 刀神腰甲【Ｆ】 |
+| 3864 | Seiryu・刀神GF Coil | 青龍刀神腰甲【Ｆ】 |
 | 3865 | Byakko・Heaven 槍G Coil | 白虎天腰甲【Ｇ】 |
-| 3866 | Byakko・Heaven 槍GF Coil | 槍天腰甲【Ｆ】 |
+| 3866 | Byakko・Heaven 槍GF Coil | 白虎槍天腰甲【Ｆ】 |
 | 3867 | Suzaku・Heaven 槍G Coil | 朱雀天腰甲【Ｇ】 |
-| 3868 | Suzaku・Heaven 槍GF Coil | 槍天腰甲【Ｆ】 |
+| 3868 | Suzaku・Heaven 槍GF Coil | 朱雀槍天腰甲【Ｆ】 |
 | 3869 | Genbu・Heaven 槍G Coil | 玄武天腰甲【Ｇ】 |
-| 3870 | Genbu・Heaven 槍GF Coil | 槍天腰甲【Ｆ】 |
+| 3870 | Genbu・Heaven 槍GF Coil | 玄武槍天腰甲【Ｆ】 |
 | 3871 | Seiryu・Heaven 槍G Coil | 青龍天腰甲【Ｇ】 |
-| 3872 | Seiryu・Heaven 槍GF Coil | 槍天腰甲【Ｆ】 |
+| 3872 | Seiryu・Heaven 槍GF Coil | 青龍槍天腰甲【Ｆ】 |
 | 3873 | Byakko・砲皇G Coil | 白虎腰甲【Ｇ】 |
-| 3874 | Byakko・砲皇GF Coil | 砲皇腰甲【Ｆ】 |
+| 3874 | Byakko・砲皇GF Coil | 白虎砲皇腰甲【Ｆ】 |
 | 3875 | Suzaku・砲皇G Coil | 朱雀腰甲【Ｇ】 |
-| 3876 | Suzaku・砲皇GF Coil | 砲皇腰甲【Ｆ】 |
+| 3876 | Suzaku・砲皇GF Coil | 朱雀砲皇腰甲【Ｆ】 |
 | 3877 | Genbu・砲皇G Coil | 玄武腰甲【Ｇ】 |
-| 3878 | Genbu・砲皇GF Coil | 砲皇腰甲【Ｆ】 |
+| 3878 | Genbu・砲皇GF Coil | 玄武砲皇腰甲【Ｆ】 |
 | 3879 | Seiryu・砲皇G Coil | 青龍腰甲【Ｇ】 |
-| 3880 | Seiryu・砲皇GF Coil | 砲皇腰甲【Ｆ】 |
+| 3880 | Seiryu・砲皇GF Coil | 青龍砲皇腰甲【Ｆ】 |
 | 3881 | Byakko・鈍器獣G Coil | 白虎腰甲【Ｇ】 |
-| 3882 | Byakko・鈍器獣GF Coil | 鈍器獣腰甲【Ｆ】 |
+| 3882 | Byakko・鈍器獣GF Coil | 白虎鈍器獣腰甲【Ｆ】 |
 | 3883 | Suzaku・鈍器獣G Coil | 朱雀腰甲【Ｇ】 |
-| 3884 | Suzaku・鈍器獣GF Coil | 鈍器獣腰甲【Ｆ】 |
+| 3884 | Suzaku・鈍器獣GF Coil | 朱雀鈍器獣腰甲【Ｆ】 |
 | 3885 | Genbu・鈍器獣G Coil | 玄武腰甲【Ｇ】 |
-| 3886 | Genbu・鈍器獣GF Coil | 鈍器獣腰甲【Ｆ】 |
+| 3886 | Genbu・鈍器獣GF Coil | 玄武鈍器獣腰甲【Ｆ】 |
 | 3887 | Seiryu・鈍器獣G Coil | 青龍腰甲【Ｇ】 |
-| 3888 | Seiryu・鈍器獣GF Coil | 鈍器獣腰甲【Ｆ】 |
+| 3888 | Seiryu・鈍器獣GF Coil | 青龍鈍器獣腰甲【Ｆ】 |
 | 3889 | Byakko・奏帝G Coil | 白虎腰甲【Ｇ】 |
-| 3890 | Byakko・奏帝GF Coil | 奏帝腰甲【Ｆ】 |
+| 3890 | Byakko・奏帝GF Coil | 白虎奏帝腰甲【Ｆ】 |
 | 3891 | Suzaku・奏帝G Coil | 朱雀腰甲【Ｇ】 |
-| 3892 | Suzaku・奏帝GF Coil | 奏帝腰甲【Ｆ】 |
+| 3892 | Suzaku・奏帝GF Coil | 朱雀奏帝腰甲【Ｆ】 |
 | 3893 | Genbu・奏帝G Coil | 玄武腰甲【Ｇ】 |
-| 3894 | Genbu・奏帝GF Coil | 奏帝腰甲【Ｆ】 |
+| 3894 | Genbu・奏帝GF Coil | 玄武奏帝腰甲【Ｆ】 |
 | 3895 | Seiryu・奏帝G Coil | 青龍腰甲【Ｇ】 |
-| 3896 | Seiryu・奏帝GF Coil | 奏帝腰甲【Ｆ】 |
+| 3896 | Seiryu・奏帝GF Coil | 青龍奏帝腰甲【Ｆ】 |
 | 3897 | Byakko・銃傑G Coat | 白虎腰衣【Ｇ】 |
-| 3898 | Byakko・銃傑GF Coat | 銃傑腰衣【Ｆ】 |
+| 3898 | Byakko・銃傑GF Coat | 白虎銃傑腰衣【Ｆ】 |
 | 3899 | Suzaku・銃傑G Coat | 朱雀腰衣【Ｇ】 |
-| 3900 | Suzaku・銃傑GF Coat | 銃傑腰衣【Ｆ】 |
+| 3900 | Suzaku・銃傑GF Coat | 朱雀銃傑腰衣【Ｆ】 |
 | 3901 | Genbu・銃傑G Coat | 玄武腰衣【Ｇ】 |
-| 3902 | Genbu・銃傑GF Coat | 銃傑腰衣【Ｆ】 |
+| 3902 | Genbu・銃傑GF Coat | 玄武銃傑腰衣【Ｆ】 |
 | 3903 | Seiryu・銃傑G Coat | 青龍腰衣【Ｇ】 |
-| 3904 | Seiryu・銃傑GF Coat | 銃傑腰衣【Ｆ】 |
+| 3904 | Seiryu・銃傑GF Coat | 青龍銃傑腰衣【Ｆ】 |
 | 3905 | Byakko・銃仙G Coat | 白虎腰衣【Ｇ】 |
-| 3906 | Byakko・銃仙GF Coat | 銃仙腰衣【Ｆ】 |
+| 3906 | Byakko・銃仙GF Coat | 白虎銃仙腰衣【Ｆ】 |
 | 3907 | Suzaku・銃仙G Coat | 朱雀腰衣【Ｇ】 |
-| 3908 | Suzaku・銃仙GF Coat | 銃仙腰衣【Ｆ】 |
+| 3908 | Suzaku・銃仙GF Coat | 朱雀銃仙腰衣【Ｆ】 |
 | 3909 | Genbu・銃仙G Coat | 玄武腰衣【Ｇ】 |
-| 3910 | Genbu・銃仙GF Coat | 銃仙腰衣【Ｆ】 |
+| 3910 | Genbu・銃仙GF Coat | 玄武銃仙腰衣【Ｆ】 |
 | 3911 | Seiryu・銃仙G Coat | 青龍腰衣【Ｇ】 |
-| 3912 | Seiryu・銃仙GF Coat | 銃仙腰衣【Ｆ】 |
+| 3912 | Seiryu・銃仙GF Coat | 青龍銃仙腰衣【Ｆ】 |
 | 3913 | Byakko・Bow 鬼G Coat | 白虎腰衣【Ｇ】 |
 | 3914 | Byakko・Bow 鬼GF Coat | 白虎腰衣【Ｆ】 |
 | 3915 | Suzaku・Bow 鬼G Coat | 朱雀腰衣【Ｇ】 |

@@ -97,12 +97,12 @@
 | 6091 | Dian HS Guard | 德伊恩臂甲【ＨＳ】 |
 | 6092 | Dian GS Guard | 德伊恩臂甲【ＧＳ】 |
 | 6093 | Dian GP Guard | 德伊恩臂甲【ＧＰ】 |
-| 6094 | Wild HS Arms | 沃伊爾護腕【ＨＳ】 |
-| 6095 | Wild GS Arms | 沃伊爾護腕【ＧＳ】 |
-| 6096 | Wild GP Arms | 沃伊爾護腕【ＧＰ】 |
-| 6097 | Wild HS Guard | 沃伊爾臂甲【ＨＳ】 |
-| 6098 | Wild GS Guard | 沃伊爾臂甲【ＧＳ】 |
-| 6099 | Wild GP Guard | 沃伊爾臂甲【ＧＰ】 |
+| 6094 | Wild HS Arms | 狂野護腕【ＨＳ】 |
+| 6095 | Wild GS Arms | 狂野護腕【ＧＳ】 |
+| 6096 | Wild GP Arms | 狂野護腕【ＧＰ】 |
+| 6097 | Wild HS Guard | 狂野臂甲【ＨＳ】 |
+| 6098 | Wild GS Guard | 狂野臂甲【ＧＳ】 |
+| 6099 | Wild GP Guard | 狂野臂甲【ＧＰ】 |
 | 6100 | Flower HS Arms | 芙歐沃艾護腕【ＨＳ】 |
 | 6101 | Flower GS Arms | 芙歐沃艾護腕【ＧＳ】 |
 | 6102 | Flower GP Arms | 芙歐沃艾護腕【ＧＰ】 |
@@ -300,20 +300,20 @@
 | 6294 | Hisui Arms | 翡翠護腕 |
 | 6295 | Hisui F Arms | 翡翠護腕【Ｆ】 |
 | 6296 | Hisui FX Arms | 翡翠護腕【ＦＸ】 |
-| 6297 | Blood Arms | 布歐德護腕 |
-| 6298 | Blood F Arms | 布歐德護腕【Ｆ】 |
-| 6299 | Blood FX Arms | 布歐德護腕【ＦＸ】 |
+| 6297 | Blood Arms | 血護腕 |
+| 6298 | Blood F Arms | 血護腕【Ｆ】 |
+| 6299 | Blood FX Arms | 血護腕【ＦＸ】 |
 | 6300 | Byakko・穿凰G Arms | 白虎護腕【Ｇ】 |
-| 6301 | Byakko・穿凰GF Arms | 穿凰護腕【Ｆ】 |
+| 6301 | Byakko・穿凰GF Arms | 白虎穿凰護腕【Ｆ】 |
 | 6302 | Byakko・穿凰GX Arms | 白虎護腕【ＧＸ】 |
 | 6303 | Suzaku・穿凰G Arms | 朱雀護腕【Ｇ】 |
-| 6304 | Suzaku・穿凰GF Arms | 穿凰護腕【Ｆ】 |
+| 6304 | Suzaku・穿凰GF Arms | 朱雀穿凰護腕【Ｆ】 |
 | 6305 | Suzaku・穿凰GX Arms | 朱雀護腕【ＧＸ】 |
 | 6306 | Genbu・穿凰G Arms | 玄武護腕【Ｇ】 |
-| 6307 | Genbu・穿凰GF Arms | 穿凰護腕【Ｆ】 |
+| 6307 | Genbu・穿凰GF Arms | 玄武穿凰護腕【Ｆ】 |
 | 6308 | Genbu・穿凰GX Arms | 玄武護腕【ＧＸ】 |
 | 6309 | Seiryu・穿凰G Arms | 青龍護腕【Ｇ】 |
-| 6310 | Seiryu・穿凰GF Arms | 穿凰護腕【Ｆ】 |
+| 6310 | Seiryu・穿凰GF Arms | 青龍穿凰護腕【Ｆ】 |
 | 6311 | Seiryu・穿凰GX Arms | 青龍護腕【ＧＸ】 |
 | 6312 | Honour Arms・Red | 榮譽護腕・赤 |
 | 6313 | Honour F Arms・Red | 榮譽護腕【Ｆ】・赤 |

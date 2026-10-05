@@ -309,7 +309,7 @@
 | 10803 | Monotone D Greaves | 姆歐恩歐護腿 |
 | 10804 | Chashiro D Greaves | 奇阿夏伊護腿 |
 | 10805 | Two-tone D Greaves | 特歐斯歐護腿 |
-| 10806 | King Beetle D Crura | 克伊恩艾腿甲 |
+| 10806 | King Beetle D Crura | 王甲蟲腿甲 |
 | 10807 | Butterfly D Crura | 布烏特艾腿甲 |
 | 10808 | Demon Lord ノ足枷D | 魔王護腿 |
 | 10809 | Demon Tale ノ足枷D | 魔譚護腿 |
@@ -448,7 +448,7 @@
 | 10942 | Harudo D Greaves | 赫阿爾烏護腿 |
 | 10943 | Harudo D Leggings | 赫阿爾烏裹腿 |
 | 10944 | Elegance D [Greaves 】 | 艾爾艾格護腿 |
-| 10945 | Grace D [Greaves 】 | 格阿克艾護腿 |
+| 10945 | Grace D [Greaves 】 | 恩寵護腿 |
 | 10946 | Meraginasu D Greaves | 姆艾爾阿護腿 |
 | 10947 | Meraginasu D Leggings | 姆艾爾阿裹腿 |
 | 10948 | Hesyumu D Feet | 赫艾斯烏足 |
@@ -463,7 +463,7 @@
 | 10957 | Himeros D Greaves | 赫伊姆艾護腿 |
 | 10958 | Charien D Leggings | 奇阿爾伊裹腿 |
 | 10959 | Arietta D Leg | 阿爾伊特腿 |
-| 10960 | Craft D Boots | 克阿芙靴 |
+| 10960 | Craft D Boots | 工匠靴 |
 | 10961 | Shieri D Greaves | 夏伊爾伊護腿 |
 | 10962 | Pupen D Greaves | 普烏普艾護腿 |
 | 10963 | Moss Covered D Greaves | 姆歐斯歐護腿 |

@@ -230,9 +230,9 @@
 | 723 | Espinas R Heel | 棘龍踵【Ｒ】 |
 | 724 | Tigrex L Leggings | 轟龍裹腿【Ｌ】 |
 | 725 | Guns Leg | 格烏恩腿 |
-| 726 | Wild Leg | 沃伊爾腿 |
+| 726 | Wild Leg | 狂野腿 |
 | 727 | Guns Boots | 格烏恩靴 |
-| 728 | Wild Boots | 沃伊爾靴 |
+| 728 | Wild Boots | 狂野靴 |
 | 729 | Ecole Leg | 艾克歐爾腿 |
 | 730 | Dian Leg | 德伊恩腿 |
 | 731 | Ecole Boots | 艾克歐爾靴 |
@@ -313,9 +313,9 @@
 | 806 | G・Knight タイツ SP Red | 騎士護腿【ＳＰ】・赤 |
 | 807 | G・Knight タイツ SP Blue | 騎士護腿【ＳＰ】・青 |
 | 808 | G・Knight タイツ SP Purple | 騎士護腿【ＳＰ】・紫 |
-| 809 | PVタイツ SP Red | 塔伊茨護腿【ＳＰ】 |
-| 810 | PVタイツ SP Blue | 塔伊茨護腿【ＳＰ】 |
-| 811 | PVタイツ SP Purple | 塔伊茨護腿【ＳＰ】 |
+| 809 | PVタイツ SP Red | 塔伊茨護腿【ＳＰ】・赤 |
+| 810 | PVタイツ SP Blue | 塔伊茨護腿【ＳＰ】・青 |
+| 811 | PVタイツ SP Purple | 塔伊茨護腿【ＳＰ】・紫 |
 | 812 | Hermitaur L Greaves | 盾蟹護腿【Ｌ】 |
 | 813 | High Metal L Greaves | 上位金屬護腿【Ｌ】 |
 | 814 | Lavasioth L Greaves | 熔岩龍護腿【Ｌ】 |
@@ -453,10 +453,10 @@
 | 946 | アナキ Boots | 阿納基靴 |
 | 947 | Harvest Boots | 赫阿爾艾靴 |
 | 948 | Harvest Leggings | 赫阿爾艾裹腿 |
-| 949 | Craft Boots | 克阿芙靴 |
-| 950 | Craft F Boots | 克阿芙靴【Ｆ】 |
-| 951 | Craft Leggings | 克阿芙裹腿 |
-| 952 | Craft F Leggings | 克阿芙裹腿【Ｆ】 |
+| 949 | Craft Boots | 工匠靴 |
+| 950 | Craft F Boots | 工匠靴【Ｆ】 |
+| 951 | Craft Leggings | 工匠裹腿 |
+| 952 | Craft F Leggings | 工匠裹腿【Ｆ】 |
 | 953 | Ledia Boots | 爾艾德伊靴 |
 | 954 | Ledia F Boots | 爾艾德伊靴【Ｆ】 |
 | 955 | Ledia Leggings | 爾艾德伊裹腿 |

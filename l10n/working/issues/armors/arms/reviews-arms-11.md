@@ -349,8 +349,8 @@
 | 5343 | 騎士王の Kote:Bow GP White | 騎士王の:籠手【ＧＰ】・白 |
 | 5344 | Green 竜ノ具足GP【 Kote 】 | 竜具足籠手【ＧＰ】・緑 |
 | 5345 | Green 竜ノ Haori GP【 Kote 】 | 竜籠手【ＧＰ】・緑 |
-| 5346 | Red 備ノ具足GP【 Kote 】 | 備具足籠手【ＧＰ】・赤 |
-| 5347 | Red 備ノ Haori GP【 Kote 】 | 備籠手【ＧＰ】・赤 |
+| 5346 | Red 備ノ具足GP【 Kote 】 | 備具足籠手・赤 |
+| 5347 | Red 備ノ Haori GP【 Kote 】 | 備羽織籠手【ＧＰ】・赤 |
 | 5348 | Real GP Arms・White | 真護腕【ＧＰ】・白 |
 | 5349 | Real GP Arms・Gold | 真護腕【ＧＰ】・金 |
 | 5350 | Real GP Arms・Blue | 真護腕【ＧＰ】・青 |

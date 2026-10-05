@@ -54,7 +54,7 @@
 | 12548 | ダミー | (dummy) |
 | 12549 | ダミー | (dummy) |
 | 12550 | ダミー | (dummy) |
-| 12551 | Brave ZX Greaves | 布阿芙艾護腿【ＺＸ】 |
+| 12551 | Brave ZX Greaves | 勇者護腿【ＺＸ】 |
 | 12552 | Bogabado Z Greaves | 布歐格阿護腿【Ｚ】 |
 | 12553 | Bogabado ZF Greaves | 布歐格阿護腿【ＺＦ】 |
 | 12554 | Bogabado ZY Greaves | 布歐格阿護腿【ＺＹ】 |
@@ -84,16 +84,16 @@
 | 12578 | Hematite F Greaves | 赫艾姆阿護腿【Ｆ】 |
 | 12579 | Hematite FX Greaves | 赫艾姆阿護腿【ＦＸ】 |
 | 12580 | Byakko・磁星G Feet | 白虎足【Ｇ】 |
-| 12581 | Byakko・磁星GF Feet | 磁星足【Ｆ】 |
+| 12581 | Byakko・磁星GF Feet | 白虎磁星足【Ｆ】 |
 | 12582 | Byakko・磁星GX Feet | 白虎足【ＧＸ】 |
 | 12583 | Suzaku・磁星G Feet | 朱雀足【Ｇ】 |
-| 12584 | Suzaku・磁星GF Feet | 磁星足【Ｆ】 |
+| 12584 | Suzaku・磁星GF Feet | 朱雀磁星足【Ｆ】 |
 | 12585 | Suzaku・磁星GX Feet | 朱雀足【ＧＸ】 |
 | 12586 | Genbu・磁星G Feet | 玄武足【Ｇ】 |
-| 12587 | Genbu・磁星GF Feet | 磁星足【Ｆ】 |
+| 12587 | Genbu・磁星GF Feet | 玄武磁星足【Ｆ】 |
 | 12588 | Genbu・磁星GX Feet | 玄武足【ＧＸ】 |
 | 12589 | Seiryu・磁星G Feet | 青龍足【Ｇ】 |
-| 12590 | Seiryu・磁星GF Feet | 磁星足【Ｆ】 |
+| 12590 | Seiryu・磁星GF Feet | 青龍磁星足【Ｆ】 |
 | 12591 | Seiryu・磁星GX Feet | 青龍足【ＧＸ】 |
 | 12592 | White 蘭・磁星 Feet | 蘭磁星足・白 |
 | 12593 | White 蘭・磁星F Feet | 蘭磁星足【Ｆ】・白 |
@@ -110,9 +110,9 @@
 | 12604 | 月夜・磁星G Feet | 月夜磁星足【Ｇ】 |
 | 12605 | 月夜・磁星GF Feet | 月夜磁星足【Ｆ】 |
 | 12606 | 月夜・磁星GX Feet | 月夜磁星足【ＧＸ】 |
-| 12607 | Green 穹・磁星G Feet | 穹磁星足・緑 |
+| 12607 | Green 穹・磁星G Feet | 穹磁星足【Ｇ】・緑 |
 | 12608 | Green 穹・磁星GF Feet | 穹磁星足【Ｆ】・緑 |
-| 12609 | Green 穹・磁星GX Feet | 穹磁星足・緑 |
+| 12609 | Green 穹・磁星GX Feet | 穹磁星足【ＧＸ】・緑 |
 | 12610 | Masaha Dress [Tabi] Red | 真砂禮服足袋・赤 |
 | 12611 | Masaha Dress F [Tabi] Red | 真砂禮服足袋【Ｆ】・赤 |
 | 12612 | Masaha Dress FZ [Tabi] Red | 真砂禮服足袋【ＦＺ】・赤 |
@@ -182,24 +182,24 @@
 | 12676 | Masaha Dress D [Tabi] Silver | 姆阿斯阿足袋・銀 |
 | 12677 | Masaha Dress D [Tabi] Blue | 姆阿斯阿足袋・青 |
 | 12678 | Masaha Dress D [Tabi] Orange | 姆阿斯阿足袋・橙 |
-| 12679 | Genbu・Kensei D Feet | 格艾恩烏足 |
-| 12680 | Genbu・双龍D Feet | 双龍足 |
-| 12681 | Genbu・剣王D Feet | 剣王足 |
-| 12682 | Genbu・刀神D Feet | 刀神足 |
-| 12683 | Genbu・Heaven 槍D Feet | 槍天足 |
-| 12684 | Genbu・砲皇D Feet | 砲皇足 |
-| 12685 | Genbu・鈍器獣D Feet | 鈍器獣足 |
-| 12686 | Genbu・奏帝D Feet | 奏帝足 |
-| 12687 | Genbu・穿凰D Feet | 穿凰足 |
-| 12688 | Genbu・斬将D Feet | 斬将足 |
-| 12689 | Genbu・銃傑D Boots | 銃傑靴 |
-| 12690 | Genbu・銃仙D Boots | 銃仙靴 |
+| 12679 | Genbu・Kensei D Feet | 玄武格艾恩烏足 |
+| 12680 | Genbu・双龍D Feet | 玄武双龍足 |
+| 12681 | Genbu・剣王D Feet | 玄武剣王足 |
+| 12682 | Genbu・刀神D Feet | 玄武刀神足 |
+| 12683 | Genbu・Heaven 槍D Feet | 玄武槍天足 |
+| 12684 | Genbu・砲皇D Feet | 玄武砲皇足 |
+| 12685 | Genbu・鈍器獣D Feet | 玄武鈍器獣足 |
+| 12686 | Genbu・奏帝D Feet | 玄武奏帝足 |
+| 12687 | Genbu・穿凰D Feet | 玄武穿凰足 |
+| 12688 | Genbu・斬将D Feet | 玄武斬将足 |
+| 12689 | Genbu・銃傑D Boots | 玄武銃傑靴 |
+| 12690 | Genbu・銃仙D Boots | 玄武銃仙靴 |
 | 12691 | Genbu・Bow 鬼D Boots | 玄武靴 |
 | 12692 | Tanzanite D Greaves | 特阿恩阿護腿 |
 | 12693 | Hematite D Greaves | 赫艾姆阿護腿 |
-| 12694 | Byakko・磁星D Feet | 磁星足 |
-| 12695 | Suzaku・磁星D Feet | 磁星足 |
-| 12696 | Genbu・磁星D Feet | 磁星足 |
+| 12694 | Byakko・磁星D Feet | 白虎磁星足 |
+| 12695 | Suzaku・磁星D Feet | 朱雀磁星足 |
+| 12696 | Genbu・磁星D Feet | 玄武磁星足 |
 | 12697 | Tigrex Greaves PD Black | 轟龍護腿【ＰＤ】・黑 |
 | 12698 | Tigrex Greaves PD White | 轟龍護腿【ＰＤ】・白 |
 | 12699 | Tigrex Greaves PD Purple | 轟龍護腿【ＰＤ】・紫 |
@@ -326,9 +326,9 @@
 | 12820 | Arma D Feet・White | 阿爾阿斯足・白 |
 | 12821 | Arma D Feet・Blue | 阿爾阿斯足・青 |
 | 12822 | Arma D Feet・Tea | 阿爾阿斯足・茶 |
-| 12823 | Honour D Feet・Red | 赫歐恩歐足・赤 |
-| 12824 | Honour D Feet・Blue | 赫歐恩歐足・青 |
-| 12825 | Honour D Feet・Green | 赫歐恩歐足・緑 |
+| 12823 | Honour D Feet・Red | 榮譽足・赤 |
+| 12824 | Honour D Feet・Blue | 榮譽足・青 |
+| 12825 | Honour D Feet・Green | 榮譽足・緑 |
 | 12826 | Honour D Feet・紺 | 紺足 |
 | 12827 | Pics D Feet・Green | 皮克斯足・緑 |
 | 12828 | Pics D Feet・Purple | 皮克斯足・紫 |

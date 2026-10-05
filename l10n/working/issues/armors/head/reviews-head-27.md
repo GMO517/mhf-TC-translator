@@ -15,13 +15,13 @@
 | 13009 | Renka Headguard C | 爾艾恩阿護額 |
 | 13010 | Survey Corps D Head | 斯烏爾艾頭兜 |
 | 13011 | Training Corps D Head | 特阿恩伊頭兜 |
-| 13012 | Twelve Paladins' Armor D・Yellow | 特艾爾艾頭兜・黄 |
-| 13013 | Twelve Paladins' Armor D・White | 特艾爾艾頭兜・白 |
-| 13014 | Twelve Paladins' Armor D・Brown | 特艾爾艾頭兜 |
-| 13015 | Twelve Paladins' Armor D・Black | 特艾爾艾頭兜・黑 |
-| 13016 | Holy Maiden Armor D・Hairtie | 赫歐爾阿髮結 |
+| 13012 | Twelve Paladins' Armor D・Yellow | 十二聖騎鎧頭兜・黄 |
+| 13013 | Twelve Paladins' Armor D・White | 十二聖騎鎧頭兜・白 |
+| 13014 | Twelve Paladins' Armor D・Brown | 十二聖騎鎧頭兜 |
+| 13015 | Twelve Paladins' Armor D・Black | 十二聖騎鎧頭兜・黑 |
+| 13016 | Holy Maiden Armor D・Hairtie | 聖女鎧髮結 |
 | 13017 | Dragon Slayer Armor D | 屠龍頭兜 |
-| 13018 | Helm of Hidden Infidelity D | 歐芙伊德頭兜 |
+| 13018 | Helm of Hidden Infidelity D | 隱匿不忠頭兜 |
 | 13019 | Dinato D Head | 德伊恩阿頭兜 |
 | 13020 | Duque D Head | 德烏斯烏頭兜 |
 | 13021 | Granu D Head | 格阿恩烏頭兜 |
@@ -35,7 +35,7 @@
 | 13029 | Pyrope D Helm | 普歐普艾頭兜 |
 | 13030 | Iolite D Helm | 伊爾伊特頭兜 |
 | 13031 | Rutile D Helm | 爾烏特伊頭兜 |
-| 13032 | Blood D Helm | 布歐德頭兜 |
+| 13032 | Blood D Helm | 血頭兜 |
 | 13033 | Citrine D Cap | 克伊特伊兜帽 |
 | 13034 | Peridot D Cap | 普艾爾伊兜帽 |
 | 13035 | Turquoise D Cap | 特烏爾烏兜帽 |
@@ -281,7 +281,7 @@
 | 13275 | Post-Festivities【Winning Cat】 | 祭後優勝猫頭兜 |
 | 13276 | Post-Festivities【Winning Cat】 | 祭後優勝猫頭兜 |
 | 13277 | Saine D Helm | 斯阿恩艾頭兜 |
-| 13278 | Wing D Head | 沃伊恩頭兜 |
+| 13278 | Wing D Head | 翼頭兜 |
 | 13279 | Gasra ZD Helm | 格阿斯阿頭兜 |
 | 13280 | Gasra ZD Cap | 格阿斯阿兜帽 |
 | 13281 | Seregios C Helm | 斯艾爾艾頭兜 |
@@ -294,18 +294,18 @@
 | 13288 | Noel D Head | 恩歐爾頭兜 |
 | 13289 | Bune D Head | 布烏恩艾頭兜 |
 | 13290 | Melas D Wig | 姆艾爾阿假髮 |
-| 13291 | Byakko・Kensei D Helm | 布阿克歐頭兜 |
-| 13292 | Byakko・双龍D Helm | 双龍頭兜 |
-| 13293 | Byakko・剣王D Helm | 剣王頭兜 |
-| 13294 | Byakko・刀神D Helm | 刀神頭兜 |
-| 13295 | Byakko・Heaven 槍D Helm | 槍天頭兜 |
-| 13296 | Byakko・砲皇D Helm | 砲皇頭兜 |
-| 13297 | Byakko・鈍器獣D Helm | 鈍器獣頭兜 |
-| 13298 | Byakko・奏帝D Helm | 奏帝頭兜 |
-| 13299 | Byakko・穿凰D Helm | 穿凰頭兜 |
-| 13300 | Byakko・斬将D Helm | 斬将頭兜 |
-| 13301 | Byakko・銃傑D Mask | 銃傑帽子 |
-| 13302 | Byakko・銃仙D Mask | 銃仙帽子 |
+| 13291 | Byakko・Kensei D Helm | 白虎布阿克歐頭兜 |
+| 13292 | Byakko・双龍D Helm | 白虎双龍頭兜 |
+| 13293 | Byakko・剣王D Helm | 白虎剣王頭兜 |
+| 13294 | Byakko・刀神D Helm | 白虎刀神頭兜 |
+| 13295 | Byakko・Heaven 槍D Helm | 白虎槍天頭兜 |
+| 13296 | Byakko・砲皇D Helm | 白虎砲皇頭兜 |
+| 13297 | Byakko・鈍器獣D Helm | 白虎鈍器獣頭兜 |
+| 13298 | Byakko・奏帝D Helm | 白虎奏帝頭兜 |
+| 13299 | Byakko・穿凰D Helm | 白虎穿凰頭兜 |
+| 13300 | Byakko・斬将D Helm | 白虎斬将頭兜 |
+| 13301 | Byakko・銃傑D Mask | 白虎銃傑帽子 |
+| 13302 | Byakko・銃仙D Mask | 白虎銃仙帽子 |
 | 13303 | Byakko・Bow 鬼D Mask | 白虎帽子 |
 | 13304 | Kirin Horn PD Red | 麒麟角【ＰＤ】・赤 |
 | 13305 | Kirin Horn PD Purple | 麒麟角【ＰＤ】・紫 |
@@ -316,12 +316,12 @@
 | 13310 | Kaiser Mask PD Black | 帝王帽子【ＰＤ】・黑 |
 | 13311 | Kaiser Crown PD Green | 帝王冠【ＰＤ】・緑 |
 | 13312 | Kaiser Mask PD Green | 帝王帽子【ＰＤ】・緑 |
-| 13313 | Mizuha 【帽子】 PD Blue | 水羽頭兜【ＰＤ】 |
-| 13314 | Mizuha 【帽子】 PD Red | 水羽頭兜【ＰＤ】 |
-| 13315 | Mizuha 【帽子】 PD Yellow | 水羽頭兜【ＰＤ】 |
-| 13316 | Toyotama 【帽子】 PD Blue | 豐玉頭兜【ＰＤ】 |
-| 13317 | Toyotama 【帽子】 PD Red | 豐玉頭兜【ＰＤ】 |
-| 13318 | Toyotama 【帽子】 PD Yellow | 豐玉頭兜【ＰＤ】 |
+| 13313 | Mizuha 【帽子】 PD Blue | 水羽頭兜【ＰＤ】・青 |
+| 13314 | Mizuha 【帽子】 PD Red | 水羽頭兜【ＰＤ】・赤 |
+| 13315 | Mizuha 【帽子】 PD Yellow | 水羽頭兜【ＰＤ】・黄 |
+| 13316 | Toyotama 【帽子】 PD Blue | 豐玉頭兜【ＰＤ】・青 |
+| 13317 | Toyotama 【帽子】 PD Red | 豐玉頭兜【ＰＤ】・赤 |
+| 13318 | Toyotama 【帽子】 PD Yellow | 豐玉頭兜【ＰＤ】・黄 |
 | 13319 | 暁丸 Kabuto PD Red | 暁丸兜【ＰＤ】・赤 |
 | 13320 | 暁丸 Kabuto PD Purple | 暁丸兜【ＰＤ】・紫 |
 | 13321 | 暁丸 Kabuto PD White | 暁丸兜【ＰＤ】・白 |
@@ -339,18 +339,18 @@
 | 13333 | Kukubo D Cap | 克烏克烏兜帽 |
 | 13334 | Kakabu D Cap | 克阿克阿兜帽 |
 | 13335 | Aruru D Cap | 阿爾烏爾兜帽 |
-| 13336 | Suzaku・Kensei D Helm | 斯烏茲阿頭兜 |
-| 13337 | Suzaku・双龍D Helm | 双龍頭兜 |
-| 13338 | Suzaku・剣王D Helm | 剣王頭兜 |
-| 13339 | Suzaku・刀神D Helm | 刀神頭兜 |
-| 13340 | Suzaku・Heaven 槍D Helm | 槍天頭兜 |
-| 13341 | Suzaku・砲皇D Helm | 砲皇頭兜 |
-| 13342 | Suzaku・鈍器獣D Helm | 鈍器獣頭兜 |
-| 13343 | Suzaku・奏帝D Helm | 奏帝頭兜 |
-| 13344 | Suzaku・穿凰D Helm | 穿凰頭兜 |
-| 13345 | Suzaku・斬将D Helm | 斬将頭兜 |
-| 13346 | Suzaku・銃傑D Mask | 銃傑帽子 |
-| 13347 | Suzaku・銃仙D Mask | 銃仙帽子 |
+| 13336 | Suzaku・Kensei D Helm | 朱雀斯烏茲阿頭兜 |
+| 13337 | Suzaku・双龍D Helm | 朱雀双龍頭兜 |
+| 13338 | Suzaku・剣王D Helm | 朱雀剣王頭兜 |
+| 13339 | Suzaku・刀神D Helm | 朱雀刀神頭兜 |
+| 13340 | Suzaku・Heaven 槍D Helm | 朱雀槍天頭兜 |
+| 13341 | Suzaku・砲皇D Helm | 朱雀砲皇頭兜 |
+| 13342 | Suzaku・鈍器獣D Helm | 朱雀鈍器獣頭兜 |
+| 13343 | Suzaku・奏帝D Helm | 朱雀奏帝頭兜 |
+| 13344 | Suzaku・穿凰D Helm | 朱雀穿凰頭兜 |
+| 13345 | Suzaku・斬将D Helm | 朱雀斬将頭兜 |
+| 13346 | Suzaku・銃傑D Mask | 朱雀銃傑帽子 |
+| 13347 | Suzaku・銃仙D Mask | 朱雀銃仙帽子 |
 | 13348 | Suzaku・Bow 鬼D Mask | 朱雀帽子 |
 | 13349 | G・Knight Mask PD Red | 騎士帽子【ＰＤ】・赤 |
 | 13350 | G・Knight Mask PD Blue | 騎士帽子【ＰＤ】・青 |

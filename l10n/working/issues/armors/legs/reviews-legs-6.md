@@ -41,8 +41,8 @@
 | 2535 | Pandeum FZ Boots | 普阿恩艾靴【ＦＺ】 |
 | 2536 | Dian FZ Leg | 德伊恩腿【ＦＺ】 |
 | 2537 | Dian FZ Boots | 德伊恩靴【ＦＺ】 |
-| 2538 | Wild FZ Leg | 沃伊爾腿【ＦＺ】 |
-| 2539 | Wild FZ Boots | 沃伊爾靴【ＦＺ】 |
+| 2538 | Wild FZ Leg | 狂野腿【ＦＺ】 |
+| 2539 | Wild FZ Boots | 狂野靴【ＦＺ】 |
 | 2540 | Flower FZ Leg | 芙歐沃艾腿【ＦＺ】 |
 | 2541 | Flower FZ Boots | 芙歐沃艾靴【ＦＺ】 |
 | 2542 | Fias FZ Leg | 芙伊斯腿【ＦＺ】 |

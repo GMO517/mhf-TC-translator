@@ -81,8 +81,8 @@
 | 1075 | Chaser F Guard | 追撃臂甲【Ｆ】 |
 | 1076 | Royal Arms | 王室護腕 |
 | 1077 | Royal F Arms | 王室護腕【Ｆ】 |
-| 1078 | Lord Guard | 爾歐爾臂甲 |
-| 1079 | Lord F Guard | 爾歐爾臂甲【Ｆ】 |
+| 1078 | Lord Guard | 領主臂甲 |
+| 1079 | Lord F Guard | 領主臂甲【Ｆ】 |
 | 1080 | Dicto Arms | 德伊克歐護腕 |
 | 1081 | Dicto F Arms | 德伊克歐護腕【Ｆ】 |
 | 1082 | Diletto Guard | 德伊爾艾臂甲 |

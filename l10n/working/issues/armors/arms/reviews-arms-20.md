@@ -136,16 +136,16 @@
 | 9630 | Rutile F Arms | 爾烏特伊護腕【Ｆ】 |
 | 9631 | Rutile FX Arms | 爾烏特伊護腕【ＦＸ】 |
 | 9632 | Byakko・斬将G Arms | 白虎護腕【Ｇ】 |
-| 9633 | Byakko・斬将GF Arms | 斬将護腕【Ｆ】 |
+| 9633 | Byakko・斬将GF Arms | 白虎斬将護腕【Ｆ】 |
 | 9634 | Byakko・斬将GX Arms | 白虎護腕【ＧＸ】 |
 | 9635 | Suzaku・斬将G Arms | 朱雀護腕【Ｇ】 |
-| 9636 | Suzaku・斬将GF Arms | 斬将護腕【Ｆ】 |
+| 9636 | Suzaku・斬将GF Arms | 朱雀斬将護腕【Ｆ】 |
 | 9637 | Suzaku・斬将GX Arms | 朱雀護腕【ＧＸ】 |
 | 9638 | Genbu・斬将G Arms | 玄武護腕【Ｇ】 |
-| 9639 | Genbu・斬将GF Arms | 斬将護腕【Ｆ】 |
+| 9639 | Genbu・斬将GF Arms | 玄武斬将護腕【Ｆ】 |
 | 9640 | Genbu・斬将GX Arms | 玄武護腕【ＧＸ】 |
 | 9641 | Seiryu・斬将G Arms | 青龍護腕【Ｇ】 |
-| 9642 | Seiryu・斬将GF Arms | 斬将護腕【Ｆ】 |
+| 9642 | Seiryu・斬将GF Arms | 青龍斬将護腕【Ｆ】 |
 | 9643 | Seiryu・斬将GX Arms | 青龍護腕【ＧＸ】 |
 | 9644 | White 蘭・斬将 Arms | 蘭斬将護腕・白 |
 | 9645 | White 蘭・斬将F Arms | 蘭斬将護腕【Ｆ】・白 |
@@ -162,9 +162,9 @@
 | 9656 | Crimson 霞・斬将G Arms | 霞斬将護腕【Ｇ】・紅 |
 | 9657 | Crimson 霞・斬将GF Arms | 霞斬将護腕【Ｆ】・紅 |
 | 9658 | Crimson 霞・斬将GX Arms | 霞斬将護腕【ＧＸ】・紅 |
-| 9659 | Green 穹・斬将G Arms | 穹斬将護腕・緑 |
+| 9659 | Green 穹・斬将G Arms | 穹斬将護腕【Ｇ】・緑 |
 | 9660 | Green 穹・斬将GF Arms | 穹斬将護腕【Ｆ】・緑 |
-| 9661 | Green 穹・斬将GX Arms | 穹斬将護腕・緑 |
+| 9661 | Green 穹・斬将GX Arms | 穹斬将護腕【ＧＸ】・緑 |
 | 9662 | Guan Arms | 關護腕 |
 | 9663 | Guan F Arms | 關護腕【Ｆ】 |
 | 9664 | Guan FX Arms | 關護腕【ＦＸ】 |

@@ -37,8 +37,8 @@
 | 1030 | White Belt Helm | 白帶頭兜 |
 | 1031 | Elegy Helm | 艾爾艾格頭兜 |
 | 1032 | Titan Elegy Helm | 特伊特阿頭兜 |
-| 1033 | Divine Crown | 德伊芙伊冠 |
-| 1034 | Titan Divine Crown | 特伊特阿冠 |
+| 1033 | Divine Crown | 神聖冠 |
+| 1034 | Titan Divine Crown | 泰坦神聖冠 |
 | 1035 | Ashalt Headwear | 灰鹽頭飾 |
 | 1036 | Ashalt Mask | 灰鹽帽子 |
 | 1037 | ローク Helm | 洛可頭兜 |
@@ -161,10 +161,10 @@
 | 1154 | アナキ Band | 阿納基頭帶 |
 | 1155 | Harvest Head | 赫阿爾艾頭兜 |
 | 1156 | Harvest Piercing | 赫阿爾艾耳飾 |
-| 1157 | Craft Head | 克阿芙頭兜 |
-| 1158 | Craft F Head | 克阿芙頭兜【Ｆ】 |
-| 1159 | Craft Piercing | 克阿芙耳飾 |
-| 1160 | Craft F Piercing | 克阿芙耳飾【Ｆ】 |
+| 1157 | Craft Head | 工匠頭兜 |
+| 1158 | Craft F Head | 工匠頭兜【Ｆ】 |
+| 1159 | Craft Piercing | 工匠耳飾 |
+| 1160 | Craft F Piercing | 工匠耳飾【Ｆ】 |
 | 1161 | Ledia Head | 爾艾德伊頭兜 |
 | 1162 | Ledia F Head | 爾艾德伊頭兜【Ｆ】 |
 | 1163 | Ledia Piercing | 爾艾德伊耳飾 |
@@ -317,8 +317,8 @@
 | 1311 | Chaser F Cap | 追撃兜帽【Ｆ】 |
 | 1312 | Royal Head | 王室頭兜 |
 | 1313 | Royal F Head | 王室頭兜【Ｆ】 |
-| 1314 | Lord Cap | 爾歐爾兜帽 |
-| 1315 | Lord F Cap | 爾歐爾兜帽【Ｆ】 |
+| 1314 | Lord Cap | 領主兜帽 |
+| 1315 | Lord F Cap | 領主兜帽【Ｆ】 |
 | 1316 | Dicto Head | 德伊克歐頭兜 |
 | 1317 | Dicto F Head | 德伊克歐頭兜【Ｆ】 |
 | 1318 | Diletto Piercing | 德伊爾艾耳飾 |

@@ -35,8 +35,8 @@
 | 3029 | Pandeum FZ Piercing | 普阿恩艾耳飾【ＦＺ】 |
 | 3030 | Dian FZ Head | 德伊恩頭兜【ＦＺ】 |
 | 3031 | Dian FZ Piercing | 德伊恩耳飾【ＦＺ】 |
-| 3032 | Wild FZ Head | 沃伊爾頭兜【ＦＺ】 |
-| 3033 | Wild FZ Piercing | 沃伊爾耳飾【ＦＺ】 |
+| 3032 | Wild FZ Head | 狂野頭兜【ＦＺ】 |
+| 3033 | Wild FZ Piercing | 狂野耳飾【ＦＺ】 |
 | 3034 | Flower FZ Head | 芙歐沃艾頭兜【ＦＺ】 |
 | 3035 | Flower FZ Piercing | 芙歐沃艾耳飾【ＦＺ】 |
 | 3036 | Fias FZ Head | 芙伊斯頭兜【ＦＺ】 |
@@ -111,7 +111,7 @@
 | 3105 | Odiva Cap | 奧蒂瓦兜帽 |
 | 3106 | Odiva F Cap | 奧蒂瓦兜帽【Ｆ】 |
 | 3107 | Odiva FX Cap | 奧蒂瓦兜帽【ＦＸ】 |
-| 3108 | Warrior Kabuto | 沃阿爾伊兜 |
+| 3108 | Warrior Kabuto | 戰士兜 |
 | 3109 | Sunlight Kabuto | 斯烏恩伊兜 |
 | 3110 | Blitz F Horn | 布伊特角【Ｆ】 |
 | 3111 | Blitz F Corno | 布伊特角【Ｆ】 |
@@ -119,7 +119,7 @@
 | 3113 | Flame F Mask | 炎帽子【Ｆ】 |
 | 3114 | Wind F Glare | 風睨【Ｆ】 |
 | 3115 | Wind F Snarl | 風咆【Ｆ】 |
-| 3116 | Warrior F Kabuto | 沃阿爾伊兜【Ｆ】 |
+| 3116 | Warrior F Kabuto | 戰士兜【Ｆ】 |
 | 3117 | Sunlight F Kabuto | 斯烏恩伊兜【Ｆ】 |
 | 3118 | Wadatsumi F【Eboshi】 | 綿津見烏帽子【Ｆ】 |
 | 3119 | Okami F【Eboshi】 | 狼烏帽子【Ｆ】 |
@@ -287,7 +287,7 @@
 | 3281 | Flame FX Mask | 炎帽子【ＦＸ】 |
 | 3282 | Wind FX Glare | 風睨【ＦＸ】 |
 | 3283 | Wind FX Snarl | 風咆【ＦＸ】 |
-| 3284 | Warrior FX Kabuto | 沃阿爾伊兜【ＦＸ】 |
+| 3284 | Warrior FX Kabuto | 戰士兜【ＦＸ】 |
 | 3285 | Sunlight FX Kabuto | 斯烏恩伊兜【ＦＸ】 |
 | 3286 | Wadatsumi FX【Eboshi】 | 綿津見烏帽子【ＦＸ】 |
 | 3287 | Okami FX【Eboshi】 | 狼烏帽子【ＦＸ】 |

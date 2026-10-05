@@ -9,7 +9,6 @@
 
 | CATEGORY | 進度 | 批次產物 | 下一筆 |
 |---|---|---|---|
-| armors 五部位 | qa_issues（已回寫；2026-10-05 QA 修 CSV） | `batch-armors-*-gate4-writeback.json` | Fixer：`qa-armors.md` ISSUE-002／003；標記 318；**非重翻** |
 | Gate4 延伸（任務／UI／劇情） | pending | — | 見 `docs/TODO.md` Gate4；疑問→`armors/open-questions.md` Q-02 |
 
 ## 待獨立 QA
@@ -17,13 +16,13 @@
 | CATEGORY | issue |
 |---|---|
 | beads-info / seals-jebia | 見既有 stub；勿重翻 |
-| **armors（五部位）** | `issues/armors/qa-armors.md`＋`qa-transliteration.md`／hits；`open-questions.md` |
 | monsters-description | `issues/monsters/review-monsters-description.md` |
 
 ## 處理完（qa_done）
 
 | CATEGORY | issue／review 歸檔 |
 |---|---|
+| **armors 五部位** | `issues/armors/qa-armors.md`；QA 0／wash 0；CSV 已更新；**未** finish_batch 本體 |
 | tickets | `items-name__tickets.md`；`archive/items-name/review-items-name__tickets.md` |
 | consumables | `items-name__consumables.md`；`archive/items-name/review-items-name__consumables.md` |
 | monster-materials | `items-name__monster-materials.md`；`archive/items-name/review-items-name__monster-materials.md` |

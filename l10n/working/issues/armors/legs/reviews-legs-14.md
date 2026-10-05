@@ -490,9 +490,9 @@
 | 6984 | Crimson 霞・双龍G Feet | 霞双龍足【Ｇ】・紅 |
 | 6985 | Crimson 霞・双龍GF Feet | 霞双龍足【Ｆ】・紅 |
 | 6986 | Crimson 霞・双龍GX Feet | 霞双龍足【ＧＸ】・紅 |
-| 6987 | Green 穹・双龍G Feet | 穹双龍足・緑 |
+| 6987 | Green 穹・双龍G Feet | 穹双龍足【Ｇ】・緑 |
 | 6988 | Green 穹・双龍GF Feet | 穹双龍足【Ｆ】・緑 |
-| 6989 | Green 穹・双龍GX Feet | 穹双龍足・緑 |
+| 6989 | Green 穹・双龍GX Feet | 穹双龍足【ＧＸ】・緑 |
 | 6990 | White 蘭・剣王 Feet | 蘭剣王足・白 |
 | 6991 | White 蘭・剣王F Feet | 蘭剣王足【Ｆ】・白 |
 | 6992 | White 蘭・剣王FX Feet | 蘭剣王足【ＦＸ】・白 |

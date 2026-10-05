@@ -237,32 +237,32 @@
 | 1731 | 蘭蛮の履・Gold | 蘭蛮の履護腿・金 |
 | 1732 | 竜巻脚着・Black | 竜巻脚着護腿・黑 |
 | 1733 | 竜巻F脚着・Black | 竜巻脚着護腿・黑 |
-| 1734 | True 空脚着・Black | 空脚着護腿・黑 |
-| 1735 | True 空F脚着・Black | 空脚着護腿・黑 |
+| 1734 | True 空脚着・Black | 真空脚着護腿・黑 |
+| 1735 | True 空F脚着・Black | 真空脚着護腿・黑 |
 | 1736 | 千裂脚着・Black | 千裂脚着護腿・黑 |
 | 1737 | 千裂F脚着・Black | 千裂脚着護腿・黑 |
 | 1738 | 覇山脚着・Black | 覇山脚着護腿・黑 |
 | 1739 | 覇山F脚着・Black | 覇山脚着護腿・黑 |
 | 1740 | 竜巻脚着・Tea | 竜巻脚着護腿・茶 |
 | 1741 | 竜巻F脚着・Tea | 竜巻脚着護腿・茶 |
-| 1742 | True 空脚着・Tea | 空脚着護腿・茶 |
-| 1743 | True 空F脚着・Tea | 空脚着護腿・茶 |
+| 1742 | True 空脚着・Tea | 真空脚着護腿・茶 |
+| 1743 | True 空F脚着・Tea | 真空脚着護腿・茶 |
 | 1744 | 千裂脚着・Purple | 千裂脚着護腿・紫 |
 | 1745 | 千裂F脚着・Purple | 千裂脚着護腿・紫 |
 | 1746 | 覇山脚着・Purple | 覇山脚着護腿・紫 |
 | 1747 | 覇山F脚着・Purple | 覇山脚着護腿・紫 |
 | 1748 | 竜巻脚着・White | 竜巻脚着護腿・白 |
 | 1749 | 竜巻F脚着・White | 竜巻脚着護腿・白 |
-| 1750 | True 空脚着・White | 空脚着護腿・白 |
-| 1751 | True 空F脚着・White | 空脚着護腿・白 |
+| 1750 | True 空脚着・White | 真空脚着護腿・白 |
+| 1751 | True 空F脚着・White | 真空脚着護腿・白 |
 | 1752 | 千裂脚着・White | 千裂脚着護腿・白 |
 | 1753 | 千裂F脚着・White | 千裂脚着護腿・白 |
 | 1754 | 覇山脚着・White | 覇山脚着護腿・白 |
 | 1755 | 覇山F脚着・White | 覇山脚着護腿・白 |
 | 1756 | 竜巻脚着・Blue | 竜巻脚着護腿・青 |
 | 1757 | 竜巻F脚着・Blue | 竜巻脚着護腿・青 |
-| 1758 | True 空脚着・Blue | 空脚着護腿・青 |
-| 1759 | True 空F脚着・Blue | 空脚着護腿・青 |
+| 1758 | True 空脚着・Blue | 真空脚着護腿・青 |
+| 1759 | True 空F脚着・Blue | 真空脚着護腿・青 |
 | 1760 | 千裂脚着・Green | 千裂脚着護腿・緑 |
 | 1761 | 千裂F脚着・Green | 千裂脚着護腿・緑 |
 | 1762 | 覇山脚着・Green | 覇山脚着護腿・緑 |
@@ -324,11 +324,11 @@
 | 1818 | Charien FX Leggings | 夏里安裹腿【ＦＸ】 |
 | 1819 | Bureshisu FX Greaves | 布烏爾艾護腿【ＦＸ】 |
 | 1820 | Rathalos LX Greaves | 雄火龍護腿 |
-| 1821 | Rath Soul RX Greaves | 爾阿斯歐護腿 |
+| 1821 | Rath Soul RX Greaves | 火龍魂護腿 |
 | 1822 | Khezu LX Greaves | 奇怪龍護腿 |
 | 1823 | Khezu RX Greaves | 奇怪龍護腿 |
-| 1824 | High Metal LX Greaves | 赫伊格艾護腿 |
-| 1825 | High Metal RX Greaves | 赫伊格艾護腿 |
+| 1824 | High Metal LX Greaves | 上位金屬護腿 |
+| 1825 | High Metal RX Greaves | 上位金屬護腿 |
 | 1826 | Hornetaur LX Leggings | 巨甲蟲裹腿 |
 | 1827 | Hornetaur RX Leggings | 巨甲蟲裹腿 |
 | 1828 | Beru ドラR Greaves | 舞雷龍護腿【Ｒ】 |

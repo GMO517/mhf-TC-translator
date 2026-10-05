@@ -71,9 +71,9 @@
 | 9065 | Solv Rule G Kabuto | 斯歐爾烏兜【Ｇ】 |
 | 9066 | Solv Rule GF Kabuto | 斯歐爾烏兜【ＧＦ】 |
 | 9067 | Solv Rule GX Kabuto | 斯歐爾烏兜【ＧＸ】 |
-| 9068 | Solv Lord G Kabuto | 斯歐爾歐兜【Ｇ】 |
-| 9069 | Solv Lord GF Kabuto | 斯歐爾歐兜【ＧＦ】 |
-| 9070 | Solv Lord GX Kabuto | 斯歐爾歐兜【ＧＸ】 |
+| 9068 | Solv Lord G Kabuto | 日領主兜【Ｇ】 |
+| 9069 | Solv Lord GF Kabuto | 日領主兜【ＧＦ】 |
+| 9070 | Solv Lord GX Kabuto | 日領主兜【ＧＸ】 |
 | 9071 | Harudo Helm | 司銀龍頭兜 |
 | 9072 | Harudo F Helm | 司銀龍頭兜【Ｆ】 |
 | 9073 | Harudo FX Helm | 司銀龍頭兜【ＦＸ】 |

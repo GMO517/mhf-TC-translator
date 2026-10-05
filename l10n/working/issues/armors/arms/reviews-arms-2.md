@@ -227,9 +227,9 @@
 | 720 | Espinas R Grip | 棘龍握套【Ｒ】 |
 | 721 | Tigrex L Guard | 轟龍臂甲【Ｌ】 |
 | 722 | Guns Arms | 格烏恩護腕 |
-| 723 | Wild Arms | 沃伊爾護腕 |
+| 723 | Wild Arms | 狂野護腕 |
 | 724 | Guns Guard | 格烏恩臂甲 |
-| 725 | Wild Guard | 沃伊爾臂甲 |
+| 725 | Wild Guard | 狂野臂甲 |
 | 726 | Ecole Arms | 艾克歐爾護腕 |
 | 727 | Dian Arms | 德伊恩護腕 |
 | 728 | Ecole Guard | 艾克歐爾臂甲 |
@@ -451,10 +451,10 @@
 | 944 | アナキ Guard | 阿納基臂甲 |
 | 945 | Harvest Arms | 赫阿爾艾護腕 |
 | 946 | Harvest Guard | 赫阿爾艾臂甲 |
-| 947 | Craft Arms | 克阿芙護腕 |
-| 948 | Craft F Arms | 克阿芙護腕【Ｆ】 |
-| 949 | Craft Guard | 克阿芙臂甲 |
-| 950 | Craft F Guard | 克阿芙臂甲【Ｆ】 |
+| 947 | Craft Arms | 工匠護腕 |
+| 948 | Craft F Arms | 工匠護腕【Ｆ】 |
+| 949 | Craft Guard | 工匠臂甲 |
+| 950 | Craft F Guard | 工匠臂甲【Ｆ】 |
 | 951 | Ledia Arms | 爾艾德伊護腕 |
 | 952 | Ledia F Arms | 爾艾德伊護腕【Ｆ】 |
 | 953 | Ledia Guard | 爾艾德伊臂甲 |

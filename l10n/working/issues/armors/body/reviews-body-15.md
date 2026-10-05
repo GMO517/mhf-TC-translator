@@ -15,9 +15,9 @@
 | 7009 | Crimson 霞・刀神G Mail | 霞刀神鎧甲【Ｇ】・紅 |
 | 7010 | Crimson 霞・刀神GF Mail | 霞刀神鎧甲【Ｆ】・紅 |
 | 7011 | Crimson 霞・刀神GX Mail | 霞刀神鎧甲【ＧＸ】・紅 |
-| 7012 | Green 穹・刀神G Mail | 穹刀神鎧甲・緑 |
+| 7012 | Green 穹・刀神G Mail | 穹刀神鎧甲【Ｇ】・緑 |
 | 7013 | Green 穹・刀神GF Mail | 穹刀神鎧甲【Ｆ】・緑 |
-| 7014 | Green 穹・刀神GX Mail | 穹刀神鎧甲・緑 |
+| 7014 | Green 穹・刀神GX Mail | 穹刀神鎧甲【ＧＸ】・緑 |
 | 7015 | White 蘭・鈍器獣 Mail | 蘭鈍器獣鎧甲・白 |
 | 7016 | White 蘭・鈍器獣F Mail | 蘭鈍器獣鎧甲【Ｆ】・白 |
 | 7017 | White 蘭・鈍器獣FX Mail | 蘭鈍器獣鎧甲【ＦＸ】・白 |
@@ -33,9 +33,9 @@
 | 7027 | Crimson 霞・鈍器獣G Mail | 霞鈍器獣鎧甲【Ｇ】・紅 |
 | 7028 | Crimson 霞・鈍器獣GF Mail | 霞鈍器獣鎧甲【Ｆ】・紅 |
 | 7029 | Crimson 霞・鈍器獣GX Mail | 霞鈍器獣鎧甲【ＧＸ】・紅 |
-| 7030 | Green 穹・鈍器獣G Mail | 穹鈍器獣鎧甲・緑 |
+| 7030 | Green 穹・鈍器獣G Mail | 穹鈍器獣鎧甲【Ｇ】・緑 |
 | 7031 | Green 穹・鈍器獣GF Mail | 穹鈍器獣鎧甲【Ｆ】・緑 |
-| 7032 | Green 穹・鈍器獣GX Mail | 穹鈍器獣鎧甲・緑 |
+| 7032 | Green 穹・鈍器獣GX Mail | 穹鈍器獣鎧甲【ＧＸ】・緑 |
 | 7033 | White 蘭・奏帝 Mail | 蘭奏帝鎧甲・白 |
 | 7034 | White 蘭・奏帝F Mail | 蘭奏帝鎧甲【Ｆ】・白 |
 | 7035 | White 蘭・奏帝FX Mail | 蘭奏帝鎧甲【ＦＸ】・白 |
@@ -51,9 +51,9 @@
 | 7045 | Crimson 霞・奏帝G Mail | 霞奏帝鎧甲【Ｇ】・紅 |
 | 7046 | Crimson 霞・奏帝GF Mail | 霞奏帝鎧甲【Ｆ】・紅 |
 | 7047 | Crimson 霞・奏帝GX Mail | 霞奏帝鎧甲【ＧＸ】・紅 |
-| 7048 | Green 穹・奏帝G Mail | 穹奏帝鎧甲・緑 |
+| 7048 | Green 穹・奏帝G Mail | 穹奏帝鎧甲【Ｇ】・緑 |
 | 7049 | Green 穹・奏帝GF Mail | 穹奏帝鎧甲【Ｆ】・緑 |
-| 7050 | Green 穹・奏帝GX Mail | 穹奏帝鎧甲・緑 |
+| 7050 | Green 穹・奏帝GX Mail | 穹奏帝鎧甲【ＧＸ】・緑 |
 | 7051 | White 蘭・Heaven 槍 Mail | 蘭槍天鎧甲・白 |
 | 7052 | White 蘭・Heaven 槍F Mail | 蘭槍天鎧甲【Ｆ】・白 |
 | 7053 | White 蘭・Heaven 槍FX Mail | 蘭槍天鎧甲【ＦＸ】・白 |
@@ -87,9 +87,9 @@
 | 7081 | Crimson 霞・砲皇G Mail | 霞砲皇鎧甲【Ｇ】・紅 |
 | 7082 | Crimson 霞・砲皇GF Mail | 霞砲皇鎧甲【Ｆ】・紅 |
 | 7083 | Crimson 霞・砲皇GX Mail | 霞砲皇鎧甲【ＧＸ】・紅 |
-| 7084 | Green 穹・砲皇G Mail | 穹砲皇鎧甲・緑 |
+| 7084 | Green 穹・砲皇G Mail | 穹砲皇鎧甲【Ｇ】・緑 |
 | 7085 | Green 穹・砲皇GF Mail | 穹砲皇鎧甲【Ｆ】・緑 |
-| 7086 | Green 穹・砲皇GX Mail | 穹砲皇鎧甲・緑 |
+| 7086 | Green 穹・砲皇GX Mail | 穹砲皇鎧甲【ＧＸ】・緑 |
 | 7087 | White 蘭・穿凰 Mail | 蘭穿凰鎧甲・白 |
 | 7088 | White 蘭・穿凰F Mail | 蘭穿凰鎧甲【Ｆ】・白 |
 | 7089 | White 蘭・穿凰FX Mail | 蘭穿凰鎧甲【ＦＸ】・白 |
@@ -105,9 +105,9 @@
 | 7099 | Crimson 霞・穿凰G Mail | 霞穿凰鎧甲【Ｇ】・紅 |
 | 7100 | Crimson 霞・穿凰GF Mail | 霞穿凰鎧甲【Ｆ】・紅 |
 | 7101 | Crimson 霞・穿凰GX Mail | 霞穿凰鎧甲【ＧＸ】・紅 |
-| 7102 | Green 穹・穿凰G Mail | 穹穿凰鎧甲・緑 |
+| 7102 | Green 穹・穿凰G Mail | 穹穿凰鎧甲【Ｇ】・緑 |
 | 7103 | Green 穹・穿凰GF Mail | 穹穿凰鎧甲【Ｆ】・緑 |
-| 7104 | Green 穹・穿凰GX Mail | 穹穿凰鎧甲・緑 |
+| 7104 | Green 穹・穿凰GX Mail | 穹穿凰鎧甲【ＧＸ】・緑 |
 | 7105 | White 蘭・銃仙 Suit | 蘭銃仙套裝・白 |
 | 7106 | White 蘭・銃仙F Suit | 蘭銃仙套裝【Ｆ】・白 |
 | 7107 | White 蘭・銃仙FX Suit | 蘭銃仙套裝【ＦＸ】・白 |
@@ -123,9 +123,9 @@
 | 7117 | Crimson 霞・銃仙G Suit | 霞銃仙套裝【Ｇ】・紅 |
 | 7118 | Crimson 霞・銃仙GF Suit | 霞銃仙套裝【Ｆ】・紅 |
 | 7119 | Crimson 霞・銃仙GX Suit | 霞銃仙套裝【ＧＸ】・紅 |
-| 7120 | Green 穹・銃仙G Suit | 穹銃仙套裝・緑 |
+| 7120 | Green 穹・銃仙G Suit | 穹銃仙套裝【Ｇ】・緑 |
 | 7121 | Green 穹・銃仙GF Suit | 穹銃仙套裝【Ｆ】・緑 |
-| 7122 | Green 穹・銃仙GX Suit | 穹銃仙套裝・緑 |
+| 7122 | Green 穹・銃仙GX Suit | 穹銃仙套裝【ＧＸ】・緑 |
 | 7123 | White 蘭・銃傑 Suit | 蘭銃傑套裝・白 |
 | 7124 | White 蘭・銃傑F Suit | 蘭銃傑套裝【Ｆ】・白 |
 | 7125 | White 蘭・銃傑FX Suit | 蘭銃傑套裝【ＦＸ】・白 |
@@ -141,9 +141,9 @@
 | 7135 | Crimson 霞・銃傑G Suit | 霞銃傑套裝【Ｇ】・紅 |
 | 7136 | Crimson 霞・銃傑GF Suit | 霞銃傑套裝【Ｆ】・紅 |
 | 7137 | Crimson 霞・銃傑GX Suit | 霞銃傑套裝【ＧＸ】・紅 |
-| 7138 | Green 穹・銃傑G Suit | 穹銃傑套裝・緑 |
+| 7138 | Green 穹・銃傑G Suit | 穹銃傑套裝【Ｇ】・緑 |
 | 7139 | Green 穹・銃傑GF Suit | 穹銃傑套裝【Ｆ】・緑 |
-| 7140 | Green 穹・銃傑GX Suit | 穹銃傑套裝・緑 |
+| 7140 | Green 穹・銃傑GX Suit | 穹銃傑套裝【ＧＸ】・緑 |
 | 7141 | White 蘭・Bow 鬼 Suit | 蘭鬼套裝・白 |
 | 7142 | White 蘭・Bow 鬼F Suit | 蘭鬼套裝【Ｆ】・白 |
 | 7143 | White 蘭・Bow 鬼FX Suit | 蘭鬼套裝【ＦＸ】・白 |

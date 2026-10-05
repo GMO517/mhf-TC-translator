@@ -356,8 +356,8 @@
 | 5350 | Knight King Chest GN GP White | 騎士王胸甲【ＧＰ】・白 |
 | 5351 | Green 竜ノ具足GP【胴服】 | 胴服竜具足鎧甲・緑 |
 | 5352 | Green 竜ノ Haori GP【胴服】 | 胴服竜羽織【ＧＰ】・緑 |
-| 5353 | Red 備ノ具足GP【胴服】 | 胴服備具足鎧甲・赤 |
-| 5354 | Red 備ノ Haori GP【胴服】 | 胴服備羽織【ＧＰ】・赤 |
+| 5353 | Red 備ノ具足GP【胴服】 | 備具足鎧甲・赤 |
+| 5354 | Red 備ノ Haori GP【胴服】 | 備羽織【ＧＰ】・赤 |
 | 5355 | Real GP Mail・White | 真鎧甲【ＧＰ】・白 |
 | 5356 | Real GP Mail・Gold | 真鎧甲【ＧＰ】・金 |
 | 5357 | Real GP Mail・Blue | 真鎧甲【ＧＰ】・青 |

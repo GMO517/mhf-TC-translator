@@ -6,7 +6,7 @@
 |---|---|---|
 | 0 | Nothing Equipped | 未裝備腰甲 |
 | 1 | Leather Belt | 皮革腰帶 |
-| 2 | Skin Light Belt | 斯伊恩伊腰帶 |
+| 2 | Skin Light Belt | 光膚腰帶 |
 | 3 | Chainmail Belt | 鎖鏈腰帶 |
 | 4 | Iron Belt | 鐵腰帶 |
 | 5 | Hunter's Faulds | 獵人腰甲 |
@@ -469,9 +469,9 @@
 | 462 | Garuga Coat SP White | 黑狼鳥腰衣【ＳＰ】・白 |
 | 463 | Garuga Coat SP Green | 黑狼鳥腰衣【ＳＰ】・緑 |
 | 464 | Garuga Coat SP Red | 黑狼鳥腰衣【ＳＰ】・赤 |
-| 465 | Rookie Belt 【 White 】 | 爾歐克伊腰帶・白 |
-| 466 | Rookie Belt 【 Red 】 | 爾歐克伊腰帶・赤 |
-| 467 | Rookie Belt 【 Green 】 | 爾歐克伊腰帶・緑 |
+| 465 | Rookie Belt 【 White 】 | 新手腰帶・白 |
+| 466 | Rookie Belt 【 Red 】 | 新手腰帶・赤 |
+| 467 | Rookie Belt 【 Green 】 | 新手腰帶・緑 |
 | 468 | Hypnoc S Faulds | 眠鳥腰甲【Ｓ】 |
 | 469 | Hypnoc S Coat | 眠鳥腰衣【Ｓ】 |
 | 470 | 祭のあとに【負け犬】 | 負け犬祭のあとに腰甲 |

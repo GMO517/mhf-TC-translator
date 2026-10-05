@@ -271,46 +271,46 @@
 | 3265 | Gloria FZ Coat・Red | 榮光腰衣【ＦＺ】・赤 |
 | 3266 | Gloria HC Coat・Red | 榮光腰衣【ＨＣ】・赤 |
 | 3267 | Gloria HS Coat・Red | 榮光腰衣【ＨＳ】・赤 |
-| 3268 | Shinryu Black Obi・Red | 神龍帶・黑 |
-| 3269 | Shinryu F Black Obi・Red | 神龍帶【Ｆ】・黑 |
-| 3270 | Shinryu FZ Black Obi・Red | 神龍帶【ＦＺ】・黑 |
-| 3271 | Shinryu HC Black Obi・Red | 神龍帶【ＨＣ】・黑 |
-| 3272 | Shinryu HS Black Obi・Red | 神龍帶【ＨＳ】・黑 |
-| 3273 | Reppa Black Obi・Red | 烈破帶・黑 |
-| 3274 | Reppa F Black Obi・Red | 烈破帶【Ｆ】・黑 |
-| 3275 | Reppa FZ Black Obi・Red | 烈破帶【ＦＺ】・黑 |
-| 3276 | Reppa HC Black Obi・Red | 烈破帶【ＨＣ】・黑 |
-| 3277 | Reppa HS Black Obi・Red | 烈破帶【ＨＳ】・黑 |
-| 3278 | Shinryu Black Obi・White | 神龍帶・黑 |
-| 3279 | Shinryu F Black Obi・White | 神龍帶【Ｆ】・黑 |
-| 3280 | Shinryu FZ Black Obi・White | 神龍帶【ＦＺ】・黑 |
-| 3281 | Shinryu HC Black Obi・White | 神龍帶【ＨＣ】・黑 |
-| 3282 | Shinryu HS Black Obi・White | 神龍帶【ＨＳ】・黑 |
-| 3283 | Reppa Black Obi・White | 烈破帶・黑 |
-| 3284 | Reppa F Black Obi・White | 烈破帶【Ｆ】・黑 |
-| 3285 | Reppa FZ Black Obi・White | 烈破帶【ＦＺ】・黑 |
-| 3286 | Reppa HC Black Obi・White | 烈破帶【ＨＣ】・黑 |
-| 3287 | Reppa HS Black Obi・White | 烈破帶【ＨＳ】・黑 |
-| 3288 | Shinryu Black Obi・Purple | 神龍帶・黑 |
-| 3289 | Shinryu F Black Obi・Purple | 神龍帶【Ｆ】・黑 |
-| 3290 | Shinryu FZ Black Obi・Purple | 神龍帶【ＦＺ】・黑 |
-| 3291 | Shinryu HC Black Obi・Purple | 神龍帶【ＨＣ】・黑 |
-| 3292 | Shinryu HS Black Obi・Purple | 神龍帶【ＨＳ】・黑 |
-| 3293 | Reppa Black Obi・Purple | 烈破帶・黑 |
-| 3294 | Reppa F Black Obi・Purple | 烈破帶【Ｆ】・黑 |
-| 3295 | Reppa FZ Black Obi・Purple | 烈破帶【ＦＺ】・黑 |
-| 3296 | Reppa HC Black Obi・Purple | 烈破帶【ＨＣ】・黑 |
-| 3297 | Reppa HS Black Obi・Purple | 烈破帶【ＨＳ】・黑 |
-| 3298 | Shinryu Black Obi・Yellow | 神龍帶・黑 |
-| 3299 | Shinryu F Black Obi・Yellow | 神龍帶【Ｆ】・黑 |
-| 3300 | Shinryu FZ Black Obi・Yellow | 神龍帶【ＦＺ】・黑 |
-| 3301 | Shinryu HC Black Obi・Yellow | 神龍帶【ＨＣ】・黑 |
-| 3302 | Shinryu HS Black Obi・Yellow | 神龍帶【ＨＳ】・黑 |
-| 3303 | Reppa Black Obi・Yellow | 烈破帶・黑 |
-| 3304 | Reppa F Black Obi・Yellow | 烈破帶【Ｆ】・黑 |
-| 3305 | Reppa FZ Black Obi・Yellow | 烈破帶【ＦＺ】・黑 |
-| 3306 | Reppa HC Black Obi・Yellow | 烈破帶【ＨＣ】・黑 |
-| 3307 | Reppa HS Black Obi・Yellow | 烈破帶【ＨＳ】・黑 |
+| 3268 | Shinryu Black Obi・Red | 神龍帶・黑赤 |
+| 3269 | Shinryu F Black Obi・Red | 神龍帶【Ｆ】・黑赤 |
+| 3270 | Shinryu FZ Black Obi・Red | 神龍帶【ＦＺ】・黑赤 |
+| 3271 | Shinryu HC Black Obi・Red | 神龍帶【ＨＣ】・黑赤 |
+| 3272 | Shinryu HS Black Obi・Red | 神龍帶【ＨＳ】・黑赤 |
+| 3273 | Reppa Black Obi・Red | 烈破帶・黑赤 |
+| 3274 | Reppa F Black Obi・Red | 烈破帶【Ｆ】・黑赤 |
+| 3275 | Reppa FZ Black Obi・Red | 烈破帶【ＦＺ】・黑赤 |
+| 3276 | Reppa HC Black Obi・Red | 烈破帶【ＨＣ】・黑赤 |
+| 3277 | Reppa HS Black Obi・Red | 烈破帶【ＨＳ】・黑赤 |
+| 3278 | Shinryu Black Obi・White | 神龍帶・黑白 |
+| 3279 | Shinryu F Black Obi・White | 神龍帶【Ｆ】・黑白 |
+| 3280 | Shinryu FZ Black Obi・White | 神龍帶【ＦＺ】・黑白 |
+| 3281 | Shinryu HC Black Obi・White | 神龍帶【ＨＣ】・黑白 |
+| 3282 | Shinryu HS Black Obi・White | 神龍帶【ＨＳ】・黑白 |
+| 3283 | Reppa Black Obi・White | 烈破帶・黑白 |
+| 3284 | Reppa F Black Obi・White | 烈破帶【Ｆ】・黑白 |
+| 3285 | Reppa FZ Black Obi・White | 烈破帶【ＦＺ】・黑白 |
+| 3286 | Reppa HC Black Obi・White | 烈破帶【ＨＣ】・黑白 |
+| 3287 | Reppa HS Black Obi・White | 烈破帶【ＨＳ】・黑白 |
+| 3288 | Shinryu Black Obi・Purple | 神龍帶・黑紫 |
+| 3289 | Shinryu F Black Obi・Purple | 神龍帶【Ｆ】・黑紫 |
+| 3290 | Shinryu FZ Black Obi・Purple | 神龍帶【ＦＺ】・黑紫 |
+| 3291 | Shinryu HC Black Obi・Purple | 神龍帶【ＨＣ】・黑紫 |
+| 3292 | Shinryu HS Black Obi・Purple | 神龍帶【ＨＳ】・黑紫 |
+| 3293 | Reppa Black Obi・Purple | 烈破帶・黑紫 |
+| 3294 | Reppa F Black Obi・Purple | 烈破帶【Ｆ】・黑紫 |
+| 3295 | Reppa FZ Black Obi・Purple | 烈破帶【ＦＺ】・黑紫 |
+| 3296 | Reppa HC Black Obi・Purple | 烈破帶【ＨＣ】・黑紫 |
+| 3297 | Reppa HS Black Obi・Purple | 烈破帶【ＨＳ】・黑紫 |
+| 3298 | Shinryu Black Obi・Yellow | 神龍帶・黑黄 |
+| 3299 | Shinryu F Black Obi・Yellow | 神龍帶【Ｆ】・黑黄 |
+| 3300 | Shinryu FZ Black Obi・Yellow | 神龍帶【ＦＺ】・黑黄 |
+| 3301 | Shinryu HC Black Obi・Yellow | 神龍帶【ＨＣ】・黑黄 |
+| 3302 | Shinryu HS Black Obi・Yellow | 神龍帶【ＨＳ】・黑黄 |
+| 3303 | Reppa Black Obi・Yellow | 烈破帶・黑黄 |
+| 3304 | Reppa F Black Obi・Yellow | 烈破帶【Ｆ】・黑黄 |
+| 3305 | Reppa FZ Black Obi・Yellow | 烈破帶【ＦＺ】・黑黄 |
+| 3306 | Reppa HC Black Obi・Yellow | 烈破帶【ＨＣ】・黑黄 |
+| 3307 | Reppa HS Black Obi・Yellow | 烈破帶【ＨＳ】・黑黄 |
 | 3308 | Cannon Will・Water | 砲意志腰甲・水 |
 | 3309 | Cannon F Will・Water | 砲意志腰甲【Ｆ】・水 |
 | 3310 | Cannon FZ Will・Water | 砲意志腰甲【ＦＺ】・水 |
@@ -389,7 +389,7 @@
 | 3383 | ダミー | (dummy) |
 | 3384 | ダミー | (dummy) |
 | 3385 | ダミー | (dummy) |
-| 3386 | Hope Belt | 赫歐普艾腰帶 |
+| 3386 | Hope Belt | 希望腰帶 |
 | 3387 | エミット Faulds | 艾米托腰甲 |
 | 3388 | エミットF Faulds | 艾米托腰甲【Ｆ】 |
 | 3389 | エミットFX Faulds | 艾米托腰甲【ＦＸ】 |
@@ -462,10 +462,10 @@
 | 3456 | Khezu GF Faulds | 奇怪龍腰甲【ＧＦ】 |
 | 3457 | Khezu G Coat | 奇怪龍腰衣【Ｇ】 |
 | 3458 | Khezu GF Coat | 奇怪龍腰衣【ＧＦ】 |
-| 3459 | Hope G Faulds | 赫歐普艾腰甲【Ｇ】 |
-| 3460 | Hope GF Faulds | 赫歐普艾腰甲【ＧＦ】 |
-| 3461 | Hope G Coat | 赫歐普艾腰衣【Ｇ】 |
-| 3462 | Hope GF Coat | 赫歐普艾腰衣【ＧＦ】 |
+| 3459 | Hope G Faulds | 希望腰甲【Ｇ】 |
+| 3460 | Hope GF Faulds | 希望腰甲【ＧＦ】 |
+| 3461 | Hope G Coat | 希望腰衣【Ｇ】 |
+| 3462 | Hope GF Coat | 希望腰衣【ＧＦ】 |
 | 3463 | グラッシュ Coil | 古拉希尤腰甲 |
 | 3464 | グラッシュF Coil | 古拉希尤腰甲【Ｆ】 |
 | 3465 | グラッシュFY Coil | 古拉希尤腰甲 |

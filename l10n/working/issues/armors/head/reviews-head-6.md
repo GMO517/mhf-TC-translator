@@ -16,8 +16,8 @@
 | 2510 | ダミー | (dummy) |
 | 2511 | Shieri FX Helm | 夏伊爾伊頭兜【ＦＸ】 |
 | 2512 | Shieri FX Cap | 夏伊爾伊兜帽【ＦＸ】 |
-| 2513 | Craft FX Head | 克阿芙頭兜【ＦＸ】 |
-| 2514 | Craft FX Piercing | 克阿芙耳飾【ＦＸ】 |
+| 2513 | Craft FX Head | 工匠頭兜【ＦＸ】 |
+| 2514 | Craft FX Piercing | 工匠耳飾【ＦＸ】 |
 | 2515 | Moss Covered FX Helm | 苔覆頭兜【ＦＸ】 |
 | 2516 | Moss Covered FX Cap | 苔覆兜帽【ＦＸ】 |
 | 2517 | Excelle FX Helm | 艾克斯艾頭兜【ＦＸ】 |
@@ -56,7 +56,7 @@
 | 2550 | Pariapuria Charm | 呑龍護符 |
 | 2551 | Pariapuria Charm F | 呑龍護符【Ｆ】 |
 | 2552 | Pariapuria Charm SP | 呑龍護符【ＳＰ】 |
-| 2553 | Rookie Piercing | 爾歐克伊耳飾 |
+| 2553 | Rookie Piercing | 新手耳飾 |
 | 2554 | Zamuza Helm | 多殼蟹頭兜 |
 | 2555 | Zamuza F Helm | 多殼蟹頭兜【Ｆ】 |
 | 2556 | Zamuza FX Helm | 多殼蟹頭兜【ＦＸ】 |
@@ -332,9 +332,9 @@
 | 2826 | Ruko Face SP White | 極龍面罩【ＳＰ】・白 |
 | 2827 | Ruko Face SP Blue | 極龍面罩【ＳＰ】・青 |
 | 2828 | Ruko Face SP Red | 極龍面罩【ＳＰ】・赤 |
-| 2829 | Comrade Helm SP White Red | 戰友頭兜【ＳＰ】・白 |
-| 2830 | Comrade Helm SP White Blue | 戰友頭兜【ＳＰ】・白 |
-| 2831 | Comrade Helm SP White Yellow | 戰友頭兜【ＳＰ】・白 |
+| 2829 | Comrade Helm SP White Red | 戰友頭兜【ＳＰ】・白赤 |
+| 2830 | Comrade Helm SP White Blue | 戰友頭兜【ＳＰ】・白青 |
+| 2831 | Comrade Helm SP White Yellow | 戰友頭兜【ＳＰ】・白黄 |
 | 2832 | Rubellite Helm | 爾烏布艾頭兜 |
 | 2833 | Rubellite F Helm | 爾烏布艾頭兜【Ｆ】 |
 | 2834 | Rubellite FX Helm | 爾烏布艾頭兜【ＦＸ】 |
@@ -412,8 +412,8 @@
 | 2906 | アナキHC Band | 阿納基頭帶【ＨＣ】 |
 | 2907 | Royal FY Head | 王室頭兜 |
 | 2908 | Royal HC Head | 王室頭兜【ＨＣ】 |
-| 2909 | Lord FY Cap | 爾歐爾兜帽 |
-| 2910 | Lord HC Cap | 爾歐爾兜帽【ＨＣ】 |
+| 2909 | Lord FY Cap | 領主兜帽 |
+| 2910 | Lord HC Cap | 領主兜帽【ＨＣ】 |
 | 2911 | フレイ Head | 芙雷伊頭兜 |
 | 2912 | クロノス Head | 庫羅諾斯頭兜 |
 | 2913 | フレイ Piercing | 芙雷伊耳飾 |

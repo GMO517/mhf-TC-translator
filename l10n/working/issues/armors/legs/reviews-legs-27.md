@@ -467,20 +467,20 @@
 | 13461 | Ricca D Feet | 爾伊克阿足 |
 | 13462 | Kelis D Feet | 克艾爾伊足 |
 | 13463 | Myunru D Greaves | 姆烏恩烏護腿 |
-| 13464 | Seiryu・Kensei D Feet | 斯艾爾烏足 |
-| 13465 | Seiryu・双龍D Feet | 双龍足 |
-| 13466 | Seiryu・剣王D Feet | 剣王足 |
-| 13467 | Seiryu・刀神D Feet | 刀神足 |
-| 13468 | Seiryu・Heaven 槍D Feet | 槍天足 |
-| 13469 | Seiryu・砲皇D Feet | 砲皇足 |
-| 13470 | Seiryu・鈍器獣D Feet | 鈍器獣足 |
-| 13471 | Seiryu・奏帝D Feet | 奏帝足 |
-| 13472 | Seiryu・穿凰D Feet | 穿凰足 |
-| 13473 | Seiryu・斬将D Feet | 斬将足 |
-| 13474 | Seiryu・銃傑D Boots | 銃傑靴 |
-| 13475 | Seiryu・銃仙D Boots | 銃仙靴 |
+| 13464 | Seiryu・Kensei D Feet | 青龍斯艾爾烏足 |
+| 13465 | Seiryu・双龍D Feet | 青龍双龍足 |
+| 13466 | Seiryu・剣王D Feet | 青龍剣王足 |
+| 13467 | Seiryu・刀神D Feet | 青龍刀神足 |
+| 13468 | Seiryu・Heaven 槍D Feet | 青龍槍天足 |
+| 13469 | Seiryu・砲皇D Feet | 青龍砲皇足 |
+| 13470 | Seiryu・鈍器獣D Feet | 青龍鈍器獣足 |
+| 13471 | Seiryu・奏帝D Feet | 青龍奏帝足 |
+| 13472 | Seiryu・穿凰D Feet | 青龍穿凰足 |
+| 13473 | Seiryu・斬将D Feet | 青龍斬将足 |
+| 13474 | Seiryu・銃傑D Boots | 青龍銃傑靴 |
+| 13475 | Seiryu・銃仙D Boots | 青龍銃仙靴 |
 | 13476 | Seiryu・Bow 鬼D Boots | 青龍靴 |
-| 13477 | Seiryu・磁星D Feet | 磁星足 |
+| 13477 | Seiryu・磁星D Feet | 青龍磁星足 |
 | 13478 | K.Lobster Feet PD Black | 王龍蝦足【ＰＤ】・黑 |
 | 13479 | K.Lobster Feet PD Green | 王龍蝦足【ＰＤ】・緑 |
 | 13480 | K.Lobster Feet PD Blue | 王龍蝦足【ＰＤ】・青 |

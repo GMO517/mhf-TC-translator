@@ -116,7 +116,7 @@
 | 11610 | Stroma D Helm | 斯歐姆阿頭兜 |
 | 11611 | Stroma D Cap | 斯歐姆阿兜帽 |
 | 11612 | Elegance D【趣】 | 艾爾艾格頭兜 |
-| 11613 | Grace D【趣】 | 格阿克艾頭兜 |
+| 11613 | Grace D【趣】 | 恩寵頭兜 |
 | 11614 | Altera D Helm | 阿爾艾爾頭兜 |
 | 11615 | Altera D Cap | 阿爾艾爾兜帽 |
 | 11616 | Pobo D Helm | 普歐布歐頭兜 |
@@ -209,14 +209,14 @@
 | 11703 | Chashiro D Head | 奇阿夏伊頭兜 |
 | 11704 | Two-tone D Head | 特歐斯歐頭兜 |
 | 11705 | Bistro D Cap | 布伊斯歐兜帽 |
-| 11706 | King Beetle D Vertex | 克伊恩艾頭頂 |
+| 11706 | King Beetle D Vertex | 王甲蟲頭頂 |
 | 11707 | Butterfly D Vertex | 布烏特艾頭頂 |
 | 11708 | Vol Admiral D | 芙歐爾阿頭兜 |
 | 11709 | Vol Legend D | 芙歐爾艾頭兜 |
 | 11710 | Demon Lord Horn D | 魔王角 |
 | 11711 | Demon Tale ノ角D | 魔譚頭兜 |
 | 11712 | 鬼凛ノ角D | 鬼凛角頭兜 |
-| 11713 | Empress C Sector | 艾姆艾斯頭兜 |
+| 11713 | Empress C Sector | 女帝頭兜 |
 | 11714 | Empress C Mask | 女帝帽子 |
 | 11715 | Kaiser C Crown | 克阿斯艾冠 |
 | 11716 | Kaiser C Mask | 克阿斯艾帽子 |
@@ -357,7 +357,7 @@
 | 11851 | Harudo D Helm | 赫阿爾烏頭兜 |
 | 11852 | Harudo D Cap | 赫阿爾烏兜帽 |
 | 11853 | Elegance D【趣】 | 艾爾艾格頭兜 |
-| 11854 | Grace D【趣】 | 格阿克艾頭兜 |
+| 11854 | Grace D【趣】 | 恩寵頭兜 |
 | 11855 | Meraginasu D Helm | 姆艾爾阿頭兜 |
 | 11856 | Meraginasu D Cap | 姆艾爾阿兜帽 |
 | 11857 | Hesyumu D Head | 赫艾斯烏頭兜 |
@@ -373,7 +373,7 @@
 | 11867 | Himeros D Helm | 赫伊姆艾頭兜 |
 | 11868 | Charien D Cap | 奇阿爾伊兜帽 |
 | 11869 | Arietta D Head | 阿爾伊特頭兜 |
-| 11870 | Craft D Head | 克阿芙頭兜 |
+| 11870 | Craft D Head | 工匠頭兜 |
 | 11871 | Shieri D Helm | 夏伊爾伊頭兜 |
 | 11872 | Pupen D Helm | 普烏普艾頭兜 |
 | 11873 | Moss Covered D Helm | 姆歐斯歐頭兜 |

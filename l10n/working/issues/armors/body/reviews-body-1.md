@@ -467,9 +467,9 @@
 | 460 | Garuga Vest SP White | 黑狼鳥背心【ＳＰ】・白 |
 | 461 | Garuga Vest SP Green | 黑狼鳥背心【ＳＰ】・緑 |
 | 462 | Garuga Vest SP Red | 黑狼鳥背心【ＳＰ】・赤 |
-| 463 | Rookie Mail 【 White 】 | 爾歐克伊鎧甲・白 |
-| 464 | Rookie Mail 【 Red 】 | 爾歐克伊鎧甲・赤 |
-| 465 | Rookie Mail 【 Green 】 | 爾歐克伊鎧甲・緑 |
+| 463 | Rookie Mail 【 White 】 | 新手鎧甲・白 |
+| 464 | Rookie Mail 【 Red 】 | 新手鎧甲・赤 |
+| 465 | Rookie Mail 【 Green 】 | 新手鎧甲・緑 |
 | 466 | Hypnoc S Mail | 眠鳥鎧甲【Ｓ】 |
 | 467 | Hypnoc S Vest | 眠鳥背心【Ｓ】 |
 | 468 | Purogia Mail | 普羅吉亞鎧甲 |

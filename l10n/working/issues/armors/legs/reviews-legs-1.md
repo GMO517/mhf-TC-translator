@@ -465,9 +465,9 @@
 | 458 | Garuga Leggings SP White | 黑狼鳥裹腿【ＳＰ】・白 |
 | 459 | Garuga Leggings SP Green | 黑狼鳥裹腿【ＳＰ】・緑 |
 | 460 | Garuga Leggings SP Red | 黑狼鳥裹腿【ＳＰ】・赤 |
-| 461 | Rookie Boots 【 White 】 | 爾歐克伊靴・白 |
-| 462 | Rookie Boots 【 Red 】 | 爾歐克伊靴・赤 |
-| 463 | Rookie Boots 【 Green 】 | 爾歐克伊靴・緑 |
+| 461 | Rookie Boots 【 White 】 | 新手靴・白 |
+| 462 | Rookie Boots 【 Red 】 | 新手靴・赤 |
+| 463 | Rookie Boots 【 Green 】 | 新手靴・緑 |
 | 464 | Hypnoc S Greaves | 眠鳥護腿【Ｓ】 |
 | 465 | Hypnoc S Leggings | 眠鳥裹腿【Ｓ】 |
 | 466 | Purogia Boots | 普羅吉亞靴 |

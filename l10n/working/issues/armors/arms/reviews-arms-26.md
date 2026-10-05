@@ -30,7 +30,7 @@
 | 12524 | ダミー | (dummy) |
 | 12525 | ダミー | (dummy) |
 | 12526 | ダミー | (dummy) |
-| 12527 | Brave ZX Arms | 布阿芙艾護腕【ＺＸ】 |
+| 12527 | Brave ZX Arms | 勇者護腕【ＺＸ】 |
 | 12528 | Bogabado Z Arms | 布歐格阿護腕【Ｚ】 |
 | 12529 | Bogabado ZF Arms | 布歐格阿護腕【ＺＦ】 |
 | 12530 | Bogabado ZY Arms | 布歐格阿護腕【ＺＹ】 |
@@ -60,16 +60,16 @@
 | 12554 | Hematite F Arms | 赫艾姆阿護腕【Ｆ】 |
 | 12555 | Hematite FX Arms | 赫艾姆阿護腕【ＦＸ】 |
 | 12556 | Byakko・磁星G Arms | 白虎護腕【Ｇ】 |
-| 12557 | Byakko・磁星GF Arms | 磁星護腕【Ｆ】 |
+| 12557 | Byakko・磁星GF Arms | 白虎磁星護腕【Ｆ】 |
 | 12558 | Byakko・磁星GX Arms | 白虎護腕【ＧＸ】 |
 | 12559 | Suzaku・磁星G Arms | 朱雀護腕【Ｇ】 |
-| 12560 | Suzaku・磁星GF Arms | 磁星護腕【Ｆ】 |
+| 12560 | Suzaku・磁星GF Arms | 朱雀磁星護腕【Ｆ】 |
 | 12561 | Suzaku・磁星GX Arms | 朱雀護腕【ＧＸ】 |
 | 12562 | Genbu・磁星G Arms | 玄武護腕【Ｇ】 |
-| 12563 | Genbu・磁星GF Arms | 磁星護腕【Ｆ】 |
+| 12563 | Genbu・磁星GF Arms | 玄武磁星護腕【Ｆ】 |
 | 12564 | Genbu・磁星GX Arms | 玄武護腕【ＧＸ】 |
 | 12565 | Seiryu・磁星G Arms | 青龍護腕【Ｇ】 |
-| 12566 | Seiryu・磁星GF Arms | 磁星護腕【Ｆ】 |
+| 12566 | Seiryu・磁星GF Arms | 青龍磁星護腕【Ｆ】 |
 | 12567 | Seiryu・磁星GX Arms | 青龍護腕【ＧＸ】 |
 | 12568 | White 蘭・磁星 Arms | 蘭磁星護腕・白 |
 | 12569 | White 蘭・磁星F Arms | 蘭磁星護腕【Ｆ】・白 |
@@ -86,9 +86,9 @@
 | 12580 | 月夜・磁星G Arms | 月夜磁星護腕【Ｇ】 |
 | 12581 | 月夜・磁星GF Arms | 月夜磁星護腕【Ｆ】 |
 | 12582 | 月夜・磁星GX Arms | 月夜磁星護腕【ＧＸ】 |
-| 12583 | Green 穹・磁星G Arms | 穹磁星護腕・緑 |
+| 12583 | Green 穹・磁星G Arms | 穹磁星護腕【Ｇ】・緑 |
 | 12584 | Green 穹・磁星GF Arms | 穹磁星護腕【Ｆ】・緑 |
-| 12585 | Green 穹・磁星GX Arms | 穹磁星護腕・緑 |
+| 12585 | Green 穹・磁星GX Arms | 穹磁星護腕【ＧＸ】・緑 |
 | 12586 | Masaha Dress [Sleeves] Red | 真砂禮服袖・赤 |
 | 12587 | Masaha Dress F [Sleeves] Red | 真砂禮服袖【Ｆ】・赤 |
 | 12588 | Masaha Dress FZ [Sleeves] Red | 真砂禮服袖【ＦＺ】・赤 |
@@ -158,24 +158,24 @@
 | 12652 | Masaha Dress D [Sleeves] Silver | 姆阿斯阿袖・銀 |
 | 12653 | Masaha Dress D [Sleeves] Blue | 姆阿斯阿袖・青 |
 | 12654 | Masaha Dress D [Sleeves] Orange | 姆阿斯阿袖・橙 |
-| 12655 | Genbu・Kensei D Arms | 格艾恩烏護腕 |
-| 12656 | Genbu・双龍D Arms | 双龍護腕 |
-| 12657 | Genbu・剣王D Arms | 剣王護腕 |
-| 12658 | Genbu・刀神D Arms | 刀神護腕 |
-| 12659 | Genbu・Heaven 槍D Arms | 槍天護腕 |
-| 12660 | Genbu・砲皇D Arms | 砲皇護腕 |
-| 12661 | Genbu・鈍器獣D Arms | 鈍器獣護腕 |
-| 12662 | Genbu・奏帝D Arms | 奏帝護腕 |
-| 12663 | Genbu・穿凰D Arms | 穿凰護腕 |
-| 12664 | Genbu・斬将D Arms | 斬将護腕 |
-| 12665 | Genbu・銃傑D Guard | 銃傑臂甲 |
-| 12666 | Genbu・銃仙D Guard | 銃仙臂甲 |
+| 12655 | Genbu・Kensei D Arms | 玄武格艾恩烏護腕 |
+| 12656 | Genbu・双龍D Arms | 玄武双龍護腕 |
+| 12657 | Genbu・剣王D Arms | 玄武剣王護腕 |
+| 12658 | Genbu・刀神D Arms | 玄武刀神護腕 |
+| 12659 | Genbu・Heaven 槍D Arms | 玄武槍天護腕 |
+| 12660 | Genbu・砲皇D Arms | 玄武砲皇護腕 |
+| 12661 | Genbu・鈍器獣D Arms | 玄武鈍器獣護腕 |
+| 12662 | Genbu・奏帝D Arms | 玄武奏帝護腕 |
+| 12663 | Genbu・穿凰D Arms | 玄武穿凰護腕 |
+| 12664 | Genbu・斬将D Arms | 玄武斬将護腕 |
+| 12665 | Genbu・銃傑D Guard | 玄武銃傑臂甲 |
+| 12666 | Genbu・銃仙D Guard | 玄武銃仙臂甲 |
 | 12667 | Genbu・Bow 鬼D Guard | 玄武臂甲 |
 | 12668 | Tanzanite D Arms | 特阿恩阿護腕 |
 | 12669 | Hematite D Arms | 赫艾姆阿護腕 |
-| 12670 | Byakko・磁星D Arms | 磁星護腕 |
-| 12671 | Suzaku・磁星D Arms | 磁星護腕 |
-| 12672 | Genbu・磁星D Arms | 磁星護腕 |
+| 12670 | Byakko・磁星D Arms | 白虎磁星護腕 |
+| 12671 | Suzaku・磁星D Arms | 朱雀磁星護腕 |
+| 12672 | Genbu・磁星D Arms | 玄武磁星護腕 |
 | 12673 | Tigrex Arms PD Black | 轟龍護腕【ＰＤ】・黑 |
 | 12674 | Tigrex Arms PD White | 轟龍護腕【ＰＤ】・白 |
 | 12675 | Tigrex Arms PD Purple | 轟龍護腕【ＰＤ】・紫 |
@@ -302,9 +302,9 @@
 | 12796 | Arma D Arms・White | 阿爾阿斯護腕・白 |
 | 12797 | Arma D Arms・Blue | 阿爾阿斯護腕・青 |
 | 12798 | Arma D Arms・Tea | 阿爾阿斯護腕・茶 |
-| 12799 | Honour D Arms・Red | 赫歐恩歐護腕・赤 |
-| 12800 | Honour D Arms・Blue | 赫歐恩歐護腕・青 |
-| 12801 | Honour D Arms・Green | 赫歐恩歐護腕・緑 |
+| 12799 | Honour D Arms・Red | 榮譽護腕・赤 |
+| 12800 | Honour D Arms・Blue | 榮譽護腕・青 |
+| 12801 | Honour D Arms・Green | 榮譽護腕・緑 |
 | 12802 | Honour D Arms・紺 | 紺護腕 |
 | 12803 | Pics D Arms・Green | 皮克斯護腕・緑 |
 | 12804 | Pics D Arms・Purple | 皮克斯護腕・紫 |
