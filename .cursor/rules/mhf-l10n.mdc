@@ -1,32 +1,69 @@
 ---
+
 description: MHF 繁中翻譯工程固定規範與代辦入口
+
 alwaysApply: true
+
 ---
+
+
 
 # MHF 繁中翻譯 Agent 規則
 
+
+
 **父規範：** `docs/agent-translation-playbook.md`（核心目標衝突表＋Part A）。子規範不得反向覆寫。
 
-1. **開場：** 核心目標＋Part A → `progress`／`queue` → 該子類 CSV／字典待查。禁通讀全庫。  
+
+
+1. **開場：** 核心目標＋Part A → [`docs/plans/l10n-orchestration.md`](docs/plans/l10n-orchestration.md) → 當類 plan（[`armors.md`](docs/plans/armors.md)／[`weapons.md`](docs/plans/weapons.md)／Gate3）→ `progress`／`queue` → 真源 CSV／字典。禁通讀全庫。  
+
 2. **完成單位：** 一角色＋一語意子類；未完不得只交摘要。  
+
 3. **快／省 token 不得跳過**全量檢查、web search、字典出處（見衝突表）。  
-4. **翻譯主線以 Part A 為準**（相對逐步確認／feedback 類規則）；僅 commit／回寫／方針／明示要審才停問。**分層 series-dict** 另守 `docs/plans/layered-series-dict-model-routing.md` **§9** 與武器子 plan「完成定義」——**push／是否繼續下一相位／commit 詢問**均非停點；背景腳本失敗同輪重跑。  
-5. **結案分狀態：** `translated`＝blocking／high＝0；否則 `qa_issues`。結案附**原始計數**，禁 SAMPLE／空 PASS。  
-6. **專名查序**含 web search；應義譯卻音譯＝至少 high（不論長短）。短音譯須有搜尋紀錄且宜 ≤4 字。  
-7. **字典逕行但禁洗白：** 可建／補並註出處；「待查／純音譯」不得全表套用。  
-8. **無 QA 腳本仍要語意全表自檢**；有腳本（如 `qa_armor_transliteration.py`）須跑並交命中數。  
-9. 結構性／high 超閾不得開下一子類；禁止同一次 Translator 宣告 `qa_done`。  
-10. 本體改前 `_backup/`；bin 不進 commit；Gate0／0.5 未過不做大批回寫。  
+
+4. **翻譯主線以 Part A 為準**；僅 commit／回寫／方針／明示要審才停問。**武器**語意單位＝近戰＋遠程 CSV＋reviews 全量＋字典（見 [`weapons.md`](docs/plans/weapons.md) §完成定義），**非**僅 series-dict。**分層字典**守 orchestration **續跑**＋ armors／weapons plan——**push／下一相位／commit／M3 交件均非整類收工**；背景腳本失敗同輪重跑。  
+
+5. **結案分狀態：** `translated`／`qa_done`＝blocking／high＝0 且**未**靠改 QA 規則偷清零；否則 `qa_issues`。結案附**原始計數**，禁 SAMPLE／空 PASS。**使用者終審**＝`reviews-*.md`（字首＝`series-dict-all.md`）；禁要求使用者看 tsv。  
+
+6. **P1 禁假 Grok：** 分層字典 zh 須 Grok Task 或 terms／合格定稿；禁巨型 `patch_*` PATCH dict 充 P1（orchestration Integrity）。  
+
+7. **專名查序**含 web search；應義譯卻音譯＝至少 high（不論長短）。短音譯須有搜尋紀錄且宜 ≤4 字。  
+
+8. **字典逕行但禁洗白：** 可建／補並註出處；「待查／純音譯」不得全表套用。  
+
+9. **無 QA 腳本仍要語意全表自檢**；有腳本（如 `qa_armor_transliteration.py`）須跑並交命中數。  
+
+10. 結構性／high 超閾不得開下一子類；禁止同一次 Translator 宣告 `qa_done`。  
+
+11. 本體改前 `_backup/`；bin 不進 commit；Gate0／0.5 未過不做大批回寫。  
+
+12. **Agent 視窗狀態行（武器 P1 Grok 編排／跟進子代理時必守）：** 每則回覆**第一行**（正文前、勿包在 code fence）固定格式  
+    `(已定稿/923) 武器 P1 · 待查 N · 處理中…` 或 pending＝0 時 `· 待合併／派 Grok` 等一句；數字取自 `series-dict.tsv` 重算。背景 Task 完成後同輪 merge＋重算並更新該行。每 **10** 分鐘若仍在跑 P1，自檢 `scratch/p1_grok_watch.py`（產物未 merge＝異常）。  
+
+
 
 ## Model Routing（只約束 Task slug；不得覆寫 Part A）
 
+
+
 **父子：** 翻譯主線仍以 playbook Part A 為準；下表**只**決定子代理 `model` slug。禁為選模停問。  
+
 **池：** 預設只用 Cursor Models（`composer-2.5-fast`／`grok-4.7-high-fast`／`cursor-grok-4.6-high-fast`）。  
-**判定失敗：** 列 pending；**禁止** Composer／腳本代填 `zh`（不同意「同池降級給 Composer 填譯」）。  
-**防具字典主線：** 見 `docs/plans/layered-series-dict-model-routing.md`（掃→分級→L1–L5→重寫 series-dict→只套用定稿→QA）。
+
+**判定失敗：** 列 pending；**禁止** Composer／腳本代填 `zh`。  
+
+**分層字典：** 見 [`docs/plans/armors.md`](docs/plans/armors.md)／[`weapons.md`](docs/plans/weapons.md) 相位表。
+
+
 
 | 相位 | slug |
+
 |---|---|
+
 | 編排／P0 掃描／P2 套用／P3 機械 QA | `composer-2.5-fast` |
+
 | P1 歸類判定／P3b 語意抽核 | `grok-4.7-high-fast` |
+
 | P1b 備援 | `cursor-grok-4.6-high-fast` |
+

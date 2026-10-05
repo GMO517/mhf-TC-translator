@@ -7,10 +7,28 @@
 
 ## 進行中
 
-| CATEGORY | 進度 | 批次產物 | 下一筆 |
-|---|---|---|---|
-| **weapons** 分層 series-dict | in_progress | `series-dict.tsv`（**776**／pending **147**）；P3b=831 | pending→0；P3b；C infer；**未** mhfdat |
-| Gate4 延伸（任務／UI／劇情） | pending | — | 見 `docs/TODO.md` Gate4；疑問→`armors/open-questions.md` Q-02 |
+### weapons（整類：近戰＋遠程＋字典＋reviews）
+
+> 完成定義：**[`docs/plans/weapons.md`](../../../docs/plans/weapons.md) §完成定義**（非僅 series-dict）。  
+> Translator **收工**＝下列 Blocking **全清**；做完一項 **立刻**做下一項。
+
+| 優先 | Blocking | 現況／產物 | 完成條 |
+|:---:|---|---|---|
+| 1 | **reviews** | 近戰 **36**＋遠程 **9** | 完成 |
+| 2 | **P1 pending** | **0** | 完成 |
+| 3 | **P3 機械** | validate PASS；mismatch **0**；殘英 **0** | 完成 |
+| 4 | **P3b** | wash after_strip **0**；Grok 抽核修 **10**；high **0** | 完成（另開 QA 複核） |
+| 5 | **P4** | needs_rework **0**；音譯清單 **119** 已記 | 完成（另開 QA 複核） |
+| 6 | **C tier** | 僅增量 | 禁止全表 |
+
+- 機械：`validate` PASS；`qa_weapon_series_dict` mismatch **0**（見 `qa-weapons.md`）  
+- **未** mhfdat（除非你另案要求）
+
+### 其他
+
+| CATEGORY | 進度 | 下一筆 |
+|---|---|---|
+| Gate4 延伸（任務／UI／劇情） | pending | 見 `docs/TODO.md` Gate4；疑問→`armors/open-questions.md` Q-02 |
 
 ## 待獨立 QA
 

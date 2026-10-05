@@ -21,7 +21,7 @@ Monster Hunter Frontier 用戶端文字繁中化工程。遊戲本體不上庫�
 
 1. 閱讀 `docs/TODO.md`、`docs/STYLE.md`
 2. 確認本體在 `client/MHFCT4.1/`
-3. 依代辦 Phase 0 起執行
+3. 翻譯流程：`docs/agent-translation-playbook.md` → `docs/plans/l10n-orchestration.md`
 
 ## 工具
 

@@ -1,7 +1,7 @@
 # MCP 方針（子規範）
 
-> **父規範**：`docs/agent-translation-playbook.md`（核心目標：加快／省 token／品質）。  
-> 本檔只管 MCP；**日常翻譯禁止**為 feedback／確認而停主線。
+> **父規範**：`docs/agent-translation-playbook.md`。  
+> **主流程**：`docs/plans/l10n-orchestration.md`。本檔只管 MCP；**日常翻譯禁止**為 feedback／確認而停主線。
 
 ## 結論
 

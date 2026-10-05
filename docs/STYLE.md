@@ -1,6 +1,6 @@
 # 翻譯風格規範（子規範）
 
-> **父規範**：`docs/agent-translation-playbook.md`（衝突裁決、角色、停止條件）。  
+> **父規範**：`docs/agent-translation-playbook.md`。主流程：`docs/plans/l10n-orchestration.md`。  
 > 本檔**只管用語與寫法**；不管何時停、如何 commit、子類優先序。  
 > 字型可顯示：`l10n/charset/`（whitelist／fallback）是本檔的執行層。
 
@@ -44,6 +44,8 @@
    - **系列標記括號**：原文／既有譯文已用`()`／`（）`者沿用；**新加**系列標記（天廊／簡易／天干音碼／羅馬數字級等）一律粗括號`【】`（禁用細括號`（）`另開一套）  
      - 例：`Festi Echoes Bo`→`祭響【戊】`（十干：甲乙丙丁戊己庚辛壬癸；音碼置`【】`內）  
      - 例：`Red Pass Ⅰ`→`通行證・赤【Ⅰ】`（`Pass`→`通行證`；色・後置；羅馬數字置`【】`）  
+     - **武器引號飾詞**：`Name "Azure"`→`本體【蒼】`（禁`本體蒼`黏寫；與 SP／級別同名時級別進`【】`、飾詞改`・`後置，整名最多一個`【】`）  
+     - **武器系列專名叢（型 A）**：同一主題下「形態前綴＋成套專名」（圓桌騎士／北斗星名／棘竜ローゼン短名等）→`前綴【專名】`；禁黏寫。詳見 [`l10n/working/issues/weapons/series-nick-rule.md`](../l10n/working/issues/weapons/series-nick-rule.md)＋[`series-nick-clusters.tsv`](../l10n/working/issues/weapons/series-nick-clusters.tsv)  
      - `License`→`許可證`（例：`Gar License`→`怪魚許可證`）  
 
    - **天廊系格式**：`Tower`／`Twr`／`T.`＋本體 →`本體【天廊】`（詞庫字用`天廊`；勿改成前綴`天廊…`／`塔…`）  

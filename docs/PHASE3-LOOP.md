@@ -1,8 +1,9 @@
 # Gate3 工作循環（技術節奏・子規範）
 
 > 檔名仍為 `PHASE3-LOOP.md`（相容舊連結）；內容＝Gate3 翻譯循環。  
-> **父規範**：`docs/agent-translation-playbook.md`（核心目標：加快／省 token／品質底線）。  
-> 本檔**只補**子類優先序與管線；開場不必讀全文——選定子類後才查優先序表。  
+> **父規範**：`docs/agent-translation-playbook.md`。  
+> **主流程**：`docs/plans/l10n-orchestration.md`（本檔＝**道具等 Gate3** 節奏與子類表）。  
+> 防具／武器見 `docs/plans/armors.md`／`docs/plans/weapons.md`。  
 > 完成單位＝語意子類；禁 batch N；日常不必每步問。
 
 ## 分批原則（依分類，不再依固定筆數切片）

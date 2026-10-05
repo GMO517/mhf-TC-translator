@@ -56,8 +56,8 @@
 ## Gate3 — MVP 翻譯與回寫
 
 > 閘門：Gate0 round-trip + Gate0.5 字型 + Gate2 審詞，三者未過不開始。  
-> **工作流**：`docs/agent-translation-playbook.md`（Translator → 獨立 QA → Fixer）。  
-> **技術循環**：`docs/PHASE3-LOOP.md`＋`l10n/working/PIPELINE.md`。  
+> **工作流**：`docs/agent-translation-playbook.md` → `docs/plans/l10n-orchestration.md`（Translator → 獨立 QA → Fixer）。  
+> **技術循環**：`docs/PHASE3-LOOP.md`＋`l10n/working/PIPELINE.md`（Gate3）；分層字典見 `docs/plans/armors.md`／`weapons.md`。  
 > **分類狀態**：`docs/progress.md`；QA 產出：`l10n/working/issues/`。
 
 - [x] 定稿 Agent 工作流文件（playbook＋progress＋issues 骨架；commit `29f0e80`）
@@ -78,7 +78,7 @@
 - [ ] 任務說明、高頻 UI
 - [ ] NPC／劇情（語域：人話）
 - [ ] 標註延後：`*.txb` 圖片字、`mhfo.dll` 內嵌字串、伺服端下發文案
-- [ ] 防具 QA 殘（truncate／need_semantic）人審→`issues/armors/open-questions.md`
+- [~] 防具字首人審→`issues/armors/series-dict-all.md`（機械 QA 見 `qa-armors.md`；2026-10-05 agent 曾放寬 truncate 規則，人審仍必做）
 
 ## 明確不做
 

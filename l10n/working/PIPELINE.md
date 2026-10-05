@@ -1,7 +1,8 @@
 # Gate3 管線（指令與路徑・子規範）
 
-> **父規範**：`docs/agent-translation-playbook.md`。本檔只列腳本指令與目錄。  
-> 節奏細節：`docs/PHASE3-LOOP.md`。狀態：`docs/progress.md`。隊列：`issues/queue.md`。
+> **父規範**：`docs/agent-translation-playbook.md`。  
+> **主流程**：`docs/plans/l10n-orchestration.md`（本檔＝Gate3 指令表；分層字典見 `docs/plans/armors.md`／`weapons.md`）。  
+> 節奏：`docs/PHASE3-LOOP.md`。狀態：`docs/progress.md`。隊列：`issues/queue.md`。
 
 ## 目錄
 
@@ -14,7 +15,7 @@
 | `state/` | `writeback-state.json` |
 | `logs/` | validate／writeback／apply |
 | `catalogs/` | 一覽 |
-| `scratch/` | `next-*.json`（gitignore） |
+| `scratch/` | 分層 apply／QA 腳本（多為 gitignore）；改動須在 `qa-*.md` 記命令或納入版控（orchestration Integrity） |
 | `issues/` | QA 隊列與問題 |
 
 ## 日常

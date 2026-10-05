@@ -1,5 +1,8 @@
 # QA: armors（五部位）
 
+> **終審：** 譯文＝五槽 `reviews-*.md`；字首＝[`series-dict-all.md`](series-dict-all.md)。  
+> **完整性：** 2026-10-05 曾放寬 truncate 規則後機械命中歸零；`qa_done` **≠** 使用者 reviews 終審。流程：`docs/plans/l10n-orchestration.md` M2。
+
 - progress_suggestion: **qa_done**（機械 QA 原始命中 **0**；validate PASS）
 - blocking_open: **0**
 - high_open: **0**

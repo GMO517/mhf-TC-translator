@@ -1,8 +1,9 @@
 # Progress（分類狀態機・子規範）
 
 > **父規範**：`docs/agent-translation-playbook.md`。  
-> 本檔**只管**各 CATEGORY／子類狀態：`pending` | `in_progress` | `translated` | `qa_issues` | `qa_done`。  
-> 工程 Gate 看 `docs/TODO.md`；用字看 `STYLE.md`；二者都不得在本檔發明新流程。
+> **主流程**：`docs/plans/l10n-orchestration.md`（本檔不發明新步驟）。  
+> 本檔**只管**各 CATEGORY 狀態：`pending` | `in_progress` | `translated` | `qa_issues` | `qa_done`。  
+> `qa_done`／`translated` 須符合 playbook A.3＋orchestration M2（機械≠使用者 reviews 終審）。
 
 ---
 
@@ -45,27 +46,27 @@
 
 ## weapons-melee-name
 
-- status: in_progress
-- notes: "2026-10-05 分層：P1 923 列／定稿776／pending147；P3 PASS；P3b wash=831；C 未洗表；未 mhfdat。"
+- status: translated
+- notes: "P1–P4＋壞字「老」清零（647→0）；reviews36 已重產。本對話不自標 qa_done。你審→series-dict.md＋reviews。"
 
 ### files
 
 - path: l10n/working/csv/dat-weapons-melee-name.csv
   status: translated
-  notes: "`_session_jp_weapon_names` WEAPON_KATA＋charset 安全；殘英 lex／manual remain"
+  notes: "壞字0；validate PASS；待獨立 QA→qa_done"
 
 ---
 
 ## weapons-ranged-name
 
-- status: in_progress
-- notes: "2026-10-05 與近戰共用 series-dict；定稿776／pending147；P3b=831。"
+- status: translated
+- notes: "與近戰共用字典；reviews9；同 P3b／P4 計數見 qa-weapons.md。"
 
 ### files
 
 - path: l10n/working/csv/dat-weapons-ranged-name.csv
   status: translated
-  notes: "片假名 batch jp-kata；殘英 manual remain"
+  notes: "validate PASS；待獨立 QA→qa_done"
 
 ---
 

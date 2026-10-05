@@ -32,15 +32,17 @@
 ```
 使用者當下口令
   └── 本 playbook（只讀 Part A + 附錄查表；禁止開場通讀舊通用長文）
+        ├── plans/l10n-orchestration.md → 主流程 M0–M3
+        ├── plans/armors|weapons.md     → 分層字典次流程
         ├── STYLE + charset + terms     → 怎麼寫字
-        ├── PHASE3-LOOP + PIPELINE      → 怎麼跑管線
+        ├── PHASE3-LOOP + PIPELINE      → Gate3 道具管線（指令）
         ├── progress / queue            → 做到哪
         ├── TODO.md                     → 工程閘門（Gate，勿稱翻譯 Phase）
         ├── MCP-TOOLS / .cursor/rules   → 工具；不得每步打斷
         └── PENDING.md／系列字典        → 待裁定／詞幹表（不叫停主線）
 ```
 
-**高→低：** 使用者口令 → 本 Part A → STYLE／charset → PHASE3／PIPELINE → progress／TODO → Cursor 通用規則／MCP  
+**高→低：** 使用者口令 → 本 Part A → orchestration → 次 plan／PHASE3 → STYLE／charset → progress／TODO → Cursor 通用規則／MCP  
 
 **日常推進（不必每步確認／feedback）：** 譯文、apply、validate、**建／補字典**、產 reviews、跑全量 QA 腳本、更新 progress／queue。  
 
@@ -113,13 +115,14 @@
 - **「待查」或僅「音譯」不得當作已定稿去全表套用**；套用預設只許：terms／神話／遊戲專名／已搜尋有出處／字義。待查列留在字典等人審或補搜。  
 - 描述英詞、寶石名未走完查序（含 search 或字義）→ **禁止入庫當套用譯**。  
 - 使用者事後從字典抽查即可；不為「字典要不要建」停工。  
-- 防具：詞幹＝`issues/armors/series-dict.tsv`（全身共用）；部位＝各槽 `part-dict.md`。
+- 防具：詞幹＝`issues/armors/series-dict.tsv`（全身共用）；部位＝各槽 `part-dict.md`。  
+- **使用者終審：** 譯文＝`reviews-*.md` 全量；字首＝`series-dict-all.md`（見 [`plans/l10n-orchestration.md`](plans/l10n-orchestration.md) §0）。
 
-**執行循環：**
+**執行循環（Gate3 預設；防具／武器見 `plans/armors.md`／`plans/weapons.md`）：**
 
-1. 選定未完成子類 →（防具：補字典→只套用已定稿詞幹）→ 譯／套用 → `validate_working.py`  
+1. 選定未完成子類 →（防具／武器：補字典→只套用已定稿詞幹）→ 譯／套用 → `validate_working.py`  
 2. 可 `finish_batch.py` delta；更新 `progress.md`／`queue.md`  
-3. 告一段落：產**完整** `reviews-*.md`（不抽樣）→ 不中斷等使用者當場批完  
+3. 產物同步：**CSV 變更 → 對應 reviews 全量重產**（道具等）；**字典變更 → 刷新 `series-dict-all.md`**（字首人審，不抽樣前 N）  
 4. 子類未完：禁止只交摘要就停  
 5. PENDING：暫譯＋列待裁定；不中途逐條問；子類完再請填決定 → Fixer  
 
