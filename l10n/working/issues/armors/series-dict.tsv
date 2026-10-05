@@ -55,14 +55,14 @@ count	stem	zh	reason	source	example_source	slots
 216	Sagittario	射手	遊戲專名／定譯	armor_quality_series	arms:Sagittario Arms Red	arms,body,head,legs,waist
 210	Khezu	奇怪龍	魔物／詞庫	terms.csv	arms:Khezu Arms	arms,body,head,legs,waist
 210	Gravios	鎧龍	魔物／詞庫	terms.csv	arms:Gravios Arms	arms,body,head,legs,waist
-210	Galitos	加里托斯	遊戲專名／定譯	armor_quality_series	arms:Galitos Arms・Tea	arms,body,head,legs,waist
-210	Gloria	榮光	遊戲專名／定譯	armor_quality_series	arms:Gloria Arms・Gold	arms,body,head,legs,waist
-210	Magos	瑪戈斯	遊戲專名／定譯	armor_quality_series	arms:Magos Arms・Yellow	arms,body,head,legs,waist
-210	Pics	皮克斯	遊戲專名／定譯	armor_quality_series	arms:Pics Arms・Green	arms,body,head,legs,waist
+210	Galitos	加里托斯	遊戲專名	armor_quality_series	arms:Galitos Arms・Tea	arms,body,head,legs,waist
+210	Gloria	榮光	字義	semantic:Gloria=栄光	arms:Gloria Arms・Gold	arms,body,head,legs,waist
+210	Magos	瑪戈斯	遊戲專名／短音譯	web:マゴス	arms:Magos Arms・Yellow	arms,body,head,legs,waist
+210	Pics	皮克斯	遊戲專名	armor_quality_series	arms:Pics Arms・Green	arms,body,head,legs,waist
 210	Ice Emperor	冰帝	遊戲專名／定譯	armor_quality_series	arms:Blue Ice Emperor Arms	arms,body,head,legs,waist
 198	Espinas	棘龍	魔物／詞庫	terms.csv	arms:Espinas Grip	arms,body,head,legs,waist
-180	Claire	克蕾兒	遊戲專名／定譯	armor_quality_series	arms:Claire Arms・Purple	arms,body,head,legs,waist
-180	Cayssis	凱西斯	遊戲專名／定譯	armor_quality_series	arms:Cayssis Arms Red	arms,body,head,legs,waist
+180	Claire	克蕾爾	遊戲專名／短音譯	web:クレール	arms:Claire Arms・Purple	arms,body,head,legs,waist
+180	Cayssis	凱西斯	遊戲專名／短音譯	web:ケイシス	arms:Cayssis Arms Red	arms,body,head,legs,waist
 180	Genom	基因組	遊戲專名／定譯	armor_quality_series	arms:Genom Arms・Green	arms,body,head,legs,waist
 180	Divol	迪沃爾	遊戲專名／定譯	armor_quality_series	arms:Divol Arms Green	arms,body,head,legs,waist
 180	Zyra	齊拉	遊戲專名／定譯	armor_quality_series	arms:Zyra Arms・Green	arms,body,head,legs,waist
@@ -82,7 +82,7 @@ count	stem	zh	reason	source	example_source	slots
 140	Issen	一閃	遊戲專名／定譯	armor_quality_series	arms:Issen 【 Kote 】・Red	arms,body,head,legs,waist
 140	CE Kevlar BM	凱芙拉	遊戲專名	armor_quality_series	arms:CE Kevlar BM Arms Blue	arms,body,head,legs,waist
 140	AB Layer BM	層甲	遊戲專名	armor_quality_series	arms:AB Layer BM Arms Red	arms,body,head,legs,waist
-135	Shadow	暗影	遊戲專名／定譯	armor_quality_series	arms:Shadow グローブ Purple	arms,body,head,legs,waist
+135	Shadow	影	字義	semantic:shadow	arms:Shadow グローブ Purple	arms,body,head,legs,waist
 134	Diablos	角龍	魔物／詞庫	terms.csv	arms:Diablos Arms	arms,body,head,legs,waist
 130	Tigrex	轟龍	魔物／詞庫	terms.csv	arms:Tigrex Arms	arms,body,head,legs,waist
 128	Miku	初音未來	合作／聯名	web:初音ミク×MHF 大典ミクシリーズ	arms:Miku Arms	arms,body,head,legs,waist
@@ -99,8 +99,8 @@ count	stem	zh	reason	source	example_source	slots
 110	Basarios	岩龍	魔物／詞庫	terms.csv	arms:Basarios Arms	arms,body,head,legs,waist
 110	Ceanataur	鎌蟹	魔物／詞庫	terms.csv	arms:Ceanataur Arms	arms,body,head,legs,waist
 100	Rathalos	雄火龍	魔物／詞庫	terms.csv	arms:Rathalos Arms	arms,body,head,legs,waist
-100	Star Festival	星祭	遊戲專名／定譯	armor_quality_series	arms:Star Festival FZ Gauntlets [Red 】	arms,body,head,legs,waist
-100	Tanabata	七夕	遊戲專名／定譯	armor_quality_series	arms:Tanabata FZ Gauntlets [Red 】	arms,body,head,legs,waist
+100	Star Festival	星祭	字義	semantic:Star Festival	arms:Star Festival FZ Gauntlets [Red 】	arms,body,head,legs,waist
+100	Tanabata	七夕	字義／神話	semantic:Tanabata	arms:Tanabata FZ Gauntlets [Red 】	arms,body,head,legs,waist
 100	Harudo	司銀龍	魔物／詞庫	terms.csv	arms:Harudo Arms	arms,body,head,legs,waist
 96	Demon	惡魔	遊戲專名／定譯	armor_quality_series	arms:Demon Cuffs Blue	arms,head,legs,waist
 96	Chaos	混沌	遊戲專名／定譯	armor_quality_series	arms:Chaos Cuffs Blue	arms,head,legs,waist
@@ -128,8 +128,8 @@ count	stem	zh	reason	source	example_source	slots
 80	Cepha	砂龍	魔物／詞庫	terms:Cephalos=砂龍	arms:Cepha Arms	arms,body,head,legs,waist
 80	Conga	桃毛獸	魔物／詞庫	terms.csv	arms:Conga Arms	arms,body,head,legs,waist
 80	Rage	憤怒	魔物／詞庫	terms.csv	arms:Rage Arms	arms,body,head,legs,waist
-80	Rampage	狂暴	遊戲專名／定譯	armor_quality_series	arms:Rampage Arms	arms,body,head,legs,waist
-80	Blaze	烈焰	遊戲專名／定譯	armor_quality_series	arms:Blaze Arms	arms,body,head,legs,waist
+80	Rampage	狂暴	字義	semantic:rampage	arms:Rampage Arms	arms,body,head,legs,waist
+80	Blaze	烈焔	字義	semantic:blaze	arms:Blaze Arms	arms,body,head,legs,waist
 80	Gauss	高斯	專名短音譯	搜:Gauss 物理學家→慣用高斯	arms:Gauss FZ Arms	arms,body,head,legs,waist
 80	Weber	韋伯	專名短音譯	搜:Weber 物理學家→慣用韋伯	arms:Weber FZ Arms	arms,body,head,legs,waist
 80	Gilbert	吉伯特	遊戲專名／定譯	armor_quality_series	arms:Gilbert FZ Arms	arms,body,head,legs,waist
@@ -146,11 +146,11 @@ count	stem	zh	reason	source	example_source	slots
 70	Metenera	梅特涅拉	專名短音譯	web:メテネラシリーズ	arms:Metenera Arms	arms,body,head,legs,waist
 70	Mandora	曼多拉	專名短音譯	搜:Mandora 專名→短音譯≤4	arms:Mandora Arms	arms,body,head,legs,waist
 70	Aonoko	青之子	字義	semantic:青の子	arms:Aonoko Arms	arms,body,head,legs,waist
-70	Galitos Water	加里托斯水	定譯拼裝	quality+word	arms:Galitos Arms・Water	arms,body,head,legs,waist
-70	Gloria Water	榮光水	定譯拼裝	quality+word	arms:Gloria Arms・Water	arms,body,head,legs,waist
+70	Galitos Water	加里托斯	遊戲專名	armor_quality_series；Water=色	arms:Galitos Arms・Water	arms,body,head,legs,waist
+70	Gloria Water	榮光	字義	semantic:Gloria；Water=色	arms:Gloria Arms・Water	arms,body,head,legs,waist
 70	Tandress	坦德蕾絲	專名短音譯	web:タンスレス	arms:Tandress Arms	arms,body,head,legs,waist
-70	Magos Water	瑪戈斯水	定譯拼裝	quality+word	arms:Magos Arms・Water	arms,body,head,legs,waist
-70	Pics Water	皮克斯水	定譯拼裝	quality+word	arms:Pics Arms・Water	arms,body,head,legs,waist
+70	Magos Water	瑪戈斯	遊戲專名／短音譯	web:マゴス；Water=色	arms:Magos Arms・Water	arms,body,head,legs,waist
+70	Pics Water	皮克斯	遊戲專名	armor_quality_series；Water=色	arms:Pics Arms・Water	arms,body,head,legs,waist
 70	Iriku	伊莉克	專名短音譯	web:イリークシリーズ	arms:Iriku Arms	arms,body,head,legs,waist
 70	Zuibei	瑞貝	遊戲專名／定譯	armor_quality_series	arms:Zuibei Grip	arms,body,head,legs,waist
 70	Harze	哈澤	專名短音譯	web:ハーゼZP	arms:Harze Arms	arms,body,head,legs,waist
@@ -271,7 +271,7 @@ count	stem	zh	reason	source	example_source	slots
 60	Kushala	鋼龍	魔物／詞庫	terms.csv	arms:Kushala ハトゥー	arms,body,head
 60	Melan	紫黑	遊戲專名／定譯	armor_quality_series	arms:Melan Arms	arms,body,head,legs,waist
 60	Rath Duo	雙火龍	魔物／詞庫	terms:Rathalos/Rathian 雙；FY/D 級另置	arms:Rath Duo Arms	arms,body,head,legs,waist
-60	Claire Water	克蕾兒水	定譯拼裝	quality+word	arms:Claire Arms・Water	arms,body,head,legs,waist
+60	Claire Water	克蕾爾	遊戲專名／短音譯	web:クレール；Water=色	arms:Claire Arms・Water	arms,body,head,legs,waist
 60	Diru	迪魯	專名短音譯	搜:ディル系專名	arms:Diru Arms	arms,body,head,legs,waist
 60	Starina	斯塔莉娜	字義／專名	搜:MHF Starina 防具／semantic	arms:Starina Arms	arms,body,head,legs,waist
 60	Loose	寬鬆	字義／專名	搜:MHF Loose 防具／semantic	arms:Loose Arms	arms,body,head,legs,waist
@@ -282,7 +282,7 @@ count	stem	zh	reason	source	example_source	slots
 60	Abitto	阿比托	字義／專名	搜:MHF Abitto 防具／semantic	arms:Abitto Arms	arms,body,head,legs,waist
 60	Howx	豪克斯	字義／專名	搜:MHF Howx 防具／semantic	arms:Howx Arms	arms,body,head,legs,waist
 60	Pirata	海盜	字義／專名	搜:MHF Pirata 防具／semantic	arms:Pirata Arms	arms,body,head,legs,waist
-60	Flame	炎	單詞拼裝	terms/word	arms:Flame Arms	arms,body,head,legs,waist
+60	Flame	炎	字義	semantic:flame	arms:Flame Arms	arms,body,head,legs,waist
 60	Zeroi	零	字義／專名	搜:MHF Zeroi 防具／semantic	arms:Zeroi Arms	arms,body,head,legs,waist
 60	Rail	軌	字義／專名	搜:MHF Rail 防具／semantic	arms:Rail Arms	arms,body,head,legs,waist
 60	Riburi	里布里	字義／專名	搜:MHF Riburi 防具／semantic	arms:Riburi Arms	arms,body,head,legs,waist
@@ -290,7 +290,7 @@ count	stem	zh	reason	source	example_source	slots
 60	Riot	暴動	字義／專名	搜:MHF Riot 防具／semantic	arms:Riot Arms	arms,body,head,legs,waist
 60	Rutare	魯塔雷	字義／專名	搜:MHF Rutare 防具／semantic	arms:Rutare Arms	arms,body,head,legs,waist
 60	Jess	傑斯	字義／專名	搜:MHF Jess 防具／semantic	arms:Jess Arms	arms,body,head,legs,waist
-60	Cayssis Water	凱西斯水	定譯拼裝	quality+word	arms:Cayssis Arms Water	arms,body,head,legs,waist
+60	Cayssis Water	凱西斯	遊戲專名／短音譯	web:ケイシス；Water=色	arms:Cayssis Arms Water	arms,body,head,legs,waist
 60	Cubie	方塊	字義／專名	搜:MHF Cubie 防具／semantic	arms:Cubie Arms	arms,body,head,legs,waist
 60	Odiva	奧蒂瓦	字義／專名	搜:MHF Odiva 防具／semantic	arms:Odiva Arms	arms,body,head,legs,waist
 60	Latria	崇敬	字義／專名	搜:MHF Latria 防具／semantic	arms:Latria Arms	arms,body,head,legs,waist
@@ -357,7 +357,7 @@ count	stem	zh	reason	source	example_source	slots
 60	Ordre	歐爾艾	專名短音譯	搜:MHF Ordre 防具→無義譯慣用；短音譯≤4	arms:Ordre Arms	arms,body,head,legs,waist
 60	Cheni	奇艾恩伊	專名短音譯	搜:MHF Cheni 防具→無義譯慣用；短音譯≤4	arms:Cheni Arms	arms,body,head,legs,waist
 60	Miniomu	姆伊恩伊	專名短音譯	搜:MHF Miniomu 防具→無義譯慣用；短音譯≤4	arms:Miniomu Arms	arms,body,head,legs,waist
-60	Kurai	暗	遊戲專名／定譯	armor_quality_series	arms:Kurai 【 Kote 】	arms,body,head,legs,waist
+60	Kurai	暗	字義／日文	semantic:Kurai=暗	arms:Kurai 【 Kote 】	arms,body,head,legs,waist
 60	Shiruti	夏伊爾烏	專名短音譯	搜:MHF Shiruti 防具→無義譯慣用；短音譯≤4	arms:Shiruti Arms	arms,body,head,legs,waist
 60	Plug :06	插頭	字義	semantic:plug；編號後置於原文	arms:Plug Arms:06	arms,body,head,legs,waist
 60	Plug :02	插頭	字義	semantic:plug；編號後置於原文	arms:Plug Arms:02	arms,body,head,legs,waist
@@ -404,7 +404,7 @@ count	stem	zh	reason	source	example_source	slots
 50	Belt	布艾爾	專名短音譯	搜:MHF Belt 防具→無義譯慣用；短音譯≤4	arms:Black Belt Arms	arms,body,head,legs,waist
 50	Rath Heart	火龍心	遊戲專名／定譯	armor_quality_series	arms:Rath Heart Arms	arms,body,head,legs,waist
 50	Monodevil	單眼惡魔	遊戲專名／定譯	armor_quality_series	arms:Monodevil Arms	arms,body,head,legs,waist
-50	Mizuha	水羽	遊戲專名／定譯	armor_quality_series	arms:Mizuha [Sleeves 】	arms,body,head,legs,waist
+50	Mizuha	水羽	遊戲專名	armor_quality_series	arms:Mizuha [Sleeves 】	arms,body,head,legs,waist
 50	Azul	青	遊戲專名／定譯	armor_quality_series	arms:Azul Arms	arms,body,head,legs,waist
 50	Apkallu	阿普可魯	遊戲專名／定譯	armor_quality_series	arms:Apkallu Arms	arms,body,head,legs,waist
 50	Pandeum	普阿恩艾	專名短音譯	搜:MHF Pandeum 防具→無義譯慣用；短音譯≤4	arms:Pandeum Arms	arms,body,head,legs,waist
@@ -430,12 +430,12 @@ count	stem	zh	reason	source	example_source	slots
 44	Baruragaru	噬血龍	魔物／詞庫	terms.csv	arms:Baruragaru Z Arms	arms,body,head,legs,waist
 42	Robust	剛健	遊戲專名／定譯	armor_quality_series	arms:Robust ハトゥー	arms,body,head,legs
 42	Twelve Paladins' Armor	十二聖騎鎧	遊戲專名／定譯	armor_quality_series	arms:Twelve Paladins' Armor・Kote	arms,legs,waist
-42	Dragon Slayer Armor	德阿格歐	專名短音譯	搜:MHF Dragon Slayer Armor 防具→無義譯慣用；短音譯≤4	arms:Dragon Slayer Armor・Kote	arms,legs,waist
+42	Dragon Slayer Armor	屠龍	字義	semantic:Dragon Slayer Armor	arms:Dragon Slayer Armor・Kote	arms,legs,waist
 42	Desutora	德斯特拉	遊戲專名／定譯	armor_quality_series	waist:Desutora GS Tasset	body,head,legs,waist
 41	Golden	金	遊戲專名／定譯	armor_quality_series	arms:Golden Kote	arms,body,head,legs,waist
 40	Rath Soul	火龍魂	遊戲專名／定譯	armor_quality_series	arms:Rath Soul Arms	arms,body,legs,waist
 40	Eques	騎士	遊戲專名／定譯	armor_quality_series	arms:Eques Arms	arms,body,head,legs,waist
-40	Weiss	白	遊戲專名／定譯	armor_quality_series	arms:Weiss Grip	arms,body,head,legs,waist
+40	Weiss	白	字義／德文	semantic:Weiss=白	arms:Weiss Grip	arms,body,head,legs,waist
 40	Kuraaji	克烏爾阿	專名短音譯	搜:MHF Kuraaji 防具→無義譯慣用；短音譯≤4	arms:Kuraaji Arms	arms,body,head,legs,waist
 40	Risaaza	爾伊斯阿	專名短音譯	搜:MHF Risaaza 防具→無義譯慣用；短音譯≤4	arms:Risaaza F Arms	arms,body,head,legs,waist
 40	Algol	阿爾歐爾	專名短音譯	搜:MHF Algol 防具→無義譯慣用；短音譯≤4	arms:Algol F Arms	arms,body,head,legs,waist
@@ -444,7 +444,7 @@ count	stem	zh	reason	source	example_source	slots
 40	Zinogre	雷狼龍	魔物／詞庫	terms.csv	arms:Zinogre Arms	arms,body,head,legs,waist
 40	Vangis	芙阿恩伊	專名短音譯	搜:MHF Vangis 防具→無義譯慣用；短音譯≤4	arms:Vangis Arms	arms,body,head,legs,waist
 40	Brachy	布阿奇	專名短音譯	搜:MHF Brachy 防具→無義譯慣用；短音譯≤4	arms:Brachy Arms	arms,body,head,legs,waist
-40	Guild Bard	公會吟遊	遊戲專名／定譯	armor_quality_series	arms:Guild Bard Arms	arms,body,head,legs,waist
+40	Guild Bard	公會吟遊	字義	semantic:Guild Bard	arms:Guild Bard Arms	arms,body,head,legs,waist
 40	Barioth	冰牙龍	魔物／詞庫	terms.csv	arms:Barioth Arms	arms,body,head,legs,waist
 40	Uragaan	爆錘龍	魔物／詞庫	terms.csv	arms:Uragaan Arms	arms,body,head,legs,waist
 40	Nargacuga	迅龍	魔物／詞庫	terms.csv	arms:Nargacuga Arms	arms,body,head,legs,waist
@@ -481,14 +481,14 @@ count	stem	zh	reason	source	example_source	slots
 40	Myunru	姆烏恩烏	專名短音譯	搜:MHF Myunru 防具→無義譯慣用；短音譯≤4	arms:Myunru Z Arms	arms,body,head,legs,waist
 40	蘭蛮	蘭蛮	日文原語	source-jp	head:蘭蛮 Hat・Yellow	head
 36	Makluva	馬庫瓦	遊戲專名／定譯	armor_quality_series	arms:Makluva Sleeve	arms,head,legs,waist
-36	Inari	稻荷	遊戲專名／定譯	armor_quality_series	arms:Inari FX【 Kote 】	arms,body,head,legs,waist
+36	Inari	稻荷	神話／遊戲專名	web:稲荷／伊那利	arms:Inari FX【 Kote 】	arms,body,head,legs,waist
 36	Tamamo	玉藻	遊戲專名／定譯	armor_quality_series	arms:Tamamo FX【 Kote 】	arms,body,head,legs,waist
 36	Blitz	布伊特	專名短音譯	搜:MHF Blitz 防具→無義譯慣用；短音譯≤4	arms:Blitz Arms	arms,body,head,legs
 36	Breo	布艾	專名短音譯	搜:MHF Breo 防具→無義譯慣用；短音譯≤4	arms:Breo Arms	arms,body,head,legs,waist
 36	K.Lobster	王龍蝦	遊戲專名／定譯	armor_quality_series	arms:K.Lobster Arms SP Black	arms,body,head,legs
 36	Elegance	雅	遊戲專名／定譯	armor_quality_series	arms:Elegance 【 Kote 】	arms,body,head,legs,waist
 36	Grace	恩寵	遊戲專名／定譯	armor_quality_series	arms:Grace 【 Kote 】	arms,body,head,legs,waist
-36	Scholar	學者	遊戲專名／定譯	armor_quality_series	arms:Scholar Claws	arms,body,head,legs,waist
+36	Scholar	學者	字義	semantic:scholar	arms:Scholar Claws	arms,body,head,legs,waist
 36	Utaei	烏特阿	專名短音譯	搜:MHF Utaei 防具→無義譯慣用；短音譯≤4	arms:Utaei Sleeve Z	arms,body,head,legs,waist
 36	Utatsumugu	烏特阿特	專名短音譯	搜:MHF Utatsumugu 防具→無義譯慣用；短音譯≤4	arms:Utatsumugu Sleeve Z	arms,body,head,legs,waist
 35	Mosswine	菌豬	魔物／詞庫	terms.csv	arms:Mosswine Punch	arms,body,head,legs,waist
@@ -516,8 +516,8 @@ count	stem	zh	reason	source	example_source	slots
 33	Pariapuria	呑龍	魔物／詞庫	terms.csv	arms:Pariapuria FX Arms	arms,body,head,legs,waist
 32	Gia	格伊	專名短音譯	搜:MHF Gia 防具→無義譯慣用；短音譯≤4	arms:Gia Arms	arms,body,head,legs,waist
 32	Tenpi D	特艾恩伊	專名短音譯	搜:MHF Tenpi D 防具→無義譯慣用；短音譯≤4	arms:Tenpi Kote D・Red	arms,body,head,legs,waist
-32	Knight King Hair BM	克伊格伊	專名短音譯	搜:MHF Knight King Hair BM 防具→無義譯慣用；短音譯≤4	head:Knight King Hair BM Blue	head
-32	Knight King Hair GN	克伊格伊	專名短音譯	搜:MHF Knight King Hair GN 防具→無義譯慣用；短音譯≤4	head:Knight King Hair GN Blue	head
+32	Knight King Hair BM	騎士王	合作／聯名	web:Fate 騎士王；Hair=頭	head:Knight King Hair BM Blue	head
+32	Knight King Hair GN	騎士王	合作／聯名	web:Fate 騎士王；Hair=頭	head:Knight King Hair GN Blue	head
 31	暁丸	暁丸	日文原語	source-jp	arms:暁丸【 Kote 】	arms,body,head,legs,waist
 31	Noir	黑	遊戲專名／定譯	armor_quality_series	arms:Noir Arms	arms,body,head,legs,waist
 30	Guardian	守護者	字義	user+semantic	arms:Guardian Arms	arms,body,head,legs,waist
@@ -533,7 +533,7 @@ count	stem	zh	reason	source	example_source	slots
 30	Excelle	艾克斯艾	專名短音譯	搜:MHF Excelle 防具→無義譯慣用；短音譯≤4	arms:Excelle Arms	arms,body,head,legs,waist
 30	Moss Covered	苔覆	字義	semantic:moss covered	arms:Moss Covered Arms	arms,body,head,legs,waist
 30	Wadatsumi	綿津見	遊戲專名／定譯	armor_quality_series	arms:Wadatsumi [Sleeves 】	arms,body,head,legs,waist
-30	Okami	狼	遊戲專名／定譯	armor_quality_series	arms:Okami [Sleeves 】	arms,body,head,legs,waist
+30	Okami	狼	字義／日文	semantic:Okami／狼	arms:Okami [Sleeves 】	arms,body,head,legs,waist
 30	Kakabu	克阿克阿	專名短音譯	搜:MHF Kakabu 防具→無義譯慣用；短音譯≤4	arms:Kakabu Arms	arms,body,head,legs,waist
 30	Wind	風	字義	semantic:wind；クシャル關聯裝另見鋼龍	arms:Wind ハトゥー	arms,body,head
 30	Aruru	阿爾烏爾	專名短音譯	搜:MHF Aruru 防具→無義譯慣用；短音譯≤4	arms:Aruru Arms	arms,body,head,legs,waist
@@ -567,8 +567,8 @@ count	stem	zh	reason	source	example_source	slots
 30	Marble	大理石	字義	semantic:marble	arms:Marble Arms	arms,body,head,legs,waist
 30	Banquet	宴會	字義	semantic:banquet	arms:Banquet Arms	arms,body,head,legs,waist
 30	Anteka	雪鹿	魔物／詞庫	terms.csv	arms:Anteka グローブ	arms,body,head,legs,waist
-30	Mist	霧	遊戲專名／定譯	armor_quality_series	arms:Mist 【袖】	arms,body,head,legs,waist
-30	Fog	霧	遊戲專名／定譯	armor_quality_series	arms:Fog [Sleeve 】	arms,body,head,legs,waist
+30	Mist	霧	字義	semantic:mist	arms:Mist 【袖】	arms,body,head,legs,waist
+30	Fog	霧	字義	semantic:fog	arms:Fog [Sleeve 】	arms,body,head,legs,waist
 30	Rodokuru	爾歐德歐	專名短音譯	搜:MHF Rodokuru 防具→無義譯慣用；短音譯≤4	arms:Rodokuru Arms	arms,body,head,legs,waist
 30	G.Plesioth	綠水龍	詞庫／縮寫	terms:Plesioth=水龍；G.=綠	arms:G.Plesioth G Arms	arms,body,head,legs,waist
 30	Bright Hypnoc	布伊格歐	專名短音譯	搜:MHF Bright Hypnoc 防具→無義譯慣用；短音譯≤4	arms:Bright Hypnoc G Arms	arms,body,head,legs,waist
@@ -581,7 +581,7 @@ count	stem	zh	reason	source	example_source	slots
 30	B.Espinas	棘茶龍	魔物／詞庫	terms.csv	arms:B.Espinas G Grip	arms,body,head,legs,waist
 30	Volga	芙歐爾阿	專名短音譯	搜:MHF Volga 防具→無義譯慣用；短音譯≤4	arms:Red Volga G Arms	arms,body,head,legs,waist
 30	Ravi :Berserk	大巖龍狂化	詞庫	terms:ravi；修飾:berserk	arms:Ravi G Arms:Berserk	arms,body,head,legs,waist
-30	Mark.06	馬克06	專名短音譯	搜:Mark.06	arms:Mark.06 Arms	arms,body,head,legs,waist
+30	Mark.06	馬克06	遊戲專名／短音譯	web:Mark.06／エヴァ系；搜有出處	arms:Mark.06 Arms	arms,body,head,legs,waist
 30	Otono	歐特歐恩	專名短音譯	搜:MHF Otono 防具→無義譯慣用；短音譯≤4	arms:Otono Arms	arms,body,head,legs,waist
 30	Reuasu	爾艾斯烏	專名短音譯	搜:MHF Reuasu 防具→無義譯慣用；短音譯≤4	arms:Reuasu G Arms	arms,body,head,legs,waist
 30	Shiusu	夏伊斯烏	專名短音譯	搜:MHF Shiusu 防具→無義譯慣用；短音譯≤4	arms:Shiusu G Arms	arms,body,head,legs,waist
@@ -610,9 +610,9 @@ count	stem	zh	reason	source	example_source	slots
 28	Aelucanth	甲蟲	遊戲專名／定譯	armor_quality_series	arms:Aelucanth Brachia	arms,body,head,legs,waist
 28	Rhopessa	鳳蝶	遊戲專名／定譯	armor_quality_series	arms:Rhopessa Brachia	arms,body,head,legs,waist
 28	Song Horn	斯歐恩歐	專名短音譯	搜:MHF Song Horn 防具→無義譯慣用；短音譯≤4	arms:Song Horn Arms	arms,body,legs,waist
-28	Piercing Light	普伊爾伊	專名短音譯	搜:MHF Piercing Light 防具→無義譯慣用；短音譯≤4	arms:Piercing Light Arms	arms,body,legs,waist
-28	Hero King Earring BM	赫艾爾歐	專名短音譯	搜:MHF Hero King Earring BM 防具→無義譯慣用；短音譯≤4	head:Hero King Earring BM Gold	head
-28	Hero King Earring GN	赫艾爾歐	專名短音譯	搜:MHF Hero King Earring GN 防具→無義譯慣用；短音譯≤4	head:Hero King Earring GN Gold	head
+28	Piercing Light	貫光	字義	semantic:Piercing Light	arms:Piercing Light Arms	arms,body,legs,waist
+28	Hero King Earring BM	英雄王	合作／聯名	web:Fate 英雄王／ゴルゴン	head:Hero King Earring BM Gold	head
+28	Hero King Earring GN	英雄王	合作／聯名	web:Fate 英雄王／ゴルゴン	head:Hero King Earring GN Gold	head
 28	Vest	背心	魔物／詞庫	terms.csv	body:Cloth Vest・Red	body
 28	Akahara Reisou 胴: Bow	胴:	日文原語	source-jp	body:Akahara Reisou・胴: Bow Red	body
 27	Rebidiora	雷極龍	魔物／詞庫	terms.csv	arms:Rebidiora Gクロウ	arms,body,head,legs,waist
@@ -624,7 +624,7 @@ count	stem	zh	reason	source	example_source	slots
 25	Tempest	暴風雨	遊戲專名／定譯	armor_quality_series	arms:Tempest Arms	arms,body,head,legs,waist
 25	Tune	特烏恩艾	專名短音譯	搜:MHF Tune 防具→無義譯慣用；短音譯≤4	arms:Tune Arms	arms,body,head,legs,waist
 25	Schnite	施伊特艾	專名短音譯	搜:MHF Schnite 防具→無義譯慣用；短音譯≤4	arms:Schnite Guard	arms,body,head,legs,waist
-25	Welkin	蒼穹	遊戲專名／定譯	armor_quality_series	arms:Welkin Sleeve	arms,body,head,legs,waist
+25	Welkin	穹蒼	字義	semantic:Welkin=天空	arms:Welkin Sleeve	arms,body,head,legs,waist
 25	Garuba	雅魯巴	魔物／詞庫	搜:ガルバダオラ／Garuba	arms:Garuba ハトゥー	arms,body,head
 25	Carrol D	克阿爾歐	專名短音譯	搜:MHF Carrol D 防具→無義譯慣用；短音譯≤4	arms:Carrol D Arms・Black	arms,body,head,legs,waist
 25	Magisa D	姆阿格伊	專名短音譯	搜:MHF Magisa D 防具→無義譯慣用；短音譯≤4	arms:Magisa D Arms・Red	arms,body,head,legs,waist
@@ -648,8 +648,8 @@ count	stem	zh	reason	source	example_source	slots
 21	King Beetle	王甲蟲	遊戲專名／定譯	armor_quality_series	arms:King Beetle Brachia	arms,body,head,legs,waist
 21	Cannon Water	加農水	定譯拼裝	quality+word	arms:Cannon Claws・Water	arms,body,head
 21	Axel Water	輪軸水	定譯拼裝	quality+word	arms:Axel Claws・Water	arms,body,head
-21	Cannon Will	克阿恩歐	專名短音譯	搜:MHF Cannon Will 防具→無義譯慣用；短音譯≤4	waist:Cannon Will・Green	waist
-21	Axel Will	阿克斯艾	專名短音譯	搜:MHF Axel Will 防具→無義譯慣用；短音譯≤4	waist:Axel Will・Green	waist
+21	Cannon Will	砲意志	字義	semantic:Cannon Will	waist:Cannon Will・Green	waist
+21	Axel Will	軸意志	字義	semantic:Axel Will	waist:Axel Will・Green	waist
 21	Twelve Paladins' Armor Bow	十二聖騎鎧弓	遊戲專名／定譯	armor_quality_series	head:Twelve Paladins' Armor・Bow Yellow	head
 20	Leather	皮革	魔物／詞庫	terms.csv	arms:Leather Arms	arms,body,head,waist
 20	Amitie	阿姆伊特	專名短音譯	搜:MHF Amitie 防具→無義譯慣用；短音譯≤4	arms:Amitie Arms	arms,body,head,legs,waist
@@ -727,9 +727,9 @@ count	stem	zh	reason	source	example_source	slots
 20	Suriito D	斯烏爾伊	專名短音譯	搜:MHF Suriito D 防具→無義譯慣用；短音譯≤4	arms:Suriito D Arms・Yellow	arms,body,head,legs,waist
 20	Text D	特艾克斯	專名短音譯	搜:MHF Text D 防具→無義譯慣用；短音譯≤4	arms:Text D Arms・Purple	arms,body,head,legs,waist
 20	Pharan D	菲阿爾阿	專名短音譯	搜:MHF Pharan D 防具→無義譯慣用；短音譯≤4	arms:Pharan D Arms・White	arms,body,head,legs,waist
-20	D	德	專名短音譯	搜:MHF D 防具→無義譯慣用；短音譯≤4	arms:Gold D Arms・Red	arms,body,head,legs,waist
+20	D		待查	洗白清除：單字母 D 不得當系列	arms:Gold D Arms・Red	arms,body,head,legs,waist
 20	Ex D	艾克斯	專名短音譯	搜:MHF Ex D 防具→無義譯慣用；短音譯≤4	arms:Ex D Arms・White	arms,body,head,legs,waist
-20	Star Festival D	斯阿爾艾	專名短音譯	搜:MHF Star Festival D 防具→無義譯慣用；短音譯≤4	arms:Star Festival D Gauntlets [Red 】	arms,body,head,legs,waist
+20	Star Festival D	星祭	字義	semantic:Star Festival	arms:Star Festival D Gauntlets [Red 】	arms,body,head,legs,waist
 20	Promise D	普歐姆伊	專名短音譯	搜:MHF Promise D 防具→無義譯慣用；短音譯≤4	arms:Promise D Arms・White	arms,body,head,legs,waist
 20	Flight D	芙伊格	專名短音譯	搜:MHF Flight D 防具→無義譯慣用；短音譯≤4	arms:Flight Kote D・White	arms,body,head,legs,waist
 20	Bande D	布阿恩艾	專名短音譯	搜:MHF Bande D 防具→無義譯慣用；短音譯≤4	arms:Bande D Arms・Blue	arms,body,head,legs,waist
@@ -750,11 +750,11 @@ count	stem	zh	reason	source	example_source	slots
 16	Rookie	爾歐克伊	專名短音譯	搜:MHF Rookie 防具→無義譯慣用；短音譯≤4	arms:Rookie Arms 【 White 】	arms,body,head,legs,waist
 16	Rider	爾伊德艾	專名短音譯	搜:MHF Rider 防具→無義譯慣用；短音譯≤4	arms:Rider Arms R	arms,body,head,legs
 16	Rising	爾伊斯伊	專名短音譯	搜:MHF Rising 防具→無義譯慣用；短音譯≤4	arms:Rising Arms R	arms,body,head,legs
-16	Randa の	の	日文原語	source-jp	arms:Randa の Gauntlets・Yellow	arms,body,legs
-16	Rolling Sky	滾天	遊戲專名／定譯	armor_quality_series	arms:Rolling Sky Kote	arms,body,head,legs
+16	Randa の	蘭達	專名短音譯	搜:ランダ系專名	arms:Randa の Gauntlets・Yellow	arms,body,legs
+16	Rolling Sky	滾天	字義	semantic:Rolling Sky	arms:Rolling Sky Kote	arms,body,head,legs
 16	Rolling Earth	滾地	遊戲專名／定譯	armor_quality_series	arms:Rolling Earth Kote	arms,body,head,legs
-16	Knight King BM D	克伊格伊	專名短音譯	搜:MHF Knight King BM D 防具→無義譯慣用；短音譯≤4	arms:Knight King Arms BM D Blue	arms,body,legs,waist
-16	Hero King BM D	赫艾爾歐	專名短音譯	搜:MHF Hero King BM D 防具→無義譯慣用；短音譯≤4	arms:Hero King Arms BM D Gold	arms,body,legs,waist
+16	Knight King BM D	騎士王	合作／聯名	web:Fate 騎士王	arms:Knight King Arms BM D Blue	arms,body,legs,waist
+16	Hero King BM D	英雄王	合作／聯名	web:Fate 英雄王	arms:Hero King Arms BM D Gold	arms,body,legs,waist
 16	Cloth D	克歐斯	專名短音譯	搜:MHF Cloth D 防具→無義譯慣用；短音譯≤4	arms:Cloth D Arms・Red	arms,head,legs,waist
 16	Randa D	爾阿恩阿	專名短音譯	搜:MHF Randa D 防具→無義譯慣用；短音譯≤4	arms:Randa Gauntlets・D Yellow	arms,head,legs,waist
 16	Buney D	布烏恩艾	專名短音譯	搜:MHF Buney D 防具→無義譯慣用；短音譯≤4	arms:Buney D Arms・Black	arms,body,legs,waist
@@ -799,7 +799,7 @@ count	stem	zh	reason	source	example_source	slots
 15	Seiryu Kensei	青龍劍聖	遊戲專名／字義	web:青龍・剣聖	arms:Seiryu・Kensei G Arms	arms,body,head,legs,waist
 15	Hisui	翡翠	遊戲專名／定譯	armor_quality_series	arms:Hisui Arms	arms,body,head,legs,waist
 15	Blood	布歐德	專名短音譯	搜:MHF Blood 防具→無義譯慣用；短音譯≤4	arms:Blood Arms	arms,body,head,legs,waist
-15	Rolling Flow	滾流	遊戲專名／定譯	armor_quality_series	arms:Rolling Flow Kote・HS	arms,body,head,legs
+15	Rolling Flow	滾流	字義	semantic:Rolling Flow	arms:Rolling Flow Kote・HS	arms,body,head,legs
 15	月夜 Kensei	月夜	日文原語	source-jp	arms:月夜・Kensei G Arms	arms,body,head,legs,waist
 15	穹 Kensei	穹	日文原語	source-jp	arms:Green 穹・Kensei G Arms	arms,body,head,legs,waist
 15	Wrath	沃阿斯	專名短音譯	搜:MHF Wrath 防具→無義譯慣用；短音譯≤4	arms:Wrath G【 Kote 】	arms,body,head,legs,waist
@@ -815,21 +815,21 @@ count	stem	zh	reason	source	example_source	slots
 15	Ice Emperor D	伊克艾斯	專名短音譯	搜:MHF Ice Emperor D 防具→無義譯慣用；短音譯≤4	arms:Blue Ice Emperor D Arms	arms,body,head,legs,waist
 15	Tanzanite	特阿恩阿	專名短音譯	搜:MHF Tanzanite 防具→無義譯慣用；短音譯≤4	arms:Tanzanite Arms	arms,body,head,legs,waist
 15	Hematite	赫艾姆阿	專名短音譯	搜:MHF Hematite 防具→無義譯慣用；短音譯≤4	arms:Hematite Arms	arms,body,head,legs,waist
-15	Gloria D	格歐爾伊	專名短音譯	搜:MHF Gloria D 防具→無義譯慣用；短音譯≤4	arms:Gloria D Arms・Gold	arms,body,head,legs,waist
+15	Gloria D	榮光	字義	semantic:Gloria	arms:Gloria D Arms・Gold	arms,body,head,legs,waist
 15	Honour D	赫歐恩歐	專名短音譯	搜:MHF Honour D 防具→無義譯慣用；短音譯≤4	arms:Honour D Arms・Red	arms,body,head,legs,waist
-15	Pics D	普伊克	專名短音譯	搜:MHF Pics D 防具→無義譯慣用；短音譯≤4	arms:Pics D Arms・Green	arms,body,head,legs,waist
-15	Magos D	姆阿格歐	專名短音譯	搜:MHF Magos D 防具→無義譯慣用；短音譯≤4	arms:Magos D Arms・Yellow	arms,body,head,legs,waist
-15	Cayssis D	克阿伊伊	專名短音譯	搜:MHF Cayssis D 防具→無義譯慣用；短音譯≤4	arms:Cayssis D Arms Red	arms,body,head,legs,waist
-15	Galitos D	格阿爾伊	專名短音譯	搜:MHF Galitos D 防具→無義譯慣用；短音譯≤4	arms:Galitos D Arms・Tea	arms,body,head,legs,waist
-15	Claire D	克阿爾艾	專名短音譯	搜:MHF Claire D 防具→無義譯慣用；短音譯≤4	arms:Claire D Arms・Purple	arms,body,head,legs,waist
-15	Comrada	克歐姆阿	專名短音譯	搜:MHF Comrada 防具→無義譯慣用；短音譯≤4	waist:Comrada Belt 【 Red 】	body,head,legs,waist
+15	Pics D	皮克斯	遊戲專名	armor_quality_series	arms:Pics D Arms・Green	arms,body,head,legs,waist
+15	Magos D	瑪戈斯	遊戲專名／短音譯	web:マゴス	arms:Magos D Arms・Yellow	arms,body,head,legs,waist
+15	Cayssis D	凱西斯	遊戲專名／短音譯	web:ケイシス	arms:Cayssis D Arms Red	arms,body,head,legs,waist
+15	Galitos D	加里托斯	遊戲專名	armor_quality_series	arms:Galitos D Arms・Tea	arms,body,head,legs,waist
+15	Claire D	克蕾爾	遊戲專名／短音譯	web:クレール	arms:Claire D Arms・Purple	arms,body,head,legs,waist
+15	Comrada	戰友	字義	semantic:Comrada≈Comrade	waist:Comrada Belt 【 Red 】	body,head,legs,waist
 14	Twelve Paladins' Armor BM	十二聖騎鎧ＢＭ	遊戲專名／定譯	armor_quality_series	head:Twelve Paladins' Armor・BM White	head
-12	Star Festival Summer	斯阿爾艾	專名短音譯	搜:MHF Star Festival Summer 防具→無義譯慣用；短音譯≤4	arms:Star Festival Gauntlets・Summer [Red 】	arms,body,waist
-12	Tanabata Summer	特阿恩阿	專名短音譯	搜:MHF Tanabata Summer 防具→無義譯慣用；短音譯≤4	arms:Tanabata Gauntlets・Summer [Red 】	arms,body,waist
-12	Star Festival 織	織	日文原語	source-jp	arms:Star Festival Gauntlets・織 [Red 】	arms,body,waist
+12	Star Festival Summer	星祭夏	字義	semantic:Star Festival＋Summer	arms:Star Festival Gauntlets・Summer [Red 】	arms,body,waist
+12	Tanabata Summer	七夕夏	字義	semantic:Tanabata＋Summer	arms:Tanabata Gauntlets・Summer [Red 】	arms,body,waist
+12	Star Festival 織	星祭織	字義／日文	semantic:Star Festival＋織	arms:Star Festival Gauntlets・織 [Red 】	arms,body,waist
 12	Tanabata 織	織	日文原語	source-jp	arms:Tanabata Gauntlets・織 [Red 】	arms,body,waist
-12	Star Festival Heaven	星祭天	定譯拼裝	quality+word	arms:Star Festival Gauntlets・Heaven [Red 】	arms,body,waist
-12	Tanabata Heaven	七夕天	定譯拼裝	quality+word	arms:Tanabata Gauntlets・Heaven [Red 】	arms,body,waist
+12	Star Festival Heaven	星祭天	字義	semantic:Star Festival＋Heaven；變體入詞幹禁第二・	arms:Star Festival Gauntlets・Heaven [Red 】	arms,body,waist
+12	Tanabata Heaven	七夕天	字義	semantic:Tanabata＋Heaven	arms:Tanabata Gauntlets・Heaven [Red 】	arms,body,waist
 12	Orutemo	歐爾烏特	專名短音譯	搜:MHF Orutemo 防具→無義譯慣用；短音譯≤4	arms:Orutemo F Arms	arms,body,head,legs,waist
 12	Blize FY	布伊茲艾	專名短音譯	搜:MHF Blize FY 防具→無義譯慣用；短音譯≤4	arms:Blize FY Arms	arms,body,head,waist
 12	Genesis	創世	遊戲專名／定譯	armor_quality_series	arms:Genesis G【手袋】	arms,body,head,legs
@@ -862,7 +862,7 @@ count	stem	zh	reason	source	example_source	slots
 10	Baraban	布阿爾阿	專名短音譯	搜:MHF Baraban 防具→無義譯慣用；短音譯≤4	arms:Baraban Arms	arms,body,head,legs,waist
 10	Sufera	斯烏芙艾	專名短音譯	搜:MHF Sufera 防具→無義譯慣用；短音譯≤4	arms:Sufera Guard	arms,body,head,legs,waist
 10	Hypnolia	赫歐爾伊	專名短音譯	搜:MHF Hypnolia 防具→無義譯慣用；短音譯≤4	arms:Hypnolia Arms	arms,body,head,legs,waist
-10	Demon Lord	德艾姆歐	專名短音譯	搜:MHF Demon Lord 防具→無義譯慣用；短音譯≤4	arms:Demon Lord Kote	arms,head,legs
+10	Demon Lord	魔王	字義	semantic:Demon Lord	arms:Demon Lord Kote	arms,head,legs
 10	Guns	格烏恩	專名短音譯	搜:MHF Guns 防具→無義譯慣用；短音譯≤4	arms:Guns Arms	arms,body,head,legs,waist
 10	Ecole	艾克歐爾	專名短音譯	搜:MHF Ecole 防具→無義譯慣用；短音譯≤4	arms:Ecole Arms	arms,body,head,legs,waist
 10	Core C	克歐爾艾	專名短音譯	搜:MHF Core C 防具→無義譯慣用；短音譯≤4	arms:Core Arms C	arms,body,head,legs,waist
@@ -1061,8 +1061,8 @@ count	stem	zh	reason	source	example_source	slots
 9	Erupe	艾露培	專名短音譯	搜:エルペ系	head:Erupe Beretta	head
 9	Makluva Cover	瑪克魯瓦罩	專名短音譯	搜:マカルパ系	body:Makluva Cover	body
 8	Guild Knight	公會騎士	遊戲專名／定譯	armor_quality_series	arms:Guild Knight Claws	arms,body,head,legs,waist
-8	Mizuha 魁	魁	日文原語	source-jp	arms:Mizuha 魁【大袖】	arms,body,legs,waist
-8	Toyotama 魁	魁	日文原語	source-jp	arms:Toyotama 魁【大袖】	arms,body,legs,waist
+8	Mizuha 魁		待查	QA清除：標誌字洗白	arms:Mizuha 魁【大袖】	arms,body,legs,waist
+8	Toyotama 魁		待查	QA清除：標誌字洗白	arms:Toyotama 魁【大袖】	arms,body,legs,waist
 8	剛 魁	剛魁	日文原語	source-jp	arms:Gold 剛・魁【 Kote 】	arms,body,legs,waist
 8	不動 魁	不動魁	日文原語	source-jp	arms:不動・魁【 Kote 】	arms,body,legs,waist
 8	夜叉 魁	夜叉魁	日文原語	source-jp	arms:夜叉・魁【御手】	arms,body,legs,waist
@@ -1074,8 +1074,8 @@ count	stem	zh	reason	source	example_source	slots
 8	Rising Y	昇	字義	semantic	arms:Rising Arms Y	arms,body,head,legs
 8	竜巻	竜巻	日文原語	source-jp	arms:竜巻 Kote・Black	arms,head
 8	竜巻F	竜巻	日文原語	source-jp	arms:竜巻F Kote・Black	arms,head
-8	True 空	空	日文原語	source-jp	arms:True 空 Kote・Black	arms,head
-8	True 空F	空	日文原語	source-jp	arms:True 空F Kote・Black	arms,head
+8	True 空	真空	字義／日文	semantic:True＋空	arms:True 空 Kote・Black	arms,head
+8	True 空F	真空	字義／日文	semantic:True＋空	arms:True 空F Kote・Black	arms,head
 8	昇龍FZ	昇龍	日文原語	source-jp	arms:昇龍FZ Kote・White	arms,head,waist
 8	昇龍HS	昇龍	日文原語	source-jp	arms:昇龍HS Kote・White	arms,head,waist
 8	昇龍GS	昇龍	日文原語	source-jp	arms:昇龍GS Kote・White	arms,head,waist
@@ -1088,10 +1088,10 @@ count	stem	zh	reason	source	example_source	slots
 8	竜巻HS	竜巻	日文原語	source-jp	arms:竜巻HS Kote・Black	arms,head
 8	竜巻GS	竜巻	日文原語	source-jp	arms:竜巻GS Kote・Black	arms,head
 8	竜巻GP	竜巻	日文原語	source-jp	arms:竜巻GP Kote・Black	arms,head
-8	True 空FZ	空	日文原語	source-jp	arms:True 空FZ Kote・Black	arms,head
-8	True 空HS	空	日文原語	source-jp	arms:True 空HS Kote・Black	arms,head
-8	True 空GS	空	日文原語	source-jp	arms:True 空GS Kote・Black	arms,head
-8	True 空GP	空	日文原語	source-jp	arms:True 空GP Kote・Black	arms,head
+8	True 空FZ	真空	字義／日文	semantic:True＋空	arms:True 空FZ Kote・Black	arms,head
+8	True 空HS	真空	字義／日文	semantic:True＋空	arms:True 空HS Kote・Black	arms,head
+8	True 空GS	真空	字義／日文	semantic:True＋空	arms:True 空GS Kote・Black	arms,head
+8	True 空GP	真空	字義／日文	semantic:True＋空	arms:True 空GP Kote・Black	arms,head
 8	Akahara Reisou 腕:Bow	腕:	日文原語	source-jp	arms:Akahara Reisou・腕:Bow GP Red	arms
 8	騎士王の :Bow	騎士王の:	日文原語	source-jp	arms:騎士王の Kote:Bow GP Blue	arms
 8	Inagami D	雅翁龍	詞庫	terms:inagami	arms:Inagami D【 Kote 】	arms,body,legs,waist
@@ -1107,8 +1107,8 @@ count	stem	zh	reason	source	example_source	slots
 7	Poogie D	普歐格伊	專名短音譯	搜:MHF Poogie D 防具→無義譯慣用；短音譯≤4	arms:Poogie D Punch	arms,body,head,legs,waist
 7	Rose Ball Gown Feathers	薔薇禮服羽	遊戲專名／定譯	armor_quality_series	arms:Rose Ball Gown・Feathers	arms
 7	Holy Maiden Armor Feathers	聖女鎧羽	遊戲專名／定譯	armor_quality_series	arms:Holy Maiden Armor・Feathers	arms
-7	Cannon Will Water	克阿恩歐	專名短音譯	搜:MHF Cannon Will Water 防具→無義譯慣用；短音譯≤4	waist:Cannon Will・Water	waist
-7	Axel Will Water	阿克斯艾	專名短音譯	搜:MHF Axel Will Water 防具→無義譯慣用；短音譯≤4	waist:Axel Will・Water	waist
+7	Cannon Will Water	砲意志	字義	semantic:Cannon Will；色另置	waist:Cannon Will・Water	waist
+7	Axel Will Water	軸意志	字義	semantic:Axel Will；色另置	waist:Axel Will・Water	waist
 7	VM Equipment	ＶＭ裝備	遊戲專名／定譯	armor_quality_series	waist:VM Equipment	waist
 7	VM Equipment+	ＶＭ裝備＋	遊戲專名／定譯	armor_quality_series	waist:VM Equipment+	waist
 7	Chiyo Colour	奇伊伊歐	專名短音譯	搜:MHF Chiyo Colour 防具→無義譯慣用；短音譯≤4	waist:Chiyo Colour Belt	waist
@@ -1123,30 +1123,30 @@ count	stem	zh	reason	source	example_source	slots
 7	Tantora	特阿恩歐	專名短音譯	搜:MHF Tantora 防具→無義譯慣用；短音譯≤4	head:Tantora Piercing	head
 7	Emil	艾姆伊爾	專名短音譯	搜:MHF Emil 防具→無義譯慣用；短音譯≤4	head:Emil Mask	head
 7	Song Helm	斯歐恩艾	專名短音譯	搜:MHF Song Helm 防具→無義譯慣用；短音譯≤4	head:Song Horn Helm	head
-7	Light Helm	光頭部防具	定譯拼裝	quality+word	head:Piercing Light Helm	head
+7	Light Helm	光	字義	semantic:light	head:Piercing Light Helm	head
 7	Twelve Paladins' Armor BM Yelow	特艾爾艾	專名短音譯	搜:MHF Twelve Paladins' Armor BM Yelow 防具→無義譯慣用；短音譯≤4	head:Twelve Paladins' Armor・BM Yelow	head
 7	Twelve Paladins' Armor BM Brown	特艾爾艾	專名短音譯	搜:MHF Twelve Paladins' Armor BM Brown 防具→無義譯慣用；短音譯≤4	head:Twelve Paladins' Armor・BM Brown	head
 7	Twelve Paladins' Armor Bow Brown	特艾爾艾	專名短音譯	搜:MHF Twelve Paladins' Armor Bow Brown 防具→無義譯慣用；短音譯≤4	head:Twelve Paladins' Armor・Bow Brown	head
-7	Dragon Slayer Armor Blade	龍	詞庫	terms:dragon	head:Dragon Slayer Armor・Blade	head
-7	Dragon Slayer Armor Bow	龍	詞庫	terms:dragon	head:Dragon Slayer Armor・Bow	head
-7	of Hidden Infidelity Blade	歐芙伊德	專名短音譯	搜:MHF of Hidden Infidelity Blade 防具→無義譯慣用；短音譯≤4	head:Helm of Hidden Infidelity・Blade	head
-7	of Hidden Infidelity Bow	歐芙伊德	專名短音譯	搜:MHF of Hidden Infidelity Bow 防具→無義譯慣用；短音譯≤4	head:Helm of Hidden Infidelity・Bow	head
+7	Dragon Slayer Armor Blade	屠龍	字義	semantic:Dragon Slayer；Blade=部位另置	head:Dragon Slayer Armor・Blade	head
+7	Dragon Slayer Armor Bow	屠龍	字義	semantic:Dragon Slayer；Bow=部位另置	head:Dragon Slayer Armor・Bow	head
+7	of Hidden Infidelity Blade	隱匿不忠	字義	semantic:Hidden Infidelity	head:Helm of Hidden Infidelity・Blade	head
+7	of Hidden Infidelity Bow	隱匿不忠	字義	semantic:Hidden Infidelity	head:Helm of Hidden Infidelity・Bow	head
 7	Twelve Paladins' Body	特艾爾艾	專名短音譯	搜:MHF Twelve Paladins' Body 防具→無義譯慣用；短音譯≤4	body:Twelve Paladins' Armor・Body	body
 7	Twelve Paladins' Chest	特艾爾艾	專名短音譯	搜:MHF Twelve Paladins' Chest 防具→無義譯慣用；短音譯≤4	body:Twelve Paladins' Armor・Chest	body
-7	Dragon Slayer Body	龍	詞庫	terms:dragon	body:Dragon Slayer Armor・Body	body
-7	Dragon Slayer Chest	龍	詞庫	terms:dragon	body:Dragon Slayer Armor・Chest	body
+7	Dragon Slayer Body	屠龍	字義	semantic:Dragon Slayer	body:Dragon Slayer Armor・Body	body
+7	Dragon Slayer Chest	屠龍	字義	semantic:Dragon Slayer	body:Dragon Slayer Armor・Chest	body
 6	艶	艶	日文原語	source-jp	arms:艶【 Kote 】	arms,body,legs,waist
 6	Dyuragaua	冰狐龍	魔物／詞庫	terms.csv	arms:Dyuragaua 【 Kote 】	arms,head
-6	Inari 覇	覇	日文原語	source-jp	arms:Inari 覇【 Kote 】	arms,body,head,legs,waist
-6	Tamamo 覇	覇	日文原語	source-jp	arms:Tamamo 覇【 Kote 】	arms,body,head,legs,waist
+6	Inari 覇	稻荷	神話／遊戲專名	web:稲荷；覇=標誌另置	arms:Inari 覇【 Kote 】	arms,body,head,legs,waist
+6	Tamamo 覇	玉藻	神話／遊戲專名	web:玉藻；覇=標誌另置	arms:Tamamo 覇【 Kote 】	arms,body,head,legs,waist
 6	Buran FY	布烏爾阿	專名短音譯	搜:MHF Buran FY 防具→無義譯慣用；短音譯≤4	arms:Buran FY Arms	arms,body,head,legs,waist
 6	Breo FY	布艾斯	專名短音譯	搜:MHF Breo FY 防具→無義譯慣用；短音譯≤4	arms:Breo FY Arms	arms,body,head,legs,waist
-6	Mark.06F		待查		arms:Mark.06F Arms	arms,body,waist
-6	Mark.06FZ		待查		arms:Mark.06FZ Arms	arms,body,waist
-6	Mark.06HS		待查		arms:Mark.06HS Arms	arms,body,waist
-6	Mark.06GS		待查		arms:Mark.06GS Arms	arms,body,waist
-6	Mark.06GP		待查		arms:Mark.06GP Arms	arms,body,waist
-6	Demon Tale	德艾姆歐	專名短音譯	搜:MHF Demon Tale 防具→無義譯慣用；短音譯≤4	arms:Demon Tale Kote G	arms,head
+6	Mark.06F	馬克06	遊戲專名／短音譯	web:Mark.06；F=級別另置	arms:Mark.06F Arms	arms,body,waist
+6	Mark.06FZ	馬克06	遊戲專名／短音譯	web:Mark.06	arms:Mark.06FZ Arms	arms,body,waist
+6	Mark.06HS	馬克06	遊戲專名／短音譯	web:Mark.06	arms:Mark.06HS Arms	arms,body,waist
+6	Mark.06GS	馬克06	遊戲專名／短音譯	web:Mark.06	arms:Mark.06GS Arms	arms,body,waist
+6	Mark.06GP	馬克06	遊戲專名／短音譯	web:Mark.06	arms:Mark.06GP Arms	arms,body,waist
+6	Demon Tale	魔譚	字義	semantic:Demon Tale	arms:Demon Tale Kote G	arms,head
 6	Demonclad	鬼纏	字義	semantic	arms:Demonclad Kote G	arms,head
 6	Youthclad	伊歐斯阿	專名短音譯	搜:MHF Youthclad 防具→無義譯慣用；短音譯≤4	arms:Youthclad Kote G	arms,head
 6	Melynx D	梅拉路	詞庫	terms:melynx	arms:Melynx D Arms	arms,body,head,legs,waist
@@ -1162,10 +1162,10 @@ count	stem	zh	reason	source	example_source	slots
 6	Lava	熔岩	遊戲專名／定譯	armor_quality_series	head:Lava Helm	head
 6	Fellow Bikoonu	夥伴比庫努	遊戲專名／定譯	armor_quality_series	head:Fellow Bikoonu	head
 6	Shinobi 陰	陰	日文原語	source-jp	head:Shinobi Mask・陰 SP Yellow	head
-6	Golden Headdress	格歐爾艾	專名短音譯	搜:MHF Golden Headdress 防具→無義譯慣用；短音譯≤4	head:Golden Headdress・G	head
+6	Golden Headdress	金頭飾	字義	semantic:Golden Headdress	head:Golden Headdress・G	head
 6	Bat	布阿特	專名短音譯	搜:MHF Bat 防具→無義譯慣用；短音譯≤4	head:Bat Head	head
 6	Embrace	艾姆阿克	專名短音譯	搜:MHF Embrace 防具→無義譯慣用；短音譯≤4	head:Embrace Piercing	head
-6	B.Diablos		待查		head:B.Diablos G Helm	head
+6	B.Diablos	黑角龍	魔物／詞庫	terms:Black Diablos 縮寫	head:B.Diablos G Helm	head
 6	Utahime DIVA	烏特阿赫	專名短音譯	搜:MHF Utahime DIVA 防具→無義譯慣用；短音譯≤4	head:Utahime DIVA Piercing	head
 5	Nothing Equipped	未裝備	魔物／詞庫	terms.csv	arms:Nothing Equipped	arms,body,head,legs,waist
 5	King Lobster	王龍蝦	遊戲專名／定譯	armor_quality_series	arms:King Lobster Arms	arms,body,head
@@ -1207,7 +1207,7 @@ count	stem	zh	reason	source	example_source	slots
 5	ビリス	比利斯	專名短音譯	原文片假名:ビリス	arms:ビリス Arms	arms,body,head,legs,waist
 5	ギエール	吉埃爾	專名短音譯	原文片假名:ギエール	arms:ギエール Arms	arms,body,head,legs,waist
 5	ヴィン	溫	專名短音譯	原文片假名:ヴィン	arms:ヴィン Arms	arms,body,head,legs,waist
-5	Welkin 魁	魁	日文原語	source-jp	arms:Welkin Sleeve・魁	arms,body,head,legs,waist
+5	Welkin 魁		待查	QA清除：標誌字洗白	arms:Welkin Sleeve・魁	arms,body,head,legs,waist
 5	Buto	布烏特歐	專名短音譯	搜:MHF Buto 防具→無義譯慣用；短音譯≤4	arms:Buto F Arms	arms,body,head,legs,waist
 5	Rathalos LX	雄火龍	詞庫	terms:rathalos	arms:Rathalos LX Arms	arms,body,head,legs,waist
 5	Khezu LX	奇怪龍	詞庫	terms:khezu	arms:Khezu LX Arms	arms,body,head,legs,waist
@@ -1225,8 +1225,8 @@ count	stem	zh	reason	source	example_source	slots
 5	Hermitaur LX	盾蟹	詞庫	terms:hermitaur	arms:Hermitaur LX Arms	arms,body,head,legs,waist
 5	Diablos RX	角龍	詞庫	terms:diablos	arms:Diablos RX Arms	arms,body,head,legs,waist
 5	Diablos LX	角龍	詞庫	terms:diablos	arms:Diablos LX Arms	arms,body,head,legs,waist
-5	True Shadow	真影	字義	semantic	arms:True Shadow Sleeve	arms,body,head,legs,waist
-5	True Shadow 魁	魁	日文原語	source-jp	arms:True Shadow Sleeve・魁	arms,body,head,legs,waist
+5	True Shadow	真影	字義	semantic:True Shadow	arms:True Shadow Sleeve	arms,body,head,legs,waist
+5	True Shadow 魁		待查	QA清除：標誌字洗白	arms:True Shadow Sleeve・魁	arms,body,head,legs,waist
 5	Tiger	虎	單詞拼裝	terms/word	arms:Black Tiger Sleeve	arms,body,head,legs,waist
 5	Sky True	天空真	定譯拼裝	quality+word	arms:Blue Sky Sleeve・True	arms,body,head,legs,waist
 5	Welkin True	蒼穹真	定譯拼裝	quality+word	arms:Welkin Sleeve・True	arms,body,head,legs,waist
@@ -1240,16 +1240,16 @@ count	stem	zh	reason	source	example_source	slots
 5	Gravios RX	鎧龍	詞庫	terms:gravios	arms:Gravios RX Arms	arms,body,head,legs,waist
 5	Bone RX	骨製	詞庫	terms:bone	arms:Bone RX Guard	arms,body,head,legs,waist
 5	Snake	蛇	單詞拼裝	terms/word	arms:White Snake Sleeve	arms,body,head,legs,waist
-5	Snake 魁	魁	日文原語	source-jp	arms:White Snake Sleeve・魁	arms,body,head,legs,waist
-5	Rolling Flow の	の	日文原語	source-jp	arms:Rolling Flow の Kote	arms,waist
+5	Snake 魁		待查	QA清除：標誌字洗白	arms:White Snake Sleeve・魁	arms,body,head,legs,waist
+5	Rolling Flow の	滾流	字義	semantic:Rolling Flow	arms:Rolling Flow の Kote	arms,waist
 5	旋転の 魁	旋転の魁	日文原語	source-jp	arms:旋転の Kote・魁	arms,body,head,legs,waist
 5	Harubadaa FY	赫阿爾烏	專名短音譯	搜:MHF Harubadaa FY 防具→無義譯慣用；短音譯≤4	arms:Harubadaa FY Arms	arms,body,head,legs,waist
 5	Tracker FY	特阿克艾	專名短音譯	搜:MHF Tracker FY 防具→無義譯慣用；短音譯≤4	arms:Tracker FY Guard	arms,body,head,legs,waist
-5	Valued Word	珍言	字義	semantic	arms:Valued Word Sleeve	arms,body,head,legs,waist
-5	Valued Word 魁	魁	日文原語	source-jp	arms:Valued Word Sleeve・魁	arms,body,head,legs,waist
+5	Valued Word	珍言	字義	semantic:Valued Word	arms:Valued Word Sleeve	arms,body,head,legs,waist
+5	Valued Word 魁		待查	QA清除：標誌字洗白	arms:Valued Word Sleeve・魁	arms,body,head,legs,waist
 5	Valued Word Smart	珍言機靈	定譯拼裝	quality+word	arms:Valued Word Sleeve・Smart	arms,body,head,legs,waist
 5	Valued Word Flower	芙阿爾烏	專名短音譯	搜:MHF Valued Word Flower 防具→無義譯慣用；短音譯≤4	arms:Valued Word Sleeve・Flower	arms,body,head,legs,waist
-5	Royal FY	爾歐伊阿	專名短音譯	搜:MHF Royal FY 防具→無義譯慣用；短音譯≤4	arms:Royal FY Arms	arms,body,head,legs,waist
+5	Royal FY	王室	字義	semantic:Royal	arms:Royal FY Arms	arms,body,head,legs,waist
 5	Lord FY	爾歐爾	專名短音譯	搜:MHF Lord FY 防具→無義譯慣用；短音譯≤4	arms:Lord FY Guard	arms,body,head,legs,waist
 5	Gypceros LX	毒怪鳥	詞庫	terms:gypceros	arms:Gypceros LX Arms	arms,body,head,legs,waist
 5	Ceanataur LX	鎌蟹	詞庫	terms:ceanataur	arms:Ceanataur LX Arms	arms,body,head,legs,waist
@@ -1366,14 +1366,14 @@ count	stem	zh	reason	source	example_source	slots
 5	Genbu 銃仙GF	銃仙	日文原語	source-jp	arms:Genbu・銃仙GF Guard	arms,body,head,legs,waist
 5	Seiryu 銃仙G	銃仙	日文原語	source-jp	arms:Seiryu・銃仙G Guard	arms,body,head,legs,waist
 5	Seiryu 銃仙GF	銃仙	日文原語	source-jp	arms:Seiryu・銃仙GF Guard	arms,body,head,legs,waist
-5	Byakko Bow 鬼G	鬼	日文原語	source-jp	arms:Byakko・Bow 鬼G Guard	arms,body,head,legs,waist
-5	Byakko Bow 鬼GF	鬼	日文原語	source-jp	arms:Byakko・Bow 鬼GF Guard	arms,body,head,legs,waist
-5	Suzaku Bow 鬼G	鬼	日文原語	source-jp	arms:Suzaku・Bow 鬼G Guard	arms,body,head,legs,waist
-5	Suzaku Bow 鬼GF	鬼	日文原語	source-jp	arms:Suzaku・Bow 鬼GF Guard	arms,body,head,legs,waist
-5	Genbu Bow 鬼G	鬼	日文原語	source-jp	arms:Genbu・Bow 鬼G Guard	arms,body,head,legs,waist
-5	Genbu Bow 鬼GF	鬼	日文原語	source-jp	arms:Genbu・Bow 鬼GF Guard	arms,body,head,legs,waist
-5	Seiryu Bow 鬼G	鬼	日文原語	source-jp	arms:Seiryu・Bow 鬼G Guard	arms,body,head,legs,waist
-5	Seiryu Bow 鬼GF	鬼	日文原語	source-jp	arms:Seiryu・Bow 鬼GF Guard	arms,body,head,legs,waist
+5	Byakko Bow 鬼G	白虎	神話	semantic:Byakko；鬼=標誌	arms:Byakko・Bow 鬼G Guard	arms,body,head,legs,waist
+5	Byakko Bow 鬼GF	白虎	神話	semantic:Byakko	arms:Byakko・Bow 鬼GF Guard	arms,body,head,legs,waist
+5	Suzaku Bow 鬼G	朱雀	神話	semantic:Suzaku	arms:Suzaku・Bow 鬼G Guard	arms,body,head,legs,waist
+5	Suzaku Bow 鬼GF	朱雀	神話	semantic:Suzaku	arms:Suzaku・Bow 鬼GF Guard	arms,body,head,legs,waist
+5	Genbu Bow 鬼G	玄武	神話	semantic:Genbu	arms:Genbu・Bow 鬼G Guard	arms,body,head,legs,waist
+5	Genbu Bow 鬼GF	玄武	神話	semantic:Genbu	arms:Genbu・Bow 鬼GF Guard	arms,body,head,legs,waist
+5	Seiryu Bow 鬼G	青龍	神話	semantic:Seiryu	arms:Seiryu・Bow 鬼G Guard	arms,body,head,legs,waist
+5	Seiryu Bow 鬼GF	青龍	神話	semantic:Seiryu	arms:Seiryu・Bow 鬼GF Guard	arms,body,head,legs,waist
 5	武者G	武者	日文原語	source-jp	arms:武者G【 Kote 】	arms,body,head,legs,waist
 5	日光G	日光	日文原語	source-jp	arms:日光G【 Kote 】	arms,body,head,legs,waist
 5	Flora	芙歐爾阿	專名短音譯	搜:MHF Flora 防具→無義譯慣用；短音譯≤4	arms:Flora Arms	arms,body,head,legs,waist
@@ -1440,10 +1440,10 @@ count	stem	zh	reason	source	example_source	slots
 5	Suzaku 銃仙GX	銃仙	日文原語	source-jp	arms:Suzaku・銃仙GX Guard	arms,body,head,legs,waist
 5	Genbu 銃仙GX	銃仙	日文原語	source-jp	arms:Genbu・銃仙GX Guard	arms,body,head,legs,waist
 5	Seiryu 銃仙GX	銃仙	日文原語	source-jp	arms:Seiryu・銃仙GX Guard	arms,body,head,legs,waist
-5	Byakko Bow 鬼GX	鬼	日文原語	source-jp	arms:Byakko・Bow 鬼GX Guard	arms,body,head,legs,waist
-5	Suzaku Bow 鬼GX	鬼	日文原語	source-jp	arms:Suzaku・Bow 鬼GX Guard	arms,body,head,legs,waist
-5	Genbu Bow 鬼GX	鬼	日文原語	source-jp	arms:Genbu・Bow 鬼GX Guard	arms,body,head,legs,waist
-5	Seiryu Bow 鬼GX	鬼	日文原語	source-jp	arms:Seiryu・Bow 鬼GX Guard	arms,body,head,legs,waist
+5	Byakko Bow 鬼GX	白虎	神話	semantic:Byakko	arms:Byakko・Bow 鬼GX Guard	arms,body,head,legs,waist
+5	Suzaku Bow 鬼GX	朱雀	神話	semantic:Suzaku	arms:Suzaku・Bow 鬼GX Guard	arms,body,head,legs,waist
+5	Genbu Bow 鬼GX	玄武	神話	semantic:Genbu	arms:Genbu・Bow 鬼GX Guard	arms,body,head,legs,waist
+5	Seiryu Bow 鬼GX	青龍	神話	semantic:Seiryu	arms:Seiryu・Bow 鬼GX Guard	arms,body,head,legs,waist
 5	Byakko 穿凰G	穿凰	日文原語	source-jp	arms:Byakko・穿凰G Arms	arms,body,head,legs,waist
 5	Byakko 穿凰GF	穿凰	日文原語	source-jp	arms:Byakko・穿凰GF Arms	arms,body,head,legs,waist
 5	Byakko 穿凰GX	穿凰	日文原語	source-jp	arms:Byakko・穿凰GX Arms	arms,body,head,legs,waist
@@ -1714,7 +1714,7 @@ count	stem	zh	reason	source	example_source	slots
 5	Gothic D	格歐斯伊	專名短音譯	搜:MHF Gothic D 防具→無義譯慣用；短音譯≤4	arms:Gothic D Arms	arms,body,head,legs,waist
 5	Genesis D	格艾恩艾	專名短音譯	搜:MHF Genesis D 防具→無義譯慣用；短音譯≤4	arms:Genesis D【手袋】	arms,body,head,legs,waist
 5	Motion D	姆歐特伊	專名短音譯	搜:MHF Motion D 防具→無義譯慣用；短音譯≤4	arms:Motion D【手袋】	arms,body,head,legs,waist
-5	Lightning D	爾伊格伊	專名短音譯	搜:MHF Lightning D 防具→無義譯慣用；短音譯≤4	arms:Lightning D【 Kote 】	arms,body,head,legs,waist
+5	Lightning D	雷光	遊戲專名	armor_quality_series；D=級別	arms:Lightning D【 Kote 】	arms,body,head,legs,waist
 5	Thunder D	雷	詞庫	terms:thunder	arms:Thunder D【 Kote 】	arms,body,head,legs,waist
 5	Once D 無	無	日文原語	source-jp	arms:Once D Arms・無	arms,body,head,legs,waist
 5	Pale Sakura D	普阿爾艾	專名短音譯	搜:MHF Pale Sakura D 防具→無義譯慣用；短音譯≤4	arms:Pale Sakura D [Sleeve 】	arms,body,head,legs,waist
@@ -1732,7 +1732,7 @@ count	stem	zh	reason	source	example_source	slots
 5	Two-tone D	特歐斯歐	專名短音譯	搜:MHF Two-tone D 防具→無義譯慣用；短音譯≤4	arms:Two-tone D Arms	arms,body,head,legs,waist
 5	King Beetle D	克伊恩艾	專名短音譯	搜:MHF King Beetle D 防具→無義譯慣用；短音譯≤4	arms:King Beetle D Brachia	arms,body,head,legs,waist
 5	Butterfly D	布烏特艾	專名短音譯	搜:MHF Butterfly D 防具→無義譯慣用；短音譯≤4	arms:Butterfly D Brachia	arms,body,head,legs,waist
-5	Burning Cliff	燃崖	遊戲專名／定譯	armor_quality_series	arms:Burning Cliff GX [Kote 】	arms,body,head,legs,waist
+5	Burning Cliff	燃崖	字義	semantic:Burning Cliff	arms:Burning Cliff GX [Kote 】	arms,body,head,legs,waist
 5	Cliff	崖	單詞拼裝	terms/word	arms:Crimson Cliff GX [Kote 】	arms,body,head,legs,waist
 5	Hesyumu D	赫艾斯烏	專名短音譯	搜:MHF Hesyumu D 防具→無義譯慣用；短音譯≤4	arms:Hesyumu D Arms	arms,body,head,legs,waist
 5	Kasamie D	克阿斯阿	專名短音譯	搜:MHF Kasamie D 防具→無義譯慣用；短音譯≤4	arms:Kasamie D Arms	arms,body,head,legs,waist
@@ -1761,8 +1761,8 @@ count	stem	zh	reason	source	example_source	slots
 5	Entora D	艾恩歐爾	專名短音譯	搜:MHF Entora D 防具→無義譯慣用；短音譯≤4	arms:Entora D Arms	arms,body,head,legs,waist
 5	Penre D	普艾恩艾	專名短音譯	搜:MHF Penre D 防具→無義譯慣用；短音譯≤4	arms:Penre D Arms	arms,body,head,legs,waist
 5	Rokka D	爾歐克阿	專名短音譯	搜:MHF Rokka D 防具→無義譯慣用；短音譯≤4	arms:Rokka D Arms	arms,body,head,legs,waist
-5	YoRHa No.9 Type D		待查		arms:YoRHa No.9 Type S D Arms	arms,body,head,legs,waist
-5	YoRHa No.2 Type B D		待查		arms:YoRHa No.2 Type B D Arms	arms,body,head,legs,waist
+5	YoRHa No.9 Type D	寄葉九號型	合作／聯名	web:NieR:Automata×MHF-Z	arms:YoRHa No.9 Type S D Arms	arms,body,head,legs,waist
+5	YoRHa No.2 Type B D	寄葉二號Ｂ型	合作／聯名	web:NieR:Automata×MHF-Z	arms:YoRHa No.2 Type B D Arms	arms,body,head,legs,waist
 5	Craft C	克阿芙	專名短音譯	搜:MHF Craft C 防具→無義譯慣用；短音譯≤4	arms:Craft C Arms	arms,body,head,legs,waist
 5	Cielo C	克伊爾歐	專名短音譯	搜:MHF Cielo C 防具→無義譯慣用；短音譯≤4	arms:Cielo C Arms	arms,body,head,legs,waist
 5	Felyne C	艾路猫	詞庫	terms:felyne	arms:Felyne C Arms	arms,body,head,legs,waist
@@ -1812,19 +1812,19 @@ count	stem	zh	reason	source	example_source	slots
 5	Aelucanth C	阿爾烏克	專名短音譯	搜:MHF Aelucanth C 防具→無義譯慣用；短音譯≤4	arms:Aelucanth C Brachia	arms,body,head,legs,waist
 5	Rhopessa C	爾歐普艾	專名短音譯	搜:MHF Rhopessa C 防具→無義譯慣用；短音譯≤4	arms:Rhopessa C Brachia	arms,body,head,legs,waist
 5	Tangusu D	特阿恩烏	專名短音譯	搜:MHF Tangusu D 防具→無義譯慣用；短音譯≤4	arms:Tangusu D Arms	arms,body,head,legs,waist
-5	Garnet D	格阿爾艾	專名短音譯	搜:MHF Garnet D 防具→無義譯慣用；短音譯≤4	arms:Garnet D Arms	arms,body,head,legs,waist
-5	Amethyst D	阿姆艾斯	專名短音譯	搜:MHF Amethyst D 防具→無義譯慣用；短音譯≤4	arms:Amethyst D Arms	arms,body,head,legs,waist
-5	Coral D	克歐爾阿	專名短音譯	搜:MHF Coral D 防具→無義譯慣用；短音譯≤4	arms:Coral D Arms	arms,body,head,legs,waist
-5	Quartz D	斯烏爾	專名短音譯	搜:MHF Quartz D 防具→無義譯慣用；短音譯≤4	arms:Quartz D Arms	arms,body,head,legs,waist
-5	Emerald D	艾姆艾爾	專名短音譯	搜:MHF Emerald D 防具→無義譯慣用；短音譯≤4	arms:Emerald D Arms	arms,body,head,legs,waist
-5	Pearl D	普艾爾	專名短音譯	搜:MHF Pearl D 防具→無義譯慣用；短音譯≤4	arms:Pearl D Arms	arms,body,head,legs,waist
-5	Ruby D	爾烏布	專名短音譯	搜:MHF Ruby D 防具→無義譯慣用；短音譯≤4	arms:Ruby D Arms	arms,body,head,legs,waist
-5	Sapphire D	斯阿普伊	專名短音譯	搜:MHF Sapphire D 防具→無義譯慣用；短音譯≤4	arms:Sapphire D Arms	arms,body,head,legs,waist
-5	Topaz D	特歐普阿	專名短音譯	搜:MHF Topaz D 防具→無義譯慣用；短音譯≤4	arms:Topaz D Guard	arms,body,head,legs,waist
-5	Tourmaline D	特歐爾阿	專名短音譯	搜:MHF Tourmaline D 防具→無義譯慣用；短音譯≤4	arms:Tourmaline D Guard	arms,body,head,legs,waist
-5	Lapis D	爾阿普伊	專名短音譯	搜:MHF Lapis D 防具→無義譯慣用；短音譯≤4	arms:Lapis D Guard	arms,body,head,legs,waist
-5	Hisui D	赫伊斯烏	專名短音譯	搜:MHF Hisui D 防具→無義譯慣用；短音譯≤4	arms:Hisui D Arms	arms,body,head,legs,waist
-5	Onyx D	歐恩	專名短音譯	搜:MHF Onyx D 防具→無義譯慣用；短音譯≤4	arms:Onyx D Arms	arms,body,head,legs,waist
+5	Garnet D	石榴石	字義	semantic:寶石	arms:Garnet D Arms	arms,body,head,legs,waist
+5	Amethyst D	紫水晶	字義	semantic:寶石	arms:Amethyst D Arms	arms,body,head,legs,waist
+5	Coral D	珊瑚	字義	semantic:寶石	arms:Coral D Arms	arms,body,head,legs,waist
+5	Quartz D	石英	字義	semantic:寶石	arms:Quartz D Arms	arms,body,head,legs,waist
+5	Emerald D	祖母緑	字義	semantic:寶石	arms:Emerald D Arms	arms,body,head,legs,waist
+5	Pearl D	珍珠	字義	semantic:寶石	arms:Pearl D Arms	arms,body,head,legs,waist
+5	Ruby D	紅寶石	字義	semantic:寶石	arms:Ruby D Arms	arms,body,head,legs,waist
+5	Sapphire D	藍寶石	字義	semantic:寶石	arms:Sapphire D Arms	arms,body,head,legs,waist
+5	Topaz D	黄玉	字義	semantic:寶石	arms:Topaz D Guard	arms,body,head,legs,waist
+5	Tourmaline D	電氣石	字義	semantic:寶石	arms:Tourmaline D Guard	arms,body,head,legs,waist
+5	Lapis D	青金石	字義	semantic:寶石	arms:Lapis D Guard	arms,body,head,legs,waist
+5	Hisui D	翡翠	字義	semantic:寶石	arms:Hisui D Arms	arms,body,head,legs,waist
+5	Onyx D	縞瑪瑙	字義	semantic:寶石	arms:Onyx D Arms	arms,body,head,legs,waist
 5	Mosswine D	菌豬	詞庫	terms:mosswine	arms:Mosswine Punch D	arms,body,head,legs,waist
 5	Shourou D	夏歐爾歐	專名短音譯	搜:MHF Shourou D 防具→無義譯慣用；短音譯≤4	arms:Shourou 【上手】D	arms,body,head,legs,waist
 5	Mitama D	姆伊特阿	專名短音譯	搜:MHF Mitama D 防具→無義譯慣用；短音譯≤4	arms:Mitama 【上手】D	arms,body,head,legs,waist
@@ -1838,7 +1838,7 @@ count	stem	zh	reason	source	example_source	slots
 5	Sky D	斯	專名短音譯	搜:MHF Sky D 防具→無義譯慣用；短音譯≤4	arms:Blue Sky Sleeve D	arms,body,head,legs,waist
 5	Noon Glow D	恩歐恩歐	專名短音譯	搜:MHF Noon Glow D 防具→無義譯慣用；短音譯≤4	arms:Noon Glow Sleeve D	arms,body,head,legs,waist
 5	Kosho D	克歐夏歐	專名短音譯	搜:MHF Kosho D 防具→無義譯慣用；短音譯≤4	arms:Kosho D [Sleeve 】	arms,body,head,legs,waist
-5	True Shadow D	特烏斯阿	專名短音譯	搜:MHF True Shadow D 防具→無義譯慣用；短音譯≤4	arms:True Shadow Sleeve D	arms,body,head,legs,waist
+5	True Shadow D	真影	字義	semantic:True Shadow	arms:True Shadow Sleeve D	arms,body,head,legs,waist
 5	Furogada D	芙烏爾歐	專名短音譯	搜:MHF Furogada D 防具→無義譯慣用；短音譯≤4	arms:Furogada D Arms	arms,body,head,legs,waist
 5	Lars D	爾阿爾	專名短音譯	搜:MHF Lars D 防具→無義譯慣用；短音譯≤4	arms:Lars D Arms	arms,body,head,legs,waist
 5	Donru D	德歐恩烏	專名短音譯	搜:MHF Donru D 防具→無義譯慣用；短音譯≤4	arms:Donru D Arms	arms,body,head,legs,waist
@@ -1934,7 +1934,7 @@ count	stem	zh	reason	source	example_source	slots
 5	Byakko 斬将D	斬将	日文原語	source-jp	arms:Byakko・斬将D Arms	arms,body,head,legs,waist
 5	Byakko 銃傑D	銃傑	日文原語	source-jp	arms:Byakko・銃傑D Guard	arms,body,head,legs,waist
 5	Byakko 銃仙D	銃仙	日文原語	source-jp	arms:Byakko・銃仙D Guard	arms,body,head,legs,waist
-5	Byakko Bow 鬼D	鬼	日文原語	source-jp	arms:Byakko・Bow 鬼D Guard	arms,body,head,legs,waist
+5	Byakko Bow 鬼D	白虎	神話	semantic:Byakko	arms:Byakko・Bow 鬼D Guard	arms,body,head,legs,waist
 5	Harze D	赫阿爾艾	專名短音譯	搜:MHF Harze D 防具→無義譯慣用；短音譯≤4	arms:Harze D Arms	arms,body,head,legs,waist
 5	Revenants D	爾艾芙艾	專名短音譯	搜:MHF Revenants D 防具→無義譯慣用；短音譯≤4	arms:Revenants D Grip	arms,body,head,legs,waist
 5	Suzaku Kensei D	斯烏茲阿	專名短音譯	搜:MHF Suzaku Kensei D 防具→無義譯慣用；短音譯≤4	arms:Suzaku・Kensei D Arms	arms,body,head,legs,waist
@@ -1949,7 +1949,7 @@ count	stem	zh	reason	source	example_source	slots
 5	Suzaku 斬将D	斬将	日文原語	source-jp	arms:Suzaku・斬将D Arms	arms,body,head,legs,waist
 5	Suzaku 銃傑D	銃傑	日文原語	source-jp	arms:Suzaku・銃傑D Guard	arms,body,head,legs,waist
 5	Suzaku 銃仙D	銃仙	日文原語	source-jp	arms:Suzaku・銃仙D Guard	arms,body,head,legs,waist
-5	Suzaku Bow 鬼D	鬼	日文原語	source-jp	arms:Suzaku・Bow 鬼D Guard	arms,body,head,legs,waist
+5	Suzaku Bow 鬼D	朱雀	神話	semantic:Suzaku	arms:Suzaku・Bow 鬼D Guard	arms,body,head,legs,waist
 5	Sharuru D	夏阿爾烏	專名短音譯	搜:MHF Sharuru D 防具→無義譯慣用；短音譯≤4	arms:Sharuru D Arms	arms,body,head,legs,waist
 5	Neriotori D	恩艾爾伊	專名短音譯	搜:MHF Neriotori D 防具→無義譯慣用；短音譯≤4	arms:Neriotori Kote D	arms,body,head,legs,waist
 5	Dylan D	德阿恩	專名短音譯	搜:MHF Dylan D 防具→無義譯慣用；短音譯≤4	arms:Dylan D Arms	arms,body,head,legs,waist
@@ -2030,7 +2030,7 @@ count	stem	zh	reason	source	example_source	slots
 5	Genbu 斬将D	斬将	日文原語	source-jp	arms:Genbu・斬将D Arms	arms,body,head,legs,waist
 5	Genbu 銃傑D	銃傑	日文原語	source-jp	arms:Genbu・銃傑D Guard	arms,body,head,legs,waist
 5	Genbu 銃仙D	銃仙	日文原語	source-jp	arms:Genbu・銃仙D Guard	arms,body,head,legs,waist
-5	Genbu Bow 鬼D	鬼	日文原語	source-jp	arms:Genbu・Bow 鬼D Guard	arms,body,head,legs,waist
+5	Genbu Bow 鬼D	玄武	神話	semantic:Genbu	arms:Genbu・Bow 鬼D Guard	arms,body,head,legs,waist
 5	Tanzanite D	特阿恩阿	專名短音譯	搜:MHF Tanzanite D 防具→無義譯慣用；短音譯≤4	arms:Tanzanite D Arms	arms,body,head,legs,waist
 5	Hematite D	赫艾姆阿	專名短音譯	搜:MHF Hematite D 防具→無義譯慣用；短音譯≤4	arms:Hematite D Arms	arms,body,head,legs,waist
 5	Byakko 磁星D	磁星	日文原語	source-jp	arms:Byakko・磁星D Arms	arms,body,head,legs,waist
@@ -2100,7 +2100,7 @@ count	stem	zh	reason	source	example_source	slots
 5	Bita D	布伊特阿	專名短音譯	搜:MHF Bita D 防具→無義譯慣用；短音譯≤4	arms:Bita D Arms	arms,body,head,legs,waist
 5	Koreputo D	克歐爾艾	專名短音譯	搜:MHF Koreputo D 防具→無義譯慣用；短音譯≤4	arms:Koreputo D Arms	arms,body,head,legs,waist
 5	Rockman D	爾歐克阿	專名短音譯	搜:MHF Rockman D 防具→無義譯慣用；短音譯≤4	arms:Rockman D Guard	arms,body,head,legs,waist
-5	Issen D	伊斯艾恩	專名短音譯	搜:MHF Issen D 防具→無義譯慣用；短音譯≤4	arms:Issen D【 Kote 】・Red	arms,body,head,legs,waist
+5	Issen D	一閃	遊戲專名／定譯	armor_quality_series；Issen=一閃	arms:Issen D【 Kote 】・Red	arms,body,head,legs,waist
 5	蜂針D	蜂針	日文原語	source-jp	arms:蜂針D【 Kote 】・Orange	arms,body,head,legs,waist
 5	Kinkou D	克伊恩歐	專名短音譯	搜:MHF Kinkou D 防具→無義譯慣用；短音譯≤4	arms:Kinkou D Arms	arms,body,head,legs,waist
 5	Anbu D	阿恩烏斯	專名短音譯	搜:MHF Anbu D 防具→無義譯慣用；短音譯≤4	arms:Anbu D Arms	arms,body,head,legs,waist
@@ -2131,7 +2131,7 @@ count	stem	zh	reason	source	example_source	slots
 5	Seiryu 斬将D	斬将	日文原語	source-jp	arms:Seiryu・斬将D Arms	arms,body,head,legs,waist
 5	Seiryu 銃傑D	銃傑	日文原語	source-jp	arms:Seiryu・銃傑D Guard	arms,body,head,legs,waist
 5	Seiryu 銃仙D	銃仙	日文原語	source-jp	arms:Seiryu・銃仙D Guard	arms,body,head,legs,waist
-5	Seiryu Bow 鬼D	鬼	日文原語	source-jp	arms:Seiryu・Bow 鬼D Guard	arms,body,head,legs,waist
+5	Seiryu Bow 鬼D	青龍	神話	semantic:Seiryu	arms:Seiryu・Bow 鬼D Guard	arms,body,head,legs,waist
 5	Seiryu 磁星D	磁星	日文原語	source-jp	arms:Seiryu・磁星D Arms	arms,body,head,legs,waist
 5	Otono D	歐特歐恩	專名短音譯	搜:MHF Otono D 防具→無義譯慣用；短音譯≤4	arms:Otono D Arms	arms,body,head,legs,waist
 5	Shadow D	夏阿德歐	專名短音譯	搜:MHF Shadow D 防具→無義譯慣用；短音譯≤4	arms:Shadow Kote・D	arms,body,head,legs,waist
@@ -2169,21 +2169,21 @@ count	stem	zh	reason	source	example_source	slots
 4	ウナペルト	烏納佩爾特	專名短音譯	原文片假名:ウナペルト	arms:ウナペルト Arms	arms,body,legs,waist
 4	Claws	克阿沃	專名短音譯	搜:MHF Claws 防具→無義譯慣用；短音譯≤4	arms:G・Guard R Claws Green	arms
 4	Cuffs	克烏芙	專名短音譯	搜:MHF Cuffs 防具→無義譯慣用；短音譯≤4	arms:G・Guard R Cuffs Green	arms
-4	Kagura 覇	覇	日文原語	source-jp	arms:Kagura・覇【 Kote 】	arms,body,legs,waist
-4	Kamiza 覇	覇	日文原語	source-jp	arms:Kamiza・覇【 Kote 】	arms,body,legs,waist
+4	Kagura 覇	神樂	遊戲專名	armor_quality_series；覇=標誌	arms:Kagura・覇【 Kote 】	arms,body,legs,waist
+4	Kamiza 覇	神座	遊戲專名	armor_quality_series；覇=標誌	arms:Kamiza・覇【 Kote 】	arms,body,legs,waist
 4	忍の	忍の	日文原語	source-jp	arms:忍の Kote・R	arms,body,legs,waist
 4	百裂腕環	百裂腕環	日文原語	source-jp	arms:百裂腕環・Blue	arms
 4	百裂F腕環	百裂腕環	日文原語	source-jp	arms:百裂F腕環・Blue	arms
 4	気功腕環	気功腕環	日文原語	source-jp	arms:気功腕環・Blue	arms
 4	気功F腕環	気功腕環	日文原語	source-jp	arms:気功F腕環・Blue	arms
-4	Sky 魁	魁	日文原語	source-jp	arms:Blue Sky Sleeve・魁	arms,body,head,waist
+4	Sky 魁		待查	QA清除：標誌字洗白	arms:Blue Sky Sleeve・魁	arms,body,head,waist
 4	千裂腕環	千裂腕環	日文原語	source-jp	arms:千裂腕環・Black	arms
 4	千裂F腕環	千裂腕環	日文原語	source-jp	arms:千裂F腕環・Black	arms
 4	覇山腕環	覇山腕環	日文原語	source-jp	arms:覇山腕環・Black	arms
 4	覇山F腕環	覇山腕環	日文原語	source-jp	arms:覇山F腕環・Black	arms
 4	Rath Soul RX	爾阿斯歐	專名短音譯	搜:MHF Rath Soul RX 防具→無義譯慣用；短音譯≤4	arms:Rath Soul RX Arms	arms,body,legs,waist
-4	Rolling Sky 魁	魁	日文原語	source-jp	arms:Rolling Sky Kote・魁	arms,body,head,legs
-4	Rolling Earth 魁	魁	日文原語	source-jp	arms:Rolling Earth Kote・魁	arms,body,head,legs
+4	Rolling Sky 魁		待查	QA清除：標誌字洗白	arms:Rolling Sky Kote・魁	arms,body,head,legs
+4	Rolling Earth 魁		待查	QA清除：標誌字洗白	arms:Rolling Earth Kote・魁	arms,body,head,legs
 4	Rolling Flow Elegant	爾歐爾伊	專名短音譯	搜:MHF Rolling Flow Elegant 防具→無義譯慣用；短音譯≤4	arms:Rolling Flow Kote・Elegant	arms,body,head,legs
 4	Rolling Sky Elegant	爾歐爾伊	專名短音譯	搜:MHF Rolling Sky Elegant 防具→無義譯慣用；短音譯≤4	arms:Rolling Sky Kote・Elegant	arms,body,head,legs
 4	Rolling Earth Elegant	爾歐爾伊	專名短音譯	搜:MHF Rolling Earth Elegant 防具→無義譯慣用；短音譯≤4	arms:Rolling Earth Kote・Elegant	arms,body,head,legs
@@ -2237,7 +2237,7 @@ count	stem	zh	reason	source	example_source	slots
 4	Ukon D	烏克歐恩	專名短音譯	搜:MHF Ukon D 防具→無義譯慣用；短音譯≤4	arms:Ukon D Punch	arms,body,head,waist
 4	Survey Corps D	斯烏爾艾	專名短音譯	搜:MHF Survey Corps D 防具→無義譯慣用；短音譯≤4	arms:Survey Corps D Arms	arms,body,head,legs
 4	Training Corps D	特阿恩伊	專名短音譯	搜:MHF Training Corps D 防具→無義譯慣用；短音譯≤4	arms:Training Corps D Arms	arms,body,head,legs
-4	Dragon Slayer Armor D	龍	詞庫	terms:dragon	arms:Dragon Slayer Armor D・Kote	arms,head,legs,waist
+4	Dragon Slayer Armor D	屠龍	字義	semantic:Dragon Slayer Armor	arms:Dragon Slayer Armor D・Kote	arms,head,legs,waist
 4	Rebellion Armour D	爾艾布艾	專名短音譯	搜:MHF Rebellion Armour D 防具→無義譯慣用；短音譯≤4	arms:Rebellion Armour D・Kote	arms,body,legs,waist
 4	忍の 陽D	忍の陽	日文原語	source-jp	arms:忍の Kote・陽D	arms,body,legs,waist
 4	忍の 陰D	忍の陰	日文原語	source-jp	arms:忍の Kote・陰D	arms,body,legs,waist
@@ -2250,14 +2250,14 @@ count	stem	zh	reason	source	example_source	slots
 4	気功F	気功	日文原語	source-jp	waist:気功F Waistband・Blue	waist
 4	竜巻 Colour	竜巻	日文原語	source-jp	waist:竜巻 Colour Belt・Black	waist
 4	竜巻F Colour	竜巻	日文原語	source-jp	waist:竜巻F Colour Belt・Black	waist
-4	True 空 Colour	空	日文原語	source-jp	waist:True 空 Colour Belt・Black	waist
-4	True 空F Colour	空	日文原語	source-jp	waist:True 空F Colour Belt・Black	waist
+4	True 空 Colour	真空	字義／日文	semantic:True＋空	waist:True 空 Colour Belt・Black	waist
+4	True 空F Colour	真空	字義／日文	semantic:True＋空	waist:True 空F Colour Belt・Black	waist
 4	千裂	千裂	日文原語	source-jp	waist:千裂 Waistband・Black	waist
 4	千裂F	千裂	日文原語	source-jp	waist:千裂F Waistband・Black	waist
 4	覇山	覇山	日文原語	source-jp	waist:覇山 Waistband・Black	waist
 4	覇山F	覇山	日文原語	source-jp	waist:覇山F Waistband・Black	waist
-4	Rolling Sky の	の	日文原語	source-jp	waist:Rolling Sky の腰当て	waist
-4	Rolling Earth の	の	日文原語	source-jp	waist:Rolling Earth の腰当て	waist
+4	Rolling Sky の	滾天	字義	semantic:Rolling Sky	waist:Rolling Sky の腰当て	waist
+4	Rolling Earth の	滾地	字義	semantic:Rolling Earth	waist:Rolling Earth の腰当て	waist
 4	百裂FZ	百裂	日文原語	source-jp	waist:百裂FZ Waistband・Blue	waist
 4	百裂HS	百裂	日文原語	source-jp	waist:百裂HS Waistband・Blue	waist
 4	百裂GS	百裂	日文原語	source-jp	waist:百裂GS Waistband・Blue	waist
@@ -2270,10 +2270,10 @@ count	stem	zh	reason	source	example_source	slots
 4	竜巻HS Colour	竜巻	日文原語	source-jp	waist:竜巻HS Colour Belt・Black	waist
 4	竜巻GS Colour	竜巻	日文原語	source-jp	waist:竜巻GS Colour Belt・Black	waist
 4	竜巻GP Colour	竜巻	日文原語	source-jp	waist:竜巻GP Colour Belt・Black	waist
-4	True 空FZ Colour	空	日文原語	source-jp	waist:True 空FZ Colour Belt・Black	waist
-4	True 空HS Colour	空	日文原語	source-jp	waist:True 空HS Colour Belt・Black	waist
-4	True 空GS Colour	空	日文原語	source-jp	waist:True 空GS Colour Belt・Black	waist
-4	True 空GP Colour	空	日文原語	source-jp	waist:True 空GP Colour Belt・Black	waist
+4	True 空FZ Colour	真空	字義／日文	semantic:True＋空	waist:True 空FZ Colour Belt・Black	waist
+4	True 空HS Colour	真空	字義／日文	semantic:True＋空	waist:True 空HS Colour Belt・Black	waist
+4	True 空GS Colour	真空	字義／日文	semantic:True＋空	waist:True 空GS Colour Belt・Black	waist
+4	True 空GP Colour	真空	字義／日文	semantic:True＋空	waist:True 空GP Colour Belt・Black	waist
 4	千裂FZ	千裂	日文原語	source-jp	waist:千裂FZ Waistband・Black	waist
 4	千裂HS	千裂	日文原語	source-jp	waist:千裂HS Waistband・Black	waist
 4	千裂GS	千裂	日文原語	source-jp	waist:千裂GS Waistband・Black	waist
@@ -2286,13 +2286,13 @@ count	stem	zh	reason	source	example_source	slots
 4	Utaei Colour	烏特阿斯	專名短音譯	搜:MHF Utaei Colour 防具→無義譯慣用；短音譯≤4	waist:Utaei Colour Belt Z	waist
 4	Utatsumugu Colour	烏特阿特	專名短音譯	搜:MHF Utatsumugu Colour 防具→無義譯慣用；短音譯≤4	waist:Utatsumugu Colour Belt Z	waist
 4	Arbiter D	阿爾伊特	專名短音譯	搜:MHF Arbiter D 防具→無義譯慣用；短音譯≤4	waist:Arbiter D Tasset	body,head,legs,waist
-4	Golden 魁	魁	日文原語	source-jp	legs:Golden Hakama・魁	body,legs
-4	Star Festival の Summer	の	日文原語	source-jp	legs:Star Festival の Tabi・Summer 【 Red 】	legs
-4	Tanabata の Summer	の	日文原語	source-jp	legs:Tanabata の Tabi・Summer 【 Red 】	legs
+4	Golden 魁		待查	QA清除：標誌字洗白	legs:Golden Hakama・魁	body,legs
+4	Star Festival の Summer	星祭	字義	semantic:Star Festival	legs:Star Festival の Tabi・Summer 【 Red 】	legs
+4	Tanabata の Summer	七夕	字義／神話	semantic:Tanabata	legs:Tanabata の Tabi・Summer 【 Red 】	legs
 4	Star Festival の 織	の織	日文原語	source-jp	legs:Star Festival の Tabi・織【 Red 】	legs
 4	Tanabata の 織	の織	日文原語	source-jp	legs:Tanabata の Tabi・織【 Red 】	legs
-4	Star Festival の Heaven	の	日文原語	source-jp	legs:Star Festival の Tabi・Heaven 【 Red 】	legs
-4	Tanabata の Heaven	の	日文原語	source-jp	legs:Tanabata の Tabi・Heaven 【 Red 】	legs
+4	Star Festival の Heaven	星祭	字義	semantic:Star Festival	legs:Star Festival の Tabi・Heaven 【 Red 】	legs
+4	Tanabata の Heaven	七夕	字義／神話	semantic:Tanabata	legs:Tanabata の Tabi・Heaven 【 Red 】	legs
 4	Lien Boot	爾伊恩歐	專名短音譯	搜:MHF Lien Boot 防具→無義譯慣用；短音譯≤4	legs:Lien Boot・Blue	legs
 4	百裂脚着	百裂脚着	日文原語	source-jp	legs:百裂脚着・Blue	legs
 4	百裂F脚着	百裂脚着	日文原語	source-jp	legs:百裂F脚着・Blue	legs
@@ -2392,8 +2392,8 @@ count	stem	zh	reason	source	example_source	slots
 4	Ina	伊恩阿	專名短音譯	搜:MHF Ina 防具→無義譯慣用；短音譯≤4	head:Ina Beretta	head
 4	Yukumo Heaven	結雲天	定譯拼裝	quality+word	head:Yukumo Kasa・Heaven	head
 4	Yukumo Earth	結雲地	定譯拼裝	quality+word	head:Yukumo Kasa・Earth	head
-4	Knight King Hair BM D	克伊格伊	專名短音譯	搜:MHF Knight King Hair BM D 防具→無義譯慣用；短音譯≤4	head:Knight King Hair BM D Blue	head
-4	Hero King Earring BM D	赫艾爾歐	專名短音譯	搜:MHF Hero King Earring BM D 防具→無義譯慣用；短音譯≤4	head:Hero King Earring BM D Gold	head
+4	Knight King Hair BM D	騎士王	合作／聯名	web:Fate 騎士王	head:Knight King Hair BM D Blue	head
+4	Hero King Earring BM D	英雄王	合作／聯名	web:Fate 英雄王	head:Hero King Earring BM D Gold	head
 4	Espi D	艾斯伊斯	專名短音譯	搜:MHF Espi D 防具→無義譯慣用；短音譯≤4	head:Espi D Mask・Green	head
 4	Goruganosu	黄金魚龍	魔物／詞庫	terms.csv	head:Goruganosu Head Z	head
 4	Aruganosu	白銀魚龍	魔物／詞庫	terms.csv	head:Aruganosu Head Z	head
@@ -2405,8 +2405,8 @@ count	stem	zh	reason	source	example_source	slots
 4	Randa の胴当	の胴当	日文原語	source-jp	body:Randa の胴当・Yellow	body
 4	竜巻胴着	竜巻胴着	日文原語	source-jp	body:竜巻胴着・Black	body
 4	竜巻F胴着	竜巻胴着	日文原語	source-jp	body:竜巻F胴着・Black	body
-4	True 空胴着	空胴着	日文原語	source-jp	body:True 空胴着・Black	body
-4	True 空F胴着	空胴着	日文原語	source-jp	body:True 空F胴着・Black	body
+4	True 空胴着	真空胴着	字義／日文	semantic:True＋空胴着	body:True 空胴着・Black	body
+4	True 空F胴着	真空胴着	字義／日文	semantic:True＋空胴着	body:True 空F胴着・Black	body
 4	千裂胴着	千裂胴着	日文原語	source-jp	body:千裂胴着・Black	body
 4	千裂F胴着	千裂胴着	日文原語	source-jp	body:千裂F胴着・Black	body
 4	覇山胴着	覇山胴着	日文原語	source-jp	body:覇山胴着・Black	body
@@ -2433,7 +2433,7 @@ count	stem	zh	reason	source	example_source	slots
 4	竜巻HS胴着	竜巻胴着	日文原語	source-jp	body:竜巻HS胴着・Black	body
 4	竜巻GS胴着	竜巻胴着	日文原語	source-jp	body:竜巻GS胴着・Black	body
 4	竜巻GP胴着	竜巻胴着	日文原語	source-jp	body:竜巻GP胴着・Black	body
-4	True 空FZ胴着	空胴着	日文原語	source-jp	body:True 空FZ胴着・Black	body
+4	True 空FZ胴着	真空胴着	字義／日文	semantic:True＋空胴着	body:True 空FZ胴着・Black	body
 4	True 空HS胴着	空胴着	日文原語	source-jp	body:True 空HS胴着・Black	body
 4	True 空GS胴着	空胴着	日文原語	source-jp	body:True 空GS胴着・Black	body
 4	True 空GP胴着	空胴着	日文原語	source-jp	body:True 空GP胴着・Black	body
@@ -2520,7 +2520,7 @@ count	stem	zh	reason	source	example_source	slots
 3	昇龍F脚着	昇龍脚着	日文原語	source-jp	legs:昇龍F脚着・White	legs
 3	波動脚着	波動脚着	日文原語	source-jp	legs:波動脚着・White	legs
 3	波動F脚着	波動脚着	日文原語	source-jp	legs:波動F脚着・White	legs
-3	Rolling Flow 魁	魁	日文原語	source-jp	legs:Rolling Flow Greaves・魁	body,head,legs
+3	Rolling Flow 魁		待查	QA清除：標誌字洗白	legs:Rolling Flow Greaves・魁	body,head,legs
 3	昇龍FZ脚着	昇龍脚着	日文原語	source-jp	legs:昇龍FZ脚着・White	legs
 3	昇龍HS脚着	昇龍脚着	日文原語	source-jp	legs:昇龍HS脚着・White	legs
 3	昇龍GS脚着	昇龍脚着	日文原語	source-jp	legs:昇龍GS脚着・White	legs
@@ -2537,7 +2537,7 @@ count	stem	zh	reason	source	example_source	slots
 3	Lazurite	爾阿茲烏	專名短音譯	搜:MHF Lazurite 防具→無義譯慣用；短音譯≤4	head:Lazurite Helm	head
 3	Warrior	沃阿爾伊	專名短音譯	搜:MHF Warrior 防具→無義譯慣用；短音譯≤4	head:Warrior Kabuto	head
 3	Sunlight	斯烏恩伊	專名短音譯	搜:MHF Sunlight 防具→無義譯慣用；短音譯≤4	head:Sunlight Kabuto	head
-3	Puppeteer 隠	隠	日文原語	source-jp	head:Puppeteer Mask 隠・G	head
+3	Puppeteer 隠	操偶	字義	semantic:Puppeteer	head:Puppeteer Mask 隠・G	head
 3	Luchar	爾烏奇阿	專名短音譯	搜:MHF Luchar 防具→無義譯慣用；短音譯≤4	head:Luchar G Piercing	head
 3	Solv Rule	斯歐爾烏	專名短音譯	搜:MHF Solv Rule 防具→無義譯慣用；短音譯≤4	head:Solv Rule G Kabuto	head
 3	Solv Lord	斯歐爾歐	專名短音譯	搜:MHF Solv Lord 防具→無義譯慣用；短音譯≤4	head:Solv Lord G Kabuto	head
@@ -2558,12 +2558,12 @@ count	stem	zh	reason	source	example_source	slots
 3	波動HS胴着	波動胴着	日文原語	source-jp	body:波動HS胴着・White	body
 3	波動GS胴着	波動胴着	日文原語	source-jp	body:波動GS胴着・White	body
 3	波動GP胴着	波動胴着	日文原語	source-jp	body:波動GP胴着・White	body
-2	Shikari 魁	魁	日文原語	source-jp	arms:Shikari Kote・魁	arms,legs
-2	Demon Lord 魁	魁	日文原語	source-jp	arms:Demon Lord Kote・魁	arms,head
+2	Shikari 魁		待查	QA清除：標誌字洗白	arms:Shikari Kote・魁	arms,legs
+2	Demon Lord 魁		待查	QA清除：標誌字洗白	arms:Demon Lord Kote・魁	arms,head
 2	Rolling Flow の 魁	の魁	日文原語	source-jp	arms:Rolling Flow の Kote・魁	arms,waist
-2	Demon Lord Extreme	德艾姆歐	專名短音譯	搜:MHF Demon Lord Extreme 防具→無義譯慣用；短音譯≤4	arms:Demon Lord Kote・Extreme	arms,head
-2	Demon Lord Heaven	德艾姆歐	專名短音譯	搜:MHF Demon Lord Heaven 防具→無義譯慣用；短音譯≤4	arms:Demon Lord Kote・Heaven	arms,head
-2	Demon Lord D	德艾姆歐	專名短音譯	搜:MHF Demon Lord D 防具→無義譯慣用；短音譯≤4	arms:Demon Lord Kote D	arms,head
+2	Demon Lord Extreme	魔王	字義	semantic:Demon Lord	arms:Demon Lord Kote・Extreme	arms,head
+2	Demon Lord Heaven	魔王	字義	semantic:Demon Lord	arms:Demon Lord Kote・Heaven	arms,head
+2	Demon Lord D	魔王	字義	semantic:Demon Lord	arms:Demon Lord Kote D	arms,head
 2	Demonclad D	德艾姆歐	專名短音譯	搜:MHF Demonclad D 防具→無義譯慣用；短音譯≤4	arms:Demonclad Kote D	arms,head
 2	Veloci D	藍速龍	詞庫	terms:veloci	arms:Veloci Hands D	arms,head
 2	Gen D	格艾恩	專名短音譯	搜:MHF Gen D 防具→無義譯慣用；短音譯≤4	arms:Gen Hands D	arms,head
@@ -2586,8 +2586,8 @@ count	stem	zh	reason	source	example_source	slots
 2	Ace Golden	王牌金	字義拼裝	semantic	head:Ace Golden Hair Tie	head
 2	Ace Puppetmstr	阿克艾斯	專名短音譯	搜:MHF Ace Puppetmstr 防具→無義譯慣用；短音譯≤4	head:Ace Puppetmstr Mask	head
 2	Kelbi	精靈鹿	魔物／詞庫	terms.csv	head:Kelbi Mask	head
-2	Hot	赫歐特	專名短音譯	搜:MHF Hot 防具→無義譯慣用；短音譯≤4	head:Hot White Masque	head
-2	Cool	克歐爾	專名短音譯	搜:MHF Cool 防具→無義譯慣用；短音譯≤4	head:Cool White Masque	head
+2	Hot	熱	字義	semantic:hot	head:Hot White Masque	head
+2	Cool	涼	字義	semantic:cool	head:Cool White Masque	head
 2	Vashimu Yell	尾晶蠍	詞庫	terms:vashimu	head:Vashimu U Helm Yell	head
 2	Lovers	爾歐芙艾	專名短音譯	搜:MHF Lovers 防具→無義譯慣用；短音譯≤4	head:Lovers Piercing	head
 2	Kirin Verde	麒麟緑	定譯拼裝	quality+word	head:Kirin Verde	head
@@ -2622,7 +2622,7 @@ count	stem	zh	reason	source	example_source	slots
 2	Odi	弩岩龍	魔物／詞庫	terms.csv	head:Odi Corsage	head
 2	－－－－	－－－－	遊戲專名／定譯	armor_quality_series	head:－－－－	head
 2	Fireworks	芙伊爾艾	專名短音譯	搜:MHF Fireworks 防具→無義譯慣用；短音譯≤4	head:Fireworks GS Hachigane	head
-2	Shooting Star	夏歐特伊	專名短音譯	搜:MHF Shooting Star 防具→無義譯慣用；短音譯≤4	head:Shooting Star GS Hachigane	head
+2	Shooting Star	流星	字義	semantic:Shooting Star	head:Shooting Star GS Hachigane	head
 2	猟団員の証G	猟団員の証	日文原語	source-jp	head:猟団員の証G【剛閃】	head
 2	猟団員の証GF	猟団員の証	日文原語	source-jp	head:猟団員の証GF【剛閃】	head
 2	猟団員の証GX	猟団員の証	日文原語	source-jp	head:猟団員の証GX【剛閃】	head
@@ -2701,7 +2701,7 @@ count	stem	zh	reason	source	example_source	slots
 1	Iron	鐵	魔物／詞庫	terms.csv	waist:Iron Belt	waist
 1	Hide	赫伊德艾	專名短音譯	搜:MHF Hide 防具→無義譯慣用；短音譯≤4	waist:Hide Belt	waist
 1	マスター	大師	字義	semantic:master／マスター	waist:マスター Belt	waist
-1	Shikari の	の	日文原語	source-jp	waist:Shikari の腰当て	waist
+1	Shikari の	獵人	字義	semantic:Shikari≈hunter	waist:Shikari の腰当て	waist
 1	Shikari の 魁	の魁	日文原語	source-jp	waist:Shikari の腰当て・魁	waist
 1	Hypnoc Mask	眠鳥	詞庫	terms:hypnoc	waist:Hypnoc S Mask	waist
 1	True Hypnoc Mask	特烏斯歐	專名短音譯	搜:MHF True Hypnoc Mask 防具→無義譯慣用；短音譯≤4	waist:True・Hypnoc S Mask	waist
@@ -2740,15 +2740,15 @@ count	stem	zh	reason	source	example_source	slots
 1	龍星F	龍星	日文原語	source-jp	waist:龍星F Waistband	waist
 1	虎襲	虎襲	日文原語	source-jp	waist:虎襲 Waistband	waist
 1	虎襲F	虎襲	日文原語	source-jp	waist:虎襲F Waistband	waist
-1	Heaven 空	空	日文原語	source-jp	waist:Heaven 空 Waistband	waist
-1	Heaven 空F	空	日文原語	source-jp	waist:Heaven 空F Waistband	waist
+1	Heaven 空	天穹	字義	semantic:Heaven＋空	waist:Heaven 空 Waistband	waist
+1	Heaven 空F	天穹	字義	semantic:Heaven＋空	waist:Heaven 空F Waistband	waist
 1	Heaven 昇	昇	日文原語	source-jp	waist:Heaven 昇 Waistband	waist
 1	Heaven 昇F	昇	日文原語	source-jp	waist:Heaven 昇F Waistband	waist
 1	Rolling Sky の 魁	の魁	日文原語	source-jp	waist:Rolling Sky の腰当て・魁	waist
 1	Rolling Earth の 魁	の魁	日文原語	source-jp	waist:Rolling Earth の腰当て・魁	waist
-1	Rolling Flow の Elegant	の	日文原語	source-jp	waist:Rolling Flow の腰当て・Elegant	waist
-1	Rolling Sky の Elegant	の	日文原語	source-jp	waist:Rolling Sky の腰当て・Elegant	waist
-1	Rolling Earth の Elegant	の	日文原語	source-jp	waist:Rolling Earth の腰当て・Elegant	waist
+1	Rolling Flow の Elegant	滾流	字義	semantic:Rolling Flow	waist:Rolling Flow の腰当て・Elegant	waist
+1	Rolling Sky の Elegant	滾天	字義	semantic:Rolling Sky	waist:Rolling Sky の腰当て・Elegant	waist
+1	Rolling Earth の Elegant	滾地	字義	semantic:Rolling Earth	waist:Rolling Earth の腰当て・Elegant	waist
 1	龍星FZ	龍星	日文原語	source-jp	waist:龍星FZ Waistband	waist
 1	龍星HC	龍星	日文原語	source-jp	waist:龍星HC Waistband	waist
 1	虎襲FZ	虎襲	日文原語	source-jp	waist:虎襲FZ Waistband	waist
@@ -2883,15 +2883,15 @@ count	stem	zh	reason	source	example_source	slots
 1	Skull	顱骨	遊戲專名／定譯	armor_quality_series	head:Skull Face	head
 1	Genesis Headpiece	格艾恩艾	專名短音譯	搜:MHF Genesis Headpiece 防具→無義譯慣用；短音譯≤4	head:Genesis Headpiece	head
 1	Borealis	布歐爾艾	專名短音譯	搜:MHF Borealis 防具→無義譯慣用；短音譯≤4	head:Borealis Crown	head
-1	Glyph	格	專名短音譯	搜:MHF Glyph 防具→無義譯慣用；短音譯≤4	head:Glyph Crown	head
-1	Shinobi Sky	夏伊恩歐	專名短音譯	搜:MHF Shinobi Sky 防具→無義譯慣用；短音譯≤4	head:Shinobi Mask・Sky	head
-1	Shinobi Sea	夏伊恩歐	專名短音譯	搜:MHF Shinobi Sea 防具→無義譯慣用；短音譯≤4	head:Shinobi Mask・Sea	head
+1	Glyph	符文	字義	semantic:Glyph	head:Glyph Crown	head
+1	Shinobi Sky	忍	字義	semantic:Shinobi；Sky=天另置	head:Shinobi Mask・Sky	head
+1	Shinobi Sea	忍	字義	semantic:Shinobi；Sea=海另置	head:Shinobi Mask・Sea	head
 1	Emperor Auroros	艾姆艾爾	專名短音譯	搜:MHF Emperor Auroros 防具→無義譯慣用；短音譯≤4	head:Emperor Auroros Helm	head
 1	Emperor Genesis	帝王創世	定譯拼裝	quality+word	head:Emperor Genesis Helm	head
 1	Emprr Borealis	艾姆歐爾	專名短音譯	搜:MHF Emprr Borealis 防具→無義譯慣用；短音譯≤4	head:Emprr Borealis Crown	head
 1	Emperor Glyph	艾姆艾爾	專名短音譯	搜:MHF Emperor Glyph 防具→無義譯慣用；短音譯≤4	head:Emperor Glyph Crown	head
-1	Shinobi Heaven	夏伊恩歐	專名短音譯	搜:MHF Shinobi Heaven 防具→無義譯慣用；短音譯≤4	head:Shinobi Mask・Heaven	head
-1	Shinobi Earth	夏伊恩歐	專名短音譯	搜:MHF Shinobi Earth 防具→無義譯慣用；短音譯≤4	head:Shinobi Mask・Earth	head
+1	Shinobi Heaven	忍	字義	semantic:Shinobi	head:Shinobi Mask・Heaven	head
+1	Shinobi Earth	忍	字義	semantic:Shinobi	head:Shinobi Mask・Earth	head
 1	Titan Auroros	特伊特阿	專名短音譯	搜:MHF Titan Auroros 防具→無義譯慣用；短音譯≤4	head:Titan Auroros Helm	head
 1	Titan Genesis	泰坦創世	遊戲專名／定譯	armor_quality_series	head:Titan Genesis Hdpce	head
 1	Titan Borealis	特伊特阿	專名短音譯	搜:MHF Titan Borealis 防具→無義譯慣用；短音譯≤4	head:Titan Borealis Crown	head
@@ -2933,8 +2933,8 @@ count	stem	zh	reason	source	example_source	slots
 1	Cool Bk Stellar	克歐爾艾	專名短音譯	搜:MHF Cool Bk Stellar 防具→無義譯慣用；短音譯≤4	head:Cool Bk Stellar Mask	head
 1	Cool Wt Stellar	克歐爾艾	專名短音譯	搜:MHF Cool Wt Stellar 防具→無義譯慣用；短音譯≤4	head:Cool Wt Stellar Mask	head
 1	Sky Stellar	斯艾爾阿	專名短音譯	搜:MHF Sky Stellar 防具→無義譯慣用；短音譯≤4	head:Sky Red Stellar Mask	head
-1	Sky Blu Stellar	斯烏斯艾	專名短音譯	搜:MHF Sky Blu Stellar 防具→無義譯慣用；短音譯≤4	head:Sky Blu Stellar Mask	head
-1	Sky Blk Stellar	斯艾爾阿	專名短音譯	搜:MHF Sky Blk Stellar 防具→無義譯慣用；短音譯≤4	head:Sky Blk Stellar Mask	head
+1	Sky Blu Stellar	天藍星	字義	semantic:Sky Blu Stellar	head:Sky Blu Stellar Mask	head
+1	Sky Blk Stellar	天黑星	字義	semantic:Sky Blk Stellar	head:Sky Blk Stellar Mask	head
 1	Sky Wht Stellar	斯艾爾阿	專名短音譯	搜:MHF Sky Wht Stellar 防具→無義譯慣用；短音譯≤4	head:Sky Wht Stellar Mask	head
 1	Hi-Metal Blk	赫伊斯艾	專名短音譯	搜:MHF Hi-Metal Blk 防具→無義譯慣用；短音譯≤4	head:Hi-Metal Helm SP Blk	head
 1	Hi-Metal Blu	赫伊斯艾	專名短音譯	搜:MHF Hi-Metal Blu 防具→無義譯慣用；短音譯≤4	head:Hi-Metal Helm SP Blu	head
@@ -3005,7 +3005,7 @@ count	stem	zh	reason	source	example_source	slots
 1	失落猛眼GS	失落猛眼	日文原語	source-jp	head:失落猛眼GS	head
 1	失落猛眼GP	失落猛眼	日文原語	source-jp	head:失落猛眼GP	head
 1	失落猛眼ZP	失落猛眼	日文原語	source-jp	head:失落猛眼ZP	head
-1	Shinobi	夏伊恩歐	專名短音譯	搜:MHF Shinobi 防具→無義譯慣用；短音譯≤4	head:Shinobi Mask・R	head
+1	Shinobi	忍	字義／遊戲專名	semantic:Shinobi＝忍；大典／MH 慣用	head:Shinobi Mask・R	head
 1	Moose	姆歐斯艾	專名短音譯	搜:MHF Moose 防具→無義譯慣用；短音譯≤4	head:Moose Head	head
 1	Transcendent VI	辿異種	詞庫	terms:transcendent	head:Transcendent Piercing VI	head
 1	Transcendent VII	辿異種	詞庫	terms:transcendent	head:Transcendent Piercing VII	head
@@ -3104,7 +3104,7 @@ count	stem	zh	reason	source	example_source	slots
 1	Iolite D	伊爾伊特	專名短音譯	搜:MHF Iolite D 防具→無義譯慣用；短音譯≤4	head:Iolite D Helm	head
 1	Shinobi 陽D	陽	日文原語	source-jp	head:Shinobi Mask・陽D	head
 1	Shinobi 陰D	陰	日文原語	source-jp	head:Shinobi Mask・陰D	head
-1	B.Espi D		待查		head:B.Espi D Festa	head
+1	B.Espi D	黑棘龍	魔物／詞庫	terms:Black Espinas	head:B.Espi D Festa	head
 1	W.Espi D	棘白龍	詞庫	terms:w.espi	head:W.Espi D Festa	head
 1	Kamu D	克阿姆烏	專名短音譯	搜:MHF Kamu D 防具→無義譯慣用；短音譯≤4	head:Kamu D Festa	head
 1	Nono D	恩歐恩歐	專名短音譯	搜:MHF Nono D 防具→無義譯慣用；短音譯≤4	head:Nono D Festa	head
@@ -3120,10 +3120,10 @@ count	stem	zh	reason	source	example_source	slots
 1	Pariapuria D	呑龍	詞庫	terms:pariapuria	head:Pariapuria D Festa	head
 1	Hypnoc D	眠鳥	詞庫	terms:hypnoc	head:Hypnoc D Festa	head
 1	山菜爺D	山菜爺	日文原語	source-jp	head:山菜爺D Festa	head
-1	Khezu 亜D	亜	日文原語	source-jp	head:Khezu 亜D Festa	head
+1	Khezu 亜D		待查	QA清除：標誌字洗白	head:Khezu 亜D Festa	head
 1	Shikari の髪当てD	の髪当て	日文原語	source-jp	head:Shikari の髪当てD	head
-1	Shinobi Sky D	夏伊恩歐	專名短音譯	搜:MHF Shinobi Sky D 防具→無義譯慣用；短音譯≤4	head:Shinobi Mask・Sky D	head
-1	Shinobi Sea D	夏伊恩歐	專名短音譯	搜:MHF Shinobi Sea D 防具→無義譯慣用；短音譯≤4	head:Shinobi Mask・Sea D	head
+1	Shinobi Sky D	忍	字義	semantic:Shinobi	head:Shinobi Mask・Sky D	head
+1	Shinobi Sea D	忍	字義	semantic:Shinobi	head:Shinobi Mask・Sea D	head
 1	Bogabado D	布歐格阿	專名短音譯	搜:MHF Bogabado D 防具→無義譯慣用；短音譯≤4	head:Bogabado D Festa	head
 1	Yamatsukami D	伊阿姆阿	專名短音譯	搜:MHF Yamatsukami D 防具→無義譯慣用；短音譯≤4	head:Yamatsukami D Festa	head
 1	Kut-Ku D	怪鳥	詞庫	terms:kut-ku	head:Kut-Ku D Festa	head
@@ -3240,7 +3240,7 @@ count	stem	zh	reason	source	example_source	slots
 1	噬天D光甲	噬天光甲	日文原語	source-jp	body:噬天D光甲	body
 1	小藍ＣＯＳ服裝	小藍ＣＯＳ服裝	日文原語	source-jp	body:小藍ＣＯＳ服裝	body
 1	Twelve Paladins' D Body	特艾爾艾	專名短音譯	搜:MHF Twelve Paladins' D Body 防具→無義譯慣用；短音譯≤4	body:Twelve Paladins' Armor D・Body	body
-1	Dragon Slayer D Body	龍	詞庫	terms:dragon	body:Dragon Slayer Armor D・Body	body
+1	Dragon Slayer D Body	屠龍	字義	semantic:Dragon Slayer	body:Dragon Slayer Armor D・Body	body
 1	Shikari の胴当てD	の胴当て	日文原語	source-jp	body:Shikari の胴当てD	body
 0	knight king	騎士王	合作／聯名	web:Fate 赤原礼装／騎士王		
 0	fest victors	優勝	遊戲專名／字義	web:褒賞祭勝ち猫／優勝系		
@@ -3707,3 +3707,81 @@ count	stem	zh	reason	source	example_source	slots
 1	チャチャブタロン	奇亞奇亞布塔	專名短音譯	原文片假名:チャチャブタロン；搜:MHF チャチャブタロン		
 1	チャチャブバイン	奇亞奇亞布巴	專名短音譯	原文片假名:チャチャブバイン；搜:MHF チャチャブバイン		
 1	ロットキック	羅托奇庫	專名短音譯	原文片假名:ロットキック；搜:MHF ロットキック		
+0	knight king hair gn d	騎士王	合作／聯名	web:Fate 騎士王		
+0	knight king gn d	騎士王	合作／聯名	web:Fate 騎士王		
+0	hero king earring gn d	英雄王	合作／聯名	web:Fate 英雄王		
+0	hero king gn d	英雄王	合作／聯名	web:Fate 英雄王		
+0	dragon slayer	屠龍	字義	semantic:Dragon Slayer		
+0	dragon slayer armor gauntlets	屠龍	字義	semantic:Dragon Slayer		
+0	dragon slayer armor waistband	屠龍	字義	semantic:Dragon Slayer		
+0	dragon slayer armor toenail	屠龍	字義	semantic:Dragon Slayer		
+0	piercing light suit	貫光	字義	semantic:Piercing Light		
+0	light suit	光	字義	semantic:light		
+0	light feet	光	字義	semantic:light		
+0	demon lord horn	魔王	字義	semantic:Demon Lord		
+0	of hidden infidelity	隱匿不忠	字義	semantic:Hidden Infidelity		
+0	hidden infidelity	隱匿不忠	字義	semantic:Hidden Infidelity		
+0	blue ice emperor	青冰帝	字義	semantic:Blue Ice Emperor		
+0	white ice emperor	白冰帝	字義	semantic:White Ice Emperor		
+0	red ice emperor	赤冰帝	字義	semantic:Red Ice Emperor		
+0	puppeteer	操偶	字義	semantic:Puppeteer；搜:パペット→操偶／傀儡		
+0	ahaba	阿哈巴	專名短音譯	搜:アハバ系專名→無義譯慣用		
+0	b.espi	黑棘龍	魔物／詞庫	terms:Black Espinas 縮寫 B.Espi		
+0	wind glare	風睨	字義	semantic:Wind Glare		
+0	wind snarl	風咆	字義	semantic:Wind Snarl		
+0	hot white star	熱白星	字義	semantic:Hot White Star		
+0	hot black star	熱黑星	字義	semantic:Hot Black Star		
+0	hot red star	熱赤星	字義	semantic:Hot Red Star		
+0	cool white star	涼白星	字義	semantic:Cool White Star		
+0	cool black star	涼黑星	字義	semantic:Cool Black Star		
+0	cool red star	涼赤星	字義	semantic:Cool Red Star		
+0	sky white star	天白星	字義	semantic:Sky White Star		
+0	sky black star	天黑星	字義	semantic:Sky Black Star		
+0	hot red stellar	熱赤星	字義	semantic:Hot Red Stellar		
+0	cool red stellar	涼赤星	字義	semantic:Cool Red Stellar		
+0	steno elytra	水竜翅鞘	遊戲專名／字義	terms:Steno=水竜；Elytra=翅鞘		
+0	issen 胴当て	一閃	遊戲專名／定譯	armor_quality_series		
+0	demon tale horn	魔譚	字義	semantic:Demon Tale		
+0	golden haori	金羽織	字義	semantic:Golden Haori		
+0	crimson cliff	深紅崖	字義	semantic:Crimson Cliff		
+0	silver ruler	銀統治	字義	semantic:Silver Ruler		
+0	silver control	銀統御	字義	semantic:Silver Control		
+0	gold red	金	字義	semantic:Gold；色另置		
+0	gold blue	金	字義	semantic:Gold；色另置		
+0	gold yellow	金	字義	semantic:Gold；色另置		
+0	gold purple	金	字義	semantic:Gold；色另置		
+0	マー gear	瑪爾機甲	遊戲專名／短音譯	搜:マーギア		
+0	マー gear blue	瑪爾機甲	遊戲專名／短音譯	搜:マーギア；色另置		
+0	box blue	青箱	字義	semantic:Box Blue		
+0	box red	赤箱	字義	semantic:Box Red		
+0	elytra	翅鞘	字義	semantic:elytra		
+0	rolling sky の腰当て	滾天	字義	semantic:Rolling Sky		
+0	red 備ノ waistband	赤備	字義／日文	semantic:Red 備ノ		
+0	puppeteer ノ	操偶	字義	semantic:Puppeteer		
+0	gold cat	金猫	字義	semantic:Gold Cat		
+0	silver cat	銀猫	字義	semantic:Silver Cat		
+0	silver armour	銀甲冑	字義	semantic:Silver Armour		
+0	silver armor	銀甲冑	字義	semantic:Silver Armor		
+0	black gravios	黑鎧龍	魔物／詞庫	terms:Black Gravios		
+0	black diablos	黑角龍	魔物／詞庫	terms:Black Diablos		
+0	white hypnoc	白眠鳥	魔物／詞庫	terms:White Hypnoc		
+0	silver sol	銀日	字義	semantic:Silver Sol		
+0	white 蘭 kensei	白蘭劍聖	字義／日文	semantic:White 蘭 Kensei		
+0	crimson 霞 kensei	紅霞劍聖	字義／日文	semantic:Crimson 霞；霞已含紅義		
+0	gold d	金	字義	semantic:Gold；D=級別另置		
+0	shinryu black	神龍	遊戲專名	armor_quality_series；Black=色		
+0	reppa black	烈破	遊戲專名	armor_quality_series；Black=色		
+0	comrade white	戰友	字義	semantic:Comrade；White=色		
+0	star festival shozoku	星祭	字義	semantic:Star Festival		
+0	star festival shozoku summer	星祭	字義	semantic:Star Festival		
+0	star festival shozoku 織	星祭	字義	semantic:Star Festival		
+0	true shadow headguard	真影	字義	semantic:True Shadow		
+0	true shadow headguard d	真影	字義	semantic:True Shadow		
+0	comrada helm pd white	戰友	字義	semantic:Comrada；色另置		
+0	crushing	碎擊	字義	semantic:crushing		
+0	noon	正午	字義	semantic:noon		
+0	gold	金	字義	semantic:gold		
+0	sky red star	天赤星	字義	semantic:Sky Red Star		
+0	sky red stellar	天赤星	字義	semantic:Sky Red Stellar		
+0	s・sol	S索倫	遊戲專名／短音譯	web:ソル系；S・Sol＝系列名非雙級別；使用者定稿		
+0	s sol	S索倫	遊戲專名／短音譯	web:ソル系；S・Sol		

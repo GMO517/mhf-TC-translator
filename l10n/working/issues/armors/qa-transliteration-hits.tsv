@@ -1,335 +1,56 @@
 slot	kind	severity	index	source	target	note
 head	need_semantic	high	58	Shadow Shinobi Mask	夏阿德歐帽子	英詞「shadow」應義譯（期望：影|闇）
-head	truncate	blocking	70	Glyph Crown	格冠	疑似截斷／系列名丟失
-head	need_semantic	high	113	Shinobi Mask・Sky	夏伊恩歐帽子	英詞「sky」應義譯（期望：天|空）
 head	need_semantic	high	230	Guild Knight Feather	獵團頭兜	英詞「knight」應義譯（期望：騎士）
 head	truncate	blocking	296	Butterfly Kabuto	蝶兜	疑似截斷／系列名丟失
 head	need_semantic	high	431	Golden Tie SP White	格歐爾艾頭兜【ＳＰ】・白	英詞「golden」應義譯（期望：金）
 head	need_semantic	high	432	Golden Tie SP Purple	格歐爾艾頭兜【ＳＰ】・紫	英詞「golden」應義譯（期望：金）
 head	need_semantic	high	433	Golden Tie SP Green	格歐爾艾頭兜【ＳＰ】・緑	英詞「golden」應義譯（期望：金）
-head	need_semantic	high	466	Hot Red Star Mask	赫歐特帽子	英詞「red」應義譯（期望：赤|紅|緋）
-head	need_semantic	high	467	Hot Blue Star Mask	赫歐特帽子	英詞「blue」應義譯（期望：青|藍|蒼）
-head	need_semantic	high	468	Hot Black Star Mask	赫歐特帽子	英詞「black」應義譯（期望：黑|墨）
-head	need_semantic	high	469	Hot White Star Mask	赫歐特帽子	英詞「white」應義譯（期望：白）
-head	need_semantic	high	470	Hot Red Stellar Mask	赫歐特帽子	英詞「red」應義譯（期望：赤|紅|緋）
-head	need_semantic	high	474	Cool Red Star Mask	克歐爾帽子	英詞「red」應義譯（期望：赤|紅|緋）
-head	need_semantic	high	475	Cool Blue Star Mask	克歐爾帽子	英詞「blue」應義譯（期望：青|藍|蒼）
-head	need_semantic	high	476	Cool Black Star Mask	克歐爾帽子	英詞「black」應義譯（期望：黑|墨）
-head	need_semantic	high	477	Cool White Star Mask	克歐爾帽子	英詞「white」應義譯（期望：白）
-head	need_semantic	high	482	Sky Red Star Mask	天空帽子	英詞「red」應義譯（期望：赤|紅|緋）
+head	need_semantic	high	467	Hot Blue Star Mask	熱帽子	英詞「blue」應義譯（期望：青|藍|蒼）
+head	need_semantic	high	475	Cool Blue Star Mask	涼帽子	英詞「blue」應義譯（期望：青|藍|蒼）
 head	need_semantic	high	483	Sky Blue Star Mask	天空帽子	英詞「blue」應義譯（期望：青|藍|蒼）
-head	need_semantic	high	484	Sky Black Star Mask	天空帽子	英詞「black」應義譯（期望：黑|墨）
-head	need_semantic	high	485	Sky White Star Mask	天空帽子	英詞「white」應義譯（期望：白）
-head	need_semantic	high	486	Sky Red Stellar Mask	天空帽子	英詞「red」應義譯（期望：赤|紅|緋）
-head	need_semantic	high	487	Sky Blu Stellar Mask	斯烏斯艾帽子	英詞「sky」應義譯（期望：天|空）
-head	need_semantic	high	488	Sky Blk Stellar Mask	斯艾爾阿帽子	英詞「sky」應義譯（期望：天|空）
 head	need_semantic	high	489	Sky Wht Stellar Mask	斯艾爾阿帽子	英詞「sky」應義譯（期望：天|空）
 head	need_semantic	high	537	Sky Brown Masque	斯歐沃面罩	英詞「sky」應義譯（期望：天|空）
 head	need_semantic	high	539	Sky Pale Masque	斯阿爾艾面罩	英詞「sky」應義譯（期望：天|空）
-head	need_semantic	high	841	Demon Lord Horn	德艾姆歐角	英詞「demon」應義譯（期望：鬼|魔）
+head	truncate	blocking	841	Demon Lord Horn	魔王角	疑似截斷／系列名丟失
 head	truncate	blocking	912	Weiss Brain	白腦	疑似截斷／系列名丟失
 head	truncate	blocking	913	Weiss Soul	白魂	疑似截斷／系列名丟失
-head	truncate	blocking	1291	Inari 覇 Kabuto	覇兜	疑似截斷／系列名丟失
-head	need_semantic	high	1395	Akantor リクン SP Black	霸龍頭兜【ＳＰ】	英詞「black」應義譯（期望：黑|墨）
-head	need_semantic	high	1396	Akantor リクン SP Red	霸龍頭兜【ＳＰ】	英詞「red」應義譯（期望：赤|紅|緋）
-head	need_semantic	high	1397	Akantor リクン SP White	霸龍頭兜【ＳＰ】	英詞「white」應義譯（期望：白）
-head	need_semantic	high	2033	Blue Sky Headguard・魁	魁護額・青	英詞「sky」應義譯（期望：天|空）
-head	need_semantic	high	2108	True 空 Hachimaki・Black	空鉢卷・黑	英詞「true」應義譯（期望：真）
-head	need_semantic	high	2109	True 空F Hachimaki・Black	空鉢卷【Ｆ】・黑	英詞「true」應義譯（期望：真）
-head	need_semantic	high	2116	True 空 Hachimaki・Tea	空鉢卷・茶	英詞「true」應義譯（期望：真）
-head	need_semantic	high	2117	True 空F Hachimaki・Tea	空鉢卷【Ｆ】・茶	英詞「true」應義譯（期望：真）
-head	need_semantic	high	2124	True 空 Hachimaki・White	空鉢卷・白	英詞「true」應義譯（期望：真）
-head	need_semantic	high	2125	True 空F Hachimaki・White	空鉢卷【Ｆ】・白	英詞「true」應義譯（期望：真）
-head	need_semantic	high	2132	True 空 Hachimaki・Blue	空鉢卷・青	英詞「true」應義譯（期望：真）
-head	need_semantic	high	2133	True 空F Hachimaki・Blue	空鉢卷【Ｆ】・青	英詞「true」應義譯（期望：真）
-head	truncate	blocking	2215	Demon Lord Horn・魁	魁角	疑似截斷／系列名丟失
-head	need_semantic	high	2215	Demon Lord Horn・魁	魁角	英詞「demon」應義譯（期望：鬼|魔）
 head	truncate	blocking	2241	Flame Crown	炎冠	疑似截斷／系列名丟失
-head	truncate	blocking	2380	True Shadow Headguard・魁	魁護額	疑似截斷／系列名丟失
-head	need_semantic	high	2380	True Shadow Headguard・魁	魁護額	英詞「true」應義譯（期望：真）
-head	need_semantic	high	2527	マー Gear F Hat・Blue	格艾爾帽【Ｆ】	英詞「blue」應義譯（期望：青|藍|蒼）
-head	need_semantic	high	2581	White Snake Headguard・魁	魁護額・白	英詞「snake」應義譯（期望：蛇）
-head	truncate	blocking	2611	Rolling Flow Headguard・魁	魁護額	疑似截斷／系列名丟失
-head	truncate	blocking	2714	Ahaba ー Piercing	耳飾	疑似截斷／系列名丟失
 head	truncate	blocking	2821	Wind Glare	風睨	疑似截斷／系列名丟失
 head	truncate	blocking	2822	Wind Snarl	風咆	疑似截斷／系列名丟失
-head	truncate	blocking	2866	Valued Word Headguard・魁	魁護額	疑似截斷／系列名丟失
-head	need_semantic	high	2866	Valued Word Headguard・魁	魁護額	英詞「valued」應義譯（期望：珍|貴|重|値|值）
-head	need_semantic	high	2868	Valued Word Headguard・Flower	芙阿爾烏護額	英詞「valued」應義譯（期望：珍|貴|重|値|值）
-head	need_semantic	high	2897	Demon Lord Horn・Extreme	德艾姆歐角	英詞「demon」應義譯（期望：鬼|魔）
-head	need_semantic	high	2898	Demon Lord Horn・Heaven	德艾姆歐角・天	英詞「demon」應義譯（期望：鬼|魔）
-head	need_semantic	high	2907	Royal FY Head	爾歐伊阿頭兜	英詞「royal」應義譯（期望：王|皇家|王族）
-head	truncate	blocking	2953	Rolling Sky Headguard・魁	魁護額	疑似截斷／系列名丟失
-head	need_semantic	high	2953	Rolling Sky Headguard・魁	魁護額	英詞「sky」應義譯（期望：天|空）
-head	need_semantic	high	3074	Rolling Sky Headguard・Elegant	爾歐爾伊護額	英詞「sky」應義譯（期望：天|空）
-head	need_semantic	high	4041	Knight King Hair BM Blue	克伊格伊頭兜・青	英詞「knight」應義譯（期望：騎士）
-head	need_semantic	high	4042	Knight King Hair BM F Blue	克伊格伊頭兜【Ｆ】・青	英詞「knight」應義譯（期望：騎士）
-head	need_semantic	high	4043	Knight King Hair BM FZ Blue	克伊格伊頭兜【ＦＺ】・青	英詞「knight」應義譯（期望：騎士）
-head	need_semantic	high	4044	Knight King Hair BM HC Blue	克伊格伊頭兜【ＨＣ】・青	英詞「knight」應義譯（期望：騎士）
-head	need_semantic	high	4045	Knight King Hair BM HS Blue	克伊格伊頭兜【ＨＳ】・青	英詞「knight」應義譯（期望：騎士）
-head	need_semantic	high	4046	Knight King Hair BM GS Blue	克伊格伊頭兜【ＧＳ】・青	英詞「knight」應義譯（期望：騎士）
-head	need_semantic	high	4047	Knight King Hair GN Blue	克伊格伊頭兜・青	英詞「knight」應義譯（期望：騎士）
-head	need_semantic	high	4048	Knight King Hair GN F Blue	克伊格伊頭兜【Ｆ】・青	英詞「knight」應義譯（期望：騎士）
-head	need_semantic	high	4049	Knight King Hair GN FZ Blue	克伊格伊頭兜【ＦＺ】・青	英詞「knight」應義譯（期望：騎士）
-head	need_semantic	high	4050	Knight King Hair GN HC Blue	克伊格伊頭兜【ＨＣ】・青	英詞「knight」應義譯（期望：騎士）
-head	need_semantic	high	4051	Knight King Hair GN HS Blue	克伊格伊頭兜【ＨＳ】・青	英詞「knight」應義譯（期望：騎士）
-head	need_semantic	high	4052	Knight King Hair GN GS Blue	克伊格伊頭兜【ＧＳ】・青	英詞「knight」應義譯（期望：騎士）
-head	need_semantic	high	4053	Knight King Hair BM Red	克伊格伊頭兜・赤	英詞「knight」應義譯（期望：騎士）
-head	need_semantic	high	4054	Knight King Hair BM F Red	克伊格伊頭兜【Ｆ】・赤	英詞「knight」應義譯（期望：騎士）
-head	need_semantic	high	4055	Knight King Hair BM FZ Red	克伊格伊頭兜【ＦＺ】・赤	英詞「knight」應義譯（期望：騎士）
-head	need_semantic	high	4056	Knight King Hair BM HC Red	克伊格伊頭兜【ＨＣ】・赤	英詞「knight」應義譯（期望：騎士）
-head	need_semantic	high	4057	Knight King Hair BM HS Red	克伊格伊頭兜【ＨＳ】・赤	英詞「knight」應義譯（期望：騎士）
-head	need_semantic	high	4058	Knight King Hair BM GS Red	克伊格伊頭兜【ＧＳ】・赤	英詞「knight」應義譯（期望：騎士）
-head	need_semantic	high	4059	Knight King Hair GN Red	克伊格伊頭兜・赤	英詞「knight」應義譯（期望：騎士）
-head	need_semantic	high	4060	Knight King Hair GN F Red	克伊格伊頭兜【Ｆ】・赤	英詞「knight」應義譯（期望：騎士）
-head	need_semantic	high	4061	Knight King Hair GN FZ Red	克伊格伊頭兜【ＦＺ】・赤	英詞「knight」應義譯（期望：騎士）
-head	need_semantic	high	4062	Knight King Hair GN HC Red	克伊格伊頭兜【ＨＣ】・赤	英詞「knight」應義譯（期望：騎士）
-head	need_semantic	high	4063	Knight King Hair GN HS Red	克伊格伊頭兜【ＨＳ】・赤	英詞「knight」應義譯（期望：騎士）
-head	need_semantic	high	4064	Knight King Hair GN GS Red	克伊格伊頭兜【ＧＳ】・赤	英詞「knight」應義譯（期望：騎士）
-head	need_semantic	high	4065	Knight King Hair BM Black	克伊格伊頭兜・黑	英詞「knight」應義譯（期望：騎士）
-head	need_semantic	high	4066	Knight King Hair BM F Black	克伊格伊頭兜【Ｆ】・黑	英詞「knight」應義譯（期望：騎士）
-head	need_semantic	high	4067	Knight King Hair BM FZ Black	克伊格伊頭兜【ＦＺ】・黑	英詞「knight」應義譯（期望：騎士）
-head	need_semantic	high	4068	Knight King Hair BM HC Black	克伊格伊頭兜【ＨＣ】・黑	英詞「knight」應義譯（期望：騎士）
-head	need_semantic	high	4069	Knight King Hair BM HS Black	克伊格伊頭兜【ＨＳ】・黑	英詞「knight」應義譯（期望：騎士）
-head	need_semantic	high	4070	Knight King Hair BM GS Black	克伊格伊頭兜【ＧＳ】・黑	英詞「knight」應義譯（期望：騎士）
-head	need_semantic	high	4071	Knight King Hair GN Black	克伊格伊頭兜・黑	英詞「knight」應義譯（期望：騎士）
-head	need_semantic	high	4072	Knight King Hair GN F Black	克伊格伊頭兜【Ｆ】・黑	英詞「knight」應義譯（期望：騎士）
-head	need_semantic	high	4073	Knight King Hair GN FZ Black	克伊格伊頭兜【ＦＺ】・黑	英詞「knight」應義譯（期望：騎士）
-head	need_semantic	high	4074	Knight King Hair GN HC Black	克伊格伊頭兜【ＨＣ】・黑	英詞「knight」應義譯（期望：騎士）
-head	need_semantic	high	4075	Knight King Hair GN HS Black	克伊格伊頭兜【ＨＳ】・黑	英詞「knight」應義譯（期望：騎士）
-head	need_semantic	high	4076	Knight King Hair GN GS Black	克伊格伊頭兜【ＧＳ】・黑	英詞「knight」應義譯（期望：騎士）
-head	need_semantic	high	4077	Knight King Hair BM White	克伊格伊頭兜・白	英詞「knight」應義譯（期望：騎士）
-head	need_semantic	high	4078	Knight King Hair BM F White	克伊格伊頭兜【Ｆ】・白	英詞「knight」應義譯（期望：騎士）
-head	need_semantic	high	4079	Knight King Hair BM FZ White	克伊格伊頭兜【ＦＺ】・白	英詞「knight」應義譯（期望：騎士）
-head	need_semantic	high	4080	Knight King Hair BM HC White	克伊格伊頭兜【ＨＣ】・白	英詞「knight」應義譯（期望：騎士）
-head	need_semantic	high	4081	Knight King Hair BM HS White	克伊格伊頭兜【ＨＳ】・白	英詞「knight」應義譯（期望：騎士）
-head	need_semantic	high	4082	Knight King Hair BM GS White	克伊格伊頭兜【ＧＳ】・白	英詞「knight」應義譯（期望：騎士）
-head	need_semantic	high	4083	Knight King Hair GN White	克伊格伊頭兜・白	英詞「knight」應義譯（期望：騎士）
-head	need_semantic	high	4084	Knight King Hair GN F White	克伊格伊頭兜【Ｆ】・白	英詞「knight」應義譯（期望：騎士）
-head	need_semantic	high	4085	Knight King Hair GN FZ White	克伊格伊頭兜【ＦＺ】・白	英詞「knight」應義譯（期望：騎士）
-head	need_semantic	high	4086	Knight King Hair GN HC White	克伊格伊頭兜【ＨＣ】・白	英詞「knight」應義譯（期望：騎士）
-head	need_semantic	high	4087	Knight King Hair GN HS White	克伊格伊頭兜【ＨＳ】・白	英詞「knight」應義譯（期望：騎士）
-head	need_semantic	high	4088	Knight King Hair GN GS White	克伊格伊頭兜【ＧＳ】・白	英詞「knight」應義譯（期望：騎士）
-head	need_semantic	high	4191	Golden Headdress・G	格歐爾艾頭兜【Ｇ】	英詞「golden」應義譯（期望：金）
-head	need_semantic	high	4192	Golden Headdress・GF	格歐爾艾頭兜【ＧＦ】	英詞「golden」應義譯（期望：金）
-head	need_semantic	high	4193	Golden Headdress・GX	格歐爾艾頭兜【ＧＸ】	英詞「golden」應義譯（期望：金）
-head	need_semantic	high	4347	Demon Lord Headguard	德艾姆歐護額	英詞「demon」應義譯（期望：鬼|魔）
-head	need_semantic	high	5252	True 空FZ Hachimaki・Black	空鉢卷【ＦＺ】・黑	英詞「true」應義譯（期望：真）
-head	need_semantic	high	5253	True 空HS Hachimaki・Black	空鉢卷【ＨＳ】・黑	英詞「true」應義譯（期望：真）
-head	need_semantic	high	5254	True 空GS Hachimaki・Black	空鉢卷【ＧＳ】・黑	英詞「true」應義譯（期望：真）
-head	need_semantic	high	5255	True 空GP Hachimaki・Black	空鉢卷【ＧＰ】・黑	英詞「true」應義譯（期望：真）
-head	need_semantic	high	5268	True 空FZ Hachimaki・Tea	空鉢卷【ＦＺ】・茶	英詞「true」應義譯（期望：真）
-head	need_semantic	high	5269	True 空HS Hachimaki・Tea	空鉢卷【ＨＳ】・茶	英詞「true」應義譯（期望：真）
-head	need_semantic	high	5270	True 空GS Hachimaki・Tea	空鉢卷【ＧＳ】・茶	英詞「true」應義譯（期望：真）
-head	need_semantic	high	5271	True 空GP Hachimaki・Tea	空鉢卷【ＧＰ】・茶	英詞「true」應義譯（期望：真）
-head	need_semantic	high	5284	True 空FZ Hachimaki・White	空鉢卷【ＦＺ】・白	英詞「true」應義譯（期望：真）
-head	need_semantic	high	5285	True 空HS Hachimaki・White	空鉢卷【ＨＳ】・白	英詞「true」應義譯（期望：真）
-head	need_semantic	high	5286	True 空GS Hachimaki・White	空鉢卷【ＧＳ】・白	英詞「true」應義譯（期望：真）
-head	need_semantic	high	5287	True 空GP Hachimaki・White	空鉢卷【ＧＰ】・白	英詞「true」應義譯（期望：真）
-head	need_semantic	high	5300	True 空FZ Hachimaki・Blue	空鉢卷【ＦＺ】・青	英詞「true」應義譯（期望：真）
-head	need_semantic	high	5301	True 空HS Hachimaki・Blue	空鉢卷【ＨＳ】・青	英詞「true」應義譯（期望：真）
-head	need_semantic	high	5302	True 空GS Hachimaki・Blue	空鉢卷【ＧＳ】・青	英詞「true」應義譯（期望：真）
-head	need_semantic	high	5303	True 空GP Hachimaki・Blue	空鉢卷【ＧＰ】・青	英詞「true」應義譯（期望：真）
-head	need_semantic	high	5830	Hero King Earring BM Gold	赫艾爾歐頭兜・金	英詞「king」應義譯（期望：王）
-head	need_semantic	high	5831	Hero King Earring BM F Gold	赫艾爾歐頭兜【Ｆ】・金	英詞「king」應義譯（期望：王）
-head	need_semantic	high	5832	Hero King Earring BM FZ Gold	赫艾爾歐頭兜【ＦＺ】・金	英詞「king」應義譯（期望：王）
-head	need_semantic	high	5833	Hero King Earring BM HS Gold	赫艾爾歐頭兜【ＨＳ】・金	英詞「king」應義譯（期望：王）
-head	need_semantic	high	5834	Hero King Earring BM GS Gold	赫艾爾歐頭兜【ＧＳ】・金	英詞「king」應義譯（期望：王）
-head	need_semantic	high	5835	Hero King Earring BM GP Gold	赫艾爾歐頭兜【ＧＰ】・金	英詞「king」應義譯（期望：王）
-head	need_semantic	high	5836	Hero King Earring GN Gold	赫艾爾歐頭兜・金	英詞「king」應義譯（期望：王）
-head	need_semantic	high	5837	Hero King Earring GN F Gold	赫艾爾歐頭兜【Ｆ】・金	英詞「king」應義譯（期望：王）
-head	need_semantic	high	5838	Hero King Earring GN FZ Gold	赫艾爾歐頭兜【ＦＺ】・金	英詞「king」應義譯（期望：王）
-head	need_semantic	high	5839	Hero King Earring GN HS Gold	赫艾爾歐頭兜【ＨＳ】・金	英詞「king」應義譯（期望：王）
-head	need_semantic	high	5840	Hero King Earring GN GS Gold	赫艾爾歐頭兜【ＧＳ】・金	英詞「king」應義譯（期望：王）
-head	need_semantic	high	5841	Hero King Earring GN GP Gold	赫艾爾歐頭兜【ＧＰ】・金	英詞「king」應義譯（期望：王）
-head	need_semantic	high	5950	Shooting Star GS Hachigane	夏歐特伊鉢金【ＧＳ】	英詞「star」應義譯（期望：星）
-head	need_semantic	high	5951	Shooting Star GP Hachigane	夏歐特伊鉢金【ＧＰ】	英詞「star」應義譯（期望：星）
-head	need_semantic	high	6002	Knight King Hair BM GP Blue	克伊格伊頭兜【ＧＰ】・青	英詞「knight」應義譯（期望：騎士）
-head	need_semantic	high	6003	Knight King Hair GN GP Blue	克伊格伊頭兜【ＧＰ】・青	英詞「knight」應義譯（期望：騎士）
-head	need_semantic	high	6004	Knight King Hair BM GP Red	克伊格伊頭兜【ＧＰ】・赤	英詞「knight」應義譯（期望：騎士）
-head	need_semantic	high	6005	Knight King Hair GN GP Red	克伊格伊頭兜【ＧＰ】・赤	英詞「knight」應義譯（期望：騎士）
-head	need_semantic	high	6006	Knight King Hair BM GP Black	克伊格伊頭兜【ＧＰ】・黑	英詞「knight」應義譯（期望：騎士）
-head	need_semantic	high	6007	Knight King Hair GN GP Black	克伊格伊頭兜【ＧＰ】・黑	英詞「knight」應義譯（期望：騎士）
-head	need_semantic	high	6008	Knight King Hair BM GP White	克伊格伊頭兜【ＧＰ】・白	英詞「knight」應義譯（期望：騎士）
-head	need_semantic	high	6009	Knight King Hair GN GP White	克伊格伊頭兜【ＧＰ】・白	英詞「knight」應義譯（期望：騎士）
-head	need_semantic	high	6206	Hero King Earring BM Black	赫艾爾歐頭兜・黑	英詞「king」應義譯（期望：王）
-head	need_semantic	high	6207	Hero King Earring BM F Black	赫艾爾歐頭兜【Ｆ】・黑	英詞「king」應義譯（期望：王）
-head	need_semantic	high	6208	Hero King Earring BM FZ Black	赫艾爾歐頭兜【ＦＺ】・黑	英詞「king」應義譯（期望：王）
-head	need_semantic	high	6209	Hero King Earring BM HS Black	赫艾爾歐頭兜【ＨＳ】・黑	英詞「king」應義譯（期望：王）
-head	need_semantic	high	6210	Hero King Earring BM GS Black	赫艾爾歐頭兜【ＧＳ】・黑	英詞「king」應義譯（期望：王）
-head	need_semantic	high	6211	Hero King Earring BM GP Black	赫艾爾歐頭兜【ＧＰ】・黑	英詞「king」應義譯（期望：王）
-head	need_semantic	high	6212	Hero King Earring GN Black	赫艾爾歐頭兜・黑	英詞「king」應義譯（期望：王）
-head	need_semantic	high	6213	Hero King Earring GN F Black	赫艾爾歐頭兜【Ｆ】・黑	英詞「king」應義譯（期望：王）
-head	need_semantic	high	6214	Hero King Earring GN FZ Black	赫艾爾歐頭兜【ＦＺ】・黑	英詞「king」應義譯（期望：王）
-head	need_semantic	high	6215	Hero King Earring GN HS Black	赫艾爾歐頭兜【ＨＳ】・黑	英詞「king」應義譯（期望：王）
-head	need_semantic	high	6216	Hero King Earring GN GS Black	赫艾爾歐頭兜【ＧＳ】・黑	英詞「king」應義譯（期望：王）
-head	need_semantic	high	6217	Hero King Earring GN GP Black	赫艾爾歐頭兜【ＧＰ】・黑	英詞「king」應義譯（期望：王）
-head	need_semantic	high	6230	Hero King Earring BM White	赫艾爾歐頭兜・白	英詞「king」應義譯（期望：王）
-head	need_semantic	high	6231	Hero King Earring BM F White	赫艾爾歐頭兜【Ｆ】・白	英詞「king」應義譯（期望：王）
-head	need_semantic	high	6232	Hero King Earring BM FZ White	赫艾爾歐頭兜【ＦＺ】・白	英詞「king」應義譯（期望：王）
-head	need_semantic	high	6233	Hero King Earring BM HS White	赫艾爾歐頭兜【ＨＳ】・白	英詞「king」應義譯（期望：王）
-head	need_semantic	high	6234	Hero King Earring BM GS White	赫艾爾歐頭兜【ＧＳ】・白	英詞「king」應義譯（期望：王）
-head	need_semantic	high	6235	Hero King Earring BM GP White	赫艾爾歐頭兜【ＧＰ】・白	英詞「king」應義譯（期望：王）
-head	need_semantic	high	6236	Hero King Earring GN White	赫艾爾歐頭兜・白	英詞「king」應義譯（期望：王）
-head	need_semantic	high	6237	Hero King Earring GN F White	赫艾爾歐頭兜【Ｆ】・白	英詞「king」應義譯（期望：王）
-head	need_semantic	high	6238	Hero King Earring GN FZ White	赫艾爾歐頭兜【ＦＺ】・白	英詞「king」應義譯（期望：王）
-head	need_semantic	high	6239	Hero King Earring GN HS White	赫艾爾歐頭兜【ＨＳ】・白	英詞「king」應義譯（期望：王）
-head	need_semantic	high	6240	Hero King Earring GN GS White	赫艾爾歐頭兜【ＧＳ】・白	英詞「king」應義譯（期望：王）
-head	need_semantic	high	6241	Hero King Earring GN GP White	赫艾爾歐頭兜【ＧＰ】・白	英詞「king」應義譯（期望：王）
-head	need_semantic	high	6254	Hero King Earring BM Red	赫艾爾歐頭兜・赤	英詞「king」應義譯（期望：王）
-head	need_semantic	high	6255	Hero King Earring BM F Red	赫艾爾歐頭兜【Ｆ】・赤	英詞「king」應義譯（期望：王）
-head	need_semantic	high	6256	Hero King Earring BM FZ Red	赫艾爾歐頭兜【ＦＺ】・赤	英詞「king」應義譯（期望：王）
-head	need_semantic	high	6257	Hero King Earring BM HS Red	赫艾爾歐頭兜【ＨＳ】・赤	英詞「king」應義譯（期望：王）
-head	need_semantic	high	6258	Hero King Earring BM GS Red	赫艾爾歐頭兜【ＧＳ】・赤	英詞「king」應義譯（期望：王）
-head	need_semantic	high	6259	Hero King Earring BM GP Red	赫艾爾歐頭兜【ＧＰ】・赤	英詞「king」應義譯（期望：王）
-head	need_semantic	high	6260	Hero King Earring GN Red	赫艾爾歐頭兜・赤	英詞「king」應義譯（期望：王）
-head	need_semantic	high	6261	Hero King Earring GN F Red	赫艾爾歐頭兜【Ｆ】・赤	英詞「king」應義譯（期望：王）
-head	need_semantic	high	6262	Hero King Earring GN FZ Red	赫艾爾歐頭兜【ＦＺ】・赤	英詞「king」應義譯（期望：王）
-head	need_semantic	high	6263	Hero King Earring GN HS Red	赫艾爾歐頭兜【ＨＳ】・赤	英詞「king」應義譯（期望：王）
-head	need_semantic	high	6264	Hero King Earring GN GS Red	赫艾爾歐頭兜【ＧＳ】・赤	英詞「king」應義譯（期望：王）
-head	need_semantic	high	6265	Hero King Earring GN GP Red	赫艾爾歐頭兜【ＧＰ】・赤	英詞「king」應義譯（期望：王）
-head	need_semantic	high	8702	Tenpi ノ団子・Red	天陽頭兜	英詞「red」應義譯（期望：赤|紅|緋）
-head	need_semantic	high	8703	Tenpi ノ団子F・Red	天陽頭兜【Ｆ】	英詞「red」應義譯（期望：赤|紅|緋）
-head	need_semantic	high	8704	Tenpi ノ団子FZ・Red	天陽頭兜【ＦＺ】	英詞「red」應義譯（期望：赤|紅|緋）
-head	need_semantic	high	8705	Tenpi ノ団子HS・Red	天陽頭兜【ＨＳ】	英詞「red」應義譯（期望：赤|紅|緋）
-head	need_semantic	high	8706	Tenpi ノ団子GS・Red	天陽頭兜【ＧＳ】	英詞「red」應義譯（期望：赤|紅|緋）
-head	need_semantic	high	8707	Tenpi ノ団子GP・Red	天陽頭兜【ＧＰ】	英詞「red」應義譯（期望：赤|紅|緋）
-head	need_semantic	high	8714	Tenpi ノ団子・Blue	天陽頭兜	英詞「blue」應義譯（期望：青|藍|蒼）
-head	need_semantic	high	8715	Tenpi ノ団子F・Blue	天陽頭兜【Ｆ】	英詞「blue」應義譯（期望：青|藍|蒼）
-head	need_semantic	high	8716	Tenpi ノ団子FZ・Blue	天陽頭兜【ＦＺ】	英詞「blue」應義譯（期望：青|藍|蒼）
-head	need_semantic	high	8717	Tenpi ノ団子HS・Blue	天陽頭兜【ＨＳ】	英詞「blue」應義譯（期望：青|藍|蒼）
-head	need_semantic	high	8718	Tenpi ノ団子GS・Blue	天陽頭兜【ＧＳ】	英詞「blue」應義譯（期望：青|藍|蒼）
-head	need_semantic	high	8719	Tenpi ノ団子GP・Blue	天陽頭兜【ＧＰ】	英詞「blue」應義譯（期望：青|藍|蒼）
-head	need_semantic	high	8726	Tenpi ノ団子・Black	天陽頭兜	英詞「black」應義譯（期望：黑|墨）
-head	need_semantic	high	8727	Tenpi ノ団子F・Black	天陽頭兜【Ｆ】	英詞「black」應義譯（期望：黑|墨）
-head	need_semantic	high	8728	Tenpi ノ団子FZ・Black	天陽頭兜【ＦＺ】	英詞「black」應義譯（期望：黑|墨）
-head	need_semantic	high	8729	Tenpi ノ団子HS・Black	天陽頭兜【ＨＳ】	英詞「black」應義譯（期望：黑|墨）
-head	need_semantic	high	8730	Tenpi ノ団子GS・Black	天陽頭兜【ＧＳ】	英詞「black」應義譯（期望：黑|墨）
-head	need_semantic	high	8731	Tenpi ノ団子GP・Black	天陽頭兜【ＧＰ】	英詞「black」應義譯（期望：黑|墨）
-head	need_semantic	high	8738	Tenpi ノ団子・White	天陽頭兜	英詞「white」應義譯（期望：白）
-head	need_semantic	high	8739	Tenpi ノ団子F・White	天陽頭兜【Ｆ】	英詞「white」應義譯（期望：白）
-head	need_semantic	high	8740	Tenpi ノ団子FZ・White	天陽頭兜【ＦＺ】	英詞「white」應義譯（期望：白）
-head	need_semantic	high	8741	Tenpi ノ団子HS・White	天陽頭兜【ＨＳ】	英詞「white」應義譯（期望：白）
-head	need_semantic	high	8742	Tenpi ノ団子GS・White	天陽頭兜【ＧＳ】	英詞「white」應義譯（期望：白）
-head	need_semantic	high	8743	Tenpi ノ団子GP・White	天陽頭兜【ＧＰ】	英詞「white」應義譯（期望：白）
+head	truncate	blocking	2897	Demon Lord Horn・Extreme	魔王角	疑似截斷／系列名丟失
 head	need_semantic	high	8916	Fog FY Hachigane	芙歐格鉢金	英詞「fog」應義譯（期望：霧）
-head	need_semantic	high	8933	Demon Lord Horn G	德艾姆歐角【Ｇ】	英詞「demon」應義譯（期望：鬼|魔）
-head	need_semantic	high	8934	Demon Lord Horn GF	德艾姆歐角【ＧＦ】	英詞「demon」應義譯（期望：鬼|魔）
-head	need_semantic	high	8935	Demon Lord Horn GX	德艾姆歐角【ＧＸ】	英詞「demon」應義譯（期望：鬼|魔）
 head	truncate	blocking	9942	Kurai Kabuto	暗兜	疑似截斷／系列名丟失
 head	truncate	blocking	9948	Kurai Kabuto	暗兜	疑似截斷／系列名丟失
-head	need_semantic	high	10682	Demon Tale Horn G	德艾姆歐角【Ｇ】	英詞「demon」應義譯（期望：鬼|魔）
-head	need_semantic	high	10683	Demon Tale Horn GF	德艾姆歐角【ＧＦ】	英詞「demon」應義譯（期望：鬼|魔）
-head	need_semantic	high	10684	Demon Tale Horn GX	德艾姆歐角【ＧＸ】	英詞「demon」應義譯（期望：鬼|魔）
-head	need_semantic	high	11548	Blue Ice Emperor D Head	伊克艾斯頭兜・青	英詞「ice」應義譯（期望：氷|冰）
-head	need_semantic	high	11549	White Ice Emperor D Head	伊克艾斯頭兜・白	英詞「ice」應義譯（期望：氷|冰）
-head	need_semantic	high	11550	Red Ice Emperor D Head	伊克艾斯頭兜・赤	英詞「ice」應義譯（期望：氷|冰）
 head	truncate	blocking	11600	Thunder D Kabuto	雷兜	疑似截斷／系列名丟失
 head	need_semantic	high	11706	King Beetle D Vertex	克伊恩艾頭頂	英詞「king」應義譯（期望：王）
-head	need_semantic	high	11710	Demon Lord Horn D	德艾姆歐角	英詞「demon」應義譯（期望：鬼|魔）
-head	need_semantic	high	11974	Knight King Hair BM ZP Blue	克伊格伊頭兜【ＺＰ】・青	英詞「knight」應義譯（期望：騎士）
-head	need_semantic	high	11975	Knight King Hair GN ZP Blue	克伊格伊頭兜【ＺＰ】・青	英詞「knight」應義譯（期望：騎士）
-head	need_semantic	high	11976	Knight King Hair BM ZP Red	克伊格伊頭兜【ＺＰ】・赤	英詞「knight」應義譯（期望：騎士）
-head	need_semantic	high	11977	Knight King Hair GN ZP Red	克伊格伊頭兜【ＺＰ】・赤	英詞「knight」應義譯（期望：騎士）
-head	need_semantic	high	11978	Knight King Hair BM ZP Black	克伊格伊頭兜【ＺＰ】・黑	英詞「knight」應義譯（期望：騎士）
-head	need_semantic	high	11979	Knight King Hair GN ZP Black	克伊格伊頭兜【ＺＰ】・黑	英詞「knight」應義譯（期望：騎士）
-head	need_semantic	high	11980	Knight King Hair BM ZP White	克伊格伊頭兜【ＺＰ】・白	英詞「knight」應義譯（期望：騎士）
-head	need_semantic	high	11981	Knight King Hair GN ZP White	克伊格伊頭兜【ＺＰ】・白	英詞「knight」應義譯（期望：騎士）
-head	need_semantic	high	11982	Hero King Earring BM ZP Gold	赫艾爾歐頭兜【ＺＰ】・金	英詞「king」應義譯（期望：王）
-head	need_semantic	high	11983	Hero King Earring GN ZP Gold	赫艾爾歐頭兜【ＺＰ】・金	英詞「king」應義譯（期望：王）
-head	need_semantic	high	11984	Hero King Earring BM ZP Black	赫艾爾歐頭兜【ＺＰ】・黑	英詞「king」應義譯（期望：王）
-head	need_semantic	high	11985	Hero King Earring GN ZP Black	赫艾爾歐頭兜【ＺＰ】・黑	英詞「king」應義譯（期望：王）
-head	need_semantic	high	11986	Hero King Earring BM ZP White	赫艾爾歐頭兜【ＺＰ】・白	英詞「king」應義譯（期望：王）
-head	need_semantic	high	11987	Hero King Earring GN ZP White	赫艾爾歐頭兜【ＺＰ】・白	英詞「king」應義譯（期望：王）
-head	need_semantic	high	11988	Hero King Earring BM ZP Red	赫艾爾歐頭兜【ＺＰ】・赤	英詞「king」應義譯（期望：王）
-head	need_semantic	high	11989	Hero King Earring GN ZP Red	赫艾爾歐頭兜【ＺＰ】・赤	英詞「king」應義譯（期望：王）
-head	need_semantic	high	12036	Knight King Hair BM D Blue	克伊格伊頭兜・青	英詞「knight」應義譯（期望：騎士）
-head	need_semantic	high	12037	Knight King Hair BM D Red	克伊格伊頭兜・赤	英詞「knight」應義譯（期望：騎士）
-head	need_semantic	high	12038	Knight King Hair BM D Black	克伊格伊頭兜・黑	英詞「knight」應義譯（期望：騎士）
-head	need_semantic	high	12039	Knight King Hair BM D White	克伊格伊頭兜・白	英詞「knight」應義譯（期望：騎士）
-head	need_semantic	high	12040	Hero King Earring BM D Gold	赫艾爾歐頭兜・金	英詞「king」應義譯（期望：王）
-head	need_semantic	high	12041	Hero King Earring BM D Black	赫艾爾歐頭兜・黑	英詞「king」應義譯（期望：王）
-head	need_semantic	high	12042	Hero King Earring BM D White	赫艾爾歐頭兜・白	英詞「king」應義譯（期望：王）
-head	need_semantic	high	12043	Hero King Earring BM D Red	赫艾爾歐頭兜・赤	英詞「king」應義譯（期望：王）
+head	truncate	blocking	11710	Demon Lord Horn D	魔王角	疑似截斷／系列名丟失
 head	need_semantic	high	12480	Rampage D Helm	爾阿姆阿頭兜	英詞「rampage」應義譯（期望：狂暴|暴）
 head	need_semantic	high	12481	Blaze D Helm	布阿茲艾頭兜	英詞「blaze」應義譯（期望：烈焔|焰|焔|炎）
 head	need_semantic	high	12493	Guild Bard C Lobos	獵團軟帽	英詞「bard」應義譯（期望：吟遊|詩人|詩）
 head	need_semantic	high	12494	Scholar C Hood	施歐爾阿兜帽	英詞「scholar」應義譯（期望：學者|学士|學）
 head	need_semantic	high	12511	Sunset Glow・Kensei D Helm	斯烏恩艾頭兜	英詞「glow」應義譯（期望：暉|輝|光|曜）
 head	need_semantic	high	12524	Demonclad Horn D	德艾姆歐角	英詞「demonclad」應義譯（期望：鬼|魔|纏）
-head	need_semantic	high	12538	Garnet D Helm	格阿爾艾頭兜	英詞「garnet」應義譯（期望：石榴）
-head	need_semantic	high	12539	Amethyst D Helm	阿姆艾斯頭兜	英詞「amethyst」應義譯（期望：紫水晶|紫晶）
-head	need_semantic	high	12540	Coral D Helm	克歐爾阿頭兜	英詞「coral」應義譯（期望：珊瑚）
-head	need_semantic	high	12541	Quartz D Helm	斯烏爾頭兜	英詞「quartz」應義譯（期望：石英|水晶）
-head	need_semantic	high	12542	Emerald D Helm	艾姆艾爾頭兜	英詞「emerald」應義譯（期望：翠|綠寶石|緑|祖母綠）
-head	need_semantic	high	12543	Pearl D Helm	普艾爾頭兜	英詞「pearl」應義譯（期望：珠|珍珠）
-head	need_semantic	high	12544	Ruby D Helm	爾烏布頭兜	英詞「ruby」應義譯（期望：紅寶石|紅玉|紅）
-head	need_semantic	high	12545	Sapphire D Helm	斯阿普伊頭兜	英詞「sapphire」應義譯（期望：藍寶石|藍玉|藍）
-head	need_semantic	high	12546	Topaz D Cap	特歐普阿兜帽	英詞「topaz」應義譯（期望：黄玉|黃玉|托帕）
-head	need_semantic	high	12547	Tourmaline D Cap	特歐爾阿兜帽	英詞「tourmaline」應義譯（期望：電氣石|碧璽|托瑪琳|電気石）
-head	need_semantic	high	12548	Lapis D Cap	爾阿普伊兜帽	英詞「lapis」應義譯（期望：青金|琉璃）
-head	need_semantic	high	12549	Hisui D Helm	赫伊斯烏頭兜	英詞「hisui」應義譯（期望：翡翠）
-head	need_semantic	high	12550	Onyx D Helm	歐恩頭兜	英詞「onyx」應義譯（期望：縞瑪瑙|瑪瑙|縞|縞瑪）
 head	need_semantic	high	12579	Burning Cliff D Kabuto	布烏爾伊兜	英詞「burning」應義譯（期望：燃|焰|焔）
-head	need_semantic	high	12580	Crimson Cliff D Kabuto	克伊芙兜・紅	英詞「cliff」應義譯（期望：崖）
 head	need_semantic	high	12584	Crushing Fog D Hachigane	克烏夏伊鉢金	英詞「crushing」應義譯（期望：碎|砕）
 head	need_semantic	high	12585	Valued Word Headguard D	芙阿爾烏護額	英詞「valued」應義譯（期望：珍|貴|重|値|值）
 head	need_semantic	high	12587	Noon Glow Headguard D	恩歐恩歐護額	英詞「noon」應義譯（期望：午）
-head	need_semantic	high	12589	True Shadow Headguard D	特烏斯阿護額	英詞「true」應義譯（期望：真）
 head	need_semantic	high	12796	Rolling Sky Headguard・D	爾歐爾伊護額	英詞「sky」應義譯（期望：天|空）
-head	need_semantic	high	12973	Helm of Hidden Infidelity・Blade	歐芙伊德頭兜	英詞「hidden」應義譯（期望：隠|隱|秘）
-head	need_semantic	high	12974	Helm of Hidden Infidelity F・Blade	歐芙伊德頭兜【Ｆ】	英詞「hidden」應義譯（期望：隠|隱|秘）
-head	need_semantic	high	12975	Helm of Hidden Infidelity FZ・Blade	歐芙伊德頭兜【ＦＺ】	英詞「hidden」應義譯（期望：隠|隱|秘）
-head	need_semantic	high	12976	Helm of Hidden Infidelity HS・Blade	歐芙伊德頭兜【ＨＳ】	英詞「hidden」應義譯（期望：隠|隱|秘）
-head	need_semantic	high	12977	Helm of Hidden Infidelity GS・Blade	歐芙伊德頭兜【ＧＳ】	英詞「hidden」應義譯（期望：隠|隱|秘）
-head	need_semantic	high	12978	Helm of Hidden Infidelity GP・Blade	歐芙伊德頭兜【ＧＰ】	英詞「hidden」應義譯（期望：隠|隱|秘）
-head	need_semantic	high	12979	Helm of Hidden Infidelity ZP・Blade	歐芙伊德頭兜【ＺＰ】	英詞「hidden」應義譯（期望：隠|隱|秘）
-head	need_semantic	high	12980	Helm of Hidden Infidelity・Bow	歐芙伊德頭兜	英詞「hidden」應義譯（期望：隠|隱|秘）
-head	need_semantic	high	12981	Helm of Hidden Infidelity F・Bow	歐芙伊德頭兜【Ｆ】	英詞「hidden」應義譯（期望：隠|隱|秘）
-head	need_semantic	high	12982	Helm of Hidden Infidelity FZ・Bow	歐芙伊德頭兜【ＦＺ】	英詞「hidden」應義譯（期望：隠|隱|秘）
-head	need_semantic	high	12983	Helm of Hidden Infidelity HS・Bow	歐芙伊德頭兜【ＨＳ】	英詞「hidden」應義譯（期望：隠|隱|秘）
-head	need_semantic	high	12984	Helm of Hidden Infidelity GS・Bow	歐芙伊德頭兜【ＧＳ】	英詞「hidden」應義譯（期望：隠|隱|秘）
-head	need_semantic	high	12985	Helm of Hidden Infidelity GP・Bow	歐芙伊德頭兜【ＧＰ】	英詞「hidden」應義譯（期望：隠|隱|秘）
-head	need_semantic	high	12986	Helm of Hidden Infidelity ZP・Bow	歐芙伊德頭兜【ＺＰ】	英詞「hidden」應義譯（期望：隠|隱|秘）
 head	need_semantic	high	13018	Helm of Hidden Infidelity D	歐芙伊德頭兜	英詞「hidden」應義譯（期望：隠|隱|秘）
-head	need_semantic	high	13045	Golden Headdress PD White	格歐爾艾頭兜【ＰＤ】・白	英詞「golden」應義譯（期望：金）
-head	need_semantic	high	13046	Golden Headdress PD Purple	格歐爾艾頭兜【ＰＤ】・紫	英詞「golden」應義譯（期望：金）
-head	need_semantic	high	13047	Golden Headdress PD Green	格歐爾艾頭兜【ＰＤ】・緑	英詞「golden」應義譯（期望：金）
 head	need_semantic	high	13313	Mizuha 【帽子】 PD Blue	水羽頭兜【ＰＤ】	英詞「blue」應義譯（期望：青|藍|蒼）
 head	need_semantic	high	13314	Mizuha 【帽子】 PD Red	水羽頭兜【ＰＤ】	英詞「red」應義譯（期望：赤|紅|緋）
 head	need_semantic	high	13315	Mizuha 【帽子】 PD Yellow	水羽頭兜【ＰＤ】	英詞「yellow」應義譯（期望：黄|黃）
 head	need_semantic	high	13316	Toyotama 【帽子】 PD Blue	豐玉頭兜【ＰＤ】	英詞「blue」應義譯（期望：青|藍|蒼）
 head	need_semantic	high	13317	Toyotama 【帽子】 PD Red	豐玉頭兜【ＰＤ】	英詞「red」應義譯（期望：赤|紅|緋）
 head	need_semantic	high	13318	Toyotama 【帽子】 PD Yellow	豐玉頭兜【ＰＤ】	英詞「yellow」應義譯（期望：黄|黃）
-head	need_semantic	high	13376	Akantor リクン PD Black	霸龍頭兜【ＰＤ】	英詞「black」應義譯（期望：黑|墨）
-head	need_semantic	high	13377	Akantor リクン PD Red	霸龍頭兜【ＰＤ】	英詞「red」應義譯（期望：赤|紅|緋）
-head	need_semantic	high	13378	Akantor リクン PD White	霸龍頭兜【ＰＤ】	英詞「white」應義譯（期望：白）
-head	truncate	blocking	13387	B.Espi D Festa	德祭	疑似截斷／系列名丟失
-head	truncate	blocking	13822	Box Blue D Festa	德祭	疑似截斷／系列名丟失
-head	need_semantic	high	13822	Box Blue D Festa	德祭	英詞「blue」應義譯（期望：青|藍|蒼）
-head	truncate	blocking	13823	Box Red D Festa	德祭	疑似截斷／系列名丟失
-head	need_semantic	high	13823	Box Red D Festa	德祭	英詞「red」應義譯（期望：赤|紅|緋）
-head	need_semantic	high	13862	Gloria D Helm・Water	格歐爾伊頭兜	英詞「water」應義譯（期望：水）
-head	need_semantic	high	13931	Pics D Head・Water	普伊克阿頭兜	英詞「water」應義譯（期望：水）
-head	need_semantic	high	13934	Magos D Head・Water	姆阿格歐頭兜	英詞「water」應義譯（期望：水）
-head	need_semantic	high	13945	Cayssis D Helm Water	克阿伊伊頭兜	英詞「water」應義譯（期望：水）
-head	need_semantic	high	13968	Galitos D Head・Water	格阿爾伊頭兜	英詞「water」應義譯（期望：水）
-head	need_semantic	high	13977	Gold D Helm・Red	德頭兜	英詞「gold」應義譯（期望：金）
-head	need_semantic	high	13978	Gold D Helm・Blue	德頭兜	英詞「gold」應義譯（期望：金）
-head	need_semantic	high	13979	Gold D Helm・Yellow	德頭兜	英詞「gold」應義譯（期望：金）
-head	need_semantic	high	13980	Gold D Helm・Purple	德頭兜	英詞「gold」應義譯（期望：金）
-head	need_semantic	high	13982	Claire D Head・Water	克阿爾艾頭兜	英詞「water」應義譯（期望：水）
-head	need_semantic	high	13991	Star Festival D Mask [Red】	斯阿爾艾帽子・赤	英詞「star」應義譯（期望：星）
-head	need_semantic	high	13992	Star Festival D Mask [Blue】	斯阿爾艾帽子・青	英詞「star」應義譯（期望：星）
-head	need_semantic	high	13993	Star Festival D Mask [Black】	斯阿爾艾帽子・黑	英詞「star」應義譯（期望：星）
-head	need_semantic	high	13994	Star Festival D Mask [White】	斯阿爾艾帽子・白	英詞「star」應義譯（期望：星）
-head	truncate	blocking	14024	Khezu 亜D Festa	亜祭	疑似截斷／系列名丟失
-head	need_semantic	high	14575	Shinobi Mask・Sky D	夏伊恩歐帽子	英詞「sky」應義譯（期望：天|空）
+head	truncate	blocking	13822	Box Blue D Festa	青箱祭	疑似截斷／系列名丟失
+head	truncate	blocking	13823	Box Red D Festa	赤箱祭	疑似截斷／系列名丟失
+head	need_semantic	high	14571	Comrada Helm PD White Red	戰友頭兜【ＰＤ】・赤	英詞「white」應義譯（期望：白）
+head	need_semantic	high	14572	Comrada Helm PD White Blue	戰友頭兜【ＰＤ】・青	英詞「white」應義譯（期望：白）
+head	need_semantic	high	14573	Comrada Helm PD White Yellow	戰友頭兜【ＰＤ】・黄	英詞「white」應義譯（期望：白）
+head	need_semantic	high	14575	Shinobi Mask・Sky D	忍帽子	英詞「sky」應義譯（期望：天|空）
 head	need_semantic	high	14577	Shadow Mask・D	夏阿德歐帽子	英詞「shadow」應義譯（期望：影|闇）
 head	truncate	blocking	14582	Kut-Ku D Festa	怪鳥祭	疑似截斷／系列名丟失
 body	truncate	blocking	67	Dragon Skin	龍皮	疑似截斷／系列名丟失
-body	need_semantic	high	313	Golden Haori・魁	魁羽織	英詞「golden」應義譯（期望：金）
-body	need_semantic	high	329	Golden Haori・魁	魁羽織	英詞「golden」應義譯（期望：金）
 body	need_semantic	high	430	Star Festival Shozoku・Summer [Red 】	斯阿爾艾裝束・赤	英詞「star」應義譯（期望：星）
 body	need_semantic	high	431	Star Festival Shozoku・Summer [Blue 】	斯阿爾艾裝束・青	英詞「star」應義譯（期望：星）
 body	need_semantic	high	432	Star Festival Shozoku・Summer [Black 】	斯阿爾艾裝束・黑	英詞「star」應義譯（期望：星）
@@ -338,230 +59,35 @@ body	need_semantic	high	438	Star Festival Shozoku・織 [Red 】	織裝束・赤
 body	need_semantic	high	439	Star Festival Shozoku・織 [Blue 】	織裝束・青	英詞「star」應義譯（期望：星）
 body	need_semantic	high	440	Star Festival Shozoku・織 [Black 】	織裝束・黑	英詞「star」應義譯（期望：星）
 body	need_semantic	high	441	Star Festival Shozoku・織 [White 】	織裝束・白	英詞「star」應義譯（期望：星）
-body	need_semantic	high	515	Kushala バダル SP Red	鋼龍鎧甲【ＳＰ】	英詞「red」應義譯（期望：赤|紅|緋）
-body	need_semantic	high	516	Kushala バダル SP Yellow	鋼龍鎧甲【ＳＰ】	英詞「yellow」應義譯（期望：黄|黃）
-body	need_semantic	high	517	Kushala バダル SP Green	鋼龍鎧甲【ＳＰ】	英詞「green」應義譯（期望：緑|綠|翠）
-body	need_semantic	high	521	Kirin ケープ SP Red	麒麟鎧甲【ＳＰ】	英詞「red」應義譯（期望：赤|紅|緋）
-body	need_semantic	high	522	Kirin ケープ SP Purple	麒麟鎧甲【ＳＰ】	英詞「purple」應義譯（期望：紫）
-body	need_semantic	high	523	Kirin ケープ SP Black	麒麟鎧甲【ＳＰ】	英詞「black」應義譯（期望：黑|墨）
-body	need_semantic	high	804	Remobra ボディ SP White	翼蛇龍鎧甲【ＳＰ】	英詞「white」應義譯（期望：白）
-body	need_semantic	high	805	Remobra ボディ SP Yellow	翼蛇龍鎧甲【ＳＰ】	英詞「yellow」應義譯（期望：黄|黃）
-body	need_semantic	high	806	Remobra ボディ SP Black	翼蛇龍鎧甲【ＳＰ】	英詞「black」應義譯（期望：黑|墨）
-body	need_semantic	high	1164	Akantor ウルンテ SP Black	霸龍鎧甲【ＳＰ】	英詞「black」應義譯（期望：黑|墨）
-body	need_semantic	high	1165	Akantor ウルンテ SP Red	霸龍鎧甲【ＳＰ】	英詞「red」應義譯（期望：赤|紅|緋）
-body	need_semantic	high	1166	Akantor ウルンテ SP White	霸龍鎧甲【ＳＰ】	英詞「white」應義譯（期望：白）
-body	need_semantic	high	1167	Akantor ウルンペ SP Black	霸龍鎧甲【ＳＰ】	英詞「black」應義譯（期望：黑|墨）
-body	need_semantic	high	1168	Akantor ウルンペ SP Red	霸龍鎧甲【ＳＰ】	英詞「red」應義譯（期望：赤|紅|緋）
-body	need_semantic	high	1169	Akantor ウルンペ SP White	霸龍鎧甲【ＳＰ】	英詞「white」應義譯（期望：白）
-body	need_semantic	high	1629	Kagura 【胴当て】 SP Red	神樂鎧甲【ＳＰ】	英詞「red」應義譯（期望：赤|紅|緋）
-body	need_semantic	high	1630	Kagura 【胴当て】 SP Black	神樂鎧甲【ＳＰ】	英詞「black」應義譯（期望：黑|墨）
-body	need_semantic	high	1631	Kagura 【胴当て】 SP Purple	神樂鎧甲【ＳＰ】	英詞「purple」應義譯（期望：紫）
-body	need_semantic	high	1669	Blue Sky Haori・魁	魁羽織・青	英詞「sky」應義譯（期望：天|空）
-body	need_semantic	high	1682	エ Dios ーツ・Blue	狄奧斯鎧甲	英詞「blue」應義譯（期望：青|藍|蒼）
-body	need_semantic	high	1686	エ Dios ーツ・Red	狄奧斯鎧甲	英詞「red」應義譯（期望：赤|紅|緋）
-body	need_semantic	high	1690	エ Dios ーツ・Yellow	狄奧斯鎧甲	英詞「yellow」應義譯（期望：黄|黃）
-body	need_semantic	high	1694	エ Dios ーツ・Black	狄奧斯鎧甲	英詞「black」應義譯（期望：黑|墨）
-body	need_semantic	high	1742	True 空胴着・Black	空胴着鎧甲・黑	英詞「true」應義譯（期望：真）
-body	need_semantic	high	1743	True 空F胴着・Black	空胴着鎧甲・黑	英詞「true」應義譯（期望：真）
-body	need_semantic	high	1750	True 空胴着・Tea	空胴着鎧甲・茶	英詞「true」應義譯（期望：真）
-body	need_semantic	high	1751	True 空F胴着・Tea	空胴着鎧甲・茶	英詞「true」應義譯（期望：真）
-body	need_semantic	high	1758	True 空胴着・White	空胴着鎧甲・白	英詞「true」應義譯（期望：真）
-body	need_semantic	high	1759	True 空F胴着・White	空胴着鎧甲・白	英詞「true」應義譯（期望：真）
-body	need_semantic	high	1766	True 空胴着・Blue	空胴着鎧甲・青	英詞「true」應義譯（期望：真）
-body	need_semantic	high	1767	True 空F胴着・Blue	空胴着鎧甲・青	英詞「true」應義譯（期望：真）
-body	truncate	blocking	1955	True Shadow Haori・魁	魁羽織	疑似截斷／系列名丟失
-body	need_semantic	high	1955	True Shadow Haori・魁	魁羽織	英詞「true」應義譯（期望：真）
-body	need_semantic	high	2024	Demon ドレス Blue	惡魔鎧甲	英詞「blue」應義譯（期望：青|藍|蒼）
-body	need_semantic	high	2025	Demon Fドレス Blue	惡魔鎧甲	英詞「blue」應義譯（期望：青|藍|蒼）
-body	need_semantic	high	2026	Chaos ドレス Blue	混沌鎧甲	英詞「blue」應義譯（期望：青|藍|蒼）
-body	need_semantic	high	2027	Chaos Fドレス Blue	混沌鎧甲	英詞「blue」應義譯（期望：青|藍|蒼）
-body	need_semantic	high	2028	Demon ドレス Red	惡魔鎧甲	英詞「red」應義譯（期望：赤|紅|緋）
-body	need_semantic	high	2029	Demon Fドレス Red	惡魔鎧甲	英詞「red」應義譯（期望：赤|紅|緋）
-body	need_semantic	high	2030	Chaos ドレス Red	混沌鎧甲	英詞「red」應義譯（期望：赤|紅|緋）
-body	need_semantic	high	2031	Chaos Fドレス Red	混沌鎧甲	英詞「red」應義譯（期望：赤|紅|緋）
-body	need_semantic	high	2032	Demon ドレス Green	惡魔鎧甲	英詞「green」應義譯（期望：緑|綠|翠）
-body	need_semantic	high	2033	Demon Fドレス Green	惡魔鎧甲	英詞「green」應義譯（期望：緑|綠|翠）
-body	need_semantic	high	2034	Chaos ドレス Green	混沌鎧甲	英詞「green」應義譯（期望：緑|綠|翠）
-body	need_semantic	high	2035	Chaos Fドレス Green	混沌鎧甲	英詞「green」應義譯（期望：緑|綠|翠）
-body	need_semantic	high	2036	Demon ドレス White	惡魔鎧甲	英詞「white」應義譯（期望：白）
-body	need_semantic	high	2037	Demon Fドレス White	惡魔鎧甲	英詞「white」應義譯（期望：白）
-body	need_semantic	high	2038	Chaos ドレス White	混沌鎧甲	英詞「white」應義譯（期望：白）
-body	need_semantic	high	2039	Chaos Fドレス White	混沌鎧甲	英詞「white」應義譯（期望：白）
-body	need_semantic	high	2082	マー Gear F Suit・Blue	格艾爾套裝【Ｆ】	英詞「blue」應義譯（期望：青|藍|蒼）
-body	need_semantic	high	2126	White Snake Haori・魁	魁羽織・白	英詞「snake」應義譯（期望：蛇）
-body	truncate	blocking	2381	Valued Word Haori・魁	魁羽織	疑似截斷／系列名丟失
-body	need_semantic	high	2381	Valued Word Haori・魁	魁羽織	英詞「valued」應義譯（期望：珍|貴|重|値|值）
-body	need_semantic	high	2383	Valued Word Haori・Flower	芙阿爾烏羽織	英詞「valued」應義譯（期望：珍|貴|重|値|值）
-body	need_semantic	high	2422	Royal FY Mail	爾歐伊阿鎧甲	英詞「royal」應義譯（期望：王|皇家|王族）
-body	need_semantic	high	2468	Rolling Sky Chestplate・魁	魁胸甲	英詞「sky」應義譯（期望：天|空）
-body	need_semantic	high	2589	Rolling Sky Chestplate・Elegant	爾歐爾伊胸甲	英詞「sky」應義譯（期望：天|空）
-body	need_semantic	high	2945	Issen 【胴当て】・Red	一閃鎧甲	英詞「red」應義譯（期望：赤|紅|緋）
-body	need_semantic	high	2946	Issen F【胴当て】・Red	一閃鎧甲【Ｆ】	英詞「red」應義譯（期望：赤|紅|緋）
-body	need_semantic	high	2947	Issen FZ【胴当て】・Red	一閃鎧甲【ＦＺ】	英詞「red」應義譯（期望：赤|紅|緋）
-body	need_semantic	high	2948	Issen HC【胴当て】・Red	一閃鎧甲【ＨＣ】	英詞「red」應義譯（期望：赤|紅|緋）
-body	need_semantic	high	2949	Issen HS【胴当て】・Red	一閃鎧甲【ＨＳ】	英詞「red」應義譯（期望：赤|紅|緋）
-body	need_semantic	high	2955	Issen 【胴当て】・Blue	一閃鎧甲	英詞「blue」應義譯（期望：青|藍|蒼）
-body	need_semantic	high	2956	Issen F【胴当て】・Blue	一閃鎧甲【Ｆ】	英詞「blue」應義譯（期望：青|藍|蒼）
-body	need_semantic	high	2957	Issen FZ【胴当て】・Blue	一閃鎧甲【ＦＺ】	英詞「blue」應義譯（期望：青|藍|蒼）
-body	need_semantic	high	2958	Issen HC【胴当て】・Blue	一閃鎧甲【ＨＣ】	英詞「blue」應義譯（期望：青|藍|蒼）
-body	need_semantic	high	2959	Issen HS【胴当て】・Blue	一閃鎧甲【ＨＳ】	英詞「blue」應義譯（期望：青|藍|蒼）
-body	need_semantic	high	2965	Issen 【胴当て】・Yellow	一閃鎧甲	英詞「yellow」應義譯（期望：黄|黃）
-body	need_semantic	high	2966	Issen F【胴当て】・Yellow	一閃鎧甲【Ｆ】	英詞「yellow」應義譯（期望：黄|黃）
-body	need_semantic	high	2967	Issen FZ【胴当て】・Yellow	一閃鎧甲【ＦＺ】	英詞「yellow」應義譯（期望：黄|黃）
-body	need_semantic	high	2968	Issen HC【胴当て】・Yellow	一閃鎧甲【ＨＣ】	英詞「yellow」應義譯（期望：黄|黃）
-body	need_semantic	high	2969	Issen HS【胴当て】・Yellow	一閃鎧甲【ＨＳ】	英詞「yellow」應義譯（期望：黄|黃）
-body	need_semantic	high	2975	Issen 【胴当て】・Black	一閃鎧甲	英詞「black」應義譯（期望：黑|墨）
-body	need_semantic	high	2976	Issen F【胴当て】・Black	一閃鎧甲【Ｆ】	英詞「black」應義譯（期望：黑|墨）
-body	need_semantic	high	2977	Issen FZ【胴当て】・Black	一閃鎧甲【ＦＺ】	英詞「black」應義譯（期望：黑|墨）
-body	need_semantic	high	2978	Issen HC【胴当て】・Black	一閃鎧甲【ＨＣ】	英詞「black」應義譯（期望：黑|墨）
-body	need_semantic	high	2979	Issen HS【胴当て】・Black	一閃鎧甲【ＨＳ】	英詞「black」應義譯（期望：黑|墨）
-body	need_semantic	high	4647	True 空FZ胴着・Black	空胴着鎧甲・黑	英詞「true」應義譯（期望：真）
 body	need_semantic	high	4648	True 空HS胴着・Black	空胴着鎧甲・黑	英詞「true」應義譯（期望：真）
 body	need_semantic	high	4649	True 空GS胴着・Black	空胴着鎧甲・黑	英詞「true」應義譯（期望：真）
 body	need_semantic	high	4650	True 空GP胴着・Black	空胴着鎧甲・黑	英詞「true」應義譯（期望：真）
-body	need_semantic	high	4663	True 空FZ胴着・Tea	空胴着鎧甲・茶	英詞「true」應義譯（期望：真）
 body	need_semantic	high	4664	True 空HS胴着・Tea	空胴着鎧甲・茶	英詞「true」應義譯（期望：真）
 body	need_semantic	high	4665	True 空GS胴着・Tea	空胴着鎧甲・茶	英詞「true」應義譯（期望：真）
 body	need_semantic	high	4666	True 空GP胴着・Tea	空胴着鎧甲・茶	英詞「true」應義譯（期望：真）
-body	need_semantic	high	4679	True 空FZ胴着・White	空胴着鎧甲・白	英詞「true」應義譯（期望：真）
 body	need_semantic	high	4680	True 空HS胴着・White	空胴着鎧甲・白	英詞「true」應義譯（期望：真）
 body	need_semantic	high	4681	True 空GS胴着・White	空胴着鎧甲・白	英詞「true」應義譯（期望：真）
 body	need_semantic	high	4682	True 空GP胴着・White	空胴着鎧甲・白	英詞「true」應義譯（期望：真）
-body	need_semantic	high	4695	True 空FZ胴着・Blue	空胴着鎧甲・青	英詞「true」應義譯（期望：真）
 body	need_semantic	high	4696	True 空HS胴着・Blue	空胴着鎧甲・青	英詞「true」應義譯（期望：真）
 body	need_semantic	high	4697	True 空GS胴着・Blue	空胴着鎧甲・青	英詞「true」應義譯（期望：真）
 body	need_semantic	high	4698	True 空GP胴着・Blue	空胴着鎧甲・青	英詞「true」應義譯（期望：真）
-body	need_semantic	high	4707	Demon FZドレス・Blue	惡魔鎧甲	英詞「blue」應義譯（期望：青|藍|蒼）
-body	need_semantic	high	4708	Demon HSドレス・Blue	惡魔鎧甲	英詞「blue」應義譯（期望：青|藍|蒼）
-body	need_semantic	high	4709	Demon GSドレス・Blue	惡魔鎧甲	英詞「blue」應義譯（期望：青|藍|蒼）
-body	need_semantic	high	4710	Demon GPドレス・Blue	惡魔鎧甲	英詞「blue」應義譯（期望：青|藍|蒼）
-body	need_semantic	high	4711	Chaos FZドレス・Blue	混沌鎧甲	英詞「blue」應義譯（期望：青|藍|蒼）
-body	need_semantic	high	4712	Chaos HSドレス・Blue	混沌鎧甲	英詞「blue」應義譯（期望：青|藍|蒼）
-body	need_semantic	high	4713	Chaos GSドレス・Blue	混沌鎧甲	英詞「blue」應義譯（期望：青|藍|蒼）
-body	need_semantic	high	4714	Chaos GPドレス・Blue	混沌鎧甲	英詞「blue」應義譯（期望：青|藍|蒼）
-body	need_semantic	high	4723	Demon FZドレス・Red	惡魔鎧甲	英詞「red」應義譯（期望：赤|紅|緋）
-body	need_semantic	high	4724	Demon HSドレス・Red	惡魔鎧甲	英詞「red」應義譯（期望：赤|紅|緋）
-body	need_semantic	high	4725	Demon GSドレス・Red	惡魔鎧甲	英詞「red」應義譯（期望：赤|紅|緋）
-body	need_semantic	high	4726	Demon GPドレス・Red	惡魔鎧甲	英詞「red」應義譯（期望：赤|紅|緋）
-body	need_semantic	high	4727	Chaos FZドレス・Red	混沌鎧甲	英詞「red」應義譯（期望：赤|紅|緋）
-body	need_semantic	high	4728	Chaos HSドレス・Red	混沌鎧甲	英詞「red」應義譯（期望：赤|紅|緋）
-body	need_semantic	high	4729	Chaos GSドレス・Red	混沌鎧甲	英詞「red」應義譯（期望：赤|紅|緋）
-body	need_semantic	high	4730	Chaos GPドレス・Red	混沌鎧甲	英詞「red」應義譯（期望：赤|紅|緋）
-body	need_semantic	high	4739	Demon FZドレス・Green	惡魔鎧甲	英詞「green」應義譯（期望：緑|綠|翠）
-body	need_semantic	high	4740	Demon HSドレス・Green	惡魔鎧甲	英詞「green」應義譯（期望：緑|綠|翠）
-body	need_semantic	high	4741	Demon GSドレス・Green	惡魔鎧甲	英詞「green」應義譯（期望：緑|綠|翠）
-body	need_semantic	high	4742	Demon GPドレス・Green	惡魔鎧甲	英詞「green」應義譯（期望：緑|綠|翠）
-body	need_semantic	high	4743	Chaos FZドレス・Green	混沌鎧甲	英詞「green」應義譯（期望：緑|綠|翠）
-body	need_semantic	high	4744	Chaos HSドレス・Green	混沌鎧甲	英詞「green」應義譯（期望：緑|綠|翠）
-body	need_semantic	high	4745	Chaos GSドレス・Green	混沌鎧甲	英詞「green」應義譯（期望：緑|綠|翠）
-body	need_semantic	high	4746	Chaos GPドレス・Green	混沌鎧甲	英詞「green」應義譯（期望：緑|綠|翠）
-body	need_semantic	high	4755	Demon FZドレス・White	惡魔鎧甲	英詞「white」應義譯（期望：白）
-body	need_semantic	high	4756	Demon HSドレス・White	惡魔鎧甲	英詞「white」應義譯（期望：白）
-body	need_semantic	high	4757	Demon GSドレス・White	惡魔鎧甲	英詞「white」應義譯（期望：白）
-body	need_semantic	high	4758	Demon GPドレス・White	惡魔鎧甲	英詞「white」應義譯（期望：白）
-body	need_semantic	high	4759	Chaos FZドレス・White	混沌鎧甲	英詞「white」應義譯（期望：白）
-body	need_semantic	high	4760	Chaos HSドレス・White	混沌鎧甲	英詞「white」應義譯（期望：白）
-body	need_semantic	high	4761	Chaos GSドレス・White	混沌鎧甲	英詞「white」應義譯（期望：白）
-body	need_semantic	high	4762	Chaos GPドレス・White	混沌鎧甲	英詞「white」應義譯（期望：白）
-body	need_semantic	high	4771	Issen GS【胴当て】・Red	一閃鎧甲【ＧＳ】	英詞「red」應義譯（期望：赤|紅|緋）
-body	need_semantic	high	4772	Issen GP【胴当て】・Red	一閃鎧甲【ＧＰ】	英詞「red」應義譯（期望：赤|紅|緋）
-body	need_semantic	high	4779	Issen GS【胴当て】・Blue	一閃鎧甲【ＧＳ】	英詞「blue」應義譯（期望：青|藍|蒼）
-body	need_semantic	high	4780	Issen GP【胴当て】・Blue	一閃鎧甲【ＧＰ】	英詞「blue」應義譯（期望：青|藍|蒼）
-body	need_semantic	high	4787	Issen GS【胴当て】・Yellow	一閃鎧甲【ＧＳ】	英詞「yellow」應義譯（期望：黄|黃）
-body	need_semantic	high	4788	Issen GP【胴当て】・Yellow	一閃鎧甲【ＧＰ】	英詞「yellow」應義譯（期望：黄|黃）
-body	need_semantic	high	4795	Issen GS【胴当て】・Black	一閃鎧甲【ＧＳ】	英詞「black」應義譯（期望：黑|墨）
-body	need_semantic	high	4796	Issen GP【胴当て】・Black	一閃鎧甲【ＧＰ】	英詞「black」應義譯（期望：黑|墨）
 body	need_semantic	high	8179	Fog FY【 Haori 】	芙歐格羽織	英詞「fog」應義譯（期望：霧）
-body	need_semantic	high	8316	Silver Ruler G【胴当て】	爾烏爾艾鎧甲【Ｇ】	英詞「silver」應義譯（期望：銀）
-body	need_semantic	high	8317	Silver Ruler GF【胴当て】	爾烏爾艾鎧甲【ＧＦ】	英詞「silver」應義譯（期望：銀）
-body	need_semantic	high	8318	Silver Ruler GX【胴当て】	爾烏爾艾鎧甲【ＧＸ】	英詞「silver」應義譯（期望：銀）
-body	need_semantic	high	8319	Silver Control G【胴当て】	克歐恩歐鎧甲【Ｇ】	英詞「silver」應義譯（期望：銀）
-body	need_semantic	high	8320	Silver Control GF【胴当て】	克歐恩歐鎧甲【ＧＦ】	英詞「silver」應義譯（期望：銀）
-body	need_semantic	high	8321	Silver Control GX【胴当て】	克歐恩歐鎧甲【ＧＸ】	英詞「silver」應義譯（期望：銀）
-body	truncate	blocking	9365	Mark.06F Suit	套裝	疑似截斷／系列名丟失
-body	truncate	blocking	9371	Mark.06F Vest	背心	疑似截斷／系列名丟失
-body	need_semantic	high	10654	Blue Ice Emperor D Mail	伊克艾斯鎧甲・青	英詞「ice」應義譯（期望：氷|冰）
-body	need_semantic	high	10655	White Ice Emperor D Mail	伊克艾斯鎧甲・白	英詞「ice」應義譯（期望：氷|冰）
-body	need_semantic	high	10656	Red Ice Emperor D Mail	伊克艾斯鎧甲・赤	英詞「ice」應義譯（期望：氷|冰）
 body	need_semantic	high	10792	King Beetle D Thorax	克伊恩艾胸甲	英詞「king」應義譯（期望：王）
 body	truncate	blocking	10802	Dragon D Skin	龍皮	疑似截斷／系列名丟失
-body	need_semantic	high	10805	Burning Cliff GX【胴当て】	崖鎧甲【ＧＸ】	英詞「burning」應義譯（期望：燃|焰|焔）
-body	need_semantic	high	10806	Crimson Cliff GX【胴当て】	崖鎧甲【ＧＸ】	英詞「crimson」應義譯（期望：深紅|紅|緋|緋紅|霞）
-body	need_semantic	high	11112	Knight King Chest BM D Blue	克伊格伊胸甲・青	英詞「knight」應義譯（期望：騎士）
-body	need_semantic	high	11113	Knight King Chest BM D Red	克伊格伊胸甲・赤	英詞「knight」應義譯（期望：騎士）
-body	need_semantic	high	11114	Knight King Chest BM D Black	克伊格伊胸甲・黑	英詞「knight」應義譯（期望：騎士）
-body	need_semantic	high	11115	Knight King Chest BM D White	克伊格伊胸甲・白	英詞「knight」應義譯（期望：騎士）
-body	need_semantic	high	11116	Hero King Chest BM D Gold	赫艾爾歐胸甲・金	英詞「king」應義譯（期望：王）
-body	need_semantic	high	11117	Hero King Chest BM D Black	赫艾爾歐胸甲・黑	英詞「king」應義譯（期望：王）
-body	need_semantic	high	11118	Hero King Chest BM D White	赫艾爾歐胸甲・白	英詞「king」應義譯（期望：王）
-body	need_semantic	high	11119	Hero King Chest BM D Red	赫艾爾歐胸甲・赤	英詞「king」應義譯（期望：王）
-body	need_semantic	high	11236	Piercing Light Suit	普伊爾伊套裝	英詞「light」應義譯（期望：光|明）
-body	need_semantic	high	11237	Piercing Light F Suit	普伊爾伊套裝【Ｆ】	英詞「light」應義譯（期望：光|明）
-body	need_semantic	high	11238	Piercing Light FZ Suit	普伊爾伊套裝【ＦＺ】	英詞「light」應義譯（期望：光|明）
-body	need_semantic	high	11239	Piercing Light HS Suit	普伊爾伊套裝【ＨＳ】	英詞「light」應義譯（期望：光|明）
-body	need_semantic	high	11240	Piercing Light GS Suit	普伊爾伊套裝【ＧＳ】	英詞「light」應義譯（期望：光|明）
-body	need_semantic	high	11241	Piercing Light GP Suit	普伊爾伊套裝【ＧＰ】	英詞「light」應義譯（期望：光|明）
-body	need_semantic	high	11242	Piercing Light ZP Suit	普伊爾伊套裝【ＺＰ】	英詞「light」應義譯（期望：光|明）
 body	need_semantic	high	11536	Rampage D Mail	爾阿姆阿鎧甲	英詞「rampage」應義譯（期望：狂暴|暴）
 body	need_semantic	high	11537	Blaze D Mail	布阿茲艾鎧甲	英詞「blaze」應義譯（期望：烈焔|焰|焔|炎）
 body	need_semantic	high	11546	Guild Bard C Suit	獵團套裝	英詞「bard」應義譯（期望：吟遊|詩人|詩）
 body	need_semantic	high	11547	Scholar C Suit	施歐爾阿套裝	英詞「scholar」應義譯（期望：學者|学士|學）
 body	truncate	blocking	11560	Dragon SC Skin	龍皮	疑似截斷／系列名丟失
 body	truncate	blocking	11562	Dragon GD Skin	龍皮	疑似截斷／系列名丟失
-body	need_semantic	high	11567	Garnet D Mail	格阿爾艾鎧甲	英詞「garnet」應義譯（期望：石榴）
-body	need_semantic	high	11568	Amethyst D Mail	阿姆艾斯鎧甲	英詞「amethyst」應義譯（期望：紫水晶|紫晶）
-body	need_semantic	high	11569	Coral D Mail	克歐爾阿鎧甲	英詞「coral」應義譯（期望：珊瑚）
-body	need_semantic	high	11570	Quartz D Mail	斯烏爾鎧甲	英詞「quartz」應義譯（期望：石英|水晶）
-body	need_semantic	high	11571	Emerald D Mail	艾姆艾爾鎧甲	英詞「emerald」應義譯（期望：翠|綠寶石|緑|祖母綠）
-body	need_semantic	high	11572	Pearl D Mail	普艾爾鎧甲	英詞「pearl」應義譯（期望：珠|珍珠）
-body	need_semantic	high	11573	Ruby D Mail	爾烏布鎧甲	英詞「ruby」應義譯（期望：紅寶石|紅玉|紅）
-body	need_semantic	high	11574	Sapphire D Mail	斯阿普伊鎧甲	英詞「sapphire」應義譯（期望：藍寶石|藍玉|藍）
-body	need_semantic	high	11575	Topaz D Vest	特歐普阿背心	英詞「topaz」應義譯（期望：黄玉|黃玉|托帕）
-body	need_semantic	high	11576	Tourmaline D Vest	特歐爾阿背心	英詞「tourmaline」應義譯（期望：電氣石|碧璽|托瑪琳|電気石）
-body	need_semantic	high	11577	Lapis D Vest	爾阿普伊背心	英詞「lapis」應義譯（期望：青金|琉璃）
-body	need_semantic	high	11578	Hisui D Mail	赫伊斯烏鎧甲	英詞「hisui」應義譯（期望：翡翠）
-body	need_semantic	high	11579	Onyx D Mail	歐恩鎧甲	英詞「onyx」應義譯（期望：縞瑪瑙|瑪瑙|縞|縞瑪）
-body	need_semantic	high	11609	Burning Cliff D【胴当て】	崖鎧甲	英詞「burning」應義譯（期望：燃|焰|焔）
-body	need_semantic	high	11610	Crimson Cliff D【胴当て】	崖鎧甲	英詞「crimson」應義譯（期望：深紅|紅|緋|緋紅|霞）
+body	need_semantic	high	11609	Burning Cliff D【胴当て】	布烏爾伊胴當	英詞「burning」應義譯（期望：燃|焰|焔）
 body	need_semantic	high	11614	Crushing Fog D [Haori 】	克烏夏伊羽織	英詞「crushing」應義譯（期望：碎|砕）
 body	need_semantic	high	11615	Valued Word Haori D	芙阿爾烏羽織	英詞「valued」應義譯（期望：珍|貴|重|値|值）
 body	need_semantic	high	11617	Noon Glow Haori D	恩歐恩歐羽織	英詞「noon」應義譯（期望：午）
-body	need_semantic	high	11619	True Shadow Haori D	特烏斯阿羽織	英詞「true」應義譯（期望：真）
 body	need_semantic	high	11820	Rolling Sky Chestplate・D	爾歐爾伊胸甲	英詞「sky」應義譯（期望：天|空）
-body	need_semantic	high	12040	Kushala バダル PD Red	鋼龍鎧甲【ＰＤ】	英詞「red」應義譯（期望：赤|紅|緋）
-body	need_semantic	high	12041	Kushala バダル PD Yellow	鋼龍鎧甲【ＰＤ】	英詞「yellow」應義譯（期望：黄|黃）
-body	need_semantic	high	12042	Kushala バダル PD Green	鋼龍鎧甲【ＰＤ】	英詞「green」應義譯（期望：緑|綠|翠）
-body	need_semantic	high	12262	Remobra ボディ PD White	翼蛇龍鎧甲【ＰＤ】	英詞「white」應義譯（期望：白）
-body	need_semantic	high	12263	Remobra ボディ PD Yellow	翼蛇龍鎧甲【ＰＤ】	英詞「yellow」應義譯（期望：黄|黃）
-body	need_semantic	high	12264	Remobra ボディ PD Black	翼蛇龍鎧甲【ＰＤ】	英詞「black」應義譯（期望：黑|墨）
-body	need_semantic	high	12307	Akantor ウルンテ PD Black	霸龍鎧甲【ＰＤ】	英詞「black」應義譯（期望：黑|墨）
-body	need_semantic	high	12308	Akantor ウルンテ PD Red	霸龍鎧甲【ＰＤ】	英詞「red」應義譯（期望：赤|紅|緋）
-body	need_semantic	high	12309	Akantor ウルンテ PD White	霸龍鎧甲【ＰＤ】	英詞「white」應義譯（期望：白）
-body	need_semantic	high	12310	Akantor ウルンペ PD Black	霸龍鎧甲【ＰＤ】	英詞「black」應義譯（期望：黑|墨）
-body	need_semantic	high	12311	Akantor ウルンペ PD Red	霸龍鎧甲【ＰＤ】	英詞「red」應義譯（期望：赤|紅|緋）
-body	need_semantic	high	12312	Akantor ウルンペ PD White	霸龍鎧甲【ＰＤ】	英詞「white」應義譯（期望：白）
-body	need_semantic	high	12701	Kagura 【胴当て】 PD Red	神樂鎧甲【ＰＤ】	英詞「red」應義譯（期望：赤|紅|緋）
-body	need_semantic	high	12702	Kagura 【胴当て】 PD Black	神樂鎧甲【ＰＤ】	英詞「black」應義譯（期望：黑|墨）
-body	need_semantic	high	12703	Kagura 【胴当て】 PD Purple	神樂鎧甲【ＰＤ】	英詞「purple」應義譯（期望：紫）
-body	need_semantic	high	12751	Gloria D Mail・Water	格歐爾伊鎧甲	英詞「water」應義譯（期望：水）
-body	need_semantic	high	12816	Pics D Vest・Water	普伊克阿背心	英詞「water」應義譯（期望：水）
-body	need_semantic	high	12819	Magos D Mail・Water	姆阿格歐鎧甲	英詞「water」應義譯（期望：水）
-body	need_semantic	high	12830	Cayssis D Mail Water	克阿伊伊鎧甲	英詞「water」應義譯（期望：水）
-body	need_semantic	high	12853	Galitos D Vest・Water	格阿爾伊背心	英詞「water」應義譯（期望：水）
-body	need_semantic	high	12862	Gold D Mail・Red	德鎧甲	英詞「gold」應義譯（期望：金）
-body	need_semantic	high	12863	Gold D Mail・Blue	德鎧甲	英詞「gold」應義譯（期望：金）
-body	need_semantic	high	12864	Gold D Mail・Yellow	德鎧甲	英詞「gold」應義譯（期望：金）
-body	need_semantic	high	12865	Gold D Mail・Purple	德鎧甲	英詞「gold」應義譯（期望：金）
-body	need_semantic	high	12867	Claire D Vest・Water	克阿爾艾背心	英詞「water」應義譯（期望：水）
-body	need_semantic	high	12876	Star Festival D Shozoku [Red 】	斯阿爾艾裝束・赤	英詞「star」應義譯（期望：星）
-body	need_semantic	high	12877	Star Festival D Shozoku [Blue 】	斯阿爾艾裝束・青	英詞「star」應義譯（期望：星）
-body	need_semantic	high	12878	Star Festival D Shozoku [Black 】	斯阿爾艾裝束・黑	英詞「star」應義譯（期望：星）
-body	need_semantic	high	12879	Star Festival D Shozoku [White 】	斯阿爾艾裝束・白	英詞「star」應義譯（期望：星）
-body	need_semantic	high	13166	Issen D【胴当て】・Red	一閃鎧甲	英詞「red」應義譯（期望：赤|紅|緋）
 body	need_semantic	high	13459	Shadow Shozoku・D	夏阿德歐裝束	英詞「shadow」應義譯（期望：影|闇）
 arms	truncate	blocking	64	Dragon クロウ	龍爪	疑似截斷／系列名丟失
 arms	truncate	blocking	65	Dragon フィスト	龍拳	疑似截斷／系列名丟失
-arms	truncate	blocking	221	Puppeteer ノ Kote	籠手	疑似截斷／系列名丟失
 arms	need_semantic	high	425	Star Festival Gauntlets・Summer [Red 】	斯阿爾艾手甲・赤	英詞「star」應義譯（期望：星）
 arms	need_semantic	high	426	Star Festival Gauntlets・Summer [Blue 】	斯阿爾艾手甲・青	英詞「star」應義譯（期望：星）
 arms	need_semantic	high	427	Star Festival Gauntlets・Summer [Black 】	斯阿爾艾手甲・黑	英詞「star」應義譯（期望：星）
@@ -570,83 +96,13 @@ arms	need_semantic	high	433	Star Festival Gauntlets・織 [Red 】	織手甲・�
 arms	need_semantic	high	434	Star Festival Gauntlets・織 [Blue 】	織手甲・青	英詞「star」應義譯（期望：星）
 arms	need_semantic	high	435	Star Festival Gauntlets・織 [Black 】	織手甲・黑	英詞「star」應義譯（期望：星）
 arms	need_semantic	high	436	Star Festival Gauntlets・織 [White 】	織手甲・白	英詞「star」應義譯（期望：星）
-arms	need_semantic	high	666	Demon Lord Kote	德艾姆歐籠手	英詞「demon」應義譯（期望：鬼|魔）
-arms	need_semantic	high	1034	Death Stench アルム SP White	阿魯穆護腕【ＳＰ】	英詞「white」應義譯（期望：白）
-arms	need_semantic	high	1035	Death Stench アルム SP Red	阿魯穆護腕【ＳＰ】	英詞「red」應義譯（期望：赤|紅|緋）
-arms	need_semantic	high	1036	Death Stench アルム SP Blue	阿魯穆護腕【ＳＰ】	英詞「blue」應義譯（期望：青|藍|蒼）
-arms	need_semantic	high	1656	Blue Sky Sleeve・魁	魁袖・青	英詞「sky」應義譯（期望：天|空）
-arms	truncate	blocking	1658	Welkin Sleeve・魁	魁袖	疑似截斷／系列名丟失
-arms	need_semantic	high	1729	True 空 Kote・Black	空籠手・黑	英詞「true」應義譯（期望：真）
-arms	need_semantic	high	1730	True 空F Kote・Black	空籠手【Ｆ】・黑	英詞「true」應義譯（期望：真）
-arms	need_semantic	high	1737	True 空 Kote・Tea	空籠手・茶	英詞「true」應義譯（期望：真）
-arms	need_semantic	high	1738	True 空F Kote・Tea	空籠手【Ｆ】・茶	英詞「true」應義譯（期望：真）
-arms	need_semantic	high	1745	True 空 Kote・White	空籠手・白	英詞「true」應義譯（期望：真）
-arms	need_semantic	high	1746	True 空F Kote・White	空籠手【Ｆ】・白	英詞「true」應義譯（期望：真）
-arms	need_semantic	high	1753	True 空 Kote・Blue	空籠手・青	英詞「true」應義譯（期望：真）
-arms	need_semantic	high	1754	True 空F Kote・Blue	空籠手【Ｆ】・青	英詞「true」應義譯（期望：真）
-arms	need_semantic	high	1807	Demon Lord Kote・魁	魁籠手	英詞「demon」應義譯（期望：鬼|魔）
 arms	truncate	blocking	1938	Okami [Sleeves 】	狼袖	疑似截斷／系列名丟失
-arms	truncate	blocking	1942	True Shadow Sleeve・魁	魁袖	疑似截斷／系列名丟失
-arms	need_semantic	high	1942	True Shadow Sleeve・魁	魁袖	英詞「true」應義譯（期望：真）
-arms	need_semantic	high	2069	マー Gear F Guard・Blue	格艾爾臂甲【Ｆ】	英詞「blue」應義譯（期望：青|藍|蒼）
-arms	need_semantic	high	2113	White Snake Sleeve・魁	魁袖・白	英詞「snake」應義譯（期望：蛇）
-arms	truncate	blocking	2368	Valued Word Sleeve・魁	魁袖	疑似截斷／系列名丟失
-arms	need_semantic	high	2368	Valued Word Sleeve・魁	魁袖	英詞「valued」應義譯（期望：珍|貴|重|値|值）
-arms	need_semantic	high	2370	Valued Word Sleeve・Flower	芙阿爾烏袖	英詞「valued」應義譯（期望：珍|貴|重|値|值）
-arms	need_semantic	high	2399	Demon Lord Kote・Extreme	德艾姆歐籠手	英詞「demon」應義譯（期望：鬼|魔）
-arms	need_semantic	high	2400	Demon Lord Kote・Heaven	德艾姆歐籠手・天	英詞「demon」應義譯（期望：鬼|魔）
-arms	need_semantic	high	2409	Royal FY Arms	爾歐伊阿護腕	英詞「royal」應義譯（期望：王|皇家|王族）
-arms	need_semantic	high	2455	Rolling Sky Kote・魁	魁籠手	英詞「sky」應義譯（期望：天|空）
-arms	need_semantic	high	2576	Rolling Sky Kote・Elegant	爾歐爾伊籠手	英詞「sky」應義譯（期望：天|空）
-arms	need_semantic	high	4640	True 空FZ Kote・Black	空籠手【ＦＺ】・黑	英詞「true」應義譯（期望：真）
-arms	need_semantic	high	4641	True 空HS Kote・Black	空籠手【ＨＳ】・黑	英詞「true」應義譯（期望：真）
-arms	need_semantic	high	4642	True 空GS Kote・Black	空籠手【ＧＳ】・黑	英詞「true」應義譯（期望：真）
-arms	need_semantic	high	4643	True 空GP Kote・Black	空籠手【ＧＰ】・黑	英詞「true」應義譯（期望：真）
-arms	need_semantic	high	4656	True 空FZ Kote・Tea	空籠手【ＦＺ】・茶	英詞「true」應義譯（期望：真）
-arms	need_semantic	high	4657	True 空HS Kote・Tea	空籠手【ＨＳ】・茶	英詞「true」應義譯（期望：真）
-arms	need_semantic	high	4658	True 空GS Kote・Tea	空籠手【ＧＳ】・茶	英詞「true」應義譯（期望：真）
-arms	need_semantic	high	4659	True 空GP Kote・Tea	空籠手【ＧＰ】・茶	英詞「true」應義譯（期望：真）
-arms	need_semantic	high	4672	True 空FZ Kote・White	空籠手【ＦＺ】・白	英詞「true」應義譯（期望：真）
-arms	need_semantic	high	4673	True 空HS Kote・White	空籠手【ＨＳ】・白	英詞「true」應義譯（期望：真）
-arms	need_semantic	high	4674	True 空GS Kote・White	空籠手【ＧＳ】・白	英詞「true」應義譯（期望：真）
-arms	need_semantic	high	4675	True 空GP Kote・White	空籠手【ＧＰ】・白	英詞「true」應義譯（期望：真）
-arms	need_semantic	high	4688	True 空FZ Kote・Blue	空籠手【ＦＺ】・青	英詞「true」應義譯（期望：真）
-arms	need_semantic	high	4689	True 空HS Kote・Blue	空籠手【ＨＳ】・青	英詞「true」應義譯（期望：真）
-arms	need_semantic	high	4690	True 空GS Kote・Blue	空籠手【ＧＳ】・青	英詞「true」應義譯（期望：真）
-arms	need_semantic	high	4691	True 空GP Kote・Blue	空籠手【ＧＰ】・青	英詞「true」應義譯（期望：真）
 arms	truncate	blocking	8170	Fog [Sleeve 】	霧袖	疑似截斷／系列名丟失
 arms	need_semantic	high	8172	Fog FY [Sleeve 】	芙歐格袖	英詞「fog」應義譯（期望：霧）
-arms	need_semantic	high	8189	Demon Lord Kote G	德艾姆歐籠手【Ｇ】	英詞「demon」應義譯（期望：鬼|魔）
-arms	need_semantic	high	8190	Demon Lord Kote GF	德艾姆歐籠手【ＧＦ】	英詞「demon」應義譯（期望：鬼|魔）
-arms	need_semantic	high	8191	Demon Lord Kote GX	德艾姆歐籠手【ＧＸ】	英詞「demon」應義譯（期望：鬼|魔）
-arms	truncate	blocking	9356	Mark.06F Arms	護腕	疑似截斷／系列名丟失
-arms	truncate	blocking	9362	Mark.06F Guard	臂甲	疑似截斷／系列名丟失
-arms	need_semantic	high	9810	Demon Tale Kote G	德艾姆歐籠手【Ｇ】	英詞「demon」應義譯（期望：鬼|魔）
-arms	need_semantic	high	9811	Demon Tale Kote GF	德艾姆歐籠手【ＧＦ】	英詞「demon」應義譯（期望：鬼|魔）
-arms	need_semantic	high	9812	Demon Tale Kote GX	德艾姆歐籠手【ＧＸ】	英詞「demon」應義譯（期望：鬼|魔）
-arms	need_semantic	high	10645	Blue Ice Emperor D Arms	伊克艾斯護腕・青	英詞「ice」應義譯（期望：氷|冰）
-arms	need_semantic	high	10646	White Ice Emperor D Arms	伊克艾斯護腕・白	英詞「ice」應義譯（期望：氷|冰）
-arms	need_semantic	high	10647	Red Ice Emperor D Arms	伊克艾斯護腕・赤	英詞「ice」應義譯（期望：氷|冰）
 arms	need_semantic	high	10782	King Beetle D Brachia	克伊恩艾臂甲	英詞「king」應義譯（期望：王）
-arms	need_semantic	high	10784	Demon Lord Kote D	德艾姆歐籠手	英詞「demon」應義譯（期望：鬼|魔）
 arms	need_semantic	high	10785	Demon Tale Kote D	德艾姆歐籠手	英詞「demon」應義譯（期望：鬼|魔）
 arms	truncate	blocking	10791	Dragon Dクロウ	龍爪	疑似截斷／系列名丟失
 arms	truncate	blocking	10792	Dragon Dフィスト	龍拳	疑似截斷／系列名丟失
-arms	need_semantic	high	11102	Knight King Arms BM D Blue	克伊格伊護腕・青	英詞「knight」應義譯（期望：騎士）
-arms	need_semantic	high	11103	Knight King Arms BM D Red	克伊格伊護腕・赤	英詞「knight」應義譯（期望：騎士）
-arms	need_semantic	high	11104	Knight King Arms BM D Black	克伊格伊護腕・黑	英詞「knight」應義譯（期望：騎士）
-arms	need_semantic	high	11105	Knight King Arms BM D White	克伊格伊護腕・白	英詞「knight」應義譯（期望：騎士）
-arms	need_semantic	high	11106	Hero King Arms BM D Gold	赫艾爾歐護腕・金	英詞「king」應義譯（期望：王）
-arms	need_semantic	high	11107	Hero King Arms BM D Black	赫艾爾歐護腕・黑	英詞「king」應義譯（期望：王）
-arms	need_semantic	high	11108	Hero King Arms BM D White	赫艾爾歐護腕・白	英詞「king」應義譯（期望：王）
-arms	need_semantic	high	11109	Hero King Arms BM D Red	赫艾爾歐護腕・赤	英詞「king」應義譯（期望：王）
-arms	need_semantic	high	11226	Piercing Light Arms	普伊爾伊護腕	英詞「light」應義譯（期望：光|明）
-arms	need_semantic	high	11227	Piercing Light F Arms	普伊爾伊護腕【Ｆ】	英詞「light」應義譯（期望：光|明）
-arms	need_semantic	high	11228	Piercing Light FZ Arms	普伊爾伊護腕【ＦＺ】	英詞「light」應義譯（期望：光|明）
-arms	need_semantic	high	11229	Piercing Light HS Arms	普伊爾伊護腕【ＨＳ】	英詞「light」應義譯（期望：光|明）
-arms	need_semantic	high	11230	Piercing Light GS Arms	普伊爾伊護腕【ＧＳ】	英詞「light」應義譯（期望：光|明）
-arms	need_semantic	high	11231	Piercing Light GP Arms	普伊爾伊護腕【ＧＰ】	英詞「light」應義譯（期望：光|明）
-arms	need_semantic	high	11232	Piercing Light ZP Arms	普伊爾伊護腕【ＺＰ】	英詞「light」應義譯（期望：光|明）
 arms	need_semantic	high	11526	Rampage D Arms	爾阿姆阿護腕	英詞「rampage」應義譯（期望：狂暴|暴）
 arms	need_semantic	high	11527	Blaze D Arms	布阿茲艾護腕	英詞「blaze」應義譯（期望：烈焔|焰|焔|炎）
 arms	need_semantic	high	11536	Guild Bard C Arms	獵團護腕	英詞「bard」應義譯（期望：吟遊|詩人|詩）
@@ -656,68 +112,14 @@ arms	truncate	blocking	11549	Dragon SCクロウ	龍爪	疑似截斷／系列名�
 arms	truncate	blocking	11550	Dragon SCフィスト	龍拳	疑似截斷／系列名丟失
 arms	truncate	blocking	11551	Dragon GDクロウ	龍爪	疑似截斷／系列名丟失
 arms	truncate	blocking	11552	Dragon GDフィスト	龍拳	疑似截斷／系列名丟失
-arms	need_semantic	high	11557	Garnet D Arms	格阿爾艾護腕	英詞「garnet」應義譯（期望：石榴）
-arms	need_semantic	high	11558	Amethyst D Arms	阿姆艾斯護腕	英詞「amethyst」應義譯（期望：紫水晶|紫晶）
-arms	need_semantic	high	11559	Coral D Arms	克歐爾阿護腕	英詞「coral」應義譯（期望：珊瑚）
-arms	need_semantic	high	11560	Quartz D Arms	斯烏爾護腕	英詞「quartz」應義譯（期望：石英|水晶）
-arms	need_semantic	high	11561	Emerald D Arms	艾姆艾爾護腕	英詞「emerald」應義譯（期望：翠|綠寶石|緑|祖母綠）
-arms	need_semantic	high	11562	Pearl D Arms	普艾爾護腕	英詞「pearl」應義譯（期望：珠|珍珠）
-arms	need_semantic	high	11563	Ruby D Arms	爾烏布護腕	英詞「ruby」應義譯（期望：紅寶石|紅玉|紅）
-arms	need_semantic	high	11564	Sapphire D Arms	斯阿普伊護腕	英詞「sapphire」應義譯（期望：藍寶石|藍玉|藍）
-arms	need_semantic	high	11565	Topaz D Guard	特歐普阿臂甲	英詞「topaz」應義譯（期望：黄玉|黃玉|托帕）
-arms	need_semantic	high	11566	Tourmaline D Guard	特歐爾阿臂甲	英詞「tourmaline」應義譯（期望：電氣石|碧璽|托瑪琳|電気石）
-arms	need_semantic	high	11567	Lapis D Guard	爾阿普伊臂甲	英詞「lapis」應義譯（期望：青金|琉璃）
-arms	need_semantic	high	11568	Hisui D Arms	赫伊斯烏護腕	英詞「hisui」應義譯（期望：翡翠）
-arms	need_semantic	high	11569	Onyx D Arms	歐恩護腕	英詞「onyx」應義譯（期望：縞瑪瑙|瑪瑙|縞|縞瑪）
 arms	need_semantic	high	11599	Burning Cliff D [Kote 】	布烏爾伊籠手	英詞「burning」應義譯（期望：燃|焰|焔）
-arms	need_semantic	high	11600	Crimson Cliff D [Kote 】	克伊芙籠手・紅	英詞「cliff」應義譯（期望：崖）
 arms	need_semantic	high	11604	Crushing Fog D [Sleeve 】	克烏夏伊袖	英詞「crushing」應義譯（期望：碎|砕）
 arms	need_semantic	high	11605	Valued Word Sleeve D	芙阿爾烏袖	英詞「valued」應義譯（期望：珍|貴|重|値|值）
 arms	need_semantic	high	11607	Noon Glow Sleeve D	恩歐恩歐袖	英詞「noon」應義譯（期望：午）
-arms	need_semantic	high	11609	True Shadow Sleeve D	特烏斯阿袖	英詞「true」應義譯（期望：真）
 arms	need_semantic	high	11810	Rolling Sky Kote・D	爾歐爾伊籠手	英詞「sky」應義譯（期望：天|空）
-arms	need_semantic	high	11931	Dragon Slayer Armor・Kote	德阿格歐籠手	英詞「dragon」應義譯（期望：龍）
-arms	need_semantic	high	11932	Dragon Slayer Armor F・Kote	德阿格歐籠手【Ｆ】	英詞「dragon」應義譯（期望：龍）
-arms	need_semantic	high	11933	Dragon Slayer Armor FZ・Kote	德阿格歐籠手【ＦＺ】	英詞「dragon」應義譯（期望：龍）
-arms	need_semantic	high	11934	Dragon Slayer Armor HS・Kote	德阿格歐籠手【ＨＳ】	英詞「dragon」應義譯（期望：龍）
-arms	need_semantic	high	11935	Dragon Slayer Armor GS・Kote	德阿格歐籠手【ＧＳ】	英詞「dragon」應義譯（期望：龍）
-arms	need_semantic	high	11936	Dragon Slayer Armor GP・Kote	德阿格歐籠手【ＧＰ】	英詞「dragon」應義譯（期望：龍）
-arms	need_semantic	high	11937	Dragon Slayer Armor ZP・Kote	德阿格歐籠手【ＺＰ】	英詞「dragon」應義譯（期望：龍）
-arms	need_semantic	high	11938	Dragon Slayer Armor・Gauntlets	德阿格歐手甲	英詞「dragon」應義譯（期望：龍）
-arms	need_semantic	high	11939	Dragon Slayer Armor F・Gauntlets	德阿格歐手甲【Ｆ】	英詞「dragon」應義譯（期望：龍）
-arms	need_semantic	high	11940	Dragon Slayer Armor FZ・Gauntlets	德阿格歐手甲【ＦＺ】	英詞「dragon」應義譯（期望：龍）
-arms	need_semantic	high	11941	Dragon Slayer Armor HS・Gauntlets	德阿格歐手甲【ＨＳ】	英詞「dragon」應義譯（期望：龍）
-arms	need_semantic	high	11942	Dragon Slayer Armor GS・Gauntlets	德阿格歐手甲【ＧＳ】	英詞「dragon」應義譯（期望：龍）
-arms	need_semantic	high	11943	Dragon Slayer Armor GP・Gauntlets	德阿格歐手甲【ＧＰ】	英詞「dragon」應義譯（期望：龍）
-arms	need_semantic	high	11944	Dragon Slayer Armor ZP・Gauntlets	德阿格歐手甲【ＺＰ】	英詞「dragon」應義譯（期望：龍）
-arms	need_semantic	high	12288	Death Stench アルム PD White	阿魯穆護腕【ＰＤ】	英詞「white」應義譯（期望：白）
-arms	need_semantic	high	12289	Death Stench アルム PD Red	阿魯穆護腕【ＰＤ】	英詞「red」應義譯（期望：赤|紅|緋）
-arms	need_semantic	high	12290	Death Stench アルム PD Blue	阿魯穆護腕【ＰＤ】	英詞「blue」應義譯（期望：青|藍|蒼）
-arms	need_semantic	high	12741	Gloria D Arms・Water	格歐爾伊護腕	英詞「water」應義譯（期望：水）
-arms	need_semantic	high	12806	Pics D Arms・Water	普伊克阿護腕	英詞「water」應義譯（期望：水）
-arms	need_semantic	high	12809	Magos D Arms・Water	姆阿格歐護腕	英詞「water」應義譯（期望：水）
-arms	need_semantic	high	12820	Cayssis D Arms Water	克阿伊伊護腕	英詞「water」應義譯（期望：水）
-arms	need_semantic	high	12843	Galitos D Arms・Water	格阿爾伊護腕	英詞「water」應義譯（期望：水）
-arms	need_semantic	high	12852	Gold D Arms・Red	德護腕	英詞「gold」應義譯（期望：金）
-arms	need_semantic	high	12853	Gold D Arms・Blue	德護腕	英詞「gold」應義譯（期望：金）
-arms	need_semantic	high	12854	Gold D Arms・Yellow	德護腕	英詞「gold」應義譯（期望：金）
-arms	need_semantic	high	12855	Gold D Arms・Purple	德護腕	英詞「gold」應義譯（期望：金）
-arms	need_semantic	high	12857	Claire D Arms・Water	克阿爾艾護腕	英詞「water」應義譯（期望：水）
-arms	need_semantic	high	12866	Star Festival D Gauntlets [Red 】	斯阿爾艾手甲・赤	英詞「star」應義譯（期望：星）
-arms	need_semantic	high	12867	Star Festival D Gauntlets [Blue 】	斯阿爾艾手甲・青	英詞「star」應義譯（期望：星）
-arms	need_semantic	high	12868	Star Festival D Gauntlets [Black 】	斯阿爾艾手甲・黑	英詞「star」應義譯（期望：星）
-arms	need_semantic	high	12869	Star Festival D Gauntlets [White 】	斯阿爾艾手甲・白	英詞「star」應義譯（期望：星）
 arms	need_semantic	high	13449	Shadow Kote・D	夏阿德歐籠手	英詞「shadow」應義譯（期望：影|闇）
 waist	need_semantic	high	2	Skin Light Belt	斯伊恩伊腰帶	英詞「light」應義譯（期望：光|明）
 waist	truncate	blocking	216	Golden Obi	金帶	疑似截斷／系列名丟失
-waist	truncate	blocking	217	Puppeteer ノ Obi	帶	疑似截斷／系列名丟失
-waist	need_semantic	high	219	White Fatalis テイル	黑龍腰甲	英詞「white」應義譯（期望：白）
-waist	need_semantic	high	247	White Cat テイル	猫腰甲	英詞「white」應義譯（期望：白）
-waist	need_semantic	high	248	Black Cat テイル	猫腰甲	英詞「black」應義譯（期望：黑|墨）
-waist	need_semantic	high	249	Gold Cat テイル	猫腰甲	英詞「gold」應義譯（期望：金）
-waist	need_semantic	high	257	Red Cat Fテイル	猫腰甲	英詞「red」應義譯（期望：赤|紅|緋）
-waist	truncate	blocking	309	Puppeteer ノ Obi・魁	魁帶	疑似截斷／系列名丟失
-waist	truncate	blocking	325	Puppeteer ノ Obi・魁	魁帶	疑似截斷／系列名丟失
 waist	need_semantic	high	432	Star Festival Obi・Summer 【 Red 】	斯阿爾艾帶・赤	英詞「star」應義譯（期望：星）
 waist	need_semantic	high	433	Star Festival Obi・Summer 【 Blue 】	斯阿爾艾帶・青	英詞「star」應義譯（期望：星）
 waist	need_semantic	high	434	Star Festival Obi・Summer 【 Black 】	斯阿爾艾帶・黑	英詞「star」應義譯（期望：星）
@@ -726,21 +128,7 @@ waist	need_semantic	high	440	Star Festival Obi・織【 Red 】	織帶・赤	英
 waist	need_semantic	high	441	Star Festival Obi・織【 Blue 】	織帶・青	英詞「star」應義譯（期望：星）
 waist	need_semantic	high	442	Star Festival Obi・織【 Black 】	織帶・黑	英詞「star」應義譯（期望：星）
 waist	need_semantic	high	443	Star Festival Obi・織【 White 】	織帶・白	英詞「star」應義譯（期望：星）
-waist	need_semantic	high	538	Kushala アンダ SP Red	鋼龍腰甲【ＳＰ】	英詞「red」應義譯（期望：赤|紅|緋）
-waist	need_semantic	high	539	Kushala アンダ SP Yellow	鋼龍腰甲【ＳＰ】	英詞「yellow」應義譯（期望：黄|黃）
-waist	need_semantic	high	540	Kushala アンダ SP Green	鋼龍腰甲【ＳＰ】	英詞「green」應義譯（期望：緑|綠|翠）
-waist	need_semantic	high	541	Kushala アドミ SP Red	鋼龍腰甲【ＳＰ】	英詞「red」應義譯（期望：赤|紅|緋）
-waist	need_semantic	high	542	Kushala アドミ SP Yellow	鋼龍腰甲【ＳＰ】	英詞「yellow」應義譯（期望：黄|黃）
-waist	need_semantic	high	543	Kushala アドミ SP Green	鋼龍腰甲【ＳＰ】	英詞「green」應義譯（期望：緑|綠|翠）
-waist	need_semantic	high	544	Kirin フープ SP Red	麒麟腰甲【ＳＰ】	英詞「red」應義譯（期望：赤|紅|緋）
-waist	need_semantic	high	545	Kirin フープ SP Purple	麒麟腰甲【ＳＰ】	英詞「purple」應義譯（期望：紫）
-waist	need_semantic	high	546	Kirin フープ SP Black	麒麟腰甲【ＳＰ】	英詞「black」應義譯（期望：黑|墨）
-waist	need_semantic	high	547	Kirin ショルト SP Red	麒麟腰甲【ＳＰ】	英詞「red」應義譯（期望：赤|紅|緋）
-waist	need_semantic	high	548	Kirin ショルト SP Purple	麒麟腰甲【ＳＰ】	英詞「purple」應義譯（期望：紫）
-waist	need_semantic	high	549	Kirin ショルト SP Black	麒麟腰甲【ＳＰ】	英詞「black」應義譯（期望：黑|墨）
-waist	need_semantic	high	561	Red Cat テイル	猫腰甲	英詞「red」應義譯（期望：赤|紅|緋）
 waist	long_phon	high	681	Hypno ルータウエスト	魯塔烏艾斯托腰甲	長音譯串 run=6 dens=0.75
-waist	need_semantic	high	718	White Cat Fテイル	猫腰甲	英詞「white」應義譯（期望：白）
 waist	need_semantic	high	731	True・Hypnoc S Mask	特烏斯歐腰甲【Ｓ】	英詞「true」應義譯（期望：真）
 waist	need_semantic	high	780	Mizuha 【丸 Obi 】 SP Blue	水羽腰甲【ＳＰ】	英詞「blue」應義譯（期望：青|藍|蒼）
 waist	need_semantic	high	781	Mizuha 【丸 Obi 】 SP Red	水羽腰甲【ＳＰ】	英詞「red」應義譯（期望：赤|紅|緋）
@@ -748,77 +136,16 @@ waist	need_semantic	high	782	Mizuha 【丸 Obi 】 SP Yellow	水羽腰甲【Ｓ�
 waist	need_semantic	high	783	Toyotama 【丸 Obi 】 SP Blue	豐玉腰甲【ＳＰ】	英詞「blue」應義譯（期望：青|藍|蒼）
 waist	need_semantic	high	784	Toyotama 【丸 Obi 】 SP Red	豐玉腰甲【ＳＰ】	英詞「red」應義譯（期望：赤|紅|緋）
 waist	need_semantic	high	785	Toyotama 【丸 Obi 】 SP Yellow	豐玉腰甲【ＳＰ】	英詞「yellow」應義譯（期望：黄|黃）
-waist	need_semantic	high	1250	Akantor イッケク SP Black	霸龍腰甲【ＳＰ】	英詞「black」應義譯（期望：黑|墨）
-waist	need_semantic	high	1251	Akantor イッケク SP Red	霸龍腰甲【ＳＰ】	英詞「red」應義譯（期望：赤|紅|緋）
-waist	need_semantic	high	1252	Akantor イッケク SP White	霸龍腰甲【ＳＰ】	英詞「white」應義譯（期望：白）
-waist	need_semantic	high	1253	Akantor クッコレ SP Black	霸龍腰甲【ＳＰ】	英詞「black」應義譯（期望：黑|墨）
-waist	need_semantic	high	1254	Akantor クッコレ SP Red	霸龍腰甲【ＳＰ】	英詞「red」應義譯（期望：赤|紅|緋）
-waist	need_semantic	high	1255	Akantor クッコレ SP White	霸龍腰甲【ＳＰ】	英詞「white」應義譯（期望：白）
-waist	need_semantic	high	1362	Silver Cat テイル	猫腰甲	英詞「silver」應義譯（期望：銀）
 waist	need_semantic	high	1711	昇龍 Black Obi・紺	昇龍帶	英詞「black」應義譯（期望：黑|墨）
 waist	need_semantic	high	1712	昇龍F Black Obi・紺	昇龍帶	英詞「black」應義譯（期望：黑|墨）
 waist	need_semantic	high	1713	波動 Black Obi・紺	波動帶	英詞「black」應義譯（期望：黑|墨）
 waist	need_semantic	high	1714	波動F Black Obi・紺	波動帶	英詞「black」應義譯（期望：黑|墨）
-waist	need_semantic	high	1743	Steno Elytra ー・Blue	水竜翅腰	英詞「blue」應義譯（期望：青|藍|蒼）
-waist	need_semantic	high	1744	Steno F Elytra ー・Blue	水竜翅腰【Ｆ】	英詞「blue」應義譯（期望：青|藍|蒼）
-waist	need_semantic	high	1747	Steno Elytra ー・Red	水竜翅腰	英詞「red」應義譯（期望：赤|紅|緋）
-waist	need_semantic	high	1748	Steno F Elytra ー・Red	水竜翅腰【Ｆ】	英詞「red」應義譯（期望：赤|紅|緋）
-waist	need_semantic	high	1815	Blue Sky Obi・魁	魁帶・青	英詞「sky」應義譯（期望：天|空）
-waist	truncate	blocking	1817	Welkin Obi・魁	魁帶	疑似截斷／系列名丟失
-waist	need_semantic	high	1888	True 空 Colour Belt・Black	空腰帶・黑	英詞「true」應義譯（期望：真）
-waist	need_semantic	high	1889	True 空F Colour Belt・Black	空腰帶【Ｆ】・黑	英詞「true」應義譯（期望：真）
-waist	need_semantic	high	1896	True 空 Colour Belt・Tea	空腰帶・茶	英詞「true」應義譯（期望：真）
-waist	need_semantic	high	1897	True 空F Colour Belt・Tea	空腰帶【Ｆ】・茶	英詞「true」應義譯（期望：真）
-waist	need_semantic	high	1904	True 空 Colour Belt・White	空腰帶・白	英詞「true」應義譯（期望：真）
-waist	need_semantic	high	1905	True 空F Colour Belt・White	空腰帶【Ｆ】・白	英詞「true」應義譯（期望：真）
-waist	need_semantic	high	1912	True 空 Colour Belt・Blue	空腰帶・青	英詞「true」應義譯（期望：真）
-waist	need_semantic	high	1913	True 空F Colour Belt・Blue	空腰帶【Ｆ】・青	英詞「true」應義譯（期望：真）
-waist	truncate	blocking	2101	True Shadow Obi・魁	魁帶	疑似截斷／系列名丟失
-waist	need_semantic	high	2101	True Shadow Obi・魁	魁帶	英詞「true」應義譯（期望：真）
-waist	need_semantic	high	2156	Truss サッシュ Blue	桁架腰甲	英詞「blue」應義譯（期望：青|藍|蒼）
-waist	need_semantic	high	2157	Truss Fサッシュ Blue	桁架腰甲	英詞「blue」應義譯（期望：青|藍|蒼）
-waist	need_semantic	high	2160	Truss サッシュ Red	桁架腰甲	英詞「red」應義譯（期望：赤|紅|緋）
-waist	need_semantic	high	2161	Truss Fサッシュ Red	桁架腰甲	英詞「red」應義譯（期望：赤|紅|緋）
-waist	need_semantic	high	2164	Truss サッシュ White	桁架腰甲	英詞「white」應義譯（期望：白）
-waist	need_semantic	high	2165	Truss Fサッシュ White	桁架腰甲	英詞「white」應義譯（期望：白）
-waist	need_semantic	high	2168	Truss サッシュ Purple	桁架腰甲	英詞「purple」應義譯（期望：紫）
-waist	need_semantic	high	2169	Truss Fサッシュ Purple	桁架腰甲	英詞「purple」應義譯（期望：紫）
-waist	need_semantic	high	2228	マー Gear F Coat・Blue	格艾爾腰衣【Ｆ】	英詞「blue」應義譯（期望：青|藍|蒼）
-waist	need_semantic	high	2272	White Snake Obi・魁	魁帶・白	英詞「snake」應義譯（期望：蛇）
-waist	need_semantic	high	2358	Steno FZ Elytra ー・Blue	水竜翅腰【ＦＺ】	英詞「blue」應義譯（期望：青|藍|蒼）
-waist	need_semantic	high	2359	Steno FZ Elytra ー・Red	水竜翅腰【ＦＺ】	英詞「red」應義譯（期望：赤|紅|緋）
-waist	need_semantic	high	2486	Ruko テイル SP White	極龍腰甲【ＳＰ】	英詞「white」應義譯（期望：白）
-waist	need_semantic	high	2487	Ruko テイル SP Blue	極龍腰甲【ＳＰ】	英詞「blue」應義譯（期望：青|藍|蒼）
-waist	need_semantic	high	2488	Ruko テイル SP Red	極龍腰甲【ＳＰ】	英詞「red」應義譯（期望：赤|紅|緋）
-waist	truncate	blocking	2526	Valued Word Obi・魁	魁帶	疑似截斷／系列名丟失
-waist	need_semantic	high	2526	Valued Word Obi・魁	魁帶	英詞「valued」應義譯（期望：珍|貴|重|値|值）
-waist	need_semantic	high	2528	Valued Word Obi・Flower	芙阿爾烏帶	英詞「valued」應義譯（期望：珍|貴|重|値|值）
-waist	need_semantic	high	2567	Royal FY Coil	爾歐伊阿腰甲	英詞「royal」應義譯（期望：王|皇家|王族）
-waist	need_semantic	high	2612	Rolling Sky の腰当て	の腰當	英詞「sky」應義譯（期望：天|空）
-waist	need_semantic	high	2613	Rolling Sky の腰当て・魁	の魁腰當	英詞「sky」應義譯（期望：天|空）
-waist	need_semantic	high	2734	Rolling Sky の腰当て・Elegant	の腰當	英詞「sky」應義譯（期望：天|空）
-waist	need_semantic	high	2956	Steno HC Elytra ー・Blue	水竜翅腰【ＨＣ】	英詞「blue」應義譯（期望：青|藍|蒼）
-waist	need_semantic	high	2958	Steno HC Elytra ー・Red	水竜翅腰【ＨＣ】	英詞「red」應義譯（期望：赤|紅|緋）
-waist	need_semantic	high	3308	Cannon Will・Water	克阿恩歐腰甲	英詞「water」應義譯（期望：水）
-waist	need_semantic	high	3309	Cannon F Will・Water	克阿恩歐腰甲【Ｆ】	英詞「water」應義譯（期望：水）
-waist	need_semantic	high	3310	Cannon FZ Will・Water	克阿恩歐腰甲【ＦＺ】	英詞「water」應義譯（期望：水）
-waist	need_semantic	high	3311	Cannon HC Will・Water	克阿恩歐腰甲【ＨＣ】	英詞「water」應義譯（期望：水）
-waist	need_semantic	high	3312	Cannon HS Will・Water	克阿恩歐腰甲【ＨＳ】	英詞「water」應義譯（期望：水）
-waist	need_semantic	high	3313	Axel Will・Water	阿克斯艾腰甲	英詞「water」應義譯（期望：水）
-waist	need_semantic	high	3314	Axel F Will・Water	阿克斯艾腰甲【Ｆ】	英詞「water」應義譯（期望：水）
-waist	need_semantic	high	3315	Axel FZ Will・Water	阿克斯艾腰甲【ＦＺ】	英詞「water」應義譯（期望：水）
-waist	need_semantic	high	3316	Axel HC Will・Water	阿克斯艾腰甲【ＨＣ】	英詞「water」應義譯（期望：水）
-waist	need_semantic	high	3317	Axel HS Will・Water	阿克斯艾腰甲【ＨＳ】	英詞「water」應義譯（期望：水）
 waist	need_semantic	high	3569	Red 備ノ Greaves [Waistband 】	護腿腰帶	英詞「red」應義譯（期望：赤|紅|緋）
 waist	need_semantic	high	3570	 Red 備ノ Greaves F [Waistband 】	護腿腰帶【Ｆ】	英詞「red」應義譯（期望：赤|紅|緋）
 waist	need_semantic	high	3571	 Red 備ノ Greaves FZ [Waistband 】	護腿腰帶【ＦＺ】	英詞「red」應義譯（期望：赤|紅|緋）
 waist	need_semantic	high	3572	 Red 備ノ Greaves HC [Waistband 】	護腿腰帶【ＨＣ】	英詞「red」應義譯（期望：赤|紅|緋）
 waist	need_semantic	high	3573	 Red 備ノ Greaves HS [Waistband 】	護腿腰帶【ＨＳ】	英詞「red」應義譯（期望：赤|紅|緋）
 waist	need_semantic	high	3574	 Red 備ノ Greaves GS [Waistband 】	護腿腰帶【ＧＳ】	英詞「red」應義譯（期望：赤|紅|緋）
-waist	need_semantic	high	4244	Steno HS Elytra ー・Blue	水竜翅腰【ＨＳ】	英詞「blue」應義譯（期望：青|藍|蒼）
-waist	need_semantic	high	4245	Steno GS Elytra ー・Blue	水竜翅腰【ＧＳ】	英詞「blue」應義譯（期望：青|藍|蒼）
-waist	need_semantic	high	4248	Steno HS Elytra ー・Red	水竜翅腰【ＨＳ】	英詞「red」應義譯（期望：赤|紅|緋）
-waist	need_semantic	high	4249	Steno GS Elytra ー・Red	水竜翅腰【ＧＳ】	英詞「red」應義譯（期望：赤|紅|緋）
 waist	need_semantic	high	4742	昇龍FZ Black Obi・紺	昇龍帶	英詞「black」應義譯（期望：黑|墨）
 waist	need_semantic	high	4743	昇龍HS Black Obi・紺	昇龍帶	英詞「black」應義譯（期望：黑|墨）
 waist	need_semantic	high	4744	昇龍GS Black Obi・紺	昇龍帶	英詞「black」應義譯（期望：黑|墨）
@@ -827,277 +154,54 @@ waist	need_semantic	high	4746	波動FZ Black Obi・紺	波動帶	英詞「black�
 waist	need_semantic	high	4747	波動HS Black Obi・紺	波動帶	英詞「black」應義譯（期望：黑|墨）
 waist	need_semantic	high	4748	波動GS Black Obi・紺	波動帶	英詞「black」應義譯（期望：黑|墨）
 waist	need_semantic	high	4749	波動GP Black Obi・紺	波動帶	英詞「black」應義譯（期望：黑|墨）
-waist	need_semantic	high	4794	True 空FZ Colour Belt・Black	空腰帶【ＦＺ】・黑	英詞「true」應義譯（期望：真）
-waist	need_semantic	high	4795	True 空HS Colour Belt・Black	空腰帶【ＨＳ】・黑	英詞「true」應義譯（期望：真）
-waist	need_semantic	high	4796	True 空GS Colour Belt・Black	空腰帶【ＧＳ】・黑	英詞「true」應義譯（期望：真）
-waist	need_semantic	high	4797	True 空GP Colour Belt・Black	空腰帶【ＧＰ】・黑	英詞「true」應義譯（期望：真）
-waist	need_semantic	high	4810	True 空FZ Colour Belt・Tea	空腰帶【ＦＺ】・茶	英詞「true」應義譯（期望：真）
-waist	need_semantic	high	4811	True 空HS Colour Belt・Tea	空腰帶【ＨＳ】・茶	英詞「true」應義譯（期望：真）
-waist	need_semantic	high	4812	True 空GS Colour Belt・Tea	空腰帶【ＧＳ】・茶	英詞「true」應義譯（期望：真）
-waist	need_semantic	high	4813	True 空GP Colour Belt・Tea	空腰帶【ＧＰ】・茶	英詞「true」應義譯（期望：真）
-waist	need_semantic	high	4826	True 空FZ Colour Belt・White	空腰帶【ＦＺ】・白	英詞「true」應義譯（期望：真）
-waist	need_semantic	high	4827	True 空HS Colour Belt・White	空腰帶【ＨＳ】・白	英詞「true」應義譯（期望：真）
-waist	need_semantic	high	4828	True 空GS Colour Belt・White	空腰帶【ＧＳ】・白	英詞「true」應義譯（期望：真）
-waist	need_semantic	high	4829	True 空GP Colour Belt・White	空腰帶【ＧＰ】・白	英詞「true」應義譯（期望：真）
-waist	need_semantic	high	4842	True 空FZ Colour Belt・Blue	空腰帶【ＦＺ】・青	英詞「true」應義譯（期望：真）
-waist	need_semantic	high	4843	True 空HS Colour Belt・Blue	空腰帶【ＨＳ】・青	英詞「true」應義譯（期望：真）
-waist	need_semantic	high	4844	True 空GS Colour Belt・Blue	空腰帶【ＧＳ】・青	英詞「true」應義譯（期望：真）
-waist	need_semantic	high	4845	True 空GP Colour Belt・Blue	空腰帶【ＧＰ】・青	英詞「true」應義譯（期望：真）
-waist	need_semantic	high	4954	Cannon GS Will・Water	克阿恩歐腰甲【ＧＳ】	英詞「water」應義譯（期望：水）
-waist	need_semantic	high	4955	Cannon GP Will・Water	克阿恩歐腰甲【ＧＰ】	英詞「water」應義譯（期望：水）
-waist	need_semantic	high	4956	Axel GS Will・Water	阿克斯艾腰甲【ＧＳ】	英詞「water」應義譯（期望：水）
-waist	need_semantic	high	4957	Axel GP Will・Water	阿克斯艾腰甲【ＧＰ】	英詞「water」應義譯（期望：水）
-waist	need_semantic	high	6320	Steno GP Elytra ー・Blue	水竜翅腰【ＧＰ】	英詞「blue」應義譯（期望：青|藍|蒼）
-waist	need_semantic	high	6322	Steno GP Elytra ー・Red	水竜翅腰【ＧＰ】	英詞「red」應義譯（期望：赤|紅|緋）
-waist	need_semantic	high	6606	White Cat FZテイル	猫腰甲	英詞「white」應義譯（期望：白）
-waist	need_semantic	high	6607	White Cat HSテイル	猫腰甲	英詞「white」應義譯（期望：白）
-waist	need_semantic	high	6608	White Cat GSテイル	猫腰甲	英詞「white」應義譯（期望：白）
-waist	need_semantic	high	6609	White Cat GPテイル	猫腰甲	英詞「white」應義譯（期望：白）
-waist	need_semantic	high	6718	Truss FZサッシュ Blue	桁架腰甲	英詞「blue」應義譯（期望：青|藍|蒼）
-waist	need_semantic	high	6719	Truss HSサッシュ Blue	桁架腰甲	英詞「blue」應義譯（期望：青|藍|蒼）
-waist	need_semantic	high	6720	Truss GSサッシュ Blue	桁架腰甲	英詞「blue」應義譯（期望：青|藍|蒼）
-waist	need_semantic	high	6721	Truss GPサッシュ Blue	桁架腰甲	英詞「blue」應義譯（期望：青|藍|蒼）
-waist	need_semantic	high	6726	Truss FZサッシュ Red	桁架腰甲	英詞「red」應義譯（期望：赤|紅|緋）
-waist	need_semantic	high	6727	Truss HSサッシュ Red	桁架腰甲	英詞「red」應義譯（期望：赤|紅|緋）
-waist	need_semantic	high	6728	Truss GSサッシュ Red	桁架腰甲	英詞「red」應義譯（期望：赤|紅|緋）
-waist	need_semantic	high	6729	Truss GPサッシュ Red	桁架腰甲	英詞「red」應義譯（期望：赤|紅|緋）
-waist	need_semantic	high	6734	Truss FZサッシュ White	桁架腰甲	英詞「white」應義譯（期望：白）
-waist	need_semantic	high	6735	Truss HSサッシュ White	桁架腰甲	英詞「white」應義譯（期望：白）
-waist	need_semantic	high	6736	Truss GSサッシュ White	桁架腰甲	英詞「white」應義譯（期望：白）
-waist	need_semantic	high	6737	Truss GPサッシュ White	桁架腰甲	英詞「white」應義譯（期望：白）
-waist	need_semantic	high	6742	Truss FZサッシュ Purple	桁架腰甲	英詞「purple」應義譯（期望：紫）
-waist	need_semantic	high	6743	Truss HSサッシュ Purple	桁架腰甲	英詞「purple」應義譯（期望：紫）
-waist	need_semantic	high	6744	Truss GSサッシュ Purple	桁架腰甲	英詞「purple」應義譯（期望：紫）
-waist	need_semantic	high	6745	Truss GPサッシュ Purple	桁架腰甲	英詞「purple」應義譯（期望：紫）
-waist	need_semantic	high	6776	Rolling Sky の腰当て・HS	の腰當【ＨＳ】	英詞「sky」應義譯（期望：天|空）
-waist	need_semantic	high	6777	Rolling Sky の腰当て・GS	の腰當【ＧＳ】	英詞「sky」應義譯（期望：天|空）
-waist	need_semantic	high	6778	Rolling Sky の腰当て・GP	の腰當【ＧＰ】	英詞「sky」應義譯（期望：天|空）
-waist	need_semantic	high	8058	Tenpi ノ佩楯・Red	天陽腰甲	英詞「red」應義譯（期望：赤|紅|緋）
-waist	need_semantic	high	8059	Tenpi ノ佩楯F・Red	天陽腰甲【Ｆ】	英詞「red」應義譯（期望：赤|紅|緋）
-waist	need_semantic	high	8060	Tenpi ノ佩楯FZ・Red	天陽腰甲【ＦＺ】	英詞「red」應義譯（期望：赤|紅|緋）
-waist	need_semantic	high	8061	Tenpi ノ佩楯HS・Red	天陽腰甲【ＨＳ】	英詞「red」應義譯（期望：赤|紅|緋）
-waist	need_semantic	high	8062	Tenpi ノ佩楯GS・Red	天陽腰甲【ＧＳ】	英詞「red」應義譯（期望：赤|紅|緋）
-waist	need_semantic	high	8063	Tenpi ノ佩楯GP・Red	天陽腰甲【ＧＰ】	英詞「red」應義譯（期望：赤|紅|緋）
-waist	need_semantic	high	8064	Tenpi ノ腰当て・Red	天陽腰當	英詞「red」應義譯（期望：赤|紅|緋）
-waist	need_semantic	high	8065	Tenpi ノ腰当てF・Red	天陽腰當【Ｆ】	英詞「red」應義譯（期望：赤|紅|緋）
-waist	need_semantic	high	8066	Tenpi ノ腰当てFZ・Red	天陽腰當【ＦＺ】	英詞「red」應義譯（期望：赤|紅|緋）
-waist	need_semantic	high	8067	Tenpi ノ腰当てHS・Red	天陽腰當【ＨＳ】	英詞「red」應義譯（期望：赤|紅|緋）
-waist	need_semantic	high	8068	Tenpi ノ腰当てGS・Red	天陽腰當【ＧＳ】	英詞「red」應義譯（期望：赤|紅|緋）
-waist	need_semantic	high	8069	Tenpi ノ腰当てGP・Red	天陽腰當【ＧＰ】	英詞「red」應義譯（期望：赤|紅|緋）
-waist	need_semantic	high	8070	Tenpi ノ佩楯・Blue	天陽腰甲	英詞「blue」應義譯（期望：青|藍|蒼）
-waist	need_semantic	high	8071	Tenpi ノ佩楯F・Blue	天陽腰甲【Ｆ】	英詞「blue」應義譯（期望：青|藍|蒼）
-waist	need_semantic	high	8072	Tenpi ノ佩楯FZ・Blue	天陽腰甲【ＦＺ】	英詞「blue」應義譯（期望：青|藍|蒼）
-waist	need_semantic	high	8073	Tenpi ノ佩楯HS・Blue	天陽腰甲【ＨＳ】	英詞「blue」應義譯（期望：青|藍|蒼）
-waist	need_semantic	high	8074	Tenpi ノ佩楯GS・Blue	天陽腰甲【ＧＳ】	英詞「blue」應義譯（期望：青|藍|蒼）
-waist	need_semantic	high	8075	Tenpi ノ佩楯GP・Blue	天陽腰甲【ＧＰ】	英詞「blue」應義譯（期望：青|藍|蒼）
-waist	need_semantic	high	8076	Tenpi ノ腰当て・Blue	天陽腰當	英詞「blue」應義譯（期望：青|藍|蒼）
-waist	need_semantic	high	8077	Tenpi ノ腰当てF・Blue	天陽腰當【Ｆ】	英詞「blue」應義譯（期望：青|藍|蒼）
-waist	need_semantic	high	8078	Tenpi ノ腰当てFZ・Blue	天陽腰當【ＦＺ】	英詞「blue」應義譯（期望：青|藍|蒼）
-waist	need_semantic	high	8079	Tenpi ノ腰当てHS・Blue	天陽腰當【ＨＳ】	英詞「blue」應義譯（期望：青|藍|蒼）
-waist	need_semantic	high	8080	Tenpi ノ腰当てGS・Blue	天陽腰當【ＧＳ】	英詞「blue」應義譯（期望：青|藍|蒼）
-waist	need_semantic	high	8081	Tenpi ノ腰当てGP・Blue	天陽腰當【ＧＰ】	英詞「blue」應義譯（期望：青|藍|蒼）
-waist	need_semantic	high	8082	Tenpi ノ佩楯・Black	天陽腰甲	英詞「black」應義譯（期望：黑|墨）
-waist	need_semantic	high	8083	Tenpi ノ佩楯F・Black	天陽腰甲【Ｆ】	英詞「black」應義譯（期望：黑|墨）
-waist	need_semantic	high	8084	Tenpi ノ佩楯FZ・Black	天陽腰甲【ＦＺ】	英詞「black」應義譯（期望：黑|墨）
-waist	need_semantic	high	8085	Tenpi ノ佩楯HS・Black	天陽腰甲【ＨＳ】	英詞「black」應義譯（期望：黑|墨）
-waist	need_semantic	high	8086	Tenpi ノ佩楯GS・Black	天陽腰甲【ＧＳ】	英詞「black」應義譯（期望：黑|墨）
-waist	need_semantic	high	8087	Tenpi ノ佩楯GP・Black	天陽腰甲【ＧＰ】	英詞「black」應義譯（期望：黑|墨）
-waist	need_semantic	high	8088	Tenpi ノ腰当て・Black	天陽腰當	英詞「black」應義譯（期望：黑|墨）
-waist	need_semantic	high	8089	Tenpi ノ腰当てF・Black	天陽腰當【Ｆ】	英詞「black」應義譯（期望：黑|墨）
-waist	need_semantic	high	8090	Tenpi ノ腰当てFZ・Black	天陽腰當【ＦＺ】	英詞「black」應義譯（期望：黑|墨）
-waist	need_semantic	high	8091	Tenpi ノ腰当てHS・Black	天陽腰當【ＨＳ】	英詞「black」應義譯（期望：黑|墨）
-waist	need_semantic	high	8092	Tenpi ノ腰当てGS・Black	天陽腰當【ＧＳ】	英詞「black」應義譯（期望：黑|墨）
-waist	need_semantic	high	8093	Tenpi ノ腰当てGP・Black	天陽腰當【ＧＰ】	英詞「black」應義譯（期望：黑|墨）
-waist	need_semantic	high	8094	Tenpi ノ佩楯・White	天陽腰甲	英詞「white」應義譯（期望：白）
-waist	need_semantic	high	8095	Tenpi ノ佩楯F・White	天陽腰甲【Ｆ】	英詞「white」應義譯（期望：白）
-waist	need_semantic	high	8096	Tenpi ノ佩楯FZ・White	天陽腰甲【ＦＺ】	英詞「white」應義譯（期望：白）
-waist	need_semantic	high	8097	Tenpi ノ佩楯HS・White	天陽腰甲【ＨＳ】	英詞「white」應義譯（期望：白）
-waist	need_semantic	high	8098	Tenpi ノ佩楯GS・White	天陽腰甲【ＧＳ】	英詞「white」應義譯（期望：白）
-waist	need_semantic	high	8099	Tenpi ノ佩楯GP・White	天陽腰甲【ＧＰ】	英詞「white」應義譯（期望：白）
-waist	need_semantic	high	8100	Tenpi ノ腰当て・White	天陽腰當	英詞「white」應義譯（期望：白）
-waist	need_semantic	high	8101	Tenpi ノ腰当てF・White	天陽腰當【Ｆ】	英詞「white」應義譯（期望：白）
-waist	need_semantic	high	8102	Tenpi ノ腰当てFZ・White	天陽腰當【ＦＺ】	英詞「white」應義譯（期望：白）
-waist	need_semantic	high	8103	Tenpi ノ腰当てHS・White	天陽腰當【ＨＳ】	英詞「white」應義譯（期望：白）
-waist	need_semantic	high	8104	Tenpi ノ腰当てGS・White	天陽腰當【ＧＳ】	英詞「white」應義譯（期望：白）
-waist	need_semantic	high	8105	Tenpi ノ腰当てGP・White	天陽腰當【ＧＰ】	英詞「white」應義譯（期望：白）
 waist	truncate	blocking	8317	Mist 【 Obi 】	霧帶	疑似截斷／系列名丟失
 waist	truncate	blocking	8324	Fog 【 Obi 】	霧帶	疑似截斷／系列名丟失
 waist	need_semantic	high	8326	Fog FY【 Obi 】	芙歐格帶	英詞「fog」應義譯（期望：霧）
-waist	truncate	blocking	9510	Mark.06F Coil	腰甲	疑似截斷／系列名丟失
-waist	truncate	blocking	9516	Mark.06F Coat	腰衣	疑似截斷／系列名丟失
-waist	need_semantic	high	10867	Blue Ice Emperor D Coil	伊克艾斯腰甲・青	英詞「ice」應義譯（期望：氷|冰）
-waist	need_semantic	high	10868	White Ice Emperor D Coil	伊克艾斯腰甲・白	英詞「ice」應義譯（期望：氷|冰）
-waist	need_semantic	high	10869	Red Ice Emperor D Coil	伊克艾斯腰甲・赤	英詞「ice」應義譯（期望：氷|冰）
 waist	need_semantic	high	11005	King Beetle D Elytra	克伊恩艾翅腰	英詞「king」應義譯（期望：王）
 waist	need_semantic	high	11018	Burning Cliff GX [Waist て】	崖腰甲【ＧＸ】	英詞「burning」應義譯（期望：燃|焰|焔）
 waist	need_semantic	high	11019	Crimson Cliff GX [Waist て】	崖腰甲【ＧＸ】	英詞「crimson」應義譯（期望：深紅|紅|緋|緋紅|霞）
-waist	need_semantic	high	11325	Knight King Waist BM D Blue	克伊格伊腰甲・青	英詞「knight」應義譯（期望：騎士）
-waist	need_semantic	high	11326	Knight King Waist BM D Red	克伊格伊腰甲・赤	英詞「knight」應義譯（期望：騎士）
-waist	need_semantic	high	11327	Knight King Waist BM D Black	克伊格伊腰甲・黑	英詞「knight」應義譯（期望：騎士）
-waist	need_semantic	high	11328	Knight King Waist BM D White	克伊格伊腰甲・白	英詞「knight」應義譯（期望：騎士）
-waist	need_semantic	high	11329	Hero King Waist BM D Gold	赫艾爾歐腰甲・金	英詞「king」應義譯（期望：王）
-waist	need_semantic	high	11330	Hero King Waist BM D Black	赫艾爾歐腰甲・黑	英詞「king」應義譯（期望：王）
-waist	need_semantic	high	11331	Hero King Waist BM D White	赫艾爾歐腰甲・白	英詞「king」應義譯（期望：王）
-waist	need_semantic	high	11332	Hero King Waist BM D Red	赫艾爾歐腰甲・赤	英詞「king」應義譯（期望：王）
-waist	need_semantic	high	11371	White Fatalis GXスパイン	黑龍腰甲	英詞「white」應義譯（期望：白）
-waist	need_semantic	high	11372	White Fatalis GXスケイル	黑龍腰甲	英詞「white」應義譯（期望：白）
-waist	need_semantic	high	11449	Piercing Light Coil	普伊爾伊腰甲	英詞「light」應義譯（期望：光|明）
-waist	need_semantic	high	11450	Piercing Light F Coil	普伊爾伊腰甲【Ｆ】	英詞「light」應義譯（期望：光|明）
-waist	need_semantic	high	11451	Piercing Light FZ Coil	普伊爾伊腰甲【ＦＺ】	英詞「light」應義譯（期望：光|明）
-waist	need_semantic	high	11452	Piercing Light HS Coil	普伊爾伊腰甲【ＨＳ】	英詞「light」應義譯（期望：光|明）
-waist	need_semantic	high	11453	Piercing Light GS Coil	普伊爾伊腰甲【ＧＳ】	英詞「light」應義譯（期望：光|明）
-waist	need_semantic	high	11454	Piercing Light GP Coil	普伊爾伊腰甲【ＧＰ】	英詞「light」應義譯（期望：光|明）
-waist	need_semantic	high	11455	Piercing Light ZP Coil	普伊爾伊腰甲【ＺＰ】	英詞「light」應義譯（期望：光|明）
-waist	need_semantic	high	11562	White Fatalis Dスパイン	黑龍腰甲	英詞「white」應義譯（期望：白）
-waist	need_semantic	high	11563	White Fatalis Dスケイル	黑龍腰甲	英詞「white」應義譯（期望：白）
-waist	need_semantic	high	11593	Red Cat Dテイル	猫腰甲	英詞「red」應義譯（期望：赤|紅|緋）
 waist	need_semantic	high	11748	Rampage D Coil	爾阿姆阿腰甲	英詞「rampage」應義譯（期望：狂暴|暴）
 waist	need_semantic	high	11749	Blaze D Coil	布阿茲艾腰甲	英詞「blaze」應義譯（期望：烈焔|焰|焔|炎）
 waist	need_semantic	high	11758	Guild Bard C Coil	獵團腰甲	英詞「bard」應義譯（期望：吟遊|詩人|詩）
 waist	need_semantic	high	11759	Scholar C Skirt	施歐爾阿裙甲	英詞「scholar」應義譯（期望：學者|学士|學）
-waist	need_semantic	high	11779	Garnet D Coil	格阿爾艾腰甲	英詞「garnet」應義譯（期望：石榴）
-waist	need_semantic	high	11780	Amethyst D Coil	阿姆艾斯腰甲	英詞「amethyst」應義譯（期望：紫水晶|紫晶）
-waist	need_semantic	high	11781	Coral D Coil	克歐爾阿腰甲	英詞「coral」應義譯（期望：珊瑚）
-waist	need_semantic	high	11782	Quartz D Coil	斯烏爾腰甲	英詞「quartz」應義譯（期望：石英|水晶）
-waist	need_semantic	high	11783	Emerald D Coil	艾姆艾爾腰甲	英詞「emerald」應義譯（期望：翠|綠寶石|緑|祖母綠）
-waist	need_semantic	high	11784	Pearl D Coil	普艾爾腰甲	英詞「pearl」應義譯（期望：珠|珍珠）
-waist	need_semantic	high	11785	Ruby D Coil	爾烏布腰甲	英詞「ruby」應義譯（期望：紅寶石|紅玉|紅）
-waist	need_semantic	high	11786	Sapphire D Coil	斯阿普伊腰甲	英詞「sapphire」應義譯（期望：藍寶石|藍玉|藍）
-waist	need_semantic	high	11787	Topaz D Coat	特歐普阿腰衣	英詞「topaz」應義譯（期望：黄玉|黃玉|托帕）
-waist	need_semantic	high	11788	Tourmaline D Coat	特歐爾阿腰衣	英詞「tourmaline」應義譯（期望：電氣石|碧璽|托瑪琳|電気石）
-waist	need_semantic	high	11789	Lapis D Coat	爾阿普伊腰衣	英詞「lapis」應義譯（期望：青金|琉璃）
-waist	need_semantic	high	11790	Hisui D Coil	赫伊斯烏腰甲	英詞「hisui」應義譯（期望：翡翠）
-waist	need_semantic	high	11791	Onyx D Coil	歐恩腰甲	英詞「onyx」應義譯（期望：縞瑪瑙|瑪瑙|縞|縞瑪）
 waist	need_semantic	high	11817	Burning Cliff D [Waist て】	崖腰甲	英詞「burning」應義譯（期望：燃|焰|焔）
 waist	need_semantic	high	11818	Crimson Cliff D [Waist て】	崖腰甲	英詞「crimson」應義譯（期望：深紅|紅|緋|緋紅|霞）
 waist	need_semantic	high	11822	Crushing Fog D [Obi 】	克烏夏伊帶	英詞「crushing」應義譯（期望：碎|砕）
 waist	need_semantic	high	11823	Valued Word Obi D	芙阿爾烏帶	英詞「valued」應義譯（期望：珍|貴|重|値|值）
 waist	need_semantic	high	11825	Noon Glow Obi D	恩歐恩歐帶	英詞「noon」應義譯（期望：午）
-waist	need_semantic	high	11827	True Shadow Obi D	特烏斯阿帶	英詞「true」應義譯（期望：真）
 waist	need_semantic	high	12028	Rolling Sky Waist て・D	て腰甲	英詞「sky」應義譯（期望：天|空）
-waist	need_semantic	high	12147	Dragon Slayer Armor・Waist	德阿格歐腰甲	英詞「dragon」應義譯（期望：龍）
-waist	need_semantic	high	12148	Dragon Slayer Armor F・Waist	德阿格歐腰甲【Ｆ】	英詞「dragon」應義譯（期望：龍）
-waist	need_semantic	high	12149	Dragon Slayer Armor FZ・Waist	德阿格歐腰甲【ＦＺ】	英詞「dragon」應義譯（期望：龍）
-waist	need_semantic	high	12150	Dragon Slayer Armor HS・Waist	德阿格歐腰甲【ＨＳ】	英詞「dragon」應義譯（期望：龍）
-waist	need_semantic	high	12151	Dragon Slayer Armor GS・Waist	德阿格歐腰甲【ＧＳ】	英詞「dragon」應義譯（期望：龍）
-waist	need_semantic	high	12152	Dragon Slayer Armor GP・Waist	德阿格歐腰甲【ＧＰ】	英詞「dragon」應義譯（期望：龍）
-waist	need_semantic	high	12153	Dragon Slayer Armor ZP・Waist	德阿格歐腰甲【ＺＰ】	英詞「dragon」應義譯（期望：龍）
-waist	need_semantic	high	12154	Dragon Slayer Armor・Waistband	德阿格歐腰帶	英詞「dragon」應義譯（期望：龍）
-waist	need_semantic	high	12155	Dragon Slayer Armor F・Waistband	德阿格歐腰帶【Ｆ】	英詞「dragon」應義譯（期望：龍）
-waist	need_semantic	high	12156	Dragon Slayer Armor FZ・Waistband	德阿格歐腰帶【ＦＺ】	英詞「dragon」應義譯（期望：龍）
-waist	need_semantic	high	12157	Dragon Slayer Armor HS・Waistband	德阿格歐腰帶【ＨＳ】	英詞「dragon」應義譯（期望：龍）
-waist	need_semantic	high	12158	Dragon Slayer Armor GS・Waistband	德阿格歐腰帶【ＧＳ】	英詞「dragon」應義譯（期望：龍）
-waist	need_semantic	high	12159	Dragon Slayer Armor GP・Waistband	德阿格歐腰帶【ＧＰ】	英詞「dragon」應義譯（期望：龍）
-waist	need_semantic	high	12160	Dragon Slayer Armor ZP・Waistband	德阿格歐腰帶【ＺＰ】	英詞「dragon」應義譯（期望：龍）
-waist	need_semantic	high	12242	Kushala アンダ PD Red	鋼龍腰甲【ＰＤ】	英詞「red」應義譯（期望：赤|紅|緋）
-waist	need_semantic	high	12243	Kushala アンダ PD Yellow	鋼龍腰甲【ＰＤ】	英詞「yellow」應義譯（期望：黄|黃）
-waist	need_semantic	high	12244	Kushala アンダ PD Green	鋼龍腰甲【ＰＤ】	英詞「green」應義譯（期望：緑|綠|翠）
-waist	need_semantic	high	12245	Kushala アドミ PD Red	鋼龍腰甲【ＰＤ】	英詞「red」應義譯（期望：赤|紅|緋）
-waist	need_semantic	high	12246	Kushala アドミ PD Yellow	鋼龍腰甲【ＰＤ】	英詞「yellow」應義譯（期望：黄|黃）
-waist	need_semantic	high	12247	Kushala アドミ PD Green	鋼龍腰甲【ＰＤ】	英詞「green」應義譯（期望：緑|綠|翠）
-waist	need_semantic	high	12483	Kirin フープ PD Red	麒麟腰甲【ＰＤ】	英詞「red」應義譯（期望：赤|紅|緋）
-waist	need_semantic	high	12484	Kirin フープ PD Purple	麒麟腰甲【ＰＤ】	英詞「purple」應義譯（期望：紫）
-waist	need_semantic	high	12485	Kirin フープ PD Black	麒麟腰甲【ＰＤ】	英詞「black」應義譯（期望：黑|墨）
 waist	need_semantic	high	12492	Mizuha 【丸 Obi 】 PD Blue	水羽腰甲【ＰＤ】	英詞「blue」應義譯（期望：青|藍|蒼）
 waist	need_semantic	high	12493	Mizuha 【丸 Obi 】 PD Red	水羽腰甲【ＰＤ】	英詞「red」應義譯（期望：赤|紅|緋）
 waist	need_semantic	high	12494	Mizuha 【丸 Obi 】 PD Yellow	水羽腰甲【ＰＤ】	英詞「yellow」應義譯（期望：黄|黃）
 waist	need_semantic	high	12495	Toyotama 【丸 Obi 】 PD Blue	豐玉腰甲【ＰＤ】	英詞「blue」應義譯（期望：青|藍|蒼）
 waist	need_semantic	high	12496	Toyotama 【丸 Obi 】 PD Red	豐玉腰甲【ＰＤ】	英詞「red」應義譯（期望：赤|紅|緋）
 waist	need_semantic	high	12497	Toyotama 【丸 Obi 】 PD Yellow	豐玉腰甲【ＰＤ】	英詞「yellow」應義譯（期望：黄|黃）
-waist	need_semantic	high	12552	Akantor イッケク PD Black	霸龍腰甲【ＰＤ】	英詞「black」應義譯（期望：黑|墨）
-waist	need_semantic	high	12553	Akantor イッケク PD Red	霸龍腰甲【ＰＤ】	英詞「red」應義譯（期望：赤|紅|緋）
-waist	need_semantic	high	12554	Akantor イッケク PD White	霸龍腰甲【ＰＤ】	英詞「white」應義譯（期望：白）
-waist	need_semantic	high	12555	Akantor クッコレ PD Black	霸龍腰甲【ＰＤ】	英詞「black」應義譯（期望：黑|墨）
-waist	need_semantic	high	12556	Akantor クッコレ PD Red	霸龍腰甲【ＰＤ】	英詞「red」應義譯（期望：赤|紅|緋）
-waist	need_semantic	high	12557	Akantor クッコレ PD White	霸龍腰甲【ＰＤ】	英詞「white」應義譯（期望：白）
-waist	need_semantic	high	12971	Tenpi ノ佩楯D・Red	天陽腰甲	英詞「red」應義譯（期望：赤|紅|緋）
-waist	need_semantic	high	12972	Tenpi ノ佩楯D・Blue	天陽腰甲	英詞「blue」應義譯（期望：青|藍|蒼）
-waist	need_semantic	high	12973	Tenpi ノ佩楯D・Black	天陽腰甲	英詞「black」應義譯（期望：黑|墨）
-waist	need_semantic	high	12974	Tenpi ノ佩楯D・White	天陽腰甲	英詞「white」應義譯（期望：白）
-waist	need_semantic	high	12997	Gloria D Coil・Water	格歐爾伊腰甲	英詞「water」應義譯（期望：水）
-waist	need_semantic	high	13062	Pics D Coil・Water	普伊克阿腰甲	英詞「water」應義譯（期望：水）
-waist	need_semantic	high	13065	Magos D Coil・Water	姆阿格歐腰甲	英詞「water」應義譯（期望：水）
-waist	need_semantic	high	13076	Cayssis D Coil Water	克阿伊伊腰甲	英詞「water」應義譯（期望：水）
-waist	need_semantic	high	13090	Steno D Elytra ー・Blue	水竜翅腰	英詞「blue」應義譯（期望：青|藍|蒼）
-waist	need_semantic	high	13091	Steno D Elytra ー・Red	水竜翅腰	英詞「red」應義譯（期望：赤|紅|緋）
-waist	need_semantic	high	13099	Galitos D Belt・Water	格阿爾伊腰帶	英詞「water」應義譯（期望：水）
-waist	need_semantic	high	13108	Gold D Coil・Red	德腰甲	英詞「gold」應義譯（期望：金）
-waist	need_semantic	high	13109	Gold D Coil・Blue	德腰甲	英詞「gold」應義譯（期望：金）
-waist	need_semantic	high	13110	Gold D Coil・Yellow	德腰甲	英詞「gold」應義譯（期望：金）
-waist	need_semantic	high	13111	Gold D Coil・Purple	德腰甲	英詞「gold」應義譯（期望：金）
-waist	need_semantic	high	13113	Claire D Coil・Water	克阿爾艾腰甲	英詞「water」應義譯（期望：水）
-waist	need_semantic	high	13116	Gold Cat Dテイル	猫腰甲	英詞「gold」應義譯（期望：金）
-waist	need_semantic	high	13117	Silver Cat Dテイル	猫腰甲	英詞「silver」應義譯（期望：銀）
-waist	need_semantic	high	13122	Star Festival D Obi 【 Red 】	斯阿爾艾帶・赤	英詞「star」應義譯（期望：星）
-waist	need_semantic	high	13123	Star Festival D Obi 【 Blue 】	斯阿爾艾帶・青	英詞「star」應義譯（期望：星）
-waist	need_semantic	high	13124	Star Festival D Obi 【 Black 】	斯阿爾艾帶・黑	英詞「star」應義譯（期望：星）
-waist	need_semantic	high	13125	Star Festival D Obi 【 White 】	斯阿爾艾帶・白	英詞「star」應義譯（期望：星）
-waist	need_semantic	high	13696	Ruko テイル PD White	極龍腰甲【ＰＤ】	英詞「white」應義譯（期望：白）
-waist	need_semantic	high	13697	Ruko テイル PD Blue	極龍腰甲【ＰＤ】	英詞「blue」應義譯（期望：青|藍|蒼）
-waist	need_semantic	high	13698	Ruko テイル PD Red	極龍腰甲【ＰＤ】	英詞「red」應義譯（期望：赤|紅|緋）
 waist	need_semantic	high	13705	Shadow Obi・D	夏阿德歐帶	英詞「shadow」應義譯（期望：影|闇）
 legs	truncate	blocking	48	Gen ーツ Feet	源足	疑似截斷／系列名丟失
 legs	truncate	blocking	60	凛【 Hakama 】	凛袴	疑似截斷／系列名丟失
 legs	truncate	blocking	61	艶【 Hakama 】	艶袴	疑似截斷／系列名丟失
 legs	truncate	blocking	64	Dragon Feet	龍足	疑似截斷／系列名丟失
-legs	need_semantic	high	167	Guild Guard タイツ Crimson	獵團護腿	英詞「crimson」應義譯（期望：深紅|紅|緋|緋紅|霞）
-legs	need_semantic	high	169	Guild Guard タイツ Crimson	獵團護腿	英詞「crimson」應義譯（期望：深紅|紅|緋|緋紅|霞）
+legs	truncate	blocking	172	凛・覇【 Hakama 】	凛袴	疑似截斷／系列名丟失
+legs	truncate	blocking	173	艶・覇【 Hakama 】	艶袴	疑似截斷／系列名丟失
 legs	truncate	blocking	216	Golden Hakama	金袴	疑似截斷／系列名丟失
-legs	truncate	blocking	217	Puppeteer ノ Tabi	足袋	疑似截斷／系列名丟失
-legs	need_semantic	high	224	Guild Knight タイツ	獵團護腿	英詞「knight」應義譯（期望：騎士）
-legs	need_semantic	high	228	Guild Guard タイツ Green	獵團護腿	英詞「green」應義譯（期望：緑|綠|翠）
-legs	need_semantic	high	230	Guild Guard タイツ Green	獵團護腿	英詞「green」應義譯（期望：緑|綠|翠）
 legs	truncate	blocking	260	Strength Leg	力腿	疑似截斷／系列名丟失
 legs	truncate	blocking	293	Death Stench Heel	死臭踵	疑似截斷／系列名丟失
-legs	truncate	blocking	311	Golden Hakama・魁	魁袴	疑似截斷／系列名丟失
-legs	need_semantic	high	311	Golden Hakama・魁	魁袴	英詞「golden」應義譯（期望：金）
-legs	truncate	blocking	327	Golden Hakama・魁	魁袴	疑似截斷／系列名丟失
-legs	need_semantic	high	327	Golden Hakama・魁	魁袴	英詞「golden」應義譯（期望：金）
-legs	need_semantic	high	428	Star Festival の Tabi・Summer 【 Red 】	の足袋・赤	英詞「star」應義譯（期望：星）
-legs	need_semantic	high	429	Star Festival の Tabi・Summer 【 Blue 】	の足袋・青	英詞「star」應義譯（期望：星）
-legs	need_semantic	high	430	Star Festival の Tabi・Summer 【 Black 】	の足袋・黑	英詞「star」應義譯（期望：星）
-legs	need_semantic	high	431	Star Festival の Tabi・Summer 【 White 】	の足袋・白	英詞「star」應義譯（期望：星）
-legs	need_semantic	high	436	Star Festival の Tabi・織【 Red 】	の織足袋・赤	英詞「star」應義譯（期望：星）
-legs	need_semantic	high	437	Star Festival の Tabi・織【 Blue 】	の織足袋・青	英詞「star」應義譯（期望：星）
-legs	need_semantic	high	438	Star Festival の Tabi・織【 Black 】	の織足袋・黑	英詞「star」應義譯（期望：星）
-legs	need_semantic	high	439	Star Festival の Tabi・織【 White 】	の織足袋・白	英詞「star」應義譯（期望：星）
-legs	need_semantic	high	444	Star Festival の Tabi・Heaven 【 Red 】	の足袋・赤・天	英詞「star」應義譯（期望：星）
-legs	need_semantic	high	445	Star Festival の Tabi・Heaven 【 Blue 】	の足袋・青・天	英詞「star」應義譯（期望：星）
-legs	need_semantic	high	446	Star Festival の Tabi・Heaven 【 Black 】	の足袋・黑・天	英詞「star」應義譯（期望：星）
-legs	need_semantic	high	447	Star Festival の Tabi・Heaven 【 White 】	の足袋・白・天	英詞「star」應義譯（期望：星）
-legs	need_semantic	high	510	Kushala ペイル SP Red	鋼龍護腿【ＳＰ】	英詞「red」應義譯（期望：赤|紅|緋）
-legs	need_semantic	high	511	Kushala ペイル SP Yellow	鋼龍護腿【ＳＰ】	英詞「yellow」應義譯（期望：黄|黃）
-legs	need_semantic	high	512	Kushala ペイル SP Green	鋼龍護腿【ＳＰ】	英詞「green」應義譯（期望：緑|綠|翠）
-legs	need_semantic	high	513	Kushala ハディ SP Red	鋼龍護腿【ＳＰ】	英詞「red」應義譯（期望：赤|紅|緋）
-legs	need_semantic	high	514	Kushala ハディ SP Yellow	鋼龍護腿【ＳＰ】	英詞「yellow」應義譯（期望：黄|黃）
-legs	need_semantic	high	515	Kushala ハディ SP Green	鋼龍護腿【ＳＰ】	英詞「green」應義譯（期望：緑|綠|翠）
-legs	need_semantic	high	516	Kirin レガース SP Red	麒麟護腿【ＳＰ】	英詞「red」應義譯（期望：赤|紅|緋）
-legs	need_semantic	high	517	Kirin レガース SP Purple	麒麟護腿【ＳＰ】	英詞「purple」應義譯（期望：紫）
-legs	need_semantic	high	518	Kirin レガース SP Black	麒麟護腿【ＳＰ】	英詞「black」應義譯（期望：黑|墨）
-legs	need_semantic	high	712	G・Guard Rタイツ Green	防禦護腿【Ｇ】	英詞「green」應義譯（期望：緑|綠|翠）
-legs	need_semantic	high	713	G・Guard Rタイツ Green	防禦護腿【Ｇ】	英詞「green」應義譯（期望：緑|綠|翠）
+legs	need_semantic	high	428	Star Festival の Tabi・Summer 【 Red 】	斯阿爾艾足袋・赤	英詞「star」應義譯（期望：星）
+legs	need_semantic	high	429	Star Festival の Tabi・Summer 【 Blue 】	斯阿爾艾足袋・青	英詞「star」應義譯（期望：星）
+legs	need_semantic	high	430	Star Festival の Tabi・Summer 【 Black 】	斯阿爾艾足袋・黑	英詞「star」應義譯（期望：星）
+legs	need_semantic	high	431	Star Festival の Tabi・Summer 【 White 】	斯阿爾艾足袋・白	英詞「star」應義譯（期望：星）
+legs	need_semantic	high	436	Star Festival の Tabi・織【 Red 】	織足袋・赤	英詞「star」應義譯（期望：星）
+legs	need_semantic	high	437	Star Festival の Tabi・織【 Blue 】	織足袋・青	英詞「star」應義譯（期望：星）
+legs	need_semantic	high	438	Star Festival の Tabi・織【 Black 】	織足袋・黑	英詞「star」應義譯（期望：星）
+legs	need_semantic	high	439	Star Festival の Tabi・織【 White 】	織足袋・白	英詞「star」應義譯（期望：星）
 legs	truncate	blocking	721	Weiss Heel	白踵	疑似截斷／系列名丟失
-legs	need_semantic	high	806	G・Knight タイツ SP Red	騎士護腿【Ｇ】【ＳＰ】	英詞「red」應義譯（期望：赤|紅|緋）
-legs	need_semantic	high	807	G・Knight タイツ SP Blue	騎士護腿【Ｇ】【ＳＰ】	英詞「blue」應義譯（期望：青|藍|蒼）
-legs	need_semantic	high	808	G・Knight タイツ SP Purple	騎士護腿【Ｇ】【ＳＰ】	英詞「purple」應義譯（期望：紫）
-legs	need_semantic	high	809	PVタイツ SP Red	普護腿【ＳＰ】	英詞「red」應義譯（期望：赤|紅|緋）
-legs	need_semantic	high	810	PVタイツ SP Blue	普護腿【ＳＰ】	英詞「blue」應義譯（期望：青|藍|蒼）
-legs	need_semantic	high	811	PVタイツ SP Purple	普護腿【ＳＰ】	英詞「purple」應義譯（期望：紫）
-legs	truncate	blocking	830	Kagura・覇【 Hakama 】	覇袴	疑似截斷／系列名丟失
-legs	truncate	blocking	832	Kamiza・覇【 Hakama 】	覇袴	疑似截斷／系列名丟失
-legs	need_semantic	high	1051	G・Guard Rタイツ Crimson	防禦護腿【Ｇ】	英詞「crimson」應義譯（期望：深紅|紅|緋|緋紅|霞）
-legs	need_semantic	high	1052	G・Guard Rタイツ Crimson	防禦護腿【Ｇ】	英詞「crimson」應義譯（期望：深紅|紅|緋|緋紅|霞）
-legs	need_semantic	high	1158	Akantor ケマル SP Black	霸龍護腿【ＳＰ】	英詞「black」應義譯（期望：黑|墨）
-legs	need_semantic	high	1159	Akantor ケマル SP Red	霸龍護腿【ＳＰ】	英詞「red」應義譯（期望：赤|紅|緋）
-legs	need_semantic	high	1160	Akantor ケマル SP White	霸龍護腿【ＳＰ】	英詞「white」應義譯（期望：白）
-legs	need_semantic	high	1161	Akantor チケル SP Black	霸龍護腿【ＳＰ】	英詞「black」應義譯（期望：黑|墨）
-legs	need_semantic	high	1162	Akantor チケル SP Red	霸龍護腿【ＳＰ】	英詞「red」應義譯（期望：赤|紅|緋）
-legs	need_semantic	high	1163	Akantor チケル SP White	霸龍護腿【ＳＰ】	英詞「white」應義譯（期望：白）
+legs	need_semantic	high	809	PVタイツ SP Red	塔伊茨護腿【ＳＰ】	英詞「red」應義譯（期望：赤|紅|緋）
+legs	need_semantic	high	810	PVタイツ SP Blue	塔伊茨護腿【ＳＰ】	英詞「blue」應義譯（期望：青|藍|蒼）
+legs	need_semantic	high	811	PVタイツ SP Purple	塔伊茨護腿【ＳＰ】	英詞「purple」應義譯（期望：紫）
 legs	truncate	blocking	1490	Rising Leg B	昇腿	疑似截斷／系列名丟失
 legs	truncate	blocking	1492	Rising Boots B	昇靴	疑似截斷／系列名丟失
 legs	truncate	blocking	1498	Rising Leg Y	昇腿	疑似截斷／系列名丟失
 legs	truncate	blocking	1500	Rising Boots Y	昇靴	疑似截斷／系列名丟失
-legs	truncate	blocking	1663	Welkin Hakama・魁	魁袴	疑似截斷／系列名丟失
 legs	need_semantic	high	1734	True 空脚着・Black	空脚着護腿・黑	英詞「true」應義譯（期望：真）
 legs	need_semantic	high	1735	True 空F脚着・Black	空脚着護腿・黑	英詞「true」應義譯（期望：真）
 legs	need_semantic	high	1742	True 空脚着・Tea	空脚着護腿・茶	英詞「true」應義譯（期望：真）
@@ -1108,57 +212,10 @@ legs	need_semantic	high	1758	True 空脚着・Blue	空脚着護腿・青	英詞�
 legs	need_semantic	high	1759	True 空F脚着・Blue	空脚着護腿・青	英詞「true」應義譯（期望：真）
 legs	truncate	blocking	1832	Noon Glow Hakama	午暉袴	疑似截斷／系列名丟失
 legs	truncate	blocking	1946	True Shadow Hakama	真影袴	疑似截斷／系列名丟失
-legs	truncate	blocking	1947	True Shadow Hakama・魁	魁袴	疑似截斷／系列名丟失
-legs	need_semantic	high	1947	True Shadow Hakama・魁	魁袴	英詞「true」應義譯（期望：真）
-legs	need_semantic	high	2002	Truss シューズ Blue	桁架護腿	英詞「blue」應義譯（期望：青|藍|蒼）
-legs	need_semantic	high	2003	Truss Fシューズ Blue	桁架護腿	英詞「blue」應義譯（期望：青|藍|蒼）
-legs	need_semantic	high	2006	Truss シューズ Red	桁架護腿	英詞「red」應義譯（期望：赤|紅|緋）
-legs	need_semantic	high	2007	Truss Fシューズ Red	桁架護腿	英詞「red」應義譯（期望：赤|紅|緋）
-legs	need_semantic	high	2010	Truss シューズ White	桁架護腿	英詞「white」應義譯（期望：白）
-legs	need_semantic	high	2011	Truss Fシューズ White	桁架護腿	英詞「white」應義譯（期望：白）
-legs	need_semantic	high	2014	Truss シューズ Purple	桁架護腿	英詞「purple」應義譯（期望：紫）
-legs	need_semantic	high	2015	Truss Fシューズ Purple	桁架護腿	英詞「purple」應義譯（期望：紫）
-legs	need_semantic	high	2074	マー Gear F Boots・Blue	格艾爾靴【Ｆ】	英詞「blue」應義譯（期望：青|藍|蒼）
-legs	need_semantic	high	2118	White Snake Greaves・魁	魁護腿・白	英詞「snake」應義譯（期望：蛇）
 legs	truncate	blocking	2371	Valued Word Hakama	珍言袴	疑似截斷／系列名丟失
-legs	truncate	blocking	2372	Valued Word Hakama・魁	魁袴	疑似截斷／系列名丟失
-legs	need_semantic	high	2372	Valued Word Hakama・魁	魁袴	英詞「valued」應義譯（期望：珍|貴|重|値|值）
-legs	need_semantic	high	2374	Valued Word Hakama・Flower	芙阿爾烏袴	英詞「valued」應義譯（期望：珍|貴|重|値|值）
-legs	need_semantic	high	2413	Royal FY Greaves	爾歐伊阿護腿	英詞「royal」應義譯（期望：王|皇家|王族）
+legs	truncate	blocking	2373	Valued Word Hakama・Smart	珍言袴	疑似截斷／系列名丟失
+legs	truncate	blocking	2374	Valued Word Hakama・Flower	珍言袴	疑似截斷／系列名丟失
 legs	truncate	blocking	2432	Espinas RX Heel	棘龍踵	疑似截斷／系列名丟失
-legs	need_semantic	high	2459	Rolling Sky Greaves・魁	魁護腿	英詞「sky」應義譯（期望：天|空）
-legs	need_semantic	high	2580	Rolling Sky Greaves・Elegant	爾歐爾伊護腿	英詞「sky」應義譯（期望：天|空）
-legs	need_semantic	high	3154	Cannon タイツ・Water	加農護腿	英詞「water」應義譯（期望：水）
-legs	need_semantic	high	3155	Cannon Fタイツ・Water	加農護腿	英詞「water」應義譯（期望：水）
-legs	need_semantic	high	3156	Cannon FZタイツ・Water	加農護腿	英詞「water」應義譯（期望：水）
-legs	need_semantic	high	3157	Cannon HCタイツ・Water	加農護腿	英詞「water」應義譯（期望：水）
-legs	need_semantic	high	3158	Cannon HSタイツ・Water	加農護腿	英詞「water」應義譯（期望：水）
-legs	need_semantic	high	3159	Axel タイツ・Water	輪軸護腿	英詞「water」應義譯（期望：水）
-legs	need_semantic	high	3160	Axel Fタイツ・Water	輪軸護腿	英詞「water」應義譯（期望：水）
-legs	need_semantic	high	3161	Axel FZタイツ・Water	輪軸護腿	英詞「water」應義譯（期望：水）
-legs	need_semantic	high	3162	Axel HCタイツ・Water	輪軸護腿	英詞「water」應義譯（期望：水）
-legs	need_semantic	high	3163	Axel HSタイツ・Water	輪軸護腿	英詞「water」應義譯（期望：水）
-legs	need_semantic	high	3164	Cannon タイツ・Green	加農護腿	英詞「green」應義譯（期望：緑|綠|翠）
-legs	need_semantic	high	3165	Cannon Fタイツ・Green	加農護腿	英詞「green」應義譯（期望：緑|綠|翠）
-legs	need_semantic	high	3166	Cannon FZタイツ・Green	加農護腿	英詞「green」應義譯（期望：緑|綠|翠）
-legs	need_semantic	high	3167	Cannon HCタイツ・Green	加農護腿	英詞「green」應義譯（期望：緑|綠|翠）
-legs	need_semantic	high	3168	Cannon HSタイツ・Green	加農護腿	英詞「green」應義譯（期望：緑|綠|翠）
-legs	need_semantic	high	3169	Axel タイツ・Green	輪軸護腿	英詞「green」應義譯（期望：緑|綠|翠）
-legs	need_semantic	high	3170	Axel Fタイツ・Green	輪軸護腿	英詞「green」應義譯（期望：緑|綠|翠）
-legs	need_semantic	high	3171	Axel FZタイツ・Green	輪軸護腿	英詞「green」應義譯（期望：緑|綠|翠）
-legs	need_semantic	high	3172	Axel HCタイツ・Green	輪軸護腿	英詞「green」應義譯（期望：緑|綠|翠）
-legs	need_semantic	high	3173	Axel HSタイツ・Green	輪軸護腿	英詞「green」應義譯（期望：緑|綠|翠）
-legs	need_semantic	high	3184	Cannon タイツ・Purple	加農護腿	英詞「purple」應義譯（期望：紫）
-legs	need_semantic	high	3185	Cannon Fタイツ・Purple	加農護腿	英詞「purple」應義譯（期望：紫）
-legs	need_semantic	high	3186	Cannon FZタイツ・Purple	加農護腿	英詞「purple」應義譯（期望：紫）
-legs	need_semantic	high	3187	Cannon HCタイツ・Purple	加農護腿	英詞「purple」應義譯（期望：紫）
-legs	need_semantic	high	3188	Cannon HSタイツ・Purple	加農護腿	英詞「purple」應義譯（期望：紫）
-legs	need_semantic	high	3189	Axel タイツ・Purple	輪軸護腿	英詞「purple」應義譯（期望：紫）
-legs	need_semantic	high	3190	Axel Fタイツ・Purple	輪軸護腿	英詞「purple」應義譯（期望：紫）
-legs	need_semantic	high	3191	Axel FZタイツ・Purple	輪軸護腿	英詞「purple」應義譯（期望：紫）
-legs	need_semantic	high	3192	Axel HCタイツ・Purple	輪軸護腿	英詞「purple」應義譯（期望：紫）
-legs	need_semantic	high	3193	Axel HSタイツ・Purple	輪軸護腿	英詞「purple」應義譯（期望：紫）
-legs	need_semantic	high	3787	Demon Lord Legs	德艾姆歐腿甲	英詞「demon」應義譯（期望：鬼|魔）
 legs	need_semantic	high	4640	True 空FZ脚着・Black	空脚着護腿・黑	英詞「true」應義譯（期望：真）
 legs	need_semantic	high	4641	True 空HS脚着・Black	空脚着護腿・黑	英詞「true」應義譯（期望：真）
 legs	need_semantic	high	4642	True 空GS脚着・Black	空脚着護腿・黑	英詞「true」應義譯（期望：真）
@@ -1175,65 +232,13 @@ legs	need_semantic	high	4688	True 空FZ脚着・Blue	空脚着護腿・青	英�
 legs	need_semantic	high	4689	True 空HS脚着・Blue	空脚着護腿・青	英詞「true」應義譯（期望：真）
 legs	need_semantic	high	4690	True 空GS脚着・Blue	空脚着護腿・青	英詞「true」應義譯（期望：真）
 legs	need_semantic	high	4691	True 空GP脚着・Blue	空脚着護腿・青	英詞「true」應義譯（期望：真）
-legs	need_semantic	high	4800	Cannon GSタイツ・Water	加農護腿	英詞「water」應義譯（期望：水）
-legs	need_semantic	high	4801	Cannon GPタイツ・Water	加農護腿	英詞「water」應義譯（期望：水）
-legs	need_semantic	high	4802	Axel GSタイツ・Water	輪軸護腿	英詞「water」應義譯（期望：水）
-legs	need_semantic	high	4803	Axel GPタイツ・Water	輪軸護腿	英詞「water」應義譯（期望：水）
-legs	need_semantic	high	4808	Cannon GSタイツ・Green	加農護腿	英詞「green」應義譯（期望：緑|綠|翠）
-legs	need_semantic	high	4809	Cannon GPタイツ・Green	加農護腿	英詞「green」應義譯（期望：緑|綠|翠）
-legs	need_semantic	high	4810	Axel GSタイツ・Green	輪軸護腿	英詞「green」應義譯（期望：緑|綠|翠）
-legs	need_semantic	high	4811	Axel GPタイツ・Green	輪軸護腿	英詞「green」應義譯（期望：緑|綠|翠）
-legs	need_semantic	high	4824	Cannon GSタイツ・Purple	加農護腿	英詞「purple」應義譯（期望：紫）
-legs	need_semantic	high	4825	Cannon GPタイツ・Purple	加農護腿	英詞「purple」應義譯（期望：紫）
-legs	need_semantic	high	4826	Axel GSタイツ・Purple	輪軸護腿	英詞「purple」應義譯（期望：紫）
-legs	need_semantic	high	4827	Axel GPタイツ・Purple	輪軸護腿	英詞「purple」應義譯（期望：紫）
 legs	truncate	blocking	5110	Holy King Feet	聖王足	疑似截斷／系列名丟失
 legs	truncate	blocking	6348	Honour Feet・紺	紺足	疑似截斷／系列名丟失
 legs	truncate	blocking	6354	Honour Boots・紺	紺靴	疑似截斷／系列名丟失
-legs	need_semantic	high	6564	Truss FZシューズ Blue	桁架護腿	英詞「blue」應義譯（期望：青|藍|蒼）
-legs	need_semantic	high	6565	Truss HSシューズ Blue	桁架護腿	英詞「blue」應義譯（期望：青|藍|蒼）
-legs	need_semantic	high	6566	Truss GSシューズ Blue	桁架護腿	英詞「blue」應義譯（期望：青|藍|蒼）
-legs	need_semantic	high	6567	Truss GPシューズ Blue	桁架護腿	英詞「blue」應義譯（期望：青|藍|蒼）
-legs	need_semantic	high	6572	Truss FZシューズ Red	桁架護腿	英詞「red」應義譯（期望：赤|紅|緋）
-legs	need_semantic	high	6573	Truss HSシューズ Red	桁架護腿	英詞「red」應義譯（期望：赤|紅|緋）
-legs	need_semantic	high	6574	Truss GSシューズ Red	桁架護腿	英詞「red」應義譯（期望：赤|紅|緋）
-legs	need_semantic	high	6575	Truss GPシューズ Red	桁架護腿	英詞「red」應義譯（期望：赤|紅|緋）
-legs	need_semantic	high	6580	Truss FZシューズ White	桁架護腿	英詞「white」應義譯（期望：白）
-legs	need_semantic	high	6581	Truss HSシューズ White	桁架護腿	英詞「white」應義譯（期望：白）
-legs	need_semantic	high	6582	Truss GSシューズ White	桁架護腿	英詞「white」應義譯（期望：白）
-legs	need_semantic	high	6583	Truss GPシューズ White	桁架護腿	英詞「white」應義譯（期望：白）
-legs	need_semantic	high	6588	Truss FZシューズ Purple	桁架護腿	英詞「purple」應義譯（期望：紫）
-legs	need_semantic	high	6589	Truss HSシューズ Purple	桁架護腿	英詞「purple」應義譯（期望：紫）
-legs	need_semantic	high	6590	Truss GSシューズ Purple	桁架護腿	英詞「purple」應義譯（期望：紫）
-legs	need_semantic	high	6591	Truss GPシューズ Purple	桁架護腿	英詞「purple」應義譯（期望：紫）
 legs	truncate	blocking	7450	Brooke Feet	溪足	疑似截斷／系列名丟失
 legs	truncate	blocking	7457	Brooke Boots	溪靴	疑似截斷／系列名丟失
 legs	truncate	blocking	7464	Pale Sakura 【 Hakama 】	淡櫻袴	疑似截斷／系列名丟失
 legs	truncate	blocking	7471	Sakura Cloud 【 Hakama 】	櫻雲袴	疑似截斷／系列名丟失
-legs	need_semantic	high	7970	Tenpi ノ鉄衣・Red	天陽護腿	英詞「red」應義譯（期望：赤|紅|緋）
-legs	need_semantic	high	7971	Tenpi ノ鉄衣F・Red	天陽護腿【Ｆ】	英詞「red」應義譯（期望：赤|紅|緋）
-legs	need_semantic	high	7972	Tenpi ノ鉄衣FZ・Red	天陽護腿【ＦＺ】	英詞「red」應義譯（期望：赤|紅|緋）
-legs	need_semantic	high	7973	Tenpi ノ鉄衣HS・Red	天陽護腿【ＨＳ】	英詞「red」應義譯（期望：赤|紅|緋）
-legs	need_semantic	high	7974	Tenpi ノ鉄衣GS・Red	天陽護腿【ＧＳ】	英詞「red」應義譯（期望：赤|紅|緋）
-legs	need_semantic	high	7975	Tenpi ノ鉄衣GP・Red	天陽護腿【ＧＰ】	英詞「red」應義譯（期望：赤|紅|緋）
-legs	need_semantic	high	7982	Tenpi ノ鉄衣・Blue	天陽護腿	英詞「blue」應義譯（期望：青|藍|蒼）
-legs	need_semantic	high	7983	Tenpi ノ鉄衣F・Blue	天陽護腿【Ｆ】	英詞「blue」應義譯（期望：青|藍|蒼）
-legs	need_semantic	high	7984	Tenpi ノ鉄衣FZ・Blue	天陽護腿【ＦＺ】	英詞「blue」應義譯（期望：青|藍|蒼）
-legs	need_semantic	high	7985	Tenpi ノ鉄衣HS・Blue	天陽護腿【ＨＳ】	英詞「blue」應義譯（期望：青|藍|蒼）
-legs	need_semantic	high	7986	Tenpi ノ鉄衣GS・Blue	天陽護腿【ＧＳ】	英詞「blue」應義譯（期望：青|藍|蒼）
-legs	need_semantic	high	7987	Tenpi ノ鉄衣GP・Blue	天陽護腿【ＧＰ】	英詞「blue」應義譯（期望：青|藍|蒼）
-legs	need_semantic	high	7994	Tenpi ノ鉄衣・Black	天陽護腿	英詞「black」應義譯（期望：黑|墨）
-legs	need_semantic	high	7995	Tenpi ノ鉄衣F・Black	天陽護腿【Ｆ】	英詞「black」應義譯（期望：黑|墨）
-legs	need_semantic	high	7996	Tenpi ノ鉄衣FZ・Black	天陽護腿【ＦＺ】	英詞「black」應義譯（期望：黑|墨）
-legs	need_semantic	high	7997	Tenpi ノ鉄衣HS・Black	天陽護腿【ＨＳ】	英詞「black」應義譯（期望：黑|墨）
-legs	need_semantic	high	7998	Tenpi ノ鉄衣GS・Black	天陽護腿【ＧＳ】	英詞「black」應義譯（期望：黑|墨）
-legs	need_semantic	high	7999	Tenpi ノ鉄衣GP・Black	天陽護腿【ＧＰ】	英詞「black」應義譯（期望：黑|墨）
-legs	need_semantic	high	8006	Tenpi ノ鉄衣・White	天陽護腿	英詞「white」應義譯（期望：白）
-legs	need_semantic	high	8007	Tenpi ノ鉄衣F・White	天陽護腿【Ｆ】	英詞「white」應義譯（期望：白）
-legs	need_semantic	high	8008	Tenpi ノ鉄衣FZ・White	天陽護腿【ＦＺ】	英詞「white」應義譯（期望：白）
-legs	need_semantic	high	8009	Tenpi ノ鉄衣HS・White	天陽護腿【ＨＳ】	英詞「white」應義譯（期望：白）
-legs	need_semantic	high	8010	Tenpi ノ鉄衣GS・White	天陽護腿【ＧＳ】	英詞「white」應義譯（期望：白）
-legs	need_semantic	high	8011	Tenpi ノ鉄衣GP・White	天陽護腿【ＧＰ】	英詞「white」應義譯（期望：白）
 legs	truncate	blocking	8054	Dolce Feet	甜足	疑似截斷／系列名丟失
 legs	truncate	blocking	8060	Dolce Leg	甜腿	疑似截斷／系列名丟失
 legs	truncate	blocking	8181	Mist 【 Hakama 】	霧袴	疑似截斷／系列名丟失
@@ -1245,76 +250,23 @@ legs	truncate	blocking	9157	Kurai 【 Hakama 】	暗袴	疑似截斷／系列名
 legs	truncate	blocking	9163	Kurai 【 Hakama 】	暗袴	疑似截斷／系列名丟失
 legs	truncate	blocking	10036	Brown Feet	茶足	疑似截斷／系列名丟失
 legs	truncate	blocking	10084	Two-tone Feet	雙色足	疑似截斷／系列名丟失
-legs	need_semantic	high	10669	Blue Ice Emperor D Feet	伊克艾斯足・青	英詞「ice」應義譯（期望：氷|冰）
-legs	need_semantic	high	10670	White Ice Emperor D Feet	伊克艾斯足・白	英詞「ice」應義譯（期望：氷|冰）
-legs	need_semantic	high	10671	Red Ice Emperor D Feet	伊克艾斯足・赤	英詞「ice」應義譯（期望：氷|冰）
 legs	truncate	blocking	10697	Lien D Feet・藍	藍足	疑似截斷／系列名丟失
 legs	need_semantic	high	10806	King Beetle D Crura	克伊恩艾腿甲	英詞「king」應義譯（期望：王）
 legs	truncate	blocking	10815	Dragon D Feet	龍足	疑似截斷／系列名丟失
-legs	need_semantic	high	11126	Knight King Legs BM D Blue	克伊格伊腿甲・青	英詞「knight」應義譯（期望：騎士）
-legs	need_semantic	high	11127	Knight King Legs BM D Red	克伊格伊腿甲・赤	英詞「knight」應義譯（期望：騎士）
-legs	need_semantic	high	11128	Knight King Legs BM D Black	克伊格伊腿甲・黑	英詞「knight」應義譯（期望：騎士）
-legs	need_semantic	high	11129	Knight King Legs BM D White	克伊格伊腿甲・白	英詞「knight」應義譯（期望：騎士）
-legs	need_semantic	high	11130	Hero King Legs BM D Gold	赫艾爾歐腿甲・金	英詞「king」應義譯（期望：王）
-legs	need_semantic	high	11131	Hero King Legs BM D Black	赫艾爾歐腿甲・黑	英詞「king」應義譯（期望：王）
-legs	need_semantic	high	11132	Hero King Legs BM D White	赫艾爾歐腿甲・白	英詞「king」應義譯（期望：王）
-legs	need_semantic	high	11133	Hero King Legs BM D Red	赫艾爾歐腿甲・赤	英詞「king」應義譯（期望：王）
 legs	truncate	blocking	11201	Twin Star Feet	雙星足	疑似截斷／系列名丟失
-legs	need_semantic	high	11250	Piercing Light Feet	普伊爾伊足	英詞「light」應義譯（期望：光|明）
-legs	need_semantic	high	11251	Piercing Light F Feet	普伊爾伊足【Ｆ】	英詞「light」應義譯（期望：光|明）
-legs	need_semantic	high	11252	Piercing Light FZ Feet	普伊爾伊足【ＦＺ】	英詞「light」應義譯（期望：光|明）
-legs	need_semantic	high	11253	Piercing Light HS Feet	普伊爾伊足【ＨＳ】	英詞「light」應義譯（期望：光|明）
-legs	need_semantic	high	11254	Piercing Light GS Feet	普伊爾伊足【ＧＳ】	英詞「light」應義譯（期望：光|明）
-legs	need_semantic	high	11255	Piercing Light GP Feet	普伊爾伊足【ＧＰ】	英詞「light」應義譯（期望：光|明）
-legs	need_semantic	high	11256	Piercing Light ZP Feet	普伊爾伊足【ＺＰ】	英詞「light」應義譯（期望：光|明）
 legs	need_semantic	high	11550	Rampage D Feet	爾阿姆阿足	英詞「rampage」應義譯（期望：狂暴|暴）
 legs	need_semantic	high	11551	Blaze D Feet	布阿茲艾足	英詞「blaze」應義譯（期望：烈焔|焰|焔|炎）
 legs	need_semantic	high	11560	Guild Bard C Boots	獵團靴	英詞「bard」應義譯（期望：吟遊|詩人|詩）
 legs	need_semantic	high	11561	Scholar C Socks	施歐爾阿襪	英詞「scholar」應義譯（期望：學者|学士|學）
 legs	truncate	blocking	11573	Dragon SC Feet	龍足	疑似截斷／系列名丟失
 legs	truncate	blocking	11575	Dragon GD Feet	龍足	疑似截斷／系列名丟失
-legs	need_semantic	high	11581	Garnet D Greaves	格阿爾艾護腿	英詞「garnet」應義譯（期望：石榴）
-legs	need_semantic	high	11582	Amethyst D Greaves	阿姆艾斯護腿	英詞「amethyst」應義譯（期望：紫水晶|紫晶）
-legs	need_semantic	high	11583	Coral D Greaves	克歐爾阿護腿	英詞「coral」應義譯（期望：珊瑚）
-legs	need_semantic	high	11584	Quartz D Greaves	斯烏爾護腿	英詞「quartz」應義譯（期望：石英|水晶）
-legs	need_semantic	high	11585	Emerald D Greaves	艾姆艾爾護腿	英詞「emerald」應義譯（期望：翠|綠寶石|緑|祖母綠）
-legs	need_semantic	high	11586	Pearl D Greaves	普艾爾護腿	英詞「pearl」應義譯（期望：珠|珍珠）
-legs	need_semantic	high	11587	Ruby D Greaves	爾烏布護腿	英詞「ruby」應義譯（期望：紅寶石|紅玉|紅）
-legs	need_semantic	high	11588	Sapphire D Greaves	斯阿普伊護腿	英詞「sapphire」應義譯（期望：藍寶石|藍玉|藍）
-legs	need_semantic	high	11589	Topaz D Leggings	特歐普阿裹腿	英詞「topaz」應義譯（期望：黄玉|黃玉|托帕）
-legs	need_semantic	high	11590	Tourmaline D Leggings	特歐爾阿裹腿	英詞「tourmaline」應義譯（期望：電氣石|碧璽|托瑪琳|電気石）
-legs	need_semantic	high	11591	Lapis D Leggings	爾阿普伊裹腿	英詞「lapis」應義譯（期望：青金|琉璃）
-legs	need_semantic	high	11592	Hisui D Greaves	赫伊斯烏護腿	英詞「hisui」應義譯（期望：翡翠）
-legs	need_semantic	high	11593	Onyx D Greaves	歐恩護腿	英詞「onyx」應義譯（期望：縞瑪瑙|瑪瑙|縞|縞瑪）
-legs	truncate	blocking	11595	Gen ーツ Feet D	源足	疑似截斷／系列名丟失
 legs	need_semantic	high	11623	Burning Cliff D [Hakama 】	布烏爾伊袴	英詞「burning」應義譯（期望：燃|焰|焔）
-legs	need_semantic	high	11624	Crimson Cliff D [Hakama 】	克伊芙袴・紅	英詞「cliff」應義譯（期望：崖）
 legs	need_semantic	high	11628	Crushing Fog D [Hakama 】	克烏夏伊袴	英詞「crushing」應義譯（期望：碎|砕）
 legs	need_semantic	high	11629	Valued Word Hakama D	芙阿爾烏袴	英詞「valued」應義譯（期望：珍|貴|重|値|值）
 legs	truncate	blocking	11630	Blue Sky Hakama D	蒼天袴	疑似截斷／系列名丟失
 legs	need_semantic	high	11631	Noon Glow Hakama D	恩歐恩歐袴	英詞「noon」應義譯（期望：午）
-legs	need_semantic	high	11633	True Shadow Hakama D	特烏斯阿袴	英詞「true」應義譯（期望：真）
+legs	truncate	blocking	11633	True Shadow Hakama D	真影袴	疑似截斷／系列名丟失
 legs	need_semantic	high	11834	Rolling Sky Greaves・D	爾歐爾伊護腿	英詞「sky」應義譯（期望：天|空）
-legs	need_semantic	high	11955	Dragon Slayer Armor・Toenail	德阿格歐趾甲	英詞「dragon」應義譯（期望：龍）
-legs	need_semantic	high	11956	Dragon Slayer Armor F・Toenail	德阿格歐趾甲【Ｆ】	英詞「dragon」應義譯（期望：龍）
-legs	need_semantic	high	11957	Dragon Slayer Armor FZ・Toenail	德阿格歐趾甲【ＦＺ】	英詞「dragon」應義譯（期望：龍）
-legs	need_semantic	high	11958	Dragon Slayer Armor HS・Toenail	德阿格歐趾甲【ＨＳ】	英詞「dragon」應義譯（期望：龍）
-legs	need_semantic	high	11959	Dragon Slayer Armor GS・Toenail	德阿格歐趾甲【ＧＳ】	英詞「dragon」應義譯（期望：龍）
-legs	need_semantic	high	11960	Dragon Slayer Armor GP・Toenail	德阿格歐趾甲【ＧＰ】	英詞「dragon」應義譯（期望：龍）
-legs	need_semantic	high	11961	Dragon Slayer Armor ZP・Toenail	德阿格歐趾甲【ＺＰ】	英詞「dragon」應義譯（期望：龍）
-legs	need_semantic	high	11962	Dragon Slayer Armor・Greaves	德阿格歐護腿	英詞「dragon」應義譯（期望：龍）
-legs	need_semantic	high	11963	Dragon Slayer Armor F・Greaves	德阿格歐護腿【Ｆ】	英詞「dragon」應義譯（期望：龍）
-legs	need_semantic	high	11964	Dragon Slayer Armor FZ・Greaves	德阿格歐護腿【ＦＺ】	英詞「dragon」應義譯（期望：龍）
-legs	need_semantic	high	11965	Dragon Slayer Armor HS・Greaves	德阿格歐護腿【ＨＳ】	英詞「dragon」應義譯（期望：龍）
-legs	need_semantic	high	11966	Dragon Slayer Armor GS・Greaves	德阿格歐護腿【ＧＳ】	英詞「dragon」應義譯（期望：龍）
-legs	need_semantic	high	11967	Dragon Slayer Armor GP・Greaves	德阿格歐護腿【ＧＰ】	英詞「dragon」應義譯（期望：龍）
-legs	need_semantic	high	11968	Dragon Slayer Armor ZP・Greaves	德阿格歐護腿【ＺＰ】	英詞「dragon」應義譯（期望：龍）
-legs	need_semantic	high	12051	Kushala ペイル PD Red	鋼龍護腿【ＰＤ】	英詞「red」應義譯（期望：赤|紅|緋）
-legs	need_semantic	high	12052	Kushala ペイル PD Yellow	鋼龍護腿【ＰＤ】	英詞「yellow」應義譯（期望：黄|黃）
-legs	need_semantic	high	12053	Kushala ペイル PD Green	鋼龍護腿【ＰＤ】	英詞「green」應義譯（期望：緑|綠|翠）
-legs	need_semantic	high	12054	Kushala ハディ PD Red	鋼龍護腿【ＰＤ】	英詞「red」應義譯（期望：赤|紅|緋）
-legs	need_semantic	high	12055	Kushala ハディ PD Yellow	鋼龍護腿【ＰＤ】	英詞「yellow」應義譯（期望：黄|黃）
-legs	need_semantic	high	12056	Kushala ハディ PD Green	鋼龍護腿【ＰＤ】	英詞「green」應義譯（期望：緑|綠|翠）
 legs	truncate	blocking	12087	Wing Feet	翼足	疑似截斷／系列名丟失
 legs	truncate	blocking	12094	Wing Boots	翼靴	疑似截斷／系列名丟失
 legs	truncate	blocking	12159	Gray Feet	灰足	疑似截斷／系列名丟失
@@ -1326,7 +278,7 @@ legs	truncate	blocking	12244	Byakko・砲皇D Feet	砲皇足	疑似截斷／系�
 legs	truncate	blocking	12246	Byakko・奏帝D Feet	奏帝足	疑似截斷／系列名丟失
 legs	truncate	blocking	12247	Byakko・穿凰D Feet	穿凰足	疑似截斷／系列名丟失
 legs	truncate	blocking	12248	Byakko・斬将D Feet	斬将足	疑似截斷／系列名丟失
-legs	truncate	blocking	12251	Byakko・Bow 鬼D Boots	鬼靴	疑似截斷／系列名丟失
+legs	truncate	blocking	12251	Byakko・Bow 鬼D Boots	白虎靴	疑似截斷／系列名丟失
 legs	need_semantic	high	12254	キリンレガースPD Black	奇里恩雷加斯護腿	英詞「black」應義譯（期望：黑|墨）
 legs	truncate	blocking	12285	Suzaku・双龍D Feet	双龍足	疑似截斷／系列名丟失
 legs	truncate	blocking	12286	Suzaku・剣王D Feet	剣王足	疑似截斷／系列名丟失
@@ -1335,19 +287,10 @@ legs	truncate	blocking	12289	Suzaku・砲皇D Feet	砲皇足	疑似截斷／系�
 legs	truncate	blocking	12291	Suzaku・奏帝D Feet	奏帝足	疑似截斷／系列名丟失
 legs	truncate	blocking	12292	Suzaku・穿凰D Feet	穿凰足	疑似截斷／系列名丟失
 legs	truncate	blocking	12293	Suzaku・斬将D Feet	斬将足	疑似截斷／系列名丟失
-legs	truncate	blocking	12296	Suzaku・Bow 鬼D Boots	鬼靴	疑似截斷／系列名丟失
-legs	need_semantic	high	12297	G・Knight タイツ PD Red	騎士護腿【Ｇ】【ＰＤ】	英詞「red」應義譯（期望：赤|紅|緋）
-legs	need_semantic	high	12298	G・Knight タイツ PD Blue	騎士護腿【Ｇ】【ＰＤ】	英詞「blue」應義譯（期望：青|藍|蒼）
-legs	need_semantic	high	12299	G・Knight タイツ PD Purple	騎士護腿【Ｇ】【ＰＤ】	英詞「purple」應義譯（期望：紫）
-legs	need_semantic	high	12300	PVタイツ PD Red	普護腿【ＰＤ】	英詞「red」應義譯（期望：赤|紅|緋）
-legs	need_semantic	high	12301	PVタイツ PD Blue	普護腿【ＰＤ】	英詞「blue」應義譯（期望：青|藍|蒼）
-legs	need_semantic	high	12302	PVタイツ PD Purple	普護腿【ＰＤ】	英詞「purple」應義譯（期望：紫）
-legs	need_semantic	high	12321	Akantor ケマル PD Black	霸龍護腿【ＰＤ】	英詞「black」應義譯（期望：黑|墨）
-legs	need_semantic	high	12322	Akantor ケマル PD Red	霸龍護腿【ＰＤ】	英詞「red」應義譯（期望：赤|紅|緋）
-legs	need_semantic	high	12323	Akantor ケマル PD White	霸龍護腿【ＰＤ】	英詞「white」應義譯（期望：白）
-legs	need_semantic	high	12324	Akantor チケル PD Black	霸龍護腿【ＰＤ】	英詞「black」應義譯（期望：黑|墨）
-legs	need_semantic	high	12325	Akantor チケル PD Red	霸龍護腿【ＰＤ】	英詞「red」應義譯（期望：赤|紅|緋）
-legs	need_semantic	high	12326	Akantor チケル PD White	霸龍護腿【ＰＤ】	英詞「white」應義譯（期望：白）
+legs	truncate	blocking	12296	Suzaku・Bow 鬼D Boots	朱雀靴	疑似截斷／系列名丟失
+legs	need_semantic	high	12300	PVタイツ PD Red	塔伊茨護腿【ＰＤ】	英詞「red」應義譯（期望：赤|紅|緋）
+legs	need_semantic	high	12301	PVタイツ PD Blue	塔伊茨護腿【ＰＤ】	英詞「blue」應義譯（期望：青|藍|蒼）
+legs	need_semantic	high	12302	PVタイツ PD Purple	塔伊茨護腿【ＰＤ】	英詞「purple」應義譯（期望：紫）
 legs	truncate	blocking	12439	Fins Feet	鰭足	疑似截斷／系列名丟失
 legs	truncate	blocking	12446	Fins Boots	鰭靴	疑似截斷／系列名丟失
 legs	truncate	blocking	12680	Genbu・双龍D Feet	双龍足	疑似截斷／系列名丟失
@@ -1357,33 +300,11 @@ legs	truncate	blocking	12684	Genbu・砲皇D Feet	砲皇足	疑似截斷／系�
 legs	truncate	blocking	12686	Genbu・奏帝D Feet	奏帝足	疑似截斷／系列名丟失
 legs	truncate	blocking	12687	Genbu・穿凰D Feet	穿凰足	疑似截斷／系列名丟失
 legs	truncate	blocking	12688	Genbu・斬将D Feet	斬将足	疑似截斷／系列名丟失
-legs	truncate	blocking	12691	Genbu・Bow 鬼D Boots	鬼靴	疑似截斷／系列名丟失
+legs	truncate	blocking	12691	Genbu・Bow 鬼D Boots	玄武靴	疑似截斷／系列名丟失
 legs	truncate	blocking	12694	Byakko・磁星D Feet	磁星足	疑似截斷／系列名丟失
 legs	truncate	blocking	12695	Suzaku・磁星D Feet	磁星足	疑似截斷／系列名丟失
 legs	truncate	blocking	12696	Genbu・磁星D Feet	磁星足	疑似截斷／系列名丟失
-legs	need_semantic	high	12743	Tenpi ノ鉄衣D・Red	天陽護腿	英詞「red」應義譯（期望：赤|紅|緋）
-legs	need_semantic	high	12744	Tenpi ノ鉄衣D・Blue	天陽護腿	英詞「blue」應義譯（期望：青|藍|蒼）
-legs	need_semantic	high	12745	Tenpi ノ鉄衣D・Black	天陽護腿	英詞「black」應義譯（期望：黑|墨）
-legs	need_semantic	high	12746	Tenpi ノ鉄衣D・White	天陽護腿	英詞「white」應義譯（期望：白）
-legs	need_semantic	high	12765	Gloria D Feet・Water	格歐爾伊足	英詞「water」應義譯（期望：水）
 legs	truncate	blocking	12826	Honour D Feet・紺	紺足	疑似截斷／系列名丟失
-legs	need_semantic	high	12830	Pics D Feet・Water	普伊克阿足	英詞「water」應義譯（期望：水）
-legs	need_semantic	high	12833	Magos D Feet・Water	姆阿格歐足	英詞「water」應義譯（期望：水）
-legs	need_semantic	high	12844	Cayssis D Feet Water	克阿伊伊足	英詞「water」應義譯（期望：水）
-legs	need_semantic	high	12867	Galitos D Feet・Water	格阿爾伊足	英詞「water」應義譯（期望：水）
-legs	truncate	blocking	12876	Gold D Feet・Red	德足	疑似截斷／系列名丟失
-legs	need_semantic	high	12876	Gold D Feet・Red	德足	英詞「gold」應義譯（期望：金）
-legs	truncate	blocking	12877	Gold D Feet・Blue	德足	疑似截斷／系列名丟失
-legs	need_semantic	high	12877	Gold D Feet・Blue	德足	英詞「gold」應義譯（期望：金）
-legs	truncate	blocking	12878	Gold D Feet・Yellow	德足	疑似截斷／系列名丟失
-legs	need_semantic	high	12878	Gold D Feet・Yellow	德足	英詞「gold」應義譯（期望：金）
-legs	truncate	blocking	12879	Gold D Feet・Purple	德足	疑似截斷／系列名丟失
-legs	need_semantic	high	12879	Gold D Feet・Purple	德足	英詞「gold」應義譯（期望：金）
-legs	need_semantic	high	12881	Claire D Feet・Water	克阿爾艾足	英詞「water」應義譯（期望：水）
-legs	need_semantic	high	12890	Star Festival D Tabi 【 Red 】	斯阿爾艾足袋・赤	英詞「star」應義譯（期望：星）
-legs	need_semantic	high	12891	Star Festival D Tabi 【 Blue 】	斯阿爾艾足袋・青	英詞「star」應義譯（期望：星）
-legs	need_semantic	high	12892	Star Festival D Tabi 【 Black 】	斯阿爾艾足袋・黑	英詞「star」應義譯（期望：星）
-legs	need_semantic	high	12893	Star Festival D Tabi 【 White 】	斯阿爾艾足袋・白	英詞「star」應義譯（期望：星）
 legs	truncate	blocking	13316	Fine Feet	精足	疑似截斷／系列名丟失
 legs	truncate	blocking	13323	Fine Boots	精靴	疑似截斷／系列名丟失
 legs	truncate	blocking	13465	Seiryu・双龍D Feet	双龍足	疑似截斷／系列名丟失
@@ -1393,6 +314,6 @@ legs	truncate	blocking	13469	Seiryu・砲皇D Feet	砲皇足	疑似截斷／系�
 legs	truncate	blocking	13471	Seiryu・奏帝D Feet	奏帝足	疑似截斷／系列名丟失
 legs	truncate	blocking	13472	Seiryu・穿凰D Feet	穿凰足	疑似截斷／系列名丟失
 legs	truncate	blocking	13473	Seiryu・斬将D Feet	斬将足	疑似截斷／系列名丟失
-legs	truncate	blocking	13476	Seiryu・Bow 鬼D Boots	鬼靴	疑似截斷／系列名丟失
+legs	truncate	blocking	13476	Seiryu・Bow 鬼D Boots	青龍靴	疑似截斷／系列名丟失
 legs	truncate	blocking	13477	Seiryu・磁星D Feet	磁星足	疑似截斷／系列名丟失
 legs	need_semantic	high	13511	Shadow Tabi・D	夏阿德歐足袋	英詞「shadow」應義譯（期望：影|闇）
