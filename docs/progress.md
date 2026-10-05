@@ -46,7 +46,7 @@
 ## weapons-melee-name
 
 - status: in_progress
-- notes: "2026-10-05 分層：type-dict 定稿；P1 S+A+B=923（定稿648）；P2 套用+charset；validate PASS。C 未洗表。"
+- notes: "2026-10-05 分層：P1 923 列／定稿776／pending147；P3 PASS；P3b wash=831；C 未洗表；未 mhfdat。"
 
 ### files
 
@@ -59,7 +59,7 @@
 ## weapons-ranged-name
 
 - status: in_progress
-- notes: "2026-10-05 與近戰共用 series-dict；P1 S+A+B；validate PASS。"
+- notes: "2026-10-05 與近戰共用 series-dict；定稿776／pending147；P3b=831。"
 
 ### files
 
