@@ -61,8 +61,8 @@ index,source,target
 59,Healer Vest,治癒背心
 60,Garuga Mail,黑狼鳥鎧甲
 61,Garuga Vest,黑狼鳥背心
-62,暁丸【胴当て】,胴当て暁丸鎧甲
-63,曙丸【胴当て】,胴当て曙丸鎧甲
+62,暁丸【胴当て】,暁丸胴當
+63,曙丸【胴当て】,曙丸胴當
 64,凛【胸当て】,胸当て凛鎧甲
 65,艶【胸当て】,胸当て艶鎧甲
 66,Dragon Hide,龍皮衣
@@ -116,16 +116,16 @@ index,source,target
 114,Guardian U Vest,守護者背心【Ｕ】
 115,Helper U Vest,助手背心【Ｕ】
 116,Healer U Vest,治癒背心【Ｕ】
-117,暁丸・皇【胴当て】,胴当て暁丸皇鎧甲
-118,曙丸・皇【胴当て】,胴当て曙丸皇鎧甲
+117,暁丸・皇【胴当て】,暁丸皇胴當
+118,曙丸・皇【胴当て】,曙丸皇胴當
 119,凛・皇【胸当て】,胸当て凛皇鎧甲
 120,艶・皇【胸当て】,胸当て艶皇鎧甲
 121,ミラ Vulcan Hide,火神皮衣
 122,ミラ Vulcan Skin,火神皮
 123,ゴールド Lune Mail,月鎧甲
 124,ゴールド Lune Vest,月背心
-125,Silver Sol Mail,日鎧甲・銀
-126,Silver Sol Vest,日背心・銀
+125,Silver Sol Mail,銀日鎧甲
+126,Silver Sol Vest,銀日背心
 127,Leather S Mail,皮革鎧甲【Ｓ】
 128,Chainmail S Mail,鎖鏈鎧甲【Ｓ】
 129,Hunter's S Mail,獵人鎧甲【Ｓ】
@@ -169,14 +169,14 @@ index,source,target
 167,Monoblos S Vest,一角龍背心【Ｓ】
 168,Gravios S Mail,鎧龍鎧甲【Ｓ】
 169,Gravios S Vest,鎧龍背心【Ｓ】
-170,忍の Shozoku・Heaven,忍の裝束・天
-171,忍の Shozoku・Earth,忍の裝束・地
+170,忍の Shozoku・Heaven,忍の天裝束
+171,忍の Shozoku・Earth,忍の地裝束
 172,Guild Guard Suit Crimson,公會守衛套裝・紅
 173,Guild Guard Vest Crimson,公會守衛背心・紅
 174,Guild Guard Suit Crimson,公會守衛套裝・紅
 175,Guild Guard Vest Crimson,公會守衛背心・紅
-176,暁丸・覇【胴当て】,胴当て暁丸覇鎧甲
-177,曙丸・覇【胴当て】,胴当て曙丸覇鎧甲
+176,暁丸・覇【胴当て】,暁丸胴當
+177,曙丸・覇【胴当て】,曙丸胴當
 178,凛・覇【胸当て】,胸当て凛覇鎧甲
 179,艶・覇【胸当て】,胸当て艶覇鎧甲
 180,Dragon S Hide,龍皮衣【Ｓ】
@@ -215,14 +215,14 @@ index,source,target
 213,Toyotama [Chestplate 】,豐玉胸甲
 214,Empress Mail,女帝鎧甲
 215,Empress Vest,女帝背心
-216,Gold 剛【胴当て】,胴当て剛鎧甲・金
-217,不動【胴当て】,胴当て不動鎧甲
+216,Gold 剛【胴当て】,金胴當剛
+217,不動【胴当て】,不動胴當
 218,Kaiser Mail,帝王鎧甲
 219,Kaiser Vest,帝王背心
 220,夜叉【羽衣】,夜叉羽衣
 221,修羅【羽衣】,修羅羽衣
 222,Golden Haori,金羽織
-223,Puppeteer ノ装束,装束鎧甲
+223,Puppeteer ノ装束,操偶鎧甲
 224,White Fatalis Hide,白黑龍皮衣
 225,White Fatalis Skin,白黑龍皮
 226,Black Belt S Mail,黑帶鎧甲【Ｓ】
@@ -254,11 +254,11 @@ index,source,target
 252,Gia U Vest,格伊背心【Ｕ】
 253,White Cat Suit,白猫套裝
 254,Black Cat Suit,黑猫套裝
-255,Gold Cat Suit,猫套裝・金
+255,Gold Cat Suit,金猫套裝
 256,Gothic Plate,哥德板甲
 257,Gothic F Plate,哥德板甲【Ｆ】
 258,Beil Brigantes,布艾爾伊鎧甲
-259,Comrade Mail 【猩】,戰友猩鎧甲
+259,Comrade Mail 【猩】,戰友鎧甲猩
 260,Jisutoreru Vest,吉斯特雷背心
 261,Duo Mail,雙鎧甲
 262,Smart Vest,機靈背心
@@ -304,32 +304,32 @@ index,source,target
 302,Kushala Fバダル,鋼龍鎧甲
 303,Kaiser F Mail,帝王鎧甲【Ｆ】
 304,Kaiser F Vest,帝王背心【Ｆ】
-305,Mizuha 魁 [Chestplate 】,魁胸甲
-306,Toyotama 魁 [Chestplate 】,魁胸甲
-307,Gold 剛・魁【胴当て】,胴当て剛魁鎧甲・金
-308,不動・魁【胴当て】,胴当て不動魁鎧甲
-309,夜叉・魁【羽衣】,夜叉魁羽衣
-310,修羅・魁【羽衣】,修羅魁羽衣
+305,Mizuha 魁 [Chestplate 】,水羽胸甲魁
+306,Toyotama 魁 [Chestplate 】,豐玉胸甲魁
+307,Gold 剛・魁【胴当て】,金胴當魁剛
+308,不動・魁【胴当て】,不動胴當魁
+309,夜叉・魁【羽衣】,夜叉羽衣魁
+310,修羅・魁【羽衣】,修羅羽衣魁
 311,Empress F Mail,女帝鎧甲【Ｆ】
 312,Empress F Vest,女帝背心【Ｆ】
-313,Golden Haori・魁,魁羽織
-314,Puppeteer ノ装束・魁,装束魁鎧甲
+313,Golden Haori・魁,金羽織魁
+314,Puppeteer ノ装束・魁,操偶鎧甲魁
 315,Garuga F Mail,黑狼鳥鎧甲【Ｆ】
 316,Garuga F Vest,黑狼鳥背心【Ｆ】
 317,Kushala F Diru,鋼龍上衣【Ｆ】
 318,Kushala Fバダル,鋼龍鎧甲
 319,Kaiser F Mail,帝王鎧甲【Ｆ】
 320,Kaiser F Vest,帝王背心【Ｆ】
-321,Mizuha 魁 [Chestplate 】,魁胸甲
-322,Toyotama 魁 [Chestplate 】,魁胸甲
-323,Gold 剛・魁【胴当て】,胴当て剛魁鎧甲・金
-324,不動・魁【胴当て】,胴当て不動魁鎧甲
-325,夜叉・魁【羽衣】,夜叉魁羽衣
-326,修羅・魁【羽衣】,修羅魁羽衣
+321,Mizuha 魁 [Chestplate 】,水羽胸甲魁
+322,Toyotama 魁 [Chestplate 】,豐玉胸甲魁
+323,Gold 剛・魁【胴当て】,金胴當魁剛
+324,不動・魁【胴当て】,不動胴當魁
+325,夜叉・魁【羽衣】,夜叉羽衣魁
+326,修羅・魁【羽衣】,修羅羽衣魁
 327,Empress F Mail,女帝鎧甲【Ｆ】
 328,Empress F Vest,女帝背心【Ｆ】
-329,Golden Haori・魁,魁羽織
-330,Puppeteer ノ装束・魁,装束魁鎧甲
+329,Golden Haori・魁,金羽織魁
+330,Puppeteer ノ装束・魁,操偶鎧甲魁
 331,Garuga F Mail,黑狼鳥鎧甲【Ｆ】
 332,Garuga F Vest,黑狼鳥背心【Ｆ】
 333,Lavasioth U Mail,熔岩龍鎧甲【Ｕ】
@@ -337,10 +337,10 @@ index,source,target
 335,White Metal Mail,白金屬鎧甲
 336,Celeste Plate,天空板甲
 337,Ciel Brigantes,克伊爾伊鎧甲
-338,Comrada Mail 【 Red 】,克歐姆阿鎧甲・赤
-339,Comrada Mail 【 Blue 】,克歐姆阿鎧甲・青
-340,Comrada Mail 【 Green 】,克歐姆阿鎧甲・緑
-341,Comrada Mail 【 Orange 】,克歐姆阿鎧甲・橙
+338,Comrada Mail 【 Red 】,戰友鎧甲・赤
+339,Comrada Mail 【 Blue 】,戰友鎧甲・青
+340,Comrada Mail 【 Green 】,戰友鎧甲・緑
+341,Comrada Mail 【 Orange 】,戰友鎧甲・橙
 342,Dummy,(dummy)
 343,Dummy,(dummy)
 344,Espinas Muscle,棘龍筋肉衣
@@ -429,36 +429,36 @@ index,source,target
 427,Eques Vest 改,改背心
 428,Eques F Mail,騎士鎧甲【Ｆ】
 429,Eques F Vest,騎士背心【Ｆ】
-430,Star Festival Shozoku・Summer [Red 】,斯阿爾艾裝束・赤
-431,Star Festival Shozoku・Summer [Blue 】,斯阿爾艾裝束・青
-432,Star Festival Shozoku・Summer [Black 】,斯阿爾艾裝束・黑
-433,Star Festival Shozoku・Summer [White 】,斯阿爾艾裝束・白
-434,Tanabata Shozoku・Summer [Red 】,特阿恩阿裝束・赤
-435,Tanabata Shozoku・Summer [Blue 】,特阿恩阿裝束・青
-436,Tanabata Shozoku・Summer [Black 】,特阿恩阿裝束・黑
-437,Tanabata Shozoku・Summer [White 】,特阿恩阿裝束・白
-438,Star Festival Shozoku・織 [Red 】,織裝束・赤
-439,Star Festival Shozoku・織 [Blue 】,織裝束・青
-440,Star Festival Shozoku・織 [Black 】,織裝束・黑
-441,Star Festival Shozoku・織 [White 】,織裝束・白
+430,Star Festival Shozoku・Summer [Red 】,星祭夏裝束・赤
+431,Star Festival Shozoku・Summer [Blue 】,星祭夏裝束・青
+432,Star Festival Shozoku・Summer [Black 】,星祭夏裝束・黑
+433,Star Festival Shozoku・Summer [White 】,星祭夏裝束・白
+434,Tanabata Shozoku・Summer [Red 】,七夕夏裝束・赤
+435,Tanabata Shozoku・Summer [Blue 】,七夕夏裝束・青
+436,Tanabata Shozoku・Summer [Black 】,七夕夏裝束・黑
+437,Tanabata Shozoku・Summer [White 】,七夕夏裝束・白
+438,Star Festival Shozoku・織 [Red 】,星祭織裝束・赤
+439,Star Festival Shozoku・織 [Blue 】,星祭織裝束・青
+440,Star Festival Shozoku・織 [Black 】,星祭織裝束・黑
+441,Star Festival Shozoku・織 [White 】,星祭織裝束・白
 442,Tanabata Shozoku・織 [Red 】,織裝束・赤
 443,Tanabata Shozoku・織 [Blue 】,織裝束・青
 444,Tanabata Shozoku・織 [Black 】,織裝束・黑
 445,Tanabata Shozoku・織 [White 】,織裝束・白
-446,Star Festival Shozoku・Heaven [Red 】,星祭天裝束・赤・天
-447,Star Festival Shozoku・Heaven [Blue 】,星祭天裝束・青・天
-448,Star Festival Shozoku・Heaven [Black 】,星祭天裝束・黑・天
-449,Star Festival Shozoku・Heaven [White 】,星祭天裝束・白・天
-450,Tanabata Shozoku・Heaven [Red 】,七夕天裝束・赤・天
-451,Tanabata Shozoku・Heaven [Blue 】,七夕天裝束・青・天
-452,Tanabata Shozoku・Heaven [Black 】,七夕天裝束・黑・天
-453,Tanabata Shozoku・Heaven [White 】,七夕天裝束・白・天
+446,Star Festival Shozoku・Heaven [Red 】,星祭天裝束・赤
+447,Star Festival Shozoku・Heaven [Blue 】,星祭天裝束・青
+448,Star Festival Shozoku・Heaven [Black 】,星祭天裝束・黑
+449,Star Festival Shozoku・Heaven [White 】,星祭天裝束・白
+450,Tanabata Shozoku・Heaven [Red 】,七夕天裝束・赤
+451,Tanabata Shozoku・Heaven [Blue 】,七夕天裝束・青
+452,Tanabata Shozoku・Heaven [Black 】,七夕天裝束・黑
+453,Tanabata Shozoku・Heaven [White 】,七夕天裝束・白
 454,High Metal Mail SP Black,上位金屬鎧甲【ＳＰ】・黑
 455,High Metal Mail SP Blue,上位金屬鎧甲【ＳＰ】・青
 456,High Metal Mail SP Yellow,上位金屬鎧甲【ＳＰ】・黄
-457,S・Sol Mail SP Red,日鎧甲【Ｓ】【ＳＰ】・赤
-458,S・Sol Mail SP Purple,日鎧甲【Ｓ】【ＳＰ】・紫
-459,S・Sol Mail SP Black,日鎧甲【Ｓ】【ＳＰ】・黑
+457,S・Sol Mail SP Red,S索倫鎧甲【ＳＰ】・赤
+458,S・Sol Mail SP Purple,S索倫鎧甲【ＳＰ】・紫
+459,S・Sol Mail SP Black,S索倫鎧甲【ＳＰ】・黑
 460,Garuga Vest SP White,黑狼鳥背心【ＳＰ】・白
 461,Garuga Vest SP Green,黑狼鳥背心【ＳＰ】・緑
 462,Garuga Vest SP Red,黑狼鳥背心【ＳＰ】・赤
@@ -514,15 +514,15 @@ index,source,target
 512,Kushala Diru SP Red,鋼龍上衣【ＳＰ】・赤
 513,Kushala Diru SP Yellow,鋼龍上衣【ＳＰ】・黄
 514,Kushala Diru SP Green,鋼龍上衣【ＳＰ】・緑
-515,Kushala バダル SP Red,鋼龍鎧甲【ＳＰ】
-516,Kushala バダル SP Yellow,鋼龍鎧甲【ＳＰ】
-517,Kushala バダル SP Green,鋼龍鎧甲【ＳＰ】
+515,Kushala バダル SP Red,鋼龍鎧甲【ＳＰ】・赤
+516,Kushala バダル SP Yellow,鋼龍鎧甲【ＳＰ】・黄
+517,Kushala バダル SP Green,鋼龍鎧甲【ＳＰ】・緑
 518,Kirin Vest SP Red,麒麟背心【ＳＰ】・赤
 519,Kirin Vest SP Purple,麒麟背心【ＳＰ】・紫
 520,Kirin Vest SP Black,麒麟背心【ＳＰ】・黑
-521,Kirin ケープ SP Red,麒麟鎧甲【ＳＰ】
-522,Kirin ケープ SP Purple,麒麟鎧甲【ＳＰ】
-523,Kirin ケープ SP Black,麒麟鎧甲【ＳＰ】
+521,Kirin ケープ SP Red,麒麟鎧甲【ＳＰ】・赤
+522,Kirin ケープ SP Purple,麒麟鎧甲【ＳＰ】・紫
+523,Kirin ケープ SP Black,麒麟鎧甲【ＳＰ】・黑
 524,Strega Mail,魔女鎧甲
 525,Strega Vest,魔女背心
 526,Strega Mail 改,改鎧甲
@@ -597,7 +597,7 @@ index,source,target
 595,Hypnoc ルータ Suit,眠鳥套裝
 596,Hypnoc ルータ Vest,眠鳥背心
 597,Garuda Suit,迦樓羅套裝
-598,Garuda Vest 【 Heaven 】,迦樓羅背心・天
+598,Garuda Vest 【 Heaven 】,迦樓羅天背心
 599,ファミ通Tシャツ,芙米鎧甲
 600,ファミ通TシャツF,芙米鎧甲【Ｆ】
 601,Extra F Vest,追加背心【Ｆ】
@@ -607,8 +607,8 @@ index,source,target
 605,Priere Mail,普伊爾艾鎧甲
 606,Salvacion Mail,斯阿爾阿鎧甲
 607,Shikari の胴当て,の胴当て鎧甲
-608,Shikari の胴当て・魁,の胴当て魁鎧甲
-609,G・Guard R Suit Green,防禦套裝【Ｇ】【Ｒ】・緑
+608,Shikari の胴当て・魁,の胴当て鎧甲魁
+609,G・Guard R Suit Green,防禦套裝【Ｒ】・緑
 610,Arma Vest・Black,武裝背心・黑
 611,Arma Suit・Black,武裝套裝・黑
 612,Arma Vest・White,武裝背心・白
@@ -641,10 +641,10 @@ index,source,target
 639,Khezu R Mail,奇怪龍鎧甲【Ｒ】
 640,Rath Soul R Mail,火龍魂鎧甲【Ｒ】
 641,Gia R Mail,格伊鎧甲【Ｒ】
-642,G・Guard R Suit Green,防禦套裝【Ｇ】【Ｒ】・緑
+642,G・Guard R Suit Green,防禦套裝【Ｒ】・緑
 643,Khezu L Vest,奇怪龍背心【Ｌ】
 644,Io R Vest,伊歐背心【Ｒ】
-645,Garuda Vest 【 Earth 】,迦樓羅背心・地
+645,Garuda Vest 【 Earth 】,迦樓羅地背心
 646,Purokusu Mail,普烏爾歐鎧甲
 647,Purokusu F Mail,普烏爾歐鎧甲【Ｆ】
 648,Kurenesu Mail,克烏爾艾鎧甲
@@ -669,7 +669,7 @@ index,source,target
 667,Hypnolia Vest,赫歐爾伊背心
 668,Feral Suit,芙艾爾阿套裝
 669,Feral Vest,芙艾爾阿背心
-670,Demon Lord ノ肩鎧,惡魔鎧甲
+670,Demon Lord ノ肩鎧,魔王鎧甲
 671,Rasta 教官胴,教官胴鎧甲
 672,童子ノ肩鎧,童子肩鎧鎧甲
 673,ダミー,(dummy)
@@ -699,9 +699,9 @@ index,source,target
 697,Toyotama [Chest] SP Blue,豐玉胸甲【ＳＰ】・青
 698,Toyotama [Chest] SP Red,豐玉胸甲【ＳＰ】・赤
 699,Toyotama [Chest] SP Yellow,豐玉胸甲【ＳＰ】・黄
-700,暁丸【胴当て】 SP Red,胴当て暁丸鎧甲【ＳＰ】・赤
-701,暁丸【胴当て】 SP Purple,胴当て暁丸鎧甲【ＳＰ】・紫
-702,暁丸【胴当て】 SP White,胴当て暁丸鎧甲【ＳＰ】・白
+700,暁丸【胴当て】 SP Red,暁丸胴當【ＳＰ】・赤
+701,暁丸【胴当て】 SP Purple,暁丸胴當【ＳＰ】・紫
+702,暁丸【胴当て】 SP White,暁丸胴當【ＳＰ】・白
 703,凛 [Chestplate] SP Black,凛胸甲【ＳＰ】・黑
 704,凛 [Chestplate] SP Purple,凛胸甲【ＳＰ】・紫
 705,凛 [Chestplate] SP White,凛胸甲【ＳＰ】・白
@@ -712,8 +712,8 @@ index,source,target
 710,Gravios L Mail,鎧龍鎧甲【Ｌ】
 711,Vespoid L Mail,巨蜂鎧甲【Ｌ】
 712,Basarios R Mail,岩龍鎧甲【Ｒ】
-713,G・Guard R Vest Green,防禦背心【Ｇ】【Ｒ】・緑
-714,G・Guard R Vest Green,防禦背心【Ｇ】【Ｒ】・緑
+713,G・Guard R Vest Green,防禦背心【Ｒ】・緑
+714,G・Guard R Vest Green,防禦背心【Ｒ】・緑
 715,Monodevil R Mail,單眼惡魔鎧甲【Ｒ】
 716,Hornetaur R Mail,巨甲蟲鎧甲【Ｒ】
 717,Ceanataur R Mail,鎌蟹鎧甲【Ｒ】
@@ -803,12 +803,12 @@ index,source,target
 801,Ceanataur Vest SP Red,鎌蟹背心【ＳＰ】・赤
 802,Ceanataur Vest SP Black,鎌蟹背心【ＳＰ】・黑
 803,Ceanataur Vest SP Yellow,鎌蟹背心【ＳＰ】・黄
-804,Remobra ボディ SP White,翼蛇龍鎧甲【ＳＰ】
-805,Remobra ボディ SP Yellow,翼蛇龍鎧甲【ＳＰ】
-806,Remobra ボディ SP Black,翼蛇龍鎧甲【ＳＰ】
-807,G・Knight Vest SP Red,騎士背心【Ｇ】【ＳＰ】・赤
-808,G・Knight Vest SP Blue,騎士背心【Ｇ】【ＳＰ】・青
-809,G・Knight Vest SP Purple,騎士背心【Ｇ】【ＳＰ】・紫
+804,Remobra ボディ SP White,翼蛇龍鎧甲【ＳＰ】・白
+805,Remobra ボディ SP Yellow,翼蛇龍鎧甲【ＳＰ】・黄
+806,Remobra ボディ SP Black,翼蛇龍鎧甲【ＳＰ】・黑
+807,G・Knight Vest SP Red,騎士背心【ＳＰ】・赤
+808,G・Knight Vest SP Blue,騎士背心【ＳＰ】・青
+809,G・Knight Vest SP Purple,騎士背心【ＳＰ】・紫
 810,PV Vest SP Red,普背心【ＳＰ】・赤
 811,PV Vest SP Blue,普背心【ＳＰ】・青
 812,PV Vest SP Purple,普背心【ＳＰ】・紫
@@ -818,8 +818,8 @@ index,source,target
 816,Lavasioth L Mail,熔岩龍鎧甲【Ｌ】
 817,Bone L Mail,骨製鎧甲【Ｌ】
 818,Hornetaur L Mail,巨甲蟲鎧甲【Ｌ】
-819,G・Guard R Suit Crimson,防禦套裝【Ｇ】【Ｒ】・紅
-820,G・Guard R Suit Crimson,防禦套裝【Ｇ】【Ｒ】・紅
+819,G・Guard R Suit Crimson,防禦套裝【Ｒ】・紅
+820,G・Guard R Suit Crimson,防禦套裝【Ｒ】・紅
 821,Helper R Vest,助手背心【Ｒ】
 822,Battle R Mail,戦鎧甲【Ｒ】
 823,Cepha R Mail,砂龍鎧甲【Ｒ】
@@ -830,10 +830,10 @@ index,source,target
 828,Bone R Vest,骨製背心【Ｒ】
 829,Buran Jacket,布烏爾阿夾克
 830,White Belt Mail,白帶鎧甲
-831,Kagura 【胴当て】,神樂鎧甲
-832,Kagura・覇【胴当て】,神樂鎧甲
+831,Kagura 【胴当て】,神樂胴當
+832,Kagura・覇【胴当て】,神樂胴當
 833,Kamiza [Chestplate 】,上座胸甲
-834,Kamiza・覇 [Chestplate 】,覇胸甲
+834,Kamiza・覇 [Chestplate 】,上座胸甲
 835,アスハルテ Mail,阿斯哈爾特鎧甲
 836,アスハルテ Suit,阿斯哈爾特套裝
 837,ローク Mail,洛可鎧甲
@@ -890,22 +890,22 @@ index,source,target
 888,リエーザF Mail,里耶薩鎧甲【Ｆ】
 889,リエーザ Suit,里耶薩套裝
 890,リエーザF Suit,里耶薩套裝【Ｆ】
-891,Claire Vest・Purple,克蕾兒背心・紫
-892,Claire F Vest・Purple,克蕾兒背心【Ｆ】・紫
-893,Claire Suit・Purple,克蕾兒套裝・紫
-894,Claire F Suit・Purple,克蕾兒套裝【Ｆ】・紫
-895,Claire Vest・Water,克蕾兒水背心
-896,Claire F Vest・Water,克蕾兒水背心【Ｆ】
-897,Claire Suit・Water,克蕾兒水套裝
-898,Claire F Suit・Water,克蕾兒水套裝【Ｆ】
-899,Claire Vest・Red,克蕾兒背心・赤
-900,Claire F Vest・Red,克蕾兒背心【Ｆ】・赤
-901,Claire Suit・Red,克蕾兒套裝・赤
-902,Claire F Suit・Red,克蕾兒套裝【Ｆ】・赤
-903,Claire Vest・Black,克蕾兒背心・黑
-904,Claire F Vest・Black,克蕾兒背心【Ｆ】・黑
-905,Claire Suit・Black,克蕾兒套裝・黑
-906,Claire F Suit・Black,克蕾兒套裝【Ｆ】・黑
+891,Claire Vest・Purple,克蕾爾背心・紫
+892,Claire F Vest・Purple,克蕾爾背心【Ｆ】・紫
+893,Claire Suit・Purple,克蕾爾套裝・紫
+894,Claire F Suit・Purple,克蕾爾套裝【Ｆ】・紫
+895,Claire Vest・Water,克蕾爾背心・水
+896,Claire F Vest・Water,克蕾爾背心【Ｆ】・水
+897,Claire Suit・Water,克蕾爾套裝・水
+898,Claire F Suit・Water,克蕾爾套裝【Ｆ】・水
+899,Claire Vest・Red,克蕾爾背心・赤
+900,Claire F Vest・Red,克蕾爾背心【Ｆ】・赤
+901,Claire Suit・Red,克蕾爾套裝・赤
+902,Claire F Suit・Red,克蕾爾套裝【Ｆ】・赤
+903,Claire Vest・Black,克蕾爾背心・黑
+904,Claire F Vest・Black,克蕾爾背心【Ｆ】・黑
+905,Claire Suit・Black,克蕾爾套裝・黑
+906,Claire F Suit・Black,克蕾爾套裝【Ｆ】・黑
 907,Desert Vest,沙漠背心
 908,Desert F Vest,沙漠背心【Ｆ】
 909,Desert Suit,沙漠套裝
@@ -1010,22 +1010,22 @@ index,source,target
 1008,フェサーF Vest,芙薩背心【Ｆ】
 1009,シアンス Suit,希安斯套裝
 1010,シアンスF Suit,希安斯套裝【Ｆ】
-1011,Gold Mail・Red,鎧甲・金・赤
-1012,Gold F Mail・Red,鎧甲【Ｆ】・金・赤
-1013,Gold Suit・Red,套裝・金・赤
-1014,Gold F Suit・Red,套裝【Ｆ】・金・赤
-1015,Gold Mail・Blue,鎧甲・金・青
-1016,Gold F Mail・Blue,鎧甲【Ｆ】・金・青
-1017,Gold Suit・Blue,套裝・金・青
-1018,Gold F Suit・Blue,套裝【Ｆ】・金・青
-1019,Gold Mail・Yellow,鎧甲・金・黄
-1020,Gold F Mail・Yellow,鎧甲【Ｆ】・金・黄
-1021,Gold Suit・Yellow,套裝・金・黄
-1022,Gold F Suit・Yellow,套裝【Ｆ】・金・黄
-1023,Gold Mail・Purple,鎧甲・金・紫
-1024,Gold F Mail・Purple,鎧甲【Ｆ】・金・紫
-1025,Gold Suit・Purple,套裝・金・紫
-1026,Gold F Suit・Purple,套裝【Ｆ】・金・紫
+1011,Gold Mail・Red,金鎧甲・赤
+1012,Gold F Mail・Red,金鎧甲【Ｆ】・赤
+1013,Gold Suit・Red,金套裝・赤
+1014,Gold F Suit・Red,金套裝【Ｆ】・赤
+1015,Gold Mail・Blue,金鎧甲・青
+1016,Gold F Mail・Blue,金鎧甲【Ｆ】・青
+1017,Gold Suit・Blue,金套裝・青
+1018,Gold F Suit・Blue,金套裝【Ｆ】・青
+1019,Gold Mail・Yellow,金鎧甲・黄
+1020,Gold F Mail・Yellow,金鎧甲【Ｆ】・黄
+1021,Gold Suit・Yellow,金套裝・黄
+1022,Gold F Suit・Yellow,金套裝【Ｆ】・黄
+1023,Gold Mail・Purple,金鎧甲・紫
+1024,Gold F Mail・Purple,金鎧甲【Ｆ】・紫
+1025,Gold Suit・Purple,金套裝・紫
+1026,Gold F Suit・Purple,金套裝【Ｆ】・紫
 1027,シデロ Mail,西德羅鎧甲
 1028,シデロF Mail,西德羅鎧甲【Ｆ】
 1029,オール Mail,奧爾鎧甲
@@ -1056,8 +1056,8 @@ index,source,target
 1054,Bone L Vest,骨製背心【Ｌ】
 1055,Vespoid L Vest,巨蜂背心【Ｌ】
 1056,Diablos L Vest,角龍背心【Ｌ】
-1057,G・Guard R Vest Crimson,防禦背心【Ｇ】【Ｒ】・紅
-1058,G・Guard R Vest Crimson,防禦背心【Ｇ】【Ｒ】・紅
+1057,G・Guard R Vest Crimson,防禦背心【Ｒ】・紅
+1058,G・Guard R Vest Crimson,防禦背心【Ｒ】・紅
 1059,Hornetaur R Vest,巨甲蟲背心【Ｒ】
 1060,High Metal R Vest,上位金屬背心【Ｒ】
 1061,Rath Soul R Vest,火龍魂背心【Ｒ】
@@ -1065,10 +1065,10 @@ index,source,target
 1063,Plesioth L Mail,水龍鎧甲【Ｌ】
 1064,Gravios R Mail,鎧龍鎧甲【Ｒ】
 1065,Io R Mail,伊歐鎧甲【Ｒ】
-1066,Inari 【胴当て】,稻荷鎧甲
-1067,Inari 覇【胴当て】,稻荷鎧甲
+1066,Inari 【胴当て】,稻荷胴當
+1067,Inari 覇【胴当て】,稻荷胴當
 1068,Tamamo [Chestplate 】,玉藻胸甲
-1069,Tamamo 覇 [Chestplate 】,覇胸甲
+1069,Tamamo 覇 [Chestplate 】,玉藻胸甲
 1070,コカロ Mail,寇伽羅鎧甲
 1071,コカロ Vest,寇伽羅背心
 1072,Shieri Mail,夏伊爾伊鎧甲
@@ -1163,12 +1163,12 @@ index,source,target
 1161,Arge F Vest,阿爾傑背心【Ｆ】
 1162,Arge Suit,阿爾傑套裝
 1163,Arge F Suit,阿爾傑套裝【Ｆ】
-1164,Akantor ウルンテ SP Black,霸龍鎧甲【ＳＰ】
-1165,Akantor ウルンテ SP Red,霸龍鎧甲【ＳＰ】
-1166,Akantor ウルンテ SP White,霸龍鎧甲【ＳＰ】
-1167,Akantor ウルンペ SP Black,霸龍鎧甲【ＳＰ】
-1168,Akantor ウルンペ SP Red,霸龍鎧甲【ＳＰ】
-1169,Akantor ウルンペ SP White,霸龍鎧甲【ＳＰ】
+1164,Akantor ウルンテ SP Black,霸龍鎧甲【ＳＰ】・黑
+1165,Akantor ウルンテ SP Red,霸龍鎧甲【ＳＰ】・赤
+1166,Akantor ウルンテ SP White,霸龍鎧甲【ＳＰ】・白
+1167,Akantor ウルンペ SP Black,霸龍鎧甲【ＳＰ】・黑
+1168,Akantor ウルンペ SP Red,霸龍鎧甲【ＳＰ】・赤
+1169,Akantor ウルンペ SP White,霸龍鎧甲【ＳＰ】・白
 1170,Gravios Mail SP Black,鎧龍鎧甲【ＳＰ】・黑
 1171,Gravios Mail SP Blue,鎧龍鎧甲【ＳＰ】・青
 1172,Gravios Mail SP Red,鎧龍鎧甲【ＳＰ】・赤
@@ -1274,11 +1274,11 @@ index,source,target
 1272,Pharan F Mail・Blue,法藍鎧甲【Ｆ】・青
 1273,Pharan Suit・Blue,法藍套裝・青
 1274,Pharan F Suit・Blue,法藍套裝【Ｆ】・青
-1275,Gold Cat F Vest,猫背心【Ｆ】・金
-1276,Gold Cat F Suit,猫套裝【Ｆ】・金
-1277,Silver Cat Suit,猫套裝・銀
-1278,Silver Cat F Vest,猫背心【Ｆ】・銀
-1279,Silver Cat F Suit,猫套裝【Ｆ】・銀
+1275,Gold Cat F Vest,金猫背心【Ｆ】
+1276,Gold Cat F Suit,金猫套裝【Ｆ】
+1277,Silver Cat Suit,銀猫套裝
+1278,Silver Cat F Vest,銀猫背心【Ｆ】
+1279,Silver Cat F Suit,銀猫套裝【Ｆ】
 1280,ヴィン Suit,温套裝
 1281,ヴィンF Suit,温套裝【Ｆ】
 1282,ヴァンデ Suit,芙恩德套裝
@@ -1326,7 +1326,7 @@ index,source,target
 1324,Vashimu R Mail Yellow,尾晶蠍鎧甲【Ｒ】・黄
 1325,Vashimu R Mail Green,尾晶蠍鎧甲【Ｒ】・緑
 1326,Vashimu R Mail Crimson,尾晶蠍鎧甲【Ｒ】・紅
-1327,Inari FX【胴当て】,稻荷鎧甲【ＦＸ】
+1327,Inari FX【胴当て】,稻荷胴當【ＦＸ】
 1328,Tamamo FX [Chestplate 】,玉藻胸甲【ＦＸ】
 1329,Eques FX Mail,騎士鎧甲【ＦＸ】
 1330,Eques FX Vest,騎士背心【ＦＸ】
@@ -1471,8 +1471,8 @@ index,source,target
 1469,ダミー,(dummy)
 1470,ダミー,(dummy)
 1471,White Fatalis R Hide,白黑龍皮衣【Ｒ】
-1472,G・Lune R Vest,月背心【Ｇ】【Ｒ】
-1473,S・Sol R Vest,日背心【Ｓ】【Ｒ】
+1472,G・Lune R Vest,月背心【Ｒ】
+1473,S・Sol R Vest,S索倫背心【Ｒ】
 1474,Death Stench L Heart,死臭心衣【Ｌ】
 1475,Leather L Mail,皮革鎧甲【Ｌ】
 1476,Chainmail L Mail,鎖鏈鎧甲【Ｌ】
@@ -1628,9 +1628,9 @@ index,source,target
 1626,Moss Covered F Mail,苔覆鎧甲【Ｆ】
 1627,Moss Covered Vest,苔覆背心
 1628,Moss Covered F Vest,苔覆背心【Ｆ】
-1629,Kagura 【胴当て】 SP Red,神樂鎧甲【ＳＰ】
-1630,Kagura 【胴当て】 SP Black,神樂鎧甲【ＳＰ】
-1631,Kagura 【胴当て】 SP Purple,神樂鎧甲【ＳＰ】
+1629,Kagura 【胴当て】 SP Red,神樂胴當【ＳＰ】・赤
+1630,Kagura 【胴当て】 SP Black,神樂胴當【ＳＰ】・黑
+1631,Kagura 【胴当て】 SP Purple,神樂胴當【ＳＰ】・紫
 1632,Kamiza [Chestplate] SP Red,上座胸甲【ＳＰ】・赤
 1633,Kamiza [Chestplate] SP Black,上座胸甲【ＳＰ】・黑
 1634,Kamiza [Chestplate] SP Purple,上座胸甲【ＳＰ】・紫
@@ -1665,12 +1665,12 @@ index,source,target
 1663,ダミー,(dummy)
 1664,Lils Vest,爾伊爾背心
 1665,ダミー,(dummy)
-1666,Kagura FX【胴当て】,神樂鎧甲【ＦＸ】
+1666,Kagura FX【胴当て】,神樂胴當【ＦＸ】
 1667,Kamiza FX [Chestplate 】,上座胸甲【ＦＸ】
-1668,Blue Sky Haori,蒼天羽織
-1669,Blue Sky Haori・魁,魁羽織・青
-1670,Welkin Haori,蒼穹羽織
-1671,Welkin Haori・魁,魁羽織
+1668,Blue Sky Haori,蒼天羽織・天
+1669,Blue Sky Haori・魁,蒼天羽織魁・天
+1670,Welkin Haori,穹蒼羽織
+1671,Welkin Haori・魁,穹蒼羽織魁
 1672,Breo Jacket,布艾夾克
 1673,Breo F Jacket,布艾夾克【Ｆ】
 1674,Vinen Jacket,芙伊恩艾夾克
@@ -1681,19 +1681,19 @@ index,source,target
 1679,アナトリ Vest,阿納托里背心
 1680,Edio Mail・Blue,電竜鎧甲・青
 1681,Edio F Mail・Blue,電竜鎧甲【Ｆ】・青
-1682,エ Dios ーツ・Blue,狄奧斯鎧甲
+1682,エ Dios ーツ・Blue,狄奧斯鎧甲・青
 1683,Edio F Suit・Blue,電竜套裝【Ｆ】・青
 1684,Edio Mail・Red,電竜鎧甲・赤
 1685,Edio F Mail・Red,電竜鎧甲【Ｆ】・赤
-1686,エ Dios ーツ・Red,狄奧斯鎧甲
+1686,エ Dios ーツ・Red,狄奧斯鎧甲・赤
 1687,Edio F Suit・Red,電竜套裝【Ｆ】・赤
 1688,Edio Mail・Yellow,電竜鎧甲・黄
 1689,Edio F Mail・Yellow,電竜鎧甲【Ｆ】・黄
-1690,エ Dios ーツ・Yellow,狄奧斯鎧甲
+1690,エ Dios ーツ・Yellow,狄奧斯鎧甲・黄
 1691,Edio F Suit・Yellow,電竜套裝【Ｆ】・黄
 1692,Edio Mail・Black,電竜鎧甲・黑
 1693,Edio F Mail・Black,電竜鎧甲【Ｆ】・黑
-1694,エ Dios ーツ・Black,狄奧斯鎧甲
+1694,エ Dios ーツ・Black,狄奧斯鎧甲・黑
 1695,Edio F Suit・Black,電竜套裝【Ｆ】・黑
 1696,Abitto Vest,阿比托背心
 1697,Abitto F Vest,阿比托背心【Ｆ】
@@ -1725,48 +1725,48 @@ index,source,target
 1723,Pasu F Suit,普阿斯烏套裝【Ｆ】
 1724,Randa の胴当・Yellow,の胴当鎧甲・黄
 1725,蘭蛮の胴当・Yellow,蘭蛮の胴当鎧甲・黄
-1726,Randa の Shozoku・Yellow,の裝束・黄
+1726,Randa の Shozoku・Yellow,爾阿恩阿裝束・黄
 1727,蘭蛮の Shozoku・Yellow,蘭蛮の裝束・黄
 1728,Randa の胴当・Red,の胴当鎧甲・赤
 1729,蘭蛮の胴当・Red,蘭蛮の胴当鎧甲・赤
-1730,Randa の Shozoku・Red,の裝束・赤
+1730,Randa の Shozoku・Red,爾阿恩阿裝束・赤
 1731,蘭蛮の Shozoku・Red,蘭蛮の裝束・赤
 1732,Randa の胴当・Purple,の胴当鎧甲・紫
 1733,蘭蛮の胴当・Purple,蘭蛮の胴当鎧甲・紫
-1734,Randa の Shozoku・Purple,の裝束・紫
+1734,Randa の Shozoku・Purple,爾阿恩阿裝束・紫
 1735,蘭蛮の Shozoku・Purple,蘭蛮の裝束・紫
 1736,Randa の胴当・Gold,の胴当鎧甲・金
 1737,蘭蛮の胴当・Gold,蘭蛮の胴当鎧甲・金
-1738,Randa の Shozoku・Gold,の裝束・金
+1738,Randa の Shozoku・Gold,爾阿恩阿裝束・金
 1739,蘭蛮の Shozoku・Gold,蘭蛮の裝束・金
 1740,竜巻胴着・Black,竜巻胴着鎧甲・黑
 1741,竜巻F胴着・Black,竜巻胴着鎧甲・黑
-1742,True 空胴着・Black,空胴着鎧甲・黑
-1743,True 空F胴着・Black,空胴着鎧甲・黑
+1742,True 空胴着・Black,真空胴着鎧甲・黑
+1743,True 空F胴着・Black,真空胴着鎧甲・黑
 1744,千裂胴着・Black,千裂胴着鎧甲・黑
 1745,千裂F胴着・Black,千裂胴着鎧甲・黑
 1746,覇山胴着・Black,覇山胴着鎧甲・黑
 1747,覇山F胴着・Black,覇山胴着鎧甲・黑
 1748,竜巻胴着・Tea,竜巻胴着鎧甲・茶
 1749,竜巻F胴着・Tea,竜巻胴着鎧甲・茶
-1750,True 空胴着・Tea,空胴着鎧甲・茶
-1751,True 空F胴着・Tea,空胴着鎧甲・茶
+1750,True 空胴着・Tea,真空胴着鎧甲・茶
+1751,True 空F胴着・Tea,真空胴着鎧甲・茶
 1752,千裂胴着・Purple,千裂胴着鎧甲・紫
 1753,千裂F胴着・Purple,千裂胴着鎧甲・紫
 1754,覇山胴着・Purple,覇山胴着鎧甲・紫
 1755,覇山F胴着・Purple,覇山胴着鎧甲・紫
 1756,竜巻胴着・White,竜巻胴着鎧甲・白
 1757,竜巻F胴着・White,竜巻胴着鎧甲・白
-1758,True 空胴着・White,空胴着鎧甲・白
-1759,True 空F胴着・White,空胴着鎧甲・白
+1758,True 空胴着・White,真空胴着鎧甲・白
+1759,True 空F胴着・White,真空胴着鎧甲・白
 1760,千裂胴着・White,千裂胴着鎧甲・白
 1761,千裂F胴着・White,千裂胴着鎧甲・白
 1762,覇山胴着・White,覇山胴着鎧甲・白
 1763,覇山F胴着・White,覇山胴着鎧甲・白
 1764,竜巻胴着・Blue,竜巻胴着鎧甲・青
 1765,竜巻F胴着・Blue,竜巻胴着鎧甲・青
-1766,True 空胴着・Blue,空胴着鎧甲・青
-1767,True 空F胴着・Blue,空胴着鎧甲・青
+1766,True 空胴着・Blue,真空胴着鎧甲・青
+1767,True 空F胴着・Blue,真空胴着鎧甲・青
 1768,千裂胴着・Green,千裂胴着鎧甲・緑
 1769,千裂F胴着・Green,千裂胴着鎧甲・緑
 1770,覇山胴着・Green,覇山胴着鎧甲・緑
@@ -1783,10 +1783,10 @@ index,source,target
 1781,旋風F胴着,旋風胴着鎧甲
 1782,巴胴着,巴胴着鎧甲
 1783,巴F胴着,巴胴着鎧甲
-1784,Heaven 空胴着,空胴着鎧甲・天
-1785,Heaven 空F胴着,空胴着鎧甲・天
-1786,Heaven 昇胴着,昇胴着鎧甲・天
-1787,Heaven 昇F胴着,昇胴着鎧甲・天
+1784,Heaven 空胴着,空胴着天鎧甲
+1785,Heaven 空F胴着,空胴着天鎧甲
+1786,Heaven 昇胴着,昇胴着天鎧甲
+1787,Heaven 昇F胴着,昇胴着天鎧甲
 1788,Jeamu Mail,傑艾姆烏鎧甲
 1789,Jeamu F Mail,傑艾姆烏鎧甲【Ｆ】
 1790,Amyusu Mail,阿姆烏斯鎧甲
@@ -1819,7 +1819,7 @@ index,source,target
 1817,Buran F Jacket,布烏爾阿夾克【Ｆ】
 1818,Zwinger Mail,茲伊恩艾鎧甲
 1819,Zwinger Suit,茲伊恩艾套裝
-1820,Demon Lord ノ肩鎧・魁,惡魔魁鎧甲
+1820,Demon Lord ノ肩鎧・魁,魔王鎧甲魁
 1821,童子ノ肩鎧・魁,童子肩鎧魁鎧甲
 1822,Melan F Jacket,紫黑夾克【Ｆ】
 1823,Melan F Suit,紫黑套裝【Ｆ】
@@ -1954,7 +1954,7 @@ index,source,target
 1952,Diina Vest,德伊恩阿背心
 1953,Diina F Vest,德伊恩阿背心【Ｆ】
 1954,True Shadow Haori,真影羽織
-1955,True Shadow Haori・魁,魁羽織
+1955,True Shadow Haori・魁,真影羽織魁
 1956,翔影ノ Haori,翔影羽織
 1957,翔影ノ Haori・魁,翔影魁羽織
 1958,Black Tiger Haori,黑虎羽織
@@ -1973,10 +1973,10 @@ index,source,target
 1971,Galitos F Vest・Black,加里托斯背心【Ｆ】・黑
 1972,Galitos Suit・Black,加里托斯套裝・黑
 1973,Galitos F Suit・Black,加里托斯套裝【Ｆ】・黑
-1974,Galitos Vest・Water,加里托斯水背心
-1975,Galitos F Vest・Water,加里托斯水背心【Ｆ】
-1976,Galitos Suit・Water,加里托斯水套裝
-1977,Galitos F Suit・Water,加里托斯水套裝【Ｆ】
+1974,Galitos Vest・Water,加里托斯背心・水
+1975,Galitos F Vest・Water,加里托斯背心【Ｆ】・水
+1976,Galitos Suit・Water,加里托斯套裝・水
+1977,Galitos F Suit・Water,加里托斯套裝【Ｆ】・水
 1978,Riburi Vest,里布里背心
 1979,Riburi F Vest,里布里背心【Ｆ】
 1980,Riburi FZ Vest,里布里背心【ＦＺ】
@@ -2023,36 +2023,36 @@ index,source,target
 2021,Truss F Jacket Purple,桁架夾克【Ｆ】・紫
 2022,Truss Vest Purple,桁架背心・紫
 2023,Truss F Vest Purple,桁架背心【Ｆ】・紫
-2024,Demon ドレス Blue,惡魔鎧甲
-2025,Demon Fドレス Blue,惡魔鎧甲
-2026,Chaos ドレス Blue,混沌鎧甲
-2027,Chaos Fドレス Blue,混沌鎧甲
-2028,Demon ドレス Red,惡魔鎧甲
-2029,Demon Fドレス Red,惡魔鎧甲
-2030,Chaos ドレス Red,混沌鎧甲
-2031,Chaos Fドレス Red,混沌鎧甲
-2032,Demon ドレス Green,惡魔鎧甲
-2033,Demon Fドレス Green,惡魔鎧甲
-2034,Chaos ドレス Green,混沌鎧甲
-2035,Chaos Fドレス Green,混沌鎧甲
-2036,Demon ドレス White,惡魔鎧甲
-2037,Demon Fドレス White,惡魔鎧甲
-2038,Chaos ドレス White,混沌鎧甲
-2039,Chaos Fドレス White,混沌鎧甲
-2040,Shadow Suit Purple,暗影套裝・紫
-2041,Shadow F Suit Purple,暗影套裝【Ｆ】・紫
+2024,Demon ドレス Blue,惡魔鎧甲・青
+2025,Demon Fドレス Blue,惡魔鎧甲・青
+2026,Chaos ドレス Blue,混沌鎧甲・青
+2027,Chaos Fドレス Blue,混沌鎧甲・青
+2028,Demon ドレス Red,惡魔鎧甲・赤
+2029,Demon Fドレス Red,惡魔鎧甲・赤
+2030,Chaos ドレス Red,混沌鎧甲・赤
+2031,Chaos Fドレス Red,混沌鎧甲・赤
+2032,Demon ドレス Green,惡魔鎧甲・緑
+2033,Demon Fドレス Green,惡魔鎧甲・緑
+2034,Chaos ドレス Green,混沌鎧甲・緑
+2035,Chaos Fドレス Green,混沌鎧甲・緑
+2036,Demon ドレス White,惡魔鎧甲・白
+2037,Demon Fドレス White,惡魔鎧甲・白
+2038,Chaos ドレス White,混沌鎧甲・白
+2039,Chaos Fドレス White,混沌鎧甲・白
+2040,Shadow Suit Purple,影套裝・紫
+2041,Shadow F Suit Purple,影套裝【Ｆ】・紫
 2042,Soul Suit Purple,魂套裝・紫
 2043,Soul F Suit Purple,魂套裝【Ｆ】・紫
-2044,Shadow Suit Red,暗影套裝・赤
-2045,Shadow F Suit Red,暗影套裝【Ｆ】・赤
+2044,Shadow Suit Red,影套裝・赤
+2045,Shadow F Suit Red,影套裝【Ｆ】・赤
 2046,Soul Suit Red,魂套裝・赤
 2047,Soul F Suit Red,魂套裝【Ｆ】・赤
-2048,Shadow Suit Green,暗影套裝・緑
-2049,Shadow F Suit Green,暗影套裝【Ｆ】・緑
+2048,Shadow Suit Green,影套裝・緑
+2049,Shadow F Suit Green,影套裝【Ｆ】・緑
 2050,Soul Suit Green,魂套裝・緑
 2051,Soul F Suit Green,魂套裝【Ｆ】・緑
-2052,Shadow Suit White,暗影套裝・白
-2053,Shadow F Suit White,暗影套裝【Ｆ】・白
+2052,Shadow Suit White,影套裝・白
+2053,Shadow F Suit White,影套裝【Ｆ】・白
 2054,Soul Suit White,魂套裝・白
 2055,Soul F Suit White,魂套裝【Ｆ】・白
 2056,フィディ Mail,芙德鎧甲
@@ -2081,7 +2081,7 @@ index,source,target
 2079,ロークF Mail,洛可鎧甲【Ｆ】
 2080,ロークF Vest,洛可背心【Ｆ】
 2081,Buruho F Vest・Blue,布烏爾烏背心【Ｆ】・青
-2082,マー Gear F Suit・Blue,格艾爾套裝【Ｆ】
+2082,マー Gear F Suit・Blue,瑪爾機甲套裝【Ｆ】・青
 2083,Gogomoa FX Mail,跳緋獸鎧甲【ＦＸ】
 2084,Gogomoa FX Vest,跳緋獸背心【ＦＸ】
 2085,Kuraaji FX Mail,克烏爾阿鎧甲【ＦＸ】
@@ -2125,7 +2125,7 @@ index,source,target
 2123,Gravios RX Mail,鎧龍鎧甲
 2124,Bone RX Vest,骨製背心
 2125,White Snake Haori,白蛇羽織
-2126,White Snake Haori・魁,魁羽織・白
+2126,White Snake Haori・魁,白蛇羽織魁
 2127,White 鳥ノ Haori,鳥羽織・白
 2128,White 鳥ノ Haori・魁,鳥魁羽織・白
 2129,Kakabu Mail,克阿克阿鎧甲
@@ -2154,18 +2154,18 @@ index,source,target
 2152,Rutare F Mail,魯塔雷鎧甲【Ｆ】
 2153,Rutare Vest,魯塔雷背心
 2154,Rutare F Vest,魯塔雷背心【Ｆ】
-2155,Rolling Flow Chestplate,滾流胸甲
-2156,Rolling Flow Chestplate・魁,魁胸甲
+2155,Rolling Flow Chestplate,滾流板甲
+2156,Rolling Flow Chestplate・魁,滾流胸甲魁
 2157,旋転の Chestplate,旋転の胸甲
-2158,旋転の Chestplate・魁,旋転の魁胸甲
+2158,旋転の Chestplate・魁,旋転の胸甲魁
 2159,厳岩の胴当て,厳岩の胴当て鎧甲
-2160,厳岩の胴当て・魁,厳岩の胴当て魁鎧甲
+2160,厳岩の胴当て・魁,厳岩の胴当て鎧甲魁
 2161,不破の胴当て,不破の胴当て鎧甲
-2162,不破の胴当て・魁,不破の胴当て魁鎧甲
+2162,不破の胴当て・魁,不破の胴当て鎧甲魁
 2163,無想の胴当て,無想の胴当て鎧甲
-2164,無想の胴当て・魁,無想の胴当て魁鎧甲
+2164,無想の胴当て・魁,無想の胴当て鎧甲魁
 2165,俊激の Shozoku,俊激の裝束
-2166,俊激の Shozoku・魁,俊激の魁裝束
+2166,俊激の Shozoku・魁,俊激の裝束魁
 2167,Suifudo Vest,斯烏芙烏背心
 2168,Suifudo F Vest,斯烏芙烏背心【Ｆ】
 2169,Merodesu Vest,姆艾爾歐背心
@@ -2228,11 +2228,11 @@ index,source,target
 2226,Galitos FZ Vest・Tea,加里托斯背心【ＦＺ】・茶
 2227,Galitos FZ Vest・Red,加里托斯背心【ＦＺ】・赤
 2228,Galitos FZ Vest・Black,加里托斯背心【ＦＺ】・黑
-2229,Galitos FZ Vest・Water,加里托斯水背心【ＦＺ】
+2229,Galitos FZ Vest・Water,加里托斯背心【ＦＺ】・水
 2230,Galitos FZ Suit・Tea,加里托斯套裝【ＦＺ】・茶
 2231,Galitos FZ Suit・Red,加里托斯套裝【ＦＺ】・赤
 2232,Galitos FZ Suit・Black,加里托斯套裝【ＦＺ】・黑
-2233,Galitos FZ Suit・Water,加里托斯水套裝【ＦＺ】
+2233,Galitos FZ Suit・Water,加里托斯套裝【ＦＺ】・水
 2234,Beil F Brigantes,布艾爾伊鎧甲【Ｆ】
 2235,Dummy,(dummy)
 2236,Jess Mail,傑斯鎧甲
@@ -2343,9 +2343,9 @@ index,source,target
 2341,Ruko Skin SP White,極龍皮【ＳＰ】・白
 2342,Ruko Skin SP Blue,極龍皮【ＳＰ】・青
 2343,Ruko Skin SP Red,極龍皮【ＳＰ】・赤
-2344,Comrade Mail SP White Red,戰友鎧甲【ＳＰ】・赤・白
-2345,Comrade Mail SP White Blue,戰友鎧甲【ＳＰ】・青・白
-2346,Comrade Mail SP White Yellow,戰友鎧甲【ＳＰ】・黄・白
+2344,Comrade Mail SP White Red,戰友鎧甲【ＳＰ】・白
+2345,Comrade Mail SP White Blue,戰友鎧甲【ＳＰ】・白
+2346,Comrade Mail SP White Yellow,戰友鎧甲【ＳＰ】・白
 2347,Rubellite Mail,爾烏布艾鎧甲
 2348,Rubellite F Mail,爾烏布艾鎧甲【Ｆ】
 2349,Rubellite FX Mail,爾烏布艾鎧甲【ＦＸ】
@@ -2380,9 +2380,9 @@ index,source,target
 2378,Turquoise F Vest,緑松石背心【Ｆ】
 2379,Turquoise FX Vest,緑松石背心【ＦＸ】
 2380,Valued Word Haori,珍言羽織
-2381,Valued Word Haori・魁,魁羽織
-2382,Valued Word Haori・Smart,珍言機靈羽織
-2383,Valued Word Haori・Flower,芙阿爾烏羽織
+2381,Valued Word Haori・魁,珍言羽織魁
+2382,Valued Word Haori・Smart,珍言羽織
+2383,Valued Word Haori・Flower,珍言羽織
 2384,式部ノ Haori,式部羽織
 2385,式部ノ Haori・魁,式部魁羽織
 2386,式部ノ Haori・Smart,機靈羽織
@@ -2411,8 +2411,8 @@ index,source,target
 2409,Strega HC Vest,魔女背心【ＨＣ】
 2410,Zaakaa HC Mail,茲阿克阿鎧甲【ＨＣ】
 2411,Chaser HC Vest,追撃背心【ＨＣ】
-2412,Demon Lord ノ肩鎧・Extreme,惡魔鎧甲
-2413,Demon Lord ノ肩鎧・Heaven,惡魔鎧甲・天
+2412,Demon Lord ノ肩鎧・Extreme,魔王鎧甲
+2413,Demon Lord ノ肩鎧・Heaven,魔王天鎧甲
 2414,童子ノ肩鎧・Extreme,童子肩鎧鎧甲
 2415,童子ノ肩鎧・Heaven,童子肩鎧鎧甲・天
 2416,アナキF Jacket,阿納基夾克【Ｆ】
@@ -2421,7 +2421,7 @@ index,source,target
 2419,アナキF Suit,阿納基套裝【Ｆ】
 2420,アナキFY Suit,阿納基套裝
 2421,アナキHC Suit,阿納基套裝【ＨＣ】
-2422,Royal FY Mail,爾歐伊阿鎧甲
+2422,Royal FY Mail,王室鎧甲
 2423,Royal HC Mail,王室鎧甲【ＨＣ】
 2424,Lord FY Vest,爾歐爾背心
 2425,Lord HC Vest,爾歐爾背心【ＨＣ】
@@ -2442,12 +2442,12 @@ index,source,target
 2440,Ceanataur RX Mail,鎌蟹鎧甲
 2441,Espinas RX Muscle,棘龍筋肉衣
 2442,Monodevil RX Vest,姆歐恩歐背心
-2443,Cayssis Mail Water,凱西斯水鎧甲
-2444,Cayssis F Mail Water,凱西斯水鎧甲【Ｆ】
-2445,Cayssis FZ Mail Water,凱西斯水鎧甲【ＦＺ】
-2446,Cayssis Vest Water,凱西斯水背心
-2447,Cayssis F Vest Water,凱西斯水背心【Ｆ】
-2448,Cayssis FZ Vest Water,凱西斯水背心【ＦＺ】
+2443,Cayssis Mail Water,凱西斯鎧甲・水
+2444,Cayssis F Mail Water,凱西斯鎧甲【Ｆ】・水
+2445,Cayssis FZ Mail Water,凱西斯鎧甲【ＦＺ】・水
+2446,Cayssis Vest Water,凱西斯背心・水
+2447,Cayssis F Vest Water,凱西斯背心【Ｆ】・水
+2448,Cayssis FZ Vest Water,凱西斯背心【ＦＺ】・水
 2449,Cayssis Mail Red,凱西斯鎧甲・赤
 2450,Cayssis F Mail Red,凱西斯鎧甲【Ｆ】・赤
 2451,Cayssis FZ Mail Red,凱西斯鎧甲【ＦＺ】・赤
@@ -2467,9 +2467,9 @@ index,source,target
 2465,Cayssis F Vest Orange,凱西斯背心【Ｆ】・橙
 2466,Cayssis FZ Vest Orange,凱西斯背心【ＦＺ】・橙
 2467,Rolling Sky Chestplate,天空板甲
-2468,Rolling Sky Chestplate・魁,魁胸甲
-2469,Rolling Earth Chestplate,地板甲・地
-2470,Rolling Earth Chestplate・魁,魁胸甲・地
+2468,Rolling Sky Chestplate・魁,滾天胸甲魁・天
+2469,Rolling Earth Chestplate,地板甲
+2470,Rolling Earth Chestplate・魁,滾地胸甲魁
 2471,Cubie Mail,方塊鎧甲
 2472,Cubie F Mail,方塊鎧甲【Ｆ】
 2473,Cubie FZ Mail,方塊鎧甲【ＦＺ】
@@ -2586,26 +2586,26 @@ index,source,target
 2584,Riot FZ Vest,暴動背心【ＦＺ】
 2585,Rutare FZ Mail,魯塔雷鎧甲【ＦＺ】
 2586,Rutare FZ Vest,魯塔雷背心【ＦＺ】
-2587,Rolling Flow Chestplate・Elegant,爾歐爾伊胸甲
+2587,Rolling Flow Chestplate・Elegant,滾流胸甲
 2588,旋転の Chestplate・Elegant,旋転の胸甲
-2589,Rolling Sky Chestplate・Elegant,爾歐爾伊胸甲
-2590,Rolling Earth Chestplate・Elegant,爾歐爾伊胸甲・地
+2589,Rolling Sky Chestplate・Elegant,滾天胸甲・天
+2590,Rolling Earth Chestplate・Elegant,滾地胸甲
 2591,Odiva Mail,奧蒂瓦鎧甲
 2592,Odiva F Mail,奧蒂瓦鎧甲【Ｆ】
 2593,Odiva FX Mail,奧蒂瓦鎧甲【ＦＸ】
 2594,Odiva Vest,奧蒂瓦背心
 2595,Odiva F Vest,奧蒂瓦背心【Ｆ】
 2596,Odiva FX Vest,奧蒂瓦背心【ＦＸ】
-2597,武者【胴当て】,胴当て武者鎧甲
-2598,日光【胴当て】,胴当て日光鎧甲
+2597,武者【胴当て】,武者胴當
+2598,日光【胴当て】,日光胴當
 2599,Blitz F Vest,布伊特背心【Ｆ】
 2600,Blitz Fケープ,布伊特鎧甲
 2601,Flame F Mail,炎鎧甲【Ｆ】
 2602,Flame F Vest,炎背心【Ｆ】
 2603,Wind F Diru,風上衣【Ｆ】
 2604,Wind Fバダル,風鎧甲
-2605,武者F【胴当て】,胴当て武者鎧甲
-2606,日光F【胴当て】,胴当て日光鎧甲
+2605,武者F【胴当て】,武者胴當【Ｆ】
+2606,日光F【胴当て】,日光胴當【Ｆ】
 2607,Wadatsumi F [Chestplate 】,綿津見胸甲【Ｆ】
 2608,Okami F [Chestplate 】,狼胸甲【Ｆ】
 2609,トリート Jacket,托里托夾克
@@ -2750,8 +2750,8 @@ index,source,target
 2748,Flame FX Vest,炎背心【ＦＸ】
 2749,Wind FX Diru,風上衣【ＦＸ】
 2750,Wind FXバダル,風鎧甲
-2751,武者FX【胴当て】,胴当て武者鎧甲
-2752,日光FX【胴当て】,胴当て日光鎧甲
+2751,武者FX【胴当て】,武者胴當【ＦＸ】
+2752,日光FX【胴当て】,日光胴當【ＦＸ】
 2753,Wadatsumi FX [Chestplate 】,綿津見胸甲【ＦＸ】
 2754,Okami FX [Chestplate 】,狼胸甲【ＦＸ】
 2755,Raviente HC Mail,大巖龍鎧甲【ＨＣ】
@@ -2766,7 +2766,7 @@ index,source,target
 2764,Vashimu HC Vest Green,尾晶蠍背心【ＨＣ】・緑
 2765,Vashimu HC Mail Crimson,尾晶蠍鎧甲【ＨＣ】・紅
 2766,Vashimu HC Vest Crimson,尾晶蠍背心【ＨＣ】・紅
-2767,Inari HC【胴当て】,稻荷鎧甲【ＨＣ】
+2767,Inari HC【胴当て】,稻荷胴當【ＨＣ】
 2768,Tamamo HC [Chestplate 】,玉藻胸甲【ＨＣ】
 2769,Beru HC Mail,舞雷龍鎧甲【ＨＣ】
 2770,Beru HC Vest,舞雷龍背心【ＨＣ】
@@ -2774,7 +2774,7 @@ index,source,target
 2772,Pariapuria HC Vest,呑龍背心【ＨＣ】
 2773,Guren HC Mail,紅蓮鎧甲【ＨＣ】
 2774,Guren HC Vest,紅蓮背心【ＨＣ】
-2775,Kagura HC【胴当て】,神樂鎧甲【ＨＣ】
+2775,Kagura HC【胴当て】,神樂胴當【ＨＣ】
 2776,Kamiza HC [Chestplate 】,上座胸甲【ＨＣ】
 2777,Gogomoa HC Mail,跳緋獸鎧甲【ＨＣ】
 2778,Gogomoa HC Vest,跳緋獸背心【ＨＣ】
@@ -2864,7 +2864,7 @@ index,source,target
 2862,Vashimu HS Vest Green,尾晶蠍背心【ＨＳ】・緑
 2863,Vashimu HS Mail Crimson,尾晶蠍鎧甲【ＨＳ】・紅
 2864,Vashimu HS Vest Crimson,尾晶蠍背心【ＨＳ】・紅
-2865,Inari HS【胴当て】,稻荷鎧甲【ＨＳ】
+2865,Inari HS【胴当て】,稻荷胴當【ＨＳ】
 2866,Tamamo HS [Chestplate 】,玉藻胸甲【ＨＳ】
 2867,Beru HS Mail,舞雷龍鎧甲【ＨＳ】
 2868,Beru HS Vest,舞雷龍背心【ＨＳ】
@@ -2872,7 +2872,7 @@ index,source,target
 2870,Pariapuria HS Vest,呑龍背心【ＨＳ】
 2871,Guren HS Mail,紅蓮鎧甲【ＨＳ】
 2872,Guren HS Vest,紅蓮背心【ＨＳ】
-2873,Kagura HS【胴当て】,神樂鎧甲【ＨＳ】
+2873,Kagura HS【胴当て】,神樂胴當【ＨＳ】
 2874,Kamiza HS [Chestplate 】,上座胸甲【ＨＳ】
 2875,Gogomoa HS Mail,跳緋獸鎧甲【ＨＳ】
 2876,Gogomoa HS Vest,跳緋獸背心【ＨＳ】
@@ -2944,46 +2944,46 @@ index,source,target
 2942,Cloth FZ Suit・Green,斯烏特衣【ＦＺ】・緑
 2943,Cloth HC Suit・Green,斯烏特衣【ＨＣ】・緑
 2944,Cloth HS Suit・Green,斯烏特衣【ＨＳ】・緑
-2945,Issen 【胴当て】・Red,一閃鎧甲
-2946,Issen F【胴当て】・Red,一閃鎧甲【Ｆ】
-2947,Issen FZ【胴当て】・Red,一閃鎧甲【ＦＺ】
-2948,Issen HC【胴当て】・Red,一閃鎧甲【ＨＣ】
-2949,Issen HS【胴当て】・Red,一閃鎧甲【ＨＳ】
-2950,構射【胴当て】・Red,胴当て構射鎧甲・赤
-2951,構射F【胴当て】・Red,胴当て構射鎧甲・赤
-2952,構射FZ【胴当て】・Red,胴当て構射鎧甲・赤
-2953,構射HC【胴当て】・Red,胴当て構射鎧甲・赤
-2954,構射HS【胴当て】・Red,胴当て構射鎧甲・赤
-2955,Issen 【胴当て】・Blue,一閃鎧甲
-2956,Issen F【胴当て】・Blue,一閃鎧甲【Ｆ】
-2957,Issen FZ【胴当て】・Blue,一閃鎧甲【ＦＺ】
-2958,Issen HC【胴当て】・Blue,一閃鎧甲【ＨＣ】
-2959,Issen HS【胴当て】・Blue,一閃鎧甲【ＨＳ】
-2960,構射【胴当て】・Blue,胴当て構射鎧甲・青
-2961,構射F【胴当て】・Blue,胴当て構射鎧甲・青
-2962,構射FZ【胴当て】・Blue,胴当て構射鎧甲・青
-2963,構射HC【胴当て】・Blue,胴当て構射鎧甲・青
-2964,構射HS【胴当て】・Blue,胴当て構射鎧甲・青
-2965,Issen 【胴当て】・Yellow,一閃鎧甲
-2966,Issen F【胴当て】・Yellow,一閃鎧甲【Ｆ】
-2967,Issen FZ【胴当て】・Yellow,一閃鎧甲【ＦＺ】
-2968,Issen HC【胴当て】・Yellow,一閃鎧甲【ＨＣ】
-2969,Issen HS【胴当て】・Yellow,一閃鎧甲【ＨＳ】
-2970,構射【胴当て】・Yellow,胴当て構射鎧甲・黄
-2971,構射F【胴当て】・Yellow,胴当て構射鎧甲・黄
-2972,構射FZ【胴当て】・Yellow,胴当て構射鎧甲・黄
-2973,構射HC【胴当て】・Yellow,胴当て構射鎧甲・黄
-2974,構射HS【胴当て】・Yellow,胴当て構射鎧甲・黄
-2975,Issen 【胴当て】・Black,一閃鎧甲
-2976,Issen F【胴当て】・Black,一閃鎧甲【Ｆ】
-2977,Issen FZ【胴当て】・Black,一閃鎧甲【ＦＺ】
-2978,Issen HC【胴当て】・Black,一閃鎧甲【ＨＣ】
-2979,Issen HS【胴当て】・Black,一閃鎧甲【ＨＳ】
-2980,構射【胴当て】・Black,胴当て構射鎧甲・黑
-2981,構射F【胴当て】・Black,胴当て構射鎧甲・黑
-2982,構射FZ【胴当て】・Black,胴当て構射鎧甲・黑
-2983,構射HC【胴当て】・Black,胴当て構射鎧甲・黑
-2984,構射HS【胴当て】・Black,胴当て構射鎧甲・黑
+2945,Issen 【胴当て】・Red,一閃胴當・赤
+2946,Issen F【胴当て】・Red,一閃胴當【Ｆ】・赤
+2947,Issen FZ【胴当て】・Red,一閃胴當【ＦＺ】・赤
+2948,Issen HC【胴当て】・Red,一閃胴當【ＨＣ】・赤
+2949,Issen HS【胴当て】・Red,一閃胴當【ＨＳ】・赤
+2950,構射【胴当て】・Red,構射胴當・赤
+2951,構射F【胴当て】・Red,構射胴當【Ｆ】・赤
+2952,構射FZ【胴当て】・Red,構射胴當【ＦＺ】・赤
+2953,構射HC【胴当て】・Red,構射胴當【ＨＣ】・赤
+2954,構射HS【胴当て】・Red,構射胴當【ＨＳ】・赤
+2955,Issen 【胴当て】・Blue,一閃胴當・青
+2956,Issen F【胴当て】・Blue,一閃胴當【Ｆ】・青
+2957,Issen FZ【胴当て】・Blue,一閃胴當【ＦＺ】・青
+2958,Issen HC【胴当て】・Blue,一閃胴當【ＨＣ】・青
+2959,Issen HS【胴当て】・Blue,一閃胴當【ＨＳ】・青
+2960,構射【胴当て】・Blue,構射胴當・青
+2961,構射F【胴当て】・Blue,構射胴當【Ｆ】・青
+2962,構射FZ【胴当て】・Blue,構射胴當【ＦＺ】・青
+2963,構射HC【胴当て】・Blue,構射胴當【ＨＣ】・青
+2964,構射HS【胴当て】・Blue,構射胴當【ＨＳ】・青
+2965,Issen 【胴当て】・Yellow,一閃胴當・黄
+2966,Issen F【胴当て】・Yellow,一閃胴當【Ｆ】・黄
+2967,Issen FZ【胴当て】・Yellow,一閃胴當【ＦＺ】・黄
+2968,Issen HC【胴当て】・Yellow,一閃胴當【ＨＣ】・黄
+2969,Issen HS【胴当て】・Yellow,一閃胴當【ＨＳ】・黄
+2970,構射【胴当て】・Yellow,構射胴當・黄
+2971,構射F【胴当て】・Yellow,構射胴當【Ｆ】・黄
+2972,構射FZ【胴当て】・Yellow,構射胴當【ＦＺ】・黄
+2973,構射HC【胴当て】・Yellow,構射胴當【ＨＣ】・黄
+2974,構射HS【胴当て】・Yellow,構射胴當【ＨＳ】・黄
+2975,Issen 【胴当て】・Black,一閃胴當・黑
+2976,Issen F【胴当て】・Black,一閃胴當【Ｆ】・黑
+2977,Issen FZ【胴当て】・Black,一閃胴當【ＦＺ】・黑
+2978,Issen HC【胴当て】・Black,一閃胴當【ＨＣ】・黑
+2979,Issen HS【胴当て】・Black,一閃胴當【ＨＳ】・黑
+2980,構射【胴当て】・Black,構射胴當・黑
+2981,構射F【胴当て】・Black,構射胴當【Ｆ】・黑
+2982,構射FZ【胴当て】・Black,構射胴當【ＦＺ】・黑
+2983,構射HC【胴当て】・Black,構射胴當【ＨＣ】・黑
+2984,構射HS【胴当て】・Black,構射胴當【ＨＳ】・黑
 2985,蜂針 [Chestplate 】・Orange,蜂針胸甲・橙
 2986,蜂針F [Chestplate 】・Orange,蜂針胸甲【Ｆ】・橙
 2987,蜂針FZ [Chestplate 】・Orange,蜂針胸甲【ＦＺ】・橙
@@ -3028,14 +3028,14 @@ index,source,target
 3026,Algol FX Mail,阿爾歐爾鎧甲【ＦＸ】
 3027,Algol F Vest,阿爾歐爾背心【Ｆ】
 3028,Algol FX Vest,阿爾歐爾背心【ＦＸ】
-3029,抜胴【胴当て】,胴当て抜胴鎧甲
-3030,抜胴F【胴当て】,胴当て抜胴鎧甲
-3031,抜胴FZ【胴当て】,胴当て抜胴鎧甲
-3032,抜胴HS【胴当て】,胴当て抜胴鎧甲
-3033,長根【胴当て】,胴当て長根鎧甲
-3034,長根F【胴当て】,胴当て長根鎧甲
-3035,長根FZ【胴当て】,胴当て長根鎧甲
-3036,長根HS【胴当て】,胴当て長根鎧甲
+3029,抜胴【胴当て】,抜胴胴當
+3030,抜胴F【胴当て】,抜胴胴當【Ｆ】
+3031,抜胴FZ【胴当て】,抜胴胴當【ＦＺ】
+3032,抜胴HS【胴当て】,抜胴胴當【ＨＳ】
+3033,長根【胴当て】,長根胴當
+3034,長根F【胴当て】,長根胴當【Ｆ】
+3035,長根FZ【胴当て】,長根胴當【ＦＺ】
+3036,長根HS【胴当て】,長根胴當【ＨＳ】
 3037,花火 [Chestplate 】,花火胸甲
 3038,花火F [Chestplate 】,花火胸甲【Ｆ】
 3039,花火FZ [Chestplate 】,花火胸甲【ＦＺ】
@@ -3044,14 +3044,14 @@ index,source,target
 3042,流星F [Chestplate 】,流星胸甲【Ｆ】
 3043,流星FZ [Chestplate 】,流星胸甲【ＦＺ】
 3044,流星HS [Chestplate 】,流星胸甲【ＨＳ】
-3045,居合【胴当て】,胴当て居合鎧甲
-3046,居合F【胴当て】,胴当て居合鎧甲
-3047,居合FZ【胴当て】,胴当て居合鎧甲
-3048,居合HC【胴当て】,胴当て居合鎧甲
-3049,爆裂【胴当て】,胴当て爆裂鎧甲
-3050,爆裂F【胴当て】,胴当て爆裂鎧甲
-3051,爆裂FZ【胴当て】,胴当て爆裂鎧甲
-3052,爆裂HC【胴当て】,胴当て爆裂鎧甲
+3045,居合【胴当て】,居合胴當
+3046,居合F【胴当て】,居合胴當【Ｆ】
+3047,居合FZ【胴当て】,居合胴當【ＦＺ】
+3048,居合HC【胴当て】,居合胴當【ＨＣ】
+3049,爆裂【胴当て】,爆裂胴當
+3050,爆裂F【胴当て】,爆裂胴當【Ｆ】
+3051,爆裂FZ【胴当て】,爆裂胴當【ＦＺ】
+3052,爆裂HC【胴当て】,爆裂胴當【ＨＣ】
 3053,脱兎 [Chestplate 】,脱兎胸甲
 3054,脱兎F [Chestplate 】,脱兎胸甲【Ｆ】
 3055,脱兎FZ [Chestplate 】,脱兎胸甲【ＦＺ】
@@ -3098,16 +3098,16 @@ index,source,target
 3096,Gloria FZ Suit・Blue,榮光套裝【ＦＺ】・青
 3097,Gloria HC Suit・Blue,榮光套裝【ＨＣ】・青
 3098,Gloria HS Suit・Blue,榮光套裝【ＨＳ】・青
-3099,Gloria Mail・Water,榮光水鎧甲
-3100,Gloria F Mail・Water,榮光水鎧甲【Ｆ】
-3101,Gloria FZ Mail・Water,榮光水鎧甲【ＦＺ】
-3102,Gloria HC Mail・Water,榮光水鎧甲【ＨＣ】
-3103,Gloria HS Mail・Water,榮光水鎧甲【ＨＳ】
-3104,Gloria Suit・Water,榮光水套裝
-3105,Gloria F Suit・Water,榮光水套裝【Ｆ】
-3106,Gloria FZ Suit・Water,榮光水套裝【ＦＺ】
-3107,Gloria HC Suit・Water,榮光水套裝【ＨＣ】
-3108,Gloria HS Suit・Water,榮光水套裝【ＨＳ】
+3099,Gloria Mail・Water,榮光鎧甲・水
+3100,Gloria F Mail・Water,榮光鎧甲【Ｆ】・水
+3101,Gloria FZ Mail・Water,榮光鎧甲【ＦＺ】・水
+3102,Gloria HC Mail・Water,榮光鎧甲【ＨＣ】・水
+3103,Gloria HS Mail・Water,榮光鎧甲【ＨＳ】・水
+3104,Gloria Suit・Water,榮光套裝・水
+3105,Gloria F Suit・Water,榮光套裝【Ｆ】・水
+3106,Gloria FZ Suit・Water,榮光套裝【ＦＺ】・水
+3107,Gloria HC Suit・Water,榮光套裝【ＨＣ】・水
+3108,Gloria HS Suit・Water,榮光套裝【ＨＳ】・水
 3109,Gloria Mail・Red,榮光鎧甲・赤
 3110,Gloria F Mail・Red,榮光鎧甲【Ｆ】・赤
 3111,Gloria FZ Mail・Red,榮光鎧甲【ＦＺ】・赤
@@ -3158,16 +3158,16 @@ index,source,target
 3156,Reppa FZ胴着・Yellow,胴着鎧甲・黄
 3157,Reppa HC胴着・Yellow,胴着鎧甲・黄
 3158,Reppa HS胴着・Yellow,胴着鎧甲・黄
-3159,Cannon Suit・Water,加農水套裝
-3160,Cannon F Suit・Water,加農水套裝【Ｆ】
-3161,Cannon FZ Suit・Water,加農水套裝【ＦＺ】
-3162,Cannon HC Suit・Water,加農水套裝【ＨＣ】
-3163,Cannon HS Suit・Water,加農水套裝【ＨＳ】
-3164,Axel Suit・Water,輪軸水套裝
-3165,Axel F Suit・Water,輪軸水套裝【Ｆ】
-3166,Axel FZ Suit・Water,輪軸水套裝【ＦＺ】
-3167,Axel HC Suit・Water,輪軸水套裝【ＨＣ】
-3168,Axel HS Suit・Water,輪軸水套裝【ＨＳ】
+3159,Cannon Suit・Water,加農套裝・水
+3160,Cannon F Suit・Water,加農套裝【Ｆ】・水
+3161,Cannon FZ Suit・Water,加農套裝【ＦＺ】・水
+3162,Cannon HC Suit・Water,加農套裝【ＨＣ】・水
+3163,Cannon HS Suit・Water,加農套裝【ＨＳ】・水
+3164,Axel Suit・Water,輪軸套裝・水
+3165,Axel F Suit・Water,輪軸套裝【Ｆ】・水
+3166,Axel FZ Suit・Water,輪軸套裝【ＦＺ】・水
+3167,Axel HC Suit・Water,輪軸套裝【ＨＣ】・水
+3168,Axel HS Suit・Water,輪軸套裝【ＨＳ】・水
 3169,Cannon Suit・Green,加農套裝・緑
 3170,Cannon F Suit・Green,加農套裝【Ｆ】・緑
 3171,Cannon FZ Suit・Green,加農套裝【ＦＺ】・緑
@@ -3293,8 +3293,8 @@ index,source,target
 3291,Ceanataur GF Mail,鎌蟹鎧甲【ＧＦ】
 3292,Ceanataur G Vest,鎌蟹背心【Ｇ】
 3293,Ceanataur GF Vest,鎌蟹背心【ＧＦ】
-3294,Mikagura G【胴当て】,御神樂鎧甲【Ｇ】
-3295,Mikagura GF【胴当て】,御神樂鎧甲【ＧＦ】
+3294,Mikagura G【胴当て】,御神樂胴當【Ｇ】
+3295,Mikagura GF【胴当て】,御神樂胴當【ＧＦ】
 3296,Satokagura G [Chestplate 】,里神樂胸甲【Ｇ】
 3297,Satokagura GF [Chestplate 】,里神樂胸甲【ＧＦ】
 3298,Rathalos G Mail,雄火龍鎧甲【Ｇ】
@@ -3391,16 +3391,16 @@ index,source,target
 3389,Magos FZ Suit・Red,瑪戈斯套裝【ＦＺ】・赤
 3390,Magos HC Suit・Red,瑪戈斯套裝【ＨＣ】・赤
 3391,Magos HS Suit・Red,瑪戈斯套裝【ＨＳ】・赤
-3392,Magos Mail・Water,瑪戈斯水鎧甲
-3393,Magos F Mail・Water,瑪戈斯水鎧甲【Ｆ】
-3394,Magos FZ Mail・Water,瑪戈斯水鎧甲【ＦＺ】
-3395,Magos HC Mail・Water,瑪戈斯水鎧甲【ＨＣ】
-3396,Magos HS Mail・Water,瑪戈斯水鎧甲【ＨＳ】
-3397,Magos Suit・Water,瑪戈斯水套裝
-3398,Magos F Suit・Water,瑪戈斯水套裝【Ｆ】
-3399,Magos FZ Suit・Water,瑪戈斯水套裝【ＦＺ】
-3400,Magos HC Suit・Water,瑪戈斯水套裝【ＨＣ】
-3401,Magos HS Suit・Water,瑪戈斯水套裝【ＨＳ】
+3392,Magos Mail・Water,瑪戈斯鎧甲・水
+3393,Magos F Mail・Water,瑪戈斯鎧甲【Ｆ】・水
+3394,Magos FZ Mail・Water,瑪戈斯鎧甲【ＦＺ】・水
+3395,Magos HC Mail・Water,瑪戈斯鎧甲【ＨＣ】・水
+3396,Magos HS Mail・Water,瑪戈斯鎧甲【ＨＳ】・水
+3397,Magos Suit・Water,瑪戈斯套裝・水
+3398,Magos F Suit・Water,瑪戈斯套裝【Ｆ】・水
+3399,Magos FZ Suit・Water,瑪戈斯套裝【ＦＺ】・水
+3400,Magos HC Suit・Water,瑪戈斯套裝【ＨＣ】・水
+3401,Magos HS Suit・Water,瑪戈斯套裝【ＨＳ】・水
 3402,Magos Mail・Blue,瑪戈斯鎧甲・青
 3403,Magos F Mail・Blue,瑪戈斯鎧甲【Ｆ】・青
 3404,Magos FZ Mail・Blue,瑪戈斯鎧甲【ＦＺ】・青
@@ -3415,8 +3415,8 @@ index,source,target
 3413,Magos GS Suit・Yellow,瑪戈斯套裝【ＧＳ】・黄
 3414,Magos GS Mail・Red,瑪戈斯鎧甲【ＧＳ】・赤
 3415,Magos GS Suit・Red,瑪戈斯套裝【ＧＳ】・赤
-3416,Magos GS Mail・Water,瑪戈斯水鎧甲【ＧＳ】
-3417,Magos GS Suit・Water,瑪戈斯水套裝【ＧＳ】
+3416,Magos GS Mail・Water,瑪戈斯鎧甲【ＧＳ】・水
+3417,Magos GS Suit・Water,瑪戈斯套裝【ＧＳ】・水
 3418,Magos GS Mail・Blue,瑪戈斯鎧甲【ＧＳ】・青
 3419,Magos GS Suit・Blue,瑪戈斯套裝【ＧＳ】・青
 3420,Red 備ノ具足【胴服】,胴服備具足鎧甲・赤
@@ -3573,7 +3573,7 @@ index,source,target
 3571,Rathian GX Vest,雌火龍背心【ＧＸ】
 3572,Ceanataur GX Mail,鎌蟹鎧甲【ＧＸ】
 3573,Ceanataur GX Vest,鎌蟹背心【ＧＸ】
-3574,Mikagura GX【胴当て】,御神樂鎧甲【ＧＸ】
+3574,Mikagura GX【胴当て】,御神樂胴當【ＧＸ】
 3575,Satokagura GX [Chestplate 】,里神樂胸甲【ＧＸ】
 3576,Rathalos GX Mail,雄火龍鎧甲【ＧＸ】
 3577,Rathalos GX Vest,雄火龍背心【ＧＸ】
@@ -3640,9 +3640,9 @@ index,source,target
 3638,Golden Haori・G,金羽織【Ｇ】
 3639,Golden Haori・GF,金羽織【ＧＦ】
 3640,Golden Haori・GX,金羽織【ＧＸ】
-3641,Puppeteer ノ装束・G,装束鎧甲【Ｇ】
-3642,Puppeteer ノ装束・GF,装束鎧甲【ＧＦ】
-3643,Puppeteer ノ装束・GX,装束鎧甲【ＧＸ】
+3641,Puppeteer ノ装束・G,操偶鎧甲【Ｇ】
+3642,Puppeteer ノ装束・GF,操偶鎧甲【ＧＦ】
+3643,Puppeteer ノ装束・GX,操偶鎧甲【ＧＸ】
 3644,Rebidiora G Hide,雷極龍皮衣【Ｇ】
 3645,Rebidiora GF Hide,雷極龍皮衣【ＧＦ】
 3646,Rebidiora GX Hide,雷極龍皮衣【ＧＸ】
@@ -3667,9 +3667,9 @@ index,source,target
 3665,Guren G Vest,紅蓮背心【Ｇ】
 3666,Guren GF Vest,紅蓮背心【ＧＦ】
 3667,Guren GX Vest,紅蓮背心【ＧＸ】
-3668,Inari G【胴当て】,稻荷鎧甲【Ｇ】
-3669,Inari GF【胴当て】,稻荷鎧甲【ＧＦ】
-3670,Inari GX【胴当て】,稻荷鎧甲【ＧＸ】
+3668,Inari G【胴当て】,稻荷胴當【Ｇ】
+3669,Inari GF【胴当て】,稻荷胴當【ＧＦ】
+3670,Inari GX【胴当て】,稻荷胴當【ＧＸ】
 3671,Tamamo G [Chestplate 】,玉藻胸甲【Ｇ】
 3672,Tamamo GF [Chestplate 】,玉藻胸甲【ＧＦ】
 3673,Tamamo GX [Chestplate 】,玉藻胸甲【ＧＸ】
@@ -3679,9 +3679,9 @@ index,source,target
 3677,Disu G Vest,德伊斯烏背心【Ｇ】
 3678,Disu GF Vest,德伊斯烏背心【ＧＦ】
 3679,Disu GX Vest,德伊斯烏背心【ＧＸ】
-3680,Shadow Shozoku・G,暗影裝束【Ｇ】
-3681,Shadow Shozoku・GF,暗影裝束【ＧＦ】
-3682,Shadow Shozoku・GX,暗影裝束【ＧＸ】
+3680,Shadow Shozoku・G,影裝束【Ｇ】
+3681,Shadow Shozoku・GF,影裝束【ＧＦ】
+3682,Shadow Shozoku・GX,影裝束【ＧＸ】
 3683,Shade Shozoku・G,影裝束【Ｇ】
 3684,Shade Shozoku・GF,影裝束【ＧＦ】
 3685,Shade Shozoku・GX,影裝束【ＧＸ】
@@ -3717,14 +3717,14 @@ index,source,target
 3715,Genbu・刀神GF Mail,刀神鎧甲【Ｆ】
 3716,Seiryu・刀神G Mail,青龍鎧甲【Ｇ】
 3717,Seiryu・刀神GF Mail,刀神鎧甲【Ｆ】
-3718,Byakko・Heaven 槍G Mail,白虎鎧甲【Ｇ】・天
-3719,Byakko・Heaven 槍GF Mail,槍鎧甲【Ｆ】・天
-3720,Suzaku・Heaven 槍G Mail,朱雀鎧甲【Ｇ】・天
-3721,Suzaku・Heaven 槍GF Mail,槍鎧甲【Ｆ】・天
-3722,Genbu・Heaven 槍G Mail,玄武鎧甲【Ｇ】・天
-3723,Genbu・Heaven 槍GF Mail,槍鎧甲【Ｆ】・天
-3724,Seiryu・Heaven 槍G Mail,青龍鎧甲【Ｇ】・天
-3725,Seiryu・Heaven 槍GF Mail,槍鎧甲【Ｆ】・天
+3718,Byakko・Heaven 槍G Mail,白虎天鎧甲【Ｇ】
+3719,Byakko・Heaven 槍GF Mail,槍天鎧甲【Ｆ】
+3720,Suzaku・Heaven 槍G Mail,朱雀天鎧甲【Ｇ】
+3721,Suzaku・Heaven 槍GF Mail,槍天鎧甲【Ｆ】
+3722,Genbu・Heaven 槍G Mail,玄武天鎧甲【Ｇ】
+3723,Genbu・Heaven 槍GF Mail,槍天鎧甲【Ｆ】
+3724,Seiryu・Heaven 槍G Mail,青龍天鎧甲【Ｇ】
+3725,Seiryu・Heaven 槍GF Mail,槍天鎧甲【Ｆ】
 3726,Byakko・砲皇G Mail,白虎鎧甲【Ｇ】
 3727,Byakko・砲皇GF Mail,砲皇鎧甲【Ｆ】
 3728,Suzaku・砲皇G Mail,朱雀鎧甲【Ｇ】
@@ -3766,13 +3766,13 @@ index,source,target
 3764,Seiryu・銃仙G Suit,青龍套裝【Ｇ】
 3765,Seiryu・銃仙GF Suit,銃仙套裝【Ｆ】
 3766,Byakko・Bow 鬼G Suit,白虎套裝【Ｇ】
-3767,Byakko・Bow 鬼GF Suit,鬼套裝【Ｆ】
+3767,Byakko・Bow 鬼GF Suit,白虎套裝【Ｆ】
 3768,Suzaku・Bow 鬼G Suit,朱雀套裝【Ｇ】
-3769,Suzaku・Bow 鬼GF Suit,鬼套裝【Ｆ】
+3769,Suzaku・Bow 鬼GF Suit,朱雀套裝【Ｆ】
 3770,Genbu・Bow 鬼G Suit,玄武套裝【Ｇ】
-3771,Genbu・Bow 鬼GF Suit,鬼套裝【Ｆ】
+3771,Genbu・Bow 鬼GF Suit,玄武套裝【Ｆ】
 3772,Seiryu・Bow 鬼G Suit,青龍套裝【Ｇ】
-3773,Seiryu・Bow 鬼GF Suit,鬼套裝【Ｆ】
+3773,Seiryu・Bow 鬼GF Suit,青龍套裝【Ｆ】
 3774,Odiva G Mail,奧蒂瓦鎧甲【Ｇ】
 3775,Odiva G Vest,奧蒂瓦背心【Ｇ】
 3776,Blitz G Vest,布伊特背心【Ｇ】
@@ -3781,8 +3781,8 @@ index,source,target
 3779,Flame G Vest,炎背心【Ｇ】
 3780,Wind G Diru,風上衣【Ｇ】
 3781,Wind Gバダル,風鎧甲
-3782,武者G【胴当て】,胴当て武者鎧甲
-3783,日光G【胴当て】,胴当て日光鎧甲
+3782,武者G【胴当て】,武者胴當【Ｇ】
+3783,日光G【胴当て】,日光胴當【Ｇ】
 3784,Wadatsumi G [Chestplate 】,綿津見胸甲【Ｇ】
 3785,Okami G [Chestplate 】,狼胸甲【Ｇ】
 3786,Lils G Mail,爾伊爾鎧甲【Ｇ】
@@ -3793,7 +3793,7 @@ index,source,target
 3791,エミットG Vest,艾米托背心【Ｇ】
 3792,Diboa G Mail,迪博阿鎧甲【Ｇ】
 3793,Diboa G Vest,迪博阿背心【Ｇ】
-3794,Demon Lord ノ胴当,惡魔鎧甲
+3794,Demon Lord ノ胴当,魔王鎧甲
 3795,童子ノ胴当,童子胴当鎧甲
 3796,レアー Mail,雷阿鎧甲
 3797,ハーデス Mail,哈德斯鎧甲
@@ -3843,18 +3843,18 @@ index,source,target
 3841,Pics HC Suit・Black,皮克斯套裝【ＨＣ】・黑
 3842,Pics HS Suit・Black,皮克斯套裝【ＨＳ】・黑
 3843,Pics GS Suit・Black,皮克斯套裝【ＧＳ】・黑
-3844,Pics Vest・Water,皮克斯水背心
-3845,Pics F Vest・Water,皮克斯水背心【Ｆ】
-3846,Pics FZ Vest・Water,皮克斯水背心【ＦＺ】
-3847,Pics HC Vest・Water,皮克斯水背心【ＨＣ】
-3848,Pics HS Vest・Water,皮克斯水背心【ＨＳ】
-3849,Pics GS Vest・Water,皮克斯水背心【ＧＳ】
-3850,Pics Suit・Water,皮克斯水套裝
-3851,Pics F Suit・Water,皮克斯水套裝【Ｆ】
-3852,Pics FZ Suit・Water,皮克斯水套裝【ＦＺ】
-3853,Pics HC Suit・Water,皮克斯水套裝【ＨＣ】
-3854,Pics HS Suit・Water,皮克斯水套裝【ＨＳ】
-3855,Pics GS Suit・Water,皮克斯水套裝【ＧＳ】
+3844,Pics Vest・Water,皮克斯背心・水
+3845,Pics F Vest・Water,皮克斯背心【Ｆ】・水
+3846,Pics FZ Vest・Water,皮克斯背心【ＦＺ】・水
+3847,Pics HC Vest・Water,皮克斯背心【ＨＣ】・水
+3848,Pics HS Vest・Water,皮克斯背心【ＨＳ】・水
+3849,Pics GS Vest・Water,皮克斯背心【ＧＳ】・水
+3850,Pics Suit・Water,皮克斯套裝・水
+3851,Pics F Suit・Water,皮克斯套裝【Ｆ】・水
+3852,Pics FZ Suit・Water,皮克斯套裝【ＦＺ】・水
+3853,Pics HC Suit・Water,皮克斯套裝【ＨＣ】・水
+3854,Pics HS Suit・Water,皮克斯套裝【ＨＳ】・水
+3855,Pics GS Suit・Water,皮克斯套裝【ＧＳ】・水
 3856,Bright Mail,輝鎧甲
 3857,Bright F Mail,輝鎧甲【Ｆ】
 3858,Bright FZ Mail,輝鎧甲【ＦＺ】
@@ -4134,12 +4134,12 @@ index,source,target
 4132,Galitos HC Suit・Black,加里托斯套裝【ＨＣ】・黑
 4133,Galitos HS Suit・Black,加里托斯套裝【ＨＳ】・黑
 4134,Galitos GS Suit・Black,加里托斯套裝【ＧＳ】・黑
-4135,Galitos HC Vest・Water,加里托斯水背心【ＨＣ】
-4136,Galitos HS Vest・Water,加里托斯水背心【ＨＳ】
-4137,Galitos GS Vest・Water,加里托斯水背心【ＧＳ】
-4138,Galitos HC Suit・Water,加里托斯水套裝【ＨＣ】
-4139,Galitos HS Suit・Water,加里托斯水套裝【ＨＳ】
-4140,Galitos GS Suit・Water,加里托斯水套裝【ＧＳ】
+4135,Galitos HC Vest・Water,加里托斯背心【ＨＣ】・水
+4136,Galitos HS Vest・Water,加里托斯背心【ＨＳ】・水
+4137,Galitos GS Vest・Water,加里托斯背心【ＧＳ】・水
+4138,Galitos HC Suit・Water,加里托斯套裝【ＨＣ】・水
+4139,Galitos HS Suit・Water,加里托斯套裝【ＨＳ】・水
+4140,Galitos GS Suit・Water,加里托斯套裝【ＧＳ】・水
 4141,Star Festival FZ Shozoku [Blue 】,星祭裝束【ＦＺ】・青
 4142,Star Festival HC Shozoku [Blue 】,星祭裝束【ＨＣ】・青
 4143,Star Festival HS Shozoku [Blue 】,星祭裝束【ＨＳ】・青
@@ -4228,12 +4228,12 @@ index,source,target
 4226,Beru G Vest,舞雷龍背心【Ｇ】
 4227,Beru GF Vest,舞雷龍背心【ＧＦ】
 4228,Beru GX Vest,舞雷龍背心【ＧＸ】
-4229,Black Gravios G Mail,鎧龍鎧甲【Ｇ】・黑
-4230,Black Gravios GF Mail,鎧龍鎧甲【ＧＦ】・黑
-4231,Black Gravios GX Mail,鎧龍鎧甲【ＧＸ】・黑
-4232,Black Gravios G Vest,鎧龍背心【Ｇ】・黑
-4233,Black Gravios GF Vest,鎧龍背心【ＧＦ】・黑
-4234,Black Gravios GX Vest,鎧龍背心【ＧＸ】・黑
+4229,Black Gravios G Mail,黑鎧龍鎧甲【Ｇ】
+4230,Black Gravios GF Mail,黑鎧龍鎧甲【ＧＦ】
+4231,Black Gravios GX Mail,黑鎧龍鎧甲【ＧＸ】
+4232,Black Gravios G Vest,黑鎧龍背心【Ｇ】
+4233,Black Gravios GF Vest,黑鎧龍背心【ＧＦ】
+4234,Black Gravios GX Vest,黑鎧龍背心【ＧＸ】
 4235,Lune G Mail,月鎧甲【Ｇ】
 4236,Lune GF Mail,月鎧甲【ＧＦ】
 4237,Lune GX Mail,月鎧甲【ＧＸ】
@@ -4410,18 +4410,18 @@ index,source,target
 4408,Genom HS Vest・Green,基因組背心【ＨＳ】・緑
 4409,Genom GS Vest・Green,基因組背心【ＧＳ】・緑
 4410,Genom GP Vest・Green,基因組背心【ＧＰ】・緑
-4411,Genom Suit・Water,基因組水套裝
-4412,Genom F Suit・Water,基因組水套裝【Ｆ】
-4413,Genom FZ Suit・Water,基因組水套裝【ＦＺ】
-4414,Genom HS Suit・Water,基因組水套裝【ＨＳ】
-4415,Genom GS Suit・Water,基因組水套裝【ＧＳ】
-4416,Genom GP Suit・Water,基因組水套裝【ＧＰ】
-4417,Genom Vest・Water,基因組水背心
-4418,Genom F Vest・Water,基因組水背心【Ｆ】
-4419,Genom FZ Vest・Water,基因組水背心【ＦＺ】
-4420,Genom HS Vest・Water,基因組水背心【ＨＳ】
-4421,Genom GS Vest・Water,基因組水背心【ＧＳ】
-4422,Genom GP Vest・Water,基因組水背心【ＧＰ】
+4411,Genom Suit・Water,基因組套裝・水
+4412,Genom F Suit・Water,基因組套裝【Ｆ】・水
+4413,Genom FZ Suit・Water,基因組套裝【ＦＺ】・水
+4414,Genom HS Suit・Water,基因組套裝【ＨＳ】・水
+4415,Genom GS Suit・Water,基因組套裝【ＧＳ】・水
+4416,Genom GP Suit・Water,基因組套裝【ＧＰ】・水
+4417,Genom Vest・Water,基因組背心・水
+4418,Genom F Vest・Water,基因組背心【Ｆ】・水
+4419,Genom FZ Vest・Water,基因組背心【ＦＺ】・水
+4420,Genom HS Vest・Water,基因組背心【ＨＳ】・水
+4421,Genom GS Vest・Water,基因組背心【ＧＳ】・水
+4422,Genom GP Vest・Water,基因組背心【ＧＰ】・水
 4423,Genom Suit・Red,基因組套裝・赤
 4424,Genom F Suit・Red,基因組套裝【Ｆ】・赤
 4425,Genom FZ Suit・Red,基因組套裝【ＦＺ】・赤
@@ -4646,7 +4646,7 @@ index,source,target
 4644,竜巻HS胴着・Black,竜巻胴着鎧甲・黑
 4645,竜巻GS胴着・Black,竜巻胴着鎧甲・黑
 4646,竜巻GP胴着・Black,竜巻胴着鎧甲・黑
-4647,True 空FZ胴着・Black,空胴着鎧甲・黑
+4647,True 空FZ胴着・Black,真空胴着鎧甲・黑
 4648,True 空HS胴着・Black,空胴着鎧甲・黑
 4649,True 空GS胴着・Black,空胴着鎧甲・黑
 4650,True 空GP胴着・Black,空胴着鎧甲・黑
@@ -4662,7 +4662,7 @@ index,source,target
 4660,竜巻HS胴着・Tea,竜巻胴着鎧甲・茶
 4661,竜巻GS胴着・Tea,竜巻胴着鎧甲・茶
 4662,竜巻GP胴着・Tea,竜巻胴着鎧甲・茶
-4663,True 空FZ胴着・Tea,空胴着鎧甲・茶
+4663,True 空FZ胴着・Tea,真空胴着鎧甲・茶
 4664,True 空HS胴着・Tea,空胴着鎧甲・茶
 4665,True 空GS胴着・Tea,空胴着鎧甲・茶
 4666,True 空GP胴着・Tea,空胴着鎧甲・茶
@@ -4678,7 +4678,7 @@ index,source,target
 4676,竜巻HS胴着・White,竜巻胴着鎧甲・白
 4677,竜巻GS胴着・White,竜巻胴着鎧甲・白
 4678,竜巻GP胴着・White,竜巻胴着鎧甲・白
-4679,True 空FZ胴着・White,空胴着鎧甲・白
+4679,True 空FZ胴着・White,真空胴着鎧甲・白
 4680,True 空HS胴着・White,空胴着鎧甲・白
 4681,True 空GS胴着・White,空胴着鎧甲・白
 4682,True 空GP胴着・White,空胴着鎧甲・白
@@ -4694,7 +4694,7 @@ index,source,target
 4692,竜巻HS胴着・Blue,竜巻胴着鎧甲・青
 4693,竜巻GS胴着・Blue,竜巻胴着鎧甲・青
 4694,竜巻GP胴着・Blue,竜巻胴着鎧甲・青
-4695,True 空FZ胴着・Blue,空胴着鎧甲・青
+4695,True 空FZ胴着・Blue,真空胴着鎧甲・青
 4696,True 空HS胴着・Blue,空胴着鎧甲・青
 4697,True 空GS胴着・Blue,空胴着鎧甲・青
 4698,True 空GP胴着・Blue,空胴着鎧甲・青
@@ -4706,98 +4706,98 @@ index,source,target
 4704,覇山HS胴着・Green,覇山胴着鎧甲・緑
 4705,覇山GS胴着・Green,覇山胴着鎧甲・緑
 4706,覇山GP胴着・Green,覇山胴着鎧甲・緑
-4707,Demon FZドレス・Blue,惡魔鎧甲
-4708,Demon HSドレス・Blue,惡魔鎧甲
-4709,Demon GSドレス・Blue,惡魔鎧甲
-4710,Demon GPドレス・Blue,惡魔鎧甲
-4711,Chaos FZドレス・Blue,混沌鎧甲
-4712,Chaos HSドレス・Blue,混沌鎧甲
-4713,Chaos GSドレス・Blue,混沌鎧甲
-4714,Chaos GPドレス・Blue,混沌鎧甲
-4715,Shadow FZ Suit Purple,暗影套裝【ＦＺ】・紫
-4716,Shadow HS Suit Purple,暗影套裝【ＨＳ】・紫
-4717,Shadow GS Suit Purple,暗影套裝【ＧＳ】・紫
-4718,Shadow GP Suit Purple,暗影套裝【ＧＰ】・紫
+4707,Demon FZドレス・Blue,惡魔鎧甲・青
+4708,Demon HSドレス・Blue,惡魔鎧甲・青
+4709,Demon GSドレス・Blue,惡魔鎧甲・青
+4710,Demon GPドレス・Blue,惡魔鎧甲・青
+4711,Chaos FZドレス・Blue,混沌鎧甲・青
+4712,Chaos HSドレス・Blue,混沌鎧甲・青
+4713,Chaos GSドレス・Blue,混沌鎧甲・青
+4714,Chaos GPドレス・Blue,混沌鎧甲・青
+4715,Shadow FZ Suit Purple,影套裝【ＦＺ】・紫
+4716,Shadow HS Suit Purple,影套裝【ＨＳ】・紫
+4717,Shadow GS Suit Purple,影套裝【ＧＳ】・紫
+4718,Shadow GP Suit Purple,影套裝【ＧＰ】・紫
 4719,Soul FZ Suit・Purple,魂套裝【ＦＺ】・紫
 4720,Soul HS Suit・Purple,魂套裝【ＨＳ】・紫
 4721,Soul GS Suit・Purple,魂套裝【ＧＳ】・紫
 4722,Soul GP Suit・Purple,魂套裝【ＧＰ】・紫
-4723,Demon FZドレス・Red,惡魔鎧甲
-4724,Demon HSドレス・Red,惡魔鎧甲
-4725,Demon GSドレス・Red,惡魔鎧甲
-4726,Demon GPドレス・Red,惡魔鎧甲
-4727,Chaos FZドレス・Red,混沌鎧甲
-4728,Chaos HSドレス・Red,混沌鎧甲
-4729,Chaos GSドレス・Red,混沌鎧甲
-4730,Chaos GPドレス・Red,混沌鎧甲
-4731,Shadow FZ Suit Red,暗影套裝【ＦＺ】・赤
-4732,Shadow HS Suit Red,暗影套裝【ＨＳ】・赤
-4733,Shadow GS Suit Red,暗影套裝【ＧＳ】・赤
-4734,Shadow GP Suit Red,暗影套裝【ＧＰ】・赤
+4723,Demon FZドレス・Red,惡魔鎧甲・赤
+4724,Demon HSドレス・Red,惡魔鎧甲・赤
+4725,Demon GSドレス・Red,惡魔鎧甲・赤
+4726,Demon GPドレス・Red,惡魔鎧甲・赤
+4727,Chaos FZドレス・Red,混沌鎧甲・赤
+4728,Chaos HSドレス・Red,混沌鎧甲・赤
+4729,Chaos GSドレス・Red,混沌鎧甲・赤
+4730,Chaos GPドレス・Red,混沌鎧甲・赤
+4731,Shadow FZ Suit Red,影套裝【ＦＺ】・赤
+4732,Shadow HS Suit Red,影套裝【ＨＳ】・赤
+4733,Shadow GS Suit Red,影套裝【ＧＳ】・赤
+4734,Shadow GP Suit Red,影套裝【ＧＰ】・赤
 4735,Soul FZ Suit・Red,魂套裝【ＦＺ】・赤
 4736,Soul HS Suit・Red,魂套裝【ＨＳ】・赤
 4737,Soul GS Suit・Red,魂套裝【ＧＳ】・赤
 4738,Soul GP Suit・Red,魂套裝【ＧＰ】・赤
-4739,Demon FZドレス・Green,惡魔鎧甲
-4740,Demon HSドレス・Green,惡魔鎧甲
-4741,Demon GSドレス・Green,惡魔鎧甲
-4742,Demon GPドレス・Green,惡魔鎧甲
-4743,Chaos FZドレス・Green,混沌鎧甲
-4744,Chaos HSドレス・Green,混沌鎧甲
-4745,Chaos GSドレス・Green,混沌鎧甲
-4746,Chaos GPドレス・Green,混沌鎧甲
-4747,Shadow FZ Suit Green,暗影套裝【ＦＺ】・緑
-4748,Shadow HS Suit Green,暗影套裝【ＨＳ】・緑
-4749,Shadow GS Suit Green,暗影套裝【ＧＳ】・緑
-4750,Shadow GP Suit Green,暗影套裝【ＧＰ】・緑
+4739,Demon FZドレス・Green,惡魔鎧甲・緑
+4740,Demon HSドレス・Green,惡魔鎧甲・緑
+4741,Demon GSドレス・Green,惡魔鎧甲・緑
+4742,Demon GPドレス・Green,惡魔鎧甲・緑
+4743,Chaos FZドレス・Green,混沌鎧甲・緑
+4744,Chaos HSドレス・Green,混沌鎧甲・緑
+4745,Chaos GSドレス・Green,混沌鎧甲・緑
+4746,Chaos GPドレス・Green,混沌鎧甲・緑
+4747,Shadow FZ Suit Green,影套裝【ＦＺ】・緑
+4748,Shadow HS Suit Green,影套裝【ＨＳ】・緑
+4749,Shadow GS Suit Green,影套裝【ＧＳ】・緑
+4750,Shadow GP Suit Green,影套裝【ＧＰ】・緑
 4751,Soul FZ Suit・Green,魂套裝【ＦＺ】・緑
 4752,Soul HS Suit・Green,魂套裝【ＨＳ】・緑
 4753,Soul GS Suit・Green,魂套裝【ＧＳ】・緑
 4754,Soul GP Suit・Green,魂套裝【ＧＰ】・緑
-4755,Demon FZドレス・White,惡魔鎧甲
-4756,Demon HSドレス・White,惡魔鎧甲
-4757,Demon GSドレス・White,惡魔鎧甲
-4758,Demon GPドレス・White,惡魔鎧甲
-4759,Chaos FZドレス・White,混沌鎧甲
-4760,Chaos HSドレス・White,混沌鎧甲
-4761,Chaos GSドレス・White,混沌鎧甲
-4762,Chaos GPドレス・White,混沌鎧甲
-4763,Shadow FZ Suit White,暗影套裝【ＦＺ】・白
-4764,Shadow HS Suit White,暗影套裝【ＨＳ】・白
-4765,Shadow GS Suit White,暗影套裝【ＧＳ】・白
-4766,Shadow GP Suit White,暗影套裝【ＧＰ】・白
+4755,Demon FZドレス・White,惡魔鎧甲・白
+4756,Demon HSドレス・White,惡魔鎧甲・白
+4757,Demon GSドレス・White,惡魔鎧甲・白
+4758,Demon GPドレス・White,惡魔鎧甲・白
+4759,Chaos FZドレス・White,混沌鎧甲・白
+4760,Chaos HSドレス・White,混沌鎧甲・白
+4761,Chaos GSドレス・White,混沌鎧甲・白
+4762,Chaos GPドレス・White,混沌鎧甲・白
+4763,Shadow FZ Suit White,影套裝【ＦＺ】・白
+4764,Shadow HS Suit White,影套裝【ＨＳ】・白
+4765,Shadow GS Suit White,影套裝【ＧＳ】・白
+4766,Shadow GP Suit White,影套裝【ＧＰ】・白
 4767,Soul FZ Suit・White,魂套裝【ＦＺ】・白
 4768,Soul HS Suit・White,魂套裝【ＨＳ】・白
 4769,Soul GS Suit・White,魂套裝【ＧＳ】・白
 4770,Soul GP Suit・White,魂套裝【ＧＰ】・白
-4771,Issen GS【胴当て】・Red,一閃鎧甲【ＧＳ】
-4772,Issen GP【胴当て】・Red,一閃鎧甲【ＧＰ】
-4773,構射GS【胴当て】・Red,胴当て構射鎧甲・赤
-4774,構射GP【胴当て】・Red,胴当て構射鎧甲・赤
+4771,Issen GS【胴当て】・Red,一閃胴當【ＧＳ】・赤
+4772,Issen GP【胴当て】・Red,一閃胴當【ＧＰ】・赤
+4773,構射GS【胴当て】・Red,構射胴當【ＧＳ】・赤
+4774,構射GP【胴当て】・Red,構射胴當【ＧＰ】・赤
 4775,蜂針GS [Chestplate 】・Orange,蜂針胸甲【ＧＳ】・橙
 4776,蜂針GP [Chestplate 】・Orange,蜂針胸甲【ＧＰ】・橙
 4777,気弾GS [Chestplate 】・Orange,気弾胸甲【ＧＳ】・橙
 4778,気弾GP [Chestplate 】・Orange,気弾胸甲【ＧＰ】・橙
-4779,Issen GS【胴当て】・Blue,一閃鎧甲【ＧＳ】
-4780,Issen GP【胴当て】・Blue,一閃鎧甲【ＧＰ】
-4781,構射GS【胴当て】・Blue,胴当て構射鎧甲・青
-4782,構射GP【胴当て】・Blue,胴当て構射鎧甲・青
+4779,Issen GS【胴当て】・Blue,一閃胴當【ＧＳ】・青
+4780,Issen GP【胴当て】・Blue,一閃胴當【ＧＰ】・青
+4781,構射GS【胴当て】・Blue,構射胴當【ＧＳ】・青
+4782,構射GP【胴当て】・Blue,構射胴當【ＧＰ】・青
 4783,蜂針GS [Chestplate 】・Blue,蜂針胸甲【ＧＳ】・青
 4784,蜂針GP [Chestplate 】・Blue,蜂針胸甲【ＧＰ】・青
 4785,気弾GS [Chestplate 】・Blue,気弾胸甲【ＧＳ】・青
 4786,気弾GP [Chestplate 】・Blue,気弾胸甲【ＧＰ】・青
-4787,Issen GS【胴当て】・Yellow,一閃鎧甲【ＧＳ】
-4788,Issen GP【胴当て】・Yellow,一閃鎧甲【ＧＰ】
-4789,構射GS【胴当て】・Yellow,胴当て構射鎧甲・黄
-4790,構射GP【胴当て】・Yellow,胴当て構射鎧甲・黄
+4787,Issen GS【胴当て】・Yellow,一閃胴當【ＧＳ】・黄
+4788,Issen GP【胴当て】・Yellow,一閃胴當【ＧＰ】・黄
+4789,構射GS【胴当て】・Yellow,構射胴當【ＧＳ】・黄
+4790,構射GP【胴当て】・Yellow,構射胴當【ＧＰ】・黄
 4791,蜂針GS [Chestplate 】・Yellow,蜂針胸甲【ＧＳ】・黄
 4792,蜂針GP [Chestplate 】・Yellow,蜂針胸甲【ＧＰ】・黄
 4793,気弾GS [Chestplate 】・Yellow,気弾胸甲【ＧＳ】・黄
 4794,気弾GP [Chestplate 】・Yellow,気弾胸甲【ＧＰ】・黄
-4795,Issen GS【胴当て】・Black,一閃鎧甲【ＧＳ】
-4796,Issen GP【胴当て】・Black,一閃鎧甲【ＧＰ】
-4797,構射GS【胴当て】・Black,胴当て構射鎧甲・黑
-4798,構射GP【胴当て】・Black,胴当て構射鎧甲・黑
+4795,Issen GS【胴当て】・Black,一閃胴當【ＧＳ】・黑
+4796,Issen GP【胴当て】・Black,一閃胴當【ＧＰ】・黑
+4797,構射GS【胴当て】・Black,構射胴當【ＧＳ】・黑
+4798,構射GP【胴当て】・Black,構射胴當【ＧＰ】・黑
 4799,蜂針GS [Chestplate 】・Black,蜂針胸甲【ＧＳ】・黑
 4800,蜂針GP [Chestplate 】・Black,蜂針胸甲【ＧＰ】・黑
 4801,気弾GS [Chestplate 】・Black,気弾胸甲【ＧＳ】・黑
@@ -4806,10 +4806,10 @@ index,source,target
 4804,Shinryu GP胴着・Red,胴着鎧甲・赤
 4805,Reppa GS胴着・Red,胴着鎧甲・赤
 4806,Reppa GP胴着・Red,胴着鎧甲・赤
-4807,Cannon GS Suit・Water,加農水套裝【ＧＳ】
-4808,Cannon GP Suit・Water,加農水套裝【ＧＰ】
-4809,Axel GS Suit・Water,輪軸水套裝【ＧＳ】
-4810,Axel GP Suit・Water,輪軸水套裝【ＧＰ】
+4807,Cannon GS Suit・Water,加農套裝【ＧＳ】・水
+4808,Cannon GP Suit・Water,加農套裝【ＧＰ】・水
+4809,Axel GS Suit・Water,輪軸套裝【ＧＳ】・水
+4810,Axel GP Suit・Water,輪軸套裝【ＧＰ】・水
 4811,Shinryu GS胴着・White,胴着鎧甲・白
 4812,Shinryu GP胴着・White,胴着鎧甲・白
 4813,Reppa GS胴着・White,胴着鎧甲・白
@@ -5152,12 +5152,12 @@ index,source,target
 5150,迅雷HS胴着,迅雷胴着鎧甲
 5151,迅雷GS胴着,迅雷胴着鎧甲
 5152,迅雷GP胴着,迅雷胴着鎧甲
-5153,Heaven 星胴着,星胴着鎧甲・天
-5154,Heaven 星F胴着,星胴着鎧甲・天
-5155,Heaven 星FZ胴着,星胴着鎧甲・天
-5156,Heaven 星HS胴着,星胴着鎧甲・天
-5157,Heaven 星GS胴着,星胴着鎧甲・天
-5158,Heaven 星GP胴着,星胴着鎧甲・天
+5153,Heaven 星胴着,星胴着天鎧甲
+5154,Heaven 星F胴着,星胴着天鎧甲
+5155,Heaven 星FZ胴着,星胴着天鎧甲
+5156,Heaven 星HS胴着,星胴着天鎧甲
+5157,Heaven 星GS胴着,星胴着天鎧甲
+5158,Heaven 星GP胴着,星胴着天鎧甲
 5159,飛燕胴着,飛燕胴着鎧甲
 5160,飛燕F胴着,飛燕胴着鎧甲
 5161,飛燕FZ胴着,飛燕胴着鎧甲
@@ -5422,38 +5422,38 @@ index,source,target
 5420,Omet HS Suit・Blue,歐梅特套裝【ＨＳ】・青
 5421,Omet GS Suit・Blue,歐梅特套裝【ＧＳ】・青
 5422,Omet GP Suit・Blue,歐梅特套裝【ＧＰ】・青
-5423,Gold FZ Mail・Red,鎧甲【ＦＺ】・金・赤
-5424,Gold HS Mail・Red,鎧甲【ＨＳ】・金・赤
-5425,Gold GS Mail・Red,鎧甲【ＧＳ】・金・赤
-5426,Gold GP Mail・Red,鎧甲【ＧＰ】・金・赤
-5427,Gold FZ Mail・Blue,鎧甲【ＦＺ】・金・青
-5428,Gold HS Mail・Blue,鎧甲【ＨＳ】・金・青
-5429,Gold GS Mail・Blue,鎧甲【ＧＳ】・金・青
-5430,Gold GP Mail・Blue,鎧甲【ＧＰ】・金・青
-5431,Gold FZ Mail・Yellow,鎧甲【ＦＺ】・金・黄
-5432,Gold HS Mail・Yellow,鎧甲【ＨＳ】・金・黄
-5433,Gold GS Mail・Yellow,鎧甲【ＧＳ】・金・黄
-5434,Gold GP Mail・Yellow,鎧甲【ＧＰ】・金・黄
-5435,Gold FZ Mail・Purple,鎧甲【ＦＺ】・金・紫
-5436,Gold HS Mail・Purple,鎧甲【ＨＳ】・金・紫
-5437,Gold GS Mail・Purple,鎧甲【ＧＳ】・金・紫
-5438,Gold GP Mail・Purple,鎧甲【ＧＰ】・金・紫
-5439,Gold FZ Suit・Red,套裝【ＦＺ】・金・赤
-5440,Gold HS Suit・Red,套裝【ＨＳ】・金・赤
-5441,Gold GS Suit・Red,套裝【ＧＳ】・金・赤
-5442,Gold GP Suit・Red,套裝【ＧＰ】・金・赤
-5443,Gold FZ Suit・Blue,套裝【ＦＺ】・金・青
-5444,Gold HS Suit・Blue,套裝【ＨＳ】・金・青
-5445,Gold GS Suit・Blue,套裝【ＧＳ】・金・青
-5446,Gold GP Suit・Blue,套裝【ＧＰ】・金・青
-5447,Gold FZ Suit・Yellow,套裝【ＦＺ】・金・黄
-5448,Gold HS Suit・Yellow,套裝【ＨＳ】・金・黄
-5449,Gold GS Suit・Yellow,套裝【ＧＳ】・金・黄
-5450,Gold GP Suit・Yellow,套裝【ＧＰ】・金・黄
-5451,Gold FZ Suit・Purple,套裝【ＦＺ】・金・紫
-5452,Gold HS Suit・Purple,套裝【ＨＳ】・金・紫
-5453,Gold GS Suit・Purple,套裝【ＧＳ】・金・紫
-5454,Gold GP Suit・Purple,套裝【ＧＰ】・金・紫
+5423,Gold FZ Mail・Red,金鎧甲【ＦＺ】・赤
+5424,Gold HS Mail・Red,金鎧甲【ＨＳ】・赤
+5425,Gold GS Mail・Red,金鎧甲【ＧＳ】・赤
+5426,Gold GP Mail・Red,金鎧甲【ＧＰ】・赤
+5427,Gold FZ Mail・Blue,金鎧甲【ＦＺ】・青
+5428,Gold HS Mail・Blue,金鎧甲【ＨＳ】・青
+5429,Gold GS Mail・Blue,金鎧甲【ＧＳ】・青
+5430,Gold GP Mail・Blue,金鎧甲【ＧＰ】・青
+5431,Gold FZ Mail・Yellow,金鎧甲【ＦＺ】・黄
+5432,Gold HS Mail・Yellow,金鎧甲【ＨＳ】・黄
+5433,Gold GS Mail・Yellow,金鎧甲【ＧＳ】・黄
+5434,Gold GP Mail・Yellow,金鎧甲【ＧＰ】・黄
+5435,Gold FZ Mail・Purple,金鎧甲【ＦＺ】・紫
+5436,Gold HS Mail・Purple,金鎧甲【ＨＳ】・紫
+5437,Gold GS Mail・Purple,金鎧甲【ＧＳ】・紫
+5438,Gold GP Mail・Purple,金鎧甲【ＧＰ】・紫
+5439,Gold FZ Suit・Red,金套裝【ＦＺ】・赤
+5440,Gold HS Suit・Red,金套裝【ＨＳ】・赤
+5441,Gold GS Suit・Red,金套裝【ＧＳ】・赤
+5442,Gold GP Suit・Red,金套裝【ＧＰ】・赤
+5443,Gold FZ Suit・Blue,金套裝【ＦＺ】・青
+5444,Gold HS Suit・Blue,金套裝【ＨＳ】・青
+5445,Gold GS Suit・Blue,金套裝【ＧＳ】・青
+5446,Gold GP Suit・Blue,金套裝【ＧＰ】・青
+5447,Gold FZ Suit・Yellow,金套裝【ＦＺ】・黄
+5448,Gold HS Suit・Yellow,金套裝【ＨＳ】・黄
+5449,Gold GS Suit・Yellow,金套裝【ＧＳ】・黄
+5450,Gold GP Suit・Yellow,金套裝【ＧＰ】・黄
+5451,Gold FZ Suit・Purple,金套裝【ＦＺ】・紫
+5452,Gold HS Suit・Purple,金套裝【ＨＳ】・紫
+5453,Gold GS Suit・Purple,金套裝【ＧＳ】・紫
+5454,Gold GP Suit・Purple,金套裝【ＧＰ】・紫
 5455,Shaln HS Vest・Blue,夏爾恩背心【ＨＳ】・青
 5456,Shaln GS Vest・Blue,夏爾恩背心【ＧＳ】・青
 5457,Shaln GP Vest・Blue,夏爾恩背心【ＧＰ】・青
@@ -5688,18 +5688,18 @@ index,source,target
 5686,Zyra HS Suit・Green,齊拉套裝【ＨＳ】・緑
 5687,Zyra GS Suit・Green,齊拉套裝【ＧＳ】・緑
 5688,Zyra GP Suit・Green,齊拉套裝【ＧＰ】・緑
-5689,Zyra Mail・Water,齊拉水鎧甲
-5690,Zyra F Mail・Water,齊拉水鎧甲【Ｆ】
-5691,Zyra FZ Mail・Water,齊拉水鎧甲【ＦＺ】
-5692,Zyra HS Mail・Water,齊拉水鎧甲【ＨＳ】
-5693,Zyra GS Mail・Water,齊拉水鎧甲【ＧＳ】
-5694,Zyra GP Mail・Water,齊拉水鎧甲【ＧＰ】
-5695,Zyra Suit・Water,齊拉水套裝
-5696,Zyra F Suit・Water,齊拉水套裝【Ｆ】
-5697,Zyra FZ Suit・Water,齊拉水套裝【ＦＺ】
-5698,Zyra HS Suit・Water,齊拉水套裝【ＨＳ】
-5699,Zyra GS Suit・Water,齊拉水套裝【ＧＳ】
-5700,Zyra GP Suit・Water,齊拉水套裝【ＧＰ】
+5689,Zyra Mail・Water,齊拉鎧甲・水
+5690,Zyra F Mail・Water,齊拉鎧甲【Ｆ】・水
+5691,Zyra FZ Mail・Water,齊拉鎧甲【ＦＺ】・水
+5692,Zyra HS Mail・Water,齊拉鎧甲【ＨＳ】・水
+5693,Zyra GS Mail・Water,齊拉鎧甲【ＧＳ】・水
+5694,Zyra GP Mail・Water,齊拉鎧甲【ＧＰ】・水
+5695,Zyra Suit・Water,齊拉套裝・水
+5696,Zyra F Suit・Water,齊拉套裝【Ｆ】・水
+5697,Zyra FZ Suit・Water,齊拉套裝【ＦＺ】・水
+5698,Zyra HS Suit・Water,齊拉套裝【ＨＳ】・水
+5699,Zyra GS Suit・Water,齊拉套裝【ＧＳ】・水
+5700,Zyra GP Suit・Water,齊拉套裝【ＧＰ】・水
 5701,Zyra Mail・Red,齊拉鎧甲・赤
 5702,Zyra F Mail・Red,齊拉鎧甲【Ｆ】・赤
 5703,Zyra FZ Mail・Red,齊拉鎧甲【ＦＺ】・赤
@@ -5864,54 +5864,54 @@ index,source,target
 5862,Ex HS Suit・Black,艾克斯套裝【ＨＳ】・黑
 5863,Ex GS Suit・Black,艾克斯套裝【ＧＳ】・黑
 5864,Ex GP Suit・Black,艾克斯套裝【ＧＰ】・黑
-5865,Gold Cat FZ Vest,猫背心【ＦＺ】・金
-5866,Gold Cat HS Vest,猫背心【ＨＳ】・金
-5867,Gold Cat GS Vest,猫背心【ＧＳ】・金
-5868,Gold Cat GP Vest,猫背心【ＧＰ】・金
-5869,Gold Cat FZ Suit,猫套裝【ＦＺ】・金
-5870,Gold Cat HS Suit,猫套裝【ＨＳ】・金
-5871,Gold Cat GS Suit,猫套裝【ＧＳ】・金
-5872,Gold Cat GP Suit,猫套裝【ＧＰ】・金
-5873,Silver Cat FZ Vest,猫背心【ＦＺ】・銀
-5874,Silver Cat HS Vest,猫背心【ＨＳ】・銀
-5875,Silver Cat GS Vest,猫背心【ＧＳ】・銀
-5876,Silver Cat GP Vest,猫背心【ＧＰ】・銀
-5877,Silver Cat FZ Suit,猫套裝【ＦＺ】・銀
-5878,Silver Cat HS Suit,猫套裝【ＨＳ】・銀
-5879,Silver Cat GS Suit,猫套裝【ＧＳ】・銀
-5880,Silver Cat GP Suit,猫套裝【ＧＰ】・銀
-5881,Claire FZ Vest・Purple,克蕾兒背心【ＦＺ】・紫
-5882,Claire HS Vest・Purple,克蕾兒背心【ＨＳ】・紫
-5883,Claire GS Vest・Purple,克蕾兒背心【ＧＳ】・紫
-5884,Claire GP Vest・Purple,克蕾兒背心【ＧＰ】・紫
-5885,Claire FZ Suit・Purple,克蕾兒套裝【ＦＺ】・紫
-5886,Claire HS Suit・Purple,克蕾兒套裝【ＨＳ】・紫
-5887,Claire GS Suit・Purple,克蕾兒套裝【ＧＳ】・紫
-5888,Claire GP Suit・Purple,克蕾兒套裝【ＧＰ】・紫
-5889,Claire FZ Vest・Water,克蕾兒水背心【ＦＺ】
-5890,Claire HS Vest・Water,克蕾兒水背心【ＨＳ】
-5891,Claire GS Vest・Water,克蕾兒水背心【ＧＳ】
-5892,Claire GP Vest・Water,克蕾兒水背心【ＧＰ】
-5893,Claire FZ Suit・Water,克蕾兒水套裝【ＦＺ】
-5894,Claire HS Suit・Water,克蕾兒水套裝【ＨＳ】
-5895,Claire GS Suit・Water,克蕾兒水套裝【ＧＳ】
-5896,Claire GP Suit・Water,克蕾兒水套裝【ＧＰ】
-5897,Claire FZ Vest・Red,克蕾兒背心【ＦＺ】・赤
-5898,Claire HS Vest・Red,克蕾兒背心【ＨＳ】・赤
-5899,Claire GS Vest・Red,克蕾兒背心【ＧＳ】・赤
-5900,Claire GP Vest・Red,克蕾兒背心【ＧＰ】・赤
-5901,Claire FZ Suit・Red,克蕾兒套裝【ＦＺ】・赤
-5902,Claire HS Suit・Red,克蕾兒套裝【ＨＳ】・赤
-5903,Claire GS Suit・Red,克蕾兒套裝【ＧＳ】・赤
-5904,Claire GP Suit・Red,克蕾兒套裝【ＧＰ】・赤
-5905,Claire FZ Vest・Black,克蕾兒背心【ＦＺ】・黑
-5906,Claire HS Vest・Black,克蕾兒背心【ＨＳ】・黑
-5907,Claire GS Vest・Black,克蕾兒背心【ＧＳ】・黑
-5908,Claire GP Vest・Black,克蕾兒背心【ＧＰ】・黑
-5909,Claire FZ Suit・Black,克蕾兒套裝【ＦＺ】・黑
-5910,Claire HS Suit・Black,克蕾兒套裝【ＨＳ】・黑
-5911,Claire GS Suit・Black,克蕾兒套裝【ＧＳ】・黑
-5912,Claire GP Suit・Black,克蕾兒套裝【ＧＰ】・黑
+5865,Gold Cat FZ Vest,金猫背心【ＦＺ】
+5866,Gold Cat HS Vest,金猫背心【ＨＳ】
+5867,Gold Cat GS Vest,金猫背心【ＧＳ】
+5868,Gold Cat GP Vest,金猫背心【ＧＰ】
+5869,Gold Cat FZ Suit,金猫套裝【ＦＺ】
+5870,Gold Cat HS Suit,金猫套裝【ＨＳ】
+5871,Gold Cat GS Suit,金猫套裝【ＧＳ】
+5872,Gold Cat GP Suit,金猫套裝【ＧＰ】
+5873,Silver Cat FZ Vest,銀猫背心【ＦＺ】
+5874,Silver Cat HS Vest,銀猫背心【ＨＳ】
+5875,Silver Cat GS Vest,銀猫背心【ＧＳ】
+5876,Silver Cat GP Vest,銀猫背心【ＧＰ】
+5877,Silver Cat FZ Suit,銀猫套裝【ＦＺ】
+5878,Silver Cat HS Suit,銀猫套裝【ＨＳ】
+5879,Silver Cat GS Suit,銀猫套裝【ＧＳ】
+5880,Silver Cat GP Suit,銀猫套裝【ＧＰ】
+5881,Claire FZ Vest・Purple,克蕾爾背心【ＦＺ】・紫
+5882,Claire HS Vest・Purple,克蕾爾背心【ＨＳ】・紫
+5883,Claire GS Vest・Purple,克蕾爾背心【ＧＳ】・紫
+5884,Claire GP Vest・Purple,克蕾爾背心【ＧＰ】・紫
+5885,Claire FZ Suit・Purple,克蕾爾套裝【ＦＺ】・紫
+5886,Claire HS Suit・Purple,克蕾爾套裝【ＨＳ】・紫
+5887,Claire GS Suit・Purple,克蕾爾套裝【ＧＳ】・紫
+5888,Claire GP Suit・Purple,克蕾爾套裝【ＧＰ】・紫
+5889,Claire FZ Vest・Water,克蕾爾背心【ＦＺ】・水
+5890,Claire HS Vest・Water,克蕾爾背心【ＨＳ】・水
+5891,Claire GS Vest・Water,克蕾爾背心【ＧＳ】・水
+5892,Claire GP Vest・Water,克蕾爾背心【ＧＰ】・水
+5893,Claire FZ Suit・Water,克蕾爾套裝【ＦＺ】・水
+5894,Claire HS Suit・Water,克蕾爾套裝【ＨＳ】・水
+5895,Claire GS Suit・Water,克蕾爾套裝【ＧＳ】・水
+5896,Claire GP Suit・Water,克蕾爾套裝【ＧＰ】・水
+5897,Claire FZ Vest・Red,克蕾爾背心【ＦＺ】・赤
+5898,Claire HS Vest・Red,克蕾爾背心【ＨＳ】・赤
+5899,Claire GS Vest・Red,克蕾爾背心【ＧＳ】・赤
+5900,Claire GP Vest・Red,克蕾爾背心【ＧＰ】・赤
+5901,Claire FZ Suit・Red,克蕾爾套裝【ＦＺ】・赤
+5902,Claire HS Suit・Red,克蕾爾套裝【ＨＳ】・赤
+5903,Claire GS Suit・Red,克蕾爾套裝【ＧＳ】・赤
+5904,Claire GP Suit・Red,克蕾爾套裝【ＧＰ】・赤
+5905,Claire FZ Vest・Black,克蕾爾背心【ＦＺ】・黑
+5906,Claire HS Vest・Black,克蕾爾背心【ＨＳ】・黑
+5907,Claire GS Vest・Black,克蕾爾背心【ＧＳ】・黑
+5908,Claire GP Vest・Black,克蕾爾背心【ＧＰ】・黑
+5909,Claire FZ Suit・Black,克蕾爾套裝【ＦＺ】・黑
+5910,Claire HS Suit・Black,克蕾爾套裝【ＨＳ】・黑
+5911,Claire GS Suit・Black,克蕾爾套裝【ＧＳ】・黑
+5912,Claire GP Suit・Black,克蕾爾套裝【ＧＰ】・黑
 5913,Text HS Vest・Purple,文書背心【ＨＳ】・紫
 5914,Text GS Vest・Purple,文書背心【ＧＳ】・紫
 5915,Text GP Vest・Purple,文書背心【ＧＰ】・紫
@@ -6064,12 +6064,12 @@ index,source,target
 6062,Maisto HS Suit・Pink,麥斯托套裝【ＨＳ】・桃
 6063,Maisto GS Suit・Pink,麥斯托套裝【ＧＳ】・桃
 6064,Maisto GP Suit・Pink,麥斯托套裝【ＧＰ】・桃
-6065,Cayssis HS Mail Water,凱西斯水鎧甲【ＨＳ】
-6066,Cayssis GS Mail Water,凱西斯水鎧甲【ＧＳ】
-6067,Cayssis GP Mail Water,凱西斯水鎧甲【ＧＰ】
-6068,Cayssis HS Vest Water,凱西斯水背心【ＨＳ】
-6069,Cayssis GS Vest Water,凱西斯水背心【ＧＳ】
-6070,Cayssis GP Vest Water,凱西斯水背心【ＧＰ】
+6065,Cayssis HS Mail Water,凱西斯鎧甲【ＨＳ】・水
+6066,Cayssis GS Mail Water,凱西斯鎧甲【ＧＳ】・水
+6067,Cayssis GP Mail Water,凱西斯鎧甲【ＧＰ】・水
+6068,Cayssis HS Vest Water,凱西斯背心【ＨＳ】・水
+6069,Cayssis GS Vest Water,凱西斯背心【ＧＳ】・水
+6070,Cayssis GP Vest Water,凱西斯背心【ＧＰ】・水
 6071,Cayssis HS Mail Red,凱西斯鎧甲【ＨＳ】・赤
 6072,Cayssis GS Mail Red,凱西斯鎧甲【ＧＳ】・赤
 6073,Cayssis GP Mail Red,凱西斯鎧甲【ＧＰ】・赤
@@ -6150,8 +6150,8 @@ index,source,target
 6148,Galitos GP Suit・Red,加里托斯套裝【ＧＰ】・赤
 6149,Galitos GP Vest・Black,加里托斯背心【ＧＰ】・黑
 6150,Galitos GP Suit・Black,加里托斯套裝【ＧＰ】・黑
-6151,Galitos GP Vest・Water,加里托斯水背心【ＧＰ】
-6152,Galitos GP Suit・Water,加里托斯水套裝【ＧＰ】
+6151,Galitos GP Vest・Water,加里托斯背心【ＧＰ】・水
+6152,Galitos GP Suit・Water,加里托斯套裝【ＧＰ】・水
 6153,Lien GP Vest・Blue,里恩背心【ＧＰ】・青
 6154,Lien GP Suit・Blue,里恩套裝【ＧＰ】・青
 6155,Lien GP Vest・Red,里恩背心【ＧＰ】・赤
@@ -6228,9 +6228,9 @@ index,source,target
 6226,Diore FX Vest,德伊爾艾背心【ＦＸ】
 6227,Diore G Vest,德伊爾艾背心【Ｇ】
 6228,Diore GF Vest,德伊爾艾背心【ＧＦ】
-6229,Kagura G【胴当て】,神樂鎧甲【Ｇ】
-6230,Kagura GF【胴当て】,神樂鎧甲【ＧＦ】
-6231,Kagura GX【胴当て】,神樂鎧甲【ＧＸ】
+6229,Kagura G【胴当て】,神樂胴當【Ｇ】
+6230,Kagura GF【胴当て】,神樂胴當【ＧＦ】
+6231,Kagura GX【胴当て】,神樂胴當【ＧＸ】
 6232,Kamiza G [Chestplate 】,上座胸甲【Ｇ】
 6233,Kamiza GF [Chestplate 】,上座胸甲【ＧＦ】
 6234,Kamiza GX [Chestplate 】,上座胸甲【ＧＸ】
@@ -6272,10 +6272,10 @@ index,source,target
 6270,Suzaku・刀神GX Mail,朱雀鎧甲【ＧＸ】
 6271,Genbu・刀神GX Mail,玄武鎧甲【ＧＸ】
 6272,Seiryu・刀神GX Mail,青龍鎧甲【ＧＸ】
-6273,Byakko・Heaven 槍GX Mail,白虎鎧甲【ＧＸ】・天
-6274,Suzaku・Heaven 槍GX Mail,朱雀鎧甲【ＧＸ】・天
-6275,Genbu・Heaven 槍GX Mail,玄武鎧甲【ＧＸ】・天
-6276,Seiryu・Heaven 槍GX Mail,青龍鎧甲【ＧＸ】・天
+6273,Byakko・Heaven 槍GX Mail,白虎天鎧甲【ＧＸ】
+6274,Suzaku・Heaven 槍GX Mail,朱雀天鎧甲【ＧＸ】
+6275,Genbu・Heaven 槍GX Mail,玄武天鎧甲【ＧＸ】
+6276,Seiryu・Heaven 槍GX Mail,青龍天鎧甲【ＧＸ】
 6277,Byakko・砲皇GX Mail,白虎鎧甲【ＧＸ】
 6278,Suzaku・砲皇GX Mail,朱雀鎧甲【ＧＸ】
 6279,Genbu・砲皇GX Mail,玄武鎧甲【ＧＸ】
@@ -6494,10 +6494,10 @@ index,source,target
 6492,Gloria GP Mail・Blue,榮光鎧甲【ＧＰ】・青
 6493,Gloria GS Suit・Blue,榮光套裝【ＧＳ】・青
 6494,Gloria GP Suit・Blue,榮光套裝【ＧＰ】・青
-6495,Gloria GS Mail・Water,榮光水鎧甲【ＧＳ】
-6496,Gloria GP Mail・Water,榮光水鎧甲【ＧＰ】
-6497,Gloria GS Suit・Water,榮光水套裝【ＧＳ】
-6498,Gloria GP Suit・Water,榮光水套裝【ＧＰ】
+6495,Gloria GS Mail・Water,榮光鎧甲【ＧＳ】・水
+6496,Gloria GP Mail・Water,榮光鎧甲【ＧＰ】・水
+6497,Gloria GS Suit・Water,榮光套裝【ＧＳ】・水
+6498,Gloria GP Suit・Water,榮光套裝【ＧＰ】・水
 6499,Gloria GS Mail・Red,榮光鎧甲【ＧＳ】・赤
 6500,Gloria GP Mail・Red,榮光鎧甲【ＧＰ】・赤
 6501,Gloria GS Suit・Red,榮光套裝【ＧＳ】・赤
@@ -6628,12 +6628,12 @@ index,source,target
 6626,旋転の Chestplate・HS,旋転の胸甲【ＨＳ】
 6627,旋転の Chestplate・GS,旋転の胸甲【ＧＳ】
 6628,旋転の Chestplate・GP,旋転の胸甲【ＧＰ】
-6629,Rolling Sky Chestplate・HS,滾天胸甲【ＨＳ】
-6630,Rolling Sky Chestplate・GS,滾天胸甲【ＧＳ】
-6631,Rolling Sky Chestplate・GP,滾天胸甲【ＧＰ】
-6632,Rolling Earth Chestplate・HS,滾地胸甲【ＨＳ】・地
-6633,Rolling Earth Chestplate・GS,滾地胸甲【ＧＳ】・地
-6634,Rolling Earth Chestplate・GP,滾地胸甲【ＧＰ】・地
+6629,Rolling Sky Chestplate・HS,滾天胸甲【ＨＳ】・天
+6630,Rolling Sky Chestplate・GS,滾天胸甲【ＧＳ】・天
+6631,Rolling Sky Chestplate・GP,滾天胸甲【ＧＰ】・天
+6632,Rolling Earth Chestplate・HS,滾地胸甲【ＨＳ】
+6633,Rolling Earth Chestplate・GS,滾地胸甲【ＧＳ】
+6634,Rolling Earth Chestplate・GP,滾地胸甲【ＧＰ】
 6635,Latria HS Vest,崇敬背心【ＨＳ】
 6636,Latria GS Vest,崇敬背心【ＧＳ】
 6637,Latria GP Vest,崇敬背心【ＧＰ】
@@ -6912,22 +6912,22 @@ index,source,target
 6910,Venom G Vest,芙艾恩歐背心【Ｇ】
 6911,Venom GF Vest,芙艾恩歐背心【ＧＦ】
 6912,Venom GX Vest,芙艾恩歐背心【ＧＸ】
-6913,Elegance 【胴当て】,雅鎧甲
-6914,Elegance F【胴当て】,雅鎧甲【Ｆ】
-6915,Elegance FX【胴当て】,雅鎧甲【ＦＸ】
-6916,Elegance G【胴当て】,雅鎧甲【Ｇ】
-6917,Elegance GF【胴当て】,雅鎧甲【ＧＦ】
-6918,Grace 【胴当て】,恩寵鎧甲
-6919,Grace F【胴当て】,恩寵鎧甲【Ｆ】
-6920,Grace FX【胴当て】,恩寵鎧甲【ＦＸ】
-6921,Grace G【胴当て】,恩寵鎧甲【Ｇ】
-6922,Grace GF【胴当て】,恩寵鎧甲【ＧＦ】
-6923,Inagami G【胴当て】,雅翁龍鎧甲【Ｇ】
-6924,Inagami GF【胴当て】,雅翁龍鎧甲【ＧＦ】
-6925,Inagami GX【胴当て】,雅翁龍鎧甲【ＧＸ】
-6926,Inagami G【胴当て】,雅翁龍鎧甲【Ｇ】
-6927,Inagami GF【胴当て】,雅翁龍鎧甲【ＧＦ】
-6928,Inagami GX【胴当て】,雅翁龍鎧甲【ＧＸ】
+6913,Elegance 【胴当て】,雅胴當
+6914,Elegance F【胴当て】,雅胴當【Ｆ】
+6915,Elegance FX【胴当て】,雅胴當【ＦＸ】
+6916,Elegance G【胴当て】,雅胴當【Ｇ】
+6917,Elegance GF【胴当て】,雅胴當【ＧＦ】
+6918,Grace 【胴当て】,恩寵胴當
+6919,Grace F【胴当て】,恩寵胴當【Ｆ】
+6920,Grace FX【胴当て】,恩寵胴當【ＦＸ】
+6921,Grace G【胴当て】,恩寵胴當【Ｇ】
+6922,Grace GF【胴当て】,恩寵胴當【ＧＦ】
+6923,Inagami G【胴当て】,雅翁龍胴當【Ｇ】
+6924,Inagami GF【胴当て】,雅翁龍胴當【ＧＦ】
+6925,Inagami GX【胴当て】,雅翁龍胴當【ＧＸ】
+6926,Inagami G【胴当て】,雅翁龍胴當【Ｇ】
+6927,Inagami GF【胴当て】,雅翁龍胴當【ＧＦ】
+6928,Inagami GX【胴当て】,雅翁龍胴當【ＧＸ】
 6929,Garuba Diru,雅魯巴上衣
 6930,Garuba F Diru,雅魯巴上衣【Ｆ】
 6931,Garuba FX Diru,雅魯巴上衣【ＦＸ】
@@ -6940,23 +6940,23 @@ index,source,target
 6938,Garuba GFバダル,雅魯巴鎧甲
 6939,Wind GF Diru,風上衣【ＧＦ】
 6940,Wind GFバダル,風鎧甲
-6941,武者GF【胴当て】,胴当て武者鎧甲
-6942,日光GF【胴当て】,胴当て日光鎧甲
-6943,White 蘭・Kensei Mail,蘭鎧甲・白
-6944,White 蘭・Kensei F Mail,蘭鎧甲【Ｆ】・白
-6945,White 蘭・Kensei FX Mail,蘭鎧甲【ＦＸ】・白
-6946,Crimson 霞・Kensei Mail,霞鎧甲・紅
-6947,Crimson 霞・Kensei F Mail,霞鎧甲【Ｆ】・紅
-6948,Crimson 霞・Kensei FX Mail,霞鎧甲【ＦＸ】・紅
-6949,White 蘭・Kensei G Mail,蘭鎧甲【Ｇ】・白
-6950,White 蘭・Kensei GF Mail,蘭鎧甲【ＧＦ】・白
-6951,White 蘭・Kensei GX Mail,蘭鎧甲【ＧＸ】・白
+6941,武者GF【胴当て】,武者胴當【Ｆ】
+6942,日光GF【胴当て】,日光胴當【Ｆ】
+6943,White 蘭・Kensei Mail,白蘭劍聖鎧甲
+6944,White 蘭・Kensei F Mail,白蘭劍聖鎧甲【Ｆ】
+6945,White 蘭・Kensei FX Mail,白蘭劍聖鎧甲【ＦＸ】
+6946,Crimson 霞・Kensei Mail,紅霞劍聖鎧甲
+6947,Crimson 霞・Kensei F Mail,紅霞劍聖鎧甲【Ｆ】
+6948,Crimson 霞・Kensei FX Mail,紅霞劍聖鎧甲【ＦＸ】
+6949,White 蘭・Kensei G Mail,白蘭劍聖鎧甲【Ｇ】
+6950,White 蘭・Kensei GF Mail,白蘭劍聖鎧甲【ＧＦ】
+6951,White 蘭・Kensei GX Mail,白蘭劍聖鎧甲【ＧＸ】
 6952,月夜・Kensei G Mail,月夜鎧甲【Ｇ】
 6953,月夜・Kensei GF Mail,月夜鎧甲【ＧＦ】
 6954,月夜・Kensei GX Mail,月夜鎧甲【ＧＸ】
-6955,Crimson 霞・Kensei G Mail,霞鎧甲【Ｇ】・紅
-6956,Crimson 霞・Kensei GF Mail,霞鎧甲【ＧＦ】・紅
-6957,Crimson 霞・Kensei GX Mail,霞鎧甲【ＧＸ】・紅
+6955,Crimson 霞・Kensei G Mail,紅霞劍聖鎧甲【Ｇ】
+6956,Crimson 霞・Kensei GF Mail,紅霞劍聖鎧甲【ＧＦ】
+6957,Crimson 霞・Kensei GX Mail,紅霞劍聖鎧甲【ＧＸ】
 6958,Green 穹・Kensei G Mail,穹鎧甲【Ｇ】・緑
 6959,Green 穹・Kensei GF Mail,穹鎧甲【ＧＦ】・緑
 6960,Green 穹・Kensei GX Mail,穹鎧甲【ＧＸ】・緑
@@ -7050,24 +7050,24 @@ index,source,target
 7048,Green 穹・奏帝G Mail,穹奏帝鎧甲・緑
 7049,Green 穹・奏帝GF Mail,穹奏帝鎧甲【Ｆ】・緑
 7050,Green 穹・奏帝GX Mail,穹奏帝鎧甲・緑
-7051,White 蘭・Heaven 槍 Mail,蘭槍鎧甲・白・天
-7052,White 蘭・Heaven 槍F Mail,蘭槍鎧甲【Ｆ】・白・天
-7053,White 蘭・Heaven 槍FX Mail,蘭槍鎧甲【ＦＸ】・白・天
-7054,Crimson 霞・Heaven 槍 Mail,霞槍鎧甲・紅・天
-7055,Crimson 霞・Heaven 槍F Mail,霞槍鎧甲【Ｆ】・紅・天
-7056,Crimson 霞・Heaven 槍FX Mail,霞槍鎧甲【ＦＸ】・紅・天
-7057,White 蘭・Heaven 槍G Mail,蘭槍鎧甲【Ｇ】・白・天
-7058,White 蘭・Heaven 槍GF Mail,蘭槍鎧甲【Ｆ】・白・天
-7059,White 蘭・Heaven 槍GX Mail,蘭槍鎧甲【ＧＸ】・白・天
+7051,White 蘭・Heaven 槍 Mail,蘭槍天鎧甲・白
+7052,White 蘭・Heaven 槍F Mail,蘭槍天鎧甲【Ｆ】・白
+7053,White 蘭・Heaven 槍FX Mail,蘭槍天鎧甲【ＦＸ】・白
+7054,Crimson 霞・Heaven 槍 Mail,霞槍天鎧甲・紅
+7055,Crimson 霞・Heaven 槍F Mail,霞槍天鎧甲【Ｆ】・紅
+7056,Crimson 霞・Heaven 槍FX Mail,霞槍天鎧甲【ＦＸ】・紅
+7057,White 蘭・Heaven 槍G Mail,蘭槍天鎧甲【Ｇ】・白
+7058,White 蘭・Heaven 槍GF Mail,蘭槍天鎧甲【Ｆ】・白
+7059,White 蘭・Heaven 槍GX Mail,蘭槍天鎧甲【ＧＸ】・白
 7060,月夜・Heaven 槍G Mail,月夜槍鎧甲・天
-7061,月夜・Heaven 槍GF Mail,月夜槍鎧甲【Ｆ】・天
+7061,月夜・Heaven 槍GF Mail,月夜槍天鎧甲【Ｆ】
 7062,月夜・Heaven 槍GX Mail,月夜槍鎧甲・天
-7063,Crimson 霞・Heaven 槍G Mail,霞槍鎧甲【Ｇ】・紅・天
-7064,Crimson 霞・Heaven 槍GF Mail,霞槍鎧甲【Ｆ】・紅・天
-7065,Crimson 霞・Heaven 槍GX Mail,霞槍鎧甲【ＧＸ】・紅・天
-7066,Green 穹・Heaven 槍G Mail,穹槍鎧甲・緑・天
-7067,Green 穹・Heaven 槍GF Mail,穹槍鎧甲【Ｆ】・緑・天
-7068,Green 穹・Heaven 槍GX Mail,穹槍鎧甲・緑・天
+7063,Crimson 霞・Heaven 槍G Mail,霞槍天鎧甲【Ｇ】・紅
+7064,Crimson 霞・Heaven 槍GF Mail,霞槍天鎧甲【Ｆ】・紅
+7065,Crimson 霞・Heaven 槍GX Mail,霞槍天鎧甲【ＧＸ】・紅
+7066,Green 穹・Heaven 槍G Mail,穹槍鎧甲緑・天
+7067,Green 穹・Heaven 槍GF Mail,穹槍天鎧甲【Ｆ】・緑
+7068,Green 穹・Heaven 槍GX Mail,穹槍鎧甲緑・天
 7069,White 蘭・砲皇 Mail,蘭砲皇鎧甲・白
 7070,White 蘭・砲皇F Mail,蘭砲皇鎧甲【Ｆ】・白
 7071,White 蘭・砲皇FX Mail,蘭砲皇鎧甲【ＦＸ】・白
@@ -7326,54 +7326,54 @@ index,source,target
 7324,Oyun HS Vest・White,歐雲背心【ＨＳ】・白
 7325,Oyun GS Vest・White,歐雲背心【ＧＳ】・白
 7326,Oyun GP Vest・White,歐雲背心【ＧＰ】・白
-7327,Ash Vest・Red,背心・灰・赤
-7328,Ash F Vest・Red,背心【Ｆ】・灰・赤
-7329,Ash FZ Vest・Red,背心【ＦＺ】・灰・赤
-7330,Ash HS Vest・Red,背心【ＨＳ】・灰・赤
-7331,Ash GS Vest・Red,背心【ＧＳ】・灰・赤
-7332,Ash GP Vest・Red,背心【ＧＰ】・灰・赤
-7333,Ash Suit・Red,套裝・灰・赤
-7334,Ash F Suit・Red,套裝【Ｆ】・灰・赤
-7335,Ash FZ Suit・Red,套裝【ＦＺ】・灰・赤
-7336,Ash HS Suit・Red,套裝【ＨＳ】・灰・赤
-7337,Ash GS Suit・Red,套裝【ＧＳ】・灰・赤
-7338,Ash GP Suit・Red,套裝【ＧＰ】・灰・赤
-7339,Ash Vest・Blue,背心・灰・青
-7340,Ash F Vest・Blue,背心【Ｆ】・灰・青
-7341,Ash FZ Vest・Blue,背心【ＦＺ】・灰・青
-7342,Ash HS Vest・Blue,背心【ＨＳ】・灰・青
-7343,Ash GS Vest・Blue,背心【ＧＳ】・灰・青
-7344,Ash GP Vest・Blue,背心【ＧＰ】・灰・青
-7345,Ash Suit・Blue,套裝・灰・青
-7346,Ash F Suit・Blue,套裝【Ｆ】・灰・青
-7347,Ash FZ Suit・Blue,套裝【ＦＺ】・灰・青
-7348,Ash HS Suit・Blue,套裝【ＨＳ】・灰・青
-7349,Ash GS Suit・Blue,套裝【ＧＳ】・灰・青
-7350,Ash GP Suit・Blue,套裝【ＧＰ】・灰・青
-7351,Ash Vest・White,背心・灰・白
-7352,Ash F Vest・White,背心【Ｆ】・灰・白
-7353,Ash FZ Vest・White,背心【ＦＺ】・灰・白
-7354,Ash HS Vest・White,背心【ＨＳ】・灰・白
-7355,Ash GS Vest・White,背心【ＧＳ】・灰・白
-7356,Ash GP Vest・White,背心【ＧＰ】・灰・白
-7357,Ash Suit・White,套裝・灰・白
-7358,Ash F Suit・White,套裝【Ｆ】・灰・白
-7359,Ash FZ Suit・White,套裝【ＦＺ】・灰・白
-7360,Ash HS Suit・White,套裝【ＨＳ】・灰・白
-7361,Ash GS Suit・White,套裝【ＧＳ】・灰・白
-7362,Ash GP Suit・White,套裝【ＧＰ】・灰・白
-7363,Ash Vest・Black,背心・灰・黑
-7364,Ash F Vest・Black,背心【Ｆ】・灰・黑
-7365,Ash FZ Vest・Black,背心【ＦＺ】・灰・黑
-7366,Ash HS Vest・Black,背心【ＨＳ】・灰・黑
-7367,Ash GS Vest・Black,背心【ＧＳ】・灰・黑
-7368,Ash GP Vest・Black,背心【ＧＰ】・灰・黑
-7369,Ash Suit・Black,套裝・灰・黑
-7370,Ash F Suit・Black,套裝【Ｆ】・灰・黑
-7371,Ash FZ Suit・Black,套裝【ＦＺ】・灰・黑
-7372,Ash HS Suit・Black,套裝【ＨＳ】・灰・黑
-7373,Ash GS Suit・Black,套裝【ＧＳ】・灰・黑
-7374,Ash GP Suit・Black,套裝【ＧＰ】・灰・黑
+7327,Ash Vest・Red,背心灰・赤
+7328,Ash F Vest・Red,背心【Ｆ】灰・赤
+7329,Ash FZ Vest・Red,背心【ＦＺ】灰・赤
+7330,Ash HS Vest・Red,背心【ＨＳ】灰・赤
+7331,Ash GS Vest・Red,背心【ＧＳ】灰・赤
+7332,Ash GP Vest・Red,背心【ＧＰ】灰・赤
+7333,Ash Suit・Red,套裝灰・赤
+7334,Ash F Suit・Red,套裝【Ｆ】灰・赤
+7335,Ash FZ Suit・Red,套裝【ＦＺ】灰・赤
+7336,Ash HS Suit・Red,套裝【ＨＳ】灰・赤
+7337,Ash GS Suit・Red,套裝【ＧＳ】灰・赤
+7338,Ash GP Suit・Red,套裝【ＧＰ】灰・赤
+7339,Ash Vest・Blue,背心灰・青
+7340,Ash F Vest・Blue,背心【Ｆ】灰・青
+7341,Ash FZ Vest・Blue,背心【ＦＺ】灰・青
+7342,Ash HS Vest・Blue,背心【ＨＳ】灰・青
+7343,Ash GS Vest・Blue,背心【ＧＳ】灰・青
+7344,Ash GP Vest・Blue,背心【ＧＰ】灰・青
+7345,Ash Suit・Blue,套裝灰・青
+7346,Ash F Suit・Blue,套裝【Ｆ】灰・青
+7347,Ash FZ Suit・Blue,套裝【ＦＺ】灰・青
+7348,Ash HS Suit・Blue,套裝【ＨＳ】灰・青
+7349,Ash GS Suit・Blue,套裝【ＧＳ】灰・青
+7350,Ash GP Suit・Blue,套裝【ＧＰ】灰・青
+7351,Ash Vest・White,背心灰・白
+7352,Ash F Vest・White,背心【Ｆ】灰・白
+7353,Ash FZ Vest・White,背心【ＦＺ】灰・白
+7354,Ash HS Vest・White,背心【ＨＳ】灰・白
+7355,Ash GS Vest・White,背心【ＧＳ】灰・白
+7356,Ash GP Vest・White,背心【ＧＰ】灰・白
+7357,Ash Suit・White,套裝灰・白
+7358,Ash F Suit・White,套裝【Ｆ】灰・白
+7359,Ash FZ Suit・White,套裝【ＦＺ】灰・白
+7360,Ash HS Suit・White,套裝【ＨＳ】灰・白
+7361,Ash GS Suit・White,套裝【ＧＳ】灰・白
+7362,Ash GP Suit・White,套裝【ＧＰ】灰・白
+7363,Ash Vest・Black,背心灰・黑
+7364,Ash F Vest・Black,背心【Ｆ】灰・黑
+7365,Ash FZ Vest・Black,背心【ＦＺ】灰・黑
+7366,Ash HS Vest・Black,背心【ＨＳ】灰・黑
+7367,Ash GS Vest・Black,背心【ＧＳ】灰・黑
+7368,Ash GP Vest・Black,背心【ＧＰ】灰・黑
+7369,Ash Suit・Black,套裝灰・黑
+7370,Ash F Suit・Black,套裝【Ｆ】灰・黑
+7371,Ash FZ Suit・Black,套裝【ＦＺ】灰・黑
+7372,Ash HS Suit・Black,套裝【ＨＳ】灰・黑
+7373,Ash GS Suit・Black,套裝【ＧＳ】灰・黑
+7374,Ash GP Suit・Black,套裝【ＧＰ】灰・黑
 7375,Pistis GP Vest,普伊斯伊背心【ＧＰ】
 7376,Pistis GP Suit,普伊斯伊套裝【ＧＰ】
 7377,Blink HS Suit,布伊恩套裝【ＨＳ】
@@ -7798,12 +7798,12 @@ index,source,target
 7796,Empress G Vest,女帝背心【Ｇ】
 7797,Empress GF Vest,女帝背心【ＧＦ】
 7798,Empress GX Vest,女帝背心【ＧＸ】
-7799,Genesis G【胴当て】,創世鎧甲【Ｇ】
-7800,Genesis GF【胴当て】,創世鎧甲【ＧＦ】
-7801,Genesis GX【胴当て】,創世鎧甲【ＧＸ】
-7802,Motion G【胴当て】,律動鎧甲【Ｇ】
-7803,Motion GF【胴当て】,律動鎧甲【ＧＦ】
-7804,Motion GX【胴当て】,律動鎧甲【ＧＸ】
+7799,Genesis G【胴当て】,創世胴當【Ｇ】
+7800,Genesis GF【胴当て】,創世胴當【ＧＦ】
+7801,Genesis GX【胴当て】,創世胴當【ＧＸ】
+7802,Motion G【胴当て】,律動胴當【Ｇ】
+7803,Motion GF【胴当て】,律動胴當【ＧＦ】
+7804,Motion GX【胴当て】,律動胴當【ＧＸ】
 7805,Pobo Mail,普歐布歐鎧甲
 7806,Pobo F Mail,普歐布歐鎧甲【Ｆ】
 7807,Pobo FX Mail,普歐布歐鎧甲【ＦＸ】
@@ -8195,9 +8195,9 @@ index,source,target
 8193,Noir G Jacket,黑夾克【Ｇ】
 8194,Noir GF Jacket,黑夾克【ＧＦ】
 8195,Noir GX Jacket,黑夾克【ＧＸ】
-8196,Demon Lord ノ肩鎧G,惡魔鎧甲【Ｇ】
-8197,Demon Lord ノ肩鎧GF,惡魔鎧甲【Ｆ】
-8198,Demon Lord ノ肩鎧GX,惡魔鎧甲【ＧＸ】
+8196,Demon Lord ノ肩鎧G,魔王鎧甲【Ｇ】
+8197,Demon Lord ノ肩鎧GF,魔王鎧甲【Ｆ】
+8198,Demon Lord ノ肩鎧GX,魔王鎧甲【ＧＸ】
 8199,童子ノ肩鎧G,童子肩鎧鎧甲【Ｇ】
 8200,童子ノ肩鎧GF,童子肩鎧鎧甲【Ｆ】
 8201,童子ノ肩鎧GX,童子肩鎧鎧甲【ＧＸ】
@@ -8315,12 +8315,12 @@ index,source,target
 8313,Bonito G Vest,布歐恩伊背心【Ｇ】
 8314,Bonito GF Vest,布歐恩伊背心【ＧＦ】
 8315,Bonito GX Vest,布歐恩伊背心【ＧＸ】
-8316,Silver Ruler G【胴当て】,爾烏爾艾鎧甲【Ｇ】
-8317,Silver Ruler GF【胴当て】,爾烏爾艾鎧甲【ＧＦ】
-8318,Silver Ruler GX【胴当て】,爾烏爾艾鎧甲【ＧＸ】
-8319,Silver Control G【胴当て】,克歐恩歐鎧甲【Ｇ】
-8320,Silver Control GF【胴当て】,克歐恩歐鎧甲【ＧＦ】
-8321,Silver Control GX【胴当て】,克歐恩歐鎧甲【ＧＸ】
+8316,Silver Ruler G【胴当て】,銀統治胴當【Ｇ】
+8317,Silver Ruler GF【胴当て】,銀統治胴當【ＧＦ】
+8318,Silver Ruler GX【胴当て】,銀統治胴當【ＧＸ】
+8319,Silver Control G【胴当て】,銀統御胴當【Ｇ】
+8320,Silver Control GF【胴当て】,銀統御胴當【ＧＦ】
+8321,Silver Control GX【胴当て】,銀統御胴當【ＧＸ】
 8322,Harudo Mail,司銀龍鎧甲
 8323,Harudo F Mail,司銀龍鎧甲【Ｆ】
 8324,Harudo FX Mail,司銀龍鎧甲【ＦＸ】
@@ -8563,48 +8563,48 @@ index,source,target
 8561,AB Layer HS BM Chest Red,層甲胸甲【ＨＳ】・赤
 8562,AB Layer GS BM Chest Red,層甲胸甲【ＧＳ】・赤
 8563,AB Layer GP BM Chest Red,層甲胸甲【ＧＰ】・赤
-8564,AB Layer 胴: Bow Red,胴:鎧甲・赤
-8565,AB Layer F胴: Bow Red,胴:鎧甲・赤
-8566,AB Layer FZ胴: Bow Red,胴:鎧甲・赤
-8567,AB Layer HS胴: Bow Red,胴:鎧甲・赤
-8568,AB Layer GS胴: Bow Red,胴:鎧甲・赤
-8569,AB Layer GP胴: Bow Red,胴:鎧甲・赤
+8564,AB Layer 胴: Bow Red,層甲鎧甲・赤
+8565,AB Layer F胴: Bow Red,層甲鎧甲・赤
+8566,AB Layer FZ胴: Bow Red,層甲鎧甲・赤
+8567,AB Layer HS胴: Bow Red,層甲鎧甲・赤
+8568,AB Layer GS胴: Bow Red,層甲鎧甲・赤
+8569,AB Layer GP胴: Bow Red,層甲鎧甲・赤
 8570,AB Layer BM Chest Blue,層甲胸甲・青
 8571,AB Layer F BM Chest Blue,層甲胸甲【Ｆ】・青
 8572,AB Layer FZ BM Chest Blue,層甲胸甲【ＦＺ】・青
 8573,AB Layer HS BM Chest Blue,層甲胸甲【ＨＳ】・青
 8574,AB Layer GS BM Chest Blue,層甲胸甲【ＧＳ】・青
 8575,AB Layer GP BM Chest Blue,層甲胸甲【ＧＰ】・青
-8576,AB Layer 胴: Bow Blue,胴:鎧甲・青
-8577,AB Layer F胴: Bow Blue,胴:鎧甲・青
-8578,AB Layer FZ胴: Bow Blue,胴:鎧甲・青
-8579,AB Layer HS胴: Bow Blue,胴:鎧甲・青
-8580,AB Layer GS胴: Bow Blue,胴:鎧甲・青
-8581,AB Layer GP胴: Bow Blue,胴:鎧甲・青
+8576,AB Layer 胴: Bow Blue,層甲鎧甲・青
+8577,AB Layer F胴: Bow Blue,層甲鎧甲・青
+8578,AB Layer FZ胴: Bow Blue,層甲鎧甲・青
+8579,AB Layer HS胴: Bow Blue,層甲鎧甲・青
+8580,AB Layer GS胴: Bow Blue,層甲鎧甲・青
+8581,AB Layer GP胴: Bow Blue,層甲鎧甲・青
 8582,AB Layer BM Chest Black,層甲胸甲・黑
 8583,AB Layer F BM Chest Black,層甲胸甲【Ｆ】・黑
 8584,AB Layer FZ BM Chest Black,層甲胸甲【ＦＺ】・黑
 8585,AB Layer HS BM Chest Black,層甲胸甲【ＨＳ】・黑
 8586,AB Layer GS BM Chest Black,層甲胸甲【ＧＳ】・黑
 8587,AB Layer GP BM Chest Black,層甲胸甲【ＧＰ】・黑
-8588,AB Layer 胴: Bow Black,胴:鎧甲・黑
-8589,AB Layer F胴: Bow Black,胴:鎧甲・黑
-8590,AB Layer FZ胴: Bow Black,胴:鎧甲・黑
-8591,AB Layer HS胴: Bow Black,胴:鎧甲・黑
-8592,AB Layer GS胴: Bow Black,胴:鎧甲・黑
-8593,AB Layer GP胴: Bow Black,胴:鎧甲・黑
+8588,AB Layer 胴: Bow Black,層甲鎧甲・黑
+8589,AB Layer F胴: Bow Black,層甲鎧甲・黑
+8590,AB Layer FZ胴: Bow Black,層甲鎧甲・黑
+8591,AB Layer HS胴: Bow Black,層甲鎧甲・黑
+8592,AB Layer GS胴: Bow Black,層甲鎧甲・黑
+8593,AB Layer GP胴: Bow Black,層甲鎧甲・黑
 8594,AB Layer BM Chest White,層甲胸甲・白
 8595,AB Layer F BM Chest White,層甲胸甲【Ｆ】・白
 8596,AB Layer FZ BM Chest White,層甲胸甲【ＦＺ】・白
 8597,AB Layer HS BM Chest White,層甲胸甲【ＨＳ】・白
 8598,AB Layer GS BM Chest White,層甲胸甲【ＧＳ】・白
 8599,AB Layer GP BM Chest White,層甲胸甲【ＧＰ】・白
-8600,AB Layer 胴: Bow White,胴:鎧甲・白
-8601,AB Layer F胴: Bow White,胴:鎧甲・白
-8602,AB Layer FZ胴: Bow White,胴:鎧甲・白
-8603,AB Layer HS胴: Bow White,胴:鎧甲・白
-8604,AB Layer GS胴: Bow White,胴:鎧甲・白
-8605,AB Layer GP胴: Bow White,胴:鎧甲・白
+8600,AB Layer 胴: Bow White,層甲鎧甲・白
+8601,AB Layer F胴: Bow White,層甲鎧甲・白
+8602,AB Layer FZ胴: Bow White,層甲鎧甲・白
+8603,AB Layer HS胴: Bow White,層甲鎧甲・白
+8604,AB Layer GS胴: Bow White,層甲鎧甲・白
+8605,AB Layer GP胴: Bow White,層甲鎧甲・白
 8606,Bronte Vest,布歐恩艾背心
 8607,Bronte F Vest,布歐恩艾背心【Ｆ】
 8608,Bronte FZ Vest,布歐恩艾背心【ＦＺ】
@@ -8645,21 +8645,21 @@ index,source,target
 8643,Magos GP Suit・Yellow,瑪戈斯套裝【ＧＰ】・黄
 8644,Magos GP Mail・Red,瑪戈斯鎧甲【ＧＰ】・赤
 8645,Magos GP Suit・Red,瑪戈斯套裝【ＧＰ】・赤
-8646,Magos GP Mail・Water,瑪戈斯水鎧甲【ＧＰ】
-8647,Magos GP Suit・Water,瑪戈斯水套裝【ＧＰ】
+8646,Magos GP Mail・Water,瑪戈斯鎧甲【ＧＰ】・水
+8647,Magos GP Suit・Water,瑪戈斯套裝【ＧＰ】・水
 8648,Magos GP Mail・Blue,瑪戈斯鎧甲【ＧＰ】・青
 8649,Magos GP Suit・Blue,瑪戈斯套裝【ＧＰ】・青
-8650,Yukumo ノドウギ・Heaven,結雲天鎧甲・天
-8651,Yukumo ノドウギG・Heaven,結雲天鎧甲【Ｇ】・天
-8652,Yukumo ノドウギGF・Heaven,結雲天鎧甲【Ｆ】・天
-8653,Yukumo ノドウギGX・Heaven,結雲天鎧甲【ＧＸ】・天
+8650,Yukumo ノドウギ・Heaven,結雲天鎧甲
+8651,Yukumo ノドウギG・Heaven,結雲天鎧甲【Ｇ】
+8652,Yukumo ノドウギGF・Heaven,結雲天鎧甲【Ｆ】
+8653,Yukumo ノドウギGX・Heaven,結雲天鎧甲【ＧＸ】
 8654,Furogada G Mail,芙烏爾歐鎧甲【Ｇ】
 8655,Furogada GF Mail,芙烏爾歐鎧甲【ＧＦ】
 8656,Furogada GX Mail,芙烏爾歐鎧甲【ＧＸ】
-8657,Yukumo ノドウギ・Earth,地鎧甲・地
-8658,Yukumo ノドウギG・Earth,地鎧甲【Ｇ】・地
-8659,Yukumo ノドウギGF・Earth,地鎧甲【Ｆ】・地
-8660,Yukumo ノドウギGX・Earth,地鎧甲【ＧＸ】・地
+8657,Yukumo ノドウギ・Earth,結雲地鎧甲
+8658,Yukumo ノドウギG・Earth,結雲地鎧甲【Ｇ】
+8659,Yukumo ノドウギGF・Earth,結雲地鎧甲【Ｆ】
+8660,Yukumo ノドウギGX・Earth,結雲地鎧甲【ＧＸ】
 8661,Furogada G Vest,芙烏爾歐背心【Ｇ】
 8662,Furogada GF Vest,芙烏爾歐背心【ＧＦ】
 8663,Furogada GX Vest,芙烏爾歐背心【ＧＸ】
@@ -8831,8 +8831,8 @@ index,source,target
 8829,Pics GP Suit・Purple,皮克斯套裝【ＧＰ】・紫
 8830,Pics GP Vest・Black,皮克斯背心【ＧＰ】・黑
 8831,Pics GP Suit・Black,皮克斯套裝【ＧＰ】・黑
-8832,Pics GP Vest・Water,皮克斯水背心【ＧＰ】
-8833,Pics GP Suit・Water,皮克斯水套裝【ＧＰ】
+8832,Pics GP Vest・Water,皮克斯背心【ＧＰ】・水
+8833,Pics GP Suit・Water,皮克斯套裝【ＧＰ】・水
 8834,ダミー,(dummy)
 8835,ダミー,(dummy)
 8836,ファミ通TシャツHS,芙米鎧甲【ＨＳ】
@@ -8851,12 +8851,12 @@ index,source,target
 8849,Gasura G Vest,怒貌龍背心【Ｇ】
 8850,Gasura GF Vest,怒貌龍背心【ＧＦ】
 8851,Gasura GX Vest,怒貌龍背心【ＧＸ】
-8852,Wrath G【胴当て】,沃阿斯鎧甲【Ｇ】
-8853,Wrath GF【胴当て】,沃阿斯鎧甲【ＧＦ】
-8854,Wrath GX【胴当て】,沃阿斯鎧甲【ＧＸ】
-8855,Anger G【胴当て】,憤怒鎧甲【Ｇ】
-8856,Anger GF【胴当て】,憤怒鎧甲【ＧＦ】
-8857,Anger GX【胴当て】,憤怒鎧甲【ＧＸ】
+8852,Wrath G【胴当て】,沃阿斯胴當【Ｇ】
+8853,Wrath GF【胴当て】,沃阿斯胴當【ＧＦ】
+8854,Wrath GX【胴当て】,沃阿斯胴當【ＧＸ】
+8855,Anger G【胴当て】,憤怒胴當【Ｇ】
+8856,Anger GF【胴当て】,憤怒胴當【ＧＦ】
+8857,Anger GX【胴当て】,憤怒胴當【ＧＸ】
 8858,Abi G Mail,獰龍鎧甲【Ｇ】
 8859,Abi GF Mail,獰龍鎧甲【ＧＦ】
 8860,Abi GX Mail,獰龍鎧甲【ＧＸ】
@@ -9147,36 +9147,36 @@ index,source,target
 9145,Once G Vest,一度背心【Ｇ】
 9146,Once GF Vest,一度背心【ＧＦ】
 9147,Once GX Vest,一度背心【ＧＸ】
-9148,Kurai 【胴当て】,暗鎧甲
-9149,Kurai F【胴当て】,暗鎧甲【Ｆ】
-9150,Kurai FX【胴当て】,暗鎧甲【ＦＸ】
-9151,Kurai G【胴当て】,暗鎧甲【Ｇ】
-9152,Kurai GF【胴当て】,暗鎧甲【ＧＦ】
-9153,Kurai GX【胴当て】,暗鎧甲【ＧＸ】
-9154,Kurai 【胴当て】,暗鎧甲
-9155,Kurai F【胴当て】,暗鎧甲【Ｆ】
-9156,Kurai FX【胴当て】,暗鎧甲【ＦＸ】
-9157,Kurai G【胴当て】,暗鎧甲【Ｇ】
-9158,Kurai GF【胴当て】,暗鎧甲【ＧＦ】
-9159,Kurai GX【胴当て】,暗鎧甲【ＧＸ】
+9148,Kurai 【胴当て】,暗胴當
+9149,Kurai F【胴当て】,暗胴當【Ｆ】
+9150,Kurai FX【胴当て】,暗胴當【ＦＸ】
+9151,Kurai G【胴当て】,暗胴當【Ｇ】
+9152,Kurai GF【胴当て】,暗胴當【ＧＦ】
+9153,Kurai GX【胴当て】,暗胴當【ＧＸ】
+9154,Kurai 【胴当て】,暗胴當
+9155,Kurai F【胴当て】,暗胴當【Ｆ】
+9156,Kurai FX【胴当て】,暗胴當【ＦＸ】
+9157,Kurai G【胴当て】,暗胴當【Ｇ】
+9158,Kurai GF【胴当て】,暗胴當【ＧＦ】
+9159,Kurai GX【胴当て】,暗胴當【ＧＸ】
 9160,Monodevil G Mail,單眼惡魔鎧甲【Ｇ】
 9161,Monodevil GF Mail,單眼惡魔鎧甲【ＧＦ】
 9162,Monodevil GX Mail,單眼惡魔鎧甲【ＧＸ】
 9163,Monodevil G Vest,單眼惡魔背心【Ｇ】
 9164,Monodevil GF Vest,單眼惡魔背心【ＧＦ】
 9165,Monodevil GX Vest,單眼惡魔背心【ＧＸ】
-9166,Black Diablos G Mail,角龍鎧甲【Ｇ】・黑
-9167,Black Diablos GF Mail,角龍鎧甲【ＧＦ】・黑
-9168,Black Diablos GX Mail,角龍鎧甲【ＧＸ】・黑
-9169,Black Diablos G Vest,角龍背心【Ｇ】・黑
-9170,Black Diablos GF Vest,角龍背心【ＧＦ】・黑
-9171,Black Diablos GX Vest,角龍背心【ＧＸ】・黑
+9166,Black Diablos G Mail,黑角龍鎧甲【Ｇ】
+9167,Black Diablos GF Mail,黑角龍鎧甲【ＧＦ】
+9168,Black Diablos GX Mail,黑角龍鎧甲【ＧＸ】
+9169,Black Diablos G Vest,黑角龍背心【Ｇ】
+9170,Black Diablos GF Vest,黑角龍背心【ＧＦ】
+9171,Black Diablos GX Vest,黑角龍背心【ＧＸ】
 9172,Wadatsumi GX [Chestplate 】,綿津見胸甲【ＧＸ】
 9173,Okami GX [Chestplate 】,狼胸甲【ＧＸ】
 9174,Odiva GX Mail,奧蒂瓦鎧甲【ＧＸ】
 9175,Odiva GX Vest,奧蒂瓦背心【ＧＸ】
-9176,Elegance GX【胴当て】,雅鎧甲【ＧＸ】
-9177,Grace GX【胴当て】,恩寵鎧甲【ＧＸ】
+9176,Elegance GX【胴当て】,雅胴當【ＧＸ】
+9177,Grace GX【胴当て】,恩寵胴當【ＧＸ】
 9178,Vangis Mail,芙阿恩伊鎧甲
 9179,Vangis G Mail,芙阿恩伊鎧甲【Ｇ】
 9180,Vangis GF Mail,芙阿恩伊鎧甲【ＧＦ】
@@ -9217,12 +9217,12 @@ index,source,target
 9215,Torid G Vest,鳥背心【Ｇ】
 9216,Torid GF Vest,鳥背心【ＧＦ】
 9217,Torid GX Vest,鳥背心【ＧＸ】
-9218,Lightning G【胴当て】,雷光鎧甲【Ｇ】
-9219,Lightning GF【胴当て】,雷光鎧甲【ＧＦ】
-9220,Lightning GX【胴当て】,雷光鎧甲【ＧＸ】
-9221,Thunder G【胴当て】,雷鎧甲【Ｇ】
-9222,Thunder GF【胴当て】,雷鎧甲【ＧＦ】
-9223,Thunder GX【胴当て】,雷鎧甲【ＧＸ】
+9218,Lightning G【胴当て】,雷光胴當【Ｇ】
+9219,Lightning GF【胴当て】,雷光胴當【ＧＦ】
+9220,Lightning GX【胴当て】,雷光胴當【ＧＸ】
+9221,Thunder G【胴当て】,雷胴當【Ｇ】
+9222,Thunder GF【胴当て】,雷胴當【ＧＦ】
+9223,Thunder GX【胴当て】,雷胴當【ＧＸ】
 9224,B.Espinas G Muscle,棘茶龍筋肉衣【Ｇ】
 9225,B.Espinas GF Muscle,棘茶龍筋肉衣【ＧＦ】
 9226,B.Espinas GX Muscle,棘茶龍筋肉衣【ＧＸ】
@@ -9257,12 +9257,12 @@ index,source,target
 9255,Raviente G Vest,大巖龍背心【Ｇ】
 9256,Raviente GF Vest,大巖龍背心【ＧＦ】
 9257,Raviente GX Vest,大巖龍背心【ＧＸ】
-9258,White Hypnoc G Mail,眠鳥鎧甲【Ｇ】・白
-9259,White Hypnoc GF Mail,眠鳥鎧甲【ＧＦ】・白
-9260,White Hypnoc GX Mail,眠鳥鎧甲【ＧＸ】・白
-9261,White Hypnoc G Vest,眠鳥背心【Ｇ】・白
-9262,White Hypnoc GF Vest,眠鳥背心【ＧＦ】・白
-9263,White Hypnoc GX Vest,眠鳥背心【ＧＸ】・白
+9258,White Hypnoc G Mail,白眠鳥鎧甲【Ｇ】
+9259,White Hypnoc GF Mail,白眠鳥鎧甲【ＧＦ】
+9260,White Hypnoc GX Mail,白眠鳥鎧甲【ＧＸ】
+9261,White Hypnoc G Vest,白眠鳥背心【Ｇ】
+9262,White Hypnoc GF Vest,白眠鳥背心【ＧＦ】
+9263,White Hypnoc GX Vest,白眠鳥背心【ＧＸ】
 9264,Vichi Mail,維奇鎧甲
 9265,Vichi F Mail,維奇鎧甲【Ｆ】
 9266,Vichi FZ Mail,維奇鎧甲【ＦＺ】
@@ -9364,13 +9364,13 @@ index,source,target
 9362,Plug GS Vest:02,插頭背心【ＧＳ】
 9363,Plug GP Vest:02,插頭背心【ＧＰ】
 9364,Mark.06 Suit,馬克06套裝
-9365,Mark.06F Suit,套裝
+9365,Mark.06F Suit,馬克06套裝
 9366,Mark.06FZ Suit,馬克06套裝【ＦＺ】
 9367,Mark.06HS Suit,馬克06套裝【ＨＳ】
 9368,Mark.06GS Suit,馬克06套裝【ＧＳ】
 9369,Mark.06GP Suit,馬克06套裝【ＧＰ】
 9370,Mark.06 Vest,馬克06背心
-9371,Mark.06F Vest,背心
+9371,Mark.06F Vest,馬克06背心
 9372,Mark.06FZ Vest,馬克06背心【ＦＺ】
 9373,Mark.06HS Vest,馬克06背心【ＨＳ】
 9374,Mark.06GS Vest,馬克06背心【ＧＳ】
@@ -9560,12 +9560,12 @@ index,source,target
 9558,Blue Kut Ku G Vest,克烏特烏背心【Ｇ】・青
 9559,Blue Kut Ku GF Vest,克烏特烏背心【ＧＦ】・青
 9560,Blue Kut Ku GX Vest,克烏特烏背心【ＧＸ】・青
-9561,Dreadrock G【胴当て】,恐岩鎧甲【Ｇ】
-9562,Dreadrock GF【胴当て】,恐岩鎧甲【ＧＦ】
-9563,Dreadrock GX【胴当て】,恐岩鎧甲【ＧＸ】
-9564,Redrock G【胴当て】,赤岩鎧甲【Ｇ】
-9565,Redrock GF【胴当て】,赤岩鎧甲【ＧＦ】
-9566,Redrock GX【胴当て】,赤岩鎧甲【ＧＸ】
+9561,Dreadrock G【胴当て】,恐岩胴當【Ｇ】
+9562,Dreadrock GF【胴当て】,恐岩胴當【ＧＦ】
+9563,Dreadrock GX【胴当て】,恐岩胴當【ＧＸ】
+9564,Redrock G【胴当て】,赤岩胴當【Ｇ】
+9565,Redrock GF【胴当て】,赤岩胴當【ＧＦ】
+9566,Redrock GX【胴当て】,赤岩胴當【ＧＸ】
 9567,Cielo Mail,天空鎧甲
 9568,Cielo F Mail,天空鎧甲【Ｆ】
 9569,Cielo FZ Mail,天空鎧甲【ＦＺ】
@@ -9682,12 +9682,12 @@ index,source,target
 9680,Guan G Vest,關背心【Ｇ】
 9681,Guan GF Vest,關背心【ＧＦ】
 9682,Guan GX Vest,關背心【ＧＸ】
-9683,Conqueror G【胴当て】,征服鎧甲【Ｇ】
-9684,Conqueror GF【胴当て】,征服鎧甲【ＧＦ】
-9685,Conqueror GX【胴当て】,征服鎧甲【ＧＸ】
-9686,Emperor G【胴当て】,帝王鎧甲【Ｇ】
-9687,Emperor GF【胴当て】,帝王鎧甲【ＧＦ】
-9688,Emperor GX【胴当て】,帝王鎧甲【ＧＸ】
+9683,Conqueror G【胴当て】,征服胴當【Ｇ】
+9684,Conqueror GF【胴当て】,征服胴當【ＧＦ】
+9685,Conqueror GX【胴当て】,征服胴當【ＧＸ】
+9686,Emperor G【胴当て】,帝王胴當【Ｇ】
+9687,Emperor GF【胴当て】,帝王胴當【ＧＦ】
+9688,Emperor GX【胴当て】,帝王胴當【ＧＸ】
 9689,Kushala G Diru,鋼龍上衣【Ｇ】
 9690,Kushala GF Diru,鋼龍上衣【ＧＦ】
 9691,Kushala GX Diru,鋼龍上衣【ＧＸ】
@@ -9818,9 +9818,9 @@ index,source,target
 9816,スフレHS Suit,斯芙雷套裝【ＨＳ】
 9817,スフレGS Suit,斯芙雷套裝【ＧＳ】
 9818,スフレGP Suit,斯芙雷套裝【ＧＰ】
-9819,Demon Tale ノ肩鎧G,惡魔鎧甲【Ｇ】
-9820,Demon Tale ノ肩鎧GF,惡魔鎧甲【Ｆ】
-9821,Demon Tale ノ肩鎧GX,惡魔鎧甲【ＧＸ】
+9819,Demon Tale ノ肩鎧G,魔譚鎧甲【Ｇ】
+9820,Demon Tale ノ肩鎧GF,魔譚鎧甲【Ｆ】
+9821,Demon Tale ノ肩鎧GX,魔譚鎧甲【ＧＸ】
 9822,童伝ノ肩鎧G,童伝肩鎧鎧甲
 9823,童伝ノ肩鎧GF,童伝肩鎧鎧甲【Ｆ】
 9824,童伝ノ肩鎧GX,童伝肩鎧鎧甲
@@ -10110,42 +10110,42 @@ index,source,target
 10108,Wasou Chestplate HS,和裝胸甲【ＨＳ】
 10109,Wasou Chestplate GS,和裝胸甲【ＧＳ】
 10110,Wasou Chestplate GP,和裝胸甲【ＧＰ】
-10111,Blue Ice Emperor Mail,冰帝鎧甲・青
-10112,Blue Ice Emperor F Mail,冰帝鎧甲【Ｆ】・青
-10113,Blue Ice Emperor FZ Mail,冰帝鎧甲【ＦＺ】・青
-10114,Blue Ice Emperor HS Mail,冰帝鎧甲【ＨＳ】・青
-10115,Blue Ice Emperor GS Mail,冰帝鎧甲【ＧＳ】・青
-10116,Blue Ice Emperor GP Mail,冰帝鎧甲【ＧＰ】・青
-10117,Blue Ice Emperor Vest,冰帝背心・青
-10118,Blue Ice Emperor F Vest,冰帝背心【Ｆ】・青
-10119,Blue Ice Emperor FZ Vest,冰帝背心【ＦＺ】・青
-10120,Blue Ice Emperor HS Vest,冰帝背心【ＨＳ】・青
-10121,Blue Ice Emperor GS Vest,冰帝背心【ＧＳ】・青
-10122,Blue Ice Emperor GP Vest,冰帝背心【ＧＰ】・青
-10123,White Ice Emperor Mail,冰帝鎧甲・白
-10124,White Ice Emperor F Mail,冰帝鎧甲【Ｆ】・白
-10125,White Ice Emperor FZ Mail,冰帝鎧甲【ＦＺ】・白
-10126,White Ice Emperor HS Mail,冰帝鎧甲【ＨＳ】・白
-10127,White Ice Emperor GS Mail,冰帝鎧甲【ＧＳ】・白
-10128,White Ice Emperor GP Mail,冰帝鎧甲【ＧＰ】・白
-10129,White Ice Emperor Vest,冰帝背心・白
-10130,White Ice Emperor F Vest,冰帝背心【Ｆ】・白
-10131,White Ice Emperor FZ Vest,冰帝背心【ＦＺ】・白
-10132,White Ice Emperor HS Vest,冰帝背心【ＨＳ】・白
-10133,White Ice Emperor GS Vest,冰帝背心【ＧＳ】・白
-10134,White Ice Emperor GP Vest,冰帝背心【ＧＰ】・白
-10135,Red Ice Emperor Mail,冰帝鎧甲・赤
-10136,Red Ice Emperor F Mail,冰帝鎧甲【Ｆ】・赤
-10137,Red Ice Emperor FZ Mail,冰帝鎧甲【ＦＺ】・赤
-10138,Red Ice Emperor HS Mail,冰帝鎧甲【ＨＳ】・赤
-10139,Red Ice Emperor GS Mail,冰帝鎧甲【ＧＳ】・赤
-10140,Red Ice Emperor GP Mail,冰帝鎧甲【ＧＰ】・赤
-10141,Red Ice Emperor Vest,冰帝背心・赤
-10142,Red Ice Emperor F Vest,冰帝背心【Ｆ】・赤
-10143,Red Ice Emperor FZ Vest,冰帝背心【ＦＺ】・赤
-10144,Red Ice Emperor HS Vest,冰帝背心【ＨＳ】・赤
-10145,Red Ice Emperor GS Vest,冰帝背心【ＧＳ】・赤
-10146,Red Ice Emperor GP Vest,冰帝背心【ＧＰ】・赤
+10111,Blue Ice Emperor Mail,青冰帝鎧甲
+10112,Blue Ice Emperor F Mail,青冰帝鎧甲【Ｆ】
+10113,Blue Ice Emperor FZ Mail,青冰帝鎧甲【ＦＺ】
+10114,Blue Ice Emperor HS Mail,青冰帝鎧甲【ＨＳ】
+10115,Blue Ice Emperor GS Mail,青冰帝鎧甲【ＧＳ】
+10116,Blue Ice Emperor GP Mail,青冰帝鎧甲【ＧＰ】
+10117,Blue Ice Emperor Vest,青冰帝背心
+10118,Blue Ice Emperor F Vest,青冰帝背心【Ｆ】
+10119,Blue Ice Emperor FZ Vest,青冰帝背心【ＦＺ】
+10120,Blue Ice Emperor HS Vest,青冰帝背心【ＨＳ】
+10121,Blue Ice Emperor GS Vest,青冰帝背心【ＧＳ】
+10122,Blue Ice Emperor GP Vest,青冰帝背心【ＧＰ】
+10123,White Ice Emperor Mail,白冰帝鎧甲
+10124,White Ice Emperor F Mail,白冰帝鎧甲【Ｆ】
+10125,White Ice Emperor FZ Mail,白冰帝鎧甲【ＦＺ】
+10126,White Ice Emperor HS Mail,白冰帝鎧甲【ＨＳ】
+10127,White Ice Emperor GS Mail,白冰帝鎧甲【ＧＳ】
+10128,White Ice Emperor GP Mail,白冰帝鎧甲【ＧＰ】
+10129,White Ice Emperor Vest,白冰帝背心
+10130,White Ice Emperor F Vest,白冰帝背心【Ｆ】
+10131,White Ice Emperor FZ Vest,白冰帝背心【ＦＺ】
+10132,White Ice Emperor HS Vest,白冰帝背心【ＨＳ】
+10133,White Ice Emperor GS Vest,白冰帝背心【ＧＳ】
+10134,White Ice Emperor GP Vest,白冰帝背心【ＧＰ】
+10135,Red Ice Emperor Mail,赤冰帝鎧甲
+10136,Red Ice Emperor F Mail,赤冰帝鎧甲【Ｆ】
+10137,Red Ice Emperor FZ Mail,赤冰帝鎧甲【ＦＺ】
+10138,Red Ice Emperor HS Mail,赤冰帝鎧甲【ＨＳ】
+10139,Red Ice Emperor GS Mail,赤冰帝鎧甲【ＧＳ】
+10140,Red Ice Emperor GP Mail,赤冰帝鎧甲【ＧＰ】
+10141,Red Ice Emperor Vest,赤冰帝背心
+10142,Red Ice Emperor F Vest,赤冰帝背心【Ｆ】
+10143,Red Ice Emperor FZ Vest,赤冰帝背心【ＦＺ】
+10144,Red Ice Emperor HS Vest,赤冰帝背心【ＨＳ】
+10145,Red Ice Emperor GS Vest,赤冰帝背心【ＧＳ】
+10146,Red Ice Emperor GP Vest,赤冰帝背心【ＧＰ】
 10147,Taruta Mail,特阿爾烏鎧甲
 10148,Taruta F Mail,特阿爾烏鎧甲【Ｆ】
 10149,Taruta FZ Mail,特阿爾烏鎧甲【ＦＺ】
@@ -10443,12 +10443,12 @@ index,source,target
 10441,Evol D Mail・Purple,艾芙歐爾鎧甲・紫
 10442,狩衛部隊 Mail・男,狩衛部隊男鎧甲
 10443,狩衛部隊 Mail・女,狩衛部隊女鎧甲
-10444,Blue Ice Emperor ZP Mail,冰帝鎧甲【ＺＰ】・青
-10445,Blue Ice Emperor ZP Vest,冰帝背心【ＺＰ】・青
-10446,White Ice Emperor ZP Mail,冰帝鎧甲【ＺＰ】・白
-10447,White Ice Emperor ZP Vest,冰帝背心【ＺＰ】・白
-10448,Red Ice Emperor ZP Mail,冰帝鎧甲【ＺＰ】・赤
-10449,Red Ice Emperor ZP Vest,冰帝背心【ＺＰ】・赤
+10444,Blue Ice Emperor ZP Mail,青冰帝鎧甲【ＺＰ】
+10445,Blue Ice Emperor ZP Vest,青冰帝背心【ＺＰ】
+10446,White Ice Emperor ZP Mail,白冰帝鎧甲【ＺＰ】
+10447,White Ice Emperor ZP Vest,白冰帝背心【ＺＰ】
+10448,Red Ice Emperor ZP Mail,赤冰帝鎧甲【ＺＰ】
+10449,Red Ice Emperor ZP Vest,赤冰帝背心【ＺＰ】
 10450,Wander Mail・Blue,流浪鎧甲・青
 10451,Wander F Mail・Blue,流浪鎧甲【Ｆ】・青
 10452,Wander FZ Mail・Blue,流浪鎧甲【ＦＺ】・青
@@ -10653,9 +10653,9 @@ index,source,target
 10651,Wander D Mail・Red,沃阿恩艾鎧甲・赤
 10652,Wander D Mail・White,沃阿恩艾鎧甲・白
 10653,Wander D Mail・Black,沃阿恩艾鎧甲・黑
-10654,Blue Ice Emperor D Mail,伊克艾斯鎧甲・青
-10655,White Ice Emperor D Mail,伊克艾斯鎧甲・白
-10656,Red Ice Emperor D Mail,伊克艾斯鎧甲・赤
+10654,Blue Ice Emperor D Mail,青冰帝鎧甲
+10655,White Ice Emperor D Mail,白冰帝鎧甲
+10656,Red Ice Emperor D Mail,赤冰帝鎧甲
 10657,Rance C Jacket,爾阿恩艾夾克
 10658,Santa D Vest,斯阿恩阿背心
 10659,Anteka D Vest,雪鹿背心
@@ -10694,10 +10694,10 @@ index,source,target
 10692,Farunokku D Vest,芙阿爾烏背心
 10693,Pokara D Mail,普歐克阿鎧甲
 10694,Pokara D Vest,普歐克阿背心
-10695,Genesis D【胴当て】,創世鎧甲
-10696,Motion D【胴当て】,律動鎧甲
-10697,Lightning D【胴当て】,雷光鎧甲
-10698,Thunder D【胴当て】,雷鎧甲
+10695,Genesis D【胴当て】,格艾恩艾胴當
+10696,Motion D【胴当て】,姆歐特伊胴當
+10697,Lightning D【胴当て】,雷光胴當
+10698,Thunder D【胴当て】,雷胴當
 10699,Toridcless D Mail,特歐爾伊鎧甲
 10700,Toridcless D Vest,特歐爾伊背心
 10701,Guan D Mail,格烏恩鎧甲
@@ -10709,8 +10709,8 @@ index,source,target
 10707,Blitz D Vest,布伊特背心
 10708,Stroma D Mail,斯歐姆阿鎧甲
 10709,Stroma D Vest,斯歐姆阿背心
-10710,Inagami D【胴当て】,雅翁龍鎧甲
-10711,Inagami D【胴当て】,雅翁龍鎧甲
+10710,Inagami D【胴当て】,雅翁龍胴當
+10711,Inagami D【胴当て】,雅翁龍胴當
 10712,Altera D Mail,阿爾艾爾鎧甲
 10713,Altera D Vest,阿爾艾爾背心
 10714,Pobo D Mail,普歐布歐鎧甲
@@ -10793,8 +10793,8 @@ index,source,target
 10791,Bistro D Vest,布伊斯歐背心
 10792,King Beetle D Thorax,克伊恩艾胸甲
 10793,Butterfly D Thorax,布烏特艾胸甲
-10794,Demon Lord ノ肩鎧D,惡魔鎧甲
-10795,Demon Tale ノ肩鎧D,惡魔鎧甲
+10794,Demon Lord ノ肩鎧D,魔王鎧甲
+10795,Demon Tale ノ肩鎧D,魔譚鎧甲
 10796,鬼凛ノ肩鎧D,鬼凛肩鎧鎧甲
 10797,Empress C Mail,女帝鎧甲
 10798,Empress C Vest,女帝背心
@@ -10804,8 +10804,8 @@ index,source,target
 10802,Dragon D Skin,龍皮
 10803,Nargacuga C Mail,恩阿爾阿鎧甲
 10804,Nargacuga C Vest,恩阿爾阿背心
-10805,Burning Cliff GX【胴当て】,崖鎧甲【ＧＸ】
-10806,Crimson Cliff GX【胴当て】,崖鎧甲【ＧＸ】
+10805,Burning Cliff GX【胴当て】,燃崖胴當【ＧＸ】
+10806,Crimson Cliff GX【胴当て】,深紅崖胴當【ＧＸ】
 10807,Vashimu Z Mail,尾晶蠍鎧甲【Ｚ】
 10808,Vashimu ZF Mail,尾晶蠍鎧甲【ＺＦ】
 10809,Vashimu ZY Mail,尾晶蠍鎧甲【ＺＹ】
@@ -10929,8 +10929,8 @@ index,source,target
 10927,Pashio GX Vest,普阿夏伊背心【ＧＸ】
 10928,Harudo D Mail,赫阿爾烏鎧甲
 10929,Harudo D Vest,赫阿爾烏背心
-10930,Elegance D【胴当て】,雅鎧甲
-10931,Grace D【胴当て】,恩寵鎧甲
+10930,Elegance D【胴当て】,艾爾艾格胴當
+10931,Grace D【胴当て】,格阿克艾胴當
 10932,Meraginasu D Mail,姆艾爾阿鎧甲
 10933,Meraginasu D Vest,姆艾爾阿背心
 10934,Hesyumu D Mail,赫艾斯烏鎧甲
@@ -10962,19 +10962,19 @@ index,source,target
 10960,Lucchese D Mail,爾烏克艾鎧甲
 10961,Entora D Mail,艾恩歐爾鎧甲
 10962,YoRHa No.9 Type S Vest,寄葉九號型背心【Ｓ】
-10963,YoRHa No.9 Type S F Vest,寄葉九號型背心【Ｓ】【Ｆ】
-10964,YoRHa No.9 Type S FZ Vest,寄葉九號型背心【Ｓ】【ＦＺ】
-10965,YoRHa No.9 Type S HS Vest,寄葉九號型背心【Ｓ】【ＨＳ】
-10966,YoRHa No.9 Type S GS Vest,寄葉九號型背心【Ｓ】【ＧＳ】
-10967,YoRHa No.9 Type S GP Vest,寄葉九號型背心【Ｓ】【ＧＰ】
-10968,YoRHa No.9 Type S ZP Vest,寄葉九號型背心【Ｓ】【ＺＰ】
+10963,YoRHa No.9 Type S F Vest,寄葉九號型背心【Ｆ】
+10964,YoRHa No.9 Type S FZ Vest,寄葉九號型背心【ＦＺ】
+10965,YoRHa No.9 Type S HS Vest,寄葉九號型背心【ＨＳ】
+10966,YoRHa No.9 Type S GS Vest,寄葉九號型背心【ＧＳ】
+10967,YoRHa No.9 Type S GP Vest,寄葉九號型背心【ＧＰ】
+10968,YoRHa No.9 Type S ZP Vest,寄葉九號型背心【ＺＰ】
 10969,YoRHa No.9 Type S Suit,寄葉九號型套裝【Ｓ】
-10970,YoRHa No.9 Type S F Suit,寄葉九號型套裝【Ｓ】【Ｆ】
-10971,YoRHa No.9 Type S FZ Suit,寄葉九號型套裝【Ｓ】【ＦＺ】
-10972,YoRHa No.9 Type S HS Suit,寄葉九號型套裝【Ｓ】【ＨＳ】
-10973,YoRHa No.9 Type S GS Suit,寄葉九號型套裝【Ｓ】【ＧＳ】
-10974,YoRHa No.9 Type S GP Suit,寄葉九號型套裝【Ｓ】【ＧＰ】
-10975,YoRHa No.9 Type S ZP Suit,寄葉九號型套裝【Ｓ】【ＺＰ】
+10970,YoRHa No.9 Type S F Suit,寄葉九號型套裝【Ｆ】
+10971,YoRHa No.9 Type S FZ Suit,寄葉九號型套裝【ＦＺ】
+10972,YoRHa No.9 Type S HS Suit,寄葉九號型套裝【ＨＳ】
+10973,YoRHa No.9 Type S GS Suit,寄葉九號型套裝【ＧＳ】
+10974,YoRHa No.9 Type S GP Suit,寄葉九號型套裝【ＧＰ】
+10975,YoRHa No.9 Type S ZP Suit,寄葉九號型套裝【ＺＰ】
 10976,YoRHa No.2 Type B Vest,寄葉二號Ｂ型背心
 10977,YoRHa No.2 Type B F Vest,寄葉二號Ｂ型背心【Ｆ】
 10978,YoRHa No.2 Type B FZ Vest,寄葉二號Ｂ型背心【ＦＺ】
@@ -11111,14 +11111,14 @@ index,source,target
 11109,Akahara Reisou GN Chest D Blue,阿克阿赫胸甲・青
 11110,Akahara Reisou GN Chest D Black,阿克阿赫胸甲・黑
 11111,Akahara Reisou GN Chest D White,阿克阿赫胸甲・白
-11112,Knight King Chest BM D Blue,克伊格伊胸甲・青
-11113,Knight King Chest BM D Red,克伊格伊胸甲・赤
-11114,Knight King Chest BM D Black,克伊格伊胸甲・黑
-11115,Knight King Chest BM D White,克伊格伊胸甲・白
-11116,Hero King Chest BM D Gold,赫艾爾歐胸甲・金
-11117,Hero King Chest BM D Black,赫艾爾歐胸甲・黑
-11118,Hero King Chest BM D White,赫艾爾歐胸甲・白
-11119,Hero King Chest BM D Red,赫艾爾歐胸甲・赤
+11112,Knight King Chest BM D Blue,騎士王胸甲・青
+11113,Knight King Chest BM D Red,騎士王胸甲・赤
+11114,Knight King Chest BM D Black,騎士王胸甲・黑
+11115,Knight King Chest BM D White,騎士王胸甲・白
+11116,Hero King Chest BM D Gold,英雄王胸甲・金
+11117,Hero King Chest BM D Black,英雄王胸甲・黑
+11118,Hero King Chest BM D White,英雄王胸甲・白
+11119,Hero King Chest BM D Red,英雄王胸甲・赤
 11120,Gorgon D Vest・Black,格歐爾歐背心・黑
 11121,Gorgon D Vest・Blue,格歐爾歐背心・青
 11122,Gorgon D Vest・White,格歐爾歐背心・白
@@ -11193,13 +11193,13 @@ index,source,target
 11191,Twin Star GS Suit,雙星套裝【ＧＳ】
 11192,Twin Star GP Suit,雙星套裝【ＧＰ】
 11193,Twin Star ZP Suit,雙星套裝【ＺＰ】
-11194,Heaven Blade Suit,天刃套裝・天
-11195,Heaven Blade F Suit,天刃套裝【Ｆ】・天
-11196,Heaven Blade FZ Suit,天刃套裝【ＦＺ】・天
-11197,Heaven Blade HS Suit,天刃套裝【ＨＳ】・天
-11198,Heaven Blade GS Suit,天刃套裝【ＧＳ】・天
-11199,Heaven Blade GP Suit,天刃套裝【ＧＰ】・天
-11200,Heaven Blade ZP Suit,天刃套裝【ＺＰ】・天
+11194,Heaven Blade Suit,天刃套裝
+11195,Heaven Blade F Suit,天刃套裝【Ｆ】
+11196,Heaven Blade FZ Suit,天刃套裝【ＦＺ】
+11197,Heaven Blade HS Suit,天刃套裝【ＨＳ】
+11198,Heaven Blade GS Suit,天刃套裝【ＧＳ】
+11199,Heaven Blade GP Suit,天刃套裝【ＧＰ】
+11200,Heaven Blade ZP Suit,天刃套裝【ＺＰ】
 11201,Spring Sword Suit,斯伊恩歐套裝
 11202,Spring Sword F Suit,斯伊恩歐套裝【Ｆ】
 11203,Spring Sword FZ Suit,斯伊恩歐套裝【ＦＺ】
@@ -11235,13 +11235,13 @@ index,source,target
 11233,Scream Lance GS Suit,斯艾姆阿套裝【ＧＳ】
 11234,Scream Lance GP Suit,斯艾姆阿套裝【ＧＰ】
 11235,Scream Lance ZP Suit,斯艾姆阿套裝【ＺＰ】
-11236,Piercing Light Suit,普伊爾伊套裝
-11237,Piercing Light F Suit,普伊爾伊套裝【Ｆ】
-11238,Piercing Light FZ Suit,普伊爾伊套裝【ＦＺ】
-11239,Piercing Light HS Suit,普伊爾伊套裝【ＨＳ】
-11240,Piercing Light GS Suit,普伊爾伊套裝【ＧＳ】
-11241,Piercing Light GP Suit,普伊爾伊套裝【ＧＰ】
-11242,Piercing Light ZP Suit,普伊爾伊套裝【ＺＰ】
+11236,Piercing Light Suit,貫光套裝
+11237,Piercing Light F Suit,貫光套裝【Ｆ】
+11238,Piercing Light FZ Suit,貫光套裝【ＦＺ】
+11239,Piercing Light HS Suit,貫光套裝【ＨＳ】
+11240,Piercing Light GS Suit,貫光套裝【ＧＳ】
+11241,Piercing Light GP Suit,貫光套裝【ＧＰ】
+11242,Piercing Light ZP Suit,貫光套裝【ＺＰ】
 11243,Colour Axe Suit,克歐爾歐套裝
 11244,Colour Axe F Suit,克歐爾歐套裝【Ｆ】
 11245,Colour Axe FZ Suit,克歐爾歐套裝【ＦＺ】
@@ -11263,13 +11263,13 @@ index,source,target
 11261,Crush Gun GS Vest,克烏夏烏背心【ＧＳ】
 11262,Crush Gun GP Vest,克烏夏烏背心【ＧＰ】
 11263,Crush Gun ZP Vest,克烏夏烏背心【ＺＰ】
-11264,Bow Saint Vest,布歐沃阿背心
-11265,Bow Saint F Vest,布歐沃阿背心【Ｆ】
-11266,Bow Saint FZ Vest,布歐沃阿背心【ＦＺ】
-11267,Bow Saint HS Vest,布歐沃阿背心【ＨＳ】
-11268,Bow Saint GS Vest,布歐沃阿背心【ＧＳ】
-11269,Bow Saint GP Vest,布歐沃阿背心【ＧＰ】
-11270,Bow Saint ZP Vest,布歐沃阿背心【ＺＰ】
+11264,Bow Saint Vest,斯阿恩背心
+11265,Bow Saint F Vest,斯阿恩背心【Ｆ】
+11266,Bow Saint FZ Vest,斯阿恩背心【ＦＺ】
+11267,Bow Saint HS Vest,斯阿恩背心【ＨＳ】
+11268,Bow Saint GS Vest,斯阿恩背心【ＧＳ】
+11269,Bow Saint GP Vest,斯阿恩背心【ＧＰ】
+11270,Bow Saint ZP Vest,斯阿恩背心【ＺＰ】
 11271,Rantana Suit,蘭塔納套裝
 11272,Rantana F Suit,蘭塔納套裝【Ｆ】
 11273,Rantana FZ Suit,蘭塔納套裝【ＦＺ】
@@ -11549,7 +11549,7 @@ index,source,target
 11547,Scholar C Suit,施歐爾阿套裝
 11548,Aelucanth C Thorax,阿爾烏克胸甲
 11549,Rhopessa C Thorax,爾歐普艾胸甲
-11550,Yukumo ノドウギC・Heaven,結雲天鎧甲・天
+11550,Yukumo ノドウギC・Heaven,結雲天鎧甲
 11551,White 蘭D Mail,蘭鎧甲・白
 11552,Crimson 霞D Mail,霞鎧甲・紅
 11553,Demonclad ノ肩鎧D,鬼纏鎧甲
@@ -11566,19 +11566,19 @@ index,source,target
 11564,Vulcan D Skin,火山皮
 11565,Vulcan GD Hide,火山皮衣
 11566,Vulcan GD Skin,火山皮
-11567,Garnet D Mail,格阿爾艾鎧甲
-11568,Amethyst D Mail,阿姆艾斯鎧甲
-11569,Coral D Mail,克歐爾阿鎧甲
-11570,Quartz D Mail,斯烏爾鎧甲
-11571,Emerald D Mail,艾姆艾爾鎧甲
-11572,Pearl D Mail,普艾爾鎧甲
-11573,Ruby D Mail,爾烏布鎧甲
-11574,Sapphire D Mail,斯阿普伊鎧甲
-11575,Topaz D Vest,特歐普阿背心
-11576,Tourmaline D Vest,特歐爾阿背心
-11577,Lapis D Vest,爾阿普伊背心
-11578,Hisui D Mail,赫伊斯烏鎧甲
-11579,Onyx D Mail,歐恩鎧甲
+11567,Garnet D Mail,石榴石鎧甲
+11568,Amethyst D Mail,紫水晶鎧甲
+11569,Coral D Mail,珊瑚鎧甲
+11570,Quartz D Mail,石英鎧甲
+11571,Emerald D Mail,祖母緑鎧甲
+11572,Pearl D Mail,珍珠鎧甲
+11573,Ruby D Mail,紅寶石鎧甲
+11574,Sapphire D Mail,藍寶石鎧甲
+11575,Topaz D Vest,黄玉背心
+11576,Tourmaline D Vest,電氣石背心
+11577,Lapis D Vest,青金石背心
+11578,Hisui D Mail,翡翠鎧甲
+11579,Onyx D Mail,縞瑪瑙鎧甲
 11580,Veloci ーツボディD,藍速龍鎧甲
 11581,Gen ーツボディD,源鎧甲
 11582,Io ーツボディD,伊歐鎧甲
@@ -11606,10 +11606,10 @@ index,source,target
 11604,Healer Vest PD Blue,治癒背心【ＰＤ】・青
 11605,Healer Vest PD White,治癒背心【ＰＤ】・白
 11606,Healer Vest PD Yellow,治癒背心【ＰＤ】・黄
-11607,Shourou 【殻胴】D,照楼上手
-11608,Mitama 【殻胴】D,御魂上手
-11609,Burning Cliff D【胴当て】,崖鎧甲
-11610,Crimson Cliff D【胴当て】,崖鎧甲
+11607,Shourou 【殻胴】D,夏歐爾歐上手
+11608,Mitama 【殻胴】D,姆伊特阿上手
+11609,Burning Cliff D【胴当て】,布烏爾伊胴當
+11610,Crimson Cliff D【胴当て】,深紅崖胴當
 11611,Ledia D Mail,爾艾德伊鎧甲
 11612,White Snake Haori D,白蛇羽織
 11613,Black Tiger Haori D,黑虎羽織
@@ -11618,7 +11618,7 @@ index,source,target
 11616,Blue Sky Haori D,蒼天羽織
 11617,Noon Glow Haori D,恩歐恩歐羽織
 11618,Kosho D [Haori 】,克歐夏歐羽織
-11619,True Shadow Haori D,特烏斯阿羽織
+11619,True Shadow Haori D,真影羽織
 11620,Furogada D Mail,芙烏爾歐鎧甲
 11621,Lars D Mail,爾阿爾鎧甲
 11622,Donru D Mail,德歐恩烏鎧甲
@@ -11649,10 +11649,10 @@ index,source,target
 11647,Tempest G【衣】,暴風雨鎧甲【Ｇ】
 11648,Tempest GF【衣】,暴風雨鎧甲【ＧＦ】
 11649,Tempest GX【衣】,暴風雨鎧甲【ＧＸ】
-11650,Welkin 【衣】,蒼穹鎧甲
-11651,Welkin G【衣】,蒼穹鎧甲【Ｇ】
-11652,Welkin GF【衣】,蒼穹鎧甲【ＧＦ】
-11653,Welkin GX【衣】,蒼穹鎧甲【ＧＸ】
+11650,Welkin 【衣】,穹蒼鎧甲
+11651,Welkin G【衣】,穹蒼鎧甲【Ｇ】
+11652,Welkin GF【衣】,穹蒼鎧甲【ＧＦ】
+11653,Welkin GX【衣】,穹蒼鎧甲【ＧＸ】
 11654,Levin Mail,雷霆鎧甲
 11655,Levin F Mail,雷霆鎧甲【Ｆ】
 11656,Levin FZ Mail,雷霆鎧甲【ＦＺ】
@@ -11667,20 +11667,20 @@ index,source,target
 11665,Levin GS Vest,雷霆背心【ＧＳ】
 11666,Levin GP Vest,雷霆背心【ＧＰ】
 11667,Levin ZP Vest,雷霆背心【ＺＰ】
-11668,Silver Armour・Body,甲冑胴・銀
-11669,Silver Armour F・Body,甲冑胴【Ｆ】・銀
-11670,Silver Armour FZ・Body,甲冑胴【ＦＺ】・銀
-11671,Silver Armour HS・Body,甲冑胴【ＨＳ】・銀
-11672,Silver Armour GS・Body,甲冑胴【ＧＳ】・銀
-11673,Silver Armour GP・Body,甲冑胴【ＧＰ】・銀
-11674,Silver Armour ZP・Body,甲冑胴【ＺＰ】・銀
-11675,Silver Armour・Chest,甲冑胸甲・銀
-11676,Silver Armour F・Chest,甲冑胸甲【Ｆ】・銀
-11677,Silver Armour FZ・Chest,甲冑胸甲【ＦＺ】・銀
-11678,Silver Armour HS・Chest,甲冑胸甲【ＨＳ】・銀
-11679,Silver Armour GS・Chest,甲冑胸甲【ＧＳ】・銀
-11680,Silver Armour GP・Chest,甲冑胸甲【ＧＰ】・銀
-11681,Silver Armour ZP・Chest,甲冑胸甲【ＺＰ】・銀
+11668,Silver Armour・Body,銀甲冑胴
+11669,Silver Armour F・Body,銀甲冑胴【Ｆ】
+11670,Silver Armour FZ・Body,銀甲冑胴【ＦＺ】
+11671,Silver Armour HS・Body,銀甲冑胴【ＨＳ】
+11672,Silver Armour GS・Body,銀甲冑胴【ＧＳ】
+11673,Silver Armour GP・Body,銀甲冑胴【ＧＰ】
+11674,Silver Armour ZP・Body,銀甲冑胴【ＺＰ】
+11675,Silver Armour・Chest,銀甲冑胸甲
+11676,Silver Armour F・Chest,銀甲冑胸甲【Ｆ】
+11677,Silver Armour FZ・Chest,銀甲冑胸甲【ＦＺ】
+11678,Silver Armour HS・Chest,銀甲冑胸甲【ＨＳ】
+11679,Silver Armour GS・Chest,銀甲冑胸甲【ＧＳ】
+11680,Silver Armour GP・Chest,銀甲冑胸甲【ＧＰ】
+11681,Silver Armour ZP・Chest,銀甲冑胸甲【ＺＰ】
 11682,Rose Ball Gown・Shozoku,薔薇禮服裝束
 11683,Rose Ball Gown F・Shozoku,薔薇禮服裝束【Ｆ】
 11684,Rose Ball Gown FZ・Shozoku,薔薇禮服裝束【ＦＺ】
@@ -11768,10 +11768,10 @@ index,source,target
 11766,Rizuvue GF Vest,爾伊茲烏背心【ＧＦ】
 11767,Rizuvue GX Vest,爾伊茲烏背心【ＧＸ】
 11768,Inagami ZD Vest,伊恩阿格背心
-11769,Tempest C【衣】,暴風雨鎧甲
-11770,Welkin C【衣】,蒼穹鎧甲
+11769,Tempest C【衣】,特艾姆艾鎧甲
+11770,Welkin C【衣】,沃艾爾伊鎧甲
 11771,Levin D Mail,爾艾芙伊鎧甲
-11772,Silver Armour D・Body,阿爾歐爾胴・銀
+11772,Silver Armour D・Body,銀甲冑胴
 11773,Rose Ball Gown D・Shozoku,爾歐斯艾裝束
 11774,Shui D Mail,夏烏斯鎧甲
 11775,CE Kevlar D BM Chest Blue,克艾斯艾胸甲・青
@@ -11940,20 +11940,20 @@ index,source,target
 11938,Holy Maiden Armor GS・Cloth,聖女鎧衣【ＧＳ】
 11939,Holy Maiden Armor GP・Cloth,聖女鎧衣【ＧＰ】
 11940,Holy Maiden Armor ZP・Cloth,聖女鎧衣【ＺＰ】
-11941,Dragon Slayer Armor・Body,龍鎧甲
-11942,Dragon Slayer Armor F・Body,龍鎧甲【Ｆ】
-11943,Dragon Slayer Armor FZ・Body,龍鎧甲【ＦＺ】
-11944,Dragon Slayer Armor HS・Body,龍鎧甲【ＨＳ】
-11945,Dragon Slayer Armor GS・Body,龍鎧甲【ＧＳ】
-11946,Dragon Slayer Armor GP・Body,龍鎧甲【ＧＰ】
-11947,Dragon Slayer Armor ZP・Body,龍鎧甲【ＺＰ】
-11948,Dragon Slayer Armor・Chest,龍鎧甲
-11949,Dragon Slayer Armor F・Chest,龍鎧甲【Ｆ】
-11950,Dragon Slayer Armor FZ・Chest,龍鎧甲【ＦＺ】
-11951,Dragon Slayer Armor HS・Chest,龍鎧甲【ＨＳ】
-11952,Dragon Slayer Armor GS・Chest,龍鎧甲【ＧＳ】
-11953,Dragon Slayer Armor GP・Chest,龍鎧甲【ＧＰ】
-11954,Dragon Slayer Armor ZP・Chest,龍鎧甲【ＺＰ】
+11941,Dragon Slayer Armor・Body,屠龍鎧甲
+11942,Dragon Slayer Armor F・Body,屠龍鎧甲【Ｆ】
+11943,Dragon Slayer Armor FZ・Body,屠龍鎧甲【ＦＺ】
+11944,Dragon Slayer Armor HS・Body,屠龍鎧甲【ＨＳ】
+11945,Dragon Slayer Armor GS・Body,屠龍鎧甲【ＧＳ】
+11946,Dragon Slayer Armor GP・Body,屠龍鎧甲【ＧＰ】
+11947,Dragon Slayer Armor ZP・Body,屠龍鎧甲【ＺＰ】
+11948,Dragon Slayer Armor・Chest,屠龍鎧甲
+11949,Dragon Slayer Armor F・Chest,屠龍鎧甲【Ｆ】
+11950,Dragon Slayer Armor FZ・Chest,屠龍鎧甲【ＦＺ】
+11951,Dragon Slayer Armor HS・Chest,屠龍鎧甲【ＨＳ】
+11952,Dragon Slayer Armor GS・Chest,屠龍鎧甲【ＧＳ】
+11953,Dragon Slayer Armor GP・Chest,屠龍鎧甲【ＧＰ】
+11954,Dragon Slayer Armor ZP・Chest,屠龍鎧甲【ＺＰ】
 11955,Rebellion Armour・Body,爾艾布艾胴
 11956,Rebellion Armour F・Body,爾艾布艾胴【Ｆ】
 11957,Rebellion Armour FZ・Body,爾艾布艾胴【ＦＺ】
@@ -11990,7 +11990,7 @@ index,source,target
 11988,Training Corps D Vest,特阿恩伊背心
 11989,Twelve Paladins' Armor D・Body,特艾爾艾鎧甲
 11990,Holy Maiden Armor D・Shozoku,赫歐爾阿裝束
-11991,Dragon Slayer Armor D・Body,龍鎧甲
+11991,Dragon Slayer Armor D・Body,屠龍鎧甲
 11992,Rebellion Armour D・Body,爾艾布艾胴
 11993,Dinato D Mail,德伊恩阿鎧甲
 11994,Duque D Mail,德烏斯烏鎧甲
@@ -12027,9 +12027,9 @@ index,source,target
 12025,High Metal Mail PD Black,上位金屬鎧甲【ＰＤ】・黑
 12026,High Metal Mail PD Blue,上位金屬鎧甲【ＰＤ】・青
 12027,High Metal Mail PD Yellow,上位金屬鎧甲【ＰＤ】・黄
-12028,S・Sol Mail PD Red,日鎧甲【Ｓ】【ＰＤ】・赤
-12029,S・Sol Mail PD Purple,日鎧甲【Ｓ】【ＰＤ】・紫
-12030,S・Sol Mail PD Black,日鎧甲【Ｓ】【ＰＤ】・黑
+12028,S・Sol Mail PD Red,S索倫鎧甲【ＰＤ】・赤
+12029,S・Sol Mail PD Purple,S索倫鎧甲【ＰＤ】・紫
+12030,S・Sol Mail PD Black,S索倫鎧甲【ＰＤ】・黑
 12031,Garuga Vest PD White,黑狼鳥背心【ＰＤ】・白
 12032,Garuga Vest PD Green,黑狼鳥背心【ＰＤ】・緑
 12033,Garuga Vest PD Red,黑狼鳥背心【ＰＤ】・赤
@@ -12039,9 +12039,9 @@ index,source,target
 12037,Kushala Diru PD Red,鋼龍上衣【ＰＤ】・赤
 12038,Kushala Diru PD Yellow,鋼龍上衣【ＰＤ】・黄
 12039,Kushala Diru PD Green,鋼龍上衣【ＰＤ】・緑
-12040,Kushala バダル PD Red,鋼龍鎧甲【ＰＤ】
-12041,Kushala バダル PD Yellow,鋼龍鎧甲【ＰＤ】
-12042,Kushala バダル PD Green,鋼龍鎧甲【ＰＤ】
+12040,Kushala バダル PD Red,鋼龍鎧甲【ＰＤ】・赤
+12041,Kushala バダル PD Yellow,鋼龍鎧甲【ＰＤ】・黄
+12042,Kushala バダル PD Green,鋼龍鎧甲【ＰＤ】・緑
 12043,忍の Shozoku・陽D,忍の陽裝束
 12044,忍の Shozoku・陰D,忍の陰裝束
 12045,Bonne D Mail,布歐恩艾鎧甲
@@ -12228,7 +12228,7 @@ index,source,target
 12226,Byakko・双龍D Mail,双龍鎧甲
 12227,Byakko・剣王D Mail,剣王鎧甲
 12228,Byakko・刀神D Mail,刀神鎧甲
-12229,Byakko・Heaven 槍D Mail,槍鎧甲・天
+12229,Byakko・Heaven 槍D Mail,槍天鎧甲
 12230,Byakko・砲皇D Mail,砲皇鎧甲
 12231,Byakko・鈍器獣D Mail,鈍器獣鎧甲
 12232,Byakko・奏帝D Mail,奏帝鎧甲
@@ -12236,7 +12236,7 @@ index,source,target
 12234,Byakko・斬将D Mail,斬将鎧甲
 12235,Byakko・銃傑D Suit,銃傑套裝
 12236,Byakko・銃仙D Suit,銃仙套裝
-12237,Byakko・Bow 鬼D Suit,鬼套裝
+12237,Byakko・Bow 鬼D Suit,白虎套裝
 12238,Kirin Vest PD Red,麒麟背心【ＰＤ】・赤
 12239,Kirin Vest PD Purple,麒麟背心【ＰＤ】・紫
 12240,Kirin Vest PD Black,麒麟背心【ＰＤ】・黑
@@ -12252,18 +12252,18 @@ index,source,target
 12250,Toyotama [Chest] PD Blue,豐玉胸甲【ＰＤ】・青
 12251,Toyotama [Chest] PD Red,豐玉胸甲【ＰＤ】・赤
 12252,Toyotama [Chest] PD Yellow,豐玉胸甲【ＰＤ】・黄
-12253,暁丸【胴当て】 PD Red,胴当て暁丸鎧甲【ＰＤ】・赤
-12254,暁丸【胴当て】 PD Purple,胴当て暁丸鎧甲【ＰＤ】・紫
-12255,暁丸【胴当て】 PD White,胴当て暁丸鎧甲【ＰＤ】・白
+12253,暁丸【胴当て】 PD Red,暁丸胴當【ＰＤ】・赤
+12254,暁丸【胴当て】 PD Purple,暁丸胴當【ＰＤ】・紫
+12255,暁丸【胴当て】 PD White,暁丸胴當【ＰＤ】・白
 12256,凛 [Chestplate] PD Black,凛胸甲【ＰＤ】・黑
 12257,凛 [Chestplate] PD Purple,凛胸甲【ＰＤ】・紫
 12258,凛 [Chestplate] PD White,凛胸甲【ＰＤ】・白
 12259,Ceanataur Vest PD Red,鎌蟹背心【ＰＤ】・赤
 12260,Ceanataur Vest PD Black,鎌蟹背心【ＰＤ】・黑
 12261,Ceanataur Vest PD Yellow,鎌蟹背心【ＰＤ】・黄
-12262,Remobra ボディ PD White,翼蛇龍鎧甲【ＰＤ】
-12263,Remobra ボディ PD Yellow,翼蛇龍鎧甲【ＰＤ】
-12264,Remobra ボディ PD Black,翼蛇龍鎧甲【ＰＤ】
+12262,Remobra ボディ PD White,翼蛇龍鎧甲【ＰＤ】・白
+12263,Remobra ボディ PD Yellow,翼蛇龍鎧甲【ＰＤ】・黄
+12264,Remobra ボディ PD Black,翼蛇龍鎧甲【ＰＤ】・黑
 12265,Harze D Suit,赫阿爾艾套裝
 12266,Revenants D Muscle,爾艾芙艾筋肉衣
 12267,Kukubo D Vest,克烏克烏背心
@@ -12273,7 +12273,7 @@ index,source,target
 12271,Suzaku・双龍D Mail,双龍鎧甲
 12272,Suzaku・剣王D Mail,剣王鎧甲
 12273,Suzaku・刀神D Mail,刀神鎧甲
-12274,Suzaku・Heaven 槍D Mail,槍鎧甲・天
+12274,Suzaku・Heaven 槍D Mail,槍天鎧甲
 12275,Suzaku・砲皇D Mail,砲皇鎧甲
 12276,Suzaku・鈍器獣D Mail,鈍器獣鎧甲
 12277,Suzaku・奏帝D Mail,奏帝鎧甲
@@ -12281,10 +12281,10 @@ index,source,target
 12279,Suzaku・斬将D Mail,斬将鎧甲
 12280,Suzaku・銃傑D Suit,銃傑套裝
 12281,Suzaku・銃仙D Suit,銃仙套裝
-12282,Suzaku・Bow 鬼D Suit,鬼套裝
-12283,G・Knight Vest PD Red,騎士背心【Ｇ】【ＰＤ】・赤
-12284,G・Knight Vest PD Blue,騎士背心【Ｇ】【ＰＤ】・青
-12285,G・Knight Vest PD Purple,騎士背心【Ｇ】【ＰＤ】・紫
+12282,Suzaku・Bow 鬼D Suit,朱雀套裝
+12283,G・Knight Vest PD Red,騎士背心【ＰＤ】・赤
+12284,G・Knight Vest PD Blue,騎士背心【ＰＤ】・青
+12285,G・Knight Vest PD Purple,騎士背心【ＰＤ】・紫
 12286,PV Vest PD Red,普背心【ＰＤ】・赤
 12287,PV Vest PD Blue,普背心【ＰＤ】・青
 12288,PV Vest PD Purple,普背心【ＰＤ】・紫
@@ -12306,12 +12306,12 @@ index,source,target
 12304,Makluva Cover PD Green,瑪克魯瓦罩鎧甲【ＰＤ】・緑
 12305,Makluva Cover PD Blue,瑪克魯瓦罩鎧甲【ＰＤ】・青
 12306,Makluva Cover PD Black,瑪克魯瓦罩鎧甲【ＰＤ】・黑
-12307,Akantor ウルンテ PD Black,霸龍鎧甲【ＰＤ】
-12308,Akantor ウルンテ PD Red,霸龍鎧甲【ＰＤ】
-12309,Akantor ウルンテ PD White,霸龍鎧甲【ＰＤ】
-12310,Akantor ウルンペ PD Black,霸龍鎧甲【ＰＤ】
-12311,Akantor ウルンペ PD Red,霸龍鎧甲【ＰＤ】
-12312,Akantor ウルンペ PD White,霸龍鎧甲【ＰＤ】
+12307,Akantor ウルンテ PD Black,霸龍鎧甲【ＰＤ】・黑
+12308,Akantor ウルンテ PD Red,霸龍鎧甲【ＰＤ】・赤
+12309,Akantor ウルンテ PD White,霸龍鎧甲【ＰＤ】・白
+12310,Akantor ウルンペ PD Black,霸龍鎧甲【ＰＤ】・黑
+12311,Akantor ウルンペ PD Red,霸龍鎧甲【ＰＤ】・赤
+12312,Akantor ウルンペ PD White,霸龍鎧甲【ＰＤ】・白
 12313,Gravios Mail PD Black,鎧龍鎧甲【ＰＤ】・黑
 12314,Gravios Mail PD Blue,鎧龍鎧甲【ＰＤ】・青
 12315,Gravios Mail PD Red,鎧龍鎧甲【ＰＤ】・赤
@@ -12668,7 +12668,7 @@ index,source,target
 12666,Genbu・双龍D Mail,双龍鎧甲
 12667,Genbu・剣王D Mail,剣王鎧甲
 12668,Genbu・刀神D Mail,刀神鎧甲
-12669,Genbu・Heaven 槍D Mail,槍鎧甲・天
+12669,Genbu・Heaven 槍D Mail,槍天鎧甲
 12670,Genbu・砲皇D Mail,砲皇鎧甲
 12671,Genbu・鈍器獣D Mail,鈍器獣鎧甲
 12672,Genbu・奏帝D Mail,奏帝鎧甲
@@ -12676,7 +12676,7 @@ index,source,target
 12674,Genbu・斬将D Mail,斬将鎧甲
 12675,Genbu・銃傑D Suit,銃傑套裝
 12676,Genbu・銃仙D Suit,銃仙套裝
-12677,Genbu・Bow 鬼D Suit,鬼套裝
+12677,Genbu・Bow 鬼D Suit,玄武套裝
 12678,Tanzanite D Mail,特阿恩阿鎧甲
 12679,Hematite D Mail,赫艾姆阿鎧甲
 12680,Byakko・磁星D Mail,磁星鎧甲
@@ -12700,9 +12700,9 @@ index,source,target
 12698,Gypceros Vest PD Red,毒怪鳥背心【ＰＤ】・赤
 12699,Gypceros Vest PD Yellow,毒怪鳥背心【ＰＤ】・黄
 12700,Gypceros Vest PD Green,毒怪鳥背心【ＰＤ】・緑
-12701,Kagura 【胴当て】 PD Red,神樂鎧甲【ＰＤ】
-12702,Kagura 【胴当て】 PD Black,神樂鎧甲【ＰＤ】
-12703,Kagura 【胴当て】 PD Purple,神樂鎧甲【ＰＤ】
+12701,Kagura 【胴当て】 PD Red,神樂胴當【ＰＤ】・赤
+12702,Kagura 【胴当て】 PD Black,神樂胴當【ＰＤ】・黑
+12703,Kagura 【胴当て】 PD Purple,神樂胴當【ＰＤ】・紫
 12704,Kamiza [Chestplate] PD Red,上座胸甲【ＰＤ】・赤
 12705,Kamiza [Chestplate] PD Black,上座胸甲【ＰＤ】・黑
 12706,Kamiza [Chestplate] PD Purple,上座胸甲【ＰＤ】・紫
@@ -12748,10 +12748,10 @@ index,source,target
 12746,Gelt D Mail・Copper,格艾爾鎧甲・銅
 12747,Gelt D Mail・Silver,格艾爾鎧甲・銀
 12748,Gelt D Mail・Gold,格艾爾鎧甲・金
-12749,Gloria D Mail・Gold,格歐爾伊鎧甲・金
-12750,Gloria D Mail・Blue,格歐爾伊鎧甲・青
-12751,Gloria D Mail・Water,格歐爾伊鎧甲
-12752,Gloria D Mail・Red,格歐爾伊鎧甲・赤
+12749,Gloria D Mail・Gold,榮光鎧甲・金
+12750,Gloria D Mail・Blue,榮光鎧甲・青
+12751,Gloria D Mail・Water,榮光鎧甲・水
+12752,Gloria D Mail・Red,榮光鎧甲・赤
 12753,Cloth D Vest・Red,德艾斯衣・赤
 12754,Cloth D Vest・Blue,德艾斯衣・青
 12755,Cloth D Vest・Purple,德艾斯衣・紫
@@ -12812,14 +12812,14 @@ index,source,target
 12810,Honour D Mail・Blue,赫歐恩歐鎧甲・青
 12811,Honour D Mail・Green,赫歐恩歐鎧甲・緑
 12812,Honour D Mail・紺,紺鎧甲
-12813,Pics D Vest・Green,普伊克背心・緑
-12814,Pics D Vest・Purple,普伊克背心・紫
-12815,Pics D Vest・Black,普伊克背心・黑
-12816,Pics D Vest・Water,普伊克阿背心
-12817,Magos D Mail・Yellow,姆阿格歐鎧甲・黄
-12818,Magos D Mail・Red,姆阿格歐鎧甲・赤
-12819,Magos D Mail・Water,姆阿格歐鎧甲
-12820,Magos D Mail・Blue,姆阿格歐鎧甲・青
+12813,Pics D Vest・Green,皮克斯背心・緑
+12814,Pics D Vest・Purple,皮克斯背心・紫
+12815,Pics D Vest・Black,皮克斯背心・黑
+12816,Pics D Vest・Water,皮克斯背心・水
+12817,Magos D Mail・Yellow,瑪戈斯鎧甲・黄
+12818,Magos D Mail・Red,瑪戈斯鎧甲・赤
+12819,Magos D Mail・Water,瑪戈斯鎧甲・水
+12820,Magos D Mail・Blue,瑪戈斯鎧甲・青
 12821,Arge D Vest,阿爾艾斯背心
 12822,Camarera D Vest,克阿姆阿背心
 12823,Metenera D Vest,姆艾特艾背心
@@ -12829,10 +12829,10 @@ index,source,target
 12827,Zodic D Mail・Tea,茲歐德伊鎧甲・茶
 12828,Zodic D Mail・Green,茲歐德伊鎧甲・緑
 12829,Zodic D Mail・Pink,茲歐德伊鎧甲・桃
-12830,Cayssis D Mail Water,克阿伊伊鎧甲
-12831,Cayssis D Mail Red,克阿伊伊鎧甲・赤
-12832,Cayssis D Mail Blue,克阿伊伊鎧甲・青
-12833,Cayssis D Mail Orange,克阿伊伊鎧甲・橙
+12830,Cayssis D Mail Water,凱西斯鎧甲・水
+12831,Cayssis D Mail Red,凱西斯鎧甲・赤
+12832,Cayssis D Mail Blue,凱西斯鎧甲・青
+12833,Cayssis D Mail Orange,凱西斯鎧甲・橙
 12834,Omet D Mail・Black,歐姆艾特鎧甲・黑
 12835,Omet D Mail・Red,歐姆艾特鎧甲・赤
 12836,Omet D Mail・White,歐姆艾特鎧甲・白
@@ -12849,10 +12849,10 @@ index,source,target
 12847,Suriito D Vest・Silver,斯烏爾伊背心・銀
 12848,Suriito D Vest・Red,斯烏爾伊背心・赤
 12849,Suriito D Vest・Blue,斯烏爾伊背心・青
-12850,Galitos D Vest・Tea,格阿爾伊背心・茶
-12851,Galitos D Vest・Red,格阿爾伊背心・赤
-12852,Galitos D Vest・Black,格阿爾伊背心・黑
-12853,Galitos D Vest・Water,格阿爾伊背心
+12850,Galitos D Vest・Tea,加里托斯背心・茶
+12851,Galitos D Vest・Red,加里托斯背心・赤
+12852,Galitos D Vest・Black,加里托斯背心・黑
+12853,Galitos D Vest・Water,加里托斯背心・水
 12854,Text D Vest・Purple,特艾克斯背心・紫
 12855,Text D Vest・Green,特艾克斯背心・緑
 12856,Text D Vest・Blue,特艾克斯背心・青
@@ -12861,24 +12861,24 @@ index,source,target
 12859,Pharan D Mail・Black,菲阿爾阿鎧甲・黑
 12860,Pharan D Mail・Red,菲阿爾阿鎧甲・赤
 12861,Pharan D Mail・Blue,菲阿爾阿鎧甲・青
-12862,Gold D Mail・Red,德鎧甲
-12863,Gold D Mail・Blue,德鎧甲
-12864,Gold D Mail・Yellow,德鎧甲
-12865,Gold D Mail・Purple,德鎧甲
-12866,Claire D Vest・Purple,克阿爾艾背心・紫
-12867,Claire D Vest・Water,克阿爾艾背心
-12868,Claire D Vest・Red,克阿爾艾背心・赤
-12869,Claire D Vest・Black,克阿爾艾背心・黑
-12870,Gold Cat D Suit,克阿特套裝・金
-12871,Silver Cat D Suit,克阿特套裝・銀
+12862,Gold D Mail・Red,金鎧甲・赤
+12863,Gold D Mail・Blue,金鎧甲・青
+12864,Gold D Mail・Yellow,金鎧甲・黄
+12865,Gold D Mail・Purple,金鎧甲・紫
+12866,Claire D Vest・Purple,克蕾爾背心・紫
+12867,Claire D Vest・Water,克蕾爾背心・水
+12868,Claire D Vest・Red,克蕾爾背心・赤
+12869,Claire D Vest・Black,克蕾爾背心・黑
+12870,Gold Cat D Suit,金猫套裝
+12871,Silver Cat D Suit,銀猫套裝
 12872,Ex D Vest・White,艾克斯背心・白
 12873,Ex D Vest・Red,艾克斯背心・赤
 12874,Ex D Vest・Blue,艾克斯背心・青
 12875,Ex D Vest・Black,艾克斯背心・黑
-12876,Star Festival D Shozoku [Red 】,斯阿爾艾裝束・赤
-12877,Star Festival D Shozoku [Blue 】,斯阿爾艾裝束・青
-12878,Star Festival D Shozoku [Black 】,斯阿爾艾裝束・黑
-12879,Star Festival D Shozoku [White 】,斯阿爾艾裝束・白
+12876,Star Festival D Shozoku [Red 】,星祭裝束・赤
+12877,Star Festival D Shozoku [Blue 】,星祭裝束・青
+12878,Star Festival D Shozoku [Black 】,星祭裝束・黑
+12879,Star Festival D Shozoku [White 】,星祭裝束・白
 12880,Promise D Mail・White,普歐姆伊鎧甲・白
 12881,Promise D Mail・Blue,普歐姆伊鎧甲・青
 12882,Promise D Mail・Purple,普歐姆伊鎧甲・紫
@@ -13165,7 +13165,7 @@ index,source,target
 13163,Secuti D Mail・Red,斯艾克烏鎧甲・赤
 13164,Secuti D Mail・White,斯艾克烏鎧甲・白
 13165,Rockman D Suit,爾歐克阿套裝
-13166,Issen D【胴当て】・Red,一閃鎧甲
+13166,Issen D【胴当て】・Red,一閃胴當・赤
 13167,蜂針D [Chestplate 】・Orange,蜂針胸甲・橙
 13168,Shanru Z Mail,夏阿恩烏鎧甲【Ｚ】
 13169,Shanru ZF Mail,夏阿恩烏鎧甲【ＺＦ】
@@ -13415,7 +13415,7 @@ index,source,target
 13413,Seiryu・双龍D Mail,双龍鎧甲
 13414,Seiryu・剣王D Mail,剣王鎧甲
 13415,Seiryu・刀神D Mail,刀神鎧甲
-13416,Seiryu・Heaven 槍D Mail,槍鎧甲・天
+13416,Seiryu・Heaven 槍D Mail,槍天鎧甲
 13417,Seiryu・砲皇D Mail,砲皇鎧甲
 13418,Seiryu・鈍器獣D Mail,鈍器獣鎧甲
 13419,Seiryu・奏帝D Mail,奏帝鎧甲
@@ -13423,7 +13423,7 @@ index,source,target
 13421,Seiryu・斬将D Mail,斬将鎧甲
 13422,Seiryu・銃傑D Suit,銃傑套裝
 13423,Seiryu・銃仙D Suit,銃仙套裝
-13424,Seiryu・Bow 鬼D Suit,鬼套裝
+13424,Seiryu・Bow 鬼D Suit,青龍套裝
 13425,Seiryu・磁星D Mail,磁星鎧甲
 13426,K. Lobster Shell PD Black,王龍蝦殼【ＰＤ】・黑
 13427,K. Lobster Shell PD Green,王龍蝦殼【ＰＤ】・緑
@@ -13452,9 +13452,9 @@ index,source,target
 13450,Ruko Skin PD White,極龍皮【ＰＤ】・白
 13451,Ruko Skin PD Blue,極龍皮【ＰＤ】・青
 13452,Ruko Skin PD Red,極龍皮【ＰＤ】・赤
-13453,Comrade Mail PD White Red,戰友鎧甲【ＰＤ】・赤・白
-13454,Comrade Mail PD White Blue,戰友鎧甲【ＰＤ】・青・白
-13455,Comrade Mail PD White Yellow,戰友鎧甲【ＰＤ】・黄・白
+13453,Comrade Mail PD White Red,戰友鎧甲【ＰＤ】・白
+13454,Comrade Mail PD White Blue,戰友鎧甲【ＰＤ】・白
+13455,Comrade Mail PD White Yellow,戰友鎧甲【ＰＤ】・白
 13456,Otono D Jacket,歐特歐恩夾克
 13457,忍の Shozoku・空D,忍の空裝束
 13458,忍の Shozoku・海D,忍の海裝束

@@ -120,8 +120,8 @@ index,source,target
 118,ミラ Vulcan テイル,火神腰甲
 119,ゴールド Lune Coil,月腰甲
 120,ゴールド Lune Coat,月腰衣
-121,Silver Sol Coil,日腰甲・銀
-122,Silver Sol Coat,日腰衣・銀
+121,Silver Sol Coil,銀日腰甲
+122,Silver Sol Coat,銀日腰衣
 123,Leather S Belt,皮革腰帶【Ｓ】
 124,C・ライトS Belt,拉伊托腰帶【Ｓ】
 125,Hunter's S Faulds,獵人腰甲【Ｓ】
@@ -163,16 +163,16 @@ index,source,target
 161,Monoblos S Coat,一角龍腰衣【Ｓ】
 162,Gravios S Faulds,鎧龍腰甲【Ｓ】
 163,Gravios S Coat,鎧龍腰衣【Ｓ】
-164,忍の Obi・Heaven,忍の帶・天
-165,忍の Obi・Earth,忍の帶・地
+164,忍の Obi・Heaven,忍の天帶
+165,忍の Obi・Earth,忍の地帶
 166,Guild Guard Coil Crimson,公會守衛腰甲・紅
 167,Guild Guard Coat Crimson,公會守衛腰衣・紅
 168,Guild Guard Coil Crimson,公會守衛腰甲・紅
 169,Guild Guard Coat Crimson,公會守衛腰衣・紅
-170,暁丸・覇【腰当て】,暁丸覇腰當
-171,曙丸・覇【腰当て】,曙丸覇腰當
-172,凛・覇【腰当て】,凛覇腰當
-173,艶・覇【腰当て】,艶覇腰當
+170,暁丸・覇【腰当て】,暁丸腰當
+171,曙丸・覇【腰当て】,曙丸腰當
+172,凛・覇【腰当て】,凛腰當
+173,艶・覇【腰当て】,艶腰當
 174,Dragon S Wing,龍腰翼【Ｓ】
 175,Dragon Sテイル,龍腰甲
 176,Hermitaur Faulds,盾蟹腰甲
@@ -209,16 +209,16 @@ index,source,target
 207,Toyotama 【丸 Obi 】,豐玉腰甲
 208,Empress Faulds,女帝腰甲
 209,Empress Coat,女帝腰衣
-210,Gold 剛【腰当て】,剛腰當・金
+210,Gold 剛【腰当て】,金腰當剛
 211,不動【腰当て】,不動腰當
 212,Kaiser Faulds,帝王腰甲
 213,Kaiser Coat,帝王腰衣
 214,夜叉【腰巻】,夜叉腰卷
 215,修羅【腰巻】,修羅腰卷
 216,Golden Obi,金帶
-217,Puppeteer ノ Obi,帶
+217,Puppeteer ノ Obi,操偶帶
 218,White Fatalis Wing,白黑龍腰翼
-219,White Fatalis テイル,黑龍腰甲
+219,White Fatalis テイル,白黑龍腰甲
 220,Plesioth S Faulds,水龍腰甲【Ｓ】
 221,Plesioth S Coat,水龍腰衣【Ｓ】
 222,Black Belt S Faulds,黑帶腰甲【Ｓ】
@@ -246,17 +246,17 @@ index,source,target
 244,Lavasioth S Coat,熔岩龍腰衣【Ｓ】
 245,Gia U Faulds,格伊腰甲【Ｕ】
 246,Gia U Coat,格伊腰衣【Ｕ】
-247,White Cat テイル,猫腰甲
-248,Black Cat テイル,猫腰甲
-249,Gold Cat テイル,猫腰甲
+247,White Cat テイル,白猫腰甲
+248,Black Cat テイル,黑猫腰甲
+249,Gold Cat テイル,金猫腰甲
 250,Gothic Faulds,哥德腰甲
 251,Gothic F Faulds,哥德腰甲【Ｆ】
 252,Beil Reflector,貝爾反射腰甲
-253,Comrade Belt 【猩】,戰友猩腰帶
+253,Comrade Belt 【猩】,戰友腰帶猩
 254,Jisutoreru Waist,吉斯特雷腰甲
 255,Duo Faulds,雙腰甲
 256,Smart Waist,機靈腰甲
-257,Red Cat Fテイル,猫腰甲
+257,Red Cat Fテイル,赤猫腰甲
 258,Boot Up Waist,靴強化腰甲
 259,Yuenesu Waist,尤涅斯腰甲
 260,Missing No.,遺失道具No.260
@@ -299,32 +299,32 @@ index,source,target
 297,Kushala Fアドミ,鋼龍腰甲
 298,Kaiser F Faulds,帝王腰甲【Ｆ】
 299,Kaiser F Coat,帝王腰衣【Ｆ】
-300,Mizuha 魁【丸 Obi 】,水羽魁腰甲
-301,Toyotama 魁【丸 Obi 】,豐玉魁腰甲
-302,Gold 剛・魁【腰当て】,剛魁腰當・金
-303,不動・魁【腰当て】,不動魁腰當
-304,夜叉・魁【腰巻】,夜叉魁腰卷
-305,修羅・魁【腰巻】,修羅魁腰卷
+300,Mizuha 魁【丸 Obi 】,水羽腰甲魁
+301,Toyotama 魁【丸 Obi 】,豐玉腰甲魁
+302,Gold 剛・魁【腰当て】,金腰當魁剛
+303,不動・魁【腰当て】,不動腰當魁
+304,夜叉・魁【腰巻】,夜叉腰卷魁
+305,修羅・魁【腰巻】,修羅腰卷魁
 306,Empress F Coil,女帝腰甲【Ｆ】
 307,Empress F Coat,女帝腰衣【Ｆ】
-308,Golden ノ Obi・魁,金魁帶
-309,Puppeteer ノ Obi・魁,魁帶
+308,Golden ノ Obi・魁,金帶魁
+309,Puppeteer ノ Obi・魁,操偶帶魁
 310,Garuga F Faulds,黑狼鳥腰甲【Ｆ】
 311,Garuga F Coat,黑狼鳥腰衣【Ｆ】
 312,Kushala Fアンダ,鋼龍腰甲
 313,Kushala Fアドミ,鋼龍腰甲
 314,Kaiser F Faulds,帝王腰甲【Ｆ】
 315,Kaiser F Coat,帝王腰衣【Ｆ】
-316,Mizuha 魁【丸 Obi 】,水羽魁腰甲
-317,Toyotama 魁【丸 Obi 】,豐玉魁腰甲
-318,Gold 剛・魁【腰当て】,剛魁腰當・金
-319,不動・魁【腰当て】,不動魁腰當
-320,夜叉・魁【腰巻】,夜叉魁腰卷
-321,修羅・魁【腰巻】,修羅魁腰卷
+316,Mizuha 魁【丸 Obi 】,水羽腰甲魁
+317,Toyotama 魁【丸 Obi 】,豐玉腰甲魁
+318,Gold 剛・魁【腰当て】,金腰當魁剛
+319,不動・魁【腰当て】,不動腰當魁
+320,夜叉・魁【腰巻】,夜叉腰卷魁
+321,修羅・魁【腰巻】,修羅腰卷魁
 322,Empress F Coil,女帝腰甲【Ｆ】
 323,Empress F Coat,女帝腰衣【Ｆ】
-324,Golden ノ Obi・魁,金魁帶
-325,Puppeteer ノ Obi・魁,魁帶
+324,Golden ノ Obi・魁,金帶魁
+325,Puppeteer ノ Obi・魁,操偶帶魁
 326,Garuga F Faulds,黑狼鳥腰甲【Ｆ】
 327,Garuga F Coat,黑狼鳥腰衣【Ｆ】
 328,Lavasioth U Faulds,熔岩龍腰甲【Ｕ】
@@ -332,10 +332,10 @@ index,source,target
 330,White Metal Coat,白金屬腰衣
 331,Celeste Faulds,天空腰甲
 332,Ciel Reflector,克伊爾艾腰甲
-333,Comrada Belt 【 Red 】,克歐姆阿腰帶・赤
-334,Comrada Belt 【 Blue 】,克歐姆阿腰帶・青
-335,Comrada Belt 【 Green 】,克歐姆阿腰帶・緑
-336,Comrada Belt 【 Orange 】,克歐姆阿腰帶・橙
+333,Comrada Belt 【 Red 】,戰友腰帶・赤
+334,Comrada Belt 【 Blue 】,戰友腰帶・青
+335,Comrada Belt 【 Green 】,戰友腰帶・緑
+336,Comrada Belt 【 Orange 】,戰友腰帶・橙
 337,ダミー,(dummy)
 338,ダミー,(dummy)
 339,Espinas Navel,棘龍臍甲
@@ -431,36 +431,36 @@ index,source,target
 429,Eques Coat 改,改腰衣
 430,Eques F Faulds,騎士腰甲【Ｆ】
 431,Eques F Coat,騎士腰衣【Ｆ】
-432,Star Festival Obi・Summer 【 Red 】,斯阿爾艾帶・赤
-433,Star Festival Obi・Summer 【 Blue 】,斯阿爾艾帶・青
-434,Star Festival Obi・Summer 【 Black 】,斯阿爾艾帶・黑
-435,Star Festival Obi・Summer 【 White 】,斯阿爾艾帶・白
-436,Tanabata Obi・Summer 【 Red 】,特阿恩阿帶・赤
-437,Tanabata Obi・Summer 【 Blue 】,特阿恩阿帶・青
-438,Tanabata Obi・Summer 【 Black 】,特阿恩阿帶・黑
-439,Tanabata Obi・Summer 【 White 】,特阿恩阿帶・白
-440,Star Festival Obi・織【 Red 】,織帶・赤
-441,Star Festival Obi・織【 Blue 】,織帶・青
-442,Star Festival Obi・織【 Black 】,織帶・黑
-443,Star Festival Obi・織【 White 】,織帶・白
+432,Star Festival Obi・Summer 【 Red 】,星祭夏帶・赤
+433,Star Festival Obi・Summer 【 Blue 】,星祭夏帶・青
+434,Star Festival Obi・Summer 【 Black 】,星祭夏帶・黑
+435,Star Festival Obi・Summer 【 White 】,星祭夏帶・白
+436,Tanabata Obi・Summer 【 Red 】,七夕夏帶・赤
+437,Tanabata Obi・Summer 【 Blue 】,七夕夏帶・青
+438,Tanabata Obi・Summer 【 Black 】,七夕夏帶・黑
+439,Tanabata Obi・Summer 【 White 】,七夕夏帶・白
+440,Star Festival Obi・織【 Red 】,星祭織帶・赤
+441,Star Festival Obi・織【 Blue 】,星祭織帶・青
+442,Star Festival Obi・織【 Black 】,星祭織帶・黑
+443,Star Festival Obi・織【 White 】,星祭織帶・白
 444,Tanabata Obi・織【 Red 】,織帶・赤
 445,Tanabata Obi・織【 Blue 】,織帶・青
 446,Tanabata Obi・織【 Black 】,織帶・黑
 447,Tanabata Obi・織【 White 】,織帶・白
-448,Star Festival Obi・Heaven 【 Red 】,星祭天帶・赤・天
-449,Star Festival Obi・Heaven 【 Blue 】,星祭天帶・青・天
-450,Star Festival Obi・Heaven 【 Black 】,星祭天帶・黑・天
-451,Star Festival Obi・Heaven 【 White 】,星祭天帶・白・天
-452,Tanabata Obi・Heaven 【 Red 】,七夕天帶・赤・天
-453,Tanabata Obi・Heaven 【 Blue 】,七夕天帶・青・天
-454,Tanabata Obi・Heaven 【 Black 】,七夕天帶・黑・天
-455,Tanabata Obi・Heaven 【 White 】,七夕天帶・白・天
+448,Star Festival Obi・Heaven 【 Red 】,星祭天帶・赤
+449,Star Festival Obi・Heaven 【 Blue 】,星祭天帶・青
+450,Star Festival Obi・Heaven 【 Black 】,星祭天帶・黑
+451,Star Festival Obi・Heaven 【 White 】,星祭天帶・白
+452,Tanabata Obi・Heaven 【 Red 】,七夕天帶・赤
+453,Tanabata Obi・Heaven 【 Blue 】,七夕天帶・青
+454,Tanabata Obi・Heaven 【 Black 】,七夕天帶・黑
+455,Tanabata Obi・Heaven 【 White 】,七夕天帶・白
 456,High Metal Coil SP Black,上位金屬腰甲【ＳＰ】・黑
 457,High Metal Coil SP Blue,上位金屬腰甲【ＳＰ】・青
 458,High Metal Coil SP Yellow,上位金屬腰甲【ＳＰ】・黄
-459,S・Sol Coil SP Red,日腰甲【Ｓ】【ＳＰ】・赤
-460,S・Sol Coil SP Purple,日腰甲【Ｓ】【ＳＰ】・紫
-461,S・Sol Coil SP Black,日腰甲【Ｓ】【ＳＰ】・黑
+459,S・Sol Coil SP Red,S索倫腰甲【ＳＰ】・赤
+460,S・Sol Coil SP Purple,S索倫腰甲【ＳＰ】・紫
+461,S・Sol Coil SP Black,S索倫腰甲【ＳＰ】・黑
 462,Garuga Coat SP White,黑狼鳥腰衣【ＳＰ】・白
 463,Garuga Coat SP Green,黑狼鳥腰衣【ＳＰ】・緑
 464,Garuga Coat SP Red,黑狼鳥腰衣【ＳＰ】・赤
@@ -537,18 +537,18 @@ index,source,target
 535,Faust Coat・Green,芙阿斯腰衣・緑
 536,Faust Coat・White,芙阿斯腰衣・白
 537,Faust Coat・Blue,芙阿斯腰衣・青
-538,Kushala アンダ SP Red,鋼龍腰甲【ＳＰ】
-539,Kushala アンダ SP Yellow,鋼龍腰甲【ＳＰ】
-540,Kushala アンダ SP Green,鋼龍腰甲【ＳＰ】
-541,Kushala アドミ SP Red,鋼龍腰甲【ＳＰ】
-542,Kushala アドミ SP Yellow,鋼龍腰甲【ＳＰ】
-543,Kushala アドミ SP Green,鋼龍腰甲【ＳＰ】
-544,Kirin フープ SP Red,麒麟腰甲【ＳＰ】
-545,Kirin フープ SP Purple,麒麟腰甲【ＳＰ】
-546,Kirin フープ SP Black,麒麟腰甲【ＳＰ】
-547,Kirin ショルト SP Red,麒麟腰甲【ＳＰ】
-548,Kirin ショルト SP Purple,麒麟腰甲【ＳＰ】
-549,Kirin ショルト SP Black,麒麟腰甲【ＳＰ】
+538,Kushala アンダ SP Red,鋼龍腰甲【ＳＰ】・赤
+539,Kushala アンダ SP Yellow,鋼龍腰甲【ＳＰ】・黄
+540,Kushala アンダ SP Green,鋼龍腰甲【ＳＰ】・緑
+541,Kushala アドミ SP Red,鋼龍腰甲【ＳＰ】・赤
+542,Kushala アドミ SP Yellow,鋼龍腰甲【ＳＰ】・黄
+543,Kushala アドミ SP Green,鋼龍腰甲【ＳＰ】・緑
+544,Kirin フープ SP Red,麒麟腰甲【ＳＰ】・赤
+545,Kirin フープ SP Purple,麒麟腰甲【ＳＰ】・紫
+546,Kirin フープ SP Black,麒麟腰甲【ＳＰ】・黑
+547,Kirin ショルト SP Red,麒麟腰甲【ＳＰ】・赤
+548,Kirin ショルト SP Purple,麒麟腰甲【ＳＰ】・紫
+549,Kirin ショルト SP Black,麒麟腰甲【ＳＰ】・黑
 550,Strega Faulds,魔女腰甲
 551,Strega Coat,魔女腰衣
 552,Strega Faulds 改,改腰甲
@@ -560,7 +560,7 @@ index,source,target
 558,Ceanataur L Faulds,鎌蟹腰甲【Ｌ】
 559,Rathalos L Faulds,雄火龍腰甲【Ｌ】
 560,Mafumofu L Coat,莫芙莫芙腰衣【Ｌ】
-561,Red Cat テイル,猫腰甲
+561,Red Cat テイル,赤猫腰甲
 562,Amitie Coil,阿姆伊特腰甲
 563,Amitie Coat,阿姆伊特腰衣
 564,Basarios L Coat,岩龍腰衣【Ｌ】
@@ -690,9 +690,9 @@ index,source,target
 688,ディジ Gear Coat,格艾爾腰衣
 689,Priere Coat,普伊爾艾腰衣
 690,Salvacion Coat,斯阿爾阿腰衣
-691,Shikari の腰当て,の腰當
-692,Shikari の腰当て・魁,の魁腰當
-693,G・Guard R Coil Green,防禦腰甲【Ｇ】【Ｒ】・緑
+691,Shikari の腰当て,夏伊克阿腰當
+692,Shikari の腰当て・魁,夏伊克阿腰當魁
+693,G・Guard R Coil Green,防禦腰甲【Ｒ】・緑
 694,Arma Coil・Black,武裝腰甲・黑
 695,Arma Coat・Black,武裝腰衣・黑
 696,Arma Coil・White,武裝腰甲・白
@@ -717,7 +717,7 @@ index,source,target
 715,Es Quera Belt,艾斯烏爾腰帶
 716,Pandeum Waist,普阿恩艾腰甲
 717,Pandeum Belt,普阿恩艾腰帶
-718,White Cat Fテイル,猫腰甲
+718,White Cat Fテイル,白猫腰甲
 719,Death Stench L Navel,死臭臍甲【Ｌ】
 720,Black Belt L Faulds,黑帶腰甲【Ｌ】
 721,Battle L Faulds,戦腰甲【Ｌ】
@@ -725,7 +725,7 @@ index,source,target
 723,Khezu R Faulds,奇怪龍腰甲【Ｒ】
 724,Rath Soul R Coil,火龍魂腰甲【Ｒ】
 725,Gia R Faulds,格伊腰甲【Ｒ】
-726,G・Guard R Coil Green,防禦腰甲【Ｇ】【Ｒ】・緑
+726,G・Guard R Coil Green,防禦腰甲【Ｒ】・緑
 727,Khezu L Coat,奇怪龍腰衣【Ｌ】
 728,Io R Coat,伊歐腰衣【Ｒ】
 729,Iris Belt SP,伊爾伊斯腰帶【ＳＰ】
@@ -755,7 +755,7 @@ index,source,target
 753,Hypnolia Belt,赫歐爾伊腰帶
 754,Feral Waist,芙艾爾阿腰甲
 755,Feral Belt,芙艾爾阿腰帶
-756,Demon Lord ノ虎布,惡魔腰甲
+756,Demon Lord ノ虎布,魔王腰甲
 757,Rasta 教官腰,教官腰腰甲
 758,童子ノ虎布,童子虎布腰甲
 759,Dummy,(dummy)
@@ -798,8 +798,8 @@ index,source,target
 796,Gravios L Faulds,鎧龍腰甲【Ｌ】
 797,Vespoid L Faulds,巨蜂腰甲【Ｌ】
 798,Basarios R Faulds,岩龍腰甲【Ｒ】
-799,G・Guard R Coat Green,防禦腰衣【Ｇ】【Ｒ】・緑
-800,G・Guard R Coat Green,防禦腰衣【Ｇ】【Ｒ】・緑
+799,G・Guard R Coat Green,防禦腰衣【Ｒ】・緑
+800,G・Guard R Coat Green,防禦腰衣【Ｒ】・緑
 801,Monodevil R Coil,單眼惡魔腰甲【Ｒ】
 802,Hornetaur R Faulds,巨甲蟲腰甲【Ｒ】
 803,Ceanataur R Faulds,鎌蟹腰甲【Ｒ】
@@ -892,9 +892,9 @@ index,source,target
 890,Remobra Belt SP White,翼蛇龍腰帶【ＳＰ】・白
 891,Remobra Belt SP Yellow,翼蛇龍腰帶【ＳＰ】・黄
 892,Remobra Belt SP Black,翼蛇龍腰帶【ＳＰ】・黑
-893,G・Knight Coat SP Red,騎士腰衣【Ｇ】【ＳＰ】・赤
-894,G・Knight Coat SP Blue,騎士腰衣【Ｇ】【ＳＰ】・青
-895,G・Knight Coat SP Purple,騎士腰衣【Ｇ】【ＳＰ】・紫
+893,G・Knight Coat SP Red,騎士腰衣【ＳＰ】・赤
+894,G・Knight Coat SP Blue,騎士腰衣【ＳＰ】・青
+895,G・Knight Coat SP Purple,騎士腰衣【ＳＰ】・紫
 896,PV Frill SP Red,普褶邊【ＳＰ】・赤
 897,PV Frill SP Blue,普褶邊【ＳＰ】・青
 898,PV Frill SP Purple,普褶邊【ＳＰ】・紫
@@ -904,8 +904,8 @@ index,source,target
 902,Lavasioth L Faulds,熔岩龍腰甲【Ｌ】
 903,Bone L Faulds,骨製腰甲【Ｌ】
 904,Hornetaur L Faulds,巨甲蟲腰甲【Ｌ】
-905,G・Guard R Coil Crimson,防禦腰甲【Ｇ】【Ｒ】・紅
-906,G・Guard R Coil Crimson,防禦腰甲【Ｇ】【Ｒ】・紅
+905,G・Guard R Coil Crimson,防禦腰甲【Ｒ】・紅
+906,G・Guard R Coil Crimson,防禦腰甲【Ｒ】・紅
 907,Helper R Skirt,助手裙甲【Ｒ】
 908,Battle R Faulds,戦腰甲【Ｒ】
 909,Cepha R Faulds,砂龍腰甲【Ｒ】
@@ -917,9 +917,9 @@ index,source,target
 915,Buran Faulds,布烏爾阿腰甲
 916,White Belt Faulds,白帶腰甲
 917,Kagura 【腰当て】,神樂腰當
-918,Kagura・覇【腰当て】,覇腰當
+918,Kagura・覇【腰当て】,神樂腰當
 919,Kamiza 【腰当て】,上座腰當
-920,Kamiza・覇【腰当て】,覇腰當
+920,Kamiza・覇【腰当て】,上座腰當
 921,アスハルテ Coil,阿斯哈爾特腰甲
 922,アスハルテ Coat,阿斯哈爾特腰衣
 923,ローク Faulds,洛可腰甲
@@ -976,22 +976,22 @@ index,source,target
 974,リエーザF Coil,里耶薩腰甲【Ｆ】
 975,リエーザ Coat,里耶薩腰衣
 976,リエーザF Coat,里耶薩腰衣【Ｆ】
-977,Claire Coil・Purple,克蕾兒腰甲・紫
-978,Claire F Coil・Purple,克蕾兒腰甲【Ｆ】・紫
-979,Claire Coat・Purple,克蕾兒腰衣・紫
-980,Claire F Coat・Purple,克蕾兒腰衣【Ｆ】・紫
-981,Claire Coil・Water,克蕾兒水腰甲
-982,Claire F Coil・Water,克蕾兒水腰甲【Ｆ】
-983,Claire Coat・Water,克蕾兒水腰衣
-984,Claire F Coat・Water,克蕾兒水腰衣【Ｆ】
-985,Claire Coil・Red,克蕾兒腰甲・赤
-986,Claire F Coil・Red,克蕾兒腰甲【Ｆ】・赤
-987,Claire Coat・Red,克蕾兒腰衣・赤
-988,Claire F Coat・Red,克蕾兒腰衣【Ｆ】・赤
-989,Claire Coil・Black,克蕾兒腰甲・黑
-990,Claire F Coil・Black,克蕾兒腰甲【Ｆ】・黑
-991,Claire Coat・Black,克蕾兒腰衣・黑
-992,Claire F Coat・Black,克蕾兒腰衣【Ｆ】・黑
+977,Claire Coil・Purple,克蕾爾腰甲・紫
+978,Claire F Coil・Purple,克蕾爾腰甲【Ｆ】・紫
+979,Claire Coat・Purple,克蕾爾腰衣・紫
+980,Claire F Coat・Purple,克蕾爾腰衣【Ｆ】・紫
+981,Claire Coil・Water,克蕾爾腰甲・水
+982,Claire F Coil・Water,克蕾爾腰甲【Ｆ】・水
+983,Claire Coat・Water,克蕾爾腰衣・水
+984,Claire F Coat・Water,克蕾爾腰衣【Ｆ】・水
+985,Claire Coil・Red,克蕾爾腰甲・赤
+986,Claire F Coil・Red,克蕾爾腰甲【Ｆ】・赤
+987,Claire Coat・Red,克蕾爾腰衣・赤
+988,Claire F Coat・Red,克蕾爾腰衣【Ｆ】・赤
+989,Claire Coil・Black,克蕾爾腰甲・黑
+990,Claire F Coil・Black,克蕾爾腰甲【Ｆ】・黑
+991,Claire Coat・Black,克蕾爾腰衣・黑
+992,Claire F Coat・Black,克蕾爾腰衣【Ｆ】・黑
 993,Desert Coil,沙漠腰甲
 994,Desert F Coil,沙漠腰甲【Ｆ】
 995,Desert Coat,沙漠腰衣
@@ -1096,22 +1096,22 @@ index,source,target
 1094,フェサーF Coil,芙薩腰甲【Ｆ】
 1095,シアンス Coat,希安斯腰衣
 1096,シアンスF Coat,希安斯腰衣【Ｆ】
-1097,Gold Coil・Red,腰甲・金・赤
-1098,Gold F Coil・Red,腰甲【Ｆ】・金・赤
-1099,Gold Coat・Red,腰衣・金・赤
-1100,Gold F Coat・Red,腰衣【Ｆ】・金・赤
-1101,Gold Coil・Blue,腰甲・金・青
-1102,Gold F Coil・Blue,腰甲【Ｆ】・金・青
-1103,Gold Coat・Blue,腰衣・金・青
-1104,Gold F Coat・Blue,腰衣【Ｆ】・金・青
-1105,Gold Coil・Yellow,腰甲・金・黄
-1106,Gold F Coil・Yellow,腰甲【Ｆ】・金・黄
-1107,Gold Coat・Yellow,腰衣・金・黄
-1108,Gold F Coat・Yellow,腰衣【Ｆ】・金・黄
-1109,Gold Coil・Purple,腰甲・金・紫
-1110,Gold F Coil・Purple,腰甲【Ｆ】・金・紫
-1111,Gold Coat・Purple,腰衣・金・紫
-1112,Gold F Coat・Purple,腰衣【Ｆ】・金・紫
+1097,Gold Coil・Red,金腰甲・赤
+1098,Gold F Coil・Red,金腰甲【Ｆ】・赤
+1099,Gold Coat・Red,金腰衣・赤
+1100,Gold F Coat・Red,金腰衣【Ｆ】・赤
+1101,Gold Coil・Blue,金腰甲・青
+1102,Gold F Coil・Blue,金腰甲【Ｆ】・青
+1103,Gold Coat・Blue,金腰衣・青
+1104,Gold F Coat・Blue,金腰衣【Ｆ】・青
+1105,Gold Coil・Yellow,金腰甲・黄
+1106,Gold F Coil・Yellow,金腰甲【Ｆ】・黄
+1107,Gold Coat・Yellow,金腰衣・黄
+1108,Gold F Coat・Yellow,金腰衣【Ｆ】・黄
+1109,Gold Coil・Purple,金腰甲・紫
+1110,Gold F Coil・Purple,金腰甲【Ｆ】・紫
+1111,Gold Coat・Purple,金腰衣・紫
+1112,Gold F Coat・Purple,金腰衣【Ｆ】・紫
 1113,シデロ Coil,西德羅腰甲
 1114,シデロF Coil,西德羅腰甲【Ｆ】
 1115,オール Coil,奧爾腰甲
@@ -1142,8 +1142,8 @@ index,source,target
 1140,Bone L Coat,骨製腰衣【Ｌ】
 1141,Vespoid L Coat,巨蜂腰衣【Ｌ】
 1142,Diablos L Coat,角龍腰衣【Ｌ】
-1143,G・Guard R Coat Crimson,防禦腰衣【Ｇ】【Ｒ】・紅
-1144,G・Guard R Coat Crimson,防禦腰衣【Ｇ】【Ｒ】・紅
+1143,G・Guard R Coat Crimson,防禦腰衣【Ｒ】・紅
+1144,G・Guard R Coat Crimson,防禦腰衣【Ｒ】・紅
 1145,Hornetaur R Coat,巨甲蟲腰衣【Ｒ】
 1146,High Metal R Coat,上位金屬腰衣【Ｒ】
 1147,Rath Soul R Coat,火龍魂腰衣【Ｒ】
@@ -1152,9 +1152,9 @@ index,source,target
 1150,Gravios R Faulds,鎧龍腰甲【Ｒ】
 1151,Io R Faulds,伊歐腰甲【Ｒ】
 1152,Inari【腰当て】,稻荷腰當
-1153,Inari 覇【腰当て】,覇腰當
+1153,Inari 覇【腰当て】,稻荷腰當
 1154,Tamamo【腰当て】,玉藻腰當
-1155,Tamamo 覇【腰当て】,覇腰當
+1155,Tamamo 覇【腰当て】,玉藻腰當
 1156,コカロ Faulds,寇伽羅腰甲
 1157,コカロ Coat,寇伽羅腰衣
 1158,Shieri Faulds,夏伊爾伊腰甲
@@ -1249,12 +1249,12 @@ index,source,target
 1247,Arge F Coil,阿爾傑腰甲【Ｆ】
 1248,Arge Coat,阿爾傑腰衣
 1249,Arge F Coat,阿爾傑腰衣【Ｆ】
-1250,Akantor イッケク SP Black,霸龍腰甲【ＳＰ】
-1251,Akantor イッケク SP Red,霸龍腰甲【ＳＰ】
-1252,Akantor イッケク SP White,霸龍腰甲【ＳＰ】
-1253,Akantor クッコレ SP Black,霸龍腰甲【ＳＰ】
-1254,Akantor クッコレ SP Red,霸龍腰甲【ＳＰ】
-1255,Akantor クッコレ SP White,霸龍腰甲【ＳＰ】
+1250,Akantor イッケク SP Black,霸龍腰甲【ＳＰ】・黑
+1251,Akantor イッケク SP Red,霸龍腰甲【ＳＰ】・赤
+1252,Akantor イッケク SP White,霸龍腰甲【ＳＰ】・白
+1253,Akantor クッコレ SP Black,霸龍腰甲【ＳＰ】・黑
+1254,Akantor クッコレ SP Red,霸龍腰甲【ＳＰ】・赤
+1255,Akantor クッコレ SP White,霸龍腰甲【ＳＰ】・白
 1256,Gravios Coil SP Black,鎧龍腰甲【ＳＰ】・黑
 1257,Gravios Coil SP Blue,鎧龍腰甲【ＳＰ】・青
 1258,Gravios Coil SP Red,鎧龍腰甲【ＳＰ】・赤
@@ -1359,11 +1359,11 @@ index,source,target
 1357,Pharan F Coil・Blue,法藍腰甲【Ｆ】・青
 1358,Pharan Coat・Blue,法藍腰衣・青
 1359,Pharan F Coat・Blue,法藍腰衣【Ｆ】・青
-1360,Gold Cat F Coil,猫腰甲【Ｆ】・金
-1361,Gold Cat F Coat,猫腰衣【Ｆ】・金
-1362,Silver Cat テイル,猫腰甲
-1363,Silver Cat F Coil,猫腰甲【Ｆ】・銀
-1364,Silver Cat F Coat,猫腰衣【Ｆ】・銀
+1360,Gold Cat F Coil,金猫腰甲【Ｆ】
+1361,Gold Cat F Coat,金猫腰衣【Ｆ】
+1362,Silver Cat テイル,銀猫腰甲
+1363,Silver Cat F Coil,銀猫腰甲【Ｆ】
+1364,Silver Cat F Coat,銀猫腰衣【Ｆ】
 1365,ヴィン Waist,温腰甲
 1366,ヴィンF Waist,温腰甲【Ｆ】
 1367,ヴァンデ Waist,芙恩德腰甲
@@ -1638,8 +1638,8 @@ index,source,target
 1636,ダミー,(dummy)
 1637,ダミー,(dummy)
 1638,White Fatalis R Wing,白黑龍腰翼【Ｒ】
-1639,G・Lune R Coat,月腰衣【Ｇ】【Ｒ】
-1640,S・Sol R Coat,日腰衣【Ｓ】【Ｒ】
+1639,G・Lune R Coat,月腰衣【Ｒ】
+1640,S・Sol R Coat,S索倫腰衣【Ｒ】
 1641,Death Stench L Belly,死臭腹甲【Ｌ】
 1642,Leather L Belt,皮革腰帶【Ｌ】
 1643,C・ライトL Belt,拉伊托腰帶【Ｌ】
@@ -1702,10 +1702,10 @@ index,source,target
 1700,Bunny F Belt・Purple,兔腰帶【Ｆ】・紫
 1701,Bunny Coat・Purple,兔腰衣・紫
 1702,Bunny F Coat・Purple,兔腰衣【Ｆ】・紫
-1703,昇龍 Black Obi・White,昇龍帶・白・黑
-1704,昇龍F Black Obi・White,昇龍帶【Ｆ】・白・黑
-1705,波動 Black Obi・White,波動帶・白・黑
-1706,波動F Black Obi・White,波動帶【Ｆ】・白・黑
+1703,昇龍 Black Obi・White,昇龍帶・黑
+1704,昇龍F Black Obi・White,昇龍帶【Ｆ】・黑
+1705,波動 Black Obi・White,波動帶・黑
+1706,波動F Black Obi・White,波動帶【Ｆ】・黑
 1707,百裂 Waistband・Blue,百裂腰帶・青
 1708,百裂F Waistband・Blue,百裂腰帶【Ｆ】・青
 1709,気功 Waistband・Blue,気功腰帶・青
@@ -1718,36 +1718,36 @@ index,source,target
 1716,百裂F Waistband・Black,百裂腰帶【Ｆ】・黑
 1717,気功 Waistband・Black,気功腰帶・黑
 1718,気功F Waistband・Black,気功腰帶【Ｆ】・黑
-1719,昇龍 Black Obi・Yellow,昇龍帶・黄・黑
-1720,昇龍F Black Obi・Yellow,昇龍帶【Ｆ】・黄・黑
-1721,波動 Black Obi・Yellow,波動帶・黄・黑
-1722,波動F Black Obi・Yellow,波動帶【Ｆ】・黄・黑
+1719,昇龍 Black Obi・Yellow,昇龍帶・黑
+1720,昇龍F Black Obi・Yellow,昇龍帶【Ｆ】・黑
+1721,波動 Black Obi・Yellow,波動帶・黑
+1722,波動F Black Obi・Yellow,波動帶【Ｆ】・黑
 1723,百裂 Waistband・Yellow,百裂腰帶・黄
 1724,百裂F Waistband・Yellow,百裂腰帶【Ｆ】・黄
 1725,気功 Waistband・Yellow,気功腰帶・黄
 1726,気功F Waistband・Yellow,気功腰帶【Ｆ】・黄
-1727,昇龍 Black Obi・Purple,昇龍帶・紫・黑
-1728,昇龍F Black Obi・Purple,昇龍帶【Ｆ】・紫・黑
-1729,波動 Black Obi・Purple,波動帶・紫・黑
-1730,波動F Black Obi・Purple,波動帶【Ｆ】・紫・黑
+1727,昇龍 Black Obi・Purple,昇龍帶・黑
+1728,昇龍F Black Obi・Purple,昇龍帶【Ｆ】・黑
+1729,波動 Black Obi・Purple,波動帶・黑
+1730,波動F Black Obi・Purple,波動帶【Ｆ】・黑
 1731,百裂 Waistband・Green,百裂腰帶・緑
 1732,百裂F Waistband・Green,百裂腰帶【Ｆ】・緑
 1733,気功 Waistband・Green,気功腰帶・緑
 1734,気功F Waistband・Green,気功腰帶【Ｆ】・緑
-1735,Steno Elytra ー・Orange,水竜翅腰
-1736,Steno F Elytra ー・Orange,水竜翅腰【Ｆ】
+1735,Steno Elytra ー・Orange,水竜翅腰・橙
+1736,Steno F Elytra ー・Orange,水竜翅腰【Ｆ】・橙
 1737,Steno Coat・Orange,水竜腰衣・橙
 1738,Steno F Coat・Orange,水竜腰衣【Ｆ】・橙
-1739,Steno Elytra ー・Peach,水竜翅腰
-1740,Steno F Elytra ー・Peach,水竜翅腰【Ｆ】
+1739,Steno Elytra ー・Peach,水竜翅腰・桃
+1740,Steno F Elytra ー・Peach,水竜翅腰【Ｆ】・桃
 1741,Steno Coat・Peach,水竜腰衣・桃
 1742,Steno F Coat・Peach,水竜腰衣【Ｆ】・桃
-1743,Steno Elytra ー・Blue,水竜翅腰
-1744,Steno F Elytra ー・Blue,水竜翅腰【Ｆ】
+1743,Steno Elytra ー・Blue,水竜翅腰・青
+1744,Steno F Elytra ー・Blue,水竜翅腰【Ｆ】・青
 1745,Steno Coat・Blue,水竜腰衣・青
 1746,Steno F Coat・Blue,水竜腰衣【Ｆ】・青
-1747,Steno Elytra ー・Red,水竜翅腰
-1748,Steno F Elytra ー・Red,水竜翅腰【Ｆ】
+1747,Steno Elytra ー・Red,水竜翅腰・赤
+1748,Steno F Elytra ー・Red,水竜翅腰【Ｆ】・赤
 1749,Steno Coat・Red,水竜腰衣・赤
 1750,Steno F Coat・Red,水竜腰衣【Ｆ】・赤
 1751,Jumpin' Belt,傑烏姆伊腰帶
@@ -1813,10 +1813,10 @@ index,source,target
 1811,ダミー,(dummy)
 1812,Kagura FX【腰当て】,神樂腰當【ＦＸ】
 1813,Kamiza FX【腰当て】,上座腰當【ＦＸ】
-1814,Blue Sky Obi,蒼天帶
-1815,Blue Sky Obi・魁,魁帶・青
-1816,Welkin Obi,蒼穹帶
-1817,Welkin Obi・魁,魁帶
+1814,Blue Sky Obi,蒼天帶・天
+1815,Blue Sky Obi・魁,蒼天帶魁・天
+1816,Welkin Obi,穹蒼帶
+1817,Welkin Obi・魁,穹蒼帶魁
 1818,Breo Faulds,布艾腰甲
 1819,Breo F Faulds,布艾腰甲【Ｆ】
 1820,Vinen Waist,芙伊恩艾腰甲
@@ -1887,32 +1887,32 @@ index,source,target
 1885,蘭蛮の Obi・Gold,蘭蛮の帶・金
 1886,竜巻 Colour Belt・Black,竜巻腰帶・黑
 1887,竜巻F Colour Belt・Black,竜巻腰帶【Ｆ】・黑
-1888,True 空 Colour Belt・Black,空腰帶・黑
-1889,True 空F Colour Belt・Black,空腰帶【Ｆ】・黑
+1888,True 空 Colour Belt・Black,真空腰帶・黑
+1889,True 空F Colour Belt・Black,真空腰帶【Ｆ】・黑
 1890,千裂 Waistband・Black,千裂腰帶・黑
 1891,千裂F Waistband・Black,千裂腰帶【Ｆ】・黑
 1892,覇山 Waistband・Black,覇山腰帶・黑
 1893,覇山F Waistband・Black,覇山腰帶【Ｆ】・黑
 1894,竜巻 Colour Belt・Tea,竜巻腰帶・茶
 1895,竜巻F Colour Belt・Tea,竜巻腰帶【Ｆ】・茶
-1896,True 空 Colour Belt・Tea,空腰帶・茶
-1897,True 空F Colour Belt・Tea,空腰帶【Ｆ】・茶
+1896,True 空 Colour Belt・Tea,真空腰帶・茶
+1897,True 空F Colour Belt・Tea,真空腰帶【Ｆ】・茶
 1898,千裂 Waistband・Purple,千裂腰帶・紫
 1899,千裂F Waistband・Purple,千裂腰帶【Ｆ】・紫
 1900,覇山 Waistband・Purple,覇山腰帶・紫
 1901,覇山F Waistband・Purple,覇山腰帶【Ｆ】・紫
 1902,竜巻 Colour Belt・White,竜巻腰帶・白
 1903,竜巻F Colour Belt・White,竜巻腰帶【Ｆ】・白
-1904,True 空 Colour Belt・White,空腰帶・白
-1905,True 空F Colour Belt・White,空腰帶【Ｆ】・白
+1904,True 空 Colour Belt・White,真空腰帶・白
+1905,True 空F Colour Belt・White,真空腰帶【Ｆ】・白
 1906,千裂 Waistband・White,千裂腰帶・白
 1907,千裂F Waistband・White,千裂腰帶【Ｆ】・白
 1908,覇山 Waistband・White,覇山腰帶・白
 1909,覇山F Waistband・White,覇山腰帶【Ｆ】・白
 1910,竜巻 Colour Belt・Blue,竜巻腰帶・青
 1911,竜巻F Colour Belt・Blue,竜巻腰帶【Ｆ】・青
-1912,True 空 Colour Belt・Blue,空腰帶・青
-1913,True 空F Colour Belt・Blue,空腰帶【Ｆ】・青
+1912,True 空 Colour Belt・Blue,真空腰帶・青
+1913,True 空F Colour Belt・Blue,真空腰帶【Ｆ】・青
 1914,千裂 Waistband・Green,千裂腰帶・緑
 1915,千裂F Waistband・Green,千裂腰帶【Ｆ】・緑
 1916,覇山 Waistband・Green,覇山腰帶・緑
@@ -1929,10 +1929,10 @@ index,source,target
 1927,旋風F Black Obi,旋風帶【Ｆ】・黑
 1928,巴 Black Obi,巴帶・黑
 1929,巴F Black Obi,巴帶【Ｆ】・黑
-1930,Heaven 空 Waistband,空腰帶・天
-1931,Heaven 空F Waistband,空腰帶【Ｆ】・天
-1932,Heaven 昇 Waistband,昇腰帶・天
-1933,Heaven 昇F Waistband,昇腰帶【Ｆ】・天
+1930,Heaven 空 Waistband,天穹腰帶
+1931,Heaven 空F Waistband,天穹腰帶【Ｆ】
+1932,Heaven 昇 Waistband,昇天腰帶
+1933,Heaven 昇F Waistband,昇天腰帶【Ｆ】
 1934,Jeamu Coil,傑艾姆烏腰甲
 1935,Jeamu F Coil,傑艾姆烏腰甲【Ｆ】
 1936,Amyusu Coil,阿姆烏斯腰甲
@@ -1965,7 +1965,7 @@ index,source,target
 1963,Buran F Faulds,布烏爾阿腰甲【Ｆ】
 1964,Zwinger Coil,茲伊恩艾腰甲
 1965,Zwinger Coat,茲伊恩艾腰衣
-1966,Demon Lord ノ虎布・魁,惡魔魁腰甲
+1966,Demon Lord ノ虎布・魁,魔王腰甲魁
 1967,童子ノ虎布・魁,童子虎布魁腰甲
 1968,Melan F Faulds,紫黑腰甲【Ｆ】
 1969,Melan F Coat,紫黑腰衣【Ｆ】
@@ -2100,7 +2100,7 @@ index,source,target
 2098,Diina Waist,德伊恩阿腰甲
 2099,Diina F Waist,德伊恩阿腰甲【Ｆ】
 2100,True Shadow Obi,真影帶
-2101,True Shadow Obi・魁,魁帶
+2101,True Shadow Obi・魁,真影帶魁
 2102,翔影ノ Obi,翔影帶
 2103,翔影ノ Obi・魁,翔影魁帶
 2104,Black Tiger Obi,黑虎帶
@@ -2119,10 +2119,10 @@ index,source,target
 2117,Galitos F Belt・Black,加里托斯腰帶【Ｆ】・黑
 2118,Galitos Coat・Black,加里托斯腰衣・黑
 2119,Galitos F Coat・Black,加里托斯腰衣【Ｆ】・黑
-2120,Galitos Belt・Water,加里托斯水腰帶
-2121,Galitos F Belt・Water,加里托斯水腰帶【Ｆ】
-2122,Galitos Coat・Water,加里托斯水腰衣
-2123,Galitos F Coat・Water,加里托斯水腰衣【Ｆ】
+2120,Galitos Belt・Water,加里托斯腰帶・水
+2121,Galitos F Belt・Water,加里托斯腰帶【Ｆ】・水
+2122,Galitos Coat・Water,加里托斯腰衣・水
+2123,Galitos F Coat・Water,加里托斯腰衣【Ｆ】・水
 2124,Riburi Coil,里布里腰甲
 2125,Riburi F Coil,里布里腰甲【Ｆ】
 2126,Riburi FZ Coil,里布里腰甲【ＦＺ】
@@ -2155,20 +2155,20 @@ index,source,target
 2153,サザールF Coat,薩札魯腰衣【Ｆ】
 2154,Truss Belt Blue,桁架腰帶・青
 2155,Truss F Belt Blue,桁架腰帶【Ｆ】・青
-2156,Truss サッシュ Blue,桁架腰甲
-2157,Truss Fサッシュ Blue,桁架腰甲
+2156,Truss サッシュ Blue,桁架腰甲・青
+2157,Truss Fサッシュ Blue,桁架腰甲・青
 2158,Truss Belt Red,桁架腰帶・赤
 2159,Truss F Belt Red,桁架腰帶【Ｆ】・赤
-2160,Truss サッシュ Red,桁架腰甲
-2161,Truss Fサッシュ Red,桁架腰甲
+2160,Truss サッシュ Red,桁架腰甲・赤
+2161,Truss Fサッシュ Red,桁架腰甲・赤
 2162,Truss Belt White,桁架腰帶・白
 2163,Truss F Belt White,桁架腰帶【Ｆ】・白
-2164,Truss サッシュ White,桁架腰甲
-2165,Truss Fサッシュ White,桁架腰甲
+2164,Truss サッシュ White,桁架腰甲・白
+2165,Truss Fサッシュ White,桁架腰甲・白
 2166,Truss Belt Purple,桁架腰帶・紫
 2167,Truss F Belt Purple,桁架腰帶【Ｆ】・紫
-2168,Truss サッシュ Purple,桁架腰甲
-2169,Truss Fサッシュ Purple,桁架腰甲
+2168,Truss サッシュ Purple,桁架腰甲・紫
+2169,Truss Fサッシュ Purple,桁架腰甲・紫
 2170,Demon Coat Blue,惡魔腰衣・青
 2171,Demon F Coat Blue,惡魔腰衣【Ｆ】・青
 2172,Chaos Coat Blue,混沌腰衣・青
@@ -2185,20 +2185,20 @@ index,source,target
 2183,Demon F Coat White,惡魔腰衣【Ｆ】・白
 2184,Chaos Coat White,混沌腰衣・白
 2185,Chaos F Coat White,混沌腰衣【Ｆ】・白
-2186,Shadow Wing Purple,暗影腰翼・紫
-2187,Shadow F Wing Purple,暗影腰翼【Ｆ】・紫
+2186,Shadow Wing Purple,影腰翼・紫
+2187,Shadow F Wing Purple,影腰翼【Ｆ】・紫
 2188,Soul Wing Purple,魂腰翼・紫
 2189,Soul F Wing Purple,魂腰翼【Ｆ】・紫
-2190,Shadow Wing Red,暗影腰翼・赤
-2191,Shadow F Wing Red,暗影腰翼【Ｆ】・赤
+2190,Shadow Wing Red,影腰翼・赤
+2191,Shadow F Wing Red,影腰翼【Ｆ】・赤
 2192,Soul Wing Red,魂腰翼・赤
 2193,Soul F Wing Red,魂腰翼【Ｆ】・赤
-2194,Shadow Wing Green,暗影腰翼・緑
-2195,Shadow F Wing Green,暗影腰翼【Ｆ】・緑
+2194,Shadow Wing Green,影腰翼・緑
+2195,Shadow F Wing Green,影腰翼【Ｆ】・緑
 2196,Soul Wing Green,魂腰翼・緑
 2197,Soul F Wing Green,魂腰翼【Ｆ】・緑
-2198,Shadow Wing White,暗影腰翼・白
-2199,Shadow F Wing White,暗影腰翼【Ｆ】・白
+2198,Shadow Wing White,影腰翼・白
+2199,Shadow F Wing White,影腰翼【Ｆ】・白
 2200,Soul Wing White,魂腰翼・白
 2201,Soul F Wing White,魂腰翼【Ｆ】・白
 2202,フィディ Faulds,芙德腰甲
@@ -2227,7 +2227,7 @@ index,source,target
 2225,ロークF Faulds,洛可腰甲【Ｆ】
 2226,ロークF Coat,洛可腰衣【Ｆ】
 2227,Buruho F Coil・Blue,布烏爾烏腰甲【Ｆ】・青
-2228,マー Gear F Coat・Blue,格艾爾腰衣【Ｆ】
+2228,マー Gear F Coat・Blue,瑪爾機甲腰衣【Ｆ】・青
 2229,Gogomoa FX Faulds,跳緋獸腰甲【ＦＸ】
 2230,Gogomoa FX Coat,跳緋獸腰衣【ＦＸ】
 2231,Kuraaji FX Faulds,克烏爾阿腰甲【ＦＸ】
@@ -2271,7 +2271,7 @@ index,source,target
 2269,Gravios RX Faulds,鎧龍腰甲
 2270,Bone RX Coat,骨製腰衣
 2271,White Snake Obi,白蛇帶
-2272,White Snake Obi・魁,魁帶・白
+2272,White Snake Obi・魁,白蛇帶魁
 2273,White 鳥ノ Obi,鳥帶・白
 2274,White 鳥ノ Obi・魁,鳥魁帶・白
 2275,Kakabu Coil,克阿克阿腰甲
@@ -2300,18 +2300,18 @@ index,source,target
 2298,Rutare F Faulds,魯塔雷腰甲【Ｆ】
 2299,Rutare Coat,魯塔雷腰衣
 2300,Rutare F Coat,魯塔雷腰衣【Ｆ】
-2301,Rolling Flow の腰当て,の腰當
-2302,Rolling Flow の腰当て・魁,の魁腰當
+2301,Rolling Flow の腰当て,滾流腰當
+2302,Rolling Flow の腰当て・魁,滾流腰當魁
 2303,旋転の腰当て,旋転の腰當
-2304,旋転の腰当て・魁,旋転の魁腰當
+2304,旋転の腰当て・魁,旋転の腰當魁
 2305,厳岩の腰当て,厳岩の腰當
-2306,厳岩の腰当て・魁,厳岩の魁腰當
+2306,厳岩の腰当て・魁,厳岩の腰當魁
 2307,不破の腰当て,不破の腰當
-2308,不破の腰当て・魁,不破の魁腰當
+2308,不破の腰当て・魁,不破の腰當魁
 2309,無想の腰当て,無想の腰當
-2310,無想の腰当て・魁,無想の魁腰當
+2310,無想の腰当て・魁,無想の腰當魁
 2311,俊激の Obi,俊激の帶
-2312,俊激の Obi・魁,俊激の魁帶
+2312,俊激の Obi・魁,俊激の帶魁
 2313,Suifudo Coil,斯烏芙烏腰甲
 2314,Suifudo F Coil,斯烏芙烏腰甲【Ｆ】
 2315,Merodesu Coil,姆艾爾歐腰甲
@@ -2355,10 +2355,10 @@ index,source,target
 2353,Suriito FZ Coat・Silver,斯里托腰衣【ＦＺ】・銀
 2354,Suriito FZ Coat・Red,斯里托腰衣【ＦＺ】・赤
 2355,Suriito FZ Coat・Blue,斯里托腰衣【ＦＺ】・青
-2356,Steno FZ Elytra ー・Orange,水竜翅腰【ＦＺ】
-2357,Steno FZ Elytra ー・Peach,水竜翅腰【ＦＺ】
-2358,Steno FZ Elytra ー・Blue,水竜翅腰【ＦＺ】
-2359,Steno FZ Elytra ー・Red,水竜翅腰【ＦＺ】
+2356,Steno FZ Elytra ー・Orange,水竜翅腰【ＦＺ】・橙
+2357,Steno FZ Elytra ー・Peach,水竜翅腰【ＦＺ】・桃
+2358,Steno FZ Elytra ー・Blue,水竜翅腰【ＦＺ】・青
+2359,Steno FZ Elytra ー・Red,水竜翅腰【ＦＺ】・赤
 2360,Steno FZ Coat・Orange,水竜腰衣【ＦＺ】・橙
 2361,Steno FZ Coat・Peach,水竜腰衣【ＦＺ】・桃
 2362,Steno FZ Coat・Blue,水竜腰衣【ＦＺ】・青
@@ -2374,11 +2374,11 @@ index,source,target
 2372,Galitos FZ Belt・Tea,加里托斯腰帶【ＦＺ】・茶
 2373,Galitos FZ Belt・Red,加里托斯腰帶【ＦＺ】・赤
 2374,Galitos FZ Belt・Black,加里托斯腰帶【ＦＺ】・黑
-2375,Galitos FZ Belt・Water,加里托斯水腰帶【ＦＺ】
+2375,Galitos FZ Belt・Water,加里托斯腰帶【ＦＺ】・水
 2376,Galitos FZ Coat・Tea,加里托斯腰衣【ＦＺ】・茶
 2377,Galitos FZ Coat・Red,加里托斯腰衣【ＦＺ】・赤
 2378,Galitos FZ Coat・Black,加里托斯腰衣【ＦＺ】・黑
-2379,Galitos FZ Coat・Water,加里托斯水腰衣【ＦＺ】
+2379,Galitos FZ Coat・Water,加里托斯腰衣【ＦＺ】・水
 2380,Beil F Reflector,貝爾反射腰甲【Ｆ】
 2381,ダミー,(dummy)
 2382,Jess Faulds,傑斯腰甲
@@ -2485,12 +2485,12 @@ index,source,target
 2483,Ruko Wing SP White,極龍腰翼【ＳＰ】・白
 2484,Ruko Wing SP Blue,極龍腰翼【ＳＰ】・青
 2485,Ruko Wing SP Red,極龍腰翼【ＳＰ】・赤
-2486,Ruko テイル SP White,極龍腰甲【ＳＰ】
-2487,Ruko テイル SP Blue,極龍腰甲【ＳＰ】
-2488,Ruko テイル SP Red,極龍腰甲【ＳＰ】
-2489,Comrade Belt SP White Red,戰友腰帶【ＳＰ】・赤・白
-2490,Comrade Belt SP White Blue,戰友腰帶【ＳＰ】・青・白
-2491,Comrade Belt SP White Yellow,戰友腰帶【ＳＰ】・黄・白
+2486,Ruko テイル SP White,極龍腰甲【ＳＰ】・白
+2487,Ruko テイル SP Blue,極龍腰甲【ＳＰ】・青
+2488,Ruko テイル SP Red,極龍腰甲【ＳＰ】・赤
+2489,Comrade Belt SP White Red,戰友腰帶【ＳＰ】・白
+2490,Comrade Belt SP White Blue,戰友腰帶【ＳＰ】・白
+2491,Comrade Belt SP White Yellow,戰友腰帶【ＳＰ】・白
 2492,Rubellite Coil,爾烏布艾腰甲
 2493,Rubellite F Coil,爾烏布艾腰甲【Ｆ】
 2494,Rubellite FX Coil,爾烏布艾腰甲【ＦＸ】
@@ -2525,9 +2525,9 @@ index,source,target
 2523,Turquoise F Coat,緑松石腰衣【Ｆ】
 2524,Turquoise FX Coat,緑松石腰衣【ＦＸ】
 2525,Valued Word Obi,珍言帶
-2526,Valued Word Obi・魁,魁帶
-2527,Valued Word Obi・Smart,珍言機靈帶
-2528,Valued Word Obi・Flower,芙阿爾烏帶
+2526,Valued Word Obi・魁,珍言帶魁
+2527,Valued Word Obi・Smart,珍言帶
+2528,Valued Word Obi・Flower,珍言帶
 2529,式部ノ Obi,式部帶
 2530,式部ノ Obi・魁,式部魁帶
 2531,式部ノ Obi・Smart,機靈帶
@@ -2556,8 +2556,8 @@ index,source,target
 2554,Strega HC Coat,魔女腰衣【ＨＣ】
 2555,Zaakaa HC Coil,茲阿克阿腰甲【ＨＣ】
 2556,Chaser HC Belt,追撃腰帶【ＨＣ】
-2557,Demon Lord ノ虎布・Extreme,惡魔腰甲
-2558,Demon Lord ノ虎布・Heaven,惡魔腰甲・天
+2557,Demon Lord ノ虎布・Extreme,魔王腰甲
+2558,Demon Lord ノ虎布・Heaven,魔王天腰甲
 2559,童子ノ虎布・Extreme,童子虎布腰甲
 2560,童子ノ虎布・Heaven,童子虎布腰甲・天
 2561,アナキF Waist,阿納基腰甲【Ｆ】
@@ -2566,7 +2566,7 @@ index,source,target
 2564,アナキF Belt,阿納基腰帶【Ｆ】
 2565,アナキFY Belt,阿納基腰帶
 2566,アナキHC Belt,阿納基腰帶【ＨＣ】
-2567,Royal FY Coil,爾歐伊阿腰甲
+2567,Royal FY Coil,王室腰甲
 2568,Royal HC Coil,王室腰甲【ＨＣ】
 2569,Lord FY Belt,爾歐爾腰帶
 2570,Lord HC Belt,爾歐爾腰帶【ＨＣ】
@@ -2587,12 +2587,12 @@ index,source,target
 2585,Ceanataur RX Faulds,鎌蟹腰甲
 2586,Espinas RX Navel,棘龍臍甲
 2587,Monodevil RX Coat,姆歐恩歐腰衣
-2588,Cayssis Coil Water,凱西斯水腰甲
-2589,Cayssis F Coil Water,凱西斯水腰甲【Ｆ】
-2590,Cayssis FZ Coil Water,凱西斯水腰甲【ＦＺ】
-2591,Cayssis Coat Water,凱西斯水腰衣
-2592,Cayssis F Coat Water,凱西斯水腰衣【Ｆ】
-2593,Cayssis FZ Coat Water,凱西斯水腰衣【ＦＺ】
+2588,Cayssis Coil Water,凱西斯腰甲・水
+2589,Cayssis F Coil Water,凱西斯腰甲【Ｆ】・水
+2590,Cayssis FZ Coil Water,凱西斯腰甲【ＦＺ】・水
+2591,Cayssis Coat Water,凱西斯腰衣・水
+2592,Cayssis F Coat Water,凱西斯腰衣【Ｆ】・水
+2593,Cayssis FZ Coat Water,凱西斯腰衣【ＦＺ】・水
 2594,Cayssis Coil Red,凱西斯腰甲・赤
 2595,Cayssis F Coil Red,凱西斯腰甲【Ｆ】・赤
 2596,Cayssis FZ Coil Red,凱西斯腰甲【ＦＺ】・赤
@@ -2611,10 +2611,10 @@ index,source,target
 2609,Cayssis Coat Orange,凱西斯腰衣・橙
 2610,Cayssis F Coat Orange,凱西斯腰衣【Ｆ】・橙
 2611,Cayssis FZ Coat Orange,凱西斯腰衣【ＦＺ】・橙
-2612,Rolling Sky の腰当て,の腰當
-2613,Rolling Sky の腰当て・魁,の魁腰當
-2614,Rolling Earth の腰当て,の腰當・地
-2615,Rolling Earth の腰当て・魁,の魁腰當・地
+2612,Rolling Sky の腰当て,滾天腰當・天
+2613,Rolling Sky の腰当て・魁,滾天腰當魁・天
+2614,Rolling Earth の腰当て,滾地腰當
+2615,Rolling Earth の腰当て・魁,滾地腰當魁
 2616,Cubie Coil,方塊腰甲
 2617,Cubie F Coil,方塊腰甲【Ｆ】
 2618,Cubie FZ Coil,方塊腰甲【ＦＺ】
@@ -2731,10 +2731,10 @@ index,source,target
 2729,Riot FZ Coat,暴動腰衣【ＦＺ】
 2730,Rutare FZ Faulds,魯塔雷腰甲【ＦＺ】
 2731,Rutare FZ Coat,魯塔雷腰衣【ＦＺ】
-2732,Rolling Flow の腰当て・Elegant,の腰當
+2732,Rolling Flow の腰当て・Elegant,滾流腰當
 2733,旋転の腰当て・Elegant,旋転の腰當
-2734,Rolling Sky の腰当て・Elegant,の腰當
-2735,Rolling Earth の腰当て・Elegant,の腰當・地
+2734,Rolling Sky の腰当て・Elegant,滾天腰當・天
+2735,Rolling Earth の腰当て・Elegant,滾地腰當
 2736,Odiva Faulds,奧蒂瓦腰甲
 2737,Odiva F Faulds,奧蒂瓦腰甲【Ｆ】
 2738,Odiva FX Faulds,奧蒂瓦腰甲【ＦＸ】
@@ -2951,13 +2951,13 @@ index,source,target
 2949,Suriito HC Coat・Red,斯里托腰衣【ＨＣ】・赤
 2950,Suriito HC Coil・Blue,斯里托腰甲【ＨＣ】・青
 2951,Suriito HC Coat・Blue,斯里托腰衣【ＨＣ】・青
-2952,Steno HC Elytra ー・Orange,水竜翅腰【ＨＣ】
+2952,Steno HC Elytra ー・Orange,水竜翅腰【ＨＣ】・橙
 2953,Steno HC Coat・Orange,水竜腰衣【ＨＣ】・橙
-2954,Steno HC Elytra ー・Peach,水竜翅腰【ＨＣ】
+2954,Steno HC Elytra ー・Peach,水竜翅腰【ＨＣ】・桃
 2955,Steno HC Coat・Peach,水竜腰衣【ＨＣ】・桃
-2956,Steno HC Elytra ー・Blue,水竜翅腰【ＨＣ】
+2956,Steno HC Elytra ー・Blue,水竜翅腰【ＨＣ】・青
 2957,Steno HC Coat・Blue,水竜腰衣【ＨＣ】・青
-2958,Steno HC Elytra ー・Red,水竜翅腰【ＨＣ】
+2958,Steno HC Elytra ー・Red,水竜翅腰【ＨＣ】・赤
 2959,Steno HC Coat・Red,水竜腰衣【ＨＣ】・赤
 2960,Rage FZ Coil,憤怒腰甲【ＦＺ】
 2961,Rage HC Coil,憤怒腰甲【ＨＣ】
@@ -3247,16 +3247,16 @@ index,source,target
 3245,Gloria FZ Coat・Blue,榮光腰衣【ＦＺ】・青
 3246,Gloria HC Coat・Blue,榮光腰衣【ＨＣ】・青
 3247,Gloria HS Coat・Blue,榮光腰衣【ＨＳ】・青
-3248,Gloria Coil・Water,榮光水腰甲
-3249,Gloria F Coil・Water,榮光水腰甲【Ｆ】
-3250,Gloria FZ Coil・Water,榮光水腰甲【ＦＺ】
-3251,Gloria HC Coil・Water,榮光水腰甲【ＨＣ】
-3252,Gloria HS Coil・Water,榮光水腰甲【ＨＳ】
-3253,Gloria Coat・Water,榮光水腰衣
-3254,Gloria F Coat・Water,榮光水腰衣【Ｆ】
-3255,Gloria FZ Coat・Water,榮光水腰衣【ＦＺ】
-3256,Gloria HC Coat・Water,榮光水腰衣【ＨＣ】
-3257,Gloria HS Coat・Water,榮光水腰衣【ＨＳ】
+3248,Gloria Coil・Water,榮光腰甲・水
+3249,Gloria F Coil・Water,榮光腰甲【Ｆ】・水
+3250,Gloria FZ Coil・Water,榮光腰甲【ＦＺ】・水
+3251,Gloria HC Coil・Water,榮光腰甲【ＨＣ】・水
+3252,Gloria HS Coil・Water,榮光腰甲【ＨＳ】・水
+3253,Gloria Coat・Water,榮光腰衣・水
+3254,Gloria F Coat・Water,榮光腰衣【Ｆ】・水
+3255,Gloria FZ Coat・Water,榮光腰衣【ＦＺ】・水
+3256,Gloria HC Coat・Water,榮光腰衣【ＨＣ】・水
+3257,Gloria HS Coat・Water,榮光腰衣【ＨＳ】・水
 3258,Gloria Coil・Red,榮光腰甲・赤
 3259,Gloria F Coil・Red,榮光腰甲【Ｆ】・赤
 3260,Gloria FZ Coil・Red,榮光腰甲【ＦＺ】・赤
@@ -3267,86 +3267,86 @@ index,source,target
 3265,Gloria FZ Coat・Red,榮光腰衣【ＦＺ】・赤
 3266,Gloria HC Coat・Red,榮光腰衣【ＨＣ】・赤
 3267,Gloria HS Coat・Red,榮光腰衣【ＨＳ】・赤
-3268,Shinryu Black Obi・Red,神龍帶・赤・黑
-3269,Shinryu F Black Obi・Red,神龍帶【Ｆ】・赤・黑
-3270,Shinryu FZ Black Obi・Red,神龍帶【ＦＺ】・赤・黑
-3271,Shinryu HC Black Obi・Red,神龍帶【ＨＣ】・赤・黑
-3272,Shinryu HS Black Obi・Red,神龍帶【ＨＳ】・赤・黑
-3273,Reppa Black Obi・Red,烈破帶・赤・黑
-3274,Reppa F Black Obi・Red,烈破帶【Ｆ】・赤・黑
-3275,Reppa FZ Black Obi・Red,烈破帶【ＦＺ】・赤・黑
-3276,Reppa HC Black Obi・Red,烈破帶【ＨＣ】・赤・黑
-3277,Reppa HS Black Obi・Red,烈破帶【ＨＳ】・赤・黑
-3278,Shinryu Black Obi・White,神龍帶・白・黑
-3279,Shinryu F Black Obi・White,神龍帶【Ｆ】・白・黑
-3280,Shinryu FZ Black Obi・White,神龍帶【ＦＺ】・白・黑
-3281,Shinryu HC Black Obi・White,神龍帶【ＨＣ】・白・黑
-3282,Shinryu HS Black Obi・White,神龍帶【ＨＳ】・白・黑
-3283,Reppa Black Obi・White,烈破帶・白・黑
-3284,Reppa F Black Obi・White,烈破帶【Ｆ】・白・黑
-3285,Reppa FZ Black Obi・White,烈破帶【ＦＺ】・白・黑
-3286,Reppa HC Black Obi・White,烈破帶【ＨＣ】・白・黑
-3287,Reppa HS Black Obi・White,烈破帶【ＨＳ】・白・黑
-3288,Shinryu Black Obi・Purple,神龍帶・紫・黑
-3289,Shinryu F Black Obi・Purple,神龍帶【Ｆ】・紫・黑
-3290,Shinryu FZ Black Obi・Purple,神龍帶【ＦＺ】・紫・黑
-3291,Shinryu HC Black Obi・Purple,神龍帶【ＨＣ】・紫・黑
-3292,Shinryu HS Black Obi・Purple,神龍帶【ＨＳ】・紫・黑
-3293,Reppa Black Obi・Purple,烈破帶・紫・黑
-3294,Reppa F Black Obi・Purple,烈破帶【Ｆ】・紫・黑
-3295,Reppa FZ Black Obi・Purple,烈破帶【ＦＺ】・紫・黑
-3296,Reppa HC Black Obi・Purple,烈破帶【ＨＣ】・紫・黑
-3297,Reppa HS Black Obi・Purple,烈破帶【ＨＳ】・紫・黑
-3298,Shinryu Black Obi・Yellow,神龍帶・黄・黑
-3299,Shinryu F Black Obi・Yellow,神龍帶【Ｆ】・黄・黑
-3300,Shinryu FZ Black Obi・Yellow,神龍帶【ＦＺ】・黄・黑
-3301,Shinryu HC Black Obi・Yellow,神龍帶【ＨＣ】・黄・黑
-3302,Shinryu HS Black Obi・Yellow,神龍帶【ＨＳ】・黄・黑
-3303,Reppa Black Obi・Yellow,烈破帶・黄・黑
-3304,Reppa F Black Obi・Yellow,烈破帶【Ｆ】・黄・黑
-3305,Reppa FZ Black Obi・Yellow,烈破帶【ＦＺ】・黄・黑
-3306,Reppa HC Black Obi・Yellow,烈破帶【ＨＣ】・黄・黑
-3307,Reppa HS Black Obi・Yellow,烈破帶【ＨＳ】・黄・黑
-3308,Cannon Will・Water,克阿恩歐腰甲
-3309,Cannon F Will・Water,克阿恩歐腰甲【Ｆ】
-3310,Cannon FZ Will・Water,克阿恩歐腰甲【ＦＺ】
-3311,Cannon HC Will・Water,克阿恩歐腰甲【ＨＣ】
-3312,Cannon HS Will・Water,克阿恩歐腰甲【ＨＳ】
-3313,Axel Will・Water,阿克斯艾腰甲
-3314,Axel F Will・Water,阿克斯艾腰甲【Ｆ】
-3315,Axel FZ Will・Water,阿克斯艾腰甲【ＦＺ】
-3316,Axel HC Will・Water,阿克斯艾腰甲【ＨＣ】
-3317,Axel HS Will・Water,阿克斯艾腰甲【ＨＳ】
-3318,Cannon Will・Green,克阿恩歐腰甲・緑
-3319,Cannon F Will・Green,克阿恩歐腰甲【Ｆ】・緑
-3320,Cannon FZ Will・Green,克阿恩歐腰甲【ＦＺ】・緑
-3321,Cannon HC Will・Green,克阿恩歐腰甲【ＨＣ】・緑
-3322,Cannon HS Will・Green,克阿恩歐腰甲【ＨＳ】・緑
-3323,Axel Will・Green,阿克斯艾腰甲・緑
-3324,Axel F Will・Green,阿克斯艾腰甲【Ｆ】・緑
-3325,Axel FZ Will・Green,阿克斯艾腰甲【ＦＺ】・緑
-3326,Axel HC Will・Green,阿克斯艾腰甲【ＨＣ】・緑
-3327,Axel HS Will・Green,阿克斯艾腰甲【ＨＳ】・緑
-3328,Cannon Will・Peach,克阿恩歐腰甲・桃
-3329,Cannon F Will・Peach,克阿恩歐腰甲【Ｆ】・桃
-3330,Cannon FZ Will・Peach,克阿恩歐腰甲【ＦＺ】・桃
-3331,Cannon HC Will・Peach,克阿恩歐腰甲【ＨＣ】・桃
-3332,Cannon HS Will・Peach,克阿恩歐腰甲【ＨＳ】・桃
-3333,Axel Will・Peach,阿克斯艾腰甲・桃
-3334,Axel F Will・Peach,阿克斯艾腰甲【Ｆ】・桃
-3335,Axel FZ Will・Peach,阿克斯艾腰甲【ＦＺ】・桃
-3336,Axel HC Will・Peach,阿克斯艾腰甲【ＨＣ】・桃
-3337,Axel HS Will・Peach,阿克斯艾腰甲【ＨＳ】・桃
-3338,Cannon Will・Purple,克阿恩歐腰甲・紫
-3339,Cannon F Will・Purple,克阿恩歐腰甲【Ｆ】・紫
-3340,Cannon FZ Will・Purple,克阿恩歐腰甲【ＦＺ】・紫
-3341,Cannon HC Will・Purple,克阿恩歐腰甲【ＨＣ】・紫
-3342,Cannon HS Will・Purple,克阿恩歐腰甲【ＨＳ】・紫
-3343,Axel Will・Purple,阿克斯艾腰甲・紫
-3344,Axel F Will・Purple,阿克斯艾腰甲【Ｆ】・紫
-3345,Axel FZ Will・Purple,阿克斯艾腰甲【ＦＺ】・紫
-3346,Axel HC Will・Purple,阿克斯艾腰甲【ＨＣ】・紫
-3347,Axel HS Will・Purple,阿克斯艾腰甲【ＨＳ】・紫
+3268,Shinryu Black Obi・Red,神龍帶・黑
+3269,Shinryu F Black Obi・Red,神龍帶【Ｆ】・黑
+3270,Shinryu FZ Black Obi・Red,神龍帶【ＦＺ】・黑
+3271,Shinryu HC Black Obi・Red,神龍帶【ＨＣ】・黑
+3272,Shinryu HS Black Obi・Red,神龍帶【ＨＳ】・黑
+3273,Reppa Black Obi・Red,烈破帶・黑
+3274,Reppa F Black Obi・Red,烈破帶【Ｆ】・黑
+3275,Reppa FZ Black Obi・Red,烈破帶【ＦＺ】・黑
+3276,Reppa HC Black Obi・Red,烈破帶【ＨＣ】・黑
+3277,Reppa HS Black Obi・Red,烈破帶【ＨＳ】・黑
+3278,Shinryu Black Obi・White,神龍帶・黑
+3279,Shinryu F Black Obi・White,神龍帶【Ｆ】・黑
+3280,Shinryu FZ Black Obi・White,神龍帶【ＦＺ】・黑
+3281,Shinryu HC Black Obi・White,神龍帶【ＨＣ】・黑
+3282,Shinryu HS Black Obi・White,神龍帶【ＨＳ】・黑
+3283,Reppa Black Obi・White,烈破帶・黑
+3284,Reppa F Black Obi・White,烈破帶【Ｆ】・黑
+3285,Reppa FZ Black Obi・White,烈破帶【ＦＺ】・黑
+3286,Reppa HC Black Obi・White,烈破帶【ＨＣ】・黑
+3287,Reppa HS Black Obi・White,烈破帶【ＨＳ】・黑
+3288,Shinryu Black Obi・Purple,神龍帶・黑
+3289,Shinryu F Black Obi・Purple,神龍帶【Ｆ】・黑
+3290,Shinryu FZ Black Obi・Purple,神龍帶【ＦＺ】・黑
+3291,Shinryu HC Black Obi・Purple,神龍帶【ＨＣ】・黑
+3292,Shinryu HS Black Obi・Purple,神龍帶【ＨＳ】・黑
+3293,Reppa Black Obi・Purple,烈破帶・黑
+3294,Reppa F Black Obi・Purple,烈破帶【Ｆ】・黑
+3295,Reppa FZ Black Obi・Purple,烈破帶【ＦＺ】・黑
+3296,Reppa HC Black Obi・Purple,烈破帶【ＨＣ】・黑
+3297,Reppa HS Black Obi・Purple,烈破帶【ＨＳ】・黑
+3298,Shinryu Black Obi・Yellow,神龍帶・黑
+3299,Shinryu F Black Obi・Yellow,神龍帶【Ｆ】・黑
+3300,Shinryu FZ Black Obi・Yellow,神龍帶【ＦＺ】・黑
+3301,Shinryu HC Black Obi・Yellow,神龍帶【ＨＣ】・黑
+3302,Shinryu HS Black Obi・Yellow,神龍帶【ＨＳ】・黑
+3303,Reppa Black Obi・Yellow,烈破帶・黑
+3304,Reppa F Black Obi・Yellow,烈破帶【Ｆ】・黑
+3305,Reppa FZ Black Obi・Yellow,烈破帶【ＦＺ】・黑
+3306,Reppa HC Black Obi・Yellow,烈破帶【ＨＣ】・黑
+3307,Reppa HS Black Obi・Yellow,烈破帶【ＨＳ】・黑
+3308,Cannon Will・Water,砲意志腰甲・水
+3309,Cannon F Will・Water,砲意志腰甲【Ｆ】・水
+3310,Cannon FZ Will・Water,砲意志腰甲【ＦＺ】・水
+3311,Cannon HC Will・Water,砲意志腰甲【ＨＣ】・水
+3312,Cannon HS Will・Water,砲意志腰甲【ＨＳ】・水
+3313,Axel Will・Water,軸意志腰甲・水
+3314,Axel F Will・Water,軸意志腰甲【Ｆ】・水
+3315,Axel FZ Will・Water,軸意志腰甲【ＦＺ】・水
+3316,Axel HC Will・Water,軸意志腰甲【ＨＣ】・水
+3317,Axel HS Will・Water,軸意志腰甲【ＨＳ】・水
+3318,Cannon Will・Green,砲意志腰甲・緑
+3319,Cannon F Will・Green,砲意志腰甲【Ｆ】・緑
+3320,Cannon FZ Will・Green,砲意志腰甲【ＦＺ】・緑
+3321,Cannon HC Will・Green,砲意志腰甲【ＨＣ】・緑
+3322,Cannon HS Will・Green,砲意志腰甲【ＨＳ】・緑
+3323,Axel Will・Green,軸意志腰甲・緑
+3324,Axel F Will・Green,軸意志腰甲【Ｆ】・緑
+3325,Axel FZ Will・Green,軸意志腰甲【ＦＺ】・緑
+3326,Axel HC Will・Green,軸意志腰甲【ＨＣ】・緑
+3327,Axel HS Will・Green,軸意志腰甲【ＨＳ】・緑
+3328,Cannon Will・Peach,砲意志腰甲・桃
+3329,Cannon F Will・Peach,砲意志腰甲【Ｆ】・桃
+3330,Cannon FZ Will・Peach,砲意志腰甲【ＦＺ】・桃
+3331,Cannon HC Will・Peach,砲意志腰甲【ＨＣ】・桃
+3332,Cannon HS Will・Peach,砲意志腰甲【ＨＳ】・桃
+3333,Axel Will・Peach,軸意志腰甲・桃
+3334,Axel F Will・Peach,軸意志腰甲【Ｆ】・桃
+3335,Axel FZ Will・Peach,軸意志腰甲【ＦＺ】・桃
+3336,Axel HC Will・Peach,軸意志腰甲【ＨＣ】・桃
+3337,Axel HS Will・Peach,軸意志腰甲【ＨＳ】・桃
+3338,Cannon Will・Purple,砲意志腰甲・紫
+3339,Cannon F Will・Purple,砲意志腰甲【Ｆ】・紫
+3340,Cannon FZ Will・Purple,砲意志腰甲【ＦＺ】・紫
+3341,Cannon HC Will・Purple,砲意志腰甲【ＨＣ】・紫
+3342,Cannon HS Will・Purple,砲意志腰甲【ＨＳ】・紫
+3343,Axel Will・Purple,軸意志腰甲・紫
+3344,Axel F Will・Purple,軸意志腰甲【Ｆ】・紫
+3345,Axel FZ Will・Purple,軸意志腰甲【ＦＺ】・紫
+3346,Axel HC Will・Purple,軸意志腰甲【ＨＣ】・紫
+3347,Axel HS Will・Purple,軸意志腰甲【ＨＳ】・紫
 3348,剣士ランク8,拉恩庫腰甲
 3349,剣士ランク9,拉恩庫腰甲
 3350,ガンランク8,加恩拉恩庫腰甲
@@ -3540,16 +3540,16 @@ index,source,target
 3538,Magos FZ Coat・Red,瑪戈斯腰衣【ＦＺ】・赤
 3539,Magos HC Coat・Red,瑪戈斯腰衣【ＨＣ】・赤
 3540,Magos HS Coat・Red,瑪戈斯腰衣【ＨＳ】・赤
-3541,Magos Coil・Water,瑪戈斯水腰甲
-3542,Magos F Coil・Water,瑪戈斯水腰甲【Ｆ】
-3543,Magos FZ Coil・Water,瑪戈斯水腰甲【ＦＺ】
-3544,Magos HC Coil・Water,瑪戈斯水腰甲【ＨＣ】
-3545,Magos HS Coil・Water,瑪戈斯水腰甲【ＨＳ】
-3546,Magos Coat・Water,瑪戈斯水腰衣
-3547,Magos F Coat・Water,瑪戈斯水腰衣【Ｆ】
-3548,Magos FZ Coat・Water,瑪戈斯水腰衣【ＦＺ】
-3549,Magos HC Coat・Water,瑪戈斯水腰衣【ＨＣ】
-3550,Magos HS Coat・Water,瑪戈斯水腰衣【ＨＳ】
+3541,Magos Coil・Water,瑪戈斯腰甲・水
+3542,Magos F Coil・Water,瑪戈斯腰甲【Ｆ】・水
+3543,Magos FZ Coil・Water,瑪戈斯腰甲【ＦＺ】・水
+3544,Magos HC Coil・Water,瑪戈斯腰甲【ＨＣ】・水
+3545,Magos HS Coil・Water,瑪戈斯腰甲【ＨＳ】・水
+3546,Magos Coat・Water,瑪戈斯腰衣・水
+3547,Magos F Coat・Water,瑪戈斯腰衣【Ｆ】・水
+3548,Magos FZ Coat・Water,瑪戈斯腰衣【ＦＺ】・水
+3549,Magos HC Coat・Water,瑪戈斯腰衣【ＨＣ】・水
+3550,Magos HS Coat・Water,瑪戈斯腰衣【ＨＳ】・水
 3551,Magos Coil・Blue,瑪戈斯腰甲・青
 3552,Magos F Coil・Blue,瑪戈斯腰甲【Ｆ】・青
 3553,Magos FZ Coil・Blue,瑪戈斯腰甲【ＦＺ】・青
@@ -3564,8 +3564,8 @@ index,source,target
 3562,Magos GS Coat・Yellow,瑪戈斯腰衣【ＧＳ】・黄
 3563,Magos GS Coil・Red,瑪戈斯腰甲【ＧＳ】・赤
 3564,Magos GS Coat・Red,瑪戈斯腰衣【ＧＳ】・赤
-3565,Magos GS Coil・Water,瑪戈斯水腰甲【ＧＳ】
-3566,Magos GS Coat・Water,瑪戈斯水腰衣【ＧＳ】
+3565,Magos GS Coil・Water,瑪戈斯腰甲【ＧＳ】・水
+3566,Magos GS Coat・Water,瑪戈斯腰衣【ＧＳ】・水
 3567,Magos GS Coil・Blue,瑪戈斯腰甲【ＧＳ】・青
 3568,Magos GS Coat・Blue,瑪戈斯腰衣【ＧＳ】・青
 3569,Red 備ノ Greaves [Waistband 】,護腿腰帶
@@ -3787,9 +3787,9 @@ index,source,target
 3785,Golden Obi・G,金帶【Ｇ】
 3786,Golden Obi・GF,金帶【ＧＦ】
 3787,Golden Obi・GX,金帶【ＧＸ】
-3788,Puppeteer ノ Obi・G,帶【Ｇ】
-3789,Puppeteer ノ Obi・GF,帶【ＧＦ】
-3790,Puppeteer ノ Obi・GX,帶【ＧＸ】
+3788,Puppeteer ノ Obi・G,操偶帶【Ｇ】
+3789,Puppeteer ノ Obi・GF,操偶帶【ＧＦ】
+3790,Puppeteer ノ Obi・GX,操偶帶【ＧＸ】
 3791,Rebidiora G Wing,雷極龍腰翼【Ｇ】
 3792,Rebidiora GF Wing,雷極龍腰翼【ＧＦ】
 3793,Rebidiora GX Wing,雷極龍腰翼【ＧＸ】
@@ -3826,9 +3826,9 @@ index,source,target
 3824,Disu G Coat,德伊斯烏腰衣【Ｇ】
 3825,Disu GF Coat,德伊斯烏腰衣【ＧＦ】
 3826,Disu GX Coat,德伊斯烏腰衣【ＧＸ】
-3827,Shadow Obi・G,暗影帶【Ｇ】
-3828,Shadow Obi・GF,暗影帶【ＧＦ】
-3829,Shadow Obi・GX,暗影帶【ＧＸ】
+3827,Shadow Obi・G,影帶【Ｇ】
+3828,Shadow Obi・GF,影帶【ＧＦ】
+3829,Shadow Obi・GX,影帶【ＧＸ】
 3830,Shade Obi・G,影帶【Ｇ】
 3831,Shade Obi・GF,影帶【ＧＦ】
 3832,Shade Obi・GX,影帶【ＧＸ】
@@ -3864,14 +3864,14 @@ index,source,target
 3862,Genbu・刀神GF Coil,刀神腰甲【Ｆ】
 3863,Seiryu・刀神G Coil,青龍腰甲【Ｇ】
 3864,Seiryu・刀神GF Coil,刀神腰甲【Ｆ】
-3865,Byakko・Heaven 槍G Coil,白虎腰甲【Ｇ】・天
-3866,Byakko・Heaven 槍GF Coil,槍腰甲【Ｆ】・天
-3867,Suzaku・Heaven 槍G Coil,朱雀腰甲【Ｇ】・天
-3868,Suzaku・Heaven 槍GF Coil,槍腰甲【Ｆ】・天
-3869,Genbu・Heaven 槍G Coil,玄武腰甲【Ｇ】・天
-3870,Genbu・Heaven 槍GF Coil,槍腰甲【Ｆ】・天
-3871,Seiryu・Heaven 槍G Coil,青龍腰甲【Ｇ】・天
-3872,Seiryu・Heaven 槍GF Coil,槍腰甲【Ｆ】・天
+3865,Byakko・Heaven 槍G Coil,白虎天腰甲【Ｇ】
+3866,Byakko・Heaven 槍GF Coil,槍天腰甲【Ｆ】
+3867,Suzaku・Heaven 槍G Coil,朱雀天腰甲【Ｇ】
+3868,Suzaku・Heaven 槍GF Coil,槍天腰甲【Ｆ】
+3869,Genbu・Heaven 槍G Coil,玄武天腰甲【Ｇ】
+3870,Genbu・Heaven 槍GF Coil,槍天腰甲【Ｆ】
+3871,Seiryu・Heaven 槍G Coil,青龍天腰甲【Ｇ】
+3872,Seiryu・Heaven 槍GF Coil,槍天腰甲【Ｆ】
 3873,Byakko・砲皇G Coil,白虎腰甲【Ｇ】
 3874,Byakko・砲皇GF Coil,砲皇腰甲【Ｆ】
 3875,Suzaku・砲皇G Coil,朱雀腰甲【Ｇ】
@@ -3913,13 +3913,13 @@ index,source,target
 3911,Seiryu・銃仙G Coat,青龍腰衣【Ｇ】
 3912,Seiryu・銃仙GF Coat,銃仙腰衣【Ｆ】
 3913,Byakko・Bow 鬼G Coat,白虎腰衣【Ｇ】
-3914,Byakko・Bow 鬼GF Coat,鬼腰衣【Ｆ】
+3914,Byakko・Bow 鬼GF Coat,白虎腰衣【Ｆ】
 3915,Suzaku・Bow 鬼G Coat,朱雀腰衣【Ｇ】
-3916,Suzaku・Bow 鬼GF Coat,鬼腰衣【Ｆ】
+3916,Suzaku・Bow 鬼GF Coat,朱雀腰衣【Ｆ】
 3917,Genbu・Bow 鬼G Coat,玄武腰衣【Ｇ】
-3918,Genbu・Bow 鬼GF Coat,鬼腰衣【Ｆ】
+3918,Genbu・Bow 鬼GF Coat,玄武腰衣【Ｆ】
 3919,Seiryu・Bow 鬼G Coat,青龍腰衣【Ｇ】
-3920,Seiryu・Bow 鬼GF Coat,鬼腰衣【Ｆ】
+3920,Seiryu・Bow 鬼GF Coat,青龍腰衣【Ｆ】
 3921,Odiva G Faulds,奧蒂瓦腰甲【Ｇ】
 3922,Odiva G Coat,奧蒂瓦腰衣【Ｇ】
 3923,Blitz Gフープ,布伊特腰甲
@@ -3940,7 +3940,7 @@ index,source,target
 3938,エミットG Coat,艾米托腰衣【Ｇ】
 3939,Diboa G Faulds,迪博阿腰甲【Ｇ】
 3940,Diboa G Coat,迪博阿腰衣【Ｇ】
-3941,Demon Lord ノ腰布,惡魔腰甲
+3941,Demon Lord ノ腰布,魔王腰甲
 3942,童子ノ腰布,童子腰布腰甲
 3943,レアー Coil,雷阿腰甲
 3944,ハーデス Coil,哈德斯腰甲
@@ -3990,18 +3990,18 @@ index,source,target
 3988,Pics HC Coat・Black,皮克斯腰衣【ＨＣ】・黑
 3989,Pics HS Coat・Black,皮克斯腰衣【ＨＳ】・黑
 3990,Pics GS Coat・Black,皮克斯腰衣【ＧＳ】・黑
-3991,Pics Coil・Water,皮克斯水腰甲
-3992,Pics F Coil・Water,皮克斯水腰甲【Ｆ】
-3993,Pics FZ Coil・Water,皮克斯水腰甲【ＦＺ】
-3994,Pics HC Coil・Water,皮克斯水腰甲【ＨＣ】
-3995,Pics HS Coil・Water,皮克斯水腰甲【ＨＳ】
-3996,Pics GS Coil・Water,皮克斯水腰甲【ＧＳ】
-3997,Pics Coat・Water,皮克斯水腰衣
-3998,Pics F Coat・Water,皮克斯水腰衣【Ｆ】
-3999,Pics FZ Coat・Water,皮克斯水腰衣【ＦＺ】
-4000,Pics HC Coat・Water,皮克斯水腰衣【ＨＣ】
-4001,Pics HS Coat・Water,皮克斯水腰衣【ＨＳ】
-4002,Pics GS Coat・Water,皮克斯水腰衣【ＧＳ】
+3991,Pics Coil・Water,皮克斯腰甲・水
+3992,Pics F Coil・Water,皮克斯腰甲【Ｆ】・水
+3993,Pics FZ Coil・Water,皮克斯腰甲【ＦＺ】・水
+3994,Pics HC Coil・Water,皮克斯腰甲【ＨＣ】・水
+3995,Pics HS Coil・Water,皮克斯腰甲【ＨＳ】・水
+3996,Pics GS Coil・Water,皮克斯腰甲【ＧＳ】・水
+3997,Pics Coat・Water,皮克斯腰衣・水
+3998,Pics F Coat・Water,皮克斯腰衣【Ｆ】・水
+3999,Pics FZ Coat・Water,皮克斯腰衣【ＦＺ】・水
+4000,Pics HC Coat・Water,皮克斯腰衣【ＨＣ】・水
+4001,Pics HS Coat・Water,皮克斯腰衣【ＨＳ】・水
+4002,Pics GS Coat・Water,皮克斯腰衣【ＧＳ】・水
 4003,Bright Faulds,輝腰甲
 4004,Bright F Faulds,輝腰甲【Ｆ】
 4005,Bright FZ Faulds,輝腰甲【ＦＺ】
@@ -4074,8 +4074,8 @@ index,source,target
 4072,Suriito GS Coil・Yellow,斯里托腰甲【ＧＳ】・黄
 4073,Suriito HS Coat・Yellow,斯里托腰衣【ＨＳ】・黄
 4074,Suriito GS Coat・Yellow,斯里托腰衣【ＧＳ】・黄
-4075,Steno HS Elytra ー・Orange,水竜翅腰【ＨＳ】
-4076,Steno GS Elytra ー・Orange,水竜翅腰【ＧＳ】
+4075,Steno HS Elytra ー・Orange,水竜翅腰【ＨＳ】・橙
+4076,Steno GS Elytra ー・Orange,水竜翅腰【ＧＳ】・橙
 4077,Steno HS Coat・Orange,水竜腰衣【ＨＳ】・橙
 4078,Steno GS Coat・Orange,水竜腰衣【ＧＳ】・橙
 4079,Edio HC Coil・Blue,電竜腰甲【ＨＣ】・青
@@ -4239,16 +4239,16 @@ index,source,target
 4237,Suriito GS Coil・Blue,斯里托腰甲【ＧＳ】・青
 4238,Suriito HS Coat・Blue,斯里托腰衣【ＨＳ】・青
 4239,Suriito GS Coat・Blue,斯里托腰衣【ＧＳ】・青
-4240,Steno HS Elytra ー・Peach,水竜翅腰【ＨＳ】
-4241,Steno GS Elytra ー・Peach,水竜翅腰【ＧＳ】
+4240,Steno HS Elytra ー・Peach,水竜翅腰【ＨＳ】・桃
+4241,Steno GS Elytra ー・Peach,水竜翅腰【ＧＳ】・桃
 4242,Steno HS Coat・Peach,水竜腰衣【ＨＳ】・桃
 4243,Steno GS Coat・Peach,水竜腰衣【ＧＳ】・桃
-4244,Steno HS Elytra ー・Blue,水竜翅腰【ＨＳ】
-4245,Steno GS Elytra ー・Blue,水竜翅腰【ＧＳ】
+4244,Steno HS Elytra ー・Blue,水竜翅腰【ＨＳ】・青
+4245,Steno GS Elytra ー・Blue,水竜翅腰【ＧＳ】・青
 4246,Steno HS Coat・Blue,水竜腰衣【ＨＳ】・青
 4247,Steno GS Coat・Blue,水竜腰衣【ＧＳ】・青
-4248,Steno HS Elytra ー・Red,水竜翅腰【ＨＳ】
-4249,Steno GS Elytra ー・Red,水竜翅腰【ＧＳ】
+4248,Steno HS Elytra ー・Red,水竜翅腰【ＨＳ】・赤
+4249,Steno GS Elytra ー・Red,水竜翅腰【ＧＳ】・赤
 4250,Steno HS Coat・Red,水竜腰衣【ＨＳ】・赤
 4251,Steno GS Coat・Red,水竜腰衣【ＧＳ】・赤
 4252,Edio HC Coil・Red,電竜腰甲【ＨＣ】・赤
@@ -4281,12 +4281,12 @@ index,source,target
 4279,Galitos HC Coat・Black,加里托斯腰衣【ＨＣ】・黑
 4280,Galitos HS Coat・Black,加里托斯腰衣【ＨＳ】・黑
 4281,Galitos GS Coat・Black,加里托斯腰衣【ＧＳ】・黑
-4282,Galitos HC Belt・Water,加里托斯水腰帶【ＨＣ】
-4283,Galitos HS Belt・Water,加里托斯水腰帶【ＨＳ】
-4284,Galitos GS Belt・Water,加里托斯水腰帶【ＧＳ】
-4285,Galitos HC Coat・Water,加里托斯水腰衣【ＨＣ】
-4286,Galitos HS Coat・Water,加里托斯水腰衣【ＨＳ】
-4287,Galitos GS Coat・Water,加里托斯水腰衣【ＧＳ】
+4282,Galitos HC Belt・Water,加里托斯腰帶【ＨＣ】・水
+4283,Galitos HS Belt・Water,加里托斯腰帶【ＨＳ】・水
+4284,Galitos GS Belt・Water,加里托斯腰帶【ＧＳ】・水
+4285,Galitos HC Coat・Water,加里托斯腰衣【ＨＣ】・水
+4286,Galitos HS Coat・Water,加里托斯腰衣【ＨＳ】・水
+4287,Galitos GS Coat・Water,加里托斯腰衣【ＧＳ】・水
 4288,Star Festival FZ Obi 【 Blue 】,星祭帶【ＦＺ】・青
 4289,Star Festival HC Obi 【 Blue 】,星祭帶【ＨＣ】・青
 4290,Star Festival HS Obi 【 Blue 】,星祭帶【ＨＳ】・青
@@ -4375,12 +4375,12 @@ index,source,target
 4373,Beru G Coat,舞雷龍腰衣【Ｇ】
 4374,Beru GF Coat,舞雷龍腰衣【ＧＦ】
 4375,Beru GX Coat,舞雷龍腰衣【ＧＸ】
-4376,Black Gravios G Faulds,鎧龍腰甲【Ｇ】・黑
-4377,Black Gravios GF Faulds,鎧龍腰甲【ＧＦ】・黑
-4378,Black Gravios GX Faulds,鎧龍腰甲【ＧＸ】・黑
-4379,Black Gravios G Coat,鎧龍腰衣【Ｇ】・黑
-4380,Black Gravios GF Coat,鎧龍腰衣【ＧＦ】・黑
-4381,Black Gravios GX Coat,鎧龍腰衣【ＧＸ】・黑
+4376,Black Gravios G Faulds,黑鎧龍腰甲【Ｇ】
+4377,Black Gravios GF Faulds,黑鎧龍腰甲【ＧＦ】
+4378,Black Gravios GX Faulds,黑鎧龍腰甲【ＧＸ】
+4379,Black Gravios G Coat,黑鎧龍腰衣【Ｇ】
+4380,Black Gravios GF Coat,黑鎧龍腰衣【ＧＦ】
+4381,Black Gravios GX Coat,黑鎧龍腰衣【ＧＸ】
 4382,Lune G Coil,月腰甲【Ｇ】
 4383,Lune GF Coil,月腰甲【ＧＦ】
 4384,Lune GX Coil,月腰甲【ＧＸ】
@@ -4557,18 +4557,18 @@ index,source,target
 4555,Genom HS Belt・Green,基因組腰帶【ＨＳ】・緑
 4556,Genom GS Belt・Green,基因組腰帶【ＧＳ】・緑
 4557,Genom GP Belt・Green,基因組腰帶【ＧＰ】・緑
-4558,Genom Waist・Water,基因組水腰甲
-4559,Genom F Waist・Water,基因組水腰甲【Ｆ】
-4560,Genom FZ Waist・Water,基因組水腰甲【ＦＺ】
-4561,Genom HS Waist・Water,基因組水腰甲【ＨＳ】
-4562,Genom GS Waist・Water,基因組水腰甲【ＧＳ】
-4563,Genom GP Waist・Water,基因組水腰甲【ＧＰ】
-4564,Genom Belt・Water,基因組水腰帶
-4565,Genom F Belt・Water,基因組水腰帶【Ｆ】
-4566,Genom FZ Belt・Water,基因組水腰帶【ＦＺ】
-4567,Genom HS Belt・Water,基因組水腰帶【ＨＳ】
-4568,Genom GS Belt・Water,基因組水腰帶【ＧＳ】
-4569,Genom GP Belt・Water,基因組水腰帶【ＧＰ】
+4558,Genom Waist・Water,基因組腰甲・水
+4559,Genom F Waist・Water,基因組腰甲【Ｆ】・水
+4560,Genom FZ Waist・Water,基因組腰甲【ＦＺ】・水
+4561,Genom HS Waist・Water,基因組腰甲【ＨＳ】・水
+4562,Genom GS Waist・Water,基因組腰甲【ＧＳ】・水
+4563,Genom GP Waist・Water,基因組腰甲【ＧＰ】・水
+4564,Genom Belt・Water,基因組腰帶・水
+4565,Genom F Belt・Water,基因組腰帶【Ｆ】・水
+4566,Genom FZ Belt・Water,基因組腰帶【ＦＺ】・水
+4567,Genom HS Belt・Water,基因組腰帶【ＨＳ】・水
+4568,Genom GS Belt・Water,基因組腰帶【ＧＳ】・水
+4569,Genom GP Belt・Water,基因組腰帶【ＧＰ】・水
 4570,Genom Waist・Red,基因組腰甲・赤
 4571,Genom F Waist・Red,基因組腰甲【Ｆ】・赤
 4572,Genom FZ Waist・Red,基因組腰甲【ＦＺ】・赤
@@ -4725,14 +4725,14 @@ index,source,target
 4723,Lady HS Belt・Green,淑女腰帶【ＨＳ】・緑
 4724,Lady GS Belt・Green,淑女腰帶【ＧＳ】・緑
 4725,Lady GP Belt・Green,淑女腰帶【ＧＰ】・緑
-4726,昇龍FZ Black Obi・White,昇龍帶【ＦＺ】・白・黑
-4727,昇龍HS Black Obi・White,昇龍帶【ＨＳ】・白・黑
-4728,昇龍GS Black Obi・White,昇龍帶【ＧＳ】・白・黑
-4729,昇龍GP Black Obi・White,昇龍帶【ＧＰ】・白・黑
-4730,波動FZ Black Obi・White,波動帶【ＦＺ】・白・黑
-4731,波動HS Black Obi・White,波動帶【ＨＳ】・白・黑
-4732,波動GS Black Obi・White,波動帶【ＧＳ】・白・黑
-4733,波動GP Black Obi・White,波動帶【ＧＰ】・白・黑
+4726,昇龍FZ Black Obi・White,昇龍帶【ＦＺ】・黑
+4727,昇龍HS Black Obi・White,昇龍帶【ＨＳ】・黑
+4728,昇龍GS Black Obi・White,昇龍帶【ＧＳ】・黑
+4729,昇龍GP Black Obi・White,昇龍帶【ＧＰ】・黑
+4730,波動FZ Black Obi・White,波動帶【ＦＺ】・黑
+4731,波動HS Black Obi・White,波動帶【ＨＳ】・黑
+4732,波動GS Black Obi・White,波動帶【ＧＳ】・黑
+4733,波動GP Black Obi・White,波動帶【ＧＰ】・黑
 4734,百裂FZ Waistband・Blue,百裂腰帶【ＦＺ】・青
 4735,百裂HS Waistband・Blue,百裂腰帶【ＨＳ】・青
 4736,百裂GS Waistband・Blue,百裂腰帶【ＧＳ】・青
@@ -4757,14 +4757,14 @@ index,source,target
 4755,気功HS Waistband・Black,気功腰帶【ＨＳ】・黑
 4756,気功GS Waistband・Black,気功腰帶【ＧＳ】・黑
 4757,気功GP Waistband・Black,気功腰帶【ＧＰ】・黑
-4758,昇龍FZ Black Obi・Yellow,昇龍帶【ＦＺ】・黄・黑
-4759,昇龍HS Black Obi・Yellow,昇龍帶【ＨＳ】・黄・黑
-4760,昇龍GS Black Obi・Yellow,昇龍帶【ＧＳ】・黄・黑
-4761,昇龍GP Black Obi・Yellow,昇龍帶【ＧＰ】・黄・黑
-4762,波動FZ Black Obi・Yellow,波動帶【ＦＺ】・黄・黑
-4763,波動HS Black Obi・Yellow,波動帶【ＨＳ】・黄・黑
-4764,波動GS Black Obi・Yellow,波動帶【ＧＳ】・黄・黑
-4765,波動GP Black Obi・Yellow,波動帶【ＧＰ】・黄・黑
+4758,昇龍FZ Black Obi・Yellow,昇龍帶【ＦＺ】・黑
+4759,昇龍HS Black Obi・Yellow,昇龍帶【ＨＳ】・黑
+4760,昇龍GS Black Obi・Yellow,昇龍帶【ＧＳ】・黑
+4761,昇龍GP Black Obi・Yellow,昇龍帶【ＧＰ】・黑
+4762,波動FZ Black Obi・Yellow,波動帶【ＦＺ】・黑
+4763,波動HS Black Obi・Yellow,波動帶【ＨＳ】・黑
+4764,波動GS Black Obi・Yellow,波動帶【ＧＳ】・黑
+4765,波動GP Black Obi・Yellow,波動帶【ＧＰ】・黑
 4766,百裂FZ Waistband・Yellow,百裂腰帶【ＦＺ】・黄
 4767,百裂HS Waistband・Yellow,百裂腰帶【ＨＳ】・黄
 4768,百裂GS Waistband・Yellow,百裂腰帶【ＧＳ】・黄
@@ -4773,14 +4773,14 @@ index,source,target
 4771,気功HS Waistband・Yellow,気功腰帶【ＨＳ】・黄
 4772,気功GS Waistband・Yellow,気功腰帶【ＧＳ】・黄
 4773,気功GP Waistband・Yellow,気功腰帶【ＧＰ】・黄
-4774,昇龍FZ Black Obi・Purple,昇龍帶【ＦＺ】・紫・黑
-4775,昇龍HS Black Obi・Purple,昇龍帶【ＨＳ】・紫・黑
-4776,昇龍GS Black Obi・Purple,昇龍帶【ＧＳ】・紫・黑
-4777,昇龍GP Black Obi・Purple,昇龍帶【ＧＰ】・紫・黑
-4778,波動FZ Black Obi・Purple,波動帶【ＦＺ】・紫・黑
-4779,波動HS Black Obi・Purple,波動帶【ＨＳ】・紫・黑
-4780,波動GS Black Obi・Purple,波動帶【ＧＳ】・紫・黑
-4781,波動GP Black Obi・Purple,波動帶【ＧＰ】・紫・黑
+4774,昇龍FZ Black Obi・Purple,昇龍帶【ＦＺ】・黑
+4775,昇龍HS Black Obi・Purple,昇龍帶【ＨＳ】・黑
+4776,昇龍GS Black Obi・Purple,昇龍帶【ＧＳ】・黑
+4777,昇龍GP Black Obi・Purple,昇龍帶【ＧＰ】・黑
+4778,波動FZ Black Obi・Purple,波動帶【ＦＺ】・黑
+4779,波動HS Black Obi・Purple,波動帶【ＨＳ】・黑
+4780,波動GS Black Obi・Purple,波動帶【ＧＳ】・黑
+4781,波動GP Black Obi・Purple,波動帶【ＧＰ】・黑
 4782,百裂FZ Waistband・Green,百裂腰帶【ＦＺ】・緑
 4783,百裂HS Waistband・Green,百裂腰帶【ＨＳ】・緑
 4784,百裂GS Waistband・Green,百裂腰帶【ＧＳ】・緑
@@ -4793,10 +4793,10 @@ index,source,target
 4791,竜巻HS Colour Belt・Black,竜巻腰帶【ＨＳ】・黑
 4792,竜巻GS Colour Belt・Black,竜巻腰帶【ＧＳ】・黑
 4793,竜巻GP Colour Belt・Black,竜巻腰帶【ＧＰ】・黑
-4794,True 空FZ Colour Belt・Black,空腰帶【ＦＺ】・黑
-4795,True 空HS Colour Belt・Black,空腰帶【ＨＳ】・黑
-4796,True 空GS Colour Belt・Black,空腰帶【ＧＳ】・黑
-4797,True 空GP Colour Belt・Black,空腰帶【ＧＰ】・黑
+4794,True 空FZ Colour Belt・Black,真空腰帶【ＦＺ】・黑
+4795,True 空HS Colour Belt・Black,真空腰帶【ＨＳ】・黑
+4796,True 空GS Colour Belt・Black,真空腰帶【ＧＳ】・黑
+4797,True 空GP Colour Belt・Black,真空腰帶【ＧＰ】・黑
 4798,千裂FZ Waistband・Black,千裂腰帶【ＦＺ】・黑
 4799,千裂HS Waistband・Black,千裂腰帶【ＨＳ】・黑
 4800,千裂GS Waistband・Black,千裂腰帶【ＧＳ】・黑
@@ -4809,10 +4809,10 @@ index,source,target
 4807,竜巻HS Colour Belt・Tea,竜巻腰帶【ＨＳ】・茶
 4808,竜巻GS Colour Belt・Tea,竜巻腰帶【ＧＳ】・茶
 4809,竜巻GP Colour Belt・Tea,竜巻腰帶【ＧＰ】・茶
-4810,True 空FZ Colour Belt・Tea,空腰帶【ＦＺ】・茶
-4811,True 空HS Colour Belt・Tea,空腰帶【ＨＳ】・茶
-4812,True 空GS Colour Belt・Tea,空腰帶【ＧＳ】・茶
-4813,True 空GP Colour Belt・Tea,空腰帶【ＧＰ】・茶
+4810,True 空FZ Colour Belt・Tea,真空腰帶【ＦＺ】・茶
+4811,True 空HS Colour Belt・Tea,真空腰帶【ＨＳ】・茶
+4812,True 空GS Colour Belt・Tea,真空腰帶【ＧＳ】・茶
+4813,True 空GP Colour Belt・Tea,真空腰帶【ＧＰ】・茶
 4814,千裂FZ Waistband・Purple,千裂腰帶【ＦＺ】・紫
 4815,千裂HS Waistband・Purple,千裂腰帶【ＨＳ】・紫
 4816,千裂GS Waistband・Purple,千裂腰帶【ＧＳ】・紫
@@ -4825,10 +4825,10 @@ index,source,target
 4823,竜巻HS Colour Belt・White,竜巻腰帶【ＨＳ】・白
 4824,竜巻GS Colour Belt・White,竜巻腰帶【ＧＳ】・白
 4825,竜巻GP Colour Belt・White,竜巻腰帶【ＧＰ】・白
-4826,True 空FZ Colour Belt・White,空腰帶【ＦＺ】・白
-4827,True 空HS Colour Belt・White,空腰帶【ＨＳ】・白
-4828,True 空GS Colour Belt・White,空腰帶【ＧＳ】・白
-4829,True 空GP Colour Belt・White,空腰帶【ＧＰ】・白
+4826,True 空FZ Colour Belt・White,真空腰帶【ＦＺ】・白
+4827,True 空HS Colour Belt・White,真空腰帶【ＨＳ】・白
+4828,True 空GS Colour Belt・White,真空腰帶【ＧＳ】・白
+4829,True 空GP Colour Belt・White,真空腰帶【ＧＰ】・白
 4830,千裂FZ Waistband・White,千裂腰帶【ＦＺ】・白
 4831,千裂HS Waistband・White,千裂腰帶【ＨＳ】・白
 4832,千裂GS Waistband・White,千裂腰帶【ＧＳ】・白
@@ -4841,10 +4841,10 @@ index,source,target
 4839,竜巻HS Colour Belt・Blue,竜巻腰帶【ＨＳ】・青
 4840,竜巻GS Colour Belt・Blue,竜巻腰帶【ＧＳ】・青
 4841,竜巻GP Colour Belt・Blue,竜巻腰帶【ＧＰ】・青
-4842,True 空FZ Colour Belt・Blue,空腰帶【ＦＺ】・青
-4843,True 空HS Colour Belt・Blue,空腰帶【ＨＳ】・青
-4844,True 空GS Colour Belt・Blue,空腰帶【ＧＳ】・青
-4845,True 空GP Colour Belt・Blue,空腰帶【ＧＰ】・青
+4842,True 空FZ Colour Belt・Blue,真空腰帶【ＦＺ】・青
+4843,True 空HS Colour Belt・Blue,真空腰帶【ＨＳ】・青
+4844,True 空GS Colour Belt・Blue,真空腰帶【ＧＳ】・青
+4845,True 空GP Colour Belt・Blue,真空腰帶【ＧＰ】・青
 4846,千裂FZ Waistband・Green,千裂腰帶【ＦＺ】・緑
 4847,千裂HS Waistband・Green,千裂腰帶【ＨＳ】・緑
 4848,千裂GS Waistband・Green,千裂腰帶【ＧＳ】・緑
@@ -4861,10 +4861,10 @@ index,source,target
 4859,Chaos HS Coat・Blue,混沌腰衣【ＨＳ】・青
 4860,Chaos GS Coat・Blue,混沌腰衣【ＧＳ】・青
 4861,Chaos GP Coat・Blue,混沌腰衣【ＧＰ】・青
-4862,Shadow FZ Wing Purple,暗影腰翼【ＦＺ】・紫
-4863,Shadow HS Wing Purple,暗影腰翼【ＨＳ】・紫
-4864,Shadow GS Wing Purple,暗影腰翼【ＧＳ】・紫
-4865,Shadow GP Wing Purple,暗影腰翼【ＧＰ】・紫
+4862,Shadow FZ Wing Purple,影腰翼【ＦＺ】・紫
+4863,Shadow HS Wing Purple,影腰翼【ＨＳ】・紫
+4864,Shadow GS Wing Purple,影腰翼【ＧＳ】・紫
+4865,Shadow GP Wing Purple,影腰翼【ＧＰ】・紫
 4866,Soul FZ Wing・Purple,魂腰翼【ＦＺ】・紫
 4867,Soul HS Wing・Purple,魂腰翼【ＨＳ】・紫
 4868,Soul GS Wing・Purple,魂腰翼【ＧＳ】・紫
@@ -4877,10 +4877,10 @@ index,source,target
 4875,Chaos HS Coat・Red,混沌腰衣【ＨＳ】・赤
 4876,Chaos GS Coat・Red,混沌腰衣【ＧＳ】・赤
 4877,Chaos GP Coat・Red,混沌腰衣【ＧＰ】・赤
-4878,Shadow FZ Wing Red,暗影腰翼【ＦＺ】・赤
-4879,Shadow HS Wing Red,暗影腰翼【ＨＳ】・赤
-4880,Shadow GS Wing Red,暗影腰翼【ＧＳ】・赤
-4881,Shadow GP Wing Red,暗影腰翼【ＧＰ】・赤
+4878,Shadow FZ Wing Red,影腰翼【ＦＺ】・赤
+4879,Shadow HS Wing Red,影腰翼【ＨＳ】・赤
+4880,Shadow GS Wing Red,影腰翼【ＧＳ】・赤
+4881,Shadow GP Wing Red,影腰翼【ＧＰ】・赤
 4882,Soul FZ Wing・Red,魂腰翼【ＦＺ】・赤
 4883,Soul HS Wing・Red,魂腰翼【ＨＳ】・赤
 4884,Soul GS Wing・Red,魂腰翼【ＧＳ】・赤
@@ -4893,10 +4893,10 @@ index,source,target
 4891,Chaos HS Coat・Green,混沌腰衣【ＨＳ】・緑
 4892,Chaos GS Coat・Green,混沌腰衣【ＧＳ】・緑
 4893,Chaos GP Coat・Green,混沌腰衣【ＧＰ】・緑
-4894,Shadow FZ Wing Green,暗影腰翼【ＦＺ】・緑
-4895,Shadow HS Wing Green,暗影腰翼【ＨＳ】・緑
-4896,Shadow GS Wing Green,暗影腰翼【ＧＳ】・緑
-4897,Shadow GP Wing Green,暗影腰翼【ＧＰ】・緑
+4894,Shadow FZ Wing Green,影腰翼【ＦＺ】・緑
+4895,Shadow HS Wing Green,影腰翼【ＨＳ】・緑
+4896,Shadow GS Wing Green,影腰翼【ＧＳ】・緑
+4897,Shadow GP Wing Green,影腰翼【ＧＰ】・緑
 4898,Soul FZ Wing・Green,魂腰翼【ＦＺ】・緑
 4899,Soul HS Wing・Green,魂腰翼【ＨＳ】・緑
 4900,Soul GS Wing・Green,魂腰翼【ＧＳ】・緑
@@ -4909,10 +4909,10 @@ index,source,target
 4907,Chaos HS Coat・White,混沌腰衣【ＨＳ】・白
 4908,Chaos GS Coat・White,混沌腰衣【ＧＳ】・白
 4909,Chaos GP Coat・White,混沌腰衣【ＧＰ】・白
-4910,Shadow FZ Wing White,暗影腰翼【ＦＺ】・白
-4911,Shadow HS Wing White,暗影腰翼【ＨＳ】・白
-4912,Shadow GS Wing White,暗影腰翼【ＧＳ】・白
-4913,Shadow GP Wing White,暗影腰翼【ＧＰ】・白
+4910,Shadow FZ Wing White,影腰翼【ＦＺ】・白
+4911,Shadow HS Wing White,影腰翼【ＨＳ】・白
+4912,Shadow GS Wing White,影腰翼【ＧＳ】・白
+4913,Shadow GP Wing White,影腰翼【ＧＰ】・白
 4914,Soul FZ Wing・White,魂腰翼【ＦＺ】・白
 4915,Soul HS Wing・White,魂腰翼【ＨＳ】・白
 4916,Soul GS Wing・White,魂腰翼【ＧＳ】・白
@@ -4949,38 +4949,38 @@ index,source,target
 4947,蜂針GP【腰当て】・Black,蜂針腰當【ＧＰ】・黑
 4948,気弾GS【腰当て】・Black,気弾腰當【ＧＳ】・黑
 4949,気弾GP【腰当て】・Black,気弾腰當【ＧＰ】・黑
-4950,Shinryu GS Black Obi・Red,神龍帶【ＧＳ】・赤・黑
-4951,Shinryu GP Black Obi・Red,神龍帶【ＧＰ】・赤・黑
-4952,Reppa GS Black Obi・Red,烈破帶【ＧＳ】・赤・黑
-4953,Reppa GP Black Obi・Red,烈破帶【ＧＰ】・赤・黑
-4954,Cannon GS Will・Water,克阿恩歐腰甲【ＧＳ】
-4955,Cannon GP Will・Water,克阿恩歐腰甲【ＧＰ】
-4956,Axel GS Will・Water,阿克斯艾腰甲【ＧＳ】
-4957,Axel GP Will・Water,阿克斯艾腰甲【ＧＰ】
-4958,Shinryu GS Black Obi・White,神龍帶【ＧＳ】・白・黑
-4959,Shinryu GP Black Obi・White,神龍帶【ＧＰ】・白・黑
-4960,Reppa GS Black Obi・White,烈破帶【ＧＳ】・白・黑
-4961,Reppa GP Black Obi・White,烈破帶【ＧＰ】・白・黑
-4962,Cannon GS Will・Green,克阿恩歐腰甲【ＧＳ】・緑
-4963,Cannon GP Will・Green,克阿恩歐腰甲【ＧＰ】・緑
-4964,Axel GS Will・Green,阿克斯艾腰甲【ＧＳ】・緑
-4965,Axel GP Will・Green,阿克斯艾腰甲【ＧＰ】・緑
-4966,Shinryu GS Black Obi・Purple,神龍帶【ＧＳ】・紫・黑
-4967,Shinryu GP Black Obi・Purple,神龍帶【ＧＰ】・紫・黑
-4968,Reppa GS Black Obi・Purple,烈破帶【ＧＳ】・紫・黑
-4969,Reppa GP Black Obi・Purple,烈破帶【ＧＰ】・紫・黑
-4970,Cannon GS Will・Peach,克阿恩歐腰甲【ＧＳ】・桃
-4971,Cannon GP Will・Peach,克阿恩歐腰甲【ＧＰ】・桃
-4972,Axel GS Will・Peach,阿克斯艾腰甲【ＧＳ】・桃
-4973,Axel GP Will・Peach,阿克斯艾腰甲【ＧＰ】・桃
-4974,Shinryu GS Black Obi・Yellow,神龍帶【ＧＳ】・黄・黑
-4975,Shinryu GP Black Obi・Yellow,神龍帶【ＧＰ】・黄・黑
-4976,Reppa GS Black Obi・Yellow,烈破帶【ＧＳ】・黄・黑
-4977,Reppa GP Black Obi・Yellow,烈破帶【ＧＰ】・黄・黑
-4978,Cannon GS Will・Purple,克阿恩歐腰甲【ＧＳ】・紫
-4979,Cannon GP Will・Purple,克阿恩歐腰甲【ＧＰ】・紫
-4980,Axel GS Will・Purple,阿克斯艾腰甲【ＧＳ】・紫
-4981,Axel GP Will・Purple,阿克斯艾腰甲【ＧＰ】・紫
+4950,Shinryu GS Black Obi・Red,神龍帶【ＧＳ】・黑
+4951,Shinryu GP Black Obi・Red,神龍帶【ＧＰ】・黑
+4952,Reppa GS Black Obi・Red,烈破帶【ＧＳ】・黑
+4953,Reppa GP Black Obi・Red,烈破帶【ＧＰ】・黑
+4954,Cannon GS Will・Water,砲意志腰甲【ＧＳ】・水
+4955,Cannon GP Will・Water,砲意志腰甲【ＧＰ】・水
+4956,Axel GS Will・Water,軸意志腰甲【ＧＳ】・水
+4957,Axel GP Will・Water,軸意志腰甲【ＧＰ】・水
+4958,Shinryu GS Black Obi・White,神龍帶【ＧＳ】・黑
+4959,Shinryu GP Black Obi・White,神龍帶【ＧＰ】・黑
+4960,Reppa GS Black Obi・White,烈破帶【ＧＳ】・黑
+4961,Reppa GP Black Obi・White,烈破帶【ＧＰ】・黑
+4962,Cannon GS Will・Green,砲意志腰甲【ＧＳ】・緑
+4963,Cannon GP Will・Green,砲意志腰甲【ＧＰ】・緑
+4964,Axel GS Will・Green,軸意志腰甲【ＧＳ】・緑
+4965,Axel GP Will・Green,軸意志腰甲【ＧＰ】・緑
+4966,Shinryu GS Black Obi・Purple,神龍帶【ＧＳ】・黑
+4967,Shinryu GP Black Obi・Purple,神龍帶【ＧＰ】・黑
+4968,Reppa GS Black Obi・Purple,烈破帶【ＧＳ】・黑
+4969,Reppa GP Black Obi・Purple,烈破帶【ＧＰ】・黑
+4970,Cannon GS Will・Peach,砲意志腰甲【ＧＳ】・桃
+4971,Cannon GP Will・Peach,砲意志腰甲【ＧＰ】・桃
+4972,Axel GS Will・Peach,軸意志腰甲【ＧＳ】・桃
+4973,Axel GP Will・Peach,軸意志腰甲【ＧＰ】・桃
+4974,Shinryu GS Black Obi・Yellow,神龍帶【ＧＳ】・黑
+4975,Shinryu GP Black Obi・Yellow,神龍帶【ＧＰ】・黑
+4976,Reppa GS Black Obi・Yellow,烈破帶【ＧＳ】・黑
+4977,Reppa GP Black Obi・Yellow,烈破帶【ＧＰ】・黑
+4978,Cannon GS Will・Purple,砲意志腰甲【ＧＳ】・紫
+4979,Cannon GP Will・Purple,砲意志腰甲【ＧＰ】・紫
+4980,Axel GS Will・Purple,軸意志腰甲【ＧＳ】・紫
+4981,Axel GP Will・Purple,軸意志腰甲【ＧＰ】・紫
 4982,Garuda HS Waist,迦樓羅腰甲【ＨＳ】
 4983,Garuda GS Waist,迦樓羅腰甲【ＧＳ】
 4984,Garuda GP Waist,迦樓羅腰甲【ＧＰ】
@@ -5299,12 +5299,12 @@ index,source,target
 5297,迅雷HS Black Obi,迅雷帶【ＨＳ】・黑
 5298,迅雷GS Black Obi,迅雷帶【ＧＳ】・黑
 5299,迅雷GP Black Obi,迅雷帶【ＧＰ】・黑
-5300,Heaven 星 Waistband,星腰帶・天
-5301,Heaven 星F Waistband,星腰帶【Ｆ】・天
-5302,Heaven 星FZ Waistband,星腰帶【ＦＺ】・天
-5303,Heaven 星HS Waistband,星腰帶【ＨＳ】・天
-5304,Heaven 星GS Waistband,星腰帶【ＧＳ】・天
-5305,Heaven 星GP Waistband,星腰帶【ＧＰ】・天
+5300,Heaven 星 Waistband,星天腰帶
+5301,Heaven 星F Waistband,星天腰帶【Ｆ】
+5302,Heaven 星FZ Waistband,星天腰帶【ＦＺ】
+5303,Heaven 星HS Waistband,星天腰帶【ＨＳ】
+5304,Heaven 星GS Waistband,星天腰帶【ＧＳ】
+5305,Heaven 星GP Waistband,星天腰帶【ＧＰ】
 5306,飛燕 Waistband,飛燕腰帶
 5307,飛燕F Waistband,飛燕腰帶【Ｆ】
 5308,飛燕FZ Waistband,飛燕腰帶【ＦＺ】
@@ -5569,38 +5569,38 @@ index,source,target
 5567,Omet HS Coat・Blue,歐梅特腰衣【ＨＳ】・青
 5568,Omet GS Coat・Blue,歐梅特腰衣【ＧＳ】・青
 5569,Omet GP Coat・Blue,歐梅特腰衣【ＧＰ】・青
-5570,Gold FZ Coil・Red,腰甲【ＦＺ】・金・赤
-5571,Gold HS Coil・Red,腰甲【ＨＳ】・金・赤
-5572,Gold GS Coil・Red,腰甲【ＧＳ】・金・赤
-5573,Gold GP Coil・Red,腰甲【ＧＰ】・金・赤
-5574,Gold FZ Coil・Blue,腰甲【ＦＺ】・金・青
-5575,Gold HS Coil・Blue,腰甲【ＨＳ】・金・青
-5576,Gold GS Coil・Blue,腰甲【ＧＳ】・金・青
-5577,Gold GP Coil・Blue,腰甲【ＧＰ】・金・青
-5578,Gold FZ Coil・Yellow,腰甲【ＦＺ】・金・黄
-5579,Gold HS Coil・Yellow,腰甲【ＨＳ】・金・黄
-5580,Gold GS Coil・Yellow,腰甲【ＧＳ】・金・黄
-5581,Gold GP Coil・Yellow,腰甲【ＧＰ】・金・黄
-5582,Gold FZ Coil・Purple,腰甲【ＦＺ】・金・紫
-5583,Gold HS Coil・Purple,腰甲【ＨＳ】・金・紫
-5584,Gold GS Coil・Purple,腰甲【ＧＳ】・金・紫
-5585,Gold GP Coil・Purple,腰甲【ＧＰ】・金・紫
-5586,Gold FZ Coat・Red,腰衣【ＦＺ】・金・赤
-5587,Gold HS Coat・Red,腰衣【ＨＳ】・金・赤
-5588,Gold GS Coat・Red,腰衣【ＧＳ】・金・赤
-5589,Gold GP Coat・Red,腰衣【ＧＰ】・金・赤
-5590,Gold FZ Coat・Blue,腰衣【ＦＺ】・金・青
-5591,Gold HS Coat・Blue,腰衣【ＨＳ】・金・青
-5592,Gold GS Coat・Blue,腰衣【ＧＳ】・金・青
-5593,Gold GP Coat・Blue,腰衣【ＧＰ】・金・青
-5594,Gold FZ Coat・Yellow,腰衣【ＦＺ】・金・黄
-5595,Gold HS Coat・Yellow,腰衣【ＨＳ】・金・黄
-5596,Gold GS Coat・Yellow,腰衣【ＧＳ】・金・黄
-5597,Gold GP Coat・Yellow,腰衣【ＧＰ】・金・黄
-5598,Gold FZ Coat・Purple,腰衣【ＦＺ】・金・紫
-5599,Gold HS Coat・Purple,腰衣【ＨＳ】・金・紫
-5600,Gold GS Coat・Purple,腰衣【ＧＳ】・金・紫
-5601,Gold GP Coat・Purple,腰衣【ＧＰ】・金・紫
+5570,Gold FZ Coil・Red,金腰甲【ＦＺ】・赤
+5571,Gold HS Coil・Red,金腰甲【ＨＳ】・赤
+5572,Gold GS Coil・Red,金腰甲【ＧＳ】・赤
+5573,Gold GP Coil・Red,金腰甲【ＧＰ】・赤
+5574,Gold FZ Coil・Blue,金腰甲【ＦＺ】・青
+5575,Gold HS Coil・Blue,金腰甲【ＨＳ】・青
+5576,Gold GS Coil・Blue,金腰甲【ＧＳ】・青
+5577,Gold GP Coil・Blue,金腰甲【ＧＰ】・青
+5578,Gold FZ Coil・Yellow,金腰甲【ＦＺ】・黄
+5579,Gold HS Coil・Yellow,金腰甲【ＨＳ】・黄
+5580,Gold GS Coil・Yellow,金腰甲【ＧＳ】・黄
+5581,Gold GP Coil・Yellow,金腰甲【ＧＰ】・黄
+5582,Gold FZ Coil・Purple,金腰甲【ＦＺ】・紫
+5583,Gold HS Coil・Purple,金腰甲【ＨＳ】・紫
+5584,Gold GS Coil・Purple,金腰甲【ＧＳ】・紫
+5585,Gold GP Coil・Purple,金腰甲【ＧＰ】・紫
+5586,Gold FZ Coat・Red,金腰衣【ＦＺ】・赤
+5587,Gold HS Coat・Red,金腰衣【ＨＳ】・赤
+5588,Gold GS Coat・Red,金腰衣【ＧＳ】・赤
+5589,Gold GP Coat・Red,金腰衣【ＧＰ】・赤
+5590,Gold FZ Coat・Blue,金腰衣【ＦＺ】・青
+5591,Gold HS Coat・Blue,金腰衣【ＨＳ】・青
+5592,Gold GS Coat・Blue,金腰衣【ＧＳ】・青
+5593,Gold GP Coat・Blue,金腰衣【ＧＰ】・青
+5594,Gold FZ Coat・Yellow,金腰衣【ＦＺ】・黄
+5595,Gold HS Coat・Yellow,金腰衣【ＨＳ】・黄
+5596,Gold GS Coat・Yellow,金腰衣【ＧＳ】・黄
+5597,Gold GP Coat・Yellow,金腰衣【ＧＰ】・黄
+5598,Gold FZ Coat・Purple,金腰衣【ＦＺ】・紫
+5599,Gold HS Coat・Purple,金腰衣【ＨＳ】・紫
+5600,Gold GS Coat・Purple,金腰衣【ＧＳ】・紫
+5601,Gold GP Coat・Purple,金腰衣【ＧＰ】・紫
 5602,Shaln HS Belt・Blue,夏爾恩腰帶【ＨＳ】・青
 5603,Shaln GS Belt・Blue,夏爾恩腰帶【ＧＳ】・青
 5604,Shaln GP Belt・Blue,夏爾恩腰帶【ＧＰ】・青
@@ -5835,18 +5835,18 @@ index,source,target
 5833,Zyra HS Coat・Green,齊拉腰衣【ＨＳ】・緑
 5834,Zyra GS Coat・Green,齊拉腰衣【ＧＳ】・緑
 5835,Zyra GP Coat・Green,齊拉腰衣【ＧＰ】・緑
-5836,Zyra Coil・Water,齊拉水腰甲
-5837,Zyra F Coil・Water,齊拉水腰甲【Ｆ】
-5838,Zyra FZ Coil・Water,齊拉水腰甲【ＦＺ】
-5839,Zyra HS Coil・Water,齊拉水腰甲【ＨＳ】
-5840,Zyra GS Coil・Water,齊拉水腰甲【ＧＳ】
-5841,Zyra GP Coil・Water,齊拉水腰甲【ＧＰ】
-5842,Zyra Coat・Water,齊拉水腰衣
-5843,Zyra F Coat・Water,齊拉水腰衣【Ｆ】
-5844,Zyra FZ Coat・Water,齊拉水腰衣【ＦＺ】
-5845,Zyra HS Coat・Water,齊拉水腰衣【ＨＳ】
-5846,Zyra GS Coat・Water,齊拉水腰衣【ＧＳ】
-5847,Zyra GP Coat・Water,齊拉水腰衣【ＧＰ】
+5836,Zyra Coil・Water,齊拉腰甲・水
+5837,Zyra F Coil・Water,齊拉腰甲【Ｆ】・水
+5838,Zyra FZ Coil・Water,齊拉腰甲【ＦＺ】・水
+5839,Zyra HS Coil・Water,齊拉腰甲【ＨＳ】・水
+5840,Zyra GS Coil・Water,齊拉腰甲【ＧＳ】・水
+5841,Zyra GP Coil・Water,齊拉腰甲【ＧＰ】・水
+5842,Zyra Coat・Water,齊拉腰衣・水
+5843,Zyra F Coat・Water,齊拉腰衣【Ｆ】・水
+5844,Zyra FZ Coat・Water,齊拉腰衣【ＦＺ】・水
+5845,Zyra HS Coat・Water,齊拉腰衣【ＨＳ】・水
+5846,Zyra GS Coat・Water,齊拉腰衣【ＧＳ】・水
+5847,Zyra GP Coat・Water,齊拉腰衣【ＧＰ】・水
 5848,Zyra Coil・Red,齊拉腰甲・赤
 5849,Zyra F Coil・Red,齊拉腰甲【Ｆ】・赤
 5850,Zyra FZ Coil・Red,齊拉腰甲【ＦＺ】・赤
@@ -6011,54 +6011,54 @@ index,source,target
 6009,Ex HS Coat・Black,艾克斯腰衣【ＨＳ】・黑
 6010,Ex GS Coat・Black,艾克斯腰衣【ＧＳ】・黑
 6011,Ex GP Coat・Black,艾克斯腰衣【ＧＰ】・黑
-6012,Gold Cat FZ Coil,猫腰甲【ＦＺ】・金
-6013,Gold Cat HS Coil,猫腰甲【ＨＳ】・金
-6014,Gold Cat GS Coil,猫腰甲【ＧＳ】・金
-6015,Gold Cat GP Coil,猫腰甲【ＧＰ】・金
-6016,Gold Cat FZ Coat,猫腰衣【ＦＺ】・金
-6017,Gold Cat HS Coat,猫腰衣【ＨＳ】・金
-6018,Gold Cat GS Coat,猫腰衣【ＧＳ】・金
-6019,Gold Cat GP Coat,猫腰衣【ＧＰ】・金
-6020,Silver Cat FZ Coil,猫腰甲【ＦＺ】・銀
-6021,Silver Cat HS Coil,猫腰甲【ＨＳ】・銀
-6022,Silver Cat GS Coil,猫腰甲【ＧＳ】・銀
-6023,Silver Cat GP Coil,猫腰甲【ＧＰ】・銀
-6024,Silver Cat FZ Coat,猫腰衣【ＦＺ】・銀
-6025,Silver Cat HS Coat,猫腰衣【ＨＳ】・銀
-6026,Silver Cat GS Coat,猫腰衣【ＧＳ】・銀
-6027,Silver Cat GP Coat,猫腰衣【ＧＰ】・銀
-6028,Claire FZ Coil・Purple,克蕾兒腰甲【ＦＺ】・紫
-6029,Claire HS Coil・Purple,克蕾兒腰甲【ＨＳ】・紫
-6030,Claire GS Coil・Purple,克蕾兒腰甲【ＧＳ】・紫
-6031,Claire GP Coil・Purple,克蕾兒腰甲【ＧＰ】・紫
-6032,Claire FZ Coat・Purple,克蕾兒腰衣【ＦＺ】・紫
-6033,Claire HS Coat・Purple,克蕾兒腰衣【ＨＳ】・紫
-6034,Claire GS Coat・Purple,克蕾兒腰衣【ＧＳ】・紫
-6035,Claire GP Coat・Purple,克蕾兒腰衣【ＧＰ】・紫
-6036,Claire FZ Coil・Water,克蕾兒水腰甲【ＦＺ】
-6037,Claire HS Coil・Water,克蕾兒水腰甲【ＨＳ】
-6038,Claire GS Coil・Water,克蕾兒水腰甲【ＧＳ】
-6039,Claire GP Coil・Water,克蕾兒水腰甲【ＧＰ】
-6040,Claire FZ Coat・Water,克蕾兒水腰衣【ＦＺ】
-6041,Claire HS Coat・Water,克蕾兒水腰衣【ＨＳ】
-6042,Claire GS Coat・Water,克蕾兒水腰衣【ＧＳ】
-6043,Claire GP Coat・Water,克蕾兒水腰衣【ＧＰ】
-6044,Claire FZ Coil・Red,克蕾兒腰甲【ＦＺ】・赤
-6045,Claire HS Coil・Red,克蕾兒腰甲【ＨＳ】・赤
-6046,Claire GS Coil・Red,克蕾兒腰甲【ＧＳ】・赤
-6047,Claire GP Coil・Red,克蕾兒腰甲【ＧＰ】・赤
-6048,Claire FZ Coat・Red,克蕾兒腰衣【ＦＺ】・赤
-6049,Claire HS Coat・Red,克蕾兒腰衣【ＨＳ】・赤
-6050,Claire GS Coat・Red,克蕾兒腰衣【ＧＳ】・赤
-6051,Claire GP Coat・Red,克蕾兒腰衣【ＧＰ】・赤
-6052,Claire FZ Coil・Black,克蕾兒腰甲【ＦＺ】・黑
-6053,Claire HS Coil・Black,克蕾兒腰甲【ＨＳ】・黑
-6054,Claire GS Coil・Black,克蕾兒腰甲【ＧＳ】・黑
-6055,Claire GP Coil・Black,克蕾兒腰甲【ＧＰ】・黑
-6056,Claire FZ Coat・Black,克蕾兒腰衣【ＦＺ】・黑
-6057,Claire HS Coat・Black,克蕾兒腰衣【ＨＳ】・黑
-6058,Claire GS Coat・Black,克蕾兒腰衣【ＧＳ】・黑
-6059,Claire GP Coat・Black,克蕾兒腰衣【ＧＰ】・黑
+6012,Gold Cat FZ Coil,金猫腰甲【ＦＺ】
+6013,Gold Cat HS Coil,金猫腰甲【ＨＳ】
+6014,Gold Cat GS Coil,金猫腰甲【ＧＳ】
+6015,Gold Cat GP Coil,金猫腰甲【ＧＰ】
+6016,Gold Cat FZ Coat,金猫腰衣【ＦＺ】
+6017,Gold Cat HS Coat,金猫腰衣【ＨＳ】
+6018,Gold Cat GS Coat,金猫腰衣【ＧＳ】
+6019,Gold Cat GP Coat,金猫腰衣【ＧＰ】
+6020,Silver Cat FZ Coil,銀猫腰甲【ＦＺ】
+6021,Silver Cat HS Coil,銀猫腰甲【ＨＳ】
+6022,Silver Cat GS Coil,銀猫腰甲【ＧＳ】
+6023,Silver Cat GP Coil,銀猫腰甲【ＧＰ】
+6024,Silver Cat FZ Coat,銀猫腰衣【ＦＺ】
+6025,Silver Cat HS Coat,銀猫腰衣【ＨＳ】
+6026,Silver Cat GS Coat,銀猫腰衣【ＧＳ】
+6027,Silver Cat GP Coat,銀猫腰衣【ＧＰ】
+6028,Claire FZ Coil・Purple,克蕾爾腰甲【ＦＺ】・紫
+6029,Claire HS Coil・Purple,克蕾爾腰甲【ＨＳ】・紫
+6030,Claire GS Coil・Purple,克蕾爾腰甲【ＧＳ】・紫
+6031,Claire GP Coil・Purple,克蕾爾腰甲【ＧＰ】・紫
+6032,Claire FZ Coat・Purple,克蕾爾腰衣【ＦＺ】・紫
+6033,Claire HS Coat・Purple,克蕾爾腰衣【ＨＳ】・紫
+6034,Claire GS Coat・Purple,克蕾爾腰衣【ＧＳ】・紫
+6035,Claire GP Coat・Purple,克蕾爾腰衣【ＧＰ】・紫
+6036,Claire FZ Coil・Water,克蕾爾腰甲【ＦＺ】・水
+6037,Claire HS Coil・Water,克蕾爾腰甲【ＨＳ】・水
+6038,Claire GS Coil・Water,克蕾爾腰甲【ＧＳ】・水
+6039,Claire GP Coil・Water,克蕾爾腰甲【ＧＰ】・水
+6040,Claire FZ Coat・Water,克蕾爾腰衣【ＦＺ】・水
+6041,Claire HS Coat・Water,克蕾爾腰衣【ＨＳ】・水
+6042,Claire GS Coat・Water,克蕾爾腰衣【ＧＳ】・水
+6043,Claire GP Coat・Water,克蕾爾腰衣【ＧＰ】・水
+6044,Claire FZ Coil・Red,克蕾爾腰甲【ＦＺ】・赤
+6045,Claire HS Coil・Red,克蕾爾腰甲【ＨＳ】・赤
+6046,Claire GS Coil・Red,克蕾爾腰甲【ＧＳ】・赤
+6047,Claire GP Coil・Red,克蕾爾腰甲【ＧＰ】・赤
+6048,Claire FZ Coat・Red,克蕾爾腰衣【ＦＺ】・赤
+6049,Claire HS Coat・Red,克蕾爾腰衣【ＨＳ】・赤
+6050,Claire GS Coat・Red,克蕾爾腰衣【ＧＳ】・赤
+6051,Claire GP Coat・Red,克蕾爾腰衣【ＧＰ】・赤
+6052,Claire FZ Coil・Black,克蕾爾腰甲【ＦＺ】・黑
+6053,Claire HS Coil・Black,克蕾爾腰甲【ＨＳ】・黑
+6054,Claire GS Coil・Black,克蕾爾腰甲【ＧＳ】・黑
+6055,Claire GP Coil・Black,克蕾爾腰甲【ＧＰ】・黑
+6056,Claire FZ Coat・Black,克蕾爾腰衣【ＦＺ】・黑
+6057,Claire HS Coat・Black,克蕾爾腰衣【ＨＳ】・黑
+6058,Claire GS Coat・Black,克蕾爾腰衣【ＧＳ】・黑
+6059,Claire GP Coat・Black,克蕾爾腰衣【ＧＰ】・黑
 6060,Text HS Coil・Purple,文書腰甲【ＨＳ】・紫
 6061,Text GS Coil・Purple,文書腰甲【ＧＳ】・紫
 6062,Text GP Coil・Purple,文書腰甲【ＧＰ】・紫
@@ -6211,12 +6211,12 @@ index,source,target
 6209,Maisto HS Coat・Pink,麥斯托腰衣【ＨＳ】・桃
 6210,Maisto GS Coat・Pink,麥斯托腰衣【ＧＳ】・桃
 6211,Maisto GP Coat・Pink,麥斯托腰衣【ＧＰ】・桃
-6212,Cayssis HS Coil Water,凱西斯水腰甲【ＨＳ】
-6213,Cayssis GS Coil Water,凱西斯水腰甲【ＧＳ】
-6214,Cayssis GP Coil Water,凱西斯水腰甲【ＧＰ】
-6215,Cayssis HS Coat Water,凱西斯水腰衣【ＨＳ】
-6216,Cayssis GS Coat Water,凱西斯水腰衣【ＧＳ】
-6217,Cayssis GP Coat Water,凱西斯水腰衣【ＧＰ】
+6212,Cayssis HS Coil Water,凱西斯腰甲【ＨＳ】・水
+6213,Cayssis GS Coil Water,凱西斯腰甲【ＧＳ】・水
+6214,Cayssis GP Coil Water,凱西斯腰甲【ＧＰ】・水
+6215,Cayssis HS Coat Water,凱西斯腰衣【ＨＳ】・水
+6216,Cayssis GS Coat Water,凱西斯腰衣【ＧＳ】・水
+6217,Cayssis GP Coat Water,凱西斯腰衣【ＧＰ】・水
 6218,Cayssis HS Coil Red,凱西斯腰甲【ＨＳ】・赤
 6219,Cayssis GS Coil Red,凱西斯腰甲【ＧＳ】・赤
 6220,Cayssis GP Coil Red,凱西斯腰甲【ＧＰ】・赤
@@ -6297,8 +6297,8 @@ index,source,target
 6295,Galitos GP Coat・Red,加里托斯腰衣【ＧＰ】・赤
 6296,Galitos GP Belt・Black,加里托斯腰帶【ＧＰ】・黑
 6297,Galitos GP Coat・Black,加里托斯腰衣【ＧＰ】・黑
-6298,Galitos GP Belt・Water,加里托斯水腰帶【ＧＰ】
-6299,Galitos GP Coat・Water,加里托斯水腰衣【ＧＰ】
+6298,Galitos GP Belt・Water,加里托斯腰帶【ＧＰ】・水
+6299,Galitos GP Coat・Water,加里托斯腰衣【ＧＰ】・水
 6300,Lien GP Coil・Blue,里恩腰甲【ＧＰ】・青
 6301,Lien GP Coat・Blue,里恩腰衣【ＧＰ】・青
 6302,Lien GP Coil・Red,里恩腰甲【ＧＰ】・赤
@@ -6315,13 +6315,13 @@ index,source,target
 6313,Melety GP Coat・Blue,梅蕾蒂腰衣【ＧＰ】・青
 6314,Melety GP Coil・Black,梅蕾蒂腰甲【ＧＰ】・黑
 6315,Melety GP Coat・Black,梅蕾蒂腰衣【ＧＰ】・黑
-6316,Steno GP Elytra ー・Orange,水竜翅腰【ＧＰ】
+6316,Steno GP Elytra ー・Orange,水竜翅腰【ＧＰ】・橙
 6317,Steno GP Coat・Orange,水竜腰衣【ＧＰ】・橙
-6318,Steno GP Elytra ー・Peach,水竜翅腰【ＧＰ】
+6318,Steno GP Elytra ー・Peach,水竜翅腰【ＧＰ】・桃
 6319,Steno GP Coat・Peach,水竜腰衣【ＧＰ】・桃
-6320,Steno GP Elytra ー・Blue,水竜翅腰【ＧＰ】
+6320,Steno GP Elytra ー・Blue,水竜翅腰【ＧＰ】・青
 6321,Steno GP Coat・Blue,水竜腰衣【ＧＰ】・青
-6322,Steno GP Elytra ー・Red,水竜翅腰【ＧＰ】
+6322,Steno GP Elytra ー・Red,水竜翅腰【ＧＰ】・赤
 6323,Steno GP Coat・Red,水竜腰衣【ＧＰ】・赤
 6324,Star Festival GP Obi 【 Red 】,星祭帶【ＧＰ】・赤
 6325,Tanabata GP Obi 【 Red 】,七夕帶【ＧＰ】・赤
@@ -6419,10 +6419,10 @@ index,source,target
 6417,Suzaku・刀神GX Coil,朱雀腰甲【ＧＸ】
 6418,Genbu・刀神GX Coil,玄武腰甲【ＧＸ】
 6419,Seiryu・刀神GX Coil,青龍腰甲【ＧＸ】
-6420,Byakko・Heaven 槍GX Coil,白虎腰甲【ＧＸ】・天
-6421,Suzaku・Heaven 槍GX Coil,朱雀腰甲【ＧＸ】・天
-6422,Genbu・Heaven 槍GX Coil,玄武腰甲【ＧＸ】・天
-6423,Seiryu・Heaven 槍GX Coil,青龍腰甲【ＧＸ】・天
+6420,Byakko・Heaven 槍GX Coil,白虎天腰甲【ＧＸ】
+6421,Suzaku・Heaven 槍GX Coil,朱雀天腰甲【ＧＸ】
+6422,Genbu・Heaven 槍GX Coil,玄武天腰甲【ＧＸ】
+6423,Seiryu・Heaven 槍GX Coil,青龍天腰甲【ＧＸ】
 6424,Byakko・砲皇GX Coil,白虎腰甲【ＧＸ】
 6425,Suzaku・砲皇GX Coil,朱雀腰甲【ＧＸ】
 6426,Genbu・砲皇GX Coil,玄武腰甲【ＧＸ】
@@ -6605,10 +6605,10 @@ index,source,target
 6603,Bliss HS Coat 【 Yellow 】,至福腰衣【ＨＳ】・黄
 6604,Bliss GS Coat 【 Yellow 】,至福腰衣【ＧＳ】・黄
 6605,Bliss GP Coat 【 Yellow 】,至福腰衣【ＧＰ】・黄
-6606,White Cat FZテイル,猫腰甲
-6607,White Cat HSテイル,猫腰甲
-6608,White Cat GSテイル,猫腰甲
-6609,White Cat GPテイル,猫腰甲
+6606,White Cat FZテイル,白猫腰甲
+6607,White Cat HSテイル,白猫腰甲
+6608,White Cat GSテイル,白猫腰甲
+6609,White Cat GPテイル,白猫腰甲
 6610,Pharan HS Coil・White,法藍腰甲【ＨＳ】・白
 6611,Pharan GS Coil・White,法藍腰甲【ＧＳ】・白
 6612,Pharan GP Coil・White,法藍腰甲【ＧＰ】・白
@@ -6641,10 +6641,10 @@ index,source,target
 6639,Gloria GP Coil・Blue,榮光腰甲【ＧＰ】・青
 6640,Gloria GS Coat・Blue,榮光腰衣【ＧＳ】・青
 6641,Gloria GP Coat・Blue,榮光腰衣【ＧＰ】・青
-6642,Gloria GS Coil・Water,榮光水腰甲【ＧＳ】
-6643,Gloria GP Coil・Water,榮光水腰甲【ＧＰ】
-6644,Gloria GS Coat・Water,榮光水腰衣【ＧＳ】
-6645,Gloria GP Coat・Water,榮光水腰衣【ＧＰ】
+6642,Gloria GS Coil・Water,榮光腰甲【ＧＳ】・水
+6643,Gloria GP Coil・Water,榮光腰甲【ＧＰ】・水
+6644,Gloria GS Coat・Water,榮光腰衣【ＧＳ】・水
+6645,Gloria GP Coat・Water,榮光腰衣【ＧＰ】・水
 6646,Gloria GS Coil・Red,榮光腰甲【ＧＳ】・赤
 6647,Gloria GP Coil・Red,榮光腰甲【ＧＰ】・赤
 6648,Gloria GS Coat・Red,榮光腰衣【ＧＳ】・赤
@@ -6717,34 +6717,34 @@ index,source,target
 6715,Truss HS Belt Blue,桁架腰帶【ＨＳ】・青
 6716,Truss GS Belt Blue,桁架腰帶【ＧＳ】・青
 6717,Truss GP Belt Blue,桁架腰帶【ＧＰ】・青
-6718,Truss FZサッシュ Blue,桁架腰甲
-6719,Truss HSサッシュ Blue,桁架腰甲
-6720,Truss GSサッシュ Blue,桁架腰甲
-6721,Truss GPサッシュ Blue,桁架腰甲
+6718,Truss FZサッシュ Blue,桁架腰甲・青
+6719,Truss HSサッシュ Blue,桁架腰甲・青
+6720,Truss GSサッシュ Blue,桁架腰甲・青
+6721,Truss GPサッシュ Blue,桁架腰甲・青
 6722,Truss FZ Belt Red,桁架腰帶【ＦＺ】・赤
 6723,Truss HS Belt Red,桁架腰帶【ＨＳ】・赤
 6724,Truss GS Belt Red,桁架腰帶【ＧＳ】・赤
 6725,Truss GP Belt Red,桁架腰帶【ＧＰ】・赤
-6726,Truss FZサッシュ Red,桁架腰甲
-6727,Truss HSサッシュ Red,桁架腰甲
-6728,Truss GSサッシュ Red,桁架腰甲
-6729,Truss GPサッシュ Red,桁架腰甲
+6726,Truss FZサッシュ Red,桁架腰甲・赤
+6727,Truss HSサッシュ Red,桁架腰甲・赤
+6728,Truss GSサッシュ Red,桁架腰甲・赤
+6729,Truss GPサッシュ Red,桁架腰甲・赤
 6730,Truss FZ Belt White,桁架腰帶【ＦＺ】・白
 6731,Truss HS Belt White,桁架腰帶【ＨＳ】・白
 6732,Truss GS Belt White,桁架腰帶【ＧＳ】・白
 6733,Truss GP Belt White,桁架腰帶【ＧＰ】・白
-6734,Truss FZサッシュ White,桁架腰甲
-6735,Truss HSサッシュ White,桁架腰甲
-6736,Truss GSサッシュ White,桁架腰甲
-6737,Truss GPサッシュ White,桁架腰甲
+6734,Truss FZサッシュ White,桁架腰甲・白
+6735,Truss HSサッシュ White,桁架腰甲・白
+6736,Truss GSサッシュ White,桁架腰甲・白
+6737,Truss GPサッシュ White,桁架腰甲・白
 6738,Truss FZ Belt Purple,桁架腰帶【ＦＺ】・紫
 6739,Truss HS Belt Purple,桁架腰帶【ＨＳ】・紫
 6740,Truss GS Belt Purple,桁架腰帶【ＧＳ】・紫
 6741,Truss GP Belt Purple,桁架腰帶【ＧＰ】・紫
-6742,Truss FZサッシュ Purple,桁架腰甲
-6743,Truss HSサッシュ Purple,桁架腰甲
-6744,Truss GSサッシュ Purple,桁架腰甲
-6745,Truss GPサッシュ Purple,桁架腰甲
+6742,Truss FZサッシュ Purple,桁架腰甲・紫
+6743,Truss HSサッシュ Purple,桁架腰甲・紫
+6744,Truss GSサッシュ Purple,桁架腰甲・紫
+6745,Truss GPサッシュ Purple,桁架腰甲・紫
 6746,Rail HS Coil,軌腰甲【ＨＳ】
 6747,Rail GS Coil,軌腰甲【ＧＳ】
 6748,Rail GP Coil,軌腰甲【ＧＰ】
@@ -6769,18 +6769,18 @@ index,source,target
 6767,Rutare HS Coat,魯塔雷腰衣【ＨＳ】
 6768,Rutare GS Coat,魯塔雷腰衣【ＧＳ】
 6769,Rutare GP Coat,魯塔雷腰衣【ＧＰ】
-6770,Rolling Flow の腰当て・HS,の腰當【ＨＳ】
-6771,Rolling Flow の腰当て・GS,の腰當【ＧＳ】
-6772,Rolling Flow の腰当て・GP,の腰當【ＧＰ】
+6770,Rolling Flow の腰当て・HS,滾流腰當【ＨＳ】
+6771,Rolling Flow の腰当て・GS,滾流腰當【ＧＳ】
+6772,Rolling Flow の腰当て・GP,滾流腰當【ＧＰ】
 6773,旋転の腰当て・HS,旋転の腰當【ＨＳ】
 6774,旋転の腰当て・GS,旋転の腰當【ＧＳ】
 6775,旋転の腰当て・GP,旋転の腰當【ＧＰ】
-6776,Rolling Sky の腰当て・HS,の腰當【ＨＳ】
-6777,Rolling Sky の腰当て・GS,の腰當【ＧＳ】
-6778,Rolling Sky の腰当て・GP,の腰當【ＧＰ】
-6779,Rolling Earth の腰当て・HS,の腰當【ＨＳ】・地
-6780,Rolling Earth の腰当て・GS,の腰當【ＧＳ】・地
-6781,Rolling Earth の腰当て・GP,の腰當【ＧＰ】・地
+6776,Rolling Sky の腰当て・HS,滾天腰當【ＨＳ】・天
+6777,Rolling Sky の腰当て・GS,滾天腰當【ＧＳ】・天
+6778,Rolling Sky の腰当て・GP,滾天腰當【ＧＰ】・天
+6779,Rolling Earth の腰当て・HS,滾地腰當【ＨＳ】
+6780,Rolling Earth の腰当て・GS,滾地腰當【ＧＳ】
+6781,Rolling Earth の腰当て・GP,滾地腰當【ＧＰ】
 6782,Latria HS Coil,崇敬腰甲【ＨＳ】
 6783,Latria GS Coil,崇敬腰甲【ＧＳ】
 6784,Latria GP Coil,崇敬腰甲【ＧＰ】
@@ -7089,21 +7089,21 @@ index,source,target
 7087,Wind GFアドミ,風腰甲
 7088,武者GF【腰当て】,武者腰當【Ｆ】
 7089,日光GF【腰当て】,日光腰當【Ｆ】
-7090,White 蘭・Kensei Coil,蘭腰甲・白
-7091,White 蘭・Kensei F Coil,蘭腰甲【Ｆ】・白
-7092,White 蘭・Kensei FX Coil,蘭腰甲【ＦＸ】・白
-7093,Crimson 霞・Kensei Coil,霞腰甲・紅
-7094,Crimson 霞・Kensei F Coil,霞腰甲【Ｆ】・紅
-7095,Crimson 霞・Kensei FX Coil,霞腰甲【ＦＸ】・紅
-7096,White 蘭・Kensei G Coil,蘭腰甲【Ｇ】・白
-7097,White 蘭・Kensei GF Coil,蘭腰甲【ＧＦ】・白
-7098,White 蘭・Kensei GX Coil,蘭腰甲【ＧＸ】・白
+7090,White 蘭・Kensei Coil,白蘭劍聖腰甲
+7091,White 蘭・Kensei F Coil,白蘭劍聖腰甲【Ｆ】
+7092,White 蘭・Kensei FX Coil,白蘭劍聖腰甲【ＦＸ】
+7093,Crimson 霞・Kensei Coil,紅霞劍聖腰甲
+7094,Crimson 霞・Kensei F Coil,紅霞劍聖腰甲【Ｆ】
+7095,Crimson 霞・Kensei FX Coil,紅霞劍聖腰甲【ＦＸ】
+7096,White 蘭・Kensei G Coil,白蘭劍聖腰甲【Ｇ】
+7097,White 蘭・Kensei GF Coil,白蘭劍聖腰甲【ＧＦ】
+7098,White 蘭・Kensei GX Coil,白蘭劍聖腰甲【ＧＸ】
 7099,月夜・Kensei G Coil,月夜腰甲【Ｇ】
 7100,月夜・Kensei GF Coil,月夜腰甲【ＧＦ】
 7101,月夜・Kensei GX Coil,月夜腰甲【ＧＸ】
-7102,Crimson 霞・Kensei G Coil,霞腰甲【Ｇ】・紅
-7103,Crimson 霞・Kensei GF Coil,霞腰甲【ＧＦ】・紅
-7104,Crimson 霞・Kensei GX Coil,霞腰甲【ＧＸ】・紅
+7102,Crimson 霞・Kensei G Coil,紅霞劍聖腰甲【Ｇ】
+7103,Crimson 霞・Kensei GF Coil,紅霞劍聖腰甲【ＧＦ】
+7104,Crimson 霞・Kensei GX Coil,紅霞劍聖腰甲【ＧＸ】
 7105,Green 穹・Kensei G Coil,穹腰甲【Ｇ】・緑
 7106,Green 穹・Kensei GF Coil,穹腰甲【ＧＦ】・緑
 7107,Green 穹・Kensei GX Coil,穹腰甲【ＧＸ】・緑
@@ -7197,24 +7197,24 @@ index,source,target
 7195,Green 穹・奏帝G Coil,穹奏帝腰甲・緑
 7196,Green 穹・奏帝GF Coil,穹奏帝腰甲【Ｆ】・緑
 7197,Green 穹・奏帝GX Coil,穹奏帝腰甲・緑
-7198,White 蘭・Heaven 槍 Coil,蘭槍腰甲・白・天
-7199,White 蘭・Heaven 槍F Coil,蘭槍腰甲【Ｆ】・白・天
-7200,White 蘭・Heaven 槍FX Coil,蘭槍腰甲【ＦＸ】・白・天
-7201,Crimson 霞・Heaven 槍 Coil,霞槍腰甲・紅・天
-7202,Crimson 霞・Heaven 槍F Coil,霞槍腰甲【Ｆ】・紅・天
-7203,Crimson 霞・Heaven 槍FX Coil,霞槍腰甲【ＦＸ】・紅・天
-7204,White 蘭・Heaven 槍G Coil,蘭槍腰甲【Ｇ】・白・天
-7205,White 蘭・Heaven 槍GF Coil,蘭槍腰甲【Ｆ】・白・天
-7206,White 蘭・Heaven 槍GX Coil,蘭槍腰甲【ＧＸ】・白・天
+7198,White 蘭・Heaven 槍 Coil,蘭槍天腰甲・白
+7199,White 蘭・Heaven 槍F Coil,蘭槍天腰甲【Ｆ】・白
+7200,White 蘭・Heaven 槍FX Coil,蘭槍天腰甲【ＦＸ】・白
+7201,Crimson 霞・Heaven 槍 Coil,霞槍天腰甲・紅
+7202,Crimson 霞・Heaven 槍F Coil,霞槍天腰甲【Ｆ】・紅
+7203,Crimson 霞・Heaven 槍FX Coil,霞槍天腰甲【ＦＸ】・紅
+7204,White 蘭・Heaven 槍G Coil,蘭槍天腰甲【Ｇ】・白
+7205,White 蘭・Heaven 槍GF Coil,蘭槍天腰甲【Ｆ】・白
+7206,White 蘭・Heaven 槍GX Coil,蘭槍天腰甲【ＧＸ】・白
 7207,月夜・Heaven 槍G Coil,月夜槍腰甲・天
-7208,月夜・Heaven 槍GF Coil,月夜槍腰甲【Ｆ】・天
+7208,月夜・Heaven 槍GF Coil,月夜槍天腰甲【Ｆ】
 7209,月夜・Heaven 槍GX Coil,月夜槍腰甲・天
-7210,Crimson 霞・Heaven 槍G Coil,霞槍腰甲【Ｇ】・紅・天
-7211,Crimson 霞・Heaven 槍GF Coil,霞槍腰甲【Ｆ】・紅・天
-7212,Crimson 霞・Heaven 槍GX Coil,霞槍腰甲【ＧＸ】・紅・天
-7213,Green 穹・Heaven 槍G Coil,穹槍腰甲・緑・天
-7214,Green 穹・Heaven 槍GF Coil,穹槍腰甲【Ｆ】・緑・天
-7215,Green 穹・Heaven 槍GX Coil,穹槍腰甲・緑・天
+7210,Crimson 霞・Heaven 槍G Coil,霞槍天腰甲【Ｇ】・紅
+7211,Crimson 霞・Heaven 槍GF Coil,霞槍天腰甲【Ｆ】・紅
+7212,Crimson 霞・Heaven 槍GX Coil,霞槍天腰甲【ＧＸ】・紅
+7213,Green 穹・Heaven 槍G Coil,穹槍腰甲緑・天
+7214,Green 穹・Heaven 槍GF Coil,穹槍天腰甲【Ｆ】・緑
+7215,Green 穹・Heaven 槍GX Coil,穹槍腰甲緑・天
 7216,White 蘭・砲皇 Coil,蘭砲皇腰甲・白
 7217,White 蘭・砲皇F Coil,蘭砲皇腰甲【Ｆ】・白
 7218,White 蘭・砲皇FX Coil,蘭砲皇腰甲【ＦＸ】・白
@@ -7473,54 +7473,54 @@ index,source,target
 7471,Oyun HS Coat・White,歐雲腰衣【ＨＳ】・白
 7472,Oyun GS Coat・White,歐雲腰衣【ＧＳ】・白
 7473,Oyun GP Coat・White,歐雲腰衣【ＧＰ】・白
-7474,Ash Coil・Red,腰甲・灰・赤
-7475,Ash F Coil・Red,腰甲【Ｆ】・灰・赤
-7476,Ash FZ Coil・Red,腰甲【ＦＺ】・灰・赤
-7477,Ash HS Coil・Red,腰甲【ＨＳ】・灰・赤
-7478,Ash GS Coil・Red,腰甲【ＧＳ】・灰・赤
-7479,Ash GP Coil・Red,腰甲【ＧＰ】・灰・赤
-7480,Ash Coat・Red,腰衣・灰・赤
-7481,Ash F Coat・Red,腰衣【Ｆ】・灰・赤
-7482,Ash FZ Coat・Red,腰衣【ＦＺ】・灰・赤
-7483,Ash HS Coat・Red,腰衣【ＨＳ】・灰・赤
-7484,Ash GS Coat・Red,腰衣【ＧＳ】・灰・赤
-7485,Ash GP Coat・Red,腰衣【ＧＰ】・灰・赤
-7486,Ash Coil・Blue,腰甲・灰・青
-7487,Ash F Coil・Blue,腰甲【Ｆ】・灰・青
-7488,Ash FZ Coil・Blue,腰甲【ＦＺ】・灰・青
-7489,Ash HS Coil・Blue,腰甲【ＨＳ】・灰・青
-7490,Ash GS Coil・Blue,腰甲【ＧＳ】・灰・青
-7491,Ash GP Coil・Blue,腰甲【ＧＰ】・灰・青
-7492,Ash Coat・Blue,腰衣・灰・青
-7493,Ash F Coat・Blue,腰衣【Ｆ】・灰・青
-7494,Ash FZ Coat・Blue,腰衣【ＦＺ】・灰・青
-7495,Ash HS Coat・Blue,腰衣【ＨＳ】・灰・青
-7496,Ash GS Coat・Blue,腰衣【ＧＳ】・灰・青
-7497,Ash GP Coat・Blue,腰衣【ＧＰ】・灰・青
-7498,Ash Coil・White,腰甲・灰・白
-7499,Ash F Coil・White,腰甲【Ｆ】・灰・白
-7500,Ash FZ Coil・White,腰甲【ＦＺ】・灰・白
-7501,Ash HS Coil・White,腰甲【ＨＳ】・灰・白
-7502,Ash GS Coil・White,腰甲【ＧＳ】・灰・白
-7503,Ash GP Coil・White,腰甲【ＧＰ】・灰・白
-7504,Ash Coat・White,腰衣・灰・白
-7505,Ash F Coat・White,腰衣【Ｆ】・灰・白
-7506,Ash FZ Coat・White,腰衣【ＦＺ】・灰・白
-7507,Ash HS Coat・White,腰衣【ＨＳ】・灰・白
-7508,Ash GS Coat・White,腰衣【ＧＳ】・灰・白
-7509,Ash GP Coat・White,腰衣【ＧＰ】・灰・白
-7510,Ash Coil・Black,腰甲・灰・黑
-7511,Ash F Coil・Black,腰甲【Ｆ】・灰・黑
-7512,Ash FZ Coil・Black,腰甲【ＦＺ】・灰・黑
-7513,Ash HS Coil・Black,腰甲【ＨＳ】・灰・黑
-7514,Ash GS Coil・Black,腰甲【ＧＳ】・灰・黑
-7515,Ash GP Coil・Black,腰甲【ＧＰ】・灰・黑
-7516,Ash Coat・Black,腰衣・灰・黑
-7517,Ash F Coat・Black,腰衣【Ｆ】・灰・黑
-7518,Ash FZ Coat・Black,腰衣【ＦＺ】・灰・黑
-7519,Ash HS Coat・Black,腰衣【ＨＳ】・灰・黑
-7520,Ash GS Coat・Black,腰衣【ＧＳ】・灰・黑
-7521,Ash GP Coat・Black,腰衣【ＧＰ】・灰・黑
+7474,Ash Coil・Red,腰甲灰・赤
+7475,Ash F Coil・Red,腰甲【Ｆ】灰・赤
+7476,Ash FZ Coil・Red,腰甲【ＦＺ】灰・赤
+7477,Ash HS Coil・Red,腰甲【ＨＳ】灰・赤
+7478,Ash GS Coil・Red,腰甲【ＧＳ】灰・赤
+7479,Ash GP Coil・Red,腰甲【ＧＰ】灰・赤
+7480,Ash Coat・Red,腰衣灰・赤
+7481,Ash F Coat・Red,腰衣【Ｆ】灰・赤
+7482,Ash FZ Coat・Red,腰衣【ＦＺ】灰・赤
+7483,Ash HS Coat・Red,腰衣【ＨＳ】灰・赤
+7484,Ash GS Coat・Red,腰衣【ＧＳ】灰・赤
+7485,Ash GP Coat・Red,腰衣【ＧＰ】灰・赤
+7486,Ash Coil・Blue,腰甲灰・青
+7487,Ash F Coil・Blue,腰甲【Ｆ】灰・青
+7488,Ash FZ Coil・Blue,腰甲【ＦＺ】灰・青
+7489,Ash HS Coil・Blue,腰甲【ＨＳ】灰・青
+7490,Ash GS Coil・Blue,腰甲【ＧＳ】灰・青
+7491,Ash GP Coil・Blue,腰甲【ＧＰ】灰・青
+7492,Ash Coat・Blue,腰衣灰・青
+7493,Ash F Coat・Blue,腰衣【Ｆ】灰・青
+7494,Ash FZ Coat・Blue,腰衣【ＦＺ】灰・青
+7495,Ash HS Coat・Blue,腰衣【ＨＳ】灰・青
+7496,Ash GS Coat・Blue,腰衣【ＧＳ】灰・青
+7497,Ash GP Coat・Blue,腰衣【ＧＰ】灰・青
+7498,Ash Coil・White,腰甲灰・白
+7499,Ash F Coil・White,腰甲【Ｆ】灰・白
+7500,Ash FZ Coil・White,腰甲【ＦＺ】灰・白
+7501,Ash HS Coil・White,腰甲【ＨＳ】灰・白
+7502,Ash GS Coil・White,腰甲【ＧＳ】灰・白
+7503,Ash GP Coil・White,腰甲【ＧＰ】灰・白
+7504,Ash Coat・White,腰衣灰・白
+7505,Ash F Coat・White,腰衣【Ｆ】灰・白
+7506,Ash FZ Coat・White,腰衣【ＦＺ】灰・白
+7507,Ash HS Coat・White,腰衣【ＨＳ】灰・白
+7508,Ash GS Coat・White,腰衣【ＧＳ】灰・白
+7509,Ash GP Coat・White,腰衣【ＧＰ】灰・白
+7510,Ash Coil・Black,腰甲灰・黑
+7511,Ash F Coil・Black,腰甲【Ｆ】灰・黑
+7512,Ash FZ Coil・Black,腰甲【ＦＺ】灰・黑
+7513,Ash HS Coil・Black,腰甲【ＨＳ】灰・黑
+7514,Ash GS Coil・Black,腰甲【ＧＳ】灰・黑
+7515,Ash GP Coil・Black,腰甲【ＧＰ】灰・黑
+7516,Ash Coat・Black,腰衣灰・黑
+7517,Ash F Coat・Black,腰衣【Ｆ】灰・黑
+7518,Ash FZ Coat・Black,腰衣【ＦＺ】灰・黑
+7519,Ash HS Coat・Black,腰衣【ＨＳ】灰・黑
+7520,Ash GS Coat・Black,腰衣【ＧＳ】灰・黑
+7521,Ash GP Coat・Black,腰衣【ＧＰ】灰・黑
 7522,Pistis GP Coil,普伊斯伊腰甲【ＧＰ】
 7523,Pistis GP Coat,普伊斯伊腰衣【ＧＰ】
 7524,Blink HS Belt,布伊恩腰帶【ＨＳ】
@@ -8057,102 +8057,102 @@ index,source,target
 8055,Bande HS Coat・Black,飾帶腰衣【ＨＳ】・黑
 8056,Bande GS Coat・Black,飾帶腰衣【ＧＳ】・黑
 8057,Bande GP Coat・Black,飾帶腰衣【ＧＰ】・黑
-8058,Tenpi ノ佩楯・Red,天陽腰甲
-8059,Tenpi ノ佩楯F・Red,天陽腰甲【Ｆ】
-8060,Tenpi ノ佩楯FZ・Red,天陽腰甲【ＦＺ】
-8061,Tenpi ノ佩楯HS・Red,天陽腰甲【ＨＳ】
-8062,Tenpi ノ佩楯GS・Red,天陽腰甲【ＧＳ】
-8063,Tenpi ノ佩楯GP・Red,天陽腰甲【ＧＰ】
-8064,Tenpi ノ腰当て・Red,天陽腰當
-8065,Tenpi ノ腰当てF・Red,天陽腰當【Ｆ】
-8066,Tenpi ノ腰当てFZ・Red,天陽腰當【ＦＺ】
-8067,Tenpi ノ腰当てHS・Red,天陽腰當【ＨＳ】
-8068,Tenpi ノ腰当てGS・Red,天陽腰當【ＧＳ】
-8069,Tenpi ノ腰当てGP・Red,天陽腰當【ＧＰ】
-8070,Tenpi ノ佩楯・Blue,天陽腰甲
-8071,Tenpi ノ佩楯F・Blue,天陽腰甲【Ｆ】
-8072,Tenpi ノ佩楯FZ・Blue,天陽腰甲【ＦＺ】
-8073,Tenpi ノ佩楯HS・Blue,天陽腰甲【ＨＳ】
-8074,Tenpi ノ佩楯GS・Blue,天陽腰甲【ＧＳ】
-8075,Tenpi ノ佩楯GP・Blue,天陽腰甲【ＧＰ】
-8076,Tenpi ノ腰当て・Blue,天陽腰當
-8077,Tenpi ノ腰当てF・Blue,天陽腰當【Ｆ】
-8078,Tenpi ノ腰当てFZ・Blue,天陽腰當【ＦＺ】
-8079,Tenpi ノ腰当てHS・Blue,天陽腰當【ＨＳ】
-8080,Tenpi ノ腰当てGS・Blue,天陽腰當【ＧＳ】
-8081,Tenpi ノ腰当てGP・Blue,天陽腰當【ＧＰ】
-8082,Tenpi ノ佩楯・Black,天陽腰甲
-8083,Tenpi ノ佩楯F・Black,天陽腰甲【Ｆ】
-8084,Tenpi ノ佩楯FZ・Black,天陽腰甲【ＦＺ】
-8085,Tenpi ノ佩楯HS・Black,天陽腰甲【ＨＳ】
-8086,Tenpi ノ佩楯GS・Black,天陽腰甲【ＧＳ】
-8087,Tenpi ノ佩楯GP・Black,天陽腰甲【ＧＰ】
-8088,Tenpi ノ腰当て・Black,天陽腰當
-8089,Tenpi ノ腰当てF・Black,天陽腰當【Ｆ】
-8090,Tenpi ノ腰当てFZ・Black,天陽腰當【ＦＺ】
-8091,Tenpi ノ腰当てHS・Black,天陽腰當【ＨＳ】
-8092,Tenpi ノ腰当てGS・Black,天陽腰當【ＧＳ】
-8093,Tenpi ノ腰当てGP・Black,天陽腰當【ＧＰ】
-8094,Tenpi ノ佩楯・White,天陽腰甲
-8095,Tenpi ノ佩楯F・White,天陽腰甲【Ｆ】
-8096,Tenpi ノ佩楯FZ・White,天陽腰甲【ＦＺ】
-8097,Tenpi ノ佩楯HS・White,天陽腰甲【ＨＳ】
-8098,Tenpi ノ佩楯GS・White,天陽腰甲【ＧＳ】
-8099,Tenpi ノ佩楯GP・White,天陽腰甲【ＧＰ】
-8100,Tenpi ノ腰当て・White,天陽腰當
-8101,Tenpi ノ腰当てF・White,天陽腰當【Ｆ】
-8102,Tenpi ノ腰当てFZ・White,天陽腰當【ＦＺ】
-8103,Tenpi ノ腰当てHS・White,天陽腰當【ＨＳ】
-8104,Tenpi ノ腰当てGS・White,天陽腰當【ＧＳ】
-8105,Tenpi ノ腰当てGP・White,天陽腰當【ＧＰ】
+8058,Tenpi ノ佩楯・Red,天陽腰甲・赤
+8059,Tenpi ノ佩楯F・Red,天陽腰甲【Ｆ】・赤
+8060,Tenpi ノ佩楯FZ・Red,天陽腰甲【ＦＺ】・赤
+8061,Tenpi ノ佩楯HS・Red,天陽腰甲【ＨＳ】・赤
+8062,Tenpi ノ佩楯GS・Red,天陽腰甲【ＧＳ】・赤
+8063,Tenpi ノ佩楯GP・Red,天陽腰甲【ＧＰ】・赤
+8064,Tenpi ノ腰当て・Red,天陽腰當・赤
+8065,Tenpi ノ腰当てF・Red,天陽腰當【Ｆ】・赤
+8066,Tenpi ノ腰当てFZ・Red,天陽腰當【ＦＺ】・赤
+8067,Tenpi ノ腰当てHS・Red,天陽腰當【ＨＳ】・赤
+8068,Tenpi ノ腰当てGS・Red,天陽腰當【ＧＳ】・赤
+8069,Tenpi ノ腰当てGP・Red,天陽腰當【ＧＰ】・赤
+8070,Tenpi ノ佩楯・Blue,天陽腰甲・青
+8071,Tenpi ノ佩楯F・Blue,天陽腰甲【Ｆ】・青
+8072,Tenpi ノ佩楯FZ・Blue,天陽腰甲【ＦＺ】・青
+8073,Tenpi ノ佩楯HS・Blue,天陽腰甲【ＨＳ】・青
+8074,Tenpi ノ佩楯GS・Blue,天陽腰甲【ＧＳ】・青
+8075,Tenpi ノ佩楯GP・Blue,天陽腰甲【ＧＰ】・青
+8076,Tenpi ノ腰当て・Blue,天陽腰當・青
+8077,Tenpi ノ腰当てF・Blue,天陽腰當【Ｆ】・青
+8078,Tenpi ノ腰当てFZ・Blue,天陽腰當【ＦＺ】・青
+8079,Tenpi ノ腰当てHS・Blue,天陽腰當【ＨＳ】・青
+8080,Tenpi ノ腰当てGS・Blue,天陽腰當【ＧＳ】・青
+8081,Tenpi ノ腰当てGP・Blue,天陽腰當【ＧＰ】・青
+8082,Tenpi ノ佩楯・Black,天陽腰甲・黑
+8083,Tenpi ノ佩楯F・Black,天陽腰甲【Ｆ】・黑
+8084,Tenpi ノ佩楯FZ・Black,天陽腰甲【ＦＺ】・黑
+8085,Tenpi ノ佩楯HS・Black,天陽腰甲【ＨＳ】・黑
+8086,Tenpi ノ佩楯GS・Black,天陽腰甲【ＧＳ】・黑
+8087,Tenpi ノ佩楯GP・Black,天陽腰甲【ＧＰ】・黑
+8088,Tenpi ノ腰当て・Black,天陽腰當・黑
+8089,Tenpi ノ腰当てF・Black,天陽腰當【Ｆ】・黑
+8090,Tenpi ノ腰当てFZ・Black,天陽腰當【ＦＺ】・黑
+8091,Tenpi ノ腰当てHS・Black,天陽腰當【ＨＳ】・黑
+8092,Tenpi ノ腰当てGS・Black,天陽腰當【ＧＳ】・黑
+8093,Tenpi ノ腰当てGP・Black,天陽腰當【ＧＰ】・黑
+8094,Tenpi ノ佩楯・White,天陽腰甲・白
+8095,Tenpi ノ佩楯F・White,天陽腰甲【Ｆ】・白
+8096,Tenpi ノ佩楯FZ・White,天陽腰甲【ＦＺ】・白
+8097,Tenpi ノ佩楯HS・White,天陽腰甲【ＨＳ】・白
+8098,Tenpi ノ佩楯GS・White,天陽腰甲【ＧＳ】・白
+8099,Tenpi ノ佩楯GP・White,天陽腰甲【ＧＰ】・白
+8100,Tenpi ノ腰当て・White,天陽腰當・白
+8101,Tenpi ノ腰当てF・White,天陽腰當【Ｆ】・白
+8102,Tenpi ノ腰当てFZ・White,天陽腰當【ＦＺ】・白
+8103,Tenpi ノ腰当てHS・White,天陽腰當【ＨＳ】・白
+8104,Tenpi ノ腰当てGS・White,天陽腰當【ＧＳ】・白
+8105,Tenpi ノ腰当てGP・White,天陽腰當【ＧＰ】・白
 8106,Tenpi Waistband・Red,天陽腰帶・赤
 8107,Tenpi Waistband F・Red,天陽腰帶【Ｆ】・赤
 8108,Tenpi Waistband FZ・Red,天陽腰帶【ＦＺ】・赤
 8109,Tenpi Waistband HS・Red,天陽腰帶【ＨＳ】・赤
 8110,Tenpi Waistband GS・Red,天陽腰帶【ＧＳ】・赤
 8111,Tenpi Waistband GP・Red,天陽腰帶【ＧＰ】・赤
-8112,Tenpi Colour Belt・Red,特艾恩伊腰帶・赤
-8113,Tenpi Colour Belt F・Red,特艾恩伊腰帶【Ｆ】・赤
-8114,Tenpi Colour Belt FZ・Red,特艾恩伊腰帶【ＦＺ】・赤
-8115,Tenpi Colour Belt HS・Red,特艾恩伊腰帶【ＨＳ】・赤
-8116,Tenpi Colour Belt GS・Red,特艾恩伊腰帶【ＧＳ】・赤
-8117,Tenpi Colour Belt GP・Red,特艾恩伊腰帶【ＧＰ】・赤
+8112,Tenpi Colour Belt・Red,天陽腰帶・赤
+8113,Tenpi Colour Belt F・Red,天陽腰帶【Ｆ】・赤
+8114,Tenpi Colour Belt FZ・Red,天陽腰帶【ＦＺ】・赤
+8115,Tenpi Colour Belt HS・Red,天陽腰帶【ＨＳ】・赤
+8116,Tenpi Colour Belt GS・Red,天陽腰帶【ＧＳ】・赤
+8117,Tenpi Colour Belt GP・Red,天陽腰帶【ＧＰ】・赤
 8118,Tenpi Waistband・Blue,天陽腰帶・青
 8119,Tenpi Waistband F・Blue,天陽腰帶【Ｆ】・青
 8120,Tenpi Waistband FZ・Blue,天陽腰帶【ＦＺ】・青
 8121,Tenpi Waistband HS・Blue,天陽腰帶【ＨＳ】・青
 8122,Tenpi Waistband GS・Blue,天陽腰帶【ＧＳ】・青
 8123,Tenpi Waistband GP・Blue,天陽腰帶【ＧＰ】・青
-8124,Tenpi Colour Belt・Blue,特艾恩伊腰帶・青
-8125,Tenpi Colour Belt F・Blue,特艾恩伊腰帶【Ｆ】・青
-8126,Tenpi Colour Belt FZ・Blue,特艾恩伊腰帶【ＦＺ】・青
-8127,Tenpi Colour Belt HS・Blue,特艾恩伊腰帶【ＨＳ】・青
-8128,Tenpi Colour Belt GS・Blue,特艾恩伊腰帶【ＧＳ】・青
-8129,Tenpi Colour Belt GP・Blue,特艾恩伊腰帶【ＧＰ】・青
+8124,Tenpi Colour Belt・Blue,天陽腰帶・青
+8125,Tenpi Colour Belt F・Blue,天陽腰帶【Ｆ】・青
+8126,Tenpi Colour Belt FZ・Blue,天陽腰帶【ＦＺ】・青
+8127,Tenpi Colour Belt HS・Blue,天陽腰帶【ＨＳ】・青
+8128,Tenpi Colour Belt GS・Blue,天陽腰帶【ＧＳ】・青
+8129,Tenpi Colour Belt GP・Blue,天陽腰帶【ＧＰ】・青
 8130,Tenpi Waistband・Black,天陽腰帶・黑
 8131,Tenpi Waistband F・Black,天陽腰帶【Ｆ】・黑
 8132,Tenpi Waistband FZ・Black,天陽腰帶【ＦＺ】・黑
 8133,Tenpi Waistband HS・Black,天陽腰帶【ＨＳ】・黑
 8134,Tenpi Waistband GS・Black,天陽腰帶【ＧＳ】・黑
 8135,Tenpi Waistband GP・Black,天陽腰帶【ＧＰ】・黑
-8136,Tenpi Colour Belt・Black,特艾恩伊腰帶・黑
-8137,Tenpi Colour Belt F・Black,特艾恩伊腰帶【Ｆ】・黑
-8138,Tenpi Colour Belt FZ・Black,特艾恩伊腰帶【ＦＺ】・黑
-8139,Tenpi Colour Belt HS・Black,特艾恩伊腰帶【ＨＳ】・黑
-8140,Tenpi Colour Belt GS・Black,特艾恩伊腰帶【ＧＳ】・黑
-8141,Tenpi Colour Belt GP・Black,特艾恩伊腰帶【ＧＰ】・黑
+8136,Tenpi Colour Belt・Black,天陽腰帶・黑
+8137,Tenpi Colour Belt F・Black,天陽腰帶【Ｆ】・黑
+8138,Tenpi Colour Belt FZ・Black,天陽腰帶【ＦＺ】・黑
+8139,Tenpi Colour Belt HS・Black,天陽腰帶【ＨＳ】・黑
+8140,Tenpi Colour Belt GS・Black,天陽腰帶【ＧＳ】・黑
+8141,Tenpi Colour Belt GP・Black,天陽腰帶【ＧＰ】・黑
 8142,Tenpi Waistband・White,天陽腰帶・白
 8143,Tenpi Waistband F・White,天陽腰帶【Ｆ】・白
 8144,Tenpi Waistband FZ・White,天陽腰帶【ＦＺ】・白
 8145,Tenpi Waistband HS・White,天陽腰帶【ＨＳ】・白
 8146,Tenpi Waistband GS・White,天陽腰帶【ＧＳ】・白
 8147,Tenpi Waistband GP・White,天陽腰帶【ＧＰ】・白
-8148,Tenpi Colour Belt・White,特艾恩伊腰帶・白
-8149,Tenpi Colour Belt F・White,特艾恩伊腰帶【Ｆ】・白
-8150,Tenpi Colour Belt FZ・White,特艾恩伊腰帶【ＦＺ】・白
-8151,Tenpi Colour Belt HS・White,特艾恩伊腰帶【ＨＳ】・白
-8152,Tenpi Colour Belt GS・White,特艾恩伊腰帶【ＧＳ】・白
-8153,Tenpi Colour Belt GP・White,特艾恩伊腰帶【ＧＰ】・白
+8148,Tenpi Colour Belt・White,天陽腰帶・白
+8149,Tenpi Colour Belt F・White,天陽腰帶【Ｆ】・白
+8150,Tenpi Colour Belt FZ・White,天陽腰帶【ＦＺ】・白
+8151,Tenpi Colour Belt HS・White,天陽腰帶【ＨＳ】・白
+8152,Tenpi Colour Belt GS・White,天陽腰帶【ＧＳ】・白
+8153,Tenpi Colour Belt GP・White,天陽腰帶【ＧＰ】・白
 8154,Ruban Waist,魯班腰甲
 8155,Ruban F Waist,魯班腰甲【Ｆ】
 8156,Ruban FZ Waist,魯班腰甲【ＦＺ】
@@ -8342,9 +8342,9 @@ index,source,target
 8340,Noir G Faulds,黑腰甲【Ｇ】
 8341,Noir GF Faulds,黑腰甲【ＧＦ】
 8342,Noir GX Faulds,黑腰甲【ＧＸ】
-8343,Demon Lord ノ虎布G,惡魔腰甲【Ｇ】
-8344,Demon Lord ノ虎布GF,惡魔腰甲【Ｆ】
-8345,Demon Lord ノ虎布GX,惡魔腰甲【ＧＸ】
+8343,Demon Lord ノ虎布G,魔王腰甲【Ｇ】
+8344,Demon Lord ノ虎布GF,魔王腰甲【Ｆ】
+8345,Demon Lord ノ虎布GX,魔王腰甲【ＧＸ】
 8346,童子ノ虎布G,童子虎布腰甲【Ｇ】
 8347,童子ノ虎布GF,童子虎布腰甲【Ｆ】
 8348,童子ノ虎布GX,童子虎布腰甲【ＧＸ】
@@ -8462,12 +8462,12 @@ index,source,target
 8460,Bonito G Coat,布歐恩伊腰衣【Ｇ】
 8461,Bonito GF Coat,布歐恩伊腰衣【ＧＦ】
 8462,Bonito GX Coat,布歐恩伊腰衣【ＧＸ】
-8463,Silver Ruler G【腰当て】,爾烏爾艾腰當【Ｇ】・銀
-8464,Silver Ruler GF【腰当て】,爾烏爾艾腰當【ＧＦ】・銀
-8465,Silver Ruler GX【腰当て】,爾烏爾艾腰當【ＧＸ】・銀
-8466,Silver Control G【腰当て】,克歐恩歐腰當【Ｇ】・銀
-8467,Silver Control GF【腰当て】,克歐恩歐腰當【ＧＦ】・銀
-8468,Silver Control GX【腰当て】,克歐恩歐腰當【ＧＸ】・銀
+8463,Silver Ruler G【腰当て】,銀統治腰當【Ｇ】
+8464,Silver Ruler GF【腰当て】,銀統治腰當【ＧＦ】
+8465,Silver Ruler GX【腰当て】,銀統治腰當【ＧＸ】
+8466,Silver Control G【腰当て】,銀統御腰當【Ｇ】
+8467,Silver Control GF【腰当て】,銀統御腰當【ＧＦ】
+8468,Silver Control GX【腰当て】,銀統御腰當【ＧＸ】
 8469,Harudo Faulds,司銀龍腰甲
 8470,Harudo F Faulds,司銀龍腰甲【Ｆ】
 8471,Harudo FX Faulds,司銀龍腰甲【ＦＸ】
@@ -8792,21 +8792,21 @@ index,source,target
 8790,Magos GP Coat・Yellow,瑪戈斯腰衣【ＧＰ】・黄
 8791,Magos GP Coil・Red,瑪戈斯腰甲【ＧＰ】・赤
 8792,Magos GP Coat・Red,瑪戈斯腰衣【ＧＰ】・赤
-8793,Magos GP Coil・Water,瑪戈斯水腰甲【ＧＰ】
-8794,Magos GP Coat・Water,瑪戈斯水腰衣【ＧＰ】
+8793,Magos GP Coil・Water,瑪戈斯腰甲【ＧＰ】・水
+8794,Magos GP Coat・Water,瑪戈斯腰衣【ＧＰ】・水
 8795,Magos GP Coil・Blue,瑪戈斯腰甲【ＧＰ】・青
 8796,Magos GP Coat・Blue,瑪戈斯腰衣【ＧＰ】・青
-8797,Yukumo ノオビ・Heaven,結雲天腰甲・天
-8798,Yukumo ノオビG・Heaven,結雲天腰甲【Ｇ】・天
-8799,Yukumo ノオビGF・Heaven,結雲天腰甲【Ｆ】・天
-8800,Yukumo ノオビGX・Heaven,結雲天腰甲【ＧＸ】・天
+8797,Yukumo ノオビ・Heaven,結雲天腰甲
+8798,Yukumo ノオビG・Heaven,結雲天腰甲【Ｇ】
+8799,Yukumo ノオビGF・Heaven,結雲天腰甲【Ｆ】
+8800,Yukumo ノオビGX・Heaven,結雲天腰甲【ＧＸ】
 8801,Furogada G Coil,芙烏爾歐腰甲【Ｇ】
 8802,Furogada GF Coil,芙烏爾歐腰甲【ＧＦ】
 8803,Furogada GX Coil,芙烏爾歐腰甲【ＧＸ】
-8804,Yukumo ノオビ・Earth,地腰甲・地
-8805,Yukumo ノオビG・Earth,地腰甲【Ｇ】・地
-8806,Yukumo ノオビGF・Earth,地腰甲【Ｆ】・地
-8807,Yukumo ノオビGX・Earth,地腰甲【ＧＸ】・地
+8804,Yukumo ノオビ・Earth,結雲地腰甲
+8805,Yukumo ノオビG・Earth,結雲地腰甲【Ｇ】
+8806,Yukumo ノオビGF・Earth,結雲地腰甲【Ｆ】
+8807,Yukumo ノオビGX・Earth,結雲地腰甲【ＧＸ】
 8808,Furogada G Coat,芙烏爾歐腰衣【Ｇ】
 8809,Furogada GF Coat,芙烏爾歐腰衣【ＧＦ】
 8810,Furogada GX Coat,芙烏爾歐腰衣【ＧＸ】
@@ -8978,8 +8978,8 @@ index,source,target
 8976,Pics GP Coat・Purple,皮克斯腰衣【ＧＰ】・紫
 8977,Pics GP Coil・Black,皮克斯腰甲【ＧＰ】・黑
 8978,Pics GP Coat・Black,皮克斯腰衣【ＧＰ】・黑
-8979,Pics GP Coil・Water,皮克斯水腰甲【ＧＰ】
-8980,Pics GP Coat・Water,皮克斯水腰衣【ＧＰ】
+8979,Pics GP Coil・Water,皮克斯腰甲【ＧＰ】・水
+8980,Pics GP Coat・Water,皮克斯腰衣【ＧＰ】・水
 8981,ダミー,(dummy)
 8982,ダミー,(dummy)
 8983,Smart HS Waist,機靈腰甲【ＨＳ】
@@ -9310,12 +9310,12 @@ index,source,target
 9308,Monodevil G Coat,單眼惡魔腰衣【Ｇ】
 9309,Monodevil GF Coat,單眼惡魔腰衣【ＧＦ】
 9310,Monodevil GX Coat,單眼惡魔腰衣【ＧＸ】
-9311,Black Diablos G Coil,角龍腰甲【Ｇ】・黑
-9312,Black Diablos GF Coil,角龍腰甲【ＧＦ】・黑
-9313,Black Diablos GX Coil,角龍腰甲【ＧＸ】・黑
-9314,Black Diablos G Coat,角龍腰衣【Ｇ】・黑
-9315,Black Diablos GF Coat,角龍腰衣【ＧＦ】・黑
-9316,Black Diablos GX Coat,角龍腰衣【ＧＸ】・黑
+9311,Black Diablos G Coil,黑角龍腰甲【Ｇ】
+9312,Black Diablos GF Coil,黑角龍腰甲【ＧＦ】
+9313,Black Diablos GX Coil,黑角龍腰甲【ＧＸ】
+9314,Black Diablos G Coat,黑角龍腰衣【Ｇ】
+9315,Black Diablos GF Coat,黑角龍腰衣【ＧＦ】
+9316,Black Diablos GX Coat,黑角龍腰衣【ＧＸ】
 9317,Wadatsumi GX【丸 Obi 】,綿津見腰甲【ＧＸ】
 9318,Okami GX【丸 Obi 】,狼腰甲【ＧＸ】
 9319,Odiva GX Faulds,奧蒂瓦腰甲【ＧＸ】
@@ -9509,13 +9509,13 @@ index,source,target
 9507,Plug GS Coat :02,插頭腰衣【ＧＳ】
 9508,Plug GP Coat :02,插頭腰衣【ＧＰ】
 9509,Mark.06 Coil,馬克06腰甲
-9510,Mark.06F Coil,腰甲
+9510,Mark.06F Coil,馬克06腰甲
 9511,Mark.06FZ Coil,馬克06腰甲【ＦＺ】
 9512,Mark.06HS Coil,馬克06腰甲【ＨＳ】
 9513,Mark.06GS Coil,馬克06腰甲【ＧＳ】
 9514,Mark.06GP Coil,馬克06腰甲【ＧＰ】
 9515,Mark.06 Coat,馬克06腰衣
-9516,Mark.06F Coat,腰衣
+9516,Mark.06F Coat,馬克06腰衣
 9517,Mark.06FZ Coat,馬克06腰衣【ＦＺ】
 9518,Mark.06HS Coat,馬克06腰衣【ＨＳ】
 9519,Mark.06GS Coat,馬克06腰衣【ＧＳ】
@@ -9765,12 +9765,12 @@ index,source,target
 9763,Chiyo Waistband HS,千代腰帶【ＨＳ】
 9764,Chiyo Waistband GS,千代腰帶【ＧＳ】
 9765,Chiyo Waistband GP,千代腰帶【ＧＰ】
-9766,Chiyo Colour Belt,奇伊伊歐腰帶
-9767,Chiyo Colour Belt F,奇伊伊歐腰帶【Ｆ】
-9768,Chiyo Colour Belt FZ,奇伊伊歐腰帶【ＦＺ】
-9769,Chiyo Colour Belt HS,奇伊伊歐腰帶【ＨＳ】
-9770,Chiyo Colour Belt GS,奇伊伊歐腰帶【ＧＳ】
-9771,Chiyo Colour Belt GP,奇伊伊歐腰帶【ＧＰ】
+9766,Chiyo Colour Belt,千代腰帶
+9767,Chiyo Colour Belt F,千代腰帶【Ｆ】
+9768,Chiyo Colour Belt FZ,千代腰帶【ＦＺ】
+9769,Chiyo Colour Belt HS,千代腰帶【ＨＳ】
+9770,Chiyo Colour Belt GS,千代腰帶【ＧＳ】
+9771,Chiyo Colour Belt GP,千代腰帶【ＧＰ】
 9772,Uragaan Faulds,爆錘龍腰甲
 9773,Uragaan G Faulds,爆錘龍腰甲【Ｇ】
 9774,Uragaan GF Faulds,爆錘龍腰甲【ＧＦ】
@@ -10023,9 +10023,9 @@ index,source,target
 10021,スフレHS Coat,斯芙雷腰衣【ＨＳ】
 10022,スフレGS Coat,斯芙雷腰衣【ＧＳ】
 10023,スフレGP Coat,斯芙雷腰衣【ＧＰ】
-10024,Demon Tale ノ虎布G,惡魔腰甲【Ｇ】
-10025,Demon Tale ノ虎布GF,惡魔腰甲【Ｆ】
-10026,Demon Tale ノ虎布GX,惡魔腰甲【ＧＸ】
+10024,Demon Tale ノ虎布G,魔譚腰甲【Ｇ】
+10025,Demon Tale ノ虎布GF,魔譚腰甲【Ｆ】
+10026,Demon Tale ノ虎布GX,魔譚腰甲【ＧＸ】
 10027,童伝ノ虎布G,童伝虎布腰甲
 10028,童伝ノ虎布GF,童伝虎布腰甲【Ｆ】
 10029,童伝ノ虎布GX,童伝虎布腰甲
@@ -10147,12 +10147,12 @@ index,source,target
 10145,Waka Waistband HS,和歌腰帶【ＨＳ】
 10146,Waka Waistband GS,和歌腰帶【ＧＳ】
 10147,Waka Waistband GP,和歌腰帶【ＧＰ】
-10148,Waka Colour Belt,沃阿克阿腰帶
-10149,Waka Colour Belt F,沃阿克阿腰帶【Ｆ】
-10150,Waka Colour Belt FZ,沃阿克阿腰帶【ＦＺ】
-10151,Waka Colour Belt HS,沃阿克阿腰帶【ＨＳ】
-10152,Waka Colour Belt GS,沃阿克阿腰帶【ＧＳ】
-10153,Waka Colour Belt GP,沃阿克阿腰帶【ＧＰ】
+10148,Waka Colour Belt,和歌腰帶
+10149,Waka Colour Belt F,和歌腰帶【Ｆ】
+10150,Waka Colour Belt FZ,和歌腰帶【ＦＺ】
+10151,Waka Colour Belt HS,和歌腰帶【ＨＳ】
+10152,Waka Colour Belt GS,和歌腰帶【ＧＳ】
+10153,Waka Colour Belt GP,和歌腰帶【ＧＰ】
 10154,Ruko G Wing,極龍腰翼【Ｇ】
 10155,Ruko GF Wing,極龍腰翼【ＧＦ】
 10156,Ruko GX Wing,極龍腰翼【ＧＸ】
@@ -10317,48 +10317,48 @@ index,source,target
 10315,Wasou Waistband HS,和裝腰帶【ＨＳ】
 10316,Wasou Waistband GS,和裝腰帶【ＧＳ】
 10317,Wasou Waistband GP,和裝腰帶【ＧＰ】
-10318,Wasou Colour Belt,沃阿斯歐腰帶
-10319,Wasou Colour Belt F,沃阿斯歐腰帶【Ｆ】
-10320,Wasou Colour Belt FZ,沃阿斯歐腰帶【ＦＺ】
-10321,Wasou Colour Belt HS,沃阿斯歐腰帶【ＨＳ】
-10322,Wasou Colour Belt GS,沃阿斯歐腰帶【ＧＳ】
-10323,Wasou Colour Belt GP,沃阿斯歐腰帶【ＧＰ】
-10324,Blue Ice Emperor Coil,冰帝腰甲・青
-10325,Blue Ice Emperor F Coil,冰帝腰甲【Ｆ】・青
-10326,Blue Ice Emperor FZ Coil,冰帝腰甲【ＦＺ】・青
-10327,Blue Ice Emperor HS Coil,冰帝腰甲【ＨＳ】・青
-10328,Blue Ice Emperor GS Coil,冰帝腰甲【ＧＳ】・青
-10329,Blue Ice Emperor GP Coil,冰帝腰甲【ＧＰ】・青
-10330,Blue Ice Emperor Coat,冰帝腰衣・青
-10331,Blue Ice Emperor F Coat,冰帝腰衣【Ｆ】・青
-10332,Blue Ice Emperor FZ Coat,冰帝腰衣【ＦＺ】・青
-10333,Blue Ice Emperor HS Coat,冰帝腰衣【ＨＳ】・青
-10334,Blue Ice Emperor GS Coat,冰帝腰衣【ＧＳ】・青
-10335,Blue Ice Emperor GP Coat,冰帝腰衣【ＧＰ】・青
-10336,White Ice Emperor Coil,冰帝腰甲・白
-10337,White Ice Emperor F Coil,冰帝腰甲【Ｆ】・白
-10338,White Ice Emperor FZ Coil,冰帝腰甲【ＦＺ】・白
-10339,White Ice Emperor HS Coil,冰帝腰甲【ＨＳ】・白
-10340,White Ice Emperor GS Coil,冰帝腰甲【ＧＳ】・白
-10341,White Ice Emperor GP Coil,冰帝腰甲【ＧＰ】・白
-10342,White Ice Emperor Coat,冰帝腰衣・白
-10343,White Ice Emperor F Coat,冰帝腰衣【Ｆ】・白
-10344,White Ice Emperor FZ Coat,冰帝腰衣【ＦＺ】・白
-10345,White Ice Emperor HS Coat,冰帝腰衣【ＨＳ】・白
-10346,White Ice Emperor GS Coat,冰帝腰衣【ＧＳ】・白
-10347,White Ice Emperor GP Coat,冰帝腰衣【ＧＰ】・白
-10348,Red Ice Emperor Coil,冰帝腰甲・赤
-10349,Red Ice Emperor F Coil,冰帝腰甲【Ｆ】・赤
-10350,Red Ice Emperor FZ Coil,冰帝腰甲【ＦＺ】・赤
-10351,Red Ice Emperor HS Coil,冰帝腰甲【ＨＳ】・赤
-10352,Red Ice Emperor GS Coil,冰帝腰甲【ＧＳ】・赤
-10353,Red Ice Emperor GP Coil,冰帝腰甲【ＧＰ】・赤
-10354,Red Ice Emperor Coat,冰帝腰衣・赤
-10355,Red Ice Emperor F Coat,冰帝腰衣【Ｆ】・赤
-10356,Red Ice Emperor FZ Coat,冰帝腰衣【ＦＺ】・赤
-10357,Red Ice Emperor HS Coat,冰帝腰衣【ＨＳ】・赤
-10358,Red Ice Emperor GS Coat,冰帝腰衣【ＧＳ】・赤
-10359,Red Ice Emperor GP Coat,冰帝腰衣【ＧＰ】・赤
+10318,Wasou Colour Belt,和裝腰帶
+10319,Wasou Colour Belt F,和裝腰帶【Ｆ】
+10320,Wasou Colour Belt FZ,和裝腰帶【ＦＺ】
+10321,Wasou Colour Belt HS,和裝腰帶【ＨＳ】
+10322,Wasou Colour Belt GS,和裝腰帶【ＧＳ】
+10323,Wasou Colour Belt GP,和裝腰帶【ＧＰ】
+10324,Blue Ice Emperor Coil,青冰帝腰甲
+10325,Blue Ice Emperor F Coil,青冰帝腰甲【Ｆ】
+10326,Blue Ice Emperor FZ Coil,青冰帝腰甲【ＦＺ】
+10327,Blue Ice Emperor HS Coil,青冰帝腰甲【ＨＳ】
+10328,Blue Ice Emperor GS Coil,青冰帝腰甲【ＧＳ】
+10329,Blue Ice Emperor GP Coil,青冰帝腰甲【ＧＰ】
+10330,Blue Ice Emperor Coat,青冰帝腰衣
+10331,Blue Ice Emperor F Coat,青冰帝腰衣【Ｆ】
+10332,Blue Ice Emperor FZ Coat,青冰帝腰衣【ＦＺ】
+10333,Blue Ice Emperor HS Coat,青冰帝腰衣【ＨＳ】
+10334,Blue Ice Emperor GS Coat,青冰帝腰衣【ＧＳ】
+10335,Blue Ice Emperor GP Coat,青冰帝腰衣【ＧＰ】
+10336,White Ice Emperor Coil,白冰帝腰甲
+10337,White Ice Emperor F Coil,白冰帝腰甲【Ｆ】
+10338,White Ice Emperor FZ Coil,白冰帝腰甲【ＦＺ】
+10339,White Ice Emperor HS Coil,白冰帝腰甲【ＨＳ】
+10340,White Ice Emperor GS Coil,白冰帝腰甲【ＧＳ】
+10341,White Ice Emperor GP Coil,白冰帝腰甲【ＧＰ】
+10342,White Ice Emperor Coat,白冰帝腰衣
+10343,White Ice Emperor F Coat,白冰帝腰衣【Ｆ】
+10344,White Ice Emperor FZ Coat,白冰帝腰衣【ＦＺ】
+10345,White Ice Emperor HS Coat,白冰帝腰衣【ＨＳ】
+10346,White Ice Emperor GS Coat,白冰帝腰衣【ＧＳ】
+10347,White Ice Emperor GP Coat,白冰帝腰衣【ＧＰ】
+10348,Red Ice Emperor Coil,赤冰帝腰甲
+10349,Red Ice Emperor F Coil,赤冰帝腰甲【Ｆ】
+10350,Red Ice Emperor FZ Coil,赤冰帝腰甲【ＦＺ】
+10351,Red Ice Emperor HS Coil,赤冰帝腰甲【ＨＳ】
+10352,Red Ice Emperor GS Coil,赤冰帝腰甲【ＧＳ】
+10353,Red Ice Emperor GP Coil,赤冰帝腰甲【ＧＰ】
+10354,Red Ice Emperor Coat,赤冰帝腰衣
+10355,Red Ice Emperor F Coat,赤冰帝腰衣【Ｆ】
+10356,Red Ice Emperor FZ Coat,赤冰帝腰衣【ＦＺ】
+10357,Red Ice Emperor HS Coat,赤冰帝腰衣【ＨＳ】
+10358,Red Ice Emperor GS Coat,赤冰帝腰衣【ＧＳ】
+10359,Red Ice Emperor GP Coat,赤冰帝腰衣【ＧＰ】
 10360,Taruta Coil,特阿爾烏腰甲
 10361,Taruta F Coil,特阿爾烏腰甲【Ｆ】
 10362,Taruta FZ Coil,特阿爾烏腰甲【ＦＺ】
@@ -10656,12 +10656,12 @@ index,source,target
 10654,Evol D Coil・Purple,艾芙歐爾腰甲・紫
 10655,狩衛部隊 Coil・男,狩衛部隊男腰甲
 10656,狩衛部隊 Coil・女,狩衛部隊女腰甲
-10657,Blue Ice Emperor ZP Coil,冰帝腰甲【ＺＰ】・青
-10658,Blue Ice Emperor ZP Coat,冰帝腰衣【ＺＰ】・青
-10659,White Ice Emperor ZP Coil,冰帝腰甲【ＺＰ】・白
-10660,White Ice Emperor ZP Coat,冰帝腰衣【ＺＰ】・白
-10661,Red Ice Emperor ZP Coil,冰帝腰甲【ＺＰ】・赤
-10662,Red Ice Emperor ZP Coat,冰帝腰衣【ＺＰ】・赤
+10657,Blue Ice Emperor ZP Coil,青冰帝腰甲【ＺＰ】
+10658,Blue Ice Emperor ZP Coat,青冰帝腰衣【ＺＰ】
+10659,White Ice Emperor ZP Coil,白冰帝腰甲【ＺＰ】
+10660,White Ice Emperor ZP Coat,白冰帝腰衣【ＺＰ】
+10661,Red Ice Emperor ZP Coil,赤冰帝腰甲【ＺＰ】
+10662,Red Ice Emperor ZP Coat,赤冰帝腰衣【ＺＰ】
 10663,Wander Coil・Blue,流浪腰甲・青
 10664,Wander F Coil・Blue,流浪腰甲【Ｆ】・青
 10665,Wander FZ Coil・Blue,流浪腰甲【ＦＺ】・青
@@ -10866,9 +10866,9 @@ index,source,target
 10864,Wander D Coil・Red,沃阿恩艾腰甲・赤
 10865,Wander D Coil・White,沃阿恩艾腰甲・白
 10866,Wander D Coil・Black,沃阿恩艾腰甲・黑
-10867,Blue Ice Emperor D Coil,伊克艾斯腰甲・青
-10868,White Ice Emperor D Coil,伊克艾斯腰甲・白
-10869,Red Ice Emperor D Coil,伊克艾斯腰甲・赤
+10867,Blue Ice Emperor D Coil,青冰帝腰甲
+10868,White Ice Emperor D Coil,白冰帝腰甲
+10869,Red Ice Emperor D Coil,赤冰帝腰甲
 10870,Rance C Faulds,爾阿恩艾腰甲
 10871,Santa D Faulds,斯阿恩阿腰甲
 10872,Anteka D Faulds,雪鹿腰甲
@@ -10909,7 +10909,7 @@ index,source,target
 10907,Pokara D Coat,普歐克阿腰衣
 10908,Genesis D【腰当て】,格艾恩艾腰當
 10909,Motion D【腰当て】,姆歐特伊腰當
-10910,Lightning D【腰当て】,爾伊格伊腰當
+10910,Lightning D【腰当て】,雷光腰當
 10911,Thunder D【腰当て】,雷腰當
 10912,Toridcless D Faulds,特歐爾伊腰甲
 10913,Toridcless D Coat,特歐爾伊腰衣
@@ -10987,7 +10987,7 @@ index,source,target
 10985,Two-tone ZP Coil,雙色腰甲【ＺＰ】
 10986,Two-tone ZP Coat,雙色腰衣【ＺＰ】
 10987,Wasou Waistband ZP,和裝腰帶【ＺＰ】
-10988,Wasou Colour Belt ZP,沃阿斯歐腰帶【ＺＰ】
+10988,Wasou Colour Belt ZP,和裝腰帶【ＺＰ】
 10989,Howla D Coil,赫歐沃阿腰甲
 10990,Panse D Coil,普阿恩艾腰甲
 10991,Marriage D Coil,姆阿爾伊腰甲
@@ -11006,8 +11006,8 @@ index,source,target
 11004,Bistro D Apron,布伊斯歐圍裙
 11005,King Beetle D Elytra,克伊恩艾翅腰
 11006,Butterfly D Elytra,布烏特艾翅腰
-11007,Demon Lord ノ虎布D,惡魔腰甲
-11008,Demon Tale ノ虎布D,惡魔腰甲
+11007,Demon Lord ノ虎布D,魔王腰甲
+11008,Demon Tale ノ虎布D,魔譚腰甲
 11009,鬼凛ノ虎布D,鬼凛虎布腰甲
 11010,Empress C Coil,女帝腰甲
 11011,Empress C Coat,女帝腰衣
@@ -11175,19 +11175,19 @@ index,source,target
 11173,Lucchese D Coil,爾烏克艾腰甲
 11174,Entora D Coil,艾恩歐爾腰甲
 11175,YoRHa No.9 Type S Coil,寄葉九號型腰甲【Ｓ】
-11176,YoRHa No.9 Type S F Coil,寄葉九號型腰甲【Ｓ】【Ｆ】
-11177,YoRHa No.9 Type S FZ Coil,寄葉九號型腰甲【Ｓ】【ＦＺ】
-11178,YoRHa No.9 Type S HS Coil,寄葉九號型腰甲【Ｓ】【ＨＳ】
-11179,YoRHa No.9 Type S GS Coil,寄葉九號型腰甲【Ｓ】【ＧＳ】
-11180,YoRHa No.9 Type S GP Coil,寄葉九號型腰甲【Ｓ】【ＧＰ】
-11181,YoRHa No.9 Type S ZP Coil,寄葉九號型腰甲【Ｓ】【ＺＰ】
+11176,YoRHa No.9 Type S F Coil,寄葉九號型腰甲【Ｆ】
+11177,YoRHa No.9 Type S FZ Coil,寄葉九號型腰甲【ＦＺ】
+11178,YoRHa No.9 Type S HS Coil,寄葉九號型腰甲【ＨＳ】
+11179,YoRHa No.9 Type S GS Coil,寄葉九號型腰甲【ＧＳ】
+11180,YoRHa No.9 Type S GP Coil,寄葉九號型腰甲【ＧＰ】
+11181,YoRHa No.9 Type S ZP Coil,寄葉九號型腰甲【ＺＰ】
 11182,YoRHa No.9 Type S Coat,寄葉九號型腰衣【Ｓ】
-11183,YoRHa No.9 Type S F Coat,寄葉九號型腰衣【Ｓ】【Ｆ】
-11184,YoRHa No.9 Type S FZ Coat,寄葉九號型腰衣【Ｓ】【ＦＺ】
-11185,YoRHa No.9 Type S HS Coat,寄葉九號型腰衣【Ｓ】【ＨＳ】
-11186,YoRHa No.9 Type S GS Coat,寄葉九號型腰衣【Ｓ】【ＧＳ】
-11187,YoRHa No.9 Type S GP Coat,寄葉九號型腰衣【Ｓ】【ＧＰ】
-11188,YoRHa No.9 Type S ZP Coat,寄葉九號型腰衣【Ｓ】【ＺＰ】
+11183,YoRHa No.9 Type S F Coat,寄葉九號型腰衣【Ｆ】
+11184,YoRHa No.9 Type S FZ Coat,寄葉九號型腰衣【ＦＺ】
+11185,YoRHa No.9 Type S HS Coat,寄葉九號型腰衣【ＨＳ】
+11186,YoRHa No.9 Type S GS Coat,寄葉九號型腰衣【ＧＳ】
+11187,YoRHa No.9 Type S GP Coat,寄葉九號型腰衣【ＧＰ】
+11188,YoRHa No.9 Type S ZP Coat,寄葉九號型腰衣【ＺＰ】
 11189,YoRHa No.2 Type B Coil,寄葉二號Ｂ型腰甲
 11190,YoRHa No.2 Type B F Coil,寄葉二號Ｂ型腰甲【Ｆ】
 11191,YoRHa No.2 Type B FZ Coil,寄葉二號Ｂ型腰甲【ＦＺ】
@@ -11324,14 +11324,14 @@ index,source,target
 11322,Akahara Reisou GN Waist D Blue,阿克阿赫腰甲・青
 11323,Akahara Reisou GN Waist D Black,阿克阿赫腰甲・黑
 11324,Akahara Reisou GN Waist D White,阿克阿赫腰甲・白
-11325,Knight King Waist BM D Blue,克伊格伊腰甲・青
-11326,Knight King Waist BM D Red,克伊格伊腰甲・赤
-11327,Knight King Waist BM D Black,克伊格伊腰甲・黑
-11328,Knight King Waist BM D White,克伊格伊腰甲・白
-11329,Hero King Waist BM D Gold,赫艾爾歐腰甲・金
-11330,Hero King Waist BM D Black,赫艾爾歐腰甲・黑
-11331,Hero King Waist BM D White,赫艾爾歐腰甲・白
-11332,Hero King Waist BM D Red,赫艾爾歐腰甲・赤
+11325,Knight King Waist BM D Blue,騎士王腰甲・青
+11326,Knight King Waist BM D Red,騎士王腰甲・赤
+11327,Knight King Waist BM D Black,騎士王腰甲・黑
+11328,Knight King Waist BM D White,騎士王腰甲・白
+11329,Hero King Waist BM D Gold,英雄王腰甲・金
+11330,Hero King Waist BM D Black,英雄王腰甲・黑
+11331,Hero King Waist BM D White,英雄王腰甲・白
+11332,Hero King Waist BM D Red,英雄王腰甲・赤
 11333,Gorgon D Coil・Black,格歐爾歐腰甲・黑
 11334,Gorgon D Coil・Blue,格歐爾歐腰甲・青
 11335,Gorgon D Coil・White,格歐爾歐腰甲・白
@@ -11370,8 +11370,8 @@ index,source,target
 11368,Midogaron ZF Coat,爆狼腰衣【ＺＦ】
 11369,Midogaron ZY Coat,爆狼腰衣【ＺＹ】
 11370,Midogaron ZX Coat,爆狼腰衣【ＺＸ】
-11371,White Fatalis GXスパイン,黑龍腰甲
-11372,White Fatalis GXスケイル,黑龍腰甲
+11371,White Fatalis GXスパイン,白黑龍腰甲
+11372,White Fatalis GXスケイル,白黑龍腰甲
 11373,Elzelion G Coil,灼零龍腰甲【Ｇ】
 11374,Elzelion GF Coil,灼零龍腰甲【ＧＦ】
 11375,Elzelion GX Coil,灼零龍腰甲【ＧＸ】
@@ -11406,13 +11406,13 @@ index,source,target
 11404,Twin Star GS Coil,雙星腰甲【ＧＳ】
 11405,Twin Star GP Coil,雙星腰甲【ＧＰ】
 11406,Twin Star ZP Coil,雙星腰甲【ＺＰ】
-11407,Heaven Blade Coil,天刃腰甲・天
-11408,Heaven Blade F Coil,天刃腰甲【Ｆ】・天
-11409,Heaven Blade FZ Coil,天刃腰甲【ＦＺ】・天
-11410,Heaven Blade HS Coil,天刃腰甲【ＨＳ】・天
-11411,Heaven Blade GS Coil,天刃腰甲【ＧＳ】・天
-11412,Heaven Blade GP Coil,天刃腰甲【ＧＰ】・天
-11413,Heaven Blade ZP Coil,天刃腰甲【ＺＰ】・天
+11407,Heaven Blade Coil,天刃腰甲
+11408,Heaven Blade F Coil,天刃腰甲【Ｆ】
+11409,Heaven Blade FZ Coil,天刃腰甲【ＦＺ】
+11410,Heaven Blade HS Coil,天刃腰甲【ＨＳ】
+11411,Heaven Blade GS Coil,天刃腰甲【ＧＳ】
+11412,Heaven Blade GP Coil,天刃腰甲【ＧＰ】
+11413,Heaven Blade ZP Coil,天刃腰甲【ＺＰ】
 11414,Spring Sword Coil,斯伊恩歐腰甲
 11415,Spring Sword F Coil,斯伊恩歐腰甲【Ｆ】
 11416,Spring Sword FZ Coil,斯伊恩歐腰甲【ＦＺ】
@@ -11448,13 +11448,13 @@ index,source,target
 11446,Scream Lance GS Coil,斯艾姆阿腰甲【ＧＳ】
 11447,Scream Lance GP Coil,斯艾姆阿腰甲【ＧＰ】
 11448,Scream Lance ZP Coil,斯艾姆阿腰甲【ＺＰ】
-11449,Piercing Light Coil,普伊爾伊腰甲
-11450,Piercing Light F Coil,普伊爾伊腰甲【Ｆ】
-11451,Piercing Light FZ Coil,普伊爾伊腰甲【ＦＺ】
-11452,Piercing Light HS Coil,普伊爾伊腰甲【ＨＳ】
-11453,Piercing Light GS Coil,普伊爾伊腰甲【ＧＳ】
-11454,Piercing Light GP Coil,普伊爾伊腰甲【ＧＰ】
-11455,Piercing Light ZP Coil,普伊爾伊腰甲【ＺＰ】
+11449,Piercing Light Coil,貫光腰甲
+11450,Piercing Light F Coil,貫光腰甲【Ｆ】
+11451,Piercing Light FZ Coil,貫光腰甲【ＦＺ】
+11452,Piercing Light HS Coil,貫光腰甲【ＨＳ】
+11453,Piercing Light GS Coil,貫光腰甲【ＧＳ】
+11454,Piercing Light GP Coil,貫光腰甲【ＧＰ】
+11455,Piercing Light ZP Coil,貫光腰甲【ＺＰ】
 11456,Colour Axe Coil,克歐爾歐腰甲
 11457,Colour Axe F Coil,克歐爾歐腰甲【Ｆ】
 11458,Colour Axe FZ Coil,克歐爾歐腰甲【ＦＺ】
@@ -11476,13 +11476,13 @@ index,source,target
 11474,Crush Gun GS Coat,克烏夏烏腰衣【ＧＳ】
 11475,Crush Gun GP Coat,克烏夏烏腰衣【ＧＰ】
 11476,Crush Gun ZP Coat,克烏夏烏腰衣【ＺＰ】
-11477,Bow Saint Coat,布歐沃阿腰衣
-11478,Bow Saint F Coat,布歐沃阿腰衣【Ｆ】
-11479,Bow Saint FZ Coat,布歐沃阿腰衣【ＦＺ】
-11480,Bow Saint HS Coat,布歐沃阿腰衣【ＨＳ】
-11481,Bow Saint GS Coat,布歐沃阿腰衣【ＧＳ】
-11482,Bow Saint GP Coat,布歐沃阿腰衣【ＧＰ】
-11483,Bow Saint ZP Coat,布歐沃阿腰衣【ＺＰ】
+11477,Bow Saint Coat,斯阿恩腰衣
+11478,Bow Saint F Coat,斯阿恩腰衣【Ｆ】
+11479,Bow Saint FZ Coat,斯阿恩腰衣【ＦＺ】
+11480,Bow Saint HS Coat,斯阿恩腰衣【ＨＳ】
+11481,Bow Saint GS Coat,斯阿恩腰衣【ＧＳ】
+11482,Bow Saint GP Coat,斯阿恩腰衣【ＧＰ】
+11483,Bow Saint ZP Coat,斯阿恩腰衣【ＺＰ】
 11484,Rantana Coil,蘭塔納腰甲
 11485,Rantana F Coil,蘭塔納腰甲【Ｆ】
 11486,Rantana FZ Coil,蘭塔納腰甲【ＦＺ】
@@ -11520,7 +11520,7 @@ index,source,target
 11518,Wizard ZP Coat・Green,巫師腰衣【ＺＰ】・緑
 11519,Wizard ZP Coat・White,巫師腰衣【ＺＰ】・白
 11520,Waka Waistband ZP,和歌腰帶【ＺＰ】
-11521,Waka Colour Belt ZP,沃阿克阿腰帶【ＺＰ】
+11521,Waka Colour Belt ZP,和歌腰帶【ＺＰ】
 11522,Shaln ZP Belt・Blue,夏爾恩腰帶【ＺＰ】・青
 11523,Shaln ZP Belt・Green,夏爾恩腰帶【ＺＰ】・緑
 11524,Shaln ZP Belt・Purple,夏爾恩腰帶【ＺＰ】・紫
@@ -11561,8 +11561,8 @@ index,source,target
 11559,ヴァンパイアＤコイル,芙恩拍伊阿腰甲
 11560,Midogaron ZD Coil,姆伊德歐腰甲
 11561,Midogaron ZD Coat,姆伊德歐腰衣
-11562,White Fatalis Dスパイン,黑龍腰甲
-11563,White Fatalis Dスケイル,黑龍腰甲
+11562,White Fatalis Dスパイン,白黑龍腰甲
+11563,White Fatalis Dスケイル,白黑龍腰甲
 11564,Elzelion D Coil,灼零龍腰甲
 11565,Elzelion D Coat,灼零龍腰衣
 11566,Zakka D Coil,茲阿克阿腰甲
@@ -11592,7 +11592,7 @@ index,source,target
 11590,Kukubo D Coil,克烏克烏腰甲
 11591,Kakabu D Coil,克阿克阿腰甲
 11592,Aruru D Coil,阿爾烏爾腰甲
-11593,Red Cat Dテイル,猫腰甲
+11593,Red Cat Dテイル,赤猫腰甲
 11594,Rios D Faulds,爾伊斯腰甲
 11595,Bonito D Faulds,布歐恩伊腰甲
 11596,Meirida D Faulds,姆艾爾伊腰甲
@@ -11761,7 +11761,7 @@ index,source,target
 11759,Scholar C Skirt,施歐爾阿裙甲
 11760,Aelucanth C Elytra,阿爾烏克翅腰
 11761,Rhopessa C Elytra,爾歐普艾翅腰
-11762,Yukumo ノオビC・Heaven,結雲天腰甲・天
+11762,Yukumo ノオビC・Heaven,結雲天腰甲
 11763,White 蘭D Coil,蘭腰甲・白
 11764,Crimson 霞D Coil,霞腰甲・紅
 11765,Demonclad ノ虎布D,鬼纏腰甲
@@ -11778,19 +11778,19 @@ index,source,target
 11776,Vulcan Dテイル,火神腰甲
 11777,Vulcan GD Wing,火山腰翼
 11778,Vulcan GDテイル,火神腰甲
-11779,Garnet D Coil,格阿爾艾腰甲
-11780,Amethyst D Coil,阿姆艾斯腰甲
-11781,Coral D Coil,克歐爾阿腰甲
-11782,Quartz D Coil,斯烏爾腰甲
-11783,Emerald D Coil,艾姆艾爾腰甲
-11784,Pearl D Coil,普艾爾腰甲
-11785,Ruby D Coil,爾烏布腰甲
-11786,Sapphire D Coil,斯阿普伊腰甲
-11787,Topaz D Coat,特歐普阿腰衣
-11788,Tourmaline D Coat,特歐爾阿腰衣
-11789,Lapis D Coat,爾阿普伊腰衣
-11790,Hisui D Coil,赫伊斯烏腰甲
-11791,Onyx D Coil,歐恩腰甲
+11779,Garnet D Coil,石榴石腰甲
+11780,Amethyst D Coil,紫水晶腰甲
+11781,Coral D Coil,珊瑚腰甲
+11782,Quartz D Coil,石英腰甲
+11783,Emerald D Coil,祖母緑腰甲
+11784,Pearl D Coil,珍珠腰甲
+11785,Ruby D Coil,紅寶石腰甲
+11786,Sapphire D Coil,藍寶石腰甲
+11787,Topaz D Coat,黄玉腰衣
+11788,Tourmaline D Coat,電氣石腰衣
+11789,Lapis D Coat,青金石腰衣
+11790,Hisui D Coil,翡翠腰甲
+11791,Onyx D Coil,縞瑪瑙腰甲
 11792,Mosswine Hip D,菌豬臀甲
 11793,Remobra ーツ Belt D,翼蛇龍腰帶
 11794,Battle Coat PD Blue,戦腰衣【ＰＤ】・青
@@ -11814,8 +11814,8 @@ index,source,target
 11812,Healer Frill PD Blue,治癒褶邊【ＰＤ】・青
 11813,Healer Frill PD White,治癒褶邊【ＰＤ】・白
 11814,Healer Frill PD Yellow,治癒褶邊【ＰＤ】・黄
-11815,Shourou 【越腰】D,照楼上手
-11816,Mitama 【越腰】D,御魂上手
+11815,Shourou 【越腰】D,夏歐爾歐上手
+11816,Mitama 【越腰】D,姆伊特阿上手
 11817,Burning Cliff D [Waist て】,崖腰甲
 11818,Crimson Cliff D [Waist て】,崖腰甲
 11819,Ledia D Coil,爾艾德伊腰甲
@@ -11826,7 +11826,7 @@ index,source,target
 11824,Blue Sky Obi D,蒼天帶
 11825,Noon Glow Obi D,恩歐恩歐帶
 11826,Kosho D [Obi 】,克歐夏歐帶
-11827,True Shadow Obi D,特烏斯阿帶
+11827,True Shadow Obi D,真影帶
 11828,Furogada D Coil,芙烏爾歐腰甲
 11829,Lars D Faulds,爾阿爾腰甲
 11830,Donru D Faulds,德歐恩烏腰甲
@@ -11857,10 +11857,10 @@ index,source,target
 11855,Tempest G【 Obi 】,暴風雨帶【Ｇ】
 11856,Tempest GF【 Obi 】,暴風雨帶【ＧＦ】
 11857,Tempest GX【 Obi 】,暴風雨帶【ＧＸ】
-11858,Welkin 【 Obi 】,蒼穹帶
-11859,Welkin G【 Obi 】,蒼穹帶【Ｇ】
-11860,Welkin GF【 Obi 】,蒼穹帶【ＧＦ】
-11861,Welkin GX【 Obi 】,蒼穹帶【ＧＸ】
+11858,Welkin 【 Obi 】,穹蒼帶
+11859,Welkin G【 Obi 】,穹蒼帶【Ｇ】
+11860,Welkin GF【 Obi 】,穹蒼帶【ＧＦ】
+11861,Welkin GX【 Obi 】,穹蒼帶【ＧＸ】
 11862,Levin Coil,雷霆腰甲
 11863,Levin F Coil,雷霆腰甲【Ｆ】
 11864,Levin FZ Coil,雷霆腰甲【ＦＺ】
@@ -11875,20 +11875,20 @@ index,source,target
 11873,Levin GS Coat,雷霆腰衣【ＧＳ】
 11874,Levin GP Coat,雷霆腰衣【ＧＰ】
 11875,Levin ZP Coat,雷霆腰衣【ＺＰ】
-11876,Silver Armour・Waist,甲冑腰甲・銀
-11877,Silver Armour F・Waist,甲冑腰甲【Ｆ】・銀
-11878,Silver Armour FZ・Waist,甲冑腰甲【ＦＺ】・銀
-11879,Silver Armour HS・Waist,甲冑腰甲【ＨＳ】・銀
-11880,Silver Armour GS・Waist,甲冑腰甲【ＧＳ】・銀
-11881,Silver Armour GP・Waist,甲冑腰甲【ＧＰ】・銀
-11882,Silver Armour ZP・Waist,甲冑腰甲【ＺＰ】・銀
-11883,Silver Armour・Waistband,甲冑腰帶・銀
-11884,Silver Armour F・Waistband,甲冑腰帶【Ｆ】・銀
-11885,Silver Armour FZ・Waistband,甲冑腰帶【ＦＺ】・銀
-11886,Silver Armour HS・Waistband,甲冑腰帶【ＨＳ】・銀
-11887,Silver Armour GS・Waistband,甲冑腰帶【ＧＳ】・銀
-11888,Silver Armour GP・Waistband,甲冑腰帶【ＧＰ】・銀
-11889,Silver Armour ZP・Waistband,甲冑腰帶【ＺＰ】・銀
+11876,Silver Armour・Waist,銀甲冑腰甲
+11877,Silver Armour F・Waist,銀甲冑腰甲【Ｆ】
+11878,Silver Armour FZ・Waist,銀甲冑腰甲【ＦＺ】
+11879,Silver Armour HS・Waist,銀甲冑腰甲【ＨＳ】
+11880,Silver Armour GS・Waist,銀甲冑腰甲【ＧＳ】
+11881,Silver Armour GP・Waist,銀甲冑腰甲【ＧＰ】
+11882,Silver Armour ZP・Waist,銀甲冑腰甲【ＺＰ】
+11883,Silver Armour・Waistband,銀甲冑腰帶
+11884,Silver Armour F・Waistband,銀甲冑腰帶【Ｆ】
+11885,Silver Armour FZ・Waistband,銀甲冑腰帶【ＦＺ】
+11886,Silver Armour HS・Waistband,銀甲冑腰帶【ＨＳ】
+11887,Silver Armour GS・Waistband,銀甲冑腰帶【ＧＳ】
+11888,Silver Armour GP・Waistband,銀甲冑腰帶【ＧＰ】
+11889,Silver Armour ZP・Waistband,銀甲冑腰帶【ＺＰ】
 11890,Rose Ball Gown・Waist,薔薇禮服腰甲
 11891,Rose Ball Gown F・Waist,薔薇禮服腰甲【Ｆ】
 11892,Rose Ball Gown FZ・Waist,薔薇禮服腰甲【ＦＺ】
@@ -11979,7 +11979,7 @@ index,source,target
 11977,Tempest C【 Obi 】,特艾姆艾帶
 11978,Welkin C【 Obi 】,沃艾爾伊帶
 11979,Levin D Coil,爾艾芙伊腰甲
-11980,Silver Armour D・Waist,阿爾歐爾腰甲・銀
+11980,Silver Armour D・Waist,銀甲冑腰甲
 11981,Rose Ball Gown D・Waist,爾歐斯艾腰甲
 11982,Shui D Coil,夏烏斯腰甲
 11983,CE Kevlar D BM Waist Blue,克艾斯艾腰甲・青
@@ -12146,20 +12146,20 @@ index,source,target
 12144,Holy Maiden Armor GS・Waistband,聖女鎧腰帶【ＧＳ】
 12145,Holy Maiden Armor GP・Waistband,聖女鎧腰帶【ＧＰ】
 12146,Holy Maiden Armor ZP・Waistband,聖女鎧腰帶【ＺＰ】
-12147,Dragon Slayer Armor・Waist,德阿格歐腰甲
-12148,Dragon Slayer Armor F・Waist,德阿格歐腰甲【Ｆ】
-12149,Dragon Slayer Armor FZ・Waist,德阿格歐腰甲【ＦＺ】
-12150,Dragon Slayer Armor HS・Waist,德阿格歐腰甲【ＨＳ】
-12151,Dragon Slayer Armor GS・Waist,德阿格歐腰甲【ＧＳ】
-12152,Dragon Slayer Armor GP・Waist,德阿格歐腰甲【ＧＰ】
-12153,Dragon Slayer Armor ZP・Waist,德阿格歐腰甲【ＺＰ】
-12154,Dragon Slayer Armor・Waistband,德阿格歐腰帶
-12155,Dragon Slayer Armor F・Waistband,德阿格歐腰帶【Ｆ】
-12156,Dragon Slayer Armor FZ・Waistband,德阿格歐腰帶【ＦＺ】
-12157,Dragon Slayer Armor HS・Waistband,德阿格歐腰帶【ＨＳ】
-12158,Dragon Slayer Armor GS・Waistband,德阿格歐腰帶【ＧＳ】
-12159,Dragon Slayer Armor GP・Waistband,德阿格歐腰帶【ＧＰ】
-12160,Dragon Slayer Armor ZP・Waistband,德阿格歐腰帶【ＺＰ】
+12147,Dragon Slayer Armor・Waist,屠龍腰甲
+12148,Dragon Slayer Armor F・Waist,屠龍腰甲【Ｆ】
+12149,Dragon Slayer Armor FZ・Waist,屠龍腰甲【ＦＺ】
+12150,Dragon Slayer Armor HS・Waist,屠龍腰甲【ＨＳ】
+12151,Dragon Slayer Armor GS・Waist,屠龍腰甲【ＧＳ】
+12152,Dragon Slayer Armor GP・Waist,屠龍腰甲【ＧＰ】
+12153,Dragon Slayer Armor ZP・Waist,屠龍腰甲【ＺＰ】
+12154,Dragon Slayer Armor・Waistband,屠龍腰帶
+12155,Dragon Slayer Armor F・Waistband,屠龍腰帶【Ｆ】
+12156,Dragon Slayer Armor FZ・Waistband,屠龍腰帶【ＦＺ】
+12157,Dragon Slayer Armor HS・Waistband,屠龍腰帶【ＨＳ】
+12158,Dragon Slayer Armor GS・Waistband,屠龍腰帶【ＧＳ】
+12159,Dragon Slayer Armor GP・Waistband,屠龍腰帶【ＧＰ】
+12160,Dragon Slayer Armor ZP・Waistband,屠龍腰帶【ＺＰ】
 12161,Rebellion Armour・Waist,爾艾布艾腰甲
 12162,Rebellion Armour F・Waist,爾艾布艾腰甲【Ｆ】
 12163,Rebellion Armour FZ・Waist,爾艾布艾腰甲【ＦＺ】
@@ -12181,7 +12181,7 @@ index,source,target
 12179,Granu ZP Faulds,格拉努腰甲【ＺＰ】
 12180,Granu ZP Coat,格拉努腰衣【ＺＰ】
 12181,Chiyo Waistband ZP,千代腰帶【ＺＰ】
-12182,Chiyo Colour Belt ZP,奇伊伊歐腰帶【ＺＰ】
+12182,Chiyo Colour Belt ZP,千代腰帶【ＺＰ】
 12183,Nekodan ZP Waist,恩艾克歐腰甲【ＺＰ】
 12184,Gudan ZP Coil,古丹腰甲【ＺＰ】
 12185,Toridcless ZD Faulds,特歐爾伊腰甲
@@ -12195,7 +12195,7 @@ index,source,target
 12193,VM Equipment D,芙艾斯烏腰甲
 12194,Twelve Paladins' Armor D・Waist,特艾爾艾腰甲
 12195,Holy Maiden Armor D・Waist,赫歐爾阿腰甲
-12196,Dragon Slayer Armor D・Waist,龍腰甲
+12196,Dragon Slayer Armor D・Waist,屠龍腰甲
 12197,Rebellion Armour D・Waist,爾艾布艾腰甲
 12198,Dinato D Faulds,德伊恩阿腰甲
 12199,Duque D Faulds,德烏斯烏腰甲
@@ -12232,21 +12232,21 @@ index,source,target
 12230,High Metal Coil PD Black,上位金屬腰甲【ＰＤ】・黑
 12231,High Metal Coil PD Blue,上位金屬腰甲【ＰＤ】・青
 12232,High Metal Coil PD Yellow,上位金屬腰甲【ＰＤ】・黄
-12233,S・Sol Coil PD Red,日腰甲【Ｓ】【ＰＤ】・赤
-12234,S・Sol Coil PD Purple,日腰甲【Ｓ】【ＰＤ】・紫
-12235,S・Sol Coil PD Black,日腰甲【Ｓ】【ＰＤ】・黑
+12233,S・Sol Coil PD Red,S索倫腰甲【ＰＤ】・赤
+12234,S・Sol Coil PD Purple,S索倫腰甲【ＰＤ】・紫
+12235,S・Sol Coil PD Black,S索倫腰甲【ＰＤ】・黑
 12236,Garuga Coat PD White,黑狼鳥腰衣【ＰＤ】・白
 12237,Garuga Coat PD Green,黑狼鳥腰衣【ＰＤ】・緑
 12238,Garuga Coat PD Red,黑狼鳥腰衣【ＰＤ】・赤
 12239,Hermitaur Faulds PD Blue,盾蟹腰甲【ＰＤ】・青
 12240,Hermitaur Faulds PD White,盾蟹腰甲【ＰＤ】・白
 12241,Hermitaur Faulds PD Purple,盾蟹腰甲【ＰＤ】・紫
-12242,Kushala アンダ PD Red,鋼龍腰甲【ＰＤ】
-12243,Kushala アンダ PD Yellow,鋼龍腰甲【ＰＤ】
-12244,Kushala アンダ PD Green,鋼龍腰甲【ＰＤ】
-12245,Kushala アドミ PD Red,鋼龍腰甲【ＰＤ】
-12246,Kushala アドミ PD Yellow,鋼龍腰甲【ＰＤ】
-12247,Kushala アドミ PD Green,鋼龍腰甲【ＰＤ】
+12242,Kushala アンダ PD Red,鋼龍腰甲【ＰＤ】・赤
+12243,Kushala アンダ PD Yellow,鋼龍腰甲【ＰＤ】・黄
+12244,Kushala アンダ PD Green,鋼龍腰甲【ＰＤ】・緑
+12245,Kushala アドミ PD Red,鋼龍腰甲【ＰＤ】・赤
+12246,Kushala アドミ PD Yellow,鋼龍腰甲【ＰＤ】・黄
+12247,Kushala アドミ PD Green,鋼龍腰甲【ＰＤ】・緑
 12248,忍の Obi・陽D,忍の陽帶
 12249,忍の Obi・陰D,忍の陰帶
 12250,Bonne D Coil,布歐恩艾腰甲
@@ -12311,10 +12311,10 @@ index,source,target
 12309,Utaei Waistband ZF,烏特阿腰帶【ＺＦ】
 12310,Utaei Waistband ZY,烏特阿腰帶【ＺＹ】
 12311,Utaei Waistband ZX,烏特阿腰帶【ＺＸ】
-12312,Utaei Colour Belt Z,烏特阿斯腰帶【Ｚ】
-12313,Utaei Colour Belt ZF,烏特阿斯腰帶【ＺＦ】
-12314,Utaei Colour Belt ZY,烏特阿斯腰帶【ＺＹ】
-12315,Utaei Colour Belt ZX,烏特阿斯腰帶【ＺＸ】
+12312,Utaei Colour Belt Z,烏特阿腰帶【Ｚ】
+12313,Utaei Colour Belt ZF,烏特阿腰帶【ＺＦ】
+12314,Utaei Colour Belt ZY,烏特阿腰帶【ＺＹ】
+12315,Utaei Colour Belt ZX,烏特阿腰帶【ＺＸ】
 12316,Cassius G Faulds,克阿斯伊腰甲【Ｇ】
 12317,Cassius GF Faulds,克阿斯伊腰甲【ＧＦ】
 12318,Cassius GX Faulds,克阿斯伊腰甲【ＧＸ】
@@ -12473,7 +12473,7 @@ index,source,target
 12471,Byakko・双龍D Coil,双龍腰甲
 12472,Byakko・剣王D Coil,剣王腰甲
 12473,Byakko・刀神D Coil,刀神腰甲
-12474,Byakko・Heaven 槍D Coil,槍腰甲・天
+12474,Byakko・Heaven 槍D Coil,槍天腰甲
 12475,Byakko・砲皇D Coil,砲皇腰甲
 12476,Byakko・鈍器獣D Coil,鈍器獣腰甲
 12477,Byakko・奏帝D Coil,奏帝腰甲
@@ -12481,10 +12481,10 @@ index,source,target
 12479,Byakko・斬将D Coil,斬将腰甲
 12480,Byakko・銃傑D Coat,銃傑腰衣
 12481,Byakko・銃仙D Coat,銃仙腰衣
-12482,Byakko・Bow 鬼D Coat,鬼腰衣
-12483,Kirin フープ PD Red,麒麟腰甲【ＰＤ】
-12484,Kirin フープ PD Purple,麒麟腰甲【ＰＤ】
-12485,Kirin フープ PD Black,麒麟腰甲【ＰＤ】
+12482,Byakko・Bow 鬼D Coat,白虎腰衣
+12483,Kirin フープ PD Red,麒麟腰甲【ＰＤ】・赤
+12484,Kirin フープ PD Purple,麒麟腰甲【ＰＤ】・紫
+12485,Kirin フープ PD Black,麒麟腰甲【ＰＤ】・黑
 12486,Kaiser Coil PD White,帝王腰甲【ＰＤ】・白
 12487,Kaiser Coat PD White,帝王腰衣【ＰＤ】・白
 12488,Kaiser Coil PD Black,帝王腰甲【ＰＤ】・黑
@@ -12518,7 +12518,7 @@ index,source,target
 12516,Suzaku・双龍D Coil,双龍腰甲
 12517,Suzaku・剣王D Coil,剣王腰甲
 12518,Suzaku・刀神D Coil,刀神腰甲
-12519,Suzaku・Heaven 槍D Coil,槍腰甲・天
+12519,Suzaku・Heaven 槍D Coil,槍天腰甲
 12520,Suzaku・砲皇D Coil,砲皇腰甲
 12521,Suzaku・鈍器獣D Coil,鈍器獣腰甲
 12522,Suzaku・奏帝D Coil,奏帝腰甲
@@ -12526,10 +12526,10 @@ index,source,target
 12524,Suzaku・斬将D Coil,斬将腰甲
 12525,Suzaku・銃傑D Coat,銃傑腰衣
 12526,Suzaku・銃仙D Coat,銃仙腰衣
-12527,Suzaku・Bow 鬼D Coat,鬼腰衣
-12528,G・Knight Coat PD Red,騎士腰衣【Ｇ】【ＰＤ】・赤
-12529,G・Knight Coat PD Blue,騎士腰衣【Ｇ】【ＰＤ】・青
-12530,G・Knight Coat PD Purple,騎士腰衣【Ｇ】【ＰＤ】・紫
+12527,Suzaku・Bow 鬼D Coat,朱雀腰衣
+12528,G・Knight Coat PD Red,騎士腰衣【ＰＤ】・赤
+12529,G・Knight Coat PD Blue,騎士腰衣【ＰＤ】・青
+12530,G・Knight Coat PD Purple,騎士腰衣【ＰＤ】・紫
 12531,PV Frill PD Red,普褶邊【ＰＤ】・赤
 12532,PV Frill PD Blue,普褶邊【ＰＤ】・青
 12533,PV Frill PD Purple,普褶邊【ＰＤ】・紫
@@ -12551,12 +12551,12 @@ index,source,target
 12549,Makluva Coil PD Green,馬庫瓦腰甲【ＰＤ】・緑
 12550,Makluva Coil PD Blue,馬庫瓦腰甲【ＰＤ】・青
 12551,Makluva Coil PD Black,馬庫瓦腰甲【ＰＤ】・黑
-12552,Akantor イッケク PD Black,霸龍腰甲【ＰＤ】
-12553,Akantor イッケク PD Red,霸龍腰甲【ＰＤ】
-12554,Akantor イッケク PD White,霸龍腰甲【ＰＤ】
-12555,Akantor クッコレ PD Black,霸龍腰甲【ＰＤ】
-12556,Akantor クッコレ PD Red,霸龍腰甲【ＰＤ】
-12557,Akantor クッコレ PD White,霸龍腰甲【ＰＤ】
+12552,Akantor イッケク PD Black,霸龍腰甲【ＰＤ】・黑
+12553,Akantor イッケク PD Red,霸龍腰甲【ＰＤ】・赤
+12554,Akantor イッケク PD White,霸龍腰甲【ＰＤ】・白
+12555,Akantor クッコレ PD Black,霸龍腰甲【ＰＤ】・黑
+12556,Akantor クッコレ PD Red,霸龍腰甲【ＰＤ】・赤
+12557,Akantor クッコレ PD White,霸龍腰甲【ＰＤ】・白
 12558,Gravios Coil PD Black,鎧龍腰甲【ＰＤ】・黑
 12559,Gravios Coil PD Blue,鎧龍腰甲【ＰＤ】・青
 12560,Gravios Coil PD Red,鎧龍腰甲【ＰＤ】・赤
@@ -12588,7 +12588,7 @@ index,source,target
 12586,Reiresu D Coil,爾艾爾艾腰甲
 12587,Reuasu D Coil,爾艾斯烏腰甲
 12588,Buran D Faulds,布烏爾阿腰甲
-12589,ハンショク Mask D,德腰甲
+12589,ハンショク Mask D,哈恩希約庫腰甲
 12590,Shimashima D Waist,夏伊姆阿腰甲
 12591,デストラDタセット,德斯托拉腰甲
 12592,Furante D Coil,芙烏爾阿腰甲
@@ -12914,7 +12914,7 @@ index,source,target
 12912,Genbu・双龍D Coil,双龍腰甲
 12913,Genbu・剣王D Coil,剣王腰甲
 12914,Genbu・刀神D Coil,刀神腰甲
-12915,Genbu・Heaven 槍D Coil,槍腰甲・天
+12915,Genbu・Heaven 槍D Coil,槍天腰甲
 12916,Genbu・砲皇D Coil,砲皇腰甲
 12917,Genbu・鈍器獣D Coil,鈍器獣腰甲
 12918,Genbu・奏帝D Coil,奏帝腰甲
@@ -12922,7 +12922,7 @@ index,source,target
 12920,Genbu・斬将D Coil,斬将腰甲
 12921,Genbu・銃傑D Coat,銃傑腰衣
 12922,Genbu・銃仙D Coat,銃仙腰衣
-12923,Genbu・Bow 鬼D Coat,鬼腰衣
+12923,Genbu・Bow 鬼D Coat,玄武腰衣
 12924,Tanzanite D Coil,特阿恩阿腰甲
 12925,Hematite D Coil,赫艾姆阿腰甲
 12926,Byakko・磁星D Coil,磁星腰甲
@@ -12970,10 +12970,10 @@ index,source,target
 12968,Reflet D Coil・White,爾艾芙艾腰甲・白
 12969,Reflet D Coil・Red,爾艾芙艾腰甲・赤
 12970,Reflet D Coil・Black,爾艾芙艾腰甲・黑
-12971,Tenpi ノ佩楯D・Red,天陽腰甲
-12972,Tenpi ノ佩楯D・Blue,天陽腰甲
-12973,Tenpi ノ佩楯D・Black,天陽腰甲
-12974,Tenpi ノ佩楯D・White,天陽腰甲
+12971,Tenpi ノ佩楯D・Red,天陽腰甲・赤
+12972,Tenpi ノ佩楯D・Blue,天陽腰甲・青
+12973,Tenpi ノ佩楯D・Black,天陽腰甲・黑
+12974,Tenpi ノ佩楯D・White,天陽腰甲・白
 12975,Tenpi Waistband D・Red,特艾恩伊腰帶・赤
 12976,Tenpi Waistband D・Blue,特艾恩伊腰帶・青
 12977,Tenpi Waistband D・Black,特艾恩伊腰帶・黑
@@ -12994,10 +12994,10 @@ index,source,target
 12992,Gelt D Coil・Copper,格艾爾腰甲・銅
 12993,Gelt D Coil・Silver,格艾爾腰甲・銀
 12994,Gelt D Coil・Gold,格艾爾腰甲・金
-12995,Gloria D Coil・Gold,格歐爾伊腰甲・金
-12996,Gloria D Coil・Blue,格歐爾伊腰甲・青
-12997,Gloria D Coil・Water,格歐爾伊腰甲
-12998,Gloria D Coil・Red,格歐爾伊腰甲・赤
+12995,Gloria D Coil・Gold,榮光腰甲・金
+12996,Gloria D Coil・Blue,榮光腰甲・青
+12997,Gloria D Coil・Water,榮光腰甲・水
+12998,Gloria D Coil・Red,榮光腰甲・赤
 12999,Cloth D Coil・Red,克歐斯腰甲・赤
 13000,Cloth D Coil・Blue,克歐斯腰甲・青
 13001,Cloth D Coil・Purple,克歐斯腰甲・紫
@@ -13058,14 +13058,14 @@ index,source,target
 13056,Honour D Coil・Blue,赫歐恩歐腰甲・青
 13057,Honour D Coil・Green,赫歐恩歐腰甲・緑
 13058,Honour D Coil・紺,紺腰甲
-13059,Pics D Coil・Green,普伊克腰甲・緑
-13060,Pics D Coil・Purple,普伊克腰甲・紫
-13061,Pics D Coil・Black,普伊克腰甲・黑
-13062,Pics D Coil・Water,普伊克阿腰甲
-13063,Magos D Coil・Yellow,姆阿格歐腰甲・黄
-13064,Magos D Coil・Red,姆阿格歐腰甲・赤
-13065,Magos D Coil・Water,姆阿格歐腰甲
-13066,Magos D Coil・Blue,姆阿格歐腰甲・青
+13059,Pics D Coil・Green,皮克斯腰甲・緑
+13060,Pics D Coil・Purple,皮克斯腰甲・紫
+13061,Pics D Coil・Black,皮克斯腰甲・黑
+13062,Pics D Coil・Water,皮克斯腰甲・水
+13063,Magos D Coil・Yellow,瑪戈斯腰甲・黄
+13064,Magos D Coil・Red,瑪戈斯腰甲・赤
+13065,Magos D Coil・Water,瑪戈斯腰甲・水
+13066,Magos D Coil・Blue,瑪戈斯腰甲・青
 13067,Arge D Coil,阿爾艾斯腰甲
 13068,Camarera D Coil,克阿姆阿腰甲
 13069,Metenera D Coil,姆艾特艾腰甲
@@ -13075,10 +13075,10 @@ index,source,target
 13073,Zodic D Coil・Tea,茲歐德伊腰甲・茶
 13074,Zodic D Coil・Green,茲歐德伊腰甲・緑
 13075,Zodic D Coil・Pink,茲歐德伊腰甲・桃
-13076,Cayssis D Coil Water,克阿伊伊腰甲
-13077,Cayssis D Coil Red,克阿伊伊腰甲・赤
-13078,Cayssis D Coil Blue,克阿伊伊腰甲・青
-13079,Cayssis D Coil Orange,克阿伊伊腰甲・橙
+13076,Cayssis D Coil Water,凱西斯腰甲・水
+13077,Cayssis D Coil Red,凱西斯腰甲・赤
+13078,Cayssis D Coil Blue,凱西斯腰甲・青
+13079,Cayssis D Coil Orange,凱西斯腰甲・橙
 13080,Omet D Coil・Black,歐姆艾特腰甲・黑
 13081,Omet D Coil・Red,歐姆艾特腰甲・赤
 13082,Omet D Coil・White,歐姆艾特腰甲・白
@@ -13087,18 +13087,18 @@ index,source,target
 13085,Edio D Coil・Red,艾德伊斯腰甲・赤
 13086,Edio D Coil・Yellow,艾德伊斯腰甲・黄
 13087,Edio D Coil・Black,艾德伊斯腰甲・黑
-13088,Steno D Elytra ー・Orange,水竜翅腰
-13089,Steno D Elytra ー・Peach,水竜翅腰
-13090,Steno D Elytra ー・Blue,水竜翅腰
-13091,Steno D Elytra ー・Red,水竜翅腰
+13088,Steno D Elytra ー・Orange,斯艾恩歐翅腰・橙
+13089,Steno D Elytra ー・Peach,斯艾恩歐翅腰・桃
+13090,Steno D Elytra ー・Blue,斯艾恩歐翅腰・青
+13091,Steno D Elytra ー・Red,斯艾恩歐翅腰・赤
 13092,Suriito D Coil・Yellow,斯烏爾伊腰甲・黄
 13093,Suriito D Coil・Silver,斯烏爾伊腰甲・銀
 13094,Suriito D Coil・Red,斯烏爾伊腰甲・赤
 13095,Suriito D Coil・Blue,斯烏爾伊腰甲・青
-13096,Galitos D Belt・Tea,格阿爾伊腰帶・茶
-13097,Galitos D Belt・Red,格阿爾伊腰帶・赤
-13098,Galitos D Belt・Black,格阿爾伊腰帶・黑
-13099,Galitos D Belt・Water,格阿爾伊腰帶
+13096,Galitos D Belt・Tea,加里托斯腰帶・茶
+13097,Galitos D Belt・Red,加里托斯腰帶・赤
+13098,Galitos D Belt・Black,加里托斯腰帶・黑
+13099,Galitos D Belt・Water,加里托斯腰帶・水
 13100,Text D Coil・Purple,特艾克斯腰甲・紫
 13101,Text D Coil・Green,特艾克斯腰甲・緑
 13102,Text D Coil・Blue,特艾克斯腰甲・青
@@ -13107,24 +13107,24 @@ index,source,target
 13105,Pharan D Coil・Black,菲阿爾阿腰甲・黑
 13106,Pharan D Coil・Red,菲阿爾阿腰甲・赤
 13107,Pharan D Coil・Blue,菲阿爾阿腰甲・青
-13108,Gold D Coil・Red,德腰甲
-13109,Gold D Coil・Blue,德腰甲
-13110,Gold D Coil・Yellow,德腰甲
-13111,Gold D Coil・Purple,德腰甲
-13112,Claire D Coil・Purple,克阿爾艾腰甲・紫
-13113,Claire D Coil・Water,克阿爾艾腰甲
-13114,Claire D Coil・Red,克阿爾艾腰甲・赤
-13115,Claire D Coil・Black,克阿爾艾腰甲・黑
-13116,Gold Cat Dテイル,猫腰甲
-13117,Silver Cat Dテイル,猫腰甲
+13108,Gold D Coil・Red,金腰甲・赤
+13109,Gold D Coil・Blue,金腰甲・青
+13110,Gold D Coil・Yellow,金腰甲・黄
+13111,Gold D Coil・Purple,金腰甲・紫
+13112,Claire D Coil・Purple,克蕾爾腰甲・紫
+13113,Claire D Coil・Water,克蕾爾腰甲・水
+13114,Claire D Coil・Red,克蕾爾腰甲・赤
+13115,Claire D Coil・Black,克蕾爾腰甲・黑
+13116,Gold Cat Dテイル,金猫腰甲
+13117,Silver Cat Dテイル,銀猫腰甲
 13118,Ex D Coil・White,艾克斯腰甲・白
 13119,Ex D Coil・Red,艾克斯腰甲・赤
 13120,Ex D Coil・Blue,艾克斯腰甲・青
 13121,Ex D Coil・Black,艾克斯腰甲・黑
-13122,Star Festival D Obi 【 Red 】,斯阿爾艾帶・赤
-13123,Star Festival D Obi 【 Blue 】,斯阿爾艾帶・青
-13124,Star Festival D Obi 【 Black 】,斯阿爾艾帶・黑
-13125,Star Festival D Obi 【 White 】,斯阿爾艾帶・白
+13122,Star Festival D Obi 【 Red 】,星祭帶・赤
+13123,Star Festival D Obi 【 Blue 】,星祭帶・青
+13124,Star Festival D Obi 【 Black 】,星祭帶・黑
+13125,Star Festival D Obi 【 White 】,星祭帶・白
 13126,Promise D Coat・White,普歐姆伊腰衣・白
 13127,Promise D Coat・Blue,普歐姆伊腰衣・青
 13128,Promise D Coat・Purple,普歐姆伊腰衣・紫
@@ -13159,7 +13159,7 @@ index,source,target
 13157,Konseru D Faulds,克歐恩艾腰甲
 13158,Utaei Waistband D,烏特阿斯腰帶
 13159,Utatsumugu Waistband D,烏特阿特腰帶
-13160,シカリの腰当てD,德腰當
+13160,シカリの腰当てD,希可里腰當
 13161,Strega D Faulds,斯艾格阿腰甲
 13162,Eques D Faulds,艾斯烏斯腰甲
 13163,Uida D Coil,烏德阿斯腰甲
@@ -13411,7 +13411,7 @@ index,source,target
 13409,Secuti D Coil・Red,斯艾克烏腰甲・赤
 13410,Secuti D Coil・White,斯艾克烏腰甲・白
 13411,Rockman D Coat,爾歐克阿腰衣
-13412,Issen D【腰当て】・Red,伊斯艾恩腰當・赤
+13412,Issen D【腰当て】・Red,一閃腰當・赤
 13413,蜂針D【腰当て】・Orange,蜂針腰當・橙
 13414,Shanru Z Coil,夏阿恩烏腰甲【Ｚ】
 13415,Shanru ZF Coil,夏阿恩烏腰甲【ＺＦ】
@@ -13572,13 +13572,13 @@ index,source,target
 13570,Ryoso Waistband GS,涼疎腰帶【ＧＳ】
 13571,Ryoso Waistband GP,涼疎腰帶【ＧＰ】
 13572,Ryoso Waistband ZP,涼疎腰帶【ＺＰ】
-13573,Ryoso Colour Belt,爾歐斯歐腰帶
-13574,Ryoso Colour Belt F,爾歐斯歐腰帶【Ｆ】
-13575,Ryoso Colour Belt FZ,爾歐斯歐腰帶【ＦＺ】
-13576,Ryoso Colour Belt HS,爾歐斯歐腰帶【ＨＳ】
-13577,Ryoso Colour Belt GS,爾歐斯歐腰帶【ＧＳ】
-13578,Ryoso Colour Belt GP,爾歐斯歐腰帶【ＧＰ】
-13579,Ryoso Colour Belt ZP,爾歐斯歐腰帶【ＺＰ】
+13573,Ryoso Colour Belt,涼疎腰帶
+13574,Ryoso Colour Belt F,涼疎腰帶【Ｆ】
+13575,Ryoso Colour Belt FZ,涼疎腰帶【ＦＺ】
+13576,Ryoso Colour Belt HS,涼疎腰帶【ＨＳ】
+13577,Ryoso Colour Belt GS,涼疎腰帶【ＧＳ】
+13578,Ryoso Colour Belt GP,涼疎腰帶【ＧＰ】
+13579,Ryoso Colour Belt ZP,涼疎腰帶【ＺＰ】
 13580,Gems Coil,寶石腰甲
 13581,Gems F Coil,寶石腰甲【Ｆ】
 13582,Gems FZ Coil,寶石腰甲【ＦＺ】
@@ -13661,7 +13661,7 @@ index,source,target
 13659,Seiryu・双龍D Coil,双龍腰甲
 13660,Seiryu・剣王D Coil,剣王腰甲
 13661,Seiryu・刀神D Coil,刀神腰甲
-13662,Seiryu・Heaven 槍D Coil,槍腰甲・天
+13662,Seiryu・Heaven 槍D Coil,槍天腰甲
 13663,Seiryu・砲皇D Coil,砲皇腰甲
 13664,Seiryu・鈍器獣D Coil,鈍器獣腰甲
 13665,Seiryu・奏帝D Coil,奏帝腰甲
@@ -13669,7 +13669,7 @@ index,source,target
 13667,Seiryu・斬将D Coil,斬将腰甲
 13668,Seiryu・銃傑D Coat,銃傑腰衣
 13669,Seiryu・銃仙D Coat,銃仙腰衣
-13670,Seiryu・Bow 鬼D Coat,鬼腰衣
+13670,Seiryu・Bow 鬼D Coat,青龍腰衣
 13671,Seiryu・磁星D Coil,磁星腰甲
 13672,K. Lobster Coil PD Black,王龍蝦腰甲【ＰＤ】・黑
 13673,K. Lobster Coil PD Green,王龍蝦腰甲【ＰＤ】・緑
@@ -13695,12 +13695,12 @@ index,source,target
 13693,Ruko Wing PD White,極龍腰翼【ＰＤ】・白
 13694,Ruko Wing PD Blue,極龍腰翼【ＰＤ】・青
 13695,Ruko Wing PD Red,極龍腰翼【ＰＤ】・赤
-13696,Ruko テイル PD White,極龍腰甲【ＰＤ】
-13697,Ruko テイル PD Blue,極龍腰甲【ＰＤ】
-13698,Ruko テイル PD Red,極龍腰甲【ＰＤ】
-13699,Comrade Belt PD White Red,戰友腰帶【ＰＤ】・赤・白
-13700,Comrade Belt PD White Blue,戰友腰帶【ＰＤ】・青・白
-13701,Comrade Belt PD White Yellow,戰友腰帶【ＰＤ】・黄・白
+13696,Ruko テイル PD White,極龍腰甲【ＰＤ】・白
+13697,Ruko テイル PD Blue,極龍腰甲【ＰＤ】・青
+13698,Ruko テイル PD Red,極龍腰甲【ＰＤ】・赤
+13699,Comrade Belt PD White Red,戰友腰帶【ＰＤ】・白
+13700,Comrade Belt PD White Blue,戰友腰帶【ＰＤ】・白
+13701,Comrade Belt PD White Yellow,戰友腰帶【ＰＤ】・白
 13702,Otono D Faulds,歐特歐恩腰甲
 13703,忍の Obi・空D,忍の空帶
 13704,忍の Obi・海D,忍の海帶

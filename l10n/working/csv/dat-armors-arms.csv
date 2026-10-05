@@ -122,8 +122,8 @@ index,source,target
 120,ミラ Vulcan フィスト,火神拳
 121,ゴールド Lune Arms,月護腕
 122,ゴールド Lune Guard,月臂甲
-123,Silver Sol Arms,日護腕・銀
-124,Silver Sol Guard,日臂甲・銀
+123,Silver Sol Arms,銀日護腕
+124,Silver Sol Guard,銀日臂甲
 125,Leather S Arms,皮革護腕【Ｓ】
 126,Chainmail S Arms,鎖鏈護腕【Ｓ】
 127,Hunter's S Arms,獵人護腕【Ｓ】
@@ -167,16 +167,16 @@ index,source,target
 165,Monoblos S Guard,一角龍臂甲【Ｓ】
 166,Gravios S Arms,鎧龍護腕【Ｓ】
 167,Gravios S Guard,鎧龍臂甲【Ｓ】
-168,忍の Kote・Heaven,忍の籠手・天
-169,忍の Kote・Earth,忍の籠手・地
+168,忍の Kote・Heaven,忍の天籠手
+169,忍の Kote・Earth,忍の地籠手
 170,Guild Guard Claws Crimson,獵團臂甲・紅
 171,Guild Guard Cuffs Crimson,獵團臂甲・紅
 172,Guild Guard Claws Crimson,獵團臂甲・紅
 173,Guild Guard Cuffs Crimson,獵團臂甲・紅
-174,暁丸・覇【 Kote 】,暁丸覇籠手
-175,曙丸・覇【 Kote 】,曙丸覇籠手
-176,凛・覇【 Kote 】,凛覇籠手
-177,艶・覇【 Kote 】,艶覇籠手
+174,暁丸・覇【 Kote 】,暁丸籠手
+175,曙丸・覇【 Kote 】,曙丸籠手
+176,凛・覇【 Kote 】,凛籠手
+177,艶・覇【 Kote 】,艶籠手
 178,Dragon Sクロウ,龍爪【Ｓ】
 179,Dragon Sフィスト,龍拳【Ｓ】
 180,Hermitaur Arms,盾蟹護腕
@@ -213,14 +213,14 @@ index,source,target
 211,Toyotama [Sleeves 】,豐玉袖
 212,Empress Arms,女帝護腕
 213,Empress Guard,女帝臂甲
-214,Gold 剛【 Kote 】,剛籠手・金
+214,Gold 剛【 Kote 】,金籠手剛
 215,不動【 Kote 】,不動籠手
 216,Kaiser Arms,帝王護腕
 217,Kaiser Guard,帝王臂甲
 218,夜叉 [Vambraces 】,夜叉臂甲
 219,修羅 [Vambraces 】,修羅臂甲
 220,Golden Kote,金籠手
-221,Puppeteer ノ Kote,籠手
+221,Puppeteer ノ Kote,操偶籠手
 222,White Fatalis クロウ,白黑龍爪
 223,White Fatalis フィスト,白黑龍拳
 224,Black Belt S Arms,黑帶護腕【Ｓ】
@@ -249,11 +249,11 @@ index,source,target
 247,Gia U Guard,格伊臂甲【Ｕ】
 248,White Cat Arms,白猫護腕
 249,Black Cat Arms,黑猫護腕
-250,Gold Cat Arms,猫護腕・金
+250,Gold Cat Arms,金猫護腕
 251,Gothic Arms,哥德護腕
 252,Gothic F Arms,哥德護腕【Ｆ】
 253,Beil Gauntlets,貝爾手甲
-254,Comrade Arms 【猩】,戰友猩護腕
+254,Comrade Arms 【猩】,戰友護腕猩
 255,Jisutoreru Arms,吉斯特雷護腕
 256,Duo Arms,雙護腕
 257,Smart Arms,機靈護腕
@@ -299,32 +299,32 @@ index,source,target
 297,Kushala Fマカーン,鋼龍臂甲【Ｆ】
 298,Kaiser F Arms,帝王護腕【Ｆ】
 299,Kaiser F Guard,帝王臂甲【Ｆ】
-300,Mizuha 魁【大袖】,魁大袖
-301,Toyotama 魁【大袖】,魁大袖
-302,Gold 剛・魁【 Kote 】,剛魁籠手・金
-303,不動・魁【 Kote 】,不動魁籠手
-304,夜叉・魁【御手】,夜叉魁御手
-305,修羅・魁【御手】,修羅魁御手
+300,Mizuha 魁【大袖】,水羽大袖魁
+301,Toyotama 魁【大袖】,豐玉大袖魁
+302,Gold 剛・魁【 Kote 】,金籠手魁剛
+303,不動・魁【 Kote 】,不動籠手魁
+304,夜叉・魁【御手】,夜叉御手魁
+305,修羅・魁【御手】,修羅御手魁
 306,Empress F Arms,女帝護腕【Ｆ】
 307,Empress F Guard,女帝臂甲【Ｆ】
-308,Golden ノ Kote・魁,金魁籠手
-309,Puppeteer ノ Kote・魁,魁籠手
+308,Golden ノ Kote・魁,金籠手魁
+309,Puppeteer ノ Kote・魁,操偶籠手魁
 310,Garuga F Arms,黑狼鳥護腕【Ｆ】
 311,Garuga F Guard,黑狼鳥臂甲【Ｆ】
 312,Kushala Fハトゥー,鋼龍臂甲【Ｆ】
 313,Kushala Fマカーン,鋼龍臂甲【Ｆ】
 314,Kaiser F Arms,帝王護腕【Ｆ】
 315,Kaiser F Guard,帝王臂甲【Ｆ】
-316,Mizuha 魁【大袖】,魁大袖
-317,Toyotama 魁【大袖】,魁大袖
-318,Gold 剛・魁【 Kote 】,剛魁籠手・金
-319,不動・魁【 Kote 】,不動魁籠手
-320,夜叉・魁【御手】,夜叉魁御手
-321,修羅・魁【御手】,修羅魁御手
+316,Mizuha 魁【大袖】,水羽大袖魁
+317,Toyotama 魁【大袖】,豐玉大袖魁
+318,Gold 剛・魁【 Kote 】,金籠手魁剛
+319,不動・魁【 Kote 】,不動籠手魁
+320,夜叉・魁【御手】,夜叉御手魁
+321,修羅・魁【御手】,修羅御手魁
 322,Empress F Arms,女帝護腕【Ｆ】
 323,Empress F Guard,女帝臂甲【Ｆ】
-324,Golden ノ Kote・魁,金魁籠手
-325,Puppeteer ノ Kote・魁,魁籠手
+324,Golden ノ Kote・魁,金籠手魁
+325,Puppeteer ノ Kote・魁,操偶籠手魁
 326,Garuga F Arms,黑狼鳥護腕【Ｆ】
 327,Garuga F Guard,黑狼鳥臂甲【Ｆ】
 328,Lavasioth U Arms,熔岩龍護腕【Ｕ】
@@ -424,36 +424,36 @@ index,source,target
 422,Eques Guard 改,改臂甲
 423,Eques F Arms,騎士護腕【Ｆ】
 424,Eques F Guard,騎士臂甲【Ｆ】
-425,Star Festival Gauntlets・Summer [Red 】,斯阿爾艾手甲・赤
-426,Star Festival Gauntlets・Summer [Blue 】,斯阿爾艾手甲・青
-427,Star Festival Gauntlets・Summer [Black 】,斯阿爾艾手甲・黑
-428,Star Festival Gauntlets・Summer [White 】,斯阿爾艾手甲・白
-429,Tanabata Gauntlets・Summer [Red 】,特阿恩阿手甲・赤
-430,Tanabata Gauntlets・Summer [Blue 】,特阿恩阿手甲・青
-431,Tanabata Gauntlets・Summer [Black 】,特阿恩阿手甲・黑
-432,Tanabata Gauntlets・Summer [White 】,特阿恩阿手甲・白
-433,Star Festival Gauntlets・織 [Red 】,織手甲・赤
-434,Star Festival Gauntlets・織 [Blue 】,織手甲・青
-435,Star Festival Gauntlets・織 [Black 】,織手甲・黑
-436,Star Festival Gauntlets・織 [White 】,織手甲・白
+425,Star Festival Gauntlets・Summer [Red 】,星祭夏手甲・赤
+426,Star Festival Gauntlets・Summer [Blue 】,星祭夏手甲・青
+427,Star Festival Gauntlets・Summer [Black 】,星祭夏手甲・黑
+428,Star Festival Gauntlets・Summer [White 】,星祭夏手甲・白
+429,Tanabata Gauntlets・Summer [Red 】,七夕夏手甲・赤
+430,Tanabata Gauntlets・Summer [Blue 】,七夕夏手甲・青
+431,Tanabata Gauntlets・Summer [Black 】,七夕夏手甲・黑
+432,Tanabata Gauntlets・Summer [White 】,七夕夏手甲・白
+433,Star Festival Gauntlets・織 [Red 】,星祭織手甲・赤
+434,Star Festival Gauntlets・織 [Blue 】,星祭織手甲・青
+435,Star Festival Gauntlets・織 [Black 】,星祭織手甲・黑
+436,Star Festival Gauntlets・織 [White 】,星祭織手甲・白
 437,Tanabata Gauntlets・織 [Red 】,織手甲・赤
 438,Tanabata Gauntlets・織 [Blue 】,織手甲・青
 439,Tanabata Gauntlets・織 [Black 】,織手甲・黑
 440,Tanabata Gauntlets・織 [White 】,織手甲・白
-441,Star Festival Gauntlets・Heaven [Red 】,星祭天手甲・赤・天
-442,Star Festival Gauntlets・Heaven [Blue 】,星祭天手甲・青・天
-443,Star Festival Gauntlets・Heaven [Black 】,星祭天手甲・黑・天
-444,Star Festival Gauntlets・Heaven [White 】,星祭天手甲・白・天
-445,Tanabata Gauntlets・Heaven [Red 】,七夕天手甲・赤・天
-446,Tanabata Gauntlets・Heaven [Blue 】,七夕天手甲・青・天
-447,Tanabata Gauntlets・Heaven [Black 】,七夕天手甲・黑・天
-448,Tanabata Gauntlets・Heaven [White 】,七夕天手甲・白・天
+441,Star Festival Gauntlets・Heaven [Red 】,星祭天手甲・赤
+442,Star Festival Gauntlets・Heaven [Blue 】,星祭天手甲・青
+443,Star Festival Gauntlets・Heaven [Black 】,星祭天手甲・黑
+444,Star Festival Gauntlets・Heaven [White 】,星祭天手甲・白
+445,Tanabata Gauntlets・Heaven [Red 】,七夕天手甲・赤
+446,Tanabata Gauntlets・Heaven [Blue 】,七夕天手甲・青
+447,Tanabata Gauntlets・Heaven [Black 】,七夕天手甲・黑
+448,Tanabata Gauntlets・Heaven [White 】,七夕天手甲・白
 449,High Metal Arms SP Black,上位金屬護腕【ＳＰ】・黑
 450,High Metal Arms SP Blue,上位金屬護腕【ＳＰ】・青
 451,High Metal Arms SP Yellow,上位金屬護腕【ＳＰ】・黄
-452,S・Sol Arms SP Red,日護腕【Ｓ】【ＳＰ】・赤
-453,S・Sol Arms SP Purple,日護腕【Ｓ】【ＳＰ】・紫
-454,S・Sol Arms SP Black,日護腕【Ｓ】【ＳＰ】・黑
+452,S・Sol Arms SP Red,S索倫護腕【ＳＰ】・赤
+453,S・Sol Arms SP Purple,S索倫護腕【ＳＰ】・紫
+454,S・Sol Arms SP Black,S索倫護腕【ＳＰ】・黑
 455,Garuga Guard SP White,黑狼鳥臂甲【ＳＰ】・白
 456,Garuga Guard SP Green,黑狼鳥臂甲【ＳＰ】・緑
 457,Garuga Guard SP Red,黑狼鳥臂甲【ＳＰ】・赤
@@ -601,8 +601,8 @@ index,source,target
 599,Priere Arms,普伊爾艾護腕
 600,Salvacion Arms,斯阿爾阿護腕
 601,Shikari Kote,夏伊克阿籠手
-602,Shikari Kote・魁,魁籠手
-603,G・Guard R Claws Green,克阿沃臂甲【Ｇ】【Ｒ】・緑
+602,Shikari Kote・魁,夏伊克阿籠手魁
+603,G・Guard R Claws Green,克阿沃臂甲【Ｒ】・緑
 604,Arma Arms・Black,武裝護腕・黑
 605,Arma Guard・Black,武裝臂甲・黑
 606,Arma Arms・White,武裝護腕・白
@@ -638,7 +638,7 @@ index,source,target
 636,Khezu R Arms,奇怪龍護腕【Ｒ】
 637,Rath Soul R Arms,火龍魂護腕【Ｒ】
 638,Gia R Arms,格伊護腕【Ｒ】
-639,G・Guard R Claws Green,克阿沃臂甲【Ｇ】【Ｒ】・緑
+639,G・Guard R Claws Green,克阿沃臂甲【Ｒ】・緑
 640,Khezu L Guard,奇怪龍臂甲【Ｌ】
 641,Io R Guard,伊歐臂甲【Ｒ】
 642,Purokusu Arms,普烏爾歐護腕
@@ -665,7 +665,7 @@ index,source,target
 663,Hypnolia Guard,赫歐爾伊臂甲
 664,Feral Arms,芙艾爾阿護腕
 665,Feral Guard,芙艾爾阿臂甲
-666,Demon Lord Kote,德艾姆歐籠手
+666,Demon Lord Kote,魔王籠手
 667,Rasta 教官腕,教官腕護腕
 668,童子ノ Kote,童子籠手
 669,ダミー,(dummy)
@@ -708,8 +708,8 @@ index,source,target
 706,Gravios L Arms,鎧龍護腕【Ｌ】
 707,Vespoid L Arms,巨蜂護腕【Ｌ】
 708,Basarios R Arms,岩龍護腕【Ｒ】
-709,G・Guard R Cuffs Green,克烏芙臂甲【Ｇ】【Ｒ】・緑
-710,G・Guard R Cuffs Green,克烏芙臂甲【Ｇ】【Ｒ】・緑
+709,G・Guard R Cuffs Green,克烏芙臂甲【Ｒ】・緑
+710,G・Guard R Cuffs Green,克烏芙臂甲【Ｒ】・緑
 711,Monodevil R Arms,單眼惡魔護腕【Ｒ】
 712,Hornetaur R Arms,巨甲蟲護腕【Ｒ】
 713,Ceanataur R Arms,鎌蟹護腕【Ｒ】
@@ -802,9 +802,9 @@ index,source,target
 800,Remobra Hands SP White,翼蛇龍手甲【ＳＰ】・白
 801,Remobra Hands SP Yellow,翼蛇龍手甲【ＳＰ】・黄
 802,Remobra Hands SP Black,翼蛇龍手甲【ＳＰ】・黑
-803,G・Knight Cuffs SP Red,騎士護腕【Ｇ】【ＳＰ】・赤
-804,G・Knight Cuffs SP Blue,騎士護腕【Ｇ】【ＳＰ】・青
-805,G・Knight Cuffs SP Purple,騎士護腕【Ｇ】【ＳＰ】・紫
+803,G・Knight Cuffs SP Red,騎士護腕【ＳＰ】・赤
+804,G・Knight Cuffs SP Blue,騎士護腕【ＳＰ】・青
+805,G・Knight Cuffs SP Purple,騎士護腕【ＳＰ】・紫
 806,PV Cuffs SP Red,普護腕【ＳＰ】・赤
 807,PV Cuffs SP Blue,普護腕【ＳＰ】・青
 808,PV Cuffs SP Purple,普護腕【ＳＰ】・紫
@@ -814,8 +814,8 @@ index,source,target
 812,Lavasioth L Arms,熔岩龍護腕【Ｌ】
 813,Bone L Arms,骨製護腕【Ｌ】
 814,Hornetaur L Arms,巨甲蟲護腕【Ｌ】
-815,G・Guard R Claws Crimson,克阿沃臂甲【Ｇ】【Ｒ】・紅
-816,G・Guard R Claws Crimson,克阿沃臂甲【Ｇ】【Ｒ】・紅
+815,G・Guard R Claws Crimson,克阿沃臂甲【Ｒ】・紅
+816,G・Guard R Claws Crimson,克阿沃臂甲【Ｒ】・紅
 817,Helper R Cuffs,助手護腕【Ｒ】
 818,Battle R Arms,戦護腕【Ｒ】
 819,Cepha R Arms,砂龍護腕【Ｒ】
@@ -827,9 +827,9 @@ index,source,target
 825,Buran Arms,布烏爾阿護腕
 826,White Belt Arms,白帶護腕
 827,Kagura 【 Kote 】,神樂籠手
-828,Kagura・覇【 Kote 】,覇籠手
+828,Kagura・覇【 Kote 】,神樂籠手
 829,Kamiza 【 Kote 】,上座籠手
-830,Kamiza・覇【 Kote 】,覇籠手
+830,Kamiza・覇【 Kote 】,上座籠手
 831,アスハルテ Arms,阿斯哈爾特護腕
 832,アスハルテ Guard,阿斯哈爾特臂甲
 833,ローク Arms,洛可護腕
@@ -886,22 +886,22 @@ index,source,target
 884,リエーザF Arms,里耶薩護腕【Ｆ】
 885,リエーザ Guard,里耶薩臂甲
 886,リエーザF Guard,里耶薩臂甲【Ｆ】
-887,Claire Arms・Purple,克蕾兒護腕・紫
-888,Claire F Arms・Purple,克蕾兒護腕【Ｆ】・紫
-889,Claire Guard・Purple,克蕾兒臂甲・紫
-890,Claire F Guard・Purple,克蕾兒臂甲【Ｆ】・紫
-891,Claire Arms・Water,克蕾兒水護腕
-892,Claire F Arms・Water,克蕾兒水護腕【Ｆ】
-893,Claire Guard・Water,克蕾兒水臂甲
-894,Claire F Guard・Water,克蕾兒水臂甲【Ｆ】
-895,Claire Arms・Red,克蕾兒護腕・赤
-896,Claire F Arms・Red,克蕾兒護腕【Ｆ】・赤
-897,Claire Guard・Red,克蕾兒臂甲・赤
-898,Claire F Guard・Red,克蕾兒臂甲【Ｆ】・赤
-899,Claire Arms・Black,克蕾兒護腕・黑
-900,Claire F Arms・Black,克蕾兒護腕【Ｆ】・黑
-901,Claire Guard・Black,克蕾兒臂甲・黑
-902,Claire F Guard・Black,克蕾兒臂甲【Ｆ】・黑
+887,Claire Arms・Purple,克蕾爾護腕・紫
+888,Claire F Arms・Purple,克蕾爾護腕【Ｆ】・紫
+889,Claire Guard・Purple,克蕾爾臂甲・紫
+890,Claire F Guard・Purple,克蕾爾臂甲【Ｆ】・紫
+891,Claire Arms・Water,克蕾爾護腕・水
+892,Claire F Arms・Water,克蕾爾護腕【Ｆ】・水
+893,Claire Guard・Water,克蕾爾臂甲・水
+894,Claire F Guard・Water,克蕾爾臂甲【Ｆ】・水
+895,Claire Arms・Red,克蕾爾護腕・赤
+896,Claire F Arms・Red,克蕾爾護腕【Ｆ】・赤
+897,Claire Guard・Red,克蕾爾臂甲・赤
+898,Claire F Guard・Red,克蕾爾臂甲【Ｆ】・赤
+899,Claire Arms・Black,克蕾爾護腕・黑
+900,Claire F Arms・Black,克蕾爾護腕【Ｆ】・黑
+901,Claire Guard・Black,克蕾爾臂甲・黑
+902,Claire F Guard・Black,克蕾爾臂甲【Ｆ】・黑
 903,Desert Arms,沙漠護腕
 904,Desert F Arms,沙漠護腕【Ｆ】
 905,Desert Guard,沙漠臂甲
@@ -1002,22 +1002,22 @@ index,source,target
 1000,フェサーF Arms,芙薩護腕【Ｆ】
 1001,シアンス Guard,希安斯臂甲
 1002,シアンスF Guard,希安斯臂甲【Ｆ】
-1003,Gold Arms・Red,護腕・金・赤
-1004,Gold F Arms・Red,護腕【Ｆ】・金・赤
-1005,Gold Guard・Red,臂甲・金・赤
-1006,Gold F Guard・Red,臂甲【Ｆ】・金・赤
-1007,Gold Arms・Blue,護腕・金・青
-1008,Gold F Arms・Blue,護腕【Ｆ】・金・青
-1009,Gold Guard・Blue,臂甲・金・青
-1010,Gold F Guard・Blue,臂甲【Ｆ】・金・青
-1011,Gold Arms・Yellow,護腕・金・黄
-1012,Gold F Arms・Yellow,護腕【Ｆ】・金・黄
-1013,Gold Guard・Yellow,臂甲・金・黄
-1014,Gold F Guard・Yellow,臂甲【Ｆ】・金・黄
-1015,Gold Arms・Purple,護腕・金・紫
-1016,Gold F Arms・Purple,護腕【Ｆ】・金・紫
-1017,Gold Guard・Purple,臂甲・金・紫
-1018,Gold F Guard・Purple,臂甲【Ｆ】・金・紫
+1003,Gold Arms・Red,金護腕・赤
+1004,Gold F Arms・Red,金護腕【Ｆ】・赤
+1005,Gold Guard・Red,金臂甲・赤
+1006,Gold F Guard・Red,金臂甲【Ｆ】・赤
+1007,Gold Arms・Blue,金護腕・青
+1008,Gold F Arms・Blue,金護腕【Ｆ】・青
+1009,Gold Guard・Blue,金臂甲・青
+1010,Gold F Guard・Blue,金臂甲【Ｆ】・青
+1011,Gold Arms・Yellow,金護腕・黄
+1012,Gold F Arms・Yellow,金護腕【Ｆ】・黄
+1013,Gold Guard・Yellow,金臂甲・黄
+1014,Gold F Guard・Yellow,金臂甲【Ｆ】・黄
+1015,Gold Arms・Purple,金護腕・紫
+1016,Gold F Arms・Purple,金護腕【Ｆ】・紫
+1017,Gold Guard・Purple,金臂甲・紫
+1018,Gold F Guard・Purple,金臂甲【Ｆ】・紫
 1019,シデロ Arms,西德羅護腕
 1020,シデロF Arms,西德羅護腕【Ｆ】
 1021,オール Arms,奧爾護腕
@@ -1033,9 +1033,9 @@ index,source,target
 1031,エクスト Arms C,艾克斯特護腕
 1032,エクスト Guard,艾克斯特臂甲
 1033,エクスト Guard C,艾克斯特臂甲
-1034,Death Stench アルム SP White,阿魯穆護腕【ＳＰ】
-1035,Death Stench アルム SP Red,阿魯穆護腕【ＳＰ】
-1036,Death Stench アルム SP Blue,阿魯穆護腕【ＳＰ】
+1034,Death Stench アルム SP White,死臭護腕【ＳＰ】・白
+1035,Death Stench アルム SP Red,死臭護腕【ＳＰ】・赤
+1036,Death Stench アルム SP Blue,死臭護腕【ＳＰ】・青
 1037,Diablos Arms SP Purple,角龍護腕【ＳＰ】・紫
 1038,Diablos Arms SP Blue,角龍護腕【ＳＰ】・青
 1039,Diablos Arms SP Yellow,角龍護腕【ＳＰ】・黄
@@ -1048,8 +1048,8 @@ index,source,target
 1046,Bone L Guard,骨製臂甲【Ｌ】
 1047,Vespoid L Guard,巨蜂臂甲【Ｌ】
 1048,Diablos L Guard,角龍臂甲【Ｌ】
-1049,G・Guard R Cuffs Crimson,克烏芙臂甲【Ｇ】【Ｒ】・紅
-1050,G・Guard R Cuffs Crimson,克烏芙臂甲【Ｇ】【Ｒ】・紅
+1049,G・Guard R Cuffs Crimson,克烏芙臂甲【Ｒ】・紅
+1050,G・Guard R Cuffs Crimson,克烏芙臂甲【Ｒ】・紅
 1051,Hornetaur R Guard,巨甲蟲臂甲【Ｒ】
 1052,High Metal R Guard,上位金屬臂甲【Ｒ】
 1053,Rath Soul R Guard,火龍魂臂甲【Ｒ】
@@ -1058,9 +1058,9 @@ index,source,target
 1056,Gravios R Arms,鎧龍護腕【Ｒ】
 1057,Io R Arms,伊歐護腕【Ｒ】
 1058,Dyuragaua 【 Kote 】,冰狐龍籠手
-1059,Inari 覇【 Kote 】,覇籠手
+1059,Inari 覇【 Kote 】,稻荷籠手
 1060,Dyuragaua 【 Kote 】,冰狐龍籠手
-1061,Tamamo 覇【 Kote 】,覇籠手
+1061,Tamamo 覇【 Kote 】,玉藻籠手
 1062,コカロ Arms,寇伽羅護腕
 1063,コカロ Guard,寇伽羅臂甲
 1064,Shieri Arms,夏伊爾伊護腕
@@ -1266,11 +1266,11 @@ index,source,target
 1264,Pharan F Arms・Blue,法藍護腕【Ｆ】・青
 1265,Pharan Guard・Blue,法藍臂甲・青
 1266,Pharan F Guard・Blue,法藍臂甲【Ｆ】・青
-1267,Gold Cat F Arms,猫護腕【Ｆ】・金
-1268,Gold Cat F Guard,猫臂甲【Ｆ】・金
-1269,Silver Cat Arms,猫護腕・銀
-1270,Silver Cat F Arms,猫護腕【Ｆ】・銀
-1271,Silver Cat F Guard,猫臂甲【Ｆ】・銀
+1267,Gold Cat F Arms,金猫護腕【Ｆ】
+1268,Gold Cat F Guard,金猫臂甲【Ｆ】
+1269,Silver Cat Arms,銀猫護腕
+1270,Silver Cat F Arms,銀猫護腕【Ｆ】
+1271,Silver Cat F Guard,銀猫臂甲【Ｆ】
 1272,ヴィン Arms,温護腕
 1273,ヴィンF Arms,温護腕【Ｆ】
 1274,ヴァンデ Arms,芙恩德護腕
@@ -1462,8 +1462,8 @@ index,source,target
 1460,ダミー,(dummy)
 1461,ダミー,(dummy)
 1462,White Fatalis Rクロウ,白黑龍爪【Ｒ】
-1463,G・Lune R Guard,月臂甲【Ｇ】【Ｒ】
-1464,S・Sol R Guard,日臂甲【Ｓ】【Ｒ】
+1463,G・Lune R Guard,月臂甲【Ｒ】
+1464,S・Sol R Guard,S索倫臂甲【Ｒ】
 1465,Death Stench L Grasp,死臭抓握【Ｌ】
 1466,Leather L Arms,皮革護腕【Ｌ】
 1467,Chainmail L Arms,鎖鏈護腕【Ｌ】
@@ -1654,10 +1654,10 @@ index,source,target
 1652,ダミー,(dummy)
 1653,Kagura FX【 Kote 】,神樂籠手【ＦＸ】
 1654,Kamiza FX【 Kote 】,上座籠手【ＦＸ】
-1655,Blue Sky Sleeve,蒼天袖
-1656,Blue Sky Sleeve・魁,魁袖・青
-1657,Welkin Sleeve,蒼穹袖
-1658,Welkin Sleeve・魁,魁袖
+1655,Blue Sky Sleeve,蒼天袖・天
+1656,Blue Sky Sleeve・魁,蒼天袖魁・天
+1657,Welkin Sleeve,穹蒼袖
+1658,Welkin Sleeve・魁,穹蒼袖魁
 1659,Breo Arms,布艾護腕
 1660,Breo F Arms,布艾護腕【Ｆ】
 1661,Vinen Arms,芙伊恩艾護腕
@@ -1710,50 +1710,50 @@ index,source,target
 1708,Miru F Arms,姆伊爾烏護腕【Ｆ】
 1709,Pasu Guard,普阿斯烏臂甲
 1710,Pasu F Guard,普阿斯烏臂甲【Ｆ】
-1711,Randa の Gauntlets・Yellow,の手甲・黄
+1711,Randa の Gauntlets・Yellow,爾阿恩阿手甲・黄
 1712,蘭蛮の Gauntlets・Yellow,蘭蛮の手甲・黄
-1713,Randa の Sleeve・Yellow,の袖・黄
+1713,Randa の Sleeve・Yellow,爾阿恩阿袖・黄
 1714,蘭蛮の Sleeve・Yellow,蘭蛮の袖・黄
-1715,Randa の Gauntlets・Red,の手甲・赤
+1715,Randa の Gauntlets・Red,爾阿恩阿手甲・赤
 1716,蘭蛮の Gauntlets・Red,蘭蛮の手甲・赤
-1717,Randa の Sleeve・Red,の袖・赤
+1717,Randa の Sleeve・Red,爾阿恩阿袖・赤
 1718,蘭蛮の Sleeve・Red,蘭蛮の袖・赤
-1719,Randa の Gauntlets・Purple,の手甲・紫
+1719,Randa の Gauntlets・Purple,爾阿恩阿手甲・紫
 1720,蘭蛮の Gauntlets・Purple,蘭蛮の手甲・紫
-1721,Randa の Sleeve・Purple,の袖・紫
+1721,Randa の Sleeve・Purple,爾阿恩阿袖・紫
 1722,蘭蛮の Sleeve・Purple,蘭蛮の袖・紫
-1723,Randa の Gauntlets・Gold,の手甲・金
+1723,Randa の Gauntlets・Gold,爾阿恩阿手甲・金
 1724,蘭蛮の Gauntlets・Gold,蘭蛮の手甲・金
-1725,Randa の Sleeve・Gold,の袖・金
+1725,Randa の Sleeve・Gold,爾阿恩阿袖・金
 1726,蘭蛮の Sleeve・Gold,蘭蛮の袖・金
 1727,竜巻 Kote・Black,竜巻籠手・黑
 1728,竜巻F Kote・Black,竜巻籠手【Ｆ】・黑
-1729,True 空 Kote・Black,空籠手・黑
-1730,True 空F Kote・Black,空籠手【Ｆ】・黑
+1729,True 空 Kote・Black,真空籠手・黑
+1730,True 空F Kote・Black,真空籠手【Ｆ】・黑
 1731,千裂腕環・Black,千裂腕環護腕・黑
 1732,千裂F腕環・Black,千裂腕環護腕・黑
 1733,覇山腕環・Black,覇山腕環護腕・黑
 1734,覇山F腕環・Black,覇山腕環護腕・黑
 1735,竜巻 Kote・Tea,竜巻籠手・茶
 1736,竜巻F Kote・Tea,竜巻籠手【Ｆ】・茶
-1737,True 空 Kote・Tea,空籠手・茶
-1738,True 空F Kote・Tea,空籠手【Ｆ】・茶
+1737,True 空 Kote・Tea,真空籠手・茶
+1738,True 空F Kote・Tea,真空籠手【Ｆ】・茶
 1739,千裂腕環・Purple,千裂腕環護腕・紫
 1740,千裂F腕環・Purple,千裂腕環護腕・紫
 1741,覇山腕環・Purple,覇山腕環護腕・紫
 1742,覇山F腕環・Purple,覇山腕環護腕・紫
 1743,竜巻 Kote・White,竜巻籠手・白
 1744,竜巻F Kote・White,竜巻籠手【Ｆ】・白
-1745,True 空 Kote・White,空籠手・白
-1746,True 空F Kote・White,空籠手【Ｆ】・白
+1745,True 空 Kote・White,真空籠手・白
+1746,True 空F Kote・White,真空籠手【Ｆ】・白
 1747,千裂腕環・White,千裂腕環護腕・白
 1748,千裂F腕環・White,千裂腕環護腕・白
 1749,覇山腕環・White,覇山腕環護腕・白
 1750,覇山F腕環・White,覇山腕環護腕・白
 1751,竜巻 Kote・Blue,竜巻籠手・青
 1752,竜巻F Kote・Blue,竜巻籠手【Ｆ】・青
-1753,True 空 Kote・Blue,空籠手・青
-1754,True 空F Kote・Blue,空籠手【Ｆ】・青
+1753,True 空 Kote・Blue,真空籠手・青
+1754,True 空F Kote・Blue,真空籠手【Ｆ】・青
 1755,千裂腕環・Green,千裂腕環護腕・緑
 1756,千裂F腕環・Green,千裂腕環護腕・緑
 1757,覇山腕環・Green,覇山腕環護腕・緑
@@ -1770,10 +1770,10 @@ index,source,target
 1768,旋風F Kote,旋風籠手【Ｆ】
 1769,巴 Kote,巴籠手
 1770,巴F Kote,巴籠手【Ｆ】
-1771,Heaven 空腕環,空腕環護腕・天
-1772,Heaven 空F腕環,空腕環護腕・天
-1773,Heaven 昇腕環,昇腕環護腕・天
-1774,Heaven 昇F腕環,昇腕環護腕・天
+1771,Heaven 空腕環,空腕環天護腕
+1772,Heaven 空F腕環,空腕環天護腕
+1773,Heaven 昇腕環,昇腕環天護腕
+1774,Heaven 昇F腕環,昇腕環天護腕
 1775,Jeamu Arms,傑艾姆烏護腕
 1776,Jeamu F Arms,傑艾姆烏護腕【Ｆ】
 1777,Amyusu Arms,阿姆烏斯護腕
@@ -1806,7 +1806,7 @@ index,source,target
 1804,Buran F Arms,布烏爾阿護腕【Ｆ】
 1805,Zwinger Arms,茲伊恩艾護腕
 1806,Zwinger Guard,茲伊恩艾臂甲
-1807,Demon Lord Kote・魁,魁籠手
+1807,Demon Lord Kote・魁,魔王籠手魁
 1808,童子ノ Kote・魁,童子魁籠手
 1809,Melan F Arms,紫黑護腕【Ｆ】
 1810,Melan F Guard,紫黑臂甲【Ｆ】
@@ -1941,7 +1941,7 @@ index,source,target
 1939,Diina Arms,德伊恩阿護腕
 1940,Diina F Arms,德伊恩阿護腕【Ｆ】
 1941,True Shadow Sleeve,真影袖
-1942,True Shadow Sleeve・魁,魁袖
+1942,True Shadow Sleeve・魁,真影袖魁
 1943,翔影ノ袖,翔影袖護腕
 1944,翔影ノ袖・魁,翔影袖魁護腕
 1945,Black Tiger Sleeve,黑虎袖
@@ -1960,10 +1960,10 @@ index,source,target
 1958,Galitos F Arms・Black,加里托斯護腕【Ｆ】・黑
 1959,Galitos Guard・Black,加里托斯臂甲・黑
 1960,Galitos F Guard・Black,加里托斯臂甲【Ｆ】・黑
-1961,Galitos Arms・Water,加里托斯水護腕
-1962,Galitos F Arms・Water,加里托斯水護腕【Ｆ】
-1963,Galitos Guard・Water,加里托斯水臂甲
-1964,Galitos F Guard・Water,加里托斯水臂甲【Ｆ】
+1961,Galitos Arms・Water,加里托斯護腕・水
+1962,Galitos F Arms・Water,加里托斯護腕【Ｆ】・水
+1963,Galitos Guard・Water,加里托斯臂甲・水
+1964,Galitos F Guard・Water,加里托斯臂甲【Ｆ】・水
 1965,Riburi Arms,里布里護腕
 1966,Riburi F Arms,里布里護腕【Ｆ】
 1967,Riburi FZ Arms,里布里護腕【ＦＺ】
@@ -2026,20 +2026,20 @@ index,source,target
 2024,Demon F Cuffs White,惡魔護腕【Ｆ】・白
 2025,Chaos Cuffs White,混沌護腕・白
 2026,Chaos F Cuffs White,混沌護腕【Ｆ】・白
-2027,Shadow グローブ Purple,暗影手套・紫
-2028,Shadow Fグローブ Purple,暗影手套【Ｆ】・紫
+2027,Shadow グローブ Purple,影手套・紫
+2028,Shadow Fグローブ Purple,影手套【Ｆ】・紫
 2029,Soul グローブ Purple,魂手套・紫
 2030,Soul Fグローブ Purple,魂手套【Ｆ】・紫
-2031,Shadow グローブ Red,暗影手套・赤
-2032,Shadow Fグローブ Red,暗影手套【Ｆ】・赤
+2031,Shadow グローブ Red,影手套・赤
+2032,Shadow Fグローブ Red,影手套【Ｆ】・赤
 2033,Soul グローブ Red,魂手套・赤
 2034,Soul Fグローブ Red,魂手套【Ｆ】・赤
-2035,Shadow グローブ Green,暗影手套・緑
-2036,Shadow Fグローブ Green,暗影手套【Ｆ】・緑
+2035,Shadow グローブ Green,影手套・緑
+2036,Shadow Fグローブ Green,影手套【Ｆ】・緑
 2037,Soul グローブ Green,魂手套・緑
 2038,Soul Fグローブ Green,魂手套【Ｆ】・緑
-2039,Shadow グローブ White,暗影手套・白
-2040,Shadow Fグローブ White,暗影手套【Ｆ】・白
+2039,Shadow グローブ White,影手套・白
+2040,Shadow Fグローブ White,影手套【Ｆ】・白
 2041,Soul グローブ White,魂手套・白
 2042,Soul Fグローブ White,魂手套【Ｆ】・白
 2043,フィ Diablos ーム,角龍護腕
@@ -2068,7 +2068,7 @@ index,source,target
 2066,ロークF Arms,洛可護腕【Ｆ】
 2067,ロークF Guard,洛可臂甲【Ｆ】
 2068,Buruho F Arms・Blue,布烏爾烏護腕【Ｆ】・青
-2069,マー Gear F Guard・Blue,格艾爾臂甲【Ｆ】
+2069,マー Gear F Guard・Blue,瑪爾機甲臂甲【Ｆ】・青
 2070,Gogomoa FX Arms,跳緋獸護腕【ＦＸ】
 2071,Gogomoa FX Guard,跳緋獸臂甲【ＦＸ】
 2072,Kuraaji FX Arms,克烏爾阿護腕【ＦＸ】
@@ -2112,7 +2112,7 @@ index,source,target
 2110,Gravios RX Arms,鎧龍護腕
 2111,Bone RX Guard,骨製臂甲
 2112,White Snake Sleeve,白蛇袖
-2113,White Snake Sleeve・魁,魁袖・白
+2113,White Snake Sleeve・魁,白蛇袖魁
 2114,White 鳥ノ袖,鳥袖護腕・白
 2115,White 鳥ノ袖・魁,鳥袖魁護腕・白
 2116,Kakabu Arms,克阿克阿護腕
@@ -2141,18 +2141,18 @@ index,source,target
 2139,Rutare F Arms,魯塔雷護腕【Ｆ】
 2140,Rutare Guard,魯塔雷臂甲
 2141,Rutare F Guard,魯塔雷臂甲【Ｆ】
-2142,Rolling Flow の Kote,の籠手
-2143,Rolling Flow の Kote・魁,の魁籠手
+2142,Rolling Flow の Kote,滾流籠手
+2143,Rolling Flow の Kote・魁,滾流籠手魁
 2144,旋転の Kote,旋転の籠手
-2145,旋転の Kote・魁,旋転の魁籠手
+2145,旋転の Kote・魁,旋転の籠手魁
 2146,厳岩の Gauntlets,厳岩の手甲
-2147,厳岩の Gauntlets・魁,厳岩の魁手甲
+2147,厳岩の Gauntlets・魁,厳岩の手甲魁
 2148,不破の Gauntlets,不破の手甲
-2149,不破の Gauntlets・魁,不破の魁手甲
+2149,不破の Gauntlets・魁,不破の手甲魁
 2150,無想の Gauntlets,無想の手甲
-2151,無想の Gauntlets・魁,無想の魁手甲
+2151,無想の Gauntlets・魁,無想の手甲魁
 2152,俊激の Sleeve,俊激の袖
-2153,俊激の Sleeve・魁,俊激の魁袖
+2153,俊激の Sleeve・魁,俊激の袖魁
 2154,Suifudo Arms,斯烏芙烏護腕
 2155,Suifudo F Arms,斯烏芙烏護腕【Ｆ】
 2156,Merodesu Arms,姆艾爾歐護腕
@@ -2215,11 +2215,11 @@ index,source,target
 2213,Galitos FZ Arms・Tea,加里托斯護腕【ＦＺ】・茶
 2214,Galitos FZ Arms・Red,加里托斯護腕【ＦＺ】・赤
 2215,Galitos FZ Arms・Black,加里托斯護腕【ＦＺ】・黑
-2216,Galitos FZ Arms・Water,加里托斯水護腕【ＦＺ】
+2216,Galitos FZ Arms・Water,加里托斯護腕【ＦＺ】・水
 2217,Galitos FZ Guard・Tea,加里托斯臂甲【ＦＺ】・茶
 2218,Galitos FZ Guard・Red,加里托斯臂甲【ＦＺ】・赤
 2219,Galitos FZ Guard・Black,加里托斯臂甲【ＦＺ】・黑
-2220,Galitos FZ Guard・Water,加里托斯水臂甲【ＦＺ】
+2220,Galitos FZ Guard・Water,加里托斯臂甲【ＦＺ】・水
 2221,Beil F Gauntlets,貝爾手甲【Ｆ】
 2222,ダミー,(dummy)
 2223,Jess Arms,傑斯護腕
@@ -2330,9 +2330,9 @@ index,source,target
 2328,Ruko フィスト SP White,極龍拳【ＳＰ】・白
 2329,Ruko フィスト SP Blue,極龍拳【ＳＰ】・青
 2330,Ruko フィスト SP Red,極龍拳【ＳＰ】・赤
-2331,Comrade Arms SP White Red,戰友護腕【ＳＰ】・赤・白
-2332,Comrade Arms SP White Blue,戰友護腕【ＳＰ】・青・白
-2333,Comrade Arms SP White Yellow,戰友護腕【ＳＰ】・黄・白
+2331,Comrade Arms SP White Red,戰友護腕【ＳＰ】・白
+2332,Comrade Arms SP White Blue,戰友護腕【ＳＰ】・白
+2333,Comrade Arms SP White Yellow,戰友護腕【ＳＰ】・白
 2334,Rubellite Arms,爾烏布艾護腕
 2335,Rubellite F Arms,爾烏布艾護腕【Ｆ】
 2336,Rubellite FX Arms,爾烏布艾護腕【ＦＸ】
@@ -2367,9 +2367,9 @@ index,source,target
 2365,Turquoise F Guard,緑松石臂甲【Ｆ】
 2366,Turquoise FX Guard,緑松石臂甲【ＦＸ】
 2367,Valued Word Sleeve,珍言袖
-2368,Valued Word Sleeve・魁,魁袖
-2369,Valued Word Sleeve・Smart,珍言機靈袖
-2370,Valued Word Sleeve・Flower,芙阿爾烏袖
+2368,Valued Word Sleeve・魁,珍言袖魁
+2369,Valued Word Sleeve・Smart,珍言袖
+2370,Valued Word Sleeve・Flower,珍言袖
 2371,式部ノ Sleeve,式部袖
 2372,式部ノ Sleeve・魁,式部魁袖
 2373,式部ノ Sleeve・Smart,機靈袖
@@ -2398,8 +2398,8 @@ index,source,target
 2396,Strega HC Guard,魔女臂甲【ＨＣ】
 2397,Zaakaa HC Arms,茲阿克阿護腕【ＨＣ】
 2398,Chaser HC Guard,追撃臂甲【ＨＣ】
-2399,Demon Lord Kote・Extreme,德艾姆歐籠手
-2400,Demon Lord Kote・Heaven,德艾姆歐籠手・天
+2399,Demon Lord Kote・Extreme,魔王籠手
+2400,Demon Lord Kote・Heaven,魔王天籠手
 2401,童子ノ Kote・Extreme,童子籠手
 2402,童子ノ Kote・Heaven,童子籠手・天
 2403,アナキF Arms,阿納基護腕【Ｆ】
@@ -2408,7 +2408,7 @@ index,source,target
 2406,アナキF Guard,阿納基臂甲【Ｆ】
 2407,アナキFY Guard,阿納基臂甲
 2408,アナキHC Guard,阿納基臂甲【ＨＣ】
-2409,Royal FY Arms,爾歐伊阿護腕
+2409,Royal FY Arms,王室護腕
 2410,Royal HC Arms,王室護腕【ＨＣ】
 2411,Lord FY Guard,爾歐爾臂甲
 2412,Lord HC Guard,爾歐爾臂甲【ＨＣ】
@@ -2429,12 +2429,12 @@ index,source,target
 2427,Ceanataur RX Arms,鎌蟹護腕
 2428,Espinas RX Grip,棘龍握套
 2429,Monodevil RX Guard,姆歐恩歐臂甲
-2430,Cayssis Arms Water,凱西斯水護腕
-2431,Cayssis F Arms Water,凱西斯水護腕【Ｆ】
-2432,Cayssis FZ Arms Water,凱西斯水護腕【ＦＺ】
-2433,Cayssis Guard Water,凱西斯水臂甲
-2434,Cayssis F Guard Water,凱西斯水臂甲【Ｆ】
-2435,Cayssis FZ Guard Water,凱西斯水臂甲【ＦＺ】
+2430,Cayssis Arms Water,凱西斯護腕・水
+2431,Cayssis F Arms Water,凱西斯護腕【Ｆ】・水
+2432,Cayssis FZ Arms Water,凱西斯護腕【ＦＺ】・水
+2433,Cayssis Guard Water,凱西斯臂甲・水
+2434,Cayssis F Guard Water,凱西斯臂甲【Ｆ】・水
+2435,Cayssis FZ Guard Water,凱西斯臂甲【ＦＺ】・水
 2436,Cayssis Arms Red,凱西斯護腕・赤
 2437,Cayssis F Arms Red,凱西斯護腕【Ｆ】・赤
 2438,Cayssis FZ Arms Red,凱西斯護腕【ＦＺ】・赤
@@ -2453,10 +2453,10 @@ index,source,target
 2451,Cayssis Guard Orange,凱西斯臂甲・橙
 2452,Cayssis F Guard Orange,凱西斯臂甲【Ｆ】・橙
 2453,Cayssis FZ Guard Orange,凱西斯臂甲【ＦＺ】・橙
-2454,Rolling Sky Kote,滾天籠手
-2455,Rolling Sky Kote・魁,魁籠手
-2456,Rolling Earth Kote,滾地籠手・地
-2457,Rolling Earth Kote・魁,魁籠手・地
+2454,Rolling Sky Kote,滾天籠手・天
+2455,Rolling Sky Kote・魁,滾天籠手魁・天
+2456,Rolling Earth Kote,滾地籠手
+2457,Rolling Earth Kote・魁,滾地籠手魁
 2458,Cubie Arms,方塊護腕
 2459,Cubie F Arms,方塊護腕【Ｆ】
 2460,Cubie FZ Arms,方塊護腕【ＦＺ】
@@ -2573,10 +2573,10 @@ index,source,target
 2571,Riot FZ Guard,暴動臂甲【ＦＺ】
 2572,Rutare FZ Arms,魯塔雷護腕【ＦＺ】
 2573,Rutare FZ Guard,魯塔雷臂甲【ＦＺ】
-2574,Rolling Flow Kote・Elegant,爾歐爾伊籠手
+2574,Rolling Flow Kote・Elegant,滾流籠手
 2575,旋転の Kote・Elegant,旋転の籠手
-2576,Rolling Sky Kote・Elegant,爾歐爾伊籠手
-2577,Rolling Earth Kote・Elegant,爾歐爾伊籠手・地
+2576,Rolling Sky Kote・Elegant,滾天籠手・天
+2577,Rolling Earth Kote・Elegant,滾地籠手
 2578,Odiva Arms,奧蒂瓦護腕
 2579,Odiva F Arms,奧蒂瓦護腕【Ｆ】
 2580,Odiva FX Arms,奧蒂瓦護腕【ＦＸ】
@@ -3093,16 +3093,16 @@ index,source,target
 3091,Gloria FZ Guard・Blue,榮光臂甲【ＦＺ】・青
 3092,Gloria HC Guard・Blue,榮光臂甲【ＨＣ】・青
 3093,Gloria HS Guard・Blue,榮光臂甲【ＨＳ】・青
-3094,Gloria Arms・Water,榮光水護腕
-3095,Gloria F Arms・Water,榮光水護腕【Ｆ】
-3096,Gloria FZ Arms・Water,榮光水護腕【ＦＺ】
-3097,Gloria HC Arms・Water,榮光水護腕【ＨＣ】
-3098,Gloria HS Arms・Water,榮光水護腕【ＨＳ】
-3099,Gloria Guard・Water,榮光水臂甲
-3100,Gloria F Guard・Water,榮光水臂甲【Ｆ】
-3101,Gloria FZ Guard・Water,榮光水臂甲【ＦＺ】
-3102,Gloria HC Guard・Water,榮光水臂甲【ＨＣ】
-3103,Gloria HS Guard・Water,榮光水臂甲【ＨＳ】
+3094,Gloria Arms・Water,榮光護腕・水
+3095,Gloria F Arms・Water,榮光護腕【Ｆ】・水
+3096,Gloria FZ Arms・Water,榮光護腕【ＦＺ】・水
+3097,Gloria HC Arms・Water,榮光護腕【ＨＣ】・水
+3098,Gloria HS Arms・Water,榮光護腕【ＨＳ】・水
+3099,Gloria Guard・Water,榮光臂甲・水
+3100,Gloria F Guard・Water,榮光臂甲【Ｆ】・水
+3101,Gloria FZ Guard・Water,榮光臂甲【ＦＺ】・水
+3102,Gloria HC Guard・Water,榮光臂甲【ＨＣ】・水
+3103,Gloria HS Guard・Water,榮光臂甲【ＨＳ】・水
 3104,Gloria Arms・Red,榮光護腕・赤
 3105,Gloria F Arms・Red,榮光護腕【Ｆ】・赤
 3106,Gloria FZ Arms・Red,榮光護腕【ＦＺ】・赤
@@ -3153,16 +3153,16 @@ index,source,target
 3151,Reppa FZ Kote・Yellow,烈破籠手【ＦＺ】・黄
 3152,Reppa HC Kote・Yellow,烈破籠手【ＨＣ】・黄
 3153,Reppa HS Kote・Yellow,烈破籠手【ＨＳ】・黄
-3154,Cannon Claws・Water,加農水爪
-3155,Cannon F Claws・Water,加農水爪【Ｆ】
-3156,Cannon FZ Claws・Water,加農水爪【ＦＺ】
-3157,Cannon HC Claws・Water,加農水爪【ＨＣ】
-3158,Cannon HS Claws・Water,加農水爪【ＨＳ】
-3159,Axel Claws・Water,輪軸水爪
-3160,Axel F Claws・Water,輪軸水爪【Ｆ】
-3161,Axel FZ Claws・Water,輪軸水爪【ＦＺ】
-3162,Axel HC Claws・Water,輪軸水爪【ＨＣ】
-3163,Axel HS Claws・Water,輪軸水爪【ＨＳ】
+3154,Cannon Claws・Water,加農爪・水
+3155,Cannon F Claws・Water,加農爪【Ｆ】・水
+3156,Cannon FZ Claws・Water,加農爪【ＦＺ】・水
+3157,Cannon HC Claws・Water,加農爪【ＨＣ】・水
+3158,Cannon HS Claws・Water,加農爪【ＨＳ】・水
+3159,Axel Claws・Water,輪軸爪・水
+3160,Axel F Claws・Water,輪軸爪【Ｆ】・水
+3161,Axel FZ Claws・Water,輪軸爪【ＦＺ】・水
+3162,Axel HC Claws・Water,輪軸爪【ＨＣ】・水
+3163,Axel HS Claws・Water,輪軸爪【ＨＳ】・水
 3164,Cannon Claws・Green,加農爪・緑
 3165,Cannon F Claws・Green,加農爪【Ｆ】・緑
 3166,Cannon FZ Claws・Green,加農爪【ＦＺ】・緑
@@ -3386,16 +3386,16 @@ index,source,target
 3384,Magos FZ Guard・Red,瑪戈斯臂甲【ＦＺ】・赤
 3385,Magos HC Guard・Red,瑪戈斯臂甲【ＨＣ】・赤
 3386,Magos HS Guard・Red,瑪戈斯臂甲【ＨＳ】・赤
-3387,Magos Arms・Water,瑪戈斯水護腕
-3388,Magos F Arms・Water,瑪戈斯水護腕【Ｆ】
-3389,Magos FZ Arms・Water,瑪戈斯水護腕【ＦＺ】
-3390,Magos HC Arms・Water,瑪戈斯水護腕【ＨＣ】
-3391,Magos HS Arms・Water,瑪戈斯水護腕【ＨＳ】
-3392,Magos Guard・Water,瑪戈斯水臂甲
-3393,Magos F Guard・Water,瑪戈斯水臂甲【Ｆ】
-3394,Magos FZ Guard・Water,瑪戈斯水臂甲【ＦＺ】
-3395,Magos HC Guard・Water,瑪戈斯水臂甲【ＨＣ】
-3396,Magos HS Guard・Water,瑪戈斯水臂甲【ＨＳ】
+3387,Magos Arms・Water,瑪戈斯護腕・水
+3388,Magos F Arms・Water,瑪戈斯護腕【Ｆ】・水
+3389,Magos FZ Arms・Water,瑪戈斯護腕【ＦＺ】・水
+3390,Magos HC Arms・Water,瑪戈斯護腕【ＨＣ】・水
+3391,Magos HS Arms・Water,瑪戈斯護腕【ＨＳ】・水
+3392,Magos Guard・Water,瑪戈斯臂甲・水
+3393,Magos F Guard・Water,瑪戈斯臂甲【Ｆ】・水
+3394,Magos FZ Guard・Water,瑪戈斯臂甲【ＦＺ】・水
+3395,Magos HC Guard・Water,瑪戈斯臂甲【ＨＣ】・水
+3396,Magos HS Guard・Water,瑪戈斯臂甲【ＨＳ】・水
 3397,Magos Arms・Blue,瑪戈斯護腕・青
 3398,Magos F Arms・Blue,瑪戈斯護腕【Ｆ】・青
 3399,Magos FZ Arms・Blue,瑪戈斯護腕【ＦＺ】・青
@@ -3410,8 +3410,8 @@ index,source,target
 3408,Magos GS Guard・Yellow,瑪戈斯臂甲【ＧＳ】・黄
 3409,Magos GS Arms・Red,瑪戈斯護腕【ＧＳ】・赤
 3410,Magos GS Guard・Red,瑪戈斯臂甲【ＧＳ】・赤
-3411,Magos GS Arms・Water,瑪戈斯水護腕【ＧＳ】
-3412,Magos GS Guard・Water,瑪戈斯水臂甲【ＧＳ】
+3411,Magos GS Arms・Water,瑪戈斯護腕【ＧＳ】・水
+3412,Magos GS Guard・Water,瑪戈斯臂甲【ＧＳ】・水
 3413,Magos GS Arms・Blue,瑪戈斯護腕【ＧＳ】・青
 3414,Magos GS Guard・Blue,瑪戈斯臂甲【ＧＳ】・青
 3415,Red 備ノ具足【 Kote 】,備具足籠手・赤
@@ -3633,9 +3633,9 @@ index,source,target
 3631,Golden Kote・G,金籠手【Ｇ】
 3632,Golden Kote・GF,金籠手【ＧＦ】
 3633,Golden Kote・GX,金籠手【ＧＸ】
-3634,Puppeteer ノ Kote・G,籠手【Ｇ】
-3635,Puppeteer ノ Kote・GF,籠手【ＧＦ】
-3636,Puppeteer ノ Kote・GX,籠手【ＧＸ】
+3634,Puppeteer ノ Kote・G,操偶籠手【Ｇ】
+3635,Puppeteer ノ Kote・GF,操偶籠手【ＧＦ】
+3636,Puppeteer ノ Kote・GX,操偶籠手【ＧＸ】
 3637,Rebidiora Gクロウ,雷極龍爪【Ｇ】
 3638,Rebidiora GFクロウ,雷極龍爪【ＧＦ】
 3639,Rebidiora GXクロウ,雷極龍爪【ＧＸ】
@@ -3672,9 +3672,9 @@ index,source,target
 3670,Disu G Guard,德伊斯烏臂甲【Ｇ】
 3671,Disu GF Guard,德伊斯烏臂甲【ＧＦ】
 3672,Disu GX Guard,德伊斯烏臂甲【ＧＸ】
-3673,Shadow Kote・G,暗影籠手【Ｇ】
-3674,Shadow Kote・GF,暗影籠手【ＧＦ】
-3675,Shadow Kote・GX,暗影籠手【ＧＸ】
+3673,Shadow Kote・G,影籠手【Ｇ】
+3674,Shadow Kote・GF,影籠手【ＧＦ】
+3675,Shadow Kote・GX,影籠手【ＧＸ】
 3676,Shade Kote・G,影籠手【Ｇ】
 3677,Shade Kote・GF,影籠手【ＧＦ】
 3678,Shade Kote・GX,影籠手【ＧＸ】
@@ -3710,14 +3710,14 @@ index,source,target
 3708,Genbu・刀神GF Arms,刀神護腕【Ｆ】
 3709,Seiryu・刀神G Arms,青龍護腕【Ｇ】
 3710,Seiryu・刀神GF Arms,刀神護腕【Ｆ】
-3711,Byakko・Heaven 槍G Arms,白虎護腕【Ｇ】・天
-3712,Byakko・Heaven 槍GF Arms,槍護腕【Ｆ】・天
-3713,Suzaku・Heaven 槍G Arms,朱雀護腕【Ｇ】・天
-3714,Suzaku・Heaven 槍GF Arms,槍護腕【Ｆ】・天
-3715,Genbu・Heaven 槍G Arms,玄武護腕【Ｇ】・天
-3716,Genbu・Heaven 槍GF Arms,槍護腕【Ｆ】・天
-3717,Seiryu・Heaven 槍G Arms,青龍護腕【Ｇ】・天
-3718,Seiryu・Heaven 槍GF Arms,槍護腕【Ｆ】・天
+3711,Byakko・Heaven 槍G Arms,白虎天護腕【Ｇ】
+3712,Byakko・Heaven 槍GF Arms,槍天護腕【Ｆ】
+3713,Suzaku・Heaven 槍G Arms,朱雀天護腕【Ｇ】
+3714,Suzaku・Heaven 槍GF Arms,槍天護腕【Ｆ】
+3715,Genbu・Heaven 槍G Arms,玄武天護腕【Ｇ】
+3716,Genbu・Heaven 槍GF Arms,槍天護腕【Ｆ】
+3717,Seiryu・Heaven 槍G Arms,青龍天護腕【Ｇ】
+3718,Seiryu・Heaven 槍GF Arms,槍天護腕【Ｆ】
 3719,Byakko・砲皇G Arms,白虎護腕【Ｇ】
 3720,Byakko・砲皇GF Arms,砲皇護腕【Ｆ】
 3721,Suzaku・砲皇G Arms,朱雀護腕【Ｇ】
@@ -3759,13 +3759,13 @@ index,source,target
 3757,Seiryu・銃仙G Guard,青龍臂甲【Ｇ】
 3758,Seiryu・銃仙GF Guard,銃仙臂甲【Ｆ】
 3759,Byakko・Bow 鬼G Guard,白虎臂甲【Ｇ】
-3760,Byakko・Bow 鬼GF Guard,鬼臂甲【Ｆ】
+3760,Byakko・Bow 鬼GF Guard,白虎臂甲【Ｆ】
 3761,Suzaku・Bow 鬼G Guard,朱雀臂甲【Ｇ】
-3762,Suzaku・Bow 鬼GF Guard,鬼臂甲【Ｆ】
+3762,Suzaku・Bow 鬼GF Guard,朱雀臂甲【Ｆ】
 3763,Genbu・Bow 鬼G Guard,玄武臂甲【Ｇ】
-3764,Genbu・Bow 鬼GF Guard,鬼臂甲【Ｆ】
+3764,Genbu・Bow 鬼GF Guard,玄武臂甲【Ｆ】
 3765,Seiryu・Bow 鬼G Guard,青龍臂甲【Ｇ】
-3766,Seiryu・Bow 鬼GF Guard,鬼臂甲【Ｆ】
+3766,Seiryu・Bow 鬼GF Guard,青龍臂甲【Ｆ】
 3767,Odiva G Arms,奧蒂瓦護腕【Ｇ】
 3768,Odiva G Guard,奧蒂瓦臂甲【Ｇ】
 3769,Blitz G Arms,布伊特護腕【Ｇ】
@@ -3786,7 +3786,7 @@ index,source,target
 3784,エミットG Guard,艾米托臂甲【Ｇ】
 3785,Diboa G Arms,迪博阿護腕【Ｇ】
 3786,Diboa G Guard,迪博阿臂甲【Ｇ】
-3787,Demon Lord ノ手套,惡魔護腕
+3787,Demon Lord ノ手套,魔王護腕
 3788,童子ノ手套,童子手套護腕
 3789,レアー Arms,雷阿護腕
 3790,ハーデス Arms,哈德斯護腕
@@ -3836,18 +3836,18 @@ index,source,target
 3834,Pics HC Guard・Black,皮克斯臂甲【ＨＣ】・黑
 3835,Pics HS Guard・Black,皮克斯臂甲【ＨＳ】・黑
 3836,Pics GS Guard・Black,皮克斯臂甲【ＧＳ】・黑
-3837,Pics Arms・Water,皮克斯水護腕
-3838,Pics F Arms・Water,皮克斯水護腕【Ｆ】
-3839,Pics FZ Arms・Water,皮克斯水護腕【ＦＺ】
-3840,Pics HC Arms・Water,皮克斯水護腕【ＨＣ】
-3841,Pics HS Arms・Water,皮克斯水護腕【ＨＳ】
-3842,Pics GS Arms・Water,皮克斯水護腕【ＧＳ】
-3843,Pics Guard・Water,皮克斯水臂甲
-3844,Pics F Guard・Water,皮克斯水臂甲【Ｆ】
-3845,Pics FZ Guard・Water,皮克斯水臂甲【ＦＺ】
-3846,Pics HC Guard・Water,皮克斯水臂甲【ＨＣ】
-3847,Pics HS Guard・Water,皮克斯水臂甲【ＨＳ】
-3848,Pics GS Guard・Water,皮克斯水臂甲【ＧＳ】
+3837,Pics Arms・Water,皮克斯護腕・水
+3838,Pics F Arms・Water,皮克斯護腕【Ｆ】・水
+3839,Pics FZ Arms・Water,皮克斯護腕【ＦＺ】・水
+3840,Pics HC Arms・Water,皮克斯護腕【ＨＣ】・水
+3841,Pics HS Arms・Water,皮克斯護腕【ＨＳ】・水
+3842,Pics GS Arms・Water,皮克斯護腕【ＧＳ】・水
+3843,Pics Guard・Water,皮克斯臂甲・水
+3844,Pics F Guard・Water,皮克斯臂甲【Ｆ】・水
+3845,Pics FZ Guard・Water,皮克斯臂甲【ＦＺ】・水
+3846,Pics HC Guard・Water,皮克斯臂甲【ＨＣ】・水
+3847,Pics HS Guard・Water,皮克斯臂甲【ＨＳ】・水
+3848,Pics GS Guard・Water,皮克斯臂甲【ＧＳ】・水
 3849,Bright Arms,輝護腕
 3850,Bright F Arms,輝護腕【Ｆ】
 3851,Bright FZ Arms,輝護腕【ＦＺ】
@@ -4127,12 +4127,12 @@ index,source,target
 4125,Galitos HC Guard・Black,加里托斯臂甲【ＨＣ】・黑
 4126,Galitos HS Guard・Black,加里托斯臂甲【ＨＳ】・黑
 4127,Galitos GS Guard・Black,加里托斯臂甲【ＧＳ】・黑
-4128,Galitos HC Arms・Water,加里托斯水護腕【ＨＣ】
-4129,Galitos HS Arms・Water,加里托斯水護腕【ＨＳ】
-4130,Galitos GS Arms・Water,加里托斯水護腕【ＧＳ】
-4131,Galitos HC Guard・Water,加里托斯水臂甲【ＨＣ】
-4132,Galitos HS Guard・Water,加里托斯水臂甲【ＨＳ】
-4133,Galitos GS Guard・Water,加里托斯水臂甲【ＧＳ】
+4128,Galitos HC Arms・Water,加里托斯護腕【ＨＣ】・水
+4129,Galitos HS Arms・Water,加里托斯護腕【ＨＳ】・水
+4130,Galitos GS Arms・Water,加里托斯護腕【ＧＳ】・水
+4131,Galitos HC Guard・Water,加里托斯臂甲【ＨＣ】・水
+4132,Galitos HS Guard・Water,加里托斯臂甲【ＨＳ】・水
+4133,Galitos GS Guard・Water,加里托斯臂甲【ＧＳ】・水
 4134,Star Festival FZ Gauntlets [Blue 】,星祭手甲【ＦＺ】・青
 4135,Star Festival HC Gauntlets [Blue 】,星祭手甲【ＨＣ】・青
 4136,Star Festival HS Gauntlets [Blue 】,星祭手甲【ＨＳ】・青
@@ -4221,12 +4221,12 @@ index,source,target
 4219,Beru G Guard,舞雷龍臂甲【Ｇ】
 4220,Beru GF Guard,舞雷龍臂甲【ＧＦ】
 4221,Beru GX Guard,舞雷龍臂甲【ＧＸ】
-4222,Black Gravios G Arms,鎧龍護腕【Ｇ】・黑
-4223,Black Gravios GF Arms,鎧龍護腕【ＧＦ】・黑
-4224,Black Gravios GX Arms,鎧龍護腕【ＧＸ】・黑
-4225,Black Gravios G Guard,鎧龍臂甲【Ｇ】・黑
-4226,Black Gravios GF Guard,鎧龍臂甲【ＧＦ】・黑
-4227,Black Gravios GX Guard,鎧龍臂甲【ＧＸ】・黑
+4222,Black Gravios G Arms,黑鎧龍護腕【Ｇ】
+4223,Black Gravios GF Arms,黑鎧龍護腕【ＧＦ】
+4224,Black Gravios GX Arms,黑鎧龍護腕【ＧＸ】
+4225,Black Gravios G Guard,黑鎧龍臂甲【Ｇ】
+4226,Black Gravios GF Guard,黑鎧龍臂甲【ＧＦ】
+4227,Black Gravios GX Guard,黑鎧龍臂甲【ＧＸ】
 4228,Lune G Arms,月護腕【Ｇ】
 4229,Lune GF Arms,月護腕【ＧＦ】
 4230,Lune GX Arms,月護腕【ＧＸ】
@@ -4403,18 +4403,18 @@ index,source,target
 4401,Genom HS Guard・Green,基因組臂甲【ＨＳ】・緑
 4402,Genom GS Guard・Green,基因組臂甲【ＧＳ】・緑
 4403,Genom GP Guard・Green,基因組臂甲【ＧＰ】・緑
-4404,Genom Arms・Water,基因組水護腕
-4405,Genom F Arms・Water,基因組水護腕【Ｆ】
-4406,Genom FZ Arms・Water,基因組水護腕【ＦＺ】
-4407,Genom HS Arms・Water,基因組水護腕【ＨＳ】
-4408,Genom GS Arms・Water,基因組水護腕【ＧＳ】
-4409,Genom GP Arms・Water,基因組水護腕【ＧＰ】
-4410,Genom Guard・Water,基因組水臂甲
-4411,Genom F Guard・Water,基因組水臂甲【Ｆ】
-4412,Genom FZ Guard・Water,基因組水臂甲【ＦＺ】
-4413,Genom HS Guard・Water,基因組水臂甲【ＨＳ】
-4414,Genom GS Guard・Water,基因組水臂甲【ＧＳ】
-4415,Genom GP Guard・Water,基因組水臂甲【ＧＰ】
+4404,Genom Arms・Water,基因組護腕・水
+4405,Genom F Arms・Water,基因組護腕【Ｆ】・水
+4406,Genom FZ Arms・Water,基因組護腕【ＦＺ】・水
+4407,Genom HS Arms・Water,基因組護腕【ＨＳ】・水
+4408,Genom GS Arms・Water,基因組護腕【ＧＳ】・水
+4409,Genom GP Arms・Water,基因組護腕【ＧＰ】・水
+4410,Genom Guard・Water,基因組臂甲・水
+4411,Genom F Guard・Water,基因組臂甲【Ｆ】・水
+4412,Genom FZ Guard・Water,基因組臂甲【ＦＺ】・水
+4413,Genom HS Guard・Water,基因組臂甲【ＨＳ】・水
+4414,Genom GS Guard・Water,基因組臂甲【ＧＳ】・水
+4415,Genom GP Guard・Water,基因組臂甲【ＧＰ】・水
 4416,Genom Arms・Red,基因組護腕・赤
 4417,Genom F Arms・Red,基因組護腕【Ｆ】・赤
 4418,Genom FZ Arms・Red,基因組護腕【ＦＺ】・赤
@@ -4639,10 +4639,10 @@ index,source,target
 4637,竜巻HS Kote・Black,竜巻籠手【ＨＳ】・黑
 4638,竜巻GS Kote・Black,竜巻籠手【ＧＳ】・黑
 4639,竜巻GP Kote・Black,竜巻籠手【ＧＰ】・黑
-4640,True 空FZ Kote・Black,空籠手【ＦＺ】・黑
-4641,True 空HS Kote・Black,空籠手【ＨＳ】・黑
-4642,True 空GS Kote・Black,空籠手【ＧＳ】・黑
-4643,True 空GP Kote・Black,空籠手【ＧＰ】・黑
+4640,True 空FZ Kote・Black,真空籠手【ＦＺ】・黑
+4641,True 空HS Kote・Black,真空籠手【ＨＳ】・黑
+4642,True 空GS Kote・Black,真空籠手【ＧＳ】・黑
+4643,True 空GP Kote・Black,真空籠手【ＧＰ】・黑
 4644,千裂FZ腕環・Black,千裂腕環護腕・黑
 4645,千裂HS腕環・Black,千裂腕環護腕・黑
 4646,千裂GS腕環・Black,千裂腕環護腕・黑
@@ -4655,10 +4655,10 @@ index,source,target
 4653,竜巻HS Kote・Tea,竜巻籠手【ＨＳ】・茶
 4654,竜巻GS Kote・Tea,竜巻籠手【ＧＳ】・茶
 4655,竜巻GP Kote・Tea,竜巻籠手【ＧＰ】・茶
-4656,True 空FZ Kote・Tea,空籠手【ＦＺ】・茶
-4657,True 空HS Kote・Tea,空籠手【ＨＳ】・茶
-4658,True 空GS Kote・Tea,空籠手【ＧＳ】・茶
-4659,True 空GP Kote・Tea,空籠手【ＧＰ】・茶
+4656,True 空FZ Kote・Tea,真空籠手【ＦＺ】・茶
+4657,True 空HS Kote・Tea,真空籠手【ＨＳ】・茶
+4658,True 空GS Kote・Tea,真空籠手【ＧＳ】・茶
+4659,True 空GP Kote・Tea,真空籠手【ＧＰ】・茶
 4660,千裂FZ腕環・Purple,千裂腕環護腕・紫
 4661,千裂HS腕環・Purple,千裂腕環護腕・紫
 4662,千裂GS腕環・Purple,千裂腕環護腕・紫
@@ -4671,10 +4671,10 @@ index,source,target
 4669,竜巻HS Kote・White,竜巻籠手【ＨＳ】・白
 4670,竜巻GS Kote・White,竜巻籠手【ＧＳ】・白
 4671,竜巻GP Kote・White,竜巻籠手【ＧＰ】・白
-4672,True 空FZ Kote・White,空籠手【ＦＺ】・白
-4673,True 空HS Kote・White,空籠手【ＨＳ】・白
-4674,True 空GS Kote・White,空籠手【ＧＳ】・白
-4675,True 空GP Kote・White,空籠手【ＧＰ】・白
+4672,True 空FZ Kote・White,真空籠手【ＦＺ】・白
+4673,True 空HS Kote・White,真空籠手【ＨＳ】・白
+4674,True 空GS Kote・White,真空籠手【ＧＳ】・白
+4675,True 空GP Kote・White,真空籠手【ＧＰ】・白
 4676,千裂FZ腕環・White,千裂腕環護腕・白
 4677,千裂HS腕環・White,千裂腕環護腕・白
 4678,千裂GS腕環・White,千裂腕環護腕・白
@@ -4687,10 +4687,10 @@ index,source,target
 4685,竜巻HS Kote・Blue,竜巻籠手【ＨＳ】・青
 4686,竜巻GS Kote・Blue,竜巻籠手【ＧＳ】・青
 4687,竜巻GP Kote・Blue,竜巻籠手【ＧＰ】・青
-4688,True 空FZ Kote・Blue,空籠手【ＦＺ】・青
-4689,True 空HS Kote・Blue,空籠手【ＨＳ】・青
-4690,True 空GS Kote・Blue,空籠手【ＧＳ】・青
-4691,True 空GP Kote・Blue,空籠手【ＧＰ】・青
+4688,True 空FZ Kote・Blue,真空籠手【ＦＺ】・青
+4689,True 空HS Kote・Blue,真空籠手【ＨＳ】・青
+4690,True 空GS Kote・Blue,真空籠手【ＧＳ】・青
+4691,True 空GP Kote・Blue,真空籠手【ＧＰ】・青
 4692,千裂FZ腕環・Green,千裂腕環護腕・緑
 4693,千裂HS腕環・Green,千裂腕環護腕・緑
 4694,千裂GS腕環・Green,千裂腕環護腕・緑
@@ -4707,10 +4707,10 @@ index,source,target
 4705,Chaos HS Cuffs・Blue,混沌護腕【ＨＳ】・青
 4706,Chaos GS Cuffs・Blue,混沌護腕【ＧＳ】・青
 4707,Chaos GP Cuffs・Blue,混沌護腕【ＧＰ】・青
-4708,Shadow FZグローブ Purple,暗影手套【ＦＺ】・紫
-4709,Shadow HSグローブ Purple,暗影手套【ＨＳ】・紫
-4710,Shadow GSグローブ Purple,暗影手套【ＧＳ】・紫
-4711,Shadow GPグローブ Purple,暗影手套【ＧＰ】・紫
+4708,Shadow FZグローブ Purple,影手套【ＦＺ】・紫
+4709,Shadow HSグローブ Purple,影手套【ＨＳ】・紫
+4710,Shadow GSグローブ Purple,影手套【ＧＳ】・紫
+4711,Shadow GPグローブ Purple,影手套【ＧＰ】・紫
 4712,Soul FZグローブ・Purple,魂手套【ＦＺ】・紫
 4713,Soul HSグローブ・Purple,魂手套【ＨＳ】・紫
 4714,Soul GSグローブ・Purple,魂手套【ＧＳ】・紫
@@ -4723,10 +4723,10 @@ index,source,target
 4721,Chaos HS Cuffs・Red,混沌護腕【ＨＳ】・赤
 4722,Chaos GS Cuffs・Red,混沌護腕【ＧＳ】・赤
 4723,Chaos GP Cuffs・Red,混沌護腕【ＧＰ】・赤
-4724,Shadow FZグローブ Red,暗影手套【ＦＺ】・赤
-4725,Shadow HSグローブ Red,暗影手套【ＨＳ】・赤
-4726,Shadow GSグローブ Red,暗影手套【ＧＳ】・赤
-4727,Shadow GPグローブ Red,暗影手套【ＧＰ】・赤
+4724,Shadow FZグローブ Red,影手套【ＦＺ】・赤
+4725,Shadow HSグローブ Red,影手套【ＨＳ】・赤
+4726,Shadow GSグローブ Red,影手套【ＧＳ】・赤
+4727,Shadow GPグローブ Red,影手套【ＧＰ】・赤
 4728,Soul FZグローブ・Red,魂手套【ＦＺ】・赤
 4729,Soul HSグローブ・Red,魂手套【ＨＳ】・赤
 4730,Soul GSグローブ・Red,魂手套【ＧＳ】・赤
@@ -4739,10 +4739,10 @@ index,source,target
 4737,Chaos HS Cuffs・Green,混沌護腕【ＨＳ】・緑
 4738,Chaos GS Cuffs・Green,混沌護腕【ＧＳ】・緑
 4739,Chaos GP Cuffs・Green,混沌護腕【ＧＰ】・緑
-4740,Shadow FZグローブ Green,暗影手套【ＦＺ】・緑
-4741,Shadow HSグローブ Green,暗影手套【ＨＳ】・緑
-4742,Shadow GSグローブ Green,暗影手套【ＧＳ】・緑
-4743,Shadow GPグローブ Green,暗影手套【ＧＰ】・緑
+4740,Shadow FZグローブ Green,影手套【ＦＺ】・緑
+4741,Shadow HSグローブ Green,影手套【ＨＳ】・緑
+4742,Shadow GSグローブ Green,影手套【ＧＳ】・緑
+4743,Shadow GPグローブ Green,影手套【ＧＰ】・緑
 4744,Soul FZグローブ・Green,魂手套【ＦＺ】・緑
 4745,Soul HSグローブ・Green,魂手套【ＨＳ】・緑
 4746,Soul GSグローブ・Green,魂手套【ＧＳ】・緑
@@ -4755,10 +4755,10 @@ index,source,target
 4753,Chaos HS Cuffs・White,混沌護腕【ＨＳ】・白
 4754,Chaos GS Cuffs・White,混沌護腕【ＧＳ】・白
 4755,Chaos GP Cuffs・White,混沌護腕【ＧＰ】・白
-4756,Shadow FZグローブ White,暗影手套【ＦＺ】・白
-4757,Shadow HSグローブ White,暗影手套【ＨＳ】・白
-4758,Shadow GSグローブ White,暗影手套【ＧＳ】・白
-4759,Shadow GPグローブ White,暗影手套【ＧＰ】・白
+4756,Shadow FZグローブ White,影手套【ＦＺ】・白
+4757,Shadow HSグローブ White,影手套【ＨＳ】・白
+4758,Shadow GSグローブ White,影手套【ＧＳ】・白
+4759,Shadow GPグローブ White,影手套【ＧＰ】・白
 4760,Soul FZグローブ・White,魂手套【ＦＺ】・白
 4761,Soul HSグローブ・White,魂手套【ＨＳ】・白
 4762,Soul GSグローブ・White,魂手套【ＧＳ】・白
@@ -4799,10 +4799,10 @@ index,source,target
 4797,Shinryu GP Kote・Red,神龍籠手【ＧＰ】・赤
 4798,Reppa GS Kote・Red,烈破籠手【ＧＳ】・赤
 4799,Reppa GP Kote・Red,烈破籠手【ＧＰ】・赤
-4800,Cannon GS Claws・Water,加農水爪【ＧＳ】
-4801,Cannon GP Claws・Water,加農水爪【ＧＰ】
-4802,Axel GS Claws・Water,輪軸水爪【ＧＳ】
-4803,Axel GP Claws・Water,輪軸水爪【ＧＰ】
+4800,Cannon GS Claws・Water,加農爪【ＧＳ】・水
+4801,Cannon GP Claws・Water,加農爪【ＧＰ】・水
+4802,Axel GS Claws・Water,輪軸爪【ＧＳ】・水
+4803,Axel GP Claws・Water,輪軸爪【ＧＰ】・水
 4804,Shinryu GS Kote・White,神龍籠手【ＧＳ】・白
 4805,Shinryu GP Kote・White,神龍籠手【ＧＰ】・白
 4806,Reppa GS Kote・White,烈破籠手【ＧＳ】・白
@@ -5026,7 +5026,7 @@ index,source,target
 5024,ノヴィーHS Guard,諾芙臂甲【ＨＳ】
 5025,ノヴィーGS Guard,諾芙臂甲【ＧＳ】
 5026,Flora Arms,芙歐爾阿護腕
-5027,Flower ーム,芙歐沃艾護腕
+5027,Flower ーム,穆護腕
 5028,Lea Arms,爾艾護腕
 5029,Keith Arms,克艾斯護腕
 5030,Guinelle Arms,格烏恩艾護腕
@@ -5145,12 +5145,12 @@ index,source,target
 5143,迅雷HS Kote,迅雷籠手【ＨＳ】
 5144,迅雷GS Kote,迅雷籠手【ＧＳ】
 5145,迅雷GP Kote,迅雷籠手【ＧＰ】
-5146,Heaven 星腕環,星腕環護腕・天
-5147,Heaven 星F腕環,星腕環護腕・天
-5148,Heaven 星FZ腕環,星腕環護腕・天
-5149,Heaven 星HS腕環,星腕環護腕・天
-5150,Heaven 星GS腕環,星腕環護腕・天
-5151,Heaven 星GP腕環,星腕環護腕・天
+5146,Heaven 星腕環,星腕環天護腕
+5147,Heaven 星F腕環,星腕環天護腕
+5148,Heaven 星FZ腕環,星腕環天護腕
+5149,Heaven 星HS腕環,星腕環天護腕
+5150,Heaven 星GS腕環,星腕環天護腕
+5151,Heaven 星GP腕環,星腕環天護腕
 5152,飛燕腕環,飛燕腕環護腕
 5153,飛燕F腕環,飛燕腕環護腕
 5154,飛燕FZ腕環,飛燕腕環護腕
@@ -5415,38 +5415,38 @@ index,source,target
 5413,Omet HS Guard・Blue,歐梅特臂甲【ＨＳ】・青
 5414,Omet GS Guard・Blue,歐梅特臂甲【ＧＳ】・青
 5415,Omet GP Guard・Blue,歐梅特臂甲【ＧＰ】・青
-5416,Gold FZ Arms・Red,護腕【ＦＺ】・金・赤
-5417,Gold HS Arms・Red,護腕【ＨＳ】・金・赤
-5418,Gold GS Arms・Red,護腕【ＧＳ】・金・赤
-5419,Gold GP Arms・Red,護腕【ＧＰ】・金・赤
-5420,Gold FZ Arms・Blue,護腕【ＦＺ】・金・青
-5421,Gold HS Arms・Blue,護腕【ＨＳ】・金・青
-5422,Gold GS Arms・Blue,護腕【ＧＳ】・金・青
-5423,Gold GP Arms・Blue,護腕【ＧＰ】・金・青
-5424,Gold FZ Arms・Yellow,護腕【ＦＺ】・金・黄
-5425,Gold HS Arms・Yellow,護腕【ＨＳ】・金・黄
-5426,Gold GS Arms・Yellow,護腕【ＧＳ】・金・黄
-5427,Gold GP Arms・Yellow,護腕【ＧＰ】・金・黄
-5428,Gold FZ Arms・Purple,護腕【ＦＺ】・金・紫
-5429,Gold HS Arms・Purple,護腕【ＨＳ】・金・紫
-5430,Gold GS Arms・Purple,護腕【ＧＳ】・金・紫
-5431,Gold GP Arms・Purple,護腕【ＧＰ】・金・紫
-5432,Gold FZ Guard・Red,臂甲【ＦＺ】・金・赤
-5433,Gold HS Guard・Red,臂甲【ＨＳ】・金・赤
-5434,Gold GS Guard・Red,臂甲【ＧＳ】・金・赤
-5435,Gold GP Guard・Red,臂甲【ＧＰ】・金・赤
-5436,Gold FZ Guard・Blue,臂甲【ＦＺ】・金・青
-5437,Gold HS Guard・Blue,臂甲【ＨＳ】・金・青
-5438,Gold GS Guard・Blue,臂甲【ＧＳ】・金・青
-5439,Gold GP Guard・Blue,臂甲【ＧＰ】・金・青
-5440,Gold FZ Guard・Yellow,臂甲【ＦＺ】・金・黄
-5441,Gold HS Guard・Yellow,臂甲【ＨＳ】・金・黄
-5442,Gold GS Guard・Yellow,臂甲【ＧＳ】・金・黄
-5443,Gold GP Guard・Yellow,臂甲【ＧＰ】・金・黄
-5444,Gold FZ Guard・Purple,臂甲【ＦＺ】・金・紫
-5445,Gold HS Guard・Purple,臂甲【ＨＳ】・金・紫
-5446,Gold GS Guard・Purple,臂甲【ＧＳ】・金・紫
-5447,Gold GP Guard・Purple,臂甲【ＧＰ】・金・紫
+5416,Gold FZ Arms・Red,金護腕【ＦＺ】・赤
+5417,Gold HS Arms・Red,金護腕【ＨＳ】・赤
+5418,Gold GS Arms・Red,金護腕【ＧＳ】・赤
+5419,Gold GP Arms・Red,金護腕【ＧＰ】・赤
+5420,Gold FZ Arms・Blue,金護腕【ＦＺ】・青
+5421,Gold HS Arms・Blue,金護腕【ＨＳ】・青
+5422,Gold GS Arms・Blue,金護腕【ＧＳ】・青
+5423,Gold GP Arms・Blue,金護腕【ＧＰ】・青
+5424,Gold FZ Arms・Yellow,金護腕【ＦＺ】・黄
+5425,Gold HS Arms・Yellow,金護腕【ＨＳ】・黄
+5426,Gold GS Arms・Yellow,金護腕【ＧＳ】・黄
+5427,Gold GP Arms・Yellow,金護腕【ＧＰ】・黄
+5428,Gold FZ Arms・Purple,金護腕【ＦＺ】・紫
+5429,Gold HS Arms・Purple,金護腕【ＨＳ】・紫
+5430,Gold GS Arms・Purple,金護腕【ＧＳ】・紫
+5431,Gold GP Arms・Purple,金護腕【ＧＰ】・紫
+5432,Gold FZ Guard・Red,金臂甲【ＦＺ】・赤
+5433,Gold HS Guard・Red,金臂甲【ＨＳ】・赤
+5434,Gold GS Guard・Red,金臂甲【ＧＳ】・赤
+5435,Gold GP Guard・Red,金臂甲【ＧＰ】・赤
+5436,Gold FZ Guard・Blue,金臂甲【ＦＺ】・青
+5437,Gold HS Guard・Blue,金臂甲【ＨＳ】・青
+5438,Gold GS Guard・Blue,金臂甲【ＧＳ】・青
+5439,Gold GP Guard・Blue,金臂甲【ＧＰ】・青
+5440,Gold FZ Guard・Yellow,金臂甲【ＦＺ】・黄
+5441,Gold HS Guard・Yellow,金臂甲【ＨＳ】・黄
+5442,Gold GS Guard・Yellow,金臂甲【ＧＳ】・黄
+5443,Gold GP Guard・Yellow,金臂甲【ＧＰ】・黄
+5444,Gold FZ Guard・Purple,金臂甲【ＦＺ】・紫
+5445,Gold HS Guard・Purple,金臂甲【ＨＳ】・紫
+5446,Gold GS Guard・Purple,金臂甲【ＧＳ】・紫
+5447,Gold GP Guard・Purple,金臂甲【ＧＰ】・紫
 5448,Shaln HS Arms・Blue,夏爾恩護腕【ＨＳ】・青
 5449,Shaln GS Arms・Blue,夏爾恩護腕【ＧＳ】・青
 5450,Shaln GP Arms・Blue,夏爾恩護腕【ＧＰ】・青
@@ -5681,18 +5681,18 @@ index,source,target
 5679,Zyra HS Guard・Green,齊拉臂甲【ＨＳ】・緑
 5680,Zyra GS Guard・Green,齊拉臂甲【ＧＳ】・緑
 5681,Zyra GP Guard・Green,齊拉臂甲【ＧＰ】・緑
-5682,Zyra Arms・Water,齊拉水護腕
-5683,Zyra F Arms・Water,齊拉水護腕【Ｆ】
-5684,Zyra FZ Arms・Water,齊拉水護腕【ＦＺ】
-5685,Zyra HS Arms・Water,齊拉水護腕【ＨＳ】
-5686,Zyra GS Arms・Water,齊拉水護腕【ＧＳ】
-5687,Zyra GP Arms・Water,齊拉水護腕【ＧＰ】
-5688,Zyra Guard・Water,齊拉水臂甲
-5689,Zyra F Guard・Water,齊拉水臂甲【Ｆ】
-5690,Zyra FZ Guard・Water,齊拉水臂甲【ＦＺ】
-5691,Zyra HS Guard・Water,齊拉水臂甲【ＨＳ】
-5692,Zyra GS Guard・Water,齊拉水臂甲【ＧＳ】
-5693,Zyra GP Guard・Water,齊拉水臂甲【ＧＰ】
+5682,Zyra Arms・Water,齊拉護腕・水
+5683,Zyra F Arms・Water,齊拉護腕【Ｆ】・水
+5684,Zyra FZ Arms・Water,齊拉護腕【ＦＺ】・水
+5685,Zyra HS Arms・Water,齊拉護腕【ＨＳ】・水
+5686,Zyra GS Arms・Water,齊拉護腕【ＧＳ】・水
+5687,Zyra GP Arms・Water,齊拉護腕【ＧＰ】・水
+5688,Zyra Guard・Water,齊拉臂甲・水
+5689,Zyra F Guard・Water,齊拉臂甲【Ｆ】・水
+5690,Zyra FZ Guard・Water,齊拉臂甲【ＦＺ】・水
+5691,Zyra HS Guard・Water,齊拉臂甲【ＨＳ】・水
+5692,Zyra GS Guard・Water,齊拉臂甲【ＧＳ】・水
+5693,Zyra GP Guard・Water,齊拉臂甲【ＧＰ】・水
 5694,Zyra Arms・Red,齊拉護腕・赤
 5695,Zyra F Arms・Red,齊拉護腕【Ｆ】・赤
 5696,Zyra FZ Arms・Red,齊拉護腕【ＦＺ】・赤
@@ -5857,54 +5857,54 @@ index,source,target
 5855,Ex HS Guard・Black,艾克斯臂甲【ＨＳ】・黑
 5856,Ex GS Guard・Black,艾克斯臂甲【ＧＳ】・黑
 5857,Ex GP Guard・Black,艾克斯臂甲【ＧＰ】・黑
-5858,Gold Cat FZ Arms,猫護腕【ＦＺ】・金
-5859,Gold Cat HS Arms,猫護腕【ＨＳ】・金
-5860,Gold Cat GS Arms,猫護腕【ＧＳ】・金
-5861,Gold Cat GP Arms,猫護腕【ＧＰ】・金
-5862,Gold Cat FZ Guard,猫臂甲【ＦＺ】・金
-5863,Gold Cat HS Guard,猫臂甲【ＨＳ】・金
-5864,Gold Cat GS Guard,猫臂甲【ＧＳ】・金
-5865,Gold Cat GP Guard,猫臂甲【ＧＰ】・金
-5866,Silver Cat FZ Arms,猫護腕【ＦＺ】・銀
-5867,Silver Cat HS Arms,猫護腕【ＨＳ】・銀
-5868,Silver Cat GS Arms,猫護腕【ＧＳ】・銀
-5869,Silver Cat GP Arms,猫護腕【ＧＰ】・銀
-5870,Silver Cat FZ Guard,猫臂甲【ＦＺ】・銀
-5871,Silver Cat HS Guard,猫臂甲【ＨＳ】・銀
-5872,Silver Cat GS Guard,猫臂甲【ＧＳ】・銀
-5873,Silver Cat GP Guard,猫臂甲【ＧＰ】・銀
-5874,Claire FZ Arms・Purple,克蕾兒護腕【ＦＺ】・紫
-5875,Claire HS Arms・Purple,克蕾兒護腕【ＨＳ】・紫
-5876,Claire GS Arms・Purple,克蕾兒護腕【ＧＳ】・紫
-5877,Claire GP Arms・Purple,克蕾兒護腕【ＧＰ】・紫
-5878,Claire FZ Guard・Purple,克蕾兒臂甲【ＦＺ】・紫
-5879,Claire HS Guard・Purple,克蕾兒臂甲【ＨＳ】・紫
-5880,Claire GS Guard・Purple,克蕾兒臂甲【ＧＳ】・紫
-5881,Claire GP Guard・Purple,克蕾兒臂甲【ＧＰ】・紫
-5882,Claire FZ Arms・Water,克蕾兒水護腕【ＦＺ】
-5883,Claire HS Arms・Water,克蕾兒水護腕【ＨＳ】
-5884,Claire GS Arms・Water,克蕾兒水護腕【ＧＳ】
-5885,Claire GP Arms・Water,克蕾兒水護腕【ＧＰ】
-5886,Claire FZ Guard・Water,克蕾兒水臂甲【ＦＺ】
-5887,Claire HS Guard・Water,克蕾兒水臂甲【ＨＳ】
-5888,Claire GS Guard・Water,克蕾兒水臂甲【ＧＳ】
-5889,Claire GP Guard・Water,克蕾兒水臂甲【ＧＰ】
-5890,Claire FZ Arms・Red,克蕾兒護腕【ＦＺ】・赤
-5891,Claire HS Arms・Red,克蕾兒護腕【ＨＳ】・赤
-5892,Claire GS Arms・Red,克蕾兒護腕【ＧＳ】・赤
-5893,Claire GP Arms・Red,克蕾兒護腕【ＧＰ】・赤
-5894,Claire FZ Guard・Red,克蕾兒臂甲【ＦＺ】・赤
-5895,Claire HS Guard・Red,克蕾兒臂甲【ＨＳ】・赤
-5896,Claire GS Guard・Red,克蕾兒臂甲【ＧＳ】・赤
-5897,Claire GP Guard・Red,克蕾兒臂甲【ＧＰ】・赤
-5898,Claire FZ Arms・Black,克蕾兒護腕【ＦＺ】・黑
-5899,Claire HS Arms・Black,克蕾兒護腕【ＨＳ】・黑
-5900,Claire GS Arms・Black,克蕾兒護腕【ＧＳ】・黑
-5901,Claire GP Arms・Black,克蕾兒護腕【ＧＰ】・黑
-5902,Claire FZ Guard・Black,克蕾兒臂甲【ＦＺ】・黑
-5903,Claire HS Guard・Black,克蕾兒臂甲【ＨＳ】・黑
-5904,Claire GS Guard・Black,克蕾兒臂甲【ＧＳ】・黑
-5905,Claire GP Guard・Black,克蕾兒臂甲【ＧＰ】・黑
+5858,Gold Cat FZ Arms,金猫護腕【ＦＺ】
+5859,Gold Cat HS Arms,金猫護腕【ＨＳ】
+5860,Gold Cat GS Arms,金猫護腕【ＧＳ】
+5861,Gold Cat GP Arms,金猫護腕【ＧＰ】
+5862,Gold Cat FZ Guard,金猫臂甲【ＦＺ】
+5863,Gold Cat HS Guard,金猫臂甲【ＨＳ】
+5864,Gold Cat GS Guard,金猫臂甲【ＧＳ】
+5865,Gold Cat GP Guard,金猫臂甲【ＧＰ】
+5866,Silver Cat FZ Arms,銀猫護腕【ＦＺ】
+5867,Silver Cat HS Arms,銀猫護腕【ＨＳ】
+5868,Silver Cat GS Arms,銀猫護腕【ＧＳ】
+5869,Silver Cat GP Arms,銀猫護腕【ＧＰ】
+5870,Silver Cat FZ Guard,銀猫臂甲【ＦＺ】
+5871,Silver Cat HS Guard,銀猫臂甲【ＨＳ】
+5872,Silver Cat GS Guard,銀猫臂甲【ＧＳ】
+5873,Silver Cat GP Guard,銀猫臂甲【ＧＰ】
+5874,Claire FZ Arms・Purple,克蕾爾護腕【ＦＺ】・紫
+5875,Claire HS Arms・Purple,克蕾爾護腕【ＨＳ】・紫
+5876,Claire GS Arms・Purple,克蕾爾護腕【ＧＳ】・紫
+5877,Claire GP Arms・Purple,克蕾爾護腕【ＧＰ】・紫
+5878,Claire FZ Guard・Purple,克蕾爾臂甲【ＦＺ】・紫
+5879,Claire HS Guard・Purple,克蕾爾臂甲【ＨＳ】・紫
+5880,Claire GS Guard・Purple,克蕾爾臂甲【ＧＳ】・紫
+5881,Claire GP Guard・Purple,克蕾爾臂甲【ＧＰ】・紫
+5882,Claire FZ Arms・Water,克蕾爾護腕【ＦＺ】・水
+5883,Claire HS Arms・Water,克蕾爾護腕【ＨＳ】・水
+5884,Claire GS Arms・Water,克蕾爾護腕【ＧＳ】・水
+5885,Claire GP Arms・Water,克蕾爾護腕【ＧＰ】・水
+5886,Claire FZ Guard・Water,克蕾爾臂甲【ＦＺ】・水
+5887,Claire HS Guard・Water,克蕾爾臂甲【ＨＳ】・水
+5888,Claire GS Guard・Water,克蕾爾臂甲【ＧＳ】・水
+5889,Claire GP Guard・Water,克蕾爾臂甲【ＧＰ】・水
+5890,Claire FZ Arms・Red,克蕾爾護腕【ＦＺ】・赤
+5891,Claire HS Arms・Red,克蕾爾護腕【ＨＳ】・赤
+5892,Claire GS Arms・Red,克蕾爾護腕【ＧＳ】・赤
+5893,Claire GP Arms・Red,克蕾爾護腕【ＧＰ】・赤
+5894,Claire FZ Guard・Red,克蕾爾臂甲【ＦＺ】・赤
+5895,Claire HS Guard・Red,克蕾爾臂甲【ＨＳ】・赤
+5896,Claire GS Guard・Red,克蕾爾臂甲【ＧＳ】・赤
+5897,Claire GP Guard・Red,克蕾爾臂甲【ＧＰ】・赤
+5898,Claire FZ Arms・Black,克蕾爾護腕【ＦＺ】・黑
+5899,Claire HS Arms・Black,克蕾爾護腕【ＨＳ】・黑
+5900,Claire GS Arms・Black,克蕾爾護腕【ＧＳ】・黑
+5901,Claire GP Arms・Black,克蕾爾護腕【ＧＰ】・黑
+5902,Claire FZ Guard・Black,克蕾爾臂甲【ＦＺ】・黑
+5903,Claire HS Guard・Black,克蕾爾臂甲【ＨＳ】・黑
+5904,Claire GS Guard・Black,克蕾爾臂甲【ＧＳ】・黑
+5905,Claire GP Guard・Black,克蕾爾臂甲【ＧＰ】・黑
 5906,Text HS Arms・Purple,文書護腕【ＨＳ】・紫
 5907,Text GS Arms・Purple,文書護腕【ＧＳ】・紫
 5908,Text GP Arms・Purple,文書護腕【ＧＰ】・紫
@@ -6057,12 +6057,12 @@ index,source,target
 6055,Maisto HS Guard・Pink,麥斯托臂甲【ＨＳ】・桃
 6056,Maisto GS Guard・Pink,麥斯托臂甲【ＧＳ】・桃
 6057,Maisto GP Guard・Pink,麥斯托臂甲【ＧＰ】・桃
-6058,Cayssis HS Arms Water,凱西斯水護腕【ＨＳ】
-6059,Cayssis GS Arms Water,凱西斯水護腕【ＧＳ】
-6060,Cayssis GP Arms Water,凱西斯水護腕【ＧＰ】
-6061,Cayssis HS Guard Water,凱西斯水臂甲【ＨＳ】
-6062,Cayssis GS Guard Water,凱西斯水臂甲【ＧＳ】
-6063,Cayssis GP Guard Water,凱西斯水臂甲【ＧＰ】
+6058,Cayssis HS Arms Water,凱西斯護腕【ＨＳ】・水
+6059,Cayssis GS Arms Water,凱西斯護腕【ＧＳ】・水
+6060,Cayssis GP Arms Water,凱西斯護腕【ＧＰ】・水
+6061,Cayssis HS Guard Water,凱西斯臂甲【ＨＳ】・水
+6062,Cayssis GS Guard Water,凱西斯臂甲【ＧＳ】・水
+6063,Cayssis GP Guard Water,凱西斯臂甲【ＧＰ】・水
 6064,Cayssis HS Arms Red,凱西斯護腕【ＨＳ】・赤
 6065,Cayssis GS Arms Red,凱西斯護腕【ＧＳ】・赤
 6066,Cayssis GP Arms Red,凱西斯護腕【ＧＰ】・赤
@@ -6143,8 +6143,8 @@ index,source,target
 6141,Galitos GP Guard・Red,加里托斯臂甲【ＧＰ】・赤
 6142,Galitos GP Arms・Black,加里托斯護腕【ＧＰ】・黑
 6143,Galitos GP Guard・Black,加里托斯臂甲【ＧＰ】・黑
-6144,Galitos GP Arms・Water,加里托斯水護腕【ＧＰ】
-6145,Galitos GP Guard・Water,加里托斯水臂甲【ＧＰ】
+6144,Galitos GP Arms・Water,加里托斯護腕【ＧＰ】・水
+6145,Galitos GP Guard・Water,加里托斯臂甲【ＧＰ】・水
 6146,Lien GP Arms・Blue,里恩護腕【ＧＰ】・青
 6147,Lien GP Guard・Blue,里恩臂甲【ＧＰ】・青
 6148,Lien GP Arms・Red,里恩護腕【ＧＰ】・赤
@@ -6265,10 +6265,10 @@ index,source,target
 6263,Suzaku・刀神GX Arms,朱雀護腕【ＧＸ】
 6264,Genbu・刀神GX Arms,玄武護腕【ＧＸ】
 6265,Seiryu・刀神GX Arms,青龍護腕【ＧＸ】
-6266,Byakko・Heaven 槍GX Arms,白虎護腕【ＧＸ】・天
-6267,Suzaku・Heaven 槍GX Arms,朱雀護腕【ＧＸ】・天
-6268,Genbu・Heaven 槍GX Arms,玄武護腕【ＧＸ】・天
-6269,Seiryu・Heaven 槍GX Arms,青龍護腕【ＧＸ】・天
+6266,Byakko・Heaven 槍GX Arms,白虎天護腕【ＧＸ】
+6267,Suzaku・Heaven 槍GX Arms,朱雀天護腕【ＧＸ】
+6268,Genbu・Heaven 槍GX Arms,玄武天護腕【ＧＸ】
+6269,Seiryu・Heaven 槍GX Arms,青龍天護腕【ＧＸ】
 6270,Byakko・砲皇GX Arms,白虎護腕【ＧＸ】
 6271,Suzaku・砲皇GX Arms,朱雀護腕【ＧＸ】
 6272,Genbu・砲皇GX Arms,玄武護腕【ＧＸ】
@@ -6487,10 +6487,10 @@ index,source,target
 6485,Gloria GP Arms・Blue,榮光護腕【ＧＰ】・青
 6486,Gloria GS Guard・Blue,榮光臂甲【ＧＳ】・青
 6487,Gloria GP Guard・Blue,榮光臂甲【ＧＰ】・青
-6488,Gloria GS Arms・Water,榮光水護腕【ＧＳ】
-6489,Gloria GP Arms・Water,榮光水護腕【ＧＰ】
-6490,Gloria GS Guard・Water,榮光水臂甲【ＧＳ】
-6491,Gloria GP Guard・Water,榮光水臂甲【ＧＰ】
+6488,Gloria GS Arms・Water,榮光護腕【ＧＳ】・水
+6489,Gloria GP Arms・Water,榮光護腕【ＧＰ】・水
+6490,Gloria GS Guard・Water,榮光臂甲【ＧＳ】・水
+6491,Gloria GP Guard・Water,榮光臂甲【ＧＰ】・水
 6492,Gloria GS Arms・Red,榮光護腕【ＧＳ】・赤
 6493,Gloria GP Arms・Red,榮光護腕【ＧＰ】・赤
 6494,Gloria GS Guard・Red,榮光臂甲【ＧＳ】・赤
@@ -6621,12 +6621,12 @@ index,source,target
 6619,旋転の Kote・HS,旋転の籠手【ＨＳ】
 6620,旋転の Kote・GS,旋転の籠手【ＧＳ】
 6621,旋転の Kote・GP,旋転の籠手【ＧＰ】
-6622,Rolling Sky Kote・HS,滾天籠手【ＨＳ】
-6623,Rolling Sky Kote・GS,滾天籠手【ＧＳ】
-6624,Rolling Sky Kote・GP,滾天籠手【ＧＰ】
-6625,Rolling Earth Kote・HS,滾地籠手【ＨＳ】・地
-6626,Rolling Earth Kote・GS,滾地籠手【ＧＳ】・地
-6627,Rolling Earth Kote・GP,滾地籠手【ＧＰ】・地
+6622,Rolling Sky Kote・HS,滾天籠手【ＨＳ】・天
+6623,Rolling Sky Kote・GS,滾天籠手【ＧＳ】・天
+6624,Rolling Sky Kote・GP,滾天籠手【ＧＰ】・天
+6625,Rolling Earth Kote・HS,滾地籠手【ＨＳ】
+6626,Rolling Earth Kote・GS,滾地籠手【ＧＳ】
+6627,Rolling Earth Kote・GP,滾地籠手【ＧＰ】
 6628,Latria HS Arms,崇敬護腕【ＨＳ】
 6629,Latria GS Arms,崇敬護腕【ＧＳ】
 6630,Latria GP Arms,崇敬護腕【ＧＰ】
@@ -6935,21 +6935,21 @@ index,source,target
 6933,Wind GFマカーン,風臂甲【ＧＦ】
 6934,武者GF【 Kote 】,武者籠手【Ｆ】
 6935,日光GF【 Kote 】,日光籠手【Ｆ】
-6936,White 蘭・Kensei Arms,蘭護腕・白
-6937,White 蘭・Kensei F Arms,蘭護腕【Ｆ】・白
-6938,White 蘭・Kensei FX Arms,蘭護腕【ＦＸ】・白
-6939,Crimson 霞・Kensei Arms,霞護腕・紅
-6940,Crimson 霞・Kensei F Arms,霞護腕【Ｆ】・紅
-6941,Crimson 霞・Kensei FX Arms,霞護腕【ＦＸ】・紅
-6942,White 蘭・Kensei G Arms,蘭護腕【Ｇ】・白
-6943,White 蘭・Kensei GF Arms,蘭護腕【ＧＦ】・白
-6944,White 蘭・Kensei GX Arms,蘭護腕【ＧＸ】・白
+6936,White 蘭・Kensei Arms,白蘭劍聖護腕
+6937,White 蘭・Kensei F Arms,白蘭劍聖護腕【Ｆ】
+6938,White 蘭・Kensei FX Arms,白蘭劍聖護腕【ＦＸ】
+6939,Crimson 霞・Kensei Arms,紅霞劍聖護腕
+6940,Crimson 霞・Kensei F Arms,紅霞劍聖護腕【Ｆ】
+6941,Crimson 霞・Kensei FX Arms,紅霞劍聖護腕【ＦＸ】
+6942,White 蘭・Kensei G Arms,白蘭劍聖護腕【Ｇ】
+6943,White 蘭・Kensei GF Arms,白蘭劍聖護腕【ＧＦ】
+6944,White 蘭・Kensei GX Arms,白蘭劍聖護腕【ＧＸ】
 6945,月夜・Kensei G Arms,月夜護腕【Ｇ】
 6946,月夜・Kensei GF Arms,月夜護腕【ＧＦ】
 6947,月夜・Kensei GX Arms,月夜護腕【ＧＸ】
-6948,Crimson 霞・Kensei G Arms,霞護腕【Ｇ】・紅
-6949,Crimson 霞・Kensei GF Arms,霞護腕【ＧＦ】・紅
-6950,Crimson 霞・Kensei GX Arms,霞護腕【ＧＸ】・紅
+6948,Crimson 霞・Kensei G Arms,紅霞劍聖護腕【Ｇ】
+6949,Crimson 霞・Kensei GF Arms,紅霞劍聖護腕【ＧＦ】
+6950,Crimson 霞・Kensei GX Arms,紅霞劍聖護腕【ＧＸ】
 6951,Green 穹・Kensei G Arms,穹護腕【Ｇ】・緑
 6952,Green 穹・Kensei GF Arms,穹護腕【ＧＦ】・緑
 6953,Green 穹・Kensei GX Arms,穹護腕【ＧＸ】・緑
@@ -7043,24 +7043,24 @@ index,source,target
 7041,Green 穹・奏帝G Arms,穹奏帝護腕・緑
 7042,Green 穹・奏帝GF Arms,穹奏帝護腕【Ｆ】・緑
 7043,Green 穹・奏帝GX Arms,穹奏帝護腕・緑
-7044,White 蘭・Heaven 槍 Arms,蘭槍護腕・白・天
-7045,White 蘭・Heaven 槍F Arms,蘭槍護腕【Ｆ】・白・天
-7046,White 蘭・Heaven 槍FX Arms,蘭槍護腕【ＦＸ】・白・天
-7047,Crimson 霞・Heaven 槍 Arms,霞槍護腕・紅・天
-7048,Crimson 霞・Heaven 槍F Arms,霞槍護腕【Ｆ】・紅・天
-7049,Crimson 霞・Heaven 槍FX Arms,霞槍護腕【ＦＸ】・紅・天
-7050,White 蘭・Heaven 槍G Arms,蘭槍護腕【Ｇ】・白・天
-7051,White 蘭・Heaven 槍GF Arms,蘭槍護腕【Ｆ】・白・天
-7052,White 蘭・Heaven 槍GX Arms,蘭槍護腕【ＧＸ】・白・天
+7044,White 蘭・Heaven 槍 Arms,蘭槍天護腕・白
+7045,White 蘭・Heaven 槍F Arms,蘭槍天護腕【Ｆ】・白
+7046,White 蘭・Heaven 槍FX Arms,蘭槍天護腕【ＦＸ】・白
+7047,Crimson 霞・Heaven 槍 Arms,霞槍天護腕・紅
+7048,Crimson 霞・Heaven 槍F Arms,霞槍天護腕【Ｆ】・紅
+7049,Crimson 霞・Heaven 槍FX Arms,霞槍天護腕【ＦＸ】・紅
+7050,White 蘭・Heaven 槍G Arms,蘭槍天護腕【Ｇ】・白
+7051,White 蘭・Heaven 槍GF Arms,蘭槍天護腕【Ｆ】・白
+7052,White 蘭・Heaven 槍GX Arms,蘭槍天護腕【ＧＸ】・白
 7053,月夜・Heaven 槍G Arms,月夜槍護腕・天
-7054,月夜・Heaven 槍GF Arms,月夜槍護腕【Ｆ】・天
+7054,月夜・Heaven 槍GF Arms,月夜槍天護腕【Ｆ】
 7055,月夜・Heaven 槍GX Arms,月夜槍護腕・天
-7056,Crimson 霞・Heaven 槍G Arms,霞槍護腕【Ｇ】・紅・天
-7057,Crimson 霞・Heaven 槍GF Arms,霞槍護腕【Ｆ】・紅・天
-7058,Crimson 霞・Heaven 槍GX Arms,霞槍護腕【ＧＸ】・紅・天
-7059,Green 穹・Heaven 槍G Arms,穹槍護腕・緑・天
-7060,Green 穹・Heaven 槍GF Arms,穹槍護腕【Ｆ】・緑・天
-7061,Green 穹・Heaven 槍GX Arms,穹槍護腕・緑・天
+7056,Crimson 霞・Heaven 槍G Arms,霞槍天護腕【Ｇ】・紅
+7057,Crimson 霞・Heaven 槍GF Arms,霞槍天護腕【Ｆ】・紅
+7058,Crimson 霞・Heaven 槍GX Arms,霞槍天護腕【ＧＸ】・紅
+7059,Green 穹・Heaven 槍G Arms,穹槍護腕緑・天
+7060,Green 穹・Heaven 槍GF Arms,穹槍天護腕【Ｆ】・緑
+7061,Green 穹・Heaven 槍GX Arms,穹槍護腕緑・天
 7062,White 蘭・砲皇 Arms,蘭砲皇護腕・白
 7063,White 蘭・砲皇F Arms,蘭砲皇護腕【Ｆ】・白
 7064,White 蘭・砲皇FX Arms,蘭砲皇護腕【ＦＸ】・白
@@ -7319,54 +7319,54 @@ index,source,target
 7317,Oyun HS Guard・White,歐雲臂甲【ＨＳ】・白
 7318,Oyun GS Guard・White,歐雲臂甲【ＧＳ】・白
 7319,Oyun GP Guard・White,歐雲臂甲【ＧＰ】・白
-7320,Ash Arms・Red,護腕・灰・赤
-7321,Ash F Arms・Red,護腕【Ｆ】・灰・赤
-7322,Ash FZ Arms・Red,護腕【ＦＺ】・灰・赤
-7323,Ash HS Arms・Red,護腕【ＨＳ】・灰・赤
-7324,Ash GS Arms・Red,護腕【ＧＳ】・灰・赤
-7325,Ash GP Arms・Red,護腕【ＧＰ】・灰・赤
-7326,Ash Guard・Red,臂甲・灰・赤
-7327,Ash F Guard・Red,臂甲【Ｆ】・灰・赤
-7328,Ash FZ Guard・Red,臂甲【ＦＺ】・灰・赤
-7329,Ash HS Guard・Red,臂甲【ＨＳ】・灰・赤
-7330,Ash GS Guard・Red,臂甲【ＧＳ】・灰・赤
-7331,Ash GP Guard・Red,臂甲【ＧＰ】・灰・赤
-7332,Ash Arms・Blue,護腕・灰・青
-7333,Ash F Arms・Blue,護腕【Ｆ】・灰・青
-7334,Ash FZ Arms・Blue,護腕【ＦＺ】・灰・青
-7335,Ash HS Arms・Blue,護腕【ＨＳ】・灰・青
-7336,Ash GS Arms・Blue,護腕【ＧＳ】・灰・青
-7337,Ash GP Arms・Blue,護腕【ＧＰ】・灰・青
-7338,Ash Guard・Blue,臂甲・灰・青
-7339,Ash F Guard・Blue,臂甲【Ｆ】・灰・青
-7340,Ash FZ Guard・Blue,臂甲【ＦＺ】・灰・青
-7341,Ash HS Guard・Blue,臂甲【ＨＳ】・灰・青
-7342,Ash GS Guard・Blue,臂甲【ＧＳ】・灰・青
-7343,Ash GP Guard・Blue,臂甲【ＧＰ】・灰・青
-7344,Ash Arms・White,護腕・灰・白
-7345,Ash F Arms・White,護腕【Ｆ】・灰・白
-7346,Ash FZ Arms・White,護腕【ＦＺ】・灰・白
-7347,Ash HS Arms・White,護腕【ＨＳ】・灰・白
-7348,Ash GS Arms・White,護腕【ＧＳ】・灰・白
-7349,Ash GP Arms・White,護腕【ＧＰ】・灰・白
-7350,Ash Guard・White,臂甲・灰・白
-7351,Ash F Guard・White,臂甲【Ｆ】・灰・白
-7352,Ash FZ Guard・White,臂甲【ＦＺ】・灰・白
-7353,Ash HS Guard・White,臂甲【ＨＳ】・灰・白
-7354,Ash GS Guard・White,臂甲【ＧＳ】・灰・白
-7355,Ash GP Guard・White,臂甲【ＧＰ】・灰・白
-7356,Ash Arms・Black,護腕・灰・黑
-7357,Ash F Arms・Black,護腕【Ｆ】・灰・黑
-7358,Ash FZ Arms・Black,護腕【ＦＺ】・灰・黑
-7359,Ash HS Arms・Black,護腕【ＨＳ】・灰・黑
-7360,Ash GS Arms・Black,護腕【ＧＳ】・灰・黑
-7361,Ash GP Arms・Black,護腕【ＧＰ】・灰・黑
-7362,Ash Guard・Black,臂甲・灰・黑
-7363,Ash F Guard・Black,臂甲【Ｆ】・灰・黑
-7364,Ash FZ Guard・Black,臂甲【ＦＺ】・灰・黑
-7365,Ash HS Guard・Black,臂甲【ＨＳ】・灰・黑
-7366,Ash GS Guard・Black,臂甲【ＧＳ】・灰・黑
-7367,Ash GP Guard・Black,臂甲【ＧＰ】・灰・黑
+7320,Ash Arms・Red,護腕灰・赤
+7321,Ash F Arms・Red,護腕【Ｆ】灰・赤
+7322,Ash FZ Arms・Red,護腕【ＦＺ】灰・赤
+7323,Ash HS Arms・Red,護腕【ＨＳ】灰・赤
+7324,Ash GS Arms・Red,護腕【ＧＳ】灰・赤
+7325,Ash GP Arms・Red,護腕【ＧＰ】灰・赤
+7326,Ash Guard・Red,臂甲灰・赤
+7327,Ash F Guard・Red,臂甲【Ｆ】灰・赤
+7328,Ash FZ Guard・Red,臂甲【ＦＺ】灰・赤
+7329,Ash HS Guard・Red,臂甲【ＨＳ】灰・赤
+7330,Ash GS Guard・Red,臂甲【ＧＳ】灰・赤
+7331,Ash GP Guard・Red,臂甲【ＧＰ】灰・赤
+7332,Ash Arms・Blue,護腕灰・青
+7333,Ash F Arms・Blue,護腕【Ｆ】灰・青
+7334,Ash FZ Arms・Blue,護腕【ＦＺ】灰・青
+7335,Ash HS Arms・Blue,護腕【ＨＳ】灰・青
+7336,Ash GS Arms・Blue,護腕【ＧＳ】灰・青
+7337,Ash GP Arms・Blue,護腕【ＧＰ】灰・青
+7338,Ash Guard・Blue,臂甲灰・青
+7339,Ash F Guard・Blue,臂甲【Ｆ】灰・青
+7340,Ash FZ Guard・Blue,臂甲【ＦＺ】灰・青
+7341,Ash HS Guard・Blue,臂甲【ＨＳ】灰・青
+7342,Ash GS Guard・Blue,臂甲【ＧＳ】灰・青
+7343,Ash GP Guard・Blue,臂甲【ＧＰ】灰・青
+7344,Ash Arms・White,護腕灰・白
+7345,Ash F Arms・White,護腕【Ｆ】灰・白
+7346,Ash FZ Arms・White,護腕【ＦＺ】灰・白
+7347,Ash HS Arms・White,護腕【ＨＳ】灰・白
+7348,Ash GS Arms・White,護腕【ＧＳ】灰・白
+7349,Ash GP Arms・White,護腕【ＧＰ】灰・白
+7350,Ash Guard・White,臂甲灰・白
+7351,Ash F Guard・White,臂甲【Ｆ】灰・白
+7352,Ash FZ Guard・White,臂甲【ＦＺ】灰・白
+7353,Ash HS Guard・White,臂甲【ＨＳ】灰・白
+7354,Ash GS Guard・White,臂甲【ＧＳ】灰・白
+7355,Ash GP Guard・White,臂甲【ＧＰ】灰・白
+7356,Ash Arms・Black,護腕灰・黑
+7357,Ash F Arms・Black,護腕【Ｆ】灰・黑
+7358,Ash FZ Arms・Black,護腕【ＦＺ】灰・黑
+7359,Ash HS Arms・Black,護腕【ＨＳ】灰・黑
+7360,Ash GS Arms・Black,護腕【ＧＳ】灰・黑
+7361,Ash GP Arms・Black,護腕【ＧＰ】灰・黑
+7362,Ash Guard・Black,臂甲灰・黑
+7363,Ash F Guard・Black,臂甲【Ｆ】灰・黑
+7364,Ash FZ Guard・Black,臂甲【ＦＺ】灰・黑
+7365,Ash HS Guard・Black,臂甲【ＨＳ】灰・黑
+7366,Ash GS Guard・Black,臂甲【ＧＳ】灰・黑
+7367,Ash GP Guard・Black,臂甲【ＧＰ】灰・黑
 7368,Pistis GP Arms,普伊斯伊護腕【ＧＰ】
 7369,Pistis GP Guard,普伊斯伊臂甲【ＧＰ】
 7370,Blink HS Arms,布伊恩護腕【ＨＳ】
@@ -8164,7 +8164,7 @@ index,source,target
 8162,Rios GX Guard,爾伊斯臂甲【ＧＸ】
 8163,Mist 【袖】,霧護腕
 8164,Mist F【袖】,霧護腕【Ｆ】
-8165,Mist FY【袖】,霧護腕
+8165,Mist FY【袖】,姆伊斯護腕
 8166,Mist HS【袖】,霧護腕【ＨＳ】
 8167,Mist G【袖】,霧護腕【Ｇ】
 8168,Mist GF【袖】,霧護腕【ＧＦ】
@@ -8188,9 +8188,9 @@ index,source,target
 8186,Noir G Arms,黑護腕【Ｇ】
 8187,Noir GF Arms,黑護腕【ＧＦ】
 8188,Noir GX Arms,黑護腕【ＧＸ】
-8189,Demon Lord Kote G,德艾姆歐籠手【Ｇ】
-8190,Demon Lord Kote GF,德艾姆歐籠手【ＧＦ】
-8191,Demon Lord Kote GX,德艾姆歐籠手【ＧＸ】
+8189,Demon Lord Kote G,魔王籠手【Ｇ】
+8190,Demon Lord Kote GF,魔王籠手【ＧＦ】
+8191,Demon Lord Kote GX,魔王籠手【ＧＸ】
 8192,童子ノ Kote G,童子籠手【Ｇ】
 8193,童子ノ Kote GF,童子籠手【ＧＦ】
 8194,童子ノ Kote GX,童子籠手【ＧＸ】
@@ -8308,12 +8308,12 @@ index,source,target
 8306,Bonito G Guard,布歐恩伊臂甲【Ｇ】
 8307,Bonito GF Guard,布歐恩伊臂甲【ＧＦ】
 8308,Bonito GX Guard,布歐恩伊臂甲【ＧＸ】
-8309,Silver Ruler G【 Kote 】,爾烏爾艾籠手【Ｇ】・銀
-8310,Silver Ruler GF【 Kote 】,爾烏爾艾籠手【ＧＦ】・銀
-8311,Silver Ruler GX【 Kote 】,爾烏爾艾籠手【ＧＸ】・銀
-8312,Silver Control G【 Kote 】,克歐恩歐籠手【Ｇ】・銀
-8313,Silver Control GF【 Kote 】,克歐恩歐籠手【ＧＦ】・銀
-8314,Silver Control GX【 Kote 】,克歐恩歐籠手【ＧＸ】・銀
+8309,Silver Ruler G【 Kote 】,銀統治籠手【Ｇ】
+8310,Silver Ruler GF【 Kote 】,銀統治籠手【ＧＦ】
+8311,Silver Ruler GX【 Kote 】,銀統治籠手【ＧＸ】
+8312,Silver Control G【 Kote 】,銀統御籠手【Ｇ】
+8313,Silver Control GF【 Kote 】,銀統御籠手【ＧＦ】
+8314,Silver Control GX【 Kote 】,銀統御籠手【ＧＸ】
 8315,Harudo Arms,司銀龍護腕
 8316,Harudo F Arms,司銀龍護腕【Ｆ】
 8317,Harudo FX Arms,司銀龍護腕【ＦＸ】
@@ -8638,21 +8638,21 @@ index,source,target
 8636,Magos GP Guard・Yellow,瑪戈斯臂甲【ＧＰ】・黄
 8637,Magos GP Arms・Red,瑪戈斯護腕【ＧＰ】・赤
 8638,Magos GP Guard・Red,瑪戈斯臂甲【ＧＰ】・赤
-8639,Magos GP Arms・Water,瑪戈斯水護腕【ＧＰ】
-8640,Magos GP Guard・Water,瑪戈斯水臂甲【ＧＰ】
+8639,Magos GP Arms・Water,瑪戈斯護腕【ＧＰ】・水
+8640,Magos GP Guard・Water,瑪戈斯臂甲【ＧＰ】・水
 8641,Magos GP Arms・Blue,瑪戈斯護腕【ＧＰ】・青
 8642,Magos GP Guard・Blue,瑪戈斯臂甲【ＧＰ】・青
-8643,Yukumo ノコテ・Heaven,結雲天護腕・天
-8644,Yukumo ノコテG・Heaven,結雲天護腕【Ｇ】・天
-8645,Yukumo ノコテGF・Heaven,結雲天護腕【Ｆ】・天
-8646,Yukumo ノコテGX・Heaven,結雲天護腕【ＧＸ】・天
+8643,Yukumo ノコテ・Heaven,結雲天護腕
+8644,Yukumo ノコテG・Heaven,結雲天護腕【Ｇ】
+8645,Yukumo ノコテGF・Heaven,結雲天護腕【Ｆ】
+8646,Yukumo ノコテGX・Heaven,結雲天護腕【ＧＸ】
 8647,Furogada G Arms,芙烏爾歐護腕【Ｇ】
 8648,Furogada GF Arms,芙烏爾歐護腕【ＧＦ】
 8649,Furogada GX Arms,芙烏爾歐護腕【ＧＸ】
-8650,Yukumo ノコテ・Earth,地護腕・地
-8651,Yukumo ノコテG・Earth,地護腕【Ｇ】・地
-8652,Yukumo ノコテGF・Earth,地護腕【Ｆ】・地
-8653,Yukumo ノコテGX・Earth,地護腕【ＧＸ】・地
+8650,Yukumo ノコテ・Earth,結雲地護腕
+8651,Yukumo ノコテG・Earth,結雲地護腕【Ｇ】
+8652,Yukumo ノコテGF・Earth,結雲地護腕【Ｆ】
+8653,Yukumo ノコテGX・Earth,結雲地護腕【ＧＸ】
 8654,Furogada G Guard,芙烏爾歐臂甲【Ｇ】
 8655,Furogada GF Guard,芙烏爾歐臂甲【ＧＦ】
 8656,Furogada GX Guard,芙烏爾歐臂甲【ＧＸ】
@@ -8824,8 +8824,8 @@ index,source,target
 8822,Pics GP Guard・Purple,皮克斯臂甲【ＧＰ】・紫
 8823,Pics GP Arms・Black,皮克斯護腕【ＧＰ】・黑
 8824,Pics GP Guard・Black,皮克斯臂甲【ＧＰ】・黑
-8825,Pics GP Arms・Water,皮克斯水護腕【ＧＰ】
-8826,Pics GP Guard・Water,皮克斯水臂甲【ＧＰ】
+8825,Pics GP Arms・Water,皮克斯護腕【ＧＰ】・水
+8826,Pics GP Guard・Water,皮克斯臂甲【ＧＰ】・水
 8827,ダミー,(dummy)
 8828,ダミー,(dummy)
 8829,Smart HS Arms,機靈護腕【ＨＳ】
@@ -9156,12 +9156,12 @@ index,source,target
 9154,Monodevil G Guard,單眼惡魔臂甲【Ｇ】
 9155,Monodevil GF Guard,單眼惡魔臂甲【ＧＦ】
 9156,Monodevil GX Guard,單眼惡魔臂甲【ＧＸ】
-9157,Black Diablos G Arms,角龍護腕【Ｇ】・黑
-9158,Black Diablos GF Arms,角龍護腕【ＧＦ】・黑
-9159,Black Diablos GX Arms,角龍護腕【ＧＸ】・黑
-9160,Black Diablos G Guard,角龍臂甲【Ｇ】・黑
-9161,Black Diablos GF Guard,角龍臂甲【ＧＦ】・黑
-9162,Black Diablos GX Guard,角龍臂甲【ＧＸ】・黑
+9157,Black Diablos G Arms,黑角龍護腕【Ｇ】
+9158,Black Diablos GF Arms,黑角龍護腕【ＧＦ】
+9159,Black Diablos GX Arms,黑角龍護腕【ＧＸ】
+9160,Black Diablos G Guard,黑角龍臂甲【Ｇ】
+9161,Black Diablos GF Guard,黑角龍臂甲【ＧＦ】
+9162,Black Diablos GX Guard,黑角龍臂甲【ＧＸ】
 9163,Wadatsumi GX [Sleeves 】,綿津見袖【ＧＸ】
 9164,Okami GX [Sleeves 】,狼袖【ＧＸ】
 9165,Odiva GX Arms,奧蒂瓦護腕【ＧＸ】
@@ -9248,12 +9248,12 @@ index,source,target
 9246,Raviente G Guard,大巖龍臂甲【Ｇ】
 9247,Raviente GF Guard,大巖龍臂甲【ＧＦ】
 9248,Raviente GX Guard,大巖龍臂甲【ＧＸ】
-9249,White Hypnoc G Arms,眠鳥護腕【Ｇ】・白
-9250,White Hypnoc GF Arms,眠鳥護腕【ＧＦ】・白
-9251,White Hypnoc GX Arms,眠鳥護腕【ＧＸ】・白
-9252,White Hypnoc G Guard,眠鳥臂甲【Ｇ】・白
-9253,White Hypnoc GF Guard,眠鳥臂甲【ＧＦ】・白
-9254,White Hypnoc GX Guard,眠鳥臂甲【ＧＸ】・白
+9249,White Hypnoc G Arms,白眠鳥護腕【Ｇ】
+9250,White Hypnoc GF Arms,白眠鳥護腕【ＧＦ】
+9251,White Hypnoc GX Arms,白眠鳥護腕【ＧＸ】
+9252,White Hypnoc G Guard,白眠鳥臂甲【Ｇ】
+9253,White Hypnoc GF Guard,白眠鳥臂甲【ＧＦ】
+9254,White Hypnoc GX Guard,白眠鳥臂甲【ＧＸ】
 9255,Vichi Arms,維奇護腕
 9256,Vichi F Arms,維奇護腕【Ｆ】
 9257,Vichi FZ Arms,維奇護腕【ＦＺ】
@@ -9355,13 +9355,13 @@ index,source,target
 9353,Plug GS Guard:02,插頭臂甲【ＧＳ】
 9354,Plug GP Guard:02,插頭臂甲【ＧＰ】
 9355,Mark.06 Arms,馬克06護腕
-9356,Mark.06F Arms,護腕
+9356,Mark.06F Arms,馬克06護腕
 9357,Mark.06FZ Arms,馬克06護腕【ＦＺ】
 9358,Mark.06HS Arms,馬克06護腕【ＨＳ】
 9359,Mark.06GS Arms,馬克06護腕【ＧＳ】
 9360,Mark.06GP Arms,馬克06護腕【ＧＰ】
 9361,Mark.06 Guard,馬克06臂甲
-9362,Mark.06F Guard,臂甲
+9362,Mark.06F Guard,馬克06臂甲
 9363,Mark.06FZ Guard,馬克06臂甲【ＦＺ】
 9364,Mark.06HS Guard,馬克06臂甲【ＨＳ】
 9365,Mark.06GS Guard,馬克06臂甲【ＧＳ】
@@ -9809,9 +9809,9 @@ index,source,target
 9807,スフレHS Guard,斯芙雷臂甲【ＨＳ】
 9808,スフレGS Guard,斯芙雷臂甲【ＧＳ】
 9809,スフレGP Guard,斯芙雷臂甲【ＧＰ】
-9810,Demon Tale Kote G,德艾姆歐籠手【Ｇ】
-9811,Demon Tale Kote GF,德艾姆歐籠手【ＧＦ】
-9812,Demon Tale Kote GX,德艾姆歐籠手【ＧＸ】
+9810,Demon Tale Kote G,魔譚籠手【Ｇ】
+9811,Demon Tale Kote GF,魔譚籠手【ＧＦ】
+9812,Demon Tale Kote GX,魔譚籠手【ＧＸ】
 9813,童伝ノ Kote G,童伝籠手【Ｇ】
 9814,童伝ノ Kote GF,童伝籠手【ＧＦ】
 9815,童伝ノ Kote GX,童伝籠手【ＧＸ】
@@ -10101,42 +10101,42 @@ index,source,target
 10099,Wasou Vambraces HS,和裝臂甲【ＨＳ】
 10100,Wasou Vambraces GS,和裝臂甲【ＧＳ】
 10101,Wasou Vambraces GP,和裝臂甲【ＧＰ】
-10102,Blue Ice Emperor Arms,冰帝護腕・青
-10103,Blue Ice Emperor F Arms,冰帝護腕【Ｆ】・青
-10104,Blue Ice Emperor FZ Arms,冰帝護腕【ＦＺ】・青
-10105,Blue Ice Emperor HS Arms,冰帝護腕【ＨＳ】・青
-10106,Blue Ice Emperor GS Arms,冰帝護腕【ＧＳ】・青
-10107,Blue Ice Emperor GP Arms,冰帝護腕【ＧＰ】・青
-10108,Blue Ice Emperor Guard,冰帝臂甲・青
-10109,Blue Ice Emperor F Guard,冰帝臂甲【Ｆ】・青
-10110,Blue Ice Emperor FZ Guard,冰帝臂甲【ＦＺ】・青
-10111,Blue Ice Emperor HS Guard,冰帝臂甲【ＨＳ】・青
-10112,Blue Ice Emperor GS Guard,冰帝臂甲【ＧＳ】・青
-10113,Blue Ice Emperor GP Guard,冰帝臂甲【ＧＰ】・青
-10114,White Ice Emperor Arms,冰帝護腕・白
-10115,White Ice Emperor F Arms,冰帝護腕【Ｆ】・白
-10116,White Ice Emperor FZ Arms,冰帝護腕【ＦＺ】・白
-10117,White Ice Emperor HS Arms,冰帝護腕【ＨＳ】・白
-10118,White Ice Emperor GS Arms,冰帝護腕【ＧＳ】・白
-10119,White Ice Emperor GP Arms,冰帝護腕【ＧＰ】・白
-10120,White Ice Emperor Guard,冰帝臂甲・白
-10121,White Ice Emperor F Guard,冰帝臂甲【Ｆ】・白
-10122,White Ice Emperor FZ Guard,冰帝臂甲【ＦＺ】・白
-10123,White Ice Emperor HS Guard,冰帝臂甲【ＨＳ】・白
-10124,White Ice Emperor GS Guard,冰帝臂甲【ＧＳ】・白
-10125,White Ice Emperor GP Guard,冰帝臂甲【ＧＰ】・白
-10126,Red Ice Emperor Arms,冰帝護腕・赤
-10127,Red Ice Emperor F Arms,冰帝護腕【Ｆ】・赤
-10128,Red Ice Emperor FZ Arms,冰帝護腕【ＦＺ】・赤
-10129,Red Ice Emperor HS Arms,冰帝護腕【ＨＳ】・赤
-10130,Red Ice Emperor GS Arms,冰帝護腕【ＧＳ】・赤
-10131,Red Ice Emperor GP Arms,冰帝護腕【ＧＰ】・赤
-10132,Red Ice Emperor Guard,冰帝臂甲・赤
-10133,Red Ice Emperor F Guard,冰帝臂甲【Ｆ】・赤
-10134,Red Ice Emperor FZ Guard,冰帝臂甲【ＦＺ】・赤
-10135,Red Ice Emperor HS Guard,冰帝臂甲【ＨＳ】・赤
-10136,Red Ice Emperor GS Guard,冰帝臂甲【ＧＳ】・赤
-10137,Red Ice Emperor GP Guard,冰帝臂甲【ＧＰ】・赤
+10102,Blue Ice Emperor Arms,青冰帝護腕
+10103,Blue Ice Emperor F Arms,青冰帝護腕【Ｆ】
+10104,Blue Ice Emperor FZ Arms,青冰帝護腕【ＦＺ】
+10105,Blue Ice Emperor HS Arms,青冰帝護腕【ＨＳ】
+10106,Blue Ice Emperor GS Arms,青冰帝護腕【ＧＳ】
+10107,Blue Ice Emperor GP Arms,青冰帝護腕【ＧＰ】
+10108,Blue Ice Emperor Guard,青冰帝臂甲
+10109,Blue Ice Emperor F Guard,青冰帝臂甲【Ｆ】
+10110,Blue Ice Emperor FZ Guard,青冰帝臂甲【ＦＺ】
+10111,Blue Ice Emperor HS Guard,青冰帝臂甲【ＨＳ】
+10112,Blue Ice Emperor GS Guard,青冰帝臂甲【ＧＳ】
+10113,Blue Ice Emperor GP Guard,青冰帝臂甲【ＧＰ】
+10114,White Ice Emperor Arms,白冰帝護腕
+10115,White Ice Emperor F Arms,白冰帝護腕【Ｆ】
+10116,White Ice Emperor FZ Arms,白冰帝護腕【ＦＺ】
+10117,White Ice Emperor HS Arms,白冰帝護腕【ＨＳ】
+10118,White Ice Emperor GS Arms,白冰帝護腕【ＧＳ】
+10119,White Ice Emperor GP Arms,白冰帝護腕【ＧＰ】
+10120,White Ice Emperor Guard,白冰帝臂甲
+10121,White Ice Emperor F Guard,白冰帝臂甲【Ｆ】
+10122,White Ice Emperor FZ Guard,白冰帝臂甲【ＦＺ】
+10123,White Ice Emperor HS Guard,白冰帝臂甲【ＨＳ】
+10124,White Ice Emperor GS Guard,白冰帝臂甲【ＧＳ】
+10125,White Ice Emperor GP Guard,白冰帝臂甲【ＧＰ】
+10126,Red Ice Emperor Arms,赤冰帝護腕
+10127,Red Ice Emperor F Arms,赤冰帝護腕【Ｆ】
+10128,Red Ice Emperor FZ Arms,赤冰帝護腕【ＦＺ】
+10129,Red Ice Emperor HS Arms,赤冰帝護腕【ＨＳ】
+10130,Red Ice Emperor GS Arms,赤冰帝護腕【ＧＳ】
+10131,Red Ice Emperor GP Arms,赤冰帝護腕【ＧＰ】
+10132,Red Ice Emperor Guard,赤冰帝臂甲
+10133,Red Ice Emperor F Guard,赤冰帝臂甲【Ｆ】
+10134,Red Ice Emperor FZ Guard,赤冰帝臂甲【ＦＺ】
+10135,Red Ice Emperor HS Guard,赤冰帝臂甲【ＨＳ】
+10136,Red Ice Emperor GS Guard,赤冰帝臂甲【ＧＳ】
+10137,Red Ice Emperor GP Guard,赤冰帝臂甲【ＧＰ】
 10138,Taruta Arms,特阿爾烏護腕
 10139,Taruta F Arms,特阿爾烏護腕【Ｆ】
 10140,Taruta FZ Arms,特阿爾烏護腕【ＦＺ】
@@ -10434,12 +10434,12 @@ index,source,target
 10432,Evol D Arms・Purple,艾芙歐爾護腕・紫
 10433,狩衛部隊 Arms・男,狩衛部隊男護腕
 10434,狩衛部隊 Arms・女,狩衛部隊女護腕
-10435,Blue Ice Emperor ZP Arms,冰帝護腕【ＺＰ】・青
-10436,Blue Ice Emperor ZP Guard,冰帝臂甲【ＺＰ】・青
-10437,White Ice Emperor ZP Arms,冰帝護腕【ＺＰ】・白
-10438,White Ice Emperor ZP Guard,冰帝臂甲【ＺＰ】・白
-10439,Red Ice Emperor ZP Arms,冰帝護腕【ＺＰ】・赤
-10440,Red Ice Emperor ZP Guard,冰帝臂甲【ＺＰ】・赤
+10435,Blue Ice Emperor ZP Arms,青冰帝護腕【ＺＰ】
+10436,Blue Ice Emperor ZP Guard,青冰帝臂甲【ＺＰ】
+10437,White Ice Emperor ZP Arms,白冰帝護腕【ＺＰ】
+10438,White Ice Emperor ZP Guard,白冰帝臂甲【ＺＰ】
+10439,Red Ice Emperor ZP Arms,赤冰帝護腕【ＺＰ】
+10440,Red Ice Emperor ZP Guard,赤冰帝臂甲【ＺＰ】
 10441,Wander Arms・Blue,流浪護腕・青
 10442,Wander F Arms・Blue,流浪護腕【Ｆ】・青
 10443,Wander FZ Arms・Blue,流浪護腕【ＦＺ】・青
@@ -10644,9 +10644,9 @@ index,source,target
 10642,Wander D Arms・Red,沃阿恩艾護腕・赤
 10643,Wander D Arms・White,沃阿恩艾護腕・白
 10644,Wander D Arms・Black,沃阿恩艾護腕・黑
-10645,Blue Ice Emperor D Arms,伊克艾斯護腕・青
-10646,White Ice Emperor D Arms,伊克艾斯護腕・白
-10647,Red Ice Emperor D Arms,伊克艾斯護腕・赤
+10645,Blue Ice Emperor D Arms,青冰帝護腕
+10646,White Ice Emperor D Arms,白冰帝護腕
+10647,Red Ice Emperor D Arms,赤冰帝護腕
 10648,Rance C Arms,爾阿恩艾護腕
 10649,Santa D Arms,斯阿恩阿護腕
 10650,Anteka Dグローブ,雪鹿手套
@@ -10685,9 +10685,9 @@ index,source,target
 10683,Farunokku D Guard,芙阿爾烏臂甲
 10684,Pokara D Arms,普歐克阿護腕
 10685,Pokara D Guard,普歐克阿臂甲
-10686,Genesis D【手袋】,創世護腕
-10687,Motion D【手袋】,律動護腕
-10688,Lightning D【 Kote 】,爾伊格伊籠手
+10686,Genesis D【手袋】,格艾恩艾護腕
+10687,Motion D【手袋】,姆歐特伊護腕
+10688,Lightning D【 Kote 】,雷光籠手
 10689,Thunder D【 Kote 】,雷籠手
 10690,Toridcless D Arms,特歐爾伊護腕
 10691,Toridcless D Guard,特歐爾伊臂甲
@@ -10783,7 +10783,7 @@ index,source,target
 10781,Two-tone D Arms,特歐斯歐護腕
 10782,King Beetle D Brachia,克伊恩艾臂甲
 10783,Butterfly D Brachia,布烏特艾臂甲
-10784,Demon Lord Kote D,德艾姆歐籠手
+10784,Demon Lord Kote D,魔王籠手
 10785,Demon Tale Kote D,德艾姆歐籠手
 10786,鬼凛ノ Kote D,德籠手
 10787,Empress C Arms,女帝護腕
@@ -10795,7 +10795,7 @@ index,source,target
 10793,Nargacuga C Arms,恩阿爾阿護腕
 10794,Nargacuga C Guard,恩阿爾阿臂甲
 10795,Burning Cliff GX [Kote 】,燃崖籠手【ＧＸ】
-10796,Crimson Cliff GX [Kote 】,崖籠手【ＧＸ】・紅
+10796,Crimson Cliff GX [Kote 】,深紅崖籠手【ＧＸ】
 10797,Vashimu Z Arms,尾晶蠍護腕【Ｚ】
 10798,Vashimu ZF Arms,尾晶蠍護腕【ＺＦ】
 10799,Vashimu ZY Arms,尾晶蠍護腕【ＺＹ】
@@ -10952,19 +10952,19 @@ index,source,target
 10950,Lucchese D Arms,爾烏克艾護腕
 10951,Entora D Arms,艾恩歐爾護腕
 10952,YoRHa No.9 Type S Arms,寄葉九號型護腕【Ｓ】
-10953,YoRHa No.9 Type S F Arms,寄葉九號型護腕【Ｓ】【Ｆ】
-10954,YoRHa No.9 Type S FZ Arms,寄葉九號型護腕【Ｓ】【ＦＺ】
-10955,YoRHa No.9 Type S HS Arms,寄葉九號型護腕【Ｓ】【ＨＳ】
-10956,YoRHa No.9 Type S GS Arms,寄葉九號型護腕【Ｓ】【ＧＳ】
-10957,YoRHa No.9 Type S GP Arms,寄葉九號型護腕【Ｓ】【ＧＰ】
-10958,YoRHa No.9 Type S ZP Arms,寄葉九號型護腕【Ｓ】【ＺＰ】
+10953,YoRHa No.9 Type S F Arms,寄葉九號型護腕【Ｆ】
+10954,YoRHa No.9 Type S FZ Arms,寄葉九號型護腕【ＦＺ】
+10955,YoRHa No.9 Type S HS Arms,寄葉九號型護腕【ＨＳ】
+10956,YoRHa No.9 Type S GS Arms,寄葉九號型護腕【ＧＳ】
+10957,YoRHa No.9 Type S GP Arms,寄葉九號型護腕【ＧＰ】
+10958,YoRHa No.9 Type S ZP Arms,寄葉九號型護腕【ＺＰ】
 10959,YoRHa No.9 Type S Guard,寄葉九號型臂甲【Ｓ】
-10960,YoRHa No.9 Type S F Guard,寄葉九號型臂甲【Ｓ】【Ｆ】
-10961,YoRHa No.9 Type S FZ Guard,寄葉九號型臂甲【Ｓ】【ＦＺ】
-10962,YoRHa No.9 Type S HS Guard,寄葉九號型臂甲【Ｓ】【ＨＳ】
-10963,YoRHa No.9 Type S GS Guard,寄葉九號型臂甲【Ｓ】【ＧＳ】
-10964,YoRHa No.9 Type S GP Guard,寄葉九號型臂甲【Ｓ】【ＧＰ】
-10965,YoRHa No.9 Type S ZP Guard,寄葉九號型臂甲【Ｓ】【ＺＰ】
+10960,YoRHa No.9 Type S F Guard,寄葉九號型臂甲【Ｆ】
+10961,YoRHa No.9 Type S FZ Guard,寄葉九號型臂甲【ＦＺ】
+10962,YoRHa No.9 Type S HS Guard,寄葉九號型臂甲【ＨＳ】
+10963,YoRHa No.9 Type S GS Guard,寄葉九號型臂甲【ＧＳ】
+10964,YoRHa No.9 Type S GP Guard,寄葉九號型臂甲【ＧＰ】
+10965,YoRHa No.9 Type S ZP Guard,寄葉九號型臂甲【ＺＰ】
 10966,YoRHa No.2 Type B Arms,寄葉二號Ｂ型護腕
 10967,YoRHa No.2 Type B F Arms,寄葉二號Ｂ型護腕【Ｆ】
 10968,YoRHa No.2 Type B FZ Arms,寄葉二號Ｂ型護腕【ＦＺ】
@@ -11101,14 +11101,14 @@ index,source,target
 11099,Akahara Reisou GN Arms D Blue,阿克阿赫護腕・青
 11100,Akahara Reisou GN Arms D Black,阿克阿赫護腕・黑
 11101,Akahara Reisou GN Arms D White,阿克阿赫護腕・白
-11102,Knight King Arms BM D Blue,克伊格伊護腕・青
-11103,Knight King Arms BM D Red,克伊格伊護腕・赤
-11104,Knight King Arms BM D Black,克伊格伊護腕・黑
-11105,Knight King Arms BM D White,克伊格伊護腕・白
-11106,Hero King Arms BM D Gold,赫艾爾歐護腕・金
-11107,Hero King Arms BM D Black,赫艾爾歐護腕・黑
-11108,Hero King Arms BM D White,赫艾爾歐護腕・白
-11109,Hero King Arms BM D Red,赫艾爾歐護腕・赤
+11102,Knight King Arms BM D Blue,騎士王護腕・青
+11103,Knight King Arms BM D Red,騎士王護腕・赤
+11104,Knight King Arms BM D Black,騎士王護腕・黑
+11105,Knight King Arms BM D White,騎士王護腕・白
+11106,Hero King Arms BM D Gold,英雄王護腕・金
+11107,Hero King Arms BM D Black,英雄王護腕・黑
+11108,Hero King Arms BM D White,英雄王護腕・白
+11109,Hero King Arms BM D Red,英雄王護腕・赤
 11110,Gorgon D Arms・Black,格歐爾歐護腕・黑
 11111,Gorgon D Arms・Blue,格歐爾歐護腕・青
 11112,Gorgon D Arms・White,格歐爾歐護腕・白
@@ -11183,13 +11183,13 @@ index,source,target
 11181,Twin Star GS Arms,雙星護腕【ＧＳ】
 11182,Twin Star GP Arms,雙星護腕【ＧＰ】
 11183,Twin Star ZP Arms,雙星護腕【ＺＰ】
-11184,Heaven Blade Arms,天刃護腕・天
-11185,Heaven Blade F Arms,天刃護腕【Ｆ】・天
-11186,Heaven Blade FZ Arms,天刃護腕【ＦＺ】・天
-11187,Heaven Blade HS Arms,天刃護腕【ＨＳ】・天
-11188,Heaven Blade GS Arms,天刃護腕【ＧＳ】・天
-11189,Heaven Blade GP Arms,天刃護腕【ＧＰ】・天
-11190,Heaven Blade ZP Arms,天刃護腕【ＺＰ】・天
+11184,Heaven Blade Arms,天刃護腕
+11185,Heaven Blade F Arms,天刃護腕【Ｆ】
+11186,Heaven Blade FZ Arms,天刃護腕【ＦＺ】
+11187,Heaven Blade HS Arms,天刃護腕【ＨＳ】
+11188,Heaven Blade GS Arms,天刃護腕【ＧＳ】
+11189,Heaven Blade GP Arms,天刃護腕【ＧＰ】
+11190,Heaven Blade ZP Arms,天刃護腕【ＺＰ】
 11191,Spring Sword Arms,斯伊恩歐護腕
 11192,Spring Sword F Arms,斯伊恩歐護腕【Ｆ】
 11193,Spring Sword FZ Arms,斯伊恩歐護腕【ＦＺ】
@@ -11225,13 +11225,13 @@ index,source,target
 11223,Scream Lance GS Arms,斯艾姆阿護腕【ＧＳ】
 11224,Scream Lance GP Arms,斯艾姆阿護腕【ＧＰ】
 11225,Scream Lance ZP Arms,斯艾姆阿護腕【ＺＰ】
-11226,Piercing Light Arms,普伊爾伊護腕
-11227,Piercing Light F Arms,普伊爾伊護腕【Ｆ】
-11228,Piercing Light FZ Arms,普伊爾伊護腕【ＦＺ】
-11229,Piercing Light HS Arms,普伊爾伊護腕【ＨＳ】
-11230,Piercing Light GS Arms,普伊爾伊護腕【ＧＳ】
-11231,Piercing Light GP Arms,普伊爾伊護腕【ＧＰ】
-11232,Piercing Light ZP Arms,普伊爾伊護腕【ＺＰ】
+11226,Piercing Light Arms,貫光護腕
+11227,Piercing Light F Arms,貫光護腕【Ｆ】
+11228,Piercing Light FZ Arms,貫光護腕【ＦＺ】
+11229,Piercing Light HS Arms,貫光護腕【ＨＳ】
+11230,Piercing Light GS Arms,貫光護腕【ＧＳ】
+11231,Piercing Light GP Arms,貫光護腕【ＧＰ】
+11232,Piercing Light ZP Arms,貫光護腕【ＺＰ】
 11233,Colour Axe Arms,克歐爾歐護腕
 11234,Colour Axe F Arms,克歐爾歐護腕【Ｆ】
 11235,Colour Axe FZ Arms,克歐爾歐護腕【ＦＺ】
@@ -11253,13 +11253,13 @@ index,source,target
 11251,Crush Gun GS Guard,克烏夏烏臂甲【ＧＳ】
 11252,Crush Gun GP Guard,克烏夏烏臂甲【ＧＰ】
 11253,Crush Gun ZP Guard,克烏夏烏臂甲【ＺＰ】
-11254,Bow Saint Guard,布歐沃阿臂甲
-11255,Bow Saint F Guard,布歐沃阿臂甲【Ｆ】
-11256,Bow Saint FZ Guard,布歐沃阿臂甲【ＦＺ】
-11257,Bow Saint HS Guard,布歐沃阿臂甲【ＨＳ】
-11258,Bow Saint GS Guard,布歐沃阿臂甲【ＧＳ】
-11259,Bow Saint GP Guard,布歐沃阿臂甲【ＧＰ】
-11260,Bow Saint ZP Guard,布歐沃阿臂甲【ＺＰ】
+11254,Bow Saint Guard,斯阿恩臂甲
+11255,Bow Saint F Guard,斯阿恩臂甲【Ｆ】
+11256,Bow Saint FZ Guard,斯阿恩臂甲【ＦＺ】
+11257,Bow Saint HS Guard,斯阿恩臂甲【ＨＳ】
+11258,Bow Saint GS Guard,斯阿恩臂甲【ＧＳ】
+11259,Bow Saint GP Guard,斯阿恩臂甲【ＧＰ】
+11260,Bow Saint ZP Guard,斯阿恩臂甲【ＺＰ】
 11261,Rantana Arms,蘭塔納護腕
 11262,Rantana F Arms,蘭塔納護腕【Ｆ】
 11263,Rantana FZ Arms,蘭塔納護腕【ＦＺ】
@@ -11539,7 +11539,7 @@ index,source,target
 11537,Scholar C Claws,施歐爾阿爪
 11538,Aelucanth C Brachia,阿爾烏克臂甲
 11539,Rhopessa C Brachia,爾歐普艾臂甲
-11540,Yukumo ノコテC・Heaven,結雲天護腕・天
+11540,Yukumo ノコテC・Heaven,結雲天護腕
 11541,White 蘭D Arms,蘭護腕・白
 11542,Crimson 霞D Arms,霞護腕・紅
 11543,Demonclad Kote D,德艾姆歐籠手
@@ -11556,19 +11556,19 @@ index,source,target
 11554,Vulcan Dフィスト,火山拳
 11555,Vulcan GDクロウ,火山爪
 11556,Vulcan GDフィスト,火山拳
-11557,Garnet D Arms,格阿爾艾護腕
-11558,Amethyst D Arms,阿姆艾斯護腕
-11559,Coral D Arms,克歐爾阿護腕
-11560,Quartz D Arms,斯烏爾護腕
-11561,Emerald D Arms,艾姆艾爾護腕
-11562,Pearl D Arms,普艾爾護腕
-11563,Ruby D Arms,爾烏布護腕
-11564,Sapphire D Arms,斯阿普伊護腕
-11565,Topaz D Guard,特歐普阿臂甲
-11566,Tourmaline D Guard,特歐爾阿臂甲
-11567,Lapis D Guard,爾阿普伊臂甲
-11568,Hisui D Arms,赫伊斯烏護腕
-11569,Onyx D Arms,歐恩護腕
+11557,Garnet D Arms,石榴石護腕
+11558,Amethyst D Arms,紫水晶護腕
+11559,Coral D Arms,珊瑚護腕
+11560,Quartz D Arms,石英護腕
+11561,Emerald D Arms,祖母緑護腕
+11562,Pearl D Arms,珍珠護腕
+11563,Ruby D Arms,紅寶石護腕
+11564,Sapphire D Arms,藍寶石護腕
+11565,Topaz D Guard,黄玉臂甲
+11566,Tourmaline D Guard,電氣石臂甲
+11567,Lapis D Guard,青金石臂甲
+11568,Hisui D Arms,翡翠護腕
+11569,Onyx D Arms,縞瑪瑙護腕
 11570,Veloci Hands D,藍速龍手甲
 11571,Gen Hands D,格艾恩手甲
 11572,Io Hands D,伊斯手甲
@@ -11599,7 +11599,7 @@ index,source,target
 11597,Shourou 【上手】D,夏歐爾歐上手
 11598,Mitama 【上手】D,姆伊特阿上手
 11599,Burning Cliff D [Kote 】,布烏爾伊籠手
-11600,Crimson Cliff D [Kote 】,克伊芙籠手・紅
+11600,Crimson Cliff D [Kote 】,深紅崖籠手
 11601,Ledia D Arms,爾艾德伊護腕
 11602,White Snake Sleeve D,白蛇袖
 11603,Black Tiger Sleeve D,黑虎袖
@@ -11608,7 +11608,7 @@ index,source,target
 11606,Blue Sky Sleeve D,蒼天袖
 11607,Noon Glow Sleeve D,恩歐恩歐袖
 11608,Kosho D [Sleeve 】,克歐夏歐袖
-11609,True Shadow Sleeve D,特烏斯阿袖
+11609,True Shadow Sleeve D,真影袖
 11610,Furogada D Arms,芙烏爾歐護腕
 11611,Lars D Arms,爾阿爾護腕
 11612,Donru D Arms,德歐恩烏護腕
@@ -11639,10 +11639,10 @@ index,source,target
 11637,Tempest G【袂】,暴風雨袂【Ｇ】
 11638,Tempest GF【袂】,暴風雨袂【ＧＦ】
 11639,Tempest GX【袂】,暴風雨袂【ＧＸ】
-11640,Welkin 【袂】,蒼穹袂
-11641,Welkin G【袂】,蒼穹袂【Ｇ】
-11642,Welkin GF【袂】,蒼穹袂【ＧＦ】
-11643,Welkin GX【袂】,蒼穹袂【ＧＸ】
+11640,Welkin 【袂】,穹蒼袂
+11641,Welkin G【袂】,穹蒼袂【Ｇ】
+11642,Welkin GF【袂】,穹蒼袂【ＧＦ】
+11643,Welkin GX【袂】,穹蒼袂【ＧＸ】
 11644,Levin Arms,雷霆護腕
 11645,Levin F Arms,雷霆護腕【Ｆ】
 11646,Levin FZ Arms,雷霆護腕【ＦＺ】
@@ -11657,20 +11657,20 @@ index,source,target
 11655,Levin GS Guard,雷霆臂甲【ＧＳ】
 11656,Levin GP Guard,雷霆臂甲【ＧＰ】
 11657,Levin ZP Guard,雷霆臂甲【ＺＰ】
-11658,Silver Armour・Kote,甲冑籠手・銀
-11659,Silver Armour F・Kote,甲冑籠手【Ｆ】・銀
-11660,Silver Armour FZ・Kote,甲冑籠手【ＦＺ】・銀
-11661,Silver Armour HS・Kote,甲冑籠手【ＨＳ】・銀
-11662,Silver Armour GS・Kote,甲冑籠手【ＧＳ】・銀
-11663,Silver Armour GP・Kote,甲冑籠手【ＧＰ】・銀
-11664,Silver Armour ZP・Kote,甲冑籠手【ＺＰ】・銀
-11665,Silver Armour・Gauntlets,甲冑手甲・銀
-11666,Silver Armour F・Gauntlets,甲冑手甲【Ｆ】・銀
-11667,Silver Armour FZ・Gauntlets,甲冑手甲【ＦＺ】・銀
-11668,Silver Armour HS・Gauntlets,甲冑手甲【ＨＳ】・銀
-11669,Silver Armour GS・Gauntlets,甲冑手甲【ＧＳ】・銀
-11670,Silver Armour GP・Gauntlets,甲冑手甲【ＧＰ】・銀
-11671,Silver Armour ZP・Gauntlets,甲冑手甲【ＺＰ】・銀
+11658,Silver Armour・Kote,銀甲冑籠手
+11659,Silver Armour F・Kote,銀甲冑籠手【Ｆ】
+11660,Silver Armour FZ・Kote,銀甲冑籠手【ＦＺ】
+11661,Silver Armour HS・Kote,銀甲冑籠手【ＨＳ】
+11662,Silver Armour GS・Kote,銀甲冑籠手【ＧＳ】
+11663,Silver Armour GP・Kote,銀甲冑籠手【ＧＰ】
+11664,Silver Armour ZP・Kote,銀甲冑籠手【ＺＰ】
+11665,Silver Armour・Gauntlets,銀甲冑手甲
+11666,Silver Armour F・Gauntlets,銀甲冑手甲【Ｆ】
+11667,Silver Armour FZ・Gauntlets,銀甲冑手甲【ＦＺ】
+11668,Silver Armour HS・Gauntlets,銀甲冑手甲【ＨＳ】
+11669,Silver Armour GS・Gauntlets,銀甲冑手甲【ＧＳ】
+11670,Silver Armour GP・Gauntlets,銀甲冑手甲【ＧＰ】
+11671,Silver Armour ZP・Gauntlets,銀甲冑手甲【ＺＰ】
 11672,Rose Ball Gown・Sleeve,薔薇禮服袖
 11673,Rose Ball Gown F・Sleeve,薔薇禮服袖【Ｆ】
 11674,Rose Ball Gown FZ・Sleeve,薔薇禮服袖【ＦＺ】
@@ -11761,7 +11761,7 @@ index,source,target
 11759,Tempest C【袂】,特艾姆艾袂
 11760,Welkin C【袂】,沃艾爾伊袂
 11761,Levin D Arms,爾艾芙伊護腕
-11762,Silver Armour D・Kote,阿爾歐爾籠手・銀
+11762,Silver Armour D・Kote,銀甲冑籠手
 11763,Rose Ball Gown D・Sleeve,爾歐斯艾袖
 11764,Shui D Arms,夏烏斯護腕
 11765,CE Kevlar D BM Arms Blue,克艾斯艾護腕・青
@@ -11930,20 +11930,20 @@ index,source,target
 11928,Holy Maiden Armor GS・Feathers,聖女鎧羽護腕【ＧＳ】
 11929,Holy Maiden Armor GP・Feathers,聖女鎧羽護腕【ＧＰ】
 11930,Holy Maiden Armor ZP・Feathers,聖女鎧羽護腕【ＺＰ】
-11931,Dragon Slayer Armor・Kote,德阿格歐籠手
-11932,Dragon Slayer Armor F・Kote,德阿格歐籠手【Ｆ】
-11933,Dragon Slayer Armor FZ・Kote,德阿格歐籠手【ＦＺ】
-11934,Dragon Slayer Armor HS・Kote,德阿格歐籠手【ＨＳ】
-11935,Dragon Slayer Armor GS・Kote,德阿格歐籠手【ＧＳ】
-11936,Dragon Slayer Armor GP・Kote,德阿格歐籠手【ＧＰ】
-11937,Dragon Slayer Armor ZP・Kote,德阿格歐籠手【ＺＰ】
-11938,Dragon Slayer Armor・Gauntlets,德阿格歐手甲
-11939,Dragon Slayer Armor F・Gauntlets,德阿格歐手甲【Ｆ】
-11940,Dragon Slayer Armor FZ・Gauntlets,德阿格歐手甲【ＦＺ】
-11941,Dragon Slayer Armor HS・Gauntlets,德阿格歐手甲【ＨＳ】
-11942,Dragon Slayer Armor GS・Gauntlets,德阿格歐手甲【ＧＳ】
-11943,Dragon Slayer Armor GP・Gauntlets,德阿格歐手甲【ＧＰ】
-11944,Dragon Slayer Armor ZP・Gauntlets,德阿格歐手甲【ＺＰ】
+11931,Dragon Slayer Armor・Kote,屠龍籠手
+11932,Dragon Slayer Armor F・Kote,屠龍籠手【Ｆ】
+11933,Dragon Slayer Armor FZ・Kote,屠龍籠手【ＦＺ】
+11934,Dragon Slayer Armor HS・Kote,屠龍籠手【ＨＳ】
+11935,Dragon Slayer Armor GS・Kote,屠龍籠手【ＧＳ】
+11936,Dragon Slayer Armor GP・Kote,屠龍籠手【ＧＰ】
+11937,Dragon Slayer Armor ZP・Kote,屠龍籠手【ＺＰ】
+11938,Dragon Slayer Armor・Gauntlets,屠龍手甲
+11939,Dragon Slayer Armor F・Gauntlets,屠龍手甲【Ｆ】
+11940,Dragon Slayer Armor FZ・Gauntlets,屠龍手甲【ＦＺ】
+11941,Dragon Slayer Armor HS・Gauntlets,屠龍手甲【ＨＳ】
+11942,Dragon Slayer Armor GS・Gauntlets,屠龍手甲【ＧＳ】
+11943,Dragon Slayer Armor GP・Gauntlets,屠龍手甲【ＧＰ】
+11944,Dragon Slayer Armor ZP・Gauntlets,屠龍手甲【ＺＰ】
 11945,Rebellion Armour・Kote,爾艾布艾籠手
 11946,Rebellion Armour F・Kote,爾艾布艾籠手【Ｆ】
 11947,Rebellion Armour FZ・Kote,爾艾布艾籠手【ＦＺ】
@@ -11980,7 +11980,7 @@ index,source,target
 11978,Training Corps D Arms,特阿恩伊護腕
 11979,Twelve Paladins' Armor D・Kote,特艾爾艾籠手
 11980,Holy Maiden Armor D・Sleeve,赫歐爾阿袖
-11981,Dragon Slayer Armor D・Kote,龍籠手
+11981,Dragon Slayer Armor D・Kote,屠龍籠手
 11982,Rebellion Armour D・Kote,爾艾布艾籠手
 11983,Dinato D Arms,德伊恩阿護腕
 11984,Duque D Arms,德烏斯烏護腕
@@ -12017,9 +12017,9 @@ index,source,target
 12015,High Metal Arms PD Black,上位金屬護腕【ＰＤ】・黑
 12016,High Metal Arms PD Blue,上位金屬護腕【ＰＤ】・青
 12017,High Metal Arms PD Yellow,上位金屬護腕【ＰＤ】・黄
-12018,S・Sol Arms PD Red,日護腕【Ｓ】【ＰＤ】・赤
-12019,S・Sol Arms PD Purple,日護腕【Ｓ】【ＰＤ】・紫
-12020,S・Sol Arms PD Black,日護腕【Ｓ】【ＰＤ】・黑
+12018,S・Sol Arms PD Red,S索倫護腕【ＰＤ】・赤
+12019,S・Sol Arms PD Purple,S索倫護腕【ＰＤ】・紫
+12020,S・Sol Arms PD Black,S索倫護腕【ＰＤ】・黑
 12021,Garuga Guard PD White,黑狼鳥臂甲【ＰＤ】・白
 12022,Garuga Guard PD Green,黑狼鳥臂甲【ＰＤ】・緑
 12023,Garuga Guard PD Red,黑狼鳥臂甲【ＰＤ】・赤
@@ -12218,7 +12218,7 @@ index,source,target
 12216,Byakko・双龍D Arms,双龍護腕
 12217,Byakko・剣王D Arms,剣王護腕
 12218,Byakko・刀神D Arms,刀神護腕
-12219,Byakko・Heaven 槍D Arms,槍護腕・天
+12219,Byakko・Heaven 槍D Arms,槍天護腕
 12220,Byakko・砲皇D Arms,砲皇護腕
 12221,Byakko・鈍器獣D Arms,鈍器獣護腕
 12222,Byakko・奏帝D Arms,奏帝護腕
@@ -12226,7 +12226,7 @@ index,source,target
 12224,Byakko・斬将D Arms,斬将護腕
 12225,Byakko・銃傑D Guard,銃傑臂甲
 12226,Byakko・銃仙D Guard,銃仙臂甲
-12227,Byakko・Bow 鬼D Guard,鬼臂甲
+12227,Byakko・Bow 鬼D Guard,白虎臂甲
 12228,Kirin Arms PD Red,麒麟護腕【ＰＤ】・赤
 12229,Kirin Arms PD Purple,麒麟護腕【ＰＤ】・紫
 12230,Kirin Arms PD Black,麒麟護腕【ＰＤ】・黑
@@ -12263,7 +12263,7 @@ index,source,target
 12261,Suzaku・双龍D Arms,双龍護腕
 12262,Suzaku・剣王D Arms,剣王護腕
 12263,Suzaku・刀神D Arms,刀神護腕
-12264,Suzaku・Heaven 槍D Arms,槍護腕・天
+12264,Suzaku・Heaven 槍D Arms,槍天護腕
 12265,Suzaku・砲皇D Arms,砲皇護腕
 12266,Suzaku・鈍器獣D Arms,鈍器獣護腕
 12267,Suzaku・奏帝D Arms,奏帝護腕
@@ -12271,10 +12271,10 @@ index,source,target
 12269,Suzaku・斬将D Arms,斬将護腕
 12270,Suzaku・銃傑D Guard,銃傑臂甲
 12271,Suzaku・銃仙D Guard,銃仙臂甲
-12272,Suzaku・Bow 鬼D Guard,鬼臂甲
-12273,G・Knight Cuffs PD Red,騎士護腕【Ｇ】【ＰＤ】・赤
-12274,G・Knight Cuffs PD Blue,騎士護腕【Ｇ】【ＰＤ】・青
-12275,G・Knight Cuffs PD Purple,騎士護腕【Ｇ】【ＰＤ】・紫
+12272,Suzaku・Bow 鬼D Guard,朱雀臂甲
+12273,G・Knight Cuffs PD Red,騎士護腕【ＰＤ】・赤
+12274,G・Knight Cuffs PD Blue,騎士護腕【ＰＤ】・青
+12275,G・Knight Cuffs PD Purple,騎士護腕【ＰＤ】・紫
 12276,PV Cuffs PD Red,普護腕【ＰＤ】・赤
 12277,PV Cuffs PD Blue,普護腕【ＰＤ】・青
 12278,PV Cuffs PD Purple,普護腕【ＰＤ】・紫
@@ -12287,9 +12287,9 @@ index,source,target
 12285,Vespoid Arms PD Yellow,巨蜂護腕【ＰＤ】・黄
 12286,Vespoid Arms PD Black,巨蜂護腕【ＰＤ】・黑
 12287,Vespoid Arms PD Blue,巨蜂護腕【ＰＤ】・青
-12288,Death Stench アルム PD White,阿魯穆護腕【ＰＤ】
-12289,Death Stench アルム PD Red,阿魯穆護腕【ＰＤ】
-12290,Death Stench アルム PD Blue,阿魯穆護腕【ＰＤ】
+12288,Death Stench アルム PD White,死臭護腕【ＰＤ】・白
+12289,Death Stench アルム PD Red,死臭護腕【ＰＤ】・赤
+12290,Death Stench アルム PD Blue,死臭護腕【ＰＤ】・青
 12291,Diablos Arms PD Purple,角龍護腕【ＰＤ】・紫
 12292,Diablos Arms PD Blue,角龍護腕【ＰＤ】・青
 12293,Diablos Arms PD Yellow,角龍護腕【ＰＤ】・黄
@@ -12658,7 +12658,7 @@ index,source,target
 12656,Genbu・双龍D Arms,双龍護腕
 12657,Genbu・剣王D Arms,剣王護腕
 12658,Genbu・刀神D Arms,刀神護腕
-12659,Genbu・Heaven 槍D Arms,槍護腕・天
+12659,Genbu・Heaven 槍D Arms,槍天護腕
 12660,Genbu・砲皇D Arms,砲皇護腕
 12661,Genbu・鈍器獣D Arms,鈍器獣護腕
 12662,Genbu・奏帝D Arms,奏帝護腕
@@ -12666,7 +12666,7 @@ index,source,target
 12664,Genbu・斬将D Arms,斬将護腕
 12665,Genbu・銃傑D Guard,銃傑臂甲
 12666,Genbu・銃仙D Guard,銃仙臂甲
-12667,Genbu・Bow 鬼D Guard,鬼臂甲
+12667,Genbu・Bow 鬼D Guard,玄武臂甲
 12668,Tanzanite D Arms,特阿恩阿護腕
 12669,Hematite D Arms,赫艾姆阿護腕
 12670,Byakko・磁星D Arms,磁星護腕
@@ -12738,10 +12738,10 @@ index,source,target
 12736,Gelt D Arms・Copper,格艾爾護腕・銅
 12737,Gelt D Arms・Silver,格艾爾護腕・銀
 12738,Gelt D Arms・Gold,格艾爾護腕・金
-12739,Gloria D Arms・Gold,格歐爾伊護腕・金
-12740,Gloria D Arms・Blue,格歐爾伊護腕・青
-12741,Gloria D Arms・Water,格歐爾伊護腕
-12742,Gloria D Arms・Red,格歐爾伊護腕・赤
+12739,Gloria D Arms・Gold,榮光護腕・金
+12740,Gloria D Arms・Blue,榮光護腕・青
+12741,Gloria D Arms・Water,榮光護腕・水
+12742,Gloria D Arms・Red,榮光護腕・赤
 12743,Cloth D Arms・Red,克歐斯護腕・赤
 12744,Cloth D Arms・Blue,克歐斯護腕・青
 12745,Cloth D Arms・Purple,克歐斯護腕・紫
@@ -12802,14 +12802,14 @@ index,source,target
 12800,Honour D Arms・Blue,赫歐恩歐護腕・青
 12801,Honour D Arms・Green,赫歐恩歐護腕・緑
 12802,Honour D Arms・紺,紺護腕
-12803,Pics D Arms・Green,普伊克護腕・緑
-12804,Pics D Arms・Purple,普伊克護腕・紫
-12805,Pics D Arms・Black,普伊克護腕・黑
-12806,Pics D Arms・Water,普伊克阿護腕
-12807,Magos D Arms・Yellow,姆阿格歐護腕・黄
-12808,Magos D Arms・Red,姆阿格歐護腕・赤
-12809,Magos D Arms・Water,姆阿格歐護腕
-12810,Magos D Arms・Blue,姆阿格歐護腕・青
+12803,Pics D Arms・Green,皮克斯護腕・緑
+12804,Pics D Arms・Purple,皮克斯護腕・紫
+12805,Pics D Arms・Black,皮克斯護腕・黑
+12806,Pics D Arms・Water,皮克斯護腕・水
+12807,Magos D Arms・Yellow,瑪戈斯護腕・黄
+12808,Magos D Arms・Red,瑪戈斯護腕・赤
+12809,Magos D Arms・Water,瑪戈斯護腕・水
+12810,Magos D Arms・Blue,瑪戈斯護腕・青
 12811,Arge D Arms,阿爾艾斯護腕
 12812,Camarera D Arms,克阿姆阿護腕
 12813,Metenera D Arms,姆艾特艾護腕
@@ -12819,10 +12819,10 @@ index,source,target
 12817,Zodic D Arms・Tea,茲歐德伊護腕・茶
 12818,Zodic D Arms・Green,茲歐德伊護腕・緑
 12819,Zodic D Arms・Pink,茲歐德伊護腕・桃
-12820,Cayssis D Arms Water,克阿伊伊護腕
-12821,Cayssis D Arms Red,克阿伊伊護腕・赤
-12822,Cayssis D Arms Blue,克阿伊伊護腕・青
-12823,Cayssis D Arms Orange,克阿伊伊護腕・橙
+12820,Cayssis D Arms Water,凱西斯護腕・水
+12821,Cayssis D Arms Red,凱西斯護腕・赤
+12822,Cayssis D Arms Blue,凱西斯護腕・青
+12823,Cayssis D Arms Orange,凱西斯護腕・橙
 12824,Omet D Arms・Black,歐姆艾特護腕・黑
 12825,Omet D Arms・Red,歐姆艾特護腕・赤
 12826,Omet D Arms・White,歐姆艾特護腕・白
@@ -12839,10 +12839,10 @@ index,source,target
 12837,Suriito D Arms・Silver,斯烏爾伊護腕・銀
 12838,Suriito D Arms・Red,斯烏爾伊護腕・赤
 12839,Suriito D Arms・Blue,斯烏爾伊護腕・青
-12840,Galitos D Arms・Tea,格阿爾伊護腕・茶
-12841,Galitos D Arms・Red,格阿爾伊護腕・赤
-12842,Galitos D Arms・Black,格阿爾伊護腕・黑
-12843,Galitos D Arms・Water,格阿爾伊護腕
+12840,Galitos D Arms・Tea,加里托斯護腕・茶
+12841,Galitos D Arms・Red,加里托斯護腕・赤
+12842,Galitos D Arms・Black,加里托斯護腕・黑
+12843,Galitos D Arms・Water,加里托斯護腕・水
 12844,Text D Arms・Purple,特艾克斯護腕・紫
 12845,Text D Arms・Green,特艾克斯護腕・緑
 12846,Text D Arms・Blue,特艾克斯護腕・青
@@ -12851,24 +12851,24 @@ index,source,target
 12849,Pharan D Arms・Black,菲阿爾阿護腕・黑
 12850,Pharan D Arms・Red,菲阿爾阿護腕・赤
 12851,Pharan D Arms・Blue,菲阿爾阿護腕・青
-12852,Gold D Arms・Red,德護腕
-12853,Gold D Arms・Blue,德護腕
-12854,Gold D Arms・Yellow,德護腕
-12855,Gold D Arms・Purple,德護腕
-12856,Claire D Arms・Purple,克阿爾艾護腕・紫
-12857,Claire D Arms・Water,克阿爾艾護腕
-12858,Claire D Arms・Red,克阿爾艾護腕・赤
-12859,Claire D Arms・Black,克阿爾艾護腕・黑
-12860,Gold Cat D Arms,克阿特護腕・金
-12861,Silver Cat D Arms,克阿特護腕・銀
+12852,Gold D Arms・Red,金護腕・赤
+12853,Gold D Arms・Blue,金護腕・青
+12854,Gold D Arms・Yellow,金護腕・黄
+12855,Gold D Arms・Purple,金護腕・紫
+12856,Claire D Arms・Purple,克蕾爾護腕・紫
+12857,Claire D Arms・Water,克蕾爾護腕・水
+12858,Claire D Arms・Red,克蕾爾護腕・赤
+12859,Claire D Arms・Black,克蕾爾護腕・黑
+12860,Gold Cat D Arms,金猫護腕
+12861,Silver Cat D Arms,銀猫護腕
 12862,Ex D Arms・White,艾克斯護腕・白
 12863,Ex D Arms・Red,艾克斯護腕・赤
 12864,Ex D Arms・Blue,艾克斯護腕・青
 12865,Ex D Arms・Black,艾克斯護腕・黑
-12866,Star Festival D Gauntlets [Red 】,斯阿爾艾手甲・赤
-12867,Star Festival D Gauntlets [Blue 】,斯阿爾艾手甲・青
-12868,Star Festival D Gauntlets [Black 】,斯阿爾艾手甲・黑
-12869,Star Festival D Gauntlets [White 】,斯阿爾艾手甲・白
+12866,Star Festival D Gauntlets [Red 】,星祭手甲・赤
+12867,Star Festival D Gauntlets [Blue 】,星祭手甲・青
+12868,Star Festival D Gauntlets [Black 】,星祭手甲・黑
+12869,Star Festival D Gauntlets [White 】,星祭手甲・白
 12870,Promise D Arms・White,普歐姆伊護腕・白
 12871,Promise D Arms・Blue,普歐姆伊護腕・青
 12872,Promise D Arms・Purple,普歐姆伊護腕・紫
@@ -13155,7 +13155,7 @@ index,source,target
 13153,Secuti D Arms・Red,斯艾克烏護腕・赤
 13154,Secuti D Arms・White,斯艾克烏護腕・白
 13155,Rockman D Guard,爾歐克阿臂甲
-13156,Issen D【 Kote 】・Red,伊斯艾恩籠手・赤
+13156,Issen D【 Kote 】・Red,一閃籠手・赤
 13157,蜂針D【 Kote 】・Orange,蜂針籠手・橙
 13158,Shanru Z Arms,夏阿恩烏護腕【Ｚ】
 13159,Shanru ZF Arms,夏阿恩烏護腕【ＺＦ】
@@ -13405,7 +13405,7 @@ index,source,target
 13403,Seiryu・双龍D Arms,双龍護腕
 13404,Seiryu・剣王D Arms,剣王護腕
 13405,Seiryu・刀神D Arms,刀神護腕
-13406,Seiryu・Heaven 槍D Arms,槍護腕・天
+13406,Seiryu・Heaven 槍D Arms,槍天護腕
 13407,Seiryu・砲皇D Arms,砲皇護腕
 13408,Seiryu・鈍器獣D Arms,鈍器獣護腕
 13409,Seiryu・奏帝D Arms,奏帝護腕
@@ -13413,7 +13413,7 @@ index,source,target
 13411,Seiryu・斬将D Arms,斬将護腕
 13412,Seiryu・銃傑D Guard,銃傑臂甲
 13413,Seiryu・銃仙D Guard,銃仙臂甲
-13414,Seiryu・Bow 鬼D Guard,鬼臂甲
+13414,Seiryu・Bow 鬼D Guard,青龍臂甲
 13415,Seiryu・磁星D Arms,磁星護腕
 13416,K.Lobster Arms PD Black,王龍蝦護腕【ＰＤ】・黑
 13417,K.Lobster Arms PD Green,王龍蝦護腕【ＰＤ】・緑
@@ -13442,9 +13442,9 @@ index,source,target
 13440,Ruko フィスト PD White,極龍拳【ＰＤ】・白
 13441,Ruko フィスト PD Blue,極龍拳【ＰＤ】・青
 13442,Ruko フィスト PD Red,極龍拳【ＰＤ】・赤
-13443,Comrade Arms PD White Red,戰友護腕【ＰＤ】・赤・白
-13444,Comrade Arms PD White Blue,戰友護腕【ＰＤ】・青・白
-13445,Comrade Arms PD White Yellow,戰友護腕【ＰＤ】・黄・白
+13443,Comrade Arms PD White Red,戰友護腕【ＰＤ】・白
+13444,Comrade Arms PD White Blue,戰友護腕【ＰＤ】・白
+13445,Comrade Arms PD White Yellow,戰友護腕【ＰＤ】・白
 13446,Otono D Arms,歐特歐恩護腕
 13447,忍の Kote・空D,忍の空籠手
 13448,忍の Kote・海D,忍の海籠手

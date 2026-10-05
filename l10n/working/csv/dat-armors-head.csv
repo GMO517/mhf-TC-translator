@@ -69,7 +69,7 @@ index,source,target
 67,Auroros Helm,阿爾歐爾頭兜
 68,Genesis Headpiece,格艾恩艾頭兜
 69,Borealis Crown,布歐爾艾冠
-70,Glyph Crown,格冠
+70,Glyph Crown,符文冠
 71,Dragon Head,龍頭兜
 72,Dragon Face,龍面罩
 73,Leather U Helm,皮革頭兜【Ｕ】
@@ -112,8 +112,8 @@ index,source,target
 110,Monodevil Cap,單眼惡魔兜帽
 111,Gravios U Helm,鎧龍頭兜【Ｕ】
 112,Gravios U Cap,鎧龍兜帽【Ｕ】
-113,Shinobi Mask・Sky,夏伊恩歐帽子
-114,Shinobi Mask・Sea,夏伊恩歐帽子
+113,Shinobi Mask・Sky,忍帽子・天
+114,Shinobi Mask・Sea,忍帽子・海
 115,Guardian U Helm,守護者頭兜【Ｕ】
 116,Guardian U Mask,守護者帽子【Ｕ】
 117,Helper U Hood,助手兜帽【Ｕ】
@@ -126,8 +126,8 @@ index,source,target
 124,Fatalis Face,黑龍面罩
 125,Golden Moon Helm,金月頭兜
 126,Golden Moon Cap,金月兜帽
-127,Silver Sol Helm,日頭兜・銀
-128,Silver Sol Cap,日兜帽・銀
+127,Silver Sol Helm,銀日頭兜
+128,Silver Sol Cap,銀日兜帽
 129,Leather S Helm,皮革頭兜【Ｓ】
 130,Chainmail S Helm,鎖鏈頭兜【Ｓ】
 131,Hunter's S Helm,獵人頭兜【Ｓ】
@@ -170,8 +170,8 @@ index,source,target
 168,Monoblos S Cap,一角龍兜帽【Ｓ】
 169,Gravios S Helm,鎧龍頭兜【Ｓ】
 170,Gravios S Cap,鎧龍兜帽【Ｓ】
-171,Shinobi Mask・Heaven,夏伊恩歐帽子・天
-172,Shinobi Mask・Earth,夏伊恩歐帽子・地
+171,Shinobi Mask・Heaven,忍天帽子
+172,Shinobi Mask・Earth,忍地帽子
 173,Red Guild Tricorne,獵團三角帽・赤
 174,Red Guild Mask,獵團帽子・赤
 175,Red Guild Hat,獵團帽・赤
@@ -268,11 +268,11 @@ index,source,target
 266,Gia U Cap,格伊兜帽【Ｕ】
 267,White Cat Mask,白猫帽子
 268,Black Cat Mask,黑猫帽子
-269,Gold Cat Mask,猫帽子・金
+269,Gold Cat Mask,金猫帽子
 270,Gothic Piercing,哥德耳飾
 271,Gothic F Piercing,哥德耳飾【Ｆ】
 272,Beil Earrings,貝爾耳環
-273,Comrade Helm 【猩】,戰友猩頭兜
+273,Comrade Helm 【猩】,戰友頭兜猩
 274,Jisutoreru Head,吉斯特雷頭兜
 275,Duo Helm,雙頭兜
 276,Smart Head,機靈頭兜
@@ -465,36 +465,36 @@ index,source,target
 463,Eques Cap 改,改兜帽
 464,Eques F Helm,騎士頭兜【Ｆ】
 465,Eques F Cap,騎士兜帽【Ｆ】
-466,Hot Red Star Mask,赫歐特帽子
-467,Hot Blue Star Mask,赫歐特帽子
-468,Hot Black Star Mask,赫歐特帽子
-469,Hot White Star Mask,赫歐特帽子
-470,Hot Red Stellar Mask,赫歐特帽子
+466,Hot Red Star Mask,熱赤星帽子
+467,Hot Blue Star Mask,熱帽子
+468,Hot Black Star Mask,熱黑星帽子
+469,Hot White Star Mask,熱白星帽子
+470,Hot Red Stellar Mask,熱赤星帽子
 471,Hot Blu Stellar Mask,赫歐特烏帽子
 472,Hot Blk Stellar Mask,赫歐特艾帽子
 473,Hot Wht Stellar Mask,赫歐特艾帽子
-474,Cool Red Star Mask,克歐爾帽子
-475,Cool Blue Star Mask,克歐爾帽子
-476,Cool Black Star Mask,克歐爾帽子
-477,Cool White Star Mask,克歐爾帽子
+474,Cool Red Star Mask,涼赤星帽子
+475,Cool Blue Star Mask,涼帽子
+476,Cool Black Star Mask,涼黑星帽子
+477,Cool White Star Mask,涼白星帽子
 478,Cool Rd Stellar Mask,克歐爾艾帽子
 479,Cool Bl Stellar Mask,克歐爾艾帽子
 480,Cool Bk Stellar Mask,克歐爾艾帽子
 481,Cool Wt Stellar Mask,克歐爾艾帽子
-482,Sky Red Star Mask,天空帽子
+482,Sky Red Star Mask,天赤星帽子
 483,Sky Blue Star Mask,天空帽子
-484,Sky Black Star Mask,天空帽子
-485,Sky White Star Mask,天空帽子
-486,Sky Red Stellar Mask,天空帽子
-487,Sky Blu Stellar Mask,斯烏斯艾帽子
-488,Sky Blk Stellar Mask,斯艾爾阿帽子
+484,Sky Black Star Mask,天黑星帽子
+485,Sky White Star Mask,天白星帽子
+486,Sky Red Stellar Mask,天赤星帽子
+487,Sky Blu Stellar Mask,天藍星帽子
+488,Sky Blk Stellar Mask,天黑星帽子
 489,Sky Wht Stellar Mask,斯艾爾阿帽子
 490,Hi-Metal Helm SP Blk,赫伊斯艾頭兜【ＳＰ】
 491,Hi-Metal Helm SP Blu,赫伊斯艾頭兜【ＳＰ】
 492,Hi-Metal Helm SP Ylw,赫伊斯艾頭兜【ＳＰ】
-493,S・Sol Helm SP Red,日頭兜【Ｓ】【ＳＰ】・赤
-494,S・Sol Helm SP Purple,日頭兜【Ｓ】【ＳＰ】・紫
-495,S・Sol Helm SP Black,日頭兜【Ｓ】【ＳＰ】・黑
+493,S・Sol Helm SP Red,S索倫頭兜【ＳＰ】・赤
+494,S・Sol Helm SP Purple,S索倫頭兜【ＳＰ】・紫
+495,S・Sol Helm SP Black,S索倫頭兜【ＳＰ】・黑
 496,Garuga Cap SP White,黑狼鳥兜帽【ＳＰ】・白
 497,Garuga Cap SP Green,黑狼鳥兜帽【ＳＰ】・緑
 498,Garuga Cap SP Red,黑狼鳥兜帽【ＳＰ】・赤
@@ -527,13 +527,13 @@ index,source,target
 525,Fest Victor's Crown,優勝冠
 526,Fest Victor's Crown,優勝冠
 527,Fest Victor's Crown,優勝冠
-528,Hot White Masque,赫歐特面罩・白
+528,Hot White Masque,熱面罩・白
 529,Hot Brown Masque,赫歐特歐面罩
-530,Hot Black Masque,赫歐特面罩・黑
+530,Hot Black Masque,熱面罩・黑
 531,Hot Pale Masque,赫歐特阿面罩
-532,Cool White Masque,克歐爾面罩・白
+532,Cool White Masque,涼面罩・白
 533,Cool Brown Masque,克歐爾歐面罩
-534,Cool Black Masque,克歐爾面罩・黑
+534,Cool Black Masque,涼面罩・黑
 535,Cool Pale Masque,克歐爾阿面罩
 536,Sky White Masque,天空面罩・白
 537,Sky Brown Masque,斯歐沃面罩
@@ -840,7 +840,7 @@ index,source,target
 838,Hypnolia Piercing,赫歐爾伊耳飾
 839,Feral Head,芙艾爾阿頭兜
 840,Feral Piercing,芙艾爾阿耳飾
-841,Demon Lord Horn,德艾姆歐角
+841,Demon Lord Horn,魔王角
 842,Rasta Instructor Cap,賴狩人兜帽
 843,Infant Horn,伊恩阿恩角
 844,ダミー,(dummy)
@@ -996,9 +996,9 @@ index,source,target
 994,Remobra Mask SP White,翼蛇龍帽子【ＳＰ】・白
 995,Remobra Mask SP Yellow,翼蛇龍帽子【ＳＰ】・黄
 996,Remobra Mask SP Black,翼蛇龍帽子【ＳＰ】・黑
-997,G・Knight Mask SP Red,騎士帽子【Ｇ】【ＳＰ】・赤
-998,G・Knight Mask SP Blue,騎士帽子【Ｇ】【ＳＰ】・青
-999,G・Knight Mask SP Purple,騎士帽子【Ｇ】【ＳＰ】・紫
+997,G・Knight Mask SP Red,騎士帽子【ＳＰ】・赤
+998,G・Knight Mask SP Blue,騎士帽子【ＳＰ】・青
+999,G・Knight Mask SP Purple,騎士帽子【ＳＰ】・紫
 1000,PV Glasses SP Red,普眼鏡【ＳＰ】・赤
 1001,PV Glasses SP Blue,普眼鏡【ＳＰ】・青
 1002,PV Glasses SP Purple,普眼鏡【ＳＰ】・紫
@@ -1090,22 +1090,22 @@ index,source,target
 1088,リエーザF Head,里耶薩頭兜【Ｆ】
 1089,リエーザ Mask,里耶薩帽子
 1090,リエーザF Mask,里耶薩帽子【Ｆ】
-1091,Claire Head・Purple,克蕾兒頭兜・紫
-1092,Claire F Head・Purple,克蕾兒頭兜【Ｆ】・紫
-1093,Claire Piercing・Purple,克蕾兒耳飾・紫
-1094,Claire F Piercing・Purple,克蕾兒耳飾【Ｆ】・紫
-1095,Claire Head・Water,克蕾兒水頭兜
-1096,Claire F Head・Water,克蕾兒水頭兜【Ｆ】
-1097,Claire Piercing・Water,克蕾兒水耳飾
-1098,Claire F Piercing・Water,克蕾兒水耳飾【Ｆ】
-1099,Claire Head・Red,克蕾兒頭兜・赤
-1100,Claire F Head・Red,克蕾兒頭兜【Ｆ】・赤
-1101,Claire Piercing・Red,克蕾兒耳飾・赤
-1102,Claire F Piercing・Red,克蕾兒耳飾【Ｆ】・赤
-1103,Claire Head・Black,克蕾兒頭兜・黑
-1104,Claire F Head・Black,克蕾兒頭兜【Ｆ】・黑
-1105,Claire Piercing・Black,克蕾兒耳飾・黑
-1106,Claire F Piercing・Black,克蕾兒耳飾【Ｆ】・黑
+1091,Claire Head・Purple,克蕾爾頭兜・紫
+1092,Claire F Head・Purple,克蕾爾頭兜【Ｆ】・紫
+1093,Claire Piercing・Purple,克蕾爾耳飾・紫
+1094,Claire F Piercing・Purple,克蕾爾耳飾【Ｆ】・紫
+1095,Claire Head・Water,克蕾爾頭兜・水
+1096,Claire F Head・Water,克蕾爾頭兜【Ｆ】・水
+1097,Claire Piercing・Water,克蕾爾耳飾・水
+1098,Claire F Piercing・Water,克蕾爾耳飾【Ｆ】・水
+1099,Claire Head・Red,克蕾爾頭兜・赤
+1100,Claire F Head・Red,克蕾爾頭兜【Ｆ】・赤
+1101,Claire Piercing・Red,克蕾爾耳飾・赤
+1102,Claire F Piercing・Red,克蕾爾耳飾【Ｆ】・赤
+1103,Claire Head・Black,克蕾爾頭兜・黑
+1104,Claire F Head・Black,克蕾爾頭兜【Ｆ】・黑
+1105,Claire Piercing・Black,克蕾爾耳飾・黑
+1106,Claire F Piercing・Black,克蕾爾耳飾【Ｆ】・黑
 1107,Desert Head,沙漠頭兜
 1108,Desert F Head,沙漠頭兜【Ｆ】
 1109,Desert Piercings,沙漠耳飾
@@ -1212,22 +1212,22 @@ index,source,target
 1210,フェサーF Head,芙薩頭兜【Ｆ】
 1211,シアンス Hat,希安斯帽
 1212,シアンスF Hat,希安斯帽【Ｆ】
-1213,Gold Helm・Red,頭兜・金・赤
-1214,Gold F Helm・Red,頭兜【Ｆ】・金・赤
-1215,Gold Mask・Red,帽子・金・赤
-1216,Gold F Mask・Red,帽子【Ｆ】・金・赤
-1217,Gold Helm・Blue,頭兜・金・青
-1218,Gold F Helm・Blue,頭兜【Ｆ】・金・青
-1219,Gold Mask・Blue,帽子・金・青
-1220,Gold F Mask・Blue,帽子【Ｆ】・金・青
-1221,Gold Helm・Yellow,頭兜・金・黄
-1222,Gold F Helm・Yellow,頭兜【Ｆ】・金・黄
-1223,Gold Mask・Yellow,帽子・金・黄
-1224,Gold F Mask・Yellow,帽子【Ｆ】・金・黄
-1225,Gold Helm・Purple,頭兜・金・紫
-1226,Gold F Helm・Purple,頭兜【Ｆ】・金・紫
-1227,Gold Mask・Purple,帽子・金・紫
-1228,Gold F Mask・Purple,帽子【Ｆ】・金・紫
+1213,Gold Helm・Red,金頭兜・赤
+1214,Gold F Helm・Red,金頭兜【Ｆ】・赤
+1215,Gold Mask・Red,金帽子・赤
+1216,Gold F Mask・Red,金帽子【Ｆ】・赤
+1217,Gold Helm・Blue,金頭兜・青
+1218,Gold F Helm・Blue,金頭兜【Ｆ】・青
+1219,Gold Mask・Blue,金帽子・青
+1220,Gold F Mask・Blue,金帽子【Ｆ】・青
+1221,Gold Helm・Yellow,金頭兜・黄
+1222,Gold F Helm・Yellow,金頭兜【Ｆ】・黄
+1223,Gold Mask・Yellow,金帽子・黄
+1224,Gold F Mask・Yellow,金帽子【Ｆ】・黄
+1225,Gold Helm・Purple,金頭兜・紫
+1226,Gold F Helm・Purple,金頭兜【Ｆ】・紫
+1227,Gold Mask・Purple,金帽子・紫
+1228,Gold F Mask・Purple,金帽子【Ｆ】・紫
 1229,シデロ Helm,西德羅頭兜
 1230,シデロF Helm,西德羅頭兜【Ｆ】
 1231,オール Helm,奧爾頭兜
@@ -1258,8 +1258,8 @@ index,source,target
 1256,Bone L Cap,骨製兜帽【Ｌ】
 1257,Vespoid L Cap,巨蜂兜帽【Ｌ】
 1258,Diablos L Cap,角龍兜帽【Ｌ】
-1259,G・Guard R Mask Crimson,防禦帽子【Ｇ】【Ｒ】・紅
-1260,G・Guard R Piercing Crimson,防禦耳飾【Ｇ】【Ｒ】・紅
+1259,G・Guard R Mask Crimson,防禦帽子【Ｒ】・紅
+1260,G・Guard R Piercing Crimson,防禦耳飾【Ｒ】・紅
 1261,Hornetaur R Cap,巨甲蟲兜帽【Ｒ】
 1262,High Metal R Cap,上位金屬兜帽【Ｒ】
 1263,Rath Soul R Cap,爾阿斯阿魂【Ｒ】
@@ -1290,11 +1290,11 @@ index,source,target
 1288,Fellow Beret・Purple,夥伴貝雷帽・紫
 1289,Fellow Beret F・Purple,夥伴貝雷帽【Ｆ】・紫
 1290,Dyuragaua Kabuto,冰狐龍兜
-1291,Inari 覇 Kabuto,覇兜
+1291,Inari 覇 Kabuto,稻荷兜
 1292,Dyuragaua 【御面】,冰狐龍頭兜
 1293,Tamamo 覇【御面】,玉藻頭兜
 1294,Dyuragaua【Eboshi】,冰狐龍烏帽子
-1295,Inari 覇【Eboshi】,覇烏帽子
+1295,Inari 覇【Eboshi】,稻荷烏帽子
 1296,Dyuragaua 【覆面】,冰狐龍頭兜
 1297,Tamamo 覇【覆面】,玉藻頭兜
 1298,コカロ Helm,寇伽羅頭兜
@@ -1394,9 +1394,9 @@ index,source,target
 1392,Akantor Mask SP Black,霸龍帽子【ＳＰ】・黑
 1393,Akantor Mask SP Red,霸龍帽子【ＳＰ】・赤
 1394,Akantor Mask SP White,霸龍帽子【ＳＰ】・白
-1395,Akantor リクン SP Black,霸龍頭兜【ＳＰ】
-1396,Akantor リクン SP Red,霸龍頭兜【ＳＰ】
-1397,Akantor リクン SP White,霸龍頭兜【ＳＰ】
+1395,Akantor リクン SP Black,霸龍頭兜【ＳＰ】・黑
+1396,Akantor リクン SP Red,霸龍頭兜【ＳＰ】・赤
+1397,Akantor リクン SP White,霸龍頭兜【ＳＰ】・白
 1398,Gravios Helm SP Black,鎧龍頭兜【ＳＰ】・黑
 1399,Gravios Helm SP Blue,鎧龍頭兜【ＳＰ】・青
 1400,Gravios Helm SP Red,鎧龍頭兜【ＳＰ】・赤
@@ -1511,11 +1511,11 @@ index,source,target
 1509,Pharan F Helm・Blue,法藍頭兜【Ｆ】・青
 1510,Pharan Mask・Blue,法藍帽子・青
 1511,Pharan F Mask・Blue,法藍帽子【Ｆ】・青
-1512,Gold Cat F Head,猫頭兜【Ｆ】・金
-1513,Gold Cat F Haar,猫髮【Ｆ】・金
-1514,Silver Cat Mask,猫帽子・銀
-1515,Silver Cat F Head,猫頭兜【Ｆ】・銀
-1516,Silver Cat F Haar,猫髮【Ｆ】・銀
+1512,Gold Cat F Head,金猫頭兜【Ｆ】
+1513,Gold Cat F Haar,金猫髮【Ｆ】
+1514,Silver Cat Mask,銀猫帽子
+1515,Silver Cat F Head,銀猫頭兜【Ｆ】
+1516,Silver Cat F Haar,銀猫髮【Ｆ】
 1517,ヴィン Head,温頭兜
 1518,ヴィンF Head,温頭兜【Ｆ】
 1519,ヴァンデ Head,芙恩德頭兜
@@ -1547,7 +1547,7 @@ index,source,target
 1545,Cepha L Cap,砂龍兜帽【Ｌ】
 1546,Rathian L Cap,雌火龍兜帽【Ｌ】
 1547,Kut-Ku L Cap,怪鳥兜帽【Ｌ】
-1548,Shinobi Mask・R,夏伊恩歐帽子【Ｒ】
+1548,Shinobi Mask・R,忍帽子【Ｒ】
 1549,Leather R Helm,皮革頭兜【Ｒ】
 1550,Espinas R Soul,棘龍魂【Ｒ】
 1551,Bistro R Cap,食堂兜帽【Ｒ】
@@ -1806,8 +1806,8 @@ index,source,target
 1804,ダミー,(dummy)
 1805,ダミー,(dummy)
 1806,White Fatalis R Head,白黑龍頭兜【Ｒ】
-1807,G・Lune R Cap,月兜帽【Ｇ】【Ｒ】
-1808,S・Sol R Cap,日兜帽【Ｓ】【Ｒ】
+1807,G・Lune R Cap,月兜帽【Ｒ】
+1808,S・Sol R Cap,S索倫兜帽【Ｒ】
 1809,Death Stench L Soul,死臭魂【Ｌ】
 1810,Leather L Helm,皮革頭兜【Ｌ】
 1811,Chainmail L Helm,鎖鏈頭兜【Ｌ】
@@ -2031,10 +2031,10 @@ index,source,target
 2029,ダミー,(dummy)
 2030,Kagura FX Kabuto,神樂兜【ＦＸ】
 2031,Kamiza FX Hachigane,上座鉢金【ＦＸ】
-2032,Blue Sky Headguard,蒼天護額
-2033,Blue Sky Headguard・魁,魁護額・青
-2034,Welkin Headguard,蒼穹護額
-2035,Welkin Headguard・魁,魁護額
+2032,Blue Sky Headguard,蒼天護額・天
+2033,Blue Sky Headguard・魁,蒼天護額魁・天
+2034,Welkin Headguard,穹蒼護額
+2035,Welkin Headguard・魁,穹蒼護額魁
 2036,Breo Head,布艾頭兜
 2037,Breo Piercing,布艾耳飾
 2038,Breo F Head,布艾頭兜【Ｆ】
@@ -2107,32 +2107,32 @@ index,source,target
 2105,蘭蛮 Mask・Gold,蘭蛮帽子・金
 2106,竜巻 Hachimaki・Black,竜巻鉢卷・黑
 2107,竜巻F Hachimaki・Black,竜巻鉢卷【Ｆ】・黑
-2108,True 空 Hachimaki・Black,空鉢卷・黑
-2109,True 空F Hachimaki・Black,空鉢卷【Ｆ】・黑
+2108,True 空 Hachimaki・Black,真空鉢卷・黑
+2109,True 空F Hachimaki・Black,真空鉢卷【Ｆ】・黑
 2110,千裂お団子・Black,千裂お団子頭兜・黑
 2111,千裂Fお団子・Black,千裂お団子頭兜・黑
 2112,覇山お団子・Black,覇山お団子頭兜・黑
 2113,覇山Fお団子・Black,覇山お団子頭兜・黑
 2114,竜巻 Hachimaki・Tea,竜巻鉢卷・茶
 2115,竜巻F Hachimaki・Tea,竜巻鉢卷【Ｆ】・茶
-2116,True 空 Hachimaki・Tea,空鉢卷・茶
-2117,True 空F Hachimaki・Tea,空鉢卷【Ｆ】・茶
+2116,True 空 Hachimaki・Tea,真空鉢卷・茶
+2117,True 空F Hachimaki・Tea,真空鉢卷【Ｆ】・茶
 2118,千裂お団子・Purple,千裂お団子頭兜・紫
 2119,千裂Fお団子・Purple,千裂お団子頭兜・紫
 2120,覇山お団子・Purple,覇山お団子頭兜・紫
 2121,覇山Fお団子・Purple,覇山お団子頭兜・紫
 2122,竜巻 Hachimaki・White,竜巻鉢卷・白
 2123,竜巻F Hachimaki・White,竜巻鉢卷【Ｆ】・白
-2124,True 空 Hachimaki・White,空鉢卷・白
-2125,True 空F Hachimaki・White,空鉢卷【Ｆ】・白
+2124,True 空 Hachimaki・White,真空鉢卷・白
+2125,True 空F Hachimaki・White,真空鉢卷【Ｆ】・白
 2126,千裂お団子・White,千裂お団子頭兜・白
 2127,千裂Fお団子・White,千裂お団子頭兜・白
 2128,覇山お団子・White,覇山お団子頭兜・白
 2129,覇山Fお団子・White,覇山お団子頭兜・白
 2130,竜巻 Hachimaki・Blue,竜巻鉢卷・青
 2131,竜巻F Hachimaki・Blue,竜巻鉢卷【Ｆ】・青
-2132,True 空 Hachimaki・Blue,空鉢卷・青
-2133,True 空F Hachimaki・Blue,空鉢卷【Ｆ】・青
+2132,True 空 Hachimaki・Blue,真空鉢卷・青
+2133,True 空F Hachimaki・Blue,真空鉢卷【Ｆ】・青
 2134,千裂お団子・Green,千裂お団子頭兜・緑
 2135,千裂Fお団子・Green,千裂お団子頭兜・緑
 2136,覇山お団子・Green,覇山お団子頭兜・緑
@@ -2149,10 +2149,10 @@ index,source,target
 2147,旋風F Hachimaki,旋風鉢卷【Ｆ】
 2148,巴 Hachimaki,巴鉢卷
 2149,巴F Hachimaki,巴鉢卷【Ｆ】
-2150,Heaven 空お団子,空お団子頭兜・天
-2151,Heaven 空Fお団子,空お団子頭兜・天
-2152,Heaven 昇お団子,昇お団子頭兜・天
-2153,Heaven 昇Fお団子,昇お団子頭兜・天
+2150,Heaven 空お団子,空お団子天頭兜
+2151,Heaven 空Fお団子,空お団子天頭兜
+2152,Heaven 昇お団子,昇お団子天頭兜
+2153,Heaven 昇Fお団子,昇お団子天頭兜
 2154,Jeamu Helm,傑艾姆烏頭兜
 2155,Jeamu F Helm,傑艾姆烏頭兜【Ｆ】
 2156,Amyusu Helm,阿姆烏斯頭兜
@@ -2214,14 +2214,14 @@ index,source,target
 2212,Buran F Piercing,布烏爾阿耳飾【Ｆ】
 2213,Zwinger Head,茲伊恩艾頭兜
 2214,Zwinger Mask,茲伊恩艾帽子
-2215,Demon Lord Horn・魁,魁角
+2215,Demon Lord Horn・魁,魔王角魁
 2216,童子ノ角・魁,童子角魁頭兜
 2217,Melan F Head,紫黑頭兜【Ｆ】
 2218,Melan F Wig,紫黑假髮【Ｆ】
 2219,Buto F Head,布烏特歐頭兜【Ｆ】
 2220,Ocean Piercing,歐克艾恩耳飾
 2221,Sky Piercing,天空耳飾
-2222,Earth Piercing,地耳飾・地
+2222,Earth Piercing,地耳飾
 2223,Himeros FX Helm,赫伊姆艾頭兜【ＦＸ】
 2224,Charien FX Cap,夏里安兜帽【ＦＸ】
 2225,Bureshisu FX Helm,布烏爾艾頭兜【ＦＸ】
@@ -2379,7 +2379,7 @@ index,source,target
 2377,Diina Head,德伊恩阿頭兜
 2378,Diina F Head,德伊恩阿頭兜【Ｆ】
 2379,True Shadow Headguard,真影護額
-2380,True Shadow Headguard・魁,魁護額
+2380,True Shadow Headguard・魁,真影護額魁
 2381,翔影ノ Headguard,翔影護額
 2382,翔影ノ Headguard・魁,翔影魁護額
 2383,Black Tiger Headguard,黑虎護額
@@ -2398,10 +2398,10 @@ index,source,target
 2396,Galitos F Head・Black,加里托斯頭兜【Ｆ】・黑
 2397,Galitos Band・Black,加里托斯頭帶・黑
 2398,Galitos F Band・Black,加里托斯頭帶【Ｆ】・黑
-2399,Galitos Head・Water,加里托斯水頭兜
-2400,Galitos F Head・Water,加里托斯水頭兜【Ｆ】
-2401,Galitos Band・Water,加里托斯水頭帶
-2402,Galitos F Band・Water,加里托斯水頭帶【Ｆ】
+2399,Galitos Head・Water,加里托斯頭兜・水
+2400,Galitos F Head・Water,加里托斯頭兜【Ｆ】・水
+2401,Galitos Band・Water,加里托斯頭帶・水
+2402,Galitos F Band・Water,加里托斯頭帶【Ｆ】・水
 2403,Riburi Head,里布里頭兜
 2404,Riburi F Head,里布里頭兜【Ｆ】
 2405,Riburi FZ Head,里布里頭兜【ＦＺ】
@@ -2464,20 +2464,20 @@ index,source,target
 2462,Demon F Head White,惡魔頭兜【Ｆ】・白
 2463,Chaos Head White,混沌頭兜・白
 2464,Chaos F Head White,混沌頭兜【Ｆ】・白
-2465,Shadow Wig Purple,暗影假髮・紫
-2466,Shadow F Wig Purple,暗影假髮【Ｆ】・紫
+2465,Shadow Wig Purple,影假髮・紫
+2466,Shadow F Wig Purple,影假髮【Ｆ】・紫
 2467,Soul Wig Purple,沃伊格魂・紫
 2468,Soul F Wig Purple,沃伊格魂【Ｆ】・紫
-2469,Shadow Wig Red,暗影假髮・赤
-2470,Shadow F Wig Red,暗影假髮【Ｆ】・赤
+2469,Shadow Wig Red,影假髮・赤
+2470,Shadow F Wig Red,影假髮【Ｆ】・赤
 2471,Soul Wig Red,沃伊格魂・赤
 2472,Soul F Wig Red,沃伊格魂【Ｆ】・赤
-2473,Shadow Wig Green,暗影假髮・緑
-2474,Shadow F Wig Green,暗影假髮【Ｆ】・緑
+2473,Shadow Wig Green,影假髮・緑
+2474,Shadow F Wig Green,影假髮【Ｆ】・緑
 2475,Soul Wig Green,沃伊格魂・緑
 2476,Soul F Wig Green,沃伊格魂【Ｆ】・緑
-2477,Shadow Wig White,暗影假髮・白
-2478,Shadow F Wig White,暗影假髮【Ｆ】・白
+2477,Shadow Wig White,影假髮・白
+2478,Shadow F Wig White,影假髮【Ｆ】・白
 2479,Soul Wig White,沃伊格魂・白
 2480,Soul F Wig White,沃伊格魂【Ｆ】・白
 2481,フィディ Helm,芙德頭兜
@@ -2526,7 +2526,7 @@ index,source,target
 2524,ロークF Helm,洛可頭兜【Ｆ】
 2525,ロークF Cap,洛可兜帽【Ｆ】
 2526,Buruho F Head・Blue,布烏爾烏頭兜【Ｆ】・青
-2527,マー Gear F Hat・Blue,格艾爾帽【Ｆ】
+2527,マー Gear F Hat・Blue,瑪爾機甲帽【Ｆ】・青
 2528,Gogomoa FX Helm,跳緋獸頭兜【ＦＸ】
 2529,Gogomoa FX Cap,跳緋獸兜帽【ＦＸ】
 2530,Kuraaji FX Helm,克烏爾阿頭兜【ＦＸ】
@@ -2580,7 +2580,7 @@ index,source,target
 2578,Gravios RX Helm,鎧龍頭兜
 2579,Bone RX Cap,骨製兜帽
 2580,White Snake Headguard,白蛇護額
-2581,White Snake Headguard・魁,魁護額・白
+2581,White Snake Headguard・魁,白蛇護額魁
 2582, White 鳥ノ Headguard,鳥護額・白
 2583,White 鳥ノ Headguard・魁,鳥魁護額・白
 2584,Kakabu Head,克阿克阿頭兜
@@ -2610,17 +2610,17 @@ index,source,target
 2608,Rutare Cap,魯塔雷兜帽
 2609,Rutare F Cap,魯塔雷兜帽【Ｆ】
 2610,Rolling Flow Headguard,滾流護額
-2611,Rolling Flow Headguard・魁,魁護額
+2611,Rolling Flow Headguard・魁,滾流護額魁
 2612,旋転の Headguard,旋転の護額
-2613,旋転の Headguard・魁,旋転の魁護額
+2613,旋転の Headguard・魁,旋転の護額魁
 2614,厳岩 Hat,厳岩帽
-2615,厳岩 Hat・魁,厳岩魁帽
+2615,厳岩 Hat・魁,厳岩帽魁
 2616,不破 Hat,不破帽
-2617,不破 Hat・魁,不破魁帽
+2617,不破 Hat・魁,不破帽魁
 2618,無想 Hat,無想帽
-2619,無想 Hat・魁,無想魁帽
+2619,無想 Hat・魁,無想帽魁
 2620,俊激 Mask,俊激帽子
-2621,俊激 Mask・魁,俊激魁帽子
+2621,俊激 Mask・魁,俊激帽子魁
 2622,Suifudo Head,斯烏芙烏頭兜
 2623,Suifudo F Head,斯烏芙烏頭兜【Ｆ】
 2624,Merodesu Head,姆艾爾歐頭兜
@@ -2683,11 +2683,11 @@ index,source,target
 2681,Galitos FZ Head・Tea,加里托斯頭兜【ＦＺ】・茶
 2682,Galitos FZ Head・Red,加里托斯頭兜【ＦＺ】・赤
 2683,Galitos FZ Head・Black,加里托斯頭兜【ＦＺ】・黑
-2684,Galitos FZ Head・Water,加里托斯水頭兜【ＦＺ】
+2684,Galitos FZ Head・Water,加里托斯頭兜【ＦＺ】・水
 2685,Galitos FZ Band・Tea,加里托斯頭帶【ＦＺ】・茶
 2686,Galitos FZ Band・Red,加里托斯頭帶【ＦＺ】・赤
 2687,Galitos FZ Band・Black,加里托斯頭帶【ＦＺ】・黑
-2688,Galitos FZ Band・Water,加里托斯水頭帶【ＦＺ】
+2688,Galitos FZ Band・Water,加里托斯頭帶【ＦＺ】・水
 2689,Abiorugu Beretta,獰龍貝雷塔
 2690,Abiorugu Beretta F,獰龍貝雷塔【Ｆ】
 2691,Erupe Mask,艾露培帽子
@@ -2713,8 +2713,8 @@ index,source,target
 2711,ジオ Piercing VIII,吉歐耳飾
 2712,ジオF Piercing VIII,吉歐耳飾【Ｆ】
 2713,Beil F Earrings,貝爾耳環【Ｆ】
-2714,Ahaba ー Piercing,耳飾
-2715,Ahaba ーF Piercing,耳飾【Ｆ】
+2714,Ahaba ー Piercing,阿哈巴耳飾
+2715,Ahaba ーF Piercing,阿哈巴耳飾【Ｆ】
 2716,クローニー Piercing,庫羅尼耳飾
 2717,クローニーF Piercing,庫羅尼耳飾【Ｆ】
 2718,Dummy,(dummy)
@@ -2828,9 +2828,9 @@ index,source,target
 2826,Ruko Face SP White,極龍面罩【ＳＰ】・白
 2827,Ruko Face SP Blue,極龍面罩【ＳＰ】・青
 2828,Ruko Face SP Red,極龍面罩【ＳＰ】・赤
-2829,Comrade Helm SP White Red,戰友頭兜【ＳＰ】・赤・白
-2830,Comrade Helm SP White Blue,戰友頭兜【ＳＰ】・青・白
-2831,Comrade Helm SP White Yellow,戰友頭兜【ＳＰ】・黄・白
+2829,Comrade Helm SP White Red,戰友頭兜【ＳＰ】・白
+2830,Comrade Helm SP White Blue,戰友頭兜【ＳＰ】・白
+2831,Comrade Helm SP White Yellow,戰友頭兜【ＳＰ】・白
 2832,Rubellite Helm,爾烏布艾頭兜
 2833,Rubellite F Helm,爾烏布艾頭兜【Ｆ】
 2834,Rubellite FX Helm,爾烏布艾頭兜【ＦＸ】
@@ -2865,9 +2865,9 @@ index,source,target
 2863,Turquoise F Cap,緑松石兜帽【Ｆ】
 2864,Turquoise FX Cap,緑松石兜帽【ＦＸ】
 2865,Valued Word Headguard,珍言護額
-2866,Valued Word Headguard・魁,魁護額
-2867,Valued Word Headguard・Smart,珍言機靈護額
-2868,Valued Word Headguard・Flower,芙阿爾烏護額
+2866,Valued Word Headguard・魁,珍言護額魁
+2867,Valued Word Headguard・Smart,珍言護額
+2868,Valued Word Headguard・Flower,珍言護額
 2869,式部ノ Headguard,式部護額
 2870,式部ノ Headguard・魁,式部魁護額
 2871,式部ノ Headguard・Smart,機靈護額
@@ -2896,8 +2896,8 @@ index,source,target
 2894,Strega HC Cap,魔女兜帽【ＨＣ】
 2895,Zaakaa HC Head,茲阿克阿頭兜【ＨＣ】
 2896,Chaser HC Cap,追撃兜帽【ＨＣ】
-2897,Demon Lord Horn・Extreme,德艾姆歐角
-2898,Demon Lord Horn・Heaven,德艾姆歐角・天
+2897,Demon Lord Horn・Extreme,魔王角
+2898,Demon Lord Horn・Heaven,魔王天角
 2899,童子ノ角・Extreme,童子角頭兜
 2900,童子ノ角・Heaven,童子角頭兜・天
 2901,アナキF Head,阿納基頭兜【Ｆ】
@@ -2906,7 +2906,7 @@ index,source,target
 2904,アナキF Band,阿納基頭帶【Ｆ】
 2905,アナキFY Band,阿納基頭帶
 2906,アナキHC Band,阿納基頭帶【ＨＣ】
-2907,Royal FY Head,爾歐伊阿頭兜
+2907,Royal FY Head,王室頭兜
 2908,Royal HC Head,王室頭兜【ＨＣ】
 2909,Lord FY Cap,爾歐爾兜帽
 2910,Lord HC Cap,爾歐爾兜帽【ＨＣ】
@@ -2927,12 +2927,12 @@ index,source,target
 2925,Ceanataur RX Helm,鎌蟹頭兜
 2926,Espinas RX Brain,棘龍腦
 2927,Monodevil RX Cap,姆歐恩歐兜帽
-2928,Cayssis Helm Water,凱西斯水頭兜
-2929,Cayssis F Helm Water,凱西斯水頭兜【Ｆ】
-2930,Cayssis FZ Helm Water,凱西斯水頭兜【ＦＺ】
-2931,Cayssis Mask Water,凱西斯水帽子
-2932,Cayssis F Mask Water,凱西斯水帽子【Ｆ】
-2933,Cayssis FZ Mask Water,凱西斯水帽子【ＦＺ】
+2928,Cayssis Helm Water,凱西斯頭兜・水
+2929,Cayssis F Helm Water,凱西斯頭兜【Ｆ】・水
+2930,Cayssis FZ Helm Water,凱西斯頭兜【ＦＺ】・水
+2931,Cayssis Mask Water,凱西斯帽子・水
+2932,Cayssis F Mask Water,凱西斯帽子【Ｆ】・水
+2933,Cayssis FZ Mask Water,凱西斯帽子【ＦＺ】・水
 2934,Cayssis Helm Red,凱西斯頭兜・赤
 2935,Cayssis F Helm Red,凱西斯頭兜【Ｆ】・赤
 2936,Cayssis FZ Helm Red,凱西斯頭兜【ＦＺ】・赤
@@ -2951,10 +2951,10 @@ index,source,target
 2949,Cayssis Mask Orange,凱西斯帽子・橙
 2950,Cayssis F Mask Orange,凱西斯帽子【Ｆ】・橙
 2951,Cayssis FZ Mask Orange,凱西斯帽子【ＦＺ】・橙
-2952,Rolling Sky Headguard,滾天護額
-2953,Rolling Sky Headguard・魁,魁護額
-2954,Rolling Earth Headguard,滾地護額・地
-2955,Rolling Earth Headguard・魁,魁護額・地
+2952,Rolling Sky Headguard,滾天護額・天
+2953,Rolling Sky Headguard・魁,滾天護額魁・天
+2954,Rolling Earth Headguard,滾地護額
+2955,Rolling Earth Headguard・魁,滾地護額魁
 2956,Cubie Helm,方塊頭兜
 2957,Cubie F Helm,方塊頭兜【Ｆ】
 2958,Cubie FZ Helm,方塊頭兜【ＦＺ】
@@ -3071,10 +3071,10 @@ index,source,target
 3069,Riot FZ Cap,暴動兜帽【ＦＺ】
 3070,Rutare FZ Helm,魯塔雷頭兜【ＦＺ】
 3071,Rutare FZ Cap,魯塔雷兜帽【ＦＺ】
-3072,Rolling Flow Headguard・Elegant,爾歐爾伊護額
+3072,Rolling Flow Headguard・Elegant,滾流護額
 3073,旋転の Headguard・Elegant,旋転の護額
-3074,Rolling Sky Headguard・Elegant,爾歐爾伊護額
-3075,Rolling Earth Headguard・Elegant,爾歐爾伊護額・地
+3074,Rolling Sky Headguard・Elegant,滾天護額・天
+3075,Rolling Earth Headguard・Elegant,滾地護額
 3076,Kuaru Beretta,晶龍貝雷塔
 3077,Kuaru Beretta F,晶龍貝雷塔【Ｆ】
 3078,Abiorugu Corsage,獰龍胸花
@@ -3641,16 +3641,16 @@ index,source,target
 3639,Gloria FZ Mask・Blue,榮光帽子【ＦＺ】・青
 3640,Gloria HC Mask・Blue,榮光帽子【ＨＣ】・青
 3641,Gloria HS Mask・Blue,榮光帽子【ＨＳ】・青
-3642,Gloria Helm・Water,榮光水頭兜
-3643,Gloria F Helm・Water,榮光水頭兜【Ｆ】
-3644,Gloria FZ Helm・Water,榮光水頭兜【ＦＺ】
-3645,Gloria HC Helm・Water,榮光水頭兜【ＨＣ】
-3646,Gloria HS Helm・Water,榮光水頭兜【ＨＳ】
-3647,Gloria Mask・Water,榮光水帽子
-3648,Gloria F Mask・Water,榮光水帽子【Ｆ】
-3649,Gloria FZ Mask・Water,榮光水帽子【ＦＺ】
-3650,Gloria HC Mask・Water,榮光水帽子【ＨＣ】
-3651,Gloria HS Mask・Water,榮光水帽子【ＨＳ】
+3642,Gloria Helm・Water,榮光頭兜・水
+3643,Gloria F Helm・Water,榮光頭兜【Ｆ】・水
+3644,Gloria FZ Helm・Water,榮光頭兜【ＦＺ】・水
+3645,Gloria HC Helm・Water,榮光頭兜【ＨＣ】・水
+3646,Gloria HS Helm・Water,榮光頭兜【ＨＳ】・水
+3647,Gloria Mask・Water,榮光帽子・水
+3648,Gloria F Mask・Water,榮光帽子【Ｆ】・水
+3649,Gloria FZ Mask・Water,榮光帽子【ＦＺ】・水
+3650,Gloria HC Mask・Water,榮光帽子【ＨＣ】・水
+3651,Gloria HS Mask・Water,榮光帽子【ＨＳ】・水
 3652,Gloria Helm・Red,榮光頭兜・赤
 3653,Gloria F Helm・Red,榮光頭兜【Ｆ】・赤
 3654,Gloria FZ Helm・Red,榮光頭兜【ＦＺ】・赤
@@ -3701,16 +3701,16 @@ index,source,target
 3699,Reppa FZ Hachimaki・Yellow,烈破鉢卷【ＦＺ】・黄
 3700,Reppa HC Hachimaki・Yellow,烈破鉢卷【ＨＣ】・黄
 3701,Reppa HS Hachimaki・Yellow,烈破鉢卷【ＨＳ】・黄
-3702,Cannon Beret・Water,加農水貝雷帽
-3703,Cannon F Beret・Water,加農水貝雷帽【Ｆ】
-3704,Cannon FZ Beret・Water,加農水貝雷帽【ＦＺ】
-3705,Cannon HC Beret・Water,加農水貝雷帽【ＨＣ】
-3706,Cannon HS Beret・Water,加農水貝雷帽【ＨＳ】
-3707,Axel Beret・Water,輪軸水貝雷帽
-3708,Axel F Beret・Water,輪軸水貝雷帽【Ｆ】
-3709,Axel FZ Beret・Water,輪軸水貝雷帽【ＦＺ】
-3710,Axel HC Beret・Water,輪軸水貝雷帽【ＨＣ】
-3711,Axel HS Beret・Water,輪軸水貝雷帽【ＨＳ】
+3702,Cannon Beret・Water,加農貝雷帽・水
+3703,Cannon F Beret・Water,加農貝雷帽【Ｆ】・水
+3704,Cannon FZ Beret・Water,加農貝雷帽【ＦＺ】・水
+3705,Cannon HC Beret・Water,加農貝雷帽【ＨＣ】・水
+3706,Cannon HS Beret・Water,加農貝雷帽【ＨＳ】・水
+3707,Axel Beret・Water,輪軸貝雷帽・水
+3708,Axel F Beret・Water,輪軸貝雷帽【Ｆ】・水
+3709,Axel FZ Beret・Water,輪軸貝雷帽【ＦＺ】・水
+3710,Axel HC Beret・Water,輪軸貝雷帽【ＨＣ】・水
+3711,Axel HS Beret・Water,輪軸貝雷帽【ＨＳ】・水
 3712,Cannon Beret・Green,加農貝雷帽・緑
 3713,Cannon F Beret・Green,加農貝雷帽【Ｆ】・緑
 3714,Cannon FZ Beret・Green,加農貝雷帽【ＦＺ】・緑
@@ -3940,16 +3940,16 @@ index,source,target
 3938,Magos FZ Haar・Red,瑪戈斯髮【ＦＺ】・赤
 3939,Magos HC Haar・Red,瑪戈斯髮【ＨＣ】・赤
 3940,Magos HS Haar・Red,瑪戈斯髮【ＨＳ】・赤
-3941,Magos Head・Water,瑪戈斯水頭兜
-3942,Magos F Head・Water,瑪戈斯水頭兜【Ｆ】
-3943,Magos FZ Head・Water,瑪戈斯水頭兜【ＦＺ】
-3944,Magos HC Head・Water,瑪戈斯水頭兜【ＨＣ】
-3945,Magos HS Head・Water,瑪戈斯水頭兜【ＨＳ】
-3946,Magos Haar・Water,瑪戈斯水髮
-3947,Magos F Haar・Water,瑪戈斯水髮【Ｆ】
-3948,Magos FZ Haar・Water,瑪戈斯水髮【ＦＺ】
-3949,Magos HC Haar・Water,瑪戈斯水髮【ＨＣ】
-3950,Magos HS Haar・Water,瑪戈斯水髮【ＨＳ】
+3941,Magos Head・Water,瑪戈斯頭兜・水
+3942,Magos F Head・Water,瑪戈斯頭兜【Ｆ】・水
+3943,Magos FZ Head・Water,瑪戈斯頭兜【ＦＺ】・水
+3944,Magos HC Head・Water,瑪戈斯頭兜【ＨＣ】・水
+3945,Magos HS Head・Water,瑪戈斯頭兜【ＨＳ】・水
+3946,Magos Haar・Water,瑪戈斯髮・水
+3947,Magos F Haar・Water,瑪戈斯髮【Ｆ】・水
+3948,Magos FZ Haar・Water,瑪戈斯髮【ＦＺ】・水
+3949,Magos HC Haar・Water,瑪戈斯髮【ＨＣ】・水
+3950,Magos HS Haar・Water,瑪戈斯髮【ＨＳ】・水
 3951,Magos Head・Blue,瑪戈斯頭兜・青
 3952,Magos F Head・Blue,瑪戈斯頭兜【Ｆ】・青
 3953,Magos FZ Head・Blue,瑪戈斯頭兜【ＦＺ】・青
@@ -3964,8 +3964,8 @@ index,source,target
 3962,Magos GS Haar・Yellow,瑪戈斯髮【ＧＳ】・黄
 3963,Magos GS Head・Red,瑪戈斯頭兜【ＧＳ】・赤
 3964,Magos GS Haar・Red,瑪戈斯髮【ＧＳ】・赤
-3965,Magos GS Head・Water,瑪戈斯水頭兜【ＧＳ】
-3966,Magos GS Haar・Water,瑪戈斯水髮【ＧＳ】
+3965,Magos GS Head・Water,瑪戈斯頭兜【ＧＳ】・水
+3966,Magos GS Haar・Water,瑪戈斯髮【ＧＳ】・水
 3967,Magos GS Head・Blue,瑪戈斯頭兜【ＧＳ】・青
 3968,Magos GS Haar・Blue,瑪戈斯髮【ＧＳ】・青
 3969,Red 備ノ具足 Kabuto,備具足兜・赤
@@ -4040,54 +4040,54 @@ index,source,target
 4038,Akahara Reisou GN Head HC White,赤原禮裝頭兜【ＨＣ】・白
 4039,Akahara Reisou GN Head HS White,赤原禮裝頭兜【ＨＳ】・白
 4040,Akahara Reisou GN Head GS White,赤原禮裝頭兜【ＧＳ】・白
-4041,Knight King Hair BM Blue,克伊格伊頭兜・青
-4042,Knight King Hair BM F Blue,克伊格伊頭兜【Ｆ】・青
-4043,Knight King Hair BM FZ Blue,克伊格伊頭兜【ＦＺ】・青
-4044,Knight King Hair BM HC Blue,克伊格伊頭兜【ＨＣ】・青
-4045,Knight King Hair BM HS Blue,克伊格伊頭兜【ＨＳ】・青
-4046,Knight King Hair BM GS Blue,克伊格伊頭兜【ＧＳ】・青
-4047,Knight King Hair GN Blue,克伊格伊頭兜・青
-4048,Knight King Hair GN F Blue,克伊格伊頭兜【Ｆ】・青
-4049,Knight King Hair GN FZ Blue,克伊格伊頭兜【ＦＺ】・青
-4050,Knight King Hair GN HC Blue,克伊格伊頭兜【ＨＣ】・青
-4051,Knight King Hair GN HS Blue,克伊格伊頭兜【ＨＳ】・青
-4052,Knight King Hair GN GS Blue,克伊格伊頭兜【ＧＳ】・青
-4053,Knight King Hair BM Red,克伊格伊頭兜・赤
-4054,Knight King Hair BM F Red,克伊格伊頭兜【Ｆ】・赤
-4055,Knight King Hair BM FZ Red,克伊格伊頭兜【ＦＺ】・赤
-4056,Knight King Hair BM HC Red,克伊格伊頭兜【ＨＣ】・赤
-4057,Knight King Hair BM HS Red,克伊格伊頭兜【ＨＳ】・赤
-4058,Knight King Hair BM GS Red,克伊格伊頭兜【ＧＳ】・赤
-4059,Knight King Hair GN Red,克伊格伊頭兜・赤
-4060,Knight King Hair GN F Red,克伊格伊頭兜【Ｆ】・赤
-4061,Knight King Hair GN FZ Red,克伊格伊頭兜【ＦＺ】・赤
-4062,Knight King Hair GN HC Red,克伊格伊頭兜【ＨＣ】・赤
-4063,Knight King Hair GN HS Red,克伊格伊頭兜【ＨＳ】・赤
-4064,Knight King Hair GN GS Red,克伊格伊頭兜【ＧＳ】・赤
-4065,Knight King Hair BM Black,克伊格伊頭兜・黑
-4066,Knight King Hair BM F Black,克伊格伊頭兜【Ｆ】・黑
-4067,Knight King Hair BM FZ Black,克伊格伊頭兜【ＦＺ】・黑
-4068,Knight King Hair BM HC Black,克伊格伊頭兜【ＨＣ】・黑
-4069,Knight King Hair BM HS Black,克伊格伊頭兜【ＨＳ】・黑
-4070,Knight King Hair BM GS Black,克伊格伊頭兜【ＧＳ】・黑
-4071,Knight King Hair GN Black,克伊格伊頭兜・黑
-4072,Knight King Hair GN F Black,克伊格伊頭兜【Ｆ】・黑
-4073,Knight King Hair GN FZ Black,克伊格伊頭兜【ＦＺ】・黑
-4074,Knight King Hair GN HC Black,克伊格伊頭兜【ＨＣ】・黑
-4075,Knight King Hair GN HS Black,克伊格伊頭兜【ＨＳ】・黑
-4076,Knight King Hair GN GS Black,克伊格伊頭兜【ＧＳ】・黑
-4077,Knight King Hair BM White,克伊格伊頭兜・白
-4078,Knight King Hair BM F White,克伊格伊頭兜【Ｆ】・白
-4079,Knight King Hair BM FZ White,克伊格伊頭兜【ＦＺ】・白
-4080,Knight King Hair BM HC White,克伊格伊頭兜【ＨＣ】・白
-4081,Knight King Hair BM HS White,克伊格伊頭兜【ＨＳ】・白
-4082,Knight King Hair BM GS White,克伊格伊頭兜【ＧＳ】・白
-4083,Knight King Hair GN White,克伊格伊頭兜・白
-4084,Knight King Hair GN F White,克伊格伊頭兜【Ｆ】・白
-4085,Knight King Hair GN FZ White,克伊格伊頭兜【ＦＺ】・白
-4086,Knight King Hair GN HC White,克伊格伊頭兜【ＨＣ】・白
-4087,Knight King Hair GN HS White,克伊格伊頭兜【ＨＳ】・白
-4088,Knight King Hair GN GS White,克伊格伊頭兜【ＧＳ】・白
+4041,Knight King Hair BM Blue,騎士王頭兜・青
+4042,Knight King Hair BM F Blue,騎士王頭兜【Ｆ】・青
+4043,Knight King Hair BM FZ Blue,騎士王頭兜【ＦＺ】・青
+4044,Knight King Hair BM HC Blue,騎士王頭兜【ＨＣ】・青
+4045,Knight King Hair BM HS Blue,騎士王頭兜【ＨＳ】・青
+4046,Knight King Hair BM GS Blue,騎士王頭兜【ＧＳ】・青
+4047,Knight King Hair GN Blue,騎士王頭兜・青
+4048,Knight King Hair GN F Blue,騎士王頭兜【Ｆ】・青
+4049,Knight King Hair GN FZ Blue,騎士王頭兜【ＦＺ】・青
+4050,Knight King Hair GN HC Blue,騎士王頭兜【ＨＣ】・青
+4051,Knight King Hair GN HS Blue,騎士王頭兜【ＨＳ】・青
+4052,Knight King Hair GN GS Blue,騎士王頭兜【ＧＳ】・青
+4053,Knight King Hair BM Red,騎士王頭兜・赤
+4054,Knight King Hair BM F Red,騎士王頭兜【Ｆ】・赤
+4055,Knight King Hair BM FZ Red,騎士王頭兜【ＦＺ】・赤
+4056,Knight King Hair BM HC Red,騎士王頭兜【ＨＣ】・赤
+4057,Knight King Hair BM HS Red,騎士王頭兜【ＨＳ】・赤
+4058,Knight King Hair BM GS Red,騎士王頭兜【ＧＳ】・赤
+4059,Knight King Hair GN Red,騎士王頭兜・赤
+4060,Knight King Hair GN F Red,騎士王頭兜【Ｆ】・赤
+4061,Knight King Hair GN FZ Red,騎士王頭兜【ＦＺ】・赤
+4062,Knight King Hair GN HC Red,騎士王頭兜【ＨＣ】・赤
+4063,Knight King Hair GN HS Red,騎士王頭兜【ＨＳ】・赤
+4064,Knight King Hair GN GS Red,騎士王頭兜【ＧＳ】・赤
+4065,Knight King Hair BM Black,騎士王頭兜・黑
+4066,Knight King Hair BM F Black,騎士王頭兜【Ｆ】・黑
+4067,Knight King Hair BM FZ Black,騎士王頭兜【ＦＺ】・黑
+4068,Knight King Hair BM HC Black,騎士王頭兜【ＨＣ】・黑
+4069,Knight King Hair BM HS Black,騎士王頭兜【ＨＳ】・黑
+4070,Knight King Hair BM GS Black,騎士王頭兜【ＧＳ】・黑
+4071,Knight King Hair GN Black,騎士王頭兜・黑
+4072,Knight King Hair GN F Black,騎士王頭兜【Ｆ】・黑
+4073,Knight King Hair GN FZ Black,騎士王頭兜【ＦＺ】・黑
+4074,Knight King Hair GN HC Black,騎士王頭兜【ＨＣ】・黑
+4075,Knight King Hair GN HS Black,騎士王頭兜【ＨＳ】・黑
+4076,Knight King Hair GN GS Black,騎士王頭兜【ＧＳ】・黑
+4077,Knight King Hair BM White,騎士王頭兜・白
+4078,Knight King Hair BM F White,騎士王頭兜【Ｆ】・白
+4079,Knight King Hair BM FZ White,騎士王頭兜【ＦＺ】・白
+4080,Knight King Hair BM HC White,騎士王頭兜【ＨＣ】・白
+4081,Knight King Hair BM HS White,騎士王頭兜【ＨＳ】・白
+4082,Knight King Hair BM GS White,騎士王頭兜【ＧＳ】・白
+4083,Knight King Hair GN White,騎士王頭兜・白
+4084,Knight King Hair GN F White,騎士王頭兜【Ｆ】・白
+4085,Knight King Hair GN FZ White,騎士王頭兜【ＦＺ】・白
+4086,Knight King Hair GN HC White,騎士王頭兜【ＨＣ】・白
+4087,Knight King Hair GN HS White,騎士王頭兜【ＨＳ】・白
+4088,Knight King Hair GN GS White,騎士王頭兜【ＧＳ】・白
 4089,ヴェルフFZ Helm,維爾夫頭兜【ＦＺ】
 4090,ヴェルフHC Helm,維爾夫頭兜【ＨＣ】
 4091,ヴェルフFZ Cap,維爾夫兜帽【ＦＺ】
@@ -4098,9 +4098,9 @@ index,source,target
 4096,テリオグHC Cap,特里歐古兜帽【ＨＣ】
 4097,Beil FZ Earrings,貝爾耳環【ＦＺ】
 4098,Beil HC Earrings,貝爾耳環【ＨＣ】
-4099,Ahaba ーFZ Piercing,耳飾【ＦＺ】
-4100,Ahaba ーHC Piercing,耳飾【ＨＣ】
-4101,Ahaba ーHS Piercing,耳飾【ＨＳ】
+4099,Ahaba ーFZ Piercing,阿哈巴耳飾【ＦＺ】
+4100,Ahaba ーHC Piercing,阿哈巴耳飾【ＨＣ】
+4101,Ahaba ーHS Piercing,阿哈巴耳飾【ＨＳ】
 4102,クローニーFZ Piercing,庫羅尼耳飾【ＦＺ】
 4103,クローニーHC Piercing,庫羅尼耳飾【ＨＣ】
 4104,クローニーHS Piercing,庫羅尼耳飾【ＨＳ】
@@ -4142,12 +4142,12 @@ index,source,target
 4140,Gougarf G Cap,鬥獸兜帽【Ｇ】
 4141,Gougarf GF Cap,鬥獸兜帽【ＧＦ】
 4142,Gougarf GX Cap,鬥獸兜帽【ＧＸ】
-4143,Shourou【Heaven 頭】G,照楼上手【Ｇ】・天
-4144,Shourou【Heaven 頭】GF,照楼上手【ＧＦ】・天
-4145,Shourou【Heaven 頭】GX,照楼上手【ＧＸ】・天
-4146,Mitama【Heaven 頭】G,御魂上手【Ｇ】・天
-4147,Mitama【Heaven 頭】GF,御魂上手【ＧＦ】・天
-4148,Mitama【Heaven 頭】GX,御魂上手【ＧＸ】・天
+4143,Shourou【Heaven 頭】G,照楼天上手【Ｇ】
+4144,Shourou【Heaven 頭】GF,照楼天上手【ＧＦ】
+4145,Shourou【Heaven 頭】GX,照楼天上手【ＧＸ】
+4146,Mitama【Heaven 頭】G,御魂天上手【Ｇ】
+4147,Mitama【Heaven 頭】GF,御魂天上手【ＧＦ】
+4148,Mitama【Heaven 頭】GX,御魂天上手【ＧＸ】
 4149,Giaorugu G Helm,冰獰龍頭兜【Ｇ】
 4150,Giaorugu GF Helm,冰獰龍頭兜【ＧＦ】
 4151,Giaorugu GX Helm,冰獰龍頭兜【ＧＸ】
@@ -4190,12 +4190,12 @@ index,source,target
 4188,Espinas G Soul,棘龍魂【Ｇ】
 4189,Espinas GF Soul,棘龍魂【ＧＦ】
 4190,Espinas GX Soul,棘龍魂【ＧＸ】
-4191,Golden Headdress・G,格歐爾艾頭兜【Ｇ】
-4192,Golden Headdress・GF,格歐爾艾頭兜【ＧＦ】
-4193,Golden Headdress・GX,格歐爾艾頭兜【ＧＸ】
-4194,Puppeteer Mask 隠・G,隠帽子【Ｇ】
-4195,Puppeteer Mask 隠・GF,隠帽子【ＧＦ】
-4196,Puppeteer Mask 隠・GX,隠帽子【ＧＸ】
+4191,Golden Headdress・G,金頭飾頭兜【Ｇ】
+4192,Golden Headdress・GF,金頭飾頭兜【ＧＦ】
+4193,Golden Headdress・GX,金頭飾頭兜【ＧＸ】
+4194,Puppeteer Mask 隠・G,操偶帽子【Ｇ】
+4195,Puppeteer Mask 隠・GF,操偶帽子【ＧＦ】
+4196,Puppeteer Mask 隠・GX,操偶帽子【ＧＸ】
 4197,Rebidiora G Head,雷極龍頭兜【Ｇ】
 4198,Rebidiora GF Head,雷極龍頭兜【ＧＦ】
 4199,Rebidiora GX Head,雷極龍頭兜【ＧＸ】
@@ -4232,9 +4232,9 @@ index,source,target
 4230,Disu G Cap,德伊斯烏兜帽【Ｇ】
 4231,Disu GF Cap,德伊斯烏兜帽【ＧＦ】
 4232,Disu GX Cap,德伊斯烏兜帽【ＧＸ】
-4233,Shadow Mask・G,暗影帽子【Ｇ】
-4234,Shadow Mask・GF,暗影帽子【ＧＦ】
-4235,Shadow Mask・GX,暗影帽子【ＧＸ】
+4233,Shadow Mask・G,影帽子【Ｇ】
+4234,Shadow Mask・GF,影帽子【ＧＦ】
+4235,Shadow Mask・GX,影帽子【ＧＸ】
 4236,Shade Mask・G,影帽子【Ｇ】
 4237,Shade Mask・GF,影帽子【ＧＦ】
 4238,Shade Mask・GX,影帽子【ＧＸ】
@@ -4270,14 +4270,14 @@ index,source,target
 4268,Genbu・刀神GF Helm,刀神頭兜【Ｆ】
 4269,Seiryu・刀神G Helm,青龍頭兜【Ｇ】
 4270,Seiryu・刀神GF Helm,刀神頭兜【Ｆ】
-4271,Byakko・Heaven 槍G Helm,白虎頭兜【Ｇ】・天
-4272,Byakko・Heaven 槍GF Helm,槍頭兜【Ｆ】・天
-4273,Suzaku・Heaven 槍G Helm,朱雀頭兜【Ｇ】・天
-4274,Suzaku・Heaven 槍GF Helm,槍頭兜【Ｆ】・天
-4275,Genbu・Heaven 槍G Helm,玄武頭兜【Ｇ】・天
-4276,Genbu・Heaven 槍GF Helm,槍頭兜【Ｆ】・天
-4277,Seiryu・Heaven 槍G Helm,青龍頭兜【Ｇ】・天
-4278,Seiryu・Heaven 槍GF Helm,槍頭兜【Ｆ】・天
+4271,Byakko・Heaven 槍G Helm,白虎天頭兜【Ｇ】
+4272,Byakko・Heaven 槍GF Helm,槍天頭兜【Ｆ】
+4273,Suzaku・Heaven 槍G Helm,朱雀天頭兜【Ｇ】
+4274,Suzaku・Heaven 槍GF Helm,槍天頭兜【Ｆ】
+4275,Genbu・Heaven 槍G Helm,玄武天頭兜【Ｇ】
+4276,Genbu・Heaven 槍GF Helm,槍天頭兜【Ｆ】
+4277,Seiryu・Heaven 槍G Helm,青龍天頭兜【Ｇ】
+4278,Seiryu・Heaven 槍GF Helm,槍天頭兜【Ｆ】
 4279,Byakko・砲皇G Helm,白虎頭兜【Ｇ】
 4280,Byakko・砲皇GF Helm,砲皇頭兜【Ｆ】
 4281,Suzaku・砲皇G Helm,朱雀頭兜【Ｇ】
@@ -4319,13 +4319,13 @@ index,source,target
 4317,Seiryu・銃仙G Mask,青龍帽子【Ｇ】
 4318,Seiryu・銃仙GF Mask,銃仙帽子【Ｆ】
 4319,Byakko・Bow 鬼G Mask,白虎帽子【Ｇ】
-4320,Byakko・Bow 鬼GF Mask,鬼帽子【Ｆ】
+4320,Byakko・Bow 鬼GF Mask,白虎帽子【Ｆ】
 4321,Suzaku・Bow 鬼G Mask,朱雀帽子【Ｇ】
-4322,Suzaku・Bow 鬼GF Mask,鬼帽子【Ｆ】
+4322,Suzaku・Bow 鬼GF Mask,朱雀帽子【Ｆ】
 4323,Genbu・Bow 鬼G Mask,玄武帽子【Ｇ】
-4324,Genbu・Bow 鬼GF Mask,鬼帽子【Ｆ】
+4324,Genbu・Bow 鬼GF Mask,玄武帽子【Ｆ】
 4325,Seiryu・Bow 鬼G Mask,青龍帽子【Ｇ】
-4326,Seiryu・Bow 鬼GF Mask,鬼帽子【Ｆ】
+4326,Seiryu・Bow 鬼GF Mask,青龍帽子【Ｆ】
 4327,Odiva G Helm,奧蒂瓦頭兜【Ｇ】
 4328,Odiva G Cap,奧蒂瓦兜帽【Ｇ】
 4329,Blitz G Horn,布伊特角【Ｇ】
@@ -4346,7 +4346,7 @@ index,source,target
 4344,エミットG Cap,艾米托兜帽【Ｇ】
 4345,Diboa G Helm,迪博阿頭兜【Ｇ】
 4346,Diboa G Cap,迪博阿兜帽【Ｇ】
-4347,Demon Lord Headguard,德艾姆歐護額
+4347,Demon Lord Headguard,魔王護額
 4348,童子ノ Headguard,童子護額
 4349,レアー Head,雷阿頭兜
 4350,ハーデス Head,哈德斯頭兜
@@ -4396,18 +4396,18 @@ index,source,target
 4394,Pics HC Hat・Black,皮克斯帽【ＨＣ】・黑
 4395,Pics HS Hat・Black,皮克斯帽【ＨＳ】・黑
 4396,Pics GS Hat・Black,皮克斯帽【ＧＳ】・黑
-4397,Pics Head・Water,皮克斯水頭兜
-4398,Pics F Head・Water,皮克斯水頭兜【Ｆ】
-4399,Pics FZ Head・Water,皮克斯水頭兜【ＦＺ】
-4400,Pics HC Head・Water,皮克斯水頭兜【ＨＣ】
-4401,Pics HS Head・Water,皮克斯水頭兜【ＨＳ】
-4402,Pics GS Head・Water,皮克斯水頭兜【ＧＳ】
-4403,Pics Hat・Water,皮克斯水帽
-4404,Pics F Hat・Water,皮克斯水帽【Ｆ】
-4405,Pics FZ Hat・Water,皮克斯水帽【ＦＺ】
-4406,Pics HC Hat・Water,皮克斯水帽【ＨＣ】
-4407,Pics HS Hat・Water,皮克斯水帽【ＨＳ】
-4408,Pics GS Hat・Water,皮克斯水帽【ＧＳ】
+4397,Pics Head・Water,皮克斯頭兜・水
+4398,Pics F Head・Water,皮克斯頭兜【Ｆ】・水
+4399,Pics FZ Head・Water,皮克斯頭兜【ＦＺ】・水
+4400,Pics HC Head・Water,皮克斯頭兜【ＨＣ】・水
+4401,Pics HS Head・Water,皮克斯頭兜【ＨＳ】・水
+4402,Pics GS Head・Water,皮克斯頭兜【ＧＳ】・水
+4403,Pics Hat・Water,皮克斯帽・水
+4404,Pics F Hat・Water,皮克斯帽【Ｆ】・水
+4405,Pics FZ Hat・Water,皮克斯帽【ＦＺ】・水
+4406,Pics HC Hat・Water,皮克斯帽【ＨＣ】・水
+4407,Pics HS Hat・Water,皮克斯帽【ＨＳ】・水
+4408,Pics GS Hat・Water,皮克斯帽【ＧＳ】・水
 4409,Bright Helm,輝頭兜
 4410,Bright F Helm,輝頭兜【Ｆ】
 4411,Bright FZ Helm,輝頭兜【ＦＺ】
@@ -4515,7 +4515,7 @@ index,source,target
 4513,Smart HC Head,機靈頭兜【ＨＣ】
 4514,ゴウ Beretta,戈烏貝雷塔
 4515,ゴウ Beretta F,戈烏貝雷塔【Ｆ】
-4516,Ahaba ーGS Piercing,耳飾【ＧＳ】
+4516,Ahaba ーGS Piercing,阿哈巴耳飾【ＧＳ】
 4517,クローニーGS Piercing,庫羅尼耳飾【ＧＳ】
 4518,Gougarf FX Helm,鬥獸頭兜【ＦＸ】
 4519,Gougarf HS Helm,鬥獸頭兜【ＨＳ】
@@ -4691,12 +4691,12 @@ index,source,target
 4689,Galitos HC Band・Black,加里托斯頭帶【ＨＣ】・黑
 4690,Galitos HS Band・Black,加里托斯頭帶【ＨＳ】・黑
 4691,Galitos GS Band・Black,加里托斯頭帶【ＧＳ】・黑
-4692,Galitos HC Head・Water,加里托斯水頭兜【ＨＣ】
-4693,Galitos HS Head・Water,加里托斯水頭兜【ＨＳ】
-4694,Galitos GS Head・Water,加里托斯水頭兜【ＧＳ】
-4695,Galitos HC Band・Water,加里托斯水頭帶【ＨＣ】
-4696,Galitos HS Band・Water,加里托斯水頭帶【ＨＳ】
-4697,Galitos GS Band・Water,加里托斯水頭帶【ＧＳ】
+4692,Galitos HC Head・Water,加里托斯頭兜【ＨＣ】・水
+4693,Galitos HS Head・Water,加里托斯頭兜【ＨＳ】・水
+4694,Galitos GS Head・Water,加里托斯頭兜【ＧＳ】・水
+4695,Galitos HC Band・Water,加里托斯頭帶【ＨＣ】・水
+4696,Galitos HS Band・Water,加里托斯頭帶【ＨＳ】・水
+4697,Galitos GS Band・Water,加里托斯頭帶【ＧＳ】・水
 4698,Star Festival FZ Mask [Blue 】,星祭帽子【ＦＺ】・青
 4699,Star Festival HC Mask [Blue 】,星祭帽子【ＨＣ】・青
 4700,Star Festival HS Mask [Blue 】,星祭帽子【ＨＳ】・青
@@ -4833,12 +4833,12 @@ index,source,target
 4831,Beru G Cap,舞雷龍兜帽【Ｇ】
 4832,Beru GF Cap,舞雷龍兜帽【ＧＦ】
 4833,Beru GX Cap,舞雷龍兜帽【ＧＸ】
-4834,Black Gravios G Helm,鎧龍頭兜【Ｇ】・黑
-4835,Black Gravios GF Helm,鎧龍頭兜【ＧＦ】・黑
-4836,Black Gravios GX Helm,鎧龍頭兜【ＧＸ】・黑
-4837,Black Gravios G Cap,鎧龍兜帽【Ｇ】・黑
-4838,Black Gravios GF Cap,鎧龍兜帽【ＧＦ】・黑
-4839,Black Gravios GX Cap,鎧龍兜帽【ＧＸ】・黑
+4834,Black Gravios G Helm,黑鎧龍頭兜【Ｇ】
+4835,Black Gravios GF Helm,黑鎧龍頭兜【ＧＦ】
+4836,Black Gravios GX Helm,黑鎧龍頭兜【ＧＸ】
+4837,Black Gravios G Cap,黑鎧龍兜帽【Ｇ】
+4838,Black Gravios GF Cap,黑鎧龍兜帽【ＧＦ】
+4839,Black Gravios GX Cap,黑鎧龍兜帽【ＧＸ】
 4840,Lune G Helm,月頭兜【Ｇ】
 4841,Lune GF Helm,月頭兜【ＧＦ】
 4842,Lune GX Helm,月頭兜【ＧＸ】
@@ -5015,18 +5015,18 @@ index,source,target
 5013,Genom HS Mask・Green,基因組帽子【ＨＳ】・緑
 5014,Genom GS Mask・Green,基因組帽子【ＧＳ】・緑
 5015,Genom GP Mask・Green,基因組帽子【ＧＰ】・緑
-5016,Genom Head・Water,基因組水頭兜
-5017,Genom F Head・Water,基因組水頭兜【Ｆ】
-5018,Genom FZ Head・Water,基因組水頭兜【ＦＺ】
-5019,Genom HS Head・Water,基因組水頭兜【ＨＳ】
-5020,Genom GS Head・Water,基因組水頭兜【ＧＳ】
-5021,Genom GP Head・Water,基因組水頭兜【ＧＰ】
-5022,Genom Mask・Water,基因組水帽子
-5023,Genom F Mask・Water,基因組水帽子【Ｆ】
-5024,Genom FZ Mask・Water,基因組水帽子【ＦＺ】
-5025,Genom HS Mask・Water,基因組水帽子【ＨＳ】
-5026,Genom GS Mask・Water,基因組水帽子【ＧＳ】
-5027,Genom GP Mask・Water,基因組水帽子【ＧＰ】
+5016,Genom Head・Water,基因組頭兜・水
+5017,Genom F Head・Water,基因組頭兜【Ｆ】・水
+5018,Genom FZ Head・Water,基因組頭兜【ＦＺ】・水
+5019,Genom HS Head・Water,基因組頭兜【ＨＳ】・水
+5020,Genom GS Head・Water,基因組頭兜【ＧＳ】・水
+5021,Genom GP Head・Water,基因組頭兜【ＧＰ】・水
+5022,Genom Mask・Water,基因組帽子・水
+5023,Genom F Mask・Water,基因組帽子【Ｆ】・水
+5024,Genom FZ Mask・Water,基因組帽子【ＦＺ】・水
+5025,Genom HS Mask・Water,基因組帽子【ＨＳ】・水
+5026,Genom GS Mask・Water,基因組帽子【ＧＳ】・水
+5027,Genom GP Mask・Water,基因組帽子【ＧＰ】・水
 5028,Genom Head・Red,基因組頭兜・赤
 5029,Genom F Head・Red,基因組頭兜【Ｆ】・赤
 5030,Genom FZ Head・Red,基因組頭兜【ＦＺ】・赤
@@ -5251,10 +5251,10 @@ index,source,target
 5249,竜巻HS Hachimaki・Black,竜巻鉢卷【ＨＳ】・黑
 5250,竜巻GS Hachimaki・Black,竜巻鉢卷【ＧＳ】・黑
 5251,竜巻GP Hachimaki・Black,竜巻鉢卷【ＧＰ】・黑
-5252,True 空FZ Hachimaki・Black,空鉢卷【ＦＺ】・黑
-5253,True 空HS Hachimaki・Black,空鉢卷【ＨＳ】・黑
-5254,True 空GS Hachimaki・Black,空鉢卷【ＧＳ】・黑
-5255,True 空GP Hachimaki・Black,空鉢卷【ＧＰ】・黑
+5252,True 空FZ Hachimaki・Black,真空鉢卷【ＦＺ】・黑
+5253,True 空HS Hachimaki・Black,真空鉢卷【ＨＳ】・黑
+5254,True 空GS Hachimaki・Black,真空鉢卷【ＧＳ】・黑
+5255,True 空GP Hachimaki・Black,真空鉢卷【ＧＰ】・黑
 5256,千裂FZお団子・Black,千裂お団子頭兜・黑
 5257,千裂HSお団子・Black,千裂お団子頭兜・黑
 5258,千裂GSお団子・Black,千裂お団子頭兜・黑
@@ -5267,10 +5267,10 @@ index,source,target
 5265,竜巻HS Hachimaki・Tea,竜巻鉢卷【ＨＳ】・茶
 5266,竜巻GS Hachimaki・Tea,竜巻鉢卷【ＧＳ】・茶
 5267,竜巻GP Hachimaki・Tea,竜巻鉢卷【ＧＰ】・茶
-5268,True 空FZ Hachimaki・Tea,空鉢卷【ＦＺ】・茶
-5269,True 空HS Hachimaki・Tea,空鉢卷【ＨＳ】・茶
-5270,True 空GS Hachimaki・Tea,空鉢卷【ＧＳ】・茶
-5271,True 空GP Hachimaki・Tea,空鉢卷【ＧＰ】・茶
+5268,True 空FZ Hachimaki・Tea,真空鉢卷【ＦＺ】・茶
+5269,True 空HS Hachimaki・Tea,真空鉢卷【ＨＳ】・茶
+5270,True 空GS Hachimaki・Tea,真空鉢卷【ＧＳ】・茶
+5271,True 空GP Hachimaki・Tea,真空鉢卷【ＧＰ】・茶
 5272,千裂FZお団子・Purple,千裂お団子頭兜・紫
 5273,千裂HSお団子・Purple,千裂お団子頭兜・紫
 5274,千裂GSお団子・Purple,千裂お団子頭兜・紫
@@ -5283,10 +5283,10 @@ index,source,target
 5281,竜巻HS Hachimaki・White,竜巻鉢卷【ＨＳ】・白
 5282,竜巻GS Hachimaki・White,竜巻鉢卷【ＧＳ】・白
 5283,竜巻GP Hachimaki・White,竜巻鉢卷【ＧＰ】・白
-5284,True 空FZ Hachimaki・White,空鉢卷【ＦＺ】・白
-5285,True 空HS Hachimaki・White,空鉢卷【ＨＳ】・白
-5286,True 空GS Hachimaki・White,空鉢卷【ＧＳ】・白
-5287,True 空GP Hachimaki・White,空鉢卷【ＧＰ】・白
+5284,True 空FZ Hachimaki・White,真空鉢卷【ＦＺ】・白
+5285,True 空HS Hachimaki・White,真空鉢卷【ＨＳ】・白
+5286,True 空GS Hachimaki・White,真空鉢卷【ＧＳ】・白
+5287,True 空GP Hachimaki・White,真空鉢卷【ＧＰ】・白
 5288,千裂FZお団子・White,千裂お団子頭兜・白
 5289,千裂HSお団子・White,千裂お団子頭兜・白
 5290,千裂GSお団子・White,千裂お団子頭兜・白
@@ -5299,10 +5299,10 @@ index,source,target
 5297,竜巻HS Hachimaki・Blue,竜巻鉢卷【ＨＳ】・青
 5298,竜巻GS Hachimaki・Blue,竜巻鉢卷【ＧＳ】・青
 5299,竜巻GP Hachimaki・Blue,竜巻鉢卷【ＧＰ】・青
-5300,True 空FZ Hachimaki・Blue,空鉢卷【ＦＺ】・青
-5301,True 空HS Hachimaki・Blue,空鉢卷【ＨＳ】・青
-5302,True 空GS Hachimaki・Blue,空鉢卷【ＧＳ】・青
-5303,True 空GP Hachimaki・Blue,空鉢卷【ＧＰ】・青
+5300,True 空FZ Hachimaki・Blue,真空鉢卷【ＦＺ】・青
+5301,True 空HS Hachimaki・Blue,真空鉢卷【ＨＳ】・青
+5302,True 空GS Hachimaki・Blue,真空鉢卷【ＧＳ】・青
+5303,True 空GP Hachimaki・Blue,真空鉢卷【ＧＰ】・青
 5304,千裂FZお団子・Green,千裂お団子頭兜・緑
 5305,千裂HSお団子・Green,千裂お団子頭兜・緑
 5306,千裂GSお団子・Green,千裂お団子頭兜・緑
@@ -5319,10 +5319,10 @@ index,source,target
 5317,Chaos HS Head・Blue,混沌頭兜【ＨＳ】・青
 5318,Chaos GS Head・Blue,混沌頭兜【ＧＳ】・青
 5319,Chaos GP Head・Blue,混沌頭兜【ＧＰ】・青
-5320,Shadow FZ Wig Purple,暗影假髮【ＦＺ】・紫
-5321,Shadow HS Wig Purple,暗影假髮【ＨＳ】・紫
-5322,Shadow GS Wig Purple,暗影假髮【ＧＳ】・紫
-5323,Shadow GP Wig Purple,暗影假髮【ＧＰ】・紫
+5320,Shadow FZ Wig Purple,影假髮【ＦＺ】・紫
+5321,Shadow HS Wig Purple,影假髮【ＨＳ】・紫
+5322,Shadow GS Wig Purple,影假髮【ＧＳ】・紫
+5323,Shadow GP Wig Purple,影假髮【ＧＰ】・紫
 5324,Soul FZ Wig・Purple,沃伊格魂【ＦＺ】・紫
 5325,Soul HS Wig・Purple,沃伊格魂【ＨＳ】・紫
 5326,Soul GS Wig・Purple,沃伊格魂【ＧＳ】・紫
@@ -5335,10 +5335,10 @@ index,source,target
 5333,Chaos HS Head・Red,混沌頭兜【ＨＳ】・赤
 5334,Chaos GS Head・Red,混沌頭兜【ＧＳ】・赤
 5335,Chaos GP Head・Red,混沌頭兜【ＧＰ】・赤
-5336,Shadow FZ Wig Red,暗影假髮【ＦＺ】・赤
-5337,Shadow HS Wig Red,暗影假髮【ＨＳ】・赤
-5338,Shadow GS Wig Red,暗影假髮【ＧＳ】・赤
-5339,Shadow GP Wig Red,暗影假髮【ＧＰ】・赤
+5336,Shadow FZ Wig Red,影假髮【ＦＺ】・赤
+5337,Shadow HS Wig Red,影假髮【ＨＳ】・赤
+5338,Shadow GS Wig Red,影假髮【ＧＳ】・赤
+5339,Shadow GP Wig Red,影假髮【ＧＰ】・赤
 5340,Soul FZ Wig・Red,沃伊格魂【ＦＺ】・赤
 5341,Soul HS Wig・Red,沃伊格魂【ＨＳ】・赤
 5342,Soul GS Wig・Red,沃伊格魂【ＧＳ】・赤
@@ -5351,10 +5351,10 @@ index,source,target
 5349,Chaos HS Head・Green,混沌頭兜【ＨＳ】・緑
 5350,Chaos GS Head・Green,混沌頭兜【ＧＳ】・緑
 5351,Chaos GP Head・Green,混沌頭兜【ＧＰ】・緑
-5352,Shadow FZ Wig Green,暗影假髮【ＦＺ】・緑
-5353,Shadow HS Wig Green,暗影假髮【ＨＳ】・緑
-5354,Shadow GS Wig Green,暗影假髮【ＧＳ】・緑
-5355,Shadow GP Wig Green,暗影假髮【ＧＰ】・緑
+5352,Shadow FZ Wig Green,影假髮【ＦＺ】・緑
+5353,Shadow HS Wig Green,影假髮【ＨＳ】・緑
+5354,Shadow GS Wig Green,影假髮【ＧＳ】・緑
+5355,Shadow GP Wig Green,影假髮【ＧＰ】・緑
 5356,Soul FZ Wig・Green,沃伊格魂【ＦＺ】・緑
 5357,Soul HS Wig・Green,沃伊格魂【ＨＳ】・緑
 5358,Soul GS Wig・Green,沃伊格魂【ＧＳ】・緑
@@ -5367,10 +5367,10 @@ index,source,target
 5365,Chaos HS Head・White,混沌頭兜【ＨＳ】・白
 5366,Chaos GS Head・White,混沌頭兜【ＧＳ】・白
 5367,Chaos GP Head・White,混沌頭兜【ＧＰ】・白
-5368,Shadow FZ Wig White,暗影假髮【ＦＺ】・白
-5369,Shadow HS Wig White,暗影假髮【ＨＳ】・白
-5370,Shadow GS Wig White,暗影假髮【ＧＳ】・白
-5371,Shadow GP Wig White,暗影假髮【ＧＰ】・白
+5368,Shadow FZ Wig White,影假髮【ＦＺ】・白
+5369,Shadow HS Wig White,影假髮【ＨＳ】・白
+5370,Shadow GS Wig White,影假髮【ＧＳ】・白
+5371,Shadow GP Wig White,影假髮【ＧＰ】・白
 5372,Soul FZ Wig・White,沃伊格魂【ＦＺ】・白
 5373,Soul HS Wig・White,沃伊格魂【ＨＳ】・白
 5374,Soul GS Wig・White,沃伊格魂【ＧＳ】・白
@@ -5411,10 +5411,10 @@ index,source,target
 5409,Shinryu GP Hachimaki・Red,神龍鉢卷【ＧＰ】・赤
 5410,Reppa GS Hachimaki・Red,烈破鉢卷【ＧＳ】・赤
 5411,Reppa GP Hachimaki・Red,烈破鉢卷【ＧＰ】・赤
-5412,Cannon GS Beret・Water,加農水貝雷帽【ＧＳ】
-5413,Cannon GP Beret・Water,加農水貝雷帽【ＧＰ】
-5414,Axel GS Beret・Water,輪軸水貝雷帽【ＧＳ】
-5415,Axel GP Beret・Water,輪軸水貝雷帽【ＧＰ】
+5412,Cannon GS Beret・Water,加農貝雷帽【ＧＳ】・水
+5413,Cannon GP Beret・Water,加農貝雷帽【ＧＰ】・水
+5414,Axel GS Beret・Water,輪軸貝雷帽【ＧＳ】・水
+5415,Axel GP Beret・Water,輪軸貝雷帽【ＧＰ】・水
 5416,Shinryu GS Hachimaki・White,神龍鉢卷【ＧＳ】・白
 5417,Shinryu GP Hachimaki・White,神龍鉢卷【ＧＰ】・白
 5418,Reppa GS Hachimaki・White,烈破鉢卷【ＧＳ】・白
@@ -5757,12 +5757,12 @@ index,source,target
 5755,迅雷HS Hachimaki,迅雷鉢卷【ＨＳ】
 5756,迅雷GS Hachimaki,迅雷鉢卷【ＧＳ】
 5757,迅雷GP Hachimaki,迅雷鉢卷【ＧＰ】
-5758,Heaven 星お団子,星お団子頭兜・天
-5759,Heaven 星Fお団子,星お団子頭兜・天
-5760,Heaven 星FZお団子,星お団子頭兜・天
-5761,Heaven 星HSお団子,星お団子頭兜・天
-5762,Heaven 星GSお団子,星お団子頭兜・天
-5763,Heaven 星GPお団子,星お団子頭兜・天
+5758,Heaven 星お団子,星お団子天頭兜
+5759,Heaven 星Fお団子,星お団子天頭兜
+5760,Heaven 星FZお団子,星お団子天頭兜
+5761,Heaven 星HSお団子,星お団子天頭兜
+5762,Heaven 星GSお団子,星お団子天頭兜
+5763,Heaven 星GPお団子,星お団子天頭兜
 5764,飛燕お団子,飛燕お団子頭兜
 5765,飛燕Fお団子,飛燕お団子頭兜
 5766,飛燕FZお団子,飛燕お団子頭兜
@@ -5829,18 +5829,18 @@ index,source,target
 5827,ノメルHS Cap,諾梅魯兜帽【ＨＳ】
 5828,ノメルGS Cap,諾梅魯兜帽【ＧＳ】
 5829,ノメルGP Cap,諾梅魯兜帽【ＧＰ】
-5830,Hero King Earring BM Gold,赫艾爾歐頭兜・金
-5831,Hero King Earring BM F Gold,赫艾爾歐頭兜【Ｆ】・金
-5832,Hero King Earring BM FZ Gold,赫艾爾歐頭兜【ＦＺ】・金
-5833,Hero King Earring BM HS Gold,赫艾爾歐頭兜【ＨＳ】・金
-5834,Hero King Earring BM GS Gold,赫艾爾歐頭兜【ＧＳ】・金
-5835,Hero King Earring BM GP Gold,赫艾爾歐頭兜【ＧＰ】・金
-5836,Hero King Earring GN Gold,赫艾爾歐頭兜・金
-5837,Hero King Earring GN F Gold,赫艾爾歐頭兜【Ｆ】・金
-5838,Hero King Earring GN FZ Gold,赫艾爾歐頭兜【ＦＺ】・金
-5839,Hero King Earring GN HS Gold,赫艾爾歐頭兜【ＨＳ】・金
-5840,Hero King Earring GN GS Gold,赫艾爾歐頭兜【ＧＳ】・金
-5841,Hero King Earring GN GP Gold,赫艾爾歐頭兜【ＧＰ】・金
+5830,Hero King Earring BM Gold,英雄王頭兜・金
+5831,Hero King Earring BM F Gold,英雄王頭兜【Ｆ】・金
+5832,Hero King Earring BM FZ Gold,英雄王頭兜【ＦＺ】・金
+5833,Hero King Earring BM HS Gold,英雄王頭兜【ＨＳ】・金
+5834,Hero King Earring BM GS Gold,英雄王頭兜【ＧＳ】・金
+5835,Hero King Earring BM GP Gold,英雄王頭兜【ＧＰ】・金
+5836,Hero King Earring GN Gold,英雄王頭兜・金
+5837,Hero King Earring GN F Gold,英雄王頭兜【Ｆ】・金
+5838,Hero King Earring GN FZ Gold,英雄王頭兜【ＦＺ】・金
+5839,Hero King Earring GN HS Gold,英雄王頭兜【ＨＳ】・金
+5840,Hero King Earring GN GS Gold,英雄王頭兜【ＧＳ】・金
+5841,Hero King Earring GN GP Gold,英雄王頭兜【ＧＰ】・金
 5842,Gorgon Head・Black,戈耳工頭兜・黑
 5843,Gorgon F Head・Black,戈耳工頭兜【Ｆ】・黑
 5844,Gorgon FZ Head・Black,戈耳工頭兜【ＦＺ】・黑
@@ -5949,8 +5949,8 @@ index,source,target
 5947,Robust GP Face,剛健面罩【ＧＰ】
 5948,Fireworks GS Hachigane,芙伊爾艾鉢金【ＧＳ】
 5949,Fireworks GP Hachigane,芙伊爾艾鉢金【ＧＰ】
-5950,Shooting Star GS Hachigane,夏歐特伊鉢金【ＧＳ】
-5951,Shooting Star GP Hachigane,夏歐特伊鉢金【ＧＰ】
+5950,Shooting Star GS Hachigane,流星鉢金【ＧＳ】
+5951,Shooting Star GP Hachigane,流星鉢金【ＧＰ】
 5952,Bunny FZ Band・Black,兔頭帶【ＦＺ】・黑
 5953,Bunny HS Band・Black,兔頭帶【ＨＳ】・黑
 5954,Bunny GS Band・Black,兔頭帶【ＧＳ】・黑
@@ -6001,14 +6001,14 @@ index,source,target
 5999,Akahara Reisou GN Head GP Black,赤原禮裝頭兜【ＧＰ】・黑
 6000,Akahara Reisou BM Head GP White,赤原禮裝頭兜【ＧＰ】・白
 6001,Akahara Reisou GN Head GP White,赤原禮裝頭兜【ＧＰ】・白
-6002,Knight King Hair BM GP Blue,克伊格伊頭兜【ＧＰ】・青
-6003,Knight King Hair GN GP Blue,克伊格伊頭兜【ＧＰ】・青
-6004,Knight King Hair BM GP Red,克伊格伊頭兜【ＧＰ】・赤
-6005,Knight King Hair GN GP Red,克伊格伊頭兜【ＧＰ】・赤
-6006,Knight King Hair BM GP Black,克伊格伊頭兜【ＧＰ】・黑
-6007,Knight King Hair GN GP Black,克伊格伊頭兜【ＧＰ】・黑
-6008,Knight King Hair BM GP White,克伊格伊頭兜【ＧＰ】・白
-6009,Knight King Hair GN GP White,克伊格伊頭兜【ＧＰ】・白
+6002,Knight King Hair BM GP Blue,騎士王頭兜【ＧＰ】・青
+6003,Knight King Hair GN GP Blue,騎士王頭兜【ＧＰ】・青
+6004,Knight King Hair BM GP Red,騎士王頭兜【ＧＰ】・赤
+6005,Knight King Hair GN GP Red,騎士王頭兜【ＧＰ】・赤
+6006,Knight King Hair BM GP Black,騎士王頭兜【ＧＰ】・黑
+6007,Knight King Hair GN GP Black,騎士王頭兜【ＧＰ】・黑
+6008,Knight King Hair BM GP White,騎士王頭兜【ＧＰ】・白
+6009,Knight King Hair GN GP White,騎士王頭兜【ＧＰ】・白
 6010,蒼竜ノ具足GP【兜】,兜蒼竜具足頭兜
 6011,蒼竜ノ羽織GP【兜】,兜蒼竜羽織頭兜
 6012,赤備ノ具足GP【兜】,兜赤備具足頭兜
@@ -6081,38 +6081,38 @@ index,source,target
 6079,Omet HS Mask・Blue,歐梅特帽子【ＨＳ】・青
 6080,Omet GS Mask・Blue,歐梅特帽子【ＧＳ】・青
 6081,Omet GP Mask・Blue,歐梅特帽子【ＧＰ】・青
-6082,Gold FZ Helm・Red,頭兜【ＦＺ】・金・赤
-6083,Gold HS Helm・Red,頭兜【ＨＳ】・金・赤
-6084,Gold GS Helm・Red,頭兜【ＧＳ】・金・赤
-6085,Gold GP Helm・Red,頭兜【ＧＰ】・金・赤
-6086,Gold FZ Helm・Blue,頭兜【ＦＺ】・金・青
-6087,Gold HS Helm・Blue,頭兜【ＨＳ】・金・青
-6088,Gold GS Helm・Blue,頭兜【ＧＳ】・金・青
-6089,Gold GP Helm・Blue,頭兜【ＧＰ】・金・青
-6090,Gold FZ Helm・Yellow,頭兜【ＦＺ】・金・黄
-6091,Gold HS Helm・Yellow,頭兜【ＨＳ】・金・黄
-6092,Gold GS Helm・Yellow,頭兜【ＧＳ】・金・黄
-6093,Gold GP Helm・Yellow,頭兜【ＧＰ】・金・黄
-6094,Gold FZ Helm・Purple,頭兜【ＦＺ】・金・紫
-6095,Gold HS Helm・Purple,頭兜【ＨＳ】・金・紫
-6096,Gold GS Helm・Purple,頭兜【ＧＳ】・金・紫
-6097,Gold GP Helm・Purple,頭兜【ＧＰ】・金・紫
-6098,Gold FZ Mask・Red,帽子【ＦＺ】・金・赤
-6099,Gold HS Mask・Red,帽子【ＨＳ】・金・赤
-6100,Gold GS Mask・Red,帽子【ＧＳ】・金・赤
-6101,Gold GP Mask・Red,帽子【ＧＰ】・金・赤
-6102,Gold FZ Mask・Blue,帽子【ＦＺ】・金・青
-6103,Gold HS Mask・Blue,帽子【ＨＳ】・金・青
-6104,Gold GS Mask・Blue,帽子【ＧＳ】・金・青
-6105,Gold GP Mask・Blue,帽子【ＧＰ】・金・青
-6106,Gold FZ Mask・Yellow,帽子【ＦＺ】・金・黄
-6107,Gold HS Mask・Yellow,帽子【ＨＳ】・金・黄
-6108,Gold GS Mask・Yellow,帽子【ＧＳ】・金・黄
-6109,Gold GP Mask・Yellow,帽子【ＧＰ】・金・黄
-6110,Gold FZ Mask・Purple,帽子【ＦＺ】・金・紫
-6111,Gold HS Mask・Purple,帽子【ＨＳ】・金・紫
-6112,Gold GS Mask・Purple,帽子【ＧＳ】・金・紫
-6113,Gold GP Mask・Purple,帽子【ＧＰ】・金・紫
+6082,Gold FZ Helm・Red,金頭兜【ＦＺ】・赤
+6083,Gold HS Helm・Red,金頭兜【ＨＳ】・赤
+6084,Gold GS Helm・Red,金頭兜【ＧＳ】・赤
+6085,Gold GP Helm・Red,金頭兜【ＧＰ】・赤
+6086,Gold FZ Helm・Blue,金頭兜【ＦＺ】・青
+6087,Gold HS Helm・Blue,金頭兜【ＨＳ】・青
+6088,Gold GS Helm・Blue,金頭兜【ＧＳ】・青
+6089,Gold GP Helm・Blue,金頭兜【ＧＰ】・青
+6090,Gold FZ Helm・Yellow,金頭兜【ＦＺ】・黄
+6091,Gold HS Helm・Yellow,金頭兜【ＨＳ】・黄
+6092,Gold GS Helm・Yellow,金頭兜【ＧＳ】・黄
+6093,Gold GP Helm・Yellow,金頭兜【ＧＰ】・黄
+6094,Gold FZ Helm・Purple,金頭兜【ＦＺ】・紫
+6095,Gold HS Helm・Purple,金頭兜【ＨＳ】・紫
+6096,Gold GS Helm・Purple,金頭兜【ＧＳ】・紫
+6097,Gold GP Helm・Purple,金頭兜【ＧＰ】・紫
+6098,Gold FZ Mask・Red,金帽子【ＦＺ】・赤
+6099,Gold HS Mask・Red,金帽子【ＨＳ】・赤
+6100,Gold GS Mask・Red,金帽子【ＧＳ】・赤
+6101,Gold GP Mask・Red,金帽子【ＧＰ】・赤
+6102,Gold FZ Mask・Blue,金帽子【ＦＺ】・青
+6103,Gold HS Mask・Blue,金帽子【ＨＳ】・青
+6104,Gold GS Mask・Blue,金帽子【ＧＳ】・青
+6105,Gold GP Mask・Blue,金帽子【ＧＰ】・青
+6106,Gold FZ Mask・Yellow,金帽子【ＦＺ】・黄
+6107,Gold HS Mask・Yellow,金帽子【ＨＳ】・黄
+6108,Gold GS Mask・Yellow,金帽子【ＧＳ】・黄
+6109,Gold GP Mask・Yellow,金帽子【ＧＰ】・黄
+6110,Gold FZ Mask・Purple,金帽子【ＦＺ】・紫
+6111,Gold HS Mask・Purple,金帽子【ＨＳ】・紫
+6112,Gold GS Mask・Purple,金帽子【ＧＳ】・紫
+6113,Gold GP Mask・Purple,金帽子【ＧＰ】・紫
 6114,Shaln HS Head・Blue,夏爾恩頭兜【ＨＳ】・青
 6115,Shaln GS Head・Blue,夏爾恩頭兜【ＧＳ】・青
 6116,Shaln GP Head・Blue,夏爾恩頭兜【ＧＰ】・青
@@ -6205,18 +6205,18 @@ index,source,target
 6203,抜胴GP Hachigane,抜胴鉢金【ＧＰ】
 6204,長根GS Hachigane,長根鉢金【ＧＳ】
 6205,長根GP Hachigane,長根鉢金【ＧＰ】
-6206,Hero King Earring BM Black,赫艾爾歐頭兜・黑
-6207,Hero King Earring BM F Black,赫艾爾歐頭兜【Ｆ】・黑
-6208,Hero King Earring BM FZ Black,赫艾爾歐頭兜【ＦＺ】・黑
-6209,Hero King Earring BM HS Black,赫艾爾歐頭兜【ＨＳ】・黑
-6210,Hero King Earring BM GS Black,赫艾爾歐頭兜【ＧＳ】・黑
-6211,Hero King Earring BM GP Black,赫艾爾歐頭兜【ＧＰ】・黑
-6212,Hero King Earring GN Black,赫艾爾歐頭兜・黑
-6213,Hero King Earring GN F Black,赫艾爾歐頭兜【Ｆ】・黑
-6214,Hero King Earring GN FZ Black,赫艾爾歐頭兜【ＦＺ】・黑
-6215,Hero King Earring GN HS Black,赫艾爾歐頭兜【ＨＳ】・黑
-6216,Hero King Earring GN GS Black,赫艾爾歐頭兜【ＧＳ】・黑
-6217,Hero King Earring GN GP Black,赫艾爾歐頭兜【ＧＰ】・黑
+6206,Hero King Earring BM Black,英雄王頭兜・黑
+6207,Hero King Earring BM F Black,英雄王頭兜【Ｆ】・黑
+6208,Hero King Earring BM FZ Black,英雄王頭兜【ＦＺ】・黑
+6209,Hero King Earring BM HS Black,英雄王頭兜【ＨＳ】・黑
+6210,Hero King Earring BM GS Black,英雄王頭兜【ＧＳ】・黑
+6211,Hero King Earring BM GP Black,英雄王頭兜【ＧＰ】・黑
+6212,Hero King Earring GN Black,英雄王頭兜・黑
+6213,Hero King Earring GN F Black,英雄王頭兜【Ｆ】・黑
+6214,Hero King Earring GN FZ Black,英雄王頭兜【ＦＺ】・黑
+6215,Hero King Earring GN HS Black,英雄王頭兜【ＨＳ】・黑
+6216,Hero King Earring GN GS Black,英雄王頭兜【ＧＳ】・黑
+6217,Hero King Earring GN GP Black,英雄王頭兜【ＧＰ】・黑
 6218,Gorgon Head・Blue,戈耳工頭兜・青
 6219,Gorgon F Head・Blue,戈耳工頭兜【Ｆ】・青
 6220,Gorgon FZ Head・Blue,戈耳工頭兜【ＦＺ】・青
@@ -6229,18 +6229,18 @@ index,source,target
 6227,Gorgon HS Mask・Blue,戈耳工帽子【ＨＳ】・青
 6228,Gorgon GS Mask・Blue,戈耳工帽子【ＧＳ】・青
 6229,Gorgon GP Mask・Blue,戈耳工帽子【ＧＰ】・青
-6230,Hero King Earring BM White,赫艾爾歐頭兜・白
-6231,Hero King Earring BM F White,赫艾爾歐頭兜【Ｆ】・白
-6232,Hero King Earring BM FZ White,赫艾爾歐頭兜【ＦＺ】・白
-6233,Hero King Earring BM HS White,赫艾爾歐頭兜【ＨＳ】・白
-6234,Hero King Earring BM GS White,赫艾爾歐頭兜【ＧＳ】・白
-6235,Hero King Earring BM GP White,赫艾爾歐頭兜【ＧＰ】・白
-6236,Hero King Earring GN White,赫艾爾歐頭兜・白
-6237,Hero King Earring GN F White,赫艾爾歐頭兜【Ｆ】・白
-6238,Hero King Earring GN FZ White,赫艾爾歐頭兜【ＦＺ】・白
-6239,Hero King Earring GN HS White,赫艾爾歐頭兜【ＨＳ】・白
-6240,Hero King Earring GN GS White,赫艾爾歐頭兜【ＧＳ】・白
-6241,Hero King Earring GN GP White,赫艾爾歐頭兜【ＧＰ】・白
+6230,Hero King Earring BM White,英雄王頭兜・白
+6231,Hero King Earring BM F White,英雄王頭兜【Ｆ】・白
+6232,Hero King Earring BM FZ White,英雄王頭兜【ＦＺ】・白
+6233,Hero King Earring BM HS White,英雄王頭兜【ＨＳ】・白
+6234,Hero King Earring BM GS White,英雄王頭兜【ＧＳ】・白
+6235,Hero King Earring BM GP White,英雄王頭兜【ＧＰ】・白
+6236,Hero King Earring GN White,英雄王頭兜・白
+6237,Hero King Earring GN F White,英雄王頭兜【Ｆ】・白
+6238,Hero King Earring GN FZ White,英雄王頭兜【ＦＺ】・白
+6239,Hero King Earring GN HS White,英雄王頭兜【ＨＳ】・白
+6240,Hero King Earring GN GS White,英雄王頭兜【ＧＳ】・白
+6241,Hero King Earring GN GP White,英雄王頭兜【ＧＰ】・白
 6242,Gorgon Head・White,戈耳工頭兜・白
 6243,Gorgon F Head・White,戈耳工頭兜【Ｆ】・白
 6244,Gorgon FZ Head・White,戈耳工頭兜【ＦＺ】・白
@@ -6253,18 +6253,18 @@ index,source,target
 6251,Gorgon HS Mask・White,戈耳工帽子【ＨＳ】・白
 6252,Gorgon GS Mask・White,戈耳工帽子【ＧＳ】・白
 6253,Gorgon GP Mask・White,戈耳工帽子【ＧＰ】・白
-6254,Hero King Earring BM Red,赫艾爾歐頭兜・赤
-6255,Hero King Earring BM F Red,赫艾爾歐頭兜【Ｆ】・赤
-6256,Hero King Earring BM FZ Red,赫艾爾歐頭兜【ＦＺ】・赤
-6257,Hero King Earring BM HS Red,赫艾爾歐頭兜【ＨＳ】・赤
-6258,Hero King Earring BM GS Red,赫艾爾歐頭兜【ＧＳ】・赤
-6259,Hero King Earring BM GP Red,赫艾爾歐頭兜【ＧＰ】・赤
-6260,Hero King Earring GN Red,赫艾爾歐頭兜・赤
-6261,Hero King Earring GN F Red,赫艾爾歐頭兜【Ｆ】・赤
-6262,Hero King Earring GN FZ Red,赫艾爾歐頭兜【ＦＺ】・赤
-6263,Hero King Earring GN HS Red,赫艾爾歐頭兜【ＨＳ】・赤
-6264,Hero King Earring GN GS Red,赫艾爾歐頭兜【ＧＳ】・赤
-6265,Hero King Earring GN GP Red,赫艾爾歐頭兜【ＧＰ】・赤
+6254,Hero King Earring BM Red,英雄王頭兜・赤
+6255,Hero King Earring BM F Red,英雄王頭兜【Ｆ】・赤
+6256,Hero King Earring BM FZ Red,英雄王頭兜【ＦＺ】・赤
+6257,Hero King Earring BM HS Red,英雄王頭兜【ＨＳ】・赤
+6258,Hero King Earring BM GS Red,英雄王頭兜【ＧＳ】・赤
+6259,Hero King Earring BM GP Red,英雄王頭兜【ＧＰ】・赤
+6260,Hero King Earring GN Red,英雄王頭兜・赤
+6261,Hero King Earring GN F Red,英雄王頭兜【Ｆ】・赤
+6262,Hero King Earring GN FZ Red,英雄王頭兜【ＦＺ】・赤
+6263,Hero King Earring GN HS Red,英雄王頭兜【ＨＳ】・赤
+6264,Hero King Earring GN GS Red,英雄王頭兜【ＧＳ】・赤
+6265,Hero King Earring GN GP Red,英雄王頭兜【ＧＰ】・赤
 6266,Gorgon Head・Red,戈耳工頭兜・赤
 6267,Gorgon F Head・Red,戈耳工頭兜【Ｆ】・赤
 6268,Gorgon FZ Head・Red,戈耳工頭兜【ＦＺ】・赤
@@ -6347,18 +6347,18 @@ index,source,target
 6345,Zyra HS Mask・Green,齊拉帽子【ＨＳ】・緑
 6346,Zyra GS Mask・Green,齊拉帽子【ＧＳ】・緑
 6347,Zyra GP Mask・Green,齊拉帽子【ＧＰ】・緑
-6348,Zyra Helm・Water,齊拉水頭兜
-6349,Zyra F Helm・Water,齊拉水頭兜【Ｆ】
-6350,Zyra FZ Helm・Water,齊拉水頭兜【ＦＺ】
-6351,Zyra HS Helm・Water,齊拉水頭兜【ＨＳ】
-6352,Zyra GS Helm・Water,齊拉水頭兜【ＧＳ】
-6353,Zyra GP Helm・Water,齊拉水頭兜【ＧＰ】
-6354,Zyra Mask・Water,齊拉水帽子
-6355,Zyra F Mask・Water,齊拉水帽子【Ｆ】
-6356,Zyra FZ Mask・Water,齊拉水帽子【ＦＺ】
-6357,Zyra HS Mask・Water,齊拉水帽子【ＨＳ】
-6358,Zyra GS Mask・Water,齊拉水帽子【ＧＳ】
-6359,Zyra GP Mask・Water,齊拉水帽子【ＧＰ】
+6348,Zyra Helm・Water,齊拉頭兜・水
+6349,Zyra F Helm・Water,齊拉頭兜【Ｆ】・水
+6350,Zyra FZ Helm・Water,齊拉頭兜【ＦＺ】・水
+6351,Zyra HS Helm・Water,齊拉頭兜【ＨＳ】・水
+6352,Zyra GS Helm・Water,齊拉頭兜【ＧＳ】・水
+6353,Zyra GP Helm・Water,齊拉頭兜【ＧＰ】・水
+6354,Zyra Mask・Water,齊拉帽子・水
+6355,Zyra F Mask・Water,齊拉帽子【Ｆ】・水
+6356,Zyra FZ Mask・Water,齊拉帽子【ＦＺ】・水
+6357,Zyra HS Mask・Water,齊拉帽子【ＨＳ】・水
+6358,Zyra GS Mask・Water,齊拉帽子【ＧＳ】・水
+6359,Zyra GP Mask・Water,齊拉帽子【ＧＰ】・水
 6360,Zyra Helm・Red,齊拉頭兜・赤
 6361,Zyra F Helm・Red,齊拉頭兜【Ｆ】・赤
 6362,Zyra FZ Helm・Red,齊拉頭兜【ＦＺ】・赤
@@ -6523,54 +6523,54 @@ index,source,target
 6521,Ex HS Haar・Black,艾克斯髮【ＨＳ】・黑
 6522,Ex GS Haar・Black,艾克斯髮【ＧＳ】・黑
 6523,Ex GP Haar・Black,艾克斯髮【ＧＰ】・黑
-6524,Gold Cat FZ Head,猫頭兜【ＦＺ】・金
-6525,Gold Cat HS Head,猫頭兜【ＨＳ】・金
-6526,Gold Cat GS Head,猫頭兜【ＧＳ】・金
-6527,Gold Cat GP Head,猫頭兜【ＧＰ】・金
-6528,Gold Cat FZ Haar,猫髮【ＦＺ】・金
-6529,Gold Cat HS Haar,猫髮【ＨＳ】・金
-6530,Gold Cat GS Haar,猫髮【ＧＳ】・金
-6531,Gold Cat GP Haar,猫髮【ＧＰ】・金
-6532,Silver Cat FZ Head,猫頭兜【ＦＺ】・銀
-6533,Silver Cat HS Head,猫頭兜【ＨＳ】・銀
-6534,Silver Cat GS Head,猫頭兜【ＧＳ】・銀
-6535,Silver Cat GP Head,猫頭兜【ＧＰ】・銀
-6536,Silver Cat FZ Haar,猫髮【ＦＺ】・銀
-6537,Silver Cat HS Haar,猫髮【ＨＳ】・銀
-6538,Silver Cat GS Haar,猫髮【ＧＳ】・銀
-6539,Silver Cat GP Haar,猫髮【ＧＰ】・銀
-6540,Claire FZ Head・Purple,克蕾兒頭兜【ＦＺ】・紫
-6541,Claire HS Head・Purple,克蕾兒頭兜【ＨＳ】・紫
-6542,Claire GS Head・Purple,克蕾兒頭兜【ＧＳ】・紫
-6543,Claire GP Head・Purple,克蕾兒頭兜【ＧＰ】・紫
-6544,Claire FZ Piercing・Purple,克蕾兒耳飾【ＦＺ】・紫
-6545,Claire HS Piercing・Purple,克蕾兒耳飾【ＨＳ】・紫
-6546,Claire GS Piercing・Purple,克蕾兒耳飾【ＧＳ】・紫
-6547,Claire GP Piercing・Purple,克蕾兒耳飾【ＧＰ】・紫
-6548,Claire FZ Head・Water,克蕾兒水頭兜【ＦＺ】
-6549,Claire HS Head・Water,克蕾兒水頭兜【ＨＳ】
-6550,Claire GS Head・Water,克蕾兒水頭兜【ＧＳ】
-6551,Claire GP Head・Water,克蕾兒水頭兜【ＧＰ】
-6552,Claire FZ Piercing・Water,克蕾兒水耳飾【ＦＺ】
-6553,Claire HS Piercing・Water,克蕾兒水耳飾【ＨＳ】
-6554,Claire GS Piercing・Water,克蕾兒水耳飾【ＧＳ】
-6555,Claire GP Piercing・Water,克蕾兒水耳飾【ＧＰ】
-6556,Claire FZ Head・Red,克蕾兒頭兜【ＦＺ】・赤
-6557,Claire HS Head・Red,克蕾兒頭兜【ＨＳ】・赤
-6558,Claire GS Head・Red,克蕾兒頭兜【ＧＳ】・赤
-6559,Claire GP Head・Red,克蕾兒頭兜【ＧＰ】・赤
-6560,Claire FZ Piercing・Red,克蕾兒耳飾【ＦＺ】・赤
-6561,Claire HS Piercing・Red,克蕾兒耳飾【ＨＳ】・赤
-6562,Claire GS Piercing・Red,克蕾兒耳飾【ＧＳ】・赤
-6563,Claire GP Piercing・Red,克蕾兒耳飾【ＧＰ】・赤
-6564,Claire FZ Head・Black,克蕾兒頭兜【ＦＺ】・黑
-6565,Claire HS Head・Black,克蕾兒頭兜【ＨＳ】・黑
-6566,Claire GS Head・Black,克蕾兒頭兜【ＧＳ】・黑
-6567,Claire GP Head・Black,克蕾兒頭兜【ＧＰ】・黑
-6568,Claire FZ Piercing・Black,克蕾兒耳飾【ＦＺ】・黑
-6569,Claire HS Piercing・Black,克蕾兒耳飾【ＨＳ】・黑
-6570,Claire GS Piercing・Black,克蕾兒耳飾【ＧＳ】・黑
-6571,Claire GP Piercing・Black,克蕾兒耳飾【ＧＰ】・黑
+6524,Gold Cat FZ Head,金猫頭兜【ＦＺ】
+6525,Gold Cat HS Head,金猫頭兜【ＨＳ】
+6526,Gold Cat GS Head,金猫頭兜【ＧＳ】
+6527,Gold Cat GP Head,金猫頭兜【ＧＰ】
+6528,Gold Cat FZ Haar,金猫髮【ＦＺ】
+6529,Gold Cat HS Haar,金猫髮【ＨＳ】
+6530,Gold Cat GS Haar,金猫髮【ＧＳ】
+6531,Gold Cat GP Haar,金猫髮【ＧＰ】
+6532,Silver Cat FZ Head,銀猫頭兜【ＦＺ】
+6533,Silver Cat HS Head,銀猫頭兜【ＨＳ】
+6534,Silver Cat GS Head,銀猫頭兜【ＧＳ】
+6535,Silver Cat GP Head,銀猫頭兜【ＧＰ】
+6536,Silver Cat FZ Haar,銀猫髮【ＦＺ】
+6537,Silver Cat HS Haar,銀猫髮【ＨＳ】
+6538,Silver Cat GS Haar,銀猫髮【ＧＳ】
+6539,Silver Cat GP Haar,銀猫髮【ＧＰ】
+6540,Claire FZ Head・Purple,克蕾爾頭兜【ＦＺ】・紫
+6541,Claire HS Head・Purple,克蕾爾頭兜【ＨＳ】・紫
+6542,Claire GS Head・Purple,克蕾爾頭兜【ＧＳ】・紫
+6543,Claire GP Head・Purple,克蕾爾頭兜【ＧＰ】・紫
+6544,Claire FZ Piercing・Purple,克蕾爾耳飾【ＦＺ】・紫
+6545,Claire HS Piercing・Purple,克蕾爾耳飾【ＨＳ】・紫
+6546,Claire GS Piercing・Purple,克蕾爾耳飾【ＧＳ】・紫
+6547,Claire GP Piercing・Purple,克蕾爾耳飾【ＧＰ】・紫
+6548,Claire FZ Head・Water,克蕾爾頭兜【ＦＺ】・水
+6549,Claire HS Head・Water,克蕾爾頭兜【ＨＳ】・水
+6550,Claire GS Head・Water,克蕾爾頭兜【ＧＳ】・水
+6551,Claire GP Head・Water,克蕾爾頭兜【ＧＰ】・水
+6552,Claire FZ Piercing・Water,克蕾爾耳飾【ＦＺ】・水
+6553,Claire HS Piercing・Water,克蕾爾耳飾【ＨＳ】・水
+6554,Claire GS Piercing・Water,克蕾爾耳飾【ＧＳ】・水
+6555,Claire GP Piercing・Water,克蕾爾耳飾【ＧＰ】・水
+6556,Claire FZ Head・Red,克蕾爾頭兜【ＦＺ】・赤
+6557,Claire HS Head・Red,克蕾爾頭兜【ＨＳ】・赤
+6558,Claire GS Head・Red,克蕾爾頭兜【ＧＳ】・赤
+6559,Claire GP Head・Red,克蕾爾頭兜【ＧＰ】・赤
+6560,Claire FZ Piercing・Red,克蕾爾耳飾【ＦＺ】・赤
+6561,Claire HS Piercing・Red,克蕾爾耳飾【ＨＳ】・赤
+6562,Claire GS Piercing・Red,克蕾爾耳飾【ＧＳ】・赤
+6563,Claire GP Piercing・Red,克蕾爾耳飾【ＧＰ】・赤
+6564,Claire FZ Head・Black,克蕾爾頭兜【ＦＺ】・黑
+6565,Claire HS Head・Black,克蕾爾頭兜【ＨＳ】・黑
+6566,Claire GS Head・Black,克蕾爾頭兜【ＧＳ】・黑
+6567,Claire GP Head・Black,克蕾爾頭兜【ＧＰ】・黑
+6568,Claire FZ Piercing・Black,克蕾爾耳飾【ＦＺ】・黑
+6569,Claire HS Piercing・Black,克蕾爾耳飾【ＨＳ】・黑
+6570,Claire GS Piercing・Black,克蕾爾耳飾【ＧＳ】・黑
+6571,Claire GP Piercing・Black,克蕾爾耳飾【ＧＰ】・黑
 6572,Text HS Head・Purple,文書頭兜【ＨＳ】・紫
 6573,Text GS Head・Purple,文書頭兜【ＧＳ】・紫
 6574,Text GP Head・Purple,文書頭兜【ＧＰ】・紫
@@ -6723,12 +6723,12 @@ index,source,target
 6721,Maisto HS Hat・Pink,麥斯托帽【ＨＳ】・桃
 6722,Maisto GS Hat・Pink,麥斯托帽【ＧＳ】・桃
 6723,Maisto GP Hat・Pink,麥斯托帽【ＧＰ】・桃
-6724,Cayssis HS Helm Water,凱西斯水頭兜【ＨＳ】
-6725,Cayssis GS Helm Water,凱西斯水頭兜【ＧＳ】
-6726,Cayssis GP Helm Water,凱西斯水頭兜【ＧＰ】
-6727,Cayssis HS Mask Water,凱西斯水帽子【ＨＳ】
-6728,Cayssis GS Mask Water,凱西斯水帽子【ＧＳ】
-6729,Cayssis GP Mask Water,凱西斯水帽子【ＧＰ】
+6724,Cayssis HS Helm Water,凱西斯頭兜【ＨＳ】・水
+6725,Cayssis GS Helm Water,凱西斯頭兜【ＧＳ】・水
+6726,Cayssis GP Helm Water,凱西斯頭兜【ＧＰ】・水
+6727,Cayssis HS Mask Water,凱西斯帽子【ＨＳ】・水
+6728,Cayssis GS Mask Water,凱西斯帽子【ＧＳ】・水
+6729,Cayssis GP Mask Water,凱西斯帽子【ＧＰ】・水
 6730,Cayssis HS Helm Red,凱西斯頭兜【ＨＳ】・赤
 6731,Cayssis GS Helm Red,凱西斯頭兜【ＧＳ】・赤
 6732,Cayssis GP Helm Red,凱西斯頭兜【ＧＰ】・赤
@@ -6809,8 +6809,8 @@ index,source,target
 6807,Galitos GP Band・Red,加里托斯頭帶【ＧＰ】・赤
 6808,Galitos GP Head・Black,加里托斯頭兜【ＧＰ】・黑
 6809,Galitos GP Band・Black,加里托斯頭帶【ＧＰ】・黑
-6810,Galitos GP Head・Water,加里托斯水頭兜【ＧＰ】
-6811,Galitos GP Band・Water,加里托斯水頭帶【ＧＰ】
+6810,Galitos GP Head・Water,加里托斯頭兜【ＧＰ】・水
+6811,Galitos GP Band・Water,加里托斯頭帶【ＧＰ】・水
 6812,Lien GP Head・Blue,里恩頭兜【ＧＰ】・青
 6813,Lien GP Hat・Blue,里恩帽【ＧＰ】・青
 6814,Lien GP Head・Red,里恩頭兜【ＧＰ】・赤
@@ -6963,10 +6963,10 @@ index,source,target
 6961,Suzaku・刀神GX Helm,朱雀頭兜【ＧＸ】
 6962,Genbu・刀神GX Helm,玄武頭兜【ＧＸ】
 6963,Seiryu・刀神GX Helm,青龍頭兜【ＧＸ】
-6964,Byakko・Heaven 槍GX Helm,白虎頭兜【ＧＸ】・天
-6965,Suzaku・Heaven 槍GX Helm,朱雀頭兜【ＧＸ】・天
-6966,Genbu・Heaven 槍GX Helm,玄武頭兜【ＧＸ】・天
-6967,Seiryu・Heaven 槍GX Helm,青龍頭兜【ＧＸ】・天
+6964,Byakko・Heaven 槍GX Helm,白虎天頭兜【ＧＸ】
+6965,Suzaku・Heaven 槍GX Helm,朱雀天頭兜【ＧＸ】
+6966,Genbu・Heaven 槍GX Helm,玄武天頭兜【ＧＸ】
+6967,Seiryu・Heaven 槍GX Helm,青龍天頭兜【ＧＸ】
 6968,Byakko・砲皇GX Helm,白虎頭兜【ＧＸ】
 6969,Suzaku・砲皇GX Helm,朱雀頭兜【ＧＸ】
 6970,Genbu・砲皇GX Helm,玄武頭兜【ＧＸ】
@@ -7185,10 +7185,10 @@ index,source,target
 7183,Gloria GP Helm・Blue,榮光頭兜【ＧＰ】・青
 7184,Gloria GS Mask・Blue,榮光帽子【ＧＳ】・青
 7185,Gloria GP Mask・Blue,榮光帽子【ＧＰ】・青
-7186,Gloria GS Helm・Water,榮光水頭兜【ＧＳ】
-7187,Gloria GP Helm・Water,榮光水頭兜【ＧＰ】
-7188,Gloria GS Mask・Water,榮光水帽子【ＧＳ】
-7189,Gloria GP Mask・Water,榮光水帽子【ＧＰ】
+7186,Gloria GS Helm・Water,榮光頭兜【ＧＳ】・水
+7187,Gloria GP Helm・Water,榮光頭兜【ＧＰ】・水
+7188,Gloria GS Mask・Water,榮光帽子【ＧＳ】・水
+7189,Gloria GP Mask・Water,榮光帽子【ＧＰ】・水
 7190,Gloria GS Helm・Red,榮光頭兜【ＧＳ】・赤
 7191,Gloria GP Helm・Red,榮光頭兜【ＧＰ】・赤
 7192,Gloria GS Mask・Red,榮光帽子【ＧＳ】・赤
@@ -7319,12 +7319,12 @@ index,source,target
 7317,旋転の Headguard・HS,旋転の護額【ＨＳ】
 7318,旋転の Headguard・GS,旋転の護額【ＧＳ】
 7319,旋転の Headguard・GP,旋転の護額【ＧＰ】
-7320,Rolling Sky Headguard・HS,滾天護額【ＨＳ】
-7321,Rolling Sky Headguard・GS,滾天護額【ＧＳ】
-7322,Rolling Sky Headguard・GP,滾天護額【ＧＰ】
-7323,Rolling Earth Headguard・HS,滾地護額【ＨＳ】・地
-7324,Rolling Earth Headguard・GS,滾地護額【ＧＳ】・地
-7325,Rolling Earth Headguard・GP,滾地護額【ＧＰ】・地
+7320,Rolling Sky Headguard・HS,滾天護額【ＨＳ】・天
+7321,Rolling Sky Headguard・GS,滾天護額【ＧＳ】・天
+7322,Rolling Sky Headguard・GP,滾天護額【ＧＰ】・天
+7323,Rolling Earth Headguard・HS,滾地護額【ＨＳ】
+7324,Rolling Earth Headguard・GS,滾地護額【ＧＳ】
+7325,Rolling Earth Headguard・GP,滾地護額【ＧＰ】
 7326,Latria HS Head,崇敬頭兜【ＨＳ】
 7327,Latria GS Head,崇敬頭兜【ＧＳ】
 7328,Latria GP Head,崇敬頭兜【ＧＰ】
@@ -7589,7 +7589,7 @@ index,source,target
 7587,Fellow Bikoonu HS,夥伴比庫努頭兜【ＨＳ】
 7588,Fellow Bikoonu GS,夥伴比庫努頭兜【ＧＳ】
 7589,Fellow Bikoonu GP,夥伴比庫努頭兜【ＧＰ】
-7590,Ahaba ーGP Piercing,耳飾【ＧＰ】
+7590,Ahaba ーGP Piercing,阿哈巴耳飾【ＧＰ】
 7591,ダンシン Piercing FZ,達恩希恩耳飾【ＦＺ】
 7592,ダンシン Piercing HS,達恩希恩耳飾【ＨＳ】
 7593,ダンシン Piercing GS,達恩希恩耳飾【ＧＳ】
@@ -7654,21 +7654,21 @@ index,source,target
 7652,Wind GF Snarl,風咆【ＧＦ】
 7653,武者GF Kabuto,武者兜【Ｆ】
 7654,日光GF Kabuto,日光兜【Ｆ】
-7655,White 蘭・Kensei Helm,蘭頭兜・白
-7656,White 蘭・Kensei F Helm,蘭頭兜【Ｆ】・白
-7657,White 蘭・Kensei FX Helm,蘭頭兜【ＦＸ】・白
-7658,Crimson 霞・Kensei Helm,霞頭兜・紅
-7659,Crimson 霞・Kensei F Helm,霞頭兜【Ｆ】・紅
-7660,Crimson 霞・Kensei FX Helm,霞頭兜【ＦＸ】・紅
-7661,White 蘭・Kensei G Helm,蘭頭兜【Ｇ】・白
-7662,White 蘭・Kensei GF Helm,蘭頭兜【ＧＦ】・白
-7663,White 蘭・Kensei GX Helm,蘭頭兜【ＧＸ】・白
+7655,White 蘭・Kensei Helm,白蘭劍聖頭兜
+7656,White 蘭・Kensei F Helm,白蘭劍聖頭兜【Ｆ】
+7657,White 蘭・Kensei FX Helm,白蘭劍聖頭兜【ＦＸ】
+7658,Crimson 霞・Kensei Helm,紅霞劍聖頭兜
+7659,Crimson 霞・Kensei F Helm,紅霞劍聖頭兜【Ｆ】
+7660,Crimson 霞・Kensei FX Helm,紅霞劍聖頭兜【ＦＸ】
+7661,White 蘭・Kensei G Helm,白蘭劍聖頭兜【Ｇ】
+7662,White 蘭・Kensei GF Helm,白蘭劍聖頭兜【ＧＦ】
+7663,White 蘭・Kensei GX Helm,白蘭劍聖頭兜【ＧＸ】
 7664,月夜・Kensei G Helm,月夜頭兜【Ｇ】
 7665,月夜・Kensei GF Helm,月夜頭兜【ＧＦ】
 7666,月夜・Kensei GX Helm,月夜頭兜【ＧＸ】
-7667,Crimson 霞・Kensei G Helm,霞頭兜【Ｇ】・紅
-7668,Crimson 霞・Kensei GF Helm,霞頭兜【ＧＦ】・紅
-7669,Crimson 霞・Kensei GX Helm,霞頭兜【ＧＸ】・紅
+7667,Crimson 霞・Kensei G Helm,紅霞劍聖頭兜【Ｇ】
+7668,Crimson 霞・Kensei GF Helm,紅霞劍聖頭兜【ＧＦ】
+7669,Crimson 霞・Kensei GX Helm,紅霞劍聖頭兜【ＧＸ】
 7670,Green 穹・Kensei G Helm,穹頭兜【Ｇ】・緑
 7671,Green 穹・Kensei GF Helm,穹頭兜【ＧＦ】・緑
 7672,Green 穹・Kensei GX Helm,穹頭兜【ＧＸ】・緑
@@ -7762,24 +7762,24 @@ index,source,target
 7760,Green 穹・奏帝G Helm,穹奏帝頭兜・緑
 7761,Green 穹・奏帝GF Helm,穹奏帝頭兜【Ｆ】・緑
 7762,Green 穹・奏帝GX Helm,穹奏帝頭兜・緑
-7763,White 蘭・Heaven 槍 Helm,蘭槍頭兜・白・天
-7764,White 蘭・Heaven 槍F Helm,蘭槍頭兜【Ｆ】・白・天
-7765,White 蘭・Heaven 槍FX Helm,蘭槍頭兜【ＦＸ】・白・天
-7766,Crimson 霞・Heaven 槍 Helm,霞槍頭兜・紅・天
-7767,Crimson 霞・Heaven 槍F Helm,霞槍頭兜【Ｆ】・紅・天
-7768,Crimson 霞・Heaven 槍FX Helm,霞槍頭兜【ＦＸ】・紅・天
-7769,White 蘭・Heaven 槍G Helm,蘭槍頭兜【Ｇ】・白・天
-7770,White 蘭・Heaven 槍GF Helm,蘭槍頭兜【Ｆ】・白・天
-7771,White 蘭・Heaven 槍GX Helm,蘭槍頭兜【ＧＸ】・白・天
+7763,White 蘭・Heaven 槍 Helm,蘭槍天頭兜・白
+7764,White 蘭・Heaven 槍F Helm,蘭槍天頭兜【Ｆ】・白
+7765,White 蘭・Heaven 槍FX Helm,蘭槍天頭兜【ＦＸ】・白
+7766,Crimson 霞・Heaven 槍 Helm,霞槍天頭兜・紅
+7767,Crimson 霞・Heaven 槍F Helm,霞槍天頭兜【Ｆ】・紅
+7768,Crimson 霞・Heaven 槍FX Helm,霞槍天頭兜【ＦＸ】・紅
+7769,White 蘭・Heaven 槍G Helm,蘭槍天頭兜【Ｇ】・白
+7770,White 蘭・Heaven 槍GF Helm,蘭槍天頭兜【Ｆ】・白
+7771,White 蘭・Heaven 槍GX Helm,蘭槍天頭兜【ＧＸ】・白
 7772,月夜・Heaven 槍G Helm,月夜槍頭兜・天
-7773,月夜・Heaven 槍GF Helm,月夜槍頭兜【Ｆ】・天
+7773,月夜・Heaven 槍GF Helm,月夜槍天頭兜【Ｆ】
 7774,月夜・Heaven 槍GX Helm,月夜槍頭兜・天
-7775,Crimson 霞・Heaven 槍G Helm,霞槍頭兜【Ｇ】・紅・天
-7776,Crimson 霞・Heaven 槍GF Helm,霞槍頭兜【Ｆ】・紅・天
-7777,Crimson 霞・Heaven 槍GX Helm,霞槍頭兜【ＧＸ】・紅・天
-7778,Green 穹・Heaven 槍G Helm,穹槍頭兜・緑・天
-7779,Green 穹・Heaven 槍GF Helm,穹槍頭兜【Ｆ】・緑・天
-7780,Green 穹・Heaven 槍GX Helm,穹槍頭兜・緑・天
+7775,Crimson 霞・Heaven 槍G Helm,霞槍天頭兜【Ｇ】・紅
+7776,Crimson 霞・Heaven 槍GF Helm,霞槍天頭兜【Ｆ】・紅
+7777,Crimson 霞・Heaven 槍GX Helm,霞槍天頭兜【ＧＸ】・紅
+7778,Green 穹・Heaven 槍G Helm,穹槍頭兜緑・天
+7779,Green 穹・Heaven 槍GF Helm,穹槍天頭兜【Ｆ】・緑
+7780,Green 穹・Heaven 槍GX Helm,穹槍頭兜緑・天
 7781,White 蘭・砲皇 Helm,蘭砲皇頭兜・白
 7782,White 蘭・砲皇F Helm,蘭砲皇頭兜【Ｆ】・白
 7783,White 蘭・砲皇FX Helm,蘭砲皇頭兜【ＦＸ】・白
@@ -8038,54 +8038,54 @@ index,source,target
 8036,Oyun HS Cap・White,歐雲兜帽【ＨＳ】・白
 8037,Oyun GS Cap・White,歐雲兜帽【ＧＳ】・白
 8038,Oyun GP Cap・White,歐雲兜帽【ＧＰ】・白
-8039,Ash Head・Red,頭兜・灰・赤
-8040,Ash F Head・Red,頭兜【Ｆ】・灰・赤
-8041,Ash FZ Head・Red,頭兜【ＦＺ】・灰・赤
-8042,Ash HS Head・Red,頭兜【ＨＳ】・灰・赤
-8043,Ash GS Head・Red,頭兜【ＧＳ】・灰・赤
-8044,Ash GP Head・Red,頭兜【ＧＰ】・灰・赤
-8045,Ash Hat・Red,帽・灰・赤
-8046,Ash F Hat・Red,帽【Ｆ】・灰・赤
-8047,Ash FZ Hat・Red,帽【ＦＺ】・灰・赤
-8048,Ash HS Hat・Red,帽【ＨＳ】・灰・赤
-8049,Ash GS Hat・Red,帽【ＧＳ】・灰・赤
-8050,Ash GP Hat・Red,帽【ＧＰ】・灰・赤
-8051,Ash Head・Blue,頭兜・灰・青
-8052,Ash F Head・Blue,頭兜【Ｆ】・灰・青
-8053,Ash FZ Head・Blue,頭兜【ＦＺ】・灰・青
-8054,Ash HS Head・Blue,頭兜【ＨＳ】・灰・青
-8055,Ash GS Head・Blue,頭兜【ＧＳ】・灰・青
-8056,Ash GP Head・Blue,頭兜【ＧＰ】・灰・青
-8057,Ash Hat・Blue,帽・灰・青
-8058,Ash F Hat・Blue,帽【Ｆ】・灰・青
-8059,Ash FZ Hat・Blue,帽【ＦＺ】・灰・青
-8060,Ash HS Hat・Blue,帽【ＨＳ】・灰・青
-8061,Ash GS Hat・Blue,帽【ＧＳ】・灰・青
-8062,Ash GP Hat・Blue,帽【ＧＰ】・灰・青
-8063,Ash Head・White,頭兜・灰・白
-8064,Ash F Head・White,頭兜【Ｆ】・灰・白
-8065,Ash FZ Head・White,頭兜【ＦＺ】・灰・白
-8066,Ash HS Head・White,頭兜【ＨＳ】・灰・白
-8067,Ash GS Head・White,頭兜【ＧＳ】・灰・白
-8068,Ash GP Head・White,頭兜【ＧＰ】・灰・白
-8069,Ash Hat・White,帽・灰・白
-8070,Ash F Hat・White,帽【Ｆ】・灰・白
-8071,Ash FZ Hat・White,帽【ＦＺ】・灰・白
-8072,Ash HS Hat・White,帽【ＨＳ】・灰・白
-8073,Ash GS Hat・White,帽【ＧＳ】・灰・白
-8074,Ash GP Hat・White,帽【ＧＰ】・灰・白
-8075,Ash Head・Black,頭兜・灰・黑
-8076,Ash F Head・Black,頭兜【Ｆ】・灰・黑
-8077,Ash FZ Head・Black,頭兜【ＦＺ】・灰・黑
-8078,Ash HS Head・Black,頭兜【ＨＳ】・灰・黑
-8079,Ash GS Head・Black,頭兜【ＧＳ】・灰・黑
-8080,Ash GP Head・Black,頭兜【ＧＰ】・灰・黑
-8081,Ash Hat・Black,帽・灰・黑
-8082,Ash F Hat・Black,帽【Ｆ】・灰・黑
-8083,Ash FZ Hat・Black,帽【ＦＺ】・灰・黑
-8084,Ash HS Hat・Black,帽【ＨＳ】・灰・黑
-8085,Ash GS Hat・Black,帽【ＧＳ】・灰・黑
-8086,Ash GP Hat・Black,帽【ＧＰ】・灰・黑
+8039,Ash Head・Red,頭兜灰・赤
+8040,Ash F Head・Red,頭兜【Ｆ】灰・赤
+8041,Ash FZ Head・Red,頭兜【ＦＺ】灰・赤
+8042,Ash HS Head・Red,頭兜【ＨＳ】灰・赤
+8043,Ash GS Head・Red,頭兜【ＧＳ】灰・赤
+8044,Ash GP Head・Red,頭兜【ＧＰ】灰・赤
+8045,Ash Hat・Red,帽灰・赤
+8046,Ash F Hat・Red,帽【Ｆ】灰・赤
+8047,Ash FZ Hat・Red,帽【ＦＺ】灰・赤
+8048,Ash HS Hat・Red,帽【ＨＳ】灰・赤
+8049,Ash GS Hat・Red,帽【ＧＳ】灰・赤
+8050,Ash GP Hat・Red,帽【ＧＰ】灰・赤
+8051,Ash Head・Blue,頭兜灰・青
+8052,Ash F Head・Blue,頭兜【Ｆ】灰・青
+8053,Ash FZ Head・Blue,頭兜【ＦＺ】灰・青
+8054,Ash HS Head・Blue,頭兜【ＨＳ】灰・青
+8055,Ash GS Head・Blue,頭兜【ＧＳ】灰・青
+8056,Ash GP Head・Blue,頭兜【ＧＰ】灰・青
+8057,Ash Hat・Blue,帽灰・青
+8058,Ash F Hat・Blue,帽【Ｆ】灰・青
+8059,Ash FZ Hat・Blue,帽【ＦＺ】灰・青
+8060,Ash HS Hat・Blue,帽【ＨＳ】灰・青
+8061,Ash GS Hat・Blue,帽【ＧＳ】灰・青
+8062,Ash GP Hat・Blue,帽【ＧＰ】灰・青
+8063,Ash Head・White,頭兜灰・白
+8064,Ash F Head・White,頭兜【Ｆ】灰・白
+8065,Ash FZ Head・White,頭兜【ＦＺ】灰・白
+8066,Ash HS Head・White,頭兜【ＨＳ】灰・白
+8067,Ash GS Head・White,頭兜【ＧＳ】灰・白
+8068,Ash GP Head・White,頭兜【ＧＰ】灰・白
+8069,Ash Hat・White,帽灰・白
+8070,Ash F Hat・White,帽【Ｆ】灰・白
+8071,Ash FZ Hat・White,帽【ＦＺ】灰・白
+8072,Ash HS Hat・White,帽【ＨＳ】灰・白
+8073,Ash GS Hat・White,帽【ＧＳ】灰・白
+8074,Ash GP Hat・White,帽【ＧＰ】灰・白
+8075,Ash Head・Black,頭兜灰・黑
+8076,Ash F Head・Black,頭兜【Ｆ】灰・黑
+8077,Ash FZ Head・Black,頭兜【ＦＺ】灰・黑
+8078,Ash HS Head・Black,頭兜【ＨＳ】灰・黑
+8079,Ash GS Head・Black,頭兜【ＧＳ】灰・黑
+8080,Ash GP Head・Black,頭兜【ＧＰ】灰・黑
+8081,Ash Hat・Black,帽灰・黑
+8082,Ash F Hat・Black,帽【Ｆ】灰・黑
+8083,Ash FZ Hat・Black,帽【ＦＺ】灰・黑
+8084,Ash HS Hat・Black,帽【ＨＳ】灰・黑
+8085,Ash GS Hat・Black,帽【ＧＳ】灰・黑
+8086,Ash GP Hat・Black,帽【ＧＰ】灰・黑
 8087,Pistis GP Head,普伊斯伊頭兜【ＧＰ】
 8088,Pistis GP Hat,普伊斯伊帽【ＧＰ】
 8089,Blink HS Band,布伊恩頭帶【ＨＳ】
@@ -8701,48 +8701,48 @@ index,source,target
 8699,Tenpi Crown HS・Red,天陽冠【ＨＳ】・赤
 8700,Tenpi Crown GS・Red,天陽冠【ＧＳ】・赤
 8701,Tenpi Crown GP・Red,天陽冠【ＧＰ】・赤
-8702,Tenpi ノ団子・Red,天陽頭兜
-8703,Tenpi ノ団子F・Red,天陽頭兜【Ｆ】
-8704,Tenpi ノ団子FZ・Red,天陽頭兜【ＦＺ】
-8705,Tenpi ノ団子HS・Red,天陽頭兜【ＨＳ】
-8706,Tenpi ノ団子GS・Red,天陽頭兜【ＧＳ】
-8707,Tenpi ノ団子GP・Red,天陽頭兜【ＧＰ】
+8702,Tenpi ノ団子・Red,天陽頭兜・赤
+8703,Tenpi ノ団子F・Red,天陽頭兜【Ｆ】・赤
+8704,Tenpi ノ団子FZ・Red,天陽頭兜【ＦＺ】・赤
+8705,Tenpi ノ団子HS・Red,天陽頭兜【ＨＳ】・赤
+8706,Tenpi ノ団子GS・Red,天陽頭兜【ＧＳ】・赤
+8707,Tenpi ノ団子GP・Red,天陽頭兜【ＧＰ】・赤
 8708,Tenpi Crown・Blue,天陽冠・青
 8709,Tenpi Crown F・Blue,天陽冠【Ｆ】・青
 8710,Tenpi Crown FZ・Blue,天陽冠【ＦＺ】・青
 8711,Tenpi Crown HS・Blue,天陽冠【ＨＳ】・青
 8712,Tenpi Crown GS・Blue,天陽冠【ＧＳ】・青
 8713,Tenpi Crown GP・Blue,天陽冠【ＧＰ】・青
-8714,Tenpi ノ団子・Blue,天陽頭兜
-8715,Tenpi ノ団子F・Blue,天陽頭兜【Ｆ】
-8716,Tenpi ノ団子FZ・Blue,天陽頭兜【ＦＺ】
-8717,Tenpi ノ団子HS・Blue,天陽頭兜【ＨＳ】
-8718,Tenpi ノ団子GS・Blue,天陽頭兜【ＧＳ】
-8719,Tenpi ノ団子GP・Blue,天陽頭兜【ＧＰ】
+8714,Tenpi ノ団子・Blue,天陽頭兜・青
+8715,Tenpi ノ団子F・Blue,天陽頭兜【Ｆ】・青
+8716,Tenpi ノ団子FZ・Blue,天陽頭兜【ＦＺ】・青
+8717,Tenpi ノ団子HS・Blue,天陽頭兜【ＨＳ】・青
+8718,Tenpi ノ団子GS・Blue,天陽頭兜【ＧＳ】・青
+8719,Tenpi ノ団子GP・Blue,天陽頭兜【ＧＰ】・青
 8720,Tenpi Crown・Black,天陽冠・黑
 8721,Tenpi Crown F・Black,天陽冠【Ｆ】・黑
 8722,Tenpi Crown FZ・Black,天陽冠【ＦＺ】・黑
 8723,Tenpi Crown HS・Black,天陽冠【ＨＳ】・黑
 8724,Tenpi Crown GS・Black,天陽冠【ＧＳ】・黑
 8725,Tenpi Crown GP・Black,天陽冠【ＧＰ】・黑
-8726,Tenpi ノ団子・Black,天陽頭兜
-8727,Tenpi ノ団子F・Black,天陽頭兜【Ｆ】
-8728,Tenpi ノ団子FZ・Black,天陽頭兜【ＦＺ】
-8729,Tenpi ノ団子HS・Black,天陽頭兜【ＨＳ】
-8730,Tenpi ノ団子GS・Black,天陽頭兜【ＧＳ】
-8731,Tenpi ノ団子GP・Black,天陽頭兜【ＧＰ】
+8726,Tenpi ノ団子・Black,天陽頭兜・黑
+8727,Tenpi ノ団子F・Black,天陽頭兜【Ｆ】・黑
+8728,Tenpi ノ団子FZ・Black,天陽頭兜【ＦＺ】・黑
+8729,Tenpi ノ団子HS・Black,天陽頭兜【ＨＳ】・黑
+8730,Tenpi ノ団子GS・Black,天陽頭兜【ＧＳ】・黑
+8731,Tenpi ノ団子GP・Black,天陽頭兜【ＧＰ】・黑
 8732,Tenpi Crown・White,天陽冠・白
 8733,Tenpi Crown F・White,天陽冠【Ｆ】・白
 8734,Tenpi Crown FZ・White,天陽冠【ＦＺ】・白
 8735,Tenpi Crown HS・White,天陽冠【ＨＳ】・白
 8736,Tenpi Crown GS・White,天陽冠【ＧＳ】・白
 8737,Tenpi Crown GP・White,天陽冠【ＧＰ】・白
-8738,Tenpi ノ団子・White,天陽頭兜
-8739,Tenpi ノ団子F・White,天陽頭兜【Ｆ】
-8740,Tenpi ノ団子FZ・White,天陽頭兜【ＦＺ】
-8741,Tenpi ノ団子HS・White,天陽頭兜【ＨＳ】
-8742,Tenpi ノ団子GS・White,天陽頭兜【ＧＳ】
-8743,Tenpi ノ団子GP・White,天陽頭兜【ＧＰ】
+8738,Tenpi ノ団子・White,天陽頭兜・白
+8739,Tenpi ノ団子F・White,天陽頭兜【Ｆ】・白
+8740,Tenpi ノ団子FZ・White,天陽頭兜【ＦＺ】・白
+8741,Tenpi ノ団子HS・White,天陽頭兜【ＨＳ】・白
+8742,Tenpi ノ団子GS・White,天陽頭兜【ＧＳ】・白
+8743,Tenpi ノ団子GP・White,天陽頭兜【ＧＰ】・白
 8744,Ruban Band,魯班頭帶
 8745,Ruban F Band,魯班頭帶【Ｆ】
 8746,Ruban FZ Band,魯班頭帶【ＦＺ】
@@ -8932,9 +8932,9 @@ index,source,target
 8930,Noir G Piercing,黑耳飾【Ｇ】
 8931,Noir GF Piercing,黑耳飾【ＧＦ】
 8932,Noir GX Piercing,黑耳飾【ＧＸ】
-8933,Demon Lord Horn G,德艾姆歐角【Ｇ】
-8934,Demon Lord Horn GF,德艾姆歐角【ＧＦ】
-8935,Demon Lord Horn GX,德艾姆歐角【ＧＸ】
+8933,Demon Lord Horn G,魔王角【Ｇ】
+8934,Demon Lord Horn GF,魔王角【ＧＦ】
+8935,Demon Lord Horn GX,魔王角【ＧＸ】
 8936,童子ノ角G,童子角頭兜
 8937,童子ノ角GF,童子角頭兜【Ｆ】
 8938,童子ノ角GX,童子角頭兜
@@ -9400,21 +9400,21 @@ index,source,target
 9398,Magos GP Haar・Yellow,瑪戈斯髮【ＧＰ】・黄
 9399,Magos GP Head・Red,瑪戈斯頭兜【ＧＰ】・赤
 9400,Magos GP Haar・Red,瑪戈斯髮【ＧＰ】・赤
-9401,Magos GP Head・Water,瑪戈斯水頭兜【ＧＰ】
-9402,Magos GP Haar・Water,瑪戈斯水髮【ＧＰ】
+9401,Magos GP Head・Water,瑪戈斯頭兜【ＧＰ】・水
+9402,Magos GP Haar・Water,瑪戈斯髮【ＧＰ】・水
 9403,Magos GP Head・Blue,瑪戈斯頭兜【ＧＰ】・青
 9404,Magos GP Haar・Blue,瑪戈斯髮【ＧＰ】・青
-9405,Yukumo Kasa・Heaven,結雲天笠・天
-9406,Yukumo Kasa G・Heaven,結雲天笠【Ｇ】・天
-9407,Yukumo Kasa GF・Heaven,結雲天笠【ＧＦ】・天
-9408,Yukumo Kasa GX・Heaven,結雲天笠【ＧＸ】・天
+9405,Yukumo Kasa・Heaven,結雲天笠
+9406,Yukumo Kasa G・Heaven,結雲天笠【Ｇ】
+9407,Yukumo Kasa GF・Heaven,結雲天笠【ＧＦ】
+9408,Yukumo Kasa GX・Heaven,結雲天笠【ＧＸ】
 9409,Furogada G Head,芙烏爾歐頭兜【Ｇ】
 9410,Furogada GF Head,芙烏爾歐頭兜【ＧＦ】
 9411,Furogada GX Head,芙烏爾歐頭兜【ＧＸ】
-9412,Yukumo Kasa・Earth,結雲地笠・地
-9413,Yukumo Kasa G・Earth,結雲地笠【Ｇ】・地
-9414,Yukumo Kasa GF・Earth,結雲地笠【ＧＦ】・地
-9415,Yukumo Kasa GX・Earth,結雲地笠【ＧＸ】・地
+9412,Yukumo Kasa・Earth,結雲地笠
+9413,Yukumo Kasa G・Earth,結雲地笠【Ｇ】
+9414,Yukumo Kasa GF・Earth,結雲地笠【ＧＦ】
+9415,Yukumo Kasa GX・Earth,結雲地笠【ＧＸ】
 9416,Furogada G Cap,芙烏爾歐兜帽【Ｇ】
 9417,Furogada GF Cap,芙烏爾歐兜帽【ＧＦ】
 9418,Furogada GX Cap,芙烏爾歐兜帽【ＧＸ】
@@ -9590,8 +9590,8 @@ index,source,target
 9588,Pics GP Hat・Purple,皮克斯帽【ＧＰ】・紫
 9589,Pics GP Head・Black,皮克斯頭兜【ＧＰ】・黑
 9590,Pics GP Hat・Black,皮克斯帽【ＧＰ】・黑
-9591,Pics GP Head・Water,皮克斯水頭兜【ＧＰ】
-9592,Pics GP Hat・Water,皮克斯水帽【ＧＰ】
+9591,Pics GP Head・Water,皮克斯頭兜【ＧＰ】・水
+9592,Pics GP Hat・Water,皮克斯帽【ＧＰ】・水
 9593,ダミー,(dummy)
 9594,ダミー,(dummy)
 9595,Barrel Cat Helm・Gold,布阿爾艾頭兜・金
@@ -9959,12 +9959,12 @@ index,source,target
 9957,Monodevil G Cap,單眼惡魔兜帽【Ｇ】
 9958,Monodevil GF Cap,單眼惡魔兜帽【ＧＦ】
 9959,Monodevil GX Cap,單眼惡魔兜帽【ＧＸ】
-9960,B.Diablos G Helm,角龍頭兜【Ｇ】
-9961,B.Diablos GF Helm,角龍頭兜【ＧＦ】
-9962,B.Diablos GX Helm,角龍頭兜【ＧＸ】
-9963,B.Diablos G Cap,角龍兜帽【Ｇ】
-9964,B.Diablos GF Cap,角龍兜帽【ＧＦ】
-9965,B.Diablos GX Cap,角龍兜帽【ＧＸ】
+9960,B.Diablos G Helm,黑角龍頭兜【Ｇ】
+9961,B.Diablos GF Helm,黑角龍頭兜【ＧＦ】
+9962,B.Diablos GX Helm,黑角龍頭兜【ＧＸ】
+9963,B.Diablos G Cap,黑角龍兜帽【Ｇ】
+9964,B.Diablos GF Cap,黑角龍兜帽【ＧＦ】
+9965,B.Diablos GX Cap,黑角龍兜帽【ＧＸ】
 9966,Wadatsumi GX【Eboshi】,綿津見烏帽子【ＧＸ】
 9967,Okami GX【Eboshi】,狼烏帽子【ＧＸ】
 9968,Odiva GX Helm,奧蒂瓦頭兜【ＧＸ】
@@ -10681,9 +10681,9 @@ index,source,target
 10679,アメニケ Piercing GS,阿梅尼凱耳飾【ＧＳ】
 10680,アメニケ Piercing GP,阿梅尼凱耳飾【ＧＰ】
 10681,クローニーGP Piercing,庫羅尼耳飾【ＧＰ】
-10682,Demon Tale Horn G,德艾姆歐角【Ｇ】
-10683,Demon Tale Horn GF,德艾姆歐角【ＧＦ】
-10684,Demon Tale Horn GX,德艾姆歐角【ＧＸ】
+10682,Demon Tale Horn G,魔譚角【Ｇ】
+10683,Demon Tale Horn GF,魔譚角【ＧＦ】
+10684,Demon Tale Horn GX,魔譚角【ＧＸ】
 10685,童伝ノ角G,童伝角頭兜
 10686,童伝ノ角GF,童伝角頭兜【Ｆ】
 10687,童伝ノ角GX,童伝角頭兜
@@ -10994,42 +10994,42 @@ index,source,target
 10992,Wasou Crown HS,和裝冠【ＨＳ】
 10993,Wasou Crown GS,和裝冠【ＧＳ】
 10994,Wasou Crown GP,和裝冠【ＧＰ】
-10995,Blue Ice Emperor Head,冰帝頭兜・青
-10996,Blue Ice Emperor F Head,冰帝頭兜【Ｆ】・青
-10997,Blue Ice Emperor FZ Head,冰帝頭兜【ＦＺ】・青
-10998,Blue Ice Emperor HS Head,冰帝頭兜【ＨＳ】・青
-10999,Blue Ice Emperor GS Head,冰帝頭兜【ＧＳ】・青
-11000,Blue Ice Emperor GP Head,冰帝頭兜【ＧＰ】・青
-11001,Blue Ice Emperor Cap,冰帝兜帽・青
-11002,Blue Ice Emperor F Cap,冰帝兜帽【Ｆ】・青
-11003,Blue Ice Emperor FZ Cap,冰帝兜帽【ＦＺ】・青
-11004,Blue Ice Emperor HS Cap,冰帝兜帽【ＨＳ】・青
-11005,Blue Ice Emperor GS Cap,冰帝兜帽【ＧＳ】・青
-11006,Blue Ice Emperor GP Cap,冰帝兜帽【ＧＰ】・青
-11007,White Ice Emperor Head,冰帝頭兜・白
-11008,White Ice Emperor F Head,冰帝頭兜【Ｆ】・白
-11009,White Ice Emperor FZ Head,冰帝頭兜【ＦＺ】・白
-11010,White Ice Emperor HS Head,冰帝頭兜【ＨＳ】・白
-11011,White Ice Emperor GS Head,冰帝頭兜【ＧＳ】・白
-11012,White Ice Emperor GP Head,冰帝頭兜【ＧＰ】・白
-11013,White Ice Emperor Cap,冰帝兜帽・白
-11014,White Ice Emperor F Cap,冰帝兜帽【Ｆ】・白
-11015,White Ice Emperor FZ Cap,冰帝兜帽【ＦＺ】・白
-11016,White Ice Emperor HS Cap,冰帝兜帽【ＨＳ】・白
-11017,White Ice Emperor GS Cap,冰帝兜帽【ＧＳ】・白
-11018,White Ice Emperor GP Cap,冰帝兜帽【ＧＰ】・白
-11019,Red Ice Emperor Head,冰帝頭兜・赤
-11020,Red Ice Emperor F Head,冰帝頭兜【Ｆ】・赤
-11021,Red Ice Emperor FZ Head,冰帝頭兜【ＦＺ】・赤
-11022,Red Ice Emperor HS Head,冰帝頭兜【ＨＳ】・赤
-11023,Red Ice Emperor GS Head,冰帝頭兜【ＧＳ】・赤
-11024,Red Ice Emperor GP Head,冰帝頭兜【ＧＰ】・赤
-11025,Red Ice Emperor Cap,冰帝兜帽・赤
-11026,Red Ice Emperor F Cap,冰帝兜帽【Ｆ】・赤
-11027,Red Ice Emperor FZ Cap,冰帝兜帽【ＦＺ】・赤
-11028,Red Ice Emperor HS Cap,冰帝兜帽【ＨＳ】・赤
-11029,Red Ice Emperor GS Cap,冰帝兜帽【ＧＳ】・赤
-11030,Red Ice Emperor GP Cap,冰帝兜帽【ＧＰ】・赤
+10995,Blue Ice Emperor Head,青冰帝頭兜
+10996,Blue Ice Emperor F Head,青冰帝頭兜【Ｆ】
+10997,Blue Ice Emperor FZ Head,青冰帝頭兜【ＦＺ】
+10998,Blue Ice Emperor HS Head,青冰帝頭兜【ＨＳ】
+10999,Blue Ice Emperor GS Head,青冰帝頭兜【ＧＳ】
+11000,Blue Ice Emperor GP Head,青冰帝頭兜【ＧＰ】
+11001,Blue Ice Emperor Cap,青冰帝兜帽
+11002,Blue Ice Emperor F Cap,青冰帝兜帽【Ｆ】
+11003,Blue Ice Emperor FZ Cap,青冰帝兜帽【ＦＺ】
+11004,Blue Ice Emperor HS Cap,青冰帝兜帽【ＨＳ】
+11005,Blue Ice Emperor GS Cap,青冰帝兜帽【ＧＳ】
+11006,Blue Ice Emperor GP Cap,青冰帝兜帽【ＧＰ】
+11007,White Ice Emperor Head,白冰帝頭兜
+11008,White Ice Emperor F Head,白冰帝頭兜【Ｆ】
+11009,White Ice Emperor FZ Head,白冰帝頭兜【ＦＺ】
+11010,White Ice Emperor HS Head,白冰帝頭兜【ＨＳ】
+11011,White Ice Emperor GS Head,白冰帝頭兜【ＧＳ】
+11012,White Ice Emperor GP Head,白冰帝頭兜【ＧＰ】
+11013,White Ice Emperor Cap,白冰帝兜帽
+11014,White Ice Emperor F Cap,白冰帝兜帽【Ｆ】
+11015,White Ice Emperor FZ Cap,白冰帝兜帽【ＦＺ】
+11016,White Ice Emperor HS Cap,白冰帝兜帽【ＨＳ】
+11017,White Ice Emperor GS Cap,白冰帝兜帽【ＧＳ】
+11018,White Ice Emperor GP Cap,白冰帝兜帽【ＧＰ】
+11019,Red Ice Emperor Head,赤冰帝頭兜
+11020,Red Ice Emperor F Head,赤冰帝頭兜【Ｆ】
+11021,Red Ice Emperor FZ Head,赤冰帝頭兜【ＦＺ】
+11022,Red Ice Emperor HS Head,赤冰帝頭兜【ＨＳ】
+11023,Red Ice Emperor GS Head,赤冰帝頭兜【ＧＳ】
+11024,Red Ice Emperor GP Head,赤冰帝頭兜【ＧＰ】
+11025,Red Ice Emperor Cap,赤冰帝兜帽
+11026,Red Ice Emperor F Cap,赤冰帝兜帽【Ｆ】
+11027,Red Ice Emperor FZ Cap,赤冰帝兜帽【ＦＺ】
+11028,Red Ice Emperor HS Cap,赤冰帝兜帽【ＨＳ】
+11029,Red Ice Emperor GS Cap,赤冰帝兜帽【ＧＳ】
+11030,Red Ice Emperor GP Cap,赤冰帝兜帽【ＧＰ】
 11031,Taruta Head,特阿爾烏頭兜
 11032,Taruta F Head,特阿爾烏頭兜【Ｆ】
 11033,Taruta FZ Head,特阿爾烏頭兜【ＦＺ】
@@ -11337,12 +11337,12 @@ index,source,target
 11335,Evol D Head・Purple,艾芙歐爾頭兜・紫
 11336,Hunting Troops Head・Male,赫烏恩伊頭兜
 11337,Hunting Troops Head・Female,赫烏恩伊頭兜
-11338,Blue Ice Emperor ZP Head,冰帝頭兜【ＺＰ】・青
-11339,Blue Ice Emperor ZP Cap,冰帝兜帽【ＺＰ】・青
-11340,White Ice Emperor ZP Head,冰帝頭兜【ＺＰ】・白
-11341,White Ice Emperor ZP Cap,冰帝兜帽【ＺＰ】・白
-11342,Red Ice Emperor ZP Head,冰帝頭兜【ＺＰ】・赤
-11343,Red Ice Emperor ZP Cap,冰帝兜帽【ＺＰ】・赤
+11338,Blue Ice Emperor ZP Head,青冰帝頭兜【ＺＰ】
+11339,Blue Ice Emperor ZP Cap,青冰帝兜帽【ＺＰ】
+11340,White Ice Emperor ZP Head,白冰帝頭兜【ＺＰ】
+11341,White Ice Emperor ZP Cap,白冰帝兜帽【ＺＰ】
+11342,Red Ice Emperor ZP Head,赤冰帝頭兜【ＺＰ】
+11343,Red Ice Emperor ZP Cap,赤冰帝兜帽【ＺＰ】
 11344,Wander Head・Blue,流浪頭兜・青
 11345,Wander F Head・Blue,流浪頭兜【Ｆ】・青
 11346,Wander FZ Head・Blue,流浪頭兜【ＦＺ】・青
@@ -11547,9 +11547,9 @@ index,source,target
 11545,Wander D Head・Red,沃阿恩艾頭兜・赤
 11546,Wander D Head・White,沃阿恩艾頭兜・白
 11547,Wander D Head・Black,沃阿恩艾頭兜・黑
-11548,Blue Ice Emperor D Head,伊克艾斯頭兜・青
-11549,White Ice Emperor D Head,伊克艾斯頭兜・白
-11550,Red Ice Emperor D Head,伊克艾斯頭兜・赤
+11548,Blue Ice Emperor D Head,青冰帝頭兜
+11549,White Ice Emperor D Head,白冰帝頭兜
+11550,Red Ice Emperor D Head,赤冰帝頭兜
 11551,Rance C Head,爾阿恩艾頭兜
 11552,Santa D Head,斯阿恩阿頭兜
 11553,Anteka D Head,雪鹿頭兜
@@ -11596,9 +11596,9 @@ index,source,target
 11594,Farunokku D Cap,芙阿爾烏兜帽
 11595,Pokara D Helm,普歐克阿頭兜
 11596,Pokara D Cap,普歐克阿兜帽
-11597,Genesis D【五線譜】,創世頭兜
-11598,Motion D【五線譜】,律動頭兜
-11599,Lightning D Kabuto,爾伊格伊兜
+11597,Genesis D【五線譜】,格艾恩艾頭兜
+11598,Motion D【五線譜】,姆歐特伊頭兜
+11599,Lightning D Kabuto,雷光兜
 11600,Thunder D Kabuto,雷兜
 11601,Toridcless D Helm,特歐爾伊頭兜
 11602,Toridcless D Cap,特歐爾伊兜帽
@@ -11611,8 +11611,8 @@ index,source,target
 11609,Blitz D Horn,布伊特角
 11610,Stroma D Helm,斯歐姆阿頭兜
 11611,Stroma D Cap,斯歐姆阿兜帽
-11612,Elegance D【趣】,雅頭兜
-11613,Grace D【趣】,恩寵頭兜
+11612,Elegance D【趣】,艾爾艾格頭兜
+11613,Grace D【趣】,格阿克艾頭兜
 11614,Altera D Helm,阿爾艾爾頭兜
 11615,Altera D Cap,阿爾艾爾兜帽
 11616,Pobo D Helm,普歐布歐頭兜
@@ -11709,8 +11709,8 @@ index,source,target
 11707,Butterfly D Vertex,布烏特艾頭頂
 11708,Vol Admiral D,芙歐爾阿頭兜
 11709,Vol Legend D,芙歐爾艾頭兜
-11710,Demon Lord Horn D,德艾姆歐角
-11711,Demon Tale ノ角D,惡魔頭兜
+11710,Demon Lord Horn D,魔王角
+11711,Demon Tale ノ角D,魔譚頭兜
 11712,鬼凛ノ角D,鬼凛角頭兜
 11713,Empress C Sector,艾姆艾斯頭兜
 11714,Empress C Mask,女帝帽子
@@ -11721,7 +11721,7 @@ index,source,target
 11719,Nargacuga C Helm,恩阿爾阿頭兜
 11720,Nargacuga C Cap,恩阿爾阿兜帽
 11721,Burning Cliff GX Kabuto,燃崖兜【ＧＸ】
-11722,Crimson Cliff GX Kabuto,崖兜【ＧＸ】・紅
+11722,Crimson Cliff GX Kabuto,深紅崖兜【ＧＸ】
 11723,Vashimu Z Helm,尾晶蠍頭兜【Ｚ】
 11724,Vashimu ZF Helm,尾晶蠍頭兜【ＺＦ】
 11725,Vashimu ZY Helm,尾晶蠍頭兜【ＺＹ】
@@ -11852,8 +11852,8 @@ index,source,target
 11850,Pashio GX Cap,普阿夏伊兜帽【ＧＸ】
 11851,Harudo D Helm,赫阿爾烏頭兜
 11852,Harudo D Cap,赫阿爾烏兜帽
-11853,Elegance D【趣】,雅頭兜
-11854,Grace D【趣】,恩寵頭兜
+11853,Elegance D【趣】,艾爾艾格頭兜
+11854,Grace D【趣】,格阿克艾頭兜
 11855,Meraginasu D Helm,姆艾爾阿頭兜
 11856,Meraginasu D Cap,姆艾爾阿兜帽
 11857,Hesyumu D Head,赫艾斯烏頭兜
@@ -11886,19 +11886,19 @@ index,source,target
 11884,Lucchese D Head,爾烏克艾頭兜
 11885,Entora D Helm,艾恩歐爾頭兜
 11886,YoRHa No.9 Type S Head,寄葉九號型頭兜【Ｓ】
-11887,YoRHa No.9 Type S F Head,寄葉九號型頭兜【Ｓ】【Ｆ】
-11888,YoRHa No.9 Type S FZ Head,寄葉九號型頭兜【Ｓ】【ＦＺ】
-11889,YoRHa No.9 Type S HS Head,寄葉九號型頭兜【Ｓ】【ＨＳ】
-11890,YoRHa No.9 Type S GS Head,寄葉九號型頭兜【Ｓ】【ＧＳ】
-11891,YoRHa No.9 Type S GP Head,寄葉九號型頭兜【Ｓ】【ＧＰ】
-11892,YoRHa No.9 Type S ZP Head,寄葉九號型頭兜【Ｓ】【ＺＰ】
+11887,YoRHa No.9 Type S F Head,寄葉九號型頭兜【Ｆ】
+11888,YoRHa No.9 Type S FZ Head,寄葉九號型頭兜【ＦＺ】
+11889,YoRHa No.9 Type S HS Head,寄葉九號型頭兜【ＨＳ】
+11890,YoRHa No.9 Type S GS Head,寄葉九號型頭兜【ＧＳ】
+11891,YoRHa No.9 Type S GP Head,寄葉九號型頭兜【ＧＰ】
+11892,YoRHa No.9 Type S ZP Head,寄葉九號型頭兜【ＺＰ】
 11893,YoRHa No.9 Type S Mask,寄葉九號型帽子【Ｓ】
-11894,YoRHa No.9 Type S F Mask,寄葉九號型帽子【Ｓ】【Ｆ】
-11895,YoRHa No.9 Type S FZ Mask,寄葉九號型帽子【Ｓ】【ＦＺ】
-11896,YoRHa No.9 Type S HS Mask,寄葉九號型帽子【Ｓ】【ＨＳ】
-11897,YoRHa No.9 Type S GS Mask,寄葉九號型帽子【Ｓ】【ＧＳ】
-11898,YoRHa No.9 Type S GP Mask,寄葉九號型帽子【Ｓ】【ＧＰ】
-11899,YoRHa No.9 Type S ZP Mask,寄葉九號型帽子【Ｓ】【ＺＰ】
+11894,YoRHa No.9 Type S F Mask,寄葉九號型帽子【Ｆ】
+11895,YoRHa No.9 Type S FZ Mask,寄葉九號型帽子【ＦＺ】
+11896,YoRHa No.9 Type S HS Mask,寄葉九號型帽子【ＨＳ】
+11897,YoRHa No.9 Type S GS Mask,寄葉九號型帽子【ＧＳ】
+11898,YoRHa No.9 Type S GP Mask,寄葉九號型帽子【ＧＰ】
+11899,YoRHa No.9 Type S ZP Mask,寄葉九號型帽子【ＺＰ】
 11900,YoRHa No.2 Type B Head,寄葉二號Ｂ型頭兜
 11901,YoRHa No.2 Type B F Head,寄葉二號Ｂ型頭兜【Ｆ】
 11902,YoRHa No.2 Type B FZ Head,寄葉二號Ｂ型頭兜【ＦＺ】
@@ -11973,22 +11973,22 @@ index,source,target
 11971,Akahara Reisou GN Head ZP Black,赤原禮裝頭兜【ＺＰ】・黑
 11972,Akahara Reisou BM Head ZP White,赤原禮裝頭兜【ＺＰ】・白
 11973,Akahara Reisou GN Head ZP White,赤原禮裝頭兜【ＺＰ】・白
-11974,Knight King Hair BM ZP Blue,克伊格伊頭兜【ＺＰ】・青
-11975,Knight King Hair GN ZP Blue,克伊格伊頭兜【ＺＰ】・青
-11976,Knight King Hair BM ZP Red,克伊格伊頭兜【ＺＰ】・赤
-11977,Knight King Hair GN ZP Red,克伊格伊頭兜【ＺＰ】・赤
-11978,Knight King Hair BM ZP Black,克伊格伊頭兜【ＺＰ】・黑
-11979,Knight King Hair GN ZP Black,克伊格伊頭兜【ＺＰ】・黑
-11980,Knight King Hair BM ZP White,克伊格伊頭兜【ＺＰ】・白
-11981,Knight King Hair GN ZP White,克伊格伊頭兜【ＺＰ】・白
-11982,Hero King Earring BM ZP Gold,赫艾爾歐頭兜【ＺＰ】・金
-11983,Hero King Earring GN ZP Gold,赫艾爾歐頭兜【ＺＰ】・金
-11984,Hero King Earring BM ZP Black,赫艾爾歐頭兜【ＺＰ】・黑
-11985,Hero King Earring GN ZP Black,赫艾爾歐頭兜【ＺＰ】・黑
-11986,Hero King Earring BM ZP White,赫艾爾歐頭兜【ＺＰ】・白
-11987,Hero King Earring GN ZP White,赫艾爾歐頭兜【ＺＰ】・白
-11988,Hero King Earring BM ZP Red,赫艾爾歐頭兜【ＺＰ】・赤
-11989,Hero King Earring GN ZP Red,赫艾爾歐頭兜【ＺＰ】・赤
+11974,Knight King Hair BM ZP Blue,騎士王頭兜【ＺＰ】・青
+11975,Knight King Hair GN ZP Blue,騎士王頭兜【ＺＰ】・青
+11976,Knight King Hair BM ZP Red,騎士王頭兜【ＺＰ】・赤
+11977,Knight King Hair GN ZP Red,騎士王頭兜【ＺＰ】・赤
+11978,Knight King Hair BM ZP Black,騎士王頭兜【ＺＰ】・黑
+11979,Knight King Hair GN ZP Black,騎士王頭兜【ＺＰ】・黑
+11980,Knight King Hair BM ZP White,騎士王頭兜【ＺＰ】・白
+11981,Knight King Hair GN ZP White,騎士王頭兜【ＺＰ】・白
+11982,Hero King Earring BM ZP Gold,英雄王頭兜【ＺＰ】・金
+11983,Hero King Earring GN ZP Gold,英雄王頭兜【ＺＰ】・金
+11984,Hero King Earring BM ZP Black,英雄王頭兜【ＺＰ】・黑
+11985,Hero King Earring GN ZP Black,英雄王頭兜【ＺＰ】・黑
+11986,Hero King Earring BM ZP White,英雄王頭兜【ＺＰ】・白
+11987,Hero King Earring GN ZP White,英雄王頭兜【ＺＰ】・白
+11988,Hero King Earring BM ZP Red,英雄王頭兜【ＺＰ】・赤
+11989,Hero King Earring GN ZP Red,英雄王頭兜【ＺＰ】・赤
 11990,Gorgon ZP Head・Black,戈耳工頭兜【ＺＰ】・黑
 11991,Gorgon ZP Mask・Black,戈耳工帽子【ＺＰ】・黑
 11992,Gorgon ZP Head・Blue,戈耳工頭兜【ＺＰ】・青
@@ -12035,14 +12035,14 @@ index,source,target
 12033,Akahara Reisou GN Head D Blue,阿克阿赫頭兜・青
 12034,Akahara Reisou GN Head D Black,阿克阿赫頭兜・黑
 12035,Akahara Reisou GN Head D White,阿克阿赫頭兜・白
-12036,Knight King Hair BM D Blue,克伊格伊頭兜・青
-12037,Knight King Hair BM D Red,克伊格伊頭兜・赤
-12038,Knight King Hair BM D Black,克伊格伊頭兜・黑
-12039,Knight King Hair BM D White,克伊格伊頭兜・白
-12040,Hero King Earring BM D Gold,赫艾爾歐頭兜・金
-12041,Hero King Earring BM D Black,赫艾爾歐頭兜・黑
-12042,Hero King Earring BM D White,赫艾爾歐頭兜・白
-12043,Hero King Earring BM D Red,赫艾爾歐頭兜・赤
+12036,Knight King Hair BM D Blue,騎士王頭兜・青
+12037,Knight King Hair BM D Red,騎士王頭兜・赤
+12038,Knight King Hair BM D Black,騎士王頭兜・黑
+12039,Knight King Hair BM D White,騎士王頭兜・白
+12040,Hero King Earring BM D Gold,英雄王頭兜・金
+12041,Hero King Earring BM D Black,英雄王頭兜・黑
+12042,Hero King Earring BM D White,英雄王頭兜・白
+12043,Hero King Earring BM D Red,英雄王頭兜・赤
 12044,Gorgon D Head・Black,格歐爾歐頭兜・黑
 12045,Gorgon D Head・Blue,格歐爾歐頭兜・青
 12046,Gorgon D Head・White,格歐爾歐頭兜・白
@@ -12117,13 +12117,13 @@ index,source,target
 12115,Twin Star GS Helm,雙星頭兜【ＧＳ】
 12116,Twin Star GP Helm,雙星頭兜【ＧＰ】
 12117,Twin Star ZP Helm,雙星頭兜【ＺＰ】
-12118,Heaven Blade Helm,天刃頭兜・天
-12119,Heaven Blade F Helm,天刃頭兜【Ｆ】・天
-12120,Heaven Blade FZ Helm,天刃頭兜【ＦＺ】・天
-12121,Heaven Blade HS Helm,天刃頭兜【ＨＳ】・天
-12122,Heaven Blade GS Helm,天刃頭兜【ＧＳ】・天
-12123,Heaven Blade GP Helm,天刃頭兜【ＧＰ】・天
-12124,Heaven Blade ZP Helm,天刃頭兜【ＺＰ】・天
+12118,Heaven Blade Helm,天刃頭兜
+12119,Heaven Blade F Helm,天刃頭兜【Ｆ】
+12120,Heaven Blade FZ Helm,天刃頭兜【ＦＺ】
+12121,Heaven Blade HS Helm,天刃頭兜【ＨＳ】
+12122,Heaven Blade GS Helm,天刃頭兜【ＧＳ】
+12123,Heaven Blade GP Helm,天刃頭兜【ＧＰ】
+12124,Heaven Blade ZP Helm,天刃頭兜【ＺＰ】
 12125,Spring Sword Helm,斯伊恩歐頭兜
 12126,Spring Sword F Helm,斯伊恩歐頭兜【Ｆ】
 12127,Spring Sword FZ Helm,斯伊恩歐頭兜【ＦＺ】
@@ -12159,13 +12159,13 @@ index,source,target
 12157,Scream Lance GS Helm,斯艾姆阿頭兜【ＧＳ】
 12158,Scream Lance GP Helm,斯艾姆阿頭兜【ＧＰ】
 12159,Scream Lance ZP Helm,斯艾姆阿頭兜【ＺＰ】
-12160,Piercing Light Helm,光頭部防具耳飾
-12161,Piercing Light F Helm,光頭部防具耳飾【Ｆ】
-12162,Piercing Light FZ Helm,光頭部防具耳飾【ＦＺ】
-12163,Piercing Light HS Helm,光頭部防具耳飾【ＨＳ】
-12164,Piercing Light GS Helm,光頭部防具耳飾【ＧＳ】
-12165,Piercing Light GP Helm,光頭部防具耳飾【ＧＰ】
-12166,Piercing Light ZP Helm,光頭部防具耳飾【ＺＰ】
+12160,Piercing Light Helm,光耳飾
+12161,Piercing Light F Helm,光耳飾【Ｆ】
+12162,Piercing Light FZ Helm,光耳飾【ＦＺ】
+12163,Piercing Light HS Helm,光耳飾【ＨＳ】
+12164,Piercing Light GS Helm,光耳飾【ＧＳ】
+12165,Piercing Light GP Helm,光耳飾【ＧＰ】
+12166,Piercing Light ZP Helm,光耳飾【ＺＰ】
 12167,Colour Axe Helm,克歐爾歐頭兜
 12168,Colour Axe F Helm,克歐爾歐頭兜【Ｆ】
 12169,Colour Axe FZ Helm,克歐爾歐頭兜【ＦＺ】
@@ -12187,13 +12187,13 @@ index,source,target
 12185,Crush Gun GS Cap,克烏夏烏兜帽【ＧＳ】
 12186,Crush Gun GP Cap,克烏夏烏兜帽【ＧＰ】
 12187,Crush Gun ZP Cap,克烏夏烏兜帽【ＺＰ】
-12188,Bow Saint Cap,布歐沃阿兜帽
-12189,Bow Saint F Cap,布歐沃阿兜帽【Ｆ】
-12190,Bow Saint FZ Cap,布歐沃阿兜帽【ＦＺ】
-12191,Bow Saint HS Cap,布歐沃阿兜帽【ＨＳ】
-12192,Bow Saint GS Cap,布歐沃阿兜帽【ＧＳ】
-12193,Bow Saint GP Cap,布歐沃阿兜帽【ＧＰ】
-12194,Bow Saint ZP Cap,布歐沃阿兜帽【ＺＰ】
+12188,Bow Saint Cap,斯阿恩兜帽
+12189,Bow Saint F Cap,斯阿恩兜帽【Ｆ】
+12190,Bow Saint FZ Cap,斯阿恩兜帽【ＦＺ】
+12191,Bow Saint HS Cap,斯阿恩兜帽【ＨＳ】
+12192,Bow Saint GS Cap,斯阿恩兜帽【ＧＳ】
+12193,Bow Saint GP Cap,斯阿恩兜帽【ＧＰ】
+12194,Bow Saint ZP Cap,斯阿恩兜帽【ＺＰ】
 12195,Rantana Helm,蘭塔納頭兜
 12196,Rantana F Helm,蘭塔納頭兜【Ｆ】
 12197,Rantana FZ Helm,蘭塔納頭兜【ＦＺ】
@@ -12496,14 +12496,14 @@ index,source,target
 12494,Scholar C Hood,施歐爾阿兜帽
 12495,Aelucanth C Vertex,阿爾烏克頭頂
 12496,Rhopessa C Vertex,爾歐普艾頭頂
-12497,Yukumo Kasa C・Heaven,伊烏克烏笠・天
+12497,Yukumo Kasa C・Heaven,伊烏克烏天笠
 12498,Michelia Alba・ Kensei D Helm,姆伊奇艾頭兜
 12499,Michelia Alba・双龍D Helm,双龍頭兜
 12500,White 蘭・剣王D Helm,蘭剣王頭兜・白
 12501,White 蘭・刀神D Helm,蘭刀神頭兜・白
 12502,White 蘭・鈍器獣D Helm,蘭鈍器獣頭兜・白
 12503,White 蘭・奏帝D Helm,蘭奏帝頭兜・白
-12504,White 蘭・Heaven 槍D Helm,蘭槍頭兜・白・天
+12504,White 蘭・Heaven 槍D Helm,蘭槍天頭兜・白
 12505,White 蘭・砲皇D Helm,蘭砲皇頭兜・白
 12506,White 蘭・銃傑D Mask,蘭銃傑帽子・白
 12507,White 蘭・銃仙D Mask,蘭銃仙帽子・白
@@ -12516,7 +12516,7 @@ index,source,target
 12514,Crimson 霞・刀神D Helm,霞刀神頭兜・紅
 12515,Crimson 霞・鈍器獣D Helm,霞鈍器獣頭兜・紅
 12516,Crimson 霞・奏帝D Helm,霞奏帝頭兜・紅
-12517,Crimson 霞・Heaven 槍D Helm,霞槍頭兜・紅・天
+12517,Crimson 霞・Heaven 槍D Helm,霞槍天頭兜・紅
 12518,Crimson 霞・砲皇D Helm,霞砲皇頭兜・紅
 12519,Crimson 霞・銃傑D Mask,霞銃傑帽子・紅
 12520,Crimson 霞・銃仙D Mask,霞銃仙帽子・紅
@@ -12537,19 +12537,19 @@ index,source,target
 12535,Vulcan D Face,火山面罩
 12536,Vulcan GD Head,火山頭兜
 12537,Vulcan GD Face,火山面罩
-12538,Garnet D Helm,格阿爾艾頭兜
-12539,Amethyst D Helm,阿姆艾斯頭兜
-12540,Coral D Helm,克歐爾阿頭兜
-12541,Quartz D Helm,斯烏爾頭兜
-12542,Emerald D Helm,艾姆艾爾頭兜
-12543,Pearl D Helm,普艾爾頭兜
-12544,Ruby D Helm,爾烏布頭兜
-12545,Sapphire D Helm,斯阿普伊頭兜
-12546,Topaz D Cap,特歐普阿兜帽
-12547,Tourmaline D Cap,特歐爾阿兜帽
-12548,Lapis D Cap,爾阿普伊兜帽
-12549,Hisui D Helm,赫伊斯烏頭兜
-12550,Onyx D Helm,歐恩頭兜
+12538,Garnet D Helm,石榴石頭兜
+12539,Amethyst D Helm,紫水晶頭兜
+12540,Coral D Helm,珊瑚頭兜
+12541,Quartz D Helm,石英頭兜
+12542,Emerald D Helm,祖母緑頭兜
+12543,Pearl D Helm,珍珠頭兜
+12544,Ruby D Helm,紅寶石頭兜
+12545,Sapphire D Helm,藍寶石頭兜
+12546,Topaz D Cap,黄玉兜帽
+12547,Tourmaline D Cap,電氣石兜帽
+12548,Lapis D Cap,青金石兜帽
+12549,Hisui D Helm,翡翠頭兜
+12550,Onyx D Helm,縞瑪瑙頭兜
 12551,ブルファンD Mask,布魯芙恩帽子
 12552,Garuga D Mask,黑狼鳥帽子
 12553,Veloci Mask D,藍速龍帽子
@@ -12576,10 +12576,10 @@ index,source,target
 12574,Healer Glasses PD Blue,治癒眼鏡【ＰＤ】・青
 12575,Healer Glasses PD White,治癒眼鏡【ＰＤ】・白
 12576,Healer Glasses PD Yellow,治癒眼鏡【ＰＤ】・黄
-12577,Shourou【Heaven 頭】D,照楼上手・天
-12578,Mitama【Heaven 頭】D,御魂上手・天
+12577,Shourou【Heaven 頭】D,照楼天上手
+12578,Mitama【Heaven 頭】D,御魂天上手
 12579,Burning Cliff D Kabuto,布烏爾伊兜
-12580,Crimson Cliff D Kabuto,克伊芙兜・紅
+12580,Crimson Cliff D Kabuto,深紅崖兜
 12581,Ledia D Head,爾艾德伊頭兜
 12582,White Snake Headguard D,白蛇護額
 12583,Black Tiger Headguard D,黑虎護額
@@ -12588,7 +12588,7 @@ index,source,target
 12586,Blue Sky Headguard D,蒼天護額
 12587,Noon Glow Headguard D,恩歐恩歐護額
 12588,Kosho D Hachigane,克歐夏歐鉢金
-12589,True Shadow Headguard D,特烏斯阿護額
+12589,True Shadow Headguard D,真影護額
 12590,Felyne D Mask,艾路猫帽子
 12591,Furogada D Head,芙烏爾歐頭兜
 12592,Lars D Head,爾阿爾頭兜
@@ -12620,10 +12620,10 @@ index,source,target
 12618,Tempest G [Crown】,暴風雨冠【Ｇ】
 12619,Tempest GF [Crown】,暴風雨冠【ＧＦ】
 12620,Tempest GX [Crown】,暴風雨冠【ＧＸ】
-12621,Welkin [Crown】,蒼穹冠
-12622,Welkin G [Crown】,蒼穹冠【Ｇ】
-12623,Welkin GF [Crown】,蒼穹冠【ＧＦ】
-12624,Welkin GX [Crown】,蒼穹冠【ＧＸ】
+12621,Welkin [Crown】,穹蒼冠
+12622,Welkin G [Crown】,穹蒼冠【Ｇ】
+12623,Welkin GF [Crown】,穹蒼冠【ＧＦ】
+12624,Welkin GX [Crown】,穹蒼冠【ＧＸ】
 12625,Levin Helm,雷霆頭兜
 12626,Levin F Helm,雷霆頭兜【Ｆ】
 12627,Levin FZ Helm,雷霆頭兜【ＦＺ】
@@ -12638,20 +12638,20 @@ index,source,target
 12636,Levin GS Cap,雷霆兜帽【ＧＳ】
 12637,Levin GP Cap,雷霆兜帽【ＧＰ】
 12638,Levin ZP Cap,雷霆兜帽【ＺＰ】
-12639,Silver Armour・Helm,甲冑頭兜・銀
-12640,Silver Armour F・Helm,甲冑頭兜【Ｆ】・銀
-12641,Silver Armour FZ・Helm,甲冑頭兜【ＦＺ】・銀
-12642,Silver Armour HS・Helm,甲冑頭兜【ＨＳ】・銀
-12643,Silver Armour GS・Helm,甲冑頭兜【ＧＳ】・銀
-12644,Silver Armour GP・Helm,甲冑頭兜【ＧＰ】・銀
-12645,Silver Armour ZP・Helm,甲冑頭兜【ＺＰ】・銀
-12646,Silver Armour・Headguard,甲冑護額・銀
-12647,Silver Armour F・Headguard,甲冑護額【Ｆ】・銀
-12648,Silver Armour FZ・Headguard,甲冑護額【ＦＺ】・銀
-12649,Silver Armour HS・Headguard,甲冑護額【ＨＳ】・銀
-12650,Silver Armour GS・Headguard,甲冑護額【ＧＳ】・銀
-12651,Silver Armour GP・Headguard,甲冑護額【ＧＰ】・銀
-12652,Silver Armour ZP・Headguard,甲冑護額【ＺＰ】・銀
+12639,Silver Armour・Helm,銀甲冑頭兜
+12640,Silver Armour F・Helm,銀甲冑頭兜【Ｆ】
+12641,Silver Armour FZ・Helm,銀甲冑頭兜【ＦＺ】
+12642,Silver Armour HS・Helm,銀甲冑頭兜【ＨＳ】
+12643,Silver Armour GS・Helm,銀甲冑頭兜【ＧＳ】
+12644,Silver Armour GP・Helm,銀甲冑頭兜【ＧＰ】
+12645,Silver Armour ZP・Helm,銀甲冑頭兜【ＺＰ】
+12646,Silver Armour・Headguard,銀甲冑護額
+12647,Silver Armour F・Headguard,銀甲冑護額【Ｆ】
+12648,Silver Armour FZ・Headguard,銀甲冑護額【ＦＺ】
+12649,Silver Armour HS・Headguard,銀甲冑護額【ＨＳ】
+12650,Silver Armour GS・Headguard,銀甲冑護額【ＧＳ】
+12651,Silver Armour GP・Headguard,銀甲冑護額【ＧＰ】
+12652,Silver Armour ZP・Headguard,銀甲冑護額【ＺＰ】
 12653,Rose Ball Gown・Hairtie,薔薇禮服髮結
 12654,Rose Ball Gown F・Hairtie,薔薇禮服髮結【Ｆ】
 12655,Rose Ball Gown FZ・Hairtie,薔薇禮服髮結【ＦＺ】
@@ -12747,7 +12747,7 @@ index,source,target
 12745,Tempest C [Crown】,特艾姆艾冠
 12746,Welkin C [Crown】,沃艾爾伊冠
 12747,Levin D Helm,爾艾芙伊頭兜
-12748,Silver Armour D・Helm,阿爾歐爾頭兜・銀
+12748,Silver Armour D・Helm,銀甲冑頭兜
 12749,Rose Ball Gown D・Hairtie,爾歐斯艾髮結
 12750,Shui D Helm,夏烏斯頭兜
 12751,CE Kevlar D BM Head Blue,克艾斯艾頭兜・青
@@ -12916,34 +12916,34 @@ index,source,target
 12914,Twelve Paladins' Armor ZP・BM White,十二聖騎鎧ＢＭ頭兜【ＺＰ】・白
 12915,Twelve Paladins' Armor ZP・BM Brown,特艾爾艾頭兜【ＺＰ】
 12916,Twelve Paladins' Armor ZP・BM Black,十二聖騎鎧ＢＭ頭兜【ＺＰ】・黑
-12917,Twelve Paladins' Armor・Bow Yellow,十二聖騎鎧弓頭兜・黄
-12918,Twelve Paladins' Armor・Bow White,十二聖騎鎧弓頭兜・白
-12919,Twelve Paladins' Armor・Bow Brown,特艾爾艾頭兜
-12920,Twelve Paladins' Armor・Bow Black,十二聖騎鎧弓頭兜・黑
-12921,Twelve Paladins' Armor F・Bow Yellow,十二聖騎鎧弓頭兜【Ｆ】・黄
-12922,Twelve Paladins' Armor F・Bow White,十二聖騎鎧弓頭兜【Ｆ】・白
-12923,Twelve Paladins' Armor F・Bow Brown,特艾爾艾頭兜【Ｆ】
-12924,Twelve Paladins' Armor F・Bow Black,十二聖騎鎧弓頭兜【Ｆ】・黑
-12925,Twelve Paladins' Armor FZ・Bow Yellow,十二聖騎鎧弓頭兜【ＦＺ】・黄
-12926,Twelve Paladins' Armor FZ・Bow White,十二聖騎鎧弓頭兜【ＦＺ】・白
-12927,Twelve Paladins' Armor FZ・Bow Brown,特艾爾艾頭兜【ＦＺ】
-12928,Twelve Paladins' Armor FZ・Bow Black,十二聖騎鎧弓頭兜【ＦＺ】・黑
-12929,Twelve Paladins' Armor HS・Bow Yellow,十二聖騎鎧弓頭兜【ＨＳ】・黄
-12930,Twelve Paladins' Armor HS・Bow White,十二聖騎鎧弓頭兜【ＨＳ】・白
-12931,Twelve Paladins' Armor HS・Bow Brown,特艾爾艾頭兜【ＨＳ】
-12932,Twelve Paladins' Armor HS・Bow Black,十二聖騎鎧弓頭兜【ＨＳ】・黑
-12933,Twelve Paladins' Armor GS・Bow Yellow,十二聖騎鎧弓頭兜【ＧＳ】・黄
-12934,Twelve Paladins' Armor GS・Bow White,十二聖騎鎧弓頭兜【ＧＳ】・白
-12935,Twelve Paladins' Armor GS・Bow Brown,特艾爾艾頭兜【ＧＳ】
-12936,Twelve Paladins' Armor GS・Bow Black,十二聖騎鎧弓頭兜【ＧＳ】・黑
-12937,Twelve Paladins' Armor GP・Bow Yellow,十二聖騎鎧弓頭兜【ＧＰ】・黄
-12938,Twelve Paladins' Armor GP・Bow White,十二聖騎鎧弓頭兜【ＧＰ】・白
-12939,Twelve Paladins' Armor GP・Bow Brown,特艾爾艾頭兜【ＧＰ】
-12940,Twelve Paladins' Armor GP・Bow Black,十二聖騎鎧弓頭兜【ＧＰ】・黑
-12941,Twelve Paladins' Armor ZP・Bow Yellow,十二聖騎鎧弓頭兜【ＺＰ】・黄
-12942,Twelve Paladins' Armor ZP・Bow White,十二聖騎鎧弓頭兜【ＺＰ】・白
-12943,Twelve Paladins' Armor ZP・Bow Brown,特艾爾艾頭兜【ＺＰ】
-12944,Twelve Paladins' Armor ZP・Bow Black,十二聖騎鎧弓頭兜【ＺＰ】・黑
+12917,Twelve Paladins' Armor・Bow Yellow,十二聖騎鎧頭兜・黄
+12918,Twelve Paladins' Armor・Bow White,十二聖騎鎧頭兜・白
+12919,Twelve Paladins' Armor・Bow Brown,防具頭兜
+12920,Twelve Paladins' Armor・Bow Black,十二聖騎鎧頭兜・黑
+12921,Twelve Paladins' Armor F・Bow Yellow,十二聖騎鎧頭兜【Ｆ】・黄
+12922,Twelve Paladins' Armor F・Bow White,十二聖騎鎧頭兜【Ｆ】・白
+12923,Twelve Paladins' Armor F・Bow Brown,防具頭兜【Ｆ】
+12924,Twelve Paladins' Armor F・Bow Black,十二聖騎鎧頭兜【Ｆ】・黑
+12925,Twelve Paladins' Armor FZ・Bow Yellow,十二聖騎鎧頭兜【ＦＺ】・黄
+12926,Twelve Paladins' Armor FZ・Bow White,十二聖騎鎧頭兜【ＦＺ】・白
+12927,Twelve Paladins' Armor FZ・Bow Brown,防具頭兜【ＦＺ】
+12928,Twelve Paladins' Armor FZ・Bow Black,十二聖騎鎧頭兜【ＦＺ】・黑
+12929,Twelve Paladins' Armor HS・Bow Yellow,十二聖騎鎧頭兜【ＨＳ】・黄
+12930,Twelve Paladins' Armor HS・Bow White,十二聖騎鎧頭兜【ＨＳ】・白
+12931,Twelve Paladins' Armor HS・Bow Brown,防具頭兜【ＨＳ】
+12932,Twelve Paladins' Armor HS・Bow Black,十二聖騎鎧頭兜【ＨＳ】・黑
+12933,Twelve Paladins' Armor GS・Bow Yellow,十二聖騎鎧頭兜【ＧＳ】・黄
+12934,Twelve Paladins' Armor GS・Bow White,十二聖騎鎧頭兜【ＧＳ】・白
+12935,Twelve Paladins' Armor GS・Bow Brown,防具頭兜【ＧＳ】
+12936,Twelve Paladins' Armor GS・Bow Black,十二聖騎鎧頭兜【ＧＳ】・黑
+12937,Twelve Paladins' Armor GP・Bow Yellow,十二聖騎鎧頭兜【ＧＰ】・黄
+12938,Twelve Paladins' Armor GP・Bow White,十二聖騎鎧頭兜【ＧＰ】・白
+12939,Twelve Paladins' Armor GP・Bow Brown,防具頭兜【ＧＰ】
+12940,Twelve Paladins' Armor GP・Bow Black,十二聖騎鎧頭兜【ＧＰ】・黑
+12941,Twelve Paladins' Armor ZP・Bow Yellow,十二聖騎鎧頭兜【ＺＰ】・黄
+12942,Twelve Paladins' Armor ZP・Bow White,十二聖騎鎧頭兜【ＺＰ】・白
+12943,Twelve Paladins' Armor ZP・Bow Brown,防具頭兜【ＺＰ】
+12944,Twelve Paladins' Armor ZP・Bow Black,十二聖騎鎧頭兜【ＺＰ】・黑
 12945,Holy Maiden Armor・Hairtie,聖女鎧髮結
 12946,Holy Maiden Armor F・Hairtie,聖女鎧髮結【Ｆ】
 12947,Holy Maiden Armor FZ・Hairtie,聖女鎧髮結【ＦＺ】
@@ -12958,34 +12958,34 @@ index,source,target
 12956,Holy Maiden Armor GS・Knot,聖女鎧結【ＧＳ】
 12957,Holy Maiden Armor GP・Knot,聖女鎧結【ＧＰ】
 12958,Holy Maiden Armor ZP・Knot,聖女鎧結【ＺＰ】
-12959,Dragon Slayer Armor・Blade,龍頭兜
-12960,Dragon Slayer Armor F・Blade,龍頭兜【Ｆ】
-12961,Dragon Slayer Armor FZ・Blade,龍頭兜【ＦＺ】
-12962,Dragon Slayer Armor HS・Blade,龍頭兜【ＨＳ】
-12963,Dragon Slayer Armor GS・Blade,龍頭兜【ＧＳ】
-12964,Dragon Slayer Armor GP・Blade,龍頭兜【ＧＰ】
-12965,Dragon Slayer Armor ZP・Blade,龍頭兜【ＺＰ】
-12966,Dragon Slayer Armor・Bow,龍頭兜
-12967,Dragon Slayer Armor F・Bow,龍頭兜【Ｆ】
-12968,Dragon Slayer Armor FZ・Bow,龍頭兜【ＦＺ】
-12969,Dragon Slayer Armor HS・Bow,龍頭兜【ＨＳ】
-12970,Dragon Slayer Armor GS・Bow,龍頭兜【ＧＳ】
-12971,Dragon Slayer Armor GP・Bow,龍頭兜【ＧＰ】
-12972,Dragon Slayer Armor ZP・Bow,龍頭兜【ＺＰ】
-12973,Helm of Hidden Infidelity・Blade,歐芙伊德頭兜
-12974,Helm of Hidden Infidelity F・Blade,歐芙伊德頭兜【Ｆ】
-12975,Helm of Hidden Infidelity FZ・Blade,歐芙伊德頭兜【ＦＺ】
-12976,Helm of Hidden Infidelity HS・Blade,歐芙伊德頭兜【ＨＳ】
-12977,Helm of Hidden Infidelity GS・Blade,歐芙伊德頭兜【ＧＳ】
-12978,Helm of Hidden Infidelity GP・Blade,歐芙伊德頭兜【ＧＰ】
-12979,Helm of Hidden Infidelity ZP・Blade,歐芙伊德頭兜【ＺＰ】
-12980,Helm of Hidden Infidelity・Bow,歐芙伊德頭兜
-12981,Helm of Hidden Infidelity F・Bow,歐芙伊德頭兜【Ｆ】
-12982,Helm of Hidden Infidelity FZ・Bow,歐芙伊德頭兜【ＦＺ】
-12983,Helm of Hidden Infidelity HS・Bow,歐芙伊德頭兜【ＨＳ】
-12984,Helm of Hidden Infidelity GS・Bow,歐芙伊德頭兜【ＧＳ】
-12985,Helm of Hidden Infidelity GP・Bow,歐芙伊德頭兜【ＧＰ】
-12986,Helm of Hidden Infidelity ZP・Bow,歐芙伊德頭兜【ＺＰ】
+12959,Dragon Slayer Armor・Blade,屠龍頭兜
+12960,Dragon Slayer Armor F・Blade,屠龍頭兜【Ｆ】
+12961,Dragon Slayer Armor FZ・Blade,屠龍頭兜【ＦＺ】
+12962,Dragon Slayer Armor HS・Blade,屠龍頭兜【ＨＳ】
+12963,Dragon Slayer Armor GS・Blade,屠龍頭兜【ＧＳ】
+12964,Dragon Slayer Armor GP・Blade,屠龍頭兜【ＧＰ】
+12965,Dragon Slayer Armor ZP・Blade,屠龍頭兜【ＺＰ】
+12966,Dragon Slayer Armor・Bow,屠龍頭兜
+12967,Dragon Slayer Armor F・Bow,屠龍頭兜【Ｆ】
+12968,Dragon Slayer Armor FZ・Bow,屠龍頭兜【ＦＺ】
+12969,Dragon Slayer Armor HS・Bow,屠龍頭兜【ＨＳ】
+12970,Dragon Slayer Armor GS・Bow,屠龍頭兜【ＧＳ】
+12971,Dragon Slayer Armor GP・Bow,屠龍頭兜【ＧＰ】
+12972,Dragon Slayer Armor ZP・Bow,屠龍頭兜【ＺＰ】
+12973,Helm of Hidden Infidelity・Blade,隱匿不忠頭兜
+12974,Helm of Hidden Infidelity F・Blade,隱匿不忠頭兜【Ｆ】
+12975,Helm of Hidden Infidelity FZ・Blade,隱匿不忠頭兜【ＦＺ】
+12976,Helm of Hidden Infidelity HS・Blade,隱匿不忠頭兜【ＨＳ】
+12977,Helm of Hidden Infidelity GS・Blade,隱匿不忠頭兜【ＧＳ】
+12978,Helm of Hidden Infidelity GP・Blade,隱匿不忠頭兜【ＧＰ】
+12979,Helm of Hidden Infidelity ZP・Blade,隱匿不忠頭兜【ＺＰ】
+12980,Helm of Hidden Infidelity・Bow,隱匿不忠頭兜
+12981,Helm of Hidden Infidelity F・Bow,隱匿不忠頭兜【Ｆ】
+12982,Helm of Hidden Infidelity FZ・Bow,隱匿不忠頭兜【ＦＺ】
+12983,Helm of Hidden Infidelity HS・Bow,隱匿不忠頭兜【ＨＳ】
+12984,Helm of Hidden Infidelity GS・Bow,隱匿不忠頭兜【ＧＳ】
+12985,Helm of Hidden Infidelity GP・Bow,隱匿不忠頭兜【ＧＰ】
+12986,Helm of Hidden Infidelity ZP・Bow,隱匿不忠頭兜【ＺＰ】
 12987,Dinato ZP Head,迪納托頭兜【ＺＰ】
 12988,Dinato ZP Cap,迪納托兜帽【ＺＰ】
 12989,Duque ZP Head,公爵頭兜【ＺＰ】
@@ -13016,7 +13016,7 @@ index,source,target
 13014,Twelve Paladins' Armor D・Brown,特艾爾艾頭兜
 13015,Twelve Paladins' Armor D・Black,特艾爾艾頭兜・黑
 13016,Holy Maiden Armor D・Hairtie,赫歐爾阿髮結
-13017,Dragon Slayer Armor D,龍頭兜
+13017,Dragon Slayer Armor D,屠龍頭兜
 13018,Helm of Hidden Infidelity D,歐芙伊德頭兜
 13019,Dinato D Head,德伊恩阿頭兜
 13020,Duque D Head,德烏斯烏頭兜
@@ -13044,18 +13044,18 @@ index,source,target
 13042,Blango Helm PD Yellow,雪獅子頭兜【ＰＤ】・黄
 13043,Blango Helm PD Blue,雪獅子頭兜【ＰＤ】・青
 13044,Blango Helm PD Black,雪獅子頭兜【ＰＤ】・黑
-13045,Golden Headdress PD White,格歐爾艾頭兜【ＰＤ】・白
-13046,Golden Headdress PD Purple,格歐爾艾頭兜【ＰＤ】・紫
-13047,Golden Headdress PD Green,格歐爾艾頭兜【ＰＤ】・緑
+13045,Golden Headdress PD White,金頭飾頭兜【ＰＤ】・白
+13046,Golden Headdress PD Purple,金頭飾頭兜【ＰＤ】・紫
+13047,Golden Headdress PD Green,金頭飾頭兜【ＰＤ】・緑
 13048,Gravios Cap PD Green,鎧龍兜帽【ＰＤ】・緑
 13049,Gravios Cap PD Purple,鎧龍兜帽【ＰＤ】・紫
 13050,Gravios Cap PD Red,鎧龍兜帽【ＰＤ】・赤
 13051,High Metal Helm PD Black,上位金屬頭兜【ＰＤ】・黑
 13052,High Metal Helm PD Blue,上位金屬頭兜【ＰＤ】・青
 13053,High Metal Helm PD Yellow,上位金屬頭兜【ＰＤ】・黄
-13054,S・Sol Helm PD Red,日頭兜【Ｓ】【ＰＤ】・赤
-13055,S・Sol Helm PD Purple,日頭兜【Ｓ】【ＰＤ】・紫
-13056,S・Sol Helm PD Black,日頭兜【Ｓ】【ＰＤ】・黑
+13054,S・Sol Helm PD Red,S索倫頭兜【ＰＤ】・赤
+13055,S・Sol Helm PD Purple,S索倫頭兜【ＰＤ】・紫
+13056,S・Sol Helm PD Black,S索倫頭兜【ＰＤ】・黑
 13057,Garuga Cap PD White,黑狼鳥兜帽【ＰＤ】・白
 13058,Garuga Cap PD Green,黑狼鳥兜帽【ＰＤ】・緑
 13059,Garuga Cap PD Red,黑狼鳥兜帽【ＰＤ】・赤
@@ -13294,7 +13294,7 @@ index,source,target
 13292,Byakko・双龍D Helm,双龍頭兜
 13293,Byakko・剣王D Helm,剣王頭兜
 13294,Byakko・刀神D Helm,刀神頭兜
-13295,Byakko・Heaven 槍D Helm,槍頭兜・天
+13295,Byakko・Heaven 槍D Helm,槍天頭兜
 13296,Byakko・砲皇D Helm,砲皇頭兜
 13297,Byakko・鈍器獣D Helm,鈍器獣頭兜
 13298,Byakko・奏帝D Helm,奏帝頭兜
@@ -13302,7 +13302,7 @@ index,source,target
 13300,Byakko・斬将D Helm,斬将頭兜
 13301,Byakko・銃傑D Mask,銃傑帽子
 13302,Byakko・銃仙D Mask,銃仙帽子
-13303,Byakko・Bow 鬼D Mask,鬼帽子
+13303,Byakko・Bow 鬼D Mask,白虎帽子
 13304,Kirin Horn PD Red,麒麟角【ＰＤ】・赤
 13305,Kirin Horn PD Purple,麒麟角【ＰＤ】・紫
 13306,Kirin Horn PD Black,麒麟角【ＰＤ】・黑
@@ -13339,7 +13339,7 @@ index,source,target
 13337,Suzaku・双龍D Helm,双龍頭兜
 13338,Suzaku・剣王D Helm,剣王頭兜
 13339,Suzaku・刀神D Helm,刀神頭兜
-13340,Suzaku・Heaven 槍D Helm,槍頭兜・天
+13340,Suzaku・Heaven 槍D Helm,槍天頭兜
 13341,Suzaku・砲皇D Helm,砲皇頭兜
 13342,Suzaku・鈍器獣D Helm,鈍器獣頭兜
 13343,Suzaku・奏帝D Helm,奏帝頭兜
@@ -13347,10 +13347,10 @@ index,source,target
 13345,Suzaku・斬将D Helm,斬将頭兜
 13346,Suzaku・銃傑D Mask,銃傑帽子
 13347,Suzaku・銃仙D Mask,銃仙帽子
-13348,Suzaku・Bow 鬼D Mask,鬼帽子
-13349,G・Knight Mask PD Red,騎士帽子【Ｇ】【ＰＤ】・赤
-13350,G・Knight Mask PD Blue,騎士帽子【Ｇ】【ＰＤ】・青
-13351,G・Knight Mask PD Purple,騎士帽子【Ｇ】【ＰＤ】・紫
+13348,Suzaku・Bow 鬼D Mask,朱雀帽子
+13349,G・Knight Mask PD Red,騎士帽子【ＰＤ】・赤
+13350,G・Knight Mask PD Blue,騎士帽子【ＰＤ】・青
+13351,G・Knight Mask PD Purple,騎士帽子【ＰＤ】・紫
 13352,PV Glasses PD Red,普眼鏡【ＰＤ】・赤
 13353,PV Glasses PD Blue,普眼鏡【ＰＤ】・青
 13354,PV Glasses PD Purple,普眼鏡【ＰＤ】・紫
@@ -13375,9 +13375,9 @@ index,source,target
 13373,Akantor Mask PD Black,霸龍帽子【ＰＤ】・黑
 13374,Akantor Mask PD Red,霸龍帽子【ＰＤ】・赤
 13375,Akantor Mask PD White,霸龍帽子【ＰＤ】・白
-13376,Akantor リクン PD Black,霸龍頭兜【ＰＤ】
-13377,Akantor リクン PD Red,霸龍頭兜【ＰＤ】
-13378,Akantor リクン PD White,霸龍頭兜【ＰＤ】
+13376,Akantor リクン PD Black,霸龍頭兜【ＰＤ】・黑
+13377,Akantor リクン PD Red,霸龍頭兜【ＰＤ】・赤
+13378,Akantor リクン PD White,霸龍頭兜【ＰＤ】・白
 13379,Gravios Helm PD Black,鎧龍頭兜【ＰＤ】・黑
 13380,Gravios Helm PD Blue,鎧龍頭兜【ＰＤ】・青
 13381,Gravios Helm PD Red,鎧龍頭兜【ＰＤ】・赤
@@ -13386,13 +13386,13 @@ index,source,target
 13384,Melynx D Festa,梅拉路祭
 13385,Poogie D Festa,普歐格伊祭
 13386,Espi D Festa,艾斯伊斯祭
-13387,B.Espi D Festa,德祭
+13387,B.Espi D Festa,黑棘龍祭
 13388,W.Espi D Festa,棘白龍祭
 13389,Kamu D Festa,克阿姆烏祭
 13390,Nono D Festa,恩歐恩歐祭
 13391,Gogomoa D Festa,跳緋獸祭
 13392,Elzelion D Festa,灼零龍祭
-13393,Extreme Elzelion D Festa,艾克斯艾祭
+13393,Extreme Elzelion D Festa,灼零龍祭
 13394,Duremudira D Festa,皇冰龍祭
 13395,Goocoo D Festa,格歐克歐祭
 13396,Sharuru D Helm,夏阿爾烏頭兜
@@ -13770,7 +13770,7 @@ index,source,target
 13768,Genbu・双龍D Helm,双龍頭兜
 13769,Genbu・剣王D Helm,剣王頭兜
 13770,Genbu・刀神D Helm,刀神頭兜
-13771,Genbu・Heaven 槍D Helm,槍頭兜・天
+13771,Genbu・Heaven 槍D Helm,槍天頭兜
 13772,Genbu・砲皇D Helm,砲皇頭兜
 13773,Genbu・鈍器獣D Helm,鈍器獣頭兜
 13774,Genbu・奏帝D Helm,奏帝頭兜
@@ -13778,7 +13778,7 @@ index,source,target
 13776,Genbu・斬将D Helm,斬将頭兜
 13777,Genbu・銃傑D Mask,銃傑帽子
 13778,Genbu・銃仙D Mask,銃仙帽子
-13779,Genbu・Bow 鬼D Mask,鬼帽子
+13779,Genbu・Bow 鬼D Mask,玄武帽子
 13780,Tanzanite D Helm,特阿恩阿頭兜
 13781,Hematite D Helm,赫艾姆阿頭兜
 13782,Byakko・磁星D Helm,磁星頭兜
@@ -13821,8 +13821,8 @@ index,source,target
 13819,Pariapuria D Festa,呑龍祭
 13820,Hypnoc D Festa,眠鳥祭
 13821,山菜爺D Festa,山菜爺祭
-13822,Box Blue D Festa,德祭
-13823,Box Red D Festa,德祭
+13822,Box Blue D Festa,青箱祭
+13823,Box Red D Festa,赤箱祭
 13824,Dusk D Head・Red,德烏斯頭兜・赤
 13825,Dusk D Head・White,德烏斯頭兜・白
 13826,Dusk D Head・Peach,德烏斯頭兜・桃
@@ -13859,10 +13859,10 @@ index,source,target
 13857,Gelt D Helm・Copper,格艾爾頭兜・銅
 13858,Gelt D Helm・Silver,格艾爾頭兜・銀
 13859,Gelt D Helm・Gold,格艾爾頭兜・金
-13860,Gloria D Helm・Gold,格歐爾伊頭兜・金
-13861,Gloria D Helm・Blue,格歐爾伊頭兜・青
-13862,Gloria D Helm・Water,格歐爾伊頭兜
-13863,Gloria D Helm・Red,格歐爾伊頭兜・赤
+13860,Gloria D Helm・Gold,榮光頭兜・金
+13861,Gloria D Helm・Blue,榮光頭兜・青
+13862,Gloria D Helm・Water,榮光頭兜・水
+13863,Gloria D Helm・Red,榮光頭兜・赤
 13864,Cloth D Head・Red,克歐斯頭兜・赤
 13865,Cloth D Head・Blue,克歐斯頭兜・青
 13866,Cloth D Head・Purple,克歐斯頭兜・紫
@@ -13927,14 +13927,14 @@ index,source,target
 13925,Honour D Helm・Blue,赫歐恩歐頭兜・青
 13926,Honour D Helm・Green,赫歐恩歐頭兜・緑
 13927,Honour D Helm・紺,紺頭兜
-13928,Pics D Head・Green,普伊克頭兜・緑
-13929,Pics D Head・Purple,普伊克頭兜・紫
-13930,Pics D Head・Black,普伊克頭兜・黑
-13931,Pics D Head・Water,普伊克阿頭兜
-13932,Magos D Head・Yellow,姆阿格歐頭兜・黄
-13933,Magos D Head・Red,姆阿格歐頭兜・赤
-13934,Magos D Head・Water,姆阿格歐頭兜
-13935,Magos D Head・Blue,姆阿格歐頭兜・青
+13928,Pics D Head・Green,皮克斯頭兜・緑
+13929,Pics D Head・Purple,皮克斯頭兜・紫
+13930,Pics D Head・Black,皮克斯頭兜・黑
+13931,Pics D Head・Water,皮克斯頭兜・水
+13932,Magos D Head・Yellow,瑪戈斯頭兜・黄
+13933,Magos D Head・Red,瑪戈斯頭兜・赤
+13934,Magos D Head・Water,瑪戈斯頭兜・水
+13935,Magos D Head・Blue,瑪戈斯頭兜・青
 13936,Arge D Head,阿爾艾斯頭兜
 13937,Camarera D Head,克阿姆阿頭兜
 13938,Metenera D Head,姆艾特艾頭兜
@@ -13944,10 +13944,10 @@ index,source,target
 13942,Zodic D Helm・Tea,茲歐德伊頭兜・茶
 13943,Zodic D Helm・Green,茲歐德伊頭兜・緑
 13944,Zodic D Helm・Pink,茲歐德伊頭兜・桃
-13945,Cayssis D Helm Water,克阿伊伊頭兜
-13946,Cayssis D Helm Red,克阿伊伊頭兜・赤
-13947,Cayssis D Helm Blue,克阿伊伊頭兜・青
-13948,Cayssis D Helm Orange,克阿伊伊頭兜・橙
+13945,Cayssis D Helm Water,凱西斯頭兜・水
+13946,Cayssis D Helm Red,凱西斯頭兜・赤
+13947,Cayssis D Helm Blue,凱西斯頭兜・青
+13948,Cayssis D Helm Orange,凱西斯頭兜・橙
 13949,Omet D Helm・Black,歐姆艾特頭兜・黑
 13950,Omet D Helm・Red,歐姆艾特頭兜・赤
 13951,Omet D Helm・White,歐姆艾特頭兜・白
@@ -13964,10 +13964,10 @@ index,source,target
 13962,Suriito D Head・Silver,斯烏爾伊頭兜・銀
 13963,Suriito D Head・Red,斯烏爾伊頭兜・赤
 13964,Suriito D Head・Blue,斯烏爾伊頭兜・青
-13965,Galitos D Head・Tea,格阿爾伊頭兜・茶
-13966,Galitos D Head・Red,格阿爾伊頭兜・赤
-13967,Galitos D Head・Black,格阿爾伊頭兜・黑
-13968,Galitos D Head・Water,格阿爾伊頭兜
+13965,Galitos D Head・Tea,加里托斯頭兜・茶
+13966,Galitos D Head・Red,加里托斯頭兜・赤
+13967,Galitos D Head・Black,加里托斯頭兜・黑
+13968,Galitos D Head・Water,加里托斯頭兜・水
 13969,Text D Head・Purple,特艾克斯頭兜・紫
 13970,Text D Head・Green,特艾克斯頭兜・緑
 13971,Text D Head・Blue,特艾克斯頭兜・青
@@ -13976,24 +13976,24 @@ index,source,target
 13974,Pharan D Helm・Black,菲阿爾阿頭兜・黑
 13975,Pharan D Helm・Red,菲阿爾阿頭兜・赤
 13976,Pharan D Helm・Blue,菲阿爾阿頭兜・青
-13977,Gold D Helm・Red,德頭兜
-13978,Gold D Helm・Blue,德頭兜
-13979,Gold D Helm・Yellow,德頭兜
-13980,Gold D Helm・Purple,德頭兜
-13981,Claire D Head・Purple,克阿爾艾頭兜・紫
-13982,Claire D Head・Water,克阿爾艾頭兜
-13983,Claire D Head・Red,克阿爾艾頭兜・赤
-13984,Claire D Head・Black,克阿爾艾頭兜・黑
-13985,Gold Cat D Mask,克阿特帽子・金
-13986,Silver Cat D Mask,克阿特帽子・銀
+13977,Gold D Helm・Red,金頭兜・赤
+13978,Gold D Helm・Blue,金頭兜・青
+13979,Gold D Helm・Yellow,金頭兜・黄
+13980,Gold D Helm・Purple,金頭兜・紫
+13981,Claire D Head・Purple,克蕾爾頭兜・紫
+13982,Claire D Head・Water,克蕾爾頭兜・水
+13983,Claire D Head・Red,克蕾爾頭兜・赤
+13984,Claire D Head・Black,克蕾爾頭兜・黑
+13985,Gold Cat D Mask,金猫帽子
+13986,Silver Cat D Mask,銀猫帽子
 13987,Ex D Piercing・White,艾克斯耳飾・白
 13988,Ex D Piercing・Red,艾克斯耳飾・赤
 13989,Ex D Piercing・Blue,艾克斯耳飾・青
 13990,Ex D Piercing・Black,艾克斯耳飾・黑
-13991,Star Festival D Mask [Red】,斯阿爾艾帽子・赤
-13992,Star Festival D Mask [Blue】,斯阿爾艾帽子・青
-13993,Star Festival D Mask [Black】,斯阿爾艾帽子・黑
-13994,Star Festival D Mask [White】,斯阿爾艾帽子・白
+13991,Star Festival D Mask [Red】,星祭帽子・赤
+13992,Star Festival D Mask [Blue】,星祭帽子・青
+13993,Star Festival D Mask [Black】,星祭帽子・黑
+13994,Star Festival D Mask [White】,星祭帽子・白
 13995,Promise D Head・White,普歐姆伊頭兜・白
 13996,Promise D Head・Blue,普歐姆伊頭兜・青
 13997,Promise D Head・Purple,普歐姆伊頭兜・紫
@@ -14023,7 +14023,7 @@ index,source,target
 14021,Perifu D Helm・Tea,普艾爾伊頭兜・茶
 14022,Perifu D Helm・Green,普艾爾伊頭兜・緑
 14023,Perifu D Helm・Purple,普艾爾伊頭兜・紫
-14024,Khezu 亜D Festa,亜祭
+14024,Khezu 亜D Festa,奇怪龍祭
 14025,ヒプ繁D Festa,希普祭
 14026,ヒプ希D Festa,希普祭
 14027,Vakusu D Head,芙阿克烏頭兜
@@ -14283,7 +14283,7 @@ index,source,target
 14281,Secuti D Helm・Red,斯艾克烏頭兜・赤
 14282,Secuti D Helm・White,斯艾克烏頭兜・白
 14283,Rockman D Cap,爾歐克阿兜帽
-14284,Issen D Hachigane・Red,伊斯艾恩鉢金・赤
+14284,Issen D Hachigane・Red,一閃鉢金・赤
 14285,蜂針D Hachigane・Orange,蜂針鉢金・橙
 14286,Shanru Z Helm,夏阿恩烏頭兜【Ｚ】
 14287,Shanru ZF Helm,夏阿恩烏頭兜【ＺＦ】
@@ -14533,7 +14533,7 @@ index,source,target
 14531,Seiryu・双龍D Helm,双龍頭兜
 14532,Seiryu・剣王D Helm,剣王頭兜
 14533,Seiryu・刀神D Helm,刀神頭兜
-14534,Seiryu・Heaven 槍D Helm,槍頭兜・天
+14534,Seiryu・Heaven 槍D Helm,槍天頭兜
 14535,Seiryu・砲皇D Helm,砲皇頭兜
 14536,Seiryu・鈍器獣D Helm,鈍器獣頭兜
 14537,Seiryu・奏帝D Helm,奏帝頭兜
@@ -14541,7 +14541,7 @@ index,source,target
 14539,Seiryu・斬将D Helm,斬将頭兜
 14540,Seiryu・銃傑D Mask,銃傑帽子
 14541,Seiryu・銃仙D Mask,銃仙帽子
-14542,Seiryu・Bow 鬼D Mask,鬼帽子
+14542,Seiryu・Bow 鬼D Mask,青龍帽子
 14543,Seiryu・磁星D Helm,磁星頭兜
 14544,K.Lobster Helm PD Black,王龍蝦頭兜【ＰＤ】・黑
 14545,K.Lobster Helm PD Green,王龍蝦頭兜【ＰＤ】・緑
@@ -14570,12 +14570,12 @@ index,source,target
 14568,Ruko Face PD White,極龍面罩【ＰＤ】・白
 14569,Ruko Face PD Blue,極龍面罩【ＰＤ】・青
 14570,Ruko Face PD Red,極龍面罩【ＰＤ】・赤
-14571,Comrada Helm PD White Red,克歐姆阿頭兜【ＰＤ】・赤・白
-14572,Comrada Helm PD White Blue,克歐姆阿頭兜【ＰＤ】・青・白
-14573,Comrada Helm PD White Yellow,克歐姆阿頭兜【ＰＤ】・黄・白
+14571,Comrada Helm PD White Red,戰友頭兜【ＰＤ】・赤
+14572,Comrada Helm PD White Blue,戰友頭兜【ＰＤ】・青
+14573,Comrada Helm PD White Yellow,戰友頭兜【ＰＤ】・黄
 14574,Otono D Head,歐特歐恩頭兜
-14575,Shinobi Mask・Sky D,夏伊恩歐帽子
-14576,Shinobi Mask・Sea D,夏伊恩歐帽子
+14575,Shinobi Mask・Sky D,忍帽子
+14576,Shinobi Mask・Sea D,忍帽子
 14577,Shadow Mask・D,夏阿德歐帽子
 14578,Shade Mask・D,夏阿德艾帽子
 14579,Hope D Helm,赫歐普艾頭兜
