@@ -100,7 +100,7 @@
 | 4094 | ロットHC Belt | 羅托腰帶【ＨＣ】 |
 | 4095 | ロットHS Belt | 羅托腰帶【ＨＳ】 |
 | 4096 | ロットGS Belt | 羅托腰帶【ＧＳ】 |
-| 4097 | ロットバックル | 羅托巴庫魯腰甲 |
+| 4097 | ロットバックル | 蘿托巴克腰甲 |
 | 4098 | ロットFバックル | 羅托腰甲 |
 | 4099 | ロットFZバックル | 羅托腰甲 |
 | 4100 | ロットHCバックル | 羅托腰甲 |
@@ -115,12 +115,12 @@
 | 4109 | Gougarf HS Faulds | 鬥獸腰甲【ＨＳ】 |
 | 4110 | Gougarf FX Coat | 鬥獸腰衣【ＦＸ】 |
 | 4111 | Gougarf HS Coat | 鬥獸腰衣【ＨＳ】 |
-| 4112 | Regyukusu HC Coil | 爾艾格烏腰甲【ＨＣ】 |
-| 4113 | Regyukusu HS Coil | 爾艾格烏腰甲【ＨＳ】 |
-| 4114 | Regyukusu GS Coil | 爾艾格烏腰甲【ＧＳ】 |
-| 4115 | Regyukusu HC Coat | 爾艾格烏腰衣【ＨＣ】 |
-| 4116 | Regyukusu HS Coat | 爾艾格烏腰衣【ＨＳ】 |
-| 4117 | Regyukusu GS Coat | 爾艾格烏腰衣【ＧＳ】 |
+| 4112 | Regyukusu HC Coil | 蕾尤克斯腰甲【ＨＣ】 |
+| 4113 | Regyukusu HS Coil | 蕾尤克斯腰甲【ＨＳ】 |
+| 4114 | Regyukusu GS Coil | 蕾尤克斯腰甲【ＧＳ】 |
+| 4115 | Regyukusu HC Coat | 蕾尤克斯腰衣【ＨＣ】 |
+| 4116 | Regyukusu HS Coat | 蕾尤克斯腰衣【ＨＳ】 |
+| 4117 | Regyukusu GS Coat | 蕾尤克斯腰衣【ＧＳ】 |
 | 4118 | Pistis HC Coil | 普伊斯伊腰甲【ＨＣ】 |
 | 4119 | Pistis HS Coil | 普伊斯伊腰甲【ＨＳ】 |
 | 4120 | Pistis GS Coil | 普伊斯伊腰甲【ＧＳ】 |
@@ -327,10 +327,10 @@
 | 4321 | ダミー | (dummy) |
 | 4322 | ダミー | (dummy) |
 | 4323 | ダミー | (dummy) |
-| 4324 | ヴェルフHS Faulds | 維爾夫腰甲【ＨＳ】 |
-| 4325 | ヴェルフGS Faulds | 維爾夫腰甲【ＧＳ】 |
-| 4326 | ヴェルフHS Coat | 維爾夫腰衣【ＨＳ】 |
-| 4327 | ヴェルフGS Coat | 維爾夫腰衣【ＧＳ】 |
+| 4324 | ヴェルフHS Faulds | 薇露芙腰甲【ＨＳ】 |
+| 4325 | ヴェルフGS Faulds | 薇露芙腰甲【ＧＳ】 |
+| 4326 | ヴェルフHS Coat | 薇露芙腰衣【ＨＳ】 |
+| 4327 | ヴェルフGS Coat | 薇露芙腰衣【ＧＳ】 |
 | 4328 | テリオグHS Faulds | 特里歐古腰甲【ＨＳ】 |
 | 4329 | テリオグGS Faulds | 特里歐古腰甲【ＧＳ】 |
 | 4330 | テリオグHS Coat | 特里歐古腰衣【ＨＳ】 |
@@ -399,22 +399,22 @@
 | 4393 | Stroma F Coat | 基質腰衣【Ｆ】 |
 | 4394 | Stroma FX Coat | 基質腰衣【ＦＸ】 |
 | 4395 | Stroma G Coat | 基質腰衣【Ｇ】 |
-| 4396 | Plunder G Faulds | 普烏恩艾腰甲【Ｇ】 |
-| 4397 | Plunder GF Faulds | 普烏恩艾腰甲【ＧＦ】 |
-| 4398 | Plunder GX Faulds | 普烏恩艾腰甲【ＧＸ】 |
-| 4399 | Plunder G Coat | 普烏恩艾腰衣【Ｇ】 |
-| 4400 | Plunder GF Coat | 普烏恩艾腰衣【ＧＦ】 |
-| 4401 | Plunder GX Coat | 普烏恩艾腰衣【ＧＸ】 |
-| 4402 | Altera Faulds | 阿爾艾爾腰甲 |
-| 4403 | Altera F Faulds | 阿爾艾爾腰甲【Ｆ】 |
-| 4404 | Altera FX Faulds | 阿爾艾爾腰甲【ＦＸ】 |
-| 4405 | Altera G Faulds | 阿爾艾爾腰甲【Ｇ】 |
-| 4406 | Altera GF Faulds | 阿爾艾爾腰甲【ＧＦ】 |
-| 4407 | Altera Coat | 阿爾艾爾腰衣 |
-| 4408 | Altera F Coat | 阿爾艾爾腰衣【Ｆ】 |
-| 4409 | Altera FX Coat | 阿爾艾爾腰衣【ＦＸ】 |
-| 4410 | Altera G Coat | 阿爾艾爾腰衣【Ｇ】 |
-| 4411 | Altera GF Coat | 阿爾艾爾腰衣【ＧＦ】 |
+| 4396 | Plunder G Faulds | 露恩德腰甲【Ｇ】 |
+| 4397 | Plunder GF Faulds | 露恩德腰甲【ＧＦ】 |
+| 4398 | Plunder GX Faulds | 露恩德腰甲【ＧＸ】 |
+| 4399 | Plunder G Coat | 露恩德腰衣【Ｇ】 |
+| 4400 | Plunder GF Coat | 露恩德腰衣【ＧＦ】 |
+| 4401 | Plunder GX Coat | 露恩德腰衣【ＧＸ】 |
+| 4402 | Altera Faulds | 特拉腰甲 |
+| 4403 | Altera F Faulds | 特拉腰甲【Ｆ】 |
+| 4404 | Altera FX Faulds | 特拉腰甲【ＦＸ】 |
+| 4405 | Altera G Faulds | 特拉腰甲【Ｇ】 |
+| 4406 | Altera GF Faulds | 特拉腰甲【ＧＦ】 |
+| 4407 | Altera Coat | 特拉腰衣 |
+| 4408 | Altera F Coat | 特拉腰衣【Ｆ】 |
+| 4409 | Altera FX Coat | 特拉腰衣【ＦＸ】 |
+| 4410 | Altera G Coat | 特拉腰衣【Ｇ】 |
+| 4411 | Altera GF Coat | 特拉腰衣【ＧＦ】 |
 | 4412 | Dragon G Wing | 龍腰翼【Ｇ】 |
 | 4413 | Dragon GF Wing | 龍腰翼【ＧＦ】 |
 | 4414 | Dragon GX Wing | 龍腰翼【ＧＸ】 |

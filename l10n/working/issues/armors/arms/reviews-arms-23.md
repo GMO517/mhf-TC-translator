@@ -4,9 +4,9 @@
 
 | index | 原文 | 譯文 |
 |---|---|---|
-| 11001 | Gear ZF Guard | 格艾爾臂甲【ＺＦ】 |
-| 11002 | Gear ZY Guard | 格艾爾臂甲【ＺＹ】 |
-| 11003 | Gear ZX Guard | 格艾爾臂甲【ＺＸ】 |
+| 11001 | Gear ZF Guard | 蓋臂甲【ＺＦ】 |
+| 11002 | Gear ZY Guard | 蓋臂甲【ＺＹ】 |
+| 11003 | Gear ZX Guard | 蓋臂甲【ＺＸ】 |
 | 11004 | Rokka Arms | 蘿可護腕 |
 | 11005 | Rokka F Arms | 蘿可護腕【Ｆ】 |
 | 11006 | Rokka FZ Arms | 蘿可護腕【ＦＺ】 |
@@ -67,8 +67,8 @@
 | 11061 | Gorgon ZP Guard・White | 戈耳工臂甲【ＺＰ】・白 |
 | 11062 | Gorgon ZP Arms・Red | 戈耳工護腕【ＺＰ】・赤 |
 | 11063 | Gorgon ZP Guard・Red | 戈耳工臂甲【ＺＰ】・赤 |
-| 11064 | Arben ZP Arms | 阿爾本護腕【ＺＰ】 |
-| 11065 | Arben ZP Guard | 阿爾本臂甲【ＺＰ】 |
+| 11064 | Arben ZP Arms | 亞露貝恩護腕【ＺＰ】 |
+| 11065 | Arben ZP Guard | 亞露貝恩臂甲【ＺＰ】 |
 | 11066 | Aura ZP Arms | 光環護腕【ＺＰ】 |
 | 11067 | Aura ZP Guard | 光環臂甲【ＺＰ】 |
 | 11068 | Gagachu ZP Arms | 加加丘護腕【ＺＰ】 |
@@ -91,15 +91,15 @@
 | 11085 | Chatore G Guard | 奇阿特歐臂甲【Ｇ】 |
 | 11086 | Chatore GF Guard | 奇阿特歐臂甲【ＧＦ】 |
 | 11087 | Chatore GX Guard | 奇阿特歐臂甲【ＧＸ】 |
-| 11088 | Donru GX Arms | 德歐恩烏護腕【ＧＸ】 |
-| 11089 | Donru GX Guard | 德歐恩烏臂甲【ＧＸ】 |
-| 11090 | Penre D Arms | 普艾恩艾護腕 |
-| 11091 | Rokka D Arms | 爾歐克阿護腕 |
+| 11088 | Donru GX Arms | 多露護腕【ＧＸ】 |
+| 11089 | Donru GX Guard | 多露臂甲【ＧＸ】 |
+| 11090 | Penre D Arms | 佩蕾護腕 |
+| 11091 | Rokka D Arms | 蘿可護腕 |
 | 11092 | YoRHa No.9 Type S D Arms | 寄葉九號型護腕【Ｓ】 |
 | 11093 | YoRHa No.2 Type B D Arms | 寄葉二號Ｂ型護腕 |
 | 11094 | トリートC Arms | 托里托護腕 |
 | 11095 | Craft C Arms | 工匠護腕 |
-| 11096 | Cielo C Arms | 克伊爾歐護腕 |
+| 11096 | Cielo C Arms | 奇蘿護腕 |
 | 11097 | Felyne C Arms | 艾路猫護腕 |
 | 11098 | Akahara Reisou GN Arms D Red | 阿克阿赫護腕・赤 |
 | 11099 | Akahara Reisou GN Arms D Blue | 阿克阿赫護腕・青 |
@@ -113,23 +113,23 @@
 | 11107 | Hero King Arms BM D Black | 英雄王護腕・黑 |
 | 11108 | Hero King Arms BM D White | 英雄王護腕・白 |
 | 11109 | Hero King Arms BM D Red | 英雄王護腕・赤 |
-| 11110 | Gorgon D Arms・Black | 格歐爾歐護腕・黑 |
-| 11111 | Gorgon D Arms・Blue | 格歐爾歐護腕・青 |
-| 11112 | Gorgon D Arms・White | 格歐爾歐護腕・白 |
-| 11113 | Gorgon D Arms・Red | 格歐爾歐護腕・赤 |
-| 11114 | Arben D Arms | 阿爾艾恩護腕 |
-| 11115 | Aura D Arms | 阿爾阿斯護腕 |
+| 11110 | Gorgon D Arms・Black | 戈戈恩德護腕・黑 |
+| 11111 | Gorgon D Arms・Blue | 戈戈恩德護腕・青 |
+| 11112 | Gorgon D Arms・White | 戈戈恩德護腕・白 |
+| 11113 | Gorgon D Arms・Red | 戈戈恩德護腕・赤 |
+| 11114 | Arben D Arms | 貝恩德護腕 |
+| 11115 | Aura D Arms | 奧拉護腕 |
 | 11116 | Gagachu D Arms | 格阿格阿護腕 |
-| 11117 | Kurofi D Arms | 克烏爾歐護腕 |
-| 11118 | Keravuno D Arms | 克艾爾阿護腕 |
+| 11117 | Kurofi D Arms | 克蘿菲護腕 |
+| 11118 | Keravuno D Arms | 凱拉諾護腕 |
 | 11119 | Espinas ZD Grip | 艾斯伊恩握套 |
 | 11120 | Espinas ZD Grasp | 艾斯伊恩抓握 |
 | 11121 | Hypnoc ZD Arms | 赫歐克護腕 |
 | 11122 | Hypnoc ZD Guard | 赫歐克臂甲 |
-| 11123 | Khezu ZD Arms | 克艾茲烏護腕 |
-| 11124 | Khezu ZD Guard | 克艾茲烏臂甲 |
-| 11125 | Hermitaur ZD Arms | 赫艾爾伊護腕 |
-| 11126 | Hermitaur ZD Guard | 赫艾爾伊臂甲 |
+| 11123 | Khezu ZD Arms | 克茲護腕 |
+| 11124 | Khezu ZD Guard | 克茲臂甲 |
+| 11125 | Hermitaur ZD Arms | 赫姆塔護腕 |
+| 11126 | Hermitaur ZD Guard | 赫姆塔臂甲 |
 | 11127 | Rathalos ZD Arms | 爾阿斯阿護腕 |
 | 11128 | Rathalos ZD Guard | 爾阿斯阿臂甲 |
 | 11129 | Blango ZD Arms | 布阿恩歐護腕 |
@@ -140,9 +140,9 @@
 | 11134 | Tigrex ZD Guard | 特伊格艾臂甲 |
 | 11135 | Hyujikiki ZD Arms | 赫烏傑伊護腕 |
 | 11136 | Hyujikiki ZD Guard | 赫烏傑伊臂甲 |
-| 11137 | Gear ZD Arms | 格艾爾護腕 |
-| 11138 | Gear ZD Guard | 格艾爾臂甲 |
-| 11139 | Muruta D Arms | 姆烏爾烏護腕 |
+| 11137 | Gear ZD Arms | 蓋護腕 |
+| 11138 | Gear ZD Guard | 蓋臂甲 |
+| 11139 | Muruta D Arms | 姆露塔護腕 |
 | 11140 | Midogaron Z Arms | 爆狼護腕【Ｚ】 |
 | 11141 | Midogaron ZF Arms | 爆狼護腕【ＺＦ】 |
 | 11142 | Midogaron ZY Arms | 爆狼護腕【ＺＹ】 |
@@ -222,13 +222,13 @@
 | 11216 | Crush Lance GS Arms | 克烏夏阿護腕【ＧＳ】 |
 | 11217 | Crush Lance GP Arms | 克烏夏阿護腕【ＧＰ】 |
 | 11218 | Crush Lance ZP Arms | 克烏夏阿護腕【ＺＰ】 |
-| 11219 | Scream Lance Arms | 斯艾姆阿護腕 |
-| 11220 | Scream Lance F Arms | 斯艾姆阿護腕【Ｆ】 |
-| 11221 | Scream Lance FZ Arms | 斯艾姆阿護腕【ＦＺ】 |
-| 11222 | Scream Lance HS Arms | 斯艾姆阿護腕【ＨＳ】 |
-| 11223 | Scream Lance GS Arms | 斯艾姆阿護腕【ＧＳ】 |
-| 11224 | Scream Lance GP Arms | 斯艾姆阿護腕【ＧＰ】 |
-| 11225 | Scream Lance ZP Arms | 斯艾姆阿護腕【ＺＰ】 |
+| 11219 | Scream Lance Arms | 克雷拉賽護腕 |
+| 11220 | Scream Lance F Arms | 克雷拉賽護腕【Ｆ】 |
+| 11221 | Scream Lance FZ Arms | 克雷拉賽護腕【ＦＺ】 |
+| 11222 | Scream Lance HS Arms | 克雷拉賽護腕【ＨＳ】 |
+| 11223 | Scream Lance GS Arms | 克雷拉賽護腕【ＧＳ】 |
+| 11224 | Scream Lance GP Arms | 克雷拉賽護腕【ＧＰ】 |
+| 11225 | Scream Lance ZP Arms | 克雷拉賽護腕【ＺＰ】 |
 | 11226 | Piercing Light Arms | 貫光護腕 |
 | 11227 | Piercing Light F Arms | 貫光護腕【Ｆ】 |
 | 11228 | Piercing Light FZ Arms | 貫光護腕【ＦＺ】 |
@@ -250,13 +250,13 @@
 | 11244 | Blast Gun GS Guard | 布阿斯烏臂甲【ＧＳ】 |
 | 11245 | Blast Gun GP Guard | 布阿斯烏臂甲【ＧＰ】 |
 | 11246 | Blast Gun ZP Guard | 布阿斯烏臂甲【ＺＰ】 |
-| 11247 | Crush Gun Guard | 克烏夏烏臂甲 |
-| 11248 | Crush Gun F Guard | 克烏夏烏臂甲【Ｆ】 |
-| 11249 | Crush Gun FZ Guard | 克烏夏烏臂甲【ＦＺ】 |
-| 11250 | Crush Gun HS Guard | 克烏夏烏臂甲【ＨＳ】 |
-| 11251 | Crush Gun GS Guard | 克烏夏烏臂甲【ＧＳ】 |
-| 11252 | Crush Gun GP Guard | 克烏夏烏臂甲【ＧＰ】 |
-| 11253 | Crush Gun ZP Guard | 克烏夏烏臂甲【ＺＰ】 |
+| 11247 | Crush Gun Guard | 克修古臂甲 |
+| 11248 | Crush Gun F Guard | 克修古臂甲【Ｆ】 |
+| 11249 | Crush Gun FZ Guard | 克修古臂甲【ＦＺ】 |
+| 11250 | Crush Gun HS Guard | 克修古臂甲【ＨＳ】 |
+| 11251 | Crush Gun GS Guard | 克修古臂甲【ＧＳ】 |
+| 11252 | Crush Gun GP Guard | 克修古臂甲【ＧＰ】 |
+| 11253 | Crush Gun ZP Guard | 克修古臂甲【ＺＰ】 |
 | 11254 | Bow Saint Guard | 斯阿恩臂甲 |
 | 11255 | Bow Saint F Guard | 斯阿恩臂甲【Ｆ】 |
 | 11256 | Bow Saint FZ Guard | 斯阿恩臂甲【ＦＺ】 |
@@ -310,20 +310,20 @@
 | 11304 | Shaln ZP Guard・Green | 夏爾恩臂甲【ＺＰ】・緑 |
 | 11305 | Shaln ZP Guard・Purple | 夏爾恩臂甲【ＺＰ】・紫 |
 | 11306 | Shaln ZP Guard・White | 夏爾恩臂甲【ＺＰ】・白 |
-| 11307 | Arumyu G Arms | 阿爾烏姆護腕【Ｇ】 |
-| 11308 | Arumyu GF Arms | 阿爾烏姆護腕【ＧＦ】 |
-| 11309 | Arumyu GX Arms | 阿爾烏姆護腕【ＧＸ】 |
-| 11310 | Arumyu G Guard | 阿爾烏姆臂甲【Ｇ】 |
-| 11311 | Arumyu GF Guard | 阿爾烏姆臂甲【ＧＦ】 |
-| 11312 | Arumyu GX Guard | 阿爾烏姆臂甲【ＧＸ】 |
-| 11313 | Korinyi Z Arms | 克歐爾伊護腕【Ｚ】 |
-| 11314 | Korinyi ZF Arms | 克歐爾伊護腕【ＺＦ】 |
-| 11315 | Korinyi ZY Arms | 克歐爾伊護腕【ＺＹ】 |
-| 11316 | Korinyi ZX Arms | 克歐爾伊護腕【ＺＸ】 |
-| 11317 | Korinyi Z Guard | 克歐爾伊臂甲【Ｚ】 |
-| 11318 | Korinyi ZF Guard | 克歐爾伊臂甲【ＺＦ】 |
-| 11319 | Korinyi ZY Guard | 克歐爾伊臂甲【ＺＹ】 |
-| 11320 | Korinyi ZX Guard | 克歐爾伊臂甲【ＺＸ】 |
+| 11307 | Arumyu G Arms | 露尤護腕【Ｇ】 |
+| 11308 | Arumyu GF Arms | 露尤護腕【ＧＦ】 |
+| 11309 | Arumyu GX Arms | 露尤護腕【ＧＸ】 |
+| 11310 | Arumyu G Guard | 露尤臂甲【Ｇ】 |
+| 11311 | Arumyu GF Guard | 露尤臂甲【ＧＦ】 |
+| 11312 | Arumyu GX Guard | 露尤臂甲【ＧＸ】 |
+| 11313 | Korinyi Z Arms | 古里護腕【Ｚ】 |
+| 11314 | Korinyi ZF Arms | 古里護腕【ＺＦ】 |
+| 11315 | Korinyi ZY Arms | 古里護腕【ＺＹ】 |
+| 11316 | Korinyi ZX Arms | 古里護腕【ＺＸ】 |
+| 11317 | Korinyi Z Guard | 古里臂甲【Ｚ】 |
+| 11318 | Korinyi ZF Guard | 古里臂甲【ＺＦ】 |
+| 11319 | Korinyi ZY Guard | 古里臂甲【ＺＹ】 |
+| 11320 | Korinyi ZX Guard | 古里臂甲【ＺＸ】 |
 | 11321 | Renka Kote Z | 蓮華籠手【Ｚ】 |
 | 11322 | Renka Kote ZF | 蓮華籠手【ＺＦ】 |
 | 11323 | Renka Kote ZY | 蓮華籠手【ＺＹ】 |
@@ -339,9 +339,9 @@
 | 11333 | 失落D狂腕 | 失落狂腕護腕 |
 | 11334 | 噬天D光腕 | 噬天光腕護腕 |
 | 11335 | 小藍ＣＯＳ手甲 | 小藍ＣＯＳ手甲護腕 |
-| 11336 | ヴァンパイアＤアーム | 芙恩拍伊阿護腕 |
-| 11337 | Midogaron ZD Arms | 姆伊德歐護腕 |
-| 11338 | Midogaron ZD Guard | 姆伊德歐臂甲 |
+| 11336 | ヴァンパイアＤアーム | 薇恩拍伊護腕 |
+| 11337 | Midogaron ZD Arms | 蜜多加蘿護腕 |
+| 11338 | Midogaron ZD Guard | 蜜多加蘿臂甲 |
 | 11339 | White Fatalis Dクロウ | 白黑龍爪 |
 | 11340 | White Fatalis Dフィスト | 白黑龍拳 |
 | 11341 | Elzelion D Arms | 灼零龍護腕 |
@@ -350,39 +350,39 @@
 | 11344 | 十ノ軌跡C Arms | 十軌跡護腕 |
 | 11345 | 十ノ至道C Guard | 十至道臂甲 |
 | 11346 | Rantana D Arms | 爾阿恩阿護腕 |
-| 11347 | Eris D Arms | 艾爾伊斯護腕 |
+| 11347 | Eris D Arms | 里護腕 |
 | 11348 | Magisa D Arms・Red | 姆阿格伊護腕・赤 |
 | 11349 | Magisa D Arms・Black | 姆阿格伊護腕・黑 |
 | 11350 | Magisa D Arms・Green | 姆阿格伊護腕・緑 |
 | 11351 | Magisa D Arms・White | 姆阿格伊護腕・白 |
 | 11352 | Magisa D Arms・Blue | 姆阿格伊護腕・青 |
 | 11353 | Waka Kote D | 沃阿克阿籠手 |
-| 11354 | Shaln D Arms・Blue | 夏阿爾護腕・青 |
-| 11355 | Shaln D Arms・Green | 夏阿爾護腕・緑 |
-| 11356 | Shaln D Arms・Purple | 夏阿爾護腕・紫 |
-| 11357 | Shaln D Arms・White | 夏阿爾護腕・白 |
-| 11358 | Shaln D Arms・Red | 夏阿爾護腕・赤 |
-| 11359 | Shaln D Arms・Crimson | 夏阿爾護腕・紅 |
-| 11360 | Shaln D Arms・Orange | 夏阿爾護腕・橙 |
-| 11361 | Carriage D Arms | 克阿爾伊護腕 |
-| 11362 | Marble D Arms | 姆阿爾艾護腕 |
+| 11354 | Shaln D Arms・Blue | 修恩護腕・青 |
+| 11355 | Shaln D Arms・Green | 修恩護腕・緑 |
+| 11356 | Shaln D Arms・Purple | 修恩護腕・紫 |
+| 11357 | Shaln D Arms・White | 修恩護腕・白 |
+| 11358 | Shaln D Arms・Red | 修恩護腕・赤 |
+| 11359 | Shaln D Arms・Crimson | 修恩護腕・紅 |
+| 11360 | Shaln D Arms・Orange | 修恩護腕・橙 |
+| 11361 | Carriage D Arms | 可爾蓋護腕 |
+| 11362 | Marble D Arms | 瑪布護腕 |
 | 11363 | Shandy D Arms | 夏阿恩護腕 |
 | 11364 | Banquet D Arms | 布阿恩烏護腕 |
-| 11365 | Korinyi D Arms | 克歐爾伊護腕 |
-| 11366 | Renka Kote D | 爾艾恩阿籠手 |
-| 11367 | Kukubo D Arms | 克烏克烏護腕 |
+| 11365 | Korinyi D Arms | 古里護腕 |
+| 11366 | Renka Kote D | 蕾可籠手 |
+| 11367 | Kukubo D Arms | 克克波護腕 |
 | 11368 | Kakabu D Arms | 克阿克阿護腕 |
-| 11369 | Aruru D Arms | 阿爾烏爾護腕 |
+| 11369 | Aruru D Arms | 露露護腕 |
 | 11370 | Red Cat D Arms | 赤猫護腕 |
 | 11371 | Rios D Arms | 爾伊斯護腕 |
 | 11372 | Bonito D Arms | 布歐恩伊護腕 |
-| 11373 | Meirida D Arms | 姆艾爾伊護腕 |
+| 11373 | Meirida D Arms | 梅里達護腕 |
 | 11374 | Miniomu D Arms | 姆伊恩伊護腕 |
-| 11375 | Harimeno D Arms | 赫阿爾伊護腕 |
+| 11375 | Harimeno D Arms | 哈里梅諾護腕 |
 | 11376 | Deliver D Arms | 交貨護腕 |
 | 11377 | Asaku D Arms | 阿斯阿克護腕 |
-| 11378 | Desordre D Arms | 德艾斯歐護腕 |
-| 11379 | Haragan D Arms | 赫阿爾阿護腕 |
+| 11378 | Desordre D Arms | 德索德護腕 |
+| 11379 | Haragan D Arms | 哈拉加護腕 |
 | 11380 | Abuyado D Arms | 阿布烏伊護腕 |
 | 11381 | Ruko Z Arms | 極龍護腕【Ｚ】 |
 | 11382 | Ruko ZF Arms | 極龍護腕【ＺＦ】 |
@@ -400,20 +400,20 @@
 | 11394 | Plesioth ZF Guard | 水龍臂甲【ＺＦ】 |
 | 11395 | Plesioth ZY Guard | 水龍臂甲【ＺＹ】 |
 | 11396 | Plesioth ZX Guard | 水龍臂甲【ＺＸ】 |
-| 11397 | Sharufu Arms | 夏爾夫護腕 |
-| 11398 | Sharufu F Arms | 夏爾夫護腕【Ｆ】 |
-| 11399 | Sharufu FZ Arms | 夏爾夫護腕【ＦＺ】 |
-| 11400 | Sharufu HS Arms | 夏爾夫護腕【ＨＳ】 |
-| 11401 | Sharufu GS Arms | 夏爾夫護腕【ＧＳ】 |
-| 11402 | Sharufu GP Arms | 夏爾夫護腕【ＧＰ】 |
-| 11403 | Sharufu ZP Arms | 夏爾夫護腕【ＺＰ】 |
-| 11404 | Sharufu Guard | 夏爾夫臂甲 |
-| 11405 | Sharufu F Guard | 夏爾夫臂甲【Ｆ】 |
-| 11406 | Sharufu FZ Guard | 夏爾夫臂甲【ＦＺ】 |
-| 11407 | Sharufu HS Guard | 夏爾夫臂甲【ＨＳ】 |
-| 11408 | Sharufu GS Guard | 夏爾夫臂甲【ＧＳ】 |
-| 11409 | Sharufu GP Guard | 夏爾夫臂甲【ＧＰ】 |
-| 11410 | Sharufu ZP Guard | 夏爾夫臂甲【ＺＰ】 |
+| 11397 | Sharufu Arms | 夏露芙護腕 |
+| 11398 | Sharufu F Arms | 夏露芙護腕【Ｆ】 |
+| 11399 | Sharufu FZ Arms | 夏露芙護腕【ＦＺ】 |
+| 11400 | Sharufu HS Arms | 夏露芙護腕【ＨＳ】 |
+| 11401 | Sharufu GS Arms | 夏露芙護腕【ＧＳ】 |
+| 11402 | Sharufu GP Arms | 夏露芙護腕【ＧＰ】 |
+| 11403 | Sharufu ZP Arms | 夏露芙護腕【ＺＰ】 |
+| 11404 | Sharufu Guard | 夏露芙臂甲 |
+| 11405 | Sharufu F Guard | 夏露芙臂甲【Ｆ】 |
+| 11406 | Sharufu FZ Guard | 夏露芙臂甲【ＦＺ】 |
+| 11407 | Sharufu HS Guard | 夏露芙臂甲【ＨＳ】 |
+| 11408 | Sharufu GS Guard | 夏露芙臂甲【ＧＳ】 |
+| 11409 | Sharufu GP Guard | 夏露芙臂甲【ＧＰ】 |
+| 11410 | Sharufu ZP Guard | 夏露芙臂甲【ＺＰ】 |
 | 11411 | Kamara Arms | 可瑪拉護腕 |
 | 11412 | Kamara F Arms | 可瑪拉護腕【Ｆ】 |
 | 11413 | Kamara FZ Arms | 可瑪拉護腕【ＦＺ】 |

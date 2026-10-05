@@ -29,16 +29,16 @@
 | 5023 | ノヴィーHC Boots | 諾芙靴【ＨＣ】 |
 | 5024 | ノヴィーHS Boots | 諾芙靴【ＨＳ】 |
 | 5025 | ノヴィーGS Boots | 諾芙靴【ＧＳ】 |
-| 5026 | Flora Greaves | 芙歐爾阿護腿 |
+| 5026 | Flora Greaves | 芙拉護腿 |
 | 5027 | Frau Feet | 芙阿足 |
-| 5028 | Lea Leg | 爾艾腿 |
+| 5028 | Lea Leg | 勒腿 |
 | 5029 | Keith Greaves | 克艾斯護腿 |
-| 5030 | Guinelle Greaves | 格烏恩艾護腿 |
+| 5030 | Guinelle Greaves | 古奈爾護腿 |
 | 5031 | Circa Feet | 克伊爾阿足 |
-| 5032 | Edward Greaves | 艾德阿爾護腿 |
+| 5032 | Edward Greaves | 瓦護腿 |
 | 5033 | Taizo Greaves | 特阿茲歐護腿 |
 | 5034 | Tiala Boots | 特伊爾阿靴 |
-| 5035 | Uwel Boots | 烏沃艾爾靴 |
+| 5035 | Uwel Boots | 尤韋靴 |
 | 5036 | Natasha Leggings | 恩阿特阿裹腿 |
 | 5037 | ダミー | (dummy) |
 | 5038 | アミロ Feet・Blue | 阿米羅足・青 |
@@ -107,12 +107,12 @@
 | 5101 | Azul G Leggings | 青裹腿【Ｇ】 |
 | 5102 | Azul GF Leggings | 青裹腿【ＧＦ】 |
 | 5103 | Azul GX Leggings | 青裹腿【ＧＸ】 |
-| 5104 | Entora G Greaves | 艾恩歐爾護腿【Ｇ】 |
-| 5105 | Entora GF Greaves | 艾恩歐爾護腿【ＧＦ】 |
-| 5106 | Entora GX Greaves | 艾恩歐爾護腿【ＧＸ】 |
-| 5107 | Entora G Leggings | 艾恩歐爾裹腿【Ｇ】 |
-| 5108 | Entora GF Leggings | 艾恩歐爾裹腿【ＧＦ】 |
-| 5109 | Entora GX Leggings | 艾恩歐爾裹腿【ＧＸ】 |
+| 5104 | Entora G Greaves | 托拉護腿【Ｇ】 |
+| 5105 | Entora GF Greaves | 托拉護腿【ＧＦ】 |
+| 5106 | Entora GX Greaves | 托拉護腿【ＧＸ】 |
+| 5107 | Entora G Leggings | 托拉裹腿【Ｇ】 |
+| 5108 | Entora GF Leggings | 托拉裹腿【ＧＦ】 |
+| 5109 | Entora GX Leggings | 托拉裹腿【ＧＸ】 |
 | 5110 | Holy King Feet | 聖王足 |
 | 5111 | Holy King F Feet | 聖王足【Ｆ】 |
 | 5112 | Holy King FZ Feet | 聖王足【ＦＺ】 |
@@ -173,18 +173,18 @@
 | 5167 | Knight HS Greaves | 騎士護腿【ＨＳ】 |
 | 5168 | Knight GS Greaves | 騎士護腿【ＧＳ】 |
 | 5169 | Knight GP Greaves | 騎士護腿【ＧＰ】 |
-| 5170 | Shell Boots | 夏艾爾靴 |
-| 5171 | Shell F Boots | 夏艾爾靴【Ｆ】 |
-| 5172 | Shell FZ Boots | 夏艾爾靴【ＦＺ】 |
-| 5173 | Shell HS Boots | 夏艾爾靴【ＨＳ】 |
-| 5174 | Shell GS Boots | 夏艾爾靴【ＧＳ】 |
-| 5175 | Shell GP Boots | 夏艾爾靴【ＧＰ】 |
-| 5176 | Vector Boots | 芙艾克歐靴 |
-| 5177 | Vector F Boots | 芙艾克歐靴【Ｆ】 |
-| 5178 | Vector FZ Boots | 芙艾克歐靴【ＦＺ】 |
-| 5179 | Vector HS Boots | 芙艾克歐靴【ＨＳ】 |
-| 5180 | Vector GS Boots | 芙艾克歐靴【ＧＳ】 |
-| 5181 | Vector GP Boots | 芙艾克歐靴【ＧＰ】 |
+| 5170 | Shell Boots | 修爾靴 |
+| 5171 | Shell F Boots | 修爾靴【Ｆ】 |
+| 5172 | Shell FZ Boots | 修爾靴【ＦＺ】 |
+| 5173 | Shell HS Boots | 修爾靴【ＨＳ】 |
+| 5174 | Shell GS Boots | 修爾靴【ＧＳ】 |
+| 5175 | Shell GP Boots | 修爾靴【ＧＰ】 |
+| 5176 | Vector Boots | 薇托靴 |
+| 5177 | Vector F Boots | 薇托靴【Ｆ】 |
+| 5178 | Vector FZ Boots | 薇托靴【ＦＺ】 |
+| 5179 | Vector HS Boots | 薇托靴【ＨＳ】 |
+| 5180 | Vector GS Boots | 薇托靴【ＧＳ】 |
+| 5181 | Vector GP Boots | 薇托靴【ＧＰ】 |
 | 5182 | サーブル Feet | 薩布魯足 |
 | 5183 | サーブルF Feet | 薩布魯足【Ｆ】 |
 | 5184 | サーブルFZ Feet | 薩布魯足【ＦＺ】 |
@@ -320,9 +320,9 @@
 | 5314 | Kruss HS Leg | 克烏斯腿【ＨＳ】 |
 | 5315 | Kruss GS Leg | 克烏斯腿【ＧＳ】 |
 | 5316 | Kruss GP Leg | 克烏斯腿【ＧＰ】 |
-| 5317 | Quote HS Boots | 斯烏特艾靴【ＨＳ】 |
-| 5318 | Quote GS Boots | 斯烏特艾靴【ＧＳ】 |
-| 5319 | Quote GP Boots | 斯烏特艾靴【ＧＰ】 |
+| 5317 | Quote HS Boots | 奎特靴【ＨＳ】 |
+| 5318 | Quote GS Boots | 奎特靴【ＧＳ】 |
+| 5319 | Quote GP Boots | 奎特靴【ＧＰ】 |
 | 5320 | Starina HS Leg | 斯塔莉娜腿【ＨＳ】 |
 | 5321 | Starina GS Leg | 斯塔莉娜腿【ＧＳ】 |
 | 5322 | Starina GP Leg | 斯塔莉娜腿【ＧＰ】 |

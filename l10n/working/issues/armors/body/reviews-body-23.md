@@ -9,14 +9,14 @@
 | 11003 | Hyujikiki ZF Vest | 針纏龍背心【ＺＦ】 |
 | 11004 | Hyujikiki ZY Vest | 針纏龍背心【ＺＹ】 |
 | 11005 | Hyujikiki ZX Vest | 針纏龍背心【ＺＸ】 |
-| 11006 | Gear Z Mail | 格艾爾鎧甲【Ｚ】 |
-| 11007 | Gear ZF Mail | 格艾爾鎧甲【ＺＦ】 |
-| 11008 | Gear ZY Mail | 格艾爾鎧甲【ＺＹ】 |
-| 11009 | Gear ZX Mail | 格艾爾鎧甲【ＺＸ】 |
-| 11010 | Gear Z Vest | 格艾爾背心【Ｚ】 |
-| 11011 | Gear ZF Vest | 格艾爾背心【ＺＦ】 |
-| 11012 | Gear ZY Vest | 格艾爾背心【ＺＹ】 |
-| 11013 | Gear ZX Vest | 格艾爾背心【ＺＸ】 |
+| 11006 | Gear Z Mail | 蓋鎧甲【Ｚ】 |
+| 11007 | Gear ZF Mail | 蓋鎧甲【ＺＦ】 |
+| 11008 | Gear ZY Mail | 蓋鎧甲【ＺＹ】 |
+| 11009 | Gear ZX Mail | 蓋鎧甲【ＺＸ】 |
+| 11010 | Gear Z Vest | 蓋背心【Ｚ】 |
+| 11011 | Gear ZF Vest | 蓋背心【ＺＦ】 |
+| 11012 | Gear ZY Vest | 蓋背心【ＺＹ】 |
+| 11013 | Gear ZX Vest | 蓋背心【ＺＸ】 |
 | 11014 | Rokka Suit | 蘿可套裝 |
 | 11015 | Rokka F Suit | 蘿可套裝【Ｆ】 |
 | 11016 | Rokka FZ Suit | 蘿可套裝【ＦＺ】 |
@@ -77,8 +77,8 @@
 | 11071 | Gorgon ZP Suit・White | 戈耳工套裝【ＺＰ】・白 |
 | 11072 | Gorgon ZP Vest・Red | 戈耳工背心【ＺＰ】・赤 |
 | 11073 | Gorgon ZP Suit・Red | 戈耳工套裝【ＺＰ】・赤 |
-| 11074 | Arben ZP Mail | 阿爾本鎧甲【ＺＰ】 |
-| 11075 | Arben ZP Suit | 阿爾本套裝【ＺＰ】 |
+| 11074 | Arben ZP Mail | 亞露貝恩鎧甲【ＺＰ】 |
+| 11075 | Arben ZP Suit | 亞露貝恩套裝【ＺＰ】 |
 | 11076 | Aura ZP Mail | 光環鎧甲【ＺＰ】 |
 | 11077 | Aura ZP Vest | 光環背心【ＺＰ】 |
 | 11078 | Gagachu ZP Vest | 加加丘背心【ＺＰ】 |
@@ -101,15 +101,15 @@
 | 11095 | Chatore G Vest | 奇阿特歐背心【Ｇ】 |
 | 11096 | Chatore GF Vest | 奇阿特歐背心【ＧＦ】 |
 | 11097 | Chatore GX Vest | 奇阿特歐背心【ＧＸ】 |
-| 11098 | Donru GX Mail | 德歐恩烏鎧甲【ＧＸ】 |
-| 11099 | Donru GX Vest | 德歐恩烏背心【ＧＸ】 |
-| 11100 | Penre D Suit | 普艾恩艾套裝 |
-| 11101 | Rokka D Suit | 爾歐克阿套裝 |
+| 11098 | Donru GX Mail | 多露鎧甲【ＧＸ】 |
+| 11099 | Donru GX Vest | 多露背心【ＧＸ】 |
+| 11100 | Penre D Suit | 佩蕾套裝 |
+| 11101 | Rokka D Suit | 蘿可套裝 |
 | 11102 | YoRHa No.9 Type S D Vest | 寄葉九號型背心【Ｓ】 |
 | 11103 | YoRHa No.2 Type B D Vest | 寄葉二號Ｂ型背心 |
 | 11104 | トリートC Jacket | 托里托夾克 |
 | 11105 | Craft C Mail | 工匠鎧甲 |
-| 11106 | Cielo C Mail | 克伊爾歐鎧甲 |
+| 11106 | Cielo C Mail | 奇蘿鎧甲 |
 | 11107 | Felyne C Mail | 艾路猫鎧甲 |
 | 11108 | Akahara Reisou GN Chest D Red | 阿克阿赫胸甲・赤 |
 | 11109 | Akahara Reisou GN Chest D Blue | 阿克阿赫胸甲・青 |
@@ -123,23 +123,23 @@
 | 11117 | Hero King Chest BM D Black | 英雄王胸甲・黑 |
 | 11118 | Hero King Chest BM D White | 英雄王胸甲・白 |
 | 11119 | Hero King Chest BM D Red | 英雄王胸甲・赤 |
-| 11120 | Gorgon D Vest・Black | 格歐爾歐背心・黑 |
-| 11121 | Gorgon D Vest・Blue | 格歐爾歐背心・青 |
-| 11122 | Gorgon D Vest・White | 格歐爾歐背心・白 |
-| 11123 | Gorgon D Vest・Red | 格歐爾歐背心・赤 |
-| 11124 | Arben D Mail | 阿爾艾恩鎧甲 |
-| 11125 | Aura D Mail | 阿爾阿斯鎧甲 |
+| 11120 | Gorgon D Vest・Black | 戈戈恩德背心・黑 |
+| 11121 | Gorgon D Vest・Blue | 戈戈恩德背心・青 |
+| 11122 | Gorgon D Vest・White | 戈戈恩德背心・白 |
+| 11123 | Gorgon D Vest・Red | 戈戈恩德背心・赤 |
+| 11124 | Arben D Mail | 貝恩德鎧甲 |
+| 11125 | Aura D Mail | 奧拉鎧甲 |
 | 11126 | Gagachu D Vest | 格阿格阿背心 |
-| 11127 | Kurofi D Mail | 克烏爾歐鎧甲 |
-| 11128 | Keravuno D Mail | 克艾爾阿鎧甲 |
+| 11127 | Kurofi D Mail | 克蘿菲鎧甲 |
+| 11128 | Keravuno D Mail | 凱拉諾鎧甲 |
 | 11129 | Espinas ZD Muscle | 艾斯伊恩筋肉衣 |
 | 11130 | Espinas ZD Heart | 艾斯伊恩心衣 |
 | 11131 | Hypnoc ZD Mail | 赫歐克鎧甲 |
 | 11132 | Hypnoc ZD Vest | 赫歐克背心 |
-| 11133 | Khezu ZD Mail | 克艾茲烏鎧甲 |
-| 11134 | Khezu ZD Vest | 克艾茲烏背心 |
-| 11135 | Hermitaur ZD Mail | 赫艾爾伊鎧甲 |
-| 11136 | Hermitaur ZD Vest | 赫艾爾伊背心 |
+| 11133 | Khezu ZD Mail | 克茲鎧甲 |
+| 11134 | Khezu ZD Vest | 克茲背心 |
+| 11135 | Hermitaur ZD Mail | 赫姆塔鎧甲 |
+| 11136 | Hermitaur ZD Vest | 赫姆塔背心 |
 | 11137 | Rathalos ZD Mail | 爾阿斯阿鎧甲 |
 | 11138 | Rathalos ZD Vest | 爾阿斯阿背心 |
 | 11139 | Blango ZD Mail | 布阿恩歐鎧甲 |
@@ -150,9 +150,9 @@
 | 11144 | Tigrex ZD Vest | 特伊格艾背心 |
 | 11145 | Hyujikiki ZD Mail | 赫烏傑伊鎧甲 |
 | 11146 | Hyujikiki ZD Vest | 赫烏傑伊背心 |
-| 11147 | Gear ZD Mail | 格艾爾鎧甲 |
-| 11148 | Gear ZD Vest | 格艾爾背心 |
-| 11149 | Muruta D Mail | 姆烏爾烏鎧甲 |
+| 11147 | Gear ZD Mail | 蓋鎧甲 |
+| 11148 | Gear ZD Vest | 蓋背心 |
+| 11149 | Muruta D Mail | 姆露塔鎧甲 |
 | 11150 | Midogaron Z Mail | 爆狼鎧甲【Ｚ】 |
 | 11151 | Midogaron ZF Mail | 爆狼鎧甲【ＺＦ】 |
 | 11152 | Midogaron ZY Mail | 爆狼鎧甲【ＺＹ】 |
@@ -232,13 +232,13 @@
 | 11226 | Crush Lance GS Suit | 克烏夏阿套裝【ＧＳ】 |
 | 11227 | Crush Lance GP Suit | 克烏夏阿套裝【ＧＰ】 |
 | 11228 | Crush Lance ZP Suit | 克烏夏阿套裝【ＺＰ】 |
-| 11229 | Scream Lance Suit | 斯艾姆阿套裝 |
-| 11230 | Scream Lance F Suit | 斯艾姆阿套裝【Ｆ】 |
-| 11231 | Scream Lance FZ Suit | 斯艾姆阿套裝【ＦＺ】 |
-| 11232 | Scream Lance HS Suit | 斯艾姆阿套裝【ＨＳ】 |
-| 11233 | Scream Lance GS Suit | 斯艾姆阿套裝【ＧＳ】 |
-| 11234 | Scream Lance GP Suit | 斯艾姆阿套裝【ＧＰ】 |
-| 11235 | Scream Lance ZP Suit | 斯艾姆阿套裝【ＺＰ】 |
+| 11229 | Scream Lance Suit | 克雷拉賽套裝 |
+| 11230 | Scream Lance F Suit | 克雷拉賽套裝【Ｆ】 |
+| 11231 | Scream Lance FZ Suit | 克雷拉賽套裝【ＦＺ】 |
+| 11232 | Scream Lance HS Suit | 克雷拉賽套裝【ＨＳ】 |
+| 11233 | Scream Lance GS Suit | 克雷拉賽套裝【ＧＳ】 |
+| 11234 | Scream Lance GP Suit | 克雷拉賽套裝【ＧＰ】 |
+| 11235 | Scream Lance ZP Suit | 克雷拉賽套裝【ＺＰ】 |
 | 11236 | Piercing Light Suit | 貫光套裝 |
 | 11237 | Piercing Light F Suit | 貫光套裝【Ｆ】 |
 | 11238 | Piercing Light FZ Suit | 貫光套裝【ＦＺ】 |
@@ -260,13 +260,13 @@
 | 11254 | Blast Gun GS Vest | 布阿斯烏背心【ＧＳ】 |
 | 11255 | Blast Gun GP Vest | 布阿斯烏背心【ＧＰ】 |
 | 11256 | Blast Gun ZP Vest | 布阿斯烏背心【ＺＰ】 |
-| 11257 | Crush Gun Vest | 克烏夏烏背心 |
-| 11258 | Crush Gun F Vest | 克烏夏烏背心【Ｆ】 |
-| 11259 | Crush Gun FZ Vest | 克烏夏烏背心【ＦＺ】 |
-| 11260 | Crush Gun HS Vest | 克烏夏烏背心【ＨＳ】 |
-| 11261 | Crush Gun GS Vest | 克烏夏烏背心【ＧＳ】 |
-| 11262 | Crush Gun GP Vest | 克烏夏烏背心【ＧＰ】 |
-| 11263 | Crush Gun ZP Vest | 克烏夏烏背心【ＺＰ】 |
+| 11257 | Crush Gun Vest | 克修古背心 |
+| 11258 | Crush Gun F Vest | 克修古背心【Ｆ】 |
+| 11259 | Crush Gun FZ Vest | 克修古背心【ＦＺ】 |
+| 11260 | Crush Gun HS Vest | 克修古背心【ＨＳ】 |
+| 11261 | Crush Gun GS Vest | 克修古背心【ＧＳ】 |
+| 11262 | Crush Gun GP Vest | 克修古背心【ＧＰ】 |
+| 11263 | Crush Gun ZP Vest | 克修古背心【ＺＰ】 |
 | 11264 | Bow Saint Vest | 斯阿恩背心 |
 | 11265 | Bow Saint F Vest | 斯阿恩背心【Ｆ】 |
 | 11266 | Bow Saint FZ Vest | 斯阿恩背心【ＦＺ】 |
@@ -320,20 +320,20 @@
 | 11314 | Shaln ZP Suit・Green | 夏爾恩套裝【ＺＰ】・緑 |
 | 11315 | Shaln ZP Suit・Purple | 夏爾恩套裝【ＺＰ】・紫 |
 | 11316 | Shaln ZP Suit・White | 夏爾恩套裝【ＺＰ】・白 |
-| 11317 | Arumyu G Mail | 阿爾烏姆鎧甲【Ｇ】 |
-| 11318 | Arumyu GF Mail | 阿爾烏姆鎧甲【ＧＦ】 |
-| 11319 | Arumyu GX Mail | 阿爾烏姆鎧甲【ＧＸ】 |
-| 11320 | Arumyu G Vest | 阿爾烏姆背心【Ｇ】 |
-| 11321 | Arumyu GF Vest | 阿爾烏姆背心【ＧＦ】 |
-| 11322 | Arumyu GX Vest | 阿爾烏姆背心【ＧＸ】 |
-| 11323 | Korinyi Z Suit | 克歐爾伊套裝【Ｚ】 |
-| 11324 | Korinyi ZF Suit | 克歐爾伊套裝【ＺＦ】 |
-| 11325 | Korinyi ZY Suit | 克歐爾伊套裝【ＺＹ】 |
-| 11326 | Korinyi ZX Suit | 克歐爾伊套裝【ＺＸ】 |
-| 11327 | Korinyi Z Vest | 克歐爾伊背心【Ｚ】 |
-| 11328 | Korinyi ZF Vest | 克歐爾伊背心【ＺＦ】 |
-| 11329 | Korinyi ZY Vest | 克歐爾伊背心【ＺＹ】 |
-| 11330 | Korinyi ZX Vest | 克歐爾伊背心【ＺＸ】 |
+| 11317 | Arumyu G Mail | 露尤鎧甲【Ｇ】 |
+| 11318 | Arumyu GF Mail | 露尤鎧甲【ＧＦ】 |
+| 11319 | Arumyu GX Mail | 露尤鎧甲【ＧＸ】 |
+| 11320 | Arumyu G Vest | 露尤背心【Ｇ】 |
+| 11321 | Arumyu GF Vest | 露尤背心【ＧＦ】 |
+| 11322 | Arumyu GX Vest | 露尤背心【ＧＸ】 |
+| 11323 | Korinyi Z Suit | 古里套裝【Ｚ】 |
+| 11324 | Korinyi ZF Suit | 古里套裝【ＺＦ】 |
+| 11325 | Korinyi ZY Suit | 古里套裝【ＺＹ】 |
+| 11326 | Korinyi ZX Suit | 古里套裝【ＺＸ】 |
+| 11327 | Korinyi Z Vest | 古里背心【Ｚ】 |
+| 11328 | Korinyi ZF Vest | 古里背心【ＺＦ】 |
+| 11329 | Korinyi ZY Vest | 古里背心【ＺＹ】 |
+| 11330 | Korinyi ZX Vest | 古里背心【ＺＸ】 |
 | 11331 | Renka Haori Z | 蓮華羽織【Ｚ】 |
 | 11332 | Renka Haori ZF | 蓮華羽織【ＺＦ】 |
 | 11333 | Renka Haori ZY | 蓮華羽織【ＺＹ】 |
@@ -349,9 +349,9 @@
 | 11343 | 失落D狂甲 | 失落狂甲鎧甲 |
 | 11344 | 噬天D光甲 | 噬天光甲鎧甲 |
 | 11345 | 小藍ＣＯＳ服裝 | 小藍ＣＯＳ服裝鎧甲 |
-| 11346 | ヴァンパイアＤメイル | 芙恩拍伊阿鎧甲 |
-| 11347 | Midogaron ZD Mail | 姆伊德歐鎧甲 |
-| 11348 | Midogaron ZD Vest | 姆伊德歐背心 |
+| 11346 | ヴァンパイアＤメイル | 薇恩拍伊鎧甲 |
+| 11347 | Midogaron ZD Mail | 蜜多加蘿鎧甲 |
+| 11348 | Midogaron ZD Vest | 蜜多加蘿背心 |
 | 11349 | White Fatalis D Hide | 白黑龍皮衣 |
 | 11350 | White Fatalis D Skin | 白黑龍皮 |
 | 11351 | Elzelion D Mail | 灼零龍鎧甲 |
@@ -360,39 +360,39 @@
 | 11354 | 十ノ軌跡C Suit | 十軌跡套裝 |
 | 11355 | 十ノ至道C Vest | 十至道背心 |
 | 11356 | Rantana D Suit | 爾阿恩阿套裝 |
-| 11357 | Eris D Suit | 艾爾伊斯套裝 |
+| 11357 | Eris D Suit | 里套裝 |
 | 11358 | Magisa D Vest・Red | 姆阿格伊背心・赤 |
 | 11359 | Magisa D Vest・Black | 姆阿格伊背心・黑 |
 | 11360 | Magisa D Vest・Green | 姆阿格伊背心・緑 |
 | 11361 | Magisa D Vest・White | 姆阿格伊背心・白 |
 | 11362 | Magisa D Vest・Blue | 姆阿格伊背心・青 |
 | 11363 | Waka Torso D | 沃阿克阿躯幹 |
-| 11364 | Shaln D Vest・Blue | 夏阿爾背心・青 |
-| 11365 | Shaln D Vest・Green | 夏阿爾背心・緑 |
-| 11366 | Shaln D Vest・Purple | 夏阿爾背心・紫 |
-| 11367 | Shaln D Vest・White | 夏阿爾背心・白 |
-| 11368 | Shaln D Vest・Red | 夏阿爾背心・赤 |
-| 11369 | Shaln D Vest・Crimson | 夏阿爾背心・紅 |
-| 11370 | Shaln D Vest・Orange | 夏阿爾背心・橙 |
-| 11371 | Carriage D Vest | 克阿爾伊背心 |
-| 11372 | Marble D Vest | 姆阿爾艾背心 |
+| 11364 | Shaln D Vest・Blue | 修恩背心・青 |
+| 11365 | Shaln D Vest・Green | 修恩背心・緑 |
+| 11366 | Shaln D Vest・Purple | 修恩背心・紫 |
+| 11367 | Shaln D Vest・White | 修恩背心・白 |
+| 11368 | Shaln D Vest・Red | 修恩背心・赤 |
+| 11369 | Shaln D Vest・Crimson | 修恩背心・紅 |
+| 11370 | Shaln D Vest・Orange | 修恩背心・橙 |
+| 11371 | Carriage D Vest | 可爾蓋背心 |
+| 11372 | Marble D Vest | 瑪布背心 |
 | 11373 | Shandy D Vest | 夏阿恩背心 |
 | 11374 | Banquet D Vest | 布阿恩烏背心 |
-| 11375 | Korinyi D Suit | 克歐爾伊套裝 |
-| 11376 | Renka Haori D | 爾艾恩阿羽織 |
-| 11377 | Kukubo D Mail | 克烏克烏鎧甲 |
+| 11375 | Korinyi D Suit | 古里套裝 |
+| 11376 | Renka Haori D | 蕾可羽織 |
+| 11377 | Kukubo D Mail | 克克波鎧甲 |
 | 11378 | Kakabu D Mail | 克阿克阿鎧甲 |
-| 11379 | Aruru D Mail | 阿爾烏爾鎧甲 |
+| 11379 | Aruru D Mail | 露露鎧甲 |
 | 11380 | Red Cat D Suit | 赤猫套裝 |
 | 11381 | Rios D Mail | 爾伊斯鎧甲 |
 | 11382 | Bonito D Mail | 布歐恩伊鎧甲 |
-| 11383 | Meirida D Mail | 姆艾爾伊鎧甲 |
+| 11383 | Meirida D Mail | 梅里達鎧甲 |
 | 11384 | Miniomu D Mail | 姆伊恩伊鎧甲 |
-| 11385 | Harimeno D Mail | 赫阿爾伊鎧甲 |
+| 11385 | Harimeno D Mail | 哈里梅諾鎧甲 |
 | 11386 | Deliver D Mail | 交貨鎧甲 |
 | 11387 | Asaku D Mail | 阿斯阿克鎧甲 |
-| 11388 | Desordre D Mail | 德艾斯歐鎧甲 |
-| 11389 | Haragan D Mail | 赫阿爾阿鎧甲 |
+| 11388 | Desordre D Mail | 德索德鎧甲 |
+| 11389 | Haragan D Mail | 哈拉加鎧甲 |
 | 11390 | Abuyado D Mail | 阿布烏伊鎧甲 |
 | 11391 | Ruko Z Mail | 極龍鎧甲【Ｚ】 |
 | 11392 | Ruko ZF Mail | 極龍鎧甲【ＺＦ】 |
@@ -410,20 +410,20 @@
 | 11404 | Plesioth ZF Vest | 水龍背心【ＺＦ】 |
 | 11405 | Plesioth ZY Vest | 水龍背心【ＺＹ】 |
 | 11406 | Plesioth ZX Vest | 水龍背心【ＺＸ】 |
-| 11407 | Sharufu Mail | 夏爾夫鎧甲 |
-| 11408 | Sharufu F Mail | 夏爾夫鎧甲【Ｆ】 |
-| 11409 | Sharufu FZ Mail | 夏爾夫鎧甲【ＦＺ】 |
-| 11410 | Sharufu HS Mail | 夏爾夫鎧甲【ＨＳ】 |
-| 11411 | Sharufu GS Mail | 夏爾夫鎧甲【ＧＳ】 |
-| 11412 | Sharufu GP Mail | 夏爾夫鎧甲【ＧＰ】 |
-| 11413 | Sharufu ZP Mail | 夏爾夫鎧甲【ＺＰ】 |
-| 11414 | Sharufu Vest | 夏爾夫背心 |
-| 11415 | Sharufu F Vest | 夏爾夫背心【Ｆ】 |
-| 11416 | Sharufu FZ Vest | 夏爾夫背心【ＦＺ】 |
-| 11417 | Sharufu HS Vest | 夏爾夫背心【ＨＳ】 |
-| 11418 | Sharufu GS Vest | 夏爾夫背心【ＧＳ】 |
-| 11419 | Sharufu GP Vest | 夏爾夫背心【ＧＰ】 |
-| 11420 | Sharufu ZP Vest | 夏爾夫背心【ＺＰ】 |
+| 11407 | Sharufu Mail | 夏露芙鎧甲 |
+| 11408 | Sharufu F Mail | 夏露芙鎧甲【Ｆ】 |
+| 11409 | Sharufu FZ Mail | 夏露芙鎧甲【ＦＺ】 |
+| 11410 | Sharufu HS Mail | 夏露芙鎧甲【ＨＳ】 |
+| 11411 | Sharufu GS Mail | 夏露芙鎧甲【ＧＳ】 |
+| 11412 | Sharufu GP Mail | 夏露芙鎧甲【ＧＰ】 |
+| 11413 | Sharufu ZP Mail | 夏露芙鎧甲【ＺＰ】 |
+| 11414 | Sharufu Vest | 夏露芙背心 |
+| 11415 | Sharufu F Vest | 夏露芙背心【Ｆ】 |
+| 11416 | Sharufu FZ Vest | 夏露芙背心【ＦＺ】 |
+| 11417 | Sharufu HS Vest | 夏露芙背心【ＨＳ】 |
+| 11418 | Sharufu GS Vest | 夏露芙背心【ＧＳ】 |
+| 11419 | Sharufu GP Vest | 夏露芙背心【ＧＰ】 |
+| 11420 | Sharufu ZP Vest | 夏露芙背心【ＺＰ】 |
 | 11421 | Kamara Mail | 可瑪拉鎧甲 |
 | 11422 | Kamara F Mail | 可瑪拉鎧甲【Ｆ】 |
 | 11423 | Kamara FZ Mail | 可瑪拉鎧甲【ＦＺ】 |

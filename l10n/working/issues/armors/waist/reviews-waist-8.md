@@ -6,22 +6,22 @@
 |---|---|---|
 | 3501 | Green 竜ノ Haori HC【腰 Obi 】 | 腰竜腰甲【ＨＣ】・緑 |
 | 3502 | Green 竜ノ Haori HS【腰 Obi 】 | 腰竜腰甲【ＨＳ】・緑 |
-| 3503 | Ukon Belt | 烏克歐恩腰帶 |
-| 3504 | Ukon F Belt | 烏克歐恩腰帶【Ｆ】 |
-| 3505 | Ukon FZ Belt | 烏克歐恩腰帶【ＦＺ】 |
-| 3506 | Ukon HC Belt | 烏克歐恩腰帶【ＨＣ】 |
-| 3507 | Ukon バックル | 烏克歐恩腰甲 |
-| 3508 | Ukon Fバックル | 烏克歐恩腰甲 |
-| 3509 | Ukon FZバックル | 烏克歐恩腰甲 |
-| 3510 | Ukon HCバックル | 烏克歐恩腰甲 |
-| 3511 | Ukon HS Belt | 烏克歐恩腰帶【ＨＳ】 |
-| 3512 | Ukon GS Belt | 烏克歐恩腰帶【ＧＳ】 |
-| 3513 | Ukon HSバックル | 烏克歐恩腰甲 |
-| 3514 | Ukon GSバックル | 烏克歐恩腰甲 |
+| 3503 | Ukon Belt | 古腰帶 |
+| 3504 | Ukon F Belt | 古腰帶【Ｆ】 |
+| 3505 | Ukon FZ Belt | 古腰帶【ＦＺ】 |
+| 3506 | Ukon HC Belt | 古腰帶【ＨＣ】 |
+| 3507 | Ukon バックル | 古腰甲 |
+| 3508 | Ukon Fバックル | 古腰甲 |
+| 3509 | Ukon FZバックル | 古腰甲 |
+| 3510 | Ukon HCバックル | 古腰甲 |
+| 3511 | Ukon HS Belt | 古腰帶【ＨＳ】 |
+| 3512 | Ukon GS Belt | 古腰帶【ＧＳ】 |
+| 3513 | Ukon HSバックル | 古腰甲 |
+| 3514 | Ukon GSバックル | 古腰甲 |
 | 3515 | Green 竜ノ具足GS【腰 Obi 】 | 腰竜具足腰甲・緑 |
 | 3516 | Green 竜ノ Haori GS【腰 Obi 】 | 腰竜腰甲【ＧＳ】・緑 |
-| 3517 | Roses GF Faulds | 爾歐斯艾腰甲【ＧＦ】 |
-| 3518 | Roses GF Coat | 爾歐斯艾腰衣【ＧＦ】 |
+| 3517 | Roses GF Faulds | 蘿賽腰甲【ＧＦ】 |
+| 3518 | Roses GF Coat | 蘿賽腰衣【ＧＦ】 |
 | 3519 | ダミー | (dummy) |
 | 3520 | ダミー | (dummy) |
 | 3521 | Magos Coil・Yellow | 瑪戈斯腰甲・黄 |
@@ -192,10 +192,10 @@
 | 3686 | Knight King Waist GN HC White | 騎士王腰甲【ＨＣ】・白 |
 | 3687 | Knight King Waist GN HS White | 騎士王腰甲【ＨＳ】・白 |
 | 3688 | Knight King Waist GN GS White | 騎士王腰甲【ＧＳ】・白 |
-| 3689 | ヴェルフFZ Faulds | 維爾夫腰甲【ＦＺ】 |
-| 3690 | ヴェルフHC Faulds | 維爾夫腰甲【ＨＣ】 |
-| 3691 | ヴェルフFZ Coat | 維爾夫腰衣【ＦＺ】 |
-| 3692 | ヴェルフHC Coat | 維爾夫腰衣【ＨＣ】 |
+| 3689 | ヴェルフFZ Faulds | 薇露芙腰甲【ＦＺ】 |
+| 3690 | ヴェルフHC Faulds | 薇露芙腰甲【ＨＣ】 |
+| 3691 | ヴェルフFZ Coat | 薇露芙腰衣【ＦＺ】 |
+| 3692 | ヴェルフHC Coat | 薇露芙腰衣【ＨＣ】 |
 | 3693 | テリオグFZ Faulds | 特里歐古腰甲【ＦＺ】 |
 | 3694 | テリオグHC Faulds | 特里歐古腰甲【ＨＣ】 |
 | 3695 | テリオグFZ Coat | 特里歐古腰衣【ＦＺ】 |
@@ -270,12 +270,12 @@
 | 3764 | Paria G Coat | 呑龍腰衣【Ｇ】 |
 | 3765 | Paria GF Coat | 呑龍腰衣【ＧＦ】 |
 | 3766 | Paria GX Coat | 呑龍腰衣【ＧＸ】 |
-| 3767 | Torpedo G Faulds | 特歐爾艾腰甲【Ｇ】 |
-| 3768 | Torpedo GF Faulds | 特歐爾艾腰甲【ＧＦ】 |
-| 3769 | Torpedo GX Faulds | 特歐爾艾腰甲【ＧＸ】 |
-| 3770 | Torpedo G Coat | 特歐爾艾腰衣【Ｇ】 |
-| 3771 | Torpedo GF Coat | 特歐爾艾腰衣【ＧＦ】 |
-| 3772 | Torpedo GX Coat | 特歐爾艾腰衣【ＧＸ】 |
+| 3767 | Torpedo G Faulds | 托佩多腰甲【Ｇ】 |
+| 3768 | Torpedo GF Faulds | 托佩多腰甲【ＧＦ】 |
+| 3769 | Torpedo GX Faulds | 托佩多腰甲【ＧＸ】 |
+| 3770 | Torpedo G Coat | 托佩多腰衣【Ｇ】 |
+| 3771 | Torpedo GF Coat | 托佩多腰衣【ＧＦ】 |
+| 3772 | Torpedo GX Coat | 托佩多腰衣【ＧＸ】 |
 | 3773 | Lavasioth G Faulds | 熔岩龍腰甲【Ｇ】 |
 | 3774 | Lavasioth GF Faulds | 熔岩龍腰甲【ＧＦ】 |
 | 3775 | Lavasioth GX Faulds | 熔岩龍腰甲【ＧＸ】 |
@@ -436,10 +436,10 @@
 | 3930 | 日光G【腰当て】 | 日光腰當【Ｇ】 |
 | 3931 | Wadatsumi G【丸 Obi 】 | 綿津見腰甲【Ｇ】 |
 | 3932 | Okami G【丸 Obi 】 | 狼腰甲【Ｇ】 |
-| 3933 | Lils G Faulds | 爾伊爾腰甲【Ｇ】 |
-| 3934 | Lils G Coat | 爾伊爾腰衣【Ｇ】 |
-| 3935 | Algol G Faulds | 阿爾歐爾腰甲【Ｇ】 |
-| 3936 | Algol G Coat | 阿爾歐爾腰衣【Ｇ】 |
+| 3933 | Lils G Faulds | 莉腰甲【Ｇ】 |
+| 3934 | Lils G Coat | 莉腰衣【Ｇ】 |
+| 3935 | Algol G Faulds | 戈腰甲【Ｇ】 |
+| 3936 | Algol G Coat | 戈腰衣【Ｇ】 |
 | 3937 | エミットG Faulds | 艾米托腰甲【Ｇ】 |
 | 3938 | エミットG Coat | 艾米托腰衣【Ｇ】 |
 | 3939 | Diboa G Faulds | 迪博阿腰甲【Ｇ】 |
@@ -450,8 +450,8 @@
 | 3944 | ハーデス Coil | 哈德斯腰甲 |
 | 3945 | レアー Coat | 雷阿腰衣 |
 | 3946 | ハーデス Coat | 哈德斯腰衣 |
-| 3947 | Roses GX Faulds | 爾歐斯艾腰甲【ＧＸ】 |
-| 3948 | Roses GX Coat | 爾歐斯艾腰衣【ＧＸ】 |
+| 3947 | Roses GX Faulds | 蘿賽腰甲【ＧＸ】 |
+| 3948 | Roses GX Coat | 蘿賽腰衣【ＧＸ】 |
 | 3949 | Strega G Faulds | 魔女腰甲【Ｇ】 |
 | 3950 | Strega GF Faulds | 魔女腰甲【ＧＦ】 |
 | 3951 | Strega GX Faulds | 魔女腰甲【ＧＸ】 |

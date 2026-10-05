@@ -4,7 +4,7 @@
 
 | index | 原文 | 譯文 |
 |---|---|---|
-| 0 | Nothing Equipped | 未裝備腰甲 |
+| 0 | Nothing Equipped | 未裝備 |
 | 1 | Leather Belt | 皮革腰帶 |
 | 2 | Skin Light Belt | 光膚腰帶 |
 | 3 | Chainmail Belt | 鎖鏈腰帶 |
@@ -26,7 +26,7 @@
 | 19 | High Metal Coat | 上位金屬腰衣 |
 | 20 | Gen Faulds | 源腰甲 |
 | 21 | Gen Coat | 源腰衣 |
-| 22 | Chrome Metal Coil | 奇歐姆艾腰甲 |
+| 22 | Chrome Metal Coil | 奇蘿梅梅腰甲 |
 | 23 | Kut-Ku Faulds | 怪鳥腰甲 |
 | 24 | Kut-Ku Coat | 怪鳥腰衣 |
 | 25 | Io Faulds | 伊歐腰甲 |
@@ -52,7 +52,7 @@
 | 45 | Gravios Coat | 鎧龍腰衣 |
 | 46 | Black Belt Faulds | 黑帶腰甲 |
 | 47 | Mosswine Hip | 菌豬臀甲 |
-| 48 | Melahoa Folia | 姆艾爾阿腰甲 |
+| 48 | Melahoa Folia | 梅拉霍佛腰甲 |
 | 49 | Bistro Apron | 食堂圍裙 |
 | 50 | 忍の Obi・陽 | 忍の陽帶 |
 | 51 | 忍の Obi・陰 | 忍の陰帶 |
@@ -270,7 +270,7 @@
 | 263 | ジスト Waist | 吉斯特腰甲 |
 | 264 | Missing No. | 遺失道具No.264 |
 | 265 | Extra Waist | 追加腰甲 |
-| 266 | ウナペルト Waist | 烏納佩爾特腰甲 |
+| 266 | ウナペルト Waist | 宇娜佩露腰甲 |
 | 267 | Kyuura Waist | 丘拉腰甲 |
 | 268 | Missing No. | 遺失道具No.268 |
 | 269 | Missing No. | 遺失道具No.269 |
@@ -285,8 +285,8 @@
 | 278 | Butterfly Sコクサ | 蝶腰甲 |
 | 279 | Akantor イッケク | 霸龍腰甲 |
 | 280 | Akantor イッケタリ | 霸龍腰甲 |
-| 281 | ウナペルトF Waist | 烏納佩爾特腰甲【Ｆ】 |
-| 282 | Melahoa U Folia | 姆艾爾阿腰甲【Ｕ】 |
+| 281 | ウナペルトF Waist | 宇娜佩露腰甲【Ｆ】 |
+| 282 | Melahoa U Folia | 梅拉霍佛腰甲【Ｕ】 |
 | 283 | Makluva Coil | 馬庫瓦腰甲 |
 | 284 | Makluva U Coil | 馬庫瓦腰甲【Ｕ】 |
 | 285 | Bistro U Apron | 食堂圍裙【Ｕ】 |
@@ -336,7 +336,7 @@
 | 329 | Lavasioth U Coat | 熔岩龍腰衣【Ｕ】 |
 | 330 | White Metal Coat | 白金屬腰衣 |
 | 331 | Celeste Faulds | 天空腰甲 |
-| 332 | Ciel Reflector | 克伊爾艾腰甲 |
+| 332 | Ciel Reflector | 奇蕾芙托腰甲 |
 | 333 | Comrada Belt 【 Red 】 | 戰友腰帶・赤 |
 | 334 | Comrada Belt 【 Blue 】 | 戰友腰帶・青 |
 | 335 | Comrada Belt 【 Green 】 | 戰友腰帶・緑 |

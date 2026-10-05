@@ -9,14 +9,14 @@
 | 10503 | Wander GS Suit・Black | 流浪套裝【ＧＳ】・黑 |
 | 10504 | Wander GP Suit・Black | 流浪套裝【ＧＰ】・黑 |
 | 10505 | Wander ZP Suit・Black | 流浪套裝【ＺＰ】・黑 |
-| 10506 | Gore Mail | 格歐爾艾鎧甲 |
-| 10507 | Gore G Mail | 格歐爾艾鎧甲【Ｇ】 |
-| 10508 | Gore GF Mail | 格歐爾艾鎧甲【ＧＦ】 |
-| 10509 | Gore GX Mail | 格歐爾艾鎧甲【ＧＸ】 |
-| 10510 | Gore Vest | 格歐爾艾背心 |
-| 10511 | Gore G Vest | 格歐爾艾背心【Ｇ】 |
-| 10512 | Gore GF Vest | 格歐爾艾背心【ＧＦ】 |
-| 10513 | Gore GX Vest | 格歐爾艾背心【ＧＸ】 |
+| 10506 | Gore Mail | 戈蕾鎧甲 |
+| 10507 | Gore G Mail | 戈蕾鎧甲【Ｇ】 |
+| 10508 | Gore GF Mail | 戈蕾鎧甲【ＧＦ】 |
+| 10509 | Gore GX Mail | 戈蕾鎧甲【ＧＸ】 |
+| 10510 | Gore Vest | 戈蕾背心 |
+| 10511 | Gore G Vest | 戈蕾背心【Ｇ】 |
+| 10512 | Gore GF Vest | 戈蕾背心【ＧＦ】 |
+| 10513 | Gore GX Vest | 戈蕾背心【ＧＸ】 |
 | 10514 | Zena G Mail | 茲艾恩阿鎧甲【Ｇ】 |
 | 10515 | Zena GF Mail | 茲艾恩阿鎧甲【ＧＦ】 |
 | 10516 | Zena GX Mail | 茲艾恩阿鎧甲【ＧＸ】 |
@@ -139,20 +139,20 @@
 | 10633 | Youthclad ノ肩鎧G | 伊歐斯阿鎧甲【Ｇ】 |
 | 10634 | Youthclad ノ肩鎧GF | 伊歐斯阿鎧甲【Ｆ】 |
 | 10635 | Youthclad ノ肩鎧GX | 伊歐斯阿鎧甲【ＧＸ】 |
-| 10636 | Rave Mail | 爾阿芙艾鎧甲 |
-| 10637 | Rave F Mail | 爾阿芙艾鎧甲【Ｆ】 |
-| 10638 | Rave FY Mail | 爾阿芙艾鎧甲 |
-| 10639 | Rave HS Mail | 爾阿芙艾鎧甲【ＨＳ】 |
-| 10640 | Rave G Mail | 爾阿芙艾鎧甲【Ｇ】 |
-| 10641 | Rave GF Mail | 爾阿芙艾鎧甲【ＧＦ】 |
-| 10642 | Rave GX Mail | 爾阿芙艾鎧甲【ＧＸ】 |
-| 10643 | Rave Suit | 爾阿芙艾套裝 |
-| 10644 | Rave F Suit | 爾阿芙艾套裝【Ｆ】 |
-| 10645 | Rave FY Suit | 爾阿芙艾套裝 |
-| 10646 | Rave HS Suit | 爾阿芙艾套裝【ＨＳ】 |
-| 10647 | Rave G Suit | 爾阿芙艾套裝【Ｇ】 |
-| 10648 | Rave GF Suit | 爾阿芙艾套裝【ＧＦ】 |
-| 10649 | Rave GX Suit | 爾阿芙艾套裝【ＧＸ】 |
+| 10636 | Rave Mail | 拉薇鎧甲 |
+| 10637 | Rave F Mail | 拉薇鎧甲【Ｆ】 |
+| 10638 | Rave FY Mail | 拉薇鎧甲 |
+| 10639 | Rave HS Mail | 拉薇鎧甲【ＨＳ】 |
+| 10640 | Rave G Mail | 拉薇鎧甲【Ｇ】 |
+| 10641 | Rave GF Mail | 拉薇鎧甲【ＧＦ】 |
+| 10642 | Rave GX Mail | 拉薇鎧甲【ＧＸ】 |
+| 10643 | Rave Suit | 拉薇套裝 |
+| 10644 | Rave F Suit | 拉薇套裝【Ｆ】 |
+| 10645 | Rave FY Suit | 拉薇套裝 |
+| 10646 | Rave HS Suit | 拉薇套裝【ＨＳ】 |
+| 10647 | Rave G Suit | 拉薇套裝【Ｇ】 |
+| 10648 | Rave GF Suit | 拉薇套裝【ＧＦ】 |
+| 10649 | Rave GX Suit | 拉薇套裝【ＧＸ】 |
 | 10650 | Wander D Mail・Blue | 沃阿恩艾鎧甲・青 |
 | 10651 | Wander D Mail・Red | 沃阿恩艾鎧甲・赤 |
 | 10652 | Wander D Mail・White | 沃阿恩艾鎧甲・白 |
@@ -160,7 +160,7 @@
 | 10654 | Blue Ice Emperor D Mail | 青冰帝鎧甲 |
 | 10655 | White Ice Emperor D Mail | 白冰帝鎧甲 |
 | 10656 | Red Ice Emperor D Mail | 赤冰帝鎧甲 |
-| 10657 | Rance C Jacket | 爾阿恩艾夾克 |
+| 10657 | Rance C Jacket | 拉賽夾克 |
 | 10658 | Santa D Vest | 斯阿恩阿背心 |
 | 10659 | Anteka D Vest | 雪鹿背心 |
 | 10660 | Chiarim ZP Mail | 奇亞琳鎧甲【ＺＰ】 |
@@ -174,12 +174,12 @@
 | 10668 | Katante ZY Vest | 克阿特阿背心【ＺＹ】 |
 | 10669 | Katante ZX Vest | 克阿特阿背心【ＺＸ】 |
 | 10670 | Sakufi D Mail | 斯阿克烏鎧甲 |
-| 10671 | Asumo D Mail | 阿斯烏姆鎧甲 |
+| 10671 | Asumo D Mail | 斯莫鎧甲 |
 | 10672 | Dios D Suit | 德伊斯套裝 |
-| 10673 | Asteli D Vest・White | 阿斯艾爾背心・白 |
-| 10674 | Asteli D Vest・Blue | 阿斯艾爾背心・青 |
-| 10675 | Asteli D Vest・Red | 阿斯艾爾背心・赤 |
-| 10676 | Asteli D Vest・Black | 阿斯艾爾背心・黑 |
+| 10673 | Asteli D Vest・White | 斯特莉背心・白 |
+| 10674 | Asteli D Vest・Blue | 斯特莉背心・青 |
+| 10675 | Asteli D Vest・Red | 斯特莉背心・赤 |
+| 10676 | Asteli D Vest・Black | 斯特莉背心・黑 |
 | 10677 | Lien D Vest・Blue | 爾伊恩背心・青 |
 | 10678 | Lien D Vest・Red | 爾伊恩背心・赤 |
 | 10679 | Lien D Vest・Black | 爾伊恩背心・黑 |
@@ -187,66 +187,66 @@
 | 10681 | Lien D Vest・Crimson | 爾伊恩背心・紅 |
 | 10682 | Lien D Vest・藍 | 藍背心 |
 | 10683 | Lien D Vest・Peach | 爾伊恩背心・桃 |
-| 10684 | Carrol D Suit・Black | 克阿爾歐套裝・黑 |
-| 10685 | Carrol D Suit・Blue | 克阿爾歐套裝・青 |
-| 10686 | Carrol D Suit・White | 克阿爾歐套裝・白 |
-| 10687 | Carrol D Suit・Red | 克阿爾歐套裝・赤 |
-| 10688 | Carrol D Suit・Peach | 克阿爾歐套裝・桃 |
+| 10684 | Carrol D Suit・Black | 可爾套裝・黑 |
+| 10685 | Carrol D Suit・Blue | 可爾套裝・青 |
+| 10686 | Carrol D Suit・White | 可爾套裝・白 |
+| 10687 | Carrol D Suit・Red | 可爾套裝・赤 |
+| 10688 | Carrol D Suit・Peach | 可爾套裝・桃 |
 | 10689 | Gothic D Plate | 格歐斯伊板甲 |
 | 10690 | Kirin D Vest | 麒麟背心 |
-| 10691 | Farunokku D Mail | 芙阿爾烏鎧甲 |
-| 10692 | Farunokku D Vest | 芙阿爾烏背心 |
+| 10691 | Farunokku D Mail | 法露諾克鎧甲 |
+| 10692 | Farunokku D Vest | 法露諾克背心 |
 | 10693 | Pokara D Mail | 普歐克阿鎧甲 |
 | 10694 | Pokara D Vest | 普歐克阿背心 |
-| 10695 | Genesis D【胴当て】 | 格艾恩艾胴當 |
-| 10696 | Motion D【胴当て】 | 姆歐特伊胴當 |
+| 10695 | Genesis D【胴当て】 | 蓋奈西胴當 |
+| 10696 | Motion D【胴当て】 | 莫恩胴當 |
 | 10697 | Lightning D【胴当て】 | 雷光胴當 |
 | 10698 | Thunder D【胴当て】 | 雷胴當 |
-| 10699 | Toridcless D Mail | 特歐爾伊鎧甲 |
-| 10700 | Toridcless D Vest | 特歐爾伊背心 |
+| 10699 | Toridcless D Mail | 托里克雷鎧甲 |
+| 10700 | Toridcless D Vest | 托里克雷背心 |
 | 10701 | Guan D Mail | 格烏恩鎧甲 |
 | 10702 | Guan D Vest | 格烏恩背心 |
-| 10703 | Varusa D Mail | 芙阿爾烏鎧甲 |
-| 10704 | Varusa D Vest | 芙阿爾烏背心 |
+| 10703 | Varusa D Mail | 瓦露薩鎧甲 |
+| 10704 | Varusa D Vest | 瓦露薩背心 |
 | 10705 | Toa D Mail | 特歐斯鎧甲 |
 | 10706 | Toa D Vest | 特歐斯背心 |
 | 10707 | Blitz D Vest | 布伊特背心 |
-| 10708 | Stroma D Mail | 斯歐姆阿鎧甲 |
-| 10709 | Stroma D Vest | 斯歐姆阿背心 |
+| 10708 | Stroma D Mail | 斯特瑪鎧甲 |
+| 10709 | Stroma D Vest | 斯特瑪背心 |
 | 10710 | Inagami D【胴当て】 | 雅翁龍胴當 |
 | 10711 | Inagami D【胴当て】 | 雅翁龍胴當 |
-| 10712 | Altera D Mail | 阿爾艾爾鎧甲 |
-| 10713 | Altera D Vest | 阿爾艾爾背心 |
-| 10714 | Pobo D Mail | 普歐布歐鎧甲 |
-| 10715 | Pobo D Vest | 普歐布歐背心 |
+| 10712 | Altera D Mail | 特拉鎧甲 |
+| 10713 | Altera D Vest | 特拉背心 |
+| 10714 | Pobo D Mail | 珀波鎧甲 |
+| 10715 | Pobo D Vest | 珀波背心 |
 | 10716 | Zinogre C Mail | 茲伊恩歐鎧甲 |
 | 10717 | Zinogre C Vest | 茲伊恩歐背心 |
-| 10718 | Hornetaur UD Mail | 赫歐爾艾鎧甲 |
-| 10719 | Hornetaur UD Vest | 赫歐爾艾背心 |
+| 10718 | Hornetaur UD Mail | 霍恩塔露鎧甲 |
+| 10719 | Hornetaur UD Vest | 霍恩塔露背心 |
 | 10720 | Rathalos D Mail | 爾阿斯阿鎧甲 |
 | 10721 | Rathalos D Vest | 爾阿斯阿背心 |
 | 10722 | Gogomoa D Mail | 跳緋獸鎧甲 |
 | 10723 | Gogomoa D Vest | 跳緋獸背心 |
-| 10724 | Azul D Jacket | 阿茲烏爾夾克 |
-| 10725 | Azul D Suit | 阿茲烏爾套裝 |
-| 10726 | Harvest D Mail | 赫阿爾艾鎧甲 |
-| 10727 | Harvest D Vest | 赫阿爾艾背心 |
-| 10728 | Melan D Jacket | 姆艾爾阿夾克 |
-| 10729 | Melan D Suit | 姆艾爾阿套裝 |
-| 10730 | Diru D Jacket | 德伊爾烏夾克 |
-| 10731 | Diru D Suit | 德伊爾烏套裝 |
+| 10724 | Azul D Jacket | 茲夾克 |
+| 10725 | Azul D Suit | 茲套裝 |
+| 10726 | Harvest D Mail | 哈薇鎧甲 |
+| 10727 | Harvest D Vest | 哈薇背心 |
+| 10728 | Melan D Jacket | 梅拉恩德夾克 |
+| 10729 | Melan D Suit | 梅拉恩德套裝 |
+| 10730 | Diru D Jacket | 迪露夾克 |
+| 10731 | Diru D Suit | 迪露套裝 |
 | 10732 | Tandress D Mail | 特阿恩艾鎧甲 |
 | 10733 | Tandress D Vest | 特阿恩艾背心 |
-| 10734 | Rance D Jacket | 爾阿恩艾夾克 |
-| 10735 | Rance D Suit | 爾阿恩艾套裝 |
+| 10734 | Rance D Jacket | 拉賽夾克 |
+| 10735 | Rance D Suit | 拉賽套裝 |
 | 10736 | Ganeto D Jacket | 格阿恩艾夾克 |
 | 10737 | Ganeto D Suit | 格阿恩艾套裝 |
-| 10738 | Chiru D Jacket | 奇伊爾烏夾克 |
-| 10739 | Chiru D Suit | 奇伊爾烏套裝 |
+| 10738 | Chiru D Jacket | 奇露夾克 |
+| 10739 | Chiru D Suit | 奇露套裝 |
 | 10740 | Shiusu D Jacket | 夏伊斯烏夾克 |
 | 10741 | Shiusu D Suit | 夏伊斯烏套裝 |
 | 10742 | Once D Mail・無 | 無鎧甲 |
-| 10743 | Pale Sakura D【 Haori 】 | 普阿爾艾羽織 |
+| 10743 | Pale Sakura D【 Haori 】 | 拍勒薩克羽織 |
 | 10744 | Pelegri Mail | 佩勒格里鎧甲 |
 | 10745 | Pelegri F Mail | 佩勒格里鎧甲【Ｆ】 |
 | 10746 | Pelegri FZ Mail | 佩勒格里鎧甲【ＦＺ】 |
@@ -281,7 +281,7 @@
 | 10775 | Wasou Chestplate ZP | 和裝胸甲【ＺＰ】 |
 | 10776 | Howla D Suit | 赫歐沃阿套裝 |
 | 10777 | Panse D Suit | 普阿恩艾套裝 |
-| 10778 | Marriage D Suit | 姆阿爾伊套裝 |
+| 10778 | Marriage D Suit | 瑪爾蓋套裝 |
 | 10779 | Yukine D Vest | 雪音背心 |
 | 10780 | Snow Miku D Vest | 雪初音背心 |
 | 10781 | Miku D Vest | 初音未來背心 |
@@ -290,13 +290,13 @@
 | 10784 | Felyne D Mail | 艾路猫鎧甲 |
 | 10785 | Tabby D Mail | 特阿布鎧甲 |
 | 10786 | Brown D Mail | 布歐沃鎧甲 |
-| 10787 | Calico D Mail | 克阿爾伊鎧甲 |
-| 10788 | Monotone D Mail | 姆歐恩歐鎧甲 |
+| 10787 | Calico D Mail | 可莉古鎧甲 |
+| 10788 | Monotone D Mail | 莫諾托奈鎧甲 |
 | 10789 | Chashiro D Mail | 奇阿夏伊鎧甲 |
-| 10790 | Two-tone D Mail | 特歐斯歐鎧甲 |
+| 10790 | Two-tone D Mail | 沃托奈鎧甲 |
 | 10791 | Bistro D Vest | 布伊斯歐背心 |
 | 10792 | King Beetle D Thorax | 王甲蟲胸甲 |
-| 10793 | Butterfly D Thorax | 布烏特艾胸甲 |
+| 10793 | Butterfly D Thorax | 布特芙胸甲 |
 | 10794 | Demon Lord ノ肩鎧D | 魔王鎧甲 |
 | 10795 | Demon Tale ノ肩鎧D | 魔譚鎧甲 |
 | 10796 | 鬼凛ノ肩鎧D | 鬼凛肩鎧鎧甲 |
@@ -306,8 +306,8 @@
 | 10800 | Kaiser C Vest | 克阿斯艾背心 |
 | 10801 | Dragon D Hide | 龍皮衣 |
 | 10802 | Dragon D Skin | 龍皮 |
-| 10803 | Nargacuga C Mail | 恩阿爾阿鎧甲 |
-| 10804 | Nargacuga C Vest | 恩阿爾阿背心 |
+| 10803 | Nargacuga C Mail | 娜加庫加鎧甲 |
+| 10804 | Nargacuga C Vest | 娜加庫加背心 |
 | 10805 | Burning Cliff GX【胴当て】 | 燃崖胴當【ＧＸ】 |
 | 10806 | Crimson Cliff GX【胴当て】 | 深紅崖胴當【ＧＸ】 |
 | 10807 | Vashimu Z Mail | 尾晶蠍鎧甲【Ｚ】 |
@@ -326,20 +326,20 @@
 | 10820 | Tigrex ZF Vest | 轟龍背心【ＺＦ】 |
 | 10821 | Tigrex ZY Vest | 轟龍背心【ＺＹ】 |
 | 10822 | Tigrex ZX Vest | 轟龍背心【ＺＸ】 |
-| 10823 | Adel Mail | 阿黛爾鎧甲 |
-| 10824 | Adel F Mail | 阿黛爾鎧甲【Ｆ】 |
-| 10825 | Adel FZ Mail | 阿黛爾鎧甲【ＦＺ】 |
-| 10826 | Adel HS Mail | 阿黛爾鎧甲【ＨＳ】 |
-| 10827 | Adel GS Mail | 阿黛爾鎧甲【ＧＳ】 |
-| 10828 | Adel GP Mail | 阿黛爾鎧甲【ＧＰ】 |
-| 10829 | Adel ZP Mail | 阿黛爾鎧甲【ＺＰ】 |
-| 10830 | Adel Vest | 阿黛爾背心 |
-| 10831 | Adel F Vest | 阿黛爾背心【Ｆ】 |
-| 10832 | Adel FZ Vest | 阿黛爾背心【ＦＺ】 |
-| 10833 | Adel HS Vest | 阿黛爾背心【ＨＳ】 |
-| 10834 | Adel GS Vest | 阿黛爾背心【ＧＳ】 |
-| 10835 | Adel GP Vest | 阿黛爾背心【ＧＰ】 |
-| 10836 | Adel ZP Vest | 阿黛爾背心【ＺＰ】 |
+| 10823 | Adel Mail | 亞德露鎧甲 |
+| 10824 | Adel F Mail | 亞德露鎧甲【Ｆ】 |
+| 10825 | Adel FZ Mail | 亞德露鎧甲【ＦＺ】 |
+| 10826 | Adel HS Mail | 亞德露鎧甲【ＨＳ】 |
+| 10827 | Adel GS Mail | 亞德露鎧甲【ＧＳ】 |
+| 10828 | Adel GP Mail | 亞德露鎧甲【ＧＰ】 |
+| 10829 | Adel ZP Mail | 亞德露鎧甲【ＺＰ】 |
+| 10830 | Adel Vest | 亞德露背心 |
+| 10831 | Adel F Vest | 亞德露背心【Ｆ】 |
+| 10832 | Adel FZ Vest | 亞德露背心【ＦＺ】 |
+| 10833 | Adel HS Vest | 亞德露背心【ＨＳ】 |
+| 10834 | Adel GS Vest | 亞德露背心【ＧＳ】 |
+| 10835 | Adel GP Vest | 亞德露背心【ＧＰ】 |
+| 10836 | Adel ZP Vest | 亞德露背心【ＺＰ】 |
 | 10837 | Rocbouquet Vest | 蘿克布凱背心 |
 | 10838 | Rocbouquet F Vest | 蘿克布凱背心【Ｆ】 |
 | 10839 | Rocbouquet FZ Vest | 蘿克布凱背心【ＦＺ】 |
@@ -354,20 +354,20 @@
 | 10848 | Rocbouquet GS Suit | 蘿克布凱套裝【ＧＳ】 |
 | 10849 | Rocbouquet GP Suit | 蘿克布凱套裝【ＧＰ】 |
 | 10850 | Rocbouquet ZP Suit | 蘿克布凱套裝【ＺＰ】 |
-| 10851 | Alkaiser Vest | 阿爾凱撒背心 |
-| 10852 | Alkaiser F Vest | 阿爾凱撒背心【Ｆ】 |
-| 10853 | Alkaiser FZ Vest | 阿爾凱撒背心【ＦＺ】 |
-| 10854 | Alkaiser HS Vest | 阿爾凱撒背心【ＨＳ】 |
-| 10855 | Alkaiser GS Vest | 阿爾凱撒背心【ＧＳ】 |
-| 10856 | Alkaiser GP Vest | 阿爾凱撒背心【ＧＰ】 |
-| 10857 | Alkaiser ZP Vest | 阿爾凱撒背心【ＺＰ】 |
-| 10858 | Alkaiser Suit | 阿爾凱撒套裝 |
-| 10859 | Alkaiser F Suit | 阿爾凱撒套裝【Ｆ】 |
-| 10860 | Alkaiser FZ Suit | 阿爾凱撒套裝【ＦＺ】 |
-| 10861 | Alkaiser HS Suit | 阿爾凱撒套裝【ＨＳ】 |
-| 10862 | Alkaiser GS Suit | 阿爾凱撒套裝【ＧＳ】 |
-| 10863 | Alkaiser GP Suit | 阿爾凱撒套裝【ＧＰ】 |
-| 10864 | Alkaiser ZP Suit | 阿爾凱撒套裝【ＺＰ】 |
+| 10851 | Alkaiser Vest | 亞露可伊背心 |
+| 10852 | Alkaiser F Vest | 亞露可伊背心【Ｆ】 |
+| 10853 | Alkaiser FZ Vest | 亞露可伊背心【ＦＺ】 |
+| 10854 | Alkaiser HS Vest | 亞露可伊背心【ＨＳ】 |
+| 10855 | Alkaiser GS Vest | 亞露可伊背心【ＧＳ】 |
+| 10856 | Alkaiser GP Vest | 亞露可伊背心【ＧＰ】 |
+| 10857 | Alkaiser ZP Vest | 亞露可伊背心【ＺＰ】 |
+| 10858 | Alkaiser Suit | 亞露可伊套裝 |
+| 10859 | Alkaiser F Suit | 亞露可伊套裝【Ｆ】 |
+| 10860 | Alkaiser FZ Suit | 亞露可伊套裝【ＦＺ】 |
+| 10861 | Alkaiser HS Suit | 亞露可伊套裝【ＨＳ】 |
+| 10862 | Alkaiser GS Suit | 亞露可伊套裝【ＧＳ】 |
+| 10863 | Alkaiser GP Suit | 亞露可伊套裝【ＧＰ】 |
+| 10864 | Alkaiser ZP Suit | 亞露可伊套裝【ＺＰ】 |
 | 10865 | Claudia Vest | 克勞蒂亞背心 |
 | 10866 | Claudia F Vest | 克勞蒂亞背心【Ｆ】 |
 | 10867 | Claudia FZ Vest | 克勞蒂亞背心【ＦＺ】 |
@@ -416,7 +416,7 @@
 | 10910 | Vichi ZP Vest | 維奇背心【ＺＰ】 |
 | 10911 | Lapine ZP Suit | 兔套裝【ＺＰ】 |
 | 10912 | Lapine ZP Vest | 兔背心【ＺＰ】 |
-| 10913 | Beil ZP Brigantes | 布艾爾伊鎧甲【ＺＰ】 |
+| 10913 | Beil ZP Brigantes | 貝布加特鎧甲【ＺＰ】 |
 | 10914 | Pashio Mail | 普阿夏伊鎧甲 |
 | 10915 | Pashio F Mail | 普阿夏伊鎧甲【Ｆ】 |
 | 10916 | Pashio FY Mail | 普阿夏伊鎧甲 |
@@ -431,40 +431,40 @@
 | 10925 | Pashio G Vest | 普阿夏伊背心【Ｇ】 |
 | 10926 | Pashio GF Vest | 普阿夏伊背心【ＧＦ】 |
 | 10927 | Pashio GX Vest | 普阿夏伊背心【ＧＸ】 |
-| 10928 | Harudo D Mail | 赫阿爾烏鎧甲 |
-| 10929 | Harudo D Vest | 赫阿爾烏背心 |
-| 10930 | Elegance D【胴当て】 | 艾爾艾格胴當 |
+| 10928 | Harudo D Mail | 哈露多鎧甲 |
+| 10929 | Harudo D Vest | 哈露多背心 |
+| 10930 | Elegance D【胴当て】 | 勒加賽胴當 |
 | 10931 | Grace D【胴当て】 | 恩寵胴當 |
-| 10932 | Meraginasu D Mail | 姆艾爾阿鎧甲 |
-| 10933 | Meraginasu D Vest | 姆艾爾阿背心 |
-| 10934 | Hesyumu D Mail | 赫艾斯烏鎧甲 |
+| 10932 | Meraginasu D Mail | 梅拉吉娜鎧甲 |
+| 10933 | Meraginasu D Vest | 梅拉吉娜背心 |
+| 10934 | Hesyumu D Mail | 赫尤姆鎧甲 |
 | 10935 | Kasamie D Suit | 克阿斯阿套裝 |
-| 10936 | Cielo D Mail | 克伊爾歐鎧甲 |
+| 10936 | Cielo D Mail | 奇蘿鎧甲 |
 | 10937 | Vichi D Mail | 芙伊奇伊鎧甲 |
-| 10938 | Adel D Mail | 阿德艾爾鎧甲 |
-| 10939 | Rocbouquet D Vest | 爾歐克歐背心 |
-| 10940 | Alkaiser D Vest | 阿爾阿斯背心 |
+| 10938 | Adel D Mail | 德鎧甲 |
+| 10939 | Rocbouquet D Vest | 蘿波奎背心 |
+| 10940 | Alkaiser D Vest | 克艾賽背心 |
 | 10941 | Claudia D Vest | 克阿德伊背心 |
 | 10942 | Kinosu D Mail | 克伊恩歐鎧甲 |
-| 10943 | Himeros D Mail | 赫伊姆艾鎧甲 |
-| 10944 | Charien D Vest | 奇阿爾伊背心 |
-| 10945 | Arietta D Suit | 阿爾伊特套裝 |
+| 10943 | Himeros D Mail | 希梅蘿鎧甲 |
+| 10944 | Charien D Vest | 夏里恩德背心 |
+| 10945 | Arietta D Suit | 里特套裝 |
 | 10946 | Craft D Mail | 工匠鎧甲 |
 | 10947 | Shieri D Mail | 夏伊爾伊鎧甲 |
-| 10948 | Pupen D Mail | 普烏普艾鎧甲 |
-| 10949 | Moss Covered D Mail | 姆歐斯歐鎧甲 |
-| 10950 | Excelle D Mail | 艾克斯艾鎧甲 |
-| 10951 | Ordre D Mail | 歐爾艾斯鎧甲 |
-| 10952 | Rath Duo D Mail | 爾阿斯烏鎧甲 |
+| 10948 | Pupen D Mail | 普佩恩德鎧甲 |
+| 10949 | Moss Covered D Mail | 莫斯古薇鎧甲 |
+| 10950 | Excelle D Mail | 克斯賽爾鎧甲 |
+| 10951 | Ordre D Mail | 德鎧甲 |
+| 10952 | Rath Duo D Mail | 拉斯杜鎧甲 |
 | 10953 | Atra D Mail | 阿特阿斯鎧甲 |
 | 10954 | Madaru D Mail | 姆阿德阿鎧甲 |
 | 10955 | Shasse D Mail | 夏阿斯艾鎧甲 |
-| 10956 | Orchesis D Mail | 歐爾艾斯鎧甲 |
+| 10956 | Orchesis D Mail | 切西鎧甲 |
 | 10957 | Blize D Mail | 布伊茲艾鎧甲 |
 | 10958 | Quoiz D Mail | 斯烏茲鎧甲 |
-| 10959 | Kalais D Mail | 克阿爾阿鎧甲 |
-| 10960 | Lucchese D Mail | 爾烏克艾鎧甲 |
-| 10961 | Entora D Mail | 艾恩歐爾鎧甲 |
+| 10959 | Kalais D Mail | 可拉鎧甲 |
+| 10960 | Lucchese D Mail | 露切賽鎧甲 |
+| 10961 | Entora D Mail | 托拉鎧甲 |
 | 10962 | YoRHa No.9 Type S Vest | 寄葉九號型背心【Ｓ】 |
 | 10963 | YoRHa No.9 Type S F Vest | 寄葉九號型背心【Ｆ】 |
 | 10964 | YoRHa No.9 Type S FZ Vest | 寄葉九號型背心【ＦＺ】 |

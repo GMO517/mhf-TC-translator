@@ -379,16 +379,16 @@
 | 7373 | Blink HS Guard | 布伊恩臂甲【ＨＳ】 |
 | 7374 | Blink GS Guard | 布伊恩臂甲【ＧＳ】 |
 | 7375 | Blink GP Guard | 布伊恩臂甲【ＧＰ】 |
-| 7376 | Ukon GP Punch | 烏克歐恩拳套【ＧＰ】 |
-| 7377 | Ukon GP Hands | 烏克歐恩手甲【ＧＰ】 |
+| 7376 | Ukon GP Punch | 古拳套【ＧＰ】 |
+| 7377 | Ukon GP Hands | 古手甲【ＧＰ】 |
 | 7378 | ロットGP Punch | 羅托拳套【ＧＰ】 |
 | 7379 | ロットGP Hands | 羅托手甲【ＧＰ】 |
-| 7380 | Arge HS Arms | 阿爾傑護腕【ＨＳ】 |
-| 7381 | Arge GS Arms | 阿爾傑護腕【ＧＳ】 |
-| 7382 | Arge GP Arms | 阿爾傑護腕【ＧＰ】 |
-| 7383 | Arge HS Guard | 阿爾傑臂甲【ＨＳ】 |
-| 7384 | Arge GS Guard | 阿爾傑臂甲【ＧＳ】 |
-| 7385 | Arge GP Guard | 阿爾傑臂甲【ＧＰ】 |
+| 7380 | Arge HS Arms | 亞潔護腕【ＨＳ】 |
+| 7381 | Arge GS Arms | 亞潔護腕【ＧＳ】 |
+| 7382 | Arge GP Arms | 亞潔護腕【ＧＰ】 |
+| 7383 | Arge HS Guard | 亞潔臂甲【ＨＳ】 |
+| 7384 | Arge GS Guard | 亞潔臂甲【ＧＳ】 |
+| 7385 | Arge GP Guard | 亞潔臂甲【ＧＰ】 |
 | 7386 | Camarera HS Arms | 可瑪蕾拉護腕【ＨＳ】 |
 | 7387 | Camarera GS Arms | 可瑪蕾拉護腕【ＧＳ】 |
 | 7388 | Camarera GP Arms | 可瑪蕾拉護腕【ＧＰ】 |
@@ -428,30 +428,30 @@
 | 7422 | Breo G Arms | 布艾護腕【Ｇ】 |
 | 7423 | Breo GF Arms | 布艾護腕【ＧＦ】 |
 | 7424 | Breo GX Arms | 布艾護腕【ＧＸ】 |
-| 7425 | Harokyu Arms | 赫阿爾歐護腕 |
-| 7426 | Harokyu F Arms | 赫阿爾歐護腕【Ｆ】 |
-| 7427 | Harokyu FY Arms | 赫阿爾歐護腕 |
-| 7428 | Harokyu HS Arms | 赫阿爾歐護腕【ＨＳ】 |
-| 7429 | Harokyu G Arms | 赫阿爾歐護腕【Ｇ】 |
-| 7430 | Harokyu GF Arms | 赫阿爾歐護腕【ＧＦ】 |
-| 7431 | Harokyu GX Arms | 赫阿爾歐護腕【ＧＸ】 |
+| 7425 | Harokyu Arms | 哈蘿尤護腕 |
+| 7426 | Harokyu F Arms | 哈蘿尤護腕【Ｆ】 |
+| 7427 | Harokyu FY Arms | 哈蘿尤護腕 |
+| 7428 | Harokyu HS Arms | 哈蘿尤護腕【ＨＳ】 |
+| 7429 | Harokyu G Arms | 哈蘿尤護腕【Ｇ】 |
+| 7430 | Harokyu GF Arms | 哈蘿尤護腕【ＧＦ】 |
+| 7431 | Harokyu GX Arms | 哈蘿尤護腕【ＧＸ】 |
 | 7432 | Brooke グローブ | 溪手套 |
 | 7433 | Brooke Fグローブ | 溪手套【Ｆ】 |
-| 7434 | Brooke FYグローブ | 布歐克艾手套 |
+| 7434 | Brooke FYグローブ | 古蘿布手套 |
 | 7435 | Brooke HSグローブ | 溪手套【ＨＳ】 |
 | 7436 | Brooke Gグローブ | 溪手套【Ｇ】 |
 | 7437 | Brooke GFグローブ | 溪手套【ＧＦ】 |
 | 7438 | Brooke GXグローブ | 溪手套【ＧＸ】 |
 | 7439 | Brooke ミトン | 溪手套 |
 | 7440 | Brooke Fミトン | 溪手套【Ｆ】 |
-| 7441 | Brooke FYミトン | 布歐克艾手套 |
+| 7441 | Brooke FYミトン | 古蘿布手套 |
 | 7442 | Brooke HSミトン | 溪手套【ＨＳ】 |
 | 7443 | Brooke Gミトン | 溪手套【Ｇ】 |
 | 7444 | Brooke GFミトン | 溪手套【ＧＦ】 |
 | 7445 | Brooke GXミトン | 溪手套【ＧＸ】 |
 | 7446 | Pale Sakura [Sleeve 】 | 淡櫻袖 |
 | 7447 | Pale Sakura F [Sleeve 】 | 淡櫻袖【Ｆ】 |
-| 7448 | Pale Sakura FY [Sleeve 】 | 普阿爾艾袖 |
+| 7448 | Pale Sakura FY [Sleeve 】 | 拍勒薩克袖 |
 | 7449 | Pale Sakura HS [Sleeve 】 | 淡櫻袖【ＨＳ】 |
 | 7450 | Pale Sakura G [Sleeve 】 | 淡櫻袖【Ｇ】 |
 | 7451 | Pale Sakura GF [Sleeve 】 | 淡櫻袖【ＧＦ】 |
@@ -479,29 +479,29 @@
 | 7473 | Kinioru GX Guard | 基尼奧魯臂甲【ＧＸ】 |
 | 7474 | Kaioru Arms | 凱奧魯護腕 |
 | 7475 | Kaioru F Arms | 凱奧魯護腕【Ｆ】 |
-| 7476 | Kaioru FY Arms | 克阿爾烏護腕 |
+| 7476 | Kaioru FY Arms | 可露護腕 |
 | 7477 | Kaioru HS Arms | 凱奧魯護腕【ＨＳ】 |
 | 7478 | Kaioru G Arms | 凱奧魯護腕【Ｇ】 |
 | 7479 | Kaioru GF Arms | 凱奧魯護腕【ＧＦ】 |
 | 7480 | Kaioru GX Arms | 凱奧魯護腕【ＧＸ】 |
 | 7481 | Kaioru Guard | 凱奧魯臂甲 |
 | 7482 | Kaioru F Guard | 凱奧魯臂甲【Ｆ】 |
-| 7483 | Kaioru FY Guard | 克阿爾烏臂甲 |
+| 7483 | Kaioru FY Guard | 可露臂甲 |
 | 7484 | Kaioru HS Guard | 凱奧魯臂甲【ＨＳ】 |
 | 7485 | Kaioru G Guard | 凱奧魯臂甲【Ｇ】 |
 | 7486 | Kaioru GF Guard | 凱奧魯臂甲【ＧＦ】 |
 | 7487 | Kaioru GX Guard | 凱奧魯臂甲【ＧＸ】 |
-| 7488 | Yurisu Arms | 伊烏爾伊護腕 |
-| 7489 | Yurisu F Arms | 伊烏爾伊護腕【Ｆ】 |
-| 7490 | Yurisu FY Arms | 伊烏爾伊護腕 |
-| 7491 | Yurisu HS Arms | 伊烏爾伊護腕【ＨＳ】 |
-| 7492 | Yurisu G Arms | 伊烏爾伊護腕【Ｇ】 |
-| 7493 | Yurisu GF Arms | 伊烏爾伊護腕【ＧＦ】 |
-| 7494 | Yurisu GX Arms | 伊烏爾伊護腕【ＧＸ】 |
-| 7495 | Yurisu Guard | 伊烏爾伊臂甲 |
-| 7496 | Yurisu F Guard | 伊烏爾伊臂甲【Ｆ】 |
-| 7497 | Yurisu FY Guard | 伊烏爾伊臂甲 |
-| 7498 | Yurisu HS Guard | 伊烏爾伊臂甲【ＨＳ】 |
-| 7499 | Yurisu G Guard | 伊烏爾伊臂甲【Ｇ】 |
-| 7500 | Yurisu GF Guard | 伊烏爾伊臂甲【ＧＦ】 |
+| 7488 | Yurisu Arms | 尤里斯護腕 |
+| 7489 | Yurisu F Arms | 尤里斯護腕【Ｆ】 |
+| 7490 | Yurisu FY Arms | 尤里斯護腕 |
+| 7491 | Yurisu HS Arms | 尤里斯護腕【ＨＳ】 |
+| 7492 | Yurisu G Arms | 尤里斯護腕【Ｇ】 |
+| 7493 | Yurisu GF Arms | 尤里斯護腕【ＧＦ】 |
+| 7494 | Yurisu GX Arms | 尤里斯護腕【ＧＸ】 |
+| 7495 | Yurisu Guard | 尤里斯臂甲 |
+| 7496 | Yurisu F Guard | 尤里斯臂甲【Ｆ】 |
+| 7497 | Yurisu FY Guard | 尤里斯臂甲 |
+| 7498 | Yurisu HS Guard | 尤里斯臂甲【ＨＳ】 |
+| 7499 | Yurisu G Guard | 尤里斯臂甲【Ｇ】 |
+| 7500 | Yurisu GF Guard | 尤里斯臂甲【ＧＦ】 |
 

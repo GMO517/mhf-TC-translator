@@ -4,8 +4,8 @@
 
 | index | 原文 | 譯文 |
 |---|---|---|
-| 500 | Crowley Arms・White | 克歐沃艾護腕・白 |
-| 501 | Crowley Arms・Blue | 克歐沃艾護腕・青 |
+| 500 | Crowley Arms・White | 克勒護腕・白 |
+| 501 | Crowley Arms・Blue | 克勒護腕・青 |
 | 502 | Faust Guard・Red | 芙阿斯臂甲・赤 |
 | 503 | Faust Guard・Black | 芙阿斯臂甲・黑 |
 | 504 | Faust Guard・Green | 芙阿斯臂甲・緑 |
@@ -102,9 +102,9 @@
 | 595 | Butterfly L Brachia | 蝶臂甲【Ｌ】 |
 | 596 | Hypnoc R Arms | 眠鳥護腕【Ｒ】 |
 | 597 | ダミー | (dummy) |
-| 598 | ディジ Gear Arms | 格艾爾護腕 |
-| 599 | Priere Arms | 普伊爾艾護腕 |
-| 600 | Salvacion Arms | 斯阿爾阿護腕 |
+| 598 | ディジ Gear Arms | 蓋護腕 |
+| 599 | Priere Arms | 普蕾護腕 |
+| 600 | Salvacion Arms | 薩瓦奇護腕 |
 | 601 | Shikari Kote | 夏伊克阿籠手 |
 | 602 | Shikari Kote・魁 | 夏伊克阿籠手魁 |
 | 603 | G・Guard R Claws Green | 克阿沃臂甲【Ｒ】・緑 |
@@ -116,8 +116,8 @@
 | 609 | Arma Guard・Blue | 武裝臂甲・青 |
 | 610 | Arma Arms・Tea | 武裝護腕・茶 |
 | 611 | Arma Guard・Tea | 武裝臂甲・茶 |
-| 612 | Orden Arms | 歐爾艾恩護腕 |
-| 613 | Orden Guard | 歐爾艾恩臂甲 |
+| 612 | Orden Arms | 奧登護腕 |
+| 613 | Orden Guard | 奧登臂甲 |
 | 614 | Arma F Arms・Black | 武裝護腕【Ｆ】・黑 |
 | 615 | Arma F Guard・Black | 武裝臂甲【Ｆ】・黑 |
 | 616 | Arma F Arms・White | 武裝護腕【Ｆ】・白 |
@@ -126,10 +126,10 @@
 | 619 | Arma F Guard・Blue | 武裝臂甲【Ｆ】・青 |
 | 620 | Arma F Arms・Tea | 武裝護腕【Ｆ】・茶 |
 | 621 | Arma F Guard・Tea | 武裝臂甲【Ｆ】・茶 |
-| 622 | Orden F Arms | 歐爾艾恩護腕【Ｆ】 |
-| 623 | Orden F Guard | 歐爾艾恩臂甲【Ｆ】 |
-| 624 | Es Quera Arms | 艾斯烏爾護腕 |
-| 625 | Es Quera Guard | 艾斯烏爾臂甲 |
+| 622 | Orden F Arms | 奧登護腕【Ｆ】 |
+| 623 | Orden F Guard | 奧登臂甲【Ｆ】 |
+| 624 | Es Quera Arms | 奎拉護腕 |
+| 625 | Es Quera Guard | 奎拉臂甲 |
 | 626 | Pandeum Arms | 普阿恩艾護腕 |
 | 627 | Pandeum Guard | 普阿恩艾臂甲 |
 | 628 | Gospel Arms SP Black | 福音護腕【ＳＰ】・黑 |
@@ -146,30 +146,30 @@
 | 639 | G・Guard R Claws Green | 克阿沃臂甲【Ｒ】・緑 |
 | 640 | Khezu L Guard | 奇怪龍臂甲【Ｌ】 |
 | 641 | Io R Guard | 伊歐臂甲【Ｒ】 |
-| 642 | Purokusu Arms | 普烏爾歐護腕 |
-| 643 | Purokusu F Arms | 普烏爾歐護腕【Ｆ】 |
-| 644 | Kurenesu Arms | 克烏爾艾護腕 |
-| 645 | Kurenesu F Arms | 克烏爾艾護腕【Ｆ】 |
+| 642 | Purokusu Arms | 普蘿克斯護腕 |
+| 643 | Purokusu F Arms | 普蘿克斯護腕【Ｆ】 |
+| 644 | Kurenesu Arms | 克蕾奈斯護腕 |
+| 645 | Kurenesu F Arms | 克蕾奈斯護腕【Ｆ】 |
 | 646 | Suini Arms | 斯烏恩伊護腕 |
 | 647 | Suini F Arms | 斯烏恩伊護腕【Ｆ】 |
-| 648 | Guraasu Guard | 格烏爾阿臂甲 |
-| 649 | Guraasu F Guard | 格烏爾阿臂甲【Ｆ】 |
-| 650 | Forutu Arms | 芙歐爾烏護腕 |
-| 651 | Forutu F Arms | 芙歐爾烏護腕【Ｆ】 |
+| 648 | Guraasu Guard | 古拉斯臂甲 |
+| 649 | Guraasu F Guard | 古拉斯臂甲【Ｆ】 |
+| 650 | Forutu Arms | 佛露圖護腕 |
+| 651 | Forutu F Arms | 佛露圖護腕【Ｆ】 |
 | 652 | Fakiru Arms | 芙阿克伊護腕 |
 | 653 | Fakiru F Arms | 芙阿克伊護腕【Ｆ】 |
-| 654 | Baraban Arms | 布阿爾阿護腕 |
-| 655 | Baraban F Arms | 布阿爾阿護腕【Ｆ】 |
-| 656 | Sufera Guard | 斯烏芙艾臂甲 |
-| 657 | Sufera F Guard | 斯烏芙艾臂甲【Ｆ】 |
+| 654 | Baraban Arms | 巴拉巴護腕 |
+| 655 | Baraban F Arms | 巴拉巴護腕【Ｆ】 |
+| 656 | Sufera Guard | 斯菲拉臂甲 |
+| 657 | Sufera F Guard | 斯菲拉臂甲【Ｆ】 |
 | 658 | Paria Arms | 呑龍護腕 |
 | 659 | Paria F Arms | 呑龍護腕【Ｆ】 |
 | 660 | Paria Guard | 呑龍臂甲 |
 | 661 | Paria F Guard | 呑龍臂甲【Ｆ】 |
-| 662 | Hypnolia Arms | 赫歐爾伊護腕 |
-| 663 | Hypnolia Guard | 赫歐爾伊臂甲 |
-| 664 | Feral Arms | 芙艾爾阿護腕 |
-| 665 | Feral Guard | 芙艾爾阿臂甲 |
+| 662 | Hypnolia Arms | 諾莉護腕 |
+| 663 | Hypnolia Guard | 諾莉臂甲 |
+| 664 | Feral Arms | 菲拉護腕 |
+| 665 | Feral Guard | 菲拉臂甲 |
 | 666 | Demon Lord Kote | 魔王籠手 |
 | 667 | Rasta 教官腕 | 教官腕護腕 |
 | 668 | 童子ノ Kote | 童子籠手 |
@@ -230,32 +230,32 @@
 | 723 | Wild Arms | 狂野護腕 |
 | 724 | Guns Guard | 格烏恩臂甲 |
 | 725 | Wild Guard | 狂野臂甲 |
-| 726 | Ecole Arms | 艾克歐爾護腕 |
+| 726 | Ecole Arms | 古勒護腕 |
 | 727 | Dian Arms | 德伊恩護腕 |
-| 728 | Ecole Guard | 艾克歐爾臂甲 |
+| 728 | Ecole Guard | 古勒臂甲 |
 | 729 | Dian Guard | 德伊恩臂甲 |
-| 730 | Core Arms C | 克歐爾艾護腕 |
-| 731 | Core Guard C | 克歐爾艾臂甲 |
-| 732 | Core Arms | 克歐爾艾護腕 |
-| 733 | Core Guard | 克歐爾艾臂甲 |
+| 730 | Core Arms C | 古蕾護腕 |
+| 731 | Core Guard C | 古蕾臂甲 |
+| 732 | Core Arms | 古蕾護腕 |
+| 733 | Core Guard | 古蕾臂甲 |
 | 734 | Aneshisu Arms | 阿恩艾夏護腕 |
 | 735 | Aneshisu Guard | 阿恩艾夏臂甲 |
-| 736 | Kuraaji Arms | 克烏爾阿護腕 |
+| 736 | Kuraaji Arms | 克拉護腕 |
 | 737 | Kuraaji Arms 改 | 改護腕 |
-| 738 | Kuraaji F Arms | 克烏爾阿護腕【Ｆ】 |
-| 739 | Kuraaji Guard | 克烏爾阿臂甲 |
+| 738 | Kuraaji F Arms | 克拉護腕【Ｆ】 |
+| 739 | Kuraaji Guard | 克拉臂甲 |
 | 740 | Kuraaji Guard 改 | 改臂甲 |
-| 741 | Kuraaji F Guard | 克烏爾阿臂甲【Ｆ】 |
+| 741 | Kuraaji F Guard | 克拉臂甲【Ｆ】 |
 | 742 | Kinosu Arms | 克伊恩歐護腕 |
-| 743 | Himeros Arms | 赫伊姆艾護腕 |
-| 744 | Bureshisu Arms | 布烏爾艾護腕 |
+| 743 | Himeros Arms | 希梅蘿護腕 |
+| 744 | Bureshisu Arms | 布蕾修斯護腕 |
 | 745 | Charien Guard | 夏里安臂甲 |
-| 746 | Arietta Arms | 阿爾伊特護腕 |
+| 746 | Arietta Arms | 里特護腕 |
 | 747 | Tempest Arms | 暴風雨護腕 |
-| 748 | Vento Guard | 芙艾恩歐臂甲 |
+| 748 | Vento Guard | 薇托臂甲 |
 | 749 | Mistral Guard | 姆伊斯阿臂甲 |
-| 750 | Arc Arms | 阿爾護腕 |
-| 751 | Arc Guard | 阿爾臂甲 |
+| 750 | Arc Arms | 亞克護腕 |
+| 751 | Arc Guard | 亞克臂甲 |
 | 752 | Rath Duo Arms | 雙火龍護腕 |
 | 753 | Rath Duo Guard | 雙火龍臂甲 |
 | 754 | Shaln Arms・Blue | 夏爾恩護腕・青 |
@@ -294,10 +294,10 @@
 | 787 | Real F Arms・Red | 真護腕【Ｆ】・赤 |
 | 788 | Real Guard・Red | 真臂甲・赤 |
 | 789 | Real F Guard・Red | 真臂甲【Ｆ】・赤 |
-| 790 | Regis Arms | 爾艾格伊護腕 |
-| 791 | Regis F Arms | 爾艾格伊護腕【Ｆ】 |
-| 792 | Regis Guard | 爾艾格伊臂甲 |
-| 793 | Regis F Guard | 爾艾格伊臂甲【Ｆ】 |
+| 790 | Regis Arms | 蕾吉護腕 |
+| 791 | Regis F Arms | 蕾吉護腕【Ｆ】 |
+| 792 | Regis Guard | 蕾吉臂甲 |
+| 793 | Regis F Guard | 蕾吉臂甲【Ｆ】 |
 | 794 | Comrade Arms 【葉】 | 戰友護腕 |
 | 795 | Comrade Arms 【柑】 | 戰友護腕 |
 | 796 | Comrade Arms 【冷】 | 戰友護腕 |
@@ -329,19 +329,19 @@
 | 822 | Ceanataur L Guard | 鎌蟹臂甲【Ｌ】 |
 | 823 | Rath Heart R Guard | 火龍心臂甲【Ｒ】 |
 | 824 | Bone R Guard | 骨製臂甲【Ｒ】 |
-| 825 | Buran Arms | 布烏爾阿護腕 |
+| 825 | Buran Arms | 布拉護腕 |
 | 826 | White Belt Arms | 白帶護腕 |
 | 827 | Kagura 【 Kote 】 | 神樂籠手 |
 | 828 | Kagura・覇【 Kote 】 | 神樂籠手 |
 | 829 | Kamiza 【 Kote 】 | 上座籠手 |
 | 830 | Kamiza・覇【 Kote 】 | 上座籠手 |
-| 831 | アスハルテ Arms | 阿斯哈爾特護腕 |
-| 832 | アスハルテ Guard | 阿斯哈爾特臂甲 |
+| 831 | アスハルテ Arms | 亞斯哈露護腕 |
+| 832 | アスハルテ Guard | 亞斯哈露臂甲 |
 | 833 | ローク Arms | 洛可護腕 |
 | 834 | ローク Guard | 洛可臂甲 |
-| 835 | Soldato Arms | 斯歐爾阿護腕 |
+| 835 | Soldato Arms | 索達托護腕 |
 | 836 | Gable Arms | 格阿布艾護腕 |
-| 837 | Soldato Guard | 斯歐爾阿臂甲 |
+| 837 | Soldato Guard | 索達托臂甲 |
 | 838 | Gable Guard | 格阿布艾臂甲 |
 | 839 | Uida Arms | 烏德阿護腕 |
 | 840 | スティーダ Arms | 斯蒂達護腕 |
@@ -355,16 +355,16 @@
 | 848 | Fias Arms | 芙伊斯護腕 |
 | 849 | Fauve Guard | 芙阿芙艾臂甲 |
 | 850 | Fias Guard | 芙伊斯臂甲 |
-| 851 | フィデル Arms | 菲德爾護腕 |
-| 852 | フィデルF Arms | 菲德爾護腕【Ｆ】 |
+| 851 | フィデル Arms | 菲德露護腕 |
+| 852 | フィデルF Arms | 菲德露護腕【Ｆ】 |
 | 853 | ファクト Arms | 法克特護腕 |
 | 854 | ファクトF Arms | 法克特護腕【Ｆ】 |
 | 855 | シュロス Arms | 舒羅斯護腕 |
 | 856 | シュロスF Arms | 舒羅斯護腕【Ｆ】 |
 | 857 | アエトス Guard | 阿埃托斯臂甲 |
 | 858 | アエトスF Guard | 阿埃托斯臂甲【Ｆ】 |
-| 859 | ヴェルス Arms | 維爾斯護腕 |
-| 860 | ヴェルスF Arms | 維爾斯護腕【Ｆ】 |
+| 859 | ヴェルス Arms | 薇露斯護腕 |
+| 860 | ヴェルスF Arms | 薇露斯護腕【Ｆ】 |
 | 861 | フラントArms | 芙拉恩托護腕 |
 | 862 | フラントF Arms | 芙拉恩托護腕【Ｆ】 |
 | 863 | セリュー Arms | 塞里尤護腕 |
@@ -391,22 +391,22 @@
 | 884 | リエーザF Arms | 里耶薩護腕【Ｆ】 |
 | 885 | リエーザ Guard | 里耶薩臂甲 |
 | 886 | リエーザF Guard | 里耶薩臂甲【Ｆ】 |
-| 887 | Claire Arms・Purple | 克蕾爾護腕・紫 |
-| 888 | Claire F Arms・Purple | 克蕾爾護腕【Ｆ】・紫 |
-| 889 | Claire Guard・Purple | 克蕾爾臂甲・紫 |
-| 890 | Claire F Guard・Purple | 克蕾爾臂甲【Ｆ】・紫 |
-| 891 | Claire Arms・Water | 克蕾爾護腕・水 |
-| 892 | Claire F Arms・Water | 克蕾爾護腕【Ｆ】・水 |
-| 893 | Claire Guard・Water | 克蕾爾臂甲・水 |
-| 894 | Claire F Guard・Water | 克蕾爾臂甲【Ｆ】・水 |
-| 895 | Claire Arms・Red | 克蕾爾護腕・赤 |
-| 896 | Claire F Arms・Red | 克蕾爾護腕【Ｆ】・赤 |
-| 897 | Claire Guard・Red | 克蕾爾臂甲・赤 |
-| 898 | Claire F Guard・Red | 克蕾爾臂甲【Ｆ】・赤 |
-| 899 | Claire Arms・Black | 克蕾爾護腕・黑 |
-| 900 | Claire F Arms・Black | 克蕾爾護腕【Ｆ】・黑 |
-| 901 | Claire Guard・Black | 克蕾爾臂甲・黑 |
-| 902 | Claire F Guard・Black | 克蕾爾臂甲【Ｆ】・黑 |
+| 887 | Claire Arms・Purple | 克蕾露護腕・紫 |
+| 888 | Claire F Arms・Purple | 克蕾露護腕【Ｆ】・紫 |
+| 889 | Claire Guard・Purple | 克蕾露臂甲・紫 |
+| 890 | Claire F Guard・Purple | 克蕾露臂甲【Ｆ】・紫 |
+| 891 | Claire Arms・Water | 克蕾露護腕・水 |
+| 892 | Claire F Arms・Water | 克蕾露護腕【Ｆ】・水 |
+| 893 | Claire Guard・Water | 克蕾露臂甲・水 |
+| 894 | Claire F Guard・Water | 克蕾露臂甲【Ｆ】・水 |
+| 895 | Claire Arms・Red | 克蕾露護腕・赤 |
+| 896 | Claire F Arms・Red | 克蕾露護腕【Ｆ】・赤 |
+| 897 | Claire Guard・Red | 克蕾露臂甲・赤 |
+| 898 | Claire F Guard・Red | 克蕾露臂甲【Ｆ】・赤 |
+| 899 | Claire Arms・Black | 克蕾露護腕・黑 |
+| 900 | Claire F Arms・Black | 克蕾露護腕【Ｆ】・黑 |
+| 901 | Claire Guard・Black | 克蕾露臂甲・黑 |
+| 902 | Claire F Guard・Black | 克蕾露臂甲【Ｆ】・黑 |
 | 903 | Desert Arms | 沙漠護腕 |
 | 904 | Desert F Arms | 沙漠護腕【Ｆ】 |
 | 905 | Desert Guard | 沙漠臂甲 |
@@ -437,9 +437,9 @@
 | 930 | ヴィリヴラ Guard | 維里夫拉臂甲 |
 | 931 | Angriff Guard | 阿恩伊芙臂甲 |
 | 932 | Schutz Arms | 施烏特護腕 |
-| 933 | Hilfe Arms | 赫伊爾艾護腕 |
+| 933 | Hilfe Arms | 希菲護腕 |
 | 934 | Schutz Guard | 施烏特臂甲 |
-| 935 | Hilfe Guard | 赫伊爾艾臂甲 |
+| 935 | Hilfe Guard | 希菲臂甲 |
 | 936 | Makluva R Sleeve | 馬庫瓦袖【Ｒ】 |
 | 937 | Raviente Arms | 大巖龍護腕 |
 | 938 | Raviente F Arms | 大巖龍護腕【Ｆ】 |
@@ -449,26 +449,26 @@
 | 942 | Raviente FX Guard | 大巖龍臂甲【ＦＸ】 |
 | 943 | アナキ Arms | 阿納基護腕 |
 | 944 | アナキ Guard | 阿納基臂甲 |
-| 945 | Harvest Arms | 赫阿爾艾護腕 |
-| 946 | Harvest Guard | 赫阿爾艾臂甲 |
+| 945 | Harvest Arms | 哈薇護腕 |
+| 946 | Harvest Guard | 哈薇臂甲 |
 | 947 | Craft Arms | 工匠護腕 |
 | 948 | Craft F Arms | 工匠護腕【Ｆ】 |
 | 949 | Craft Guard | 工匠臂甲 |
 | 950 | Craft F Guard | 工匠臂甲【Ｆ】 |
-| 951 | Ledia Arms | 爾艾德伊護腕 |
-| 952 | Ledia F Arms | 爾艾德伊護腕【Ｆ】 |
-| 953 | Ledia Guard | 爾艾德伊臂甲 |
-| 954 | Ledia F Guard | 爾艾德伊臂甲【Ｆ】 |
+| 951 | Ledia Arms | 勒迪護腕 |
+| 952 | Ledia F Arms | 勒迪護腕【Ｆ】 |
+| 953 | Ledia Guard | 勒迪臂甲 |
+| 954 | Ledia F Guard | 勒迪臂甲【Ｆ】 |
 | 955 | ティーア Arms | 蒂亞護腕 |
-| 956 | Viruto Arms | 芙伊爾烏護腕 |
+| 956 | Viruto Arms | 薇露托護腕 |
 | 957 | ティーア Guard | 蒂亞臂甲 |
-| 958 | Viruto Guard | 芙伊爾烏臂甲 |
-| 959 | Muse Arms | 姆烏斯艾護腕 |
-| 960 | Tune Arms | 特烏恩艾護腕 |
+| 958 | Viruto Guard | 薇露托臂甲 |
+| 959 | Muse Arms | 姆賽護腕 |
+| 960 | Tune Arms | 圖奈護腕 |
 | 961 | ゼーレ Guard | 澤勒臂甲 |
 | 962 | Schnite Guard | 施伊特艾臂甲 |
-| 963 | アセルス Arms | 阿塞爾斯護腕 |
-| 964 | アセルスF Arms | 阿塞爾斯護腕【Ｆ】 |
+| 963 | アセルス Arms | 亞賽露斯護腕 |
+| 964 | アセルスF Arms | 亞賽露斯護腕【Ｆ】 |
 | 965 | スクラ Arms | 斯庫拉護腕 |
 | 966 | スクラF Arms | 斯庫拉護腕【Ｆ】 |
 | 967 | ファルム Arms | 法魯姆護腕 |

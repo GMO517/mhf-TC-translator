@@ -256,30 +256,30 @@
 | 8750 | AB Layer HS GN Waist White | 層甲腰甲【ＨＳ】・白 |
 | 8751 | AB Layer GS GN Waist White | 層甲腰甲【ＧＳ】・白 |
 | 8752 | AB Layer GP GN Waist White | 層甲腰甲【ＧＰ】・白 |
-| 8753 | Bronte Coil | 布歐恩艾腰甲 |
-| 8754 | Bronte F Coil | 布歐恩艾腰甲【Ｆ】 |
-| 8755 | Bronte FZ Coil | 布歐恩艾腰甲【ＦＺ】 |
-| 8756 | Bronte HS Coil | 布歐恩艾腰甲【ＨＳ】 |
-| 8757 | Bronte GS Coil | 布歐恩艾腰甲【ＧＳ】 |
-| 8758 | Bronte GP Coil | 布歐恩艾腰甲【ＧＰ】 |
-| 8759 | Bronte Coat | 布歐恩艾腰衣 |
-| 8760 | Bronte F Coat | 布歐恩艾腰衣【Ｆ】 |
-| 8761 | Bronte FZ Coat | 布歐恩艾腰衣【ＦＺ】 |
-| 8762 | Bronte HS Coat | 布歐恩艾腰衣【ＨＳ】 |
-| 8763 | Bronte GS Coat | 布歐恩艾腰衣【ＧＳ】 |
-| 8764 | Bronte GP Coat | 布歐恩艾腰衣【ＧＰ】 |
-| 8765 | Solene Coil | 斯歐爾艾腰甲 |
-| 8766 | Solene F Coil | 斯歐爾艾腰甲【Ｆ】 |
-| 8767 | Solene FZ Coil | 斯歐爾艾腰甲【ＦＺ】 |
-| 8768 | Solene HS Coil | 斯歐爾艾腰甲【ＨＳ】 |
-| 8769 | Solene GS Coil | 斯歐爾艾腰甲【ＧＳ】 |
-| 8770 | Solene GP Coil | 斯歐爾艾腰甲【ＧＰ】 |
-| 8771 | Solene Coat | 斯歐爾艾腰衣 |
-| 8772 | Solene F Coat | 斯歐爾艾腰衣【Ｆ】 |
-| 8773 | Solene FZ Coat | 斯歐爾艾腰衣【ＦＺ】 |
-| 8774 | Solene HS Coat | 斯歐爾艾腰衣【ＨＳ】 |
-| 8775 | Solene GS Coat | 斯歐爾艾腰衣【ＧＳ】 |
-| 8776 | Solene GP Coat | 斯歐爾艾腰衣【ＧＰ】 |
+| 8753 | Bronte Coil | 布羅特腰甲 |
+| 8754 | Bronte F Coil | 布羅特腰甲【Ｆ】 |
+| 8755 | Bronte FZ Coil | 布羅特腰甲【ＦＺ】 |
+| 8756 | Bronte HS Coil | 布羅特腰甲【ＨＳ】 |
+| 8757 | Bronte GS Coil | 布羅特腰甲【ＧＳ】 |
+| 8758 | Bronte GP Coil | 布羅特腰甲【ＧＰ】 |
+| 8759 | Bronte Coat | 布羅特腰衣 |
+| 8760 | Bronte F Coat | 布羅特腰衣【Ｆ】 |
+| 8761 | Bronte FZ Coat | 布羅特腰衣【ＦＺ】 |
+| 8762 | Bronte HS Coat | 布羅特腰衣【ＨＳ】 |
+| 8763 | Bronte GS Coat | 布羅特腰衣【ＧＳ】 |
+| 8764 | Bronte GP Coat | 布羅特腰衣【ＧＰ】 |
+| 8765 | Solene Coil | 索勒奈腰甲 |
+| 8766 | Solene F Coil | 索勒奈腰甲【Ｆ】 |
+| 8767 | Solene FZ Coil | 索勒奈腰甲【ＦＺ】 |
+| 8768 | Solene HS Coil | 索勒奈腰甲【ＨＳ】 |
+| 8769 | Solene GS Coil | 索勒奈腰甲【ＧＳ】 |
+| 8770 | Solene GP Coil | 索勒奈腰甲【ＧＰ】 |
+| 8771 | Solene Coat | 索勒奈腰衣 |
+| 8772 | Solene F Coat | 索勒奈腰衣【Ｆ】 |
+| 8773 | Solene FZ Coat | 索勒奈腰衣【ＦＺ】 |
+| 8774 | Solene HS Coat | 索勒奈腰衣【ＨＳ】 |
+| 8775 | Solene GS Coat | 索勒奈腰衣【ＧＳ】 |
+| 8776 | Solene GP Coat | 索勒奈腰衣【ＧＰ】 |
 | 8777 | Lapine Belt | 兔腰帶 |
 | 8778 | Lapine F Belt | 兔腰帶【Ｆ】 |
 | 8779 | Lapine FZ Belt | 兔腰帶【ＦＺ】 |
@@ -304,68 +304,68 @@
 | 8798 | Yukumo ノオビG・Heaven | 結雲天腰甲【Ｇ】 |
 | 8799 | Yukumo ノオビGF・Heaven | 結雲天腰甲【Ｆ】 |
 | 8800 | Yukumo ノオビGX・Heaven | 結雲天腰甲【ＧＸ】 |
-| 8801 | Furogada G Coil | 芙烏爾歐腰甲【Ｇ】 |
-| 8802 | Furogada GF Coil | 芙烏爾歐腰甲【ＧＦ】 |
-| 8803 | Furogada GX Coil | 芙烏爾歐腰甲【ＧＸ】 |
+| 8801 | Furogada G Coil | 芙蘿加達腰甲【Ｇ】 |
+| 8802 | Furogada GF Coil | 芙蘿加達腰甲【ＧＦ】 |
+| 8803 | Furogada GX Coil | 芙蘿加達腰甲【ＧＸ】 |
 | 8804 | Yukumo ノオビ・Earth | 結雲地腰甲 |
 | 8805 | Yukumo ノオビG・Earth | 結雲地腰甲【Ｇ】 |
 | 8806 | Yukumo ノオビGF・Earth | 結雲地腰甲【Ｆ】 |
 | 8807 | Yukumo ノオビGX・Earth | 結雲地腰甲【ＧＸ】 |
-| 8808 | Furogada G Coat | 芙烏爾歐腰衣【Ｇ】 |
-| 8809 | Furogada GF Coat | 芙烏爾歐腰衣【ＧＦ】 |
-| 8810 | Furogada GX Coat | 芙烏爾歐腰衣【ＧＸ】 |
+| 8808 | Furogada G Coat | 芙蘿加達腰衣【Ｇ】 |
+| 8809 | Furogada GF Coat | 芙蘿加達腰衣【ＧＦ】 |
+| 8810 | Furogada GX Coat | 芙蘿加達腰衣【ＧＸ】 |
 | 8811 | ダミー | (dummy) |
 | 8812 | ダミー | (dummy) |
 | 8813 | ダミー | (dummy) |
 | 8814 | ダミー | (dummy) |
-| 8815 | Rance G Faulds | 爾阿恩艾腰甲【Ｇ】 |
-| 8816 | Rance GF Faulds | 爾阿恩艾腰甲【ＧＦ】 |
-| 8817 | Rance GX Faulds | 爾阿恩艾腰甲【ＧＸ】 |
+| 8815 | Rance G Faulds | 拉賽腰甲【Ｇ】 |
+| 8816 | Rance GF Faulds | 拉賽腰甲【ＧＦ】 |
+| 8817 | Rance GX Faulds | 拉賽腰甲【ＧＸ】 |
 | 8818 | ダミー | (dummy) |
 | 8819 | ダミー | (dummy) |
 | 8820 | ダミー | (dummy) |
 | 8821 | ダミー | (dummy) |
-| 8822 | Rance G Coat | 爾阿恩艾腰衣【Ｇ】 |
-| 8823 | Rance GF Coat | 爾阿恩艾腰衣【ＧＦ】 |
-| 8824 | Rance GX Coat | 爾阿恩艾腰衣【ＧＸ】 |
-| 8825 | Meirida Faulds | 姆艾爾伊腰甲 |
-| 8826 | Meirida F Faulds | 姆艾爾伊腰甲【Ｆ】 |
-| 8827 | Meirida FY Faulds | 姆艾爾伊腰甲 |
-| 8828 | Meirida HS Faulds | 姆艾爾伊腰甲【ＨＳ】 |
-| 8829 | Meirida G Faulds | 姆艾爾伊腰甲【Ｇ】 |
-| 8830 | Meirida GF Faulds | 姆艾爾伊腰甲【ＧＦ】 |
-| 8831 | Meirida GX Faulds | 姆艾爾伊腰甲【ＧＸ】 |
-| 8832 | Meirida Coat | 姆艾爾伊腰衣 |
-| 8833 | Meirida F Coat | 姆艾爾伊腰衣【Ｆ】 |
-| 8834 | Meirida FY Coat | 姆艾爾伊腰衣 |
-| 8835 | Meirida HS Coat | 姆艾爾伊腰衣【ＨＳ】 |
-| 8836 | Meirida G Coat | 姆艾爾伊腰衣【Ｇ】 |
-| 8837 | Meirida GF Coat | 姆艾爾伊腰衣【ＧＦ】 |
-| 8838 | Meirida GX Coat | 姆艾爾伊腰衣【ＧＸ】 |
-| 8839 | Maaden Faulds | 姆阿德艾腰甲 |
-| 8840 | Maaden F Faulds | 姆阿德艾腰甲【Ｆ】 |
-| 8841 | Maaden FY Faulds | 姆阿德艾腰甲 |
-| 8842 | Maaden HS Faulds | 姆阿德艾腰甲【ＨＳ】 |
-| 8843 | Maaden G Faulds | 姆阿德艾腰甲【Ｇ】 |
-| 8844 | Maaden GF Faulds | 姆阿德艾腰甲【ＧＦ】 |
-| 8845 | Maaden GX Faulds | 姆阿德艾腰甲【ＧＸ】 |
-| 8846 | Maaden Coat | 姆阿德艾腰衣 |
-| 8847 | Maaden F Coat | 姆阿德艾腰衣【Ｆ】 |
-| 8848 | Maaden FY Coat | 姆阿德艾腰衣 |
-| 8849 | Maaden HS Coat | 姆阿德艾腰衣【ＨＳ】 |
-| 8850 | Maaden G Coat | 姆阿德艾腰衣【Ｇ】 |
-| 8851 | Maaden GF Coat | 姆阿德艾腰衣【ＧＦ】 |
-| 8852 | Maaden GX Coat | 姆阿德艾腰衣【ＧＸ】 |
+| 8822 | Rance G Coat | 拉賽腰衣【Ｇ】 |
+| 8823 | Rance GF Coat | 拉賽腰衣【ＧＦ】 |
+| 8824 | Rance GX Coat | 拉賽腰衣【ＧＸ】 |
+| 8825 | Meirida Faulds | 梅里達腰甲 |
+| 8826 | Meirida F Faulds | 梅里達腰甲【Ｆ】 |
+| 8827 | Meirida FY Faulds | 梅里達腰甲 |
+| 8828 | Meirida HS Faulds | 梅里達腰甲【ＨＳ】 |
+| 8829 | Meirida G Faulds | 梅里達腰甲【Ｇ】 |
+| 8830 | Meirida GF Faulds | 梅里達腰甲【ＧＦ】 |
+| 8831 | Meirida GX Faulds | 梅里達腰甲【ＧＸ】 |
+| 8832 | Meirida Coat | 梅里達腰衣 |
+| 8833 | Meirida F Coat | 梅里達腰衣【Ｆ】 |
+| 8834 | Meirida FY Coat | 梅里達腰衣 |
+| 8835 | Meirida HS Coat | 梅里達腰衣【ＨＳ】 |
+| 8836 | Meirida G Coat | 梅里達腰衣【Ｇ】 |
+| 8837 | Meirida GF Coat | 梅里達腰衣【ＧＦ】 |
+| 8838 | Meirida GX Coat | 梅里達腰衣【ＧＸ】 |
+| 8839 | Maaden Faulds | 瑪德腰甲 |
+| 8840 | Maaden F Faulds | 瑪德腰甲【Ｆ】 |
+| 8841 | Maaden FY Faulds | 瑪德腰甲 |
+| 8842 | Maaden HS Faulds | 瑪德腰甲【ＨＳ】 |
+| 8843 | Maaden G Faulds | 瑪德腰甲【Ｇ】 |
+| 8844 | Maaden GF Faulds | 瑪德腰甲【ＧＦ】 |
+| 8845 | Maaden GX Faulds | 瑪德腰甲【ＧＸ】 |
+| 8846 | Maaden Coat | 瑪德腰衣 |
+| 8847 | Maaden F Coat | 瑪德腰衣【Ｆ】 |
+| 8848 | Maaden FY Coat | 瑪德腰衣 |
+| 8849 | Maaden HS Coat | 瑪德腰衣【ＨＳ】 |
+| 8850 | Maaden G Coat | 瑪德腰衣【Ｇ】 |
+| 8851 | Maaden GF Coat | 瑪德腰衣【ＧＦ】 |
+| 8852 | Maaden GX Coat | 瑪德腰衣【ＧＸ】 |
 | 8853 | Kosho 【 Obi 】 | 古書帶 |
 | 8854 | Kosho F【 Obi 】 | 古書帶【Ｆ】 |
-| 8855 | Kosho FY【 Obi 】 | 克歐夏歐帶 |
+| 8855 | Kosho FY【 Obi 】 | 古修帶 |
 | 8856 | Kosho HS【 Obi 】 | 古書帶【ＨＳ】 |
 | 8857 | Kosho G【 Obi 】 | 古書帶【Ｇ】 |
 | 8858 | Kosho GF【 Obi 】 | 古書帶【ＧＦ】 |
 | 8859 | Kosho GX【 Obi 】 | 古書帶【ＧＸ】 |
 | 8860 | Koro [Obi 】 | 孤狼帶 |
 | 8861 | Koro F [Obi 】 | 孤狼帶【Ｆ】 |
-| 8862 | Koro FY [Obi 】 | 克歐爾歐帶 |
+| 8862 | Koro FY [Obi 】 | 古蘿帶 |
 | 8863 | Koro HS [Obi 】 | 孤狼帶【ＨＳ】 |
 | 8864 | Koro G [Obi 】 | 孤狼帶【Ｇ】 |
 | 8865 | Koro GF [Obi 】 | 孤狼帶【ＧＦ】 |
@@ -384,20 +384,20 @@
 | 8878 | Abuyado G Coat | 阿布烏伊腰衣【Ｇ】 |
 | 8879 | Abuyado GF Coat | 阿布烏伊腰衣【ＧＦ】 |
 | 8880 | Abuyado GX Coat | 阿布烏伊腰衣【ＧＸ】 |
-| 8881 | Gorukku Faulds | 格歐爾烏腰甲 |
-| 8882 | Gorukku F Faulds | 格歐爾烏腰甲【Ｆ】 |
-| 8883 | Gorukku FY Faulds | 格歐爾烏腰甲 |
-| 8884 | Gorukku HS Faulds | 格歐爾烏腰甲【ＨＳ】 |
-| 8885 | Gorukku G Faulds | 格歐爾烏腰甲【Ｇ】 |
-| 8886 | Gorukku GF Faulds | 格歐爾烏腰甲【ＧＦ】 |
-| 8887 | Gorukku GX Faulds | 格歐爾烏腰甲【ＧＸ】 |
-| 8888 | Gorukku Coat | 格歐爾烏腰衣 |
-| 8889 | Gorukku F Coat | 格歐爾烏腰衣【Ｆ】 |
-| 8890 | Gorukku FY Coat | 格歐爾烏腰衣 |
-| 8891 | Gorukku HS Coat | 格歐爾烏腰衣【ＨＳ】 |
-| 8892 | Gorukku G Coat | 格歐爾烏腰衣【Ｇ】 |
-| 8893 | Gorukku GF Coat | 格歐爾烏腰衣【ＧＦ】 |
-| 8894 | Gorukku GX Coat | 格歐爾烏腰衣【ＧＸ】 |
+| 8881 | Gorukku Faulds | 古蘿布腰甲 |
+| 8882 | Gorukku F Faulds | 古蘿布腰甲【Ｆ】 |
+| 8883 | Gorukku FY Faulds | 古蘿布腰甲 |
+| 8884 | Gorukku HS Faulds | 古蘿布腰甲【ＨＳ】 |
+| 8885 | Gorukku G Faulds | 古蘿布腰甲【Ｇ】 |
+| 8886 | Gorukku GF Faulds | 古蘿布腰甲【ＧＦ】 |
+| 8887 | Gorukku GX Faulds | 古蘿布腰甲【ＧＸ】 |
+| 8888 | Gorukku Coat | 古蘿布腰衣 |
+| 8889 | Gorukku F Coat | 古蘿布腰衣【Ｆ】 |
+| 8890 | Gorukku FY Coat | 古蘿布腰衣 |
+| 8891 | Gorukku HS Coat | 古蘿布腰衣【ＨＳ】 |
+| 8892 | Gorukku G Coat | 古蘿布腰衣【Ｇ】 |
+| 8893 | Gorukku GF Coat | 古蘿布腰衣【ＧＦ】 |
+| 8894 | Gorukku GX Coat | 古蘿布腰衣【ＧＸ】 |
 | 8895 | Shimashima Waist | 夏伊姆阿腰甲 |
 | 8896 | Shimashima F Waist | 夏伊姆阿腰甲【Ｆ】 |
 | 8897 | Shimashima FY Waist | 夏伊姆阿腰甲 |
@@ -412,12 +412,12 @@
 | 8906 | Shimashima G Coat | 夏伊姆阿腰衣【Ｇ】 |
 | 8907 | Shimashima GF Coat | 夏伊姆阿腰衣【ＧＦ】 |
 | 8908 | Shimashima GX Coat | 夏伊姆阿腰衣【ＧＸ】 |
-| 8909 | Rath Duo FY Coil | 爾阿斯烏腰甲 |
+| 8909 | Rath Duo FY Coil | 拉斯杜腰甲 |
 | 8910 | Rath Duo HS Coil | 雙火龍腰甲【ＨＳ】 |
 | 8911 | Rath Duo G Coil | 雙火龍腰甲【Ｇ】 |
 | 8912 | Rath Duo GF Coil | 雙火龍腰甲【ＧＦ】 |
 | 8913 | Rath Duo GX Coil | 雙火龍腰甲【ＧＸ】 |
-| 8914 | Rath Duo FY Coat | 爾阿斯烏腰衣 |
+| 8914 | Rath Duo FY Coat | 拉斯杜腰衣 |
 | 8915 | Rath Duo HS Coat | 雙火龍腰衣【ＨＳ】 |
 | 8916 | Rath Duo G Coat | 雙火龍腰衣【Ｇ】 |
 | 8917 | Rath Duo GF Coat | 雙火龍腰衣【ＧＦ】 |
@@ -430,20 +430,20 @@
 | 8924 | Tandress G Coat | 坦德蕾絲腰衣【Ｇ】 |
 | 8925 | Tandress GF Coat | 坦德蕾絲腰衣【ＧＦ】 |
 | 8926 | Tandress GX Coat | 坦德蕾絲腰衣【ＧＸ】 |
-| 8927 | Ranvuo Coil | 爾阿恩烏腰甲 |
-| 8928 | Ranvuo F Coil | 爾阿恩烏腰甲【Ｆ】 |
-| 8929 | Ranvuo FY Coil | 爾阿恩烏腰甲 |
-| 8930 | Ranvuo HS Coil | 爾阿恩烏腰甲【ＨＳ】 |
-| 8931 | Ranvuo G Coil | 爾阿恩烏腰甲【Ｇ】 |
-| 8932 | Ranvuo GF Coil | 爾阿恩烏腰甲【ＧＦ】 |
-| 8933 | Ranvuo GX Coil | 爾阿恩烏腰甲【ＧＸ】 |
-| 8934 | Ranvuo Coat | 爾阿恩烏腰衣 |
-| 8935 | Ranvuo F Coat | 爾阿恩烏腰衣【Ｆ】 |
-| 8936 | Ranvuo FY Coat | 爾阿恩烏腰衣 |
-| 8937 | Ranvuo HS Coat | 爾阿恩烏腰衣【ＨＳ】 |
-| 8938 | Ranvuo G Coat | 爾阿恩烏腰衣【Ｇ】 |
-| 8939 | Ranvuo GF Coat | 爾阿恩烏腰衣【ＧＦ】 |
-| 8940 | Ranvuo GX Coat | 爾阿恩烏腰衣【ＧＸ】 |
+| 8927 | Ranvuo Coil | 拉腰甲 |
+| 8928 | Ranvuo F Coil | 拉腰甲【Ｆ】 |
+| 8929 | Ranvuo FY Coil | 拉腰甲 |
+| 8930 | Ranvuo HS Coil | 拉腰甲【ＨＳ】 |
+| 8931 | Ranvuo G Coil | 拉腰甲【Ｇ】 |
+| 8932 | Ranvuo GF Coil | 拉腰甲【ＧＦ】 |
+| 8933 | Ranvuo GX Coil | 拉腰甲【ＧＸ】 |
+| 8934 | Ranvuo Coat | 拉腰衣 |
+| 8935 | Ranvuo F Coat | 拉腰衣【Ｆ】 |
+| 8936 | Ranvuo FY Coat | 拉腰衣 |
+| 8937 | Ranvuo HS Coat | 拉腰衣【ＨＳ】 |
+| 8938 | Ranvuo G Coat | 拉腰衣【Ｇ】 |
+| 8939 | Ranvuo GF Coat | 拉腰衣【ＧＦ】 |
+| 8940 | Ranvuo GX Coat | 拉腰衣【ＧＸ】 |
 | 8941 | Nyui Coil | 恩烏腰甲 |
 | 8942 | Nyui F Coil | 恩烏腰甲【Ｆ】 |
 | 8943 | Nyui FY Coil | 恩烏斯腰甲 |
@@ -474,8 +474,8 @@
 | 8968 | Nympha GX Coat | 恩阿腰衣【ＧＸ】 |
 | 8969 | Harudo GX Faulds | 司銀龍腰甲【ＧＸ】 |
 | 8970 | Harudo GX Coat | 司銀龍腰衣【ＧＸ】 |
-| 8971 | Gureado GX Faulds | 格烏爾艾腰甲【ＧＸ】 |
-| 8972 | Gureado GX Coat | 格烏爾艾腰衣【ＧＸ】 |
+| 8971 | Gureado GX Faulds | 古蕾多腰甲【ＧＸ】 |
+| 8972 | Gureado GX Coat | 古蕾多腰衣【ＧＸ】 |
 | 8973 | Pics GP Coil・Green | 皮克斯腰甲【ＧＰ】・緑 |
 | 8974 | Pics GP Coat・Green | 皮克斯腰衣【ＧＰ】・緑 |
 | 8975 | Pics GP Coil・Purple | 皮克斯腰甲【ＧＰ】・紫 |

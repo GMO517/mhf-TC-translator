@@ -55,20 +55,20 @@
 | 13549 | Finis GS Coat | 終焉腰衣【ＧＳ】 |
 | 13550 | Finis GP Coat | 終焉腰衣【ＧＰ】 |
 | 13551 | Finis ZP Coat | 終焉腰衣【ＺＰ】 |
-| 13552 | Firl Coil | 菲爾腰甲 |
-| 13553 | Firl F Coil | 菲爾腰甲【Ｆ】 |
-| 13554 | Firl FZ Coil | 菲爾腰甲【ＦＺ】 |
-| 13555 | Firl HS Coil | 菲爾腰甲【ＨＳ】 |
-| 13556 | Firl GS Coil | 菲爾腰甲【ＧＳ】 |
-| 13557 | Firl GP Coil | 菲爾腰甲【ＧＰ】 |
-| 13558 | Firl ZP Coil | 菲爾腰甲【ＺＰ】 |
-| 13559 | Firl Coat | 菲爾腰衣 |
-| 13560 | Firl F Coat | 菲爾腰衣【Ｆ】 |
-| 13561 | Firl FZ Coat | 菲爾腰衣【ＦＺ】 |
-| 13562 | Firl HS Coat | 菲爾腰衣【ＨＳ】 |
-| 13563 | Firl GS Coat | 菲爾腰衣【ＧＳ】 |
-| 13564 | Firl GP Coat | 菲爾腰衣【ＧＰ】 |
-| 13565 | Firl ZP Coat | 菲爾腰衣【ＺＰ】 |
+| 13552 | Firl Coil | 菲露腰甲 |
+| 13553 | Firl F Coil | 菲露腰甲【Ｆ】 |
+| 13554 | Firl FZ Coil | 菲露腰甲【ＦＺ】 |
+| 13555 | Firl HS Coil | 菲露腰甲【ＨＳ】 |
+| 13556 | Firl GS Coil | 菲露腰甲【ＧＳ】 |
+| 13557 | Firl GP Coil | 菲露腰甲【ＧＰ】 |
+| 13558 | Firl ZP Coil | 菲露腰甲【ＺＰ】 |
+| 13559 | Firl Coat | 菲露腰衣 |
+| 13560 | Firl F Coat | 菲露腰衣【Ｆ】 |
+| 13561 | Firl FZ Coat | 菲露腰衣【ＦＺ】 |
+| 13562 | Firl HS Coat | 菲露腰衣【ＨＳ】 |
+| 13563 | Firl GS Coat | 菲露腰衣【ＧＳ】 |
+| 13564 | Firl GP Coat | 菲露腰衣【ＧＰ】 |
+| 13565 | Firl ZP Coat | 菲露腰衣【ＺＰ】 |
 | 13566 | Ryoso Waistband | 涼疎腰帶 |
 | 13567 | Ryoso Waistband F | 涼疎腰帶【Ｆ】 |
 | 13568 | Ryoso Waistband FZ | 涼疎腰帶【ＦＺ】 |
@@ -141,27 +141,27 @@
 | 13635 | Kelis ZP Coat | 凱利斯腰衣【ＺＰ】 |
 | 13636 | Kinkou D Coil | 克伊恩歐腰甲 |
 | 13637 | Anbu D Coil | 阿恩烏斯腰甲 |
-| 13638 | Rengoku Obi D | 爾艾恩歐帶 |
-| 13639 | Nerigeki Obi D | 恩艾爾伊帶 |
+| 13638 | Rengoku Obi D | 蕾恩克帶 |
+| 13639 | Nerigeki Obi D | 奈里蓋奇帶 |
 | 13640 | Shanru D Coil | 夏阿恩烏腰甲 |
 | 13641 | Fanru D Coil | 芙阿恩烏腰甲 |
-| 13642 | Zamuza ZD Coil | 茲阿姆烏腰甲 |
-| 13643 | Zamuza ZD Coat | 茲阿姆烏腰衣 |
-| 13644 | Harudo ZD Coil | 赫阿爾烏腰甲 |
-| 13645 | Harudo ZD Coat | 赫阿爾烏腰衣 |
-| 13646 | Arbiter D Tasset | 阿爾伊特腰甲 |
-| 13647 | Elysi D Coil | 艾爾伊斯腰甲 |
+| 13642 | Zamuza ZD Coil | 扎姆扎腰甲 |
+| 13643 | Zamuza ZD Coat | 扎姆扎腰衣 |
+| 13644 | Harudo ZD Coil | 哈露多腰甲 |
+| 13645 | Harudo ZD Coat | 哈露多腰衣 |
+| 13646 | Arbiter D Tasset | 碧特腰甲 |
+| 13647 | Elysi D Coil | 西腰甲 |
 | 13648 | Fine D Coil | 芙伊恩艾腰甲 |
-| 13649 | Kotona D Coil | 克歐特歐腰甲 |
+| 13649 | Kotona D Coil | 古托娜腰甲 |
 | 13650 | Finis D Coil | 芙伊恩伊腰甲 |
 | 13651 | Firl D Coil | 芙伊爾腰甲 |
-| 13652 | Ryoso Waistband D | 爾歐斯歐腰帶 |
-| 13653 | Gems D Coil | 格艾姆腰甲 |
-| 13654 | Alisha D Coil | 阿爾伊夏腰甲 |
+| 13652 | Ryoso Waistband D | 約索腰帶 |
+| 13653 | Gems D Coil | 蓋腰甲 |
+| 13654 | Alisha D Coil | 莉修腰甲 |
 | 13655 | Ricca D Coil | 爾伊克阿腰甲 |
-| 13656 | Kelis D Coil | 克艾爾伊腰甲 |
-| 13657 | Myunru D Coil | 姆烏恩烏腰甲 |
-| 13658 | Seiryu・Kensei D Coil | 青龍斯艾爾烏腰甲 |
+| 13656 | Kelis D Coil | 凱莉腰甲 |
+| 13657 | Myunru D Coil | 尤露腰甲 |
+| 13658 | Seiryu・Kensei D Coil | 青龍賽尤凱賽腰甲 |
 | 13659 | Seiryu・双龍D Coil | 青龍双龍腰甲 |
 | 13660 | Seiryu・剣王D Coil | 青龍剣王腰甲 |
 | 13661 | Seiryu・刀神D Coil | 青龍刀神腰甲 |
@@ -205,7 +205,7 @@
 | 13699 | Comrade Belt PD White Red | 戰友腰帶【ＰＤ】・白赤 |
 | 13700 | Comrade Belt PD White Blue | 戰友腰帶【ＰＤ】・白青 |
 | 13701 | Comrade Belt PD White Yellow | 戰友腰帶【ＰＤ】・白黄 |
-| 13702 | Otono D Faulds | 歐特歐恩腰甲 |
+| 13702 | Otono D Faulds | 托諾腰甲 |
 | 13703 | 忍の Obi・空D | 忍の空帶 |
 | 13704 | 忍の Obi・海D | 忍の海帶 |
 | 13705 | Shadow Obi・D | 影帶 |

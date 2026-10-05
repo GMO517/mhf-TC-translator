@@ -4,27 +4,27 @@
 
 | index | 原文 | 譯文 |
 |---|---|---|
-| 9501 | Lumiere Guard | 爾烏姆伊臂甲 |
-| 9502 | Lumiere F Guard | 爾烏姆伊臂甲【Ｆ】 |
-| 9503 | Lumiere FY Guard | 爾烏姆伊臂甲 |
-| 9504 | Lumiere HS Guard | 爾烏姆伊臂甲【ＨＳ】 |
-| 9505 | Lumiere G Guard | 爾烏姆伊臂甲【Ｇ】 |
-| 9506 | Lumiere GF Guard | 爾烏姆伊臂甲【ＧＦ】 |
-| 9507 | Lumiere GX Guard | 爾烏姆伊臂甲【ＧＸ】 |
-| 9508 | Cleora Arms | 克艾爾阿護腕 |
-| 9509 | Cleora F Arms | 克艾爾阿護腕【Ｆ】 |
-| 9510 | Cleora FY Arms | 克艾爾阿護腕 |
-| 9511 | Cleora HS Arms | 克艾爾阿護腕【ＨＳ】 |
-| 9512 | Cleora G Arms | 克艾爾阿護腕【Ｇ】 |
-| 9513 | Cleora GF Arms | 克艾爾阿護腕【ＧＦ】 |
-| 9514 | Cleora GX Arms | 克艾爾阿護腕【ＧＸ】 |
-| 9515 | Cleora Guard | 克艾爾阿臂甲 |
-| 9516 | Cleora F Guard | 克艾爾阿臂甲【Ｆ】 |
-| 9517 | Cleora FY Guard | 克艾爾阿臂甲 |
-| 9518 | Cleora HS Guard | 克艾爾阿臂甲【ＨＳ】 |
-| 9519 | Cleora G Guard | 克艾爾阿臂甲【Ｇ】 |
-| 9520 | Cleora GF Guard | 克艾爾阿臂甲【ＧＦ】 |
-| 9521 | Cleora GX Guard | 克艾爾阿臂甲【ＧＸ】 |
+| 9501 | Lumiere Guard | 露蜜蕾臂甲 |
+| 9502 | Lumiere F Guard | 露蜜蕾臂甲【Ｆ】 |
+| 9503 | Lumiere FY Guard | 露蜜蕾臂甲 |
+| 9504 | Lumiere HS Guard | 露蜜蕾臂甲【ＨＳ】 |
+| 9505 | Lumiere G Guard | 露蜜蕾臂甲【Ｇ】 |
+| 9506 | Lumiere GF Guard | 露蜜蕾臂甲【ＧＦ】 |
+| 9507 | Lumiere GX Guard | 露蜜蕾臂甲【ＧＸ】 |
+| 9508 | Cleora Arms | 克雷拉護腕 |
+| 9509 | Cleora F Arms | 克雷拉護腕【Ｆ】 |
+| 9510 | Cleora FY Arms | 克雷拉護腕 |
+| 9511 | Cleora HS Arms | 克雷拉護腕【ＨＳ】 |
+| 9512 | Cleora G Arms | 克雷拉護腕【Ｇ】 |
+| 9513 | Cleora GF Arms | 克雷拉護腕【ＧＦ】 |
+| 9514 | Cleora GX Arms | 克雷拉護腕【ＧＸ】 |
+| 9515 | Cleora Guard | 克雷拉臂甲 |
+| 9516 | Cleora F Guard | 克雷拉臂甲【Ｆ】 |
+| 9517 | Cleora FY Guard | 克雷拉臂甲 |
+| 9518 | Cleora HS Guard | 克雷拉臂甲【ＨＳ】 |
+| 9519 | Cleora G Guard | 克雷拉臂甲【Ｇ】 |
+| 9520 | Cleora GF Guard | 克雷拉臂甲【ＧＦ】 |
+| 9521 | Cleora GX Guard | 克雷拉臂甲【ＧＸ】 |
 | 9522 | Doragyurosu G Arms | 冥雷龍護腕【Ｇ】 |
 | 9523 | Doragyurosu GF Arms | 冥雷龍護腕【ＧＦ】 |
 | 9524 | Doragyurosu GX Arms | 冥雷龍護腕【ＧＸ】 |
@@ -35,8 +35,8 @@
 | 9529 | Wind GXマカーン | 風臂甲【ＧＸ】 |
 | 9530 | Meraginasu GX Arms | 黑穿龍護腕【ＧＸ】 |
 | 9531 | Meraginasu GX Guard | 黑穿龍臂甲【ＧＸ】 |
-| 9532 | Pobo GX Arms | 普歐布歐護腕【ＧＸ】 |
-| 9533 | Pobo GX Guard | 普歐布歐臂甲【ＧＸ】 |
+| 9532 | Pobo GX Arms | 珀波護腕【ＧＸ】 |
+| 9533 | Pobo GX Guard | 珀波臂甲【ＧＸ】 |
 | 9534 | Toa Arms | 凍王龍護腕 |
 | 9535 | Toa F Arms | 凍王龍護腕【Ｆ】 |
 | 9536 | Toa FX Arms | 凍王龍護腕【ＦＸ】 |
@@ -49,12 +49,12 @@
 | 9543 | Toa G Guard | 凍王龍臂甲【Ｇ】 |
 | 9544 | Toa GF Guard | 凍王龍臂甲【ＧＦ】 |
 | 9545 | Toa GX Guard | 凍王龍臂甲【ＧＸ】 |
-| 9546 | Blue Kut Ku G Arms | 克烏特烏護腕【Ｇ】・青 |
-| 9547 | Blue Kut Ku GF Arms | 克烏特烏護腕【ＧＦ】・青 |
-| 9548 | Blue Kut Ku GX Arms | 克烏特烏護腕【ＧＸ】・青 |
-| 9549 | Blue Kut Ku G Guard | 克烏特烏臂甲【Ｇ】・青 |
-| 9550 | Blue Kut Ku GF Guard | 克烏特烏臂甲【ＧＦ】・青 |
-| 9551 | Blue Kut Ku GX Guard | 克烏特烏臂甲【ＧＸ】・青 |
+| 9546 | Blue Kut Ku G Arms | 克克護腕【Ｇ】・青 |
+| 9547 | Blue Kut Ku GF Arms | 克克護腕【ＧＦ】・青 |
+| 9548 | Blue Kut Ku GX Arms | 克克護腕【ＧＸ】・青 |
+| 9549 | Blue Kut Ku G Guard | 克克臂甲【Ｇ】・青 |
+| 9550 | Blue Kut Ku GF Guard | 克克臂甲【ＧＦ】・青 |
+| 9551 | Blue Kut Ku GX Guard | 克克臂甲【ＧＸ】・青 |
 | 9552 | Dreadrock G【 Kote 】 | 恐岩籠手【Ｇ】 |
 | 9553 | Dreadrock GF【 Kote 】 | 恐岩籠手【ＧＦ】 |
 | 9554 | Dreadrock GX【 Kote 】 | 恐岩籠手【ＧＸ】 |
@@ -85,24 +85,24 @@
 | 9579 | Gagachu HS Guard | 加加丘臂甲【ＨＳ】 |
 | 9580 | Gagachu GS Guard | 加加丘臂甲【ＧＳ】 |
 | 9581 | Gagachu GP Guard | 加加丘臂甲【ＧＰ】 |
-| 9582 | Salta Arms | 斯阿爾阿護腕 |
-| 9583 | Salta F Arms | 斯阿爾阿護腕【Ｆ】 |
-| 9584 | Salta FZ Arms | 斯阿爾阿護腕【ＦＺ】 |
-| 9585 | Salta HS Arms | 斯阿爾阿護腕【ＨＳ】 |
-| 9586 | Salta GS Arms | 斯阿爾阿護腕【ＧＳ】 |
-| 9587 | Salta GP Arms | 斯阿爾阿護腕【ＧＰ】 |
-| 9588 | Salta Guard | 斯阿爾阿臂甲 |
-| 9589 | Salta F Guard | 斯阿爾阿臂甲【Ｆ】 |
-| 9590 | Salta FZ Guard | 斯阿爾阿臂甲【ＦＺ】 |
-| 9591 | Salta HS Guard | 斯阿爾阿臂甲【ＨＳ】 |
-| 9592 | Salta GS Guard | 斯阿爾阿臂甲【ＧＳ】 |
-| 9593 | Salta GP Guard | 斯阿爾阿臂甲【ＧＰ】 |
-| 9594 | Chiru G Arms | 奇伊爾烏護腕【Ｇ】 |
-| 9595 | Chiru GF Arms | 奇伊爾烏護腕【ＧＦ】 |
-| 9596 | Chiru GX Arms | 奇伊爾烏護腕【ＧＸ】 |
-| 9597 | Chiru G Guard | 奇伊爾烏臂甲【Ｇ】 |
-| 9598 | Chiru GF Guard | 奇伊爾烏臂甲【ＧＦ】 |
-| 9599 | Chiru GX Guard | 奇伊爾烏臂甲【ＧＸ】 |
+| 9582 | Salta Arms | 薩塔護腕 |
+| 9583 | Salta F Arms | 薩塔護腕【Ｆ】 |
+| 9584 | Salta FZ Arms | 薩塔護腕【ＦＺ】 |
+| 9585 | Salta HS Arms | 薩塔護腕【ＨＳ】 |
+| 9586 | Salta GS Arms | 薩塔護腕【ＧＳ】 |
+| 9587 | Salta GP Arms | 薩塔護腕【ＧＰ】 |
+| 9588 | Salta Guard | 薩塔臂甲 |
+| 9589 | Salta F Guard | 薩塔臂甲【Ｆ】 |
+| 9590 | Salta FZ Guard | 薩塔臂甲【ＦＺ】 |
+| 9591 | Salta HS Guard | 薩塔臂甲【ＨＳ】 |
+| 9592 | Salta GS Guard | 薩塔臂甲【ＧＳ】 |
+| 9593 | Salta GP Guard | 薩塔臂甲【ＧＰ】 |
+| 9594 | Chiru G Arms | 奇露護腕【Ｇ】 |
+| 9595 | Chiru GF Arms | 奇露護腕【ＧＦ】 |
+| 9596 | Chiru GX Arms | 奇露護腕【ＧＸ】 |
+| 9597 | Chiru G Guard | 奇露臂甲【Ｇ】 |
+| 9598 | Chiru GF Guard | 奇露臂甲【ＧＦ】 |
+| 9599 | Chiru GX Guard | 奇露臂甲【ＧＸ】 |
 | 9600 | Ganeto G Arms | 格阿恩艾護腕【Ｇ】 |
 | 9601 | Ganeto GF Arms | 格阿恩艾護腕【ＧＦ】 |
 | 9602 | Ganeto GX Arms | 格阿恩艾護腕【ＧＸ】 |
@@ -132,9 +132,9 @@
 | 9626 | Onyx Arms | 縞瑪瑙護腕 |
 | 9627 | Onyx F Arms | 縞瑪瑙護腕【Ｆ】 |
 | 9628 | Onyx FX Arms | 縞瑪瑙護腕【ＦＸ】 |
-| 9629 | Rutile Arms | 爾烏特伊護腕 |
-| 9630 | Rutile F Arms | 爾烏特伊護腕【Ｆ】 |
-| 9631 | Rutile FX Arms | 爾烏特伊護腕【ＦＸ】 |
+| 9629 | Rutile Arms | 露蒂勒護腕 |
+| 9630 | Rutile F Arms | 露蒂勒護腕【Ｆ】 |
+| 9631 | Rutile FX Arms | 露蒂勒護腕【ＦＸ】 |
 | 9632 | Byakko・斬将G Arms | 白虎護腕【Ｇ】 |
 | 9633 | Byakko・斬将GF Arms | 白虎斬将護腕【Ｆ】 |
 | 9634 | Byakko・斬将GX Arms | 白虎護腕【ＧＸ】 |
@@ -269,30 +269,30 @@
 | 9763 | Kaiji HS Guard | 克阿傑伊臂甲【ＨＳ】 |
 | 9764 | Kaiji GS Guard | 克阿傑伊臂甲【ＧＳ】 |
 | 9765 | Kaiji GP Guard | 克阿傑伊臂甲【ＧＰ】 |
-| 9766 | Mikoko Arms | 姆伊克歐護腕 |
-| 9767 | Mikoko F Arms | 姆伊克歐護腕【Ｆ】 |
-| 9768 | Mikoko FZ Arms | 姆伊克歐護腕【ＦＺ】 |
-| 9769 | Mikoko HS Arms | 姆伊克歐護腕【ＨＳ】 |
-| 9770 | Mikoko GS Arms | 姆伊克歐護腕【ＧＳ】 |
-| 9771 | Mikoko GP Arms | 姆伊克歐護腕【ＧＰ】 |
-| 9772 | Mikoko Guard | 姆伊克歐臂甲 |
-| 9773 | Mikoko F Guard | 姆伊克歐臂甲【Ｆ】 |
-| 9774 | Mikoko FZ Guard | 姆伊克歐臂甲【ＦＺ】 |
-| 9775 | Mikoko HS Guard | 姆伊克歐臂甲【ＨＳ】 |
-| 9776 | Mikoko GS Guard | 姆伊克歐臂甲【ＧＳ】 |
-| 9777 | Mikoko GP Guard | 姆伊克歐臂甲【ＧＰ】 |
-| 9778 | テリュオ Arms | 特里尤歐護腕 |
-| 9779 | テリュオF Arms | 特里尤歐護腕【Ｆ】 |
-| 9780 | テリュオFZ Arms | 特里尤歐護腕【ＦＺ】 |
-| 9781 | テリュオHS Arms | 特里尤歐護腕【ＨＳ】 |
-| 9782 | テリュオGS Arms | 特里尤歐護腕【ＧＳ】 |
-| 9783 | テリュオGP Arms | 特里尤歐護腕【ＧＰ】 |
-| 9784 | テリュオ Guard | 特里尤歐臂甲 |
-| 9785 | テリュオF Guard | 特里尤歐臂甲【Ｆ】 |
-| 9786 | テリュオFZ Guard | 特里尤歐臂甲【ＦＺ】 |
-| 9787 | テリュオHS Guard | 特里尤歐臂甲【ＨＳ】 |
-| 9788 | テリュオGS Guard | 特里尤歐臂甲【ＧＳ】 |
-| 9789 | テリュオGP Guard | 特里尤歐臂甲【ＧＰ】 |
+| 9766 | Mikoko Arms | 蜜古古護腕 |
+| 9767 | Mikoko F Arms | 蜜古古護腕【Ｆ】 |
+| 9768 | Mikoko FZ Arms | 蜜古古護腕【ＦＺ】 |
+| 9769 | Mikoko HS Arms | 蜜古古護腕【ＨＳ】 |
+| 9770 | Mikoko GS Arms | 蜜古古護腕【ＧＳ】 |
+| 9771 | Mikoko GP Arms | 蜜古古護腕【ＧＰ】 |
+| 9772 | Mikoko Guard | 蜜古古臂甲 |
+| 9773 | Mikoko F Guard | 蜜古古臂甲【Ｆ】 |
+| 9774 | Mikoko FZ Guard | 蜜古古臂甲【ＦＺ】 |
+| 9775 | Mikoko HS Guard | 蜜古古臂甲【ＨＳ】 |
+| 9776 | Mikoko GS Guard | 蜜古古臂甲【ＧＳ】 |
+| 9777 | Mikoko GP Guard | 蜜古古臂甲【ＧＰ】 |
+| 9778 | テリュオ Arms | 特琉歐護腕 |
+| 9779 | テリュオF Arms | 特琉歐護腕【Ｆ】 |
+| 9780 | テリュオFZ Arms | 特琉歐護腕【ＦＺ】 |
+| 9781 | テリュオHS Arms | 特琉歐護腕【ＨＳ】 |
+| 9782 | テリュオGS Arms | 特琉歐護腕【ＧＳ】 |
+| 9783 | テリュオGP Arms | 特琉歐護腕【ＧＰ】 |
+| 9784 | テリュオ Guard | 特琉歐臂甲 |
+| 9785 | テリュオF Guard | 特琉歐臂甲【Ｆ】 |
+| 9786 | テリュオFZ Guard | 特琉歐臂甲【ＦＺ】 |
+| 9787 | テリュオHS Guard | 特琉歐臂甲【ＨＳ】 |
+| 9788 | テリュオGS Guard | 特琉歐臂甲【ＧＳ】 |
+| 9789 | テリュオGP Guard | 特琉歐臂甲【ＧＰ】 |
 | 9790 | Sailor Claws | 水手爪 |
 | 9791 | Sailor G Claws | 水手爪【Ｇ】 |
 | 9792 | Sailor GF Claws | 水手爪【ＧＦ】 |
@@ -319,98 +319,98 @@
 | 9813 | 童伝ノ Kote G | 童伝籠手【Ｇ】 |
 | 9814 | 童伝ノ Kote GF | 童伝籠手【ＧＦ】 |
 | 9815 | 童伝ノ Kote GX | 童伝籠手【ＧＸ】 |
-| 9816 | Valier Arms | 芙阿爾伊護腕 |
-| 9817 | Valier F Arms | 芙阿爾伊護腕【Ｆ】 |
-| 9818 | Valier FY Arms | 芙阿爾伊護腕 |
-| 9819 | Valier HS Arms | 芙阿爾伊護腕【ＨＳ】 |
-| 9820 | Valier G Arms | 芙阿爾伊護腕【Ｇ】 |
-| 9821 | Valier GF Arms | 芙阿爾伊護腕【ＧＦ】 |
-| 9822 | Valier GX Arms | 芙阿爾伊護腕【ＧＸ】 |
-| 9823 | Valier Guard | 芙阿爾伊臂甲 |
-| 9824 | Valier F Guard | 芙阿爾伊臂甲【Ｆ】 |
-| 9825 | Valier FY Guard | 芙阿爾伊臂甲 |
-| 9826 | Valier HS Guard | 芙阿爾伊臂甲【ＨＳ】 |
-| 9827 | Valier G Guard | 芙阿爾伊臂甲【Ｇ】 |
-| 9828 | Valier GF Guard | 芙阿爾伊臂甲【ＧＦ】 |
-| 9829 | Valier GX Guard | 芙阿爾伊臂甲【ＧＸ】 |
-| 9830 | Lars Arms | 爾阿爾護腕 |
-| 9831 | Lars F Arms | 爾阿爾護腕【Ｆ】 |
-| 9832 | Lars FY Arms | 爾阿爾護腕 |
-| 9833 | Lars HS Arms | 爾阿爾護腕【ＨＳ】 |
-| 9834 | Lars G Arms | 爾阿爾護腕【Ｇ】 |
-| 9835 | Lars GF Arms | 爾阿爾護腕【ＧＦ】 |
-| 9836 | Lars GX Arms | 爾阿爾護腕【ＧＸ】 |
-| 9837 | Lars Guard | 爾阿爾臂甲 |
-| 9838 | Lars F Guard | 爾阿爾臂甲【Ｆ】 |
-| 9839 | Lars FY Guard | 爾阿爾臂甲 |
-| 9840 | Lars HS Guard | 爾阿爾臂甲【ＨＳ】 |
-| 9841 | Lars G Guard | 爾阿爾臂甲【Ｇ】 |
-| 9842 | Lars GF Guard | 爾阿爾臂甲【ＧＦ】 |
-| 9843 | Lars GX Guard | 爾阿爾臂甲【ＧＸ】 |
-| 9844 | Shirukku グローブ | 夏伊爾烏手套 |
-| 9845 | Shirukku Fグローブ | 夏伊爾烏手套【Ｆ】 |
-| 9846 | Shirukku FYグローブ | 夏伊爾烏手套 |
-| 9847 | Shirukku HSグローブ | 夏伊爾烏手套【ＨＳ】 |
-| 9848 | Shirukku Gグローブ | 夏伊爾烏手套【Ｇ】 |
-| 9849 | Shirukku GFグローブ | 夏伊爾烏手套【ＧＦ】 |
-| 9850 | Shirukku GXグローブ | 夏伊爾烏手套【ＧＸ】 |
-| 9851 | Shirukku ミトン | 夏伊爾烏手套 |
-| 9852 | Shirukku Fミトン | 夏伊爾烏手套【Ｆ】 |
-| 9853 | Shirukku FYミトン | 夏伊爾烏手套 |
-| 9854 | Shirukku HSミトン | 夏伊爾烏手套【ＨＳ】 |
-| 9855 | Shirukku Gミトン | 夏伊爾烏手套【Ｇ】 |
-| 9856 | Shirukku GFミトン | 夏伊爾烏手套【ＧＦ】 |
-| 9857 | Shirukku GXミトン | 夏伊爾烏手套【ＧＸ】 |
-| 9858 | Norukku グローブ | 恩歐爾烏手套 |
-| 9859 | Norukku Fグローブ | 恩歐爾烏手套【Ｆ】 |
-| 9860 | Norukku FYグローブ | 恩歐爾烏手套 |
-| 9861 | Norukku HSグローブ | 恩歐爾烏手套【ＨＳ】 |
-| 9862 | Norukku Gグローブ | 恩歐爾烏手套【Ｇ】 |
-| 9863 | Norukku GFグローブ | 恩歐爾烏手套【ＧＦ】 |
-| 9864 | Norukku GXグローブ | 恩歐爾烏手套【ＧＸ】 |
-| 9865 | Norukku ミトン | 恩歐爾烏手套 |
-| 9866 | Norukku Fミトン | 恩歐爾烏手套【Ｆ】 |
-| 9867 | Norukku FYミトン | 恩歐爾烏手套 |
-| 9868 | Norukku HSミトン | 恩歐爾烏手套【ＨＳ】 |
-| 9869 | Norukku Gミトン | 恩歐爾烏手套【Ｇ】 |
-| 9870 | Norukku GFミトン | 恩歐爾烏手套【ＧＦ】 |
-| 9871 | Norukku GXミトン | 恩歐爾烏手套【ＧＸ】 |
-| 9872 | Reiresu G Arms | 爾艾爾艾護腕【Ｇ】 |
-| 9873 | Reiresu GF Arms | 爾艾爾艾護腕【ＧＦ】 |
-| 9874 | Reiresu GX Arms | 爾艾爾艾護腕【ＧＸ】 |
-| 9875 | Reiresu G Guard | 爾艾爾艾臂甲【Ｇ】 |
-| 9876 | Reiresu GF Guard | 爾艾爾艾臂甲【ＧＦ】 |
-| 9877 | Reiresu GX Guard | 爾艾爾艾臂甲【ＧＸ】 |
+| 9816 | Valier Arms | 瓦莉護腕 |
+| 9817 | Valier F Arms | 瓦莉護腕【Ｆ】 |
+| 9818 | Valier FY Arms | 瓦莉護腕 |
+| 9819 | Valier HS Arms | 瓦莉護腕【ＨＳ】 |
+| 9820 | Valier G Arms | 瓦莉護腕【Ｇ】 |
+| 9821 | Valier GF Arms | 瓦莉護腕【ＧＦ】 |
+| 9822 | Valier GX Arms | 瓦莉護腕【ＧＸ】 |
+| 9823 | Valier Guard | 瓦莉臂甲 |
+| 9824 | Valier F Guard | 瓦莉臂甲【Ｆ】 |
+| 9825 | Valier FY Guard | 瓦莉臂甲 |
+| 9826 | Valier HS Guard | 瓦莉臂甲【ＨＳ】 |
+| 9827 | Valier G Guard | 瓦莉臂甲【Ｇ】 |
+| 9828 | Valier GF Guard | 瓦莉臂甲【ＧＦ】 |
+| 9829 | Valier GX Guard | 瓦莉臂甲【ＧＸ】 |
+| 9830 | Lars Arms | 拉護腕 |
+| 9831 | Lars F Arms | 拉護腕【Ｆ】 |
+| 9832 | Lars FY Arms | 拉護腕 |
+| 9833 | Lars HS Arms | 拉護腕【ＨＳ】 |
+| 9834 | Lars G Arms | 拉護腕【Ｇ】 |
+| 9835 | Lars GF Arms | 拉護腕【ＧＦ】 |
+| 9836 | Lars GX Arms | 拉護腕【ＧＸ】 |
+| 9837 | Lars Guard | 拉臂甲 |
+| 9838 | Lars F Guard | 拉臂甲【Ｆ】 |
+| 9839 | Lars FY Guard | 拉臂甲 |
+| 9840 | Lars HS Guard | 拉臂甲【ＨＳ】 |
+| 9841 | Lars G Guard | 拉臂甲【Ｇ】 |
+| 9842 | Lars GF Guard | 拉臂甲【ＧＦ】 |
+| 9843 | Lars GX Guard | 拉臂甲【ＧＸ】 |
+| 9844 | Shirukku グローブ | 古蘿布手套 |
+| 9845 | Shirukku Fグローブ | 古蘿布手套【Ｆ】 |
+| 9846 | Shirukku FYグローブ | 古蘿布手套 |
+| 9847 | Shirukku HSグローブ | 古蘿布手套【ＨＳ】 |
+| 9848 | Shirukku Gグローブ | 古蘿布手套【Ｇ】 |
+| 9849 | Shirukku GFグローブ | 古蘿布手套【ＧＦ】 |
+| 9850 | Shirukku GXグローブ | 古蘿布手套【ＧＸ】 |
+| 9851 | Shirukku ミトン | 古蘿布手套 |
+| 9852 | Shirukku Fミトン | 古蘿布手套【Ｆ】 |
+| 9853 | Shirukku FYミトン | 古蘿布手套 |
+| 9854 | Shirukku HSミトン | 古蘿布手套【ＨＳ】 |
+| 9855 | Shirukku Gミトン | 古蘿布手套【Ｇ】 |
+| 9856 | Shirukku GFミトン | 古蘿布手套【ＧＦ】 |
+| 9857 | Shirukku GXミトン | 古蘿布手套【ＧＸ】 |
+| 9858 | Norukku グローブ | 古蘿布手套 |
+| 9859 | Norukku Fグローブ | 古蘿布手套【Ｆ】 |
+| 9860 | Norukku FYグローブ | 古蘿布手套 |
+| 9861 | Norukku HSグローブ | 古蘿布手套【ＨＳ】 |
+| 9862 | Norukku Gグローブ | 古蘿布手套【Ｇ】 |
+| 9863 | Norukku GFグローブ | 古蘿布手套【ＧＦ】 |
+| 9864 | Norukku GXグローブ | 古蘿布手套【ＧＸ】 |
+| 9865 | Norukku ミトン | 古蘿布手套 |
+| 9866 | Norukku Fミトン | 古蘿布手套【Ｆ】 |
+| 9867 | Norukku FYミトン | 古蘿布手套 |
+| 9868 | Norukku HSミトン | 古蘿布手套【ＨＳ】 |
+| 9869 | Norukku Gミトン | 古蘿布手套【Ｇ】 |
+| 9870 | Norukku GFミトン | 古蘿布手套【ＧＦ】 |
+| 9871 | Norukku GXミトン | 古蘿布手套【ＧＸ】 |
+| 9872 | Reiresu G Arms | 蕾蕾斯護腕【Ｇ】 |
+| 9873 | Reiresu GF Arms | 蕾蕾斯護腕【ＧＦ】 |
+| 9874 | Reiresu GX Arms | 蕾蕾斯護腕【ＧＸ】 |
+| 9875 | Reiresu G Guard | 蕾蕾斯臂甲【Ｇ】 |
+| 9876 | Reiresu GF Guard | 蕾蕾斯臂甲【ＧＦ】 |
+| 9877 | Reiresu GX Guard | 蕾蕾斯臂甲【ＧＸ】 |
 | 9878 | Saint G Arms | 斯阿恩護腕【Ｇ】 |
 | 9879 | Saint GF Arms | 斯阿恩護腕【ＧＦ】 |
 | 9880 | Saint GX Arms | 斯阿恩護腕【ＧＸ】 |
 | 9881 | Saint G Guard | 斯阿恩臂甲【Ｇ】 |
 | 9882 | Saint GF Guard | 斯阿恩臂甲【ＧＦ】 |
 | 9883 | Saint GX Guard | 斯阿恩臂甲【ＧＸ】 |
-| 9884 | Solflare Arms | 斯歐爾阿護腕 |
-| 9885 | Solflare F Arms | 斯歐爾阿護腕【Ｆ】 |
-| 9886 | Solflare FZ Arms | 斯歐爾阿護腕【ＦＺ】 |
-| 9887 | Solflare HS Arms | 斯歐爾阿護腕【ＨＳ】 |
-| 9888 | Solflare GS Arms | 斯歐爾阿護腕【ＧＳ】 |
-| 9889 | Solflare GP Arms | 斯歐爾阿護腕【ＧＰ】 |
-| 9890 | Solflare Guard | 斯歐爾阿臂甲 |
-| 9891 | Solflare F Guard | 斯歐爾阿臂甲【Ｆ】 |
-| 9892 | Solflare FZ Guard | 斯歐爾阿臂甲【ＦＺ】 |
-| 9893 | Solflare HS Guard | 斯歐爾阿臂甲【ＨＳ】 |
-| 9894 | Solflare GS Guard | 斯歐爾阿臂甲【ＧＳ】 |
-| 9895 | Solflare GP Guard | 斯歐爾阿臂甲【ＧＰ】 |
-| 9896 | Arben Arms | 阿爾本護腕 |
-| 9897 | Arben F Arms | 阿爾本護腕【Ｆ】 |
-| 9898 | Arben FZ Arms | 阿爾本護腕【ＦＺ】 |
-| 9899 | Arben HS Arms | 阿爾本護腕【ＨＳ】 |
-| 9900 | Arben GS Arms | 阿爾本護腕【ＧＳ】 |
-| 9901 | Arben GP Arms | 阿爾本護腕【ＧＰ】 |
-| 9902 | Arben Guard | 阿爾本臂甲 |
-| 9903 | Arben F Guard | 阿爾本臂甲【Ｆ】 |
-| 9904 | Arben FZ Guard | 阿爾本臂甲【ＦＺ】 |
-| 9905 | Arben HS Guard | 阿爾本臂甲【ＨＳ】 |
-| 9906 | Arben GS Guard | 阿爾本臂甲【ＧＳ】 |
-| 9907 | Arben GP Guard | 阿爾本臂甲【ＧＰ】 |
+| 9884 | Solflare Arms | 索芙蕾護腕 |
+| 9885 | Solflare F Arms | 索芙蕾護腕【Ｆ】 |
+| 9886 | Solflare FZ Arms | 索芙蕾護腕【ＦＺ】 |
+| 9887 | Solflare HS Arms | 索芙蕾護腕【ＨＳ】 |
+| 9888 | Solflare GS Arms | 索芙蕾護腕【ＧＳ】 |
+| 9889 | Solflare GP Arms | 索芙蕾護腕【ＧＰ】 |
+| 9890 | Solflare Guard | 索芙蕾臂甲 |
+| 9891 | Solflare F Guard | 索芙蕾臂甲【Ｆ】 |
+| 9892 | Solflare FZ Guard | 索芙蕾臂甲【ＦＺ】 |
+| 9893 | Solflare HS Guard | 索芙蕾臂甲【ＨＳ】 |
+| 9894 | Solflare GS Guard | 索芙蕾臂甲【ＧＳ】 |
+| 9895 | Solflare GP Guard | 索芙蕾臂甲【ＧＰ】 |
+| 9896 | Arben Arms | 亞露貝恩護腕 |
+| 9897 | Arben F Arms | 亞露貝恩護腕【Ｆ】 |
+| 9898 | Arben FZ Arms | 亞露貝恩護腕【ＦＺ】 |
+| 9899 | Arben HS Arms | 亞露貝恩護腕【ＨＳ】 |
+| 9900 | Arben GS Arms | 亞露貝恩護腕【ＧＳ】 |
+| 9901 | Arben GP Arms | 亞露貝恩護腕【ＧＰ】 |
+| 9902 | Arben Guard | 亞露貝恩臂甲 |
+| 9903 | Arben F Guard | 亞露貝恩臂甲【Ｆ】 |
+| 9904 | Arben FZ Guard | 亞露貝恩臂甲【ＦＺ】 |
+| 9905 | Arben HS Guard | 亞露貝恩臂甲【ＨＳ】 |
+| 9906 | Arben GS Guard | 亞露貝恩臂甲【ＧＳ】 |
+| 9907 | Arben GP Guard | 亞露貝恩臂甲【ＧＰ】 |
 | 9908 | Keravuno Arms | 凱拉武諾護腕 |
 | 9909 | Keravuno F Arms | 凱拉武諾護腕【Ｆ】 |
 | 9910 | Keravuno FZ Arms | 凱拉武諾護腕【ＦＺ】 |
@@ -463,8 +463,8 @@
 | 9957 | Flame GX Guard | 炎臂甲【ＧＸ】 |
 | 9958 | Furoru GX Arms | 弗羅魯護腕【ＧＸ】 |
 | 9959 | Furoru GX Guard | 弗羅魯臂甲【ＧＸ】 |
-| 9960 | Varusa GX Arms | 芙阿爾烏護腕【ＧＸ】 |
-| 9961 | Varusa GX Guard | 芙阿爾烏臂甲【ＧＸ】 |
+| 9960 | Varusa GX Arms | 瓦露薩護腕【ＧＸ】 |
+| 9961 | Varusa GX Guard | 瓦露薩臂甲【ＧＸ】 |
 | 9962 | Stygian Arms | 斯伊恩護腕 |
 | 9963 | Stygian G Arms | 斯伊恩護腕【Ｇ】 |
 | 9964 | Stygian GF Arms | 斯伊恩護腕【ＧＦ】 |

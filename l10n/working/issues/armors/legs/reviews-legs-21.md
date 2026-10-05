@@ -165,30 +165,30 @@
 | 10159 | Red Ice Emperor HS Boots | 赤冰帝靴【ＨＳ】 |
 | 10160 | Red Ice Emperor GS Boots | 赤冰帝靴【ＧＳ】 |
 | 10161 | Red Ice Emperor GP Boots | 赤冰帝靴【ＧＰ】 |
-| 10162 | Taruta Feet | 特阿爾烏足 |
-| 10163 | Taruta F Feet | 特阿爾烏足【Ｆ】 |
-| 10164 | Taruta FZ Feet | 特阿爾烏足【ＦＺ】 |
-| 10165 | Taruta HS Feet | 特阿爾烏足【ＨＳ】 |
-| 10166 | Taruta GS Feet | 特阿爾烏足【ＧＳ】 |
-| 10167 | Taruta GP Feet | 特阿爾烏足【ＧＰ】 |
-| 10168 | Taruta Boots | 特阿爾烏靴 |
-| 10169 | Taruta F Boots | 特阿爾烏靴【Ｆ】 |
-| 10170 | Taruta FZ Boots | 特阿爾烏靴【ＦＺ】 |
-| 10171 | Taruta HS Boots | 特阿爾烏靴【ＨＳ】 |
-| 10172 | Taruta GS Boots | 特阿爾烏靴【ＧＳ】 |
-| 10173 | Taruta GP Boots | 特阿爾烏靴【ＧＰ】 |
-| 10174 | Ruruta Feet | 爾烏爾烏足 |
-| 10175 | Ruruta F Feet | 爾烏爾烏足【Ｆ】 |
-| 10176 | Ruruta FZ Feet | 爾烏爾烏足【ＦＺ】 |
-| 10177 | Ruruta HS Feet | 爾烏爾烏足【ＨＳ】 |
-| 10178 | Ruruta GS Feet | 爾烏爾烏足【ＧＳ】 |
-| 10179 | Ruruta GP Feet | 爾烏爾烏足【ＧＰ】 |
-| 10180 | Ruruta Boots | 爾烏爾烏靴 |
-| 10181 | Ruruta F Boots | 爾烏爾烏靴【Ｆ】 |
-| 10182 | Ruruta FZ Boots | 爾烏爾烏靴【ＦＺ】 |
-| 10183 | Ruruta HS Boots | 爾烏爾烏靴【ＨＳ】 |
-| 10184 | Ruruta GS Boots | 爾烏爾烏靴【ＧＳ】 |
-| 10185 | Ruruta GP Boots | 爾烏爾烏靴【ＧＰ】 |
+| 10162 | Taruta Feet | 塔露塔足 |
+| 10163 | Taruta F Feet | 塔露塔足【Ｆ】 |
+| 10164 | Taruta FZ Feet | 塔露塔足【ＦＺ】 |
+| 10165 | Taruta HS Feet | 塔露塔足【ＨＳ】 |
+| 10166 | Taruta GS Feet | 塔露塔足【ＧＳ】 |
+| 10167 | Taruta GP Feet | 塔露塔足【ＧＰ】 |
+| 10168 | Taruta Boots | 塔露塔靴 |
+| 10169 | Taruta F Boots | 塔露塔靴【Ｆ】 |
+| 10170 | Taruta FZ Boots | 塔露塔靴【ＦＺ】 |
+| 10171 | Taruta HS Boots | 塔露塔靴【ＨＳ】 |
+| 10172 | Taruta GS Boots | 塔露塔靴【ＧＳ】 |
+| 10173 | Taruta GP Boots | 塔露塔靴【ＧＰ】 |
+| 10174 | Ruruta Feet | 露露塔足 |
+| 10175 | Ruruta F Feet | 露露塔足【Ｆ】 |
+| 10176 | Ruruta FZ Feet | 露露塔足【ＦＺ】 |
+| 10177 | Ruruta HS Feet | 露露塔足【ＨＳ】 |
+| 10178 | Ruruta GS Feet | 露露塔足【ＧＳ】 |
+| 10179 | Ruruta GP Feet | 露露塔足【ＧＰ】 |
+| 10180 | Ruruta Boots | 露露塔靴 |
+| 10181 | Ruruta F Boots | 露露塔靴【Ｆ】 |
+| 10182 | Ruruta FZ Boots | 露露塔靴【ＦＺ】 |
+| 10183 | Ruruta HS Boots | 露露塔靴【ＨＳ】 |
+| 10184 | Ruruta GS Boots | 露露塔靴【ＧＳ】 |
+| 10185 | Ruruta GP Boots | 露露塔靴【ＧＰ】 |
 | 10186 | Kurofi Feet | 克羅菲足 |
 | 10187 | Kurofi F Feet | 克羅菲足【Ｆ】 |
 | 10188 | Kurofi FZ Feet | 克羅菲足【ＦＺ】 |
@@ -219,54 +219,54 @@
 | 10213 | Chiarim HS Boots | 奇亞琳靴【ＨＳ】 |
 | 10214 | Chiarim GS Boots | 奇亞琳靴【ＧＳ】 |
 | 10215 | Chiarim GP Boots | 奇亞琳靴【ＧＰ】 |
-| 10216 | Rohokku Greaves | 爾歐赫歐護腿 |
-| 10217 | Rohokku F Greaves | 爾歐赫歐護腿【Ｆ】 |
-| 10218 | Rohokku FY Greaves | 爾歐赫歐護腿 |
-| 10219 | Rohokku HS Greaves | 爾歐赫歐護腿【ＨＳ】 |
-| 10220 | Rohokku G Greaves | 爾歐赫歐護腿【Ｇ】 |
-| 10221 | Rohokku GF Greaves | 爾歐赫歐護腿【ＧＦ】 |
-| 10222 | Rohokku GX Greaves | 爾歐赫歐護腿【ＧＸ】 |
-| 10223 | Rohokku Leggings | 爾歐赫歐裹腿 |
-| 10224 | Rohokku F Leggings | 爾歐赫歐裹腿【Ｆ】 |
-| 10225 | Rohokku FY Leggings | 爾歐赫歐裹腿 |
-| 10226 | Rohokku HS Leggings | 爾歐赫歐裹腿【ＨＳ】 |
-| 10227 | Rohokku G Leggings | 爾歐赫歐裹腿【Ｇ】 |
-| 10228 | Rohokku GF Leggings | 爾歐赫歐裹腿【ＧＦ】 |
-| 10229 | Rohokku GX Leggings | 爾歐赫歐裹腿【ＧＸ】 |
-| 10230 | Cure Greaves | 克烏爾艾護腿 |
-| 10231 | Cure F Greaves | 克烏爾艾護腿【Ｆ】 |
-| 10232 | Cure FY Greaves | 克烏爾艾護腿 |
-| 10233 | Cure HS Greaves | 克烏爾艾護腿【ＨＳ】 |
-| 10234 | Cure G Greaves | 克烏爾艾護腿【Ｇ】 |
-| 10235 | Cure GF Greaves | 克烏爾艾護腿【ＧＦ】 |
-| 10236 | Cure GX Greaves | 克烏爾艾護腿【ＧＸ】 |
-| 10237 | Cure Leggings | 克烏爾艾裹腿 |
-| 10238 | Cure F Leggings | 克烏爾艾裹腿【Ｆ】 |
-| 10239 | Cure FY Leggings | 克烏爾艾裹腿 |
-| 10240 | Cure HS Leggings | 克烏爾艾裹腿【ＨＳ】 |
-| 10241 | Cure G Leggings | 克烏爾艾裹腿【Ｇ】 |
-| 10242 | Cure GF Leggings | 克烏爾艾裹腿【ＧＦ】 |
-| 10243 | Cure GX Leggings | 克烏爾艾裹腿【ＧＸ】 |
+| 10216 | Rohokku Greaves | 蘿霍克護腿 |
+| 10217 | Rohokku F Greaves | 蘿霍克護腿【Ｆ】 |
+| 10218 | Rohokku FY Greaves | 蘿霍克護腿 |
+| 10219 | Rohokku HS Greaves | 蘿霍克護腿【ＨＳ】 |
+| 10220 | Rohokku G Greaves | 蘿霍克護腿【Ｇ】 |
+| 10221 | Rohokku GF Greaves | 蘿霍克護腿【ＧＦ】 |
+| 10222 | Rohokku GX Greaves | 蘿霍克護腿【ＧＸ】 |
+| 10223 | Rohokku Leggings | 蘿霍克裹腿 |
+| 10224 | Rohokku F Leggings | 蘿霍克裹腿【Ｆ】 |
+| 10225 | Rohokku FY Leggings | 蘿霍克裹腿 |
+| 10226 | Rohokku HS Leggings | 蘿霍克裹腿【ＨＳ】 |
+| 10227 | Rohokku G Leggings | 蘿霍克裹腿【Ｇ】 |
+| 10228 | Rohokku GF Leggings | 蘿霍克裹腿【ＧＦ】 |
+| 10229 | Rohokku GX Leggings | 蘿霍克裹腿【ＧＸ】 |
+| 10230 | Cure Greaves | 庫蕾護腿 |
+| 10231 | Cure F Greaves | 庫蕾護腿【Ｆ】 |
+| 10232 | Cure FY Greaves | 庫蕾護腿 |
+| 10233 | Cure HS Greaves | 庫蕾護腿【ＨＳ】 |
+| 10234 | Cure G Greaves | 庫蕾護腿【Ｇ】 |
+| 10235 | Cure GF Greaves | 庫蕾護腿【ＧＦ】 |
+| 10236 | Cure GX Greaves | 庫蕾護腿【ＧＸ】 |
+| 10237 | Cure Leggings | 庫蕾裹腿 |
+| 10238 | Cure F Leggings | 庫蕾裹腿【Ｆ】 |
+| 10239 | Cure FY Leggings | 庫蕾裹腿 |
+| 10240 | Cure HS Leggings | 庫蕾裹腿【ＨＳ】 |
+| 10241 | Cure G Leggings | 庫蕾裹腿【Ｇ】 |
+| 10242 | Cure GF Leggings | 庫蕾裹腿【ＧＦ】 |
+| 10243 | Cure GX Leggings | 庫蕾裹腿【ＧＸ】 |
 | 10244 | 鬼凛ノ足枷G | 鬼凛足枷護腿 |
 | 10245 | 鬼凛ノ足枷GF | 鬼凛足枷護腿【Ｆ】 |
 | 10246 | 鬼凛ノ足枷GX | 鬼凛足枷護腿 |
 | 10247 | 童凛ノ足枷G | 童凛足枷護腿 |
 | 10248 | 童凛ノ足枷GF | 童凛足枷護腿【Ｆ】 |
 | 10249 | 童凛ノ足枷GX | 童凛足枷護腿 |
-| 10250 | Eguiene Greaves | 艾格烏恩護腿 |
-| 10251 | Eguiene F Greaves | 艾格烏恩護腿【Ｆ】 |
-| 10252 | Eguiene FY Greaves | 艾格烏恩護腿 |
-| 10253 | Eguiene HS Greaves | 艾格烏恩護腿【ＨＳ】 |
-| 10254 | Eguiene G Greaves | 艾格烏恩護腿【Ｇ】 |
-| 10255 | Eguiene GF Greaves | 艾格烏恩護腿【ＧＦ】 |
-| 10256 | Eguiene GX Greaves | 艾格烏恩護腿【ＧＸ】 |
-| 10257 | Eguiene Leggings | 艾格烏恩裹腿 |
-| 10258 | Eguiene F Leggings | 艾格烏恩裹腿【Ｆ】 |
-| 10259 | Eguiene FY Leggings | 艾格烏恩裹腿 |
-| 10260 | Eguiene HS Leggings | 艾格烏恩裹腿【ＨＳ】 |
-| 10261 | Eguiene G Leggings | 艾格烏恩裹腿【Ｇ】 |
-| 10262 | Eguiene GF Leggings | 艾格烏恩裹腿【ＧＦ】 |
-| 10263 | Eguiene GX Leggings | 艾格烏恩裹腿【ＧＸ】 |
+| 10250 | Eguiene Greaves | 古奈護腿 |
+| 10251 | Eguiene F Greaves | 古奈護腿【Ｆ】 |
+| 10252 | Eguiene FY Greaves | 古奈護腿 |
+| 10253 | Eguiene HS Greaves | 古奈護腿【ＨＳ】 |
+| 10254 | Eguiene G Greaves | 古奈護腿【Ｇ】 |
+| 10255 | Eguiene GF Greaves | 古奈護腿【ＧＦ】 |
+| 10256 | Eguiene GX Greaves | 古奈護腿【ＧＸ】 |
+| 10257 | Eguiene Leggings | 古奈裹腿 |
+| 10258 | Eguiene F Leggings | 古奈裹腿【Ｆ】 |
+| 10259 | Eguiene FY Leggings | 古奈裹腿 |
+| 10260 | Eguiene HS Leggings | 古奈裹腿【ＨＳ】 |
+| 10261 | Eguiene G Leggings | 古奈裹腿【Ｇ】 |
+| 10262 | Eguiene GF Leggings | 古奈裹腿【ＧＦ】 |
+| 10263 | Eguiene GX Leggings | 古奈裹腿【ＧＸ】 |
 | 10264 | Vakusu Greaves | 芙阿克烏護腿 |
 | 10265 | Vakusu F Greaves | 芙阿克烏護腿【Ｆ】 |
 | 10266 | Vakusu FY Greaves | 芙阿克烏護腿 |
@@ -413,9 +413,9 @@
 | 10407 | Asumo GS Boots | 阿斯莫靴【ＧＳ】 |
 | 10408 | Asumo GP Boots | 阿斯莫靴【ＧＰ】 |
 | 10409 | Asumo ZP Boots | 阿斯莫靴【ＺＰ】 |
-| 10410 | Carrol C Feet | 克阿爾歐足 |
+| 10410 | Carrol C Feet | 可爾足 |
 | 10411 | Zyra C Feet | 茲阿斯足 |
-| 10412 | Loose C Leg | 爾歐斯艾腿 |
+| 10412 | Loose C Leg | 蘿賽腿 |
 | 10413 | Asteli ZP Feet・White | 阿斯特利足【ＺＰ】・白 |
 | 10414 | Asteli ZP Boots・White | 阿斯特利靴【ＺＰ】・白 |
 | 10415 | Asteli ZP Feet・Blue | 阿斯特利足【ＺＰ】・青 |
@@ -455,11 +455,11 @@
 | 10449 | ブリゼGF Leggings | 布里澤裹腿【Ｆ】 |
 | 10450 | ブリゼGX Leggings | 布里澤裹腿【ＧＸ】 |
 | 10451 | Higakure C Greaves | 赫伊格阿護腿 |
-| 10452 | Harokyu D Feet | 赫阿爾歐足 |
-| 10453 | Evol D Feet・White | 艾芙歐爾足・白 |
-| 10454 | Evol D Feet・Red | 艾芙歐爾足・赤 |
-| 10455 | Evol D Feet・Blue | 艾芙歐爾足・青 |
-| 10456 | Evol D Feet・Purple | 艾芙歐爾足・紫 |
+| 10452 | Harokyu D Feet | 哈蘿尤足 |
+| 10453 | Evol D Feet・White | 沃足・白 |
+| 10454 | Evol D Feet・Red | 沃足・赤 |
+| 10455 | Evol D Feet・Blue | 沃足・青 |
+| 10456 | Evol D Feet・Purple | 沃足・紫 |
 | 10457 | 狩衛部隊 Feet・男 | 狩衛部隊男足 |
 | 10458 | 狩衛部隊 Feet・女 | 狩衛部隊女足 |
 | 10459 | Blue Ice Emperor ZP Feet | 青冰帝足【ＺＰ】 |

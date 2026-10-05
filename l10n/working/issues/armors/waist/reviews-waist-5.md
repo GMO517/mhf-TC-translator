@@ -11,14 +11,14 @@
 | 2005 | Rail F Coil | 軌腰甲【Ｆ】 |
 | 2006 | Rail Coat | 軌腰衣 |
 | 2007 | Rail F Coat | 軌腰衣【Ｆ】 |
-| 2008 | Rudeos Faulds | 爾烏德艾腰甲 |
-| 2009 | Rudeos F Faulds | 爾烏德艾腰甲【Ｆ】 |
-| 2010 | Rudeos Coat | 爾烏德艾腰衣 |
-| 2011 | Rudeos F Coat | 爾烏德艾腰衣【Ｆ】 |
-| 2012 | Orchesis Coil | 歐爾艾斯腰甲 |
-| 2013 | Orchesis F Coil | 歐爾艾斯腰甲【Ｆ】 |
-| 2014 | Orchesis Coat | 歐爾艾斯腰衣 |
-| 2015 | Orchesis F Coat | 歐爾艾斯腰衣【Ｆ】 |
+| 2008 | Rudeos Faulds | 露德腰甲 |
+| 2009 | Rudeos F Faulds | 露德腰甲【Ｆ】 |
+| 2010 | Rudeos Coat | 露德腰衣 |
+| 2011 | Rudeos F Coat | 露德腰衣【Ｆ】 |
+| 2012 | Orchesis Coil | 切西腰甲 |
+| 2013 | Orchesis F Coil | 切西腰甲【Ｆ】 |
+| 2014 | Orchesis Coat | 切西腰衣 |
+| 2015 | Orchesis F Coat | 切西腰衣【Ｆ】 |
 | 2016 | フルイト Faulds | 芙魯伊托腰甲 |
 | 2017 | フルイトF Faulds | 芙魯伊托腰甲【Ｆ】 |
 | 2018 | ゲレオン Faulds | 蓋雷歐恩腰甲 |
@@ -68,11 +68,11 @@
 | 2062 | Beru Coat SP Purple | 舞雷龍腰衣【ＳＰ】・紫 |
 | 2063 | Rurudi Coil | 魯魯迪腰甲 |
 | 2064 | Rurudi Coat | 魯魯迪腰衣 |
-| 2065 | Arc F Faulds | 阿爾腰甲【Ｆ】 |
-| 2066 | Arc F Coat | 阿爾腰衣【Ｆ】 |
+| 2065 | Arc F Faulds | 亞克腰甲【Ｆ】 |
+| 2066 | Arc F Coat | 亞克腰衣【Ｆ】 |
 | 2067 | Strega FX Faulds | 魔女腰甲【ＦＸ】 |
 | 2068 | Strega FX Coat | 魔女腰衣【ＦＸ】 |
-| 2069 | Rath Heart RX Coil | 爾阿斯艾腰甲 |
+| 2069 | Rath Heart RX Coil | 拉斯赫特腰甲 |
 | 2070 | Rathian LX Faulds | 雌火龍腰甲 |
 | 2071 | Vespoid RX Coat | 巨蜂腰衣 |
 | 2072 | Vespoid LX Coat | 巨蜂腰衣 |
@@ -84,11 +84,11 @@
 | 2078 | フレサ Coil | 芙雷薩腰甲 |
 | 2079 | クラ Beru Coil | 舞雷龍腰甲 |
 | 2080 | シルエラ Coil | 希魯艾拉腰甲 |
-| 2081 | カメ Lea Coil | 爾艾腰甲 |
+| 2081 | カメ Lea Coil | 勒腰甲 |
 | 2082 | ハシント Coil | 哈希恩托腰甲 |
 | 2083 | セレソ Coil | 塞雷索腰甲 |
 | 2084 | オリバ Coil | 歐里巴腰甲 |
-| 2085 | ラウレル Coat | 拉烏雷魯腰衣 |
+| 2085 | ラウレル Coat | 拉宇蕾露腰衣 |
 | 2086 | ココ Coat | 科科腰衣 |
 | 2087 | グラナダ Coat | 古拉納達腰衣 |
 | 2088 | アトロ Waist | 阿托羅腰甲 |
@@ -211,18 +211,18 @@
 | 2205 | ヴェルフィ Coat | 芙魯芙腰衣 |
 | 2206 | テリオグ Faulds | 特里歐古腰甲 |
 | 2207 | テリオグ Coat | 特里歐古腰衣 |
-| 2208 | Kurossu Coil | 克烏爾歐腰甲 |
-| 2209 | Kurossu F Coil | 克烏爾歐腰甲【Ｆ】 |
-| 2210 | Kurossu Coat | 克烏爾歐腰衣 |
-| 2211 | Kurossu F Coat | 克烏爾歐腰衣【Ｆ】 |
+| 2208 | Kurossu Coil | 克蘿斯腰甲 |
+| 2209 | Kurossu F Coil | 克蘿斯腰甲【Ｆ】 |
+| 2210 | Kurossu Coat | 克蘿斯腰衣 |
+| 2211 | Kurossu F Coat | 克蘿斯腰衣【Ｆ】 |
 | 2212 | Shieri FX Faulds | 夏伊爾伊腰甲【ＦＸ】 |
 | 2213 | Shieri FX Coat | 夏伊爾伊腰衣【ＦＸ】 |
 | 2214 | Craft FX Coil | 工匠腰甲【ＦＸ】 |
 | 2215 | Craft FX Coat | 工匠腰衣【ＦＸ】 |
 | 2216 | Moss Covered FX Faulds | 苔覆腰甲【ＦＸ】 |
 | 2217 | Moss Covered FX Coat | 苔覆腰衣【ＦＸ】 |
-| 2218 | Excelle FX Faulds | 艾克斯艾腰甲【ＦＸ】 |
-| 2219 | Excelle FX Coat | 艾克斯艾腰衣【ＦＸ】 |
+| 2218 | Excelle FX Faulds | 克斯賽爾腰甲【ＦＸ】 |
+| 2219 | Excelle FX Coat | 克斯賽爾腰衣【ＦＸ】 |
 | 2220 | Blue Sky Obi・True | 天空真帶・青 |
 | 2221 | Welkin Obi・True | 蒼穹真帶 |
 | 2222 | ビステマ Coat | 比斯特瑪腰衣 |
@@ -230,18 +230,18 @@
 | 2224 | Rath Duo F Coat | 雙火龍腰衣【Ｆ】 |
 | 2225 | ロークF Faulds | 洛可腰甲【Ｆ】 |
 | 2226 | ロークF Coat | 洛可腰衣【Ｆ】 |
-| 2227 | Buruho F Coil・Blue | 布烏爾烏腰甲【Ｆ】・青 |
-| 2228 | マー Gear F Coat・Blue | 瑪爾機甲腰衣【Ｆ】・青 |
+| 2227 | Buruho F Coil・Blue | 布露霍腰甲【Ｆ】・青 |
+| 2228 | マー Gear F Coat・Blue | 瑪腰衣【Ｆ】・青 |
 | 2229 | Gogomoa FX Faulds | 跳緋獸腰甲【ＦＸ】 |
 | 2230 | Gogomoa FX Coat | 跳緋獸腰衣【ＦＸ】 |
-| 2231 | Kuraaji FX Faulds | 克烏爾阿腰甲【ＦＸ】 |
-| 2232 | Kuraaji FX Coat | 克烏爾阿腰衣【ＦＸ】 |
+| 2231 | Kuraaji FX Faulds | 克拉腰甲【ＦＸ】 |
+| 2232 | Kuraaji FX Coat | 克拉腰衣【ＦＸ】 |
 | 2233 | Zaakaa FX Coil | 茲阿克阿腰甲【ＦＸ】 |
 | 2234 | Chaser FX Belt | 追撃腰帶【ＦＸ】 |
 | 2235 | Abitto FZ Coil | 阿比托腰甲【ＦＺ】 |
 | 2236 | Abitto FZ Coat | 阿比托腰衣【ＦＺ】 |
-| 2237 | Arge FZ Coil | 阿爾傑腰甲【ＦＺ】 |
-| 2238 | Arge FZ Coat | 阿爾傑腰衣【ＦＺ】 |
+| 2237 | Arge FZ Coil | 亞潔腰甲【ＦＺ】 |
+| 2238 | Arge FZ Coat | 亞潔腰衣【ＦＺ】 |
 | 2239 | Camarera FZ Coil | 可瑪蕾拉腰甲【ＦＺ】 |
 | 2240 | Camarera FZ Coat | 可瑪蕾拉腰衣【ＦＺ】 |
 | 2241 | Metenera FZ Coil | 梅特涅拉腰甲【ＦＺ】 |
@@ -280,8 +280,8 @@
 | 2274 | White 鳥ノ Obi・魁 | 鳥魁帶・白 |
 | 2275 | Kakabu Coil | 克阿克阿腰甲 |
 | 2276 | Kakabu Coat | 克阿克阿腰衣 |
-| 2277 | Onero Faulds | 歐恩艾爾腰甲 |
-| 2278 | Onero Coat | 歐恩艾爾腰衣 |
+| 2277 | Onero Faulds | 奈蘿腰甲 |
+| 2278 | Onero Coat | 奈蘿腰衣 |
 | 2279 | Jyaga Faulds | 傑阿格阿腰甲 |
 | 2280 | Jyaga Coat | 傑阿格阿腰衣 |
 | 2281 | Omet Coil・Black | 歐梅特腰甲・黑 |
@@ -316,12 +316,12 @@
 | 2310 | 無想の腰当て・魁 | 無想の腰當魁 |
 | 2311 | 俊激の Obi | 俊激の帶 |
 | 2312 | 俊激の Obi・魁 | 俊激の帶魁 |
-| 2313 | Suifudo Coil | 斯烏芙烏腰甲 |
-| 2314 | Suifudo F Coil | 斯烏芙烏腰甲【Ｆ】 |
-| 2315 | Merodesu Coil | 姆艾爾歐腰甲 |
-| 2316 | Merodesu F Coil | 姆艾爾歐腰甲【Ｆ】 |
-| 2317 | Sumatosu Coil | 斯烏姆阿腰甲 |
-| 2318 | Sumatosu F Coil | 斯烏姆阿腰甲【Ｆ】 |
+| 2313 | Suifudo Coil | 斯芙多腰甲 |
+| 2314 | Suifudo F Coil | 斯芙多腰甲【Ｆ】 |
+| 2315 | Merodesu Coil | 梅蘿德斯腰甲 |
+| 2316 | Merodesu F Coil | 梅蘿德斯腰甲【Ｆ】 |
+| 2317 | Sumatosu Coil | 斯瑪托斯腰甲 |
+| 2318 | Sumatosu F Coil | 斯瑪托斯腰甲【Ｆ】 |
 | 2319 | Passhio Coat | 普阿斯伊腰衣 |
 | 2320 | Passhio F Coat | 普阿斯伊腰衣【Ｆ】 |
 | 2321 | Cultu Coil・Ash | 庫爾圖腰甲・灰 |
@@ -395,14 +395,14 @@
 | 2389 | Jess HC Coat | 傑斯腰衣【ＨＣ】 |
 | 2390 | Eques HC Faulds | 騎士腰甲【ＨＣ】 |
 | 2391 | Eques HC Coat | 騎士腰衣【ＨＣ】 |
-| 2392 | Kuraaji HC Faulds | 克烏爾阿腰甲【ＨＣ】 |
-| 2393 | Kuraaji HC Coat | 克烏爾阿腰衣【ＨＣ】 |
-| 2394 | Melan FY Faulds | 姆艾爾阿腰甲 |
+| 2392 | Kuraaji HC Faulds | 克拉腰甲【ＨＣ】 |
+| 2393 | Kuraaji HC Coat | 克拉腰衣【ＨＣ】 |
+| 2394 | Melan FY Faulds | 梅拉腰甲 |
 | 2395 | Melan HC Faulds | 紫黑腰甲【ＨＣ】 |
-| 2396 | Melan FY Coat | 姆艾爾阿腰衣 |
+| 2396 | Melan FY Coat | 梅拉腰衣 |
 | 2397 | Melan HC Coat | 紫黑腰衣【ＨＣ】 |
-| 2398 | Harubadaa FY Coil | 赫阿爾烏腰甲 |
-| 2399 | Harubadaa HC Coil | 赫阿爾烏腰甲【ＨＣ】 |
+| 2398 | Harubadaa FY Coil | 哈露巴達腰甲 |
+| 2399 | Harubadaa HC Coil | 哈露巴達腰甲【ＨＣ】 |
 | 2400 | Tracker FY Belt | 特阿克艾腰帶 |
 | 2401 | Tracker HC Belt | 追蹤腰帶【ＨＣ】 |
 | 2402 | Omet FZ Coil・Black | 歐梅特腰甲【ＦＺ】・黑 |
@@ -495,13 +495,13 @@
 | 2489 | Comrade Belt SP White Red | 戰友腰帶【ＳＰ】・白赤 |
 | 2490 | Comrade Belt SP White Blue | 戰友腰帶【ＳＰ】・白青 |
 | 2491 | Comrade Belt SP White Yellow | 戰友腰帶【ＳＰ】・白黄 |
-| 2492 | Rubellite Coil | 爾烏布艾腰甲 |
-| 2493 | Rubellite F Coil | 爾烏布艾腰甲【Ｆ】 |
-| 2494 | Rubellite FX Coil | 爾烏布艾腰甲【ＦＸ】 |
-| 2495 | ラズライト Coil | 拉茲拉伊托腰甲 |
-| 2496 | ラズライトF Coil | 拉茲拉伊托腰甲【Ｆ】 |
-| 2497 | ラズライトFX Coil | 拉茲拉伊托腰甲【ＦＸ】 |
-| 2498 | Zircon Coil | 茲伊爾歐腰甲 |
-| 2499 | Zircon F Coil | 茲伊爾歐腰甲【Ｆ】 |
-| 2500 | Zircon FX Coil | 茲伊爾歐腰甲【ＦＸ】 |
+| 2492 | Rubellite Coil | 露貝爾特腰甲 |
+| 2493 | Rubellite F Coil | 露貝爾特腰甲【Ｆ】 |
+| 2494 | Rubellite FX Coil | 露貝爾特腰甲【ＦＸ】 |
+| 2495 | ラズライト Coil | 拉茲拉伊腰甲 |
+| 2496 | ラズライトF Coil | 拉茲拉伊腰甲【Ｆ】 |
+| 2497 | ラズライトFX Coil | 拉茲拉伊腰甲【ＦＸ】 |
+| 2498 | Zircon Coil | 茲古腰甲 |
+| 2499 | Zircon F Coil | 茲古腰甲【Ｆ】 |
+| 2500 | Zircon FX Coil | 茲古腰甲【ＦＸ】 |
 

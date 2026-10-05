@@ -4,29 +4,29 @@
 
 | index | 原文 | 譯文 |
 |---|---|---|
-| 12001 | Survey Corps D Feet | 斯烏爾艾足 |
+| 12001 | Survey Corps D Feet | 斯薇古足 |
 | 12002 | Training Corps D Feet | 特阿恩伊足 |
 | 12003 | Twelve Paladins' Armor D・Toenail | 十二聖騎鎧趾甲 |
 | 12004 | Holy Maiden Armor D・Toenail | 聖女鎧趾甲 |
 | 12005 | Dragon Slayer Armor D・Toenail | 屠龍趾甲 |
 | 12006 | Rebellion Armour D・Toenail | 叛逆鎧趾甲 |
 | 12007 | Dinato D Greaves | 德伊恩阿護腿 |
-| 12008 | Duque D Greaves | 德烏斯烏護腿 |
+| 12008 | Duque D Greaves | 杜奎護腿 |
 | 12009 | Granu D Greaves | 格阿恩烏護腿 |
 | 12010 | Chiyo Legs D | 奇伊伊歐腿甲 |
-| 12011 | Rubellite D Greaves | 爾烏布艾護腿 |
-| 12012 | ラズライトD Greaves | 拉茲拉伊托護腿 |
-| 12013 | Zircon D Greaves | 茲伊爾歐護腿 |
+| 12011 | Rubellite D Greaves | 露貝爾特護腿 |
+| 12012 | ラズライトD Greaves | 拉茲拉伊護腿 |
+| 12013 | Zircon D Greaves | 茲古恩德護腿 |
 | 12014 | Spinel D Greaves | 斯伊恩艾護腿 |
 | 12015 | Jade D Greaves | 傑阿德艾護腿 |
 | 12016 | Agate D Greaves | 阿格阿特護腿 |
-| 12017 | Pyrope D Greaves | 普歐普艾護腿 |
+| 12017 | Pyrope D Greaves | 蘿佩護腿 |
 | 12018 | アイオラD Greaves | 阿伊歐拉護腿 |
-| 12019 | Rutile D Greaves | 爾烏特伊護腿 |
+| 12019 | Rutile D Greaves | 露蒂勒護腿 |
 | 12020 | Blood D Greaves | 血護腿 |
 | 12021 | Citrine D Leggings | 克伊特伊裹腿 |
-| 12022 | Peridot D Leggings | 普艾爾伊裹腿 |
-| 12023 | Turquoise D Leggings | 特烏爾烏裹腿 |
+| 12022 | Peridot D Leggings | 佩里多裹腿 |
+| 12023 | Turquoise D Leggings | 圖奎賽裹腿 |
 | 12024 | Mafumofu Boots PD Red | 莫芙莫芙靴【ＰＤ】・赤 |
 | 12025 | Mafumofu Boots PD Yellow | 莫芙莫芙靴【ＰＤ】・黄 |
 | 12026 | Mafumofu Boots PD Purple | 莫芙莫芙靴【ＰＤ】・紫 |
@@ -62,11 +62,11 @@
 | 12056 | Kushala ハディ PD Green | 鋼龍護腿【ＰＤ】・緑 |
 | 12057 | 忍の Tabi・陽D | 忍の陽足袋 |
 | 12058 | 忍の Tabi・陰D | 忍の陰足袋 |
-| 12059 | Bonne D Greaves | 布歐恩艾護腿 |
-| 12060 | Kalais D Leggings | 克阿爾阿裹腿 |
-| 12061 | Lucchese D Leggings | 爾烏克艾裹腿 |
+| 12059 | Bonne D Greaves | 波恩護腿 |
+| 12060 | Kalais D Leggings | 可拉裹腿 |
+| 12061 | Lucchese D Leggings | 露切賽裹腿 |
 | 12062 | Quoiz D Leggings | 斯烏茲裹腿 |
-| 12063 | Nekodan D Feet | 恩艾克歐足 |
+| 12063 | Nekodan D Feet | 奈古達足 |
 | 12064 | Gudan D Feet | 格烏德阿足 |
 | 12065 | Nerihi Greaves Z | 練緋護腿【Ｚ】 |
 | 12066 | Nerihi Greaves ZF | 練緋護腿【ＺＦ】 |
@@ -112,14 +112,14 @@
 | 12106 | Gasura ZF Leggings | 怒貌龍裹腿【ＺＦ】 |
 | 12107 | Gasura ZY Leggings | 怒貌龍裹腿【ＺＹ】 |
 | 12108 | Gasura ZX Leggings | 怒貌龍裹腿【ＺＸ】 |
-| 12109 | Seregios Greaves | 斯艾爾艾護腿 |
-| 12110 | Seregios G Greaves | 斯艾爾艾護腿【Ｇ】 |
-| 12111 | Seregios GF Greaves | 斯艾爾艾護腿【ＧＦ】 |
-| 12112 | Seregios GX Greaves | 斯艾爾艾護腿【ＧＸ】 |
-| 12113 | Seregios Leggings | 斯艾爾艾裹腿 |
-| 12114 | Seregios G Leggings | 斯艾爾艾裹腿【Ｇ】 |
-| 12115 | Seregios GF Leggings | 斯艾爾艾裹腿【ＧＦ】 |
-| 12116 | Seregios GX Leggings | 斯艾爾艾裹腿【ＧＸ】 |
+| 12109 | Seregios Greaves | 賽蕾吉護腿 |
+| 12110 | Seregios G Greaves | 賽蕾吉護腿【Ｇ】 |
+| 12111 | Seregios GF Greaves | 賽蕾吉護腿【ＧＦ】 |
+| 12112 | Seregios GX Greaves | 賽蕾吉護腿【ＧＸ】 |
+| 12113 | Seregios Leggings | 賽蕾吉裹腿 |
+| 12114 | Seregios G Leggings | 賽蕾吉裹腿【Ｇ】 |
+| 12115 | Seregios GF Leggings | 賽蕾吉裹腿【ＧＦ】 |
+| 12116 | Seregios GX Leggings | 賽蕾吉裹腿【ＧＸ】 |
 | 12117 | Utaei Legs Z | 烏特阿腿甲【Ｚ】 |
 | 12118 | Utaei Legs ZF | 烏特阿腿甲【ＺＦ】 |
 | 12119 | Utaei Legs ZY | 烏特阿腿甲【ＺＹ】 |
@@ -176,20 +176,20 @@
 | 12170 | Gray GS Boots | 灰靴【ＧＳ】 |
 | 12171 | Gray GP Boots | 灰靴【ＧＰ】 |
 | 12172 | Gray ZP Boots | 灰靴【ＺＰ】 |
-| 12173 | Urpina Feet | 烏爾皮納足 |
-| 12174 | Urpina F Feet | 烏爾皮納足【Ｆ】 |
-| 12175 | Urpina FZ Feet | 烏爾皮納足【ＦＺ】 |
-| 12176 | Urpina HS Feet | 烏爾皮納足【ＨＳ】 |
-| 12177 | Urpina GS Feet | 烏爾皮納足【ＧＳ】 |
-| 12178 | Urpina GP Feet | 烏爾皮納足【ＧＰ】 |
-| 12179 | Urpina ZP Feet | 烏爾皮納足【ＺＰ】 |
-| 12180 | Urpina Boots | 烏爾皮納靴 |
-| 12181 | Urpina F Boots | 烏爾皮納靴【Ｆ】 |
-| 12182 | Urpina FZ Boots | 烏爾皮納靴【ＦＺ】 |
-| 12183 | Urpina HS Boots | 烏爾皮納靴【ＨＳ】 |
-| 12184 | Urpina GS Boots | 烏爾皮納靴【ＧＳ】 |
-| 12185 | Urpina GP Boots | 烏爾皮納靴【ＧＰ】 |
-| 12186 | Urpina ZP Boots | 烏爾皮納靴【ＺＰ】 |
+| 12173 | Urpina Feet | 宇露皮娜足 |
+| 12174 | Urpina F Feet | 宇露皮娜足【Ｆ】 |
+| 12175 | Urpina FZ Feet | 宇露皮娜足【ＦＺ】 |
+| 12176 | Urpina HS Feet | 宇露皮娜足【ＨＳ】 |
+| 12177 | Urpina GS Feet | 宇露皮娜足【ＧＳ】 |
+| 12178 | Urpina GP Feet | 宇露皮娜足【ＧＰ】 |
+| 12179 | Urpina ZP Feet | 宇露皮娜足【ＺＰ】 |
+| 12180 | Urpina Boots | 宇露皮娜靴 |
+| 12181 | Urpina F Boots | 宇露皮娜靴【Ｆ】 |
+| 12182 | Urpina FZ Boots | 宇露皮娜靴【ＦＺ】 |
+| 12183 | Urpina HS Boots | 宇露皮娜靴【ＨＳ】 |
+| 12184 | Urpina GS Boots | 宇露皮娜靴【ＧＳ】 |
+| 12185 | Urpina GP Boots | 宇露皮娜靴【ＧＰ】 |
+| 12186 | Urpina ZP Boots | 宇露皮娜靴【ＺＰ】 |
 | 12187 | Noel Feet | 諾埃爾足 |
 | 12188 | Noel F Feet | 諾埃爾足【Ｆ】 |
 | 12189 | Noel FZ Feet | 諾埃爾足【ＦＺ】 |
@@ -232,17 +232,17 @@
 | 12226 | Wing D Feet | 翼足 |
 | 12227 | Gasura ZD Greaves | 怒貌龍護腿 |
 | 12228 | Gasura ZD Leggings | 怒貌龍裹腿 |
-| 12229 | Seregios C Greaves | 斯艾爾艾護腿 |
-| 12230 | Seregios C Leggings | 斯艾爾艾裹腿 |
+| 12229 | Seregios C Greaves | 賽蕾吉護腿 |
+| 12230 | Seregios C Leggings | 賽蕾吉裹腿 |
 | 12231 | Pinbi D Feet | 普伊恩伊足 |
 | 12232 | Pribu D Feet | 普伊布烏足 |
-| 12233 | Nerihi Greaves D | 恩艾爾伊護腿 |
+| 12233 | Nerihi Greaves D | 奈里希護腿 |
 | 12234 | Gray D Feet | 格阿伊足 |
-| 12235 | Urpina D Feet | 烏爾伊恩足 |
-| 12236 | Noel D Feet | 恩歐爾足 |
-| 12237 | Bune D Feet | 布烏恩艾足 |
-| 12238 | Melas D Leggings | 姆艾爾阿裹腿 |
-| 12239 | Byakko・Kensei D Feet | 白虎布阿克歐足 |
+| 12235 | Urpina D Feet | 皮娜足 |
+| 12236 | Noel D Feet | 諾足 |
+| 12237 | Bune D Feet | 布奈足 |
+| 12238 | Melas D Leggings | 梅拉裹腿 |
+| 12239 | Byakko・Kensei D Feet | 白虎雅古凱賽足 |
 | 12240 | Byakko・双龍D Feet | 白虎双龍足 |
 | 12241 | Byakko・剣王D Feet | 白虎剣王足 |
 | 12242 | Byakko・刀神D Feet | 白虎刀神足 |
@@ -255,9 +255,9 @@
 | 12249 | Byakko・銃傑D Boots | 白虎銃傑靴 |
 | 12250 | Byakko・銃仙D Boots | 白虎銃仙靴 |
 | 12251 | Byakko・Bow 鬼D Boots | 白虎靴 |
-| 12252 | キリンレガース PD Red | 奇里恩雷加斯護腿【ＰＤ】・赤 |
-| 12253 | キリンレガース PD Purple | 奇里恩雷加斯護腿【ＰＤ】・紫 |
-| 12254 | キリンレガースPD Black | 奇里恩雷加斯護腿【ＰＤ】・黑 |
+| 12252 | キリンレガース PD Red | 奇莉恩蕾護腿【ＰＤ】・赤 |
+| 12253 | キリンレガース PD Purple | 奇莉恩蕾護腿【ＰＤ】・紫 |
+| 12254 | キリンレガースPD Black | 奇莉恩蕾護腿【ＰＤ】・黑 |
 | 12255 | Kaiser Greaves PD White | 帝王護腿【ＰＤ】・白 |
 | 12256 | Kaiser Leggings PD White | 帝王裹腿【ＰＤ】・白 |
 | 12257 | Kaiser Greaves PD Black | 帝王護腿【ＰＤ】・黑 |
@@ -282,12 +282,12 @@
 | 12276 | Remobra Feet PD White | 翼蛇龍足【ＰＤ】・白 |
 | 12277 | Remobra Feet PD Yellow | 翼蛇龍足【ＰＤ】・黄 |
 | 12278 | Remobra Feet PD Black | 翼蛇龍足【ＰＤ】・黑 |
-| 12279 | Harze D Feet | 赫阿爾艾足 |
-| 12280 | Revenants D Heel | 爾艾芙艾踵 |
-| 12281 | Kukubo D Leggings | 克烏克烏裹腿 |
+| 12279 | Harze D Feet | 哈澤足 |
+| 12280 | Revenants D Heel | 蕾薇娜踵 |
+| 12281 | Kukubo D Leggings | 克克波裹腿 |
 | 12282 | Kakabu D Leggings | 克阿克阿裹腿 |
-| 12283 | Aruru D Leggings | 阿爾烏爾裹腿 |
-| 12284 | Suzaku・Kensei D Feet | 朱雀斯烏茲阿足 |
+| 12283 | Aruru D Leggings | 露露裹腿 |
+| 12284 | Suzaku・Kensei D Feet | 朱雀斯扎克凱足 |
 | 12285 | Suzaku・双龍D Feet | 朱雀双龍足 |
 | 12286 | Suzaku・剣王D Feet | 朱雀剣王足 |
 | 12287 | Suzaku・刀神D Feet | 朱雀刀神足 |
@@ -333,37 +333,37 @@
 | 12327 | Gravios Greaves PD Black | 鎧龍護腿【ＰＤ】・黑 |
 | 12328 | Gravios Greaves PD Blue | 鎧龍護腿【ＰＤ】・青 |
 | 12329 | Gravios Greaves PD Red | 鎧龍護腿【ＰＤ】・赤 |
-| 12330 | Sharuru D Greaves | 夏阿爾烏護腿 |
-| 12331 | Neriotori Greaves D | 恩艾爾伊護腿 |
-| 12332 | Anorupatisu ZD Greaves | 阿恩歐爾護腿 |
-| 12333 | Anorupatisu ZD Leggings | 阿恩歐爾裹腿 |
+| 12330 | Sharuru D Greaves | 修露露護腿 |
+| 12331 | Neriotori Greaves D | 奈里托里護腿 |
+| 12332 | Anorupatisu ZD Greaves | 諾露拍蒂護腿 |
+| 12333 | Anorupatisu ZD Leggings | 諾露拍蒂裹腿 |
 | 12334 | Dylan D Feet | 德阿恩足 |
 | 12335 | Dibble D Feet | 德伊布艾足 |
 | 12336 | Fins D Feet | 芙伊恩足 |
 | 12337 | Dins D Feet | 德伊恩足 |
-| 12338 | Charis D Feet | 奇阿爾伊足 |
-| 12339 | Miriam D Feet | 姆伊爾伊足 |
-| 12340 | Lenigan D Feet | 爾艾恩伊足 |
+| 12338 | Charis D Feet | 夏里足 |
+| 12339 | Miriam D Feet | 蜜里足 |
+| 12340 | Lenigan D Feet | 勒尼加足 |
 | 12341 | 執事 Maid 色替え | 執事色替え護腿 |
 | 12342 | Katante D Greaves | 克阿特阿護腿 |
 | 12343 | Rikante D Greaves | 爾伊克阿護腿 |
-| 12344 | Merente D Greaves | 姆艾爾艾護腿 |
+| 12344 | Merente D Greaves | 梅蕾特護腿 |
 | 12345 | Utante D Greaves | 烏特阿恩護腿 |
-| 12346 | Brooke D Feet | 布歐克艾足 |
-| 12347 | Shirukku D Feet | 夏伊爾烏足 |
-| 12348 | Gorukku D Feet | 格歐爾烏足 |
+| 12346 | Brooke D Feet | 古蘿布足 |
+| 12347 | Shirukku D Feet | 古蘿布足 |
+| 12348 | Gorukku D Feet | 古蘿布足 |
 | 12349 | Kiyoshi Greaves D | 克伊伊歐護腿 |
 | 12350 | Kashoku Greaves D | 克阿夏歐護腿 |
 | 12351 | Jyaga D Greaves | 傑阿格阿護腿 |
-| 12352 | Cure D Greaves | 克烏爾艾護腿 |
+| 12352 | Cure D Greaves | 庫蕾護腿 |
 | 12353 | Jess D Greaves | 傑艾斯護腿 |
-| 12354 | Riaruo D Greaves | 爾伊爾烏護腿 |
-| 12355 | Reiresu D Greaves | 爾艾爾艾護腿 |
-| 12356 | Reuasu D Greaves | 爾艾斯烏護腿 |
-| 12357 | Buran D Greaves | 布烏爾阿護腿 |
+| 12354 | Riaruo D Greaves | 里露護腿 |
+| 12355 | Reiresu D Greaves | 蕾蕾斯護腿 |
+| 12356 | Reuasu D Greaves | 蕾斯護腿 |
+| 12357 | Buran D Greaves | 布拉恩德護腿 |
 | 12358 | Shimashima D Feet | 夏伊姆阿足 |
-| 12359 | Desutora D Sabaton | 德艾斯烏脛甲 |
-| 12360 | Furante D Greaves | 芙烏爾阿護腿 |
+| 12359 | Desutora D Sabaton | 德斯托拉脛甲 |
+| 12360 | Furante D Greaves | 芙拉特護腿 |
 | 12361 | Sharuru Greaves | 夏露露護腿 |
 | 12362 | Sharuru F Greaves | 夏露露護腿【Ｆ】 |
 | 12363 | Sharuru FZ Greaves | 夏露露護腿【ＦＺ】 |
@@ -428,20 +428,20 @@
 | 12422 | Dylan GS Boots | 迪倫靴【ＧＳ】 |
 | 12423 | Dylan GP Boots | 迪倫靴【ＧＰ】 |
 | 12424 | Dylan ZP Boots | 迪倫靴【ＺＰ】 |
-| 12425 | Dibble Feet | 迪布爾足 |
-| 12426 | Dibble F Feet | 迪布爾足【Ｆ】 |
-| 12427 | Dibble FZ Feet | 迪布爾足【ＦＺ】 |
-| 12428 | Dibble HS Feet | 迪布爾足【ＨＳ】 |
-| 12429 | Dibble GS Feet | 迪布爾足【ＧＳ】 |
-| 12430 | Dibble GP Feet | 迪布爾足【ＧＰ】 |
-| 12431 | Dibble ZP Feet | 迪布爾足【ＺＰ】 |
-| 12432 | Dibble Boots | 迪布爾靴 |
-| 12433 | Dibble F Boots | 迪布爾靴【Ｆ】 |
-| 12434 | Dibble FZ Boots | 迪布爾靴【ＦＺ】 |
-| 12435 | Dibble HS Boots | 迪布爾靴【ＨＳ】 |
-| 12436 | Dibble GS Boots | 迪布爾靴【ＧＳ】 |
-| 12437 | Dibble GP Boots | 迪布爾靴【ＧＰ】 |
-| 12438 | Dibble ZP Boots | 迪布爾靴【ＺＰ】 |
+| 12425 | Dibble Feet | 迪布露足 |
+| 12426 | Dibble F Feet | 迪布露足【Ｆ】 |
+| 12427 | Dibble FZ Feet | 迪布露足【ＦＺ】 |
+| 12428 | Dibble HS Feet | 迪布露足【ＨＳ】 |
+| 12429 | Dibble GS Feet | 迪布露足【ＧＳ】 |
+| 12430 | Dibble GP Feet | 迪布露足【ＧＰ】 |
+| 12431 | Dibble ZP Feet | 迪布露足【ＺＰ】 |
+| 12432 | Dibble Boots | 迪布露靴 |
+| 12433 | Dibble F Boots | 迪布露靴【Ｆ】 |
+| 12434 | Dibble FZ Boots | 迪布露靴【ＦＺ】 |
+| 12435 | Dibble HS Boots | 迪布露靴【ＨＳ】 |
+| 12436 | Dibble GS Boots | 迪布露靴【ＧＳ】 |
+| 12437 | Dibble GP Boots | 迪布露靴【ＧＰ】 |
+| 12438 | Dibble ZP Boots | 迪布露靴【ＺＰ】 |
 | 12439 | Fins Feet | 鰭足 |
 | 12440 | Fins F Feet | 鰭足【Ｆ】 |
 | 12441 | Fins FZ Feet | 鰭足【ＦＺ】 |

@@ -102,30 +102,30 @@
 | 8596 | AB Layer HS腕:Bow White | 腕:護腕・白 |
 | 8597 | AB Layer GS腕:Bow White | 腕:護腕・白 |
 | 8598 | AB Layer GP腕:Bow White | 腕:護腕・白 |
-| 8599 | Bronte Arms | 布歐恩艾護腕 |
-| 8600 | Bronte F Arms | 布歐恩艾護腕【Ｆ】 |
-| 8601 | Bronte FZ Arms | 布歐恩艾護腕【ＦＺ】 |
-| 8602 | Bronte HS Arms | 布歐恩艾護腕【ＨＳ】 |
-| 8603 | Bronte GS Arms | 布歐恩艾護腕【ＧＳ】 |
-| 8604 | Bronte GP Arms | 布歐恩艾護腕【ＧＰ】 |
-| 8605 | Bronte Guard | 布歐恩艾臂甲 |
-| 8606 | Bronte F Guard | 布歐恩艾臂甲【Ｆ】 |
-| 8607 | Bronte FZ Guard | 布歐恩艾臂甲【ＦＺ】 |
-| 8608 | Bronte HS Guard | 布歐恩艾臂甲【ＨＳ】 |
-| 8609 | Bronte GS Guard | 布歐恩艾臂甲【ＧＳ】 |
-| 8610 | Bronte GP Guard | 布歐恩艾臂甲【ＧＰ】 |
-| 8611 | Solene Arms | 斯歐爾艾護腕 |
-| 8612 | Solene F Arms | 斯歐爾艾護腕【Ｆ】 |
-| 8613 | Solene FZ Arms | 斯歐爾艾護腕【ＦＺ】 |
-| 8614 | Solene HS Arms | 斯歐爾艾護腕【ＨＳ】 |
-| 8615 | Solene GS Arms | 斯歐爾艾護腕【ＧＳ】 |
-| 8616 | Solene GP Arms | 斯歐爾艾護腕【ＧＰ】 |
-| 8617 | Solene Guard | 斯歐爾艾臂甲 |
-| 8618 | Solene F Guard | 斯歐爾艾臂甲【Ｆ】 |
-| 8619 | Solene FZ Guard | 斯歐爾艾臂甲【ＦＺ】 |
-| 8620 | Solene HS Guard | 斯歐爾艾臂甲【ＨＳ】 |
-| 8621 | Solene GS Guard | 斯歐爾艾臂甲【ＧＳ】 |
-| 8622 | Solene GP Guard | 斯歐爾艾臂甲【ＧＰ】 |
+| 8599 | Bronte Arms | 布羅特護腕 |
+| 8600 | Bronte F Arms | 布羅特護腕【Ｆ】 |
+| 8601 | Bronte FZ Arms | 布羅特護腕【ＦＺ】 |
+| 8602 | Bronte HS Arms | 布羅特護腕【ＨＳ】 |
+| 8603 | Bronte GS Arms | 布羅特護腕【ＧＳ】 |
+| 8604 | Bronte GP Arms | 布羅特護腕【ＧＰ】 |
+| 8605 | Bronte Guard | 布羅特臂甲 |
+| 8606 | Bronte F Guard | 布羅特臂甲【Ｆ】 |
+| 8607 | Bronte FZ Guard | 布羅特臂甲【ＦＺ】 |
+| 8608 | Bronte HS Guard | 布羅特臂甲【ＨＳ】 |
+| 8609 | Bronte GS Guard | 布羅特臂甲【ＧＳ】 |
+| 8610 | Bronte GP Guard | 布羅特臂甲【ＧＰ】 |
+| 8611 | Solene Arms | 索勒奈護腕 |
+| 8612 | Solene F Arms | 索勒奈護腕【Ｆ】 |
+| 8613 | Solene FZ Arms | 索勒奈護腕【ＦＺ】 |
+| 8614 | Solene HS Arms | 索勒奈護腕【ＨＳ】 |
+| 8615 | Solene GS Arms | 索勒奈護腕【ＧＳ】 |
+| 8616 | Solene GP Arms | 索勒奈護腕【ＧＰ】 |
+| 8617 | Solene Guard | 索勒奈臂甲 |
+| 8618 | Solene F Guard | 索勒奈臂甲【Ｆ】 |
+| 8619 | Solene FZ Guard | 索勒奈臂甲【ＦＺ】 |
+| 8620 | Solene HS Guard | 索勒奈臂甲【ＨＳ】 |
+| 8621 | Solene GS Guard | 索勒奈臂甲【ＧＳ】 |
+| 8622 | Solene GP Guard | 索勒奈臂甲【ＧＰ】 |
 | 8623 | Lapine Arms | 兔護腕 |
 | 8624 | Lapine F Arms | 兔護腕【Ｆ】 |
 | 8625 | Lapine FZ Arms | 兔護腕【ＦＺ】 |
@@ -150,68 +150,68 @@
 | 8644 | Yukumo ノコテG・Heaven | 結雲天護腕【Ｇ】 |
 | 8645 | Yukumo ノコテGF・Heaven | 結雲天護腕【Ｆ】 |
 | 8646 | Yukumo ノコテGX・Heaven | 結雲天護腕【ＧＸ】 |
-| 8647 | Furogada G Arms | 芙烏爾歐護腕【Ｇ】 |
-| 8648 | Furogada GF Arms | 芙烏爾歐護腕【ＧＦ】 |
-| 8649 | Furogada GX Arms | 芙烏爾歐護腕【ＧＸ】 |
+| 8647 | Furogada G Arms | 芙蘿加達護腕【Ｇ】 |
+| 8648 | Furogada GF Arms | 芙蘿加達護腕【ＧＦ】 |
+| 8649 | Furogada GX Arms | 芙蘿加達護腕【ＧＸ】 |
 | 8650 | Yukumo ノコテ・Earth | 結雲地護腕 |
 | 8651 | Yukumo ノコテG・Earth | 結雲地護腕【Ｇ】 |
 | 8652 | Yukumo ノコテGF・Earth | 結雲地護腕【Ｆ】 |
 | 8653 | Yukumo ノコテGX・Earth | 結雲地護腕【ＧＸ】 |
-| 8654 | Furogada G Guard | 芙烏爾歐臂甲【Ｇ】 |
-| 8655 | Furogada GF Guard | 芙烏爾歐臂甲【ＧＦ】 |
-| 8656 | Furogada GX Guard | 芙烏爾歐臂甲【ＧＸ】 |
+| 8654 | Furogada G Guard | 芙蘿加達臂甲【Ｇ】 |
+| 8655 | Furogada GF Guard | 芙蘿加達臂甲【ＧＦ】 |
+| 8656 | Furogada GX Guard | 芙蘿加達臂甲【ＧＸ】 |
 | 8657 | ダミー | (dummy) |
 | 8658 | ダミー | (dummy) |
 | 8659 | ダミー | (dummy) |
 | 8660 | ダミー | (dummy) |
-| 8661 | Rance G Arms | 爾阿恩艾護腕【Ｇ】 |
-| 8662 | Rance GF Arms | 爾阿恩艾護腕【ＧＦ】 |
-| 8663 | Rance GX Arms | 爾阿恩艾護腕【ＧＸ】 |
+| 8661 | Rance G Arms | 拉賽護腕【Ｇ】 |
+| 8662 | Rance GF Arms | 拉賽護腕【ＧＦ】 |
+| 8663 | Rance GX Arms | 拉賽護腕【ＧＸ】 |
 | 8664 | ダミー | (dummy) |
 | 8665 | ダミー | (dummy) |
 | 8666 | ダミー | (dummy) |
 | 8667 | ダミー | (dummy) |
-| 8668 | Rance G Guard | 爾阿恩艾臂甲【Ｇ】 |
-| 8669 | Rance GF Guard | 爾阿恩艾臂甲【ＧＦ】 |
-| 8670 | Rance GX Guard | 爾阿恩艾臂甲【ＧＸ】 |
-| 8671 | Meirida Arms | 姆艾爾伊護腕 |
-| 8672 | Meirida F Arms | 姆艾爾伊護腕【Ｆ】 |
-| 8673 | Meirida FY Arms | 姆艾爾伊護腕 |
-| 8674 | Meirida HS Arms | 姆艾爾伊護腕【ＨＳ】 |
-| 8675 | Meirida G Arms | 姆艾爾伊護腕【Ｇ】 |
-| 8676 | Meirida GF Arms | 姆艾爾伊護腕【ＧＦ】 |
-| 8677 | Meirida GX Arms | 姆艾爾伊護腕【ＧＸ】 |
-| 8678 | Meirida Guard | 姆艾爾伊臂甲 |
-| 8679 | Meirida F Guard | 姆艾爾伊臂甲【Ｆ】 |
-| 8680 | Meirida FY Guard | 姆艾爾伊臂甲 |
-| 8681 | Meirida HS Guard | 姆艾爾伊臂甲【ＨＳ】 |
-| 8682 | Meirida G Guard | 姆艾爾伊臂甲【Ｇ】 |
-| 8683 | Meirida GF Guard | 姆艾爾伊臂甲【ＧＦ】 |
-| 8684 | Meirida GX Guard | 姆艾爾伊臂甲【ＧＸ】 |
-| 8685 | Maaden Arms | 姆阿德艾護腕 |
-| 8686 | Maaden F Arms | 姆阿德艾護腕【Ｆ】 |
-| 8687 | Maaden FY Arms | 姆阿德艾護腕 |
-| 8688 | Maaden HS Arms | 姆阿德艾護腕【ＨＳ】 |
-| 8689 | Maaden G Arms | 姆阿德艾護腕【Ｇ】 |
-| 8690 | Maaden GF Arms | 姆阿德艾護腕【ＧＦ】 |
-| 8691 | Maaden GX Arms | 姆阿德艾護腕【ＧＸ】 |
-| 8692 | Maaden Guard | 姆阿德艾臂甲 |
-| 8693 | Maaden F Guard | 姆阿德艾臂甲【Ｆ】 |
-| 8694 | Maaden FY Guard | 姆阿德艾臂甲 |
-| 8695 | Maaden HS Guard | 姆阿德艾臂甲【ＨＳ】 |
-| 8696 | Maaden G Guard | 姆阿德艾臂甲【Ｇ】 |
-| 8697 | Maaden GF Guard | 姆阿德艾臂甲【ＧＦ】 |
-| 8698 | Maaden GX Guard | 姆阿德艾臂甲【ＧＸ】 |
+| 8668 | Rance G Guard | 拉賽臂甲【Ｇ】 |
+| 8669 | Rance GF Guard | 拉賽臂甲【ＧＦ】 |
+| 8670 | Rance GX Guard | 拉賽臂甲【ＧＸ】 |
+| 8671 | Meirida Arms | 梅里達護腕 |
+| 8672 | Meirida F Arms | 梅里達護腕【Ｆ】 |
+| 8673 | Meirida FY Arms | 梅里達護腕 |
+| 8674 | Meirida HS Arms | 梅里達護腕【ＨＳ】 |
+| 8675 | Meirida G Arms | 梅里達護腕【Ｇ】 |
+| 8676 | Meirida GF Arms | 梅里達護腕【ＧＦ】 |
+| 8677 | Meirida GX Arms | 梅里達護腕【ＧＸ】 |
+| 8678 | Meirida Guard | 梅里達臂甲 |
+| 8679 | Meirida F Guard | 梅里達臂甲【Ｆ】 |
+| 8680 | Meirida FY Guard | 梅里達臂甲 |
+| 8681 | Meirida HS Guard | 梅里達臂甲【ＨＳ】 |
+| 8682 | Meirida G Guard | 梅里達臂甲【Ｇ】 |
+| 8683 | Meirida GF Guard | 梅里達臂甲【ＧＦ】 |
+| 8684 | Meirida GX Guard | 梅里達臂甲【ＧＸ】 |
+| 8685 | Maaden Arms | 瑪德護腕 |
+| 8686 | Maaden F Arms | 瑪德護腕【Ｆ】 |
+| 8687 | Maaden FY Arms | 瑪德護腕 |
+| 8688 | Maaden HS Arms | 瑪德護腕【ＨＳ】 |
+| 8689 | Maaden G Arms | 瑪德護腕【Ｇ】 |
+| 8690 | Maaden GF Arms | 瑪德護腕【ＧＦ】 |
+| 8691 | Maaden GX Arms | 瑪德護腕【ＧＸ】 |
+| 8692 | Maaden Guard | 瑪德臂甲 |
+| 8693 | Maaden F Guard | 瑪德臂甲【Ｆ】 |
+| 8694 | Maaden FY Guard | 瑪德臂甲 |
+| 8695 | Maaden HS Guard | 瑪德臂甲【ＨＳ】 |
+| 8696 | Maaden G Guard | 瑪德臂甲【Ｇ】 |
+| 8697 | Maaden GF Guard | 瑪德臂甲【ＧＦ】 |
+| 8698 | Maaden GX Guard | 瑪德臂甲【ＧＸ】 |
 | 8699 | Kosho [Sleeve 】 | 古書袖 |
 | 8700 | Kosho F [Sleeve 】 | 古書袖【Ｆ】 |
-| 8701 | Kosho FY [Sleeve 】 | 克歐夏歐袖 |
+| 8701 | Kosho FY [Sleeve 】 | 古修袖 |
 | 8702 | Kosho HS [Sleeve 】 | 古書袖【ＨＳ】 |
 | 8703 | Kosho G [Sleeve 】 | 古書袖【Ｇ】 |
 | 8704 | Kosho GF [Sleeve 】 | 古書袖【ＧＦ】 |
 | 8705 | Kosho GX [Sleeve 】 | 古書袖【ＧＸ】 |
 | 8706 | Koro [Sleeve 】 | 孤狼袖 |
 | 8707 | Koro F [Sleeve 】 | 孤狼袖【Ｆ】 |
-| 8708 | Koro FY [Sleeve 】 | 克歐爾歐袖 |
+| 8708 | Koro FY [Sleeve 】 | 古蘿袖 |
 | 8709 | Koro HS [Sleeve 】 | 孤狼袖【ＨＳ】 |
 | 8710 | Koro G [Sleeve 】 | 孤狼袖【Ｇ】 |
 | 8711 | Koro GF [Sleeve 】 | 孤狼袖【ＧＦ】 |
@@ -230,20 +230,20 @@
 | 8724 | Abuyado G Guard | 阿布烏伊臂甲【Ｇ】 |
 | 8725 | Abuyado GF Guard | 阿布烏伊臂甲【ＧＦ】 |
 | 8726 | Abuyado GX Guard | 阿布烏伊臂甲【ＧＸ】 |
-| 8727 | Gorukku グローブ | 格歐爾烏手套 |
-| 8728 | Gorukku Fグローブ | 格歐爾烏手套【Ｆ】 |
-| 8729 | Gorukku FYグローブ | 格歐爾烏手套 |
-| 8730 | Gorukku HSグローブ | 格歐爾烏手套【ＨＳ】 |
-| 8731 | Gorukku Gグローブ | 格歐爾烏手套【Ｇ】 |
-| 8732 | Gorukku GFグローブ | 格歐爾烏手套【ＧＦ】 |
-| 8733 | Gorukku GXグローブ | 格歐爾烏手套【ＧＸ】 |
-| 8734 | Gorukku ミトン | 格歐爾烏手套 |
-| 8735 | Gorukku Fミトン | 格歐爾烏手套【Ｆ】 |
-| 8736 | Gorukku FYミトン | 格歐爾烏手套 |
-| 8737 | Gorukku HSミトン | 格歐爾烏手套【ＨＳ】 |
-| 8738 | Gorukku Gミトン | 格歐爾烏手套【Ｇ】 |
-| 8739 | Gorukku GFミトン | 格歐爾烏手套【ＧＦ】 |
-| 8740 | Gorukku GXミトン | 格歐爾烏手套【ＧＸ】 |
+| 8727 | Gorukku グローブ | 古蘿布手套 |
+| 8728 | Gorukku Fグローブ | 古蘿布手套【Ｆ】 |
+| 8729 | Gorukku FYグローブ | 古蘿布手套 |
+| 8730 | Gorukku HSグローブ | 古蘿布手套【ＨＳ】 |
+| 8731 | Gorukku Gグローブ | 古蘿布手套【Ｇ】 |
+| 8732 | Gorukku GFグローブ | 古蘿布手套【ＧＦ】 |
+| 8733 | Gorukku GXグローブ | 古蘿布手套【ＧＸ】 |
+| 8734 | Gorukku ミトン | 古蘿布手套 |
+| 8735 | Gorukku Fミトン | 古蘿布手套【Ｆ】 |
+| 8736 | Gorukku FYミトン | 古蘿布手套 |
+| 8737 | Gorukku HSミトン | 古蘿布手套【ＨＳ】 |
+| 8738 | Gorukku Gミトン | 古蘿布手套【Ｇ】 |
+| 8739 | Gorukku GFミトン | 古蘿布手套【ＧＦ】 |
+| 8740 | Gorukku GXミトン | 古蘿布手套【ＧＸ】 |
 | 8741 | Shimashima Arms | 夏伊姆阿護腕 |
 | 8742 | Shimashima F Arms | 夏伊姆阿護腕【Ｆ】 |
 | 8743 | Shimashima FY Arms | 夏伊姆阿護腕 |
@@ -258,12 +258,12 @@
 | 8752 | Shimashima G Guard | 夏伊姆阿臂甲【Ｇ】 |
 | 8753 | Shimashima GF Guard | 夏伊姆阿臂甲【ＧＦ】 |
 | 8754 | Shimashima GX Guard | 夏伊姆阿臂甲【ＧＸ】 |
-| 8755 | Rath Duo FY Arms | 爾阿斯烏護腕 |
+| 8755 | Rath Duo FY Arms | 拉斯杜護腕 |
 | 8756 | Rath Duo HS Arms | 雙火龍護腕【ＨＳ】 |
 | 8757 | Rath Duo G Arms | 雙火龍護腕【Ｇ】 |
 | 8758 | Rath Duo GF Arms | 雙火龍護腕【ＧＦ】 |
 | 8759 | Rath Duo GX Arms | 雙火龍護腕【ＧＸ】 |
-| 8760 | Rath Duo FY Guard | 爾阿斯烏臂甲 |
+| 8760 | Rath Duo FY Guard | 拉斯杜臂甲 |
 | 8761 | Rath Duo HS Guard | 雙火龍臂甲【ＨＳ】 |
 | 8762 | Rath Duo G Guard | 雙火龍臂甲【Ｇ】 |
 | 8763 | Rath Duo GF Guard | 雙火龍臂甲【ＧＦ】 |
@@ -276,20 +276,20 @@
 | 8770 | Tandress G Guard | 坦德蕾絲臂甲【Ｇ】 |
 | 8771 | Tandress GF Guard | 坦德蕾絲臂甲【ＧＦ】 |
 | 8772 | Tandress GX Guard | 坦德蕾絲臂甲【ＧＸ】 |
-| 8773 | Ranvuo Arms | 爾阿恩烏護腕 |
-| 8774 | Ranvuo F Arms | 爾阿恩烏護腕【Ｆ】 |
-| 8775 | Ranvuo FY Arms | 爾阿恩烏護腕 |
-| 8776 | Ranvuo HS Arms | 爾阿恩烏護腕【ＨＳ】 |
-| 8777 | Ranvuo G Arms | 爾阿恩烏護腕【Ｇ】 |
-| 8778 | Ranvuo GF Arms | 爾阿恩烏護腕【ＧＦ】 |
-| 8779 | Ranvuo GX Arms | 爾阿恩烏護腕【ＧＸ】 |
-| 8780 | Ranvuo Guard | 爾阿恩烏臂甲 |
-| 8781 | Ranvuo F Guard | 爾阿恩烏臂甲【Ｆ】 |
-| 8782 | Ranvuo FY Guard | 爾阿恩烏臂甲 |
-| 8783 | Ranvuo HS Guard | 爾阿恩烏臂甲【ＨＳ】 |
-| 8784 | Ranvuo G Guard | 爾阿恩烏臂甲【Ｇ】 |
-| 8785 | Ranvuo GF Guard | 爾阿恩烏臂甲【ＧＦ】 |
-| 8786 | Ranvuo GX Guard | 爾阿恩烏臂甲【ＧＸ】 |
+| 8773 | Ranvuo Arms | 拉護腕 |
+| 8774 | Ranvuo F Arms | 拉護腕【Ｆ】 |
+| 8775 | Ranvuo FY Arms | 拉護腕 |
+| 8776 | Ranvuo HS Arms | 拉護腕【ＨＳ】 |
+| 8777 | Ranvuo G Arms | 拉護腕【Ｇ】 |
+| 8778 | Ranvuo GF Arms | 拉護腕【ＧＦ】 |
+| 8779 | Ranvuo GX Arms | 拉護腕【ＧＸ】 |
+| 8780 | Ranvuo Guard | 拉臂甲 |
+| 8781 | Ranvuo F Guard | 拉臂甲【Ｆ】 |
+| 8782 | Ranvuo FY Guard | 拉臂甲 |
+| 8783 | Ranvuo HS Guard | 拉臂甲【ＨＳ】 |
+| 8784 | Ranvuo G Guard | 拉臂甲【Ｇ】 |
+| 8785 | Ranvuo GF Guard | 拉臂甲【ＧＦ】 |
+| 8786 | Ranvuo GX Guard | 拉臂甲【ＧＸ】 |
 | 8787 | Nyui Arms | 恩烏護腕 |
 | 8788 | Nyui F Arms | 恩烏護腕【Ｆ】 |
 | 8789 | Nyui FY Arms | 恩烏斯護腕 |
@@ -320,8 +320,8 @@
 | 8814 | Nympha GX Guard | 恩阿臂甲【ＧＸ】 |
 | 8815 | Harudo GX Arms | 司銀龍護腕【ＧＸ】 |
 | 8816 | Harudo GX Guard | 司銀龍臂甲【ＧＸ】 |
-| 8817 | Gureado GX Arms | 格烏爾艾護腕【ＧＸ】 |
-| 8818 | Gureado GX Guard | 格烏爾艾臂甲【ＧＸ】 |
+| 8817 | Gureado GX Arms | 古蕾多護腕【ＧＸ】 |
+| 8818 | Gureado GX Guard | 古蕾多臂甲【ＧＸ】 |
 | 8819 | Pics GP Arms・Green | 皮克斯護腕【ＧＰ】・緑 |
 | 8820 | Pics GP Guard・Green | 皮克斯臂甲【ＧＰ】・緑 |
 | 8821 | Pics GP Arms・Purple | 皮克斯護腕【ＧＰ】・紫 |

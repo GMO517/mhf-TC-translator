@@ -11,7 +11,7 @@
 | 13505 | Comrade Boots PD White Red | 戰友靴【ＰＤ】・白赤 |
 | 13506 | Comrade Boots PD White Blue | 戰友靴【ＰＤ】・白青 |
 | 13507 | Comrade Boots PD White Yellow | 戰友靴【ＰＤ】・白黄 |
-| 13508 | Otono D Greaves | 歐特歐恩護腿 |
+| 13508 | Otono D Greaves | 托諾護腿 |
 | 13509 | 忍の Tabi・空D | 忍の空足袋 |
 | 13510 | 忍の Tabi・海D | 忍の海足袋 |
 | 13511 | Shadow Tabi・D | 影足袋 |

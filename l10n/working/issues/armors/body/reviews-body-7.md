@@ -28,10 +28,10 @@
 | 3022 | 気弾FZ [Chestplate 】・Black | 気弾胸甲【ＦＺ】・黑 |
 | 3023 | 気弾HC [Chestplate 】・Black | 気弾胸甲【ＨＣ】・黑 |
 | 3024 | 気弾HS [Chestplate 】・Black | 気弾胸甲【ＨＳ】・黑 |
-| 3025 | Algol F Mail | 阿爾歐爾鎧甲【Ｆ】 |
-| 3026 | Algol FX Mail | 阿爾歐爾鎧甲【ＦＸ】 |
-| 3027 | Algol F Vest | 阿爾歐爾背心【Ｆ】 |
-| 3028 | Algol FX Vest | 阿爾歐爾背心【ＦＸ】 |
+| 3025 | Algol F Mail | 戈鎧甲【Ｆ】 |
+| 3026 | Algol FX Mail | 戈鎧甲【ＦＸ】 |
+| 3027 | Algol F Vest | 戈背心【Ｆ】 |
+| 3028 | Algol FX Vest | 戈背心【ＦＸ】 |
 | 3029 | 抜胴【胴当て】 | 抜胴胴當 |
 | 3030 | 抜胴F【胴当て】 | 抜胴胴當【Ｆ】 |
 | 3031 | 抜胴FZ【胴当て】 | 抜胴胴當【ＦＺ】 |
@@ -204,8 +204,8 @@
 | 3198 | Axel HS Suit・Purple | 輪軸套裝【ＨＳ】・紫 |
 | 3199 | 剣士ランク8 | 拉恩庫鎧甲 |
 | 3200 | 剣士ランク9 | 拉恩庫鎧甲 |
-| 3201 | ガンランク8 | 加恩拉恩庫鎧甲 |
-| 3202 | ガンランク9 | 加恩拉恩庫鎧甲 |
+| 3201 | ガンランク8 | 加恩拉恩鎧甲 |
+| 3202 | ガンランク9 | 加恩拉恩鎧甲 |
 | 3203 | ダミー | (dummy) |
 | 3204 | ダミー | (dummy) |
 | 3205 | ダミー | (dummy) |
@@ -341,8 +341,8 @@
 | 3335 | ダミー | (dummy) |
 | 3336 | ダミー | (dummy) |
 | 3337 | ダミー | (dummy) |
-| 3338 | Roses G Mail | 爾歐斯艾鎧甲【Ｇ】 |
-| 3339 | Roses G Vest | 爾歐斯艾背心【Ｇ】 |
+| 3338 | Roses G Mail | 蘿賽鎧甲【Ｇ】 |
+| 3339 | Roses G Vest | 蘿賽背心【Ｇ】 |
 | 3340 | Shell カG Mail | 鎧甲殼【Ｇ】 |
 | 3341 | チェスカG Vest | 奇斯可背心【Ｇ】 |
 | 3342 | ロアースG Mail | 羅阿斯鎧甲【Ｇ】 |
@@ -357,22 +357,22 @@
 | 3351 | Green 竜ノ Haori FZ【胴服】 | 胴服竜羽織【ＦＺ】・緑 |
 | 3352 | Green 竜ノ Haori HC【胴服】 | 胴服竜羽織【ＨＣ】・緑 |
 | 3353 | Green 竜ノ Haori HS【胴服】 | 胴服竜羽織【ＨＳ】・緑 |
-| 3354 | Ukon Vest | 烏克歐恩背心 |
-| 3355 | Ukon F Vest | 烏克歐恩背心【Ｆ】 |
-| 3356 | Ukon FZ Vest | 烏克歐恩背心【ＦＺ】 |
-| 3357 | Ukon HC Vest | 烏克歐恩背心【ＨＣ】 |
-| 3358 | Ukon Suit | 烏克歐恩套裝 |
-| 3359 | Ukon F Suit | 烏克歐恩套裝【Ｆ】 |
-| 3360 | Ukon FZ Suit | 烏克歐恩套裝【ＦＺ】 |
-| 3361 | Ukon HC Suit | 烏克歐恩套裝【ＨＣ】 |
-| 3362 | Ukon HS Vest | 烏克歐恩背心【ＨＳ】 |
-| 3363 | Ukon GS Vest | 烏克歐恩背心【ＧＳ】 |
-| 3364 | Ukon HS Suit | 烏克歐恩套裝【ＨＳ】 |
-| 3365 | Ukon GS Suit | 烏克歐恩套裝【ＧＳ】 |
+| 3354 | Ukon Vest | 古背心 |
+| 3355 | Ukon F Vest | 古背心【Ｆ】 |
+| 3356 | Ukon FZ Vest | 古背心【ＦＺ】 |
+| 3357 | Ukon HC Vest | 古背心【ＨＣ】 |
+| 3358 | Ukon Suit | 古套裝 |
+| 3359 | Ukon F Suit | 古套裝【Ｆ】 |
+| 3360 | Ukon FZ Suit | 古套裝【ＦＺ】 |
+| 3361 | Ukon HC Suit | 古套裝【ＨＣ】 |
+| 3362 | Ukon HS Vest | 古背心【ＨＳ】 |
+| 3363 | Ukon GS Vest | 古背心【ＧＳ】 |
+| 3364 | Ukon HS Suit | 古套裝【ＨＳ】 |
+| 3365 | Ukon GS Suit | 古套裝【ＧＳ】 |
 | 3366 | Green 竜ノ具足GS【胴服】 | 胴服竜具足鎧甲・緑 |
 | 3367 | Green 竜ノ Haori GS【胴服】 | 胴服竜羽織【ＧＳ】・緑 |
-| 3368 | Roses GF Mail | 爾歐斯艾鎧甲【ＧＦ】 |
-| 3369 | Roses GF Vest | 爾歐斯艾背心【ＧＦ】 |
+| 3368 | Roses GF Mail | 蘿賽鎧甲【ＧＦ】 |
+| 3369 | Roses GF Vest | 蘿賽背心【ＧＦ】 |
 | 3370 | ダミー | (dummy) |
 | 3371 | ダミー | (dummy) |
 | 3372 | Magos Mail・Yellow | 瑪戈斯鎧甲・黄 |

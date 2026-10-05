@@ -80,9 +80,9 @@
 | 12574 | Tanzanite Greaves | 特阿恩阿護腿 |
 | 12575 | Tanzanite F Greaves | 特阿恩阿護腿【Ｆ】 |
 | 12576 | Tanzanite FX Greaves | 特阿恩阿護腿【ＦＸ】 |
-| 12577 | Hematite Greaves | 赫艾姆阿護腿 |
-| 12578 | Hematite F Greaves | 赫艾姆阿護腿【Ｆ】 |
-| 12579 | Hematite FX Greaves | 赫艾姆阿護腿【ＦＸ】 |
+| 12577 | Hematite Greaves | 赫瑪蒂特護腿 |
+| 12578 | Hematite F Greaves | 赫瑪蒂特護腿【Ｆ】 |
+| 12579 | Hematite FX Greaves | 赫瑪蒂特護腿【ＦＸ】 |
 | 12580 | Byakko・磁星G Feet | 白虎足【Ｇ】 |
 | 12581 | Byakko・磁星GF Feet | 白虎磁星足【Ｆ】 |
 | 12582 | Byakko・磁星GX Feet | 白虎足【ＧＸ】 |
@@ -171,18 +171,18 @@
 | 12665 | Masaha Dress ZP [Greaves] Orange | 真砂禮服護腿【ＺＰ】・橙 |
 | 12666 | Graham Greaves | 格阿赫阿護腿 |
 | 12667 | Favila D Feet | 芙阿芙伊足 |
-| 12668 | Alicia D Feet | 阿爾伊克足 |
+| 12668 | Alicia D Feet | 莉奇足 |
 | 12669 | Masaha Dress C [Tabi 】 | 姆阿斯阿足袋 |
-| 12670 | Aura C Feet | 阿爾阿斯足 |
-| 12671 | Asumo C Feet | 阿斯烏姆足 |
-| 12672 | Rokka C Feet | 爾歐克阿足 |
-| 12673 | Ruche C Greaves | 爾烏奇艾護腿 |
+| 12670 | Aura C Feet | 奧拉足 |
+| 12671 | Asumo C Feet | 斯莫足 |
+| 12672 | Rokka C Feet | 蘿可足 |
+| 12673 | Ruche C Greaves | 露切護腿 |
 | 12674 | Shui C Greaves | 夏烏斯護腿 |
 | 12675 | Masaha Dress D [Tabi] Red | 姆阿斯阿足袋・赤 |
 | 12676 | Masaha Dress D [Tabi] Silver | 姆阿斯阿足袋・銀 |
 | 12677 | Masaha Dress D [Tabi] Blue | 姆阿斯阿足袋・青 |
 | 12678 | Masaha Dress D [Tabi] Orange | 姆阿斯阿足袋・橙 |
-| 12679 | Genbu・Kensei D Feet | 玄武格艾恩烏足 |
+| 12679 | Genbu・Kensei D Feet | 玄武蓋布凱賽足 |
 | 12680 | Genbu・双龍D Feet | 玄武双龍足 |
 | 12681 | Genbu・剣王D Feet | 玄武剣王足 |
 | 12682 | Genbu・刀神D Feet | 玄武刀神足 |
@@ -196,7 +196,7 @@
 | 12690 | Genbu・銃仙D Boots | 玄武銃仙靴 |
 | 12691 | Genbu・Bow 鬼D Boots | 玄武靴 |
 | 12692 | Tanzanite D Greaves | 特阿恩阿護腿 |
-| 12693 | Hematite D Greaves | 赫艾姆阿護腿 |
+| 12693 | Hematite D Greaves | 赫瑪蒂特護腿 |
 | 12694 | Byakko・磁星D Feet | 白虎磁星足 |
 | 12695 | Suzaku・磁星D Feet | 朱雀磁星足 |
 | 12696 | Genbu・磁星D Feet | 玄武磁星足 |
@@ -234,14 +234,14 @@
 | 12728 | Dusk D Feet・White | 德烏斯足・白 |
 | 12729 | Dusk D Feet・Peach | 德烏斯足・桃 |
 | 12730 | Dusk D Feet・Blue | 德烏斯足・青 |
-| 12731 | Marin D Feet・Blue | 姆阿爾伊足・青 |
-| 12732 | Marin D Feet・Peach | 姆阿爾伊足・桃 |
-| 12733 | Marin D Feet・White | 姆阿爾伊足・白 |
-| 12734 | Marin D Feet・Black | 姆阿爾伊足・黑 |
-| 12735 | Reflet D Feet・Blue | 爾艾芙艾足・青 |
-| 12736 | Reflet D Feet・White | 爾艾芙艾足・白 |
-| 12737 | Reflet D Feet・Red | 爾艾芙艾足・赤 |
-| 12738 | Reflet D Feet・Black | 爾艾芙艾足・黑 |
+| 12731 | Marin D Feet・Blue | 瑪里恩德足・青 |
+| 12732 | Marin D Feet・Peach | 瑪里恩德足・桃 |
+| 12733 | Marin D Feet・White | 瑪里恩德足・白 |
+| 12734 | Marin D Feet・Black | 瑪里恩德足・黑 |
+| 12735 | Reflet D Feet・Blue | 蕾芙足・青 |
+| 12736 | Reflet D Feet・White | 蕾芙足・白 |
+| 12737 | Reflet D Feet・Red | 蕾芙足・赤 |
+| 12738 | Reflet D Feet・Black | 蕾芙足・黑 |
 | 12739 | Tenpi Legs D・Red | 特艾恩伊腿甲・赤 |
 | 12740 | Tenpi Legs D・Blue | 特艾恩伊腿甲・青 |
 | 12741 | Tenpi Legs D・Black | 特艾恩伊腿甲・黑 |
@@ -254,18 +254,18 @@
 | 12748 | Naga D Feet・Red | 恩阿格阿足・赤 |
 | 12749 | Naga D Feet・White | 恩阿格阿足・白 |
 | 12750 | Naga D Feet・Black | 恩阿格阿足・黑 |
-| 12751 | Sheriff D Feet・Tea | 夏艾爾伊足・茶 |
-| 12752 | Sheriff D Feet・Black | 夏艾爾伊足・黑 |
-| 12753 | Sheriff D Feet・Blue | 夏艾爾伊足・青 |
-| 12754 | Sheriff D Feet・White | 夏艾爾伊足・白 |
-| 12755 | Serena D Feet・Purple | 斯艾爾艾足・紫 |
-| 12756 | Serena D Feet・Blue | 斯艾爾艾足・青 |
-| 12757 | Serena D Feet・White | 斯艾爾艾足・白 |
-| 12758 | Serena D Feet・Red | 斯艾爾艾足・赤 |
-| 12759 | Gelt D Feet・Black | 格艾爾足・黑 |
-| 12760 | Gelt D Feet・Copper | 格艾爾足・銅 |
-| 12761 | Gelt D Feet・Silver | 格艾爾足・銀 |
-| 12762 | Gelt D Feet・Gold | 格艾爾足・金 |
+| 12751 | Sheriff D Feet・Tea | 修里足・茶 |
+| 12752 | Sheriff D Feet・Black | 修里足・黑 |
+| 12753 | Sheriff D Feet・Blue | 修里足・青 |
+| 12754 | Sheriff D Feet・White | 修里足・白 |
+| 12755 | Serena D Feet・Purple | 賽蕾娜足・紫 |
+| 12756 | Serena D Feet・Blue | 賽蕾娜足・青 |
+| 12757 | Serena D Feet・White | 賽蕾娜足・白 |
+| 12758 | Serena D Feet・Red | 賽蕾娜足・赤 |
+| 12759 | Gelt D Feet・Black | 蓋足・黑 |
+| 12760 | Gelt D Feet・Copper | 蓋足・銅 |
+| 12761 | Gelt D Feet・Silver | 蓋足・銀 |
+| 12762 | Gelt D Feet・Gold | 蓋足・金 |
 | 12763 | Gloria D Feet・Gold | 榮光足・金 |
 | 12764 | Gloria D Feet・Blue | 榮光足・青 |
 | 12765 | Gloria D Feet・Water | 榮光足・水 |
@@ -282,50 +282,50 @@
 | 12776 | Siena D Greaves・Black | 斯伊恩阿護腿・黑 |
 | 12777 | Siena D Greaves・Red | 斯伊恩阿護腿・赤 |
 | 12778 | Siena D Greaves・Blue | 斯伊恩阿護腿・青 |
-| 12779 | Cultu D Feet・Ash | 克烏爾烏足・灰 |
-| 12780 | Cultu D Feet・Blue | 克烏爾烏足・青 |
-| 12781 | Cultu D Feet・Orange | 克烏爾烏足・橙 |
-| 12782 | Cultu D Feet・Green | 克烏爾烏足・緑 |
-| 12783 | Truss D Leggings Blue | 特烏斯裹腿・青 |
-| 12784 | Truss D Leggings Red | 特烏斯裹腿・赤 |
-| 12785 | Truss D Leggings White | 特烏斯裹腿・白 |
-| 12786 | Truss D Leggings Purple | 特烏斯裹腿・紫 |
-| 12787 | Maisto D Feet・Crimson | 姆阿斯歐足・紅 |
-| 12788 | Maisto D Feet・Green | 姆阿斯歐足・緑 |
-| 12789 | Maisto D Feet・Green | 姆阿斯歐足・緑 |
-| 12790 | Maisto D Feet・Pink | 姆阿斯歐足・桃 |
+| 12779 | Cultu D Feet・Ash | 庫圖足・灰 |
+| 12780 | Cultu D Feet・Blue | 庫圖足・青 |
+| 12781 | Cultu D Feet・Orange | 庫圖足・橙 |
+| 12782 | Cultu D Feet・Green | 庫圖足・緑 |
+| 12783 | Truss D Leggings Blue | 古蘿布裹腿・青 |
+| 12784 | Truss D Leggings Red | 古蘿布裹腿・赤 |
+| 12785 | Truss D Leggings White | 古蘿布裹腿・白 |
+| 12786 | Truss D Leggings Purple | 古蘿布裹腿・紫 |
+| 12787 | Maisto D Feet・Crimson | 瑪斯托足・紅 |
+| 12788 | Maisto D Feet・Green | 瑪斯托足・緑 |
+| 12789 | Maisto D Feet・Green | 瑪斯托足・緑 |
+| 12790 | Maisto D Feet・Pink | 瑪斯托足・桃 |
 | 12791 | Randa Hakama・D Yellow | 爾阿恩阿袴・黄 |
 | 12792 | Randa Hakama・D Red | 爾阿恩阿袴・赤 |
 | 12793 | Randa Hakama・D Purple | 爾阿恩阿袴・紫 |
 | 12794 | Randa Hakama・D Gold | 爾阿恩阿袴・金 |
-| 12795 | Buney D Feet・Black | 布烏恩艾足・黑 |
-| 12796 | Buney D Feet・White | 布烏恩艾足・白 |
-| 12797 | Buney D Feet・Red | 布烏恩艾足・赤 |
-| 12798 | Buney D Feet・Purple | 布烏恩艾足・紫 |
-| 12799 | Regelia D Feet・White | 爾艾格艾足・白 |
-| 12800 | Regelia D Feet・Red | 爾艾格艾足・赤 |
-| 12801 | Regelia D Feet・Green | 爾艾格艾足・緑 |
-| 12802 | Regelia D Feet・Blue | 爾艾格艾足・青 |
-| 12803 | Aristo D Feet・Blue | 阿爾伊斯足・青 |
-| 12804 | Aristo D Feet・White | 阿爾伊斯足・白 |
-| 12805 | Aristo D Feet・Purple | 阿爾伊斯足・紫 |
-| 12806 | Aristo D Feet・Red | 阿爾伊斯足・赤 |
-| 12807 | Melety D Feet・White | 姆艾爾艾足・白 |
-| 12808 | Melety D Feet・Red | 姆艾爾艾足・赤 |
-| 12809 | Melety D Feet・Blue | 姆艾爾艾足・青 |
-| 12810 | Melety D Feet・Black | 姆艾爾艾足・黑 |
-| 12811 | Ferme D Feet・Black | 芙艾爾艾足・黑 |
-| 12812 | Ferme D Feet・Red | 芙艾爾艾足・赤 |
-| 12813 | Ferme D Feet・White | 芙艾爾艾足・白 |
-| 12814 | Ferme D Feet・Blue | 芙艾爾艾足・青 |
-| 12815 | Real D Feet・White | 爾艾爾足・白 |
-| 12816 | Real D Feet・Gold | 爾艾爾足・金 |
-| 12817 | Real D Feet・Blue | 爾艾爾足・青 |
-| 12818 | Real D Feet・Red | 爾艾爾足・赤 |
-| 12819 | Arma D Feet・Black | 阿爾阿斯足・黑 |
-| 12820 | Arma D Feet・White | 阿爾阿斯足・白 |
-| 12821 | Arma D Feet・Blue | 阿爾阿斯足・青 |
-| 12822 | Arma D Feet・Tea | 阿爾阿斯足・茶 |
+| 12795 | Buney D Feet・Black | 布奈足・黑 |
+| 12796 | Buney D Feet・White | 布奈足・白 |
+| 12797 | Buney D Feet・Red | 布奈足・赤 |
+| 12798 | Buney D Feet・Purple | 布奈足・紫 |
+| 12799 | Regelia D Feet・White | 蕾蓋莉足・白 |
+| 12800 | Regelia D Feet・Red | 蕾蓋莉足・赤 |
+| 12801 | Regelia D Feet・Green | 蕾蓋莉足・緑 |
+| 12802 | Regelia D Feet・Blue | 蕾蓋莉足・青 |
+| 12803 | Aristo D Feet・Blue | 里斯托足・青 |
+| 12804 | Aristo D Feet・White | 里斯托足・白 |
+| 12805 | Aristo D Feet・Purple | 里斯托足・紫 |
+| 12806 | Aristo D Feet・Red | 里斯托足・赤 |
+| 12807 | Melety D Feet・White | 梅勒足・白 |
+| 12808 | Melety D Feet・Red | 梅勒足・赤 |
+| 12809 | Melety D Feet・Blue | 梅勒足・青 |
+| 12810 | Melety D Feet・Black | 梅勒足・黑 |
+| 12811 | Ferme D Feet・Black | 菲姆足・黑 |
+| 12812 | Ferme D Feet・Red | 菲姆足・赤 |
+| 12813 | Ferme D Feet・White | 菲姆足・白 |
+| 12814 | Ferme D Feet・Blue | 菲姆足・青 |
+| 12815 | Real D Feet・White | 蕾足・白 |
+| 12816 | Real D Feet・Gold | 蕾足・金 |
+| 12817 | Real D Feet・Blue | 蕾足・青 |
+| 12818 | Real D Feet・Red | 蕾足・赤 |
+| 12819 | Arma D Feet・Black | 姆足・黑 |
+| 12820 | Arma D Feet・White | 姆足・白 |
+| 12821 | Arma D Feet・Blue | 姆足・青 |
+| 12822 | Arma D Feet・Tea | 姆足・茶 |
 | 12823 | Honour D Feet・Red | 榮譽足・赤 |
 | 12824 | Honour D Feet・Blue | 榮譽足・青 |
 | 12825 | Honour D Feet・Green | 榮譽足・緑 |
@@ -338,11 +338,11 @@
 | 12832 | Magos D Feet・Red | 瑪戈斯足・赤 |
 | 12833 | Magos D Feet・Water | 瑪戈斯足・水 |
 | 12834 | Magos D Feet・Blue | 瑪戈斯足・青 |
-| 12835 | Arge D Feet | 阿爾艾斯足 |
+| 12835 | Arge D Feet | 蓋足 |
 | 12836 | Camarera D Feet | 克阿姆阿足 |
-| 12837 | Metenera D Feet | 姆艾特艾足 |
+| 12837 | Metenera D Feet | 梅特奈拉足 |
 | 12838 | Abitto D Feet | 阿布伊特足 |
-| 12839 | Riburi D Feet | 爾伊布烏足 |
+| 12839 | Riburi D Feet | 里布里足 |
 | 12840 | Zodic D Feet・Blue | 茲歐德伊足・青 |
 | 12841 | Zodic D Feet・Tea | 茲歐德伊足・茶 |
 | 12842 | Zodic D Feet・Green | 茲歐德伊足・緑 |
@@ -351,22 +351,22 @@
 | 12845 | Cayssis D Feet Red | 凱西斯足・赤 |
 | 12846 | Cayssis D Feet Blue | 凱西斯足・青 |
 | 12847 | Cayssis D Feet Orange | 凱西斯足・橙 |
-| 12848 | Omet D Feet・Black | 歐姆艾特足・黑 |
-| 12849 | Omet D Feet・Red | 歐姆艾特足・赤 |
-| 12850 | Omet D Feet・White | 歐姆艾特足・白 |
-| 12851 | Omet D Feet・Blue | 歐姆艾特足・青 |
+| 12848 | Omet D Feet・Black | 梅足・黑 |
+| 12849 | Omet D Feet・Red | 梅足・赤 |
+| 12850 | Omet D Feet・White | 梅足・白 |
+| 12851 | Omet D Feet・Blue | 梅足・青 |
 | 12852 | Edio D Feet・Blue | 艾德伊斯足・青 |
 | 12853 | Edio D Feet・Red | 艾德伊斯足・赤 |
 | 12854 | Edio D Feet・Yellow | 艾德伊斯足・黄 |
 | 12855 | Edio D Feet・Black | 艾德伊斯足・黑 |
-| 12856 | Steno D Greaves・Orange | 斯艾恩歐護腿・橙 |
-| 12857 | Steno D Greaves・Peach | 斯艾恩歐護腿・桃 |
-| 12858 | Steno D Greaves・Blue | 斯艾恩歐護腿・青 |
-| 12859 | Steno D Greaves・Red | 斯艾恩歐護腿・赤 |
-| 12860 | Suriito D Feet・Yellow | 斯烏爾伊足・黄 |
-| 12861 | Suriito D Feet・Silver | 斯烏爾伊足・銀 |
-| 12862 | Suriito D Feet・Red | 斯烏爾伊足・赤 |
-| 12863 | Suriito D Feet・Blue | 斯烏爾伊足・青 |
+| 12856 | Steno D Greaves・Orange | 斯特諾護腿・橙 |
+| 12857 | Steno D Greaves・Peach | 斯特諾護腿・桃 |
+| 12858 | Steno D Greaves・Blue | 斯特諾護腿・青 |
+| 12859 | Steno D Greaves・Red | 斯特諾護腿・赤 |
+| 12860 | Suriito D Feet・Yellow | 斯里托足・黄 |
+| 12861 | Suriito D Feet・Silver | 斯里托足・銀 |
+| 12862 | Suriito D Feet・Red | 斯里托足・赤 |
+| 12863 | Suriito D Feet・Blue | 斯里托足・青 |
 | 12864 | Galitos D Feet・Tea | 加里托斯足・茶 |
 | 12865 | Galitos D Feet・Red | 加里托斯足・赤 |
 | 12866 | Galitos D Feet・Black | 加里托斯足・黑 |
@@ -375,18 +375,18 @@
 | 12869 | Text D Feet・Green | 特艾克斯足・緑 |
 | 12870 | Text D Feet・Blue | 特艾克斯足・青 |
 | 12871 | Text D Feet・Black | 特艾克斯足・黑 |
-| 12872 | Pharan D Feet・White | 菲阿爾阿足・白 |
-| 12873 | Pharan D Feet・Black | 菲阿爾阿足・黑 |
-| 12874 | Pharan D Feet・Red | 菲阿爾阿足・赤 |
-| 12875 | Pharan D Feet・Blue | 菲阿爾阿足・青 |
+| 12872 | Pharan D Feet・White | 夫拉恩德足・白 |
+| 12873 | Pharan D Feet・Black | 夫拉恩德足・黑 |
+| 12874 | Pharan D Feet・Red | 夫拉恩德足・赤 |
+| 12875 | Pharan D Feet・Blue | 夫拉恩德足・青 |
 | 12876 | Gold D Feet・Red | 金足・赤 |
 | 12877 | Gold D Feet・Blue | 金足・青 |
 | 12878 | Gold D Feet・Yellow | 金足・黄 |
 | 12879 | Gold D Feet・Purple | 金足・紫 |
-| 12880 | Claire D Feet・Purple | 克蕾爾足・紫 |
-| 12881 | Claire D Feet・Water | 克蕾爾足・水 |
-| 12882 | Claire D Feet・Red | 克蕾爾足・赤 |
-| 12883 | Claire D Feet・Black | 克蕾爾足・黑 |
+| 12880 | Claire D Feet・Purple | 克蕾露足・紫 |
+| 12881 | Claire D Feet・Water | 克蕾露足・水 |
+| 12882 | Claire D Feet・Red | 克蕾露足・赤 |
+| 12883 | Claire D Feet・Black | 克蕾露足・黑 |
 | 12884 | Gold Cat D Boots | 金猫靴 |
 | 12885 | Silver Cat D Boots | 銀猫靴 |
 | 12886 | Ex D Feet・White | 艾克斯足・白 |
@@ -397,10 +397,10 @@
 | 12891 | Star Festival D Tabi 【 Blue 】 | 星祭足袋・青 |
 | 12892 | Star Festival D Tabi 【 Black 】 | 星祭足袋・黑 |
 | 12893 | Star Festival D Tabi 【 White 】 | 星祭足袋・白 |
-| 12894 | Promise D Boots・White | 普歐姆伊靴・白 |
-| 12895 | Promise D Boots・Blue | 普歐姆伊靴・青 |
-| 12896 | Promise D Boots・Purple | 普歐姆伊靴・紫 |
-| 12897 | Promise D Boots・Yellow | 普歐姆伊靴・黄 |
+| 12894 | Promise D Boots・White | 普羅蜜賽靴・白 |
+| 12895 | Promise D Boots・Blue | 普羅蜜賽靴・青 |
+| 12896 | Promise D Boots・Purple | 普羅蜜賽靴・紫 |
+| 12897 | Promise D Boots・Yellow | 普羅蜜賽靴・黄 |
 | 12898 | White M Boots D | 姆靴・白 |
 | 12899 | Flight Greaves D・White | 芙伊格護腿・白 |
 | 12900 | Flight Greaves D・Red | 芙伊格護腿・赤 |
@@ -410,10 +410,10 @@
 | 12904 | Bande D Feet・Red | 布阿恩艾足・赤 |
 | 12905 | Bande D Feet・Green | 布阿恩艾足・緑 |
 | 12906 | Bande D Feet・Black | 布阿恩艾足・黑 |
-| 12907 | Regnum D Feet・White | 爾艾格烏足・白 |
-| 12908 | Regnum D Feet・Blue | 爾艾格烏足・青 |
-| 12909 | Regnum D Feet・Red | 爾艾格烏足・赤 |
-| 12910 | Regnum D Feet・Tea | 爾艾格烏足・茶 |
+| 12907 | Regnum D Feet・White | 蕾努足・白 |
+| 12908 | Regnum D Feet・Blue | 蕾努足・青 |
+| 12909 | Regnum D Feet・Red | 蕾努足・赤 |
+| 12910 | Regnum D Feet・Tea | 蕾努足・茶 |
 | 12911 | Gania D Feet・Red | 格阿恩伊足・赤 |
 | 12912 | Gania D Feet・Blue | 格阿恩伊足・青 |
 | 12913 | Gania D Feet・Tea | 格阿恩伊足・茶 |
@@ -422,54 +422,54 @@
 | 12916 | Amistad D Feet・White | 阿姆伊斯足・白 |
 | 12917 | Amistad D Feet・Blue | 阿姆伊斯足・青 |
 | 12918 | Amistad D Feet・Crimson | 阿姆伊斯足・紅 |
-| 12919 | Perifu D Feet・Blue | 普艾爾伊足・青 |
-| 12920 | Perifu D Feet・Tea | 普艾爾伊足・茶 |
-| 12921 | Perifu D Feet・Green | 普艾爾伊足・緑 |
-| 12922 | Perifu D Feet・Purple | 普艾爾伊足・紫 |
+| 12919 | Perifu D Feet・Blue | 佩里芙足・青 |
+| 12920 | Perifu D Feet・Tea | 佩里芙足・茶 |
+| 12921 | Perifu D Feet・Green | 佩里芙足・緑 |
+| 12922 | Perifu D Feet・Purple | 佩里芙足・紫 |
 | 12923 | Vakusu D Greaves | 芙阿克烏護腿 |
-| 12924 | Rizuvue D Greaves | 爾伊茲烏護腿 |
-| 12925 | Konseru D Greaves | 克歐恩艾護腿 |
+| 12924 | Rizuvue D Greaves | 里茲護腿 |
+| 12925 | Konseru D Greaves | 古賽露護腿 |
 | 12926 | Utaei Legs D | 烏特阿斯腿甲 |
 | 12927 | Utatsumugu Legs D | 烏特阿特腿甲 |
 | 12928 | Shikari Greaves D | 夏伊克阿護腿 |
 | 12929 | Strega D Greaves | 斯艾格阿護腿 |
-| 12930 | Eques D Greaves | 艾斯烏斯護腿 |
+| 12930 | Eques D Greaves | 奎護腿 |
 | 12931 | Uida D Feet | 烏德阿斯足 |
-| 12932 | Kuraaji D Greaves | 克烏爾阿護腿 |
+| 12932 | Kuraaji D Greaves | 克拉護腿 |
 | 12933 | Aneshisu D Greaves | 阿恩艾夏護腿 |
 | 12934 | Zaakaa D Greaves | 茲阿克阿護腿 |
 | 12935 | Vinen D Greaves | 芙伊恩艾護腿 |
-| 12936 | Rudeos D Greaves | 爾烏德艾護腿 |
+| 12936 | Rudeos D Greaves | 露德護腿 |
 | 12937 | Breo D Greaves | 布艾斯護腿 |
-| 12938 | Rouge D Greaves | 爾歐格艾護腿 |
-| 12939 | Onero D Greaves | 歐恩艾爾護腿 |
+| 12938 | Rouge D Greaves | 蘿蓋護腿 |
+| 12939 | Onero D Greaves | 奈蘿護腿 |
 | 12940 | Diina D Leg | 德伊恩阿腿 |
-| 12941 | Oorowa D Greaves | 歐爾歐沃護腿 |
+| 12941 | Oorowa D Greaves | 烏蘿瓦護腿 |
 | 12942 | Higakure D Greaves | 赫伊格阿護腿 |
-| 12943 | Perce D Greaves | 普艾爾艾護腿 |
-| 12944 | Orykto D Greaves | 歐爾歐斯護腿 |
-| 12945 | Orykto D Leggings | 歐爾歐斯裹腿 |
-| 12946 | Yoruti D Greaves | 伊歐爾烏護腿 |
+| 12943 | Perce D Greaves | 佩賽護腿 |
+| 12944 | Orykto D Greaves | 托護腿 |
+| 12945 | Orykto D Leggings | 托裹腿 |
+| 12946 | Yoruti D Greaves | 約露蒂護腿 |
 | 12947 | Nisuru D Greaves | 恩伊斯烏護腿 |
-| 12948 | Maaden D Greaves | 姆阿德艾護腿 |
-| 12949 | Maaden D Leggings | 姆阿德艾裹腿 |
+| 12948 | Maaden D Greaves | 瑪德恩德護腿 |
+| 12949 | Maaden D Leggings | 瑪德恩德裹腿 |
 | 12950 | Cheni D Greaves | 奇艾恩伊護腿 |
-| 12951 | Eguiene D Greaves | 艾格烏恩護腿 |
-| 12952 | Toruboda D Greaves | 特歐爾烏護腿 |
+| 12951 | Eguiene D Greaves | 古奈護腿 |
+| 12952 | Toruboda D Greaves | 托露波達護腿 |
 | 12953 | Kabariba D Greaves | 克阿布阿護腿 |
-| 12954 | Norukku D Feet | 恩歐爾烏足 |
-| 12955 | Valier D Greaves | 芙阿爾伊護腿 |
-| 12956 | Arumyu D Greaves | 阿爾烏姆護腿 |
+| 12954 | Norukku D Feet | 古蘿布足 |
+| 12955 | Valier D Greaves | 瓦莉護腿 |
+| 12956 | Arumyu D Greaves | 露尤護腿 |
 | 12957 | Chatore D Greaves | 奇阿特歐護腿 |
 | 12958 | Pashio D Greaves | 普阿夏伊護腿 |
-| 12959 | Cariva D Greaves | 克阿爾伊護腿 |
+| 12959 | Cariva D Greaves | 可里瓦護腿 |
 | 12960 | Desutora GS Sabaton | 德斯特拉脛甲【ＧＳ】 |
 | 12961 | Desutora GP Sabaton | 德斯特拉脛甲【ＧＰ】 |
 | 12962 | Desutora ZP Sabaton | 德斯特拉脛甲【ＺＰ】 |
 | 12963 | Desutora GS Leggings | 德斯特拉裹腿【ＧＳ】 |
 | 12964 | Desutora GP Leggings | 德斯特拉裹腿【ＧＰ】 |
 | 12965 | Desutora ZP Leggings | 德斯特拉裹腿【ＺＰ】 |
-| 12966 | Desutora D Sabaton | 德艾斯烏脛甲 |
+| 12966 | Desutora D Sabaton | 德斯托拉脛甲 |
 | 12967 | Bogabado ZD Greaves | 布歐格阿護腿 |
 | 12968 | Bogabado ZD Leggings | 布歐格阿裹腿 |
 | 12969 | Nerishoku Greaves Z | 練色護腿【Ｚ】 |
@@ -496,12 +496,12 @@
 | 12990 | Gravios ZF Leggings | 鎧龍裹腿【ＺＦ】 |
 | 12991 | Gravios ZY Leggings | 鎧龍裹腿【ＺＹ】 |
 | 12992 | Gravios ZX Leggings | 鎧龍裹腿【ＺＸ】 |
-| 12993 | Rabius Feet | 拉比烏斯足 |
-| 12994 | Rabius F Feet | 拉比烏斯足【Ｆ】 |
-| 12995 | Rabius FZ Feet | 拉比烏斯足【ＦＺ】 |
-| 12996 | Rabius HS Feet | 拉比烏斯足【ＨＳ】 |
-| 12997 | Rabius GS Feet | 拉比烏斯足【ＧＳ】 |
-| 12998 | Rabius GP Feet | 拉比烏斯足【ＧＰ】 |
-| 12999 | Rabius ZP Feet | 拉比烏斯足【ＺＰ】 |
-| 13000 | Rabius Boots | 拉比烏斯靴 |
+| 12993 | Rabius Feet | 拉碧宇斯足 |
+| 12994 | Rabius F Feet | 拉碧宇斯足【Ｆ】 |
+| 12995 | Rabius FZ Feet | 拉碧宇斯足【ＦＺ】 |
+| 12996 | Rabius HS Feet | 拉碧宇斯足【ＨＳ】 |
+| 12997 | Rabius GS Feet | 拉碧宇斯足【ＧＳ】 |
+| 12998 | Rabius GP Feet | 拉碧宇斯足【ＧＰ】 |
+| 12999 | Rabius ZP Feet | 拉碧宇斯足【ＺＰ】 |
+| 13000 | Rabius Boots | 拉碧宇斯靴 |
 

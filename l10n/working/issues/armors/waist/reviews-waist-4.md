@@ -166,10 +166,10 @@
 | 1660 | Robust Fアンダ | 剛健腰甲 |
 | 1661 | Robust テイル | 剛健腰甲 |
 | 1662 | Robust Fテイル | 剛健腰甲 |
-| 1663 | Kukubo Coil | 克烏克烏腰甲 |
-| 1664 | Kukubo F Coil | 克烏克烏腰甲【Ｆ】 |
-| 1665 | Kukubo Coat | 克烏克烏腰衣 |
-| 1666 | Kukubo F Coat | 克烏克烏腰衣【Ｆ】 |
+| 1663 | Kukubo Coil | 克克波腰甲 |
+| 1664 | Kukubo F Coil | 克克波腰甲【Ｆ】 |
+| 1665 | Kukubo Coat | 克克波腰衣 |
+| 1666 | Kukubo F Coat | 克克波腰衣【Ｆ】 |
 | 1667 | Falco Faulds | 隼腰甲 |
 | 1668 | Falco F Faulds | 隼腰甲【Ｆ】 |
 | 1669 | Falco Coat | 隼腰衣 |
@@ -254,10 +254,10 @@
 | 1748 | Steno F Elytra ー・Red | 水竜翅腰【Ｆ】・赤 |
 | 1749 | Steno Coat・Red | 水竜腰衣・赤 |
 | 1750 | Steno F Coat・Red | 水竜腰衣【Ｆ】・赤 |
-| 1751 | Jumpin' Belt | 傑烏姆伊腰帶 |
-| 1752 | Jumpin' F Belt | 傑烏姆伊腰帶【Ｆ】 |
-| 1753 | Jumpin' Coat | 傑烏姆伊腰衣 |
-| 1754 | Jumpin' F Coat | 傑烏姆伊腰衣【Ｆ】 |
+| 1751 | Jumpin' Belt | 朱皮腰帶 |
+| 1752 | Jumpin' F Belt | 朱皮腰帶【Ｆ】 |
+| 1753 | Jumpin' Coat | 朱皮腰衣 |
+| 1754 | Jumpin' F Coat | 朱皮腰衣【Ｆ】 |
 | 1755 | アデュス Faulds | 阿杜斯腰甲 |
 | 1756 | アデュスF Faulds | 阿杜斯腰甲【Ｆ】 |
 | 1757 | アデュス Coat | 阿杜斯腰衣 |
@@ -266,14 +266,14 @@
 | 1760 | Metenera F Coil | 梅特涅拉腰甲【Ｆ】 |
 | 1761 | Metenera Coat | 梅特涅拉腰衣 |
 | 1762 | Metenera F Coat | 梅特涅拉腰衣【Ｆ】 |
-| 1763 | Excelle Faulds | 艾克斯艾腰甲 |
-| 1764 | Excelle F Faulds | 艾克斯艾腰甲【Ｆ】 |
-| 1765 | Excelle Coat | 艾克斯艾腰衣 |
-| 1766 | Excelle F Coat | 艾克斯艾腰衣【Ｆ】 |
-| 1767 | Pupen Faulds | 普烏普艾腰甲 |
-| 1768 | Pupen F Faulds | 普烏普艾腰甲【Ｆ】 |
-| 1769 | Pupen Coat | 普烏普艾腰衣 |
-| 1770 | Pupen F Coat | 普烏普艾腰衣【Ｆ】 |
+| 1763 | Excelle Faulds | 克斯賽爾腰甲 |
+| 1764 | Excelle F Faulds | 克斯賽爾腰甲【Ｆ】 |
+| 1765 | Excelle Coat | 克斯賽爾腰衣 |
+| 1766 | Excelle F Coat | 克斯賽爾腰衣【Ｆ】 |
+| 1767 | Pupen Faulds | 普佩腰甲 |
+| 1768 | Pupen F Faulds | 普佩腰甲【Ｆ】 |
+| 1769 | Pupen Coat | 普佩腰衣 |
+| 1770 | Pupen F Coat | 普佩腰衣【Ｆ】 |
 | 1771 | Moss Covered Faulds | 苔覆腰甲 |
 | 1772 | Moss Covered F Faulds | 苔覆腰甲【Ｆ】 |
 | 1773 | Moss Covered Coat | 苔覆腰衣 |
@@ -311,9 +311,9 @@
 | 1805 | Ruko Fテイル | 極龍腰甲 |
 | 1806 | Blitz フープ | 布伊特腰甲 |
 | 1807 | Blitz ショルト | 布伊特腰甲 |
-| 1808 | Lils Faulds | 爾伊爾腰甲 |
+| 1808 | Lils Faulds | 莉腰甲 |
 | 1809 | ダミー | (dummy) |
-| 1810 | Lils Coat | 爾伊爾腰衣 |
+| 1810 | Lils Coat | 莉腰衣 |
 | 1811 | ダミー | (dummy) |
 | 1812 | Kagura FX【腰当て】 | 神樂腰當【ＦＸ】 |
 | 1813 | Kamiza FX【腰当て】 | 上座腰當【ＦＸ】 |
@@ -365,12 +365,12 @@
 | 1859 | ルルスF Coil | 魯魯斯腰甲【Ｆ】 |
 | 1860 | Nada Coat | 恩阿德阿腰衣 |
 | 1861 | Nada F Coat | 恩阿德阿腰衣【Ｆ】 |
-| 1862 | Rosa Coil | 爾歐斯阿腰甲 |
-| 1863 | Rosa F Coil | 爾歐斯阿腰甲【Ｆ】 |
+| 1862 | Rosa Coil | 蘿薩腰甲 |
+| 1863 | Rosa F Coil | 蘿薩腰甲【Ｆ】 |
 | 1864 | Haosu Coil | 赫阿斯烏腰甲 |
 | 1865 | Haosu F Coil | 赫阿斯烏腰甲【Ｆ】 |
-| 1866 | Miru Coil | 姆伊爾烏腰甲 |
-| 1867 | Miru F Coil | 姆伊爾烏腰甲【Ｆ】 |
+| 1866 | Miru Coil | 蜜露腰甲 |
+| 1867 | Miru F Coil | 蜜露腰甲【Ｆ】 |
 | 1868 | Pasu Coat | 普阿斯烏腰衣 |
 | 1869 | Pasu F Coat | 普阿斯烏腰衣【Ｆ】 |
 | 1870 | Randa Waist・Yellow | 爾阿恩阿腰甲・黄 |
@@ -437,24 +437,24 @@
 | 1931 | Heaven 空F Waistband | 天穹腰帶【Ｆ】 |
 | 1932 | Heaven 昇 Waistband | 昇天腰帶 |
 | 1933 | Heaven 昇F Waistband | 昇天腰帶【Ｆ】 |
-| 1934 | Jeamu Coil | 傑艾姆烏腰甲 |
-| 1935 | Jeamu F Coil | 傑艾姆烏腰甲【Ｆ】 |
-| 1936 | Amyusu Coil | 阿姆烏斯腰甲 |
-| 1937 | Amyusu F Coil | 阿姆烏斯腰甲【Ｆ】 |
+| 1934 | Jeamu Coil | 傑姆腰甲 |
+| 1935 | Jeamu F Coil | 傑姆腰甲【Ｆ】 |
+| 1936 | Amyusu Coil | 尤斯腰甲 |
+| 1937 | Amyusu F Coil | 尤斯腰甲【Ｆ】 |
 | 1938 | Clevan Coil | 克艾芙阿腰甲 |
 | 1939 | Clevan F Coil | 克艾芙阿腰甲【Ｆ】 |
-| 1940 | Meterosu Coat | 姆艾特艾腰衣 |
-| 1941 | Meterosu F Coat | 姆艾特艾腰衣【Ｆ】 |
+| 1940 | Meterosu Coat | 梅特蘿斯腰衣 |
+| 1941 | Meterosu F Coat | 梅特蘿斯腰衣【Ｆ】 |
 | 1942 | Shipureru Coil | 夏伊普烏腰甲 |
 | 1943 | Shipureru F Coil | 夏伊普烏腰甲【Ｆ】 |
-| 1944 | Toresupa Coil | 特歐爾艾腰甲 |
-| 1945 | Toresupa F Coil | 特歐爾艾腰甲【Ｆ】 |
-| 1946 | Suteraru Coil | 斯烏特艾腰甲 |
-| 1947 | Suteraru F Coil | 斯烏特艾腰甲【Ｆ】 |
+| 1944 | Toresupa Coil | 托蕾斯拍腰甲 |
+| 1945 | Toresupa F Coil | 托蕾斯拍腰甲【Ｆ】 |
+| 1946 | Suteraru Coil | 斯特拉露腰甲 |
+| 1947 | Suteraru F Coil | 斯特拉露腰甲【Ｆ】 |
 | 1948 | Hakyura Coat | 赫阿克烏腰衣 |
 | 1949 | Hakyura F Coat | 赫阿克烏腰衣【Ｆ】 |
-| 1950 | Orutemo F Coil | 歐爾烏特腰甲【Ｆ】 |
-| 1951 | Orutemo F Coat | 歐爾烏特腰衣【Ｆ】 |
+| 1950 | Orutemo F Coil | 露特莫腰甲【Ｆ】 |
+| 1951 | Orutemo F Coat | 露特莫腰衣【Ｆ】 |
 | 1952 | 忍の Obi・陰 SP Yellow | 忍の陰帶【ＳＰ】・黄 |
 | 1953 | 忍の Obi・陰 SP Red | 忍の陰帶【ＳＰ】・赤 |
 | 1954 | 忍の Obi・陰 SP Blue | 忍の陰帶【ＳＰ】・青 |
@@ -466,17 +466,17 @@
 | 1960 | K. Lobster Coat SP Blue | 王龍蝦腰衣【ＳＰ】・青 |
 | 1961 | Aneshisu F Faulds | 阿恩艾夏腰甲【Ｆ】 |
 | 1962 | Aneshisu F Coat | 阿恩艾夏腰衣【Ｆ】 |
-| 1963 | Buran F Faulds | 布烏爾阿腰甲【Ｆ】 |
+| 1963 | Buran F Faulds | 布拉腰甲【Ｆ】 |
 | 1964 | Zwinger Coil | 茲伊恩艾腰甲 |
 | 1965 | Zwinger Coat | 茲伊恩艾腰衣 |
 | 1966 | Demon Lord ノ虎布・魁 | 魔王腰甲魁 |
 | 1967 | 童子ノ虎布・魁 | 童子虎布魁腰甲 |
 | 1968 | Melan F Faulds | 紫黑腰甲【Ｆ】 |
 | 1969 | Melan F Coat | 紫黑腰衣【Ｆ】 |
-| 1970 | Buto F Waist | 布烏特歐腰甲【Ｆ】 |
-| 1971 | Himeros FX Faulds | 赫伊姆艾腰甲【ＦＸ】 |
+| 1970 | Buto F Waist | 布托腰甲【Ｆ】 |
+| 1971 | Himeros FX Faulds | 希梅蘿腰甲【ＦＸ】 |
 | 1972 | Charien FX Coat | 夏里安腰衣【ＦＸ】 |
-| 1973 | Bureshisu FX Faulds | 布烏爾艾腰甲【ＦＸ】 |
+| 1973 | Bureshisu FX Faulds | 布蕾修斯腰甲【ＦＸ】 |
 | 1974 | Rathalos LX Faulds | 雄火龍腰甲 |
 | 1975 | Rath Soul RX Coil | 火龍魂腰甲 |
 | 1976 | Khezu LX Faulds | 奇怪龍腰甲 |

@@ -32,11 +32,11 @@
 | 525 | Wizard F Coat・Green | 巫師腰衣【Ｆ】・緑 |
 | 526 | Wizard F Coat・White | 巫師腰衣【Ｆ】・白 |
 | 527 | Wizard F Coat・Blue | 巫師腰衣【Ｆ】・青 |
-| 528 | Crowley Coil・Red | 克歐沃艾腰甲・赤 |
-| 529 | Crowley Coil・Black | 克歐沃艾腰甲・黑 |
-| 530 | Crowley Coil・Green | 克歐沃艾腰甲・緑 |
-| 531 | Crowley Coil・White | 克歐沃艾腰甲・白 |
-| 532 | Crowley Coil・Blue | 克歐沃艾腰甲・青 |
+| 528 | Crowley Coil・Red | 克勒腰甲・赤 |
+| 529 | Crowley Coil・Black | 克勒腰甲・黑 |
+| 530 | Crowley Coil・Green | 克勒腰甲・緑 |
+| 531 | Crowley Coil・White | 克勒腰甲・白 |
+| 532 | Crowley Coil・Blue | 克勒腰甲・青 |
 | 533 | Faust Coat・Red | 芙阿斯腰衣・赤 |
 | 534 | Faust Coat・Black | 芙阿斯腰衣・黑 |
 | 535 | Faust Coat・Green | 芙阿斯腰衣・緑 |
@@ -178,7 +178,7 @@
 | 671 | Basarios L Faulds | 岩龍腰甲【Ｌ】 |
 | 672 | Rathalos L Coat | 雄火龍腰衣【Ｌ】 |
 | 673 | Monoblos L Coat | 一角龍腰衣【Ｌ】 |
-| 674 | Melahoa R Folia | 姆艾爾阿腰甲【Ｒ】 |
+| 674 | Melahoa R Folia | 梅拉霍佛腰甲【Ｒ】 |
 | 675 | High Metal R Faulds | 上位金屬腰甲【Ｒ】 |
 | 676 | Diablos R Coil | 角龍腰甲【Ｒ】 |
 | 677 | Blango R Faulds | 雪獅子腰甲【Ｒ】 |
@@ -192,9 +192,9 @@
 | 685 | Extra F Waist | 追加腰甲【Ｆ】 |
 | 686 | Butterfly L Elytra | 蝶翅腰【Ｌ】 |
 | 687 | Hypnoc R Faulds | 眠鳥腰甲【Ｒ】 |
-| 688 | ディジ Gear Coat | 格艾爾腰衣 |
-| 689 | Priere Coat | 普伊爾艾腰衣 |
-| 690 | Salvacion Coat | 斯阿爾阿腰衣 |
+| 688 | ディジ Gear Coat | 蓋腰衣 |
+| 689 | Priere Coat | 普蕾腰衣 |
+| 690 | Salvacion Coat | 薩瓦奇腰衣 |
 | 691 | Shikari の腰当て | 夏伊克阿腰當 |
 | 692 | Shikari の腰当て・魁 | 夏伊克阿腰當魁 |
 | 693 | G・Guard R Coil Green | 防禦腰甲【Ｒ】・緑 |
@@ -206,8 +206,8 @@
 | 699 | Arma Coat・Blue | 武裝腰衣・青 |
 | 700 | Arma Coil・Tea | 武裝腰甲・茶 |
 | 701 | Arma Coat・Tea | 武裝腰衣・茶 |
-| 702 | Orden Coil | 歐爾艾恩腰甲 |
-| 703 | Orden Coat | 歐爾艾恩腰衣 |
+| 702 | Orden Coil | 奧登腰甲 |
+| 703 | Orden Coat | 奧登腰衣 |
 | 704 | Arma F Coil・Black | 武裝腰甲【Ｆ】・黑 |
 | 705 | Arma F Coat・Black | 武裝腰衣【Ｆ】・黑 |
 | 706 | Arma F Coil・White | 武裝腰甲【Ｆ】・白 |
@@ -216,10 +216,10 @@
 | 709 | Arma F Coat・Blue | 武裝腰衣【Ｆ】・青 |
 | 710 | Arma F Coil・Tea | 武裝腰甲【Ｆ】・茶 |
 | 711 | Arma F Coat・Tea | 武裝腰衣【Ｆ】・茶 |
-| 712 | Orden F Coil | 歐爾艾恩腰甲【Ｆ】 |
-| 713 | Orden F Coat | 歐爾艾恩腰衣【Ｆ】 |
-| 714 | Es Quera Waist | 艾斯烏爾腰甲 |
-| 715 | Es Quera Belt | 艾斯烏爾腰帶 |
+| 712 | Orden F Coil | 奧登腰甲【Ｆ】 |
+| 713 | Orden F Coat | 奧登腰衣【Ｆ】 |
+| 714 | Es Quera Waist | 奎拉腰甲 |
+| 715 | Es Quera Belt | 奎拉腰帶 |
 | 716 | Pandeum Waist | 普阿恩艾腰甲 |
 | 717 | Pandeum Belt | 普阿恩艾腰帶 |
 | 718 | White Cat Fテイル | 白猫腰甲 |
@@ -236,30 +236,30 @@
 | 729 | Iris Belt SP | 伊爾伊斯腰帶【ＳＰ】 |
 | 730 | Hypnoc S Mask | 眠鳥腰甲【Ｓ】 |
 | 731 | True・Hypnoc S Mask | 真・眠鳥腰甲【Ｓ】 |
-| 732 | Purokusu Coil | 普烏爾歐腰甲 |
-| 733 | Purokusu F Coil | 普烏爾歐腰甲【Ｆ】 |
-| 734 | Kurenesu Coil | 克烏爾艾腰甲 |
-| 735 | Kurenesu F Coil | 克烏爾艾腰甲【Ｆ】 |
+| 732 | Purokusu Coil | 普蘿克斯腰甲 |
+| 733 | Purokusu F Coil | 普蘿克斯腰甲【Ｆ】 |
+| 734 | Kurenesu Coil | 克蕾奈斯腰甲 |
+| 735 | Kurenesu F Coil | 克蕾奈斯腰甲【Ｆ】 |
 | 736 | Suini Coil | 斯烏恩伊腰甲 |
 | 737 | Suini F Coil | 斯烏恩伊腰甲【Ｆ】 |
-| 738 | Guraasu Coat | 格烏爾阿腰衣 |
-| 739 | Guraasu F Coat | 格烏爾阿腰衣【Ｆ】 |
-| 740 | Forutu Coil | 芙歐爾烏腰甲 |
-| 741 | Forutu F Coil | 芙歐爾烏腰甲【Ｆ】 |
+| 738 | Guraasu Coat | 古拉斯腰衣 |
+| 739 | Guraasu F Coat | 古拉斯腰衣【Ｆ】 |
+| 740 | Forutu Coil | 佛露圖腰甲 |
+| 741 | Forutu F Coil | 佛露圖腰甲【Ｆ】 |
 | 742 | Fakiru Coil | 芙阿克伊腰甲 |
 | 743 | Fakiru F Coil | 芙阿克伊腰甲【Ｆ】 |
-| 744 | Baraban Coil | 布阿爾阿腰甲 |
-| 745 | Baraban F Coil | 布阿爾阿腰甲【Ｆ】 |
-| 746 | Sufera Coat | 斯烏芙艾腰衣 |
-| 747 | Sufera F Coat | 斯烏芙艾腰衣【Ｆ】 |
+| 744 | Baraban Coil | 巴拉巴腰甲 |
+| 745 | Baraban F Coil | 巴拉巴腰甲【Ｆ】 |
+| 746 | Sufera Coat | 斯菲拉腰衣 |
+| 747 | Sufera F Coat | 斯菲拉腰衣【Ｆ】 |
 | 748 | Pariapuria Faulds | 呑龍腰甲 |
 | 749 | Pariapuria F Faulds | 呑龍腰甲【Ｆ】 |
 | 750 | Pariapuria Coat | 呑龍腰衣 |
 | 751 | Pariapuria F Coat | 呑龍腰衣【Ｆ】 |
-| 752 | Hypnolia Waist | 赫歐爾伊腰甲 |
-| 753 | Hypnolia Belt | 赫歐爾伊腰帶 |
-| 754 | Feral Waist | 芙艾爾阿腰甲 |
-| 755 | Feral Belt | 芙艾爾阿腰帶 |
+| 752 | Hypnolia Waist | 諾莉腰甲 |
+| 753 | Hypnolia Belt | 諾莉腰帶 |
+| 754 | Feral Waist | 菲拉腰甲 |
+| 755 | Feral Belt | 菲拉腰帶 |
 | 756 | Demon Lord ノ虎布 | 魔王腰甲 |
 | 757 | Rasta 教官腰 | 教官腰腰甲 |
 | 758 | 童子ノ虎布 | 童子虎布腰甲 |
@@ -320,32 +320,32 @@
 | 813 | Wild Waist | 狂野腰甲 |
 | 814 | Guns Belt | 格烏恩腰帶 |
 | 815 | Wild Belt | 狂野腰帶 |
-| 816 | Ecole Waist | 艾克歐爾腰甲 |
+| 816 | Ecole Waist | 古勒腰甲 |
 | 817 | Dian Waist | 德伊恩腰甲 |
-| 818 | Ecole Belt | 艾克歐爾腰帶 |
+| 818 | Ecole Belt | 古勒腰帶 |
 | 819 | Dian Belt | 德伊恩腰帶 |
-| 820 | Core Faulds C | 克歐爾艾腰甲 |
-| 821 | Core Coat C | 克歐爾艾腰衣 |
-| 822 | Core Faulds | 克歐爾艾腰甲 |
-| 823 | Core Coat | 克歐爾艾腰衣 |
+| 820 | Core Faulds C | 古蕾腰甲 |
+| 821 | Core Coat C | 古蕾腰衣 |
+| 822 | Core Faulds | 古蕾腰甲 |
+| 823 | Core Coat | 古蕾腰衣 |
 | 824 | Aneshisu Faulds | 阿恩艾夏腰甲 |
 | 825 | Aneshisu Coat | 阿恩艾夏腰衣 |
-| 826 | Kuraaji Faulds | 克烏爾阿腰甲 |
+| 826 | Kuraaji Faulds | 克拉腰甲 |
 | 827 | Kuraaji Faulds 改 | 改腰甲 |
-| 828 | Kuraaji F Faulds | 克烏爾阿腰甲【Ｆ】 |
-| 829 | Kuraaji Coat | 克烏爾阿腰衣 |
+| 828 | Kuraaji F Faulds | 克拉腰甲【Ｆ】 |
+| 829 | Kuraaji Coat | 克拉腰衣 |
 | 830 | Kuraaji Coat 改 | 改腰衣 |
-| 831 | Kuraaji F Coat | 克烏爾阿腰衣【Ｆ】 |
+| 831 | Kuraaji F Coat | 克拉腰衣【Ｆ】 |
 | 832 | Kinosu Faulds | 克伊恩歐腰甲 |
-| 833 | Himeros Faulds | 赫伊姆艾腰甲 |
-| 834 | Bureshisu Faulds | 布烏爾艾腰甲 |
+| 833 | Himeros Faulds | 希梅蘿腰甲 |
+| 834 | Bureshisu Faulds | 布蕾修斯腰甲 |
 | 835 | Charien Coat | 夏里安腰衣 |
-| 836 | Arietta Waist | 阿爾伊特腰甲 |
+| 836 | Arietta Waist | 里特腰甲 |
 | 837 | Tempest Waist | 暴風雨腰甲 |
-| 838 | Vento Belt | 芙艾恩歐腰帶 |
+| 838 | Vento Belt | 薇托腰帶 |
 | 839 | Mistral Belt | 姆伊斯阿腰帶 |
-| 840 | Arc Faulds | 阿爾腰甲 |
-| 841 | Arc Coat | 阿爾腰衣 |
+| 840 | Arc Faulds | 亞克腰甲 |
+| 841 | Arc Coat | 亞克腰衣 |
 | 842 | Rath Duo Coil | 雙火龍腰甲 |
 | 843 | Rath Duo Coat | 雙火龍腰衣 |
 | 844 | Shaln Belt・Blue | 夏爾恩腰帶・青 |
@@ -384,10 +384,10 @@
 | 877 | Real F Coil・Red | 真腰甲【Ｆ】・赤 |
 | 878 | Real Coat・Red | 真腰衣・赤 |
 | 879 | Real F Coat・Red | 真腰衣【Ｆ】・赤 |
-| 880 | Regis Coil | 爾艾格伊腰甲 |
-| 881 | Regis F Coil | 爾艾格伊腰甲【Ｆ】 |
-| 882 | Regis Coat | 爾艾格伊腰衣 |
-| 883 | Regis F Coat | 爾艾格伊腰衣【Ｆ】 |
+| 880 | Regis Coil | 蕾吉腰甲 |
+| 881 | Regis F Coil | 蕾吉腰甲【Ｆ】 |
+| 882 | Regis Coat | 蕾吉腰衣 |
+| 883 | Regis F Coat | 蕾吉腰衣【Ｆ】 |
 | 884 | Comrade Belt 【葉】 | 戰友腰帶 |
 | 885 | Comrade Belt 【柑】 | 戰友腰帶 |
 | 886 | Comrade Belt 【冷】 | 戰友腰帶 |
@@ -419,19 +419,19 @@
 | 912 | Ceanataur L Coat | 鎌蟹腰衣【Ｌ】 |
 | 913 | Rath Heart R Coat | 火龍心腰衣【Ｒ】 |
 | 914 | Bone R Coat | 骨製腰衣【Ｒ】 |
-| 915 | Buran Faulds | 布烏爾阿腰甲 |
+| 915 | Buran Faulds | 布拉腰甲 |
 | 916 | White Belt Faulds | 白帶腰甲 |
 | 917 | Kagura 【腰当て】 | 神樂腰當 |
 | 918 | Kagura・覇【腰当て】 | 神樂腰當 |
 | 919 | Kamiza 【腰当て】 | 上座腰當 |
 | 920 | Kamiza・覇【腰当て】 | 上座腰當 |
-| 921 | アスハルテ Coil | 阿斯哈爾特腰甲 |
-| 922 | アスハルテ Coat | 阿斯哈爾特腰衣 |
+| 921 | アスハルテ Coil | 亞斯哈露腰甲 |
+| 922 | アスハルテ Coat | 亞斯哈露腰衣 |
 | 923 | ローク Faulds | 洛可腰甲 |
 | 924 | ローク Coat | 洛可腰衣 |
-| 925 | Soldato Coil | 斯歐爾阿腰甲 |
+| 925 | Soldato Coil | 索達托腰甲 |
 | 926 | Gable Coil | 格阿布艾腰甲 |
-| 927 | Soldato Coat | 斯歐爾阿腰衣 |
+| 927 | Soldato Coat | 索達托腰衣 |
 | 928 | Gable Coat | 格阿布艾腰衣 |
 | 929 | Uida Coil | 烏德阿腰甲 |
 | 930 | スティーダ Coil | 斯蒂達腰甲 |
@@ -445,20 +445,20 @@
 | 938 | Fias Waist | 芙伊斯腰甲 |
 | 939 | Fauve Belt | 芙阿芙艾腰帶 |
 | 940 | Fias Belt | 芙伊斯腰帶 |
-| 941 | フィデル Coil | 菲德爾腰甲 |
-| 942 | フィデルF Coil | 菲德爾腰甲【Ｆ】 |
+| 941 | フィデル Coil | 菲德露腰甲 |
+| 942 | フィデルF Coil | 菲德露腰甲【Ｆ】 |
 | 943 | ファクト Coil | 法克特腰甲 |
 | 944 | ファクトF Coil | 法克特腰甲【Ｆ】 |
 | 945 | シュロス Coil | 舒羅斯腰甲 |
 | 946 | シュロスF Coil | 舒羅斯腰甲【Ｆ】 |
 | 947 | アエトス Coat | 阿埃托斯腰衣 |
 | 948 | アエトスF Coat | 阿埃托斯腰衣【Ｆ】 |
-| 949 | ヴェルス Coil | 維爾斯腰甲 |
-| 950 | ヴェルスF Coil | 維爾斯腰甲【Ｆ】 |
+| 949 | ヴェルス Coil | 薇露斯腰甲 |
+| 950 | ヴェルスF Coil | 薇露斯腰甲【Ｆ】 |
 | 951 | フラント Coil | 芙拉恩托腰甲 |
 | 952 | フラントF Coil | 芙拉恩托腰甲【Ｆ】 |
-| 953 | Serieux Coil | 斯艾爾伊腰甲 |
-| 954 | Serieux F Coil | 斯艾爾伊腰甲【Ｆ】 |
+| 953 | Serieux Coil | 賽里克斯腰甲 |
+| 954 | Serieux F Coil | 賽里克斯腰甲【Ｆ】 |
 | 955 | ウェネス Coat | 韋涅斯腰衣 |
 | 956 | ウェネスF Coat | 韋涅斯腰衣【Ｆ】 |
 | 957 | Ferme Coil・Black | 閉月腰甲・黑 |
@@ -481,22 +481,22 @@
 | 974 | リエーザF Coil | 里耶薩腰甲【Ｆ】 |
 | 975 | リエーザ Coat | 里耶薩腰衣 |
 | 976 | リエーザF Coat | 里耶薩腰衣【Ｆ】 |
-| 977 | Claire Coil・Purple | 克蕾爾腰甲・紫 |
-| 978 | Claire F Coil・Purple | 克蕾爾腰甲【Ｆ】・紫 |
-| 979 | Claire Coat・Purple | 克蕾爾腰衣・紫 |
-| 980 | Claire F Coat・Purple | 克蕾爾腰衣【Ｆ】・紫 |
-| 981 | Claire Coil・Water | 克蕾爾腰甲・水 |
-| 982 | Claire F Coil・Water | 克蕾爾腰甲【Ｆ】・水 |
-| 983 | Claire Coat・Water | 克蕾爾腰衣・水 |
-| 984 | Claire F Coat・Water | 克蕾爾腰衣【Ｆ】・水 |
-| 985 | Claire Coil・Red | 克蕾爾腰甲・赤 |
-| 986 | Claire F Coil・Red | 克蕾爾腰甲【Ｆ】・赤 |
-| 987 | Claire Coat・Red | 克蕾爾腰衣・赤 |
-| 988 | Claire F Coat・Red | 克蕾爾腰衣【Ｆ】・赤 |
-| 989 | Claire Coil・Black | 克蕾爾腰甲・黑 |
-| 990 | Claire F Coil・Black | 克蕾爾腰甲【Ｆ】・黑 |
-| 991 | Claire Coat・Black | 克蕾爾腰衣・黑 |
-| 992 | Claire F Coat・Black | 克蕾爾腰衣【Ｆ】・黑 |
+| 977 | Claire Coil・Purple | 克蕾露腰甲・紫 |
+| 978 | Claire F Coil・Purple | 克蕾露腰甲【Ｆ】・紫 |
+| 979 | Claire Coat・Purple | 克蕾露腰衣・紫 |
+| 980 | Claire F Coat・Purple | 克蕾露腰衣【Ｆ】・紫 |
+| 981 | Claire Coil・Water | 克蕾露腰甲・水 |
+| 982 | Claire F Coil・Water | 克蕾露腰甲【Ｆ】・水 |
+| 983 | Claire Coat・Water | 克蕾露腰衣・水 |
+| 984 | Claire F Coat・Water | 克蕾露腰衣【Ｆ】・水 |
+| 985 | Claire Coil・Red | 克蕾露腰甲・赤 |
+| 986 | Claire F Coil・Red | 克蕾露腰甲【Ｆ】・赤 |
+| 987 | Claire Coat・Red | 克蕾露腰衣・赤 |
+| 988 | Claire F Coat・Red | 克蕾露腰衣【Ｆ】・赤 |
+| 989 | Claire Coil・Black | 克蕾露腰甲・黑 |
+| 990 | Claire F Coil・Black | 克蕾露腰甲【Ｆ】・黑 |
+| 991 | Claire Coat・Black | 克蕾露腰衣・黑 |
+| 992 | Claire F Coat・Black | 克蕾露腰衣【Ｆ】・黑 |
 | 993 | Desert Coil | 沙漠腰甲 |
 | 994 | Desert F Coil | 沙漠腰甲【Ｆ】 |
 | 995 | Desert Coat | 沙漠腰衣 |

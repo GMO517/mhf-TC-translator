@@ -48,12 +48,12 @@
 | 13042 | Bita G Guard | 布伊特阿臂甲【Ｇ】 |
 | 13043 | Bita GF Guard | 布伊特阿臂甲【ＧＦ】 |
 | 13044 | Bita GX Guard | 布伊特阿臂甲【ＧＸ】 |
-| 13045 | Koreputo G Arms | 克歐爾艾護腕【Ｇ】 |
-| 13046 | Koreputo GF Arms | 克歐爾艾護腕【ＧＦ】 |
-| 13047 | Koreputo GX Arms | 克歐爾艾護腕【ＧＸ】 |
-| 13048 | Koreputo G Guard | 克歐爾艾臂甲【Ｇ】 |
-| 13049 | Koreputo GF Guard | 克歐爾艾臂甲【ＧＦ】 |
-| 13050 | Koreputo GX Guard | 克歐爾艾臂甲【ＧＸ】 |
+| 13045 | Koreputo G Arms | 古蕾普托護腕【Ｇ】 |
+| 13046 | Koreputo GF Arms | 古蕾普托護腕【ＧＦ】 |
+| 13047 | Koreputo GX Arms | 古蕾普托護腕【ＧＸ】 |
+| 13048 | Koreputo G Guard | 古蕾普托臂甲【Ｇ】 |
+| 13049 | Koreputo GF Guard | 古蕾普托臂甲【ＧＦ】 |
+| 13050 | Koreputo GX Guard | 古蕾普托臂甲【ＧＸ】 |
 | 13051 | Rapin G Arms | 爾阿普伊護腕【Ｇ】 |
 | 13052 | Rapin GF Arms | 爾阿普伊護腕【ＧＦ】 |
 | 13053 | Rapin GX Arms | 爾阿普伊護腕【ＧＸ】 |
@@ -116,14 +116,14 @@
 | 13110 | Ionia GS Guard | 伊歐尼亞臂甲【ＧＳ】 |
 | 13111 | Ionia GP Guard | 伊歐尼亞臂甲【ＧＰ】 |
 | 13112 | Ionia ZP Guard | 伊歐尼亞臂甲【ＺＰ】 |
-| 13113 | Guridi Z Arms | 格烏爾伊護腕【Ｚ】 |
-| 13114 | Guridi ZF Arms | 格烏爾伊護腕【ＺＦ】 |
-| 13115 | Guridi ZY Arms | 格烏爾伊護腕【ＺＹ】 |
-| 13116 | Guridi ZX Arms | 格烏爾伊護腕【ＺＸ】 |
-| 13117 | Guridi Z Guard | 格烏爾伊臂甲【Ｚ】 |
-| 13118 | Guridi ZF Guard | 格烏爾伊臂甲【ＺＦ】 |
-| 13119 | Guridi ZY Guard | 格烏爾伊臂甲【ＺＹ】 |
-| 13120 | Guridi ZX Guard | 格烏爾伊臂甲【ＺＸ】 |
+| 13113 | Guridi Z Arms | 古里迪護腕【Ｚ】 |
+| 13114 | Guridi ZF Arms | 古里迪護腕【ＺＦ】 |
+| 13115 | Guridi ZY Arms | 古里迪護腕【ＺＹ】 |
+| 13116 | Guridi ZX Arms | 古里迪護腕【ＺＸ】 |
+| 13117 | Guridi Z Guard | 古里迪臂甲【Ｚ】 |
+| 13118 | Guridi ZF Guard | 古里迪臂甲【ＺＦ】 |
+| 13119 | Guridi ZY Guard | 古里迪臂甲【ＺＹ】 |
+| 13120 | Guridi ZX Guard | 古里迪臂甲【ＺＸ】 |
 | 13121 | Shifunyi Z Arms | 夏伊芙烏護腕【Ｚ】 |
 | 13122 | Shifunyi ZF Arms | 夏伊芙烏護腕【ＺＦ】 |
 | 13123 | Shifunyi ZY Arms | 夏伊芙烏護腕【ＺＹ】 |
@@ -132,33 +132,33 @@
 | 13126 | Shifunyi ZF Guard | 夏伊芙烏臂甲【ＺＦ】 |
 | 13127 | Shifunyi ZY Guard | 夏伊芙烏臂甲【ＺＹ】 |
 | 13128 | Shifunyi ZX Guard | 夏伊芙烏臂甲【ＺＸ】 |
-| 13129 | Rockman Guard | 爾歐克阿臂甲 |
-| 13130 | Nerishoku Kote D | 恩艾爾伊籠手 |
+| 13129 | Rockman Guard | 蘿瑪臂甲 |
+| 13130 | Nerishoku Kote D | 奈里修克籠手 |
 | 13131 | Gravios ZD Arms | 格阿芙伊護腕 |
 | 13132 | Gravios ZD Guard | 格阿芙伊臂甲 |
-| 13133 | Baruragaru ZD Arms | 布阿爾烏護腕 |
-| 13134 | Baruragaru ZD Guard | 布阿爾烏臂甲 |
+| 13133 | Baruragaru ZD Arms | 巴露拉加護腕 |
+| 13134 | Baruragaru ZD Guard | 巴露拉加臂甲 |
 | 13135 | Rabius D Arms | 爾阿布伊護腕 |
-| 13136 | Rocras D Arms | 爾歐克阿護腕 |
-| 13137 | Alisys D Arms | 阿爾伊斯護腕 |
-| 13138 | Loli D Arms | 爾歐爾伊護腕 |
-| 13139 | Recolis D Arms | 爾艾克歐護腕 |
+| 13136 | Rocras D Arms | 蘿克護腕 |
+| 13137 | Alisys D Arms | 莉護腕 |
+| 13138 | Loli D Arms | 蘿莉護腕 |
+| 13139 | Recolis D Arms | 蕾古莉護腕 |
 | 13140 | Rapin D Arms | 爾阿普伊護腕 |
 | 13141 | Rapin C Arms | 爾阿普伊護腕 |
-| 13142 | Kireek D Arms | 克伊爾艾護腕 |
+| 13142 | Kireek D Arms | 奇蕾護腕 |
 | 13143 | Quna D Arms | 斯烏恩阿護腕 |
 | 13144 | Dista D Arms | 德伊斯阿護腕 |
 | 13145 | Ionia D Arms | 伊恩伊斯護腕 |
-| 13146 | Guridi D Arms | 格烏爾伊護腕 |
+| 13146 | Guridi D Arms | 古里迪護腕 |
 | 13147 | Shifunyi D Arms | 夏伊芙烏護腕 |
 | 13148 | Rappy D Arms | 爾阿普護腕 |
 | 13149 | Bita D Arms | 布伊特阿護腕 |
-| 13150 | Koreputo D Arms | 克歐爾艾護腕 |
-| 13151 | Secuti D Arms・Black | 斯艾克烏護腕・黑 |
-| 13152 | Secuti D Arms・Blue | 斯艾克烏護腕・青 |
-| 13153 | Secuti D Arms・Red | 斯艾克烏護腕・赤 |
-| 13154 | Secuti D Arms・White | 斯艾克烏護腕・白 |
-| 13155 | Rockman D Guard | 爾歐克阿臂甲 |
+| 13150 | Koreputo D Arms | 古蕾普托護腕 |
+| 13151 | Secuti D Arms・Black | 賽庫蒂護腕・黑 |
+| 13152 | Secuti D Arms・Blue | 賽庫蒂護腕・青 |
+| 13153 | Secuti D Arms・Red | 賽庫蒂護腕・赤 |
+| 13154 | Secuti D Arms・White | 賽庫蒂護腕・白 |
+| 13155 | Rockman D Guard | 蘿瑪恩德臂甲 |
 | 13156 | Issen D【 Kote 】・Red | 一閃籠手・赤 |
 | 13157 | 蜂針D【 Kote 】・Orange | 蜂針籠手・橙 |
 | 13158 | Shanru Z Arms | 夏阿恩烏護腕【Ｚ】 |
@@ -209,20 +209,20 @@
 | 13203 | Harudo ZF Guard | 司銀龍臂甲【ＺＦ】 |
 | 13204 | Harudo ZY Guard | 司銀龍臂甲【ＺＹ】 |
 | 13205 | Harudo ZX Guard | 司銀龍臂甲【ＺＸ】 |
-| 13206 | Elysi G Arms | 艾爾伊護腕【Ｇ】 |
-| 13207 | Elysi GF Arms | 艾爾伊護腕【ＧＦ】 |
-| 13208 | Elysi GX Arms | 艾爾伊護腕【ＧＸ】 |
-| 13209 | Elysi G Guard | 艾爾伊臂甲【Ｇ】 |
-| 13210 | Elysi GF Guard | 艾爾伊臂甲【ＧＦ】 |
-| 13211 | Elysi GX Guard | 艾爾伊臂甲【ＧＸ】 |
-| 13212 | Myunru Z Arms | 姆烏恩烏護腕【Ｚ】 |
-| 13213 | Myunru ZF Arms | 姆烏恩烏護腕【ＺＦ】 |
-| 13214 | Myunru ZY Arms | 姆烏恩烏護腕【ＺＹ】 |
-| 13215 | Myunru ZX Arms | 姆烏恩烏護腕【ＺＸ】 |
-| 13216 | Myunru Z Guard | 姆烏恩烏臂甲【Ｚ】 |
-| 13217 | Myunru ZF Guard | 姆烏恩烏臂甲【ＺＦ】 |
-| 13218 | Myunru ZY Guard | 姆烏恩烏臂甲【ＺＹ】 |
-| 13219 | Myunru ZX Guard | 姆烏恩烏臂甲【ＺＸ】 |
+| 13206 | Elysi G Arms | 西護腕【Ｇ】 |
+| 13207 | Elysi GF Arms | 西護腕【ＧＦ】 |
+| 13208 | Elysi GX Arms | 西護腕【ＧＸ】 |
+| 13209 | Elysi G Guard | 西臂甲【Ｇ】 |
+| 13210 | Elysi GF Guard | 西臂甲【ＧＦ】 |
+| 13211 | Elysi GX Guard | 西臂甲【ＧＸ】 |
+| 13212 | Myunru Z Arms | 尤露護腕【Ｚ】 |
+| 13213 | Myunru ZF Arms | 尤露護腕【ＺＦ】 |
+| 13214 | Myunru ZY Arms | 尤露護腕【ＺＹ】 |
+| 13215 | Myunru ZX Arms | 尤露護腕【ＺＸ】 |
+| 13216 | Myunru Z Guard | 尤露臂甲【Ｚ】 |
+| 13217 | Myunru ZF Guard | 尤露臂甲【ＺＦ】 |
+| 13218 | Myunru ZY Guard | 尤露臂甲【ＺＹ】 |
+| 13219 | Myunru ZX Guard | 尤露臂甲【ＺＸ】 |
 | 13220 | Kinkou Arms | 金光護腕 |
 | 13221 | Kinkou F Arms | 金光護腕【Ｆ】 |
 | 13222 | Kinkou FZ Arms | 金光護腕【ＦＺ】 |
@@ -299,20 +299,20 @@
 | 13293 | Finis GS Guard | 終焉臂甲【ＧＳ】 |
 | 13294 | Finis GP Guard | 終焉臂甲【ＧＰ】 |
 | 13295 | Finis ZP Guard | 終焉臂甲【ＺＰ】 |
-| 13296 | Firl Arms | 菲爾護腕 |
-| 13297 | Firl F Arms | 菲爾護腕【Ｆ】 |
-| 13298 | Firl FZ Arms | 菲爾護腕【ＦＺ】 |
-| 13299 | Firl HS Arms | 菲爾護腕【ＨＳ】 |
-| 13300 | Firl GS Arms | 菲爾護腕【ＧＳ】 |
-| 13301 | Firl GP Arms | 菲爾護腕【ＧＰ】 |
-| 13302 | Firl ZP Arms | 菲爾護腕【ＺＰ】 |
-| 13303 | Firl Guard | 菲爾臂甲 |
-| 13304 | Firl F Guard | 菲爾臂甲【Ｆ】 |
-| 13305 | Firl FZ Guard | 菲爾臂甲【ＦＺ】 |
-| 13306 | Firl HS Guard | 菲爾臂甲【ＨＳ】 |
-| 13307 | Firl GS Guard | 菲爾臂甲【ＧＳ】 |
-| 13308 | Firl GP Guard | 菲爾臂甲【ＧＰ】 |
-| 13309 | Firl ZP Guard | 菲爾臂甲【ＺＰ】 |
+| 13296 | Firl Arms | 菲露護腕 |
+| 13297 | Firl F Arms | 菲露護腕【Ｆ】 |
+| 13298 | Firl FZ Arms | 菲露護腕【ＦＺ】 |
+| 13299 | Firl HS Arms | 菲露護腕【ＨＳ】 |
+| 13300 | Firl GS Arms | 菲露護腕【ＧＳ】 |
+| 13301 | Firl GP Arms | 菲露護腕【ＧＰ】 |
+| 13302 | Firl ZP Arms | 菲露護腕【ＺＰ】 |
+| 13303 | Firl Guard | 菲露臂甲 |
+| 13304 | Firl F Guard | 菲露臂甲【Ｆ】 |
+| 13305 | Firl FZ Guard | 菲露臂甲【ＦＺ】 |
+| 13306 | Firl HS Guard | 菲露臂甲【ＨＳ】 |
+| 13307 | Firl GS Guard | 菲露臂甲【ＧＳ】 |
+| 13308 | Firl GP Guard | 菲露臂甲【ＧＰ】 |
+| 13309 | Firl ZP Guard | 菲露臂甲【ＺＰ】 |
 | 13310 | Ryoso Kote | 涼疎籠手 |
 | 13311 | Ryoso Kote F | 涼疎籠手【Ｆ】 |
 | 13312 | Ryoso Kote FZ | 涼疎籠手【ＦＺ】 |
@@ -385,27 +385,27 @@
 | 13379 | Kelis ZP Guard | 凱利斯臂甲【ＺＰ】 |
 | 13380 | Kinkou D Arms | 克伊恩歐護腕 |
 | 13381 | Anbu D Arms | 阿恩烏斯護腕 |
-| 13382 | Rengoku Kote D | 爾艾恩歐籠手 |
-| 13383 | Nerigeki Kote D | 恩艾爾伊籠手 |
+| 13382 | Rengoku Kote D | 蕾恩克籠手 |
+| 13383 | Nerigeki Kote D | 奈里蓋奇籠手 |
 | 13384 | Shanru D Arms | 夏阿恩烏護腕 |
 | 13385 | Fanru D Arms | 芙阿恩烏護腕 |
-| 13386 | Zamuza ZD Arms | 茲阿姆烏護腕 |
-| 13387 | Zamuza ZD Guard | 茲阿姆烏臂甲 |
-| 13388 | Harudo ZD Arms | 赫阿爾烏護腕 |
-| 13389 | Harudo ZD Guard | 赫阿爾烏臂甲 |
+| 13386 | Zamuza ZD Arms | 扎姆扎護腕 |
+| 13387 | Zamuza ZD Guard | 扎姆扎臂甲 |
+| 13388 | Harudo ZD Arms | 哈露多護腕 |
+| 13389 | Harudo ZD Guard | 哈露多臂甲 |
 | 13390 | Arbiter D Cannon | 裁決加農護腕 |
-| 13391 | Elysi D Arms | 艾爾伊斯護腕 |
+| 13391 | Elysi D Arms | 西護腕 |
 | 13392 | Fine D Arms | 芙伊恩艾護腕 |
-| 13393 | Kotona D Arms | 克歐特歐護腕 |
+| 13393 | Kotona D Arms | 古托娜護腕 |
 | 13394 | Finis D Arms | 芙伊恩伊護腕 |
 | 13395 | Firl D Arms | 芙伊爾護腕 |
-| 13396 | Ryoso Kote D | 爾歐斯歐籠手 |
-| 13397 | Gems D Arms | 格艾姆護腕 |
-| 13398 | Alisha D Arms | 阿爾伊夏護腕 |
+| 13396 | Ryoso Kote D | 約索籠手 |
+| 13397 | Gems D Arms | 蓋護腕 |
+| 13398 | Alisha D Arms | 莉修護腕 |
 | 13399 | Ricca D Arms | 爾伊克阿護腕 |
-| 13400 | Kelis D Arms | 克艾爾伊護腕 |
-| 13401 | Myunru D Arms | 姆烏恩烏護腕 |
-| 13402 | Seiryu・Kensei D Arms | 青龍斯艾爾烏護腕 |
+| 13400 | Kelis D Arms | 凱莉護腕 |
+| 13401 | Myunru D Arms | 尤露護腕 |
+| 13402 | Seiryu・Kensei D Arms | 青龍賽尤凱賽護腕 |
 | 13403 | Seiryu・双龍D Arms | 青龍双龍護腕 |
 | 13404 | Seiryu・剣王D Arms | 青龍剣王護腕 |
 | 13405 | Seiryu・刀神D Arms | 青龍刀神護腕 |
@@ -449,7 +449,7 @@
 | 13443 | Comrade Arms PD White Red | 戰友護腕【ＰＤ】・白赤 |
 | 13444 | Comrade Arms PD White Blue | 戰友護腕【ＰＤ】・白青 |
 | 13445 | Comrade Arms PD White Yellow | 戰友護腕【ＰＤ】・白黄 |
-| 13446 | Otono D Arms | 歐特歐恩護腕 |
+| 13446 | Otono D Arms | 托諾護腕 |
 | 13447 | 忍の Kote・空D | 忍の空籠手 |
 | 13448 | 忍の Kote・海D | 忍の海籠手 |
 | 13449 | Shadow Kote・D | 影籠手 |

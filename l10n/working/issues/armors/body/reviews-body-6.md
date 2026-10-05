@@ -40,12 +40,12 @@
 | 2534 | Weber F Vest | 韋伯背心【Ｆ】 |
 | 2535 | Gilbert Vest | 吉伯特背心 |
 | 2536 | Gilbert F Vest | 吉伯特背心【Ｆ】 |
-| 2537 | Regyukusu F Mail | 爾艾格烏鎧甲【Ｆ】 |
-| 2538 | Regyukusu F Suit | 爾艾格烏套裝【Ｆ】 |
+| 2537 | Regyukusu F Mail | 蕾尤克斯鎧甲【Ｆ】 |
+| 2538 | Regyukusu F Suit | 蕾尤克斯套裝【Ｆ】 |
 | 2539 | Garuda FZ Suit | 迦樓羅套裝【ＦＺ】 |
 | 2540 | Garuda FZ Vest | 迦樓羅背心【ＦＺ】 |
-| 2541 | Feral FZ Suit | 芙艾爾阿套裝【ＦＺ】 |
-| 2542 | Feral FZ Vest | 芙艾爾阿背心【ＦＺ】 |
+| 2541 | Feral FZ Suit | 菲拉套裝【ＦＺ】 |
+| 2542 | Feral FZ Vest | 菲拉背心【ＦＺ】 |
 | 2543 | Pandeum FZ Suit | 普阿恩艾套裝【ＦＺ】 |
 | 2544 | Pandeum FZ Vest | 普阿恩艾背心【ＦＺ】 |
 | 2545 | Dian FZ Suit | 德伊恩套裝【ＦＺ】 |
@@ -56,14 +56,14 @@
 | 2550 | Flower FZ Vest | 芙歐沃艾背心【ＦＺ】 |
 | 2551 | Fias FZ Suit | 芙伊斯套裝【ＦＺ】 |
 | 2552 | Fias FZ Vest | 芙伊斯背心【ＦＺ】 |
-| 2553 | Viruto FZ Suit | 芙伊爾烏套裝【ＦＺ】 |
-| 2554 | Viruto FZ Vest | 芙伊爾烏背心【ＦＺ】 |
-| 2555 | Tune FZ Suit | 特烏恩艾套裝【ＦＺ】 |
+| 2553 | Viruto FZ Suit | 薇露托套裝【ＦＺ】 |
+| 2554 | Viruto FZ Vest | 薇露托背心【ＦＺ】 |
+| 2555 | Tune FZ Suit | 圖奈套裝【ＦＺ】 |
 | 2556 | Schnite FZ Vest | 施伊特艾背心【ＦＺ】 |
 | 2557 | Dicto FZ Suit | 德伊克歐套裝【ＦＺ】 |
-| 2558 | Diletto FZ Vest | 德伊爾艾背心【ＦＺ】 |
+| 2558 | Diletto FZ Vest | 迪勒特背心【ＦＺ】 |
 | 2559 | Kruss FZ Suit | 克烏斯套裝【ＦＺ】 |
-| 2560 | Quote FZ Vest | 斯烏特艾背心【ＦＺ】 |
+| 2560 | Quote FZ Vest | 奎特背心【ＦＺ】 |
 | 2561 | Starina FZ Suit | 斯塔莉娜套裝【ＦＺ】 |
 | 2562 | Starina FZ Vest | 斯塔莉娜背心【ＦＺ】 |
 | 2563 | Loose FZ Suit | 寬鬆套裝【ＦＺ】 |
@@ -128,14 +128,14 @@
 | 2622 | Kobaruta F Vest | 克歐布阿背心【Ｆ】 |
 | 2623 | Kobaruta FY Vest | 克歐布阿背心 |
 | 2624 | Kobaruta HC Vest | 克歐布阿背心【ＨＣ】 |
-| 2625 | Dogumea Mail | 德歐格烏鎧甲 |
-| 2626 | Dogumea F Mail | 德歐格烏鎧甲【Ｆ】 |
-| 2627 | Dogumea FY Mail | 德歐格烏鎧甲 |
-| 2628 | Dogumea HC Mail | 德歐格烏鎧甲【ＨＣ】 |
-| 2629 | Dogumea Vest | 德歐格烏背心 |
-| 2630 | Dogumea F Vest | 德歐格烏背心【Ｆ】 |
-| 2631 | Dogumea FY Vest | 德歐格烏背心 |
-| 2632 | Dogumea HC Vest | 德歐格烏背心【ＨＣ】 |
+| 2625 | Dogumea Mail | 多古梅鎧甲 |
+| 2626 | Dogumea F Mail | 多古梅鎧甲【Ｆ】 |
+| 2627 | Dogumea FY Mail | 多古梅鎧甲 |
+| 2628 | Dogumea HC Mail | 多古梅鎧甲【ＨＣ】 |
+| 2629 | Dogumea Vest | 多古梅背心 |
+| 2630 | Dogumea F Vest | 多古梅背心【Ｆ】 |
+| 2631 | Dogumea FY Vest | 多古梅背心 |
+| 2632 | Dogumea HC Vest | 多古梅背心【ＨＣ】 |
 | 2633 | Madaru Mail | 姆阿德阿鎧甲 |
 | 2634 | Madaru F Mail | 姆阿德阿鎧甲【Ｆ】 |
 | 2635 | Madaru FY Mail | 姆阿德阿鎧甲 |
@@ -158,9 +158,9 @@
 | 2652 | Kakabu F Vest | 克阿克阿背心【Ｆ】 |
 | 2653 | Kakabu FY Vest | 克阿克阿背心 |
 | 2654 | Kakabu HC Vest | 克阿克阿背心【ＨＣ】 |
-| 2655 | Gospel FY Mail | 格歐斯艾鎧甲 |
+| 2655 | Gospel FY Mail | 戈佩鎧甲 |
 | 2656 | Gospel HC Mail | 福音鎧甲【ＨＣ】 |
-| 2657 | Gospel FY Vest | 格歐斯艾背心 |
+| 2657 | Gospel FY Vest | 戈佩背心 |
 | 2658 | Gospel HC Vest | 福音背心【ＨＣ】 |
 | 2659 | Zodic Mail・Blue | 黄道鎧甲・青 |
 | 2660 | Zodic F Mail・Blue | 黄道鎧甲【Ｆ】・青 |
@@ -239,13 +239,13 @@
 | 2733 | 剣士ランク５ | 拉恩庫鎧甲 |
 | 2734 | 剣士ランク６ | 拉恩庫鎧甲 |
 | 2735 | 剣士ランク７ | 拉恩庫鎧甲 |
-| 2736 | ガンランク１ | 加恩拉恩庫鎧甲 |
-| 2737 | ガンランク２ | 加恩拉恩庫鎧甲 |
-| 2738 | ガンランク３ | 加恩拉恩庫鎧甲 |
-| 2739 | ガンランク４ | 加恩拉恩庫鎧甲 |
-| 2740 | ガンランク５ | 加恩拉恩庫鎧甲 |
-| 2741 | ガンランク６ | 加恩拉恩庫鎧甲 |
-| 2742 | ガンランク７ | 加恩拉恩庫鎧甲 |
+| 2736 | ガンランク１ | 加恩拉恩鎧甲 |
+| 2737 | ガンランク２ | 加恩拉恩鎧甲 |
+| 2738 | ガンランク３ | 加恩拉恩鎧甲 |
+| 2739 | ガンランク４ | 加恩拉恩鎧甲 |
+| 2740 | ガンランク５ | 加恩拉恩鎧甲 |
+| 2741 | ガンランク６ | 加恩拉恩鎧甲 |
+| 2742 | ガンランク７ | 加恩拉恩鎧甲 |
 | 2743 | デュスノF Mail | 德尤斯諾鎧甲【Ｆ】 |
 | 2744 | デュスノF Vest | 德尤斯諾背心【Ｆ】 |
 | 2745 | Blitz FX Vest | 布伊特背心【ＦＸ】 |
@@ -326,8 +326,8 @@
 | 2820 | Blaze HC Mail | 烈焔鎧甲【ＨＣ】 |
 | 2821 | Blaze FZ Suit | 烈焔套裝【ＦＺ】 |
 | 2822 | Blaze HC Suit | 烈焔套裝【ＨＣ】 |
-| 2823 | Arge HC Vest | 阿爾傑背心【ＨＣ】 |
-| 2824 | Arge HC Suit | 阿爾傑套裝【ＨＣ】 |
+| 2823 | Arge HC Vest | 亞潔背心【ＨＣ】 |
+| 2824 | Arge HC Suit | 亞潔套裝【ＨＣ】 |
 | 2825 | Camarera HC Vest | 可瑪蕾拉背心【ＨＣ】 |
 | 2826 | Camarera HC Suit | 可瑪蕾拉套裝【ＨＣ】 |
 | 2827 | Metenera HC Vest | 梅特涅拉背心【ＨＣ】 |
@@ -388,10 +388,10 @@
 | 2882 | Abiorugu HS Vest | 獰龍背心【ＨＳ】 |
 | 2883 | Kuaru HS Mail | 晶龍鎧甲【ＨＳ】 |
 | 2884 | Kuaru HS Vest | 晶龍背心【ＨＳ】 |
-| 2885 | Lils F Mail | 爾伊爾鎧甲【Ｆ】 |
-| 2886 | Lils F Vest | 爾伊爾背心【Ｆ】 |
-| 2887 | Lils FX Mail | 爾伊爾鎧甲【ＦＸ】 |
-| 2888 | Lils FX Vest | 爾伊爾背心【ＦＸ】 |
+| 2885 | Lils F Mail | 莉鎧甲【Ｆ】 |
+| 2886 | Lils F Vest | 莉背心【Ｆ】 |
+| 2887 | Lils FX Mail | 莉鎧甲【ＦＸ】 |
+| 2888 | Lils FX Vest | 莉背心【ＦＸ】 |
 | 2889 | Zodic HS Mail・Blue | 黄道鎧甲【ＨＳ】・青 |
 | 2890 | Zodic HS Suit・Blue | 黄道套裝【ＨＳ】・青 |
 | 2891 | Zodic HS Mail・Tea | 黄道鎧甲【ＨＳ】・茶 |

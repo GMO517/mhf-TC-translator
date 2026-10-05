@@ -120,30 +120,30 @@
 | 8614 | AB Layer HS GN Legs White | 層甲腿甲【ＨＳ】・白 |
 | 8615 | AB Layer GS GN Legs White | 層甲腿甲【ＧＳ】・白 |
 | 8616 | AB Layer GP GN Legs White | 層甲腿甲【ＧＰ】・白 |
-| 8617 | Bronte Feet | 布歐恩艾足 |
-| 8618 | Bronte F Feet | 布歐恩艾足【Ｆ】 |
-| 8619 | Bronte FZ Feet | 布歐恩艾足【ＦＺ】 |
-| 8620 | Bronte HS Feet | 布歐恩艾足【ＨＳ】 |
-| 8621 | Bronte GS Feet | 布歐恩艾足【ＧＳ】 |
-| 8622 | Bronte GP Feet | 布歐恩艾足【ＧＰ】 |
-| 8623 | Bronte Boots | 布歐恩艾靴 |
-| 8624 | Bronte F Boots | 布歐恩艾靴【Ｆ】 |
-| 8625 | Bronte FZ Boots | 布歐恩艾靴【ＦＺ】 |
-| 8626 | Bronte HS Boots | 布歐恩艾靴【ＨＳ】 |
-| 8627 | Bronte GS Boots | 布歐恩艾靴【ＧＳ】 |
-| 8628 | Bronte GP Boots | 布歐恩艾靴【ＧＰ】 |
-| 8629 | Solene Feet | 斯歐爾艾足 |
-| 8630 | Solene F Feet | 斯歐爾艾足【Ｆ】 |
-| 8631 | Solene FZ Feet | 斯歐爾艾足【ＦＺ】 |
-| 8632 | Solene HS Feet | 斯歐爾艾足【ＨＳ】 |
-| 8633 | Solene GS Feet | 斯歐爾艾足【ＧＳ】 |
-| 8634 | Solene GP Feet | 斯歐爾艾足【ＧＰ】 |
-| 8635 | Solene Boots | 斯歐爾艾靴 |
-| 8636 | Solene F Boots | 斯歐爾艾靴【Ｆ】 |
-| 8637 | Solene FZ Boots | 斯歐爾艾靴【ＦＺ】 |
-| 8638 | Solene HS Boots | 斯歐爾艾靴【ＨＳ】 |
-| 8639 | Solene GS Boots | 斯歐爾艾靴【ＧＳ】 |
-| 8640 | Solene GP Boots | 斯歐爾艾靴【ＧＰ】 |
+| 8617 | Bronte Feet | 布羅特足 |
+| 8618 | Bronte F Feet | 布羅特足【Ｆ】 |
+| 8619 | Bronte FZ Feet | 布羅特足【ＦＺ】 |
+| 8620 | Bronte HS Feet | 布羅特足【ＨＳ】 |
+| 8621 | Bronte GS Feet | 布羅特足【ＧＳ】 |
+| 8622 | Bronte GP Feet | 布羅特足【ＧＰ】 |
+| 8623 | Bronte Boots | 布羅特靴 |
+| 8624 | Bronte F Boots | 布羅特靴【Ｆ】 |
+| 8625 | Bronte FZ Boots | 布羅特靴【ＦＺ】 |
+| 8626 | Bronte HS Boots | 布羅特靴【ＨＳ】 |
+| 8627 | Bronte GS Boots | 布羅特靴【ＧＳ】 |
+| 8628 | Bronte GP Boots | 布羅特靴【ＧＰ】 |
+| 8629 | Solene Feet | 索勒奈足 |
+| 8630 | Solene F Feet | 索勒奈足【Ｆ】 |
+| 8631 | Solene FZ Feet | 索勒奈足【ＦＺ】 |
+| 8632 | Solene HS Feet | 索勒奈足【ＨＳ】 |
+| 8633 | Solene GS Feet | 索勒奈足【ＧＳ】 |
+| 8634 | Solene GP Feet | 索勒奈足【ＧＰ】 |
+| 8635 | Solene Boots | 索勒奈靴 |
+| 8636 | Solene F Boots | 索勒奈靴【Ｆ】 |
+| 8637 | Solene FZ Boots | 索勒奈靴【ＦＺ】 |
+| 8638 | Solene HS Boots | 索勒奈靴【ＨＳ】 |
+| 8639 | Solene GS Boots | 索勒奈靴【ＧＳ】 |
+| 8640 | Solene GP Boots | 索勒奈靴【ＧＰ】 |
 | 8641 | Lapine Feet | 兔足 |
 | 8642 | Lapine F Feet | 兔足【Ｆ】 |
 | 8643 | Lapine FZ Feet | 兔足【ＦＺ】 |
@@ -168,68 +168,68 @@
 | 8662 | Yukumo ノハカマG・Heaven | 結雲天護腿【Ｇ】 |
 | 8663 | Yukumo ノハカマGF・Heaven | 結雲天護腿【Ｆ】 |
 | 8664 | Yukumo ノハカマGX・Heaven | 結雲天護腿【ＧＸ】 |
-| 8665 | Furogada G Greaves | 芙烏爾歐護腿【Ｇ】 |
-| 8666 | Furogada GF Greaves | 芙烏爾歐護腿【ＧＦ】 |
-| 8667 | Furogada GX Greaves | 芙烏爾歐護腿【ＧＸ】 |
+| 8665 | Furogada G Greaves | 芙蘿加達護腿【Ｇ】 |
+| 8666 | Furogada GF Greaves | 芙蘿加達護腿【ＧＦ】 |
+| 8667 | Furogada GX Greaves | 芙蘿加達護腿【ＧＸ】 |
 | 8668 | Yukumo ノハカマ・Earth | 結雲地護腿 |
 | 8669 | Yukumo ノハカマG・Earth | 結雲地護腿【Ｇ】 |
 | 8670 | Yukumo ノハカマGF・Earth | 結雲地護腿【Ｆ】 |
 | 8671 | Yukumo ノハカマGX・Earth | 結雲地護腿【ＧＸ】 |
-| 8672 | Furogada G Leggings | 芙烏爾歐裹腿【Ｇ】 |
-| 8673 | Furogada GF Leggings | 芙烏爾歐裹腿【ＧＦ】 |
-| 8674 | Furogada GX Leggings | 芙烏爾歐裹腿【ＧＸ】 |
+| 8672 | Furogada G Leggings | 芙蘿加達裹腿【Ｇ】 |
+| 8673 | Furogada GF Leggings | 芙蘿加達裹腿【ＧＦ】 |
+| 8674 | Furogada GX Leggings | 芙蘿加達裹腿【ＧＸ】 |
 | 8675 | ダミー | (dummy) |
 | 8676 | ダミー | (dummy) |
 | 8677 | ダミー | (dummy) |
 | 8678 | ダミー | (dummy) |
-| 8679 | Rance G Greaves | 爾阿恩艾護腿【Ｇ】 |
-| 8680 | Rance GF Greaves | 爾阿恩艾護腿【ＧＦ】 |
-| 8681 | Rance GX Greaves | 爾阿恩艾護腿【ＧＸ】 |
+| 8679 | Rance G Greaves | 拉賽護腿【Ｇ】 |
+| 8680 | Rance GF Greaves | 拉賽護腿【ＧＦ】 |
+| 8681 | Rance GX Greaves | 拉賽護腿【ＧＸ】 |
 | 8682 | ダミー | (dummy) |
 | 8683 | ダミー | (dummy) |
 | 8684 | ダミー | (dummy) |
 | 8685 | ダミー | (dummy) |
-| 8686 | Rance G Leggings | 爾阿恩艾裹腿【Ｇ】 |
-| 8687 | Rance GF Leggings | 爾阿恩艾裹腿【ＧＦ】 |
-| 8688 | Rance GX Leggings | 爾阿恩艾裹腿【ＧＸ】 |
-| 8689 | Meirida Greaves | 姆艾爾伊護腿 |
-| 8690 | Meirida F Greaves | 姆艾爾伊護腿【Ｆ】 |
-| 8691 | Meirida FY Greaves | 姆艾爾伊護腿 |
-| 8692 | Meirida HS Greaves | 姆艾爾伊護腿【ＨＳ】 |
-| 8693 | Meirida G Greaves | 姆艾爾伊護腿【Ｇ】 |
-| 8694 | Meirida GF Greaves | 姆艾爾伊護腿【ＧＦ】 |
-| 8695 | Meirida GX Greaves | 姆艾爾伊護腿【ＧＸ】 |
-| 8696 | Meirida Leggings | 姆艾爾伊裹腿 |
-| 8697 | Meirida F Leggings | 姆艾爾伊裹腿【Ｆ】 |
-| 8698 | Meirida FY Leggings | 姆艾爾伊裹腿 |
-| 8699 | Meirida HS Leggings | 姆艾爾伊裹腿【ＨＳ】 |
-| 8700 | Meirida G Leggings | 姆艾爾伊裹腿【Ｇ】 |
-| 8701 | Meirida GF Leggings | 姆艾爾伊裹腿【ＧＦ】 |
-| 8702 | Meirida GX Leggings | 姆艾爾伊裹腿【ＧＸ】 |
-| 8703 | Maaden Greaves | 姆阿德艾護腿 |
-| 8704 | Maaden F Greaves | 姆阿德艾護腿【Ｆ】 |
-| 8705 | Maaden FY Greaves | 姆阿德艾護腿 |
-| 8706 | Maaden HS Greaves | 姆阿德艾護腿【ＨＳ】 |
-| 8707 | Maaden G Greaves | 姆阿德艾護腿【Ｇ】 |
-| 8708 | Maaden GF Greaves | 姆阿德艾護腿【ＧＦ】 |
-| 8709 | Maaden GX Greaves | 姆阿德艾護腿【ＧＸ】 |
-| 8710 | Maaden Leggings | 姆阿德艾裹腿 |
-| 8711 | Maaden F Leggings | 姆阿德艾裹腿【Ｆ】 |
-| 8712 | Maaden FY Leggings | 姆阿德艾裹腿 |
-| 8713 | Maaden HS Leggings | 姆阿德艾裹腿【ＨＳ】 |
-| 8714 | Maaden G Leggings | 姆阿德艾裹腿【Ｇ】 |
-| 8715 | Maaden GF Leggings | 姆阿德艾裹腿【ＧＦ】 |
-| 8716 | Maaden GX Leggings | 姆阿德艾裹腿【ＧＸ】 |
+| 8686 | Rance G Leggings | 拉賽裹腿【Ｇ】 |
+| 8687 | Rance GF Leggings | 拉賽裹腿【ＧＦ】 |
+| 8688 | Rance GX Leggings | 拉賽裹腿【ＧＸ】 |
+| 8689 | Meirida Greaves | 梅里達護腿 |
+| 8690 | Meirida F Greaves | 梅里達護腿【Ｆ】 |
+| 8691 | Meirida FY Greaves | 梅里達護腿 |
+| 8692 | Meirida HS Greaves | 梅里達護腿【ＨＳ】 |
+| 8693 | Meirida G Greaves | 梅里達護腿【Ｇ】 |
+| 8694 | Meirida GF Greaves | 梅里達護腿【ＧＦ】 |
+| 8695 | Meirida GX Greaves | 梅里達護腿【ＧＸ】 |
+| 8696 | Meirida Leggings | 梅里達裹腿 |
+| 8697 | Meirida F Leggings | 梅里達裹腿【Ｆ】 |
+| 8698 | Meirida FY Leggings | 梅里達裹腿 |
+| 8699 | Meirida HS Leggings | 梅里達裹腿【ＨＳ】 |
+| 8700 | Meirida G Leggings | 梅里達裹腿【Ｇ】 |
+| 8701 | Meirida GF Leggings | 梅里達裹腿【ＧＦ】 |
+| 8702 | Meirida GX Leggings | 梅里達裹腿【ＧＸ】 |
+| 8703 | Maaden Greaves | 瑪德護腿 |
+| 8704 | Maaden F Greaves | 瑪德護腿【Ｆ】 |
+| 8705 | Maaden FY Greaves | 瑪德護腿 |
+| 8706 | Maaden HS Greaves | 瑪德護腿【ＨＳ】 |
+| 8707 | Maaden G Greaves | 瑪德護腿【Ｇ】 |
+| 8708 | Maaden GF Greaves | 瑪德護腿【ＧＦ】 |
+| 8709 | Maaden GX Greaves | 瑪德護腿【ＧＸ】 |
+| 8710 | Maaden Leggings | 瑪德裹腿 |
+| 8711 | Maaden F Leggings | 瑪德裹腿【Ｆ】 |
+| 8712 | Maaden FY Leggings | 瑪德裹腿 |
+| 8713 | Maaden HS Leggings | 瑪德裹腿【ＨＳ】 |
+| 8714 | Maaden G Leggings | 瑪德裹腿【Ｇ】 |
+| 8715 | Maaden GF Leggings | 瑪德裹腿【ＧＦ】 |
+| 8716 | Maaden GX Leggings | 瑪德裹腿【ＧＸ】 |
 | 8717 | Kosho 【 Hakama 】 | 古書袴 |
 | 8718 | Kosho F【 Hakama 】 | 古書袴【Ｆ】 |
-| 8719 | Kosho FY【 Hakama 】 | 克歐夏歐袴 |
+| 8719 | Kosho FY【 Hakama 】 | 古修袴 |
 | 8720 | Kosho HS【 Hakama 】 | 古書袴【ＨＳ】 |
 | 8721 | Kosho G【 Hakama 】 | 古書袴【Ｇ】 |
 | 8722 | Kosho GF【 Hakama 】 | 古書袴【ＧＦ】 |
 | 8723 | Kosho GX【 Hakama 】 | 古書袴【ＧＸ】 |
 | 8724 | Koro [Hakama 】 | 孤狼袴 |
 | 8725 | Koro F [Hakama 】 | 孤狼袴【Ｆ】 |
-| 8726 | Koro FY [Hakama 】 | 克歐爾歐袴 |
+| 8726 | Koro FY [Hakama 】 | 古蘿袴 |
 | 8727 | Koro HS [Hakama 】 | 孤狼袴【ＨＳ】 |
 | 8728 | Koro G [Hakama 】 | 孤狼袴【Ｇ】 |
 | 8729 | Koro GF [Hakama 】 | 孤狼袴【ＧＦ】 |
@@ -248,20 +248,20 @@
 | 8742 | Abuyado G Leggings | 阿布烏伊裹腿【Ｇ】 |
 | 8743 | Abuyado GF Leggings | 阿布烏伊裹腿【ＧＦ】 |
 | 8744 | Abuyado GX Leggings | 阿布烏伊裹腿【ＧＸ】 |
-| 8745 | Gorukku Feet | 格歐爾烏足 |
-| 8746 | Gorukku F Feet | 格歐爾烏足【Ｆ】 |
-| 8747 | Gorukku FY Feet | 格歐爾烏足 |
-| 8748 | Gorukku HS Feet | 格歐爾烏足【ＨＳ】 |
-| 8749 | Gorukku G Feet | 格歐爾烏足【Ｇ】 |
-| 8750 | Gorukku GF Feet | 格歐爾烏足【ＧＦ】 |
-| 8751 | Gorukku GX Feet | 格歐爾烏足【ＧＸ】 |
-| 8752 | Gorukku Boots | 格歐爾烏靴 |
-| 8753 | Gorukku F Boots | 格歐爾烏靴【Ｆ】 |
-| 8754 | Gorukku FY Boots | 格歐爾烏靴 |
-| 8755 | Gorukku HS Boots | 格歐爾烏靴【ＨＳ】 |
-| 8756 | Gorukku G Boots | 格歐爾烏靴【Ｇ】 |
-| 8757 | Gorukku GF Boots | 格歐爾烏靴【ＧＦ】 |
-| 8758 | Gorukku GX Boots | 格歐爾烏靴【ＧＸ】 |
+| 8745 | Gorukku Feet | 古蘿布足 |
+| 8746 | Gorukku F Feet | 古蘿布足【Ｆ】 |
+| 8747 | Gorukku FY Feet | 古蘿布足 |
+| 8748 | Gorukku HS Feet | 古蘿布足【ＨＳ】 |
+| 8749 | Gorukku G Feet | 古蘿布足【Ｇ】 |
+| 8750 | Gorukku GF Feet | 古蘿布足【ＧＦ】 |
+| 8751 | Gorukku GX Feet | 古蘿布足【ＧＸ】 |
+| 8752 | Gorukku Boots | 古蘿布靴 |
+| 8753 | Gorukku F Boots | 古蘿布靴【Ｆ】 |
+| 8754 | Gorukku FY Boots | 古蘿布靴 |
+| 8755 | Gorukku HS Boots | 古蘿布靴【ＨＳ】 |
+| 8756 | Gorukku G Boots | 古蘿布靴【Ｇ】 |
+| 8757 | Gorukku GF Boots | 古蘿布靴【ＧＦ】 |
+| 8758 | Gorukku GX Boots | 古蘿布靴【ＧＸ】 |
 | 8759 | Shimashima Feet | 夏伊姆阿足 |
 | 8760 | Shimashima F Feet | 夏伊姆阿足【Ｆ】 |
 | 8761 | Shimashima FY Feet | 夏伊姆阿足 |
@@ -276,12 +276,12 @@
 | 8770 | Shimashima G Boots | 夏伊姆阿靴【Ｇ】 |
 | 8771 | Shimashima GF Boots | 夏伊姆阿靴【ＧＦ】 |
 | 8772 | Shimashima GX Boots | 夏伊姆阿靴【ＧＸ】 |
-| 8773 | Rath Duo FY Greaves | 爾阿斯烏護腿 |
+| 8773 | Rath Duo FY Greaves | 拉斯杜護腿 |
 | 8774 | Rath Duo HS Greaves | 雙火龍護腿【ＨＳ】 |
 | 8775 | Rath Duo G Greaves | 雙火龍護腿【Ｇ】 |
 | 8776 | Rath Duo GF Greaves | 雙火龍護腿【ＧＦ】 |
 | 8777 | Rath Duo GX Greaves | 雙火龍護腿【ＧＸ】 |
-| 8778 | Rath Duo FY Leggings | 爾阿斯烏裹腿 |
+| 8778 | Rath Duo FY Leggings | 拉斯杜裹腿 |
 | 8779 | Rath Duo HS Leggings | 雙火龍裹腿【ＨＳ】 |
 | 8780 | Rath Duo G Leggings | 雙火龍裹腿【Ｇ】 |
 | 8781 | Rath Duo GF Leggings | 雙火龍裹腿【ＧＦ】 |
@@ -294,20 +294,20 @@
 | 8788 | Tandress G Boots | 坦德蕾絲靴【Ｇ】 |
 | 8789 | Tandress GF Boots | 坦德蕾絲靴【ＧＦ】 |
 | 8790 | Tandress GX Boots | 坦德蕾絲靴【ＧＸ】 |
-| 8791 | Ranvuo Feet | 爾阿恩烏足 |
-| 8792 | Ranvuo F Feet | 爾阿恩烏足【Ｆ】 |
-| 8793 | Ranvuo FY Feet | 爾阿恩烏足 |
-| 8794 | Ranvuo HS Feet | 爾阿恩烏足【ＨＳ】 |
-| 8795 | Ranvuo G Feet | 爾阿恩烏足【Ｇ】 |
-| 8796 | Ranvuo GF Feet | 爾阿恩烏足【ＧＦ】 |
-| 8797 | Ranvuo GX Feet | 爾阿恩烏足【ＧＸ】 |
-| 8798 | Ranvuo Boots | 爾阿恩烏靴 |
-| 8799 | Ranvuo F Boots | 爾阿恩烏靴【Ｆ】 |
-| 8800 | Ranvuo FY Boots | 爾阿恩烏靴 |
-| 8801 | Ranvuo HS Boots | 爾阿恩烏靴【ＨＳ】 |
-| 8802 | Ranvuo G Boots | 爾阿恩烏靴【Ｇ】 |
-| 8803 | Ranvuo GF Boots | 爾阿恩烏靴【ＧＦ】 |
-| 8804 | Ranvuo GX Boots | 爾阿恩烏靴【ＧＸ】 |
+| 8791 | Ranvuo Feet | 拉足 |
+| 8792 | Ranvuo F Feet | 拉足【Ｆ】 |
+| 8793 | Ranvuo FY Feet | 拉足 |
+| 8794 | Ranvuo HS Feet | 拉足【ＨＳ】 |
+| 8795 | Ranvuo G Feet | 拉足【Ｇ】 |
+| 8796 | Ranvuo GF Feet | 拉足【ＧＦ】 |
+| 8797 | Ranvuo GX Feet | 拉足【ＧＸ】 |
+| 8798 | Ranvuo Boots | 拉靴 |
+| 8799 | Ranvuo F Boots | 拉靴【Ｆ】 |
+| 8800 | Ranvuo FY Boots | 拉靴 |
+| 8801 | Ranvuo HS Boots | 拉靴【ＨＳ】 |
+| 8802 | Ranvuo G Boots | 拉靴【Ｇ】 |
+| 8803 | Ranvuo GF Boots | 拉靴【ＧＦ】 |
+| 8804 | Ranvuo GX Boots | 拉靴【ＧＸ】 |
 | 8805 | Nyui Feet | 恩烏足 |
 | 8806 | Nyui F Feet | 恩烏足【Ｆ】 |
 | 8807 | Nyui FY Feet | 恩烏斯足 |
@@ -338,8 +338,8 @@
 | 8832 | Nympha GX Leggings | 恩阿裹腿【ＧＸ】 |
 | 8833 | Harudo GX Greaves | 司銀龍護腿【ＧＸ】 |
 | 8834 | Harudo GX Leggings | 司銀龍裹腿【ＧＸ】 |
-| 8835 | Gureado GX Greaves | 格烏爾艾護腿【ＧＸ】 |
-| 8836 | Gureado GX Leggings | 格烏爾艾裹腿【ＧＸ】 |
+| 8835 | Gureado GX Greaves | 古蕾多護腿【ＧＸ】 |
+| 8836 | Gureado GX Leggings | 古蕾多裹腿【ＧＸ】 |
 | 8837 | Pics GP Feet・Green | 皮克斯足【ＧＰ】・緑 |
 | 8838 | Pics GP Boots・Green | 皮克斯靴【ＧＰ】・緑 |
 | 8839 | Pics GP Feet・Purple | 皮克斯足【ＧＰ】・紫 |

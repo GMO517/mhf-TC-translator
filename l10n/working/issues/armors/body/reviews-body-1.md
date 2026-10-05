@@ -4,7 +4,7 @@
 
 | index | 原文 | 譯文 |
 |---|---|---|
-| 0 | Nothing Equipped | 未裝備鎧甲 |
+| 0 | Nothing Equipped | 未裝備 |
 | 1 | Leather Mail | 皮革鎧甲 |
 | 2 | Chainmail Mail | 鎖鏈鎧甲 |
 | 3 | Hunter's Mail | 獵人鎧甲 |
@@ -53,7 +53,7 @@
 | 46 | Black Belt Mail | 黑帶鎧甲 |
 | 47 | Mosswine Vest | 菌豬背心 |
 | 48 | Melahoa Ribplate | 梅拉霍阿板甲 |
-| 49 | Makluva Cover | 瑪克魯瓦罩鎧甲 |
+| 49 | Makluva Cover | 瑪可露拍鎧甲 |
 | 50 | Bistro Vest | 食堂背心 |
 | 51 | Veloci ーツボディ | 藍速龍鎧甲 |
 | 52 | Gen ーツボディ | 源鎧甲 |
@@ -262,7 +262,7 @@
 | 255 | Gold Cat Suit | 金猫套裝 |
 | 256 | Gothic Plate | 哥德板甲 |
 | 257 | Gothic F Plate | 哥德板甲【Ｆ】 |
-| 258 | Beil Brigantes | 布艾爾伊鎧甲 |
+| 258 | Beil Brigantes | 貝布加特鎧甲 |
 | 259 | Comrade Mail 【猩】 | 戰友鎧甲猩 |
 | 260 | Jisutoreru Vest | 吉斯特雷背心 |
 | 261 | Duo Mail | 雙鎧甲 |
@@ -276,7 +276,7 @@
 | 269 | ジスト Vest | 吉斯特背心 |
 | 270 | Missing No. | 遺失道具No.270 |
 | 271 | Extra Vest | 追加背心 |
-| 272 | ウナペルト Vest | 烏納佩爾特背心 |
+| 272 | ウナペルト Vest | 宇娜佩露背心 |
 | 273 | Kyuura Vest | 丘拉背心 |
 | 274 | Missing No. | 遺失道具No.274 |
 | 275 | Missing No. | 遺失道具No.275 |
@@ -290,10 +290,10 @@
 | 283 | Butterfly Sペクトス | 蝶鎧甲 |
 | 284 | Akantor ウルンテ | 霸龍鎧甲 |
 | 285 | Akantor ウルンペ | 霸龍鎧甲 |
-| 286 | ウナペルトF Vest | 烏納佩爾特背心【Ｆ】 |
+| 286 | ウナペルトF Vest | 宇娜佩露背心【Ｆ】 |
 | 287 | Missing No. | 遺失道具No.287 |
 | 288 | Melahoa U Ribplate | 梅拉霍阿板甲【Ｕ】 |
-| 289 | Makluva U Cover | 瑪克魯瓦罩鎧甲【Ｕ】 |
+| 289 | Makluva U Cover | 瑪可露拍鎧甲【Ｕ】 |
 | 290 | Bistro U Vest | 食堂背心【Ｕ】 |
 | 291 | King Beetle Thorax | 王甲蟲胸甲 |
 | 292 | King Beetle ペクトス | 王甲蟲鎧甲 |

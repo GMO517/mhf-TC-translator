@@ -141,30 +141,30 @@
 | 10135 | Red Ice Emperor HS Guard | 赤冰帝臂甲【ＨＳ】 |
 | 10136 | Red Ice Emperor GS Guard | 赤冰帝臂甲【ＧＳ】 |
 | 10137 | Red Ice Emperor GP Guard | 赤冰帝臂甲【ＧＰ】 |
-| 10138 | Taruta Arms | 特阿爾烏護腕 |
-| 10139 | Taruta F Arms | 特阿爾烏護腕【Ｆ】 |
-| 10140 | Taruta FZ Arms | 特阿爾烏護腕【ＦＺ】 |
-| 10141 | Taruta HS Arms | 特阿爾烏護腕【ＨＳ】 |
-| 10142 | Taruta GS Arms | 特阿爾烏護腕【ＧＳ】 |
-| 10143 | Taruta GP Arms | 特阿爾烏護腕【ＧＰ】 |
-| 10144 | Taruta Guard | 特阿爾烏臂甲 |
-| 10145 | Taruta F Guard | 特阿爾烏臂甲【Ｆ】 |
-| 10146 | Taruta FZ Guard | 特阿爾烏臂甲【ＦＺ】 |
-| 10147 | Taruta HS Guard | 特阿爾烏臂甲【ＨＳ】 |
-| 10148 | Taruta GS Guard | 特阿爾烏臂甲【ＧＳ】 |
-| 10149 | Taruta GP Guard | 特阿爾烏臂甲【ＧＰ】 |
-| 10150 | Ruruta Arms | 爾烏爾烏護腕 |
-| 10151 | Ruruta F Arms | 爾烏爾烏護腕【Ｆ】 |
-| 10152 | Ruruta FZ Arms | 爾烏爾烏護腕【ＦＺ】 |
-| 10153 | Ruruta HS Arms | 爾烏爾烏護腕【ＨＳ】 |
-| 10154 | Ruruta GS Arms | 爾烏爾烏護腕【ＧＳ】 |
-| 10155 | Ruruta GP Arms | 爾烏爾烏護腕【ＧＰ】 |
-| 10156 | Ruruta Guard | 爾烏爾烏臂甲 |
-| 10157 | Ruruta F Guard | 爾烏爾烏臂甲【Ｆ】 |
-| 10158 | Ruruta FZ Guard | 爾烏爾烏臂甲【ＦＺ】 |
-| 10159 | Ruruta HS Guard | 爾烏爾烏臂甲【ＨＳ】 |
-| 10160 | Ruruta GS Guard | 爾烏爾烏臂甲【ＧＳ】 |
-| 10161 | Ruruta GP Guard | 爾烏爾烏臂甲【ＧＰ】 |
+| 10138 | Taruta Arms | 塔露塔護腕 |
+| 10139 | Taruta F Arms | 塔露塔護腕【Ｆ】 |
+| 10140 | Taruta FZ Arms | 塔露塔護腕【ＦＺ】 |
+| 10141 | Taruta HS Arms | 塔露塔護腕【ＨＳ】 |
+| 10142 | Taruta GS Arms | 塔露塔護腕【ＧＳ】 |
+| 10143 | Taruta GP Arms | 塔露塔護腕【ＧＰ】 |
+| 10144 | Taruta Guard | 塔露塔臂甲 |
+| 10145 | Taruta F Guard | 塔露塔臂甲【Ｆ】 |
+| 10146 | Taruta FZ Guard | 塔露塔臂甲【ＦＺ】 |
+| 10147 | Taruta HS Guard | 塔露塔臂甲【ＨＳ】 |
+| 10148 | Taruta GS Guard | 塔露塔臂甲【ＧＳ】 |
+| 10149 | Taruta GP Guard | 塔露塔臂甲【ＧＰ】 |
+| 10150 | Ruruta Arms | 露露塔護腕 |
+| 10151 | Ruruta F Arms | 露露塔護腕【Ｆ】 |
+| 10152 | Ruruta FZ Arms | 露露塔護腕【ＦＺ】 |
+| 10153 | Ruruta HS Arms | 露露塔護腕【ＨＳ】 |
+| 10154 | Ruruta GS Arms | 露露塔護腕【ＧＳ】 |
+| 10155 | Ruruta GP Arms | 露露塔護腕【ＧＰ】 |
+| 10156 | Ruruta Guard | 露露塔臂甲 |
+| 10157 | Ruruta F Guard | 露露塔臂甲【Ｆ】 |
+| 10158 | Ruruta FZ Guard | 露露塔臂甲【ＦＺ】 |
+| 10159 | Ruruta HS Guard | 露露塔臂甲【ＨＳ】 |
+| 10160 | Ruruta GS Guard | 露露塔臂甲【ＧＳ】 |
+| 10161 | Ruruta GP Guard | 露露塔臂甲【ＧＰ】 |
 | 10162 | Kurofi Arms | 克羅菲護腕 |
 | 10163 | Kurofi F Arms | 克羅菲護腕【Ｆ】 |
 | 10164 | Kurofi FZ Arms | 克羅菲護腕【ＦＺ】 |
@@ -195,54 +195,54 @@
 | 10189 | Chiarim HS Guard | 奇亞琳臂甲【ＨＳ】 |
 | 10190 | Chiarim GS Guard | 奇亞琳臂甲【ＧＳ】 |
 | 10191 | Chiarim GP Guard | 奇亞琳臂甲【ＧＰ】 |
-| 10192 | Rohokku Arms | 爾歐赫歐護腕 |
-| 10193 | Rohokku F Arms | 爾歐赫歐護腕【Ｆ】 |
-| 10194 | Rohokku FY Arms | 爾歐赫歐護腕 |
-| 10195 | Rohokku HS Arms | 爾歐赫歐護腕【ＨＳ】 |
-| 10196 | Rohokku G Arms | 爾歐赫歐護腕【Ｇ】 |
-| 10197 | Rohokku GF Arms | 爾歐赫歐護腕【ＧＦ】 |
-| 10198 | Rohokku GX Arms | 爾歐赫歐護腕【ＧＸ】 |
-| 10199 | Rohokku Guard | 爾歐赫歐臂甲 |
-| 10200 | Rohokku F Guard | 爾歐赫歐臂甲【Ｆ】 |
-| 10201 | Rohokku FY Guard | 爾歐赫歐臂甲 |
-| 10202 | Rohokku HS Guard | 爾歐赫歐臂甲【ＨＳ】 |
-| 10203 | Rohokku G Guard | 爾歐赫歐臂甲【Ｇ】 |
-| 10204 | Rohokku GF Guard | 爾歐赫歐臂甲【ＧＦ】 |
-| 10205 | Rohokku GX Guard | 爾歐赫歐臂甲【ＧＸ】 |
-| 10206 | Cure Arms | 克烏爾艾護腕 |
-| 10207 | Cure F Arms | 克烏爾艾護腕【Ｆ】 |
-| 10208 | Cure FY Arms | 克烏爾艾護腕 |
-| 10209 | Cure HS Arms | 克烏爾艾護腕【ＨＳ】 |
-| 10210 | Cure G Arms | 克烏爾艾護腕【Ｇ】 |
-| 10211 | Cure GF Arms | 克烏爾艾護腕【ＧＦ】 |
-| 10212 | Cure GX Arms | 克烏爾艾護腕【ＧＸ】 |
-| 10213 | Cure Guard | 克烏爾艾臂甲 |
-| 10214 | Cure F Guard | 克烏爾艾臂甲【Ｆ】 |
-| 10215 | Cure FY Guard | 克烏爾艾臂甲 |
-| 10216 | Cure HS Guard | 克烏爾艾臂甲【ＨＳ】 |
-| 10217 | Cure G Guard | 克烏爾艾臂甲【Ｇ】 |
-| 10218 | Cure GF Guard | 克烏爾艾臂甲【ＧＦ】 |
-| 10219 | Cure GX Guard | 克烏爾艾臂甲【ＧＸ】 |
+| 10192 | Rohokku Arms | 蘿霍克護腕 |
+| 10193 | Rohokku F Arms | 蘿霍克護腕【Ｆ】 |
+| 10194 | Rohokku FY Arms | 蘿霍克護腕 |
+| 10195 | Rohokku HS Arms | 蘿霍克護腕【ＨＳ】 |
+| 10196 | Rohokku G Arms | 蘿霍克護腕【Ｇ】 |
+| 10197 | Rohokku GF Arms | 蘿霍克護腕【ＧＦ】 |
+| 10198 | Rohokku GX Arms | 蘿霍克護腕【ＧＸ】 |
+| 10199 | Rohokku Guard | 蘿霍克臂甲 |
+| 10200 | Rohokku F Guard | 蘿霍克臂甲【Ｆ】 |
+| 10201 | Rohokku FY Guard | 蘿霍克臂甲 |
+| 10202 | Rohokku HS Guard | 蘿霍克臂甲【ＨＳ】 |
+| 10203 | Rohokku G Guard | 蘿霍克臂甲【Ｇ】 |
+| 10204 | Rohokku GF Guard | 蘿霍克臂甲【ＧＦ】 |
+| 10205 | Rohokku GX Guard | 蘿霍克臂甲【ＧＸ】 |
+| 10206 | Cure Arms | 庫蕾護腕 |
+| 10207 | Cure F Arms | 庫蕾護腕【Ｆ】 |
+| 10208 | Cure FY Arms | 庫蕾護腕 |
+| 10209 | Cure HS Arms | 庫蕾護腕【ＨＳ】 |
+| 10210 | Cure G Arms | 庫蕾護腕【Ｇ】 |
+| 10211 | Cure GF Arms | 庫蕾護腕【ＧＦ】 |
+| 10212 | Cure GX Arms | 庫蕾護腕【ＧＸ】 |
+| 10213 | Cure Guard | 庫蕾臂甲 |
+| 10214 | Cure F Guard | 庫蕾臂甲【Ｆ】 |
+| 10215 | Cure FY Guard | 庫蕾臂甲 |
+| 10216 | Cure HS Guard | 庫蕾臂甲【ＨＳ】 |
+| 10217 | Cure G Guard | 庫蕾臂甲【Ｇ】 |
+| 10218 | Cure GF Guard | 庫蕾臂甲【ＧＦ】 |
+| 10219 | Cure GX Guard | 庫蕾臂甲【ＧＸ】 |
 | 10220 | 鬼凛ノ Kote G | 鬼凛籠手【Ｇ】 |
 | 10221 | 鬼凛ノ Kote GF | 鬼凛籠手【ＧＦ】 |
 | 10222 | 鬼凛ノ Kote GX | 鬼凛籠手【ＧＸ】 |
 | 10223 | 童凛ノ Kote G | 童凛籠手【Ｇ】 |
 | 10224 | 童凛ノ Kote GF | 童凛籠手【ＧＦ】 |
 | 10225 | 童凛ノ Kote GX | 童凛籠手【ＧＸ】 |
-| 10226 | Eguiene Arms | 艾格烏恩護腕 |
-| 10227 | Eguiene F Arms | 艾格烏恩護腕【Ｆ】 |
-| 10228 | Eguiene FY Arms | 艾格烏恩護腕 |
-| 10229 | Eguiene HS Arms | 艾格烏恩護腕【ＨＳ】 |
-| 10230 | Eguiene G Arms | 艾格烏恩護腕【Ｇ】 |
-| 10231 | Eguiene GF Arms | 艾格烏恩護腕【ＧＦ】 |
-| 10232 | Eguiene GX Arms | 艾格烏恩護腕【ＧＸ】 |
-| 10233 | Eguiene Guard | 艾格烏恩臂甲 |
-| 10234 | Eguiene F Guard | 艾格烏恩臂甲【Ｆ】 |
-| 10235 | Eguiene FY Guard | 艾格烏恩臂甲 |
-| 10236 | Eguiene HS Guard | 艾格烏恩臂甲【ＨＳ】 |
-| 10237 | Eguiene G Guard | 艾格烏恩臂甲【Ｇ】 |
-| 10238 | Eguiene GF Guard | 艾格烏恩臂甲【ＧＦ】 |
-| 10239 | Eguiene GX Guard | 艾格烏恩臂甲【ＧＸ】 |
+| 10226 | Eguiene Arms | 古奈護腕 |
+| 10227 | Eguiene F Arms | 古奈護腕【Ｆ】 |
+| 10228 | Eguiene FY Arms | 古奈護腕 |
+| 10229 | Eguiene HS Arms | 古奈護腕【ＨＳ】 |
+| 10230 | Eguiene G Arms | 古奈護腕【Ｇ】 |
+| 10231 | Eguiene GF Arms | 古奈護腕【ＧＦ】 |
+| 10232 | Eguiene GX Arms | 古奈護腕【ＧＸ】 |
+| 10233 | Eguiene Guard | 古奈臂甲 |
+| 10234 | Eguiene F Guard | 古奈臂甲【Ｆ】 |
+| 10235 | Eguiene FY Guard | 古奈臂甲 |
+| 10236 | Eguiene HS Guard | 古奈臂甲【ＨＳ】 |
+| 10237 | Eguiene G Guard | 古奈臂甲【Ｇ】 |
+| 10238 | Eguiene GF Guard | 古奈臂甲【ＧＦ】 |
+| 10239 | Eguiene GX Guard | 古奈臂甲【ＧＸ】 |
 | 10240 | Vakusu Arms | 芙阿克烏護腕 |
 | 10241 | Vakusu F Arms | 芙阿克烏護腕【Ｆ】 |
 | 10242 | Vakusu FY Arms | 芙阿克烏護腕 |
@@ -389,9 +389,9 @@
 | 10383 | Asumo GS Guard | 阿斯莫臂甲【ＧＳ】 |
 | 10384 | Asumo GP Guard | 阿斯莫臂甲【ＧＰ】 |
 | 10385 | Asumo ZP Guard | 阿斯莫臂甲【ＺＰ】 |
-| 10386 | Carrol C Arms | 克阿爾歐護腕 |
+| 10386 | Carrol C Arms | 可爾護腕 |
 | 10387 | Zyra C Arms | 茲阿斯護腕 |
-| 10388 | Loose C Arms | 爾歐斯艾護腕 |
+| 10388 | Loose C Arms | 蘿賽護腕 |
 | 10389 | Asteli ZP Arms・White | 阿斯特利護腕【ＺＰ】・白 |
 | 10390 | Asteli ZP Guard・White | 阿斯特利臂甲【ＺＰ】・白 |
 | 10391 | Asteli ZP Arms・Blue | 阿斯特利護腕【ＺＰ】・青 |
@@ -431,11 +431,11 @@
 | 10425 | ブリゼGF Guard | 布里澤臂甲【Ｆ】 |
 | 10426 | ブリゼGX Guard | 布里澤臂甲【ＧＸ】 |
 | 10427 | Higakure C Arms | 赫伊格阿護腕 |
-| 10428 | Harokyu D Arms | 赫阿爾歐護腕 |
-| 10429 | Evol D Arms・White | 艾芙歐爾護腕・白 |
-| 10430 | Evol D Arms・Red | 艾芙歐爾護腕・赤 |
-| 10431 | Evol D Arms・Blue | 艾芙歐爾護腕・青 |
-| 10432 | Evol D Arms・Purple | 艾芙歐爾護腕・紫 |
+| 10428 | Harokyu D Arms | 哈蘿尤護腕 |
+| 10429 | Evol D Arms・White | 沃護腕・白 |
+| 10430 | Evol D Arms・Red | 沃護腕・赤 |
+| 10431 | Evol D Arms・Blue | 沃護腕・青 |
+| 10432 | Evol D Arms・Purple | 沃護腕・紫 |
 | 10433 | 狩衛部隊 Arms・男 | 狩衛部隊男護腕 |
 | 10434 | 狩衛部隊 Arms・女 | 狩衛部隊女護腕 |
 | 10435 | Blue Ice Emperor ZP Arms | 青冰帝護腕【ＺＰ】 |
@@ -500,8 +500,8 @@
 | 10494 | Wander GS Guard・Black | 流浪臂甲【ＧＳ】・黑 |
 | 10495 | Wander GP Guard・Black | 流浪臂甲【ＧＰ】・黑 |
 | 10496 | Wander ZP Guard・Black | 流浪臂甲【ＺＰ】・黑 |
-| 10497 | Gore Arms | 格歐爾艾護腕 |
-| 10498 | Gore G Arms | 格歐爾艾護腕【Ｇ】 |
-| 10499 | Gore GF Arms | 格歐爾艾護腕【ＧＦ】 |
-| 10500 | Gore GX Arms | 格歐爾艾護腕【ＧＸ】 |
+| 10497 | Gore Arms | 戈蕾護腕 |
+| 10498 | Gore G Arms | 戈蕾護腕【Ｇ】 |
+| 10499 | Gore GF Arms | 戈蕾護腕【ＧＦ】 |
+| 10500 | Gore GX Arms | 戈蕾護腕【ＧＸ】 |
 

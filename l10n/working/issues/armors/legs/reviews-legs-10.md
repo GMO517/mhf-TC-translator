@@ -337,24 +337,24 @@
 | 4831 | Garuda HS Boots | 迦樓羅靴【ＨＳ】 |
 | 4832 | Garuda GS Boots | 迦樓羅靴【ＧＳ】 |
 | 4833 | Garuda GP Boots | 迦樓羅靴【ＧＰ】 |
-| 4834 | Feral HS Leg | 芙艾爾阿腿【ＨＳ】 |
-| 4835 | Feral GS Leg | 芙艾爾阿腿【ＧＳ】 |
-| 4836 | Feral GP Leg | 芙艾爾阿腿【ＧＰ】 |
-| 4837 | Feral HS Boots | 芙艾爾阿靴【ＨＳ】 |
-| 4838 | Feral GS Boots | 芙艾爾阿靴【ＧＳ】 |
-| 4839 | Feral GP Boots | 芙艾爾阿靴【ＧＰ】 |
+| 4834 | Feral HS Leg | 菲拉腿【ＨＳ】 |
+| 4835 | Feral GS Leg | 菲拉腿【ＧＳ】 |
+| 4836 | Feral GP Leg | 菲拉腿【ＧＰ】 |
+| 4837 | Feral HS Boots | 菲拉靴【ＨＳ】 |
+| 4838 | Feral GS Boots | 菲拉靴【ＧＳ】 |
+| 4839 | Feral GP Boots | 菲拉靴【ＧＰ】 |
 | 4840 | Fias HS Leg | 芙伊斯腿【ＨＳ】 |
 | 4841 | Fias GS Leg | 芙伊斯腿【ＧＳ】 |
 | 4842 | Fias GP Leg | 芙伊斯腿【ＧＰ】 |
 | 4843 | Fias HS Boots | 芙伊斯靴【ＨＳ】 |
 | 4844 | Fias GS Boots | 芙伊斯靴【ＧＳ】 |
 | 4845 | Fias GP Boots | 芙伊斯靴【ＧＰ】 |
-| 4846 | Viruto HS Leg | 芙伊爾烏腿【ＨＳ】 |
-| 4847 | Viruto GS Leg | 芙伊爾烏腿【ＧＳ】 |
-| 4848 | Viruto GP Leg | 芙伊爾烏腿【ＧＰ】 |
-| 4849 | Viruto HS Boots | 芙伊爾烏靴【ＨＳ】 |
-| 4850 | Viruto GS Boots | 芙伊爾烏靴【ＧＳ】 |
-| 4851 | Viruto GP Boots | 芙伊爾烏靴【ＧＰ】 |
+| 4846 | Viruto HS Leg | 薇露托腿【ＨＳ】 |
+| 4847 | Viruto GS Leg | 薇露托腿【ＧＳ】 |
+| 4848 | Viruto GP Leg | 薇露托腿【ＧＰ】 |
+| 4849 | Viruto HS Boots | 薇露托靴【ＨＳ】 |
+| 4850 | Viruto GS Boots | 薇露托靴【ＧＳ】 |
+| 4851 | Viruto GP Boots | 薇露托靴【ＧＰ】 |
 | 4852 | Falco HS Greaves | 隼護腿【ＨＳ】 |
 | 4853 | Falco GS Greaves | 隼護腿【ＧＳ】 |
 | 4854 | Falco GP Greaves | 隼護腿【ＧＰ】 |
@@ -393,11 +393,11 @@
 | 4887 | Tinku GP Leggings | 汀克裹腿【ＧＰ】 |
 | 4888 | Luxt Greaves | 盧克斯特護腿 |
 | 4889 | Luxt F Greaves | 盧克斯特護腿【Ｆ】 |
-| 4890 | Luxt FY Greaves | 爾烏克斯護腿 |
+| 4890 | Luxt FY Greaves | 露克斯護腿 |
 | 4891 | Luxt HS Greaves | 盧克斯特護腿【ＨＳ】 |
 | 4892 | Luxt Leggings | 盧克斯特裹腿 |
 | 4893 | Luxt F Leggings | 盧克斯特裹腿【Ｆ】 |
-| 4894 | Luxt FY Leggings | 爾烏克斯裹腿 |
+| 4894 | Luxt FY Leggings | 露克斯裹腿 |
 | 4895 | Luxt HS Leggings | 盧克斯特裹腿【ＨＳ】 |
 | 4896 | Luxt G Greaves | 盧克斯特護腿【Ｇ】 |
 | 4897 | Luxt GF Greaves | 盧克斯特護腿【ＧＦ】 |
@@ -407,11 +407,11 @@
 | 4901 | Luxt GX Leggings | 盧克斯特裹腿【ＧＸ】 |
 | 4902 | Oleum Greaves | 油護腿 |
 | 4903 | Oleum F Greaves | 油護腿【Ｆ】 |
-| 4904 | Oleum FY Greaves | 歐爾艾姆護腿 |
+| 4904 | Oleum FY Greaves | 勒護腿 |
 | 4905 | Oleum HS Greaves | 油護腿【ＨＳ】 |
 | 4906 | Oleum Leggings | 油裹腿 |
 | 4907 | Oleum F Leggings | 油裹腿【Ｆ】 |
-| 4908 | Oleum FY Leggings | 歐爾艾姆裹腿 |
+| 4908 | Oleum FY Leggings | 勒裹腿 |
 | 4909 | Oleum HS Leggings | 油裹腿【ＨＳ】 |
 | 4910 | Oleum G Greaves | 油護腿【Ｇ】 |
 | 4911 | Oleum GF Greaves | 油護腿【ＧＦ】 |
@@ -421,11 +421,11 @@
 | 4915 | Oleum GX Leggings | 油裹腿【ＧＸ】 |
 | 4916 | Kuranto Greaves | 庫蘭托護腿 |
 | 4917 | Kuranto F Greaves | 庫蘭托護腿【Ｆ】 |
-| 4918 | Kuranto FY Greaves | 克烏爾阿護腿 |
+| 4918 | Kuranto FY Greaves | 克拉托護腿 |
 | 4919 | Kuranto HS Greaves | 庫蘭托護腿【ＨＳ】 |
 | 4920 | Kuranto Leggings | 庫蘭托裹腿 |
 | 4921 | Kuranto F Leggings | 庫蘭托裹腿【Ｆ】 |
-| 4922 | Kuranto FY Leggings | 克烏爾阿裹腿 |
+| 4922 | Kuranto FY Leggings | 克拉托裹腿 |
 | 4923 | Kuranto HS Leggings | 庫蘭托裹腿【ＨＳ】 |
 | 4924 | Kuranto G Greaves | 庫蘭托護腿【Ｇ】 |
 | 4925 | Kuranto GF Greaves | 庫蘭托護腿【ＧＦ】 |
@@ -435,11 +435,11 @@
 | 4929 | Kuranto GX Leggings | 庫蘭托裹腿【ＧＸ】 |
 | 4930 | Yupuk Greaves | 尤普克護腿 |
 | 4931 | Yupuk F Greaves | 尤普克護腿【Ｆ】 |
-| 4932 | Yupuk FY Greaves | 伊烏普烏護腿 |
+| 4932 | Yupuk FY Greaves | 尤普護腿 |
 | 4933 | Yupuk HS Greaves | 尤普克護腿【ＨＳ】 |
 | 4934 | Yupuk Leggings | 尤普克裹腿 |
 | 4935 | Yupuk F Leggings | 尤普克裹腿【Ｆ】 |
-| 4936 | Yupuk FY Leggings | 伊烏普烏裹腿 |
+| 4936 | Yupuk FY Leggings | 尤普裹腿 |
 | 4937 | Yupuk HS Leggings | 尤普克裹腿【ＨＳ】 |
 | 4938 | Yupuk G Greaves | 尤普克護腿【Ｇ】 |
 | 4939 | Yupuk GF Greaves | 尤普克護腿【ＧＦ】 |
@@ -453,12 +453,12 @@
 | 4947 | Higakure G Leggings | 赫伊格阿裹腿【Ｇ】 |
 | 4948 | Higakure GF Leggings | 赫伊格阿裹腿【ＧＦ】 |
 | 4949 | Higakure GX Leggings | 赫伊格阿裹腿【ＧＸ】 |
-| 4950 | Konseru G Greaves | 克歐恩艾護腿【Ｇ】 |
-| 4951 | Konseru GF Greaves | 克歐恩艾護腿【ＧＦ】 |
-| 4952 | Konseru GX Greaves | 克歐恩艾護腿【ＧＸ】 |
-| 4953 | Konseru G Leggings | 克歐恩艾裹腿【Ｇ】 |
-| 4954 | Konseru GF Leggings | 克歐恩艾裹腿【ＧＦ】 |
-| 4955 | Konseru GX Leggings | 克歐恩艾裹腿【ＧＸ】 |
+| 4950 | Konseru G Greaves | 古賽露護腿【Ｇ】 |
+| 4951 | Konseru GF Greaves | 古賽露護腿【ＧＦ】 |
+| 4952 | Konseru GX Greaves | 古賽露護腿【ＧＸ】 |
+| 4953 | Konseru G Leggings | 古賽露裹腿【Ｇ】 |
+| 4954 | Konseru GF Leggings | 古賽露裹腿【ＧＦ】 |
+| 4955 | Konseru GX Leggings | 古賽露裹腿【ＧＸ】 |
 | 4956 | Diru G Greaves | 迪魯護腿【Ｇ】 |
 | 4957 | Diru GF Greaves | 迪魯護腿【ＧＦ】 |
 | 4958 | Diru GX Greaves | 迪魯護腿【ＧＸ】 |

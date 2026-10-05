@@ -152,14 +152,14 @@
 | 6646 | Kontao GP Suit | 孔陶套裝【ＧＰ】 |
 | 6647 | Deliver Mail | 交貨鎧甲 |
 | 6648 | Deliver F Mail | 交貨鎧甲【Ｆ】 |
-| 6649 | Deliver FY Mail | 德艾爾伊鎧甲 |
+| 6649 | Deliver FY Mail | 德莉薇鎧甲 |
 | 6650 | Deliver HS Mail | 交貨鎧甲【ＨＳ】 |
 | 6651 | Deliver G Mail | 交貨鎧甲【Ｇ】 |
 | 6652 | Deliver GF Mail | 交貨鎧甲【ＧＦ】 |
 | 6653 | Deliver GX Mail | 交貨鎧甲【ＧＸ】 |
 | 6654 | Deliver Vest | 交貨背心 |
 | 6655 | Deliver F Vest | 交貨背心【Ｆ】 |
-| 6656 | Deliver FY Vest | 德艾爾伊背心 |
+| 6656 | Deliver FY Vest | 德莉薇背心 |
 | 6657 | Deliver HS Vest | 交貨背心【ＨＳ】 |
 | 6658 | Deliver G Vest | 交貨背心【Ｇ】 |
 | 6659 | Deliver GF Vest | 交貨背心【ＧＦ】 |
@@ -194,72 +194,72 @@
 | 6688 | Nisuru GX Vest | 尼斯魯背心【ＧＸ】 |
 | 6689 | Coord Mail | 搭配鎧甲 |
 | 6690 | Coord F Mail | 搭配鎧甲【Ｆ】 |
-| 6691 | Coord FY Mail | 克歐爾鎧甲 |
+| 6691 | Coord FY Mail | 古鎧甲 |
 | 6692 | Coord HS Mail | 搭配鎧甲【ＨＳ】 |
 | 6693 | Coord G Mail | 搭配鎧甲【Ｇ】 |
 | 6694 | Coord GF Mail | 搭配鎧甲【ＧＦ】 |
 | 6695 | Coord GX Mail | 搭配鎧甲【ＧＸ】 |
 | 6696 | Coord Vest | 搭配背心 |
 | 6697 | Coord F Vest | 搭配背心【Ｆ】 |
-| 6698 | Coord FY Vest | 克歐爾背心 |
+| 6698 | Coord FY Vest | 古背心 |
 | 6699 | Coord HS Vest | 搭配背心【ＨＳ】 |
 | 6700 | Coord G Vest | 搭配背心【Ｇ】 |
 | 6701 | Coord GF Vest | 搭配背心【ＧＦ】 |
 | 6702 | Coord GX Vest | 搭配背心【ＧＸ】 |
 | 6703 | Resega Mail | 雷塞加鎧甲 |
 | 6704 | Resega F Mail | 雷塞加鎧甲【Ｆ】 |
-| 6705 | Resega FY Mail | 爾艾斯艾鎧甲 |
+| 6705 | Resega FY Mail | 蕾賽加鎧甲 |
 | 6706 | Resega HS Mail | 雷塞加鎧甲【ＨＳ】 |
 | 6707 | Resega G Mail | 雷塞加鎧甲【Ｇ】 |
 | 6708 | Resega GF Mail | 雷塞加鎧甲【ＧＦ】 |
 | 6709 | Resega GX Mail | 雷塞加鎧甲【ＧＸ】 |
 | 6710 | Resega Vest | 雷塞加背心 |
 | 6711 | Resega F Vest | 雷塞加背心【Ｆ】 |
-| 6712 | Resega FY Vest | 爾艾斯艾背心 |
+| 6712 | Resega FY Vest | 蕾賽加背心 |
 | 6713 | Resega HS Vest | 雷塞加背心【ＨＳ】 |
 | 6714 | Resega G Vest | 雷塞加背心【Ｇ】 |
 | 6715 | Resega GF Vest | 雷塞加背心【ＧＦ】 |
 | 6716 | Resega GX Vest | 雷塞加背心【ＧＸ】 |
 | 6717 | Suforu Mail | 蘇福魯鎧甲 |
 | 6718 | Suforu F Mail | 蘇福魯鎧甲【Ｆ】 |
-| 6719 | Suforu FY Mail | 斯烏芙歐鎧甲 |
+| 6719 | Suforu FY Mail | 斯佛露鎧甲 |
 | 6720 | Suforu HS Mail | 蘇福魯鎧甲【ＨＳ】 |
 | 6721 | Suforu G Mail | 蘇福魯鎧甲【Ｇ】 |
 | 6722 | Suforu GF Mail | 蘇福魯鎧甲【ＧＦ】 |
 | 6723 | Suforu GX Mail | 蘇福魯鎧甲【ＧＸ】 |
 | 6724 | Suforu Vest | 蘇福魯背心 |
 | 6725 | Suforu F Vest | 蘇福魯背心【Ｆ】 |
-| 6726 | Suforu FY Vest | 斯烏芙歐背心 |
+| 6726 | Suforu FY Vest | 斯佛露背心 |
 | 6727 | Suforu HS Vest | 蘇福魯背心【ＨＳ】 |
 | 6728 | Suforu G Vest | 蘇福魯背心【Ｇ】 |
 | 6729 | Suforu GF Vest | 蘇福魯背心【ＧＦ】 |
 | 6730 | Suforu GX Vest | 蘇福魯背心【ＧＸ】 |
 | 6731 | Perce Mail | 珀斯鎧甲 |
 | 6732 | Perce F Mail | 珀斯鎧甲【Ｆ】 |
-| 6733 | Perce FY Mail | 普艾爾艾鎧甲 |
+| 6733 | Perce FY Mail | 佩賽鎧甲 |
 | 6734 | Perce HS Mail | 珀斯鎧甲【ＨＳ】 |
 | 6735 | Perce G Mail | 珀斯鎧甲【Ｇ】 |
 | 6736 | Perce GF Mail | 珀斯鎧甲【ＧＦ】 |
 | 6737 | Perce GX Mail | 珀斯鎧甲【ＧＸ】 |
 | 6738 | Perce Vest | 珀斯背心 |
 | 6739 | Perce F Vest | 珀斯背心【Ｆ】 |
-| 6740 | Perce FY Vest | 普艾爾艾背心 |
+| 6740 | Perce FY Vest | 佩賽背心 |
 | 6741 | Perce HS Vest | 珀斯背心【ＨＳ】 |
 | 6742 | Perce G Vest | 珀斯背心【Ｇ】 |
 | 6743 | Perce GF Vest | 珀斯背心【ＧＦ】 |
 | 6744 | Perce GX Vest | 珀斯背心【ＧＸ】 |
-| 6745 | Survey Corps Vest | 斯烏爾艾背心 |
-| 6746 | Survey Corps F Vest | 斯烏爾艾背心【Ｆ】 |
-| 6747 | Survey Corps FZ Vest | 斯烏爾艾背心【ＦＺ】 |
-| 6748 | Survey Corps HS Vest | 斯烏爾艾背心【ＨＳ】 |
-| 6749 | Survey Corps GS Vest | 斯烏爾艾背心【ＧＳ】 |
-| 6750 | Survey Corps GP Vest | 斯烏爾艾背心【ＧＰ】 |
-| 6751 | Survey Corps Suit | 斯烏爾艾套裝 |
-| 6752 | Survey Corps F Suit | 斯烏爾艾套裝【Ｆ】 |
-| 6753 | Survey Corps FZ Suit | 斯烏爾艾套裝【ＦＺ】 |
-| 6754 | Survey Corps HS Suit | 斯烏爾艾套裝【ＨＳ】 |
-| 6755 | Survey Corps GS Suit | 斯烏爾艾套裝【ＧＳ】 |
-| 6756 | Survey Corps GP Suit | 斯烏爾艾套裝【ＧＰ】 |
+| 6745 | Survey Corps Vest | 斯薇古背心 |
+| 6746 | Survey Corps F Vest | 斯薇古背心【Ｆ】 |
+| 6747 | Survey Corps FZ Vest | 斯薇古背心【ＦＺ】 |
+| 6748 | Survey Corps HS Vest | 斯薇古背心【ＨＳ】 |
+| 6749 | Survey Corps GS Vest | 斯薇古背心【ＧＳ】 |
+| 6750 | Survey Corps GP Vest | 斯薇古背心【ＧＰ】 |
+| 6751 | Survey Corps Suit | 斯薇古套裝 |
+| 6752 | Survey Corps F Suit | 斯薇古套裝【Ｆ】 |
+| 6753 | Survey Corps FZ Suit | 斯薇古套裝【ＦＺ】 |
+| 6754 | Survey Corps HS Suit | 斯薇古套裝【ＨＳ】 |
+| 6755 | Survey Corps GS Suit | 斯薇古套裝【ＧＳ】 |
+| 6756 | Survey Corps GP Suit | 斯薇古套裝【ＧＰ】 |
 | 6757 | Training Corps Vest | 特阿恩伊背心 |
 | 6758 | Training Corps F Vest | 特阿恩伊背心【Ｆ】 |
 | 6759 | Training Corps FZ Vest | 特阿恩伊背心【ＦＺ】 |
@@ -295,7 +295,7 @@
 | 6789 | ダミー | (dummy) |
 | 6790 | ダミー | (dummy) |
 | 6791 | Carrol Suit・Gold | 可羅套裝・金 |
-| 6792 | Leila Suit | 爾艾爾阿套裝 |
+| 6792 | Leila Suit | 勒拉套裝 |
 | 6793 | IS Academy Suit・White | 學院套裝・白 |
 | 6794 | IS Academy F Suit・White | 學院套裝【Ｆ】・白 |
 | 6795 | IS Academy FZ Suit・White | 學院套裝【ＦＺ】・白 |
@@ -374,16 +374,16 @@
 | 6868 | Melan G Suit | 紫黑套裝【Ｇ】 |
 | 6869 | Melan GF Suit | 紫黑套裝【ＧＦ】 |
 | 6870 | Melan GX Suit | 紫黑套裝【ＧＸ】 |
-| 6871 | Rouge FY Jacket | 爾歐格艾夾克 |
+| 6871 | Rouge FY Jacket | 蘿蓋夾克 |
 | 6872 | Rouge HC Jacket | 紅夾克【ＨＣ】 |
 | 6873 | Rouge G Jacket | 紅夾克【Ｇ】 |
 | 6874 | Rouge GF Jacket | 紅夾克【ＧＦ】 |
 | 6875 | Rouge GX Jacket | 紅夾克【ＧＸ】 |
-| 6876 | Regyukusu GP Mail | 爾艾格烏鎧甲【ＧＰ】 |
-| 6877 | Regyukusu GP Suit | 爾艾格烏套裝【ＧＰ】 |
-| 6878 | Beil GP Brigantes | 布艾爾伊鎧甲【ＧＰ】 |
-| 6879 | ヴェルフGP Mail | 維爾夫鎧甲【ＧＰ】 |
-| 6880 | ヴェルフGP Vest | 維爾夫背心【ＧＰ】 |
+| 6876 | Regyukusu GP Mail | 蕾尤克斯鎧甲【ＧＰ】 |
+| 6877 | Regyukusu GP Suit | 蕾尤克斯套裝【ＧＰ】 |
+| 6878 | Beil GP Brigantes | 貝布加特鎧甲【ＧＰ】 |
+| 6879 | ヴェルフGP Mail | 薇露芙鎧甲【ＧＰ】 |
+| 6880 | ヴェルフGP Vest | 薇露芙背心【ＧＰ】 |
 | 6881 | テリオグGP Mail | 特里歐古鎧甲【ＧＰ】 |
 | 6882 | テリオグGP Vest | 特里歐古背心【ＧＰ】 |
 | 6883 | Hypnoc G Mail | 眠鳥鎧甲【Ｇ】 |
@@ -410,12 +410,12 @@
 | 6904 | Weiss G Heart | 白心衣【Ｇ】 |
 | 6905 | Weiss GF Heart | 白心衣【ＧＦ】 |
 | 6906 | Weiss GX Heart | 白心衣【ＧＸ】 |
-| 6907 | Venom G Mail | 芙艾恩歐鎧甲【Ｇ】 |
-| 6908 | Venom GF Mail | 芙艾恩歐鎧甲【ＧＦ】 |
-| 6909 | Venom GX Mail | 芙艾恩歐鎧甲【ＧＸ】 |
-| 6910 | Venom G Vest | 芙艾恩歐背心【Ｇ】 |
-| 6911 | Venom GF Vest | 芙艾恩歐背心【ＧＦ】 |
-| 6912 | Venom GX Vest | 芙艾恩歐背心【ＧＸ】 |
+| 6907 | Venom G Mail | 薇諾鎧甲【Ｇ】 |
+| 6908 | Venom GF Mail | 薇諾鎧甲【ＧＦ】 |
+| 6909 | Venom GX Mail | 薇諾鎧甲【ＧＸ】 |
+| 6910 | Venom G Vest | 薇諾背心【Ｇ】 |
+| 6911 | Venom GF Vest | 薇諾背心【ＧＦ】 |
+| 6912 | Venom GX Vest | 薇諾背心【ＧＸ】 |
 | 6913 | Elegance 【胴当て】 | 雅胴當 |
 | 6914 | Elegance F【胴当て】 | 雅胴當【Ｆ】 |
 | 6915 | Elegance FX【胴当て】 | 雅胴當【ＦＸ】 |

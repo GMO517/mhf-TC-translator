@@ -38,10 +38,10 @@
 | 3532 | Knight King Arms GN HC White | 騎士王護腕【ＨＣ】・白 |
 | 3533 | Knight King Arms GN HS White | 騎士王護腕【ＨＳ】・白 |
 | 3534 | Knight King Arms GN GS White | 騎士王護腕【ＧＳ】・白 |
-| 3535 | ヴェルフFZ Arms | 維爾夫護腕【ＦＺ】 |
-| 3536 | ヴェルフHC Arms | 維爾夫護腕【ＨＣ】 |
-| 3537 | ヴェルフFZ Guard | 維爾夫臂甲【ＦＺ】 |
-| 3538 | ヴェルフHC Guard | 維爾夫臂甲【ＨＣ】 |
+| 3535 | ヴェルフFZ Arms | 薇露芙護腕【ＦＺ】 |
+| 3536 | ヴェルフHC Arms | 薇露芙護腕【ＨＣ】 |
+| 3537 | ヴェルフFZ Guard | 薇露芙臂甲【ＦＺ】 |
+| 3538 | ヴェルフHC Guard | 薇露芙臂甲【ＨＣ】 |
 | 3539 | テリオグFZ Arms | 特里歐古護腕【ＦＺ】 |
 | 3540 | テリオグHC Arms | 特里歐古護腕【ＨＣ】 |
 | 3541 | テリオグFZ Guard | 特里歐古臂甲【ＦＺ】 |
@@ -116,12 +116,12 @@
 | 3610 | Paria G Guard | 呑龍臂甲【Ｇ】 |
 | 3611 | Paria GF Guard | 呑龍臂甲【ＧＦ】 |
 | 3612 | Paria GX Guard | 呑龍臂甲【ＧＸ】 |
-| 3613 | Torpedo G Arms | 特歐爾艾護腕【Ｇ】 |
-| 3614 | Torpedo GF Arms | 特歐爾艾護腕【ＧＦ】 |
-| 3615 | Torpedo GX Arms | 特歐爾艾護腕【ＧＸ】 |
-| 3616 | Torpedo G Guard | 特歐爾艾臂甲【Ｇ】 |
-| 3617 | Torpedo GF Guard | 特歐爾艾臂甲【ＧＦ】 |
-| 3618 | Torpedo GX Guard | 特歐爾艾臂甲【ＧＸ】 |
+| 3613 | Torpedo G Arms | 托佩多護腕【Ｇ】 |
+| 3614 | Torpedo GF Arms | 托佩多護腕【ＧＦ】 |
+| 3615 | Torpedo GX Arms | 托佩多護腕【ＧＸ】 |
+| 3616 | Torpedo G Guard | 托佩多臂甲【Ｇ】 |
+| 3617 | Torpedo GF Guard | 托佩多臂甲【ＧＦ】 |
+| 3618 | Torpedo GX Guard | 托佩多臂甲【ＧＸ】 |
 | 3619 | Lavasioth G Arms | 熔岩龍護腕【Ｇ】 |
 | 3620 | Lavasioth GF Arms | 熔岩龍護腕【ＧＦ】 |
 | 3621 | Lavasioth GX Arms | 熔岩龍護腕【ＧＸ】 |
@@ -282,10 +282,10 @@
 | 3776 | 日光G【 Kote 】 | 日光籠手【Ｇ】 |
 | 3777 | Wadatsumi G [Sleeves 】 | 綿津見袖【Ｇ】 |
 | 3778 | Okami G [Sleeves 】 | 狼袖【Ｇ】 |
-| 3779 | Lils G Arms | 爾伊爾護腕【Ｇ】 |
-| 3780 | Lils G Guard | 爾伊爾臂甲【Ｇ】 |
-| 3781 | Algol G Arms | 阿爾歐爾護腕【Ｇ】 |
-| 3782 | Algol G Guard | 阿爾歐爾臂甲【Ｇ】 |
+| 3779 | Lils G Arms | 莉護腕【Ｇ】 |
+| 3780 | Lils G Guard | 莉臂甲【Ｇ】 |
+| 3781 | Algol G Arms | 戈護腕【Ｇ】 |
+| 3782 | Algol G Guard | 戈臂甲【Ｇ】 |
 | 3783 | エミットG Arms | 艾米托護腕【Ｇ】 |
 | 3784 | エミットG Guard | 艾米托臂甲【Ｇ】 |
 | 3785 | Diboa G Arms | 迪博阿護腕【Ｇ】 |
@@ -296,8 +296,8 @@
 | 3790 | ハーデス Arms | 哈德斯護腕 |
 | 3791 | レアー Guard | 雷阿臂甲 |
 | 3792 | ハーデス Guard | 哈德斯臂甲 |
-| 3793 | Roses GX Arms | 爾歐斯艾護腕【ＧＸ】 |
-| 3794 | Roses GX Guard | 爾歐斯艾臂甲【ＧＸ】 |
+| 3793 | Roses GX Arms | 蘿賽護腕【ＧＸ】 |
+| 3794 | Roses GX Guard | 蘿賽臂甲【ＧＸ】 |
 | 3795 | Strega G Arms | 魔女護腕【Ｇ】 |
 | 3796 | Strega GF Arms | 魔女護腕【ＧＦ】 |
 | 3797 | Strega GX Arms | 魔女護腕【ＧＸ】 |
@@ -461,12 +461,12 @@
 | 3955 | Gougarf HS Arms | 鬥獸護腕【ＨＳ】 |
 | 3956 | Gougarf FX Guard | 鬥獸臂甲【ＦＸ】 |
 | 3957 | Gougarf HS Guard | 鬥獸臂甲【ＨＳ】 |
-| 3958 | Regyukusu HC Arms | 爾艾格烏護腕【ＨＣ】 |
-| 3959 | Regyukusu HS Arms | 爾艾格烏護腕【ＨＳ】 |
-| 3960 | Regyukusu GS Arms | 爾艾格烏護腕【ＧＳ】 |
-| 3961 | Regyukusu HC Guard | 爾艾格烏臂甲【ＨＣ】 |
-| 3962 | Regyukusu HS Guard | 爾艾格烏臂甲【ＨＳ】 |
-| 3963 | Regyukusu GS Guard | 爾艾格烏臂甲【ＧＳ】 |
+| 3958 | Regyukusu HC Arms | 蕾尤克斯護腕【ＨＣ】 |
+| 3959 | Regyukusu HS Arms | 蕾尤克斯護腕【ＨＳ】 |
+| 3960 | Regyukusu GS Arms | 蕾尤克斯護腕【ＧＳ】 |
+| 3961 | Regyukusu HC Guard | 蕾尤克斯臂甲【ＨＣ】 |
+| 3962 | Regyukusu HS Guard | 蕾尤克斯臂甲【ＨＳ】 |
+| 3963 | Regyukusu GS Guard | 蕾尤克斯臂甲【ＧＳ】 |
 | 3964 | Pistis HC Arms | 普伊斯伊護腕【ＨＣ】 |
 | 3965 | Pistis HS Arms | 普伊斯伊護腕【ＨＳ】 |
 | 3966 | Pistis GS Arms | 普伊斯伊護腕【ＧＳ】 |

@@ -4,43 +4,43 @@
 
 | index | 原文 | 譯文 |
 |---|---|---|
-| 12001 | Kaila D Coil | 克阿爾阿腰甲 |
-| 12002 | Fonse D Coil | 芙歐恩艾腰甲 |
+| 12001 | Kaila D Coil | 可拉腰甲 |
+| 12002 | Fonse D Coil | 佛賽腰甲 |
 | 12003 | Hypnoc ルータD Waist | 眠鳥腰甲 |
-| 12004 | Hypnolia D Waist | 赫歐爾伊腰甲 |
-| 12005 | Es Quera D Waist | 艾斯烏爾腰甲 |
-| 12006 | Ecole D Waist | 艾克歐爾腰甲 |
+| 12004 | Hypnolia D Waist | 諾莉腰甲 |
+| 12005 | Es Quera D Waist | 奎拉腰甲 |
+| 12006 | Ecole D Waist | 古勒腰甲 |
 | 12007 | Guns D Waist | 格烏恩腰甲 |
 | 12008 | Agria D Waist | 阿格伊斯腰甲 |
 | 12009 | Fauve D Waist | 芙阿芙艾腰甲 |
 | 12010 | ティーアD Waist | 蒂亞腰甲 |
-| 12011 | Muse D Waist | 姆烏斯艾腰甲 |
+| 12011 | Muse D Waist | 姆賽腰甲 |
 | 12012 | Dicto D Waist | 德伊克歐腰甲 |
 | 12013 | Kruss D Waist | 克烏斯腰甲 |
-| 12014 | Starina D Waist | 斯阿爾伊腰甲 |
-| 12015 | Loose D Waist | 爾歐斯艾腰甲 |
-| 12016 | Mirado D Waist | 姆伊爾阿腰甲 |
-| 12017 | Deyuru D Faulds | 德艾伊烏腰甲 |
+| 12014 | Starina D Waist | 斯塔里娜腰甲 |
+| 12015 | Loose D Waist | 蘿賽腰甲 |
+| 12016 | Mirado D Waist | 蜜拉多腰甲 |
+| 12017 | Deyuru D Faulds | 德尤露腰甲 |
 | 12018 | Robust Dアンダ | 剛健腰甲 |
-| 12019 | Falco D Faulds | 芙阿爾歐腰甲 |
+| 12019 | Falco D Faulds | 法古腰甲 |
 | 12020 | Howx D Faulds | 赫歐沃腰甲 |
 | 12021 | Pirata D Faulds | 普伊爾阿腰甲 |
-| 12022 | Zeroi D Faulds | 茲艾爾歐腰甲 |
-| 12023 | Rail D Coil | 爾阿爾腰甲 |
-| 12024 | Ridere D Coil | 爾伊德艾腰甲 |
+| 12022 | Zeroi D Faulds | 澤蘿腰甲 |
+| 12023 | Rail D Coil | 拉腰甲 |
+| 12024 | Ridere D Coil | 里德蕾腰甲 |
 | 12025 | Riot D Faulds | 爾伊特腰甲 |
-| 12026 | Rutare D Faulds | 爾烏特阿腰甲 |
-| 12027 | Rolling Flow Waist て・D | 爾歐爾伊腰甲 |
+| 12026 | Rutare D Faulds | 露塔蕾腰甲 |
+| 12027 | Rolling Flow Waist て・D | 蘿爾恩芙腰甲 |
 | 12028 | Rolling Sky Waist て・D | 滾天腰甲 |
 | 12029 | Cubie D Coil | 克烏布伊腰甲 |
-| 12030 | Kemor D Coil | 克艾姆歐腰甲 |
+| 12030 | Kemor D Coil | 凱莫腰甲 |
 | 12031 | Latria D Coil | 爾阿特伊腰甲 |
 | 12032 | Kontao D Coil | 克歐恩阿腰甲 |
-| 12033 | Ukon D Belt | 烏克歐恩腰帶 |
+| 12033 | Ukon D Belt | 古恩德腰帶 |
 | 12034 | ロットD Belt | 羅托腰帶 |
-| 12035 | Shoko D Waist | 夏歐克歐腰甲 |
-| 12036 | Nimbus D Waist | 恩伊姆烏腰甲 |
-| 12037 | Moonlight Obi・D | 姆歐恩伊帶 |
+| 12035 | Shoko D Waist | 修古腰甲 |
+| 12036 | Nimbus D Waist | 尼姆腰甲 |
+| 12037 | Moonlight Obi・D | 莫莉特帶 |
 | 12038 | Dawnbreak Obi・D | 德阿沃艾帶 |
 | 12039 | Toridcless Z Faulds | 照雷鳥腰甲【Ｚ】 |
 | 12040 | Toridcless ZF Faulds | 照雷鳥腰甲【ＺＦ】 |
@@ -58,20 +58,20 @@
 | 12052 | Doragyurosu ZF Coat | 冥雷龍腰衣【ＺＦ】 |
 | 12053 | Doragyurosu ZY Coat | 冥雷龍腰衣【ＺＹ】 |
 | 12054 | Doragyurosu ZX Coat | 冥雷龍腰衣【ＺＸ】 |
-| 12055 | Alfi Faulds | 阿爾菲腰甲 |
-| 12056 | Alfi F Faulds | 阿爾菲腰甲【Ｆ】 |
-| 12057 | Alfi FZ Faulds | 阿爾菲腰甲【ＦＺ】 |
-| 12058 | Alfi HS Faulds | 阿爾菲腰甲【ＨＳ】 |
-| 12059 | Alfi GS Faulds | 阿爾菲腰甲【ＧＳ】 |
-| 12060 | Alfi GP Faulds | 阿爾菲腰甲【ＧＰ】 |
-| 12061 | Alfi ZP Faulds | 阿爾菲腰甲【ＺＰ】 |
-| 12062 | Alfi Coat | 阿爾菲腰衣 |
-| 12063 | Alfi F Coat | 阿爾菲腰衣【Ｆ】 |
-| 12064 | Alfi FZ Coat | 阿爾菲腰衣【ＦＺ】 |
-| 12065 | Alfi HS Coat | 阿爾菲腰衣【ＨＳ】 |
-| 12066 | Alfi GS Coat | 阿爾菲腰衣【ＧＳ】 |
-| 12067 | Alfi GP Coat | 阿爾菲腰衣【ＧＰ】 |
-| 12068 | Alfi ZP Coat | 阿爾菲腰衣【ＺＰ】 |
+| 12055 | Alfi Faulds | 亞露菲腰甲 |
+| 12056 | Alfi F Faulds | 亞露菲腰甲【Ｆ】 |
+| 12057 | Alfi FZ Faulds | 亞露菲腰甲【ＦＺ】 |
+| 12058 | Alfi HS Faulds | 亞露菲腰甲【ＨＳ】 |
+| 12059 | Alfi GS Faulds | 亞露菲腰甲【ＧＳ】 |
+| 12060 | Alfi GP Faulds | 亞露菲腰甲【ＧＰ】 |
+| 12061 | Alfi ZP Faulds | 亞露菲腰甲【ＺＰ】 |
+| 12062 | Alfi Coat | 亞露菲腰衣 |
+| 12063 | Alfi F Coat | 亞露菲腰衣【Ｆ】 |
+| 12064 | Alfi FZ Coat | 亞露菲腰衣【ＦＺ】 |
+| 12065 | Alfi HS Coat | 亞露菲腰衣【ＨＳ】 |
+| 12066 | Alfi GS Coat | 亞露菲腰衣【ＧＳ】 |
+| 12067 | Alfi GP Coat | 亞露菲腰衣【ＧＰ】 |
+| 12068 | Alfi ZP Coat | 亞露菲腰衣【ＺＰ】 |
 | 12069 | Kaifa Coil | 凱法腰甲 |
 | 12070 | Kaifa F Coil | 凱法腰甲【Ｆ】 |
 | 12071 | Kaifa FZ Coil | 凱法腰甲【ＦＺ】 |
@@ -100,26 +100,26 @@
 | 12094 | Straza GS Coat | 斯特拉札腰衣【ＧＳ】 |
 | 12095 | Straza GP Coat | 斯特拉札腰衣【ＧＰ】 |
 | 12096 | Straza ZP Coat | 斯特拉札腰衣【ＺＰ】 |
-| 12097 | Furante Z Coil | 芙烏爾阿腰甲【Ｚ】 |
-| 12098 | Furante ZF Coil | 芙烏爾阿腰甲【ＺＦ】 |
-| 12099 | Furante ZY Coil | 芙烏爾阿腰甲【ＺＹ】 |
-| 12100 | Furante ZX Coil | 芙烏爾阿腰甲【ＺＸ】 |
-| 12101 | Furante Z Coat | 芙烏爾阿腰衣【Ｚ】 |
-| 12102 | Furante ZF Coat | 芙烏爾阿腰衣【ＺＦ】 |
-| 12103 | Furante ZY Coat | 芙烏爾阿腰衣【ＺＹ】 |
-| 12104 | Furante ZX Coat | 芙烏爾阿腰衣【ＺＸ】 |
-| 12105 | Cariva G Coil | 克阿爾伊腰甲【Ｇ】 |
-| 12106 | Cariva GF Coil | 克阿爾伊腰甲【ＧＦ】 |
-| 12107 | Cariva GX Coil | 克阿爾伊腰甲【ＧＸ】 |
-| 12108 | Cariva G Coat | 克阿爾伊腰衣【Ｇ】 |
-| 12109 | Cariva GF Coat | 克阿爾伊腰衣【ＧＦ】 |
-| 12110 | Cariva GX Coat | 克阿爾伊腰衣【ＧＸ】 |
-| 12111 | Bonne G Coil | 布歐恩艾腰甲【Ｇ】 |
-| 12112 | Bonne GF Coil | 布歐恩艾腰甲【ＧＦ】 |
-| 12113 | Bonne GX Coil | 布歐恩艾腰甲【ＧＸ】 |
-| 12114 | Bonne G Coat | 布歐恩艾腰衣【Ｇ】 |
-| 12115 | Bonne GF Coat | 布歐恩艾腰衣【ＧＦ】 |
-| 12116 | Bonne GX Coat | 布歐恩艾腰衣【ＧＸ】 |
+| 12097 | Furante Z Coil | 芙拉特腰甲【Ｚ】 |
+| 12098 | Furante ZF Coil | 芙拉特腰甲【ＺＦ】 |
+| 12099 | Furante ZY Coil | 芙拉特腰甲【ＺＹ】 |
+| 12100 | Furante ZX Coil | 芙拉特腰甲【ＺＸ】 |
+| 12101 | Furante Z Coat | 芙拉特腰衣【Ｚ】 |
+| 12102 | Furante ZF Coat | 芙拉特腰衣【ＺＦ】 |
+| 12103 | Furante ZY Coat | 芙拉特腰衣【ＺＹ】 |
+| 12104 | Furante ZX Coat | 芙拉特腰衣【ＺＸ】 |
+| 12105 | Cariva G Coil | 可里瓦腰甲【Ｇ】 |
+| 12106 | Cariva GF Coil | 可里瓦腰甲【ＧＦ】 |
+| 12107 | Cariva GX Coil | 可里瓦腰甲【ＧＸ】 |
+| 12108 | Cariva G Coat | 可里瓦腰衣【Ｇ】 |
+| 12109 | Cariva GF Coat | 可里瓦腰衣【ＧＦ】 |
+| 12110 | Cariva GX Coat | 可里瓦腰衣【ＧＸ】 |
+| 12111 | Bonne G Coil | 波恩腰甲【Ｇ】 |
+| 12112 | Bonne GF Coil | 波恩腰甲【ＧＦ】 |
+| 12113 | Bonne GX Coil | 波恩腰甲【ＧＸ】 |
+| 12114 | Bonne G Coat | 波恩腰衣【Ｇ】 |
+| 12115 | Bonne GF Coat | 波恩腰衣【ＧＦ】 |
+| 12116 | Bonne GX Coat | 波恩腰衣【ＧＸ】 |
 | 12117 | VM Equipment ZP | ＶＭ裝備腰甲【ＺＰ】 |
 | 12118 | VM Equipment+ ZP | ＶＭ裝備＋腰甲【ＺＰ】 |
 | 12119 | Twelve Paladins' Armor・Waist | 十二聖騎鎧腰甲 |
@@ -186,38 +186,38 @@
 | 12180 | Granu ZP Coat | 格拉努腰衣【ＺＰ】 |
 | 12181 | Chiyo Waistband ZP | 千代腰帶【ＺＰ】 |
 | 12182 | Chiyo Colour Belt ZP | 千代腰帶【ＺＰ】 |
-| 12183 | Nekodan ZP Waist | 恩艾克歐腰甲【ＺＰ】 |
+| 12183 | Nekodan ZP Waist | 奈古達腰甲【ＺＰ】 |
 | 12184 | Gudan ZP Coil | 古丹腰甲【ＺＰ】 |
-| 12185 | Toridcless ZD Faulds | 特歐爾伊腰甲 |
-| 12186 | Toridcless ZD Coat | 特歐爾伊腰衣 |
-| 12187 | Doragyurosu ZD Faulds | 德歐爾阿腰甲 |
-| 12188 | Doragyurosu ZD Coat | 德歐爾阿腰衣 |
-| 12189 | Alfi D Faulds | 阿爾伊斯腰甲 |
+| 12185 | Toridcless ZD Faulds | 托里克雷腰甲 |
+| 12186 | Toridcless ZD Coat | 托里克雷腰衣 |
+| 12187 | Doragyurosu ZD Faulds | 多拉尤蘿腰甲 |
+| 12188 | Doragyurosu ZD Coat | 多拉尤蘿腰衣 |
+| 12189 | Alfi D Faulds | 菲腰甲 |
 | 12190 | Kaifa D Coil | 克阿芙阿腰甲 |
 | 12191 | Straza D Faulds | 斯阿茲阿腰甲 |
-| 12192 | Renka Obi C | 爾艾恩阿帶 |
-| 12193 | VM Equipment D | 芙艾斯烏腰甲 |
+| 12192 | Renka Obi C | 蕾可帶 |
+| 12193 | VM Equipment D | 梅奎梅腰甲 |
 | 12194 | Twelve Paladins' Armor D・Waist | 十二聖騎鎧腰甲 |
 | 12195 | Holy Maiden Armor D・Waist | 聖女鎧腰甲 |
 | 12196 | Dragon Slayer Armor D・Waist | 屠龍腰甲 |
 | 12197 | Rebellion Armour D・Waist | 叛逆鎧腰甲 |
 | 12198 | Dinato D Faulds | 德伊恩阿腰甲 |
-| 12199 | Duque D Faulds | 德烏斯烏腰甲 |
+| 12199 | Duque D Faulds | 杜奎腰甲 |
 | 12200 | Granu D Faulds | 格阿恩烏腰甲 |
 | 12201 | Chiyo Waistband D | 奇伊伊歐腰帶 |
-| 12202 | Rubellite D Coil | 爾烏布艾腰甲 |
-| 12203 | ラズライトD Coil | 拉茲拉伊托腰甲 |
-| 12204 | Zircon D Coil | 茲伊爾歐腰甲 |
+| 12202 | Rubellite D Coil | 露貝爾特腰甲 |
+| 12203 | ラズライトD Coil | 拉茲拉伊腰甲 |
+| 12204 | Zircon D Coil | 茲古恩德腰甲 |
 | 12205 | Spinel D Coil | 斯伊恩艾腰甲 |
 | 12206 | Jade D Coil | 傑阿德艾腰甲 |
 | 12207 | Agate D Coil | 阿格阿特腰甲 |
-| 12208 | Pyrope D Coil | 普歐普艾腰甲 |
+| 12208 | Pyrope D Coil | 蘿佩腰甲 |
 | 12209 | アイオラD Coil | 阿伊歐拉腰甲 |
-| 12210 | Rutile D Coil | 爾烏特伊腰甲 |
+| 12210 | Rutile D Coil | 露蒂勒腰甲 |
 | 12211 | Blood D Coil | 血腰甲 |
 | 12212 | Citrine D Coat | 克伊特伊腰衣 |
-| 12213 | Peridot D Coat | 普艾爾伊腰衣 |
-| 12214 | Turquoise D Coat | 特烏爾烏腰衣 |
+| 12213 | Peridot D Coat | 佩里多腰衣 |
+| 12214 | Turquoise D Coat | 圖奎賽腰衣 |
 | 12215 | Mafumofu Coat PD Red | 莫芙莫芙腰衣【ＰＤ】・赤 |
 | 12216 | Mafumofu Coat PD Yellow | 莫芙莫芙腰衣【ＰＤ】・黄 |
 | 12217 | Mafumofu Coat PD Purple | 莫芙莫芙腰衣【ＰＤ】・紫 |
@@ -253,11 +253,11 @@
 | 12247 | Kushala アドミ PD Green | 鋼龍腰甲【ＰＤ】・緑 |
 | 12248 | 忍の Obi・陽D | 忍の陽帶 |
 | 12249 | 忍の Obi・陰D | 忍の陰帶 |
-| 12250 | Bonne D Coil | 布歐恩艾腰甲 |
-| 12251 | Kalais D Coat | 克阿爾阿腰衣 |
-| 12252 | Lucchese D Coat | 爾烏克艾腰衣 |
+| 12250 | Bonne D Coil | 波恩腰甲 |
+| 12251 | Kalais D Coat | 可拉腰衣 |
+| 12252 | Lucchese D Coat | 露切賽腰衣 |
 | 12253 | Quoiz D Coat | 斯烏茲腰衣 |
-| 12254 | Nekodan D Waist | 恩艾克歐腰甲 |
+| 12254 | Nekodan D Waist | 奈古達腰甲 |
 | 12255 | Gudan D Coil | 格烏德阿腰甲 |
 | 12256 | Nerihi Obi Z | 練緋帶【Ｚ】 |
 | 12257 | Nerihi Obi ZF | 練緋帶【ＺＦ】 |
@@ -303,14 +303,14 @@
 | 12297 | Gasura ZF Coat | 怒貌龍腰衣【ＺＦ】 |
 | 12298 | Gasura ZY Coat | 怒貌龍腰衣【ＺＹ】 |
 | 12299 | Gasura ZX Coat | 怒貌龍腰衣【ＺＸ】 |
-| 12300 | Seregios Faulds | 斯艾爾艾腰甲 |
-| 12301 | Seregios G Faulds | 斯艾爾艾腰甲【Ｇ】 |
-| 12302 | Seregios GF Faulds | 斯艾爾艾腰甲【ＧＦ】 |
-| 12303 | Seregios GX Faulds | 斯艾爾艾腰甲【ＧＸ】 |
-| 12304 | Seregios Coat | 斯艾爾艾腰衣 |
-| 12305 | Seregios G Coat | 斯艾爾艾腰衣【Ｇ】 |
-| 12306 | Seregios GF Coat | 斯艾爾艾腰衣【ＧＦ】 |
-| 12307 | Seregios GX Coat | 斯艾爾艾腰衣【ＧＸ】 |
+| 12300 | Seregios Faulds | 賽蕾吉腰甲 |
+| 12301 | Seregios G Faulds | 賽蕾吉腰甲【Ｇ】 |
+| 12302 | Seregios GF Faulds | 賽蕾吉腰甲【ＧＦ】 |
+| 12303 | Seregios GX Faulds | 賽蕾吉腰甲【ＧＸ】 |
+| 12304 | Seregios Coat | 賽蕾吉腰衣 |
+| 12305 | Seregios G Coat | 賽蕾吉腰衣【Ｇ】 |
+| 12306 | Seregios GF Coat | 賽蕾吉腰衣【ＧＦ】 |
+| 12307 | Seregios GX Coat | 賽蕾吉腰衣【ＧＸ】 |
 | 12308 | Utaei Waistband Z | 烏特阿腰帶【Ｚ】 |
 | 12309 | Utaei Waistband ZF | 烏特阿腰帶【ＺＦ】 |
 | 12310 | Utaei Waistband ZY | 烏特阿腰帶【ＺＹ】 |
@@ -367,20 +367,20 @@
 | 12361 | Gray GS Coat | 灰腰衣【ＧＳ】 |
 | 12362 | Gray GP Coat | 灰腰衣【ＧＰ】 |
 | 12363 | Gray ZP Coat | 灰腰衣【ＺＰ】 |
-| 12364 | Urpina Coil | 烏爾皮納腰甲 |
-| 12365 | Urpina F Coil | 烏爾皮納腰甲【Ｆ】 |
-| 12366 | Urpina FZ Coil | 烏爾皮納腰甲【ＦＺ】 |
-| 12367 | Urpina HS Coil | 烏爾皮納腰甲【ＨＳ】 |
-| 12368 | Urpina GS Coil | 烏爾皮納腰甲【ＧＳ】 |
-| 12369 | Urpina GP Coil | 烏爾皮納腰甲【ＧＰ】 |
-| 12370 | Urpina ZP Coil | 烏爾皮納腰甲【ＺＰ】 |
-| 12371 | Urpina Coat | 烏爾皮納腰衣 |
-| 12372 | Urpina F Coat | 烏爾皮納腰衣【Ｆ】 |
-| 12373 | Urpina FZ Coat | 烏爾皮納腰衣【ＦＺ】 |
-| 12374 | Urpina HS Coat | 烏爾皮納腰衣【ＨＳ】 |
-| 12375 | Urpina GS Coat | 烏爾皮納腰衣【ＧＳ】 |
-| 12376 | Urpina GP Coat | 烏爾皮納腰衣【ＧＰ】 |
-| 12377 | Urpina ZP Coat | 烏爾皮納腰衣【ＺＰ】 |
+| 12364 | Urpina Coil | 宇露皮娜腰甲 |
+| 12365 | Urpina F Coil | 宇露皮娜腰甲【Ｆ】 |
+| 12366 | Urpina FZ Coil | 宇露皮娜腰甲【ＦＺ】 |
+| 12367 | Urpina HS Coil | 宇露皮娜腰甲【ＨＳ】 |
+| 12368 | Urpina GS Coil | 宇露皮娜腰甲【ＧＳ】 |
+| 12369 | Urpina GP Coil | 宇露皮娜腰甲【ＧＰ】 |
+| 12370 | Urpina ZP Coil | 宇露皮娜腰甲【ＺＰ】 |
+| 12371 | Urpina Coat | 宇露皮娜腰衣 |
+| 12372 | Urpina F Coat | 宇露皮娜腰衣【Ｆ】 |
+| 12373 | Urpina FZ Coat | 宇露皮娜腰衣【ＦＺ】 |
+| 12374 | Urpina HS Coat | 宇露皮娜腰衣【ＨＳ】 |
+| 12375 | Urpina GS Coat | 宇露皮娜腰衣【ＧＳ】 |
+| 12376 | Urpina GP Coat | 宇露皮娜腰衣【ＧＰ】 |
+| 12377 | Urpina ZP Coat | 宇露皮娜腰衣【ＺＰ】 |
 | 12378 | Noel Coil | 諾埃爾腰甲 |
 | 12379 | Noel F Coil | 諾埃爾腰甲【Ｆ】 |
 | 12380 | Noel FZ Coil | 諾埃爾腰甲【ＦＺ】 |
@@ -463,17 +463,17 @@
 | 12457 | Wing D Faulds | 翼腰甲 |
 | 12458 | Gasura ZD Coil | 怒貌龍腰甲 |
 | 12459 | Gasura ZD Coat | 怒貌龍腰衣 |
-| 12460 | Seregios C Faulds | 斯艾爾艾腰甲 |
-| 12461 | Seregios C Coat | 斯艾爾艾腰衣 |
+| 12460 | Seregios C Faulds | 賽蕾吉腰甲 |
+| 12461 | Seregios C Coat | 賽蕾吉腰衣 |
 | 12462 | Pinbi D Coil | 普伊恩伊腰甲 |
 | 12463 | Pribu D Coil | 普伊布烏腰甲 |
-| 12464 | Nerihi Obi D | 恩艾爾伊帶 |
+| 12464 | Nerihi Obi D | 奈里希帶 |
 | 12465 | Gray D Coil | 格阿伊腰甲 |
-| 12466 | Urpina D Coil | 烏爾伊恩腰甲 |
-| 12467 | Noel D Coil | 恩歐爾腰甲 |
-| 12468 | Bune D Coil | 布烏恩艾腰甲 |
-| 12469 | Melas D Coat | 姆艾爾阿腰衣 |
-| 12470 | Byakko・Kensei D Coil | 白虎布阿克歐腰甲 |
+| 12466 | Urpina D Coil | 皮娜腰甲 |
+| 12467 | Noel D Coil | 諾腰甲 |
+| 12468 | Bune D Coil | 布奈腰甲 |
+| 12469 | Melas D Coat | 梅拉腰衣 |
+| 12470 | Byakko・Kensei D Coil | 白虎雅古凱賽腰甲 |
 | 12471 | Byakko・双龍D Coil | 白虎双龍腰甲 |
 | 12472 | Byakko・剣王D Coil | 白虎剣王腰甲 |
 | 12473 | Byakko・刀神D Coil | 白虎刀神腰甲 |

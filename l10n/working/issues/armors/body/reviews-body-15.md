@@ -386,16 +386,16 @@
 | 7380 | Blink HS Vest | 布伊恩背心【ＨＳ】 |
 | 7381 | Blink GS Vest | 布伊恩背心【ＧＳ】 |
 | 7382 | Blink GP Vest | 布伊恩背心【ＧＰ】 |
-| 7383 | Ukon GP Vest | 烏克歐恩背心【ＧＰ】 |
-| 7384 | Ukon GP Suit | 烏克歐恩套裝【ＧＰ】 |
+| 7383 | Ukon GP Vest | 古背心【ＧＰ】 |
+| 7384 | Ukon GP Suit | 古套裝【ＧＰ】 |
 | 7385 | ロットGP Vest | 羅托背心【ＧＰ】 |
 | 7386 | ロットGP Suit | 羅托套裝【ＧＰ】 |
-| 7387 | Arge HS Vest | 阿爾傑背心【ＨＳ】 |
-| 7388 | Arge GS Vest | 阿爾傑背心【ＧＳ】 |
-| 7389 | Arge GP Vest | 阿爾傑背心【ＧＰ】 |
-| 7390 | Arge HS Suit | 阿爾傑套裝【ＨＳ】 |
-| 7391 | Arge GS Suit | 阿爾傑套裝【ＧＳ】 |
-| 7392 | Arge GP Suit | 阿爾傑套裝【ＧＰ】 |
+| 7387 | Arge HS Vest | 亞潔背心【ＨＳ】 |
+| 7388 | Arge GS Vest | 亞潔背心【ＧＳ】 |
+| 7389 | Arge GP Vest | 亞潔背心【ＧＰ】 |
+| 7390 | Arge HS Suit | 亞潔套裝【ＨＳ】 |
+| 7391 | Arge GS Suit | 亞潔套裝【ＧＳ】 |
+| 7392 | Arge GP Suit | 亞潔套裝【ＧＰ】 |
 | 7393 | Camarera HS Vest | 可瑪蕾拉背心【ＨＳ】 |
 | 7394 | Camarera GS Vest | 可瑪蕾拉背心【ＧＳ】 |
 | 7395 | Camarera GP Vest | 可瑪蕾拉背心【ＧＰ】 |
@@ -435,30 +435,30 @@
 | 7429 | Breo G Jacket | 布艾夾克【Ｇ】 |
 | 7430 | Breo GF Jacket | 布艾夾克【ＧＦ】 |
 | 7431 | Breo GX Jacket | 布艾夾克【ＧＸ】 |
-| 7432 | Harokyu Vest | 赫阿爾歐背心 |
-| 7433 | Harokyu F Vest | 赫阿爾歐背心【Ｆ】 |
-| 7434 | Harokyu FY Vest | 赫阿爾歐背心 |
-| 7435 | Harokyu HS Vest | 赫阿爾歐背心【ＨＳ】 |
-| 7436 | Harokyu G Vest | 赫阿爾歐背心【Ｇ】 |
-| 7437 | Harokyu GF Vest | 赫阿爾歐背心【ＧＦ】 |
-| 7438 | Harokyu GX Vest | 赫阿爾歐背心【ＧＸ】 |
+| 7432 | Harokyu Vest | 哈蘿尤背心 |
+| 7433 | Harokyu F Vest | 哈蘿尤背心【Ｆ】 |
+| 7434 | Harokyu FY Vest | 哈蘿尤背心 |
+| 7435 | Harokyu HS Vest | 哈蘿尤背心【ＨＳ】 |
+| 7436 | Harokyu G Vest | 哈蘿尤背心【Ｇ】 |
+| 7437 | Harokyu GF Vest | 哈蘿尤背心【ＧＦ】 |
+| 7438 | Harokyu GX Vest | 哈蘿尤背心【ＧＸ】 |
 | 7439 | Brooke Vest | 溪背心 |
 | 7440 | Brooke F Vest | 溪背心【Ｆ】 |
-| 7441 | Brooke FY Vest | 布歐克艾背心 |
+| 7441 | Brooke FY Vest | 古蘿布背心 |
 | 7442 | Brooke HS Vest | 溪背心【ＨＳ】 |
 | 7443 | Brooke G Vest | 溪背心【Ｇ】 |
 | 7444 | Brooke GF Vest | 溪背心【ＧＦ】 |
 | 7445 | Brooke GX Vest | 溪背心【ＧＸ】 |
 | 7446 | Brooke Suit | 溪套裝 |
 | 7447 | Brooke F Suit | 溪套裝【Ｆ】 |
-| 7448 | Brooke FY Suit | 布歐克艾套裝 |
+| 7448 | Brooke FY Suit | 古蘿布套裝 |
 | 7449 | Brooke HS Suit | 溪套裝【ＨＳ】 |
 | 7450 | Brooke G Suit | 溪套裝【Ｇ】 |
 | 7451 | Brooke GF Suit | 溪套裝【ＧＦ】 |
 | 7452 | Brooke GX Suit | 溪套裝【ＧＸ】 |
 | 7453 | Pale Sakura 【 Haori 】 | 淡櫻羽織 |
 | 7454 | Pale Sakura F【 Haori 】 | 淡櫻羽織【Ｆ】 |
-| 7455 | Pale Sakura FY【 Haori 】 | 普阿爾艾羽織 |
+| 7455 | Pale Sakura FY【 Haori 】 | 拍勒薩克羽織 |
 | 7456 | Pale Sakura HS【 Haori 】 | 淡櫻羽織【ＨＳ】 |
 | 7457 | Pale Sakura G【 Haori 】 | 淡櫻羽織【Ｇ】 |
 | 7458 | Pale Sakura GF【 Haori 】 | 淡櫻羽織【ＧＦ】 |
@@ -486,22 +486,22 @@
 | 7480 | Kinioru GX Vest | 基尼奧魯背心【ＧＸ】 |
 | 7481 | Kaioru Mail | 凱奧魯鎧甲 |
 | 7482 | Kaioru F Mail | 凱奧魯鎧甲【Ｆ】 |
-| 7483 | Kaioru FY Mail | 克阿爾烏鎧甲 |
+| 7483 | Kaioru FY Mail | 可露鎧甲 |
 | 7484 | Kaioru HS Mail | 凱奧魯鎧甲【ＨＳ】 |
 | 7485 | Kaioru G Mail | 凱奧魯鎧甲【Ｇ】 |
 | 7486 | Kaioru GF Mail | 凱奧魯鎧甲【ＧＦ】 |
 | 7487 | Kaioru GX Mail | 凱奧魯鎧甲【ＧＸ】 |
 | 7488 | Kaioru Vest | 凱奧魯背心 |
 | 7489 | Kaioru F Vest | 凱奧魯背心【Ｆ】 |
-| 7490 | Kaioru FY Vest | 克阿爾烏背心 |
+| 7490 | Kaioru FY Vest | 可露背心 |
 | 7491 | Kaioru HS Vest | 凱奧魯背心【ＨＳ】 |
 | 7492 | Kaioru G Vest | 凱奧魯背心【Ｇ】 |
 | 7493 | Kaioru GF Vest | 凱奧魯背心【ＧＦ】 |
 | 7494 | Kaioru GX Vest | 凱奧魯背心【ＧＸ】 |
-| 7495 | Yurisu Mail | 伊烏爾伊鎧甲 |
-| 7496 | Yurisu F Mail | 伊烏爾伊鎧甲【Ｆ】 |
-| 7497 | Yurisu FY Mail | 伊烏爾伊鎧甲 |
-| 7498 | Yurisu HS Mail | 伊烏爾伊鎧甲【ＨＳ】 |
-| 7499 | Yurisu G Mail | 伊烏爾伊鎧甲【Ｇ】 |
-| 7500 | Yurisu GF Mail | 伊烏爾伊鎧甲【ＧＦ】 |
+| 7495 | Yurisu Mail | 尤里斯鎧甲 |
+| 7496 | Yurisu F Mail | 尤里斯鎧甲【Ｆ】 |
+| 7497 | Yurisu FY Mail | 尤里斯鎧甲 |
+| 7498 | Yurisu HS Mail | 尤里斯鎧甲【ＨＳ】 |
+| 7499 | Yurisu G Mail | 尤里斯鎧甲【Ｇ】 |
+| 7500 | Yurisu GF Mail | 尤里斯鎧甲【ＧＦ】 |
 

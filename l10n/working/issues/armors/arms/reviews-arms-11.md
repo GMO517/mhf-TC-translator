@@ -29,16 +29,16 @@
 | 5023 | ノヴィーHC Guard | 諾芙臂甲【ＨＣ】 |
 | 5024 | ノヴィーHS Guard | 諾芙臂甲【ＨＳ】 |
 | 5025 | ノヴィーGS Guard | 諾芙臂甲【ＧＳ】 |
-| 5026 | Flora Arms | 芙歐爾阿護腕 |
+| 5026 | Flora Arms | 芙拉護腕 |
 | 5027 | Flower ーム | 穆護腕 |
-| 5028 | Lea Arms | 爾艾護腕 |
+| 5028 | Lea Arms | 勒護腕 |
 | 5029 | Keith Arms | 克艾斯護腕 |
-| 5030 | Guinelle Arms | 格烏恩艾護腕 |
+| 5030 | Guinelle Arms | 古奈爾護腕 |
 | 5031 | Circa Arms | 克伊爾阿護腕 |
-| 5032 | Edward Arms | 艾德阿爾護腕 |
+| 5032 | Edward Arms | 瓦護腕 |
 | 5033 | Taizo Arms | 特阿茲歐護腕 |
 | 5034 | Tiala Arms | 特伊爾阿護腕 |
-| 5035 | Uwel Arms | 烏沃艾爾護腕 |
+| 5035 | Uwel Arms | 尤韋護腕 |
 | 5036 | Natasha Guard | 恩阿特阿臂甲 |
 | 5037 | ダミー | (dummy) |
 | 5038 | アミロ Arms・Blue | 阿米羅護腕・青 |
@@ -107,12 +107,12 @@
 | 5101 | Azul G Guard | 青臂甲【Ｇ】 |
 | 5102 | Azul GF Guard | 青臂甲【ＧＦ】 |
 | 5103 | Azul GX Guard | 青臂甲【ＧＸ】 |
-| 5104 | Entora G Arms | 艾恩歐爾護腕【Ｇ】 |
-| 5105 | Entora GF Arms | 艾恩歐爾護腕【ＧＦ】 |
-| 5106 | Entora GX Arms | 艾恩歐爾護腕【ＧＸ】 |
-| 5107 | Entora G Guard | 艾恩歐爾臂甲【Ｇ】 |
-| 5108 | Entora GF Guard | 艾恩歐爾臂甲【ＧＦ】 |
-| 5109 | Entora GX Guard | 艾恩歐爾臂甲【ＧＸ】 |
+| 5104 | Entora G Arms | 托拉護腕【Ｇ】 |
+| 5105 | Entora GF Arms | 托拉護腕【ＧＦ】 |
+| 5106 | Entora GX Arms | 托拉護腕【ＧＸ】 |
+| 5107 | Entora G Guard | 托拉臂甲【Ｇ】 |
+| 5108 | Entora GF Guard | 托拉臂甲【ＧＦ】 |
+| 5109 | Entora GX Guard | 托拉臂甲【ＧＸ】 |
 | 5110 | Holy King Arms | 聖王護腕 |
 | 5111 | Holy King F Arms | 聖王護腕【Ｆ】 |
 | 5112 | Holy King FZ Arms | 聖王護腕【ＦＺ】 |
@@ -173,18 +173,18 @@
 | 5167 | Knight HS Cuffs | 騎士護腕【ＨＳ】 |
 | 5168 | Knight GS Cuffs | 騎士護腕【ＧＳ】 |
 | 5169 | Knight GP Cuffs | 騎士護腕【ＧＰ】 |
-| 5170 | Shell グローヴ | 夏艾爾護腕 |
-| 5171 | Shell Fグローヴ | 夏艾爾護腕 |
-| 5172 | Shell FZグローヴ | 夏艾爾護腕 |
-| 5173 | Shell HSグローヴ | 夏艾爾護腕 |
-| 5174 | Shell GSグローヴ | 夏艾爾護腕 |
-| 5175 | Shell GPグローヴ | 夏艾爾護腕 |
-| 5176 | Vector グローヴ | 芙艾克歐護腕 |
-| 5177 | Vector Fグローヴ | 芙艾克歐護腕 |
-| 5178 | Vector FZグローヴ | 芙艾克歐護腕 |
-| 5179 | Vector HSグローヴ | 芙艾克歐護腕 |
-| 5180 | Vector GSグローヴ | 芙艾克歐護腕 |
-| 5181 | Vector GPグローヴ | 芙艾克歐護腕 |
+| 5170 | Shell グローヴ | 修爾護腕 |
+| 5171 | Shell Fグローヴ | 修爾護腕 |
+| 5172 | Shell FZグローヴ | 修爾護腕 |
+| 5173 | Shell HSグローヴ | 修爾護腕 |
+| 5174 | Shell GSグローヴ | 修爾護腕 |
+| 5175 | Shell GPグローヴ | 修爾護腕 |
+| 5176 | Vector グローヴ | 薇托護腕 |
+| 5177 | Vector Fグローヴ | 薇托護腕 |
+| 5178 | Vector FZグローヴ | 薇托護腕 |
+| 5179 | Vector HSグローヴ | 薇托護腕 |
+| 5180 | Vector GSグローヴ | 薇托護腕 |
+| 5181 | Vector GPグローヴ | 薇托護腕 |
 | 5182 | サーブル Arms | 薩布魯護腕 |
 | 5183 | サーブルF Arms | 薩布魯護腕【Ｆ】 |
 | 5184 | サーブルFZ Arms | 薩布魯護腕【ＦＺ】 |
@@ -248,9 +248,9 @@
 | 5242 | Kruss HS Arms | 克烏斯護腕【ＨＳ】 |
 | 5243 | Kruss GS Arms | 克烏斯護腕【ＧＳ】 |
 | 5244 | Kruss GP Arms | 克烏斯護腕【ＧＰ】 |
-| 5245 | Quote HS Guard | 斯烏特艾臂甲【ＨＳ】 |
-| 5246 | Quote GS Guard | 斯烏特艾臂甲【ＧＳ】 |
-| 5247 | Quote GP Guard | 斯烏特艾臂甲【ＧＰ】 |
+| 5245 | Quote HS Guard | 奎特臂甲【ＨＳ】 |
+| 5246 | Quote GS Guard | 奎特臂甲【ＧＳ】 |
+| 5247 | Quote GP Guard | 奎特臂甲【ＧＰ】 |
 | 5248 | Starina HS Arms | 斯塔莉娜護腕【ＨＳ】 |
 | 5249 | Starina GS Arms | 斯塔莉娜護腕【ＧＳ】 |
 | 5250 | Starina GP Arms | 斯塔莉娜護腕【ＧＰ】 |

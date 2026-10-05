@@ -116,18 +116,18 @@
 | 6110 | Flower HS Vest | 芙歐沃艾背心【ＨＳ】 |
 | 6111 | Flower GS Vest | 芙歐沃艾背心【ＧＳ】 |
 | 6112 | Flower GP Vest | 芙歐沃艾背心【ＧＰ】 |
-| 6113 | Tune HS Suit | 特烏恩艾套裝【ＨＳ】 |
-| 6114 | Tune GS Suit | 特烏恩艾套裝【ＧＳ】 |
-| 6115 | Tune GP Suit | 特烏恩艾套裝【ＧＰ】 |
+| 6113 | Tune HS Suit | 圖奈套裝【ＨＳ】 |
+| 6114 | Tune GS Suit | 圖奈套裝【ＧＳ】 |
+| 6115 | Tune GP Suit | 圖奈套裝【ＧＰ】 |
 | 6116 | Schnite HS Vest | 施伊特艾背心【ＨＳ】 |
 | 6117 | Schnite GS Vest | 施伊特艾背心【ＧＳ】 |
 | 6118 | Schnite GP Vest | 施伊特艾背心【ＧＰ】 |
 | 6119 | Dicto HS Suit | 德伊克歐套裝【ＨＳ】 |
 | 6120 | Dicto GS Suit | 德伊克歐套裝【ＧＳ】 |
 | 6121 | Dicto GP Suit | 德伊克歐套裝【ＧＰ】 |
-| 6122 | Diletto HS Vest | 德伊爾艾背心【ＨＳ】 |
-| 6123 | Diletto GS Vest | 德伊爾艾背心【ＧＳ】 |
-| 6124 | Diletto GP Vest | 德伊爾艾背心【ＧＰ】 |
+| 6122 | Diletto HS Vest | 迪勒特背心【ＨＳ】 |
+| 6123 | Diletto GS Vest | 迪勒特背心【ＧＳ】 |
+| 6124 | Diletto GP Vest | 迪勒特背心【ＧＰ】 |
 | 6125 | Cubie HS Mail | 方塊鎧甲【ＨＳ】 |
 | 6126 | Cubie GS Mail | 方塊鎧甲【ＧＳ】 |
 | 6127 | Cubie GP Mail | 方塊鎧甲【ＧＰ】 |
@@ -222,16 +222,16 @@
 | 6216 | Franky G Vest | 芙阿恩背心【Ｇ】 |
 | 6217 | Franky GF Vest | 芙阿恩背心【ＧＦ】 |
 | 6218 | Franky GX Vest | 芙阿恩背心【ＧＸ】 |
-| 6219 | Diore Mail | 德伊爾艾鎧甲 |
-| 6220 | Diore F Mail | 德伊爾艾鎧甲【Ｆ】 |
-| 6221 | Diore FX Mail | 德伊爾艾鎧甲【ＦＸ】 |
-| 6222 | Diore G Mail | 德伊爾艾鎧甲【Ｇ】 |
-| 6223 | Diore GF Mail | 德伊爾艾鎧甲【ＧＦ】 |
-| 6224 | Diore Vest | 德伊爾艾背心 |
-| 6225 | Diore F Vest | 德伊爾艾背心【Ｆ】 |
-| 6226 | Diore FX Vest | 德伊爾艾背心【ＦＸ】 |
-| 6227 | Diore G Vest | 德伊爾艾背心【Ｇ】 |
-| 6228 | Diore GF Vest | 德伊爾艾背心【ＧＦ】 |
+| 6219 | Diore Mail | 迪歐鎧甲 |
+| 6220 | Diore F Mail | 迪歐鎧甲【Ｆ】 |
+| 6221 | Diore FX Mail | 迪歐鎧甲【ＦＸ】 |
+| 6222 | Diore G Mail | 迪歐鎧甲【Ｇ】 |
+| 6223 | Diore GF Mail | 迪歐鎧甲【ＧＦ】 |
+| 6224 | Diore Vest | 迪歐背心 |
+| 6225 | Diore F Vest | 迪歐背心【Ｆ】 |
+| 6226 | Diore FX Vest | 迪歐背心【ＦＸ】 |
+| 6227 | Diore G Vest | 迪歐背心【Ｇ】 |
+| 6228 | Diore GF Vest | 迪歐背心【ＧＦ】 |
 | 6229 | Kagura G【胴当て】 | 神樂胴當【Ｇ】 |
 | 6230 | Kagura GF【胴当て】 | 神樂胴當【ＧＦ】 |
 | 6231 | Kagura GX【胴当て】 | 神樂胴當【ＧＸ】 |
@@ -256,8 +256,8 @@
 | 6250 | Vulcan G Skin | 火神皮【Ｇ】 |
 | 6251 | Vulcan GF Skin | 火神皮【ＧＦ】 |
 | 6252 | Vulcan GX Skin | 火神皮【ＧＸ】 |
-| 6253 | Algol GF Mail | 阿爾歐爾鎧甲【ＧＦ】 |
-| 6254 | Algol GF Vest | 阿爾歐爾背心【ＧＦ】 |
+| 6253 | Algol GF Mail | 戈鎧甲【ＧＦ】 |
+| 6254 | Algol GF Vest | 戈背心【ＧＦ】 |
 | 6255 | Odiva GF Mail | 奧蒂瓦鎧甲【ＧＦ】 |
 | 6256 | Odiva GF Vest | 奧蒂瓦背心【ＧＦ】 |
 | 6257 | Byakko・Kensei GX Mail | 白虎劍聖鎧甲【ＧＸ】 |

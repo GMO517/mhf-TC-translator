@@ -43,16 +43,16 @@
 | 3537 | 騎士王の胴鎧: Bow HC White | 騎士王の胴鎧:鎧甲【ＨＣ】・白 |
 | 3538 | 騎士王の胴鎧: Bow HS White | 騎士王の胴鎧:鎧甲【ＨＳ】・白 |
 | 3539 | 騎士王の胴鎧: Bow GS White | 騎士王の胴鎧:鎧甲【ＧＳ】・白 |
-| 3540 | ヴェルフFZ Mail | 維爾夫鎧甲【ＦＺ】 |
-| 3541 | ヴェルフHC Mail | 維爾夫鎧甲【ＨＣ】 |
-| 3542 | ヴェルフFZ Vest | 維爾夫背心【ＦＺ】 |
-| 3543 | ヴェルフHC Vest | 維爾夫背心【ＨＣ】 |
+| 3540 | ヴェルフFZ Mail | 薇露芙鎧甲【ＦＺ】 |
+| 3541 | ヴェルフHC Mail | 薇露芙鎧甲【ＨＣ】 |
+| 3542 | ヴェルフFZ Vest | 薇露芙背心【ＦＺ】 |
+| 3543 | ヴェルフHC Vest | 薇露芙背心【ＨＣ】 |
 | 3544 | テリオグFZ Mail | 特里歐古鎧甲【ＦＺ】 |
 | 3545 | テリオグHC Mail | 特里歐古鎧甲【ＨＣ】 |
 | 3546 | テリオグFZ Vest | 特里歐古背心【ＦＺ】 |
 | 3547 | テリオグHC Vest | 特里歐古背心【ＨＣ】 |
-| 3548 | Beil FZ Brigantes | 布艾爾伊鎧甲【ＦＺ】 |
-| 3549 | Beil HC Brigantes | 布艾爾伊鎧甲【ＨＣ】 |
+| 3548 | Beil FZ Brigantes | 貝布加特鎧甲【ＦＺ】 |
+| 3549 | Beil HC Brigantes | 貝布加特鎧甲【ＨＣ】 |
 | 3550 | ファミ通TシャツFZ | 芙米鎧甲【ＦＺ】 |
 | 3551 | ファミ通TシャツHC | 芙米鎧甲【ＨＣ】 |
 | 3552 | Pietra GX Mail | 普伊特阿鎧甲【ＧＸ】 |
@@ -123,12 +123,12 @@
 | 3617 | Paria G Vest | 呑龍背心【Ｇ】 |
 | 3618 | Paria GF Vest | 呑龍背心【ＧＦ】 |
 | 3619 | Paria GX Vest | 呑龍背心【ＧＸ】 |
-| 3620 | Torpedo G Mail | 特歐爾艾鎧甲【Ｇ】 |
-| 3621 | Torpedo GF Mail | 特歐爾艾鎧甲【ＧＦ】 |
-| 3622 | Torpedo GX Mail | 特歐爾艾鎧甲【ＧＸ】 |
-| 3623 | Torpedo G Vest | 特歐爾艾背心【Ｇ】 |
-| 3624 | Torpedo GF Vest | 特歐爾艾背心【ＧＦ】 |
-| 3625 | Torpedo GX Vest | 特歐爾艾背心【ＧＸ】 |
+| 3620 | Torpedo G Mail | 托佩多鎧甲【Ｇ】 |
+| 3621 | Torpedo GF Mail | 托佩多鎧甲【ＧＦ】 |
+| 3622 | Torpedo GX Mail | 托佩多鎧甲【ＧＸ】 |
+| 3623 | Torpedo G Vest | 托佩多背心【Ｇ】 |
+| 3624 | Torpedo GF Vest | 托佩多背心【ＧＦ】 |
+| 3625 | Torpedo GX Vest | 托佩多背心【ＧＸ】 |
 | 3626 | Lavasioth G Mail | 熔岩龍鎧甲【Ｇ】 |
 | 3627 | Lavasioth GF Mail | 熔岩龍鎧甲【ＧＦ】 |
 | 3628 | Lavasioth GX Mail | 熔岩龍鎧甲【ＧＸ】 |
@@ -289,10 +289,10 @@
 | 3783 | 日光G【胴当て】 | 日光胴當【Ｇ】 |
 | 3784 | Wadatsumi G [Chestplate 】 | 綿津見胸甲【Ｇ】 |
 | 3785 | Okami G [Chestplate 】 | 狼胸甲【Ｇ】 |
-| 3786 | Lils G Mail | 爾伊爾鎧甲【Ｇ】 |
-| 3787 | Lils G Vest | 爾伊爾背心【Ｇ】 |
-| 3788 | Algol G Mail | 阿爾歐爾鎧甲【Ｇ】 |
-| 3789 | Algol G Vest | 阿爾歐爾背心【Ｇ】 |
+| 3786 | Lils G Mail | 莉鎧甲【Ｇ】 |
+| 3787 | Lils G Vest | 莉背心【Ｇ】 |
+| 3788 | Algol G Mail | 戈鎧甲【Ｇ】 |
+| 3789 | Algol G Vest | 戈背心【Ｇ】 |
 | 3790 | エミットG Mail | 艾米托鎧甲【Ｇ】 |
 | 3791 | エミットG Vest | 艾米托背心【Ｇ】 |
 | 3792 | Diboa G Mail | 迪博阿鎧甲【Ｇ】 |
@@ -303,8 +303,8 @@
 | 3797 | ハーデス Mail | 哈德斯鎧甲 |
 | 3798 | レアー Vest | 雷阿背心 |
 | 3799 | ハーデス Vest | 哈德斯背心 |
-| 3800 | Roses GX Mail | 爾歐斯艾鎧甲【ＧＸ】 |
-| 3801 | Roses GX Vest | 爾歐斯艾背心【ＧＸ】 |
+| 3800 | Roses GX Mail | 蘿賽鎧甲【ＧＸ】 |
+| 3801 | Roses GX Vest | 蘿賽背心【ＧＸ】 |
 | 3802 | Strega G Mail | 魔女鎧甲【Ｇ】 |
 | 3803 | Strega GF Mail | 魔女鎧甲【ＧＦ】 |
 | 3804 | Strega GX Mail | 魔女鎧甲【ＧＸ】 |
@@ -468,12 +468,12 @@
 | 3962 | Gougarf HS Mail | 鬥獸鎧甲【ＨＳ】 |
 | 3963 | Gougarf FX Vest | 鬥獸背心【ＦＸ】 |
 | 3964 | Gougarf HS Vest | 鬥獸背心【ＨＳ】 |
-| 3965 | Regyukusu HC Mail | 爾艾格烏鎧甲【ＨＣ】 |
-| 3966 | Regyukusu HS Mail | 爾艾格烏鎧甲【ＨＳ】 |
-| 3967 | Regyukusu GS Mail | 爾艾格烏鎧甲【ＧＳ】 |
-| 3968 | Regyukusu HC Suit | 爾艾格烏套裝【ＨＣ】 |
-| 3969 | Regyukusu HS Suit | 爾艾格烏套裝【ＨＳ】 |
-| 3970 | Regyukusu GS Suit | 爾艾格烏套裝【ＧＳ】 |
+| 3965 | Regyukusu HC Mail | 蕾尤克斯鎧甲【ＨＣ】 |
+| 3966 | Regyukusu HS Mail | 蕾尤克斯鎧甲【ＨＳ】 |
+| 3967 | Regyukusu GS Mail | 蕾尤克斯鎧甲【ＧＳ】 |
+| 3968 | Regyukusu HC Suit | 蕾尤克斯套裝【ＨＣ】 |
+| 3969 | Regyukusu HS Suit | 蕾尤克斯套裝【ＨＳ】 |
+| 3970 | Regyukusu GS Suit | 蕾尤克斯套裝【ＧＳ】 |
 | 3971 | Pistis HC Vest | 普伊斯伊背心【ＨＣ】 |
 | 3972 | Pistis HS Vest | 普伊斯伊背心【ＨＳ】 |
 | 3973 | Pistis GS Vest | 普伊斯伊背心【ＧＳ】 |

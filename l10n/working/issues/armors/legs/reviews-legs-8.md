@@ -38,10 +38,10 @@
 | 3532 | Knight King Legs GN HC White | 騎士王腿甲【ＨＣ】・白 |
 | 3533 | Knight King Legs GN HS White | 騎士王腿甲【ＨＳ】・白 |
 | 3534 | Knight King Legs GN GS White | 騎士王腿甲【ＧＳ】・白 |
-| 3535 | ヴェルフFZ Greaves | 維爾夫護腿【ＦＺ】 |
-| 3536 | ヴェルフHC Greaves | 維爾夫護腿【ＨＣ】 |
-| 3537 | ヴェルフFZ Leggings | 維爾夫裹腿【ＦＺ】 |
-| 3538 | ヴェルフHC Leggings | 維爾夫裹腿【ＨＣ】 |
+| 3535 | ヴェルフFZ Greaves | 薇露芙護腿【ＦＺ】 |
+| 3536 | ヴェルフHC Greaves | 薇露芙護腿【ＨＣ】 |
+| 3537 | ヴェルフFZ Leggings | 薇露芙裹腿【ＦＺ】 |
+| 3538 | ヴェルフHC Leggings | 薇露芙裹腿【ＨＣ】 |
 | 3539 | テリオグFZ Greaves | 特里歐古護腿【ＦＺ】 |
 | 3540 | テリオグHC Greaves | 特里歐古護腿【ＨＣ】 |
 | 3541 | テリオグFZ Leggings | 特里歐古裹腿【ＦＺ】 |
@@ -116,12 +116,12 @@
 | 3610 | Paria G Leggings | 呑龍裹腿【Ｇ】 |
 | 3611 | Paria GF Leggings | 呑龍裹腿【ＧＦ】 |
 | 3612 | Paria GX Leggings | 呑龍裹腿【ＧＸ】 |
-| 3613 | Torpedo G Greaves | 特歐爾艾護腿【Ｇ】 |
-| 3614 | Torpedo GF Greaves | 特歐爾艾護腿【ＧＦ】 |
-| 3615 | Torpedo GX Greaves | 特歐爾艾護腿【ＧＸ】 |
-| 3616 | Torpedo G Leggings | 特歐爾艾裹腿【Ｇ】 |
-| 3617 | Torpedo GF Leggings | 特歐爾艾裹腿【ＧＦ】 |
-| 3618 | Torpedo GX Leggings | 特歐爾艾裹腿【ＧＸ】 |
+| 3613 | Torpedo G Greaves | 托佩多護腿【Ｇ】 |
+| 3614 | Torpedo GF Greaves | 托佩多護腿【ＧＦ】 |
+| 3615 | Torpedo GX Greaves | 托佩多護腿【ＧＸ】 |
+| 3616 | Torpedo G Leggings | 托佩多裹腿【Ｇ】 |
+| 3617 | Torpedo GF Leggings | 托佩多裹腿【ＧＦ】 |
+| 3618 | Torpedo GX Leggings | 托佩多裹腿【ＧＸ】 |
 | 3619 | Lavasioth G Greaves | 熔岩龍護腿【Ｇ】 |
 | 3620 | Lavasioth GF Greaves | 熔岩龍護腿【ＧＦ】 |
 | 3621 | Lavasioth GX Greaves | 熔岩龍護腿【ＧＸ】 |
@@ -282,10 +282,10 @@
 | 3776 | 日光G [Greaves 】 | 日光護腿【Ｇ】 |
 | 3777 | Wadatsumi G [Greaves 】 | 綿津見護腿【Ｇ】 |
 | 3778 | Okami G [Greaves 】 | 狼護腿【Ｇ】 |
-| 3779 | Lils G Greaves | 爾伊爾護腿【Ｇ】 |
-| 3780 | Lils G Leggings | 爾伊爾裹腿【Ｇ】 |
-| 3781 | Algol G Greaves | 阿爾歐爾護腿【Ｇ】 |
-| 3782 | Algol G Leggings | 阿爾歐爾裹腿【Ｇ】 |
+| 3779 | Lils G Greaves | 莉護腿【Ｇ】 |
+| 3780 | Lils G Leggings | 莉裹腿【Ｇ】 |
+| 3781 | Algol G Greaves | 戈護腿【Ｇ】 |
+| 3782 | Algol G Leggings | 戈裹腿【Ｇ】 |
 | 3783 | エミットG Greaves | 艾米托護腿【Ｇ】 |
 | 3784 | エミットG Leggings | 艾米托裹腿【Ｇ】 |
 | 3785 | Diboa G Greaves | 迪博阿護腿【Ｇ】 |
@@ -296,8 +296,8 @@
 | 3790 | ハーデス Boots | 哈德斯靴 |
 | 3791 | レアー Leggings | 雷阿裹腿 |
 | 3792 | ハーデス Leggings | 哈德斯裹腿 |
-| 3793 | Roses GX Greaves | 爾歐斯艾護腿【ＧＸ】 |
-| 3794 | Roses GX Leggings | 爾歐斯艾裹腿【ＧＸ】 |
+| 3793 | Roses GX Greaves | 蘿賽護腿【ＧＸ】 |
+| 3794 | Roses GX Leggings | 蘿賽裹腿【ＧＸ】 |
 | 3795 | Strega G Greaves | 魔女護腿【Ｇ】 |
 | 3796 | Strega GF Greaves | 魔女護腿【ＧＦ】 |
 | 3797 | Strega GX Greaves | 魔女護腿【ＧＸ】 |
@@ -461,12 +461,12 @@
 | 3955 | Gougarf HS Greaves | 鬥獸護腿【ＨＳ】 |
 | 3956 | Gougarf FX Leggings | 鬥獸裹腿【ＦＸ】 |
 | 3957 | Gougarf HS Leggings | 鬥獸裹腿【ＨＳ】 |
-| 3958 | Regyukusu HC Feet | 爾艾格烏足【ＨＣ】 |
-| 3959 | Regyukusu HS Feet | 爾艾格烏足【ＨＳ】 |
-| 3960 | Regyukusu GS Feet | 爾艾格烏足【ＧＳ】 |
-| 3961 | Regyukusu HC Boots | 爾艾格烏靴【ＨＣ】 |
-| 3962 | Regyukusu HS Boots | 爾艾格烏靴【ＨＳ】 |
-| 3963 | Regyukusu GS Boots | 爾艾格烏靴【ＧＳ】 |
+| 3958 | Regyukusu HC Feet | 蕾尤克斯足【ＨＣ】 |
+| 3959 | Regyukusu HS Feet | 蕾尤克斯足【ＨＳ】 |
+| 3960 | Regyukusu GS Feet | 蕾尤克斯足【ＧＳ】 |
+| 3961 | Regyukusu HC Boots | 蕾尤克斯靴【ＨＣ】 |
+| 3962 | Regyukusu HS Boots | 蕾尤克斯靴【ＨＳ】 |
+| 3963 | Regyukusu GS Boots | 蕾尤克斯靴【ＧＳ】 |
 | 3964 | Pistis HC Feet | 普伊斯伊足【ＨＣ】 |
 | 3965 | Pistis HS Feet | 普伊斯伊足【ＨＳ】 |
 | 3966 | Pistis GS Feet | 普伊斯伊足【ＧＳ】 |

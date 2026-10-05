@@ -37,8 +37,8 @@
 | 1030 | オールF Mail | 奧爾鎧甲【Ｆ】 |
 | 1031 | メタロ Mail | 梅塔羅鎧甲 |
 | 1032 | メタロF Mail | 梅塔羅鎧甲【Ｆ】 |
-| 1033 | アルジャ Suit | 阿爾賈套裝 |
-| 1034 | アルジャF Suit | 阿爾賈套裝【Ｆ】 |
+| 1033 | アルジャ Suit | 亞露雅套裝 |
+| 1034 | アルジャF Suit | 亞露雅套裝【Ｆ】 |
 | 1035 | Espinas FX Muscle | 棘龍筋肉衣【ＦＸ】 |
 | 1036 | Espinas FX Heart | 棘龍心衣【ＦＸ】 |
 | 1038 | エクスト Mail | 艾克斯特鎧甲 |
@@ -51,9 +51,9 @@
 | 1045 | Diablos Mail SP Purple | 角龍鎧甲【ＳＰ】・紫 |
 | 1046 | Diablos Mail SP Blue | 角龍鎧甲【ＳＰ】・青 |
 | 1047 | Diablos Mail SP Yellow | 角龍鎧甲【ＳＰ】・黄 |
-| 1048 | Makluva Cover SP Green | 瑪克魯瓦罩鎧甲【ＳＰ】・緑 |
-| 1049 | Makluva Cover SP Blue | 瑪克魯瓦罩鎧甲【ＳＰ】・青 |
-| 1050 | Makluva Cover SP Black | 瑪克魯瓦罩鎧甲【ＳＰ】・黑 |
+| 1048 | Makluva Cover SP Green | 瑪可露拍鎧甲【ＳＰ】・緑 |
+| 1049 | Makluva Cover SP Blue | 瑪可露拍鎧甲【ＳＰ】・青 |
+| 1050 | Makluva Cover SP Black | 瑪可露拍鎧甲【ＳＰ】・黑 |
 | 1051 | Dragon L Skin | 龍皮【Ｌ】 |
 | 1052 | Kirin Lケープ | 麒麟鎧甲 |
 | 1053 | Hermitaur L Vest | 盾蟹背心【Ｌ】 |
@@ -79,8 +79,8 @@
 | 1073 | Shieri F Mail | 夏伊爾伊鎧甲【Ｆ】 |
 | 1074 | Shieri Vest | 夏伊爾伊背心 |
 | 1075 | Shieri F Vest | 夏伊爾伊背心【Ｆ】 |
-| 1076 | Harubadaa Mail | 赫阿爾烏鎧甲 |
-| 1077 | Harubadaa F Mail | 赫阿爾烏鎧甲【Ｆ】 |
+| 1076 | Harubadaa Mail | 哈露巴達鎧甲 |
+| 1077 | Harubadaa F Mail | 哈露巴達鎧甲【Ｆ】 |
 | 1078 | Tracker Vest | 追蹤背心 |
 | 1079 | Tracker F Vest | 追蹤背心【Ｆ】 |
 | 1080 | Zaakaa Mail | 茲阿克阿鎧甲 |
@@ -93,20 +93,20 @@
 | 1087 | Lord F Vest | 領主背心【Ｆ】 |
 | 1088 | Dicto Suit | 德伊克歐套裝 |
 | 1089 | Dicto F Suit | 德伊克歐套裝【Ｆ】 |
-| 1090 | Diletto Vest | 德伊爾艾背心 |
-| 1091 | Diletto F Vest | 德伊爾艾背心【Ｆ】 |
+| 1090 | Diletto Vest | 迪勒特背心 |
+| 1091 | Diletto F Vest | 迪勒特背心【Ｆ】 |
 | 1092 | Kruss Suit | 克烏斯套裝 |
 | 1093 | Kruss F Suit | 克烏斯套裝【Ｆ】 |
-| 1094 | Quote Vest | 斯烏特艾背心 |
-| 1095 | Quote F Vest | 斯烏特艾背心【Ｆ】 |
-| 1096 | ウルバヌ Mail | 烏爾巴努鎧甲 |
-| 1097 | ウルバヌF Mail | 烏爾巴努鎧甲【Ｆ】 |
+| 1094 | Quote Vest | 奎特背心 |
+| 1095 | Quote F Vest | 奎特背心【Ｆ】 |
+| 1096 | ウルバヌ Mail | 宇露巴努鎧甲 |
+| 1097 | ウルバヌF Mail | 宇露巴努鎧甲【Ｆ】 |
 | 1098 | マグヌス Mail | 瑪古努斯鎧甲 |
 | 1099 | マグヌスF Mail | 瑪古努斯鎧甲【Ｆ】 |
 | 1100 | ソレルス Mail | 索雷魯斯鎧甲 |
 | 1101 | ソレルスF Mail | 索雷魯斯鎧甲【Ｆ】 |
-| 1102 | パルフェ Suit | 拍爾菲套裝 |
-| 1103 | パルフェF Suit | 拍爾菲套裝【Ｆ】 |
+| 1102 | パルフェ Suit | 拍露菲套裝 |
+| 1103 | パルフェF Suit | 拍露菲套裝【Ｆ】 |
 | 1104 | アスティ Mail | 阿斯特鎧甲 |
 | 1105 | アスティF Mail | 阿斯特鎧甲【Ｆ】 |
 | 1106 | アガトン Mail | 阿加托恩鎧甲 |
@@ -135,8 +135,8 @@
 | 1129 | ビリスF Vest | 比利斯背心【Ｆ】 |
 | 1130 | ギエール Vest | 吉埃爾背心 |
 | 1131 | ギエールF Vest | 吉埃爾背心【Ｆ】 |
-| 1132 | カウント Vest | 可烏恩托背心 |
-| 1133 | カウントF Vest | 可烏恩托背心【Ｆ】 |
+| 1132 | カウント Vest | 可宇恩托背心 |
+| 1133 | カウントF Vest | 可宇恩托背心【Ｆ】 |
 | 1134 | フュルス Suit | 芙尤魯斯套裝 |
 | 1135 | フュルスF Suit | 芙尤魯斯套裝【Ｆ】 |
 | 1136 | Text Vest・Purple | 文書背心・紫 |
@@ -161,12 +161,12 @@
 | 1155 | フィーブルF Vest | 芙布魯背心【Ｆ】 |
 | 1156 | ヴァラク Vest | 芙拉庫背心 |
 | 1157 | ヴァラクF Vest | 芙拉庫背心【Ｆ】 |
-| 1158 | ネウロン Suit | 涅烏羅恩套裝 |
-| 1159 | ネウロンF Suit | 涅烏羅恩套裝【Ｆ】 |
-| 1160 | Arge Vest | 阿爾傑背心 |
-| 1161 | Arge F Vest | 阿爾傑背心【Ｆ】 |
-| 1162 | Arge Suit | 阿爾傑套裝 |
-| 1163 | Arge F Suit | 阿爾傑套裝【Ｆ】 |
+| 1158 | ネウロン Suit | 奈宇蘿恩套裝 |
+| 1159 | ネウロンF Suit | 奈宇蘿恩套裝【Ｆ】 |
+| 1160 | Arge Vest | 亞潔背心 |
+| 1161 | Arge F Vest | 亞潔背心【Ｆ】 |
+| 1162 | Arge Suit | 亞潔套裝 |
+| 1163 | Arge F Suit | 亞潔套裝【Ｆ】 |
 | 1164 | Akantor ウルンテ SP Black | 霸龍鎧甲【ＳＰ】・黑 |
 | 1165 | Akantor ウルンテ SP Red | 霸龍鎧甲【ＳＰ】・赤 |
 | 1166 | Akantor ウルンテ SP White | 霸龍鎧甲【ＳＰ】・白 |
@@ -291,8 +291,8 @@
 | 1285 | デスモF Suit | 德斯莫套裝【Ｆ】 |
 | 1286 | ミスク Vest | 米斯庫背心 |
 | 1287 | ミスクF Vest | 米斯庫背心【Ｆ】 |
-| 1288 | ウーズィ Suit | 烏茲套裝 |
-| 1289 | ウーズィF Suit | 烏茲套裝【Ｆ】 |
+| 1288 | ウーズィ Suit | 宇茲套裝 |
+| 1289 | ウーズィF Suit | 宇茲套裝【Ｆ】 |
 | 1290 | レガーメ Suit | 雷加梅套裝 |
 | 1291 | レガーメF Suit | 雷加梅套裝【Ｆ】 |
 | 1292 | ノット Suit | 諾托套裝 |
@@ -335,8 +335,8 @@
 | 1329 | Eques FX Mail | 騎士鎧甲【ＦＸ】 |
 | 1330 | Eques FX Vest | 騎士背心【ＦＸ】 |
 | 1331 | Noir F Jacket | 黑夾克【Ｆ】 |
-| 1332 | Himeros F Mail | 赫伊姆艾鎧甲【Ｆ】 |
-| 1333 | Bureshisu F Mail | 布烏爾艾鎧甲【Ｆ】 |
+| 1332 | Himeros F Mail | 希梅蘿鎧甲【Ｆ】 |
+| 1333 | Bureshisu F Mail | 布蕾修斯鎧甲【Ｆ】 |
 | 1334 | Charien F Vest | 夏里安背心【Ｆ】 |
 | 1335 | Guren Mail | 紅蓮鎧甲 |
 | 1336 | Guren F Mail | 紅蓮鎧甲【Ｆ】 |
@@ -401,8 +401,8 @@
 | 1395 | ヴェロシF Mail | 芙羅希鎧甲【Ｆ】 |
 | 1396 | ケプト Mail | 凱普托鎧甲 |
 | 1397 | ケプトF Mail | 凱普托鎧甲【Ｆ】 |
-| 1398 | ハウット Suit | 哈烏托套裝 |
-| 1399 | ハウットF Suit | 哈烏托套裝【Ｆ】 |
+| 1398 | ハウット Suit | 哈宇托套裝 |
+| 1399 | ハウットF Suit | 哈宇托套裝【Ｆ】 |
 | 1400 | ヴェンガ Mail | 芙恩加鎧甲 |
 | 1401 | ヴェンガF Mail | 芙恩加鎧甲【Ｆ】 |
 | 1402 | スプリン Mail | 斯普里恩鎧甲 |

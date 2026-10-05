@@ -54,13 +54,13 @@
 | 9548 | ダミー | (dummy) |
 | 9549 | ダミー | (dummy) |
 | 9550 | ダミー | (dummy) |
-| 9551 | Otono Faulds | 歐特歐恩腰甲 |
-| 9552 | Otono F Faulds | 歐特歐恩腰甲【Ｆ】 |
-| 9553 | Otono FY Faulds | 歐特歐恩腰甲 |
-| 9554 | Otono HS Faulds | 歐特歐恩腰甲【ＨＳ】 |
-| 9555 | Otono G Faulds | 歐特歐恩腰甲【Ｇ】 |
-| 9556 | Otono GF Faulds | 歐特歐恩腰甲【ＧＦ】 |
-| 9557 | Otono GX Faulds | 歐特歐恩腰甲【ＧＸ】 |
+| 9551 | Otono Faulds | 托諾腰甲 |
+| 9552 | Otono F Faulds | 托諾腰甲【Ｆ】 |
+| 9553 | Otono FY Faulds | 托諾腰甲 |
+| 9554 | Otono HS Faulds | 托諾腰甲【ＨＳ】 |
+| 9555 | Otono G Faulds | 托諾腰甲【Ｇ】 |
+| 9556 | Otono GF Faulds | 托諾腰甲【ＧＦ】 |
+| 9557 | Otono GX Faulds | 托諾腰甲【ＧＸ】 |
 | 9558 | Kabariba Faulds | 克阿布阿腰甲 |
 | 9559 | Kabariba F Faulds | 克阿布阿腰甲【Ｆ】 |
 | 9560 | Kabariba FY Faulds | 克阿布阿腰甲 |
@@ -75,48 +75,48 @@
 | 9569 | Kabariba G Coat | 克阿布阿腰衣【Ｇ】 |
 | 9570 | Kabariba GF Coat | 克阿布阿腰衣【ＧＦ】 |
 | 9571 | Kabariba GX Coat | 克阿布阿腰衣【ＧＸ】 |
-| 9572 | Toruboda Coil | 特歐爾烏腰甲 |
-| 9573 | Toruboda F Coil | 特歐爾烏腰甲【Ｆ】 |
-| 9574 | Toruboda FY Coil | 特歐爾烏腰甲 |
-| 9575 | Toruboda HS Coil | 特歐爾烏腰甲【ＨＳ】 |
-| 9576 | Toruboda G Coil | 特歐爾烏腰甲【Ｇ】 |
-| 9577 | Toruboda GF Coil | 特歐爾烏腰甲【ＧＦ】 |
-| 9578 | Toruboda GX Coil | 特歐爾烏腰甲【ＧＸ】 |
-| 9579 | Toruboda Coat | 特歐爾烏腰衣 |
-| 9580 | Toruboda F Coat | 特歐爾烏腰衣【Ｆ】 |
-| 9581 | Toruboda FY Coat | 特歐爾烏腰衣 |
-| 9582 | Toruboda HS Coat | 特歐爾烏腰衣【ＨＳ】 |
-| 9583 | Toruboda G Coat | 特歐爾烏腰衣【Ｇ】 |
-| 9584 | Toruboda GF Coat | 特歐爾烏腰衣【ＧＦ】 |
-| 9585 | Toruboda GX Coat | 特歐爾烏腰衣【ＧＸ】 |
-| 9586 | Orykto Faulds | 歐爾歐腰甲 |
-| 9587 | Orykto F Faulds | 歐爾歐腰甲【Ｆ】 |
-| 9588 | Orykto FY Faulds | 歐爾歐斯腰甲 |
-| 9589 | Orykto HS Faulds | 歐爾歐腰甲【ＨＳ】 |
-| 9590 | Orykto Coat | 歐爾歐腰衣 |
-| 9591 | Orykto F Coat | 歐爾歐腰衣【Ｆ】 |
-| 9592 | Orykto FY Coat | 歐爾歐斯腰衣 |
-| 9593 | Orykto HS Coat | 歐爾歐腰衣【ＨＳ】 |
-| 9594 | Reuasu G Coil | 爾艾斯烏腰甲【Ｇ】 |
-| 9595 | Reuasu GF Coil | 爾艾斯烏腰甲【ＧＦ】 |
-| 9596 | Reuasu GX Coil | 爾艾斯烏腰甲【ＧＸ】 |
-| 9597 | Reuasu G Coat | 爾艾斯烏腰衣【Ｇ】 |
-| 9598 | Reuasu GF Coat | 爾艾斯烏腰衣【ＧＦ】 |
-| 9599 | Reuasu GX Coat | 爾艾斯烏腰衣【ＧＸ】 |
-| 9600 | Harimeno Faulds | 赫阿爾伊腰甲 |
-| 9601 | Harimeno F Faulds | 赫阿爾伊腰甲【Ｆ】 |
-| 9602 | Harimeno FY Faulds | 赫阿爾伊腰甲 |
-| 9603 | Harimeno HS Faulds | 赫阿爾伊腰甲【ＨＳ】 |
-| 9604 | Harimeno G Faulds | 赫阿爾伊腰甲【Ｇ】 |
-| 9605 | Harimeno GF Faulds | 赫阿爾伊腰甲【ＧＦ】 |
-| 9606 | Harimeno GX Faulds | 赫阿爾伊腰甲【ＧＸ】 |
-| 9607 | Harimeno Coat | 赫阿爾伊腰衣 |
-| 9608 | Harimeno F Coat | 赫阿爾伊腰衣【Ｆ】 |
-| 9609 | Harimeno FY Coat | 赫阿爾伊腰衣 |
-| 9610 | Harimeno HS Coat | 赫阿爾伊腰衣【ＨＳ】 |
-| 9611 | Harimeno G Coat | 赫阿爾伊腰衣【Ｇ】 |
-| 9612 | Harimeno GF Coat | 赫阿爾伊腰衣【ＧＦ】 |
-| 9613 | Harimeno GX Coat | 赫阿爾伊腰衣【ＧＸ】 |
+| 9572 | Toruboda Coil | 托露波達腰甲 |
+| 9573 | Toruboda F Coil | 托露波達腰甲【Ｆ】 |
+| 9574 | Toruboda FY Coil | 托露波達腰甲 |
+| 9575 | Toruboda HS Coil | 托露波達腰甲【ＨＳ】 |
+| 9576 | Toruboda G Coil | 托露波達腰甲【Ｇ】 |
+| 9577 | Toruboda GF Coil | 托露波達腰甲【ＧＦ】 |
+| 9578 | Toruboda GX Coil | 托露波達腰甲【ＧＸ】 |
+| 9579 | Toruboda Coat | 托露波達腰衣 |
+| 9580 | Toruboda F Coat | 托露波達腰衣【Ｆ】 |
+| 9581 | Toruboda FY Coat | 托露波達腰衣 |
+| 9582 | Toruboda HS Coat | 托露波達腰衣【ＨＳ】 |
+| 9583 | Toruboda G Coat | 托露波達腰衣【Ｇ】 |
+| 9584 | Toruboda GF Coat | 托露波達腰衣【ＧＦ】 |
+| 9585 | Toruboda GX Coat | 托露波達腰衣【ＧＸ】 |
+| 9586 | Orykto Faulds | 托腰甲 |
+| 9587 | Orykto F Faulds | 托腰甲【Ｆ】 |
+| 9588 | Orykto FY Faulds | 托腰甲 |
+| 9589 | Orykto HS Faulds | 托腰甲【ＨＳ】 |
+| 9590 | Orykto Coat | 托腰衣 |
+| 9591 | Orykto F Coat | 托腰衣【Ｆ】 |
+| 9592 | Orykto FY Coat | 托腰衣 |
+| 9593 | Orykto HS Coat | 托腰衣【ＨＳ】 |
+| 9594 | Reuasu G Coil | 蕾斯腰甲【Ｇ】 |
+| 9595 | Reuasu GF Coil | 蕾斯腰甲【ＧＦ】 |
+| 9596 | Reuasu GX Coil | 蕾斯腰甲【ＧＸ】 |
+| 9597 | Reuasu G Coat | 蕾斯腰衣【Ｇ】 |
+| 9598 | Reuasu GF Coat | 蕾斯腰衣【ＧＦ】 |
+| 9599 | Reuasu GX Coat | 蕾斯腰衣【ＧＸ】 |
+| 9600 | Harimeno Faulds | 哈里梅諾腰甲 |
+| 9601 | Harimeno F Faulds | 哈里梅諾腰甲【Ｆ】 |
+| 9602 | Harimeno FY Faulds | 哈里梅諾腰甲 |
+| 9603 | Harimeno HS Faulds | 哈里梅諾腰甲【ＨＳ】 |
+| 9604 | Harimeno G Faulds | 哈里梅諾腰甲【Ｇ】 |
+| 9605 | Harimeno GF Faulds | 哈里梅諾腰甲【ＧＦ】 |
+| 9606 | Harimeno GX Faulds | 哈里梅諾腰甲【ＧＸ】 |
+| 9607 | Harimeno Coat | 哈里梅諾腰衣 |
+| 9608 | Harimeno F Coat | 哈里梅諾腰衣【Ｆ】 |
+| 9609 | Harimeno FY Coat | 哈里梅諾腰衣 |
+| 9610 | Harimeno HS Coat | 哈里梅諾腰衣【ＨＳ】 |
+| 9611 | Harimeno G Coat | 哈里梅諾腰衣【Ｇ】 |
+| 9612 | Harimeno GF Coat | 哈里梅諾腰衣【ＧＦ】 |
+| 9613 | Harimeno GX Coat | 哈里梅諾腰衣【ＧＸ】 |
 | 9614 | Shiusu G Faulds | 夏伊斯烏腰甲【Ｇ】 |
 | 9615 | Shiusu GF Faulds | 夏伊斯烏腰甲【ＧＦ】 |
 | 9616 | Shiusu GX Faulds | 夏伊斯烏腰甲【ＧＸ】 |
@@ -137,48 +137,48 @@
 | 9631 | Will G Coat | 沃伊爾腰衣【Ｇ】 |
 | 9632 | Will GF Coat | 沃伊爾腰衣【ＧＦ】 |
 | 9633 | Will GX Coat | 沃伊爾腰衣【ＧＸ】 |
-| 9634 | Keisu Faulds | 克艾斯烏腰甲 |
-| 9635 | Keisu F Faulds | 克艾斯烏腰甲【Ｆ】 |
-| 9636 | Keisu FY Faulds | 克艾斯烏腰甲 |
-| 9637 | Keisu HS Faulds | 克艾斯烏腰甲【ＨＳ】 |
-| 9638 | Keisu G Faulds | 克艾斯烏腰甲【Ｇ】 |
-| 9639 | Keisu GF Faulds | 克艾斯烏腰甲【ＧＦ】 |
-| 9640 | Keisu GX Faulds | 克艾斯烏腰甲【ＧＸ】 |
-| 9641 | Keisu Coat | 克艾斯烏腰衣 |
-| 9642 | Keisu F Coat | 克艾斯烏腰衣【Ｆ】 |
-| 9643 | Keisu FY Coat | 克艾斯烏腰衣 |
-| 9644 | Keisu HS Coat | 克艾斯烏腰衣【ＨＳ】 |
-| 9645 | Keisu G Coat | 克艾斯烏腰衣【Ｇ】 |
-| 9646 | Keisu GF Coat | 克艾斯烏腰衣【ＧＦ】 |
-| 9647 | Keisu GX Coat | 克艾斯烏腰衣【ＧＸ】 |
-| 9648 | Lumiere Faulds | 爾烏姆伊腰甲 |
-| 9649 | Lumiere F Faulds | 爾烏姆伊腰甲【Ｆ】 |
-| 9650 | Lumiere FY Faulds | 爾烏姆伊腰甲 |
-| 9651 | Lumiere HS Faulds | 爾烏姆伊腰甲【ＨＳ】 |
-| 9652 | Lumiere G Faulds | 爾烏姆伊腰甲【Ｇ】 |
-| 9653 | Lumiere GF Faulds | 爾烏姆伊腰甲【ＧＦ】 |
-| 9654 | Lumiere GX Faulds | 爾烏姆伊腰甲【ＧＸ】 |
-| 9655 | Lumiere Coat | 爾烏姆伊腰衣 |
-| 9656 | Lumiere F Coat | 爾烏姆伊腰衣【Ｆ】 |
-| 9657 | Lumiere FY Coat | 爾烏姆伊腰衣 |
-| 9658 | Lumiere HS Coat | 爾烏姆伊腰衣【ＨＳ】 |
-| 9659 | Lumiere G Coat | 爾烏姆伊腰衣【Ｇ】 |
-| 9660 | Lumiere GF Coat | 爾烏姆伊腰衣【ＧＦ】 |
-| 9661 | Lumiere GX Coat | 爾烏姆伊腰衣【ＧＸ】 |
-| 9662 | Cleora Coil | 克艾爾阿腰甲 |
-| 9663 | Cleora F Coil | 克艾爾阿腰甲【Ｆ】 |
-| 9664 | Cleora FY Coil | 克艾爾阿腰甲 |
-| 9665 | Cleora HS Coil | 克艾爾阿腰甲【ＨＳ】 |
-| 9666 | Cleora G Coil | 克艾爾阿腰甲【Ｇ】 |
-| 9667 | Cleora GF Coil | 克艾爾阿腰甲【ＧＦ】 |
-| 9668 | Cleora GX Coil | 克艾爾阿腰甲【ＧＸ】 |
-| 9669 | Cleora Coat | 克艾爾阿腰衣 |
-| 9670 | Cleora F Coat | 克艾爾阿腰衣【Ｆ】 |
-| 9671 | Cleora FY Coat | 克艾爾阿腰衣 |
-| 9672 | Cleora HS Coat | 克艾爾阿腰衣【ＨＳ】 |
-| 9673 | Cleora G Coat | 克艾爾阿腰衣【Ｇ】 |
-| 9674 | Cleora GF Coat | 克艾爾阿腰衣【ＧＦ】 |
-| 9675 | Cleora GX Coat | 克艾爾阿腰衣【ＧＸ】 |
+| 9634 | Keisu Faulds | 凱斯腰甲 |
+| 9635 | Keisu F Faulds | 凱斯腰甲【Ｆ】 |
+| 9636 | Keisu FY Faulds | 凱斯腰甲 |
+| 9637 | Keisu HS Faulds | 凱斯腰甲【ＨＳ】 |
+| 9638 | Keisu G Faulds | 凱斯腰甲【Ｇ】 |
+| 9639 | Keisu GF Faulds | 凱斯腰甲【ＧＦ】 |
+| 9640 | Keisu GX Faulds | 凱斯腰甲【ＧＸ】 |
+| 9641 | Keisu Coat | 凱斯腰衣 |
+| 9642 | Keisu F Coat | 凱斯腰衣【Ｆ】 |
+| 9643 | Keisu FY Coat | 凱斯腰衣 |
+| 9644 | Keisu HS Coat | 凱斯腰衣【ＨＳ】 |
+| 9645 | Keisu G Coat | 凱斯腰衣【Ｇ】 |
+| 9646 | Keisu GF Coat | 凱斯腰衣【ＧＦ】 |
+| 9647 | Keisu GX Coat | 凱斯腰衣【ＧＸ】 |
+| 9648 | Lumiere Faulds | 露蜜蕾腰甲 |
+| 9649 | Lumiere F Faulds | 露蜜蕾腰甲【Ｆ】 |
+| 9650 | Lumiere FY Faulds | 露蜜蕾腰甲 |
+| 9651 | Lumiere HS Faulds | 露蜜蕾腰甲【ＨＳ】 |
+| 9652 | Lumiere G Faulds | 露蜜蕾腰甲【Ｇ】 |
+| 9653 | Lumiere GF Faulds | 露蜜蕾腰甲【ＧＦ】 |
+| 9654 | Lumiere GX Faulds | 露蜜蕾腰甲【ＧＸ】 |
+| 9655 | Lumiere Coat | 露蜜蕾腰衣 |
+| 9656 | Lumiere F Coat | 露蜜蕾腰衣【Ｆ】 |
+| 9657 | Lumiere FY Coat | 露蜜蕾腰衣 |
+| 9658 | Lumiere HS Coat | 露蜜蕾腰衣【ＨＳ】 |
+| 9659 | Lumiere G Coat | 露蜜蕾腰衣【Ｇ】 |
+| 9660 | Lumiere GF Coat | 露蜜蕾腰衣【ＧＦ】 |
+| 9661 | Lumiere GX Coat | 露蜜蕾腰衣【ＧＸ】 |
+| 9662 | Cleora Coil | 克雷拉腰甲 |
+| 9663 | Cleora F Coil | 克雷拉腰甲【Ｆ】 |
+| 9664 | Cleora FY Coil | 克雷拉腰甲 |
+| 9665 | Cleora HS Coil | 克雷拉腰甲【ＨＳ】 |
+| 9666 | Cleora G Coil | 克雷拉腰甲【Ｇ】 |
+| 9667 | Cleora GF Coil | 克雷拉腰甲【ＧＦ】 |
+| 9668 | Cleora GX Coil | 克雷拉腰甲【ＧＸ】 |
+| 9669 | Cleora Coat | 克雷拉腰衣 |
+| 9670 | Cleora F Coat | 克雷拉腰衣【Ｆ】 |
+| 9671 | Cleora FY Coat | 克雷拉腰衣 |
+| 9672 | Cleora HS Coat | 克雷拉腰衣【ＨＳ】 |
+| 9673 | Cleora G Coat | 克雷拉腰衣【Ｇ】 |
+| 9674 | Cleora GF Coat | 克雷拉腰衣【ＧＦ】 |
+| 9675 | Cleora GX Coat | 克雷拉腰衣【ＧＸ】 |
 | 9676 | Doragyurosu G Faulds | 冥雷龍腰甲【Ｇ】 |
 | 9677 | Doragyurosu GF Faulds | 冥雷龍腰甲【ＧＦ】 |
 | 9678 | Doragyurosu GX Faulds | 冥雷龍腰甲【ＧＸ】 |
@@ -189,8 +189,8 @@
 | 9683 | Wind GXアドミ | 風腰甲 |
 | 9684 | Meraginasu GX Faulds | 黑穿龍腰甲【ＧＸ】 |
 | 9685 | Meraginasu GX Coat | 黑穿龍腰衣【ＧＸ】 |
-| 9686 | Pobo GX Faulds | 普歐布歐腰甲【ＧＸ】 |
-| 9687 | Pobo GX Coat | 普歐布歐腰衣【ＧＸ】 |
+| 9686 | Pobo GX Faulds | 珀波腰甲【ＧＸ】 |
+| 9687 | Pobo GX Coat | 珀波腰衣【ＧＸ】 |
 | 9688 | Toa Faulds | 凍王龍腰甲 |
 | 9689 | Toa F Faulds | 凍王龍腰甲【Ｆ】 |
 | 9690 | Toa FX Faulds | 凍王龍腰甲【ＦＸ】 |
@@ -203,12 +203,12 @@
 | 9697 | Toa G Coat | 凍王龍腰衣【Ｇ】 |
 | 9698 | Toa GF Coat | 凍王龍腰衣【ＧＦ】 |
 | 9699 | Toa GX Coat | 凍王龍腰衣【ＧＸ】 |
-| 9700 | Blue Kut Ku G Faulds | 克烏特烏腰甲【Ｇ】・青 |
-| 9701 | Blue Kut Ku GF Faulds | 克烏特烏腰甲【ＧＦ】・青 |
-| 9702 | Blue Kut Ku GX Faulds | 克烏特烏腰甲【ＧＸ】・青 |
-| 9703 | Blue Kut Ku G Coat | 克烏特烏腰衣【Ｇ】・青 |
-| 9704 | Blue Kut Ku GF Coat | 克烏特烏腰衣【ＧＦ】・青 |
-| 9705 | Blue Kut Ku GX Coat | 克烏特烏腰衣【ＧＸ】・青 |
+| 9700 | Blue Kut Ku G Faulds | 克克腰甲【Ｇ】・青 |
+| 9701 | Blue Kut Ku GF Faulds | 克克腰甲【ＧＦ】・青 |
+| 9702 | Blue Kut Ku GX Faulds | 克克腰甲【ＧＸ】・青 |
+| 9703 | Blue Kut Ku G Coat | 克克腰衣【Ｇ】・青 |
+| 9704 | Blue Kut Ku GF Coat | 克克腰衣【ＧＦ】・青 |
+| 9705 | Blue Kut Ku GX Coat | 克克腰衣【ＧＸ】・青 |
 | 9706 | Dreadrock G【腰当て】 | 恐岩腰當【Ｇ】 |
 | 9707 | Dreadrock GF【腰当て】 | 恐岩腰當【ＧＦ】 |
 | 9708 | Dreadrock GX【腰当て】 | 恐岩腰當【ＧＸ】 |
@@ -239,24 +239,24 @@
 | 9733 | Gagachu HS Coat | 加加丘腰衣【ＨＳ】 |
 | 9734 | Gagachu GS Coat | 加加丘腰衣【ＧＳ】 |
 | 9735 | Gagachu GP Coat | 加加丘腰衣【ＧＰ】 |
-| 9736 | Salta Coil | 斯阿爾阿腰甲 |
-| 9737 | Salta F Coil | 斯阿爾阿腰甲【Ｆ】 |
-| 9738 | Salta FZ Coil | 斯阿爾阿腰甲【ＦＺ】 |
-| 9739 | Salta HS Coil | 斯阿爾阿腰甲【ＨＳ】 |
-| 9740 | Salta GS Coil | 斯阿爾阿腰甲【ＧＳ】 |
-| 9741 | Salta GP Coil | 斯阿爾阿腰甲【ＧＰ】 |
-| 9742 | Salta Coat | 斯阿爾阿腰衣 |
-| 9743 | Salta F Coat | 斯阿爾阿腰衣【Ｆ】 |
-| 9744 | Salta FZ Coat | 斯阿爾阿腰衣【ＦＺ】 |
-| 9745 | Salta HS Coat | 斯阿爾阿腰衣【ＨＳ】 |
-| 9746 | Salta GS Coat | 斯阿爾阿腰衣【ＧＳ】 |
-| 9747 | Salta GP Coat | 斯阿爾阿腰衣【ＧＰ】 |
-| 9748 | Chiru G Faulds | 奇伊爾烏腰甲【Ｇ】 |
-| 9749 | Chiru GF Faulds | 奇伊爾烏腰甲【ＧＦ】 |
-| 9750 | Chiru GX Faulds | 奇伊爾烏腰甲【ＧＸ】 |
-| 9751 | Chiru G Coat | 奇伊爾烏腰衣【Ｇ】 |
-| 9752 | Chiru GF Coat | 奇伊爾烏腰衣【ＧＦ】 |
-| 9753 | Chiru GX Coat | 奇伊爾烏腰衣【ＧＸ】 |
+| 9736 | Salta Coil | 薩塔腰甲 |
+| 9737 | Salta F Coil | 薩塔腰甲【Ｆ】 |
+| 9738 | Salta FZ Coil | 薩塔腰甲【ＦＺ】 |
+| 9739 | Salta HS Coil | 薩塔腰甲【ＨＳ】 |
+| 9740 | Salta GS Coil | 薩塔腰甲【ＧＳ】 |
+| 9741 | Salta GP Coil | 薩塔腰甲【ＧＰ】 |
+| 9742 | Salta Coat | 薩塔腰衣 |
+| 9743 | Salta F Coat | 薩塔腰衣【Ｆ】 |
+| 9744 | Salta FZ Coat | 薩塔腰衣【ＦＺ】 |
+| 9745 | Salta HS Coat | 薩塔腰衣【ＨＳ】 |
+| 9746 | Salta GS Coat | 薩塔腰衣【ＧＳ】 |
+| 9747 | Salta GP Coat | 薩塔腰衣【ＧＰ】 |
+| 9748 | Chiru G Faulds | 奇露腰甲【Ｇ】 |
+| 9749 | Chiru GF Faulds | 奇露腰甲【ＧＦ】 |
+| 9750 | Chiru GX Faulds | 奇露腰甲【ＧＸ】 |
+| 9751 | Chiru G Coat | 奇露腰衣【Ｇ】 |
+| 9752 | Chiru GF Coat | 奇露腰衣【ＧＦ】 |
+| 9753 | Chiru GX Coat | 奇露腰衣【ＧＸ】 |
 | 9754 | Ganeto G Faulds | 格阿恩艾腰甲【Ｇ】 |
 | 9755 | Ganeto GF Faulds | 格阿恩艾腰甲【ＧＦ】 |
 | 9756 | Ganeto GX Faulds | 格阿恩艾腰甲【ＧＸ】 |
@@ -346,9 +346,9 @@
 | 9840 | Onyx Coil | 縞瑪瑙腰甲 |
 | 9841 | Onyx F Coil | 縞瑪瑙腰甲【Ｆ】 |
 | 9842 | Onyx FX Coil | 縞瑪瑙腰甲【ＦＸ】 |
-| 9843 | Rutile Coil | 爾烏特伊腰甲 |
-| 9844 | Rutile F Coil | 爾烏特伊腰甲【Ｆ】 |
-| 9845 | Rutile FX Coil | 爾烏特伊腰甲【ＦＸ】 |
+| 9843 | Rutile Coil | 露蒂勒腰甲 |
+| 9844 | Rutile F Coil | 露蒂勒腰甲【Ｆ】 |
+| 9845 | Rutile FX Coil | 露蒂勒腰甲【ＦＸ】 |
 | 9846 | Byakko・斬将G Coil | 白虎腰甲【Ｇ】 |
 | 9847 | Byakko・斬将GF Coil | 白虎斬将腰甲【Ｆ】 |
 | 9848 | Byakko・斬将GX Coil | 白虎腰甲【ＧＸ】 |
@@ -483,25 +483,25 @@
 | 9977 | Kaiji HS Coat | 克阿傑伊腰衣【ＨＳ】 |
 | 9978 | Kaiji GS Coat | 克阿傑伊腰衣【ＧＳ】 |
 | 9979 | Kaiji GP Coat | 克阿傑伊腰衣【ＧＰ】 |
-| 9980 | Mikoko Waist | 姆伊克歐腰甲 |
-| 9981 | Mikoko F Waist | 姆伊克歐腰甲【Ｆ】 |
-| 9982 | Mikoko FZ Waist | 姆伊克歐腰甲【ＦＺ】 |
-| 9983 | Mikoko HS Waist | 姆伊克歐腰甲【ＨＳ】 |
-| 9984 | Mikoko GS Waist | 姆伊克歐腰甲【ＧＳ】 |
-| 9985 | Mikoko GP Waist | 姆伊克歐腰甲【ＧＰ】 |
-| 9986 | Mikoko Coat | 姆伊克歐腰衣 |
-| 9987 | Mikoko F Coat | 姆伊克歐腰衣【Ｆ】 |
-| 9988 | Mikoko FZ Coat | 姆伊克歐腰衣【ＦＺ】 |
-| 9989 | Mikoko HS Coat | 姆伊克歐腰衣【ＨＳ】 |
-| 9990 | Mikoko GS Coat | 姆伊克歐腰衣【ＧＳ】 |
-| 9991 | Mikoko GP Coat | 姆伊克歐腰衣【ＧＰ】 |
-| 9992 | テリュオ Coil | 特里尤歐腰甲 |
-| 9993 | テリュオF Coil | 特里尤歐腰甲【Ｆ】 |
-| 9994 | テリュオFZ Coil | 特里尤歐腰甲【ＦＺ】 |
-| 9995 | テリュオHS Coil | 特里尤歐腰甲【ＨＳ】 |
-| 9996 | テリュオGS Coil | 特里尤歐腰甲【ＧＳ】 |
-| 9997 | テリュオGP Coil | 特里尤歐腰甲【ＧＰ】 |
-| 9998 | テリュオ Coat | 特里尤歐腰衣 |
-| 9999 | テリュオF Coat | 特里尤歐腰衣【Ｆ】 |
-| 10000 | テリュオFZ Coat | 特里尤歐腰衣【ＦＺ】 |
+| 9980 | Mikoko Waist | 蜜古古腰甲 |
+| 9981 | Mikoko F Waist | 蜜古古腰甲【Ｆ】 |
+| 9982 | Mikoko FZ Waist | 蜜古古腰甲【ＦＺ】 |
+| 9983 | Mikoko HS Waist | 蜜古古腰甲【ＨＳ】 |
+| 9984 | Mikoko GS Waist | 蜜古古腰甲【ＧＳ】 |
+| 9985 | Mikoko GP Waist | 蜜古古腰甲【ＧＰ】 |
+| 9986 | Mikoko Coat | 蜜古古腰衣 |
+| 9987 | Mikoko F Coat | 蜜古古腰衣【Ｆ】 |
+| 9988 | Mikoko FZ Coat | 蜜古古腰衣【ＦＺ】 |
+| 9989 | Mikoko HS Coat | 蜜古古腰衣【ＨＳ】 |
+| 9990 | Mikoko GS Coat | 蜜古古腰衣【ＧＳ】 |
+| 9991 | Mikoko GP Coat | 蜜古古腰衣【ＧＰ】 |
+| 9992 | テリュオ Coil | 特琉歐腰甲 |
+| 9993 | テリュオF Coil | 特琉歐腰甲【Ｆ】 |
+| 9994 | テリュオFZ Coil | 特琉歐腰甲【ＦＺ】 |
+| 9995 | テリュオHS Coil | 特琉歐腰甲【ＨＳ】 |
+| 9996 | テリュオGS Coil | 特琉歐腰甲【ＧＳ】 |
+| 9997 | テリュオGP Coil | 特琉歐腰甲【ＧＰ】 |
+| 9998 | テリュオ Coat | 特琉歐腰衣 |
+| 9999 | テリュオF Coat | 特琉歐腰衣【Ｆ】 |
+| 10000 | テリュオFZ Coat | 特琉歐腰衣【ＦＺ】 |
 

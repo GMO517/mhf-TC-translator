@@ -1,5 +1,5 @@
 index,source,target
-0,Nothing Equipped,未裝備護腿
+0,Nothing Equipped,未裝備
 1,Green Jersey,運動袴・緑
 2,Blue Jersey,運動袴・青
 3,Hunter's Greaves,獵人護腿
@@ -21,7 +21,7 @@ index,source,target
 19,Gen Greaves,源護腿
 20,Gen Leggings,源裹腿
 21,Pink Metal Boots,金屬靴・桃
-22,Chrome Metal Boots,奇歐姆艾靴
+22,Chrome Metal Boots,奇蘿梅梅靴
 23,Io Greaves,伊歐護腿
 24,Io Leggings,伊歐裹腿
 25,Gypceros Greaves,毒怪鳥護腿
@@ -268,7 +268,7 @@ index,source,target
 266,ジスト Leg,吉斯特腿
 267,Missing No.,遺失道具No.267
 268,Extra Leg,追加腿
-269,ウナペルト Leg,烏納佩爾特腿
+269,ウナペルト Leg,宇娜佩露腿
 270,Kyuura Leg,丘拉腿
 271,Missing No.,遺失道具No.271
 272,Missing No.,遺失道具No.272
@@ -282,10 +282,10 @@ index,source,target
 280,Butterfly Sフェムル,蝶護腿
 281,Akantor ケマル,霸龍護腿
 282,Akantor チケル,霸龍護腿
-283,ウナペルトF Leg,烏納佩爾特腿【Ｆ】
+283,ウナペルトF Leg,宇娜佩露腿【Ｆ】
 284,Red Cat F Boots,赤猫靴【Ｆ】
-285,Melahoa Roots,姆艾爾阿護腿
-286,Melahoa U Roots,姆艾爾阿護腿【Ｕ】
+285,Melahoa Roots,梅拉霍蘿護腿
+286,Melahoa U Roots,梅拉霍蘿護腿【Ｕ】
 287,Makluva Pants,馬庫瓦袴
 288,Makluva U Pants,馬庫瓦袴【Ｕ】
 289,King Beetle Crura,王甲蟲腿甲
@@ -499,11 +499,11 @@ index,source,target
 497,Wizard F Boots・Green,巫師靴【Ｆ】・緑
 498,Wizard F Boots・White,巫師靴【Ｆ】・白
 499,Wizard F Boots・Blue,巫師靴【Ｆ】・青
-500,Crowley Feet・Red,克歐沃艾足・赤
-501,Crowley Feet・Black,克歐沃艾足・黑
-502,Crowley Feet・Green,克歐沃艾足・緑
-503,Crowley Feet・White,克歐沃艾足・白
-504,Crowley Feet・Blue,克歐沃艾足・青
+500,Crowley Feet・Red,克勒足・赤
+501,Crowley Feet・Black,克勒足・黑
+502,Crowley Feet・Green,克勒足・緑
+503,Crowley Feet・White,克勒足・白
+504,Crowley Feet・Blue,克勒足・青
 505,Faust Boots・Red,芙阿斯靴・赤
 506,Faust Boots・Black,芙阿斯靴・黑
 507,Faust Boots・Green,芙阿斯靴・緑
@@ -554,13 +554,13 @@ index,source,target
 552,Beru F Greaves,舞雷龍護腿【Ｆ】
 553,Beru F Leggings,舞雷龍裹腿【Ｆ】
 554,Lien Feet・Blue,里恩足・青
-555,Lien Boot・Blue,爾伊恩歐護腿・青
+555,Lien Boot・Blue,莉波護腿・青
 556,Lien Feet・Red,里恩足・赤
-557,Lien Boot・Red,爾伊恩歐護腿・赤
+557,Lien Boot・Red,莉波護腿・赤
 558,Lien Feet・Black,里恩足・黑
-559,Lien Boot・Black,爾伊恩歐護腿・黑
+559,Lien Boot・Black,莉波護腿・黑
 560,Lien Feet・White,里恩足・白
-561,Lien Boot・White,爾伊恩歐護腿・白
+561,Lien Boot・White,莉波護腿・白
 562,Lien F Feet・Blue,里恩足【Ｆ】・青
 563,Lien F Boots・Blue,里恩靴【Ｆ】・青
 564,Lien F Feet・Red,里恩足【Ｆ】・赤
@@ -585,7 +585,7 @@ index,source,target
 583,Basarios L Greaves,岩龍護腿【Ｌ】
 584,Rathalos L Leggings,雄火龍裹腿【Ｌ】
 585,Monoblos L Leggings,一角龍裹腿【Ｌ】
-586,Melahoa R Roots,姆艾爾阿護腿【Ｒ】
+586,Melahoa R Roots,梅拉霍蘿護腿【Ｒ】
 587,High Metal R Greaves,上位金屬護腿【Ｒ】
 588,Diablos R Greaves,角龍護腿【Ｒ】
 589,Blango R Greaves,雪獅子護腿【Ｒ】
@@ -599,9 +599,9 @@ index,source,target
 597,Extra F Leg,追加腿【Ｆ】
 598,Butterfly L Crura,蝶腿甲【Ｌ】
 599,Hypnoc R Greaves,眠鳥護腿【Ｒ】
-600,ディジ Gear Boots,格艾爾靴
-601,Priere Boots,普伊爾艾靴
-602,Salvacion Boots,斯阿爾阿靴
+600,ディジ Gear Boots,蓋靴
+601,Priere Boots,普蕾靴
+602,Salvacion Boots,薩瓦奇靴
 603,Shikari Greaves,夏伊克阿護腿
 604,Shikari Greaves・魁,夏伊克阿護腿魁
 605,G・Guard R Boots Green,防禦靴【Ｒ】・緑
@@ -613,8 +613,8 @@ index,source,target
 611,Arma Boots・Blue,武裝靴・青
 612,Arma Feet・Tea,武裝足・茶
 613,Arma Boots・Tea,武裝靴・茶
-614,Orden Feet,歐爾艾恩足
-615,Orden Boots,歐爾艾恩靴
+614,Orden Feet,奧登足
+615,Orden Boots,奧登靴
 616,Arma F Feet・Black,武裝足【Ｆ】・黑
 617,Arma F Boots・Black,武裝靴【Ｆ】・黑
 618,Arma F Feet・White,武裝足【Ｆ】・白
@@ -623,10 +623,10 @@ index,source,target
 621,Arma F Boots・Blue,武裝靴【Ｆ】・青
 622,Arma F Feet・Tea,武裝足【Ｆ】・茶
 623,Arma F Boots・Tea,武裝靴【Ｆ】・茶
-624,Orden F Feet,歐爾艾恩足【Ｆ】
-625,Orden F Boots,歐爾艾恩靴【Ｆ】
-626,Es Quera Leg,艾斯烏爾腿
-627,Es Quera Boots,艾斯烏爾靴
+624,Orden F Feet,奧登足【Ｆ】
+625,Orden F Boots,奧登靴【Ｆ】
+626,Es Quera Leg,奎拉腿
+627,Es Quera Boots,奎拉靴
 628,Pandeum Leg,普阿恩艾腿
 629,Pandeum Boots,普阿恩艾靴
 630,Comrade Boots SP White,戰友靴【ＳＰ】・白
@@ -644,30 +644,30 @@ index,source,target
 642,Khezu L Leggings,奇怪龍裹腿【Ｌ】
 643,Io R Leggings,伊歐裹腿【Ｒ】
 644,Comrade Boots SP Yellow,戰友靴【ＳＰ】・黄
-645,Purokusu Greaves,普烏爾歐護腿
-646,Purokusu F Greaves,普烏爾歐護腿【Ｆ】
-647,Kurenesu Greaves,克烏爾艾護腿
-648,Kurenesu F Greaves,克烏爾艾護腿【Ｆ】
+645,Purokusu Greaves,普蘿克斯護腿
+646,Purokusu F Greaves,普蘿克斯護腿【Ｆ】
+647,Kurenesu Greaves,克蕾奈斯護腿
+648,Kurenesu F Greaves,克蕾奈斯護腿【Ｆ】
 649,Suini Greaves,斯烏恩伊護腿
 650,Suini F Greaves,斯烏恩伊護腿【Ｆ】
-651,Guraasu Boots,格烏爾阿靴
-652,Guraasu F Boots,格烏爾阿靴【Ｆ】
-653,Forutu Greaves,芙歐爾烏護腿
-654,Forutu F Greaves,芙歐爾烏護腿【Ｆ】
+651,Guraasu Boots,古拉斯靴
+652,Guraasu F Boots,古拉斯靴【Ｆ】
+653,Forutu Greaves,佛露圖護腿
+654,Forutu F Greaves,佛露圖護腿【Ｆ】
 655,Fakiru Greaves,芙阿克伊護腿
 656,Fakiru F Greaves,芙阿克伊護腿【Ｆ】
-657,Baraban Greaves,布阿爾阿護腿
-658,Baraban F Greaves,布阿爾阿護腿【Ｆ】
-659,Sufera Boots,斯烏芙艾靴
-660,Sufera F Boots,斯烏芙艾靴【Ｆ】
+657,Baraban Greaves,巴拉巴護腿
+658,Baraban F Greaves,巴拉巴護腿【Ｆ】
+659,Sufera Boots,斯菲拉靴
+660,Sufera F Boots,斯菲拉靴【Ｆ】
 661,Paria Greaves,呑龍護腿
 662,Paria F Greaves,呑龍護腿【Ｆ】
 663,Paria Leggings,呑龍裹腿
 664,Paria F Leggings,呑龍裹腿【Ｆ】
-665,Hypnolia Leg,赫歐爾伊腿
-666,Hypnolia Boots,赫歐爾伊靴
-667,Feral Leg,芙艾爾阿腿
-668,Feral Boots,芙艾爾阿靴
+665,Hypnolia Leg,諾莉腿
+666,Hypnolia Boots,諾莉靴
+667,Feral Leg,菲拉腿
+668,Feral Boots,菲拉靴
 669,Demon Lord ノ足枷,魔王護腿
 670,Rasta 教官 Foot,教官護腿
 671,童子ノ足枷,童子足枷護腿
@@ -728,32 +728,32 @@ index,source,target
 726,Wild Leg,狂野腿
 727,Guns Boots,格烏恩靴
 728,Wild Boots,狂野靴
-729,Ecole Leg,艾克歐爾腿
+729,Ecole Leg,古勒腿
 730,Dian Leg,德伊恩腿
-731,Ecole Boots,艾克歐爾靴
+731,Ecole Boots,古勒靴
 732,Dian Boots,德伊恩靴
-733,Core Greaves C,克歐爾艾護腿
-734,Core Leggings C,克歐爾艾裹腿
-735,Core Greaves,克歐爾艾護腿
-736,Core Leggings,克歐爾艾裹腿
+733,Core Greaves C,古蕾護腿
+734,Core Leggings C,古蕾裹腿
+735,Core Greaves,古蕾護腿
+736,Core Leggings,古蕾裹腿
 737,Aneshisu Greaves,阿恩艾夏護腿
 738,Aneshisu Leggings,阿恩艾夏裹腿
-739,Kuraaji Greaves,克烏爾阿護腿
+739,Kuraaji Greaves,克拉護腿
 740,Kuraaji Greaves 改,改護腿
-741,Kuraaji F Greaves,克烏爾阿護腿【Ｆ】
-742,Kuraaji Leggings,克烏爾阿裹腿
+741,Kuraaji F Greaves,克拉護腿【Ｆ】
+742,Kuraaji Leggings,克拉裹腿
 743,Kuraaji Leggings 改,改裹腿
-744,Kuraaji F Leggings,克烏爾阿裹腿【Ｆ】
+744,Kuraaji F Leggings,克拉裹腿【Ｆ】
 745,Kinosu Greaves,克伊恩歐護腿
-746,Himeros Greaves,赫伊姆艾護腿
-747,Bureshisu Greaves,布烏爾艾護腿
+746,Himeros Greaves,希梅蘿護腿
+747,Bureshisu Greaves,布蕾修斯護腿
 748,Charien Leggings,夏里安裹腿
-749,Arietta Leg,阿爾伊特腿
+749,Arietta Leg,里特腿
 750,Tempest Leg,暴風雨腿
-751,Vento Boots,芙艾恩歐靴
+751,Vento Boots,薇托靴
 752,Mistral Boots,姆伊斯阿靴
-753,Arc Greaves,阿爾護腿
-754,Arc Leggings,阿爾裹腿
+753,Arc Greaves,亞克護腿
+754,Arc Leggings,亞克裹腿
 755,Rath Duo Greaves,雙火龍護腿
 756,Rath Duo Leggings,雙火龍裹腿
 757,Shaln Feet・Blue,夏爾恩足・青
@@ -792,10 +792,10 @@ index,source,target
 790,Real F Feet・Red,真足【Ｆ】・赤
 791,Real Boots・Red,真靴・赤
 792,Real F Boots・Red,真靴【Ｆ】・赤
-793,Regis Feet,爾艾格伊足
-794,Regis F Feet,爾艾格伊足【Ｆ】
-795,Regis Boots,爾艾格伊靴
-796,Regis F Boots,爾艾格伊靴【Ｆ】
+793,Regis Feet,蕾吉足
+794,Regis F Feet,蕾吉足【Ｆ】
+795,Regis Boots,蕾吉靴
+796,Regis F Boots,蕾吉靴【Ｆ】
 797,Comrade Boots 【葉】,戰友靴
 798,Comrade Boots 【柑】,戰友靴
 799,Comrade Boots 【冷】,戰友靴
@@ -826,19 +826,19 @@ index,source,target
 824,Ceanataur L Leggings,鎌蟹裹腿【Ｌ】
 825,Rath Heart R Leggings,火龍心裹腿【Ｒ】
 826,Bone R Leggings,骨製裹腿【Ｒ】
-827,Buran Greaves,布烏爾阿護腿
+827,Buran Greaves,布拉護腿
 828,White Belt Greaves,白帶護腿
 829,Kagura 【 Hakama 】,神樂袴
 830,Kagura・覇【 Hakama 】,神樂袴
 831,Kamiza 【 Hakama 】,上座袴
 832,Kamiza・覇【 Hakama 】,上座袴
-833,アスハルテ Feet,阿斯哈爾特足
-834,アスハルテ Boots,阿斯哈爾特靴
+833,アスハルテ Feet,亞斯哈露足
+834,アスハルテ Boots,亞斯哈露靴
 835,ローク Greaves,洛可護腿
 836,ローク Leggings,洛可裹腿
-837,Soldato Feet,斯歐爾阿足
+837,Soldato Feet,索達托足
 838,Gable Feet,格阿布艾足
-839,Soldato Boots,斯歐爾阿靴
+839,Soldato Boots,索達托靴
 840,Gable Boots,格阿布艾靴
 841,Uida Feet,烏德阿足
 842,スティーダ Feet,斯蒂達足
@@ -852,20 +852,20 @@ index,source,target
 850,Fias Leg,芙伊斯腿
 851,Fauve Boots,芙阿芙艾靴
 852,Fias Boots,芙伊斯靴
-853,フィデル Greaves,菲德爾護腿
-854,フィデルF Greaves,菲德爾護腿【Ｆ】
+853,フィデル Greaves,菲德露護腿
+854,フィデルF Greaves,菲德露護腿【Ｆ】
 855,ファクト Greaves,法克特護腿
 856,ファクトF Greaves,法克特護腿【Ｆ】
 857,シュロス Greaves,舒羅斯護腿
 858,シュロスF Greaves,舒羅斯護腿【Ｆ】
 859,アエトス Boots,阿埃托斯靴
 860,アエトスF Boots,阿埃托斯靴【Ｆ】
-861,ヴェルス Greaves,維爾斯護腿
-862,ヴェルスF Greaves,維爾斯護腿【Ｆ】
+861,ヴェルス Greaves,薇露斯護腿
+862,ヴェルスF Greaves,薇露斯護腿【Ｆ】
 863,フラント Greaves,芙拉恩托護腿
 864,フラントF Greaves,芙拉恩托護腿【Ｆ】
-865,Serieux Greaves,斯艾爾伊護腿
-866,Serieux F Greaves,斯艾爾伊護腿【Ｆ】
+865,Serieux Greaves,賽里克斯護腿
+866,Serieux F Greaves,賽里克斯護腿【Ｆ】
 867,ウェネス Boots,韋涅斯靴
 868,ウェネスF Boots,韋涅斯靴【Ｆ】
 869,Ferme Feet・Black,閉月足・黑
@@ -888,22 +888,22 @@ index,source,target
 886,リエーザF Feet,里耶薩足【Ｆ】
 887,リエーザ Boots,里耶薩靴
 888,リエーザF Boots,里耶薩靴【Ｆ】
-889,Claire Feet・Purple,克蕾爾足・紫
-890,Claire F Feet・Purple,克蕾爾足【Ｆ】・紫
-891,Claire Boots・Purple,克蕾爾靴・紫
-892,Claire F Boots・Purple,克蕾爾靴【Ｆ】・紫
-893,Claire Feet・Water,克蕾爾足・水
-894,Claire F Feet・Water,克蕾爾足【Ｆ】・水
-895,Claire Boots・Water,克蕾爾靴・水
-896,Claire F Boots・Water,克蕾爾靴【Ｆ】・水
-897,Claire Feet・Red,克蕾爾足・赤
-898,Claire F Feet・Red,克蕾爾足【Ｆ】・赤
-899,Claire Boots・Red,克蕾爾靴・赤
-900,Claire F Boots・Red,克蕾爾靴【Ｆ】・赤
-901,Claire Feet・Black,克蕾爾足・黑
-902,Claire F Feet・Black,克蕾爾足【Ｆ】・黑
-903,Claire Boots・Black,克蕾爾靴・黑
-904,Claire F Boots・Black,克蕾爾靴【Ｆ】・黑
+889,Claire Feet・Purple,克蕾露足・紫
+890,Claire F Feet・Purple,克蕾露足【Ｆ】・紫
+891,Claire Boots・Purple,克蕾露靴・紫
+892,Claire F Boots・Purple,克蕾露靴【Ｆ】・紫
+893,Claire Feet・Water,克蕾露足・水
+894,Claire F Feet・Water,克蕾露足【Ｆ】・水
+895,Claire Boots・Water,克蕾露靴・水
+896,Claire F Boots・Water,克蕾露靴【Ｆ】・水
+897,Claire Feet・Red,克蕾露足・赤
+898,Claire F Feet・Red,克蕾露足【Ｆ】・赤
+899,Claire Boots・Red,克蕾露靴・赤
+900,Claire F Boots・Red,克蕾露靴【Ｆ】・赤
+901,Claire Feet・Black,克蕾露足・黑
+902,Claire F Feet・Black,克蕾露足【Ｆ】・黑
+903,Claire Boots・Black,克蕾露靴・黑
+904,Claire F Boots・Black,克蕾露靴【Ｆ】・黑
 905,Desert Feet,沙漠足
 906,Desert F Feet,沙漠足【Ｆ】
 907,Desert Boots,沙漠靴
@@ -934,9 +934,9 @@ index,source,target
 932,ヴィリヴラ Boots,維里夫拉靴
 933,Angriff Boots,阿恩伊芙靴
 934,Schutz Feet,施烏特足
-935,Hilfe Feet,赫伊爾艾足
+935,Hilfe Feet,希菲足
 936,Schutz Boots,施烏特靴
-937,Hilfe Boots,赫伊爾艾靴
+937,Hilfe Boots,希菲靴
 938,Makluva R Pants,馬庫瓦袴【Ｒ】
 939,Raviente Greaves,大巖龍護腿
 940,Raviente F Greaves,大巖龍護腿【Ｆ】
@@ -946,26 +946,26 @@ index,source,target
 944,Raviente FX Leggings,大巖龍裹腿【ＦＸ】
 945,アナキ Greaves,阿納基護腿
 946,アナキ Boots,阿納基靴
-947,Harvest Boots,赫阿爾艾靴
-948,Harvest Leggings,赫阿爾艾裹腿
+947,Harvest Boots,哈薇靴
+948,Harvest Leggings,哈薇裹腿
 949,Craft Boots,工匠靴
 950,Craft F Boots,工匠靴【Ｆ】
 951,Craft Leggings,工匠裹腿
 952,Craft F Leggings,工匠裹腿【Ｆ】
-953,Ledia Boots,爾艾德伊靴
-954,Ledia F Boots,爾艾德伊靴【Ｆ】
-955,Ledia Leggings,爾艾德伊裹腿
-956,Ledia F Leggings,爾艾德伊裹腿【Ｆ】
+953,Ledia Boots,勒迪靴
+954,Ledia F Boots,勒迪靴【Ｆ】
+955,Ledia Leggings,勒迪裹腿
+956,Ledia F Leggings,勒迪裹腿【Ｆ】
 957,ティーア Leg,蒂亞腿
-958,Viruto Leg,芙伊爾烏腿
+958,Viruto Leg,薇露托腿
 959,ティーア Boots,蒂亞靴
-960,Viruto Boots,芙伊爾烏靴
-961,Muse Leg,姆烏斯艾腿
-962,Tune Leg,特烏恩艾腿
+960,Viruto Boots,薇露托靴
+961,Muse Leg,姆賽腿
+962,Tune Leg,圖奈腿
 963,ゼーレ Boots,澤勒靴
 964,Schnite Boots,施伊特艾靴
-965,アセルス Feet,阿塞爾斯足
-966,アセルスF Feet,阿塞爾斯足【Ｆ】
+965,アセルス Feet,亞賽露斯足
+966,アセルスF Feet,亞賽露斯足【Ｆ】
 967,スクラ Feet,斯庫拉足
 968,スクラF Feet,斯庫拉足【Ｆ】
 969,ファルム Feet,法魯姆足
@@ -1026,8 +1026,8 @@ index,source,target
 1024,オールF Feet,奧爾足【Ｆ】
 1025,メタロ Feet,梅塔羅足
 1026,メタロF Feet,梅塔羅足【Ｆ】
-1027,アルジャ Boots,阿爾賈靴
-1028,アルジャF Boots,阿爾賈靴【Ｆ】
+1027,アルジャ Boots,亞露雅靴
+1028,アルジャF Boots,亞露雅靴【Ｆ】
 1029,Espinas FX Heel,棘龍踵【ＦＸ】
 1030,Espinas FX March,棘龍行軍腿【ＦＸ】
 1031,,
@@ -1069,8 +1069,8 @@ index,source,target
 1067,Shieri F Greaves,夏伊爾伊護腿【Ｆ】
 1068,Shieri Leggings,夏伊爾伊裹腿
 1069,Shieri F Leggings,夏伊爾伊裹腿【Ｆ】
-1070,Harubadaa Greaves,赫阿爾烏護腿
-1071,Harubadaa F Greaves,赫阿爾烏護腿【Ｆ】
+1070,Harubadaa Greaves,哈露巴達護腿
+1071,Harubadaa F Greaves,哈露巴達護腿【Ｆ】
 1072,Tracker Leggings,追蹤裹腿
 1073,Tracker F Leggings,追蹤裹腿【Ｆ】
 1074,Zaakaa Greaves,茲阿克阿護腿
@@ -1083,20 +1083,20 @@ index,source,target
 1081,Lord F Leggings,領主裹腿【Ｆ】
 1082,Dicto Leg,德伊克歐腿
 1083,Dicto F Leg,德伊克歐腿【Ｆ】
-1084,Diletto Boots,德伊爾艾靴
-1085,Diletto F Boots,德伊爾艾靴【Ｆ】
+1084,Diletto Boots,迪勒特靴
+1085,Diletto F Boots,迪勒特靴【Ｆ】
 1086,Kruss Leg,克烏斯腿
 1087,Kruss F Leg,克烏斯腿【Ｆ】
-1088,Quote Boots,斯烏特艾靴
-1089,Quote F Boots,斯烏特艾靴【Ｆ】
-1090,ウルバヌ Feet,烏爾巴努足
-1091,ウルバヌF Feet,烏爾巴努足【Ｆ】
+1088,Quote Boots,奎特靴
+1089,Quote F Boots,奎特靴【Ｆ】
+1090,ウルバヌ Feet,宇露巴努足
+1091,ウルバヌF Feet,宇露巴努足【Ｆ】
 1092,マグヌス Feet,瑪古努斯足
 1093,マグヌスF Feet,瑪古努斯足【Ｆ】
 1094,ソレルス Feet,索雷魯斯足
 1095,ソレルスF Feet,索雷魯斯足【Ｆ】
-1096,パルフェ Boots,拍爾菲靴
-1097,パルフェF Boots,拍爾菲靴【Ｆ】
+1096,パルフェ Boots,拍露菲靴
+1097,パルフェF Boots,拍露菲靴【Ｆ】
 1098,アスティ Feet,阿斯特足
 1099,アスティF Feet,阿斯特足【Ｆ】
 1100,アガトン Feet,阿加托恩足
@@ -1125,8 +1125,8 @@ index,source,target
 1123,ビリスF Feet,比利斯足【Ｆ】
 1124,ギエール Feet,吉埃爾足
 1125,ギエールF Feet,吉埃爾足【Ｆ】
-1126,カウント Feet,可烏恩托足
-1127,カウントF Feet,可烏恩托足【Ｆ】
+1126,カウント Feet,可宇恩托足
+1127,カウントF Feet,可宇恩托足【Ｆ】
 1128,フュルス Boots,芙尤魯斯靴
 1129,フュルスF Boots,芙尤魯斯靴【Ｆ】
 1130,Text Feet・Purple,文書足・紫
@@ -1151,12 +1151,12 @@ index,source,target
 1149,フィーブルF Feet,芙布魯足【Ｆ】
 1150,ヴァラク Feet,芙拉庫足
 1151,ヴァラクF Feet,芙拉庫足【Ｆ】
-1152,ネウロン Boots,涅烏羅恩靴
-1153,ネウロンF Boots,涅烏羅恩靴【Ｆ】
-1154,Arge Feet,阿爾傑足
-1155,Arge F Feet,阿爾傑足【Ｆ】
-1156,Arge Boots,阿爾傑靴
-1157,Arge F Boots,阿爾傑靴【Ｆ】
+1152,ネウロン Boots,奈宇蘿恩靴
+1153,ネウロンF Boots,奈宇蘿恩靴【Ｆ】
+1154,Arge Feet,亞潔足
+1155,Arge F Feet,亞潔足【Ｆ】
+1156,Arge Boots,亞潔靴
+1157,Arge F Boots,亞潔靴【Ｆ】
 1158,Akantor ケマル SP Black,霸龍護腿【ＳＰ】・黑
 1159,Akantor ケマル SP Red,霸龍護腿【ＳＰ】・赤
 1160,Akantor ケマル SP White,霸龍護腿【ＳＰ】・白
@@ -1281,8 +1281,8 @@ index,source,target
 1279,デスモF Leg,德斯莫腿【Ｆ】
 1280,ミスク Boots,米斯庫靴
 1281,ミスクF Boots,米斯庫靴【Ｆ】
-1282,ウーズィ Leg,烏茲腿
-1283,ウーズィF Leg,烏茲腿【Ｆ】
+1282,ウーズィ Leg,宇茲腿
+1283,ウーズィF Leg,宇茲腿【Ｆ】
 1284,レガーメ Leg,雷加梅腿
 1285,レガーメF Leg,雷加梅腿【Ｆ】
 1286,ノット Leg,諾托腿
@@ -1323,8 +1323,8 @@ index,source,target
 1321,Eques FX Greaves,騎士護腿【ＦＸ】
 1322,Eques FX Leggings,騎士裹腿【ＦＸ】
 1323,Noir F Greaves,黑護腿【Ｆ】
-1324,Himeros F Greaves,赫伊姆艾護腿【Ｆ】
-1325,Bureshisu F Greaves,布烏爾艾護腿【Ｆ】
+1324,Himeros F Greaves,希梅蘿護腿【Ｆ】
+1325,Bureshisu F Greaves,布蕾修斯護腿【Ｆ】
 1326,Charien F Leggings,夏里安裹腿【Ｆ】
 1327,Guren Greaves,紅蓮護腿
 1328,Guren F Greaves,紅蓮護腿【Ｆ】
@@ -1389,13 +1389,13 @@ index,source,target
 1387,ヴェロシF Feet,芙羅希足【Ｆ】
 1388,ケプト Feet,凱普托足
 1389,ケプトF Feet,凱普托足【Ｆ】
-1390,ハウット Boots,哈烏托靴
-1391,ハウットF Boots,哈烏托靴【Ｆ】
+1390,ハウット Boots,哈宇托靴
+1391,ハウットF Boots,哈宇托靴【Ｆ】
 1392,ヴェンガ Feet,芙恩加足
 1393,ヴェンガF Feet,芙恩加足【Ｆ】
 1394,スプリン Feet,斯普里恩足
 1395,スプリンF Feet,斯普里恩足【Ｆ】
-1396,マ Sharufu ット,夏爾夫護腿
+1396,マ Sharufu ット,夏露芙護腿
 1397,マシャルF Feet,瑪希亞魯足【Ｆ】
 1398,ペンブル Boots,佩恩布魯靴
 1399,ペンブルF Boots,佩恩布魯靴【Ｆ】
@@ -1492,26 +1492,26 @@ index,source,target
 1490,Rising Leg B,昇腿
 1491,Rider Boots B,騎手靴
 1492,Rising Boots B,昇靴
-1493,Rider Leg R,爾伊德艾腿【Ｒ】
+1493,Rider Leg R,里德腿【Ｒ】
 1494,Rising Leg R,爾伊斯伊腿【Ｒ】
-1495,Rider Boots R,爾伊德艾靴【Ｒ】
+1495,Rider Boots R,里德靴【Ｒ】
 1496,Rising Boots R,爾伊斯伊靴【Ｒ】
 1497,Rider Leg Y,騎手腿
 1498,Rising Leg Y,昇腿
 1499,Rider Boots Y,騎手靴
 1500,Rising Boots Y,昇靴
-1501,Rider Leg G,爾伊德艾腿【Ｇ】
+1501,Rider Leg G,里德腿【Ｇ】
 1502,Rising Leg G,爾伊斯伊腿【Ｇ】
-1503,Rider Boots G,爾伊德艾靴【Ｇ】
+1503,Rider Boots G,里德靴【Ｇ】
 1504,Rising Boots G,爾伊斯伊靴【Ｇ】
 1505,Robust ペイル,剛健護腿
 1506,Robust Fペイル,剛健護腿
 1507,Robust Legs,剛健腿甲
 1508,Robust F Legs,剛健腿甲【Ｆ】
-1509,Kukubo Feet,克烏克烏足
-1510,Kukubo F Feet,克烏克烏足【Ｆ】
-1511,Kukubo Leggings,克烏克烏裹腿
-1512,Kukubo F Leggings,克烏克烏裹腿【Ｆ】
+1509,Kukubo Feet,克克波足
+1510,Kukubo F Feet,克克波足【Ｆ】
+1511,Kukubo Leggings,克克波裹腿
+1512,Kukubo F Leggings,克克波裹腿【Ｆ】
 1513,Falco Greaves,隼護腿
 1514,Falco F Greaves,隼護腿【Ｆ】
 1515,Falco Leggings,隼裹腿
@@ -1596,10 +1596,10 @@ index,source,target
 1594,Steno F Greaves・Red,水竜護腿【Ｆ】・赤
 1595,Steno Leggings・Red,水竜裹腿・赤
 1596,Steno F Leggings・Red,水竜裹腿【Ｆ】・赤
-1597,Jumpin' Feet,傑烏姆伊足
-1598,Jumpin' F Feet,傑烏姆伊足【Ｆ】
-1599,Jumpin' Boots,傑烏姆伊靴
-1600,Jumpin' F Boots,傑烏姆伊靴【Ｆ】
+1597,Jumpin' Feet,朱皮足
+1598,Jumpin' F Feet,朱皮足【Ｆ】
+1599,Jumpin' Boots,朱皮靴
+1600,Jumpin' F Boots,朱皮靴【Ｆ】
 1601,アデュス Greaves,阿杜斯護腿
 1602,アデュスF Greaves,阿杜斯護腿【Ｆ】
 1603,アデュス Leggings,阿杜斯裹腿
@@ -1608,14 +1608,14 @@ index,source,target
 1606,Metenera F Feet,梅特涅拉足【Ｆ】
 1607,Metenera Boots,梅特涅拉靴
 1608,Metenera F Boots,梅特涅拉靴【Ｆ】
-1609,Excelle Greaves,艾克斯艾護腿
-1610,Excelle F Greaves,艾克斯艾護腿【Ｆ】
-1611,Excelle Leggings,艾克斯艾裹腿
-1612,Excelle F Leggings,艾克斯艾裹腿【Ｆ】
-1613,Pupen Greaves,普烏普艾護腿
-1614,Pupen F Greaves,普烏普艾護腿【Ｆ】
-1615,Pupen Leggings,普烏普艾裹腿
-1616,Pupen F Leggings,普烏普艾裹腿【Ｆ】
+1609,Excelle Greaves,克斯賽爾護腿
+1610,Excelle F Greaves,克斯賽爾護腿【Ｆ】
+1611,Excelle Leggings,克斯賽爾裹腿
+1612,Excelle F Leggings,克斯賽爾裹腿【Ｆ】
+1613,Pupen Greaves,普佩護腿
+1614,Pupen F Greaves,普佩護腿【Ｆ】
+1615,Pupen Leggings,普佩裹腿
+1616,Pupen F Leggings,普佩裹腿【Ｆ】
 1617,Moss Covered Greaves,苔覆護腿
 1618,Moss Covered F Greaves,苔覆護腿【Ｆ】
 1619,Moss Covered Leggings,苔覆裹腿
@@ -1653,9 +1653,9 @@ index,source,target
 1651,Ruko F Legs,極龍腿甲【Ｆ】
 1652,Blitz レガース,布伊特護腿
 1653,Blitz Boots,布伊特靴
-1654,Lils Greaves,爾伊爾護腿
+1654,Lils Greaves,莉護腿
 1655,ダミー,(dummy)
-1656,Lils Leggings,爾伊爾裹腿
+1656,Lils Leggings,莉裹腿
 1657,ダミー,(dummy)
 1658,Kagura FX【 Hakama 】,神樂袴【ＦＸ】
 1659,Kamiza FX【 Hakama 】,上座袴【ＦＸ】
@@ -1707,12 +1707,12 @@ index,source,target
 1705,ルルスF Feet,魯魯斯足【Ｆ】
 1706,Nada Boots,恩阿德阿靴
 1707,Nada F Boots,恩阿德阿靴【Ｆ】
-1708,Rosa Feet,爾歐斯阿足
-1709,Rosa F Feet,爾歐斯阿足【Ｆ】
+1708,Rosa Feet,蘿薩足
+1709,Rosa F Feet,蘿薩足【Ｆ】
 1710,Haosu Feet,赫阿斯烏足
 1711,Haosu F Feet,赫阿斯烏足【Ｆ】
-1712,Miru Feet,姆伊爾烏足
-1713,Miru F Feet,姆伊爾烏足【Ｆ】
+1712,Miru Feet,蜜露足
+1713,Miru F Feet,蜜露足【Ｆ】
 1714,Pasu Boots,普阿斯烏靴
 1715,Pasu F Boots,普阿斯烏靴【Ｆ】
 1716,Randa の Hakama・Yellow,爾阿恩阿袴・黄
@@ -1779,24 +1779,24 @@ index,source,target
 1777,Heaven 空F脚着,空脚着天護腿
 1778,Heaven 昇脚着,昇脚着天護腿
 1779,Heaven 昇F脚着,昇脚着天護腿
-1780,Jeamu Feet,傑艾姆烏足
-1781,Jeamu F Feet,傑艾姆烏足【Ｆ】
-1782,Amyusu Feet,阿姆烏斯足
-1783,Amyusu F Feet,阿姆烏斯足【Ｆ】
+1780,Jeamu Feet,傑姆足
+1781,Jeamu F Feet,傑姆足【Ｆ】
+1782,Amyusu Feet,尤斯足
+1783,Amyusu F Feet,尤斯足【Ｆ】
 1784,Clevan Feet,克艾芙阿足
 1785,Clevan F Feet,克艾芙阿足【Ｆ】
-1786,Meterosu Boots,姆艾特艾靴
-1787,Meterosu F Boots,姆艾特艾靴【Ｆ】
+1786,Meterosu Boots,梅特蘿斯靴
+1787,Meterosu F Boots,梅特蘿斯靴【Ｆ】
 1788,Shipureru Feet,夏伊普烏足
 1789,Shipureru F Feet,夏伊普烏足【Ｆ】
-1790,Toresupa Feet,特歐爾艾足
-1791,Toresupa F Feet,特歐爾艾足【Ｆ】
-1792,Suteraru Feet,斯烏特艾足
-1793,Suteraru F Feet,斯烏特艾足【Ｆ】
+1790,Toresupa Feet,托蕾斯拍足
+1791,Toresupa F Feet,托蕾斯拍足【Ｆ】
+1792,Suteraru Feet,斯特拉露足
+1793,Suteraru F Feet,斯特拉露足【Ｆ】
 1794,Hakyura Boots,赫阿克烏靴
 1795,Hakyura F Boots,赫阿克烏靴【Ｆ】
-1796,Orutemo F Feet,歐爾烏特足【Ｆ】
-1797,Orutemo F Boots,歐爾烏特靴【Ｆ】
+1796,Orutemo F Feet,露特莫足【Ｆ】
+1797,Orutemo F Boots,露特莫靴【Ｆ】
 1798,忍の Tabi・陰 SP Yellow,忍の陰足袋【ＳＰ】・黄
 1799,忍の Tabi・陰 SP Red,忍の陰足袋【ＳＰ】・赤
 1800,忍の Tabi・陰 SP Blue,忍の陰足袋【ＳＰ】・青
@@ -1808,17 +1808,17 @@ index,source,target
 1806,K. Lobster Boots SP Blue,王龍蝦靴【ＳＰ】・青
 1807,Aneshisu F Greaves,阿恩艾夏護腿【Ｆ】
 1808,Aneshisu F Leggings,阿恩艾夏裹腿【Ｆ】
-1809,Buran F Greaves,布烏爾阿護腿【Ｆ】
+1809,Buran F Greaves,布拉護腿【Ｆ】
 1810,Zwinger Feet,茲伊恩艾足
 1811,Zwinger Boots,茲伊恩艾靴
 1812,Demon Lord ノ足枷・魁,魔王護腿魁
 1813,童子ノ足枷・魁,童子足枷魁護腿
 1814,Melan F Greaves,紫黑護腿【Ｆ】
 1815,Melan F Leggings,紫黑裹腿【Ｆ】
-1816,Buto F Leg,布烏特歐腿【Ｆ】
-1817,Himeros FX Greaves,赫伊姆艾護腿【ＦＸ】
+1816,Buto F Leg,布托腿【Ｆ】
+1817,Himeros FX Greaves,希梅蘿護腿【ＦＸ】
 1818,Charien FX Leggings,夏里安裹腿【ＦＸ】
-1819,Bureshisu FX Greaves,布烏爾艾護腿【ＦＸ】
+1819,Bureshisu FX Greaves,布蕾修斯護腿【ＦＸ】
 1820,Rathalos LX Greaves,雄火龍護腿
 1821,Rath Soul RX Greaves,火龍魂護腿
 1822,Khezu LX Greaves,奇怪龍護腿
@@ -1853,14 +1853,14 @@ index,source,target
 1851,Rail F Greaves,軌護腿【Ｆ】
 1852,Rail Leggings,軌裹腿
 1853,Rail F Leggings,軌裹腿【Ｆ】
-1854,Rudeos Greaves,爾烏德艾護腿
-1855,Rudeos F Greaves,爾烏德艾護腿【Ｆ】
-1856,Rudeos Leggings,爾烏德艾裹腿
-1857,Rudeos F Leggings,爾烏德艾裹腿【Ｆ】
-1858,Orchesis Greaves,歐爾艾斯護腿
-1859,Orchesis F Greaves,歐爾艾斯護腿【Ｆ】
-1860,Orchesis Leggings,歐爾艾斯裹腿
-1861,Orchesis F Leggings,歐爾艾斯裹腿【Ｆ】
+1854,Rudeos Greaves,露德護腿
+1855,Rudeos F Greaves,露德護腿【Ｆ】
+1856,Rudeos Leggings,露德裹腿
+1857,Rudeos F Leggings,露德裹腿【Ｆ】
+1858,Orchesis Greaves,切西護腿
+1859,Orchesis F Greaves,切西護腿【Ｆ】
+1860,Orchesis Leggings,切西裹腿
+1861,Orchesis F Leggings,切西裹腿【Ｆ】
 1862,フルイト Greaves,芙魯伊托護腿
 1863,フルイトF Greaves,芙魯伊托護腿【Ｆ】
 1864,ゲレオン Greaves,蓋雷歐恩護腿
@@ -1910,11 +1910,11 @@ index,source,target
 1908,Beru Leggings SP Purple,舞雷龍裹腿【ＳＰ】・紫
 1909,Rurudi Boots,魯魯迪靴
 1910,Rurudi Leggings,魯魯迪裹腿
-1911,Arc F Greaves,阿爾護腿【Ｆ】
-1912,Arc F Leggings,阿爾裹腿【Ｆ】
+1911,Arc F Greaves,亞克護腿【Ｆ】
+1912,Arc F Leggings,亞克裹腿【Ｆ】
 1913,Strega FX Greaves,魔女護腿【ＦＸ】
 1914,Strega FX Leggings,魔女裹腿【ＦＸ】
-1915,Rath Heart RX Greaves,爾阿斯艾護腿
+1915,Rath Heart RX Greaves,拉斯赫特護腿
 1916,Rathian LX Greaves,雌火龍護腿
 1917,Vespoid RX Leggings,巨蜂裹腿
 1918,Vespoid LX Leggings,巨蜂裹腿
@@ -1926,11 +1926,11 @@ index,source,target
 1924,フレサ Greaves,芙雷薩護腿
 1925,クラ Beru Greaves,舞雷龍護腿
 1926,シルエラ Greaves,希魯艾拉護腿
-1927,カメ Lea Greaves,爾艾護腿
+1927,カメ Lea Greaves,勒護腿
 1928,ハシント Greaves,哈希恩托護腿
 1929,セレソ Greaves,塞雷索護腿
 1930,オリバ Greaves,歐里巴護腿
-1931,ラウレル Leggings,拉烏雷魯裹腿
+1931,ラウレル Leggings,拉宇蕾露裹腿
 1932,ココ Leggings,科科裹腿
 1933,グラナダ Leggings,古拉納達裹腿
 1934,アトロ Greaves,阿托羅護腿
@@ -2053,18 +2053,18 @@ index,source,target
 2051,ヴェルフィ Leggings,芙魯芙裹腿
 2052,テリオグ Greaves,特里歐古護腿
 2053,テリオグ Leggings,特里歐古裹腿
-2054,Kurossu Feet,克烏爾歐足
-2055,Kurossu F Feet,克烏爾歐足【Ｆ】
-2056,Kurossu Boots,克烏爾歐靴
-2057,Kurossu F Boots,克烏爾歐靴【Ｆ】
+2054,Kurossu Feet,克蘿斯足
+2055,Kurossu F Feet,克蘿斯足【Ｆ】
+2056,Kurossu Boots,克蘿斯靴
+2057,Kurossu F Boots,克蘿斯靴【Ｆ】
 2058,Shieri FX Greaves,夏伊爾伊護腿【ＦＸ】
 2059,Shieri FX Leggings,夏伊爾伊裹腿【ＦＸ】
 2060,Craft FX Boots,工匠靴【ＦＸ】
 2061,Craft FX Leggings,工匠裹腿【ＦＸ】
 2062,Moss Covered FX Greaves,苔覆護腿【ＦＸ】
 2063,Moss Covered FX Leggings,苔覆裹腿【ＦＸ】
-2064,Excelle FX Greaves,艾克斯艾護腿【ＦＸ】
-2065,Excelle FX Leggings,艾克斯艾裹腿【ＦＸ】
+2064,Excelle FX Greaves,克斯賽爾護腿【ＦＸ】
+2065,Excelle FX Leggings,克斯賽爾裹腿【ＦＸ】
 2066,Blue Sky Hakama・True,天空真袴・青
 2067,Welkin Hakama・True,蒼穹真袴
 2068,ビステマ Boots,比斯特瑪靴
@@ -2072,18 +2072,18 @@ index,source,target
 2070,Rath Duo F Leggings,雙火龍裹腿【Ｆ】
 2071,ロークF Greaves,洛可護腿【Ｆ】
 2072,ロークF Leggings,洛可裹腿【Ｆ】
-2073,Buruho F Feet・Blue,布烏爾烏足【Ｆ】・青
-2074,マー Gear F Boots・Blue,瑪爾機甲靴【Ｆ】・青
+2073,Buruho F Feet・Blue,布露霍足【Ｆ】・青
+2074,マー Gear F Boots・Blue,瑪靴【Ｆ】・青
 2075,Gogomoa FX Greaves,跳緋獸護腿【ＦＸ】
 2076,Gogomoa FX Leggings,跳緋獸裹腿【ＦＸ】
-2077,Kuraaji FX Greaves,克烏爾阿護腿【ＦＸ】
-2078,Kuraaji FX Leggings,克烏爾阿裹腿【ＦＸ】
+2077,Kuraaji FX Greaves,克拉護腿【ＦＸ】
+2078,Kuraaji FX Leggings,克拉裹腿【ＦＸ】
 2079,Zaakaa FX Greaves,茲阿克阿護腿【ＦＸ】
 2080,Chaser FX Leggings,追撃裹腿【ＦＸ】
 2081,Abitto FZ Feet,阿比托足【ＦＺ】
 2082,Abitto FZ Boots,阿比托靴【ＦＺ】
-2083,Arge FZ Feet,阿爾傑足【ＦＺ】
-2084,Arge FZ Boots,阿爾傑靴【ＦＺ】
+2083,Arge FZ Feet,亞潔足【ＦＺ】
+2084,Arge FZ Boots,亞潔靴【ＦＺ】
 2085,Camarera FZ Feet,可瑪蕾拉足【ＦＺ】
 2086,Camarera FZ Boots,可瑪蕾拉靴【ＦＺ】
 2087,Metenera FZ Feet,梅特涅拉足【ＦＺ】
@@ -2122,8 +2122,8 @@ index,source,target
 2120,White 鳥ノ具足・魁,鳥具足魁護腿・白
 2121,Kakabu Feet,克阿克阿足
 2122,Kakabu Leggings,克阿克阿裹腿
-2123,Onero Greaves,歐恩艾爾護腿
-2124,Onero Leggings,歐恩艾爾裹腿
+2123,Onero Greaves,奈蘿護腿
+2124,Onero Leggings,奈蘿裹腿
 2125,Jyaga Greaves,傑阿格阿護腿
 2126,Jyaga Leggings,傑阿格阿裹腿
 2127,Omet Feet・Black,歐梅特足・黑
@@ -2158,12 +2158,12 @@ index,source,target
 2156,無想の Hakama・魁,無想の袴魁
 2157,俊激の履,俊激の履護腿
 2158,俊激の履・魁,俊激の履護腿魁
-2159,Suifudo Feet,斯烏芙烏足
-2160,Suifudo F Feet,斯烏芙烏足【Ｆ】
-2161,Merodesu Feet,姆艾爾歐足
-2162,Merodesu F Feet,姆艾爾歐足【Ｆ】
-2163,Sumatosu Feet,斯烏姆阿足
-2164,Sumatosu F Feet,斯烏姆阿足【Ｆ】
+2159,Suifudo Feet,斯芙多足
+2160,Suifudo F Feet,斯芙多足【Ｆ】
+2161,Merodesu Feet,梅蘿德斯足
+2162,Merodesu F Feet,梅蘿德斯足【Ｆ】
+2163,Sumatosu Feet,斯瑪托斯足
+2164,Sumatosu F Feet,斯瑪托斯足【Ｆ】
 2165,Passhio Boots,普阿斯伊靴
 2166,Passhio F Boots,普阿斯伊靴【Ｆ】
 2167,Cultu Feet・Ash,庫爾圖足・灰
@@ -2237,14 +2237,14 @@ index,source,target
 2235,Jess HC Leggings,傑斯裹腿【ＨＣ】
 2236,Eques HC Greaves,騎士護腿【ＨＣ】
 2237,Eques HC Leggings,騎士裹腿【ＨＣ】
-2238,Kuraaji HC Greaves,克烏爾阿護腿【ＨＣ】
-2239,Kuraaji HC Leggings,克烏爾阿裹腿【ＨＣ】
-2240,Melan FY Greaves,姆艾爾阿護腿
+2238,Kuraaji HC Greaves,克拉護腿【ＨＣ】
+2239,Kuraaji HC Leggings,克拉裹腿【ＨＣ】
+2240,Melan FY Greaves,梅拉護腿
 2241,Melan HC Greaves,紫黑護腿【ＨＣ】
-2242,Melan FY Leggings,姆艾爾阿裹腿
+2242,Melan FY Leggings,梅拉裹腿
 2243,Melan HC Leggings,紫黑裹腿【ＨＣ】
-2244,Harubadaa FY Greaves,赫阿爾烏護腿
-2245,Harubadaa HC Greaves,赫阿爾烏護腿【ＨＣ】
+2244,Harubadaa FY Greaves,哈露巴達護腿
+2245,Harubadaa HC Greaves,哈露巴達護腿【ＨＣ】
 2246,Tracker FY Leggings,特阿克艾裹腿
 2247,Tracker HC Leggings,追蹤裹腿【ＨＣ】
 2248,Omet FZ Feet・Black,歐梅特足【ＦＺ】・黑
@@ -2337,21 +2337,21 @@ index,source,target
 2335,Comrade Boots SP White Red,戰友靴【ＳＰ】・白赤
 2336,Comrade Boots SP White Blue,戰友靴【ＳＰ】・白青
 2337,Comrade Boots SP White Yellow,戰友靴【ＳＰ】・白黄
-2338,Rubellite Greaves,爾烏布艾護腿
-2339,Rubellite F Greaves,爾烏布艾護腿【Ｆ】
-2340,Rubellite FX Greaves,爾烏布艾護腿【ＦＸ】
-2341,ラズライト Greaves,拉茲拉伊托護腿
-2342,ラズライトF Greaves,拉茲拉伊托護腿【Ｆ】
-2343,ラズライトFX Greaves,拉茲拉伊托護腿【ＦＸ】
-2344,Zircon Greaves,茲伊爾歐護腿
-2345,Zircon F Greaves,茲伊爾歐護腿【Ｆ】
-2346,Zircon FX Greaves,茲伊爾歐護腿【ＦＸ】
+2338,Rubellite Greaves,露貝爾特護腿
+2339,Rubellite F Greaves,露貝爾特護腿【Ｆ】
+2340,Rubellite FX Greaves,露貝爾特護腿【ＦＸ】
+2341,ラズライト Greaves,拉茲拉伊護腿
+2342,ラズライトF Greaves,拉茲拉伊護腿【Ｆ】
+2343,ラズライトFX Greaves,拉茲拉伊護腿【ＦＸ】
+2344,Zircon Greaves,茲古護腿
+2345,Zircon F Greaves,茲古護腿【Ｆ】
+2346,Zircon FX Greaves,茲古護腿【ＦＸ】
 2347,Spinel Greaves,斯伊恩艾護腿
 2348,Spinel F Greaves,斯伊恩艾護腿【Ｆ】
 2349,Spinel FX Greaves,斯伊恩艾護腿【ＦＸ】
-2350,Pyrope Greaves,普歐普艾護腿
-2351,Pyrope F Greaves,普歐普艾護腿【Ｆ】
-2352,Pyrope FX Greaves,普歐普艾護腿【ＦＸ】
+2350,Pyrope Greaves,蘿佩護腿
+2351,Pyrope F Greaves,蘿佩護腿【Ｆ】
+2352,Pyrope FX Greaves,蘿佩護腿【ＦＸ】
 2353,アイオラ Greaves,阿伊歐拉護腿
 2354,アイオラF Greaves,阿伊歐拉護腿【Ｆ】
 2355,アイオラFX Greaves,阿伊歐拉護腿【ＦＸ】
@@ -2364,9 +2364,9 @@ index,source,target
 2362,Citrine Leggings,克伊特伊裹腿
 2363,Citrine F Leggings,克伊特伊裹腿【Ｆ】
 2364,Citrine FX Leggings,克伊特伊裹腿【ＦＸ】
-2365,Peridot Leggings,普艾爾伊裹腿
-2366,Peridot F Leggings,普艾爾伊裹腿【Ｆ】
-2367,Peridot FX Leggings,普艾爾伊裹腿【ＦＸ】
+2365,Peridot Leggings,佩里多裹腿
+2366,Peridot F Leggings,佩里多裹腿【Ｆ】
+2367,Peridot FX Leggings,佩里多裹腿【ＦＸ】
 2368,Turquoise Leggings,緑松石裹腿
 2369,Turquoise F Leggings,緑松石裹腿【Ｆ】
 2370,Turquoise FX Leggings,緑松石裹腿【ＦＸ】
@@ -2378,26 +2378,26 @@ index,source,target
 2376,式部ノ Hakama・魁,式部魁袴
 2377,式部ノ Hakama・Smart,機靈袴
 2378,式部ノ Hakama・Flower,芙歐沃艾袴
-2379,Aruru Feet,阿爾烏爾足
-2380,Aruru F Feet,阿爾烏爾足【Ｆ】
-2381,Aruru FY Feet,阿爾烏爾足
-2382,Aruru HC Feet,阿爾烏爾足【ＨＣ】
-2383,Aruru Leggings,阿爾烏爾裹腿
-2384,Aruru F Leggings,阿爾烏爾裹腿【Ｆ】
-2385,Aruru FY Leggings,阿爾烏爾裹腿
-2386,Aruru HC Leggings,阿爾烏爾裹腿【ＨＣ】
-2387,Oorowa Greaves,歐爾歐沃護腿
-2388,Oorowa F Greaves,歐爾歐沃護腿【Ｆ】
-2389,Oorowa FY Greaves,歐爾歐沃護腿
-2390,Oorowa HC Greaves,歐爾歐沃護腿【ＨＣ】
-2391,Oorowa Leggings,歐爾歐沃裹腿
-2392,Oorowa F Leggings,歐爾歐沃裹腿【Ｆ】
-2393,Oorowa FY Leggings,歐爾歐沃裹腿
-2394,Oorowa HC Leggings,歐爾歐沃裹腿【ＨＣ】
-2395,Onero F Greaves,歐恩艾爾護腿【Ｆ】
-2396,Onero F Leggings,歐恩艾爾裹腿【Ｆ】
-2397,Diru FY Greaves,德伊爾烏護腿
-2398,Diru FY Leggings,德伊爾烏裹腿
+2379,Aruru Feet,露露足
+2380,Aruru F Feet,露露足【Ｆ】
+2381,Aruru FY Feet,露露足
+2382,Aruru HC Feet,露露足【ＨＣ】
+2383,Aruru Leggings,露露裹腿
+2384,Aruru F Leggings,露露裹腿【Ｆ】
+2385,Aruru FY Leggings,露露裹腿
+2386,Aruru HC Leggings,露露裹腿【ＨＣ】
+2387,Oorowa Greaves,烏蘿瓦護腿
+2388,Oorowa F Greaves,烏蘿瓦護腿【Ｆ】
+2389,Oorowa FY Greaves,烏蘿瓦護腿
+2390,Oorowa HC Greaves,烏蘿瓦護腿【ＨＣ】
+2391,Oorowa Leggings,烏蘿瓦裹腿
+2392,Oorowa F Leggings,烏蘿瓦裹腿【Ｆ】
+2393,Oorowa FY Leggings,烏蘿瓦裹腿
+2394,Oorowa HC Leggings,烏蘿瓦裹腿【ＨＣ】
+2395,Onero F Greaves,奈蘿護腿【Ｆ】
+2396,Onero F Leggings,奈蘿裹腿【Ｆ】
+2397,Diru FY Greaves,迪露護腿
+2398,Diru FY Leggings,迪露裹腿
 2399,Strega HC Greaves,魔女護腿【ＨＣ】
 2400,Strega HC Leggings,魔女裹腿【ＨＣ】
 2401,Zaakaa HC Greaves,茲阿克阿護腿【ＨＣ】
@@ -2420,11 +2420,11 @@ index,source,target
 2418,クロノス Boots,庫羅諾斯靴
 2419,フレイ Leggings,芙雷伊裹腿
 2420,クロノス Leggings,庫羅諾斯裹腿
-2421,Himeros HC Greaves,赫伊姆艾護腿【ＨＣ】
-2422,Bureshisu HC Greaves,布烏爾艾護腿【ＨＣ】
+2421,Himeros HC Greaves,希梅蘿護腿【ＨＣ】
+2422,Bureshisu HC Greaves,布蕾修斯護腿【ＨＣ】
 2423,Charien HC Leggings,夏里安裹腿【ＨＣ】
-2424,Buran FY Greaves,布烏爾阿護腿
-2425,Buran HC Greaves,布烏爾阿護腿【ＨＣ】
+2424,Buran FY Greaves,布拉護腿
+2425,Buran HC Greaves,布拉護腿【ＨＣ】
 2426,Gypceros LX Greaves,毒怪鳥護腿
 2427,Ceanataur LX Greaves,鎌蟹護腿
 2428,Tigrex LX Greaves,轟龍護腿
@@ -2432,7 +2432,7 @@ index,source,target
 2430,Gypceros RX Greaves,毒怪鳥護腿
 2431,Ceanataur RX Greaves,鎌蟹護腿
 2432,Espinas RX Heel,棘龍踵
-2433,Monodevil RX Leggings,姆歐恩歐裹腿
+2433,Monodevil RX Leggings,莫諾德薇裹腿
 2434,Cayssis Feet Water,凱西斯足・水
 2435,Cayssis F Feet Water,凱西斯足【Ｆ】・水
 2436,Cayssis FZ Feet Water,凱西斯足【ＦＺ】・水
@@ -2527,12 +2527,12 @@ index,source,target
 2525,Weber F Leggings,韋伯裹腿【Ｆ】
 2526,Gilbert Leggings,吉伯特裹腿
 2527,Gilbert F Leggings,吉伯特裹腿【Ｆ】
-2528,Regyukusu F Feet,爾艾格烏足【Ｆ】
-2529,Regyukusu F Boots,爾艾格烏靴【Ｆ】
+2528,Regyukusu F Feet,蕾尤克斯足【Ｆ】
+2529,Regyukusu F Boots,蕾尤克斯靴【Ｆ】
 2530,Garuda FZ Leg,迦樓羅腿【ＦＺ】
 2531,Garuda FZ Boots,迦樓羅靴【ＦＺ】
-2532,Feral FZ Leg,芙艾爾阿腿【ＦＺ】
-2533,Feral FZ Boots,芙艾爾阿靴【ＦＺ】
+2532,Feral FZ Leg,菲拉腿【ＦＺ】
+2533,Feral FZ Boots,菲拉靴【ＦＺ】
 2534,Pandeum FZ Leg,普阿恩艾腿【ＦＺ】
 2535,Pandeum FZ Boots,普阿恩艾靴【ＦＺ】
 2536,Dian FZ Leg,德伊恩腿【ＦＺ】
@@ -2543,14 +2543,14 @@ index,source,target
 2541,Flower FZ Boots,芙歐沃艾靴【ＦＺ】
 2542,Fias FZ Leg,芙伊斯腿【ＦＺ】
 2543,Fias FZ Boots,芙伊斯靴【ＦＺ】
-2544,Viruto FZ Leg,芙伊爾烏腿【ＦＺ】
-2545,Viruto FZ Boots,芙伊爾烏靴【ＦＺ】
-2546,Tune FZ Leg,特烏恩艾腿【ＦＺ】
+2544,Viruto FZ Leg,薇露托腿【ＦＺ】
+2545,Viruto FZ Boots,薇露托靴【ＦＺ】
+2546,Tune FZ Leg,圖奈腿【ＦＺ】
 2547,Schnite FZ Boots,施伊特艾靴【ＦＺ】
 2548,Dicto FZ Leg,德伊克歐腿【ＦＺ】
-2549,Diletto FZ Boots,德伊爾艾靴【ＦＺ】
+2549,Diletto FZ Boots,迪勒特靴【ＦＺ】
 2550,Kruss FZ Leg,克烏斯腿【ＦＺ】
-2551,Quote FZ Boots,斯烏特艾靴【ＦＺ】
+2551,Quote FZ Boots,奎特靴【ＦＺ】
 2552,Starina FZ Leg,斯塔莉娜腿【ＦＺ】
 2553,Starina FZ Boots,斯塔莉娜靴【ＦＺ】
 2554,Loose FZ Leg,寬鬆腿【ＦＺ】
@@ -2599,10 +2599,10 @@ index,source,target
 2597,日光F【具足】,日光具足【Ｆ】
 2598,Wadatsumi F【具足】,綿津見具足【Ｆ】
 2599,Okami F【具足】,狼具足【Ｆ】
-2600,チャチャブピエーデ,奇亞奇亞布皮護腿
+2600,チャチャブピエーデ,夏夏布皮護腿
 2601,チャチャブク Loose,寬鬆護腿
-2602,チャチャブタロン,奇亞奇亞布塔護腿
-2603,チャチャブバイン,奇亞奇亞布巴護腿
+2602,チャチャブタロン,夏夏布塔護腿
+2603,チャチャブバイン,夏夏布巴護腿
 2604,トリート Greaves,托里托護腿
 2605,トリートF Greaves,托里托護腿【Ｆ】
 2606,トリートFY Greaves,托里托護腿
@@ -2619,14 +2619,14 @@ index,source,target
 2617,Kobaruta F Leggings,克歐布阿裹腿【Ｆ】
 2618,Kobaruta FY Leggings,克歐布阿裹腿
 2619,Kobaruta HC Leggings,克歐布阿裹腿【ＨＣ】
-2620,Dogumea Greaves,德歐格烏護腿
-2621,Dogumea F Greaves,德歐格烏護腿【Ｆ】
-2622,Dogumea FY Greaves,德歐格烏護腿
-2623,Dogumea HC Greaves,德歐格烏護腿【ＨＣ】
-2624,Dogumea Leggings,德歐格烏裹腿
-2625,Dogumea F Leggings,德歐格烏裹腿【Ｆ】
-2626,Dogumea FY Leggings,德歐格烏裹腿
-2627,Dogumea HC Leggings,德歐格烏裹腿【ＨＣ】
+2620,Dogumea Greaves,多古梅護腿
+2621,Dogumea F Greaves,多古梅護腿【Ｆ】
+2622,Dogumea FY Greaves,多古梅護腿
+2623,Dogumea HC Greaves,多古梅護腿【ＨＣ】
+2624,Dogumea Leggings,多古梅裹腿
+2625,Dogumea F Leggings,多古梅裹腿【Ｆ】
+2626,Dogumea FY Leggings,多古梅裹腿
+2627,Dogumea HC Leggings,多古梅裹腿【ＨＣ】
 2628,Madaru Greaves,姆阿德阿護腿
 2629,Madaru F Greaves,姆阿德阿護腿【Ｆ】
 2630,Madaru FY Greaves,姆阿德阿護腿
@@ -2649,9 +2649,9 @@ index,source,target
 2647,Kakabu F Leggings,克阿克阿裹腿【Ｆ】
 2648,Kakabu FY Leggings,克阿克阿裹腿
 2649,Kakabu HC Leggings,克阿克阿裹腿【ＨＣ】
-2650,Gospel FY Greaves,格歐斯艾護腿
+2650,Gospel FY Greaves,戈佩護腿
 2651,Gospel HC Greaves,福音護腿【ＨＣ】
-2652,Gospel FY Leggings,格歐斯艾裹腿
+2652,Gospel FY Leggings,戈佩裹腿
 2653,Gospel HC Leggings,福音裹腿【ＨＣ】
 2654,Zodic Feet・Blue,黄道足・青
 2655,Zodic F Feet・Blue,黄道足【Ｆ】・青
@@ -2730,13 +2730,13 @@ index,source,target
 2728,剣士ランク５,拉恩庫護腿
 2729,剣士ランク６,拉恩庫護腿
 2730,剣士ランク７,拉恩庫護腿
-2731,ガンランク１,加恩拉恩庫護腿
-2732,ガンランク２,加恩拉恩庫護腿
-2733,ガンランク３,加恩拉恩庫護腿
-2734,ガンランク４,加恩拉恩庫護腿
-2735,ガンランク５,加恩拉恩庫護腿
-2736,ガンランク６,加恩拉恩庫護腿
-2737,ガンランク７,加恩拉恩庫護腿
+2731,ガンランク１,加恩拉恩護腿
+2732,ガンランク２,加恩拉恩護腿
+2733,ガンランク３,加恩拉恩護腿
+2734,ガンランク４,加恩拉恩護腿
+2735,ガンランク５,加恩拉恩護腿
+2736,ガンランク６,加恩拉恩護腿
+2737,ガンランク７,加恩拉恩護腿
 2738,デュスノF Greaves,德尤斯諾護腿【Ｆ】
 2739,デュスノF Leggings,德尤斯諾裹腿【Ｆ】
 2740,Blitz FXレガース,布伊特護腿
@@ -2817,8 +2817,8 @@ index,source,target
 2815,Blaze HC Feet,烈焔足【ＨＣ】
 2816,Blaze FZ Boots,烈焔靴【ＦＺ】
 2817,Blaze HC Boots,烈焔靴【ＨＣ】
-2818,Arge HC Feet,阿爾傑足【ＨＣ】
-2819,Arge HC Boots,阿爾傑靴【ＨＣ】
+2818,Arge HC Feet,亞潔足【ＨＣ】
+2819,Arge HC Boots,亞潔靴【ＨＣ】
 2820,Camarera HC Feet,可瑪蕾拉足【ＨＣ】
 2821,Camarera HC Boots,可瑪蕾拉靴【ＨＣ】
 2822,Metenera HC Feet,梅特涅拉足【ＨＣ】
@@ -2879,10 +2879,10 @@ index,source,target
 2877,Abiorugu HS Leggings,獰龍裹腿【ＨＳ】
 2878,Kuaru HS Greaves,晶龍護腿【ＨＳ】
 2879,Kuaru HS Leggings,晶龍裹腿【ＨＳ】
-2880,Lils F Greaves,爾伊爾護腿【Ｆ】
-2881,Lils F Leggings,爾伊爾裹腿【Ｆ】
-2882,Lils FX Greaves,爾伊爾護腿【ＦＸ】
-2883,Lils FX Leggings,爾伊爾裹腿【ＦＸ】
+2880,Lils F Greaves,莉護腿【Ｆ】
+2881,Lils F Leggings,莉裹腿【Ｆ】
+2882,Lils FX Greaves,莉護腿【ＦＸ】
+2883,Lils FX Leggings,莉裹腿【ＦＸ】
 2884,Zodic HS Feet・Blue,黄道足【ＨＳ】・青
 2885,Zodic HS Boots・Blue,黄道靴【ＨＳ】・青
 2886,Zodic HS Feet・Tea,黄道足【ＨＳ】・茶
@@ -3019,10 +3019,10 @@ index,source,target
 3017,気弾FZ【具足】・Black,気弾具足【ＦＺ】・黑
 3018,気弾HC【具足】・Black,気弾具足【ＨＣ】・黑
 3019,気弾HS【具足】・Black,気弾具足【ＨＳ】・黑
-3020,Algol F Greaves,阿爾歐爾護腿【Ｆ】
-3021,Algol FX Greaves,阿爾歐爾護腿【ＦＸ】
-3022,Algol F Leggings,阿爾歐爾裹腿【Ｆ】
-3023,Algol FX Leggings,阿爾歐爾裹腿【ＦＸ】
+3020,Algol F Greaves,戈護腿【Ｆ】
+3021,Algol FX Greaves,戈護腿【ＦＸ】
+3022,Algol F Leggings,戈裹腿【Ｆ】
+3023,Algol FX Leggings,戈裹腿【ＦＸ】
 3024,抜胴【具足】,抜胴具足
 3025,抜胴F【具足】,抜胴具足【Ｆ】
 3026,抜胴FZ【具足】,抜胴具足【ＦＺ】
@@ -3195,8 +3195,8 @@ index,source,target
 3193,Axel HSタイツ・Purple,輪軸護腿・紫
 3194,剣士ランク8,拉恩庫護腿
 3195,剣士ランク9,拉恩庫護腿
-3196,ガンランク8,加恩拉恩庫護腿
-3197,ガンランク9,加恩拉恩庫護腿
+3196,ガンランク8,加恩拉恩護腿
+3197,ガンランク9,加恩拉恩護腿
 3198,ダミー,(dummy)
 3199,ダミー,(dummy)
 3200,ダミー,(dummy)
@@ -3332,8 +3332,8 @@ index,source,target
 3330,ダミー,(dummy)
 3331,ダミー,(dummy)
 3332,ダミー,(dummy)
-3333,Roses G Greaves,爾歐斯艾護腿【Ｇ】
-3334,Roses G Leggings,爾歐斯艾裹腿【Ｇ】
+3333,Roses G Greaves,蘿賽護腿【Ｇ】
+3334,Roses G Leggings,蘿賽裹腿【Ｇ】
 3335,シェルカGレッグ,希魯可護腿
 3336,チェスカG Boots,奇斯可靴【Ｇ】
 3337,ロアースGレッグ,羅阿斯護腿
@@ -3348,22 +3348,22 @@ index,source,target
 3346,Green 竜ノ Haori FZ【脛当】,脛当竜護腿【ＦＺ】・緑
 3347,Green 竜ノ Haori HC【脛当】,脛当竜護腿【ＨＣ】・緑
 3348,Green 竜ノ Haori HS【脛当】,脛当竜護腿【ＨＳ】・緑
-3349,Ukon キック,烏克歐恩護腿
-3350,Ukon Fキック,烏克歐恩護腿
-3351,Ukon FZキック,烏克歐恩護腿
-3352,Ukon HCキック,烏克歐恩護腿
-3353,Ukon Boots,烏克歐恩靴
-3354,Ukon F Boots,烏克歐恩靴【Ｆ】
-3355,Ukon FZ Boots,烏克歐恩靴【ＦＺ】
-3356,Ukon HC Boots,烏克歐恩靴【ＨＣ】
-3357,Ukon HSキック,烏克歐恩護腿
-3358,Ukon GSキック,烏克歐恩護腿
-3359,Ukon HS Boots,烏克歐恩靴【ＨＳ】
-3360,Ukon GS Boots,烏克歐恩靴【ＧＳ】
+3349,Ukon キック,古護腿
+3350,Ukon Fキック,古護腿
+3351,Ukon FZキック,古護腿
+3352,Ukon HCキック,古護腿
+3353,Ukon Boots,古靴
+3354,Ukon F Boots,古靴【Ｆ】
+3355,Ukon FZ Boots,古靴【ＦＺ】
+3356,Ukon HC Boots,古靴【ＨＣ】
+3357,Ukon HSキック,古護腿
+3358,Ukon GSキック,古護腿
+3359,Ukon HS Boots,古靴【ＨＳ】
+3360,Ukon GS Boots,古靴【ＧＳ】
 3361,Green 竜ノ具足GS【脛当】,脛当竜具足護腿・緑
 3362,Green 竜ノ Haori GS【脛当】,脛当竜護腿【ＧＳ】・緑
-3363,Roses GF Greaves,爾歐斯艾護腿【ＧＦ】
-3364,Roses GF Leggings,爾歐斯艾裹腿【ＧＦ】
+3363,Roses GF Greaves,蘿賽護腿【ＧＦ】
+3364,Roses GF Leggings,蘿賽裹腿【ＧＦ】
 3365,ダミー,(dummy)
 3366,ダミー,(dummy)
 3367,Magos Feet・Yellow,瑪戈斯足・黄
@@ -3534,10 +3534,10 @@ index,source,target
 3532,Knight King Legs GN HC White,騎士王腿甲【ＨＣ】・白
 3533,Knight King Legs GN HS White,騎士王腿甲【ＨＳ】・白
 3534,Knight King Legs GN GS White,騎士王腿甲【ＧＳ】・白
-3535,ヴェルフFZ Greaves,維爾夫護腿【ＦＺ】
-3536,ヴェルフHC Greaves,維爾夫護腿【ＨＣ】
-3537,ヴェルフFZ Leggings,維爾夫裹腿【ＦＺ】
-3538,ヴェルフHC Leggings,維爾夫裹腿【ＨＣ】
+3535,ヴェルフFZ Greaves,薇露芙護腿【ＦＺ】
+3536,ヴェルフHC Greaves,薇露芙護腿【ＨＣ】
+3537,ヴェルフFZ Leggings,薇露芙裹腿【ＦＺ】
+3538,ヴェルフHC Leggings,薇露芙裹腿【ＨＣ】
 3539,テリオグFZ Greaves,特里歐古護腿【ＦＺ】
 3540,テリオグHC Greaves,特里歐古護腿【ＨＣ】
 3541,テリオグFZ Leggings,特里歐古裹腿【ＦＺ】
@@ -3612,12 +3612,12 @@ index,source,target
 3610,Paria G Leggings,呑龍裹腿【Ｇ】
 3611,Paria GF Leggings,呑龍裹腿【ＧＦ】
 3612,Paria GX Leggings,呑龍裹腿【ＧＸ】
-3613,Torpedo G Greaves,特歐爾艾護腿【Ｇ】
-3614,Torpedo GF Greaves,特歐爾艾護腿【ＧＦ】
-3615,Torpedo GX Greaves,特歐爾艾護腿【ＧＸ】
-3616,Torpedo G Leggings,特歐爾艾裹腿【Ｇ】
-3617,Torpedo GF Leggings,特歐爾艾裹腿【ＧＦ】
-3618,Torpedo GX Leggings,特歐爾艾裹腿【ＧＸ】
+3613,Torpedo G Greaves,托佩多護腿【Ｇ】
+3614,Torpedo GF Greaves,托佩多護腿【ＧＦ】
+3615,Torpedo GX Greaves,托佩多護腿【ＧＸ】
+3616,Torpedo G Leggings,托佩多裹腿【Ｇ】
+3617,Torpedo GF Leggings,托佩多裹腿【ＧＦ】
+3618,Torpedo GX Leggings,托佩多裹腿【ＧＸ】
 3619,Lavasioth G Greaves,熔岩龍護腿【Ｇ】
 3620,Lavasioth GF Greaves,熔岩龍護腿【ＧＦ】
 3621,Lavasioth GX Greaves,熔岩龍護腿【ＧＸ】
@@ -3778,10 +3778,10 @@ index,source,target
 3776,日光G [Greaves 】,日光護腿【Ｇ】
 3777,Wadatsumi G [Greaves 】,綿津見護腿【Ｇ】
 3778,Okami G [Greaves 】,狼護腿【Ｇ】
-3779,Lils G Greaves,爾伊爾護腿【Ｇ】
-3780,Lils G Leggings,爾伊爾裹腿【Ｇ】
-3781,Algol G Greaves,阿爾歐爾護腿【Ｇ】
-3782,Algol G Leggings,阿爾歐爾裹腿【Ｇ】
+3779,Lils G Greaves,莉護腿【Ｇ】
+3780,Lils G Leggings,莉裹腿【Ｇ】
+3781,Algol G Greaves,戈護腿【Ｇ】
+3782,Algol G Leggings,戈裹腿【Ｇ】
 3783,エミットG Greaves,艾米托護腿【Ｇ】
 3784,エミットG Leggings,艾米托裹腿【Ｇ】
 3785,Diboa G Greaves,迪博阿護腿【Ｇ】
@@ -3792,8 +3792,8 @@ index,source,target
 3790,ハーデス Boots,哈德斯靴
 3791,レアー Leggings,雷阿裹腿
 3792,ハーデス Leggings,哈德斯裹腿
-3793,Roses GX Greaves,爾歐斯艾護腿【ＧＸ】
-3794,Roses GX Leggings,爾歐斯艾裹腿【ＧＸ】
+3793,Roses GX Greaves,蘿賽護腿【ＧＸ】
+3794,Roses GX Leggings,蘿賽裹腿【ＧＸ】
 3795,Strega G Greaves,魔女護腿【Ｇ】
 3796,Strega GF Greaves,魔女護腿【ＧＦ】
 3797,Strega GX Greaves,魔女護腿【ＧＸ】
@@ -3957,12 +3957,12 @@ index,source,target
 3955,Gougarf HS Greaves,鬥獸護腿【ＨＳ】
 3956,Gougarf FX Leggings,鬥獸裹腿【ＦＸ】
 3957,Gougarf HS Leggings,鬥獸裹腿【ＨＳ】
-3958,Regyukusu HC Feet,爾艾格烏足【ＨＣ】
-3959,Regyukusu HS Feet,爾艾格烏足【ＨＳ】
-3960,Regyukusu GS Feet,爾艾格烏足【ＧＳ】
-3961,Regyukusu HC Boots,爾艾格烏靴【ＨＣ】
-3962,Regyukusu HS Boots,爾艾格烏靴【ＨＳ】
-3963,Regyukusu GS Boots,爾艾格烏靴【ＧＳ】
+3958,Regyukusu HC Feet,蕾尤克斯足【ＨＣ】
+3959,Regyukusu HS Feet,蕾尤克斯足【ＨＳ】
+3960,Regyukusu GS Feet,蕾尤克斯足【ＧＳ】
+3961,Regyukusu HC Boots,蕾尤克斯靴【ＨＣ】
+3962,Regyukusu HS Boots,蕾尤克斯靴【ＨＳ】
+3963,Regyukusu GS Boots,蕾尤克斯靴【ＧＳ】
 3964,Pistis HC Feet,普伊斯伊足【ＨＣ】
 3965,Pistis HS Feet,普伊斯伊足【ＨＳ】
 3966,Pistis GS Feet,普伊斯伊足【ＧＳ】
@@ -4169,10 +4169,10 @@ index,source,target
 4167,ダミー,(dummy)
 4168,ダミー,(dummy)
 4169,ダミー,(dummy)
-4170,ヴェルフHS Greaves,維爾夫護腿【ＨＳ】
-4171,ヴェルフGS Greaves,維爾夫護腿【ＧＳ】
-4172,ヴェルフHS Leggings,維爾夫裹腿【ＨＳ】
-4173,ヴェルフGS Leggings,維爾夫裹腿【ＧＳ】
+4170,ヴェルフHS Greaves,薇露芙護腿【ＨＳ】
+4171,ヴェルフGS Greaves,薇露芙護腿【ＧＳ】
+4172,ヴェルフHS Leggings,薇露芙裹腿【ＨＳ】
+4173,ヴェルフGS Leggings,薇露芙裹腿【ＧＳ】
 4174,テリオグHS Greaves,特里歐古護腿【ＨＳ】
 4175,テリオグGS Greaves,特里歐古護腿【ＧＳ】
 4176,テリオグHS Leggings,特里歐古裹腿【ＨＳ】
@@ -4241,22 +4241,22 @@ index,source,target
 4239,Stroma F Leggings,基質裹腿【Ｆ】
 4240,Stroma FX Leggings,基質裹腿【ＦＸ】
 4241,Stroma G Leggings,基質裹腿【Ｇ】
-4242,Plunder G Greaves,普烏恩艾護腿【Ｇ】
-4243,Plunder GF Greaves,普烏恩艾護腿【ＧＦ】
-4244,Plunder GX Greaves,普烏恩艾護腿【ＧＸ】
-4245,Plunder G Leggings,普烏恩艾裹腿【Ｇ】
-4246,Plunder GF Leggings,普烏恩艾裹腿【ＧＦ】
-4247,Plunder GX Leggings,普烏恩艾裹腿【ＧＸ】
-4248,Altera Greaves,阿爾艾爾護腿
-4249,Altera F Greaves,阿爾艾爾護腿【Ｆ】
-4250,Altera FX Greaves,阿爾艾爾護腿【ＦＸ】
-4251,Altera G Greaves,阿爾艾爾護腿【Ｇ】
-4252,Altera GF Greaves,阿爾艾爾護腿【ＧＦ】
-4253,Altera Leggings,阿爾艾爾裹腿
-4254,Altera F Leggings,阿爾艾爾裹腿【Ｆ】
-4255,Altera FX Leggings,阿爾艾爾裹腿【ＦＸ】
-4256,Altera G Leggings,阿爾艾爾裹腿【Ｇ】
-4257,Altera GF Leggings,阿爾艾爾裹腿【ＧＦ】
+4242,Plunder G Greaves,露恩德護腿【Ｇ】
+4243,Plunder GF Greaves,露恩德護腿【ＧＦ】
+4244,Plunder GX Greaves,露恩德護腿【ＧＸ】
+4245,Plunder G Leggings,露恩德裹腿【Ｇ】
+4246,Plunder GF Leggings,露恩德裹腿【ＧＦ】
+4247,Plunder GX Leggings,露恩德裹腿【ＧＸ】
+4248,Altera Greaves,特拉護腿
+4249,Altera F Greaves,特拉護腿【Ｆ】
+4250,Altera FX Greaves,特拉護腿【ＦＸ】
+4251,Altera G Greaves,特拉護腿【Ｇ】
+4252,Altera GF Greaves,特拉護腿【ＧＦ】
+4253,Altera Leggings,特拉裹腿
+4254,Altera F Leggings,特拉裹腿【Ｆ】
+4255,Altera FX Leggings,特拉裹腿【ＦＸ】
+4256,Altera G Leggings,特拉裹腿【Ｇ】
+4257,Altera GF Leggings,特拉裹腿【ＧＦ】
 4258,Dragon G Feet,龍足【Ｇ】
 4259,Dragon GF Feet,龍足【ＧＦ】
 4260,Dragon GX Feet,龍足【ＧＸ】
@@ -4833,24 +4833,24 @@ index,source,target
 4831,Garuda HS Boots,迦樓羅靴【ＨＳ】
 4832,Garuda GS Boots,迦樓羅靴【ＧＳ】
 4833,Garuda GP Boots,迦樓羅靴【ＧＰ】
-4834,Feral HS Leg,芙艾爾阿腿【ＨＳ】
-4835,Feral GS Leg,芙艾爾阿腿【ＧＳ】
-4836,Feral GP Leg,芙艾爾阿腿【ＧＰ】
-4837,Feral HS Boots,芙艾爾阿靴【ＨＳ】
-4838,Feral GS Boots,芙艾爾阿靴【ＧＳ】
-4839,Feral GP Boots,芙艾爾阿靴【ＧＰ】
+4834,Feral HS Leg,菲拉腿【ＨＳ】
+4835,Feral GS Leg,菲拉腿【ＧＳ】
+4836,Feral GP Leg,菲拉腿【ＧＰ】
+4837,Feral HS Boots,菲拉靴【ＨＳ】
+4838,Feral GS Boots,菲拉靴【ＧＳ】
+4839,Feral GP Boots,菲拉靴【ＧＰ】
 4840,Fias HS Leg,芙伊斯腿【ＨＳ】
 4841,Fias GS Leg,芙伊斯腿【ＧＳ】
 4842,Fias GP Leg,芙伊斯腿【ＧＰ】
 4843,Fias HS Boots,芙伊斯靴【ＨＳ】
 4844,Fias GS Boots,芙伊斯靴【ＧＳ】
 4845,Fias GP Boots,芙伊斯靴【ＧＰ】
-4846,Viruto HS Leg,芙伊爾烏腿【ＨＳ】
-4847,Viruto GS Leg,芙伊爾烏腿【ＧＳ】
-4848,Viruto GP Leg,芙伊爾烏腿【ＧＰ】
-4849,Viruto HS Boots,芙伊爾烏靴【ＨＳ】
-4850,Viruto GS Boots,芙伊爾烏靴【ＧＳ】
-4851,Viruto GP Boots,芙伊爾烏靴【ＧＰ】
+4846,Viruto HS Leg,薇露托腿【ＨＳ】
+4847,Viruto GS Leg,薇露托腿【ＧＳ】
+4848,Viruto GP Leg,薇露托腿【ＧＰ】
+4849,Viruto HS Boots,薇露托靴【ＨＳ】
+4850,Viruto GS Boots,薇露托靴【ＧＳ】
+4851,Viruto GP Boots,薇露托靴【ＧＰ】
 4852,Falco HS Greaves,隼護腿【ＨＳ】
 4853,Falco GS Greaves,隼護腿【ＧＳ】
 4854,Falco GP Greaves,隼護腿【ＧＰ】
@@ -4889,11 +4889,11 @@ index,source,target
 4887,Tinku GP Leggings,汀克裹腿【ＧＰ】
 4888,Luxt Greaves,盧克斯特護腿
 4889,Luxt F Greaves,盧克斯特護腿【Ｆ】
-4890,Luxt FY Greaves,爾烏克斯護腿
+4890,Luxt FY Greaves,露克斯護腿
 4891,Luxt HS Greaves,盧克斯特護腿【ＨＳ】
 4892,Luxt Leggings,盧克斯特裹腿
 4893,Luxt F Leggings,盧克斯特裹腿【Ｆ】
-4894,Luxt FY Leggings,爾烏克斯裹腿
+4894,Luxt FY Leggings,露克斯裹腿
 4895,Luxt HS Leggings,盧克斯特裹腿【ＨＳ】
 4896,Luxt G Greaves,盧克斯特護腿【Ｇ】
 4897,Luxt GF Greaves,盧克斯特護腿【ＧＦ】
@@ -4903,11 +4903,11 @@ index,source,target
 4901,Luxt GX Leggings,盧克斯特裹腿【ＧＸ】
 4902,Oleum Greaves,油護腿
 4903,Oleum F Greaves,油護腿【Ｆ】
-4904,Oleum FY Greaves,歐爾艾姆護腿
+4904,Oleum FY Greaves,勒護腿
 4905,Oleum HS Greaves,油護腿【ＨＳ】
 4906,Oleum Leggings,油裹腿
 4907,Oleum F Leggings,油裹腿【Ｆ】
-4908,Oleum FY Leggings,歐爾艾姆裹腿
+4908,Oleum FY Leggings,勒裹腿
 4909,Oleum HS Leggings,油裹腿【ＨＳ】
 4910,Oleum G Greaves,油護腿【Ｇ】
 4911,Oleum GF Greaves,油護腿【ＧＦ】
@@ -4917,11 +4917,11 @@ index,source,target
 4915,Oleum GX Leggings,油裹腿【ＧＸ】
 4916,Kuranto Greaves,庫蘭托護腿
 4917,Kuranto F Greaves,庫蘭托護腿【Ｆ】
-4918,Kuranto FY Greaves,克烏爾阿護腿
+4918,Kuranto FY Greaves,克拉托護腿
 4919,Kuranto HS Greaves,庫蘭托護腿【ＨＳ】
 4920,Kuranto Leggings,庫蘭托裹腿
 4921,Kuranto F Leggings,庫蘭托裹腿【Ｆ】
-4922,Kuranto FY Leggings,克烏爾阿裹腿
+4922,Kuranto FY Leggings,克拉托裹腿
 4923,Kuranto HS Leggings,庫蘭托裹腿【ＨＳ】
 4924,Kuranto G Greaves,庫蘭托護腿【Ｇ】
 4925,Kuranto GF Greaves,庫蘭托護腿【ＧＦ】
@@ -4931,11 +4931,11 @@ index,source,target
 4929,Kuranto GX Leggings,庫蘭托裹腿【ＧＸ】
 4930,Yupuk Greaves,尤普克護腿
 4931,Yupuk F Greaves,尤普克護腿【Ｆ】
-4932,Yupuk FY Greaves,伊烏普烏護腿
+4932,Yupuk FY Greaves,尤普護腿
 4933,Yupuk HS Greaves,尤普克護腿【ＨＳ】
 4934,Yupuk Leggings,尤普克裹腿
 4935,Yupuk F Leggings,尤普克裹腿【Ｆ】
-4936,Yupuk FY Leggings,伊烏普烏裹腿
+4936,Yupuk FY Leggings,尤普裹腿
 4937,Yupuk HS Leggings,尤普克裹腿【ＨＳ】
 4938,Yupuk G Greaves,尤普克護腿【Ｇ】
 4939,Yupuk GF Greaves,尤普克護腿【ＧＦ】
@@ -4949,12 +4949,12 @@ index,source,target
 4947,Higakure G Leggings,赫伊格阿裹腿【Ｇ】
 4948,Higakure GF Leggings,赫伊格阿裹腿【ＧＦ】
 4949,Higakure GX Leggings,赫伊格阿裹腿【ＧＸ】
-4950,Konseru G Greaves,克歐恩艾護腿【Ｇ】
-4951,Konseru GF Greaves,克歐恩艾護腿【ＧＦ】
-4952,Konseru GX Greaves,克歐恩艾護腿【ＧＸ】
-4953,Konseru G Leggings,克歐恩艾裹腿【Ｇ】
-4954,Konseru GF Leggings,克歐恩艾裹腿【ＧＦ】
-4955,Konseru GX Leggings,克歐恩艾裹腿【ＧＸ】
+4950,Konseru G Greaves,古賽露護腿【Ｇ】
+4951,Konseru GF Greaves,古賽露護腿【ＧＦ】
+4952,Konseru GX Greaves,古賽露護腿【ＧＸ】
+4953,Konseru G Leggings,古賽露裹腿【Ｇ】
+4954,Konseru GF Leggings,古賽露裹腿【ＧＦ】
+4955,Konseru GX Leggings,古賽露裹腿【ＧＸ】
 4956,Diru G Greaves,迪魯護腿【Ｇ】
 4957,Diru GF Greaves,迪魯護腿【ＧＦ】
 4958,Diru GX Greaves,迪魯護腿【ＧＸ】
@@ -5025,16 +5025,16 @@ index,source,target
 5023,ノヴィーHC Boots,諾芙靴【ＨＣ】
 5024,ノヴィーHS Boots,諾芙靴【ＨＳ】
 5025,ノヴィーGS Boots,諾芙靴【ＧＳ】
-5026,Flora Greaves,芙歐爾阿護腿
+5026,Flora Greaves,芙拉護腿
 5027,Frau Feet,芙阿足
-5028,Lea Leg,爾艾腿
+5028,Lea Leg,勒腿
 5029,Keith Greaves,克艾斯護腿
-5030,Guinelle Greaves,格烏恩艾護腿
+5030,Guinelle Greaves,古奈爾護腿
 5031,Circa Feet,克伊爾阿足
-5032,Edward Greaves,艾德阿爾護腿
+5032,Edward Greaves,瓦護腿
 5033,Taizo Greaves,特阿茲歐護腿
 5034,Tiala Boots,特伊爾阿靴
-5035,Uwel Boots,烏沃艾爾靴
+5035,Uwel Boots,尤韋靴
 5036,Natasha Leggings,恩阿特阿裹腿
 5037,ダミー,(dummy)
 5038,アミロ Feet・Blue,阿米羅足・青
@@ -5103,12 +5103,12 @@ index,source,target
 5101,Azul G Leggings,青裹腿【Ｇ】
 5102,Azul GF Leggings,青裹腿【ＧＦ】
 5103,Azul GX Leggings,青裹腿【ＧＸ】
-5104,Entora G Greaves,艾恩歐爾護腿【Ｇ】
-5105,Entora GF Greaves,艾恩歐爾護腿【ＧＦ】
-5106,Entora GX Greaves,艾恩歐爾護腿【ＧＸ】
-5107,Entora G Leggings,艾恩歐爾裹腿【Ｇ】
-5108,Entora GF Leggings,艾恩歐爾裹腿【ＧＦ】
-5109,Entora GX Leggings,艾恩歐爾裹腿【ＧＸ】
+5104,Entora G Greaves,托拉護腿【Ｇ】
+5105,Entora GF Greaves,托拉護腿【ＧＦ】
+5106,Entora GX Greaves,托拉護腿【ＧＸ】
+5107,Entora G Leggings,托拉裹腿【Ｇ】
+5108,Entora GF Leggings,托拉裹腿【ＧＦ】
+5109,Entora GX Leggings,托拉裹腿【ＧＸ】
 5110,Holy King Feet,聖王足
 5111,Holy King F Feet,聖王足【Ｆ】
 5112,Holy King FZ Feet,聖王足【ＦＺ】
@@ -5169,18 +5169,18 @@ index,source,target
 5167,Knight HS Greaves,騎士護腿【ＨＳ】
 5168,Knight GS Greaves,騎士護腿【ＧＳ】
 5169,Knight GP Greaves,騎士護腿【ＧＰ】
-5170,Shell Boots,夏艾爾靴
-5171,Shell F Boots,夏艾爾靴【Ｆ】
-5172,Shell FZ Boots,夏艾爾靴【ＦＺ】
-5173,Shell HS Boots,夏艾爾靴【ＨＳ】
-5174,Shell GS Boots,夏艾爾靴【ＧＳ】
-5175,Shell GP Boots,夏艾爾靴【ＧＰ】
-5176,Vector Boots,芙艾克歐靴
-5177,Vector F Boots,芙艾克歐靴【Ｆ】
-5178,Vector FZ Boots,芙艾克歐靴【ＦＺ】
-5179,Vector HS Boots,芙艾克歐靴【ＨＳ】
-5180,Vector GS Boots,芙艾克歐靴【ＧＳ】
-5181,Vector GP Boots,芙艾克歐靴【ＧＰ】
+5170,Shell Boots,修爾靴
+5171,Shell F Boots,修爾靴【Ｆ】
+5172,Shell FZ Boots,修爾靴【ＦＺ】
+5173,Shell HS Boots,修爾靴【ＨＳ】
+5174,Shell GS Boots,修爾靴【ＧＳ】
+5175,Shell GP Boots,修爾靴【ＧＰ】
+5176,Vector Boots,薇托靴
+5177,Vector F Boots,薇托靴【Ｆ】
+5178,Vector FZ Boots,薇托靴【ＦＺ】
+5179,Vector HS Boots,薇托靴【ＨＳ】
+5180,Vector GS Boots,薇托靴【ＧＳ】
+5181,Vector GP Boots,薇托靴【ＧＰ】
 5182,サーブル Feet,薩布魯足
 5183,サーブルF Feet,薩布魯足【Ｆ】
 5184,サーブルFZ Feet,薩布魯足【ＦＺ】
@@ -5316,9 +5316,9 @@ index,source,target
 5314,Kruss HS Leg,克烏斯腿【ＨＳ】
 5315,Kruss GS Leg,克烏斯腿【ＧＳ】
 5316,Kruss GP Leg,克烏斯腿【ＧＰ】
-5317,Quote HS Boots,斯烏特艾靴【ＨＳ】
-5318,Quote GS Boots,斯烏特艾靴【ＧＳ】
-5319,Quote GP Boots,斯烏特艾靴【ＧＰ】
+5317,Quote HS Boots,奎特靴【ＨＳ】
+5318,Quote GS Boots,奎特靴【ＧＳ】
+5319,Quote GP Boots,奎特靴【ＧＰ】
 5320,Starina HS Leg,斯塔莉娜腿【ＨＳ】
 5321,Starina GS Leg,斯塔莉娜腿【ＧＳ】
 5322,Starina GP Leg,斯塔莉娜腿【ＧＰ】
@@ -5873,38 +5873,38 @@ index,source,target
 5871,Silver Cat HS Boots,銀猫靴【ＨＳ】
 5872,Silver Cat GS Boots,銀猫靴【ＧＳ】
 5873,Silver Cat GP Boots,銀猫靴【ＧＰ】
-5874,Claire FZ Feet・Purple,克蕾爾足【ＦＺ】・紫
-5875,Claire HS Feet・Purple,克蕾爾足【ＨＳ】・紫
-5876,Claire GS Feet・Purple,克蕾爾足【ＧＳ】・紫
-5877,Claire GP Feet・Purple,克蕾爾足【ＧＰ】・紫
-5878,Claire FZ Boots・Purple,克蕾爾靴【ＦＺ】・紫
-5879,Claire HS Boots・Purple,克蕾爾靴【ＨＳ】・紫
-5880,Claire GS Boots・Purple,克蕾爾靴【ＧＳ】・紫
-5881,Claire GP Boots・Purple,克蕾爾靴【ＧＰ】・紫
-5882,Claire FZ Feet・Water,克蕾爾足【ＦＺ】・水
-5883,Claire HS Feet・Water,克蕾爾足【ＨＳ】・水
-5884,Claire GS Feet・Water,克蕾爾足【ＧＳ】・水
-5885,Claire GP Feet・Water,克蕾爾足【ＧＰ】・水
-5886,Claire FZ Boots・Water,克蕾爾靴【ＦＺ】・水
-5887,Claire HS Boots・Water,克蕾爾靴【ＨＳ】・水
-5888,Claire GS Boots・Water,克蕾爾靴【ＧＳ】・水
-5889,Claire GP Boots・Water,克蕾爾靴【ＧＰ】・水
-5890,Claire FZ Feet・Red,克蕾爾足【ＦＺ】・赤
-5891,Claire HS Feet・Red,克蕾爾足【ＨＳ】・赤
-5892,Claire GS Feet・Red,克蕾爾足【ＧＳ】・赤
-5893,Claire GP Feet・Red,克蕾爾足【ＧＰ】・赤
-5894,Claire FZ Boots・Red,克蕾爾靴【ＦＺ】・赤
-5895,Claire HS Boots・Red,克蕾爾靴【ＨＳ】・赤
-5896,Claire GS Boots・Red,克蕾爾靴【ＧＳ】・赤
-5897,Claire GP Boots・Red,克蕾爾靴【ＧＰ】・赤
-5898,Claire FZ Feet・Black,克蕾爾足【ＦＺ】・黑
-5899,Claire HS Feet・Black,克蕾爾足【ＨＳ】・黑
-5900,Claire GS Feet・Black,克蕾爾足【ＧＳ】・黑
-5901,Claire GP Feet・Black,克蕾爾足【ＧＰ】・黑
-5902,Claire FZ Boots・Black,克蕾爾靴【ＦＺ】・黑
-5903,Claire HS Boots・Black,克蕾爾靴【ＨＳ】・黑
-5904,Claire GS Boots・Black,克蕾爾靴【ＧＳ】・黑
-5905,Claire GP Boots・Black,克蕾爾靴【ＧＰ】・黑
+5874,Claire FZ Feet・Purple,克蕾露足【ＦＺ】・紫
+5875,Claire HS Feet・Purple,克蕾露足【ＨＳ】・紫
+5876,Claire GS Feet・Purple,克蕾露足【ＧＳ】・紫
+5877,Claire GP Feet・Purple,克蕾露足【ＧＰ】・紫
+5878,Claire FZ Boots・Purple,克蕾露靴【ＦＺ】・紫
+5879,Claire HS Boots・Purple,克蕾露靴【ＨＳ】・紫
+5880,Claire GS Boots・Purple,克蕾露靴【ＧＳ】・紫
+5881,Claire GP Boots・Purple,克蕾露靴【ＧＰ】・紫
+5882,Claire FZ Feet・Water,克蕾露足【ＦＺ】・水
+5883,Claire HS Feet・Water,克蕾露足【ＨＳ】・水
+5884,Claire GS Feet・Water,克蕾露足【ＧＳ】・水
+5885,Claire GP Feet・Water,克蕾露足【ＧＰ】・水
+5886,Claire FZ Boots・Water,克蕾露靴【ＦＺ】・水
+5887,Claire HS Boots・Water,克蕾露靴【ＨＳ】・水
+5888,Claire GS Boots・Water,克蕾露靴【ＧＳ】・水
+5889,Claire GP Boots・Water,克蕾露靴【ＧＰ】・水
+5890,Claire FZ Feet・Red,克蕾露足【ＦＺ】・赤
+5891,Claire HS Feet・Red,克蕾露足【ＨＳ】・赤
+5892,Claire GS Feet・Red,克蕾露足【ＧＳ】・赤
+5893,Claire GP Feet・Red,克蕾露足【ＧＰ】・赤
+5894,Claire FZ Boots・Red,克蕾露靴【ＦＺ】・赤
+5895,Claire HS Boots・Red,克蕾露靴【ＨＳ】・赤
+5896,Claire GS Boots・Red,克蕾露靴【ＧＳ】・赤
+5897,Claire GP Boots・Red,克蕾露靴【ＧＰ】・赤
+5898,Claire FZ Feet・Black,克蕾露足【ＦＺ】・黑
+5899,Claire HS Feet・Black,克蕾露足【ＨＳ】・黑
+5900,Claire GS Feet・Black,克蕾露足【ＧＳ】・黑
+5901,Claire GP Feet・Black,克蕾露足【ＧＰ】・黑
+5902,Claire FZ Boots・Black,克蕾露靴【ＦＺ】・黑
+5903,Claire HS Boots・Black,克蕾露靴【ＨＳ】・黑
+5904,Claire GS Boots・Black,克蕾露靴【ＧＳ】・黑
+5905,Claire GP Boots・Black,克蕾露靴【ＧＰ】・黑
 5906,Text HS Feet・Purple,文書足【ＨＳ】・紫
 5907,Text GS Feet・Purple,文書足【ＧＳ】・紫
 5908,Text GP Feet・Purple,文書足【ＧＰ】・紫
@@ -6105,18 +6105,18 @@ index,source,target
 6103,Flower HS Boots,芙歐沃艾靴【ＨＳ】
 6104,Flower GS Boots,芙歐沃艾靴【ＧＳ】
 6105,Flower GP Boots,芙歐沃艾靴【ＧＰ】
-6106,Tune HS Leg,特烏恩艾腿【ＨＳ】
-6107,Tune GS Leg,特烏恩艾腿【ＧＳ】
-6108,Tune GP Leg,特烏恩艾腿【ＧＰ】
+6106,Tune HS Leg,圖奈腿【ＨＳ】
+6107,Tune GS Leg,圖奈腿【ＧＳ】
+6108,Tune GP Leg,圖奈腿【ＧＰ】
 6109,Schnite HS Boots,施伊特艾靴【ＨＳ】
 6110,Schnite GS Boots,施伊特艾靴【ＧＳ】
 6111,Schnite GP Boots,施伊特艾靴【ＧＰ】
 6112,Dicto HS Leg,德伊克歐腿【ＨＳ】
 6113,Dicto GS Leg,德伊克歐腿【ＧＳ】
 6114,Dicto GP Leg,德伊克歐腿【ＧＰ】
-6115,Diletto HS Boots,德伊爾艾靴【ＨＳ】
-6116,Diletto GS Boots,德伊爾艾靴【ＧＳ】
-6117,Diletto GP Boots,德伊爾艾靴【ＧＰ】
+6115,Diletto HS Boots,迪勒特靴【ＨＳ】
+6116,Diletto GS Boots,迪勒特靴【ＧＳ】
+6117,Diletto GP Boots,迪勒特靴【ＧＰ】
 6118,Cubie HS Feet,方塊足【ＨＳ】
 6119,Cubie GS Feet,方塊足【ＧＳ】
 6120,Cubie GP Feet,方塊足【ＧＰ】
@@ -6211,16 +6211,16 @@ index,source,target
 6209,Franky G Boots,芙阿恩靴【Ｇ】
 6210,Franky GF Boots,芙阿恩靴【ＧＦ】
 6211,Franky GX Boots,芙阿恩靴【ＧＸ】
-6212,Diore Greaves,德伊爾艾護腿
-6213,Diore F Greaves,德伊爾艾護腿【Ｆ】
-6214,Diore FX Greaves,德伊爾艾護腿【ＦＸ】
-6215,Diore G Greaves,德伊爾艾護腿【Ｇ】
-6216,Diore GF Greaves,德伊爾艾護腿【ＧＦ】
-6217,Diore Leggings,德伊爾艾裹腿
-6218,Diore F Leggings,德伊爾艾裹腿【Ｆ】
-6219,Diore FX Leggings,德伊爾艾裹腿【ＦＸ】
-6220,Diore G Leggings,德伊爾艾裹腿【Ｇ】
-6221,Diore GF Leggings,德伊爾艾裹腿【ＧＦ】
+6212,Diore Greaves,迪歐護腿
+6213,Diore F Greaves,迪歐護腿【Ｆ】
+6214,Diore FX Greaves,迪歐護腿【ＦＸ】
+6215,Diore G Greaves,迪歐護腿【Ｇ】
+6216,Diore GF Greaves,迪歐護腿【ＧＦ】
+6217,Diore Leggings,迪歐裹腿
+6218,Diore F Leggings,迪歐裹腿【Ｆ】
+6219,Diore FX Leggings,迪歐裹腿【ＦＸ】
+6220,Diore G Leggings,迪歐裹腿【Ｇ】
+6221,Diore GF Leggings,迪歐裹腿【ＧＦ】
 6222,Kagura G【 Hakama 】,神樂袴【Ｇ】
 6223,Kagura GF【 Hakama 】,神樂袴【ＧＦ】
 6224,Kagura GX【 Hakama 】,神樂袴【ＧＸ】
@@ -6245,8 +6245,8 @@ index,source,target
 6243,Vulcan G Legs,火神腿甲【Ｇ】
 6244,Vulcan GF Legs,火神腿甲【ＧＦ】
 6245,Vulcan GX Legs,火神腿甲【ＧＸ】
-6246,Algol GF Greaves,阿爾歐爾護腿【ＧＦ】
-6247,Algol GF Leggings,阿爾歐爾裹腿【ＧＦ】
+6246,Algol GF Greaves,戈護腿【ＧＦ】
+6247,Algol GF Leggings,戈裹腿【ＧＦ】
 6248,Odiva GF Greaves,奧蒂瓦護腿【ＧＦ】
 6249,Odiva GF Leggings,奧蒂瓦裹腿【ＧＦ】
 6250,Byakko・Kensei GX Feet,白虎劍聖足【ＧＸ】
@@ -6641,14 +6641,14 @@ index,source,target
 6639,Kontao GP Boots,孔陶靴【ＧＰ】
 6640,Deliver Greaves,交貨護腿
 6641,Deliver F Greaves,交貨護腿【Ｆ】
-6642,Deliver FY Greaves,德艾爾伊護腿
+6642,Deliver FY Greaves,德莉薇護腿
 6643,Deliver HS Greaves,交貨護腿【ＨＳ】
 6644,Deliver G Greaves,交貨護腿【Ｇ】
 6645,Deliver GF Greaves,交貨護腿【ＧＦ】
 6646,Deliver GX Greaves,交貨護腿【ＧＸ】
 6647,Deliver Leggings,交貨裹腿
 6648,Deliver F Leggings,交貨裹腿【Ｆ】
-6649,Deliver FY Leggings,德艾爾伊裹腿
+6649,Deliver FY Leggings,德莉薇裹腿
 6650,Deliver HS Leggings,交貨裹腿【ＨＳ】
 6651,Deliver G Leggings,交貨裹腿【Ｇ】
 6652,Deliver GF Leggings,交貨裹腿【ＧＦ】
@@ -6683,72 +6683,72 @@ index,source,target
 6681,Nisuru GX Leggings,尼斯魯裹腿【ＧＸ】
 6682,Coord Greaves,搭配護腿
 6683,Coord F Greaves,搭配護腿【Ｆ】
-6684,Coord FY Greaves,克歐爾護腿
+6684,Coord FY Greaves,古護腿
 6685,Coord HS Greaves,搭配護腿【ＨＳ】
 6686,Coord G Greaves,搭配護腿【Ｇ】
 6687,Coord GF Greaves,搭配護腿【ＧＦ】
 6688,Coord GX Greaves,搭配護腿【ＧＸ】
 6689,Coord Leggings,搭配裹腿
 6690,Coord F Leggings,搭配裹腿【Ｆ】
-6691,Coord FY Leggings,克歐爾裹腿
+6691,Coord FY Leggings,古裹腿
 6692,Coord HS Leggings,搭配裹腿【ＨＳ】
 6693,Coord G Leggings,搭配裹腿【Ｇ】
 6694,Coord GF Leggings,搭配裹腿【ＧＦ】
 6695,Coord GX Leggings,搭配裹腿【ＧＸ】
 6696,Resega Greaves,雷塞加護腿
 6697,Resega F Greaves,雷塞加護腿【Ｆ】
-6698,Resega FY Greaves,爾艾斯艾護腿
+6698,Resega FY Greaves,蕾賽加護腿
 6699,Resega HS Greaves,雷塞加護腿【ＨＳ】
 6700,Resega G Greaves,雷塞加護腿【Ｇ】
 6701,Resega GF Greaves,雷塞加護腿【ＧＦ】
 6702,Resega GX Greaves,雷塞加護腿【ＧＸ】
 6703,Resega Leggings,雷塞加裹腿
 6704,Resega F Leggings,雷塞加裹腿【Ｆ】
-6705,Resega FY Leggings,爾艾斯艾裹腿
+6705,Resega FY Leggings,蕾賽加裹腿
 6706,Resega HS Leggings,雷塞加裹腿【ＨＳ】
 6707,Resega G Leggings,雷塞加裹腿【Ｇ】
 6708,Resega GF Leggings,雷塞加裹腿【ＧＦ】
 6709,Resega GX Leggings,雷塞加裹腿【ＧＸ】
 6710,Suforu Greaves,蘇福魯護腿
 6711,Suforu F Greaves,蘇福魯護腿【Ｆ】
-6712,Suforu FY Greaves,斯烏芙歐護腿
+6712,Suforu FY Greaves,斯佛露護腿
 6713,Suforu HS Greaves,蘇福魯護腿【ＨＳ】
 6714,Suforu G Greaves,蘇福魯護腿【Ｇ】
 6715,Suforu GF Greaves,蘇福魯護腿【ＧＦ】
 6716,Suforu GX Greaves,蘇福魯護腿【ＧＸ】
 6717,Suforu Leggings,蘇福魯裹腿
 6718,Suforu F Leggings,蘇福魯裹腿【Ｆ】
-6719,Suforu FY Leggings,斯烏芙歐裹腿
+6719,Suforu FY Leggings,斯佛露裹腿
 6720,Suforu HS Leggings,蘇福魯裹腿【ＨＳ】
 6721,Suforu G Leggings,蘇福魯裹腿【Ｇ】
 6722,Suforu GF Leggings,蘇福魯裹腿【ＧＦ】
 6723,Suforu GX Leggings,蘇福魯裹腿【ＧＸ】
 6724,Perce Greaves,珀斯護腿
 6725,Perce F Greaves,珀斯護腿【Ｆ】
-6726,Perce FY Greaves,普艾爾艾護腿
+6726,Perce FY Greaves,佩賽護腿
 6727,Perce HS Greaves,珀斯護腿【ＨＳ】
 6728,Perce G Greaves,珀斯護腿【Ｇ】
 6729,Perce GF Greaves,珀斯護腿【ＧＦ】
 6730,Perce GX Greaves,珀斯護腿【ＧＸ】
 6731,Perce Leggings,珀斯裹腿
 6732,Perce F Leggings,珀斯裹腿【Ｆ】
-6733,Perce FY Leggings,普艾爾艾裹腿
+6733,Perce FY Leggings,佩賽裹腿
 6734,Perce HS Leggings,珀斯裹腿【ＨＳ】
 6735,Perce G Leggings,珀斯裹腿【Ｇ】
 6736,Perce GF Leggings,珀斯裹腿【ＧＦ】
 6737,Perce GX Leggings,珀斯裹腿【ＧＸ】
-6738,Survey Corps Feet,斯烏爾艾足
-6739,Survey Corps F Feet,斯烏爾艾足【Ｆ】
-6740,Survey Corps FZ Feet,斯烏爾艾足【ＦＺ】
-6741,Survey Corps HS Feet,斯烏爾艾足【ＨＳ】
-6742,Survey Corps GS Feet,斯烏爾艾足【ＧＳ】
-6743,Survey Corps GP Feet,斯烏爾艾足【ＧＰ】
-6744,Survey Corps Boots,斯烏爾艾靴
-6745,Survey Corps F Boots,斯烏爾艾靴【Ｆ】
-6746,Survey Corps FZ Boots,斯烏爾艾靴【ＦＺ】
-6747,Survey Corps HS Boots,斯烏爾艾靴【ＨＳ】
-6748,Survey Corps GS Boots,斯烏爾艾靴【ＧＳ】
-6749,Survey Corps GP Boots,斯烏爾艾靴【ＧＰ】
+6738,Survey Corps Feet,斯薇古足
+6739,Survey Corps F Feet,斯薇古足【Ｆ】
+6740,Survey Corps FZ Feet,斯薇古足【ＦＺ】
+6741,Survey Corps HS Feet,斯薇古足【ＨＳ】
+6742,Survey Corps GS Feet,斯薇古足【ＧＳ】
+6743,Survey Corps GP Feet,斯薇古足【ＧＰ】
+6744,Survey Corps Boots,斯薇古靴
+6745,Survey Corps F Boots,斯薇古靴【Ｆ】
+6746,Survey Corps FZ Boots,斯薇古靴【ＦＺ】
+6747,Survey Corps HS Boots,斯薇古靴【ＨＳ】
+6748,Survey Corps GS Boots,斯薇古靴【ＧＳ】
+6749,Survey Corps GP Boots,斯薇古靴【ＧＰ】
 6750,Training Corps Feet,特阿恩伊足
 6751,Training Corps F Feet,特阿恩伊足【Ｆ】
 6752,Training Corps FZ Feet,特阿恩伊足【ＦＺ】
@@ -6784,7 +6784,7 @@ index,source,target
 6782,ダミー,(dummy)
 6783,ダミー,(dummy)
 6784,Carrol Feet・Gold,可羅足・金
-6785,Leila Feet,爾艾爾阿足
+6785,Leila Feet,勒拉足
 6786,IS Academy Boots・White,學院靴・白
 6787,IS Academy F Boots・White,學院靴【Ｆ】・白
 6788,IS Academy FZ Boots・White,學院靴【ＦＺ】・白
@@ -6863,16 +6863,16 @@ index,source,target
 6861,Melan G Leggings,紫黑裹腿【Ｇ】
 6862,Melan GF Leggings,紫黑裹腿【ＧＦ】
 6863,Melan GX Leggings,紫黑裹腿【ＧＸ】
-6864,Rouge FY Greaves,爾歐格艾護腿
+6864,Rouge FY Greaves,蘿蓋護腿
 6865,Rouge HC Greaves,紅護腿【ＨＣ】
 6866,Rouge G Greaves,紅護腿【Ｇ】
 6867,Rouge GF Greaves,紅護腿【ＧＦ】
 6868,Rouge GX Greaves,紅護腿【ＧＸ】
-6869,Regyukusu GP Feet,爾艾格烏足【ＧＰ】
-6870,Regyukusu GP Boots,爾艾格烏靴【ＧＰ】
+6869,Regyukusu GP Feet,蕾尤克斯足【ＧＰ】
+6870,Regyukusu GP Boots,蕾尤克斯靴【ＧＰ】
 6871,Beil GP Divider,貝爾分割護腿【ＧＰ】
-6872,ヴェルフGP Greaves,維爾夫護腿【ＧＰ】
-6873,ヴェルフGP Leggings,維爾夫裹腿【ＧＰ】
+6872,ヴェルフGP Greaves,薇露芙護腿【ＧＰ】
+6873,ヴェルフGP Leggings,薇露芙裹腿【ＧＰ】
 6874,テリオグGP Greaves,特里歐古護腿【ＧＰ】
 6875,テリオグGP Leggings,特里歐古裹腿【ＧＰ】
 6876,Patapatagook・White,拍達古古護腿・白
@@ -6917,12 +6917,12 @@ index,source,target
 6915,Weiss G March,白行軍腿【Ｇ】
 6916,Weiss GF March,白行軍腿【ＧＦ】
 6917,Weiss GX March,白行軍腿【ＧＸ】
-6918,Venom G Greaves,芙艾恩歐護腿【Ｇ】
-6919,Venom GF Greaves,芙艾恩歐護腿【ＧＦ】
-6920,Venom GX Greaves,芙艾恩歐護腿【ＧＸ】
-6921,Venom G Leggings,芙艾恩歐裹腿【Ｇ】
-6922,Venom GF Leggings,芙艾恩歐裹腿【ＧＦ】
-6923,Venom GX Leggings,芙艾恩歐裹腿【ＧＸ】
+6918,Venom G Greaves,薇諾護腿【Ｇ】
+6919,Venom GF Greaves,薇諾護腿【ＧＦ】
+6920,Venom GX Greaves,薇諾護腿【ＧＸ】
+6921,Venom G Leggings,薇諾裹腿【Ｇ】
+6922,Venom GF Leggings,薇諾裹腿【ＧＦ】
+6923,Venom GX Leggings,薇諾裹腿【ＧＸ】
 6924,Elegance [Greaves 】,雅護腿
 6925,Elegance F [Greaves 】,雅護腿【Ｆ】
 6926,Elegance FX [Greaves 】,雅護腿【ＦＸ】
@@ -7393,16 +7393,16 @@ index,source,target
 7391,Blink HS Boots,布伊恩靴【ＨＳ】
 7392,Blink GS Boots,布伊恩靴【ＧＳ】
 7393,Blink GP Boots,布伊恩靴【ＧＰ】
-7394,Ukon GPキック,烏克歐恩護腿
-7395,Ukon GP Boots,烏克歐恩靴【ＧＰ】
+7394,Ukon GPキック,古護腿
+7395,Ukon GP Boots,古靴【ＧＰ】
 7396,ロットGPキック,羅托護腿
 7397,ロットGP Boots,羅托靴【ＧＰ】
-7398,Arge HS Feet,阿爾傑足【ＨＳ】
-7399,Arge GS Feet,阿爾傑足【ＧＳ】
-7400,Arge GP Feet,阿爾傑足【ＧＰ】
-7401,Arge HS Boots,阿爾傑靴【ＨＳ】
-7402,Arge GS Boots,阿爾傑靴【ＧＳ】
-7403,Arge GP Boots,阿爾傑靴【ＧＰ】
+7398,Arge HS Feet,亞潔足【ＨＳ】
+7399,Arge GS Feet,亞潔足【ＧＳ】
+7400,Arge GP Feet,亞潔足【ＧＰ】
+7401,Arge HS Boots,亞潔靴【ＨＳ】
+7402,Arge GS Boots,亞潔靴【ＧＳ】
+7403,Arge GP Boots,亞潔靴【ＧＰ】
 7404,Camarera HS Feet,可瑪蕾拉足【ＨＳ】
 7405,Camarera GS Feet,可瑪蕾拉足【ＧＳ】
 7406,Camarera GP Feet,可瑪蕾拉足【ＧＰ】
@@ -7442,30 +7442,30 @@ index,source,target
 7440,Breo G Greaves,布艾護腿【Ｇ】
 7441,Breo GF Greaves,布艾護腿【ＧＦ】
 7442,Breo GX Greaves,布艾護腿【ＧＸ】
-7443,Harokyu Feet,赫阿爾歐足
-7444,Harokyu F Feet,赫阿爾歐足【Ｆ】
-7445,Harokyu FY Feet,赫阿爾歐足
-7446,Harokyu HS Feet,赫阿爾歐足【ＨＳ】
-7447,Harokyu G Feet,赫阿爾歐足【Ｇ】
-7448,Harokyu GF Feet,赫阿爾歐足【ＧＦ】
-7449,Harokyu GX Feet,赫阿爾歐足【ＧＸ】
+7443,Harokyu Feet,哈蘿尤足
+7444,Harokyu F Feet,哈蘿尤足【Ｆ】
+7445,Harokyu FY Feet,哈蘿尤足
+7446,Harokyu HS Feet,哈蘿尤足【ＨＳ】
+7447,Harokyu G Feet,哈蘿尤足【Ｇ】
+7448,Harokyu GF Feet,哈蘿尤足【ＧＦ】
+7449,Harokyu GX Feet,哈蘿尤足【ＧＸ】
 7450,Brooke Feet,溪足
 7451,Brooke F Feet,溪足【Ｆ】
-7452,Brooke FY Feet,布歐克艾足
+7452,Brooke FY Feet,古蘿布足
 7453,Brooke HS Feet,溪足【ＨＳ】
 7454,Brooke G Feet,溪足【Ｇ】
 7455,Brooke GF Feet,溪足【ＧＦ】
 7456,Brooke GX Feet,溪足【ＧＸ】
 7457,Brooke Boots,溪靴
 7458,Brooke F Boots,溪靴【Ｆ】
-7459,Brooke FY Boots,布歐克艾靴
+7459,Brooke FY Boots,古蘿布靴
 7460,Brooke HS Boots,溪靴【ＨＳ】
 7461,Brooke G Boots,溪靴【Ｇ】
 7462,Brooke GF Boots,溪靴【ＧＦ】
 7463,Brooke GX Boots,溪靴【ＧＸ】
 7464,Pale Sakura 【 Hakama 】,淡櫻袴
 7465,Pale Sakura F【 Hakama 】,淡櫻袴【Ｆ】
-7466,Pale Sakura FY【 Hakama 】,普阿爾艾袴
+7466,Pale Sakura FY【 Hakama 】,拍勒薩克袴
 7467,Pale Sakura HS【 Hakama 】,淡櫻袴【ＨＳ】
 7468,Pale Sakura G【 Hakama 】,淡櫻袴【Ｇ】
 7469,Pale Sakura GF【 Hakama 】,淡櫻袴【ＧＦ】
@@ -7493,42 +7493,42 @@ index,source,target
 7491,Kinioru GX Leggings,基尼奧魯裹腿【ＧＸ】
 7492,Kaioru Greaves,凱奧魯護腿
 7493,Kaioru F Greaves,凱奧魯護腿【Ｆ】
-7494,Kaioru FY Greaves,克阿爾烏護腿
+7494,Kaioru FY Greaves,可露護腿
 7495,Kaioru HS Greaves,凱奧魯護腿【ＨＳ】
 7496,Kaioru G Greaves,凱奧魯護腿【Ｇ】
 7497,Kaioru GF Greaves,凱奧魯護腿【ＧＦ】
 7498,Kaioru GX Greaves,凱奧魯護腿【ＧＸ】
 7499,Kaioru Leggings,凱奧魯裹腿
 7500,Kaioru F Leggings,凱奧魯裹腿【Ｆ】
-7501,Kaioru FY Leggings,克阿爾烏裹腿
+7501,Kaioru FY Leggings,可露裹腿
 7502,Kaioru HS Leggings,凱奧魯裹腿【ＨＳ】
 7503,Kaioru G Leggings,凱奧魯裹腿【Ｇ】
 7504,Kaioru GF Leggings,凱奧魯裹腿【ＧＦ】
 7505,Kaioru GX Leggings,凱奧魯裹腿【ＧＸ】
-7506,Yurisu Greaves,伊烏爾伊護腿
-7507,Yurisu F Greaves,伊烏爾伊護腿【Ｆ】
-7508,Yurisu FY Greaves,伊烏爾伊護腿
-7509,Yurisu HS Greaves,伊烏爾伊護腿【ＨＳ】
-7510,Yurisu G Greaves,伊烏爾伊護腿【Ｇ】
-7511,Yurisu GF Greaves,伊烏爾伊護腿【ＧＦ】
-7512,Yurisu GX Greaves,伊烏爾伊護腿【ＧＸ】
-7513,Yurisu Leggings,伊烏爾伊裹腿
-7514,Yurisu F Leggings,伊烏爾伊裹腿【Ｆ】
-7515,Yurisu FY Leggings,伊烏爾伊裹腿
-7516,Yurisu HS Leggings,伊烏爾伊裹腿【ＨＳ】
-7517,Yurisu G Leggings,伊烏爾伊裹腿【Ｇ】
-7518,Yurisu GF Leggings,伊烏爾伊裹腿【ＧＦ】
-7519,Yurisu GX Leggings,伊烏爾伊裹腿【ＧＸ】
+7506,Yurisu Greaves,尤里斯護腿
+7507,Yurisu F Greaves,尤里斯護腿【Ｆ】
+7508,Yurisu FY Greaves,尤里斯護腿
+7509,Yurisu HS Greaves,尤里斯護腿【ＨＳ】
+7510,Yurisu G Greaves,尤里斯護腿【Ｇ】
+7511,Yurisu GF Greaves,尤里斯護腿【ＧＦ】
+7512,Yurisu GX Greaves,尤里斯護腿【ＧＸ】
+7513,Yurisu Leggings,尤里斯裹腿
+7514,Yurisu F Leggings,尤里斯裹腿【Ｆ】
+7515,Yurisu FY Leggings,尤里斯裹腿
+7516,Yurisu HS Leggings,尤里斯裹腿【ＨＳ】
+7517,Yurisu G Leggings,尤里斯裹腿【Ｇ】
+7518,Yurisu GF Leggings,尤里斯裹腿【ＧＦ】
+7519,Yurisu GX Leggings,尤里斯裹腿【ＧＸ】
 7520,Desordre Greaves,無序護腿
 7521,Desordre F Greaves,無序護腿【Ｆ】
-7522,Desordre FY Greaves,德艾斯歐護腿
+7522,Desordre FY Greaves,德索德護腿
 7523,Desordre HS Greaves,無序護腿【ＨＳ】
 7524,Desordre G Greaves,無序護腿【Ｇ】
 7525,Desordre GF Greaves,無序護腿【ＧＦ】
 7526,Desordre GX Greaves,無序護腿【ＧＸ】
 7527,Desordre Leggings,無序裹腿
 7528,Desordre F Leggings,無序裹腿【Ｆ】
-7529,Desordre FY Leggings,德艾斯歐裹腿
+7529,Desordre FY Leggings,德索德裹腿
 7530,Desordre HS Leggings,無序裹腿【ＨＳ】
 7531,Desordre G Leggings,無序裹腿【Ｇ】
 7532,Desordre GF Leggings,無序裹腿【ＧＦ】
@@ -7677,18 +7677,18 @@ index,source,target
 7675,ランデグHS Boots,拉恩德古靴【ＨＳ】
 7676,ランデグGS Boots,拉恩德古靴【ＧＳ】
 7677,ランデグGP Boots,拉恩德古靴【ＧＰ】
-7678,Endre Feet,艾恩艾足
-7679,Endre F Feet,艾恩艾足【Ｆ】
-7680,Endre FZ Feet,艾恩艾足【ＦＺ】
-7681,Endre HS Feet,艾恩艾足【ＨＳ】
-7682,Endre GS Feet,艾恩艾足【ＧＳ】
-7683,Endre GP Feet,艾恩艾足【ＧＰ】
-7684,Endre Boots,艾恩艾靴
-7685,Endre F Boots,艾恩艾靴【Ｆ】
-7686,Endre FZ Boots,艾恩艾靴【ＦＺ】
-7687,Endre HS Boots,艾恩艾靴【ＨＳ】
-7688,Endre GS Boots,艾恩艾靴【ＧＳ】
-7689,Endre GP Boots,艾恩艾靴【ＧＰ】
+7678,Endre Feet,恩德蕾足
+7679,Endre F Feet,恩德蕾足【Ｆ】
+7680,Endre FZ Feet,恩德蕾足【ＦＺ】
+7681,Endre HS Feet,恩德蕾足【ＨＳ】
+7682,Endre GS Feet,恩德蕾足【ＧＳ】
+7683,Endre GP Feet,恩德蕾足【ＧＰ】
+7684,Endre Boots,恩德蕾靴
+7685,Endre F Boots,恩德蕾靴【Ｆ】
+7686,Endre FZ Boots,恩德蕾靴【ＦＺ】
+7687,Endre HS Boots,恩德蕾靴【ＨＳ】
+7688,Endre GS Boots,恩德蕾靴【ＧＳ】
+7689,Endre GP Boots,恩德蕾靴【ＧＰ】
 7690,Sagittario Feet Red,射手足・赤
 7691,Sagittario F Feet Red,射手足【Ｆ】・赤
 7692,Sagittario FZ Feet Red,射手足【ＦＺ】・赤
@@ -7815,16 +7815,16 @@ index,source,target
 7813,Motion G [Greaves 】,律動護腿【Ｇ】
 7814,Motion GF [Greaves 】,律動護腿【ＧＦ】
 7815,Motion GX [Greaves 】,律動護腿【ＧＸ】
-7816,Pobo Greaves,普歐布歐護腿
-7817,Pobo F Greaves,普歐布歐護腿【Ｆ】
-7818,Pobo FX Greaves,普歐布歐護腿【ＦＸ】
-7819,Pobo G Greaves,普歐布歐護腿【Ｇ】
-7820,Pobo GF Greaves,普歐布歐護腿【ＧＦ】
-7821,Pobo Leggings,普歐布歐裹腿
-7822,Pobo F Leggings,普歐布歐裹腿【Ｆ】
-7823,Pobo FX Leggings,普歐布歐裹腿【ＦＸ】
-7824,Pobo G Leggings,普歐布歐裹腿【Ｇ】
-7825,Pobo GF Leggings,普歐布歐裹腿【ＧＦ】
+7816,Pobo Greaves,珀波護腿
+7817,Pobo F Greaves,珀波護腿【Ｆ】
+7818,Pobo FX Greaves,珀波護腿【ＦＸ】
+7819,Pobo G Greaves,珀波護腿【Ｇ】
+7820,Pobo GF Greaves,珀波護腿【ＧＦ】
+7821,Pobo Leggings,珀波裹腿
+7822,Pobo F Leggings,珀波裹腿【Ｆ】
+7823,Pobo FX Leggings,珀波裹腿【ＦＸ】
+7824,Pobo G Leggings,珀波裹腿【Ｇ】
+7825,Pobo GF Leggings,珀波裹腿【ＧＦ】
 7826,Rath Soul G Greaves,火龍魂護腿【Ｇ】
 7827,Rath Soul GF Greaves,火龍魂護腿【ＧＦ】
 7828,Rath Soul GX Greaves,火龍魂護腿【ＧＸ】
@@ -7861,18 +7861,18 @@ index,source,target
 7859,Hevria HS Leggings,赫芙莉亞裹腿【ＨＳ】
 7860,Hevria GS Leggings,赫芙莉亞裹腿【ＧＳ】
 7861,Hevria GP Leggings,赫芙莉亞裹腿【ＧＰ】
-7862,Tiuru Boots,提烏魯靴
-7863,Tiuru F Boots,提烏魯靴【Ｆ】
-7864,Tiuru FZ Boots,提烏魯靴【ＦＺ】
-7865,Tiuru HS Boots,提烏魯靴【ＨＳ】
-7866,Tiuru GS Boots,提烏魯靴【ＧＳ】
-7867,Tiuru GP Boots,提烏魯靴【ＧＰ】
-7868,Tiuru Leggings,提烏魯裹腿
-7869,Tiuru F Leggings,提烏魯裹腿【Ｆ】
-7870,Tiuru FZ Leggings,提烏魯裹腿【ＦＺ】
-7871,Tiuru HS Leggings,提烏魯裹腿【ＨＳ】
-7872,Tiuru GS Leggings,提烏魯裹腿【ＧＳ】
-7873,Tiuru GP Leggings,提烏魯裹腿【ＧＰ】
+7862,Tiuru Boots,蒂宇露靴
+7863,Tiuru F Boots,蒂宇露靴【Ｆ】
+7864,Tiuru FZ Boots,蒂宇露靴【ＦＺ】
+7865,Tiuru HS Boots,蒂宇露靴【ＨＳ】
+7866,Tiuru GS Boots,蒂宇露靴【ＧＳ】
+7867,Tiuru GP Boots,蒂宇露靴【ＧＰ】
+7868,Tiuru Leggings,蒂宇露裹腿
+7869,Tiuru F Leggings,蒂宇露裹腿【Ｆ】
+7870,Tiuru FZ Leggings,蒂宇露裹腿【ＦＺ】
+7871,Tiuru HS Leggings,蒂宇露裹腿【ＨＳ】
+7872,Tiuru GS Leggings,蒂宇露裹腿【ＧＳ】
+7873,Tiuru GP Leggings,蒂宇露裹腿【ＧＰ】
 7874,Bande Feet・Blue,飾帶足・青
 7875,Bande F Feet・Blue,飾帶足【Ｆ】・青
 7876,Bande FZ Feet・Blue,飾帶足【ＦＺ】・青
@@ -8124,48 +8124,48 @@ index,source,target
 8122,Quoiz G Leggings,斯烏茲裹腿【Ｇ】
 8123,Quoiz GF Leggings,斯烏茲裹腿【ＧＦ】
 8124,Quoiz GX Leggings,斯烏茲裹腿【ＧＸ】
-8125,Kalais Feet,克阿爾阿足
-8126,Kalais F Feet,克阿爾阿足【Ｆ】
-8127,Kalais FY Feet,克阿爾阿足
-8128,Kalais HS Feet,克阿爾阿足【ＨＳ】
-8129,Kalais G Feet,克阿爾阿足【Ｇ】
-8130,Kalais GF Feet,克阿爾阿足【ＧＦ】
-8131,Kalais GX Feet,克阿爾阿足【ＧＸ】
-8132,Kalais Leggings,克阿爾阿裹腿
-8133,Kalais F Leggings,克阿爾阿裹腿【Ｆ】
-8134,Kalais FY Leggings,克阿爾阿裹腿
-8135,Kalais HS Leggings,克阿爾阿裹腿【ＨＳ】
-8136,Kalais G Leggings,克阿爾阿裹腿【Ｇ】
-8137,Kalais GF Leggings,克阿爾阿裹腿【ＧＦ】
-8138,Kalais GX Leggings,克阿爾阿裹腿【ＧＸ】
-8139,Yoruti Greaves,伊歐爾烏護腿
-8140,Yoruti F Greaves,伊歐爾烏護腿【Ｆ】
-8141,Yoruti FY Greaves,伊歐爾烏護腿
-8142,Yoruti HS Greaves,伊歐爾烏護腿【ＨＳ】
-8143,Yoruti G Greaves,伊歐爾烏護腿【Ｇ】
-8144,Yoruti GF Greaves,伊歐爾烏護腿【ＧＦ】
-8145,Yoruti GX Greaves,伊歐爾烏護腿【ＧＸ】
-8146,Yoruti Leggings,伊歐爾烏裹腿
-8147,Yoruti F Leggings,伊歐爾烏裹腿【Ｆ】
-8148,Yoruti FY Leggings,伊歐爾烏裹腿
-8149,Yoruti HS Leggings,伊歐爾烏裹腿【ＨＳ】
-8150,Yoruti G Leggings,伊歐爾烏裹腿【Ｇ】
-8151,Yoruti GF Leggings,伊歐爾烏裹腿【ＧＦ】
-8152,Yoruti GX Leggings,伊歐爾烏裹腿【ＧＸ】
-8153,Haragan Greaves,赫阿爾阿護腿
-8154,Haragan F Greaves,赫阿爾阿護腿【Ｆ】
-8155,Haragan FY Greaves,赫阿爾阿護腿
-8156,Haragan HS Greaves,赫阿爾阿護腿【ＨＳ】
-8157,Haragan G Greaves,赫阿爾阿護腿【Ｇ】
-8158,Haragan GF Greaves,赫阿爾阿護腿【ＧＦ】
-8159,Haragan GX Greaves,赫阿爾阿護腿【ＧＸ】
-8160,Haragan Leggings,赫阿爾阿裹腿
-8161,Haragan F Leggings,赫阿爾阿裹腿【Ｆ】
-8162,Haragan FY Leggings,赫阿爾阿裹腿
-8163,Haragan HS Leggings,赫阿爾阿裹腿【ＨＳ】
-8164,Haragan G Leggings,赫阿爾阿裹腿【Ｇ】
-8165,Haragan GF Leggings,赫阿爾阿裹腿【ＧＦ】
-8166,Haragan GX Leggings,赫阿爾阿裹腿【ＧＸ】
+8125,Kalais Feet,可拉足
+8126,Kalais F Feet,可拉足【Ｆ】
+8127,Kalais FY Feet,可拉足
+8128,Kalais HS Feet,可拉足【ＨＳ】
+8129,Kalais G Feet,可拉足【Ｇ】
+8130,Kalais GF Feet,可拉足【ＧＦ】
+8131,Kalais GX Feet,可拉足【ＧＸ】
+8132,Kalais Leggings,可拉裹腿
+8133,Kalais F Leggings,可拉裹腿【Ｆ】
+8134,Kalais FY Leggings,可拉裹腿
+8135,Kalais HS Leggings,可拉裹腿【ＨＳ】
+8136,Kalais G Leggings,可拉裹腿【Ｇ】
+8137,Kalais GF Leggings,可拉裹腿【ＧＦ】
+8138,Kalais GX Leggings,可拉裹腿【ＧＸ】
+8139,Yoruti Greaves,約露蒂護腿
+8140,Yoruti F Greaves,約露蒂護腿【Ｆ】
+8141,Yoruti FY Greaves,約露蒂護腿
+8142,Yoruti HS Greaves,約露蒂護腿【ＨＳ】
+8143,Yoruti G Greaves,約露蒂護腿【Ｇ】
+8144,Yoruti GF Greaves,約露蒂護腿【ＧＦ】
+8145,Yoruti GX Greaves,約露蒂護腿【ＧＸ】
+8146,Yoruti Leggings,約露蒂裹腿
+8147,Yoruti F Leggings,約露蒂裹腿【Ｆ】
+8148,Yoruti FY Leggings,約露蒂裹腿
+8149,Yoruti HS Leggings,約露蒂裹腿【ＨＳ】
+8150,Yoruti G Leggings,約露蒂裹腿【Ｇ】
+8151,Yoruti GF Leggings,約露蒂裹腿【ＧＦ】
+8152,Yoruti GX Leggings,約露蒂裹腿【ＧＸ】
+8153,Haragan Greaves,哈拉加護腿
+8154,Haragan F Greaves,哈拉加護腿【Ｆ】
+8155,Haragan FY Greaves,哈拉加護腿
+8156,Haragan HS Greaves,哈拉加護腿【ＨＳ】
+8157,Haragan G Greaves,哈拉加護腿【Ｇ】
+8158,Haragan GF Greaves,哈拉加護腿【ＧＦ】
+8159,Haragan GX Greaves,哈拉加護腿【ＧＸ】
+8160,Haragan Leggings,哈拉加裹腿
+8161,Haragan F Leggings,哈拉加裹腿【Ｆ】
+8162,Haragan FY Leggings,哈拉加裹腿
+8163,Haragan HS Leggings,哈拉加裹腿【ＨＳ】
+8164,Haragan G Leggings,哈拉加裹腿【Ｇ】
+8165,Haragan GF Leggings,哈拉加裹腿【ＧＦ】
+8166,Haragan GX Leggings,哈拉加裹腿【ＧＸ】
 8167,Rios Greaves,爾伊斯護腿
 8168,Rios F Greaves,爾伊斯護腿【Ｆ】
 8169,Rios FY Greaves,爾伊斯護腿
@@ -8194,14 +8194,14 @@ index,source,target
 8192,Fog G【 Hakama 】,霧袴【Ｇ】
 8193,Fog GF【 Hakama 】,霧袴【ＧＦ】
 8194,Fog GX【 Hakama 】,霧袴【ＧＸ】
-8195,Rodokuru Greaves,爾歐德歐護腿
-8196,Rodokuru F Greaves,爾歐德歐護腿【Ｆ】
-8197,Rodokuru FY Greaves,爾歐德歐護腿
-8198,Rodokuru HS Greaves,爾歐德歐護腿【ＨＳ】
-8199,Rodokuru G Greaves,爾歐德歐護腿【Ｇ】
-8200,Rodokuru GF Greaves,爾歐德歐護腿【ＧＦ】
-8201,Rodokuru GX Greaves,爾歐德歐護腿【ＧＸ】
-8202,Noir FY Greaves,恩歐爾護腿
+8195,Rodokuru Greaves,蘿多克露護腿
+8196,Rodokuru F Greaves,蘿多克露護腿【Ｆ】
+8197,Rodokuru FY Greaves,蘿多克露護腿
+8198,Rodokuru HS Greaves,蘿多克露護腿【ＨＳ】
+8199,Rodokuru G Greaves,蘿多克露護腿【Ｇ】
+8200,Rodokuru GF Greaves,蘿多克露護腿【ＧＦ】
+8201,Rodokuru GX Greaves,蘿多克露護腿【ＧＸ】
+8202,Noir FY Greaves,諾護腿
 8203,Noir HS Greaves,黑護腿【ＨＳ】
 8204,Noir G Greaves,黑護腿【Ｇ】
 8205,Noir GF Greaves,黑護腿【ＧＦ】
@@ -8212,38 +8212,38 @@ index,source,target
 8210,童子ノ足枷G,童子足枷護腿【Ｇ】
 8211,童子ノ足枷GF,童子足枷護腿【Ｆ】
 8212,童子ノ足枷GX,童子足枷護腿【ＧＸ】
-8213,Trume Greaves,特烏姆艾護腿
-8214,Trume F Greaves,特烏姆艾護腿【Ｆ】
-8215,Trume FZ Greaves,特烏姆艾護腿【ＦＺ】
-8216,Trume HS Greaves,特烏姆艾護腿【ＨＳ】
-8217,Trume GS Greaves,特烏姆艾護腿【ＧＳ】
-8218,Trume GP Greaves,特烏姆艾護腿【ＧＰ】
-8219,Trume Boots,特烏姆艾靴
-8220,Trume F Boots,特烏姆艾靴【Ｆ】
-8221,Trume FZ Boots,特烏姆艾靴【ＦＺ】
-8222,Trume HS Boots,特烏姆艾靴【ＨＳ】
-8223,Trume GS Boots,特烏姆艾靴【ＧＳ】
-8224,Trume GP Boots,特烏姆艾靴【ＧＰ】
+8213,Trume Greaves,特梅護腿
+8214,Trume F Greaves,特梅護腿【Ｆ】
+8215,Trume FZ Greaves,特梅護腿【ＦＺ】
+8216,Trume HS Greaves,特梅護腿【ＨＳ】
+8217,Trume GS Greaves,特梅護腿【ＧＳ】
+8218,Trume GP Greaves,特梅護腿【ＧＰ】
+8219,Trume Boots,特梅靴
+8220,Trume F Boots,特梅靴【Ｆ】
+8221,Trume FZ Boots,特梅靴【ＦＺ】
+8222,Trume HS Boots,特梅靴【ＨＳ】
+8223,Trume GS Boots,特梅靴【ＧＳ】
+8224,Trume GP Boots,特梅靴【ＧＰ】
 8225,Gogomoa G Greaves,跳緋獸護腿【Ｇ】
 8226,Gogomoa GF Greaves,跳緋獸護腿【ＧＦ】
 8227,Gogomoa GX Greaves,跳緋獸護腿【ＧＸ】
 8228,Gogomoa G Leggings,跳緋獸裹腿【Ｇ】
 8229,Gogomoa GF Leggings,跳緋獸裹腿【ＧＦ】
 8230,Gogomoa GX Leggings,跳緋獸裹腿【ＧＸ】
-8231,Varusa Greaves,芙阿爾烏護腿
-8232,Varusa F Greaves,芙阿爾烏護腿【Ｆ】
-8233,Varusa FX Greaves,芙阿爾烏護腿【ＦＸ】
-8234,Varusa G Greaves,芙阿爾烏護腿【Ｇ】
-8235,Varusa GF Greaves,芙阿爾烏護腿【ＧＦ】
-8236,Varusa Leggings,芙阿爾烏裹腿
-8237,Varusa F Leggings,芙阿爾烏裹腿【Ｆ】
-8238,Varusa FX Leggings,芙阿爾烏裹腿【ＦＸ】
-8239,Varusa G Leggings,芙阿爾烏裹腿【Ｇ】
-8240,Varusa GF Leggings,芙阿爾烏裹腿【ＧＦ】
+8231,Varusa Greaves,瓦露薩護腿
+8232,Varusa F Greaves,瓦露薩護腿【Ｆ】
+8233,Varusa FX Greaves,瓦露薩護腿【ＦＸ】
+8234,Varusa G Greaves,瓦露薩護腿【Ｇ】
+8235,Varusa GF Greaves,瓦露薩護腿【ＧＦ】
+8236,Varusa Leggings,瓦露薩裹腿
+8237,Varusa F Leggings,瓦露薩裹腿【Ｆ】
+8238,Varusa FX Leggings,瓦露薩裹腿【ＦＸ】
+8239,Varusa G Leggings,瓦露薩裹腿【Ｇ】
+8240,Varusa GF Leggings,瓦露薩裹腿【ＧＦ】
 8241,Flame GF Greaves,炎護腿【ＧＦ】
 8242,Flame GF Leggings,炎裹腿【ＧＦ】
-8243,Lils GF Greaves,爾伊爾護腿【ＧＦ】
-8244,Lils GF Leggings,爾伊爾裹腿【ＧＦ】
+8243,Lils GF Greaves,莉護腿【ＧＦ】
+8244,Lils GF Leggings,莉裹腿【ＧＦ】
 8245,Asteli Feet・White,阿斯特利足・白
 8246,Asteli F Feet・White,阿斯特利足【Ｆ】・白
 8247,Asteli FZ Feet・White,阿斯特利足【ＦＺ】・白
@@ -8292,26 +8292,26 @@ index,source,target
 8290,Asteli HS Boots・Black,阿斯特利靴【ＨＳ】・黑
 8291,Asteli GS Boots・Black,阿斯特利靴【ＧＳ】・黑
 8292,Asteli GP Boots・Black,阿斯特利靴【ＧＰ】・黑
-8293,Lucchese Feet,爾烏克艾足
-8294,Lucchese F Feet,爾烏克艾足【Ｆ】
-8295,Lucchese FY Feet,爾烏克艾足
-8296,Lucchese HS Feet,爾烏克艾足【ＨＳ】
-8297,Lucchese G Feet,爾烏克艾足【Ｇ】
-8298,Lucchese GF Feet,爾烏克艾足【ＧＦ】
-8299,Lucchese GX Feet,爾烏克艾足【ＧＸ】
-8300,Lucchese Leggings,爾烏克艾裹腿
-8301,Lucchese F Leggings,爾烏克艾裹腿【Ｆ】
-8302,Lucchese FY Leggings,爾烏克艾裹腿
-8303,Lucchese HS Leggings,爾烏克艾裹腿【ＨＳ】
-8304,Lucchese G Leggings,爾烏克艾裹腿【Ｇ】
-8305,Lucchese GF Leggings,爾烏克艾裹腿【ＧＦ】
-8306,Lucchese GX Leggings,爾烏克艾裹腿【ＧＸ】
-8307,Orykto G Greaves,歐爾歐護腿【Ｇ】
-8308,Orykto GF Greaves,歐爾歐護腿【ＧＦ】
-8309,Orykto GX Greaves,歐爾歐護腿【ＧＸ】
-8310,Orykto G Leggings,歐爾歐裹腿【Ｇ】
-8311,Orykto GF Leggings,歐爾歐裹腿【ＧＦ】
-8312,Orykto GX Leggings,歐爾歐裹腿【ＧＸ】
+8293,Lucchese Feet,露切賽足
+8294,Lucchese F Feet,露切賽足【Ｆ】
+8295,Lucchese FY Feet,露切賽足
+8296,Lucchese HS Feet,露切賽足【ＨＳ】
+8297,Lucchese G Feet,露切賽足【Ｇ】
+8298,Lucchese GF Feet,露切賽足【ＧＦ】
+8299,Lucchese GX Feet,露切賽足【ＧＸ】
+8300,Lucchese Leggings,露切賽裹腿
+8301,Lucchese F Leggings,露切賽裹腿【Ｆ】
+8302,Lucchese FY Leggings,露切賽裹腿
+8303,Lucchese HS Leggings,露切賽裹腿【ＨＳ】
+8304,Lucchese G Leggings,露切賽裹腿【Ｇ】
+8305,Lucchese GF Leggings,露切賽裹腿【ＧＦ】
+8306,Lucchese GX Leggings,露切賽裹腿【ＧＸ】
+8307,Orykto G Greaves,托護腿【Ｇ】
+8308,Orykto GF Greaves,托護腿【ＧＦ】
+8309,Orykto GX Greaves,托護腿【ＧＸ】
+8310,Orykto G Leggings,托裹腿【Ｇ】
+8311,Orykto GF Leggings,托裹腿【ＧＦ】
+8312,Orykto GX Leggings,托裹腿【ＧＸ】
 8313,Bonito Greaves,布歐恩伊護腿
 8314,Bonito F Greaves,布歐恩伊護腿【Ｆ】
 8315,Bonito FY Greaves,布歐恩伊護腿
@@ -8342,16 +8342,16 @@ index,source,target
 8340,Harudo FX Leggings,司銀龍裹腿【ＦＸ】
 8341,Harudo G Leggings,司銀龍裹腿【Ｇ】
 8342,Harudo GF Leggings,司銀龍裹腿【ＧＦ】
-8343,Gureado Greaves,格烏爾艾護腿
-8344,Gureado F Greaves,格烏爾艾護腿【Ｆ】
-8345,Gureado FX Greaves,格烏爾艾護腿【ＦＸ】
-8346,Gureado G Greaves,格烏爾艾護腿【Ｇ】
-8347,Gureado GF Greaves,格烏爾艾護腿【ＧＦ】
-8348,Gureado Leggings,格烏爾艾裹腿
-8349,Gureado F Leggings,格烏爾艾裹腿【Ｆ】
-8350,Gureado FX Leggings,格烏爾艾裹腿【ＦＸ】
-8351,Gureado G Leggings,格烏爾艾裹腿【Ｇ】
-8352,Gureado GF Leggings,格烏爾艾裹腿【ＧＦ】
+8343,Gureado Greaves,古蕾多護腿
+8344,Gureado F Greaves,古蕾多護腿【Ｆ】
+8345,Gureado FX Greaves,古蕾多護腿【ＦＸ】
+8346,Gureado G Greaves,古蕾多護腿【Ｇ】
+8347,Gureado GF Greaves,古蕾多護腿【ＧＦ】
+8348,Gureado Leggings,古蕾多裹腿
+8349,Gureado F Leggings,古蕾多裹腿【Ｆ】
+8350,Gureado FX Leggings,古蕾多裹腿【ＦＸ】
+8351,Gureado G Leggings,古蕾多裹腿【Ｇ】
+8352,Gureado GF Leggings,古蕾多裹腿【ＧＦ】
 8353,Akantor Gケマル,霸龍護腿
 8354,Akantor GFケマル,霸龍護腿
 8355,Akantor GXケマル,霸龍護腿
@@ -8616,30 +8616,30 @@ index,source,target
 8614,AB Layer HS GN Legs White,層甲腿甲【ＨＳ】・白
 8615,AB Layer GS GN Legs White,層甲腿甲【ＧＳ】・白
 8616,AB Layer GP GN Legs White,層甲腿甲【ＧＰ】・白
-8617,Bronte Feet,布歐恩艾足
-8618,Bronte F Feet,布歐恩艾足【Ｆ】
-8619,Bronte FZ Feet,布歐恩艾足【ＦＺ】
-8620,Bronte HS Feet,布歐恩艾足【ＨＳ】
-8621,Bronte GS Feet,布歐恩艾足【ＧＳ】
-8622,Bronte GP Feet,布歐恩艾足【ＧＰ】
-8623,Bronte Boots,布歐恩艾靴
-8624,Bronte F Boots,布歐恩艾靴【Ｆ】
-8625,Bronte FZ Boots,布歐恩艾靴【ＦＺ】
-8626,Bronte HS Boots,布歐恩艾靴【ＨＳ】
-8627,Bronte GS Boots,布歐恩艾靴【ＧＳ】
-8628,Bronte GP Boots,布歐恩艾靴【ＧＰ】
-8629,Solene Feet,斯歐爾艾足
-8630,Solene F Feet,斯歐爾艾足【Ｆ】
-8631,Solene FZ Feet,斯歐爾艾足【ＦＺ】
-8632,Solene HS Feet,斯歐爾艾足【ＨＳ】
-8633,Solene GS Feet,斯歐爾艾足【ＧＳ】
-8634,Solene GP Feet,斯歐爾艾足【ＧＰ】
-8635,Solene Boots,斯歐爾艾靴
-8636,Solene F Boots,斯歐爾艾靴【Ｆ】
-8637,Solene FZ Boots,斯歐爾艾靴【ＦＺ】
-8638,Solene HS Boots,斯歐爾艾靴【ＨＳ】
-8639,Solene GS Boots,斯歐爾艾靴【ＧＳ】
-8640,Solene GP Boots,斯歐爾艾靴【ＧＰ】
+8617,Bronte Feet,布羅特足
+8618,Bronte F Feet,布羅特足【Ｆ】
+8619,Bronte FZ Feet,布羅特足【ＦＺ】
+8620,Bronte HS Feet,布羅特足【ＨＳ】
+8621,Bronte GS Feet,布羅特足【ＧＳ】
+8622,Bronte GP Feet,布羅特足【ＧＰ】
+8623,Bronte Boots,布羅特靴
+8624,Bronte F Boots,布羅特靴【Ｆ】
+8625,Bronte FZ Boots,布羅特靴【ＦＺ】
+8626,Bronte HS Boots,布羅特靴【ＨＳ】
+8627,Bronte GS Boots,布羅特靴【ＧＳ】
+8628,Bronte GP Boots,布羅特靴【ＧＰ】
+8629,Solene Feet,索勒奈足
+8630,Solene F Feet,索勒奈足【Ｆ】
+8631,Solene FZ Feet,索勒奈足【ＦＺ】
+8632,Solene HS Feet,索勒奈足【ＨＳ】
+8633,Solene GS Feet,索勒奈足【ＧＳ】
+8634,Solene GP Feet,索勒奈足【ＧＰ】
+8635,Solene Boots,索勒奈靴
+8636,Solene F Boots,索勒奈靴【Ｆ】
+8637,Solene FZ Boots,索勒奈靴【ＦＺ】
+8638,Solene HS Boots,索勒奈靴【ＨＳ】
+8639,Solene GS Boots,索勒奈靴【ＧＳ】
+8640,Solene GP Boots,索勒奈靴【ＧＰ】
 8641,Lapine Feet,兔足
 8642,Lapine F Feet,兔足【Ｆ】
 8643,Lapine FZ Feet,兔足【ＦＺ】
@@ -8664,68 +8664,68 @@ index,source,target
 8662,Yukumo ノハカマG・Heaven,結雲天護腿【Ｇ】
 8663,Yukumo ノハカマGF・Heaven,結雲天護腿【Ｆ】
 8664,Yukumo ノハカマGX・Heaven,結雲天護腿【ＧＸ】
-8665,Furogada G Greaves,芙烏爾歐護腿【Ｇ】
-8666,Furogada GF Greaves,芙烏爾歐護腿【ＧＦ】
-8667,Furogada GX Greaves,芙烏爾歐護腿【ＧＸ】
+8665,Furogada G Greaves,芙蘿加達護腿【Ｇ】
+8666,Furogada GF Greaves,芙蘿加達護腿【ＧＦ】
+8667,Furogada GX Greaves,芙蘿加達護腿【ＧＸ】
 8668,Yukumo ノハカマ・Earth,結雲地護腿
 8669,Yukumo ノハカマG・Earth,結雲地護腿【Ｇ】
 8670,Yukumo ノハカマGF・Earth,結雲地護腿【Ｆ】
 8671,Yukumo ノハカマGX・Earth,結雲地護腿【ＧＸ】
-8672,Furogada G Leggings,芙烏爾歐裹腿【Ｇ】
-8673,Furogada GF Leggings,芙烏爾歐裹腿【ＧＦ】
-8674,Furogada GX Leggings,芙烏爾歐裹腿【ＧＸ】
+8672,Furogada G Leggings,芙蘿加達裹腿【Ｇ】
+8673,Furogada GF Leggings,芙蘿加達裹腿【ＧＦ】
+8674,Furogada GX Leggings,芙蘿加達裹腿【ＧＸ】
 8675,ダミー,(dummy)
 8676,ダミー,(dummy)
 8677,ダミー,(dummy)
 8678,ダミー,(dummy)
-8679,Rance G Greaves,爾阿恩艾護腿【Ｇ】
-8680,Rance GF Greaves,爾阿恩艾護腿【ＧＦ】
-8681,Rance GX Greaves,爾阿恩艾護腿【ＧＸ】
+8679,Rance G Greaves,拉賽護腿【Ｇ】
+8680,Rance GF Greaves,拉賽護腿【ＧＦ】
+8681,Rance GX Greaves,拉賽護腿【ＧＸ】
 8682,ダミー,(dummy)
 8683,ダミー,(dummy)
 8684,ダミー,(dummy)
 8685,ダミー,(dummy)
-8686,Rance G Leggings,爾阿恩艾裹腿【Ｇ】
-8687,Rance GF Leggings,爾阿恩艾裹腿【ＧＦ】
-8688,Rance GX Leggings,爾阿恩艾裹腿【ＧＸ】
-8689,Meirida Greaves,姆艾爾伊護腿
-8690,Meirida F Greaves,姆艾爾伊護腿【Ｆ】
-8691,Meirida FY Greaves,姆艾爾伊護腿
-8692,Meirida HS Greaves,姆艾爾伊護腿【ＨＳ】
-8693,Meirida G Greaves,姆艾爾伊護腿【Ｇ】
-8694,Meirida GF Greaves,姆艾爾伊護腿【ＧＦ】
-8695,Meirida GX Greaves,姆艾爾伊護腿【ＧＸ】
-8696,Meirida Leggings,姆艾爾伊裹腿
-8697,Meirida F Leggings,姆艾爾伊裹腿【Ｆ】
-8698,Meirida FY Leggings,姆艾爾伊裹腿
-8699,Meirida HS Leggings,姆艾爾伊裹腿【ＨＳ】
-8700,Meirida G Leggings,姆艾爾伊裹腿【Ｇ】
-8701,Meirida GF Leggings,姆艾爾伊裹腿【ＧＦ】
-8702,Meirida GX Leggings,姆艾爾伊裹腿【ＧＸ】
-8703,Maaden Greaves,姆阿德艾護腿
-8704,Maaden F Greaves,姆阿德艾護腿【Ｆ】
-8705,Maaden FY Greaves,姆阿德艾護腿
-8706,Maaden HS Greaves,姆阿德艾護腿【ＨＳ】
-8707,Maaden G Greaves,姆阿德艾護腿【Ｇ】
-8708,Maaden GF Greaves,姆阿德艾護腿【ＧＦ】
-8709,Maaden GX Greaves,姆阿德艾護腿【ＧＸ】
-8710,Maaden Leggings,姆阿德艾裹腿
-8711,Maaden F Leggings,姆阿德艾裹腿【Ｆ】
-8712,Maaden FY Leggings,姆阿德艾裹腿
-8713,Maaden HS Leggings,姆阿德艾裹腿【ＨＳ】
-8714,Maaden G Leggings,姆阿德艾裹腿【Ｇ】
-8715,Maaden GF Leggings,姆阿德艾裹腿【ＧＦ】
-8716,Maaden GX Leggings,姆阿德艾裹腿【ＧＸ】
+8686,Rance G Leggings,拉賽裹腿【Ｇ】
+8687,Rance GF Leggings,拉賽裹腿【ＧＦ】
+8688,Rance GX Leggings,拉賽裹腿【ＧＸ】
+8689,Meirida Greaves,梅里達護腿
+8690,Meirida F Greaves,梅里達護腿【Ｆ】
+8691,Meirida FY Greaves,梅里達護腿
+8692,Meirida HS Greaves,梅里達護腿【ＨＳ】
+8693,Meirida G Greaves,梅里達護腿【Ｇ】
+8694,Meirida GF Greaves,梅里達護腿【ＧＦ】
+8695,Meirida GX Greaves,梅里達護腿【ＧＸ】
+8696,Meirida Leggings,梅里達裹腿
+8697,Meirida F Leggings,梅里達裹腿【Ｆ】
+8698,Meirida FY Leggings,梅里達裹腿
+8699,Meirida HS Leggings,梅里達裹腿【ＨＳ】
+8700,Meirida G Leggings,梅里達裹腿【Ｇ】
+8701,Meirida GF Leggings,梅里達裹腿【ＧＦ】
+8702,Meirida GX Leggings,梅里達裹腿【ＧＸ】
+8703,Maaden Greaves,瑪德護腿
+8704,Maaden F Greaves,瑪德護腿【Ｆ】
+8705,Maaden FY Greaves,瑪德護腿
+8706,Maaden HS Greaves,瑪德護腿【ＨＳ】
+8707,Maaden G Greaves,瑪德護腿【Ｇ】
+8708,Maaden GF Greaves,瑪德護腿【ＧＦ】
+8709,Maaden GX Greaves,瑪德護腿【ＧＸ】
+8710,Maaden Leggings,瑪德裹腿
+8711,Maaden F Leggings,瑪德裹腿【Ｆ】
+8712,Maaden FY Leggings,瑪德裹腿
+8713,Maaden HS Leggings,瑪德裹腿【ＨＳ】
+8714,Maaden G Leggings,瑪德裹腿【Ｇ】
+8715,Maaden GF Leggings,瑪德裹腿【ＧＦ】
+8716,Maaden GX Leggings,瑪德裹腿【ＧＸ】
 8717,Kosho 【 Hakama 】,古書袴
 8718,Kosho F【 Hakama 】,古書袴【Ｆ】
-8719,Kosho FY【 Hakama 】,克歐夏歐袴
+8719,Kosho FY【 Hakama 】,古修袴
 8720,Kosho HS【 Hakama 】,古書袴【ＨＳ】
 8721,Kosho G【 Hakama 】,古書袴【Ｇ】
 8722,Kosho GF【 Hakama 】,古書袴【ＧＦ】
 8723,Kosho GX【 Hakama 】,古書袴【ＧＸ】
 8724,Koro [Hakama 】,孤狼袴
 8725,Koro F [Hakama 】,孤狼袴【Ｆ】
-8726,Koro FY [Hakama 】,克歐爾歐袴
+8726,Koro FY [Hakama 】,古蘿袴
 8727,Koro HS [Hakama 】,孤狼袴【ＨＳ】
 8728,Koro G [Hakama 】,孤狼袴【Ｇ】
 8729,Koro GF [Hakama 】,孤狼袴【ＧＦ】
@@ -8744,20 +8744,20 @@ index,source,target
 8742,Abuyado G Leggings,阿布烏伊裹腿【Ｇ】
 8743,Abuyado GF Leggings,阿布烏伊裹腿【ＧＦ】
 8744,Abuyado GX Leggings,阿布烏伊裹腿【ＧＸ】
-8745,Gorukku Feet,格歐爾烏足
-8746,Gorukku F Feet,格歐爾烏足【Ｆ】
-8747,Gorukku FY Feet,格歐爾烏足
-8748,Gorukku HS Feet,格歐爾烏足【ＨＳ】
-8749,Gorukku G Feet,格歐爾烏足【Ｇ】
-8750,Gorukku GF Feet,格歐爾烏足【ＧＦ】
-8751,Gorukku GX Feet,格歐爾烏足【ＧＸ】
-8752,Gorukku Boots,格歐爾烏靴
-8753,Gorukku F Boots,格歐爾烏靴【Ｆ】
-8754,Gorukku FY Boots,格歐爾烏靴
-8755,Gorukku HS Boots,格歐爾烏靴【ＨＳ】
-8756,Gorukku G Boots,格歐爾烏靴【Ｇ】
-8757,Gorukku GF Boots,格歐爾烏靴【ＧＦ】
-8758,Gorukku GX Boots,格歐爾烏靴【ＧＸ】
+8745,Gorukku Feet,古蘿布足
+8746,Gorukku F Feet,古蘿布足【Ｆ】
+8747,Gorukku FY Feet,古蘿布足
+8748,Gorukku HS Feet,古蘿布足【ＨＳ】
+8749,Gorukku G Feet,古蘿布足【Ｇ】
+8750,Gorukku GF Feet,古蘿布足【ＧＦ】
+8751,Gorukku GX Feet,古蘿布足【ＧＸ】
+8752,Gorukku Boots,古蘿布靴
+8753,Gorukku F Boots,古蘿布靴【Ｆ】
+8754,Gorukku FY Boots,古蘿布靴
+8755,Gorukku HS Boots,古蘿布靴【ＨＳ】
+8756,Gorukku G Boots,古蘿布靴【Ｇ】
+8757,Gorukku GF Boots,古蘿布靴【ＧＦ】
+8758,Gorukku GX Boots,古蘿布靴【ＧＸ】
 8759,Shimashima Feet,夏伊姆阿足
 8760,Shimashima F Feet,夏伊姆阿足【Ｆ】
 8761,Shimashima FY Feet,夏伊姆阿足
@@ -8772,12 +8772,12 @@ index,source,target
 8770,Shimashima G Boots,夏伊姆阿靴【Ｇ】
 8771,Shimashima GF Boots,夏伊姆阿靴【ＧＦ】
 8772,Shimashima GX Boots,夏伊姆阿靴【ＧＸ】
-8773,Rath Duo FY Greaves,爾阿斯烏護腿
+8773,Rath Duo FY Greaves,拉斯杜護腿
 8774,Rath Duo HS Greaves,雙火龍護腿【ＨＳ】
 8775,Rath Duo G Greaves,雙火龍護腿【Ｇ】
 8776,Rath Duo GF Greaves,雙火龍護腿【ＧＦ】
 8777,Rath Duo GX Greaves,雙火龍護腿【ＧＸ】
-8778,Rath Duo FY Leggings,爾阿斯烏裹腿
+8778,Rath Duo FY Leggings,拉斯杜裹腿
 8779,Rath Duo HS Leggings,雙火龍裹腿【ＨＳ】
 8780,Rath Duo G Leggings,雙火龍裹腿【Ｇ】
 8781,Rath Duo GF Leggings,雙火龍裹腿【ＧＦ】
@@ -8790,20 +8790,20 @@ index,source,target
 8788,Tandress G Boots,坦德蕾絲靴【Ｇ】
 8789,Tandress GF Boots,坦德蕾絲靴【ＧＦ】
 8790,Tandress GX Boots,坦德蕾絲靴【ＧＸ】
-8791,Ranvuo Feet,爾阿恩烏足
-8792,Ranvuo F Feet,爾阿恩烏足【Ｆ】
-8793,Ranvuo FY Feet,爾阿恩烏足
-8794,Ranvuo HS Feet,爾阿恩烏足【ＨＳ】
-8795,Ranvuo G Feet,爾阿恩烏足【Ｇ】
-8796,Ranvuo GF Feet,爾阿恩烏足【ＧＦ】
-8797,Ranvuo GX Feet,爾阿恩烏足【ＧＸ】
-8798,Ranvuo Boots,爾阿恩烏靴
-8799,Ranvuo F Boots,爾阿恩烏靴【Ｆ】
-8800,Ranvuo FY Boots,爾阿恩烏靴
-8801,Ranvuo HS Boots,爾阿恩烏靴【ＨＳ】
-8802,Ranvuo G Boots,爾阿恩烏靴【Ｇ】
-8803,Ranvuo GF Boots,爾阿恩烏靴【ＧＦ】
-8804,Ranvuo GX Boots,爾阿恩烏靴【ＧＸ】
+8791,Ranvuo Feet,拉足
+8792,Ranvuo F Feet,拉足【Ｆ】
+8793,Ranvuo FY Feet,拉足
+8794,Ranvuo HS Feet,拉足【ＨＳ】
+8795,Ranvuo G Feet,拉足【Ｇ】
+8796,Ranvuo GF Feet,拉足【ＧＦ】
+8797,Ranvuo GX Feet,拉足【ＧＸ】
+8798,Ranvuo Boots,拉靴
+8799,Ranvuo F Boots,拉靴【Ｆ】
+8800,Ranvuo FY Boots,拉靴
+8801,Ranvuo HS Boots,拉靴【ＨＳ】
+8802,Ranvuo G Boots,拉靴【Ｇ】
+8803,Ranvuo GF Boots,拉靴【ＧＦ】
+8804,Ranvuo GX Boots,拉靴【ＧＸ】
 8805,Nyui Feet,恩烏足
 8806,Nyui F Feet,恩烏足【Ｆ】
 8807,Nyui FY Feet,恩烏斯足
@@ -8834,8 +8834,8 @@ index,source,target
 8832,Nympha GX Leggings,恩阿裹腿【ＧＸ】
 8833,Harudo GX Greaves,司銀龍護腿【ＧＸ】
 8834,Harudo GX Leggings,司銀龍裹腿【ＧＸ】
-8835,Gureado GX Greaves,格烏爾艾護腿【ＧＸ】
-8836,Gureado GX Leggings,格烏爾艾裹腿【ＧＸ】
+8835,Gureado GX Greaves,古蕾多護腿【ＧＸ】
+8836,Gureado GX Leggings,古蕾多裹腿【ＧＸ】
 8837,Pics GP Feet・Green,皮克斯足【ＧＰ】・緑
 8838,Pics GP Boots・Green,皮克斯靴【ＧＰ】・緑
 8839,Pics GP Feet・Purple,皮克斯足【ＧＰ】・紫
@@ -9072,12 +9072,12 @@ index,source,target
 9070,トイストHS Leggings,托伊斯托裹腿【ＨＳ】
 9071,トイストGS Leggings,托伊斯托裹腿【ＧＳ】
 9072,トイストGP Leggings,托伊斯托裹腿【ＧＰ】
-9073,Nekodan Feet,恩艾克歐足
-9074,Nekodan F Feet,恩艾克歐足【Ｆ】
-9075,Nekodan FZ Feet,恩艾克歐足【ＦＺ】
-9076,Nekodan HS Feet,恩艾克歐足【ＨＳ】
-9077,Nekodan GS Feet,恩艾克歐足【ＧＳ】
-9078,Nekodan GP Feet,恩艾克歐足【ＧＰ】
+9073,Nekodan Feet,奈古達足
+9074,Nekodan F Feet,奈古達足【Ｆ】
+9075,Nekodan FZ Feet,奈古達足【ＦＺ】
+9076,Nekodan HS Feet,奈古達足【ＨＳ】
+9077,Nekodan GS Feet,奈古達足【ＧＳ】
+9078,Nekodan GP Feet,奈古達足【ＧＰ】
 9079,Aelucanth Crura,甲蟲腿甲
 9080,Aelucanth G Crura,甲蟲腿甲【Ｇ】
 9081,Aelucanth GF Crura,甲蟲腿甲【ＧＦ】
@@ -9094,26 +9094,26 @@ index,source,target
 9092,Rhopessa Gフェムル,鳳蝶護腿
 9093,Rhopessa GFフェムル,鳳蝶護腿
 9094,Rhopessa GXフェムル,鳳蝶護腿
-9095,Riaruo G Greaves,爾伊爾烏護腿【Ｇ】
-9096,Riaruo GF Greaves,爾伊爾烏護腿【ＧＦ】
-9097,Riaruo GX Greaves,爾伊爾烏護腿【ＧＸ】
-9098,Riaruo G Leggings,爾伊爾烏裹腿【Ｇ】
-9099,Riaruo GF Leggings,爾伊爾烏裹腿【ＧＦ】
-9100,Riaruo GX Leggings,爾伊爾烏裹腿【ＧＸ】
-9101,Ordre Greaves,歐爾艾護腿
-9102,Ordre F Greaves,歐爾艾護腿【Ｆ】
-9103,Ordre FY Greaves,歐爾艾斯護腿
-9104,Ordre HS Greaves,歐爾艾護腿【ＨＳ】
-9105,Ordre G Greaves,歐爾艾護腿【Ｇ】
-9106,Ordre GF Greaves,歐爾艾護腿【ＧＦ】
-9107,Ordre GX Greaves,歐爾艾護腿【ＧＸ】
-9108,Ordre Leggings,歐爾艾裹腿
-9109,Ordre F Leggings,歐爾艾裹腿【Ｆ】
-9110,Ordre FY Leggings,歐爾艾斯裹腿
-9111,Ordre HS Leggings,歐爾艾裹腿【ＨＳ】
-9112,Ordre G Leggings,歐爾艾裹腿【Ｇ】
-9113,Ordre GF Leggings,歐爾艾裹腿【ＧＦ】
-9114,Ordre GX Leggings,歐爾艾裹腿【ＧＸ】
+9095,Riaruo G Greaves,里露護腿【Ｇ】
+9096,Riaruo GF Greaves,里露護腿【ＧＦ】
+9097,Riaruo GX Greaves,里露護腿【ＧＸ】
+9098,Riaruo G Leggings,里露裹腿【Ｇ】
+9099,Riaruo GF Leggings,里露裹腿【ＧＦ】
+9100,Riaruo GX Leggings,里露裹腿【ＧＸ】
+9101,Ordre Greaves,德護腿
+9102,Ordre F Greaves,德護腿【Ｆ】
+9103,Ordre FY Greaves,德護腿
+9104,Ordre HS Greaves,德護腿【ＨＳ】
+9105,Ordre G Greaves,德護腿【Ｇ】
+9106,Ordre GF Greaves,德護腿【ＧＦ】
+9107,Ordre GX Greaves,德護腿【ＧＸ】
+9108,Ordre Leggings,德裹腿
+9109,Ordre F Leggings,德裹腿【Ｆ】
+9110,Ordre FY Leggings,德裹腿
+9111,Ordre HS Leggings,德裹腿【ＨＳ】
+9112,Ordre G Leggings,德裹腿【Ｇ】
+9113,Ordre GF Leggings,德裹腿【ＧＦ】
+9114,Ordre GX Leggings,德裹腿【ＧＸ】
 9115,Cheni Greaves,奇艾恩伊護腿
 9116,Cheni F Greaves,奇艾恩伊護腿【Ｆ】
 9117,Cheni FY Greaves,奇艾恩伊護腿
@@ -9144,14 +9144,14 @@ index,source,target
 9142,Miniomu GX Leggings,姆伊恩伊裹腿【ＧＸ】
 9143,Once Greaves,一度護腿
 9144,Once F Greaves,一度護腿【Ｆ】
-9145,Once FY Greaves,歐恩艾斯護腿
+9145,Once FY Greaves,賽護腿
 9146,Once HS Greaves,一度護腿【ＨＳ】
 9147,Once G Greaves,一度護腿【Ｇ】
 9148,Once GF Greaves,一度護腿【ＧＦ】
 9149,Once GX Greaves,一度護腿【ＧＸ】
 9150,Once Leggings,一度裹腿
 9151,Once F Leggings,一度裹腿【Ｆ】
-9152,Once FY Leggings,歐恩艾斯裹腿
+9152,Once FY Leggings,賽裹腿
 9153,Once HS Leggings,一度裹腿【ＨＳ】
 9154,Once G Leggings,一度裹腿【Ｇ】
 9155,Once GF Leggings,一度裹腿【ＧＦ】
@@ -9194,18 +9194,18 @@ index,source,target
 9192,Vangis G Leggings,芙阿恩伊裹腿【Ｇ】
 9193,Vangis GF Leggings,芙阿恩伊裹腿【ＧＦ】
 9194,Vangis GX Leggings,芙阿恩伊裹腿【ＧＸ】
-9195,Shiruti Greaves,夏伊爾烏護腿
-9196,Shiruti F Greaves,夏伊爾烏護腿【Ｆ】
-9197,Shiruti FZ Greaves,夏伊爾烏護腿【ＦＺ】
-9198,Shiruti HS Greaves,夏伊爾烏護腿【ＨＳ】
-9199,Shiruti GS Greaves,夏伊爾烏護腿【ＧＳ】
-9200,Shiruti GP Greaves,夏伊爾烏護腿【ＧＰ】
-9201,Shiruti Leggings,夏伊爾烏裹腿
-9202,Shiruti F Leggings,夏伊爾烏裹腿【Ｆ】
-9203,Shiruti FZ Leggings,夏伊爾烏裹腿【ＦＺ】
-9204,Shiruti HS Leggings,夏伊爾烏裹腿【ＨＳ】
-9205,Shiruti GS Leggings,夏伊爾烏裹腿【ＧＳ】
-9206,Shiruti GP Leggings,夏伊爾烏裹腿【ＧＰ】
+9195,Shiruti Greaves,修露蒂護腿
+9196,Shiruti F Greaves,修露蒂護腿【Ｆ】
+9197,Shiruti FZ Greaves,修露蒂護腿【ＦＺ】
+9198,Shiruti HS Greaves,修露蒂護腿【ＨＳ】
+9199,Shiruti GS Greaves,修露蒂護腿【ＧＳ】
+9200,Shiruti GP Greaves,修露蒂護腿【ＧＰ】
+9201,Shiruti Leggings,修露蒂裹腿
+9202,Shiruti F Leggings,修露蒂裹腿【Ｆ】
+9203,Shiruti FZ Leggings,修露蒂裹腿【ＦＺ】
+9204,Shiruti HS Leggings,修露蒂裹腿【ＨＳ】
+9205,Shiruti GS Leggings,修露蒂裹腿【ＧＳ】
+9206,Shiruti GP Leggings,修露蒂裹腿【ＧＰ】
 9207,Brachy Greaves,布阿奇護腿
 9208,Brachy G Greaves,布阿奇護腿【Ｇ】
 9209,Brachy GF Greaves,布阿奇護腿【ＧＦ】
@@ -9238,12 +9238,12 @@ index,source,target
 9236,B.Espinas G March,棘茶龍行軍腿【Ｇ】
 9237,B.Espinas GF March,棘茶龍行軍腿【ＧＦ】
 9238,B.Espinas GX March,棘茶龍行軍腿【ＧＸ】
-9239,Red Volga G Greaves,芙歐爾阿護腿【Ｇ】・赤
-9240,Red Volga GF Greaves,芙歐爾阿護腿【ＧＦ】・赤
-9241,Red Volga GX Greaves,芙歐爾阿護腿【ＧＸ】・赤
-9242,Red Volga G Leggings,芙歐爾阿裹腿【Ｇ】・赤
-9243,Red Volga GF Leggings,芙歐爾阿裹腿【ＧＦ】・赤
-9244,Red Volga GX Leggings,芙歐爾阿裹腿【ＧＸ】・赤
+9239,Red Volga G Greaves,沃加護腿【Ｇ】・赤
+9240,Red Volga GF Greaves,沃加護腿【ＧＦ】・赤
+9241,Red Volga GX Greaves,沃加護腿【ＧＸ】・赤
+9242,Red Volga G Leggings,沃加裹腿【Ｇ】・赤
+9243,Red Volga GF Leggings,沃加裹腿【ＧＦ】・赤
+9244,Red Volga GX Leggings,沃加裹腿【ＧＸ】・赤
 9245,Ravi G Greaves:Berserk,大巖龍狂化護腿【Ｇ】
 9246,Ravi GF Greaves:Berserk,大巖龍狂化護腿【ＧＦ】
 9247,Ravi GX Greaves:Berserk,大巖龍狂化護腿【ＧＸ】
@@ -9414,13 +9414,13 @@ index,source,target
 9412,ダミー,(dummy)
 9413,ダミー,(dummy)
 9414,ダミー,(dummy)
-9415,Otono Greaves,歐特歐恩護腿
-9416,Otono F Greaves,歐特歐恩護腿【Ｆ】
-9417,Otono FY Greaves,歐特歐恩護腿
-9418,Otono HS Greaves,歐特歐恩護腿【ＨＳ】
-9419,Otono G Greaves,歐特歐恩護腿【Ｇ】
-9420,Otono GF Greaves,歐特歐恩護腿【ＧＦ】
-9421,Otono GX Greaves,歐特歐恩護腿【ＧＸ】
+9415,Otono Greaves,托諾護腿
+9416,Otono F Greaves,托諾護腿【Ｆ】
+9417,Otono FY Greaves,托諾護腿
+9418,Otono HS Greaves,托諾護腿【ＨＳ】
+9419,Otono G Greaves,托諾護腿【Ｇ】
+9420,Otono GF Greaves,托諾護腿【ＧＦ】
+9421,Otono GX Greaves,托諾護腿【ＧＸ】
 9422,Kabariba Greaves,克阿布阿護腿
 9423,Kabariba F Greaves,克阿布阿護腿【Ｆ】
 9424,Kabariba FY Greaves,克阿布阿護腿
@@ -9435,48 +9435,48 @@ index,source,target
 9433,Kabariba G Leggings,克阿布阿裹腿【Ｇ】
 9434,Kabariba GF Leggings,克阿布阿裹腿【ＧＦ】
 9435,Kabariba GX Leggings,克阿布阿裹腿【ＧＸ】
-9436,Toruboda Greaves,特歐爾烏護腿
-9437,Toruboda F Greaves,特歐爾烏護腿【Ｆ】
-9438,Toruboda FY Greaves,特歐爾烏護腿
-9439,Toruboda HS Greaves,特歐爾烏護腿【ＨＳ】
-9440,Toruboda G Greaves,特歐爾烏護腿【Ｇ】
-9441,Toruboda GF Greaves,特歐爾烏護腿【ＧＦ】
-9442,Toruboda GX Greaves,特歐爾烏護腿【ＧＸ】
-9443,Toruboda Leggings,特歐爾烏裹腿
-9444,Toruboda F Leggings,特歐爾烏裹腿【Ｆ】
-9445,Toruboda FY Leggings,特歐爾烏裹腿
-9446,Toruboda HS Leggings,特歐爾烏裹腿【ＨＳ】
-9447,Toruboda G Leggings,特歐爾烏裹腿【Ｇ】
-9448,Toruboda GF Leggings,特歐爾烏裹腿【ＧＦ】
-9449,Toruboda GX Leggings,特歐爾烏裹腿【ＧＸ】
-9450,Orykto Greaves,歐爾歐護腿
-9451,Orykto F Greaves,歐爾歐護腿【Ｆ】
-9452,Orykto FY Greaves,歐爾歐斯護腿
-9453,Orykto HS Greaves,歐爾歐護腿【ＨＳ】
-9454,Orykto Leggings,歐爾歐裹腿
-9455,Orykto F Leggings,歐爾歐裹腿【Ｆ】
-9456,Orykto FY Leggings,歐爾歐斯裹腿
-9457,Orykto HS Leggings,歐爾歐裹腿【ＨＳ】
-9458,Reuasu G Greaves,爾艾斯烏護腿【Ｇ】
-9459,Reuasu GF Greaves,爾艾斯烏護腿【ＧＦ】
-9460,Reuasu GX Greaves,爾艾斯烏護腿【ＧＸ】
-9461,Reuasu G Leggings,爾艾斯烏裹腿【Ｇ】
-9462,Reuasu GF Leggings,爾艾斯烏裹腿【ＧＦ】
-9463,Reuasu GX Leggings,爾艾斯烏裹腿【ＧＸ】
-9464,Harimeno Greaves,赫阿爾伊護腿
-9465,Harimeno F Greaves,赫阿爾伊護腿【Ｆ】
-9466,Harimeno FY Greaves,赫阿爾伊護腿
-9467,Harimeno HS Greaves,赫阿爾伊護腿【ＨＳ】
-9468,Harimeno G Greaves,赫阿爾伊護腿【Ｇ】
-9469,Harimeno GF Greaves,赫阿爾伊護腿【ＧＦ】
-9470,Harimeno GX Greaves,赫阿爾伊護腿【ＧＸ】
-9471,Harimeno Leggings,赫阿爾伊裹腿
-9472,Harimeno F Leggings,赫阿爾伊裹腿【Ｆ】
-9473,Harimeno FY Leggings,赫阿爾伊裹腿
-9474,Harimeno HS Leggings,赫阿爾伊裹腿【ＨＳ】
-9475,Harimeno G Leggings,赫阿爾伊裹腿【Ｇ】
-9476,Harimeno GF Leggings,赫阿爾伊裹腿【ＧＦ】
-9477,Harimeno GX Leggings,赫阿爾伊裹腿【ＧＸ】
+9436,Toruboda Greaves,托露波達護腿
+9437,Toruboda F Greaves,托露波達護腿【Ｆ】
+9438,Toruboda FY Greaves,托露波達護腿
+9439,Toruboda HS Greaves,托露波達護腿【ＨＳ】
+9440,Toruboda G Greaves,托露波達護腿【Ｇ】
+9441,Toruboda GF Greaves,托露波達護腿【ＧＦ】
+9442,Toruboda GX Greaves,托露波達護腿【ＧＸ】
+9443,Toruboda Leggings,托露波達裹腿
+9444,Toruboda F Leggings,托露波達裹腿【Ｆ】
+9445,Toruboda FY Leggings,托露波達裹腿
+9446,Toruboda HS Leggings,托露波達裹腿【ＨＳ】
+9447,Toruboda G Leggings,托露波達裹腿【Ｇ】
+9448,Toruboda GF Leggings,托露波達裹腿【ＧＦ】
+9449,Toruboda GX Leggings,托露波達裹腿【ＧＸ】
+9450,Orykto Greaves,托護腿
+9451,Orykto F Greaves,托護腿【Ｆ】
+9452,Orykto FY Greaves,托護腿
+9453,Orykto HS Greaves,托護腿【ＨＳ】
+9454,Orykto Leggings,托裹腿
+9455,Orykto F Leggings,托裹腿【Ｆ】
+9456,Orykto FY Leggings,托裹腿
+9457,Orykto HS Leggings,托裹腿【ＨＳ】
+9458,Reuasu G Greaves,蕾斯護腿【Ｇ】
+9459,Reuasu GF Greaves,蕾斯護腿【ＧＦ】
+9460,Reuasu GX Greaves,蕾斯護腿【ＧＸ】
+9461,Reuasu G Leggings,蕾斯裹腿【Ｇ】
+9462,Reuasu GF Leggings,蕾斯裹腿【ＧＦ】
+9463,Reuasu GX Leggings,蕾斯裹腿【ＧＸ】
+9464,Harimeno Greaves,哈里梅諾護腿
+9465,Harimeno F Greaves,哈里梅諾護腿【Ｆ】
+9466,Harimeno FY Greaves,哈里梅諾護腿
+9467,Harimeno HS Greaves,哈里梅諾護腿【ＨＳ】
+9468,Harimeno G Greaves,哈里梅諾護腿【Ｇ】
+9469,Harimeno GF Greaves,哈里梅諾護腿【ＧＦ】
+9470,Harimeno GX Greaves,哈里梅諾護腿【ＧＸ】
+9471,Harimeno Leggings,哈里梅諾裹腿
+9472,Harimeno F Leggings,哈里梅諾裹腿【Ｆ】
+9473,Harimeno FY Leggings,哈里梅諾裹腿
+9474,Harimeno HS Leggings,哈里梅諾裹腿【ＨＳ】
+9475,Harimeno G Leggings,哈里梅諾裹腿【Ｇ】
+9476,Harimeno GF Leggings,哈里梅諾裹腿【ＧＦ】
+9477,Harimeno GX Leggings,哈里梅諾裹腿【ＧＸ】
 9478,Shiusu G Greaves,夏伊斯烏護腿【Ｇ】
 9479,Shiusu GF Greaves,夏伊斯烏護腿【ＧＦ】
 9480,Shiusu GX Greaves,夏伊斯烏護腿【ＧＸ】
@@ -9497,48 +9497,48 @@ index,source,target
 9495,Will G Leggings,沃伊爾裹腿【Ｇ】
 9496,Will GF Leggings,沃伊爾裹腿【ＧＦ】
 9497,Will GX Leggings,沃伊爾裹腿【ＧＸ】
-9498,Keisu Greaves,克艾斯烏護腿
-9499,Keisu F Greaves,克艾斯烏護腿【Ｆ】
-9500,Keisu FY Greaves,克艾斯烏護腿
-9501,Keisu HS Greaves,克艾斯烏護腿【ＨＳ】
-9502,Keisu G Greaves,克艾斯烏護腿【Ｇ】
-9503,Keisu GF Greaves,克艾斯烏護腿【ＧＦ】
-9504,Keisu GX Greaves,克艾斯烏護腿【ＧＸ】
-9505,Keisu Leggings,克艾斯烏裹腿
-9506,Keisu F Leggings,克艾斯烏裹腿【Ｆ】
-9507,Keisu FY Leggings,克艾斯烏裹腿
-9508,Keisu HS Leggings,克艾斯烏裹腿【ＨＳ】
-9509,Keisu G Leggings,克艾斯烏裹腿【Ｇ】
-9510,Keisu GF Leggings,克艾斯烏裹腿【ＧＦ】
-9511,Keisu GX Leggings,克艾斯烏裹腿【ＧＸ】
-9512,Lumiere Greaves,爾烏姆伊護腿
-9513,Lumiere F Greaves,爾烏姆伊護腿【Ｆ】
-9514,Lumiere FY Greaves,爾烏姆伊護腿
-9515,Lumiere HS Greaves,爾烏姆伊護腿【ＨＳ】
-9516,Lumiere G Greaves,爾烏姆伊護腿【Ｇ】
-9517,Lumiere GF Greaves,爾烏姆伊護腿【ＧＦ】
-9518,Lumiere GX Greaves,爾烏姆伊護腿【ＧＸ】
-9519,Lumiere Leggings,爾烏姆伊裹腿
-9520,Lumiere F Leggings,爾烏姆伊裹腿【Ｆ】
-9521,Lumiere FY Leggings,爾烏姆伊裹腿
-9522,Lumiere HS Leggings,爾烏姆伊裹腿【ＨＳ】
-9523,Lumiere G Leggings,爾烏姆伊裹腿【Ｇ】
-9524,Lumiere GF Leggings,爾烏姆伊裹腿【ＧＦ】
-9525,Lumiere GX Leggings,爾烏姆伊裹腿【ＧＸ】
-9526,Cleora Feet,克艾爾阿足
-9527,Cleora F Feet,克艾爾阿足【Ｆ】
-9528,Cleora FY Feet,克艾爾阿足
-9529,Cleora HS Feet,克艾爾阿足【ＨＳ】
-9530,Cleora G Feet,克艾爾阿足【Ｇ】
-9531,Cleora GF Feet,克艾爾阿足【ＧＦ】
-9532,Cleora GX Feet,克艾爾阿足【ＧＸ】
-9533,Cleora Boots,克艾爾阿靴
-9534,Cleora F Boots,克艾爾阿靴【Ｆ】
-9535,Cleora FY Boots,克艾爾阿靴
-9536,Cleora HS Boots,克艾爾阿靴【ＨＳ】
-9537,Cleora G Boots,克艾爾阿靴【Ｇ】
-9538,Cleora GF Boots,克艾爾阿靴【ＧＦ】
-9539,Cleora GX Boots,克艾爾阿靴【ＧＸ】
+9498,Keisu Greaves,凱斯護腿
+9499,Keisu F Greaves,凱斯護腿【Ｆ】
+9500,Keisu FY Greaves,凱斯護腿
+9501,Keisu HS Greaves,凱斯護腿【ＨＳ】
+9502,Keisu G Greaves,凱斯護腿【Ｇ】
+9503,Keisu GF Greaves,凱斯護腿【ＧＦ】
+9504,Keisu GX Greaves,凱斯護腿【ＧＸ】
+9505,Keisu Leggings,凱斯裹腿
+9506,Keisu F Leggings,凱斯裹腿【Ｆ】
+9507,Keisu FY Leggings,凱斯裹腿
+9508,Keisu HS Leggings,凱斯裹腿【ＨＳ】
+9509,Keisu G Leggings,凱斯裹腿【Ｇ】
+9510,Keisu GF Leggings,凱斯裹腿【ＧＦ】
+9511,Keisu GX Leggings,凱斯裹腿【ＧＸ】
+9512,Lumiere Greaves,露蜜蕾護腿
+9513,Lumiere F Greaves,露蜜蕾護腿【Ｆ】
+9514,Lumiere FY Greaves,露蜜蕾護腿
+9515,Lumiere HS Greaves,露蜜蕾護腿【ＨＳ】
+9516,Lumiere G Greaves,露蜜蕾護腿【Ｇ】
+9517,Lumiere GF Greaves,露蜜蕾護腿【ＧＦ】
+9518,Lumiere GX Greaves,露蜜蕾護腿【ＧＸ】
+9519,Lumiere Leggings,露蜜蕾裹腿
+9520,Lumiere F Leggings,露蜜蕾裹腿【Ｆ】
+9521,Lumiere FY Leggings,露蜜蕾裹腿
+9522,Lumiere HS Leggings,露蜜蕾裹腿【ＨＳ】
+9523,Lumiere G Leggings,露蜜蕾裹腿【Ｇ】
+9524,Lumiere GF Leggings,露蜜蕾裹腿【ＧＦ】
+9525,Lumiere GX Leggings,露蜜蕾裹腿【ＧＸ】
+9526,Cleora Feet,克雷拉足
+9527,Cleora F Feet,克雷拉足【Ｆ】
+9528,Cleora FY Feet,克雷拉足
+9529,Cleora HS Feet,克雷拉足【ＨＳ】
+9530,Cleora G Feet,克雷拉足【Ｇ】
+9531,Cleora GF Feet,克雷拉足【ＧＦ】
+9532,Cleora GX Feet,克雷拉足【ＧＸ】
+9533,Cleora Boots,克雷拉靴
+9534,Cleora F Boots,克雷拉靴【Ｆ】
+9535,Cleora FY Boots,克雷拉靴
+9536,Cleora HS Boots,克雷拉靴【ＨＳ】
+9537,Cleora G Boots,克雷拉靴【Ｇ】
+9538,Cleora GF Boots,克雷拉靴【ＧＦ】
+9539,Cleora GX Boots,克雷拉靴【ＧＸ】
 9540,Doragyurosu G Greaves,冥雷龍護腿【Ｇ】
 9541,Doragyurosu GF Greaves,冥雷龍護腿【ＧＦ】
 9542,Doragyurosu GX Greaves,冥雷龍護腿【ＧＸ】
@@ -9549,8 +9549,8 @@ index,source,target
 9547,Wind GXハディ,風護腿
 9548,Meraginasu GX Greaves,黑穿龍護腿【ＧＸ】
 9549,Meraginasu GX Leggings,黑穿龍裹腿【ＧＸ】
-9550,Pobo GX Greaves,普歐布歐護腿【ＧＸ】
-9551,Pobo GX Leggings,普歐布歐裹腿【ＧＸ】
+9550,Pobo GX Greaves,珀波護腿【ＧＸ】
+9551,Pobo GX Leggings,珀波裹腿【ＧＸ】
 9552,Toa Greaves,凍王龍護腿
 9553,Toa F Greaves,凍王龍護腿【Ｆ】
 9554,Toa FX Greaves,凍王龍護腿【ＦＸ】
@@ -9563,12 +9563,12 @@ index,source,target
 9561,Toa G Leggings,凍王龍裹腿【Ｇ】
 9562,Toa GF Leggings,凍王龍裹腿【ＧＦ】
 9563,Toa GX Leggings,凍王龍裹腿【ＧＸ】
-9564,Blue Kut Ku G Greaves,克烏特烏護腿【Ｇ】・青
-9565,Blue Kut Ku GF Greaves,克烏特烏護腿【ＧＦ】・青
-9566,Blue Kut Ku GX Greaves,克烏特烏護腿【ＧＸ】・青
-9567,Blue Kut Ku G Leggings,克烏特烏裹腿【Ｇ】・青
-9568,Blue Kut Ku GF Leggings,克烏特烏裹腿【ＧＦ】・青
-9569,Blue Kut Ku GX Leggings,克烏特烏裹腿【ＧＸ】・青
+9564,Blue Kut Ku G Greaves,克克護腿【Ｇ】・青
+9565,Blue Kut Ku GF Greaves,克克護腿【ＧＦ】・青
+9566,Blue Kut Ku GX Greaves,克克護腿【ＧＸ】・青
+9567,Blue Kut Ku G Leggings,克克裹腿【Ｇ】・青
+9568,Blue Kut Ku GF Leggings,克克裹腿【ＧＦ】・青
+9569,Blue Kut Ku GX Leggings,克克裹腿【ＧＸ】・青
 9570,Dreadrock G【 Hakama 】,恐岩袴【Ｇ】
 9571,Dreadrock GF【 Hakama 】,恐岩袴【ＧＦ】
 9572,Dreadrock GX【 Hakama 】,恐岩袴【ＧＸ】
@@ -9599,24 +9599,24 @@ index,source,target
 9597,Gagachu HS Boots,加加丘靴【ＨＳ】
 9598,Gagachu GS Boots,加加丘靴【ＧＳ】
 9599,Gagachu GP Boots,加加丘靴【ＧＰ】
-9600,Salta Feet,斯阿爾阿足
-9601,Salta F Feet,斯阿爾阿足【Ｆ】
-9602,Salta FZ Feet,斯阿爾阿足【ＦＺ】
-9603,Salta HS Feet,斯阿爾阿足【ＨＳ】
-9604,Salta GS Feet,斯阿爾阿足【ＧＳ】
-9605,Salta GP Feet,斯阿爾阿足【ＧＰ】
-9606,Salta Boots,斯阿爾阿靴
-9607,Salta F Boots,斯阿爾阿靴【Ｆ】
-9608,Salta FZ Boots,斯阿爾阿靴【ＦＺ】
-9609,Salta HS Boots,斯阿爾阿靴【ＨＳ】
-9610,Salta GS Boots,斯阿爾阿靴【ＧＳ】
-9611,Salta GP Boots,斯阿爾阿靴【ＧＰ】
-9612,Chiru G Greaves,奇伊爾烏護腿【Ｇ】
-9613,Chiru GF Greaves,奇伊爾烏護腿【ＧＦ】
-9614,Chiru GX Greaves,奇伊爾烏護腿【ＧＸ】
-9615,Chiru G Leggings,奇伊爾烏裹腿【Ｇ】
-9616,Chiru GF Leggings,奇伊爾烏裹腿【ＧＦ】
-9617,Chiru GX Leggings,奇伊爾烏裹腿【ＧＸ】
+9600,Salta Feet,薩塔足
+9601,Salta F Feet,薩塔足【Ｆ】
+9602,Salta FZ Feet,薩塔足【ＦＺ】
+9603,Salta HS Feet,薩塔足【ＨＳ】
+9604,Salta GS Feet,薩塔足【ＧＳ】
+9605,Salta GP Feet,薩塔足【ＧＰ】
+9606,Salta Boots,薩塔靴
+9607,Salta F Boots,薩塔靴【Ｆ】
+9608,Salta FZ Boots,薩塔靴【ＦＺ】
+9609,Salta HS Boots,薩塔靴【ＨＳ】
+9610,Salta GS Boots,薩塔靴【ＧＳ】
+9611,Salta GP Boots,薩塔靴【ＧＰ】
+9612,Chiru G Greaves,奇露護腿【Ｇ】
+9613,Chiru GF Greaves,奇露護腿【ＧＦ】
+9614,Chiru GX Greaves,奇露護腿【ＧＸ】
+9615,Chiru G Leggings,奇露裹腿【Ｇ】
+9616,Chiru GF Leggings,奇露裹腿【ＧＦ】
+9617,Chiru GX Leggings,奇露裹腿【ＧＸ】
 9618,Ganeto G Greaves,格阿恩艾護腿【Ｇ】
 9619,Ganeto GF Greaves,格阿恩艾護腿【ＧＦ】
 9620,Ganeto GX Greaves,格阿恩艾護腿【ＧＸ】
@@ -9646,9 +9646,9 @@ index,source,target
 9644,Onyx Greaves,縞瑪瑙護腿
 9645,Onyx F Greaves,縞瑪瑙護腿【Ｆ】
 9646,Onyx FX Greaves,縞瑪瑙護腿【ＦＸ】
-9647,Rutile Greaves,爾烏特伊護腿
-9648,Rutile F Greaves,爾烏特伊護腿【Ｆ】
-9649,Rutile FX Greaves,爾烏特伊護腿【ＦＸ】
+9647,Rutile Greaves,露蒂勒護腿
+9648,Rutile F Greaves,露蒂勒護腿【Ｆ】
+9649,Rutile FX Greaves,露蒂勒護腿【ＦＸ】
 9650,Byakko・斬将G Feet,白虎足【Ｇ】
 9651,Byakko・斬将GF Feet,白虎斬将足【Ｆ】
 9652,Byakko・斬将GX Feet,白虎足【ＧＸ】
@@ -9783,30 +9783,30 @@ index,source,target
 9781,Kaiji HS Boots,克阿傑伊靴【ＨＳ】
 9782,Kaiji GS Boots,克阿傑伊靴【ＧＳ】
 9783,Kaiji GP Boots,克阿傑伊靴【ＧＰ】
-9784,Mikoko Feet,姆伊克歐足
-9785,Mikoko F Feet,姆伊克歐足【Ｆ】
-9786,Mikoko FZ Feet,姆伊克歐足【ＦＺ】
-9787,Mikoko HS Feet,姆伊克歐足【ＨＳ】
-9788,Mikoko GS Feet,姆伊克歐足【ＧＳ】
-9789,Mikoko GP Feet,姆伊克歐足【ＧＰ】
-9790,Mikoko Boots,姆伊克歐靴
-9791,Mikoko F Boots,姆伊克歐靴【Ｆ】
-9792,Mikoko FZ Boots,姆伊克歐靴【ＦＺ】
-9793,Mikoko HS Boots,姆伊克歐靴【ＨＳ】
-9794,Mikoko GS Boots,姆伊克歐靴【ＧＳ】
-9795,Mikoko GP Boots,姆伊克歐靴【ＧＰ】
-9796,テリュオ Feet,特里尤歐足
-9797,テリュオF Feet,特里尤歐足【Ｆ】
-9798,テリュオFZ Feet,特里尤歐足【ＦＺ】
-9799,テリュオHS Feet,特里尤歐足【ＨＳ】
-9800,テリュオGS Feet,特里尤歐足【ＧＳ】
-9801,テリュオGP Feet,特里尤歐足【ＧＰ】
-9802,テリュオ Boots,特里尤歐靴
-9803,テリュオF Boots,特里尤歐靴【Ｆ】
-9804,テリュオFZ Boots,特里尤歐靴【ＦＺ】
-9805,テリュオHS Boots,特里尤歐靴【ＨＳ】
-9806,テリュオGS Boots,特里尤歐靴【ＧＳ】
-9807,テリュオGP Boots,特里尤歐靴【ＧＰ】
+9784,Mikoko Feet,蜜古古足
+9785,Mikoko F Feet,蜜古古足【Ｆ】
+9786,Mikoko FZ Feet,蜜古古足【ＦＺ】
+9787,Mikoko HS Feet,蜜古古足【ＨＳ】
+9788,Mikoko GS Feet,蜜古古足【ＧＳ】
+9789,Mikoko GP Feet,蜜古古足【ＧＰ】
+9790,Mikoko Boots,蜜古古靴
+9791,Mikoko F Boots,蜜古古靴【Ｆ】
+9792,Mikoko FZ Boots,蜜古古靴【ＦＺ】
+9793,Mikoko HS Boots,蜜古古靴【ＨＳ】
+9794,Mikoko GS Boots,蜜古古靴【ＧＳ】
+9795,Mikoko GP Boots,蜜古古靴【ＧＰ】
+9796,テリュオ Feet,特琉歐足
+9797,テリュオF Feet,特琉歐足【Ｆ】
+9798,テリュオFZ Feet,特琉歐足【ＦＺ】
+9799,テリュオHS Feet,特琉歐足【ＨＳ】
+9800,テリュオGS Feet,特琉歐足【ＧＳ】
+9801,テリュオGP Feet,特琉歐足【ＧＰ】
+9802,テリュオ Boots,特琉歐靴
+9803,テリュオF Boots,特琉歐靴【Ｆ】
+9804,テリュオFZ Boots,特琉歐靴【ＦＺ】
+9805,テリュオHS Boots,特琉歐靴【ＨＳ】
+9806,テリュオGS Boots,特琉歐靴【ＧＳ】
+9807,テリュオGP Boots,特琉歐靴【ＧＰ】
 9808,Sailor Socks,水手襪
 9809,Sailor G Socks,水手襪【Ｇ】
 9810,Sailor GF Socks,水手襪【ＧＦ】
@@ -9833,68 +9833,68 @@ index,source,target
 9831,童伝ノ足枷G,童伝足枷護腿
 9832,童伝ノ足枷GF,童伝足枷護腿【Ｆ】
 9833,童伝ノ足枷GX,童伝足枷護腿
-9834,Valier Greaves,芙阿爾伊護腿
-9835,Valier F Greaves,芙阿爾伊護腿【Ｆ】
-9836,Valier FY Greaves,芙阿爾伊護腿
-9837,Valier HS Greaves,芙阿爾伊護腿【ＨＳ】
-9838,Valier G Greaves,芙阿爾伊護腿【Ｇ】
-9839,Valier GF Greaves,芙阿爾伊護腿【ＧＦ】
-9840,Valier GX Greaves,芙阿爾伊護腿【ＧＸ】
-9841,Valier Leggings,芙阿爾伊裹腿
-9842,Valier F Leggings,芙阿爾伊裹腿【Ｆ】
-9843,Valier FY Leggings,芙阿爾伊裹腿
-9844,Valier HS Leggings,芙阿爾伊裹腿【ＨＳ】
-9845,Valier G Leggings,芙阿爾伊裹腿【Ｇ】
-9846,Valier GF Leggings,芙阿爾伊裹腿【ＧＦ】
-9847,Valier GX Leggings,芙阿爾伊裹腿【ＧＸ】
-9848,Lars Greaves,爾阿爾護腿
-9849,Lars F Greaves,爾阿爾護腿【Ｆ】
-9850,Lars FY Greaves,爾阿爾護腿
-9851,Lars HS Greaves,爾阿爾護腿【ＨＳ】
-9852,Lars G Greaves,爾阿爾護腿【Ｇ】
-9853,Lars GF Greaves,爾阿爾護腿【ＧＦ】
-9854,Lars GX Greaves,爾阿爾護腿【ＧＸ】
-9855,Lars Leggings,爾阿爾裹腿
-9856,Lars F Leggings,爾阿爾裹腿【Ｆ】
-9857,Lars FY Leggings,爾阿爾裹腿
-9858,Lars HS Leggings,爾阿爾裹腿【ＨＳ】
-9859,Lars G Leggings,爾阿爾裹腿【Ｇ】
-9860,Lars GF Leggings,爾阿爾裹腿【ＧＦ】
-9861,Lars GX Leggings,爾阿爾裹腿【ＧＸ】
-9862,Shirukku Feet,夏伊爾烏足
-9863,Shirukku F Feet,夏伊爾烏足【Ｆ】
-9864,Shirukku FY Feet,夏伊爾烏足
-9865,Shirukku HS Feet,夏伊爾烏足【ＨＳ】
-9866,Shirukku G Feet,夏伊爾烏足【Ｇ】
-9867,Shirukku GF Feet,夏伊爾烏足【ＧＦ】
-9868,Shirukku GX Feet,夏伊爾烏足【ＧＸ】
-9869,Shirukku Boots,夏伊爾烏靴
-9870,Shirukku F Boots,夏伊爾烏靴【Ｆ】
-9871,Shirukku FY Boots,夏伊爾烏靴
-9872,Shirukku HS Boots,夏伊爾烏靴【ＨＳ】
-9873,Shirukku G Boots,夏伊爾烏靴【Ｇ】
-9874,Shirukku GF Boots,夏伊爾烏靴【ＧＦ】
-9875,Shirukku GX Boots,夏伊爾烏靴【ＧＸ】
-9876,Norukku Feet,恩歐爾烏足
-9877,Norukku F Feet,恩歐爾烏足【Ｆ】
-9878,Norukku FY Feet,恩歐爾烏足
-9879,Norukku HS Feet,恩歐爾烏足【ＨＳ】
-9880,Norukku G Feet,恩歐爾烏足【Ｇ】
-9881,Norukku GF Feet,恩歐爾烏足【ＧＦ】
-9882,Norukku GX Feet,恩歐爾烏足【ＧＸ】
-9883,Norukku Boots,恩歐爾烏靴
-9884,Norukku F Boots,恩歐爾烏靴【Ｆ】
-9885,Norukku FY Boots,恩歐爾烏靴
-9886,Norukku HS Boots,恩歐爾烏靴【ＨＳ】
-9887,Norukku G Boots,恩歐爾烏靴【Ｇ】
-9888,Norukku GF Boots,恩歐爾烏靴【ＧＦ】
-9889,Norukku GX Boots,恩歐爾烏靴【ＧＸ】
-9890,Reiresu G Greaves,爾艾爾艾護腿【Ｇ】
-9891,Reiresu GF Greaves,爾艾爾艾護腿【ＧＦ】
-9892,Reiresu GX Greaves,爾艾爾艾護腿【ＧＸ】
-9893,Reiresu G Leggings,爾艾爾艾裹腿【Ｇ】
-9894,Reiresu GF Leggings,爾艾爾艾裹腿【ＧＦ】
-9895,Reiresu GX Leggings,爾艾爾艾裹腿【ＧＸ】
+9834,Valier Greaves,瓦莉護腿
+9835,Valier F Greaves,瓦莉護腿【Ｆ】
+9836,Valier FY Greaves,瓦莉護腿
+9837,Valier HS Greaves,瓦莉護腿【ＨＳ】
+9838,Valier G Greaves,瓦莉護腿【Ｇ】
+9839,Valier GF Greaves,瓦莉護腿【ＧＦ】
+9840,Valier GX Greaves,瓦莉護腿【ＧＸ】
+9841,Valier Leggings,瓦莉裹腿
+9842,Valier F Leggings,瓦莉裹腿【Ｆ】
+9843,Valier FY Leggings,瓦莉裹腿
+9844,Valier HS Leggings,瓦莉裹腿【ＨＳ】
+9845,Valier G Leggings,瓦莉裹腿【Ｇ】
+9846,Valier GF Leggings,瓦莉裹腿【ＧＦ】
+9847,Valier GX Leggings,瓦莉裹腿【ＧＸ】
+9848,Lars Greaves,拉護腿
+9849,Lars F Greaves,拉護腿【Ｆ】
+9850,Lars FY Greaves,拉護腿
+9851,Lars HS Greaves,拉護腿【ＨＳ】
+9852,Lars G Greaves,拉護腿【Ｇ】
+9853,Lars GF Greaves,拉護腿【ＧＦ】
+9854,Lars GX Greaves,拉護腿【ＧＸ】
+9855,Lars Leggings,拉裹腿
+9856,Lars F Leggings,拉裹腿【Ｆ】
+9857,Lars FY Leggings,拉裹腿
+9858,Lars HS Leggings,拉裹腿【ＨＳ】
+9859,Lars G Leggings,拉裹腿【Ｇ】
+9860,Lars GF Leggings,拉裹腿【ＧＦ】
+9861,Lars GX Leggings,拉裹腿【ＧＸ】
+9862,Shirukku Feet,古蘿布足
+9863,Shirukku F Feet,古蘿布足【Ｆ】
+9864,Shirukku FY Feet,古蘿布足
+9865,Shirukku HS Feet,古蘿布足【ＨＳ】
+9866,Shirukku G Feet,古蘿布足【Ｇ】
+9867,Shirukku GF Feet,古蘿布足【ＧＦ】
+9868,Shirukku GX Feet,古蘿布足【ＧＸ】
+9869,Shirukku Boots,古蘿布靴
+9870,Shirukku F Boots,古蘿布靴【Ｆ】
+9871,Shirukku FY Boots,古蘿布靴
+9872,Shirukku HS Boots,古蘿布靴【ＨＳ】
+9873,Shirukku G Boots,古蘿布靴【Ｇ】
+9874,Shirukku GF Boots,古蘿布靴【ＧＦ】
+9875,Shirukku GX Boots,古蘿布靴【ＧＸ】
+9876,Norukku Feet,古蘿布足
+9877,Norukku F Feet,古蘿布足【Ｆ】
+9878,Norukku FY Feet,古蘿布足
+9879,Norukku HS Feet,古蘿布足【ＨＳ】
+9880,Norukku G Feet,古蘿布足【Ｇ】
+9881,Norukku GF Feet,古蘿布足【ＧＦ】
+9882,Norukku GX Feet,古蘿布足【ＧＸ】
+9883,Norukku Boots,古蘿布靴
+9884,Norukku F Boots,古蘿布靴【Ｆ】
+9885,Norukku FY Boots,古蘿布靴
+9886,Norukku HS Boots,古蘿布靴【ＨＳ】
+9887,Norukku G Boots,古蘿布靴【Ｇ】
+9888,Norukku GF Boots,古蘿布靴【ＧＦ】
+9889,Norukku GX Boots,古蘿布靴【ＧＸ】
+9890,Reiresu G Greaves,蕾蕾斯護腿【Ｇ】
+9891,Reiresu GF Greaves,蕾蕾斯護腿【ＧＦ】
+9892,Reiresu GX Greaves,蕾蕾斯護腿【ＧＸ】
+9893,Reiresu G Leggings,蕾蕾斯裹腿【Ｇ】
+9894,Reiresu GF Leggings,蕾蕾斯裹腿【ＧＦ】
+9895,Reiresu GX Leggings,蕾蕾斯裹腿【ＧＸ】
 9896,Saint G Greaves,斯阿恩護腿【Ｇ】
 9897,Saint GF Greaves,斯阿恩護腿【ＧＦ】
 9898,Saint GX Greaves,斯阿恩護腿【ＧＸ】
@@ -9907,30 +9907,30 @@ index,source,target
 9905,ハセル Vol Feet HS,哈塞魯足【ＨＳ】
 9906,ハセル Vol Feet GS,哈塞魯足【ＧＳ】
 9907,ハセル Vol Feet GP,哈塞魯足【ＧＰ】
-9908,Solflare Feet,斯歐爾阿足
-9909,Solflare F Feet,斯歐爾阿足【Ｆ】
-9910,Solflare FZ Feet,斯歐爾阿足【ＦＺ】
-9911,Solflare HS Feet,斯歐爾阿足【ＨＳ】
-9912,Solflare GS Feet,斯歐爾阿足【ＧＳ】
-9913,Solflare GP Feet,斯歐爾阿足【ＧＰ】
-9914,Solflare Boots,斯歐爾阿靴
-9915,Solflare F Boots,斯歐爾阿靴【Ｆ】
-9916,Solflare FZ Boots,斯歐爾阿靴【ＦＺ】
-9917,Solflare HS Boots,斯歐爾阿靴【ＨＳ】
-9918,Solflare GS Boots,斯歐爾阿靴【ＧＳ】
-9919,Solflare GP Boots,斯歐爾阿靴【ＧＰ】
-9920,Arben Feet,阿爾本足
-9921,Arben F Feet,阿爾本足【Ｆ】
-9922,Arben FZ Feet,阿爾本足【ＦＺ】
-9923,Arben HS Feet,阿爾本足【ＨＳ】
-9924,Arben GS Feet,阿爾本足【ＧＳ】
-9925,Arben GP Feet,阿爾本足【ＧＰ】
-9926,Arben Boots,阿爾本靴
-9927,Arben F Boots,阿爾本靴【Ｆ】
-9928,Arben FZ Boots,阿爾本靴【ＦＺ】
-9929,Arben HS Boots,阿爾本靴【ＨＳ】
-9930,Arben GS Boots,阿爾本靴【ＧＳ】
-9931,Arben GP Boots,阿爾本靴【ＧＰ】
+9908,Solflare Feet,索芙蕾足
+9909,Solflare F Feet,索芙蕾足【Ｆ】
+9910,Solflare FZ Feet,索芙蕾足【ＦＺ】
+9911,Solflare HS Feet,索芙蕾足【ＨＳ】
+9912,Solflare GS Feet,索芙蕾足【ＧＳ】
+9913,Solflare GP Feet,索芙蕾足【ＧＰ】
+9914,Solflare Boots,索芙蕾靴
+9915,Solflare F Boots,索芙蕾靴【Ｆ】
+9916,Solflare FZ Boots,索芙蕾靴【ＦＺ】
+9917,Solflare HS Boots,索芙蕾靴【ＨＳ】
+9918,Solflare GS Boots,索芙蕾靴【ＧＳ】
+9919,Solflare GP Boots,索芙蕾靴【ＧＰ】
+9920,Arben Feet,亞露貝恩足
+9921,Arben F Feet,亞露貝恩足【Ｆ】
+9922,Arben FZ Feet,亞露貝恩足【ＦＺ】
+9923,Arben HS Feet,亞露貝恩足【ＨＳ】
+9924,Arben GS Feet,亞露貝恩足【ＧＳ】
+9925,Arben GP Feet,亞露貝恩足【ＧＰ】
+9926,Arben Boots,亞露貝恩靴
+9927,Arben F Boots,亞露貝恩靴【Ｆ】
+9928,Arben FZ Boots,亞露貝恩靴【ＦＺ】
+9929,Arben HS Boots,亞露貝恩靴【ＨＳ】
+9930,Arben GS Boots,亞露貝恩靴【ＧＳ】
+9931,Arben GP Boots,亞露貝恩靴【ＧＰ】
 9932,Keravuno Feet,凱拉武諾足
 9933,Keravuno F Feet,凱拉武諾足【Ｆ】
 9934,Keravuno FZ Feet,凱拉武諾足【ＦＺ】
@@ -9983,8 +9983,8 @@ index,source,target
 9981,Flame GX Leggings,炎裹腿【ＧＸ】
 9982,Furoru GX Leg,弗羅魯腿【ＧＸ】
 9983,Furoru GX Boots,弗羅魯靴【ＧＸ】
-9984,Varusa GX Greaves,芙阿爾烏護腿【ＧＸ】
-9985,Varusa GX Leggings,芙阿爾烏裹腿【ＧＸ】
+9984,Varusa GX Greaves,瓦露薩護腿【ＧＸ】
+9985,Varusa GX Leggings,瓦露薩裹腿【ＧＸ】
 9986,Stygian Greaves,斯伊恩護腿
 9987,Stygian G Greaves,斯伊恩護腿【Ｇ】
 9988,Stygian GF Greaves,斯伊恩護腿【ＧＦ】
@@ -10161,30 +10161,30 @@ index,source,target
 10159,Red Ice Emperor HS Boots,赤冰帝靴【ＨＳ】
 10160,Red Ice Emperor GS Boots,赤冰帝靴【ＧＳ】
 10161,Red Ice Emperor GP Boots,赤冰帝靴【ＧＰ】
-10162,Taruta Feet,特阿爾烏足
-10163,Taruta F Feet,特阿爾烏足【Ｆ】
-10164,Taruta FZ Feet,特阿爾烏足【ＦＺ】
-10165,Taruta HS Feet,特阿爾烏足【ＨＳ】
-10166,Taruta GS Feet,特阿爾烏足【ＧＳ】
-10167,Taruta GP Feet,特阿爾烏足【ＧＰ】
-10168,Taruta Boots,特阿爾烏靴
-10169,Taruta F Boots,特阿爾烏靴【Ｆ】
-10170,Taruta FZ Boots,特阿爾烏靴【ＦＺ】
-10171,Taruta HS Boots,特阿爾烏靴【ＨＳ】
-10172,Taruta GS Boots,特阿爾烏靴【ＧＳ】
-10173,Taruta GP Boots,特阿爾烏靴【ＧＰ】
-10174,Ruruta Feet,爾烏爾烏足
-10175,Ruruta F Feet,爾烏爾烏足【Ｆ】
-10176,Ruruta FZ Feet,爾烏爾烏足【ＦＺ】
-10177,Ruruta HS Feet,爾烏爾烏足【ＨＳ】
-10178,Ruruta GS Feet,爾烏爾烏足【ＧＳ】
-10179,Ruruta GP Feet,爾烏爾烏足【ＧＰ】
-10180,Ruruta Boots,爾烏爾烏靴
-10181,Ruruta F Boots,爾烏爾烏靴【Ｆ】
-10182,Ruruta FZ Boots,爾烏爾烏靴【ＦＺ】
-10183,Ruruta HS Boots,爾烏爾烏靴【ＨＳ】
-10184,Ruruta GS Boots,爾烏爾烏靴【ＧＳ】
-10185,Ruruta GP Boots,爾烏爾烏靴【ＧＰ】
+10162,Taruta Feet,塔露塔足
+10163,Taruta F Feet,塔露塔足【Ｆ】
+10164,Taruta FZ Feet,塔露塔足【ＦＺ】
+10165,Taruta HS Feet,塔露塔足【ＨＳ】
+10166,Taruta GS Feet,塔露塔足【ＧＳ】
+10167,Taruta GP Feet,塔露塔足【ＧＰ】
+10168,Taruta Boots,塔露塔靴
+10169,Taruta F Boots,塔露塔靴【Ｆ】
+10170,Taruta FZ Boots,塔露塔靴【ＦＺ】
+10171,Taruta HS Boots,塔露塔靴【ＨＳ】
+10172,Taruta GS Boots,塔露塔靴【ＧＳ】
+10173,Taruta GP Boots,塔露塔靴【ＧＰ】
+10174,Ruruta Feet,露露塔足
+10175,Ruruta F Feet,露露塔足【Ｆ】
+10176,Ruruta FZ Feet,露露塔足【ＦＺ】
+10177,Ruruta HS Feet,露露塔足【ＨＳ】
+10178,Ruruta GS Feet,露露塔足【ＧＳ】
+10179,Ruruta GP Feet,露露塔足【ＧＰ】
+10180,Ruruta Boots,露露塔靴
+10181,Ruruta F Boots,露露塔靴【Ｆ】
+10182,Ruruta FZ Boots,露露塔靴【ＦＺ】
+10183,Ruruta HS Boots,露露塔靴【ＨＳ】
+10184,Ruruta GS Boots,露露塔靴【ＧＳ】
+10185,Ruruta GP Boots,露露塔靴【ＧＰ】
 10186,Kurofi Feet,克羅菲足
 10187,Kurofi F Feet,克羅菲足【Ｆ】
 10188,Kurofi FZ Feet,克羅菲足【ＦＺ】
@@ -10215,54 +10215,54 @@ index,source,target
 10213,Chiarim HS Boots,奇亞琳靴【ＨＳ】
 10214,Chiarim GS Boots,奇亞琳靴【ＧＳ】
 10215,Chiarim GP Boots,奇亞琳靴【ＧＰ】
-10216,Rohokku Greaves,爾歐赫歐護腿
-10217,Rohokku F Greaves,爾歐赫歐護腿【Ｆ】
-10218,Rohokku FY Greaves,爾歐赫歐護腿
-10219,Rohokku HS Greaves,爾歐赫歐護腿【ＨＳ】
-10220,Rohokku G Greaves,爾歐赫歐護腿【Ｇ】
-10221,Rohokku GF Greaves,爾歐赫歐護腿【ＧＦ】
-10222,Rohokku GX Greaves,爾歐赫歐護腿【ＧＸ】
-10223,Rohokku Leggings,爾歐赫歐裹腿
-10224,Rohokku F Leggings,爾歐赫歐裹腿【Ｆ】
-10225,Rohokku FY Leggings,爾歐赫歐裹腿
-10226,Rohokku HS Leggings,爾歐赫歐裹腿【ＨＳ】
-10227,Rohokku G Leggings,爾歐赫歐裹腿【Ｇ】
-10228,Rohokku GF Leggings,爾歐赫歐裹腿【ＧＦ】
-10229,Rohokku GX Leggings,爾歐赫歐裹腿【ＧＸ】
-10230,Cure Greaves,克烏爾艾護腿
-10231,Cure F Greaves,克烏爾艾護腿【Ｆ】
-10232,Cure FY Greaves,克烏爾艾護腿
-10233,Cure HS Greaves,克烏爾艾護腿【ＨＳ】
-10234,Cure G Greaves,克烏爾艾護腿【Ｇ】
-10235,Cure GF Greaves,克烏爾艾護腿【ＧＦ】
-10236,Cure GX Greaves,克烏爾艾護腿【ＧＸ】
-10237,Cure Leggings,克烏爾艾裹腿
-10238,Cure F Leggings,克烏爾艾裹腿【Ｆ】
-10239,Cure FY Leggings,克烏爾艾裹腿
-10240,Cure HS Leggings,克烏爾艾裹腿【ＨＳ】
-10241,Cure G Leggings,克烏爾艾裹腿【Ｇ】
-10242,Cure GF Leggings,克烏爾艾裹腿【ＧＦ】
-10243,Cure GX Leggings,克烏爾艾裹腿【ＧＸ】
+10216,Rohokku Greaves,蘿霍克護腿
+10217,Rohokku F Greaves,蘿霍克護腿【Ｆ】
+10218,Rohokku FY Greaves,蘿霍克護腿
+10219,Rohokku HS Greaves,蘿霍克護腿【ＨＳ】
+10220,Rohokku G Greaves,蘿霍克護腿【Ｇ】
+10221,Rohokku GF Greaves,蘿霍克護腿【ＧＦ】
+10222,Rohokku GX Greaves,蘿霍克護腿【ＧＸ】
+10223,Rohokku Leggings,蘿霍克裹腿
+10224,Rohokku F Leggings,蘿霍克裹腿【Ｆ】
+10225,Rohokku FY Leggings,蘿霍克裹腿
+10226,Rohokku HS Leggings,蘿霍克裹腿【ＨＳ】
+10227,Rohokku G Leggings,蘿霍克裹腿【Ｇ】
+10228,Rohokku GF Leggings,蘿霍克裹腿【ＧＦ】
+10229,Rohokku GX Leggings,蘿霍克裹腿【ＧＸ】
+10230,Cure Greaves,庫蕾護腿
+10231,Cure F Greaves,庫蕾護腿【Ｆ】
+10232,Cure FY Greaves,庫蕾護腿
+10233,Cure HS Greaves,庫蕾護腿【ＨＳ】
+10234,Cure G Greaves,庫蕾護腿【Ｇ】
+10235,Cure GF Greaves,庫蕾護腿【ＧＦ】
+10236,Cure GX Greaves,庫蕾護腿【ＧＸ】
+10237,Cure Leggings,庫蕾裹腿
+10238,Cure F Leggings,庫蕾裹腿【Ｆ】
+10239,Cure FY Leggings,庫蕾裹腿
+10240,Cure HS Leggings,庫蕾裹腿【ＨＳ】
+10241,Cure G Leggings,庫蕾裹腿【Ｇ】
+10242,Cure GF Leggings,庫蕾裹腿【ＧＦ】
+10243,Cure GX Leggings,庫蕾裹腿【ＧＸ】
 10244,鬼凛ノ足枷G,鬼凛足枷護腿
 10245,鬼凛ノ足枷GF,鬼凛足枷護腿【Ｆ】
 10246,鬼凛ノ足枷GX,鬼凛足枷護腿
 10247,童凛ノ足枷G,童凛足枷護腿
 10248,童凛ノ足枷GF,童凛足枷護腿【Ｆ】
 10249,童凛ノ足枷GX,童凛足枷護腿
-10250,Eguiene Greaves,艾格烏恩護腿
-10251,Eguiene F Greaves,艾格烏恩護腿【Ｆ】
-10252,Eguiene FY Greaves,艾格烏恩護腿
-10253,Eguiene HS Greaves,艾格烏恩護腿【ＨＳ】
-10254,Eguiene G Greaves,艾格烏恩護腿【Ｇ】
-10255,Eguiene GF Greaves,艾格烏恩護腿【ＧＦ】
-10256,Eguiene GX Greaves,艾格烏恩護腿【ＧＸ】
-10257,Eguiene Leggings,艾格烏恩裹腿
-10258,Eguiene F Leggings,艾格烏恩裹腿【Ｆ】
-10259,Eguiene FY Leggings,艾格烏恩裹腿
-10260,Eguiene HS Leggings,艾格烏恩裹腿【ＨＳ】
-10261,Eguiene G Leggings,艾格烏恩裹腿【Ｇ】
-10262,Eguiene GF Leggings,艾格烏恩裹腿【ＧＦ】
-10263,Eguiene GX Leggings,艾格烏恩裹腿【ＧＸ】
+10250,Eguiene Greaves,古奈護腿
+10251,Eguiene F Greaves,古奈護腿【Ｆ】
+10252,Eguiene FY Greaves,古奈護腿
+10253,Eguiene HS Greaves,古奈護腿【ＨＳ】
+10254,Eguiene G Greaves,古奈護腿【Ｇ】
+10255,Eguiene GF Greaves,古奈護腿【ＧＦ】
+10256,Eguiene GX Greaves,古奈護腿【ＧＸ】
+10257,Eguiene Leggings,古奈裹腿
+10258,Eguiene F Leggings,古奈裹腿【Ｆ】
+10259,Eguiene FY Leggings,古奈裹腿
+10260,Eguiene HS Leggings,古奈裹腿【ＨＳ】
+10261,Eguiene G Leggings,古奈裹腿【Ｇ】
+10262,Eguiene GF Leggings,古奈裹腿【ＧＦ】
+10263,Eguiene GX Leggings,古奈裹腿【ＧＸ】
 10264,Vakusu Greaves,芙阿克烏護腿
 10265,Vakusu F Greaves,芙阿克烏護腿【Ｆ】
 10266,Vakusu FY Greaves,芙阿克烏護腿
@@ -10409,9 +10409,9 @@ index,source,target
 10407,Asumo GS Boots,阿斯莫靴【ＧＳ】
 10408,Asumo GP Boots,阿斯莫靴【ＧＰ】
 10409,Asumo ZP Boots,阿斯莫靴【ＺＰ】
-10410,Carrol C Feet,克阿爾歐足
+10410,Carrol C Feet,可爾足
 10411,Zyra C Feet,茲阿斯足
-10412,Loose C Leg,爾歐斯艾腿
+10412,Loose C Leg,蘿賽腿
 10413,Asteli ZP Feet・White,阿斯特利足【ＺＰ】・白
 10414,Asteli ZP Boots・White,阿斯特利靴【ＺＰ】・白
 10415,Asteli ZP Feet・Blue,阿斯特利足【ＺＰ】・青
@@ -10451,11 +10451,11 @@ index,source,target
 10449,ブリゼGF Leggings,布里澤裹腿【Ｆ】
 10450,ブリゼGX Leggings,布里澤裹腿【ＧＸ】
 10451,Higakure C Greaves,赫伊格阿護腿
-10452,Harokyu D Feet,赫阿爾歐足
-10453,Evol D Feet・White,艾芙歐爾足・白
-10454,Evol D Feet・Red,艾芙歐爾足・赤
-10455,Evol D Feet・Blue,艾芙歐爾足・青
-10456,Evol D Feet・Purple,艾芙歐爾足・紫
+10452,Harokyu D Feet,哈蘿尤足
+10453,Evol D Feet・White,沃足・白
+10454,Evol D Feet・Red,沃足・赤
+10455,Evol D Feet・Blue,沃足・青
+10456,Evol D Feet・Purple,沃足・紫
 10457,狩衛部隊 Feet・男,狩衛部隊男足
 10458,狩衛部隊 Feet・女,狩衛部隊女足
 10459,Blue Ice Emperor ZP Feet,青冰帝足【ＺＰ】
@@ -10520,14 +10520,14 @@ index,source,target
 10518,Wander GS Boots・Black,流浪靴【ＧＳ】・黑
 10519,Wander GP Boots・Black,流浪靴【ＧＰ】・黑
 10520,Wander ZP Boots・Black,流浪靴【ＺＰ】・黑
-10521,Gore Greaves,格歐爾艾護腿
-10522,Gore G Greaves,格歐爾艾護腿【Ｇ】
-10523,Gore GF Greaves,格歐爾艾護腿【ＧＦ】
-10524,Gore GX Greaves,格歐爾艾護腿【ＧＸ】
-10525,Gore Leggings,格歐爾艾裹腿
-10526,Gore G Leggings,格歐爾艾裹腿【Ｇ】
-10527,Gore GF Leggings,格歐爾艾裹腿【ＧＦ】
-10528,Gore GX Leggings,格歐爾艾裹腿【ＧＸ】
+10521,Gore Greaves,戈蕾護腿
+10522,Gore G Greaves,戈蕾護腿【Ｇ】
+10523,Gore GF Greaves,戈蕾護腿【ＧＦ】
+10524,Gore GX Greaves,戈蕾護腿【ＧＸ】
+10525,Gore Leggings,戈蕾裹腿
+10526,Gore G Leggings,戈蕾裹腿【Ｇ】
+10527,Gore GF Leggings,戈蕾裹腿【ＧＦ】
+10528,Gore GX Leggings,戈蕾裹腿【ＧＸ】
 10529,Zena G Greaves,茲艾恩阿護腿【Ｇ】
 10530,Zena GF Greaves,茲艾恩阿護腿【ＧＦ】
 10531,Zena GX Greaves,茲艾恩阿護腿【ＧＸ】
@@ -10650,20 +10650,20 @@ index,source,target
 10648,Youthclad ノ足枷G,伊歐斯阿護腿【Ｇ】
 10649,Youthclad ノ足枷GF,伊歐斯阿護腿【Ｆ】
 10650,Youthclad ノ足枷GX,伊歐斯阿護腿【ＧＸ】
-10651,Rave Feet,爾阿芙艾足
-10652,Rave F Feet,爾阿芙艾足【Ｆ】
-10653,Rave FY Feet,爾阿芙艾足
-10654,Rave HS Feet,爾阿芙艾足【ＨＳ】
-10655,Rave G Feet,爾阿芙艾足【Ｇ】
-10656,Rave GF Feet,爾阿芙艾足【ＧＦ】
-10657,Rave GX Feet,爾阿芙艾足【ＧＸ】
-10658,Rave Boots,爾阿芙艾靴
-10659,Rave F Boots,爾阿芙艾靴【Ｆ】
-10660,Rave FY Boots,爾阿芙艾靴
-10661,Rave HS Boots,爾阿芙艾靴【ＨＳ】
-10662,Rave G Boots,爾阿芙艾靴【Ｇ】
-10663,Rave GF Boots,爾阿芙艾靴【ＧＦ】
-10664,Rave GX Boots,爾阿芙艾靴【ＧＸ】
+10651,Rave Feet,拉薇足
+10652,Rave F Feet,拉薇足【Ｆ】
+10653,Rave FY Feet,拉薇足
+10654,Rave HS Feet,拉薇足【ＨＳ】
+10655,Rave G Feet,拉薇足【Ｇ】
+10656,Rave GF Feet,拉薇足【ＧＦ】
+10657,Rave GX Feet,拉薇足【ＧＸ】
+10658,Rave Boots,拉薇靴
+10659,Rave F Boots,拉薇靴【Ｆ】
+10660,Rave FY Boots,拉薇靴
+10661,Rave HS Boots,拉薇靴【ＨＳ】
+10662,Rave G Boots,拉薇靴【Ｇ】
+10663,Rave GF Boots,拉薇靴【ＧＦ】
+10664,Rave GX Boots,拉薇靴【ＧＸ】
 10665,Wander D Feet・Blue,沃阿恩艾足・青
 10666,Wander D Feet・Red,沃阿恩艾足・赤
 10667,Wander D Feet・White,沃阿恩艾足・白
@@ -10671,7 +10671,7 @@ index,source,target
 10669,Blue Ice Emperor D Feet,青冰帝足
 10670,White Ice Emperor D Feet,白冰帝足
 10671,Red Ice Emperor D Feet,赤冰帝足
-10672,Rance C Greaves,爾阿恩艾護腿
+10672,Rance C Greaves,拉賽護腿
 10673,Santa D Feet,斯阿恩阿足
 10674,Anteka D Feet,雪鹿足
 10675,Chiarim ZP Feet,奇亞琳足【ＺＰ】
@@ -10685,12 +10685,12 @@ index,source,target
 10683,Katante ZY Leggings,克阿特阿裹腿【ＺＹ】
 10684,Katante ZX Leggings,克阿特阿裹腿【ＺＸ】
 10685,Sakufi D Feet,斯阿克烏足
-10686,Asumo D Feet,阿斯烏姆足
+10686,Asumo D Feet,斯莫足
 10687,Dios D Feet,德伊斯足
-10688,Asteli D Feet・White,阿斯艾爾足・白
-10689,Asteli D Feet・Blue,阿斯艾爾足・青
-10690,Asteli D Feet・Red,阿斯艾爾足・赤
-10691,Asteli D Feet・Black,阿斯艾爾足・黑
+10688,Asteli D Feet・White,斯特莉足・白
+10689,Asteli D Feet・Blue,斯特莉足・青
+10690,Asteli D Feet・Red,斯特莉足・赤
+10691,Asteli D Feet・Black,斯特莉足・黑
 10692,Lien D Feet・Blue,爾伊恩足・青
 10693,Lien D Feet・Red,爾伊恩足・赤
 10694,Lien D Feet・Black,爾伊恩足・黑
@@ -10698,66 +10698,66 @@ index,source,target
 10696,Lien D Feet・Crimson,爾伊恩足・紅
 10697,Lien D Feet・藍,藍足
 10698,Lien D Feet・Peach,爾伊恩足・桃
-10699,Carrol D Feet・Black,克阿爾歐足・黑
-10700,Carrol D Feet・Blue,克阿爾歐足・青
-10701,Carrol D Feet・White,克阿爾歐足・白
-10702,Carrol D Feet・Red,克阿爾歐足・赤
-10703,Carrol D Feet・Peach,克阿爾歐足・桃
+10699,Carrol D Feet・Black,可爾足・黑
+10700,Carrol D Feet・Blue,可爾足・青
+10701,Carrol D Feet・White,可爾足・白
+10702,Carrol D Feet・Red,可爾足・赤
+10703,Carrol D Feet・Peach,可爾足・桃
 10704,Gothic D Greaves,格歐斯伊護腿
 10705,Kirin Dレガース,麒麟護腿
-10706,Farunokku D Greaves,芙阿爾烏護腿
-10707,Farunokku D Leggings,芙阿爾烏裹腿
+10706,Farunokku D Greaves,法露諾克護腿
+10707,Farunokku D Leggings,法露諾克裹腿
 10708,Pokara D Greaves,普歐克阿護腿
 10709,Pokara D Leggings,普歐克阿裹腿
-10710,Genesis D [Greaves 】,格艾恩艾護腿
-10711,Motion D [Greaves 】,姆歐特伊護腿
+10710,Genesis D [Greaves 】,蓋奈西護腿
+10711,Motion D [Greaves 】,莫恩護腿
 10712,Lightning D [Greaves 】,雷光護腿
 10713,Thunder D [Greaves 】,雷護腿
-10714,Toridcless D Greaves,特歐爾伊護腿
-10715,Toridcless D Leggings,特歐爾伊裹腿
+10714,Toridcless D Greaves,托里克雷護腿
+10715,Toridcless D Leggings,托里克雷裹腿
 10716,Guan D Greaves,格烏恩護腿
 10717,Guan D Leggings,格烏恩裹腿
-10718,Varusa D Greaves,芙阿爾烏護腿
-10719,Varusa D Leggings,芙阿爾烏裹腿
+10718,Varusa D Greaves,瓦露薩護腿
+10719,Varusa D Leggings,瓦露薩裹腿
 10720,Toa D Greaves,特歐斯護腿
 10721,Toa D Leggings,特歐斯裹腿
 10722,Blitz Dレガース,布伊特護腿
-10723,Stroma D Greaves,斯歐姆阿護腿
-10724,Stroma D Leggings,斯歐姆阿裹腿
+10723,Stroma D Greaves,斯特瑪護腿
+10724,Stroma D Leggings,斯特瑪裹腿
 10725,Inagami D【具足】,雅翁龍具足
 10726,Inagami D【具足】,雅翁龍具足
-10727,Altera D Greaves,阿爾艾爾護腿
-10728,Altera D Leggings,阿爾艾爾裹腿
-10729,Pobo D Greaves,普歐布歐護腿
-10730,Pobo D Leggings,普歐布歐裹腿
+10727,Altera D Greaves,特拉護腿
+10728,Altera D Leggings,特拉裹腿
+10729,Pobo D Greaves,珀波護腿
+10730,Pobo D Leggings,珀波裹腿
 10731,Zinogre C Greaves,茲伊恩歐護腿
 10732,Zinogre C Leggings,茲伊恩歐裹腿
-10733,Hornetaur UD Greaves,赫歐爾艾護腿
-10734,Hornetaur UD Leggings,赫歐爾艾裹腿
+10733,Hornetaur UD Greaves,霍恩塔露護腿
+10734,Hornetaur UD Leggings,霍恩塔露裹腿
 10735,Rathalos D Greaves,爾阿斯阿護腿
 10736,Rathalos D Leggings,爾阿斯阿裹腿
 10737,Gogomoa D Greaves,跳緋獸護腿
 10738,Gogomoa D Leggings,跳緋獸裹腿
-10739,Azul D Greaves,阿茲烏爾護腿
-10740,Azul D Leggings,阿茲烏爾裹腿
-10741,Harvest D Boots,赫阿爾艾靴
-10742,Harvest D Leggings,赫阿爾艾裹腿
-10743,Melan D Greaves,姆艾爾阿護腿
-10744,Melan D Leggings,姆艾爾阿裹腿
-10745,Diru D Greaves,德伊爾烏護腿
-10746,Diru D Leggings,德伊爾烏裹腿
+10739,Azul D Greaves,茲護腿
+10740,Azul D Leggings,茲裹腿
+10741,Harvest D Boots,哈薇靴
+10742,Harvest D Leggings,哈薇裹腿
+10743,Melan D Greaves,梅拉恩德護腿
+10744,Melan D Leggings,梅拉恩德裹腿
+10745,Diru D Greaves,迪露護腿
+10746,Diru D Leggings,迪露裹腿
 10747,Tandress D Feet,特阿恩艾足
 10748,Tandress D Boots,特阿恩艾靴
-10749,Rance D Greaves,爾阿恩艾護腿
-10750,Rance D Leggings,爾阿恩艾裹腿
+10749,Rance D Greaves,拉賽護腿
+10750,Rance D Leggings,拉賽裹腿
 10751,Ganeto D Greaves,格阿恩艾護腿
 10752,Ganeto D Leggings,格阿恩艾裹腿
-10753,Chiru D Greaves,奇伊爾烏護腿
-10754,Chiru D Leggings,奇伊爾烏裹腿
+10753,Chiru D Greaves,奇露護腿
+10754,Chiru D Leggings,奇露裹腿
 10755,Shiusu D Greaves,夏伊斯烏護腿
 10756,Shiusu D Leggings,夏伊斯烏裹腿
 10757,Once D Greaves・無,無護腿
-10758,Pale Sakura D【 Hakama 】,普阿爾艾袴
+10758,Pale Sakura D【 Hakama 】,拍勒薩克袴
 10759,Pelegri Feet,佩勒格里足
 10760,Pelegri F Feet,佩勒格里足【Ｆ】
 10761,Pelegri FZ Feet,佩勒格里足【ＦＺ】
@@ -10792,7 +10792,7 @@ index,source,target
 10790,Wasou Greaves ZP,和裝護腿【ＺＰ】
 10791,Howla D Feet,赫歐沃阿足
 10792,Panse D Feet,普阿恩艾足
-10793,Marriage D Feet,姆阿爾伊足
+10793,Marriage D Feet,瑪爾蓋足
 10794,Yukine D Feet,雪音足
 10795,Snow Miku D Feet,雪初音足
 10796,Miku D Feet,初音未來足
@@ -10801,12 +10801,12 @@ index,source,target
 10799,Felyne D Greaves,艾路猫護腿
 10800,Tabby D Greaves,特阿布護腿
 10801,Brown D Greaves,布歐沃護腿
-10802,Calico D Greaves,克阿爾伊護腿
-10803,Monotone D Greaves,姆歐恩歐護腿
+10802,Calico D Greaves,可莉古護腿
+10803,Monotone D Greaves,莫諾托奈護腿
 10804,Chashiro D Greaves,奇阿夏伊護腿
-10805,Two-tone D Greaves,特歐斯歐護腿
+10805,Two-tone D Greaves,沃托奈護腿
 10806,King Beetle D Crura,王甲蟲腿甲
-10807,Butterfly D Crura,布烏特艾腿甲
+10807,Butterfly D Crura,布特芙腿甲
 10808,Demon Lord ノ足枷D,魔王護腿
 10809,Demon Tale ノ足枷D,魔譚護腿
 10810,鬼凛ノ足枷D,鬼凛足枷護腿
@@ -10816,8 +10816,8 @@ index,source,target
 10814,Kaiser C Leggings,克阿斯艾裹腿
 10815,Dragon D Feet,龍足
 10816,Dragon D Legs,龍腿甲
-10817,Nargacuga C Greaves,恩阿爾阿護腿
-10818,Nargacuga C Leggings,恩阿爾阿裹腿
+10817,Nargacuga C Greaves,娜加庫加護腿
+10818,Nargacuga C Leggings,娜加庫加裹腿
 10819,Burning Cliff GX [Hakama 】,燃崖袴【ＧＸ】
 10820,Crimson Cliff GX [Hakama 】,深紅崖袴【ＧＸ】
 10821,Vashimu Z Greaves,尾晶蠍護腿【Ｚ】
@@ -10836,20 +10836,20 @@ index,source,target
 10834,Tigrex ZF Leggings,轟龍裹腿【ＺＦ】
 10835,Tigrex ZY Leggings,轟龍裹腿【ＺＹ】
 10836,Tigrex ZX Leggings,轟龍裹腿【ＺＸ】
-10837,Adel Feet,阿黛爾足
-10838,Adel F Feet,阿黛爾足【Ｆ】
-10839,Adel FZ Feet,阿黛爾足【ＦＺ】
-10840,Adel HS Feet,阿黛爾足【ＨＳ】
-10841,Adel GS Feet,阿黛爾足【ＧＳ】
-10842,Adel GP Feet,阿黛爾足【ＧＰ】
-10843,Adel ZP Feet,阿黛爾足【ＺＰ】
-10844,Adel Boots,阿黛爾靴
-10845,Adel F Boots,阿黛爾靴【Ｆ】
-10846,Adel FZ Boots,阿黛爾靴【ＦＺ】
-10847,Adel HS Boots,阿黛爾靴【ＨＳ】
-10848,Adel GS Boots,阿黛爾靴【ＧＳ】
-10849,Adel GP Boots,阿黛爾靴【ＧＰ】
-10850,Adel ZP Boots,阿黛爾靴【ＺＰ】
+10837,Adel Feet,亞德露足
+10838,Adel F Feet,亞德露足【Ｆ】
+10839,Adel FZ Feet,亞德露足【ＦＺ】
+10840,Adel HS Feet,亞德露足【ＨＳ】
+10841,Adel GS Feet,亞德露足【ＧＳ】
+10842,Adel GP Feet,亞德露足【ＧＰ】
+10843,Adel ZP Feet,亞德露足【ＺＰ】
+10844,Adel Boots,亞德露靴
+10845,Adel F Boots,亞德露靴【Ｆ】
+10846,Adel FZ Boots,亞德露靴【ＦＺ】
+10847,Adel HS Boots,亞德露靴【ＨＳ】
+10848,Adel GS Boots,亞德露靴【ＧＳ】
+10849,Adel GP Boots,亞德露靴【ＧＰ】
+10850,Adel ZP Boots,亞德露靴【ＺＰ】
 10851,Rocbouquet Feet,蘿克布凱足
 10852,Rocbouquet F Feet,蘿克布凱足【Ｆ】
 10853,Rocbouquet FZ Feet,蘿克布凱足【ＦＺ】
@@ -10864,20 +10864,20 @@ index,source,target
 10862,Rocbouquet GS Boots,蘿克布凱靴【ＧＳ】
 10863,Rocbouquet GP Boots,蘿克布凱靴【ＧＰ】
 10864,Rocbouquet ZP Boots,蘿克布凱靴【ＺＰ】
-10865,Alkaiser Feet,阿爾凱撒足
-10866,Alkaiser F Feet,阿爾凱撒足【Ｆ】
-10867,Alkaiser FZ Feet,阿爾凱撒足【ＦＺ】
-10868,Alkaiser HS Feet,阿爾凱撒足【ＨＳ】
-10869,Alkaiser GS Feet,阿爾凱撒足【ＧＳ】
-10870,Alkaiser GP Feet,阿爾凱撒足【ＧＰ】
-10871,Alkaiser ZP Feet,阿爾凱撒足【ＺＰ】
-10872,Alkaiser Boots,阿爾凱撒靴
-10873,Alkaiser F Boots,阿爾凱撒靴【Ｆ】
-10874,Alkaiser FZ Boots,阿爾凱撒靴【ＦＺ】
-10875,Alkaiser HS Boots,阿爾凱撒靴【ＨＳ】
-10876,Alkaiser GS Boots,阿爾凱撒靴【ＧＳ】
-10877,Alkaiser GP Boots,阿爾凱撒靴【ＧＰ】
-10878,Alkaiser ZP Boots,阿爾凱撒靴【ＺＰ】
+10865,Alkaiser Feet,亞露可伊足
+10866,Alkaiser F Feet,亞露可伊足【Ｆ】
+10867,Alkaiser FZ Feet,亞露可伊足【ＦＺ】
+10868,Alkaiser HS Feet,亞露可伊足【ＨＳ】
+10869,Alkaiser GS Feet,亞露可伊足【ＧＳ】
+10870,Alkaiser GP Feet,亞露可伊足【ＧＰ】
+10871,Alkaiser ZP Feet,亞露可伊足【ＺＰ】
+10872,Alkaiser Boots,亞露可伊靴
+10873,Alkaiser F Boots,亞露可伊靴【Ｆ】
+10874,Alkaiser FZ Boots,亞露可伊靴【ＦＺ】
+10875,Alkaiser HS Boots,亞露可伊靴【ＨＳ】
+10876,Alkaiser GS Boots,亞露可伊靴【ＧＳ】
+10877,Alkaiser GP Boots,亞露可伊靴【ＧＰ】
+10878,Alkaiser ZP Boots,亞露可伊靴【ＺＰ】
 10879,Claudia Feet,克勞蒂亞足
 10880,Claudia F Feet,克勞蒂亞足【Ｆ】
 10881,Claudia FZ Feet,克勞蒂亞足【ＦＺ】
@@ -10941,40 +10941,40 @@ index,source,target
 10939,Pashio G Leggings,普阿夏伊裹腿【Ｇ】
 10940,Pashio GF Leggings,普阿夏伊裹腿【ＧＦ】
 10941,Pashio GX Leggings,普阿夏伊裹腿【ＧＸ】
-10942,Harudo D Greaves,赫阿爾烏護腿
-10943,Harudo D Leggings,赫阿爾烏裹腿
-10944,Elegance D [Greaves 】,艾爾艾格護腿
+10942,Harudo D Greaves,哈露多護腿
+10943,Harudo D Leggings,哈露多裹腿
+10944,Elegance D [Greaves 】,勒加賽護腿
 10945,Grace D [Greaves 】,恩寵護腿
-10946,Meraginasu D Greaves,姆艾爾阿護腿
-10947,Meraginasu D Leggings,姆艾爾阿裹腿
-10948,Hesyumu D Feet,赫艾斯烏足
+10946,Meraginasu D Greaves,梅拉吉娜護腿
+10947,Meraginasu D Leggings,梅拉吉娜裹腿
+10948,Hesyumu D Feet,赫尤姆足
 10949,Kasamie D Feet,克阿斯阿足
-10950,Cielo D Feet,克伊爾歐足
+10950,Cielo D Feet,奇蘿足
 10951,Vichi D Feet,芙伊奇伊足
-10952,Adel D Feet,阿德艾爾足
-10953,Rocbouquet D Feet,爾歐克歐足
-10954,Alkaiser D Feet,阿爾阿斯足
+10952,Adel D Feet,德足
+10953,Rocbouquet D Feet,蘿波奎足
+10954,Alkaiser D Feet,克艾賽足
 10955,Claudia D Feet,克阿德伊足
 10956,Kinosu D Greaves,克伊恩歐護腿
-10957,Himeros D Greaves,赫伊姆艾護腿
-10958,Charien D Leggings,奇阿爾伊裹腿
-10959,Arietta D Leg,阿爾伊特腿
+10957,Himeros D Greaves,希梅蘿護腿
+10958,Charien D Leggings,夏里恩德裹腿
+10959,Arietta D Leg,里特腿
 10960,Craft D Boots,工匠靴
 10961,Shieri D Greaves,夏伊爾伊護腿
-10962,Pupen D Greaves,普烏普艾護腿
-10963,Moss Covered D Greaves,姆歐斯歐護腿
-10964,Excelle D Greaves,艾克斯艾護腿
-10965,Ordre D Greaves,歐爾艾斯護腿
-10966,Rath Duo D Greaves,爾阿斯烏護腿
+10962,Pupen D Greaves,普佩恩德護腿
+10963,Moss Covered D Greaves,莫斯古薇護腿
+10964,Excelle D Greaves,克斯賽爾護腿
+10965,Ordre D Greaves,德護腿
+10966,Rath Duo D Greaves,拉斯杜護腿
 10967,Atra D Greaves,阿特阿斯護腿
 10968,Madaru D Greaves,姆阿德阿護腿
 10969,Shasse D Greaves,夏阿斯艾護腿
-10970,Orchesis D Greaves,歐爾艾斯護腿
+10970,Orchesis D Greaves,切西護腿
 10971,Blize D Greaves,布伊茲艾護腿
 10972,Quoiz D Feet,斯烏茲足
-10973,Kalais D Feet,克阿爾阿足
-10974,Lucchese D Feet,爾烏克艾足
-10975,Entora D Greaves,艾恩歐爾護腿
+10973,Kalais D Feet,可拉足
+10974,Lucchese D Feet,露切賽足
+10975,Entora D Greaves,托拉護腿
 10976,YoRHa No.9 Type S Feet,寄葉九號型足【Ｓ】
 10977,YoRHa No.9 Type S F Feet,寄葉九號型足【Ｆ】
 10978,YoRHa No.9 Type S FZ Feet,寄葉九號型足【ＦＺ】
@@ -11019,14 +11019,14 @@ index,source,target
 11017,Hyujikiki ZF Leggings,針纏龍裹腿【ＺＦ】
 11018,Hyujikiki ZY Leggings,針纏龍裹腿【ＺＹ】
 11019,Hyujikiki ZX Leggings,針纏龍裹腿【ＺＸ】
-11020,Gear Z Greaves,格艾爾護腿【Ｚ】
-11021,Gear ZF Greaves,格艾爾護腿【ＺＦ】
-11022,Gear ZY Greaves,格艾爾護腿【ＺＹ】
-11023,Gear ZX Greaves,格艾爾護腿【ＺＸ】
-11024,Gear Z Leggings,格艾爾裹腿【Ｚ】
-11025,Gear ZF Leggings,格艾爾裹腿【ＺＦ】
-11026,Gear ZY Leggings,格艾爾裹腿【ＺＹ】
-11027,Gear ZX Leggings,格艾爾裹腿【ＺＸ】
+11020,Gear Z Greaves,蓋護腿【Ｚ】
+11021,Gear ZF Greaves,蓋護腿【ＺＦ】
+11022,Gear ZY Greaves,蓋護腿【ＺＹ】
+11023,Gear ZX Greaves,蓋護腿【ＺＸ】
+11024,Gear Z Leggings,蓋裹腿【Ｚ】
+11025,Gear ZF Leggings,蓋裹腿【ＺＦ】
+11026,Gear ZY Leggings,蓋裹腿【ＺＹ】
+11027,Gear ZX Leggings,蓋裹腿【ＺＸ】
 11028,Rokka Feet,蘿可足
 11029,Rokka F Feet,蘿可足【Ｆ】
 11030,Rokka FZ Feet,蘿可足【ＦＺ】
@@ -11087,8 +11087,8 @@ index,source,target
 11085,Gorgon ZP Boots・White,戈耳工靴【ＺＰ】・白
 11086,Gorgon ZP Feet・Red,戈耳工足【ＺＰ】・赤
 11087,Gorgon ZP Boots・Red,戈耳工靴【ＺＰ】・赤
-11088,Arben ZP Feet,阿爾本足【ＺＰ】
-11089,Arben ZP Boots,阿爾本靴【ＺＰ】
+11088,Arben ZP Feet,亞露貝恩足【ＺＰ】
+11089,Arben ZP Boots,亞露貝恩靴【ＺＰ】
 11090,Aura ZP Feet,光環足【ＺＰ】
 11091,Aura ZP Boots,光環靴【ＺＰ】
 11092,Gagachu ZP Feet,加加丘足【ＺＰ】
@@ -11111,15 +11111,15 @@ index,source,target
 11109,Chatore G Leggings,奇阿特歐裹腿【Ｇ】
 11110,Chatore GF Leggings,奇阿特歐裹腿【ＧＦ】
 11111,Chatore GX Leggings,奇阿特歐裹腿【ＧＸ】
-11112,Donru GX Greaves,德歐恩烏護腿【ＧＸ】
-11113,Donru GX Leggings,德歐恩烏裹腿【ＧＸ】
-11114,Penre D Feet,普艾恩艾足
-11115,Rokka D Feet,爾歐克阿足
+11112,Donru GX Greaves,多露護腿【ＧＸ】
+11113,Donru GX Leggings,多露裹腿【ＧＸ】
+11114,Penre D Feet,佩蕾足
+11115,Rokka D Feet,蘿可足
 11116,YoRHa No.9 Type S D Feet,寄葉九號型足【Ｓ】
 11117,YoRHa No.2 Type B D Feet,寄葉二號Ｂ型足
 11118,トリートC Greaves,托里托護腿
 11119,Craft C Boots,工匠靴
-11120,Cielo C Feet,克伊爾歐足
+11120,Cielo C Feet,奇蘿足
 11121,Felyne C Greaves,艾路猫護腿
 11122,Akahara Reisou GN Legs D Red,阿克阿赫腿甲・赤
 11123,Akahara Reisou GN Legs D Blue,阿克阿赫腿甲・青
@@ -11133,23 +11133,23 @@ index,source,target
 11131,Hero King Legs BM D Black,英雄王腿甲・黑
 11132,Hero King Legs BM D White,英雄王腿甲・白
 11133,Hero King Legs BM D Red,英雄王腿甲・赤
-11134,Gorgon D Feet・Black,格歐爾歐足・黑
-11135,Gorgon D Feet・Blue,格歐爾歐足・青
-11136,Gorgon D Feet・White,格歐爾歐足・白
-11137,Gorgon D Feet・Red,格歐爾歐足・赤
-11138,Arben D Feet,阿爾艾恩足
-11139,Aura D Feet,阿爾阿斯足
+11134,Gorgon D Feet・Black,戈戈恩德足・黑
+11135,Gorgon D Feet・Blue,戈戈恩德足・青
+11136,Gorgon D Feet・White,戈戈恩德足・白
+11137,Gorgon D Feet・Red,戈戈恩德足・赤
+11138,Arben D Feet,貝恩德足
+11139,Aura D Feet,奧拉足
 11140,Gagachu D Feet,格阿格阿足
-11141,Kurofi D Feet,克烏爾歐足
-11142,Keravuno D Feet,克艾爾阿足
+11141,Kurofi D Feet,克蘿菲足
+11142,Keravuno D Feet,凱拉諾足
 11143,Espinas ZD Heel,艾斯伊恩踵
 11144,Espinas ZD March,艾斯伊恩行軍腿
 11145,Hypnoc ZD Greaves,赫歐克護腿
 11146,Hypnoc ZD Leggings,赫歐克裹腿
-11147,Khezu ZD Greaves,克艾茲烏護腿
-11148,Khezu ZD Leggings,克艾茲烏裹腿
-11149,Hermitaur ZD Greaves,赫艾爾伊護腿
-11150,Hermitaur ZD Leggings,赫艾爾伊裹腿
+11147,Khezu ZD Greaves,克茲護腿
+11148,Khezu ZD Leggings,克茲裹腿
+11149,Hermitaur ZD Greaves,赫姆塔護腿
+11150,Hermitaur ZD Leggings,赫姆塔裹腿
 11151,Rathalos ZD Greaves,爾阿斯阿護腿
 11152,Rathalos ZD Leggings,爾阿斯阿裹腿
 11153,Blango ZD Greaves,布阿恩歐護腿
@@ -11160,9 +11160,9 @@ index,source,target
 11158,Tigrex ZD Leggings,特伊格艾裹腿
 11159,Hyujikiki ZD Greaves,赫烏傑伊護腿
 11160,Hyujikiki ZD Leggings,赫烏傑伊裹腿
-11161,Gear ZD Greaves,格艾爾護腿
-11162,Gear ZD Leggings,格艾爾裹腿
-11163,Muruta D Feet,姆烏爾烏足
+11161,Gear ZD Greaves,蓋護腿
+11162,Gear ZD Leggings,蓋裹腿
+11163,Muruta D Feet,姆露塔足
 11164,Midogaron Z Greaves,爆狼護腿【Ｚ】
 11165,Midogaron ZF Greaves,爆狼護腿【ＺＦ】
 11166,Midogaron ZY Greaves,爆狼護腿【ＺＹ】
@@ -11242,13 +11242,13 @@ index,source,target
 11240,Crush Lance GS Feet,克烏夏阿足【ＧＳ】
 11241,Crush Lance GP Feet,克烏夏阿足【ＧＰ】
 11242,Crush Lance ZP Feet,克烏夏阿足【ＺＰ】
-11243,Scream Lance Feet,斯艾姆阿足
-11244,Scream Lance F Feet,斯艾姆阿足【Ｆ】
-11245,Scream Lance FZ Feet,斯艾姆阿足【ＦＺ】
-11246,Scream Lance HS Feet,斯艾姆阿足【ＨＳ】
-11247,Scream Lance GS Feet,斯艾姆阿足【ＧＳ】
-11248,Scream Lance GP Feet,斯艾姆阿足【ＧＰ】
-11249,Scream Lance ZP Feet,斯艾姆阿足【ＺＰ】
+11243,Scream Lance Feet,克雷拉賽足
+11244,Scream Lance F Feet,克雷拉賽足【Ｆ】
+11245,Scream Lance FZ Feet,克雷拉賽足【ＦＺ】
+11246,Scream Lance HS Feet,克雷拉賽足【ＨＳ】
+11247,Scream Lance GS Feet,克雷拉賽足【ＧＳ】
+11248,Scream Lance GP Feet,克雷拉賽足【ＧＰ】
+11249,Scream Lance ZP Feet,克雷拉賽足【ＺＰ】
 11250,Piercing Light Feet,貫光足
 11251,Piercing Light F Feet,貫光足【Ｆ】
 11252,Piercing Light FZ Feet,貫光足【ＦＺ】
@@ -11270,13 +11270,13 @@ index,source,target
 11268,Blast Gun GS Boots,布阿斯烏靴【ＧＳ】
 11269,Blast Gun GP Boots,布阿斯烏靴【ＧＰ】
 11270,Blast Gun ZP Boots,布阿斯烏靴【ＺＰ】
-11271,Crush Gun Boots,克烏夏烏靴
-11272,Crush Gun F Boots,克烏夏烏靴【Ｆ】
-11273,Crush Gun FZ Boots,克烏夏烏靴【ＦＺ】
-11274,Crush Gun HS Boots,克烏夏烏靴【ＨＳ】
-11275,Crush Gun GS Boots,克烏夏烏靴【ＧＳ】
-11276,Crush Gun GP Boots,克烏夏烏靴【ＧＰ】
-11277,Crush Gun ZP Boots,克烏夏烏靴【ＺＰ】
+11271,Crush Gun Boots,克修古靴
+11272,Crush Gun F Boots,克修古靴【Ｆ】
+11273,Crush Gun FZ Boots,克修古靴【ＦＺ】
+11274,Crush Gun HS Boots,克修古靴【ＨＳ】
+11275,Crush Gun GS Boots,克修古靴【ＧＳ】
+11276,Crush Gun GP Boots,克修古靴【ＧＰ】
+11277,Crush Gun ZP Boots,克修古靴【ＺＰ】
 11278,Bow Saint Boots,斯阿恩靴
 11279,Bow Saint F Boots,斯阿恩靴【Ｆ】
 11280,Bow Saint FZ Boots,斯阿恩靴【ＦＺ】
@@ -11330,20 +11330,20 @@ index,source,target
 11328,Shaln ZP Boots・Green,夏爾恩靴【ＺＰ】・緑
 11329,Shaln ZP Boots・Purple,夏爾恩靴【ＺＰ】・紫
 11330,Shaln ZP Boots・White,夏爾恩靴【ＺＰ】・白
-11331,Arumyu G Greaves,阿爾烏姆護腿【Ｇ】
-11332,Arumyu GF Greaves,阿爾烏姆護腿【ＧＦ】
-11333,Arumyu GX Greaves,阿爾烏姆護腿【ＧＸ】
-11334,Arumyu G Leggings,阿爾烏姆裹腿【Ｇ】
-11335,Arumyu GF Leggings,阿爾烏姆裹腿【ＧＦ】
-11336,Arumyu GX Leggings,阿爾烏姆裹腿【ＧＸ】
-11337,Korinyi Z Feet,克歐爾伊足【Ｚ】
-11338,Korinyi ZF Feet,克歐爾伊足【ＺＦ】
-11339,Korinyi ZY Feet,克歐爾伊足【ＺＹ】
-11340,Korinyi ZX Feet,克歐爾伊足【ＺＸ】
-11341,Korinyi Z Boots,克歐爾伊靴【Ｚ】
-11342,Korinyi ZF Boots,克歐爾伊靴【ＺＦ】
-11343,Korinyi ZY Boots,克歐爾伊靴【ＺＹ】
-11344,Korinyi ZX Boots,克歐爾伊靴【ＺＸ】
+11331,Arumyu G Greaves,露尤護腿【Ｇ】
+11332,Arumyu GF Greaves,露尤護腿【ＧＦ】
+11333,Arumyu GX Greaves,露尤護腿【ＧＸ】
+11334,Arumyu G Leggings,露尤裹腿【Ｇ】
+11335,Arumyu GF Leggings,露尤裹腿【ＧＦ】
+11336,Arumyu GX Leggings,露尤裹腿【ＧＸ】
+11337,Korinyi Z Feet,古里足【Ｚ】
+11338,Korinyi ZF Feet,古里足【ＺＦ】
+11339,Korinyi ZY Feet,古里足【ＺＹ】
+11340,Korinyi ZX Feet,古里足【ＺＸ】
+11341,Korinyi Z Boots,古里靴【Ｚ】
+11342,Korinyi ZF Boots,古里靴【ＺＦ】
+11343,Korinyi ZY Boots,古里靴【ＺＹ】
+11344,Korinyi ZX Boots,古里靴【ＺＸ】
 11345,Renka Greaves Z,蓮華護腿【Ｚ】
 11346,Renka Greaves ZF,蓮華護腿【ＺＦ】
 11347,Renka Greaves ZY,蓮華護腿【ＺＹ】
@@ -11359,9 +11359,9 @@ index,source,target
 11357,失落D狂脛,失落狂脛護腿
 11358,噬天D光脛,噬天光脛護腿
 11359,小藍ＣＯＳ靴,小藍ＣＯＳ靴護腿
-11360,ヴァンパイアＤフット,芙恩拍伊阿護腿
-11361,Midogaron ZD Greaves,姆伊德歐護腿
-11362,Midogaron ZD Leggings,姆伊德歐裹腿
+11360,ヴァンパイアＤフット,薇恩拍伊護腿
+11361,Midogaron ZD Greaves,蜜多加蘿護腿
+11362,Midogaron ZD Leggings,蜜多加蘿裹腿
 11363,White Fatalis D Feet,白黑龍足
 11364,White Fatalis D Legs,白黑龍腿甲
 11365,Elzelion D Greaves,灼零龍護腿
@@ -11370,39 +11370,39 @@ index,source,target
 11368,十ノ軌跡C Feet,十軌跡足
 11369,十ノ至道C Boots,十至道靴
 11370,Rantana D Feet,爾阿恩阿足
-11371,Eris D Feet,艾爾伊斯足
+11371,Eris D Feet,里足
 11372,Magisa D Feet・Red,姆阿格伊足・赤
 11373,Magisa D Feet・Black,姆阿格伊足・黑
 11374,Magisa D Feet・Green,姆阿格伊足・緑
 11375,Magisa D Feet・White,姆阿格伊足・白
 11376,Magisa D Feet・Blue,姆阿格伊足・青
 11377,Waka Legs D,沃阿克阿腿甲
-11378,Shaln D Feet・Blue,夏阿爾足・青
-11379,Shaln D Feet・Green,夏阿爾足・緑
-11380,Shaln D Feet・Purple,夏阿爾足・紫
-11381,Shaln D Feet・White,夏阿爾足・白
-11382,Shaln D Feet・Red,夏阿爾足・赤
-11383,Shaln D Feet・Crimson,夏阿爾足・紅
-11384,Shaln D Feet・Orange,夏阿爾足・橙
-11385,Carriage D Feet,克阿爾伊足
-11386,Marble D Feet,姆阿爾艾足
+11378,Shaln D Feet・Blue,修恩足・青
+11379,Shaln D Feet・Green,修恩足・緑
+11380,Shaln D Feet・Purple,修恩足・紫
+11381,Shaln D Feet・White,修恩足・白
+11382,Shaln D Feet・Red,修恩足・赤
+11383,Shaln D Feet・Crimson,修恩足・紅
+11384,Shaln D Feet・Orange,修恩足・橙
+11385,Carriage D Feet,可爾蓋足
+11386,Marble D Feet,瑪布足
 11387,Shandy D Feet,夏阿恩足
 11388,Banquet D Feet,布阿恩烏足
-11389,Korinyi D Feet,克歐爾伊足
-11390,Renka Greaves D,爾艾恩阿護腿
-11391,Kukubo D Feet,克烏克烏足
+11389,Korinyi D Feet,古里足
+11390,Renka Greaves D,蕾可護腿
+11391,Kukubo D Feet,克克波足
 11392,Kakabu D Feet,克阿克阿足
-11393,Aruru D Feet,阿爾烏爾足
+11393,Aruru D Feet,露露足
 11394,Red Cat D Boots,赤猫靴
 11395,Rios D Greaves,爾伊斯護腿
 11396,Bonito D Greaves,布歐恩伊護腿
-11397,Meirida D Greaves,姆艾爾伊護腿
+11397,Meirida D Greaves,梅里達護腿
 11398,Miniomu D Greaves,姆伊恩伊護腿
-11399,Harimeno D Greaves,赫阿爾伊護腿
+11399,Harimeno D Greaves,哈里梅諾護腿
 11400,Deliver D Greaves,交貨護腿
 11401,Asaku D Greaves,阿斯阿克護腿
-11402,Desordre D Greaves,德艾斯歐護腿
-11403,Haragan D Greaves,赫阿爾阿護腿
+11402,Desordre D Greaves,德索德護腿
+11403,Haragan D Greaves,哈拉加護腿
 11404,Abuyado D Greaves,阿布烏伊護腿
 11405,Ruko Z Greaves,極龍護腿【Ｚ】
 11406,Ruko ZF Greaves,極龍護腿【ＺＦ】
@@ -11420,20 +11420,20 @@ index,source,target
 11418,Plesioth ZF Leggings,水龍裹腿【ＺＦ】
 11419,Plesioth ZY Leggings,水龍裹腿【ＺＹ】
 11420,Plesioth ZX Leggings,水龍裹腿【ＺＸ】
-11421,Sharufu Greaves,夏爾夫護腿
-11422,Sharufu F Greaves,夏爾夫護腿【Ｆ】
-11423,Sharufu FZ Greaves,夏爾夫護腿【ＦＺ】
-11424,Sharufu HS Greaves,夏爾夫護腿【ＨＳ】
-11425,Sharufu GS Greaves,夏爾夫護腿【ＧＳ】
-11426,Sharufu GP Greaves,夏爾夫護腿【ＧＰ】
-11427,Sharufu ZP Greaves,夏爾夫護腿【ＺＰ】
-11428,Sharufu Leggings,夏爾夫裹腿
-11429,Sharufu F Leggings,夏爾夫裹腿【Ｆ】
-11430,Sharufu FZ Leggings,夏爾夫裹腿【ＦＺ】
-11431,Sharufu HS Leggings,夏爾夫裹腿【ＨＳ】
-11432,Sharufu GS Leggings,夏爾夫裹腿【ＧＳ】
-11433,Sharufu GP Leggings,夏爾夫裹腿【ＧＰ】
-11434,Sharufu ZP Leggings,夏爾夫裹腿【ＺＰ】
+11421,Sharufu Greaves,夏露芙護腿
+11422,Sharufu F Greaves,夏露芙護腿【Ｆ】
+11423,Sharufu FZ Greaves,夏露芙護腿【ＦＺ】
+11424,Sharufu HS Greaves,夏露芙護腿【ＨＳ】
+11425,Sharufu GS Greaves,夏露芙護腿【ＧＳ】
+11426,Sharufu GP Greaves,夏露芙護腿【ＧＰ】
+11427,Sharufu ZP Greaves,夏露芙護腿【ＺＰ】
+11428,Sharufu Leggings,夏露芙裹腿
+11429,Sharufu F Leggings,夏露芙裹腿【Ｆ】
+11430,Sharufu FZ Leggings,夏露芙裹腿【ＦＺ】
+11431,Sharufu HS Leggings,夏露芙裹腿【ＨＳ】
+11432,Sharufu GS Leggings,夏露芙裹腿【ＧＳ】
+11433,Sharufu GP Leggings,夏露芙裹腿【ＧＰ】
+11434,Sharufu ZP Leggings,夏露芙裹腿【ＺＰ】
 11435,Kamara Greaves,可瑪拉護腿
 11436,Kamara F Greaves,可瑪拉護腿【Ｆ】
 11437,Kamara FZ Greaves,可瑪拉護腿【ＦＺ】
@@ -11524,45 +11524,45 @@ index,source,target
 11522,Gilbert ZP Leggings,吉伯特裹腿【ＺＰ】
 11523,Zuibei ZP Heel,瑞貝踵【ＺＰ】
 11524,Zuibei ZP March,瑞貝行軍腿【ＺＰ】
-11525,Liebre G Greaves,爾伊布艾護腿【Ｇ】
-11526,Liebre GF Greaves,爾伊布艾護腿【ＧＦ】
-11527,Liebre GX Greaves,爾伊布艾護腿【ＧＸ】
-11528,Liebre G Leggings,爾伊布艾裹腿【Ｇ】
-11529,Liebre GF Leggings,爾伊布艾裹腿【ＧＦ】
-11530,Liebre GX Leggings,爾伊布艾裹腿【ＧＸ】
-11531,Merente Z Greaves,姆艾爾艾護腿【Ｚ】
-11532,Merente ZF Greaves,姆艾爾艾護腿【ＺＦ】
-11533,Merente ZY Greaves,姆艾爾艾護腿【ＺＹ】
-11534,Merente ZX Greaves,姆艾爾艾護腿【ＺＸ】
-11535,Merente Z Leggings,姆艾爾艾裹腿【Ｚ】
-11536,Merente ZF Leggings,姆艾爾艾裹腿【ＺＦ】
-11537,Merente ZY Leggings,姆艾爾艾裹腿【ＺＹ】
-11538,Merente ZX Leggings,姆艾爾艾裹腿【ＺＸ】
-11539,Ruko ZD Greaves,爾烏克歐護腿
-11540,Ruko ZD Leggings,爾烏克歐裹腿
+11525,Liebre G Greaves,莉布護腿【Ｇ】
+11526,Liebre GF Greaves,莉布護腿【ＧＦ】
+11527,Liebre GX Greaves,莉布護腿【ＧＸ】
+11528,Liebre G Leggings,莉布裹腿【Ｇ】
+11529,Liebre GF Leggings,莉布裹腿【ＧＦ】
+11530,Liebre GX Leggings,莉布裹腿【ＧＸ】
+11531,Merente Z Greaves,梅蕾特護腿【Ｚ】
+11532,Merente ZF Greaves,梅蕾特護腿【ＺＦ】
+11533,Merente ZY Greaves,梅蕾特護腿【ＺＹ】
+11534,Merente ZX Greaves,梅蕾特護腿【ＺＸ】
+11535,Merente Z Leggings,梅蕾特裹腿【Ｚ】
+11536,Merente ZF Leggings,梅蕾特裹腿【ＺＦ】
+11537,Merente ZY Leggings,梅蕾特裹腿【ＺＹ】
+11538,Merente ZX Leggings,梅蕾特裹腿【ＺＸ】
+11539,Ruko ZD Greaves,露古護腿
+11540,Ruko ZD Leggings,露古裹腿
 11541,Plesioth ZD Greaves,普艾斯伊護腿
 11542,Plesioth ZD Leggings,普艾斯伊裹腿
-11543,Sharufu D Greaves,夏阿爾烏護腿
+11543,Sharufu D Greaves,修露芙護腿
 11544,Kamara D Greaves,克阿姆阿護腿
-11545,Liebre D Greaves,爾伊布艾護腿
-11546,Korinyi C Feet,克歐爾伊足
-11547,Ruche D Greaves,爾烏奇艾護腿
+11545,Liebre D Greaves,莉布護腿
+11546,Korinyi C Feet,古里足
+11547,Ruche D Greaves,露切護腿
 11548,Strength D Leg,斯艾恩腿
 11549,Rage D Feet,憤怒足
 11550,Rampage D Feet,狂暴足
 11551,Blaze D Feet,烈焔足
 11552,Poogie D Feet,普歐格伊足
-11553,Mandora D Feet,姆阿恩歐足
+11553,Mandora D Feet,瑪恩德拉足
 11554,Aonoko D Feet,阿恩歐克足
 11555,Gauss D Greaves,格阿斯護腿
-11556,Weber D Greaves,沃艾布艾護腿
-11557,Gilbert D Greaves,格伊爾艾護腿
-11558,Zuibei D Heel,茲烏布艾踵
+11556,Weber D Greaves,貝護腿
+11557,Gilbert D Greaves,吉貝護腿
+11558,Zuibei D Heel,茲貝踵
 11559,Chiarim D Feet,奇伊爾伊足
 11560,Guild Bard C Boots,公會吟遊靴
 11561,Scholar C Socks,學者襪
-11562,Aelucanth C Crura,阿爾烏克腿甲
-11563,Rhopessa C Crura,爾歐普艾腿甲
+11562,Aelucanth C Crura,露可斯腿甲
+11563,Rhopessa C Crura,霍佩斯腿甲
 11564,Yukumo ノハカマC・Heaven,結雲天護腿
 11565,White 蘭D Feet,蘭足・白
 11566,Crimson 霞D Feet,霞足・紅
@@ -11570,8 +11570,8 @@ index,source,target
 11568,Tangusu D Greaves,特阿恩烏護腿
 11569,Disu D Greaves,德伊斯烏護腿
 11570,Disu D Leggings,德伊斯烏裹腿
-11571,Lils D Greaves,爾伊爾護腿
-11572,Lils D Leggings,爾伊爾裹腿
+11571,Lils D Greaves,莉護腿
+11572,Lils D Leggings,莉裹腿
 11573,Dragon SC Feet,龍足
 11574,Dragon SC Legs,龍腿甲
 11575,Dragon GD Feet,龍足
@@ -11620,33 +11620,33 @@ index,source,target
 11618,Healer Socks PD Blue,治癒襪【ＰＤ】・青
 11619,Healer Socks PD White,治癒襪【ＰＤ】・白
 11620,Healer Socks PD Yellow,治癒襪【ＰＤ】・黄
-11621,Shourou 【端足】D,夏歐爾歐上手
+11621,Shourou 【端足】D,鐘郎上手
 11622,Mitama 【端足】D,姆伊特阿上手
 11623,Burning Cliff D [Hakama 】,燃崖袴
 11624,Crimson Cliff D [Hakama 】,深紅崖袴
-11625,Ledia D Boots,爾艾德伊靴
+11625,Ledia D Boots,勒迪靴
 11626,White Snake Greaves D,白蛇護腿
 11627,Black Tiger Greaves D,黑虎護腿
 11628,Crushing Fog D [Hakama 】,碎霧袴
 11629,Valued Word Hakama D,珍言袴
 11630,Blue Sky Hakama D,蒼天袴
 11631,Noon Glow Hakama D,午暉袴
-11632,Kosho D [Hakama 】,克歐夏歐袴
+11632,Kosho D [Hakama 】,古修袴
 11633,True Shadow Hakama D,真影袴
-11634,Furogada D Greaves,芙烏爾歐護腿
-11635,Lars D Greaves,爾阿爾護腿
-11636,Donru D Greaves,德歐恩烏護腿
+11634,Furogada D Greaves,芙蘿加達護腿
+11635,Lars D Greaves,拉護腿
+11636,Donru D Greaves,多露護腿
 11637,Inagami ZD Greaves,伊恩阿格護腿
-11638,Barioth C Greaves,布阿爾伊護腿
-11639,Barioth C Leggings,布阿爾伊裹腿
+11638,Barioth C Greaves,巴里斯護腿
+11639,Barioth C Leggings,巴里斯裹腿
 11640,Brachy C Greaves,布阿奇護腿
 11641,Brachy C Leggings,布阿奇裹腿
-11642,Uragaan C Greaves,烏爾阿格護腿
-11643,Uragaan C Leggings,烏爾阿格裹腿
+11642,Uragaan C Greaves,拉加護腿
+11643,Uragaan C Leggings,拉加裹腿
 11644,Stygian C Greaves,斯伊恩護腿
 11645,Stygian C Leggings,斯伊恩裹腿
-11646,Gore C Greaves,格歐爾艾護腿
-11647,Gore C Leggings,格歐爾艾裹腿
+11646,Gore C Greaves,戈蕾護腿
+11647,Gore C Leggings,戈蕾裹腿
 11648,Vangis C Greaves,芙阿恩伊護腿
 11649,Vangis C Leggings,芙阿恩伊裹腿
 11650,Shagaru C Greaves,夏阿格阿護腿
@@ -11757,16 +11757,16 @@ index,source,target
 11755,Shatemu ZP Leggings,夏特穆裹腿【ＺＰ】
 11756,Hevria ZP Boots,赫芙莉亞靴【ＺＰ】
 11757,Hevria ZP Leggings,赫芙莉亞裹腿【ＺＰ】
-11758,Tiuru ZP Boots,提烏魯靴【ＺＰ】
-11759,Tiuru ZP Leggings,提烏魯裹腿【ＺＰ】
+11758,Tiuru ZP Boots,蒂宇露靴【ＺＰ】
+11759,Tiuru ZP Leggings,蒂宇露裹腿【ＺＰ】
 11760,Kaila ZP Feet,凱拉足【ＺＰ】
 11761,Kaila ZP Boots,凱拉靴【ＺＰ】
-11762,Fonse G Greaves,芙歐恩艾護腿【Ｇ】
-11763,Fonse GF Greaves,芙歐恩艾護腿【ＧＦ】
-11764,Fonse GX Greaves,芙歐恩艾護腿【ＧＸ】
-11765,Fonse G Leggings,芙歐恩艾裹腿【Ｇ】
-11766,Fonse GF Leggings,芙歐恩艾裹腿【ＧＦ】
-11767,Fonse GX Leggings,芙歐恩艾裹腿【ＧＸ】
+11762,Fonse G Greaves,佛賽護腿【Ｇ】
+11763,Fonse GF Greaves,佛賽護腿【ＧＦ】
+11764,Fonse GX Greaves,佛賽護腿【ＧＸ】
+11765,Fonse G Leggings,佛賽裹腿【Ｇ】
+11766,Fonse GF Leggings,佛賽裹腿【ＧＦ】
+11767,Fonse GX Leggings,佛賽裹腿【ＧＸ】
 11768,Utante Z Greaves,烏特阿恩護腿【Ｚ】
 11769,Utante ZF Greaves,烏特阿恩護腿【ＺＦ】
 11770,Utante ZY Greaves,烏特阿恩護腿【ＺＹ】
@@ -11775,74 +11775,74 @@ index,source,target
 11773,Utante ZF Leggings,烏特阿恩裹腿【ＺＦ】
 11774,Utante ZY Leggings,烏特阿恩裹腿【ＺＹ】
 11775,Utante ZX Leggings,烏特阿恩裹腿【ＺＸ】
-11776,Rizuvue G Greaves,爾伊茲烏護腿【Ｇ】
-11777,Rizuvue GF Greaves,爾伊茲烏護腿【ＧＦ】
-11778,Rizuvue GX Greaves,爾伊茲烏護腿【ＧＸ】
-11779,Rizuvue G Leggings,爾伊茲烏裹腿【Ｇ】
-11780,Rizuvue GF Leggings,爾伊茲烏裹腿【ＧＦ】
-11781,Rizuvue GX Leggings,爾伊茲烏裹腿【ＧＸ】
+11776,Rizuvue G Greaves,里茲護腿【Ｇ】
+11777,Rizuvue GF Greaves,里茲護腿【ＧＦ】
+11778,Rizuvue GX Greaves,里茲護腿【ＧＸ】
+11779,Rizuvue G Leggings,里茲裹腿【Ｇ】
+11780,Rizuvue GF Leggings,里茲裹腿【ＧＦ】
+11781,Rizuvue GX Leggings,里茲裹腿【ＧＸ】
 11782,Inagami ZD Leggings,伊恩阿格裹腿
-11783,Tempest C【 Hakama 】,特艾姆艾袴
-11784,Welkin C【 Hakama 】,沃艾爾伊袴
-11785,Levin D Greaves,爾艾芙伊護腿
+11783,Tempest C【 Hakama 】,特佩袴
+11784,Welkin C【 Hakama 】,穹蒼袴
+11785,Levin D Greaves,勒薇恩德護腿
 11786,Silver Armour D・Toenail,銀甲冑趾甲
-11787,Rose Ball Gown D・Toenail,爾歐斯艾趾甲
+11787,Rose Ball Gown D・Toenail,蘿賽巴爾趾甲
 11788,Shui D Greaves,夏烏斯護腿
-11789,CE Kevlar D BM Legs Blue,克艾斯艾腿甲・青
-11790,CE Kevlar D BM Legs Red,克艾斯艾腿甲・赤
-11791,CE Kevlar D BM Legs White,克艾斯艾腿甲・白
-11792,CE Kevlar D BM Legs Black,克艾斯艾腿甲・黑
+11789,CE Kevlar D BM Legs Blue,賽凱拉腿甲・青
+11790,CE Kevlar D BM Legs Red,賽凱拉腿甲・赤
+11791,CE Kevlar D BM Legs White,賽凱拉腿甲・白
+11792,CE Kevlar D BM Legs Black,賽凱拉腿甲・黑
 11793,AB Layer D BM Legs Red,阿布阿伊腿甲・赤
 11794,AB Layer D BM Legs Blue,阿布阿伊腿甲・青
 11795,AB Layer D BM Legs Black,阿布阿伊腿甲・黑
 11796,AB Layer D BM Legs White,阿布阿伊腿甲・白
-11797,Ruban D Feet,爾烏布阿足
-11798,L'Amore D Feet,爾阿姆歐足
-11799,Orloj D Boots,歐爾歐傑靴
-11800,Dolce D Feet,德歐爾艾足
+11797,Ruban D Feet,露巴恩德足
+11798,L'Amore D Feet,拉莫蕾足
+11799,Orloj D Boots,蘿靴
+11800,Dolce D Feet,多賽足
 11801,Bright D Greaves,布伊格護腿
-11802,Juari D Greaves,傑烏爾伊護腿
+11802,Juari D Greaves,朱里護腿
 11803,Tinku D Greaves,特伊恩烏護腿
 11804,Shatemu D Boots,夏阿特艾靴
 11805,Hevria D Boots,赫艾芙伊靴
-11806,Tiuru D Boots,特伊爾烏靴
-11807,Kaila D Feet,克阿爾阿足
-11808,Fonse D Greaves,芙歐恩艾護腿
+11806,Tiuru D Boots,蒂露靴
+11807,Kaila D Feet,可拉足
+11808,Fonse D Greaves,佛賽護腿
 11809,Hypnoc ルータD Leg,眠鳥腿
-11810,Hypnolia D Leg,赫歐爾伊腿
-11811,Es Quera D Leg,艾斯烏爾腿
-11812,Ecole D Leg,艾克歐爾腿
+11810,Hypnolia D Leg,諾莉腿
+11811,Es Quera D Leg,奎拉腿
+11812,Ecole D Leg,古勒腿
 11813,Guns D Leg,格烏恩腿
 11814,Agria D Leg,阿格伊斯腿
 11815,Fauve D Leg,芙阿芙艾腿
 11816,ティーアD Leg,蒂亞腿
-11817,Muse D Leg,姆烏斯艾腿
+11817,Muse D Leg,姆賽腿
 11818,Dicto D Leg,德伊克歐腿
 11819,Kruss D Leg,克烏斯腿
-11820,Starina D Leg,斯阿爾伊腿
-11821,Loose D Leg,爾歐斯艾腿
-11822,Mirado D Leg,姆伊爾阿腿
-11823,Deyuru D Greaves,德艾伊烏護腿
+11820,Starina D Leg,斯塔里娜腿
+11821,Loose D Leg,蘿賽腿
+11822,Mirado D Leg,蜜拉多腿
+11823,Deyuru D Greaves,德尤露護腿
 11824,Robust Dペイル,剛健護腿
-11825,Falco D Greaves,芙阿爾歐護腿
+11825,Falco D Greaves,法古護腿
 11826,Howx D Greaves,赫歐沃護腿
 11827,Pirata D Greaves,普伊爾阿護腿
-11828,Zeroi D Greaves,茲艾爾歐護腿
-11829,Rail D Greaves,爾阿爾護腿
-11830,Ridere D Greaves,爾伊德艾護腿
+11828,Zeroi D Greaves,澤蘿護腿
+11829,Rail D Greaves,拉護腿
+11830,Ridere D Greaves,里德蕾護腿
 11831,Riot D Greaves,爾伊特護腿
-11832,Rutare D Greaves,爾烏特阿護腿
-11833,Rolling Flow Greaves・D,爾歐爾伊護腿
+11832,Rutare D Greaves,露塔蕾護腿
+11833,Rolling Flow Greaves・D,蘿爾恩芙護腿
 11834,Rolling Sky Greaves・D,滾天護腿
 11835,Cubie D Feet,克烏布伊足
-11836,Kemor D Feet,克艾姆歐足
+11836,Kemor D Feet,凱莫足
 11837,Latria D Feet,爾阿特伊足
 11838,Kontao D Feet,克歐恩阿足
-11839,Ukon Dキック,烏克歐恩護腿
+11839,Ukon Dキック,古護腿
 11840,ロットDキック,羅托護腿
-11841,Shoko D Leg,夏歐克歐腿
-11842,Nimbus D Leg,恩伊姆烏腿
-11843,Moonlight Hakama・D,姆歐恩伊袴
+11841,Shoko D Leg,修古腿
+11842,Nimbus D Leg,尼姆腿
+11843,Moonlight Hakama・D,莫莉特袴
 11844,Dawnbreak Hakama・D,德阿沃艾袴
 11845,Toridcless Z Greaves,照雷鳥護腿【Ｚ】
 11846,Toridcless ZF Greaves,照雷鳥護腿【ＺＦ】
@@ -11860,20 +11860,20 @@ index,source,target
 11858,Doragyurosu ZF Leggings,冥雷龍裹腿【ＺＦ】
 11859,Doragyurosu ZY Leggings,冥雷龍裹腿【ＺＹ】
 11860,Doragyurosu ZX Leggings,冥雷龍裹腿【ＺＸ】
-11861,Alfi Feet,阿爾菲足
-11862,Alfi F Feet,阿爾菲足【Ｆ】
-11863,Alfi FZ Feet,阿爾菲足【ＦＺ】
-11864,Alfi HS Feet,阿爾菲足【ＨＳ】
-11865,Alfi GS Feet,阿爾菲足【ＧＳ】
-11866,Alfi GP Feet,阿爾菲足【ＧＰ】
-11867,Alfi ZP Feet,阿爾菲足【ＺＰ】
-11868,Alfi Leggings,阿爾菲裹腿
-11869,Alfi F Leggings,阿爾菲裹腿【Ｆ】
-11870,Alfi FZ Leggings,阿爾菲裹腿【ＦＺ】
-11871,Alfi HS Leggings,阿爾菲裹腿【ＨＳ】
-11872,Alfi GS Leggings,阿爾菲裹腿【ＧＳ】
-11873,Alfi GP Leggings,阿爾菲裹腿【ＧＰ】
-11874,Alfi ZP Leggings,阿爾菲裹腿【ＺＰ】
+11861,Alfi Feet,亞露菲足
+11862,Alfi F Feet,亞露菲足【Ｆ】
+11863,Alfi FZ Feet,亞露菲足【ＦＺ】
+11864,Alfi HS Feet,亞露菲足【ＨＳ】
+11865,Alfi GS Feet,亞露菲足【ＧＳ】
+11866,Alfi GP Feet,亞露菲足【ＧＰ】
+11867,Alfi ZP Feet,亞露菲足【ＺＰ】
+11868,Alfi Leggings,亞露菲裹腿
+11869,Alfi F Leggings,亞露菲裹腿【Ｆ】
+11870,Alfi FZ Leggings,亞露菲裹腿【ＦＺ】
+11871,Alfi HS Leggings,亞露菲裹腿【ＨＳ】
+11872,Alfi GS Leggings,亞露菲裹腿【ＧＳ】
+11873,Alfi GP Leggings,亞露菲裹腿【ＧＰ】
+11874,Alfi ZP Leggings,亞露菲裹腿【ＺＰ】
 11875,Kaifa Greaves,凱法護腿
 11876,Kaifa F Greaves,凱法護腿【Ｆ】
 11877,Kaifa FZ Greaves,凱法護腿【ＦＺ】
@@ -11902,28 +11902,28 @@ index,source,target
 11900,Straza GS Leggings,斯特拉札裹腿【ＧＳ】
 11901,Straza GP Leggings,斯特拉札裹腿【ＧＰ】
 11902,Straza ZP Leggings,斯特拉札裹腿【ＺＰ】
-11903,Furante Z Greaves,芙烏爾阿護腿【Ｚ】
-11904,Furante ZF Greaves,芙烏爾阿護腿【ＺＦ】
-11905,Furante ZY Greaves,芙烏爾阿護腿【ＺＹ】
-11906,Furante ZX Greaves,芙烏爾阿護腿【ＺＸ】
-11907,Furante Z Leggings,芙烏爾阿裹腿【Ｚ】
-11908,Furante ZF Leggings,芙烏爾阿裹腿【ＺＦ】
-11909,Furante ZY Leggings,芙烏爾阿裹腿【ＺＹ】
-11910,Furante ZX Leggings,芙烏爾阿裹腿【ＺＸ】
-11911,Cariva G Greaves,克阿爾伊護腿【Ｇ】
-11912,Cariva GF Greaves,克阿爾伊護腿【ＧＦ】
-11913,Cariva GX Greaves,克阿爾伊護腿【ＧＸ】
-11914,Cariva G Leggings,克阿爾伊裹腿【Ｇ】
-11915,Cariva GF Leggings,克阿爾伊裹腿【ＧＦ】
-11916,Cariva GX Leggings,克阿爾伊裹腿【ＧＸ】
-11917,Bonne G Greaves,布歐恩艾護腿【Ｇ】
-11918,Bonne GF Greaves,布歐恩艾護腿【ＧＦ】
-11919,Bonne GX Greaves,布歐恩艾護腿【ＧＸ】
-11920,Bonne G Leggings,布歐恩艾裹腿【Ｇ】
-11921,Bonne GF Leggings,布歐恩艾裹腿【ＧＦ】
-11922,Bonne GX Leggings,布歐恩艾裹腿【ＧＸ】
-11923,Survey Corps ZP Feet,斯烏爾艾足【ＺＰ】
-11924,Survey Corps ZP Boots,斯烏爾艾靴【ＺＰ】
+11903,Furante Z Greaves,芙拉特護腿【Ｚ】
+11904,Furante ZF Greaves,芙拉特護腿【ＺＦ】
+11905,Furante ZY Greaves,芙拉特護腿【ＺＹ】
+11906,Furante ZX Greaves,芙拉特護腿【ＺＸ】
+11907,Furante Z Leggings,芙拉特裹腿【Ｚ】
+11908,Furante ZF Leggings,芙拉特裹腿【ＺＦ】
+11909,Furante ZY Leggings,芙拉特裹腿【ＺＹ】
+11910,Furante ZX Leggings,芙拉特裹腿【ＺＸ】
+11911,Cariva G Greaves,可里瓦護腿【Ｇ】
+11912,Cariva GF Greaves,可里瓦護腿【ＧＦ】
+11913,Cariva GX Greaves,可里瓦護腿【ＧＸ】
+11914,Cariva G Leggings,可里瓦裹腿【Ｇ】
+11915,Cariva GF Leggings,可里瓦裹腿【ＧＦ】
+11916,Cariva GX Leggings,可里瓦裹腿【ＧＸ】
+11917,Bonne G Greaves,波恩護腿【Ｇ】
+11918,Bonne GF Greaves,波恩護腿【ＧＦ】
+11919,Bonne GX Greaves,波恩護腿【ＧＸ】
+11920,Bonne G Leggings,波恩裹腿【Ｇ】
+11921,Bonne GF Leggings,波恩裹腿【ＧＦ】
+11922,Bonne GX Leggings,波恩裹腿【ＧＸ】
+11923,Survey Corps ZP Feet,斯薇古足【ＺＰ】
+11924,Survey Corps ZP Boots,斯薇古靴【ＺＰ】
 11925,Training Corps ZP Feet,特阿恩伊足【ＺＰ】
 11926,Training Corps ZP Boots,特阿恩伊靴【ＺＰ】
 11927,Twelve Paladins' Armor・Toenail,十二聖騎鎧趾甲
@@ -11990,39 +11990,39 @@ index,source,target
 11988,Granu ZP Leggings,格拉努裹腿【ＺＰ】
 11989,Chiyo Legs ZP,千代腿甲【ＺＰ】
 11990,Chiyo Greaves ZP,千代護腿【ＺＰ】
-11991,Nekodan ZP Feet,恩艾克歐足【ＺＰ】
+11991,Nekodan ZP Feet,奈古達足【ＺＰ】
 11992,Gudan ZP Feet,古丹足【ＺＰ】
-11993,Toridcless ZD Greaves,特歐爾伊護腿
-11994,Toridcless ZD Leggings,特歐爾伊裹腿
-11995,Doragyurosu ZD Greaves,德歐爾阿護腿
-11996,Doragyurosu ZD Leggings,德歐爾阿裹腿
-11997,Alfi D Feet,阿爾伊斯足
+11993,Toridcless ZD Greaves,托里克雷護腿
+11994,Toridcless ZD Leggings,托里克雷裹腿
+11995,Doragyurosu ZD Greaves,多拉尤蘿護腿
+11996,Doragyurosu ZD Leggings,多拉尤蘿裹腿
+11997,Alfi D Feet,菲足
 11998,Kaifa D Greaves,克阿芙阿護腿
 11999,Straza D Feet,斯阿茲阿足
-12000,Renka Greaves C,爾艾恩阿護腿
-12001,Survey Corps D Feet,斯烏爾艾足
+12000,Renka Greaves C,蕾可護腿
+12001,Survey Corps D Feet,斯薇古足
 12002,Training Corps D Feet,特阿恩伊足
 12003,Twelve Paladins' Armor D・Toenail,十二聖騎鎧趾甲
 12004,Holy Maiden Armor D・Toenail,聖女鎧趾甲
 12005,Dragon Slayer Armor D・Toenail,屠龍趾甲
 12006,Rebellion Armour D・Toenail,叛逆鎧趾甲
 12007,Dinato D Greaves,德伊恩阿護腿
-12008,Duque D Greaves,德烏斯烏護腿
+12008,Duque D Greaves,杜奎護腿
 12009,Granu D Greaves,格阿恩烏護腿
 12010,Chiyo Legs D,奇伊伊歐腿甲
-12011,Rubellite D Greaves,爾烏布艾護腿
-12012,ラズライトD Greaves,拉茲拉伊托護腿
-12013,Zircon D Greaves,茲伊爾歐護腿
+12011,Rubellite D Greaves,露貝爾特護腿
+12012,ラズライトD Greaves,拉茲拉伊護腿
+12013,Zircon D Greaves,茲古恩德護腿
 12014,Spinel D Greaves,斯伊恩艾護腿
 12015,Jade D Greaves,傑阿德艾護腿
 12016,Agate D Greaves,阿格阿特護腿
-12017,Pyrope D Greaves,普歐普艾護腿
+12017,Pyrope D Greaves,蘿佩護腿
 12018,アイオラD Greaves,阿伊歐拉護腿
-12019,Rutile D Greaves,爾烏特伊護腿
+12019,Rutile D Greaves,露蒂勒護腿
 12020,Blood D Greaves,血護腿
 12021,Citrine D Leggings,克伊特伊裹腿
-12022,Peridot D Leggings,普艾爾伊裹腿
-12023,Turquoise D Leggings,特烏爾烏裹腿
+12022,Peridot D Leggings,佩里多裹腿
+12023,Turquoise D Leggings,圖奎賽裹腿
 12024,Mafumofu Boots PD Red,莫芙莫芙靴【ＰＤ】・赤
 12025,Mafumofu Boots PD Yellow,莫芙莫芙靴【ＰＤ】・黄
 12026,Mafumofu Boots PD Purple,莫芙莫芙靴【ＰＤ】・紫
@@ -12058,11 +12058,11 @@ index,source,target
 12056,Kushala ハディ PD Green,鋼龍護腿【ＰＤ】・緑
 12057,忍の Tabi・陽D,忍の陽足袋
 12058,忍の Tabi・陰D,忍の陰足袋
-12059,Bonne D Greaves,布歐恩艾護腿
-12060,Kalais D Leggings,克阿爾阿裹腿
-12061,Lucchese D Leggings,爾烏克艾裹腿
+12059,Bonne D Greaves,波恩護腿
+12060,Kalais D Leggings,可拉裹腿
+12061,Lucchese D Leggings,露切賽裹腿
 12062,Quoiz D Leggings,斯烏茲裹腿
-12063,Nekodan D Feet,恩艾克歐足
+12063,Nekodan D Feet,奈古達足
 12064,Gudan D Feet,格烏德阿足
 12065,Nerihi Greaves Z,練緋護腿【Ｚ】
 12066,Nerihi Greaves ZF,練緋護腿【ＺＦ】
@@ -12108,14 +12108,14 @@ index,source,target
 12106,Gasura ZF Leggings,怒貌龍裹腿【ＺＦ】
 12107,Gasura ZY Leggings,怒貌龍裹腿【ＺＹ】
 12108,Gasura ZX Leggings,怒貌龍裹腿【ＺＸ】
-12109,Seregios Greaves,斯艾爾艾護腿
-12110,Seregios G Greaves,斯艾爾艾護腿【Ｇ】
-12111,Seregios GF Greaves,斯艾爾艾護腿【ＧＦ】
-12112,Seregios GX Greaves,斯艾爾艾護腿【ＧＸ】
-12113,Seregios Leggings,斯艾爾艾裹腿
-12114,Seregios G Leggings,斯艾爾艾裹腿【Ｇ】
-12115,Seregios GF Leggings,斯艾爾艾裹腿【ＧＦ】
-12116,Seregios GX Leggings,斯艾爾艾裹腿【ＧＸ】
+12109,Seregios Greaves,賽蕾吉護腿
+12110,Seregios G Greaves,賽蕾吉護腿【Ｇ】
+12111,Seregios GF Greaves,賽蕾吉護腿【ＧＦ】
+12112,Seregios GX Greaves,賽蕾吉護腿【ＧＸ】
+12113,Seregios Leggings,賽蕾吉裹腿
+12114,Seregios G Leggings,賽蕾吉裹腿【Ｇ】
+12115,Seregios GF Leggings,賽蕾吉裹腿【ＧＦ】
+12116,Seregios GX Leggings,賽蕾吉裹腿【ＧＸ】
 12117,Utaei Legs Z,烏特阿腿甲【Ｚ】
 12118,Utaei Legs ZF,烏特阿腿甲【ＺＦ】
 12119,Utaei Legs ZY,烏特阿腿甲【ＺＹ】
@@ -12172,20 +12172,20 @@ index,source,target
 12170,Gray GS Boots,灰靴【ＧＳ】
 12171,Gray GP Boots,灰靴【ＧＰ】
 12172,Gray ZP Boots,灰靴【ＺＰ】
-12173,Urpina Feet,烏爾皮納足
-12174,Urpina F Feet,烏爾皮納足【Ｆ】
-12175,Urpina FZ Feet,烏爾皮納足【ＦＺ】
-12176,Urpina HS Feet,烏爾皮納足【ＨＳ】
-12177,Urpina GS Feet,烏爾皮納足【ＧＳ】
-12178,Urpina GP Feet,烏爾皮納足【ＧＰ】
-12179,Urpina ZP Feet,烏爾皮納足【ＺＰ】
-12180,Urpina Boots,烏爾皮納靴
-12181,Urpina F Boots,烏爾皮納靴【Ｆ】
-12182,Urpina FZ Boots,烏爾皮納靴【ＦＺ】
-12183,Urpina HS Boots,烏爾皮納靴【ＨＳ】
-12184,Urpina GS Boots,烏爾皮納靴【ＧＳ】
-12185,Urpina GP Boots,烏爾皮納靴【ＧＰ】
-12186,Urpina ZP Boots,烏爾皮納靴【ＺＰ】
+12173,Urpina Feet,宇露皮娜足
+12174,Urpina F Feet,宇露皮娜足【Ｆ】
+12175,Urpina FZ Feet,宇露皮娜足【ＦＺ】
+12176,Urpina HS Feet,宇露皮娜足【ＨＳ】
+12177,Urpina GS Feet,宇露皮娜足【ＧＳ】
+12178,Urpina GP Feet,宇露皮娜足【ＧＰ】
+12179,Urpina ZP Feet,宇露皮娜足【ＺＰ】
+12180,Urpina Boots,宇露皮娜靴
+12181,Urpina F Boots,宇露皮娜靴【Ｆ】
+12182,Urpina FZ Boots,宇露皮娜靴【ＦＺ】
+12183,Urpina HS Boots,宇露皮娜靴【ＨＳ】
+12184,Urpina GS Boots,宇露皮娜靴【ＧＳ】
+12185,Urpina GP Boots,宇露皮娜靴【ＧＰ】
+12186,Urpina ZP Boots,宇露皮娜靴【ＺＰ】
 12187,Noel Feet,諾埃爾足
 12188,Noel F Feet,諾埃爾足【Ｆ】
 12189,Noel FZ Feet,諾埃爾足【ＦＺ】
@@ -12228,17 +12228,17 @@ index,source,target
 12226,Wing D Feet,翼足
 12227,Gasura ZD Greaves,怒貌龍護腿
 12228,Gasura ZD Leggings,怒貌龍裹腿
-12229,Seregios C Greaves,斯艾爾艾護腿
-12230,Seregios C Leggings,斯艾爾艾裹腿
+12229,Seregios C Greaves,賽蕾吉護腿
+12230,Seregios C Leggings,賽蕾吉裹腿
 12231,Pinbi D Feet,普伊恩伊足
 12232,Pribu D Feet,普伊布烏足
-12233,Nerihi Greaves D,恩艾爾伊護腿
+12233,Nerihi Greaves D,奈里希護腿
 12234,Gray D Feet,格阿伊足
-12235,Urpina D Feet,烏爾伊恩足
-12236,Noel D Feet,恩歐爾足
-12237,Bune D Feet,布烏恩艾足
-12238,Melas D Leggings,姆艾爾阿裹腿
-12239,Byakko・Kensei D Feet,白虎布阿克歐足
+12235,Urpina D Feet,皮娜足
+12236,Noel D Feet,諾足
+12237,Bune D Feet,布奈足
+12238,Melas D Leggings,梅拉裹腿
+12239,Byakko・Kensei D Feet,白虎雅古凱賽足
 12240,Byakko・双龍D Feet,白虎双龍足
 12241,Byakko・剣王D Feet,白虎剣王足
 12242,Byakko・刀神D Feet,白虎刀神足
@@ -12251,9 +12251,9 @@ index,source,target
 12249,Byakko・銃傑D Boots,白虎銃傑靴
 12250,Byakko・銃仙D Boots,白虎銃仙靴
 12251,Byakko・Bow 鬼D Boots,白虎靴
-12252,キリンレガース PD Red,奇里恩雷加斯護腿【ＰＤ】・赤
-12253,キリンレガース PD Purple,奇里恩雷加斯護腿【ＰＤ】・紫
-12254,キリンレガースPD Black,奇里恩雷加斯護腿【ＰＤ】・黑
+12252,キリンレガース PD Red,奇莉恩蕾護腿【ＰＤ】・赤
+12253,キリンレガース PD Purple,奇莉恩蕾護腿【ＰＤ】・紫
+12254,キリンレガースPD Black,奇莉恩蕾護腿【ＰＤ】・黑
 12255,Kaiser Greaves PD White,帝王護腿【ＰＤ】・白
 12256,Kaiser Leggings PD White,帝王裹腿【ＰＤ】・白
 12257,Kaiser Greaves PD Black,帝王護腿【ＰＤ】・黑
@@ -12278,12 +12278,12 @@ index,source,target
 12276,Remobra Feet PD White,翼蛇龍足【ＰＤ】・白
 12277,Remobra Feet PD Yellow,翼蛇龍足【ＰＤ】・黄
 12278,Remobra Feet PD Black,翼蛇龍足【ＰＤ】・黑
-12279,Harze D Feet,赫阿爾艾足
-12280,Revenants D Heel,爾艾芙艾踵
-12281,Kukubo D Leggings,克烏克烏裹腿
+12279,Harze D Feet,哈澤足
+12280,Revenants D Heel,蕾薇娜踵
+12281,Kukubo D Leggings,克克波裹腿
 12282,Kakabu D Leggings,克阿克阿裹腿
-12283,Aruru D Leggings,阿爾烏爾裹腿
-12284,Suzaku・Kensei D Feet,朱雀斯烏茲阿足
+12283,Aruru D Leggings,露露裹腿
+12284,Suzaku・Kensei D Feet,朱雀斯扎克凱足
 12285,Suzaku・双龍D Feet,朱雀双龍足
 12286,Suzaku・剣王D Feet,朱雀剣王足
 12287,Suzaku・刀神D Feet,朱雀刀神足
@@ -12329,37 +12329,37 @@ index,source,target
 12327,Gravios Greaves PD Black,鎧龍護腿【ＰＤ】・黑
 12328,Gravios Greaves PD Blue,鎧龍護腿【ＰＤ】・青
 12329,Gravios Greaves PD Red,鎧龍護腿【ＰＤ】・赤
-12330,Sharuru D Greaves,夏阿爾烏護腿
-12331,Neriotori Greaves D,恩艾爾伊護腿
-12332,Anorupatisu ZD Greaves,阿恩歐爾護腿
-12333,Anorupatisu ZD Leggings,阿恩歐爾裹腿
+12330,Sharuru D Greaves,修露露護腿
+12331,Neriotori Greaves D,奈里托里護腿
+12332,Anorupatisu ZD Greaves,諾露拍蒂護腿
+12333,Anorupatisu ZD Leggings,諾露拍蒂裹腿
 12334,Dylan D Feet,德阿恩足
 12335,Dibble D Feet,德伊布艾足
 12336,Fins D Feet,芙伊恩足
 12337,Dins D Feet,德伊恩足
-12338,Charis D Feet,奇阿爾伊足
-12339,Miriam D Feet,姆伊爾伊足
-12340,Lenigan D Feet,爾艾恩伊足
+12338,Charis D Feet,夏里足
+12339,Miriam D Feet,蜜里足
+12340,Lenigan D Feet,勒尼加足
 12341,執事 Maid 色替え,執事色替え護腿
 12342,Katante D Greaves,克阿特阿護腿
 12343,Rikante D Greaves,爾伊克阿護腿
-12344,Merente D Greaves,姆艾爾艾護腿
+12344,Merente D Greaves,梅蕾特護腿
 12345,Utante D Greaves,烏特阿恩護腿
-12346,Brooke D Feet,布歐克艾足
-12347,Shirukku D Feet,夏伊爾烏足
-12348,Gorukku D Feet,格歐爾烏足
+12346,Brooke D Feet,古蘿布足
+12347,Shirukku D Feet,古蘿布足
+12348,Gorukku D Feet,古蘿布足
 12349,Kiyoshi Greaves D,克伊伊歐護腿
 12350,Kashoku Greaves D,克阿夏歐護腿
 12351,Jyaga D Greaves,傑阿格阿護腿
-12352,Cure D Greaves,克烏爾艾護腿
+12352,Cure D Greaves,庫蕾護腿
 12353,Jess D Greaves,傑艾斯護腿
-12354,Riaruo D Greaves,爾伊爾烏護腿
-12355,Reiresu D Greaves,爾艾爾艾護腿
-12356,Reuasu D Greaves,爾艾斯烏護腿
-12357,Buran D Greaves,布烏爾阿護腿
+12354,Riaruo D Greaves,里露護腿
+12355,Reiresu D Greaves,蕾蕾斯護腿
+12356,Reuasu D Greaves,蕾斯護腿
+12357,Buran D Greaves,布拉恩德護腿
 12358,Shimashima D Feet,夏伊姆阿足
-12359,Desutora D Sabaton,德艾斯烏脛甲
-12360,Furante D Greaves,芙烏爾阿護腿
+12359,Desutora D Sabaton,德斯托拉脛甲
+12360,Furante D Greaves,芙拉特護腿
 12361,Sharuru Greaves,夏露露護腿
 12362,Sharuru F Greaves,夏露露護腿【Ｆ】
 12363,Sharuru FZ Greaves,夏露露護腿【ＦＺ】
@@ -12424,20 +12424,20 @@ index,source,target
 12422,Dylan GS Boots,迪倫靴【ＧＳ】
 12423,Dylan GP Boots,迪倫靴【ＧＰ】
 12424,Dylan ZP Boots,迪倫靴【ＺＰ】
-12425,Dibble Feet,迪布爾足
-12426,Dibble F Feet,迪布爾足【Ｆ】
-12427,Dibble FZ Feet,迪布爾足【ＦＺ】
-12428,Dibble HS Feet,迪布爾足【ＨＳ】
-12429,Dibble GS Feet,迪布爾足【ＧＳ】
-12430,Dibble GP Feet,迪布爾足【ＧＰ】
-12431,Dibble ZP Feet,迪布爾足【ＺＰ】
-12432,Dibble Boots,迪布爾靴
-12433,Dibble F Boots,迪布爾靴【Ｆ】
-12434,Dibble FZ Boots,迪布爾靴【ＦＺ】
-12435,Dibble HS Boots,迪布爾靴【ＨＳ】
-12436,Dibble GS Boots,迪布爾靴【ＧＳ】
-12437,Dibble GP Boots,迪布爾靴【ＧＰ】
-12438,Dibble ZP Boots,迪布爾靴【ＺＰ】
+12425,Dibble Feet,迪布露足
+12426,Dibble F Feet,迪布露足【Ｆ】
+12427,Dibble FZ Feet,迪布露足【ＦＺ】
+12428,Dibble HS Feet,迪布露足【ＨＳ】
+12429,Dibble GS Feet,迪布露足【ＧＳ】
+12430,Dibble GP Feet,迪布露足【ＧＰ】
+12431,Dibble ZP Feet,迪布露足【ＺＰ】
+12432,Dibble Boots,迪布露靴
+12433,Dibble F Boots,迪布露靴【Ｆ】
+12434,Dibble FZ Boots,迪布露靴【ＦＺ】
+12435,Dibble HS Boots,迪布露靴【ＨＳ】
+12436,Dibble GS Boots,迪布露靴【ＧＳ】
+12437,Dibble GP Boots,迪布露靴【ＧＰ】
+12438,Dibble ZP Boots,迪布露靴【ＺＰ】
 12439,Fins Feet,鰭足
 12440,Fins F Feet,鰭足【Ｆ】
 12441,Fins FZ Feet,鰭足【ＦＺ】
@@ -12576,9 +12576,9 @@ index,source,target
 12574,Tanzanite Greaves,特阿恩阿護腿
 12575,Tanzanite F Greaves,特阿恩阿護腿【Ｆ】
 12576,Tanzanite FX Greaves,特阿恩阿護腿【ＦＸ】
-12577,Hematite Greaves,赫艾姆阿護腿
-12578,Hematite F Greaves,赫艾姆阿護腿【Ｆ】
-12579,Hematite FX Greaves,赫艾姆阿護腿【ＦＸ】
+12577,Hematite Greaves,赫瑪蒂特護腿
+12578,Hematite F Greaves,赫瑪蒂特護腿【Ｆ】
+12579,Hematite FX Greaves,赫瑪蒂特護腿【ＦＸ】
 12580,Byakko・磁星G Feet,白虎足【Ｇ】
 12581,Byakko・磁星GF Feet,白虎磁星足【Ｆ】
 12582,Byakko・磁星GX Feet,白虎足【ＧＸ】
@@ -12667,18 +12667,18 @@ index,source,target
 12665,Masaha Dress ZP [Greaves] Orange,真砂禮服護腿【ＺＰ】・橙
 12666,Graham Greaves,格阿赫阿護腿
 12667,Favila D Feet,芙阿芙伊足
-12668,Alicia D Feet,阿爾伊克足
+12668,Alicia D Feet,莉奇足
 12669,Masaha Dress C [Tabi 】,姆阿斯阿足袋
-12670,Aura C Feet,阿爾阿斯足
-12671,Asumo C Feet,阿斯烏姆足
-12672,Rokka C Feet,爾歐克阿足
-12673,Ruche C Greaves,爾烏奇艾護腿
+12670,Aura C Feet,奧拉足
+12671,Asumo C Feet,斯莫足
+12672,Rokka C Feet,蘿可足
+12673,Ruche C Greaves,露切護腿
 12674,Shui C Greaves,夏烏斯護腿
 12675,Masaha Dress D [Tabi] Red,姆阿斯阿足袋・赤
 12676,Masaha Dress D [Tabi] Silver,姆阿斯阿足袋・銀
 12677,Masaha Dress D [Tabi] Blue,姆阿斯阿足袋・青
 12678,Masaha Dress D [Tabi] Orange,姆阿斯阿足袋・橙
-12679,Genbu・Kensei D Feet,玄武格艾恩烏足
+12679,Genbu・Kensei D Feet,玄武蓋布凱賽足
 12680,Genbu・双龍D Feet,玄武双龍足
 12681,Genbu・剣王D Feet,玄武剣王足
 12682,Genbu・刀神D Feet,玄武刀神足
@@ -12692,7 +12692,7 @@ index,source,target
 12690,Genbu・銃仙D Boots,玄武銃仙靴
 12691,Genbu・Bow 鬼D Boots,玄武靴
 12692,Tanzanite D Greaves,特阿恩阿護腿
-12693,Hematite D Greaves,赫艾姆阿護腿
+12693,Hematite D Greaves,赫瑪蒂特護腿
 12694,Byakko・磁星D Feet,白虎磁星足
 12695,Suzaku・磁星D Feet,朱雀磁星足
 12696,Genbu・磁星D Feet,玄武磁星足
@@ -12730,14 +12730,14 @@ index,source,target
 12728,Dusk D Feet・White,德烏斯足・白
 12729,Dusk D Feet・Peach,德烏斯足・桃
 12730,Dusk D Feet・Blue,德烏斯足・青
-12731,Marin D Feet・Blue,姆阿爾伊足・青
-12732,Marin D Feet・Peach,姆阿爾伊足・桃
-12733,Marin D Feet・White,姆阿爾伊足・白
-12734,Marin D Feet・Black,姆阿爾伊足・黑
-12735,Reflet D Feet・Blue,爾艾芙艾足・青
-12736,Reflet D Feet・White,爾艾芙艾足・白
-12737,Reflet D Feet・Red,爾艾芙艾足・赤
-12738,Reflet D Feet・Black,爾艾芙艾足・黑
+12731,Marin D Feet・Blue,瑪里恩德足・青
+12732,Marin D Feet・Peach,瑪里恩德足・桃
+12733,Marin D Feet・White,瑪里恩德足・白
+12734,Marin D Feet・Black,瑪里恩德足・黑
+12735,Reflet D Feet・Blue,蕾芙足・青
+12736,Reflet D Feet・White,蕾芙足・白
+12737,Reflet D Feet・Red,蕾芙足・赤
+12738,Reflet D Feet・Black,蕾芙足・黑
 12739,Tenpi Legs D・Red,特艾恩伊腿甲・赤
 12740,Tenpi Legs D・Blue,特艾恩伊腿甲・青
 12741,Tenpi Legs D・Black,特艾恩伊腿甲・黑
@@ -12750,18 +12750,18 @@ index,source,target
 12748,Naga D Feet・Red,恩阿格阿足・赤
 12749,Naga D Feet・White,恩阿格阿足・白
 12750,Naga D Feet・Black,恩阿格阿足・黑
-12751,Sheriff D Feet・Tea,夏艾爾伊足・茶
-12752,Sheriff D Feet・Black,夏艾爾伊足・黑
-12753,Sheriff D Feet・Blue,夏艾爾伊足・青
-12754,Sheriff D Feet・White,夏艾爾伊足・白
-12755,Serena D Feet・Purple,斯艾爾艾足・紫
-12756,Serena D Feet・Blue,斯艾爾艾足・青
-12757,Serena D Feet・White,斯艾爾艾足・白
-12758,Serena D Feet・Red,斯艾爾艾足・赤
-12759,Gelt D Feet・Black,格艾爾足・黑
-12760,Gelt D Feet・Copper,格艾爾足・銅
-12761,Gelt D Feet・Silver,格艾爾足・銀
-12762,Gelt D Feet・Gold,格艾爾足・金
+12751,Sheriff D Feet・Tea,修里足・茶
+12752,Sheriff D Feet・Black,修里足・黑
+12753,Sheriff D Feet・Blue,修里足・青
+12754,Sheriff D Feet・White,修里足・白
+12755,Serena D Feet・Purple,賽蕾娜足・紫
+12756,Serena D Feet・Blue,賽蕾娜足・青
+12757,Serena D Feet・White,賽蕾娜足・白
+12758,Serena D Feet・Red,賽蕾娜足・赤
+12759,Gelt D Feet・Black,蓋足・黑
+12760,Gelt D Feet・Copper,蓋足・銅
+12761,Gelt D Feet・Silver,蓋足・銀
+12762,Gelt D Feet・Gold,蓋足・金
 12763,Gloria D Feet・Gold,榮光足・金
 12764,Gloria D Feet・Blue,榮光足・青
 12765,Gloria D Feet・Water,榮光足・水
@@ -12778,50 +12778,50 @@ index,source,target
 12776,Siena D Greaves・Black,斯伊恩阿護腿・黑
 12777,Siena D Greaves・Red,斯伊恩阿護腿・赤
 12778,Siena D Greaves・Blue,斯伊恩阿護腿・青
-12779,Cultu D Feet・Ash,克烏爾烏足・灰
-12780,Cultu D Feet・Blue,克烏爾烏足・青
-12781,Cultu D Feet・Orange,克烏爾烏足・橙
-12782,Cultu D Feet・Green,克烏爾烏足・緑
-12783,Truss D Leggings Blue,特烏斯裹腿・青
-12784,Truss D Leggings Red,特烏斯裹腿・赤
-12785,Truss D Leggings White,特烏斯裹腿・白
-12786,Truss D Leggings Purple,特烏斯裹腿・紫
-12787,Maisto D Feet・Crimson,姆阿斯歐足・紅
-12788,Maisto D Feet・Green,姆阿斯歐足・緑
-12789,Maisto D Feet・Green,姆阿斯歐足・緑
-12790,Maisto D Feet・Pink,姆阿斯歐足・桃
+12779,Cultu D Feet・Ash,庫圖足・灰
+12780,Cultu D Feet・Blue,庫圖足・青
+12781,Cultu D Feet・Orange,庫圖足・橙
+12782,Cultu D Feet・Green,庫圖足・緑
+12783,Truss D Leggings Blue,古蘿布裹腿・青
+12784,Truss D Leggings Red,古蘿布裹腿・赤
+12785,Truss D Leggings White,古蘿布裹腿・白
+12786,Truss D Leggings Purple,古蘿布裹腿・紫
+12787,Maisto D Feet・Crimson,瑪斯托足・紅
+12788,Maisto D Feet・Green,瑪斯托足・緑
+12789,Maisto D Feet・Green,瑪斯托足・緑
+12790,Maisto D Feet・Pink,瑪斯托足・桃
 12791,Randa Hakama・D Yellow,爾阿恩阿袴・黄
 12792,Randa Hakama・D Red,爾阿恩阿袴・赤
 12793,Randa Hakama・D Purple,爾阿恩阿袴・紫
 12794,Randa Hakama・D Gold,爾阿恩阿袴・金
-12795,Buney D Feet・Black,布烏恩艾足・黑
-12796,Buney D Feet・White,布烏恩艾足・白
-12797,Buney D Feet・Red,布烏恩艾足・赤
-12798,Buney D Feet・Purple,布烏恩艾足・紫
-12799,Regelia D Feet・White,爾艾格艾足・白
-12800,Regelia D Feet・Red,爾艾格艾足・赤
-12801,Regelia D Feet・Green,爾艾格艾足・緑
-12802,Regelia D Feet・Blue,爾艾格艾足・青
-12803,Aristo D Feet・Blue,阿爾伊斯足・青
-12804,Aristo D Feet・White,阿爾伊斯足・白
-12805,Aristo D Feet・Purple,阿爾伊斯足・紫
-12806,Aristo D Feet・Red,阿爾伊斯足・赤
-12807,Melety D Feet・White,姆艾爾艾足・白
-12808,Melety D Feet・Red,姆艾爾艾足・赤
-12809,Melety D Feet・Blue,姆艾爾艾足・青
-12810,Melety D Feet・Black,姆艾爾艾足・黑
-12811,Ferme D Feet・Black,芙艾爾艾足・黑
-12812,Ferme D Feet・Red,芙艾爾艾足・赤
-12813,Ferme D Feet・White,芙艾爾艾足・白
-12814,Ferme D Feet・Blue,芙艾爾艾足・青
-12815,Real D Feet・White,爾艾爾足・白
-12816,Real D Feet・Gold,爾艾爾足・金
-12817,Real D Feet・Blue,爾艾爾足・青
-12818,Real D Feet・Red,爾艾爾足・赤
-12819,Arma D Feet・Black,阿爾阿斯足・黑
-12820,Arma D Feet・White,阿爾阿斯足・白
-12821,Arma D Feet・Blue,阿爾阿斯足・青
-12822,Arma D Feet・Tea,阿爾阿斯足・茶
+12795,Buney D Feet・Black,布奈足・黑
+12796,Buney D Feet・White,布奈足・白
+12797,Buney D Feet・Red,布奈足・赤
+12798,Buney D Feet・Purple,布奈足・紫
+12799,Regelia D Feet・White,蕾蓋莉足・白
+12800,Regelia D Feet・Red,蕾蓋莉足・赤
+12801,Regelia D Feet・Green,蕾蓋莉足・緑
+12802,Regelia D Feet・Blue,蕾蓋莉足・青
+12803,Aristo D Feet・Blue,里斯托足・青
+12804,Aristo D Feet・White,里斯托足・白
+12805,Aristo D Feet・Purple,里斯托足・紫
+12806,Aristo D Feet・Red,里斯托足・赤
+12807,Melety D Feet・White,梅勒足・白
+12808,Melety D Feet・Red,梅勒足・赤
+12809,Melety D Feet・Blue,梅勒足・青
+12810,Melety D Feet・Black,梅勒足・黑
+12811,Ferme D Feet・Black,菲姆足・黑
+12812,Ferme D Feet・Red,菲姆足・赤
+12813,Ferme D Feet・White,菲姆足・白
+12814,Ferme D Feet・Blue,菲姆足・青
+12815,Real D Feet・White,蕾足・白
+12816,Real D Feet・Gold,蕾足・金
+12817,Real D Feet・Blue,蕾足・青
+12818,Real D Feet・Red,蕾足・赤
+12819,Arma D Feet・Black,姆足・黑
+12820,Arma D Feet・White,姆足・白
+12821,Arma D Feet・Blue,姆足・青
+12822,Arma D Feet・Tea,姆足・茶
 12823,Honour D Feet・Red,榮譽足・赤
 12824,Honour D Feet・Blue,榮譽足・青
 12825,Honour D Feet・Green,榮譽足・緑
@@ -12834,11 +12834,11 @@ index,source,target
 12832,Magos D Feet・Red,瑪戈斯足・赤
 12833,Magos D Feet・Water,瑪戈斯足・水
 12834,Magos D Feet・Blue,瑪戈斯足・青
-12835,Arge D Feet,阿爾艾斯足
+12835,Arge D Feet,蓋足
 12836,Camarera D Feet,克阿姆阿足
-12837,Metenera D Feet,姆艾特艾足
+12837,Metenera D Feet,梅特奈拉足
 12838,Abitto D Feet,阿布伊特足
-12839,Riburi D Feet,爾伊布烏足
+12839,Riburi D Feet,里布里足
 12840,Zodic D Feet・Blue,茲歐德伊足・青
 12841,Zodic D Feet・Tea,茲歐德伊足・茶
 12842,Zodic D Feet・Green,茲歐德伊足・緑
@@ -12847,22 +12847,22 @@ index,source,target
 12845,Cayssis D Feet Red,凱西斯足・赤
 12846,Cayssis D Feet Blue,凱西斯足・青
 12847,Cayssis D Feet Orange,凱西斯足・橙
-12848,Omet D Feet・Black,歐姆艾特足・黑
-12849,Omet D Feet・Red,歐姆艾特足・赤
-12850,Omet D Feet・White,歐姆艾特足・白
-12851,Omet D Feet・Blue,歐姆艾特足・青
+12848,Omet D Feet・Black,梅足・黑
+12849,Omet D Feet・Red,梅足・赤
+12850,Omet D Feet・White,梅足・白
+12851,Omet D Feet・Blue,梅足・青
 12852,Edio D Feet・Blue,艾德伊斯足・青
 12853,Edio D Feet・Red,艾德伊斯足・赤
 12854,Edio D Feet・Yellow,艾德伊斯足・黄
 12855,Edio D Feet・Black,艾德伊斯足・黑
-12856,Steno D Greaves・Orange,斯艾恩歐護腿・橙
-12857,Steno D Greaves・Peach,斯艾恩歐護腿・桃
-12858,Steno D Greaves・Blue,斯艾恩歐護腿・青
-12859,Steno D Greaves・Red,斯艾恩歐護腿・赤
-12860,Suriito D Feet・Yellow,斯烏爾伊足・黄
-12861,Suriito D Feet・Silver,斯烏爾伊足・銀
-12862,Suriito D Feet・Red,斯烏爾伊足・赤
-12863,Suriito D Feet・Blue,斯烏爾伊足・青
+12856,Steno D Greaves・Orange,斯特諾護腿・橙
+12857,Steno D Greaves・Peach,斯特諾護腿・桃
+12858,Steno D Greaves・Blue,斯特諾護腿・青
+12859,Steno D Greaves・Red,斯特諾護腿・赤
+12860,Suriito D Feet・Yellow,斯里托足・黄
+12861,Suriito D Feet・Silver,斯里托足・銀
+12862,Suriito D Feet・Red,斯里托足・赤
+12863,Suriito D Feet・Blue,斯里托足・青
 12864,Galitos D Feet・Tea,加里托斯足・茶
 12865,Galitos D Feet・Red,加里托斯足・赤
 12866,Galitos D Feet・Black,加里托斯足・黑
@@ -12871,18 +12871,18 @@ index,source,target
 12869,Text D Feet・Green,特艾克斯足・緑
 12870,Text D Feet・Blue,特艾克斯足・青
 12871,Text D Feet・Black,特艾克斯足・黑
-12872,Pharan D Feet・White,菲阿爾阿足・白
-12873,Pharan D Feet・Black,菲阿爾阿足・黑
-12874,Pharan D Feet・Red,菲阿爾阿足・赤
-12875,Pharan D Feet・Blue,菲阿爾阿足・青
+12872,Pharan D Feet・White,夫拉恩德足・白
+12873,Pharan D Feet・Black,夫拉恩德足・黑
+12874,Pharan D Feet・Red,夫拉恩德足・赤
+12875,Pharan D Feet・Blue,夫拉恩德足・青
 12876,Gold D Feet・Red,金足・赤
 12877,Gold D Feet・Blue,金足・青
 12878,Gold D Feet・Yellow,金足・黄
 12879,Gold D Feet・Purple,金足・紫
-12880,Claire D Feet・Purple,克蕾爾足・紫
-12881,Claire D Feet・Water,克蕾爾足・水
-12882,Claire D Feet・Red,克蕾爾足・赤
-12883,Claire D Feet・Black,克蕾爾足・黑
+12880,Claire D Feet・Purple,克蕾露足・紫
+12881,Claire D Feet・Water,克蕾露足・水
+12882,Claire D Feet・Red,克蕾露足・赤
+12883,Claire D Feet・Black,克蕾露足・黑
 12884,Gold Cat D Boots,金猫靴
 12885,Silver Cat D Boots,銀猫靴
 12886,Ex D Feet・White,艾克斯足・白
@@ -12893,10 +12893,10 @@ index,source,target
 12891,Star Festival D Tabi 【 Blue 】,星祭足袋・青
 12892,Star Festival D Tabi 【 Black 】,星祭足袋・黑
 12893,Star Festival D Tabi 【 White 】,星祭足袋・白
-12894,Promise D Boots・White,普歐姆伊靴・白
-12895,Promise D Boots・Blue,普歐姆伊靴・青
-12896,Promise D Boots・Purple,普歐姆伊靴・紫
-12897,Promise D Boots・Yellow,普歐姆伊靴・黄
+12894,Promise D Boots・White,普羅蜜賽靴・白
+12895,Promise D Boots・Blue,普羅蜜賽靴・青
+12896,Promise D Boots・Purple,普羅蜜賽靴・紫
+12897,Promise D Boots・Yellow,普羅蜜賽靴・黄
 12898,White M Boots D,姆靴・白
 12899,Flight Greaves D・White,芙伊格護腿・白
 12900,Flight Greaves D・Red,芙伊格護腿・赤
@@ -12906,10 +12906,10 @@ index,source,target
 12904,Bande D Feet・Red,布阿恩艾足・赤
 12905,Bande D Feet・Green,布阿恩艾足・緑
 12906,Bande D Feet・Black,布阿恩艾足・黑
-12907,Regnum D Feet・White,爾艾格烏足・白
-12908,Regnum D Feet・Blue,爾艾格烏足・青
-12909,Regnum D Feet・Red,爾艾格烏足・赤
-12910,Regnum D Feet・Tea,爾艾格烏足・茶
+12907,Regnum D Feet・White,蕾努足・白
+12908,Regnum D Feet・Blue,蕾努足・青
+12909,Regnum D Feet・Red,蕾努足・赤
+12910,Regnum D Feet・Tea,蕾努足・茶
 12911,Gania D Feet・Red,格阿恩伊足・赤
 12912,Gania D Feet・Blue,格阿恩伊足・青
 12913,Gania D Feet・Tea,格阿恩伊足・茶
@@ -12918,54 +12918,54 @@ index,source,target
 12916,Amistad D Feet・White,阿姆伊斯足・白
 12917,Amistad D Feet・Blue,阿姆伊斯足・青
 12918,Amistad D Feet・Crimson,阿姆伊斯足・紅
-12919,Perifu D Feet・Blue,普艾爾伊足・青
-12920,Perifu D Feet・Tea,普艾爾伊足・茶
-12921,Perifu D Feet・Green,普艾爾伊足・緑
-12922,Perifu D Feet・Purple,普艾爾伊足・紫
+12919,Perifu D Feet・Blue,佩里芙足・青
+12920,Perifu D Feet・Tea,佩里芙足・茶
+12921,Perifu D Feet・Green,佩里芙足・緑
+12922,Perifu D Feet・Purple,佩里芙足・紫
 12923,Vakusu D Greaves,芙阿克烏護腿
-12924,Rizuvue D Greaves,爾伊茲烏護腿
-12925,Konseru D Greaves,克歐恩艾護腿
+12924,Rizuvue D Greaves,里茲護腿
+12925,Konseru D Greaves,古賽露護腿
 12926,Utaei Legs D,烏特阿斯腿甲
 12927,Utatsumugu Legs D,烏特阿特腿甲
 12928,Shikari Greaves D,夏伊克阿護腿
 12929,Strega D Greaves,斯艾格阿護腿
-12930,Eques D Greaves,艾斯烏斯護腿
+12930,Eques D Greaves,奎護腿
 12931,Uida D Feet,烏德阿斯足
-12932,Kuraaji D Greaves,克烏爾阿護腿
+12932,Kuraaji D Greaves,克拉護腿
 12933,Aneshisu D Greaves,阿恩艾夏護腿
 12934,Zaakaa D Greaves,茲阿克阿護腿
 12935,Vinen D Greaves,芙伊恩艾護腿
-12936,Rudeos D Greaves,爾烏德艾護腿
+12936,Rudeos D Greaves,露德護腿
 12937,Breo D Greaves,布艾斯護腿
-12938,Rouge D Greaves,爾歐格艾護腿
-12939,Onero D Greaves,歐恩艾爾護腿
+12938,Rouge D Greaves,蘿蓋護腿
+12939,Onero D Greaves,奈蘿護腿
 12940,Diina D Leg,德伊恩阿腿
-12941,Oorowa D Greaves,歐爾歐沃護腿
+12941,Oorowa D Greaves,烏蘿瓦護腿
 12942,Higakure D Greaves,赫伊格阿護腿
-12943,Perce D Greaves,普艾爾艾護腿
-12944,Orykto D Greaves,歐爾歐斯護腿
-12945,Orykto D Leggings,歐爾歐斯裹腿
-12946,Yoruti D Greaves,伊歐爾烏護腿
+12943,Perce D Greaves,佩賽護腿
+12944,Orykto D Greaves,托護腿
+12945,Orykto D Leggings,托裹腿
+12946,Yoruti D Greaves,約露蒂護腿
 12947,Nisuru D Greaves,恩伊斯烏護腿
-12948,Maaden D Greaves,姆阿德艾護腿
-12949,Maaden D Leggings,姆阿德艾裹腿
+12948,Maaden D Greaves,瑪德恩德護腿
+12949,Maaden D Leggings,瑪德恩德裹腿
 12950,Cheni D Greaves,奇艾恩伊護腿
-12951,Eguiene D Greaves,艾格烏恩護腿
-12952,Toruboda D Greaves,特歐爾烏護腿
+12951,Eguiene D Greaves,古奈護腿
+12952,Toruboda D Greaves,托露波達護腿
 12953,Kabariba D Greaves,克阿布阿護腿
-12954,Norukku D Feet,恩歐爾烏足
-12955,Valier D Greaves,芙阿爾伊護腿
-12956,Arumyu D Greaves,阿爾烏姆護腿
+12954,Norukku D Feet,古蘿布足
+12955,Valier D Greaves,瓦莉護腿
+12956,Arumyu D Greaves,露尤護腿
 12957,Chatore D Greaves,奇阿特歐護腿
 12958,Pashio D Greaves,普阿夏伊護腿
-12959,Cariva D Greaves,克阿爾伊護腿
+12959,Cariva D Greaves,可里瓦護腿
 12960,Desutora GS Sabaton,德斯特拉脛甲【ＧＳ】
 12961,Desutora GP Sabaton,德斯特拉脛甲【ＧＰ】
 12962,Desutora ZP Sabaton,德斯特拉脛甲【ＺＰ】
 12963,Desutora GS Leggings,德斯特拉裹腿【ＧＳ】
 12964,Desutora GP Leggings,德斯特拉裹腿【ＧＰ】
 12965,Desutora ZP Leggings,德斯特拉裹腿【ＺＰ】
-12966,Desutora D Sabaton,德艾斯烏脛甲
+12966,Desutora D Sabaton,德斯托拉脛甲
 12967,Bogabado ZD Greaves,布歐格阿護腿
 12968,Bogabado ZD Leggings,布歐格阿裹腿
 12969,Nerishoku Greaves Z,練色護腿【Ｚ】
@@ -12992,20 +12992,20 @@ index,source,target
 12990,Gravios ZF Leggings,鎧龍裹腿【ＺＦ】
 12991,Gravios ZY Leggings,鎧龍裹腿【ＺＹ】
 12992,Gravios ZX Leggings,鎧龍裹腿【ＺＸ】
-12993,Rabius Feet,拉比烏斯足
-12994,Rabius F Feet,拉比烏斯足【Ｆ】
-12995,Rabius FZ Feet,拉比烏斯足【ＦＺ】
-12996,Rabius HS Feet,拉比烏斯足【ＨＳ】
-12997,Rabius GS Feet,拉比烏斯足【ＧＳ】
-12998,Rabius GP Feet,拉比烏斯足【ＧＰ】
-12999,Rabius ZP Feet,拉比烏斯足【ＺＰ】
-13000,Rabius Boots,拉比烏斯靴
-13001,Rabius F Boots,拉比烏斯靴【Ｆ】
-13002,Rabius FZ Boots,拉比烏斯靴【ＦＺ】
-13003,Rabius HS Boots,拉比烏斯靴【ＨＳ】
-13004,Rabius GS Boots,拉比烏斯靴【ＧＳ】
-13005,Rabius GP Boots,拉比烏斯靴【ＧＰ】
-13006,Rabius ZP Boots,拉比烏斯靴【ＺＰ】
+12993,Rabius Feet,拉碧宇斯足
+12994,Rabius F Feet,拉碧宇斯足【Ｆ】
+12995,Rabius FZ Feet,拉碧宇斯足【ＦＺ】
+12996,Rabius HS Feet,拉碧宇斯足【ＨＳ】
+12997,Rabius GS Feet,拉碧宇斯足【ＧＳ】
+12998,Rabius GP Feet,拉碧宇斯足【ＧＰ】
+12999,Rabius ZP Feet,拉碧宇斯足【ＺＰ】
+13000,Rabius Boots,拉碧宇斯靴
+13001,Rabius F Boots,拉碧宇斯靴【Ｆ】
+13002,Rabius FZ Boots,拉碧宇斯靴【ＦＺ】
+13003,Rabius HS Boots,拉碧宇斯靴【ＨＳ】
+13004,Rabius GS Boots,拉碧宇斯靴【ＧＳ】
+13005,Rabius GP Boots,拉碧宇斯靴【ＧＰ】
+13006,Rabius ZP Boots,拉碧宇斯靴【ＺＰ】
 13007,Rocras Feet,洛克拉斯足
 13008,Rocras F Feet,洛克拉斯足【Ｆ】
 13009,Rocras FZ Feet,洛克拉斯足【ＦＺ】
@@ -13068,12 +13068,12 @@ index,source,target
 13066,Bita G Leggings,布伊特阿裹腿【Ｇ】
 13067,Bita GF Leggings,布伊特阿裹腿【ＧＦ】
 13068,Bita GX Leggings,布伊特阿裹腿【ＧＸ】
-13069,Koreputo G Greaves,克歐爾艾護腿【Ｇ】
-13070,Koreputo GF Greaves,克歐爾艾護腿【ＧＦ】
-13071,Koreputo GX Greaves,克歐爾艾護腿【ＧＸ】
-13072,Koreputo G Leggings,克歐爾艾裹腿【Ｇ】
-13073,Koreputo GF Leggings,克歐爾艾裹腿【ＧＦ】
-13074,Koreputo GX Leggings,克歐爾艾裹腿【ＧＸ】
+13069,Koreputo G Greaves,古蕾普托護腿【Ｇ】
+13070,Koreputo GF Greaves,古蕾普托護腿【ＧＦ】
+13071,Koreputo GX Greaves,古蕾普托護腿【ＧＸ】
+13072,Koreputo G Leggings,古蕾普托裹腿【Ｇ】
+13073,Koreputo GF Leggings,古蕾普托裹腿【ＧＦ】
+13074,Koreputo GX Leggings,古蕾普托裹腿【ＧＸ】
 13075,Rapin G Greaves,爾阿普伊護腿【Ｇ】
 13076,Rapin GF Greaves,爾阿普伊護腿【ＧＦ】
 13077,Rapin GX Greaves,爾阿普伊護腿【ＧＸ】
@@ -13136,14 +13136,14 @@ index,source,target
 13134,Ionia GS Boots,伊歐尼亞靴【ＧＳ】
 13135,Ionia GP Boots,伊歐尼亞靴【ＧＰ】
 13136,Ionia ZP Boots,伊歐尼亞靴【ＺＰ】
-13137,Guridi Z Greaves,格烏爾伊護腿【Ｚ】
-13138,Guridi ZF Greaves,格烏爾伊護腿【ＺＦ】
-13139,Guridi ZY Greaves,格烏爾伊護腿【ＺＹ】
-13140,Guridi ZX Greaves,格烏爾伊護腿【ＺＸ】
-13141,Guridi Z Leggings,格烏爾伊裹腿【Ｚ】
-13142,Guridi ZF Leggings,格烏爾伊裹腿【ＺＦ】
-13143,Guridi ZY Leggings,格烏爾伊裹腿【ＺＹ】
-13144,Guridi ZX Leggings,格烏爾伊裹腿【ＺＸ】
+13137,Guridi Z Greaves,古里迪護腿【Ｚ】
+13138,Guridi ZF Greaves,古里迪護腿【ＺＦ】
+13139,Guridi ZY Greaves,古里迪護腿【ＺＹ】
+13140,Guridi ZX Greaves,古里迪護腿【ＺＸ】
+13141,Guridi Z Leggings,古里迪裹腿【Ｚ】
+13142,Guridi ZF Leggings,古里迪裹腿【ＺＦ】
+13143,Guridi ZY Leggings,古里迪裹腿【ＺＹ】
+13144,Guridi ZX Leggings,古里迪裹腿【ＺＸ】
 13145,Shifunyi Z Feet,夏伊芙烏足【Ｚ】
 13146,Shifunyi ZF Feet,夏伊芙烏足【ＺＦ】
 13147,Shifunyi ZY Feet,夏伊芙烏足【ＺＹ】
@@ -13152,7 +13152,7 @@ index,source,target
 13150,Shifunyi ZF Boots,夏伊芙烏靴【ＺＦ】
 13151,Shifunyi ZY Boots,夏伊芙烏靴【ＺＹ】
 13152,Shifunyi ZX Boots,夏伊芙烏靴【ＺＸ】
-13153,Rockman Boots,爾歐克阿靴
+13153,Rockman Boots,蘿瑪靴
 13154,Patapatagook・Rainbow,拍達古古護腿・虹
 13155,Patapatagook F・Rainbow,拍達古古護腿【Ｆ】・虹
 13156,Patapatagook FZ・Rainbow,拍達古古護腿【ＦＺ】・虹
@@ -13184,32 +13184,32 @@ index,source,target
 13182,Patapatagook ZP・White,拍達古古護腿【ＺＰ】・白
 13183,Patapatagook ZP・Red,拍達古古護腿【ＺＰ】・赤
 13184,Patapatagook ZP・Ash,拍達古古護腿【ＺＰ】・灰
-13185,Nerishoku Greaves D,恩艾爾伊護腿
+13185,Nerishoku Greaves D,奈里修克護腿
 13186,Gravios ZD Greaves,格阿芙伊護腿
 13187,Gravios ZD Leggings,格阿芙伊裹腿
-13188,Baruragaru ZD Greaves,布阿爾烏護腿
-13189,Baruragaru ZD Leggings,布阿爾烏裹腿
+13188,Baruragaru ZD Greaves,巴露拉加護腿
+13189,Baruragaru ZD Leggings,巴露拉加裹腿
 13190,Rabius D Feet,爾阿布伊足
-13191,Rocras D Feet,爾歐克阿足
-13192,Alisys D Feet,阿爾伊斯足
-13193,Loli D Feet,爾歐爾伊足
-13194,Recolis D Feet,爾艾克歐足
+13191,Rocras D Feet,蘿克足
+13192,Alisys D Feet,莉足
+13193,Loli D Feet,蘿莉足
+13194,Recolis D Feet,蕾古莉足
 13195,Rapin D Greaves,爾阿普伊護腿
 13196,Rapin C Greaves,爾阿普伊護腿
-13197,Kireek D Feet,克伊爾艾足
+13197,Kireek D Feet,奇蕾足
 13198,Quna D Feet,斯烏恩阿足
 13199,Dista D Feet,德伊斯阿足
 13200,Ionia D Feet,伊恩伊斯足
-13201,Guridi D Greaves,格烏爾伊護腿
+13201,Guridi D Greaves,古里迪護腿
 13202,Shifunyi D Feet,夏伊芙烏足
 13203,Rappy D Boots,爾阿普靴
 13204,Bita D Greaves,布伊特阿護腿
-13205,Koreputo D Greaves,克歐爾艾護腿
-13206,Secuti D Feet・Black,斯艾克烏足・黑
-13207,Secuti D Feet・Blue,斯艾克烏足・青
-13208,Secuti D Feet・Red,斯艾克烏足・赤
-13209,Secuti D Feet・White,斯艾克烏足・白
-13210,Rockman D Boots,爾歐克阿靴
+13205,Koreputo D Greaves,古蕾普托護腿
+13206,Secuti D Feet・Black,賽庫蒂足・黑
+13207,Secuti D Feet・Blue,賽庫蒂足・青
+13208,Secuti D Feet・Red,賽庫蒂足・赤
+13209,Secuti D Feet・White,賽庫蒂足・白
+13210,Rockman D Boots,蘿瑪恩德靴
 13211,Issen D [Greaves 】・Red,一閃護腿・赤
 13212,蜂針D [Greaves 】・Orange,蜂針護腿・橙
 13213,Patapatagook C・Rainbow,普阿特阿護腿・虹
@@ -13267,20 +13267,20 @@ index,source,target
 13265,Harudo ZF Leggings,司銀龍裹腿【ＺＦ】
 13266,Harudo ZY Leggings,司銀龍裹腿【ＺＹ】
 13267,Harudo ZX Leggings,司銀龍裹腿【ＺＸ】
-13268,Elysi G Greaves,艾爾伊護腿【Ｇ】
-13269,Elysi GF Greaves,艾爾伊護腿【ＧＦ】
-13270,Elysi GX Greaves,艾爾伊護腿【ＧＸ】
-13271,Elysi G Leggings,艾爾伊裹腿【Ｇ】
-13272,Elysi GF Leggings,艾爾伊裹腿【ＧＦ】
-13273,Elysi GX Leggings,艾爾伊裹腿【ＧＸ】
-13274,Myunru Z Greaves,姆烏恩烏護腿【Ｚ】
-13275,Myunru ZF Greaves,姆烏恩烏護腿【ＺＦ】
-13276,Myunru ZY Greaves,姆烏恩烏護腿【ＺＹ】
-13277,Myunru ZX Greaves,姆烏恩烏護腿【ＺＸ】
-13278,Myunru Z Leggings,姆烏恩烏裹腿【Ｚ】
-13279,Myunru ZF Leggings,姆烏恩烏裹腿【ＺＦ】
-13280,Myunru ZY Leggings,姆烏恩烏裹腿【ＺＹ】
-13281,Myunru ZX Leggings,姆烏恩烏裹腿【ＺＸ】
+13268,Elysi G Greaves,西護腿【Ｇ】
+13269,Elysi GF Greaves,西護腿【ＧＦ】
+13270,Elysi GX Greaves,西護腿【ＧＸ】
+13271,Elysi G Leggings,西裹腿【Ｇ】
+13272,Elysi GF Leggings,西裹腿【ＧＦ】
+13273,Elysi GX Leggings,西裹腿【ＧＸ】
+13274,Myunru Z Greaves,尤露護腿【Ｚ】
+13275,Myunru ZF Greaves,尤露護腿【ＺＦ】
+13276,Myunru ZY Greaves,尤露護腿【ＺＹ】
+13277,Myunru ZX Greaves,尤露護腿【ＺＸ】
+13278,Myunru Z Leggings,尤露裹腿【Ｚ】
+13279,Myunru ZF Leggings,尤露裹腿【ＺＦ】
+13280,Myunru ZY Leggings,尤露裹腿【ＺＹ】
+13281,Myunru ZX Leggings,尤露裹腿【ＺＸ】
 13282,Kinkou Feet,金光足
 13283,Kinkou F Feet,金光足【Ｆ】
 13284,Kinkou FZ Feet,金光足【ＦＺ】
@@ -13357,20 +13357,20 @@ index,source,target
 13355,Finis GS Boots,終焉靴【ＧＳ】
 13356,Finis GP Boots,終焉靴【ＧＰ】
 13357,Finis ZP Boots,終焉靴【ＺＰ】
-13358,Firl Feet,菲爾足
-13359,Firl F Feet,菲爾足【Ｆ】
-13360,Firl FZ Feet,菲爾足【ＦＺ】
-13361,Firl HS Feet,菲爾足【ＨＳ】
-13362,Firl GS Feet,菲爾足【ＧＳ】
-13363,Firl GP Feet,菲爾足【ＧＰ】
-13364,Firl ZP Feet,菲爾足【ＺＰ】
-13365,Firl Boots,菲爾靴
-13366,Firl F Boots,菲爾靴【Ｆ】
-13367,Firl FZ Boots,菲爾靴【ＦＺ】
-13368,Firl HS Boots,菲爾靴【ＨＳ】
-13369,Firl GS Boots,菲爾靴【ＧＳ】
-13370,Firl GP Boots,菲爾靴【ＧＰ】
-13371,Firl ZP Boots,菲爾靴【ＺＰ】
+13358,Firl Feet,菲露足
+13359,Firl F Feet,菲露足【Ｆ】
+13360,Firl FZ Feet,菲露足【ＦＺ】
+13361,Firl HS Feet,菲露足【ＨＳ】
+13362,Firl GS Feet,菲露足【ＧＳ】
+13363,Firl GP Feet,菲露足【ＧＰ】
+13364,Firl ZP Feet,菲露足【ＺＰ】
+13365,Firl Boots,菲露靴
+13366,Firl F Boots,菲露靴【Ｆ】
+13367,Firl FZ Boots,菲露靴【ＦＺ】
+13368,Firl HS Boots,菲露靴【ＨＳ】
+13369,Firl GS Boots,菲露靴【ＧＳ】
+13370,Firl GP Boots,菲露靴【ＧＰ】
+13371,Firl ZP Boots,菲露靴【ＺＰ】
 13372,Ryoso Legs,涼疎腿甲
 13373,Ryoso Legs F,涼疎腿甲【Ｆ】
 13374,Ryoso Legs FZ,涼疎腿甲【ＦＺ】
@@ -13443,27 +13443,27 @@ index,source,target
 13441,Kelis ZP Boots,凱利斯靴【ＺＰ】
 13442,Kinkou D Feet,克伊恩歐足
 13443,Anbu D Feet,阿恩烏斯足
-13444,Rengoku Greaves D,爾艾恩歐護腿
-13445,Nerigeki Greaves D,恩艾爾伊護腿
+13444,Rengoku Greaves D,蕾恩克護腿
+13445,Nerigeki Greaves D,奈里蓋奇護腿
 13446,Shanru D Greaves,夏阿恩烏護腿
 13447,Fanru D Greaves,芙阿恩烏護腿
-13448,Zamuza ZD Greaves,茲阿姆烏護腿
-13449,Zamuza ZD Leggings,茲阿姆烏裹腿
-13450,Harudo ZD Greaves,赫阿爾烏護腿
-13451,Harudo ZD Leggings,赫阿爾烏裹腿
-13452,Arbiter D Sabaton,阿爾伊特脛甲
-13453,Elysi D Greaves,艾爾伊斯護腿
+13448,Zamuza ZD Greaves,扎姆扎護腿
+13449,Zamuza ZD Leggings,扎姆扎裹腿
+13450,Harudo ZD Greaves,哈露多護腿
+13451,Harudo ZD Leggings,哈露多裹腿
+13452,Arbiter D Sabaton,碧特脛甲
+13453,Elysi D Greaves,西護腿
 13454,Fine D Feet,芙伊恩艾足
-13455,Kotona D Feet,克歐特歐足
+13455,Kotona D Feet,古托娜足
 13456,Finis D Feet,芙伊恩伊足
 13457,Firl D Feet,芙伊爾足
-13458,Ryoso Legs D,爾歐斯歐腿甲
-13459,Gems D Feet,格艾姆足
-13460,Alisha D Feet,阿爾伊夏足
+13458,Ryoso Legs D,約索腿甲
+13459,Gems D Feet,蓋足
+13460,Alisha D Feet,莉修足
 13461,Ricca D Feet,爾伊克阿足
-13462,Kelis D Feet,克艾爾伊足
-13463,Myunru D Greaves,姆烏恩烏護腿
-13464,Seiryu・Kensei D Feet,青龍斯艾爾烏足
+13462,Kelis D Feet,凱莉足
+13463,Myunru D Greaves,尤露護腿
+13464,Seiryu・Kensei D Feet,青龍賽尤凱賽足
 13465,Seiryu・双龍D Feet,青龍双龍足
 13466,Seiryu・剣王D Feet,青龍剣王足
 13467,Seiryu・刀神D Feet,青龍刀神足
@@ -13507,7 +13507,7 @@ index,source,target
 13505,Comrade Boots PD White Red,戰友靴【ＰＤ】・白赤
 13506,Comrade Boots PD White Blue,戰友靴【ＰＤ】・白青
 13507,Comrade Boots PD White Yellow,戰友靴【ＰＤ】・白黄
-13508,Otono D Greaves,歐特歐恩護腿
+13508,Otono D Greaves,托諾護腿
 13509,忍の Tabi・空D,忍の空足袋
 13510,忍の Tabi・海D,忍の海足袋
 13511,Shadow Tabi・D,影足袋

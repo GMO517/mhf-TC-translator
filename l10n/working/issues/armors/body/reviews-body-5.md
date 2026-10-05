@@ -65,18 +65,18 @@
 | 2059 | ヴェルフィ Vest | 芙魯芙背心 |
 | 2060 | テリオグ Mail | 特里歐古鎧甲 |
 | 2061 | テリオグ Vest | 特里歐古背心 |
-| 2062 | Kurossu Vest | 克烏爾歐背心 |
-| 2063 | Kurossu F Vest | 克烏爾歐背心【Ｆ】 |
-| 2064 | Kurossu Suit | 克烏爾歐套裝 |
-| 2065 | Kurossu F Suit | 克烏爾歐套裝【Ｆ】 |
+| 2062 | Kurossu Vest | 克蘿斯背心 |
+| 2063 | Kurossu F Vest | 克蘿斯背心【Ｆ】 |
+| 2064 | Kurossu Suit | 克蘿斯套裝 |
+| 2065 | Kurossu F Suit | 克蘿斯套裝【Ｆ】 |
 | 2066 | Shieri FX Mail | 夏伊爾伊鎧甲【ＦＸ】 |
 | 2067 | Shieri FX Vest | 夏伊爾伊背心【ＦＸ】 |
 | 2068 | Craft FX Mail | 工匠鎧甲【ＦＸ】 |
 | 2069 | Craft FX Vest | 工匠背心【ＦＸ】 |
 | 2070 | Moss Covered FX Mail | 苔覆鎧甲【ＦＸ】 |
 | 2071 | Moss Covered FX Vest | 苔覆背心【ＦＸ】 |
-| 2072 | Excelle FX Mail | 艾克斯艾鎧甲【ＦＸ】 |
-| 2073 | Excelle FX Vest | 艾克斯艾背心【ＦＸ】 |
+| 2072 | Excelle FX Mail | 克斯賽爾鎧甲【ＦＸ】 |
+| 2073 | Excelle FX Vest | 克斯賽爾背心【ＦＸ】 |
 | 2074 | Blue Sky Haori・True | 天空真羽織・青 |
 | 2075 | Welkin Haori・True | 蒼穹真羽織 |
 | 2076 | ビステマ Mail | 比斯特瑪鎧甲 |
@@ -84,18 +84,18 @@
 | 2078 | Rath Duo F Vest | 雙火龍背心【Ｆ】 |
 | 2079 | ロークF Mail | 洛可鎧甲【Ｆ】 |
 | 2080 | ロークF Vest | 洛可背心【Ｆ】 |
-| 2081 | Buruho F Vest・Blue | 布烏爾烏背心【Ｆ】・青 |
-| 2082 | マー Gear F Suit・Blue | 瑪爾機甲套裝【Ｆ】・青 |
+| 2081 | Buruho F Vest・Blue | 布露霍背心【Ｆ】・青 |
+| 2082 | マー Gear F Suit・Blue | 瑪套裝【Ｆ】・青 |
 | 2083 | Gogomoa FX Mail | 跳緋獸鎧甲【ＦＸ】 |
 | 2084 | Gogomoa FX Vest | 跳緋獸背心【ＦＸ】 |
-| 2085 | Kuraaji FX Mail | 克烏爾阿鎧甲【ＦＸ】 |
-| 2086 | Kuraaji FX Vest | 克烏爾阿背心【ＦＸ】 |
+| 2085 | Kuraaji FX Mail | 克拉鎧甲【ＦＸ】 |
+| 2086 | Kuraaji FX Vest | 克拉背心【ＦＸ】 |
 | 2087 | Zaakaa FX Mail | 茲阿克阿鎧甲【ＦＸ】 |
 | 2088 | Chaser FX Vest | 追撃背心【ＦＸ】 |
 | 2089 | Abitto FZ Vest | 阿比托背心【ＦＺ】 |
 | 2090 | Abitto FZ Suit | 阿比托套裝【ＦＺ】 |
-| 2091 | Arge FZ Vest | 阿爾傑背心【ＦＺ】 |
-| 2092 | Arge FZ Suit | 阿爾傑套裝【ＦＺ】 |
+| 2091 | Arge FZ Vest | 亞潔背心【ＦＺ】 |
+| 2092 | Arge FZ Suit | 亞潔套裝【ＦＺ】 |
 | 2093 | Camarera FZ Vest | 可瑪蕾拉背心【ＦＺ】 |
 | 2094 | Camarera FZ Suit | 可瑪蕾拉套裝【ＦＺ】 |
 | 2095 | Metenera FZ Vest | 梅特涅拉背心【ＦＺ】 |
@@ -134,8 +134,8 @@
 | 2128 | White 鳥ノ Haori・魁 | 鳥魁羽織・白 |
 | 2129 | Kakabu Mail | 克阿克阿鎧甲 |
 | 2130 | Kakabu Vest | 克阿克阿背心 |
-| 2131 | Onero Mail | 歐恩艾爾鎧甲 |
-| 2132 | Onero Vest | 歐恩艾爾背心 |
+| 2131 | Onero Mail | 奈蘿鎧甲 |
+| 2132 | Onero Vest | 奈蘿背心 |
 | 2133 | Jyaga Mail | 傑阿格阿鎧甲 |
 | 2134 | Jyaga Vest | 傑阿格阿背心 |
 | 2135 | Omet Mail・Black | 歐梅特鎧甲・黑 |
@@ -170,12 +170,12 @@
 | 2164 | 無想の胴当て・魁 | 無想の胴当て鎧甲魁 |
 | 2165 | 俊激の Shozoku | 俊激の裝束 |
 | 2166 | 俊激の Shozoku・魁 | 俊激の裝束魁 |
-| 2167 | Suifudo Vest | 斯烏芙烏背心 |
-| 2168 | Suifudo F Vest | 斯烏芙烏背心【Ｆ】 |
-| 2169 | Merodesu Vest | 姆艾爾歐背心 |
-| 2170 | Merodesu F Vest | 姆艾爾歐背心【Ｆ】 |
-| 2171 | Sumatosu Vest | 斯烏姆阿背心 |
-| 2172 | Sumatosu F Vest | 斯烏姆阿背心【Ｆ】 |
+| 2167 | Suifudo Vest | 斯芙多背心 |
+| 2168 | Suifudo F Vest | 斯芙多背心【Ｆ】 |
+| 2169 | Merodesu Vest | 梅蘿德斯背心 |
+| 2170 | Merodesu F Vest | 梅蘿德斯背心【Ｆ】 |
+| 2171 | Sumatosu Vest | 斯瑪托斯背心 |
+| 2172 | Sumatosu F Vest | 斯瑪托斯背心【Ｆ】 |
 | 2173 | Passhio Suit | 普阿斯伊套裝 |
 | 2174 | Passhio F Suit | 普阿斯伊套裝【Ｆ】 |
 | 2175 | Cultu Vest・Ash | 庫爾圖背心・灰 |
@@ -237,7 +237,7 @@
 | 2231 | Galitos FZ Suit・Red | 加里托斯套裝【ＦＺ】・赤 |
 | 2232 | Galitos FZ Suit・Black | 加里托斯套裝【ＦＺ】・黑 |
 | 2233 | Galitos FZ Suit・Water | 加里托斯套裝【ＦＺ】・水 |
-| 2234 | Beil F Brigantes | 布艾爾伊鎧甲【Ｆ】 |
+| 2234 | Beil F Brigantes | 貝布加特鎧甲【Ｆ】 |
 | 2235 | Dummy | (dummy) |
 | 2236 | Jess Mail | 傑斯鎧甲 |
 | 2237 | Jess F Mail | 傑斯鎧甲【Ｆ】 |
@@ -249,14 +249,14 @@
 | 2243 | Jess HC Vest | 傑斯背心【ＨＣ】 |
 | 2244 | Eques HC Mail | 騎士鎧甲【ＨＣ】 |
 | 2245 | Eques HC Vest | 騎士背心【ＨＣ】 |
-| 2246 | Kuraaji HC Mail | 克烏爾阿鎧甲【ＨＣ】 |
-| 2247 | Kuraaji HC Vest | 克烏爾阿背心【ＨＣ】 |
-| 2248 | Melan FY Jacket | 姆艾爾阿夾克 |
+| 2246 | Kuraaji HC Mail | 克拉鎧甲【ＨＣ】 |
+| 2247 | Kuraaji HC Vest | 克拉背心【ＨＣ】 |
+| 2248 | Melan FY Jacket | 梅拉夾克 |
 | 2249 | Melan HC Jacket | 紫黑夾克【ＨＣ】 |
-| 2250 | Melan FY Suit | 姆艾爾阿套裝 |
+| 2250 | Melan FY Suit | 梅拉套裝 |
 | 2251 | Melan HC Suit | 紫黑套裝【ＨＣ】 |
-| 2252 | Harubadaa FY Mail | 赫阿爾烏鎧甲 |
-| 2253 | Harubadaa HC Mail | 赫阿爾烏鎧甲【ＨＣ】 |
+| 2252 | Harubadaa FY Mail | 哈露巴達鎧甲 |
+| 2253 | Harubadaa HC Mail | 哈露巴達鎧甲【ＨＣ】 |
 | 2254 | Tracker FY Vest | 特阿克艾背心 |
 | 2255 | Tracker HC Vest | 追蹤背心【ＨＣ】 |
 | 2256 | Omet FZ Mail・Black | 歐梅特鎧甲【ＦＺ】・黑 |
@@ -350,21 +350,21 @@
 | 2344 | Comrade Mail SP White Red | 戰友鎧甲【ＳＰ】・白赤 |
 | 2345 | Comrade Mail SP White Blue | 戰友鎧甲【ＳＰ】・白青 |
 | 2346 | Comrade Mail SP White Yellow | 戰友鎧甲【ＳＰ】・白黄 |
-| 2347 | Rubellite Mail | 爾烏布艾鎧甲 |
-| 2348 | Rubellite F Mail | 爾烏布艾鎧甲【Ｆ】 |
-| 2349 | Rubellite FX Mail | 爾烏布艾鎧甲【ＦＸ】 |
-| 2350 | ラズライト Mail | 拉茲拉伊托鎧甲 |
-| 2351 | ラズライトF Mail | 拉茲拉伊托鎧甲【Ｆ】 |
-| 2352 | ラズライトFX Mail | 拉茲拉伊托鎧甲【ＦＸ】 |
-| 2353 | Zircon Mail | 茲伊爾歐鎧甲 |
-| 2354 | Zircon F Mail | 茲伊爾歐鎧甲【Ｆ】 |
-| 2355 | Zircon FX Mail | 茲伊爾歐鎧甲【ＦＸ】 |
+| 2347 | Rubellite Mail | 露貝爾特鎧甲 |
+| 2348 | Rubellite F Mail | 露貝爾特鎧甲【Ｆ】 |
+| 2349 | Rubellite FX Mail | 露貝爾特鎧甲【ＦＸ】 |
+| 2350 | ラズライト Mail | 拉茲拉伊鎧甲 |
+| 2351 | ラズライトF Mail | 拉茲拉伊鎧甲【Ｆ】 |
+| 2352 | ラズライトFX Mail | 拉茲拉伊鎧甲【ＦＸ】 |
+| 2353 | Zircon Mail | 茲古鎧甲 |
+| 2354 | Zircon F Mail | 茲古鎧甲【Ｆ】 |
+| 2355 | Zircon FX Mail | 茲古鎧甲【ＦＸ】 |
 | 2356 | Spinel Mail | 斯伊恩艾鎧甲 |
 | 2357 | Spinel F Mail | 斯伊恩艾鎧甲【Ｆ】 |
 | 2358 | Spinel FX Mail | 斯伊恩艾鎧甲【ＦＸ】 |
-| 2359 | Pyrope Mail | 普歐普艾鎧甲 |
-| 2360 | Pyrope F Mail | 普歐普艾鎧甲【Ｆ】 |
-| 2361 | Pyrope FX Mail | 普歐普艾鎧甲【ＦＸ】 |
+| 2359 | Pyrope Mail | 蘿佩鎧甲 |
+| 2360 | Pyrope F Mail | 蘿佩鎧甲【Ｆ】 |
+| 2361 | Pyrope FX Mail | 蘿佩鎧甲【ＦＸ】 |
 | 2362 | アイオラ Mail | 阿伊歐拉鎧甲 |
 | 2363 | アイオラF Mail | 阿伊歐拉鎧甲【Ｆ】 |
 | 2364 | アイオラFX Mail | 阿伊歐拉鎧甲【ＦＸ】 |
@@ -377,9 +377,9 @@
 | 2371 | Citrine Vest | 克伊特伊背心 |
 | 2372 | Citrine F Vest | 克伊特伊背心【Ｆ】 |
 | 2373 | Citrine FX Vest | 克伊特伊背心【ＦＸ】 |
-| 2374 | Peridot Vest | 普艾爾伊背心 |
-| 2375 | Peridot F Vest | 普艾爾伊背心【Ｆ】 |
-| 2376 | Peridot FX Vest | 普艾爾伊背心【ＦＸ】 |
+| 2374 | Peridot Vest | 佩里多背心 |
+| 2375 | Peridot F Vest | 佩里多背心【Ｆ】 |
+| 2376 | Peridot FX Vest | 佩里多背心【ＦＸ】 |
 | 2377 | Turquoise Vest | 緑松石背心 |
 | 2378 | Turquoise F Vest | 緑松石背心【Ｆ】 |
 | 2379 | Turquoise FX Vest | 緑松石背心【ＦＸ】 |
@@ -391,26 +391,26 @@
 | 2385 | 式部ノ Haori・魁 | 式部魁羽織 |
 | 2386 | 式部ノ Haori・Smart | 機靈羽織 |
 | 2387 | 式部ノ Haori・Flower | 芙歐沃艾羽織 |
-| 2388 | Aruru Mail | 阿爾烏爾鎧甲 |
-| 2389 | Aruru F Mail | 阿爾烏爾鎧甲【Ｆ】 |
-| 2390 | Aruru FY Mail | 阿爾烏爾鎧甲 |
-| 2391 | Aruru HC Mail | 阿爾烏爾鎧甲【ＨＣ】 |
-| 2392 | Aruru Vest | 阿爾烏爾背心 |
-| 2393 | Aruru F Vest | 阿爾烏爾背心【Ｆ】 |
-| 2394 | Aruru FY Vest | 阿爾烏爾背心 |
-| 2395 | Aruru HC Vest | 阿爾烏爾背心【ＨＣ】 |
-| 2396 | Oorowa Mail | 歐爾歐沃鎧甲 |
-| 2397 | Oorowa F Mail | 歐爾歐沃鎧甲【Ｆ】 |
-| 2398 | Oorowa FY Mail | 歐爾歐沃鎧甲 |
-| 2399 | Oorowa HC Mail | 歐爾歐沃鎧甲【ＨＣ】 |
-| 2400 | Oorowa Vest | 歐爾歐沃背心 |
-| 2401 | Oorowa F Vest | 歐爾歐沃背心【Ｆ】 |
-| 2402 | Oorowa FY Vest | 歐爾歐沃背心 |
-| 2403 | Oorowa HC Vest | 歐爾歐沃背心【ＨＣ】 |
-| 2404 | Onero F Mail | 歐恩艾爾鎧甲【Ｆ】 |
-| 2405 | Onero F Vest | 歐恩艾爾背心【Ｆ】 |
-| 2406 | Diru FY Jacket | 德伊爾烏夾克 |
-| 2407 | Diru FY Suit | 德伊爾烏套裝 |
+| 2388 | Aruru Mail | 露露鎧甲 |
+| 2389 | Aruru F Mail | 露露鎧甲【Ｆ】 |
+| 2390 | Aruru FY Mail | 露露鎧甲 |
+| 2391 | Aruru HC Mail | 露露鎧甲【ＨＣ】 |
+| 2392 | Aruru Vest | 露露背心 |
+| 2393 | Aruru F Vest | 露露背心【Ｆ】 |
+| 2394 | Aruru FY Vest | 露露背心 |
+| 2395 | Aruru HC Vest | 露露背心【ＨＣ】 |
+| 2396 | Oorowa Mail | 烏蘿瓦鎧甲 |
+| 2397 | Oorowa F Mail | 烏蘿瓦鎧甲【Ｆ】 |
+| 2398 | Oorowa FY Mail | 烏蘿瓦鎧甲 |
+| 2399 | Oorowa HC Mail | 烏蘿瓦鎧甲【ＨＣ】 |
+| 2400 | Oorowa Vest | 烏蘿瓦背心 |
+| 2401 | Oorowa F Vest | 烏蘿瓦背心【Ｆ】 |
+| 2402 | Oorowa FY Vest | 烏蘿瓦背心 |
+| 2403 | Oorowa HC Vest | 烏蘿瓦背心【ＨＣ】 |
+| 2404 | Onero F Mail | 奈蘿鎧甲【Ｆ】 |
+| 2405 | Onero F Vest | 奈蘿背心【Ｆ】 |
+| 2406 | Diru FY Jacket | 迪露夾克 |
+| 2407 | Diru FY Suit | 迪露套裝 |
 | 2408 | Strega HC Mail | 魔女鎧甲【ＨＣ】 |
 | 2409 | Strega HC Vest | 魔女背心【ＨＣ】 |
 | 2410 | Zaakaa HC Mail | 茲阿克阿鎧甲【ＨＣ】 |
@@ -433,11 +433,11 @@
 | 2427 | クロノス Mail | 庫羅諾斯鎧甲 |
 | 2428 | フレイ Vest | 芙雷伊背心 |
 | 2429 | クロノス Vest | 庫羅諾斯背心 |
-| 2430 | Himeros HC Mail | 赫伊姆艾鎧甲【ＨＣ】 |
-| 2431 | Bureshisu HC Mail | 布烏爾艾鎧甲【ＨＣ】 |
+| 2430 | Himeros HC Mail | 希梅蘿鎧甲【ＨＣ】 |
+| 2431 | Bureshisu HC Mail | 布蕾修斯鎧甲【ＨＣ】 |
 | 2432 | Charien HC Vest | 夏里安背心【ＨＣ】 |
-| 2433 | Buran FY Jacket | 布烏爾阿夾克 |
-| 2434 | Buran HC Jacket | 布烏爾阿夾克【ＨＣ】 |
+| 2433 | Buran FY Jacket | 布拉夾克 |
+| 2434 | Buran HC Jacket | 布拉夾克【ＨＣ】 |
 | 2435 | Gypceros LX Mail | 毒怪鳥鎧甲 |
 | 2436 | Ceanataur LX Mail | 鎌蟹鎧甲 |
 | 2437 | Tigrex LX Mail | 轟龍鎧甲 |
@@ -445,7 +445,7 @@
 | 2439 | Gypceros RX Mail | 毒怪鳥鎧甲 |
 | 2440 | Ceanataur RX Mail | 鎌蟹鎧甲 |
 | 2441 | Espinas RX Muscle | 棘龍筋肉衣 |
-| 2442 | Monodevil RX Vest | 姆歐恩歐背心 |
+| 2442 | Monodevil RX Vest | 莫諾德薇背心 |
 | 2443 | Cayssis Mail Water | 凱西斯鎧甲・水 |
 | 2444 | Cayssis F Mail Water | 凱西斯鎧甲【Ｆ】・水 |
 | 2445 | Cayssis FZ Mail Water | 凱西斯鎧甲【ＦＺ】・水 |

@@ -337,24 +337,24 @@
 | 4831 | Garuda HS Guard | 迦樓羅臂甲【ＨＳ】 |
 | 4832 | Garuda GS Guard | 迦樓羅臂甲【ＧＳ】 |
 | 4833 | Garuda GP Guard | 迦樓羅臂甲【ＧＰ】 |
-| 4834 | Feral HS Arms | 芙艾爾阿護腕【ＨＳ】 |
-| 4835 | Feral GS Arms | 芙艾爾阿護腕【ＧＳ】 |
-| 4836 | Feral GP Arms | 芙艾爾阿護腕【ＧＰ】 |
-| 4837 | Feral HS Guard | 芙艾爾阿臂甲【ＨＳ】 |
-| 4838 | Feral GS Guard | 芙艾爾阿臂甲【ＧＳ】 |
-| 4839 | Feral GP Guard | 芙艾爾阿臂甲【ＧＰ】 |
+| 4834 | Feral HS Arms | 菲拉護腕【ＨＳ】 |
+| 4835 | Feral GS Arms | 菲拉護腕【ＧＳ】 |
+| 4836 | Feral GP Arms | 菲拉護腕【ＧＰ】 |
+| 4837 | Feral HS Guard | 菲拉臂甲【ＨＳ】 |
+| 4838 | Feral GS Guard | 菲拉臂甲【ＧＳ】 |
+| 4839 | Feral GP Guard | 菲拉臂甲【ＧＰ】 |
 | 4840 | Fias HS Arms | 芙伊斯護腕【ＨＳ】 |
 | 4841 | Fias GS Arms | 芙伊斯護腕【ＧＳ】 |
 | 4842 | Fias GP Arms | 芙伊斯護腕【ＧＰ】 |
 | 4843 | Fias HS Guard | 芙伊斯臂甲【ＨＳ】 |
 | 4844 | Fias GS Guard | 芙伊斯臂甲【ＧＳ】 |
 | 4845 | Fias GP Guard | 芙伊斯臂甲【ＧＰ】 |
-| 4846 | Viruto HS Arms | 芙伊爾烏護腕【ＨＳ】 |
-| 4847 | Viruto GS Arms | 芙伊爾烏護腕【ＧＳ】 |
-| 4848 | Viruto GP Arms | 芙伊爾烏護腕【ＧＰ】 |
-| 4849 | Viruto HS Guard | 芙伊爾烏臂甲【ＨＳ】 |
-| 4850 | Viruto GS Guard | 芙伊爾烏臂甲【ＧＳ】 |
-| 4851 | Viruto GP Guard | 芙伊爾烏臂甲【ＧＰ】 |
+| 4846 | Viruto HS Arms | 薇露托護腕【ＨＳ】 |
+| 4847 | Viruto GS Arms | 薇露托護腕【ＧＳ】 |
+| 4848 | Viruto GP Arms | 薇露托護腕【ＧＰ】 |
+| 4849 | Viruto HS Guard | 薇露托臂甲【ＨＳ】 |
+| 4850 | Viruto GS Guard | 薇露托臂甲【ＧＳ】 |
+| 4851 | Viruto GP Guard | 薇露托臂甲【ＧＰ】 |
 | 4852 | Falco HS Arms | 隼護腕【ＨＳ】 |
 | 4853 | Falco GS Arms | 隼護腕【ＧＳ】 |
 | 4854 | Falco GP Arms | 隼護腕【ＧＰ】 |
@@ -393,11 +393,11 @@
 | 4887 | Tinku GP Guard | 汀克臂甲【ＧＰ】 |
 | 4888 | Luxt Arms | 盧克斯特護腕 |
 | 4889 | Luxt F Arms | 盧克斯特護腕【Ｆ】 |
-| 4890 | Luxt FY Arms | 爾烏克斯護腕 |
+| 4890 | Luxt FY Arms | 露克斯護腕 |
 | 4891 | Luxt HS Arms | 盧克斯特護腕【ＨＳ】 |
 | 4892 | Luxt Guard | 盧克斯特臂甲 |
 | 4893 | Luxt F Guard | 盧克斯特臂甲【Ｆ】 |
-| 4894 | Luxt FY Guard | 爾烏克斯臂甲 |
+| 4894 | Luxt FY Guard | 露克斯臂甲 |
 | 4895 | Luxt HS Guard | 盧克斯特臂甲【ＨＳ】 |
 | 4896 | Luxt G Arms | 盧克斯特護腕【Ｇ】 |
 | 4897 | Luxt GF Arms | 盧克斯特護腕【ＧＦ】 |
@@ -407,11 +407,11 @@
 | 4901 | Luxt GX Guard | 盧克斯特臂甲【ＧＸ】 |
 | 4902 | Oleum Arms | 油護腕 |
 | 4903 | Oleum F Arms | 油護腕【Ｆ】 |
-| 4904 | Oleum FY Arms | 歐爾艾姆護腕 |
+| 4904 | Oleum FY Arms | 勒護腕 |
 | 4905 | Oleum HS Arms | 油護腕【ＨＳ】 |
 | 4906 | Oleum Guard | 油臂甲 |
 | 4907 | Oleum F Guard | 油臂甲【Ｆ】 |
-| 4908 | Oleum FY Guard | 歐爾艾姆臂甲 |
+| 4908 | Oleum FY Guard | 勒臂甲 |
 | 4909 | Oleum HS Guard | 油臂甲【ＨＳ】 |
 | 4910 | Oleum G Arms | 油護腕【Ｇ】 |
 | 4911 | Oleum GF Arms | 油護腕【ＧＦ】 |
@@ -421,11 +421,11 @@
 | 4915 | Oleum GX Guard | 油臂甲【ＧＸ】 |
 | 4916 | Kuranto Arms | 庫蘭托護腕 |
 | 4917 | Kuranto F Arms | 庫蘭托護腕【Ｆ】 |
-| 4918 | Kuranto FY Arms | 克烏爾阿護腕 |
+| 4918 | Kuranto FY Arms | 克拉托護腕 |
 | 4919 | Kuranto HS Arms | 庫蘭托護腕【ＨＳ】 |
 | 4920 | Kuranto Guard | 庫蘭托臂甲 |
 | 4921 | Kuranto F Guard | 庫蘭托臂甲【Ｆ】 |
-| 4922 | Kuranto FY Guard | 克烏爾阿臂甲 |
+| 4922 | Kuranto FY Guard | 克拉托臂甲 |
 | 4923 | Kuranto HS Guard | 庫蘭托臂甲【ＨＳ】 |
 | 4924 | Kuranto G Arms | 庫蘭托護腕【Ｇ】 |
 | 4925 | Kuranto GF Arms | 庫蘭托護腕【ＧＦ】 |
@@ -435,11 +435,11 @@
 | 4929 | Kuranto GX Guard | 庫蘭托臂甲【ＧＸ】 |
 | 4930 | Yupuk Arms | 尤普克護腕 |
 | 4931 | Yupuk F Arms | 尤普克護腕【Ｆ】 |
-| 4932 | Yupuk FY Arms | 伊烏普烏護腕 |
+| 4932 | Yupuk FY Arms | 尤普護腕 |
 | 4933 | Yupuk HS Arms | 尤普克護腕【ＨＳ】 |
 | 4934 | Yupuk Guard | 尤普克臂甲 |
 | 4935 | Yupuk F Guard | 尤普克臂甲【Ｆ】 |
-| 4936 | Yupuk FY Guard | 伊烏普烏臂甲 |
+| 4936 | Yupuk FY Guard | 尤普臂甲 |
 | 4937 | Yupuk HS Guard | 尤普克臂甲【ＨＳ】 |
 | 4938 | Yupuk G Arms | 尤普克護腕【Ｇ】 |
 | 4939 | Yupuk GF Arms | 尤普克護腕【ＧＦ】 |
@@ -453,12 +453,12 @@
 | 4947 | Higakure G Guard | 赫伊格阿臂甲【Ｇ】 |
 | 4948 | Higakure GF Guard | 赫伊格阿臂甲【ＧＦ】 |
 | 4949 | Higakure GX Guard | 赫伊格阿臂甲【ＧＸ】 |
-| 4950 | Konseru G Arms | 克歐恩艾護腕【Ｇ】 |
-| 4951 | Konseru GF Arms | 克歐恩艾護腕【ＧＦ】 |
-| 4952 | Konseru GX Arms | 克歐恩艾護腕【ＧＸ】 |
-| 4953 | Konseru G Guard | 克歐恩艾臂甲【Ｇ】 |
-| 4954 | Konseru GF Guard | 克歐恩艾臂甲【ＧＦ】 |
-| 4955 | Konseru GX Guard | 克歐恩艾臂甲【ＧＸ】 |
+| 4950 | Konseru G Arms | 古賽露護腕【Ｇ】 |
+| 4951 | Konseru GF Arms | 古賽露護腕【ＧＦ】 |
+| 4952 | Konseru GX Arms | 古賽露護腕【ＧＸ】 |
+| 4953 | Konseru G Guard | 古賽露臂甲【Ｇ】 |
+| 4954 | Konseru GF Guard | 古賽露臂甲【ＧＦ】 |
+| 4955 | Konseru GX Guard | 古賽露臂甲【ＧＸ】 |
 | 4956 | Diru G Arms | 迪魯護腕【Ｇ】 |
 | 4957 | Diru GF Arms | 迪魯護腕【ＧＦ】 |
 | 4958 | Diru GX Arms | 迪魯護腕【ＧＸ】 |

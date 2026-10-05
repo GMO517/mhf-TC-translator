@@ -31,12 +31,12 @@
 | 2525 | Weber F Leggings | 韋伯裹腿【Ｆ】 |
 | 2526 | Gilbert Leggings | 吉伯特裹腿 |
 | 2527 | Gilbert F Leggings | 吉伯特裹腿【Ｆ】 |
-| 2528 | Regyukusu F Feet | 爾艾格烏足【Ｆ】 |
-| 2529 | Regyukusu F Boots | 爾艾格烏靴【Ｆ】 |
+| 2528 | Regyukusu F Feet | 蕾尤克斯足【Ｆ】 |
+| 2529 | Regyukusu F Boots | 蕾尤克斯靴【Ｆ】 |
 | 2530 | Garuda FZ Leg | 迦樓羅腿【ＦＺ】 |
 | 2531 | Garuda FZ Boots | 迦樓羅靴【ＦＺ】 |
-| 2532 | Feral FZ Leg | 芙艾爾阿腿【ＦＺ】 |
-| 2533 | Feral FZ Boots | 芙艾爾阿靴【ＦＺ】 |
+| 2532 | Feral FZ Leg | 菲拉腿【ＦＺ】 |
+| 2533 | Feral FZ Boots | 菲拉靴【ＦＺ】 |
 | 2534 | Pandeum FZ Leg | 普阿恩艾腿【ＦＺ】 |
 | 2535 | Pandeum FZ Boots | 普阿恩艾靴【ＦＺ】 |
 | 2536 | Dian FZ Leg | 德伊恩腿【ＦＺ】 |
@@ -47,14 +47,14 @@
 | 2541 | Flower FZ Boots | 芙歐沃艾靴【ＦＺ】 |
 | 2542 | Fias FZ Leg | 芙伊斯腿【ＦＺ】 |
 | 2543 | Fias FZ Boots | 芙伊斯靴【ＦＺ】 |
-| 2544 | Viruto FZ Leg | 芙伊爾烏腿【ＦＺ】 |
-| 2545 | Viruto FZ Boots | 芙伊爾烏靴【ＦＺ】 |
-| 2546 | Tune FZ Leg | 特烏恩艾腿【ＦＺ】 |
+| 2544 | Viruto FZ Leg | 薇露托腿【ＦＺ】 |
+| 2545 | Viruto FZ Boots | 薇露托靴【ＦＺ】 |
+| 2546 | Tune FZ Leg | 圖奈腿【ＦＺ】 |
 | 2547 | Schnite FZ Boots | 施伊特艾靴【ＦＺ】 |
 | 2548 | Dicto FZ Leg | 德伊克歐腿【ＦＺ】 |
-| 2549 | Diletto FZ Boots | 德伊爾艾靴【ＦＺ】 |
+| 2549 | Diletto FZ Boots | 迪勒特靴【ＦＺ】 |
 | 2550 | Kruss FZ Leg | 克烏斯腿【ＦＺ】 |
-| 2551 | Quote FZ Boots | 斯烏特艾靴【ＦＺ】 |
+| 2551 | Quote FZ Boots | 奎特靴【ＦＺ】 |
 | 2552 | Starina FZ Leg | 斯塔莉娜腿【ＦＺ】 |
 | 2553 | Starina FZ Boots | 斯塔莉娜靴【ＦＺ】 |
 | 2554 | Loose FZ Leg | 寬鬆腿【ＦＺ】 |
@@ -103,10 +103,10 @@
 | 2597 | 日光F【具足】 | 日光具足【Ｆ】 |
 | 2598 | Wadatsumi F【具足】 | 綿津見具足【Ｆ】 |
 | 2599 | Okami F【具足】 | 狼具足【Ｆ】 |
-| 2600 | チャチャブピエーデ | 奇亞奇亞布皮護腿 |
+| 2600 | チャチャブピエーデ | 夏夏布皮護腿 |
 | 2601 | チャチャブク Loose | 寬鬆護腿 |
-| 2602 | チャチャブタロン | 奇亞奇亞布塔護腿 |
-| 2603 | チャチャブバイン | 奇亞奇亞布巴護腿 |
+| 2602 | チャチャブタロン | 夏夏布塔護腿 |
+| 2603 | チャチャブバイン | 夏夏布巴護腿 |
 | 2604 | トリート Greaves | 托里托護腿 |
 | 2605 | トリートF Greaves | 托里托護腿【Ｆ】 |
 | 2606 | トリートFY Greaves | 托里托護腿 |
@@ -123,14 +123,14 @@
 | 2617 | Kobaruta F Leggings | 克歐布阿裹腿【Ｆ】 |
 | 2618 | Kobaruta FY Leggings | 克歐布阿裹腿 |
 | 2619 | Kobaruta HC Leggings | 克歐布阿裹腿【ＨＣ】 |
-| 2620 | Dogumea Greaves | 德歐格烏護腿 |
-| 2621 | Dogumea F Greaves | 德歐格烏護腿【Ｆ】 |
-| 2622 | Dogumea FY Greaves | 德歐格烏護腿 |
-| 2623 | Dogumea HC Greaves | 德歐格烏護腿【ＨＣ】 |
-| 2624 | Dogumea Leggings | 德歐格烏裹腿 |
-| 2625 | Dogumea F Leggings | 德歐格烏裹腿【Ｆ】 |
-| 2626 | Dogumea FY Leggings | 德歐格烏裹腿 |
-| 2627 | Dogumea HC Leggings | 德歐格烏裹腿【ＨＣ】 |
+| 2620 | Dogumea Greaves | 多古梅護腿 |
+| 2621 | Dogumea F Greaves | 多古梅護腿【Ｆ】 |
+| 2622 | Dogumea FY Greaves | 多古梅護腿 |
+| 2623 | Dogumea HC Greaves | 多古梅護腿【ＨＣ】 |
+| 2624 | Dogumea Leggings | 多古梅裹腿 |
+| 2625 | Dogumea F Leggings | 多古梅裹腿【Ｆ】 |
+| 2626 | Dogumea FY Leggings | 多古梅裹腿 |
+| 2627 | Dogumea HC Leggings | 多古梅裹腿【ＨＣ】 |
 | 2628 | Madaru Greaves | 姆阿德阿護腿 |
 | 2629 | Madaru F Greaves | 姆阿德阿護腿【Ｆ】 |
 | 2630 | Madaru FY Greaves | 姆阿德阿護腿 |
@@ -153,9 +153,9 @@
 | 2647 | Kakabu F Leggings | 克阿克阿裹腿【Ｆ】 |
 | 2648 | Kakabu FY Leggings | 克阿克阿裹腿 |
 | 2649 | Kakabu HC Leggings | 克阿克阿裹腿【ＨＣ】 |
-| 2650 | Gospel FY Greaves | 格歐斯艾護腿 |
+| 2650 | Gospel FY Greaves | 戈佩護腿 |
 | 2651 | Gospel HC Greaves | 福音護腿【ＨＣ】 |
-| 2652 | Gospel FY Leggings | 格歐斯艾裹腿 |
+| 2652 | Gospel FY Leggings | 戈佩裹腿 |
 | 2653 | Gospel HC Leggings | 福音裹腿【ＨＣ】 |
 | 2654 | Zodic Feet・Blue | 黄道足・青 |
 | 2655 | Zodic F Feet・Blue | 黄道足【Ｆ】・青 |
@@ -234,13 +234,13 @@
 | 2728 | 剣士ランク５ | 拉恩庫護腿 |
 | 2729 | 剣士ランク６ | 拉恩庫護腿 |
 | 2730 | 剣士ランク７ | 拉恩庫護腿 |
-| 2731 | ガンランク１ | 加恩拉恩庫護腿 |
-| 2732 | ガンランク２ | 加恩拉恩庫護腿 |
-| 2733 | ガンランク３ | 加恩拉恩庫護腿 |
-| 2734 | ガンランク４ | 加恩拉恩庫護腿 |
-| 2735 | ガンランク５ | 加恩拉恩庫護腿 |
-| 2736 | ガンランク６ | 加恩拉恩庫護腿 |
-| 2737 | ガンランク７ | 加恩拉恩庫護腿 |
+| 2731 | ガンランク１ | 加恩拉恩護腿 |
+| 2732 | ガンランク２ | 加恩拉恩護腿 |
+| 2733 | ガンランク３ | 加恩拉恩護腿 |
+| 2734 | ガンランク４ | 加恩拉恩護腿 |
+| 2735 | ガンランク５ | 加恩拉恩護腿 |
+| 2736 | ガンランク６ | 加恩拉恩護腿 |
+| 2737 | ガンランク７ | 加恩拉恩護腿 |
 | 2738 | デュスノF Greaves | 德尤斯諾護腿【Ｆ】 |
 | 2739 | デュスノF Leggings | 德尤斯諾裹腿【Ｆ】 |
 | 2740 | Blitz FXレガース | 布伊特護腿 |
@@ -321,8 +321,8 @@
 | 2815 | Blaze HC Feet | 烈焔足【ＨＣ】 |
 | 2816 | Blaze FZ Boots | 烈焔靴【ＦＺ】 |
 | 2817 | Blaze HC Boots | 烈焔靴【ＨＣ】 |
-| 2818 | Arge HC Feet | 阿爾傑足【ＨＣ】 |
-| 2819 | Arge HC Boots | 阿爾傑靴【ＨＣ】 |
+| 2818 | Arge HC Feet | 亞潔足【ＨＣ】 |
+| 2819 | Arge HC Boots | 亞潔靴【ＨＣ】 |
 | 2820 | Camarera HC Feet | 可瑪蕾拉足【ＨＣ】 |
 | 2821 | Camarera HC Boots | 可瑪蕾拉靴【ＨＣ】 |
 | 2822 | Metenera HC Feet | 梅特涅拉足【ＨＣ】 |
@@ -383,10 +383,10 @@
 | 2877 | Abiorugu HS Leggings | 獰龍裹腿【ＨＳ】 |
 | 2878 | Kuaru HS Greaves | 晶龍護腿【ＨＳ】 |
 | 2879 | Kuaru HS Leggings | 晶龍裹腿【ＨＳ】 |
-| 2880 | Lils F Greaves | 爾伊爾護腿【Ｆ】 |
-| 2881 | Lils F Leggings | 爾伊爾裹腿【Ｆ】 |
-| 2882 | Lils FX Greaves | 爾伊爾護腿【ＦＸ】 |
-| 2883 | Lils FX Leggings | 爾伊爾裹腿【ＦＸ】 |
+| 2880 | Lils F Greaves | 莉護腿【Ｆ】 |
+| 2881 | Lils F Leggings | 莉裹腿【Ｆ】 |
+| 2882 | Lils FX Greaves | 莉護腿【ＦＸ】 |
+| 2883 | Lils FX Leggings | 莉裹腿【ＦＸ】 |
 | 2884 | Zodic HS Feet・Blue | 黄道足【ＨＳ】・青 |
 | 2885 | Zodic HS Boots・Blue | 黄道靴【ＨＳ】・青 |
 | 2886 | Zodic HS Feet・Tea | 黄道足【ＨＳ】・茶 |

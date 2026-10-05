@@ -4,45 +4,45 @@
 
 | index | 原文 | 譯文 |
 |---|---|---|
-| 9501 | Keisu HS Greaves | 克艾斯烏護腿【ＨＳ】 |
-| 9502 | Keisu G Greaves | 克艾斯烏護腿【Ｇ】 |
-| 9503 | Keisu GF Greaves | 克艾斯烏護腿【ＧＦ】 |
-| 9504 | Keisu GX Greaves | 克艾斯烏護腿【ＧＸ】 |
-| 9505 | Keisu Leggings | 克艾斯烏裹腿 |
-| 9506 | Keisu F Leggings | 克艾斯烏裹腿【Ｆ】 |
-| 9507 | Keisu FY Leggings | 克艾斯烏裹腿 |
-| 9508 | Keisu HS Leggings | 克艾斯烏裹腿【ＨＳ】 |
-| 9509 | Keisu G Leggings | 克艾斯烏裹腿【Ｇ】 |
-| 9510 | Keisu GF Leggings | 克艾斯烏裹腿【ＧＦ】 |
-| 9511 | Keisu GX Leggings | 克艾斯烏裹腿【ＧＸ】 |
-| 9512 | Lumiere Greaves | 爾烏姆伊護腿 |
-| 9513 | Lumiere F Greaves | 爾烏姆伊護腿【Ｆ】 |
-| 9514 | Lumiere FY Greaves | 爾烏姆伊護腿 |
-| 9515 | Lumiere HS Greaves | 爾烏姆伊護腿【ＨＳ】 |
-| 9516 | Lumiere G Greaves | 爾烏姆伊護腿【Ｇ】 |
-| 9517 | Lumiere GF Greaves | 爾烏姆伊護腿【ＧＦ】 |
-| 9518 | Lumiere GX Greaves | 爾烏姆伊護腿【ＧＸ】 |
-| 9519 | Lumiere Leggings | 爾烏姆伊裹腿 |
-| 9520 | Lumiere F Leggings | 爾烏姆伊裹腿【Ｆ】 |
-| 9521 | Lumiere FY Leggings | 爾烏姆伊裹腿 |
-| 9522 | Lumiere HS Leggings | 爾烏姆伊裹腿【ＨＳ】 |
-| 9523 | Lumiere G Leggings | 爾烏姆伊裹腿【Ｇ】 |
-| 9524 | Lumiere GF Leggings | 爾烏姆伊裹腿【ＧＦ】 |
-| 9525 | Lumiere GX Leggings | 爾烏姆伊裹腿【ＧＸ】 |
-| 9526 | Cleora Feet | 克艾爾阿足 |
-| 9527 | Cleora F Feet | 克艾爾阿足【Ｆ】 |
-| 9528 | Cleora FY Feet | 克艾爾阿足 |
-| 9529 | Cleora HS Feet | 克艾爾阿足【ＨＳ】 |
-| 9530 | Cleora G Feet | 克艾爾阿足【Ｇ】 |
-| 9531 | Cleora GF Feet | 克艾爾阿足【ＧＦ】 |
-| 9532 | Cleora GX Feet | 克艾爾阿足【ＧＸ】 |
-| 9533 | Cleora Boots | 克艾爾阿靴 |
-| 9534 | Cleora F Boots | 克艾爾阿靴【Ｆ】 |
-| 9535 | Cleora FY Boots | 克艾爾阿靴 |
-| 9536 | Cleora HS Boots | 克艾爾阿靴【ＨＳ】 |
-| 9537 | Cleora G Boots | 克艾爾阿靴【Ｇ】 |
-| 9538 | Cleora GF Boots | 克艾爾阿靴【ＧＦ】 |
-| 9539 | Cleora GX Boots | 克艾爾阿靴【ＧＸ】 |
+| 9501 | Keisu HS Greaves | 凱斯護腿【ＨＳ】 |
+| 9502 | Keisu G Greaves | 凱斯護腿【Ｇ】 |
+| 9503 | Keisu GF Greaves | 凱斯護腿【ＧＦ】 |
+| 9504 | Keisu GX Greaves | 凱斯護腿【ＧＸ】 |
+| 9505 | Keisu Leggings | 凱斯裹腿 |
+| 9506 | Keisu F Leggings | 凱斯裹腿【Ｆ】 |
+| 9507 | Keisu FY Leggings | 凱斯裹腿 |
+| 9508 | Keisu HS Leggings | 凱斯裹腿【ＨＳ】 |
+| 9509 | Keisu G Leggings | 凱斯裹腿【Ｇ】 |
+| 9510 | Keisu GF Leggings | 凱斯裹腿【ＧＦ】 |
+| 9511 | Keisu GX Leggings | 凱斯裹腿【ＧＸ】 |
+| 9512 | Lumiere Greaves | 露蜜蕾護腿 |
+| 9513 | Lumiere F Greaves | 露蜜蕾護腿【Ｆ】 |
+| 9514 | Lumiere FY Greaves | 露蜜蕾護腿 |
+| 9515 | Lumiere HS Greaves | 露蜜蕾護腿【ＨＳ】 |
+| 9516 | Lumiere G Greaves | 露蜜蕾護腿【Ｇ】 |
+| 9517 | Lumiere GF Greaves | 露蜜蕾護腿【ＧＦ】 |
+| 9518 | Lumiere GX Greaves | 露蜜蕾護腿【ＧＸ】 |
+| 9519 | Lumiere Leggings | 露蜜蕾裹腿 |
+| 9520 | Lumiere F Leggings | 露蜜蕾裹腿【Ｆ】 |
+| 9521 | Lumiere FY Leggings | 露蜜蕾裹腿 |
+| 9522 | Lumiere HS Leggings | 露蜜蕾裹腿【ＨＳ】 |
+| 9523 | Lumiere G Leggings | 露蜜蕾裹腿【Ｇ】 |
+| 9524 | Lumiere GF Leggings | 露蜜蕾裹腿【ＧＦ】 |
+| 9525 | Lumiere GX Leggings | 露蜜蕾裹腿【ＧＸ】 |
+| 9526 | Cleora Feet | 克雷拉足 |
+| 9527 | Cleora F Feet | 克雷拉足【Ｆ】 |
+| 9528 | Cleora FY Feet | 克雷拉足 |
+| 9529 | Cleora HS Feet | 克雷拉足【ＨＳ】 |
+| 9530 | Cleora G Feet | 克雷拉足【Ｇ】 |
+| 9531 | Cleora GF Feet | 克雷拉足【ＧＦ】 |
+| 9532 | Cleora GX Feet | 克雷拉足【ＧＸ】 |
+| 9533 | Cleora Boots | 克雷拉靴 |
+| 9534 | Cleora F Boots | 克雷拉靴【Ｆ】 |
+| 9535 | Cleora FY Boots | 克雷拉靴 |
+| 9536 | Cleora HS Boots | 克雷拉靴【ＨＳ】 |
+| 9537 | Cleora G Boots | 克雷拉靴【Ｇ】 |
+| 9538 | Cleora GF Boots | 克雷拉靴【ＧＦ】 |
+| 9539 | Cleora GX Boots | 克雷拉靴【ＧＸ】 |
 | 9540 | Doragyurosu G Greaves | 冥雷龍護腿【Ｇ】 |
 | 9541 | Doragyurosu GF Greaves | 冥雷龍護腿【ＧＦ】 |
 | 9542 | Doragyurosu GX Greaves | 冥雷龍護腿【ＧＸ】 |
@@ -53,8 +53,8 @@
 | 9547 | Wind GXハディ | 風護腿 |
 | 9548 | Meraginasu GX Greaves | 黑穿龍護腿【ＧＸ】 |
 | 9549 | Meraginasu GX Leggings | 黑穿龍裹腿【ＧＸ】 |
-| 9550 | Pobo GX Greaves | 普歐布歐護腿【ＧＸ】 |
-| 9551 | Pobo GX Leggings | 普歐布歐裹腿【ＧＸ】 |
+| 9550 | Pobo GX Greaves | 珀波護腿【ＧＸ】 |
+| 9551 | Pobo GX Leggings | 珀波裹腿【ＧＸ】 |
 | 9552 | Toa Greaves | 凍王龍護腿 |
 | 9553 | Toa F Greaves | 凍王龍護腿【Ｆ】 |
 | 9554 | Toa FX Greaves | 凍王龍護腿【ＦＸ】 |
@@ -67,12 +67,12 @@
 | 9561 | Toa G Leggings | 凍王龍裹腿【Ｇ】 |
 | 9562 | Toa GF Leggings | 凍王龍裹腿【ＧＦ】 |
 | 9563 | Toa GX Leggings | 凍王龍裹腿【ＧＸ】 |
-| 9564 | Blue Kut Ku G Greaves | 克烏特烏護腿【Ｇ】・青 |
-| 9565 | Blue Kut Ku GF Greaves | 克烏特烏護腿【ＧＦ】・青 |
-| 9566 | Blue Kut Ku GX Greaves | 克烏特烏護腿【ＧＸ】・青 |
-| 9567 | Blue Kut Ku G Leggings | 克烏特烏裹腿【Ｇ】・青 |
-| 9568 | Blue Kut Ku GF Leggings | 克烏特烏裹腿【ＧＦ】・青 |
-| 9569 | Blue Kut Ku GX Leggings | 克烏特烏裹腿【ＧＸ】・青 |
+| 9564 | Blue Kut Ku G Greaves | 克克護腿【Ｇ】・青 |
+| 9565 | Blue Kut Ku GF Greaves | 克克護腿【ＧＦ】・青 |
+| 9566 | Blue Kut Ku GX Greaves | 克克護腿【ＧＸ】・青 |
+| 9567 | Blue Kut Ku G Leggings | 克克裹腿【Ｇ】・青 |
+| 9568 | Blue Kut Ku GF Leggings | 克克裹腿【ＧＦ】・青 |
+| 9569 | Blue Kut Ku GX Leggings | 克克裹腿【ＧＸ】・青 |
 | 9570 | Dreadrock G【 Hakama 】 | 恐岩袴【Ｇ】 |
 | 9571 | Dreadrock GF【 Hakama 】 | 恐岩袴【ＧＦ】 |
 | 9572 | Dreadrock GX【 Hakama 】 | 恐岩袴【ＧＸ】 |
@@ -103,24 +103,24 @@
 | 9597 | Gagachu HS Boots | 加加丘靴【ＨＳ】 |
 | 9598 | Gagachu GS Boots | 加加丘靴【ＧＳ】 |
 | 9599 | Gagachu GP Boots | 加加丘靴【ＧＰ】 |
-| 9600 | Salta Feet | 斯阿爾阿足 |
-| 9601 | Salta F Feet | 斯阿爾阿足【Ｆ】 |
-| 9602 | Salta FZ Feet | 斯阿爾阿足【ＦＺ】 |
-| 9603 | Salta HS Feet | 斯阿爾阿足【ＨＳ】 |
-| 9604 | Salta GS Feet | 斯阿爾阿足【ＧＳ】 |
-| 9605 | Salta GP Feet | 斯阿爾阿足【ＧＰ】 |
-| 9606 | Salta Boots | 斯阿爾阿靴 |
-| 9607 | Salta F Boots | 斯阿爾阿靴【Ｆ】 |
-| 9608 | Salta FZ Boots | 斯阿爾阿靴【ＦＺ】 |
-| 9609 | Salta HS Boots | 斯阿爾阿靴【ＨＳ】 |
-| 9610 | Salta GS Boots | 斯阿爾阿靴【ＧＳ】 |
-| 9611 | Salta GP Boots | 斯阿爾阿靴【ＧＰ】 |
-| 9612 | Chiru G Greaves | 奇伊爾烏護腿【Ｇ】 |
-| 9613 | Chiru GF Greaves | 奇伊爾烏護腿【ＧＦ】 |
-| 9614 | Chiru GX Greaves | 奇伊爾烏護腿【ＧＸ】 |
-| 9615 | Chiru G Leggings | 奇伊爾烏裹腿【Ｇ】 |
-| 9616 | Chiru GF Leggings | 奇伊爾烏裹腿【ＧＦ】 |
-| 9617 | Chiru GX Leggings | 奇伊爾烏裹腿【ＧＸ】 |
+| 9600 | Salta Feet | 薩塔足 |
+| 9601 | Salta F Feet | 薩塔足【Ｆ】 |
+| 9602 | Salta FZ Feet | 薩塔足【ＦＺ】 |
+| 9603 | Salta HS Feet | 薩塔足【ＨＳ】 |
+| 9604 | Salta GS Feet | 薩塔足【ＧＳ】 |
+| 9605 | Salta GP Feet | 薩塔足【ＧＰ】 |
+| 9606 | Salta Boots | 薩塔靴 |
+| 9607 | Salta F Boots | 薩塔靴【Ｆ】 |
+| 9608 | Salta FZ Boots | 薩塔靴【ＦＺ】 |
+| 9609 | Salta HS Boots | 薩塔靴【ＨＳ】 |
+| 9610 | Salta GS Boots | 薩塔靴【ＧＳ】 |
+| 9611 | Salta GP Boots | 薩塔靴【ＧＰ】 |
+| 9612 | Chiru G Greaves | 奇露護腿【Ｇ】 |
+| 9613 | Chiru GF Greaves | 奇露護腿【ＧＦ】 |
+| 9614 | Chiru GX Greaves | 奇露護腿【ＧＸ】 |
+| 9615 | Chiru G Leggings | 奇露裹腿【Ｇ】 |
+| 9616 | Chiru GF Leggings | 奇露裹腿【ＧＦ】 |
+| 9617 | Chiru GX Leggings | 奇露裹腿【ＧＸ】 |
 | 9618 | Ganeto G Greaves | 格阿恩艾護腿【Ｇ】 |
 | 9619 | Ganeto GF Greaves | 格阿恩艾護腿【ＧＦ】 |
 | 9620 | Ganeto GX Greaves | 格阿恩艾護腿【ＧＸ】 |
@@ -150,9 +150,9 @@
 | 9644 | Onyx Greaves | 縞瑪瑙護腿 |
 | 9645 | Onyx F Greaves | 縞瑪瑙護腿【Ｆ】 |
 | 9646 | Onyx FX Greaves | 縞瑪瑙護腿【ＦＸ】 |
-| 9647 | Rutile Greaves | 爾烏特伊護腿 |
-| 9648 | Rutile F Greaves | 爾烏特伊護腿【Ｆ】 |
-| 9649 | Rutile FX Greaves | 爾烏特伊護腿【ＦＸ】 |
+| 9647 | Rutile Greaves | 露蒂勒護腿 |
+| 9648 | Rutile F Greaves | 露蒂勒護腿【Ｆ】 |
+| 9649 | Rutile FX Greaves | 露蒂勒護腿【ＦＸ】 |
 | 9650 | Byakko・斬将G Feet | 白虎足【Ｇ】 |
 | 9651 | Byakko・斬将GF Feet | 白虎斬将足【Ｆ】 |
 | 9652 | Byakko・斬将GX Feet | 白虎足【ＧＸ】 |
@@ -287,30 +287,30 @@
 | 9781 | Kaiji HS Boots | 克阿傑伊靴【ＨＳ】 |
 | 9782 | Kaiji GS Boots | 克阿傑伊靴【ＧＳ】 |
 | 9783 | Kaiji GP Boots | 克阿傑伊靴【ＧＰ】 |
-| 9784 | Mikoko Feet | 姆伊克歐足 |
-| 9785 | Mikoko F Feet | 姆伊克歐足【Ｆ】 |
-| 9786 | Mikoko FZ Feet | 姆伊克歐足【ＦＺ】 |
-| 9787 | Mikoko HS Feet | 姆伊克歐足【ＨＳ】 |
-| 9788 | Mikoko GS Feet | 姆伊克歐足【ＧＳ】 |
-| 9789 | Mikoko GP Feet | 姆伊克歐足【ＧＰ】 |
-| 9790 | Mikoko Boots | 姆伊克歐靴 |
-| 9791 | Mikoko F Boots | 姆伊克歐靴【Ｆ】 |
-| 9792 | Mikoko FZ Boots | 姆伊克歐靴【ＦＺ】 |
-| 9793 | Mikoko HS Boots | 姆伊克歐靴【ＨＳ】 |
-| 9794 | Mikoko GS Boots | 姆伊克歐靴【ＧＳ】 |
-| 9795 | Mikoko GP Boots | 姆伊克歐靴【ＧＰ】 |
-| 9796 | テリュオ Feet | 特里尤歐足 |
-| 9797 | テリュオF Feet | 特里尤歐足【Ｆ】 |
-| 9798 | テリュオFZ Feet | 特里尤歐足【ＦＺ】 |
-| 9799 | テリュオHS Feet | 特里尤歐足【ＨＳ】 |
-| 9800 | テリュオGS Feet | 特里尤歐足【ＧＳ】 |
-| 9801 | テリュオGP Feet | 特里尤歐足【ＧＰ】 |
-| 9802 | テリュオ Boots | 特里尤歐靴 |
-| 9803 | テリュオF Boots | 特里尤歐靴【Ｆ】 |
-| 9804 | テリュオFZ Boots | 特里尤歐靴【ＦＺ】 |
-| 9805 | テリュオHS Boots | 特里尤歐靴【ＨＳ】 |
-| 9806 | テリュオGS Boots | 特里尤歐靴【ＧＳ】 |
-| 9807 | テリュオGP Boots | 特里尤歐靴【ＧＰ】 |
+| 9784 | Mikoko Feet | 蜜古古足 |
+| 9785 | Mikoko F Feet | 蜜古古足【Ｆ】 |
+| 9786 | Mikoko FZ Feet | 蜜古古足【ＦＺ】 |
+| 9787 | Mikoko HS Feet | 蜜古古足【ＨＳ】 |
+| 9788 | Mikoko GS Feet | 蜜古古足【ＧＳ】 |
+| 9789 | Mikoko GP Feet | 蜜古古足【ＧＰ】 |
+| 9790 | Mikoko Boots | 蜜古古靴 |
+| 9791 | Mikoko F Boots | 蜜古古靴【Ｆ】 |
+| 9792 | Mikoko FZ Boots | 蜜古古靴【ＦＺ】 |
+| 9793 | Mikoko HS Boots | 蜜古古靴【ＨＳ】 |
+| 9794 | Mikoko GS Boots | 蜜古古靴【ＧＳ】 |
+| 9795 | Mikoko GP Boots | 蜜古古靴【ＧＰ】 |
+| 9796 | テリュオ Feet | 特琉歐足 |
+| 9797 | テリュオF Feet | 特琉歐足【Ｆ】 |
+| 9798 | テリュオFZ Feet | 特琉歐足【ＦＺ】 |
+| 9799 | テリュオHS Feet | 特琉歐足【ＨＳ】 |
+| 9800 | テリュオGS Feet | 特琉歐足【ＧＳ】 |
+| 9801 | テリュオGP Feet | 特琉歐足【ＧＰ】 |
+| 9802 | テリュオ Boots | 特琉歐靴 |
+| 9803 | テリュオF Boots | 特琉歐靴【Ｆ】 |
+| 9804 | テリュオFZ Boots | 特琉歐靴【ＦＺ】 |
+| 9805 | テリュオHS Boots | 特琉歐靴【ＨＳ】 |
+| 9806 | テリュオGS Boots | 特琉歐靴【ＧＳ】 |
+| 9807 | テリュオGP Boots | 特琉歐靴【ＧＰ】 |
 | 9808 | Sailor Socks | 水手襪 |
 | 9809 | Sailor G Socks | 水手襪【Ｇ】 |
 | 9810 | Sailor GF Socks | 水手襪【ＧＦ】 |
@@ -337,68 +337,68 @@
 | 9831 | 童伝ノ足枷G | 童伝足枷護腿 |
 | 9832 | 童伝ノ足枷GF | 童伝足枷護腿【Ｆ】 |
 | 9833 | 童伝ノ足枷GX | 童伝足枷護腿 |
-| 9834 | Valier Greaves | 芙阿爾伊護腿 |
-| 9835 | Valier F Greaves | 芙阿爾伊護腿【Ｆ】 |
-| 9836 | Valier FY Greaves | 芙阿爾伊護腿 |
-| 9837 | Valier HS Greaves | 芙阿爾伊護腿【ＨＳ】 |
-| 9838 | Valier G Greaves | 芙阿爾伊護腿【Ｇ】 |
-| 9839 | Valier GF Greaves | 芙阿爾伊護腿【ＧＦ】 |
-| 9840 | Valier GX Greaves | 芙阿爾伊護腿【ＧＸ】 |
-| 9841 | Valier Leggings | 芙阿爾伊裹腿 |
-| 9842 | Valier F Leggings | 芙阿爾伊裹腿【Ｆ】 |
-| 9843 | Valier FY Leggings | 芙阿爾伊裹腿 |
-| 9844 | Valier HS Leggings | 芙阿爾伊裹腿【ＨＳ】 |
-| 9845 | Valier G Leggings | 芙阿爾伊裹腿【Ｇ】 |
-| 9846 | Valier GF Leggings | 芙阿爾伊裹腿【ＧＦ】 |
-| 9847 | Valier GX Leggings | 芙阿爾伊裹腿【ＧＸ】 |
-| 9848 | Lars Greaves | 爾阿爾護腿 |
-| 9849 | Lars F Greaves | 爾阿爾護腿【Ｆ】 |
-| 9850 | Lars FY Greaves | 爾阿爾護腿 |
-| 9851 | Lars HS Greaves | 爾阿爾護腿【ＨＳ】 |
-| 9852 | Lars G Greaves | 爾阿爾護腿【Ｇ】 |
-| 9853 | Lars GF Greaves | 爾阿爾護腿【ＧＦ】 |
-| 9854 | Lars GX Greaves | 爾阿爾護腿【ＧＸ】 |
-| 9855 | Lars Leggings | 爾阿爾裹腿 |
-| 9856 | Lars F Leggings | 爾阿爾裹腿【Ｆ】 |
-| 9857 | Lars FY Leggings | 爾阿爾裹腿 |
-| 9858 | Lars HS Leggings | 爾阿爾裹腿【ＨＳ】 |
-| 9859 | Lars G Leggings | 爾阿爾裹腿【Ｇ】 |
-| 9860 | Lars GF Leggings | 爾阿爾裹腿【ＧＦ】 |
-| 9861 | Lars GX Leggings | 爾阿爾裹腿【ＧＸ】 |
-| 9862 | Shirukku Feet | 夏伊爾烏足 |
-| 9863 | Shirukku F Feet | 夏伊爾烏足【Ｆ】 |
-| 9864 | Shirukku FY Feet | 夏伊爾烏足 |
-| 9865 | Shirukku HS Feet | 夏伊爾烏足【ＨＳ】 |
-| 9866 | Shirukku G Feet | 夏伊爾烏足【Ｇ】 |
-| 9867 | Shirukku GF Feet | 夏伊爾烏足【ＧＦ】 |
-| 9868 | Shirukku GX Feet | 夏伊爾烏足【ＧＸ】 |
-| 9869 | Shirukku Boots | 夏伊爾烏靴 |
-| 9870 | Shirukku F Boots | 夏伊爾烏靴【Ｆ】 |
-| 9871 | Shirukku FY Boots | 夏伊爾烏靴 |
-| 9872 | Shirukku HS Boots | 夏伊爾烏靴【ＨＳ】 |
-| 9873 | Shirukku G Boots | 夏伊爾烏靴【Ｇ】 |
-| 9874 | Shirukku GF Boots | 夏伊爾烏靴【ＧＦ】 |
-| 9875 | Shirukku GX Boots | 夏伊爾烏靴【ＧＸ】 |
-| 9876 | Norukku Feet | 恩歐爾烏足 |
-| 9877 | Norukku F Feet | 恩歐爾烏足【Ｆ】 |
-| 9878 | Norukku FY Feet | 恩歐爾烏足 |
-| 9879 | Norukku HS Feet | 恩歐爾烏足【ＨＳ】 |
-| 9880 | Norukku G Feet | 恩歐爾烏足【Ｇ】 |
-| 9881 | Norukku GF Feet | 恩歐爾烏足【ＧＦ】 |
-| 9882 | Norukku GX Feet | 恩歐爾烏足【ＧＸ】 |
-| 9883 | Norukku Boots | 恩歐爾烏靴 |
-| 9884 | Norukku F Boots | 恩歐爾烏靴【Ｆ】 |
-| 9885 | Norukku FY Boots | 恩歐爾烏靴 |
-| 9886 | Norukku HS Boots | 恩歐爾烏靴【ＨＳ】 |
-| 9887 | Norukku G Boots | 恩歐爾烏靴【Ｇ】 |
-| 9888 | Norukku GF Boots | 恩歐爾烏靴【ＧＦ】 |
-| 9889 | Norukku GX Boots | 恩歐爾烏靴【ＧＸ】 |
-| 9890 | Reiresu G Greaves | 爾艾爾艾護腿【Ｇ】 |
-| 9891 | Reiresu GF Greaves | 爾艾爾艾護腿【ＧＦ】 |
-| 9892 | Reiresu GX Greaves | 爾艾爾艾護腿【ＧＸ】 |
-| 9893 | Reiresu G Leggings | 爾艾爾艾裹腿【Ｇ】 |
-| 9894 | Reiresu GF Leggings | 爾艾爾艾裹腿【ＧＦ】 |
-| 9895 | Reiresu GX Leggings | 爾艾爾艾裹腿【ＧＸ】 |
+| 9834 | Valier Greaves | 瓦莉護腿 |
+| 9835 | Valier F Greaves | 瓦莉護腿【Ｆ】 |
+| 9836 | Valier FY Greaves | 瓦莉護腿 |
+| 9837 | Valier HS Greaves | 瓦莉護腿【ＨＳ】 |
+| 9838 | Valier G Greaves | 瓦莉護腿【Ｇ】 |
+| 9839 | Valier GF Greaves | 瓦莉護腿【ＧＦ】 |
+| 9840 | Valier GX Greaves | 瓦莉護腿【ＧＸ】 |
+| 9841 | Valier Leggings | 瓦莉裹腿 |
+| 9842 | Valier F Leggings | 瓦莉裹腿【Ｆ】 |
+| 9843 | Valier FY Leggings | 瓦莉裹腿 |
+| 9844 | Valier HS Leggings | 瓦莉裹腿【ＨＳ】 |
+| 9845 | Valier G Leggings | 瓦莉裹腿【Ｇ】 |
+| 9846 | Valier GF Leggings | 瓦莉裹腿【ＧＦ】 |
+| 9847 | Valier GX Leggings | 瓦莉裹腿【ＧＸ】 |
+| 9848 | Lars Greaves | 拉護腿 |
+| 9849 | Lars F Greaves | 拉護腿【Ｆ】 |
+| 9850 | Lars FY Greaves | 拉護腿 |
+| 9851 | Lars HS Greaves | 拉護腿【ＨＳ】 |
+| 9852 | Lars G Greaves | 拉護腿【Ｇ】 |
+| 9853 | Lars GF Greaves | 拉護腿【ＧＦ】 |
+| 9854 | Lars GX Greaves | 拉護腿【ＧＸ】 |
+| 9855 | Lars Leggings | 拉裹腿 |
+| 9856 | Lars F Leggings | 拉裹腿【Ｆ】 |
+| 9857 | Lars FY Leggings | 拉裹腿 |
+| 9858 | Lars HS Leggings | 拉裹腿【ＨＳ】 |
+| 9859 | Lars G Leggings | 拉裹腿【Ｇ】 |
+| 9860 | Lars GF Leggings | 拉裹腿【ＧＦ】 |
+| 9861 | Lars GX Leggings | 拉裹腿【ＧＸ】 |
+| 9862 | Shirukku Feet | 古蘿布足 |
+| 9863 | Shirukku F Feet | 古蘿布足【Ｆ】 |
+| 9864 | Shirukku FY Feet | 古蘿布足 |
+| 9865 | Shirukku HS Feet | 古蘿布足【ＨＳ】 |
+| 9866 | Shirukku G Feet | 古蘿布足【Ｇ】 |
+| 9867 | Shirukku GF Feet | 古蘿布足【ＧＦ】 |
+| 9868 | Shirukku GX Feet | 古蘿布足【ＧＸ】 |
+| 9869 | Shirukku Boots | 古蘿布靴 |
+| 9870 | Shirukku F Boots | 古蘿布靴【Ｆ】 |
+| 9871 | Shirukku FY Boots | 古蘿布靴 |
+| 9872 | Shirukku HS Boots | 古蘿布靴【ＨＳ】 |
+| 9873 | Shirukku G Boots | 古蘿布靴【Ｇ】 |
+| 9874 | Shirukku GF Boots | 古蘿布靴【ＧＦ】 |
+| 9875 | Shirukku GX Boots | 古蘿布靴【ＧＸ】 |
+| 9876 | Norukku Feet | 古蘿布足 |
+| 9877 | Norukku F Feet | 古蘿布足【Ｆ】 |
+| 9878 | Norukku FY Feet | 古蘿布足 |
+| 9879 | Norukku HS Feet | 古蘿布足【ＨＳ】 |
+| 9880 | Norukku G Feet | 古蘿布足【Ｇ】 |
+| 9881 | Norukku GF Feet | 古蘿布足【ＧＦ】 |
+| 9882 | Norukku GX Feet | 古蘿布足【ＧＸ】 |
+| 9883 | Norukku Boots | 古蘿布靴 |
+| 9884 | Norukku F Boots | 古蘿布靴【Ｆ】 |
+| 9885 | Norukku FY Boots | 古蘿布靴 |
+| 9886 | Norukku HS Boots | 古蘿布靴【ＨＳ】 |
+| 9887 | Norukku G Boots | 古蘿布靴【Ｇ】 |
+| 9888 | Norukku GF Boots | 古蘿布靴【ＧＦ】 |
+| 9889 | Norukku GX Boots | 古蘿布靴【ＧＸ】 |
+| 9890 | Reiresu G Greaves | 蕾蕾斯護腿【Ｇ】 |
+| 9891 | Reiresu GF Greaves | 蕾蕾斯護腿【ＧＦ】 |
+| 9892 | Reiresu GX Greaves | 蕾蕾斯護腿【ＧＸ】 |
+| 9893 | Reiresu G Leggings | 蕾蕾斯裹腿【Ｇ】 |
+| 9894 | Reiresu GF Leggings | 蕾蕾斯裹腿【ＧＦ】 |
+| 9895 | Reiresu GX Leggings | 蕾蕾斯裹腿【ＧＸ】 |
 | 9896 | Saint G Greaves | 斯阿恩護腿【Ｇ】 |
 | 9897 | Saint GF Greaves | 斯阿恩護腿【ＧＦ】 |
 | 9898 | Saint GX Greaves | 斯阿恩護腿【ＧＸ】 |
@@ -411,30 +411,30 @@
 | 9905 | ハセル Vol Feet HS | 哈塞魯足【ＨＳ】 |
 | 9906 | ハセル Vol Feet GS | 哈塞魯足【ＧＳ】 |
 | 9907 | ハセル Vol Feet GP | 哈塞魯足【ＧＰ】 |
-| 9908 | Solflare Feet | 斯歐爾阿足 |
-| 9909 | Solflare F Feet | 斯歐爾阿足【Ｆ】 |
-| 9910 | Solflare FZ Feet | 斯歐爾阿足【ＦＺ】 |
-| 9911 | Solflare HS Feet | 斯歐爾阿足【ＨＳ】 |
-| 9912 | Solflare GS Feet | 斯歐爾阿足【ＧＳ】 |
-| 9913 | Solflare GP Feet | 斯歐爾阿足【ＧＰ】 |
-| 9914 | Solflare Boots | 斯歐爾阿靴 |
-| 9915 | Solflare F Boots | 斯歐爾阿靴【Ｆ】 |
-| 9916 | Solflare FZ Boots | 斯歐爾阿靴【ＦＺ】 |
-| 9917 | Solflare HS Boots | 斯歐爾阿靴【ＨＳ】 |
-| 9918 | Solflare GS Boots | 斯歐爾阿靴【ＧＳ】 |
-| 9919 | Solflare GP Boots | 斯歐爾阿靴【ＧＰ】 |
-| 9920 | Arben Feet | 阿爾本足 |
-| 9921 | Arben F Feet | 阿爾本足【Ｆ】 |
-| 9922 | Arben FZ Feet | 阿爾本足【ＦＺ】 |
-| 9923 | Arben HS Feet | 阿爾本足【ＨＳ】 |
-| 9924 | Arben GS Feet | 阿爾本足【ＧＳ】 |
-| 9925 | Arben GP Feet | 阿爾本足【ＧＰ】 |
-| 9926 | Arben Boots | 阿爾本靴 |
-| 9927 | Arben F Boots | 阿爾本靴【Ｆ】 |
-| 9928 | Arben FZ Boots | 阿爾本靴【ＦＺ】 |
-| 9929 | Arben HS Boots | 阿爾本靴【ＨＳ】 |
-| 9930 | Arben GS Boots | 阿爾本靴【ＧＳ】 |
-| 9931 | Arben GP Boots | 阿爾本靴【ＧＰ】 |
+| 9908 | Solflare Feet | 索芙蕾足 |
+| 9909 | Solflare F Feet | 索芙蕾足【Ｆ】 |
+| 9910 | Solflare FZ Feet | 索芙蕾足【ＦＺ】 |
+| 9911 | Solflare HS Feet | 索芙蕾足【ＨＳ】 |
+| 9912 | Solflare GS Feet | 索芙蕾足【ＧＳ】 |
+| 9913 | Solflare GP Feet | 索芙蕾足【ＧＰ】 |
+| 9914 | Solflare Boots | 索芙蕾靴 |
+| 9915 | Solflare F Boots | 索芙蕾靴【Ｆ】 |
+| 9916 | Solflare FZ Boots | 索芙蕾靴【ＦＺ】 |
+| 9917 | Solflare HS Boots | 索芙蕾靴【ＨＳ】 |
+| 9918 | Solflare GS Boots | 索芙蕾靴【ＧＳ】 |
+| 9919 | Solflare GP Boots | 索芙蕾靴【ＧＰ】 |
+| 9920 | Arben Feet | 亞露貝恩足 |
+| 9921 | Arben F Feet | 亞露貝恩足【Ｆ】 |
+| 9922 | Arben FZ Feet | 亞露貝恩足【ＦＺ】 |
+| 9923 | Arben HS Feet | 亞露貝恩足【ＨＳ】 |
+| 9924 | Arben GS Feet | 亞露貝恩足【ＧＳ】 |
+| 9925 | Arben GP Feet | 亞露貝恩足【ＧＰ】 |
+| 9926 | Arben Boots | 亞露貝恩靴 |
+| 9927 | Arben F Boots | 亞露貝恩靴【Ｆ】 |
+| 9928 | Arben FZ Boots | 亞露貝恩靴【ＦＺ】 |
+| 9929 | Arben HS Boots | 亞露貝恩靴【ＨＳ】 |
+| 9930 | Arben GS Boots | 亞露貝恩靴【ＧＳ】 |
+| 9931 | Arben GP Boots | 亞露貝恩靴【ＧＰ】 |
 | 9932 | Keravuno Feet | 凱拉武諾足 |
 | 9933 | Keravuno F Feet | 凱拉武諾足【Ｆ】 |
 | 9934 | Keravuno FZ Feet | 凱拉武諾足【ＦＺ】 |
@@ -487,8 +487,8 @@
 | 9981 | Flame GX Leggings | 炎裹腿【ＧＸ】 |
 | 9982 | Furoru GX Leg | 弗羅魯腿【ＧＸ】 |
 | 9983 | Furoru GX Boots | 弗羅魯靴【ＧＸ】 |
-| 9984 | Varusa GX Greaves | 芙阿爾烏護腿【ＧＸ】 |
-| 9985 | Varusa GX Leggings | 芙阿爾烏裹腿【ＧＸ】 |
+| 9984 | Varusa GX Greaves | 瓦露薩護腿【ＧＸ】 |
+| 9985 | Varusa GX Leggings | 瓦露薩裹腿【ＧＸ】 |
 | 9986 | Stygian Greaves | 斯伊恩護腿 |
 | 9987 | Stygian G Greaves | 斯伊恩護腿【Ｇ】 |
 | 9988 | Stygian GF Greaves | 斯伊恩護腿【ＧＦ】 |

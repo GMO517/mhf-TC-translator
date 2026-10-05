@@ -180,16 +180,16 @@
 | 4174 | ダミー | (dummy) |
 | 4175 | ダミー | (dummy) |
 | 4176 | ダミー | (dummy) |
-| 4177 | ヴェルフHS Mail | 維爾夫鎧甲【ＨＳ】 |
-| 4178 | ヴェルフGS Mail | 維爾夫鎧甲【ＧＳ】 |
-| 4179 | ヴェルフHS Vest | 維爾夫背心【ＨＳ】 |
-| 4180 | ヴェルフGS Vest | 維爾夫背心【ＧＳ】 |
+| 4177 | ヴェルフHS Mail | 薇露芙鎧甲【ＨＳ】 |
+| 4178 | ヴェルフGS Mail | 薇露芙鎧甲【ＧＳ】 |
+| 4179 | ヴェルフHS Vest | 薇露芙背心【ＨＳ】 |
+| 4180 | ヴェルフGS Vest | 薇露芙背心【ＧＳ】 |
 | 4181 | テリオグHS Mail | 特里歐古鎧甲【ＨＳ】 |
 | 4182 | テリオグGS Mail | 特里歐古鎧甲【ＧＳ】 |
 | 4183 | テリオグHS Vest | 特里歐古背心【ＨＳ】 |
 | 4184 | テリオグGS Vest | 特里歐古背心【ＧＳ】 |
-| 4185 | Beil HS Brigantes | 布艾爾伊鎧甲【ＨＳ】 |
-| 4186 | Beil GS Brigantes | 布艾爾伊鎧甲【ＧＳ】 |
+| 4185 | Beil HS Brigantes | 貝布加特鎧甲【ＨＳ】 |
+| 4186 | Beil GS Brigantes | 貝布加特鎧甲【ＧＳ】 |
 | 4187 | Veloci G Mail | 藍速龍鎧甲【Ｇ】 |
 | 4188 | Veloci GF Mail | 藍速龍鎧甲【ＧＦ】 |
 | 4189 | Veloci GX Mail | 藍速龍鎧甲【ＧＸ】 |
@@ -252,22 +252,22 @@
 | 4246 | Stroma F Vest | 基質背心【Ｆ】 |
 | 4247 | Stroma FX Vest | 基質背心【ＦＸ】 |
 | 4248 | Stroma G Vest | 基質背心【Ｇ】 |
-| 4249 | Plunder G Mail | 普烏恩艾鎧甲【Ｇ】 |
-| 4250 | Plunder GF Mail | 普烏恩艾鎧甲【ＧＦ】 |
-| 4251 | Plunder GX Mail | 普烏恩艾鎧甲【ＧＸ】 |
-| 4252 | Plunder G Vest | 普烏恩艾背心【Ｇ】 |
-| 4253 | Plunder GF Vest | 普烏恩艾背心【ＧＦ】 |
-| 4254 | Plunder GX Vest | 普烏恩艾背心【ＧＸ】 |
-| 4255 | Altera Mail | 阿爾艾爾鎧甲 |
-| 4256 | Altera F Mail | 阿爾艾爾鎧甲【Ｆ】 |
-| 4257 | Altera FX Mail | 阿爾艾爾鎧甲【ＦＸ】 |
-| 4258 | Altera G Mail | 阿爾艾爾鎧甲【Ｇ】 |
-| 4259 | Altera GF Mail | 阿爾艾爾鎧甲【ＧＦ】 |
-| 4260 | Altera Vest | 阿爾艾爾背心 |
-| 4261 | Altera F Vest | 阿爾艾爾背心【Ｆ】 |
-| 4262 | Altera FX Vest | 阿爾艾爾背心【ＦＸ】 |
-| 4263 | Altera G Vest | 阿爾艾爾背心【Ｇ】 |
-| 4264 | Altera GF Vest | 阿爾艾爾背心【ＧＦ】 |
+| 4249 | Plunder G Mail | 露恩德鎧甲【Ｇ】 |
+| 4250 | Plunder GF Mail | 露恩德鎧甲【ＧＦ】 |
+| 4251 | Plunder GX Mail | 露恩德鎧甲【ＧＸ】 |
+| 4252 | Plunder G Vest | 露恩德背心【Ｇ】 |
+| 4253 | Plunder GF Vest | 露恩德背心【ＧＦ】 |
+| 4254 | Plunder GX Vest | 露恩德背心【ＧＸ】 |
+| 4255 | Altera Mail | 特拉鎧甲 |
+| 4256 | Altera F Mail | 特拉鎧甲【Ｆ】 |
+| 4257 | Altera FX Mail | 特拉鎧甲【ＦＸ】 |
+| 4258 | Altera G Mail | 特拉鎧甲【Ｇ】 |
+| 4259 | Altera GF Mail | 特拉鎧甲【ＧＦ】 |
+| 4260 | Altera Vest | 特拉背心 |
+| 4261 | Altera F Vest | 特拉背心【Ｆ】 |
+| 4262 | Altera FX Vest | 特拉背心【ＦＸ】 |
+| 4263 | Altera G Vest | 特拉背心【Ｇ】 |
+| 4264 | Altera GF Vest | 特拉背心【ＧＦ】 |
 | 4265 | Dragon G Hide | 龍皮衣【Ｇ】 |
 | 4266 | Dragon GF Hide | 龍皮衣【ＧＦ】 |
 | 4267 | Dragon GX Hide | 龍皮衣【ＧＸ】 |

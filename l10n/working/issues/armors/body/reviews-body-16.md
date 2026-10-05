@@ -4,70 +4,70 @@
 
 | index | 原文 | 譯文 |
 |---|---|---|
-| 7501 | Yurisu GX Mail | 伊烏爾伊鎧甲【ＧＸ】 |
-| 7502 | Yurisu Vest | 伊烏爾伊背心 |
-| 7503 | Yurisu F Vest | 伊烏爾伊背心【Ｆ】 |
-| 7504 | Yurisu FY Vest | 伊烏爾伊背心 |
-| 7505 | Yurisu HS Vest | 伊烏爾伊背心【ＨＳ】 |
-| 7506 | Yurisu G Vest | 伊烏爾伊背心【Ｇ】 |
-| 7507 | Yurisu GF Vest | 伊烏爾伊背心【ＧＦ】 |
-| 7508 | Yurisu GX Vest | 伊烏爾伊背心【ＧＸ】 |
+| 7501 | Yurisu GX Mail | 尤里斯鎧甲【ＧＸ】 |
+| 7502 | Yurisu Vest | 尤里斯背心 |
+| 7503 | Yurisu F Vest | 尤里斯背心【Ｆ】 |
+| 7504 | Yurisu FY Vest | 尤里斯背心 |
+| 7505 | Yurisu HS Vest | 尤里斯背心【ＨＳ】 |
+| 7506 | Yurisu G Vest | 尤里斯背心【Ｇ】 |
+| 7507 | Yurisu GF Vest | 尤里斯背心【ＧＦ】 |
+| 7508 | Yurisu GX Vest | 尤里斯背心【ＧＸ】 |
 | 7509 | Desordre Mail | 無序鎧甲 |
 | 7510 | Desordre F Mail | 無序鎧甲【Ｆ】 |
-| 7511 | Desordre FY Mail | 德艾斯歐鎧甲 |
+| 7511 | Desordre FY Mail | 德索德鎧甲 |
 | 7512 | Desordre HS Mail | 無序鎧甲【ＨＳ】 |
 | 7513 | Desordre G Mail | 無序鎧甲【Ｇ】 |
 | 7514 | Desordre GF Mail | 無序鎧甲【ＧＦ】 |
 | 7515 | Desordre GX Mail | 無序鎧甲【ＧＸ】 |
 | 7516 | Desordre Vest | 無序背心 |
 | 7517 | Desordre F Vest | 無序背心【Ｆ】 |
-| 7518 | Desordre FY Vest | 德艾斯歐背心 |
+| 7518 | Desordre FY Vest | 德索德背心 |
 | 7519 | Desordre HS Vest | 無序背心【ＨＳ】 |
 | 7520 | Desordre G Vest | 無序背心【Ｇ】 |
 | 7521 | Desordre GF Vest | 無序背心【ＧＦ】 |
 | 7522 | Desordre GX Vest | 無序背心【ＧＸ】 |
-| 7523 | Carmine Coat Black | 克阿爾伊鎧甲・黑 |
-| 7524 | Carmine F Coat Black | 克阿爾伊鎧甲【Ｆ】・黑 |
-| 7525 | Carmine FZ Coat Black | 克阿爾伊鎧甲【ＦＺ】・黑 |
-| 7526 | Carmine HS Coat Black | 克阿爾伊鎧甲【ＨＳ】・黑 |
-| 7527 | Carmine GS Coat Black | 克阿爾伊鎧甲【ＧＳ】・黑 |
-| 7528 | Carmine GP Coat Black | 克阿爾伊鎧甲【ＧＰ】・黑 |
+| 7523 | Carmine Coat Black | 可姆奈古鎧甲・黑 |
+| 7524 | Carmine F Coat Black | 可姆奈古鎧甲【Ｆ】・黑 |
+| 7525 | Carmine FZ Coat Black | 可姆奈古鎧甲【ＦＺ】・黑 |
+| 7526 | Carmine HS Coat Black | 可姆奈古鎧甲【ＨＳ】・黑 |
+| 7527 | Carmine GS Coat Black | 可姆奈古鎧甲【ＧＳ】・黑 |
+| 7528 | Carmine GP Coat Black | 可姆奈古鎧甲【ＧＰ】・黑 |
 | 7529 | Carmine Suit Black | 深紅套裝・黑 |
 | 7530 | Carmine F Suit Black | 深紅套裝【Ｆ】・黑 |
 | 7531 | Carmine FZ Suit Black | 深紅套裝【ＦＺ】・黑 |
 | 7532 | Carmine HS Suit Black | 深紅套裝【ＨＳ】・黑 |
 | 7533 | Carmine GS Suit Black | 深紅套裝【ＧＳ】・黑 |
 | 7534 | Carmine GP Suit Black | 深紅套裝【ＧＰ】・黑 |
-| 7535 | Carmine Coat Blue | 克阿爾伊鎧甲・青 |
-| 7536 | Carmine F Coat Blue | 克阿爾伊鎧甲【Ｆ】・青 |
-| 7537 | Carmine FZ Coat Blue | 克阿爾伊鎧甲【ＦＺ】・青 |
-| 7538 | Carmine HS Coat Blue | 克阿爾伊鎧甲【ＨＳ】・青 |
-| 7539 | Carmine GS Coat Blue | 克阿爾伊鎧甲【ＧＳ】・青 |
-| 7540 | Carmine GP Coat Blue | 克阿爾伊鎧甲【ＧＰ】・青 |
+| 7535 | Carmine Coat Blue | 可姆奈古鎧甲・青 |
+| 7536 | Carmine F Coat Blue | 可姆奈古鎧甲【Ｆ】・青 |
+| 7537 | Carmine FZ Coat Blue | 可姆奈古鎧甲【ＦＺ】・青 |
+| 7538 | Carmine HS Coat Blue | 可姆奈古鎧甲【ＨＳ】・青 |
+| 7539 | Carmine GS Coat Blue | 可姆奈古鎧甲【ＧＳ】・青 |
+| 7540 | Carmine GP Coat Blue | 可姆奈古鎧甲【ＧＰ】・青 |
 | 7541 | Carmine Suit Blue | 深紅套裝・青 |
 | 7542 | Carmine F Suit Blue | 深紅套裝【Ｆ】・青 |
 | 7543 | Carmine FZ Suit Blue | 深紅套裝【ＦＺ】・青 |
 | 7544 | Carmine HS Suit Blue | 深紅套裝【ＨＳ】・青 |
 | 7545 | Carmine GS Suit Blue | 深紅套裝【ＧＳ】・青 |
 | 7546 | Carmine GP Suit Blue | 深紅套裝【ＧＰ】・青 |
-| 7547 | Carmine Coat Purple | 克阿爾伊鎧甲・紫 |
-| 7548 | Carmine F Coat Purple | 克阿爾伊鎧甲【Ｆ】・紫 |
-| 7549 | Carmine FZ Coat Purple | 克阿爾伊鎧甲【ＦＺ】・紫 |
-| 7550 | Carmine HS Coat Purple | 克阿爾伊鎧甲【ＨＳ】・紫 |
-| 7551 | Carmine GS Coat Purple | 克阿爾伊鎧甲【ＧＳ】・紫 |
-| 7552 | Carmine GP Coat Purple | 克阿爾伊鎧甲【ＧＰ】・紫 |
+| 7547 | Carmine Coat Purple | 可姆奈古鎧甲・紫 |
+| 7548 | Carmine F Coat Purple | 可姆奈古鎧甲【Ｆ】・紫 |
+| 7549 | Carmine FZ Coat Purple | 可姆奈古鎧甲【ＦＺ】・紫 |
+| 7550 | Carmine HS Coat Purple | 可姆奈古鎧甲【ＨＳ】・紫 |
+| 7551 | Carmine GS Coat Purple | 可姆奈古鎧甲【ＧＳ】・紫 |
+| 7552 | Carmine GP Coat Purple | 可姆奈古鎧甲【ＧＰ】・紫 |
 | 7553 | Carmine Suit Purple | 深紅套裝・紫 |
 | 7554 | Carmine F Suit Purple | 深紅套裝【Ｆ】・紫 |
 | 7555 | Carmine FZ Suit Purple | 深紅套裝【ＦＺ】・紫 |
 | 7556 | Carmine HS Suit Purple | 深紅套裝【ＨＳ】・紫 |
 | 7557 | Carmine GS Suit Purple | 深紅套裝【ＧＳ】・紫 |
 | 7558 | Carmine GP Suit Purple | 深紅套裝【ＧＰ】・紫 |
-| 7559 | Carmine Coat White | 克阿爾伊鎧甲・白 |
-| 7560 | Carmine F Coat White | 克阿爾伊鎧甲【Ｆ】・白 |
-| 7561 | Carmine FZ Coat White | 克阿爾伊鎧甲【ＦＺ】・白 |
-| 7562 | Carmine HS Coat White | 克阿爾伊鎧甲【ＨＳ】・白 |
-| 7563 | Carmine GS Coat White | 克阿爾伊鎧甲【ＧＳ】・白 |
-| 7564 | Carmine GP Coat White | 克阿爾伊鎧甲【ＧＰ】・白 |
+| 7559 | Carmine Coat White | 可姆奈古鎧甲・白 |
+| 7560 | Carmine F Coat White | 可姆奈古鎧甲【Ｆ】・白 |
+| 7561 | Carmine FZ Coat White | 可姆奈古鎧甲【ＦＺ】・白 |
+| 7562 | Carmine HS Coat White | 可姆奈古鎧甲【ＨＳ】・白 |
+| 7563 | Carmine GS Coat White | 可姆奈古鎧甲【ＧＳ】・白 |
+| 7564 | Carmine GP Coat White | 可姆奈古鎧甲【ＧＰ】・白 |
 | 7565 | Carmine Suit White | 深紅套裝・白 |
 | 7566 | Carmine F Suit White | 深紅套裝【Ｆ】・白 |
 | 7567 | Carmine FZ Suit White | 深紅套裝【ＦＺ】・白 |
@@ -170,18 +170,18 @@
 | 7664 | ランデグHS Suit | 拉恩德古套裝【ＨＳ】 |
 | 7665 | ランデグGS Suit | 拉恩德古套裝【ＧＳ】 |
 | 7666 | ランデグGP Suit | 拉恩德古套裝【ＧＰ】 |
-| 7667 | Endre Mail | 艾恩艾鎧甲 |
-| 7668 | Endre F Mail | 艾恩艾鎧甲【Ｆ】 |
-| 7669 | Endre FZ Mail | 艾恩艾鎧甲【ＦＺ】 |
-| 7670 | Endre HS Mail | 艾恩艾鎧甲【ＨＳ】 |
-| 7671 | Endre GS Mail | 艾恩艾鎧甲【ＧＳ】 |
-| 7672 | Endre GP Mail | 艾恩艾鎧甲【ＧＰ】 |
-| 7673 | Endre Suit | 艾恩艾套裝 |
-| 7674 | Endre F Suit | 艾恩艾套裝【Ｆ】 |
-| 7675 | Endre FZ Suit | 艾恩艾套裝【ＦＺ】 |
-| 7676 | Endre HS Suit | 艾恩艾套裝【ＨＳ】 |
-| 7677 | Endre GS Suit | 艾恩艾套裝【ＧＳ】 |
-| 7678 | Endre GP Suit | 艾恩艾套裝【ＧＰ】 |
+| 7667 | Endre Mail | 恩德蕾鎧甲 |
+| 7668 | Endre F Mail | 恩德蕾鎧甲【Ｆ】 |
+| 7669 | Endre FZ Mail | 恩德蕾鎧甲【ＦＺ】 |
+| 7670 | Endre HS Mail | 恩德蕾鎧甲【ＨＳ】 |
+| 7671 | Endre GS Mail | 恩德蕾鎧甲【ＧＳ】 |
+| 7672 | Endre GP Mail | 恩德蕾鎧甲【ＧＰ】 |
+| 7673 | Endre Suit | 恩德蕾套裝 |
+| 7674 | Endre F Suit | 恩德蕾套裝【Ｆ】 |
+| 7675 | Endre FZ Suit | 恩德蕾套裝【ＦＺ】 |
+| 7676 | Endre HS Suit | 恩德蕾套裝【ＨＳ】 |
+| 7677 | Endre GS Suit | 恩德蕾套裝【ＧＳ】 |
+| 7678 | Endre GP Suit | 恩德蕾套裝【ＧＰ】 |
 | 7679 | Sagittario Coat Red | 斯阿格伊鎧甲・赤 |
 | 7680 | Sagittario F Coat Red | 斯阿格伊鎧甲【Ｆ】・赤 |
 | 7681 | Sagittario FZ Coat Red | 斯阿格伊鎧甲【ＦＺ】・赤 |
@@ -308,16 +308,16 @@
 | 7802 | Motion G【胴当て】 | 律動胴當【Ｇ】 |
 | 7803 | Motion GF【胴当て】 | 律動胴當【ＧＦ】 |
 | 7804 | Motion GX【胴当て】 | 律動胴當【ＧＸ】 |
-| 7805 | Pobo Mail | 普歐布歐鎧甲 |
-| 7806 | Pobo F Mail | 普歐布歐鎧甲【Ｆ】 |
-| 7807 | Pobo FX Mail | 普歐布歐鎧甲【ＦＸ】 |
-| 7808 | Pobo G Mail | 普歐布歐鎧甲【Ｇ】 |
-| 7809 | Pobo GF Mail | 普歐布歐鎧甲【ＧＦ】 |
-| 7810 | Pobo Vest | 普歐布歐背心 |
-| 7811 | Pobo F Vest | 普歐布歐背心【Ｆ】 |
-| 7812 | Pobo FX Vest | 普歐布歐背心【ＦＸ】 |
-| 7813 | Pobo G Vest | 普歐布歐背心【Ｇ】 |
-| 7814 | Pobo GF Vest | 普歐布歐背心【ＧＦ】 |
+| 7805 | Pobo Mail | 珀波鎧甲 |
+| 7806 | Pobo F Mail | 珀波鎧甲【Ｆ】 |
+| 7807 | Pobo FX Mail | 珀波鎧甲【ＦＸ】 |
+| 7808 | Pobo G Mail | 珀波鎧甲【Ｇ】 |
+| 7809 | Pobo GF Mail | 珀波鎧甲【ＧＦ】 |
+| 7810 | Pobo Vest | 珀波背心 |
+| 7811 | Pobo F Vest | 珀波背心【Ｆ】 |
+| 7812 | Pobo FX Vest | 珀波背心【ＦＸ】 |
+| 7813 | Pobo G Vest | 珀波背心【Ｇ】 |
+| 7814 | Pobo GF Vest | 珀波背心【ＧＦ】 |
 | 7815 | Rath Soul G Mail | 火龍魂鎧甲【Ｇ】 |
 | 7816 | Rath Soul GF Mail | 火龍魂鎧甲【ＧＦ】 |
 | 7817 | Rath Soul GX Mail | 火龍魂鎧甲【ＧＸ】 |
@@ -354,18 +354,18 @@
 | 7848 | Hevria HS Suit | 赫芙莉亞套裝【ＨＳ】 |
 | 7849 | Hevria GS Suit | 赫芙莉亞套裝【ＧＳ】 |
 | 7850 | Hevria GP Suit | 赫芙莉亞套裝【ＧＰ】 |
-| 7851 | Tiuru Vest | 提烏魯背心 |
-| 7852 | Tiuru F Vest | 提烏魯背心【Ｆ】 |
-| 7853 | Tiuru FZ Vest | 提烏魯背心【ＦＺ】 |
-| 7854 | Tiuru HS Vest | 提烏魯背心【ＨＳ】 |
-| 7855 | Tiuru GS Vest | 提烏魯背心【ＧＳ】 |
-| 7856 | Tiuru GP Vest | 提烏魯背心【ＧＰ】 |
-| 7857 | Tiuru Suit | 提烏魯套裝 |
-| 7858 | Tiuru F Suit | 提烏魯套裝【Ｆ】 |
-| 7859 | Tiuru FZ Suit | 提烏魯套裝【ＦＺ】 |
-| 7860 | Tiuru HS Suit | 提烏魯套裝【ＨＳ】 |
-| 7861 | Tiuru GS Suit | 提烏魯套裝【ＧＳ】 |
-| 7862 | Tiuru GP Suit | 提烏魯套裝【ＧＰ】 |
+| 7851 | Tiuru Vest | 蒂宇露背心 |
+| 7852 | Tiuru F Vest | 蒂宇露背心【Ｆ】 |
+| 7853 | Tiuru FZ Vest | 蒂宇露背心【ＦＺ】 |
+| 7854 | Tiuru HS Vest | 蒂宇露背心【ＨＳ】 |
+| 7855 | Tiuru GS Vest | 蒂宇露背心【ＧＳ】 |
+| 7856 | Tiuru GP Vest | 蒂宇露背心【ＧＰ】 |
+| 7857 | Tiuru Suit | 蒂宇露套裝 |
+| 7858 | Tiuru F Suit | 蒂宇露套裝【Ｆ】 |
+| 7859 | Tiuru FZ Suit | 蒂宇露套裝【ＦＺ】 |
+| 7860 | Tiuru HS Suit | 蒂宇露套裝【ＨＳ】 |
+| 7861 | Tiuru GS Suit | 蒂宇露套裝【ＧＳ】 |
+| 7862 | Tiuru GP Suit | 蒂宇露套裝【ＧＰ】 |
 | 7863 | Bande Vest・Blue | 飾帶背心・青 |
 | 7864 | Bande F Vest・Blue | 飾帶背心【Ｆ】・青 |
 | 7865 | Bande FZ Vest・Blue | 飾帶背心【ＦＺ】・青 |

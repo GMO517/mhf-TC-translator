@@ -7,10 +7,10 @@
 | 1501 | Robust Fハトゥー | 剛健臂甲【Ｆ】 |
 | 1502 | Robust フィスト | 剛健拳 |
 | 1503 | Robust Fフィスト | 剛健拳【Ｆ】 |
-| 1504 | Kukubo Arms | 克烏克烏護腕 |
-| 1505 | Kukubo F Arms | 克烏克烏護腕【Ｆ】 |
-| 1506 | Kukubo Guard | 克烏克烏臂甲 |
-| 1507 | Kukubo F Guard | 克烏克烏臂甲【Ｆ】 |
+| 1504 | Kukubo Arms | 克克波護腕 |
+| 1505 | Kukubo F Arms | 克克波護腕【Ｆ】 |
+| 1506 | Kukubo Guard | 克克波臂甲 |
+| 1507 | Kukubo F Guard | 克克波臂甲【Ｆ】 |
 | 1508 | Falco Arms | 隼護腕 |
 | 1509 | Falco F Arms | 隼護腕【Ｆ】 |
 | 1510 | Falco Guard | 隼臂甲 |
@@ -95,10 +95,10 @@
 | 1589 | Steno F Arms・Red | 水竜護腕【Ｆ】・赤 |
 | 1590 | Steno Guard・Red | 水竜臂甲・赤 |
 | 1591 | Steno F Guard・Red | 水竜臂甲【Ｆ】・赤 |
-| 1592 | Jumpin' Arms | 傑烏姆伊護腕 |
-| 1593 | Jumpin' F Arms | 傑烏姆伊護腕【Ｆ】 |
-| 1594 | Jumpin' Guard | 傑烏姆伊臂甲 |
-| 1595 | Jumpin' F Guard | 傑烏姆伊臂甲【Ｆ】 |
+| 1592 | Jumpin' Arms | 朱皮護腕 |
+| 1593 | Jumpin' F Arms | 朱皮護腕【Ｆ】 |
+| 1594 | Jumpin' Guard | 朱皮臂甲 |
+| 1595 | Jumpin' F Guard | 朱皮臂甲【Ｆ】 |
 | 1596 | アデュス Arms | 阿杜斯護腕 |
 | 1597 | アデュスF Arms | 阿杜斯護腕【Ｆ】 |
 | 1598 | アデュス Guard | 阿杜斯臂甲 |
@@ -107,14 +107,14 @@
 | 1601 | Metenera F Arms | 梅特涅拉護腕【Ｆ】 |
 | 1602 | Metenera Guard | 梅特涅拉臂甲 |
 | 1603 | Metenera F Guard | 梅特涅拉臂甲【Ｆ】 |
-| 1604 | Excelle Arms | 艾克斯艾護腕 |
-| 1605 | Excelle F Arms | 艾克斯艾護腕【Ｆ】 |
-| 1606 | Excelle Guard | 艾克斯艾臂甲 |
-| 1607 | Excelle F Guard | 艾克斯艾臂甲【Ｆ】 |
-| 1608 | Pupen Arms | 普烏普艾護腕 |
-| 1609 | Pupen F Arms | 普烏普艾護腕【Ｆ】 |
-| 1610 | Pupen Guard | 普烏普艾臂甲 |
-| 1611 | Pupen F Guard | 普烏普艾臂甲【Ｆ】 |
+| 1604 | Excelle Arms | 克斯賽爾護腕 |
+| 1605 | Excelle F Arms | 克斯賽爾護腕【Ｆ】 |
+| 1606 | Excelle Guard | 克斯賽爾臂甲 |
+| 1607 | Excelle F Guard | 克斯賽爾臂甲【Ｆ】 |
+| 1608 | Pupen Arms | 普佩護腕 |
+| 1609 | Pupen F Arms | 普佩護腕【Ｆ】 |
+| 1610 | Pupen Guard | 普佩臂甲 |
+| 1611 | Pupen F Guard | 普佩臂甲【Ｆ】 |
 | 1612 | Moss Covered Arms | 苔覆護腕 |
 | 1613 | Moss Covered F Arms | 苔覆護腕【Ｆ】 |
 | 1614 | Moss Covered Guard | 苔覆臂甲 |
@@ -152,9 +152,9 @@
 | 1646 | Ruko Fフィスト | 極龍拳【Ｆ】 |
 | 1647 | Blitz Arms | 布伊特護腕 |
 | 1648 | Blitz グローブ | 布伊特手套 |
-| 1649 | Lils Arms | 爾伊爾護腕 |
+| 1649 | Lils Arms | 莉護腕 |
 | 1650 | ダミー | (dummy) |
-| 1651 | Lils Guard | 爾伊爾臂甲 |
+| 1651 | Lils Guard | 莉臂甲 |
 | 1652 | ダミー | (dummy) |
 | 1653 | Kagura FX【 Kote 】 | 神樂籠手【ＦＸ】 |
 | 1654 | Kamiza FX【 Kote 】 | 上座籠手【ＦＸ】 |
@@ -206,12 +206,12 @@
 | 1700 | ルルスF Arms | 魯魯斯護腕【Ｆ】 |
 | 1701 | Nada Guard | 恩阿德阿臂甲 |
 | 1702 | Nada F Guard | 恩阿德阿臂甲【Ｆ】 |
-| 1703 | Rosa Arms | 爾歐斯阿護腕 |
-| 1704 | Rosa F Arms | 爾歐斯阿護腕【Ｆ】 |
+| 1703 | Rosa Arms | 蘿薩護腕 |
+| 1704 | Rosa F Arms | 蘿薩護腕【Ｆ】 |
 | 1705 | Haosu Arms | 赫阿斯烏護腕 |
 | 1706 | Haosu F Arms | 赫阿斯烏護腕【Ｆ】 |
-| 1707 | Miru Arms | 姆伊爾烏護腕 |
-| 1708 | Miru F Arms | 姆伊爾烏護腕【Ｆ】 |
+| 1707 | Miru Arms | 蜜露護腕 |
+| 1708 | Miru F Arms | 蜜露護腕【Ｆ】 |
 | 1709 | Pasu Guard | 普阿斯烏臂甲 |
 | 1710 | Pasu F Guard | 普阿斯烏臂甲【Ｆ】 |
 | 1711 | Randa の Gauntlets・Yellow | 爾阿恩阿手甲・黄 |
@@ -278,24 +278,24 @@
 | 1772 | Heaven 空F腕環 | 空腕環天護腕 |
 | 1773 | Heaven 昇腕環 | 昇腕環天護腕 |
 | 1774 | Heaven 昇F腕環 | 昇腕環天護腕 |
-| 1775 | Jeamu Arms | 傑艾姆烏護腕 |
-| 1776 | Jeamu F Arms | 傑艾姆烏護腕【Ｆ】 |
-| 1777 | Amyusu Arms | 阿姆烏斯護腕 |
-| 1778 | Amyusu F Arms | 阿姆烏斯護腕【Ｆ】 |
+| 1775 | Jeamu Arms | 傑姆護腕 |
+| 1776 | Jeamu F Arms | 傑姆護腕【Ｆ】 |
+| 1777 | Amyusu Arms | 尤斯護腕 |
+| 1778 | Amyusu F Arms | 尤斯護腕【Ｆ】 |
 | 1779 | Clevan Arms | 克艾芙阿護腕 |
 | 1780 | Clevan F Arms | 克艾芙阿護腕【Ｆ】 |
-| 1781 | Meterosu Guard | 姆艾特艾臂甲 |
-| 1782 | Meterosu F Guard | 姆艾特艾臂甲【Ｆ】 |
+| 1781 | Meterosu Guard | 梅特蘿斯臂甲 |
+| 1782 | Meterosu F Guard | 梅特蘿斯臂甲【Ｆ】 |
 | 1783 | Shipureru Arms | 夏伊普烏護腕 |
 | 1784 | Shipureru F Arms | 夏伊普烏護腕【Ｆ】 |
-| 1785 | Toresupa Arms | 特歐爾艾護腕 |
-| 1786 | Toresupa F Arms | 特歐爾艾護腕【Ｆ】 |
-| 1787 | Suteraru Arms | 斯烏特艾護腕 |
-| 1788 | Suteraru F Arms | 斯烏特艾護腕【Ｆ】 |
+| 1785 | Toresupa Arms | 托蕾斯拍護腕 |
+| 1786 | Toresupa F Arms | 托蕾斯拍護腕【Ｆ】 |
+| 1787 | Suteraru Arms | 斯特拉露護腕 |
+| 1788 | Suteraru F Arms | 斯特拉露護腕【Ｆ】 |
 | 1789 | Hakyura Guard | 赫阿克烏臂甲 |
 | 1790 | Hakyura F Guard | 赫阿克烏臂甲【Ｆ】 |
-| 1791 | Orutemo F Arms | 歐爾烏特護腕【Ｆ】 |
-| 1792 | Orutemo F Guard | 歐爾烏特臂甲【Ｆ】 |
+| 1791 | Orutemo F Arms | 露特莫護腕【Ｆ】 |
+| 1792 | Orutemo F Guard | 露特莫臂甲【Ｆ】 |
 | 1793 | 忍の Kote・陰 SP Yellow | 忍の陰籠手【ＳＰ】・黄 |
 | 1794 | 忍の Kote・陰 SP Red | 忍の陰籠手【ＳＰ】・赤 |
 | 1795 | 忍の Kote・陰 SP Blue | 忍の陰籠手【ＳＰ】・青 |
@@ -307,17 +307,17 @@
 | 1801 | K.Lobster Guard SP Blue | 王龍蝦臂甲【ＳＰ】・青 |
 | 1802 | Aneshisu F Arms | 阿恩艾夏護腕【Ｆ】 |
 | 1803 | Aneshisu F Guard | 阿恩艾夏臂甲【Ｆ】 |
-| 1804 | Buran F Arms | 布烏爾阿護腕【Ｆ】 |
+| 1804 | Buran F Arms | 布拉護腕【Ｆ】 |
 | 1805 | Zwinger Arms | 茲伊恩艾護腕 |
 | 1806 | Zwinger Guard | 茲伊恩艾臂甲 |
 | 1807 | Demon Lord Kote・魁 | 魔王籠手魁 |
 | 1808 | 童子ノ Kote・魁 | 童子魁籠手 |
 | 1809 | Melan F Arms | 紫黑護腕【Ｆ】 |
 | 1810 | Melan F Guard | 紫黑臂甲【Ｆ】 |
-| 1811 | Buto F Arms | 布烏特歐護腕【Ｆ】 |
-| 1812 | Himeros FX Arms | 赫伊姆艾護腕【ＦＸ】 |
+| 1811 | Buto F Arms | 布托護腕【Ｆ】 |
+| 1812 | Himeros FX Arms | 希梅蘿護腕【ＦＸ】 |
 | 1813 | Charien FX Guard | 夏里安臂甲【ＦＸ】 |
-| 1814 | Bureshisu FX Arms | 布烏爾艾護腕【ＦＸ】 |
+| 1814 | Bureshisu FX Arms | 布蕾修斯護腕【ＦＸ】 |
 | 1815 | Rathalos LX Arms | 雄火龍護腕 |
 | 1816 | Rath Soul RX Arms | 火龍魂護腕 |
 | 1817 | Khezu LX Arms | 奇怪龍護腕 |
@@ -352,14 +352,14 @@
 | 1846 | Rail F Arms | 軌護腕【Ｆ】 |
 | 1847 | Rail Guard | 軌臂甲 |
 | 1848 | Rail F Guard | 軌臂甲【Ｆ】 |
-| 1849 | Rudeos Arms | 爾烏德艾護腕 |
-| 1850 | Rudeos F Arms | 爾烏德艾護腕【Ｆ】 |
-| 1851 | Rudeos Guard | 爾烏德艾臂甲 |
-| 1852 | Rudeos F Guard | 爾烏德艾臂甲【Ｆ】 |
-| 1853 | Orchesis Arms | 歐爾艾斯護腕 |
-| 1854 | Orchesis F Arms | 歐爾艾斯護腕【Ｆ】 |
-| 1855 | Orchesis Guard | 歐爾艾斯臂甲 |
-| 1856 | Orchesis F Guard | 歐爾艾斯臂甲【Ｆ】 |
+| 1849 | Rudeos Arms | 露德護腕 |
+| 1850 | Rudeos F Arms | 露德護腕【Ｆ】 |
+| 1851 | Rudeos Guard | 露德臂甲 |
+| 1852 | Rudeos F Guard | 露德臂甲【Ｆ】 |
+| 1853 | Orchesis Arms | 切西護腕 |
+| 1854 | Orchesis F Arms | 切西護腕【Ｆ】 |
+| 1855 | Orchesis Guard | 切西臂甲 |
+| 1856 | Orchesis F Guard | 切西臂甲【Ｆ】 |
 | 1857 | フルイト Arms | 芙魯伊托護腕 |
 | 1858 | フルイトF Arms | 芙魯伊托護腕【Ｆ】 |
 | 1859 | ゲレオン Arms | 蓋雷歐恩護腕 |
@@ -407,13 +407,13 @@
 | 1901 | Beru Guard SP Black | 舞雷龍臂甲【ＳＰ】・黑 |
 | 1902 | Beru Guard SP Red | 舞雷龍臂甲【ＳＰ】・赤 |
 | 1903 | Beru Guard SP Purple | 舞雷龍臂甲【ＳＰ】・紫 |
-| 1904 | ル Ledia ーム | 爾艾德伊護腕 |
+| 1904 | ル Ledia ーム | 勒迪護腕 |
 | 1905 | Rurudi Guard | 魯魯迪臂甲 |
-| 1906 | Arc F Arms | 阿爾護腕【Ｆ】 |
-| 1907 | Arc F Guard | 阿爾臂甲【Ｆ】 |
+| 1906 | Arc F Arms | 亞克護腕【Ｆ】 |
+| 1907 | Arc F Guard | 亞克臂甲【Ｆ】 |
 | 1908 | Strega FX Arms | 魔女護腕【ＦＸ】 |
 | 1909 | Strega FX Guard | 魔女臂甲【ＦＸ】 |
-| 1910 | Rath Heart RX Arms | 爾阿斯艾護腕 |
+| 1910 | Rath Heart RX Arms | 拉斯赫特護腕 |
 | 1911 | Rathian LX Arms | 雌火龍護腕 |
 | 1912 | Vespoid RX Guard | 巨蜂臂甲 |
 | 1913 | Vespoid LX Guard | 巨蜂臂甲 |
@@ -425,11 +425,11 @@
 | 1919 | フレサ Arms | 芙雷薩護腕 |
 | 1920 | クラ Beru Arms | 舞雷龍護腕 |
 | 1921 | シルエラ Arms | 希魯艾拉護腕 |
-| 1922 | カメ Lea Arms | 爾艾護腕 |
+| 1922 | カメ Lea Arms | 勒護腕 |
 | 1923 | ハシント Arms | 哈希恩托護腕 |
 | 1924 | セレソ Arms | 塞雷索護腕 |
 | 1925 | オリバ Arms | 歐里巴護腕 |
-| 1926 | ラウレル Guard | 拉烏雷魯臂甲 |
+| 1926 | ラウレル Guard | 拉宇蕾露臂甲 |
 | 1927 | ココ Guard | 科科臂甲 |
 | 1928 | グラナダ Guard | 古拉納達臂甲 |
 | 1929 | アトロ Arms | 阿托羅護腕 |

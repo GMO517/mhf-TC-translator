@@ -21,16 +21,16 @@
 | 7015 | Melan G Coat | 紫黑腰衣【Ｇ】 |
 | 7016 | Melan GF Coat | 紫黑腰衣【ＧＦ】 |
 | 7017 | Melan GX Coat | 紫黑腰衣【ＧＸ】 |
-| 7018 | Rouge FY Faulds | 爾歐格艾腰甲 |
+| 7018 | Rouge FY Faulds | 蘿蓋腰甲 |
 | 7019 | Rouge HC Faulds | 紅腰甲【ＨＣ】 |
 | 7020 | Rouge G Faulds | 紅腰甲【Ｇ】 |
 | 7021 | Rouge GF Faulds | 紅腰甲【ＧＦ】 |
 | 7022 | Rouge GX Faulds | 紅腰甲【ＧＸ】 |
-| 7023 | Regyukusu GP Coil | 爾艾格烏腰甲【ＧＰ】 |
-| 7024 | Regyukusu GP Coat | 爾艾格烏腰衣【ＧＰ】 |
+| 7023 | Regyukusu GP Coil | 蕾尤克斯腰甲【ＧＰ】 |
+| 7024 | Regyukusu GP Coat | 蕾尤克斯腰衣【ＧＰ】 |
 | 7025 | Beil GP Reflector | 貝爾反射腰甲【ＧＰ】 |
-| 7026 | ヴェルフGP Faulds | 維爾夫腰甲【ＧＰ】 |
-| 7027 | ヴェルフGP Coat | 維爾夫腰衣【ＧＰ】 |
+| 7026 | ヴェルフGP Faulds | 薇露芙腰甲【ＧＰ】 |
+| 7027 | ヴェルフGP Coat | 薇露芙腰衣【ＧＰ】 |
 | 7028 | テリオグGP Faulds | 特里歐古腰甲【ＧＰ】 |
 | 7029 | テリオグGP Coat | 特里歐古腰衣【ＧＰ】 |
 | 7030 | Hypnoc G Faulds | 眠鳥腰甲【Ｇ】 |
@@ -57,12 +57,12 @@
 | 7051 | Weiss G Belly | 白腹甲【Ｇ】 |
 | 7052 | Weiss GF Belly | 白腹甲【ＧＦ】 |
 | 7053 | Weiss GX Belly | 白腹甲【ＧＸ】 |
-| 7054 | Venom G Faulds | 芙艾恩歐腰甲【Ｇ】 |
-| 7055 | Venom GF Faulds | 芙艾恩歐腰甲【ＧＦ】 |
-| 7056 | Venom GX Faulds | 芙艾恩歐腰甲【ＧＸ】 |
-| 7057 | Venom G Coat | 芙艾恩歐腰衣【Ｇ】 |
-| 7058 | Venom GF Coat | 芙艾恩歐腰衣【ＧＦ】 |
-| 7059 | Venom GX Coat | 芙艾恩歐腰衣【ＧＸ】 |
+| 7054 | Venom G Faulds | 薇諾腰甲【Ｇ】 |
+| 7055 | Venom GF Faulds | 薇諾腰甲【ＧＦ】 |
+| 7056 | Venom GX Faulds | 薇諾腰甲【ＧＸ】 |
+| 7057 | Venom G Coat | 薇諾腰衣【Ｇ】 |
+| 7058 | Venom GF Coat | 薇諾腰衣【ＧＦ】 |
+| 7059 | Venom GX Coat | 薇諾腰衣【ＧＸ】 |
 | 7060 | Elegance [Waistband 】 | 雅腰帶 |
 | 7061 | Elegance F [Waistband 】 | 雅腰帶【Ｆ】 |
 | 7062 | Elegance FX [Waistband 】 | 雅腰帶【ＦＸ】 |

@@ -4,7 +4,7 @@
 
 | index | 原文 | 譯文 |
 |---|---|---|
-| 0 | Nothing Equipped | 未裝備護腕 |
+| 0 | Nothing Equipped | 未裝備 |
 | 1 | Leather Arms | 皮革護腕 |
 | 2 | Chainmail Arms | 鎖鏈護腕 |
 | 3 | Hunter's Arms | 獵人護腕 |
@@ -271,7 +271,7 @@
 | 264 | ジスト Arms | 吉斯特護腕 |
 | 265 | Missing No. | 遺失道具No.265 |
 | 266 | Extra Arms | 追加護腕 |
-| 267 | ウナペルト Arms | 烏納佩爾特護腕 |
+| 267 | ウナペルト Arms | 宇娜佩露護腕 |
 | 268 | Kyuura Arms | 丘拉護腕 |
 | 269 | Missing No. | 遺失道具No.269 |
 | 270 | Missing No. | 遺失道具No.270 |
@@ -285,7 +285,7 @@
 | 278 | Butterfly Sブラッソ | 蝶臂甲【Ｓ】 |
 | 279 | Akantor サクンペ | 霸龍臂甲 |
 | 280 | Akantor ノキリペ | 霸龍臂甲 |
-| 281 | ウナペルトF Arms | 烏納佩爾特護腕【Ｆ】 |
+| 281 | ウナペルトF Arms | 宇娜佩露護腕【Ｆ】 |
 | 282 | Red Cat F Arms | 赤猫護腕【Ｆ】 |
 | 283 | Melahoa Creeper | 梅拉霍阿蔓腕 |
 | 284 | Melahoa U Creeper | 梅拉霍阿蔓腕【Ｕ】 |
@@ -501,7 +501,7 @@
 | 494 | Wizard F Guard・Green | 巫師臂甲【Ｆ】・緑 |
 | 495 | Wizard F Guard・White | 巫師臂甲【Ｆ】・白 |
 | 496 | Wizard F Guard・Blue | 巫師臂甲【Ｆ】・青 |
-| 497 | Crowley Arms・Red | 克歐沃艾護腕・赤 |
-| 498 | Crowley Arms・Black | 克歐沃艾護腕・黑 |
-| 499 | Crowley Arms・Green | 克歐沃艾護腕・緑 |
+| 497 | Crowley Arms・Red | 克勒護腕・赤 |
+| 498 | Crowley Arms・Black | 克勒護腕・黑 |
+| 499 | Crowley Arms・Green | 克勒護腕・緑 |
 

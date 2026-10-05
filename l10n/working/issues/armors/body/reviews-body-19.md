@@ -67,12 +67,12 @@
 | 9061 | トイストHS Vest | 托伊斯托背心【ＨＳ】 |
 | 9062 | トイストGS Vest | 托伊斯托背心【ＧＳ】 |
 | 9063 | トイストGP Vest | 托伊斯托背心【ＧＰ】 |
-| 9064 | Nekodan Suit | 恩艾克歐套裝 |
-| 9065 | Nekodan F Suit | 恩艾克歐套裝【Ｆ】 |
-| 9066 | Nekodan FZ Suit | 恩艾克歐套裝【ＦＺ】 |
-| 9067 | Nekodan HS Suit | 恩艾克歐套裝【ＨＳ】 |
-| 9068 | Nekodan GS Suit | 恩艾克歐套裝【ＧＳ】 |
-| 9069 | Nekodan GP Suit | 恩艾克歐套裝【ＧＰ】 |
+| 9064 | Nekodan Suit | 奈古達套裝 |
+| 9065 | Nekodan F Suit | 奈古達套裝【Ｆ】 |
+| 9066 | Nekodan FZ Suit | 奈古達套裝【ＦＺ】 |
+| 9067 | Nekodan HS Suit | 奈古達套裝【ＨＳ】 |
+| 9068 | Nekodan GS Suit | 奈古達套裝【ＧＳ】 |
+| 9069 | Nekodan GP Suit | 奈古達套裝【ＧＰ】 |
 | 9070 | Aelucanth Thorax | 甲蟲胸甲 |
 | 9071 | Aelucanth G Thorax | 甲蟲胸甲【Ｇ】 |
 | 9072 | Aelucanth GF Thorax | 甲蟲胸甲【ＧＦ】 |
@@ -89,26 +89,26 @@
 | 9083 | Rhopessa Gペクトス | 鳳蝶鎧甲 |
 | 9084 | Rhopessa GFペクトス | 鳳蝶鎧甲 |
 | 9085 | Rhopessa GXペクトス | 鳳蝶鎧甲 |
-| 9086 | Riaruo G Mail | 爾伊爾烏鎧甲【Ｇ】 |
-| 9087 | Riaruo GF Mail | 爾伊爾烏鎧甲【ＧＦ】 |
-| 9088 | Riaruo GX Mail | 爾伊爾烏鎧甲【ＧＸ】 |
-| 9089 | Riaruo G Vest | 爾伊爾烏背心【Ｇ】 |
-| 9090 | Riaruo GF Vest | 爾伊爾烏背心【ＧＦ】 |
-| 9091 | Riaruo GX Vest | 爾伊爾烏背心【ＧＸ】 |
-| 9092 | Ordre Mail | 歐爾艾鎧甲 |
-| 9093 | Ordre F Mail | 歐爾艾鎧甲【Ｆ】 |
-| 9094 | Ordre FY Mail | 歐爾艾斯鎧甲 |
-| 9095 | Ordre HS Mail | 歐爾艾鎧甲【ＨＳ】 |
-| 9096 | Ordre G Mail | 歐爾艾鎧甲【Ｇ】 |
-| 9097 | Ordre GF Mail | 歐爾艾鎧甲【ＧＦ】 |
-| 9098 | Ordre GX Mail | 歐爾艾鎧甲【ＧＸ】 |
-| 9099 | Ordre Vest | 歐爾艾背心 |
-| 9100 | Ordre F Vest | 歐爾艾背心【Ｆ】 |
-| 9101 | Ordre FY Vest | 歐爾艾斯背心 |
-| 9102 | Ordre HS Vest | 歐爾艾背心【ＨＳ】 |
-| 9103 | Ordre G Vest | 歐爾艾背心【Ｇ】 |
-| 9104 | Ordre GF Vest | 歐爾艾背心【ＧＦ】 |
-| 9105 | Ordre GX Vest | 歐爾艾背心【ＧＸ】 |
+| 9086 | Riaruo G Mail | 里露鎧甲【Ｇ】 |
+| 9087 | Riaruo GF Mail | 里露鎧甲【ＧＦ】 |
+| 9088 | Riaruo GX Mail | 里露鎧甲【ＧＸ】 |
+| 9089 | Riaruo G Vest | 里露背心【Ｇ】 |
+| 9090 | Riaruo GF Vest | 里露背心【ＧＦ】 |
+| 9091 | Riaruo GX Vest | 里露背心【ＧＸ】 |
+| 9092 | Ordre Mail | 德鎧甲 |
+| 9093 | Ordre F Mail | 德鎧甲【Ｆ】 |
+| 9094 | Ordre FY Mail | 德鎧甲 |
+| 9095 | Ordre HS Mail | 德鎧甲【ＨＳ】 |
+| 9096 | Ordre G Mail | 德鎧甲【Ｇ】 |
+| 9097 | Ordre GF Mail | 德鎧甲【ＧＦ】 |
+| 9098 | Ordre GX Mail | 德鎧甲【ＧＸ】 |
+| 9099 | Ordre Vest | 德背心 |
+| 9100 | Ordre F Vest | 德背心【Ｆ】 |
+| 9101 | Ordre FY Vest | 德背心 |
+| 9102 | Ordre HS Vest | 德背心【ＨＳ】 |
+| 9103 | Ordre G Vest | 德背心【Ｇ】 |
+| 9104 | Ordre GF Vest | 德背心【ＧＦ】 |
+| 9105 | Ordre GX Vest | 德背心【ＧＸ】 |
 | 9106 | Cheni Mail | 奇艾恩伊鎧甲 |
 | 9107 | Cheni F Mail | 奇艾恩伊鎧甲【Ｆ】 |
 | 9108 | Cheni FY Mail | 奇艾恩伊鎧甲 |
@@ -139,14 +139,14 @@
 | 9133 | Miniomu GX Vest | 姆伊恩伊背心【ＧＸ】 |
 | 9134 | Once Mail | 一度鎧甲 |
 | 9135 | Once F Mail | 一度鎧甲【Ｆ】 |
-| 9136 | Once FY Mail | 歐恩艾斯鎧甲 |
+| 9136 | Once FY Mail | 賽鎧甲 |
 | 9137 | Once HS Mail | 一度鎧甲【ＨＳ】 |
 | 9138 | Once G Mail | 一度鎧甲【Ｇ】 |
 | 9139 | Once GF Mail | 一度鎧甲【ＧＦ】 |
 | 9140 | Once GX Mail | 一度鎧甲【ＧＸ】 |
 | 9141 | Once Vest | 一度背心 |
 | 9142 | Once F Vest | 一度背心【Ｆ】 |
-| 9143 | Once FY Vest | 歐恩艾斯背心 |
+| 9143 | Once FY Vest | 賽背心 |
 | 9144 | Once HS Vest | 一度背心【ＨＳ】 |
 | 9145 | Once G Vest | 一度背心【Ｇ】 |
 | 9146 | Once GF Vest | 一度背心【ＧＦ】 |
@@ -189,18 +189,18 @@
 | 9183 | Vangis G Vest | 芙阿恩伊背心【Ｇ】 |
 | 9184 | Vangis GF Vest | 芙阿恩伊背心【ＧＦ】 |
 | 9185 | Vangis GX Vest | 芙阿恩伊背心【ＧＸ】 |
-| 9186 | Shiruti Mail | 夏伊爾烏鎧甲 |
-| 9187 | Shiruti F Mail | 夏伊爾烏鎧甲【Ｆ】 |
-| 9188 | Shiruti FZ Mail | 夏伊爾烏鎧甲【ＦＺ】 |
-| 9189 | Shiruti HS Mail | 夏伊爾烏鎧甲【ＨＳ】 |
-| 9190 | Shiruti GS Mail | 夏伊爾烏鎧甲【ＧＳ】 |
-| 9191 | Shiruti GP Mail | 夏伊爾烏鎧甲【ＧＰ】 |
-| 9192 | Shiruti Vest | 夏伊爾烏背心 |
-| 9193 | Shiruti F Vest | 夏伊爾烏背心【Ｆ】 |
-| 9194 | Shiruti FZ Vest | 夏伊爾烏背心【ＦＺ】 |
-| 9195 | Shiruti HS Vest | 夏伊爾烏背心【ＨＳ】 |
-| 9196 | Shiruti GS Vest | 夏伊爾烏背心【ＧＳ】 |
-| 9197 | Shiruti GP Vest | 夏伊爾烏背心【ＧＰ】 |
+| 9186 | Shiruti Mail | 修露蒂鎧甲 |
+| 9187 | Shiruti F Mail | 修露蒂鎧甲【Ｆ】 |
+| 9188 | Shiruti FZ Mail | 修露蒂鎧甲【ＦＺ】 |
+| 9189 | Shiruti HS Mail | 修露蒂鎧甲【ＨＳ】 |
+| 9190 | Shiruti GS Mail | 修露蒂鎧甲【ＧＳ】 |
+| 9191 | Shiruti GP Mail | 修露蒂鎧甲【ＧＰ】 |
+| 9192 | Shiruti Vest | 修露蒂背心 |
+| 9193 | Shiruti F Vest | 修露蒂背心【Ｆ】 |
+| 9194 | Shiruti FZ Vest | 修露蒂背心【ＦＺ】 |
+| 9195 | Shiruti HS Vest | 修露蒂背心【ＨＳ】 |
+| 9196 | Shiruti GS Vest | 修露蒂背心【ＧＳ】 |
+| 9197 | Shiruti GP Vest | 修露蒂背心【ＧＰ】 |
 | 9198 | Brachy Mail | 布阿奇鎧甲 |
 | 9199 | Brachy G Mail | 布阿奇鎧甲【Ｇ】 |
 | 9200 | Brachy GF Mail | 布阿奇鎧甲【ＧＦ】 |
@@ -233,12 +233,12 @@
 | 9227 | B.Espinas G Heart | 棘茶龍心衣【Ｇ】 |
 | 9228 | B.Espinas GF Heart | 棘茶龍心衣【ＧＦ】 |
 | 9229 | B.Espinas GX Heart | 棘茶龍心衣【ＧＸ】 |
-| 9230 | Red Volga G Mail | 芙歐爾阿鎧甲【Ｇ】・赤 |
-| 9231 | Red Volga GF Mail | 芙歐爾阿鎧甲【ＧＦ】・赤 |
-| 9232 | Red Volga GX Mail | 芙歐爾阿鎧甲【ＧＸ】・赤 |
-| 9233 | Red Volga G Vest | 芙歐爾阿背心【Ｇ】・赤 |
-| 9234 | Red Volga GF Vest | 芙歐爾阿背心【ＧＦ】・赤 |
-| 9235 | Red Volga GX Vest | 芙歐爾阿背心【ＧＸ】・赤 |
+| 9230 | Red Volga G Mail | 沃加鎧甲【Ｇ】・赤 |
+| 9231 | Red Volga GF Mail | 沃加鎧甲【ＧＦ】・赤 |
+| 9232 | Red Volga GX Mail | 沃加鎧甲【ＧＸ】・赤 |
+| 9233 | Red Volga G Vest | 沃加背心【Ｇ】・赤 |
+| 9234 | Red Volga GF Vest | 沃加背心【ＧＦ】・赤 |
+| 9235 | Red Volga GX Vest | 沃加背心【ＧＸ】・赤 |
 | 9236 | Ravi G Mail:Berserk | 大巖龍狂化鎧甲【Ｇ】 |
 | 9237 | Ravi GF Mail:Berserk | 大巖龍狂化鎧甲【ＧＦ】 |
 | 9238 | Ravi GX Mail:Berserk | 大巖龍狂化鎧甲【ＧＸ】 |
@@ -409,13 +409,13 @@
 | 9403 | ダミー | (dummy) |
 | 9404 | ダミー | (dummy) |
 | 9405 | ダミー | (dummy) |
-| 9406 | Otono Jacket | 歐特歐恩夾克 |
-| 9407 | Otono F Jacket | 歐特歐恩夾克【Ｆ】 |
-| 9408 | Otono FY Jacket | 歐特歐恩夾克 |
-| 9409 | Otono HS Jacket | 歐特歐恩夾克【ＨＳ】 |
-| 9410 | Otono G Jacket | 歐特歐恩夾克【Ｇ】 |
-| 9411 | Otono GF Jacket | 歐特歐恩夾克【ＧＦ】 |
-| 9412 | Otono GX Jacket | 歐特歐恩夾克【ＧＸ】 |
+| 9406 | Otono Jacket | 托諾夾克 |
+| 9407 | Otono F Jacket | 托諾夾克【Ｆ】 |
+| 9408 | Otono FY Jacket | 托諾夾克 |
+| 9409 | Otono HS Jacket | 托諾夾克【ＨＳ】 |
+| 9410 | Otono G Jacket | 托諾夾克【Ｇ】 |
+| 9411 | Otono GF Jacket | 托諾夾克【ＧＦ】 |
+| 9412 | Otono GX Jacket | 托諾夾克【ＧＸ】 |
 | 9413 | Kabariba Mail | 克阿布阿鎧甲 |
 | 9414 | Kabariba F Mail | 克阿布阿鎧甲【Ｆ】 |
 | 9415 | Kabariba FY Mail | 克阿布阿鎧甲 |
@@ -430,48 +430,48 @@
 | 9424 | Kabariba G Vest | 克阿布阿背心【Ｇ】 |
 | 9425 | Kabariba GF Vest | 克阿布阿背心【ＧＦ】 |
 | 9426 | Kabariba GX Vest | 克阿布阿背心【ＧＸ】 |
-| 9427 | Toruboda Mail | 特歐爾烏鎧甲 |
-| 9428 | Toruboda F Mail | 特歐爾烏鎧甲【Ｆ】 |
-| 9429 | Toruboda FY Mail | 特歐爾烏鎧甲 |
-| 9430 | Toruboda HS Mail | 特歐爾烏鎧甲【ＨＳ】 |
-| 9431 | Toruboda G Mail | 特歐爾烏鎧甲【Ｇ】 |
-| 9432 | Toruboda GF Mail | 特歐爾烏鎧甲【ＧＦ】 |
-| 9433 | Toruboda GX Mail | 特歐爾烏鎧甲【ＧＸ】 |
-| 9434 | Toruboda Vest | 特歐爾烏背心 |
-| 9435 | Toruboda F Vest | 特歐爾烏背心【Ｆ】 |
-| 9436 | Toruboda FY Vest | 特歐爾烏背心 |
-| 9437 | Toruboda HS Vest | 特歐爾烏背心【ＨＳ】 |
-| 9438 | Toruboda G Vest | 特歐爾烏背心【Ｇ】 |
-| 9439 | Toruboda GF Vest | 特歐爾烏背心【ＧＦ】 |
-| 9440 | Toruboda GX Vest | 特歐爾烏背心【ＧＸ】 |
-| 9441 | Orykto Mail | 歐爾歐鎧甲 |
-| 9442 | Orykto F Mail | 歐爾歐鎧甲【Ｆ】 |
-| 9443 | Orykto FY Mail | 歐爾歐斯鎧甲 |
-| 9444 | Orykto HS Mail | 歐爾歐鎧甲【ＨＳ】 |
-| 9445 | Orykto Vest | 歐爾歐背心 |
-| 9446 | Orykto F Vest | 歐爾歐背心【Ｆ】 |
-| 9447 | Orykto FY Vest | 歐爾歐斯背心 |
-| 9448 | Orykto HS Vest | 歐爾歐背心【ＨＳ】 |
-| 9449 | Reuasu G Mail | 爾艾斯烏鎧甲【Ｇ】 |
-| 9450 | Reuasu GF Mail | 爾艾斯烏鎧甲【ＧＦ】 |
-| 9451 | Reuasu GX Mail | 爾艾斯烏鎧甲【ＧＸ】 |
-| 9452 | Reuasu G Vest | 爾艾斯烏背心【Ｇ】 |
-| 9453 | Reuasu GF Vest | 爾艾斯烏背心【ＧＦ】 |
-| 9454 | Reuasu GX Vest | 爾艾斯烏背心【ＧＸ】 |
-| 9455 | Harimeno Mail | 赫阿爾伊鎧甲 |
-| 9456 | Harimeno F Mail | 赫阿爾伊鎧甲【Ｆ】 |
-| 9457 | Harimeno FY Mail | 赫阿爾伊鎧甲 |
-| 9458 | Harimeno HS Mail | 赫阿爾伊鎧甲【ＨＳ】 |
-| 9459 | Harimeno G Mail | 赫阿爾伊鎧甲【Ｇ】 |
-| 9460 | Harimeno GF Mail | 赫阿爾伊鎧甲【ＧＦ】 |
-| 9461 | Harimeno GX Mail | 赫阿爾伊鎧甲【ＧＸ】 |
-| 9462 | Harimeno Vest | 赫阿爾伊背心 |
-| 9463 | Harimeno F Vest | 赫阿爾伊背心【Ｆ】 |
-| 9464 | Harimeno FY Vest | 赫阿爾伊背心 |
-| 9465 | Harimeno HS Vest | 赫阿爾伊背心【ＨＳ】 |
-| 9466 | Harimeno G Vest | 赫阿爾伊背心【Ｇ】 |
-| 9467 | Harimeno GF Vest | 赫阿爾伊背心【ＧＦ】 |
-| 9468 | Harimeno GX Vest | 赫阿爾伊背心【ＧＸ】 |
+| 9427 | Toruboda Mail | 托露波達鎧甲 |
+| 9428 | Toruboda F Mail | 托露波達鎧甲【Ｆ】 |
+| 9429 | Toruboda FY Mail | 托露波達鎧甲 |
+| 9430 | Toruboda HS Mail | 托露波達鎧甲【ＨＳ】 |
+| 9431 | Toruboda G Mail | 托露波達鎧甲【Ｇ】 |
+| 9432 | Toruboda GF Mail | 托露波達鎧甲【ＧＦ】 |
+| 9433 | Toruboda GX Mail | 托露波達鎧甲【ＧＸ】 |
+| 9434 | Toruboda Vest | 托露波達背心 |
+| 9435 | Toruboda F Vest | 托露波達背心【Ｆ】 |
+| 9436 | Toruboda FY Vest | 托露波達背心 |
+| 9437 | Toruboda HS Vest | 托露波達背心【ＨＳ】 |
+| 9438 | Toruboda G Vest | 托露波達背心【Ｇ】 |
+| 9439 | Toruboda GF Vest | 托露波達背心【ＧＦ】 |
+| 9440 | Toruboda GX Vest | 托露波達背心【ＧＸ】 |
+| 9441 | Orykto Mail | 托鎧甲 |
+| 9442 | Orykto F Mail | 托鎧甲【Ｆ】 |
+| 9443 | Orykto FY Mail | 托鎧甲 |
+| 9444 | Orykto HS Mail | 托鎧甲【ＨＳ】 |
+| 9445 | Orykto Vest | 托背心 |
+| 9446 | Orykto F Vest | 托背心【Ｆ】 |
+| 9447 | Orykto FY Vest | 托背心 |
+| 9448 | Orykto HS Vest | 托背心【ＨＳ】 |
+| 9449 | Reuasu G Mail | 蕾斯鎧甲【Ｇ】 |
+| 9450 | Reuasu GF Mail | 蕾斯鎧甲【ＧＦ】 |
+| 9451 | Reuasu GX Mail | 蕾斯鎧甲【ＧＸ】 |
+| 9452 | Reuasu G Vest | 蕾斯背心【Ｇ】 |
+| 9453 | Reuasu GF Vest | 蕾斯背心【ＧＦ】 |
+| 9454 | Reuasu GX Vest | 蕾斯背心【ＧＸ】 |
+| 9455 | Harimeno Mail | 哈里梅諾鎧甲 |
+| 9456 | Harimeno F Mail | 哈里梅諾鎧甲【Ｆ】 |
+| 9457 | Harimeno FY Mail | 哈里梅諾鎧甲 |
+| 9458 | Harimeno HS Mail | 哈里梅諾鎧甲【ＨＳ】 |
+| 9459 | Harimeno G Mail | 哈里梅諾鎧甲【Ｇ】 |
+| 9460 | Harimeno GF Mail | 哈里梅諾鎧甲【ＧＦ】 |
+| 9461 | Harimeno GX Mail | 哈里梅諾鎧甲【ＧＸ】 |
+| 9462 | Harimeno Vest | 哈里梅諾背心 |
+| 9463 | Harimeno F Vest | 哈里梅諾背心【Ｆ】 |
+| 9464 | Harimeno FY Vest | 哈里梅諾背心 |
+| 9465 | Harimeno HS Vest | 哈里梅諾背心【ＨＳ】 |
+| 9466 | Harimeno G Vest | 哈里梅諾背心【Ｇ】 |
+| 9467 | Harimeno GF Vest | 哈里梅諾背心【ＧＦ】 |
+| 9468 | Harimeno GX Vest | 哈里梅諾背心【ＧＸ】 |
 | 9469 | Shiusu G Jacket | 夏伊斯烏夾克【Ｇ】 |
 | 9470 | Shiusu GF Jacket | 夏伊斯烏夾克【ＧＦ】 |
 | 9471 | Shiusu GX Jacket | 夏伊斯烏夾克【ＧＸ】 |
@@ -492,16 +492,16 @@
 | 9486 | Will G Vest | 沃伊爾背心【Ｇ】 |
 | 9487 | Will GF Vest | 沃伊爾背心【ＧＦ】 |
 | 9488 | Will GX Vest | 沃伊爾背心【ＧＸ】 |
-| 9489 | Keisu Mail | 克艾斯烏鎧甲 |
-| 9490 | Keisu F Mail | 克艾斯烏鎧甲【Ｆ】 |
-| 9491 | Keisu FY Mail | 克艾斯烏鎧甲 |
-| 9492 | Keisu HS Mail | 克艾斯烏鎧甲【ＨＳ】 |
-| 9493 | Keisu G Mail | 克艾斯烏鎧甲【Ｇ】 |
-| 9494 | Keisu GF Mail | 克艾斯烏鎧甲【ＧＦ】 |
-| 9495 | Keisu GX Mail | 克艾斯烏鎧甲【ＧＸ】 |
-| 9496 | Keisu Vest | 克艾斯烏背心 |
-| 9497 | Keisu F Vest | 克艾斯烏背心【Ｆ】 |
-| 9498 | Keisu FY Vest | 克艾斯烏背心 |
-| 9499 | Keisu HS Vest | 克艾斯烏背心【ＨＳ】 |
-| 9500 | Keisu G Vest | 克艾斯烏背心【Ｇ】 |
+| 9489 | Keisu Mail | 凱斯鎧甲 |
+| 9490 | Keisu F Mail | 凱斯鎧甲【Ｆ】 |
+| 9491 | Keisu FY Mail | 凱斯鎧甲 |
+| 9492 | Keisu HS Mail | 凱斯鎧甲【ＨＳ】 |
+| 9493 | Keisu G Mail | 凱斯鎧甲【Ｇ】 |
+| 9494 | Keisu GF Mail | 凱斯鎧甲【ＧＦ】 |
+| 9495 | Keisu GX Mail | 凱斯鎧甲【ＧＸ】 |
+| 9496 | Keisu Vest | 凱斯背心 |
+| 9497 | Keisu F Vest | 凱斯背心【Ｆ】 |
+| 9498 | Keisu FY Vest | 凱斯背心 |
+| 9499 | Keisu HS Vest | 凱斯背心【ＨＳ】 |
+| 9500 | Keisu G Vest | 凱斯背心【Ｇ】 |
 

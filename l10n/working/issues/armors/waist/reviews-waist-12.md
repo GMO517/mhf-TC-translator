@@ -45,10 +45,10 @@
 | 5539 | Rast GP Coil・White | 拉斯特腰甲【ＧＰ】・白 |
 | 5540 | Rast GS Coat・White | 拉斯特腰衣【ＧＳ】・白 |
 | 5541 | Rast GP Coat・White | 拉斯特腰衣【ＧＰ】・白 |
-| 5542 | Ciel FZ Reflector | 克伊爾艾腰甲【ＦＺ】 |
-| 5543 | Ciel HS Reflector | 克伊爾艾腰甲【ＨＳ】 |
-| 5544 | Ciel GS Reflector | 克伊爾艾腰甲【ＧＳ】 |
-| 5545 | Ciel GP Reflector | 克伊爾艾腰甲【ＧＰ】 |
+| 5542 | Ciel FZ Reflector | 奇蕾芙托腰甲【ＦＺ】 |
+| 5543 | Ciel HS Reflector | 奇蕾芙托腰甲【ＨＳ】 |
+| 5544 | Ciel GS Reflector | 奇蕾芙托腰甲【ＧＳ】 |
+| 5545 | Ciel GP Reflector | 奇蕾芙托腰甲【ＧＰ】 |
 | 5546 | Omet HS Coil・Black | 歐梅特腰甲【ＨＳ】・黑 |
 | 5547 | Omet GS Coil・Black | 歐梅特腰甲【ＧＳ】・黑 |
 | 5548 | Omet GP Coil・Black | 歐梅特腰甲【ＧＰ】・黑 |

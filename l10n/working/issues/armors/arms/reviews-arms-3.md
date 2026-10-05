@@ -30,7 +30,7 @@
 | 1023 | メタロ Arms | 梅塔羅護腕 |
 | 1024 | メタロF Arms | 梅塔羅護腕【Ｆ】 |
 | 1025 | アル Jyaga ド | 傑阿格阿護腕 |
-| 1026 | アルジャF Guard | 阿爾賈臂甲【Ｆ】 |
+| 1026 | アルジャF Guard | 亞露雅臂甲【Ｆ】 |
 | 1027 | Espinas FX Grip | 棘龍握套【ＦＸ】 |
 | 1028 | Espinas FX Grasp | 棘龍抓握【ＦＸ】 |
 | 1030 | エクスト Arms | 艾克斯特護腕 |
@@ -71,8 +71,8 @@
 | 1065 | Shieri F Arms | 夏伊爾伊護腕【Ｆ】 |
 | 1066 | Shieri Guard | 夏伊爾伊臂甲 |
 | 1067 | Shieri F Guard | 夏伊爾伊臂甲【Ｆ】 |
-| 1068 | Harubadaa Arms | 赫阿爾烏護腕 |
-| 1069 | Harubadaa F Arms | 赫阿爾烏護腕【Ｆ】 |
+| 1068 | Harubadaa Arms | 哈露巴達護腕 |
+| 1069 | Harubadaa F Arms | 哈露巴達護腕【Ｆ】 |
 | 1070 | Tracker Guard | 追蹤臂甲 |
 | 1071 | Tracker F Guard | 追蹤臂甲【Ｆ】 |
 | 1072 | Zaakaa Arms | 茲阿克阿護腕 |
@@ -85,20 +85,20 @@
 | 1079 | Lord F Guard | 領主臂甲【Ｆ】 |
 | 1080 | Dicto Arms | 德伊克歐護腕 |
 | 1081 | Dicto F Arms | 德伊克歐護腕【Ｆ】 |
-| 1082 | Diletto Guard | 德伊爾艾臂甲 |
-| 1083 | Diletto F Guard | 德伊爾艾臂甲【Ｆ】 |
+| 1082 | Diletto Guard | 迪勒特臂甲 |
+| 1083 | Diletto F Guard | 迪勒特臂甲【Ｆ】 |
 | 1084 | Kruss Arms | 克烏斯護腕 |
 | 1085 | Kruss F Arms | 克烏斯護腕【Ｆ】 |
-| 1086 | Quote Guard | 斯烏特艾臂甲 |
-| 1087 | Quote F Guard | 斯烏特艾臂甲【Ｆ】 |
-| 1088 | ウルバヌ Arms | 烏爾巴努護腕 |
-| 1089 | ウルバヌF Arms | 烏爾巴努護腕【Ｆ】 |
+| 1086 | Quote Guard | 奎特臂甲 |
+| 1087 | Quote F Guard | 奎特臂甲【Ｆ】 |
+| 1088 | ウルバヌ Arms | 宇露巴努護腕 |
+| 1089 | ウルバヌF Arms | 宇露巴努護腕【Ｆ】 |
 | 1090 | マグヌス Arms | 瑪古努斯護腕 |
 | 1091 | マグヌスF Arms | 瑪古努斯護腕【Ｆ】 |
 | 1092 | ソレルス Arms | 索雷魯斯護腕 |
 | 1093 | ソレルスF Arms | 索雷魯斯護腕【Ｆ】 |
-| 1094 | パルフェ Guard | 拍爾菲臂甲 |
-| 1095 | パルフェF Guard | 拍爾菲臂甲【Ｆ】 |
+| 1094 | パルフェ Guard | 拍露菲臂甲 |
+| 1095 | パルフェF Guard | 拍露菲臂甲【Ｆ】 |
 | 1096 | アスティ Arms | 阿斯特護腕 |
 | 1097 | アスティF Arms | 阿斯特護腕【Ｆ】 |
 | 1098 | アガトン Arms | 阿加托恩護腕 |
@@ -127,8 +127,8 @@
 | 1121 | ビリスF Arms | 比利斯護腕【Ｆ】 |
 | 1122 | ギエール Arms | 吉埃爾護腕 |
 | 1123 | ギエールF Arms | 吉埃爾護腕【Ｆ】 |
-| 1124 | カウント Arms | 可烏恩托護腕 |
-| 1125 | カウントF Arms | 可烏恩托護腕【Ｆ】 |
+| 1124 | カウント Arms | 可宇恩托護腕 |
+| 1125 | カウントF Arms | 可宇恩托護腕【Ｆ】 |
 | 1126 | フュルス Guard | 芙尤魯斯臂甲 |
 | 1127 | フュルスF Guard | 芙尤魯斯臂甲【Ｆ】 |
 | 1128 | Text Arms・Purple | 文書護腕・紫 |
@@ -153,12 +153,12 @@
 | 1147 | フィーブルF Arms | 芙布魯護腕【Ｆ】 |
 | 1148 | ヴァラク Arms | 芙拉庫護腕 |
 | 1149 | ヴァラクF Arms | 芙拉庫護腕【Ｆ】 |
-| 1150 | ネウロン Guard | 涅烏羅恩臂甲 |
-| 1151 | ネウロンF Guard | 涅烏羅恩臂甲【Ｆ】 |
-| 1152 | Arge Arms | 阿爾傑護腕 |
-| 1153 | Arge F Arms | 阿爾傑護腕【Ｆ】 |
-| 1154 | Arge Guard | 阿爾傑臂甲 |
-| 1155 | Arge F Guard | 阿爾傑臂甲【Ｆ】 |
+| 1150 | ネウロン Guard | 奈宇蘿恩臂甲 |
+| 1151 | ネウロンF Guard | 奈宇蘿恩臂甲【Ｆ】 |
+| 1152 | Arge Arms | 亞潔護腕 |
+| 1153 | Arge F Arms | 亞潔護腕【Ｆ】 |
+| 1154 | Arge Guard | 亞潔臂甲 |
+| 1155 | Arge F Guard | 亞潔臂甲【Ｆ】 |
 | 1156 | Akantor サクンペ SP Black | 霸龍臂甲【ＳＰ】・黑 |
 | 1157 | Akantor サクンペ SP Red | 霸龍臂甲【ＳＰ】・赤 |
 | 1158 | Akantor サクンペ SP White | 霸龍臂甲【ＳＰ】・白 |
@@ -283,8 +283,8 @@
 | 1277 | デスモF Arms | 德斯莫護腕【Ｆ】 |
 | 1278 | ミスク Guard | 米斯庫臂甲 |
 | 1279 | ミスクF Guard | 米斯庫臂甲【Ｆ】 |
-| 1280 | ウーズィ Arms | 烏茲護腕 |
-| 1281 | ウーズィF Arms | 烏茲護腕【Ｆ】 |
+| 1280 | ウーズィ Arms | 宇茲護腕 |
+| 1281 | ウーズィF Arms | 宇茲護腕【Ｆ】 |
 | 1282 | レガーメ Arms | 雷加梅護腕 |
 | 1283 | レガーメF Arms | 雷加梅護腕【Ｆ】 |
 | 1284 | ノット Arms | 諾托護腕 |
@@ -326,8 +326,8 @@
 | 1320 | Eques FX Arms | 騎士護腕【ＦＸ】 |
 | 1321 | Eques FX Guard | 騎士臂甲【ＦＸ】 |
 | 1322 | Noir F Arms | 黑護腕【Ｆ】 |
-| 1323 | Himeros F Arms | 赫伊姆艾護腕【Ｆ】 |
-| 1324 | Bureshisu F Arms | 布烏爾艾護腕【Ｆ】 |
+| 1323 | Himeros F Arms | 希梅蘿護腕【Ｆ】 |
+| 1324 | Bureshisu F Arms | 布蕾修斯護腕【Ｆ】 |
 | 1325 | Charien F Guard | 夏里安臂甲【Ｆ】 |
 | 1326 | Guren Arms | 紅蓮護腕 |
 | 1327 | Guren F Arms | 紅蓮護腕【Ｆ】 |
@@ -392,8 +392,8 @@
 | 1386 | ヴェロシF Arms | 芙羅希護腕【Ｆ】 |
 | 1387 | ケプト Arms | 凱普托護腕 |
 | 1388 | ケプトF Arms | 凱普托護腕【Ｆ】 |
-| 1389 | ハウット Guard | 哈烏托臂甲 |
-| 1390 | ハウットF Guard | 哈烏托臂甲【Ｆ】 |
+| 1389 | ハウット Guard | 哈宇托臂甲 |
+| 1390 | ハウットF Guard | 哈宇托臂甲【Ｆ】 |
 | 1391 | ヴェンガ Arms | 芙恩加護腕 |
 | 1392 | ヴェンガF Arms | 芙恩加護腕【Ｆ】 |
 | 1393 | スプリン Arms | 斯普里恩護腕 |
@@ -491,17 +491,17 @@
 | 1485 | Rising Arms B | 昇護腕 |
 | 1486 | Rider Guard B | 騎手臂甲 |
 | 1487 | Rising Guard B | 昇臂甲 |
-| 1488 | Rider Arms R | 爾伊德艾護腕【Ｒ】 |
+| 1488 | Rider Arms R | 里德護腕【Ｒ】 |
 | 1489 | Rising Arms R | 爾伊斯伊護腕【Ｒ】 |
-| 1490 | Rider Guard R | 爾伊德艾臂甲【Ｒ】 |
+| 1490 | Rider Guard R | 里德臂甲【Ｒ】 |
 | 1491 | Rising Guard R | 爾伊斯伊臂甲【Ｒ】 |
 | 1492 | Rider Arms Y | 騎手護腕 |
 | 1493 | Rising Arms Y | 昇護腕 |
 | 1494 | Rider Guard Y | 騎手臂甲 |
 | 1495 | Rising Guard Y | 昇臂甲 |
-| 1496 | Rider Arms G | 爾伊德艾護腕【Ｇ】 |
+| 1496 | Rider Arms G | 里德護腕【Ｇ】 |
 | 1497 | Rising Arms G | 爾伊斯伊護腕【Ｇ】 |
-| 1498 | Rider Guard G | 爾伊德艾臂甲【Ｇ】 |
+| 1498 | Rider Guard G | 里德臂甲【Ｇ】 |
 | 1499 | Rising Guard G | 爾伊斯伊臂甲【Ｇ】 |
 | 1500 | Robust ハトゥー | 剛健臂甲 |
 

@@ -109,18 +109,18 @@
 | 6103 | Flower HS Guard | 芙歐沃艾臂甲【ＨＳ】 |
 | 6104 | Flower GS Guard | 芙歐沃艾臂甲【ＧＳ】 |
 | 6105 | Flower GP Guard | 芙歐沃艾臂甲【ＧＰ】 |
-| 6106 | Tune HS Arms | 特烏恩艾護腕【ＨＳ】 |
-| 6107 | Tune GS Arms | 特烏恩艾護腕【ＧＳ】 |
-| 6108 | Tune GP Arms | 特烏恩艾護腕【ＧＰ】 |
+| 6106 | Tune HS Arms | 圖奈護腕【ＨＳ】 |
+| 6107 | Tune GS Arms | 圖奈護腕【ＧＳ】 |
+| 6108 | Tune GP Arms | 圖奈護腕【ＧＰ】 |
 | 6109 | Schnite HS Guard | 施伊特艾臂甲【ＨＳ】 |
 | 6110 | Schnite GS Guard | 施伊特艾臂甲【ＧＳ】 |
 | 6111 | Schnite GP Guard | 施伊特艾臂甲【ＧＰ】 |
 | 6112 | Dicto HS Arms | 德伊克歐護腕【ＨＳ】 |
 | 6113 | Dicto GS Arms | 德伊克歐護腕【ＧＳ】 |
 | 6114 | Dicto GP Arms | 德伊克歐護腕【ＧＰ】 |
-| 6115 | Diletto HS Guard | 德伊爾艾臂甲【ＨＳ】 |
-| 6116 | Diletto GS Guard | 德伊爾艾臂甲【ＧＳ】 |
-| 6117 | Diletto GP Guard | 德伊爾艾臂甲【ＧＰ】 |
+| 6115 | Diletto HS Guard | 迪勒特臂甲【ＨＳ】 |
+| 6116 | Diletto GS Guard | 迪勒特臂甲【ＧＳ】 |
+| 6117 | Diletto GP Guard | 迪勒特臂甲【ＧＰ】 |
 | 6118 | Cubie HS Arms | 方塊護腕【ＨＳ】 |
 | 6119 | Cubie GS Arms | 方塊護腕【ＧＳ】 |
 | 6120 | Cubie GP Arms | 方塊護腕【ＧＰ】 |
@@ -215,16 +215,16 @@
 | 6209 | Franky G Guard | 芙阿恩臂甲【Ｇ】 |
 | 6210 | Franky GF Guard | 芙阿恩臂甲【ＧＦ】 |
 | 6211 | Franky GX Guard | 芙阿恩臂甲【ＧＸ】 |
-| 6212 | Diore Arms | 德伊爾艾護腕 |
-| 6213 | Diore F Arms | 德伊爾艾護腕【Ｆ】 |
-| 6214 | Diore FX Arms | 德伊爾艾護腕【ＦＸ】 |
-| 6215 | Diore G Arms | 德伊爾艾護腕【Ｇ】 |
-| 6216 | Diore GF Arms | 德伊爾艾護腕【ＧＦ】 |
-| 6217 | Diore Guard | 德伊爾艾臂甲 |
-| 6218 | Diore F Guard | 德伊爾艾臂甲【Ｆ】 |
-| 6219 | Diore FX Guard | 德伊爾艾臂甲【ＦＸ】 |
-| 6220 | Diore G Guard | 德伊爾艾臂甲【Ｇ】 |
-| 6221 | Diore GF Guard | 德伊爾艾臂甲【ＧＦ】 |
+| 6212 | Diore Arms | 迪歐護腕 |
+| 6213 | Diore F Arms | 迪歐護腕【Ｆ】 |
+| 6214 | Diore FX Arms | 迪歐護腕【ＦＸ】 |
+| 6215 | Diore G Arms | 迪歐護腕【Ｇ】 |
+| 6216 | Diore GF Arms | 迪歐護腕【ＧＦ】 |
+| 6217 | Diore Guard | 迪歐臂甲 |
+| 6218 | Diore F Guard | 迪歐臂甲【Ｆ】 |
+| 6219 | Diore FX Guard | 迪歐臂甲【ＦＸ】 |
+| 6220 | Diore G Guard | 迪歐臂甲【Ｇ】 |
+| 6221 | Diore GF Guard | 迪歐臂甲【ＧＦ】 |
 | 6222 | Kagura G【 Kote 】 | 神樂籠手【Ｇ】 |
 | 6223 | Kagura GF【 Kote 】 | 神樂籠手【ＧＦ】 |
 | 6224 | Kagura GX【 Kote 】 | 神樂籠手【ＧＸ】 |
@@ -249,8 +249,8 @@
 | 6243 | Vulcan Gフィスト | 火神拳【Ｇ】 |
 | 6244 | Vulcan GFフィスト | 火神拳【ＧＦ】 |
 | 6245 | Vulcan GXフィスト | 火神拳【ＧＸ】 |
-| 6246 | Algol GF Arms | 阿爾歐爾護腕【ＧＦ】 |
-| 6247 | Algol GF Guard | 阿爾歐爾臂甲【ＧＦ】 |
+| 6246 | Algol GF Arms | 戈護腕【ＧＦ】 |
+| 6247 | Algol GF Guard | 戈臂甲【ＧＦ】 |
 | 6248 | Odiva GF Arms | 奧蒂瓦護腕【ＧＦ】 |
 | 6249 | Odiva GF Guard | 奧蒂瓦臂甲【ＧＦ】 |
 | 6250 | Byakko・Kensei GX Arms | 白虎劍聖護腕【ＧＸ】 |

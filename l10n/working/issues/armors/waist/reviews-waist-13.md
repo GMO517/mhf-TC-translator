@@ -31,38 +31,38 @@
 | 6025 | Silver Cat HS Coat | 銀猫腰衣【ＨＳ】 |
 | 6026 | Silver Cat GS Coat | 銀猫腰衣【ＧＳ】 |
 | 6027 | Silver Cat GP Coat | 銀猫腰衣【ＧＰ】 |
-| 6028 | Claire FZ Coil・Purple | 克蕾爾腰甲【ＦＺ】・紫 |
-| 6029 | Claire HS Coil・Purple | 克蕾爾腰甲【ＨＳ】・紫 |
-| 6030 | Claire GS Coil・Purple | 克蕾爾腰甲【ＧＳ】・紫 |
-| 6031 | Claire GP Coil・Purple | 克蕾爾腰甲【ＧＰ】・紫 |
-| 6032 | Claire FZ Coat・Purple | 克蕾爾腰衣【ＦＺ】・紫 |
-| 6033 | Claire HS Coat・Purple | 克蕾爾腰衣【ＨＳ】・紫 |
-| 6034 | Claire GS Coat・Purple | 克蕾爾腰衣【ＧＳ】・紫 |
-| 6035 | Claire GP Coat・Purple | 克蕾爾腰衣【ＧＰ】・紫 |
-| 6036 | Claire FZ Coil・Water | 克蕾爾腰甲【ＦＺ】・水 |
-| 6037 | Claire HS Coil・Water | 克蕾爾腰甲【ＨＳ】・水 |
-| 6038 | Claire GS Coil・Water | 克蕾爾腰甲【ＧＳ】・水 |
-| 6039 | Claire GP Coil・Water | 克蕾爾腰甲【ＧＰ】・水 |
-| 6040 | Claire FZ Coat・Water | 克蕾爾腰衣【ＦＺ】・水 |
-| 6041 | Claire HS Coat・Water | 克蕾爾腰衣【ＨＳ】・水 |
-| 6042 | Claire GS Coat・Water | 克蕾爾腰衣【ＧＳ】・水 |
-| 6043 | Claire GP Coat・Water | 克蕾爾腰衣【ＧＰ】・水 |
-| 6044 | Claire FZ Coil・Red | 克蕾爾腰甲【ＦＺ】・赤 |
-| 6045 | Claire HS Coil・Red | 克蕾爾腰甲【ＨＳ】・赤 |
-| 6046 | Claire GS Coil・Red | 克蕾爾腰甲【ＧＳ】・赤 |
-| 6047 | Claire GP Coil・Red | 克蕾爾腰甲【ＧＰ】・赤 |
-| 6048 | Claire FZ Coat・Red | 克蕾爾腰衣【ＦＺ】・赤 |
-| 6049 | Claire HS Coat・Red | 克蕾爾腰衣【ＨＳ】・赤 |
-| 6050 | Claire GS Coat・Red | 克蕾爾腰衣【ＧＳ】・赤 |
-| 6051 | Claire GP Coat・Red | 克蕾爾腰衣【ＧＰ】・赤 |
-| 6052 | Claire FZ Coil・Black | 克蕾爾腰甲【ＦＺ】・黑 |
-| 6053 | Claire HS Coil・Black | 克蕾爾腰甲【ＨＳ】・黑 |
-| 6054 | Claire GS Coil・Black | 克蕾爾腰甲【ＧＳ】・黑 |
-| 6055 | Claire GP Coil・Black | 克蕾爾腰甲【ＧＰ】・黑 |
-| 6056 | Claire FZ Coat・Black | 克蕾爾腰衣【ＦＺ】・黑 |
-| 6057 | Claire HS Coat・Black | 克蕾爾腰衣【ＨＳ】・黑 |
-| 6058 | Claire GS Coat・Black | 克蕾爾腰衣【ＧＳ】・黑 |
-| 6059 | Claire GP Coat・Black | 克蕾爾腰衣【ＧＰ】・黑 |
+| 6028 | Claire FZ Coil・Purple | 克蕾露腰甲【ＦＺ】・紫 |
+| 6029 | Claire HS Coil・Purple | 克蕾露腰甲【ＨＳ】・紫 |
+| 6030 | Claire GS Coil・Purple | 克蕾露腰甲【ＧＳ】・紫 |
+| 6031 | Claire GP Coil・Purple | 克蕾露腰甲【ＧＰ】・紫 |
+| 6032 | Claire FZ Coat・Purple | 克蕾露腰衣【ＦＺ】・紫 |
+| 6033 | Claire HS Coat・Purple | 克蕾露腰衣【ＨＳ】・紫 |
+| 6034 | Claire GS Coat・Purple | 克蕾露腰衣【ＧＳ】・紫 |
+| 6035 | Claire GP Coat・Purple | 克蕾露腰衣【ＧＰ】・紫 |
+| 6036 | Claire FZ Coil・Water | 克蕾露腰甲【ＦＺ】・水 |
+| 6037 | Claire HS Coil・Water | 克蕾露腰甲【ＨＳ】・水 |
+| 6038 | Claire GS Coil・Water | 克蕾露腰甲【ＧＳ】・水 |
+| 6039 | Claire GP Coil・Water | 克蕾露腰甲【ＧＰ】・水 |
+| 6040 | Claire FZ Coat・Water | 克蕾露腰衣【ＦＺ】・水 |
+| 6041 | Claire HS Coat・Water | 克蕾露腰衣【ＨＳ】・水 |
+| 6042 | Claire GS Coat・Water | 克蕾露腰衣【ＧＳ】・水 |
+| 6043 | Claire GP Coat・Water | 克蕾露腰衣【ＧＰ】・水 |
+| 6044 | Claire FZ Coil・Red | 克蕾露腰甲【ＦＺ】・赤 |
+| 6045 | Claire HS Coil・Red | 克蕾露腰甲【ＨＳ】・赤 |
+| 6046 | Claire GS Coil・Red | 克蕾露腰甲【ＧＳ】・赤 |
+| 6047 | Claire GP Coil・Red | 克蕾露腰甲【ＧＰ】・赤 |
+| 6048 | Claire FZ Coat・Red | 克蕾露腰衣【ＦＺ】・赤 |
+| 6049 | Claire HS Coat・Red | 克蕾露腰衣【ＨＳ】・赤 |
+| 6050 | Claire GS Coat・Red | 克蕾露腰衣【ＧＳ】・赤 |
+| 6051 | Claire GP Coat・Red | 克蕾露腰衣【ＧＰ】・赤 |
+| 6052 | Claire FZ Coil・Black | 克蕾露腰甲【ＦＺ】・黑 |
+| 6053 | Claire HS Coil・Black | 克蕾露腰甲【ＨＳ】・黑 |
+| 6054 | Claire GS Coil・Black | 克蕾露腰甲【ＧＳ】・黑 |
+| 6055 | Claire GP Coil・Black | 克蕾露腰甲【ＧＰ】・黑 |
+| 6056 | Claire FZ Coat・Black | 克蕾露腰衣【ＦＺ】・黑 |
+| 6057 | Claire HS Coat・Black | 克蕾露腰衣【ＨＳ】・黑 |
+| 6058 | Claire GS Coat・Black | 克蕾露腰衣【ＧＳ】・黑 |
+| 6059 | Claire GP Coat・Black | 克蕾露腰衣【ＧＰ】・黑 |
 | 6060 | Text HS Coil・Purple | 文書腰甲【ＨＳ】・紫 |
 | 6061 | Text GS Coil・Purple | 文書腰甲【ＧＳ】・紫 |
 | 6062 | Text GP Coil・Purple | 文書腰甲【ＧＰ】・紫 |
@@ -263,18 +263,18 @@
 | 6257 | Flower HS Belt | 芙歐沃艾腰帶【ＨＳ】 |
 | 6258 | Flower GS Belt | 芙歐沃艾腰帶【ＧＳ】 |
 | 6259 | Flower GP Belt | 芙歐沃艾腰帶【ＧＰ】 |
-| 6260 | Tune HS Waist | 特烏恩艾腰甲【ＨＳ】 |
-| 6261 | Tune GS Waist | 特烏恩艾腰甲【ＧＳ】 |
-| 6262 | Tune GP Waist | 特烏恩艾腰甲【ＧＰ】 |
+| 6260 | Tune HS Waist | 圖奈腰甲【ＨＳ】 |
+| 6261 | Tune GS Waist | 圖奈腰甲【ＧＳ】 |
+| 6262 | Tune GP Waist | 圖奈腰甲【ＧＰ】 |
 | 6263 | Schnite HS Belt | 施伊特艾腰帶【ＨＳ】 |
 | 6264 | Schnite GS Belt | 施伊特艾腰帶【ＧＳ】 |
 | 6265 | Schnite GP Belt | 施伊特艾腰帶【ＧＰ】 |
 | 6266 | Dicto HS Waist | 德伊克歐腰甲【ＨＳ】 |
 | 6267 | Dicto GS Waist | 德伊克歐腰甲【ＧＳ】 |
 | 6268 | Dicto GP Waist | 德伊克歐腰甲【ＧＰ】 |
-| 6269 | Diletto HS Belt | 德伊爾艾腰帶【ＨＳ】 |
-| 6270 | Diletto GS Belt | 德伊爾艾腰帶【ＧＳ】 |
-| 6271 | Diletto GP Belt | 德伊爾艾腰帶【ＧＰ】 |
+| 6269 | Diletto HS Belt | 迪勒特腰帶【ＨＳ】 |
+| 6270 | Diletto GS Belt | 迪勒特腰帶【ＧＳ】 |
+| 6271 | Diletto GP Belt | 迪勒特腰帶【ＧＰ】 |
 | 6272 | Cubie HS Coil | 方塊腰甲【ＨＳ】 |
 | 6273 | Cubie GS Coil | 方塊腰甲【ＧＳ】 |
 | 6274 | Cubie GP Coil | 方塊腰甲【ＧＰ】 |
@@ -369,16 +369,16 @@
 | 6363 | Franky G Belt | 芙阿恩腰帶【Ｇ】 |
 | 6364 | Franky GF Belt | 芙阿恩腰帶【ＧＦ】 |
 | 6365 | Franky GX Belt | 芙阿恩腰帶【ＧＸ】 |
-| 6366 | Diore Faulds | 德伊爾艾腰甲 |
-| 6367 | Diore F Faulds | 德伊爾艾腰甲【Ｆ】 |
-| 6368 | Diore FX Faulds | 德伊爾艾腰甲【ＦＸ】 |
-| 6369 | Diore G Faulds | 德伊爾艾腰甲【Ｇ】 |
-| 6370 | Diore GF Faulds | 德伊爾艾腰甲【ＧＦ】 |
-| 6371 | Diore Coat | 德伊爾艾腰衣 |
-| 6372 | Diore F Coat | 德伊爾艾腰衣【Ｆ】 |
-| 6373 | Diore FX Coat | 德伊爾艾腰衣【ＦＸ】 |
-| 6374 | Diore G Coat | 德伊爾艾腰衣【Ｇ】 |
-| 6375 | Diore GF Coat | 德伊爾艾腰衣【ＧＦ】 |
+| 6366 | Diore Faulds | 迪歐腰甲 |
+| 6367 | Diore F Faulds | 迪歐腰甲【Ｆ】 |
+| 6368 | Diore FX Faulds | 迪歐腰甲【ＦＸ】 |
+| 6369 | Diore G Faulds | 迪歐腰甲【Ｇ】 |
+| 6370 | Diore GF Faulds | 迪歐腰甲【ＧＦ】 |
+| 6371 | Diore Coat | 迪歐腰衣 |
+| 6372 | Diore F Coat | 迪歐腰衣【Ｆ】 |
+| 6373 | Diore FX Coat | 迪歐腰衣【ＦＸ】 |
+| 6374 | Diore G Coat | 迪歐腰衣【Ｇ】 |
+| 6375 | Diore GF Coat | 迪歐腰衣【ＧＦ】 |
 | 6376 | Kagura G【腰当て】 | 神樂腰當【Ｇ】 |
 | 6377 | Kagura GF【腰当て】 | 神樂腰當【ＧＦ】 |
 | 6378 | Kagura GX【腰当て】 | 神樂腰當【ＧＸ】 |
@@ -403,8 +403,8 @@
 | 6397 | Vulcan Gテイル | 火神腰甲 |
 | 6398 | Vulcan GFテイル | 火神腰甲 |
 | 6399 | Vulcan GXテイル | 火神腰甲 |
-| 6400 | Algol GF Faulds | 阿爾歐爾腰甲【ＧＦ】 |
-| 6401 | Algol GF Coat | 阿爾歐爾腰衣【ＧＦ】 |
+| 6400 | Algol GF Faulds | 戈腰甲【ＧＦ】 |
+| 6401 | Algol GF Coat | 戈腰衣【ＧＦ】 |
 | 6402 | Odiva GF Faulds | 奧蒂瓦腰甲【ＧＦ】 |
 | 6403 | Odiva GF Coat | 奧蒂瓦腰衣【ＧＦ】 |
 | 6404 | Byakko・Kensei GX Coil | 白虎劍聖腰甲【ＧＸ】 |

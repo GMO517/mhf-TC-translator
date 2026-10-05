@@ -4,9 +4,9 @@
 
 | index | 原文 | 譯文 |
 |---|---|---|
-| 10001 | テリュオHS Coat | 特里尤歐腰衣【ＨＳ】 |
-| 10002 | テリュオGS Coat | 特里尤歐腰衣【ＧＳ】 |
-| 10003 | テリュオGP Coat | 特里尤歐腰衣【ＧＰ】 |
+| 10001 | テリュオHS Coat | 特琉歐腰衣【ＨＳ】 |
+| 10002 | テリュオGS Coat | 特琉歐腰衣【ＧＳ】 |
+| 10003 | テリュオGP Coat | 特琉歐腰衣【ＧＰ】 |
 | 10004 | Sailor Skirt | 水手裙甲 |
 | 10005 | Sailor G Skirt | 水手裙甲【Ｇ】 |
 | 10006 | Sailor GF Skirt | 水手裙甲【ＧＦ】 |
@@ -33,98 +33,98 @@
 | 10027 | 童伝ノ虎布G | 童伝虎布腰甲 |
 | 10028 | 童伝ノ虎布GF | 童伝虎布腰甲【Ｆ】 |
 | 10029 | 童伝ノ虎布GX | 童伝虎布腰甲 |
-| 10030 | Valier Faulds | 芙阿爾伊腰甲 |
-| 10031 | Valier F Faulds | 芙阿爾伊腰甲【Ｆ】 |
-| 10032 | Valier FY Faulds | 芙阿爾伊腰甲 |
-| 10033 | Valier HS Faulds | 芙阿爾伊腰甲【ＨＳ】 |
-| 10034 | Valier G Faulds | 芙阿爾伊腰甲【Ｇ】 |
-| 10035 | Valier GF Faulds | 芙阿爾伊腰甲【ＧＦ】 |
-| 10036 | Valier GX Faulds | 芙阿爾伊腰甲【ＧＸ】 |
-| 10037 | Valier Coat | 芙阿爾伊腰衣 |
-| 10038 | Valier F Coat | 芙阿爾伊腰衣【Ｆ】 |
-| 10039 | Valier FY Coat | 芙阿爾伊腰衣 |
-| 10040 | Valier HS Coat | 芙阿爾伊腰衣【ＨＳ】 |
-| 10041 | Valier G Coat | 芙阿爾伊腰衣【Ｇ】 |
-| 10042 | Valier GF Coat | 芙阿爾伊腰衣【ＧＦ】 |
-| 10043 | Valier GX Coat | 芙阿爾伊腰衣【ＧＸ】 |
-| 10044 | Lars Faulds | 爾阿爾腰甲 |
-| 10045 | Lars F Faulds | 爾阿爾腰甲【Ｆ】 |
-| 10046 | Lars FY Faulds | 爾阿爾腰甲 |
-| 10047 | Lars HS Faulds | 爾阿爾腰甲【ＨＳ】 |
-| 10048 | Lars G Faulds | 爾阿爾腰甲【Ｇ】 |
-| 10049 | Lars GF Faulds | 爾阿爾腰甲【ＧＦ】 |
-| 10050 | Lars GX Faulds | 爾阿爾腰甲【ＧＸ】 |
-| 10051 | Lars Coat | 爾阿爾腰衣 |
-| 10052 | Lars F Coat | 爾阿爾腰衣【Ｆ】 |
-| 10053 | Lars FY Coat | 爾阿爾腰衣 |
-| 10054 | Lars HS Coat | 爾阿爾腰衣【ＨＳ】 |
-| 10055 | Lars G Coat | 爾阿爾腰衣【Ｇ】 |
-| 10056 | Lars GF Coat | 爾阿爾腰衣【ＧＦ】 |
-| 10057 | Lars GX Coat | 爾阿爾腰衣【ＧＸ】 |
-| 10058 | Shirukku Faulds | 夏伊爾烏腰甲 |
-| 10059 | Shirukku F Faulds | 夏伊爾烏腰甲【Ｆ】 |
-| 10060 | Shirukku FY Faulds | 夏伊爾烏腰甲 |
-| 10061 | Shirukku HS Faulds | 夏伊爾烏腰甲【ＨＳ】 |
-| 10062 | Shirukku G Faulds | 夏伊爾烏腰甲【Ｇ】 |
-| 10063 | Shirukku GF Faulds | 夏伊爾烏腰甲【ＧＦ】 |
-| 10064 | Shirukku GX Faulds | 夏伊爾烏腰甲【ＧＸ】 |
-| 10065 | Shirukku Coat | 夏伊爾烏腰衣 |
-| 10066 | Shirukku F Coat | 夏伊爾烏腰衣【Ｆ】 |
-| 10067 | Shirukku FY Coat | 夏伊爾烏腰衣 |
-| 10068 | Shirukku HS Coat | 夏伊爾烏腰衣【ＨＳ】 |
-| 10069 | Shirukku G Coat | 夏伊爾烏腰衣【Ｇ】 |
-| 10070 | Shirukku GF Coat | 夏伊爾烏腰衣【ＧＦ】 |
-| 10071 | Shirukku GX Coat | 夏伊爾烏腰衣【ＧＸ】 |
-| 10072 | Norukku Faulds | 恩歐爾烏腰甲 |
-| 10073 | Norukku F Faulds | 恩歐爾烏腰甲【Ｆ】 |
-| 10074 | Norukku FY Faulds | 恩歐爾烏腰甲 |
-| 10075 | Norukku HS Faulds | 恩歐爾烏腰甲【ＨＳ】 |
-| 10076 | Norukku G Faulds | 恩歐爾烏腰甲【Ｇ】 |
-| 10077 | Norukku GF Faulds | 恩歐爾烏腰甲【ＧＦ】 |
-| 10078 | Norukku GX Faulds | 恩歐爾烏腰甲【ＧＸ】 |
-| 10079 | Norukku Coat | 恩歐爾烏腰衣 |
-| 10080 | Norukku F Coat | 恩歐爾烏腰衣【Ｆ】 |
-| 10081 | Norukku FY Coat | 恩歐爾烏腰衣 |
-| 10082 | Norukku HS Coat | 恩歐爾烏腰衣【ＨＳ】 |
-| 10083 | Norukku G Coat | 恩歐爾烏腰衣【Ｇ】 |
-| 10084 | Norukku GF Coat | 恩歐爾烏腰衣【ＧＦ】 |
-| 10085 | Norukku GX Coat | 恩歐爾烏腰衣【ＧＸ】 |
-| 10086 | Reiresu G Coil | 爾艾爾艾腰甲【Ｇ】 |
-| 10087 | Reiresu GF Coil | 爾艾爾艾腰甲【ＧＦ】 |
-| 10088 | Reiresu GX Coil | 爾艾爾艾腰甲【ＧＸ】 |
-| 10089 | Reiresu G Coat | 爾艾爾艾腰衣【Ｇ】 |
-| 10090 | Reiresu GF Coat | 爾艾爾艾腰衣【ＧＦ】 |
-| 10091 | Reiresu GX Coat | 爾艾爾艾腰衣【ＧＸ】 |
+| 10030 | Valier Faulds | 瓦莉腰甲 |
+| 10031 | Valier F Faulds | 瓦莉腰甲【Ｆ】 |
+| 10032 | Valier FY Faulds | 瓦莉腰甲 |
+| 10033 | Valier HS Faulds | 瓦莉腰甲【ＨＳ】 |
+| 10034 | Valier G Faulds | 瓦莉腰甲【Ｇ】 |
+| 10035 | Valier GF Faulds | 瓦莉腰甲【ＧＦ】 |
+| 10036 | Valier GX Faulds | 瓦莉腰甲【ＧＸ】 |
+| 10037 | Valier Coat | 瓦莉腰衣 |
+| 10038 | Valier F Coat | 瓦莉腰衣【Ｆ】 |
+| 10039 | Valier FY Coat | 瓦莉腰衣 |
+| 10040 | Valier HS Coat | 瓦莉腰衣【ＨＳ】 |
+| 10041 | Valier G Coat | 瓦莉腰衣【Ｇ】 |
+| 10042 | Valier GF Coat | 瓦莉腰衣【ＧＦ】 |
+| 10043 | Valier GX Coat | 瓦莉腰衣【ＧＸ】 |
+| 10044 | Lars Faulds | 拉腰甲 |
+| 10045 | Lars F Faulds | 拉腰甲【Ｆ】 |
+| 10046 | Lars FY Faulds | 拉腰甲 |
+| 10047 | Lars HS Faulds | 拉腰甲【ＨＳ】 |
+| 10048 | Lars G Faulds | 拉腰甲【Ｇ】 |
+| 10049 | Lars GF Faulds | 拉腰甲【ＧＦ】 |
+| 10050 | Lars GX Faulds | 拉腰甲【ＧＸ】 |
+| 10051 | Lars Coat | 拉腰衣 |
+| 10052 | Lars F Coat | 拉腰衣【Ｆ】 |
+| 10053 | Lars FY Coat | 拉腰衣 |
+| 10054 | Lars HS Coat | 拉腰衣【ＨＳ】 |
+| 10055 | Lars G Coat | 拉腰衣【Ｇ】 |
+| 10056 | Lars GF Coat | 拉腰衣【ＧＦ】 |
+| 10057 | Lars GX Coat | 拉腰衣【ＧＸ】 |
+| 10058 | Shirukku Faulds | 古蘿布腰甲 |
+| 10059 | Shirukku F Faulds | 古蘿布腰甲【Ｆ】 |
+| 10060 | Shirukku FY Faulds | 古蘿布腰甲 |
+| 10061 | Shirukku HS Faulds | 古蘿布腰甲【ＨＳ】 |
+| 10062 | Shirukku G Faulds | 古蘿布腰甲【Ｇ】 |
+| 10063 | Shirukku GF Faulds | 古蘿布腰甲【ＧＦ】 |
+| 10064 | Shirukku GX Faulds | 古蘿布腰甲【ＧＸ】 |
+| 10065 | Shirukku Coat | 古蘿布腰衣 |
+| 10066 | Shirukku F Coat | 古蘿布腰衣【Ｆ】 |
+| 10067 | Shirukku FY Coat | 古蘿布腰衣 |
+| 10068 | Shirukku HS Coat | 古蘿布腰衣【ＨＳ】 |
+| 10069 | Shirukku G Coat | 古蘿布腰衣【Ｇ】 |
+| 10070 | Shirukku GF Coat | 古蘿布腰衣【ＧＦ】 |
+| 10071 | Shirukku GX Coat | 古蘿布腰衣【ＧＸ】 |
+| 10072 | Norukku Faulds | 古蘿布腰甲 |
+| 10073 | Norukku F Faulds | 古蘿布腰甲【Ｆ】 |
+| 10074 | Norukku FY Faulds | 古蘿布腰甲 |
+| 10075 | Norukku HS Faulds | 古蘿布腰甲【ＨＳ】 |
+| 10076 | Norukku G Faulds | 古蘿布腰甲【Ｇ】 |
+| 10077 | Norukku GF Faulds | 古蘿布腰甲【ＧＦ】 |
+| 10078 | Norukku GX Faulds | 古蘿布腰甲【ＧＸ】 |
+| 10079 | Norukku Coat | 古蘿布腰衣 |
+| 10080 | Norukku F Coat | 古蘿布腰衣【Ｆ】 |
+| 10081 | Norukku FY Coat | 古蘿布腰衣 |
+| 10082 | Norukku HS Coat | 古蘿布腰衣【ＨＳ】 |
+| 10083 | Norukku G Coat | 古蘿布腰衣【Ｇ】 |
+| 10084 | Norukku GF Coat | 古蘿布腰衣【ＧＦ】 |
+| 10085 | Norukku GX Coat | 古蘿布腰衣【ＧＸ】 |
+| 10086 | Reiresu G Coil | 蕾蕾斯腰甲【Ｇ】 |
+| 10087 | Reiresu GF Coil | 蕾蕾斯腰甲【ＧＦ】 |
+| 10088 | Reiresu GX Coil | 蕾蕾斯腰甲【ＧＸ】 |
+| 10089 | Reiresu G Coat | 蕾蕾斯腰衣【Ｇ】 |
+| 10090 | Reiresu GF Coat | 蕾蕾斯腰衣【ＧＦ】 |
+| 10091 | Reiresu GX Coat | 蕾蕾斯腰衣【ＧＸ】 |
 | 10092 | Saint G Coil | 斯阿恩腰甲【Ｇ】 |
 | 10093 | Saint GF Coil | 斯阿恩腰甲【ＧＦ】 |
 | 10094 | Saint GX Coil | 斯阿恩腰甲【ＧＸ】 |
 | 10095 | Saint G Coat | 斯阿恩腰衣【Ｇ】 |
 | 10096 | Saint GF Coat | 斯阿恩腰衣【ＧＦ】 |
 | 10097 | Saint GX Coat | 斯阿恩腰衣【ＧＸ】 |
-| 10098 | Solflare Coil | 斯歐爾阿腰甲 |
-| 10099 | Solflare F Coil | 斯歐爾阿腰甲【Ｆ】 |
-| 10100 | Solflare FZ Coil | 斯歐爾阿腰甲【ＦＺ】 |
-| 10101 | Solflare HS Coil | 斯歐爾阿腰甲【ＨＳ】 |
-| 10102 | Solflare GS Coil | 斯歐爾阿腰甲【ＧＳ】 |
-| 10103 | Solflare GP Coil | 斯歐爾阿腰甲【ＧＰ】 |
-| 10104 | Solflare Coat | 斯歐爾阿腰衣 |
-| 10105 | Solflare F Coat | 斯歐爾阿腰衣【Ｆ】 |
-| 10106 | Solflare FZ Coat | 斯歐爾阿腰衣【ＦＺ】 |
-| 10107 | Solflare HS Coat | 斯歐爾阿腰衣【ＨＳ】 |
-| 10108 | Solflare GS Coat | 斯歐爾阿腰衣【ＧＳ】 |
-| 10109 | Solflare GP Coat | 斯歐爾阿腰衣【ＧＰ】 |
-| 10110 | Arben Coil | 阿爾本腰甲 |
-| 10111 | Arben F Coil | 阿爾本腰甲【Ｆ】 |
-| 10112 | Arben FZ Coil | 阿爾本腰甲【ＦＺ】 |
-| 10113 | Arben HS Coil | 阿爾本腰甲【ＨＳ】 |
-| 10114 | Arben GS Coil | 阿爾本腰甲【ＧＳ】 |
-| 10115 | Arben GP Coil | 阿爾本腰甲【ＧＰ】 |
-| 10116 | Arben Coat | 阿爾本腰衣 |
-| 10117 | Arben F Coat | 阿爾本腰衣【Ｆ】 |
-| 10118 | Arben FZ Coat | 阿爾本腰衣【ＦＺ】 |
-| 10119 | Arben HS Coat | 阿爾本腰衣【ＨＳ】 |
-| 10120 | Arben GS Coat | 阿爾本腰衣【ＧＳ】 |
-| 10121 | Arben GP Coat | 阿爾本腰衣【ＧＰ】 |
+| 10098 | Solflare Coil | 索芙蕾腰甲 |
+| 10099 | Solflare F Coil | 索芙蕾腰甲【Ｆ】 |
+| 10100 | Solflare FZ Coil | 索芙蕾腰甲【ＦＺ】 |
+| 10101 | Solflare HS Coil | 索芙蕾腰甲【ＨＳ】 |
+| 10102 | Solflare GS Coil | 索芙蕾腰甲【ＧＳ】 |
+| 10103 | Solflare GP Coil | 索芙蕾腰甲【ＧＰ】 |
+| 10104 | Solflare Coat | 索芙蕾腰衣 |
+| 10105 | Solflare F Coat | 索芙蕾腰衣【Ｆ】 |
+| 10106 | Solflare FZ Coat | 索芙蕾腰衣【ＦＺ】 |
+| 10107 | Solflare HS Coat | 索芙蕾腰衣【ＨＳ】 |
+| 10108 | Solflare GS Coat | 索芙蕾腰衣【ＧＳ】 |
+| 10109 | Solflare GP Coat | 索芙蕾腰衣【ＧＰ】 |
+| 10110 | Arben Coil | 亞露貝恩腰甲 |
+| 10111 | Arben F Coil | 亞露貝恩腰甲【Ｆ】 |
+| 10112 | Arben FZ Coil | 亞露貝恩腰甲【ＦＺ】 |
+| 10113 | Arben HS Coil | 亞露貝恩腰甲【ＨＳ】 |
+| 10114 | Arben GS Coil | 亞露貝恩腰甲【ＧＳ】 |
+| 10115 | Arben GP Coil | 亞露貝恩腰甲【ＧＰ】 |
+| 10116 | Arben Coat | 亞露貝恩腰衣 |
+| 10117 | Arben F Coat | 亞露貝恩腰衣【Ｆ】 |
+| 10118 | Arben FZ Coat | 亞露貝恩腰衣【ＦＺ】 |
+| 10119 | Arben HS Coat | 亞露貝恩腰衣【ＨＳ】 |
+| 10120 | Arben GS Coat | 亞露貝恩腰衣【ＧＳ】 |
+| 10121 | Arben GP Coat | 亞露貝恩腰衣【ＧＰ】 |
 | 10122 | Keravuno Coil | 凱拉武諾腰甲 |
 | 10123 | Keravuno F Coil | 凱拉武諾腰甲【Ｆ】 |
 | 10124 | Keravuno FZ Coil | 凱拉武諾腰甲【ＦＺ】 |
@@ -185,8 +185,8 @@
 | 10179 | Flame GX Coat | 炎腰衣【ＧＸ】 |
 | 10180 | Furoru GX Waist | 弗羅魯腰甲【ＧＸ】 |
 | 10181 | Furoru GX Belt | 弗羅魯腰帶【ＧＸ】 |
-| 10182 | Varusa GX Faulds | 芙阿爾烏腰甲【ＧＸ】 |
-| 10183 | Varusa GX Coat | 芙阿爾烏腰衣【ＧＸ】 |
+| 10182 | Varusa GX Faulds | 瓦露薩腰甲【ＧＸ】 |
+| 10183 | Varusa GX Coat | 瓦露薩腰衣【ＧＸ】 |
 | 10184 | Stygian Faulds | 斯伊恩腰甲 |
 | 10185 | Stygian G Faulds | 斯伊恩腰甲【Ｇ】 |
 | 10186 | Stygian GF Faulds | 斯伊恩腰甲【ＧＦ】 |
@@ -363,30 +363,30 @@
 | 10357 | Red Ice Emperor HS Coat | 赤冰帝腰衣【ＨＳ】 |
 | 10358 | Red Ice Emperor GS Coat | 赤冰帝腰衣【ＧＳ】 |
 | 10359 | Red Ice Emperor GP Coat | 赤冰帝腰衣【ＧＰ】 |
-| 10360 | Taruta Coil | 特阿爾烏腰甲 |
-| 10361 | Taruta F Coil | 特阿爾烏腰甲【Ｆ】 |
-| 10362 | Taruta FZ Coil | 特阿爾烏腰甲【ＦＺ】 |
-| 10363 | Taruta HS Coil | 特阿爾烏腰甲【ＨＳ】 |
-| 10364 | Taruta GS Coil | 特阿爾烏腰甲【ＧＳ】 |
-| 10365 | Taruta GP Coil | 特阿爾烏腰甲【ＧＰ】 |
-| 10366 | Taruta Coat | 特阿爾烏腰衣 |
-| 10367 | Taruta F Coat | 特阿爾烏腰衣【Ｆ】 |
-| 10368 | Taruta FZ Coat | 特阿爾烏腰衣【ＦＺ】 |
-| 10369 | Taruta HS Coat | 特阿爾烏腰衣【ＨＳ】 |
-| 10370 | Taruta GS Coat | 特阿爾烏腰衣【ＧＳ】 |
-| 10371 | Taruta GP Coat | 特阿爾烏腰衣【ＧＰ】 |
-| 10372 | Ruruta Coil | 爾烏爾烏腰甲 |
-| 10373 | Ruruta F Coil | 爾烏爾烏腰甲【Ｆ】 |
-| 10374 | Ruruta FZ Coil | 爾烏爾烏腰甲【ＦＺ】 |
-| 10375 | Ruruta HS Coil | 爾烏爾烏腰甲【ＨＳ】 |
-| 10376 | Ruruta GS Coil | 爾烏爾烏腰甲【ＧＳ】 |
-| 10377 | Ruruta GP Coil | 爾烏爾烏腰甲【ＧＰ】 |
-| 10378 | Ruruta Coat | 爾烏爾烏腰衣 |
-| 10379 | Ruruta F Coat | 爾烏爾烏腰衣【Ｆ】 |
-| 10380 | Ruruta FZ Coat | 爾烏爾烏腰衣【ＦＺ】 |
-| 10381 | Ruruta HS Coat | 爾烏爾烏腰衣【ＨＳ】 |
-| 10382 | Ruruta GS Coat | 爾烏爾烏腰衣【ＧＳ】 |
-| 10383 | Ruruta GP Coat | 爾烏爾烏腰衣【ＧＰ】 |
+| 10360 | Taruta Coil | 塔露塔腰甲 |
+| 10361 | Taruta F Coil | 塔露塔腰甲【Ｆ】 |
+| 10362 | Taruta FZ Coil | 塔露塔腰甲【ＦＺ】 |
+| 10363 | Taruta HS Coil | 塔露塔腰甲【ＨＳ】 |
+| 10364 | Taruta GS Coil | 塔露塔腰甲【ＧＳ】 |
+| 10365 | Taruta GP Coil | 塔露塔腰甲【ＧＰ】 |
+| 10366 | Taruta Coat | 塔露塔腰衣 |
+| 10367 | Taruta F Coat | 塔露塔腰衣【Ｆ】 |
+| 10368 | Taruta FZ Coat | 塔露塔腰衣【ＦＺ】 |
+| 10369 | Taruta HS Coat | 塔露塔腰衣【ＨＳ】 |
+| 10370 | Taruta GS Coat | 塔露塔腰衣【ＧＳ】 |
+| 10371 | Taruta GP Coat | 塔露塔腰衣【ＧＰ】 |
+| 10372 | Ruruta Coil | 露露塔腰甲 |
+| 10373 | Ruruta F Coil | 露露塔腰甲【Ｆ】 |
+| 10374 | Ruruta FZ Coil | 露露塔腰甲【ＦＺ】 |
+| 10375 | Ruruta HS Coil | 露露塔腰甲【ＨＳ】 |
+| 10376 | Ruruta GS Coil | 露露塔腰甲【ＧＳ】 |
+| 10377 | Ruruta GP Coil | 露露塔腰甲【ＧＰ】 |
+| 10378 | Ruruta Coat | 露露塔腰衣 |
+| 10379 | Ruruta F Coat | 露露塔腰衣【Ｆ】 |
+| 10380 | Ruruta FZ Coat | 露露塔腰衣【ＦＺ】 |
+| 10381 | Ruruta HS Coat | 露露塔腰衣【ＨＳ】 |
+| 10382 | Ruruta GS Coat | 露露塔腰衣【ＧＳ】 |
+| 10383 | Ruruta GP Coat | 露露塔腰衣【ＧＰ】 |
 | 10384 | Kurofi Coil | 克羅菲腰甲 |
 | 10385 | Kurofi F Coil | 克羅菲腰甲【Ｆ】 |
 | 10386 | Kurofi FZ Coil | 克羅菲腰甲【ＦＺ】 |
@@ -417,54 +417,54 @@
 | 10411 | Chiarim HS Coat | 奇亞琳腰衣【ＨＳ】 |
 | 10412 | Chiarim GS Coat | 奇亞琳腰衣【ＧＳ】 |
 | 10413 | Chiarim GP Coat | 奇亞琳腰衣【ＧＰ】 |
-| 10414 | Rohokku Faulds | 爾歐赫歐腰甲 |
-| 10415 | Rohokku F Faulds | 爾歐赫歐腰甲【Ｆ】 |
-| 10416 | Rohokku FY Faulds | 爾歐赫歐腰甲 |
-| 10417 | Rohokku HS Faulds | 爾歐赫歐腰甲【ＨＳ】 |
-| 10418 | Rohokku G Faulds | 爾歐赫歐腰甲【Ｇ】 |
-| 10419 | Rohokku GF Faulds | 爾歐赫歐腰甲【ＧＦ】 |
-| 10420 | Rohokku GX Faulds | 爾歐赫歐腰甲【ＧＸ】 |
-| 10421 | Rohokku Coat | 爾歐赫歐腰衣 |
-| 10422 | Rohokku F Coat | 爾歐赫歐腰衣【Ｆ】 |
-| 10423 | Rohokku FY Coat | 爾歐赫歐腰衣 |
-| 10424 | Rohokku HS Coat | 爾歐赫歐腰衣【ＨＳ】 |
-| 10425 | Rohokku G Coat | 爾歐赫歐腰衣【Ｇ】 |
-| 10426 | Rohokku GF Coat | 爾歐赫歐腰衣【ＧＦ】 |
-| 10427 | Rohokku GX Coat | 爾歐赫歐腰衣【ＧＸ】 |
-| 10428 | Cure Faulds | 克烏爾艾腰甲 |
-| 10429 | Cure F Faulds | 克烏爾艾腰甲【Ｆ】 |
-| 10430 | Cure FY Faulds | 克烏爾艾腰甲 |
-| 10431 | Cure HS Faulds | 克烏爾艾腰甲【ＨＳ】 |
-| 10432 | Cure G Faulds | 克烏爾艾腰甲【Ｇ】 |
-| 10433 | Cure GF Faulds | 克烏爾艾腰甲【ＧＦ】 |
-| 10434 | Cure GX Faulds | 克烏爾艾腰甲【ＧＸ】 |
-| 10435 | Cure Coat | 克烏爾艾腰衣 |
-| 10436 | Cure F Coat | 克烏爾艾腰衣【Ｆ】 |
-| 10437 | Cure FY Coat | 克烏爾艾腰衣 |
-| 10438 | Cure HS Coat | 克烏爾艾腰衣【ＨＳ】 |
-| 10439 | Cure G Coat | 克烏爾艾腰衣【Ｇ】 |
-| 10440 | Cure GF Coat | 克烏爾艾腰衣【ＧＦ】 |
-| 10441 | Cure GX Coat | 克烏爾艾腰衣【ＧＸ】 |
+| 10414 | Rohokku Faulds | 蘿霍克腰甲 |
+| 10415 | Rohokku F Faulds | 蘿霍克腰甲【Ｆ】 |
+| 10416 | Rohokku FY Faulds | 蘿霍克腰甲 |
+| 10417 | Rohokku HS Faulds | 蘿霍克腰甲【ＨＳ】 |
+| 10418 | Rohokku G Faulds | 蘿霍克腰甲【Ｇ】 |
+| 10419 | Rohokku GF Faulds | 蘿霍克腰甲【ＧＦ】 |
+| 10420 | Rohokku GX Faulds | 蘿霍克腰甲【ＧＸ】 |
+| 10421 | Rohokku Coat | 蘿霍克腰衣 |
+| 10422 | Rohokku F Coat | 蘿霍克腰衣【Ｆ】 |
+| 10423 | Rohokku FY Coat | 蘿霍克腰衣 |
+| 10424 | Rohokku HS Coat | 蘿霍克腰衣【ＨＳ】 |
+| 10425 | Rohokku G Coat | 蘿霍克腰衣【Ｇ】 |
+| 10426 | Rohokku GF Coat | 蘿霍克腰衣【ＧＦ】 |
+| 10427 | Rohokku GX Coat | 蘿霍克腰衣【ＧＸ】 |
+| 10428 | Cure Faulds | 庫蕾腰甲 |
+| 10429 | Cure F Faulds | 庫蕾腰甲【Ｆ】 |
+| 10430 | Cure FY Faulds | 庫蕾腰甲 |
+| 10431 | Cure HS Faulds | 庫蕾腰甲【ＨＳ】 |
+| 10432 | Cure G Faulds | 庫蕾腰甲【Ｇ】 |
+| 10433 | Cure GF Faulds | 庫蕾腰甲【ＧＦ】 |
+| 10434 | Cure GX Faulds | 庫蕾腰甲【ＧＸ】 |
+| 10435 | Cure Coat | 庫蕾腰衣 |
+| 10436 | Cure F Coat | 庫蕾腰衣【Ｆ】 |
+| 10437 | Cure FY Coat | 庫蕾腰衣 |
+| 10438 | Cure HS Coat | 庫蕾腰衣【ＨＳ】 |
+| 10439 | Cure G Coat | 庫蕾腰衣【Ｇ】 |
+| 10440 | Cure GF Coat | 庫蕾腰衣【ＧＦ】 |
+| 10441 | Cure GX Coat | 庫蕾腰衣【ＧＸ】 |
 | 10442 | 鬼凛ノ虎布G | 鬼凛虎布腰甲 |
 | 10443 | 鬼凛ノ虎布GF | 鬼凛虎布腰甲【Ｆ】 |
 | 10444 | 鬼凛ノ虎布GX | 鬼凛虎布腰甲 |
 | 10445 | 童凛ノ虎布G | 童凛虎布腰甲 |
 | 10446 | 童凛ノ虎布GF | 童凛虎布腰甲【Ｆ】 |
 | 10447 | 童凛ノ虎布GX | 童凛虎布腰甲 |
-| 10448 | Eguiene Faulds | 艾格烏恩腰甲 |
-| 10449 | Eguiene F Faulds | 艾格烏恩腰甲【Ｆ】 |
-| 10450 | Eguiene FY Faulds | 艾格烏恩腰甲 |
-| 10451 | Eguiene HS Faulds | 艾格烏恩腰甲【ＨＳ】 |
-| 10452 | Eguiene G Faulds | 艾格烏恩腰甲【Ｇ】 |
-| 10453 | Eguiene GF Faulds | 艾格烏恩腰甲【ＧＦ】 |
-| 10454 | Eguiene GX Faulds | 艾格烏恩腰甲【ＧＸ】 |
-| 10455 | Eguiene Coat | 艾格烏恩腰衣 |
-| 10456 | Eguiene F Coat | 艾格烏恩腰衣【Ｆ】 |
-| 10457 | Eguiene FY Coat | 艾格烏恩腰衣 |
-| 10458 | Eguiene HS Coat | 艾格烏恩腰衣【ＨＳ】 |
-| 10459 | Eguiene G Coat | 艾格烏恩腰衣【Ｇ】 |
-| 10460 | Eguiene GF Coat | 艾格烏恩腰衣【ＧＦ】 |
-| 10461 | Eguiene GX Coat | 艾格烏恩腰衣【ＧＸ】 |
+| 10448 | Eguiene Faulds | 古奈腰甲 |
+| 10449 | Eguiene F Faulds | 古奈腰甲【Ｆ】 |
+| 10450 | Eguiene FY Faulds | 古奈腰甲 |
+| 10451 | Eguiene HS Faulds | 古奈腰甲【ＨＳ】 |
+| 10452 | Eguiene G Faulds | 古奈腰甲【Ｇ】 |
+| 10453 | Eguiene GF Faulds | 古奈腰甲【ＧＦ】 |
+| 10454 | Eguiene GX Faulds | 古奈腰甲【ＧＸ】 |
+| 10455 | Eguiene Coat | 古奈腰衣 |
+| 10456 | Eguiene F Coat | 古奈腰衣【Ｆ】 |
+| 10457 | Eguiene FY Coat | 古奈腰衣 |
+| 10458 | Eguiene HS Coat | 古奈腰衣【ＨＳ】 |
+| 10459 | Eguiene G Coat | 古奈腰衣【Ｇ】 |
+| 10460 | Eguiene GF Coat | 古奈腰衣【ＧＦ】 |
+| 10461 | Eguiene GX Coat | 古奈腰衣【ＧＸ】 |
 | 10462 | Vakusu Faulds | 芙阿克烏腰甲 |
 | 10463 | Vakusu F Faulds | 芙阿克烏腰甲【Ｆ】 |
 | 10464 | Vakusu FY Faulds | 芙阿克烏腰甲 |

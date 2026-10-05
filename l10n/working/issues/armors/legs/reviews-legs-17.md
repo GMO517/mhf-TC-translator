@@ -128,48 +128,48 @@
 | 8122 | Quoiz G Leggings | 斯烏茲裹腿【Ｇ】 |
 | 8123 | Quoiz GF Leggings | 斯烏茲裹腿【ＧＦ】 |
 | 8124 | Quoiz GX Leggings | 斯烏茲裹腿【ＧＸ】 |
-| 8125 | Kalais Feet | 克阿爾阿足 |
-| 8126 | Kalais F Feet | 克阿爾阿足【Ｆ】 |
-| 8127 | Kalais FY Feet | 克阿爾阿足 |
-| 8128 | Kalais HS Feet | 克阿爾阿足【ＨＳ】 |
-| 8129 | Kalais G Feet | 克阿爾阿足【Ｇ】 |
-| 8130 | Kalais GF Feet | 克阿爾阿足【ＧＦ】 |
-| 8131 | Kalais GX Feet | 克阿爾阿足【ＧＸ】 |
-| 8132 | Kalais Leggings | 克阿爾阿裹腿 |
-| 8133 | Kalais F Leggings | 克阿爾阿裹腿【Ｆ】 |
-| 8134 | Kalais FY Leggings | 克阿爾阿裹腿 |
-| 8135 | Kalais HS Leggings | 克阿爾阿裹腿【ＨＳ】 |
-| 8136 | Kalais G Leggings | 克阿爾阿裹腿【Ｇ】 |
-| 8137 | Kalais GF Leggings | 克阿爾阿裹腿【ＧＦ】 |
-| 8138 | Kalais GX Leggings | 克阿爾阿裹腿【ＧＸ】 |
-| 8139 | Yoruti Greaves | 伊歐爾烏護腿 |
-| 8140 | Yoruti F Greaves | 伊歐爾烏護腿【Ｆ】 |
-| 8141 | Yoruti FY Greaves | 伊歐爾烏護腿 |
-| 8142 | Yoruti HS Greaves | 伊歐爾烏護腿【ＨＳ】 |
-| 8143 | Yoruti G Greaves | 伊歐爾烏護腿【Ｇ】 |
-| 8144 | Yoruti GF Greaves | 伊歐爾烏護腿【ＧＦ】 |
-| 8145 | Yoruti GX Greaves | 伊歐爾烏護腿【ＧＸ】 |
-| 8146 | Yoruti Leggings | 伊歐爾烏裹腿 |
-| 8147 | Yoruti F Leggings | 伊歐爾烏裹腿【Ｆ】 |
-| 8148 | Yoruti FY Leggings | 伊歐爾烏裹腿 |
-| 8149 | Yoruti HS Leggings | 伊歐爾烏裹腿【ＨＳ】 |
-| 8150 | Yoruti G Leggings | 伊歐爾烏裹腿【Ｇ】 |
-| 8151 | Yoruti GF Leggings | 伊歐爾烏裹腿【ＧＦ】 |
-| 8152 | Yoruti GX Leggings | 伊歐爾烏裹腿【ＧＸ】 |
-| 8153 | Haragan Greaves | 赫阿爾阿護腿 |
-| 8154 | Haragan F Greaves | 赫阿爾阿護腿【Ｆ】 |
-| 8155 | Haragan FY Greaves | 赫阿爾阿護腿 |
-| 8156 | Haragan HS Greaves | 赫阿爾阿護腿【ＨＳ】 |
-| 8157 | Haragan G Greaves | 赫阿爾阿護腿【Ｇ】 |
-| 8158 | Haragan GF Greaves | 赫阿爾阿護腿【ＧＦ】 |
-| 8159 | Haragan GX Greaves | 赫阿爾阿護腿【ＧＸ】 |
-| 8160 | Haragan Leggings | 赫阿爾阿裹腿 |
-| 8161 | Haragan F Leggings | 赫阿爾阿裹腿【Ｆ】 |
-| 8162 | Haragan FY Leggings | 赫阿爾阿裹腿 |
-| 8163 | Haragan HS Leggings | 赫阿爾阿裹腿【ＨＳ】 |
-| 8164 | Haragan G Leggings | 赫阿爾阿裹腿【Ｇ】 |
-| 8165 | Haragan GF Leggings | 赫阿爾阿裹腿【ＧＦ】 |
-| 8166 | Haragan GX Leggings | 赫阿爾阿裹腿【ＧＸ】 |
+| 8125 | Kalais Feet | 可拉足 |
+| 8126 | Kalais F Feet | 可拉足【Ｆ】 |
+| 8127 | Kalais FY Feet | 可拉足 |
+| 8128 | Kalais HS Feet | 可拉足【ＨＳ】 |
+| 8129 | Kalais G Feet | 可拉足【Ｇ】 |
+| 8130 | Kalais GF Feet | 可拉足【ＧＦ】 |
+| 8131 | Kalais GX Feet | 可拉足【ＧＸ】 |
+| 8132 | Kalais Leggings | 可拉裹腿 |
+| 8133 | Kalais F Leggings | 可拉裹腿【Ｆ】 |
+| 8134 | Kalais FY Leggings | 可拉裹腿 |
+| 8135 | Kalais HS Leggings | 可拉裹腿【ＨＳ】 |
+| 8136 | Kalais G Leggings | 可拉裹腿【Ｇ】 |
+| 8137 | Kalais GF Leggings | 可拉裹腿【ＧＦ】 |
+| 8138 | Kalais GX Leggings | 可拉裹腿【ＧＸ】 |
+| 8139 | Yoruti Greaves | 約露蒂護腿 |
+| 8140 | Yoruti F Greaves | 約露蒂護腿【Ｆ】 |
+| 8141 | Yoruti FY Greaves | 約露蒂護腿 |
+| 8142 | Yoruti HS Greaves | 約露蒂護腿【ＨＳ】 |
+| 8143 | Yoruti G Greaves | 約露蒂護腿【Ｇ】 |
+| 8144 | Yoruti GF Greaves | 約露蒂護腿【ＧＦ】 |
+| 8145 | Yoruti GX Greaves | 約露蒂護腿【ＧＸ】 |
+| 8146 | Yoruti Leggings | 約露蒂裹腿 |
+| 8147 | Yoruti F Leggings | 約露蒂裹腿【Ｆ】 |
+| 8148 | Yoruti FY Leggings | 約露蒂裹腿 |
+| 8149 | Yoruti HS Leggings | 約露蒂裹腿【ＨＳ】 |
+| 8150 | Yoruti G Leggings | 約露蒂裹腿【Ｇ】 |
+| 8151 | Yoruti GF Leggings | 約露蒂裹腿【ＧＦ】 |
+| 8152 | Yoruti GX Leggings | 約露蒂裹腿【ＧＸ】 |
+| 8153 | Haragan Greaves | 哈拉加護腿 |
+| 8154 | Haragan F Greaves | 哈拉加護腿【Ｆ】 |
+| 8155 | Haragan FY Greaves | 哈拉加護腿 |
+| 8156 | Haragan HS Greaves | 哈拉加護腿【ＨＳ】 |
+| 8157 | Haragan G Greaves | 哈拉加護腿【Ｇ】 |
+| 8158 | Haragan GF Greaves | 哈拉加護腿【ＧＦ】 |
+| 8159 | Haragan GX Greaves | 哈拉加護腿【ＧＸ】 |
+| 8160 | Haragan Leggings | 哈拉加裹腿 |
+| 8161 | Haragan F Leggings | 哈拉加裹腿【Ｆ】 |
+| 8162 | Haragan FY Leggings | 哈拉加裹腿 |
+| 8163 | Haragan HS Leggings | 哈拉加裹腿【ＨＳ】 |
+| 8164 | Haragan G Leggings | 哈拉加裹腿【Ｇ】 |
+| 8165 | Haragan GF Leggings | 哈拉加裹腿【ＧＦ】 |
+| 8166 | Haragan GX Leggings | 哈拉加裹腿【ＧＸ】 |
 | 8167 | Rios Greaves | 爾伊斯護腿 |
 | 8168 | Rios F Greaves | 爾伊斯護腿【Ｆ】 |
 | 8169 | Rios FY Greaves | 爾伊斯護腿 |
@@ -198,14 +198,14 @@
 | 8192 | Fog G【 Hakama 】 | 霧袴【Ｇ】 |
 | 8193 | Fog GF【 Hakama 】 | 霧袴【ＧＦ】 |
 | 8194 | Fog GX【 Hakama 】 | 霧袴【ＧＸ】 |
-| 8195 | Rodokuru Greaves | 爾歐德歐護腿 |
-| 8196 | Rodokuru F Greaves | 爾歐德歐護腿【Ｆ】 |
-| 8197 | Rodokuru FY Greaves | 爾歐德歐護腿 |
-| 8198 | Rodokuru HS Greaves | 爾歐德歐護腿【ＨＳ】 |
-| 8199 | Rodokuru G Greaves | 爾歐德歐護腿【Ｇ】 |
-| 8200 | Rodokuru GF Greaves | 爾歐德歐護腿【ＧＦ】 |
-| 8201 | Rodokuru GX Greaves | 爾歐德歐護腿【ＧＸ】 |
-| 8202 | Noir FY Greaves | 恩歐爾護腿 |
+| 8195 | Rodokuru Greaves | 蘿多克露護腿 |
+| 8196 | Rodokuru F Greaves | 蘿多克露護腿【Ｆ】 |
+| 8197 | Rodokuru FY Greaves | 蘿多克露護腿 |
+| 8198 | Rodokuru HS Greaves | 蘿多克露護腿【ＨＳ】 |
+| 8199 | Rodokuru G Greaves | 蘿多克露護腿【Ｇ】 |
+| 8200 | Rodokuru GF Greaves | 蘿多克露護腿【ＧＦ】 |
+| 8201 | Rodokuru GX Greaves | 蘿多克露護腿【ＧＸ】 |
+| 8202 | Noir FY Greaves | 諾護腿 |
 | 8203 | Noir HS Greaves | 黑護腿【ＨＳ】 |
 | 8204 | Noir G Greaves | 黑護腿【Ｇ】 |
 | 8205 | Noir GF Greaves | 黑護腿【ＧＦ】 |
@@ -216,38 +216,38 @@
 | 8210 | 童子ノ足枷G | 童子足枷護腿【Ｇ】 |
 | 8211 | 童子ノ足枷GF | 童子足枷護腿【Ｆ】 |
 | 8212 | 童子ノ足枷GX | 童子足枷護腿【ＧＸ】 |
-| 8213 | Trume Greaves | 特烏姆艾護腿 |
-| 8214 | Trume F Greaves | 特烏姆艾護腿【Ｆ】 |
-| 8215 | Trume FZ Greaves | 特烏姆艾護腿【ＦＺ】 |
-| 8216 | Trume HS Greaves | 特烏姆艾護腿【ＨＳ】 |
-| 8217 | Trume GS Greaves | 特烏姆艾護腿【ＧＳ】 |
-| 8218 | Trume GP Greaves | 特烏姆艾護腿【ＧＰ】 |
-| 8219 | Trume Boots | 特烏姆艾靴 |
-| 8220 | Trume F Boots | 特烏姆艾靴【Ｆ】 |
-| 8221 | Trume FZ Boots | 特烏姆艾靴【ＦＺ】 |
-| 8222 | Trume HS Boots | 特烏姆艾靴【ＨＳ】 |
-| 8223 | Trume GS Boots | 特烏姆艾靴【ＧＳ】 |
-| 8224 | Trume GP Boots | 特烏姆艾靴【ＧＰ】 |
+| 8213 | Trume Greaves | 特梅護腿 |
+| 8214 | Trume F Greaves | 特梅護腿【Ｆ】 |
+| 8215 | Trume FZ Greaves | 特梅護腿【ＦＺ】 |
+| 8216 | Trume HS Greaves | 特梅護腿【ＨＳ】 |
+| 8217 | Trume GS Greaves | 特梅護腿【ＧＳ】 |
+| 8218 | Trume GP Greaves | 特梅護腿【ＧＰ】 |
+| 8219 | Trume Boots | 特梅靴 |
+| 8220 | Trume F Boots | 特梅靴【Ｆ】 |
+| 8221 | Trume FZ Boots | 特梅靴【ＦＺ】 |
+| 8222 | Trume HS Boots | 特梅靴【ＨＳ】 |
+| 8223 | Trume GS Boots | 特梅靴【ＧＳ】 |
+| 8224 | Trume GP Boots | 特梅靴【ＧＰ】 |
 | 8225 | Gogomoa G Greaves | 跳緋獸護腿【Ｇ】 |
 | 8226 | Gogomoa GF Greaves | 跳緋獸護腿【ＧＦ】 |
 | 8227 | Gogomoa GX Greaves | 跳緋獸護腿【ＧＸ】 |
 | 8228 | Gogomoa G Leggings | 跳緋獸裹腿【Ｇ】 |
 | 8229 | Gogomoa GF Leggings | 跳緋獸裹腿【ＧＦ】 |
 | 8230 | Gogomoa GX Leggings | 跳緋獸裹腿【ＧＸ】 |
-| 8231 | Varusa Greaves | 芙阿爾烏護腿 |
-| 8232 | Varusa F Greaves | 芙阿爾烏護腿【Ｆ】 |
-| 8233 | Varusa FX Greaves | 芙阿爾烏護腿【ＦＸ】 |
-| 8234 | Varusa G Greaves | 芙阿爾烏護腿【Ｇ】 |
-| 8235 | Varusa GF Greaves | 芙阿爾烏護腿【ＧＦ】 |
-| 8236 | Varusa Leggings | 芙阿爾烏裹腿 |
-| 8237 | Varusa F Leggings | 芙阿爾烏裹腿【Ｆ】 |
-| 8238 | Varusa FX Leggings | 芙阿爾烏裹腿【ＦＸ】 |
-| 8239 | Varusa G Leggings | 芙阿爾烏裹腿【Ｇ】 |
-| 8240 | Varusa GF Leggings | 芙阿爾烏裹腿【ＧＦ】 |
+| 8231 | Varusa Greaves | 瓦露薩護腿 |
+| 8232 | Varusa F Greaves | 瓦露薩護腿【Ｆ】 |
+| 8233 | Varusa FX Greaves | 瓦露薩護腿【ＦＸ】 |
+| 8234 | Varusa G Greaves | 瓦露薩護腿【Ｇ】 |
+| 8235 | Varusa GF Greaves | 瓦露薩護腿【ＧＦ】 |
+| 8236 | Varusa Leggings | 瓦露薩裹腿 |
+| 8237 | Varusa F Leggings | 瓦露薩裹腿【Ｆ】 |
+| 8238 | Varusa FX Leggings | 瓦露薩裹腿【ＦＸ】 |
+| 8239 | Varusa G Leggings | 瓦露薩裹腿【Ｇ】 |
+| 8240 | Varusa GF Leggings | 瓦露薩裹腿【ＧＦ】 |
 | 8241 | Flame GF Greaves | 炎護腿【ＧＦ】 |
 | 8242 | Flame GF Leggings | 炎裹腿【ＧＦ】 |
-| 8243 | Lils GF Greaves | 爾伊爾護腿【ＧＦ】 |
-| 8244 | Lils GF Leggings | 爾伊爾裹腿【ＧＦ】 |
+| 8243 | Lils GF Greaves | 莉護腿【ＧＦ】 |
+| 8244 | Lils GF Leggings | 莉裹腿【ＧＦ】 |
 | 8245 | Asteli Feet・White | 阿斯特利足・白 |
 | 8246 | Asteli F Feet・White | 阿斯特利足【Ｆ】・白 |
 | 8247 | Asteli FZ Feet・White | 阿斯特利足【ＦＺ】・白 |
@@ -296,26 +296,26 @@
 | 8290 | Asteli HS Boots・Black | 阿斯特利靴【ＨＳ】・黑 |
 | 8291 | Asteli GS Boots・Black | 阿斯特利靴【ＧＳ】・黑 |
 | 8292 | Asteli GP Boots・Black | 阿斯特利靴【ＧＰ】・黑 |
-| 8293 | Lucchese Feet | 爾烏克艾足 |
-| 8294 | Lucchese F Feet | 爾烏克艾足【Ｆ】 |
-| 8295 | Lucchese FY Feet | 爾烏克艾足 |
-| 8296 | Lucchese HS Feet | 爾烏克艾足【ＨＳ】 |
-| 8297 | Lucchese G Feet | 爾烏克艾足【Ｇ】 |
-| 8298 | Lucchese GF Feet | 爾烏克艾足【ＧＦ】 |
-| 8299 | Lucchese GX Feet | 爾烏克艾足【ＧＸ】 |
-| 8300 | Lucchese Leggings | 爾烏克艾裹腿 |
-| 8301 | Lucchese F Leggings | 爾烏克艾裹腿【Ｆ】 |
-| 8302 | Lucchese FY Leggings | 爾烏克艾裹腿 |
-| 8303 | Lucchese HS Leggings | 爾烏克艾裹腿【ＨＳ】 |
-| 8304 | Lucchese G Leggings | 爾烏克艾裹腿【Ｇ】 |
-| 8305 | Lucchese GF Leggings | 爾烏克艾裹腿【ＧＦ】 |
-| 8306 | Lucchese GX Leggings | 爾烏克艾裹腿【ＧＸ】 |
-| 8307 | Orykto G Greaves | 歐爾歐護腿【Ｇ】 |
-| 8308 | Orykto GF Greaves | 歐爾歐護腿【ＧＦ】 |
-| 8309 | Orykto GX Greaves | 歐爾歐護腿【ＧＸ】 |
-| 8310 | Orykto G Leggings | 歐爾歐裹腿【Ｇ】 |
-| 8311 | Orykto GF Leggings | 歐爾歐裹腿【ＧＦ】 |
-| 8312 | Orykto GX Leggings | 歐爾歐裹腿【ＧＸ】 |
+| 8293 | Lucchese Feet | 露切賽足 |
+| 8294 | Lucchese F Feet | 露切賽足【Ｆ】 |
+| 8295 | Lucchese FY Feet | 露切賽足 |
+| 8296 | Lucchese HS Feet | 露切賽足【ＨＳ】 |
+| 8297 | Lucchese G Feet | 露切賽足【Ｇ】 |
+| 8298 | Lucchese GF Feet | 露切賽足【ＧＦ】 |
+| 8299 | Lucchese GX Feet | 露切賽足【ＧＸ】 |
+| 8300 | Lucchese Leggings | 露切賽裹腿 |
+| 8301 | Lucchese F Leggings | 露切賽裹腿【Ｆ】 |
+| 8302 | Lucchese FY Leggings | 露切賽裹腿 |
+| 8303 | Lucchese HS Leggings | 露切賽裹腿【ＨＳ】 |
+| 8304 | Lucchese G Leggings | 露切賽裹腿【Ｇ】 |
+| 8305 | Lucchese GF Leggings | 露切賽裹腿【ＧＦ】 |
+| 8306 | Lucchese GX Leggings | 露切賽裹腿【ＧＸ】 |
+| 8307 | Orykto G Greaves | 托護腿【Ｇ】 |
+| 8308 | Orykto GF Greaves | 托護腿【ＧＦ】 |
+| 8309 | Orykto GX Greaves | 托護腿【ＧＸ】 |
+| 8310 | Orykto G Leggings | 托裹腿【Ｇ】 |
+| 8311 | Orykto GF Leggings | 托裹腿【ＧＦ】 |
+| 8312 | Orykto GX Leggings | 托裹腿【ＧＸ】 |
 | 8313 | Bonito Greaves | 布歐恩伊護腿 |
 | 8314 | Bonito F Greaves | 布歐恩伊護腿【Ｆ】 |
 | 8315 | Bonito FY Greaves | 布歐恩伊護腿 |
@@ -346,16 +346,16 @@
 | 8340 | Harudo FX Leggings | 司銀龍裹腿【ＦＸ】 |
 | 8341 | Harudo G Leggings | 司銀龍裹腿【Ｇ】 |
 | 8342 | Harudo GF Leggings | 司銀龍裹腿【ＧＦ】 |
-| 8343 | Gureado Greaves | 格烏爾艾護腿 |
-| 8344 | Gureado F Greaves | 格烏爾艾護腿【Ｆ】 |
-| 8345 | Gureado FX Greaves | 格烏爾艾護腿【ＦＸ】 |
-| 8346 | Gureado G Greaves | 格烏爾艾護腿【Ｇ】 |
-| 8347 | Gureado GF Greaves | 格烏爾艾護腿【ＧＦ】 |
-| 8348 | Gureado Leggings | 格烏爾艾裹腿 |
-| 8349 | Gureado F Leggings | 格烏爾艾裹腿【Ｆ】 |
-| 8350 | Gureado FX Leggings | 格烏爾艾裹腿【ＦＸ】 |
-| 8351 | Gureado G Leggings | 格烏爾艾裹腿【Ｇ】 |
-| 8352 | Gureado GF Leggings | 格烏爾艾裹腿【ＧＦ】 |
+| 8343 | Gureado Greaves | 古蕾多護腿 |
+| 8344 | Gureado F Greaves | 古蕾多護腿【Ｆ】 |
+| 8345 | Gureado FX Greaves | 古蕾多護腿【ＦＸ】 |
+| 8346 | Gureado G Greaves | 古蕾多護腿【Ｇ】 |
+| 8347 | Gureado GF Greaves | 古蕾多護腿【ＧＦ】 |
+| 8348 | Gureado Leggings | 古蕾多裹腿 |
+| 8349 | Gureado F Leggings | 古蕾多裹腿【Ｆ】 |
+| 8350 | Gureado FX Leggings | 古蕾多裹腿【ＦＸ】 |
+| 8351 | Gureado G Leggings | 古蕾多裹腿【Ｇ】 |
+| 8352 | Gureado GF Leggings | 古蕾多裹腿【ＧＦ】 |
 | 8353 | Akantor Gケマル | 霸龍護腿 |
 | 8354 | Akantor GFケマル | 霸龍護腿 |
 | 8355 | Akantor GXケマル | 霸龍護腿 |

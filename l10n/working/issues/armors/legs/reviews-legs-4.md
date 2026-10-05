@@ -4,18 +4,18 @@
 
 | index | 原文 | 譯文 |
 |---|---|---|
-| 1501 | Rider Leg G | 爾伊德艾腿【Ｇ】 |
+| 1501 | Rider Leg G | 里德腿【Ｇ】 |
 | 1502 | Rising Leg G | 爾伊斯伊腿【Ｇ】 |
-| 1503 | Rider Boots G | 爾伊德艾靴【Ｇ】 |
+| 1503 | Rider Boots G | 里德靴【Ｇ】 |
 | 1504 | Rising Boots G | 爾伊斯伊靴【Ｇ】 |
 | 1505 | Robust ペイル | 剛健護腿 |
 | 1506 | Robust Fペイル | 剛健護腿 |
 | 1507 | Robust Legs | 剛健腿甲 |
 | 1508 | Robust F Legs | 剛健腿甲【Ｆ】 |
-| 1509 | Kukubo Feet | 克烏克烏足 |
-| 1510 | Kukubo F Feet | 克烏克烏足【Ｆ】 |
-| 1511 | Kukubo Leggings | 克烏克烏裹腿 |
-| 1512 | Kukubo F Leggings | 克烏克烏裹腿【Ｆ】 |
+| 1509 | Kukubo Feet | 克克波足 |
+| 1510 | Kukubo F Feet | 克克波足【Ｆ】 |
+| 1511 | Kukubo Leggings | 克克波裹腿 |
+| 1512 | Kukubo F Leggings | 克克波裹腿【Ｆ】 |
 | 1513 | Falco Greaves | 隼護腿 |
 | 1514 | Falco F Greaves | 隼護腿【Ｆ】 |
 | 1515 | Falco Leggings | 隼裹腿 |
@@ -100,10 +100,10 @@
 | 1594 | Steno F Greaves・Red | 水竜護腿【Ｆ】・赤 |
 | 1595 | Steno Leggings・Red | 水竜裹腿・赤 |
 | 1596 | Steno F Leggings・Red | 水竜裹腿【Ｆ】・赤 |
-| 1597 | Jumpin' Feet | 傑烏姆伊足 |
-| 1598 | Jumpin' F Feet | 傑烏姆伊足【Ｆ】 |
-| 1599 | Jumpin' Boots | 傑烏姆伊靴 |
-| 1600 | Jumpin' F Boots | 傑烏姆伊靴【Ｆ】 |
+| 1597 | Jumpin' Feet | 朱皮足 |
+| 1598 | Jumpin' F Feet | 朱皮足【Ｆ】 |
+| 1599 | Jumpin' Boots | 朱皮靴 |
+| 1600 | Jumpin' F Boots | 朱皮靴【Ｆ】 |
 | 1601 | アデュス Greaves | 阿杜斯護腿 |
 | 1602 | アデュスF Greaves | 阿杜斯護腿【Ｆ】 |
 | 1603 | アデュス Leggings | 阿杜斯裹腿 |
@@ -112,14 +112,14 @@
 | 1606 | Metenera F Feet | 梅特涅拉足【Ｆ】 |
 | 1607 | Metenera Boots | 梅特涅拉靴 |
 | 1608 | Metenera F Boots | 梅特涅拉靴【Ｆ】 |
-| 1609 | Excelle Greaves | 艾克斯艾護腿 |
-| 1610 | Excelle F Greaves | 艾克斯艾護腿【Ｆ】 |
-| 1611 | Excelle Leggings | 艾克斯艾裹腿 |
-| 1612 | Excelle F Leggings | 艾克斯艾裹腿【Ｆ】 |
-| 1613 | Pupen Greaves | 普烏普艾護腿 |
-| 1614 | Pupen F Greaves | 普烏普艾護腿【Ｆ】 |
-| 1615 | Pupen Leggings | 普烏普艾裹腿 |
-| 1616 | Pupen F Leggings | 普烏普艾裹腿【Ｆ】 |
+| 1609 | Excelle Greaves | 克斯賽爾護腿 |
+| 1610 | Excelle F Greaves | 克斯賽爾護腿【Ｆ】 |
+| 1611 | Excelle Leggings | 克斯賽爾裹腿 |
+| 1612 | Excelle F Leggings | 克斯賽爾裹腿【Ｆ】 |
+| 1613 | Pupen Greaves | 普佩護腿 |
+| 1614 | Pupen F Greaves | 普佩護腿【Ｆ】 |
+| 1615 | Pupen Leggings | 普佩裹腿 |
+| 1616 | Pupen F Leggings | 普佩裹腿【Ｆ】 |
 | 1617 | Moss Covered Greaves | 苔覆護腿 |
 | 1618 | Moss Covered F Greaves | 苔覆護腿【Ｆ】 |
 | 1619 | Moss Covered Leggings | 苔覆裹腿 |
@@ -157,9 +157,9 @@
 | 1651 | Ruko F Legs | 極龍腿甲【Ｆ】 |
 | 1652 | Blitz レガース | 布伊特護腿 |
 | 1653 | Blitz Boots | 布伊特靴 |
-| 1654 | Lils Greaves | 爾伊爾護腿 |
+| 1654 | Lils Greaves | 莉護腿 |
 | 1655 | ダミー | (dummy) |
-| 1656 | Lils Leggings | 爾伊爾裹腿 |
+| 1656 | Lils Leggings | 莉裹腿 |
 | 1657 | ダミー | (dummy) |
 | 1658 | Kagura FX【 Hakama 】 | 神樂袴【ＦＸ】 |
 | 1659 | Kamiza FX【 Hakama 】 | 上座袴【ＦＸ】 |
@@ -211,12 +211,12 @@
 | 1705 | ルルスF Feet | 魯魯斯足【Ｆ】 |
 | 1706 | Nada Boots | 恩阿德阿靴 |
 | 1707 | Nada F Boots | 恩阿德阿靴【Ｆ】 |
-| 1708 | Rosa Feet | 爾歐斯阿足 |
-| 1709 | Rosa F Feet | 爾歐斯阿足【Ｆ】 |
+| 1708 | Rosa Feet | 蘿薩足 |
+| 1709 | Rosa F Feet | 蘿薩足【Ｆ】 |
 | 1710 | Haosu Feet | 赫阿斯烏足 |
 | 1711 | Haosu F Feet | 赫阿斯烏足【Ｆ】 |
-| 1712 | Miru Feet | 姆伊爾烏足 |
-| 1713 | Miru F Feet | 姆伊爾烏足【Ｆ】 |
+| 1712 | Miru Feet | 蜜露足 |
+| 1713 | Miru F Feet | 蜜露足【Ｆ】 |
 | 1714 | Pasu Boots | 普阿斯烏靴 |
 | 1715 | Pasu F Boots | 普阿斯烏靴【Ｆ】 |
 | 1716 | Randa の Hakama・Yellow | 爾阿恩阿袴・黄 |
@@ -283,24 +283,24 @@
 | 1777 | Heaven 空F脚着 | 空脚着天護腿 |
 | 1778 | Heaven 昇脚着 | 昇脚着天護腿 |
 | 1779 | Heaven 昇F脚着 | 昇脚着天護腿 |
-| 1780 | Jeamu Feet | 傑艾姆烏足 |
-| 1781 | Jeamu F Feet | 傑艾姆烏足【Ｆ】 |
-| 1782 | Amyusu Feet | 阿姆烏斯足 |
-| 1783 | Amyusu F Feet | 阿姆烏斯足【Ｆ】 |
+| 1780 | Jeamu Feet | 傑姆足 |
+| 1781 | Jeamu F Feet | 傑姆足【Ｆ】 |
+| 1782 | Amyusu Feet | 尤斯足 |
+| 1783 | Amyusu F Feet | 尤斯足【Ｆ】 |
 | 1784 | Clevan Feet | 克艾芙阿足 |
 | 1785 | Clevan F Feet | 克艾芙阿足【Ｆ】 |
-| 1786 | Meterosu Boots | 姆艾特艾靴 |
-| 1787 | Meterosu F Boots | 姆艾特艾靴【Ｆ】 |
+| 1786 | Meterosu Boots | 梅特蘿斯靴 |
+| 1787 | Meterosu F Boots | 梅特蘿斯靴【Ｆ】 |
 | 1788 | Shipureru Feet | 夏伊普烏足 |
 | 1789 | Shipureru F Feet | 夏伊普烏足【Ｆ】 |
-| 1790 | Toresupa Feet | 特歐爾艾足 |
-| 1791 | Toresupa F Feet | 特歐爾艾足【Ｆ】 |
-| 1792 | Suteraru Feet | 斯烏特艾足 |
-| 1793 | Suteraru F Feet | 斯烏特艾足【Ｆ】 |
+| 1790 | Toresupa Feet | 托蕾斯拍足 |
+| 1791 | Toresupa F Feet | 托蕾斯拍足【Ｆ】 |
+| 1792 | Suteraru Feet | 斯特拉露足 |
+| 1793 | Suteraru F Feet | 斯特拉露足【Ｆ】 |
 | 1794 | Hakyura Boots | 赫阿克烏靴 |
 | 1795 | Hakyura F Boots | 赫阿克烏靴【Ｆ】 |
-| 1796 | Orutemo F Feet | 歐爾烏特足【Ｆ】 |
-| 1797 | Orutemo F Boots | 歐爾烏特靴【Ｆ】 |
+| 1796 | Orutemo F Feet | 露特莫足【Ｆ】 |
+| 1797 | Orutemo F Boots | 露特莫靴【Ｆ】 |
 | 1798 | 忍の Tabi・陰 SP Yellow | 忍の陰足袋【ＳＰ】・黄 |
 | 1799 | 忍の Tabi・陰 SP Red | 忍の陰足袋【ＳＰ】・赤 |
 | 1800 | 忍の Tabi・陰 SP Blue | 忍の陰足袋【ＳＰ】・青 |
@@ -312,17 +312,17 @@
 | 1806 | K. Lobster Boots SP Blue | 王龍蝦靴【ＳＰ】・青 |
 | 1807 | Aneshisu F Greaves | 阿恩艾夏護腿【Ｆ】 |
 | 1808 | Aneshisu F Leggings | 阿恩艾夏裹腿【Ｆ】 |
-| 1809 | Buran F Greaves | 布烏爾阿護腿【Ｆ】 |
+| 1809 | Buran F Greaves | 布拉護腿【Ｆ】 |
 | 1810 | Zwinger Feet | 茲伊恩艾足 |
 | 1811 | Zwinger Boots | 茲伊恩艾靴 |
 | 1812 | Demon Lord ノ足枷・魁 | 魔王護腿魁 |
 | 1813 | 童子ノ足枷・魁 | 童子足枷魁護腿 |
 | 1814 | Melan F Greaves | 紫黑護腿【Ｆ】 |
 | 1815 | Melan F Leggings | 紫黑裹腿【Ｆ】 |
-| 1816 | Buto F Leg | 布烏特歐腿【Ｆ】 |
-| 1817 | Himeros FX Greaves | 赫伊姆艾護腿【ＦＸ】 |
+| 1816 | Buto F Leg | 布托腿【Ｆ】 |
+| 1817 | Himeros FX Greaves | 希梅蘿護腿【ＦＸ】 |
 | 1818 | Charien FX Leggings | 夏里安裹腿【ＦＸ】 |
-| 1819 | Bureshisu FX Greaves | 布烏爾艾護腿【ＦＸ】 |
+| 1819 | Bureshisu FX Greaves | 布蕾修斯護腿【ＦＸ】 |
 | 1820 | Rathalos LX Greaves | 雄火龍護腿 |
 | 1821 | Rath Soul RX Greaves | 火龍魂護腿 |
 | 1822 | Khezu LX Greaves | 奇怪龍護腿 |
@@ -357,14 +357,14 @@
 | 1851 | Rail F Greaves | 軌護腿【Ｆ】 |
 | 1852 | Rail Leggings | 軌裹腿 |
 | 1853 | Rail F Leggings | 軌裹腿【Ｆ】 |
-| 1854 | Rudeos Greaves | 爾烏德艾護腿 |
-| 1855 | Rudeos F Greaves | 爾烏德艾護腿【Ｆ】 |
-| 1856 | Rudeos Leggings | 爾烏德艾裹腿 |
-| 1857 | Rudeos F Leggings | 爾烏德艾裹腿【Ｆ】 |
-| 1858 | Orchesis Greaves | 歐爾艾斯護腿 |
-| 1859 | Orchesis F Greaves | 歐爾艾斯護腿【Ｆ】 |
-| 1860 | Orchesis Leggings | 歐爾艾斯裹腿 |
-| 1861 | Orchesis F Leggings | 歐爾艾斯裹腿【Ｆ】 |
+| 1854 | Rudeos Greaves | 露德護腿 |
+| 1855 | Rudeos F Greaves | 露德護腿【Ｆ】 |
+| 1856 | Rudeos Leggings | 露德裹腿 |
+| 1857 | Rudeos F Leggings | 露德裹腿【Ｆ】 |
+| 1858 | Orchesis Greaves | 切西護腿 |
+| 1859 | Orchesis F Greaves | 切西護腿【Ｆ】 |
+| 1860 | Orchesis Leggings | 切西裹腿 |
+| 1861 | Orchesis F Leggings | 切西裹腿【Ｆ】 |
 | 1862 | フルイト Greaves | 芙魯伊托護腿 |
 | 1863 | フルイトF Greaves | 芙魯伊托護腿【Ｆ】 |
 | 1864 | ゲレオン Greaves | 蓋雷歐恩護腿 |
@@ -414,11 +414,11 @@
 | 1908 | Beru Leggings SP Purple | 舞雷龍裹腿【ＳＰ】・紫 |
 | 1909 | Rurudi Boots | 魯魯迪靴 |
 | 1910 | Rurudi Leggings | 魯魯迪裹腿 |
-| 1911 | Arc F Greaves | 阿爾護腿【Ｆ】 |
-| 1912 | Arc F Leggings | 阿爾裹腿【Ｆ】 |
+| 1911 | Arc F Greaves | 亞克護腿【Ｆ】 |
+| 1912 | Arc F Leggings | 亞克裹腿【Ｆ】 |
 | 1913 | Strega FX Greaves | 魔女護腿【ＦＸ】 |
 | 1914 | Strega FX Leggings | 魔女裹腿【ＦＸ】 |
-| 1915 | Rath Heart RX Greaves | 爾阿斯艾護腿 |
+| 1915 | Rath Heart RX Greaves | 拉斯赫特護腿 |
 | 1916 | Rathian LX Greaves | 雌火龍護腿 |
 | 1917 | Vespoid RX Leggings | 巨蜂裹腿 |
 | 1918 | Vespoid LX Leggings | 巨蜂裹腿 |
@@ -430,11 +430,11 @@
 | 1924 | フレサ Greaves | 芙雷薩護腿 |
 | 1925 | クラ Beru Greaves | 舞雷龍護腿 |
 | 1926 | シルエラ Greaves | 希魯艾拉護腿 |
-| 1927 | カメ Lea Greaves | 爾艾護腿 |
+| 1927 | カメ Lea Greaves | 勒護腿 |
 | 1928 | ハシント Greaves | 哈希恩托護腿 |
 | 1929 | セレソ Greaves | 塞雷索護腿 |
 | 1930 | オリバ Greaves | 歐里巴護腿 |
-| 1931 | ラウレル Leggings | 拉烏雷魯裹腿 |
+| 1931 | ラウレル Leggings | 拉宇蕾露裹腿 |
 | 1932 | ココ Leggings | 科科裹腿 |
 | 1933 | グラナダ Leggings | 古拉納達裹腿 |
 | 1934 | アトロ Greaves | 阿托羅護腿 |

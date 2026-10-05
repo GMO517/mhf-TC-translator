@@ -173,10 +173,10 @@
 | 4167 | ダミー | (dummy) |
 | 4168 | ダミー | (dummy) |
 | 4169 | ダミー | (dummy) |
-| 4170 | ヴェルフHS Arms | 維爾夫護腕【ＨＳ】 |
-| 4171 | ヴェルフGS Arms | 維爾夫護腕【ＧＳ】 |
-| 4172 | ヴェルフHS Guard | 維爾夫臂甲【ＨＳ】 |
-| 4173 | ヴェルフGS Guard | 維爾夫臂甲【ＧＳ】 |
+| 4170 | ヴェルフHS Arms | 薇露芙護腕【ＨＳ】 |
+| 4171 | ヴェルフGS Arms | 薇露芙護腕【ＧＳ】 |
+| 4172 | ヴェルフHS Guard | 薇露芙臂甲【ＨＳ】 |
+| 4173 | ヴェルフGS Guard | 薇露芙臂甲【ＧＳ】 |
 | 4174 | テリオグHS Arms | 特里歐古護腕【ＨＳ】 |
 | 4175 | テリオグGS Arms | 特里歐古護腕【ＧＳ】 |
 | 4176 | テリオグHS Guard | 特里歐古臂甲【ＨＳ】 |
@@ -245,22 +245,22 @@
 | 4239 | Stroma F Guard | 基質臂甲【Ｆ】 |
 | 4240 | Stroma FX Guard | 基質臂甲【ＦＸ】 |
 | 4241 | Stroma G Guard | 基質臂甲【Ｇ】 |
-| 4242 | Plunder G Arms | 普烏恩艾護腕【Ｇ】 |
-| 4243 | Plunder GF Arms | 普烏恩艾護腕【ＧＦ】 |
-| 4244 | Plunder GX Arms | 普烏恩艾護腕【ＧＸ】 |
-| 4245 | Plunder G Guard | 普烏恩艾臂甲【Ｇ】 |
-| 4246 | Plunder GF Guard | 普烏恩艾臂甲【ＧＦ】 |
-| 4247 | Plunder GX Guard | 普烏恩艾臂甲【ＧＸ】 |
-| 4248 | Altera Arms | 阿爾艾爾護腕 |
-| 4249 | Altera F Arms | 阿爾艾爾護腕【Ｆ】 |
-| 4250 | Altera FX Arms | 阿爾艾爾護腕【ＦＸ】 |
-| 4251 | Altera G Arms | 阿爾艾爾護腕【Ｇ】 |
-| 4252 | Altera GF Arms | 阿爾艾爾護腕【ＧＦ】 |
-| 4253 | Altera Guard | 阿爾艾爾臂甲 |
-| 4254 | Altera F Guard | 阿爾艾爾臂甲【Ｆ】 |
-| 4255 | Altera FX Guard | 阿爾艾爾臂甲【ＦＸ】 |
-| 4256 | Altera G Guard | 阿爾艾爾臂甲【Ｇ】 |
-| 4257 | Altera GF Guard | 阿爾艾爾臂甲【ＧＦ】 |
+| 4242 | Plunder G Arms | 露恩德護腕【Ｇ】 |
+| 4243 | Plunder GF Arms | 露恩德護腕【ＧＦ】 |
+| 4244 | Plunder GX Arms | 露恩德護腕【ＧＸ】 |
+| 4245 | Plunder G Guard | 露恩德臂甲【Ｇ】 |
+| 4246 | Plunder GF Guard | 露恩德臂甲【ＧＦ】 |
+| 4247 | Plunder GX Guard | 露恩德臂甲【ＧＸ】 |
+| 4248 | Altera Arms | 特拉護腕 |
+| 4249 | Altera F Arms | 特拉護腕【Ｆ】 |
+| 4250 | Altera FX Arms | 特拉護腕【ＦＸ】 |
+| 4251 | Altera G Arms | 特拉護腕【Ｇ】 |
+| 4252 | Altera GF Arms | 特拉護腕【ＧＦ】 |
+| 4253 | Altera Guard | 特拉臂甲 |
+| 4254 | Altera F Guard | 特拉臂甲【Ｆ】 |
+| 4255 | Altera FX Guard | 特拉臂甲【ＦＸ】 |
+| 4256 | Altera G Guard | 特拉臂甲【Ｇ】 |
+| 4257 | Altera GF Guard | 特拉臂甲【ＧＦ】 |
 | 4258 | Dragon Gクロウ | 龍爪【Ｇ】 |
 | 4259 | Dragon GFクロウ | 龍爪【ＧＦ】 |
 | 4260 | Dragon GXクロウ | 龍爪【ＧＸ】 |

@@ -173,10 +173,10 @@
 | 4167 | ダミー | (dummy) |
 | 4168 | ダミー | (dummy) |
 | 4169 | ダミー | (dummy) |
-| 4170 | ヴェルフHS Greaves | 維爾夫護腿【ＨＳ】 |
-| 4171 | ヴェルフGS Greaves | 維爾夫護腿【ＧＳ】 |
-| 4172 | ヴェルフHS Leggings | 維爾夫裹腿【ＨＳ】 |
-| 4173 | ヴェルフGS Leggings | 維爾夫裹腿【ＧＳ】 |
+| 4170 | ヴェルフHS Greaves | 薇露芙護腿【ＨＳ】 |
+| 4171 | ヴェルフGS Greaves | 薇露芙護腿【ＧＳ】 |
+| 4172 | ヴェルフHS Leggings | 薇露芙裹腿【ＨＳ】 |
+| 4173 | ヴェルフGS Leggings | 薇露芙裹腿【ＧＳ】 |
 | 4174 | テリオグHS Greaves | 特里歐古護腿【ＨＳ】 |
 | 4175 | テリオグGS Greaves | 特里歐古護腿【ＧＳ】 |
 | 4176 | テリオグHS Leggings | 特里歐古裹腿【ＨＳ】 |
@@ -245,22 +245,22 @@
 | 4239 | Stroma F Leggings | 基質裹腿【Ｆ】 |
 | 4240 | Stroma FX Leggings | 基質裹腿【ＦＸ】 |
 | 4241 | Stroma G Leggings | 基質裹腿【Ｇ】 |
-| 4242 | Plunder G Greaves | 普烏恩艾護腿【Ｇ】 |
-| 4243 | Plunder GF Greaves | 普烏恩艾護腿【ＧＦ】 |
-| 4244 | Plunder GX Greaves | 普烏恩艾護腿【ＧＸ】 |
-| 4245 | Plunder G Leggings | 普烏恩艾裹腿【Ｇ】 |
-| 4246 | Plunder GF Leggings | 普烏恩艾裹腿【ＧＦ】 |
-| 4247 | Plunder GX Leggings | 普烏恩艾裹腿【ＧＸ】 |
-| 4248 | Altera Greaves | 阿爾艾爾護腿 |
-| 4249 | Altera F Greaves | 阿爾艾爾護腿【Ｆ】 |
-| 4250 | Altera FX Greaves | 阿爾艾爾護腿【ＦＸ】 |
-| 4251 | Altera G Greaves | 阿爾艾爾護腿【Ｇ】 |
-| 4252 | Altera GF Greaves | 阿爾艾爾護腿【ＧＦ】 |
-| 4253 | Altera Leggings | 阿爾艾爾裹腿 |
-| 4254 | Altera F Leggings | 阿爾艾爾裹腿【Ｆ】 |
-| 4255 | Altera FX Leggings | 阿爾艾爾裹腿【ＦＸ】 |
-| 4256 | Altera G Leggings | 阿爾艾爾裹腿【Ｇ】 |
-| 4257 | Altera GF Leggings | 阿爾艾爾裹腿【ＧＦ】 |
+| 4242 | Plunder G Greaves | 露恩德護腿【Ｇ】 |
+| 4243 | Plunder GF Greaves | 露恩德護腿【ＧＦ】 |
+| 4244 | Plunder GX Greaves | 露恩德護腿【ＧＸ】 |
+| 4245 | Plunder G Leggings | 露恩德裹腿【Ｇ】 |
+| 4246 | Plunder GF Leggings | 露恩德裹腿【ＧＦ】 |
+| 4247 | Plunder GX Leggings | 露恩德裹腿【ＧＸ】 |
+| 4248 | Altera Greaves | 特拉護腿 |
+| 4249 | Altera F Greaves | 特拉護腿【Ｆ】 |
+| 4250 | Altera FX Greaves | 特拉護腿【ＦＸ】 |
+| 4251 | Altera G Greaves | 特拉護腿【Ｇ】 |
+| 4252 | Altera GF Greaves | 特拉護腿【ＧＦ】 |
+| 4253 | Altera Leggings | 特拉裹腿 |
+| 4254 | Altera F Leggings | 特拉裹腿【Ｆ】 |
+| 4255 | Altera FX Leggings | 特拉裹腿【ＦＸ】 |
+| 4256 | Altera G Leggings | 特拉裹腿【Ｇ】 |
+| 4257 | Altera GF Leggings | 特拉裹腿【ＧＦ】 |
 | 4258 | Dragon G Feet | 龍足【Ｇ】 |
 | 4259 | Dragon GF Feet | 龍足【ＧＦ】 |
 | 4260 | Dragon GX Feet | 龍足【ＧＸ】 |

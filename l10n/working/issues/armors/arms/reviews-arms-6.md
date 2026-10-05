@@ -27,12 +27,12 @@
 | 2521 | Weber F Guard | 韋伯臂甲【Ｆ】 |
 | 2522 | Gilbert Guard | 吉伯特臂甲 |
 | 2523 | Gilbert F Guard | 吉伯特臂甲【Ｆ】 |
-| 2524 | Regyukusu F Arms | 爾艾格烏護腕【Ｆ】 |
-| 2525 | Regyukusu F Guard | 爾艾格烏臂甲【Ｆ】 |
+| 2524 | Regyukusu F Arms | 蕾尤克斯護腕【Ｆ】 |
+| 2525 | Regyukusu F Guard | 蕾尤克斯臂甲【Ｆ】 |
 | 2526 | Garuda FZ Arms | 迦樓羅護腕【ＦＺ】 |
 | 2527 | Garuda FZ Guard | 迦樓羅臂甲【ＦＺ】 |
-| 2528 | Feral FZ Arms | 芙艾爾阿護腕【ＦＺ】 |
-| 2529 | Feral FZ Guard | 芙艾爾阿臂甲【ＦＺ】 |
+| 2528 | Feral FZ Arms | 菲拉護腕【ＦＺ】 |
+| 2529 | Feral FZ Guard | 菲拉臂甲【ＦＺ】 |
 | 2530 | Pandeum FZ Arms | 普阿恩艾護腕【ＦＺ】 |
 | 2531 | Pandeum FZ Guard | 普阿恩艾臂甲【ＦＺ】 |
 | 2532 | Dian FZ Arms | 德伊恩護腕【ＦＺ】 |
@@ -43,14 +43,14 @@
 | 2537 | Flower FZ Guard | 芙歐沃艾臂甲【ＦＺ】 |
 | 2538 | Fias FZ Arms | 芙伊斯護腕【ＦＺ】 |
 | 2539 | Fias FZ Guard | 芙伊斯臂甲【ＦＺ】 |
-| 2540 | Viruto FZ Arms | 芙伊爾烏護腕【ＦＺ】 |
-| 2541 | Viruto FZ Guard | 芙伊爾烏臂甲【ＦＺ】 |
-| 2542 | Tune FZ Arms | 特烏恩艾護腕【ＦＺ】 |
+| 2540 | Viruto FZ Arms | 薇露托護腕【ＦＺ】 |
+| 2541 | Viruto FZ Guard | 薇露托臂甲【ＦＺ】 |
+| 2542 | Tune FZ Arms | 圖奈護腕【ＦＺ】 |
 | 2543 | Schnite FZ Guard | 施伊特艾臂甲【ＦＺ】 |
 | 2544 | Dicto FZ Arms | 德伊克歐護腕【ＦＺ】 |
-| 2545 | Diletto FZ Guard | 德伊爾艾臂甲【ＦＺ】 |
+| 2545 | Diletto FZ Guard | 迪勒特臂甲【ＦＺ】 |
 | 2546 | Kruss FZ Arms | 克烏斯護腕【ＦＺ】 |
-| 2547 | Quote FZ Guard | 斯烏特艾臂甲【ＦＺ】 |
+| 2547 | Quote FZ Guard | 奎特臂甲【ＦＺ】 |
 | 2548 | Starina FZ Arms | 斯塔莉娜護腕【ＦＺ】 |
 | 2549 | Starina FZ Guard | 斯塔莉娜臂甲【ＦＺ】 |
 | 2550 | Loose FZ Arms | 寬鬆護腕【ＦＺ】 |
@@ -99,10 +99,10 @@
 | 2593 | 日光F【 Kote 】 | 日光籠手【Ｆ】 |
 | 2594 | Wadatsumi F [Sleeves 】 | 綿津見袖【Ｆ】 |
 | 2595 | Okami F [Sleeves 】 | 狼袖【Ｆ】 |
-| 2596 | チャチャブプーニヨ | 奇亞奇亞布普護腕 |
-| 2597 | チャチャブプニュス | 奇亞奇亞布普護腕 |
-| 2598 | チャチャブ Brachia | 奇亞奇亞布臂甲 |
-| 2599 | チャチャブケイル | 奇亞奇亞布凱護腕 |
+| 2596 | チャチャブプーニヨ | 夏夏布普護腕 |
+| 2597 | チャチャブプニュス | 夏夏布普護腕 |
+| 2598 | チャチャブ Brachia | 夏夏布臂甲 |
+| 2599 | チャチャブケイル | 夏夏布凱護腕 |
 | 2600 | Santa Arms | 斯阿恩阿護腕 |
 | 2601 | Santa F Arms | 斯阿恩阿護腕【Ｆ】 |
 | 2602 | Santa Guard | 斯阿恩阿臂甲 |
@@ -123,14 +123,14 @@
 | 2617 | Kobaruta F Guard | 克歐布阿臂甲【Ｆ】 |
 | 2618 | Kobaruta FY Guard | 克歐布阿臂甲 |
 | 2619 | Kobaruta HC Guard | 克歐布阿臂甲【ＨＣ】 |
-| 2620 | Dogumea Arms | 德歐格烏護腕 |
-| 2621 | Dogumea F Arms | 德歐格烏護腕【Ｆ】 |
-| 2622 | Dogumea FY Arms | 德歐格烏護腕 |
-| 2623 | Dogumea HC Arms | 德歐格烏護腕【ＨＣ】 |
-| 2624 | Dogumea Guard | 德歐格烏臂甲 |
-| 2625 | Dogumea F Guard | 德歐格烏臂甲【Ｆ】 |
-| 2626 | Dogumea FY Guard | 德歐格烏臂甲 |
-| 2627 | Dogumea HC Guard | 德歐格烏臂甲【ＨＣ】 |
+| 2620 | Dogumea Arms | 多古梅護腕 |
+| 2621 | Dogumea F Arms | 多古梅護腕【Ｆ】 |
+| 2622 | Dogumea FY Arms | 多古梅護腕 |
+| 2623 | Dogumea HC Arms | 多古梅護腕【ＨＣ】 |
+| 2624 | Dogumea Guard | 多古梅臂甲 |
+| 2625 | Dogumea F Guard | 多古梅臂甲【Ｆ】 |
+| 2626 | Dogumea FY Guard | 多古梅臂甲 |
+| 2627 | Dogumea HC Guard | 多古梅臂甲【ＨＣ】 |
 | 2628 | Madaru Arms | 姆阿德阿護腕 |
 | 2629 | Madaru F Arms | 姆阿德阿護腕【Ｆ】 |
 | 2630 | Madaru FY Arms | 姆阿德阿護腕 |
@@ -153,9 +153,9 @@
 | 2647 | Kakabu F Guard | 克阿克阿臂甲【Ｆ】 |
 | 2648 | Kakabu FY Guard | 克阿克阿臂甲 |
 | 2649 | Kakabu HC Guard | 克阿克阿臂甲【ＨＣ】 |
-| 2650 | Gospel FY Arms | 格歐斯艾護腕 |
+| 2650 | Gospel FY Arms | 戈佩護腕 |
 | 2651 | Gospel HC Arms | 福音護腕【ＨＣ】 |
-| 2652 | Gospel FY Guard | 格歐斯艾臂甲 |
+| 2652 | Gospel FY Guard | 戈佩臂甲 |
 | 2653 | Gospel HC Guard | 福音臂甲【ＨＣ】 |
 | 2654 | Zodic Arms・Blue | 黄道護腕・青 |
 | 2655 | Zodic F Arms・Blue | 黄道護腕【Ｆ】・青 |
@@ -234,13 +234,13 @@
 | 2728 | 剣士ランク５ | 拉恩庫護腕 |
 | 2729 | 剣士ランク６ | 拉恩庫護腕 |
 | 2730 | 剣士ランク７ | 拉恩庫護腕 |
-| 2731 | ガンランク１ | 加恩拉恩庫護腕 |
-| 2732 | ガンランク２ | 加恩拉恩庫護腕 |
-| 2733 | ガンランク３ | 加恩拉恩庫護腕 |
-| 2734 | ガンランク４ | 加恩拉恩庫護腕 |
-| 2735 | ガンランク５ | 加恩拉恩庫護腕 |
-| 2736 | ガンランク６ | 加恩拉恩庫護腕 |
-| 2737 | ガンランク７ | 加恩拉恩庫護腕 |
+| 2731 | ガンランク１ | 加恩拉恩護腕 |
+| 2732 | ガンランク２ | 加恩拉恩護腕 |
+| 2733 | ガンランク３ | 加恩拉恩護腕 |
+| 2734 | ガンランク４ | 加恩拉恩護腕 |
+| 2735 | ガンランク５ | 加恩拉恩護腕 |
+| 2736 | ガンランク６ | 加恩拉恩護腕 |
+| 2737 | ガンランク７ | 加恩拉恩護腕 |
 | 2738 | デュスノF Arms | 德尤斯諾護腕【Ｆ】 |
 | 2739 | デュスノF Guard | 德尤斯諾臂甲【Ｆ】 |
 | 2740 | Blitz FX Arms | 布伊特護腕【ＦＸ】 |
@@ -321,8 +321,8 @@
 | 2815 | Blaze HC Arms | 烈焔護腕【ＨＣ】 |
 | 2816 | Blaze FZ Guard | 烈焔臂甲【ＦＺ】 |
 | 2817 | Blaze HC Guard | 烈焔臂甲【ＨＣ】 |
-| 2818 | Arge HC Arms | 阿爾傑護腕【ＨＣ】 |
-| 2819 | Arge HC Guard | 阿爾傑臂甲【ＨＣ】 |
+| 2818 | Arge HC Arms | 亞潔護腕【ＨＣ】 |
+| 2819 | Arge HC Guard | 亞潔臂甲【ＨＣ】 |
 | 2820 | Camarera HC Arms | 可瑪蕾拉護腕【ＨＣ】 |
 | 2821 | Camarera HC Guard | 可瑪蕾拉臂甲【ＨＣ】 |
 | 2822 | Metenera HC Arms | 梅特涅拉護腕【ＨＣ】 |
@@ -383,10 +383,10 @@
 | 2877 | Abiorugu HS Guard | 獰龍臂甲【ＨＳ】 |
 | 2878 | Kuaru HS Arms | 晶龍護腕【ＨＳ】 |
 | 2879 | Kuaru HS Guard | 晶龍臂甲【ＨＳ】 |
-| 2880 | Lils F Arms | 爾伊爾護腕【Ｆ】 |
-| 2881 | Lils F Guard | 爾伊爾臂甲【Ｆ】 |
-| 2882 | Lils FX Arms | 爾伊爾護腕【ＦＸ】 |
-| 2883 | Lils FX Guard | 爾伊爾臂甲【ＦＸ】 |
+| 2880 | Lils F Arms | 莉護腕【Ｆ】 |
+| 2881 | Lils F Guard | 莉臂甲【Ｆ】 |
+| 2882 | Lils FX Arms | 莉護腕【ＦＸ】 |
+| 2883 | Lils FX Guard | 莉臂甲【ＦＸ】 |
 | 2884 | Zodic HS Arms・Blue | 黄道護腕【ＨＳ】・青 |
 | 2885 | Zodic HS Guard・Blue | 黄道臂甲【ＨＳ】・青 |
 | 2886 | Zodic HS Arms・Tea | 黄道護腕【ＨＳ】・茶 |

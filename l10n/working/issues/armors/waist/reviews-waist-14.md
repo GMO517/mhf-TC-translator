@@ -299,14 +299,14 @@
 | 6793 | Kontao GP Coat | 孔陶腰衣【ＧＰ】 |
 | 6794 | Deliver Faulds | 交貨腰甲 |
 | 6795 | Deliver F Faulds | 交貨腰甲【Ｆ】 |
-| 6796 | Deliver FY Faulds | 德艾爾伊腰甲 |
+| 6796 | Deliver FY Faulds | 德莉薇腰甲 |
 | 6797 | Deliver HS Faulds | 交貨腰甲【ＨＳ】 |
 | 6798 | Deliver G Faulds | 交貨腰甲【Ｇ】 |
 | 6799 | Deliver GF Faulds | 交貨腰甲【ＧＦ】 |
 | 6800 | Deliver GX Faulds | 交貨腰甲【ＧＸ】 |
 | 6801 | Deliver Coat | 交貨腰衣 |
 | 6802 | Deliver F Coat | 交貨腰衣【Ｆ】 |
-| 6803 | Deliver FY Coat | 德艾爾伊腰衣 |
+| 6803 | Deliver FY Coat | 德莉薇腰衣 |
 | 6804 | Deliver HS Coat | 交貨腰衣【ＨＳ】 |
 | 6805 | Deliver G Coat | 交貨腰衣【Ｇ】 |
 | 6806 | Deliver GF Coat | 交貨腰衣【ＧＦ】 |
@@ -341,56 +341,56 @@
 | 6835 | Nisuru GX Coat | 尼斯魯腰衣【ＧＸ】 |
 | 6836 | Coord Faulds | 搭配腰甲 |
 | 6837 | Coord F Faulds | 搭配腰甲【Ｆ】 |
-| 6838 | Coord FY Faulds | 克歐爾腰甲 |
+| 6838 | Coord FY Faulds | 古腰甲 |
 | 6839 | Coord HS Faulds | 搭配腰甲【ＨＳ】 |
 | 6840 | Coord G Faulds | 搭配腰甲【Ｇ】 |
 | 6841 | Coord GF Faulds | 搭配腰甲【ＧＦ】 |
 | 6842 | Coord GX Faulds | 搭配腰甲【ＧＸ】 |
 | 6843 | Coord Coat | 搭配腰衣 |
 | 6844 | Coord F Coat | 搭配腰衣【Ｆ】 |
-| 6845 | Coord FY Coat | 克歐爾腰衣 |
+| 6845 | Coord FY Coat | 古腰衣 |
 | 6846 | Coord HS Coat | 搭配腰衣【ＨＳ】 |
 | 6847 | Coord G Coat | 搭配腰衣【Ｇ】 |
 | 6848 | Coord GF Coat | 搭配腰衣【ＧＦ】 |
 | 6849 | Coord GX Coat | 搭配腰衣【ＧＸ】 |
 | 6850 | Resega Faulds | 雷塞加腰甲 |
 | 6851 | Resega F Faulds | 雷塞加腰甲【Ｆ】 |
-| 6852 | Resega FY Faulds | 爾艾斯艾腰甲 |
+| 6852 | Resega FY Faulds | 蕾賽加腰甲 |
 | 6853 | Resega HS Faulds | 雷塞加腰甲【ＨＳ】 |
 | 6854 | Resega G Faulds | 雷塞加腰甲【Ｇ】 |
 | 6855 | Resega GF Faulds | 雷塞加腰甲【ＧＦ】 |
 | 6856 | Resega GX Faulds | 雷塞加腰甲【ＧＸ】 |
 | 6857 | Resega Coat | 雷塞加腰衣 |
 | 6858 | Resega F Coat | 雷塞加腰衣【Ｆ】 |
-| 6859 | Resega FY Coat | 爾艾斯艾腰衣 |
+| 6859 | Resega FY Coat | 蕾賽加腰衣 |
 | 6860 | Resega HS Coat | 雷塞加腰衣【ＨＳ】 |
 | 6861 | Resega G Coat | 雷塞加腰衣【Ｇ】 |
 | 6862 | Resega GF Coat | 雷塞加腰衣【ＧＦ】 |
 | 6863 | Resega GX Coat | 雷塞加腰衣【ＧＸ】 |
 | 6864 | Suforu Faulds | 蘇福魯腰甲 |
 | 6865 | Suforu F Faulds | 蘇福魯腰甲【Ｆ】 |
-| 6866 | Suforu FY Faulds | 斯烏芙歐腰甲 |
+| 6866 | Suforu FY Faulds | 斯佛露腰甲 |
 | 6867 | Suforu HS Faulds | 蘇福魯腰甲【ＨＳ】 |
 | 6868 | Suforu G Faulds | 蘇福魯腰甲【Ｇ】 |
 | 6869 | Suforu GF Faulds | 蘇福魯腰甲【ＧＦ】 |
 | 6870 | Suforu GX Faulds | 蘇福魯腰甲【ＧＸ】 |
 | 6871 | Suforu Coat | 蘇福魯腰衣 |
 | 6872 | Suforu F Coat | 蘇福魯腰衣【Ｆ】 |
-| 6873 | Suforu FY Coat | 斯烏芙歐腰衣 |
+| 6873 | Suforu FY Coat | 斯佛露腰衣 |
 | 6874 | Suforu HS Coat | 蘇福魯腰衣【ＨＳ】 |
 | 6875 | Suforu G Coat | 蘇福魯腰衣【Ｇ】 |
 | 6876 | Suforu GF Coat | 蘇福魯腰衣【ＧＦ】 |
 | 6877 | Suforu GX Coat | 蘇福魯腰衣【ＧＸ】 |
 | 6878 | Perce Faulds | 珀斯腰甲 |
 | 6879 | Perce F Faulds | 珀斯腰甲【Ｆ】 |
-| 6880 | Perce FY Faulds | 普艾爾艾腰甲 |
+| 6880 | Perce FY Faulds | 佩賽腰甲 |
 | 6881 | Perce HS Faulds | 珀斯腰甲【ＨＳ】 |
 | 6882 | Perce G Faulds | 珀斯腰甲【Ｇ】 |
 | 6883 | Perce GF Faulds | 珀斯腰甲【ＧＦ】 |
 | 6884 | Perce GX Faulds | 珀斯腰甲【ＧＸ】 |
 | 6885 | Perce Coat | 珀斯腰衣 |
 | 6886 | Perce F Coat | 珀斯腰衣【Ｆ】 |
-| 6887 | Perce FY Coat | 普艾爾艾腰衣 |
+| 6887 | Perce FY Coat | 佩賽腰衣 |
 | 6888 | Perce HS Coat | 珀斯腰衣【ＨＳ】 |
 | 6889 | Perce G Coat | 珀斯腰衣【Ｇ】 |
 | 6890 | Perce GF Coat | 珀斯腰衣【ＧＦ】 |
@@ -442,7 +442,7 @@
 | 6936 | ダミー | (dummy) |
 | 6937 | ダミー | (dummy) |
 | 6938 | Carrol Belt・Gold | 可羅腰帶・金 |
-| 6939 | Leila Belt | 爾艾爾阿腰帶 |
+| 6939 | Leila Belt | 勒拉腰帶 |
 | 6940 | IS Academy Coil・White | 學院腰甲・白 |
 | 6941 | IS Academy F Coil・White | 學院腰甲【Ｆ】・白 |
 | 6942 | IS Academy FZ Coil・White | 學院腰甲【ＦＺ】・白 |

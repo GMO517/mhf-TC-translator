@@ -9,27 +9,27 @@
 | 8503 | Nina HS Haar・Blue | 尼娜髮【ＨＳ】・青 |
 | 8504 | Nina GS Haar・Blue | 尼娜髮【ＧＳ】・青 |
 | 8505 | Nina GP Haar・Blue | 尼娜髮【ＧＰ】・青 |
-| 8506 | Embrace Piercing | 艾姆阿克耳飾 |
-| 8507 | Embrace F Piercing | 艾姆阿克耳飾【Ｆ】 |
-| 8508 | Embrace FZ Piercing | 艾姆阿克耳飾【ＦＺ】 |
-| 8509 | Embrace HS Piercing | 艾姆阿克耳飾【ＨＳ】 |
-| 8510 | Embrace GS Piercing | 艾姆阿克耳飾【ＧＳ】 |
-| 8511 | Embrace GP Piercing | 艾姆阿克耳飾【ＧＰ】 |
+| 8506 | Embrace Piercing | 姆拉賽耳飾 |
+| 8507 | Embrace F Piercing | 姆拉賽耳飾【Ｆ】 |
+| 8508 | Embrace FZ Piercing | 姆拉賽耳飾【ＦＺ】 |
+| 8509 | Embrace HS Piercing | 姆拉賽耳飾【ＨＳ】 |
+| 8510 | Embrace GS Piercing | 姆拉賽耳飾【ＧＳ】 |
+| 8511 | Embrace GP Piercing | 姆拉賽耳飾【ＧＰ】 |
 | 8512 | Harze Band | 哈澤頭帶 |
 | 8513 | Harze F Band | 哈澤頭帶【Ｆ】 |
 | 8514 | Harze FZ Band | 哈澤頭帶【ＦＺ】 |
 | 8515 | Harze HS Band | 哈澤頭帶【ＨＳ】 |
 | 8516 | Harze GS Band | 哈澤頭帶【ＧＳ】 |
 | 8517 | Harze GP Band | 哈澤頭帶【ＧＰ】 |
-| 8518 | Harze Head | 哈澤頭兜 |
-| 8519 | Harze F Head | 哈澤頭兜【Ｆ】 |
-| 8520 | Harze FZ Head | 哈澤頭兜【ＦＺ】 |
-| 8521 | Harze HS Head | 哈澤頭兜【ＨＳ】 |
-| 8522 | Harze GS Head | 哈澤頭兜【ＧＳ】 |
-| 8523 | Harze GP Head | 哈澤頭兜【ＧＰ】 |
-| 8524 | Kuaru G Helm | 晶龍頭兜【Ｇ】 |
-| 8525 | Kuaru GF Helm | 晶龍頭兜【ＧＦ】 |
-| 8526 | Kuaru GX Helm | 晶龍頭兜【ＧＸ】 |
+| 8518 | Harze Head | 哈澤頭鎧 |
+| 8519 | Harze F Head | 哈澤頭鎧【Ｆ】 |
+| 8520 | Harze FZ Head | 哈澤頭鎧【ＦＺ】 |
+| 8521 | Harze HS Head | 哈澤頭鎧【ＨＳ】 |
+| 8522 | Harze GS Head | 哈澤頭鎧【ＧＳ】 |
+| 8523 | Harze GP Head | 哈澤頭鎧【ＧＰ】 |
+| 8524 | Kuaru G Helm | 晶龍頭鎧【Ｇ】 |
+| 8525 | Kuaru GF Helm | 晶龍頭鎧【ＧＦ】 |
+| 8526 | Kuaru GX Helm | 晶龍頭鎧【ＧＸ】 |
 | 8527 | Kuaru G Cap | 晶龍兜帽【Ｇ】 |
 | 8528 | Kuaru GF Cap | 晶龍兜帽【ＧＦ】 |
 | 8529 | Kuaru GX Cap | 晶龍兜帽【ＧＸ】 |
@@ -45,25 +45,25 @@
 | 8539 | Motion G【五線譜】 | 律動頭兜【Ｇ】 |
 | 8540 | Motion GF【五線譜】 | 律動頭兜【ＧＦ】 |
 | 8541 | Motion GX【五線譜】 | 律動頭兜【ＧＸ】 |
-| 8542 | Pobo Helm | 普歐布歐頭兜 |
-| 8543 | Pobo F Helm | 普歐布歐頭兜【Ｆ】 |
-| 8544 | Pobo FX Helm | 普歐布歐頭兜【ＦＸ】 |
-| 8545 | Pobo G Helm | 普歐布歐頭兜【Ｇ】 |
-| 8546 | Pobo GF Helm | 普歐布歐頭兜【ＧＦ】 |
-| 8547 | Pobo Cap | 普歐布歐兜帽 |
-| 8548 | Pobo F Cap | 普歐布歐兜帽【Ｆ】 |
-| 8549 | Pobo FX Cap | 普歐布歐兜帽【ＦＸ】 |
-| 8550 | Pobo G Cap | 普歐布歐兜帽【Ｇ】 |
-| 8551 | Pobo GF Cap | 普歐布歐兜帽【ＧＦ】 |
-| 8552 | Rath Soul G Helm | 爾阿斯艾魂【Ｇ】 |
-| 8553 | Rath Soul GF Helm | 爾阿斯艾魂【ＧＦ】 |
-| 8554 | Rath Soul GX Helm | 爾阿斯艾魂【ＧＸ】 |
+| 8542 | Pobo Helm | 珀波頭鎧 |
+| 8543 | Pobo F Helm | 珀波頭鎧【Ｆ】 |
+| 8544 | Pobo FX Helm | 珀波頭鎧【ＦＸ】 |
+| 8545 | Pobo G Helm | 珀波頭鎧【Ｇ】 |
+| 8546 | Pobo GF Helm | 珀波頭鎧【ＧＦ】 |
+| 8547 | Pobo Cap | 珀波兜帽 |
+| 8548 | Pobo F Cap | 珀波兜帽【Ｆ】 |
+| 8549 | Pobo FX Cap | 珀波兜帽【ＦＸ】 |
+| 8550 | Pobo G Cap | 珀波兜帽【Ｇ】 |
+| 8551 | Pobo GF Cap | 珀波兜帽【ＧＦ】 |
+| 8552 | Rath Soul G Helm | 拉斯赫姆魂【Ｇ】 |
+| 8553 | Rath Soul GF Helm | 拉斯赫姆魂【ＧＦ】 |
+| 8554 | Rath Soul GX Helm | 拉斯赫姆魂【ＧＸ】 |
 | 8555 | Rath Soul G Cap | 爾阿斯阿魂【Ｇ】 |
 | 8556 | Rath Soul GF Cap | 爾阿斯阿魂【ＧＦ】 |
 | 8557 | Rath Soul GX Cap | 爾阿斯阿魂【ＧＸ】 |
-| 8558 | Rath Heart G Helm | 火龍心頭兜【Ｇ】 |
-| 8559 | Rath Heart GF Helm | 火龍心頭兜【ＧＦ】 |
-| 8560 | Rath Heart GX Helm | 火龍心頭兜【ＧＸ】 |
+| 8558 | Rath Heart G Helm | 火龍心頭鎧【Ｇ】 |
+| 8559 | Rath Heart GF Helm | 火龍心頭鎧【ＧＦ】 |
+| 8560 | Rath Heart GX Helm | 火龍心頭鎧【ＧＸ】 |
 | 8561 | Rath Heart G Cap | 火龍心兜帽【Ｇ】 |
 | 8562 | Rath Heart GF Cap | 火龍心兜帽【ＧＦ】 |
 | 8563 | Rath Heart GX Cap | 火龍心兜帽【ＧＸ】 |
@@ -73,126 +73,126 @@
 | 8567 | Shatemu HS Band | 夏特穆頭帶【ＨＳ】 |
 | 8568 | Shatemu GS Band | 夏特穆頭帶【ＧＳ】 |
 | 8569 | Shatemu GP Band | 夏特穆頭帶【ＧＰ】 |
-| 8570 | Shatemu Head | 夏特穆頭兜 |
-| 8571 | Shatemu F Head | 夏特穆頭兜【Ｆ】 |
-| 8572 | Shatemu FZ Head | 夏特穆頭兜【ＦＺ】 |
-| 8573 | Shatemu HS Head | 夏特穆頭兜【ＨＳ】 |
-| 8574 | Shatemu GS Head | 夏特穆頭兜【ＧＳ】 |
-| 8575 | Shatemu GP Head | 夏特穆頭兜【ＧＰ】 |
+| 8570 | Shatemu Head | 夏特穆頭鎧 |
+| 8571 | Shatemu F Head | 夏特穆頭鎧【Ｆ】 |
+| 8572 | Shatemu FZ Head | 夏特穆頭鎧【ＦＺ】 |
+| 8573 | Shatemu HS Head | 夏特穆頭鎧【ＨＳ】 |
+| 8574 | Shatemu GS Head | 夏特穆頭鎧【ＧＳ】 |
+| 8575 | Shatemu GP Head | 夏特穆頭鎧【ＧＰ】 |
 | 8576 | Hevria Band | 赫芙莉亞頭帶 |
 | 8577 | Hevria F Band | 赫芙莉亞頭帶【Ｆ】 |
 | 8578 | Hevria FZ Band | 赫芙莉亞頭帶【ＦＺ】 |
 | 8579 | Hevria HS Band | 赫芙莉亞頭帶【ＨＳ】 |
 | 8580 | Hevria GS Band | 赫芙莉亞頭帶【ＧＳ】 |
 | 8581 | Hevria GP Band | 赫芙莉亞頭帶【ＧＰ】 |
-| 8582 | Hevria Head | 赫芙莉亞頭兜 |
-| 8583 | Hevria F Head | 赫芙莉亞頭兜【Ｆ】 |
-| 8584 | Hevria FZ Head | 赫芙莉亞頭兜【ＦＺ】 |
-| 8585 | Hevria HS Head | 赫芙莉亞頭兜【ＨＳ】 |
-| 8586 | Hevria GS Head | 赫芙莉亞頭兜【ＧＳ】 |
-| 8587 | Hevria GP Head | 赫芙莉亞頭兜【ＧＰ】 |
-| 8588 | Tiuru Band | 提烏魯頭帶 |
-| 8589 | Tiuru F Band | 提烏魯頭帶【Ｆ】 |
-| 8590 | Tiuru FZ Band | 提烏魯頭帶【ＦＺ】 |
-| 8591 | Tiuru HS Band | 提烏魯頭帶【ＨＳ】 |
-| 8592 | Tiuru GS Band | 提烏魯頭帶【ＧＳ】 |
-| 8593 | Tiuru GP Band | 提烏魯頭帶【ＧＰ】 |
-| 8594 | Tiuru Head | 提烏魯頭兜 |
-| 8595 | Tiuru F Head | 提烏魯頭兜【Ｆ】 |
-| 8596 | Tiuru FZ Head | 提烏魯頭兜【ＦＺ】 |
-| 8597 | Tiuru HS Head | 提烏魯頭兜【ＨＳ】 |
-| 8598 | Tiuru GS Head | 提烏魯頭兜【ＧＳ】 |
-| 8599 | Tiuru GP Head | 提烏魯頭兜【ＧＰ】 |
-| 8600 | Bande Head・Blue | 飾帶頭兜・青 |
-| 8601 | Bande F Head・Blue | 飾帶頭兜【Ｆ】・青 |
-| 8602 | Bande FZ Head・Blue | 飾帶頭兜【ＦＺ】・青 |
-| 8603 | Bande HS Head・Blue | 飾帶頭兜【ＨＳ】・青 |
-| 8604 | Bande GS Head・Blue | 飾帶頭兜【ＧＳ】・青 |
-| 8605 | Bande GP Head・Blue | 飾帶頭兜【ＧＰ】・青 |
+| 8582 | Hevria Head | 赫芙莉亞頭鎧 |
+| 8583 | Hevria F Head | 赫芙莉亞頭鎧【Ｆ】 |
+| 8584 | Hevria FZ Head | 赫芙莉亞頭鎧【ＦＺ】 |
+| 8585 | Hevria HS Head | 赫芙莉亞頭鎧【ＨＳ】 |
+| 8586 | Hevria GS Head | 赫芙莉亞頭鎧【ＧＳ】 |
+| 8587 | Hevria GP Head | 赫芙莉亞頭鎧【ＧＰ】 |
+| 8588 | Tiuru Band | 蒂宇露頭帶 |
+| 8589 | Tiuru F Band | 蒂宇露頭帶【Ｆ】 |
+| 8590 | Tiuru FZ Band | 蒂宇露頭帶【ＦＺ】 |
+| 8591 | Tiuru HS Band | 蒂宇露頭帶【ＨＳ】 |
+| 8592 | Tiuru GS Band | 蒂宇露頭帶【ＧＳ】 |
+| 8593 | Tiuru GP Band | 蒂宇露頭帶【ＧＰ】 |
+| 8594 | Tiuru Head | 蒂宇露頭鎧 |
+| 8595 | Tiuru F Head | 蒂宇露頭鎧【Ｆ】 |
+| 8596 | Tiuru FZ Head | 蒂宇露頭鎧【ＦＺ】 |
+| 8597 | Tiuru HS Head | 蒂宇露頭鎧【ＨＳ】 |
+| 8598 | Tiuru GS Head | 蒂宇露頭鎧【ＧＳ】 |
+| 8599 | Tiuru GP Head | 蒂宇露頭鎧【ＧＰ】 |
+| 8600 | Bande Head・Blue | 飾帶頭鎧・青 |
+| 8601 | Bande F Head・Blue | 飾帶頭鎧【Ｆ】・青 |
+| 8602 | Bande FZ Head・Blue | 飾帶頭鎧【ＦＺ】・青 |
+| 8603 | Bande HS Head・Blue | 飾帶頭鎧【ＨＳ】・青 |
+| 8604 | Bande GS Head・Blue | 飾帶頭鎧【ＧＳ】・青 |
+| 8605 | Bande GP Head・Blue | 飾帶頭鎧【ＧＰ】・青 |
 | 8606 | Bande Cap・Blue | 飾帶兜帽・青 |
 | 8607 | Bande F Cap・Blue | 飾帶兜帽【Ｆ】・青 |
 | 8608 | Bande FZ Cap・Blue | 飾帶兜帽【ＦＺ】・青 |
 | 8609 | Bande HS Cap・Blue | 飾帶兜帽【ＨＳ】・青 |
 | 8610 | Bande GS Cap・Blue | 飾帶兜帽【ＧＳ】・青 |
 | 8611 | Bande GP Cap・Blue | 飾帶兜帽【ＧＰ】・青 |
-| 8612 | Bande Head・Red | 飾帶頭兜・赤 |
-| 8613 | Bande F Head・Red | 飾帶頭兜【Ｆ】・赤 |
-| 8614 | Bande FZ Head・Red | 飾帶頭兜【ＦＺ】・赤 |
-| 8615 | Bande HS Head・Red | 飾帶頭兜【ＨＳ】・赤 |
-| 8616 | Bande GS Head・Red | 飾帶頭兜【ＧＳ】・赤 |
-| 8617 | Bande GP Head・Red | 飾帶頭兜【ＧＰ】・赤 |
+| 8612 | Bande Head・Red | 飾帶頭鎧・赤 |
+| 8613 | Bande F Head・Red | 飾帶頭鎧【Ｆ】・赤 |
+| 8614 | Bande FZ Head・Red | 飾帶頭鎧【ＦＺ】・赤 |
+| 8615 | Bande HS Head・Red | 飾帶頭鎧【ＨＳ】・赤 |
+| 8616 | Bande GS Head・Red | 飾帶頭鎧【ＧＳ】・赤 |
+| 8617 | Bande GP Head・Red | 飾帶頭鎧【ＧＰ】・赤 |
 | 8618 | Bande Cap・Red | 飾帶兜帽・赤 |
 | 8619 | Bande F Cap・Red | 飾帶兜帽【Ｆ】・赤 |
 | 8620 | Bande FZ Cap・Red | 飾帶兜帽【ＦＺ】・赤 |
 | 8621 | Bande HS Cap・Red | 飾帶兜帽【ＨＳ】・赤 |
 | 8622 | Bande GS Cap・Red | 飾帶兜帽【ＧＳ】・赤 |
 | 8623 | Bande GP Cap・Red | 飾帶兜帽【ＧＰ】・赤 |
-| 8624 | Bande Head・Green | 飾帶頭兜・緑 |
-| 8625 | Bande F Head・Green | 飾帶頭兜【Ｆ】・緑 |
-| 8626 | Bande FZ Head・Green | 飾帶頭兜【ＦＺ】・緑 |
-| 8627 | Bande HS Head・Green | 飾帶頭兜【ＨＳ】・緑 |
-| 8628 | Bande GS Head・Green | 飾帶頭兜【ＧＳ】・緑 |
-| 8629 | Bande GP Head・Green | 飾帶頭兜【ＧＰ】・緑 |
+| 8624 | Bande Head・Green | 飾帶頭鎧・緑 |
+| 8625 | Bande F Head・Green | 飾帶頭鎧【Ｆ】・緑 |
+| 8626 | Bande FZ Head・Green | 飾帶頭鎧【ＦＺ】・緑 |
+| 8627 | Bande HS Head・Green | 飾帶頭鎧【ＨＳ】・緑 |
+| 8628 | Bande GS Head・Green | 飾帶頭鎧【ＧＳ】・緑 |
+| 8629 | Bande GP Head・Green | 飾帶頭鎧【ＧＰ】・緑 |
 | 8630 | Bande Cap・Green | 飾帶兜帽・緑 |
 | 8631 | Bande F Cap・Green | 飾帶兜帽【Ｆ】・緑 |
 | 8632 | Bande FZ Cap・Green | 飾帶兜帽【ＦＺ】・緑 |
 | 8633 | Bande HS Cap・Green | 飾帶兜帽【ＨＳ】・緑 |
 | 8634 | Bande GS Cap・Green | 飾帶兜帽【ＧＳ】・緑 |
 | 8635 | Bande GP Cap・Green | 飾帶兜帽【ＧＰ】・緑 |
-| 8636 | Bande Head・Black | 飾帶頭兜・黑 |
-| 8637 | Bande F Head・Black | 飾帶頭兜【Ｆ】・黑 |
-| 8638 | Bande FZ Head・Black | 飾帶頭兜【ＦＺ】・黑 |
-| 8639 | Bande HS Head・Black | 飾帶頭兜【ＨＳ】・黑 |
-| 8640 | Bande GS Head・Black | 飾帶頭兜【ＧＳ】・黑 |
-| 8641 | Bande GP Head・Black | 飾帶頭兜【ＧＰ】・黑 |
+| 8636 | Bande Head・Black | 飾帶頭鎧・黑 |
+| 8637 | Bande F Head・Black | 飾帶頭鎧【Ｆ】・黑 |
+| 8638 | Bande FZ Head・Black | 飾帶頭鎧【ＦＺ】・黑 |
+| 8639 | Bande HS Head・Black | 飾帶頭鎧【ＨＳ】・黑 |
+| 8640 | Bande GS Head・Black | 飾帶頭鎧【ＧＳ】・黑 |
+| 8641 | Bande GP Head・Black | 飾帶頭鎧【ＧＰ】・黑 |
 | 8642 | Bande Cap・Black | 飾帶兜帽・黑 |
 | 8643 | Bande F Cap・Black | 飾帶兜帽【Ｆ】・黑 |
 | 8644 | Bande FZ Cap・Black | 飾帶兜帽【ＦＺ】・黑 |
 | 8645 | Bande HS Cap・Black | 飾帶兜帽【ＨＳ】・黑 |
 | 8646 | Bande GS Cap・Black | 飾帶兜帽【ＧＳ】・黑 |
 | 8647 | Bande GP Cap・Black | 飾帶兜帽【ＧＰ】・黑 |
-| 8648 | Tenpi Helm・Red | 天陽頭兜・赤 |
-| 8649 | Tenpi Helm F・Red | 天陽頭兜【Ｆ】・赤 |
-| 8650 | Tenpi Helm FZ・Red | 天陽頭兜【ＦＺ】・赤 |
-| 8651 | Tenpi Helm HS・Red | 天陽頭兜【ＨＳ】・赤 |
-| 8652 | Tenpi Helm GS・Red | 天陽頭兜【ＧＳ】・赤 |
-| 8653 | Tenpi Helm GP・Red | 天陽頭兜【ＧＰ】・赤 |
+| 8648 | Tenpi Helm・Red | 天陽頭鎧・赤 |
+| 8649 | Tenpi Helm F・Red | 天陽頭鎧【Ｆ】・赤 |
+| 8650 | Tenpi Helm FZ・Red | 天陽頭鎧【ＦＺ】・赤 |
+| 8651 | Tenpi Helm HS・Red | 天陽頭鎧【ＨＳ】・赤 |
+| 8652 | Tenpi Helm GS・Red | 天陽頭鎧【ＧＳ】・赤 |
+| 8653 | Tenpi Helm GP・Red | 天陽頭鎧【ＧＰ】・赤 |
 | 8654 | Tenpi Headguard・Red | 天陽護額・赤 |
 | 8655 | Tenpi Headguard F・Red | 天陽護額【Ｆ】・赤 |
 | 8656 | Tenpi Headguard FZ・Red | 天陽護額【ＦＺ】・赤 |
 | 8657 | Tenpi Headguard HS・Red | 天陽護額【ＨＳ】・赤 |
 | 8658 | Tenpi Headguard GS・Red | 天陽護額【ＧＳ】・赤 |
 | 8659 | Tenpi Headguard GP・Red | 天陽護額【ＧＰ】・赤 |
-| 8660 | Tenpi Helm・Blue | 天陽頭兜・青 |
-| 8661 | Tenpi Helm F・Blue | 天陽頭兜【Ｆ】・青 |
-| 8662 | Tenpi Helm FZ・Blue | 天陽頭兜【ＦＺ】・青 |
-| 8663 | Tenpi Helm HS・Blue | 天陽頭兜【ＨＳ】・青 |
-| 8664 | Tenpi Helm GS・Blue | 天陽頭兜【ＧＳ】・青 |
-| 8665 | Tenpi Helm GP・Blue | 天陽頭兜【ＧＰ】・青 |
+| 8660 | Tenpi Helm・Blue | 天陽頭鎧・青 |
+| 8661 | Tenpi Helm F・Blue | 天陽頭鎧【Ｆ】・青 |
+| 8662 | Tenpi Helm FZ・Blue | 天陽頭鎧【ＦＺ】・青 |
+| 8663 | Tenpi Helm HS・Blue | 天陽頭鎧【ＨＳ】・青 |
+| 8664 | Tenpi Helm GS・Blue | 天陽頭鎧【ＧＳ】・青 |
+| 8665 | Tenpi Helm GP・Blue | 天陽頭鎧【ＧＰ】・青 |
 | 8666 | Tenpi Headguard・Blue | 天陽護額・青 |
 | 8667 | Tenpi Headguard F・Blue | 天陽護額【Ｆ】・青 |
 | 8668 | Tenpi Headguard FZ・Blue | 天陽護額【ＦＺ】・青 |
 | 8669 | Tenpi Headguard HS・Blue | 天陽護額【ＨＳ】・青 |
 | 8670 | Tenpi Headguard GS・Blue | 天陽護額【ＧＳ】・青 |
 | 8671 | Tenpi Headguard GP・Blue | 天陽護額【ＧＰ】・青 |
-| 8672 | Tenpi Helm・Black | 天陽頭兜・黑 |
-| 8673 | Tenpi Helm F・Black | 天陽頭兜【Ｆ】・黑 |
-| 8674 | Tenpi Helm FZ・Black | 天陽頭兜【ＦＺ】・黑 |
-| 8675 | Tenpi Helm HS・Black | 天陽頭兜【ＨＳ】・黑 |
-| 8676 | Tenpi Helm GS・Black | 天陽頭兜【ＧＳ】・黑 |
-| 8677 | Tenpi Helm GP・Black | 天陽頭兜【ＧＰ】・黑 |
+| 8672 | Tenpi Helm・Black | 天陽頭鎧・黑 |
+| 8673 | Tenpi Helm F・Black | 天陽頭鎧【Ｆ】・黑 |
+| 8674 | Tenpi Helm FZ・Black | 天陽頭鎧【ＦＺ】・黑 |
+| 8675 | Tenpi Helm HS・Black | 天陽頭鎧【ＨＳ】・黑 |
+| 8676 | Tenpi Helm GS・Black | 天陽頭鎧【ＧＳ】・黑 |
+| 8677 | Tenpi Helm GP・Black | 天陽頭鎧【ＧＰ】・黑 |
 | 8678 | Tenpi Headguard・Black | 天陽護額・黑 |
 | 8679 | Tenpi Headguard F・Black | 天陽護額【Ｆ】・黑 |
 | 8680 | Tenpi Headguard FZ・Black | 天陽護額【ＦＺ】・黑 |
 | 8681 | Tenpi Headguard HS・Black | 天陽護額【ＨＳ】・黑 |
 | 8682 | Tenpi Headguard GS・Black | 天陽護額【ＧＳ】・黑 |
 | 8683 | Tenpi Headguard GP・Black | 天陽護額【ＧＰ】・黑 |
-| 8684 | Tenpi Helm・White | 天陽頭兜・白 |
-| 8685 | Tenpi Helm F・White | 天陽頭兜【Ｆ】・白 |
-| 8686 | Tenpi Helm FZ・White | 天陽頭兜【ＦＺ】・白 |
-| 8687 | Tenpi Helm HS・White | 天陽頭兜【ＨＳ】・白 |
-| 8688 | Tenpi Helm GS・White | 天陽頭兜【ＧＳ】・白 |
-| 8689 | Tenpi Helm GP・White | 天陽頭兜【ＧＰ】・白 |
+| 8684 | Tenpi Helm・White | 天陽頭鎧・白 |
+| 8685 | Tenpi Helm F・White | 天陽頭鎧【Ｆ】・白 |
+| 8686 | Tenpi Helm FZ・White | 天陽頭鎧【ＦＺ】・白 |
+| 8687 | Tenpi Helm HS・White | 天陽頭鎧【ＨＳ】・白 |
+| 8688 | Tenpi Helm GS・White | 天陽頭鎧【ＧＳ】・白 |
+| 8689 | Tenpi Helm GP・White | 天陽頭鎧【ＧＰ】・白 |
 | 8690 | Tenpi Headguard・White | 天陽護額・白 |
 | 8691 | Tenpi Headguard F・White | 天陽護額【Ｆ】・白 |
 | 8692 | Tenpi Headguard FZ・White | 天陽護額【ＦＺ】・白 |
@@ -253,54 +253,54 @@
 | 8747 | Ruban HS Band | 魯班頭帶【ＨＳ】 |
 | 8748 | Ruban GS Band | 魯班頭帶【ＧＳ】 |
 | 8749 | Ruban GP Band | 魯班頭帶【ＧＰ】 |
-| 8750 | Ruban Head | 魯班頭兜 |
-| 8751 | Ruban F Head | 魯班頭兜【Ｆ】 |
-| 8752 | Ruban FZ Head | 魯班頭兜【ＦＺ】 |
-| 8753 | Ruban HS Head | 魯班頭兜【ＨＳ】 |
-| 8754 | Ruban GS Head | 魯班頭兜【ＧＳ】 |
-| 8755 | Ruban GP Head | 魯班頭兜【ＧＰ】 |
+| 8750 | Ruban Head | 魯班頭鎧 |
+| 8751 | Ruban F Head | 魯班頭鎧【Ｆ】 |
+| 8752 | Ruban FZ Head | 魯班頭鎧【ＦＺ】 |
+| 8753 | Ruban HS Head | 魯班頭鎧【ＨＳ】 |
+| 8754 | Ruban GS Head | 魯班頭鎧【ＧＳ】 |
+| 8755 | Ruban GP Head | 魯班頭鎧【ＧＰ】 |
 | 8756 | Orloj Band | 天文鐘頭帶 |
 | 8757 | Orloj F Band | 天文鐘頭帶【Ｆ】 |
 | 8758 | Orloj FZ Band | 天文鐘頭帶【ＦＺ】 |
 | 8759 | Orloj HS Band | 天文鐘頭帶【ＨＳ】 |
 | 8760 | Orloj GS Band | 天文鐘頭帶【ＧＳ】 |
 | 8761 | Orloj GP Band | 天文鐘頭帶【ＧＰ】 |
-| 8762 | Orloj Head | 天文鐘頭兜 |
-| 8763 | Orloj F Head | 天文鐘頭兜【Ｆ】 |
-| 8764 | Orloj FZ Head | 天文鐘頭兜【ＦＺ】 |
-| 8765 | Orloj HS Head | 天文鐘頭兜【ＨＳ】 |
-| 8766 | Orloj GS Head | 天文鐘頭兜【ＧＳ】 |
-| 8767 | Orloj GP Head | 天文鐘頭兜【ＧＰ】 |
+| 8762 | Orloj Head | 天文鐘頭鎧 |
+| 8763 | Orloj F Head | 天文鐘頭鎧【Ｆ】 |
+| 8764 | Orloj FZ Head | 天文鐘頭鎧【ＦＺ】 |
+| 8765 | Orloj HS Head | 天文鐘頭鎧【ＨＳ】 |
+| 8766 | Orloj GS Head | 天文鐘頭鎧【ＧＳ】 |
+| 8767 | Orloj GP Head | 天文鐘頭鎧【ＧＰ】 |
 | 8768 | L'Amore Mask | 戀愛帽子 |
 | 8769 | L'Amore F Mask | 戀愛帽子【Ｆ】 |
 | 8770 | L'Amore FZ Mask | 戀愛帽子【ＦＺ】 |
 | 8771 | L'Amore HS Mask | 戀愛帽子【ＨＳ】 |
 | 8772 | L'Amore GS Mask | 戀愛帽子【ＧＳ】 |
 | 8773 | L'Amore GP Mask | 戀愛帽子【ＧＰ】 |
-| 8774 | L'Amore Head | 戀愛頭兜 |
-| 8775 | L'Amore F Head | 戀愛頭兜【Ｆ】 |
-| 8776 | L'Amore FZ Head | 戀愛頭兜【ＦＺ】 |
-| 8777 | L'Amore HS Head | 戀愛頭兜【ＨＳ】 |
-| 8778 | L'Amore GS Head | 戀愛頭兜【ＧＳ】 |
-| 8779 | L'Amore GP Head | 戀愛頭兜【ＧＰ】 |
+| 8774 | L'Amore Head | 戀愛頭鎧 |
+| 8775 | L'Amore F Head | 戀愛頭鎧【Ｆ】 |
+| 8776 | L'Amore FZ Head | 戀愛頭鎧【ＦＺ】 |
+| 8777 | L'Amore HS Head | 戀愛頭鎧【ＨＳ】 |
+| 8778 | L'Amore GS Head | 戀愛頭鎧【ＧＳ】 |
+| 8779 | L'Amore GP Head | 戀愛頭鎧【ＧＰ】 |
 | 8780 | Dolce Mask | 甜帽子 |
 | 8781 | Dolce F Mask | 甜帽子【Ｆ】 |
 | 8782 | Dolce FZ Mask | 甜帽子【ＦＺ】 |
 | 8783 | Dolce HS Mask | 甜帽子【ＨＳ】 |
 | 8784 | Dolce GS Mask | 甜帽子【ＧＳ】 |
 | 8785 | Dolce GP Mask | 甜帽子【ＧＰ】 |
-| 8786 | Dolce Head | 甜頭兜 |
-| 8787 | Dolce F Head | 甜頭兜【Ｆ】 |
-| 8788 | Dolce FZ Head | 甜頭兜【ＦＺ】 |
-| 8789 | Dolce HS Head | 甜頭兜【ＨＳ】 |
-| 8790 | Dolce GS Head | 甜頭兜【ＧＳ】 |
-| 8791 | Dolce GP Head | 甜頭兜【ＧＰ】 |
-| 8792 | Bendi Helm | 布艾恩伊頭兜 |
-| 8793 | Bendi F Helm | 布艾恩伊頭兜【Ｆ】 |
-| 8794 | Bendi FZ Helm | 布艾恩伊頭兜【ＦＺ】 |
-| 8795 | Bendi HS Helm | 布艾恩伊頭兜【ＨＳ】 |
-| 8796 | Bendi GS Helm | 布艾恩伊頭兜【ＧＳ】 |
-| 8797 | Bendi GP Helm | 布艾恩伊頭兜【ＧＰ】 |
+| 8786 | Dolce Head | 甜頭鎧 |
+| 8787 | Dolce F Head | 甜頭鎧【Ｆ】 |
+| 8788 | Dolce FZ Head | 甜頭鎧【ＦＺ】 |
+| 8789 | Dolce HS Head | 甜頭鎧【ＨＳ】 |
+| 8790 | Dolce GS Head | 甜頭鎧【ＧＳ】 |
+| 8791 | Dolce GP Head | 甜頭鎧【ＧＰ】 |
+| 8792 | Bendi Helm | 布艾恩伊頭鎧 |
+| 8793 | Bendi F Helm | 布艾恩伊頭鎧【Ｆ】 |
+| 8794 | Bendi FZ Helm | 布艾恩伊頭鎧【ＦＺ】 |
+| 8795 | Bendi HS Helm | 布艾恩伊頭鎧【ＨＳ】 |
+| 8796 | Bendi GS Helm | 布艾恩伊頭鎧【ＧＳ】 |
+| 8797 | Bendi GP Helm | 布艾恩伊頭鎧【ＧＰ】 |
 | 8798 | Bendi Cap | 布艾恩伊兜帽 |
 | 8799 | Bendi F Cap | 布艾恩伊兜帽【Ｆ】 |
 | 8800 | Bendi FZ Cap | 布艾恩伊兜帽【ＦＺ】 |
@@ -319,34 +319,34 @@
 | 8813 | Revenants HS Soul | 亡靈魂【ＨＳ】 |
 | 8814 | Revenants GS Soul | 亡靈魂【ＧＳ】 |
 | 8815 | Revenants GP Soul | 亡靈魂【ＧＰ】 |
-| 8816 | Lucis F Head | 光輝頭兜【Ｆ】 |
-| 8817 | Lucis HS Head | 光輝頭兜【ＨＳ】 |
-| 8818 | Lucis GS Head | 光輝頭兜【ＧＳ】 |
-| 8819 | Lucis GP Head | 光輝頭兜【ＧＰ】 |
+| 8816 | Lucis F Head | 光輝頭鎧【Ｆ】 |
+| 8817 | Lucis HS Head | 光輝頭鎧【ＨＳ】 |
+| 8818 | Lucis GS Head | 光輝頭鎧【ＧＳ】 |
+| 8819 | Lucis GP Head | 光輝頭鎧【ＧＰ】 |
 | 8820 | Lucis F Hat | 光輝帽【Ｆ】 |
 | 8821 | Lucis HS Hat | 光輝帽【ＨＳ】 |
 | 8822 | Lucis GS Hat | 光輝帽【ＧＳ】 |
 | 8823 | Lucis GP Hat | 光輝帽【ＧＰ】 |
-| 8824 | Risaaza HS Head | 爾伊斯阿頭兜【ＨＳ】 |
-| 8825 | Risaaza GS Head | 爾伊斯阿頭兜【ＧＳ】 |
-| 8826 | Risaaza GP Head | 爾伊斯阿頭兜【ＧＰ】 |
+| 8824 | Risaaza HS Head | 爾伊斯阿頭鎧【ＨＳ】 |
+| 8825 | Risaaza GS Head | 爾伊斯阿頭鎧【ＧＳ】 |
+| 8826 | Risaaza GP Head | 爾伊斯阿頭鎧【ＧＰ】 |
 | 8827 | Risaaza HS Mask | 爾伊斯阿帽子【ＨＳ】 |
 | 8828 | Risaaza GS Mask | 爾伊斯阿帽子【ＧＳ】 |
 | 8829 | Risaaza GP Mask | 爾伊斯阿帽子【ＧＰ】 |
-| 8830 | Anteka Head | 雪鹿頭兜 |
-| 8831 | Anteka F Head | 雪鹿頭兜【Ｆ】 |
-| 8832 | Anteka FY Head | 雪鹿頭兜 |
-| 8833 | Anteka HS Head | 雪鹿頭兜【ＨＳ】 |
-| 8834 | Anteka G Head | 雪鹿頭兜【Ｇ】 |
-| 8835 | Anteka GF Head | 雪鹿頭兜【ＧＦ】 |
-| 8836 | Anteka GX Head | 雪鹿頭兜【ＧＸ】 |
-| 8837 | Quoiz Head | 斯烏茲頭兜 |
-| 8838 | Quoiz F Head | 斯烏茲頭兜【Ｆ】 |
-| 8839 | Quoiz FY Head | 斯烏茲頭兜 |
-| 8840 | Quoiz HS Head | 斯烏茲頭兜【ＨＳ】 |
-| 8841 | Quoiz G Head | 斯烏茲頭兜【Ｇ】 |
-| 8842 | Quoiz GF Head | 斯烏茲頭兜【ＧＦ】 |
-| 8843 | Quoiz GX Head | 斯烏茲頭兜【ＧＸ】 |
+| 8830 | Anteka Head | 雪鹿頭鎧 |
+| 8831 | Anteka F Head | 雪鹿頭鎧【Ｆ】 |
+| 8832 | Anteka FY Head | 雪鹿頭鎧 |
+| 8833 | Anteka HS Head | 雪鹿頭鎧【ＨＳ】 |
+| 8834 | Anteka G Head | 雪鹿頭鎧【Ｇ】 |
+| 8835 | Anteka GF Head | 雪鹿頭鎧【ＧＦ】 |
+| 8836 | Anteka GX Head | 雪鹿頭鎧【ＧＸ】 |
+| 8837 | Quoiz Head | 斯烏茲頭鎧 |
+| 8838 | Quoiz F Head | 斯烏茲頭鎧【Ｆ】 |
+| 8839 | Quoiz FY Head | 斯烏茲頭鎧 |
+| 8840 | Quoiz HS Head | 斯烏茲頭鎧【ＨＳ】 |
+| 8841 | Quoiz G Head | 斯烏茲頭鎧【Ｇ】 |
+| 8842 | Quoiz GF Head | 斯烏茲頭鎧【ＧＦ】 |
+| 8843 | Quoiz GX Head | 斯烏茲頭鎧【ＧＸ】 |
 | 8844 | Quoiz Cap | 斯烏茲兜帽 |
 | 8845 | Quoiz F Cap | 斯烏茲兜帽【Ｆ】 |
 | 8846 | Quoiz FY Cap | 斯烏茲兜帽 |
@@ -354,55 +354,55 @@
 | 8848 | Quoiz G Cap | 斯烏茲兜帽【Ｇ】 |
 | 8849 | Quoiz GF Cap | 斯烏茲兜帽【ＧＦ】 |
 | 8850 | Quoiz GX Cap | 斯烏茲兜帽【ＧＸ】 |
-| 8851 | Kalais Head | 克阿爾阿頭兜 |
-| 8852 | Kalais F Head | 克阿爾阿頭兜【Ｆ】 |
-| 8853 | Kalais FY Head | 克阿爾阿頭兜 |
-| 8854 | Kalais HS Head | 克阿爾阿頭兜【ＨＳ】 |
-| 8855 | Kalais G Head | 克阿爾阿頭兜【Ｇ】 |
-| 8856 | Kalais GF Head | 克阿爾阿頭兜【ＧＦ】 |
-| 8857 | Kalais GX Head | 克阿爾阿頭兜【ＧＸ】 |
-| 8858 | Kalais Cap | 克阿爾阿兜帽 |
-| 8859 | Kalais F Cap | 克阿爾阿兜帽【Ｆ】 |
-| 8860 | Kalais FY Cap | 克阿爾阿兜帽 |
-| 8861 | Kalais HS Cap | 克阿爾阿兜帽【ＨＳ】 |
-| 8862 | Kalais G Cap | 克阿爾阿兜帽【Ｇ】 |
-| 8863 | Kalais GF Cap | 克阿爾阿兜帽【ＧＦ】 |
-| 8864 | Kalais GX Cap | 克阿爾阿兜帽【ＧＸ】 |
-| 8865 | Yoruti Helm | 伊歐爾烏頭兜 |
-| 8866 | Yoruti F Helm | 伊歐爾烏頭兜【Ｆ】 |
-| 8867 | Yoruti FY Helm | 伊歐爾烏頭兜 |
-| 8868 | Yoruti HS Helm | 伊歐爾烏頭兜【ＨＳ】 |
-| 8869 | Yoruti G Helm | 伊歐爾烏頭兜【Ｇ】 |
-| 8870 | Yoruti GF Helm | 伊歐爾烏頭兜【ＧＦ】 |
-| 8871 | Yoruti GX Helm | 伊歐爾烏頭兜【ＧＸ】 |
-| 8872 | Yoruti Cap | 伊歐爾烏兜帽 |
-| 8873 | Yoruti F Cap | 伊歐爾烏兜帽【Ｆ】 |
-| 8874 | Yoruti FY Cap | 伊歐爾烏兜帽 |
-| 8875 | Yoruti HS Cap | 伊歐爾烏兜帽【ＨＳ】 |
-| 8876 | Yoruti G Cap | 伊歐爾烏兜帽【Ｇ】 |
-| 8877 | Yoruti GF Cap | 伊歐爾烏兜帽【ＧＦ】 |
-| 8878 | Yoruti GX Cap | 伊歐爾烏兜帽【ＧＸ】 |
-| 8879 | Haragan Helm | 赫阿爾阿頭兜 |
-| 8880 | Haragan F Helm | 赫阿爾阿頭兜【Ｆ】 |
-| 8881 | Haragan FY Helm | 赫阿爾阿頭兜 |
-| 8882 | Haragan HS Helm | 赫阿爾阿頭兜【ＨＳ】 |
-| 8883 | Haragan G Helm | 赫阿爾阿頭兜【Ｇ】 |
-| 8884 | Haragan GF Helm | 赫阿爾阿頭兜【ＧＦ】 |
-| 8885 | Haragan GX Helm | 赫阿爾阿頭兜【ＧＸ】 |
-| 8886 | Haragan Cap | 赫阿爾阿兜帽 |
-| 8887 | Haragan F Cap | 赫阿爾阿兜帽【Ｆ】 |
-| 8888 | Haragan FY Cap | 赫阿爾阿兜帽 |
-| 8889 | Haragan HS Cap | 赫阿爾阿兜帽【ＨＳ】 |
-| 8890 | Haragan G Cap | 赫阿爾阿兜帽【Ｇ】 |
-| 8891 | Haragan GF Cap | 赫阿爾阿兜帽【ＧＦ】 |
-| 8892 | Haragan GX Cap | 赫阿爾阿兜帽【ＧＸ】 |
-| 8893 | Rios Helm | 爾伊斯頭兜 |
-| 8894 | Rios F Helm | 爾伊斯頭兜【Ｆ】 |
-| 8895 | Rios FY Helm | 爾伊斯頭兜 |
-| 8896 | Rios HS Helm | 爾伊斯頭兜【ＨＳ】 |
-| 8897 | Rios G Helm | 爾伊斯頭兜【Ｇ】 |
-| 8898 | Rios GF Helm | 爾伊斯頭兜【ＧＦ】 |
-| 8899 | Rios GX Helm | 爾伊斯頭兜【ＧＸ】 |
+| 8851 | Kalais Head | 可拉頭鎧 |
+| 8852 | Kalais F Head | 可拉頭鎧【Ｆ】 |
+| 8853 | Kalais FY Head | 可拉頭鎧 |
+| 8854 | Kalais HS Head | 可拉頭鎧【ＨＳ】 |
+| 8855 | Kalais G Head | 可拉頭鎧【Ｇ】 |
+| 8856 | Kalais GF Head | 可拉頭鎧【ＧＦ】 |
+| 8857 | Kalais GX Head | 可拉頭鎧【ＧＸ】 |
+| 8858 | Kalais Cap | 可拉兜帽 |
+| 8859 | Kalais F Cap | 可拉兜帽【Ｆ】 |
+| 8860 | Kalais FY Cap | 可拉兜帽 |
+| 8861 | Kalais HS Cap | 可拉兜帽【ＨＳ】 |
+| 8862 | Kalais G Cap | 可拉兜帽【Ｇ】 |
+| 8863 | Kalais GF Cap | 可拉兜帽【ＧＦ】 |
+| 8864 | Kalais GX Cap | 可拉兜帽【ＧＸ】 |
+| 8865 | Yoruti Helm | 約露蒂頭鎧 |
+| 8866 | Yoruti F Helm | 約露蒂頭鎧【Ｆ】 |
+| 8867 | Yoruti FY Helm | 約露蒂頭鎧 |
+| 8868 | Yoruti HS Helm | 約露蒂頭鎧【ＨＳ】 |
+| 8869 | Yoruti G Helm | 約露蒂頭鎧【Ｇ】 |
+| 8870 | Yoruti GF Helm | 約露蒂頭鎧【ＧＦ】 |
+| 8871 | Yoruti GX Helm | 約露蒂頭鎧【ＧＸ】 |
+| 8872 | Yoruti Cap | 約露蒂兜帽 |
+| 8873 | Yoruti F Cap | 約露蒂兜帽【Ｆ】 |
+| 8874 | Yoruti FY Cap | 約露蒂兜帽 |
+| 8875 | Yoruti HS Cap | 約露蒂兜帽【ＨＳ】 |
+| 8876 | Yoruti G Cap | 約露蒂兜帽【Ｇ】 |
+| 8877 | Yoruti GF Cap | 約露蒂兜帽【ＧＦ】 |
+| 8878 | Yoruti GX Cap | 約露蒂兜帽【ＧＸ】 |
+| 8879 | Haragan Helm | 哈拉加頭鎧 |
+| 8880 | Haragan F Helm | 哈拉加頭鎧【Ｆ】 |
+| 8881 | Haragan FY Helm | 哈拉加頭鎧 |
+| 8882 | Haragan HS Helm | 哈拉加頭鎧【ＨＳ】 |
+| 8883 | Haragan G Helm | 哈拉加頭鎧【Ｇ】 |
+| 8884 | Haragan GF Helm | 哈拉加頭鎧【ＧＦ】 |
+| 8885 | Haragan GX Helm | 哈拉加頭鎧【ＧＸ】 |
+| 8886 | Haragan Cap | 哈拉加兜帽 |
+| 8887 | Haragan F Cap | 哈拉加兜帽【Ｆ】 |
+| 8888 | Haragan FY Cap | 哈拉加兜帽 |
+| 8889 | Haragan HS Cap | 哈拉加兜帽【ＨＳ】 |
+| 8890 | Haragan G Cap | 哈拉加兜帽【Ｇ】 |
+| 8891 | Haragan GF Cap | 哈拉加兜帽【ＧＦ】 |
+| 8892 | Haragan GX Cap | 哈拉加兜帽【ＧＸ】 |
+| 8893 | Rios Helm | 爾伊斯頭鎧 |
+| 8894 | Rios F Helm | 爾伊斯頭鎧【Ｆ】 |
+| 8895 | Rios FY Helm | 爾伊斯頭鎧 |
+| 8896 | Rios HS Helm | 爾伊斯頭鎧【ＨＳ】 |
+| 8897 | Rios G Helm | 爾伊斯頭鎧【Ｇ】 |
+| 8898 | Rios GF Helm | 爾伊斯頭鎧【ＧＦ】 |
+| 8899 | Rios GX Helm | 爾伊斯頭鎧【ＧＸ】 |
 | 8900 | Rios Cap | 爾伊斯兜帽 |
 | 8901 | Rios F Cap | 爾伊斯兜帽【Ｆ】 |
 | 8902 | Rios FY Cap | 爾伊斯兜帽 |
@@ -424,14 +424,14 @@
 | 8918 | Fog G Hachigane | 霧鉢金【Ｇ】 |
 | 8919 | Fog GF Hachigane | 霧鉢金【ＧＦ】 |
 | 8920 | Fog GX Hachigane | 霧鉢金【ＧＸ】 |
-| 8921 | Rodokuru Head | 爾歐德歐頭兜 |
-| 8922 | Rodokuru F Head | 爾歐德歐頭兜【Ｆ】 |
-| 8923 | Rodokuru FY Head | 爾歐德歐頭兜 |
-| 8924 | Rodokuru HS Head | 爾歐德歐頭兜【ＨＳ】 |
-| 8925 | Rodokuru G Head | 爾歐德歐頭兜【Ｇ】 |
-| 8926 | Rodokuru GF Head | 爾歐德歐頭兜【ＧＦ】 |
-| 8927 | Rodokuru GX Head | 爾歐德歐頭兜【ＧＸ】 |
-| 8928 | Noir FY Piercing | 恩歐爾耳飾 |
+| 8921 | Rodokuru Head | 蘿多克露頭鎧 |
+| 8922 | Rodokuru F Head | 蘿多克露頭鎧【Ｆ】 |
+| 8923 | Rodokuru FY Head | 蘿多克露頭鎧 |
+| 8924 | Rodokuru HS Head | 蘿多克露頭鎧【ＨＳ】 |
+| 8925 | Rodokuru G Head | 蘿多克露頭鎧【Ｇ】 |
+| 8926 | Rodokuru GF Head | 蘿多克露頭鎧【ＧＦ】 |
+| 8927 | Rodokuru GX Head | 蘿多克露頭鎧【ＧＸ】 |
+| 8928 | Noir FY Piercing | 諾耳飾 |
 | 8929 | Noir HS Piercing | 黑耳飾【ＨＳ】 |
 | 8930 | Noir G Piercing | 黑耳飾【Ｇ】 |
 | 8931 | Noir GF Piercing | 黑耳飾【ＧＦ】 |
@@ -446,38 +446,38 @@
 | 8940 | Ina Corsage F | 伊恩阿胸花【Ｆ】 |
 | 8941 | ポボル Beretta | 波博魯貝雷塔 |
 | 8942 | ポボル Beretta F | 波博魯貝雷塔【Ｆ】 |
-| 8943 | Trume Helm | 特烏姆艾頭兜 |
-| 8944 | Trume F Helm | 特烏姆艾頭兜【Ｆ】 |
-| 8945 | Trume FZ Helm | 特烏姆艾頭兜【ＦＺ】 |
-| 8946 | Trume HS Helm | 特烏姆艾頭兜【ＨＳ】 |
-| 8947 | Trume GS Helm | 特烏姆艾頭兜【ＧＳ】 |
-| 8948 | Trume GP Helm | 特烏姆艾頭兜【ＧＰ】 |
-| 8949 | Trume Mask | 特烏姆艾帽子 |
-| 8950 | Trume F Mask | 特烏姆艾帽子【Ｆ】 |
-| 8951 | Trume FZ Mask | 特烏姆艾帽子【ＦＺ】 |
-| 8952 | Trume HS Mask | 特烏姆艾帽子【ＨＳ】 |
-| 8953 | Trume GS Mask | 特烏姆艾帽子【ＧＳ】 |
-| 8954 | Trume GP Mask | 特烏姆艾帽子【ＧＰ】 |
-| 8955 | Gogomoa G Helm | 跳緋獸頭兜【Ｇ】 |
-| 8956 | Gogomoa GF Helm | 跳緋獸頭兜【ＧＦ】 |
-| 8957 | Gogomoa GX Helm | 跳緋獸頭兜【ＧＸ】 |
+| 8943 | Trume Helm | 特梅頭鎧 |
+| 8944 | Trume F Helm | 特梅頭鎧【Ｆ】 |
+| 8945 | Trume FZ Helm | 特梅頭鎧【ＦＺ】 |
+| 8946 | Trume HS Helm | 特梅頭鎧【ＨＳ】 |
+| 8947 | Trume GS Helm | 特梅頭鎧【ＧＳ】 |
+| 8948 | Trume GP Helm | 特梅頭鎧【ＧＰ】 |
+| 8949 | Trume Mask | 特梅帽子 |
+| 8950 | Trume F Mask | 特梅帽子【Ｆ】 |
+| 8951 | Trume FZ Mask | 特梅帽子【ＦＺ】 |
+| 8952 | Trume HS Mask | 特梅帽子【ＨＳ】 |
+| 8953 | Trume GS Mask | 特梅帽子【ＧＳ】 |
+| 8954 | Trume GP Mask | 特梅帽子【ＧＰ】 |
+| 8955 | Gogomoa G Helm | 跳緋獸頭鎧【Ｇ】 |
+| 8956 | Gogomoa GF Helm | 跳緋獸頭鎧【ＧＦ】 |
+| 8957 | Gogomoa GX Helm | 跳緋獸頭鎧【ＧＸ】 |
 | 8958 | Gogomoa G Cap | 跳緋獸兜帽【Ｇ】 |
 | 8959 | Gogomoa GF Cap | 跳緋獸兜帽【ＧＦ】 |
 | 8960 | Gogomoa GX Cap | 跳緋獸兜帽【ＧＸ】 |
-| 8961 | Varusa Helm | 芙阿爾烏頭兜 |
-| 8962 | Varusa F Helm | 芙阿爾烏頭兜【Ｆ】 |
-| 8963 | Varusa FX Helm | 芙阿爾烏頭兜【ＦＸ】 |
-| 8964 | Varusa G Helm | 芙阿爾烏頭兜【Ｇ】 |
-| 8965 | Varusa GF Helm | 芙阿爾烏頭兜【ＧＦ】 |
-| 8966 | Varusa Cap | 芙阿爾烏兜帽 |
-| 8967 | Varusa F Cap | 芙阿爾烏兜帽【Ｆ】 |
-| 8968 | Varusa FX Cap | 芙阿爾烏兜帽【ＦＸ】 |
-| 8969 | Varusa G Cap | 芙阿爾烏兜帽【Ｇ】 |
-| 8970 | Varusa GF Cap | 芙阿爾烏兜帽【ＧＦ】 |
+| 8961 | Varusa Helm | 瓦露薩頭鎧 |
+| 8962 | Varusa F Helm | 瓦露薩頭鎧【Ｆ】 |
+| 8963 | Varusa FX Helm | 瓦露薩頭鎧【ＦＸ】 |
+| 8964 | Varusa G Helm | 瓦露薩頭鎧【Ｇ】 |
+| 8965 | Varusa GF Helm | 瓦露薩頭鎧【ＧＦ】 |
+| 8966 | Varusa Cap | 瓦露薩兜帽 |
+| 8967 | Varusa F Cap | 瓦露薩兜帽【Ｆ】 |
+| 8968 | Varusa FX Cap | 瓦露薩兜帽【ＦＸ】 |
+| 8969 | Varusa G Cap | 瓦露薩兜帽【Ｇ】 |
+| 8970 | Varusa GF Cap | 瓦露薩兜帽【ＧＦ】 |
 | 8971 | Flame GF Crown | 炎冠【ＧＦ】 |
 | 8972 | Flame GF Mask | 炎帽子【ＧＦ】 |
-| 8973 | Lils GF Head | 爾伊爾頭兜【ＧＦ】 |
-| 8974 | Lils GF Cap | 爾伊爾兜帽【ＧＦ】 |
+| 8973 | Lils GF Head | 莉頭鎧【ＧＦ】 |
+| 8974 | Lils GF Cap | 莉兜帽【ＧＦ】 |
 | 8975 | Asteli Piercing・White | 阿斯特利耳飾・白 |
 | 8976 | Asteli F Piercing・White | 阿斯特利耳飾【Ｆ】・白 |
 | 8977 | Asteli FZ Piercing・White | 阿斯特利耳飾【ＦＺ】・白 |

@@ -212,12 +212,12 @@
 | 9206 | トイストHS Coat | 托伊斯托腰衣【ＨＳ】 |
 | 9207 | トイストGS Coat | 托伊斯托腰衣【ＧＳ】 |
 | 9208 | トイストGP Coat | 托伊斯托腰衣【ＧＰ】 |
-| 9209 | Nekodan Waist | 恩艾克歐腰甲 |
-| 9210 | Nekodan F Waist | 恩艾克歐腰甲【Ｆ】 |
-| 9211 | Nekodan FZ Waist | 恩艾克歐腰甲【ＦＺ】 |
-| 9212 | Nekodan HS Waist | 恩艾克歐腰甲【ＨＳ】 |
-| 9213 | Nekodan GS Waist | 恩艾克歐腰甲【ＧＳ】 |
-| 9214 | Nekodan GP Waist | 恩艾克歐腰甲【ＧＰ】 |
+| 9209 | Nekodan Waist | 奈古達腰甲 |
+| 9210 | Nekodan F Waist | 奈古達腰甲【Ｆ】 |
+| 9211 | Nekodan FZ Waist | 奈古達腰甲【ＦＺ】 |
+| 9212 | Nekodan HS Waist | 奈古達腰甲【ＨＳ】 |
+| 9213 | Nekodan GS Waist | 奈古達腰甲【ＧＳ】 |
+| 9214 | Nekodan GP Waist | 奈古達腰甲【ＧＰ】 |
 | 9215 | Aelucanth Elytra | 甲蟲翅腰 |
 | 9216 | Aelucanth G Elytra | 甲蟲翅腰【Ｇ】 |
 | 9217 | Aelucanth GF Elytra | 甲蟲翅腰【ＧＦ】 |
@@ -234,26 +234,26 @@
 | 9228 | Rhopessa Gコクサ | 鳳蝶腰甲 |
 | 9229 | Rhopessa GFコクサ | 鳳蝶腰甲 |
 | 9230 | Rhopessa GXコクサ | 鳳蝶腰甲 |
-| 9231 | Riaruo G Coil | 爾伊爾烏腰甲【Ｇ】 |
-| 9232 | Riaruo GF Coil | 爾伊爾烏腰甲【ＧＦ】 |
-| 9233 | Riaruo GX Coil | 爾伊爾烏腰甲【ＧＸ】 |
-| 9234 | Riaruo G Coat | 爾伊爾烏腰衣【Ｇ】 |
-| 9235 | Riaruo GF Coat | 爾伊爾烏腰衣【ＧＦ】 |
-| 9236 | Riaruo GX Coat | 爾伊爾烏腰衣【ＧＸ】 |
-| 9237 | Ordre Faulds | 歐爾艾腰甲 |
-| 9238 | Ordre F Faulds | 歐爾艾腰甲【Ｆ】 |
-| 9239 | Ordre FY Faulds | 歐爾艾斯腰甲 |
-| 9240 | Ordre HS Faulds | 歐爾艾腰甲【ＨＳ】 |
-| 9241 | Ordre G Faulds | 歐爾艾腰甲【Ｇ】 |
-| 9242 | Ordre GF Faulds | 歐爾艾腰甲【ＧＦ】 |
-| 9243 | Ordre GX Faulds | 歐爾艾腰甲【ＧＸ】 |
-| 9244 | Ordre Coat | 歐爾艾腰衣 |
-| 9245 | Ordre F Coat | 歐爾艾腰衣【Ｆ】 |
-| 9246 | Ordre FY Coat | 歐爾艾斯腰衣 |
-| 9247 | Ordre HS Coat | 歐爾艾腰衣【ＨＳ】 |
-| 9248 | Ordre G Coat | 歐爾艾腰衣【Ｇ】 |
-| 9249 | Ordre GF Coat | 歐爾艾腰衣【ＧＦ】 |
-| 9250 | Ordre GX Coat | 歐爾艾腰衣【ＧＸ】 |
+| 9231 | Riaruo G Coil | 里露腰甲【Ｇ】 |
+| 9232 | Riaruo GF Coil | 里露腰甲【ＧＦ】 |
+| 9233 | Riaruo GX Coil | 里露腰甲【ＧＸ】 |
+| 9234 | Riaruo G Coat | 里露腰衣【Ｇ】 |
+| 9235 | Riaruo GF Coat | 里露腰衣【ＧＦ】 |
+| 9236 | Riaruo GX Coat | 里露腰衣【ＧＸ】 |
+| 9237 | Ordre Faulds | 德腰甲 |
+| 9238 | Ordre F Faulds | 德腰甲【Ｆ】 |
+| 9239 | Ordre FY Faulds | 德腰甲 |
+| 9240 | Ordre HS Faulds | 德腰甲【ＨＳ】 |
+| 9241 | Ordre G Faulds | 德腰甲【Ｇ】 |
+| 9242 | Ordre GF Faulds | 德腰甲【ＧＦ】 |
+| 9243 | Ordre GX Faulds | 德腰甲【ＧＸ】 |
+| 9244 | Ordre Coat | 德腰衣 |
+| 9245 | Ordre F Coat | 德腰衣【Ｆ】 |
+| 9246 | Ordre FY Coat | 德腰衣 |
+| 9247 | Ordre HS Coat | 德腰衣【ＨＳ】 |
+| 9248 | Ordre G Coat | 德腰衣【Ｇ】 |
+| 9249 | Ordre GF Coat | 德腰衣【ＧＦ】 |
+| 9250 | Ordre GX Coat | 德腰衣【ＧＸ】 |
 | 9251 | Cheni Faulds | 奇艾恩伊腰甲 |
 | 9252 | Cheni F Faulds | 奇艾恩伊腰甲【Ｆ】 |
 | 9253 | Cheni FY Faulds | 奇艾恩伊腰甲 |
@@ -284,14 +284,14 @@
 | 9278 | Miniomu GX Coat | 姆伊恩伊腰衣【ＧＸ】 |
 | 9279 | Once Faulds | 一度腰甲 |
 | 9280 | Once F Faulds | 一度腰甲【Ｆ】 |
-| 9281 | Once FY Faulds | 歐恩艾斯腰甲 |
+| 9281 | Once FY Faulds | 賽腰甲 |
 | 9282 | Once HS Faulds | 一度腰甲【ＨＳ】 |
 | 9283 | Once G Faulds | 一度腰甲【Ｇ】 |
 | 9284 | Once GF Faulds | 一度腰甲【ＧＦ】 |
 | 9285 | Once GX Faulds | 一度腰甲【ＧＸ】 |
 | 9286 | Once Coat | 一度腰衣 |
 | 9287 | Once F Coat | 一度腰衣【Ｆ】 |
-| 9288 | Once FY Coat | 歐恩艾斯腰衣 |
+| 9288 | Once FY Coat | 賽腰衣 |
 | 9289 | Once HS Coat | 一度腰衣【ＨＳ】 |
 | 9290 | Once G Coat | 一度腰衣【Ｇ】 |
 | 9291 | Once GF Coat | 一度腰衣【ＧＦ】 |
@@ -334,18 +334,18 @@
 | 9328 | Vangis G Coat | 芙阿恩伊腰衣【Ｇ】 |
 | 9329 | Vangis GF Coat | 芙阿恩伊腰衣【ＧＦ】 |
 | 9330 | Vangis GX Coat | 芙阿恩伊腰衣【ＧＸ】 |
-| 9331 | Shiruti Faulds | 夏伊爾烏腰甲 |
-| 9332 | Shiruti F Faulds | 夏伊爾烏腰甲【Ｆ】 |
-| 9333 | Shiruti FZ Faulds | 夏伊爾烏腰甲【ＦＺ】 |
-| 9334 | Shiruti HS Faulds | 夏伊爾烏腰甲【ＨＳ】 |
-| 9335 | Shiruti GS Faulds | 夏伊爾烏腰甲【ＧＳ】 |
-| 9336 | Shiruti GP Faulds | 夏伊爾烏腰甲【ＧＰ】 |
-| 9337 | Shiruti Coat | 夏伊爾烏腰衣 |
-| 9338 | Shiruti F Coat | 夏伊爾烏腰衣【Ｆ】 |
-| 9339 | Shiruti FZ Coat | 夏伊爾烏腰衣【ＦＺ】 |
-| 9340 | Shiruti HS Coat | 夏伊爾烏腰衣【ＨＳ】 |
-| 9341 | Shiruti GS Coat | 夏伊爾烏腰衣【ＧＳ】 |
-| 9342 | Shiruti GP Coat | 夏伊爾烏腰衣【ＧＰ】 |
+| 9331 | Shiruti Faulds | 修露蒂腰甲 |
+| 9332 | Shiruti F Faulds | 修露蒂腰甲【Ｆ】 |
+| 9333 | Shiruti FZ Faulds | 修露蒂腰甲【ＦＺ】 |
+| 9334 | Shiruti HS Faulds | 修露蒂腰甲【ＨＳ】 |
+| 9335 | Shiruti GS Faulds | 修露蒂腰甲【ＧＳ】 |
+| 9336 | Shiruti GP Faulds | 修露蒂腰甲【ＧＰ】 |
+| 9337 | Shiruti Coat | 修露蒂腰衣 |
+| 9338 | Shiruti F Coat | 修露蒂腰衣【Ｆ】 |
+| 9339 | Shiruti FZ Coat | 修露蒂腰衣【ＦＺ】 |
+| 9340 | Shiruti HS Coat | 修露蒂腰衣【ＨＳ】 |
+| 9341 | Shiruti GS Coat | 修露蒂腰衣【ＧＳ】 |
+| 9342 | Shiruti GP Coat | 修露蒂腰衣【ＧＰ】 |
 | 9343 | Brachy Faulds | 布阿奇腰甲 |
 | 9344 | Brachy G Faulds | 布阿奇腰甲【Ｇ】 |
 | 9345 | Brachy GF Faulds | 布阿奇腰甲【ＧＦ】 |
@@ -378,12 +378,12 @@
 | 9372 | B.Espinas G Belly | 棘茶龍腹甲【Ｇ】 |
 | 9373 | B.Espinas GF Belly | 棘茶龍腹甲【ＧＦ】 |
 | 9374 | B.Espinas GX Belly | 棘茶龍腹甲【ＧＸ】 |
-| 9375 | Red Volga G Faulds | 芙歐爾阿腰甲【Ｇ】・赤 |
-| 9376 | Red Volga GF Faulds | 芙歐爾阿腰甲【ＧＦ】・赤 |
-| 9377 | Red Volga GX Faulds | 芙歐爾阿腰甲【ＧＸ】・赤 |
-| 9378 | Red Volga G Coat | 芙歐爾阿腰衣【Ｇ】・赤 |
-| 9379 | Red Volga GF Coat | 芙歐爾阿腰衣【ＧＦ】・赤 |
-| 9380 | Red Volga GX Coat | 芙歐爾阿腰衣【ＧＸ】・赤 |
+| 9375 | Red Volga G Faulds | 沃加腰甲【Ｇ】・赤 |
+| 9376 | Red Volga GF Faulds | 沃加腰甲【ＧＦ】・赤 |
+| 9377 | Red Volga GX Faulds | 沃加腰甲【ＧＸ】・赤 |
+| 9378 | Red Volga G Coat | 沃加腰衣【Ｇ】・赤 |
+| 9379 | Red Volga GF Coat | 沃加腰衣【ＧＦ】・赤 |
+| 9380 | Red Volga GX Coat | 沃加腰衣【ＧＸ】・赤 |
 | 9381 | Ravi G Coil:Berserk | 大巖龍狂化腰甲【Ｇ】 |
 | 9382 | Ravi GF Coil:Berserk | 大巖龍狂化腰甲【ＧＦ】 |
 | 9383 | Ravi GX Coil:Berserk | 大巖龍狂化腰甲【ＧＸ】 |

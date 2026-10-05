@@ -33,16 +33,16 @@
 | 7527 | Blink HS Coat | 布伊恩腰衣【ＨＳ】 |
 | 7528 | Blink GS Coat | 布伊恩腰衣【ＧＳ】 |
 | 7529 | Blink GP Coat | 布伊恩腰衣【ＧＰ】 |
-| 7530 | Ukon GP Belt | 烏克歐恩腰帶【ＧＰ】 |
-| 7531 | Ukon GPバックル | 烏克歐恩腰甲 |
+| 7530 | Ukon GP Belt | 古腰帶【ＧＰ】 |
+| 7531 | Ukon GPバックル | 古腰甲 |
 | 7532 | ロットGP Belt | 羅托腰帶【ＧＰ】 |
 | 7533 | ロットGPバックル | 羅托腰甲 |
-| 7534 | Arge HS Coil | 阿爾傑腰甲【ＨＳ】 |
-| 7535 | Arge GS Coil | 阿爾傑腰甲【ＧＳ】 |
-| 7536 | Arge GP Coil | 阿爾傑腰甲【ＧＰ】 |
-| 7537 | Arge HS Coat | 阿爾傑腰衣【ＨＳ】 |
-| 7538 | Arge GS Coat | 阿爾傑腰衣【ＧＳ】 |
-| 7539 | Arge GP Coat | 阿爾傑腰衣【ＧＰ】 |
+| 7534 | Arge HS Coil | 亞潔腰甲【ＨＳ】 |
+| 7535 | Arge GS Coil | 亞潔腰甲【ＧＳ】 |
+| 7536 | Arge GP Coil | 亞潔腰甲【ＧＰ】 |
+| 7537 | Arge HS Coat | 亞潔腰衣【ＨＳ】 |
+| 7538 | Arge GS Coat | 亞潔腰衣【ＧＳ】 |
+| 7539 | Arge GP Coat | 亞潔腰衣【ＧＰ】 |
 | 7540 | Camarera HS Coil | 可瑪蕾拉腰甲【ＨＳ】 |
 | 7541 | Camarera GS Coil | 可瑪蕾拉腰甲【ＧＳ】 |
 | 7542 | Camarera GP Coil | 可瑪蕾拉腰甲【ＧＰ】 |
@@ -82,30 +82,30 @@
 | 7576 | Breo G Faulds | 布艾腰甲【Ｇ】 |
 | 7577 | Breo GF Faulds | 布艾腰甲【ＧＦ】 |
 | 7578 | Breo GX Faulds | 布艾腰甲【ＧＸ】 |
-| 7579 | Harokyu Coil | 赫阿爾歐腰甲 |
-| 7580 | Harokyu F Coil | 赫阿爾歐腰甲【Ｆ】 |
-| 7581 | Harokyu FY Coil | 赫阿爾歐腰甲 |
-| 7582 | Harokyu HS Coil | 赫阿爾歐腰甲【ＨＳ】 |
-| 7583 | Harokyu G Coil | 赫阿爾歐腰甲【Ｇ】 |
-| 7584 | Harokyu GF Coil | 赫阿爾歐腰甲【ＧＦ】 |
-| 7585 | Harokyu GX Coil | 赫阿爾歐腰甲【ＧＸ】 |
+| 7579 | Harokyu Coil | 哈蘿尤腰甲 |
+| 7580 | Harokyu F Coil | 哈蘿尤腰甲【Ｆ】 |
+| 7581 | Harokyu FY Coil | 哈蘿尤腰甲 |
+| 7582 | Harokyu HS Coil | 哈蘿尤腰甲【ＨＳ】 |
+| 7583 | Harokyu G Coil | 哈蘿尤腰甲【Ｇ】 |
+| 7584 | Harokyu GF Coil | 哈蘿尤腰甲【ＧＦ】 |
+| 7585 | Harokyu GX Coil | 哈蘿尤腰甲【ＧＸ】 |
 | 7586 | Brooke Faulds | 溪腰甲 |
 | 7587 | Brooke F Faulds | 溪腰甲【Ｆ】 |
-| 7588 | Brooke FY Faulds | 布歐克艾腰甲 |
+| 7588 | Brooke FY Faulds | 古蘿布腰甲 |
 | 7589 | Brooke HS Faulds | 溪腰甲【ＨＳ】 |
 | 7590 | Brooke G Faulds | 溪腰甲【Ｇ】 |
 | 7591 | Brooke GF Faulds | 溪腰甲【ＧＦ】 |
 | 7592 | Brooke GX Faulds | 溪腰甲【ＧＸ】 |
 | 7593 | Brooke Coat | 溪腰衣 |
 | 7594 | Brooke F Coat | 溪腰衣【Ｆ】 |
-| 7595 | Brooke FY Coat | 布歐克艾腰衣 |
+| 7595 | Brooke FY Coat | 古蘿布腰衣 |
 | 7596 | Brooke HS Coat | 溪腰衣【ＨＳ】 |
 | 7597 | Brooke G Coat | 溪腰衣【Ｇ】 |
 | 7598 | Brooke GF Coat | 溪腰衣【ＧＦ】 |
 | 7599 | Brooke GX Coat | 溪腰衣【ＧＸ】 |
 | 7600 | Pale Sakura 【 Obi 】 | 淡櫻帶 |
 | 7601 | Pale Sakura F【 Obi 】 | 淡櫻帶【Ｆ】 |
-| 7602 | Pale Sakura FY【 Obi 】 | 普阿爾艾帶 |
+| 7602 | Pale Sakura FY【 Obi 】 | 拍勒薩克帶 |
 | 7603 | Pale Sakura HS【 Obi 】 | 淡櫻帶【ＨＳ】 |
 | 7604 | Pale Sakura G【 Obi 】 | 淡櫻帶【Ｇ】 |
 | 7605 | Pale Sakura GF【 Obi 】 | 淡櫻帶【ＧＦ】 |
@@ -133,42 +133,42 @@
 | 7627 | Kinioru GX Coat | 基尼奧魯腰衣【ＧＸ】 |
 | 7628 | Kaioru Faulds | 凱奧魯腰甲 |
 | 7629 | Kaioru F Faulds | 凱奧魯腰甲【Ｆ】 |
-| 7630 | Kaioru FY Faulds | 克阿爾烏腰甲 |
+| 7630 | Kaioru FY Faulds | 可露腰甲 |
 | 7631 | Kaioru HS Faulds | 凱奧魯腰甲【ＨＳ】 |
 | 7632 | Kaioru G Faulds | 凱奧魯腰甲【Ｇ】 |
 | 7633 | Kaioru GF Faulds | 凱奧魯腰甲【ＧＦ】 |
 | 7634 | Kaioru GX Faulds | 凱奧魯腰甲【ＧＸ】 |
 | 7635 | Kaioru Coat | 凱奧魯腰衣 |
 | 7636 | Kaioru F Coat | 凱奧魯腰衣【Ｆ】 |
-| 7637 | Kaioru FY Coat | 克阿爾烏腰衣 |
+| 7637 | Kaioru FY Coat | 可露腰衣 |
 | 7638 | Kaioru HS Coat | 凱奧魯腰衣【ＨＳ】 |
 | 7639 | Kaioru G Coat | 凱奧魯腰衣【Ｇ】 |
 | 7640 | Kaioru GF Coat | 凱奧魯腰衣【ＧＦ】 |
 | 7641 | Kaioru GX Coat | 凱奧魯腰衣【ＧＸ】 |
-| 7642 | Yurisu Faulds | 伊烏爾伊腰甲 |
-| 7643 | Yurisu F Faulds | 伊烏爾伊腰甲【Ｆ】 |
-| 7644 | Yurisu FY Faulds | 伊烏爾伊腰甲 |
-| 7645 | Yurisu HS Faulds | 伊烏爾伊腰甲【ＨＳ】 |
-| 7646 | Yurisu G Faulds | 伊烏爾伊腰甲【Ｇ】 |
-| 7647 | Yurisu GF Faulds | 伊烏爾伊腰甲【ＧＦ】 |
-| 7648 | Yurisu GX Faulds | 伊烏爾伊腰甲【ＧＸ】 |
-| 7649 | Yurisu Coat | 伊烏爾伊腰衣 |
-| 7650 | Yurisu F Coat | 伊烏爾伊腰衣【Ｆ】 |
-| 7651 | Yurisu FY Coat | 伊烏爾伊腰衣 |
-| 7652 | Yurisu HS Coat | 伊烏爾伊腰衣【ＨＳ】 |
-| 7653 | Yurisu G Coat | 伊烏爾伊腰衣【Ｇ】 |
-| 7654 | Yurisu GF Coat | 伊烏爾伊腰衣【ＧＦ】 |
-| 7655 | Yurisu GX Coat | 伊烏爾伊腰衣【ＧＸ】 |
+| 7642 | Yurisu Faulds | 尤里斯腰甲 |
+| 7643 | Yurisu F Faulds | 尤里斯腰甲【Ｆ】 |
+| 7644 | Yurisu FY Faulds | 尤里斯腰甲 |
+| 7645 | Yurisu HS Faulds | 尤里斯腰甲【ＨＳ】 |
+| 7646 | Yurisu G Faulds | 尤里斯腰甲【Ｇ】 |
+| 7647 | Yurisu GF Faulds | 尤里斯腰甲【ＧＦ】 |
+| 7648 | Yurisu GX Faulds | 尤里斯腰甲【ＧＸ】 |
+| 7649 | Yurisu Coat | 尤里斯腰衣 |
+| 7650 | Yurisu F Coat | 尤里斯腰衣【Ｆ】 |
+| 7651 | Yurisu FY Coat | 尤里斯腰衣 |
+| 7652 | Yurisu HS Coat | 尤里斯腰衣【ＨＳ】 |
+| 7653 | Yurisu G Coat | 尤里斯腰衣【Ｇ】 |
+| 7654 | Yurisu GF Coat | 尤里斯腰衣【ＧＦ】 |
+| 7655 | Yurisu GX Coat | 尤里斯腰衣【ＧＸ】 |
 | 7656 | Desordre Faulds | 無序腰甲 |
 | 7657 | Desordre F Faulds | 無序腰甲【Ｆ】 |
-| 7658 | Desordre FY Faulds | 德艾斯歐腰甲 |
+| 7658 | Desordre FY Faulds | 德索德腰甲 |
 | 7659 | Desordre HS Faulds | 無序腰甲【ＨＳ】 |
 | 7660 | Desordre G Faulds | 無序腰甲【Ｇ】 |
 | 7661 | Desordre GF Faulds | 無序腰甲【ＧＦ】 |
 | 7662 | Desordre GX Faulds | 無序腰甲【ＧＸ】 |
 | 7663 | Desordre Coat | 無序腰衣 |
 | 7664 | Desordre F Coat | 無序腰衣【Ｆ】 |
-| 7665 | Desordre FY Coat | 德艾斯歐腰衣 |
+| 7665 | Desordre FY Coat | 德索德腰衣 |
 | 7666 | Desordre HS Coat | 無序腰衣【ＨＳ】 |
 | 7667 | Desordre G Coat | 無序腰衣【Ｇ】 |
 | 7668 | Desordre GF Coat | 無序腰衣【ＧＦ】 |
@@ -317,18 +317,18 @@
 | 7811 | ランデグHS Coat | 拉恩德古腰衣【ＨＳ】 |
 | 7812 | ランデグGS Coat | 拉恩德古腰衣【ＧＳ】 |
 | 7813 | ランデグGP Coat | 拉恩德古腰衣【ＧＰ】 |
-| 7814 | Endre Coil | 艾恩艾腰甲 |
-| 7815 | Endre F Coil | 艾恩艾腰甲【Ｆ】 |
-| 7816 | Endre FZ Coil | 艾恩艾腰甲【ＦＺ】 |
-| 7817 | Endre HS Coil | 艾恩艾腰甲【ＨＳ】 |
-| 7818 | Endre GS Coil | 艾恩艾腰甲【ＧＳ】 |
-| 7819 | Endre GP Coil | 艾恩艾腰甲【ＧＰ】 |
-| 7820 | Endre Coat | 艾恩艾腰衣 |
-| 7821 | Endre F Coat | 艾恩艾腰衣【Ｆ】 |
-| 7822 | Endre FZ Coat | 艾恩艾腰衣【ＦＺ】 |
-| 7823 | Endre HS Coat | 艾恩艾腰衣【ＨＳ】 |
-| 7824 | Endre GS Coat | 艾恩艾腰衣【ＧＳ】 |
-| 7825 | Endre GP Coat | 艾恩艾腰衣【ＧＰ】 |
+| 7814 | Endre Coil | 恩德蕾腰甲 |
+| 7815 | Endre F Coil | 恩德蕾腰甲【Ｆ】 |
+| 7816 | Endre FZ Coil | 恩德蕾腰甲【ＦＺ】 |
+| 7817 | Endre HS Coil | 恩德蕾腰甲【ＨＳ】 |
+| 7818 | Endre GS Coil | 恩德蕾腰甲【ＧＳ】 |
+| 7819 | Endre GP Coil | 恩德蕾腰甲【ＧＰ】 |
+| 7820 | Endre Coat | 恩德蕾腰衣 |
+| 7821 | Endre F Coat | 恩德蕾腰衣【Ｆ】 |
+| 7822 | Endre FZ Coat | 恩德蕾腰衣【ＦＺ】 |
+| 7823 | Endre HS Coat | 恩德蕾腰衣【ＨＳ】 |
+| 7824 | Endre GS Coat | 恩德蕾腰衣【ＧＳ】 |
+| 7825 | Endre GP Coat | 恩德蕾腰衣【ＧＰ】 |
 | 7826 | Sagittario Coil Red | 射手腰甲・赤 |
 | 7827 | Sagittario F Coil Red | 射手腰甲【Ｆ】・赤 |
 | 7828 | Sagittario FZ Coil Red | 射手腰甲【ＦＺ】・赤 |
@@ -455,16 +455,16 @@
 | 7949 | Motion Song G【腰当て】 | 律動之歌腰當【Ｇ】 |
 | 7950 | Motion Song GF【腰当て】 | 律動之歌腰當【ＧＦ】 |
 | 7951 | Motion Song GX【腰当て】 | 律動之歌腰當【ＧＸ】 |
-| 7952 | Pobo Faulds | 普歐布歐腰甲 |
-| 7953 | Pobo F Faulds | 普歐布歐腰甲【Ｆ】 |
-| 7954 | Pobo FX Faulds | 普歐布歐腰甲【ＦＸ】 |
-| 7955 | Pobo G Faulds | 普歐布歐腰甲【Ｇ】 |
-| 7956 | Pobo GF Faulds | 普歐布歐腰甲【ＧＦ】 |
-| 7957 | Pobo Coat | 普歐布歐腰衣 |
-| 7958 | Pobo F Coat | 普歐布歐腰衣【Ｆ】 |
-| 7959 | Pobo FX Coat | 普歐布歐腰衣【ＦＸ】 |
-| 7960 | Pobo G Coat | 普歐布歐腰衣【Ｇ】 |
-| 7961 | Pobo GF Coat | 普歐布歐腰衣【ＧＦ】 |
+| 7952 | Pobo Faulds | 珀波腰甲 |
+| 7953 | Pobo F Faulds | 珀波腰甲【Ｆ】 |
+| 7954 | Pobo FX Faulds | 珀波腰甲【ＦＸ】 |
+| 7955 | Pobo G Faulds | 珀波腰甲【Ｇ】 |
+| 7956 | Pobo GF Faulds | 珀波腰甲【ＧＦ】 |
+| 7957 | Pobo Coat | 珀波腰衣 |
+| 7958 | Pobo F Coat | 珀波腰衣【Ｆ】 |
+| 7959 | Pobo FX Coat | 珀波腰衣【ＦＸ】 |
+| 7960 | Pobo G Coat | 珀波腰衣【Ｇ】 |
+| 7961 | Pobo GF Coat | 珀波腰衣【ＧＦ】 |
 | 7962 | Rath Soul G Coil | 火龍魂腰甲【Ｇ】 |
 | 7963 | Rath Soul GF Coil | 火龍魂腰甲【ＧＦ】 |
 | 7964 | Rath Soul GX Coil | 火龍魂腰甲【ＧＸ】 |
@@ -501,7 +501,7 @@
 | 7995 | Hevria HS Coat | 赫芙莉亞腰衣【ＨＳ】 |
 | 7996 | Hevria GS Coat | 赫芙莉亞腰衣【ＧＳ】 |
 | 7997 | Hevria GP Coat | 赫芙莉亞腰衣【ＧＰ】 |
-| 7998 | Tiuru Waist | 提烏魯腰甲 |
-| 7999 | Tiuru F Waist | 提烏魯腰甲【Ｆ】 |
-| 8000 | Tiuru FZ Waist | 提烏魯腰甲【ＦＺ】 |
+| 7998 | Tiuru Waist | 蒂宇露腰甲 |
+| 7999 | Tiuru F Waist | 蒂宇露腰甲【Ｆ】 |
+| 8000 | Tiuru FZ Waist | 蒂宇露腰甲【ＦＺ】 |
 

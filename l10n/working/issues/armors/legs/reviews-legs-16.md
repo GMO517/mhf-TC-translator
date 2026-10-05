@@ -4,35 +4,35 @@
 
 | index | 原文 | 譯文 |
 |---|---|---|
-| 7501 | Kaioru FY Leggings | 克阿爾烏裹腿 |
+| 7501 | Kaioru FY Leggings | 可露裹腿 |
 | 7502 | Kaioru HS Leggings | 凱奧魯裹腿【ＨＳ】 |
 | 7503 | Kaioru G Leggings | 凱奧魯裹腿【Ｇ】 |
 | 7504 | Kaioru GF Leggings | 凱奧魯裹腿【ＧＦ】 |
 | 7505 | Kaioru GX Leggings | 凱奧魯裹腿【ＧＸ】 |
-| 7506 | Yurisu Greaves | 伊烏爾伊護腿 |
-| 7507 | Yurisu F Greaves | 伊烏爾伊護腿【Ｆ】 |
-| 7508 | Yurisu FY Greaves | 伊烏爾伊護腿 |
-| 7509 | Yurisu HS Greaves | 伊烏爾伊護腿【ＨＳ】 |
-| 7510 | Yurisu G Greaves | 伊烏爾伊護腿【Ｇ】 |
-| 7511 | Yurisu GF Greaves | 伊烏爾伊護腿【ＧＦ】 |
-| 7512 | Yurisu GX Greaves | 伊烏爾伊護腿【ＧＸ】 |
-| 7513 | Yurisu Leggings | 伊烏爾伊裹腿 |
-| 7514 | Yurisu F Leggings | 伊烏爾伊裹腿【Ｆ】 |
-| 7515 | Yurisu FY Leggings | 伊烏爾伊裹腿 |
-| 7516 | Yurisu HS Leggings | 伊烏爾伊裹腿【ＨＳ】 |
-| 7517 | Yurisu G Leggings | 伊烏爾伊裹腿【Ｇ】 |
-| 7518 | Yurisu GF Leggings | 伊烏爾伊裹腿【ＧＦ】 |
-| 7519 | Yurisu GX Leggings | 伊烏爾伊裹腿【ＧＸ】 |
+| 7506 | Yurisu Greaves | 尤里斯護腿 |
+| 7507 | Yurisu F Greaves | 尤里斯護腿【Ｆ】 |
+| 7508 | Yurisu FY Greaves | 尤里斯護腿 |
+| 7509 | Yurisu HS Greaves | 尤里斯護腿【ＨＳ】 |
+| 7510 | Yurisu G Greaves | 尤里斯護腿【Ｇ】 |
+| 7511 | Yurisu GF Greaves | 尤里斯護腿【ＧＦ】 |
+| 7512 | Yurisu GX Greaves | 尤里斯護腿【ＧＸ】 |
+| 7513 | Yurisu Leggings | 尤里斯裹腿 |
+| 7514 | Yurisu F Leggings | 尤里斯裹腿【Ｆ】 |
+| 7515 | Yurisu FY Leggings | 尤里斯裹腿 |
+| 7516 | Yurisu HS Leggings | 尤里斯裹腿【ＨＳ】 |
+| 7517 | Yurisu G Leggings | 尤里斯裹腿【Ｇ】 |
+| 7518 | Yurisu GF Leggings | 尤里斯裹腿【ＧＦ】 |
+| 7519 | Yurisu GX Leggings | 尤里斯裹腿【ＧＸ】 |
 | 7520 | Desordre Greaves | 無序護腿 |
 | 7521 | Desordre F Greaves | 無序護腿【Ｆ】 |
-| 7522 | Desordre FY Greaves | 德艾斯歐護腿 |
+| 7522 | Desordre FY Greaves | 德索德護腿 |
 | 7523 | Desordre HS Greaves | 無序護腿【ＨＳ】 |
 | 7524 | Desordre G Greaves | 無序護腿【Ｇ】 |
 | 7525 | Desordre GF Greaves | 無序護腿【ＧＦ】 |
 | 7526 | Desordre GX Greaves | 無序護腿【ＧＸ】 |
 | 7527 | Desordre Leggings | 無序裹腿 |
 | 7528 | Desordre F Leggings | 無序裹腿【Ｆ】 |
-| 7529 | Desordre FY Leggings | 德艾斯歐裹腿 |
+| 7529 | Desordre FY Leggings | 德索德裹腿 |
 | 7530 | Desordre HS Leggings | 無序裹腿【ＨＳ】 |
 | 7531 | Desordre G Leggings | 無序裹腿【Ｇ】 |
 | 7532 | Desordre GF Leggings | 無序裹腿【ＧＦ】 |
@@ -181,18 +181,18 @@
 | 7675 | ランデグHS Boots | 拉恩德古靴【ＨＳ】 |
 | 7676 | ランデグGS Boots | 拉恩德古靴【ＧＳ】 |
 | 7677 | ランデグGP Boots | 拉恩德古靴【ＧＰ】 |
-| 7678 | Endre Feet | 艾恩艾足 |
-| 7679 | Endre F Feet | 艾恩艾足【Ｆ】 |
-| 7680 | Endre FZ Feet | 艾恩艾足【ＦＺ】 |
-| 7681 | Endre HS Feet | 艾恩艾足【ＨＳ】 |
-| 7682 | Endre GS Feet | 艾恩艾足【ＧＳ】 |
-| 7683 | Endre GP Feet | 艾恩艾足【ＧＰ】 |
-| 7684 | Endre Boots | 艾恩艾靴 |
-| 7685 | Endre F Boots | 艾恩艾靴【Ｆ】 |
-| 7686 | Endre FZ Boots | 艾恩艾靴【ＦＺ】 |
-| 7687 | Endre HS Boots | 艾恩艾靴【ＨＳ】 |
-| 7688 | Endre GS Boots | 艾恩艾靴【ＧＳ】 |
-| 7689 | Endre GP Boots | 艾恩艾靴【ＧＰ】 |
+| 7678 | Endre Feet | 恩德蕾足 |
+| 7679 | Endre F Feet | 恩德蕾足【Ｆ】 |
+| 7680 | Endre FZ Feet | 恩德蕾足【ＦＺ】 |
+| 7681 | Endre HS Feet | 恩德蕾足【ＨＳ】 |
+| 7682 | Endre GS Feet | 恩德蕾足【ＧＳ】 |
+| 7683 | Endre GP Feet | 恩德蕾足【ＧＰ】 |
+| 7684 | Endre Boots | 恩德蕾靴 |
+| 7685 | Endre F Boots | 恩德蕾靴【Ｆ】 |
+| 7686 | Endre FZ Boots | 恩德蕾靴【ＦＺ】 |
+| 7687 | Endre HS Boots | 恩德蕾靴【ＨＳ】 |
+| 7688 | Endre GS Boots | 恩德蕾靴【ＧＳ】 |
+| 7689 | Endre GP Boots | 恩德蕾靴【ＧＰ】 |
 | 7690 | Sagittario Feet Red | 射手足・赤 |
 | 7691 | Sagittario F Feet Red | 射手足【Ｆ】・赤 |
 | 7692 | Sagittario FZ Feet Red | 射手足【ＦＺ】・赤 |
@@ -319,16 +319,16 @@
 | 7813 | Motion G [Greaves 】 | 律動護腿【Ｇ】 |
 | 7814 | Motion GF [Greaves 】 | 律動護腿【ＧＦ】 |
 | 7815 | Motion GX [Greaves 】 | 律動護腿【ＧＸ】 |
-| 7816 | Pobo Greaves | 普歐布歐護腿 |
-| 7817 | Pobo F Greaves | 普歐布歐護腿【Ｆ】 |
-| 7818 | Pobo FX Greaves | 普歐布歐護腿【ＦＸ】 |
-| 7819 | Pobo G Greaves | 普歐布歐護腿【Ｇ】 |
-| 7820 | Pobo GF Greaves | 普歐布歐護腿【ＧＦ】 |
-| 7821 | Pobo Leggings | 普歐布歐裹腿 |
-| 7822 | Pobo F Leggings | 普歐布歐裹腿【Ｆ】 |
-| 7823 | Pobo FX Leggings | 普歐布歐裹腿【ＦＸ】 |
-| 7824 | Pobo G Leggings | 普歐布歐裹腿【Ｇ】 |
-| 7825 | Pobo GF Leggings | 普歐布歐裹腿【ＧＦ】 |
+| 7816 | Pobo Greaves | 珀波護腿 |
+| 7817 | Pobo F Greaves | 珀波護腿【Ｆ】 |
+| 7818 | Pobo FX Greaves | 珀波護腿【ＦＸ】 |
+| 7819 | Pobo G Greaves | 珀波護腿【Ｇ】 |
+| 7820 | Pobo GF Greaves | 珀波護腿【ＧＦ】 |
+| 7821 | Pobo Leggings | 珀波裹腿 |
+| 7822 | Pobo F Leggings | 珀波裹腿【Ｆ】 |
+| 7823 | Pobo FX Leggings | 珀波裹腿【ＦＸ】 |
+| 7824 | Pobo G Leggings | 珀波裹腿【Ｇ】 |
+| 7825 | Pobo GF Leggings | 珀波裹腿【ＧＦ】 |
 | 7826 | Rath Soul G Greaves | 火龍魂護腿【Ｇ】 |
 | 7827 | Rath Soul GF Greaves | 火龍魂護腿【ＧＦ】 |
 | 7828 | Rath Soul GX Greaves | 火龍魂護腿【ＧＸ】 |
@@ -365,18 +365,18 @@
 | 7859 | Hevria HS Leggings | 赫芙莉亞裹腿【ＨＳ】 |
 | 7860 | Hevria GS Leggings | 赫芙莉亞裹腿【ＧＳ】 |
 | 7861 | Hevria GP Leggings | 赫芙莉亞裹腿【ＧＰ】 |
-| 7862 | Tiuru Boots | 提烏魯靴 |
-| 7863 | Tiuru F Boots | 提烏魯靴【Ｆ】 |
-| 7864 | Tiuru FZ Boots | 提烏魯靴【ＦＺ】 |
-| 7865 | Tiuru HS Boots | 提烏魯靴【ＨＳ】 |
-| 7866 | Tiuru GS Boots | 提烏魯靴【ＧＳ】 |
-| 7867 | Tiuru GP Boots | 提烏魯靴【ＧＰ】 |
-| 7868 | Tiuru Leggings | 提烏魯裹腿 |
-| 7869 | Tiuru F Leggings | 提烏魯裹腿【Ｆ】 |
-| 7870 | Tiuru FZ Leggings | 提烏魯裹腿【ＦＺ】 |
-| 7871 | Tiuru HS Leggings | 提烏魯裹腿【ＨＳ】 |
-| 7872 | Tiuru GS Leggings | 提烏魯裹腿【ＧＳ】 |
-| 7873 | Tiuru GP Leggings | 提烏魯裹腿【ＧＰ】 |
+| 7862 | Tiuru Boots | 蒂宇露靴 |
+| 7863 | Tiuru F Boots | 蒂宇露靴【Ｆ】 |
+| 7864 | Tiuru FZ Boots | 蒂宇露靴【ＦＺ】 |
+| 7865 | Tiuru HS Boots | 蒂宇露靴【ＨＳ】 |
+| 7866 | Tiuru GS Boots | 蒂宇露靴【ＧＳ】 |
+| 7867 | Tiuru GP Boots | 蒂宇露靴【ＧＰ】 |
+| 7868 | Tiuru Leggings | 蒂宇露裹腿 |
+| 7869 | Tiuru F Leggings | 蒂宇露裹腿【Ｆ】 |
+| 7870 | Tiuru FZ Leggings | 蒂宇露裹腿【ＦＺ】 |
+| 7871 | Tiuru HS Leggings | 蒂宇露裹腿【ＨＳ】 |
+| 7872 | Tiuru GS Leggings | 蒂宇露裹腿【ＧＳ】 |
+| 7873 | Tiuru GP Leggings | 蒂宇露裹腿【ＧＰ】 |
 | 7874 | Bande Feet・Blue | 飾帶足・青 |
 | 7875 | Bande F Feet・Blue | 飾帶足【Ｆ】・青 |
 | 7876 | Bande FZ Feet・Blue | 飾帶足【ＦＺ】・青 |

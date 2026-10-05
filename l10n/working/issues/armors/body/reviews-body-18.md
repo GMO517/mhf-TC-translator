@@ -109,30 +109,30 @@
 | 8603 | AB Layer HS胴: Bow White | 層甲鎧甲・白 |
 | 8604 | AB Layer GS胴: Bow White | 層甲鎧甲・白 |
 | 8605 | AB Layer GP胴: Bow White | 層甲鎧甲・白 |
-| 8606 | Bronte Vest | 布歐恩艾背心 |
-| 8607 | Bronte F Vest | 布歐恩艾背心【Ｆ】 |
-| 8608 | Bronte FZ Vest | 布歐恩艾背心【ＦＺ】 |
-| 8609 | Bronte HS Vest | 布歐恩艾背心【ＨＳ】 |
-| 8610 | Bronte GS Vest | 布歐恩艾背心【ＧＳ】 |
-| 8611 | Bronte GP Vest | 布歐恩艾背心【ＧＰ】 |
-| 8612 | Bronte Suit | 布歐恩艾套裝 |
-| 8613 | Bronte F Suit | 布歐恩艾套裝【Ｆ】 |
-| 8614 | Bronte FZ Suit | 布歐恩艾套裝【ＦＺ】 |
-| 8615 | Bronte HS Suit | 布歐恩艾套裝【ＨＳ】 |
-| 8616 | Bronte GS Suit | 布歐恩艾套裝【ＧＳ】 |
-| 8617 | Bronte GP Suit | 布歐恩艾套裝【ＧＰ】 |
-| 8618 | Solene Vest | 斯歐爾艾背心 |
-| 8619 | Solene F Vest | 斯歐爾艾背心【Ｆ】 |
-| 8620 | Solene FZ Vest | 斯歐爾艾背心【ＦＺ】 |
-| 8621 | Solene HS Vest | 斯歐爾艾背心【ＨＳ】 |
-| 8622 | Solene GS Vest | 斯歐爾艾背心【ＧＳ】 |
-| 8623 | Solene GP Vest | 斯歐爾艾背心【ＧＰ】 |
-| 8624 | Solene Suit | 斯歐爾艾套裝 |
-| 8625 | Solene F Suit | 斯歐爾艾套裝【Ｆ】 |
-| 8626 | Solene FZ Suit | 斯歐爾艾套裝【ＦＺ】 |
-| 8627 | Solene HS Suit | 斯歐爾艾套裝【ＨＳ】 |
-| 8628 | Solene GS Suit | 斯歐爾艾套裝【ＧＳ】 |
-| 8629 | Solene GP Suit | 斯歐爾艾套裝【ＧＰ】 |
+| 8606 | Bronte Vest | 布羅特背心 |
+| 8607 | Bronte F Vest | 布羅特背心【Ｆ】 |
+| 8608 | Bronte FZ Vest | 布羅特背心【ＦＺ】 |
+| 8609 | Bronte HS Vest | 布羅特背心【ＨＳ】 |
+| 8610 | Bronte GS Vest | 布羅特背心【ＧＳ】 |
+| 8611 | Bronte GP Vest | 布羅特背心【ＧＰ】 |
+| 8612 | Bronte Suit | 布羅特套裝 |
+| 8613 | Bronte F Suit | 布羅特套裝【Ｆ】 |
+| 8614 | Bronte FZ Suit | 布羅特套裝【ＦＺ】 |
+| 8615 | Bronte HS Suit | 布羅特套裝【ＨＳ】 |
+| 8616 | Bronte GS Suit | 布羅特套裝【ＧＳ】 |
+| 8617 | Bronte GP Suit | 布羅特套裝【ＧＰ】 |
+| 8618 | Solene Vest | 索勒奈背心 |
+| 8619 | Solene F Vest | 索勒奈背心【Ｆ】 |
+| 8620 | Solene FZ Vest | 索勒奈背心【ＦＺ】 |
+| 8621 | Solene HS Vest | 索勒奈背心【ＨＳ】 |
+| 8622 | Solene GS Vest | 索勒奈背心【ＧＳ】 |
+| 8623 | Solene GP Vest | 索勒奈背心【ＧＰ】 |
+| 8624 | Solene Suit | 索勒奈套裝 |
+| 8625 | Solene F Suit | 索勒奈套裝【Ｆ】 |
+| 8626 | Solene FZ Suit | 索勒奈套裝【ＦＺ】 |
+| 8627 | Solene HS Suit | 索勒奈套裝【ＨＳ】 |
+| 8628 | Solene GS Suit | 索勒奈套裝【ＧＳ】 |
+| 8629 | Solene GP Suit | 索勒奈套裝【ＧＰ】 |
 | 8630 | Lapine Suit | 兔套裝 |
 | 8631 | Lapine F Suit | 兔套裝【Ｆ】 |
 | 8632 | Lapine FZ Suit | 兔套裝【ＦＺ】 |
@@ -157,68 +157,68 @@
 | 8651 | Yukumo ノドウギG・Heaven | 結雲天鎧甲【Ｇ】 |
 | 8652 | Yukumo ノドウギGF・Heaven | 結雲天鎧甲【Ｆ】 |
 | 8653 | Yukumo ノドウギGX・Heaven | 結雲天鎧甲【ＧＸ】 |
-| 8654 | Furogada G Mail | 芙烏爾歐鎧甲【Ｇ】 |
-| 8655 | Furogada GF Mail | 芙烏爾歐鎧甲【ＧＦ】 |
-| 8656 | Furogada GX Mail | 芙烏爾歐鎧甲【ＧＸ】 |
+| 8654 | Furogada G Mail | 芙蘿加達鎧甲【Ｇ】 |
+| 8655 | Furogada GF Mail | 芙蘿加達鎧甲【ＧＦ】 |
+| 8656 | Furogada GX Mail | 芙蘿加達鎧甲【ＧＸ】 |
 | 8657 | Yukumo ノドウギ・Earth | 結雲地鎧甲 |
 | 8658 | Yukumo ノドウギG・Earth | 結雲地鎧甲【Ｇ】 |
 | 8659 | Yukumo ノドウギGF・Earth | 結雲地鎧甲【Ｆ】 |
 | 8660 | Yukumo ノドウギGX・Earth | 結雲地鎧甲【ＧＸ】 |
-| 8661 | Furogada G Vest | 芙烏爾歐背心【Ｇ】 |
-| 8662 | Furogada GF Vest | 芙烏爾歐背心【ＧＦ】 |
-| 8663 | Furogada GX Vest | 芙烏爾歐背心【ＧＸ】 |
+| 8661 | Furogada G Vest | 芙蘿加達背心【Ｇ】 |
+| 8662 | Furogada GF Vest | 芙蘿加達背心【ＧＦ】 |
+| 8663 | Furogada GX Vest | 芙蘿加達背心【ＧＸ】 |
 | 8664 | ダミー | (dummy) |
 | 8665 | ダミー | (dummy) |
 | 8666 | ダミー | (dummy) |
 | 8667 | ダミー | (dummy) |
-| 8668 | Rance G Jacket | 爾阿恩艾夾克【Ｇ】 |
-| 8669 | Rance GF Jacket | 爾阿恩艾夾克【ＧＦ】 |
-| 8670 | Rance GX Jacket | 爾阿恩艾夾克【ＧＸ】 |
+| 8668 | Rance G Jacket | 拉賽夾克【Ｇ】 |
+| 8669 | Rance GF Jacket | 拉賽夾克【ＧＦ】 |
+| 8670 | Rance GX Jacket | 拉賽夾克【ＧＸ】 |
 | 8671 | ダミー | (dummy) |
 | 8672 | ダミー | (dummy) |
 | 8673 | ダミー | (dummy) |
 | 8674 | ダミー | (dummy) |
-| 8675 | Rance G Suit | 爾阿恩艾套裝【Ｇ】 |
-| 8676 | Rance GF Suit | 爾阿恩艾套裝【ＧＦ】 |
-| 8677 | Rance GX Suit | 爾阿恩艾套裝【ＧＸ】 |
-| 8678 | Meirida Mail | 姆艾爾伊鎧甲 |
-| 8679 | Meirida F Mail | 姆艾爾伊鎧甲【Ｆ】 |
-| 8680 | Meirida FY Mail | 姆艾爾伊鎧甲 |
-| 8681 | Meirida HS Mail | 姆艾爾伊鎧甲【ＨＳ】 |
-| 8682 | Meirida G Mail | 姆艾爾伊鎧甲【Ｇ】 |
-| 8683 | Meirida GF Mail | 姆艾爾伊鎧甲【ＧＦ】 |
-| 8684 | Meirida GX Mail | 姆艾爾伊鎧甲【ＧＸ】 |
-| 8685 | Meirida Vest | 姆艾爾伊背心 |
-| 8686 | Meirida F Vest | 姆艾爾伊背心【Ｆ】 |
-| 8687 | Meirida FY Vest | 姆艾爾伊背心 |
-| 8688 | Meirida HS Vest | 姆艾爾伊背心【ＨＳ】 |
-| 8689 | Meirida G Vest | 姆艾爾伊背心【Ｇ】 |
-| 8690 | Meirida GF Vest | 姆艾爾伊背心【ＧＦ】 |
-| 8691 | Meirida GX Vest | 姆艾爾伊背心【ＧＸ】 |
-| 8692 | Maaden Mail | 姆阿德艾鎧甲 |
-| 8693 | Maaden F Mail | 姆阿德艾鎧甲【Ｆ】 |
-| 8694 | Maaden FY Mail | 姆阿德艾鎧甲 |
-| 8695 | Maaden HS Mail | 姆阿德艾鎧甲【ＨＳ】 |
-| 8696 | Maaden G Mail | 姆阿德艾鎧甲【Ｇ】 |
-| 8697 | Maaden GF Mail | 姆阿德艾鎧甲【ＧＦ】 |
-| 8698 | Maaden GX Mail | 姆阿德艾鎧甲【ＧＸ】 |
-| 8699 | Maaden Vest | 姆阿德艾背心 |
-| 8700 | Maaden F Vest | 姆阿德艾背心【Ｆ】 |
-| 8701 | Maaden FY Vest | 姆阿德艾背心 |
-| 8702 | Maaden HS Vest | 姆阿德艾背心【ＨＳ】 |
-| 8703 | Maaden G Vest | 姆阿德艾背心【Ｇ】 |
-| 8704 | Maaden GF Vest | 姆阿德艾背心【ＧＦ】 |
-| 8705 | Maaden GX Vest | 姆阿德艾背心【ＧＸ】 |
+| 8675 | Rance G Suit | 拉賽套裝【Ｇ】 |
+| 8676 | Rance GF Suit | 拉賽套裝【ＧＦ】 |
+| 8677 | Rance GX Suit | 拉賽套裝【ＧＸ】 |
+| 8678 | Meirida Mail | 梅里達鎧甲 |
+| 8679 | Meirida F Mail | 梅里達鎧甲【Ｆ】 |
+| 8680 | Meirida FY Mail | 梅里達鎧甲 |
+| 8681 | Meirida HS Mail | 梅里達鎧甲【ＨＳ】 |
+| 8682 | Meirida G Mail | 梅里達鎧甲【Ｇ】 |
+| 8683 | Meirida GF Mail | 梅里達鎧甲【ＧＦ】 |
+| 8684 | Meirida GX Mail | 梅里達鎧甲【ＧＸ】 |
+| 8685 | Meirida Vest | 梅里達背心 |
+| 8686 | Meirida F Vest | 梅里達背心【Ｆ】 |
+| 8687 | Meirida FY Vest | 梅里達背心 |
+| 8688 | Meirida HS Vest | 梅里達背心【ＨＳ】 |
+| 8689 | Meirida G Vest | 梅里達背心【Ｇ】 |
+| 8690 | Meirida GF Vest | 梅里達背心【ＧＦ】 |
+| 8691 | Meirida GX Vest | 梅里達背心【ＧＸ】 |
+| 8692 | Maaden Mail | 瑪德鎧甲 |
+| 8693 | Maaden F Mail | 瑪德鎧甲【Ｆ】 |
+| 8694 | Maaden FY Mail | 瑪德鎧甲 |
+| 8695 | Maaden HS Mail | 瑪德鎧甲【ＨＳ】 |
+| 8696 | Maaden G Mail | 瑪德鎧甲【Ｇ】 |
+| 8697 | Maaden GF Mail | 瑪德鎧甲【ＧＦ】 |
+| 8698 | Maaden GX Mail | 瑪德鎧甲【ＧＸ】 |
+| 8699 | Maaden Vest | 瑪德背心 |
+| 8700 | Maaden F Vest | 瑪德背心【Ｆ】 |
+| 8701 | Maaden FY Vest | 瑪德背心 |
+| 8702 | Maaden HS Vest | 瑪德背心【ＨＳ】 |
+| 8703 | Maaden G Vest | 瑪德背心【Ｇ】 |
+| 8704 | Maaden GF Vest | 瑪德背心【ＧＦ】 |
+| 8705 | Maaden GX Vest | 瑪德背心【ＧＸ】 |
 | 8706 | Kosho 【 Haori 】 | 古書羽織 |
 | 8707 | Kosho F【 Haori 】 | 古書羽織【Ｆ】 |
-| 8708 | Kosho FY【 Haori 】 | 克歐夏歐羽織 |
+| 8708 | Kosho FY【 Haori 】 | 古修羽織 |
 | 8709 | Kosho HS【 Haori 】 | 古書羽織【ＨＳ】 |
 | 8710 | Kosho G【 Haori 】 | 古書羽織【Ｇ】 |
 | 8711 | Kosho GF【 Haori 】 | 古書羽織【ＧＦ】 |
 | 8712 | Kosho GX【 Haori 】 | 古書羽織【ＧＸ】 |
 | 8713 | Koro [Haori 】 | 孤狼羽織 |
 | 8714 | Koro F [Haori 】 | 孤狼羽織【Ｆ】 |
-| 8715 | Koro FY [Haori 】 | 克歐爾歐羽織 |
+| 8715 | Koro FY [Haori 】 | 古蘿羽織 |
 | 8716 | Koro HS [Haori 】 | 孤狼羽織【ＨＳ】 |
 | 8717 | Koro G [Haori 】 | 孤狼羽織【Ｇ】 |
 | 8718 | Koro GF [Haori 】 | 孤狼羽織【ＧＦ】 |
@@ -237,20 +237,20 @@
 | 8731 | Abuyado G Vest | 阿布烏伊背心【Ｇ】 |
 | 8732 | Abuyado GF Vest | 阿布烏伊背心【ＧＦ】 |
 | 8733 | Abuyado GX Vest | 阿布烏伊背心【ＧＸ】 |
-| 8734 | Gorukku Vest | 格歐爾烏背心 |
-| 8735 | Gorukku F Vest | 格歐爾烏背心【Ｆ】 |
-| 8736 | Gorukku FY Vest | 格歐爾烏背心 |
-| 8737 | Gorukku HS Vest | 格歐爾烏背心【ＨＳ】 |
-| 8738 | Gorukku G Vest | 格歐爾烏背心【Ｇ】 |
-| 8739 | Gorukku GF Vest | 格歐爾烏背心【ＧＦ】 |
-| 8740 | Gorukku GX Vest | 格歐爾烏背心【ＧＸ】 |
-| 8741 | Gorukku Suit | 格歐爾烏套裝 |
-| 8742 | Gorukku F Suit | 格歐爾烏套裝【Ｆ】 |
-| 8743 | Gorukku FY Suit | 格歐爾烏套裝 |
-| 8744 | Gorukku HS Suit | 格歐爾烏套裝【ＨＳ】 |
-| 8745 | Gorukku G Suit | 格歐爾烏套裝【Ｇ】 |
-| 8746 | Gorukku GF Suit | 格歐爾烏套裝【ＧＦ】 |
-| 8747 | Gorukku GX Suit | 格歐爾烏套裝【ＧＸ】 |
+| 8734 | Gorukku Vest | 古蘿布背心 |
+| 8735 | Gorukku F Vest | 古蘿布背心【Ｆ】 |
+| 8736 | Gorukku FY Vest | 古蘿布背心 |
+| 8737 | Gorukku HS Vest | 古蘿布背心【ＨＳ】 |
+| 8738 | Gorukku G Vest | 古蘿布背心【Ｇ】 |
+| 8739 | Gorukku GF Vest | 古蘿布背心【ＧＦ】 |
+| 8740 | Gorukku GX Vest | 古蘿布背心【ＧＸ】 |
+| 8741 | Gorukku Suit | 古蘿布套裝 |
+| 8742 | Gorukku F Suit | 古蘿布套裝【Ｆ】 |
+| 8743 | Gorukku FY Suit | 古蘿布套裝 |
+| 8744 | Gorukku HS Suit | 古蘿布套裝【ＨＳ】 |
+| 8745 | Gorukku G Suit | 古蘿布套裝【Ｇ】 |
+| 8746 | Gorukku GF Suit | 古蘿布套裝【ＧＦ】 |
+| 8747 | Gorukku GX Suit | 古蘿布套裝【ＧＸ】 |
 | 8748 | Shimashima Vest | 夏伊姆阿背心 |
 | 8749 | Shimashima F Vest | 夏伊姆阿背心【Ｆ】 |
 | 8750 | Shimashima FY Vest | 夏伊姆阿背心 |
@@ -265,12 +265,12 @@
 | 8759 | Shimashima G Suit | 夏伊姆阿套裝【Ｇ】 |
 | 8760 | Shimashima GF Suit | 夏伊姆阿套裝【ＧＦ】 |
 | 8761 | Shimashima GX Suit | 夏伊姆阿套裝【ＧＸ】 |
-| 8762 | Rath Duo FY Mail | 爾阿斯烏鎧甲 |
+| 8762 | Rath Duo FY Mail | 拉斯杜鎧甲 |
 | 8763 | Rath Duo HS Mail | 雙火龍鎧甲【ＨＳ】 |
 | 8764 | Rath Duo G Mail | 雙火龍鎧甲【Ｇ】 |
 | 8765 | Rath Duo GF Mail | 雙火龍鎧甲【ＧＦ】 |
 | 8766 | Rath Duo GX Mail | 雙火龍鎧甲【ＧＸ】 |
-| 8767 | Rath Duo FY Vest | 爾阿斯烏背心 |
+| 8767 | Rath Duo FY Vest | 拉斯杜背心 |
 | 8768 | Rath Duo HS Vest | 雙火龍背心【ＨＳ】 |
 | 8769 | Rath Duo G Vest | 雙火龍背心【Ｇ】 |
 | 8770 | Rath Duo GF Vest | 雙火龍背心【ＧＦ】 |
@@ -283,20 +283,20 @@
 | 8777 | Tandress G Vest | 坦德蕾絲背心【Ｇ】 |
 | 8778 | Tandress GF Vest | 坦德蕾絲背心【ＧＦ】 |
 | 8779 | Tandress GX Vest | 坦德蕾絲背心【ＧＸ】 |
-| 8780 | Ranvuo Mail | 爾阿恩烏鎧甲 |
-| 8781 | Ranvuo F Mail | 爾阿恩烏鎧甲【Ｆ】 |
-| 8782 | Ranvuo FY Mail | 爾阿恩烏鎧甲 |
-| 8783 | Ranvuo HS Mail | 爾阿恩烏鎧甲【ＨＳ】 |
-| 8784 | Ranvuo G Mail | 爾阿恩烏鎧甲【Ｇ】 |
-| 8785 | Ranvuo GF Mail | 爾阿恩烏鎧甲【ＧＦ】 |
-| 8786 | Ranvuo GX Mail | 爾阿恩烏鎧甲【ＧＸ】 |
-| 8787 | Ranvuo Vest | 爾阿恩烏背心 |
-| 8788 | Ranvuo F Vest | 爾阿恩烏背心【Ｆ】 |
-| 8789 | Ranvuo FY Vest | 爾阿恩烏背心 |
-| 8790 | Ranvuo HS Vest | 爾阿恩烏背心【ＨＳ】 |
-| 8791 | Ranvuo G Vest | 爾阿恩烏背心【Ｇ】 |
-| 8792 | Ranvuo GF Vest | 爾阿恩烏背心【ＧＦ】 |
-| 8793 | Ranvuo GX Vest | 爾阿恩烏背心【ＧＸ】 |
+| 8780 | Ranvuo Mail | 拉鎧甲 |
+| 8781 | Ranvuo F Mail | 拉鎧甲【Ｆ】 |
+| 8782 | Ranvuo FY Mail | 拉鎧甲 |
+| 8783 | Ranvuo HS Mail | 拉鎧甲【ＨＳ】 |
+| 8784 | Ranvuo G Mail | 拉鎧甲【Ｇ】 |
+| 8785 | Ranvuo GF Mail | 拉鎧甲【ＧＦ】 |
+| 8786 | Ranvuo GX Mail | 拉鎧甲【ＧＸ】 |
+| 8787 | Ranvuo Vest | 拉背心 |
+| 8788 | Ranvuo F Vest | 拉背心【Ｆ】 |
+| 8789 | Ranvuo FY Vest | 拉背心 |
+| 8790 | Ranvuo HS Vest | 拉背心【ＨＳ】 |
+| 8791 | Ranvuo G Vest | 拉背心【Ｇ】 |
+| 8792 | Ranvuo GF Vest | 拉背心【ＧＦ】 |
+| 8793 | Ranvuo GX Vest | 拉背心【ＧＸ】 |
 | 8794 | Nyui Mail | 恩烏鎧甲 |
 | 8795 | Nyui F Mail | 恩烏鎧甲【Ｆ】 |
 | 8796 | Nyui FY Mail | 恩烏斯鎧甲 |
@@ -327,8 +327,8 @@
 | 8821 | Nympha GX Vest | 恩阿背心【ＧＸ】 |
 | 8822 | Harudo GX Mail | 司銀龍鎧甲【ＧＸ】 |
 | 8823 | Harudo GX Vest | 司銀龍背心【ＧＸ】 |
-| 8824 | Gureado GX Mail | 格烏爾艾鎧甲【ＧＸ】 |
-| 8825 | Gureado GX Vest | 格烏爾艾背心【ＧＸ】 |
+| 8824 | Gureado GX Mail | 古蕾多鎧甲【ＧＸ】 |
+| 8825 | Gureado GX Vest | 古蕾多背心【ＧＸ】 |
 | 8826 | Pics GP Vest・Green | 皮克斯背心【ＧＰ】・緑 |
 | 8827 | Pics GP Suit・Green | 皮克斯套裝【ＧＰ】・緑 |
 | 8828 | Pics GP Vest・Purple | 皮克斯背心【ＧＰ】・紫 |

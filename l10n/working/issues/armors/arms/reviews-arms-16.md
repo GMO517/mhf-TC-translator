@@ -4,17 +4,17 @@
 
 | index | 原文 | 譯文 |
 |---|---|---|
-| 7501 | Yurisu GX Guard | 伊烏爾伊臂甲【ＧＸ】 |
+| 7501 | Yurisu GX Guard | 尤里斯臂甲【ＧＸ】 |
 | 7502 | Desordre Arms | 無序護腕 |
 | 7503 | Desordre F Arms | 無序護腕【Ｆ】 |
-| 7504 | Desordre FY Arms | 德艾斯歐護腕 |
+| 7504 | Desordre FY Arms | 德索德護腕 |
 | 7505 | Desordre HS Arms | 無序護腕【ＨＳ】 |
 | 7506 | Desordre G Arms | 無序護腕【Ｇ】 |
 | 7507 | Desordre GF Arms | 無序護腕【ＧＦ】 |
 | 7508 | Desordre GX Arms | 無序護腕【ＧＸ】 |
 | 7509 | Desordre Guard | 無序臂甲 |
 | 7510 | Desordre F Guard | 無序臂甲【Ｆ】 |
-| 7511 | Desordre FY Guard | 德艾斯歐臂甲 |
+| 7511 | Desordre FY Guard | 德索德臂甲 |
 | 7512 | Desordre HS Guard | 無序臂甲【ＨＳ】 |
 | 7513 | Desordre G Guard | 無序臂甲【Ｇ】 |
 | 7514 | Desordre GF Guard | 無序臂甲【ＧＦ】 |
@@ -163,18 +163,18 @@
 | 7657 | ランデグHS Guard | 拉恩德古臂甲【ＨＳ】 |
 | 7658 | ランデグGS Guard | 拉恩德古臂甲【ＧＳ】 |
 | 7659 | ランデグGP Guard | 拉恩德古臂甲【ＧＰ】 |
-| 7660 | Endre Arms | 艾恩艾護腕 |
-| 7661 | Endre F Arms | 艾恩艾護腕【Ｆ】 |
-| 7662 | Endre FZ Arms | 艾恩艾護腕【ＦＺ】 |
-| 7663 | Endre HS Arms | 艾恩艾護腕【ＨＳ】 |
-| 7664 | Endre GS Arms | 艾恩艾護腕【ＧＳ】 |
-| 7665 | Endre GP Arms | 艾恩艾護腕【ＧＰ】 |
-| 7666 | Endre Guard | 艾恩艾臂甲 |
-| 7667 | Endre F Guard | 艾恩艾臂甲【Ｆ】 |
-| 7668 | Endre FZ Guard | 艾恩艾臂甲【ＦＺ】 |
-| 7669 | Endre HS Guard | 艾恩艾臂甲【ＨＳ】 |
-| 7670 | Endre GS Guard | 艾恩艾臂甲【ＧＳ】 |
-| 7671 | Endre GP Guard | 艾恩艾臂甲【ＧＰ】 |
+| 7660 | Endre Arms | 恩德蕾護腕 |
+| 7661 | Endre F Arms | 恩德蕾護腕【Ｆ】 |
+| 7662 | Endre FZ Arms | 恩德蕾護腕【ＦＺ】 |
+| 7663 | Endre HS Arms | 恩德蕾護腕【ＨＳ】 |
+| 7664 | Endre GS Arms | 恩德蕾護腕【ＧＳ】 |
+| 7665 | Endre GP Arms | 恩德蕾護腕【ＧＰ】 |
+| 7666 | Endre Guard | 恩德蕾臂甲 |
+| 7667 | Endre F Guard | 恩德蕾臂甲【Ｆ】 |
+| 7668 | Endre FZ Guard | 恩德蕾臂甲【ＦＺ】 |
+| 7669 | Endre HS Guard | 恩德蕾臂甲【ＨＳ】 |
+| 7670 | Endre GS Guard | 恩德蕾臂甲【ＧＳ】 |
+| 7671 | Endre GP Guard | 恩德蕾臂甲【ＧＰ】 |
 | 7672 | Sagittario Arms Red | 射手護腕・赤 |
 | 7673 | Sagittario F Arms Red | 射手護腕【Ｆ】・赤 |
 | 7674 | Sagittario FZ Arms Red | 射手護腕【ＦＺ】・赤 |
@@ -301,16 +301,16 @@
 | 7795 | Motion G【手袋】 | 律動護腕【Ｇ】 |
 | 7796 | Motion GF【手袋】 | 律動護腕【ＧＦ】 |
 | 7797 | Motion GX【手袋】 | 律動護腕【ＧＸ】 |
-| 7798 | Pobo Arms | 普歐布歐護腕 |
-| 7799 | Pobo F Arms | 普歐布歐護腕【Ｆ】 |
-| 7800 | Pobo FX Arms | 普歐布歐護腕【ＦＸ】 |
-| 7801 | Pobo G Arms | 普歐布歐護腕【Ｇ】 |
-| 7802 | Pobo GF Arms | 普歐布歐護腕【ＧＦ】 |
-| 7803 | Pobo Guard | 普歐布歐臂甲 |
-| 7804 | Pobo F Guard | 普歐布歐臂甲【Ｆ】 |
-| 7805 | Pobo FX Guard | 普歐布歐臂甲【ＦＸ】 |
-| 7806 | Pobo G Guard | 普歐布歐臂甲【Ｇ】 |
-| 7807 | Pobo GF Guard | 普歐布歐臂甲【ＧＦ】 |
+| 7798 | Pobo Arms | 珀波護腕 |
+| 7799 | Pobo F Arms | 珀波護腕【Ｆ】 |
+| 7800 | Pobo FX Arms | 珀波護腕【ＦＸ】 |
+| 7801 | Pobo G Arms | 珀波護腕【Ｇ】 |
+| 7802 | Pobo GF Arms | 珀波護腕【ＧＦ】 |
+| 7803 | Pobo Guard | 珀波臂甲 |
+| 7804 | Pobo F Guard | 珀波臂甲【Ｆ】 |
+| 7805 | Pobo FX Guard | 珀波臂甲【ＦＸ】 |
+| 7806 | Pobo G Guard | 珀波臂甲【Ｇ】 |
+| 7807 | Pobo GF Guard | 珀波臂甲【ＧＦ】 |
 | 7808 | Rath Soul G Arms | 火龍魂護腕【Ｇ】 |
 | 7809 | Rath Soul GF Arms | 火龍魂護腕【ＧＦ】 |
 | 7810 | Rath Soul GX Arms | 火龍魂護腕【ＧＸ】 |
@@ -347,18 +347,18 @@
 | 7841 | Hevria HS Guard | 赫芙莉亞臂甲【ＨＳ】 |
 | 7842 | Hevria GS Guard | 赫芙莉亞臂甲【ＧＳ】 |
 | 7843 | Hevria GP Guard | 赫芙莉亞臂甲【ＧＰ】 |
-| 7844 | Tiuru Arms | 提烏魯護腕 |
-| 7845 | Tiuru F Arms | 提烏魯護腕【Ｆ】 |
-| 7846 | Tiuru FZ Arms | 提烏魯護腕【ＦＺ】 |
-| 7847 | Tiuru HS Arms | 提烏魯護腕【ＨＳ】 |
-| 7848 | Tiuru GS Arms | 提烏魯護腕【ＧＳ】 |
-| 7849 | Tiuru GP Arms | 提烏魯護腕【ＧＰ】 |
-| 7850 | Tiuru Guard | 提烏魯臂甲 |
-| 7851 | Tiuru F Guard | 提烏魯臂甲【Ｆ】 |
-| 7852 | Tiuru FZ Guard | 提烏魯臂甲【ＦＺ】 |
-| 7853 | Tiuru HS Guard | 提烏魯臂甲【ＨＳ】 |
-| 7854 | Tiuru GS Guard | 提烏魯臂甲【ＧＳ】 |
-| 7855 | Tiuru GP Guard | 提烏魯臂甲【ＧＰ】 |
+| 7844 | Tiuru Arms | 蒂宇露護腕 |
+| 7845 | Tiuru F Arms | 蒂宇露護腕【Ｆ】 |
+| 7846 | Tiuru FZ Arms | 蒂宇露護腕【ＦＺ】 |
+| 7847 | Tiuru HS Arms | 蒂宇露護腕【ＨＳ】 |
+| 7848 | Tiuru GS Arms | 蒂宇露護腕【ＧＳ】 |
+| 7849 | Tiuru GP Arms | 蒂宇露護腕【ＧＰ】 |
+| 7850 | Tiuru Guard | 蒂宇露臂甲 |
+| 7851 | Tiuru F Guard | 蒂宇露臂甲【Ｆ】 |
+| 7852 | Tiuru FZ Guard | 蒂宇露臂甲【ＦＺ】 |
+| 7853 | Tiuru HS Guard | 蒂宇露臂甲【ＨＳ】 |
+| 7854 | Tiuru GS Guard | 蒂宇露臂甲【ＧＳ】 |
+| 7855 | Tiuru GP Guard | 蒂宇露臂甲【ＧＰ】 |
 | 7856 | Bande Arms・Blue | 飾帶護腕・青 |
 | 7857 | Bande F Arms・Blue | 飾帶護腕【Ｆ】・青 |
 | 7858 | Bande FZ Arms・Blue | 飾帶護腕【ＦＺ】・青 |

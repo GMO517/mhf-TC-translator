@@ -4,15 +4,15 @@
 
 | index | 原文 | 譯文 |
 |---|---|---|
-| 8001 | Tiuru HS Waist | 提烏魯腰甲【ＨＳ】 |
-| 8002 | Tiuru GS Waist | 提烏魯腰甲【ＧＳ】 |
-| 8003 | Tiuru GP Waist | 提烏魯腰甲【ＧＰ】 |
-| 8004 | Tiuru Coat | 提烏魯腰衣 |
-| 8005 | Tiuru F Coat | 提烏魯腰衣【Ｆ】 |
-| 8006 | Tiuru FZ Coat | 提烏魯腰衣【ＦＺ】 |
-| 8007 | Tiuru HS Coat | 提烏魯腰衣【ＨＳ】 |
-| 8008 | Tiuru GS Coat | 提烏魯腰衣【ＧＳ】 |
-| 8009 | Tiuru GP Coat | 提烏魯腰衣【ＧＰ】 |
+| 8001 | Tiuru HS Waist | 蒂宇露腰甲【ＨＳ】 |
+| 8002 | Tiuru GS Waist | 蒂宇露腰甲【ＧＳ】 |
+| 8003 | Tiuru GP Waist | 蒂宇露腰甲【ＧＰ】 |
+| 8004 | Tiuru Coat | 蒂宇露腰衣 |
+| 8005 | Tiuru F Coat | 蒂宇露腰衣【Ｆ】 |
+| 8006 | Tiuru FZ Coat | 蒂宇露腰衣【ＦＺ】 |
+| 8007 | Tiuru HS Coat | 蒂宇露腰衣【ＨＳ】 |
+| 8008 | Tiuru GS Coat | 蒂宇露腰衣【ＧＳ】 |
+| 8009 | Tiuru GP Coat | 蒂宇露腰衣【ＧＰ】 |
 | 8010 | Bande Coil・Blue | 飾帶腰甲・青 |
 | 8011 | Bande F Coil・Blue | 飾帶腰甲【Ｆ】・青 |
 | 8012 | Bande FZ Coil・Blue | 飾帶腰甲【ＦＺ】・青 |
@@ -264,48 +264,48 @@
 | 8258 | Quoiz G Coat | 斯烏茲腰衣【Ｇ】 |
 | 8259 | Quoiz GF Coat | 斯烏茲腰衣【ＧＦ】 |
 | 8260 | Quoiz GX Coat | 斯烏茲腰衣【ＧＸ】 |
-| 8261 | Kalais Coil | 克阿爾阿腰甲 |
-| 8262 | Kalais F Coil | 克阿爾阿腰甲【Ｆ】 |
-| 8263 | Kalais FY Coil | 克阿爾阿腰甲 |
-| 8264 | Kalais HS Coil | 克阿爾阿腰甲【ＨＳ】 |
-| 8265 | Kalais G Coil | 克阿爾阿腰甲【Ｇ】 |
-| 8266 | Kalais GF Coil | 克阿爾阿腰甲【ＧＦ】 |
-| 8267 | Kalais GX Coil | 克阿爾阿腰甲【ＧＸ】 |
-| 8268 | Kalais Coat | 克阿爾阿腰衣 |
-| 8269 | Kalais F Coat | 克阿爾阿腰衣【Ｆ】 |
-| 8270 | Kalais FY Coat | 克阿爾阿腰衣 |
-| 8271 | Kalais HS Coat | 克阿爾阿腰衣【ＨＳ】 |
-| 8272 | Kalais G Coat | 克阿爾阿腰衣【Ｇ】 |
-| 8273 | Kalais GF Coat | 克阿爾阿腰衣【ＧＦ】 |
-| 8274 | Kalais GX Coat | 克阿爾阿腰衣【ＧＸ】 |
-| 8275 | Yoruti Faulds | 伊歐爾烏腰甲 |
-| 8276 | Yoruti F Faulds | 伊歐爾烏腰甲【Ｆ】 |
-| 8277 | Yoruti FY Faulds | 伊歐爾烏腰甲 |
-| 8278 | Yoruti HS Faulds | 伊歐爾烏腰甲【ＨＳ】 |
-| 8279 | Yoruti G Faulds | 伊歐爾烏腰甲【Ｇ】 |
-| 8280 | Yoruti GF Faulds | 伊歐爾烏腰甲【ＧＦ】 |
-| 8281 | Yoruti GX Faulds | 伊歐爾烏腰甲【ＧＸ】 |
-| 8282 | Yoruti Coat | 伊歐爾烏腰衣 |
-| 8283 | Yoruti F Coat | 伊歐爾烏腰衣【Ｆ】 |
-| 8284 | Yoruti FY Coat | 伊歐爾烏腰衣 |
-| 8285 | Yoruti HS Coat | 伊歐爾烏腰衣【ＨＳ】 |
-| 8286 | Yoruti G Coat | 伊歐爾烏腰衣【Ｇ】 |
-| 8287 | Yoruti GF Coat | 伊歐爾烏腰衣【ＧＦ】 |
-| 8288 | Yoruti GX Coat | 伊歐爾烏腰衣【ＧＸ】 |
-| 8289 | Haragan Faulds | 赫阿爾阿腰甲 |
-| 8290 | Haragan F Faulds | 赫阿爾阿腰甲【Ｆ】 |
-| 8291 | Haragan FY Faulds | 赫阿爾阿腰甲 |
-| 8292 | Haragan HS Faulds | 赫阿爾阿腰甲【ＨＳ】 |
-| 8293 | Haragan G Faulds | 赫阿爾阿腰甲【Ｇ】 |
-| 8294 | Haragan GF Faulds | 赫阿爾阿腰甲【ＧＦ】 |
-| 8295 | Haragan GX Faulds | 赫阿爾阿腰甲【ＧＸ】 |
-| 8296 | Haragan Coat | 赫阿爾阿腰衣 |
-| 8297 | Haragan F Coat | 赫阿爾阿腰衣【Ｆ】 |
-| 8298 | Haragan FY Coat | 赫阿爾阿腰衣 |
-| 8299 | Haragan HS Coat | 赫阿爾阿腰衣【ＨＳ】 |
-| 8300 | Haragan G Coat | 赫阿爾阿腰衣【Ｇ】 |
-| 8301 | Haragan GF Coat | 赫阿爾阿腰衣【ＧＦ】 |
-| 8302 | Haragan GX Coat | 赫阿爾阿腰衣【ＧＸ】 |
+| 8261 | Kalais Coil | 可拉腰甲 |
+| 8262 | Kalais F Coil | 可拉腰甲【Ｆ】 |
+| 8263 | Kalais FY Coil | 可拉腰甲 |
+| 8264 | Kalais HS Coil | 可拉腰甲【ＨＳ】 |
+| 8265 | Kalais G Coil | 可拉腰甲【Ｇ】 |
+| 8266 | Kalais GF Coil | 可拉腰甲【ＧＦ】 |
+| 8267 | Kalais GX Coil | 可拉腰甲【ＧＸ】 |
+| 8268 | Kalais Coat | 可拉腰衣 |
+| 8269 | Kalais F Coat | 可拉腰衣【Ｆ】 |
+| 8270 | Kalais FY Coat | 可拉腰衣 |
+| 8271 | Kalais HS Coat | 可拉腰衣【ＨＳ】 |
+| 8272 | Kalais G Coat | 可拉腰衣【Ｇ】 |
+| 8273 | Kalais GF Coat | 可拉腰衣【ＧＦ】 |
+| 8274 | Kalais GX Coat | 可拉腰衣【ＧＸ】 |
+| 8275 | Yoruti Faulds | 約露蒂腰甲 |
+| 8276 | Yoruti F Faulds | 約露蒂腰甲【Ｆ】 |
+| 8277 | Yoruti FY Faulds | 約露蒂腰甲 |
+| 8278 | Yoruti HS Faulds | 約露蒂腰甲【ＨＳ】 |
+| 8279 | Yoruti G Faulds | 約露蒂腰甲【Ｇ】 |
+| 8280 | Yoruti GF Faulds | 約露蒂腰甲【ＧＦ】 |
+| 8281 | Yoruti GX Faulds | 約露蒂腰甲【ＧＸ】 |
+| 8282 | Yoruti Coat | 約露蒂腰衣 |
+| 8283 | Yoruti F Coat | 約露蒂腰衣【Ｆ】 |
+| 8284 | Yoruti FY Coat | 約露蒂腰衣 |
+| 8285 | Yoruti HS Coat | 約露蒂腰衣【ＨＳ】 |
+| 8286 | Yoruti G Coat | 約露蒂腰衣【Ｇ】 |
+| 8287 | Yoruti GF Coat | 約露蒂腰衣【ＧＦ】 |
+| 8288 | Yoruti GX Coat | 約露蒂腰衣【ＧＸ】 |
+| 8289 | Haragan Faulds | 哈拉加腰甲 |
+| 8290 | Haragan F Faulds | 哈拉加腰甲【Ｆ】 |
+| 8291 | Haragan FY Faulds | 哈拉加腰甲 |
+| 8292 | Haragan HS Faulds | 哈拉加腰甲【ＨＳ】 |
+| 8293 | Haragan G Faulds | 哈拉加腰甲【Ｇ】 |
+| 8294 | Haragan GF Faulds | 哈拉加腰甲【ＧＦ】 |
+| 8295 | Haragan GX Faulds | 哈拉加腰甲【ＧＸ】 |
+| 8296 | Haragan Coat | 哈拉加腰衣 |
+| 8297 | Haragan F Coat | 哈拉加腰衣【Ｆ】 |
+| 8298 | Haragan FY Coat | 哈拉加腰衣 |
+| 8299 | Haragan HS Coat | 哈拉加腰衣【ＨＳ】 |
+| 8300 | Haragan G Coat | 哈拉加腰衣【Ｇ】 |
+| 8301 | Haragan GF Coat | 哈拉加腰衣【ＧＦ】 |
+| 8302 | Haragan GX Coat | 哈拉加腰衣【ＧＸ】 |
 | 8303 | Rios Faulds | 爾伊斯腰甲 |
 | 8304 | Rios F Faulds | 爾伊斯腰甲【Ｆ】 |
 | 8305 | Rios FY Faulds | 爾伊斯腰甲 |
@@ -334,14 +334,14 @@
 | 8328 | Fog G【 Obi 】 | 霧帶【Ｇ】 |
 | 8329 | Fog GF【 Obi 】 | 霧帶【ＧＦ】 |
 | 8330 | Fog GX【 Obi 】 | 霧帶【ＧＸ】 |
-| 8331 | Rodokuru Faulds | 爾歐德歐腰甲 |
-| 8332 | Rodokuru F Faulds | 爾歐德歐腰甲【Ｆ】 |
-| 8333 | Rodokuru FY Faulds | 爾歐德歐腰甲 |
-| 8334 | Rodokuru HS Faulds | 爾歐德歐腰甲【ＨＳ】 |
-| 8335 | Rodokuru G Faulds | 爾歐德歐腰甲【Ｇ】 |
-| 8336 | Rodokuru GF Faulds | 爾歐德歐腰甲【ＧＦ】 |
-| 8337 | Rodokuru GX Faulds | 爾歐德歐腰甲【ＧＸ】 |
-| 8338 | Noir FY Faulds | 恩歐爾腰甲 |
+| 8331 | Rodokuru Faulds | 蘿多克露腰甲 |
+| 8332 | Rodokuru F Faulds | 蘿多克露腰甲【Ｆ】 |
+| 8333 | Rodokuru FY Faulds | 蘿多克露腰甲 |
+| 8334 | Rodokuru HS Faulds | 蘿多克露腰甲【ＨＳ】 |
+| 8335 | Rodokuru G Faulds | 蘿多克露腰甲【Ｇ】 |
+| 8336 | Rodokuru GF Faulds | 蘿多克露腰甲【ＧＦ】 |
+| 8337 | Rodokuru GX Faulds | 蘿多克露腰甲【ＧＸ】 |
+| 8338 | Noir FY Faulds | 諾腰甲 |
 | 8339 | Noir HS Faulds | 黑腰甲【ＨＳ】 |
 | 8340 | Noir G Faulds | 黑腰甲【Ｇ】 |
 | 8341 | Noir GF Faulds | 黑腰甲【ＧＦ】 |
@@ -352,38 +352,38 @@
 | 8346 | 童子ノ虎布G | 童子虎布腰甲【Ｇ】 |
 | 8347 | 童子ノ虎布GF | 童子虎布腰甲【Ｆ】 |
 | 8348 | 童子ノ虎布GX | 童子虎布腰甲【ＧＸ】 |
-| 8349 | Trume Coil | 特烏姆艾腰甲 |
-| 8350 | Trume F Coil | 特烏姆艾腰甲【Ｆ】 |
-| 8351 | Trume FZ Coil | 特烏姆艾腰甲【ＦＺ】 |
-| 8352 | Trume HS Coil | 特烏姆艾腰甲【ＨＳ】 |
-| 8353 | Trume GS Coil | 特烏姆艾腰甲【ＧＳ】 |
-| 8354 | Trume GP Coil | 特烏姆艾腰甲【ＧＰ】 |
-| 8355 | Trume Coat | 特烏姆艾腰衣 |
-| 8356 | Trume F Coat | 特烏姆艾腰衣【Ｆ】 |
-| 8357 | Trume FZ Coat | 特烏姆艾腰衣【ＦＺ】 |
-| 8358 | Trume HS Coat | 特烏姆艾腰衣【ＨＳ】 |
-| 8359 | Trume GS Coat | 特烏姆艾腰衣【ＧＳ】 |
-| 8360 | Trume GP Coat | 特烏姆艾腰衣【ＧＰ】 |
+| 8349 | Trume Coil | 特梅腰甲 |
+| 8350 | Trume F Coil | 特梅腰甲【Ｆ】 |
+| 8351 | Trume FZ Coil | 特梅腰甲【ＦＺ】 |
+| 8352 | Trume HS Coil | 特梅腰甲【ＨＳ】 |
+| 8353 | Trume GS Coil | 特梅腰甲【ＧＳ】 |
+| 8354 | Trume GP Coil | 特梅腰甲【ＧＰ】 |
+| 8355 | Trume Coat | 特梅腰衣 |
+| 8356 | Trume F Coat | 特梅腰衣【Ｆ】 |
+| 8357 | Trume FZ Coat | 特梅腰衣【ＦＺ】 |
+| 8358 | Trume HS Coat | 特梅腰衣【ＨＳ】 |
+| 8359 | Trume GS Coat | 特梅腰衣【ＧＳ】 |
+| 8360 | Trume GP Coat | 特梅腰衣【ＧＰ】 |
 | 8361 | Gogomoa G Faulds | 跳緋獸腰甲【Ｇ】 |
 | 8362 | Gogomoa GF Faulds | 跳緋獸腰甲【ＧＦ】 |
 | 8363 | Gogomoa GX Faulds | 跳緋獸腰甲【ＧＸ】 |
 | 8364 | Gogomoa G Coat | 跳緋獸腰衣【Ｇ】 |
 | 8365 | Gogomoa GF Coat | 跳緋獸腰衣【ＧＦ】 |
 | 8366 | Gogomoa GX Coat | 跳緋獸腰衣【ＧＸ】 |
-| 8367 | Varusa Faulds | 芙阿爾烏腰甲 |
-| 8368 | Varusa F Faulds | 芙阿爾烏腰甲【Ｆ】 |
-| 8369 | Varusa FX Faulds | 芙阿爾烏腰甲【ＦＸ】 |
-| 8370 | Varusa G Faulds | 芙阿爾烏腰甲【Ｇ】 |
-| 8371 | Varusa GF Faulds | 芙阿爾烏腰甲【ＧＦ】 |
-| 8372 | Varusa Coat | 芙阿爾烏腰衣 |
-| 8373 | Varusa F Coat | 芙阿爾烏腰衣【Ｆ】 |
-| 8374 | Varusa FX Coat | 芙阿爾烏腰衣【ＦＸ】 |
-| 8375 | Varusa G Coat | 芙阿爾烏腰衣【Ｇ】 |
-| 8376 | Varusa GF Coat | 芙阿爾烏腰衣【ＧＦ】 |
+| 8367 | Varusa Faulds | 瓦露薩腰甲 |
+| 8368 | Varusa F Faulds | 瓦露薩腰甲【Ｆ】 |
+| 8369 | Varusa FX Faulds | 瓦露薩腰甲【ＦＸ】 |
+| 8370 | Varusa G Faulds | 瓦露薩腰甲【Ｇ】 |
+| 8371 | Varusa GF Faulds | 瓦露薩腰甲【ＧＦ】 |
+| 8372 | Varusa Coat | 瓦露薩腰衣 |
+| 8373 | Varusa F Coat | 瓦露薩腰衣【Ｆ】 |
+| 8374 | Varusa FX Coat | 瓦露薩腰衣【ＦＸ】 |
+| 8375 | Varusa G Coat | 瓦露薩腰衣【Ｇ】 |
+| 8376 | Varusa GF Coat | 瓦露薩腰衣【ＧＦ】 |
 | 8377 | Flame GF Coil | 炎腰甲【ＧＦ】 |
 | 8378 | Flame GF Coat | 炎腰衣【ＧＦ】 |
-| 8379 | Lils GF Faulds | 爾伊爾腰甲【ＧＦ】 |
-| 8380 | Lils GF Coat | 爾伊爾腰衣【ＧＦ】 |
+| 8379 | Lils GF Faulds | 莉腰甲【ＧＦ】 |
+| 8380 | Lils GF Coat | 莉腰衣【ＧＦ】 |
 | 8381 | Asteli Coil・White | 阿斯特利腰甲・白 |
 | 8382 | Asteli F Coil・White | 阿斯特利腰甲【Ｆ】・白 |
 | 8383 | Asteli FZ Coil・White | 阿斯特利腰甲【ＦＺ】・白 |
@@ -432,26 +432,26 @@
 | 8426 | Asteli HS Coat・Black | 阿斯特利腰衣【ＨＳ】・黑 |
 | 8427 | Asteli GS Coat・Black | 阿斯特利腰衣【ＧＳ】・黑 |
 | 8428 | Asteli GP Coat・Black | 阿斯特利腰衣【ＧＰ】・黑 |
-| 8429 | Lucchese Coil | 爾烏克艾腰甲 |
-| 8430 | Lucchese F Coil | 爾烏克艾腰甲【Ｆ】 |
-| 8431 | Lucchese FY Coil | 爾烏克艾腰甲 |
-| 8432 | Lucchese HS Coil | 爾烏克艾腰甲【ＨＳ】 |
-| 8433 | Lucchese G Coil | 爾烏克艾腰甲【Ｇ】 |
-| 8434 | Lucchese GF Coil | 爾烏克艾腰甲【ＧＦ】 |
-| 8435 | Lucchese GX Coil | 爾烏克艾腰甲【ＧＸ】 |
-| 8436 | Lucchese Coat | 爾烏克艾腰衣 |
-| 8437 | Lucchese F Coat | 爾烏克艾腰衣【Ｆ】 |
-| 8438 | Lucchese FY Coat | 爾烏克艾腰衣 |
-| 8439 | Lucchese HS Coat | 爾烏克艾腰衣【ＨＳ】 |
-| 8440 | Lucchese G Coat | 爾烏克艾腰衣【Ｇ】 |
-| 8441 | Lucchese GF Coat | 爾烏克艾腰衣【ＧＦ】 |
-| 8442 | Lucchese GX Coat | 爾烏克艾腰衣【ＧＸ】 |
-| 8443 | Orykto G Faulds | 歐爾歐腰甲【Ｇ】 |
-| 8444 | Orykto GF Faulds | 歐爾歐腰甲【ＧＦ】 |
-| 8445 | Orykto GX Faulds | 歐爾歐腰甲【ＧＸ】 |
-| 8446 | Orykto G Coat | 歐爾歐腰衣【Ｇ】 |
-| 8447 | Orykto GF Coat | 歐爾歐腰衣【ＧＦ】 |
-| 8448 | Orykto GX Coat | 歐爾歐腰衣【ＧＸ】 |
+| 8429 | Lucchese Coil | 露切賽腰甲 |
+| 8430 | Lucchese F Coil | 露切賽腰甲【Ｆ】 |
+| 8431 | Lucchese FY Coil | 露切賽腰甲 |
+| 8432 | Lucchese HS Coil | 露切賽腰甲【ＨＳ】 |
+| 8433 | Lucchese G Coil | 露切賽腰甲【Ｇ】 |
+| 8434 | Lucchese GF Coil | 露切賽腰甲【ＧＦ】 |
+| 8435 | Lucchese GX Coil | 露切賽腰甲【ＧＸ】 |
+| 8436 | Lucchese Coat | 露切賽腰衣 |
+| 8437 | Lucchese F Coat | 露切賽腰衣【Ｆ】 |
+| 8438 | Lucchese FY Coat | 露切賽腰衣 |
+| 8439 | Lucchese HS Coat | 露切賽腰衣【ＨＳ】 |
+| 8440 | Lucchese G Coat | 露切賽腰衣【Ｇ】 |
+| 8441 | Lucchese GF Coat | 露切賽腰衣【ＧＦ】 |
+| 8442 | Lucchese GX Coat | 露切賽腰衣【ＧＸ】 |
+| 8443 | Orykto G Faulds | 托腰甲【Ｇ】 |
+| 8444 | Orykto GF Faulds | 托腰甲【ＧＦ】 |
+| 8445 | Orykto GX Faulds | 托腰甲【ＧＸ】 |
+| 8446 | Orykto G Coat | 托腰衣【Ｇ】 |
+| 8447 | Orykto GF Coat | 托腰衣【ＧＦ】 |
+| 8448 | Orykto GX Coat | 托腰衣【ＧＸ】 |
 | 8449 | Bonito Faulds | 布歐恩伊腰甲 |
 | 8450 | Bonito F Faulds | 布歐恩伊腰甲【Ｆ】 |
 | 8451 | Bonito FY Faulds | 布歐恩伊腰甲 |
@@ -482,16 +482,16 @@
 | 8476 | Harudo FX Coat | 司銀龍腰衣【ＦＸ】 |
 | 8477 | Harudo G Coat | 司銀龍腰衣【Ｇ】 |
 | 8478 | Harudo GF Coat | 司銀龍腰衣【ＧＦ】 |
-| 8479 | Gureado Faulds | 格烏爾艾腰甲 |
-| 8480 | Gureado F Faulds | 格烏爾艾腰甲【Ｆ】 |
-| 8481 | Gureado FX Faulds | 格烏爾艾腰甲【ＦＸ】 |
-| 8482 | Gureado G Faulds | 格烏爾艾腰甲【Ｇ】 |
-| 8483 | Gureado GF Faulds | 格烏爾艾腰甲【ＧＦ】 |
-| 8484 | Gureado Coat | 格烏爾艾腰衣 |
-| 8485 | Gureado F Coat | 格烏爾艾腰衣【Ｆ】 |
-| 8486 | Gureado FX Coat | 格烏爾艾腰衣【ＦＸ】 |
-| 8487 | Gureado G Coat | 格烏爾艾腰衣【Ｇ】 |
-| 8488 | Gureado GF Coat | 格烏爾艾腰衣【ＧＦ】 |
+| 8479 | Gureado Faulds | 古蕾多腰甲 |
+| 8480 | Gureado F Faulds | 古蕾多腰甲【Ｆ】 |
+| 8481 | Gureado FX Faulds | 古蕾多腰甲【ＦＸ】 |
+| 8482 | Gureado G Faulds | 古蕾多腰甲【Ｇ】 |
+| 8483 | Gureado GF Faulds | 古蕾多腰甲【ＧＦ】 |
+| 8484 | Gureado Coat | 古蕾多腰衣 |
+| 8485 | Gureado F Coat | 古蕾多腰衣【Ｆ】 |
+| 8486 | Gureado FX Coat | 古蕾多腰衣【ＦＸ】 |
+| 8487 | Gureado G Coat | 古蕾多腰衣【Ｇ】 |
+| 8488 | Gureado GF Coat | 古蕾多腰衣【ＧＦ】 |
 | 8489 | Akantor Gイッケク | 霸龍腰甲 |
 | 8490 | Akantor GFイッケク | 霸龍腰甲 |
 | 8491 | Akantor GXイッケク | 霸龍腰甲 |

@@ -28,45 +28,45 @@
 | 11522 | Gilbert ZP Leggings | 吉伯特裹腿【ＺＰ】 |
 | 11523 | Zuibei ZP Heel | 瑞貝踵【ＺＰ】 |
 | 11524 | Zuibei ZP March | 瑞貝行軍腿【ＺＰ】 |
-| 11525 | Liebre G Greaves | 爾伊布艾護腿【Ｇ】 |
-| 11526 | Liebre GF Greaves | 爾伊布艾護腿【ＧＦ】 |
-| 11527 | Liebre GX Greaves | 爾伊布艾護腿【ＧＸ】 |
-| 11528 | Liebre G Leggings | 爾伊布艾裹腿【Ｇ】 |
-| 11529 | Liebre GF Leggings | 爾伊布艾裹腿【ＧＦ】 |
-| 11530 | Liebre GX Leggings | 爾伊布艾裹腿【ＧＸ】 |
-| 11531 | Merente Z Greaves | 姆艾爾艾護腿【Ｚ】 |
-| 11532 | Merente ZF Greaves | 姆艾爾艾護腿【ＺＦ】 |
-| 11533 | Merente ZY Greaves | 姆艾爾艾護腿【ＺＹ】 |
-| 11534 | Merente ZX Greaves | 姆艾爾艾護腿【ＺＸ】 |
-| 11535 | Merente Z Leggings | 姆艾爾艾裹腿【Ｚ】 |
-| 11536 | Merente ZF Leggings | 姆艾爾艾裹腿【ＺＦ】 |
-| 11537 | Merente ZY Leggings | 姆艾爾艾裹腿【ＺＹ】 |
-| 11538 | Merente ZX Leggings | 姆艾爾艾裹腿【ＺＸ】 |
-| 11539 | Ruko ZD Greaves | 爾烏克歐護腿 |
-| 11540 | Ruko ZD Leggings | 爾烏克歐裹腿 |
+| 11525 | Liebre G Greaves | 莉布護腿【Ｇ】 |
+| 11526 | Liebre GF Greaves | 莉布護腿【ＧＦ】 |
+| 11527 | Liebre GX Greaves | 莉布護腿【ＧＸ】 |
+| 11528 | Liebre G Leggings | 莉布裹腿【Ｇ】 |
+| 11529 | Liebre GF Leggings | 莉布裹腿【ＧＦ】 |
+| 11530 | Liebre GX Leggings | 莉布裹腿【ＧＸ】 |
+| 11531 | Merente Z Greaves | 梅蕾特護腿【Ｚ】 |
+| 11532 | Merente ZF Greaves | 梅蕾特護腿【ＺＦ】 |
+| 11533 | Merente ZY Greaves | 梅蕾特護腿【ＺＹ】 |
+| 11534 | Merente ZX Greaves | 梅蕾特護腿【ＺＸ】 |
+| 11535 | Merente Z Leggings | 梅蕾特裹腿【Ｚ】 |
+| 11536 | Merente ZF Leggings | 梅蕾特裹腿【ＺＦ】 |
+| 11537 | Merente ZY Leggings | 梅蕾特裹腿【ＺＹ】 |
+| 11538 | Merente ZX Leggings | 梅蕾特裹腿【ＺＸ】 |
+| 11539 | Ruko ZD Greaves | 露古護腿 |
+| 11540 | Ruko ZD Leggings | 露古裹腿 |
 | 11541 | Plesioth ZD Greaves | 普艾斯伊護腿 |
 | 11542 | Plesioth ZD Leggings | 普艾斯伊裹腿 |
-| 11543 | Sharufu D Greaves | 夏阿爾烏護腿 |
+| 11543 | Sharufu D Greaves | 修露芙護腿 |
 | 11544 | Kamara D Greaves | 克阿姆阿護腿 |
-| 11545 | Liebre D Greaves | 爾伊布艾護腿 |
-| 11546 | Korinyi C Feet | 克歐爾伊足 |
-| 11547 | Ruche D Greaves | 爾烏奇艾護腿 |
+| 11545 | Liebre D Greaves | 莉布護腿 |
+| 11546 | Korinyi C Feet | 古里足 |
+| 11547 | Ruche D Greaves | 露切護腿 |
 | 11548 | Strength D Leg | 斯艾恩腿 |
 | 11549 | Rage D Feet | 憤怒足 |
 | 11550 | Rampage D Feet | 狂暴足 |
 | 11551 | Blaze D Feet | 烈焔足 |
 | 11552 | Poogie D Feet | 普歐格伊足 |
-| 11553 | Mandora D Feet | 姆阿恩歐足 |
+| 11553 | Mandora D Feet | 瑪恩德拉足 |
 | 11554 | Aonoko D Feet | 阿恩歐克足 |
 | 11555 | Gauss D Greaves | 格阿斯護腿 |
-| 11556 | Weber D Greaves | 沃艾布艾護腿 |
-| 11557 | Gilbert D Greaves | 格伊爾艾護腿 |
-| 11558 | Zuibei D Heel | 茲烏布艾踵 |
+| 11556 | Weber D Greaves | 貝護腿 |
+| 11557 | Gilbert D Greaves | 吉貝護腿 |
+| 11558 | Zuibei D Heel | 茲貝踵 |
 | 11559 | Chiarim D Feet | 奇伊爾伊足 |
 | 11560 | Guild Bard C Boots | 公會吟遊靴 |
 | 11561 | Scholar C Socks | 學者襪 |
-| 11562 | Aelucanth C Crura | 阿爾烏克腿甲 |
-| 11563 | Rhopessa C Crura | 爾歐普艾腿甲 |
+| 11562 | Aelucanth C Crura | 露可斯腿甲 |
+| 11563 | Rhopessa C Crura | 霍佩斯腿甲 |
 | 11564 | Yukumo ノハカマC・Heaven | 結雲天護腿 |
 | 11565 | White 蘭D Feet | 蘭足・白 |
 | 11566 | Crimson 霞D Feet | 霞足・紅 |
@@ -74,8 +74,8 @@
 | 11568 | Tangusu D Greaves | 特阿恩烏護腿 |
 | 11569 | Disu D Greaves | 德伊斯烏護腿 |
 | 11570 | Disu D Leggings | 德伊斯烏裹腿 |
-| 11571 | Lils D Greaves | 爾伊爾護腿 |
-| 11572 | Lils D Leggings | 爾伊爾裹腿 |
+| 11571 | Lils D Greaves | 莉護腿 |
+| 11572 | Lils D Leggings | 莉裹腿 |
 | 11573 | Dragon SC Feet | 龍足 |
 | 11574 | Dragon SC Legs | 龍腿甲 |
 | 11575 | Dragon GD Feet | 龍足 |
@@ -124,33 +124,33 @@
 | 11618 | Healer Socks PD Blue | 治癒襪【ＰＤ】・青 |
 | 11619 | Healer Socks PD White | 治癒襪【ＰＤ】・白 |
 | 11620 | Healer Socks PD Yellow | 治癒襪【ＰＤ】・黄 |
-| 11621 | Shourou 【端足】D | 夏歐爾歐上手 |
+| 11621 | Shourou 【端足】D | 鐘郎上手 |
 | 11622 | Mitama 【端足】D | 姆伊特阿上手 |
 | 11623 | Burning Cliff D [Hakama 】 | 燃崖袴 |
 | 11624 | Crimson Cliff D [Hakama 】 | 深紅崖袴 |
-| 11625 | Ledia D Boots | 爾艾德伊靴 |
+| 11625 | Ledia D Boots | 勒迪靴 |
 | 11626 | White Snake Greaves D | 白蛇護腿 |
 | 11627 | Black Tiger Greaves D | 黑虎護腿 |
 | 11628 | Crushing Fog D [Hakama 】 | 碎霧袴 |
 | 11629 | Valued Word Hakama D | 珍言袴 |
 | 11630 | Blue Sky Hakama D | 蒼天袴 |
 | 11631 | Noon Glow Hakama D | 午暉袴 |
-| 11632 | Kosho D [Hakama 】 | 克歐夏歐袴 |
+| 11632 | Kosho D [Hakama 】 | 古修袴 |
 | 11633 | True Shadow Hakama D | 真影袴 |
-| 11634 | Furogada D Greaves | 芙烏爾歐護腿 |
-| 11635 | Lars D Greaves | 爾阿爾護腿 |
-| 11636 | Donru D Greaves | 德歐恩烏護腿 |
+| 11634 | Furogada D Greaves | 芙蘿加達護腿 |
+| 11635 | Lars D Greaves | 拉護腿 |
+| 11636 | Donru D Greaves | 多露護腿 |
 | 11637 | Inagami ZD Greaves | 伊恩阿格護腿 |
-| 11638 | Barioth C Greaves | 布阿爾伊護腿 |
-| 11639 | Barioth C Leggings | 布阿爾伊裹腿 |
+| 11638 | Barioth C Greaves | 巴里斯護腿 |
+| 11639 | Barioth C Leggings | 巴里斯裹腿 |
 | 11640 | Brachy C Greaves | 布阿奇護腿 |
 | 11641 | Brachy C Leggings | 布阿奇裹腿 |
-| 11642 | Uragaan C Greaves | 烏爾阿格護腿 |
-| 11643 | Uragaan C Leggings | 烏爾阿格裹腿 |
+| 11642 | Uragaan C Greaves | 拉加護腿 |
+| 11643 | Uragaan C Leggings | 拉加裹腿 |
 | 11644 | Stygian C Greaves | 斯伊恩護腿 |
 | 11645 | Stygian C Leggings | 斯伊恩裹腿 |
-| 11646 | Gore C Greaves | 格歐爾艾護腿 |
-| 11647 | Gore C Leggings | 格歐爾艾裹腿 |
+| 11646 | Gore C Greaves | 戈蕾護腿 |
+| 11647 | Gore C Leggings | 戈蕾裹腿 |
 | 11648 | Vangis C Greaves | 芙阿恩伊護腿 |
 | 11649 | Vangis C Leggings | 芙阿恩伊裹腿 |
 | 11650 | Shagaru C Greaves | 夏阿格阿護腿 |
@@ -261,16 +261,16 @@
 | 11755 | Shatemu ZP Leggings | 夏特穆裹腿【ＺＰ】 |
 | 11756 | Hevria ZP Boots | 赫芙莉亞靴【ＺＰ】 |
 | 11757 | Hevria ZP Leggings | 赫芙莉亞裹腿【ＺＰ】 |
-| 11758 | Tiuru ZP Boots | 提烏魯靴【ＺＰ】 |
-| 11759 | Tiuru ZP Leggings | 提烏魯裹腿【ＺＰ】 |
+| 11758 | Tiuru ZP Boots | 蒂宇露靴【ＺＰ】 |
+| 11759 | Tiuru ZP Leggings | 蒂宇露裹腿【ＺＰ】 |
 | 11760 | Kaila ZP Feet | 凱拉足【ＺＰ】 |
 | 11761 | Kaila ZP Boots | 凱拉靴【ＺＰ】 |
-| 11762 | Fonse G Greaves | 芙歐恩艾護腿【Ｇ】 |
-| 11763 | Fonse GF Greaves | 芙歐恩艾護腿【ＧＦ】 |
-| 11764 | Fonse GX Greaves | 芙歐恩艾護腿【ＧＸ】 |
-| 11765 | Fonse G Leggings | 芙歐恩艾裹腿【Ｇ】 |
-| 11766 | Fonse GF Leggings | 芙歐恩艾裹腿【ＧＦ】 |
-| 11767 | Fonse GX Leggings | 芙歐恩艾裹腿【ＧＸ】 |
+| 11762 | Fonse G Greaves | 佛賽護腿【Ｇ】 |
+| 11763 | Fonse GF Greaves | 佛賽護腿【ＧＦ】 |
+| 11764 | Fonse GX Greaves | 佛賽護腿【ＧＸ】 |
+| 11765 | Fonse G Leggings | 佛賽裹腿【Ｇ】 |
+| 11766 | Fonse GF Leggings | 佛賽裹腿【ＧＦ】 |
+| 11767 | Fonse GX Leggings | 佛賽裹腿【ＧＸ】 |
 | 11768 | Utante Z Greaves | 烏特阿恩護腿【Ｚ】 |
 | 11769 | Utante ZF Greaves | 烏特阿恩護腿【ＺＦ】 |
 | 11770 | Utante ZY Greaves | 烏特阿恩護腿【ＺＹ】 |
@@ -279,74 +279,74 @@
 | 11773 | Utante ZF Leggings | 烏特阿恩裹腿【ＺＦ】 |
 | 11774 | Utante ZY Leggings | 烏特阿恩裹腿【ＺＹ】 |
 | 11775 | Utante ZX Leggings | 烏特阿恩裹腿【ＺＸ】 |
-| 11776 | Rizuvue G Greaves | 爾伊茲烏護腿【Ｇ】 |
-| 11777 | Rizuvue GF Greaves | 爾伊茲烏護腿【ＧＦ】 |
-| 11778 | Rizuvue GX Greaves | 爾伊茲烏護腿【ＧＸ】 |
-| 11779 | Rizuvue G Leggings | 爾伊茲烏裹腿【Ｇ】 |
-| 11780 | Rizuvue GF Leggings | 爾伊茲烏裹腿【ＧＦ】 |
-| 11781 | Rizuvue GX Leggings | 爾伊茲烏裹腿【ＧＸ】 |
+| 11776 | Rizuvue G Greaves | 里茲護腿【Ｇ】 |
+| 11777 | Rizuvue GF Greaves | 里茲護腿【ＧＦ】 |
+| 11778 | Rizuvue GX Greaves | 里茲護腿【ＧＸ】 |
+| 11779 | Rizuvue G Leggings | 里茲裹腿【Ｇ】 |
+| 11780 | Rizuvue GF Leggings | 里茲裹腿【ＧＦ】 |
+| 11781 | Rizuvue GX Leggings | 里茲裹腿【ＧＸ】 |
 | 11782 | Inagami ZD Leggings | 伊恩阿格裹腿 |
-| 11783 | Tempest C【 Hakama 】 | 特艾姆艾袴 |
-| 11784 | Welkin C【 Hakama 】 | 沃艾爾伊袴 |
-| 11785 | Levin D Greaves | 爾艾芙伊護腿 |
+| 11783 | Tempest C【 Hakama 】 | 特佩袴 |
+| 11784 | Welkin C【 Hakama 】 | 穹蒼袴 |
+| 11785 | Levin D Greaves | 勒薇恩德護腿 |
 | 11786 | Silver Armour D・Toenail | 銀甲冑趾甲 |
-| 11787 | Rose Ball Gown D・Toenail | 爾歐斯艾趾甲 |
+| 11787 | Rose Ball Gown D・Toenail | 蘿賽巴爾趾甲 |
 | 11788 | Shui D Greaves | 夏烏斯護腿 |
-| 11789 | CE Kevlar D BM Legs Blue | 克艾斯艾腿甲・青 |
-| 11790 | CE Kevlar D BM Legs Red | 克艾斯艾腿甲・赤 |
-| 11791 | CE Kevlar D BM Legs White | 克艾斯艾腿甲・白 |
-| 11792 | CE Kevlar D BM Legs Black | 克艾斯艾腿甲・黑 |
+| 11789 | CE Kevlar D BM Legs Blue | 賽凱拉腿甲・青 |
+| 11790 | CE Kevlar D BM Legs Red | 賽凱拉腿甲・赤 |
+| 11791 | CE Kevlar D BM Legs White | 賽凱拉腿甲・白 |
+| 11792 | CE Kevlar D BM Legs Black | 賽凱拉腿甲・黑 |
 | 11793 | AB Layer D BM Legs Red | 阿布阿伊腿甲・赤 |
 | 11794 | AB Layer D BM Legs Blue | 阿布阿伊腿甲・青 |
 | 11795 | AB Layer D BM Legs Black | 阿布阿伊腿甲・黑 |
 | 11796 | AB Layer D BM Legs White | 阿布阿伊腿甲・白 |
-| 11797 | Ruban D Feet | 爾烏布阿足 |
-| 11798 | L'Amore D Feet | 爾阿姆歐足 |
-| 11799 | Orloj D Boots | 歐爾歐傑靴 |
-| 11800 | Dolce D Feet | 德歐爾艾足 |
+| 11797 | Ruban D Feet | 露巴恩德足 |
+| 11798 | L'Amore D Feet | 拉莫蕾足 |
+| 11799 | Orloj D Boots | 蘿靴 |
+| 11800 | Dolce D Feet | 多賽足 |
 | 11801 | Bright D Greaves | 布伊格護腿 |
-| 11802 | Juari D Greaves | 傑烏爾伊護腿 |
+| 11802 | Juari D Greaves | 朱里護腿 |
 | 11803 | Tinku D Greaves | 特伊恩烏護腿 |
 | 11804 | Shatemu D Boots | 夏阿特艾靴 |
 | 11805 | Hevria D Boots | 赫艾芙伊靴 |
-| 11806 | Tiuru D Boots | 特伊爾烏靴 |
-| 11807 | Kaila D Feet | 克阿爾阿足 |
-| 11808 | Fonse D Greaves | 芙歐恩艾護腿 |
+| 11806 | Tiuru D Boots | 蒂露靴 |
+| 11807 | Kaila D Feet | 可拉足 |
+| 11808 | Fonse D Greaves | 佛賽護腿 |
 | 11809 | Hypnoc ルータD Leg | 眠鳥腿 |
-| 11810 | Hypnolia D Leg | 赫歐爾伊腿 |
-| 11811 | Es Quera D Leg | 艾斯烏爾腿 |
-| 11812 | Ecole D Leg | 艾克歐爾腿 |
+| 11810 | Hypnolia D Leg | 諾莉腿 |
+| 11811 | Es Quera D Leg | 奎拉腿 |
+| 11812 | Ecole D Leg | 古勒腿 |
 | 11813 | Guns D Leg | 格烏恩腿 |
 | 11814 | Agria D Leg | 阿格伊斯腿 |
 | 11815 | Fauve D Leg | 芙阿芙艾腿 |
 | 11816 | ティーアD Leg | 蒂亞腿 |
-| 11817 | Muse D Leg | 姆烏斯艾腿 |
+| 11817 | Muse D Leg | 姆賽腿 |
 | 11818 | Dicto D Leg | 德伊克歐腿 |
 | 11819 | Kruss D Leg | 克烏斯腿 |
-| 11820 | Starina D Leg | 斯阿爾伊腿 |
-| 11821 | Loose D Leg | 爾歐斯艾腿 |
-| 11822 | Mirado D Leg | 姆伊爾阿腿 |
-| 11823 | Deyuru D Greaves | 德艾伊烏護腿 |
+| 11820 | Starina D Leg | 斯塔里娜腿 |
+| 11821 | Loose D Leg | 蘿賽腿 |
+| 11822 | Mirado D Leg | 蜜拉多腿 |
+| 11823 | Deyuru D Greaves | 德尤露護腿 |
 | 11824 | Robust Dペイル | 剛健護腿 |
-| 11825 | Falco D Greaves | 芙阿爾歐護腿 |
+| 11825 | Falco D Greaves | 法古護腿 |
 | 11826 | Howx D Greaves | 赫歐沃護腿 |
 | 11827 | Pirata D Greaves | 普伊爾阿護腿 |
-| 11828 | Zeroi D Greaves | 茲艾爾歐護腿 |
-| 11829 | Rail D Greaves | 爾阿爾護腿 |
-| 11830 | Ridere D Greaves | 爾伊德艾護腿 |
+| 11828 | Zeroi D Greaves | 澤蘿護腿 |
+| 11829 | Rail D Greaves | 拉護腿 |
+| 11830 | Ridere D Greaves | 里德蕾護腿 |
 | 11831 | Riot D Greaves | 爾伊特護腿 |
-| 11832 | Rutare D Greaves | 爾烏特阿護腿 |
-| 11833 | Rolling Flow Greaves・D | 爾歐爾伊護腿 |
+| 11832 | Rutare D Greaves | 露塔蕾護腿 |
+| 11833 | Rolling Flow Greaves・D | 蘿爾恩芙護腿 |
 | 11834 | Rolling Sky Greaves・D | 滾天護腿 |
 | 11835 | Cubie D Feet | 克烏布伊足 |
-| 11836 | Kemor D Feet | 克艾姆歐足 |
+| 11836 | Kemor D Feet | 凱莫足 |
 | 11837 | Latria D Feet | 爾阿特伊足 |
 | 11838 | Kontao D Feet | 克歐恩阿足 |
-| 11839 | Ukon Dキック | 烏克歐恩護腿 |
+| 11839 | Ukon Dキック | 古護腿 |
 | 11840 | ロットDキック | 羅托護腿 |
-| 11841 | Shoko D Leg | 夏歐克歐腿 |
-| 11842 | Nimbus D Leg | 恩伊姆烏腿 |
-| 11843 | Moonlight Hakama・D | 姆歐恩伊袴 |
+| 11841 | Shoko D Leg | 修古腿 |
+| 11842 | Nimbus D Leg | 尼姆腿 |
+| 11843 | Moonlight Hakama・D | 莫莉特袴 |
 | 11844 | Dawnbreak Hakama・D | 德阿沃艾袴 |
 | 11845 | Toridcless Z Greaves | 照雷鳥護腿【Ｚ】 |
 | 11846 | Toridcless ZF Greaves | 照雷鳥護腿【ＺＦ】 |
@@ -364,20 +364,20 @@
 | 11858 | Doragyurosu ZF Leggings | 冥雷龍裹腿【ＺＦ】 |
 | 11859 | Doragyurosu ZY Leggings | 冥雷龍裹腿【ＺＹ】 |
 | 11860 | Doragyurosu ZX Leggings | 冥雷龍裹腿【ＺＸ】 |
-| 11861 | Alfi Feet | 阿爾菲足 |
-| 11862 | Alfi F Feet | 阿爾菲足【Ｆ】 |
-| 11863 | Alfi FZ Feet | 阿爾菲足【ＦＺ】 |
-| 11864 | Alfi HS Feet | 阿爾菲足【ＨＳ】 |
-| 11865 | Alfi GS Feet | 阿爾菲足【ＧＳ】 |
-| 11866 | Alfi GP Feet | 阿爾菲足【ＧＰ】 |
-| 11867 | Alfi ZP Feet | 阿爾菲足【ＺＰ】 |
-| 11868 | Alfi Leggings | 阿爾菲裹腿 |
-| 11869 | Alfi F Leggings | 阿爾菲裹腿【Ｆ】 |
-| 11870 | Alfi FZ Leggings | 阿爾菲裹腿【ＦＺ】 |
-| 11871 | Alfi HS Leggings | 阿爾菲裹腿【ＨＳ】 |
-| 11872 | Alfi GS Leggings | 阿爾菲裹腿【ＧＳ】 |
-| 11873 | Alfi GP Leggings | 阿爾菲裹腿【ＧＰ】 |
-| 11874 | Alfi ZP Leggings | 阿爾菲裹腿【ＺＰ】 |
+| 11861 | Alfi Feet | 亞露菲足 |
+| 11862 | Alfi F Feet | 亞露菲足【Ｆ】 |
+| 11863 | Alfi FZ Feet | 亞露菲足【ＦＺ】 |
+| 11864 | Alfi HS Feet | 亞露菲足【ＨＳ】 |
+| 11865 | Alfi GS Feet | 亞露菲足【ＧＳ】 |
+| 11866 | Alfi GP Feet | 亞露菲足【ＧＰ】 |
+| 11867 | Alfi ZP Feet | 亞露菲足【ＺＰ】 |
+| 11868 | Alfi Leggings | 亞露菲裹腿 |
+| 11869 | Alfi F Leggings | 亞露菲裹腿【Ｆ】 |
+| 11870 | Alfi FZ Leggings | 亞露菲裹腿【ＦＺ】 |
+| 11871 | Alfi HS Leggings | 亞露菲裹腿【ＨＳ】 |
+| 11872 | Alfi GS Leggings | 亞露菲裹腿【ＧＳ】 |
+| 11873 | Alfi GP Leggings | 亞露菲裹腿【ＧＰ】 |
+| 11874 | Alfi ZP Leggings | 亞露菲裹腿【ＺＰ】 |
 | 11875 | Kaifa Greaves | 凱法護腿 |
 | 11876 | Kaifa F Greaves | 凱法護腿【Ｆ】 |
 | 11877 | Kaifa FZ Greaves | 凱法護腿【ＦＺ】 |
@@ -406,28 +406,28 @@
 | 11900 | Straza GS Leggings | 斯特拉札裹腿【ＧＳ】 |
 | 11901 | Straza GP Leggings | 斯特拉札裹腿【ＧＰ】 |
 | 11902 | Straza ZP Leggings | 斯特拉札裹腿【ＺＰ】 |
-| 11903 | Furante Z Greaves | 芙烏爾阿護腿【Ｚ】 |
-| 11904 | Furante ZF Greaves | 芙烏爾阿護腿【ＺＦ】 |
-| 11905 | Furante ZY Greaves | 芙烏爾阿護腿【ＺＹ】 |
-| 11906 | Furante ZX Greaves | 芙烏爾阿護腿【ＺＸ】 |
-| 11907 | Furante Z Leggings | 芙烏爾阿裹腿【Ｚ】 |
-| 11908 | Furante ZF Leggings | 芙烏爾阿裹腿【ＺＦ】 |
-| 11909 | Furante ZY Leggings | 芙烏爾阿裹腿【ＺＹ】 |
-| 11910 | Furante ZX Leggings | 芙烏爾阿裹腿【ＺＸ】 |
-| 11911 | Cariva G Greaves | 克阿爾伊護腿【Ｇ】 |
-| 11912 | Cariva GF Greaves | 克阿爾伊護腿【ＧＦ】 |
-| 11913 | Cariva GX Greaves | 克阿爾伊護腿【ＧＸ】 |
-| 11914 | Cariva G Leggings | 克阿爾伊裹腿【Ｇ】 |
-| 11915 | Cariva GF Leggings | 克阿爾伊裹腿【ＧＦ】 |
-| 11916 | Cariva GX Leggings | 克阿爾伊裹腿【ＧＸ】 |
-| 11917 | Bonne G Greaves | 布歐恩艾護腿【Ｇ】 |
-| 11918 | Bonne GF Greaves | 布歐恩艾護腿【ＧＦ】 |
-| 11919 | Bonne GX Greaves | 布歐恩艾護腿【ＧＸ】 |
-| 11920 | Bonne G Leggings | 布歐恩艾裹腿【Ｇ】 |
-| 11921 | Bonne GF Leggings | 布歐恩艾裹腿【ＧＦ】 |
-| 11922 | Bonne GX Leggings | 布歐恩艾裹腿【ＧＸ】 |
-| 11923 | Survey Corps ZP Feet | 斯烏爾艾足【ＺＰ】 |
-| 11924 | Survey Corps ZP Boots | 斯烏爾艾靴【ＺＰ】 |
+| 11903 | Furante Z Greaves | 芙拉特護腿【Ｚ】 |
+| 11904 | Furante ZF Greaves | 芙拉特護腿【ＺＦ】 |
+| 11905 | Furante ZY Greaves | 芙拉特護腿【ＺＹ】 |
+| 11906 | Furante ZX Greaves | 芙拉特護腿【ＺＸ】 |
+| 11907 | Furante Z Leggings | 芙拉特裹腿【Ｚ】 |
+| 11908 | Furante ZF Leggings | 芙拉特裹腿【ＺＦ】 |
+| 11909 | Furante ZY Leggings | 芙拉特裹腿【ＺＹ】 |
+| 11910 | Furante ZX Leggings | 芙拉特裹腿【ＺＸ】 |
+| 11911 | Cariva G Greaves | 可里瓦護腿【Ｇ】 |
+| 11912 | Cariva GF Greaves | 可里瓦護腿【ＧＦ】 |
+| 11913 | Cariva GX Greaves | 可里瓦護腿【ＧＸ】 |
+| 11914 | Cariva G Leggings | 可里瓦裹腿【Ｇ】 |
+| 11915 | Cariva GF Leggings | 可里瓦裹腿【ＧＦ】 |
+| 11916 | Cariva GX Leggings | 可里瓦裹腿【ＧＸ】 |
+| 11917 | Bonne G Greaves | 波恩護腿【Ｇ】 |
+| 11918 | Bonne GF Greaves | 波恩護腿【ＧＦ】 |
+| 11919 | Bonne GX Greaves | 波恩護腿【ＧＸ】 |
+| 11920 | Bonne G Leggings | 波恩裹腿【Ｇ】 |
+| 11921 | Bonne GF Leggings | 波恩裹腿【ＧＦ】 |
+| 11922 | Bonne GX Leggings | 波恩裹腿【ＧＸ】 |
+| 11923 | Survey Corps ZP Feet | 斯薇古足【ＺＰ】 |
+| 11924 | Survey Corps ZP Boots | 斯薇古靴【ＺＰ】 |
 | 11925 | Training Corps ZP Feet | 特阿恩伊足【ＺＰ】 |
 | 11926 | Training Corps ZP Boots | 特阿恩伊靴【ＺＰ】 |
 | 11927 | Twelve Paladins' Armor・Toenail | 十二聖騎鎧趾甲 |
@@ -494,14 +494,14 @@
 | 11988 | Granu ZP Leggings | 格拉努裹腿【ＺＰ】 |
 | 11989 | Chiyo Legs ZP | 千代腿甲【ＺＰ】 |
 | 11990 | Chiyo Greaves ZP | 千代護腿【ＺＰ】 |
-| 11991 | Nekodan ZP Feet | 恩艾克歐足【ＺＰ】 |
+| 11991 | Nekodan ZP Feet | 奈古達足【ＺＰ】 |
 | 11992 | Gudan ZP Feet | 古丹足【ＺＰ】 |
-| 11993 | Toridcless ZD Greaves | 特歐爾伊護腿 |
-| 11994 | Toridcless ZD Leggings | 特歐爾伊裹腿 |
-| 11995 | Doragyurosu ZD Greaves | 德歐爾阿護腿 |
-| 11996 | Doragyurosu ZD Leggings | 德歐爾阿裹腿 |
-| 11997 | Alfi D Feet | 阿爾伊斯足 |
+| 11993 | Toridcless ZD Greaves | 托里克雷護腿 |
+| 11994 | Toridcless ZD Leggings | 托里克雷裹腿 |
+| 11995 | Doragyurosu ZD Greaves | 多拉尤蘿護腿 |
+| 11996 | Doragyurosu ZD Leggings | 多拉尤蘿裹腿 |
+| 11997 | Alfi D Feet | 菲足 |
 | 11998 | Kaifa D Greaves | 克阿芙阿護腿 |
 | 11999 | Straza D Feet | 斯阿茲阿足 |
-| 12000 | Renka Greaves C | 爾艾恩阿護腿 |
+| 12000 | Renka Greaves C | 蕾可護腿 |
 

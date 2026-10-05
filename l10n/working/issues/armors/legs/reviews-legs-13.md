@@ -109,18 +109,18 @@
 | 6103 | Flower HS Boots | 芙歐沃艾靴【ＨＳ】 |
 | 6104 | Flower GS Boots | 芙歐沃艾靴【ＧＳ】 |
 | 6105 | Flower GP Boots | 芙歐沃艾靴【ＧＰ】 |
-| 6106 | Tune HS Leg | 特烏恩艾腿【ＨＳ】 |
-| 6107 | Tune GS Leg | 特烏恩艾腿【ＧＳ】 |
-| 6108 | Tune GP Leg | 特烏恩艾腿【ＧＰ】 |
+| 6106 | Tune HS Leg | 圖奈腿【ＨＳ】 |
+| 6107 | Tune GS Leg | 圖奈腿【ＧＳ】 |
+| 6108 | Tune GP Leg | 圖奈腿【ＧＰ】 |
 | 6109 | Schnite HS Boots | 施伊特艾靴【ＨＳ】 |
 | 6110 | Schnite GS Boots | 施伊特艾靴【ＧＳ】 |
 | 6111 | Schnite GP Boots | 施伊特艾靴【ＧＰ】 |
 | 6112 | Dicto HS Leg | 德伊克歐腿【ＨＳ】 |
 | 6113 | Dicto GS Leg | 德伊克歐腿【ＧＳ】 |
 | 6114 | Dicto GP Leg | 德伊克歐腿【ＧＰ】 |
-| 6115 | Diletto HS Boots | 德伊爾艾靴【ＨＳ】 |
-| 6116 | Diletto GS Boots | 德伊爾艾靴【ＧＳ】 |
-| 6117 | Diletto GP Boots | 德伊爾艾靴【ＧＰ】 |
+| 6115 | Diletto HS Boots | 迪勒特靴【ＨＳ】 |
+| 6116 | Diletto GS Boots | 迪勒特靴【ＧＳ】 |
+| 6117 | Diletto GP Boots | 迪勒特靴【ＧＰ】 |
 | 6118 | Cubie HS Feet | 方塊足【ＨＳ】 |
 | 6119 | Cubie GS Feet | 方塊足【ＧＳ】 |
 | 6120 | Cubie GP Feet | 方塊足【ＧＰ】 |
@@ -215,16 +215,16 @@
 | 6209 | Franky G Boots | 芙阿恩靴【Ｇ】 |
 | 6210 | Franky GF Boots | 芙阿恩靴【ＧＦ】 |
 | 6211 | Franky GX Boots | 芙阿恩靴【ＧＸ】 |
-| 6212 | Diore Greaves | 德伊爾艾護腿 |
-| 6213 | Diore F Greaves | 德伊爾艾護腿【Ｆ】 |
-| 6214 | Diore FX Greaves | 德伊爾艾護腿【ＦＸ】 |
-| 6215 | Diore G Greaves | 德伊爾艾護腿【Ｇ】 |
-| 6216 | Diore GF Greaves | 德伊爾艾護腿【ＧＦ】 |
-| 6217 | Diore Leggings | 德伊爾艾裹腿 |
-| 6218 | Diore F Leggings | 德伊爾艾裹腿【Ｆ】 |
-| 6219 | Diore FX Leggings | 德伊爾艾裹腿【ＦＸ】 |
-| 6220 | Diore G Leggings | 德伊爾艾裹腿【Ｇ】 |
-| 6221 | Diore GF Leggings | 德伊爾艾裹腿【ＧＦ】 |
+| 6212 | Diore Greaves | 迪歐護腿 |
+| 6213 | Diore F Greaves | 迪歐護腿【Ｆ】 |
+| 6214 | Diore FX Greaves | 迪歐護腿【ＦＸ】 |
+| 6215 | Diore G Greaves | 迪歐護腿【Ｇ】 |
+| 6216 | Diore GF Greaves | 迪歐護腿【ＧＦ】 |
+| 6217 | Diore Leggings | 迪歐裹腿 |
+| 6218 | Diore F Leggings | 迪歐裹腿【Ｆ】 |
+| 6219 | Diore FX Leggings | 迪歐裹腿【ＦＸ】 |
+| 6220 | Diore G Leggings | 迪歐裹腿【Ｇ】 |
+| 6221 | Diore GF Leggings | 迪歐裹腿【ＧＦ】 |
 | 6222 | Kagura G【 Hakama 】 | 神樂袴【Ｇ】 |
 | 6223 | Kagura GF【 Hakama 】 | 神樂袴【ＧＦ】 |
 | 6224 | Kagura GX【 Hakama 】 | 神樂袴【ＧＸ】 |
@@ -249,8 +249,8 @@
 | 6243 | Vulcan G Legs | 火神腿甲【Ｇ】 |
 | 6244 | Vulcan GF Legs | 火神腿甲【ＧＦ】 |
 | 6245 | Vulcan GX Legs | 火神腿甲【ＧＸ】 |
-| 6246 | Algol GF Greaves | 阿爾歐爾護腿【ＧＦ】 |
-| 6247 | Algol GF Leggings | 阿爾歐爾裹腿【ＧＦ】 |
+| 6246 | Algol GF Greaves | 戈護腿【ＧＦ】 |
+| 6247 | Algol GF Leggings | 戈裹腿【ＧＦ】 |
 | 6248 | Odiva GF Greaves | 奧蒂瓦護腿【ＧＦ】 |
 | 6249 | Odiva GF Leggings | 奧蒂瓦裹腿【ＧＦ】 |
 | 6250 | Byakko・Kensei GX Feet | 白虎劍聖足【ＧＸ】 |

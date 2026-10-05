@@ -110,48 +110,48 @@
 | 8104 | Quoiz G Guard | 斯烏茲臂甲【Ｇ】 |
 | 8105 | Quoiz GF Guard | 斯烏茲臂甲【ＧＦ】 |
 | 8106 | Quoiz GX Guard | 斯烏茲臂甲【ＧＸ】 |
-| 8107 | Kalais Arms | 克阿爾阿護腕 |
-| 8108 | Kalais F Arms | 克阿爾阿護腕【Ｆ】 |
-| 8109 | Kalais FY Arms | 克阿爾阿護腕 |
-| 8110 | Kalais HS Arms | 克阿爾阿護腕【ＨＳ】 |
-| 8111 | Kalais G Arms | 克阿爾阿護腕【Ｇ】 |
-| 8112 | Kalais GF Arms | 克阿爾阿護腕【ＧＦ】 |
-| 8113 | Kalais GX Arms | 克阿爾阿護腕【ＧＸ】 |
-| 8114 | Kalais Guard | 克阿爾阿臂甲 |
-| 8115 | Kalais F Guard | 克阿爾阿臂甲【Ｆ】 |
-| 8116 | Kalais FY Guard | 克阿爾阿臂甲 |
-| 8117 | Kalais HS Guard | 克阿爾阿臂甲【ＨＳ】 |
-| 8118 | Kalais G Guard | 克阿爾阿臂甲【Ｇ】 |
-| 8119 | Kalais GF Guard | 克阿爾阿臂甲【ＧＦ】 |
-| 8120 | Kalais GX Guard | 克阿爾阿臂甲【ＧＸ】 |
-| 8121 | Yoruti Arms | 伊歐爾烏護腕 |
-| 8122 | Yoruti F Arms | 伊歐爾烏護腕【Ｆ】 |
-| 8123 | Yoruti FY Arms | 伊歐爾烏護腕 |
-| 8124 | Yoruti HS Arms | 伊歐爾烏護腕【ＨＳ】 |
-| 8125 | Yoruti G Arms | 伊歐爾烏護腕【Ｇ】 |
-| 8126 | Yoruti GF Arms | 伊歐爾烏護腕【ＧＦ】 |
-| 8127 | Yoruti GX Arms | 伊歐爾烏護腕【ＧＸ】 |
-| 8128 | Yoruti Guard | 伊歐爾烏臂甲 |
-| 8129 | Yoruti F Guard | 伊歐爾烏臂甲【Ｆ】 |
-| 8130 | Yoruti FY Guard | 伊歐爾烏臂甲 |
-| 8131 | Yoruti HS Guard | 伊歐爾烏臂甲【ＨＳ】 |
-| 8132 | Yoruti G Guard | 伊歐爾烏臂甲【Ｇ】 |
-| 8133 | Yoruti GF Guard | 伊歐爾烏臂甲【ＧＦ】 |
-| 8134 | Yoruti GX Guard | 伊歐爾烏臂甲【ＧＸ】 |
-| 8135 | Haragan Arms | 赫阿爾阿護腕 |
-| 8136 | Haragan F Arms | 赫阿爾阿護腕【Ｆ】 |
-| 8137 | Haragan FY Arms | 赫阿爾阿護腕 |
-| 8138 | Haragan HS Arms | 赫阿爾阿護腕【ＨＳ】 |
-| 8139 | Haragan G Arms | 赫阿爾阿護腕【Ｇ】 |
-| 8140 | Haragan GF Arms | 赫阿爾阿護腕【ＧＦ】 |
-| 8141 | Haragan GX Arms | 赫阿爾阿護腕【ＧＸ】 |
-| 8142 | Haragan Guard | 赫阿爾阿臂甲 |
-| 8143 | Haragan F Guard | 赫阿爾阿臂甲【Ｆ】 |
-| 8144 | Haragan FY Guard | 赫阿爾阿臂甲 |
-| 8145 | Haragan HS Guard | 赫阿爾阿臂甲【ＨＳ】 |
-| 8146 | Haragan G Guard | 赫阿爾阿臂甲【Ｇ】 |
-| 8147 | Haragan GF Guard | 赫阿爾阿臂甲【ＧＦ】 |
-| 8148 | Haragan GX Guard | 赫阿爾阿臂甲【ＧＸ】 |
+| 8107 | Kalais Arms | 可拉護腕 |
+| 8108 | Kalais F Arms | 可拉護腕【Ｆ】 |
+| 8109 | Kalais FY Arms | 可拉護腕 |
+| 8110 | Kalais HS Arms | 可拉護腕【ＨＳ】 |
+| 8111 | Kalais G Arms | 可拉護腕【Ｇ】 |
+| 8112 | Kalais GF Arms | 可拉護腕【ＧＦ】 |
+| 8113 | Kalais GX Arms | 可拉護腕【ＧＸ】 |
+| 8114 | Kalais Guard | 可拉臂甲 |
+| 8115 | Kalais F Guard | 可拉臂甲【Ｆ】 |
+| 8116 | Kalais FY Guard | 可拉臂甲 |
+| 8117 | Kalais HS Guard | 可拉臂甲【ＨＳ】 |
+| 8118 | Kalais G Guard | 可拉臂甲【Ｇ】 |
+| 8119 | Kalais GF Guard | 可拉臂甲【ＧＦ】 |
+| 8120 | Kalais GX Guard | 可拉臂甲【ＧＸ】 |
+| 8121 | Yoruti Arms | 約露蒂護腕 |
+| 8122 | Yoruti F Arms | 約露蒂護腕【Ｆ】 |
+| 8123 | Yoruti FY Arms | 約露蒂護腕 |
+| 8124 | Yoruti HS Arms | 約露蒂護腕【ＨＳ】 |
+| 8125 | Yoruti G Arms | 約露蒂護腕【Ｇ】 |
+| 8126 | Yoruti GF Arms | 約露蒂護腕【ＧＦ】 |
+| 8127 | Yoruti GX Arms | 約露蒂護腕【ＧＸ】 |
+| 8128 | Yoruti Guard | 約露蒂臂甲 |
+| 8129 | Yoruti F Guard | 約露蒂臂甲【Ｆ】 |
+| 8130 | Yoruti FY Guard | 約露蒂臂甲 |
+| 8131 | Yoruti HS Guard | 約露蒂臂甲【ＨＳ】 |
+| 8132 | Yoruti G Guard | 約露蒂臂甲【Ｇ】 |
+| 8133 | Yoruti GF Guard | 約露蒂臂甲【ＧＦ】 |
+| 8134 | Yoruti GX Guard | 約露蒂臂甲【ＧＸ】 |
+| 8135 | Haragan Arms | 哈拉加護腕 |
+| 8136 | Haragan F Arms | 哈拉加護腕【Ｆ】 |
+| 8137 | Haragan FY Arms | 哈拉加護腕 |
+| 8138 | Haragan HS Arms | 哈拉加護腕【ＨＳ】 |
+| 8139 | Haragan G Arms | 哈拉加護腕【Ｇ】 |
+| 8140 | Haragan GF Arms | 哈拉加護腕【ＧＦ】 |
+| 8141 | Haragan GX Arms | 哈拉加護腕【ＧＸ】 |
+| 8142 | Haragan Guard | 哈拉加臂甲 |
+| 8143 | Haragan F Guard | 哈拉加臂甲【Ｆ】 |
+| 8144 | Haragan FY Guard | 哈拉加臂甲 |
+| 8145 | Haragan HS Guard | 哈拉加臂甲【ＨＳ】 |
+| 8146 | Haragan G Guard | 哈拉加臂甲【Ｇ】 |
+| 8147 | Haragan GF Guard | 哈拉加臂甲【ＧＦ】 |
+| 8148 | Haragan GX Guard | 哈拉加臂甲【ＧＸ】 |
 | 8149 | Rios Arms | 爾伊斯護腕 |
 | 8150 | Rios F Arms | 爾伊斯護腕【Ｆ】 |
 | 8151 | Rios FY Arms | 爾伊斯護腕 |
@@ -180,14 +180,14 @@
 | 8174 | Fog G [Sleeve 】 | 霧袖【Ｇ】 |
 | 8175 | Fog GF [Sleeve 】 | 霧袖【ＧＦ】 |
 | 8176 | Fog GX [Sleeve 】 | 霧袖【ＧＸ】 |
-| 8177 | Rodokuru Arms | 爾歐德歐護腕 |
-| 8178 | Rodokuru F Arms | 爾歐德歐護腕【Ｆ】 |
-| 8179 | Rodokuru FY Arms | 爾歐德歐護腕 |
-| 8180 | Rodokuru HS Arms | 爾歐德歐護腕【ＨＳ】 |
-| 8181 | Rodokuru G Arms | 爾歐德歐護腕【Ｇ】 |
-| 8182 | Rodokuru GF Arms | 爾歐德歐護腕【ＧＦ】 |
-| 8183 | Rodokuru GX Arms | 爾歐德歐護腕【ＧＸ】 |
-| 8184 | Noir FY Arms | 恩歐爾護腕 |
+| 8177 | Rodokuru Arms | 蘿多克露護腕 |
+| 8178 | Rodokuru F Arms | 蘿多克露護腕【Ｆ】 |
+| 8179 | Rodokuru FY Arms | 蘿多克露護腕 |
+| 8180 | Rodokuru HS Arms | 蘿多克露護腕【ＨＳ】 |
+| 8181 | Rodokuru G Arms | 蘿多克露護腕【Ｇ】 |
+| 8182 | Rodokuru GF Arms | 蘿多克露護腕【ＧＦ】 |
+| 8183 | Rodokuru GX Arms | 蘿多克露護腕【ＧＸ】 |
+| 8184 | Noir FY Arms | 諾護腕 |
 | 8185 | Noir HS Arms | 黑護腕【ＨＳ】 |
 | 8186 | Noir G Arms | 黑護腕【Ｇ】 |
 | 8187 | Noir GF Arms | 黑護腕【ＧＦ】 |
@@ -198,38 +198,38 @@
 | 8192 | 童子ノ Kote G | 童子籠手【Ｇ】 |
 | 8193 | 童子ノ Kote GF | 童子籠手【ＧＦ】 |
 | 8194 | 童子ノ Kote GX | 童子籠手【ＧＸ】 |
-| 8195 | Trume Arms | 特烏姆艾護腕 |
-| 8196 | Trume F Arms | 特烏姆艾護腕【Ｆ】 |
-| 8197 | Trume FZ Arms | 特烏姆艾護腕【ＦＺ】 |
-| 8198 | Trume HS Arms | 特烏姆艾護腕【ＨＳ】 |
-| 8199 | Trume GS Arms | 特烏姆艾護腕【ＧＳ】 |
-| 8200 | Trume GP Arms | 特烏姆艾護腕【ＧＰ】 |
-| 8201 | Trume Guard | 特烏姆艾臂甲 |
-| 8202 | Trume F Guard | 特烏姆艾臂甲【Ｆ】 |
-| 8203 | Trume FZ Guard | 特烏姆艾臂甲【ＦＺ】 |
-| 8204 | Trume HS Guard | 特烏姆艾臂甲【ＨＳ】 |
-| 8205 | Trume GS Guard | 特烏姆艾臂甲【ＧＳ】 |
-| 8206 | Trume GP Guard | 特烏姆艾臂甲【ＧＰ】 |
+| 8195 | Trume Arms | 特梅護腕 |
+| 8196 | Trume F Arms | 特梅護腕【Ｆ】 |
+| 8197 | Trume FZ Arms | 特梅護腕【ＦＺ】 |
+| 8198 | Trume HS Arms | 特梅護腕【ＨＳ】 |
+| 8199 | Trume GS Arms | 特梅護腕【ＧＳ】 |
+| 8200 | Trume GP Arms | 特梅護腕【ＧＰ】 |
+| 8201 | Trume Guard | 特梅臂甲 |
+| 8202 | Trume F Guard | 特梅臂甲【Ｆ】 |
+| 8203 | Trume FZ Guard | 特梅臂甲【ＦＺ】 |
+| 8204 | Trume HS Guard | 特梅臂甲【ＨＳ】 |
+| 8205 | Trume GS Guard | 特梅臂甲【ＧＳ】 |
+| 8206 | Trume GP Guard | 特梅臂甲【ＧＰ】 |
 | 8207 | Gogomoa G Arms | 跳緋獸護腕【Ｇ】 |
 | 8208 | Gogomoa GF Arms | 跳緋獸護腕【ＧＦ】 |
 | 8209 | Gogomoa GX Arms | 跳緋獸護腕【ＧＸ】 |
 | 8210 | Gogomoa G Guard | 跳緋獸臂甲【Ｇ】 |
 | 8211 | Gogomoa GF Guard | 跳緋獸臂甲【ＧＦ】 |
 | 8212 | Gogomoa GX Guard | 跳緋獸臂甲【ＧＸ】 |
-| 8213 | Varusa Arms | 芙阿爾烏護腕 |
-| 8214 | Varusa F Arms | 芙阿爾烏護腕【Ｆ】 |
-| 8215 | Varusa FX Arms | 芙阿爾烏護腕【ＦＸ】 |
-| 8216 | Varusa G Arms | 芙阿爾烏護腕【Ｇ】 |
-| 8217 | Varusa GF Arms | 芙阿爾烏護腕【ＧＦ】 |
-| 8218 | Varusa Guard | 芙阿爾烏臂甲 |
-| 8219 | Varusa F Guard | 芙阿爾烏臂甲【Ｆ】 |
-| 8220 | Varusa FX Guard | 芙阿爾烏臂甲【ＦＸ】 |
-| 8221 | Varusa G Guard | 芙阿爾烏臂甲【Ｇ】 |
-| 8222 | Varusa GF Guard | 芙阿爾烏臂甲【ＧＦ】 |
+| 8213 | Varusa Arms | 瓦露薩護腕 |
+| 8214 | Varusa F Arms | 瓦露薩護腕【Ｆ】 |
+| 8215 | Varusa FX Arms | 瓦露薩護腕【ＦＸ】 |
+| 8216 | Varusa G Arms | 瓦露薩護腕【Ｇ】 |
+| 8217 | Varusa GF Arms | 瓦露薩護腕【ＧＦ】 |
+| 8218 | Varusa Guard | 瓦露薩臂甲 |
+| 8219 | Varusa F Guard | 瓦露薩臂甲【Ｆ】 |
+| 8220 | Varusa FX Guard | 瓦露薩臂甲【ＦＸ】 |
+| 8221 | Varusa G Guard | 瓦露薩臂甲【Ｇ】 |
+| 8222 | Varusa GF Guard | 瓦露薩臂甲【ＧＦ】 |
 | 8223 | Flame GF Arms | 炎護腕【ＧＦ】 |
 | 8224 | Flame GF Guard | 炎臂甲【ＧＦ】 |
-| 8225 | Lils GF Arms | 爾伊爾護腕【ＧＦ】 |
-| 8226 | Lils GF Guard | 爾伊爾臂甲【ＧＦ】 |
+| 8225 | Lils GF Arms | 莉護腕【ＧＦ】 |
+| 8226 | Lils GF Guard | 莉臂甲【ＧＦ】 |
 | 8227 | Asteli Arms・White | 阿斯特利護腕・白 |
 | 8228 | Asteli F Arms・White | 阿斯特利護腕【Ｆ】・白 |
 | 8229 | Asteli FZ Arms・White | 阿斯特利護腕【ＦＺ】・白 |
@@ -278,26 +278,26 @@
 | 8272 | Asteli HS Guard・Black | 阿斯特利臂甲【ＨＳ】・黑 |
 | 8273 | Asteli GS Guard・Black | 阿斯特利臂甲【ＧＳ】・黑 |
 | 8274 | Asteli GP Guard・Black | 阿斯特利臂甲【ＧＰ】・黑 |
-| 8275 | Lucchese Arms | 爾烏克艾護腕 |
-| 8276 | Lucchese F Arms | 爾烏克艾護腕【Ｆ】 |
-| 8277 | Lucchese FY Arms | 爾烏克艾護腕 |
-| 8278 | Lucchese HS Arms | 爾烏克艾護腕【ＨＳ】 |
-| 8279 | Lucchese G Arms | 爾烏克艾護腕【Ｇ】 |
-| 8280 | Lucchese GF Arms | 爾烏克艾護腕【ＧＦ】 |
-| 8281 | Lucchese GX Arms | 爾烏克艾護腕【ＧＸ】 |
-| 8282 | Lucchese Guard | 爾烏克艾臂甲 |
-| 8283 | Lucchese F Guard | 爾烏克艾臂甲【Ｆ】 |
-| 8284 | Lucchese FY Guard | 爾烏克艾臂甲 |
-| 8285 | Lucchese HS Guard | 爾烏克艾臂甲【ＨＳ】 |
-| 8286 | Lucchese G Guard | 爾烏克艾臂甲【Ｇ】 |
-| 8287 | Lucchese GF Guard | 爾烏克艾臂甲【ＧＦ】 |
-| 8288 | Lucchese GX Guard | 爾烏克艾臂甲【ＧＸ】 |
-| 8289 | Orykto G Arms | 歐爾歐護腕【Ｇ】 |
-| 8290 | Orykto GF Arms | 歐爾歐護腕【ＧＦ】 |
-| 8291 | Orykto GX Arms | 歐爾歐護腕【ＧＸ】 |
-| 8292 | Orykto G Guard | 歐爾歐臂甲【Ｇ】 |
-| 8293 | Orykto GF Guard | 歐爾歐臂甲【ＧＦ】 |
-| 8294 | Orykto GX Guard | 歐爾歐臂甲【ＧＸ】 |
+| 8275 | Lucchese Arms | 露切賽護腕 |
+| 8276 | Lucchese F Arms | 露切賽護腕【Ｆ】 |
+| 8277 | Lucchese FY Arms | 露切賽護腕 |
+| 8278 | Lucchese HS Arms | 露切賽護腕【ＨＳ】 |
+| 8279 | Lucchese G Arms | 露切賽護腕【Ｇ】 |
+| 8280 | Lucchese GF Arms | 露切賽護腕【ＧＦ】 |
+| 8281 | Lucchese GX Arms | 露切賽護腕【ＧＸ】 |
+| 8282 | Lucchese Guard | 露切賽臂甲 |
+| 8283 | Lucchese F Guard | 露切賽臂甲【Ｆ】 |
+| 8284 | Lucchese FY Guard | 露切賽臂甲 |
+| 8285 | Lucchese HS Guard | 露切賽臂甲【ＨＳ】 |
+| 8286 | Lucchese G Guard | 露切賽臂甲【Ｇ】 |
+| 8287 | Lucchese GF Guard | 露切賽臂甲【ＧＦ】 |
+| 8288 | Lucchese GX Guard | 露切賽臂甲【ＧＸ】 |
+| 8289 | Orykto G Arms | 托護腕【Ｇ】 |
+| 8290 | Orykto GF Arms | 托護腕【ＧＦ】 |
+| 8291 | Orykto GX Arms | 托護腕【ＧＸ】 |
+| 8292 | Orykto G Guard | 托臂甲【Ｇ】 |
+| 8293 | Orykto GF Guard | 托臂甲【ＧＦ】 |
+| 8294 | Orykto GX Guard | 托臂甲【ＧＸ】 |
 | 8295 | Bonito Arms | 布歐恩伊護腕 |
 | 8296 | Bonito F Arms | 布歐恩伊護腕【Ｆ】 |
 | 8297 | Bonito FY Arms | 布歐恩伊護腕 |
@@ -328,16 +328,16 @@
 | 8322 | Harudo FX Guard | 司銀龍臂甲【ＦＸ】 |
 | 8323 | Harudo G Guard | 司銀龍臂甲【Ｇ】 |
 | 8324 | Harudo GF Guard | 司銀龍臂甲【ＧＦ】 |
-| 8325 | Gureado Arms | 格烏爾艾護腕 |
-| 8326 | Gureado F Arms | 格烏爾艾護腕【Ｆ】 |
-| 8327 | Gureado FX Arms | 格烏爾艾護腕【ＦＸ】 |
-| 8328 | Gureado G Arms | 格烏爾艾護腕【Ｇ】 |
-| 8329 | Gureado GF Arms | 格烏爾艾護腕【ＧＦ】 |
-| 8330 | Gureado Guard | 格烏爾艾臂甲 |
-| 8331 | Gureado F Guard | 格烏爾艾臂甲【Ｆ】 |
-| 8332 | Gureado FX Guard | 格烏爾艾臂甲【ＦＸ】 |
-| 8333 | Gureado G Guard | 格烏爾艾臂甲【Ｇ】 |
-| 8334 | Gureado GF Guard | 格烏爾艾臂甲【ＧＦ】 |
+| 8325 | Gureado Arms | 古蕾多護腕 |
+| 8326 | Gureado F Arms | 古蕾多護腕【Ｆ】 |
+| 8327 | Gureado FX Arms | 古蕾多護腕【ＦＸ】 |
+| 8328 | Gureado G Arms | 古蕾多護腕【Ｇ】 |
+| 8329 | Gureado GF Arms | 古蕾多護腕【ＧＦ】 |
+| 8330 | Gureado Guard | 古蕾多臂甲 |
+| 8331 | Gureado F Guard | 古蕾多臂甲【Ｆ】 |
+| 8332 | Gureado FX Guard | 古蕾多臂甲【ＦＸ】 |
+| 8333 | Gureado G Guard | 古蕾多臂甲【Ｇ】 |
+| 8334 | Gureado GF Guard | 古蕾多臂甲【ＧＦ】 |
 | 8335 | Akantor Gサクンペ | 霸龍臂甲【Ｇ】 |
 | 8336 | Akantor GFサクンペ | 霸龍臂甲【ＧＦ】 |
 | 8337 | Akantor GXサクンペ | 霸龍臂甲【ＧＸ】 |

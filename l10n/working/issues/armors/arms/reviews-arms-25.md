@@ -38,11 +38,11 @@
 | 12032 | Kushala マカーン PD Green | 鋼龍臂甲【ＰＤ】・緑 |
 | 12033 | 忍の Kote・陽D | 忍の陽籠手 |
 | 12034 | 忍の Kote・陰D | 忍の陰籠手 |
-| 12035 | Bonne D Arms | 布歐恩艾護腕 |
-| 12036 | Kalais D Guard | 克阿爾阿臂甲 |
-| 12037 | Lucchese D Guard | 爾烏克艾臂甲 |
+| 12035 | Bonne D Arms | 波恩護腕 |
+| 12036 | Kalais D Guard | 可拉臂甲 |
+| 12037 | Lucchese D Guard | 露切賽臂甲 |
 | 12038 | Quoiz D Guard | 斯烏茲臂甲 |
-| 12039 | Nekodan D Arms | 恩艾克歐護腕 |
+| 12039 | Nekodan D Arms | 奈古達護腕 |
 | 12040 | Gudan D Arms | 格烏德阿護腕 |
 | 12041 | Nerihi Kote Z | 練緋籠手【Ｚ】 |
 | 12042 | Nerihi Kote ZF | 練緋籠手【ＺＦ】 |
@@ -88,14 +88,14 @@
 | 12082 | Gasura ZF Guard | 怒貌龍臂甲【ＺＦ】 |
 | 12083 | Gasura ZY Guard | 怒貌龍臂甲【ＺＹ】 |
 | 12084 | Gasura ZX Guard | 怒貌龍臂甲【ＺＸ】 |
-| 12085 | Seregios Arms | 斯艾爾艾護腕 |
-| 12086 | Seregios G Arms | 斯艾爾艾護腕【Ｇ】 |
-| 12087 | Seregios GF Arms | 斯艾爾艾護腕【ＧＦ】 |
-| 12088 | Seregios GX Arms | 斯艾爾艾護腕【ＧＸ】 |
-| 12089 | Seregios Guard | 斯艾爾艾臂甲 |
-| 12090 | Seregios G Guard | 斯艾爾艾臂甲【Ｇ】 |
-| 12091 | Seregios GF Guard | 斯艾爾艾臂甲【ＧＦ】 |
-| 12092 | Seregios GX Guard | 斯艾爾艾臂甲【ＧＸ】 |
+| 12085 | Seregios Arms | 賽蕾吉護腕 |
+| 12086 | Seregios G Arms | 賽蕾吉護腕【Ｇ】 |
+| 12087 | Seregios GF Arms | 賽蕾吉護腕【ＧＦ】 |
+| 12088 | Seregios GX Arms | 賽蕾吉護腕【ＧＸ】 |
+| 12089 | Seregios Guard | 賽蕾吉臂甲 |
+| 12090 | Seregios G Guard | 賽蕾吉臂甲【Ｇ】 |
+| 12091 | Seregios GF Guard | 賽蕾吉臂甲【ＧＦ】 |
+| 12092 | Seregios GX Guard | 賽蕾吉臂甲【ＧＸ】 |
 | 12093 | Utaei Sleeve Z | 烏特阿袖【Ｚ】 |
 | 12094 | Utaei Sleeve ZF | 烏特阿袖【ＺＦ】 |
 | 12095 | Utaei Sleeve ZY | 烏特阿袖【ＺＹ】 |
@@ -152,20 +152,20 @@
 | 12146 | Gray GS Guard | 灰臂甲【ＧＳ】 |
 | 12147 | Gray GP Guard | 灰臂甲【ＧＰ】 |
 | 12148 | Gray ZP Guard | 灰臂甲【ＺＰ】 |
-| 12149 | Urpina Arms | 烏爾皮納護腕 |
-| 12150 | Urpina F Arms | 烏爾皮納護腕【Ｆ】 |
-| 12151 | Urpina FZ Arms | 烏爾皮納護腕【ＦＺ】 |
-| 12152 | Urpina HS Arms | 烏爾皮納護腕【ＨＳ】 |
-| 12153 | Urpina GS Arms | 烏爾皮納護腕【ＧＳ】 |
-| 12154 | Urpina GP Arms | 烏爾皮納護腕【ＧＰ】 |
-| 12155 | Urpina ZP Arms | 烏爾皮納護腕【ＺＰ】 |
-| 12156 | Urpina Guard | 烏爾皮納臂甲 |
-| 12157 | Urpina F Guard | 烏爾皮納臂甲【Ｆ】 |
-| 12158 | Urpina FZ Guard | 烏爾皮納臂甲【ＦＺ】 |
-| 12159 | Urpina HS Guard | 烏爾皮納臂甲【ＨＳ】 |
-| 12160 | Urpina GS Guard | 烏爾皮納臂甲【ＧＳ】 |
-| 12161 | Urpina GP Guard | 烏爾皮納臂甲【ＧＰ】 |
-| 12162 | Urpina ZP Guard | 烏爾皮納臂甲【ＺＰ】 |
+| 12149 | Urpina Arms | 宇露皮娜護腕 |
+| 12150 | Urpina F Arms | 宇露皮娜護腕【Ｆ】 |
+| 12151 | Urpina FZ Arms | 宇露皮娜護腕【ＦＺ】 |
+| 12152 | Urpina HS Arms | 宇露皮娜護腕【ＨＳ】 |
+| 12153 | Urpina GS Arms | 宇露皮娜護腕【ＧＳ】 |
+| 12154 | Urpina GP Arms | 宇露皮娜護腕【ＧＰ】 |
+| 12155 | Urpina ZP Arms | 宇露皮娜護腕【ＺＰ】 |
+| 12156 | Urpina Guard | 宇露皮娜臂甲 |
+| 12157 | Urpina F Guard | 宇露皮娜臂甲【Ｆ】 |
+| 12158 | Urpina FZ Guard | 宇露皮娜臂甲【ＦＺ】 |
+| 12159 | Urpina HS Guard | 宇露皮娜臂甲【ＨＳ】 |
+| 12160 | Urpina GS Guard | 宇露皮娜臂甲【ＧＳ】 |
+| 12161 | Urpina GP Guard | 宇露皮娜臂甲【ＧＰ】 |
+| 12162 | Urpina ZP Guard | 宇露皮娜臂甲【ＺＰ】 |
 | 12163 | Noel Arms | 諾埃爾護腕 |
 | 12164 | Noel F Arms | 諾埃爾護腕【Ｆ】 |
 | 12165 | Noel FZ Arms | 諾埃爾護腕【ＦＺ】 |
@@ -208,17 +208,17 @@
 | 12202 | Wing D Arms | 翼護腕 |
 | 12203 | Gasura ZD Arms | 怒貌龍護腕 |
 | 12204 | Gasura ZD Guard | 怒貌龍臂甲 |
-| 12205 | Seregios C Arms | 斯艾爾艾護腕 |
-| 12206 | Seregios C Guard | 斯艾爾艾臂甲 |
+| 12205 | Seregios C Arms | 賽蕾吉護腕 |
+| 12206 | Seregios C Guard | 賽蕾吉臂甲 |
 | 12207 | Pinbi D Arms | 普伊恩伊護腕 |
 | 12208 | Pribu D Arms | 普伊布烏護腕 |
-| 12209 | Nerihi Kote D | 恩艾爾伊籠手 |
+| 12209 | Nerihi Kote D | 奈里希籠手 |
 | 12210 | Gray D Arms | 格阿伊護腕 |
-| 12211 | Urpina D Arms | 烏爾伊恩護腕 |
-| 12212 | Noel D Arms | 恩歐爾護腕 |
-| 12213 | Bune D Arms | 布烏恩艾護腕 |
-| 12214 | Melas D Guard | 姆艾爾阿臂甲 |
-| 12215 | Byakko・Kensei D Arms | 白虎布阿克歐護腕 |
+| 12211 | Urpina D Arms | 皮娜護腕 |
+| 12212 | Noel D Arms | 諾護腕 |
+| 12213 | Bune D Arms | 布奈護腕 |
+| 12214 | Melas D Guard | 梅拉臂甲 |
+| 12215 | Byakko・Kensei D Arms | 白虎雅古凱賽護腕 |
 | 12216 | Byakko・双龍D Arms | 白虎双龍護腕 |
 | 12217 | Byakko・剣王D Arms | 白虎剣王護腕 |
 | 12218 | Byakko・刀神D Arms | 白虎刀神護腕 |
@@ -258,12 +258,12 @@
 | 12252 | Remobra Hands PD White | 翼蛇龍手甲【ＰＤ】・白 |
 | 12253 | Remobra Hands PD Yellow | 翼蛇龍手甲【ＰＤ】・黄 |
 | 12254 | Remobra Hands PD Black | 翼蛇龍手甲【ＰＤ】・黑 |
-| 12255 | Harze D Arms | 赫阿爾艾護腕 |
-| 12256 | Revenants D Grip | 爾艾芙艾握套 |
-| 12257 | Kukubo D Guard | 克烏克烏臂甲 |
+| 12255 | Harze D Arms | 哈澤護腕 |
+| 12256 | Revenants D Grip | 蕾薇娜握套 |
+| 12257 | Kukubo D Guard | 克克波臂甲 |
 | 12258 | Kakabu D Guard | 克阿克阿臂甲 |
-| 12259 | Aruru D Guard | 阿爾烏爾臂甲 |
-| 12260 | Suzaku・Kensei D Arms | 朱雀斯烏茲阿護腕 |
+| 12259 | Aruru D Guard | 露露臂甲 |
+| 12260 | Suzaku・Kensei D Arms | 朱雀斯扎克凱護腕 |
 | 12261 | Suzaku・双龍D Arms | 朱雀双龍護腕 |
 | 12262 | Suzaku・剣王D Arms | 朱雀剣王護腕 |
 | 12263 | Suzaku・刀神D Arms | 朱雀刀神護腕 |
@@ -309,37 +309,37 @@
 | 12303 | Gravios Arms PD Black | 鎧龍護腕【ＰＤ】・黑 |
 | 12304 | Gravios Arms PD Blue | 鎧龍護腕【ＰＤ】・青 |
 | 12305 | Gravios Arms PD Red | 鎧龍護腕【ＰＤ】・赤 |
-| 12306 | Sharuru D Arms | 夏阿爾烏護腕 |
-| 12307 | Neriotori Kote D | 恩艾爾伊籠手 |
-| 12308 | Anorupatisu ZD Arms | 阿恩歐爾護腕 |
-| 12309 | Anorupatisu ZD Guard | 阿恩歐爾臂甲 |
+| 12306 | Sharuru D Arms | 修露露護腕 |
+| 12307 | Neriotori Kote D | 奈里托里籠手 |
+| 12308 | Anorupatisu ZD Arms | 諾露拍蒂護腕 |
+| 12309 | Anorupatisu ZD Guard | 諾露拍蒂臂甲 |
 | 12310 | Dylan D Arms | 德阿恩護腕 |
 | 12311 | Dibble D Arms | 德伊布艾護腕 |
 | 12312 | Fins D Arms | 芙伊恩護腕 |
 | 12313 | Dins D Arms | 德伊恩護腕 |
-| 12314 | Charis D Arms | 奇阿爾伊護腕 |
-| 12315 | Miriam D Arms | 姆伊爾伊護腕 |
-| 12316 | Lenigan D Arms | 爾艾恩伊護腕 |
+| 12314 | Charis D Arms | 夏里護腕 |
+| 12315 | Miriam D Arms | 蜜里護腕 |
+| 12316 | Lenigan D Arms | 勒尼加護腕 |
 | 12317 | 執事 Maid 色替え | 執事色替え護腕 |
 | 12318 | Katante D Arms | 克阿特阿護腕 |
 | 12319 | Rikante D Arms | 爾伊克阿護腕 |
-| 12320 | Merente D Arms | 姆艾爾艾護腕 |
+| 12320 | Merente D Arms | 梅蕾特護腕 |
 | 12321 | Utante D Arms | 烏特阿恩護腕 |
-| 12322 | Brooke Dグローブ | 布歐克艾手套 |
-| 12323 | Shirukku Dグローブ | 夏伊爾烏手套 |
-| 12324 | Gorukku Dグローブ | 格歐爾烏手套 |
+| 12322 | Brooke Dグローブ | 古蘿布手套 |
+| 12323 | Shirukku Dグローブ | 古蘿布手套 |
+| 12324 | Gorukku Dグローブ | 古蘿布手套 |
 | 12325 | Kiyoshi Kote D | 克伊伊歐籠手 |
 | 12326 | Kashoku Kote D | 克阿夏歐籠手 |
 | 12327 | Jyaga D Arms | 傑阿格阿護腕 |
-| 12328 | Cure D Arms | 克烏爾艾護腕 |
+| 12328 | Cure D Arms | 庫蕾護腕 |
 | 12329 | Jess D Arms | 傑艾斯護腕 |
-| 12330 | Riaruo D Arms | 爾伊爾烏護腕 |
-| 12331 | Reiresu D Arms | 爾艾爾艾護腕 |
-| 12332 | Reuasu D Arms | 爾艾斯烏護腕 |
-| 12333 | Buran D Arms | 布烏爾阿護腕 |
+| 12330 | Riaruo D Arms | 里露護腕 |
+| 12331 | Reiresu D Arms | 蕾蕾斯護腕 |
+| 12332 | Reuasu D Arms | 蕾斯護腕 |
+| 12333 | Buran D Arms | 布拉恩德護腕 |
 | 12334 | Shimashima D Arms | 夏伊姆阿護腕 |
 | 12335 | Desutora D Cannon | 德斯特拉加農護腕 |
-| 12336 | Furante D Arms | 芙烏爾阿護腕 |
+| 12336 | Furante D Arms | 芙拉特護腕 |
 | 12337 | Sharuru Arms | 夏露露護腕 |
 | 12338 | Sharuru F Arms | 夏露露護腕【Ｆ】 |
 | 12339 | Sharuru FZ Arms | 夏露露護腕【ＦＺ】 |
@@ -404,20 +404,20 @@
 | 12398 | Dylan GS Guard | 迪倫臂甲【ＧＳ】 |
 | 12399 | Dylan GP Guard | 迪倫臂甲【ＧＰ】 |
 | 12400 | Dylan ZP Guard | 迪倫臂甲【ＺＰ】 |
-| 12401 | Dibble Arms | 迪布爾護腕 |
-| 12402 | Dibble F Arms | 迪布爾護腕【Ｆ】 |
-| 12403 | Dibble FZ Arms | 迪布爾護腕【ＦＺ】 |
-| 12404 | Dibble HS Arms | 迪布爾護腕【ＨＳ】 |
-| 12405 | Dibble GS Arms | 迪布爾護腕【ＧＳ】 |
-| 12406 | Dibble GP Arms | 迪布爾護腕【ＧＰ】 |
-| 12407 | Dibble ZP Arms | 迪布爾護腕【ＺＰ】 |
-| 12408 | Dibble Guard | 迪布爾臂甲 |
-| 12409 | Dibble F Guard | 迪布爾臂甲【Ｆ】 |
-| 12410 | Dibble FZ Guard | 迪布爾臂甲【ＦＺ】 |
-| 12411 | Dibble HS Guard | 迪布爾臂甲【ＨＳ】 |
-| 12412 | Dibble GS Guard | 迪布爾臂甲【ＧＳ】 |
-| 12413 | Dibble GP Guard | 迪布爾臂甲【ＧＰ】 |
-| 12414 | Dibble ZP Guard | 迪布爾臂甲【ＺＰ】 |
+| 12401 | Dibble Arms | 迪布露護腕 |
+| 12402 | Dibble F Arms | 迪布露護腕【Ｆ】 |
+| 12403 | Dibble FZ Arms | 迪布露護腕【ＦＺ】 |
+| 12404 | Dibble HS Arms | 迪布露護腕【ＨＳ】 |
+| 12405 | Dibble GS Arms | 迪布露護腕【ＧＳ】 |
+| 12406 | Dibble GP Arms | 迪布露護腕【ＧＰ】 |
+| 12407 | Dibble ZP Arms | 迪布露護腕【ＺＰ】 |
+| 12408 | Dibble Guard | 迪布露臂甲 |
+| 12409 | Dibble F Guard | 迪布露臂甲【Ｆ】 |
+| 12410 | Dibble FZ Guard | 迪布露臂甲【ＦＺ】 |
+| 12411 | Dibble HS Guard | 迪布露臂甲【ＨＳ】 |
+| 12412 | Dibble GS Guard | 迪布露臂甲【ＧＳ】 |
+| 12413 | Dibble GP Guard | 迪布露臂甲【ＧＰ】 |
+| 12414 | Dibble ZP Guard | 迪布露臂甲【ＺＰ】 |
 | 12415 | Fins Arms | 鰭護腕 |
 | 12416 | Fins F Arms | 鰭護腕【Ｆ】 |
 | 12417 | Fins FZ Arms | 鰭護腕【ＦＺ】 |

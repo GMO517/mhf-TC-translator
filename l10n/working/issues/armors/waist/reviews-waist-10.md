@@ -491,17 +491,17 @@
 | 4985 | Garuda HS Belt | 迦樓羅腰帶【ＨＳ】 |
 | 4986 | Garuda GS Belt | 迦樓羅腰帶【ＧＳ】 |
 | 4987 | Garuda GP Belt | 迦樓羅腰帶【ＧＰ】 |
-| 4988 | Feral HS Waist | 芙艾爾阿腰甲【ＨＳ】 |
-| 4989 | Feral GS Waist | 芙艾爾阿腰甲【ＧＳ】 |
-| 4990 | Feral GP Waist | 芙艾爾阿腰甲【ＧＰ】 |
-| 4991 | Feral HS Belt | 芙艾爾阿腰帶【ＨＳ】 |
-| 4992 | Feral GS Belt | 芙艾爾阿腰帶【ＧＳ】 |
-| 4993 | Feral GP Belt | 芙艾爾阿腰帶【ＧＰ】 |
+| 4988 | Feral HS Waist | 菲拉腰甲【ＨＳ】 |
+| 4989 | Feral GS Waist | 菲拉腰甲【ＧＳ】 |
+| 4990 | Feral GP Waist | 菲拉腰甲【ＧＰ】 |
+| 4991 | Feral HS Belt | 菲拉腰帶【ＨＳ】 |
+| 4992 | Feral GS Belt | 菲拉腰帶【ＧＳ】 |
+| 4993 | Feral GP Belt | 菲拉腰帶【ＧＰ】 |
 | 4994 | Fias HS Waist | 芙伊斯腰甲【ＨＳ】 |
 | 4995 | Fias GS Waist | 芙伊斯腰甲【ＧＳ】 |
 | 4996 | Fias GP Waist | 芙伊斯腰甲【ＧＰ】 |
 | 4997 | Fias HS Belt | 芙伊斯腰帶【ＨＳ】 |
 | 4998 | Fias GS Belt | 芙伊斯腰帶【ＧＳ】 |
 | 4999 | Fias GP Belt | 芙伊斯腰帶【ＧＰ】 |
-| 5000 | Viruto HS Waist | 芙伊爾烏腰甲【ＨＳ】 |
+| 5000 | Viruto HS Waist | 薇露托腰甲【ＨＳ】 |
 

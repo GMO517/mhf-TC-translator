@@ -23,10 +23,10 @@
 | 3017 | 気弾FZ【具足】・Black | 気弾具足【ＦＺ】・黑 |
 | 3018 | 気弾HC【具足】・Black | 気弾具足【ＨＣ】・黑 |
 | 3019 | 気弾HS【具足】・Black | 気弾具足【ＨＳ】・黑 |
-| 3020 | Algol F Greaves | 阿爾歐爾護腿【Ｆ】 |
-| 3021 | Algol FX Greaves | 阿爾歐爾護腿【ＦＸ】 |
-| 3022 | Algol F Leggings | 阿爾歐爾裹腿【Ｆ】 |
-| 3023 | Algol FX Leggings | 阿爾歐爾裹腿【ＦＸ】 |
+| 3020 | Algol F Greaves | 戈護腿【Ｆ】 |
+| 3021 | Algol FX Greaves | 戈護腿【ＦＸ】 |
+| 3022 | Algol F Leggings | 戈裹腿【Ｆ】 |
+| 3023 | Algol FX Leggings | 戈裹腿【ＦＸ】 |
 | 3024 | 抜胴【具足】 | 抜胴具足 |
 | 3025 | 抜胴F【具足】 | 抜胴具足【Ｆ】 |
 | 3026 | 抜胴FZ【具足】 | 抜胴具足【ＦＺ】 |
@@ -199,8 +199,8 @@
 | 3193 | Axel HSタイツ・Purple | 輪軸護腿・紫 |
 | 3194 | 剣士ランク8 | 拉恩庫護腿 |
 | 3195 | 剣士ランク9 | 拉恩庫護腿 |
-| 3196 | ガンランク8 | 加恩拉恩庫護腿 |
-| 3197 | ガンランク9 | 加恩拉恩庫護腿 |
+| 3196 | ガンランク8 | 加恩拉恩護腿 |
+| 3197 | ガンランク9 | 加恩拉恩護腿 |
 | 3198 | ダミー | (dummy) |
 | 3199 | ダミー | (dummy) |
 | 3200 | ダミー | (dummy) |
@@ -336,8 +336,8 @@
 | 3330 | ダミー | (dummy) |
 | 3331 | ダミー | (dummy) |
 | 3332 | ダミー | (dummy) |
-| 3333 | Roses G Greaves | 爾歐斯艾護腿【Ｇ】 |
-| 3334 | Roses G Leggings | 爾歐斯艾裹腿【Ｇ】 |
+| 3333 | Roses G Greaves | 蘿賽護腿【Ｇ】 |
+| 3334 | Roses G Leggings | 蘿賽裹腿【Ｇ】 |
 | 3335 | シェルカGレッグ | 希魯可護腿 |
 | 3336 | チェスカG Boots | 奇斯可靴【Ｇ】 |
 | 3337 | ロアースGレッグ | 羅阿斯護腿 |
@@ -352,22 +352,22 @@
 | 3346 | Green 竜ノ Haori FZ【脛当】 | 脛当竜護腿【ＦＺ】・緑 |
 | 3347 | Green 竜ノ Haori HC【脛当】 | 脛当竜護腿【ＨＣ】・緑 |
 | 3348 | Green 竜ノ Haori HS【脛当】 | 脛当竜護腿【ＨＳ】・緑 |
-| 3349 | Ukon キック | 烏克歐恩護腿 |
-| 3350 | Ukon Fキック | 烏克歐恩護腿 |
-| 3351 | Ukon FZキック | 烏克歐恩護腿 |
-| 3352 | Ukon HCキック | 烏克歐恩護腿 |
-| 3353 | Ukon Boots | 烏克歐恩靴 |
-| 3354 | Ukon F Boots | 烏克歐恩靴【Ｆ】 |
-| 3355 | Ukon FZ Boots | 烏克歐恩靴【ＦＺ】 |
-| 3356 | Ukon HC Boots | 烏克歐恩靴【ＨＣ】 |
-| 3357 | Ukon HSキック | 烏克歐恩護腿 |
-| 3358 | Ukon GSキック | 烏克歐恩護腿 |
-| 3359 | Ukon HS Boots | 烏克歐恩靴【ＨＳ】 |
-| 3360 | Ukon GS Boots | 烏克歐恩靴【ＧＳ】 |
+| 3349 | Ukon キック | 古護腿 |
+| 3350 | Ukon Fキック | 古護腿 |
+| 3351 | Ukon FZキック | 古護腿 |
+| 3352 | Ukon HCキック | 古護腿 |
+| 3353 | Ukon Boots | 古靴 |
+| 3354 | Ukon F Boots | 古靴【Ｆ】 |
+| 3355 | Ukon FZ Boots | 古靴【ＦＺ】 |
+| 3356 | Ukon HC Boots | 古靴【ＨＣ】 |
+| 3357 | Ukon HSキック | 古護腿 |
+| 3358 | Ukon GSキック | 古護腿 |
+| 3359 | Ukon HS Boots | 古靴【ＨＳ】 |
+| 3360 | Ukon GS Boots | 古靴【ＧＳ】 |
 | 3361 | Green 竜ノ具足GS【脛当】 | 脛当竜具足護腿・緑 |
 | 3362 | Green 竜ノ Haori GS【脛当】 | 脛当竜護腿【ＧＳ】・緑 |
-| 3363 | Roses GF Greaves | 爾歐斯艾護腿【ＧＦ】 |
-| 3364 | Roses GF Leggings | 爾歐斯艾裹腿【ＧＦ】 |
+| 3363 | Roses GF Greaves | 蘿賽護腿【ＧＦ】 |
+| 3364 | Roses GF Leggings | 蘿賽裹腿【ＧＦ】 |
 | 3365 | ダミー | (dummy) |
 | 3366 | ダミー | (dummy) |
 | 3367 | Magos Feet・Yellow | 瑪戈斯足・黄 |

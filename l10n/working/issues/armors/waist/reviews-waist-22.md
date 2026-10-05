@@ -111,9 +111,9 @@
 | 10605 | Asumo GS Coat | 阿斯莫腰衣【ＧＳ】 |
 | 10606 | Asumo GP Coat | 阿斯莫腰衣【ＧＰ】 |
 | 10607 | Asumo ZP Coat | 阿斯莫腰衣【ＺＰ】 |
-| 10608 | Carrol C Belt | 克阿爾歐腰帶 |
+| 10608 | Carrol C Belt | 可爾腰帶 |
 | 10609 | Zyra C Coil | 茲阿斯腰甲 |
-| 10610 | Loose C Waist | 爾歐斯艾腰甲 |
+| 10610 | Loose C Waist | 蘿賽腰甲 |
 | 10611 | Asteli ZP Coil・White | 阿斯特利腰甲【ＺＰ】・白 |
 | 10612 | Asteli ZP Coat・White | 阿斯特利腰衣【ＺＰ】・白 |
 | 10613 | Asteli ZP Coil・Blue | 阿斯特利腰甲【ＺＰ】・青 |
@@ -153,11 +153,11 @@
 | 10647 | Blize GF Coat | 布來茲腰衣【ＧＦ】 |
 | 10648 | Blize GX Coat | 布來茲腰衣【ＧＸ】 |
 | 10649 | Higakure C Faulds | 赫伊格阿腰甲 |
-| 10650 | Harokyu D Coil | 赫阿爾歐腰甲 |
-| 10651 | Evol D Coil・White | 艾芙歐爾腰甲・白 |
-| 10652 | Evol D Coil・Red | 艾芙歐爾腰甲・赤 |
-| 10653 | Evol D Coil・Blue | 艾芙歐爾腰甲・青 |
-| 10654 | Evol D Coil・Purple | 艾芙歐爾腰甲・紫 |
+| 10650 | Harokyu D Coil | 哈蘿尤腰甲 |
+| 10651 | Evol D Coil・White | 沃腰甲・白 |
+| 10652 | Evol D Coil・Red | 沃腰甲・赤 |
+| 10653 | Evol D Coil・Blue | 沃腰甲・青 |
+| 10654 | Evol D Coil・Purple | 沃腰甲・紫 |
 | 10655 | 狩衛部隊 Coil・男 | 狩衛部隊男腰甲 |
 | 10656 | 狩衛部隊 Coil・女 | 狩衛部隊女腰甲 |
 | 10657 | Blue Ice Emperor ZP Coil | 青冰帝腰甲【ＺＰ】 |
@@ -222,14 +222,14 @@
 | 10716 | Wander GS Coat・Black | 流浪腰衣【ＧＳ】・黑 |
 | 10717 | Wander GP Coat・Black | 流浪腰衣【ＧＰ】・黑 |
 | 10718 | Wander ZP Coat・Black | 流浪腰衣【ＺＰ】・黑 |
-| 10719 | Gore Faulds | 格歐爾艾腰甲 |
-| 10720 | Gore G Faulds | 格歐爾艾腰甲【Ｇ】 |
-| 10721 | Gore GF Faulds | 格歐爾艾腰甲【ＧＦ】 |
-| 10722 | Gore GX Faulds | 格歐爾艾腰甲【ＧＸ】 |
-| 10723 | Gore Coat | 格歐爾艾腰衣 |
-| 10724 | Gore G Coat | 格歐爾艾腰衣【Ｇ】 |
-| 10725 | Gore GF Coat | 格歐爾艾腰衣【ＧＦ】 |
-| 10726 | Gore GX Coat | 格歐爾艾腰衣【ＧＸ】 |
+| 10719 | Gore Faulds | 戈蕾腰甲 |
+| 10720 | Gore G Faulds | 戈蕾腰甲【Ｇ】 |
+| 10721 | Gore GF Faulds | 戈蕾腰甲【ＧＦ】 |
+| 10722 | Gore GX Faulds | 戈蕾腰甲【ＧＸ】 |
+| 10723 | Gore Coat | 戈蕾腰衣 |
+| 10724 | Gore G Coat | 戈蕾腰衣【Ｇ】 |
+| 10725 | Gore GF Coat | 戈蕾腰衣【ＧＦ】 |
+| 10726 | Gore GX Coat | 戈蕾腰衣【ＧＸ】 |
 | 10727 | Zena G Faulds | 茲艾恩阿腰甲【Ｇ】 |
 | 10728 | Zena GF Faulds | 茲艾恩阿腰甲【ＧＦ】 |
 | 10729 | Zena GX Faulds | 茲艾恩阿腰甲【ＧＸ】 |
@@ -352,20 +352,20 @@
 | 10846 | Youthclad ノ虎布G | 伊歐斯阿腰甲【Ｇ】 |
 | 10847 | Youthclad ノ虎布GF | 伊歐斯阿腰甲【Ｆ】 |
 | 10848 | Youthclad ノ虎布GX | 伊歐斯阿腰甲【ＧＸ】 |
-| 10849 | Rave Coil | 爾阿芙艾腰甲 |
-| 10850 | Rave F Coil | 爾阿芙艾腰甲【Ｆ】 |
-| 10851 | Rave FY Coil | 爾阿芙艾腰甲 |
-| 10852 | Rave HS Coil | 爾阿芙艾腰甲【ＨＳ】 |
-| 10853 | Rave G Coil | 爾阿芙艾腰甲【Ｇ】 |
-| 10854 | Rave GF Coil | 爾阿芙艾腰甲【ＧＦ】 |
-| 10855 | Rave GX Coil | 爾阿芙艾腰甲【ＧＸ】 |
-| 10856 | Rave Coat | 爾阿芙艾腰衣 |
-| 10857 | Rave F Coat | 爾阿芙艾腰衣【Ｆ】 |
-| 10858 | Rave FY Coat | 爾阿芙艾腰衣 |
-| 10859 | Rave HS Coat | 爾阿芙艾腰衣【ＨＳ】 |
-| 10860 | Rave G Coat | 爾阿芙艾腰衣【Ｇ】 |
-| 10861 | Rave GF Coat | 爾阿芙艾腰衣【ＧＦ】 |
-| 10862 | Rave GX Coat | 爾阿芙艾腰衣【ＧＸ】 |
+| 10849 | Rave Coil | 拉薇腰甲 |
+| 10850 | Rave F Coil | 拉薇腰甲【Ｆ】 |
+| 10851 | Rave FY Coil | 拉薇腰甲 |
+| 10852 | Rave HS Coil | 拉薇腰甲【ＨＳ】 |
+| 10853 | Rave G Coil | 拉薇腰甲【Ｇ】 |
+| 10854 | Rave GF Coil | 拉薇腰甲【ＧＦ】 |
+| 10855 | Rave GX Coil | 拉薇腰甲【ＧＸ】 |
+| 10856 | Rave Coat | 拉薇腰衣 |
+| 10857 | Rave F Coat | 拉薇腰衣【Ｆ】 |
+| 10858 | Rave FY Coat | 拉薇腰衣 |
+| 10859 | Rave HS Coat | 拉薇腰衣【ＨＳ】 |
+| 10860 | Rave G Coat | 拉薇腰衣【Ｇ】 |
+| 10861 | Rave GF Coat | 拉薇腰衣【ＧＦ】 |
+| 10862 | Rave GX Coat | 拉薇腰衣【ＧＸ】 |
 | 10863 | Wander D Coil・Blue | 沃阿恩艾腰甲・青 |
 | 10864 | Wander D Coil・Red | 沃阿恩艾腰甲・赤 |
 | 10865 | Wander D Coil・White | 沃阿恩艾腰甲・白 |
@@ -373,7 +373,7 @@
 | 10867 | Blue Ice Emperor D Coil | 青冰帝腰甲 |
 | 10868 | White Ice Emperor D Coil | 白冰帝腰甲 |
 | 10869 | Red Ice Emperor D Coil | 赤冰帝腰甲 |
-| 10870 | Rance C Faulds | 爾阿恩艾腰甲 |
+| 10870 | Rance C Faulds | 拉賽腰甲 |
 | 10871 | Santa D Faulds | 斯阿恩阿腰甲 |
 | 10872 | Anteka D Faulds | 雪鹿腰甲 |
 | 10873 | Chiarim ZP Coil | 奇亞琳腰甲【ＺＰ】 |
@@ -387,12 +387,12 @@
 | 10881 | Katante ZY Coat | 克阿特阿腰衣【ＺＹ】 |
 | 10882 | Katante ZX Coat | 克阿特阿腰衣【ＺＸ】 |
 | 10883 | Sakufi D Coil | 斯阿克烏腰甲 |
-| 10884 | Asumo D Coil | 阿斯烏姆腰甲 |
+| 10884 | Asumo D Coil | 斯莫腰甲 |
 | 10885 | Dios D Coil | 德伊斯腰甲 |
-| 10886 | Asteli D Coil・White | 阿斯艾爾腰甲・白 |
-| 10887 | Asteli D Coil・Blue | 阿斯艾爾腰甲・青 |
-| 10888 | Asteli D Coil・Red | 阿斯艾爾腰甲・赤 |
-| 10889 | Asteli D Coil・Black | 阿斯艾爾腰甲・黑 |
+| 10886 | Asteli D Coil・White | 斯特莉腰甲・白 |
+| 10887 | Asteli D Coil・Blue | 斯特莉腰甲・青 |
+| 10888 | Asteli D Coil・Red | 斯特莉腰甲・赤 |
+| 10889 | Asteli D Coil・Black | 斯特莉腰甲・黑 |
 | 10890 | Lien D Coil・Blue | 爾伊恩腰甲・青 |
 | 10891 | Lien D Coil・Red | 爾伊恩腰甲・赤 |
 | 10892 | Lien D Coil・Black | 爾伊恩腰甲・黑 |
@@ -400,66 +400,66 @@
 | 10894 | Lien D Coil・Crimson | 爾伊恩腰甲・紅 |
 | 10895 | Lien D Coil・藍 | 藍腰甲 |
 | 10896 | Lien D Coil・Peach | 爾伊恩腰甲・桃 |
-| 10897 | Carrol D Belt・Black | 克阿爾歐腰帶・黑 |
-| 10898 | Carrol D Belt・Blue | 克阿爾歐腰帶・青 |
-| 10899 | Carrol D Belt・White | 克阿爾歐腰帶・白 |
-| 10900 | Carrol D Belt・Red | 克阿爾歐腰帶・赤 |
-| 10901 | Carrol D Belt・Peach | 克阿爾歐腰帶・桃 |
+| 10897 | Carrol D Belt・Black | 可爾腰帶・黑 |
+| 10898 | Carrol D Belt・Blue | 可爾腰帶・青 |
+| 10899 | Carrol D Belt・White | 可爾腰帶・白 |
+| 10900 | Carrol D Belt・Red | 可爾腰帶・赤 |
+| 10901 | Carrol D Belt・Peach | 可爾腰帶・桃 |
 | 10902 | Gothic D Faulds | 格歐斯伊腰甲 |
 | 10903 | Kirin Dフープ | 麒麟腰甲 |
-| 10904 | Farunokku D Faulds | 芙阿爾烏腰甲 |
-| 10905 | Farunokku D Coat | 芙阿爾烏腰衣 |
+| 10904 | Farunokku D Faulds | 法露諾克腰甲 |
+| 10905 | Farunokku D Coat | 法露諾克腰衣 |
 | 10906 | Pokara D Faulds | 普歐克阿腰甲 |
 | 10907 | Pokara D Coat | 普歐克阿腰衣 |
-| 10908 | Genesis D【腰当て】 | 格艾恩艾腰當 |
-| 10909 | Motion D【腰当て】 | 姆歐特伊腰當 |
+| 10908 | Genesis D【腰当て】 | 蓋奈西腰當 |
+| 10909 | Motion D【腰当て】 | 莫恩腰當 |
 | 10910 | Lightning D【腰当て】 | 雷光腰當 |
 | 10911 | Thunder D【腰当て】 | 雷腰當 |
-| 10912 | Toridcless D Faulds | 特歐爾伊腰甲 |
-| 10913 | Toridcless D Coat | 特歐爾伊腰衣 |
+| 10912 | Toridcless D Faulds | 托里克雷腰甲 |
+| 10913 | Toridcless D Coat | 托里克雷腰衣 |
 | 10914 | Guan D Coil | 格烏恩腰甲 |
 | 10915 | Guan D Coat | 格烏恩腰衣 |
-| 10916 | Varusa D Faulds | 芙阿爾烏腰甲 |
-| 10917 | Varusa D Coat | 芙阿爾烏腰衣 |
+| 10916 | Varusa D Faulds | 瓦露薩腰甲 |
+| 10917 | Varusa D Coat | 瓦露薩腰衣 |
 | 10918 | Toa D Faulds | 特歐斯腰甲 |
 | 10919 | Toa D Coat | 特歐斯腰衣 |
 | 10920 | Blitz Dフープ | 布伊特腰甲 |
-| 10921 | Stroma D Faulds | 斯歐姆阿腰甲 |
-| 10922 | Stroma D Coat | 斯歐姆阿腰衣 |
+| 10921 | Stroma D Faulds | 斯特瑪腰甲 |
+| 10922 | Stroma D Coat | 斯特瑪腰衣 |
 | 10923 | Inagami D【腰 Obi 】 | 雅翁龍腰甲 |
 | 10924 | Inagami D【腰 Obi 】 | 雅翁龍腰甲 |
-| 10925 | Altera D Faulds | 阿爾艾爾腰甲 |
-| 10926 | Altera D Coat | 阿爾艾爾腰衣 |
-| 10927 | Pobo D Faulds | 普歐布歐腰甲 |
-| 10928 | Pobo D Coat | 普歐布歐腰衣 |
+| 10925 | Altera D Faulds | 特拉腰甲 |
+| 10926 | Altera D Coat | 特拉腰衣 |
+| 10927 | Pobo D Faulds | 珀波腰甲 |
+| 10928 | Pobo D Coat | 珀波腰衣 |
 | 10929 | Zinogre C Faulds | 茲伊恩歐腰甲 |
 | 10930 | Zinogre C Coat | 茲伊恩歐腰衣 |
-| 10931 | Hornetaur UD Faulds | 赫歐爾艾腰甲 |
-| 10932 | Hornetaur UD Coat | 赫歐爾艾腰衣 |
+| 10931 | Hornetaur UD Faulds | 霍恩塔露腰甲 |
+| 10932 | Hornetaur UD Coat | 霍恩塔露腰衣 |
 | 10933 | Rathalos D Faulds | 爾阿斯阿腰甲 |
 | 10934 | Rathalos D Coat | 爾阿斯阿腰衣 |
 | 10935 | Gogomoa D Faulds | 跳緋獸腰甲 |
 | 10936 | Gogomoa D Coat | 跳緋獸腰衣 |
-| 10937 | Azul D Faulds | 阿茲烏爾腰甲 |
-| 10938 | Azul D Coat | 阿茲烏爾腰衣 |
-| 10939 | Harvest D Coil | 赫阿爾艾腰甲 |
-| 10940 | Harvest D Coat | 赫阿爾艾腰衣 |
-| 10941 | Melan D Faulds | 姆艾爾阿腰甲 |
-| 10942 | Melan D Coat | 姆艾爾阿腰衣 |
-| 10943 | Diru D Faulds | 德伊爾烏腰甲 |
-| 10944 | Diru D Coat | 德伊爾烏腰衣 |
+| 10937 | Azul D Faulds | 茲腰甲 |
+| 10938 | Azul D Coat | 茲腰衣 |
+| 10939 | Harvest D Coil | 哈薇腰甲 |
+| 10940 | Harvest D Coat | 哈薇腰衣 |
+| 10941 | Melan D Faulds | 梅拉恩德腰甲 |
+| 10942 | Melan D Coat | 梅拉恩德腰衣 |
+| 10943 | Diru D Faulds | 迪露腰甲 |
+| 10944 | Diru D Coat | 迪露腰衣 |
 | 10945 | Tandress D Coil | 特阿恩艾腰甲 |
 | 10946 | Tandress D Coat | 特阿恩艾腰衣 |
-| 10947 | Rance D Faulds | 爾阿恩艾腰甲 |
-| 10948 | Rance D Coat | 爾阿恩艾腰衣 |
+| 10947 | Rance D Faulds | 拉賽腰甲 |
+| 10948 | Rance D Coat | 拉賽腰衣 |
 | 10949 | Ganeto D Faulds | 格阿恩艾腰甲 |
 | 10950 | Ganeto D Coat | 格阿恩艾腰衣 |
-| 10951 | Chiru D Faulds | 奇伊爾烏腰甲 |
-| 10952 | Chiru D Coat | 奇伊爾烏腰衣 |
+| 10951 | Chiru D Faulds | 奇露腰甲 |
+| 10952 | Chiru D Coat | 奇露腰衣 |
 | 10953 | Shiusu D Faulds | 夏伊斯烏腰甲 |
 | 10954 | Shiusu D Coat | 夏伊斯烏腰衣 |
 | 10955 | Once D Coat・無 | 無腰衣 |
-| 10956 | Pale Sakura D【 Obi 】 | 普阿爾艾帶 |
+| 10956 | Pale Sakura D【 Obi 】 | 拍勒薩克帶 |
 | 10957 | Pelegri Coil | 佩勒格里腰甲 |
 | 10958 | Pelegri F Coil | 佩勒格里腰甲【Ｆ】 |
 | 10959 | Pelegri FZ Coil | 佩勒格里腰甲【ＦＺ】 |
@@ -494,7 +494,7 @@
 | 10988 | Wasou Colour Belt ZP | 和裝腰帶【ＺＰ】 |
 | 10989 | Howla D Coil | 赫歐沃阿腰甲 |
 | 10990 | Panse D Coil | 普阿恩艾腰甲 |
-| 10991 | Marriage D Coil | 姆阿爾伊腰甲 |
+| 10991 | Marriage D Coil | 瑪爾蓋腰甲 |
 | 10992 | Yukine D Coil | 雪音腰甲 |
 | 10993 | Snow Miku D Coil | 雪初音腰甲 |
 | 10994 | Miku D Coil | 初音未來腰甲 |
@@ -503,5 +503,5 @@
 | 10997 | Felyne D Coil | 艾路猫腰甲 |
 | 10998 | Tabby D Coil | 特阿布腰甲 |
 | 10999 | Brown D Coil | 布歐沃腰甲 |
-| 11000 | Calico D Coil | 克阿爾伊腰甲 |
+| 11000 | Calico D Coil | 可莉古腰甲 |
 

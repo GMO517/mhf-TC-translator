@@ -4,11 +4,11 @@
 
 | index | 原文 | 譯文 |
 |---|---|---|
-| 5001 | Viruto GS Waist | 芙伊爾烏腰甲【ＧＳ】 |
-| 5002 | Viruto GP Waist | 芙伊爾烏腰甲【ＧＰ】 |
-| 5003 | Viruto HS Belt | 芙伊爾烏腰帶【ＨＳ】 |
-| 5004 | Viruto GS Belt | 芙伊爾烏腰帶【ＧＳ】 |
-| 5005 | Viruto GP Belt | 芙伊爾烏腰帶【ＧＰ】 |
+| 5001 | Viruto GS Waist | 薇露托腰甲【ＧＳ】 |
+| 5002 | Viruto GP Waist | 薇露托腰甲【ＧＰ】 |
+| 5003 | Viruto HS Belt | 薇露托腰帶【ＨＳ】 |
+| 5004 | Viruto GS Belt | 薇露托腰帶【ＧＳ】 |
+| 5005 | Viruto GP Belt | 薇露托腰帶【ＧＰ】 |
 | 5006 | Falco HS Faulds | 隼腰甲【ＨＳ】 |
 | 5007 | Falco GS Faulds | 隼腰甲【ＧＳ】 |
 | 5008 | Falco GP Faulds | 隼腰甲【ＧＰ】 |
@@ -47,11 +47,11 @@
 | 5041 | Tinku GP Coat | 汀克腰衣【ＧＰ】 |
 | 5042 | Luxt Faulds | 盧克斯特腰甲 |
 | 5043 | Luxt F Faulds | 盧克斯特腰甲【Ｆ】 |
-| 5044 | Luxt FY Faulds | 爾烏克斯腰甲 |
+| 5044 | Luxt FY Faulds | 露克斯腰甲 |
 | 5045 | Luxt HS Faulds | 盧克斯特腰甲【ＨＳ】 |
 | 5046 | Luxt Coat | 盧克斯特腰衣 |
 | 5047 | Luxt F Coat | 盧克斯特腰衣【Ｆ】 |
-| 5048 | Luxt FY Coat | 爾烏克斯腰衣 |
+| 5048 | Luxt FY Coat | 露克斯腰衣 |
 | 5049 | Luxt HS Coat | 盧克斯特腰衣【ＨＳ】 |
 | 5050 | Luxt G Faulds | 盧克斯特腰甲【Ｇ】 |
 | 5051 | Luxt GF Faulds | 盧克斯特腰甲【ＧＦ】 |
@@ -61,11 +61,11 @@
 | 5055 | Luxt GX Coat | 盧克斯特腰衣【ＧＸ】 |
 | 5056 | Oleum Faulds | 油腰甲 |
 | 5057 | Oleum F Faulds | 油腰甲【Ｆ】 |
-| 5058 | Oleum FY Faulds | 歐爾艾姆腰甲 |
+| 5058 | Oleum FY Faulds | 勒腰甲 |
 | 5059 | Oleum HS Faulds | 油腰甲【ＨＳ】 |
 | 5060 | Oleum Coat | 油腰衣 |
 | 5061 | Oleum F Coat | 油腰衣【Ｆ】 |
-| 5062 | Oleum FY Coat | 歐爾艾姆腰衣 |
+| 5062 | Oleum FY Coat | 勒腰衣 |
 | 5063 | Oleum HS Coat | 油腰衣【ＨＳ】 |
 | 5064 | Oleum G Faulds | 油腰甲【Ｇ】 |
 | 5065 | Oleum GF Faulds | 油腰甲【ＧＦ】 |
@@ -75,11 +75,11 @@
 | 5069 | Oleum GX Coat | 油腰衣【ＧＸ】 |
 | 5070 | Kuranto Faulds | 庫蘭托腰甲 |
 | 5071 | Kuranto F Faulds | 庫蘭托腰甲【Ｆ】 |
-| 5072 | Kuranto FY Faulds | 克烏爾阿腰甲 |
+| 5072 | Kuranto FY Faulds | 克拉托腰甲 |
 | 5073 | Kuranto HS Faulds | 庫蘭托腰甲【ＨＳ】 |
 | 5074 | Kuranto Coat | 庫蘭托腰衣 |
 | 5075 | Kuranto F Coat | 庫蘭托腰衣【Ｆ】 |
-| 5076 | Kuranto FY Coat | 克烏爾阿腰衣 |
+| 5076 | Kuranto FY Coat | 克拉托腰衣 |
 | 5077 | Kuranto HS Coat | 庫蘭托腰衣【ＨＳ】 |
 | 5078 | Kuranto G Faulds | 庫蘭托腰甲【Ｇ】 |
 | 5079 | Kuranto GF Faulds | 庫蘭托腰甲【ＧＦ】 |
@@ -89,11 +89,11 @@
 | 5083 | Kuranto GX Coat | 庫蘭托腰衣【ＧＸ】 |
 | 5084 | Yupuk Faulds | 尤普克腰甲 |
 | 5085 | Yupuk F Faulds | 尤普克腰甲【Ｆ】 |
-| 5086 | Yupuk FY Faulds | 伊烏普烏腰甲 |
+| 5086 | Yupuk FY Faulds | 尤普腰甲 |
 | 5087 | Yupuk HS Faulds | 尤普克腰甲【ＨＳ】 |
 | 5088 | Yupuk Coat | 尤普克腰衣 |
 | 5089 | Yupuk F Coat | 尤普克腰衣【Ｆ】 |
-| 5090 | Yupuk FY Coat | 伊烏普烏腰衣 |
+| 5090 | Yupuk FY Coat | 尤普腰衣 |
 | 5091 | Yupuk HS Coat | 尤普克腰衣【ＨＳ】 |
 | 5092 | Yupuk G Faulds | 尤普克腰甲【Ｇ】 |
 | 5093 | Yupuk GF Faulds | 尤普克腰甲【ＧＦ】 |
@@ -107,12 +107,12 @@
 | 5101 | Higakure G Coat | 赫伊格阿腰衣【Ｇ】 |
 | 5102 | Higakure GF Coat | 赫伊格阿腰衣【ＧＦ】 |
 | 5103 | Higakure GX Coat | 赫伊格阿腰衣【ＧＸ】 |
-| 5104 | Konseru G Faulds | 克歐恩艾腰甲【Ｇ】 |
-| 5105 | Konseru GF Faulds | 克歐恩艾腰甲【ＧＦ】 |
-| 5106 | Konseru GX Faulds | 克歐恩艾腰甲【ＧＸ】 |
-| 5107 | Konseru G Coat | 克歐恩艾腰衣【Ｇ】 |
-| 5108 | Konseru GF Coat | 克歐恩艾腰衣【ＧＦ】 |
-| 5109 | Konseru GX Coat | 克歐恩艾腰衣【ＧＸ】 |
+| 5104 | Konseru G Faulds | 古賽露腰甲【Ｇ】 |
+| 5105 | Konseru GF Faulds | 古賽露腰甲【ＧＦ】 |
+| 5106 | Konseru GX Faulds | 古賽露腰甲【ＧＸ】 |
+| 5107 | Konseru G Coat | 古賽露腰衣【Ｇ】 |
+| 5108 | Konseru GF Coat | 古賽露腰衣【ＧＦ】 |
+| 5109 | Konseru GX Coat | 古賽露腰衣【ＧＸ】 |
 | 5110 | Diru G Faulds | 迪魯腰甲【Ｇ】 |
 | 5111 | Diru GF Faulds | 迪魯腰甲【ＧＦ】 |
 | 5112 | Diru GX Faulds | 迪魯腰甲【ＧＸ】 |
@@ -183,16 +183,16 @@
 | 5177 | ノヴィーHC Coat | 諾芙腰衣【ＨＣ】 |
 | 5178 | ノヴィーHS Coat | 諾芙腰衣【ＨＳ】 |
 | 5179 | ノヴィーGS Coat | 諾芙腰衣【ＧＳ】 |
-| 5180 | Flora Coil | 芙歐爾阿腰甲 |
+| 5180 | Flora Coil | 芙拉腰甲 |
 | 5181 | Frau Belt | 芙阿腰帶 |
-| 5182 | Lea Waist | 爾艾腰甲 |
+| 5182 | Lea Waist | 勒腰甲 |
 | 5183 | Keith Faulds | 克艾斯腰甲 |
-| 5184 | Guinelle Coil | 格烏恩艾腰甲 |
+| 5184 | Guinelle Coil | 古奈爾腰甲 |
 | 5185 | Circa Coil | 克伊爾阿腰甲 |
-| 5186 | Edward Faulds | 艾德阿爾腰甲 |
+| 5186 | Edward Faulds | 瓦腰甲 |
 | 5187 | Taizo Faulds | 特阿茲歐腰甲 |
 | 5188 | Tiala Coat | 特伊爾阿腰衣 |
-| 5189 | Uwel Belt | 烏沃艾爾腰帶 |
+| 5189 | Uwel Belt | 尤韋腰帶 |
 | 5190 | Natasha Coat | 恩阿特阿腰衣 |
 | 5191 | ダミー | (dummy) |
 | 5192 | アミロ Coil・Blue | 阿米羅腰甲・青 |
@@ -261,12 +261,12 @@
 | 5255 | Azul G Coat | 青腰衣【Ｇ】 |
 | 5256 | Azul GF Coat | 青腰衣【ＧＦ】 |
 | 5257 | Azul GX Coat | 青腰衣【ＧＸ】 |
-| 5258 | Entora G Coil | 艾恩歐爾腰甲【Ｇ】 |
-| 5259 | Entora GF Coil | 艾恩歐爾腰甲【ＧＦ】 |
-| 5260 | Entora GX Coil | 艾恩歐爾腰甲【ＧＸ】 |
-| 5261 | Entora G Coat | 艾恩歐爾腰衣【Ｇ】 |
-| 5262 | Entora GF Coat | 艾恩歐爾腰衣【ＧＦ】 |
-| 5263 | Entora GX Coat | 艾恩歐爾腰衣【ＧＸ】 |
+| 5258 | Entora G Coil | 托拉腰甲【Ｇ】 |
+| 5259 | Entora GF Coil | 托拉腰甲【ＧＦ】 |
+| 5260 | Entora GX Coil | 托拉腰甲【ＧＸ】 |
+| 5261 | Entora G Coat | 托拉腰衣【Ｇ】 |
+| 5262 | Entora GF Coat | 托拉腰衣【ＧＦ】 |
+| 5263 | Entora GX Coat | 托拉腰衣【ＧＸ】 |
 | 5264 | Holy King Waist | 聖王腰甲 |
 | 5265 | Holy King F Waist | 聖王腰甲【Ｆ】 |
 | 5266 | Holy King FZ Waist | 聖王腰甲【ＦＺ】 |
@@ -327,18 +327,18 @@
 | 5321 | Knight HS Coat | 騎士腰衣【ＨＳ】 |
 | 5322 | Knight GS Coat | 騎士腰衣【ＧＳ】 |
 | 5323 | Knight GP Coat | 騎士腰衣【ＧＰ】 |
-| 5324 | Shell Wing | 夏艾爾腰翼 |
-| 5325 | Shell F Wing | 夏艾爾腰翼【Ｆ】 |
-| 5326 | Shell FZ Wing | 夏艾爾腰翼【ＦＺ】 |
-| 5327 | Shell HS Wing | 夏艾爾腰翼【ＨＳ】 |
-| 5328 | Shell GS Wing | 夏艾爾腰翼【ＧＳ】 |
-| 5329 | Shell GP Wing | 夏艾爾腰翼【ＧＰ】 |
-| 5330 | Vector Wing | 芙艾克歐腰翼 |
-| 5331 | Vector F Wing | 芙艾克歐腰翼【Ｆ】 |
-| 5332 | Vector FZ Wing | 芙艾克歐腰翼【ＦＺ】 |
-| 5333 | Vector HS Wing | 芙艾克歐腰翼【ＨＳ】 |
-| 5334 | Vector GS Wing | 芙艾克歐腰翼【ＧＳ】 |
-| 5335 | Vector GP Wing | 芙艾克歐腰翼【ＧＰ】 |
+| 5324 | Shell Wing | 修爾腰翼 |
+| 5325 | Shell F Wing | 修爾腰翼【Ｆ】 |
+| 5326 | Shell FZ Wing | 修爾腰翼【ＦＺ】 |
+| 5327 | Shell HS Wing | 修爾腰翼【ＨＳ】 |
+| 5328 | Shell GS Wing | 修爾腰翼【ＧＳ】 |
+| 5329 | Shell GP Wing | 修爾腰翼【ＧＰ】 |
+| 5330 | Vector Wing | 薇托腰翼 |
+| 5331 | Vector F Wing | 薇托腰翼【Ｆ】 |
+| 5332 | Vector FZ Wing | 薇托腰翼【ＦＺ】 |
+| 5333 | Vector HS Wing | 薇托腰翼【ＨＳ】 |
+| 5334 | Vector GS Wing | 薇托腰翼【ＧＳ】 |
+| 5335 | Vector GP Wing | 薇托腰翼【ＧＰ】 |
 | 5336 | サーブル Coil | 薩布魯腰甲 |
 | 5337 | サーブルF Coil | 薩布魯腰甲【Ｆ】 |
 | 5338 | サーブルFZ Coil | 薩布魯腰甲【ＦＺ】 |
@@ -402,9 +402,9 @@
 | 5396 | Kruss HS Waist | 克烏斯腰甲【ＨＳ】 |
 | 5397 | Kruss GS Waist | 克烏斯腰甲【ＧＳ】 |
 | 5398 | Kruss GP Waist | 克烏斯腰甲【ＧＰ】 |
-| 5399 | Quote HS Belt | 斯烏特艾腰帶【ＨＳ】 |
-| 5400 | Quote GS Belt | 斯烏特艾腰帶【ＧＳ】 |
-| 5401 | Quote GP Belt | 斯烏特艾腰帶【ＧＰ】 |
+| 5399 | Quote HS Belt | 奎特腰帶【ＨＳ】 |
+| 5400 | Quote GS Belt | 奎特腰帶【ＧＳ】 |
+| 5401 | Quote GP Belt | 奎特腰帶【ＧＰ】 |
 | 5402 | Starina HS Waist | 斯塔莉娜腰甲【ＨＳ】 |
 | 5403 | Starina GS Waist | 斯塔莉娜腰甲【ＧＳ】 |
 | 5404 | Starina GP Waist | 斯塔莉娜腰甲【ＧＰ】 |

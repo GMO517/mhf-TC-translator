@@ -6,13 +6,13 @@
 |---|---|---|
 | 12001 | Jade D Mail | 傑阿德艾鎧甲 |
 | 12002 | Agate D Mail | 阿格阿特鎧甲 |
-| 12003 | Pyrope D Mail | 普歐普艾鎧甲 |
+| 12003 | Pyrope D Mail | 蘿佩鎧甲 |
 | 12004 | アイオラD Mail | 阿伊歐拉鎧甲 |
-| 12005 | Rutile D Mail | 爾烏特伊鎧甲 |
+| 12005 | Rutile D Mail | 露蒂勒鎧甲 |
 | 12006 | Blood D Mail | 血鎧甲 |
 | 12007 | Citrine D Vest | 克伊特伊背心 |
-| 12008 | Peridot D Vest | 普艾爾伊背心 |
-| 12009 | Turquoise D Vest | 特烏爾烏背心 |
+| 12008 | Peridot D Vest | 佩里多背心 |
+| 12009 | Turquoise D Vest | 圖奎賽背心 |
 | 12010 | Mafumofu Suit PD Red | 莫芙莫芙套裝【ＰＤ】・赤 |
 | 12011 | Mafumofu Suit PD Yellow | 莫芙莫芙套裝【ＰＤ】・黄 |
 | 12012 | Mafumofu Suit PD Purple | 莫芙莫芙套裝【ＰＤ】・紫 |
@@ -48,11 +48,11 @@
 | 12042 | Kushala バダル PD Green | 鋼龍鎧甲【ＰＤ】・緑 |
 | 12043 | 忍の Shozoku・陽D | 忍の陽裝束 |
 | 12044 | 忍の Shozoku・陰D | 忍の陰裝束 |
-| 12045 | Bonne D Mail | 布歐恩艾鎧甲 |
-| 12046 | Kalais D Vest | 克阿爾阿背心 |
-| 12047 | Lucchese D Vest | 爾烏克艾背心 |
+| 12045 | Bonne D Mail | 波恩鎧甲 |
+| 12046 | Kalais D Vest | 可拉背心 |
+| 12047 | Lucchese D Vest | 露切賽背心 |
 | 12048 | Quoiz D Vest | 斯烏茲背心 |
-| 12049 | Nekodan D Suit | 恩艾克歐套裝 |
+| 12049 | Nekodan D Suit | 奈古達套裝 |
 | 12050 | Gudan D Mail | 格烏德阿鎧甲 |
 | 12051 | Nerihi Haori Z | 練緋羽織【Ｚ】 |
 | 12052 | Nerihi Haori ZF | 練緋羽織【ＺＦ】 |
@@ -98,14 +98,14 @@
 | 12092 | Gasura ZF Vest | 怒貌龍背心【ＺＦ】 |
 | 12093 | Gasura ZY Vest | 怒貌龍背心【ＺＹ】 |
 | 12094 | Gasura ZX Vest | 怒貌龍背心【ＺＸ】 |
-| 12095 | Seregios Mail | 斯艾爾艾鎧甲 |
-| 12096 | Seregios G Mail | 斯艾爾艾鎧甲【Ｇ】 |
-| 12097 | Seregios GF Mail | 斯艾爾艾鎧甲【ＧＦ】 |
-| 12098 | Seregios GX Mail | 斯艾爾艾鎧甲【ＧＸ】 |
-| 12099 | Seregios Vest | 斯艾爾艾背心 |
-| 12100 | Seregios G Vest | 斯艾爾艾背心【Ｇ】 |
-| 12101 | Seregios GF Vest | 斯艾爾艾背心【ＧＦ】 |
-| 12102 | Seregios GX Vest | 斯艾爾艾背心【ＧＸ】 |
+| 12095 | Seregios Mail | 賽蕾吉鎧甲 |
+| 12096 | Seregios G Mail | 賽蕾吉鎧甲【Ｇ】 |
+| 12097 | Seregios GF Mail | 賽蕾吉鎧甲【ＧＦ】 |
+| 12098 | Seregios GX Mail | 賽蕾吉鎧甲【ＧＸ】 |
+| 12099 | Seregios Vest | 賽蕾吉背心 |
+| 12100 | Seregios G Vest | 賽蕾吉背心【Ｇ】 |
+| 12101 | Seregios GF Vest | 賽蕾吉背心【ＧＦ】 |
+| 12102 | Seregios GX Vest | 賽蕾吉背心【ＧＸ】 |
 | 12103 | Utaei Shozoku Z | 烏特阿裝束【Ｚ】 |
 | 12104 | Utaei Shozoku ZF | 烏特阿裝束【ＺＦ】 |
 | 12105 | Utaei Shozoku ZY | 烏特阿裝束【ＺＹ】 |
@@ -162,20 +162,20 @@
 | 12156 | Gray GS Suit | 灰套裝【ＧＳ】 |
 | 12157 | Gray GP Suit | 灰套裝【ＧＰ】 |
 | 12158 | Gray ZP Suit | 灰套裝【ＺＰ】 |
-| 12159 | Urpina Vest | 烏爾皮納背心 |
-| 12160 | Urpina F Vest | 烏爾皮納背心【Ｆ】 |
-| 12161 | Urpina FZ Vest | 烏爾皮納背心【ＦＺ】 |
-| 12162 | Urpina HS Vest | 烏爾皮納背心【ＨＳ】 |
-| 12163 | Urpina GS Vest | 烏爾皮納背心【ＧＳ】 |
-| 12164 | Urpina GP Vest | 烏爾皮納背心【ＧＰ】 |
-| 12165 | Urpina ZP Vest | 烏爾皮納背心【ＺＰ】 |
-| 12166 | Urpina Suit | 烏爾皮納套裝 |
-| 12167 | Urpina F Suit | 烏爾皮納套裝【Ｆ】 |
-| 12168 | Urpina FZ Suit | 烏爾皮納套裝【ＦＺ】 |
-| 12169 | Urpina HS Suit | 烏爾皮納套裝【ＨＳ】 |
-| 12170 | Urpina GS Suit | 烏爾皮納套裝【ＧＳ】 |
-| 12171 | Urpina GP Suit | 烏爾皮納套裝【ＧＰ】 |
-| 12172 | Urpina ZP Suit | 烏爾皮納套裝【ＺＰ】 |
+| 12159 | Urpina Vest | 宇露皮娜背心 |
+| 12160 | Urpina F Vest | 宇露皮娜背心【Ｆ】 |
+| 12161 | Urpina FZ Vest | 宇露皮娜背心【ＦＺ】 |
+| 12162 | Urpina HS Vest | 宇露皮娜背心【ＨＳ】 |
+| 12163 | Urpina GS Vest | 宇露皮娜背心【ＧＳ】 |
+| 12164 | Urpina GP Vest | 宇露皮娜背心【ＧＰ】 |
+| 12165 | Urpina ZP Vest | 宇露皮娜背心【ＺＰ】 |
+| 12166 | Urpina Suit | 宇露皮娜套裝 |
+| 12167 | Urpina F Suit | 宇露皮娜套裝【Ｆ】 |
+| 12168 | Urpina FZ Suit | 宇露皮娜套裝【ＦＺ】 |
+| 12169 | Urpina HS Suit | 宇露皮娜套裝【ＨＳ】 |
+| 12170 | Urpina GS Suit | 宇露皮娜套裝【ＧＳ】 |
+| 12171 | Urpina GP Suit | 宇露皮娜套裝【ＧＰ】 |
+| 12172 | Urpina ZP Suit | 宇露皮娜套裝【ＺＰ】 |
 | 12173 | Noel Mail | 諾埃爾鎧甲 |
 | 12174 | Noel F Mail | 諾埃爾鎧甲【Ｆ】 |
 | 12175 | Noel FZ Mail | 諾埃爾鎧甲【ＦＺ】 |
@@ -218,17 +218,17 @@
 | 12212 | Wing D Vest | 翼背心 |
 | 12213 | Gasura ZD Mail | 怒貌龍鎧甲 |
 | 12214 | Gasura ZD Vest | 怒貌龍背心 |
-| 12215 | Seregios C Mail | 斯艾爾艾鎧甲 |
-| 12216 | Seregios C Vest | 斯艾爾艾背心 |
+| 12215 | Seregios C Mail | 賽蕾吉鎧甲 |
+| 12216 | Seregios C Vest | 賽蕾吉背心 |
 | 12217 | Pinbi D Vest | 普伊恩伊背心 |
 | 12218 | Pribu D Vest | 普伊布烏背心 |
-| 12219 | Nerihi Haori D | 恩艾爾伊羽織 |
+| 12219 | Nerihi Haori D | 奈里希羽織 |
 | 12220 | Gray D Vest | 格阿伊背心 |
-| 12221 | Urpina D Vest | 烏爾伊恩背心 |
-| 12222 | Noel D Mail | 恩歐爾鎧甲 |
-| 12223 | Bune D Vest | 布烏恩艾背心 |
-| 12224 | Melas D Suit | 姆艾爾阿套裝 |
-| 12225 | Byakko・Kensei D Mail | 白虎布阿克歐鎧甲 |
+| 12221 | Urpina D Vest | 皮娜背心 |
+| 12222 | Noel D Mail | 諾鎧甲 |
+| 12223 | Bune D Vest | 布奈背心 |
+| 12224 | Melas D Suit | 梅拉套裝 |
+| 12225 | Byakko・Kensei D Mail | 白虎雅古凱賽鎧甲 |
 | 12226 | Byakko・双龍D Mail | 白虎双龍鎧甲 |
 | 12227 | Byakko・剣王D Mail | 白虎剣王鎧甲 |
 | 12228 | Byakko・刀神D Mail | 白虎刀神鎧甲 |
@@ -268,12 +268,12 @@
 | 12262 | Remobra ボディ PD White | 翼蛇龍鎧甲【ＰＤ】・白 |
 | 12263 | Remobra ボディ PD Yellow | 翼蛇龍鎧甲【ＰＤ】・黄 |
 | 12264 | Remobra ボディ PD Black | 翼蛇龍鎧甲【ＰＤ】・黑 |
-| 12265 | Harze D Suit | 赫阿爾艾套裝 |
-| 12266 | Revenants D Muscle | 爾艾芙艾筋肉衣 |
-| 12267 | Kukubo D Vest | 克烏克烏背心 |
+| 12265 | Harze D Suit | 哈澤套裝 |
+| 12266 | Revenants D Muscle | 蕾薇娜筋肉衣 |
+| 12267 | Kukubo D Vest | 克克波背心 |
 | 12268 | Kakabu D Vest | 克阿克阿背心 |
-| 12269 | Aruru D Vest | 阿爾烏爾背心 |
-| 12270 | Suzaku・Kensei D Mail | 朱雀斯烏茲阿鎧甲 |
+| 12269 | Aruru D Vest | 露露背心 |
+| 12270 | Suzaku・Kensei D Mail | 朱雀斯扎克凱鎧甲 |
 | 12271 | Suzaku・双龍D Mail | 朱雀双龍鎧甲 |
 | 12272 | Suzaku・剣王D Mail | 朱雀剣王鎧甲 |
 | 12273 | Suzaku・刀神D Mail | 朱雀刀神鎧甲 |
@@ -307,9 +307,9 @@
 | 12301 | Diablos Mail PD Purple | 角龍鎧甲【ＰＤ】・紫 |
 | 12302 | Diablos Mail PD Blue | 角龍鎧甲【ＰＤ】・青 |
 | 12303 | Diablos Mail PD Yellow | 角龍鎧甲【ＰＤ】・黄 |
-| 12304 | Makluva Cover PD Green | 瑪克魯瓦罩鎧甲【ＰＤ】・緑 |
-| 12305 | Makluva Cover PD Blue | 瑪克魯瓦罩鎧甲【ＰＤ】・青 |
-| 12306 | Makluva Cover PD Black | 瑪克魯瓦罩鎧甲【ＰＤ】・黑 |
+| 12304 | Makluva Cover PD Green | 瑪可露拍鎧甲【ＰＤ】・緑 |
+| 12305 | Makluva Cover PD Blue | 瑪可露拍鎧甲【ＰＤ】・青 |
+| 12306 | Makluva Cover PD Black | 瑪可露拍鎧甲【ＰＤ】・黑 |
 | 12307 | Akantor ウルンテ PD Black | 霸龍鎧甲【ＰＤ】・黑 |
 | 12308 | Akantor ウルンテ PD Red | 霸龍鎧甲【ＰＤ】・赤 |
 | 12309 | Akantor ウルンテ PD White | 霸龍鎧甲【ＰＤ】・白 |
@@ -319,37 +319,37 @@
 | 12313 | Gravios Mail PD Black | 鎧龍鎧甲【ＰＤ】・黑 |
 | 12314 | Gravios Mail PD Blue | 鎧龍鎧甲【ＰＤ】・青 |
 | 12315 | Gravios Mail PD Red | 鎧龍鎧甲【ＰＤ】・赤 |
-| 12316 | Sharuru D Mail | 夏阿爾烏鎧甲 |
-| 12317 | Neriotori Haori D | 恩艾爾伊羽織 |
-| 12318 | Anorupatisu ZD Mail | 阿恩歐爾鎧甲 |
-| 12319 | Anorupatisu ZD Vest | 阿恩歐爾背心 |
+| 12316 | Sharuru D Mail | 修露露鎧甲 |
+| 12317 | Neriotori Haori D | 奈里托里羽織 |
+| 12318 | Anorupatisu ZD Mail | 諾露拍蒂鎧甲 |
+| 12319 | Anorupatisu ZD Vest | 諾露拍蒂背心 |
 | 12320 | Dylan D Suit | 德阿恩套裝 |
 | 12321 | Dibble D Suit | 德伊布艾套裝 |
 | 12322 | Fins D Suit | 芙伊恩套裝 |
 | 12323 | Dins D Suit | 德伊恩套裝 |
-| 12324 | Charis D Suit | 奇阿爾伊套裝 |
-| 12325 | Miriam D Mail | 姆伊爾伊鎧甲 |
-| 12326 | Lenigan D Suit | 爾艾恩伊套裝 |
+| 12324 | Charis D Suit | 夏里套裝 |
+| 12325 | Miriam D Mail | 蜜里鎧甲 |
+| 12326 | Lenigan D Suit | 勒尼加套裝 |
 | 12327 | 執事 Maid 色替え | 執事色替え鎧甲 |
 | 12328 | Katante D Mail | 克阿特阿鎧甲 |
 | 12329 | Rikante D Mail | 爾伊克阿鎧甲 |
-| 12330 | Merente D Mail | 姆艾爾艾鎧甲 |
+| 12330 | Merente D Mail | 梅蕾特鎧甲 |
 | 12331 | Utante D Mail | 烏特阿恩鎧甲 |
-| 12332 | Brooke D Vest | 布歐克艾背心 |
-| 12333 | Shirukku D Vest | 夏伊爾烏背心 |
-| 12334 | Gorukku D Vest | 格歐爾烏背心 |
+| 12332 | Brooke D Vest | 古蘿布背心 |
+| 12333 | Shirukku D Vest | 古蘿布背心 |
+| 12334 | Gorukku D Vest | 古蘿布背心 |
 | 12335 | Kiyoshi Haori D | 克伊伊歐羽織 |
 | 12336 | Kashoku Haori D | 克阿夏歐羽織 |
 | 12337 | Jyaga D Mail | 傑阿格阿鎧甲 |
-| 12338 | Cure D Mail | 克烏爾艾鎧甲 |
+| 12338 | Cure D Mail | 庫蕾鎧甲 |
 | 12339 | Jess D Mail | 傑艾斯鎧甲 |
-| 12340 | Riaruo D Mail | 爾伊爾烏鎧甲 |
-| 12341 | Reiresu D Mail | 爾艾爾艾鎧甲 |
-| 12342 | Reuasu D Mail | 爾艾斯烏鎧甲 |
-| 12343 | Buran D Jacket | 布烏爾阿夾克 |
+| 12340 | Riaruo D Mail | 里露鎧甲 |
+| 12341 | Reiresu D Mail | 蕾蕾斯鎧甲 |
+| 12342 | Reuasu D Mail | 蕾斯鎧甲 |
+| 12343 | Buran D Jacket | 布拉恩德夾克 |
 | 12344 | Shimashima D Vest | 夏伊姆阿背心 |
-| 12345 | Desutora D Plate | 德艾斯烏板甲 |
-| 12346 | Furante D Mail | 芙烏爾阿鎧甲 |
+| 12345 | Desutora D Plate | 德斯托拉板甲 |
+| 12346 | Furante D Mail | 芙拉特鎧甲 |
 | 12347 | Sharuru Mail | 夏露露鎧甲 |
 | 12348 | Sharuru F Mail | 夏露露鎧甲【Ｆ】 |
 | 12349 | Sharuru FZ Mail | 夏露露鎧甲【ＦＺ】 |
@@ -414,20 +414,20 @@
 | 12408 | Dylan GS Vest | 迪倫背心【ＧＳ】 |
 | 12409 | Dylan GP Vest | 迪倫背心【ＧＰ】 |
 | 12410 | Dylan ZP Vest | 迪倫背心【ＺＰ】 |
-| 12411 | Dibble Suit | 迪布爾套裝 |
-| 12412 | Dibble F Suit | 迪布爾套裝【Ｆ】 |
-| 12413 | Dibble FZ Suit | 迪布爾套裝【ＦＺ】 |
-| 12414 | Dibble HS Suit | 迪布爾套裝【ＨＳ】 |
-| 12415 | Dibble GS Suit | 迪布爾套裝【ＧＳ】 |
-| 12416 | Dibble GP Suit | 迪布爾套裝【ＧＰ】 |
-| 12417 | Dibble ZP Suit | 迪布爾套裝【ＺＰ】 |
-| 12418 | Dibble Vest | 迪布爾背心 |
-| 12419 | Dibble F Vest | 迪布爾背心【Ｆ】 |
-| 12420 | Dibble FZ Vest | 迪布爾背心【ＦＺ】 |
-| 12421 | Dibble HS Vest | 迪布爾背心【ＨＳ】 |
-| 12422 | Dibble GS Vest | 迪布爾背心【ＧＳ】 |
-| 12423 | Dibble GP Vest | 迪布爾背心【ＧＰ】 |
-| 12424 | Dibble ZP Vest | 迪布爾背心【ＺＰ】 |
+| 12411 | Dibble Suit | 迪布露套裝 |
+| 12412 | Dibble F Suit | 迪布露套裝【Ｆ】 |
+| 12413 | Dibble FZ Suit | 迪布露套裝【ＦＺ】 |
+| 12414 | Dibble HS Suit | 迪布露套裝【ＨＳ】 |
+| 12415 | Dibble GS Suit | 迪布露套裝【ＧＳ】 |
+| 12416 | Dibble GP Suit | 迪布露套裝【ＧＰ】 |
+| 12417 | Dibble ZP Suit | 迪布露套裝【ＺＰ】 |
+| 12418 | Dibble Vest | 迪布露背心 |
+| 12419 | Dibble F Vest | 迪布露背心【Ｆ】 |
+| 12420 | Dibble FZ Vest | 迪布露背心【ＦＺ】 |
+| 12421 | Dibble HS Vest | 迪布露背心【ＨＳ】 |
+| 12422 | Dibble GS Vest | 迪布露背心【ＧＳ】 |
+| 12423 | Dibble GP Vest | 迪布露背心【ＧＰ】 |
+| 12424 | Dibble ZP Vest | 迪布露背心【ＺＰ】 |
 | 12425 | Fins Suit | 鰭套裝 |
 | 12426 | Fins F Suit | 鰭套裝【Ｆ】 |
 | 12427 | Fins FZ Suit | 鰭套裝【ＦＺ】 |

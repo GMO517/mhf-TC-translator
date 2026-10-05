@@ -23,14 +23,14 @@
 | 11017 | Hyujikiki ZF Leggings | 針纏龍裹腿【ＺＦ】 |
 | 11018 | Hyujikiki ZY Leggings | 針纏龍裹腿【ＺＹ】 |
 | 11019 | Hyujikiki ZX Leggings | 針纏龍裹腿【ＺＸ】 |
-| 11020 | Gear Z Greaves | 格艾爾護腿【Ｚ】 |
-| 11021 | Gear ZF Greaves | 格艾爾護腿【ＺＦ】 |
-| 11022 | Gear ZY Greaves | 格艾爾護腿【ＺＹ】 |
-| 11023 | Gear ZX Greaves | 格艾爾護腿【ＺＸ】 |
-| 11024 | Gear Z Leggings | 格艾爾裹腿【Ｚ】 |
-| 11025 | Gear ZF Leggings | 格艾爾裹腿【ＺＦ】 |
-| 11026 | Gear ZY Leggings | 格艾爾裹腿【ＺＹ】 |
-| 11027 | Gear ZX Leggings | 格艾爾裹腿【ＺＸ】 |
+| 11020 | Gear Z Greaves | 蓋護腿【Ｚ】 |
+| 11021 | Gear ZF Greaves | 蓋護腿【ＺＦ】 |
+| 11022 | Gear ZY Greaves | 蓋護腿【ＺＹ】 |
+| 11023 | Gear ZX Greaves | 蓋護腿【ＺＸ】 |
+| 11024 | Gear Z Leggings | 蓋裹腿【Ｚ】 |
+| 11025 | Gear ZF Leggings | 蓋裹腿【ＺＦ】 |
+| 11026 | Gear ZY Leggings | 蓋裹腿【ＺＹ】 |
+| 11027 | Gear ZX Leggings | 蓋裹腿【ＺＸ】 |
 | 11028 | Rokka Feet | 蘿可足 |
 | 11029 | Rokka F Feet | 蘿可足【Ｆ】 |
 | 11030 | Rokka FZ Feet | 蘿可足【ＦＺ】 |
@@ -91,8 +91,8 @@
 | 11085 | Gorgon ZP Boots・White | 戈耳工靴【ＺＰ】・白 |
 | 11086 | Gorgon ZP Feet・Red | 戈耳工足【ＺＰ】・赤 |
 | 11087 | Gorgon ZP Boots・Red | 戈耳工靴【ＺＰ】・赤 |
-| 11088 | Arben ZP Feet | 阿爾本足【ＺＰ】 |
-| 11089 | Arben ZP Boots | 阿爾本靴【ＺＰ】 |
+| 11088 | Arben ZP Feet | 亞露貝恩足【ＺＰ】 |
+| 11089 | Arben ZP Boots | 亞露貝恩靴【ＺＰ】 |
 | 11090 | Aura ZP Feet | 光環足【ＺＰ】 |
 | 11091 | Aura ZP Boots | 光環靴【ＺＰ】 |
 | 11092 | Gagachu ZP Feet | 加加丘足【ＺＰ】 |
@@ -115,15 +115,15 @@
 | 11109 | Chatore G Leggings | 奇阿特歐裹腿【Ｇ】 |
 | 11110 | Chatore GF Leggings | 奇阿特歐裹腿【ＧＦ】 |
 | 11111 | Chatore GX Leggings | 奇阿特歐裹腿【ＧＸ】 |
-| 11112 | Donru GX Greaves | 德歐恩烏護腿【ＧＸ】 |
-| 11113 | Donru GX Leggings | 德歐恩烏裹腿【ＧＸ】 |
-| 11114 | Penre D Feet | 普艾恩艾足 |
-| 11115 | Rokka D Feet | 爾歐克阿足 |
+| 11112 | Donru GX Greaves | 多露護腿【ＧＸ】 |
+| 11113 | Donru GX Leggings | 多露裹腿【ＧＸ】 |
+| 11114 | Penre D Feet | 佩蕾足 |
+| 11115 | Rokka D Feet | 蘿可足 |
 | 11116 | YoRHa No.9 Type S D Feet | 寄葉九號型足【Ｓ】 |
 | 11117 | YoRHa No.2 Type B D Feet | 寄葉二號Ｂ型足 |
 | 11118 | トリートC Greaves | 托里托護腿 |
 | 11119 | Craft C Boots | 工匠靴 |
-| 11120 | Cielo C Feet | 克伊爾歐足 |
+| 11120 | Cielo C Feet | 奇蘿足 |
 | 11121 | Felyne C Greaves | 艾路猫護腿 |
 | 11122 | Akahara Reisou GN Legs D Red | 阿克阿赫腿甲・赤 |
 | 11123 | Akahara Reisou GN Legs D Blue | 阿克阿赫腿甲・青 |
@@ -137,23 +137,23 @@
 | 11131 | Hero King Legs BM D Black | 英雄王腿甲・黑 |
 | 11132 | Hero King Legs BM D White | 英雄王腿甲・白 |
 | 11133 | Hero King Legs BM D Red | 英雄王腿甲・赤 |
-| 11134 | Gorgon D Feet・Black | 格歐爾歐足・黑 |
-| 11135 | Gorgon D Feet・Blue | 格歐爾歐足・青 |
-| 11136 | Gorgon D Feet・White | 格歐爾歐足・白 |
-| 11137 | Gorgon D Feet・Red | 格歐爾歐足・赤 |
-| 11138 | Arben D Feet | 阿爾艾恩足 |
-| 11139 | Aura D Feet | 阿爾阿斯足 |
+| 11134 | Gorgon D Feet・Black | 戈戈恩德足・黑 |
+| 11135 | Gorgon D Feet・Blue | 戈戈恩德足・青 |
+| 11136 | Gorgon D Feet・White | 戈戈恩德足・白 |
+| 11137 | Gorgon D Feet・Red | 戈戈恩德足・赤 |
+| 11138 | Arben D Feet | 貝恩德足 |
+| 11139 | Aura D Feet | 奧拉足 |
 | 11140 | Gagachu D Feet | 格阿格阿足 |
-| 11141 | Kurofi D Feet | 克烏爾歐足 |
-| 11142 | Keravuno D Feet | 克艾爾阿足 |
+| 11141 | Kurofi D Feet | 克蘿菲足 |
+| 11142 | Keravuno D Feet | 凱拉諾足 |
 | 11143 | Espinas ZD Heel | 艾斯伊恩踵 |
 | 11144 | Espinas ZD March | 艾斯伊恩行軍腿 |
 | 11145 | Hypnoc ZD Greaves | 赫歐克護腿 |
 | 11146 | Hypnoc ZD Leggings | 赫歐克裹腿 |
-| 11147 | Khezu ZD Greaves | 克艾茲烏護腿 |
-| 11148 | Khezu ZD Leggings | 克艾茲烏裹腿 |
-| 11149 | Hermitaur ZD Greaves | 赫艾爾伊護腿 |
-| 11150 | Hermitaur ZD Leggings | 赫艾爾伊裹腿 |
+| 11147 | Khezu ZD Greaves | 克茲護腿 |
+| 11148 | Khezu ZD Leggings | 克茲裹腿 |
+| 11149 | Hermitaur ZD Greaves | 赫姆塔護腿 |
+| 11150 | Hermitaur ZD Leggings | 赫姆塔裹腿 |
 | 11151 | Rathalos ZD Greaves | 爾阿斯阿護腿 |
 | 11152 | Rathalos ZD Leggings | 爾阿斯阿裹腿 |
 | 11153 | Blango ZD Greaves | 布阿恩歐護腿 |
@@ -164,9 +164,9 @@
 | 11158 | Tigrex ZD Leggings | 特伊格艾裹腿 |
 | 11159 | Hyujikiki ZD Greaves | 赫烏傑伊護腿 |
 | 11160 | Hyujikiki ZD Leggings | 赫烏傑伊裹腿 |
-| 11161 | Gear ZD Greaves | 格艾爾護腿 |
-| 11162 | Gear ZD Leggings | 格艾爾裹腿 |
-| 11163 | Muruta D Feet | 姆烏爾烏足 |
+| 11161 | Gear ZD Greaves | 蓋護腿 |
+| 11162 | Gear ZD Leggings | 蓋裹腿 |
+| 11163 | Muruta D Feet | 姆露塔足 |
 | 11164 | Midogaron Z Greaves | 爆狼護腿【Ｚ】 |
 | 11165 | Midogaron ZF Greaves | 爆狼護腿【ＺＦ】 |
 | 11166 | Midogaron ZY Greaves | 爆狼護腿【ＺＹ】 |
@@ -246,13 +246,13 @@
 | 11240 | Crush Lance GS Feet | 克烏夏阿足【ＧＳ】 |
 | 11241 | Crush Lance GP Feet | 克烏夏阿足【ＧＰ】 |
 | 11242 | Crush Lance ZP Feet | 克烏夏阿足【ＺＰ】 |
-| 11243 | Scream Lance Feet | 斯艾姆阿足 |
-| 11244 | Scream Lance F Feet | 斯艾姆阿足【Ｆ】 |
-| 11245 | Scream Lance FZ Feet | 斯艾姆阿足【ＦＺ】 |
-| 11246 | Scream Lance HS Feet | 斯艾姆阿足【ＨＳ】 |
-| 11247 | Scream Lance GS Feet | 斯艾姆阿足【ＧＳ】 |
-| 11248 | Scream Lance GP Feet | 斯艾姆阿足【ＧＰ】 |
-| 11249 | Scream Lance ZP Feet | 斯艾姆阿足【ＺＰ】 |
+| 11243 | Scream Lance Feet | 克雷拉賽足 |
+| 11244 | Scream Lance F Feet | 克雷拉賽足【Ｆ】 |
+| 11245 | Scream Lance FZ Feet | 克雷拉賽足【ＦＺ】 |
+| 11246 | Scream Lance HS Feet | 克雷拉賽足【ＨＳ】 |
+| 11247 | Scream Lance GS Feet | 克雷拉賽足【ＧＳ】 |
+| 11248 | Scream Lance GP Feet | 克雷拉賽足【ＧＰ】 |
+| 11249 | Scream Lance ZP Feet | 克雷拉賽足【ＺＰ】 |
 | 11250 | Piercing Light Feet | 貫光足 |
 | 11251 | Piercing Light F Feet | 貫光足【Ｆ】 |
 | 11252 | Piercing Light FZ Feet | 貫光足【ＦＺ】 |
@@ -274,13 +274,13 @@
 | 11268 | Blast Gun GS Boots | 布阿斯烏靴【ＧＳ】 |
 | 11269 | Blast Gun GP Boots | 布阿斯烏靴【ＧＰ】 |
 | 11270 | Blast Gun ZP Boots | 布阿斯烏靴【ＺＰ】 |
-| 11271 | Crush Gun Boots | 克烏夏烏靴 |
-| 11272 | Crush Gun F Boots | 克烏夏烏靴【Ｆ】 |
-| 11273 | Crush Gun FZ Boots | 克烏夏烏靴【ＦＺ】 |
-| 11274 | Crush Gun HS Boots | 克烏夏烏靴【ＨＳ】 |
-| 11275 | Crush Gun GS Boots | 克烏夏烏靴【ＧＳ】 |
-| 11276 | Crush Gun GP Boots | 克烏夏烏靴【ＧＰ】 |
-| 11277 | Crush Gun ZP Boots | 克烏夏烏靴【ＺＰ】 |
+| 11271 | Crush Gun Boots | 克修古靴 |
+| 11272 | Crush Gun F Boots | 克修古靴【Ｆ】 |
+| 11273 | Crush Gun FZ Boots | 克修古靴【ＦＺ】 |
+| 11274 | Crush Gun HS Boots | 克修古靴【ＨＳ】 |
+| 11275 | Crush Gun GS Boots | 克修古靴【ＧＳ】 |
+| 11276 | Crush Gun GP Boots | 克修古靴【ＧＰ】 |
+| 11277 | Crush Gun ZP Boots | 克修古靴【ＺＰ】 |
 | 11278 | Bow Saint Boots | 斯阿恩靴 |
 | 11279 | Bow Saint F Boots | 斯阿恩靴【Ｆ】 |
 | 11280 | Bow Saint FZ Boots | 斯阿恩靴【ＦＺ】 |
@@ -334,20 +334,20 @@
 | 11328 | Shaln ZP Boots・Green | 夏爾恩靴【ＺＰ】・緑 |
 | 11329 | Shaln ZP Boots・Purple | 夏爾恩靴【ＺＰ】・紫 |
 | 11330 | Shaln ZP Boots・White | 夏爾恩靴【ＺＰ】・白 |
-| 11331 | Arumyu G Greaves | 阿爾烏姆護腿【Ｇ】 |
-| 11332 | Arumyu GF Greaves | 阿爾烏姆護腿【ＧＦ】 |
-| 11333 | Arumyu GX Greaves | 阿爾烏姆護腿【ＧＸ】 |
-| 11334 | Arumyu G Leggings | 阿爾烏姆裹腿【Ｇ】 |
-| 11335 | Arumyu GF Leggings | 阿爾烏姆裹腿【ＧＦ】 |
-| 11336 | Arumyu GX Leggings | 阿爾烏姆裹腿【ＧＸ】 |
-| 11337 | Korinyi Z Feet | 克歐爾伊足【Ｚ】 |
-| 11338 | Korinyi ZF Feet | 克歐爾伊足【ＺＦ】 |
-| 11339 | Korinyi ZY Feet | 克歐爾伊足【ＺＹ】 |
-| 11340 | Korinyi ZX Feet | 克歐爾伊足【ＺＸ】 |
-| 11341 | Korinyi Z Boots | 克歐爾伊靴【Ｚ】 |
-| 11342 | Korinyi ZF Boots | 克歐爾伊靴【ＺＦ】 |
-| 11343 | Korinyi ZY Boots | 克歐爾伊靴【ＺＹ】 |
-| 11344 | Korinyi ZX Boots | 克歐爾伊靴【ＺＸ】 |
+| 11331 | Arumyu G Greaves | 露尤護腿【Ｇ】 |
+| 11332 | Arumyu GF Greaves | 露尤護腿【ＧＦ】 |
+| 11333 | Arumyu GX Greaves | 露尤護腿【ＧＸ】 |
+| 11334 | Arumyu G Leggings | 露尤裹腿【Ｇ】 |
+| 11335 | Arumyu GF Leggings | 露尤裹腿【ＧＦ】 |
+| 11336 | Arumyu GX Leggings | 露尤裹腿【ＧＸ】 |
+| 11337 | Korinyi Z Feet | 古里足【Ｚ】 |
+| 11338 | Korinyi ZF Feet | 古里足【ＺＦ】 |
+| 11339 | Korinyi ZY Feet | 古里足【ＺＹ】 |
+| 11340 | Korinyi ZX Feet | 古里足【ＺＸ】 |
+| 11341 | Korinyi Z Boots | 古里靴【Ｚ】 |
+| 11342 | Korinyi ZF Boots | 古里靴【ＺＦ】 |
+| 11343 | Korinyi ZY Boots | 古里靴【ＺＹ】 |
+| 11344 | Korinyi ZX Boots | 古里靴【ＺＸ】 |
 | 11345 | Renka Greaves Z | 蓮華護腿【Ｚ】 |
 | 11346 | Renka Greaves ZF | 蓮華護腿【ＺＦ】 |
 | 11347 | Renka Greaves ZY | 蓮華護腿【ＺＹ】 |
@@ -363,9 +363,9 @@
 | 11357 | 失落D狂脛 | 失落狂脛護腿 |
 | 11358 | 噬天D光脛 | 噬天光脛護腿 |
 | 11359 | 小藍ＣＯＳ靴 | 小藍ＣＯＳ靴護腿 |
-| 11360 | ヴァンパイアＤフット | 芙恩拍伊阿護腿 |
-| 11361 | Midogaron ZD Greaves | 姆伊德歐護腿 |
-| 11362 | Midogaron ZD Leggings | 姆伊德歐裹腿 |
+| 11360 | ヴァンパイアＤフット | 薇恩拍伊護腿 |
+| 11361 | Midogaron ZD Greaves | 蜜多加蘿護腿 |
+| 11362 | Midogaron ZD Leggings | 蜜多加蘿裹腿 |
 | 11363 | White Fatalis D Feet | 白黑龍足 |
 | 11364 | White Fatalis D Legs | 白黑龍腿甲 |
 | 11365 | Elzelion D Greaves | 灼零龍護腿 |
@@ -374,39 +374,39 @@
 | 11368 | 十ノ軌跡C Feet | 十軌跡足 |
 | 11369 | 十ノ至道C Boots | 十至道靴 |
 | 11370 | Rantana D Feet | 爾阿恩阿足 |
-| 11371 | Eris D Feet | 艾爾伊斯足 |
+| 11371 | Eris D Feet | 里足 |
 | 11372 | Magisa D Feet・Red | 姆阿格伊足・赤 |
 | 11373 | Magisa D Feet・Black | 姆阿格伊足・黑 |
 | 11374 | Magisa D Feet・Green | 姆阿格伊足・緑 |
 | 11375 | Magisa D Feet・White | 姆阿格伊足・白 |
 | 11376 | Magisa D Feet・Blue | 姆阿格伊足・青 |
 | 11377 | Waka Legs D | 沃阿克阿腿甲 |
-| 11378 | Shaln D Feet・Blue | 夏阿爾足・青 |
-| 11379 | Shaln D Feet・Green | 夏阿爾足・緑 |
-| 11380 | Shaln D Feet・Purple | 夏阿爾足・紫 |
-| 11381 | Shaln D Feet・White | 夏阿爾足・白 |
-| 11382 | Shaln D Feet・Red | 夏阿爾足・赤 |
-| 11383 | Shaln D Feet・Crimson | 夏阿爾足・紅 |
-| 11384 | Shaln D Feet・Orange | 夏阿爾足・橙 |
-| 11385 | Carriage D Feet | 克阿爾伊足 |
-| 11386 | Marble D Feet | 姆阿爾艾足 |
+| 11378 | Shaln D Feet・Blue | 修恩足・青 |
+| 11379 | Shaln D Feet・Green | 修恩足・緑 |
+| 11380 | Shaln D Feet・Purple | 修恩足・紫 |
+| 11381 | Shaln D Feet・White | 修恩足・白 |
+| 11382 | Shaln D Feet・Red | 修恩足・赤 |
+| 11383 | Shaln D Feet・Crimson | 修恩足・紅 |
+| 11384 | Shaln D Feet・Orange | 修恩足・橙 |
+| 11385 | Carriage D Feet | 可爾蓋足 |
+| 11386 | Marble D Feet | 瑪布足 |
 | 11387 | Shandy D Feet | 夏阿恩足 |
 | 11388 | Banquet D Feet | 布阿恩烏足 |
-| 11389 | Korinyi D Feet | 克歐爾伊足 |
-| 11390 | Renka Greaves D | 爾艾恩阿護腿 |
-| 11391 | Kukubo D Feet | 克烏克烏足 |
+| 11389 | Korinyi D Feet | 古里足 |
+| 11390 | Renka Greaves D | 蕾可護腿 |
+| 11391 | Kukubo D Feet | 克克波足 |
 | 11392 | Kakabu D Feet | 克阿克阿足 |
-| 11393 | Aruru D Feet | 阿爾烏爾足 |
+| 11393 | Aruru D Feet | 露露足 |
 | 11394 | Red Cat D Boots | 赤猫靴 |
 | 11395 | Rios D Greaves | 爾伊斯護腿 |
 | 11396 | Bonito D Greaves | 布歐恩伊護腿 |
-| 11397 | Meirida D Greaves | 姆艾爾伊護腿 |
+| 11397 | Meirida D Greaves | 梅里達護腿 |
 | 11398 | Miniomu D Greaves | 姆伊恩伊護腿 |
-| 11399 | Harimeno D Greaves | 赫阿爾伊護腿 |
+| 11399 | Harimeno D Greaves | 哈里梅諾護腿 |
 | 11400 | Deliver D Greaves | 交貨護腿 |
 | 11401 | Asaku D Greaves | 阿斯阿克護腿 |
-| 11402 | Desordre D Greaves | 德艾斯歐護腿 |
-| 11403 | Haragan D Greaves | 赫阿爾阿護腿 |
+| 11402 | Desordre D Greaves | 德索德護腿 |
+| 11403 | Haragan D Greaves | 哈拉加護腿 |
 | 11404 | Abuyado D Greaves | 阿布烏伊護腿 |
 | 11405 | Ruko Z Greaves | 極龍護腿【Ｚ】 |
 | 11406 | Ruko ZF Greaves | 極龍護腿【ＺＦ】 |
@@ -424,20 +424,20 @@
 | 11418 | Plesioth ZF Leggings | 水龍裹腿【ＺＦ】 |
 | 11419 | Plesioth ZY Leggings | 水龍裹腿【ＺＹ】 |
 | 11420 | Plesioth ZX Leggings | 水龍裹腿【ＺＸ】 |
-| 11421 | Sharufu Greaves | 夏爾夫護腿 |
-| 11422 | Sharufu F Greaves | 夏爾夫護腿【Ｆ】 |
-| 11423 | Sharufu FZ Greaves | 夏爾夫護腿【ＦＺ】 |
-| 11424 | Sharufu HS Greaves | 夏爾夫護腿【ＨＳ】 |
-| 11425 | Sharufu GS Greaves | 夏爾夫護腿【ＧＳ】 |
-| 11426 | Sharufu GP Greaves | 夏爾夫護腿【ＧＰ】 |
-| 11427 | Sharufu ZP Greaves | 夏爾夫護腿【ＺＰ】 |
-| 11428 | Sharufu Leggings | 夏爾夫裹腿 |
-| 11429 | Sharufu F Leggings | 夏爾夫裹腿【Ｆ】 |
-| 11430 | Sharufu FZ Leggings | 夏爾夫裹腿【ＦＺ】 |
-| 11431 | Sharufu HS Leggings | 夏爾夫裹腿【ＨＳ】 |
-| 11432 | Sharufu GS Leggings | 夏爾夫裹腿【ＧＳ】 |
-| 11433 | Sharufu GP Leggings | 夏爾夫裹腿【ＧＰ】 |
-| 11434 | Sharufu ZP Leggings | 夏爾夫裹腿【ＺＰ】 |
+| 11421 | Sharufu Greaves | 夏露芙護腿 |
+| 11422 | Sharufu F Greaves | 夏露芙護腿【Ｆ】 |
+| 11423 | Sharufu FZ Greaves | 夏露芙護腿【ＦＺ】 |
+| 11424 | Sharufu HS Greaves | 夏露芙護腿【ＨＳ】 |
+| 11425 | Sharufu GS Greaves | 夏露芙護腿【ＧＳ】 |
+| 11426 | Sharufu GP Greaves | 夏露芙護腿【ＧＰ】 |
+| 11427 | Sharufu ZP Greaves | 夏露芙護腿【ＺＰ】 |
+| 11428 | Sharufu Leggings | 夏露芙裹腿 |
+| 11429 | Sharufu F Leggings | 夏露芙裹腿【Ｆ】 |
+| 11430 | Sharufu FZ Leggings | 夏露芙裹腿【ＦＺ】 |
+| 11431 | Sharufu HS Leggings | 夏露芙裹腿【ＨＳ】 |
+| 11432 | Sharufu GS Leggings | 夏露芙裹腿【ＧＳ】 |
+| 11433 | Sharufu GP Leggings | 夏露芙裹腿【ＧＰ】 |
+| 11434 | Sharufu ZP Leggings | 夏露芙裹腿【ＺＰ】 |
 | 11435 | Kamara Greaves | 可瑪拉護腿 |
 | 11436 | Kamara F Greaves | 可瑪拉護腿【Ｆ】 |
 | 11437 | Kamara FZ Greaves | 可瑪拉護腿【ＦＺ】 |

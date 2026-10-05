@@ -4,26 +4,26 @@
 
 | index | 原文 | 譯文 |
 |---|---|---|
-| 1501 | Rider Suit R | 爾伊德艾套裝【Ｒ】 |
+| 1501 | Rider Suit R | 里德套裝【Ｒ】 |
 | 1502 | Rising Suit R | 爾伊斯伊套裝【Ｒ】 |
-| 1503 | Rider Vest R | 爾伊德艾背心【Ｒ】 |
+| 1503 | Rider Vest R | 里德背心【Ｒ】 |
 | 1504 | Rising Vest R | 爾伊斯伊背心【Ｒ】 |
 | 1505 | Rider Suit Y | 騎手套裝 |
 | 1506 | Rising Suit Y | 昇套裝 |
 | 1507 | Rider Vest Y | 騎手背心 |
 | 1508 | Rising Vest Y | 昇背心 |
-| 1509 | Rider Suit G | 爾伊德艾套裝【Ｇ】 |
+| 1509 | Rider Suit G | 里德套裝【Ｇ】 |
 | 1510 | Rising Suit G | 爾伊斯伊套裝【Ｇ】 |
-| 1511 | Rider Vest G | 爾伊德艾背心【Ｇ】 |
+| 1511 | Rider Vest G | 里德背心【Ｇ】 |
 | 1512 | Rising Vest G | 爾伊斯伊背心【Ｇ】 |
 | 1513 | Robust Diru | 剛健上衣 |
 | 1514 | Robust F Diru | 剛健上衣【Ｆ】 |
 | 1515 | Robust Skin | 剛健皮 |
 | 1516 | Robust F Skin | 剛健皮【Ｆ】 |
-| 1517 | Kukubo Mail | 克烏克烏鎧甲 |
-| 1518 | Kukubo F Mail | 克烏克烏鎧甲【Ｆ】 |
-| 1519 | Kukubo Vest | 克烏克烏背心 |
-| 1520 | Kukubo F Vest | 克烏克烏背心【Ｆ】 |
+| 1517 | Kukubo Mail | 克克波鎧甲 |
+| 1518 | Kukubo F Mail | 克克波鎧甲【Ｆ】 |
+| 1519 | Kukubo Vest | 克克波背心 |
+| 1520 | Kukubo F Vest | 克克波背心【Ｆ】 |
 | 1521 | Falco Mail | 隼鎧甲 |
 | 1522 | Falco F Mail | 隼鎧甲【Ｆ】 |
 | 1523 | Falco Vest | 隼背心 |
@@ -108,10 +108,10 @@
 | 1602 | Steno F Mail・Red | 水竜鎧甲【Ｆ】・赤 |
 | 1603 | Steno Vest・Red | 水竜背心・赤 |
 | 1604 | Steno F Vest・Red | 水竜背心【Ｆ】・赤 |
-| 1605 | Jumpin' Suit | 傑烏姆伊套裝 |
-| 1606 | Jumpin' F Suit | 傑烏姆伊套裝【Ｆ】 |
-| 1607 | Jumpin' Vest | 傑烏姆伊背心 |
-| 1608 | Jumpin' F Vest | 傑烏姆伊背心【Ｆ】 |
+| 1605 | Jumpin' Suit | 朱皮套裝 |
+| 1606 | Jumpin' F Suit | 朱皮套裝【Ｆ】 |
+| 1607 | Jumpin' Vest | 朱皮背心 |
+| 1608 | Jumpin' F Vest | 朱皮背心【Ｆ】 |
 | 1609 | アデュス Mail | 阿杜斯鎧甲 |
 | 1610 | アデュスF Mail | 阿杜斯鎧甲【Ｆ】 |
 | 1611 | アデュス Vest | 阿杜斯背心 |
@@ -120,14 +120,14 @@
 | 1614 | Metenera F Vest | 梅特涅拉背心【Ｆ】 |
 | 1615 | Metenera Suit | 梅特涅拉套裝 |
 | 1616 | Metenera F Suit | 梅特涅拉套裝【Ｆ】 |
-| 1617 | Excelle Mail | 艾克斯艾鎧甲 |
-| 1618 | Excelle F Mail | 艾克斯艾鎧甲【Ｆ】 |
-| 1619 | Excelle Vest | 艾克斯艾背心 |
-| 1620 | Excelle F Vest | 艾克斯艾背心【Ｆ】 |
-| 1621 | Pupen Mail | 普烏普艾鎧甲 |
-| 1622 | Pupen F Mail | 普烏普艾鎧甲【Ｆ】 |
-| 1623 | Pupen Vest | 普烏普艾背心 |
-| 1624 | Pupen F Vest | 普烏普艾背心【Ｆ】 |
+| 1617 | Excelle Mail | 克斯賽爾鎧甲 |
+| 1618 | Excelle F Mail | 克斯賽爾鎧甲【Ｆ】 |
+| 1619 | Excelle Vest | 克斯賽爾背心 |
+| 1620 | Excelle F Vest | 克斯賽爾背心【Ｆ】 |
+| 1621 | Pupen Mail | 普佩鎧甲 |
+| 1622 | Pupen F Mail | 普佩鎧甲【Ｆ】 |
+| 1623 | Pupen Vest | 普佩背心 |
+| 1624 | Pupen F Vest | 普佩背心【Ｆ】 |
 | 1625 | Moss Covered Mail | 苔覆鎧甲 |
 | 1626 | Moss Covered F Mail | 苔覆鎧甲【Ｆ】 |
 | 1627 | Moss Covered Vest | 苔覆背心 |
@@ -165,9 +165,9 @@
 | 1659 | Ruko F Skin | 極龍皮【Ｆ】 |
 | 1660 | Blitz Vest | 布伊特背心 |
 | 1661 | Blitz ケープ | 布伊特鎧甲 |
-| 1662 | Lils Mail | 爾伊爾鎧甲 |
+| 1662 | Lils Mail | 莉鎧甲 |
 | 1663 | ダミー | (dummy) |
-| 1664 | Lils Vest | 爾伊爾背心 |
+| 1664 | Lils Vest | 莉背心 |
 | 1665 | ダミー | (dummy) |
 | 1666 | Kagura FX【胴当て】 | 神樂胴當【ＦＸ】 |
 | 1667 | Kamiza FX [Chestplate 】 | 上座胸甲【ＦＸ】 |
@@ -219,12 +219,12 @@
 | 1713 | ルルスF Vest | 魯魯斯背心【Ｆ】 |
 | 1714 | Nada Suit | 恩阿德阿套裝 |
 | 1715 | Nada F Suit | 恩阿德阿套裝【Ｆ】 |
-| 1716 | Rosa Vest | 爾歐斯阿背心 |
-| 1717 | Rosa F Vest | 爾歐斯阿背心【Ｆ】 |
+| 1716 | Rosa Vest | 蘿薩背心 |
+| 1717 | Rosa F Vest | 蘿薩背心【Ｆ】 |
 | 1718 | Haosu Vest | 赫阿斯烏背心 |
 | 1719 | Haosu F Vest | 赫阿斯烏背心【Ｆ】 |
-| 1720 | Miru Vest | 姆伊爾烏背心 |
-| 1721 | Miru F Vest | 姆伊爾烏背心【Ｆ】 |
+| 1720 | Miru Vest | 蜜露背心 |
+| 1721 | Miru F Vest | 蜜露背心【Ｆ】 |
 | 1722 | Pasu Suit | 普阿斯烏套裝 |
 | 1723 | Pasu F Suit | 普阿斯烏套裝【Ｆ】 |
 | 1724 | Randa の胴当・Yellow | の胴当鎧甲・黄 |
@@ -291,24 +291,24 @@
 | 1785 | Heaven 空F胴着 | 空胴着天鎧甲 |
 | 1786 | Heaven 昇胴着 | 昇胴着天鎧甲 |
 | 1787 | Heaven 昇F胴着 | 昇胴着天鎧甲 |
-| 1788 | Jeamu Mail | 傑艾姆烏鎧甲 |
-| 1789 | Jeamu F Mail | 傑艾姆烏鎧甲【Ｆ】 |
-| 1790 | Amyusu Mail | 阿姆烏斯鎧甲 |
-| 1791 | Amyusu F Mail | 阿姆烏斯鎧甲【Ｆ】 |
+| 1788 | Jeamu Mail | 傑姆鎧甲 |
+| 1789 | Jeamu F Mail | 傑姆鎧甲【Ｆ】 |
+| 1790 | Amyusu Mail | 尤斯鎧甲 |
+| 1791 | Amyusu F Mail | 尤斯鎧甲【Ｆ】 |
 | 1792 | Clevan Mail | 克艾芙阿鎧甲 |
 | 1793 | Clevan F Mail | 克艾芙阿鎧甲【Ｆ】 |
-| 1794 | Meterosu Suit | 姆艾特艾套裝 |
-| 1795 | Meterosu F Suit | 姆艾特艾套裝【Ｆ】 |
+| 1794 | Meterosu Suit | 梅特蘿斯套裝 |
+| 1795 | Meterosu F Suit | 梅特蘿斯套裝【Ｆ】 |
 | 1796 | Shipureru Mail | 夏伊普烏鎧甲 |
 | 1797 | Shipureru F Mail | 夏伊普烏鎧甲【Ｆ】 |
-| 1798 | Toresupa Mail | 特歐爾艾鎧甲 |
-| 1799 | Toresupa F Mail | 特歐爾艾鎧甲【Ｆ】 |
-| 1800 | Suteraru Mail | 斯烏特艾鎧甲 |
-| 1801 | Suteraru F Mail | 斯烏特艾鎧甲【Ｆ】 |
+| 1798 | Toresupa Mail | 托蕾斯拍鎧甲 |
+| 1799 | Toresupa F Mail | 托蕾斯拍鎧甲【Ｆ】 |
+| 1800 | Suteraru Mail | 斯特拉露鎧甲 |
+| 1801 | Suteraru F Mail | 斯特拉露鎧甲【Ｆ】 |
 | 1802 | Hakyura Suit | 赫阿克烏套裝 |
 | 1803 | Hakyura F Suit | 赫阿克烏套裝【Ｆ】 |
-| 1804 | Orutemo F Vest | 歐爾烏特背心【Ｆ】 |
-| 1805 | Orutemo F Suit | 歐爾烏特套裝【Ｆ】 |
+| 1804 | Orutemo F Vest | 露特莫背心【Ｆ】 |
+| 1805 | Orutemo F Suit | 露特莫套裝【Ｆ】 |
 | 1806 | 忍の Shozoku・陰 SP Yellow | 忍の陰裝束【ＳＰ】・黄 |
 | 1807 | 忍の Shozoku・陰 SP Red | 忍の陰裝束【ＳＰ】・赤 |
 | 1808 | 忍の Shozoku・陰 SP Blue | 忍の陰裝束【ＳＰ】・青 |
@@ -320,17 +320,17 @@
 | 1814 | K.Lobster Skin SP Blue | 王龍蝦皮【ＳＰ】・青 |
 | 1815 | Aneshisu F Mail | 阿恩艾夏鎧甲【Ｆ】 |
 | 1816 | Aneshisu F Vest | 阿恩艾夏背心【Ｆ】 |
-| 1817 | Buran F Jacket | 布烏爾阿夾克【Ｆ】 |
+| 1817 | Buran F Jacket | 布拉夾克【Ｆ】 |
 | 1818 | Zwinger Mail | 茲伊恩艾鎧甲 |
 | 1819 | Zwinger Suit | 茲伊恩艾套裝 |
 | 1820 | Demon Lord ノ肩鎧・魁 | 魔王鎧甲魁 |
 | 1821 | 童子ノ肩鎧・魁 | 童子肩鎧魁鎧甲 |
 | 1822 | Melan F Jacket | 紫黑夾克【Ｆ】 |
 | 1823 | Melan F Suit | 紫黑套裝【Ｆ】 |
-| 1824 | Buto F Vest | 布烏特歐背心【Ｆ】 |
-| 1825 | Himeros FX Mail | 赫伊姆艾鎧甲【ＦＸ】 |
+| 1824 | Buto F Vest | 布托背心【Ｆ】 |
+| 1825 | Himeros FX Mail | 希梅蘿鎧甲【ＦＸ】 |
 | 1826 | Charien FX Vest | 夏里安背心【ＦＸ】 |
-| 1827 | Bureshisu FX Mail | 布烏爾艾鎧甲【ＦＸ】 |
+| 1827 | Bureshisu FX Mail | 布蕾修斯鎧甲【ＦＸ】 |
 | 1828 | Rathalos LX Mail | 雄火龍鎧甲 |
 | 1829 | Rath Soul RX Mail | 火龍魂鎧甲 |
 | 1830 | Khezu LX Mail | 奇怪龍鎧甲 |
@@ -365,14 +365,14 @@
 | 1859 | Rail F Mail | 軌鎧甲【Ｆ】 |
 | 1860 | Rail Vest | 軌背心 |
 | 1861 | Rail F Vest | 軌背心【Ｆ】 |
-| 1862 | Rudeos Mail | 爾烏德艾鎧甲 |
-| 1863 | Rudeos F Mail | 爾烏德艾鎧甲【Ｆ】 |
-| 1864 | Rudeos Vest | 爾烏德艾背心 |
-| 1865 | Rudeos F Vest | 爾烏德艾背心【Ｆ】 |
-| 1866 | Orchesis Mail | 歐爾艾斯鎧甲 |
-| 1867 | Orchesis F Mail | 歐爾艾斯鎧甲【Ｆ】 |
-| 1868 | Orchesis Vest | 歐爾艾斯背心 |
-| 1869 | Orchesis F Vest | 歐爾艾斯背心【Ｆ】 |
+| 1862 | Rudeos Mail | 露德鎧甲 |
+| 1863 | Rudeos F Mail | 露德鎧甲【Ｆ】 |
+| 1864 | Rudeos Vest | 露德背心 |
+| 1865 | Rudeos F Vest | 露德背心【Ｆ】 |
+| 1866 | Orchesis Mail | 切西鎧甲 |
+| 1867 | Orchesis F Mail | 切西鎧甲【Ｆ】 |
+| 1868 | Orchesis Vest | 切西背心 |
+| 1869 | Orchesis F Vest | 切西背心【Ｆ】 |
 | 1870 | フルイト Mail | 芙魯伊托鎧甲 |
 | 1871 | フルイトF Mail | 芙魯伊托鎧甲【Ｆ】 |
 | 1872 | ゲレオン Mail | 蓋雷歐恩鎧甲 |
@@ -422,11 +422,11 @@
 | 1916 | Beru Vest SP Purple | 舞雷龍背心【ＳＰ】・紫 |
 | 1917 | Rurudi Mail | 魯魯迪鎧甲 |
 | 1918 | Rurudi Vest | 魯魯迪背心 |
-| 1919 | Arc F Mail | 阿爾鎧甲【Ｆ】 |
-| 1920 | Arc F Vest | 阿爾背心【Ｆ】 |
+| 1919 | Arc F Mail | 亞克鎧甲【Ｆ】 |
+| 1920 | Arc F Vest | 亞克背心【Ｆ】 |
 | 1921 | Strega FX Mail | 魔女鎧甲【ＦＸ】 |
 | 1922 | Strega FX Vest | 魔女背心【ＦＸ】 |
-| 1923 | Rath Heart RX Mail | 爾阿斯艾鎧甲 |
+| 1923 | Rath Heart RX Mail | 拉斯赫特鎧甲 |
 | 1924 | Rathian LX Mail | 雌火龍鎧甲 |
 | 1925 | Vespoid RX Vest | 巨蜂背心 |
 | 1926 | Vespoid LX Vest | 巨蜂背心 |
@@ -438,11 +438,11 @@
 | 1932 | フレサ Mail | 芙雷薩鎧甲 |
 | 1933 | クラ Beru Mail | 舞雷龍鎧甲 |
 | 1934 | シルエラ Mail | 希魯艾拉鎧甲 |
-| 1935 | カメ Lea Mail | 爾艾鎧甲 |
+| 1935 | カメ Lea Mail | 勒鎧甲 |
 | 1936 | ハシント Mail | 哈希恩托鎧甲 |
 | 1937 | セレソ Mail | 塞雷索鎧甲 |
 | 1938 | オリバ Mail | 歐里巴鎧甲 |
-| 1939 | ラウレル Vest | 拉烏雷魯背心 |
+| 1939 | ラウレル Vest | 拉宇蕾露背心 |
 | 1940 | ココ Vest | 科科背心 |
 | 1941 | グラナダ Vest | 古拉納達背心 |
 | 1942 | アトロ Jacket | 阿托羅夾克 |

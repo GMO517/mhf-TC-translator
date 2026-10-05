@@ -24,14 +24,14 @@
 | 10518 | Wander GS Boots・Black | 流浪靴【ＧＳ】・黑 |
 | 10519 | Wander GP Boots・Black | 流浪靴【ＧＰ】・黑 |
 | 10520 | Wander ZP Boots・Black | 流浪靴【ＺＰ】・黑 |
-| 10521 | Gore Greaves | 格歐爾艾護腿 |
-| 10522 | Gore G Greaves | 格歐爾艾護腿【Ｇ】 |
-| 10523 | Gore GF Greaves | 格歐爾艾護腿【ＧＦ】 |
-| 10524 | Gore GX Greaves | 格歐爾艾護腿【ＧＸ】 |
-| 10525 | Gore Leggings | 格歐爾艾裹腿 |
-| 10526 | Gore G Leggings | 格歐爾艾裹腿【Ｇ】 |
-| 10527 | Gore GF Leggings | 格歐爾艾裹腿【ＧＦ】 |
-| 10528 | Gore GX Leggings | 格歐爾艾裹腿【ＧＸ】 |
+| 10521 | Gore Greaves | 戈蕾護腿 |
+| 10522 | Gore G Greaves | 戈蕾護腿【Ｇ】 |
+| 10523 | Gore GF Greaves | 戈蕾護腿【ＧＦ】 |
+| 10524 | Gore GX Greaves | 戈蕾護腿【ＧＸ】 |
+| 10525 | Gore Leggings | 戈蕾裹腿 |
+| 10526 | Gore G Leggings | 戈蕾裹腿【Ｇ】 |
+| 10527 | Gore GF Leggings | 戈蕾裹腿【ＧＦ】 |
+| 10528 | Gore GX Leggings | 戈蕾裹腿【ＧＸ】 |
 | 10529 | Zena G Greaves | 茲艾恩阿護腿【Ｇ】 |
 | 10530 | Zena GF Greaves | 茲艾恩阿護腿【ＧＦ】 |
 | 10531 | Zena GX Greaves | 茲艾恩阿護腿【ＧＸ】 |
@@ -154,20 +154,20 @@
 | 10648 | Youthclad ノ足枷G | 伊歐斯阿護腿【Ｇ】 |
 | 10649 | Youthclad ノ足枷GF | 伊歐斯阿護腿【Ｆ】 |
 | 10650 | Youthclad ノ足枷GX | 伊歐斯阿護腿【ＧＸ】 |
-| 10651 | Rave Feet | 爾阿芙艾足 |
-| 10652 | Rave F Feet | 爾阿芙艾足【Ｆ】 |
-| 10653 | Rave FY Feet | 爾阿芙艾足 |
-| 10654 | Rave HS Feet | 爾阿芙艾足【ＨＳ】 |
-| 10655 | Rave G Feet | 爾阿芙艾足【Ｇ】 |
-| 10656 | Rave GF Feet | 爾阿芙艾足【ＧＦ】 |
-| 10657 | Rave GX Feet | 爾阿芙艾足【ＧＸ】 |
-| 10658 | Rave Boots | 爾阿芙艾靴 |
-| 10659 | Rave F Boots | 爾阿芙艾靴【Ｆ】 |
-| 10660 | Rave FY Boots | 爾阿芙艾靴 |
-| 10661 | Rave HS Boots | 爾阿芙艾靴【ＨＳ】 |
-| 10662 | Rave G Boots | 爾阿芙艾靴【Ｇ】 |
-| 10663 | Rave GF Boots | 爾阿芙艾靴【ＧＦ】 |
-| 10664 | Rave GX Boots | 爾阿芙艾靴【ＧＸ】 |
+| 10651 | Rave Feet | 拉薇足 |
+| 10652 | Rave F Feet | 拉薇足【Ｆ】 |
+| 10653 | Rave FY Feet | 拉薇足 |
+| 10654 | Rave HS Feet | 拉薇足【ＨＳ】 |
+| 10655 | Rave G Feet | 拉薇足【Ｇ】 |
+| 10656 | Rave GF Feet | 拉薇足【ＧＦ】 |
+| 10657 | Rave GX Feet | 拉薇足【ＧＸ】 |
+| 10658 | Rave Boots | 拉薇靴 |
+| 10659 | Rave F Boots | 拉薇靴【Ｆ】 |
+| 10660 | Rave FY Boots | 拉薇靴 |
+| 10661 | Rave HS Boots | 拉薇靴【ＨＳ】 |
+| 10662 | Rave G Boots | 拉薇靴【Ｇ】 |
+| 10663 | Rave GF Boots | 拉薇靴【ＧＦ】 |
+| 10664 | Rave GX Boots | 拉薇靴【ＧＸ】 |
 | 10665 | Wander D Feet・Blue | 沃阿恩艾足・青 |
 | 10666 | Wander D Feet・Red | 沃阿恩艾足・赤 |
 | 10667 | Wander D Feet・White | 沃阿恩艾足・白 |
@@ -175,7 +175,7 @@
 | 10669 | Blue Ice Emperor D Feet | 青冰帝足 |
 | 10670 | White Ice Emperor D Feet | 白冰帝足 |
 | 10671 | Red Ice Emperor D Feet | 赤冰帝足 |
-| 10672 | Rance C Greaves | 爾阿恩艾護腿 |
+| 10672 | Rance C Greaves | 拉賽護腿 |
 | 10673 | Santa D Feet | 斯阿恩阿足 |
 | 10674 | Anteka D Feet | 雪鹿足 |
 | 10675 | Chiarim ZP Feet | 奇亞琳足【ＺＰ】 |
@@ -189,12 +189,12 @@
 | 10683 | Katante ZY Leggings | 克阿特阿裹腿【ＺＹ】 |
 | 10684 | Katante ZX Leggings | 克阿特阿裹腿【ＺＸ】 |
 | 10685 | Sakufi D Feet | 斯阿克烏足 |
-| 10686 | Asumo D Feet | 阿斯烏姆足 |
+| 10686 | Asumo D Feet | 斯莫足 |
 | 10687 | Dios D Feet | 德伊斯足 |
-| 10688 | Asteli D Feet・White | 阿斯艾爾足・白 |
-| 10689 | Asteli D Feet・Blue | 阿斯艾爾足・青 |
-| 10690 | Asteli D Feet・Red | 阿斯艾爾足・赤 |
-| 10691 | Asteli D Feet・Black | 阿斯艾爾足・黑 |
+| 10688 | Asteli D Feet・White | 斯特莉足・白 |
+| 10689 | Asteli D Feet・Blue | 斯特莉足・青 |
+| 10690 | Asteli D Feet・Red | 斯特莉足・赤 |
+| 10691 | Asteli D Feet・Black | 斯特莉足・黑 |
 | 10692 | Lien D Feet・Blue | 爾伊恩足・青 |
 | 10693 | Lien D Feet・Red | 爾伊恩足・赤 |
 | 10694 | Lien D Feet・Black | 爾伊恩足・黑 |
@@ -202,66 +202,66 @@
 | 10696 | Lien D Feet・Crimson | 爾伊恩足・紅 |
 | 10697 | Lien D Feet・藍 | 藍足 |
 | 10698 | Lien D Feet・Peach | 爾伊恩足・桃 |
-| 10699 | Carrol D Feet・Black | 克阿爾歐足・黑 |
-| 10700 | Carrol D Feet・Blue | 克阿爾歐足・青 |
-| 10701 | Carrol D Feet・White | 克阿爾歐足・白 |
-| 10702 | Carrol D Feet・Red | 克阿爾歐足・赤 |
-| 10703 | Carrol D Feet・Peach | 克阿爾歐足・桃 |
+| 10699 | Carrol D Feet・Black | 可爾足・黑 |
+| 10700 | Carrol D Feet・Blue | 可爾足・青 |
+| 10701 | Carrol D Feet・White | 可爾足・白 |
+| 10702 | Carrol D Feet・Red | 可爾足・赤 |
+| 10703 | Carrol D Feet・Peach | 可爾足・桃 |
 | 10704 | Gothic D Greaves | 格歐斯伊護腿 |
 | 10705 | Kirin Dレガース | 麒麟護腿 |
-| 10706 | Farunokku D Greaves | 芙阿爾烏護腿 |
-| 10707 | Farunokku D Leggings | 芙阿爾烏裹腿 |
+| 10706 | Farunokku D Greaves | 法露諾克護腿 |
+| 10707 | Farunokku D Leggings | 法露諾克裹腿 |
 | 10708 | Pokara D Greaves | 普歐克阿護腿 |
 | 10709 | Pokara D Leggings | 普歐克阿裹腿 |
-| 10710 | Genesis D [Greaves 】 | 格艾恩艾護腿 |
-| 10711 | Motion D [Greaves 】 | 姆歐特伊護腿 |
+| 10710 | Genesis D [Greaves 】 | 蓋奈西護腿 |
+| 10711 | Motion D [Greaves 】 | 莫恩護腿 |
 | 10712 | Lightning D [Greaves 】 | 雷光護腿 |
 | 10713 | Thunder D [Greaves 】 | 雷護腿 |
-| 10714 | Toridcless D Greaves | 特歐爾伊護腿 |
-| 10715 | Toridcless D Leggings | 特歐爾伊裹腿 |
+| 10714 | Toridcless D Greaves | 托里克雷護腿 |
+| 10715 | Toridcless D Leggings | 托里克雷裹腿 |
 | 10716 | Guan D Greaves | 格烏恩護腿 |
 | 10717 | Guan D Leggings | 格烏恩裹腿 |
-| 10718 | Varusa D Greaves | 芙阿爾烏護腿 |
-| 10719 | Varusa D Leggings | 芙阿爾烏裹腿 |
+| 10718 | Varusa D Greaves | 瓦露薩護腿 |
+| 10719 | Varusa D Leggings | 瓦露薩裹腿 |
 | 10720 | Toa D Greaves | 特歐斯護腿 |
 | 10721 | Toa D Leggings | 特歐斯裹腿 |
 | 10722 | Blitz Dレガース | 布伊特護腿 |
-| 10723 | Stroma D Greaves | 斯歐姆阿護腿 |
-| 10724 | Stroma D Leggings | 斯歐姆阿裹腿 |
+| 10723 | Stroma D Greaves | 斯特瑪護腿 |
+| 10724 | Stroma D Leggings | 斯特瑪裹腿 |
 | 10725 | Inagami D【具足】 | 雅翁龍具足 |
 | 10726 | Inagami D【具足】 | 雅翁龍具足 |
-| 10727 | Altera D Greaves | 阿爾艾爾護腿 |
-| 10728 | Altera D Leggings | 阿爾艾爾裹腿 |
-| 10729 | Pobo D Greaves | 普歐布歐護腿 |
-| 10730 | Pobo D Leggings | 普歐布歐裹腿 |
+| 10727 | Altera D Greaves | 特拉護腿 |
+| 10728 | Altera D Leggings | 特拉裹腿 |
+| 10729 | Pobo D Greaves | 珀波護腿 |
+| 10730 | Pobo D Leggings | 珀波裹腿 |
 | 10731 | Zinogre C Greaves | 茲伊恩歐護腿 |
 | 10732 | Zinogre C Leggings | 茲伊恩歐裹腿 |
-| 10733 | Hornetaur UD Greaves | 赫歐爾艾護腿 |
-| 10734 | Hornetaur UD Leggings | 赫歐爾艾裹腿 |
+| 10733 | Hornetaur UD Greaves | 霍恩塔露護腿 |
+| 10734 | Hornetaur UD Leggings | 霍恩塔露裹腿 |
 | 10735 | Rathalos D Greaves | 爾阿斯阿護腿 |
 | 10736 | Rathalos D Leggings | 爾阿斯阿裹腿 |
 | 10737 | Gogomoa D Greaves | 跳緋獸護腿 |
 | 10738 | Gogomoa D Leggings | 跳緋獸裹腿 |
-| 10739 | Azul D Greaves | 阿茲烏爾護腿 |
-| 10740 | Azul D Leggings | 阿茲烏爾裹腿 |
-| 10741 | Harvest D Boots | 赫阿爾艾靴 |
-| 10742 | Harvest D Leggings | 赫阿爾艾裹腿 |
-| 10743 | Melan D Greaves | 姆艾爾阿護腿 |
-| 10744 | Melan D Leggings | 姆艾爾阿裹腿 |
-| 10745 | Diru D Greaves | 德伊爾烏護腿 |
-| 10746 | Diru D Leggings | 德伊爾烏裹腿 |
+| 10739 | Azul D Greaves | 茲護腿 |
+| 10740 | Azul D Leggings | 茲裹腿 |
+| 10741 | Harvest D Boots | 哈薇靴 |
+| 10742 | Harvest D Leggings | 哈薇裹腿 |
+| 10743 | Melan D Greaves | 梅拉恩德護腿 |
+| 10744 | Melan D Leggings | 梅拉恩德裹腿 |
+| 10745 | Diru D Greaves | 迪露護腿 |
+| 10746 | Diru D Leggings | 迪露裹腿 |
 | 10747 | Tandress D Feet | 特阿恩艾足 |
 | 10748 | Tandress D Boots | 特阿恩艾靴 |
-| 10749 | Rance D Greaves | 爾阿恩艾護腿 |
-| 10750 | Rance D Leggings | 爾阿恩艾裹腿 |
+| 10749 | Rance D Greaves | 拉賽護腿 |
+| 10750 | Rance D Leggings | 拉賽裹腿 |
 | 10751 | Ganeto D Greaves | 格阿恩艾護腿 |
 | 10752 | Ganeto D Leggings | 格阿恩艾裹腿 |
-| 10753 | Chiru D Greaves | 奇伊爾烏護腿 |
-| 10754 | Chiru D Leggings | 奇伊爾烏裹腿 |
+| 10753 | Chiru D Greaves | 奇露護腿 |
+| 10754 | Chiru D Leggings | 奇露裹腿 |
 | 10755 | Shiusu D Greaves | 夏伊斯烏護腿 |
 | 10756 | Shiusu D Leggings | 夏伊斯烏裹腿 |
 | 10757 | Once D Greaves・無 | 無護腿 |
-| 10758 | Pale Sakura D【 Hakama 】 | 普阿爾艾袴 |
+| 10758 | Pale Sakura D【 Hakama 】 | 拍勒薩克袴 |
 | 10759 | Pelegri Feet | 佩勒格里足 |
 | 10760 | Pelegri F Feet | 佩勒格里足【Ｆ】 |
 | 10761 | Pelegri FZ Feet | 佩勒格里足【ＦＺ】 |
@@ -296,7 +296,7 @@
 | 10790 | Wasou Greaves ZP | 和裝護腿【ＺＰ】 |
 | 10791 | Howla D Feet | 赫歐沃阿足 |
 | 10792 | Panse D Feet | 普阿恩艾足 |
-| 10793 | Marriage D Feet | 姆阿爾伊足 |
+| 10793 | Marriage D Feet | 瑪爾蓋足 |
 | 10794 | Yukine D Feet | 雪音足 |
 | 10795 | Snow Miku D Feet | 雪初音足 |
 | 10796 | Miku D Feet | 初音未來足 |
@@ -305,12 +305,12 @@
 | 10799 | Felyne D Greaves | 艾路猫護腿 |
 | 10800 | Tabby D Greaves | 特阿布護腿 |
 | 10801 | Brown D Greaves | 布歐沃護腿 |
-| 10802 | Calico D Greaves | 克阿爾伊護腿 |
-| 10803 | Monotone D Greaves | 姆歐恩歐護腿 |
+| 10802 | Calico D Greaves | 可莉古護腿 |
+| 10803 | Monotone D Greaves | 莫諾托奈護腿 |
 | 10804 | Chashiro D Greaves | 奇阿夏伊護腿 |
-| 10805 | Two-tone D Greaves | 特歐斯歐護腿 |
+| 10805 | Two-tone D Greaves | 沃托奈護腿 |
 | 10806 | King Beetle D Crura | 王甲蟲腿甲 |
-| 10807 | Butterfly D Crura | 布烏特艾腿甲 |
+| 10807 | Butterfly D Crura | 布特芙腿甲 |
 | 10808 | Demon Lord ノ足枷D | 魔王護腿 |
 | 10809 | Demon Tale ノ足枷D | 魔譚護腿 |
 | 10810 | 鬼凛ノ足枷D | 鬼凛足枷護腿 |
@@ -320,8 +320,8 @@
 | 10814 | Kaiser C Leggings | 克阿斯艾裹腿 |
 | 10815 | Dragon D Feet | 龍足 |
 | 10816 | Dragon D Legs | 龍腿甲 |
-| 10817 | Nargacuga C Greaves | 恩阿爾阿護腿 |
-| 10818 | Nargacuga C Leggings | 恩阿爾阿裹腿 |
+| 10817 | Nargacuga C Greaves | 娜加庫加護腿 |
+| 10818 | Nargacuga C Leggings | 娜加庫加裹腿 |
 | 10819 | Burning Cliff GX [Hakama 】 | 燃崖袴【ＧＸ】 |
 | 10820 | Crimson Cliff GX [Hakama 】 | 深紅崖袴【ＧＸ】 |
 | 10821 | Vashimu Z Greaves | 尾晶蠍護腿【Ｚ】 |
@@ -340,20 +340,20 @@
 | 10834 | Tigrex ZF Leggings | 轟龍裹腿【ＺＦ】 |
 | 10835 | Tigrex ZY Leggings | 轟龍裹腿【ＺＹ】 |
 | 10836 | Tigrex ZX Leggings | 轟龍裹腿【ＺＸ】 |
-| 10837 | Adel Feet | 阿黛爾足 |
-| 10838 | Adel F Feet | 阿黛爾足【Ｆ】 |
-| 10839 | Adel FZ Feet | 阿黛爾足【ＦＺ】 |
-| 10840 | Adel HS Feet | 阿黛爾足【ＨＳ】 |
-| 10841 | Adel GS Feet | 阿黛爾足【ＧＳ】 |
-| 10842 | Adel GP Feet | 阿黛爾足【ＧＰ】 |
-| 10843 | Adel ZP Feet | 阿黛爾足【ＺＰ】 |
-| 10844 | Adel Boots | 阿黛爾靴 |
-| 10845 | Adel F Boots | 阿黛爾靴【Ｆ】 |
-| 10846 | Adel FZ Boots | 阿黛爾靴【ＦＺ】 |
-| 10847 | Adel HS Boots | 阿黛爾靴【ＨＳ】 |
-| 10848 | Adel GS Boots | 阿黛爾靴【ＧＳ】 |
-| 10849 | Adel GP Boots | 阿黛爾靴【ＧＰ】 |
-| 10850 | Adel ZP Boots | 阿黛爾靴【ＺＰ】 |
+| 10837 | Adel Feet | 亞德露足 |
+| 10838 | Adel F Feet | 亞德露足【Ｆ】 |
+| 10839 | Adel FZ Feet | 亞德露足【ＦＺ】 |
+| 10840 | Adel HS Feet | 亞德露足【ＨＳ】 |
+| 10841 | Adel GS Feet | 亞德露足【ＧＳ】 |
+| 10842 | Adel GP Feet | 亞德露足【ＧＰ】 |
+| 10843 | Adel ZP Feet | 亞德露足【ＺＰ】 |
+| 10844 | Adel Boots | 亞德露靴 |
+| 10845 | Adel F Boots | 亞德露靴【Ｆ】 |
+| 10846 | Adel FZ Boots | 亞德露靴【ＦＺ】 |
+| 10847 | Adel HS Boots | 亞德露靴【ＨＳ】 |
+| 10848 | Adel GS Boots | 亞德露靴【ＧＳ】 |
+| 10849 | Adel GP Boots | 亞德露靴【ＧＰ】 |
+| 10850 | Adel ZP Boots | 亞德露靴【ＺＰ】 |
 | 10851 | Rocbouquet Feet | 蘿克布凱足 |
 | 10852 | Rocbouquet F Feet | 蘿克布凱足【Ｆ】 |
 | 10853 | Rocbouquet FZ Feet | 蘿克布凱足【ＦＺ】 |
@@ -368,20 +368,20 @@
 | 10862 | Rocbouquet GS Boots | 蘿克布凱靴【ＧＳ】 |
 | 10863 | Rocbouquet GP Boots | 蘿克布凱靴【ＧＰ】 |
 | 10864 | Rocbouquet ZP Boots | 蘿克布凱靴【ＺＰ】 |
-| 10865 | Alkaiser Feet | 阿爾凱撒足 |
-| 10866 | Alkaiser F Feet | 阿爾凱撒足【Ｆ】 |
-| 10867 | Alkaiser FZ Feet | 阿爾凱撒足【ＦＺ】 |
-| 10868 | Alkaiser HS Feet | 阿爾凱撒足【ＨＳ】 |
-| 10869 | Alkaiser GS Feet | 阿爾凱撒足【ＧＳ】 |
-| 10870 | Alkaiser GP Feet | 阿爾凱撒足【ＧＰ】 |
-| 10871 | Alkaiser ZP Feet | 阿爾凱撒足【ＺＰ】 |
-| 10872 | Alkaiser Boots | 阿爾凱撒靴 |
-| 10873 | Alkaiser F Boots | 阿爾凱撒靴【Ｆ】 |
-| 10874 | Alkaiser FZ Boots | 阿爾凱撒靴【ＦＺ】 |
-| 10875 | Alkaiser HS Boots | 阿爾凱撒靴【ＨＳ】 |
-| 10876 | Alkaiser GS Boots | 阿爾凱撒靴【ＧＳ】 |
-| 10877 | Alkaiser GP Boots | 阿爾凱撒靴【ＧＰ】 |
-| 10878 | Alkaiser ZP Boots | 阿爾凱撒靴【ＺＰ】 |
+| 10865 | Alkaiser Feet | 亞露可伊足 |
+| 10866 | Alkaiser F Feet | 亞露可伊足【Ｆ】 |
+| 10867 | Alkaiser FZ Feet | 亞露可伊足【ＦＺ】 |
+| 10868 | Alkaiser HS Feet | 亞露可伊足【ＨＳ】 |
+| 10869 | Alkaiser GS Feet | 亞露可伊足【ＧＳ】 |
+| 10870 | Alkaiser GP Feet | 亞露可伊足【ＧＰ】 |
+| 10871 | Alkaiser ZP Feet | 亞露可伊足【ＺＰ】 |
+| 10872 | Alkaiser Boots | 亞露可伊靴 |
+| 10873 | Alkaiser F Boots | 亞露可伊靴【Ｆ】 |
+| 10874 | Alkaiser FZ Boots | 亞露可伊靴【ＦＺ】 |
+| 10875 | Alkaiser HS Boots | 亞露可伊靴【ＨＳ】 |
+| 10876 | Alkaiser GS Boots | 亞露可伊靴【ＧＳ】 |
+| 10877 | Alkaiser GP Boots | 亞露可伊靴【ＧＰ】 |
+| 10878 | Alkaiser ZP Boots | 亞露可伊靴【ＺＰ】 |
 | 10879 | Claudia Feet | 克勞蒂亞足 |
 | 10880 | Claudia F Feet | 克勞蒂亞足【Ｆ】 |
 | 10881 | Claudia FZ Feet | 克勞蒂亞足【ＦＺ】 |
@@ -445,40 +445,40 @@
 | 10939 | Pashio G Leggings | 普阿夏伊裹腿【Ｇ】 |
 | 10940 | Pashio GF Leggings | 普阿夏伊裹腿【ＧＦ】 |
 | 10941 | Pashio GX Leggings | 普阿夏伊裹腿【ＧＸ】 |
-| 10942 | Harudo D Greaves | 赫阿爾烏護腿 |
-| 10943 | Harudo D Leggings | 赫阿爾烏裹腿 |
-| 10944 | Elegance D [Greaves 】 | 艾爾艾格護腿 |
+| 10942 | Harudo D Greaves | 哈露多護腿 |
+| 10943 | Harudo D Leggings | 哈露多裹腿 |
+| 10944 | Elegance D [Greaves 】 | 勒加賽護腿 |
 | 10945 | Grace D [Greaves 】 | 恩寵護腿 |
-| 10946 | Meraginasu D Greaves | 姆艾爾阿護腿 |
-| 10947 | Meraginasu D Leggings | 姆艾爾阿裹腿 |
-| 10948 | Hesyumu D Feet | 赫艾斯烏足 |
+| 10946 | Meraginasu D Greaves | 梅拉吉娜護腿 |
+| 10947 | Meraginasu D Leggings | 梅拉吉娜裹腿 |
+| 10948 | Hesyumu D Feet | 赫尤姆足 |
 | 10949 | Kasamie D Feet | 克阿斯阿足 |
-| 10950 | Cielo D Feet | 克伊爾歐足 |
+| 10950 | Cielo D Feet | 奇蘿足 |
 | 10951 | Vichi D Feet | 芙伊奇伊足 |
-| 10952 | Adel D Feet | 阿德艾爾足 |
-| 10953 | Rocbouquet D Feet | 爾歐克歐足 |
-| 10954 | Alkaiser D Feet | 阿爾阿斯足 |
+| 10952 | Adel D Feet | 德足 |
+| 10953 | Rocbouquet D Feet | 蘿波奎足 |
+| 10954 | Alkaiser D Feet | 克艾賽足 |
 | 10955 | Claudia D Feet | 克阿德伊足 |
 | 10956 | Kinosu D Greaves | 克伊恩歐護腿 |
-| 10957 | Himeros D Greaves | 赫伊姆艾護腿 |
-| 10958 | Charien D Leggings | 奇阿爾伊裹腿 |
-| 10959 | Arietta D Leg | 阿爾伊特腿 |
+| 10957 | Himeros D Greaves | 希梅蘿護腿 |
+| 10958 | Charien D Leggings | 夏里恩德裹腿 |
+| 10959 | Arietta D Leg | 里特腿 |
 | 10960 | Craft D Boots | 工匠靴 |
 | 10961 | Shieri D Greaves | 夏伊爾伊護腿 |
-| 10962 | Pupen D Greaves | 普烏普艾護腿 |
-| 10963 | Moss Covered D Greaves | 姆歐斯歐護腿 |
-| 10964 | Excelle D Greaves | 艾克斯艾護腿 |
-| 10965 | Ordre D Greaves | 歐爾艾斯護腿 |
-| 10966 | Rath Duo D Greaves | 爾阿斯烏護腿 |
+| 10962 | Pupen D Greaves | 普佩恩德護腿 |
+| 10963 | Moss Covered D Greaves | 莫斯古薇護腿 |
+| 10964 | Excelle D Greaves | 克斯賽爾護腿 |
+| 10965 | Ordre D Greaves | 德護腿 |
+| 10966 | Rath Duo D Greaves | 拉斯杜護腿 |
 | 10967 | Atra D Greaves | 阿特阿斯護腿 |
 | 10968 | Madaru D Greaves | 姆阿德阿護腿 |
 | 10969 | Shasse D Greaves | 夏阿斯艾護腿 |
-| 10970 | Orchesis D Greaves | 歐爾艾斯護腿 |
+| 10970 | Orchesis D Greaves | 切西護腿 |
 | 10971 | Blize D Greaves | 布伊茲艾護腿 |
 | 10972 | Quoiz D Feet | 斯烏茲足 |
-| 10973 | Kalais D Feet | 克阿爾阿足 |
-| 10974 | Lucchese D Feet | 爾烏克艾足 |
-| 10975 | Entora D Greaves | 艾恩歐爾護腿 |
+| 10973 | Kalais D Feet | 可拉足 |
+| 10974 | Lucchese D Feet | 露切賽足 |
+| 10975 | Entora D Greaves | 托拉護腿 |
 | 10976 | YoRHa No.9 Type S Feet | 寄葉九號型足【Ｓ】 |
 | 10977 | YoRHa No.9 Type S F Feet | 寄葉九號型足【Ｆ】 |
 | 10978 | YoRHa No.9 Type S FZ Feet | 寄葉九號型足【ＦＺ】 |

@@ -13,12 +13,12 @@
 | 12507 | Remobra Belt PD White | 翼蛇龍腰帶【ＰＤ】・白 |
 | 12508 | Remobra Belt PD Yellow | 翼蛇龍腰帶【ＰＤ】・黄 |
 | 12509 | Remobra Belt PD Black | 翼蛇龍腰帶【ＰＤ】・黑 |
-| 12510 | Harze D Belt | 赫阿爾艾腰帶 |
-| 12511 | Revenants D Navel | 爾艾芙艾臍甲 |
-| 12512 | Kukubo D Coat | 克烏克烏腰衣 |
+| 12510 | Harze D Belt | 哈澤腰帶 |
+| 12511 | Revenants D Navel | 蕾薇娜臍甲 |
+| 12512 | Kukubo D Coat | 克克波腰衣 |
 | 12513 | Kakabu D Coat | 克阿克阿腰衣 |
-| 12514 | Aruru D Coat | 阿爾烏爾腰衣 |
-| 12515 | Suzaku・Kensei D Coil | 朱雀斯烏茲阿腰甲 |
+| 12514 | Aruru D Coat | 露露腰衣 |
+| 12515 | Suzaku・Kensei D Coil | 朱雀斯扎克凱腰甲 |
 | 12516 | Suzaku・双龍D Coil | 朱雀双龍腰甲 |
 | 12517 | Suzaku・剣王D Coil | 朱雀剣王腰甲 |
 | 12518 | Suzaku・刀神D Coil | 朱雀刀神腰甲 |
@@ -64,38 +64,38 @@
 | 12558 | Gravios Coil PD Black | 鎧龍腰甲【ＰＤ】・黑 |
 | 12559 | Gravios Coil PD Blue | 鎧龍腰甲【ＰＤ】・青 |
 | 12560 | Gravios Coil PD Red | 鎧龍腰甲【ＰＤ】・赤 |
-| 12561 | Sharuru D Coil | 夏阿爾烏腰甲 |
-| 12562 | Neriotori Obi D | 恩艾爾伊帶 |
-| 12563 | Anorupatisu ZD Coil | 阿恩歐爾腰甲 |
-| 12564 | Anorupatisu ZD Coat | 阿恩歐爾腰衣 |
+| 12561 | Sharuru D Coil | 修露露腰甲 |
+| 12562 | Neriotori Obi D | 奈里托里帶 |
+| 12563 | Anorupatisu ZD Coil | 諾露拍蒂腰甲 |
+| 12564 | Anorupatisu ZD Coat | 諾露拍蒂腰衣 |
 | 12565 | Dylan D Coil | 德阿恩腰甲 |
 | 12566 | Dibble D Coil | 德伊布艾腰甲 |
 | 12567 | Fins D Coil | 芙伊恩腰甲 |
 | 12568 | Dins D Coil | 德伊恩腰甲 |
-| 12569 | Charis D Coil | 奇阿爾伊腰甲 |
-| 12570 | Miriam D Coil | 姆伊爾伊腰甲 |
-| 12571 | Lenigan D Coil | 爾艾恩伊腰甲 |
+| 12569 | Charis D Coil | 夏里腰甲 |
+| 12570 | Miriam D Coil | 蜜里腰甲 |
+| 12571 | Lenigan D Coil | 勒尼加腰甲 |
 | 12572 | 執事 Maid 色替え | 執事色替え腰甲 |
 | 12573 | Katante D Coil | 克阿特阿腰甲 |
 | 12574 | Rikante D Coil | 爾伊克阿腰甲 |
-| 12575 | Merente D Coil | 姆艾爾艾腰甲 |
+| 12575 | Merente D Coil | 梅蕾特腰甲 |
 | 12576 | Utante D Coil | 烏特阿恩腰甲 |
-| 12577 | Brooke D Faulds | 布歐克艾腰甲 |
-| 12578 | Shirukku D Faulds | 夏伊爾烏腰甲 |
-| 12579 | Gorukku D Faulds | 格歐爾烏腰甲 |
+| 12577 | Brooke D Faulds | 古蘿布腰甲 |
+| 12578 | Shirukku D Faulds | 古蘿布腰甲 |
+| 12579 | Gorukku D Faulds | 古蘿布腰甲 |
 | 12580 | Kiyoshi Obi D | 克伊伊歐帶 |
 | 12581 | Kashoku Obi D | 克阿夏歐帶 |
 | 12582 | Jyaga D Faulds | 傑阿格阿腰甲 |
-| 12583 | Cure D Faulds | 克烏爾艾腰甲 |
+| 12583 | Cure D Faulds | 庫蕾腰甲 |
 | 12584 | Jess D Faulds | 傑艾斯腰甲 |
-| 12585 | Riaruo D Coil | 爾伊爾烏腰甲 |
-| 12586 | Reiresu D Coil | 爾艾爾艾腰甲 |
-| 12587 | Reuasu D Coil | 爾艾斯烏腰甲 |
-| 12588 | Buran D Faulds | 布烏爾阿腰甲 |
-| 12589 | ハンショク Mask D | 哈恩希約庫腰甲 |
+| 12585 | Riaruo D Coil | 里露腰甲 |
+| 12586 | Reiresu D Coil | 蕾蕾斯腰甲 |
+| 12587 | Reuasu D Coil | 蕾斯腰甲 |
+| 12588 | Buran D Faulds | 布拉恩德腰甲 |
+| 12589 | ハンショク Mask D | 哈恩修克腰甲 |
 | 12590 | Shimashima D Waist | 夏伊姆阿腰甲 |
 | 12591 | デストラDタセット | 德斯托拉腰甲 |
-| 12592 | Furante D Coil | 芙烏爾阿腰甲 |
+| 12592 | Furante D Coil | 芙拉特腰甲 |
 | 12593 | Sharuru Coil | 夏露露腰甲 |
 | 12594 | Sharuru F Coil | 夏露露腰甲【Ｆ】 |
 | 12595 | Sharuru FZ Coil | 夏露露腰甲【ＦＺ】 |
@@ -160,20 +160,20 @@
 | 12654 | Dylan GS Coat | 迪倫腰衣【ＧＳ】 |
 | 12655 | Dylan GP Coat | 迪倫腰衣【ＧＰ】 |
 | 12656 | Dylan ZP Coat | 迪倫腰衣【ＺＰ】 |
-| 12657 | Dibble Coil | 迪布爾腰甲 |
-| 12658 | Dibble F Coil | 迪布爾腰甲【Ｆ】 |
-| 12659 | Dibble FZ Coil | 迪布爾腰甲【ＦＺ】 |
-| 12660 | Dibble HS Coil | 迪布爾腰甲【ＨＳ】 |
-| 12661 | Dibble GS Coil | 迪布爾腰甲【ＧＳ】 |
-| 12662 | Dibble GP Coil | 迪布爾腰甲【ＧＰ】 |
-| 12663 | Dibble ZP Coil | 迪布爾腰甲【ＺＰ】 |
-| 12664 | Dibble Coat | 迪布爾腰衣 |
-| 12665 | Dibble F Coat | 迪布爾腰衣【Ｆ】 |
-| 12666 | Dibble FZ Coat | 迪布爾腰衣【ＦＺ】 |
-| 12667 | Dibble HS Coat | 迪布爾腰衣【ＨＳ】 |
-| 12668 | Dibble GS Coat | 迪布爾腰衣【ＧＳ】 |
-| 12669 | Dibble GP Coat | 迪布爾腰衣【ＧＰ】 |
-| 12670 | Dibble ZP Coat | 迪布爾腰衣【ＺＰ】 |
+| 12657 | Dibble Coil | 迪布露腰甲 |
+| 12658 | Dibble F Coil | 迪布露腰甲【Ｆ】 |
+| 12659 | Dibble FZ Coil | 迪布露腰甲【ＦＺ】 |
+| 12660 | Dibble HS Coil | 迪布露腰甲【ＨＳ】 |
+| 12661 | Dibble GS Coil | 迪布露腰甲【ＧＳ】 |
+| 12662 | Dibble GP Coil | 迪布露腰甲【ＧＰ】 |
+| 12663 | Dibble ZP Coil | 迪布露腰甲【ＺＰ】 |
+| 12664 | Dibble Coat | 迪布露腰衣 |
+| 12665 | Dibble F Coat | 迪布露腰衣【Ｆ】 |
+| 12666 | Dibble FZ Coat | 迪布露腰衣【ＦＺ】 |
+| 12667 | Dibble HS Coat | 迪布露腰衣【ＨＳ】 |
+| 12668 | Dibble GS Coat | 迪布露腰衣【ＧＳ】 |
+| 12669 | Dibble GP Coat | 迪布露腰衣【ＧＰ】 |
+| 12670 | Dibble ZP Coat | 迪布露腰衣【ＺＰ】 |
 | 12671 | Fins Coil | 鰭腰甲 |
 | 12672 | Fins F Coil | 鰭腰甲【Ｆ】 |
 | 12673 | Fins FZ Coil | 鰭腰甲【ＦＺ】 |
@@ -312,9 +312,9 @@
 | 12806 | Tanzanite Coil | 特阿恩阿腰甲 |
 | 12807 | Tanzanite F Coil | 特阿恩阿腰甲【Ｆ】 |
 | 12808 | Tanzanite FX Coil | 特阿恩阿腰甲【ＦＸ】 |
-| 12809 | Hematite Coil | 赫艾姆阿腰甲 |
-| 12810 | Hematite F Coil | 赫艾姆阿腰甲【Ｆ】 |
-| 12811 | Hematite FX Coil | 赫艾姆阿腰甲【ＦＸ】 |
+| 12809 | Hematite Coil | 赫瑪蒂特腰甲 |
+| 12810 | Hematite F Coil | 赫瑪蒂特腰甲【Ｆ】 |
+| 12811 | Hematite FX Coil | 赫瑪蒂特腰甲【ＦＸ】 |
 | 12812 | Byakko・磁星G Coil | 白虎腰甲【Ｇ】 |
 | 12813 | Byakko・磁星GF Coil | 白虎磁星腰甲【Ｆ】 |
 | 12814 | Byakko・磁星GX Coil | 白虎腰甲【ＧＸ】 |
@@ -403,18 +403,18 @@
 | 12897 | Masaha Dress ZP [Cloth] Orange | 真砂禮服腰布【ＺＰ】・橙 |
 | 12898 | Graham Faulds | 格阿赫阿腰甲 |
 | 12899 | Favila D Coil | 芙阿芙伊腰甲 |
-| 12900 | Alicia D Coil | 阿爾伊克腰甲 |
+| 12900 | Alicia D Coil | 莉奇腰甲 |
 | 12901 | Masaha Dress C [Waistband 】 | 姆阿斯阿腰帶 |
-| 12902 | Aura C Coil | 阿爾阿斯腰甲 |
-| 12903 | Asumo C Coil | 阿斯烏姆腰甲 |
-| 12904 | Rokka C Coil | 爾歐克阿腰甲 |
-| 12905 | Ruche C Coil | 爾烏奇艾腰甲 |
+| 12902 | Aura C Coil | 奧拉腰甲 |
+| 12903 | Asumo C Coil | 斯莫腰甲 |
+| 12904 | Rokka C Coil | 蘿可腰甲 |
+| 12905 | Ruche C Coil | 露切腰甲 |
 | 12906 | Shui C Coil | 夏烏斯腰甲 |
 | 12907 | Masaha Dress D [Waistband] Red | 姆阿斯阿腰帶・赤 |
 | 12908 | Masaha Dress D [Waistband] Silver | 姆阿斯阿腰帶・銀 |
 | 12909 | Masaha Dress D [Waistband] Blue | 姆阿斯阿腰帶・青 |
 | 12910 | Masaha Dress D [Waistband] Orange | 姆阿斯阿腰帶・橙 |
-| 12911 | Genbu・Kensei D Coil | 玄武格艾恩烏腰甲 |
+| 12911 | Genbu・Kensei D Coil | 玄武蓋布凱賽腰甲 |
 | 12912 | Genbu・双龍D Coil | 玄武双龍腰甲 |
 | 12913 | Genbu・剣王D Coil | 玄武剣王腰甲 |
 | 12914 | Genbu・刀神D Coil | 玄武刀神腰甲 |
@@ -428,7 +428,7 @@
 | 12922 | Genbu・銃仙D Coat | 玄武銃仙腰衣 |
 | 12923 | Genbu・Bow 鬼D Coat | 玄武腰衣 |
 | 12924 | Tanzanite D Coil | 特阿恩阿腰甲 |
-| 12925 | Hematite D Coil | 赫艾姆阿腰甲 |
+| 12925 | Hematite D Coil | 赫瑪蒂特腰甲 |
 | 12926 | Byakko・磁星D Coil | 白虎磁星腰甲 |
 | 12927 | Suzaku・磁星D Coil | 朱雀磁星腰甲 |
 | 12928 | Genbu・磁星D Coil | 玄武磁星腰甲 |
@@ -466,14 +466,14 @@
 | 12960 | Dusk D Waist・White | 德烏斯腰甲・白 |
 | 12961 | Dusk D Waist・Peach | 德烏斯腰甲・桃 |
 | 12962 | Dusk D Waist・Blue | 德烏斯腰甲・青 |
-| 12963 | Marin D Coil・Blue | 姆阿爾伊腰甲・青 |
-| 12964 | Marin D Coil・Peach | 姆阿爾伊腰甲・桃 |
-| 12965 | Marin D Coil・White | 姆阿爾伊腰甲・白 |
-| 12966 | Marin D Coil・Black | 姆阿爾伊腰甲・黑 |
-| 12967 | Reflet D Coil・Blue | 爾艾芙艾腰甲・青 |
-| 12968 | Reflet D Coil・White | 爾艾芙艾腰甲・白 |
-| 12969 | Reflet D Coil・Red | 爾艾芙艾腰甲・赤 |
-| 12970 | Reflet D Coil・Black | 爾艾芙艾腰甲・黑 |
+| 12963 | Marin D Coil・Blue | 瑪里恩德腰甲・青 |
+| 12964 | Marin D Coil・Peach | 瑪里恩德腰甲・桃 |
+| 12965 | Marin D Coil・White | 瑪里恩德腰甲・白 |
+| 12966 | Marin D Coil・Black | 瑪里恩德腰甲・黑 |
+| 12967 | Reflet D Coil・Blue | 蕾芙腰甲・青 |
+| 12968 | Reflet D Coil・White | 蕾芙腰甲・白 |
+| 12969 | Reflet D Coil・Red | 蕾芙腰甲・赤 |
+| 12970 | Reflet D Coil・Black | 蕾芙腰甲・黑 |
 | 12971 | Tenpi ノ佩楯D・Red | 天陽腰甲・赤 |
 | 12972 | Tenpi ノ佩楯D・Blue | 天陽腰甲・青 |
 | 12973 | Tenpi ノ佩楯D・Black | 天陽腰甲・黑 |
@@ -486,18 +486,18 @@
 | 12980 | Naga D Coil・Red | 恩阿格阿腰甲・赤 |
 | 12981 | Naga D Coil・White | 恩阿格阿腰甲・白 |
 | 12982 | Naga D Coil・Black | 恩阿格阿腰甲・黑 |
-| 12983 | Sheriff D Coil・Tea | 夏艾爾伊腰甲・茶 |
-| 12984 | Sheriff D Coil・Black | 夏艾爾伊腰甲・黑 |
-| 12985 | Sheriff D Coil・Blue | 夏艾爾伊腰甲・青 |
-| 12986 | Sheriff D Coil・White | 夏艾爾伊腰甲・白 |
-| 12987 | Serena D Coil・Purple | 斯艾爾艾腰甲・紫 |
-| 12988 | Serena D Coil・Blue | 斯艾爾艾腰甲・青 |
-| 12989 | Serena D Coil・White | 斯艾爾艾腰甲・白 |
-| 12990 | Serena D Coil・Red | 斯艾爾艾腰甲・赤 |
-| 12991 | Gelt D Coil・Black | 格艾爾腰甲・黑 |
-| 12992 | Gelt D Coil・Copper | 格艾爾腰甲・銅 |
-| 12993 | Gelt D Coil・Silver | 格艾爾腰甲・銀 |
-| 12994 | Gelt D Coil・Gold | 格艾爾腰甲・金 |
+| 12983 | Sheriff D Coil・Tea | 修里腰甲・茶 |
+| 12984 | Sheriff D Coil・Black | 修里腰甲・黑 |
+| 12985 | Sheriff D Coil・Blue | 修里腰甲・青 |
+| 12986 | Sheriff D Coil・White | 修里腰甲・白 |
+| 12987 | Serena D Coil・Purple | 賽蕾娜腰甲・紫 |
+| 12988 | Serena D Coil・Blue | 賽蕾娜腰甲・青 |
+| 12989 | Serena D Coil・White | 賽蕾娜腰甲・白 |
+| 12990 | Serena D Coil・Red | 賽蕾娜腰甲・赤 |
+| 12991 | Gelt D Coil・Black | 蓋腰甲・黑 |
+| 12992 | Gelt D Coil・Copper | 蓋腰甲・銅 |
+| 12993 | Gelt D Coil・Silver | 蓋腰甲・銀 |
+| 12994 | Gelt D Coil・Gold | 蓋腰甲・金 |
 | 12995 | Gloria D Coil・Gold | 榮光腰甲・金 |
 | 12996 | Gloria D Coil・Blue | 榮光腰甲・青 |
 | 12997 | Gloria D Coil・Water | 榮光腰甲・水 |

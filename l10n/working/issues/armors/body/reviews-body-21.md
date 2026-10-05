@@ -150,30 +150,30 @@
 | 10144 | Red Ice Emperor HS Vest | 赤冰帝背心【ＨＳ】 |
 | 10145 | Red Ice Emperor GS Vest | 赤冰帝背心【ＧＳ】 |
 | 10146 | Red Ice Emperor GP Vest | 赤冰帝背心【ＧＰ】 |
-| 10147 | Taruta Mail | 特阿爾烏鎧甲 |
-| 10148 | Taruta F Mail | 特阿爾烏鎧甲【Ｆ】 |
-| 10149 | Taruta FZ Mail | 特阿爾烏鎧甲【ＦＺ】 |
-| 10150 | Taruta HS Mail | 特阿爾烏鎧甲【ＨＳ】 |
-| 10151 | Taruta GS Mail | 特阿爾烏鎧甲【ＧＳ】 |
-| 10152 | Taruta GP Mail | 特阿爾烏鎧甲【ＧＰ】 |
-| 10153 | Taruta Suit | 特阿爾烏套裝 |
-| 10154 | Taruta F Suit | 特阿爾烏套裝【Ｆ】 |
-| 10155 | Taruta FZ Suit | 特阿爾烏套裝【ＦＺ】 |
-| 10156 | Taruta HS Suit | 特阿爾烏套裝【ＨＳ】 |
-| 10157 | Taruta GS Suit | 特阿爾烏套裝【ＧＳ】 |
-| 10158 | Taruta GP Suit | 特阿爾烏套裝【ＧＰ】 |
-| 10159 | Ruruta Mail | 爾烏爾烏鎧甲 |
-| 10160 | Ruruta F Mail | 爾烏爾烏鎧甲【Ｆ】 |
-| 10161 | Ruruta FZ Mail | 爾烏爾烏鎧甲【ＦＺ】 |
-| 10162 | Ruruta HS Mail | 爾烏爾烏鎧甲【ＨＳ】 |
-| 10163 | Ruruta GS Mail | 爾烏爾烏鎧甲【ＧＳ】 |
-| 10164 | Ruruta GP Mail | 爾烏爾烏鎧甲【ＧＰ】 |
-| 10165 | Ruruta Suit | 爾烏爾烏套裝 |
-| 10166 | Ruruta F Suit | 爾烏爾烏套裝【Ｆ】 |
-| 10167 | Ruruta FZ Suit | 爾烏爾烏套裝【ＦＺ】 |
-| 10168 | Ruruta HS Suit | 爾烏爾烏套裝【ＨＳ】 |
-| 10169 | Ruruta GS Suit | 爾烏爾烏套裝【ＧＳ】 |
-| 10170 | Ruruta GP Suit | 爾烏爾烏套裝【ＧＰ】 |
+| 10147 | Taruta Mail | 塔露塔鎧甲 |
+| 10148 | Taruta F Mail | 塔露塔鎧甲【Ｆ】 |
+| 10149 | Taruta FZ Mail | 塔露塔鎧甲【ＦＺ】 |
+| 10150 | Taruta HS Mail | 塔露塔鎧甲【ＨＳ】 |
+| 10151 | Taruta GS Mail | 塔露塔鎧甲【ＧＳ】 |
+| 10152 | Taruta GP Mail | 塔露塔鎧甲【ＧＰ】 |
+| 10153 | Taruta Suit | 塔露塔套裝 |
+| 10154 | Taruta F Suit | 塔露塔套裝【Ｆ】 |
+| 10155 | Taruta FZ Suit | 塔露塔套裝【ＦＺ】 |
+| 10156 | Taruta HS Suit | 塔露塔套裝【ＨＳ】 |
+| 10157 | Taruta GS Suit | 塔露塔套裝【ＧＳ】 |
+| 10158 | Taruta GP Suit | 塔露塔套裝【ＧＰ】 |
+| 10159 | Ruruta Mail | 露露塔鎧甲 |
+| 10160 | Ruruta F Mail | 露露塔鎧甲【Ｆ】 |
+| 10161 | Ruruta FZ Mail | 露露塔鎧甲【ＦＺ】 |
+| 10162 | Ruruta HS Mail | 露露塔鎧甲【ＨＳ】 |
+| 10163 | Ruruta GS Mail | 露露塔鎧甲【ＧＳ】 |
+| 10164 | Ruruta GP Mail | 露露塔鎧甲【ＧＰ】 |
+| 10165 | Ruruta Suit | 露露塔套裝 |
+| 10166 | Ruruta F Suit | 露露塔套裝【Ｆ】 |
+| 10167 | Ruruta FZ Suit | 露露塔套裝【ＦＺ】 |
+| 10168 | Ruruta HS Suit | 露露塔套裝【ＨＳ】 |
+| 10169 | Ruruta GS Suit | 露露塔套裝【ＧＳ】 |
+| 10170 | Ruruta GP Suit | 露露塔套裝【ＧＰ】 |
 | 10171 | Kurofi Mail | 克羅菲鎧甲 |
 | 10172 | Kurofi F Mail | 克羅菲鎧甲【Ｆ】 |
 | 10173 | Kurofi FZ Mail | 克羅菲鎧甲【ＦＺ】 |
@@ -204,54 +204,54 @@
 | 10198 | Chiarim HS Vest | 奇亞琳背心【ＨＳ】 |
 | 10199 | Chiarim GS Vest | 奇亞琳背心【ＧＳ】 |
 | 10200 | Chiarim GP Vest | 奇亞琳背心【ＧＰ】 |
-| 10201 | Rohokku Mail | 爾歐赫歐鎧甲 |
-| 10202 | Rohokku F Mail | 爾歐赫歐鎧甲【Ｆ】 |
-| 10203 | Rohokku FY Mail | 爾歐赫歐鎧甲 |
-| 10204 | Rohokku HS Mail | 爾歐赫歐鎧甲【ＨＳ】 |
-| 10205 | Rohokku G Mail | 爾歐赫歐鎧甲【Ｇ】 |
-| 10206 | Rohokku GF Mail | 爾歐赫歐鎧甲【ＧＦ】 |
-| 10207 | Rohokku GX Mail | 爾歐赫歐鎧甲【ＧＸ】 |
-| 10208 | Rohokku Vest | 爾歐赫歐背心 |
-| 10209 | Rohokku F Vest | 爾歐赫歐背心【Ｆ】 |
-| 10210 | Rohokku FY Vest | 爾歐赫歐背心 |
-| 10211 | Rohokku HS Vest | 爾歐赫歐背心【ＨＳ】 |
-| 10212 | Rohokku G Vest | 爾歐赫歐背心【Ｇ】 |
-| 10213 | Rohokku GF Vest | 爾歐赫歐背心【ＧＦ】 |
-| 10214 | Rohokku GX Vest | 爾歐赫歐背心【ＧＸ】 |
-| 10215 | Cure Mail | 克烏爾艾鎧甲 |
-| 10216 | Cure F Mail | 克烏爾艾鎧甲【Ｆ】 |
-| 10217 | Cure FY Mail | 克烏爾艾鎧甲 |
-| 10218 | Cure HS Mail | 克烏爾艾鎧甲【ＨＳ】 |
-| 10219 | Cure G Mail | 克烏爾艾鎧甲【Ｇ】 |
-| 10220 | Cure GF Mail | 克烏爾艾鎧甲【ＧＦ】 |
-| 10221 | Cure GX Mail | 克烏爾艾鎧甲【ＧＸ】 |
-| 10222 | Cure Vest | 克烏爾艾背心 |
-| 10223 | Cure F Vest | 克烏爾艾背心【Ｆ】 |
-| 10224 | Cure FY Vest | 克烏爾艾背心 |
-| 10225 | Cure HS Vest | 克烏爾艾背心【ＨＳ】 |
-| 10226 | Cure G Vest | 克烏爾艾背心【Ｇ】 |
-| 10227 | Cure GF Vest | 克烏爾艾背心【ＧＦ】 |
-| 10228 | Cure GX Vest | 克烏爾艾背心【ＧＸ】 |
+| 10201 | Rohokku Mail | 蘿霍克鎧甲 |
+| 10202 | Rohokku F Mail | 蘿霍克鎧甲【Ｆ】 |
+| 10203 | Rohokku FY Mail | 蘿霍克鎧甲 |
+| 10204 | Rohokku HS Mail | 蘿霍克鎧甲【ＨＳ】 |
+| 10205 | Rohokku G Mail | 蘿霍克鎧甲【Ｇ】 |
+| 10206 | Rohokku GF Mail | 蘿霍克鎧甲【ＧＦ】 |
+| 10207 | Rohokku GX Mail | 蘿霍克鎧甲【ＧＸ】 |
+| 10208 | Rohokku Vest | 蘿霍克背心 |
+| 10209 | Rohokku F Vest | 蘿霍克背心【Ｆ】 |
+| 10210 | Rohokku FY Vest | 蘿霍克背心 |
+| 10211 | Rohokku HS Vest | 蘿霍克背心【ＨＳ】 |
+| 10212 | Rohokku G Vest | 蘿霍克背心【Ｇ】 |
+| 10213 | Rohokku GF Vest | 蘿霍克背心【ＧＦ】 |
+| 10214 | Rohokku GX Vest | 蘿霍克背心【ＧＸ】 |
+| 10215 | Cure Mail | 庫蕾鎧甲 |
+| 10216 | Cure F Mail | 庫蕾鎧甲【Ｆ】 |
+| 10217 | Cure FY Mail | 庫蕾鎧甲 |
+| 10218 | Cure HS Mail | 庫蕾鎧甲【ＨＳ】 |
+| 10219 | Cure G Mail | 庫蕾鎧甲【Ｇ】 |
+| 10220 | Cure GF Mail | 庫蕾鎧甲【ＧＦ】 |
+| 10221 | Cure GX Mail | 庫蕾鎧甲【ＧＸ】 |
+| 10222 | Cure Vest | 庫蕾背心 |
+| 10223 | Cure F Vest | 庫蕾背心【Ｆ】 |
+| 10224 | Cure FY Vest | 庫蕾背心 |
+| 10225 | Cure HS Vest | 庫蕾背心【ＨＳ】 |
+| 10226 | Cure G Vest | 庫蕾背心【Ｇ】 |
+| 10227 | Cure GF Vest | 庫蕾背心【ＧＦ】 |
+| 10228 | Cure GX Vest | 庫蕾背心【ＧＸ】 |
 | 10229 | 鬼凛ノ肩鎧G | 鬼凛肩鎧鎧甲 |
 | 10230 | 鬼凛ノ肩鎧GF | 鬼凛肩鎧鎧甲【Ｆ】 |
 | 10231 | 鬼凛ノ肩鎧GX | 鬼凛肩鎧鎧甲 |
 | 10232 | 童凛ノ肩鎧G | 童凛肩鎧鎧甲 |
 | 10233 | 童凛ノ肩鎧GF | 童凛肩鎧鎧甲【Ｆ】 |
 | 10234 | 童凛ノ肩鎧GX | 童凛肩鎧鎧甲 |
-| 10235 | Eguiene Mail | 艾格烏恩鎧甲 |
-| 10236 | Eguiene F Mail | 艾格烏恩鎧甲【Ｆ】 |
-| 10237 | Eguiene FY Mail | 艾格烏恩鎧甲 |
-| 10238 | Eguiene HS Mail | 艾格烏恩鎧甲【ＨＳ】 |
-| 10239 | Eguiene G Mail | 艾格烏恩鎧甲【Ｇ】 |
-| 10240 | Eguiene GF Mail | 艾格烏恩鎧甲【ＧＦ】 |
-| 10241 | Eguiene GX Mail | 艾格烏恩鎧甲【ＧＸ】 |
-| 10242 | Eguiene Vest | 艾格烏恩背心 |
-| 10243 | Eguiene F Vest | 艾格烏恩背心【Ｆ】 |
-| 10244 | Eguiene FY Vest | 艾格烏恩背心 |
-| 10245 | Eguiene HS Vest | 艾格烏恩背心【ＨＳ】 |
-| 10246 | Eguiene G Vest | 艾格烏恩背心【Ｇ】 |
-| 10247 | Eguiene GF Vest | 艾格烏恩背心【ＧＦ】 |
-| 10248 | Eguiene GX Vest | 艾格烏恩背心【ＧＸ】 |
+| 10235 | Eguiene Mail | 古奈鎧甲 |
+| 10236 | Eguiene F Mail | 古奈鎧甲【Ｆ】 |
+| 10237 | Eguiene FY Mail | 古奈鎧甲 |
+| 10238 | Eguiene HS Mail | 古奈鎧甲【ＨＳ】 |
+| 10239 | Eguiene G Mail | 古奈鎧甲【Ｇ】 |
+| 10240 | Eguiene GF Mail | 古奈鎧甲【ＧＦ】 |
+| 10241 | Eguiene GX Mail | 古奈鎧甲【ＧＸ】 |
+| 10242 | Eguiene Vest | 古奈背心 |
+| 10243 | Eguiene F Vest | 古奈背心【Ｆ】 |
+| 10244 | Eguiene FY Vest | 古奈背心 |
+| 10245 | Eguiene HS Vest | 古奈背心【ＨＳ】 |
+| 10246 | Eguiene G Vest | 古奈背心【Ｇ】 |
+| 10247 | Eguiene GF Vest | 古奈背心【ＧＦ】 |
+| 10248 | Eguiene GX Vest | 古奈背心【ＧＸ】 |
 | 10249 | Vakusu Mail | 芙阿克烏鎧甲 |
 | 10250 | Vakusu F Mail | 芙阿克烏鎧甲【Ｆ】 |
 | 10251 | Vakusu FY Mail | 芙阿克烏鎧甲 |
@@ -398,9 +398,9 @@
 | 10392 | Asumo GS Vest | 阿斯莫背心【ＧＳ】 |
 | 10393 | Asumo GP Vest | 阿斯莫背心【ＧＰ】 |
 | 10394 | Asumo ZP Vest | 阿斯莫背心【ＺＰ】 |
-| 10395 | Carrol C Suit | 克阿爾歐套裝 |
+| 10395 | Carrol C Suit | 可爾套裝 |
 | 10396 | Zyra C Mail | 茲阿斯鎧甲 |
-| 10397 | Loose C Suit | 爾歐斯艾套裝 |
+| 10397 | Loose C Suit | 蘿賽套裝 |
 | 10398 | Asteli ZP Vest・White | 阿斯特利背心【ＺＰ】・白 |
 | 10399 | Asteli ZP Suit・White | 阿斯特利套裝【ＺＰ】・白 |
 | 10400 | Asteli ZP Vest・Blue | 阿斯特利背心【ＺＰ】・青 |
@@ -440,11 +440,11 @@
 | 10434 | ブリゼGF Vest | 布里澤背心【Ｆ】 |
 | 10435 | ブリゼGX Vest | 布里澤背心【ＧＸ】 |
 | 10436 | Higakure C Mail | 赫伊格阿鎧甲 |
-| 10437 | Harokyu D Vest | 赫阿爾歐背心 |
-| 10438 | Evol D Mail・White | 艾芙歐爾鎧甲・白 |
-| 10439 | Evol D Mail・Red | 艾芙歐爾鎧甲・赤 |
-| 10440 | Evol D Mail・Blue | 艾芙歐爾鎧甲・青 |
-| 10441 | Evol D Mail・Purple | 艾芙歐爾鎧甲・紫 |
+| 10437 | Harokyu D Vest | 哈蘿尤背心 |
+| 10438 | Evol D Mail・White | 沃鎧甲・白 |
+| 10439 | Evol D Mail・Red | 沃鎧甲・赤 |
+| 10440 | Evol D Mail・Blue | 沃鎧甲・青 |
+| 10441 | Evol D Mail・Purple | 沃鎧甲・紫 |
 | 10442 | 狩衛部隊 Mail・男 | 狩衛部隊男鎧甲 |
 | 10443 | 狩衛部隊 Mail・女 | 狩衛部隊女鎧甲 |
 | 10444 | Blue Ice Emperor ZP Mail | 青冰帝鎧甲【ＺＰ】 |

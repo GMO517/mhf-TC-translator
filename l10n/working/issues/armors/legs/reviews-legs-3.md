@@ -31,8 +31,8 @@
 | 1024 | オールF Feet | 奧爾足【Ｆ】 |
 | 1025 | メタロ Feet | 梅塔羅足 |
 | 1026 | メタロF Feet | 梅塔羅足【Ｆ】 |
-| 1027 | アルジャ Boots | 阿爾賈靴 |
-| 1028 | アルジャF Boots | 阿爾賈靴【Ｆ】 |
+| 1027 | アルジャ Boots | 亞露雅靴 |
+| 1028 | アルジャF Boots | 亞露雅靴【Ｆ】 |
 | 1029 | Espinas FX Heel | 棘龍踵【ＦＸ】 |
 | 1030 | Espinas FX March | 棘龍行軍腿【ＦＸ】 |
 | 1032 | エクスト Greaves | 艾克斯特護腿 |
@@ -73,8 +73,8 @@
 | 1067 | Shieri F Greaves | 夏伊爾伊護腿【Ｆ】 |
 | 1068 | Shieri Leggings | 夏伊爾伊裹腿 |
 | 1069 | Shieri F Leggings | 夏伊爾伊裹腿【Ｆ】 |
-| 1070 | Harubadaa Greaves | 赫阿爾烏護腿 |
-| 1071 | Harubadaa F Greaves | 赫阿爾烏護腿【Ｆ】 |
+| 1070 | Harubadaa Greaves | 哈露巴達護腿 |
+| 1071 | Harubadaa F Greaves | 哈露巴達護腿【Ｆ】 |
 | 1072 | Tracker Leggings | 追蹤裹腿 |
 | 1073 | Tracker F Leggings | 追蹤裹腿【Ｆ】 |
 | 1074 | Zaakaa Greaves | 茲阿克阿護腿 |
@@ -87,20 +87,20 @@
 | 1081 | Lord F Leggings | 領主裹腿【Ｆ】 |
 | 1082 | Dicto Leg | 德伊克歐腿 |
 | 1083 | Dicto F Leg | 德伊克歐腿【Ｆ】 |
-| 1084 | Diletto Boots | 德伊爾艾靴 |
-| 1085 | Diletto F Boots | 德伊爾艾靴【Ｆ】 |
+| 1084 | Diletto Boots | 迪勒特靴 |
+| 1085 | Diletto F Boots | 迪勒特靴【Ｆ】 |
 | 1086 | Kruss Leg | 克烏斯腿 |
 | 1087 | Kruss F Leg | 克烏斯腿【Ｆ】 |
-| 1088 | Quote Boots | 斯烏特艾靴 |
-| 1089 | Quote F Boots | 斯烏特艾靴【Ｆ】 |
-| 1090 | ウルバヌ Feet | 烏爾巴努足 |
-| 1091 | ウルバヌF Feet | 烏爾巴努足【Ｆ】 |
+| 1088 | Quote Boots | 奎特靴 |
+| 1089 | Quote F Boots | 奎特靴【Ｆ】 |
+| 1090 | ウルバヌ Feet | 宇露巴努足 |
+| 1091 | ウルバヌF Feet | 宇露巴努足【Ｆ】 |
 | 1092 | マグヌス Feet | 瑪古努斯足 |
 | 1093 | マグヌスF Feet | 瑪古努斯足【Ｆ】 |
 | 1094 | ソレルス Feet | 索雷魯斯足 |
 | 1095 | ソレルスF Feet | 索雷魯斯足【Ｆ】 |
-| 1096 | パルフェ Boots | 拍爾菲靴 |
-| 1097 | パルフェF Boots | 拍爾菲靴【Ｆ】 |
+| 1096 | パルフェ Boots | 拍露菲靴 |
+| 1097 | パルフェF Boots | 拍露菲靴【Ｆ】 |
 | 1098 | アスティ Feet | 阿斯特足 |
 | 1099 | アスティF Feet | 阿斯特足【Ｆ】 |
 | 1100 | アガトン Feet | 阿加托恩足 |
@@ -129,8 +129,8 @@
 | 1123 | ビリスF Feet | 比利斯足【Ｆ】 |
 | 1124 | ギエール Feet | 吉埃爾足 |
 | 1125 | ギエールF Feet | 吉埃爾足【Ｆ】 |
-| 1126 | カウント Feet | 可烏恩托足 |
-| 1127 | カウントF Feet | 可烏恩托足【Ｆ】 |
+| 1126 | カウント Feet | 可宇恩托足 |
+| 1127 | カウントF Feet | 可宇恩托足【Ｆ】 |
 | 1128 | フュルス Boots | 芙尤魯斯靴 |
 | 1129 | フュルスF Boots | 芙尤魯斯靴【Ｆ】 |
 | 1130 | Text Feet・Purple | 文書足・紫 |
@@ -155,12 +155,12 @@
 | 1149 | フィーブルF Feet | 芙布魯足【Ｆ】 |
 | 1150 | ヴァラク Feet | 芙拉庫足 |
 | 1151 | ヴァラクF Feet | 芙拉庫足【Ｆ】 |
-| 1152 | ネウロン Boots | 涅烏羅恩靴 |
-| 1153 | ネウロンF Boots | 涅烏羅恩靴【Ｆ】 |
-| 1154 | Arge Feet | 阿爾傑足 |
-| 1155 | Arge F Feet | 阿爾傑足【Ｆ】 |
-| 1156 | Arge Boots | 阿爾傑靴 |
-| 1157 | Arge F Boots | 阿爾傑靴【Ｆ】 |
+| 1152 | ネウロン Boots | 奈宇蘿恩靴 |
+| 1153 | ネウロンF Boots | 奈宇蘿恩靴【Ｆ】 |
+| 1154 | Arge Feet | 亞潔足 |
+| 1155 | Arge F Feet | 亞潔足【Ｆ】 |
+| 1156 | Arge Boots | 亞潔靴 |
+| 1157 | Arge F Boots | 亞潔靴【Ｆ】 |
 | 1158 | Akantor ケマル SP Black | 霸龍護腿【ＳＰ】・黑 |
 | 1159 | Akantor ケマル SP Red | 霸龍護腿【ＳＰ】・赤 |
 | 1160 | Akantor ケマル SP White | 霸龍護腿【ＳＰ】・白 |
@@ -285,8 +285,8 @@
 | 1279 | デスモF Leg | 德斯莫腿【Ｆ】 |
 | 1280 | ミスク Boots | 米斯庫靴 |
 | 1281 | ミスクF Boots | 米斯庫靴【Ｆ】 |
-| 1282 | ウーズィ Leg | 烏茲腿 |
-| 1283 | ウーズィF Leg | 烏茲腿【Ｆ】 |
+| 1282 | ウーズィ Leg | 宇茲腿 |
+| 1283 | ウーズィF Leg | 宇茲腿【Ｆ】 |
 | 1284 | レガーメ Leg | 雷加梅腿 |
 | 1285 | レガーメF Leg | 雷加梅腿【Ｆ】 |
 | 1286 | ノット Leg | 諾托腿 |
@@ -327,8 +327,8 @@
 | 1321 | Eques FX Greaves | 騎士護腿【ＦＸ】 |
 | 1322 | Eques FX Leggings | 騎士裹腿【ＦＸ】 |
 | 1323 | Noir F Greaves | 黑護腿【Ｆ】 |
-| 1324 | Himeros F Greaves | 赫伊姆艾護腿【Ｆ】 |
-| 1325 | Bureshisu F Greaves | 布烏爾艾護腿【Ｆ】 |
+| 1324 | Himeros F Greaves | 希梅蘿護腿【Ｆ】 |
+| 1325 | Bureshisu F Greaves | 布蕾修斯護腿【Ｆ】 |
 | 1326 | Charien F Leggings | 夏里安裹腿【Ｆ】 |
 | 1327 | Guren Greaves | 紅蓮護腿 |
 | 1328 | Guren F Greaves | 紅蓮護腿【Ｆ】 |
@@ -393,13 +393,13 @@
 | 1387 | ヴェロシF Feet | 芙羅希足【Ｆ】 |
 | 1388 | ケプト Feet | 凱普托足 |
 | 1389 | ケプトF Feet | 凱普托足【Ｆ】 |
-| 1390 | ハウット Boots | 哈烏托靴 |
-| 1391 | ハウットF Boots | 哈烏托靴【Ｆ】 |
+| 1390 | ハウット Boots | 哈宇托靴 |
+| 1391 | ハウットF Boots | 哈宇托靴【Ｆ】 |
 | 1392 | ヴェンガ Feet | 芙恩加足 |
 | 1393 | ヴェンガF Feet | 芙恩加足【Ｆ】 |
 | 1394 | スプリン Feet | 斯普里恩足 |
 | 1395 | スプリンF Feet | 斯普里恩足【Ｆ】 |
-| 1396 | マ Sharufu ット | 夏爾夫護腿 |
+| 1396 | マ Sharufu ット | 夏露芙護腿 |
 | 1397 | マシャルF Feet | 瑪希亞魯足【Ｆ】 |
 | 1398 | ペンブル Boots | 佩恩布魯靴 |
 | 1399 | ペンブルF Boots | 佩恩布魯靴【Ｆ】 |
@@ -496,9 +496,9 @@
 | 1490 | Rising Leg B | 昇腿 |
 | 1491 | Rider Boots B | 騎手靴 |
 | 1492 | Rising Boots B | 昇靴 |
-| 1493 | Rider Leg R | 爾伊德艾腿【Ｒ】 |
+| 1493 | Rider Leg R | 里德腿【Ｒ】 |
 | 1494 | Rising Leg R | 爾伊斯伊腿【Ｒ】 |
-| 1495 | Rider Boots R | 爾伊德艾靴【Ｒ】 |
+| 1495 | Rider Boots R | 里德靴【Ｒ】 |
 | 1496 | Rising Boots R | 爾伊斯伊靴【Ｒ】 |
 | 1497 | Rider Leg Y | 騎手腿 |
 | 1498 | Rising Leg Y | 昇腿 |

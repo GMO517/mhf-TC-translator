@@ -56,9 +56,9 @@
 | 12550 | Tanzanite Arms | 特阿恩阿護腕 |
 | 12551 | Tanzanite F Arms | 特阿恩阿護腕【Ｆ】 |
 | 12552 | Tanzanite FX Arms | 特阿恩阿護腕【ＦＸ】 |
-| 12553 | Hematite Arms | 赫艾姆阿護腕 |
-| 12554 | Hematite F Arms | 赫艾姆阿護腕【Ｆ】 |
-| 12555 | Hematite FX Arms | 赫艾姆阿護腕【ＦＸ】 |
+| 12553 | Hematite Arms | 赫瑪蒂特護腕 |
+| 12554 | Hematite F Arms | 赫瑪蒂特護腕【Ｆ】 |
+| 12555 | Hematite FX Arms | 赫瑪蒂特護腕【ＦＸ】 |
 | 12556 | Byakko・磁星G Arms | 白虎護腕【Ｇ】 |
 | 12557 | Byakko・磁星GF Arms | 白虎磁星護腕【Ｆ】 |
 | 12558 | Byakko・磁星GX Arms | 白虎護腕【ＧＸ】 |
@@ -147,18 +147,18 @@
 | 12641 | Masaha Dress ZP [Sleeves] Orange | 真砂禮服袖【ＺＰ】・橙 |
 | 12642 | Graham Arms | 格阿赫阿護腕 |
 | 12643 | Favila D Arms | 芙阿芙伊護腕 |
-| 12644 | Alicia D Arms | 阿爾伊克護腕 |
+| 12644 | Alicia D Arms | 莉奇護腕 |
 | 12645 | Masaha Dress C [Sleeves 】 | 姆阿斯阿袖 |
-| 12646 | Aura C Arms | 阿爾阿斯護腕 |
-| 12647 | Asumo C Arms | 阿斯烏姆護腕 |
-| 12648 | Rokka C Arms | 爾歐克阿護腕 |
-| 12649 | Ruche C Arms | 爾烏奇艾護腕 |
+| 12646 | Aura C Arms | 奧拉護腕 |
+| 12647 | Asumo C Arms | 斯莫護腕 |
+| 12648 | Rokka C Arms | 蘿可護腕 |
+| 12649 | Ruche C Arms | 露切護腕 |
 | 12650 | Shui C Arms | 夏烏斯護腕 |
 | 12651 | Masaha Dress D [Sleeves] Red | 姆阿斯阿袖・赤 |
 | 12652 | Masaha Dress D [Sleeves] Silver | 姆阿斯阿袖・銀 |
 | 12653 | Masaha Dress D [Sleeves] Blue | 姆阿斯阿袖・青 |
 | 12654 | Masaha Dress D [Sleeves] Orange | 姆阿斯阿袖・橙 |
-| 12655 | Genbu・Kensei D Arms | 玄武格艾恩烏護腕 |
+| 12655 | Genbu・Kensei D Arms | 玄武蓋布凱賽護腕 |
 | 12656 | Genbu・双龍D Arms | 玄武双龍護腕 |
 | 12657 | Genbu・剣王D Arms | 玄武剣王護腕 |
 | 12658 | Genbu・刀神D Arms | 玄武刀神護腕 |
@@ -172,7 +172,7 @@
 | 12666 | Genbu・銃仙D Guard | 玄武銃仙臂甲 |
 | 12667 | Genbu・Bow 鬼D Guard | 玄武臂甲 |
 | 12668 | Tanzanite D Arms | 特阿恩阿護腕 |
-| 12669 | Hematite D Arms | 赫艾姆阿護腕 |
+| 12669 | Hematite D Arms | 赫瑪蒂特護腕 |
 | 12670 | Byakko・磁星D Arms | 白虎磁星護腕 |
 | 12671 | Suzaku・磁星D Arms | 朱雀磁星護腕 |
 | 12672 | Genbu・磁星D Arms | 玄武磁星護腕 |
@@ -210,14 +210,14 @@
 | 12704 | Dusk D Arms・White | 德烏斯護腕・白 |
 | 12705 | Dusk D Arms・Peach | 德烏斯護腕・桃 |
 | 12706 | Dusk D Arms・Blue | 德烏斯護腕・青 |
-| 12707 | Marin D Arms・Blue | 姆阿爾伊護腕・青 |
-| 12708 | Marin D Arms・Peach | 姆阿爾伊護腕・桃 |
-| 12709 | Marin D Arms・White | 姆阿爾伊護腕・白 |
-| 12710 | Marin D Arms・Black | 姆阿爾伊護腕・黑 |
-| 12711 | Reflet D Arms・Blue | 爾艾芙艾護腕・青 |
-| 12712 | Reflet D Arms・White | 爾艾芙艾護腕・白 |
-| 12713 | Reflet D Arms・Red | 爾艾芙艾護腕・赤 |
-| 12714 | Reflet D Arms・Black | 爾艾芙艾護腕・黑 |
+| 12707 | Marin D Arms・Blue | 瑪里恩德護腕・青 |
+| 12708 | Marin D Arms・Peach | 瑪里恩德護腕・桃 |
+| 12709 | Marin D Arms・White | 瑪里恩德護腕・白 |
+| 12710 | Marin D Arms・Black | 瑪里恩德護腕・黑 |
+| 12711 | Reflet D Arms・Blue | 蕾芙護腕・青 |
+| 12712 | Reflet D Arms・White | 蕾芙護腕・白 |
+| 12713 | Reflet D Arms・Red | 蕾芙護腕・赤 |
+| 12714 | Reflet D Arms・Black | 蕾芙護腕・黑 |
 | 12715 | Tenpi Kote D・Red | 特艾恩伊籠手・赤 |
 | 12716 | Tenpi Kote D・Blue | 特艾恩伊籠手・青 |
 | 12717 | Tenpi Kote D・Black | 特艾恩伊籠手・黑 |
@@ -230,18 +230,18 @@
 | 12724 | Naga D Arms・Red | 恩阿格阿護腕・赤 |
 | 12725 | Naga D Arms・White | 恩阿格阿護腕・白 |
 | 12726 | Naga D Arms・Black | 恩阿格阿護腕・黑 |
-| 12727 | Sheriff D Arms・Tea | 夏艾爾伊護腕・茶 |
-| 12728 | Sheriff D Arms・Black | 夏艾爾伊護腕・黑 |
-| 12729 | Sheriff D Arms・Blue | 夏艾爾伊護腕・青 |
-| 12730 | Sheriff D Arms・White | 夏艾爾伊護腕・白 |
-| 12731 | Serena D Arms・Purple | 斯艾爾艾護腕・紫 |
-| 12732 | Serena D Arms・Blue | 斯艾爾艾護腕・青 |
-| 12733 | Serena D Arms・White | 斯艾爾艾護腕・白 |
-| 12734 | Serena D Arms・Red | 斯艾爾艾護腕・赤 |
-| 12735 | Gelt D Arms・Black | 格艾爾護腕・黑 |
-| 12736 | Gelt D Arms・Copper | 格艾爾護腕・銅 |
-| 12737 | Gelt D Arms・Silver | 格艾爾護腕・銀 |
-| 12738 | Gelt D Arms・Gold | 格艾爾護腕・金 |
+| 12727 | Sheriff D Arms・Tea | 修里護腕・茶 |
+| 12728 | Sheriff D Arms・Black | 修里護腕・黑 |
+| 12729 | Sheriff D Arms・Blue | 修里護腕・青 |
+| 12730 | Sheriff D Arms・White | 修里護腕・白 |
+| 12731 | Serena D Arms・Purple | 賽蕾娜護腕・紫 |
+| 12732 | Serena D Arms・Blue | 賽蕾娜護腕・青 |
+| 12733 | Serena D Arms・White | 賽蕾娜護腕・白 |
+| 12734 | Serena D Arms・Red | 賽蕾娜護腕・赤 |
+| 12735 | Gelt D Arms・Black | 蓋護腕・黑 |
+| 12736 | Gelt D Arms・Copper | 蓋護腕・銅 |
+| 12737 | Gelt D Arms・Silver | 蓋護腕・銀 |
+| 12738 | Gelt D Arms・Gold | 蓋護腕・金 |
 | 12739 | Gloria D Arms・Gold | 榮光護腕・金 |
 | 12740 | Gloria D Arms・Blue | 榮光護腕・青 |
 | 12741 | Gloria D Arms・Water | 榮光護腕・水 |
@@ -258,50 +258,50 @@
 | 12752 | Siena D Arms・Black | 斯伊恩阿護腕・黑 |
 | 12753 | Siena D Arms・Red | 斯伊恩阿護腕・赤 |
 | 12754 | Siena D Arms・Blue | 斯伊恩阿護腕・青 |
-| 12755 | Cultu D Arms・Ash | 克烏爾烏護腕・灰 |
-| 12756 | Cultu D Arms・Blue | 克烏爾烏護腕・青 |
-| 12757 | Cultu D Arms・Orange | 克烏爾烏護腕・橙 |
-| 12758 | Cultu D Arms・Green | 克烏爾烏護腕・緑 |
-| 12759 | Truss Dグローブ Blue | 特烏斯手套・青 |
-| 12760 | Truss Dグローブ Red | 特烏斯手套・赤 |
-| 12761 | Truss Dグローブ White | 特烏斯手套・白 |
-| 12762 | Truss Dグローブ Purple | 特烏斯手套・紫 |
-| 12763 | Maisto D Arms・Crimson | 姆阿斯歐護腕・紅 |
-| 12764 | Maisto D Arms・Green | 姆阿斯歐護腕・緑 |
-| 12765 | Maisto D Arms・Green | 姆阿斯歐護腕・緑 |
-| 12766 | Maisto D Arms・Pink | 姆阿斯歐護腕・桃 |
+| 12755 | Cultu D Arms・Ash | 庫圖護腕・灰 |
+| 12756 | Cultu D Arms・Blue | 庫圖護腕・青 |
+| 12757 | Cultu D Arms・Orange | 庫圖護腕・橙 |
+| 12758 | Cultu D Arms・Green | 庫圖護腕・緑 |
+| 12759 | Truss Dグローブ Blue | 古蘿布手套・青 |
+| 12760 | Truss Dグローブ Red | 古蘿布手套・赤 |
+| 12761 | Truss Dグローブ White | 古蘿布手套・白 |
+| 12762 | Truss Dグローブ Purple | 古蘿布手套・紫 |
+| 12763 | Maisto D Arms・Crimson | 瑪斯托護腕・紅 |
+| 12764 | Maisto D Arms・Green | 瑪斯托護腕・緑 |
+| 12765 | Maisto D Arms・Green | 瑪斯托護腕・緑 |
+| 12766 | Maisto D Arms・Pink | 瑪斯托護腕・桃 |
 | 12767 | Randa Gauntlets・D Yellow | 爾阿恩阿手甲・黄 |
 | 12768 | Randa Gauntlets・D Red | 爾阿恩阿手甲・赤 |
 | 12769 | Randa Gauntlets・D Purple | 爾阿恩阿手甲・紫 |
 | 12770 | Randa Gauntlets・D Gold | 爾阿恩阿手甲・金 |
-| 12771 | Buney D Arms・Black | 布烏恩艾護腕・黑 |
-| 12772 | Buney D Arms・White | 布烏恩艾護腕・白 |
-| 12773 | Buney D Arms・Red | 布烏恩艾護腕・赤 |
-| 12774 | Buney D Arms・Purple | 布烏恩艾護腕・紫 |
-| 12775 | Regelia D Arms・White | 爾艾格艾護腕・白 |
-| 12776 | Regelia D Arms・Red | 爾艾格艾護腕・赤 |
-| 12777 | Regelia D Arms・Green | 爾艾格艾護腕・緑 |
-| 12778 | Regelia D Arms・Blue | 爾艾格艾護腕・青 |
-| 12779 | Aristo D Arms・Blue | 阿爾伊斯護腕・青 |
-| 12780 | Aristo D Arms・White | 阿爾伊斯護腕・白 |
-| 12781 | Aristo D Arms・Purple | 阿爾伊斯護腕・紫 |
-| 12782 | Aristo D Arms・Red | 阿爾伊斯護腕・赤 |
-| 12783 | Melety D Arms・White | 姆艾爾艾護腕・白 |
-| 12784 | Melety D Arms・Red | 姆艾爾艾護腕・赤 |
-| 12785 | Melety D Arms・Blue | 姆艾爾艾護腕・青 |
-| 12786 | Melety D Arms・Black | 姆艾爾艾護腕・黑 |
-| 12787 | Ferme D Arms・Black | 芙艾爾艾護腕・黑 |
-| 12788 | Ferme D Arms・Red | 芙艾爾艾護腕・赤 |
-| 12789 | Ferme D Arms・White | 芙艾爾艾護腕・白 |
-| 12790 | Ferme D Arms・Blue | 芙艾爾艾護腕・青 |
-| 12791 | Real D Arms・White | 爾艾爾護腕・白 |
-| 12792 | Real D Arms・Gold | 爾艾爾護腕・金 |
-| 12793 | Real D Arms・Blue | 爾艾爾護腕・青 |
-| 12794 | Real D Arms・Red | 爾艾爾護腕・赤 |
-| 12795 | Arma D Arms・Black | 阿爾阿斯護腕・黑 |
-| 12796 | Arma D Arms・White | 阿爾阿斯護腕・白 |
-| 12797 | Arma D Arms・Blue | 阿爾阿斯護腕・青 |
-| 12798 | Arma D Arms・Tea | 阿爾阿斯護腕・茶 |
+| 12771 | Buney D Arms・Black | 布奈護腕・黑 |
+| 12772 | Buney D Arms・White | 布奈護腕・白 |
+| 12773 | Buney D Arms・Red | 布奈護腕・赤 |
+| 12774 | Buney D Arms・Purple | 布奈護腕・紫 |
+| 12775 | Regelia D Arms・White | 蕾蓋莉護腕・白 |
+| 12776 | Regelia D Arms・Red | 蕾蓋莉護腕・赤 |
+| 12777 | Regelia D Arms・Green | 蕾蓋莉護腕・緑 |
+| 12778 | Regelia D Arms・Blue | 蕾蓋莉護腕・青 |
+| 12779 | Aristo D Arms・Blue | 里斯托護腕・青 |
+| 12780 | Aristo D Arms・White | 里斯托護腕・白 |
+| 12781 | Aristo D Arms・Purple | 里斯托護腕・紫 |
+| 12782 | Aristo D Arms・Red | 里斯托護腕・赤 |
+| 12783 | Melety D Arms・White | 梅勒護腕・白 |
+| 12784 | Melety D Arms・Red | 梅勒護腕・赤 |
+| 12785 | Melety D Arms・Blue | 梅勒護腕・青 |
+| 12786 | Melety D Arms・Black | 梅勒護腕・黑 |
+| 12787 | Ferme D Arms・Black | 菲姆護腕・黑 |
+| 12788 | Ferme D Arms・Red | 菲姆護腕・赤 |
+| 12789 | Ferme D Arms・White | 菲姆護腕・白 |
+| 12790 | Ferme D Arms・Blue | 菲姆護腕・青 |
+| 12791 | Real D Arms・White | 蕾護腕・白 |
+| 12792 | Real D Arms・Gold | 蕾護腕・金 |
+| 12793 | Real D Arms・Blue | 蕾護腕・青 |
+| 12794 | Real D Arms・Red | 蕾護腕・赤 |
+| 12795 | Arma D Arms・Black | 姆護腕・黑 |
+| 12796 | Arma D Arms・White | 姆護腕・白 |
+| 12797 | Arma D Arms・Blue | 姆護腕・青 |
+| 12798 | Arma D Arms・Tea | 姆護腕・茶 |
 | 12799 | Honour D Arms・Red | 榮譽護腕・赤 |
 | 12800 | Honour D Arms・Blue | 榮譽護腕・青 |
 | 12801 | Honour D Arms・Green | 榮譽護腕・緑 |
@@ -314,11 +314,11 @@
 | 12808 | Magos D Arms・Red | 瑪戈斯護腕・赤 |
 | 12809 | Magos D Arms・Water | 瑪戈斯護腕・水 |
 | 12810 | Magos D Arms・Blue | 瑪戈斯護腕・青 |
-| 12811 | Arge D Arms | 阿爾艾斯護腕 |
+| 12811 | Arge D Arms | 蓋護腕 |
 | 12812 | Camarera D Arms | 克阿姆阿護腕 |
-| 12813 | Metenera D Arms | 姆艾特艾護腕 |
+| 12813 | Metenera D Arms | 梅特奈拉護腕 |
 | 12814 | Abitto D Arms | 阿布伊特護腕 |
-| 12815 | Riburi D Arms | 爾伊布烏護腕 |
+| 12815 | Riburi D Arms | 里布里護腕 |
 | 12816 | Zodic D Arms・Blue | 茲歐德伊護腕・青 |
 | 12817 | Zodic D Arms・Tea | 茲歐德伊護腕・茶 |
 | 12818 | Zodic D Arms・Green | 茲歐德伊護腕・緑 |
@@ -327,22 +327,22 @@
 | 12821 | Cayssis D Arms Red | 凱西斯護腕・赤 |
 | 12822 | Cayssis D Arms Blue | 凱西斯護腕・青 |
 | 12823 | Cayssis D Arms Orange | 凱西斯護腕・橙 |
-| 12824 | Omet D Arms・Black | 歐姆艾特護腕・黑 |
-| 12825 | Omet D Arms・Red | 歐姆艾特護腕・赤 |
-| 12826 | Omet D Arms・White | 歐姆艾特護腕・白 |
-| 12827 | Omet D Arms・Blue | 歐姆艾特護腕・青 |
+| 12824 | Omet D Arms・Black | 梅護腕・黑 |
+| 12825 | Omet D Arms・Red | 梅護腕・赤 |
+| 12826 | Omet D Arms・White | 梅護腕・白 |
+| 12827 | Omet D Arms・Blue | 梅護腕・青 |
 | 12828 | Edio D Arms・Blue | 艾德伊斯護腕・青 |
 | 12829 | Edio D Arms・Red | 艾德伊斯護腕・赤 |
 | 12830 | Edio D Arms・Yellow | 艾德伊斯護腕・黄 |
 | 12831 | Edio D Arms・Black | 艾德伊斯護腕・黑 |
-| 12832 | Steno D Arms・Orange | 斯艾恩歐護腕・橙 |
-| 12833 | Steno D Arms・Peach | 斯艾恩歐護腕・桃 |
-| 12834 | Steno D Arms・Blue | 斯艾恩歐護腕・青 |
-| 12835 | Steno D Arms・Red | 斯艾恩歐護腕・赤 |
-| 12836 | Suriito D Arms・Yellow | 斯烏爾伊護腕・黄 |
-| 12837 | Suriito D Arms・Silver | 斯烏爾伊護腕・銀 |
-| 12838 | Suriito D Arms・Red | 斯烏爾伊護腕・赤 |
-| 12839 | Suriito D Arms・Blue | 斯烏爾伊護腕・青 |
+| 12832 | Steno D Arms・Orange | 斯特諾護腕・橙 |
+| 12833 | Steno D Arms・Peach | 斯特諾護腕・桃 |
+| 12834 | Steno D Arms・Blue | 斯特諾護腕・青 |
+| 12835 | Steno D Arms・Red | 斯特諾護腕・赤 |
+| 12836 | Suriito D Arms・Yellow | 斯里托護腕・黄 |
+| 12837 | Suriito D Arms・Silver | 斯里托護腕・銀 |
+| 12838 | Suriito D Arms・Red | 斯里托護腕・赤 |
+| 12839 | Suriito D Arms・Blue | 斯里托護腕・青 |
 | 12840 | Galitos D Arms・Tea | 加里托斯護腕・茶 |
 | 12841 | Galitos D Arms・Red | 加里托斯護腕・赤 |
 | 12842 | Galitos D Arms・Black | 加里托斯護腕・黑 |
@@ -351,18 +351,18 @@
 | 12845 | Text D Arms・Green | 特艾克斯護腕・緑 |
 | 12846 | Text D Arms・Blue | 特艾克斯護腕・青 |
 | 12847 | Text D Arms・Black | 特艾克斯護腕・黑 |
-| 12848 | Pharan D Arms・White | 菲阿爾阿護腕・白 |
-| 12849 | Pharan D Arms・Black | 菲阿爾阿護腕・黑 |
-| 12850 | Pharan D Arms・Red | 菲阿爾阿護腕・赤 |
-| 12851 | Pharan D Arms・Blue | 菲阿爾阿護腕・青 |
+| 12848 | Pharan D Arms・White | 夫拉恩德護腕・白 |
+| 12849 | Pharan D Arms・Black | 夫拉恩德護腕・黑 |
+| 12850 | Pharan D Arms・Red | 夫拉恩德護腕・赤 |
+| 12851 | Pharan D Arms・Blue | 夫拉恩德護腕・青 |
 | 12852 | Gold D Arms・Red | 金護腕・赤 |
 | 12853 | Gold D Arms・Blue | 金護腕・青 |
 | 12854 | Gold D Arms・Yellow | 金護腕・黄 |
 | 12855 | Gold D Arms・Purple | 金護腕・紫 |
-| 12856 | Claire D Arms・Purple | 克蕾爾護腕・紫 |
-| 12857 | Claire D Arms・Water | 克蕾爾護腕・水 |
-| 12858 | Claire D Arms・Red | 克蕾爾護腕・赤 |
-| 12859 | Claire D Arms・Black | 克蕾爾護腕・黑 |
+| 12856 | Claire D Arms・Purple | 克蕾露護腕・紫 |
+| 12857 | Claire D Arms・Water | 克蕾露護腕・水 |
+| 12858 | Claire D Arms・Red | 克蕾露護腕・赤 |
+| 12859 | Claire D Arms・Black | 克蕾露護腕・黑 |
 | 12860 | Gold Cat D Arms | 金猫護腕 |
 | 12861 | Silver Cat D Arms | 銀猫護腕 |
 | 12862 | Ex D Arms・White | 艾克斯護腕・白 |
@@ -373,10 +373,10 @@
 | 12867 | Star Festival D Gauntlets [Blue 】 | 星祭手甲・青 |
 | 12868 | Star Festival D Gauntlets [Black 】 | 星祭手甲・黑 |
 | 12869 | Star Festival D Gauntlets [White 】 | 星祭手甲・白 |
-| 12870 | Promise D Arms・White | 普歐姆伊護腕・白 |
-| 12871 | Promise D Arms・Blue | 普歐姆伊護腕・青 |
-| 12872 | Promise D Arms・Purple | 普歐姆伊護腕・紫 |
-| 12873 | Promise D Arms・Yellow | 普歐姆伊護腕・黄 |
+| 12870 | Promise D Arms・White | 普羅蜜賽護腕・白 |
+| 12871 | Promise D Arms・Blue | 普羅蜜賽護腕・青 |
+| 12872 | Promise D Arms・Purple | 普羅蜜賽護腕・紫 |
+| 12873 | Promise D Arms・Yellow | 普羅蜜賽護腕・黄 |
 | 12874 | White M Arms D | 姆護腕・白 |
 | 12875 | Flight Kote D・White | 芙伊格籠手・白 |
 | 12876 | Flight Kote D・Red | 芙伊格籠手・赤 |
@@ -386,10 +386,10 @@
 | 12880 | Bande D Arms・Red | 布阿恩艾護腕・赤 |
 | 12881 | Bande D Arms・Green | 布阿恩艾護腕・緑 |
 | 12882 | Bande D Arms・Black | 布阿恩艾護腕・黑 |
-| 12883 | Regnum D Arms・White | 爾艾格烏護腕・白 |
-| 12884 | Regnum D Arms・Blue | 爾艾格烏護腕・青 |
-| 12885 | Regnum D Arms・Red | 爾艾格烏護腕・赤 |
-| 12886 | Regnum D Arms・Tea | 爾艾格烏護腕・茶 |
+| 12883 | Regnum D Arms・White | 蕾努護腕・白 |
+| 12884 | Regnum D Arms・Blue | 蕾努護腕・青 |
+| 12885 | Regnum D Arms・Red | 蕾努護腕・赤 |
+| 12886 | Regnum D Arms・Tea | 蕾努護腕・茶 |
 | 12887 | Gania D Arms・Red | 格阿恩伊護腕・赤 |
 | 12888 | Gania D Arms・Blue | 格阿恩伊護腕・青 |
 | 12889 | Gania D Arms・Tea | 格阿恩伊護腕・茶 |
@@ -398,47 +398,47 @@
 | 12892 | Amistad D Arms・White | 阿姆伊斯護腕・白 |
 | 12893 | Amistad D Arms・Blue | 阿姆伊斯護腕・青 |
 | 12894 | Amistad D Arms・Crimson | 阿姆伊斯護腕・紅 |
-| 12895 | Perifu D Arms・Blue | 普艾爾伊護腕・青 |
-| 12896 | Perifu D Arms・Tea | 普艾爾伊護腕・茶 |
-| 12897 | Perifu D Arms・Green | 普艾爾伊護腕・緑 |
-| 12898 | Perifu D Arms・Purple | 普艾爾伊護腕・紫 |
+| 12895 | Perifu D Arms・Blue | 佩里芙護腕・青 |
+| 12896 | Perifu D Arms・Tea | 佩里芙護腕・茶 |
+| 12897 | Perifu D Arms・Green | 佩里芙護腕・緑 |
+| 12898 | Perifu D Arms・Purple | 佩里芙護腕・紫 |
 | 12899 | Vakusu D Arms | 芙阿克烏護腕 |
-| 12900 | Rizuvue D Arms | 爾伊茲烏護腕 |
-| 12901 | Konseru D Arms | 克歐恩艾護腕 |
+| 12900 | Rizuvue D Arms | 里茲護腕 |
+| 12901 | Konseru D Arms | 古賽露護腕 |
 | 12902 | Utaei Sleeve D | 烏特阿斯袖 |
 | 12903 | Utatsumugu Sleeve D | 烏特阿特袖 |
 | 12904 | Shikari Kote D | 夏伊克阿籠手 |
 | 12905 | Strega D Arms | 斯艾格阿護腕 |
-| 12906 | Eques D Arms | 艾斯烏斯護腕 |
+| 12906 | Eques D Arms | 奎護腕 |
 | 12907 | Uida D Arms | 烏德阿斯護腕 |
-| 12908 | Kuraaji D Arms | 克烏爾阿護腕 |
+| 12908 | Kuraaji D Arms | 克拉護腕 |
 | 12909 | Aneshisu D Arms | 阿恩艾夏護腕 |
 | 12910 | Zaakaa D Arms | 茲阿克阿護腕 |
 | 12911 | Vinen D Arms | 芙伊恩艾護腕 |
-| 12912 | Rudeos D Arms | 爾烏德艾護腕 |
+| 12912 | Rudeos D Arms | 露德護腕 |
 | 12913 | Breo D Arms | 布艾斯護腕 |
-| 12914 | Rouge D Arms | 爾歐格艾護腕 |
-| 12915 | Onero D Arms | 歐恩艾爾護腕 |
+| 12914 | Rouge D Arms | 蘿蓋護腕 |
+| 12915 | Onero D Arms | 奈蘿護腕 |
 | 12916 | Diina D Arms | 德伊恩阿護腕 |
-| 12917 | Oorowa D Arms | 歐爾歐沃護腕 |
+| 12917 | Oorowa D Arms | 烏蘿瓦護腕 |
 | 12918 | Higakure D Arms | 赫伊格阿護腕 |
-| 12919 | Perce D Arms | 普艾爾艾護腕 |
-| 12920 | Orykto D Arms | 歐爾歐斯護腕 |
-| 12921 | Orykto D Guard | 歐爾歐斯臂甲 |
-| 12922 | Yoruti D Arms | 伊歐爾烏護腕 |
+| 12919 | Perce D Arms | 佩賽護腕 |
+| 12920 | Orykto D Arms | 托護腕 |
+| 12921 | Orykto D Guard | 托臂甲 |
+| 12922 | Yoruti D Arms | 約露蒂護腕 |
 | 12923 | Nisuru D Arms | 恩伊斯烏護腕 |
-| 12924 | Maaden D Arms | 姆阿德艾護腕 |
-| 12925 | Maaden D Guard | 姆阿德艾臂甲 |
+| 12924 | Maaden D Arms | 瑪德恩德護腕 |
+| 12925 | Maaden D Guard | 瑪德恩德臂甲 |
 | 12926 | Cheni D Arms | 奇艾恩伊護腕 |
-| 12927 | Eguiene D Arms | 艾格烏恩護腕 |
-| 12928 | Toruboda D Arms | 特歐爾烏護腕 |
+| 12927 | Eguiene D Arms | 古奈護腕 |
+| 12928 | Toruboda D Arms | 托露波達護腕 |
 | 12929 | Kabariba D Arms | 克阿布阿護腕 |
-| 12930 | Norukku Dグローブ | 恩歐爾烏手套 |
-| 12931 | Valier D Arms | 芙阿爾伊護腕 |
-| 12932 | Arumyu D Arms | 阿爾烏姆護腕 |
+| 12930 | Norukku Dグローブ | 古蘿布手套 |
+| 12931 | Valier D Arms | 瓦莉護腕 |
+| 12932 | Arumyu D Arms | 露尤護腕 |
 | 12933 | Chatore D Arms | 奇阿特歐護腕 |
 | 12934 | Pashio D Arms | 普阿夏伊護腕 |
-| 12935 | Cariva D Arms | 克阿爾伊護腕 |
+| 12935 | Cariva D Arms | 可里瓦護腕 |
 | 12936 | Desutora GS Cannon | 德斯特拉加農護腕【ＧＳ】 |
 | 12937 | Desutora GP Cannon | 德斯特拉加農護腕【ＧＰ】 |
 | 12938 | Desutora ZP Cannon | 德斯特拉加農護腕【ＺＰ】 |
@@ -472,20 +472,20 @@
 | 12966 | Gravios ZF Guard | 鎧龍臂甲【ＺＦ】 |
 | 12967 | Gravios ZY Guard | 鎧龍臂甲【ＺＹ】 |
 | 12968 | Gravios ZX Guard | 鎧龍臂甲【ＺＸ】 |
-| 12969 | Rabius Arms | 拉比烏斯護腕 |
-| 12970 | Rabius F Arms | 拉比烏斯護腕【Ｆ】 |
-| 12971 | Rabius FZ Arms | 拉比烏斯護腕【ＦＺ】 |
-| 12972 | Rabius HS Arms | 拉比烏斯護腕【ＨＳ】 |
-| 12973 | Rabius GS Arms | 拉比烏斯護腕【ＧＳ】 |
-| 12974 | Rabius GP Arms | 拉比烏斯護腕【ＧＰ】 |
-| 12975 | Rabius ZP Arms | 拉比烏斯護腕【ＺＰ】 |
-| 12976 | Rabius Guard | 拉比烏斯臂甲 |
-| 12977 | Rabius F Guard | 拉比烏斯臂甲【Ｆ】 |
-| 12978 | Rabius FZ Guard | 拉比烏斯臂甲【ＦＺ】 |
-| 12979 | Rabius HS Guard | 拉比烏斯臂甲【ＨＳ】 |
-| 12980 | Rabius GS Guard | 拉比烏斯臂甲【ＧＳ】 |
-| 12981 | Rabius GP Guard | 拉比烏斯臂甲【ＧＰ】 |
-| 12982 | Rabius ZP Guard | 拉比烏斯臂甲【ＺＰ】 |
+| 12969 | Rabius Arms | 拉碧宇斯護腕 |
+| 12970 | Rabius F Arms | 拉碧宇斯護腕【Ｆ】 |
+| 12971 | Rabius FZ Arms | 拉碧宇斯護腕【ＦＺ】 |
+| 12972 | Rabius HS Arms | 拉碧宇斯護腕【ＨＳ】 |
+| 12973 | Rabius GS Arms | 拉碧宇斯護腕【ＧＳ】 |
+| 12974 | Rabius GP Arms | 拉碧宇斯護腕【ＧＰ】 |
+| 12975 | Rabius ZP Arms | 拉碧宇斯護腕【ＺＰ】 |
+| 12976 | Rabius Guard | 拉碧宇斯臂甲 |
+| 12977 | Rabius F Guard | 拉碧宇斯臂甲【Ｆ】 |
+| 12978 | Rabius FZ Guard | 拉碧宇斯臂甲【ＦＺ】 |
+| 12979 | Rabius HS Guard | 拉碧宇斯臂甲【ＨＳ】 |
+| 12980 | Rabius GS Guard | 拉碧宇斯臂甲【ＧＳ】 |
+| 12981 | Rabius GP Guard | 拉碧宇斯臂甲【ＧＰ】 |
+| 12982 | Rabius ZP Guard | 拉碧宇斯臂甲【ＺＰ】 |
 | 12983 | Rocras Arms | 洛克拉斯護腕 |
 | 12984 | Rocras F Arms | 洛克拉斯護腕【Ｆ】 |
 | 12985 | Rocras FZ Arms | 洛克拉斯護腕【ＦＺ】 |

@@ -4,11 +4,11 @@
 
 | index | 原文 | 譯文 |
 |---|---|---|
-| 500 | Crowley Feet・Red | 克歐沃艾足・赤 |
-| 501 | Crowley Feet・Black | 克歐沃艾足・黑 |
-| 502 | Crowley Feet・Green | 克歐沃艾足・緑 |
-| 503 | Crowley Feet・White | 克歐沃艾足・白 |
-| 504 | Crowley Feet・Blue | 克歐沃艾足・青 |
+| 500 | Crowley Feet・Red | 克勒足・赤 |
+| 501 | Crowley Feet・Black | 克勒足・黑 |
+| 502 | Crowley Feet・Green | 克勒足・緑 |
+| 503 | Crowley Feet・White | 克勒足・白 |
+| 504 | Crowley Feet・Blue | 克勒足・青 |
 | 505 | Faust Boots・Red | 芙阿斯靴・赤 |
 | 506 | Faust Boots・Black | 芙阿斯靴・黑 |
 | 507 | Faust Boots・Green | 芙阿斯靴・緑 |
@@ -59,13 +59,13 @@
 | 552 | Beru F Greaves | 舞雷龍護腿【Ｆ】 |
 | 553 | Beru F Leggings | 舞雷龍裹腿【Ｆ】 |
 | 554 | Lien Feet・Blue | 里恩足・青 |
-| 555 | Lien Boot・Blue | 爾伊恩歐護腿・青 |
+| 555 | Lien Boot・Blue | 莉波護腿・青 |
 | 556 | Lien Feet・Red | 里恩足・赤 |
-| 557 | Lien Boot・Red | 爾伊恩歐護腿・赤 |
+| 557 | Lien Boot・Red | 莉波護腿・赤 |
 | 558 | Lien Feet・Black | 里恩足・黑 |
-| 559 | Lien Boot・Black | 爾伊恩歐護腿・黑 |
+| 559 | Lien Boot・Black | 莉波護腿・黑 |
 | 560 | Lien Feet・White | 里恩足・白 |
-| 561 | Lien Boot・White | 爾伊恩歐護腿・白 |
+| 561 | Lien Boot・White | 莉波護腿・白 |
 | 562 | Lien F Feet・Blue | 里恩足【Ｆ】・青 |
 | 563 | Lien F Boots・Blue | 里恩靴【Ｆ】・青 |
 | 564 | Lien F Feet・Red | 里恩足【Ｆ】・赤 |
@@ -90,7 +90,7 @@
 | 583 | Basarios L Greaves | 岩龍護腿【Ｌ】 |
 | 584 | Rathalos L Leggings | 雄火龍裹腿【Ｌ】 |
 | 585 | Monoblos L Leggings | 一角龍裹腿【Ｌ】 |
-| 586 | Melahoa R Roots | 姆艾爾阿護腿【Ｒ】 |
+| 586 | Melahoa R Roots | 梅拉霍蘿護腿【Ｒ】 |
 | 587 | High Metal R Greaves | 上位金屬護腿【Ｒ】 |
 | 588 | Diablos R Greaves | 角龍護腿【Ｒ】 |
 | 589 | Blango R Greaves | 雪獅子護腿【Ｒ】 |
@@ -104,9 +104,9 @@
 | 597 | Extra F Leg | 追加腿【Ｆ】 |
 | 598 | Butterfly L Crura | 蝶腿甲【Ｌ】 |
 | 599 | Hypnoc R Greaves | 眠鳥護腿【Ｒ】 |
-| 600 | ディジ Gear Boots | 格艾爾靴 |
-| 601 | Priere Boots | 普伊爾艾靴 |
-| 602 | Salvacion Boots | 斯阿爾阿靴 |
+| 600 | ディジ Gear Boots | 蓋靴 |
+| 601 | Priere Boots | 普蕾靴 |
+| 602 | Salvacion Boots | 薩瓦奇靴 |
 | 603 | Shikari Greaves | 夏伊克阿護腿 |
 | 604 | Shikari Greaves・魁 | 夏伊克阿護腿魁 |
 | 605 | G・Guard R Boots Green | 防禦靴【Ｒ】・緑 |
@@ -118,8 +118,8 @@
 | 611 | Arma Boots・Blue | 武裝靴・青 |
 | 612 | Arma Feet・Tea | 武裝足・茶 |
 | 613 | Arma Boots・Tea | 武裝靴・茶 |
-| 614 | Orden Feet | 歐爾艾恩足 |
-| 615 | Orden Boots | 歐爾艾恩靴 |
+| 614 | Orden Feet | 奧登足 |
+| 615 | Orden Boots | 奧登靴 |
 | 616 | Arma F Feet・Black | 武裝足【Ｆ】・黑 |
 | 617 | Arma F Boots・Black | 武裝靴【Ｆ】・黑 |
 | 618 | Arma F Feet・White | 武裝足【Ｆ】・白 |
@@ -128,10 +128,10 @@
 | 621 | Arma F Boots・Blue | 武裝靴【Ｆ】・青 |
 | 622 | Arma F Feet・Tea | 武裝足【Ｆ】・茶 |
 | 623 | Arma F Boots・Tea | 武裝靴【Ｆ】・茶 |
-| 624 | Orden F Feet | 歐爾艾恩足【Ｆ】 |
-| 625 | Orden F Boots | 歐爾艾恩靴【Ｆ】 |
-| 626 | Es Quera Leg | 艾斯烏爾腿 |
-| 627 | Es Quera Boots | 艾斯烏爾靴 |
+| 624 | Orden F Feet | 奧登足【Ｆ】 |
+| 625 | Orden F Boots | 奧登靴【Ｆ】 |
+| 626 | Es Quera Leg | 奎拉腿 |
+| 627 | Es Quera Boots | 奎拉靴 |
 | 628 | Pandeum Leg | 普阿恩艾腿 |
 | 629 | Pandeum Boots | 普阿恩艾靴 |
 | 630 | Comrade Boots SP White | 戰友靴【ＳＰ】・白 |
@@ -149,30 +149,30 @@
 | 642 | Khezu L Leggings | 奇怪龍裹腿【Ｌ】 |
 | 643 | Io R Leggings | 伊歐裹腿【Ｒ】 |
 | 644 | Comrade Boots SP Yellow | 戰友靴【ＳＰ】・黄 |
-| 645 | Purokusu Greaves | 普烏爾歐護腿 |
-| 646 | Purokusu F Greaves | 普烏爾歐護腿【Ｆ】 |
-| 647 | Kurenesu Greaves | 克烏爾艾護腿 |
-| 648 | Kurenesu F Greaves | 克烏爾艾護腿【Ｆ】 |
+| 645 | Purokusu Greaves | 普蘿克斯護腿 |
+| 646 | Purokusu F Greaves | 普蘿克斯護腿【Ｆ】 |
+| 647 | Kurenesu Greaves | 克蕾奈斯護腿 |
+| 648 | Kurenesu F Greaves | 克蕾奈斯護腿【Ｆ】 |
 | 649 | Suini Greaves | 斯烏恩伊護腿 |
 | 650 | Suini F Greaves | 斯烏恩伊護腿【Ｆ】 |
-| 651 | Guraasu Boots | 格烏爾阿靴 |
-| 652 | Guraasu F Boots | 格烏爾阿靴【Ｆ】 |
-| 653 | Forutu Greaves | 芙歐爾烏護腿 |
-| 654 | Forutu F Greaves | 芙歐爾烏護腿【Ｆ】 |
+| 651 | Guraasu Boots | 古拉斯靴 |
+| 652 | Guraasu F Boots | 古拉斯靴【Ｆ】 |
+| 653 | Forutu Greaves | 佛露圖護腿 |
+| 654 | Forutu F Greaves | 佛露圖護腿【Ｆ】 |
 | 655 | Fakiru Greaves | 芙阿克伊護腿 |
 | 656 | Fakiru F Greaves | 芙阿克伊護腿【Ｆ】 |
-| 657 | Baraban Greaves | 布阿爾阿護腿 |
-| 658 | Baraban F Greaves | 布阿爾阿護腿【Ｆ】 |
-| 659 | Sufera Boots | 斯烏芙艾靴 |
-| 660 | Sufera F Boots | 斯烏芙艾靴【Ｆ】 |
+| 657 | Baraban Greaves | 巴拉巴護腿 |
+| 658 | Baraban F Greaves | 巴拉巴護腿【Ｆ】 |
+| 659 | Sufera Boots | 斯菲拉靴 |
+| 660 | Sufera F Boots | 斯菲拉靴【Ｆ】 |
 | 661 | Paria Greaves | 呑龍護腿 |
 | 662 | Paria F Greaves | 呑龍護腿【Ｆ】 |
 | 663 | Paria Leggings | 呑龍裹腿 |
 | 664 | Paria F Leggings | 呑龍裹腿【Ｆ】 |
-| 665 | Hypnolia Leg | 赫歐爾伊腿 |
-| 666 | Hypnolia Boots | 赫歐爾伊靴 |
-| 667 | Feral Leg | 芙艾爾阿腿 |
-| 668 | Feral Boots | 芙艾爾阿靴 |
+| 665 | Hypnolia Leg | 諾莉腿 |
+| 666 | Hypnolia Boots | 諾莉靴 |
+| 667 | Feral Leg | 菲拉腿 |
+| 668 | Feral Boots | 菲拉靴 |
 | 669 | Demon Lord ノ足枷 | 魔王護腿 |
 | 670 | Rasta 教官 Foot | 教官護腿 |
 | 671 | 童子ノ足枷 | 童子足枷護腿 |
@@ -233,32 +233,32 @@
 | 726 | Wild Leg | 狂野腿 |
 | 727 | Guns Boots | 格烏恩靴 |
 | 728 | Wild Boots | 狂野靴 |
-| 729 | Ecole Leg | 艾克歐爾腿 |
+| 729 | Ecole Leg | 古勒腿 |
 | 730 | Dian Leg | 德伊恩腿 |
-| 731 | Ecole Boots | 艾克歐爾靴 |
+| 731 | Ecole Boots | 古勒靴 |
 | 732 | Dian Boots | 德伊恩靴 |
-| 733 | Core Greaves C | 克歐爾艾護腿 |
-| 734 | Core Leggings C | 克歐爾艾裹腿 |
-| 735 | Core Greaves | 克歐爾艾護腿 |
-| 736 | Core Leggings | 克歐爾艾裹腿 |
+| 733 | Core Greaves C | 古蕾護腿 |
+| 734 | Core Leggings C | 古蕾裹腿 |
+| 735 | Core Greaves | 古蕾護腿 |
+| 736 | Core Leggings | 古蕾裹腿 |
 | 737 | Aneshisu Greaves | 阿恩艾夏護腿 |
 | 738 | Aneshisu Leggings | 阿恩艾夏裹腿 |
-| 739 | Kuraaji Greaves | 克烏爾阿護腿 |
+| 739 | Kuraaji Greaves | 克拉護腿 |
 | 740 | Kuraaji Greaves 改 | 改護腿 |
-| 741 | Kuraaji F Greaves | 克烏爾阿護腿【Ｆ】 |
-| 742 | Kuraaji Leggings | 克烏爾阿裹腿 |
+| 741 | Kuraaji F Greaves | 克拉護腿【Ｆ】 |
+| 742 | Kuraaji Leggings | 克拉裹腿 |
 | 743 | Kuraaji Leggings 改 | 改裹腿 |
-| 744 | Kuraaji F Leggings | 克烏爾阿裹腿【Ｆ】 |
+| 744 | Kuraaji F Leggings | 克拉裹腿【Ｆ】 |
 | 745 | Kinosu Greaves | 克伊恩歐護腿 |
-| 746 | Himeros Greaves | 赫伊姆艾護腿 |
-| 747 | Bureshisu Greaves | 布烏爾艾護腿 |
+| 746 | Himeros Greaves | 希梅蘿護腿 |
+| 747 | Bureshisu Greaves | 布蕾修斯護腿 |
 | 748 | Charien Leggings | 夏里安裹腿 |
-| 749 | Arietta Leg | 阿爾伊特腿 |
+| 749 | Arietta Leg | 里特腿 |
 | 750 | Tempest Leg | 暴風雨腿 |
-| 751 | Vento Boots | 芙艾恩歐靴 |
+| 751 | Vento Boots | 薇托靴 |
 | 752 | Mistral Boots | 姆伊斯阿靴 |
-| 753 | Arc Greaves | 阿爾護腿 |
-| 754 | Arc Leggings | 阿爾裹腿 |
+| 753 | Arc Greaves | 亞克護腿 |
+| 754 | Arc Leggings | 亞克裹腿 |
 | 755 | Rath Duo Greaves | 雙火龍護腿 |
 | 756 | Rath Duo Leggings | 雙火龍裹腿 |
 | 757 | Shaln Feet・Blue | 夏爾恩足・青 |
@@ -297,10 +297,10 @@
 | 790 | Real F Feet・Red | 真足【Ｆ】・赤 |
 | 791 | Real Boots・Red | 真靴・赤 |
 | 792 | Real F Boots・Red | 真靴【Ｆ】・赤 |
-| 793 | Regis Feet | 爾艾格伊足 |
-| 794 | Regis F Feet | 爾艾格伊足【Ｆ】 |
-| 795 | Regis Boots | 爾艾格伊靴 |
-| 796 | Regis F Boots | 爾艾格伊靴【Ｆ】 |
+| 793 | Regis Feet | 蕾吉足 |
+| 794 | Regis F Feet | 蕾吉足【Ｆ】 |
+| 795 | Regis Boots | 蕾吉靴 |
+| 796 | Regis F Boots | 蕾吉靴【Ｆ】 |
 | 797 | Comrade Boots 【葉】 | 戰友靴 |
 | 798 | Comrade Boots 【柑】 | 戰友靴 |
 | 799 | Comrade Boots 【冷】 | 戰友靴 |
@@ -331,19 +331,19 @@
 | 824 | Ceanataur L Leggings | 鎌蟹裹腿【Ｌ】 |
 | 825 | Rath Heart R Leggings | 火龍心裹腿【Ｒ】 |
 | 826 | Bone R Leggings | 骨製裹腿【Ｒ】 |
-| 827 | Buran Greaves | 布烏爾阿護腿 |
+| 827 | Buran Greaves | 布拉護腿 |
 | 828 | White Belt Greaves | 白帶護腿 |
 | 829 | Kagura 【 Hakama 】 | 神樂袴 |
 | 830 | Kagura・覇【 Hakama 】 | 神樂袴 |
 | 831 | Kamiza 【 Hakama 】 | 上座袴 |
 | 832 | Kamiza・覇【 Hakama 】 | 上座袴 |
-| 833 | アスハルテ Feet | 阿斯哈爾特足 |
-| 834 | アスハルテ Boots | 阿斯哈爾特靴 |
+| 833 | アスハルテ Feet | 亞斯哈露足 |
+| 834 | アスハルテ Boots | 亞斯哈露靴 |
 | 835 | ローク Greaves | 洛可護腿 |
 | 836 | ローク Leggings | 洛可裹腿 |
-| 837 | Soldato Feet | 斯歐爾阿足 |
+| 837 | Soldato Feet | 索達托足 |
 | 838 | Gable Feet | 格阿布艾足 |
-| 839 | Soldato Boots | 斯歐爾阿靴 |
+| 839 | Soldato Boots | 索達托靴 |
 | 840 | Gable Boots | 格阿布艾靴 |
 | 841 | Uida Feet | 烏德阿足 |
 | 842 | スティーダ Feet | 斯蒂達足 |
@@ -357,20 +357,20 @@
 | 850 | Fias Leg | 芙伊斯腿 |
 | 851 | Fauve Boots | 芙阿芙艾靴 |
 | 852 | Fias Boots | 芙伊斯靴 |
-| 853 | フィデル Greaves | 菲德爾護腿 |
-| 854 | フィデルF Greaves | 菲德爾護腿【Ｆ】 |
+| 853 | フィデル Greaves | 菲德露護腿 |
+| 854 | フィデルF Greaves | 菲德露護腿【Ｆ】 |
 | 855 | ファクト Greaves | 法克特護腿 |
 | 856 | ファクトF Greaves | 法克特護腿【Ｆ】 |
 | 857 | シュロス Greaves | 舒羅斯護腿 |
 | 858 | シュロスF Greaves | 舒羅斯護腿【Ｆ】 |
 | 859 | アエトス Boots | 阿埃托斯靴 |
 | 860 | アエトスF Boots | 阿埃托斯靴【Ｆ】 |
-| 861 | ヴェルス Greaves | 維爾斯護腿 |
-| 862 | ヴェルスF Greaves | 維爾斯護腿【Ｆ】 |
+| 861 | ヴェルス Greaves | 薇露斯護腿 |
+| 862 | ヴェルスF Greaves | 薇露斯護腿【Ｆ】 |
 | 863 | フラント Greaves | 芙拉恩托護腿 |
 | 864 | フラントF Greaves | 芙拉恩托護腿【Ｆ】 |
-| 865 | Serieux Greaves | 斯艾爾伊護腿 |
-| 866 | Serieux F Greaves | 斯艾爾伊護腿【Ｆ】 |
+| 865 | Serieux Greaves | 賽里克斯護腿 |
+| 866 | Serieux F Greaves | 賽里克斯護腿【Ｆ】 |
 | 867 | ウェネス Boots | 韋涅斯靴 |
 | 868 | ウェネスF Boots | 韋涅斯靴【Ｆ】 |
 | 869 | Ferme Feet・Black | 閉月足・黑 |
@@ -393,22 +393,22 @@
 | 886 | リエーザF Feet | 里耶薩足【Ｆ】 |
 | 887 | リエーザ Boots | 里耶薩靴 |
 | 888 | リエーザF Boots | 里耶薩靴【Ｆ】 |
-| 889 | Claire Feet・Purple | 克蕾爾足・紫 |
-| 890 | Claire F Feet・Purple | 克蕾爾足【Ｆ】・紫 |
-| 891 | Claire Boots・Purple | 克蕾爾靴・紫 |
-| 892 | Claire F Boots・Purple | 克蕾爾靴【Ｆ】・紫 |
-| 893 | Claire Feet・Water | 克蕾爾足・水 |
-| 894 | Claire F Feet・Water | 克蕾爾足【Ｆ】・水 |
-| 895 | Claire Boots・Water | 克蕾爾靴・水 |
-| 896 | Claire F Boots・Water | 克蕾爾靴【Ｆ】・水 |
-| 897 | Claire Feet・Red | 克蕾爾足・赤 |
-| 898 | Claire F Feet・Red | 克蕾爾足【Ｆ】・赤 |
-| 899 | Claire Boots・Red | 克蕾爾靴・赤 |
-| 900 | Claire F Boots・Red | 克蕾爾靴【Ｆ】・赤 |
-| 901 | Claire Feet・Black | 克蕾爾足・黑 |
-| 902 | Claire F Feet・Black | 克蕾爾足【Ｆ】・黑 |
-| 903 | Claire Boots・Black | 克蕾爾靴・黑 |
-| 904 | Claire F Boots・Black | 克蕾爾靴【Ｆ】・黑 |
+| 889 | Claire Feet・Purple | 克蕾露足・紫 |
+| 890 | Claire F Feet・Purple | 克蕾露足【Ｆ】・紫 |
+| 891 | Claire Boots・Purple | 克蕾露靴・紫 |
+| 892 | Claire F Boots・Purple | 克蕾露靴【Ｆ】・紫 |
+| 893 | Claire Feet・Water | 克蕾露足・水 |
+| 894 | Claire F Feet・Water | 克蕾露足【Ｆ】・水 |
+| 895 | Claire Boots・Water | 克蕾露靴・水 |
+| 896 | Claire F Boots・Water | 克蕾露靴【Ｆ】・水 |
+| 897 | Claire Feet・Red | 克蕾露足・赤 |
+| 898 | Claire F Feet・Red | 克蕾露足【Ｆ】・赤 |
+| 899 | Claire Boots・Red | 克蕾露靴・赤 |
+| 900 | Claire F Boots・Red | 克蕾露靴【Ｆ】・赤 |
+| 901 | Claire Feet・Black | 克蕾露足・黑 |
+| 902 | Claire F Feet・Black | 克蕾露足【Ｆ】・黑 |
+| 903 | Claire Boots・Black | 克蕾露靴・黑 |
+| 904 | Claire F Boots・Black | 克蕾露靴【Ｆ】・黑 |
 | 905 | Desert Feet | 沙漠足 |
 | 906 | Desert F Feet | 沙漠足【Ｆ】 |
 | 907 | Desert Boots | 沙漠靴 |
@@ -439,9 +439,9 @@
 | 932 | ヴィリヴラ Boots | 維里夫拉靴 |
 | 933 | Angriff Boots | 阿恩伊芙靴 |
 | 934 | Schutz Feet | 施烏特足 |
-| 935 | Hilfe Feet | 赫伊爾艾足 |
+| 935 | Hilfe Feet | 希菲足 |
 | 936 | Schutz Boots | 施烏特靴 |
-| 937 | Hilfe Boots | 赫伊爾艾靴 |
+| 937 | Hilfe Boots | 希菲靴 |
 | 938 | Makluva R Pants | 馬庫瓦袴【Ｒ】 |
 | 939 | Raviente Greaves | 大巖龍護腿 |
 | 940 | Raviente F Greaves | 大巖龍護腿【Ｆ】 |
@@ -451,26 +451,26 @@
 | 944 | Raviente FX Leggings | 大巖龍裹腿【ＦＸ】 |
 | 945 | アナキ Greaves | 阿納基護腿 |
 | 946 | アナキ Boots | 阿納基靴 |
-| 947 | Harvest Boots | 赫阿爾艾靴 |
-| 948 | Harvest Leggings | 赫阿爾艾裹腿 |
+| 947 | Harvest Boots | 哈薇靴 |
+| 948 | Harvest Leggings | 哈薇裹腿 |
 | 949 | Craft Boots | 工匠靴 |
 | 950 | Craft F Boots | 工匠靴【Ｆ】 |
 | 951 | Craft Leggings | 工匠裹腿 |
 | 952 | Craft F Leggings | 工匠裹腿【Ｆ】 |
-| 953 | Ledia Boots | 爾艾德伊靴 |
-| 954 | Ledia F Boots | 爾艾德伊靴【Ｆ】 |
-| 955 | Ledia Leggings | 爾艾德伊裹腿 |
-| 956 | Ledia F Leggings | 爾艾德伊裹腿【Ｆ】 |
+| 953 | Ledia Boots | 勒迪靴 |
+| 954 | Ledia F Boots | 勒迪靴【Ｆ】 |
+| 955 | Ledia Leggings | 勒迪裹腿 |
+| 956 | Ledia F Leggings | 勒迪裹腿【Ｆ】 |
 | 957 | ティーア Leg | 蒂亞腿 |
-| 958 | Viruto Leg | 芙伊爾烏腿 |
+| 958 | Viruto Leg | 薇露托腿 |
 | 959 | ティーア Boots | 蒂亞靴 |
-| 960 | Viruto Boots | 芙伊爾烏靴 |
-| 961 | Muse Leg | 姆烏斯艾腿 |
-| 962 | Tune Leg | 特烏恩艾腿 |
+| 960 | Viruto Boots | 薇露托靴 |
+| 961 | Muse Leg | 姆賽腿 |
+| 962 | Tune Leg | 圖奈腿 |
 | 963 | ゼーレ Boots | 澤勒靴 |
 | 964 | Schnite Boots | 施伊特艾靴 |
-| 965 | アセルス Feet | 阿塞爾斯足 |
-| 966 | アセルスF Feet | 阿塞爾斯足【Ｆ】 |
+| 965 | アセルス Feet | 亞賽露斯足 |
+| 966 | アセルスF Feet | 亞賽露斯足【Ｆ】 |
 | 967 | スクラ Feet | 斯庫拉足 |
 | 968 | スクラF Feet | 斯庫拉足【Ｆ】 |
 | 969 | ファルム Feet | 法魯姆足 |

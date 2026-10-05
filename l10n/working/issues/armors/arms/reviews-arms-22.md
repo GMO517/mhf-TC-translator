@@ -4,10 +4,10 @@
 
 | index | 原文 | 譯文 |
 |---|---|---|
-| 10501 | Gore Guard | 格歐爾艾臂甲 |
-| 10502 | Gore G Guard | 格歐爾艾臂甲【Ｇ】 |
-| 10503 | Gore GF Guard | 格歐爾艾臂甲【ＧＦ】 |
-| 10504 | Gore GX Guard | 格歐爾艾臂甲【ＧＸ】 |
+| 10501 | Gore Guard | 戈蕾臂甲 |
+| 10502 | Gore G Guard | 戈蕾臂甲【Ｇ】 |
+| 10503 | Gore GF Guard | 戈蕾臂甲【ＧＦ】 |
+| 10504 | Gore GX Guard | 戈蕾臂甲【ＧＸ】 |
 | 10505 | Zena G Arms | 茲艾恩阿護腕【Ｇ】 |
 | 10506 | Zena GF Arms | 茲艾恩阿護腕【ＧＦ】 |
 | 10507 | Zena GX Arms | 茲艾恩阿護腕【ＧＸ】 |
@@ -130,20 +130,20 @@
 | 10624 | Youthclad Kote G | 伊歐斯阿籠手【Ｇ】 |
 | 10625 | Youthclad Kote GF | 伊歐斯阿籠手【ＧＦ】 |
 | 10626 | Youthclad Kote GX | 伊歐斯阿籠手【ＧＸ】 |
-| 10627 | Rave Arms | 爾阿芙艾護腕 |
-| 10628 | Rave F Arms | 爾阿芙艾護腕【Ｆ】 |
-| 10629 | Rave FY Arms | 爾阿芙艾護腕 |
-| 10630 | Rave HS Arms | 爾阿芙艾護腕【ＨＳ】 |
-| 10631 | Rave G Arms | 爾阿芙艾護腕【Ｇ】 |
-| 10632 | Rave GF Arms | 爾阿芙艾護腕【ＧＦ】 |
-| 10633 | Rave GX Arms | 爾阿芙艾護腕【ＧＸ】 |
-| 10634 | Rave Guard | 爾阿芙艾臂甲 |
-| 10635 | Rave F Guard | 爾阿芙艾臂甲【Ｆ】 |
-| 10636 | Rave FY Guard | 爾阿芙艾臂甲 |
-| 10637 | Rave HS Guard | 爾阿芙艾臂甲【ＨＳ】 |
-| 10638 | Rave G Guard | 爾阿芙艾臂甲【Ｇ】 |
-| 10639 | Rave GF Guard | 爾阿芙艾臂甲【ＧＦ】 |
-| 10640 | Rave GX Guard | 爾阿芙艾臂甲【ＧＸ】 |
+| 10627 | Rave Arms | 拉薇護腕 |
+| 10628 | Rave F Arms | 拉薇護腕【Ｆ】 |
+| 10629 | Rave FY Arms | 拉薇護腕 |
+| 10630 | Rave HS Arms | 拉薇護腕【ＨＳ】 |
+| 10631 | Rave G Arms | 拉薇護腕【Ｇ】 |
+| 10632 | Rave GF Arms | 拉薇護腕【ＧＦ】 |
+| 10633 | Rave GX Arms | 拉薇護腕【ＧＸ】 |
+| 10634 | Rave Guard | 拉薇臂甲 |
+| 10635 | Rave F Guard | 拉薇臂甲【Ｆ】 |
+| 10636 | Rave FY Guard | 拉薇臂甲 |
+| 10637 | Rave HS Guard | 拉薇臂甲【ＨＳ】 |
+| 10638 | Rave G Guard | 拉薇臂甲【Ｇ】 |
+| 10639 | Rave GF Guard | 拉薇臂甲【ＧＦ】 |
+| 10640 | Rave GX Guard | 拉薇臂甲【ＧＸ】 |
 | 10641 | Wander D Arms・Blue | 沃阿恩艾護腕・青 |
 | 10642 | Wander D Arms・Red | 沃阿恩艾護腕・赤 |
 | 10643 | Wander D Arms・White | 沃阿恩艾護腕・白 |
@@ -151,7 +151,7 @@
 | 10645 | Blue Ice Emperor D Arms | 青冰帝護腕 |
 | 10646 | White Ice Emperor D Arms | 白冰帝護腕 |
 | 10647 | Red Ice Emperor D Arms | 赤冰帝護腕 |
-| 10648 | Rance C Arms | 爾阿恩艾護腕 |
+| 10648 | Rance C Arms | 拉賽護腕 |
 | 10649 | Santa D Arms | 斯阿恩阿護腕 |
 | 10650 | Anteka Dグローブ | 雪鹿手套 |
 | 10651 | Chiarim ZP Arms | 奇亞琳護腕【ＺＰ】 |
@@ -165,12 +165,12 @@
 | 10659 | Katante ZY Guard | 克阿特阿臂甲【ＺＹ】 |
 | 10660 | Katante ZX Guard | 克阿特阿臂甲【ＺＸ】 |
 | 10661 | Sakufi D Arms | 斯阿克烏護腕 |
-| 10662 | Asumo D Arms | 阿斯烏姆護腕 |
+| 10662 | Asumo D Arms | 斯莫護腕 |
 | 10663 | Dios D Arms | 德伊斯護腕 |
-| 10664 | Asteli D Arms・White | 阿斯艾爾護腕・白 |
-| 10665 | Asteli D Arms・Blue | 阿斯艾爾護腕・青 |
-| 10666 | Asteli D Arms・Red | 阿斯艾爾護腕・赤 |
-| 10667 | Asteli D Arms・Black | 阿斯艾爾護腕・黑 |
+| 10664 | Asteli D Arms・White | 斯特莉護腕・白 |
+| 10665 | Asteli D Arms・Blue | 斯特莉護腕・青 |
+| 10666 | Asteli D Arms・Red | 斯特莉護腕・赤 |
+| 10667 | Asteli D Arms・Black | 斯特莉護腕・黑 |
 | 10668 | Lien D Arms・Blue | 爾伊恩護腕・青 |
 | 10669 | Lien D Arms・Red | 爾伊恩護腕・赤 |
 | 10670 | Lien D Arms・Black | 爾伊恩護腕・黑 |
@@ -178,66 +178,66 @@
 | 10672 | Lien D Arms・Crimson | 爾伊恩護腕・紅 |
 | 10673 | Lien D Arms・藍 | 藍護腕 |
 | 10674 | Lien D Arms・Peach | 爾伊恩護腕・桃 |
-| 10675 | Carrol D Arms・Black | 克阿爾歐護腕・黑 |
-| 10676 | Carrol D Arms・Blue | 克阿爾歐護腕・青 |
-| 10677 | Carrol D Arms・White | 克阿爾歐護腕・白 |
-| 10678 | Carrol D Arms・Red | 克阿爾歐護腕・赤 |
-| 10679 | Carrol D Arms・Peach | 克阿爾歐護腕・桃 |
+| 10675 | Carrol D Arms・Black | 可爾護腕・黑 |
+| 10676 | Carrol D Arms・Blue | 可爾護腕・青 |
+| 10677 | Carrol D Arms・White | 可爾護腕・白 |
+| 10678 | Carrol D Arms・Red | 可爾護腕・赤 |
+| 10679 | Carrol D Arms・Peach | 可爾護腕・桃 |
 | 10680 | Gothic D Arms | 格歐斯伊護腕 |
 | 10681 | Kirin D Arms ロング | 麒麟護腕 |
-| 10682 | Farunokku D Arms | 芙阿爾烏護腕 |
-| 10683 | Farunokku D Guard | 芙阿爾烏臂甲 |
+| 10682 | Farunokku D Arms | 法露諾克護腕 |
+| 10683 | Farunokku D Guard | 法露諾克臂甲 |
 | 10684 | Pokara D Arms | 普歐克阿護腕 |
 | 10685 | Pokara D Guard | 普歐克阿臂甲 |
-| 10686 | Genesis D【手袋】 | 格艾恩艾護腕 |
-| 10687 | Motion D【手袋】 | 姆歐特伊護腕 |
+| 10686 | Genesis D【手袋】 | 蓋奈西護腕 |
+| 10687 | Motion D【手袋】 | 莫恩護腕 |
 | 10688 | Lightning D【 Kote 】 | 雷光籠手 |
 | 10689 | Thunder D【 Kote 】 | 雷籠手 |
-| 10690 | Toridcless D Arms | 特歐爾伊護腕 |
-| 10691 | Toridcless D Guard | 特歐爾伊臂甲 |
+| 10690 | Toridcless D Arms | 托里克雷護腕 |
+| 10691 | Toridcless D Guard | 托里克雷臂甲 |
 | 10692 | Guan D Arms | 格烏恩護腕 |
 | 10693 | Guan D Guard | 格烏恩臂甲 |
-| 10694 | Varusa D Arms | 芙阿爾烏護腕 |
-| 10695 | Varusa D Guard | 芙阿爾烏臂甲 |
+| 10694 | Varusa D Arms | 瓦露薩護腕 |
+| 10695 | Varusa D Guard | 瓦露薩臂甲 |
 | 10696 | Toa D Arms | 特歐斯護腕 |
 | 10697 | Toa D Guard | 特歐斯臂甲 |
 | 10698 | Blitz D Arms | 布伊特護腕 |
-| 10699 | Stroma D Arms | 斯歐姆阿護腕 |
-| 10700 | Stroma D Guard | 斯歐姆阿臂甲 |
+| 10699 | Stroma D Arms | 斯特瑪護腕 |
+| 10700 | Stroma D Guard | 斯特瑪臂甲 |
 | 10701 | Inagami D【 Kote 】 | 雅翁龍籠手 |
 | 10702 | Inagami D【 Kote 】 | 雅翁龍籠手 |
-| 10703 | Altera D Arms | 阿爾艾爾護腕 |
-| 10704 | Altera D Guard | 阿爾艾爾臂甲 |
-| 10705 | Pobo D Arms | 普歐布歐護腕 |
-| 10706 | Pobo D Guard | 普歐布歐臂甲 |
+| 10703 | Altera D Arms | 特拉護腕 |
+| 10704 | Altera D Guard | 特拉臂甲 |
+| 10705 | Pobo D Arms | 珀波護腕 |
+| 10706 | Pobo D Guard | 珀波臂甲 |
 | 10707 | Zinogre C Arms | 茲伊恩歐護腕 |
 | 10708 | Zinogre C Guard | 茲伊恩歐臂甲 |
-| 10709 | Hornetaur UD Arms | 赫歐爾艾護腕 |
-| 10710 | Hornetaur UD Guard | 赫歐爾艾臂甲 |
+| 10709 | Hornetaur UD Arms | 霍恩塔露護腕 |
+| 10710 | Hornetaur UD Guard | 霍恩塔露臂甲 |
 | 10711 | Rathalos D Arms | 爾阿斯阿護腕 |
 | 10712 | Rathalos D Guard | 爾阿斯阿臂甲 |
 | 10713 | Gogomoa D Arms | 跳緋獸護腕 |
 | 10714 | Gogomoa D Guard | 跳緋獸臂甲 |
-| 10715 | Azul D Arms | 阿茲烏爾護腕 |
-| 10716 | Azul D Guard | 阿茲烏爾臂甲 |
-| 10717 | Harvest D Arms | 赫阿爾艾護腕 |
-| 10718 | Harvest D Guard | 赫阿爾艾臂甲 |
-| 10719 | Melan D Arms | 姆艾爾阿護腕 |
-| 10720 | Melan D Guard | 姆艾爾阿臂甲 |
-| 10721 | Diru D Arms | 德伊爾烏護腕 |
-| 10722 | Diru D Guard | 德伊爾烏臂甲 |
+| 10715 | Azul D Arms | 茲護腕 |
+| 10716 | Azul D Guard | 茲臂甲 |
+| 10717 | Harvest D Arms | 哈薇護腕 |
+| 10718 | Harvest D Guard | 哈薇臂甲 |
+| 10719 | Melan D Arms | 梅拉恩德護腕 |
+| 10720 | Melan D Guard | 梅拉恩德臂甲 |
+| 10721 | Diru D Arms | 迪露護腕 |
+| 10722 | Diru D Guard | 迪露臂甲 |
 | 10723 | Tandress D Arms | 特阿恩艾護腕 |
 | 10724 | Tandress D Guard | 特阿恩艾臂甲 |
-| 10725 | Rance D Arms | 爾阿恩艾護腕 |
-| 10726 | Rance D Guard | 爾阿恩艾臂甲 |
+| 10725 | Rance D Arms | 拉賽護腕 |
+| 10726 | Rance D Guard | 拉賽臂甲 |
 | 10727 | Ganeto D Arms | 格阿恩艾護腕 |
 | 10728 | Ganeto D Guard | 格阿恩艾臂甲 |
-| 10729 | Chiru D Arms | 奇伊爾烏護腕 |
-| 10730 | Chiru D Guard | 奇伊爾烏臂甲 |
+| 10729 | Chiru D Arms | 奇露護腕 |
+| 10730 | Chiru D Guard | 奇露臂甲 |
 | 10731 | Shiusu D Arms | 夏伊斯烏護腕 |
 | 10732 | Shiusu D Guard | 夏伊斯烏臂甲 |
 | 10733 | Once D Arms・無 | 無護腕 |
-| 10734 | Pale Sakura D [Sleeve 】 | 普阿爾艾袖 |
+| 10734 | Pale Sakura D [Sleeve 】 | 拍勒薩克袖 |
 | 10735 | Pelegri Arms | 佩勒格里護腕 |
 | 10736 | Pelegri F Arms | 佩勒格里護腕【Ｆ】 |
 | 10737 | Pelegri FZ Arms | 佩勒格里護腕【ＦＺ】 |
@@ -272,7 +272,7 @@
 | 10766 | Wasou Vambraces ZP | 和裝臂甲【ＺＰ】 |
 | 10767 | Howla D Arms | 赫歐沃阿護腕 |
 | 10768 | Panse D Arms | 普阿恩艾護腕 |
-| 10769 | Marriage D Arms | 姆阿爾伊護腕 |
+| 10769 | Marriage D Arms | 瑪爾蓋護腕 |
 | 10770 | Yukine D Arms | 雪音護腕 |
 | 10771 | Snow Miku D Arms | 雪初音護腕 |
 | 10772 | Miku D Arms | 初音未來護腕 |
@@ -281,12 +281,12 @@
 | 10775 | Felyne D Arms | 艾路猫護腕 |
 | 10776 | Tabby D Arms | 特阿布護腕 |
 | 10777 | Brown D Arms | 布歐沃護腕 |
-| 10778 | Calico D Arms | 克阿爾伊護腕 |
-| 10779 | Monotone D Arms | 姆歐恩歐護腕 |
+| 10778 | Calico D Arms | 可莉古護腕 |
+| 10779 | Monotone D Arms | 莫諾托奈護腕 |
 | 10780 | Chashiro D Arms | 奇阿夏伊護腕 |
-| 10781 | Two-tone D Arms | 特歐斯歐護腕 |
+| 10781 | Two-tone D Arms | 沃托奈護腕 |
 | 10782 | King Beetle D Brachia | 王甲蟲臂甲 |
-| 10783 | Butterfly D Brachia | 布烏特艾臂甲 |
+| 10783 | Butterfly D Brachia | 布特芙臂甲 |
 | 10784 | Demon Lord Kote D | 魔王籠手 |
 | 10785 | Demon Tale Kote D | 魔譚籠手 |
 | 10786 | 鬼凛ノ Kote D | 德籠手 |
@@ -296,8 +296,8 @@
 | 10790 | Kaiser C Guard | 克阿斯艾臂甲 |
 | 10791 | Dragon Dクロウ | 龍爪 |
 | 10792 | Dragon Dフィスト | 龍拳 |
-| 10793 | Nargacuga C Arms | 恩阿爾阿護腕 |
-| 10794 | Nargacuga C Guard | 恩阿爾阿臂甲 |
+| 10793 | Nargacuga C Arms | 娜加庫加護腕 |
+| 10794 | Nargacuga C Guard | 娜加庫加臂甲 |
 | 10795 | Burning Cliff GX [Kote 】 | 燃崖籠手【ＧＸ】 |
 | 10796 | Crimson Cliff GX [Kote 】 | 深紅崖籠手【ＧＸ】 |
 | 10797 | Vashimu Z Arms | 尾晶蠍護腕【Ｚ】 |
@@ -316,20 +316,20 @@
 | 10810 | Tigrex ZF Guard | 轟龍臂甲【ＺＦ】 |
 | 10811 | Tigrex ZY Guard | 轟龍臂甲【ＺＹ】 |
 | 10812 | Tigrex ZX Guard | 轟龍臂甲【ＺＸ】 |
-| 10813 | Adel Arms | 阿黛爾護腕 |
-| 10814 | Adel F Arms | 阿黛爾護腕【Ｆ】 |
-| 10815 | Adel FZ Arms | 阿黛爾護腕【ＦＺ】 |
-| 10816 | Adel HS Arms | 阿黛爾護腕【ＨＳ】 |
-| 10817 | Adel GS Arms | 阿黛爾護腕【ＧＳ】 |
-| 10818 | Adel GP Arms | 阿黛爾護腕【ＧＰ】 |
-| 10819 | Adel ZP Arms | 阿黛爾護腕【ＺＰ】 |
-| 10820 | Adel Guard | 阿黛爾臂甲 |
-| 10821 | Adel F Guard | 阿黛爾臂甲【Ｆ】 |
-| 10822 | Adel FZ Guard | 阿黛爾臂甲【ＦＺ】 |
-| 10823 | Adel HS Guard | 阿黛爾臂甲【ＨＳ】 |
-| 10824 | Adel GS Guard | 阿黛爾臂甲【ＧＳ】 |
-| 10825 | Adel GP Guard | 阿黛爾臂甲【ＧＰ】 |
-| 10826 | Adel ZP Guard | 阿黛爾臂甲【ＺＰ】 |
+| 10813 | Adel Arms | 亞德露護腕 |
+| 10814 | Adel F Arms | 亞德露護腕【Ｆ】 |
+| 10815 | Adel FZ Arms | 亞德露護腕【ＦＺ】 |
+| 10816 | Adel HS Arms | 亞德露護腕【ＨＳ】 |
+| 10817 | Adel GS Arms | 亞德露護腕【ＧＳ】 |
+| 10818 | Adel GP Arms | 亞德露護腕【ＧＰ】 |
+| 10819 | Adel ZP Arms | 亞德露護腕【ＺＰ】 |
+| 10820 | Adel Guard | 亞德露臂甲 |
+| 10821 | Adel F Guard | 亞德露臂甲【Ｆ】 |
+| 10822 | Adel FZ Guard | 亞德露臂甲【ＦＺ】 |
+| 10823 | Adel HS Guard | 亞德露臂甲【ＨＳ】 |
+| 10824 | Adel GS Guard | 亞德露臂甲【ＧＳ】 |
+| 10825 | Adel GP Guard | 亞德露臂甲【ＧＰ】 |
+| 10826 | Adel ZP Guard | 亞德露臂甲【ＺＰ】 |
 | 10827 | Rocbouquet Arms | 蘿克布凱護腕 |
 | 10828 | Rocbouquet F Arms | 蘿克布凱護腕【Ｆ】 |
 | 10829 | Rocbouquet FZ Arms | 蘿克布凱護腕【ＦＺ】 |
@@ -344,20 +344,20 @@
 | 10838 | Rocbouquet GS Guard | 蘿克布凱臂甲【ＧＳ】 |
 | 10839 | Rocbouquet GP Guard | 蘿克布凱臂甲【ＧＰ】 |
 | 10840 | Rocbouquet ZP Guard | 蘿克布凱臂甲【ＺＰ】 |
-| 10841 | Alkaiser Arms | 阿爾凱撒護腕 |
-| 10842 | Alkaiser F Arms | 阿爾凱撒護腕【Ｆ】 |
-| 10843 | Alkaiser FZ Arms | 阿爾凱撒護腕【ＦＺ】 |
-| 10844 | Alkaiser HS Arms | 阿爾凱撒護腕【ＨＳ】 |
-| 10845 | Alkaiser GS Arms | 阿爾凱撒護腕【ＧＳ】 |
-| 10846 | Alkaiser GP Arms | 阿爾凱撒護腕【ＧＰ】 |
-| 10847 | Alkaiser ZP Arms | 阿爾凱撒護腕【ＺＰ】 |
-| 10848 | Alkaiser Guard | 阿爾凱撒臂甲 |
-| 10849 | Alkaiser F Guard | 阿爾凱撒臂甲【Ｆ】 |
-| 10850 | Alkaiser FZ Guard | 阿爾凱撒臂甲【ＦＺ】 |
-| 10851 | Alkaiser HS Guard | 阿爾凱撒臂甲【ＨＳ】 |
-| 10852 | Alkaiser GS Guard | 阿爾凱撒臂甲【ＧＳ】 |
-| 10853 | Alkaiser GP Guard | 阿爾凱撒臂甲【ＧＰ】 |
-| 10854 | Alkaiser ZP Guard | 阿爾凱撒臂甲【ＺＰ】 |
+| 10841 | Alkaiser Arms | 亞露可伊護腕 |
+| 10842 | Alkaiser F Arms | 亞露可伊護腕【Ｆ】 |
+| 10843 | Alkaiser FZ Arms | 亞露可伊護腕【ＦＺ】 |
+| 10844 | Alkaiser HS Arms | 亞露可伊護腕【ＨＳ】 |
+| 10845 | Alkaiser GS Arms | 亞露可伊護腕【ＧＳ】 |
+| 10846 | Alkaiser GP Arms | 亞露可伊護腕【ＧＰ】 |
+| 10847 | Alkaiser ZP Arms | 亞露可伊護腕【ＺＰ】 |
+| 10848 | Alkaiser Guard | 亞露可伊臂甲 |
+| 10849 | Alkaiser F Guard | 亞露可伊臂甲【Ｆ】 |
+| 10850 | Alkaiser FZ Guard | 亞露可伊臂甲【ＦＺ】 |
+| 10851 | Alkaiser HS Guard | 亞露可伊臂甲【ＨＳ】 |
+| 10852 | Alkaiser GS Guard | 亞露可伊臂甲【ＧＳ】 |
+| 10853 | Alkaiser GP Guard | 亞露可伊臂甲【ＧＰ】 |
+| 10854 | Alkaiser ZP Guard | 亞露可伊臂甲【ＺＰ】 |
 | 10855 | Claudia Arms | 克勞蒂亞護腕 |
 | 10856 | Claudia F Arms | 克勞蒂亞護腕【Ｆ】 |
 | 10857 | Claudia FZ Arms | 克勞蒂亞護腕【ＦＺ】 |
@@ -421,40 +421,40 @@
 | 10915 | Pashio G Guard | 普阿夏伊臂甲【Ｇ】 |
 | 10916 | Pashio GF Guard | 普阿夏伊臂甲【ＧＦ】 |
 | 10917 | Pashio GX Guard | 普阿夏伊臂甲【ＧＸ】 |
-| 10918 | Harudo D Arms | 赫阿爾烏護腕 |
-| 10919 | Harudo D Guard | 赫阿爾烏臂甲 |
-| 10920 | Elegance D【 Kote 】 | 艾爾艾格籠手 |
+| 10918 | Harudo D Arms | 哈露多護腕 |
+| 10919 | Harudo D Guard | 哈露多臂甲 |
+| 10920 | Elegance D【 Kote 】 | 勒加賽籠手 |
 | 10921 | Grace D【 Kote 】 | 恩寵籠手 |
-| 10922 | Meraginasu D Arms | 姆艾爾阿護腕 |
-| 10923 | Meraginasu D Guard | 姆艾爾阿臂甲 |
-| 10924 | Hesyumu D Arms | 赫艾斯烏護腕 |
+| 10922 | Meraginasu D Arms | 梅拉吉娜護腕 |
+| 10923 | Meraginasu D Guard | 梅拉吉娜臂甲 |
+| 10924 | Hesyumu D Arms | 赫尤姆護腕 |
 | 10925 | Kasamie D Arms | 克阿斯阿護腕 |
-| 10926 | Cielo D Arms | 克伊爾歐護腕 |
+| 10926 | Cielo D Arms | 奇蘿護腕 |
 | 10927 | Vichi D Arms | 芙伊奇伊護腕 |
-| 10928 | Adel D Arms | 阿德艾爾護腕 |
-| 10929 | Rocbouquet D Arms | 爾歐克歐護腕 |
-| 10930 | Alkaiser D Arms | 阿爾阿斯護腕 |
+| 10928 | Adel D Arms | 德護腕 |
+| 10929 | Rocbouquet D Arms | 蘿波奎護腕 |
+| 10930 | Alkaiser D Arms | 克艾賽護腕 |
 | 10931 | Claudia D Arms | 克阿德伊護腕 |
 | 10932 | Kinosu D Arms | 克伊恩歐護腕 |
-| 10933 | Himeros D Arms | 赫伊姆艾護腕 |
-| 10934 | Charien D Guard | 奇阿爾伊臂甲 |
-| 10935 | Arietta D Arms | 阿爾伊特護腕 |
+| 10933 | Himeros D Arms | 希梅蘿護腕 |
+| 10934 | Charien D Guard | 夏里恩德臂甲 |
+| 10935 | Arietta D Arms | 里特護腕 |
 | 10936 | Craft D Arms | 工匠護腕 |
 | 10937 | Shieri D Arms | 夏伊爾伊護腕 |
-| 10938 | Pupen D Arms | 普烏普艾護腕 |
-| 10939 | Moss Covered D Arms | 姆歐斯歐護腕 |
-| 10940 | Excelle D Arms | 艾克斯艾護腕 |
-| 10941 | Ordre D Arms | 歐爾艾斯護腕 |
-| 10942 | Rath Duo D Arms | 爾阿斯烏護腕 |
+| 10938 | Pupen D Arms | 普佩恩德護腕 |
+| 10939 | Moss Covered D Arms | 莫斯古薇護腕 |
+| 10940 | Excelle D Arms | 克斯賽爾護腕 |
+| 10941 | Ordre D Arms | 德護腕 |
+| 10942 | Rath Duo D Arms | 拉斯杜護腕 |
 | 10943 | Atra D Arms | 阿特阿斯護腕 |
 | 10944 | Madaru D Arms | 姆阿德阿護腕 |
 | 10945 | Shasse D Arms | 夏阿斯艾護腕 |
-| 10946 | Orchesis D Arms | 歐爾艾斯護腕 |
+| 10946 | Orchesis D Arms | 切西護腕 |
 | 10947 | Blize D Arms | 布伊茲艾護腕 |
 | 10948 | Quoiz D Arms | 斯烏茲護腕 |
-| 10949 | Kalais D Arms | 克阿爾阿護腕 |
-| 10950 | Lucchese D Arms | 爾烏克艾護腕 |
-| 10951 | Entora D Arms | 艾恩歐爾護腕 |
+| 10949 | Kalais D Arms | 可拉護腕 |
+| 10950 | Lucchese D Arms | 露切賽護腕 |
+| 10951 | Entora D Arms | 托拉護腕 |
 | 10952 | YoRHa No.9 Type S Arms | 寄葉九號型護腕【Ｓ】 |
 | 10953 | YoRHa No.9 Type S F Arms | 寄葉九號型護腕【Ｆ】 |
 | 10954 | YoRHa No.9 Type S FZ Arms | 寄葉九號型護腕【ＦＺ】 |
@@ -499,9 +499,9 @@
 | 10993 | Hyujikiki ZF Guard | 針纏龍臂甲【ＺＦ】 |
 | 10994 | Hyujikiki ZY Guard | 針纏龍臂甲【ＺＹ】 |
 | 10995 | Hyujikiki ZX Guard | 針纏龍臂甲【ＺＸ】 |
-| 10996 | Gear Z Arms | 格艾爾護腕【Ｚ】 |
-| 10997 | Gear ZF Arms | 格艾爾護腕【ＺＦ】 |
-| 10998 | Gear ZY Arms | 格艾爾護腕【ＺＹ】 |
-| 10999 | Gear ZX Arms | 格艾爾護腕【ＺＸ】 |
-| 11000 | Gear Z Guard | 格艾爾臂甲【Ｚ】 |
+| 10996 | Gear Z Arms | 蓋護腕【Ｚ】 |
+| 10997 | Gear ZF Arms | 蓋護腕【ＺＦ】 |
+| 10998 | Gear ZY Arms | 蓋護腕【ＺＹ】 |
+| 10999 | Gear ZX Arms | 蓋護腕【ＺＸ】 |
+| 11000 | Gear Z Guard | 蓋臂甲【Ｚ】 |
 

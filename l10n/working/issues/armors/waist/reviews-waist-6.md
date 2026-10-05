@@ -7,9 +7,9 @@
 | 2501 | Spinel Coil | 斯伊恩艾腰甲 |
 | 2502 | Spinel F Coil | 斯伊恩艾腰甲【Ｆ】 |
 | 2503 | Spinel FX Coil | 斯伊恩艾腰甲【ＦＸ】 |
-| 2504 | Pyrope Coil | 普歐普艾腰甲 |
-| 2505 | Pyrope F Coil | 普歐普艾腰甲【Ｆ】 |
-| 2506 | Pyrope FX Coil | 普歐普艾腰甲【ＦＸ】 |
+| 2504 | Pyrope Coil | 蘿佩腰甲 |
+| 2505 | Pyrope F Coil | 蘿佩腰甲【Ｆ】 |
+| 2506 | Pyrope FX Coil | 蘿佩腰甲【ＦＸ】 |
 | 2507 | アイオラ Coil | 阿伊歐拉腰甲 |
 | 2508 | アイオラF Coil | 阿伊歐拉腰甲【Ｆ】 |
 | 2509 | アイオラFX Coil | 阿伊歐拉腰甲【ＦＸ】 |
@@ -22,9 +22,9 @@
 | 2516 | Citrine Coat | 克伊特伊腰衣 |
 | 2517 | Citrine F Coat | 克伊特伊腰衣【Ｆ】 |
 | 2518 | Citrine FX Coat | 克伊特伊腰衣【ＦＸ】 |
-| 2519 | Peridot Coat | 普艾爾伊腰衣 |
-| 2520 | Peridot F Coat | 普艾爾伊腰衣【Ｆ】 |
-| 2521 | Peridot FX Coat | 普艾爾伊腰衣【ＦＸ】 |
+| 2519 | Peridot Coat | 佩里多腰衣 |
+| 2520 | Peridot F Coat | 佩里多腰衣【Ｆ】 |
+| 2521 | Peridot FX Coat | 佩里多腰衣【ＦＸ】 |
 | 2522 | Turquoise Coat | 緑松石腰衣 |
 | 2523 | Turquoise F Coat | 緑松石腰衣【Ｆ】 |
 | 2524 | Turquoise FX Coat | 緑松石腰衣【ＦＸ】 |
@@ -36,26 +36,26 @@
 | 2530 | 式部ノ Obi・魁 | 式部魁帶 |
 | 2531 | 式部ノ Obi・Smart | 機靈帶 |
 | 2532 | 式部ノ Obi・Flower | 芙歐沃艾帶 |
-| 2533 | Aruru Coil | 阿爾烏爾腰甲 |
-| 2534 | Aruru F Coil | 阿爾烏爾腰甲【Ｆ】 |
-| 2535 | Aruru FY Coil | 阿爾烏爾腰甲 |
-| 2536 | Aruru HC Coil | 阿爾烏爾腰甲【ＨＣ】 |
-| 2537 | Aruru Coat | 阿爾烏爾腰衣 |
-| 2538 | Aruru F Coat | 阿爾烏爾腰衣【Ｆ】 |
-| 2539 | Aruru FY Coat | 阿爾烏爾腰衣 |
-| 2540 | Aruru HC Coat | 阿爾烏爾腰衣【ＨＣ】 |
-| 2541 | Oorowa Faulds | 歐爾歐沃腰甲 |
-| 2542 | Oorowa F Faulds | 歐爾歐沃腰甲【Ｆ】 |
-| 2543 | Oorowa FY Faulds | 歐爾歐沃腰甲 |
-| 2544 | Oorowa HC Faulds | 歐爾歐沃腰甲【ＨＣ】 |
-| 2545 | Oorowa Coat | 歐爾歐沃腰衣 |
-| 2546 | Oorowa F Coat | 歐爾歐沃腰衣【Ｆ】 |
-| 2547 | Oorowa FY Coat | 歐爾歐沃腰衣 |
-| 2548 | Oorowa HC Coat | 歐爾歐沃腰衣【ＨＣ】 |
-| 2549 | Onero F Faulds | 歐恩艾爾腰甲【Ｆ】 |
-| 2550 | Onero F Coat | 歐恩艾爾腰衣【Ｆ】 |
-| 2551 | Diru FY Faulds | 德伊爾烏腰甲 |
-| 2552 | Diru FY Coat | 德伊爾烏腰衣 |
+| 2533 | Aruru Coil | 露露腰甲 |
+| 2534 | Aruru F Coil | 露露腰甲【Ｆ】 |
+| 2535 | Aruru FY Coil | 露露腰甲 |
+| 2536 | Aruru HC Coil | 露露腰甲【ＨＣ】 |
+| 2537 | Aruru Coat | 露露腰衣 |
+| 2538 | Aruru F Coat | 露露腰衣【Ｆ】 |
+| 2539 | Aruru FY Coat | 露露腰衣 |
+| 2540 | Aruru HC Coat | 露露腰衣【ＨＣ】 |
+| 2541 | Oorowa Faulds | 烏蘿瓦腰甲 |
+| 2542 | Oorowa F Faulds | 烏蘿瓦腰甲【Ｆ】 |
+| 2543 | Oorowa FY Faulds | 烏蘿瓦腰甲 |
+| 2544 | Oorowa HC Faulds | 烏蘿瓦腰甲【ＨＣ】 |
+| 2545 | Oorowa Coat | 烏蘿瓦腰衣 |
+| 2546 | Oorowa F Coat | 烏蘿瓦腰衣【Ｆ】 |
+| 2547 | Oorowa FY Coat | 烏蘿瓦腰衣 |
+| 2548 | Oorowa HC Coat | 烏蘿瓦腰衣【ＨＣ】 |
+| 2549 | Onero F Faulds | 奈蘿腰甲【Ｆ】 |
+| 2550 | Onero F Coat | 奈蘿腰衣【Ｆ】 |
+| 2551 | Diru FY Faulds | 迪露腰甲 |
+| 2552 | Diru FY Coat | 迪露腰衣 |
 | 2553 | Strega HC Faulds | 魔女腰甲【ＨＣ】 |
 | 2554 | Strega HC Coat | 魔女腰衣【ＨＣ】 |
 | 2555 | Zaakaa HC Coil | 茲阿克阿腰甲【ＨＣ】 |
@@ -78,11 +78,11 @@
 | 2572 | クロノス Coil | 庫羅諾斯腰甲 |
 | 2573 | フレイ Coat | 芙雷伊腰衣 |
 | 2574 | クロノス Coat | 庫羅諾斯腰衣 |
-| 2575 | Himeros HC Faulds | 赫伊姆艾腰甲【ＨＣ】 |
-| 2576 | Bureshisu HC Faulds | 布烏爾艾腰甲【ＨＣ】 |
+| 2575 | Himeros HC Faulds | 希梅蘿腰甲【ＨＣ】 |
+| 2576 | Bureshisu HC Faulds | 布蕾修斯腰甲【ＨＣ】 |
 | 2577 | Charien HC Coat | 夏里安腰衣【ＨＣ】 |
-| 2578 | Buran FY Faulds | 布烏爾阿腰甲 |
-| 2579 | Buran HC Faulds | 布烏爾阿腰甲【ＨＣ】 |
+| 2578 | Buran FY Faulds | 布拉腰甲 |
+| 2579 | Buran HC Faulds | 布拉腰甲【ＨＣ】 |
 | 2580 | Gypceros LX Faulds | 毒怪鳥腰甲 |
 | 2581 | Ceanataur LX Faulds | 鎌蟹腰甲 |
 | 2582 | Tigrex LX Faulds | 轟龍腰甲 |
@@ -90,7 +90,7 @@
 | 2584 | Gypceros RX Faulds | 毒怪鳥腰甲 |
 | 2585 | Ceanataur RX Faulds | 鎌蟹腰甲 |
 | 2586 | Espinas RX Navel | 棘龍臍甲 |
-| 2587 | Monodevil RX Coat | 姆歐恩歐腰衣 |
+| 2587 | Monodevil RX Coat | 莫諾德薇腰衣 |
 | 2588 | Cayssis Coil Water | 凱西斯腰甲・水 |
 | 2589 | Cayssis F Coil Water | 凱西斯腰甲【Ｆ】・水 |
 | 2590 | Cayssis FZ Coil Water | 凱西斯腰甲【ＦＺ】・水 |
@@ -185,12 +185,12 @@
 | 2679 | Weber F Coat | 韋伯腰衣【Ｆ】 |
 | 2680 | Gilbert Coat | 吉伯特腰衣 |
 | 2681 | Gilbert F Coat | 吉伯特腰衣【Ｆ】 |
-| 2682 | Regyukusu F Coil | 爾艾格烏腰甲【Ｆ】 |
-| 2683 | Regyukusu F Coat | 爾艾格烏腰衣【Ｆ】 |
+| 2682 | Regyukusu F Coil | 蕾尤克斯腰甲【Ｆ】 |
+| 2683 | Regyukusu F Coat | 蕾尤克斯腰衣【Ｆ】 |
 | 2684 | Garuda FZ Waist | 迦樓羅腰甲【ＦＺ】 |
 | 2685 | Garuda FZ Belt | 迦樓羅腰帶【ＦＺ】 |
-| 2686 | Feral FZ Waist | 芙艾爾阿腰甲【ＦＺ】 |
-| 2687 | Feral FZ Belt | 芙艾爾阿腰帶【ＦＺ】 |
+| 2686 | Feral FZ Waist | 菲拉腰甲【ＦＺ】 |
+| 2687 | Feral FZ Belt | 菲拉腰帶【ＦＺ】 |
 | 2688 | Pandeum FZ Waist | 普阿恩艾腰甲【ＦＺ】 |
 | 2689 | Pandeum FZ Belt | 普阿恩艾腰帶【ＦＺ】 |
 | 2690 | Dian FZ Waist | 德伊恩腰甲【ＦＺ】 |
@@ -201,14 +201,14 @@
 | 2695 | Flower FZ Belt | 芙歐沃艾腰帶【ＦＺ】 |
 | 2696 | Fias FZ Waist | 芙伊斯腰甲【ＦＺ】 |
 | 2697 | Fias FZ Belt | 芙伊斯腰帶【ＦＺ】 |
-| 2698 | Viruto FZ Waist | 芙伊爾烏腰甲【ＦＺ】 |
-| 2699 | Viruto FZ Belt | 芙伊爾烏腰帶【ＦＺ】 |
-| 2700 | Tune FZ Waist | 特烏恩艾腰甲【ＦＺ】 |
+| 2698 | Viruto FZ Waist | 薇露托腰甲【ＦＺ】 |
+| 2699 | Viruto FZ Belt | 薇露托腰帶【ＦＺ】 |
+| 2700 | Tune FZ Waist | 圖奈腰甲【ＦＺ】 |
 | 2701 | Schnite FZ Belt | 施伊特艾腰帶【ＦＺ】 |
 | 2702 | Dicto FZ Waist | 德伊克歐腰甲【ＦＺ】 |
-| 2703 | Diletto FZ Belt | 德伊爾艾腰帶【ＦＺ】 |
+| 2703 | Diletto FZ Belt | 迪勒特腰帶【ＦＺ】 |
 | 2704 | Kruss FZ Waist | 克烏斯腰甲【ＦＺ】 |
-| 2705 | Quote FZ Belt | 斯烏特艾腰帶【ＦＺ】 |
+| 2705 | Quote FZ Belt | 奎特腰帶【ＦＺ】 |
 | 2706 | Starina FZ Waist | 斯塔莉娜腰甲【ＦＺ】 |
 | 2707 | Starina FZ Belt | 斯塔莉娜腰帶【ＦＺ】 |
 | 2708 | Loose FZ Waist | 寬鬆腰甲【ＦＺ】 |
@@ -277,14 +277,14 @@
 | 2771 | Kobaruta F Belt | 克歐布阿腰帶【Ｆ】 |
 | 2772 | Kobaruta FY Belt | 克歐布阿腰帶 |
 | 2773 | Kobaruta HC Belt | 克歐布阿腰帶【ＨＣ】 |
-| 2774 | Dogumea Faulds | 德歐格烏腰甲 |
-| 2775 | Dogumea F Faulds | 德歐格烏腰甲【Ｆ】 |
-| 2776 | Dogumea FY Faulds | 德歐格烏腰甲 |
-| 2777 | Dogumea HC Faulds | 德歐格烏腰甲【ＨＣ】 |
-| 2778 | Dogumea Coat | 德歐格烏腰衣 |
-| 2779 | Dogumea F Coat | 德歐格烏腰衣【Ｆ】 |
-| 2780 | Dogumea FY Coat | 德歐格烏腰衣 |
-| 2781 | Dogumea HC Coat | 德歐格烏腰衣【ＨＣ】 |
+| 2774 | Dogumea Faulds | 多古梅腰甲 |
+| 2775 | Dogumea F Faulds | 多古梅腰甲【Ｆ】 |
+| 2776 | Dogumea FY Faulds | 多古梅腰甲 |
+| 2777 | Dogumea HC Faulds | 多古梅腰甲【ＨＣ】 |
+| 2778 | Dogumea Coat | 多古梅腰衣 |
+| 2779 | Dogumea F Coat | 多古梅腰衣【Ｆ】 |
+| 2780 | Dogumea FY Coat | 多古梅腰衣 |
+| 2781 | Dogumea HC Coat | 多古梅腰衣【ＨＣ】 |
 | 2782 | Madaru Coil | 姆阿德阿腰甲 |
 | 2783 | Madaru F Coil | 姆阿德阿腰甲【Ｆ】 |
 | 2784 | Madaru FY Coil | 姆阿德阿腰甲 |
@@ -307,9 +307,9 @@
 | 2801 | Kakabu F Coat | 克阿克阿腰衣【Ｆ】 |
 | 2802 | Kakabu FY Coat | 克阿克阿腰衣 |
 | 2803 | Kakabu HC Coat | 克阿克阿腰衣【ＨＣ】 |
-| 2804 | Gospel FY Faulds | 格歐斯艾腰甲 |
+| 2804 | Gospel FY Faulds | 戈佩腰甲 |
 | 2805 | Gospel HC Faulds | 福音腰甲【ＨＣ】 |
-| 2806 | Gospel FY Coat | 格歐斯艾腰衣 |
+| 2806 | Gospel FY Coat | 戈佩腰衣 |
 | 2807 | Gospel HC Coat | 福音腰衣【ＨＣ】 |
 | 2808 | Zodic Coil・Blue | 黄道腰甲・青 |
 | 2809 | Zodic F Coil・Blue | 黄道腰甲【Ｆ】・青 |
@@ -388,13 +388,13 @@
 | 2882 | 剣士ランク５ | 拉恩庫腰甲 |
 | 2883 | 剣士ランク６ | 拉恩庫腰甲 |
 | 2884 | 剣士ランク７ | 拉恩庫腰甲 |
-| 2885 | ガンランク１ | 加恩拉恩庫腰甲 |
-| 2886 | ガンランク２ | 加恩拉恩庫腰甲 |
-| 2887 | ガンランク３ | 加恩拉恩庫腰甲 |
-| 2888 | ガンランク４ | 加恩拉恩庫腰甲 |
-| 2889 | ガンランク５ | 加恩拉恩庫腰甲 |
-| 2890 | ガンランク６ | 加恩拉恩庫腰甲 |
-| 2891 | ガンランク７ | 加恩拉恩庫腰甲 |
+| 2885 | ガンランク１ | 加恩拉恩腰甲 |
+| 2886 | ガンランク２ | 加恩拉恩腰甲 |
+| 2887 | ガンランク３ | 加恩拉恩腰甲 |
+| 2888 | ガンランク４ | 加恩拉恩腰甲 |
+| 2889 | ガンランク５ | 加恩拉恩腰甲 |
+| 2890 | ガンランク６ | 加恩拉恩腰甲 |
+| 2891 | ガンランク７ | 加恩拉恩腰甲 |
 | 2892 | デュスノF Faulds | 德尤斯諾腰甲【Ｆ】 |
 | 2893 | デュスノF Coat | 德尤斯諾腰衣【Ｆ】 |
 | 2894 | Blitz FXフープ | 布伊特腰甲 |
@@ -475,8 +475,8 @@
 | 2969 | Blaze HC Coil | 烈焔腰甲【ＨＣ】 |
 | 2970 | Blaze FZ Coat | 烈焔腰衣【ＦＺ】 |
 | 2971 | Blaze HC Coat | 烈焔腰衣【ＨＣ】 |
-| 2972 | Arge HC Coil | 阿爾傑腰甲【ＨＣ】 |
-| 2973 | Arge HC Coat | 阿爾傑腰衣【ＨＣ】 |
+| 2972 | Arge HC Coil | 亞潔腰甲【ＨＣ】 |
+| 2973 | Arge HC Coat | 亞潔腰衣【ＨＣ】 |
 | 2974 | Camarera HC Coil | 可瑪蕾拉腰甲【ＨＣ】 |
 | 2975 | Camarera HC Coat | 可瑪蕾拉腰衣【ＨＣ】 |
 | 2976 | Metenera HC Coil | 梅特涅拉腰甲【ＨＣ】 |

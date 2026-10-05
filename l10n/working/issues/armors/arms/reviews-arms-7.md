@@ -23,10 +23,10 @@
 | 3017 | 気弾FZ【 Kote 】・Black | 気弾籠手【ＦＺ】・黑 |
 | 3018 | 気弾HC【 Kote 】・Black | 気弾籠手【ＨＣ】・黑 |
 | 3019 | 気弾HS【 Kote 】・Black | 気弾籠手【ＨＳ】・黑 |
-| 3020 | Algol F Arms | 阿爾歐爾護腕【Ｆ】 |
-| 3021 | Algol FX Arms | 阿爾歐爾護腕【ＦＸ】 |
-| 3022 | Algol F Guard | 阿爾歐爾臂甲【Ｆ】 |
-| 3023 | Algol FX Guard | 阿爾歐爾臂甲【ＦＸ】 |
+| 3020 | Algol F Arms | 戈護腕【Ｆ】 |
+| 3021 | Algol FX Arms | 戈護腕【ＦＸ】 |
+| 3022 | Algol F Guard | 戈臂甲【Ｆ】 |
+| 3023 | Algol FX Guard | 戈臂甲【ＦＸ】 |
 | 3024 | 抜胴【 Kote 】 | 抜胴籠手 |
 | 3025 | 抜胴F【 Kote 】 | 抜胴籠手【Ｆ】 |
 | 3026 | 抜胴FZ【 Kote 】 | 抜胴籠手【ＦＺ】 |
@@ -199,8 +199,8 @@
 | 3193 | Axel HS Claws・Purple | 輪軸爪【ＨＳ】・紫 |
 | 3194 | 剣士ランク8 | 拉恩庫護腕 |
 | 3195 | 剣士ランク9 | 拉恩庫護腕 |
-| 3196 | ガンランク8 | 加恩拉恩庫護腕 |
-| 3197 | ガンランク9 | 加恩拉恩庫護腕 |
+| 3196 | ガンランク8 | 加恩拉恩護腕 |
+| 3197 | ガンランク9 | 加恩拉恩護腕 |
 | 3198 | ダミー | (dummy) |
 | 3199 | ダミー | (dummy) |
 | 3200 | ダミー | (dummy) |
@@ -336,9 +336,9 @@
 | 3330 | ダミー | (dummy) |
 | 3331 | ダミー | (dummy) |
 | 3332 | ダミー | (dummy) |
-| 3333 | Roses G Arms | 爾歐斯艾護腕【Ｇ】 |
-| 3334 | Roses G Guard | 爾歐斯艾臂甲【Ｇ】 |
-| 3335 | Shell カG Arms | 夏艾爾護腕【Ｇ】 |
+| 3333 | Roses G Arms | 蘿賽護腕【Ｇ】 |
+| 3334 | Roses G Guard | 蘿賽臂甲【Ｇ】 |
+| 3335 | Shell カG Arms | 修爾護腕【Ｇ】 |
 | 3336 | チェスカG Guard | 奇斯可臂甲【Ｇ】 |
 | 3337 | ロアースG Arms | 羅阿斯護腕【Ｇ】 |
 | 3338 | ライードG Guard | 拉伊多臂甲【Ｇ】 |
@@ -352,22 +352,22 @@
 | 3346 | Green 竜ノ Haori FZ【 Kote 】 | 竜籠手【ＦＺ】・緑 |
 | 3347 | Green 竜ノ Haori HC【 Kote 】 | 竜籠手【ＨＣ】・緑 |
 | 3348 | Green 竜ノ Haori HS【 Kote 】 | 竜籠手【ＨＳ】・緑 |
-| 3349 | Ukon Punch | 烏克歐恩拳套 |
-| 3350 | Ukon F Punch | 烏克歐恩拳套【Ｆ】 |
-| 3351 | Ukon FZ Punch | 烏克歐恩拳套【ＦＺ】 |
-| 3352 | Ukon HC Punch | 烏克歐恩拳套【ＨＣ】 |
-| 3353 | Ukon Hands | 烏克歐恩手甲 |
-| 3354 | Ukon F Hands | 烏克歐恩手甲【Ｆ】 |
-| 3355 | Ukon FZ Hands | 烏克歐恩手甲【ＦＺ】 |
-| 3356 | Ukon HC Hands | 烏克歐恩手甲【ＨＣ】 |
-| 3357 | Ukon HS Punch | 烏克歐恩拳套【ＨＳ】 |
-| 3358 | Ukon GS Punch | 烏克歐恩拳套【ＧＳ】 |
-| 3359 | Ukon HS Hands | 烏克歐恩手甲【ＨＳ】 |
-| 3360 | Ukon GS Hands | 烏克歐恩手甲【ＧＳ】 |
+| 3349 | Ukon Punch | 古拳套 |
+| 3350 | Ukon F Punch | 古拳套【Ｆ】 |
+| 3351 | Ukon FZ Punch | 古拳套【ＦＺ】 |
+| 3352 | Ukon HC Punch | 古拳套【ＨＣ】 |
+| 3353 | Ukon Hands | 古手甲 |
+| 3354 | Ukon F Hands | 古手甲【Ｆ】 |
+| 3355 | Ukon FZ Hands | 古手甲【ＦＺ】 |
+| 3356 | Ukon HC Hands | 古手甲【ＨＣ】 |
+| 3357 | Ukon HS Punch | 古拳套【ＨＳ】 |
+| 3358 | Ukon GS Punch | 古拳套【ＧＳ】 |
+| 3359 | Ukon HS Hands | 古手甲【ＨＳ】 |
+| 3360 | Ukon GS Hands | 古手甲【ＧＳ】 |
 | 3361 | Green 竜ノ具足GS【 Kote 】 | 竜具足籠手【ＧＳ】・緑 |
 | 3362 | Green 竜ノ Haori GS【 Kote 】 | 竜籠手【ＧＳ】・緑 |
-| 3363 | Roses GF Arms | 爾歐斯艾護腕【ＧＦ】 |
-| 3364 | Roses GF Guard | 爾歐斯艾臂甲【ＧＦ】 |
+| 3363 | Roses GF Arms | 蘿賽護腕【ＧＦ】 |
+| 3364 | Roses GF Guard | 蘿賽臂甲【ＧＦ】 |
 | 3365 | ダミー | (dummy) |
 | 3366 | ダミー | (dummy) |
 | 3367 | Magos Arms・Yellow | 瑪戈斯護腕・黄 |

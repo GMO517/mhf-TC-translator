@@ -145,14 +145,14 @@
 | 6639 | Kontao GP Boots | 孔陶靴【ＧＰ】 |
 | 6640 | Deliver Greaves | 交貨護腿 |
 | 6641 | Deliver F Greaves | 交貨護腿【Ｆ】 |
-| 6642 | Deliver FY Greaves | 德艾爾伊護腿 |
+| 6642 | Deliver FY Greaves | 德莉薇護腿 |
 | 6643 | Deliver HS Greaves | 交貨護腿【ＨＳ】 |
 | 6644 | Deliver G Greaves | 交貨護腿【Ｇ】 |
 | 6645 | Deliver GF Greaves | 交貨護腿【ＧＦ】 |
 | 6646 | Deliver GX Greaves | 交貨護腿【ＧＸ】 |
 | 6647 | Deliver Leggings | 交貨裹腿 |
 | 6648 | Deliver F Leggings | 交貨裹腿【Ｆ】 |
-| 6649 | Deliver FY Leggings | 德艾爾伊裹腿 |
+| 6649 | Deliver FY Leggings | 德莉薇裹腿 |
 | 6650 | Deliver HS Leggings | 交貨裹腿【ＨＳ】 |
 | 6651 | Deliver G Leggings | 交貨裹腿【Ｇ】 |
 | 6652 | Deliver GF Leggings | 交貨裹腿【ＧＦ】 |
@@ -187,72 +187,72 @@
 | 6681 | Nisuru GX Leggings | 尼斯魯裹腿【ＧＸ】 |
 | 6682 | Coord Greaves | 搭配護腿 |
 | 6683 | Coord F Greaves | 搭配護腿【Ｆ】 |
-| 6684 | Coord FY Greaves | 克歐爾護腿 |
+| 6684 | Coord FY Greaves | 古護腿 |
 | 6685 | Coord HS Greaves | 搭配護腿【ＨＳ】 |
 | 6686 | Coord G Greaves | 搭配護腿【Ｇ】 |
 | 6687 | Coord GF Greaves | 搭配護腿【ＧＦ】 |
 | 6688 | Coord GX Greaves | 搭配護腿【ＧＸ】 |
 | 6689 | Coord Leggings | 搭配裹腿 |
 | 6690 | Coord F Leggings | 搭配裹腿【Ｆ】 |
-| 6691 | Coord FY Leggings | 克歐爾裹腿 |
+| 6691 | Coord FY Leggings | 古裹腿 |
 | 6692 | Coord HS Leggings | 搭配裹腿【ＨＳ】 |
 | 6693 | Coord G Leggings | 搭配裹腿【Ｇ】 |
 | 6694 | Coord GF Leggings | 搭配裹腿【ＧＦ】 |
 | 6695 | Coord GX Leggings | 搭配裹腿【ＧＸ】 |
 | 6696 | Resega Greaves | 雷塞加護腿 |
 | 6697 | Resega F Greaves | 雷塞加護腿【Ｆ】 |
-| 6698 | Resega FY Greaves | 爾艾斯艾護腿 |
+| 6698 | Resega FY Greaves | 蕾賽加護腿 |
 | 6699 | Resega HS Greaves | 雷塞加護腿【ＨＳ】 |
 | 6700 | Resega G Greaves | 雷塞加護腿【Ｇ】 |
 | 6701 | Resega GF Greaves | 雷塞加護腿【ＧＦ】 |
 | 6702 | Resega GX Greaves | 雷塞加護腿【ＧＸ】 |
 | 6703 | Resega Leggings | 雷塞加裹腿 |
 | 6704 | Resega F Leggings | 雷塞加裹腿【Ｆ】 |
-| 6705 | Resega FY Leggings | 爾艾斯艾裹腿 |
+| 6705 | Resega FY Leggings | 蕾賽加裹腿 |
 | 6706 | Resega HS Leggings | 雷塞加裹腿【ＨＳ】 |
 | 6707 | Resega G Leggings | 雷塞加裹腿【Ｇ】 |
 | 6708 | Resega GF Leggings | 雷塞加裹腿【ＧＦ】 |
 | 6709 | Resega GX Leggings | 雷塞加裹腿【ＧＸ】 |
 | 6710 | Suforu Greaves | 蘇福魯護腿 |
 | 6711 | Suforu F Greaves | 蘇福魯護腿【Ｆ】 |
-| 6712 | Suforu FY Greaves | 斯烏芙歐護腿 |
+| 6712 | Suforu FY Greaves | 斯佛露護腿 |
 | 6713 | Suforu HS Greaves | 蘇福魯護腿【ＨＳ】 |
 | 6714 | Suforu G Greaves | 蘇福魯護腿【Ｇ】 |
 | 6715 | Suforu GF Greaves | 蘇福魯護腿【ＧＦ】 |
 | 6716 | Suforu GX Greaves | 蘇福魯護腿【ＧＸ】 |
 | 6717 | Suforu Leggings | 蘇福魯裹腿 |
 | 6718 | Suforu F Leggings | 蘇福魯裹腿【Ｆ】 |
-| 6719 | Suforu FY Leggings | 斯烏芙歐裹腿 |
+| 6719 | Suforu FY Leggings | 斯佛露裹腿 |
 | 6720 | Suforu HS Leggings | 蘇福魯裹腿【ＨＳ】 |
 | 6721 | Suforu G Leggings | 蘇福魯裹腿【Ｇ】 |
 | 6722 | Suforu GF Leggings | 蘇福魯裹腿【ＧＦ】 |
 | 6723 | Suforu GX Leggings | 蘇福魯裹腿【ＧＸ】 |
 | 6724 | Perce Greaves | 珀斯護腿 |
 | 6725 | Perce F Greaves | 珀斯護腿【Ｆ】 |
-| 6726 | Perce FY Greaves | 普艾爾艾護腿 |
+| 6726 | Perce FY Greaves | 佩賽護腿 |
 | 6727 | Perce HS Greaves | 珀斯護腿【ＨＳ】 |
 | 6728 | Perce G Greaves | 珀斯護腿【Ｇ】 |
 | 6729 | Perce GF Greaves | 珀斯護腿【ＧＦ】 |
 | 6730 | Perce GX Greaves | 珀斯護腿【ＧＸ】 |
 | 6731 | Perce Leggings | 珀斯裹腿 |
 | 6732 | Perce F Leggings | 珀斯裹腿【Ｆ】 |
-| 6733 | Perce FY Leggings | 普艾爾艾裹腿 |
+| 6733 | Perce FY Leggings | 佩賽裹腿 |
 | 6734 | Perce HS Leggings | 珀斯裹腿【ＨＳ】 |
 | 6735 | Perce G Leggings | 珀斯裹腿【Ｇ】 |
 | 6736 | Perce GF Leggings | 珀斯裹腿【ＧＦ】 |
 | 6737 | Perce GX Leggings | 珀斯裹腿【ＧＸ】 |
-| 6738 | Survey Corps Feet | 斯烏爾艾足 |
-| 6739 | Survey Corps F Feet | 斯烏爾艾足【Ｆ】 |
-| 6740 | Survey Corps FZ Feet | 斯烏爾艾足【ＦＺ】 |
-| 6741 | Survey Corps HS Feet | 斯烏爾艾足【ＨＳ】 |
-| 6742 | Survey Corps GS Feet | 斯烏爾艾足【ＧＳ】 |
-| 6743 | Survey Corps GP Feet | 斯烏爾艾足【ＧＰ】 |
-| 6744 | Survey Corps Boots | 斯烏爾艾靴 |
-| 6745 | Survey Corps F Boots | 斯烏爾艾靴【Ｆ】 |
-| 6746 | Survey Corps FZ Boots | 斯烏爾艾靴【ＦＺ】 |
-| 6747 | Survey Corps HS Boots | 斯烏爾艾靴【ＨＳ】 |
-| 6748 | Survey Corps GS Boots | 斯烏爾艾靴【ＧＳ】 |
-| 6749 | Survey Corps GP Boots | 斯烏爾艾靴【ＧＰ】 |
+| 6738 | Survey Corps Feet | 斯薇古足 |
+| 6739 | Survey Corps F Feet | 斯薇古足【Ｆ】 |
+| 6740 | Survey Corps FZ Feet | 斯薇古足【ＦＺ】 |
+| 6741 | Survey Corps HS Feet | 斯薇古足【ＨＳ】 |
+| 6742 | Survey Corps GS Feet | 斯薇古足【ＧＳ】 |
+| 6743 | Survey Corps GP Feet | 斯薇古足【ＧＰ】 |
+| 6744 | Survey Corps Boots | 斯薇古靴 |
+| 6745 | Survey Corps F Boots | 斯薇古靴【Ｆ】 |
+| 6746 | Survey Corps FZ Boots | 斯薇古靴【ＦＺ】 |
+| 6747 | Survey Corps HS Boots | 斯薇古靴【ＨＳ】 |
+| 6748 | Survey Corps GS Boots | 斯薇古靴【ＧＳ】 |
+| 6749 | Survey Corps GP Boots | 斯薇古靴【ＧＰ】 |
 | 6750 | Training Corps Feet | 特阿恩伊足 |
 | 6751 | Training Corps F Feet | 特阿恩伊足【Ｆ】 |
 | 6752 | Training Corps FZ Feet | 特阿恩伊足【ＦＺ】 |
@@ -288,7 +288,7 @@
 | 6782 | ダミー | (dummy) |
 | 6783 | ダミー | (dummy) |
 | 6784 | Carrol Feet・Gold | 可羅足・金 |
-| 6785 | Leila Feet | 爾艾爾阿足 |
+| 6785 | Leila Feet | 勒拉足 |
 | 6786 | IS Academy Boots・White | 學院靴・白 |
 | 6787 | IS Academy F Boots・White | 學院靴【Ｆ】・白 |
 | 6788 | IS Academy FZ Boots・White | 學院靴【ＦＺ】・白 |
@@ -367,16 +367,16 @@
 | 6861 | Melan G Leggings | 紫黑裹腿【Ｇ】 |
 | 6862 | Melan GF Leggings | 紫黑裹腿【ＧＦ】 |
 | 6863 | Melan GX Leggings | 紫黑裹腿【ＧＸ】 |
-| 6864 | Rouge FY Greaves | 爾歐格艾護腿 |
+| 6864 | Rouge FY Greaves | 蘿蓋護腿 |
 | 6865 | Rouge HC Greaves | 紅護腿【ＨＣ】 |
 | 6866 | Rouge G Greaves | 紅護腿【Ｇ】 |
 | 6867 | Rouge GF Greaves | 紅護腿【ＧＦ】 |
 | 6868 | Rouge GX Greaves | 紅護腿【ＧＸ】 |
-| 6869 | Regyukusu GP Feet | 爾艾格烏足【ＧＰ】 |
-| 6870 | Regyukusu GP Boots | 爾艾格烏靴【ＧＰ】 |
+| 6869 | Regyukusu GP Feet | 蕾尤克斯足【ＧＰ】 |
+| 6870 | Regyukusu GP Boots | 蕾尤克斯靴【ＧＰ】 |
 | 6871 | Beil GP Divider | 貝爾分割護腿【ＧＰ】 |
-| 6872 | ヴェルフGP Greaves | 維爾夫護腿【ＧＰ】 |
-| 6873 | ヴェルフGP Leggings | 維爾夫裹腿【ＧＰ】 |
+| 6872 | ヴェルフGP Greaves | 薇露芙護腿【ＧＰ】 |
+| 6873 | ヴェルフGP Leggings | 薇露芙裹腿【ＧＰ】 |
 | 6874 | テリオグGP Greaves | 特里歐古護腿【ＧＰ】 |
 | 6875 | テリオグGP Leggings | 特里歐古裹腿【ＧＰ】 |
 | 6876 | Patapatagook・White | 拍達古古護腿・白 |
@@ -421,12 +421,12 @@
 | 6915 | Weiss G March | 白行軍腿【Ｇ】 |
 | 6916 | Weiss GF March | 白行軍腿【ＧＦ】 |
 | 6917 | Weiss GX March | 白行軍腿【ＧＸ】 |
-| 6918 | Venom G Greaves | 芙艾恩歐護腿【Ｇ】 |
-| 6919 | Venom GF Greaves | 芙艾恩歐護腿【ＧＦ】 |
-| 6920 | Venom GX Greaves | 芙艾恩歐護腿【ＧＸ】 |
-| 6921 | Venom G Leggings | 芙艾恩歐裹腿【Ｇ】 |
-| 6922 | Venom GF Leggings | 芙艾恩歐裹腿【ＧＦ】 |
-| 6923 | Venom GX Leggings | 芙艾恩歐裹腿【ＧＸ】 |
+| 6918 | Venom G Greaves | 薇諾護腿【Ｇ】 |
+| 6919 | Venom GF Greaves | 薇諾護腿【ＧＦ】 |
+| 6920 | Venom GX Greaves | 薇諾護腿【ＧＸ】 |
+| 6921 | Venom G Leggings | 薇諾裹腿【Ｇ】 |
+| 6922 | Venom GF Leggings | 薇諾裹腿【ＧＦ】 |
+| 6923 | Venom GX Leggings | 薇諾裹腿【ＧＸ】 |
 | 6924 | Elegance [Greaves 】 | 雅護腿 |
 | 6925 | Elegance F [Greaves 】 | 雅護腿【Ｆ】 |
 | 6926 | Elegance FX [Greaves 】 | 雅護腿【ＦＸ】 |

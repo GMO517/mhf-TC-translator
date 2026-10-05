@@ -52,18 +52,18 @@
 | 2046 | ヴェルフィ Guard | 芙魯芙臂甲 |
 | 2047 | テリオグ Arms | 特里歐古護腕 |
 | 2048 | テリオグ Guard | 特里歐古臂甲 |
-| 2049 | Kurossu Arms | 克烏爾歐護腕 |
-| 2050 | Kurossu F Arms | 克烏爾歐護腕【Ｆ】 |
-| 2051 | Kurossu Guard | 克烏爾歐臂甲 |
-| 2052 | Kurossu F Guard | 克烏爾歐臂甲【Ｆ】 |
+| 2049 | Kurossu Arms | 克蘿斯護腕 |
+| 2050 | Kurossu F Arms | 克蘿斯護腕【Ｆ】 |
+| 2051 | Kurossu Guard | 克蘿斯臂甲 |
+| 2052 | Kurossu F Guard | 克蘿斯臂甲【Ｆ】 |
 | 2053 | Shieri FX Arms | 夏伊爾伊護腕【ＦＸ】 |
 | 2054 | Shieri FX Guard | 夏伊爾伊臂甲【ＦＸ】 |
 | 2055 | Craft FX Arms | 工匠護腕【ＦＸ】 |
 | 2056 | Craft FX Guard | 工匠臂甲【ＦＸ】 |
 | 2057 | Moss Covered FX Arms | 苔覆護腕【ＦＸ】 |
 | 2058 | Moss Covered FX Guard | 苔覆臂甲【ＦＸ】 |
-| 2059 | Excelle FX Arms | 艾克斯艾護腕【ＦＸ】 |
-| 2060 | Excelle FX Guard | 艾克斯艾臂甲【ＦＸ】 |
+| 2059 | Excelle FX Arms | 克斯賽爾護腕【ＦＸ】 |
+| 2060 | Excelle FX Guard | 克斯賽爾臂甲【ＦＸ】 |
 | 2061 | Blue Sky Sleeve・True | 天空真袖・青 |
 | 2062 | Welkin Sleeve・True | 蒼穹真袖 |
 | 2063 | ビステマ Arms | 比斯特瑪護腕 |
@@ -71,18 +71,18 @@
 | 2065 | Rath Duo F Guard | 雙火龍臂甲【Ｆ】 |
 | 2066 | ロークF Arms | 洛可護腕【Ｆ】 |
 | 2067 | ロークF Guard | 洛可臂甲【Ｆ】 |
-| 2068 | Buruho F Arms・Blue | 布烏爾烏護腕【Ｆ】・青 |
-| 2069 | マー Gear F Guard・Blue | 瑪爾機甲臂甲【Ｆ】・青 |
+| 2068 | Buruho F Arms・Blue | 布露霍護腕【Ｆ】・青 |
+| 2069 | マー Gear F Guard・Blue | 瑪臂甲【Ｆ】・青 |
 | 2070 | Gogomoa FX Arms | 跳緋獸護腕【ＦＸ】 |
 | 2071 | Gogomoa FX Guard | 跳緋獸臂甲【ＦＸ】 |
-| 2072 | Kuraaji FX Arms | 克烏爾阿護腕【ＦＸ】 |
-| 2073 | Kuraaji FX Guard | 克烏爾阿臂甲【ＦＸ】 |
+| 2072 | Kuraaji FX Arms | 克拉護腕【ＦＸ】 |
+| 2073 | Kuraaji FX Guard | 克拉臂甲【ＦＸ】 |
 | 2074 | Zaakaa FX Arms | 茲阿克阿護腕【ＦＸ】 |
 | 2075 | Chaser FX Guard | 追撃臂甲【ＦＸ】 |
 | 2076 | Abitto FZ Arms | 阿比托護腕【ＦＺ】 |
 | 2077 | Abitto FZ Guard | 阿比托臂甲【ＦＺ】 |
-| 2078 | Arge FZ Arms | 阿爾傑護腕【ＦＺ】 |
-| 2079 | Arge FZ Guard | 阿爾傑臂甲【ＦＺ】 |
+| 2078 | Arge FZ Arms | 亞潔護腕【ＦＺ】 |
+| 2079 | Arge FZ Guard | 亞潔臂甲【ＦＺ】 |
 | 2080 | Camarera FZ Arms | 可瑪蕾拉護腕【ＦＺ】 |
 | 2081 | Camarera FZ Guard | 可瑪蕾拉臂甲【ＦＺ】 |
 | 2082 | Metenera FZ Arms | 梅特涅拉護腕【ＦＺ】 |
@@ -121,8 +121,8 @@
 | 2115 | White 鳥ノ袖・魁 | 鳥袖魁護腕・白 |
 | 2116 | Kakabu Arms | 克阿克阿護腕 |
 | 2117 | Kakabu Guard | 克阿克阿臂甲 |
-| 2118 | Onero Arms | 歐恩艾爾護腕 |
-| 2119 | Onero Guard | 歐恩艾爾臂甲 |
+| 2118 | Onero Arms | 奈蘿護腕 |
+| 2119 | Onero Guard | 奈蘿臂甲 |
 | 2120 | Jyaga Arms | 傑阿格阿護腕 |
 | 2121 | Jyaga Guard | 傑阿格阿臂甲 |
 | 2122 | Omet Arms・Black | 歐梅特護腕・黑 |
@@ -157,12 +157,12 @@
 | 2151 | 無想の Gauntlets・魁 | 無想の手甲魁 |
 | 2152 | 俊激の Sleeve | 俊激の袖 |
 | 2153 | 俊激の Sleeve・魁 | 俊激の袖魁 |
-| 2154 | Suifudo Arms | 斯烏芙烏護腕 |
-| 2155 | Suifudo F Arms | 斯烏芙烏護腕【Ｆ】 |
-| 2156 | Merodesu Arms | 姆艾爾歐護腕 |
-| 2157 | Merodesu F Arms | 姆艾爾歐護腕【Ｆ】 |
-| 2158 | Sumatosu Arms | 斯烏姆阿護腕 |
-| 2159 | Sumatosu F Arms | 斯烏姆阿護腕【Ｆ】 |
+| 2154 | Suifudo Arms | 斯芙多護腕 |
+| 2155 | Suifudo F Arms | 斯芙多護腕【Ｆ】 |
+| 2156 | Merodesu Arms | 梅蘿德斯護腕 |
+| 2157 | Merodesu F Arms | 梅蘿德斯護腕【Ｆ】 |
+| 2158 | Sumatosu Arms | 斯瑪托斯護腕 |
+| 2159 | Sumatosu F Arms | 斯瑪托斯護腕【Ｆ】 |
 | 2160 | Passhio Guard | 普阿斯伊臂甲 |
 | 2161 | Passhio F Guard | 普阿斯伊臂甲【Ｆ】 |
 | 2162 | Cultu Arms・Ash | 庫爾圖護腕・灰 |
@@ -236,14 +236,14 @@
 | 2230 | Jess HC Guard | 傑斯臂甲【ＨＣ】 |
 | 2231 | Eques HC Arms | 騎士護腕【ＨＣ】 |
 | 2232 | Eques HC Guard | 騎士臂甲【ＨＣ】 |
-| 2233 | Kuraaji HC Arms | 克烏爾阿護腕【ＨＣ】 |
-| 2234 | Kuraaji HC Guard | 克烏爾阿臂甲【ＨＣ】 |
-| 2235 | Melan FY Arms | 姆艾爾阿護腕 |
+| 2233 | Kuraaji HC Arms | 克拉護腕【ＨＣ】 |
+| 2234 | Kuraaji HC Guard | 克拉臂甲【ＨＣ】 |
+| 2235 | Melan FY Arms | 梅拉護腕 |
 | 2236 | Melan HC Arms | 紫黑護腕【ＨＣ】 |
-| 2237 | Melan FY Guard | 姆艾爾阿臂甲 |
+| 2237 | Melan FY Guard | 梅拉臂甲 |
 | 2238 | Melan HC Guard | 紫黑臂甲【ＨＣ】 |
-| 2239 | Harubadaa FY Arms | 赫阿爾烏護腕 |
-| 2240 | Harubadaa HC Arms | 赫阿爾烏護腕【ＨＣ】 |
+| 2239 | Harubadaa FY Arms | 哈露巴達護腕 |
+| 2240 | Harubadaa HC Arms | 哈露巴達護腕【ＨＣ】 |
 | 2241 | Tracker FY Guard | 特阿克艾臂甲 |
 | 2242 | Tracker HC Guard | 追蹤臂甲【ＨＣ】 |
 | 2243 | Omet FZ Arms・Black | 歐梅特護腕【ＦＺ】・黑 |
@@ -337,21 +337,21 @@
 | 2331 | Comrade Arms SP White Red | 戰友護腕【ＳＰ】・白赤 |
 | 2332 | Comrade Arms SP White Blue | 戰友護腕【ＳＰ】・白青 |
 | 2333 | Comrade Arms SP White Yellow | 戰友護腕【ＳＰ】・白黄 |
-| 2334 | Rubellite Arms | 爾烏布艾護腕 |
-| 2335 | Rubellite F Arms | 爾烏布艾護腕【Ｆ】 |
-| 2336 | Rubellite FX Arms | 爾烏布艾護腕【ＦＸ】 |
-| 2337 | ラズライト Arms | 拉茲拉伊托護腕 |
-| 2338 | ラズライトF Arms | 拉茲拉伊托護腕【Ｆ】 |
-| 2339 | ラズライトFX Arms | 拉茲拉伊托護腕【ＦＸ】 |
-| 2340 | Zircon Arms | 茲伊爾歐護腕 |
-| 2341 | Zircon F Arms | 茲伊爾歐護腕【Ｆ】 |
-| 2342 | Zircon FX Arms | 茲伊爾歐護腕【ＦＸ】 |
+| 2334 | Rubellite Arms | 露貝爾特護腕 |
+| 2335 | Rubellite F Arms | 露貝爾特護腕【Ｆ】 |
+| 2336 | Rubellite FX Arms | 露貝爾特護腕【ＦＸ】 |
+| 2337 | ラズライト Arms | 拉茲拉伊護腕 |
+| 2338 | ラズライトF Arms | 拉茲拉伊護腕【Ｆ】 |
+| 2339 | ラズライトFX Arms | 拉茲拉伊護腕【ＦＸ】 |
+| 2340 | Zircon Arms | 茲古護腕 |
+| 2341 | Zircon F Arms | 茲古護腕【Ｆ】 |
+| 2342 | Zircon FX Arms | 茲古護腕【ＦＸ】 |
 | 2343 | Spinel Arms | 斯伊恩艾護腕 |
 | 2344 | Spinel F Arms | 斯伊恩艾護腕【Ｆ】 |
 | 2345 | Spinel FX Arms | 斯伊恩艾護腕【ＦＸ】 |
-| 2346 | Pyrope Arms | 普歐普艾護腕 |
-| 2347 | Pyrope F Arms | 普歐普艾護腕【Ｆ】 |
-| 2348 | Pyrope FX Arms | 普歐普艾護腕【ＦＸ】 |
+| 2346 | Pyrope Arms | 蘿佩護腕 |
+| 2347 | Pyrope F Arms | 蘿佩護腕【Ｆ】 |
+| 2348 | Pyrope FX Arms | 蘿佩護腕【ＦＸ】 |
 | 2349 | アイオラ Arms | 阿伊歐拉護腕 |
 | 2350 | アイオラF Arms | 阿伊歐拉護腕【Ｆ】 |
 | 2351 | アイオラFX Arms | 阿伊歐拉護腕【ＦＸ】 |
@@ -364,9 +364,9 @@
 | 2358 | Citrine Guard | 克伊特伊臂甲 |
 | 2359 | Citrine F Guard | 克伊特伊臂甲【Ｆ】 |
 | 2360 | Citrine FX Guard | 克伊特伊臂甲【ＦＸ】 |
-| 2361 | Peridot Guard | 普艾爾伊臂甲 |
-| 2362 | Peridot F Guard | 普艾爾伊臂甲【Ｆ】 |
-| 2363 | Peridot FX Guard | 普艾爾伊臂甲【ＦＸ】 |
+| 2361 | Peridot Guard | 佩里多臂甲 |
+| 2362 | Peridot F Guard | 佩里多臂甲【Ｆ】 |
+| 2363 | Peridot FX Guard | 佩里多臂甲【ＦＸ】 |
 | 2364 | Turquoise Guard | 緑松石臂甲 |
 | 2365 | Turquoise F Guard | 緑松石臂甲【Ｆ】 |
 | 2366 | Turquoise FX Guard | 緑松石臂甲【ＦＸ】 |
@@ -378,26 +378,26 @@
 | 2372 | 式部ノ Sleeve・魁 | 式部魁袖 |
 | 2373 | 式部ノ Sleeve・Smart | 機靈袖 |
 | 2374 | 式部ノ Sleeve・Flower | 芙歐沃艾袖 |
-| 2375 | Aruru Arms | 阿爾烏爾護腕 |
-| 2376 | Aruru F Arms | 阿爾烏爾護腕【Ｆ】 |
-| 2377 | Aruru FY Arms | 阿爾烏爾護腕 |
-| 2378 | Aruru HC Arms | 阿爾烏爾護腕【ＨＣ】 |
-| 2379 | Aruru Guard | 阿爾烏爾臂甲 |
-| 2380 | Aruru F Guard | 阿爾烏爾臂甲【Ｆ】 |
-| 2381 | Aruru FY Guard | 阿爾烏爾臂甲 |
-| 2382 | Aruru HC Guard | 阿爾烏爾臂甲【ＨＣ】 |
-| 2383 | Oorowa Arms | 歐爾歐沃護腕 |
-| 2384 | Oorowa F Arms | 歐爾歐沃護腕【Ｆ】 |
-| 2385 | Oorowa FY Arms | 歐爾歐沃護腕 |
-| 2386 | Oorowa HC Arms | 歐爾歐沃護腕【ＨＣ】 |
-| 2387 | Oorowa Guard | 歐爾歐沃臂甲 |
-| 2388 | Oorowa F Guard | 歐爾歐沃臂甲【Ｆ】 |
-| 2389 | Oorowa FY Guard | 歐爾歐沃臂甲 |
-| 2390 | Oorowa HC Guard | 歐爾歐沃臂甲【ＨＣ】 |
-| 2391 | Onero F Arms | 歐恩艾爾護腕【Ｆ】 |
-| 2392 | Onero F Guard | 歐恩艾爾臂甲【Ｆ】 |
-| 2393 | Diru FY Arms | 德伊爾烏護腕 |
-| 2394 | Diru FY Guard | 德伊爾烏臂甲 |
+| 2375 | Aruru Arms | 露露護腕 |
+| 2376 | Aruru F Arms | 露露護腕【Ｆ】 |
+| 2377 | Aruru FY Arms | 露露護腕 |
+| 2378 | Aruru HC Arms | 露露護腕【ＨＣ】 |
+| 2379 | Aruru Guard | 露露臂甲 |
+| 2380 | Aruru F Guard | 露露臂甲【Ｆ】 |
+| 2381 | Aruru FY Guard | 露露臂甲 |
+| 2382 | Aruru HC Guard | 露露臂甲【ＨＣ】 |
+| 2383 | Oorowa Arms | 烏蘿瓦護腕 |
+| 2384 | Oorowa F Arms | 烏蘿瓦護腕【Ｆ】 |
+| 2385 | Oorowa FY Arms | 烏蘿瓦護腕 |
+| 2386 | Oorowa HC Arms | 烏蘿瓦護腕【ＨＣ】 |
+| 2387 | Oorowa Guard | 烏蘿瓦臂甲 |
+| 2388 | Oorowa F Guard | 烏蘿瓦臂甲【Ｆ】 |
+| 2389 | Oorowa FY Guard | 烏蘿瓦臂甲 |
+| 2390 | Oorowa HC Guard | 烏蘿瓦臂甲【ＨＣ】 |
+| 2391 | Onero F Arms | 奈蘿護腕【Ｆ】 |
+| 2392 | Onero F Guard | 奈蘿臂甲【Ｆ】 |
+| 2393 | Diru FY Arms | 迪露護腕 |
+| 2394 | Diru FY Guard | 迪露臂甲 |
 | 2395 | Strega HC Arms | 魔女護腕【ＨＣ】 |
 | 2396 | Strega HC Guard | 魔女臂甲【ＨＣ】 |
 | 2397 | Zaakaa HC Arms | 茲阿克阿護腕【ＨＣ】 |
@@ -420,11 +420,11 @@
 | 2414 | クロノス Arms | 庫羅諾斯護腕 |
 | 2415 | フレイ Guard | 芙雷伊臂甲 |
 | 2416 | クロノス Guard | 庫羅諾斯臂甲 |
-| 2417 | Himeros HC Arms | 赫伊姆艾護腕【ＨＣ】 |
-| 2418 | Bureshisu HC Arms | 布烏爾艾護腕【ＨＣ】 |
+| 2417 | Himeros HC Arms | 希梅蘿護腕【ＨＣ】 |
+| 2418 | Bureshisu HC Arms | 布蕾修斯護腕【ＨＣ】 |
 | 2419 | Charien HC Guard | 夏里安臂甲【ＨＣ】 |
-| 2420 | Buran FY Arms | 布烏爾阿護腕 |
-| 2421 | Buran HC Arms | 布烏爾阿護腕【ＨＣ】 |
+| 2420 | Buran FY Arms | 布拉護腕 |
+| 2421 | Buran HC Arms | 布拉護腕【ＨＣ】 |
 | 2422 | Gypceros LX Arms | 毒怪鳥護腕 |
 | 2423 | Ceanataur LX Arms | 鎌蟹護腕 |
 | 2424 | Tigrex LX Arms | 轟龍護腕 |
@@ -432,7 +432,7 @@
 | 2426 | Gypceros RX Arms | 毒怪鳥護腕 |
 | 2427 | Ceanataur RX Arms | 鎌蟹護腕 |
 | 2428 | Espinas RX Grip | 棘龍握套 |
-| 2429 | Monodevil RX Guard | 姆歐恩歐臂甲 |
+| 2429 | Monodevil RX Guard | 莫諾德薇臂甲 |
 | 2430 | Cayssis Arms Water | 凱西斯護腕・水 |
 | 2431 | Cayssis F Arms Water | 凱西斯護腕【Ｆ】・水 |
 | 2432 | Cayssis FZ Arms Water | 凱西斯護腕【ＦＺ】・水 |

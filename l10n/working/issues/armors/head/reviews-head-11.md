@@ -7,180 +7,180 @@
 | 5001 | Shoko HS Band | 肖子頭帶【ＨＳ】 |
 | 5002 | Shoko GS Band | 肖子頭帶【ＧＳ】 |
 | 5003 | Shoko GP Band | 肖子頭帶【ＧＰ】 |
-| 5004 | Genom Head・Green | 基因組頭兜・緑 |
-| 5005 | Genom F Head・Green | 基因組頭兜【Ｆ】・緑 |
-| 5006 | Genom FZ Head・Green | 基因組頭兜【ＦＺ】・緑 |
-| 5007 | Genom HS Head・Green | 基因組頭兜【ＨＳ】・緑 |
-| 5008 | Genom GS Head・Green | 基因組頭兜【ＧＳ】・緑 |
-| 5009 | Genom GP Head・Green | 基因組頭兜【ＧＰ】・緑 |
+| 5004 | Genom Head・Green | 基因組頭鎧・緑 |
+| 5005 | Genom F Head・Green | 基因組頭鎧【Ｆ】・緑 |
+| 5006 | Genom FZ Head・Green | 基因組頭鎧【ＦＺ】・緑 |
+| 5007 | Genom HS Head・Green | 基因組頭鎧【ＨＳ】・緑 |
+| 5008 | Genom GS Head・Green | 基因組頭鎧【ＧＳ】・緑 |
+| 5009 | Genom GP Head・Green | 基因組頭鎧【ＧＰ】・緑 |
 | 5010 | Genom Mask・Green | 基因組帽子・緑 |
 | 5011 | Genom F Mask・Green | 基因組帽子【Ｆ】・緑 |
 | 5012 | Genom FZ Mask・Green | 基因組帽子【ＦＺ】・緑 |
 | 5013 | Genom HS Mask・Green | 基因組帽子【ＨＳ】・緑 |
 | 5014 | Genom GS Mask・Green | 基因組帽子【ＧＳ】・緑 |
 | 5015 | Genom GP Mask・Green | 基因組帽子【ＧＰ】・緑 |
-| 5016 | Genom Head・Water | 基因組頭兜・水 |
-| 5017 | Genom F Head・Water | 基因組頭兜【Ｆ】・水 |
-| 5018 | Genom FZ Head・Water | 基因組頭兜【ＦＺ】・水 |
-| 5019 | Genom HS Head・Water | 基因組頭兜【ＨＳ】・水 |
-| 5020 | Genom GS Head・Water | 基因組頭兜【ＧＳ】・水 |
-| 5021 | Genom GP Head・Water | 基因組頭兜【ＧＰ】・水 |
+| 5016 | Genom Head・Water | 基因組頭鎧・水 |
+| 5017 | Genom F Head・Water | 基因組頭鎧【Ｆ】・水 |
+| 5018 | Genom FZ Head・Water | 基因組頭鎧【ＦＺ】・水 |
+| 5019 | Genom HS Head・Water | 基因組頭鎧【ＨＳ】・水 |
+| 5020 | Genom GS Head・Water | 基因組頭鎧【ＧＳ】・水 |
+| 5021 | Genom GP Head・Water | 基因組頭鎧【ＧＰ】・水 |
 | 5022 | Genom Mask・Water | 基因組帽子・水 |
 | 5023 | Genom F Mask・Water | 基因組帽子【Ｆ】・水 |
 | 5024 | Genom FZ Mask・Water | 基因組帽子【ＦＺ】・水 |
 | 5025 | Genom HS Mask・Water | 基因組帽子【ＨＳ】・水 |
 | 5026 | Genom GS Mask・Water | 基因組帽子【ＧＳ】・水 |
 | 5027 | Genom GP Mask・Water | 基因組帽子【ＧＰ】・水 |
-| 5028 | Genom Head・Red | 基因組頭兜・赤 |
-| 5029 | Genom F Head・Red | 基因組頭兜【Ｆ】・赤 |
-| 5030 | Genom FZ Head・Red | 基因組頭兜【ＦＺ】・赤 |
-| 5031 | Genom HS Head・Red | 基因組頭兜【ＨＳ】・赤 |
-| 5032 | Genom GS Head・Red | 基因組頭兜【ＧＳ】・赤 |
-| 5033 | Genom GP Head・Red | 基因組頭兜【ＧＰ】・赤 |
+| 5028 | Genom Head・Red | 基因組頭鎧・赤 |
+| 5029 | Genom F Head・Red | 基因組頭鎧【Ｆ】・赤 |
+| 5030 | Genom FZ Head・Red | 基因組頭鎧【ＦＺ】・赤 |
+| 5031 | Genom HS Head・Red | 基因組頭鎧【ＨＳ】・赤 |
+| 5032 | Genom GS Head・Red | 基因組頭鎧【ＧＳ】・赤 |
+| 5033 | Genom GP Head・Red | 基因組頭鎧【ＧＰ】・赤 |
 | 5034 | Genom Mask・Red | 基因組帽子・赤 |
 | 5035 | Genom F Mask・Red | 基因組帽子【Ｆ】・赤 |
 | 5036 | Genom FZ Mask・Red | 基因組帽子【ＦＺ】・赤 |
 | 5037 | Genom HS Mask・Red | 基因組帽子【ＨＳ】・赤 |
 | 5038 | Genom GS Mask・Red | 基因組帽子【ＧＳ】・赤 |
 | 5039 | Genom GP Mask・Red | 基因組帽子【ＧＰ】・赤 |
-| 5040 | Genom Head・Purple | 基因組頭兜・紫 |
-| 5041 | Genom F Head・Purple | 基因組頭兜【Ｆ】・紫 |
-| 5042 | Genom FZ Head・Purple | 基因組頭兜【ＦＺ】・紫 |
-| 5043 | Genom HS Head・Purple | 基因組頭兜【ＨＳ】・紫 |
-| 5044 | Genom GS Head・Purple | 基因組頭兜【ＧＳ】・紫 |
-| 5045 | Genom GP Head・Purple | 基因組頭兜【ＧＰ】・紫 |
+| 5040 | Genom Head・Purple | 基因組頭鎧・紫 |
+| 5041 | Genom F Head・Purple | 基因組頭鎧【Ｆ】・紫 |
+| 5042 | Genom FZ Head・Purple | 基因組頭鎧【ＦＺ】・紫 |
+| 5043 | Genom HS Head・Purple | 基因組頭鎧【ＨＳ】・紫 |
+| 5044 | Genom GS Head・Purple | 基因組頭鎧【ＧＳ】・紫 |
+| 5045 | Genom GP Head・Purple | 基因組頭鎧【ＧＰ】・紫 |
 | 5046 | Genom Mask・Purple | 基因組帽子・紫 |
 | 5047 | Genom F Mask・Purple | 基因組帽子【Ｆ】・紫 |
 | 5048 | Genom FZ Mask・Purple | 基因組帽子【ＦＺ】・紫 |
 | 5049 | Genom HS Mask・Purple | 基因組帽子【ＨＳ】・紫 |
 | 5050 | Genom GS Mask・Purple | 基因組帽子【ＧＳ】・紫 |
 | 5051 | Genom GP Mask・Purple | 基因組帽子【ＧＰ】・紫 |
-| 5052 | Divol Head Green | 迪沃爾頭兜・緑 |
-| 5053 | Divol F Head Green | 迪沃爾頭兜【Ｆ】・緑 |
-| 5054 | Divol FZ Head Green | 迪沃爾頭兜【ＦＺ】・緑 |
-| 5055 | Divol HS Head Green | 迪沃爾頭兜【ＨＳ】・緑 |
-| 5056 | Divol GS Head Green | 迪沃爾頭兜【ＧＳ】・緑 |
-| 5057 | Divol GP Head Green | 迪沃爾頭兜【ＧＰ】・緑 |
+| 5052 | Divol Head Green | 迪沃爾頭鎧・緑 |
+| 5053 | Divol F Head Green | 迪沃爾頭鎧【Ｆ】・緑 |
+| 5054 | Divol FZ Head Green | 迪沃爾頭鎧【ＦＺ】・緑 |
+| 5055 | Divol HS Head Green | 迪沃爾頭鎧【ＨＳ】・緑 |
+| 5056 | Divol GS Head Green | 迪沃爾頭鎧【ＧＳ】・緑 |
+| 5057 | Divol GP Head Green | 迪沃爾頭鎧【ＧＰ】・緑 |
 | 5058 | Divol Mask Green | 迪沃爾帽子・緑 |
 | 5059 | Divol F Mask Green | 迪沃爾帽子【Ｆ】・緑 |
 | 5060 | Divol FZ Mask Green | 迪沃爾帽子【ＦＺ】・緑 |
 | 5061 | Divol HS Mask Green | 迪沃爾帽子【ＨＳ】・緑 |
 | 5062 | Divol GS Mask Green | 迪沃爾帽子【ＧＳ】・緑 |
 | 5063 | Divol GP Mask Green | 迪沃爾帽子【ＧＰ】・緑 |
-| 5064 | Divol Head Tea | 迪沃爾頭兜・茶 |
-| 5065 | Divol F Head Tea | 迪沃爾頭兜【Ｆ】・茶 |
-| 5066 | Divol FZ Head Tea | 迪沃爾頭兜【ＦＺ】・茶 |
-| 5067 | Divol HS Head Tea | 迪沃爾頭兜【ＨＳ】・茶 |
-| 5068 | Divol GS Head Tea | 迪沃爾頭兜【ＧＳ】・茶 |
-| 5069 | Divol GP Head Tea | 迪沃爾頭兜【ＧＰ】・茶 |
+| 5064 | Divol Head Tea | 迪沃爾頭鎧・茶 |
+| 5065 | Divol F Head Tea | 迪沃爾頭鎧【Ｆ】・茶 |
+| 5066 | Divol FZ Head Tea | 迪沃爾頭鎧【ＦＺ】・茶 |
+| 5067 | Divol HS Head Tea | 迪沃爾頭鎧【ＨＳ】・茶 |
+| 5068 | Divol GS Head Tea | 迪沃爾頭鎧【ＧＳ】・茶 |
+| 5069 | Divol GP Head Tea | 迪沃爾頭鎧【ＧＰ】・茶 |
 | 5070 | Divol Mask Tea | 迪沃爾帽子・茶 |
 | 5071 | Divol F Mask Tea | 迪沃爾帽子【Ｆ】・茶 |
 | 5072 | Divol FZ Mask Tea | 迪沃爾帽子【ＦＺ】・茶 |
 | 5073 | Divol HS Mask Tea | 迪沃爾帽子【ＨＳ】・茶 |
 | 5074 | Divol GS Mask Tea | 迪沃爾帽子【ＧＳ】・茶 |
 | 5075 | Divol GP Mask Tea | 迪沃爾帽子【ＧＰ】・茶 |
-| 5076 | Divol Head White | 迪沃爾頭兜・白 |
-| 5077 | Divol F Head White | 迪沃爾頭兜【Ｆ】・白 |
-| 5078 | Divol FZ Head White | 迪沃爾頭兜【ＦＺ】・白 |
-| 5079 | Divol HS Head White | 迪沃爾頭兜【ＨＳ】・白 |
-| 5080 | Divol GS Head White | 迪沃爾頭兜【ＧＳ】・白 |
-| 5081 | Divol GP Head White | 迪沃爾頭兜【ＧＰ】・白 |
+| 5076 | Divol Head White | 迪沃爾頭鎧・白 |
+| 5077 | Divol F Head White | 迪沃爾頭鎧【Ｆ】・白 |
+| 5078 | Divol FZ Head White | 迪沃爾頭鎧【ＦＺ】・白 |
+| 5079 | Divol HS Head White | 迪沃爾頭鎧【ＨＳ】・白 |
+| 5080 | Divol GS Head White | 迪沃爾頭鎧【ＧＳ】・白 |
+| 5081 | Divol GP Head White | 迪沃爾頭鎧【ＧＰ】・白 |
 | 5082 | Divol Mask White | 迪沃爾帽子・白 |
 | 5083 | Divol F Mask White | 迪沃爾帽子【Ｆ】・白 |
 | 5084 | Divol FZ Mask White | 迪沃爾帽子【ＦＺ】・白 |
 | 5085 | Divol HS Mask White | 迪沃爾帽子【ＨＳ】・白 |
 | 5086 | Divol GS Mask White | 迪沃爾帽子【ＧＳ】・白 |
 | 5087 | Divol GP Mask White | 迪沃爾帽子【ＧＰ】・白 |
-| 5088 | Dante Head・Red | 但丁頭兜・赤 |
-| 5089 | Dante F Head・Red | 但丁頭兜【Ｆ】・赤 |
-| 5090 | Dante FZ Head・Red | 但丁頭兜【ＦＺ】・赤 |
-| 5091 | Dante HS Head・Red | 但丁頭兜【ＨＳ】・赤 |
-| 5092 | Dante GS Head・Red | 但丁頭兜【ＧＳ】・赤 |
-| 5093 | Dante GP Head・Red | 但丁頭兜【ＧＰ】・赤 |
+| 5088 | Dante Head・Red | 但丁頭鎧・赤 |
+| 5089 | Dante F Head・Red | 但丁頭鎧【Ｆ】・赤 |
+| 5090 | Dante FZ Head・Red | 但丁頭鎧【ＦＺ】・赤 |
+| 5091 | Dante HS Head・Red | 但丁頭鎧【ＨＳ】・赤 |
+| 5092 | Dante GS Head・Red | 但丁頭鎧【ＧＳ】・赤 |
+| 5093 | Dante GP Head・Red | 但丁頭鎧【ＧＰ】・赤 |
 | 5094 | Dante Wig・Red | 但丁假髮・赤 |
 | 5095 | Dante F Wig・Red | 但丁假髮【Ｆ】・赤 |
 | 5096 | Dante FZ Wig・Red | 但丁假髮【ＦＺ】・赤 |
 | 5097 | Dante HS Wig・Red | 但丁假髮【ＨＳ】・赤 |
 | 5098 | Dante GS Wig・Red | 但丁假髮【ＧＳ】・赤 |
 | 5099 | Dante GP Wig・Red | 但丁假髮【ＧＰ】・赤 |
-| 5100 | Lady Head・White | 淑女頭兜・白 |
-| 5101 | Lady F Head・White | 淑女頭兜【Ｆ】・白 |
-| 5102 | Lady FZ Head・White | 淑女頭兜【ＦＺ】・白 |
-| 5103 | Lady HS Head・White | 淑女頭兜【ＨＳ】・白 |
-| 5104 | Lady GS Head・White | 淑女頭兜【ＧＳ】・白 |
-| 5105 | Lady GP Head・White | 淑女頭兜【ＧＰ】・白 |
+| 5100 | Lady Head・White | 淑女頭鎧・白 |
+| 5101 | Lady F Head・White | 淑女頭鎧【Ｆ】・白 |
+| 5102 | Lady FZ Head・White | 淑女頭鎧【ＦＺ】・白 |
+| 5103 | Lady HS Head・White | 淑女頭鎧【ＨＳ】・白 |
+| 5104 | Lady GS Head・White | 淑女頭鎧【ＧＳ】・白 |
+| 5105 | Lady GP Head・White | 淑女頭鎧【ＧＰ】・白 |
 | 5106 | Lady Wig・White | 淑女假髮・白 |
 | 5107 | Lady F Wig・White | 淑女假髮【Ｆ】・白 |
 | 5108 | Lady FZ Wig・White | 淑女假髮【ＦＺ】・白 |
 | 5109 | Lady HS Wig・White | 淑女假髮【ＨＳ】・白 |
 | 5110 | Lady GS Wig・White | 淑女假髮【ＧＳ】・白 |
 | 5111 | Lady GP Wig・White | 淑女假髮【ＧＰ】・白 |
-| 5112 | Dante Head・Black | 但丁頭兜・黑 |
-| 5113 | Dante F Head・Black | 但丁頭兜【Ｆ】・黑 |
-| 5114 | Dante FZ Head・Black | 但丁頭兜【ＦＺ】・黑 |
-| 5115 | Dante HS Head・Black | 但丁頭兜【ＨＳ】・黑 |
-| 5116 | Dante GS Head・Black | 但丁頭兜【ＧＳ】・黑 |
-| 5117 | Dante GP Head・Black | 但丁頭兜【ＧＰ】・黑 |
+| 5112 | Dante Head・Black | 但丁頭鎧・黑 |
+| 5113 | Dante F Head・Black | 但丁頭鎧【Ｆ】・黑 |
+| 5114 | Dante FZ Head・Black | 但丁頭鎧【ＦＺ】・黑 |
+| 5115 | Dante HS Head・Black | 但丁頭鎧【ＨＳ】・黑 |
+| 5116 | Dante GS Head・Black | 但丁頭鎧【ＧＳ】・黑 |
+| 5117 | Dante GP Head・Black | 但丁頭鎧【ＧＰ】・黑 |
 | 5118 | Dante Wig・Black | 但丁假髮・黑 |
 | 5119 | Dante F Wig・Black | 但丁假髮【Ｆ】・黑 |
 | 5120 | Dante FZ Wig・Black | 但丁假髮【ＦＺ】・黑 |
 | 5121 | Dante HS Wig・Black | 但丁假髮【ＨＳ】・黑 |
 | 5122 | Dante GS Wig・Black | 但丁假髮【ＧＳ】・黑 |
 | 5123 | Dante GP Wig・Black | 但丁假髮【ＧＰ】・黑 |
-| 5124 | Lady Head・Black | 淑女頭兜・黑 |
-| 5125 | Lady F Head・Black | 淑女頭兜【Ｆ】・黑 |
-| 5126 | Lady FZ Head・Black | 淑女頭兜【ＦＺ】・黑 |
-| 5127 | Lady HS Head・Black | 淑女頭兜【ＨＳ】・黑 |
-| 5128 | Lady GS Head・Black | 淑女頭兜【ＧＳ】・黑 |
-| 5129 | Lady GP Head・Black | 淑女頭兜【ＧＰ】・黑 |
+| 5124 | Lady Head・Black | 淑女頭鎧・黑 |
+| 5125 | Lady F Head・Black | 淑女頭鎧【Ｆ】・黑 |
+| 5126 | Lady FZ Head・Black | 淑女頭鎧【ＦＺ】・黑 |
+| 5127 | Lady HS Head・Black | 淑女頭鎧【ＨＳ】・黑 |
+| 5128 | Lady GS Head・Black | 淑女頭鎧【ＧＳ】・黑 |
+| 5129 | Lady GP Head・Black | 淑女頭鎧【ＧＰ】・黑 |
 | 5130 | Lady Wig・Black | 淑女假髮・黑 |
 | 5131 | Lady F Wig・Black | 淑女假髮【Ｆ】・黑 |
 | 5132 | Lady FZ Wig・Black | 淑女假髮【ＦＺ】・黑 |
 | 5133 | Lady HS Wig・Black | 淑女假髮【ＨＳ】・黑 |
 | 5134 | Lady GS Wig・Black | 淑女假髮【ＧＳ】・黑 |
 | 5135 | Lady GP Wig・Black | 淑女假髮【ＧＰ】・黑 |
-| 5136 | Dante Head・White | 但丁頭兜・白 |
-| 5137 | Dante F Head・White | 但丁頭兜【Ｆ】・白 |
-| 5138 | Dante FZ Head・White | 但丁頭兜【ＦＺ】・白 |
-| 5139 | Dante HS Head・White | 但丁頭兜【ＨＳ】・白 |
-| 5140 | Dante GS Head・White | 但丁頭兜【ＧＳ】・白 |
-| 5141 | Dante GP Head・White | 但丁頭兜【ＧＰ】・白 |
+| 5136 | Dante Head・White | 但丁頭鎧・白 |
+| 5137 | Dante F Head・White | 但丁頭鎧【Ｆ】・白 |
+| 5138 | Dante FZ Head・White | 但丁頭鎧【ＦＺ】・白 |
+| 5139 | Dante HS Head・White | 但丁頭鎧【ＨＳ】・白 |
+| 5140 | Dante GS Head・White | 但丁頭鎧【ＧＳ】・白 |
+| 5141 | Dante GP Head・White | 但丁頭鎧【ＧＰ】・白 |
 | 5142 | Dante Wig・White | 但丁假髮・白 |
 | 5143 | Dante F Wig・White | 但丁假髮【Ｆ】・白 |
 | 5144 | Dante FZ Wig・White | 但丁假髮【ＦＺ】・白 |
 | 5145 | Dante HS Wig・White | 但丁假髮【ＨＳ】・白 |
 | 5146 | Dante GS Wig・White | 但丁假髮【ＧＳ】・白 |
 | 5147 | Dante GP Wig・White | 但丁假髮【ＧＰ】・白 |
-| 5148 | Lady Head・Red | 淑女頭兜・赤 |
-| 5149 | Lady F Head・Red | 淑女頭兜【Ｆ】・赤 |
-| 5150 | Lady FZ Head・Red | 淑女頭兜【ＦＺ】・赤 |
-| 5151 | Lady HS Head・Red | 淑女頭兜【ＨＳ】・赤 |
-| 5152 | Lady GS Head・Red | 淑女頭兜【ＧＳ】・赤 |
-| 5153 | Lady GP Head・Red | 淑女頭兜【ＧＰ】・赤 |
+| 5148 | Lady Head・Red | 淑女頭鎧・赤 |
+| 5149 | Lady F Head・Red | 淑女頭鎧【Ｆ】・赤 |
+| 5150 | Lady FZ Head・Red | 淑女頭鎧【ＦＺ】・赤 |
+| 5151 | Lady HS Head・Red | 淑女頭鎧【ＨＳ】・赤 |
+| 5152 | Lady GS Head・Red | 淑女頭鎧【ＧＳ】・赤 |
+| 5153 | Lady GP Head・Red | 淑女頭鎧【ＧＰ】・赤 |
 | 5154 | Lady Wig・Red | 淑女假髮・赤 |
 | 5155 | Lady F Wig・Red | 淑女假髮【Ｆ】・赤 |
 | 5156 | Lady FZ Wig・Red | 淑女假髮【ＦＺ】・赤 |
 | 5157 | Lady HS Wig・Red | 淑女假髮【ＨＳ】・赤 |
 | 5158 | Lady GS Wig・Red | 淑女假髮【ＧＳ】・赤 |
 | 5159 | Lady GP Wig・Red | 淑女假髮【ＧＰ】・赤 |
-| 5160 | Dante Head・Green | 但丁頭兜・緑 |
-| 5161 | Dante F Head・Green | 但丁頭兜【Ｆ】・緑 |
-| 5162 | Dante FZ Head・Green | 但丁頭兜【ＦＺ】・緑 |
-| 5163 | Dante HS Head・Green | 但丁頭兜【ＨＳ】・緑 |
-| 5164 | Dante GS Head・Green | 但丁頭兜【ＧＳ】・緑 |
-| 5165 | Dante GP Head・Green | 但丁頭兜【ＧＰ】・緑 |
+| 5160 | Dante Head・Green | 但丁頭鎧・緑 |
+| 5161 | Dante F Head・Green | 但丁頭鎧【Ｆ】・緑 |
+| 5162 | Dante FZ Head・Green | 但丁頭鎧【ＦＺ】・緑 |
+| 5163 | Dante HS Head・Green | 但丁頭鎧【ＨＳ】・緑 |
+| 5164 | Dante GS Head・Green | 但丁頭鎧【ＧＳ】・緑 |
+| 5165 | Dante GP Head・Green | 但丁頭鎧【ＧＰ】・緑 |
 | 5166 | Dante Wig・Green | 但丁假髮・緑 |
 | 5167 | Dante F Wig・Green | 但丁假髮【Ｆ】・緑 |
 | 5168 | Dante FZ Wig・Green | 但丁假髮【ＦＺ】・緑 |
 | 5169 | Dante HS Wig・Green | 但丁假髮【ＨＳ】・緑 |
 | 5170 | Dante GS Wig・Green | 但丁假髮【ＧＳ】・緑 |
 | 5171 | Dante GP Wig・Green | 但丁假髮【ＧＰ】・緑 |
-| 5172 | Lady Head・Green | 淑女頭兜・緑 |
-| 5173 | Lady F Head・Green | 淑女頭兜【Ｆ】・緑 |
-| 5174 | Lady FZ Head・Green | 淑女頭兜【ＦＺ】・緑 |
-| 5175 | Lady HS Head・Green | 淑女頭兜【ＨＳ】・緑 |
-| 5176 | Lady GS Head・Green | 淑女頭兜【ＧＳ】・緑 |
-| 5177 | Lady GP Head・Green | 淑女頭兜【ＧＰ】・緑 |
+| 5172 | Lady Head・Green | 淑女頭鎧・緑 |
+| 5173 | Lady F Head・Green | 淑女頭鎧【Ｆ】・緑 |
+| 5174 | Lady FZ Head・Green | 淑女頭鎧【ＦＺ】・緑 |
+| 5175 | Lady HS Head・Green | 淑女頭鎧【ＨＳ】・緑 |
+| 5176 | Lady GS Head・Green | 淑女頭鎧【ＧＳ】・緑 |
+| 5177 | Lady GP Head・Green | 淑女頭鎧【ＧＰ】・緑 |
 | 5178 | Lady Wig・Green | 淑女假髮・緑 |
 | 5179 | Lady F Wig・Green | 淑女假髮【Ｆ】・緑 |
 | 5180 | Lady FZ Wig・Green | 淑女假髮【ＦＺ】・緑 |
@@ -315,14 +315,14 @@
 | 5309 | 覇山HSお団子・Green | 覇山お団子頭兜・緑 |
 | 5310 | 覇山GSお団子・Green | 覇山お団子頭兜・緑 |
 | 5311 | 覇山GPお団子・Green | 覇山お団子頭兜・緑 |
-| 5312 | Demon FZ Head・Blue | 惡魔頭兜【ＦＺ】・青 |
-| 5313 | Demon HS Head・Blue | 惡魔頭兜【ＨＳ】・青 |
-| 5314 | Demon GS Head・Blue | 惡魔頭兜【ＧＳ】・青 |
-| 5315 | Demon GP Head・Blue | 惡魔頭兜【ＧＰ】・青 |
-| 5316 | Chaos FZ Head・Blue | 混沌頭兜【ＦＺ】・青 |
-| 5317 | Chaos HS Head・Blue | 混沌頭兜【ＨＳ】・青 |
-| 5318 | Chaos GS Head・Blue | 混沌頭兜【ＧＳ】・青 |
-| 5319 | Chaos GP Head・Blue | 混沌頭兜【ＧＰ】・青 |
+| 5312 | Demon FZ Head・Blue | 惡魔頭鎧【ＦＺ】・青 |
+| 5313 | Demon HS Head・Blue | 惡魔頭鎧【ＨＳ】・青 |
+| 5314 | Demon GS Head・Blue | 惡魔頭鎧【ＧＳ】・青 |
+| 5315 | Demon GP Head・Blue | 惡魔頭鎧【ＧＰ】・青 |
+| 5316 | Chaos FZ Head・Blue | 混沌頭鎧【ＦＺ】・青 |
+| 5317 | Chaos HS Head・Blue | 混沌頭鎧【ＨＳ】・青 |
+| 5318 | Chaos GS Head・Blue | 混沌頭鎧【ＧＳ】・青 |
+| 5319 | Chaos GP Head・Blue | 混沌頭鎧【ＧＰ】・青 |
 | 5320 | Shadow FZ Wig Purple | 影假髮【ＦＺ】・紫 |
 | 5321 | Shadow HS Wig Purple | 影假髮【ＨＳ】・紫 |
 | 5322 | Shadow GS Wig Purple | 影假髮【ＧＳ】・紫 |
@@ -331,14 +331,14 @@
 | 5325 | Soul HS Wig・Purple | 沃伊格魂【ＨＳ】・紫 |
 | 5326 | Soul GS Wig・Purple | 沃伊格魂【ＧＳ】・紫 |
 | 5327 | Soul GP Wig・Purple | 沃伊格魂【ＧＰ】・紫 |
-| 5328 | Demon FZ Head・Red | 惡魔頭兜【ＦＺ】・赤 |
-| 5329 | Demon HS Head・Red | 惡魔頭兜【ＨＳ】・赤 |
-| 5330 | Demon GS Head・Red | 惡魔頭兜【ＧＳ】・赤 |
-| 5331 | Demon GP Head・Red | 惡魔頭兜【ＧＰ】・赤 |
-| 5332 | Chaos FZ Head・Red | 混沌頭兜【ＦＺ】・赤 |
-| 5333 | Chaos HS Head・Red | 混沌頭兜【ＨＳ】・赤 |
-| 5334 | Chaos GS Head・Red | 混沌頭兜【ＧＳ】・赤 |
-| 5335 | Chaos GP Head・Red | 混沌頭兜【ＧＰ】・赤 |
+| 5328 | Demon FZ Head・Red | 惡魔頭鎧【ＦＺ】・赤 |
+| 5329 | Demon HS Head・Red | 惡魔頭鎧【ＨＳ】・赤 |
+| 5330 | Demon GS Head・Red | 惡魔頭鎧【ＧＳ】・赤 |
+| 5331 | Demon GP Head・Red | 惡魔頭鎧【ＧＰ】・赤 |
+| 5332 | Chaos FZ Head・Red | 混沌頭鎧【ＦＺ】・赤 |
+| 5333 | Chaos HS Head・Red | 混沌頭鎧【ＨＳ】・赤 |
+| 5334 | Chaos GS Head・Red | 混沌頭鎧【ＧＳ】・赤 |
+| 5335 | Chaos GP Head・Red | 混沌頭鎧【ＧＰ】・赤 |
 | 5336 | Shadow FZ Wig Red | 影假髮【ＦＺ】・赤 |
 | 5337 | Shadow HS Wig Red | 影假髮【ＨＳ】・赤 |
 | 5338 | Shadow GS Wig Red | 影假髮【ＧＳ】・赤 |
@@ -347,14 +347,14 @@
 | 5341 | Soul HS Wig・Red | 沃伊格魂【ＨＳ】・赤 |
 | 5342 | Soul GS Wig・Red | 沃伊格魂【ＧＳ】・赤 |
 | 5343 | Soul GP Wig・Red | 沃伊格魂【ＧＰ】・赤 |
-| 5344 | Demon FZ Head・Green | 惡魔頭兜【ＦＺ】・緑 |
-| 5345 | Demon HS Head・Green | 惡魔頭兜【ＨＳ】・緑 |
-| 5346 | Demon GS Head・Green | 惡魔頭兜【ＧＳ】・緑 |
-| 5347 | Demon GP Head・Green | 惡魔頭兜【ＧＰ】・緑 |
-| 5348 | Chaos FZ Head・Green | 混沌頭兜【ＦＺ】・緑 |
-| 5349 | Chaos HS Head・Green | 混沌頭兜【ＨＳ】・緑 |
-| 5350 | Chaos GS Head・Green | 混沌頭兜【ＧＳ】・緑 |
-| 5351 | Chaos GP Head・Green | 混沌頭兜【ＧＰ】・緑 |
+| 5344 | Demon FZ Head・Green | 惡魔頭鎧【ＦＺ】・緑 |
+| 5345 | Demon HS Head・Green | 惡魔頭鎧【ＨＳ】・緑 |
+| 5346 | Demon GS Head・Green | 惡魔頭鎧【ＧＳ】・緑 |
+| 5347 | Demon GP Head・Green | 惡魔頭鎧【ＧＰ】・緑 |
+| 5348 | Chaos FZ Head・Green | 混沌頭鎧【ＦＺ】・緑 |
+| 5349 | Chaos HS Head・Green | 混沌頭鎧【ＨＳ】・緑 |
+| 5350 | Chaos GS Head・Green | 混沌頭鎧【ＧＳ】・緑 |
+| 5351 | Chaos GP Head・Green | 混沌頭鎧【ＧＰ】・緑 |
 | 5352 | Shadow FZ Wig Green | 影假髮【ＦＺ】・緑 |
 | 5353 | Shadow HS Wig Green | 影假髮【ＨＳ】・緑 |
 | 5354 | Shadow GS Wig Green | 影假髮【ＧＳ】・緑 |
@@ -363,14 +363,14 @@
 | 5357 | Soul HS Wig・Green | 沃伊格魂【ＨＳ】・緑 |
 | 5358 | Soul GS Wig・Green | 沃伊格魂【ＧＳ】・緑 |
 | 5359 | Soul GP Wig・Green | 沃伊格魂【ＧＰ】・緑 |
-| 5360 | Demon FZ Head・White | 惡魔頭兜【ＦＺ】・白 |
-| 5361 | Demon HS Head・White | 惡魔頭兜【ＨＳ】・白 |
-| 5362 | Demon GS Head・White | 惡魔頭兜【ＧＳ】・白 |
-| 5363 | Demon GP Head・White | 惡魔頭兜【ＧＰ】・白 |
-| 5364 | Chaos FZ Head・White | 混沌頭兜【ＦＺ】・白 |
-| 5365 | Chaos HS Head・White | 混沌頭兜【ＨＳ】・白 |
-| 5366 | Chaos GS Head・White | 混沌頭兜【ＧＳ】・白 |
-| 5367 | Chaos GP Head・White | 混沌頭兜【ＧＰ】・白 |
+| 5360 | Demon FZ Head・White | 惡魔頭鎧【ＦＺ】・白 |
+| 5361 | Demon HS Head・White | 惡魔頭鎧【ＨＳ】・白 |
+| 5362 | Demon GS Head・White | 惡魔頭鎧【ＧＳ】・白 |
+| 5363 | Demon GP Head・White | 惡魔頭鎧【ＧＰ】・白 |
+| 5364 | Chaos FZ Head・White | 混沌頭鎧【ＦＺ】・白 |
+| 5365 | Chaos HS Head・White | 混沌頭鎧【ＨＳ】・白 |
+| 5366 | Chaos GS Head・White | 混沌頭鎧【ＧＳ】・白 |
+| 5367 | Chaos GP Head・White | 混沌頭鎧【ＧＰ】・白 |
 | 5368 | Shadow FZ Wig White | 影假髮【ＦＺ】・白 |
 | 5369 | Shadow HS Wig White | 影假髮【ＨＳ】・白 |
 | 5370 | Shadow GS Wig White | 影假髮【ＧＳ】・白 |
@@ -443,65 +443,65 @@
 | 5437 | Cannon GP Beret・Purple | 加農貝雷帽【ＧＰ】・紫 |
 | 5438 | Axel GS Beret・Purple | 輪軸貝雷帽【ＧＳ】・紫 |
 | 5439 | Axel GP Beret・Purple | 輪軸貝雷帽【ＧＰ】・紫 |
-| 5440 | Garuda HS Head | 迦樓羅頭兜【ＨＳ】 |
-| 5441 | Garuda GS Head | 迦樓羅頭兜【ＧＳ】 |
-| 5442 | Garuda GP Head | 迦樓羅頭兜【ＧＰ】 |
+| 5440 | Garuda HS Head | 迦樓羅頭鎧【ＨＳ】 |
+| 5441 | Garuda GS Head | 迦樓羅頭鎧【ＧＳ】 |
+| 5442 | Garuda GP Head | 迦樓羅頭鎧【ＧＰ】 |
 | 5443 | Garuda HS Piercing | 迦樓羅耳飾【ＨＳ】 |
 | 5444 | Garuda GS Piercing | 迦樓羅耳飾【ＧＳ】 |
 | 5445 | Garuda GP Piercing | 迦樓羅耳飾【ＧＰ】 |
-| 5446 | Feral HS Head | 芙艾爾阿頭兜【ＨＳ】 |
-| 5447 | Feral GS Head | 芙艾爾阿頭兜【ＧＳ】 |
-| 5448 | Feral GP Head | 芙艾爾阿頭兜【ＧＰ】 |
-| 5449 | Feral HS Piercing | 芙艾爾阿耳飾【ＨＳ】 |
-| 5450 | Feral GS Piercing | 芙艾爾阿耳飾【ＧＳ】 |
-| 5451 | Feral GP Piercing | 芙艾爾阿耳飾【ＧＰ】 |
-| 5452 | Fias HS Head | 芙伊斯頭兜【ＨＳ】 |
-| 5453 | Fias GS Head | 芙伊斯頭兜【ＧＳ】 |
-| 5454 | Fias GP Head | 芙伊斯頭兜【ＧＰ】 |
+| 5446 | Feral HS Head | 菲拉頭鎧【ＨＳ】 |
+| 5447 | Feral GS Head | 菲拉頭鎧【ＧＳ】 |
+| 5448 | Feral GP Head | 菲拉頭鎧【ＧＰ】 |
+| 5449 | Feral HS Piercing | 菲拉耳飾【ＨＳ】 |
+| 5450 | Feral GS Piercing | 菲拉耳飾【ＧＳ】 |
+| 5451 | Feral GP Piercing | 菲拉耳飾【ＧＰ】 |
+| 5452 | Fias HS Head | 芙伊斯頭鎧【ＨＳ】 |
+| 5453 | Fias GS Head | 芙伊斯頭鎧【ＧＳ】 |
+| 5454 | Fias GP Head | 芙伊斯頭鎧【ＧＰ】 |
 | 5455 | Fias HS Piercing | 芙伊斯耳飾【ＨＳ】 |
 | 5456 | Fias GS Piercing | 芙伊斯耳飾【ＧＳ】 |
 | 5457 | Fias GP Piercing | 芙伊斯耳飾【ＧＰ】 |
-| 5458 | Viruto HS Head | 芙伊爾烏頭兜【ＨＳ】 |
-| 5459 | Viruto GS Head | 芙伊爾烏頭兜【ＧＳ】 |
-| 5460 | Viruto GP Head | 芙伊爾烏頭兜【ＧＰ】 |
-| 5461 | Viruto HS Piercing | 芙伊爾烏耳飾【ＨＳ】 |
-| 5462 | Viruto GS Piercing | 芙伊爾烏耳飾【ＧＳ】 |
-| 5463 | Viruto GP Piercing | 芙伊爾烏耳飾【ＧＰ】 |
-| 5464 | Falco HS Helm | 隼頭兜【ＨＳ】 |
-| 5465 | Falco GS Helm | 隼頭兜【ＧＳ】 |
-| 5466 | Falco GP Helm | 隼頭兜【ＧＰ】 |
+| 5458 | Viruto HS Head | 薇露托頭鎧【ＨＳ】 |
+| 5459 | Viruto GS Head | 薇露托頭鎧【ＧＳ】 |
+| 5460 | Viruto GP Head | 薇露托頭鎧【ＧＰ】 |
+| 5461 | Viruto HS Piercing | 薇露托耳飾【ＨＳ】 |
+| 5462 | Viruto GS Piercing | 薇露托耳飾【ＧＳ】 |
+| 5463 | Viruto GP Piercing | 薇露托耳飾【ＧＰ】 |
+| 5464 | Falco HS Helm | 隼頭鎧【ＨＳ】 |
+| 5465 | Falco GS Helm | 隼頭鎧【ＧＳ】 |
+| 5466 | Falco GP Helm | 隼頭鎧【ＧＰ】 |
 | 5467 | Falco HS Cap | 隼兜帽【ＨＳ】 |
 | 5468 | Falco GS Cap | 隼兜帽【ＧＳ】 |
 | 5469 | Falco GP Cap | 隼兜帽【ＧＰ】 |
-| 5470 | Howx HS Helm | 豪克斯頭兜【ＨＳ】 |
-| 5471 | Howx GS Helm | 豪克斯頭兜【ＧＳ】 |
-| 5472 | Howx GP Helm | 豪克斯頭兜【ＧＰ】 |
+| 5470 | Howx HS Helm | 豪克斯頭鎧【ＨＳ】 |
+| 5471 | Howx GS Helm | 豪克斯頭鎧【ＧＳ】 |
+| 5472 | Howx GP Helm | 豪克斯頭鎧【ＧＰ】 |
 | 5473 | Howx HS Cap | 豪克斯兜帽【ＨＳ】 |
 | 5474 | Howx GS Cap | 豪克斯兜帽【ＧＳ】 |
 | 5475 | Howx GP Cap | 豪克斯兜帽【ＧＰ】 |
-| 5476 | Gauss HS Helm | 高斯頭兜【ＨＳ】 |
-| 5477 | Gauss GS Helm | 高斯頭兜【ＧＳ】 |
-| 5478 | Gauss GP Helm | 高斯頭兜【ＧＰ】 |
+| 5476 | Gauss HS Helm | 高斯頭鎧【ＨＳ】 |
+| 5477 | Gauss GS Helm | 高斯頭鎧【ＧＳ】 |
+| 5478 | Gauss GP Helm | 高斯頭鎧【ＧＰ】 |
 | 5479 | Gauss HS Mask | 高斯帽子【ＨＳ】 |
 | 5480 | Gauss GS Mask | 高斯帽子【ＧＳ】 |
 | 5481 | Gauss GP Mask | 高斯帽子【ＧＰ】 |
-| 5482 | Weber HS Helm | 韋伯頭兜【ＨＳ】 |
-| 5483 | Weber GS Helm | 韋伯頭兜【ＧＳ】 |
-| 5484 | Weber GP Helm | 韋伯頭兜【ＧＰ】 |
+| 5482 | Weber HS Helm | 韋伯頭鎧【ＨＳ】 |
+| 5483 | Weber GS Helm | 韋伯頭鎧【ＧＳ】 |
+| 5484 | Weber GP Helm | 韋伯頭鎧【ＧＰ】 |
 | 5485 | Weber HS Mask | 韋伯帽子【ＨＳ】 |
 | 5486 | Weber GS Mask | 韋伯帽子【ＧＳ】 |
 | 5487 | Weber GP Mask | 韋伯帽子【ＧＰ】 |
-| 5488 | Gilbert HS Helm | 吉伯特頭兜【ＨＳ】 |
-| 5489 | Gilbert GS Helm | 吉伯特頭兜【ＧＳ】 |
-| 5490 | Gilbert GP Helm | 吉伯特頭兜【ＧＰ】 |
+| 5488 | Gilbert HS Helm | 吉伯特頭鎧【ＨＳ】 |
+| 5489 | Gilbert GS Helm | 吉伯特頭鎧【ＧＳ】 |
+| 5490 | Gilbert GP Helm | 吉伯特頭鎧【ＧＰ】 |
 | 5491 | Gilbert HS Mask | 吉伯特帽子【ＨＳ】 |
 | 5492 | Gilbert GS Mask | 吉伯特帽子【ＧＳ】 |
 | 5493 | Gilbert GP Mask | 吉伯特帽子【ＧＰ】 |
-| 5494 | Bright GP Helm | 輝頭兜【ＧＰ】 |
+| 5494 | Bright GP Helm | 輝頭鎧【ＧＰ】 |
 | 5495 | Bright GP Cap | 輝兜帽【ＧＰ】 |
-| 5496 | Juari GP Helm | 朱亞莉頭兜【ＧＰ】 |
+| 5496 | Juari GP Helm | 朱亞莉頭鎧【ＧＰ】 |
 | 5497 | Juari GP Cap | 朱亞莉兜帽【ＧＰ】 |
-| 5498 | Tinku GP Helm | 汀克頭兜【ＧＰ】 |
+| 5498 | Tinku GP Helm | 汀克頭鎧【ＧＰ】 |
 | 5499 | Tinku GP Cap | 汀克兜帽【ＧＰ】 |
-| 5500 | Luxt Helm | 盧克斯特頭兜 |
+| 5500 | Luxt Helm | 盧克斯特頭鎧 |
 

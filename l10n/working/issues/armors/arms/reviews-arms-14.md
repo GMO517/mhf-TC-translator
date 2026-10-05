@@ -145,14 +145,14 @@
 | 6639 | Kontao GP Guard | 孔陶臂甲【ＧＰ】 |
 | 6640 | Deliver Arms | 交貨護腕 |
 | 6641 | Deliver F Arms | 交貨護腕【Ｆ】 |
-| 6642 | Deliver FY Arms | 德艾爾伊護腕 |
+| 6642 | Deliver FY Arms | 德莉薇護腕 |
 | 6643 | Deliver HS Arms | 交貨護腕【ＨＳ】 |
 | 6644 | Deliver G Arms | 交貨護腕【Ｇ】 |
 | 6645 | Deliver GF Arms | 交貨護腕【ＧＦ】 |
 | 6646 | Deliver GX Arms | 交貨護腕【ＧＸ】 |
 | 6647 | Deliver Guard | 交貨臂甲 |
 | 6648 | Deliver F Guard | 交貨臂甲【Ｆ】 |
-| 6649 | Deliver FY Guard | 德艾爾伊臂甲 |
+| 6649 | Deliver FY Guard | 德莉薇臂甲 |
 | 6650 | Deliver HS Guard | 交貨臂甲【ＨＳ】 |
 | 6651 | Deliver G Guard | 交貨臂甲【Ｇ】 |
 | 6652 | Deliver GF Guard | 交貨臂甲【ＧＦ】 |
@@ -187,72 +187,72 @@
 | 6681 | Nisuru GX Guard | 尼斯魯臂甲【ＧＸ】 |
 | 6682 | Coord Arms | 搭配護腕 |
 | 6683 | Coord F Arms | 搭配護腕【Ｆ】 |
-| 6684 | Coord FY Arms | 克歐爾護腕 |
+| 6684 | Coord FY Arms | 古護腕 |
 | 6685 | Coord HS Arms | 搭配護腕【ＨＳ】 |
 | 6686 | Coord G Arms | 搭配護腕【Ｇ】 |
 | 6687 | Coord GF Arms | 搭配護腕【ＧＦ】 |
 | 6688 | Coord GX Arms | 搭配護腕【ＧＸ】 |
 | 6689 | Coord Guard | 搭配臂甲 |
 | 6690 | Coord F Guard | 搭配臂甲【Ｆ】 |
-| 6691 | Coord FY Guard | 克歐爾臂甲 |
+| 6691 | Coord FY Guard | 古臂甲 |
 | 6692 | Coord HS Guard | 搭配臂甲【ＨＳ】 |
 | 6693 | Coord G Guard | 搭配臂甲【Ｇ】 |
 | 6694 | Coord GF Guard | 搭配臂甲【ＧＦ】 |
 | 6695 | Coord GX Guard | 搭配臂甲【ＧＸ】 |
 | 6696 | Resega Arms | 雷塞加護腕 |
 | 6697 | Resega F Arms | 雷塞加護腕【Ｆ】 |
-| 6698 | Resega FY Arms | 爾艾斯艾護腕 |
+| 6698 | Resega FY Arms | 蕾賽加護腕 |
 | 6699 | Resega HS Arms | 雷塞加護腕【ＨＳ】 |
 | 6700 | Resega G Arms | 雷塞加護腕【Ｇ】 |
 | 6701 | Resega GF Arms | 雷塞加護腕【ＧＦ】 |
 | 6702 | Resega GX Arms | 雷塞加護腕【ＧＸ】 |
 | 6703 | Resega Guard | 雷塞加臂甲 |
 | 6704 | Resega F Guard | 雷塞加臂甲【Ｆ】 |
-| 6705 | Resega FY Guard | 爾艾斯艾臂甲 |
+| 6705 | Resega FY Guard | 蕾賽加臂甲 |
 | 6706 | Resega HS Guard | 雷塞加臂甲【ＨＳ】 |
 | 6707 | Resega G Guard | 雷塞加臂甲【Ｇ】 |
 | 6708 | Resega GF Guard | 雷塞加臂甲【ＧＦ】 |
 | 6709 | Resega GX Guard | 雷塞加臂甲【ＧＸ】 |
 | 6710 | Suforu Arms | 蘇福魯護腕 |
 | 6711 | Suforu F Arms | 蘇福魯護腕【Ｆ】 |
-| 6712 | Suforu FY Arms | 斯烏芙歐護腕 |
+| 6712 | Suforu FY Arms | 斯佛露護腕 |
 | 6713 | Suforu HS Arms | 蘇福魯護腕【ＨＳ】 |
 | 6714 | Suforu G Arms | 蘇福魯護腕【Ｇ】 |
 | 6715 | Suforu GF Arms | 蘇福魯護腕【ＧＦ】 |
 | 6716 | Suforu GX Arms | 蘇福魯護腕【ＧＸ】 |
 | 6717 | Suforu Guard | 蘇福魯臂甲 |
 | 6718 | Suforu F Guard | 蘇福魯臂甲【Ｆ】 |
-| 6719 | Suforu FY Guard | 斯烏芙歐臂甲 |
+| 6719 | Suforu FY Guard | 斯佛露臂甲 |
 | 6720 | Suforu HS Guard | 蘇福魯臂甲【ＨＳ】 |
 | 6721 | Suforu G Guard | 蘇福魯臂甲【Ｇ】 |
 | 6722 | Suforu GF Guard | 蘇福魯臂甲【ＧＦ】 |
 | 6723 | Suforu GX Guard | 蘇福魯臂甲【ＧＸ】 |
 | 6724 | Perce Arms | 珀斯護腕 |
 | 6725 | Perce F Arms | 珀斯護腕【Ｆ】 |
-| 6726 | Perce FY Arms | 普艾爾艾護腕 |
+| 6726 | Perce FY Arms | 佩賽護腕 |
 | 6727 | Perce HS Arms | 珀斯護腕【ＨＳ】 |
 | 6728 | Perce G Arms | 珀斯護腕【Ｇ】 |
 | 6729 | Perce GF Arms | 珀斯護腕【ＧＦ】 |
 | 6730 | Perce GX Arms | 珀斯護腕【ＧＸ】 |
 | 6731 | Perce Guard | 珀斯臂甲 |
 | 6732 | Perce F Guard | 珀斯臂甲【Ｆ】 |
-| 6733 | Perce FY Guard | 普艾爾艾臂甲 |
+| 6733 | Perce FY Guard | 佩賽臂甲 |
 | 6734 | Perce HS Guard | 珀斯臂甲【ＨＳ】 |
 | 6735 | Perce G Guard | 珀斯臂甲【Ｇ】 |
 | 6736 | Perce GF Guard | 珀斯臂甲【ＧＦ】 |
 | 6737 | Perce GX Guard | 珀斯臂甲【ＧＸ】 |
-| 6738 | Survey Corps Arms | 斯烏爾艾護腕 |
-| 6739 | Survey Corps F Arms | 斯烏爾艾護腕【Ｆ】 |
-| 6740 | Survey Corps FZ Arms | 斯烏爾艾護腕【ＦＺ】 |
-| 6741 | Survey Corps HS Arms | 斯烏爾艾護腕【ＨＳ】 |
-| 6742 | Survey Corps GS Arms | 斯烏爾艾護腕【ＧＳ】 |
-| 6743 | Survey Corps GP Arms | 斯烏爾艾護腕【ＧＰ】 |
-| 6744 | Survey Corps Guard | 斯烏爾艾臂甲 |
-| 6745 | Survey Corps F Guard | 斯烏爾艾臂甲【Ｆ】 |
-| 6746 | Survey Corps FZ Guard | 斯烏爾艾臂甲【ＦＺ】 |
-| 6747 | Survey Corps HS Guard | 斯烏爾艾臂甲【ＨＳ】 |
-| 6748 | Survey Corps GS Guard | 斯烏爾艾臂甲【ＧＳ】 |
-| 6749 | Survey Corps GP Guard | 斯烏爾艾臂甲【ＧＰ】 |
+| 6738 | Survey Corps Arms | 斯薇古護腕 |
+| 6739 | Survey Corps F Arms | 斯薇古護腕【Ｆ】 |
+| 6740 | Survey Corps FZ Arms | 斯薇古護腕【ＦＺ】 |
+| 6741 | Survey Corps HS Arms | 斯薇古護腕【ＨＳ】 |
+| 6742 | Survey Corps GS Arms | 斯薇古護腕【ＧＳ】 |
+| 6743 | Survey Corps GP Arms | 斯薇古護腕【ＧＰ】 |
+| 6744 | Survey Corps Guard | 斯薇古臂甲 |
+| 6745 | Survey Corps F Guard | 斯薇古臂甲【Ｆ】 |
+| 6746 | Survey Corps FZ Guard | 斯薇古臂甲【ＦＺ】 |
+| 6747 | Survey Corps HS Guard | 斯薇古臂甲【ＨＳ】 |
+| 6748 | Survey Corps GS Guard | 斯薇古臂甲【ＧＳ】 |
+| 6749 | Survey Corps GP Guard | 斯薇古臂甲【ＧＰ】 |
 | 6750 | Training Corps Arms | 特阿恩伊護腕 |
 | 6751 | Training Corps F Arms | 特阿恩伊護腕【Ｆ】 |
 | 6752 | Training Corps FZ Arms | 特阿恩伊護腕【ＦＺ】 |
@@ -288,7 +288,7 @@
 | 6782 | ダミー | (dummy) |
 | 6783 | ダミー | (dummy) |
 | 6784 | Carrol Arms・Gold | 可羅護腕・金 |
-| 6785 | Leila Arms | 爾艾爾阿護腕 |
+| 6785 | Leila Arms | 勒拉護腕 |
 | 6786 | IS Academy Arms・White | 學院護腕・白 |
 | 6787 | IS Academy F Arms・White | 學院護腕【Ｆ】・白 |
 | 6788 | IS Academy FZ Arms・White | 學院護腕【ＦＺ】・白 |
@@ -367,16 +367,16 @@
 | 6861 | Melan G Guard | 紫黑臂甲【Ｇ】 |
 | 6862 | Melan GF Guard | 紫黑臂甲【ＧＦ】 |
 | 6863 | Melan GX Guard | 紫黑臂甲【ＧＸ】 |
-| 6864 | Rouge FY Arms | 爾歐格艾護腕 |
+| 6864 | Rouge FY Arms | 蘿蓋護腕 |
 | 6865 | Rouge HC Arms | 紅護腕【ＨＣ】 |
 | 6866 | Rouge G Arms | 紅護腕【Ｇ】 |
 | 6867 | Rouge GF Arms | 紅護腕【ＧＦ】 |
 | 6868 | Rouge GX Arms | 紅護腕【ＧＸ】 |
-| 6869 | Regyukusu GP Arms | 爾艾格烏護腕【ＧＰ】 |
-| 6870 | Regyukusu GP Guard | 爾艾格烏臂甲【ＧＰ】 |
+| 6869 | Regyukusu GP Arms | 蕾尤克斯護腕【ＧＰ】 |
+| 6870 | Regyukusu GP Guard | 蕾尤克斯臂甲【ＧＰ】 |
 | 6871 | Beil GP Gauntlets | 貝爾手甲【ＧＰ】 |
-| 6872 | ヴェルフGP Arms | 維爾夫護腕【ＧＰ】 |
-| 6873 | ヴェルフGP Guard | 維爾夫臂甲【ＧＰ】 |
+| 6872 | ヴェルフGP Arms | 薇露芙護腕【ＧＰ】 |
+| 6873 | ヴェルフGP Guard | 薇露芙臂甲【ＧＰ】 |
 | 6874 | テリオグGP Arms | 特里歐古護腕【ＧＰ】 |
 | 6875 | テリオグGP Guard | 特里歐古臂甲【ＧＰ】 |
 | 6876 | Hypnoc G Arms | 眠鳥護腕【Ｇ】 |
@@ -403,12 +403,12 @@
 | 6897 | Weiss G Grasp | 白抓握【Ｇ】 |
 | 6898 | Weiss GF Grasp | 白抓握【ＧＦ】 |
 | 6899 | Weiss GX Grasp | 白抓握【ＧＸ】 |
-| 6900 | Venom G Arms | 芙艾恩歐護腕【Ｇ】 |
-| 6901 | Venom GF Arms | 芙艾恩歐護腕【ＧＦ】 |
-| 6902 | Venom GX Arms | 芙艾恩歐護腕【ＧＸ】 |
-| 6903 | Venom G Guard | 芙艾恩歐臂甲【Ｇ】 |
-| 6904 | Venom GF Guard | 芙艾恩歐臂甲【ＧＦ】 |
-| 6905 | Venom GX Guard | 芙艾恩歐臂甲【ＧＸ】 |
+| 6900 | Venom G Arms | 薇諾護腕【Ｇ】 |
+| 6901 | Venom GF Arms | 薇諾護腕【ＧＦ】 |
+| 6902 | Venom GX Arms | 薇諾護腕【ＧＸ】 |
+| 6903 | Venom G Guard | 薇諾臂甲【Ｇ】 |
+| 6904 | Venom GF Guard | 薇諾臂甲【ＧＦ】 |
+| 6905 | Venom GX Guard | 薇諾臂甲【ＧＸ】 |
 | 6906 | Elegance 【 Kote 】 | 雅籠手 |
 | 6907 | Elegance F【 Kote 】 | 雅籠手【Ｆ】 |
 | 6908 | Elegance FX【 Kote 】 | 雅籠手【ＦＸ】 |

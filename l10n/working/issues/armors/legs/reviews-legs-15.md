@@ -397,16 +397,16 @@
 | 7391 | Blink HS Boots | 布伊恩靴【ＨＳ】 |
 | 7392 | Blink GS Boots | 布伊恩靴【ＧＳ】 |
 | 7393 | Blink GP Boots | 布伊恩靴【ＧＰ】 |
-| 7394 | Ukon GPキック | 烏克歐恩護腿 |
-| 7395 | Ukon GP Boots | 烏克歐恩靴【ＧＰ】 |
+| 7394 | Ukon GPキック | 古護腿 |
+| 7395 | Ukon GP Boots | 古靴【ＧＰ】 |
 | 7396 | ロットGPキック | 羅托護腿 |
 | 7397 | ロットGP Boots | 羅托靴【ＧＰ】 |
-| 7398 | Arge HS Feet | 阿爾傑足【ＨＳ】 |
-| 7399 | Arge GS Feet | 阿爾傑足【ＧＳ】 |
-| 7400 | Arge GP Feet | 阿爾傑足【ＧＰ】 |
-| 7401 | Arge HS Boots | 阿爾傑靴【ＨＳ】 |
-| 7402 | Arge GS Boots | 阿爾傑靴【ＧＳ】 |
-| 7403 | Arge GP Boots | 阿爾傑靴【ＧＰ】 |
+| 7398 | Arge HS Feet | 亞潔足【ＨＳ】 |
+| 7399 | Arge GS Feet | 亞潔足【ＧＳ】 |
+| 7400 | Arge GP Feet | 亞潔足【ＧＰ】 |
+| 7401 | Arge HS Boots | 亞潔靴【ＨＳ】 |
+| 7402 | Arge GS Boots | 亞潔靴【ＧＳ】 |
+| 7403 | Arge GP Boots | 亞潔靴【ＧＰ】 |
 | 7404 | Camarera HS Feet | 可瑪蕾拉足【ＨＳ】 |
 | 7405 | Camarera GS Feet | 可瑪蕾拉足【ＧＳ】 |
 | 7406 | Camarera GP Feet | 可瑪蕾拉足【ＧＰ】 |
@@ -446,30 +446,30 @@
 | 7440 | Breo G Greaves | 布艾護腿【Ｇ】 |
 | 7441 | Breo GF Greaves | 布艾護腿【ＧＦ】 |
 | 7442 | Breo GX Greaves | 布艾護腿【ＧＸ】 |
-| 7443 | Harokyu Feet | 赫阿爾歐足 |
-| 7444 | Harokyu F Feet | 赫阿爾歐足【Ｆ】 |
-| 7445 | Harokyu FY Feet | 赫阿爾歐足 |
-| 7446 | Harokyu HS Feet | 赫阿爾歐足【ＨＳ】 |
-| 7447 | Harokyu G Feet | 赫阿爾歐足【Ｇ】 |
-| 7448 | Harokyu GF Feet | 赫阿爾歐足【ＧＦ】 |
-| 7449 | Harokyu GX Feet | 赫阿爾歐足【ＧＸ】 |
+| 7443 | Harokyu Feet | 哈蘿尤足 |
+| 7444 | Harokyu F Feet | 哈蘿尤足【Ｆ】 |
+| 7445 | Harokyu FY Feet | 哈蘿尤足 |
+| 7446 | Harokyu HS Feet | 哈蘿尤足【ＨＳ】 |
+| 7447 | Harokyu G Feet | 哈蘿尤足【Ｇ】 |
+| 7448 | Harokyu GF Feet | 哈蘿尤足【ＧＦ】 |
+| 7449 | Harokyu GX Feet | 哈蘿尤足【ＧＸ】 |
 | 7450 | Brooke Feet | 溪足 |
 | 7451 | Brooke F Feet | 溪足【Ｆ】 |
-| 7452 | Brooke FY Feet | 布歐克艾足 |
+| 7452 | Brooke FY Feet | 古蘿布足 |
 | 7453 | Brooke HS Feet | 溪足【ＨＳ】 |
 | 7454 | Brooke G Feet | 溪足【Ｇ】 |
 | 7455 | Brooke GF Feet | 溪足【ＧＦ】 |
 | 7456 | Brooke GX Feet | 溪足【ＧＸ】 |
 | 7457 | Brooke Boots | 溪靴 |
 | 7458 | Brooke F Boots | 溪靴【Ｆ】 |
-| 7459 | Brooke FY Boots | 布歐克艾靴 |
+| 7459 | Brooke FY Boots | 古蘿布靴 |
 | 7460 | Brooke HS Boots | 溪靴【ＨＳ】 |
 | 7461 | Brooke G Boots | 溪靴【Ｇ】 |
 | 7462 | Brooke GF Boots | 溪靴【ＧＦ】 |
 | 7463 | Brooke GX Boots | 溪靴【ＧＸ】 |
 | 7464 | Pale Sakura 【 Hakama 】 | 淡櫻袴 |
 | 7465 | Pale Sakura F【 Hakama 】 | 淡櫻袴【Ｆ】 |
-| 7466 | Pale Sakura FY【 Hakama 】 | 普阿爾艾袴 |
+| 7466 | Pale Sakura FY【 Hakama 】 | 拍勒薩克袴 |
 | 7467 | Pale Sakura HS【 Hakama 】 | 淡櫻袴【ＨＳ】 |
 | 7468 | Pale Sakura G【 Hakama 】 | 淡櫻袴【Ｇ】 |
 | 7469 | Pale Sakura GF【 Hakama 】 | 淡櫻袴【ＧＦ】 |
@@ -497,7 +497,7 @@
 | 7491 | Kinioru GX Leggings | 基尼奧魯裹腿【ＧＸ】 |
 | 7492 | Kaioru Greaves | 凱奧魯護腿 |
 | 7493 | Kaioru F Greaves | 凱奧魯護腿【Ｆ】 |
-| 7494 | Kaioru FY Greaves | 克阿爾烏護腿 |
+| 7494 | Kaioru FY Greaves | 可露護腿 |
 | 7495 | Kaioru HS Greaves | 凱奧魯護腿【ＨＳ】 |
 | 7496 | Kaioru G Greaves | 凱奧魯護腿【Ｇ】 |
 | 7497 | Kaioru GF Greaves | 凱奧魯護腿【ＧＦ】 |

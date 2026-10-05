@@ -117,48 +117,48 @@
 | 8111 | Quoiz G Vest | 斯烏茲背心【Ｇ】 |
 | 8112 | Quoiz GF Vest | 斯烏茲背心【ＧＦ】 |
 | 8113 | Quoiz GX Vest | 斯烏茲背心【ＧＸ】 |
-| 8114 | Kalais Mail | 克阿爾阿鎧甲 |
-| 8115 | Kalais F Mail | 克阿爾阿鎧甲【Ｆ】 |
-| 8116 | Kalais FY Mail | 克阿爾阿鎧甲 |
-| 8117 | Kalais HS Mail | 克阿爾阿鎧甲【ＨＳ】 |
-| 8118 | Kalais G Mail | 克阿爾阿鎧甲【Ｇ】 |
-| 8119 | Kalais GF Mail | 克阿爾阿鎧甲【ＧＦ】 |
-| 8120 | Kalais GX Mail | 克阿爾阿鎧甲【ＧＸ】 |
-| 8121 | Kalais Vest | 克阿爾阿背心 |
-| 8122 | Kalais F Vest | 克阿爾阿背心【Ｆ】 |
-| 8123 | Kalais FY Vest | 克阿爾阿背心 |
-| 8124 | Kalais HS Vest | 克阿爾阿背心【ＨＳ】 |
-| 8125 | Kalais G Vest | 克阿爾阿背心【Ｇ】 |
-| 8126 | Kalais GF Vest | 克阿爾阿背心【ＧＦ】 |
-| 8127 | Kalais GX Vest | 克阿爾阿背心【ＧＸ】 |
-| 8128 | Yoruti Mail | 伊歐爾烏鎧甲 |
-| 8129 | Yoruti F Mail | 伊歐爾烏鎧甲【Ｆ】 |
-| 8130 | Yoruti FY Mail | 伊歐爾烏鎧甲 |
-| 8131 | Yoruti HS Mail | 伊歐爾烏鎧甲【ＨＳ】 |
-| 8132 | Yoruti G Mail | 伊歐爾烏鎧甲【Ｇ】 |
-| 8133 | Yoruti GF Mail | 伊歐爾烏鎧甲【ＧＦ】 |
-| 8134 | Yoruti GX Mail | 伊歐爾烏鎧甲【ＧＸ】 |
-| 8135 | Yoruti Vest | 伊歐爾烏背心 |
-| 8136 | Yoruti F Vest | 伊歐爾烏背心【Ｆ】 |
-| 8137 | Yoruti FY Vest | 伊歐爾烏背心 |
-| 8138 | Yoruti HS Vest | 伊歐爾烏背心【ＨＳ】 |
-| 8139 | Yoruti G Vest | 伊歐爾烏背心【Ｇ】 |
-| 8140 | Yoruti GF Vest | 伊歐爾烏背心【ＧＦ】 |
-| 8141 | Yoruti GX Vest | 伊歐爾烏背心【ＧＸ】 |
-| 8142 | Haragan Mail | 赫阿爾阿鎧甲 |
-| 8143 | Haragan F Mail | 赫阿爾阿鎧甲【Ｆ】 |
-| 8144 | Haragan FY Mail | 赫阿爾阿鎧甲 |
-| 8145 | Haragan HS Mail | 赫阿爾阿鎧甲【ＨＳ】 |
-| 8146 | Haragan G Mail | 赫阿爾阿鎧甲【Ｇ】 |
-| 8147 | Haragan GF Mail | 赫阿爾阿鎧甲【ＧＦ】 |
-| 8148 | Haragan GX Mail | 赫阿爾阿鎧甲【ＧＸ】 |
-| 8149 | Haragan Vest | 赫阿爾阿背心 |
-| 8150 | Haragan F Vest | 赫阿爾阿背心【Ｆ】 |
-| 8151 | Haragan FY Vest | 赫阿爾阿背心 |
-| 8152 | Haragan HS Vest | 赫阿爾阿背心【ＨＳ】 |
-| 8153 | Haragan G Vest | 赫阿爾阿背心【Ｇ】 |
-| 8154 | Haragan GF Vest | 赫阿爾阿背心【ＧＦ】 |
-| 8155 | Haragan GX Vest | 赫阿爾阿背心【ＧＸ】 |
+| 8114 | Kalais Mail | 可拉鎧甲 |
+| 8115 | Kalais F Mail | 可拉鎧甲【Ｆ】 |
+| 8116 | Kalais FY Mail | 可拉鎧甲 |
+| 8117 | Kalais HS Mail | 可拉鎧甲【ＨＳ】 |
+| 8118 | Kalais G Mail | 可拉鎧甲【Ｇ】 |
+| 8119 | Kalais GF Mail | 可拉鎧甲【ＧＦ】 |
+| 8120 | Kalais GX Mail | 可拉鎧甲【ＧＸ】 |
+| 8121 | Kalais Vest | 可拉背心 |
+| 8122 | Kalais F Vest | 可拉背心【Ｆ】 |
+| 8123 | Kalais FY Vest | 可拉背心 |
+| 8124 | Kalais HS Vest | 可拉背心【ＨＳ】 |
+| 8125 | Kalais G Vest | 可拉背心【Ｇ】 |
+| 8126 | Kalais GF Vest | 可拉背心【ＧＦ】 |
+| 8127 | Kalais GX Vest | 可拉背心【ＧＸ】 |
+| 8128 | Yoruti Mail | 約露蒂鎧甲 |
+| 8129 | Yoruti F Mail | 約露蒂鎧甲【Ｆ】 |
+| 8130 | Yoruti FY Mail | 約露蒂鎧甲 |
+| 8131 | Yoruti HS Mail | 約露蒂鎧甲【ＨＳ】 |
+| 8132 | Yoruti G Mail | 約露蒂鎧甲【Ｇ】 |
+| 8133 | Yoruti GF Mail | 約露蒂鎧甲【ＧＦ】 |
+| 8134 | Yoruti GX Mail | 約露蒂鎧甲【ＧＸ】 |
+| 8135 | Yoruti Vest | 約露蒂背心 |
+| 8136 | Yoruti F Vest | 約露蒂背心【Ｆ】 |
+| 8137 | Yoruti FY Vest | 約露蒂背心 |
+| 8138 | Yoruti HS Vest | 約露蒂背心【ＨＳ】 |
+| 8139 | Yoruti G Vest | 約露蒂背心【Ｇ】 |
+| 8140 | Yoruti GF Vest | 約露蒂背心【ＧＦ】 |
+| 8141 | Yoruti GX Vest | 約露蒂背心【ＧＸ】 |
+| 8142 | Haragan Mail | 哈拉加鎧甲 |
+| 8143 | Haragan F Mail | 哈拉加鎧甲【Ｆ】 |
+| 8144 | Haragan FY Mail | 哈拉加鎧甲 |
+| 8145 | Haragan HS Mail | 哈拉加鎧甲【ＨＳ】 |
+| 8146 | Haragan G Mail | 哈拉加鎧甲【Ｇ】 |
+| 8147 | Haragan GF Mail | 哈拉加鎧甲【ＧＦ】 |
+| 8148 | Haragan GX Mail | 哈拉加鎧甲【ＧＸ】 |
+| 8149 | Haragan Vest | 哈拉加背心 |
+| 8150 | Haragan F Vest | 哈拉加背心【Ｆ】 |
+| 8151 | Haragan FY Vest | 哈拉加背心 |
+| 8152 | Haragan HS Vest | 哈拉加背心【ＨＳ】 |
+| 8153 | Haragan G Vest | 哈拉加背心【Ｇ】 |
+| 8154 | Haragan GF Vest | 哈拉加背心【ＧＦ】 |
+| 8155 | Haragan GX Vest | 哈拉加背心【ＧＸ】 |
 | 8156 | Rios Mail | 爾伊斯鎧甲 |
 | 8157 | Rios F Mail | 爾伊斯鎧甲【Ｆ】 |
 | 8158 | Rios FY Mail | 爾伊斯鎧甲 |
@@ -187,14 +187,14 @@
 | 8181 | Fog G【 Haori 】 | 霧羽織【Ｇ】 |
 | 8182 | Fog GF【 Haori 】 | 霧羽織【ＧＦ】 |
 | 8183 | Fog GX【 Haori 】 | 霧羽織【ＧＸ】 |
-| 8184 | Rodokuru Jacket | 爾歐德歐夾克 |
-| 8185 | Rodokuru F Jacket | 爾歐德歐夾克【Ｆ】 |
-| 8186 | Rodokuru FY Jacket | 爾歐德歐夾克 |
-| 8187 | Rodokuru HS Jacket | 爾歐德歐夾克【ＨＳ】 |
-| 8188 | Rodokuru G Jacket | 爾歐德歐夾克【Ｇ】 |
-| 8189 | Rodokuru GF Jacket | 爾歐德歐夾克【ＧＦ】 |
-| 8190 | Rodokuru GX Jacket | 爾歐德歐夾克【ＧＸ】 |
-| 8191 | Noir FY Jacket | 恩歐爾夾克 |
+| 8184 | Rodokuru Jacket | 蘿多克露夾克 |
+| 8185 | Rodokuru F Jacket | 蘿多克露夾克【Ｆ】 |
+| 8186 | Rodokuru FY Jacket | 蘿多克露夾克 |
+| 8187 | Rodokuru HS Jacket | 蘿多克露夾克【ＨＳ】 |
+| 8188 | Rodokuru G Jacket | 蘿多克露夾克【Ｇ】 |
+| 8189 | Rodokuru GF Jacket | 蘿多克露夾克【ＧＦ】 |
+| 8190 | Rodokuru GX Jacket | 蘿多克露夾克【ＧＸ】 |
+| 8191 | Noir FY Jacket | 諾夾克 |
 | 8192 | Noir HS Jacket | 黑夾克【ＨＳ】 |
 | 8193 | Noir G Jacket | 黑夾克【Ｇ】 |
 | 8194 | Noir GF Jacket | 黑夾克【ＧＦ】 |
@@ -205,38 +205,38 @@
 | 8199 | 童子ノ肩鎧G | 童子肩鎧鎧甲【Ｇ】 |
 | 8200 | 童子ノ肩鎧GF | 童子肩鎧鎧甲【Ｆ】 |
 | 8201 | 童子ノ肩鎧GX | 童子肩鎧鎧甲【ＧＸ】 |
-| 8202 | Trume Mail | 特烏姆艾鎧甲 |
-| 8203 | Trume F Mail | 特烏姆艾鎧甲【Ｆ】 |
-| 8204 | Trume FZ Mail | 特烏姆艾鎧甲【ＦＺ】 |
-| 8205 | Trume HS Mail | 特烏姆艾鎧甲【ＨＳ】 |
-| 8206 | Trume GS Mail | 特烏姆艾鎧甲【ＧＳ】 |
-| 8207 | Trume GP Mail | 特烏姆艾鎧甲【ＧＰ】 |
-| 8208 | Trume Suit | 特烏姆艾套裝 |
-| 8209 | Trume F Suit | 特烏姆艾套裝【Ｆ】 |
-| 8210 | Trume FZ Suit | 特烏姆艾套裝【ＦＺ】 |
-| 8211 | Trume HS Suit | 特烏姆艾套裝【ＨＳ】 |
-| 8212 | Trume GS Suit | 特烏姆艾套裝【ＧＳ】 |
-| 8213 | Trume GP Suit | 特烏姆艾套裝【ＧＰ】 |
+| 8202 | Trume Mail | 特梅鎧甲 |
+| 8203 | Trume F Mail | 特梅鎧甲【Ｆ】 |
+| 8204 | Trume FZ Mail | 特梅鎧甲【ＦＺ】 |
+| 8205 | Trume HS Mail | 特梅鎧甲【ＨＳ】 |
+| 8206 | Trume GS Mail | 特梅鎧甲【ＧＳ】 |
+| 8207 | Trume GP Mail | 特梅鎧甲【ＧＰ】 |
+| 8208 | Trume Suit | 特梅套裝 |
+| 8209 | Trume F Suit | 特梅套裝【Ｆ】 |
+| 8210 | Trume FZ Suit | 特梅套裝【ＦＺ】 |
+| 8211 | Trume HS Suit | 特梅套裝【ＨＳ】 |
+| 8212 | Trume GS Suit | 特梅套裝【ＧＳ】 |
+| 8213 | Trume GP Suit | 特梅套裝【ＧＰ】 |
 | 8214 | Gogomoa G Mail | 跳緋獸鎧甲【Ｇ】 |
 | 8215 | Gogomoa GF Mail | 跳緋獸鎧甲【ＧＦ】 |
 | 8216 | Gogomoa GX Mail | 跳緋獸鎧甲【ＧＸ】 |
 | 8217 | Gogomoa G Vest | 跳緋獸背心【Ｇ】 |
 | 8218 | Gogomoa GF Vest | 跳緋獸背心【ＧＦ】 |
 | 8219 | Gogomoa GX Vest | 跳緋獸背心【ＧＸ】 |
-| 8220 | Varusa Mail | 芙阿爾烏鎧甲 |
-| 8221 | Varusa F Mail | 芙阿爾烏鎧甲【Ｆ】 |
-| 8222 | Varusa FX Mail | 芙阿爾烏鎧甲【ＦＸ】 |
-| 8223 | Varusa G Mail | 芙阿爾烏鎧甲【Ｇ】 |
-| 8224 | Varusa GF Mail | 芙阿爾烏鎧甲【ＧＦ】 |
-| 8225 | Varusa Vest | 芙阿爾烏背心 |
-| 8226 | Varusa F Vest | 芙阿爾烏背心【Ｆ】 |
-| 8227 | Varusa FX Vest | 芙阿爾烏背心【ＦＸ】 |
-| 8228 | Varusa G Vest | 芙阿爾烏背心【Ｇ】 |
-| 8229 | Varusa GF Vest | 芙阿爾烏背心【ＧＦ】 |
+| 8220 | Varusa Mail | 瓦露薩鎧甲 |
+| 8221 | Varusa F Mail | 瓦露薩鎧甲【Ｆ】 |
+| 8222 | Varusa FX Mail | 瓦露薩鎧甲【ＦＸ】 |
+| 8223 | Varusa G Mail | 瓦露薩鎧甲【Ｇ】 |
+| 8224 | Varusa GF Mail | 瓦露薩鎧甲【ＧＦ】 |
+| 8225 | Varusa Vest | 瓦露薩背心 |
+| 8226 | Varusa F Vest | 瓦露薩背心【Ｆ】 |
+| 8227 | Varusa FX Vest | 瓦露薩背心【ＦＸ】 |
+| 8228 | Varusa G Vest | 瓦露薩背心【Ｇ】 |
+| 8229 | Varusa GF Vest | 瓦露薩背心【ＧＦ】 |
 | 8230 | Flame GF Mail | 炎鎧甲【ＧＦ】 |
 | 8231 | Flame GF Vest | 炎背心【ＧＦ】 |
-| 8232 | Lils GF Mail | 爾伊爾鎧甲【ＧＦ】 |
-| 8233 | Lils GF Vest | 爾伊爾背心【ＧＦ】 |
+| 8232 | Lils GF Mail | 莉鎧甲【ＧＦ】 |
+| 8233 | Lils GF Vest | 莉背心【ＧＦ】 |
 | 8234 | Asteli Vest・White | 阿斯特利背心・白 |
 | 8235 | Asteli F Vest・White | 阿斯特利背心【Ｆ】・白 |
 | 8236 | Asteli FZ Vest・White | 阿斯特利背心【ＦＺ】・白 |
@@ -285,26 +285,26 @@
 | 8279 | Asteli HS Suit・Black | 阿斯特利套裝【ＨＳ】・黑 |
 | 8280 | Asteli GS Suit・Black | 阿斯特利套裝【ＧＳ】・黑 |
 | 8281 | Asteli GP Suit・Black | 阿斯特利套裝【ＧＰ】・黑 |
-| 8282 | Lucchese Mail | 爾烏克艾鎧甲 |
-| 8283 | Lucchese F Mail | 爾烏克艾鎧甲【Ｆ】 |
-| 8284 | Lucchese FY Mail | 爾烏克艾鎧甲 |
-| 8285 | Lucchese HS Mail | 爾烏克艾鎧甲【ＨＳ】 |
-| 8286 | Lucchese G Mail | 爾烏克艾鎧甲【Ｇ】 |
-| 8287 | Lucchese GF Mail | 爾烏克艾鎧甲【ＧＦ】 |
-| 8288 | Lucchese GX Mail | 爾烏克艾鎧甲【ＧＸ】 |
-| 8289 | Lucchese Vest | 爾烏克艾背心 |
-| 8290 | Lucchese F Vest | 爾烏克艾背心【Ｆ】 |
-| 8291 | Lucchese FY Vest | 爾烏克艾背心 |
-| 8292 | Lucchese HS Vest | 爾烏克艾背心【ＨＳ】 |
-| 8293 | Lucchese G Vest | 爾烏克艾背心【Ｇ】 |
-| 8294 | Lucchese GF Vest | 爾烏克艾背心【ＧＦ】 |
-| 8295 | Lucchese GX Vest | 爾烏克艾背心【ＧＸ】 |
-| 8296 | Orykto G Mail | 歐爾歐鎧甲【Ｇ】 |
-| 8297 | Orykto GF Mail | 歐爾歐鎧甲【ＧＦ】 |
-| 8298 | Orykto GX Mail | 歐爾歐鎧甲【ＧＸ】 |
-| 8299 | Orykto G Vest | 歐爾歐背心【Ｇ】 |
-| 8300 | Orykto GF Vest | 歐爾歐背心【ＧＦ】 |
-| 8301 | Orykto GX Vest | 歐爾歐背心【ＧＸ】 |
+| 8282 | Lucchese Mail | 露切賽鎧甲 |
+| 8283 | Lucchese F Mail | 露切賽鎧甲【Ｆ】 |
+| 8284 | Lucchese FY Mail | 露切賽鎧甲 |
+| 8285 | Lucchese HS Mail | 露切賽鎧甲【ＨＳ】 |
+| 8286 | Lucchese G Mail | 露切賽鎧甲【Ｇ】 |
+| 8287 | Lucchese GF Mail | 露切賽鎧甲【ＧＦ】 |
+| 8288 | Lucchese GX Mail | 露切賽鎧甲【ＧＸ】 |
+| 8289 | Lucchese Vest | 露切賽背心 |
+| 8290 | Lucchese F Vest | 露切賽背心【Ｆ】 |
+| 8291 | Lucchese FY Vest | 露切賽背心 |
+| 8292 | Lucchese HS Vest | 露切賽背心【ＨＳ】 |
+| 8293 | Lucchese G Vest | 露切賽背心【Ｇ】 |
+| 8294 | Lucchese GF Vest | 露切賽背心【ＧＦ】 |
+| 8295 | Lucchese GX Vest | 露切賽背心【ＧＸ】 |
+| 8296 | Orykto G Mail | 托鎧甲【Ｇ】 |
+| 8297 | Orykto GF Mail | 托鎧甲【ＧＦ】 |
+| 8298 | Orykto GX Mail | 托鎧甲【ＧＸ】 |
+| 8299 | Orykto G Vest | 托背心【Ｇ】 |
+| 8300 | Orykto GF Vest | 托背心【ＧＦ】 |
+| 8301 | Orykto GX Vest | 托背心【ＧＸ】 |
 | 8302 | Bonito Mail | 布歐恩伊鎧甲 |
 | 8303 | Bonito F Mail | 布歐恩伊鎧甲【Ｆ】 |
 | 8304 | Bonito FY Mail | 布歐恩伊鎧甲 |
@@ -335,16 +335,16 @@
 | 8329 | Harudo FX Vest | 司銀龍背心【ＦＸ】 |
 | 8330 | Harudo G Vest | 司銀龍背心【Ｇ】 |
 | 8331 | Harudo GF Vest | 司銀龍背心【ＧＦ】 |
-| 8332 | Gureado Mail | 格烏爾艾鎧甲 |
-| 8333 | Gureado F Mail | 格烏爾艾鎧甲【Ｆ】 |
-| 8334 | Gureado FX Mail | 格烏爾艾鎧甲【ＦＸ】 |
-| 8335 | Gureado G Mail | 格烏爾艾鎧甲【Ｇ】 |
-| 8336 | Gureado GF Mail | 格烏爾艾鎧甲【ＧＦ】 |
-| 8337 | Gureado Vest | 格烏爾艾背心 |
-| 8338 | Gureado F Vest | 格烏爾艾背心【Ｆ】 |
-| 8339 | Gureado FX Vest | 格烏爾艾背心【ＦＸ】 |
-| 8340 | Gureado G Vest | 格烏爾艾背心【Ｇ】 |
-| 8341 | Gureado GF Vest | 格烏爾艾背心【ＧＦ】 |
+| 8332 | Gureado Mail | 古蕾多鎧甲 |
+| 8333 | Gureado F Mail | 古蕾多鎧甲【Ｆ】 |
+| 8334 | Gureado FX Mail | 古蕾多鎧甲【ＦＸ】 |
+| 8335 | Gureado G Mail | 古蕾多鎧甲【Ｇ】 |
+| 8336 | Gureado GF Mail | 古蕾多鎧甲【ＧＦ】 |
+| 8337 | Gureado Vest | 古蕾多背心 |
+| 8338 | Gureado F Vest | 古蕾多背心【Ｆ】 |
+| 8339 | Gureado FX Vest | 古蕾多背心【ＦＸ】 |
+| 8340 | Gureado G Vest | 古蕾多背心【Ｇ】 |
+| 8341 | Gureado GF Vest | 古蕾多背心【ＧＦ】 |
 | 8342 | Akantor Gウルンテ | 霸龍鎧甲 |
 | 8343 | Akantor GFウルンテ | 霸龍鎧甲 |
 | 8344 | Akantor GXウルンテ | 霸龍鎧甲 |

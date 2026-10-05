@@ -4,7 +4,7 @@
 
 | index | 原文 | 譯文 |
 |---|---|---|
-| 0 | Nothing Equipped | 未裝備護腿 |
+| 0 | Nothing Equipped | 未裝備 |
 | 1 | Green Jersey | 運動袴・緑 |
 | 2 | Blue Jersey | 運動袴・青 |
 | 3 | Hunter's Greaves | 獵人護腿 |
@@ -26,7 +26,7 @@
 | 19 | Gen Greaves | 源護腿 |
 | 20 | Gen Leggings | 源裹腿 |
 | 21 | Pink Metal Boots | 金屬靴・桃 |
-| 22 | Chrome Metal Boots | 奇歐姆艾靴 |
+| 22 | Chrome Metal Boots | 奇蘿梅梅靴 |
 | 23 | Io Greaves | 伊歐護腿 |
 | 24 | Io Leggings | 伊歐裹腿 |
 | 25 | Gypceros Greaves | 毒怪鳥護腿 |
@@ -273,7 +273,7 @@
 | 266 | ジスト Leg | 吉斯特腿 |
 | 267 | Missing No. | 遺失道具No.267 |
 | 268 | Extra Leg | 追加腿 |
-| 269 | ウナペルト Leg | 烏納佩爾特腿 |
+| 269 | ウナペルト Leg | 宇娜佩露腿 |
 | 270 | Kyuura Leg | 丘拉腿 |
 | 271 | Missing No. | 遺失道具No.271 |
 | 272 | Missing No. | 遺失道具No.272 |
@@ -287,10 +287,10 @@
 | 280 | Butterfly Sフェムル | 蝶護腿 |
 | 281 | Akantor ケマル | 霸龍護腿 |
 | 282 | Akantor チケル | 霸龍護腿 |
-| 283 | ウナペルトF Leg | 烏納佩爾特腿【Ｆ】 |
+| 283 | ウナペルトF Leg | 宇娜佩露腿【Ｆ】 |
 | 284 | Red Cat F Boots | 赤猫靴【Ｆ】 |
-| 285 | Melahoa Roots | 姆艾爾阿護腿 |
-| 286 | Melahoa U Roots | 姆艾爾阿護腿【Ｕ】 |
+| 285 | Melahoa Roots | 梅拉霍蘿護腿 |
+| 286 | Melahoa U Roots | 梅拉霍蘿護腿【Ｕ】 |
 | 287 | Makluva Pants | 馬庫瓦袴 |
 | 288 | Makluva U Pants | 馬庫瓦袴【Ｕ】 |
 | 289 | King Beetle Crura | 王甲蟲腿甲 |

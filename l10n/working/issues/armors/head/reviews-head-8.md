@@ -71,10 +71,10 @@
 | 3565 | 気弾FZ Hachigane・Black | 気弾鉢金【ＦＺ】・黑 |
 | 3566 | 気弾HC Hachigane・Black | 気弾鉢金【ＨＣ】・黑 |
 | 3567 | 気弾HS Hachigane・Black | 気弾鉢金【ＨＳ】・黑 |
-| 3568 | Algol F Helm | 阿爾歐爾頭兜【Ｆ】 |
-| 3569 | Algol FX Helm | 阿爾歐爾頭兜【ＦＸ】 |
-| 3570 | Algol F Cap | 阿爾歐爾兜帽【Ｆ】 |
-| 3571 | Algol FX Cap | 阿爾歐爾兜帽【ＦＸ】 |
+| 3568 | Algol F Helm | 戈頭鎧【Ｆ】 |
+| 3569 | Algol FX Helm | 戈頭鎧【ＦＸ】 |
+| 3570 | Algol F Cap | 戈兜帽【Ｆ】 |
+| 3571 | Algol FX Cap | 戈兜帽【ＦＸ】 |
 | 3572 | 抜胴 Hachigane | 抜胴鉢金 |
 | 3573 | 抜胴F Hachigane | 抜胴鉢金【Ｆ】 |
 | 3574 | 抜胴FZ Hachigane | 抜胴鉢金【ＦＺ】 |
@@ -115,9 +115,9 @@
 | 3609 | 龍星HCお団子 | 龍星お団子頭兜 |
 | 3610 | 虎襲FZお団子 | 虎襲お団子頭兜 |
 | 3611 | 虎襲HCお団子 | 虎襲お団子頭兜 |
-| 3612 | Kontao Head | 孔陶頭兜 |
-| 3613 | Kontao F Head | 孔陶頭兜【Ｆ】 |
-| 3614 | Kontao FZ Head | 孔陶頭兜【ＦＺ】 |
+| 3612 | Kontao Head | 孔陶頭鎧 |
+| 3613 | Kontao F Head | 孔陶頭鎧【Ｆ】 |
+| 3614 | Kontao FZ Head | 孔陶頭鎧【ＦＺ】 |
 | 3615 | ダミー | (dummy) |
 | 3616 | ダミー | (dummy) |
 | 3617 | Kontao Haar | 孔陶髮 |
@@ -125,41 +125,41 @@
 | 3619 | Kontao FZ Haar | 孔陶髮【ＦＺ】 |
 | 3620 | ダミー | (dummy) |
 | 3621 | ダミー | (dummy) |
-| 3622 | Gloria Helm・Gold | 榮光頭兜・金 |
-| 3623 | Gloria F Helm・Gold | 榮光頭兜【Ｆ】・金 |
-| 3624 | Gloria FZ Helm・Gold | 榮光頭兜【ＦＺ】・金 |
-| 3625 | Gloria HC Helm・Gold | 榮光頭兜【ＨＣ】・金 |
-| 3626 | Gloria HS Helm・Gold | 榮光頭兜【ＨＳ】・金 |
+| 3622 | Gloria Helm・Gold | 榮光頭鎧・金 |
+| 3623 | Gloria F Helm・Gold | 榮光頭鎧【Ｆ】・金 |
+| 3624 | Gloria FZ Helm・Gold | 榮光頭鎧【ＦＺ】・金 |
+| 3625 | Gloria HC Helm・Gold | 榮光頭鎧【ＨＣ】・金 |
+| 3626 | Gloria HS Helm・Gold | 榮光頭鎧【ＨＳ】・金 |
 | 3627 | Gloria Mask・Gold | 榮光帽子・金 |
 | 3628 | Gloria F Mask・Gold | 榮光帽子【Ｆ】・金 |
 | 3629 | Gloria FZ Mask・Gold | 榮光帽子【ＦＺ】・金 |
 | 3630 | Gloria HC Mask・Gold | 榮光帽子【ＨＣ】・金 |
 | 3631 | Gloria HS Mask・Gold | 榮光帽子【ＨＳ】・金 |
-| 3632 | Gloria Helm・Blue | 榮光頭兜・青 |
-| 3633 | Gloria F Helm・Blue | 榮光頭兜【Ｆ】・青 |
-| 3634 | Gloria FZ Helm・Blue | 榮光頭兜【ＦＺ】・青 |
-| 3635 | Gloria HC Helm・Blue | 榮光頭兜【ＨＣ】・青 |
-| 3636 | Gloria HS Helm・Blue | 榮光頭兜【ＨＳ】・青 |
+| 3632 | Gloria Helm・Blue | 榮光頭鎧・青 |
+| 3633 | Gloria F Helm・Blue | 榮光頭鎧【Ｆ】・青 |
+| 3634 | Gloria FZ Helm・Blue | 榮光頭鎧【ＦＺ】・青 |
+| 3635 | Gloria HC Helm・Blue | 榮光頭鎧【ＨＣ】・青 |
+| 3636 | Gloria HS Helm・Blue | 榮光頭鎧【ＨＳ】・青 |
 | 3637 | Gloria Mask・Blue | 榮光帽子・青 |
 | 3638 | Gloria F Mask・Blue | 榮光帽子【Ｆ】・青 |
 | 3639 | Gloria FZ Mask・Blue | 榮光帽子【ＦＺ】・青 |
 | 3640 | Gloria HC Mask・Blue | 榮光帽子【ＨＣ】・青 |
 | 3641 | Gloria HS Mask・Blue | 榮光帽子【ＨＳ】・青 |
-| 3642 | Gloria Helm・Water | 榮光頭兜・水 |
-| 3643 | Gloria F Helm・Water | 榮光頭兜【Ｆ】・水 |
-| 3644 | Gloria FZ Helm・Water | 榮光頭兜【ＦＺ】・水 |
-| 3645 | Gloria HC Helm・Water | 榮光頭兜【ＨＣ】・水 |
-| 3646 | Gloria HS Helm・Water | 榮光頭兜【ＨＳ】・水 |
+| 3642 | Gloria Helm・Water | 榮光頭鎧・水 |
+| 3643 | Gloria F Helm・Water | 榮光頭鎧【Ｆ】・水 |
+| 3644 | Gloria FZ Helm・Water | 榮光頭鎧【ＦＺ】・水 |
+| 3645 | Gloria HC Helm・Water | 榮光頭鎧【ＨＣ】・水 |
+| 3646 | Gloria HS Helm・Water | 榮光頭鎧【ＨＳ】・水 |
 | 3647 | Gloria Mask・Water | 榮光帽子・水 |
 | 3648 | Gloria F Mask・Water | 榮光帽子【Ｆ】・水 |
 | 3649 | Gloria FZ Mask・Water | 榮光帽子【ＦＺ】・水 |
 | 3650 | Gloria HC Mask・Water | 榮光帽子【ＨＣ】・水 |
 | 3651 | Gloria HS Mask・Water | 榮光帽子【ＨＳ】・水 |
-| 3652 | Gloria Helm・Red | 榮光頭兜・赤 |
-| 3653 | Gloria F Helm・Red | 榮光頭兜【Ｆ】・赤 |
-| 3654 | Gloria FZ Helm・Red | 榮光頭兜【ＦＺ】・赤 |
-| 3655 | Gloria HC Helm・Red | 榮光頭兜【ＨＣ】・赤 |
-| 3656 | Gloria HS Helm・Red | 榮光頭兜【ＨＳ】・赤 |
+| 3652 | Gloria Helm・Red | 榮光頭鎧・赤 |
+| 3653 | Gloria F Helm・Red | 榮光頭鎧【Ｆ】・赤 |
+| 3654 | Gloria FZ Helm・Red | 榮光頭鎧【ＦＺ】・赤 |
+| 3655 | Gloria HC Helm・Red | 榮光頭鎧【ＨＣ】・赤 |
+| 3656 | Gloria HS Helm・Red | 榮光頭鎧【ＨＳ】・赤 |
 | 3657 | Gloria Mask・Red | 榮光帽子・赤 |
 | 3658 | Gloria F Mask・Red | 榮光帽子【Ｆ】・赤 |
 | 3659 | Gloria FZ Mask・Red | 榮光帽子【ＦＺ】・赤 |
@@ -247,8 +247,8 @@
 | 3741 | Axel HS Beret・Purple | 輪軸貝雷帽【ＨＳ】・紫 |
 | 3742 | 剣士ランク8 | 拉恩庫頭兜 |
 | 3743 | 剣士ランク9 | 拉恩庫頭兜 |
-| 3744 | ガンランク8 | 加恩拉恩庫頭兜 |
-| 3745 | ガンランク9 | 加恩拉恩庫頭兜 |
+| 3744 | ガンランク8 | 加恩拉恩頭兜 |
+| 3745 | ガンランク9 | 加恩拉恩頭兜 |
 | 3746 | ダミー | (dummy) |
 | 3747 | ダミー | (dummy) |
 | 3748 | ダミー | (dummy) |
@@ -283,101 +283,101 @@
 | 3777 | ダミー | (dummy) |
 | 3778 | ダミー | (dummy) |
 | 3779 | ダミー | (dummy) |
-| 3780 | Hope Helm | 希望頭兜 |
-| 3781 | エミット Helm | 艾米托頭兜 |
-| 3782 | エミットF Helm | 艾米托頭兜【Ｆ】 |
-| 3783 | エミットFX Helm | 艾米托頭兜【ＦＸ】 |
+| 3780 | Hope Helm | 希望頭鎧 |
+| 3781 | エミット Helm | 艾米托頭鎧 |
+| 3782 | エミットF Helm | 艾米托頭鎧【Ｆ】 |
+| 3783 | エミットFX Helm | 艾米托頭鎧【ＦＸ】 |
 | 3784 | エミット Cap | 艾米托兜帽 |
 | 3785 | エミットF Cap | 艾米托兜帽【Ｆ】 |
 | 3786 | エミットFX Cap | 艾米托兜帽【ＦＸ】 |
-| 3787 | Diboa Helm | 迪博阿頭兜 |
-| 3788 | Diboa F Helm | 迪博阿頭兜【Ｆ】 |
-| 3789 | Diboa FX Helm | 迪博阿頭兜【ＦＸ】 |
+| 3787 | Diboa Helm | 迪博阿頭鎧 |
+| 3788 | Diboa F Helm | 迪博阿頭鎧【Ｆ】 |
+| 3789 | Diboa FX Helm | 迪博阿頭鎧【ＦＸ】 |
 | 3790 | Diboa Cap | 迪博阿兜帽 |
 | 3791 | Diboa F Cap | 迪博阿兜帽【Ｆ】 |
 | 3792 | Diboa FX Cap | 迪博阿兜帽【ＦＸ】 |
-| 3793 | Pietra G Helm | 普伊特阿頭兜【Ｇ】 |
-| 3794 | Pietra GF Helm | 普伊特阿頭兜【ＧＦ】 |
+| 3793 | Pietra G Helm | 普伊特阿頭鎧【Ｇ】 |
+| 3794 | Pietra GF Helm | 普伊特阿頭鎧【ＧＦ】 |
 | 3795 | Pietra G Cap | 普伊特阿兜帽【Ｇ】 |
 | 3796 | Pietra GF Cap | 普伊特阿兜帽【ＧＦ】 |
-| 3797 | Pokara G Helm | 凍冰獸頭兜【Ｇ】 |
-| 3798 | Pokara GF Helm | 凍冰獸頭兜【ＧＦ】 |
+| 3797 | Pokara G Helm | 凍冰獸頭鎧【Ｇ】 |
+| 3798 | Pokara GF Helm | 凍冰獸頭鎧【ＧＦ】 |
 | 3799 | Pokara G Cap | 凍冰獸兜帽【Ｇ】 |
 | 3800 | Pokara GF Cap | 凍冰獸兜帽【ＧＦ】 |
-| 3801 | Hermitaur G Helm | 盾蟹頭兜【Ｇ】 |
-| 3802 | Hermitaur GF Helm | 盾蟹頭兜【ＧＦ】 |
+| 3801 | Hermitaur G Helm | 盾蟹頭鎧【Ｇ】 |
+| 3802 | Hermitaur GF Helm | 盾蟹頭鎧【ＧＦ】 |
 | 3803 | Hermitaur G Cap | 盾蟹兜帽【Ｇ】 |
 | 3804 | Hermitaur GF Cap | 盾蟹兜帽【ＧＦ】 |
-| 3805 | Kut-Ku G Helm | 怪鳥頭兜【Ｇ】 |
-| 3806 | Kut-Ku GF Helm | 怪鳥頭兜【ＧＦ】 |
+| 3805 | Kut-Ku G Helm | 怪鳥頭鎧【Ｇ】 |
+| 3806 | Kut-Ku GF Helm | 怪鳥頭鎧【ＧＦ】 |
 | 3807 | Kut-Ku G Cap | 怪鳥兜帽【Ｇ】 |
 | 3808 | Kut-Ku GF Cap | 怪鳥兜帽【ＧＦ】 |
-| 3809 | Farunokku G Helm | 傾雷鳥頭兜【Ｇ】 |
-| 3810 | Farunokku GF Helm | 傾雷鳥頭兜【ＧＦ】 |
+| 3809 | Farunokku G Helm | 傾雷鳥頭鎧【Ｇ】 |
+| 3810 | Farunokku GF Helm | 傾雷鳥頭鎧【ＧＦ】 |
 | 3811 | Farunokku G Cap | 傾雷鳥兜帽【Ｇ】 |
 | 3812 | Farunokku GF Cap | 傾雷鳥兜帽【ＧＦ】 |
-| 3813 | Gypceros G Helm | 毒怪鳥頭兜【Ｇ】 |
-| 3814 | Gypceros GF Helm | 毒怪鳥頭兜【ＧＦ】 |
+| 3813 | Gypceros G Helm | 毒怪鳥頭鎧【Ｇ】 |
+| 3814 | Gypceros GF Helm | 毒怪鳥頭鎧【ＧＦ】 |
 | 3815 | Gypceros G Cap | 毒怪鳥兜帽【Ｇ】 |
 | 3816 | Gypceros GF Cap | 毒怪鳥兜帽【ＧＦ】 |
-| 3817 | Conga G Helm | 桃毛獸頭兜【Ｇ】 |
-| 3818 | Conga GF Helm | 桃毛獸頭兜【ＧＦ】 |
+| 3817 | Conga G Helm | 桃毛獸頭鎧【Ｇ】 |
+| 3818 | Conga GF Helm | 桃毛獸頭鎧【ＧＦ】 |
 | 3819 | Conga G Cap | 桃毛獸兜帽【Ｇ】 |
 | 3820 | Conga GF Cap | 桃毛獸兜帽【ＧＦ】 |
-| 3821 | Hyuji G Helm | 針纏龍頭兜【Ｇ】 |
-| 3822 | Hyuji GF Helm | 針纏龍頭兜【ＧＦ】 |
+| 3821 | Hyuji G Helm | 針纏龍頭鎧【Ｇ】 |
+| 3822 | Hyuji GF Helm | 針纏龍頭鎧【ＧＦ】 |
 | 3823 | Hyuji G Cap | 針纏龍兜帽【Ｇ】 |
 | 3824 | Hyuji GF Cap | 針纏龍兜帽【ＧＦ】 |
-| 3825 | Basarios G Helm | 岩龍頭兜【Ｇ】 |
-| 3826 | Basarios GF Helm | 岩龍頭兜【ＧＦ】 |
+| 3825 | Basarios G Helm | 岩龍頭鎧【Ｇ】 |
+| 3826 | Basarios GF Helm | 岩龍頭鎧【ＧＦ】 |
 | 3827 | Basarios G Cap | 岩龍兜帽【Ｇ】 |
 | 3828 | Basarios GF Cap | 岩龍兜帽【ＧＦ】 |
-| 3829 | Rathian G Helm | 雌火龍頭兜【Ｇ】 |
-| 3830 | Rathian GF Helm | 雌火龍頭兜【ＧＦ】 |
+| 3829 | Rathian G Helm | 雌火龍頭鎧【Ｇ】 |
+| 3830 | Rathian GF Helm | 雌火龍頭鎧【ＧＦ】 |
 | 3831 | Rathian G Cap | 雌火龍兜帽【Ｇ】 |
 | 3832 | Rathian GF Cap | 雌火龍兜帽【ＧＦ】 |
-| 3833 | Ceanataur G Helm | 鎌蟹頭兜【Ｇ】 |
-| 3834 | Ceanataur GF Helm | 鎌蟹頭兜【ＧＦ】 |
+| 3833 | Ceanataur G Helm | 鎌蟹頭鎧【Ｇ】 |
+| 3834 | Ceanataur GF Helm | 鎌蟹頭鎧【ＧＦ】 |
 | 3835 | Ceanataur G Cap | 鎌蟹兜帽【Ｇ】 |
 | 3836 | Ceanataur GF Cap | 鎌蟹兜帽【ＧＦ】 |
 | 3837 | Mikagura G Kabuto | 御神樂兜【Ｇ】 |
 | 3838 | Mikagura GF Kabuto | 御神樂兜【ＧＦ】 |
 | 3839 | Satokagura G Hachigane | 里神樂鉢金【Ｇ】 |
 | 3840 | Satokagura GF Hachigane | 里神樂鉢金【ＧＦ】 |
-| 3841 | Rathalos G Helm | 雄火龍頭兜【Ｇ】 |
-| 3842 | Rathalos GF Helm | 雄火龍頭兜【ＧＦ】 |
+| 3841 | Rathalos G Helm | 雄火龍頭鎧【Ｇ】 |
+| 3842 | Rathalos GF Helm | 雄火龍頭鎧【ＧＦ】 |
 | 3843 | Rathalos G Cap | 雄火龍兜帽【Ｇ】 |
 | 3844 | Rathalos GF Cap | 雄火龍兜帽【ＧＦ】 |
-| 3845 | Blango G Helm | 雪獅子頭兜【Ｇ】 |
-| 3846 | Blango GF Helm | 雪獅子頭兜【ＧＦ】 |
+| 3845 | Blango G Helm | 雪獅子頭鎧【Ｇ】 |
+| 3846 | Blango GF Helm | 雪獅子頭鎧【ＧＦ】 |
 | 3847 | Blango G Cap | 雪獅子兜帽【Ｇ】 |
 | 3848 | Blango GF Cap | 雪獅子兜帽【ＧＦ】 |
-| 3849 | Khezu G Helm | 奇怪龍頭兜【Ｇ】 |
-| 3850 | Khezu GF Helm | 奇怪龍頭兜【ＧＦ】 |
+| 3849 | Khezu G Helm | 奇怪龍頭鎧【Ｇ】 |
+| 3850 | Khezu GF Helm | 奇怪龍頭鎧【ＧＦ】 |
 | 3851 | Khezu G Cap | 奇怪龍兜帽【Ｇ】 |
 | 3852 | Khezu GF Cap | 奇怪龍兜帽【ＧＦ】 |
-| 3853 | Hope G Helm | 希望頭兜【Ｇ】 |
-| 3854 | Hope GF Helm | 希望頭兜【ＧＦ】 |
+| 3853 | Hope G Helm | 希望頭鎧【Ｇ】 |
+| 3854 | Hope GF Helm | 希望頭鎧【ＧＦ】 |
 | 3855 | Hope G Cap | 希望兜帽【Ｇ】 |
 | 3856 | Hope GF Cap | 希望兜帽【ＧＦ】 |
 | 3857 | シャン Beretta | 希亞恩貝雷塔 |
 | 3858 | シャン Beretta F | 希亞恩貝雷塔【Ｆ】 |
-| 3859 | チャチャブファシーネ | 奇亞奇亞布芙頭兜 |
-| 3860 | チャチャブキュリーオ | 奇亞奇亞布奇頭兜 |
+| 3859 | チャチャブファシーネ | 夏夏布法頭兜 |
+| 3860 | チャチャブキュリーオ | 夏夏布丘頭兜 |
 | 3861 | Odi Corsage | 弩岩龍胸花 |
 | 3862 | Odi Corsage F | 弩岩龍胸花【Ｆ】 |
-| 3863 | グラッシュ Head | 古拉希尤頭兜 |
-| 3864 | グラッシュF Head | 古拉希尤頭兜【Ｆ】 |
-| 3865 | グラッシュFY Head | 古拉希尤頭兜 |
-| 3866 | グラッシュHC Head | 古拉希尤頭兜【ＨＣ】 |
+| 3863 | グラッシュ Head | 古拉希尤頭鎧 |
+| 3864 | グラッシュF Head | 古拉希尤頭鎧【Ｆ】 |
+| 3865 | グラッシュFY Head | 古拉希尤頭鎧 |
+| 3866 | グラッシュHC Head | 古拉希尤頭鎧【ＨＣ】 |
 | 3867 | グラッシュ Piercing | 古拉希尤耳飾 |
 | 3868 | グラッシュF Piercing | 古拉希尤耳飾【Ｆ】 |
 | 3869 | グラッシュFY Piercing | 古拉希尤耳飾 |
 | 3870 | グラッシュHC Piercing | 古拉希尤耳飾【ＨＣ】 |
-| 3871 | Tandress Head | 坦德蕾絲頭兜 |
-| 3872 | Tandress F Head | 坦德蕾絲頭兜【Ｆ】 |
-| 3873 | Tandress FY Head | 特阿恩艾頭兜 |
-| 3874 | Tandress HC Head | 坦德蕾絲頭兜【ＨＣ】 |
+| 3871 | Tandress Head | 坦德蕾絲頭鎧 |
+| 3872 | Tandress F Head | 坦德蕾絲頭鎧【Ｆ】 |
+| 3873 | Tandress FY Head | 特阿恩艾頭鎧 |
+| 3874 | Tandress HC Head | 坦德蕾絲頭鎧【ＨＣ】 |
 | 3875 | Tandress Piercing | 坦德蕾絲耳飾 |
 | 3876 | Tandress F Piercing | 坦德蕾絲耳飾【Ｆ】 |
 | 3877 | Tandress FY Piercing | 特阿恩艾耳飾 |
@@ -390,11 +390,11 @@
 | 3884 | ダミー | (dummy) |
 | 3885 | ダミー | (dummy) |
 | 3886 | ダミー | (dummy) |
-| 3887 | Roses G Helm | 爾歐斯艾頭兜【Ｇ】 |
-| 3888 | Roses G Cap | 爾歐斯艾兜帽【Ｇ】 |
-| 3889 | シェルカG Head | 希魯可頭兜【Ｇ】 |
+| 3887 | Roses G Helm | 蘿賽頭鎧【Ｇ】 |
+| 3888 | Roses G Cap | 蘿賽兜帽【Ｇ】 |
+| 3889 | シェルカG Head | 希魯可頭鎧【Ｇ】 |
 | 3890 | チェスカG Cap | 奇斯可兜帽【Ｇ】 |
-| 3891 | ロアース G Head | 羅阿斯頭兜【Ｇ】 |
+| 3891 | ロアース G Head | 羅阿斯頭鎧【Ｇ】 |
 | 3892 | ライードG Cap | 拉伊多兜帽【Ｇ】 |
 | 3893 | Green 竜ノ具足 Kabuto | 竜具足兜・緑 |
 | 3894 | Green 竜ノ具足F Kabuto | 竜具足兜【Ｆ】・緑 |
@@ -406,71 +406,71 @@
 | 3900 | Green 竜ノ Haori FZ Kabuto | 竜兜【ＦＺ】・緑 |
 | 3901 | Green 竜ノ Haori HC Kabuto | 竜兜【ＨＣ】・緑 |
 | 3902 | Green 竜ノ Haori HS Kabuto | 竜兜【ＨＳ】・緑 |
-| 3903 | Ukon Head | 烏克歐恩頭兜 |
-| 3904 | Ukon F Head | 烏克歐恩頭兜【Ｆ】 |
-| 3905 | Ukon FZ Head | 烏克歐恩頭兜【ＦＺ】 |
-| 3906 | Ukon HC Head | 烏克歐恩頭兜【ＨＣ】 |
-| 3907 | Ukon Mask | 烏克歐恩帽子 |
-| 3908 | Ukon F Mask | 烏克歐恩帽子【Ｆ】 |
-| 3909 | Ukon FZ Mask | 烏克歐恩帽子【ＦＺ】 |
-| 3910 | Ukon HC Mask | 烏克歐恩帽子【ＨＣ】 |
-| 3911 | Ukon HS Head | 烏克歐恩頭兜【ＨＳ】 |
-| 3912 | Ukon GS Head | 烏克歐恩頭兜【ＧＳ】 |
-| 3913 | Ukon HS Mask | 烏克歐恩帽子【ＨＳ】 |
-| 3914 | Ukon GS Mask | 烏克歐恩帽子【ＧＳ】 |
+| 3903 | Ukon Head | 古頭鎧 |
+| 3904 | Ukon F Head | 古頭鎧【Ｆ】 |
+| 3905 | Ukon FZ Head | 古頭鎧【ＦＺ】 |
+| 3906 | Ukon HC Head | 古頭鎧【ＨＣ】 |
+| 3907 | Ukon Mask | 古帽子 |
+| 3908 | Ukon F Mask | 古帽子【Ｆ】 |
+| 3909 | Ukon FZ Mask | 古帽子【ＦＺ】 |
+| 3910 | Ukon HC Mask | 古帽子【ＨＣ】 |
+| 3911 | Ukon HS Head | 古頭鎧【ＨＳ】 |
+| 3912 | Ukon GS Head | 古頭鎧【ＧＳ】 |
+| 3913 | Ukon HS Mask | 古帽子【ＨＳ】 |
+| 3914 | Ukon GS Mask | 古帽子【ＧＳ】 |
 | 3915 | Green 竜ノ具足GS Kabuto | 竜具足兜【ＧＳ】・緑 |
 | 3916 | Green 竜ノ Haori GS Kabuto | 竜兜【ＧＳ】・緑 |
-| 3917 | Roses GF Helm | 爾歐斯艾頭兜【ＧＦ】 |
-| 3918 | Roses GF Cap | 爾歐斯艾兜帽【ＧＦ】 |
+| 3917 | Roses GF Helm | 蘿賽頭鎧【ＧＦ】 |
+| 3918 | Roses GF Cap | 蘿賽兜帽【ＧＦ】 |
 | 3919 | ダミー | (dummy) |
 | 3920 | ダミー | (dummy) |
-| 3921 | Magos Head・Yellow | 瑪戈斯頭兜・黄 |
-| 3922 | Magos F Head・Yellow | 瑪戈斯頭兜【Ｆ】・黄 |
-| 3923 | Magos FZ Head・Yellow | 瑪戈斯頭兜【ＦＺ】・黄 |
-| 3924 | Magos HC Head・Yellow | 瑪戈斯頭兜【ＨＣ】・黄 |
-| 3925 | Magos HS Head・Yellow | 瑪戈斯頭兜【ＨＳ】・黄 |
+| 3921 | Magos Head・Yellow | 瑪戈斯頭鎧・黄 |
+| 3922 | Magos F Head・Yellow | 瑪戈斯頭鎧【Ｆ】・黄 |
+| 3923 | Magos FZ Head・Yellow | 瑪戈斯頭鎧【ＦＺ】・黄 |
+| 3924 | Magos HC Head・Yellow | 瑪戈斯頭鎧【ＨＣ】・黄 |
+| 3925 | Magos HS Head・Yellow | 瑪戈斯頭鎧【ＨＳ】・黄 |
 | 3926 | Magos Haar・Yellow | 瑪戈斯髮・黄 |
 | 3927 | Magos F Haar・Yellow | 瑪戈斯髮【Ｆ】・黄 |
 | 3928 | Magos FZ Haar・Yellow | 瑪戈斯髮【ＦＺ】・黄 |
 | 3929 | Magos HC Haar・Yellow | 瑪戈斯髮【ＨＣ】・黄 |
 | 3930 | Magos HS Haar・Yellow | 瑪戈斯髮【ＨＳ】・黄 |
-| 3931 | Magos Head・Red | 瑪戈斯頭兜・赤 |
-| 3932 | Magos F Head・Red | 瑪戈斯頭兜【Ｆ】・赤 |
-| 3933 | Magos FZ Head・Red | 瑪戈斯頭兜【ＦＺ】・赤 |
-| 3934 | Magos HC Head・Red | 瑪戈斯頭兜【ＨＣ】・赤 |
-| 3935 | Magos HS Head・Red | 瑪戈斯頭兜【ＨＳ】・赤 |
+| 3931 | Magos Head・Red | 瑪戈斯頭鎧・赤 |
+| 3932 | Magos F Head・Red | 瑪戈斯頭鎧【Ｆ】・赤 |
+| 3933 | Magos FZ Head・Red | 瑪戈斯頭鎧【ＦＺ】・赤 |
+| 3934 | Magos HC Head・Red | 瑪戈斯頭鎧【ＨＣ】・赤 |
+| 3935 | Magos HS Head・Red | 瑪戈斯頭鎧【ＨＳ】・赤 |
 | 3936 | Magos Haar・Red | 瑪戈斯髮・赤 |
 | 3937 | Magos F Haar・Red | 瑪戈斯髮【Ｆ】・赤 |
 | 3938 | Magos FZ Haar・Red | 瑪戈斯髮【ＦＺ】・赤 |
 | 3939 | Magos HC Haar・Red | 瑪戈斯髮【ＨＣ】・赤 |
 | 3940 | Magos HS Haar・Red | 瑪戈斯髮【ＨＳ】・赤 |
-| 3941 | Magos Head・Water | 瑪戈斯頭兜・水 |
-| 3942 | Magos F Head・Water | 瑪戈斯頭兜【Ｆ】・水 |
-| 3943 | Magos FZ Head・Water | 瑪戈斯頭兜【ＦＺ】・水 |
-| 3944 | Magos HC Head・Water | 瑪戈斯頭兜【ＨＣ】・水 |
-| 3945 | Magos HS Head・Water | 瑪戈斯頭兜【ＨＳ】・水 |
+| 3941 | Magos Head・Water | 瑪戈斯頭鎧・水 |
+| 3942 | Magos F Head・Water | 瑪戈斯頭鎧【Ｆ】・水 |
+| 3943 | Magos FZ Head・Water | 瑪戈斯頭鎧【ＦＺ】・水 |
+| 3944 | Magos HC Head・Water | 瑪戈斯頭鎧【ＨＣ】・水 |
+| 3945 | Magos HS Head・Water | 瑪戈斯頭鎧【ＨＳ】・水 |
 | 3946 | Magos Haar・Water | 瑪戈斯髮・水 |
 | 3947 | Magos F Haar・Water | 瑪戈斯髮【Ｆ】・水 |
 | 3948 | Magos FZ Haar・Water | 瑪戈斯髮【ＦＺ】・水 |
 | 3949 | Magos HC Haar・Water | 瑪戈斯髮【ＨＣ】・水 |
 | 3950 | Magos HS Haar・Water | 瑪戈斯髮【ＨＳ】・水 |
-| 3951 | Magos Head・Blue | 瑪戈斯頭兜・青 |
-| 3952 | Magos F Head・Blue | 瑪戈斯頭兜【Ｆ】・青 |
-| 3953 | Magos FZ Head・Blue | 瑪戈斯頭兜【ＦＺ】・青 |
-| 3954 | Magos HC Head・Blue | 瑪戈斯頭兜【ＨＣ】・青 |
-| 3955 | Magos HS Head・Blue | 瑪戈斯頭兜【ＨＳ】・青 |
+| 3951 | Magos Head・Blue | 瑪戈斯頭鎧・青 |
+| 3952 | Magos F Head・Blue | 瑪戈斯頭鎧【Ｆ】・青 |
+| 3953 | Magos FZ Head・Blue | 瑪戈斯頭鎧【ＦＺ】・青 |
+| 3954 | Magos HC Head・Blue | 瑪戈斯頭鎧【ＨＣ】・青 |
+| 3955 | Magos HS Head・Blue | 瑪戈斯頭鎧【ＨＳ】・青 |
 | 3956 | Magos Haar・Blue | 瑪戈斯髮・青 |
 | 3957 | Magos F Haar・Blue | 瑪戈斯髮【Ｆ】・青 |
 | 3958 | Magos FZ Haar・Blue | 瑪戈斯髮【ＦＺ】・青 |
 | 3959 | Magos HC Haar・Blue | 瑪戈斯髮【ＨＣ】・青 |
 | 3960 | Magos HS Haar・Blue | 瑪戈斯髮【ＨＳ】・青 |
-| 3961 | Magos GS Head・Yellow | 瑪戈斯頭兜【ＧＳ】・黄 |
+| 3961 | Magos GS Head・Yellow | 瑪戈斯頭鎧【ＧＳ】・黄 |
 | 3962 | Magos GS Haar・Yellow | 瑪戈斯髮【ＧＳ】・黄 |
-| 3963 | Magos GS Head・Red | 瑪戈斯頭兜【ＧＳ】・赤 |
+| 3963 | Magos GS Head・Red | 瑪戈斯頭鎧【ＧＳ】・赤 |
 | 3964 | Magos GS Haar・Red | 瑪戈斯髮【ＧＳ】・赤 |
-| 3965 | Magos GS Head・Water | 瑪戈斯頭兜【ＧＳ】・水 |
+| 3965 | Magos GS Head・Water | 瑪戈斯頭鎧【ＧＳ】・水 |
 | 3966 | Magos GS Haar・Water | 瑪戈斯髮【ＧＳ】・水 |
-| 3967 | Magos GS Head・Blue | 瑪戈斯頭兜【ＧＳ】・青 |
+| 3967 | Magos GS Head・Blue | 瑪戈斯頭鎧【ＧＳ】・青 |
 | 3968 | Magos GS Haar・Blue | 瑪戈斯髮【ＧＳ】・青 |
 | 3969 | Red 備ノ具足 Kabuto | 備具足兜・赤 |
 | 3970 | Red 備ノ具足F Kabuto | 備具足兜・赤 |
@@ -484,24 +484,24 @@
 | 3978 | Red 備ノ Haori HC Kabuto | 備羽織兜【ＨＣ】・赤 |
 | 3979 | Red 備ノ Haori HS Kabuto | 備羽織兜【ＨＳ】・赤 |
 | 3980 | Red 備ノ Haori GS Kabuto | 備羽織兜【ＧＳ】・赤 |
-| 3981 | Miku Head | 初音未來頭兜 |
-| 3982 | Miku F Head | 初音未來頭兜【Ｆ】 |
-| 3983 | Miku FZ Head | 初音未來頭兜【ＦＺ】 |
-| 3984 | Miku HC Head | 初音未來頭兜【ＨＣ】 |
-| 3985 | Miku HS Head | 初音未來頭兜【ＨＳ】 |
-| 3986 | Miku GS Head | 初音未來頭兜【ＧＳ】 |
+| 3981 | Miku Head | 初音未來頭鎧 |
+| 3982 | Miku F Head | 初音未來頭鎧【Ｆ】 |
+| 3983 | Miku FZ Head | 初音未來頭鎧【ＦＺ】 |
+| 3984 | Miku HC Head | 初音未來頭鎧【ＨＣ】 |
+| 3985 | Miku HS Head | 初音未來頭鎧【ＨＳ】 |
+| 3986 | Miku GS Head | 初音未來頭鎧【ＧＳ】 |
 | 3987 | Miku Piercing | 初音未來耳飾 |
 | 3988 | Miku F Piercing | 初音未來耳飾【Ｆ】 |
 | 3989 | Miku FZ Piercing | 初音未來耳飾【ＦＺ】 |
 | 3990 | Miku HC Piercing | 初音未來耳飾【ＨＣ】 |
 | 3991 | Miku HS Piercing | 初音未來耳飾【ＨＳ】 |
 | 3992 | Miku GS Piercing | 初音未來耳飾【ＧＳ】 |
-| 3993 | Akahara Reisou BM Head Red | 赤原禮裝頭兜・赤 |
-| 3994 | Akahara Reisou BM Head F Red | 赤原禮裝頭兜【Ｆ】・赤 |
-| 3995 | Akahara Reisou BM Head FZ Red | 赤原禮裝頭兜【ＦＺ】・赤 |
-| 3996 | Akahara Reisou BM Head HC Red | 赤原禮裝頭兜【ＨＣ】・赤 |
-| 3997 | Akahara Reisou BM Head HS Red | 赤原禮裝頭兜【ＨＳ】・赤 |
-| 3998 | Akahara Reisou BM Head GS Red | 赤原禮裝頭兜【ＧＳ】・赤 |
-| 3999 | Akahara Reisou GN Head Red | 赤原禮裝頭兜・赤 |
-| 4000 | Akahara Reisou GN Head F Red | 赤原禮裝頭兜【Ｆ】・赤 |
+| 3993 | Akahara Reisou BM Head Red | 赤原禮裝頭鎧・赤 |
+| 3994 | Akahara Reisou BM Head F Red | 赤原禮裝頭鎧【Ｆ】・赤 |
+| 3995 | Akahara Reisou BM Head FZ Red | 赤原禮裝頭鎧【ＦＺ】・赤 |
+| 3996 | Akahara Reisou BM Head HC Red | 赤原禮裝頭鎧【ＨＣ】・赤 |
+| 3997 | Akahara Reisou BM Head HS Red | 赤原禮裝頭鎧【ＨＳ】・赤 |
+| 3998 | Akahara Reisou BM Head GS Red | 赤原禮裝頭鎧【ＧＳ】・赤 |
+| 3999 | Akahara Reisou GN Head Red | 赤原禮裝頭鎧・赤 |
+| 4000 | Akahara Reisou GN Head F Red | 赤原禮裝頭鎧【Ｆ】・赤 |
 

@@ -57,18 +57,18 @@
 | 2051 | ヴェルフィ Leggings | 芙魯芙裹腿 |
 | 2052 | テリオグ Greaves | 特里歐古護腿 |
 | 2053 | テリオグ Leggings | 特里歐古裹腿 |
-| 2054 | Kurossu Feet | 克烏爾歐足 |
-| 2055 | Kurossu F Feet | 克烏爾歐足【Ｆ】 |
-| 2056 | Kurossu Boots | 克烏爾歐靴 |
-| 2057 | Kurossu F Boots | 克烏爾歐靴【Ｆ】 |
+| 2054 | Kurossu Feet | 克蘿斯足 |
+| 2055 | Kurossu F Feet | 克蘿斯足【Ｆ】 |
+| 2056 | Kurossu Boots | 克蘿斯靴 |
+| 2057 | Kurossu F Boots | 克蘿斯靴【Ｆ】 |
 | 2058 | Shieri FX Greaves | 夏伊爾伊護腿【ＦＸ】 |
 | 2059 | Shieri FX Leggings | 夏伊爾伊裹腿【ＦＸ】 |
 | 2060 | Craft FX Boots | 工匠靴【ＦＸ】 |
 | 2061 | Craft FX Leggings | 工匠裹腿【ＦＸ】 |
 | 2062 | Moss Covered FX Greaves | 苔覆護腿【ＦＸ】 |
 | 2063 | Moss Covered FX Leggings | 苔覆裹腿【ＦＸ】 |
-| 2064 | Excelle FX Greaves | 艾克斯艾護腿【ＦＸ】 |
-| 2065 | Excelle FX Leggings | 艾克斯艾裹腿【ＦＸ】 |
+| 2064 | Excelle FX Greaves | 克斯賽爾護腿【ＦＸ】 |
+| 2065 | Excelle FX Leggings | 克斯賽爾裹腿【ＦＸ】 |
 | 2066 | Blue Sky Hakama・True | 天空真袴・青 |
 | 2067 | Welkin Hakama・True | 蒼穹真袴 |
 | 2068 | ビステマ Boots | 比斯特瑪靴 |
@@ -76,18 +76,18 @@
 | 2070 | Rath Duo F Leggings | 雙火龍裹腿【Ｆ】 |
 | 2071 | ロークF Greaves | 洛可護腿【Ｆ】 |
 | 2072 | ロークF Leggings | 洛可裹腿【Ｆ】 |
-| 2073 | Buruho F Feet・Blue | 布烏爾烏足【Ｆ】・青 |
-| 2074 | マー Gear F Boots・Blue | 瑪爾機甲靴【Ｆ】・青 |
+| 2073 | Buruho F Feet・Blue | 布露霍足【Ｆ】・青 |
+| 2074 | マー Gear F Boots・Blue | 瑪靴【Ｆ】・青 |
 | 2075 | Gogomoa FX Greaves | 跳緋獸護腿【ＦＸ】 |
 | 2076 | Gogomoa FX Leggings | 跳緋獸裹腿【ＦＸ】 |
-| 2077 | Kuraaji FX Greaves | 克烏爾阿護腿【ＦＸ】 |
-| 2078 | Kuraaji FX Leggings | 克烏爾阿裹腿【ＦＸ】 |
+| 2077 | Kuraaji FX Greaves | 克拉護腿【ＦＸ】 |
+| 2078 | Kuraaji FX Leggings | 克拉裹腿【ＦＸ】 |
 | 2079 | Zaakaa FX Greaves | 茲阿克阿護腿【ＦＸ】 |
 | 2080 | Chaser FX Leggings | 追撃裹腿【ＦＸ】 |
 | 2081 | Abitto FZ Feet | 阿比托足【ＦＺ】 |
 | 2082 | Abitto FZ Boots | 阿比托靴【ＦＺ】 |
-| 2083 | Arge FZ Feet | 阿爾傑足【ＦＺ】 |
-| 2084 | Arge FZ Boots | 阿爾傑靴【ＦＺ】 |
+| 2083 | Arge FZ Feet | 亞潔足【ＦＺ】 |
+| 2084 | Arge FZ Boots | 亞潔靴【ＦＺ】 |
 | 2085 | Camarera FZ Feet | 可瑪蕾拉足【ＦＺ】 |
 | 2086 | Camarera FZ Boots | 可瑪蕾拉靴【ＦＺ】 |
 | 2087 | Metenera FZ Feet | 梅特涅拉足【ＦＺ】 |
@@ -126,8 +126,8 @@
 | 2120 | White 鳥ノ具足・魁 | 鳥具足魁護腿・白 |
 | 2121 | Kakabu Feet | 克阿克阿足 |
 | 2122 | Kakabu Leggings | 克阿克阿裹腿 |
-| 2123 | Onero Greaves | 歐恩艾爾護腿 |
-| 2124 | Onero Leggings | 歐恩艾爾裹腿 |
+| 2123 | Onero Greaves | 奈蘿護腿 |
+| 2124 | Onero Leggings | 奈蘿裹腿 |
 | 2125 | Jyaga Greaves | 傑阿格阿護腿 |
 | 2126 | Jyaga Leggings | 傑阿格阿裹腿 |
 | 2127 | Omet Feet・Black | 歐梅特足・黑 |
@@ -162,12 +162,12 @@
 | 2156 | 無想の Hakama・魁 | 無想の袴魁 |
 | 2157 | 俊激の履 | 俊激の履護腿 |
 | 2158 | 俊激の履・魁 | 俊激の履護腿魁 |
-| 2159 | Suifudo Feet | 斯烏芙烏足 |
-| 2160 | Suifudo F Feet | 斯烏芙烏足【Ｆ】 |
-| 2161 | Merodesu Feet | 姆艾爾歐足 |
-| 2162 | Merodesu F Feet | 姆艾爾歐足【Ｆ】 |
-| 2163 | Sumatosu Feet | 斯烏姆阿足 |
-| 2164 | Sumatosu F Feet | 斯烏姆阿足【Ｆ】 |
+| 2159 | Suifudo Feet | 斯芙多足 |
+| 2160 | Suifudo F Feet | 斯芙多足【Ｆ】 |
+| 2161 | Merodesu Feet | 梅蘿德斯足 |
+| 2162 | Merodesu F Feet | 梅蘿德斯足【Ｆ】 |
+| 2163 | Sumatosu Feet | 斯瑪托斯足 |
+| 2164 | Sumatosu F Feet | 斯瑪托斯足【Ｆ】 |
 | 2165 | Passhio Boots | 普阿斯伊靴 |
 | 2166 | Passhio F Boots | 普阿斯伊靴【Ｆ】 |
 | 2167 | Cultu Feet・Ash | 庫爾圖足・灰 |
@@ -241,14 +241,14 @@
 | 2235 | Jess HC Leggings | 傑斯裹腿【ＨＣ】 |
 | 2236 | Eques HC Greaves | 騎士護腿【ＨＣ】 |
 | 2237 | Eques HC Leggings | 騎士裹腿【ＨＣ】 |
-| 2238 | Kuraaji HC Greaves | 克烏爾阿護腿【ＨＣ】 |
-| 2239 | Kuraaji HC Leggings | 克烏爾阿裹腿【ＨＣ】 |
-| 2240 | Melan FY Greaves | 姆艾爾阿護腿 |
+| 2238 | Kuraaji HC Greaves | 克拉護腿【ＨＣ】 |
+| 2239 | Kuraaji HC Leggings | 克拉裹腿【ＨＣ】 |
+| 2240 | Melan FY Greaves | 梅拉護腿 |
 | 2241 | Melan HC Greaves | 紫黑護腿【ＨＣ】 |
-| 2242 | Melan FY Leggings | 姆艾爾阿裹腿 |
+| 2242 | Melan FY Leggings | 梅拉裹腿 |
 | 2243 | Melan HC Leggings | 紫黑裹腿【ＨＣ】 |
-| 2244 | Harubadaa FY Greaves | 赫阿爾烏護腿 |
-| 2245 | Harubadaa HC Greaves | 赫阿爾烏護腿【ＨＣ】 |
+| 2244 | Harubadaa FY Greaves | 哈露巴達護腿 |
+| 2245 | Harubadaa HC Greaves | 哈露巴達護腿【ＨＣ】 |
 | 2246 | Tracker FY Leggings | 特阿克艾裹腿 |
 | 2247 | Tracker HC Leggings | 追蹤裹腿【ＨＣ】 |
 | 2248 | Omet FZ Feet・Black | 歐梅特足【ＦＺ】・黑 |
@@ -341,21 +341,21 @@
 | 2335 | Comrade Boots SP White Red | 戰友靴【ＳＰ】・白赤 |
 | 2336 | Comrade Boots SP White Blue | 戰友靴【ＳＰ】・白青 |
 | 2337 | Comrade Boots SP White Yellow | 戰友靴【ＳＰ】・白黄 |
-| 2338 | Rubellite Greaves | 爾烏布艾護腿 |
-| 2339 | Rubellite F Greaves | 爾烏布艾護腿【Ｆ】 |
-| 2340 | Rubellite FX Greaves | 爾烏布艾護腿【ＦＸ】 |
-| 2341 | ラズライト Greaves | 拉茲拉伊托護腿 |
-| 2342 | ラズライトF Greaves | 拉茲拉伊托護腿【Ｆ】 |
-| 2343 | ラズライトFX Greaves | 拉茲拉伊托護腿【ＦＸ】 |
-| 2344 | Zircon Greaves | 茲伊爾歐護腿 |
-| 2345 | Zircon F Greaves | 茲伊爾歐護腿【Ｆ】 |
-| 2346 | Zircon FX Greaves | 茲伊爾歐護腿【ＦＸ】 |
+| 2338 | Rubellite Greaves | 露貝爾特護腿 |
+| 2339 | Rubellite F Greaves | 露貝爾特護腿【Ｆ】 |
+| 2340 | Rubellite FX Greaves | 露貝爾特護腿【ＦＸ】 |
+| 2341 | ラズライト Greaves | 拉茲拉伊護腿 |
+| 2342 | ラズライトF Greaves | 拉茲拉伊護腿【Ｆ】 |
+| 2343 | ラズライトFX Greaves | 拉茲拉伊護腿【ＦＸ】 |
+| 2344 | Zircon Greaves | 茲古護腿 |
+| 2345 | Zircon F Greaves | 茲古護腿【Ｆ】 |
+| 2346 | Zircon FX Greaves | 茲古護腿【ＦＸ】 |
 | 2347 | Spinel Greaves | 斯伊恩艾護腿 |
 | 2348 | Spinel F Greaves | 斯伊恩艾護腿【Ｆ】 |
 | 2349 | Spinel FX Greaves | 斯伊恩艾護腿【ＦＸ】 |
-| 2350 | Pyrope Greaves | 普歐普艾護腿 |
-| 2351 | Pyrope F Greaves | 普歐普艾護腿【Ｆ】 |
-| 2352 | Pyrope FX Greaves | 普歐普艾護腿【ＦＸ】 |
+| 2350 | Pyrope Greaves | 蘿佩護腿 |
+| 2351 | Pyrope F Greaves | 蘿佩護腿【Ｆ】 |
+| 2352 | Pyrope FX Greaves | 蘿佩護腿【ＦＸ】 |
 | 2353 | アイオラ Greaves | 阿伊歐拉護腿 |
 | 2354 | アイオラF Greaves | 阿伊歐拉護腿【Ｆ】 |
 | 2355 | アイオラFX Greaves | 阿伊歐拉護腿【ＦＸ】 |
@@ -368,9 +368,9 @@
 | 2362 | Citrine Leggings | 克伊特伊裹腿 |
 | 2363 | Citrine F Leggings | 克伊特伊裹腿【Ｆ】 |
 | 2364 | Citrine FX Leggings | 克伊特伊裹腿【ＦＸ】 |
-| 2365 | Peridot Leggings | 普艾爾伊裹腿 |
-| 2366 | Peridot F Leggings | 普艾爾伊裹腿【Ｆ】 |
-| 2367 | Peridot FX Leggings | 普艾爾伊裹腿【ＦＸ】 |
+| 2365 | Peridot Leggings | 佩里多裹腿 |
+| 2366 | Peridot F Leggings | 佩里多裹腿【Ｆ】 |
+| 2367 | Peridot FX Leggings | 佩里多裹腿【ＦＸ】 |
 | 2368 | Turquoise Leggings | 緑松石裹腿 |
 | 2369 | Turquoise F Leggings | 緑松石裹腿【Ｆ】 |
 | 2370 | Turquoise FX Leggings | 緑松石裹腿【ＦＸ】 |
@@ -382,26 +382,26 @@
 | 2376 | 式部ノ Hakama・魁 | 式部魁袴 |
 | 2377 | 式部ノ Hakama・Smart | 機靈袴 |
 | 2378 | 式部ノ Hakama・Flower | 芙歐沃艾袴 |
-| 2379 | Aruru Feet | 阿爾烏爾足 |
-| 2380 | Aruru F Feet | 阿爾烏爾足【Ｆ】 |
-| 2381 | Aruru FY Feet | 阿爾烏爾足 |
-| 2382 | Aruru HC Feet | 阿爾烏爾足【ＨＣ】 |
-| 2383 | Aruru Leggings | 阿爾烏爾裹腿 |
-| 2384 | Aruru F Leggings | 阿爾烏爾裹腿【Ｆ】 |
-| 2385 | Aruru FY Leggings | 阿爾烏爾裹腿 |
-| 2386 | Aruru HC Leggings | 阿爾烏爾裹腿【ＨＣ】 |
-| 2387 | Oorowa Greaves | 歐爾歐沃護腿 |
-| 2388 | Oorowa F Greaves | 歐爾歐沃護腿【Ｆ】 |
-| 2389 | Oorowa FY Greaves | 歐爾歐沃護腿 |
-| 2390 | Oorowa HC Greaves | 歐爾歐沃護腿【ＨＣ】 |
-| 2391 | Oorowa Leggings | 歐爾歐沃裹腿 |
-| 2392 | Oorowa F Leggings | 歐爾歐沃裹腿【Ｆ】 |
-| 2393 | Oorowa FY Leggings | 歐爾歐沃裹腿 |
-| 2394 | Oorowa HC Leggings | 歐爾歐沃裹腿【ＨＣ】 |
-| 2395 | Onero F Greaves | 歐恩艾爾護腿【Ｆ】 |
-| 2396 | Onero F Leggings | 歐恩艾爾裹腿【Ｆ】 |
-| 2397 | Diru FY Greaves | 德伊爾烏護腿 |
-| 2398 | Diru FY Leggings | 德伊爾烏裹腿 |
+| 2379 | Aruru Feet | 露露足 |
+| 2380 | Aruru F Feet | 露露足【Ｆ】 |
+| 2381 | Aruru FY Feet | 露露足 |
+| 2382 | Aruru HC Feet | 露露足【ＨＣ】 |
+| 2383 | Aruru Leggings | 露露裹腿 |
+| 2384 | Aruru F Leggings | 露露裹腿【Ｆ】 |
+| 2385 | Aruru FY Leggings | 露露裹腿 |
+| 2386 | Aruru HC Leggings | 露露裹腿【ＨＣ】 |
+| 2387 | Oorowa Greaves | 烏蘿瓦護腿 |
+| 2388 | Oorowa F Greaves | 烏蘿瓦護腿【Ｆ】 |
+| 2389 | Oorowa FY Greaves | 烏蘿瓦護腿 |
+| 2390 | Oorowa HC Greaves | 烏蘿瓦護腿【ＨＣ】 |
+| 2391 | Oorowa Leggings | 烏蘿瓦裹腿 |
+| 2392 | Oorowa F Leggings | 烏蘿瓦裹腿【Ｆ】 |
+| 2393 | Oorowa FY Leggings | 烏蘿瓦裹腿 |
+| 2394 | Oorowa HC Leggings | 烏蘿瓦裹腿【ＨＣ】 |
+| 2395 | Onero F Greaves | 奈蘿護腿【Ｆ】 |
+| 2396 | Onero F Leggings | 奈蘿裹腿【Ｆ】 |
+| 2397 | Diru FY Greaves | 迪露護腿 |
+| 2398 | Diru FY Leggings | 迪露裹腿 |
 | 2399 | Strega HC Greaves | 魔女護腿【ＨＣ】 |
 | 2400 | Strega HC Leggings | 魔女裹腿【ＨＣ】 |
 | 2401 | Zaakaa HC Greaves | 茲阿克阿護腿【ＨＣ】 |
@@ -424,11 +424,11 @@
 | 2418 | クロノス Boots | 庫羅諾斯靴 |
 | 2419 | フレイ Leggings | 芙雷伊裹腿 |
 | 2420 | クロノス Leggings | 庫羅諾斯裹腿 |
-| 2421 | Himeros HC Greaves | 赫伊姆艾護腿【ＨＣ】 |
-| 2422 | Bureshisu HC Greaves | 布烏爾艾護腿【ＨＣ】 |
+| 2421 | Himeros HC Greaves | 希梅蘿護腿【ＨＣ】 |
+| 2422 | Bureshisu HC Greaves | 布蕾修斯護腿【ＨＣ】 |
 | 2423 | Charien HC Leggings | 夏里安裹腿【ＨＣ】 |
-| 2424 | Buran FY Greaves | 布烏爾阿護腿 |
-| 2425 | Buran HC Greaves | 布烏爾阿護腿【ＨＣ】 |
+| 2424 | Buran FY Greaves | 布拉護腿 |
+| 2425 | Buran HC Greaves | 布拉護腿【ＨＣ】 |
 | 2426 | Gypceros LX Greaves | 毒怪鳥護腿 |
 | 2427 | Ceanataur LX Greaves | 鎌蟹護腿 |
 | 2428 | Tigrex LX Greaves | 轟龍護腿 |
@@ -436,7 +436,7 @@
 | 2430 | Gypceros RX Greaves | 毒怪鳥護腿 |
 | 2431 | Ceanataur RX Greaves | 鎌蟹護腿 |
 | 2432 | Espinas RX Heel | 棘龍踵 |
-| 2433 | Monodevil RX Leggings | 姆歐恩歐裹腿 |
+| 2433 | Monodevil RX Leggings | 莫諾德薇裹腿 |
 | 2434 | Cayssis Feet Water | 凱西斯足・水 |
 | 2435 | Cayssis F Feet Water | 凱西斯足【Ｆ】・水 |
 | 2436 | Cayssis FZ Feet Water | 凱西斯足【ＦＺ】・水 |

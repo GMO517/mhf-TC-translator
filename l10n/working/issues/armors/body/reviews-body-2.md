@@ -6,11 +6,11 @@
 |---|---|---|
 | 500 | Wizard F Suit・White | 巫師套裝【Ｆ】・白 |
 | 501 | Wizard F Suit・Blue | 巫師套裝【Ｆ】・青 |
-| 502 | Crowley Vest・Red | 克歐沃艾背心・赤 |
-| 503 | Crowley Vest・Black | 克歐沃艾背心・黑 |
-| 504 | Crowley Vest・Green | 克歐沃艾背心・緑 |
-| 505 | Crowley Vest・White | 克歐沃艾背心・白 |
-| 506 | Crowley Vest・Blue | 克歐沃艾背心・青 |
+| 502 | Crowley Vest・Red | 克勒背心・赤 |
+| 503 | Crowley Vest・Black | 克勒背心・黑 |
+| 504 | Crowley Vest・Green | 克勒背心・緑 |
+| 505 | Crowley Vest・White | 克勒背心・白 |
+| 506 | Crowley Vest・Blue | 克勒背心・青 |
 | 507 | Faust Suit・Red | 芙阿斯套裝・赤 |
 | 508 | Faust Suit・Black | 芙阿斯套裝・黑 |
 | 509 | Faust Suit・Green | 芙阿斯套裝・緑 |
@@ -108,9 +108,9 @@
 | 601 | Extra F Vest | 追加背心【Ｆ】 |
 | 602 | Butterfly L Thorax | 蝶胸甲【Ｌ】 |
 | 603 | Hypnoc R Mail | 眠鳥鎧甲【Ｒ】 |
-| 604 | ディジ Gear Mail | 格艾爾鎧甲 |
-| 605 | Priere Mail | 普伊爾艾鎧甲 |
-| 606 | Salvacion Mail | 斯阿爾阿鎧甲 |
+| 604 | ディジ Gear Mail | 蓋鎧甲 |
+| 605 | Priere Mail | 普蕾鎧甲 |
+| 606 | Salvacion Mail | 薩瓦奇鎧甲 |
 | 607 | Shikari の胴当て | の胴当て鎧甲 |
 | 608 | Shikari の胴当て・魁 | の胴当て鎧甲魁 |
 | 609 | G・Guard R Suit Green | 防禦套裝【Ｒ】・緑 |
@@ -122,8 +122,8 @@
 | 615 | Arma Suit・Blue | 武裝套裝・青 |
 | 616 | Arma Vest・Tea | 武裝背心・茶 |
 | 617 | Arma Suit・Tea | 武裝套裝・茶 |
-| 618 | Orden Vest | 歐爾艾恩背心 |
-| 619 | Orden Suit | 歐爾艾恩套裝 |
+| 618 | Orden Vest | 奧登背心 |
+| 619 | Orden Suit | 奧登套裝 |
 | 620 | Arma F Vest・Black | 武裝背心【Ｆ】・黑 |
 | 621 | Arma F Suit・Black | 武裝套裝【Ｆ】・黑 |
 | 622 | Arma F Vest・White | 武裝背心【Ｆ】・白 |
@@ -132,10 +132,10 @@
 | 625 | Arma F Suit・Blue | 武裝套裝【Ｆ】・青 |
 | 626 | Arma F Vest・Tea | 武裝背心【Ｆ】・茶 |
 | 627 | Arma F Suit・Tea | 武裝套裝【Ｆ】・茶 |
-| 628 | Orden F Vest | 歐爾艾恩背心【Ｆ】 |
-| 629 | Orden F Suit | 歐爾艾恩套裝【Ｆ】 |
-| 630 | Es Quera Suit | 艾斯烏爾套裝 |
-| 631 | Es Quera Vest | 艾斯烏爾背心 |
+| 628 | Orden F Vest | 奧登背心【Ｆ】 |
+| 629 | Orden F Suit | 奧登套裝【Ｆ】 |
+| 630 | Es Quera Suit | 奎拉套裝 |
+| 631 | Es Quera Vest | 奎拉背心 |
 | 632 | Pandeum Suit | 普阿恩艾套裝 |
 | 633 | Pandeum Vest | 普阿恩艾背心 |
 | 634 | White Cat F Suit | 白猫套裝【Ｆ】 |
@@ -150,30 +150,30 @@
 | 643 | Khezu L Vest | 奇怪龍背心【Ｌ】 |
 | 644 | Io R Vest | 伊歐背心【Ｒ】 |
 | 645 | Garuda Vest 【 Earth 】 | 迦樓羅地背心 |
-| 646 | Purokusu Mail | 普烏爾歐鎧甲 |
-| 647 | Purokusu F Mail | 普烏爾歐鎧甲【Ｆ】 |
-| 648 | Kurenesu Mail | 克烏爾艾鎧甲 |
-| 649 | Kurenesu F Mail | 克烏爾艾鎧甲【Ｆ】 |
+| 646 | Purokusu Mail | 普蘿克斯鎧甲 |
+| 647 | Purokusu F Mail | 普蘿克斯鎧甲【Ｆ】 |
+| 648 | Kurenesu Mail | 克蕾奈斯鎧甲 |
+| 649 | Kurenesu F Mail | 克蕾奈斯鎧甲【Ｆ】 |
 | 650 | Suini Mail | 斯烏恩伊鎧甲 |
 | 651 | Suini F Mail | 斯烏恩伊鎧甲【Ｆ】 |
-| 652 | Guraasu Vest | 格烏爾阿背心 |
-| 653 | Guraasu F Vest | 格烏爾阿背心【Ｆ】 |
-| 654 | Forutu Mail | 芙歐爾烏鎧甲 |
-| 655 | Forutu F Mail | 芙歐爾烏鎧甲【Ｆ】 |
+| 652 | Guraasu Vest | 古拉斯背心 |
+| 653 | Guraasu F Vest | 古拉斯背心【Ｆ】 |
+| 654 | Forutu Mail | 佛露圖鎧甲 |
+| 655 | Forutu F Mail | 佛露圖鎧甲【Ｆ】 |
 | 656 | Fakiru Mail | 芙阿克伊鎧甲 |
 | 657 | Fakiru F Mail | 芙阿克伊鎧甲【Ｆ】 |
-| 658 | Baraban Mail | 布阿爾阿鎧甲 |
-| 659 | Baraban F Mail | 布阿爾阿鎧甲【Ｆ】 |
-| 660 | Sufera Vest | 斯烏芙艾背心 |
-| 661 | Sufera F Vest | 斯烏芙艾背心【Ｆ】 |
+| 658 | Baraban Mail | 巴拉巴鎧甲 |
+| 659 | Baraban F Mail | 巴拉巴鎧甲【Ｆ】 |
+| 660 | Sufera Vest | 斯菲拉背心 |
+| 661 | Sufera F Vest | 斯菲拉背心【Ｆ】 |
 | 662 | Paria Mail | 呑龍鎧甲 |
 | 663 | Paria F Mail | 呑龍鎧甲【Ｆ】 |
 | 664 | Paria Vest | 呑龍背心 |
 | 665 | Paria F Vest | 呑龍背心【Ｆ】 |
-| 666 | Hypnolia Suit | 赫歐爾伊套裝 |
-| 667 | Hypnolia Vest | 赫歐爾伊背心 |
-| 668 | Feral Suit | 芙艾爾阿套裝 |
-| 669 | Feral Vest | 芙艾爾阿背心 |
+| 666 | Hypnolia Suit | 諾莉套裝 |
+| 667 | Hypnolia Vest | 諾莉背心 |
+| 668 | Feral Suit | 菲拉套裝 |
+| 669 | Feral Vest | 菲拉背心 |
 | 670 | Demon Lord ノ肩鎧 | 魔王鎧甲 |
 | 671 | Rasta 教官胴 | 教官胴鎧甲 |
 | 672 | 童子ノ肩鎧 | 童子肩鎧鎧甲 |
@@ -234,32 +234,32 @@
 | 727 | Wild Suit | 狂野套裝 |
 | 728 | Guns Vest | 格烏恩背心 |
 | 729 | Wild Vest | 狂野背心 |
-| 730 | Ecole Suit | 艾克歐爾套裝 |
+| 730 | Ecole Suit | 古勒套裝 |
 | 731 | Dian Suit | 德伊恩套裝 |
-| 732 | Ecole Vest | 艾克歐爾背心 |
+| 732 | Ecole Vest | 古勒背心 |
 | 733 | Dian Vest | 德伊恩背心 |
-| 734 | Core Mail C | 克歐爾艾鎧甲 |
-| 735 | Core Vest C | 克歐爾艾背心 |
-| 736 | Core Mail | 克歐爾艾鎧甲 |
-| 737 | Core Vest | 克歐爾艾背心 |
+| 734 | Core Mail C | 古蕾鎧甲 |
+| 735 | Core Vest C | 古蕾背心 |
+| 736 | Core Mail | 古蕾鎧甲 |
+| 737 | Core Vest | 古蕾背心 |
 | 738 | Aneshisu Mail | 阿恩艾夏鎧甲 |
 | 739 | Aneshisu Vest | 阿恩艾夏背心 |
-| 740 | Kuraaji Mail | 克烏爾阿鎧甲 |
+| 740 | Kuraaji Mail | 克拉鎧甲 |
 | 741 | Kuraaji Mail 改 | 改鎧甲 |
-| 742 | Kuraaji F Mail | 克烏爾阿鎧甲【Ｆ】 |
-| 743 | Kuraaji Vest | 克烏爾阿背心 |
+| 742 | Kuraaji F Mail | 克拉鎧甲【Ｆ】 |
+| 743 | Kuraaji Vest | 克拉背心 |
 | 744 | Kuraaji Vest 改 | 改背心 |
-| 745 | Kuraaji F Vest | 克烏爾阿背心【Ｆ】 |
+| 745 | Kuraaji F Vest | 克拉背心【Ｆ】 |
 | 746 | Kinosu Mail | 克伊恩歐鎧甲 |
-| 747 | Himeros Mail | 赫伊姆艾鎧甲 |
-| 748 | Bureshisu Mail | 布烏爾艾鎧甲 |
+| 747 | Himeros Mail | 希梅蘿鎧甲 |
+| 748 | Bureshisu Mail | 布蕾修斯鎧甲 |
 | 749 | Charien Vest | 夏里安背心 |
-| 750 | Arietta Suit | 阿爾伊特套裝 |
+| 750 | Arietta Suit | 里特套裝 |
 | 751 | Tempest Suit | 暴風雨套裝 |
-| 752 | Vento Vest | 芙艾恩歐背心 |
+| 752 | Vento Vest | 薇托背心 |
 | 753 | Mistral Vest | 姆伊斯阿背心 |
-| 754 | Arc Mail | 阿爾鎧甲 |
-| 755 | Arc Vest | 阿爾背心 |
+| 754 | Arc Mail | 亞克鎧甲 |
+| 755 | Arc Vest | 亞克背心 |
 | 756 | Rath Duo Mail | 雙火龍鎧甲 |
 | 757 | Rath Duo Vest | 雙火龍背心 |
 | 758 | Shaln Vest・Blue | 夏爾恩背心・青 |
@@ -298,10 +298,10 @@
 | 791 | Real F Mail・Red | 真鎧甲【Ｆ】・赤 |
 | 792 | Real Suit・Red | 真套裝・赤 |
 | 793 | Real F Suit・Red | 真套裝【Ｆ】・赤 |
-| 794 | Regis Mail | 爾艾格伊鎧甲 |
-| 795 | Regis F Mail | 爾艾格伊鎧甲【Ｆ】 |
-| 796 | Regis Suit | 爾艾格伊套裝 |
-| 797 | Regis F Suit | 爾艾格伊套裝【Ｆ】 |
+| 794 | Regis Mail | 蕾吉鎧甲 |
+| 795 | Regis F Mail | 蕾吉鎧甲【Ｆ】 |
+| 796 | Regis Suit | 蕾吉套裝 |
+| 797 | Regis F Suit | 蕾吉套裝【Ｆ】 |
 | 798 | Comrade Mail 【葉】 | 戰友鎧甲 |
 | 799 | Comrade Mail 【柑】 | 戰友鎧甲 |
 | 800 | Comrade Mail 【冷】 | 戰友鎧甲 |
@@ -333,19 +333,19 @@
 | 826 | Ceanataur L Vest | 鎌蟹背心【Ｌ】 |
 | 827 | Rath Heart R Vest | 火龍心背心【Ｒ】 |
 | 828 | Bone R Vest | 骨製背心【Ｒ】 |
-| 829 | Buran Jacket | 布烏爾阿夾克 |
+| 829 | Buran Jacket | 布拉夾克 |
 | 830 | White Belt Mail | 白帶鎧甲 |
 | 831 | Kagura 【胴当て】 | 神樂胴當 |
 | 832 | Kagura・覇【胴当て】 | 神樂胴當 |
 | 833 | Kamiza [Chestplate 】 | 上座胸甲 |
 | 834 | Kamiza・覇 [Chestplate 】 | 上座胸甲 |
-| 835 | アスハルテ Mail | 阿斯哈爾特鎧甲 |
-| 836 | アスハルテ Suit | 阿斯哈爾特套裝 |
+| 835 | アスハルテ Mail | 亞斯哈露鎧甲 |
+| 836 | アスハルテ Suit | 亞斯哈露套裝 |
 | 837 | ローク Mail | 洛可鎧甲 |
 | 838 | ローク Vest | 洛可背心 |
-| 839 | Soldato Mail | 斯歐爾阿鎧甲 |
+| 839 | Soldato Mail | 索達托鎧甲 |
 | 840 | Gable Mail | 格阿布艾鎧甲 |
-| 841 | Soldato Suit | 斯歐爾阿套裝 |
+| 841 | Soldato Suit | 索達托套裝 |
 | 842 | Gable Suit | 格阿布艾套裝 |
 | 843 | Uida Mail | 烏德阿鎧甲 |
 | 844 | スティーダ Mail | 斯蒂達鎧甲 |
@@ -359,20 +359,20 @@
 | 852 | Fias Suit | 芙伊斯套裝 |
 | 853 | Fauve Vest | 芙阿芙艾背心 |
 | 854 | Fias Vest | 芙伊斯背心 |
-| 855 | フィデル Mail | 菲德爾鎧甲 |
-| 856 | フィデルF Mail | 菲德爾鎧甲【Ｆ】 |
+| 855 | フィデル Mail | 菲德露鎧甲 |
+| 856 | フィデルF Mail | 菲德露鎧甲【Ｆ】 |
 | 857 | ファクト Mail | 法克特鎧甲 |
 | 858 | ファクトF Mail | 法克特鎧甲【Ｆ】 |
 | 859 | シュロス Mail | 舒羅斯鎧甲 |
 | 860 | シュロスF Mail | 舒羅斯鎧甲【Ｆ】 |
 | 861 | アエトス Vest | 阿埃托斯背心 |
 | 862 | アエトスF Vest | 阿埃托斯背心【Ｆ】 |
-| 863 | ヴェルス Mail | 維爾斯鎧甲 |
-| 864 | ヴェルスF Mail | 維爾斯鎧甲【Ｆ】 |
+| 863 | ヴェルス Mail | 薇露斯鎧甲 |
+| 864 | ヴェルスF Mail | 薇露斯鎧甲【Ｆ】 |
 | 865 | フラント Mail | 芙拉恩托鎧甲 |
 | 866 | フラントF Mail | 芙拉恩托鎧甲【Ｆ】 |
-| 867 | Serieux Mail | 斯艾爾伊鎧甲 |
-| 868 | Serieux F Mail | 斯艾爾伊鎧甲【Ｆ】 |
+| 867 | Serieux Mail | 賽里克斯鎧甲 |
+| 868 | Serieux F Mail | 賽里克斯鎧甲【Ｆ】 |
 | 869 | ウェネス Vest | 韋涅斯背心 |
 | 870 | ウェネスF Vest | 韋涅斯背心【Ｆ】 |
 | 871 | Ferme Mail・Black | 閉月鎧甲・黑 |
@@ -395,22 +395,22 @@
 | 888 | リエーザF Mail | 里耶薩鎧甲【Ｆ】 |
 | 889 | リエーザ Suit | 里耶薩套裝 |
 | 890 | リエーザF Suit | 里耶薩套裝【Ｆ】 |
-| 891 | Claire Vest・Purple | 克蕾爾背心・紫 |
-| 892 | Claire F Vest・Purple | 克蕾爾背心【Ｆ】・紫 |
-| 893 | Claire Suit・Purple | 克蕾爾套裝・紫 |
-| 894 | Claire F Suit・Purple | 克蕾爾套裝【Ｆ】・紫 |
-| 895 | Claire Vest・Water | 克蕾爾背心・水 |
-| 896 | Claire F Vest・Water | 克蕾爾背心【Ｆ】・水 |
-| 897 | Claire Suit・Water | 克蕾爾套裝・水 |
-| 898 | Claire F Suit・Water | 克蕾爾套裝【Ｆ】・水 |
-| 899 | Claire Vest・Red | 克蕾爾背心・赤 |
-| 900 | Claire F Vest・Red | 克蕾爾背心【Ｆ】・赤 |
-| 901 | Claire Suit・Red | 克蕾爾套裝・赤 |
-| 902 | Claire F Suit・Red | 克蕾爾套裝【Ｆ】・赤 |
-| 903 | Claire Vest・Black | 克蕾爾背心・黑 |
-| 904 | Claire F Vest・Black | 克蕾爾背心【Ｆ】・黑 |
-| 905 | Claire Suit・Black | 克蕾爾套裝・黑 |
-| 906 | Claire F Suit・Black | 克蕾爾套裝【Ｆ】・黑 |
+| 891 | Claire Vest・Purple | 克蕾露背心・紫 |
+| 892 | Claire F Vest・Purple | 克蕾露背心【Ｆ】・紫 |
+| 893 | Claire Suit・Purple | 克蕾露套裝・紫 |
+| 894 | Claire F Suit・Purple | 克蕾露套裝【Ｆ】・紫 |
+| 895 | Claire Vest・Water | 克蕾露背心・水 |
+| 896 | Claire F Vest・Water | 克蕾露背心【Ｆ】・水 |
+| 897 | Claire Suit・Water | 克蕾露套裝・水 |
+| 898 | Claire F Suit・Water | 克蕾露套裝【Ｆ】・水 |
+| 899 | Claire Vest・Red | 克蕾露背心・赤 |
+| 900 | Claire F Vest・Red | 克蕾露背心【Ｆ】・赤 |
+| 901 | Claire Suit・Red | 克蕾露套裝・赤 |
+| 902 | Claire F Suit・Red | 克蕾露套裝【Ｆ】・赤 |
+| 903 | Claire Vest・Black | 克蕾露背心・黑 |
+| 904 | Claire F Vest・Black | 克蕾露背心【Ｆ】・黑 |
+| 905 | Claire Suit・Black | 克蕾露套裝・黑 |
+| 906 | Claire F Suit・Black | 克蕾露套裝【Ｆ】・黑 |
 | 907 | Desert Vest | 沙漠背心 |
 | 908 | Desert F Vest | 沙漠背心【Ｆ】 |
 | 909 | Desert Suit | 沙漠套裝 |
@@ -436,19 +436,19 @@
 | 929 | Gravios L Vest | 鎧龍背心【Ｌ】 |
 | 930 | Hunter's R Vest | 獵人背心【Ｒ】 |
 | 931 | Vespoid R Vest | 巨蜂背心【Ｒ】 |
-| 932 | チャチャブルング | 奇亞奇亞布魯鎧甲 |
-| 933 | チャチャブルンガ | 奇亞奇亞布魯鎧甲 |
-| 934 | チャチャブロエ | 奇亞奇亞布羅鎧甲 |
-| 935 | チャチャブリダ | 奇亞奇亞布里鎧甲 |
+| 932 | チャチャブルング | 夏夏布露鎧甲 |
+| 933 | チャチャブルンガ | 夏夏布露鎧甲 |
+| 934 | チャチャブロエ | 夏夏布蘿鎧甲 |
+| 935 | チャチャブリダ | 夏夏布莉鎧甲 |
 | 936 | ヴィリヴラ Mail | 維里夫拉鎧甲 |
 | 937 | Angriff Mail | 阿恩伊芙鎧甲 |
 | 938 | ヴィリヴラ Suit | 維里夫拉套裝 |
 | 939 | Angriff Suit | 阿恩伊芙套裝 |
 | 940 | Schutz Mail | 施烏特鎧甲 |
-| 941 | Hilfe Mail | 赫伊爾艾鎧甲 |
+| 941 | Hilfe Mail | 希菲鎧甲 |
 | 942 | Schutz Suit | 施烏特套裝 |
-| 943 | Hilfe Suit | 赫伊爾艾套裝 |
-| 944 | Makluva R Cover | 瑪克魯瓦罩鎧甲【Ｒ】 |
+| 943 | Hilfe Suit | 希菲套裝 |
+| 944 | Makluva R Cover | 瑪可露拍鎧甲【Ｒ】 |
 | 945 | Raviente Mail | 大巖龍鎧甲 |
 | 946 | Raviente F Mail | 大巖龍鎧甲【Ｆ】 |
 | 947 | Raviente FX Mail | 大巖龍鎧甲【ＦＸ】 |
@@ -457,26 +457,26 @@
 | 950 | Raviente FX Vest | 大巖龍背心【ＦＸ】 |
 | 951 | アナキ Jacket | 阿納基夾克 |
 | 952 | アナキ Suit | 阿納基套裝 |
-| 953 | Harvest Mail | 赫阿爾艾鎧甲 |
-| 954 | Harvest Vest | 赫阿爾艾背心 |
+| 953 | Harvest Mail | 哈薇鎧甲 |
+| 954 | Harvest Vest | 哈薇背心 |
 | 955 | Craft Mail | 工匠鎧甲 |
 | 956 | Craft F Mail | 工匠鎧甲【Ｆ】 |
 | 957 | Craft Vest | 工匠背心 |
 | 958 | Craft F Vest | 工匠背心【Ｆ】 |
-| 959 | Ledia Mail | 爾艾德伊鎧甲 |
-| 960 | Ledia F Mail | 爾艾德伊鎧甲【Ｆ】 |
-| 961 | Ledia Vest | 爾艾德伊背心 |
-| 962 | Ledia F Vest | 爾艾德伊背心【Ｆ】 |
+| 959 | Ledia Mail | 勒迪鎧甲 |
+| 960 | Ledia F Mail | 勒迪鎧甲【Ｆ】 |
+| 961 | Ledia Vest | 勒迪背心 |
+| 962 | Ledia F Vest | 勒迪背心【Ｆ】 |
 | 963 | ティーア Suit | 蒂亞套裝 |
-| 964 | Viruto Suit | 芙伊爾烏套裝 |
+| 964 | Viruto Suit | 薇露托套裝 |
 | 965 | ティーア Vest | 蒂亞背心 |
-| 966 | Viruto Vest | 芙伊爾烏背心 |
-| 967 | Muse Suit | 姆烏斯艾套裝 |
-| 968 | Tune Suit | 特烏恩艾套裝 |
+| 966 | Viruto Vest | 薇露托背心 |
+| 967 | Muse Suit | 姆賽套裝 |
+| 968 | Tune Suit | 圖奈套裝 |
 | 969 | ゼーレ Vest | 澤勒背心 |
 | 970 | Schnite Vest | 施伊特艾背心 |
-| 971 | アセルス Vest | 阿塞爾斯背心 |
-| 972 | アセルスF Vest | 阿塞爾斯背心【Ｆ】 |
+| 971 | アセルス Vest | 亞賽露斯背心 |
+| 972 | アセルスF Vest | 亞賽露斯背心【Ｆ】 |
 | 973 | スクラ Vest | 斯庫拉背心 |
 | 974 | スクラF Vest | 斯庫拉背心【Ｆ】 |
 | 975 | ファルム Vest | 法魯姆背心 |

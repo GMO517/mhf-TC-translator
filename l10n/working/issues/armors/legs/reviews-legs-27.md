@@ -4,12 +4,12 @@
 
 | index | 原文 | 譯文 |
 |---|---|---|
-| 13001 | Rabius F Boots | 拉比烏斯靴【Ｆ】 |
-| 13002 | Rabius FZ Boots | 拉比烏斯靴【ＦＺ】 |
-| 13003 | Rabius HS Boots | 拉比烏斯靴【ＨＳ】 |
-| 13004 | Rabius GS Boots | 拉比烏斯靴【ＧＳ】 |
-| 13005 | Rabius GP Boots | 拉比烏斯靴【ＧＰ】 |
-| 13006 | Rabius ZP Boots | 拉比烏斯靴【ＺＰ】 |
+| 13001 | Rabius F Boots | 拉碧宇斯靴【Ｆ】 |
+| 13002 | Rabius FZ Boots | 拉碧宇斯靴【ＦＺ】 |
+| 13003 | Rabius HS Boots | 拉碧宇斯靴【ＨＳ】 |
+| 13004 | Rabius GS Boots | 拉碧宇斯靴【ＧＳ】 |
+| 13005 | Rabius GP Boots | 拉碧宇斯靴【ＧＰ】 |
+| 13006 | Rabius ZP Boots | 拉碧宇斯靴【ＺＰ】 |
 | 13007 | Rocras Feet | 洛克拉斯足 |
 | 13008 | Rocras F Feet | 洛克拉斯足【Ｆ】 |
 | 13009 | Rocras FZ Feet | 洛克拉斯足【ＦＺ】 |
@@ -72,12 +72,12 @@
 | 13066 | Bita G Leggings | 布伊特阿裹腿【Ｇ】 |
 | 13067 | Bita GF Leggings | 布伊特阿裹腿【ＧＦ】 |
 | 13068 | Bita GX Leggings | 布伊特阿裹腿【ＧＸ】 |
-| 13069 | Koreputo G Greaves | 克歐爾艾護腿【Ｇ】 |
-| 13070 | Koreputo GF Greaves | 克歐爾艾護腿【ＧＦ】 |
-| 13071 | Koreputo GX Greaves | 克歐爾艾護腿【ＧＸ】 |
-| 13072 | Koreputo G Leggings | 克歐爾艾裹腿【Ｇ】 |
-| 13073 | Koreputo GF Leggings | 克歐爾艾裹腿【ＧＦ】 |
-| 13074 | Koreputo GX Leggings | 克歐爾艾裹腿【ＧＸ】 |
+| 13069 | Koreputo G Greaves | 古蕾普托護腿【Ｇ】 |
+| 13070 | Koreputo GF Greaves | 古蕾普托護腿【ＧＦ】 |
+| 13071 | Koreputo GX Greaves | 古蕾普托護腿【ＧＸ】 |
+| 13072 | Koreputo G Leggings | 古蕾普托裹腿【Ｇ】 |
+| 13073 | Koreputo GF Leggings | 古蕾普托裹腿【ＧＦ】 |
+| 13074 | Koreputo GX Leggings | 古蕾普托裹腿【ＧＸ】 |
 | 13075 | Rapin G Greaves | 爾阿普伊護腿【Ｇ】 |
 | 13076 | Rapin GF Greaves | 爾阿普伊護腿【ＧＦ】 |
 | 13077 | Rapin GX Greaves | 爾阿普伊護腿【ＧＸ】 |
@@ -140,14 +140,14 @@
 | 13134 | Ionia GS Boots | 伊歐尼亞靴【ＧＳ】 |
 | 13135 | Ionia GP Boots | 伊歐尼亞靴【ＧＰ】 |
 | 13136 | Ionia ZP Boots | 伊歐尼亞靴【ＺＰ】 |
-| 13137 | Guridi Z Greaves | 格烏爾伊護腿【Ｚ】 |
-| 13138 | Guridi ZF Greaves | 格烏爾伊護腿【ＺＦ】 |
-| 13139 | Guridi ZY Greaves | 格烏爾伊護腿【ＺＹ】 |
-| 13140 | Guridi ZX Greaves | 格烏爾伊護腿【ＺＸ】 |
-| 13141 | Guridi Z Leggings | 格烏爾伊裹腿【Ｚ】 |
-| 13142 | Guridi ZF Leggings | 格烏爾伊裹腿【ＺＦ】 |
-| 13143 | Guridi ZY Leggings | 格烏爾伊裹腿【ＺＹ】 |
-| 13144 | Guridi ZX Leggings | 格烏爾伊裹腿【ＺＸ】 |
+| 13137 | Guridi Z Greaves | 古里迪護腿【Ｚ】 |
+| 13138 | Guridi ZF Greaves | 古里迪護腿【ＺＦ】 |
+| 13139 | Guridi ZY Greaves | 古里迪護腿【ＺＹ】 |
+| 13140 | Guridi ZX Greaves | 古里迪護腿【ＺＸ】 |
+| 13141 | Guridi Z Leggings | 古里迪裹腿【Ｚ】 |
+| 13142 | Guridi ZF Leggings | 古里迪裹腿【ＺＦ】 |
+| 13143 | Guridi ZY Leggings | 古里迪裹腿【ＺＹ】 |
+| 13144 | Guridi ZX Leggings | 古里迪裹腿【ＺＸ】 |
 | 13145 | Shifunyi Z Feet | 夏伊芙烏足【Ｚ】 |
 | 13146 | Shifunyi ZF Feet | 夏伊芙烏足【ＺＦ】 |
 | 13147 | Shifunyi ZY Feet | 夏伊芙烏足【ＺＹ】 |
@@ -156,7 +156,7 @@
 | 13150 | Shifunyi ZF Boots | 夏伊芙烏靴【ＺＦ】 |
 | 13151 | Shifunyi ZY Boots | 夏伊芙烏靴【ＺＹ】 |
 | 13152 | Shifunyi ZX Boots | 夏伊芙烏靴【ＺＸ】 |
-| 13153 | Rockman Boots | 爾歐克阿靴 |
+| 13153 | Rockman Boots | 蘿瑪靴 |
 | 13154 | Patapatagook・Rainbow | 拍達古古護腿・虹 |
 | 13155 | Patapatagook F・Rainbow | 拍達古古護腿【Ｆ】・虹 |
 | 13156 | Patapatagook FZ・Rainbow | 拍達古古護腿【ＦＺ】・虹 |
@@ -188,32 +188,32 @@
 | 13182 | Patapatagook ZP・White | 拍達古古護腿【ＺＰ】・白 |
 | 13183 | Patapatagook ZP・Red | 拍達古古護腿【ＺＰ】・赤 |
 | 13184 | Patapatagook ZP・Ash | 拍達古古護腿【ＺＰ】・灰 |
-| 13185 | Nerishoku Greaves D | 恩艾爾伊護腿 |
+| 13185 | Nerishoku Greaves D | 奈里修克護腿 |
 | 13186 | Gravios ZD Greaves | 格阿芙伊護腿 |
 | 13187 | Gravios ZD Leggings | 格阿芙伊裹腿 |
-| 13188 | Baruragaru ZD Greaves | 布阿爾烏護腿 |
-| 13189 | Baruragaru ZD Leggings | 布阿爾烏裹腿 |
+| 13188 | Baruragaru ZD Greaves | 巴露拉加護腿 |
+| 13189 | Baruragaru ZD Leggings | 巴露拉加裹腿 |
 | 13190 | Rabius D Feet | 爾阿布伊足 |
-| 13191 | Rocras D Feet | 爾歐克阿足 |
-| 13192 | Alisys D Feet | 阿爾伊斯足 |
-| 13193 | Loli D Feet | 爾歐爾伊足 |
-| 13194 | Recolis D Feet | 爾艾克歐足 |
+| 13191 | Rocras D Feet | 蘿克足 |
+| 13192 | Alisys D Feet | 莉足 |
+| 13193 | Loli D Feet | 蘿莉足 |
+| 13194 | Recolis D Feet | 蕾古莉足 |
 | 13195 | Rapin D Greaves | 爾阿普伊護腿 |
 | 13196 | Rapin C Greaves | 爾阿普伊護腿 |
-| 13197 | Kireek D Feet | 克伊爾艾足 |
+| 13197 | Kireek D Feet | 奇蕾足 |
 | 13198 | Quna D Feet | 斯烏恩阿足 |
 | 13199 | Dista D Feet | 德伊斯阿足 |
 | 13200 | Ionia D Feet | 伊恩伊斯足 |
-| 13201 | Guridi D Greaves | 格烏爾伊護腿 |
+| 13201 | Guridi D Greaves | 古里迪護腿 |
 | 13202 | Shifunyi D Feet | 夏伊芙烏足 |
 | 13203 | Rappy D Boots | 爾阿普靴 |
 | 13204 | Bita D Greaves | 布伊特阿護腿 |
-| 13205 | Koreputo D Greaves | 克歐爾艾護腿 |
-| 13206 | Secuti D Feet・Black | 斯艾克烏足・黑 |
-| 13207 | Secuti D Feet・Blue | 斯艾克烏足・青 |
-| 13208 | Secuti D Feet・Red | 斯艾克烏足・赤 |
-| 13209 | Secuti D Feet・White | 斯艾克烏足・白 |
-| 13210 | Rockman D Boots | 爾歐克阿靴 |
+| 13205 | Koreputo D Greaves | 古蕾普托護腿 |
+| 13206 | Secuti D Feet・Black | 賽庫蒂足・黑 |
+| 13207 | Secuti D Feet・Blue | 賽庫蒂足・青 |
+| 13208 | Secuti D Feet・Red | 賽庫蒂足・赤 |
+| 13209 | Secuti D Feet・White | 賽庫蒂足・白 |
+| 13210 | Rockman D Boots | 蘿瑪恩德靴 |
 | 13211 | Issen D [Greaves 】・Red | 一閃護腿・赤 |
 | 13212 | 蜂針D [Greaves 】・Orange | 蜂針護腿・橙 |
 | 13213 | Patapatagook C・Rainbow | 普阿特阿護腿・虹 |
@@ -271,20 +271,20 @@
 | 13265 | Harudo ZF Leggings | 司銀龍裹腿【ＺＦ】 |
 | 13266 | Harudo ZY Leggings | 司銀龍裹腿【ＺＹ】 |
 | 13267 | Harudo ZX Leggings | 司銀龍裹腿【ＺＸ】 |
-| 13268 | Elysi G Greaves | 艾爾伊護腿【Ｇ】 |
-| 13269 | Elysi GF Greaves | 艾爾伊護腿【ＧＦ】 |
-| 13270 | Elysi GX Greaves | 艾爾伊護腿【ＧＸ】 |
-| 13271 | Elysi G Leggings | 艾爾伊裹腿【Ｇ】 |
-| 13272 | Elysi GF Leggings | 艾爾伊裹腿【ＧＦ】 |
-| 13273 | Elysi GX Leggings | 艾爾伊裹腿【ＧＸ】 |
-| 13274 | Myunru Z Greaves | 姆烏恩烏護腿【Ｚ】 |
-| 13275 | Myunru ZF Greaves | 姆烏恩烏護腿【ＺＦ】 |
-| 13276 | Myunru ZY Greaves | 姆烏恩烏護腿【ＺＹ】 |
-| 13277 | Myunru ZX Greaves | 姆烏恩烏護腿【ＺＸ】 |
-| 13278 | Myunru Z Leggings | 姆烏恩烏裹腿【Ｚ】 |
-| 13279 | Myunru ZF Leggings | 姆烏恩烏裹腿【ＺＦ】 |
-| 13280 | Myunru ZY Leggings | 姆烏恩烏裹腿【ＺＹ】 |
-| 13281 | Myunru ZX Leggings | 姆烏恩烏裹腿【ＺＸ】 |
+| 13268 | Elysi G Greaves | 西護腿【Ｇ】 |
+| 13269 | Elysi GF Greaves | 西護腿【ＧＦ】 |
+| 13270 | Elysi GX Greaves | 西護腿【ＧＸ】 |
+| 13271 | Elysi G Leggings | 西裹腿【Ｇ】 |
+| 13272 | Elysi GF Leggings | 西裹腿【ＧＦ】 |
+| 13273 | Elysi GX Leggings | 西裹腿【ＧＸ】 |
+| 13274 | Myunru Z Greaves | 尤露護腿【Ｚ】 |
+| 13275 | Myunru ZF Greaves | 尤露護腿【ＺＦ】 |
+| 13276 | Myunru ZY Greaves | 尤露護腿【ＺＹ】 |
+| 13277 | Myunru ZX Greaves | 尤露護腿【ＺＸ】 |
+| 13278 | Myunru Z Leggings | 尤露裹腿【Ｚ】 |
+| 13279 | Myunru ZF Leggings | 尤露裹腿【ＺＦ】 |
+| 13280 | Myunru ZY Leggings | 尤露裹腿【ＺＹ】 |
+| 13281 | Myunru ZX Leggings | 尤露裹腿【ＺＸ】 |
 | 13282 | Kinkou Feet | 金光足 |
 | 13283 | Kinkou F Feet | 金光足【Ｆ】 |
 | 13284 | Kinkou FZ Feet | 金光足【ＦＺ】 |
@@ -361,20 +361,20 @@
 | 13355 | Finis GS Boots | 終焉靴【ＧＳ】 |
 | 13356 | Finis GP Boots | 終焉靴【ＧＰ】 |
 | 13357 | Finis ZP Boots | 終焉靴【ＺＰ】 |
-| 13358 | Firl Feet | 菲爾足 |
-| 13359 | Firl F Feet | 菲爾足【Ｆ】 |
-| 13360 | Firl FZ Feet | 菲爾足【ＦＺ】 |
-| 13361 | Firl HS Feet | 菲爾足【ＨＳ】 |
-| 13362 | Firl GS Feet | 菲爾足【ＧＳ】 |
-| 13363 | Firl GP Feet | 菲爾足【ＧＰ】 |
-| 13364 | Firl ZP Feet | 菲爾足【ＺＰ】 |
-| 13365 | Firl Boots | 菲爾靴 |
-| 13366 | Firl F Boots | 菲爾靴【Ｆ】 |
-| 13367 | Firl FZ Boots | 菲爾靴【ＦＺ】 |
-| 13368 | Firl HS Boots | 菲爾靴【ＨＳ】 |
-| 13369 | Firl GS Boots | 菲爾靴【ＧＳ】 |
-| 13370 | Firl GP Boots | 菲爾靴【ＧＰ】 |
-| 13371 | Firl ZP Boots | 菲爾靴【ＺＰ】 |
+| 13358 | Firl Feet | 菲露足 |
+| 13359 | Firl F Feet | 菲露足【Ｆ】 |
+| 13360 | Firl FZ Feet | 菲露足【ＦＺ】 |
+| 13361 | Firl HS Feet | 菲露足【ＨＳ】 |
+| 13362 | Firl GS Feet | 菲露足【ＧＳ】 |
+| 13363 | Firl GP Feet | 菲露足【ＧＰ】 |
+| 13364 | Firl ZP Feet | 菲露足【ＺＰ】 |
+| 13365 | Firl Boots | 菲露靴 |
+| 13366 | Firl F Boots | 菲露靴【Ｆ】 |
+| 13367 | Firl FZ Boots | 菲露靴【ＦＺ】 |
+| 13368 | Firl HS Boots | 菲露靴【ＨＳ】 |
+| 13369 | Firl GS Boots | 菲露靴【ＧＳ】 |
+| 13370 | Firl GP Boots | 菲露靴【ＧＰ】 |
+| 13371 | Firl ZP Boots | 菲露靴【ＺＰ】 |
 | 13372 | Ryoso Legs | 涼疎腿甲 |
 | 13373 | Ryoso Legs F | 涼疎腿甲【Ｆ】 |
 | 13374 | Ryoso Legs FZ | 涼疎腿甲【ＦＺ】 |
@@ -447,27 +447,27 @@
 | 13441 | Kelis ZP Boots | 凱利斯靴【ＺＰ】 |
 | 13442 | Kinkou D Feet | 克伊恩歐足 |
 | 13443 | Anbu D Feet | 阿恩烏斯足 |
-| 13444 | Rengoku Greaves D | 爾艾恩歐護腿 |
-| 13445 | Nerigeki Greaves D | 恩艾爾伊護腿 |
+| 13444 | Rengoku Greaves D | 蕾恩克護腿 |
+| 13445 | Nerigeki Greaves D | 奈里蓋奇護腿 |
 | 13446 | Shanru D Greaves | 夏阿恩烏護腿 |
 | 13447 | Fanru D Greaves | 芙阿恩烏護腿 |
-| 13448 | Zamuza ZD Greaves | 茲阿姆烏護腿 |
-| 13449 | Zamuza ZD Leggings | 茲阿姆烏裹腿 |
-| 13450 | Harudo ZD Greaves | 赫阿爾烏護腿 |
-| 13451 | Harudo ZD Leggings | 赫阿爾烏裹腿 |
-| 13452 | Arbiter D Sabaton | 阿爾伊特脛甲 |
-| 13453 | Elysi D Greaves | 艾爾伊斯護腿 |
+| 13448 | Zamuza ZD Greaves | 扎姆扎護腿 |
+| 13449 | Zamuza ZD Leggings | 扎姆扎裹腿 |
+| 13450 | Harudo ZD Greaves | 哈露多護腿 |
+| 13451 | Harudo ZD Leggings | 哈露多裹腿 |
+| 13452 | Arbiter D Sabaton | 碧特脛甲 |
+| 13453 | Elysi D Greaves | 西護腿 |
 | 13454 | Fine D Feet | 芙伊恩艾足 |
-| 13455 | Kotona D Feet | 克歐特歐足 |
+| 13455 | Kotona D Feet | 古托娜足 |
 | 13456 | Finis D Feet | 芙伊恩伊足 |
 | 13457 | Firl D Feet | 芙伊爾足 |
-| 13458 | Ryoso Legs D | 爾歐斯歐腿甲 |
-| 13459 | Gems D Feet | 格艾姆足 |
-| 13460 | Alisha D Feet | 阿爾伊夏足 |
+| 13458 | Ryoso Legs D | 約索腿甲 |
+| 13459 | Gems D Feet | 蓋足 |
+| 13460 | Alisha D Feet | 莉修足 |
 | 13461 | Ricca D Feet | 爾伊克阿足 |
-| 13462 | Kelis D Feet | 克艾爾伊足 |
-| 13463 | Myunru D Greaves | 姆烏恩烏護腿 |
-| 13464 | Seiryu・Kensei D Feet | 青龍斯艾爾烏足 |
+| 13462 | Kelis D Feet | 凱莉足 |
+| 13463 | Myunru D Greaves | 尤露護腿 |
+| 13464 | Seiryu・Kensei D Feet | 青龍賽尤凱賽足 |
 | 13465 | Seiryu・双龍D Feet | 青龍双龍足 |
 | 13466 | Seiryu・剣王D Feet | 青龍剣王足 |
 | 13467 | Seiryu・刀神D Feet | 青龍刀神足 |

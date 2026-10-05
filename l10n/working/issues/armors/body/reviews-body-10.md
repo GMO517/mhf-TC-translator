@@ -344,24 +344,24 @@
 | 4838 | Garuda HS Vest | 迦樓羅背心【ＨＳ】 |
 | 4839 | Garuda GS Vest | 迦樓羅背心【ＧＳ】 |
 | 4840 | Garuda GP Vest | 迦樓羅背心【ＧＰ】 |
-| 4841 | Feral HS Suit | 芙艾爾阿套裝【ＨＳ】 |
-| 4842 | Feral GS Suit | 芙艾爾阿套裝【ＧＳ】 |
-| 4843 | Feral GP Suit | 芙艾爾阿套裝【ＧＰ】 |
-| 4844 | Feral HS Vest | 芙艾爾阿背心【ＨＳ】 |
-| 4845 | Feral GS Vest | 芙艾爾阿背心【ＧＳ】 |
-| 4846 | Feral GP Vest | 芙艾爾阿背心【ＧＰ】 |
+| 4841 | Feral HS Suit | 菲拉套裝【ＨＳ】 |
+| 4842 | Feral GS Suit | 菲拉套裝【ＧＳ】 |
+| 4843 | Feral GP Suit | 菲拉套裝【ＧＰ】 |
+| 4844 | Feral HS Vest | 菲拉背心【ＨＳ】 |
+| 4845 | Feral GS Vest | 菲拉背心【ＧＳ】 |
+| 4846 | Feral GP Vest | 菲拉背心【ＧＰ】 |
 | 4847 | Fias HS Suit | 芙伊斯套裝【ＨＳ】 |
 | 4848 | Fias GS Suit | 芙伊斯套裝【ＧＳ】 |
 | 4849 | Fias GP Suit | 芙伊斯套裝【ＧＰ】 |
 | 4850 | Fias HS Vest | 芙伊斯背心【ＨＳ】 |
 | 4851 | Fias GS Vest | 芙伊斯背心【ＧＳ】 |
 | 4852 | Fias GP Vest | 芙伊斯背心【ＧＰ】 |
-| 4853 | Viruto HS Suit | 芙伊爾烏套裝【ＨＳ】 |
-| 4854 | Viruto GS Suit | 芙伊爾烏套裝【ＧＳ】 |
-| 4855 | Viruto GP Suit | 芙伊爾烏套裝【ＧＰ】 |
-| 4856 | Viruto HS Vest | 芙伊爾烏背心【ＨＳ】 |
-| 4857 | Viruto GS Vest | 芙伊爾烏背心【ＧＳ】 |
-| 4858 | Viruto GP Vest | 芙伊爾烏背心【ＧＰ】 |
+| 4853 | Viruto HS Suit | 薇露托套裝【ＨＳ】 |
+| 4854 | Viruto GS Suit | 薇露托套裝【ＧＳ】 |
+| 4855 | Viruto GP Suit | 薇露托套裝【ＧＰ】 |
+| 4856 | Viruto HS Vest | 薇露托背心【ＨＳ】 |
+| 4857 | Viruto GS Vest | 薇露托背心【ＧＳ】 |
+| 4858 | Viruto GP Vest | 薇露托背心【ＧＰ】 |
 | 4859 | Falco HS Mail | 隼鎧甲【ＨＳ】 |
 | 4860 | Falco GS Mail | 隼鎧甲【ＧＳ】 |
 | 4861 | Falco GP Mail | 隼鎧甲【ＧＰ】 |
@@ -400,11 +400,11 @@
 | 4894 | Tinku GP Vest | 汀克背心【ＧＰ】 |
 | 4895 | Luxt Mail | 盧克斯特鎧甲 |
 | 4896 | Luxt F Mail | 盧克斯特鎧甲【Ｆ】 |
-| 4897 | Luxt FY Mail | 爾烏克斯鎧甲 |
+| 4897 | Luxt FY Mail | 露克斯鎧甲 |
 | 4898 | Luxt HS Mail | 盧克斯特鎧甲【ＨＳ】 |
 | 4899 | Luxt Vest | 盧克斯特背心 |
 | 4900 | Luxt F Vest | 盧克斯特背心【Ｆ】 |
-| 4901 | Luxt FY Vest | 爾烏克斯背心 |
+| 4901 | Luxt FY Vest | 露克斯背心 |
 | 4902 | Luxt HS Vest | 盧克斯特背心【ＨＳ】 |
 | 4903 | Luxt G Mail | 盧克斯特鎧甲【Ｇ】 |
 | 4904 | Luxt GF Mail | 盧克斯特鎧甲【ＧＦ】 |
@@ -414,11 +414,11 @@
 | 4908 | Luxt GX Vest | 盧克斯特背心【ＧＸ】 |
 | 4909 | Oleum Mail | 油鎧甲 |
 | 4910 | Oleum F Mail | 油鎧甲【Ｆ】 |
-| 4911 | Oleum FY Mail | 歐爾艾姆鎧甲 |
+| 4911 | Oleum FY Mail | 勒鎧甲 |
 | 4912 | Oleum HS Mail | 油鎧甲【ＨＳ】 |
 | 4913 | Oleum Vest | 油背心 |
 | 4914 | Oleum F Vest | 油背心【Ｆ】 |
-| 4915 | Oleum FY Vest | 歐爾艾姆背心 |
+| 4915 | Oleum FY Vest | 勒背心 |
 | 4916 | Oleum HS Vest | 油背心【ＨＳ】 |
 | 4917 | Oleum G Mail | 油鎧甲【Ｇ】 |
 | 4918 | Oleum GF Mail | 油鎧甲【ＧＦ】 |
@@ -428,11 +428,11 @@
 | 4922 | Oleum GX Vest | 油背心【ＧＸ】 |
 | 4923 | Kuranto Mail | 庫蘭托鎧甲 |
 | 4924 | Kuranto F Mail | 庫蘭托鎧甲【Ｆ】 |
-| 4925 | Kuranto FY Mail | 克烏爾阿鎧甲 |
+| 4925 | Kuranto FY Mail | 克拉托鎧甲 |
 | 4926 | Kuranto HS Mail | 庫蘭托鎧甲【ＨＳ】 |
 | 4927 | Kuranto Vest | 庫蘭托背心 |
 | 4928 | Kuranto F Vest | 庫蘭托背心【Ｆ】 |
-| 4929 | Kuranto FY Vest | 克烏爾阿背心 |
+| 4929 | Kuranto FY Vest | 克拉托背心 |
 | 4930 | Kuranto HS Vest | 庫蘭托背心【ＨＳ】 |
 | 4931 | Kuranto G Mail | 庫蘭托鎧甲【Ｇ】 |
 | 4932 | Kuranto GF Mail | 庫蘭托鎧甲【ＧＦ】 |
@@ -442,11 +442,11 @@
 | 4936 | Kuranto GX Vest | 庫蘭托背心【ＧＸ】 |
 | 4937 | Yupuk Mail | 尤普克鎧甲 |
 | 4938 | Yupuk F Mail | 尤普克鎧甲【Ｆ】 |
-| 4939 | Yupuk FY Mail | 伊烏普烏鎧甲 |
+| 4939 | Yupuk FY Mail | 尤普鎧甲 |
 | 4940 | Yupuk HS Mail | 尤普克鎧甲【ＨＳ】 |
 | 4941 | Yupuk Vest | 尤普克背心 |
 | 4942 | Yupuk F Vest | 尤普克背心【Ｆ】 |
-| 4943 | Yupuk FY Vest | 伊烏普烏背心 |
+| 4943 | Yupuk FY Vest | 尤普背心 |
 | 4944 | Yupuk HS Vest | 尤普克背心【ＨＳ】 |
 | 4945 | Yupuk G Mail | 尤普克鎧甲【Ｇ】 |
 | 4946 | Yupuk GF Mail | 尤普克鎧甲【ＧＦ】 |
@@ -460,12 +460,12 @@
 | 4954 | Higakure G Vest | 赫伊格阿背心【Ｇ】 |
 | 4955 | Higakure GF Vest | 赫伊格阿背心【ＧＦ】 |
 | 4956 | Higakure GX Vest | 赫伊格阿背心【ＧＸ】 |
-| 4957 | Konseru G Mail | 克歐恩艾鎧甲【Ｇ】 |
-| 4958 | Konseru GF Mail | 克歐恩艾鎧甲【ＧＦ】 |
-| 4959 | Konseru GX Mail | 克歐恩艾鎧甲【ＧＸ】 |
-| 4960 | Konseru G Vest | 克歐恩艾背心【Ｇ】 |
-| 4961 | Konseru GF Vest | 克歐恩艾背心【ＧＦ】 |
-| 4962 | Konseru GX Vest | 克歐恩艾背心【ＧＸ】 |
+| 4957 | Konseru G Mail | 古賽露鎧甲【Ｇ】 |
+| 4958 | Konseru GF Mail | 古賽露鎧甲【ＧＦ】 |
+| 4959 | Konseru GX Mail | 古賽露鎧甲【ＧＸ】 |
+| 4960 | Konseru G Vest | 古賽露背心【Ｇ】 |
+| 4961 | Konseru GF Vest | 古賽露背心【ＧＦ】 |
+| 4962 | Konseru GX Vest | 古賽露背心【ＧＸ】 |
 | 4963 | Diru G Jacket | 迪魯夾克【Ｇ】 |
 | 4964 | Diru GF Jacket | 迪魯夾克【ＧＦ】 |
 | 4965 | Diru GX Jacket | 迪魯夾克【ＧＸ】 |

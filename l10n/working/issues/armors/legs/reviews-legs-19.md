@@ -76,12 +76,12 @@
 | 9070 | トイストHS Leggings | 托伊斯托裹腿【ＨＳ】 |
 | 9071 | トイストGS Leggings | 托伊斯托裹腿【ＧＳ】 |
 | 9072 | トイストGP Leggings | 托伊斯托裹腿【ＧＰ】 |
-| 9073 | Nekodan Feet | 恩艾克歐足 |
-| 9074 | Nekodan F Feet | 恩艾克歐足【Ｆ】 |
-| 9075 | Nekodan FZ Feet | 恩艾克歐足【ＦＺ】 |
-| 9076 | Nekodan HS Feet | 恩艾克歐足【ＨＳ】 |
-| 9077 | Nekodan GS Feet | 恩艾克歐足【ＧＳ】 |
-| 9078 | Nekodan GP Feet | 恩艾克歐足【ＧＰ】 |
+| 9073 | Nekodan Feet | 奈古達足 |
+| 9074 | Nekodan F Feet | 奈古達足【Ｆ】 |
+| 9075 | Nekodan FZ Feet | 奈古達足【ＦＺ】 |
+| 9076 | Nekodan HS Feet | 奈古達足【ＨＳ】 |
+| 9077 | Nekodan GS Feet | 奈古達足【ＧＳ】 |
+| 9078 | Nekodan GP Feet | 奈古達足【ＧＰ】 |
 | 9079 | Aelucanth Crura | 甲蟲腿甲 |
 | 9080 | Aelucanth G Crura | 甲蟲腿甲【Ｇ】 |
 | 9081 | Aelucanth GF Crura | 甲蟲腿甲【ＧＦ】 |
@@ -98,26 +98,26 @@
 | 9092 | Rhopessa Gフェムル | 鳳蝶護腿 |
 | 9093 | Rhopessa GFフェムル | 鳳蝶護腿 |
 | 9094 | Rhopessa GXフェムル | 鳳蝶護腿 |
-| 9095 | Riaruo G Greaves | 爾伊爾烏護腿【Ｇ】 |
-| 9096 | Riaruo GF Greaves | 爾伊爾烏護腿【ＧＦ】 |
-| 9097 | Riaruo GX Greaves | 爾伊爾烏護腿【ＧＸ】 |
-| 9098 | Riaruo G Leggings | 爾伊爾烏裹腿【Ｇ】 |
-| 9099 | Riaruo GF Leggings | 爾伊爾烏裹腿【ＧＦ】 |
-| 9100 | Riaruo GX Leggings | 爾伊爾烏裹腿【ＧＸ】 |
-| 9101 | Ordre Greaves | 歐爾艾護腿 |
-| 9102 | Ordre F Greaves | 歐爾艾護腿【Ｆ】 |
-| 9103 | Ordre FY Greaves | 歐爾艾斯護腿 |
-| 9104 | Ordre HS Greaves | 歐爾艾護腿【ＨＳ】 |
-| 9105 | Ordre G Greaves | 歐爾艾護腿【Ｇ】 |
-| 9106 | Ordre GF Greaves | 歐爾艾護腿【ＧＦ】 |
-| 9107 | Ordre GX Greaves | 歐爾艾護腿【ＧＸ】 |
-| 9108 | Ordre Leggings | 歐爾艾裹腿 |
-| 9109 | Ordre F Leggings | 歐爾艾裹腿【Ｆ】 |
-| 9110 | Ordre FY Leggings | 歐爾艾斯裹腿 |
-| 9111 | Ordre HS Leggings | 歐爾艾裹腿【ＨＳ】 |
-| 9112 | Ordre G Leggings | 歐爾艾裹腿【Ｇ】 |
-| 9113 | Ordre GF Leggings | 歐爾艾裹腿【ＧＦ】 |
-| 9114 | Ordre GX Leggings | 歐爾艾裹腿【ＧＸ】 |
+| 9095 | Riaruo G Greaves | 里露護腿【Ｇ】 |
+| 9096 | Riaruo GF Greaves | 里露護腿【ＧＦ】 |
+| 9097 | Riaruo GX Greaves | 里露護腿【ＧＸ】 |
+| 9098 | Riaruo G Leggings | 里露裹腿【Ｇ】 |
+| 9099 | Riaruo GF Leggings | 里露裹腿【ＧＦ】 |
+| 9100 | Riaruo GX Leggings | 里露裹腿【ＧＸ】 |
+| 9101 | Ordre Greaves | 德護腿 |
+| 9102 | Ordre F Greaves | 德護腿【Ｆ】 |
+| 9103 | Ordre FY Greaves | 德護腿 |
+| 9104 | Ordre HS Greaves | 德護腿【ＨＳ】 |
+| 9105 | Ordre G Greaves | 德護腿【Ｇ】 |
+| 9106 | Ordre GF Greaves | 德護腿【ＧＦ】 |
+| 9107 | Ordre GX Greaves | 德護腿【ＧＸ】 |
+| 9108 | Ordre Leggings | 德裹腿 |
+| 9109 | Ordre F Leggings | 德裹腿【Ｆ】 |
+| 9110 | Ordre FY Leggings | 德裹腿 |
+| 9111 | Ordre HS Leggings | 德裹腿【ＨＳ】 |
+| 9112 | Ordre G Leggings | 德裹腿【Ｇ】 |
+| 9113 | Ordre GF Leggings | 德裹腿【ＧＦ】 |
+| 9114 | Ordre GX Leggings | 德裹腿【ＧＸ】 |
 | 9115 | Cheni Greaves | 奇艾恩伊護腿 |
 | 9116 | Cheni F Greaves | 奇艾恩伊護腿【Ｆ】 |
 | 9117 | Cheni FY Greaves | 奇艾恩伊護腿 |
@@ -148,14 +148,14 @@
 | 9142 | Miniomu GX Leggings | 姆伊恩伊裹腿【ＧＸ】 |
 | 9143 | Once Greaves | 一度護腿 |
 | 9144 | Once F Greaves | 一度護腿【Ｆ】 |
-| 9145 | Once FY Greaves | 歐恩艾斯護腿 |
+| 9145 | Once FY Greaves | 賽護腿 |
 | 9146 | Once HS Greaves | 一度護腿【ＨＳ】 |
 | 9147 | Once G Greaves | 一度護腿【Ｇ】 |
 | 9148 | Once GF Greaves | 一度護腿【ＧＦ】 |
 | 9149 | Once GX Greaves | 一度護腿【ＧＸ】 |
 | 9150 | Once Leggings | 一度裹腿 |
 | 9151 | Once F Leggings | 一度裹腿【Ｆ】 |
-| 9152 | Once FY Leggings | 歐恩艾斯裹腿 |
+| 9152 | Once FY Leggings | 賽裹腿 |
 | 9153 | Once HS Leggings | 一度裹腿【ＨＳ】 |
 | 9154 | Once G Leggings | 一度裹腿【Ｇ】 |
 | 9155 | Once GF Leggings | 一度裹腿【ＧＦ】 |
@@ -198,18 +198,18 @@
 | 9192 | Vangis G Leggings | 芙阿恩伊裹腿【Ｇ】 |
 | 9193 | Vangis GF Leggings | 芙阿恩伊裹腿【ＧＦ】 |
 | 9194 | Vangis GX Leggings | 芙阿恩伊裹腿【ＧＸ】 |
-| 9195 | Shiruti Greaves | 夏伊爾烏護腿 |
-| 9196 | Shiruti F Greaves | 夏伊爾烏護腿【Ｆ】 |
-| 9197 | Shiruti FZ Greaves | 夏伊爾烏護腿【ＦＺ】 |
-| 9198 | Shiruti HS Greaves | 夏伊爾烏護腿【ＨＳ】 |
-| 9199 | Shiruti GS Greaves | 夏伊爾烏護腿【ＧＳ】 |
-| 9200 | Shiruti GP Greaves | 夏伊爾烏護腿【ＧＰ】 |
-| 9201 | Shiruti Leggings | 夏伊爾烏裹腿 |
-| 9202 | Shiruti F Leggings | 夏伊爾烏裹腿【Ｆ】 |
-| 9203 | Shiruti FZ Leggings | 夏伊爾烏裹腿【ＦＺ】 |
-| 9204 | Shiruti HS Leggings | 夏伊爾烏裹腿【ＨＳ】 |
-| 9205 | Shiruti GS Leggings | 夏伊爾烏裹腿【ＧＳ】 |
-| 9206 | Shiruti GP Leggings | 夏伊爾烏裹腿【ＧＰ】 |
+| 9195 | Shiruti Greaves | 修露蒂護腿 |
+| 9196 | Shiruti F Greaves | 修露蒂護腿【Ｆ】 |
+| 9197 | Shiruti FZ Greaves | 修露蒂護腿【ＦＺ】 |
+| 9198 | Shiruti HS Greaves | 修露蒂護腿【ＨＳ】 |
+| 9199 | Shiruti GS Greaves | 修露蒂護腿【ＧＳ】 |
+| 9200 | Shiruti GP Greaves | 修露蒂護腿【ＧＰ】 |
+| 9201 | Shiruti Leggings | 修露蒂裹腿 |
+| 9202 | Shiruti F Leggings | 修露蒂裹腿【Ｆ】 |
+| 9203 | Shiruti FZ Leggings | 修露蒂裹腿【ＦＺ】 |
+| 9204 | Shiruti HS Leggings | 修露蒂裹腿【ＨＳ】 |
+| 9205 | Shiruti GS Leggings | 修露蒂裹腿【ＧＳ】 |
+| 9206 | Shiruti GP Leggings | 修露蒂裹腿【ＧＰ】 |
 | 9207 | Brachy Greaves | 布阿奇護腿 |
 | 9208 | Brachy G Greaves | 布阿奇護腿【Ｇ】 |
 | 9209 | Brachy GF Greaves | 布阿奇護腿【ＧＦ】 |
@@ -242,12 +242,12 @@
 | 9236 | B.Espinas G March | 棘茶龍行軍腿【Ｇ】 |
 | 9237 | B.Espinas GF March | 棘茶龍行軍腿【ＧＦ】 |
 | 9238 | B.Espinas GX March | 棘茶龍行軍腿【ＧＸ】 |
-| 9239 | Red Volga G Greaves | 芙歐爾阿護腿【Ｇ】・赤 |
-| 9240 | Red Volga GF Greaves | 芙歐爾阿護腿【ＧＦ】・赤 |
-| 9241 | Red Volga GX Greaves | 芙歐爾阿護腿【ＧＸ】・赤 |
-| 9242 | Red Volga G Leggings | 芙歐爾阿裹腿【Ｇ】・赤 |
-| 9243 | Red Volga GF Leggings | 芙歐爾阿裹腿【ＧＦ】・赤 |
-| 9244 | Red Volga GX Leggings | 芙歐爾阿裹腿【ＧＸ】・赤 |
+| 9239 | Red Volga G Greaves | 沃加護腿【Ｇ】・赤 |
+| 9240 | Red Volga GF Greaves | 沃加護腿【ＧＦ】・赤 |
+| 9241 | Red Volga GX Greaves | 沃加護腿【ＧＸ】・赤 |
+| 9242 | Red Volga G Leggings | 沃加裹腿【Ｇ】・赤 |
+| 9243 | Red Volga GF Leggings | 沃加裹腿【ＧＦ】・赤 |
+| 9244 | Red Volga GX Leggings | 沃加裹腿【ＧＸ】・赤 |
 | 9245 | Ravi G Greaves:Berserk | 大巖龍狂化護腿【Ｇ】 |
 | 9246 | Ravi GF Greaves:Berserk | 大巖龍狂化護腿【ＧＦ】 |
 | 9247 | Ravi GX Greaves:Berserk | 大巖龍狂化護腿【ＧＸ】 |
@@ -418,13 +418,13 @@
 | 9412 | ダミー | (dummy) |
 | 9413 | ダミー | (dummy) |
 | 9414 | ダミー | (dummy) |
-| 9415 | Otono Greaves | 歐特歐恩護腿 |
-| 9416 | Otono F Greaves | 歐特歐恩護腿【Ｆ】 |
-| 9417 | Otono FY Greaves | 歐特歐恩護腿 |
-| 9418 | Otono HS Greaves | 歐特歐恩護腿【ＨＳ】 |
-| 9419 | Otono G Greaves | 歐特歐恩護腿【Ｇ】 |
-| 9420 | Otono GF Greaves | 歐特歐恩護腿【ＧＦ】 |
-| 9421 | Otono GX Greaves | 歐特歐恩護腿【ＧＸ】 |
+| 9415 | Otono Greaves | 托諾護腿 |
+| 9416 | Otono F Greaves | 托諾護腿【Ｆ】 |
+| 9417 | Otono FY Greaves | 托諾護腿 |
+| 9418 | Otono HS Greaves | 托諾護腿【ＨＳ】 |
+| 9419 | Otono G Greaves | 托諾護腿【Ｇ】 |
+| 9420 | Otono GF Greaves | 托諾護腿【ＧＦ】 |
+| 9421 | Otono GX Greaves | 托諾護腿【ＧＸ】 |
 | 9422 | Kabariba Greaves | 克阿布阿護腿 |
 | 9423 | Kabariba F Greaves | 克阿布阿護腿【Ｆ】 |
 | 9424 | Kabariba FY Greaves | 克阿布阿護腿 |
@@ -439,48 +439,48 @@
 | 9433 | Kabariba G Leggings | 克阿布阿裹腿【Ｇ】 |
 | 9434 | Kabariba GF Leggings | 克阿布阿裹腿【ＧＦ】 |
 | 9435 | Kabariba GX Leggings | 克阿布阿裹腿【ＧＸ】 |
-| 9436 | Toruboda Greaves | 特歐爾烏護腿 |
-| 9437 | Toruboda F Greaves | 特歐爾烏護腿【Ｆ】 |
-| 9438 | Toruboda FY Greaves | 特歐爾烏護腿 |
-| 9439 | Toruboda HS Greaves | 特歐爾烏護腿【ＨＳ】 |
-| 9440 | Toruboda G Greaves | 特歐爾烏護腿【Ｇ】 |
-| 9441 | Toruboda GF Greaves | 特歐爾烏護腿【ＧＦ】 |
-| 9442 | Toruboda GX Greaves | 特歐爾烏護腿【ＧＸ】 |
-| 9443 | Toruboda Leggings | 特歐爾烏裹腿 |
-| 9444 | Toruboda F Leggings | 特歐爾烏裹腿【Ｆ】 |
-| 9445 | Toruboda FY Leggings | 特歐爾烏裹腿 |
-| 9446 | Toruboda HS Leggings | 特歐爾烏裹腿【ＨＳ】 |
-| 9447 | Toruboda G Leggings | 特歐爾烏裹腿【Ｇ】 |
-| 9448 | Toruboda GF Leggings | 特歐爾烏裹腿【ＧＦ】 |
-| 9449 | Toruboda GX Leggings | 特歐爾烏裹腿【ＧＸ】 |
-| 9450 | Orykto Greaves | 歐爾歐護腿 |
-| 9451 | Orykto F Greaves | 歐爾歐護腿【Ｆ】 |
-| 9452 | Orykto FY Greaves | 歐爾歐斯護腿 |
-| 9453 | Orykto HS Greaves | 歐爾歐護腿【ＨＳ】 |
-| 9454 | Orykto Leggings | 歐爾歐裹腿 |
-| 9455 | Orykto F Leggings | 歐爾歐裹腿【Ｆ】 |
-| 9456 | Orykto FY Leggings | 歐爾歐斯裹腿 |
-| 9457 | Orykto HS Leggings | 歐爾歐裹腿【ＨＳ】 |
-| 9458 | Reuasu G Greaves | 爾艾斯烏護腿【Ｇ】 |
-| 9459 | Reuasu GF Greaves | 爾艾斯烏護腿【ＧＦ】 |
-| 9460 | Reuasu GX Greaves | 爾艾斯烏護腿【ＧＸ】 |
-| 9461 | Reuasu G Leggings | 爾艾斯烏裹腿【Ｇ】 |
-| 9462 | Reuasu GF Leggings | 爾艾斯烏裹腿【ＧＦ】 |
-| 9463 | Reuasu GX Leggings | 爾艾斯烏裹腿【ＧＸ】 |
-| 9464 | Harimeno Greaves | 赫阿爾伊護腿 |
-| 9465 | Harimeno F Greaves | 赫阿爾伊護腿【Ｆ】 |
-| 9466 | Harimeno FY Greaves | 赫阿爾伊護腿 |
-| 9467 | Harimeno HS Greaves | 赫阿爾伊護腿【ＨＳ】 |
-| 9468 | Harimeno G Greaves | 赫阿爾伊護腿【Ｇ】 |
-| 9469 | Harimeno GF Greaves | 赫阿爾伊護腿【ＧＦ】 |
-| 9470 | Harimeno GX Greaves | 赫阿爾伊護腿【ＧＸ】 |
-| 9471 | Harimeno Leggings | 赫阿爾伊裹腿 |
-| 9472 | Harimeno F Leggings | 赫阿爾伊裹腿【Ｆ】 |
-| 9473 | Harimeno FY Leggings | 赫阿爾伊裹腿 |
-| 9474 | Harimeno HS Leggings | 赫阿爾伊裹腿【ＨＳ】 |
-| 9475 | Harimeno G Leggings | 赫阿爾伊裹腿【Ｇ】 |
-| 9476 | Harimeno GF Leggings | 赫阿爾伊裹腿【ＧＦ】 |
-| 9477 | Harimeno GX Leggings | 赫阿爾伊裹腿【ＧＸ】 |
+| 9436 | Toruboda Greaves | 托露波達護腿 |
+| 9437 | Toruboda F Greaves | 托露波達護腿【Ｆ】 |
+| 9438 | Toruboda FY Greaves | 托露波達護腿 |
+| 9439 | Toruboda HS Greaves | 托露波達護腿【ＨＳ】 |
+| 9440 | Toruboda G Greaves | 托露波達護腿【Ｇ】 |
+| 9441 | Toruboda GF Greaves | 托露波達護腿【ＧＦ】 |
+| 9442 | Toruboda GX Greaves | 托露波達護腿【ＧＸ】 |
+| 9443 | Toruboda Leggings | 托露波達裹腿 |
+| 9444 | Toruboda F Leggings | 托露波達裹腿【Ｆ】 |
+| 9445 | Toruboda FY Leggings | 托露波達裹腿 |
+| 9446 | Toruboda HS Leggings | 托露波達裹腿【ＨＳ】 |
+| 9447 | Toruboda G Leggings | 托露波達裹腿【Ｇ】 |
+| 9448 | Toruboda GF Leggings | 托露波達裹腿【ＧＦ】 |
+| 9449 | Toruboda GX Leggings | 托露波達裹腿【ＧＸ】 |
+| 9450 | Orykto Greaves | 托護腿 |
+| 9451 | Orykto F Greaves | 托護腿【Ｆ】 |
+| 9452 | Orykto FY Greaves | 托護腿 |
+| 9453 | Orykto HS Greaves | 托護腿【ＨＳ】 |
+| 9454 | Orykto Leggings | 托裹腿 |
+| 9455 | Orykto F Leggings | 托裹腿【Ｆ】 |
+| 9456 | Orykto FY Leggings | 托裹腿 |
+| 9457 | Orykto HS Leggings | 托裹腿【ＨＳ】 |
+| 9458 | Reuasu G Greaves | 蕾斯護腿【Ｇ】 |
+| 9459 | Reuasu GF Greaves | 蕾斯護腿【ＧＦ】 |
+| 9460 | Reuasu GX Greaves | 蕾斯護腿【ＧＸ】 |
+| 9461 | Reuasu G Leggings | 蕾斯裹腿【Ｇ】 |
+| 9462 | Reuasu GF Leggings | 蕾斯裹腿【ＧＦ】 |
+| 9463 | Reuasu GX Leggings | 蕾斯裹腿【ＧＸ】 |
+| 9464 | Harimeno Greaves | 哈里梅諾護腿 |
+| 9465 | Harimeno F Greaves | 哈里梅諾護腿【Ｆ】 |
+| 9466 | Harimeno FY Greaves | 哈里梅諾護腿 |
+| 9467 | Harimeno HS Greaves | 哈里梅諾護腿【ＨＳ】 |
+| 9468 | Harimeno G Greaves | 哈里梅諾護腿【Ｇ】 |
+| 9469 | Harimeno GF Greaves | 哈里梅諾護腿【ＧＦ】 |
+| 9470 | Harimeno GX Greaves | 哈里梅諾護腿【ＧＸ】 |
+| 9471 | Harimeno Leggings | 哈里梅諾裹腿 |
+| 9472 | Harimeno F Leggings | 哈里梅諾裹腿【Ｆ】 |
+| 9473 | Harimeno FY Leggings | 哈里梅諾裹腿 |
+| 9474 | Harimeno HS Leggings | 哈里梅諾裹腿【ＨＳ】 |
+| 9475 | Harimeno G Leggings | 哈里梅諾裹腿【Ｇ】 |
+| 9476 | Harimeno GF Leggings | 哈里梅諾裹腿【ＧＦ】 |
+| 9477 | Harimeno GX Leggings | 哈里梅諾裹腿【ＧＸ】 |
 | 9478 | Shiusu G Greaves | 夏伊斯烏護腿【Ｇ】 |
 | 9479 | Shiusu GF Greaves | 夏伊斯烏護腿【ＧＦ】 |
 | 9480 | Shiusu GX Greaves | 夏伊斯烏護腿【ＧＸ】 |
@@ -501,7 +501,7 @@
 | 9495 | Will G Leggings | 沃伊爾裹腿【Ｇ】 |
 | 9496 | Will GF Leggings | 沃伊爾裹腿【ＧＦ】 |
 | 9497 | Will GX Leggings | 沃伊爾裹腿【ＧＸ】 |
-| 9498 | Keisu Greaves | 克艾斯烏護腿 |
-| 9499 | Keisu F Greaves | 克艾斯烏護腿【Ｆ】 |
-| 9500 | Keisu FY Greaves | 克艾斯烏護腿 |
+| 9498 | Keisu Greaves | 凱斯護腿 |
+| 9499 | Keisu F Greaves | 凱斯護腿【Ｆ】 |
+| 9500 | Keisu FY Greaves | 凱斯護腿 |
 

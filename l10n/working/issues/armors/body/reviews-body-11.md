@@ -36,16 +36,16 @@
 | 5030 | ノヴィーHC Suit | 諾芙套裝【ＨＣ】 |
 | 5031 | ノヴィーHS Suit | 諾芙套裝【ＨＳ】 |
 | 5032 | ノヴィーGS Suit | 諾芙套裝【ＧＳ】 |
-| 5033 | Flora Mail | 芙歐爾阿鎧甲 |
+| 5033 | Flora Mail | 芙拉鎧甲 |
 | 5034 | Frau Vest | 芙阿背心 |
-| 5035 | Lea Suit | 爾艾套裝 |
+| 5035 | Lea Suit | 勒套裝 |
 | 5036 | Keith Mail | 克艾斯鎧甲 |
-| 5037 | Guinelle Mail | 格烏恩艾鎧甲 |
+| 5037 | Guinelle Mail | 古奈爾鎧甲 |
 | 5038 | Circa Vest | 克伊爾阿背心 |
-| 5039 | Edward Mail | 艾德阿爾鎧甲 |
+| 5039 | Edward Mail | 瓦鎧甲 |
 | 5040 | Taizo Mail | 特阿茲歐鎧甲 |
 | 5041 | Tiala Mail | 特伊爾阿鎧甲 |
-| 5042 | Uwel Mail | 烏沃艾爾鎧甲 |
+| 5042 | Uwel Mail | 尤韋鎧甲 |
 | 5043 | Natasha Suit | 恩阿特阿套裝 |
 | 5044 | ダミー | (dummy) |
 | 5045 | アミロ Mail・Blue | 阿米羅鎧甲・青 |
@@ -114,12 +114,12 @@
 | 5108 | Azul G Suit | 青套裝【Ｇ】 |
 | 5109 | Azul GF Suit | 青套裝【ＧＦ】 |
 | 5110 | Azul GX Suit | 青套裝【ＧＸ】 |
-| 5111 | Entora G Mail | 艾恩歐爾鎧甲【Ｇ】 |
-| 5112 | Entora GF Mail | 艾恩歐爾鎧甲【ＧＦ】 |
-| 5113 | Entora GX Mail | 艾恩歐爾鎧甲【ＧＸ】 |
-| 5114 | Entora G Vest | 艾恩歐爾背心【Ｇ】 |
-| 5115 | Entora GF Vest | 艾恩歐爾背心【ＧＦ】 |
-| 5116 | Entora GX Vest | 艾恩歐爾背心【ＧＸ】 |
+| 5111 | Entora G Mail | 托拉鎧甲【Ｇ】 |
+| 5112 | Entora GF Mail | 托拉鎧甲【ＧＦ】 |
+| 5113 | Entora GX Mail | 托拉鎧甲【ＧＸ】 |
+| 5114 | Entora G Vest | 托拉背心【Ｇ】 |
+| 5115 | Entora GF Vest | 托拉背心【ＧＦ】 |
+| 5116 | Entora GX Vest | 托拉背心【ＧＸ】 |
 | 5117 | Holy King Suit | 聖王套裝 |
 | 5118 | Holy King F Suit | 聖王套裝【Ｆ】 |
 | 5119 | Holy King FZ Suit | 聖王套裝【ＦＺ】 |
@@ -168,7 +168,7 @@
 | 5162 | 飛燕HS胴着 | 飛燕胴着鎧甲 |
 | 5163 | 飛燕GS胴着 | 飛燕胴着鎧甲 |
 | 5164 | 飛燕GP胴着 | 飛燕胴着鎧甲 |
-| 5165 | バットドレス | 巴托多雷斯鎧甲 |
+| 5165 | バットドレス | 巴托多蕾鎧甲 |
 | 5166 | バットFドレス | 蝙蝠鎧甲 |
 | 5167 | バットFZドレス | 蝙蝠鎧甲 |
 | 5168 | バットHSドレス | 蝙蝠鎧甲 |
@@ -186,12 +186,12 @@
 | 5180 | Shell HS Suit | 斯烏特殼【ＨＳ】 |
 | 5181 | Shell GS Suit | 斯烏特殼【ＧＳ】 |
 | 5182 | Shell GP Suit | 斯烏特殼【ＧＰ】 |
-| 5183 | Vector Suit | 芙艾克歐套裝 |
-| 5184 | Vector F Suit | 芙艾克歐套裝【Ｆ】 |
-| 5185 | Vector FZ Suit | 芙艾克歐套裝【ＦＺ】 |
-| 5186 | Vector HS Suit | 芙艾克歐套裝【ＨＳ】 |
-| 5187 | Vector GS Suit | 芙艾克歐套裝【ＧＳ】 |
-| 5188 | Vector GP Suit | 芙艾克歐套裝【ＧＰ】 |
+| 5183 | Vector Suit | 薇托套裝 |
+| 5184 | Vector F Suit | 薇托套裝【Ｆ】 |
+| 5185 | Vector FZ Suit | 薇托套裝【ＦＺ】 |
+| 5186 | Vector HS Suit | 薇托套裝【ＨＳ】 |
+| 5187 | Vector GS Suit | 薇托套裝【ＧＳ】 |
+| 5188 | Vector GP Suit | 薇托套裝【ＧＰ】 |
 | 5189 | サーブル Vest | 薩布魯背心 |
 | 5190 | サーブルF Vest | 薩布魯背心【Ｆ】 |
 | 5191 | サーブルFZ Vest | 薩布魯背心【ＦＺ】 |
@@ -255,9 +255,9 @@
 | 5249 | Kruss HS Suit | 克烏斯套裝【ＨＳ】 |
 | 5250 | Kruss GS Suit | 克烏斯套裝【ＧＳ】 |
 | 5251 | Kruss GP Suit | 克烏斯套裝【ＧＰ】 |
-| 5252 | Quote HS Vest | 斯烏特艾背心【ＨＳ】 |
-| 5253 | Quote GS Vest | 斯烏特艾背心【ＧＳ】 |
-| 5254 | Quote GP Vest | 斯烏特艾背心【ＧＰ】 |
+| 5252 | Quote HS Vest | 奎特背心【ＨＳ】 |
+| 5253 | Quote GS Vest | 奎特背心【ＧＳ】 |
+| 5254 | Quote GP Vest | 奎特背心【ＧＰ】 |
 | 5255 | Starina HS Suit | 斯塔莉娜套裝【ＨＳ】 |
 | 5256 | Starina GS Suit | 斯塔莉娜套裝【ＧＳ】 |
 | 5257 | Starina GP Suit | 斯塔莉娜套裝【ＧＰ】 |
