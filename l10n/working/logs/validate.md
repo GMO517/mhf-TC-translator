@@ -1,5 +1,9 @@
 # working 驗證報告
 
+- `armors-head`：PASS
+- `armors-body`：PASS
+- `armors-arms`：PASS
+- `armors-waist`：PASS
 - `armors-legs`：PASS
 
 ## 錯誤

@@ -72,47 +72,47 @@
 ## armors-head
 
 - status: qa_issues
-- notes: "2026-10-05 Gate4 已回寫本體（validate PASS；delta 14593）；QA 殘 truncate≈154／need_semantic≈1242 見 qa-transliteration＋open-questions；SHA→63d20051…（legs 後）。"
+- notes: "2026-10-05 獨立 QA＋修譯：標記 1397→318（need 196／trunc 121／long 1）；validate PASS；issue→armors/qa-armors.md。Gate4 舊回寫仍在；本輪 CSV 未再 finish_batch。"
 
 ### files
 
 - path: l10n/working/csv/dat-armors-head.csv
   status: qa_issues
-  notes: "batch-armors-head-gate4-writeback.json 已 finish_batch"
+  notes: "QA 修訂已寫入 CSV；待使用者指示再回寫本體"
 
 ---
 
 ## armors-body
 
 - status: qa_issues
-- notes: "2026-10-05 Gate4 已回寫（delta 13461）；殘 QA 同上。"
+- notes: "2026-10-05 同五部位 QA／修譯；見 qa-armors.md。"
 
 ### files
 
 - path: l10n/working/csv/dat-armors-body.csv
   status: qa_issues
-  notes: "batch-armors-body-gate4-writeback.json 已 finish_batch"
+  notes: "QA 修訂已寫入 CSV"
 
 ---
 
 ## armors-arms / armors-waist / armors-legs
 
 - status: qa_issues
-- notes: "2026-10-05 Gate4 已回寫（arms 13451／waist 13707／legs 13513）；詞庫優先＋series-dict；殘見 open-questions。"
+- notes: "2026-10-05 同五部位 QA／修譯；原始計數見 qa-armors.md／qa-transliteration。"
 
 ### files
 
 - path: l10n/working/csv/dat-armors-arms.csv
   status: qa_issues
-  notes: "batch-armors-arms-gate4-writeback.json 已 finish_batch"
+  notes: "QA 修訂已寫入 CSV"
 
 - path: l10n/working/csv/dat-armors-waist.csv
   status: qa_issues
-  notes: "batch-armors-waist-gate4-writeback.json 已 finish_batch"
+  notes: "QA 修訂已寫入 CSV；long_phon 殘 #681"
 
 - path: l10n/working/csv/dat-armors-legs.csv
   status: qa_issues
-  notes: "batch-armors-legs-gate4-writeback.json 已 finish_batch"
+  notes: "QA 修訂已寫入 CSV；truncate 誤報多在本槽"
 
 ---
 
