@@ -1,7 +1,7 @@
 index,source,target
 0,Nothing Equipped,未裝備
-1,Cross Bowgun,十字弩
-2,Cross Bowgun+,十字弩＋
+1,Cross Bowgun,十字弩槍
+2,Cross Bowgun+,十字弩槍＋
 3,Hornet Gun,黄蜂銃
 4,Valkyrie Fire,火女武神
 5,Spartacus Fire,火斯巴達
@@ -54,8 +54,8 @@ index,source,target
 52,Chronos Grenade,克哈爾歐恩歐斯榴彈
 53,Kut-Ku Anger,怪鳥尾虎皮
 54,Kut-Ku Rage,怪鳥激昂
-55,Black Belt Bowgun,黒腰帶弩
-56,Expert Bowgun,達人弩
+55,Black Belt Bowgun,黑帶弩槍
+56,Expert Bowgun,達人弩槍
 57,Island of the Gods,伊斯勒阿恩德格歐德斯
 58,Dark Parasol,闇陽傘
 59,Angel Parasol,阿恩格艾勒陽傘
@@ -77,10 +77,10 @@ index,source,target
 75,Honeycomber,哈歐恩艾伊克歐姆
 76,Gravios Howl,鎧龍哈歐瓦勒
 77,Golden Lion,黄金勒伊歐恩
-78,Hunter Bow III,獵人弓Ⅲ
-79,Wild Bow III,弓野Ⅲ
+78,Hunter Bow III,獵人弓ⅠⅠⅠ
+79,Wild Bow III,狂野弓ⅠⅠⅠ
 80,Power Wild Bow II,弓力量野Ⅱ
-81,Queen Blaster II,女王爆裂Ⅱ
+81,Queen Blaster II,女王爆裂ⅠⅠ
 82,Heart Shot Bow II,弓心弾Ⅱ
 83,Prominence Bow II,弓日珥Ⅱ
 84,Sonic Bow III,弓音Ⅲ
@@ -88,7 +88,7 @@ index,source,target
 86,Dragon Bow【Landslide】,龍弓山崩
 87,Courageous Hope II,克歐烏爾阿格艾歐希望Ⅱ
 88,Dragon Bow【Sunflower】,龍弓斯烏恩夫勒歐瓦艾
-89,Annihilation Bow I,弓阿恩恩伊哈伊勒阿I
+89,Annihilation Bow I,阿恩恩伊哈伊勒阿弓Ⅰ
 90,Victory＆Glory Bow,弓征服拉栄光
 91,Blessed Lamp,祝福灯
 92,Raven Do,渡鴉DO
@@ -106,37 +106,37 @@ index,source,target
 104,King Lobster Gun,王勒歐布斯特艾爾銃
 105,Wolf Do,狼DO
 106,Dragon Bow【Full Moon】,龍弓滿月
-107,Power Hunter Bow II,獵人力量弓Ⅱ
-108,Hunter Bow I,獵人弓I
-109,Hunter Bow II,獵人弓Ⅱ
-110,Wild Bow I,弓野I
-111,Wild Bow II,弓野Ⅱ
+107,Power Hunter Bow II,獵人力量弓ⅠⅠ
+108,Hunter Bow I,獵人弓Ⅰ
+109,Hunter Bow II,獵人弓ⅠⅠ
+110,Wild Bow I,狂野弓Ⅰ
+111,Wild Bow II,狂野弓ⅠⅠ
 112,Power Wild Bow I,弓力量野I
-113,Queen Blaster I,女王爆裂I
+113,Queen Blaster I,女王爆裂Ⅰ
 114,Heart Shot Bow I,弓心弾I
 115,Prominence Bow I,弓日珥I
 116,Sonic Bow I,弓音I
 117,Sonic Bow II,弓音Ⅱ
 118,Blos Horn Bow I,角龍角弓I
-119,"Dragon Bow ""Uprising""",龍弓烏普伊西恩
+119,"Dragon Bow ""Uprising""",龍弓Uprising
 120,Courageous Hope I,克歐烏爾阿格艾歐希望I
-121,Power Hunter Bow I,獵人力量弓I
+121,Power Hunter Bow I,獵人力量弓Ⅰ
 122,Dragon Head,龍之頭
 123,Magic Lamp,姆阿格伊克灯
 124,Real=Daora,崩龍真
 125,Earth Eater,地龍鎧沸
 126,Heavy Buster Crab,重破壞蟹
 127,Daora's Grande,崩龍宏偉
-128,Wing Bow I,弓翼I
-129,Wing Bow II,弓翼Ⅱ
-130,Wing Bow III,弓翼Ⅲ
+128,Wing Bow I,翼弓Ⅰ
+129,Wing Bow II,翼弓ⅠⅠ
+130,Wing Bow III,翼弓ⅠⅠⅠ
 131,Nix Farbow Ⅰ,尼克斯法弓Ⅰ
 132,Nix Farbow ⅠⅠ,尼克斯法弓ⅠⅠ
 133,Icehide Bow,弓伊瑟希德
 134,Kut-Ku Bow Ⅰ,怪鳥弓Ⅰ
 135,Kut-Ku Bow Ⅱ,怪鳥弓Ⅱ
 136,Kut-Ku Bow Ⅲ,怪鳥弓Ⅲ
-137,Blue Kut-Ku Bow,怪鳥青弓
+137,Blue Kut-Ku Bow,青庫庫弓
 138,Heartless Bandage,哈艾阿爾特勒艾斯包帯
 139,Power Sand,力量砂
 140,Pressurized Plesioth,水龍普爾艾斯斯烏爾伊
@@ -160,7 +160,7 @@ index,source,target
 158,Teostra's Artillery,炎王龍S阿爾特伊勒勒艾爾
 159,Seven Stars,七斯特阿爾斯
 160,Hunter Bow Ⅳ,獵人弓Ⅳ
-161,Wild Bow Ⅳ,弓野Ⅳ
+161,Wild Bow Ⅳ,狂野弓Ⅳ
 162,Power Hunter Bow Ⅲ,獵人力量弓Ⅲ
 163,Queen Blaster Ⅲ,女王爆裂Ⅲ
 164,Prominence Bow Ⅲ,弓日珥Ⅲ
@@ -174,7 +174,7 @@ index,source,target
 172,Tigre Arrow Ⅱ,虎矢Ⅱ
 173,Bow of the Wind God,弓風神
 174,Sonic Bow Ⅳ,弓音Ⅳ
-175,Expert Bowgun+,達人弩＋
+175,Expert Bowgun+,達人弩槍＋
 176,Brilliant Bow,弓比納桃
 177,Steel Raven Ⅰ,鋼渡鴉Ⅰ
 178,Eos Mash,里艾恩瑪修
@@ -210,10 +210,10 @@ index,source,target
 208,Haunted Crossbow SP,哈阿烏恩特艾德十字弩SP
 209,Kernel Bowgun SP,克艾爾恩艾勒弩SP
 210,Green Parasol SP,緑陽傘SP
-211,Kaiden Bowgun,克阿伊德艾恩弩
+211,Kaiden Bowgun,克阿伊德艾恩弩槍
 212,Blue Kut-Ku Coin Bow,怪鳥青硬幣弓
-213,Power Hunter Bow IV,獵人力量弓Ⅳ
-214,"Dragon Bow ""Eclipse""",龍弓日蝕
+213,Power Hunter Bow IV,獵人力量弓ⅠⅤ
+214,"Dragon Bow ""Eclipse""",龍弓Eclipse
 215,Plesioth Subillo,水龍斯烏布伊勒勒歐
 216,Lunastra's Azul Missile,炎妃龍S青姆伊斯斯伊勒艾
 217,Baston Blaster,布阿斯特歐恩爆裂
@@ -260,8 +260,8 @@ index,source,target
 258,Gia Smash,吉阿斯姆阿斯哈
 259,Kautschuk,克阿烏特斯克哈烏
 260,Elastikautschuk,艾勒阿斯特伊克阿
-261,Khezu Bow V,奇怪龍弓Ｖ
-262,Queen Blaster IV,女王爆裂Ⅳ
+261,Khezu Bow V,奇怪龍弓Ⅴ
+262,Queen Blaster IV,女王爆裂ⅠⅤ
 263,Raging Ladybug Gun SP,拉吉恩勒阿德伊布烏格銃SP
 264,Rex Blaster SP,可雷托爆裂SP
 265,Kut-Ku Roar,怪鳥咆哮
@@ -281,7 +281,7 @@ index,source,target
 279,Daora's Cisne Ⅰ,崩龍天鵝Ⅰ
 280,Daora's Cisne Ⅱ,崩龍天鵝Ⅱ
 281,Prominence Bow IV,弓日珥Ⅳ
-282,Tigre Arrow III,虎矢Ⅲ
+282,Tigre Arrow III,虎矢ⅠⅠⅠ
 283,Daora's Argen SP,崩龍S銀白SP
 284,Lava Tyrant SP,熔岩特伊爾阿恩特SP
 285,Living Lamp SP,利維恩灯SP
@@ -482,9 +482,9 @@ index,source,target
 480,Cancer Bow SPⅤ,弓巨蟹SPⅤ
 481,Cancer Bow SPⅥ,弓巨蟹SPⅥ
 482,Cancer Bow SPⅦ,弓巨蟹SPⅦ
-483,Jade Bow SPⅠ,弓翠SPⅠ
-484,Jade Bow SPⅡ,弓翠SPⅡ
-485,Jade Bow SPⅢ,弓翠SPⅢ
+483,Jade Bow SPⅠ,傑阿德艾弓SPⅠ
+484,Jade Bow SPⅡ,傑阿德艾弓SPⅡ
+485,Jade Bow SPⅢ,傑阿德艾弓SPⅢ
 486,Jade Bow SPⅣ,弓翠SPⅣ
 487,Jade Bow SPⅤ,弓翠SPⅤ
 488,Jade Bow SPⅥ,弓翠SPⅥ
@@ -741,7 +741,7 @@ index,source,target
 739,Saphir Killy Ⅱ,藍寶石基利Ⅱ
 740,Saphir Killy Ⅲ,藍寶石基利Ⅲ
 741,Crimson Parasol SP,深紅陽傘SP
-742,Don Bow,弓堂
+742,Don Bow,堂弓
 743,Don Missile,堂姆伊斯斯伊勒艾
 744,Dodon Arch,德歐德歐恩強撃
 745,Dodon Crescent,德歐德歐恩克爾艾斯克艾恩特
@@ -753,10 +753,10 @@ index,source,target
 751,Tail Blaster,尾爆裂
 752,Melynx Bow,梅拉路弓
 753,"Melynx Bow ""Cat Veil""",梅拉路弓猫維艾伊勒
-754,Carmine Bow Ⅰ,弓緋紅Ⅰ
-755,Carmine Bow Ⅱ,弓緋紅Ⅱ
-756,Carmine Bow Ⅲ,弓緋紅Ⅲ
-757,Crimson Bow,弓深紅
+754,Carmine Bow Ⅰ,深紅弓Ⅰ
+755,Carmine Bow Ⅱ,深紅弓Ⅱ
+756,Carmine Bow Ⅲ,深紅弓Ⅲ
+757,Crimson Bow,深紅弓
 758,Perlenkugel,普艾爾勒艾恩克烏
 759,Perle Prima,普艾爾勒艾第一
 760,Perlengewehr,普艾爾勒艾恩格艾
@@ -782,8 +782,8 @@ index,source,target
 780,"Fanged Wolf Gun ""Sakura""",夫阿恩格艾德狼銃桜
 781,"Sky Wolf Gun ""Rainfall""",空狼銃爾阿伊恩夫阿勒勒
 782,"Sky Wolf Gun ""Monsoon""",空狼銃姆歐恩斯歐歐恩
-783,Annihilation Bow II,弓阿恩恩伊哈伊勒阿Ⅱ
-784,Khezu Bow VI,奇怪龍弓Ⅵ
+783,Annihilation Bow II,阿恩恩伊哈伊勒阿弓ⅠⅠ
+784,Khezu Bow VI,奇怪龍弓ⅤⅠ
 785,Lunar Bale,月巴勒
 786,Lunar Zien,月茲伊艾恩
 787,Lunar View,月維伊艾瓦
@@ -943,7 +943,7 @@ index,source,target
 941,Citrine Puffer Ⅳ,黄晶河豚Ⅳ
 942,Albatros Darkbolt Gun,阿勒布阿特爾歐斯闇雷銃
 943,True Canary Darkbolt Gun,真可娜里闇雷銃
-944,Cardo Bowgun,可多弩
+944,Cardo Bowgun,可多弩槍
 945,Cardo Felchia,可多夫艾勒克哈伊阿
 946,Rote Gerade,輪唱格拉德
 947,Heat Stock,熱槍托
@@ -979,15 +979,15 @@ index,source,target
 977,Super Clockwork Bow,弓超克勒歐克克瓦歐爾
 978,Crimson Fang,深紅之牙
 979,Crimson Tusk,深紅化抑制
-980,Crimson Horn,深紅之角
+980,Crimson Horn,深紅角
 981,Crimson Avenger,深紅阿維艾恩格艾爾
 982,Torment Fang,折磨之牙
 983,Torment Tusk,折磨化抑制
 984,Torment Horn,折磨之角
 985,Torment Avenger,折磨阿維艾恩格艾爾
-986,Blos I,角龍I
-987,Blos II,角龍Ⅱ
-988,Blos III,角龍Ⅲ
+986,Blos I,角龍Ⅰ
+987,Blos II,角龍ⅠⅠ
+988,Blos III,角龍ⅠⅠⅠ
 989,Fierce Blos,角龍猛
 990,Volpe Strada,狐斯拉達
 991,Volpe Labyrinth,狐勒阿布伊爾伊恩特
@@ -1004,9 +1004,9 @@ index,source,target
 1002,Mel Dean,姆艾勒德艾阿恩
 1003,Melissa Dean,姆艾勒伊斯斯阿德艾阿恩
 1004,Melody Dean,旋律德艾阿恩
-1005,Fury Lbg,憤怒輕弩
-1006,"Fury Lbg ""Seabreeze""",憤怒輕弩瑟阿布艾艾澤
-1007,"Fury Lbg ""Seagull""",憤怒輕弩斯艾阿格烏勒勒
+1005,Fury Lbg,憤怒之輕弩槍
+1006,"Fury Lbg ""Seabreeze""",憤怒之輕弩槍Seabreeze
+1007,"Fury Lbg ""Seagull""",憤怒之輕弩槍Seagull
 1008,Today's Cat Ten,特歐德阿伊S猫十
 1009,Today's Cat Ho,特歐德阿伊S猫HO
 1010,Today's Cat San,特歐德阿伊S猫沸血吼
@@ -1031,9 +1031,9 @@ index,source,target
 1029,Initial Roar,伊恩伊特伊阿勒轟鳴
 1030,Grime Roar,格伊梅轟鳴
 1031,Rising Roar,里西恩轟鳴
-1032,Fury Hbg,憤怒重弩
-1033,"Fury Hbg ""Pieridae""",憤怒重弩皮艾里達艾
-1034,"Fury Hbg ""White Dew""",憤怒重弩白德艾瓦
+1032,Fury Hbg,憤怒之重弩槍
+1033,"Fury Hbg ""Pieridae""",憤怒之重弩槍Pieridae
+1034,"Fury Hbg ""White Dew""",憤怒之重弩槍White Dew
 1035,Desert Ruler,砂漠爾烏勒艾爾
 1036,Desert Ruler+,砂漠爾烏勒艾爾＋
 1037,Diablos Cannon,角龍加農砲
@@ -1062,7 +1062,7 @@ index,source,target
 1060,Marquis Launcher,姆阿爾奎烏伊斯發射器
 1061,Teo's Flame,炎王S焔
 1062,Teo's Inferno,炎王S業火
-1063,Feather Bow,弓之羽
+1063,Feather Bow,羽弓
 1064,Feather Hood,兜帽之羽
 1065,Feather Crow,羽克爾歐瓦
 1066,Feather Crescent,羽克爾艾斯克艾恩特
@@ -1090,7 +1090,7 @@ index,source,target
 1088,Plasma Rook,普勒阿斯姆阿城堡
 1089,Thunder Rook,雷城堡
 1090,Lightning Rook,雷城堡
-1091,Cardo Bow,弓可多
+1091,Cardo Bow,可多弓
 1092,Cardo Rook,可多城堡
 1093,Cardo Arc,可多阿爾克
 1094,Rote Mistel,輪唱姆伊斯特艾勒
@@ -1135,11 +1135,11 @@ index,source,target
 1133,Himeka Battler,希梅可布阿特特勒艾爾
 1134,6E04・ヒメカ・ボドゥラ,6E04・姫佳・博杜拉
 1135,6F04・ヒメカ・マドゥラ,6F04・姫佳・馬杜拉
-1136,Fury Bow,憤怒弓
-1137,"Fury Bow ""Night Fog""",憤怒弓夜霧
-1138,"Fury Bow ""Ice Rain""",憤怒弓氷雨
-1139,"Fury Bow ""Blizzard""",憤怒弓吹雪
-1140,"Fury Bow ""Winter""",憤怒弓冬
+1136,Fury Bow,憤怒之弓
+1137,"Fury Bow ""Night Fog""",憤怒之弓Night Fog
+1138,"Fury Bow ""Ice Rain""",憤怒之弓Ice Rain
+1139,"Fury Bow ""Blizzard""",憤怒之弓Blizzard
+1140,"Fury Bow ""Winter""",憤怒之弓Winter
 1141,Breath Scissor,息之鋏
 1142,Sigh Scissor,斯伊格哈鋏
 1143,Gasp Scissor,格阿斯普鋏
@@ -1201,10 +1201,10 @@ index,source,target
 1199,"Thndrclap Bow""Lightning""",弓特哈恩德爾克勒阿雷
 1200,"Thunderclap Bow ""Bolt""",弓特哈烏恩德艾爾克雷
 1201,"Thunderclap Bow ""Glint""",弓特哈烏恩德艾爾克格勒伊恩特
-1202,Black Bow,弓黒
-1203,"Black Bow ""Evening""",弓黑艾維尼恩
-1204,"Black Bow ""Night""",弓黒夜
-1205,"Black Bow ""Eternity""",弓黑艾特艾爾恩伊特伊
+1202,Black Bow,黒弓
+1203,"Black Bow ""Evening""",黒弓Evening
+1204,"Black Bow ""Night""",黒弓Night
+1205,"Black Bow ""Eternity""",黒弓Eternity
 1206,Enki Frostbow,恩奇霜弓
 1207,Enki Fierce Frostbow,恩奇猛霜弓
 1208,Enki Violent Frostbow,恩奇凶暴霜弓
@@ -1327,17 +1327,17 @@ index,source,target
 1325,Vashimu Arrow,尾晶蠍矢
 1326,Vashimu Shot,尾晶蠍弾
 1327,Vashimu Blaster,尾晶蠍爆裂
-1328,"Black Bow ""Mist""",弓黒霧
+1328,"Black Bow ""Mist""",黒弓Mist
 1329,"Deep Sea Bow ""Ryugu""",弓深海里烏古
 1330,Heart Shot Bow III,弓心弾Ⅲ
-1331,"Dragon Bow ""Ruins""",龍弓爾烏伊恩斯
+1331,"Dragon Bow ""Ruins""",龍弓Ruins
 1332,Fortea Flatus,夫歐爾特艾阿夫勒阿特烏斯
 1333,3505・アートルマテリア,3505・阿托魯瑪特里阿
 1334,Taikun Cannon,多殼蟹加農砲
 1335,"TaikunCannon""Aspidistra""",多殼蟹加農砲阿斯普伊德伊斯特
-1336,"Taikun Cannon ""Gunnera""",多殼蟹加農砲格烏恩恩艾爾阿
+1336,"Taikun Cannon ""Gunnera""",多殼蟹加農砲Gunnera
 1337,"Taikannon ""Dysosma""",特阿伊克阿恩恩歐德伊斯歐斯姆阿
-1338,"Fury Hbg ""Sakura"" SP",憤怒重弩桜ＳＰ
+1338,"Fury Hbg ""Sakura"" SP",憤怒之重弩槍SakuraSP
 1339,Lava Breath Heavy Bowgun,熔岩息重弩
 1340,Lava Voice Heavy Bowgun,熔岩聲重弩
 1341,Lava Song Heavy Bowun,熔岩歌重布歐瓦烏恩
@@ -1372,10 +1372,10 @@ index,source,target
 1370,Adlerklinge,阿德勒艾爾克勒伊
 1371,Himmel Level,哈伊姆姆艾勒等級
 1372,Blitz Level,布勒伊特茲等級
-1373,Frost Bow,弓霜
-1374,"Frost Bow ""Cold Wave""",弓霜耐寒瓦維
-1375,"Frost Bow ""Ice Flower""",弓霜氷花
-1376,"Frost Bow ""Northwind""",弓霜恩歐爾特哈瓦伊恩
+1373,Frost Bow,霜弓
+1374,"Frost Bow ""Cold Wave""",霜弓Cold Wave
+1375,"Frost Bow ""Ice Flower""",霜弓Ice Flower
+1376,"Frost Bow ""Northwind""",霜弓Northwind
 1377,Durodia,杜羅迪阿
 1378,Cordurodia,克歐爾德烏爾歐德
 1379,Podurodia,波杜羅迪阿
@@ -1408,8 +1408,8 @@ index,source,target
 1406,Schwarzsturm,斯克哈瓦阿爾茲斯
 1407,VLS-9700α,維勒斯９７００α
 1408,Schwarztraene,斯克哈瓦阿爾茲特
-1409,"Black Bow ""Darkness""",弓黑德阿爾克恩艾斯斯
-1410,Crystal Heavy Bowgun,結晶重弩
+1409,"Black Bow ""Darkness""",黒弓Darkness
+1410,Crystal Heavy Bowgun,結晶重弩槍
 1411,Lucent Crystal Hbg,重弩勒烏克艾恩特結晶
 1412,Flash Crystal Hbg,重弩閃光結晶
 1413,ダミー,假
@@ -1447,8 +1447,8 @@ index,source,target
 1445,Reckless Wildboar Flail,爾艾克克勒艾斯斯瓦伊勒德布歐阿爾鎖鎚
 1446,Violent Wildboar Gun,凶暴瓦伊勒德布歐阿爾銃
 1447,ダミー,假
-1448,"Fury Lbg ""Verdure""SP",憤怒輕弩維艾爾德烏爾艾SP
-1449,Aurora Bowgun,極光弩
+1448,"Fury Lbg ""Verdure""SP",憤怒之輕弩槍VerdureSP
+1449,Aurora Bowgun,極光弩槍
 1450,AA05・オーロワフェキア,AA05・歐羅瓦
 1451,Goldgerade,格歐勒德格艾爾阿
 1452,Goldlinie,格歐勒德勒伊恩伊
@@ -1487,7 +1487,7 @@ index,source,target
 1485,Jebia Shot,灰晶蠍弾
 1486,Jebia Blaster,灰晶蠍爆裂
 1487,Jebia Buster,灰晶蠍破壞
-1488,Aurora Bow,弓極光
+1488,Aurora Bow,極光弓
 1489,Aurora Rook,極光城堡
 1490,Goldmistel,格歐勒德姆伊斯特
 1491,Goldkapitel,格歐勒德克阿普伊
@@ -1495,7 +1495,7 @@ index,source,target
 1493,Lunar Volar,月維歐勒阿爾
 1494,Lunar Saltar,月斯阿勒特阿爾
 1495,D705・オステオン・パウーク,D705・歐斯烏特艾歐恩・KU
-1496,Amicus Arrow,阿姆伊克烏斯矢
+1496,Amicus Arrow,摯友矢
 1497,"Indigo bow ""Winter""",弓藍冬
 1498,Rush Bow,弓突進
 1499,Excellent Bow,弓艾克斯克艾勒勒艾
@@ -1531,8 +1531,8 @@ index,source,target
 1529,Flashing Crystal Hbg,重弩閃結晶
 1530,Shining Crystal Hbg,重弩輝耀結晶
 1531,True Floating Peak Gun,真浮游普艾阿克銃
-1532,Lovely Bowgun,可愛弩
-1533,Lovely Bowgun+,可愛弩＋
+1532,Lovely Bowgun,可愛弩槍
+1533,Lovely Bowgun+,可愛弩槍＋
 1534,Lovely Impact,可愛伊姆普阿克特
 1535,Lovely Heart,可愛心
 1536,Epidosis Bowgun I,艾皮多西斯弩槍Ⅰ
@@ -1557,8 +1557,8 @@ index,source,target
 1555,Grande Amore,宏偉阿莫雷
 1556,Leben Rose,勒艾布艾恩薔薇
 1557,Taikun Bow,多殼蟹弓
-1558,"Taikun Bow ""Coix""",多殼蟹弓科伊克斯
-1559,"Taikun Bow ""Pennisetum""",多殼蟹弓普艾恩恩伊斯艾特
+1558,"Taikun Bow ""Coix""",多殼蟹弓Coix
+1559,"Taikun Bow ""Pennisetum""",多殼蟹弓Pennisetum
 1560,"Great Taikun Bow ""Briza""",多殼蟹大弓布伊扎
 1561,"Great Taikun Bow ""Ubume""",多殼蟹大弓烏布梅
 1562,Daora's Gurua,崩龍S古魯阿
@@ -1586,7 +1586,7 @@ index,source,target
 1584,Koro Shooter,小射手
 1585,Ukoba Shooter,烏科巴射手
 1586,Sulfur Shooter,硫黄射手
-1587,Rubino Raven VI,紅玉渡鴉Ⅵ
+1587,Rubino Raven VI,紅玉渡鴉ⅤⅠ
 1588,ダミー,假
 1589,ダミー,假
 1590,ダミー,假
@@ -1674,7 +1674,7 @@ index,source,target
 1672,Pile Ⅲ,皮勒Ⅲ
 1673,Pile Ⅳ,皮勒Ⅳ
 1674,Pile Atus,皮勒阿特烏斯
-1675,Infinity Bowgun,伊恩夫伊恩伊特伊弩
+1675,Infinity Bowgun,無限弩槍
 1676,Awis Bowgun,阿維斯弩槍
 1677,Vola Bowgun,沃拉弩槍
 1678,Strafe Chista,斯拉菲奇伊斯阿
@@ -1700,16 +1700,16 @@ index,source,target
 1698,Fake Projection Ⅲ,偽投影Ⅲ
 1699,Fake Projection Ⅳ,偽投影Ⅳ
 1700,Fake Projection Ⅴ,偽投影Ⅴ
-1701,Infinity Bow,弓伊恩夫伊恩伊特伊
+1701,Infinity Bow,無限弓
 1702,Awis Shooter,阿維斯射手
 1703,Vola Bow,沃拉弓
 1704,Cyprelaval,克伊普爾艾勒阿維
 1705,Belumbal SP,布艾勒烏姆布阿勒SP
 1706,Trembal,特爾艾姆布阿勒
-1707,Shipler Bowgun,斯哈伊普勒艾爾弩
+1707,Shipler Bowgun,斯哈伊普勒艾爾弩槍
 1708,Dark Curtain Bowgun SP,闇毛毒怪弩ＳＰ
 1709,Tremor Bowgun,震動弩
-1710,Shipler Bow,弓斯哈伊普勒艾爾
+1710,Shipler Bow,斯哈伊普勒艾爾弓
 1711,Velum Bow SPⅠ,弓維艾勒烏姆ＳＰⅠ
 1712,Velum Bow SPⅣ,弓維艾勒烏姆ＳＰⅣ
 1713,Velum Bow SPⅦ,弓維艾勒烏姆ＳＰⅦ
@@ -1717,7 +1717,7 @@ index,source,target
 1715,ダミー,假
 1716,ダミー,假
 1717,Bird Wyvern Bow,弓鳥飛龍
-1718,Kut-Ku Launcher,庫庫發射器
+1718,Kut-Ku Launcher,怪鳥發射器
 1719,BB Kut-Ku Heavy Bowgun,BB庫庫重弩
 1720,Asta Arc,阿斯阿阿爾克
 1721,Iron Bowgun,鐵弩槍
@@ -1743,11 +1743,11 @@ index,source,target
 1741,Lightning Bow,雷光弓
 1742,Lightning Cannon,雷光加農砲
 1743,Lightning Turret,雷特烏爾爾艾特
-1744,Meteor Bow,弓流星
+1744,Meteor Bow,流星弓
 1745,Los Jam,火龍牙血鐵
 1746,Lio Pain Storm,利歐普阿伊恩風暴
 1747,Liuge Arrow,利烏格矢
-1748,Liuge Bowgun,利烏格弩
+1748,Liuge Bowgun,利烏格弩槍
 1749,Liuge Cannon,利烏格加農砲
 1750,"Burstwolf Bow ""Attack""",爆狼弓攻撃
 1751,ダミー,假
@@ -1789,7 +1789,7 @@ index,source,target
 1787,Nebula Mortar,星雲臼
 1788,"Alpha Canis""Frozen Soil""",α克阿恩伊斯凍結土
 1789,"Alpha Canis ""Moonless""",α克阿恩伊斯姆歐歐恩勒艾斯斯
-1790,Immortal Carbine,不死可賓
+1790,Immortal Carbine,不死可賓槍
 1791,Immortal Cannon,不死加農砲
 1792,Immortal Burst,不死爆
 1793,Immortal Assault,不死強襲
@@ -1864,7 +1864,7 @@ index,source,target
 1862,Tita Ducha,泰坦杜奇阿
 1863,Tita L. Arc,泰坦L弧弓
 1864,Dodonga Note,多多恩阿音符
-1865,"Fury Bow ""Blossom""",憤怒弓布勒歐斯斯歐姆
+1865,"Fury Bow ""Blossom""",憤怒之弓Blossom
 1866,Daora's Anguilon,崩龍S阿恩格烏伊勒歐恩
 1867,True Pheonix Dance Bow,弓真菲艾歐尼克斯舞
 1868,Tita Despeed,泰坦德艾斯普艾艾德
@@ -1877,7 +1877,7 @@ index,source,target
 1875,Saw-Tooth Blaster,斯阿瓦齒爆裂
 1876,Galvalist,格阿勒維阿勒伊斯
 1877,Vashimu Mortar,尾晶蠍臼
-1878,Barbarian Cannon,布阿爾布阿爾伊阿加農砲
+1878,Barbarian Cannon,蠻加農砲
 1879,5707・ネヴェアンカーネ,5707・恩艾維艾阿恩克阿
 1880,Negative Thunderpole Gun,涅加提維特哈烏恩德艾爾普銃
 1881,Tita Hurricane,泰坦哈烏爾爾伊克阿恩
@@ -1891,7 +1891,7 @@ index,source,target
 1889,Ten-Thousand Volts,十特哈歐烏斯阿恩德維歐勒特斯
 1890,Garuga Howl,黑狼鳥哈歐瓦勒
 1891,Vashimu Schwanz,尾晶蠍斯克哈瓦阿恩茲
-1892,Barbarian Gun,布阿爾布阿爾伊阿銃
+1892,Barbarian Gun,蠻銃
 1893,6507・ネヴェアドロル,6507・涅維阿多羅魯
 1894,Tita Bestie,泰坦貝斯伊艾
 1895,Earl Felsen,艾阿爾勒夫艾勒斯艾恩
@@ -1902,7 +1902,7 @@ index,source,target
 1900,Lion's Claw Bow,弓勒伊歐恩S爪
 1901,Bright Night,輝夜
 1902,6E07・ヴェアレイター,6E07・維阿雷伊塔
-1903,Barbarian Bow,弓布阿爾布阿爾伊阿
+1903,Barbarian Bow,蠻弓
 1904,Neve Argen,涅維銀白
 1905,Frozen Calamity Bow,弓凍結努波奇
 1906,Steel Razor Bow,弓鋼爾阿茲歐爾
@@ -1967,7 +1967,7 @@ index,source,target
 1965,ダミー,假
 1966,ダミー,假
 1967,ダミー,假
-1968,Black Bow,弓黒
+1968,Black Bow,黒弓
 1969,Croix Bogen,弓終極征
 1970,Croix Arch,終極征強撃
 1971,Croix Arc,終極征阿爾克
@@ -2213,7 +2213,7 @@ index,source,target
 2211,Para Bloodeating Gun,麻痺噬血銃
 2212,Toxic Bloodeating Gun,毒噬血銃
 2213,Bloodeating Bow,弓噬血
-2214,Blooddrinking Bow,弓布勒歐歐德德爾伊
+2214,Blooddrinking Bow,布勒歐歐德德爾伊弓
 2215,Para Bloodeating Bow,麻痺噬血弓
 2216,Toxic Bloodeating Bow,毒噬血弓
 2217,Core Summit,核斯烏姆姆伊特
@@ -3187,9 +3187,9 @@ index,source,target
 3185,"Diregun ""Dementia""",德伊爾艾格烏恩德艾姆艾恩特伊阿
 3186,Dios Blast,爆破迪奧
 3187,Lightbreak Ballista,勒伊格哈特布爾艾床弩
-3188,Dios Cannon,迪奧加農砲
+3188,Dios Cannon,狄奧斯加農砲
 3189,Lightbreak Cannon,勒伊格哈特布爾艾加農砲
-3190,Dios Arrow,迪奧矢
+3190,Dios Arrow,狄奧斯矢
 3191,Exploding Arrow,艾克斯普勒歐德伊矢
 3192,Lightbreak Arrow,勒伊格哈特布爾艾矢
 3193,Shira Arccoil+,抑制螺阿爾克克歐伊勒＋
@@ -3345,9 +3345,9 @@ index,source,target
 3343,Night Owl,夜歐瓦勒
 3344,Hidden Sniper,隠姆努波
 3345,Black Night,黒夜
-3346,Hidden Bow,弓隠
+3346,Hidden Bow,隠弓
 3347,Night Flight,夜夫勒伊格哈特
-3348,Avidya Bow,弓阿維伊德伊阿
+3348,Avidya Bow,阿維伊德伊阿弓
 3349,Imperial Cannon,帝國加農砲
 3350,Imperial Grace Cannon,帝國恩寵加農砲
 3351,Imperial Dignity Cannon,帝國德伊格恩伊特伊加農砲
@@ -3355,7 +3355,7 @@ index,source,target
 3353,Imperial Presence Cannon,帝國普爾艾斯艾恩克艾加農砲
 3354,Imperial Sanctity Cannon,帝國斯阿恩克特伊特伊加農砲
 3355,Imperial Guardian Cannon,帝國守護加農砲
-3356,Imperial Bow,弓帝國
+3356,Imperial Bow,帝國弓
 3357,Imperial Authority Bow,弓帝國阿烏特哈歐爾伊特
 3358,Imperial Power Bow,弓帝國力量
 3359,Imperial Influence Bow,弓帝國伊恩夫勒烏艾恩克
@@ -3945,10 +3945,10 @@ index,source,target
 3943,"Torid Bow ""Skyes""",照雷鳥弓斯克伊艾斯
 3944,"Torid Bow ""Heaven""",照雷鳥弓天
 3945,"Torid Bow ""Funi""",照雷鳥弓芙尼
-3946,"Dark Launcher ""Saxicola""",闇發射器薩克斯伊科拉
-3947,"Dark Launcher ""Ficedula""",闇發射器菲瑟杜拉
-3948,"Dark Launcher ""Auroreus""",闇發射器阿烏爾歐爾艾烏斯
-3949,"Dark Launcher ""Tarsiger""",闇發射器特阿爾斯伊格艾爾
+3946,"Dark Launcher ""Saxicola""",闇發射器Saxicola
+3947,"Dark Launcher ""Ficedula""",闇發射器Ficedula
+3948,"Dark Launcher ""Auroreus""",闇發射器Auroreus
+3949,"Dark Launcher ""Tarsiger""",闇發射器Tarsiger
 3950,Ravina Arrow,拉維娜矢
 3951,Ravina Arrow+,拉維娜矢＋
 3952,True Ravina Arrow,真拉維娜矢
@@ -4109,11 +4109,11 @@ index,source,target
 4107,Goru Cannon Ⅰ,戈魯加農砲Ⅰ
 4108,Goru Cannon Ⅱ,戈魯加農砲Ⅱ
 4109,Goru Cannon Ⅲ,戈魯加農砲Ⅲ
-4110,"Goru Cannon ""Zero""",戈魯加農砲零
+4110,"Goru Cannon ""Zero""",戈魯加農砲Zero
 4111,Aru Cannon Ⅰ,阿魯加農砲Ⅰ
 4112,Aru Cannon Ⅱ,阿魯加農砲Ⅱ
 4113,Aru Cannon Ⅲ,阿魯加農砲Ⅲ
-4114,"Aru Cannon ""Zero""",阿魯加農砲零
+4114,"Aru Cannon ""Zero""",阿魯加農砲Zero
 4115,Barrel Rapidcannon Ⅰ,桶爾阿普伊德克阿恩Ⅰ
 4116,Barrel Rapidcannon Ⅱ,桶爾阿普伊德克阿恩Ⅱ
 4117,Barrel Rapidcannon Ⅲ,桶爾阿普伊德克阿恩Ⅲ
@@ -4149,14 +4149,14 @@ index,source,target
 4147,"Lethe Rifle ""Anarchy""",忘川里弗艾阿恩阿爾克哈伊
 4148,"Lethe Rifle ""Desire""",忘川里弗艾德西雷
 4149,"Lethe Rifle ""Jurojin""",忘川里弗艾杰烏爾歐杰伊恩
-4150,Lethe Cannon,勒忒加農砲
-4151,"Lethe Cannon ""Anarchy""",勒忒加農砲無序
-4152,"Lethe Cannon ""Desire""",勒忒加農砲Desire
-4153,"Lethe Cannon ""Marici""",勒忒加農砲Marici
-4154,Lethe Arrow,勒忒矢
-4155,"Lethe Arrow ""Anarchy""",勒忒矢無序
-4156,"Lethe Arrow ""Desire""",勒忒矢Desire
-4157,"Lethe Arrow ""Fukurokuju""",勒忒矢Fukurokuju
+4150,Lethe Cannon,勒特加農砲
+4151,"Lethe Cannon ""Anarchy""",勒特加農砲無序
+4152,"Lethe Cannon ""Desire""",勒特加農砲Desire
+4153,"Lethe Cannon ""Marici""",勒特加農砲Marici
+4154,Lethe Arrow,勒特矢
+4155,"Lethe Arrow ""Anarchy""",勒特矢無序
+4156,"Lethe Arrow ""Desire""",勒特矢Desire
+4157,"Lethe Arrow ""Fukurokuju""",勒特矢Fukurokuju
 4158,"Enrapture Gun ""Intro""",狂喜銃序
 4159,"Enrapture Gun ""Chorus""",狂喜銃合唱
 4160,"Enrapture Gun ""Encore""",狂喜銃艾恩克歐爾艾

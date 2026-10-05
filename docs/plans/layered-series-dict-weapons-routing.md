@@ -21,15 +21,19 @@
 1. `scan_weapon_stem_tiers.py` → `weapon_stem_tiers.tsv`  
 2. `type-dict.md` **定稿**；`series-dict-all.md` 全 stem
 
-## P1（S+A 完成）
+## P1（S+A+B 完成）
 
-- `build_weapon_series_dict_sa.py` → `series-dict.tsv`（47 列）
-- `fill_weapon_stem_tiers_category.py` 標 category
+- `build_weapon_series_dict_tiers.py` → `series-dict.tsv`（923 列；定稿 648；pending 275）
+- `fill_weapon_stem_tiers_category.py` 標 S/A/B category
 
-## P2（部分）
+## P2（定稿 stem）
 
-- `apply_weapon_series_dict.py`：僅 S+A 定稿 stem 改 CSV；B/C 沿用現譯
+- `apply_weapon_series_dict.py` + `charset_apply`；C tier 不進字典、不洗表
+
+## P3
+
+- `validate_working.py` PASS；`qa_weapon_series_dict.py`
 
 ## 待辦
 
-- B/C 批次 P1；P3b；人審後回寫本體
+- C tier（13660）維持現譯；P3b wash；回寫 mhfdat

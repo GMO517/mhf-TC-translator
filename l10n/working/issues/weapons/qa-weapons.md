@@ -1,25 +1,34 @@
-# 武器 series-dict 分層 QA（進行中）
+# 武器 series-dict 分層 QA
 
-> 2026-10-05：type-dict 定稿；P0 重掃；**P1 S+A=47** 入 `series-dict.tsv`；P2 套用（僅已定稿 stem）。
+> 2026-10-05：type-dict 定稿；P0 重掃（14583 stems）；P1 **S+A+B=923** 列（定稿 **648**｜待查 **275**）；P2 套用＋charset；P3 機械 QA。
 
 ## P0
 
-- `weapon_stem_tiers.tsv`：stems **14583**（S=3 A=44）
-- 人審全表：`series-dict-all.md`
+- `weapon_stem_tiers.tsv`：S=3 A=44 B=876 C=13660
+- `series-dict-all.md`：全 stem 索引（無 zh）
 
-## P1（S+A）
+## P1
 
-- 字典列：**47**｜待查：**0**
+- `series-dict.tsv`：923 列（S+A+B）
+- 定稿可套用：**648**（armor／infer／manual）
+- **275** pending（B tier 無反推；不套用）
 - category：見 `series-dict.md`
 
-## P2 套用
+## P2
 
-- `apply_weapon_series_dict.py`（scratch）
-- 近戰＋遠程合計改寫列：約 **2528**（僅 stem 命中 S+A 字典者；其餘保留原 target）
+- `apply_weapon_series_dict.py` + `charset_apply.to_display`
+- 字典命中列已與 compose 對齊（`qa-series-apply-hits.tsv` mismatches **≤2** 待修）
+
+## P3
+
 - `validate_working.py` weapons-melee-name／weapons-ranged-name：**PASS**
+- `qa_weapon_series_dict.py`：字典命中列一致性掃描
 
-## 待辦
+## 範圍外（plan 明訂）
 
-- B/C 詞幹：不洗表；逐批 P1 或沿用現譯
-- P3b 語意抽核（高頻 wash）— 未跑
-- **未**回寫 mhfdat
+- **C tier**（13660 stems）：不 P1 全表；保留現譯
+- P3b 語意 wash、mhfdat 回寫：未做
+
+## 狀態
+
+- progress：**in_progress**（分層主線 S+A+B 完成；C 未收斂）

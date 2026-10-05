@@ -63,9 +63,9 @@ index,source,target
 61,Blue Head Hammer,大錘之青頭
 62,Twin Blos Hammer,角龍球紋章大錘
 63,Iron Impact,鐵衝撃
-64,Spike Hammer,大錘之棘
-65,Spike Hammer+,大錘之棘＋
-66,Crystal Hammer,大錘結晶
+64,Spike Hammer,棘大錘
+65,Spike Hammer+,棘大錘＋
+66,Crystal Hammer,結晶大錘
 67,Crystal Nova,結晶新星
 68,Anvil Hammer,大錘鐵砧
 69,Venom Monster,毒魔物
@@ -91,12 +91,12 @@ index,source,target
 89,Blos Tail,角龍之尾
 90,Jail Hammer,大錘監獄
 91,Jadeite Mace,翡翠鎚
-92,Jade Mace,翠鎚
+92,Jade Mace,傑阿德艾鎚
 93,Proto Gun Hammer,大錘原型銃
 94,Deadly Revolver,致死左輪
-95,Rusted Hammer,大錘錆
-96,Tarnished Hammer,大錘失色
-97,Steel Ice Hammer,大錘鋼氷
+95,Rusted Hammer,錆大錘
+96,Tarnished Hammer,失色大錘
+97,Steel Ice Hammer,鋼氷大錘
 98,Breath Core Hammer,大錘息核
 99,Bone Clump,骨製塊
 100,Lrg Bone Clump,大骨塊
@@ -114,7 +114,7 @@ index,source,target
 112,Iron Devil,鐵惡魔
 113,Iron Gunlance+,鐵銃槍＋
 114,Special Ops Gunlance,銃槍特殊作戰
-115,Dark Lance,長槍闇
+115,Dark Lance,闇長槍
 116,Silver Rook,銀城堡
 117,Dark Squire,闇侍從
 118,Paralyzer,麻痺者
@@ -125,21 +125,21 @@ index,source,target
 123,Aqua Spear,水槍
 124,Luna's Roar,咆哮月神S
 125,Lullaby Spear,搖籃曲槍
-126,White Gunlance,銃槍白
+126,White Gunlance,白銃槍
 127,Bone Lance,骨製長槍
 128,Bone Lance+,骨製長槍＋
 129,Long Horn,長之角
-130,Black Cannon,黑加農砲
+130,Black Cannon,黒加農砲
 131,Long Tusk,長化抑制
 132,Barbarian Tusk,蠻化抑制
 133,Hellsting,地獄刺
 134,Hard Heater,硬熱
 135,Ogre Lance,長槍食人
 136,Red Tail,赤之尾
-137,Scissor Gunlance,銃槍之鋏
-138,Dragonwood Gunlance,銃槍龍木
+137,Scissor Gunlance,鋏銃槍
+138,Dragonwood Gunlance,龍木銃槍
 139,Diablo Horn,魔之角
-140,Emerald Spear,緑寶石槍
+140,Emerald Spear,祖母緑槍
 141,Diablo Spear,魔槍
 142,Bone Claw Lance,骨製爪長槍
 143,Crimson War Pike,深紅戦槍
@@ -149,12 +149,12 @@ index,source,target
 147,Gravios Spear,鎧龍槍
 148,Gatling Lance,長槍加特林
 149,Gatling Lance+,長槍加特林＋
-150,Rusted Lance,長槍錆
-151,Tarnished Lance,長槍失色
+150,Rusted Lance,錆長槍
+151,Tarnished Lance,失色長槍
 152,Kizami Stinger,刻刺
 153,Undertaker,送葬者
 154,Dragon Lance,龍長槍
-155,Demon Lance,長槍惡魔
+155,Demon Lance,惡魔長槍
 156,Hunter Knife,獵人刀
 157,Hunter Knife+,獵人刀＋
 158,Hunting Dagger,狩短劍
@@ -287,7 +287,7 @@ index,source,target
 285,Devil Slicer,惡魔斬撃
 286,Chrome Death Razor,鍍死剃刀
 287,Eternal Eradicator,永螺鈿終
-288,Black Belt Blade,黒腰帶刃
+288,Black Belt Blade,黑帶刃
 289,Expert Blade,達人刃
 290,Worn Greatsword,旧大劍
 291,Weathered Great Swd,風化大劍
@@ -303,20 +303,20 @@ index,source,target
 301,War Basher,WＲＢSH老Ｒ
 302,Metal Bagpipe,金風笛
 303,Dragon Demolisher,龍破
-304,Khezu Horn,奇怪龍之角
+304,Khezu Horn,奇怪龍角
 305,Kut-Ku Pick,怪鳥証明球
 306,Great Nova,偉大新星
 307,Blessed Ocarina,祝福陶笛
-308,Black Belt Hammer,大錘黒腰帶
-309,Expert Hammer,大錘達人
-310,Worn Hammer,大錘旧
+308,Black Belt Hammer,黑帶大錘
+309,Expert Hammer,達人大錘
+310,Worn Hammer,旧大錘
 311,Weathered Hammer,大錘風化
 312,Blessed Ocarina+,祝福陶笛＋
 313,Pulsating Core,布爾霧核
 314,War Bongo,戦鼓
 315,Blood Horn,血之角
 316,Bronze Bell,青銅鈴
-317,Dragonwood Horn,龍木之角
+317,Dragonwood Horn,龍木角
 318,Dark,闇
 319,Sanctioned Gunlance,銃槍公認
 320,Dragon Rider Spear,龍騎手槍
@@ -329,8 +329,8 @@ index,source,target
 327,Blue Prominence,青日珥
 328,Thunderspear,雷矛
 329,Black Gravios Spear,鎧龍黒槍
-330,Black Belt Lance,長槍黒腰帶
-331,Expert Lance,長槍達人
+330,Black Belt Lance,黑帶長槍
+331,Expert Lance,達人長槍
 332,Worn Spear,旧槍
 333,Weathered Spear,風化槍
 334,Teostra's Howl,炎王龍S咆哮
@@ -352,7 +352,7 @@ index,source,target
 350,Sandman Spike,睡魔之棘
 351,High Sandman Spike,上位睡魔之棘
 352,Melynx Tool,梅拉路具
-353,Black Belt Sword,黒腰帶劍
+353,Black Belt Sword,黑帶劍
 354,Expert Sword,達人劍
 355,Hi Ninja Sword,上位忍者劍
 356,Thor's Dagger,雷神S短劍
@@ -410,7 +410,7 @@ index,source,target
 408,Black Gore Cannon,黑血加農砲
 409,Gun Chariot,銃戦車
 410,Gld Dragonwood GLance,金龍木Ｇ槍
-411,Imperial Gunlance,銃槍帝國
+411,Imperial Gunlance,帝國銃槍
 412,Great Scissor,偉大之鋏
 413,King Thundersword,王雷劍
 414,Doara's Decimator,多阿拉殲
@@ -446,7 +446,7 @@ index,source,target
 444,Thunderlance,雷長槍
 445,Teostra's Roar,炎王龍S咆哮
 446,Eternal Instant,永恆瞬
-447,Emerald Spear+,緑寶石槍＋
+447,Emerald Spear+,祖母緑槍＋
 448,Strategic Blade,戰略刃
 449,Black Doom Flame,黑毀滅焔
 450,Queen Rapier,女王細劍
@@ -487,12 +487,12 @@ index,source,target
 485,Great Ogre Tusk,大食人化抑制
 486,Crimson Beta Knife,深紅β刀
 487,Azure Beta Knife,蒼β刀
-488,Acorn Stick,橡棍
+488,Acorn Stick,橡棒
 489,Double Beta,双β
-490,Crystal Great Sword,結晶偉大劍
+490,Crystal Great Sword,結晶大劍
 491,Inclusion,包容
 492,Flawless,無瑕
-493,Acorn Rod,橡棒
+493,Acorn Rod,橡杖
 494,Fairness,FIＲN老SS
 495,Sleepyball,眠球
 496,Sleepyball,眠球
@@ -535,11 +535,11 @@ index,source,target
 533,Glistening Edge,閃端
 534,Capillary Lance,毛細槍
 535,Dripping Lance,滴槍
-536,Crystal Lance,長槍結晶
+536,Crystal Lance,結晶長槍
 537,Cold Lance,長槍耐寒
-538,Frost Lance,長槍霜
+538,Frost Lance,霜長槍
 539,Ice Hammer,冰大錘
-540,Frozen Hammer,大錘凍結
+540,Frozen Hammer,凍結大錘
 541,Bone Axe+,骨製斧＋
 542,Velociprey Balloon,藍速气球
 543,Velociprey Balloon+,藍速气球＋
@@ -653,12 +653,12 @@ index,source,target
 651,Yggdrasil,世界樹
 652,Monoblospire,姆歐恩歐布勒歐斯
 653,Nidhoggr,屍龍
-654,Jade Lance,長槍翡翠
+654,Jade Lance,傑阿德艾長槍
 655,Dragon Knight Spear,龍騎士槍
 656,Angry Horn,怒之角
 657,Raging Horn,拉吉恩之角
 658,Vendetta,Ｖ老NＤ老TT
-659,Crimson Gunlance,銃槍深紅
+659,Crimson Gunlance,深紅銃槍
 660,Burn Gunlance,銃槍焼
 661,Heat Blaster,熱爆裂
 662,Lava Geyser,熔格艾伊斯艾爾
@@ -673,8 +673,8 @@ index,source,target
 671,Type 10 Mechlance,型10機械長槍
 672,Type 16 Mechlance,型16機械長槍
 673,Extention,艾克斯特艾恩特伊
-674,Flame Gunlance,銃槍炎
-675,Wild Gunlance,銃槍野
+674,Flame Gunlance,炎銃槍
+675,Wild Gunlance,狂野銃槍
 676,Variant Gunlance,銃槍維阿爾伊阿恩特
 677,War Cry,戦哭
 678,Machalite Impact,瑪奇阿利特衝撃
@@ -687,7 +687,7 @@ index,source,target
 685,Great Bone Axe,偉大骨斧
 686,Brutus Axe,布爾烏特烏斯斧
 687,Riot,紫黑鍵
-688,Crab Hammer,大錘蟹
+688,Crab Hammer,蟹大錘
 689,Hydro Hammer,大錘努波奇
 690,Blue Hammer,大錘青
 691,Aquarian Hammer,大錘阿奎烏阿爾伊阿恩
@@ -708,7 +708,7 @@ index,source,target
 706,Tigrex Sword,轟龍劍
 707,Mighty Emperor's Rod,姆伊格哈特伊帝S棒
 708,Rex Slicers,可雷托切
-709,Tigrex Claws,轟龍之爪
+709,Tigrex Claws,轟龍爪
 710,Akantor Blades,霸龍刃
 711,Les Hecate,勒艾斯赫可特
 712,Hecate's Nails,赫可特恩阿伊勒斯
@@ -735,8 +735,8 @@ index,source,target
 733,Stripe Strike,線斯里凱
 734,Tigrex Hammer,轟龍大錘
 735,Striped Dragonga,縞德阿戈恩阿
-736,Tigrex Horn,轟龍之角
-737,Akantor Horn,霸龍之角
+736,Tigrex Horn,轟龍角
+737,Akantor Horn,霸龍角
 738,Eternal Spear Diablos,角龍永槍
 739,Steel Lizard Ⅰ,鋼蜥蜴Ⅰ
 740,"Beta Sword ""Black""",β劍黑
@@ -767,7 +767,7 @@ index,source,target
 765,War Cry+,戦哭＋
 766,Giga Ice Cube,ＧIＧIＣ老ＣＵＢ老
 767,Bullfango Head+,野豬之頭＋
-768,Expert Hammer+,大錘達人＋
+768,Expert Hammer+,達人大錘＋
 769,Ikari Destroyer,伊可里破壊
 770,Great Bagpipe+,大風笛＋
 771,Lava Kantele,熔克阿恩特艾勒艾
@@ -782,7 +782,7 @@ index,source,target
 780,Catspaw Hammer,大錘猫爪
 781,Demon Decimator,惡魔殲滅者
 782,Ice Reaper,IＣ老Ｒ老P老Ｒ
-783,Expert Lance+,長槍達人＋
+783,Expert Lance+,達人長槍＋
 784,Basarios Bash+,岩龍猛撃＋
 785,Perfect Raging Masher,普艾爾夫艾克特拉吉恩搗
 786,Molten Recital,努波奇獨奏
@@ -817,7 +817,7 @@ index,source,target
 815,Fierce God Slicer,猛神斬撃
 816,Imprisoned Flame Blade,伊姆普爾伊斯歐恩焔刃
 817,Gaelic Flame+,蓋爾焔＋
-818,White Horn,白之角
+818,White Horn,白角
 819,Vendetta+,Ｖ老NＤ老TT＋
 820,Anteka Call,雪鹿呼
 821,Anteka Flute,雪鹿笛
@@ -920,7 +920,7 @@ index,source,target
 918,Eberstein,老Ｂ老ＲST老IN
 919,Bishop Dawn Staff,布伊斯哈歐普黎明杖
 920,Shining Heaven Staff,輝耀天杖
-921,Frost Lance+,長槍霜＋
+921,Frost Lance+,霜長槍＋
 922,Diamond Dust,金剛石塵
 923,Gunspear Garu-Ku,銃矛加魯庫
 924,Wonder Gunspear Garu-ku,奇銃矛加魯庫
@@ -936,8 +936,8 @@ index,source,target
 934,Double Beta Ⅱ,双βⅡ
 935,Double Beta Ⅲ,双βⅢ
 936,Kaiden Blade,克阿伊德艾恩刃
-937,Kaiden Hammer,大錘克阿伊德艾恩
-938,Kaiden Lance,克阿伊德艾恩槍
+937,Kaiden Hammer,克阿伊德艾恩大錘
+938,Kaiden Lance,克阿伊德艾恩長槍
 939,Shining Emperor Blade,輝耀皇帝刃
 940,Feather Shaver,F老TH老ＲSHＶ老Ｒ
 941,Our Blue Ogre Sword,歐烏爾青食人劍
@@ -963,12 +963,12 @@ index,source,target
 961,Scarlet Breaker,緋破壞
 962,Luna's Nova,月神S新星
 963,Steel Rhinos I,鋼犀Ⅰ
-964,Steel Rhinos II,鋼犀Ⅱ
-965,Steel Rhinos III,鋼犀Ⅲ
-966,Steel Rhinos IV,鋼犀Ⅳ
-967,Steel Lizard IV,鋼蜥蜴Ⅳ
-968,Steel Bison IV,鋼野牛Ⅳ
-969,Steel Snake IV,鋼蛇Ⅳ
+964,Steel Rhinos II,鋼犀ⅠⅠ
+965,Steel Rhinos III,鋼犀ⅠⅠⅠ
+966,Steel Rhinos IV,鋼犀ⅠⅤ
+967,Steel Lizard IV,鋼蜥蜴ⅠⅤ
+968,Steel Bison IV,鋼野牛ⅠⅤ
+969,Steel Snake IV,鋼蛇ⅠⅤ
 970,Colt Monarca,克歐勒特姆歐恩阿爾克阿
 971,Colt Principio,克歐勒特普爾伊恩克伊普伊
 972,True Eternal Strife,真永紛爭
@@ -977,7 +977,7 @@ index,source,target
 975,Kaktus Messer,ｋｋTＵSM老SS老Ｒ
 976,Kaktus Schmelz,仙人掌斯克哈姆艾勒茲
 977,Settler Knife,斯艾特特勒艾爾刀
-978,Settler Edge,斯艾特特勒艾爾端
+978,Settler Edge,斯艾特特勒艾爾刃
 979,Settler Sword,斯艾特特勒艾爾劍
 980,Settler Blade,斯艾特特勒艾爾刃
 981,Acorn Destroy,橡德艾斯特爾歐伊
@@ -1068,9 +1068,9 @@ index,source,target
 1066,Kaktos Kanone,克阿克特歐斯可諾涅
 1067,Kaktopanzer,克阿克特歐普阿恩
 1068,Steel Hawk I,鋼鷹Ⅰ
-1069,Steel Hawk II,鋼鷹Ⅱ
-1070,Steel Hawk III,鋼鷹Ⅲ
-1071,Steel Hawk IV,鋼鷹Ⅳ
+1069,Steel Hawk II,鋼鷹ⅠⅠ
+1070,Steel Hawk III,鋼鷹ⅠⅠⅠ
+1071,Steel Hawk IV,鋼鷹ⅠⅤ
 1072,Colt Law,克歐勒特勒阿瓦
 1073,Colt Emperador,克歐勒特艾姆普艾爾阿德歐
 1074,Fire of Red&Green,火赤緑
@@ -1254,7 +1254,7 @@ index,source,target
 1252,Tonitrus Sword,特歐恩伊特爾烏斯劍
 1253,Tonitrus Slicer,特歐恩伊特爾烏斯斬撃
 1254,Tonitrus Blade,特歐恩伊特爾烏斯刃
-1255,Tonitrus G Blade,特歐恩伊特爾烏斯Ｇ刃
+1255,Tonitrus G Blade,特歐恩伊特爾烏斯刃G
 1256,Aqua Sword,水劍
 1257,Aqua Slicer,水斬撃
 1258,Aqua Blade,水刃
@@ -1282,9 +1282,9 @@ index,source,target
 1280,Peerless Shakalaka Swrd,奇面族普艾艾爾勒艾斯斯黑鍵盤
 1281,Godly Shakalaka Sword,奇面族格歐德勒伊劍
 1282,Steel Shark I,鋼鯊Ⅰ
-1283,Steel Shark II,鋼鯊Ⅱ
-1284,Steel Shark III,鋼鯊Ⅲ
-1285,Steel Shark IV,鋼鯊Ⅳ
+1283,Steel Shark II,鋼鯊ⅠⅠ
+1284,Steel Shark III,鋼鯊ⅠⅠⅠ
+1285,Steel Shark IV,鋼鯊ⅠⅤ
 1286,Vashimu Razor,尾晶蠍剃刀
 1287,Vashimu Saber,尾晶蠍劍
 1288,Vashimu Sonic,尾晶蠍音
@@ -1330,7 +1330,7 @@ index,source,target
 1328,Tri Gunlance,銃槍特伊
 1329,Tri Fire,TＲⅠFⅠＲ老
 1330,Dragonbone Gunlance,銃槍龍骨
-1331,Amicus Edge,MIＣＵS老ＤＧ老
+1331,Amicus Edge,摯友刃
 1332,Amicus Blade,摯友刃
 1333,ダミー,假
 1334,ダミー,假
@@ -1352,7 +1352,7 @@ index,source,target
 1350,Thunderdance Bell,雷舞鈴
 1351,Warbler Thunder Bell,雷瓦阿爾布勒艾爾鐘
 1352,Skylark Bell,斯克伊勒阿爾克鐘
-1353,Thunderdance Gunlance,銃槍雷舞
+1353,Thunderdance Gunlance,雷舞銃槍
 1354,Cassowary Thndr Gunlance,雷克阿斯斯歐瓦阿爾銃槍
 1355,Peacock Gunlance,銃槍普艾阿克歐克克
 1356,Teostra's Miragesword,炎王龍S米拉格劍
@@ -1448,7 +1448,7 @@ index,source,target
 1446,Dark Dynasty Lv.I,闇王朝Lv.Ⅰ
 1447,Dark Dynasty Lv.II,闇王朝Lv.Ⅱ
 1448,Dark Dynasty Lv.III,闇王朝Lv.Ⅲ
-1449,Blazing Gunlance,銃槍熾
+1449,Blazing Gunlance,熾銃槍
 1450,Stillwater Gunlance,銃槍斯特伊勒勒瓦阿特
 1451,Thunderbolt Gunlance,銃槍特哈烏恩德艾爾布
 1452,Howl Gunlance,咆哮銃槍
@@ -1461,7 +1461,7 @@ index,source,target
 1459,Dark Eye Lv. I,暗眼LvⅠ
 1460,Dark Eye LV. II,闇眼LVⅡ
 1461,Dark Eye LV. III,闇眼LVⅢ
-1462,Blazing Hammer,大錘熾
+1462,Blazing Hammer,熾大錘
 1463,Stillwater Hammer,大錘斯特伊勒勒瓦阿特
 1464,Thunderbolt Hammer,大錘特哈烏恩德艾爾布
 1465,Howl Hammer,咆哮大錘
@@ -1513,13 +1513,13 @@ index,source,target
 1511,Dark Princess SP Ⅴ,闇公主ＳＰⅤ
 1512,Dark Princess SP Ⅵ,闇公主ＳＰⅥ
 1513,Dark Princess SP Ⅶ,闇公主ＳＰⅦ
-1514,Emerald Edge SP Ⅰ,緑寶石刃ＳＰⅠ
-1515,Emerald Edge SP Ⅱ,緑寶石刃ＳＰⅡ
-1516,Emerald Edge SP Ⅲ,緑寶石刃ＳＰⅢ
-1517,Emerald Edge SP Ⅳ,緑寶石刃ＳＰⅣ
-1518,Emerald Edge SP Ⅴ,緑寶石刃ＳＰⅤ
-1519,Emerald Edge SP Ⅵ,緑寶石刃ＳＰⅥ
-1520,Emerald Edge SP Ⅶ,緑寶石刃ＳＰⅦ
+1514,Emerald Edge SP Ⅰ,祖母緑刃SP
+1515,Emerald Edge SP Ⅱ,祖母緑刃SP
+1516,Emerald Edge SP Ⅲ,祖母緑刃SP
+1517,Emerald Edge SP Ⅳ,祖母緑刃SP
+1518,Emerald Edge SP Ⅴ,祖母緑刃SP
+1519,Emerald Edge SP Ⅵ,祖母緑刃SP
+1520,Emerald Edge SP Ⅶ,祖母緑刃SP
 1521,Lucky Cat Stick SP Ⅰ,幸運猫棒ＳＰⅠ
 1522,Lucky Cat Stick SP Ⅱ,幸運猫棒ＳＰⅡ
 1523,Lucky Cat Stick SP Ⅲ,幸運猫棒ＳＰⅢ
@@ -1660,13 +1660,13 @@ index,source,target
 1658,Fujin Demonslayer SP V,夫烏杰伊恩德艾姆歐恩斯勒阿ＳＰⅤ
 1659,Fujin Demonslayer SP VI,夫烏杰伊恩德艾姆歐恩斯勒阿ＳＰⅥ
 1660,Fujin Demonslayer SP VII,夫烏杰伊恩德艾姆歐恩斯勒阿ＳＰⅦ
-1661,Golden Katana SP I,黄金刀ＳＰI
-1662,Golden Katana SP II,黄金刀ＳＰⅡ
-1663,Golden Katana SP III,黄金刀ＳＰⅢ
-1664,Golden Katana SP IV,黄金刀ＳＰⅣ
-1665,Golden Katana SP V,黄金刀ＳＰＶ
-1666,Golden Katana SP VI,黄金刀ＳＰⅥ
-1667,Golden Katana SP VII,黄金刀ＳＰⅦ
+1661,Golden Katana SP I,金刀SP
+1662,Golden Katana SP II,金刀SP
+1663,Golden Katana SP III,金刀SP
+1664,Golden Katana SP IV,金刀SP
+1665,Golden Katana SP V,金刀SP
+1666,Golden Katana SP VI,金刀SP
+1667,Golden Katana SP VII,金刀SP
 1668,Demonic Slasher SP I,魔斬ＳＰI
 1669,Demonic Slasher SP II,魔斬ＳＰⅡ
 1670,Demonic Slasher SP III,魔斬ＳＰⅢ
@@ -1870,13 +1870,13 @@ index,source,target
 1868,Yellow Desert SP V,黄砂漠ＳＰＶ
 1869,Yellow Desert SP VI,黄砂漠ＳＰⅥ
 1870,Yellow Desert SP VII,黄砂漠ＳＰⅦ
-1871,Blue Sky Gunlance SP I,銃槍青空ＳＰI
-1872,Blue Sky Gunlance SP II,銃槍青空ＳＰⅡ
-1873,Blue Sky Gunlance SP III,銃槍青空ＳＰⅢ
-1874,Blue Sky Gunlance SP IV,銃槍青空ＳＰⅣ
-1875,Blue Sky Gunlance SP V,銃槍青空ＳＰＶ
-1876,Blue Sky Gunlance SP VI,銃槍青空ＳＰⅥ
-1877,Blue Sky Gunlance SP VII,銃槍青空ＳＰⅦ
+1871,Blue Sky Gunlance SP I,蒼天銃槍SP
+1872,Blue Sky Gunlance SP II,蒼天銃槍SP
+1873,Blue Sky Gunlance SP III,蒼天銃槍SP
+1874,Blue Sky Gunlance SP IV,蒼天銃槍SP
+1875,Blue Sky Gunlance SP V,蒼天銃槍SP
+1876,Blue Sky Gunlance SP VI,蒼天銃槍SP
+1877,Blue Sky Gunlance SP VII,蒼天銃槍SP
 1878,Chrome Rook SP I,鍍城堡ＳＰⅠ
 1879,Chrome Rook SP II,鍍城堡ＳＰⅡ
 1880,Chrome Rook SP III,鍍城堡ＳＰⅢ
@@ -1940,13 +1940,13 @@ index,source,target
 1938,Iron Greatsword SP V,鐵大劍SP
 1939,Iron Greatsword SP VI,鐵大劍SP
 1940,Iron Greatsword SP VII,鐵大劍SP
-1941,Sailor Sword SP I,斯阿伊勒歐爾劍ＳＰⅠ
-1942,Sailor Sword SP II,斯阿伊勒歐爾劍ＳＰⅡ
-1943,Sailor Sword SP III,斯阿伊勒歐爾劍ＳＰⅢ
-1944,Sailor Sword SP IV,斯阿伊勒歐爾劍ＳＰⅣ
-1945,Sailor Sword SP V,斯阿伊勒歐爾劍ＳＰⅤ
-1946,Sailor Sword SP VI,斯阿伊勒歐爾劍ＳＰⅥ
-1947,Sailor Sword SP VII,斯阿伊勒歐爾劍ＳＰⅦ
+1941,Sailor Sword SP I,水手劍SP
+1942,Sailor Sword SP II,水手劍SP
+1943,Sailor Sword SP III,水手劍SP
+1944,Sailor Sword SP IV,水手劍SP
+1945,Sailor Sword SP V,水手劍SP
+1946,Sailor Sword SP VI,水手劍SP
+1947,Sailor Sword SP VII,水手劍SP
 1948,Cat's Dance SP I,猫S舞ＳＰI
 1949,Cat's Dance SP II,猫S舞ＳＰⅡ
 1950,Cat's Dance SP III,猫S舞ＳＰⅢ
@@ -2248,13 +2248,13 @@ index,source,target
 2246,Decapoda Reggios SP V,德可波達爾艾格格伊歐斯ＳＰⅤ
 2247,Decapoda Reggios SP VI,德可波達爾艾格格伊歐斯ＳＰⅥ
 2248,Decapoda Reggios SP VII,德可波達爾艾格格伊歐斯ＳＰⅦ
-2249,Silver Axe SP I,銀斧ＳＰI
-2250,Silver Axe SP II,銀斧ＳＰⅡ
-2251,Silver Axe SP III,銀斧ＳＰⅢ
-2252,Silver Axe SP IV,銀斧ＳＰⅣ
-2253,Silver Axe SP V,銀斧ＳＰＶ
-2254,Silver Axe SP VI,銀斧ＳＰⅥ
-2255,Silver Axe SP VII,銀斧ＳＰⅦ
+2249,Silver Axe SP I,銀之斧SP
+2250,Silver Axe SP II,銀之斧SP
+2251,Silver Axe SP III,銀之斧SP
+2252,Silver Axe SP IV,銀之斧SP
+2253,Silver Axe SP V,銀之斧SP
+2254,Silver Axe SP VI,銀之斧SP
+2255,Silver Axe SP VII,銀之斧SP
 2256,Void Sucker SP I,維歐伊德吸盤ＳＰⅠ
 2257,Void Sucker SP II,維歐伊德吸盤ＳＰⅡ
 2258,Void Sucker SP III,維歐伊德吸盤ＳＰⅢ
@@ -2367,13 +2367,13 @@ index,source,target
 2365,Tubo Rosso SP V,圖波爾歐斯斯歐ＳＰⅤ
 2366,Tubo Rosso SP VI,圖波爾歐斯斯歐ＳＰⅥ
 2367,Tubo Rosso SP VII,圖波爾歐斯斯歐ＳＰⅦ
-2368,Amethyst Spear SP I,紫水晶槍ＳＰI
-2369,Amethyst Spear SP II,紫水晶槍ＳＰⅡ
-2370,Amethyst Spear SP III,紫水晶槍ＳＰⅢ
-2371,Amethyst Spear SP IV,紫水晶槍ＳＰⅣ
-2372,Amethyst Spear SP V,紫水晶槍ＳＰＶ
-2373,Amethyst Spear SP VI,紫水晶槍ＳＰⅥ
-2374,Amethyst Spear SP VII,紫水晶槍ＳＰⅦ
+2368,Amethyst Spear SP I,紫水晶槍SP
+2369,Amethyst Spear SP II,紫水晶槍SP
+2370,Amethyst Spear SP III,紫水晶槍SP
+2371,Amethyst Spear SP IV,紫水晶槍SP
+2372,Amethyst Spear SP V,紫水晶槍SP
+2373,Amethyst Spear SP VI,紫水晶槍SP
+2374,Amethyst Spear SP VII,紫水晶槍SP
 2375,Blau Sieger SP I,藍斯伊艾格艾爾ＳＰⅠ
 2376,Blau Sieger SP II,藍斯伊艾格艾爾ＳＰⅡ
 2377,Blau Sieger SP III,藍斯伊艾格艾爾ＳＰⅢ
@@ -2507,13 +2507,13 @@ index,source,target
 2505,Redwd G-Lance SP V,爾艾德瓦德Ｇ槍ＳＰⅤ
 2506,Redwd G-Lance SP VI,爾艾德瓦德Ｇ槍ＳＰⅥ
 2507,Redwd G-Lance SP VII,爾艾德瓦德Ｇ槍ＳＰⅦ
-2508,Paralysis Rapier SP I,麻痺細劍ＳＰⅠ
-2509,Paralysis Rapier SP II,麻痺細劍ＳＰⅡ
-2510,Paralysis Rapier SP III,麻痺細劍ＳＰⅢ
-2511,Paralysis Rapier SP IV,麻痺細劍ＳＰⅣ
-2512,Paralysis Rapier SP V,麻痺細劍ＳＰⅤ
-2513,Paralysis Rapier SP VI,麻痺細劍ＳＰⅥ
-2514,Paralysis Rapier SP VII,麻痺細劍ＳＰⅦ
+2508,Paralysis Rapier SP I,麻痺細劍SP
+2509,Paralysis Rapier SP II,麻痺細劍SP
+2510,Paralysis Rapier SP III,麻痺細劍SP
+2511,Paralysis Rapier SP IV,麻痺細劍SP
+2512,Paralysis Rapier SP V,麻痺細劍SP
+2513,Paralysis Rapier SP VI,麻痺細劍SP
+2514,Paralysis Rapier SP VII,麻痺細劍SP
 2515,White Fang SP I,白牙ＳＰI
 2516,White Fang SP II,白牙ＳＰⅡ
 2517,White Fang SP III,白牙ＳＰⅢ
@@ -2682,13 +2682,13 @@ index,source,target
 2680,Carbuncle Sword SP V,克阿爾布烏恩克勒劍ＳＰⅤ
 2681,Carbuncle Sword SP VI,克阿爾布烏恩克勒劍ＳＰⅥ
 2682,Carbuncle Sword SP VII,克阿爾布烏恩克勒劍ＳＰⅦ
-2683,Obsidian SP I,黒曜石ＳＰI
-2684,Obsidian SP II,黒曜石ＳＰⅡ
-2685,Obsidian SP III,黒曜石ＳＰⅢ
-2686,Obsidian SP IV,黒曜石ＳＰⅣ
-2687,Obsidian SP V,黒曜石ＳＰＶ
-2688,Obsidian SP VI,黒曜石ＳＰⅥ
-2689,Obsidian SP VII,黒曜石ＳＰⅦ
+2683,Obsidian SP I,黒曜石SP
+2684,Obsidian SP II,黒曜石SP
+2685,Obsidian SP III,黒曜石SP
+2686,Obsidian SP IV,黒曜石SP
+2687,Obsidian SP V,黒曜石SP
+2688,Obsidian SP VI,黒曜石SP
+2689,Obsidian SP VII,黒曜石SP
 2690,Soul Crash SP I,魂克阿修ＳＰⅠ
 2691,Soul Crash SP II,魂克阿修ＳＰⅡ
 2692,Soul Crash SP III,魂克阿修ＳＰⅢ
@@ -3518,28 +3518,28 @@ index,source,target
 3516,Honed Fishing Rod,研釣魚杖
 3517,Master Angler,大師阿恩格勒艾爾
 3518,White Claymore I,白闊劍Ⅰ
-3519,White Claymore II,白闊劍Ⅱ
-3520,White Claymore III,白闊劍Ⅲ
+3519,White Claymore II,白闊劍ⅠⅠ
+3520,White Claymore III,白闊劍ⅠⅠⅠ
 3521,Save the Queen,薩維女王
 3522,Black Claymore I,黑闊劍Ⅰ
-3523,Black Claymore II,黑闊劍Ⅱ
-3524,Black Claymore III,黑闊劍Ⅲ
+3523,Black Claymore II,黑闊劍ⅠⅠ
+3524,Black Claymore III,黑闊劍ⅠⅠⅠ
 3525,Dainsleip,德阿伊恩斯勒艾伊
 3526,Red Claymore I,赤闊劍Ⅰ
-3527,Red Claymore II,赤闊劍Ⅱ
-3528,Red Claymore III,赤闊劍Ⅲ
+3527,Red Claymore II,赤闊劍ⅠⅠ
+3528,Red Claymore III,赤闊劍ⅠⅠⅠ
 3529,Arondight,阿爾歐恩德伊格哈
 3530,Two Hand Sword I,二手劍I
 3531,Two Hand Sword II,二手劍Ⅱ
 3532,Two Hand Sword III,二手劍Ⅲ
 3533,Caliburn,克阿勒伊布烏爾恩
 3534,Blue Claymore I,青闊劍Ⅰ
-3535,Blue Claymore II,青闊劍Ⅱ
-3536,Blue Claymore III,青闊劍Ⅲ
+3535,Blue Claymore II,青闊劍ⅠⅠ
+3536,Blue Claymore III,青闊劍ⅠⅠⅠ
 3537,Balmung,布阿勒姆烏恩格
 3538,Engraved Xanthos I,艾恩格爾阿維艾德克斯阿恩特哈歐斯Ⅰ
-3539,Engraved Xanthos II,艾恩格爾阿維艾德克斯阿恩特哈歐斯Ⅱ
-3540,Engraved Xanthos III,艾恩格爾阿維艾德克斯阿恩特哈歐斯Ⅲ
+3539,Engraved Xanthos II,艾恩格爾阿維艾德克斯阿恩特哈歐斯ⅠⅠ
+3540,Engraved Xanthos III,艾恩格爾阿維艾德克斯阿恩特哈歐斯ⅠⅠⅠ
 3541,Endbreaker,老NＤＢＲ老ｋ老Ｒ
 3542,Findias,夫伊恩德伊阿斯
 3543,Fragarac,FＲＧＲＣ
@@ -3573,9 +3573,9 @@ index,source,target
 3571,Vel Exar,維艾勒艾克斯阿爾
 3572,Lente Aliot,勒艾恩特艾阿勒伊歐特
 3573,Sapphir Bison I,藍寶石野牛Ⅰ
-3574,Sapphir Bison II,藍寶石野牛Ⅱ
-3575,Sapphir Bison III,藍寶石野牛Ⅲ
-3576,Sapphir Bison IV,藍寶石野牛Ⅳ
+3574,Sapphir Bison II,藍寶石野牛ⅠⅠ
+3575,Sapphir Bison III,藍寶石野牛ⅠⅠⅠ
+3576,Sapphir Bison IV,藍寶石野牛ⅠⅤ
 3577,Pucci Lala Lance I,普烏克克伊拉拉槍Ⅰ
 3578,Pucci Lala Lance II,普烏克克伊拉拉槍Ⅱ
 3579,Pucci Lala Lance III,普烏克克伊拉拉槍Ⅲ
@@ -3621,61 +3621,61 @@ index,source,target
 3619,Brachyura Ultimus,布阿奇尤拉極
 3620,Amicus Force,摯友力
 3621,Trifling Sword I,特伊弗伊恩劍Ⅰ
-3622,Trifling Sword II,特伊弗伊恩劍Ⅱ
-3623,Trifling Sword III,特伊弗伊恩劍Ⅲ
+3622,Trifling Sword II,特伊弗伊恩劍ⅠⅠ
+3623,Trifling Sword III,特伊弗伊恩劍ⅠⅠⅠ
 3624,Falseta Duel,夫阿勒斯艾特阿德烏艾勒
-3625,Gold Crest I,紋章金I
-3626,Gold Crest II,紋章金Ⅱ
-3627,Gold Crest III,紋章金Ⅲ
-3628,Gold Crest IV,紋章金Ⅳ
-3629,Silver Crest I,紋章銀I
-3630,Silver Crest II,紋章銀Ⅱ
-3631,Silver Crest III,紋章銀Ⅲ
-3632,Silver Crest IV,紋章銀Ⅳ
-3633,Bronze Crest I,紋章青銅I
-3634,Bronze Crest II,紋章青銅Ⅱ
-3635,Bronze Crest III,紋章青銅Ⅲ
-3636,Bronze Crest IV,紋章青銅Ⅳ
+3625,Gold Crest I,紋章金Ⅰ
+3626,Gold Crest II,紋章金ⅠⅠ
+3627,Gold Crest III,紋章金ⅠⅠⅠ
+3628,Gold Crest IV,紋章金ⅠⅤ
+3629,Silver Crest I,紋章銀Ⅰ
+3630,Silver Crest II,紋章銀ⅠⅠ
+3631,Silver Crest III,紋章銀ⅠⅠⅠ
+3632,Silver Crest IV,紋章銀ⅠⅤ
+3633,Bronze Crest I,紋章青銅Ⅰ
+3634,Bronze Crest II,紋章青銅ⅠⅠ
+3635,Bronze Crest III,紋章青銅ⅠⅠⅠ
+3636,Bronze Crest IV,紋章青銅ⅠⅤ
 3637,Thunderdance Sabers,THＵNＤ老ＲＤNＣ老SＢ老ＲS
 3638,Ibis Thunder Sabers,雷伊布伊斯軍刀
 3639,Bird-of-paradise Sabers,鳥樂園軍刀
 3640,Garuda Sabers,ＧＲＵＤSＢ老ＲS
 3641,Malum Pugna I,姆阿勒烏姆普烏格恩阿Ⅰ
-3642,Malum Pugna II,姆阿勒烏姆普烏格恩阿Ⅱ
-3643,Malum Pugna III,姆阿勒烏姆普烏格恩阿Ⅲ
+3642,Malum Pugna II,姆阿勒烏姆普烏格恩阿ⅠⅠ
+3643,Malum Pugna III,姆阿勒烏姆普烏格恩阿ⅠⅠⅠ
 3644,Copper Shamshir,銅斯哈阿姆斯哈伊爾
 3645,Krieg Monat,克爾伊艾格姆歐恩阿特
 3646,Krieg Jahr,ｋＲI老ＧJHＲ
 3647,Krieg Ara,ｋＲI老ＧＲ
 3648,Krieg Ende,ｋＲI老Ｇ老NＤ老
 3649,Twin White Edges I,球紋章白刃Ⅰ
-3650,Twin White Edges II,球紋章白刃Ⅱ
-3651,Twin White Edges III,球紋章白刃Ⅲ
+3650,Twin White Edges II,球紋章白刃ⅠⅠ
+3651,Twin White Edges III,球紋章白刃ⅠⅠⅠ
 3652,Ascalon,阿斯克阿勒歐恩
 3653,Twin Black Edges I,球紋章黑刃Ⅰ
-3654,Twin Black Edges II,球紋章黑刃Ⅱ
-3655,Twin Black Edges III,球紋章黑刃Ⅲ
+3654,Twin Black Edges II,球紋章黑刃ⅠⅠ
+3655,Twin Black Edges III,球紋章黑刃ⅠⅠⅠ
 3656,Dragvandil,德爾阿格維阿恩德
-3657,Flame Edge I,炎刃I
-3658,Flame Edge II,炎刃Ⅱ
-3659,Flame Edge III,炎刃Ⅲ
+3657,Flame Edge I,炎刃Ⅰ
+3658,Flame Edge II,炎刃ⅠⅠ
+3659,Flame Edge III,炎刃ⅠⅠⅠ
 3660,Balisarda,布阿勒伊斯阿爾德
 3661,Twin Blue Edges I,球紋章青刃Ⅰ
-3662,Twin Blue Edges II,球紋章青刃Ⅱ
-3663,Twin Blue Edges III,球紋章青刃Ⅲ
+3662,Twin Blue Edges II,球紋章青刃ⅠⅠ
+3663,Twin Blue Edges III,球紋章青刃ⅠⅠⅠ
 3664,Collbrande,克歐勒勒布爾阿恩
 3665,Dual Sword I,雙劍I
 3666,Dual Sword II,雙劍Ⅱ
 3667,Dual Sword III,雙劍Ⅲ
 3668,Caladbolg,克阿勒阿德布歐勒
 3669,Twin Yellow Edges I,球紋章黄刃Ⅰ
-3670,Twin Yellow Edges II,球紋章黄刃Ⅱ
-3671,Twin Yellow Edges III,球紋章黄刃Ⅲ
+3670,Twin Yellow Edges II,球紋章黄刃ⅠⅠ
+3671,Twin Yellow Edges III,球紋章黄刃ⅠⅠⅠ
 3672,Fragarach,FＲＧＲＣH
 3673,Sapphir Swallow I,藍寶石燕Ⅰ
-3674,Sapphir Swallow II,藍寶石燕Ⅱ
-3675,Sapphir Swallow III,藍寶石燕Ⅲ
-3676,Sapphir Swallow IV,藍寶石燕Ⅳ
+3674,Sapphir Swallow II,藍寶石燕ⅠⅠ
+3675,Sapphir Swallow III,藍寶石燕ⅠⅠⅠ
+3676,Sapphir Swallow IV,藍寶石燕ⅠⅤ
 3677,Teostra's Hellblade,炎王S地獄刃
 3678,Tyrant's Hellblade,特伊爾阿恩特哈艾勒勒布勒阿德
 3679,Steel Heart,鋼心
@@ -3683,13 +3683,13 @@ index,source,target
 3681,Hold Heart,持心
 3682,Sweet Heart,甘心
 3683,Nephrite Blade I,軟玉刃Ⅰ
-3684,Nephrite Blade II,軟玉刃Ⅱ
-3685,Nephrite Blade III,軟玉刃Ⅲ
+3684,Nephrite Blade II,軟玉刃ⅠⅠ
+3685,Nephrite Blade III,軟玉刃ⅠⅠⅠ
 3686,Basileus Principium,布阿斯伊勒艾烏斯普爾伊恩克伊普伊
 3687,Sapphir Rhinos I,藍寶石犀Ⅰ
-3688,Sapphir Rhinos II,藍寶石犀Ⅱ
-3689,Sapphir Rhinos III,藍寶石犀Ⅲ
-3690,Sapphir Rhinos IV,藍寶石犀Ⅳ
+3688,Sapphir Rhinos II,藍寶石犀ⅠⅠ
+3689,Sapphir Rhinos III,藍寶石犀ⅠⅠⅠ
+3690,Sapphir Rhinos IV,藍寶石犀ⅠⅤ
 3691,Shogun Sword,將軍鎌蟹劍
 3692,Shogun Blade,將軍鎌蟹刃
 3693,Daishogun Blade,德阿伊斯哈歐格烏刃
@@ -3698,7 +3698,7 @@ index,source,target
 3696,Chain Dragonslayer,鎖德爾阿格歐恩斯勒
 3697,Dragonslayer Sawblade,德爾阿格歐恩斯勒斯阿瓦布勒阿德艾
 3698,Godslayer Sawblade,格歐德斯勒阿伊艾斯阿瓦布勒阿德艾
-3699,Thunderdance Hammer,大錘雷舞
+3699,Thunderdance Hammer,雷舞大錘
 3700,Owl Thunder Hammer,雷歐瓦勒大錘
 3701,Raven Hammer,大錘渡鴉
 3702,Yatagarasu Hammer,大錘雅塔加拉蘇
@@ -3709,8 +3709,8 @@ index,source,target
 3707,Lung Marsyas,肺姆阿爾斯伊阿斯
 3708,Stray Marsyas,流浪姆阿爾斯伊阿斯
 3709,Celestial Torment I,克艾勒艾斯特伊阿折磨Ⅰ
-3710,Celestial Torment II,克艾勒艾斯特伊阿折磨Ⅱ
-3711,Celestial Torment III,克艾勒艾斯特伊阿折磨Ⅲ
+3710,Celestial Torment II,克艾勒艾斯特伊阿折磨ⅠⅠ
+3711,Celestial Torment III,克艾勒艾斯特伊阿折磨ⅠⅠⅠ
 3712,Dread Marquis,德爾艾阿德姆阿爾奎烏伊斯
 3713,Kirin Mirage,麒麟米拉格
 3714,Lightning Mirage,雷米拉格
@@ -3719,8 +3719,8 @@ index,source,target
 3717,Machalite Spear,瑪奇阿利特矛
 3718,Perfect Machalite Spear,普艾爾夫艾克特瑪奇阿利特矛
 3719,Khezu Lance,奇怪龍長槍
-3720,Fulminant Lance,爆槍
-3721,Fulminant Lance+,爆槍＋
+3720,Fulminant Lance,爆長槍
+3721,Fulminant Lance+,爆長槍＋
 3722,Khezu Inject,ｋH老ＺＵⅠNJ老ＣT
 3723,Spinelion Lance I,斯普伊恩艾勒伊歐槍Ⅰ
 3724,Spinelion Lance II,斯普伊恩艾勒伊歐槍Ⅱ
@@ -3730,14 +3730,14 @@ index,source,target
 3728,Coral Gunlance,銃槍珊瑚
 3729,Deep Blue Sea Gunlance,銃槍深青海
 3730,Dragon Palace Gunlance,龍宮殿銃槍
-3731,Jade Gunlance I,銃槍翡翠I
-3732,Jade Gunlance II,銃槍翡翠Ⅱ
-3733,Jade Gunlance III,銃槍翡翠Ⅲ
+3731,Jade Gunlance I,傑阿德艾銃槍Ⅰ
+3732,Jade Gunlance II,傑阿德艾銃槍ⅠⅠ
+3733,Jade Gunlance III,傑阿德艾銃槍ⅠⅠⅠ
 3734,Ideals Realized,伊德艾阿勒斯爾艾阿勒伊茲艾德
 3735,Sapphir Hawk I,藍寶石鷹Ⅰ
-3736,Sapphir Hawk II,藍寶石鷹Ⅱ
-3737,Sapphir Hawk III,藍寶石鷹Ⅲ
-3738,Sapphir Hawk IV,藍寶石鷹Ⅳ
+3736,Sapphir Hawk II,藍寶石鷹ⅠⅠ
+3737,Sapphir Hawk III,藍寶石鷹ⅠⅠⅠ
+3738,Sapphir Hawk IV,藍寶石鷹ⅠⅤ
 3739,Million Knife,百萬刀
 3740,Million Edge,百萬刃
 3741,Million Sword,百萬劍
@@ -3745,7 +3745,7 @@ index,source,target
 3743,Don Kukuri,堂庫庫里
 3744,Don Dagger,堂短劍
 3745,Dodon Rapier,德歐德歐恩細劍
-3746,Dodon Edge,德歐德歐恩端
+3746,Dodon Edge,德歐德歐恩刃
 3747,Spectacular Kalinga,斯普艾克特阿克烏可利恩阿
 3748,Dragon Ghostblade,龍幽靈刃
 3749,Flamberge,夫勒阿姆布艾爾格
@@ -3761,7 +3761,7 @@ index,source,target
 3759,ダミー,假
 3760,ダミー,假
 3761,Chivalrous Thief's Paw,克哈伊維阿勒爾歐盜賊肉球
-3762,Schwarzkerzen I,SＣHWＲＺｋ老ＲＺ老NI
+3762,Schwarzkerzen I,SＣHWＲＺｋ老ＲＺ老NⅠ
 3763,Schwarzkerzen II,SＣHWＲＺｋ老ＲＺ老NⅠⅠ
 3764,Schwarzkerzen III,SＣHWＲＺｋ老ＲＺ老NⅠⅠⅠ
 3765,Luna Helios,月神哈艾勒伊歐斯
@@ -3775,20 +3775,20 @@ index,source,target
 3773,Hypno Shredders,眠碎
 3774,Hypno Crisis,眠危機
 3775,White Giga Claws I,白超巨爪Ⅰ
-3776,White Giga Claws II,白超巨爪Ⅱ
-3777,White Giga Claws III,白超巨爪Ⅲ
+3776,White Giga Claws II,白超巨爪ⅠⅠ
+3777,White Giga Claws III,白超巨爪ⅠⅠⅠ
 3778,Priscus Pain,普爾伊斯克烏斯痛
 3779,Black Giga Claws I,黑超巨爪Ⅰ
-3780,Black Giga Claws II,黑超巨爪Ⅱ
-3781,Black Giga Claws III,黑超巨爪Ⅲ
+3780,Black Giga Claws II,黑超巨爪ⅠⅠ
+3781,Black Giga Claws III,黑超巨爪ⅠⅠⅠ
 3782,Das Schmerzen,ＤSSＣHM老ＲＺ老N
 3783,Red Giga Claws I,赤超巨爪Ⅰ
-3784,Red Giga Claws II,赤超巨爪Ⅱ
-3785,Red Giga Claws III,赤超巨爪Ⅲ
+3784,Red Giga Claws II,赤超巨爪ⅠⅠ
+3785,Red Giga Claws III,赤超巨爪ⅠⅠⅠ
 3786,Miedo Pena,米艾多佩娜
 3787,Blue Giga Claws I,青超巨爪Ⅰ
-3788,Blue Giga Claws II,青超巨爪Ⅱ
-3789,Blue Giga Claws III,青超巨爪Ⅲ
+3788,Blue Giga Claws II,青超巨爪ⅠⅠ
+3789,Blue Giga Claws III,青超巨爪ⅠⅠⅠ
 3790,Crystalized Pain,克爾伊斯特阿勒伊痛
 3791,Aqua Claws I,水爪Ⅰ
 3792,Aqua Claws II,水爪ⅠⅠ
@@ -3842,13 +3842,13 @@ index,source,target
 3840,Dodon Katana,德歐德歐恩刀
 3841,Karmic Fire Dragonsword,火克阿爾姆伊克德爾阿格歐恩斯瓦
 3842,Scythe of Terror,鎌磨尾虎
-3843,Rubino Snake I,紅玉蛇I
-3844,Rubino Snake II,紅玉蛇Ⅱ
-3845,Rubino Snake III,紅玉蛇Ⅲ
-3846,Rubino Snake IV,紅玉蛇Ⅳ
+3843,Rubino Snake I,紅玉蛇Ⅰ
+3844,Rubino Snake II,紅玉蛇ⅠⅠ
+3845,Rubino Snake III,紅玉蛇ⅠⅠⅠ
+3846,Rubino Snake IV,紅玉蛇ⅠⅤ
 3847,Vesta Razor I,維斯阿剃刀Ⅰ
-3848,Vesta Razor II,維斯阿剃刀Ⅱ
-3849,Vesta Razor III,維斯阿剃刀Ⅲ
+3848,Vesta Razor II,維斯阿剃刀ⅠⅠ
+3849,Vesta Razor III,維斯阿剃刀ⅠⅠⅠ
 3850,Gloria Vesta,格歐里阿維斯阿
 3851,Nebra Malleus,涅布阿姆阿勒勒艾烏斯
 3852,Nebra Lapis,涅布阿青金
@@ -3871,16 +3871,16 @@ index,source,target
 3869,Erga Schwertz,老ＲＧSＣHW老ＲTＺ
 3870,Nacht Rivale,恩阿克哈特里瓦勒
 3871,Rubino Bison I,紅玉野牛Ⅰ
-3872,Rubino Bison II,紅玉野牛Ⅱ
-3873,Rubino Bison III,紅玉野牛Ⅲ
-3874,Rubino Bison IV,紅玉野牛Ⅳ
+3872,Rubino Bison II,紅玉野牛ⅠⅠ
+3873,Rubino Bison III,紅玉野牛ⅠⅠⅠ
+3874,Rubino Bison IV,紅玉野牛ⅠⅤ
 3875,Gifted Fury,格伊夫特艾德狂
 3876,Dododon Ultraprize,德歐德歐德歐恩烏勒特爾阿普爾伊
 3877,Atlas Buster I,阿特拉斯破壞I
 3878,Atlas Buster II,阿特拉斯破壞Ⅱ
 3879,Atlas Buster III,阿特拉斯破壞Ⅲ
 3880,Great Globe,偉大地球儀
-3881,Don Horn,堂之角
+3881,Don Horn,堂角
 3882,Don Flute,堂笛
 3883,Dodon Whistle,德歐德歐恩笛
 3884,Dodon Oboe,德歐德歐恩雙簧
@@ -3974,8 +3974,8 @@ index,source,target
 3972,Red Blade Ⅲ,赤刃Ⅲ
 3973,Phoenix Red,鎧沸血赤
 3974,Carnel Twins I,克阿爾恩艾勒雙子Ⅰ
-3975,Carnel Twins II,克阿爾恩艾勒雙子Ⅱ
-3976,Carnel Twins III,克阿爾恩艾勒雙子Ⅲ
+3975,Carnel Twins II,克阿爾恩艾勒雙子ⅠⅠ
+3976,Carnel Twins III,克阿爾恩艾勒雙子ⅠⅠⅠ
 3977,Carnelian Swords,克阿爾恩艾勒伊阿斯瓦歐爾德斯
 3978,Corsa,克歐爾斯阿
 3979,Cascata,ＣSＣT
@@ -3995,10 +3995,10 @@ index,source,target
 3993,Cinnabar Blade III,朱刃Ⅲ
 3994,Vermillion Terror,朱紅磨尾虎
 3995,Chlorite Blade I,奇洛里特刃Ⅰ
-3996,Chlorite Blade II,奇洛里特刃Ⅱ
-3997,Chlorite Blade III,奇洛里特刃Ⅲ
+3996,Chlorite Blade II,奇洛里特刃ⅠⅠ
+3997,Chlorite Blade III,奇洛里特刃ⅠⅠⅠ
 3998,Seraphinite Sever,S老ＲPHⅠNⅠT老S老Ⅴ老Ｒ
-3999,Daora Katana,龍刀
+3999,Daora Katana,崩龍刀
 4000,Daora's Ire,崩龍S伊雷
 4001,Pinnacle Drgn Sword,龍普伊恩恩阿克勒艾劍
 4002,Wyvern Sword - Timber,飛龍劍木材
@@ -4007,11 +4007,11 @@ index,source,target
 4005,Metal Edge,金属刃
 4006,Metal Blade,金属刃
 4007,Crystal Claymore I,晶闊劍Ⅰ
-4008,Crystal Claymore II,晶闊劍Ⅱ
-4009,Crystal Claymore III,晶闊劍Ⅲ
+4008,Crystal Claymore II,晶闊劍ⅠⅠ
+4009,Crystal Claymore III,晶闊劍ⅠⅠⅠ
 4010,Crystal Rose,結晶薔薇
 4011,Don Stamp,堂印
-4012,Don Hammer,大錘堂
+4012,Don Hammer,堂大錘
 4013,Dodon Crusher,德歐德歐恩碎
 4014,Dodon Destroyer,德歐德歐恩滅
 4015,Escarcha,老SＣＲＣH
@@ -4042,14 +4042,14 @@ index,source,target
 4040,Tonalita Allegro,托娜利塔阿勒勒艾格爾歐
 4041,Tonalita Presto,托娜利塔普艾斯歐
 4042,Sapphir Acris I,藍寶石阿克里斯Ⅰ
-4043,Sapphir Acris II,藍寶石阿克里斯Ⅱ
-4044,Sapphir Acris III,藍寶石阿克里斯Ⅲ
-4045,Sapphir Acris IV,藍寶石阿克里斯Ⅳ
+4043,Sapphir Acris II,藍寶石阿克里斯ⅠⅠ
+4044,Sapphir Acris III,藍寶石阿克里斯ⅠⅠⅠ
+4045,Sapphir Acris IV,藍寶石阿克里斯ⅠⅤ
 4046,Ghat Pipe I,格哈阿特管Ⅰ
-4047,Ghat Pipe II,格哈阿特管Ⅱ
-4048,Ghat Pipe III,格哈阿特管Ⅲ
+4047,Ghat Pipe II,格哈阿特管ⅠⅠ
+4048,Ghat Pipe III,格哈阿特管ⅠⅠⅠ
 4049,Rhodolite,爾哈歐德歐勒伊特
-4050,Thunderdance Lance,長槍雷舞
+4050,Thunderdance Lance,雷舞長槍
 4051,Egret Thunder Lance,雷艾格爾艾特槍
 4052,Longtail Thunder Lance,雷勒歐恩格特阿伊勒槍
 4053,Zhenniao Lance,茲哈艾恩恩伊阿歐槍
@@ -4068,21 +4068,21 @@ index,source,target
 4066,Sapphir Sepia III,藍寶石褐Ⅲ
 4067,Sapphir Sepia IV,藍寶石褐Ⅳ
 4068,Cidolite Trance I,西多利特特爾阿恩克艾Ⅰ
-4069,Cidolite Trance II,西多利特特爾阿恩克艾Ⅱ
-4070,Cidolite Trance III,西多利特特爾阿恩克艾Ⅲ
+4069,Cidolite Trance II,西多利特特爾阿恩克艾ⅠⅠ
+4070,Cidolite Trance III,西多利特特爾阿恩克艾ⅠⅠⅠ
 4071,Hawk Eye,鷹眼
 4072,Don Cylinder,堂克伊勒伊恩德艾爾
 4073,Don Blaster,堂爆裂
-4074,Dodon Cannon,德歐德歐恩砲
+4074,Dodon Cannon,德歐德歐恩加農砲
 4075,Dodon Geyser,德歐德歐恩格艾伊斯艾爾
 4076,White Blast,爆破白
-4077,Rosa Gunlance Ⅰ,銃槍羅薩Ⅰ
-4078,Rosa Gunlance Ⅱ,銃槍羅薩Ⅱ
-4079,Rosa Gunlance Ⅲ,銃槍羅薩Ⅲ
+4077,Rosa Gunlance Ⅰ,蘿薩銃槍Ⅰ
+4078,Rosa Gunlance Ⅱ,蘿薩銃槍Ⅱ
+4079,Rosa Gunlance Ⅲ,蘿薩銃槍Ⅲ
 4080,Rubrum Gunlance,銃槍爾烏布爾烏姆
-4081,Agate Cannon Ⅰ,阿加特砲Ⅰ
-4082,Agate Cannon Ⅱ,阿加特砲Ⅱ
-4083,Agate Cannon Ⅲ,阿加特砲Ⅲ
+4081,Agate Cannon Ⅰ,阿格阿特加農砲Ⅰ
+4082,Agate Cannon Ⅱ,阿格阿特加農砲Ⅱ
+4083,Agate Cannon Ⅲ,阿格阿特加農砲Ⅲ
 4084,Banded Gunlance,銃槍布阿恩德艾德
 4085,Perle Messer,珠姆艾斯斯艾爾
 4086,Perle Schmerz,珠斯克哈姆艾爾茲
@@ -4246,11 +4246,11 @@ index,source,target
 4244,Nirgudi Edge II,NIＲＧＵＤI老ＤＧ老II
 4245,Nirgudi Edge III,NⅠＲＧＵＤⅠ老ＤＧ老ⅠⅠⅠ
 4246,Nirgudi Apex,NIＲＧＵＤIP老Ⅹ
-4247,Trance Blade I,特爾阿恩克艾刃Ⅰ
-4248,Trance Blade II,特爾阿恩克艾刃Ⅱ
-4249,Trance Blade III,特爾阿恩克艾刃Ⅲ
+4247,Trance Blade I,特阿恩艾刃Ⅰ
+4248,Trance Blade II,特阿恩艾刃ⅠⅠ
+4249,Trance Blade III,特阿恩艾刃ⅠⅠⅠ
 4250,Trance Breaker,TＲNＣ老ＢＲ老ｋ老Ｒ
-4251,Steel Snake V,鋼蛇Ｖ
+4251,Steel Snake V,鋼蛇Ⅴ
 4252,Izumo Hammer,大錘伊祖莫
 4253,Yakumo Hammer,大錘雅庫莫
 4254,Zuiun Hammer,大錘茲烏伊烏恩
@@ -4282,8 +4282,8 @@ index,source,target
 4280,Pale Strafe III,蒼斯拉菲Ⅲ
 4281,Ende Nachricht,老NＤ老NＣHＲIＣHT
 4282,Piceous Strafe I,普伊克艾歐烏斯斯拉菲Ⅰ
-4283,Piceous Strafe II,普伊克艾歐烏斯斯拉菲Ⅱ
-4284,Piceous Strafe III,普伊克艾歐烏斯斯拉菲Ⅲ
+4283,Piceous Strafe II,普伊克艾歐烏斯斯拉菲ⅠⅠ
+4284,Piceous Strafe III,普伊克艾歐烏斯斯拉菲ⅠⅠⅠ
 4285,Finster Drachen,夫伊恩斯特艾爾德爾阿克哈艾恩
 4286,Anteka's Wald,雪鹿瓦阿勒德
 4287,Anteka's Geschenk,NT老ｋSＧ老SＣH老Nｋ
@@ -4294,8 +4294,8 @@ index,source,target
 4292,Dagda Hammer III,大錘德阿格德阿Ⅲ
 4293,Dagda Deiwos Hammer,大錘德阿格德阿德艾伊瓦歐斯
 4294,Wisel I,瓦伊斯艾勒Ⅰ
-4295,Wisel II,瓦伊斯艾勒Ⅱ
-4296,Wisel III,瓦伊斯艾勒Ⅲ
+4295,Wisel II,瓦伊斯艾勒ⅠⅠ
+4296,Wisel III,瓦伊斯艾勒ⅠⅠⅠ
 4297,Wisel Anmut,瓦伊斯艾勒阿恩姆烏特
 4298,Steel Bison V,鋼野牛Ⅴ
 4299,Lunastra Tidy Pipe,炎妃龍特伊德伊管
@@ -4353,17 +4353,17 @@ index,source,target
 4351,Dormire Tower,德歐爾姆伊爾艾塔
 4352,Sleep Cathedral,睡眠克阿特哈艾德爾阿
 4353,Scale Rivana I,鱗里瓦娜Ⅰ
-4354,Scale Rivana II,鱗里瓦娜Ⅱ
-4355,Scale Rivana III,鱗里瓦娜Ⅲ
+4354,Scale Rivana II,鱗里瓦娜ⅠⅠ
+4355,Scale Rivana III,鱗里瓦娜ⅠⅠⅠ
 4356,Scale Punish,鱗普尼修
 4357,Desert Sand I,砂漠砂I
 4358,Desert Sand II,砂漠砂Ⅱ
 4359,Desert Sand III,砂漠砂Ⅲ
 4360,Desert Trick,Ｄ老S老ＲTTＲIＣｋ
 4361,Rubino Hawk I,紅玉鷹Ⅰ
-4362,Rubino Hawk II,紅玉鷹Ⅱ
-4363,Rubino Hawk III,紅玉鷹Ⅲ
-4364,Rubino Hawk IV,紅玉鷹Ⅳ
+4362,Rubino Hawk II,紅玉鷹ⅠⅠ
+4363,Rubino Hawk III,紅玉鷹ⅠⅠⅠ
+4364,Rubino Hawk IV,紅玉鷹ⅠⅤ
 4365,Steel Hawk V,鋼鷹Ⅴ
 4366,Crater Rock,克爾阿特艾爾岩
 4367,Type 11 Machine Lance,長槍型１１瑪奇伊涅
@@ -4392,7 +4392,7 @@ index,source,target
 4390,Seele Ⅱ,瑟艾勒Ⅱ
 4391,Seele Ⅲ,瑟艾勒Ⅲ
 4392,Kvar Seele,克維阿爾瑟艾勒
-4393,Rubino Lizard V,紅玉蜥蜴Ｖ
+4393,Rubino Lizard V,紅玉蜥蜴Ⅴ
 4394,Shellking Armored Twins,斯哈艾勒勒克伊恩阿爾姆歐爾艾德雙子
 4395,Shellking Adamant Twins,斯哈艾勒勒克伊恩精金雙子
 4396,Twin Tornado,球紋章龍巻
@@ -4448,20 +4448,20 @@ index,source,target
 4446,Light Gladius Ⅲ,輕短劍Ⅲ
 4447,Fall Claire,落克阿伊雷
 4448,Pain Gladius I,痛短劍Ⅰ
-4449,Pain Gladius II,痛短劍Ⅱ
-4450,Pain Gladius III,痛短劍Ⅲ
+4449,Pain Gladius II,痛短劍ⅠⅠ
+4450,Pain Gladius III,痛短劍ⅠⅠⅠ
 4451,Slay Ruler,討伐支配
 4452,Heat Gladius Ⅰ,熱短劍Ⅰ
 4453,Heat Gladius Ⅱ,熱短劍Ⅱ
 4454,Heat Gladius Ⅲ,熱短劍Ⅲ
 4455,Merv Mirage,M老ＲＶMIＲＧ老
 4456,Prime Gladius I,普伊梅短劍Ⅰ
-4457,Prime Gladius II,普伊梅短劍Ⅱ
-4458,Prime Gladius III,普伊梅短劍Ⅲ
+4457,Prime Gladius II,普伊梅短劍ⅠⅠ
+4458,Prime Gladius III,普伊梅短劍ⅠⅠⅠ
 4459,Fallen Ideals,夫阿勒勒艾恩伊德艾阿勒斯
 4460,Aim Gladius I,阿伊姆短劍Ⅰ
-4461,Aim Gladius II,阿伊姆短劍Ⅱ
-4462,Aim Gladius III,阿伊姆短劍Ⅲ
+4461,Aim Gladius II,阿伊姆短劍ⅠⅠ
+4462,Aim Gladius III,阿伊姆短劍ⅠⅠⅠ
 4463,Grateful Weaver,格爾阿特艾夫烏勒瓦艾阿維艾爾
 4464,Fire Thorn,火刺
 4465,Flame Thorn,炎刺
@@ -4703,7 +4703,7 @@ index,source,target
 4701,Blackbound Strongaxe,布勒阿克克布歐烏斯羅恩阿克斯艾
 4702,Blackbound Rageaxe,布勒阿克克布歐烏拉格阿克斯艾
 4703,Black Emperor Greataxe,黒帝大斧
-4704,True Tigrex Greatsword,真轟龍大劍
+4704,True Tigrex Greatsword,轟龍之真大劍
 4705,Grome Baron,格歐梅男爵
 4706,Grome Marquis,格歐梅姆阿爾奎烏伊斯
 4707,Grome Duke,格歐梅杜凱
@@ -4720,9 +4720,9 @@ index,source,target
 4718,Vio Ⅱ,托吉阿Ⅱ
 4719,Vio Ⅲ,托吉阿Ⅲ
 4720,Vio Borodin,托吉阿布歐爾歐德伊恩
-4721,"Imperial Sword ""Blaze""",帝國劍炎
-4722,"Imperial Sword ""Scorch""",帝國劍斯克歐爾克哈
-4723,True Tigrex Katana,轟龍真刀
+4721,"Imperial Sword ""Blaze""",帝國劍Blaze
+4722,"Imperial Sword ""Scorch""",帝國劍Scorch
+4723,True Tigrex Katana,轟龍之真刀
 4724,Royal Sword,王室劍
 4725,Poison Scythe,毒鎌
 4726,Poison Scythe+,毒鎌＋
@@ -5000,7 +5000,7 @@ index,source,target
 4998,Dark Owl Hammer,大錘暗歐瓦勒
 4999,Dark Raven Hammer,大錘闇渡鴉
 5000,Dark Yatagarasu Hammer,大錘暗雅塔加拉蘇
-5001,Blaze Mallet,炎鎚
+5001,Blaze Mallet,烈焔鎚
 5002,Firelight Mallet,夫伊爾艾勒伊格哈鎚
 5003,Incandescent Mallet,伊恩克阿恩德艾斯鎚
 5004,Hellfire Mallet,獄火鎚
@@ -5057,7 +5057,7 @@ index,source,target
 5055,Dark Egret Lance,暗艾格爾艾特槍
 5056,Dark Longtail Lance,暗勒歐恩格特阿伊勒槍
 5057,Dark Zhenniao Lance,暗茲哈艾恩恩伊阿歐槍
-5058,Daora Lance,龍長槍
+5058,Daora Lance,崩龍長槍
 5059,Daora's Typhon,崩龍S特伊普哈歐恩
 5060,War Demon Lance,長槍戦惡魔
 5061,Power Vacuum,力真空
@@ -5065,9 +5065,9 @@ index,source,target
 5063,Pawpad Lance Two?,普阿瓦普阿德槍二
 5064,Pawpad Lance Three?,普阿瓦普阿德槍三
 5065,Pawpad Lance Four?,普阿瓦普阿德槍四
-5066,Blue Porta Lance Ⅰ,長槍青波爾塔Ⅰ
-5067,Blue Porta Lance Ⅱ,長槍青波爾塔Ⅱ
-5068,Blue Porta Lance Ⅲ,長槍青波爾塔Ⅲ
+5066,Blue Porta Lance Ⅰ,青波爾塔長槍Ⅰ
+5067,Blue Porta Lance Ⅱ,青波爾塔長槍Ⅱ
+5068,Blue Porta Lance Ⅲ,青波爾塔長槍Ⅲ
 5069,Tenelle Hasta,特艾恩艾勒勒艾槍
 5070,Black Porta Lance Ⅰ,長槍黒波爾塔Ⅰ
 5071,Black Porta Lance Ⅱ,長槍黒波爾塔Ⅱ
@@ -5077,9 +5077,9 @@ index,source,target
 5075,White Porta Lance Ⅱ,長槍白波爾塔Ⅱ
 5076,White Porta Lance Ⅲ,長槍白波爾塔Ⅲ
 5077,Patie Hasta,波蒂槍
-5078,Red Porta Lance Ⅰ,長槍赤波爾塔Ⅰ
-5079,Red Porta Lance Ⅱ,長槍赤波爾塔Ⅱ
-5080,Red Porta Lance Ⅲ,長槍赤波爾塔Ⅲ
+5078,Red Porta Lance Ⅰ,赤波爾塔長槍Ⅰ
+5079,Red Porta Lance Ⅱ,赤波爾塔長槍Ⅱ
+5080,Red Porta Lance Ⅲ,赤波爾塔長槍Ⅲ
 5081,Studi Hasta,斯烏迪槍
 5082,Orange Porta Lance Ⅰ,長槍橙波爾塔Ⅰ
 5083,Orange Porta Lance Ⅱ,長槍橙波爾塔Ⅱ
@@ -5133,9 +5133,9 @@ index,source,target
 5131,Nikir Ⅱ,恩伊克伊爾Ⅱ
 5132,Nikir Ⅲ,恩伊克伊爾Ⅲ
 5133,Nicata Ellane,尼可塔艾勒勒阿恩艾
-5134,Iris Ⅰ,姆努波Ⅰ
-5135,Iris Ⅱ,姆努波Ⅱ
-5136,Iris Ⅲ,姆努波Ⅲ
+5134,Iris Ⅰ,伊爾伊斯Ⅰ
+5135,Iris Ⅱ,伊爾伊斯Ⅱ
+5136,Iris Ⅲ,伊爾伊斯Ⅲ
 5137,Dias Iris,ＤⅠSⅠＲⅠS
 5138,Furyhair Pair,怒髮對
 5139,Love Song Furyhair Pair,愛歌怒髮對
@@ -5166,7 +5166,7 @@ index,source,target
 5164,Dead Scratch,Ｄ老ＤSＣＲTＣH
 5165,Dead Snatch,德艾阿德斯恩阿特克哈
 5166,Dead Rush,Ｄ老ＤＲＵSH
-5167,Furyhair Greatsword,大劍怒髮
+5167,Furyhair Greatsword,怒髮大劍
 5168,North F.Hair Greatswrd,大劍北F毛
 5169,Snow F.Hair Greatsword,大劍雪F毛
 5170,Flower F.Hair Greatswrd,大劍花F毛
@@ -5196,7 +5196,7 @@ index,source,target
 5194,Nkasa Barkon,恩克阿斯阿布阿爾克歐恩
 5195,Nganga,NＧNＧ
 5196,Victor Sword,維伊克特歐爾劍
-5197,Victor Edge,維伊克特歐爾端
+5197,Victor Edge,維伊克特歐爾刃
 5198,Victor Blade,維伊克特歐爾刃
 5199,King of Kings,王鈿終極
 5200,Grim Blade,格爾伊姆刃
@@ -5365,10 +5365,10 @@ index,source,target
 5363,Fang Gryphon A,牙格爾伊普哈歐恩
 5364,Fang Gryphon P,牙格爾伊普哈歐恩P
 5365,Fang Gryphon S,牙格爾伊普哈歐恩S
-5366,Fang Merman C,FNＧM老ＲMNＣ
+5366,Fang Merman C,FNＧM老ＲMNC
 5367,Fang Merman A,FNＧM老ＲMN
 5368,Fang Merman P,牙姆艾爾姆阿恩P
-5369,Fang Merman S,牙姆艾爾姆阿恩S
+5369,Fang Merman S,FNＧM老ＲMNS
 5370,Eques Gunlance,騎士銃槍
 5371,Eques Carol,未來迪克阿爾歐勒
 5372,Eques Burst,未來迪爆
@@ -5580,7 +5580,7 @@ index,source,target
 5578,Candy Rod,糖果杖
 5579,Candy Bat,糖果棒
 5580,Candy Poison,毒糖果
-5581,Caldo Edge,熱端
+5581,Caldo Edge,熱刃
 5582,Caldo Blade,熱刃
 5583,Caldo Espada,熱艾斯普阿德阿
 5584,Rotpelle,爾歐特普艾勒勒艾
@@ -5636,7 +5636,7 @@ index,source,target
 5634,Whirling Sea,瓦哈伊爾勒伊恩格海
 5635,Spring Tide,SPＲINＧTIＤ老
 5636,Great Tidalwave,大特伊德阿勒瓦阿維
-5637,Furyhair Lance,怒髮槍
+5637,Furyhair Lance,怒髮長槍
 5638,Furyhair First Lance,怒髮第一槍
 5639,Furyhair Second Lance,怒髮第二槍
 5640,Furyhair Fourth Lance,怒髮第四槍
@@ -5657,8 +5657,8 @@ index,source,target
 5655,Jebia Clicking,灰晶蠍克勒伊克克伊恩格
 5656,Jebia Plunge,灰晶蠍普勒烏恩格艾
 5657,Jebia Soul,灰晶蠍魂
-5658,Caldo Lance,熱槍
-5659,Caldo Spear,熱矛
+5658,Caldo Lance,熱長槍
+5659,Caldo Spear,熱槍
 5660,Caldo Hasta,熱槍
 5661,Rotberg,爾歐特布艾爾格
 5662,Rotinsel,爾歐特伊恩斯艾勒
@@ -5687,7 +5687,7 @@ index,source,target
 5685,Little Sweeper,勒伊特特勒艾斯瓦艾艾普艾爾
 5686,Little Volante,勒伊特特勒艾維歐勒阿恩特艾
 5687,Little Striker,勒伊特特勒艾打撃
-5688,Furyhair Gunlance,銃槍怒髮
+5688,Furyhair Gunlance,怒髮銃槍
 5689,"Furycannon ""Snowflower""",夫烏爾伊克阿恩恩斯恩歐瓦夫勒歐瓦
 5690,"Furycannon ""Snowdrift""",夫烏爾伊克阿恩恩斯恩歐瓦德爾伊夫
 5691,"Furycannon ""Spring Snow""",憤怒砲「彈簧雪」
@@ -5700,9 +5700,9 @@ index,source,target
 5698,Wisdom Ⅱ,智慧Ⅱ
 5699,Wisdom Ⅲ,智慧Ⅲ
 5700,Wisdom Naruta,智慧娜魯塔
-5701,Blaze Ⅰ,炎Ⅰ
-5702,Blaze Ⅱ,炎Ⅱ
-5703,Blaze Ⅲ,炎Ⅲ
+5701,Blaze Ⅰ,烈焔Ⅰ
+5702,Blaze Ⅱ,烈焔Ⅱ
+5703,Blaze Ⅲ,烈焔Ⅲ
 5704,Blaze Court,炎克歐烏爾特
 5705,Olga Warthog,歐勒格阿瓦阿爾特哈歐格
 5706,Olga Slinger,歐勒格阿斯勒伊恩格艾爾
@@ -5712,7 +5712,7 @@ index,source,target
 5710,"Ophion Pair ""Flash""",俄菲翁對閃
 5711,"Ophion Pair ""Shine""",俄菲翁對輝
 5712,"Ophion Pair ""Glory""",俄菲翁對栄光
-5713,Daora Hammer,龍大錘
+5713,Daora Hammer,崩龍大錘
 5714,Daora's Orb,龍S寶珠
 5715,Teostra Lance,炎王龍長槍
 5716,Teostra Firelight,炎王龍夫伊爾艾勒伊格哈
@@ -5733,9 +5733,9 @@ index,source,target
 5731,Strega Mahiveri,STＲ老ＧMHⅠⅤ老ＲⅠ
 5732,Strega Mahierudo,魔女瑪希艾魯多
 5733,Schwartz Sage,SＣHWＲTＺSＧ老
-5734,Lars Ⅰ,章觸媒Ⅰ
-5735,Lars Ⅱ,章觸媒Ⅱ
-5736,Lars Ⅲ,章觸媒Ⅲ
+5734,Lars Ⅰ,拉Ⅰ
+5735,Lars Ⅱ,拉Ⅱ
+5736,Lars Ⅲ,拉Ⅲ
 5737,Fluorescent,夫勒烏歐爾艾斯克
 5738,Gyro Ⅰ,格伊爾歐Ⅰ
 5739,Gyro Ⅱ,格伊爾歐Ⅱ
@@ -5773,7 +5773,7 @@ index,source,target
 5771,Verdes Slicer,維艾爾德艾斯斬撃
 5772,Willide Crisis,瓦伊勒勒伊德艾危機
 5773,Zylide Onui,茲伊勒伊德艾歐努伊
-5774,Afferter I,FF老ＲT老ＲI
+5774,Afferter I,阿夫夫艾爾特艾爾Ⅰ
 5775,Afferter Ⅱ,阿夫夫艾爾特艾爾Ⅱ
 5776,Afferter Ⅲ,阿夫夫艾爾特艾爾Ⅲ
 5777,Navaja,娜瓦雅
@@ -5782,9 +5782,9 @@ index,source,target
 5780,Futto ⅠⅠⅠ,夫烏特特歐
 5781,Uruga Futachio,烏魯加芙塔奇伊歐
 5782,Amethyst Swallow I,紫水晶燕Ⅰ
-5783,Amethyst Swallow II,紫水晶燕Ⅱ
-5784,Amethyst Swallow III,紫水晶燕Ⅲ
-5785,Amethyst Swallow IV,紫水晶燕Ⅳ
+5783,Amethyst Swallow II,紫水晶燕ⅠⅠ
+5784,Amethyst Swallow III,紫水晶燕ⅠⅠⅠ
+5785,Amethyst Swallow IV,紫水晶燕ⅠⅤ
 5786,Amethyst Swallow V,紫水晶燕Ⅴ
 5787,Move Fast as Lightning,雷動法斯AS
 5788,Hypno Silence,眠沈黙
@@ -5803,17 +5803,17 @@ index,source,target
 5801,Carnage General Distor,克阿爾恩阿格艾格艾恩艾爾阿勒德伊斯特歐爾
 5802,Extinction Emperor Estin,艾克斯特伊恩克特帝艾斯特伊恩
 5803,Balisk I,布阿勒伊斯克Ⅰ
-5804,Balisk II,布阿勒伊斯克Ⅱ
-5805,Balisk III,布阿勒伊斯克Ⅲ
+5804,Balisk II,布阿勒伊斯克ⅠⅠ
+5805,Balisk III,布阿勒伊斯克ⅠⅠⅠ
 5806,Paralispada,普阿爾阿勒伊斯普
 5807,Naval I,恩阿維阿勒Ⅰ
-5808,Naval II,恩阿維阿勒Ⅱ
-5809,Naval III,恩阿維阿勒Ⅲ
+5808,Naval II,恩阿維阿勒ⅠⅠ
+5809,Naval III,恩阿維阿勒ⅠⅠⅠ
 5810,Nabile Ligiano,娜比勒利吉阿諾
 5811,Amethyst Rhinos I,紫水晶犀Ⅰ
-5812,Amethyst Rhinos II,紫水晶犀Ⅱ
-5813,Amethyst Rhinos III,紫水晶犀Ⅲ
-5814,Amethyst Rhinos IV,紫水晶犀Ⅳ
+5812,Amethyst Rhinos II,紫水晶犀ⅠⅠ
+5813,Amethyst Rhinos III,紫水晶犀ⅠⅠⅠ
+5814,Amethyst Rhinos IV,紫水晶犀ⅠⅤ
 5815,Amethyst Rhinos V,紫水晶犀Ⅴ
 5816,Yakal Axt,伊阿克阿勒阿克斯特
 5817,"Floating Peak LS ""White""",太刀浮游峰白
@@ -5848,8 +5848,8 @@ index,source,target
 5846,San no Kaze Chirin,沸血吼之可澤克哈伊爾伊恩
 5847,Jinchiruurin,JⅠNＣHⅠＲＵＵＲⅠN
 5848,Letra I,勒特阿Ⅰ
-5849,Letra II,勒特阿Ⅱ
-5850,Letra III,勒特阿Ⅲ
+5849,Letra II,勒特阿ⅠⅠ
+5850,Letra III,勒特阿ⅠⅠⅠ
 5851,Okushida Palo,奧志田波洛
 5852,Arinus I,ＲⅠNＵSⅠ
 5853,Arinus II,ＲⅠNＵSⅠⅠ
@@ -5874,17 +5874,17 @@ index,source,target
 5872,Guren Willen,紅蓮瓦伊勒勒艾恩
 5873,Guren Vios,紅蓮維伊歐斯
 5874,Cardo Mace,可多鎚
-5875,Cardo hammer,大錘可多
+5875,Cardo hammer,可多大錘
 5876,Cardo impact,可多衝撃
 5877,Rotes Gebet,爾歐特艾斯格艾布艾特
 5878,Roth Holzer,羅斯哈歐勒茲艾爾
 5879,Tardro I,特阿爾德爾歐Ⅰ
-5880,Tardro II,特阿爾德爾歐Ⅱ
-5881,Tardro III,特阿爾德爾歐Ⅲ
+5880,Tardro II,特阿爾德爾歐ⅠⅠ
+5881,Tardro III,特阿爾德爾歐ⅠⅠⅠ
 5882,Truduro,特烏杜羅
 5883,Shiroma I,修伊羅瑪Ⅰ
-5884,Shiroma II,修伊羅瑪Ⅱ
-5885,Shiroma III,修伊羅瑪Ⅲ
+5884,Shiroma II,修伊羅瑪ⅠⅠ
+5885,Shiroma III,修伊羅瑪ⅠⅠⅠ
 5886,Cecil silomed,克艾克伊勒斯伊勒歐姆艾德
 5887,Wetz Jewel,瓦艾特茲寶
 5888,Wet's Jewel,瓦艾特寶
@@ -5910,8 +5910,8 @@ index,source,target
 5908,Roter Ton,爾歐特艾爾特歐恩
 5909,Rote Floete,輪唱弗歐艾特
 5910,Ponos I,普歐恩歐斯Ⅰ
-5911,Ponos II,普歐恩歐斯Ⅱ
-5912,Ponos III,普歐恩歐斯Ⅲ
+5911,Ponos II,普歐恩歐斯ⅠⅠ
+5912,Ponos III,普歐恩歐斯ⅠⅠⅠ
 5913,Zmos Berio,茲姆歐斯貝里歐
 5914,Nyakucho,恩伊阿克烏克哈歐
 5915,"Nyakucho ""Bullet""",恩伊阿克烏克哈歐弾
@@ -6109,7 +6109,7 @@ index,source,target
 6107,Caravan Katana Ⅶ,旅團刀Ⅶ
 6108,Melynx Expeller,梅拉路艾克斯普艾勒勒艾
 6109,Snell Loen,斯恩艾勒勒勒歐艾恩
-6110,Victor Hammer,大錘維伊克特歐爾
+6110,Victor Hammer,維伊克特歐爾大錘
 6111,Victor Stomper,維伊克特歐爾斯特歐姆普艾爾
 6112,Victor Impact,維伊克特歐爾衝撃
 6113,Lady of Queens,勒阿德伊奎烏艾艾恩斯
@@ -6539,16 +6539,16 @@ index,source,target
 6537,Progress Ⅲ,普爾歐格爾艾斯斯Ⅲ
 6538,8A19・プベッシュハンマー,8A19・普烏布艾布斯哈烏
 6539,Ice Crusher Ⅰ,冰粉碎Ⅰ
-6540,Ice Crusher II,冰粉碎Ⅱ
-6541,Ice Crusher III,冰粉碎Ⅲ
+6540,Ice Crusher II,冰粉碎ⅠⅠ
+6541,Ice Crusher III,冰粉碎ⅠⅠⅠ
 6542,Glacier Crash,氷克阿修
 6543,Thunder Bash I,THＵNＤ老ＲＢSHⅠ
 6544,Thunder Bash II,THＵNＤ老ＲＢSHⅠⅠ
 6545,Thunder Bash III,THＵNＤ老ＲＢSHⅠⅠⅠ
 6546,Thunder Smasher,雷粉碎
 6547,Burning Maul I,燃燒姆阿烏勒Ⅰ
-6548,Burning Maul II,燃燒姆阿烏勒Ⅱ
-6549,Burning Maul III,燃燒姆阿烏勒Ⅲ
+6548,Burning Maul II,燃燒姆阿烏勒ⅠⅠ
+6549,Burning Maul III,燃燒姆阿烏勒ⅠⅠⅠ
 6550,Burning Sun,燃燒日
 6551,Rain Caller Ⅰ,雨克阿勒勒艾爾Ⅰ
 6552,Rain Caller Ⅱ,雨克阿勒勒艾爾Ⅱ
@@ -6767,9 +6767,9 @@ index,source,target
 6765,Frozen Edge Ⅲ,凍結刃Ⅲ
 6766,Blizzard Edge,吹雪刃
 6767,Taikun Edge,多殼蟹刃
-6768,"Taikun Edge ""Safflower""",多殼蟹刃瓦里艾
-6769,"Taikun Edge ""Camillia""",多殼蟹刃
-6770,"Taikun Edge ""Phnxflower""",多殼蟹刃
+6768,"Taikun Edge ""Safflower""",多殼蟹刃Safflower
+6769,"Taikun Edge ""Camillia""",多殼蟹刃Camillia
+6770,"Taikun Edge ""Phnxflower""",多殼蟹刃Phnxflower
 6771,"TaikunEdge""Rhododendron""",多殼蟹端爾哈歐德歐德艾恩
 6772,Zorn Blade,茲歐爾恩刃
 6773,Wut Blade,瓦烏特刃
@@ -6865,10 +6865,10 @@ index,source,target
 6863,Pokara Blade/White,凍冰獸刃白
 6864,Pokara Dragon/White,凍冰獸龍白
 6865,Taikun Hammer,多殼蟹大錘
-6866,"Taikun Hammer ""Santalum""",多殼蟹大錘斯阿恩特阿勒烏姆
-6867,"Taikun Hammer ""Buxus""",多殼蟹大錘布烏克斯烏斯
-6868,"Taikun Hammer ""Juglans""",多殼蟹大錘杰烏格勒阿恩斯
-6869,"Taikun Hammer ""Lindera""",多殼蟹大錘勒伊恩德艾爾阿
+6866,"Taikun Hammer ""Santalum""",多殼蟹大錘Santalum
+6867,"Taikun Hammer ""Buxus""",多殼蟹大錘Buxus
+6868,"Taikun Hammer ""Juglans""",多殼蟹大錘Juglans
+6869,"Taikun Hammer ""Lindera""",多殼蟹大錘Lindera
 6870,Sand Klinge,砂刃
 6871,Rock Klinge,岩石刃
 6872,Berg Klinge,山刃
@@ -6965,12 +6965,12 @@ index,source,target
 6963,Chime Fierce Icehorn,風鈴猛伊克艾哈歐爾恩
 6964,Chime Violent Icehorn,風鈴凶暴伊克艾哈歐爾恩
 6965,Taikun Lance,多殼蟹長槍
-6966,"Taikun Lance ""Lily""",多殼蟹長槍百合
-6967,"Taikun Lance ""Deutzia""",多殼蟹長槍德艾烏特茲伊阿
-6968,"Taikun Lance""Chloranths""",多殼蟹長槍克哈勒歐爾阿恩特
-6969,"Taikun Lance ""Daphne""",多殼蟹長槍達菲涅
-6970,Azure Wing Ciel Lance,蒼翼天槍
-6971,Azure Wing Ciel Spear,蒼翼天矛
+6966,"Taikun Lance ""Lily""",多殼蟹長槍Lily
+6967,"Taikun Lance ""Deutzia""",多殼蟹長槍Deutzia
+6968,"Taikun Lance""Chloranths""",多殼蟹長槍Chloranths
+6969,"Taikun Lance ""Daphne""",多殼蟹長槍Daphne
+6970,Azure Wing Ciel Lance,蒼翼天之長槍
+6971,Azure Wing Ciel Spear,蒼翼天之槍
 6972,Azure Wing Ciel Horn,蒼翼天之角
 6973,Azure Wing Ciel Abyss,蒼翼天深淵
 6974,Valier Mettalier,勇士姆艾特特阿勒伊艾
@@ -6998,19 +6998,19 @@ index,source,target
 6996,Almogatore,阿勒姆歐格阿特歐
 6997,Alema Fidante,阿勒瑪夫伊德阿恩特艾
 6998,Taikun Spear,多殼蟹槍
-6999,"Taikun Spear ""Peony""",多殼蟹矛普艾歐恩伊
-7000,"Taikun Spear ""Punica""",多殼蟹槍普尼可
-7001,"Taikun Spear ""Papaver""",多殼蟹槍普阿普阿維艾爾
-7002,"Taikun Spear ""Clivia""",多殼蟹槍克伊維阿
+6999,"Taikun Spear ""Peony""",多殼蟹槍Peony
+7000,"Taikun Spear ""Punica""",多殼蟹槍Punica
+7001,"Taikun Spear ""Papaver""",多殼蟹槍Papaver
+7002,"Taikun Spear ""Clivia""",多殼蟹槍Clivia
 7003,Zaun Klinge,茲阿烏恩刃
 7004,Tor Klinge,特歐爾刃
 7005,Groll Klinge,格爾歐勒勒刃
 7006,Guard Rebell,衛叛
 7007,Linie Rebell,利尼艾叛
 7008,Ice Gunlance,冰銃槍
-7009,"Ice Gunlance ""Drop""",冰銃槍德爾歐普
-7010,"Ice Gunlance ""Blast""",冰銃槍爆破
-7011,"Ice Gunlance ""Burst""",冰銃槍爆
+7009,"Ice Gunlance ""Drop""",冰銃槍Drop
+7010,"Ice Gunlance ""Blast""",冰銃槍Blast
+7011,"Ice Gunlance ""Burst""",冰銃槍Burst
 7012,"Odai Rikagra ""Mai""",歐達伊里可格阿
 7013,"Odai Rikagra ""Dance""",歐達伊里可格阿舞
 7014,"Odai Rikagra ""Feast""",歐達伊里可格阿宴
@@ -7196,8 +7196,8 @@ index,source,target
 7194,Oath of Princess Sasa,誓公主沙沙
 7195,Joy of Princess Sasa,阿爾布公主沙沙
 7196,Insight of Princess Sasa,伊恩斯伊格哈特公主沙沙
-7197,Aura Knife,気刀
-7198,Aura Dagger,気短劍
+7197,Aura Knife,光環刀
+7198,Aura Dagger,光環短劍
 7199,Goldberg,格歐勒德布艾爾格
 7200,Gold Bite,金比特
 7201,Gold Roi,金羅伊
@@ -7323,14 +7323,14 @@ index,source,target
 7321,Imperial Mechanical Saw,帝國機械鋸
 7322,"AntiDragonChainsaw""Halt""",龍抗克哈阿伊恩斯阿瓦哈阿勒特
 7323,"AntiDragonChainsaw""Slay""",龍抗克哈阿伊恩斯阿瓦討伐
-7324,Aura Sword,気劍
+7324,Aura Sword,光環劍
 7325,Aura Schwert,ＵＲSＣHW老ＲT
 7326,Gold Raptor,金爾阿普特歐爾
 7327,Gold Hagel,金哈阿格艾勒
 7328,Gold Dunk,金德烏恩克
 7329,Spillblade I,斯普伊勒勒布勒阿Ⅰ
-7330,Spillblade II,斯普伊勒勒布勒阿Ⅱ
-7331,Spillblade III,斯普伊勒勒布勒阿Ⅲ
+7330,Spillblade II,斯普伊勒勒布勒阿ⅠⅠ
+7331,Spillblade III,斯普伊勒勒布勒阿ⅠⅠⅠ
 7332,A41C・スピ・エボシル,A41C・蘇皮・艾波修伊魯
 7333,A51C・レフィラナシオⅠ,A51C・雷菲拉娜修伊歐
 7334,A61C・レフィラナシオⅡ,A61C・雷菲拉娜修伊歐
@@ -7375,10 +7375,10 @@ index,source,target
 7373,"Empress Blade ""Heaven""",女帝刃天
 7374,Dainsleip F,德阿伊恩斯勒艾伊F
 7375,Crystal Edge,結晶刃
-7376,"Crystal Edge ""Fulg""",結晶刃
-7377,"Crystal Edge ""Fulgor""",結晶刃
-7378,"Crystal Edge ""Lux""",結晶刃恩流浪
-7379,"Crystal Edge ""Lux Solis""",結晶刃
+7376,"Crystal Edge ""Fulg""",結晶刃Fulg
+7377,"Crystal Edge ""Fulgor""",結晶刃Fulgor
+7378,"Crystal Edge ""Lux""",結晶刃Lux
+7379,"Crystal Edge ""Lux Solis""",結晶刃Lux Solis
 7380,Thunder Shock Sword,雷斯哈歐克克劍
 7381,Thunder Slash Sword,雷斬劍
 7382,Thunder Slay Sword,雷討伐劍
@@ -7388,8 +7388,8 @@ index,source,target
 7386,OfficialElectricSword,歐夫夫伊克伊阿勒艾勒艾克特爾伊克劍
 7387,"ReinforcdElecSwrd""Flame""",爾艾伊恩夫歐爾克艾勒艾克黑鍵盤焔
 7388,"ReinforcdElecSwrd""Light""",爾艾伊恩夫歐爾克艾勒艾克黑鍵盤輕
-7389,Aura Edge,気刃
-7390,Aura Blade,気刃
+7389,Aura Edge,光環刃
+7390,Aura Blade,光環刃
 7391,Gold Pearl,金珍珠
 7392,Gold Zanto,金茲阿恩特歐
 7393,Gold Gut,金格烏特
@@ -7417,16 +7417,16 @@ index,source,target
 7415,F71C・炎天丸【鳳凰】,F71C・炎天丸【鳳凰】
 7416,Safir Snake Ⅴ,斯阿夫伊爾蛇Ⅴ
 7417,Dragon Hammer,龍大錘
-7418,"Dragon Hammer ""Crush""",龍大錘破碎
-7419,"Dragon Hammer ""Break""",龍大錘砕
-7420,"Dragon Hammer ""Broken""",龍大錘破損
+7418,"Dragon Hammer ""Crush""",龍大錘Crush
+7419,"Dragon Hammer ""Break""",龍大錘Break
+7420,"Dragon Hammer ""Broken""",龍大錘Broken
 7421,Mochi Mallet,餅鎚
 7422,Herbal Mochi Mallet,薬草餅鎚
 7423,Persimmon Mochi Mallet,普艾爾斯伊姆姆歐餅鎚
 7424,The Moonlight,月光
 7425,The Crater,TH老ＣＲT老Ｒ
 7426,Aurora Mace,極光鎚
-7427,Aurora Hammer,大錘極光
+7427,Aurora Hammer,極光大錘
 7428,Gold Gebet,金格艾布艾特
 7429,Gold Gehorsam,金格艾哈歐爾斯阿姆
 7430,Golden Zorn,金茲歐爾恩
@@ -7502,7 +7502,7 @@ index,source,target
 7500,Kushala's Metoc,鋼龍姆艾特歐克
 7501,Kushala's Stove,鋼龍斯歐維
 7502,Kushala's Term,鋼龍特艾爾姆
-7503,Aurora Lance,長槍極光
+7503,Aurora Lance,極光長槍
 7504,Aurora Spear,極光槍
 7505,Gold Berg,金氷山
 7506,Gold Insel,金伊恩斯艾勒
@@ -7538,7 +7538,7 @@ index,source,target
 7536,"Scarlet Spear ""Daring""",緋槍Daring
 7537,"Scarlet Spear ""Heroic""",緋槍Heroic
 7538,"Scarlet Spear ""Valor""",緋槍Valor
-7539,Still Water,水血吼牙
+7539,Still Water,水靜
 7540,Stream Water,水流
 7541,Rapid Water,ＲPIＤWT老Ｒ
 7542,Waterfall,瓦阿特艾爾夫阿勒
@@ -7552,7 +7552,7 @@ index,source,target
 7550,"RedHuntrGunlanc ""Three""",銃槍赤獵三
 7551,"RedHuntrGunlanc""Crimson""",銃槍赤獵深紅
 7552,"RedHuntrGunlanc""Scarlet""",銃槍赤獵緋
-7553,Aurora Gunlance,銃槍極光
+7553,Aurora Gunlance,極光銃槍
 7554,Aurora Carol,極光克阿爾歐勒
 7555,Gold Regen,金極征服
 7556,Gold Slotov,金斯勒歐特歐維
@@ -7603,7 +7603,7 @@ index,source,target
 7601,True Eno Edge,真艾諾端
 7602,True Enclave,真艾恩克勒阿維艾
 7603,True Eno,真艾諾
-7604,Rin Hit Edge,ＲⅠNHⅠT老ＤＧ老
+7604,Rin Hit Edge,爾伊恩打刃
 7605,Rin Hit Blade,爾伊恩打刃
 7606,Rin Hit,爾伊恩打
 7607,Umeda Edge,ＵM老Ｄ刃
@@ -7680,7 +7680,7 @@ index,source,target
 7678,True Judgement Odi Sword,真杰烏德格艾姆艾恩奧劍
 7679,Heavy Decision Odi Sword,重德艾克伊斯伊歐恩奧劍
 7680,ダミー,假
-7681,"Taikun Edge ""Spidr Lily""",多殼蟹刃
+7681,"Taikun Edge ""Spidr Lily""",多殼蟹刃Spidr Lily
 7682,Epidosis Blade Ⅰ,艾皮多西斯刃Ⅰ
 7683,Epidosis Blade Ⅱ,艾皮多西斯刃Ⅱ
 7684,Epidosis Blade Ⅲ,艾皮多西斯刃Ⅲ
@@ -7743,9 +7743,9 @@ index,source,target
 7741,3D1E・インデュレイヤー,3D1E・伊恩德烏爾艾伊伊
 7742,3E1E・インデュタスク,3E1E・伊恩德烏特阿斯烏
 7743,3F1E・インデ・フライオ,3F1E・伊恩德艾・芙拉伊歐
-7744,Diesel Ⅰ,德伊艾斯艾勒Ⅰ
-7745,Diesel Ⅱ,德伊艾斯艾勒Ⅱ
-7746,Diesel Ⅲ,德伊艾斯艾勒Ⅲ
+7744,Diesel Ⅰ,柴油Ⅰ
+7745,Diesel Ⅱ,柴油Ⅱ
+7746,Diesel Ⅲ,柴油Ⅲ
 7747,431E・アイン・カリーソ,431E・亞因・可里索
 7748,Suffocation,斯烏夫夫歐克阿特
 7749,"Mallet ""Crush""",鎚砕
@@ -7811,9 +7811,9 @@ index,source,target
 7809,Epidosis Lance Ⅰ,艾皮多西斯長槍Ⅰ
 7810,Epidosis Lance Ⅱ,艾皮多西斯長槍Ⅱ
 7811,Epidosis Lance Ⅲ,艾皮多西斯長槍Ⅲ
-7812,Cambrio Lance Ⅰ,坎布里奧槍Ⅰ
-7813,Cambrio Lance Ⅱ,坎布里奧槍Ⅱ
-7814,Cambrio Lance Ⅲ,坎布里奧槍Ⅲ
+7812,Cambrio Lance Ⅰ,坎布里奧長槍Ⅰ
+7813,Cambrio Lance Ⅱ,坎布里奧長槍Ⅱ
+7814,Cambrio Lance Ⅲ,坎布里奧長槍Ⅲ
 7815,Schwarz Genie,SＣHWＲＺＧ老NI老
 7816,Erdmetall,艾爾德姆艾特阿勒
 7817,891E・エリュトメテリノ,891E・艾里烏托梅特里諾
@@ -7952,7 +7952,7 @@ index,source,target
 7950,0E1F・極舞雷双【角鷹】,0E1F・極舞雷双【角鷹】
 7951,Snow Fury Pair,雪狂對
 7952,Daora's Typhoon,崩龍S特伊普哈歐歐恩
-7953,"Taikun Blade ""Peony""",多殼蟹刃普艾歐恩伊
+7953,"Taikun Blade ""Peony""",多殼蟹刃Peony
 7954,"Sirius Blade""SilverMoon""",斯伊爾伊烏斯刃銀月
 7955,Teostra's Frenzyblade,炎王夫爾艾恩茲伊刃
 7956,Daora's Luft,崩龍勒烏夫特
@@ -8180,9 +8180,9 @@ index,source,target
 8178,"Dual Spear ""Blazing""",雙矛「熾」
 8179,"Dual Spear ""Extinction""",雙矛艾克斯特伊恩克特
 8180,Kanshou and Bakuya I,克阿恩斯哈歐烏巴庫雅Ⅰ
-8181,Kanshou and Bakuya II,克阿恩斯哈歐烏巴庫雅Ⅱ
-8182,Kanshou and Bakuya III,克阿恩斯哈歐烏巴庫雅Ⅲ
-8183,Kanshou and Bakuya IV,克阿恩斯哈歐烏巴庫雅Ⅳ
+8181,Kanshou and Bakuya II,克阿恩斯哈歐烏巴庫雅ⅠⅠ
+8182,Kanshou and Bakuya III,克阿恩斯哈歐烏巴庫雅ⅠⅠⅠ
+8183,Kanshou and Bakuya IV,克阿恩斯哈歐烏巴庫雅ⅠⅤ
 8184,Kanshou and Bakuya V,克阿恩斯哈歐烏巴庫雅Ⅴ
 8185,Zyli Vega,茲伊勒伊維加
 8186,FA1F・マルタ・メディリス,FA1F・TA・梅迪里蘇
@@ -8240,9 +8240,9 @@ index,source,target
 8238,Raid Ⅳ,爾阿伊德Ⅳ
 8239,2F20・レド・モトゥム,2F20・雷多・莫圖穆
 8240,Taikun Sword,多殼蟹劍
-8241,"Taikun Sword ""Gentian""",多殼蟹劍格艾恩特伊阿恩
-8242,"Taikun Sword ""Asterid""",多殼蟹劍阿斯特艾爾伊德
-8243,"Taikun Katana ""Gentian""",多殼蟹刀格艾恩特伊阿恩
+8241,"Taikun Sword ""Gentian""",多殼蟹劍Gentian
+8242,"Taikun Sword ""Asterid""",多殼蟹劍Asterid
+8243,"Taikun Katana ""Gentian""",多殼蟹刀Gentian
 8244,R.Taikun Katana,R・太君刀
 8245,"R.Taikun Sword ""Gentian""",R・太君劍「龍膽」
 8246,"R.Taikun Sword ""Asterid""",R・太君劍「翠菊」
@@ -8397,7 +8397,7 @@ index,source,target
 8395,Sona Strings,索娜斯特爾伊恩格斯
 8396,"Nyachuko ""Music""",恩伊阿克哈烏克歐音樂
 8397,CD20・デュリオス,CD20・杜里歐蘇
-8398,Infinity Horn,無限之角
+8398,Infinity Horn,無限角
 8399,Awis Horn,阿維斯角
 8400,Vola Trumpet,沃拉號角
 8401,Noble Lance,長槍貴族
@@ -8453,7 +8453,7 @@ index,source,target
 8451,Asgard,SＧＲＤ
 8452,0421・エルダムド,0421・艾魯達穆多
 8453,0521・パティエール,0521・波蒂埃爾
-8454,Infinity Lance,無限槍
+8454,Infinity Lance,無限長槍
 8455,Awis Lance,阿維斯長槍
 8456,Vola Lance,沃拉長槍
 8457,ダミー,假
@@ -8494,7 +8494,7 @@ index,source,target
 8492,"FMX ""Slim""",夫姆克斯
 8493,Arthur Gaze,ＲTHＵＲＧＺ老
 8494,Maelstrom,大渦
-8495,Infinity Cannon,無限砲
+8495,Infinity Cannon,無限加農砲
 8496,Awis Gunlance,阿維斯銃槍
 8497,Vola Gunlance,沃拉銃槍
 8498,Shipler Knife,斯哈伊普勒艾爾刀
@@ -8517,26 +8517,26 @@ index,source,target
 8515,Berum Sword SPⅣ,貝魯姆劍ＳＰⅣ
 8516,Berum Sword SPⅦ,貝魯姆劍ＳＰⅦ
 8517,Torem Sword,特歐爾艾姆劍
-8518,Shipler Lance,斯哈伊普勒艾爾槍
+8518,Shipler Lance,斯哈伊普勒艾爾長槍
 8519,Berum Lance SPⅠ,貝魯姆槍ＳＰⅠ
 8520,Berum Lance SPⅣ,貝魯姆槍ＳＰⅣ
 8521,Berum Lance SPⅦ,貝魯姆槍ＳＰⅦ
-8522,Torem Lance,特歐爾艾姆槍
-8523,Shipler Cannon,斯哈伊普勒艾爾砲
+8522,Torem Lance,特歐爾艾姆長槍
+8523,Shipler Cannon,斯哈伊普勒艾爾加農砲
 8524,Berum Cannon SPⅠ,貝魯姆砲ＳＰⅠ
 8525,Berum Cannon SPⅣ,貝魯姆砲ＳＰⅣ
 8526,Berum Cannon SPⅦ,貝魯姆砲ＳＰⅦ
-8527,Torem Cannon,特歐爾艾姆砲
+8527,Torem Cannon,特歐爾艾姆加農砲
 8528,Shipler Mace,斯哈伊普勒艾爾鎚
 8529,Berum Mace SPⅠ,貝魯姆鎚ＳＰⅠ
 8530,Berum Mace SPⅣ,貝魯姆鎚ＳＰⅣ
 8531,Berum Mace SPⅦ,貝魯姆鎚ＳＰⅦ
 8532,Torem Mace,特歐爾艾姆鎚
-8533,Shipler Horn,斯哈伊普勒艾爾之角
+8533,Shipler Horn,斯哈伊普勒艾爾角
 8534,Berum Horn SPⅠ,貝魯姆角ＳＰⅠ
 8535,Berum Horn SPⅣ,貝魯姆角ＳＰⅣ
 8536,Berum Horn SPⅦ,貝魯姆角ＳＰⅦ
-8537,Torem Horn,特歐爾艾姆之角
+8537,Torem Horn,特歐爾艾姆角
 8538,ダミー,假
 8539,ダミー,假
 8540,ダミー,假
@@ -8762,10 +8762,10 @@ index,source,target
 8760,Hatred Anger,HTＲ老ＤNＧ老Ｒ
 8761,Arch Anger,強撃尾虎皮
 8762,Saint Anger,聖尾虎皮
-8763,Glyph Ⅰ,字形Ⅰ
-8764,Glyph Ⅱ,字形Ⅱ
-8765,Glyph Ⅲ,字形Ⅲ
-8766,Glyph Ⅳ,字形Ⅳ
+8763,Glyph Ⅰ,符文Ⅰ
+8764,Glyph Ⅱ,符文Ⅱ
+8765,Glyph Ⅲ,符文Ⅲ
+8766,Glyph Ⅳ,符文Ⅳ
 8767,Glyph Maero,字形瑪艾羅
 8768,Sturm Cutter,STＵＲMＣＵTT老Ｒ
 8769,Grand Darius,ＧＲNＤＤＲIＵS
@@ -8805,7 +8805,7 @@ index,source,target
 8803,"CarvdDrgnBuster""Clarity""",龍雕破克勒阿爾伊特伊
 8804,"CarvdDrgnBuster""Freeze""",ＣＲＶＤＤＲＧNＢＵST老ＲFＲ老老Ｚ老
 8805,"CarvdDrgnBuster""Judge""",ＣＲＶＤＤＲＧNＢＵST老ＲJＵＤＧ老
-8806,"Taikun GS ""Scarlet Flwr""",多殼蟹大劍緋努波奇
+8806,"Taikun GS ""Scarlet Flwr""",多殼蟹Scarlet FlwrGS
 8807,"Ex Sirius ""Moonblow""",ＥＸ斯伊爾伊烏斯姆歐歐恩布勒歐瓦
 8808,Thunderboom Ⅰ,特哈烏恩德艾爾布Ⅰ
 8809,Thunderboom Ⅱ,特哈烏恩德艾爾布Ⅱ
@@ -9022,7 +9022,7 @@ index,source,target
 9020,Willow Thunderpole Sword,柳特哈烏恩德艾爾普劍
 9021,3D23・天熾シ凍土ニ咲ク刃,3D23・天熾修伊凍土NI咲KU刃
 9022,Tita Montana,泰坦姆歐恩特阿恩阿
-9023,Heavenly Hammer,大錘天上
+9023,Heavenly Hammer,天上大錘
 9024,Haar Sakhr,HＲSｋHＲ
 9025,Despots's Crush,德艾斯普歐特斯S砕
 9026,Demolition Hammer,大錘德艾姆歐勒伊特伊
@@ -9032,7 +9032,7 @@ index,source,target
 9030,Thunder Flash Hammer,雷閃光大錘
 9031,Occult Effusion,歐克克烏勒特艾夫夫烏斯伊歐恩
 9032,Vashim Haken,ⅤSHⅠMHｋ老N
-9033,Barbarian Hammer,大錘蠻
+9033,Barbarian Hammer,蠻大錘
 9034,Neve Ashiku,N老Ⅴ老SHⅠｋＵ
 9035,Tita Musika,泰坦穆西可
 9036,Courage Pipe,勇気管
@@ -9057,7 +9057,7 @@ index,source,target
 9055,Anorupatisu Longhorn,暴鋸龍勒歐恩格哈歐爾恩
 9056,Occult Incessance,歐克克烏勒特伊恩克艾斯斯阿恩
 9057,Vashim Spitz,瓦希姆斯普伊特茲
-9058,Barbarian Lance,長槍蠻
+9058,Barbarian Lance,蠻長槍
 9059,Neve Acris,N老Ｖ老ＣＲIS
 9060,Scythe Thunderpole Spear,鎌特哈烏恩德艾爾普矛
 9061,Tita Rama,泰坦拉瑪
@@ -9069,7 +9069,7 @@ index,source,target
 9067,Coiled Thunder Gunlance,雷克歐伊勒艾德銃槍
 9068,Optarisk = Pain,歐普特阿爾伊斯克痛
 9069,6D23・ヴァクラール,6D23・瓦庫拉魯
-9070,Barbarian Gunlance,銃槍蠻
+9070,Barbarian Gunlance,蠻銃槍
 9071,6F23・ネヴェアネータ,6F23・涅維阿涅塔
 9072,7023・凍テツク時ヲ熾獣槍,7023・凍特艾特斯烏克烏時WO熾獣槍
 9073,7123・ダードスラスト,7123・達多蘇拉蘇托
@@ -9484,14 +9484,14 @@ index,source,target
 9482,Parallel Falchion Ⅳ,普阿爾阿勒勒艾勒彎刀Ⅳ
 9483,Parallel Falchion Ⅴ,普阿爾阿勒勒艾勒彎刀Ⅴ
 9484,Rebellion I,叛逆Ⅰ
-9485,Rebellion II,叛逆Ⅱ
-9486,Rebellion III,叛逆Ⅲ
-9487,Rebellion IV,叛逆Ⅳ
+9485,Rebellion II,叛逆ⅠⅠ
+9486,Rebellion III,叛逆ⅠⅠⅠ
+9487,Rebellion IV,叛逆ⅠⅤ
 9488,Rebellion V,叛逆Ⅴ
 9489,Rebellion Kai I,叛逆可伊Ⅰ
-9490,Rebellion Kai II,叛逆可伊Ⅱ
-9491,Rebellion Kai III,叛逆可伊Ⅲ
-9492,Rebellion Kai IV,叛逆可伊Ⅳ
+9490,Rebellion Kai II,叛逆可伊ⅠⅠ
+9491,Rebellion Kai III,叛逆可伊ⅠⅠⅠ
+9492,Rebellion Kai IV,叛逆可伊ⅠⅤ
 9493,Rebellion Kai V,叛逆可伊Ⅴ
 9494,1625・ケミライドソード,1625・凱米拉伊多索多
 9495,1725・ケミイベンタソード,1725・克艾姆伊伊布艾恩
@@ -9757,17 +9757,17 @@ index,source,target
 9755,"Thundergrace ""Phoenix""",特哈烏恩德艾爾格鳳凰
 9756,"Thunderpike ""Kimnara""",特哈烏恩德艾爾普克伊姆恩阿爾阿
 9757,"Thunderbreak ""Demon""",特哈烏恩德艾爾布魔
-9758,Darkness Lance,長槍ＤＲｋN老SS
+9758,Darkness Lance,ＤＲｋN老SS長槍
 9759,Darker Cannon,德阿爾克艾爾加農砲
 9760,Golden Grid,金格爾伊德
 9761,Leeching Sword,勒艾奇伊恩劍
 9762,Leeching Blade,勒艾奇伊恩刃
-9763,Leeching Gunlance,銃槍勒艾奇伊恩
-9764,Leeching Hammer,大錘勒艾奇伊恩
+9763,Leeching Gunlance,勒艾奇伊恩銃槍
+9764,Leeching Hammer,勒艾奇伊恩大錘
 9765,Blooddrinking Sword,布勒歐歐德德爾伊劍
 9766,Blooddrinking Blade,布勒歐歐德德爾伊刃
 9767,Blooddrinking Glance,布勒歐歐德德爾伊瞥
-9768,Blooddrinking Hammer,大錘布勒歐歐德德爾伊
+9768,Blooddrinking Hammer,布勒歐歐德德爾伊大錘
 9769,Para Bloodeating Sword,麻痺噬血劍
 9770,Para Bloodeating Blade,麻痺噬血刃
 9771,Para Bloodeating GLance,麻痺噬血Ｇ長槍
@@ -9793,11 +9793,11 @@ index,source,target
 9791,Nameless Dagger Ⅲ,無名短劍Ⅲ
 9792,Nameless Dagger Ⅳ,無名短劍Ⅳ
 9793,Nameless Dagger Ⅴ,無名短劍Ⅴ
-9794,"Nameless Dagger ""Blk"" Ⅰ",無名短劍黒Ⅰ
-9795,"Nameless Dagger ""Blk"" Ⅱ",無名短劍黒Ⅱ
-9796,"Nameless Dagger ""Blk"" Ⅲ",無名短劍黒Ⅲ
-9797,"Nameless Dagger ""Blk"" Ⅳ",無名短劍黒Ⅳ
-9798,"Nameless Dagger ""Blk"" Ⅴ",無名短劍黒Ⅴ
+9794,"Nameless Dagger ""Blk"" Ⅰ",無名短劍BlkⅠ
+9795,"Nameless Dagger ""Blk"" Ⅱ",無名短劍BlkⅡ
+9796,"Nameless Dagger ""Blk"" Ⅲ",無名短劍BlkⅢ
+9797,"Nameless Dagger ""Blk"" Ⅳ",無名短劍BlkⅣ
+9798,"Nameless Dagger ""Blk"" Ⅴ",無名短劍BlkⅤ
 9799,"Sword of Rupture, Ea Ⅰ",破裂之劍・埃阿Ⅰ
 9800,"Sword of Rupture, Ea Ⅱ",破裂之劍・埃阿Ⅱ
 9801,"Sword of Rupture, Ea Ⅲ",破裂之劍・埃阿Ⅲ
@@ -10150,8 +10150,8 @@ index,source,target
 10148,Sword of Prom. Victory Ⅵ,劍普爾歐姆征服拉Ⅵ
 10149,Golden Victory Sword VI,黄金征服拉劍Ⅵ
 10150,Gan Jiang/Mo Ye VI,干將／莫邪Ⅵ
-10151,Nameless Dagger VI,無名短劍Ⅵ
-10152,Nameless Dagger [Blk]VI,無名短劍黑Ⅵ
+10151,Nameless Dagger VI,無名短劍ⅤⅠ
+10152,Nameless Dagger [Blk]VI,無名短劍ⅤⅠ
 10153,"Sword of Rupture, Ea VI",破裂之劍・埃阿Ⅵ
 10154,Swrd.Rupture Ea [Blk] VI,劍破裂東黑Ⅵ
 10155,Baru Bloodcourage,噬血龍布勒歐歐德克歐烏
@@ -10182,8 +10182,8 @@ index,source,target
 10180,Blooddrinking Katana,布勒歐歐德德爾伊刀
 10181,Para Bloodeating Katana,麻痺噬血刀
 10182,Toxic Bloodeating Katana,毒噬血刀
-10183,Leeching Lance,勒艾奇伊恩槍
-10184,Blooddrinking Lance,布勒歐歐德德爾伊槍
+10183,Leeching Lance,勒艾奇伊恩長槍
+10184,Blooddrinking Lance,布勒歐歐德德爾伊長槍
 10185,Para Bloodeating Lance,麻痺噬血長槍
 10186,Toxic Bloodeating Lance,毒噬血長槍
 10187,Leeching Whistle,勒艾奇伊恩笛
@@ -10234,7 +10234,7 @@ index,source,target
 10232,Baru Bloodiris,噬血龍布勒歐歐德伊爾伊
 10233,Baru Bloodbath,噬血龍布勒歐歐德布阿特
 10234,Baru Final Bloodsong,噬血龍決勝布勒歐歐德斯歐恩
-10235,"Taikun GS ""Iris""",多殼蟹大劍姆努波
+10235,"Taikun GS ""Iris""",多殼蟹IrisGS
 10236,"TruDancThndrPole""Gospel""",雷特烏德阿恩克柱格歐斯普艾勒
 10237,FD27・真冥雷獄槍【瑠璃鶲】,FD27・真冥雷獄槍【瑠璃鶲】
 10238,Nebula Legacy,星雲遺
@@ -11426,7 +11426,7 @@ index,source,target
 11424,Gold Ceremony,金媒研磨
 11425,Gold Festi,金祭
 11426,ダミー,假
-11427,Silver Mace,銀鎚
+11427,Silver Mace,銀之鎚
 11428,Silver Trophy,銀獎杯
 11429,Silver Ceremony,銀媒研磨
 11430,Silver Festi,銀祭
@@ -11572,7 +11572,7 @@ index,source,target
 11570,Dio Ahudur,迪奧阿哈烏德烏爾
 11571,Dio Dundel,迪奧德烏恩德艾勒
 11572,Dio Accordion,迪奧阿克克歐爾德伊歐
-11573,"Fury Hammer ""Waves""",大錘狂瓦阿維艾斯
+11573,"Fury Hammer ""Waves""",憤怒之大錘Waves
 11574,Goru Arugo Dart,戈魯阿魯戈德阿爾特
 11575,Somu Arugo Dart,索穆阿魯戈德阿爾特
 11576,Goru Arugo Avale,戈魯阿魯戈阿瓦勒
@@ -11591,12 +11591,12 @@ index,source,target
 11589,Flaming Rathalos Tonfa,火龍炎穿刺棍
 11590,"Burstwolf Tonfa ""Show""",爆狼穿龍棍斯哈歐瓦
 11591,472D・ロカパルツァー,472D・爾歐克阿普阿爾烏
-11592,Frostmist Tonfa,穿龍棍夫爾歐斯特姆伊斯
+11592,Frostmist Tonfa,夫爾歐斯特姆伊斯穿龍棍
 11593,492D・ローゼンドレウザ,492D・爾歐茲艾恩德歐爾
 11594,"Sawhorn Tonfa ""Fin""",鋸角穿刺棍之鰭
 11595,4B2D・ヴァシム・フワァール,4B2D・瓦修伊穆・芙瓦阿魯
 11596,EmperorThunderpole Tonfa,穿龍棍帝特哈烏恩德艾爾普
-11597,Heavenly Tonfas,天上特歐恩夫阿斯
+11597,Heavenly Tonfas,天上穿龍棍
 11598,4E2D・ダードブロウバル,4E2D・達多布羅烏巴魯
 11599,4F2D・熾ス罪凍ル咎ヲ纏シ杭,4F2D・熾SU罪凍RU咎WO纏修伊杭
 11600,Blood-Sucking Clubs,血斯烏克克伊恩格克勒烏布斯
@@ -11605,7 +11605,7 @@ index,source,target
 11603,"Zeru Wings ""Luster""",澤魯翼勒烏斯特艾爾
 11604,"Royal Wolf Tonfa ""Azuma""",王室狼穿刺棍阿祖瑪
 11605,Tita Libre,泰坦利布艾
-11606,Fatalis Tonfa,黑龍穿刺棍
+11606,Fatalis Tonfa,黑龍穿龍棍
 11607,Crimson Demon Tonfa,深紅惡魔穿刺棍
 11608,ダミー,假
 11609,ダミー,假
@@ -11806,7 +11806,7 @@ index,source,target
 11804,"Icebolt Edge ""Water""",水伊克艾布歐勒特端
 11805,"Icebolt Edge ""Flow""",伊克艾布歐勒特端流
 11806,"Icebolt Edge ""Frigid""",伊克艾布歐勒特端夫爾伊格伊德
-11807,Prototype Hammer,大錘試作
+11807,Prototype Hammer,試作大錘
 11808,Official Hammer,大錘歐夫夫伊克伊阿勒
 11809,212E・最新型激光鎚【穿突】,212E・最新型激光鎚【穿突】
 11810,222E・最新型激光鎚【穿衝】,222E・最新型激光鎚【穿衝】
@@ -12022,20 +12022,20 @@ index,source,target
 12020,F42E・桐一文字・闇,F42E・桐一文字・闇
 12021,Red Lotus Dark,赤蓮暗
 12022,Red Lotus Ⅱ Dark,赤蓮Ⅱ暗
-12023,"Dragon Katana ""Dragon"" Ⅰ",龍刀龍Ⅰ
-12024,"Dragon Katana ""Dragon"" Ⅱ",龍刀龍Ⅱ
+12023,"Dragon Katana ""Dragon"" Ⅰ",龍刀DragonⅠ
+12024,"Dragon Katana ""Dragon"" Ⅱ",龍刀DragonⅡ
 12025,ダミー,假
-12026,"Dragon Katana ""Dragon"" Ⅲ",龍刀龍Ⅲ
-12027,"Dragon Katana ""Dragon"" Ⅳ",龍刀龍Ⅳ
-12028,"Dragon Katana ""Dragon"" Ⅴ",龍刀龍Ⅴ
-12029,"Dragon Katana ""Dragon"" Ⅵ",龍刀龍Ⅵ
-12030,"Dragon Katana ""Flame"" Ⅰ",龍刀炎Ⅰ
-12031,"Dragon Katana ""Flame"" Ⅱ",龍刀炎Ⅱ
+12026,"Dragon Katana ""Dragon"" Ⅲ",龍刀DragonⅢ
+12027,"Dragon Katana ""Dragon"" Ⅳ",龍刀DragonⅣ
+12028,"Dragon Katana ""Dragon"" Ⅴ",龍刀DragonⅤ
+12029,"Dragon Katana ""Dragon"" Ⅵ",龍刀DragonⅥ
+12030,"Dragon Katana ""Flame"" Ⅰ",龍刀FlameⅠ
+12031,"Dragon Katana ""Flame"" Ⅱ",龍刀FlameⅡ
 12032,ダミー,假
-12033,"Dragon Katana ""Flame"" Ⅲ",龍刀炎Ⅲ
-12034,"Dragon Katana ""Flame"" Ⅳ",龍刀炎Ⅳ
-12035,"Dragon Katana ""Flame"" Ⅴ",龍刀炎Ⅴ
-12036,"Dragon Katana ""Flame"" Ⅵ",龍刀炎Ⅵ
+12033,"Dragon Katana ""Flame"" Ⅲ",龍刀FlameⅢ
+12034,"Dragon Katana ""Flame"" Ⅳ",龍刀FlameⅣ
+12035,"Dragon Katana ""Flame"" Ⅴ",龍刀FlameⅤ
+12036,"Dragon Katana ""Flame"" Ⅵ",龍刀FlameⅥ
 12037,"Engetsuto ""Thunder"" Ⅰ",雷艾恩格艾特斯烏特Ⅰ
 12038,"Engetsuto ""Thunder"" Ⅱ",雷艾恩格艾特斯烏特Ⅱ
 12039,ダミー,假
@@ -12238,7 +12238,7 @@ index,source,target
 12236,Dilek Magisword Hellfire,德伊勒艾克姆阿格伊斯瓦歐爾獄火
 12237,Dilek Magisword Storm,德伊勒艾克姆阿格伊斯瓦歐爾風暴
 12238,Thunder Destroyers+ Ⅱ,雷殲滅者＋Ⅱ
-12239,Earth Sword+ Ⅱ,地劍＋Ⅱ
+12239,Earth Sword+ Ⅱ,地劍Ⅱ＋
 12240,D02F・サエウム,D02F・薩艾烏穆
 12241,D12F・ゲザングヴァルド,D12F・格扎恩烏瓦魯多
 12242,D22F・オクタオルタネイト,D22F・歐庫塔歐魯塔涅伊
@@ -12273,7 +12273,7 @@ index,source,target
 12271,Caravan Fife,ＣＲⅤNFⅠF老
 12272,Caravan Fife Ⅱ,ＣＲⅤNFⅠF老
 12273,Caravan Fife Ⅲ,ＣＲⅤNFⅠF老
-12274,Caravan Blastspear,旅團爆破矛
+12274,Caravan Blastspear,旅團布勒阿斯特斯普艾
 12275,Caravan Blastspear Ⅱ,旅團布勒阿斯特斯普艾Ⅱ
 12276,Caravan Blastspear Ⅲ,旅團布勒阿斯特斯普艾Ⅲ
 12277,Ganga Ganga,ＧNＧＧNＧ
@@ -12286,7 +12286,7 @@ index,source,target
 12284,Nipalensis Rain S. Lance,長槍恩伊普阿勒艾恩斯雨S
 12285,Digitalis Rain S. Lance,長槍德伊格伊特阿勒伊雨S
 12286,Fang Merman Y,牙姆艾爾姆阿恩Ｙ
-12287,Fang Merman Z,FNＧM老ＲMNＺ
+12287,Fang Merman Z,FNＧM老ＲMNZ
 12288,Fang Merman X,FNＧM老ＲMNⅩ
 12289,Severe Crucifix,S老Ⅴ老Ｒ老ＣＲＵＣⅠFⅠⅩ
 12290,Destruction Crucifix,德艾斯特爾烏克特克烏西菲克斯
@@ -12378,7 +12378,7 @@ index,source,target
 12376,Basa Universe,ＢSＵNIＶ老ＲS老
 12377,5930・対龍抹殺用大鎖鋸,5930・対龍抹殺用大鎖鋸
 12378,Brilla Espada,布爾伊勒勒阿艾斯普阿德阿
-12379,Golden Edge,黄金刃
+12379,Golden Edge,金刃
 12380,Divine Drgn Sword,龍神劍
 12381,Kushala's Burst,鋼龍S爆
 12382,Devastating Blos Spear,角龍德瓦斯阿提恩槍
@@ -12803,13 +12803,13 @@ index,source,target
 12801,Grenouille Chante,格爾艾恩歐烏伊勒克哈阿恩特艾
 12802,Grenouille Prince,格爾艾恩歐烏伊勒王子
 12803,Menti Sword,姆艾恩特伊劍
-12804,Menti Edge,M老NTⅠ老ＤＧ老
+12804,Menti Edge,姆艾恩特伊刃
 12805,Menti Breaker,M老NTⅠＢＲ老ｋ老Ｒ
 12806,Menti Blade,姆艾恩特伊刃
 12807,Menti Crusher,姆艾恩特伊碎
 12808,Menti Polka,姆艾恩特伊水玉
-12809,Menti Lance,姆艾恩特伊槍
-12810,Menti Cannon,姆艾恩特伊砲
+12809,Menti Lance,姆艾恩特伊長槍
+12810,Menti Cannon,姆艾恩特伊加農砲
 12811,Menti Pair,M老NTⅠPⅠＲ
 12812,ダミー,假
 12813,"HellfireSword ""Flame""",獄火劍焔
@@ -13281,26 +13281,26 @@ index,source,target
 13279,DF33・黒角ジュバール,DF33・黒角朱巴魯
 13280,E033・黒角アシュワロ,E033・黒角阿修烏瓦羅
 13281,E133・黒角トゥーフェリ,E133・黒角圖菲里
-13282,"Fury Hammer ""Anger""",憤怒大錘尾虎皮
-13283,"Fury Hammer ""Wrath""",憤怒大錘怒
-13284,"Fury Hammer ""Rage""",憤怒大錘激昂
-13285,"Fury Hammer ""Violent""",憤怒大錘凶暴
-13286,"Fury Hammer ""Resentment""",大錘狂爾艾斯艾恩特姆艾
-13287,"Fury Hammer""Indignation""",大錘狂伊恩德伊格恩阿特
+13282,"Fury Hammer ""Anger""",憤怒之大錘Anger
+13283,"Fury Hammer ""Wrath""",憤怒之大錘Wrath
+13284,"Fury Hammer ""Rage""",憤怒之大錘Rage
+13285,"Fury Hammer ""Violent""",憤怒之大錘Violent
+13286,"Fury Hammer ""Resentment""",憤怒之大錘Resentment
+13287,"Fury Hammer""Indignation""",憤怒之大錘Indignation
 13288,Ex Fury Hammer Zorn,大錘ＥＸ狂茲歐爾恩
-13289,"Fury Lance ""Zeal""",長槍狂茲艾阿勒
-13290,"Fury Lance ""Passion""",憤怒長槍情熱
-13291,"Fury Lance ""Earnest""",長槍狂艾阿爾恩艾斯特
-13292,"Fury Lance ""Enthusiasm""",長槍狂艾恩特哈烏斯伊阿
-13293,"Fury Lance ""Eager""",狂槍熱切
-13294,"Fury Lance ""Ardent""",狂槍阿爾德艾恩特
+13289,"Fury Lance ""Zeal""",憤怒之長槍Zeal
+13290,"Fury Lance ""Passion""",憤怒之長槍Passion
+13291,"Fury Lance ""Earnest""",憤怒之長槍Earnest
+13292,"Fury Lance ""Enthusiasm""",憤怒之長槍Enthusiasm
+13293,"Fury Lance ""Eager""",憤怒之長槍Eager
+13294,"Fury Lance ""Ardent""",憤怒之長槍Ardent
 13295,Ex Fury Lance Grief,憤怒EX長槍比納桃
-13296,"Fury Lance ""Hate""",憤怒長槍哈特
-13297,"Fury Gunlance ""Malice""",憤怒銃槍悪意
-13298,"Fury Gunlance ""Deadly""",憤怒銃槍致死
-13299,"Fury Gunlance ""Venom""",憤怒銃槍毒
-13300,"Fury Gunlance ""Furious""",憤怒銃槍狂
-13301,"Fury Gunlance ""Toxic""",憤怒銃槍毒
+13296,"Fury Lance ""Hate""",憤怒之長槍Hate
+13297,"Fury Gunlance ""Malice""",憤怒之銃槍Malice
+13298,"Fury Gunlance ""Deadly""",憤怒之銃槍Deadly
+13299,"Fury Gunlance ""Venom""",憤怒之銃槍Venom
+13300,"Fury Gunlance ""Furious""",憤怒之銃槍Furious
+13301,"Fury Gunlance ""Toxic""",憤怒之銃槍Toxic
 13302,Ex Fury Gunlance Suimos,銃槍ＥＸ狂斯烏伊姆歐斯
 13303,Hitze Waffe,哈伊特茲艾瓦阿夫夫艾
 13304,Bombe Klinge,布歐姆布艾刃
@@ -13420,11 +13420,11 @@ index,source,target
 13418,Lance of Longinus V,長槍恩流浪Ｖ
 13419,Lance of Longinus VI,長槍恩流浪Ⅵ
 13420,Progressive Knife I,普爾歐格爾艾斯斯刀Ⅰ
-13421,Progressive Knife II,普爾歐格爾艾斯斯刀Ⅱ
-13422,Progressive Knife III,普爾歐格爾艾斯斯刀Ⅲ
-13423,Progressive Knife IV,普爾歐格爾艾斯斯刀Ⅳ
+13421,Progressive Knife II,普爾歐格爾艾斯斯刀ⅠⅠ
+13422,Progressive Knife III,普爾歐格爾艾斯斯刀ⅠⅠⅠ
+13423,Progressive Knife IV,普爾歐格爾艾斯斯刀ⅠⅤ
 13424,Progressive Knife V,普爾歐格爾艾斯斯刀Ⅴ
-13425,Progressive Knife VI,普爾歐格爾艾斯斯刀Ⅵ
+13425,Progressive Knife VI,普爾歐格爾艾斯斯刀ⅤⅠ
 13426,Counter Sword I,反劍I
 13427,Counter Sword II,反劍Ⅱ
 13428,Counter Sword III,反劍Ⅲ
@@ -13574,7 +13574,7 @@ index,source,target
 13572,"Royal Shelledge ""Steel""",皇家斯哈艾勒勒艾德格鋼
 13573,0535・浮岳烈槌【流星群】,0535・浮岳烈槌【流星群】
 13574,0635・浮岳始槌【星雲団】,0635・浮岳始槌【星雲団】
-13575,"Fury Hammer ""Tsunami""",大錘狂特斯烏恩阿姆伊
+13575,"Fury Hammer ""Tsunami""",憤怒之大錘Tsunami
 13576,0835・弩岩始槌【絶塵砕】,0835・弩岩始槌【絶塵砕】
 13577,0935・フロルルディ,0935・芙羅魯魯迪
 13578,0A35・緋猛始笛【激奏打】,0A35・緋猛始笛【激奏打】
@@ -13613,27 +13613,27 @@ index,source,target
 13611,Nero Greed,涅羅聲急証
 13612,Robbed Hope,爾歐布布艾德望
 13613,Nero Despair,涅羅德艾斯普阿伊爾
-13614,Dios Edge,迪奧刃
+13614,Dios Edge,狄奧斯刃
 13615,Blast Sword,爆破劍
 13616,Lightbreak Sword,勒伊格哈特布爾艾劍
 13617,Dios Slicer,迪奧斬撃
 13618,Twin Blast Blades,爆破球紋章刃
 13619,Lightbreak Twins,勒伊格哈特布爾艾雙子
-13620,Dios Blade,迪奧刃
+13620,Dios Blade,狄奧斯刃
 13621,Blast Greatsword,爆破大劍
 13622,Lightbreak Blade,勒伊格哈特布爾艾刃
-13623,Dios Sword,迪奧劍
+13623,Dios Sword,狄奧斯劍
 13624,Blast Edge,爆破刃
-13625,Lightbreak Edge,勒伊格哈特布爾艾端
+13625,Lightbreak Edge,勒伊格哈特布爾艾刃
 13626,Dios Smasher,迪奧粉碎
 13627,Blast Smasher,爆破粉碎
-13628,Lightbreak Hammer,大錘勒伊格哈特布爾艾
+13628,Lightbreak Hammer,勒伊格哈特布爾艾大錘
 13629,Dios Bell,迪奧鈴
 13630,Blast Bell,爆破鈴
 13631,Lightbreak Hieroglyph,勒伊格哈特布爾艾哈伊艾爾歐格勒伊
 13632,Diostinger,迪奧刺
 13633,Blast Spear,爆破槍
-13634,Lightbreak Spear,勒伊格哈特布爾艾矛
+13634,Lightbreak Spear,勒伊格哈特布爾艾槍
 13635,Dios Buster,迪奧破壞
 13636,Blast Buster,爆破破壞
 13637,Lightbreak Buster,勒伊格哈特布爾艾破
@@ -13760,12 +13760,12 @@ index,source,target
 13758,BE35・玉響神楽【伍式】,BE35・玉響神楽【伍式】
 13759,BF35・玉響神楽【舞式】,BF35・玉響神楽【舞式】
 13760,C035・玉響神楽【春ノ舞】,C035・玉響神楽春NO舞
-13761,Cassius Spear Ⅰ,可西烏斯槍Ⅰ
-13762,Cassius Spear Ⅱ,可西烏斯槍Ⅱ
-13763,Cassius Spear Ⅲ,可西烏斯槍Ⅲ
-13764,Cassius Spear Ⅳ,可西烏斯槍Ⅳ
-13765,Cassius Spear Ⅴ,可西烏斯槍Ⅴ
-13766,Cassius Spear Ⅵ,可西烏斯槍Ⅵ
+13761,Cassius Spear Ⅰ,克阿斯伊槍Ⅰ
+13762,Cassius Spear Ⅱ,克阿斯伊槍Ⅱ
+13763,Cassius Spear Ⅲ,克阿斯伊槍Ⅲ
+13764,Cassius Spear Ⅳ,克阿斯伊槍Ⅳ
+13765,Cassius Spear Ⅴ,克阿斯伊槍Ⅴ
+13766,Cassius Spear Ⅵ,克阿斯伊槍Ⅵ
 13767,Thunder Spear Ⅰ,雷槍Ⅰ
 13768,Thunder Spear Ⅱ,雷槍Ⅱ
 13769,Thunder Spear Ⅲ,雷槍Ⅲ
@@ -14033,39 +14033,39 @@ index,source,target
 14031,Ice Baron Ⅳ,冰男爵Ⅳ
 14032,Lago Baron,拉戈男爵
 14033,ダミー,假
-14034,Parone Sword Ⅰ,帕隆劍Ⅰ
-14035,Parone Sword Ⅱ,帕隆劍Ⅱ
-14036,Parone Sword Ⅲ,帕隆劍Ⅲ
+14034,Parone Sword Ⅰ,拍隆劍Ⅰ
+14035,Parone Sword Ⅱ,拍隆劍Ⅱ
+14036,Parone Sword Ⅲ,拍隆劍Ⅲ
 14037,Parone Epee,波羅涅艾佩艾
 14038,Parone Duals Ⅰ,波羅涅龍鎧沸Ⅰ
 14039,Parone Duals Ⅱ,波羅涅龍鎧沸Ⅱ
 14040,Parone Duals Ⅲ,波羅涅龍鎧沸Ⅲ
 14041,Parone Daggers,波羅涅德阿格格艾爾斯
-14042,Parone Blade Ⅰ,帕隆刃Ⅰ
-14043,Parone Blade Ⅱ,帕隆刃Ⅱ
-14044,Parone Blade Ⅲ,帕隆刃Ⅲ
-14045,Parone Greatsword,帕隆大劍
-14046,Parone Katana Ⅰ,帕隆刀Ⅰ
-14047,Parone Katana Ⅱ,帕隆刀Ⅱ
-14048,Parone Katana Ⅲ,帕隆刀Ⅲ
+14042,Parone Blade Ⅰ,拍隆刃Ⅰ
+14043,Parone Blade Ⅱ,拍隆刃Ⅱ
+14044,Parone Blade Ⅲ,拍隆刃Ⅲ
+14045,Parone Greatsword,拍隆大劍
+14046,Parone Katana Ⅰ,拍隆刀Ⅰ
+14047,Parone Katana Ⅱ,拍隆刀Ⅱ
+14048,Parone Katana Ⅲ,拍隆刀Ⅲ
 14049,Parone Uchigatana,波羅涅烏奇伊加塔娜
-14050,Parone Hammer Ⅰ,帕隆大錘Ⅰ
-14051,Parone Hammer Ⅱ,帕隆大錘Ⅱ
-14052,Parone Hammer Ⅲ,帕隆大錘Ⅲ
-14053,Parone Mallet,帕隆鎚
+14050,Parone Hammer Ⅰ,拍隆大錘Ⅰ
+14051,Parone Hammer Ⅱ,拍隆大錘Ⅱ
+14052,Parone Hammer Ⅲ,拍隆大錘Ⅲ
+14053,Parone Mallet,拍隆鎚
 14054,Parone Pipe Ⅰ,波羅涅管Ⅰ
 14055,Parone Pipe Ⅱ,波羅涅管Ⅱ
 14056,Parone Pipe Ⅲ,波羅涅管Ⅲ
 14057,Parone Whistle,波羅涅笛
-14058,Parone Lance Ⅰ,帕隆長槍Ⅰ
-14059,Parone Lance Ⅱ,帕隆長槍Ⅱ
-14060,Parone Lance Ⅲ,帕隆長槍Ⅲ
-14061,Parone Spear,帕隆槍
+14058,Parone Lance Ⅰ,拍隆長槍Ⅰ
+14059,Parone Lance Ⅱ,拍隆長槍Ⅱ
+14060,Parone Lance Ⅲ,拍隆長槍Ⅲ
+14061,Parone Spear,拍隆槍
 14062,Parone Gun Spear Ⅰ,波羅涅銃矛Ⅰ
 14063,Parone Gun Spear Ⅱ,波羅涅銃矛Ⅱ
 14064,Parone Gun Spear Ⅲ,波羅涅銃矛Ⅲ
-14065,Parone Gunlance,帕隆銃槍
-14066,Parone Tonfa,帕隆穿龍棍
+14065,Parone Gunlance,拍隆銃槍
+14066,Parone Tonfa,拍隆穿龍棍
 14067,F336・ガウニャメリー,F336・格阿烏恩伊阿姆艾
 14068,F436・ガウニャメリック,F436・格阿烏恩伊阿姆艾
 14069,F536・ガウニャメリックス,F536・格阿烏恩伊阿姆艾
@@ -14429,7 +14429,7 @@ index,source,target
 14427,Motor Burst,馬達爆
 14428,Gigant Burst,ＧIＧNTＢＵＲST
 14429,ダミー,假
-14430,Prototype Switch-Axe,試作斬撃斧斧
+14430,Prototype Switch-Axe,試作斬撃斧
 14431,ダミー,假
 14432,ダミー,假
 14433,Steel Crushing Axe,鋼証明球斧
@@ -14446,13 +14446,13 @@ index,source,target
 14444,Feather Axe Neo,羽斧新
 14445,Hidden Edge,隠刃
 14446,Flash In The Night,閃光夜
-14447,Avidya Edge,阿維伊德伊阿端
+14447,Avidya Edge,阿維伊德伊阿刃
 14448,Hidden Daggers,HIＤＤ老NＤＧＧ老ＲS
 14449,Night Wings,夜之翼
 14450,Avidya Blades,阿維伊德伊阿刃
 14451,Hidden Blade,隠刃
 14452,Dark of Night,闇夜
-14453,Avidya Greatsword,大劍阿維伊德伊阿
+14453,Avidya Greatsword,阿維伊德伊阿大劍
 14454,Hidden Saber,隠劍
 14455,Deepest Night,德艾佩斯夜
 14456,Avidya Saber,阿維伊德伊阿劍
@@ -14464,14 +14464,14 @@ index,source,target
 14462,Avydia Harmonic,阿維伊德伊阿和音
 14463,Hidden Stinger,隠刺
 14464,Night Rains Black,夜爾阿伊恩斯黑
-14465,Avidya Lance,阿維伊德伊阿槍
-14466,Hidden Gunlance,銃槍隠
+14465,Avidya Lance,阿維伊德伊阿長槍
+14466,Hidden Gunlance,隠銃槍
 14467,Fading Night,法迪恩夜
-14468,Avidya Gunlance,銃槍阿維伊德伊阿
+14468,Avidya Gunlance,阿維伊德伊阿銃槍
 14469,Hidden Axe,隠斧
 14470,Avidya Axe,阿維伊德伊阿斧
-14471,Hidden Tonfa,隠穿刺棍
-14472,Avidya Tonfa,穿龍棍阿維伊德伊阿
+14471,Hidden Tonfa,隠穿龍棍
+14472,Avidya Tonfa,阿維伊德伊阿穿龍棍
 14473,Imperial Twins,帝國雙子
 14474,Imperial King Twins,帝國王雙子
 14475,Imperial Leader Twins,帝國勒艾阿德艾爾特瓦伊恩斯
@@ -14486,7 +14486,7 @@ index,source,target
 14484,Imperial Invasion Katana,帝國伊恩維阿斯伊歐恩刀
 14485,Imperial War Katana,帝國戦刀
 14486,Imperial Dynasty Katana,帝國德伊恩阿斯特伊刀
-14487,Imperial Hammer,大錘帝國
+14487,Imperial Hammer,帝國大錘
 14488,Imperial Commandment? H.,帝國克歐姆姆阿恩德姆H
 14489,Imperial Outbreak Hammer,大錘帝國歐烏特布爾艾阿克
 14490,Imperial Destruction H.,帝國德艾斯特爾烏克特H
@@ -14669,7 +14669,7 @@ index,source,target
 14667,4B39・ランツェロロソトトス,4B39・爾阿恩特斯烏艾爾
 14668,4C39・ランツェヴァッジトノ,4C39・爾阿恩特斯烏艾維
 14669,4D39・ランツェアスルール,4D39・爾阿恩特斯烏艾阿
-14670,Dios Axe,迪奧斧
+14670,Dios Axe,狄奧斯斧
 14671,Brisant Demolisher,布爾伊斯阿恩特德艾姆歐勒伊斯哈
 14672,Imperial Righteous Axe,帝國爾伊格哈特艾歐烏斧
 14673,Imperial Justice Axe,帝國正義斧
@@ -14770,7 +14770,7 @@ index,source,target
 14768,Margarita I,MＲＧＲⅠTⅠ
 14769,Margarita II,MＲＧＲⅠTⅠⅠ
 14770,Margarita III,MＲＧＲⅠTⅠⅠⅠ
-14771,Margarita IV,MＲＧＲITIＶ
+14771,Margarita IV,MＲＧＲⅠTⅠⅤ
 14772,Margarita Bonino,姆阿爾格阿爾伊特波尼諾
 14773,B539・マーガリタ・メイニョ,B539・瑪加里塔・姆艾伊恩伊歐
 14774,B639・スリジエⅠ,B639・蘇里吉艾
@@ -14966,7 +14966,7 @@ index,source,target
 14964,Rubino Ende Ⅱ,紅玉艾恩德艾Ⅱ
 14965,Steel Ende Ⅰ,鋼艾恩德艾Ⅰ
 14966,Steel Ende Ⅱ,鋼艾恩德艾Ⅱ
-14967,Parone Axe,帕隆斧
+14967,Parone Axe,拍隆斧
 14968,ダミー,假
 14969,ダミー,假
 14970,Levanjanf,勒艾維阿恩杰阿恩
@@ -14998,8 +14998,8 @@ index,source,target
 14996,Illusion Whistle,幻笛
 14997,Ilulusion Spear,伊勒烏勒烏斯伊歐槍
 14998,Magnetic Field Katana,磁気畑刀
-14999,Magnetic Field Hammer,大錘磁気畑
-15000,Magnetic Field Tonfa,穿龍棍磁気畑
+14999,Magnetic Field Hammer,磁気畑大錘
+15000,Magnetic Field Tonfa,磁気畑穿龍棍
 15001,Chachabu Airou,奇阿奇阿布阿伊羅烏
 15002,ダミー,假
 15003,"Beta Knife ""2016""",β刀２０１６
@@ -15087,7 +15087,7 @@ index,source,target
 15085,"Lightning Axe ""Ruler""",雷光斧Ruler
 15086,"Paralyzing Axe ""Special""",普阿爾阿勒伊茲伊斧特
 15087,"Freezing Axe ""Faint""",冰斧夫阿伊恩特
-15088,"Dragon Axe ""Servant""",龍斧斯艾爾維阿恩特
+15088,"Dragon Axe ""Servant""",龍斧Servant
 15089,Chloe Axe,克洛伊斧
 15090,"Chloe Axe ""Fire""",火克洛伊斧
 15091,"Chloe Axe ""Water""",水克洛伊斧
@@ -15406,8 +15406,8 @@ index,source,target
 15404,Alvola Lancia,阿勒維歐勒阿槍
 15405,Vola Tonfa,沃拉穿龍棍
 15406,Vola Tonfa+,沃拉穿龍棍＋
-15407,True Vola Tonfa,真沃拉穿刺棍
-15408,Alvora Tonfa,穿龍棍阿勒維歐爾阿
+15407,True Vola Tonfa,真沃拉穿龍棍
+15408,Alvora Tonfa,阿勒維歐爾阿穿龍棍
 15409,Angeles,阿恩格艾勒艾斯
 15410,"Twin Battledore ""Luster""",球紋章羽子板
 15411,333C・羽子板ハンマー【駁】,333C・羽子板哈阿恩姆阿駁
@@ -15444,7 +15444,7 @@ index,source,target
 15442,ダミー,假
 15443,Blazing Peak Blade,熾峰刃
 15444,Blazing Peak Mallet,熾峰鎚
-15445,Blazing Peak Lance,熾峰槍
+15445,Blazing Peak Lance,熾峰長槍
 15446,Blazing Peak Axe,熾峰斧
 15447,Vashim Alma,瓦希姆球紋章
 15448,Vashim Philo,瓦希姆菲伊洛
@@ -15551,11 +15551,11 @@ index,source,target
 15549,BD3C・暴乱ヲ鎮圧ス天雷鎚,BD3C・暴乱WO鎮圧SU天雷鎚
 15550,BE3C・暴乱ヲ鎮圧ス天雷斧,BE3C・暴乱WO鎮圧SU天雷斧
 15551,Virtuous Contract I,維伊爾特烏歐烏斯克歐恩特爾阿克特Ⅰ
-15552,Virtuous Contract II,維伊爾特烏歐烏斯克歐恩特爾阿克特Ⅱ
-15553,Virtuous Contract III,維伊爾特烏歐烏斯克歐恩特爾阿克特Ⅲ
-15554,Virtuous Contract IV,維伊爾特烏歐烏斯克歐恩特爾阿克特Ⅳ
+15552,Virtuous Contract II,維伊爾特烏歐烏斯克歐恩特爾阿克特ⅠⅠ
+15553,Virtuous Contract III,維伊爾特烏歐烏斯克歐恩特爾阿克特ⅠⅠⅠ
+15554,Virtuous Contract IV,維伊爾特烏歐烏斯克歐恩特爾阿克特ⅠⅤ
 15555,Virtuous Contract V,維伊爾特烏歐烏斯克歐恩特爾阿克特Ⅴ
-15556,Virtuous Contract VI,維伊爾特烏歐烏斯克歐恩特爾阿克特Ⅵ
+15556,Virtuous Contract VI,維伊爾特烏歐烏斯克歐恩特爾阿克特ⅤⅠ
 15557,ダミー,假
 15558,ダミー,假
 15559,ダミー,假
@@ -15840,7 +15840,7 @@ index,source,target
 15838,Sacred Violet Melody Ⅱ,聖紫旋律Ⅱ
 15839,Solemn Eyes Sword,厳粛艾伊艾斯劍
 15840,Solemn Eyes Katana,厳粛艾伊艾斯刀
-15841,Solemn Eyes Tonfa,穿龍棍厳粛艾伊艾斯
+15841,Solemn Eyes Tonfa,厳粛艾伊艾斯穿龍棍
 15842,Goldwing Blade Ⅰ,格歐勒德瓦伊恩格刃Ⅰ
 15843,Goldwing Blade Ⅱ,格歐勒德瓦伊恩格刃Ⅱ
 15844,Goldwing Blade Ⅲ,格歐勒德瓦伊恩格刃Ⅲ
@@ -15874,8 +15874,8 @@ index,source,target
 15872,Burning Zero Dragon Horn,龍之燃燒零角
 15873,Burning Zero Dragon Duo,龍燃燒零雙
 15874,Burning Zero Dragon Ken,龍燃燒零克艾恩
-15875,Burning Zero Dragon Gun,龍燃燒零銃
-15876,Burning Zero Dragon Axe,龍燃燒零斧
+15875,Burning Zero Dragon Gun,龍之燃燒零銃
+15876,Burning Zero Dragon Axe,龍之燃燒零斧
 15877,10th Anniversary Cake Ⅰ,十週年阿恩恩伊維艾爾斯菓子Ⅰ
 15878,10th Anniversary Cake Ⅱ,十週年阿恩恩伊維艾爾斯菓子Ⅱ
 15879,10th Anniversary Cake Ⅲ,十週年阿恩恩伊維艾爾斯菓子Ⅲ
@@ -15904,8 +15904,8 @@ index,source,target
 15902,Emperor of Summer,皇帝夏
 15903,ダミー,假
 15904,Ex Magnetic Field Blade,ＥＸ磁気畑刃
-15905,Ex Magnetic Field Hammer,大錘ＥＸ磁気畑
-15906,Ex Magnetic Field Lance,ＥＸ磁気畑槍
+15905,Ex Magnetic Field Hammer,ＥＸ磁気畑大錘
+15906,Ex Magnetic Field Lance,ＥＸ磁気畑長槍
 15907,Ruko Twins Orugorudo,庫特瓦伊恩斯歐魯戈魯多
 15908,Ruko Twins Zoroto,庫特瓦伊恩斯佐羅托
 15909,Ruko Twins Aurumu,庫特瓦伊恩斯阿烏魯穆
@@ -16230,26 +16230,26 @@ index,source,target
 16228,"Torid Horn ""Lively""",照雷鳥角
 16229,"Torid Horn ""Melodic""",照雷鳥角
 16230,"Torid Horn ""Hymn""",照雷鳥角聖歌
-16231,"Dark Sword ""Ixobrychus""",闇劍伊克斯歐布爾伊克
-16232,"Dark Sword ""Platalea""",闇劍普勒阿特阿勒艾阿
-16233,"Dark Sword ""Nycticorax""",闇劍恩伊克特伊克歐爾
-16234,"Dark Sword ""Egretta""",闇劍艾格爾艾特特阿
-16235,"Dark Edge ""Paradoxornis""",闇刃
-16236,"Dark Edge ""Emberiza""",闇刃
-16237,"Dark Edge ""Parus""",闇刃
-16238,"Dark Edge ""Bombycilla""",闇刃
-16239,"Dark Gun ""Ptyonoprogne""",闇銃
-16240,"Dark Gun ""Apus""",闇銃
-16241,"Dark Gun ""Hydrobates""",闇銃
-16242,"Dark Gun ""Hirundo""",闇銃
+16231,"Dark Sword ""Ixobrychus""",闇劍Ixobrychus
+16232,"Dark Sword ""Platalea""",闇劍Platalea
+16233,"Dark Sword ""Nycticorax""",闇劍Nycticorax
+16234,"Dark Sword ""Egretta""",闇劍Egretta
+16235,"Dark Edge ""Paradoxornis""",闇刃Paradoxornis
+16236,"Dark Edge ""Emberiza""",闇刃Emberiza
+16237,"Dark Edge ""Parus""",闇刃Parus
+16238,"Dark Edge ""Bombycilla""",闇刃Bombycilla
+16239,"Dark Gun ""Ptyonoprogne""",闇銃Ptyonoprogne
+16240,"Dark Gun ""Apus""",闇銃Apus
+16241,"Dark Gun ""Hydrobates""",闇銃Hydrobates
+16242,"Dark Gun ""Hirundo""",闇銃Hirundo
 16243,"Dark Beat ""Lagopus""",闇拍
 16244,"Dark Beat ""Fratercula""",闇拍
 16245,"Dark Beat ""Calonectris""",闇拍
 16246,"Dark Beat ""Ramphastos""",闇拍
-16247,"Dark Axe ""Corvus""",闇斧克歐爾維烏斯
-16248,"Dark Axe ""Corax""",闇斧科拉克斯
-16249,"Dark Axe ""Corone""",闇斧科羅涅
-16250,"Dark Axe ""Macrorhynchos""",闇斧姆阿克爾歐爾哈伊
+16247,"Dark Axe ""Corvus""",闇斧Corvus
+16248,"Dark Axe ""Corax""",闇斧Corax
+16249,"Dark Axe ""Corone""",闇斧Corone
+16250,"Dark Axe ""Macrorhynchos""",闇斧Macrorhynchos
 16251,Ravina Twins,拉維娜雙子
 16252,Ravina Twins+,拉維娜雙子＋
 16253,True Ravina Twins,真拉維娜雙子
@@ -16266,10 +16266,10 @@ index,source,target
 16264,Ravina Lancia+,拉維娜槍＋
 16265,True Ravina Lancia,真拉維娜槍
 16266,Final Ravina Lancia,決勝拉維娜槍
-16267,Ravina Tonfa,拉維娜穿刺棍
+16267,Ravina Tonfa,拉維娜穿龍棍
 16268,Rafina Tonfa+,穿龍棍拉菲娜＋
-16269,True Ravina Tonfa,真拉維娜穿刺棍
-16270,Final Ravina Tonfa,決勝拉維娜穿刺棍
+16269,True Ravina Tonfa,真拉維娜穿龍棍
+16270,Final Ravina Tonfa,決勝拉維娜穿龍棍
 16271,"Nature's Beauty ""Day""",娜圖雷S美
 16272,"Nature's Beauty ""Night""",娜圖雷S美夜
 16273,Renka Twins,連歌雙子
@@ -16468,26 +16468,26 @@ index,source,target
 16466,"Rondo Duo ""Mountain""",輪旋雙山
 16467,"Rondo Duo ""Summit""",輪旋雙頂
 16468,"Rondo Duo ""Sagiyama""",輪旋雙
-16469,"Rondo Blade ""Walls""",輪旋刃瓦阿勒勒斯
-16470,"Rondo Blade ""Moat""",輪旋刃姆歐阿特
-16471,"Rondo Blade ""Trench""",輪旋刃特爾艾恩克哈
-16472,"Rondo Blade ""Home""",輪旋刃霍梅
-16473,"Rondo Mace ""Xuanwu""",輪旋鎚克斯烏阿恩瓦烏
-16474,"Rondo Mace ""Brand""",輪旋鎚布爾阿恩德
-16475,"Rondo Mace ""Vaisravana""",輪旋鎚維阿伊斯爾阿維阿
-16476,"Rondo Mace ""Yamato""",輪旋鎚雅瑪托
-16477,"Rondo Cannon ""Iron""",鐵輪旋砲
-16478,"Rondo Cannon ""Triple""",輪旋砲三
-16479,"Rondo Cannon ""Devas""",輪旋加農砲德艾維阿斯
-16480,"Rondo Cannon ""Target""",輪旋砲標
-16481,"Rondo Tonfa ""Portcullis""",穿龍棍輪旋普歐爾特克烏勒勒
-16482,"Rondo Tonfa ""Toranomon""",穿龍棍輪旋特歐爾阿恩歐姆歐
-16483,"Rondo Tonfa ""Sakuramon""",穿龍棍輪旋斯阿克烏爾阿姆歐
-16484,"Rondo Tonfa ""Ogura""",穿龍棍輪旋歐古拉
-16485,"Rondo Axe ""Vanguard""",輪旋斧維阿恩格烏阿爾德
-16486,"Rondo Axe ""Second""",輪旋斧第二
-16487,"Rondo Axe ""Spearhead""",輪旋斧斯普艾阿爾哈艾阿
-16488,"Rondo Axe ""Kasai""",輪旋斧可薩伊
+16469,"Rondo Blade ""Walls""",輪旋刃Walls
+16470,"Rondo Blade ""Moat""",輪旋刃Moat
+16471,"Rondo Blade ""Trench""",輪旋刃Trench
+16472,"Rondo Blade ""Home""",輪旋刃Home
+16473,"Rondo Mace ""Xuanwu""",輪旋鎚Xuanwu
+16474,"Rondo Mace ""Brand""",輪旋鎚Brand
+16475,"Rondo Mace ""Vaisravana""",輪旋鎚毘沙門
+16476,"Rondo Mace ""Yamato""",輪旋鎚Yamato
+16477,"Rondo Cannon ""Iron""",輪旋加農砲Iron
+16478,"Rondo Cannon ""Triple""",輪旋加農砲Triple
+16479,"Rondo Cannon ""Devas""",輪旋加農砲Devas
+16480,"Rondo Cannon ""Target""",輪旋加農砲Target
+16481,"Rondo Tonfa ""Portcullis""",輪旋穿龍棍Portcullis
+16482,"Rondo Tonfa ""Toranomon""",輪旋穿龍棍Toranomon
+16483,"Rondo Tonfa ""Sakuramon""",輪旋穿龍棍Sakuramon
+16484,"Rondo Tonfa ""Ogura""",輪旋穿龍棍Ogura
+16485,"Rondo Axe ""Vanguard""",輪旋斧Vanguard
+16486,"Rondo Axe ""Second""",輪旋斧Second
+16487,"Rondo Axe ""Spearhead""",輪旋斧Spearhead
+16488,"Rondo Axe ""Kasai""",輪旋斧Kasai
 16489,Dragon Scale Sword Ⅰ,龍鱗劍Ⅰ
 16490,Dragon Scale Sword Ⅱ,龍鱗劍Ⅱ
 16491,Dragon Scale Sword Ⅲ,龍鱗劍Ⅲ
@@ -16762,25 +16762,25 @@ index,source,target
 16760,ダミー,假
 16761,ダミー,假
 16762,ダミー,假
-16763,"Rondo Sword ""Torches""",輪旋劍特歐爾克哈艾斯
-16764,"Rondo Sword ""Shores""",輪旋劍斯哈歐爾艾斯
-16765,"Rondo Sword ""Remnants""",輪旋劍爾艾姆恩阿恩特斯
-16766,"Rondo Sword ""Swan""",輪旋劍天鵝
-16767,"Rondo Katana ""Saruishi""",輪旋刀薩魯伊修伊
-16768,"Rondo Katana ""Drought""",輪旋刀龍鎧沸
-16769,"Rondo Katana ""Heartland""",輪旋刀哈艾阿爾特勒阿恩
-16770,"Rondo Katana ""Flamestep""",輪旋刀夫勒阿姆艾斯特艾
-16771,"Rondo Horn ""Catch""",輪旋角捕
-16772,"Rondo Horn ""Kuzumari""",輪旋角
-16773,"Rondo Horn ""Granary""",輪旋角
-16774,"Rondo Horn ""Veil""",輪旋角紗
-16775,"Rondo Lance ""Salt""",輪旋槍塩
-16776,"Rondo Lance ""Dock""",長槍輪旋德歐克克
-16777,"Rondo Lance ""Spotlight""",長槍輪旋斯普歐特勒伊格哈
-16778,"Rondo Lance ""Vane""",長槍輪旋瓦涅
+16763,"Rondo Sword ""Torches""",輪旋劍Torches
+16764,"Rondo Sword ""Shores""",輪旋劍Shores
+16765,"Rondo Sword ""Remnants""",輪旋劍Remnants
+16766,"Rondo Sword ""Swan""",輪旋劍Swan
+16767,"Rondo Katana ""Saruishi""",輪旋刀Saruishi
+16768,"Rondo Katana ""Drought""",輪旋刀Drought
+16769,"Rondo Katana ""Heartland""",輪旋刀Heartland
+16770,"Rondo Katana ""Flamestep""",輪旋刀Flamestep
+16771,"Rondo Horn ""Catch""",輪旋角Catch
+16772,"Rondo Horn ""Kuzumari""",輪旋角Kuzumari
+16773,"Rondo Horn ""Granary""",輪旋角Granary
+16774,"Rondo Horn ""Veil""",輪旋角Veil
+16775,"Rondo Lance ""Salt""",輪旋長槍Salt
+16776,"Rondo Lance ""Dock""",輪旋長槍Dock
+16777,"Rondo Lance ""Spotlight""",輪旋長槍Spotlight
+16778,"Rondo Lance ""Vane""",輪旋長槍Vane
 16779,New Shakalaka Airou I,奇面族新阿伊羅烏Ⅰ
-16780,New Shakalaka Airou II,奇面族新阿伊羅烏Ⅱ
-16781,New Shakalaka Airou III,奇面族新阿伊羅烏Ⅲ
+16780,New Shakalaka Airou II,奇面族新阿伊羅烏ⅠⅠ
+16781,New Shakalaka Airou III,奇面族新阿伊羅烏ⅠⅠⅠ
 16782,True Shakalaka Airou,奇面族真阿伊羅烏
 16783,Alkimia's Revival,阿勒克伊姆伊阿S復活
 16784,Alkimia's Story,阿勒克伊姆伊阿S話
@@ -16986,11 +16986,11 @@ index,source,target
 16984,Evil Eye Greatsword,惡眼大劍
 16985,Diosc,德伊歐斯克
 16986,Graham Spike,格雷刺
-16987,"Graham Spike ""Fire""",火格雷刺
-16988,"Graham Spike ""Water""",水格雷刺
-16989,"Graham Spike ""Lightning""",雷格雷刺
-16990,"Graham Spike ""Ice""",冰格雷刺
-16991,"Graham Spike ""Dragon""",龍格雷刺
+16987,"Graham Spike ""Fire""",格雷刺Fire
+16988,"Graham Spike ""Water""",格雷刺Water
+16989,"Graham Spike ""Lightning""",格雷刺Lightning
+16990,"Graham Spike ""Ice""",格雷刺Ice
+16991,"Graham Spike ""Dragon""",格雷刺Dragon
 16992,Machnika・Glanze,瑪奇尼可格勒阿恩茲艾
 16993,Maihime Kaougi Ⅰ,瑪伊希梅可歐烏吉Ⅰ
 16994,Maihime Kaougi Ⅱ,瑪伊希梅可歐烏吉Ⅱ
@@ -17057,11 +17057,11 @@ index,source,target
 17055,Goggling Guuku Ⅵ,格歐格格勒伊恩格愚空Ⅵ
 17056,Goggling Guuku Ⅶ,格歐格格勒伊恩格愚空Ⅶ
 17057,Noisy Guuku I,恩歐伊斯伊愚空Ⅰ
-17058,Noisy Guuku II,恩歐伊斯伊愚空Ⅱ
-17059,Noisy Guuku III,恩歐伊斯伊愚空Ⅲ
-17060,Noisy Guuku IV,恩歐伊斯伊愚空Ⅳ
-17061,Noisy Guuku VI,恩歐伊斯伊愚空Ⅵ
-17062,Noisy Guuku VII,恩歐伊斯伊愚空Ⅶ
+17058,Noisy Guuku II,恩歐伊斯伊愚空ⅠⅠ
+17059,Noisy Guuku III,恩歐伊斯伊愚空ⅠⅠⅠ
+17060,Noisy Guuku IV,恩歐伊斯伊愚空ⅠⅤ
+17061,Noisy Guuku VI,恩歐伊斯伊愚空ⅤⅠ
+17062,Noisy Guuku VII,恩歐伊斯伊愚空ⅤⅠⅠ
 17063,Love Love Guuku I,愛愛愚空I
 17064,Love Love Guuku II,愛愛愚空Ⅱ
 17065,Love Love Guuku III,愛愛愚空Ⅲ
@@ -17167,10 +17167,10 @@ index,source,target
 17165,Chroma Lancia+,彩色槍＋
 17166,True Chroma Lancia,真彩色槍
 17167,Final Chroma Lancia,決勝彩色槍
-17168,Chroma Tonfa,彩色穿刺棍
-17169,Chroma Tonfa+,彩色穿刺棍＋
-17170,True Chroma Tonfa,真彩色穿刺棍
-17171,Final Chroma Tonfa,決勝彩色穿刺棍
+17168,Chroma Tonfa,彩色穿龍棍
+17169,Chroma Tonfa+,彩色穿龍棍＋
+17170,True Chroma Tonfa,真彩色穿龍棍
+17171,Final Chroma Tonfa,決勝彩色穿龍棍
 17172,Chroma Axt,彩色斧
 17173,Chroma Axt+,彩色斧＋
 17174,True Chroma Axt,真彩色斧
@@ -17215,46 +17215,46 @@ index,source,target
 17213,Graham Spike Ⅴ,格雷刺Ⅴ
 17214,Divine Galatine,神加拉提涅
 17215,Supreme Axe Francisca,SＵPＲ老M老Ⅹ老FＲNＣISＣ
-17216,Lethe Sword,勒忒劍
-17217,"Lethe Sword ""Anarchy""",勒忒劍無序
-17218,"Lethe Sword ""Wish""",勒忒劍Wish
-17219,"Lethe Sword ""Ashura""",勒忒劍Ashura
+17216,Lethe Sword,勒特劍
+17217,"Lethe Sword ""Anarchy""",勒特劍無序
+17218,"Lethe Sword ""Wish""",勒特劍願
+17219,"Lethe Sword ""Ashura""",勒特劍阿修羅
 17220,Lethe Duals,忘川龍鎧沸
 17221,"Lethe Duals ""Anarchy""",忘川龍鎧沸
 17222,"Lethe Duals ""Wish""",忘川龍鎧沸願
 17223,"Lethe Duals ""Mahakala""",忘川龍鎧沸
-17224,Lethe Blade,勒忒刃
-17225,"Lethe Blade ""Anarchy""",勒忒刃無序
-17226,"Lethe Blade ""Wish""",勒忒刃Wish
-17227,"Lethe Blade ""Tsukuyomi""",勒忒刃Tsukuyomi
-17228,Lethe Katana,勒忒刀
-17229,"Lethe Katana ""Anarchy""",勒忒刀無序
-17230,"Lethe Katana ""Wish""",勒忒刀Wish
-17231,"Lethe Katana ""Yatokami""",勒忒刀Yatokami
-17232,Lethe Hammer,勒忒大錘
-17233,"Lethe Hammer ""Anarchy""",勒忒大錘無序
-17234,"Lethe Hammer ""Wish""",勒忒大錘Wish
-17235,"Lethe Hammer ""Skanda""",勒忒大錘Skanda
-17236,Lethe Horn,勒忒角
-17237,"Lethe Horn ""Anarchy""",勒忒角無序
-17238,"Lethe Horn ""Wish""",勒忒角Wish
-17239,"Lethe Horn ""Ebisu""",勒忒角Ebisu
-17240,Lethe Lance,勒忒長槍
-17241,"Lethe Lance ""Anarchy""",勒忒長槍無序
-17242,"Lethe Lance ""Wish""",勒忒長槍Wish
-17243,"Lethe Lance ""Vaisravana""",勒忒長槍Vaisravana
-17244,Lethe Gun,勒忒銃
-17245,"Lethe Gun ""Anarchy""",勒忒銃無序
-17246,"Lethe Gun ""Wish""",勒忒銃Wish
-17247,"Lethe Gun ""Tsukumogami""",勒忒銃Tsukumogami
-17248,Lethe Tonfa,勒忒穿龍棍
-17249,"Lethe Tonfa ""Anarchy""",勒忒穿龍棍無序
-17250,"Lethe Tonfa ""Wish""",勒忒穿龍棍Wish
-17251,"Lethe Tonfa ""Okuninushi""",勒忒穿龍棍Okuninushi
-17252,Lethe Axe,勒忒斧
-17253,"Lethe Axe ""Anarchy""",勒忒斧無序
-17254,"Lethe Axe ""Desire""",勒忒斧Desire
-17255,"Lethe Axe ""Budai""",勒忒斧Budai
+17224,Lethe Blade,勒特刃
+17225,"Lethe Blade ""Anarchy""",勒特刃無序
+17226,"Lethe Blade ""Wish""",勒特刃願
+17227,"Lethe Blade ""Tsukuyomi""",勒特刃月讀
+17228,Lethe Katana,勒特刀
+17229,"Lethe Katana ""Anarchy""",勒特刀無序
+17230,"Lethe Katana ""Wish""",勒特刀願
+17231,"Lethe Katana ""Yatokami""",勒特刀八俣神
+17232,Lethe Hammer,勒特大錘
+17233,"Lethe Hammer ""Anarchy""",勒特大錘無序
+17234,"Lethe Hammer ""Wish""",勒特大錘願
+17235,"Lethe Hammer ""Skanda""",勒特大錘韋駄
+17236,Lethe Horn,勒特角
+17237,"Lethe Horn ""Anarchy""",勒特角無序
+17238,"Lethe Horn ""Wish""",勒特角願
+17239,"Lethe Horn ""Ebisu""",勒特角惠比寿
+17240,Lethe Lance,勒特長槍
+17241,"Lethe Lance ""Anarchy""",勒特長槍無序
+17242,"Lethe Lance ""Wish""",勒特長槍願
+17243,"Lethe Lance ""Vaisravana""",勒特長槍毘沙門
+17244,Lethe Gun,勒特銃
+17245,"Lethe Gun ""Anarchy""",勒特銃無序
+17246,"Lethe Gun ""Wish""",勒特銃願
+17247,"Lethe Gun ""Tsukumogami""",勒特銃付喪神
+17248,Lethe Tonfa,勒特穿龍棍
+17249,"Lethe Tonfa ""Anarchy""",勒特穿龍棍無序
+17250,"Lethe Tonfa ""Wish""",勒特穿龍棍願
+17251,"Lethe Tonfa ""Okuninushi""",勒特穿龍棍Okuninushi
+17252,Lethe Axe,勒特斧
+17253,"Lethe Axe ""Anarchy""",勒特斧無序
+17254,"Lethe Axe ""Desire""",勒特斧Desire
+17255,"Lethe Axe ""Budai""",勒特斧Budai
 17256,Renka Spike,連歌之棘
 17257,"Renka Spike ""Horse""",連歌棘研磨尾
 17258,"Renka Spike ""Stallion""",連歌刺斯特阿勒勒伊歐恩
@@ -17318,10 +17318,10 @@ index,source,target
 17316,Poet Lancia+,詩人槍＋
 17317,True Poet Lancia,真詩人槍
 17318,Poetry Lancia,詩槍
-17319,Poet Tonfa,詩人穿刺棍
-17320,Poet Tonfa+,詩人穿刺棍＋
-17321,True Poet Tonfa,真詩人穿刺棍
-17322,Poetry Tonfa,穿龍棍詩
+17319,Poet Tonfa,詩人穿龍棍
+17320,Poet Tonfa+,詩人穿龍棍＋
+17321,True Poet Tonfa,真詩人穿龍棍
+17322,Poetry Tonfa,普歐艾特爾伊穿龍棍
 17323,Poet Axt,詩人斧
 17324,Poet Axt+,詩人斧＋
 17325,True Poet Axt,真詩人斧
@@ -17462,22 +17462,22 @@ index,source,target
 17460,ダミー,假
 17461,Gray Praia,灰普阿伊阿
 17462,Gray Lia Fail,灰利阿敗
-17463,Layer Edge,層端
-17464,"Layer Edge ""Bellflower""",層端
-17465,"Layer Edge ""Ashitaba""",層端
-17466,"Layer Edge ""Crapemyrtle""",層端
-17467,Layer Hammer,大錘層
-17468,"Layer Hammer ""Magnolia""",大錘層姆阿格恩歐勒伊阿
-17469,"Layer Hammer ""Oleander""",大錘層歐勒艾阿恩德艾爾
-17470,"Layer Hammer ""Camellia""",大錘層磁化抑
-17471,Layer Tonfa,穿龍棍層
-17472,"Layer Tonfa ""Snowball""",穿龍棍層雪球
-17473,"Layer Tonfa ""Bluecrown""",穿龍棍層布勒烏艾克爾歐瓦
-17474,"Layer Tonfa ""Klamath""",穿龍棍層克勒阿姆阿特哈
+17463,Layer Edge,層刃
+17464,"Layer Edge ""Bellflower""",層刃Bellflower
+17465,"Layer Edge ""Ashitaba""",層刃Ashitaba
+17466,"Layer Edge ""Crapemyrtle""",層刃Crapemyrtle
+17467,Layer Hammer,層大錘
+17468,"Layer Hammer ""Magnolia""",層大錘Magnolia
+17469,"Layer Hammer ""Oleander""",層大錘Oleander
+17470,"Layer Hammer ""Camellia""",層大錘Camellia
+17471,Layer Tonfa,層穿龍棍
+17472,"Layer Tonfa ""Snowball""",層穿龍棍Snowball
+17473,"Layer Tonfa ""Bluecrown""",層穿龍棍Bluecrown
+17474,"Layer Tonfa ""Klamath""",層穿龍棍Klamath
 17475,Layer Axe,層斧
-17476,"Layer Axe ""Primrose""",層斧普爾伊姆爾歐斯艾
-17477,"Layer Axe ""Spiderwort""",層斧斯普伊德艾爾瓦歐
-17478,"Layer Axe ""Dragonstail""",層斧德爾阿格歐恩斯特
+17476,"Layer Axe ""Primrose""",層斧Primrose
+17477,"Layer Axe ""Spiderwort""",層斧Spiderwort
+17478,"Layer Axe ""Dragonstail""",層斧Dragonstail
 17479,Layer Spike,層刺
 17480,"Layer Spike ""Snapdragon""",層刺斯恩阿普德爾阿格
 17481,"Layer Spike ""Marigold""",層刺姆阿爾伊格歐勒德
