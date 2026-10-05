@@ -4,7 +4,7 @@ count	stem	zh	reason	source	example_source	sections
 57	Caravan	旅團	遊戲專名	weapon_caravan_line	weapons-melee-name:Caravan Sword I	melee,ranged
 23	Red Cat	赤猫	字義	en_semantic:red_cat	weapons-melee-name:Red Cat Hammer SP I	melee,ranged
 21	Colonel	上校	字義	en_semantic:rank	weapons-melee-name:Colonel Sword SP I	melee
-21	Parone	拍隆	專名短音譯	搜：Parone→拍隆；charset 帕→拍	weapons-melee-name:Parone Sword Ⅰ	melee
+21	Parone	帕隆	專名短音譯	搜：Parone→帕隆；例 Parone Sword	weapons-melee-name:Parone Sword Ⅰ	melee
 17	Iron	鐵	魔物／詞庫	terms.csv	weapons-melee-name:Iron Sword	melee,ranged
 16	Bone	骨製	魔物／詞庫	terms.csv	weapons-melee-name:Bone Blade	melee
 15	Vashimu	尾晶蠍	魔物／詞庫	terms.csv	weapons-melee-name:Vashimu Knife	melee,ranged
@@ -24,8 +24,8 @@ count	stem	zh	reason	source	example_source	sections
 12	Ultimate Log	究極原木	字義	en_semantic:ultimate_log	weapons-melee-name:Ultimate Log Mallet Ⅰ	melee
 11	Lightning	雷光	遊戲專名／定譯	armor_quality_series	weapons-melee-name:Lightning Horn	melee,ranged
 11	Sturm	風暴	字義	en_semantic:sturm	weapons-melee-name:Sturm Ⅰ	melee,ranged
-11	Lethe	勒特	神話	myth:lethe；charset 忒→特	weapons-melee-name:Lethe Sword	melee,ranged
-11	Lethe Anarchy	勒特無序	神話	myth:lethe+anarchy	"weapons-melee-name:Lethe Sword ""Anarchy"""	melee,ranged
+11	Lethe	勒忒	神話	myth:lethe	weapons-melee-name:Lethe Sword	melee,ranged
+11	Lethe Anarchy	勒忒無序	神話	myth:lethe+anarchy	"weapons-melee-name:Lethe Sword ""Anarchy"""	melee,ranged
 10	Water	水	字義	en_semantic:water	weapons-melee-name:Water Rapier	melee
 10	Ophion	俄菲翁	魔物／詞庫	搜：Ophion→オピオ／弩岩系；現譯俄菲翁劍	weapons-melee-name:Ophion Sword	melee,ranged
 10	Ophion Flash	俄菲翁	魔物／詞庫	ophion_variant:Flash	"weapons-melee-name:Ophion Sword ""Flash"""	melee,ranged
@@ -49,15 +49,15 @@ count	stem	zh	reason	source	example_source	sections
 9	Emerald	祖母緑	單詞拼裝	terms/word	weapons-melee-name:Emerald Spear	melee
 9	Ice	冰	詞庫	terms:ice	weapons-melee-name:Ice Hammer	melee
 9	Silver	銀之	現譯反推	infer:Silver Claws	weapons-melee-name:Silver Claws	melee
-9	Tusk		待查		weapons-melee-name:Tusk Sword SP I	melee
-9	Rubino Snake	紅玉蛇	現譯反推	infer:Rubino Snake I	weapons-melee-name:Rubino Snake I	melee
+9	Tusk	化抑制	現譯反推	infer_cjk:Tusk Sword SP I	weapons-melee-name:Tusk Sword SP I	melee
+9	Rubino Snake	紅玉蛇	現譯反推	infer_vote:Rubino Snake Ⅴ	weapons-melee-name:Rubino Snake I	melee
 9	Rubino Swallow	紅玉燕	現譯反推	infer:Rubino Swallow Ⅰ	weapons-melee-name:Rubino Swallow Ⅰ	melee
 9	Rubino Acris	紅玉阿克里斯	現譯反推	infer:Rubino Acris Ⅰ	weapons-melee-name:Rubino Acris Ⅰ	melee
 9	Aurora	極光	現譯反推	infer:Aurora Mace	weapons-melee-name:Aurora Mace	melee,ranged
 9	Infinity	無限	現譯反推	infer:Infinity Knife	weapons-melee-name:Infinity Knife	melee,ranged
 9	Shipler	斯哈伊普勒艾爾	現譯反推	infer:Shipler Knife	weapons-melee-name:Shipler Knife	melee,ranged
-9	Resolute Heart		待查		"weapons-melee-name:Resolute Sword ""Heart"""	melee
-9	Resolute Truth		待查		"weapons-melee-name:Resolute Sword ""Truth"""	melee
+9	Resolute Heart	剛毅	現譯反推	"infer_cjk:Resolute Sword ""Heart"""	"weapons-melee-name:Resolute Sword ""Heart"""	melee
+9	Resolute Truth	剛毅	現譯反推	"infer_cjk:Resolute Sword ""Truth"""	"weapons-melee-name:Resolute Sword ""Truth"""	melee
 9	Steel Raven	鋼渡鴉	現譯反推	infer:Steel Raven Ⅰ	weapons-ranged-name:Steel Raven Ⅰ	ranged
 9	Rubino Raven	紅玉渡鴉	現譯反推	infer:Rubino Raven Ⅰ	weapons-ranged-name:Rubino Raven Ⅰ	ranged
 8	Jade	傑阿德艾	專名短音譯	搜:MHF Jade 防具→無義譯慣用；短音譯≤4	weapons-melee-name:Jade Mace	melee,ranged
@@ -68,9 +68,9 @@ count	stem	zh	reason	source	example_source	sections
 8	Steel Lizard	鋼蜥蜴	現譯反推	infer:Steel Lizard Ⅱ	weapons-melee-name:Steel Lizard Ⅱ	melee
 8	Cross	十字	現譯反推	infer:Cross Edge	weapons-melee-name:Cross Edge	melee,ranged
 8	Golden	金	遊戲專名／定譯	armor_quality_series	weapons-melee-name:Golden Katana SP I	melee
-8	Chevalier		待查		weapons-melee-name:Chevalier SP I	melee
-8	Carbuncle		待查		weapons-melee-name:Carbuncle Sword SP I	melee
-8	Obsidian	黒曜石	現譯反推	infer:Obsidian SP I	weapons-melee-name:Obsidian SP I	melee
+8	Chevalier	騎士	字義	en_semantic:chevalier	weapons-melee-name:Chevalier SP I	melee
+8	Carbuncle	卡邦庫勒	魔物／詞庫	terms:carbuncle	weapons-melee-name:Carbuncle Sword SP I	melee
+8	Obsidian	黒曜石	現譯反推	infer_vote:Obsidian Sword	weapons-melee-name:Obsidian SP I	melee
 8	Rubino Rhinos	紅玉犀	現譯反推	infer:Rubino Rhinos Ⅰ	weapons-melee-name:Rubino Rhinos Ⅰ	melee
 8	Rubino Bison	紅玉野牛	現譯反推	infer:Rubino Bison I	weapons-melee-name:Rubino Bison I	melee
 8	Rubino Lizard	紅玉蜥蜴	現譯反推	infer:Rubino Lizard Ⅰ	weapons-melee-name:Rubino Lizard Ⅰ	melee
@@ -84,32 +84,32 @@ count	stem	zh	reason	source	example_source	sections
 8	Para Bloodeating	麻痺噬血	現譯反推	infer:Para Bloodeating Sword	weapons-melee-name:Para Bloodeating Sword	melee,ranged
 8	Toxic Bloodeating	毒噬血	現譯反推	infer:Toxic Bloodeating Sword	weapons-melee-name:Toxic Bloodeating Sword	melee,ranged
 8	Nameless	無名	現譯反推	infer:Nameless Dagger Ⅰ	weapons-melee-name:Nameless Dagger Ⅰ	melee
-8	Resolute Divine		待查		"weapons-melee-name:Resolute Sword ""Divine"""	melee
-8	Chroma	彩色	現譯反推	infer:Chroma Tonfa	weapons-melee-name:Chroma Tonfa	melee,ranged
-8	Lethe Wish	勒特	神話	myth:lethe；charset 忒→特;head=Lethe	"weapons-melee-name:Lethe Sword ""Wish"""	melee
-8	Poet	詩人	現譯反推	infer:Poet Tonfa	weapons-melee-name:Poet Tonfa	melee,ranged
-8	Sonic		待查		weapons-ranged-name:Sonic Bow III	ranged
+8	Resolute Divine	剛毅	現譯反推	"infer_cjk:Resolute Sword ""Divine"""	"weapons-melee-name:Resolute Sword ""Divine"""	melee
+8	Chroma	彩色	現譯反推	infer_vote:Chroma Assault	weapons-melee-name:Chroma Tonfa	melee,ranged
+8	Lethe Wish	勒忒	現譯反推	"infer:Lethe Sword ""Wish"""	"weapons-melee-name:Lethe Sword ""Wish"""	melee
+8	Poet	詩人	現譯反推	infer_vote:Poet Assault	weapons-melee-name:Poet Tonfa	melee,ranged
+8	Sonic	音速	字義	en_semantic:sonic	weapons-ranged-name:Sonic Bow III	ranged
 8	Steel Puffer	鋼河豚	現譯反推	infer:Steel Puffer Ⅰ	weapons-ranged-name:Steel Puffer Ⅰ	ranged
 7	Crimson	深紅	現譯反推	infer:Crimson Scythe	weapons-melee-name:Crimson Scythe	melee,ranged
 7	Imperial	帝國	現譯反推	infer:Imperial Sword	weapons-melee-name:Imperial Sword	melee,ranged
-7	Master Kalinga		待查		weapons-melee-name:Master Kalinga SP Ⅰ	melee
+7	Master Kalinga	鍵盤歌	現譯反推	infer_vote:Master Blade F;head=Master	weapons-melee-name:Master Kalinga SP Ⅰ	melee
 7	Dark Princess	闇	字義	armor_quality:dark	weapons-melee-name:Dark Princess SP Ⅰ	melee
-7	Lucky Cat		待查		weapons-melee-name:Lucky Cat Stick SP Ⅰ	melee
+7	Lucky Cat	幸運猫	字義	en_semantic:lucky_cat	weapons-melee-name:Lucky Cat Stick SP Ⅰ	melee
 7	Exceletta		待查		weapons-melee-name:Exceletta SP Ⅰ	melee
 7	Flare		待查		weapons-melee-name:Flare SP I	melee
 7	Plesioth Razors	水龍	魔物／詞庫	terms.csv;head=Plesioth	weapons-melee-name:Plesioth Razors SP I	melee
-7	Order Sabres	秩序	現譯反推	infer_vote:Order Rapier;head=Order	weapons-melee-name:Order Sabres SP I	melee
+7	Order Sabres	秩序	現譯反推	infer:Order Sabres SP I	weapons-melee-name:Order Sabres SP I	melee
 7	Dragonfang Tessen		待查		weapons-melee-name:Dragonfang Tessen SP I	melee
 7	Kiwi Bonbons		待查		weapons-melee-name:Kiwi Bonbons SP I	melee
 7	Typhon		待查		weapons-melee-name:Typhon SP I	melee
 7	Special Powersaws		待查		weapons-melee-name:Special Powersaws SP I	melee
 7	Sunrise Edges		待查		weapons-melee-name:Sunrise Edges SP I	melee
 7	Tartarus		待查		weapons-melee-name:Tartarus SP Ⅰ	melee
-7	Bronze Blaze	青銅	現譯反推	infer_vote:Bronze Mace;head=Bronze	weapons-melee-name:Bronze Blaze SP I	melee
+7	Bronze Blaze	青銅	現譯反推	infer:Bronze Blaze SP I	weapons-melee-name:Bronze Blaze SP I	melee
 7	Chaos Pulse	混沌	字義	armor_quality:chaos	weapons-melee-name:Chaos Pulse SP I	melee
 7	Baleful Shk Swd.		待查		weapons-melee-name:Baleful Shk Swd. SP I	melee
 7	Amber Frost		待查		weapons-melee-name:Amber Frost SP I	melee
-7	Gate Guard		待查		weapons-melee-name:Gate Guard Sword SP I	melee
+7	Gate Guard	門衛	現譯反推	infer_cjk:Gate Guard Sword SP I	weapons-melee-name:Gate Guard Sword SP I	melee
 7	Fujin Demonslayer		待查		weapons-melee-name:Fujin Demonslayer SP I	melee
 7	Demonic Slasher		待查		weapons-melee-name:Demonic Slasher SP I	melee
 7	Pink Mantis		待查		weapons-melee-name:Pink Mantis SP I	melee
@@ -117,7 +117,7 @@ count	stem	zh	reason	source	example_source	sections
 7	Wyvrn Swrd Lapis		待查		weapons-melee-name:Wyvrn Swrd Lapis SP I	melee
 7	Giga Impact		待查		weapons-melee-name:Giga Impact SP I	melee
 7	Golden Anchor	金	字義	armor_quality:golden	weapons-melee-name:Golden Anchor SP I	melee
-7	Nephrite Nova	軟玉	現譯反推	infer_vote:Nephrite Blade I;head=Nephrite	weapons-melee-name:Nephrite Nova SP I	melee
+7	Nephrite Nova	軟玉	現譯反推	infer:Nephrite Nova SP I	weapons-melee-name:Nephrite Nova SP I	melee
 7	Special Mech Hm.		待查		weapons-melee-name:Special Mech Hm. SP I	melee
 7	Death's Bane		待查		weapons-melee-name:Death's Bane SP I	melee
 7	P. Conehead Hm.		待查		weapons-melee-name:P. Conehead Hm. SP I	melee
@@ -138,14 +138,14 @@ count	stem	zh	reason	source	example_source	sections
 7	Yellow Desert		待查		weapons-melee-name:Yellow Desert SP I	melee
 7	Blue Sky	蒼天	遊戲專名／字義	web:MHF蒼天シリーズ／blue sky	weapons-melee-name:Blue Sky Gunlance SP I	melee
 7	Chrome Rook		待查		weapons-melee-name:Chrome Rook SP I	melee
-7	Meteor Slugger	流星	現譯反推	infer_vote:Meteor Cannon;head=Meteor	weapons-melee-name:Meteor Slugger SP I	melee
+7	Meteor Slugger	流星	現譯反推	infer:Meteor Slugger SP I	weapons-melee-name:Meteor Slugger SP I	melee
 7	Tsurugi		待查		weapons-melee-name:Tsurugi SP I	melee
-7	Aqua Syphos	水	現譯反推	infer_vote:Aqua Spear;head=Aqua	weapons-melee-name:Aqua Syphos SP I	melee
+7	Aqua Syphos	水	現譯反推	infer:Aqua Syphos SP I	weapons-melee-name:Aqua Syphos SP I	melee
 7	Twin Nevi	雙	字義	armor_quality:twin	weapons-melee-name:Twin Nevi SP I	melee
 7	Begrudged Twins		待查		weapons-melee-name:Begrudged Twins SP I	melee
 7	Dragonslayers		待查		weapons-melee-name:Dragonslayers SP I	melee
 7	Sailor	水手	遊戲專名／定譯	armor_quality_series	weapons-melee-name:Sailor Sword SP I	melee
-7	Cat's Dance	猫S之	現譯反推	infer_vote:Cat's Horn;head=Cat's	weapons-melee-name:Cat's Dance SP I	melee
+7	Cat's Dance	猫S之	現譯反推	infer:Cat's Dance SP I	weapons-melee-name:Cat's Dance SP I	melee
 7	Blinding Spray		待查		weapons-melee-name:Blinding Spray SP I	melee
 7	Dark Claymore	闇	字義	armor_quality:dark	weapons-melee-name:Dark Claymore SP I	melee
 7	Fngd Bst Slayer		待查		weapons-melee-name:Fngd Bst Slayer SP I	melee
@@ -156,14 +156,14 @@ count	stem	zh	reason	source	example_source	sections
 7	Kitten Flute		待查		weapons-melee-name:Kitten Flute SP I	melee
 7	Ziggurat		待查		weapons-melee-name:Ziggurat SP I	melee
 7	Tundra		待查		weapons-melee-name:Tundra Lance SP I	melee
-7	Raging Stream	拉吉恩之	現譯反推	infer_vote:Raging Horn;head=Raging	weapons-melee-name:Raging Stream SP I	melee
+7	Raging Stream	拉吉恩之	現譯反推	infer:Raging Stream SP I	weapons-melee-name:Raging Stream SP I	melee
 7	Thunder Sovereign	雷	字義	armor_quality:thunder	weapons-melee-name:Thunder Sovereign SP I	melee
 7	Blaze Cannonlance	烈焰	字義	armor_quality:blaze	weapons-melee-name:Blaze Cannonlance SP I	melee
 7	Ice Strike	冰	字義	armor_quality:ice	weapons-melee-name:Ice Strike SP I	melee
 7	Foul Dragonsword		待查		weapons-melee-name:Foul Dragonsword SP I	melee
-7	Jiraiya		待查		weapons-melee-name:Jiraiya Sword SP I	melee
+7	Jiraiya	吉拉伊雅	現譯反推	infer_cjk:Jiraiya Sword SP I	weapons-melee-name:Jiraiya Sword SP I	melee
 7	Twin Monohorns	雙	字義	armor_quality:twin	weapons-melee-name:Twin Monohorns SP I	melee
-7	Melt Orange	姆艾勒特	現譯反推	infer_vote:Melt Cannon;head=Melt	weapons-melee-name:Melt Orange SP I	melee
+7	Melt Orange	姆艾勒特	現譯反推	infer:Melt Orange SP I	weapons-melee-name:Melt Orange SP I	melee
 7	Calcium		待查		weapons-melee-name:Calcium SP I	melee
 7	Poison Demonrod	毒	詞庫	terms:poison;head=Poison	weapons-melee-name:Poison Demonrod SP I	melee
 7	Dragon Halberd	龍	字義	armor_quality:dragon	weapons-melee-name:Dragon Halberd SP I	melee
@@ -173,14 +173,14 @@ count	stem	zh	reason	source	example_source	sections
 7	Ice Whistle	冰	字義	armor_quality:ice	weapons-melee-name:Ice Whistle SP I	melee
 7	Death Trumpet		待查		weapons-melee-name:Death Trumpet SP I	melee
 7	Venom Fork	薇諾	專名短音譯	搜:MHF Venom 防具→無義譯慣用；短音譯≤4；naturalize:Venom→薇諾;head=Venom	weapons-melee-name:Venom Fork SP I	melee
-7	Dream		待查		weapons-melee-name:Dream Spear SP I	melee
+7	Dream	夢	現譯反推	infer_cjk:Dream Spear SP I	weapons-melee-name:Dream Spear SP I	melee
 7	Hydraulic Gunlnc		待查		weapons-melee-name:Hydraulic Gunlnc SP I	melee
 7	Hellstriker		待查		weapons-melee-name:Hellstriker SP I	melee
 7	Resentful Soul		待查		weapons-melee-name:Resentful Soul SP I	melee
 7	Frostbite		待查		weapons-melee-name:Frostbite SP I	melee
 7	Aglaea		待查		weapons-melee-name:Aglaea SP I	melee
 7	Insectiferno		待查		weapons-melee-name:Insectiferno SP I	melee
-7	Bounce		待查		weapons-melee-name:Bounce Blade SP I	melee
+7	Bounce	布歐烏恩克艾	現譯反推	infer_cjk:Bounce Blade SP I	weapons-melee-name:Bounce Blade SP I	melee
 7	Toxic Thorn		待查		weapons-melee-name:Toxic Thorn SP I	melee
 7	Ivory Flame		待查		weapons-melee-name:Ivory Flame SP I	melee
 7	Burst		待查		weapons-melee-name:Burst Hammer SP I	melee
@@ -196,11 +196,11 @@ count	stem	zh	reason	source	example_source	sections
 7	Crazy Cooking		待查		weapons-melee-name:Crazy Cooking SP I	melee
 7	Gigant Claw		待查		weapons-melee-name:Gigant Claw SP I	melee
 7	Monolith Plate		待查		weapons-melee-name:Monolith Plate SP I	melee
-7	Charming		待查		weapons-melee-name:Charming Scythe SP I	melee
+7	Charming	魅惑	現譯反推	infer_cjk:Charming Scythe SP I	weapons-melee-name:Charming Scythe SP I	melee
 7	Khrysos		待查		weapons-melee-name:Khrysos SP I	melee
 7	Sphr. Hyperborea		待查		weapons-melee-name:Sphr. Hyperborea SP I	melee
 7	Golden Bomb	金	字義	armor_quality:golden	weapons-melee-name:Golden Bomb SP I	melee
-7	Gran Phaios	大	現譯反推	infer_vote:Gran Blade;head=Gran	weapons-melee-name:Gran Phaios SP I	melee
+7	Gran Phaios	大	現譯反推	infer:Gran Phaios SP I	weapons-melee-name:Gran Phaios SP I	melee
 7	Tubo Rosso		待查		weapons-melee-name:Tubo Rosso SP I	melee
 7	Amethyst	紫水晶	遊戲專名／定譯	armor_quality_series	weapons-melee-name:Amethyst Spear SP I	melee
 7	Blau Sieger		待查		weapons-melee-name:Blau Sieger SP I	melee
@@ -208,13 +208,13 @@ count	stem	zh	reason	source	example_source	sections
 7	Vivere Libro		待查		weapons-melee-name:Vivere Libro SP I	melee
 7	Antiquity		待查		weapons-melee-name:Antiquity SP I	melee
 7	Amatera		待查		weapons-melee-name:Amatera SP I	melee
-7	Dual Horns		待查		weapons-melee-name:Dual Horns SP I	melee
+7	Dual Horns	雙	現譯反推	"infer_vote:Dual Spear ""Shura"";head=Dual"	weapons-melee-name:Dual Horns SP I	melee
 7	Flare Shredders		待查		weapons-melee-name:Flare Shredders SP I	melee
 7	Copper Coin		待查		weapons-melee-name:Copper Coin SP I	melee
-7	Drago		待查		weapons-melee-name:Drago Blade SP I	melee
+7	Drago	德阿戈	現譯反推	infer_cjk:Drago Blade SP I	weapons-melee-name:Drago Blade SP I	melee
 7	White Mk.I	白	字義	armor_quality:white	weapons-melee-name:White Katana Mk.I SP I	melee
 7	Sealed Wht Flm LS		待查		weapons-melee-name:Sealed Wht Flm LS SP I	melee
-7	Raging Fist	拉吉恩之	現譯反推	infer_vote:Raging Horn;head=Raging	weapons-melee-name:Raging Fist SP I	melee
+7	Raging Fist	拉吉恩之	現譯反推	infer:Raging Fist SP I	weapons-melee-name:Raging Fist SP I	melee
 7	Gold Soil	金	字義	armor_quality:gold	weapons-melee-name:Gold Soil SP I	melee
 7	Dragonbone Flute		待查		weapons-melee-name:Dragonbone Flute SP I	melee
 7	Warlord		待查		weapons-melee-name:Warlord Gunlance SP I	melee
@@ -230,12 +230,12 @@ count	stem	zh	reason	source	example_source	sections
 7	Daora's Chrome		待查		weapons-melee-name:Daora's Chrome SP I	melee
 7	Large Ambergem		待查		weapons-melee-name:Large Ambergem SP I	melee
 7	Pure Chordmaker	純	字義	armor_quality:pure	weapons-melee-name:Pure Chordmaker SP I	melee
-7	Aqua Sabers	水	現譯反推	infer_vote:Aqua Spear;head=Aqua	weapons-melee-name:Aqua Sabers SP I	melee
+7	Aqua Sabers	水	現譯反推	infer:Aqua Sabers SP I	weapons-melee-name:Aqua Sabers SP I	melee
 7	Black Ice	黑	字義	armor_quality:black	weapons-melee-name:Black Ice GS SP I	melee
 7	Snowdance Saber		待查		weapons-melee-name:Snowdance Saber SP I	melee
 7	Purple Bear		待查		weapons-melee-name:Purple Bear SP I	melee
 7	Golden Cat Flute	金	字義	armor_quality:golden	weapons-melee-name:Golden Cat Flute SP I	melee
-7	Howl in the Dark	咆哮	現譯反推	infer_vote:Howl Gunlance;head=Howl	weapons-melee-name:Howl in the Dark SP I	melee
+7	Howl in the Dark	咆哮	現譯反推	infer:Howl in the Dark SP I	weapons-melee-name:Howl in the Dark SP I	melee
 7	Soul Crash	魂	字義	semantic;head=Soul	weapons-melee-name:Soul Crash SP I	melee
 7	Grenado		待查		weapons-melee-name:Grenado SP I	melee
 7	Custom Gunhammer		待查		weapons-melee-name:Custom Gunhammer SP I	melee
@@ -244,15 +244,15 @@ count	stem	zh	reason	source	example_source	sections
 7	High Pleasure		待查		weapons-melee-name:High Pleasure SP I	melee
 7	Lg Crimson Lotus		待查		weapons-melee-name:Lg Crimson Lotus SP I	melee
 7	Blood Sonic	血	字義	semantic:blood;head=Blood	weapons-melee-name:Blood Sonic SP I	melee
-7	Aqua Lancia	水	現譯反推	infer_vote:Aqua Spear;head=Aqua	weapons-melee-name:Aqua Lancia SP I	melee
+7	Aqua Lancia	水	現譯反推	infer:Aqua Lancia SP I	weapons-melee-name:Aqua Lancia SP I	melee
 7	Ice Cancer	冰	字義	armor_quality:ice	weapons-melee-name:Ice Cancer SP I	melee
 7	Caldo	熱	現譯反推	infer:Caldo Sword	weapons-melee-name:Caldo Sword	melee
 7	Taikun	多殼蟹	詞庫	terms:taikun	weapons-melee-name:Taikun Edge	melee,ranged
-7	Bolt		待查		weapons-melee-name:Bolt Claws SP Ⅰ	melee
+7	Bolt	雷	現譯反推	infer_cjk:Bolt Claws SP Ⅰ	weapons-melee-name:Bolt Claws SP Ⅰ	melee
 7	of Prom. Victory		待查		weapons-melee-name:Sword of Prom. Victory Ⅰ	melee
-7	Berum		待查		weapons-melee-name:Berum Knife SPⅠ	melee
-7	Berum SPⅣ		待查		weapons-melee-name:Berum Knife SPⅣ	melee
-7	Berum SPⅦ		待查		weapons-melee-name:Berum Knife SPⅦ	melee
+7	Berum	貝魯姆	現譯反推	infer_cjk:Berum Knife SPⅠ	weapons-melee-name:Berum Knife SPⅠ	melee
+7	Berum SPⅣ	貝魯姆	現譯反推	infer_cjk:Berum Knife SPⅣ	weapons-melee-name:Berum Knife SPⅣ	melee
+7	Berum SPⅦ	貝魯姆	現譯反推	infer_cjk:Berum Knife SPⅦ	weapons-melee-name:Berum Knife SPⅦ	melee
 7	Torem	特歐爾艾姆	現譯反推	infer:Torem Knife	weapons-melee-name:Torem Knife	melee
 7	Barbarian	蠻	現譯反推	infer:Barbarian Katana	weapons-melee-name:Barbarian Katana	melee,ranged
 7	Guar Guar Guuku	瓜瓜愚空	現譯反推	infer:Guar Guar Guuku Ⅰ	weapons-melee-name:Guar Guar Guuku Ⅰ	melee
@@ -266,7 +266,7 @@ count	stem	zh	reason	source	example_source	sections
 7	Kuro Plush	爾霧野絨	現譯反推	infer:Kuro Plush Ⅰ	weapons-melee-name:Kuro Plush Ⅰ	melee
 7	ToroKuro Max	魚爾霧野最大	現譯反推	infer:ToroKuro Max Ⅰ	weapons-melee-name:ToroKuro Max Ⅰ	melee
 7	Lightbreak	勒伊格哈特布爾艾	現譯反推	infer:Lightbreak Sword	weapons-melee-name:Lightbreak Sword	melee,ranged
-7	Avidya	阿維伊德伊阿	現譯反推	infer:Avidya Edge	weapons-melee-name:Avidya Edge	melee,ranged
+7	Avidya	阿維伊德伊阿	現譯反推	infer_vote:Avidya Axe	weapons-melee-name:Avidya Edge	melee,ranged
 7	Seraphim Frostedge	斯艾爾阿普哈伊姆夫爾歐斯特艾德格	現譯反推	infer:Seraphim Frostedge Ⅰ	weapons-melee-name:Seraphim Frostedge Ⅰ	melee
 7	Sacred Red Blazedance	聖赤布勒阿茲艾德阿恩	現譯反推	infer:Sacred Red Blazedance Ⅰ	weapons-melee-name:Sacred Red Blazedance Ⅰ	melee
 7	Sacred Dark Blackflame	聖暗布勒阿克克夫勒阿	現譯反推	infer:Sacred Dark Blackflame Ⅰ	weapons-melee-name:Sacred Dark Blackflame Ⅰ	melee
@@ -275,23 +275,23 @@ count	stem	zh	reason	source	example_source	sections
 7	Sacred Carnation	聖克阿爾恩阿特伊歐	現譯反推	infer:Sacred Carnation Horn Ⅰ	weapons-melee-name:Sacred Carnation Horn Ⅰ	melee
 7	Sacred Soarpillar	聖斯歐阿爾普伊勒勒	現譯反推	infer:Sacred Soarpillar Ⅰ	weapons-melee-name:Sacred Soarpillar Ⅰ	melee
 7	Sacred Dark Nightfall	聖暗恩伊格哈特夫阿勒	現譯反推	infer:Sacred Dark Nightfall Ⅰ	weapons-melee-name:Sacred Dark Nightfall Ⅰ	melee
-7	Recital Prelude		待查		"weapons-melee-name:Recital Sword ""Prelude"""	melee
-7	Recital Chorus		待查		"weapons-melee-name:Recital Sword ""Chorus"""	melee
-7	Recital Encore		待查		"weapons-melee-name:Recital Sword ""Encore"""	melee
-7	Resolute New		待查		"weapons-melee-name:Resolute Sword ""New"""	melee
-7	Resolute Lunge		待查		"weapons-melee-name:Resolute Sword ""Lunge"""	melee
-7	Resolute Faith		待查		"weapons-melee-name:Resolute Sword ""Faith"""	melee
-7	Melody Prelude		待查		"weapons-melee-name:Melody Sword ""Prelude"""	melee
-7	Melody Chorus		待查		"weapons-melee-name:Melody Sword ""Chorus"""	melee
-7	Melody Encore		待查		"weapons-melee-name:Melody Sword ""Encore"""	melee
+7	Recital Prelude	獨奏	現譯反推	"infer_cjk:Recital Sword ""Prelude"""	"weapons-melee-name:Recital Sword ""Prelude"""	melee
+7	Recital Chorus	獨奏	現譯反推	"infer_cjk:Recital Sword ""Chorus"""	"weapons-melee-name:Recital Sword ""Chorus"""	melee
+7	Recital Encore	獨奏	現譯反推	"infer_cjk:Recital Sword ""Encore"""	"weapons-melee-name:Recital Sword ""Encore"""	melee
+7	Resolute New	剛毅	現譯反推	"infer_cjk:Resolute Sword ""New"""	"weapons-melee-name:Resolute Sword ""New"""	melee
+7	Resolute Lunge	剛毅	現譯反推	"infer_cjk:Resolute Sword ""Lunge"""	"weapons-melee-name:Resolute Sword ""Lunge"""	melee
+7	Resolute Faith	剛毅	現譯反推	"infer_cjk:Resolute Sword ""Faith"""	"weapons-melee-name:Resolute Sword ""Faith"""	melee
+7	Melody Prelude	旋律	現譯反推	"infer_cjk:Melody Sword ""Prelude"""	"weapons-melee-name:Melody Sword ""Prelude"""	melee
+7	Melody Chorus	旋律	現譯反推	"infer_cjk:Melody Sword ""Chorus"""	"weapons-melee-name:Melody Sword ""Chorus"""	melee
+7	Melody Encore	旋律	現譯反推	"infer_cjk:Melody Sword ""Encore"""	"weapons-melee-name:Melody Sword ""Encore"""	melee
 7	Flame Beat	炎	字義	armor_quality:flame	weapons-ranged-name:Flame Beat SP Ⅰ	ranged
-7	Aqua Feather	水	現譯反推	infer_vote:Aqua Spear;head=Aqua	weapons-ranged-name:Aqua Feather SP Ⅰ	ranged
+7	Aqua Feather	水	現譯反推	infer:Aqua Feather SP Ⅰ	weapons-ranged-name:Aqua Feather SP Ⅰ	ranged
 7	Fake Projection	偽投影	現譯反推	infer:Fake Projection Ⅰ	weapons-ranged-name:Fake Projection Ⅰ	ranged
 7	Sacred Falling Sun	聖墜日	現譯反推	infer:Sacred Falling Sun Ⅰ	weapons-ranged-name:Sacred Falling Sun Ⅰ	ranged
 7	Sacred Crumbling Earth	聖克爾烏姆布勒伊恩地	現譯反推	infer:Sacred Crumbling Earth Ⅰ	weapons-ranged-name:Sacred Crumbling Earth Ⅰ	ranged
 7	Sacred Night Windvoice	聖夜瓦伊恩德維歐伊克	現譯反推	infer:Sacred Night Windvoice Ⅰ	weapons-ranged-name:Sacred Night Windvoice Ⅰ	ranged
-6	Crystal	結晶	現譯反推	infer:Crystal Hammer	weapons-melee-name:Crystal Hammer	melee,ranged
-6	Steel Ice	鋼氷	現譯反推	infer:Steel Ice Hammer	weapons-melee-name:Steel Ice Hammer	melee
+6	Crystal	結晶	現譯反推	infer_vote:Crystal Edge	weapons-melee-name:Crystal Hammer	melee,ranged
+6	Steel Ice	鋼氷	現譯反推	infer_vote:Steel Ice Dagger	weapons-melee-name:Steel Ice Hammer	melee
 6	Hunter	獵人	詞庫	terms:hunter	weapons-melee-name:Hunter Knife	melee,ranged
 6	Steel Bison	鋼野牛	現譯反推	infer:Steel Bison Ⅱ	weapons-melee-name:Steel Bison Ⅱ	melee
 6	Feather	羽	現譯反推	infer:Feather Knife	weapons-melee-name:Feather Knife	melee,ranged
@@ -302,9 +302,9 @@ count	stem	zh	reason	source	example_source	sections
 6	Steel Hawk	鋼鷹	現譯反推	infer:Steel Hawk I	weapons-melee-name:Steel Hawk I	melee
 6	Blue Porta	青波爾塔	現譯反推	infer:Blue Porta Mace Ⅰ	weapons-melee-name:Blue Porta Mace Ⅰ	melee
 6	Red Porta	赤波爾塔	現譯反推	infer:Red Porta Mace Ⅰ	weapons-melee-name:Red Porta Mace Ⅰ	melee
-6	Gold Crest	紋章金	現譯反推	infer:Gold Crest I	weapons-melee-name:Gold Crest I	melee
-6	Silver Crest	紋章銀	現譯反推	infer:Silver Crest I	weapons-melee-name:Silver Crest I	melee
-6	Bronze Crest	紋章青銅	現譯反推	infer:Bronze Crest I	weapons-melee-name:Bronze Crest I	melee
+6	Gold Crest	紋章金	現譯反推	infer_vote:Gold Crest Ⅴ	weapons-melee-name:Gold Crest I	melee
+6	Silver Crest	紋章銀	現譯反推	infer_vote:Silver Crest Ⅴ	weapons-melee-name:Silver Crest I	melee
+6	Bronze Crest	紋章青銅	現譯反推	infer_vote:Bronze Crest Ⅴ	weapons-melee-name:Bronze Crest I	melee
 6	Don	堂	現譯反推	infer:Don Dagger	weapons-melee-name:Don Dagger	melee,ranged
 6	Caravan Pair	旅團對	現譯反推	infer:Caravan Pair Ⅰ	weapons-melee-name:Caravan Pair Ⅰ	melee
 6	Caravan Pipe	旅團管	現譯反推	infer:Caravan Pipe Ⅰ	weapons-melee-name:Caravan Pipe Ⅰ	melee
@@ -316,17 +316,17 @@ count	stem	zh	reason	source	example_source	sections
 6	Rebellion	叛逆	現譯反推	infer:Rebellion I	weapons-melee-name:Rebellion I	melee
 6	Rebellion Kai	叛逆可伊	現譯反推	infer:Rebellion Kai I	weapons-melee-name:Rebellion Kai I	melee
 6	Leeching	勒艾奇伊恩	現譯反推	infer:Leeching Sword	weapons-melee-name:Leeching Sword	melee
-6	of Rupture, Ea		待查		weapons-melee-name:Sword of Rupture, Ea Ⅰ	melee
+6	of Rupture, Ea	破裂之	現譯反推	infer_cjk:Sword of Rupture, Ea Ⅰ	weapons-melee-name:Sword of Rupture, Ea Ⅰ	melee
 6	Empty Crack	空亀	現譯反推	infer:Empty Crack Ⅰ	weapons-melee-name:Empty Crack Ⅰ	melee
 6	Azure Wyvern Whirl	蒼飛龍瓦哈伊爾勒	現譯反推	infer:Azure Wyvern Whirl Ⅰ	weapons-melee-name:Azure Wyvern Whirl Ⅰ	melee
-6	Dragon Dragon	龍	現譯反推	"infer:Dragon Katana ""Dragon"" Ⅰ"	"weapons-melee-name:Dragon Katana ""Dragon"" Ⅰ"	melee
-6	Dragon Flame	龍	現譯反推	"infer:Dragon Katana ""Flame"" Ⅰ"	"weapons-melee-name:Dragon Katana ""Flame"" Ⅰ"	melee
+6	Dragon Dragon	龍	字義	armor_quality:dragon	"weapons-melee-name:Dragon Katana ""Dragon"" Ⅰ"	melee
+6	Dragon Flame	龍	字義	armor_quality:dragon	"weapons-melee-name:Dragon Katana ""Flame"" Ⅰ"	melee
 6	Engetsu Fire		待查		"weapons-melee-name:Engetsu ""Fire"" Ⅰ"	melee
-6	Beta Monochrome	β	現譯反推	"infer_vote:Beta Sword ""Black"";head=Beta"	weapons-melee-name:Beta Knife Monochrome Ⅲ	melee
+6	Beta Monochrome	β	現譯反推	infer:Beta Knife Monochrome Ⅲ	weapons-melee-name:Beta Knife Monochrome Ⅲ	melee
 6	Thunder Ball	雷球	現譯反推	infer:Thunder Ball Hammer Ⅰ	weapons-melee-name:Thunder Ball Hammer Ⅰ	melee
 6	of Longinus		待查		weapons-melee-name:Lance of Longinus I	melee
 6	Progressive	普爾歐格爾艾斯斯	現譯反推	infer:Progressive Knife I	weapons-melee-name:Progressive Knife I	melee
-6	Counter		待查		weapons-melee-name:Counter Sword I	melee
+6	Counter	反	現譯反推	infer_cjk:Counter Sword I	weapons-melee-name:Counter Sword I	melee
 6	Dios	狄奧斯	專名短音譯	web:ディオス イベント防具	weapons-melee-name:Dios Edge	melee,ranged
 6	Cassius	克阿斯伊	專名短音譯	搜:MHF Cassius 防具→無義譯慣用；短音譯≤4	weapons-melee-name:Cassius Spear Ⅰ	melee
 6	N 2 Missile	N２姆伊斯斯伊勒艾	現譯反推	infer:N 2 Missile Ⅰ	weapons-melee-name:N 2 Missile Ⅰ	melee
@@ -352,8 +352,8 @@ count	stem	zh	reason	source	example_source	sections
 6	Dragon Scale	龍鱗	現譯反推	infer:Dragon Scale Sword Ⅰ	weapons-melee-name:Dragon Scale Sword Ⅰ	melee
 6	Aunus'	阿烏恩烏斯	現譯反推	infer:Aunus' Scythe Ⅰ	weapons-melee-name:Aunus' Scythe Ⅰ	melee
 6	Golden Bat	金蝠	現譯反推	infer:Golden Bat Ⅰ	weapons-melee-name:Golden Bat Ⅰ	melee
-6	Wyvern Gae Bulg		待查		weapons-melee-name:Wyvern Spear Gae Bulg Ⅰ	melee
-6	Graham Spike	格雷刺	現譯反推	"infer_vote:Graham Spike ""Fire"""	weapons-melee-name:Graham Spike	melee
+6	Wyvern Gae Bulg	飛龍	現譯反推	"infer_vote:Wyvern Blade ""Azure"";head=Wyvern"	weapons-melee-name:Wyvern Spear Gae Bulg Ⅰ	melee
+6	Graham Spike	格雷刺	現譯反推	infer_vote:Graham Spike Ⅰ	weapons-melee-name:Graham Spike	melee
 6	Maihime Kaougi	瑪伊希梅可歐烏吉	現譯反推	infer:Maihime Kaougi Ⅰ	weapons-melee-name:Maihime Kaougi Ⅰ	melee
 6	Soul Eater	魂龍鎧沸	現譯反推	infer:Soul Eater Ⅰ	weapons-melee-name:Soul Eater Ⅰ	melee
 6	Ideal Strieder	伊德艾阿勒斯特爾伊艾德艾爾	現譯反推	infer:Ideal Strieder Ⅰ	weapons-melee-name:Ideal Strieder Ⅰ	melee
@@ -370,9 +370,9 @@ count	stem	zh	reason	source	example_source	sections
 6	Golden Guuku	黄金愚空	現譯反推	infer:Golden Guuku Ⅰ	weapons-melee-name:Golden Guuku Ⅰ	melee
 6	Silver Guuku	銀愚空	現譯反推	infer:Silver Guuku Ⅰ	weapons-melee-name:Silver Guuku Ⅰ	melee
 6	Bronze Guuku	青銅愚空	現譯反推	infer:Bronze Guuku Ⅰ	weapons-melee-name:Bronze Guuku Ⅰ	melee
-6	Enrapture Intro		待查		"weapons-melee-name:Enrapture Sword ""Intro"""	melee,ranged
-6	Enrapture Chorus		待查		"weapons-melee-name:Enrapture Sword ""Chorus"""	melee,ranged
-6	Enrapture Encore		待查		"weapons-melee-name:Enrapture Sword ""Encore"""	melee,ranged
+6	Enrapture Intro	狂喜	現譯反推	"infer_cjk:Enrapture Sword ""Intro"""	"weapons-melee-name:Enrapture Sword ""Intro"""	melee,ranged
+6	Enrapture Chorus	狂喜	現譯反推	"infer_cjk:Enrapture Sword ""Chorus"""	"weapons-melee-name:Enrapture Sword ""Chorus"""	melee,ranged
+6	Enrapture Encore	狂喜	現譯反推	"infer_cjk:Enrapture Sword ""Encore"""	"weapons-melee-name:Enrapture Sword ""Encore"""	melee,ranged
 6	Rubino Puffer	紅玉河豚	現譯反推	infer:Rubino Puffer Ⅳ	weapons-ranged-name:Rubino Puffer Ⅳ	ranged
 6	Rubino Killi	紅玉基利	現譯反推	infer:Rubino Killi Ⅰ	weapons-ranged-name:Rubino Killi Ⅰ	ranged
 6	Jealousy	杰艾阿勒歐烏斯伊	現譯反推	infer:Jealousy Ⅰ	weapons-ranged-name:Jealousy Ⅰ	ranged
@@ -382,7 +382,7 @@ count	stem	zh	reason	source	example_source	sections
 6	Electromagnetic		待查		weapons-ranged-name:Electromagnetic Bowgun Ⅰ	ranged
 6	Starry Sky		待查		weapons-ranged-name:Starry Sky Bow Ⅰ	ranged
 6	Night Sky		待查		weapons-ranged-name:Night Sky Bow Ⅰ	ranged
-6	Grim Reaper	格爾伊姆	現譯反推	infer_vote:Grim Blade;head=Grim	weapons-ranged-name:Grim Reaper I	ranged
+6	Grim Reaper	格爾伊姆	現譯反推	infer:Grim Reaper I	weapons-ranged-name:Grim Reaper I	ranged
 6	Barrel Rapidcannon	桶爾阿普伊德克阿恩	現譯反推	infer:Barrel Rapidcannon Ⅰ	weapons-ranged-name:Barrel Rapidcannon Ⅰ	ranged
 5	Black	黒	現譯反推	infer:Black Katana Mk.Ⅰ	weapons-melee-name:Black Katana Mk.Ⅰ	melee,ranged
 5	Frost	霜	現譯反推	infer:Frost Edge	weapons-melee-name:Frost Edge	melee,ranged
@@ -443,15 +443,15 @@ count	stem	zh	reason	source	example_source	sections
 5	Mauve Cross	淡紫十字	現譯反推	infer:Mauve Cross Ⅰ	weapons-melee-name:Mauve Cross Ⅰ	melee
 5	Rosa Cross	羅薩十	現譯反推	infer:Rosa Cross Ⅰ	weapons-melee-name:Rosa Cross Ⅰ	melee
 5	Beta Light	β	現譯反推	"infer_vote:Beta Sword ""Black"";head=Beta"	"weapons-melee-name:Beta Knife ""Light"""	melee
-5	Prayer Prelude	祈願	現譯反推	"infer_vote:Prayer Edge ""Interlude"";head=Prayer"	"weapons-melee-name:Prayer Sword ""Prelude"""	melee
-5	Prayer Interlude	祈願	現譯反推	"infer_vote:Prayer Edge ""Interlude"";head=Prayer"	"weapons-melee-name:Prayer Sword ""Interlude"""	melee
-5	Prayer Finale	祈願	現譯反推	"infer_vote:Prayer Edge ""Interlude"";head=Prayer"	"weapons-melee-name:Prayer Sword ""Finale"""	melee
+5	Prayer Prelude	祈願	現譯反推	"infer_cjk:Prayer Sword ""Prelude"""	"weapons-melee-name:Prayer Sword ""Prelude"""	melee
+5	Prayer Interlude	祈願	現譯反推	"infer_cjk:Prayer Sword ""Interlude"""	"weapons-melee-name:Prayer Sword ""Interlude"""	melee
+5	Prayer Finale	祈願	現譯反推	"infer_cjk:Prayer Sword ""Finale"""	"weapons-melee-name:Prayer Sword ""Finale"""	melee
 5	10th Anniversary Cake	十週年阿恩恩伊維艾爾斯菓子	現譯反推	infer:10th Anniversary Cake Ⅰ	weapons-melee-name:10th Anniversary Cake Ⅰ	melee
 5	Sleeping Halk	斯艾艾皮恩鷹	現譯反推	infer:Sleeping Halk Ⅰ	weapons-melee-name:Sleeping Halk Ⅰ	melee
-5	Musical Prelude		待查		"weapons-melee-name:Musical Sword ""Prelude"""	melee
-5	Musical Chorus		待查		"weapons-melee-name:Musical Sword ""Chorus"""	melee
-5	Musical Encore		待查		"weapons-melee-name:Musical Sword ""Encore"""	melee
-5	Ravina	拉維娜	現譯反推	infer:Ravina Tonfa	weapons-melee-name:Ravina Tonfa	melee,ranged
+5	Musical Prelude	牙血鐵	現譯反推	"infer_cjk:Musical Sword ""Prelude"""	"weapons-melee-name:Musical Sword ""Prelude"""	melee
+5	Musical Chorus	牙血鐵	現譯反推	"infer_cjk:Musical Sword ""Chorus"""	"weapons-melee-name:Musical Sword ""Chorus"""	melee
+5	Musical Encore	牙血鐵	現譯反推	"infer_cjk:Musical Sword ""Encore"""	"weapons-melee-name:Musical Sword ""Encore"""	melee
+5	Ravina	拉維娜	現譯反推	infer_vote:Ravina Assault	weapons-melee-name:Ravina Tonfa	melee,ranged
 5	Snow Memory	雪記憶	現譯反推	infer:Snow Memory Ⅰ	weapons-melee-name:Snow Memory Ⅰ	melee
 5	Santa De Guuku	聖誕愚空	現譯反推	infer:Santa De Guuku Ⅰ	weapons-melee-name:Santa De Guuku Ⅰ	melee
 5	Erupe Burukku	黑艾魯佩	現譯反推	infer:Erupe Burukku Ⅰ	weapons-melee-name:Erupe Burukku Ⅰ	melee
@@ -459,8 +459,8 @@ count	stem	zh	reason	source	example_source	sections
 5	Varusa Soul	炎角龍魂	現譯反推	infer:Varusa Soul Ⅰ	weapons-melee-name:Varusa Soul Ⅰ	melee
 5	Lovely Felyne	艾路猫可愛	現譯反推	infer:Lovely Felyne Ⅰ	weapons-melee-name:Lovely Felyne Ⅰ	melee
 5	Sakura		待查		weapons-melee-name:Sakura Lance Ⅰ	melee
-5	Queen Blaster	女王爆裂	現譯反推	infer:Queen Blaster II	weapons-ranged-name:Queen Blaster II	ranged
-5	Power Hunter	獵人力量	現譯反推	infer:Power Hunter Bow II	weapons-ranged-name:Power Hunter Bow II	ranged
+5	Queen Blaster	女王爆裂	現譯反推	infer_vote:Queen Blaster Ⅲ	weapons-ranged-name:Queen Blaster II	ranged
+5	Power Hunter	獵人力量	現譯反推	infer_vote:Power Hunter Bow Ⅲ	weapons-ranged-name:Power Hunter Bow II	ranged
 5	Citrine Raven	黄晶渡鴉	現譯反推	infer:Citrine Raven Ⅰ	weapons-ranged-name:Citrine Raven Ⅰ	ranged
 5	Amicus Arc	摯友弧弓	現譯反推	infer:Amicus Arc Ⅰ	weapons-ranged-name:Amicus Arc Ⅰ	ranged
 5	Amethyst Raven	紫水晶渡鴉	現譯反推	infer:Amethyst Raven Ⅰ	weapons-ranged-name:Amethyst Raven Ⅰ	ranged
@@ -473,7 +473,7 @@ count	stem	zh	reason	source	example_source	sections
 4	Dragon	龍	魔物／詞庫	terms.csv	weapons-melee-name:Dragon Lance	melee
 4	Fatalis	黑龍	魔物／詞庫	terms.csv	weapons-melee-name:Fatalis Blade	melee
 4	Bulldrome	大野豬王	現譯反推	infer:Bulldrome Dagger	weapons-melee-name:Bulldrome Dagger	melee
-4	Frozen	凍結	現譯反推	infer:Frozen Hammer	weapons-melee-name:Frozen Hammer	melee
+4	Frozen	凍結	現譯反推	infer_vote:Frozen Edge Ⅰ	weapons-melee-name:Frozen Hammer	melee
 4	Fulminant	爆	現譯反推	infer:Fulminant Sword	weapons-melee-name:Fulminant Sword	melee
 4	Akantor	霸龍	魔物／詞庫	terms.csv	weapons-melee-name:Akantor Katana	melee,ranged
 4	Ripple	爾伊普普勒艾	現譯反推	infer_vote:Ripple Sword Ⅰ	weapons-melee-name:Ripple	melee
@@ -568,20 +568,20 @@ count	stem	zh	reason	source	example_source	sections
 4	Schnitt	斯克哈恩伊特特	現譯反推	infer:Schnitt Ⅰ	weapons-melee-name:Schnitt Ⅰ	melee
 4	Schwitt	斯克哈瓦伊特特	現譯反推	infer:Schwitt Ⅰ	weapons-melee-name:Schwitt Ⅰ	melee
 4	Huge Katanya	巨大克阿特阿恩伊阿	現譯反推	infer:Huge Katanya Ⅰ	weapons-melee-name:Huge Katanya Ⅰ	melee
-4	Composer Intro		待查		"weapons-melee-name:Composer Blade ""Intro"""	melee
-4	Composer Chorus		待查		"weapons-melee-name:Composer Blade""Chorus"""	melee
-4	Composer Encore		待查		"weapons-melee-name:Composer Blade""Encore"""	melee
-4	True Vola	真沃拉	現譯反推	infer:True Vola Tonfa	weapons-melee-name:True Vola Tonfa	melee,ranged
+4	Composer Intro	作曲	現譯反推	"infer_cjk:Composer Blade ""Intro"""	"weapons-melee-name:Composer Blade ""Intro"""	melee
+4	Composer Chorus	作曲	現譯反推	"infer_cjk:Composer Blade""Chorus"""	"weapons-melee-name:Composer Blade""Chorus"""	melee
+4	Composer Encore	作曲	現譯反推	"infer_cjk:Composer Blade""Encore"""	"weapons-melee-name:Composer Blade""Encore"""	melee
+4	True Vola	真沃拉	現譯反推	infer_vote:True Vola Assault	weapons-melee-name:True Vola Tonfa	melee,ranged
 4	Blazing Peak	熾峰	現譯反推	infer:Blazing Peak Blade	weapons-melee-name:Blazing Peak Blade	melee
 4	Beastlord	布艾阿斯特勒歐爾	現譯反推	infer:Beastlord Ⅰ	weapons-melee-name:Beastlord Ⅰ	melee
 4	Solemn Eyes	厳粛艾伊艾斯	現譯反推	infer:Solemn Eyes Sword	weapons-melee-name:Solemn Eyes Sword	melee,ranged
 4	Goldwing	格歐勒德瓦伊恩格	現譯反推	infer:Goldwing Blade Ⅰ	weapons-melee-name:Goldwing Blade Ⅰ	melee
-4	True Chroma	真彩色	現譯反推	infer:True Chroma Tonfa	weapons-melee-name:True Chroma Tonfa	melee,ranged
-4	Final Chroma	決勝彩色	現譯反推	infer:Final Chroma Tonfa	weapons-melee-name:Final Chroma Tonfa	melee,ranged
+4	True Chroma	真彩色	現譯反推	infer_vote:True Chroma Assault	weapons-melee-name:True Chroma Tonfa	melee,ranged
+4	Final Chroma	決勝彩色	現譯反推	infer_vote:Final Chroma Assault	weapons-melee-name:Final Chroma Tonfa	melee,ranged
 4	Dragon Emperor Shot	龍皇帝弾	現譯反推	infer:Dragon Emperor Shot Ⅰ	weapons-melee-name:Dragon Emperor Shot Ⅰ	melee
-4	True Poet	真詩人	現譯反推	infer:True Poet Tonfa	weapons-melee-name:True Poet Tonfa	melee,ranged
-4	Poetry	普歐艾特爾伊	現譯反推	infer:Poetry Tonfa	weapons-melee-name:Poetry Tonfa	melee,ranged
-4	Layer	層	現譯反推	infer:Layer Edge	weapons-melee-name:Layer Edge	melee
+4	True Poet	真詩人	現譯反推	infer_vote:True Poet Assault	weapons-melee-name:True Poet Tonfa	melee,ranged
+4	Poetry	普歐艾特爾伊	現譯反推	infer_vote:Poetry Assault	weapons-melee-name:Poetry Tonfa	melee,ranged
+4	Layer	層	現譯反推	infer_vote:Layer Axe	weapons-melee-name:Layer Edge	melee
 4	Biscuit Cream	布伊斯克烏伊特乳	現譯反推	infer:Biscuit Cream Ⅰ	weapons-melee-name:Biscuit Cream Ⅰ	melee
 4	Volnoborin	維歐勒恩歐布歐爾	現譯反推	infer:Volnoborin Ⅰ	weapons-melee-name:Volnoborin Ⅰ	melee
 4	Power Wild		待查		weapons-ranged-name:Power Wild Bow II	ranged
@@ -589,7 +589,7 @@ count	stem	zh	reason	source	example_source	sections
 4	Oobasami	歐歐巴薩米	現譯反推	infer:Oobasami Ⅰ	weapons-ranged-name:Oobasami Ⅰ	ranged
 4	Steel Killi	鋼基利	現譯反推	infer:Steel Killi Ⅰ	weapons-ranged-name:Steel Killi Ⅰ	ranged
 4	Citrine Puffer	黄晶河豚	現譯反推	infer:Citrine Puffer Ⅰ	weapons-ranged-name:Citrine Puffer Ⅰ	ranged
-4	Fury	憤怒之	現譯反推	infer:Fury Lbg	weapons-ranged-name:Fury Lbg	ranged
+4	Fury	憤怒之	現譯反推	infer_vote:Fury Horn	weapons-ranged-name:Fury Lbg	ranged
 4	Citrine Killi	黄晶基利	現譯反推	infer:Citrine Killi Ⅰ	weapons-ranged-name:Citrine Killi Ⅰ	ranged
 4	Amethyst Puffer	紫水晶河豚	現譯反推	infer:Amethyst Puffer Ⅰ	weapons-ranged-name:Amethyst Puffer Ⅰ	ranged
 4	Lovely	可愛	現譯反推	infer:Lovely Gun	weapons-ranged-name:Lovely Gun	ranged
@@ -604,34 +604,34 @@ count	stem	zh	reason	source	example_source	sections
 4	Tulpe	特烏勒普艾	現譯反推	infer:Tulpe Ⅰ	weapons-ranged-name:Tulpe Ⅰ	ranged
 4	Tulip	特烏勒伊普	現譯反推	infer:Tulip Ⅰ	weapons-ranged-name:Tulip Ⅰ	ranged
 4	Elzelion Guuku	灼零龍愚空	現譯反推	infer:Elzelion Guuku Ⅰ	weapons-ranged-name:Elzelion Guuku Ⅰ	ranged
-3	Spike	棘	現譯反推	infer:Spike Hammer	weapons-melee-name:Spike Hammer	melee
-3	Rusted	錆	現譯反推	infer:Rusted Hammer	weapons-melee-name:Rusted Hammer	melee
-3	Tarnished	失色	現譯反推	infer:Tarnished Hammer	weapons-melee-name:Tarnished Hammer	melee
-3	White	白	現譯反推	infer:White Gunlance	weapons-melee-name:White Gunlance	melee
-3	Scissor	鋏	現譯反推	infer:Scissor Gunlance	weapons-melee-name:Scissor Gunlance	melee
+3	Spike	棘	現譯反推	infer_vote:Spike Spear	weapons-melee-name:Spike Hammer	melee
+3	Rusted	錆	現譯反推	infer_vote:Rusted Sword	weapons-melee-name:Rusted Hammer	melee
+3	Tarnished	失色	現譯反推	infer_vote:Tarnished Sword	weapons-melee-name:Tarnished Hammer	melee
+3	White	白	現譯反推	infer_vote:White Cannon	weapons-melee-name:White Gunlance	melee
+3	Scissor	鋏	現譯反推	infer_vote:Scissor Cannon	weapons-melee-name:Scissor Gunlance	melee
 3	Gravios	鎧龍	魔物／詞庫	terms.csv	weapons-melee-name:Gravios Spear	melee
 3	Demon	惡魔	遊戲專名／定譯	armor_quality_series	weapons-melee-name:Demon Lance	melee
 3	Catspaw		待查		weapons-melee-name:Catspaw	melee
 3	Worn	旧	現譯反推	infer:Worn Greatsword	weapons-melee-name:Worn Greatsword	melee
 3	Cursed Ocarina	咒陶笛	現譯反推	infer_vote:Cursed Ocarina+	weapons-melee-name:Cursed Ocarina	melee
-3	Acorn	橡	現譯反推	infer:Acorn Stick	weapons-melee-name:Acorn Stick	melee
+3	Acorn	橡	現譯反推	infer_vote:Acorn Blade	weapons-melee-name:Acorn Stick	melee
 3	Double Beta	双β	現譯反推	infer_vote:Double Beta Ⅱ	weapons-melee-name:Double Beta	melee
 3	Ice Breaker	冰破壞	現譯反推	infer_vote:Ice Breaker Gunlance	weapons-melee-name:Ice Breaker	melee
 3	Hypno	眠	現譯反推	infer:Hypno Blade	weapons-melee-name:Hypno Blade	melee
-3	Crab	蟹	現譯反推	infer:Crab Hammer	weapons-melee-name:Crab Hammer	melee
+3	Crab	蟹	現譯反推	infer_vote:Crab Sword	weapons-melee-name:Crab Hammer	melee
 3	Undulling	烏恩德烏勒勒伊恩	現譯反推	infer_vote:Undulling+	weapons-melee-name:Undulling	melee
 3	Darkness	ＤＲｋN老SS	現譯反推	infer_vote:Darkness Edge	weapons-melee-name:Darkness	melee
 3	BC Slicer	BC斬撃	現譯反推	infer:BC Slicer Ⅰ	weapons-melee-name:BC Slicer Ⅰ	melee
 3	Yellow Porta	黄波爾塔	現譯反推	infer:Yellow Porta Mace Ⅰ	weapons-melee-name:Yellow Porta Mace Ⅰ	melee
 3	Purple Porta	紫波爾塔	現譯反推	infer:Purple Porta Mace Ⅰ	weapons-melee-name:Purple Porta Mace Ⅰ	melee
-3	Beta (Yellow)	β	現譯反推	"infer_vote:Beta Sword ""Black"";head=Beta"	weapons-melee-name:Beta Knife (Yellow)	melee
+3	Beta (Yellow)	β	現譯反推	infer:Beta Knife (Yellow)	weapons-melee-name:Beta Knife (Yellow)	melee
 3	Blazing	熾	現譯反推	infer:Blazing Blade	weapons-melee-name:Blazing Blade	melee
 3	Conflagration		待查		weapons-melee-name:Conflagration Gunlance	melee
 3	Prototype	試作	現譯反推	infer:Prototype Fishing Rod	weapons-melee-name:Prototype Fishing Rod	melee
 3	White Claymore	白闊劍	現譯反推	infer:White Claymore I	weapons-melee-name:White Claymore I	melee
 3	Black Claymore	黑闊劍	現譯反推	infer:Black Claymore I	weapons-melee-name:Black Claymore I	melee
 3	Red Claymore	赤闊劍	現譯反推	infer:Red Claymore I	weapons-melee-name:Red Claymore I	melee
-3	Two Hand		待查		weapons-melee-name:Two Hand Sword I	melee
+3	Two Hand	二手	現譯反推	infer_cjk:Two Hand Sword I	weapons-melee-name:Two Hand Sword I	melee
 3	Blue Claymore	青闊劍	現譯反推	infer:Blue Claymore I	weapons-melee-name:Blue Claymore I	melee
 3	Engraved Xanthos	艾恩格爾阿維艾德克斯阿恩特哈歐斯	現譯反推	infer:Engraved Xanthos I	weapons-melee-name:Engraved Xanthos I	melee
 3	Trifling	特伊弗伊恩	現譯反推	infer:Trifling Sword I	weapons-melee-name:Trifling Sword I	melee
@@ -645,7 +645,7 @@ count	stem	zh	reason	source	example_source	sections
 3	Machalite		待查		weapons-melee-name:Machalite Lance	melee
 3	Spinelion		待查		weapons-melee-name:Spinelion Lance I	melee
 3	Million	百萬	現譯反推	infer:Million Knife	weapons-melee-name:Million Knife	melee
-3	Schwarzkerzen	SＣHWＲＺｋ老ＲＺ老N	現譯反推	infer:Schwarzkerzen I	weapons-melee-name:Schwarzkerzen I	melee
+3	Schwarzkerzen	SＣHWＲＺｋ老ＲＺ老N	現譯反推	infer_vote:Schwarzkerzen II	weapons-melee-name:Schwarzkerzen I	melee
 3	White Giga	白超巨	現譯反推	infer:White Giga Claws I	weapons-melee-name:White Giga Claws I	melee
 3	Black Giga	黑超巨	現譯反推	infer:Black Giga Claws I	weapons-melee-name:Black Giga Claws I	melee
 3	Red Giga	赤超巨	現譯反推	infer:Red Giga Claws I	weapons-melee-name:Red Giga Claws I	melee
@@ -666,7 +666,7 @@ count	stem	zh	reason	source	example_source	sections
 3	Baddeley	布阿德德艾勒艾伊	現譯反推	infer:Baddeley Sword Ⅰ	weapons-melee-name:Baddeley Sword Ⅰ	melee
 3	Red	赤	現譯反推	infer:Red Blade Ⅰ	weapons-melee-name:Red Blade Ⅰ	melee
 3	Carnel Twins	克阿爾恩艾勒雙子	現譯反推	infer:Carnel Twins I	weapons-melee-name:Carnel Twins I	melee
-3	Cinnabar		待查		weapons-melee-name:Cinnabar Blade I	melee
+3	Cinnabar	朱	現譯反推	infer_cjk:Cinnabar Blade I	weapons-melee-name:Cinnabar Blade I	melee
 3	Chlorite	奇洛里特	現譯反推	infer:Chlorite Blade I	weapons-melee-name:Chlorite Blade I	melee
 3	Crystal Claymore	晶闊劍	現譯反推	infer:Crystal Claymore I	weapons-melee-name:Crystal Claymore I	melee
 3	Grenadier		待查		weapons-melee-name:Grenadier Hammer Ⅰ	melee
@@ -686,7 +686,7 @@ count	stem	zh	reason	source	example_source	sections
 3	Blue Strafe	青	字義	armor_quality:blue	weapons-melee-name:Blue Strafe I	melee
 3	Red Strafe	赤	字義	armor_quality:red	weapons-melee-name:Red Strafe I	melee
 3	Yellow Strafe		待查		weapons-melee-name:Yellow Strafe I	melee
-3	Aqua Strafe	水	現譯反推	infer_vote:Aqua Spear;head=Aqua	weapons-melee-name:Aqua Strafe I	melee
+3	Aqua Strafe	水	現譯反推	infer:Aqua Strafe I	weapons-melee-name:Aqua Strafe I	melee
 3	Pale Strafe		待查		weapons-melee-name:Pale Strafe I	melee
 3	Piceous Strafe	普伊克艾歐烏斯斯拉菲	現譯反推	infer:Piceous Strafe I	weapons-melee-name:Piceous Strafe I	melee
 3	Dagda		待查		weapons-melee-name:Dagda Hammer I	melee
@@ -776,7 +776,7 @@ count	stem	zh	reason	source	example_source	sections
 3	Wisdom	智慧	現譯反推	infer:Wisdom Ⅰ	weapons-melee-name:Wisdom Ⅰ	melee
 3	Lars	拉	專名短音譯	搜:MHF Lars 防具→無義譯慣用；短音譯≤4；naturalize:Lars→拉	weapons-melee-name:Lars Ⅰ	melee
 3	Gyro	格伊爾歐	現譯反推	infer:Gyro Ⅰ	weapons-melee-name:Gyro Ⅰ	melee
-3	Afferter	阿夫夫艾爾特艾爾	現譯反推	infer:Afferter I	weapons-melee-name:Afferter I	melee
+3	Afferter	阿夫夫艾爾特艾爾	現譯反推	infer_vote:Afferter Ⅱ	weapons-melee-name:Afferter I	melee
 3	Balisk	布阿勒伊斯克	現譯反推	infer:Balisk I	weapons-melee-name:Balisk I	melee
 3	Naval	恩阿維阿勒	現譯反推	infer:Naval I	weapons-melee-name:Naval I	melee
 3	Letra	勒特阿	現譯反推	infer:Letra I	weapons-melee-name:Letra I	melee
@@ -810,15 +810,15 @@ count	stem	zh	reason	source	example_source	sections
 3	Bella Rama	布艾勒勒阿拉瑪	現譯反推	infer:Bella Rama Ⅰ	weapons-melee-name:Bella Rama Ⅰ	melee
 3	Double	雙	現譯反推	infer:Double Edge Ⅰ	weapons-melee-name:Double Edge Ⅰ	melee
 3	Wave	瓦維	現譯反推	infer:Wave Edge Ⅰ	weapons-melee-name:Wave Edge Ⅰ	melee
-3	Azure Wing Ciel	蒼翼天之	現譯反推	infer:Azure Wing Ciel Lance	weapons-melee-name:Azure Wing Ciel Lance	melee
+3	Azure Wing Ciel	蒼翼天之	現譯反推	infer_vote:Azure Wing Ciel Horn	weapons-melee-name:Azure Wing Ciel Lance	melee
 3	Caravan Pike	旅團槍	現譯反推	infer_vote:Caravan Pike Ⅱ	weapons-melee-name:Caravan Pike	melee
 3	Dual Ice	雙氷	現譯反推	infer_vote:Dual Ice Dagger	weapons-melee-name:Dual Ice	melee
-3	Aqua Blitz	水	現譯反推	infer_vote:Aqua Spear;head=Aqua	weapons-melee-name:Aqua Blitz SPⅠ	melee
+3	Aqua Blitz	水	現譯反推	infer:Aqua Blitz SPⅠ	weapons-melee-name:Aqua Blitz SPⅠ	melee
 3	Spillblade	斯普伊勒勒布勒阿	現譯反推	infer:Spillblade I	weapons-melee-name:Spillblade I	melee
-3	Don Frozen	堂	現譯反推	infer_vote:Don Dagger;head=Don	weapons-melee-name:Don Frozen SPⅠ	melee
+3	Don Frozen	堂	現譯反推	infer:Don Frozen SPⅠ	weapons-melee-name:Don Frozen SPⅠ	melee
 3	Violent		待查		weapons-melee-name:Violent Lance I	melee
 3	Cambriosword	克阿姆布爾伊歐斯	現譯反推	infer:Cambriosword Ⅰ	weapons-melee-name:Cambriosword Ⅰ	melee
-3	Rin Hit	爾伊恩打	現譯反推	infer:Rin Hit Edge	weapons-melee-name:Rin Hit Edge	melee
+3	Rin Hit	爾伊恩打	現譯反推	infer_vote:Rin Hit Blade	weapons-melee-name:Rin Hit Edge	melee
 3	Umeda	ＵM老Ｄ	現譯反推	infer:Umeda Edge	weapons-melee-name:Umeda Edge	melee
 3	Nomosu	諾莫蘇	現譯反推	infer:Nomosu Ⅰ	weapons-melee-name:Nomosu Ⅰ	melee
 3	Epidosis Fang	疫病牙	現譯反推	infer:Epidosis Fang Ⅰ	weapons-melee-name:Epidosis Fang Ⅰ	melee
@@ -848,28 +848,28 @@ count	stem	zh	reason	source	example_source	sections
 3	Earth	地	單詞拼裝	terms/word	weapons-melee-name:Earth Sword	melee
 3	Caravan Sharp	旅團鋭	現譯反推	infer:Caravan Sharp Sword	weapons-melee-name:Caravan Sharp Sword	melee
 3	Caravan Sledge	旅團斯勒艾德格艾	現譯反推	infer_vote:Caravan Sledge Ⅱ	weapons-melee-name:Caravan Sledge	melee
-3	Caravan Fissure	旅團	現譯反推	infer_vote:Caravan Sword I;head=Caravan	weapons-melee-name:Caravan Fissure	melee
+3	Caravan Fissure	旅團	現譯反推	infer_vote:Caravan Fissure Ⅱ	weapons-melee-name:Caravan Fissure	melee
 3	Caravan Buster	旅團破壞	現譯反推	infer_vote:Caravan Buster Ⅱ	weapons-melee-name:Caravan Buster	melee
-3	Caravan Fife	旅團	現譯反推	infer_vote:Caravan Sword I;head=Caravan	weapons-melee-name:Caravan Fife	melee
+3	Caravan Fife	旅團	現譯反推	infer_vote:Caravan Fife Ⅱ	weapons-melee-name:Caravan Fife	melee
 3	Caravan Blastspear	旅團布勒阿斯特斯普艾	現譯反推	infer_vote:Caravan Blastspear Ⅱ	weapons-melee-name:Caravan Blastspear	melee
 3	Parone Duals	波羅涅龍鎧沸	現譯反推	infer:Parone Duals Ⅰ	weapons-melee-name:Parone Duals Ⅰ	melee
 3	Parone Pipe	波羅涅管	現譯反推	infer:Parone Pipe Ⅰ	weapons-melee-name:Parone Pipe Ⅰ	melee
 3	Parone Gun	拍隆	專名短音譯	搜：Parone→拍隆；charset 帕→拍;head=Parone	weapons-melee-name:Parone Gun Spear Ⅰ	melee
 3	Annihilation	阿恩恩伊哈伊勒阿	現譯反推	infer:Annihilation Axe	weapons-melee-name:Annihilation Axe	melee,ranged
 3	Magnetic Field	磁気畑	現譯反推	infer:Magnetic Field Katana	weapons-melee-name:Magnetic Field Katana	melee
-3	Alvora	阿勒維歐爾阿	現譯反推	infer:Alvora Tonfa	weapons-melee-name:Alvora Tonfa	melee,ranged
+3	Alvora	阿勒維歐爾阿	現譯反推	infer_vote:Alvora Assault	weapons-melee-name:Alvora Tonfa	melee,ranged
 3	Burning Zero Dragon	龍之燃燒零	現譯反推	infer:Burning Zero Dragon Horn	weapons-melee-name:Burning Zero Dragon Horn	melee
 3	Anniversary Chloe	阿恩恩伊維艾爾斯克洛伊	現譯反推	infer:Anniversary Chloe Ⅰ	weapons-melee-name:Anniversary Chloe Ⅰ	melee
 3	Ex Magnetic Field	ＥＸ磁気畑	現譯反推	infer:Ex Magnetic Field Blade	weapons-melee-name:Ex Magnetic Field Blade	melee
-3	True Ravina	真拉維娜	現譯反推	infer:True Ravina Tonfa	weapons-melee-name:True Ravina Tonfa	melee,ranged
-3	Final Ravina	決勝拉維娜	現譯反推	infer:Final Ravina Tonfa	weapons-melee-name:Final Ravina Tonfa	melee,ranged
+3	True Ravina	真拉維娜	現譯反推	infer_vote:True Ravina Assault	weapons-melee-name:True Ravina Tonfa	melee,ranged
+3	Final Ravina	決勝拉維娜	現譯反推	infer_vote:Final Ravina Assault	weapons-melee-name:Final Ravina Tonfa	melee,ranged
 3	New Shakalaka Airou	奇面族新阿伊羅烏	現譯反推	infer:New Shakalaka Airou I	weapons-melee-name:New Shakalaka Airou I	melee
 3	Just Meat	朱斯肉	現譯反推	infer:Just Meat Ⅰ	weapons-melee-name:Just Meat Ⅰ	melee
 3	Lolo & Ray Adventure	洛洛光線阿德維艾恩特烏爾	現譯反推	infer:Lolo & Ray Adventure Ⅰ	weapons-melee-name:Lolo & Ray Adventure Ⅰ	melee
 3	Lethe Desire	勒忒	現譯反推	"infer:Lethe Axe ""Desire"""	"weapons-melee-name:Lethe Axe ""Desire"""	melee,ranged
 3	Meteor	流星	現譯反推	infer:Meteor Cannon	weapons-ranged-name:Meteor Cannon	ranged
 3	Blue Kut-Ku	青庫庫	現譯反推	infer:Blue Kut-Ku Cannon	weapons-ranged-name:Blue Kut-Ku Cannon	ranged
-3	Heart Shot	心	現譯反推	infer_vote:Heart Shooter;head=Heart	weapons-ranged-name:Heart Shot Bow II	ranged
+3	Heart Shot	心	現譯反推	infer:Heart Shot Bow II	weapons-ranged-name:Heart Shot Bow II	ranged
 3	Courageous Hope		待查		weapons-ranged-name:Courageous Hope II	ranged
 3	Wing	翼	字義	web:ウイングZP；semantic wing=翼	weapons-ranged-name:Wing Bow I	ranged
 3	Tigre	虎	現譯反推	infer:Tigre Arrow Ⅰ	weapons-ranged-name:Tigre Arrow Ⅰ	ranged
@@ -886,7 +886,7 @@ count	stem	zh	reason	source	example_source	sections
 3	Black Bogen	弓黑	現譯反推	infer:Black Bogen SPⅠ	weapons-ranged-name:Black Bogen SPⅠ	ranged
 3	Dragon Landslide	龍山崩	現譯反推	infer:Dragon Landslide Bow SPⅠ	weapons-ranged-name:Dragon Landslide Bow SPⅠ	ranged
 3	Phoenix Roar	鳳凰轟鳴	現譯反推	infer:Phoenix Roar SPⅠ	weapons-ranged-name:Phoenix Roar SPⅠ	ranged
-3	Drgn God Eclipse		待查		"weapons-ranged-name:Drgn God Bow""Eclipse""SPⅠ"	ranged
+3	Drgn God Eclipse	龍神	現譯反推	"infer_cjk:Drgn God Bow""Eclipse""SPⅠ"	"weapons-ranged-name:Drgn God Bow""Eclipse""SPⅠ"	ranged
 3	Berg	山	現譯反推	infer:Berg Shooter SPⅠ	weapons-ranged-name:Berg Shooter SPⅠ	ranged
 3	Cancer		待查		weapons-ranged-name:Cancer Bow SPⅠ	ranged
 3	Parachan		待查		weapons-ranged-name:Parachan Bow Ⅰ	ranged
@@ -908,9 +908,9 @@ count	stem	zh	reason	source	example_source	sections
 3	Link	環節	現譯反推	infer:Link Ⅰ	weapons-ranged-name:Link Ⅰ	ranged
 3	Plunderer	普勒烏恩德艾爾艾	現譯反推	infer:Plunderer Ⅰ	weapons-ranged-name:Plunderer Ⅰ	ranged
 3	Liuge	利烏格	現譯反推	infer:Liuge Arrow	weapons-ranged-name:Liuge Arrow	ranged
-3	Immortal	不死	現譯反推	infer:Immortal Carbine	weapons-ranged-name:Immortal Carbine	ranged
+3	Immortal	不死	現譯反推	infer_vote:Immortal Cannon	weapons-ranged-name:Immortal Carbine	ranged
 3	Caravan Flash	旅團閃光	現譯反推	infer:Caravan Flash Gun	weapons-ranged-name:Caravan Flash Gun	ranged
-3	Caravan Sun	旅團	現譯反推	infer_vote:Caravan Sword I;head=Caravan	weapons-ranged-name:Caravan Sun Bow	ranged
+3	Caravan Sun	旅團	現譯反推	infer:Caravan Sun Bow	weapons-ranged-name:Caravan Sun Bow	ranged
 3	Koenig	克歐艾恩伊格	現譯反推	infer:Koenig Ⅰ	weapons-ranged-name:Koenig Ⅰ	ranged
 3	Koenigin	克歐艾恩伊格伊恩	現譯反推	infer:Koenigin Ⅰ	weapons-ranged-name:Koenigin Ⅰ	ranged
 3	Lineage	利涅阿格	現譯反推	infer:Lineage Ⅰ	weapons-ranged-name:Lineage Ⅰ	ranged
@@ -921,4 +921,4 @@ count	stem	zh	reason	source	example_source	sections
 3	Patchin Guuku	普阿特克哈伊恩愚空	現譯反推	infer:Patchin Guuku Ⅰ	weapons-ranged-name:Patchin Guuku Ⅰ	ranged
 3	Goru	戈魯	現譯反推	infer:Goru Cannon Ⅰ	weapons-ranged-name:Goru Cannon Ⅰ	ranged
 3	Aru	阿魯	現譯反推	infer:Aru Cannon Ⅰ	weapons-ranged-name:Aru Cannon Ⅰ	ranged
-3	Enrapture Arch Intro		待查		"weapons-ranged-name:Enrapture Arch ""Intro"""	ranged
+3	Enrapture Arch Intro	狂喜	現譯反推	"infer_vote:Enrapture Sword ""Intro"";head=Enrapture"	"weapons-ranged-name:Enrapture Arch ""Intro"""	ranged
