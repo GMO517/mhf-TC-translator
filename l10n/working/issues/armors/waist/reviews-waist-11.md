@@ -303,12 +303,12 @@
 | 5297 | 迅雷HS Black Obi | 迅雷帶【ＨＳ】・黑 |
 | 5298 | 迅雷GS Black Obi | 迅雷帶【ＧＳ】・黑 |
 | 5299 | 迅雷GP Black Obi | 迅雷帶【ＧＰ】・黑 |
-| 5300 | Heaven 星 Waistband | 星腰帶・天 |
-| 5301 | Heaven 星F Waistband | 星腰帶【Ｆ】・天 |
-| 5302 | Heaven 星FZ Waistband | 星腰帶【ＦＺ】・天 |
-| 5303 | Heaven 星HS Waistband | 星腰帶【ＨＳ】・天 |
-| 5304 | Heaven 星GS Waistband | 星腰帶【ＧＳ】・天 |
-| 5305 | Heaven 星GP Waistband | 星腰帶【ＧＰ】・天 |
+| 5300 | Heaven 星 Waistband | 星天腰帶 |
+| 5301 | Heaven 星F Waistband | 星天腰帶【Ｆ】 |
+| 5302 | Heaven 星FZ Waistband | 星天腰帶【ＦＺ】 |
+| 5303 | Heaven 星HS Waistband | 星天腰帶【ＨＳ】 |
+| 5304 | Heaven 星GS Waistband | 星天腰帶【ＧＳ】 |
+| 5305 | Heaven 星GP Waistband | 星天腰帶【ＧＰ】 |
 | 5306 | 飛燕 Waistband | 飛燕腰帶 |
 | 5307 | 飛燕F Waistband | 飛燕腰帶【Ｆ】 |
 | 5308 | 飛燕FZ Waistband | 飛燕腰帶【ＦＺ】 |

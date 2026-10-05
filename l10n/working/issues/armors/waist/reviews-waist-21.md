@@ -27,9 +27,9 @@
 | 10021 | スフレHS Coat | 斯芙雷腰衣【ＨＳ】 |
 | 10022 | スフレGS Coat | 斯芙雷腰衣【ＧＳ】 |
 | 10023 | スフレGP Coat | 斯芙雷腰衣【ＧＰ】 |
-| 10024 | Demon Tale ノ虎布G | 惡魔腰甲【Ｇ】 |
-| 10025 | Demon Tale ノ虎布GF | 惡魔腰甲【Ｆ】 |
-| 10026 | Demon Tale ノ虎布GX | 惡魔腰甲【ＧＸ】 |
+| 10024 | Demon Tale ノ虎布G | 魔譚腰甲【Ｇ】 |
+| 10025 | Demon Tale ノ虎布GF | 魔譚腰甲【Ｆ】 |
+| 10026 | Demon Tale ノ虎布GX | 魔譚腰甲【ＧＸ】 |
 | 10027 | 童伝ノ虎布G | 童伝虎布腰甲 |
 | 10028 | 童伝ノ虎布GF | 童伝虎布腰甲【Ｆ】 |
 | 10029 | 童伝ノ虎布GX | 童伝虎布腰甲 |
@@ -151,12 +151,12 @@
 | 10145 | Waka Waistband HS | 和歌腰帶【ＨＳ】 |
 | 10146 | Waka Waistband GS | 和歌腰帶【ＧＳ】 |
 | 10147 | Waka Waistband GP | 和歌腰帶【ＧＰ】 |
-| 10148 | Waka Colour Belt | 沃阿克阿腰帶 |
-| 10149 | Waka Colour Belt F | 沃阿克阿腰帶【Ｆ】 |
-| 10150 | Waka Colour Belt FZ | 沃阿克阿腰帶【ＦＺ】 |
-| 10151 | Waka Colour Belt HS | 沃阿克阿腰帶【ＨＳ】 |
-| 10152 | Waka Colour Belt GS | 沃阿克阿腰帶【ＧＳ】 |
-| 10153 | Waka Colour Belt GP | 沃阿克阿腰帶【ＧＰ】 |
+| 10148 | Waka Colour Belt | 和歌腰帶 |
+| 10149 | Waka Colour Belt F | 和歌腰帶【Ｆ】 |
+| 10150 | Waka Colour Belt FZ | 和歌腰帶【ＦＺ】 |
+| 10151 | Waka Colour Belt HS | 和歌腰帶【ＨＳ】 |
+| 10152 | Waka Colour Belt GS | 和歌腰帶【ＧＳ】 |
+| 10153 | Waka Colour Belt GP | 和歌腰帶【ＧＰ】 |
 | 10154 | Ruko G Wing | 極龍腰翼【Ｇ】 |
 | 10155 | Ruko GF Wing | 極龍腰翼【ＧＦ】 |
 | 10156 | Ruko GX Wing | 極龍腰翼【ＧＸ】 |
@@ -321,48 +321,48 @@
 | 10315 | Wasou Waistband HS | 和裝腰帶【ＨＳ】 |
 | 10316 | Wasou Waistband GS | 和裝腰帶【ＧＳ】 |
 | 10317 | Wasou Waistband GP | 和裝腰帶【ＧＰ】 |
-| 10318 | Wasou Colour Belt | 沃阿斯歐腰帶 |
-| 10319 | Wasou Colour Belt F | 沃阿斯歐腰帶【Ｆ】 |
-| 10320 | Wasou Colour Belt FZ | 沃阿斯歐腰帶【ＦＺ】 |
-| 10321 | Wasou Colour Belt HS | 沃阿斯歐腰帶【ＨＳ】 |
-| 10322 | Wasou Colour Belt GS | 沃阿斯歐腰帶【ＧＳ】 |
-| 10323 | Wasou Colour Belt GP | 沃阿斯歐腰帶【ＧＰ】 |
-| 10324 | Blue Ice Emperor Coil | 冰帝腰甲・青 |
-| 10325 | Blue Ice Emperor F Coil | 冰帝腰甲【Ｆ】・青 |
-| 10326 | Blue Ice Emperor FZ Coil | 冰帝腰甲【ＦＺ】・青 |
-| 10327 | Blue Ice Emperor HS Coil | 冰帝腰甲【ＨＳ】・青 |
-| 10328 | Blue Ice Emperor GS Coil | 冰帝腰甲【ＧＳ】・青 |
-| 10329 | Blue Ice Emperor GP Coil | 冰帝腰甲【ＧＰ】・青 |
-| 10330 | Blue Ice Emperor Coat | 冰帝腰衣・青 |
-| 10331 | Blue Ice Emperor F Coat | 冰帝腰衣【Ｆ】・青 |
-| 10332 | Blue Ice Emperor FZ Coat | 冰帝腰衣【ＦＺ】・青 |
-| 10333 | Blue Ice Emperor HS Coat | 冰帝腰衣【ＨＳ】・青 |
-| 10334 | Blue Ice Emperor GS Coat | 冰帝腰衣【ＧＳ】・青 |
-| 10335 | Blue Ice Emperor GP Coat | 冰帝腰衣【ＧＰ】・青 |
-| 10336 | White Ice Emperor Coil | 冰帝腰甲・白 |
-| 10337 | White Ice Emperor F Coil | 冰帝腰甲【Ｆ】・白 |
-| 10338 | White Ice Emperor FZ Coil | 冰帝腰甲【ＦＺ】・白 |
-| 10339 | White Ice Emperor HS Coil | 冰帝腰甲【ＨＳ】・白 |
-| 10340 | White Ice Emperor GS Coil | 冰帝腰甲【ＧＳ】・白 |
-| 10341 | White Ice Emperor GP Coil | 冰帝腰甲【ＧＰ】・白 |
-| 10342 | White Ice Emperor Coat | 冰帝腰衣・白 |
-| 10343 | White Ice Emperor F Coat | 冰帝腰衣【Ｆ】・白 |
-| 10344 | White Ice Emperor FZ Coat | 冰帝腰衣【ＦＺ】・白 |
-| 10345 | White Ice Emperor HS Coat | 冰帝腰衣【ＨＳ】・白 |
-| 10346 | White Ice Emperor GS Coat | 冰帝腰衣【ＧＳ】・白 |
-| 10347 | White Ice Emperor GP Coat | 冰帝腰衣【ＧＰ】・白 |
-| 10348 | Red Ice Emperor Coil | 冰帝腰甲・赤 |
-| 10349 | Red Ice Emperor F Coil | 冰帝腰甲【Ｆ】・赤 |
-| 10350 | Red Ice Emperor FZ Coil | 冰帝腰甲【ＦＺ】・赤 |
-| 10351 | Red Ice Emperor HS Coil | 冰帝腰甲【ＨＳ】・赤 |
-| 10352 | Red Ice Emperor GS Coil | 冰帝腰甲【ＧＳ】・赤 |
-| 10353 | Red Ice Emperor GP Coil | 冰帝腰甲【ＧＰ】・赤 |
-| 10354 | Red Ice Emperor Coat | 冰帝腰衣・赤 |
-| 10355 | Red Ice Emperor F Coat | 冰帝腰衣【Ｆ】・赤 |
-| 10356 | Red Ice Emperor FZ Coat | 冰帝腰衣【ＦＺ】・赤 |
-| 10357 | Red Ice Emperor HS Coat | 冰帝腰衣【ＨＳ】・赤 |
-| 10358 | Red Ice Emperor GS Coat | 冰帝腰衣【ＧＳ】・赤 |
-| 10359 | Red Ice Emperor GP Coat | 冰帝腰衣【ＧＰ】・赤 |
+| 10318 | Wasou Colour Belt | 和裝腰帶 |
+| 10319 | Wasou Colour Belt F | 和裝腰帶【Ｆ】 |
+| 10320 | Wasou Colour Belt FZ | 和裝腰帶【ＦＺ】 |
+| 10321 | Wasou Colour Belt HS | 和裝腰帶【ＨＳ】 |
+| 10322 | Wasou Colour Belt GS | 和裝腰帶【ＧＳ】 |
+| 10323 | Wasou Colour Belt GP | 和裝腰帶【ＧＰ】 |
+| 10324 | Blue Ice Emperor Coil | 青冰帝腰甲 |
+| 10325 | Blue Ice Emperor F Coil | 青冰帝腰甲【Ｆ】 |
+| 10326 | Blue Ice Emperor FZ Coil | 青冰帝腰甲【ＦＺ】 |
+| 10327 | Blue Ice Emperor HS Coil | 青冰帝腰甲【ＨＳ】 |
+| 10328 | Blue Ice Emperor GS Coil | 青冰帝腰甲【ＧＳ】 |
+| 10329 | Blue Ice Emperor GP Coil | 青冰帝腰甲【ＧＰ】 |
+| 10330 | Blue Ice Emperor Coat | 青冰帝腰衣 |
+| 10331 | Blue Ice Emperor F Coat | 青冰帝腰衣【Ｆ】 |
+| 10332 | Blue Ice Emperor FZ Coat | 青冰帝腰衣【ＦＺ】 |
+| 10333 | Blue Ice Emperor HS Coat | 青冰帝腰衣【ＨＳ】 |
+| 10334 | Blue Ice Emperor GS Coat | 青冰帝腰衣【ＧＳ】 |
+| 10335 | Blue Ice Emperor GP Coat | 青冰帝腰衣【ＧＰ】 |
+| 10336 | White Ice Emperor Coil | 白冰帝腰甲 |
+| 10337 | White Ice Emperor F Coil | 白冰帝腰甲【Ｆ】 |
+| 10338 | White Ice Emperor FZ Coil | 白冰帝腰甲【ＦＺ】 |
+| 10339 | White Ice Emperor HS Coil | 白冰帝腰甲【ＨＳ】 |
+| 10340 | White Ice Emperor GS Coil | 白冰帝腰甲【ＧＳ】 |
+| 10341 | White Ice Emperor GP Coil | 白冰帝腰甲【ＧＰ】 |
+| 10342 | White Ice Emperor Coat | 白冰帝腰衣 |
+| 10343 | White Ice Emperor F Coat | 白冰帝腰衣【Ｆ】 |
+| 10344 | White Ice Emperor FZ Coat | 白冰帝腰衣【ＦＺ】 |
+| 10345 | White Ice Emperor HS Coat | 白冰帝腰衣【ＨＳ】 |
+| 10346 | White Ice Emperor GS Coat | 白冰帝腰衣【ＧＳ】 |
+| 10347 | White Ice Emperor GP Coat | 白冰帝腰衣【ＧＰ】 |
+| 10348 | Red Ice Emperor Coil | 赤冰帝腰甲 |
+| 10349 | Red Ice Emperor F Coil | 赤冰帝腰甲【Ｆ】 |
+| 10350 | Red Ice Emperor FZ Coil | 赤冰帝腰甲【ＦＺ】 |
+| 10351 | Red Ice Emperor HS Coil | 赤冰帝腰甲【ＨＳ】 |
+| 10352 | Red Ice Emperor GS Coil | 赤冰帝腰甲【ＧＳ】 |
+| 10353 | Red Ice Emperor GP Coil | 赤冰帝腰甲【ＧＰ】 |
+| 10354 | Red Ice Emperor Coat | 赤冰帝腰衣 |
+| 10355 | Red Ice Emperor F Coat | 赤冰帝腰衣【Ｆ】 |
+| 10356 | Red Ice Emperor FZ Coat | 赤冰帝腰衣【ＦＺ】 |
+| 10357 | Red Ice Emperor HS Coat | 赤冰帝腰衣【ＨＳ】 |
+| 10358 | Red Ice Emperor GS Coat | 赤冰帝腰衣【ＧＳ】 |
+| 10359 | Red Ice Emperor GP Coat | 赤冰帝腰衣【ＧＰ】 |
 | 10360 | Taruta Coil | 特阿爾烏腰甲 |
 | 10361 | Taruta F Coil | 特阿爾烏腰甲【Ｆ】 |
 | 10362 | Taruta FZ Coil | 特阿爾烏腰甲【ＦＺ】 |

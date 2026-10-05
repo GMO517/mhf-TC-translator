@@ -74,7 +74,7 @@
 | 67 | Auroros Helm | 阿爾歐爾頭兜 |
 | 68 | Genesis Headpiece | 格艾恩艾頭兜 |
 | 69 | Borealis Crown | 布歐爾艾冠 |
-| 70 | Glyph Crown | 格冠 |
+| 70 | Glyph Crown | 符文冠 |
 | 71 | Dragon Head | 龍頭兜 |
 | 72 | Dragon Face | 龍面罩 |
 | 73 | Leather U Helm | 皮革頭兜【Ｕ】 |
@@ -117,8 +117,8 @@
 | 110 | Monodevil Cap | 單眼惡魔兜帽 |
 | 111 | Gravios U Helm | 鎧龍頭兜【Ｕ】 |
 | 112 | Gravios U Cap | 鎧龍兜帽【Ｕ】 |
-| 113 | Shinobi Mask・Sky | 夏伊恩歐帽子 |
-| 114 | Shinobi Mask・Sea | 夏伊恩歐帽子 |
+| 113 | Shinobi Mask・Sky | 忍帽子・天 |
+| 114 | Shinobi Mask・Sea | 忍帽子・海 |
 | 115 | Guardian U Helm | 守護者頭兜【Ｕ】 |
 | 116 | Guardian U Mask | 守護者帽子【Ｕ】 |
 | 117 | Helper U Hood | 助手兜帽【Ｕ】 |
@@ -131,8 +131,8 @@
 | 124 | Fatalis Face | 黑龍面罩 |
 | 125 | Golden Moon Helm | 金月頭兜 |
 | 126 | Golden Moon Cap | 金月兜帽 |
-| 127 | Silver Sol Helm | 日頭兜・銀 |
-| 128 | Silver Sol Cap | 日兜帽・銀 |
+| 127 | Silver Sol Helm | 銀日頭兜 |
+| 128 | Silver Sol Cap | 銀日兜帽 |
 | 129 | Leather S Helm | 皮革頭兜【Ｓ】 |
 | 130 | Chainmail S Helm | 鎖鏈頭兜【Ｓ】 |
 | 131 | Hunter's S Helm | 獵人頭兜【Ｓ】 |
@@ -175,8 +175,8 @@
 | 168 | Monoblos S Cap | 一角龍兜帽【Ｓ】 |
 | 169 | Gravios S Helm | 鎧龍頭兜【Ｓ】 |
 | 170 | Gravios S Cap | 鎧龍兜帽【Ｓ】 |
-| 171 | Shinobi Mask・Heaven | 夏伊恩歐帽子・天 |
-| 172 | Shinobi Mask・Earth | 夏伊恩歐帽子・地 |
+| 171 | Shinobi Mask・Heaven | 忍天帽子 |
+| 172 | Shinobi Mask・Earth | 忍地帽子 |
 | 173 | Red Guild Tricorne | 獵團三角帽・赤 |
 | 174 | Red Guild Mask | 獵團帽子・赤 |
 | 175 | Red Guild Hat | 獵團帽・赤 |
@@ -273,11 +273,11 @@
 | 266 | Gia U Cap | 格伊兜帽【Ｕ】 |
 | 267 | White Cat Mask | 白猫帽子 |
 | 268 | Black Cat Mask | 黑猫帽子 |
-| 269 | Gold Cat Mask | 猫帽子・金 |
+| 269 | Gold Cat Mask | 金猫帽子 |
 | 270 | Gothic Piercing | 哥德耳飾 |
 | 271 | Gothic F Piercing | 哥德耳飾【Ｆ】 |
 | 272 | Beil Earrings | 貝爾耳環 |
-| 273 | Comrade Helm 【猩】 | 戰友猩頭兜 |
+| 273 | Comrade Helm 【猩】 | 戰友頭兜猩 |
 | 274 | Jisutoreru Head | 吉斯特雷頭兜 |
 | 275 | Duo Helm | 雙頭兜 |
 | 276 | Smart Head | 機靈頭兜 |
@@ -470,36 +470,36 @@
 | 463 | Eques Cap 改 | 改兜帽 |
 | 464 | Eques F Helm | 騎士頭兜【Ｆ】 |
 | 465 | Eques F Cap | 騎士兜帽【Ｆ】 |
-| 466 | Hot Red Star Mask | 赫歐特帽子 |
-| 467 | Hot Blue Star Mask | 赫歐特帽子 |
-| 468 | Hot Black Star Mask | 赫歐特帽子 |
-| 469 | Hot White Star Mask | 赫歐特帽子 |
-| 470 | Hot Red Stellar Mask | 赫歐特帽子 |
+| 466 | Hot Red Star Mask | 熱赤星帽子 |
+| 467 | Hot Blue Star Mask | 熱帽子 |
+| 468 | Hot Black Star Mask | 熱黑星帽子 |
+| 469 | Hot White Star Mask | 熱白星帽子 |
+| 470 | Hot Red Stellar Mask | 熱赤星帽子 |
 | 471 | Hot Blu Stellar Mask | 赫歐特烏帽子 |
 | 472 | Hot Blk Stellar Mask | 赫歐特艾帽子 |
 | 473 | Hot Wht Stellar Mask | 赫歐特艾帽子 |
-| 474 | Cool Red Star Mask | 克歐爾帽子 |
-| 475 | Cool Blue Star Mask | 克歐爾帽子 |
-| 476 | Cool Black Star Mask | 克歐爾帽子 |
-| 477 | Cool White Star Mask | 克歐爾帽子 |
+| 474 | Cool Red Star Mask | 涼赤星帽子 |
+| 475 | Cool Blue Star Mask | 涼帽子 |
+| 476 | Cool Black Star Mask | 涼黑星帽子 |
+| 477 | Cool White Star Mask | 涼白星帽子 |
 | 478 | Cool Rd Stellar Mask | 克歐爾艾帽子 |
 | 479 | Cool Bl Stellar Mask | 克歐爾艾帽子 |
 | 480 | Cool Bk Stellar Mask | 克歐爾艾帽子 |
 | 481 | Cool Wt Stellar Mask | 克歐爾艾帽子 |
-| 482 | Sky Red Star Mask | 天空帽子 |
+| 482 | Sky Red Star Mask | 天赤星帽子 |
 | 483 | Sky Blue Star Mask | 天空帽子 |
-| 484 | Sky Black Star Mask | 天空帽子 |
-| 485 | Sky White Star Mask | 天空帽子 |
-| 486 | Sky Red Stellar Mask | 天空帽子 |
-| 487 | Sky Blu Stellar Mask | 斯烏斯艾帽子 |
-| 488 | Sky Blk Stellar Mask | 斯艾爾阿帽子 |
+| 484 | Sky Black Star Mask | 天黑星帽子 |
+| 485 | Sky White Star Mask | 天白星帽子 |
+| 486 | Sky Red Stellar Mask | 天赤星帽子 |
+| 487 | Sky Blu Stellar Mask | 天藍星帽子 |
+| 488 | Sky Blk Stellar Mask | 天黑星帽子 |
 | 489 | Sky Wht Stellar Mask | 斯艾爾阿帽子 |
 | 490 | Hi-Metal Helm SP Blk | 赫伊斯艾頭兜【ＳＰ】 |
 | 491 | Hi-Metal Helm SP Blu | 赫伊斯艾頭兜【ＳＰ】 |
 | 492 | Hi-Metal Helm SP Ylw | 赫伊斯艾頭兜【ＳＰ】 |
-| 493 | S・Sol Helm SP Red | 日頭兜【Ｓ】【ＳＰ】・赤 |
-| 494 | S・Sol Helm SP Purple | 日頭兜【Ｓ】【ＳＰ】・紫 |
-| 495 | S・Sol Helm SP Black | 日頭兜【Ｓ】【ＳＰ】・黑 |
+| 493 | S・Sol Helm SP Red | S索倫頭兜【ＳＰ】・赤 |
+| 494 | S・Sol Helm SP Purple | S索倫頭兜【ＳＰ】・紫 |
+| 495 | S・Sol Helm SP Black | S索倫頭兜【ＳＰ】・黑 |
 | 496 | Garuga Cap SP White | 黑狼鳥兜帽【ＳＰ】・白 |
 | 497 | Garuga Cap SP Green | 黑狼鳥兜帽【ＳＰ】・緑 |
 | 498 | Garuga Cap SP Red | 黑狼鳥兜帽【ＳＰ】・赤 |

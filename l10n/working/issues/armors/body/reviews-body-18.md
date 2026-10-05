@@ -67,48 +67,48 @@
 | 8561 | AB Layer HS BM Chest Red | 層甲胸甲【ＨＳ】・赤 |
 | 8562 | AB Layer GS BM Chest Red | 層甲胸甲【ＧＳ】・赤 |
 | 8563 | AB Layer GP BM Chest Red | 層甲胸甲【ＧＰ】・赤 |
-| 8564 | AB Layer 胴: Bow Red | 胴:鎧甲・赤 |
-| 8565 | AB Layer F胴: Bow Red | 胴:鎧甲・赤 |
-| 8566 | AB Layer FZ胴: Bow Red | 胴:鎧甲・赤 |
-| 8567 | AB Layer HS胴: Bow Red | 胴:鎧甲・赤 |
-| 8568 | AB Layer GS胴: Bow Red | 胴:鎧甲・赤 |
-| 8569 | AB Layer GP胴: Bow Red | 胴:鎧甲・赤 |
+| 8564 | AB Layer 胴: Bow Red | 層甲鎧甲・赤 |
+| 8565 | AB Layer F胴: Bow Red | 層甲鎧甲・赤 |
+| 8566 | AB Layer FZ胴: Bow Red | 層甲鎧甲・赤 |
+| 8567 | AB Layer HS胴: Bow Red | 層甲鎧甲・赤 |
+| 8568 | AB Layer GS胴: Bow Red | 層甲鎧甲・赤 |
+| 8569 | AB Layer GP胴: Bow Red | 層甲鎧甲・赤 |
 | 8570 | AB Layer BM Chest Blue | 層甲胸甲・青 |
 | 8571 | AB Layer F BM Chest Blue | 層甲胸甲【Ｆ】・青 |
 | 8572 | AB Layer FZ BM Chest Blue | 層甲胸甲【ＦＺ】・青 |
 | 8573 | AB Layer HS BM Chest Blue | 層甲胸甲【ＨＳ】・青 |
 | 8574 | AB Layer GS BM Chest Blue | 層甲胸甲【ＧＳ】・青 |
 | 8575 | AB Layer GP BM Chest Blue | 層甲胸甲【ＧＰ】・青 |
-| 8576 | AB Layer 胴: Bow Blue | 胴:鎧甲・青 |
-| 8577 | AB Layer F胴: Bow Blue | 胴:鎧甲・青 |
-| 8578 | AB Layer FZ胴: Bow Blue | 胴:鎧甲・青 |
-| 8579 | AB Layer HS胴: Bow Blue | 胴:鎧甲・青 |
-| 8580 | AB Layer GS胴: Bow Blue | 胴:鎧甲・青 |
-| 8581 | AB Layer GP胴: Bow Blue | 胴:鎧甲・青 |
+| 8576 | AB Layer 胴: Bow Blue | 層甲鎧甲・青 |
+| 8577 | AB Layer F胴: Bow Blue | 層甲鎧甲・青 |
+| 8578 | AB Layer FZ胴: Bow Blue | 層甲鎧甲・青 |
+| 8579 | AB Layer HS胴: Bow Blue | 層甲鎧甲・青 |
+| 8580 | AB Layer GS胴: Bow Blue | 層甲鎧甲・青 |
+| 8581 | AB Layer GP胴: Bow Blue | 層甲鎧甲・青 |
 | 8582 | AB Layer BM Chest Black | 層甲胸甲・黑 |
 | 8583 | AB Layer F BM Chest Black | 層甲胸甲【Ｆ】・黑 |
 | 8584 | AB Layer FZ BM Chest Black | 層甲胸甲【ＦＺ】・黑 |
 | 8585 | AB Layer HS BM Chest Black | 層甲胸甲【ＨＳ】・黑 |
 | 8586 | AB Layer GS BM Chest Black | 層甲胸甲【ＧＳ】・黑 |
 | 8587 | AB Layer GP BM Chest Black | 層甲胸甲【ＧＰ】・黑 |
-| 8588 | AB Layer 胴: Bow Black | 胴:鎧甲・黑 |
-| 8589 | AB Layer F胴: Bow Black | 胴:鎧甲・黑 |
-| 8590 | AB Layer FZ胴: Bow Black | 胴:鎧甲・黑 |
-| 8591 | AB Layer HS胴: Bow Black | 胴:鎧甲・黑 |
-| 8592 | AB Layer GS胴: Bow Black | 胴:鎧甲・黑 |
-| 8593 | AB Layer GP胴: Bow Black | 胴:鎧甲・黑 |
+| 8588 | AB Layer 胴: Bow Black | 層甲鎧甲・黑 |
+| 8589 | AB Layer F胴: Bow Black | 層甲鎧甲・黑 |
+| 8590 | AB Layer FZ胴: Bow Black | 層甲鎧甲・黑 |
+| 8591 | AB Layer HS胴: Bow Black | 層甲鎧甲・黑 |
+| 8592 | AB Layer GS胴: Bow Black | 層甲鎧甲・黑 |
+| 8593 | AB Layer GP胴: Bow Black | 層甲鎧甲・黑 |
 | 8594 | AB Layer BM Chest White | 層甲胸甲・白 |
 | 8595 | AB Layer F BM Chest White | 層甲胸甲【Ｆ】・白 |
 | 8596 | AB Layer FZ BM Chest White | 層甲胸甲【ＦＺ】・白 |
 | 8597 | AB Layer HS BM Chest White | 層甲胸甲【ＨＳ】・白 |
 | 8598 | AB Layer GS BM Chest White | 層甲胸甲【ＧＳ】・白 |
 | 8599 | AB Layer GP BM Chest White | 層甲胸甲【ＧＰ】・白 |
-| 8600 | AB Layer 胴: Bow White | 胴:鎧甲・白 |
-| 8601 | AB Layer F胴: Bow White | 胴:鎧甲・白 |
-| 8602 | AB Layer FZ胴: Bow White | 胴:鎧甲・白 |
-| 8603 | AB Layer HS胴: Bow White | 胴:鎧甲・白 |
-| 8604 | AB Layer GS胴: Bow White | 胴:鎧甲・白 |
-| 8605 | AB Layer GP胴: Bow White | 胴:鎧甲・白 |
+| 8600 | AB Layer 胴: Bow White | 層甲鎧甲・白 |
+| 8601 | AB Layer F胴: Bow White | 層甲鎧甲・白 |
+| 8602 | AB Layer FZ胴: Bow White | 層甲鎧甲・白 |
+| 8603 | AB Layer HS胴: Bow White | 層甲鎧甲・白 |
+| 8604 | AB Layer GS胴: Bow White | 層甲鎧甲・白 |
+| 8605 | AB Layer GP胴: Bow White | 層甲鎧甲・白 |
 | 8606 | Bronte Vest | 布歐恩艾背心 |
 | 8607 | Bronte F Vest | 布歐恩艾背心【Ｆ】 |
 | 8608 | Bronte FZ Vest | 布歐恩艾背心【ＦＺ】 |
@@ -149,21 +149,21 @@
 | 8643 | Magos GP Suit・Yellow | 瑪戈斯套裝【ＧＰ】・黄 |
 | 8644 | Magos GP Mail・Red | 瑪戈斯鎧甲【ＧＰ】・赤 |
 | 8645 | Magos GP Suit・Red | 瑪戈斯套裝【ＧＰ】・赤 |
-| 8646 | Magos GP Mail・Water | 瑪戈斯水鎧甲【ＧＰ】 |
-| 8647 | Magos GP Suit・Water | 瑪戈斯水套裝【ＧＰ】 |
+| 8646 | Magos GP Mail・Water | 瑪戈斯鎧甲【ＧＰ】・水 |
+| 8647 | Magos GP Suit・Water | 瑪戈斯套裝【ＧＰ】・水 |
 | 8648 | Magos GP Mail・Blue | 瑪戈斯鎧甲【ＧＰ】・青 |
 | 8649 | Magos GP Suit・Blue | 瑪戈斯套裝【ＧＰ】・青 |
-| 8650 | Yukumo ノドウギ・Heaven | 結雲天鎧甲・天 |
-| 8651 | Yukumo ノドウギG・Heaven | 結雲天鎧甲【Ｇ】・天 |
-| 8652 | Yukumo ノドウギGF・Heaven | 結雲天鎧甲【Ｆ】・天 |
-| 8653 | Yukumo ノドウギGX・Heaven | 結雲天鎧甲【ＧＸ】・天 |
+| 8650 | Yukumo ノドウギ・Heaven | 結雲天鎧甲 |
+| 8651 | Yukumo ノドウギG・Heaven | 結雲天鎧甲【Ｇ】 |
+| 8652 | Yukumo ノドウギGF・Heaven | 結雲天鎧甲【Ｆ】 |
+| 8653 | Yukumo ノドウギGX・Heaven | 結雲天鎧甲【ＧＸ】 |
 | 8654 | Furogada G Mail | 芙烏爾歐鎧甲【Ｇ】 |
 | 8655 | Furogada GF Mail | 芙烏爾歐鎧甲【ＧＦ】 |
 | 8656 | Furogada GX Mail | 芙烏爾歐鎧甲【ＧＸ】 |
-| 8657 | Yukumo ノドウギ・Earth | 地鎧甲・地 |
-| 8658 | Yukumo ノドウギG・Earth | 地鎧甲【Ｇ】・地 |
-| 8659 | Yukumo ノドウギGF・Earth | 地鎧甲【Ｆ】・地 |
-| 8660 | Yukumo ノドウギGX・Earth | 地鎧甲【ＧＸ】・地 |
+| 8657 | Yukumo ノドウギ・Earth | 結雲地鎧甲 |
+| 8658 | Yukumo ノドウギG・Earth | 結雲地鎧甲【Ｇ】 |
+| 8659 | Yukumo ノドウギGF・Earth | 結雲地鎧甲【Ｆ】 |
+| 8660 | Yukumo ノドウギGX・Earth | 結雲地鎧甲【ＧＸ】 |
 | 8661 | Furogada G Vest | 芙烏爾歐背心【Ｇ】 |
 | 8662 | Furogada GF Vest | 芙烏爾歐背心【ＧＦ】 |
 | 8663 | Furogada GX Vest | 芙烏爾歐背心【ＧＸ】 |
@@ -335,8 +335,8 @@
 | 8829 | Pics GP Suit・Purple | 皮克斯套裝【ＧＰ】・紫 |
 | 8830 | Pics GP Vest・Black | 皮克斯背心【ＧＰ】・黑 |
 | 8831 | Pics GP Suit・Black | 皮克斯套裝【ＧＰ】・黑 |
-| 8832 | Pics GP Vest・Water | 皮克斯水背心【ＧＰ】 |
-| 8833 | Pics GP Suit・Water | 皮克斯水套裝【ＧＰ】 |
+| 8832 | Pics GP Vest・Water | 皮克斯背心【ＧＰ】・水 |
+| 8833 | Pics GP Suit・Water | 皮克斯套裝【ＧＰ】・水 |
 | 8834 | ダミー | (dummy) |
 | 8835 | ダミー | (dummy) |
 | 8836 | ファミ通TシャツHS | 芙米鎧甲【ＨＳ】 |
@@ -355,12 +355,12 @@
 | 8849 | Gasura G Vest | 怒貌龍背心【Ｇ】 |
 | 8850 | Gasura GF Vest | 怒貌龍背心【ＧＦ】 |
 | 8851 | Gasura GX Vest | 怒貌龍背心【ＧＸ】 |
-| 8852 | Wrath G【胴当て】 | 沃阿斯鎧甲【Ｇ】 |
-| 8853 | Wrath GF【胴当て】 | 沃阿斯鎧甲【ＧＦ】 |
-| 8854 | Wrath GX【胴当て】 | 沃阿斯鎧甲【ＧＸ】 |
-| 8855 | Anger G【胴当て】 | 憤怒鎧甲【Ｇ】 |
-| 8856 | Anger GF【胴当て】 | 憤怒鎧甲【ＧＦ】 |
-| 8857 | Anger GX【胴当て】 | 憤怒鎧甲【ＧＸ】 |
+| 8852 | Wrath G【胴当て】 | 沃阿斯胴當【Ｇ】 |
+| 8853 | Wrath GF【胴当て】 | 沃阿斯胴當【ＧＦ】 |
+| 8854 | Wrath GX【胴当て】 | 沃阿斯胴當【ＧＸ】 |
+| 8855 | Anger G【胴当て】 | 憤怒胴當【Ｇ】 |
+| 8856 | Anger GF【胴当て】 | 憤怒胴當【ＧＦ】 |
+| 8857 | Anger GX【胴当て】 | 憤怒胴當【ＧＸ】 |
 | 8858 | Abi G Mail | 獰龍鎧甲【Ｇ】 |
 | 8859 | Abi GF Mail | 獰龍鎧甲【ＧＦ】 |
 | 8860 | Abi GX Mail | 獰龍鎧甲【ＧＸ】 |

@@ -296,21 +296,21 @@
 | 8790 | Magos GP Coat・Yellow | 瑪戈斯腰衣【ＧＰ】・黄 |
 | 8791 | Magos GP Coil・Red | 瑪戈斯腰甲【ＧＰ】・赤 |
 | 8792 | Magos GP Coat・Red | 瑪戈斯腰衣【ＧＰ】・赤 |
-| 8793 | Magos GP Coil・Water | 瑪戈斯水腰甲【ＧＰ】 |
-| 8794 | Magos GP Coat・Water | 瑪戈斯水腰衣【ＧＰ】 |
+| 8793 | Magos GP Coil・Water | 瑪戈斯腰甲【ＧＰ】・水 |
+| 8794 | Magos GP Coat・Water | 瑪戈斯腰衣【ＧＰ】・水 |
 | 8795 | Magos GP Coil・Blue | 瑪戈斯腰甲【ＧＰ】・青 |
 | 8796 | Magos GP Coat・Blue | 瑪戈斯腰衣【ＧＰ】・青 |
-| 8797 | Yukumo ノオビ・Heaven | 結雲天腰甲・天 |
-| 8798 | Yukumo ノオビG・Heaven | 結雲天腰甲【Ｇ】・天 |
-| 8799 | Yukumo ノオビGF・Heaven | 結雲天腰甲【Ｆ】・天 |
-| 8800 | Yukumo ノオビGX・Heaven | 結雲天腰甲【ＧＸ】・天 |
+| 8797 | Yukumo ノオビ・Heaven | 結雲天腰甲 |
+| 8798 | Yukumo ノオビG・Heaven | 結雲天腰甲【Ｇ】 |
+| 8799 | Yukumo ノオビGF・Heaven | 結雲天腰甲【Ｆ】 |
+| 8800 | Yukumo ノオビGX・Heaven | 結雲天腰甲【ＧＸ】 |
 | 8801 | Furogada G Coil | 芙烏爾歐腰甲【Ｇ】 |
 | 8802 | Furogada GF Coil | 芙烏爾歐腰甲【ＧＦ】 |
 | 8803 | Furogada GX Coil | 芙烏爾歐腰甲【ＧＸ】 |
-| 8804 | Yukumo ノオビ・Earth | 地腰甲・地 |
-| 8805 | Yukumo ノオビG・Earth | 地腰甲【Ｇ】・地 |
-| 8806 | Yukumo ノオビGF・Earth | 地腰甲【Ｆ】・地 |
-| 8807 | Yukumo ノオビGX・Earth | 地腰甲【ＧＸ】・地 |
+| 8804 | Yukumo ノオビ・Earth | 結雲地腰甲 |
+| 8805 | Yukumo ノオビG・Earth | 結雲地腰甲【Ｇ】 |
+| 8806 | Yukumo ノオビGF・Earth | 結雲地腰甲【Ｆ】 |
+| 8807 | Yukumo ノオビGX・Earth | 結雲地腰甲【ＧＸ】 |
 | 8808 | Furogada G Coat | 芙烏爾歐腰衣【Ｇ】 |
 | 8809 | Furogada GF Coat | 芙烏爾歐腰衣【ＧＦ】 |
 | 8810 | Furogada GX Coat | 芙烏爾歐腰衣【ＧＸ】 |
@@ -482,8 +482,8 @@
 | 8976 | Pics GP Coat・Purple | 皮克斯腰衣【ＧＰ】・紫 |
 | 8977 | Pics GP Coil・Black | 皮克斯腰甲【ＧＰ】・黑 |
 | 8978 | Pics GP Coat・Black | 皮克斯腰衣【ＧＰ】・黑 |
-| 8979 | Pics GP Coil・Water | 皮克斯水腰甲【ＧＰ】 |
-| 8980 | Pics GP Coat・Water | 皮克斯水腰衣【ＧＰ】 |
+| 8979 | Pics GP Coil・Water | 皮克斯腰甲【ＧＰ】・水 |
+| 8980 | Pics GP Coat・Water | 皮克斯腰衣【ＧＰ】・水 |
 | 8981 | ダミー | (dummy) |
 | 8982 | ダミー | (dummy) |
 | 8983 | Smart HS Waist | 機靈腰甲【ＨＳ】 |

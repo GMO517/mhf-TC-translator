@@ -125,12 +125,12 @@
 | 6619 | 旋転の Kote・HS | 旋転の籠手【ＨＳ】 |
 | 6620 | 旋転の Kote・GS | 旋転の籠手【ＧＳ】 |
 | 6621 | 旋転の Kote・GP | 旋転の籠手【ＧＰ】 |
-| 6622 | Rolling Sky Kote・HS | 滾天籠手【ＨＳ】 |
-| 6623 | Rolling Sky Kote・GS | 滾天籠手【ＧＳ】 |
-| 6624 | Rolling Sky Kote・GP | 滾天籠手【ＧＰ】 |
-| 6625 | Rolling Earth Kote・HS | 滾地籠手【ＨＳ】・地 |
-| 6626 | Rolling Earth Kote・GS | 滾地籠手【ＧＳ】・地 |
-| 6627 | Rolling Earth Kote・GP | 滾地籠手【ＧＰ】・地 |
+| 6622 | Rolling Sky Kote・HS | 滾天籠手【ＨＳ】・天 |
+| 6623 | Rolling Sky Kote・GS | 滾天籠手【ＧＳ】・天 |
+| 6624 | Rolling Sky Kote・GP | 滾天籠手【ＧＰ】・天 |
+| 6625 | Rolling Earth Kote・HS | 滾地籠手【ＨＳ】 |
+| 6626 | Rolling Earth Kote・GS | 滾地籠手【ＧＳ】 |
+| 6627 | Rolling Earth Kote・GP | 滾地籠手【ＧＰ】 |
 | 6628 | Latria HS Arms | 崇敬護腕【ＨＳ】 |
 | 6629 | Latria GS Arms | 崇敬護腕【ＧＳ】 |
 | 6630 | Latria GP Arms | 崇敬護腕【ＧＰ】 |
@@ -439,21 +439,21 @@
 | 6933 | Wind GFマカーン | 風臂甲【ＧＦ】 |
 | 6934 | 武者GF【 Kote 】 | 武者籠手【Ｆ】 |
 | 6935 | 日光GF【 Kote 】 | 日光籠手【Ｆ】 |
-| 6936 | White 蘭・Kensei Arms | 蘭護腕・白 |
-| 6937 | White 蘭・Kensei F Arms | 蘭護腕【Ｆ】・白 |
-| 6938 | White 蘭・Kensei FX Arms | 蘭護腕【ＦＸ】・白 |
-| 6939 | Crimson 霞・Kensei Arms | 霞護腕・紅 |
-| 6940 | Crimson 霞・Kensei F Arms | 霞護腕【Ｆ】・紅 |
-| 6941 | Crimson 霞・Kensei FX Arms | 霞護腕【ＦＸ】・紅 |
-| 6942 | White 蘭・Kensei G Arms | 蘭護腕【Ｇ】・白 |
-| 6943 | White 蘭・Kensei GF Arms | 蘭護腕【ＧＦ】・白 |
-| 6944 | White 蘭・Kensei GX Arms | 蘭護腕【ＧＸ】・白 |
+| 6936 | White 蘭・Kensei Arms | 白蘭劍聖護腕 |
+| 6937 | White 蘭・Kensei F Arms | 白蘭劍聖護腕【Ｆ】 |
+| 6938 | White 蘭・Kensei FX Arms | 白蘭劍聖護腕【ＦＸ】 |
+| 6939 | Crimson 霞・Kensei Arms | 紅霞劍聖護腕 |
+| 6940 | Crimson 霞・Kensei F Arms | 紅霞劍聖護腕【Ｆ】 |
+| 6941 | Crimson 霞・Kensei FX Arms | 紅霞劍聖護腕【ＦＸ】 |
+| 6942 | White 蘭・Kensei G Arms | 白蘭劍聖護腕【Ｇ】 |
+| 6943 | White 蘭・Kensei GF Arms | 白蘭劍聖護腕【ＧＦ】 |
+| 6944 | White 蘭・Kensei GX Arms | 白蘭劍聖護腕【ＧＸ】 |
 | 6945 | 月夜・Kensei G Arms | 月夜護腕【Ｇ】 |
 | 6946 | 月夜・Kensei GF Arms | 月夜護腕【ＧＦ】 |
 | 6947 | 月夜・Kensei GX Arms | 月夜護腕【ＧＸ】 |
-| 6948 | Crimson 霞・Kensei G Arms | 霞護腕【Ｇ】・紅 |
-| 6949 | Crimson 霞・Kensei GF Arms | 霞護腕【ＧＦ】・紅 |
-| 6950 | Crimson 霞・Kensei GX Arms | 霞護腕【ＧＸ】・紅 |
+| 6948 | Crimson 霞・Kensei G Arms | 紅霞劍聖護腕【Ｇ】 |
+| 6949 | Crimson 霞・Kensei GF Arms | 紅霞劍聖護腕【ＧＦ】 |
+| 6950 | Crimson 霞・Kensei GX Arms | 紅霞劍聖護腕【ＧＸ】 |
 | 6951 | Green 穹・Kensei G Arms | 穹護腕【Ｇ】・緑 |
 | 6952 | Green 穹・Kensei GF Arms | 穹護腕【ＧＦ】・緑 |
 | 6953 | Green 穹・Kensei GX Arms | 穹護腕【ＧＸ】・緑 |

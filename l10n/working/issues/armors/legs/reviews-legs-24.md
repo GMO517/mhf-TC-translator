@@ -67,7 +67,7 @@
 | 11561 | Scholar C Socks | 施歐爾阿襪 |
 | 11562 | Aelucanth C Crura | 阿爾烏克腿甲 |
 | 11563 | Rhopessa C Crura | 爾歐普艾腿甲 |
-| 11564 | Yukumo ノハカマC・Heaven | 結雲天護腿・天 |
+| 11564 | Yukumo ノハカマC・Heaven | 結雲天護腿 |
 | 11565 | White 蘭D Feet | 蘭足・白 |
 | 11566 | Crimson 霞D Feet | 霞足・紅 |
 | 11567 | Demonclad ノ足枷D | 鬼纏護腿 |
@@ -84,23 +84,23 @@
 | 11578 | Vulcan D Legs | 火山腿甲 |
 | 11579 | Vulcan GD Feet | 火山足 |
 | 11580 | Vulcan GD Legs | 火山腿甲 |
-| 11581 | Garnet D Greaves | 格阿爾艾護腿 |
-| 11582 | Amethyst D Greaves | 阿姆艾斯護腿 |
-| 11583 | Coral D Greaves | 克歐爾阿護腿 |
-| 11584 | Quartz D Greaves | 斯烏爾護腿 |
-| 11585 | Emerald D Greaves | 艾姆艾爾護腿 |
-| 11586 | Pearl D Greaves | 普艾爾護腿 |
-| 11587 | Ruby D Greaves | 爾烏布護腿 |
-| 11588 | Sapphire D Greaves | 斯阿普伊護腿 |
-| 11589 | Topaz D Leggings | 特歐普阿裹腿 |
-| 11590 | Tourmaline D Leggings | 特歐爾阿裹腿 |
-| 11591 | Lapis D Leggings | 爾阿普伊裹腿 |
-| 11592 | Hisui D Greaves | 赫伊斯烏護腿 |
-| 11593 | Onyx D Greaves | 歐恩護腿 |
+| 11581 | Garnet D Greaves | 石榴石護腿 |
+| 11582 | Amethyst D Greaves | 紫水晶護腿 |
+| 11583 | Coral D Greaves | 珊瑚護腿 |
+| 11584 | Quartz D Greaves | 石英護腿 |
+| 11585 | Emerald D Greaves | 祖母緑護腿 |
+| 11586 | Pearl D Greaves | 珍珠護腿 |
+| 11587 | Ruby D Greaves | 紅寶石護腿 |
+| 11588 | Sapphire D Greaves | 藍寶石護腿 |
+| 11589 | Topaz D Leggings | 黄玉裹腿 |
+| 11590 | Tourmaline D Leggings | 電氣石裹腿 |
+| 11591 | Lapis D Leggings | 青金石裹腿 |
+| 11592 | Hisui D Greaves | 翡翠護腿 |
+| 11593 | Onyx D Greaves | 縞瑪瑙護腿 |
 | 11594 | Veloci ーツ Feet D | 藍速龍足 |
-| 11595 | Gen ーツ Feet D | 源足 |
-| 11596 | Io ーツ Feet D | 伊歐足 |
-| 11597 | Gia ーツ Feet D | 格伊足 |
+| 11595 | Gen ーツ Feet D | 格艾恩足 |
+| 11596 | Io ーツ Feet D | 伊斯足 |
+| 11597 | Gia ーツ Feet D | 格伊斯足 |
 | 11598 | Mosswine Feet D | 菌豬足 |
 | 11599 | Remobra ーツ Feet D | 翼蛇龍足 |
 | 11600 | Battle Leggings PD Blue | 戦裹腿【ＰＤ】・青 |
@@ -124,10 +124,10 @@
 | 11618 | Healer Socks PD Blue | 治癒襪【ＰＤ】・青 |
 | 11619 | Healer Socks PD White | 治癒襪【ＰＤ】・白 |
 | 11620 | Healer Socks PD Yellow | 治癒襪【ＰＤ】・黄 |
-| 11621 | Shourou 【端足】D | 照楼上手 |
-| 11622 | Mitama 【端足】D | 御魂上手 |
+| 11621 | Shourou 【端足】D | 夏歐爾歐上手 |
+| 11622 | Mitama 【端足】D | 姆伊特阿上手 |
 | 11623 | Burning Cliff D [Hakama 】 | 布烏爾伊袴 |
-| 11624 | Crimson Cliff D [Hakama 】 | 克伊芙袴・紅 |
+| 11624 | Crimson Cliff D [Hakama 】 | 深紅崖袴 |
 | 11625 | Ledia D Boots | 爾艾德伊靴 |
 | 11626 | White Snake Greaves D | 白蛇護腿 |
 | 11627 | Black Tiger Greaves D | 黑虎護腿 |
@@ -136,7 +136,7 @@
 | 11630 | Blue Sky Hakama D | 蒼天袴 |
 | 11631 | Noon Glow Hakama D | 恩歐恩歐袴 |
 | 11632 | Kosho D [Hakama 】 | 克歐夏歐袴 |
-| 11633 | True Shadow Hakama D | 特烏斯阿袴 |
+| 11633 | True Shadow Hakama D | 真影袴 |
 | 11634 | Furogada D Greaves | 芙烏爾歐護腿 |
 | 11635 | Lars D Greaves | 爾阿爾護腿 |
 | 11636 | Donru D Greaves | 德歐恩烏護腿 |
@@ -167,10 +167,10 @@
 | 11661 | Tempest G【 Hakama 】 | 暴風雨袴【Ｇ】 |
 | 11662 | Tempest GF【 Hakama 】 | 暴風雨袴【ＧＦ】 |
 | 11663 | Tempest GX【 Hakama 】 | 暴風雨袴【ＧＸ】 |
-| 11664 | Welkin 【 Hakama 】 | 蒼穹袴 |
-| 11665 | Welkin G【 Hakama 】 | 蒼穹袴【Ｇ】 |
-| 11666 | Welkin GF【 Hakama 】 | 蒼穹袴【ＧＦ】 |
-| 11667 | Welkin GX【 Hakama 】 | 蒼穹袴【ＧＸ】 |
+| 11664 | Welkin 【 Hakama 】 | 穹蒼袴 |
+| 11665 | Welkin G【 Hakama 】 | 穹蒼袴【Ｇ】 |
+| 11666 | Welkin GF【 Hakama 】 | 穹蒼袴【ＧＦ】 |
+| 11667 | Welkin GX【 Hakama 】 | 穹蒼袴【ＧＸ】 |
 | 11668 | Levin Greaves | 雷霆護腿 |
 | 11669 | Levin F Greaves | 雷霆護腿【Ｆ】 |
 | 11670 | Levin FZ Greaves | 雷霆護腿【ＦＺ】 |
@@ -185,20 +185,20 @@
 | 11679 | Levin GS Leggings | 雷霆裹腿【ＧＳ】 |
 | 11680 | Levin GP Leggings | 雷霆裹腿【ＧＰ】 |
 | 11681 | Levin ZP Leggings | 雷霆裹腿【ＺＰ】 |
-| 11682 | Silver Armour・Toenail | 甲冑趾甲・銀 |
-| 11683 | Silver Armour F・Toenail | 甲冑趾甲【Ｆ】・銀 |
-| 11684 | Silver Armour FZ・Toenail | 甲冑趾甲【ＦＺ】・銀 |
-| 11685 | Silver Armour HS・Toenail | 甲冑趾甲【ＨＳ】・銀 |
-| 11686 | Silver Armour GS・Toenail | 甲冑趾甲【ＧＳ】・銀 |
-| 11687 | Silver Armour GP・Toenail | 甲冑趾甲【ＧＰ】・銀 |
-| 11688 | Silver Armour ZP・Toenail | 甲冑趾甲【ＺＰ】・銀 |
-| 11689 | Silver Armour・Greaves | 甲冑護腿・銀 |
-| 11690 | Silver Armour F・Greaves | 甲冑護腿【Ｆ】・銀 |
-| 11691 | Silver Armour FZ・Greaves | 甲冑護腿【ＦＺ】・銀 |
-| 11692 | Silver Armour HS・Greaves | 甲冑護腿【ＨＳ】・銀 |
-| 11693 | Silver Armour GS・Greaves | 甲冑護腿【ＧＳ】・銀 |
-| 11694 | Silver Armour GP・Greaves | 甲冑護腿【ＧＰ】・銀 |
-| 11695 | Silver Armour ZP・Greaves | 甲冑護腿【ＺＰ】・銀 |
+| 11682 | Silver Armour・Toenail | 銀甲冑趾甲 |
+| 11683 | Silver Armour F・Toenail | 銀甲冑趾甲【Ｆ】 |
+| 11684 | Silver Armour FZ・Toenail | 銀甲冑趾甲【ＦＺ】 |
+| 11685 | Silver Armour HS・Toenail | 銀甲冑趾甲【ＨＳ】 |
+| 11686 | Silver Armour GS・Toenail | 銀甲冑趾甲【ＧＳ】 |
+| 11687 | Silver Armour GP・Toenail | 銀甲冑趾甲【ＧＰ】 |
+| 11688 | Silver Armour ZP・Toenail | 銀甲冑趾甲【ＺＰ】 |
+| 11689 | Silver Armour・Greaves | 銀甲冑護腿 |
+| 11690 | Silver Armour F・Greaves | 銀甲冑護腿【Ｆ】 |
+| 11691 | Silver Armour FZ・Greaves | 銀甲冑護腿【ＦＺ】 |
+| 11692 | Silver Armour HS・Greaves | 銀甲冑護腿【ＨＳ】 |
+| 11693 | Silver Armour GS・Greaves | 銀甲冑護腿【ＧＳ】 |
+| 11694 | Silver Armour GP・Greaves | 銀甲冑護腿【ＧＰ】 |
+| 11695 | Silver Armour ZP・Greaves | 銀甲冑護腿【ＺＰ】 |
 | 11696 | Rose Ball Gown・Toenail | 薔薇禮服趾甲 |
 | 11697 | Rose Ball Gown F・Toenail | 薔薇禮服趾甲【Ｆ】 |
 | 11698 | Rose Ball Gown FZ・Toenail | 薔薇禮服趾甲【ＦＺ】 |
@@ -261,8 +261,8 @@
 | 11755 | Shatemu ZP Leggings | 夏特穆裹腿【ＺＰ】 |
 | 11756 | Hevria ZP Boots | 赫芙莉亞靴【ＺＰ】 |
 | 11757 | Hevria ZP Leggings | 赫芙莉亞裹腿【ＺＰ】 |
-| 11758 | Tiuru ZP Boots | 緹烏魯靴【ＺＰ】 |
-| 11759 | Tiuru ZP Leggings | 緹烏魯裹腿【ＺＰ】 |
+| 11758 | Tiuru ZP Boots | 提烏魯靴【ＺＰ】 |
+| 11759 | Tiuru ZP Leggings | 提烏魯裹腿【ＺＰ】 |
 | 11760 | Kaila ZP Feet | 凱拉足【ＺＰ】 |
 | 11761 | Kaila ZP Boots | 凱拉靴【ＺＰ】 |
 | 11762 | Fonse G Greaves | 芙歐恩艾護腿【Ｇ】 |
@@ -289,7 +289,7 @@
 | 11783 | Tempest C【 Hakama 】 | 特艾姆艾袴 |
 | 11784 | Welkin C【 Hakama 】 | 沃艾爾伊袴 |
 | 11785 | Levin D Greaves | 爾艾芙伊護腿 |
-| 11786 | Silver Armour D・Toenail | 阿爾歐爾趾甲・銀 |
+| 11786 | Silver Armour D・Toenail | 銀甲冑趾甲 |
 | 11787 | Rose Ball Gown D・Toenail | 爾歐斯艾趾甲 |
 | 11788 | Shui D Greaves | 夏烏斯護腿 |
 | 11789 | CE Kevlar D BM Legs Blue | 克艾斯艾腿甲・青 |
@@ -458,20 +458,20 @@
 | 11952 | Holy Maiden Armor GS・Greaves | 聖女鎧護腿【ＧＳ】 |
 | 11953 | Holy Maiden Armor GP・Greaves | 聖女鎧護腿【ＧＰ】 |
 | 11954 | Holy Maiden Armor ZP・Greaves | 聖女鎧護腿【ＺＰ】 |
-| 11955 | Dragon Slayer Armor・Toenail | 德阿格歐趾甲 |
-| 11956 | Dragon Slayer Armor F・Toenail | 德阿格歐趾甲【Ｆ】 |
-| 11957 | Dragon Slayer Armor FZ・Toenail | 德阿格歐趾甲【ＦＺ】 |
-| 11958 | Dragon Slayer Armor HS・Toenail | 德阿格歐趾甲【ＨＳ】 |
-| 11959 | Dragon Slayer Armor GS・Toenail | 德阿格歐趾甲【ＧＳ】 |
-| 11960 | Dragon Slayer Armor GP・Toenail | 德阿格歐趾甲【ＧＰ】 |
-| 11961 | Dragon Slayer Armor ZP・Toenail | 德阿格歐趾甲【ＺＰ】 |
-| 11962 | Dragon Slayer Armor・Greaves | 德阿格歐護腿 |
-| 11963 | Dragon Slayer Armor F・Greaves | 德阿格歐護腿【Ｆ】 |
-| 11964 | Dragon Slayer Armor FZ・Greaves | 德阿格歐護腿【ＦＺ】 |
-| 11965 | Dragon Slayer Armor HS・Greaves | 德阿格歐護腿【ＨＳ】 |
-| 11966 | Dragon Slayer Armor GS・Greaves | 德阿格歐護腿【ＧＳ】 |
-| 11967 | Dragon Slayer Armor GP・Greaves | 德阿格歐護腿【ＧＰ】 |
-| 11968 | Dragon Slayer Armor ZP・Greaves | 德阿格歐護腿【ＺＰ】 |
+| 11955 | Dragon Slayer Armor・Toenail | 屠龍趾甲 |
+| 11956 | Dragon Slayer Armor F・Toenail | 屠龍趾甲【Ｆ】 |
+| 11957 | Dragon Slayer Armor FZ・Toenail | 屠龍趾甲【ＦＺ】 |
+| 11958 | Dragon Slayer Armor HS・Toenail | 屠龍趾甲【ＨＳ】 |
+| 11959 | Dragon Slayer Armor GS・Toenail | 屠龍趾甲【ＧＳ】 |
+| 11960 | Dragon Slayer Armor GP・Toenail | 屠龍趾甲【ＧＰ】 |
+| 11961 | Dragon Slayer Armor ZP・Toenail | 屠龍趾甲【ＺＰ】 |
+| 11962 | Dragon Slayer Armor・Greaves | 屠龍護腿 |
+| 11963 | Dragon Slayer Armor F・Greaves | 屠龍護腿【Ｆ】 |
+| 11964 | Dragon Slayer Armor FZ・Greaves | 屠龍護腿【ＦＺ】 |
+| 11965 | Dragon Slayer Armor HS・Greaves | 屠龍護腿【ＨＳ】 |
+| 11966 | Dragon Slayer Armor GS・Greaves | 屠龍護腿【ＧＳ】 |
+| 11967 | Dragon Slayer Armor GP・Greaves | 屠龍護腿【ＧＰ】 |
+| 11968 | Dragon Slayer Armor ZP・Greaves | 屠龍護腿【ＺＰ】 |
 | 11969 | Rebellion Armour・Toenail | 爾艾布艾趾甲 |
 | 11970 | Rebellion Armour F・Toenail | 爾艾布艾趾甲【Ｆ】 |
 | 11971 | Rebellion Armour FZ・Toenail | 爾艾布艾趾甲【ＦＺ】 |

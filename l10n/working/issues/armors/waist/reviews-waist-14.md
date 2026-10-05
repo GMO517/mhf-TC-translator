@@ -109,10 +109,10 @@
 | 6603 | Bliss HS Coat 【 Yellow 】 | 至福腰衣【ＨＳ】・黄 |
 | 6604 | Bliss GS Coat 【 Yellow 】 | 至福腰衣【ＧＳ】・黄 |
 | 6605 | Bliss GP Coat 【 Yellow 】 | 至福腰衣【ＧＰ】・黄 |
-| 6606 | White Cat FZテイル | 猫腰甲 |
-| 6607 | White Cat HSテイル | 猫腰甲 |
-| 6608 | White Cat GSテイル | 猫腰甲 |
-| 6609 | White Cat GPテイル | 猫腰甲 |
+| 6606 | White Cat FZテイル | 白猫腰甲 |
+| 6607 | White Cat HSテイル | 白猫腰甲 |
+| 6608 | White Cat GSテイル | 白猫腰甲 |
+| 6609 | White Cat GPテイル | 白猫腰甲 |
 | 6610 | Pharan HS Coil・White | 法藍腰甲【ＨＳ】・白 |
 | 6611 | Pharan GS Coil・White | 法藍腰甲【ＧＳ】・白 |
 | 6612 | Pharan GP Coil・White | 法藍腰甲【ＧＰ】・白 |
@@ -145,10 +145,10 @@
 | 6639 | Gloria GP Coil・Blue | 榮光腰甲【ＧＰ】・青 |
 | 6640 | Gloria GS Coat・Blue | 榮光腰衣【ＧＳ】・青 |
 | 6641 | Gloria GP Coat・Blue | 榮光腰衣【ＧＰ】・青 |
-| 6642 | Gloria GS Coil・Water | 榮光水腰甲【ＧＳ】 |
-| 6643 | Gloria GP Coil・Water | 榮光水腰甲【ＧＰ】 |
-| 6644 | Gloria GS Coat・Water | 榮光水腰衣【ＧＳ】 |
-| 6645 | Gloria GP Coat・Water | 榮光水腰衣【ＧＰ】 |
+| 6642 | Gloria GS Coil・Water | 榮光腰甲【ＧＳ】・水 |
+| 6643 | Gloria GP Coil・Water | 榮光腰甲【ＧＰ】・水 |
+| 6644 | Gloria GS Coat・Water | 榮光腰衣【ＧＳ】・水 |
+| 6645 | Gloria GP Coat・Water | 榮光腰衣【ＧＰ】・水 |
 | 6646 | Gloria GS Coil・Red | 榮光腰甲【ＧＳ】・赤 |
 | 6647 | Gloria GP Coil・Red | 榮光腰甲【ＧＰ】・赤 |
 | 6648 | Gloria GS Coat・Red | 榮光腰衣【ＧＳ】・赤 |
@@ -221,34 +221,34 @@
 | 6715 | Truss HS Belt Blue | 桁架腰帶【ＨＳ】・青 |
 | 6716 | Truss GS Belt Blue | 桁架腰帶【ＧＳ】・青 |
 | 6717 | Truss GP Belt Blue | 桁架腰帶【ＧＰ】・青 |
-| 6718 | Truss FZサッシュ Blue | 桁架腰甲 |
-| 6719 | Truss HSサッシュ Blue | 桁架腰甲 |
-| 6720 | Truss GSサッシュ Blue | 桁架腰甲 |
-| 6721 | Truss GPサッシュ Blue | 桁架腰甲 |
+| 6718 | Truss FZサッシュ Blue | 桁架腰甲・青 |
+| 6719 | Truss HSサッシュ Blue | 桁架腰甲・青 |
+| 6720 | Truss GSサッシュ Blue | 桁架腰甲・青 |
+| 6721 | Truss GPサッシュ Blue | 桁架腰甲・青 |
 | 6722 | Truss FZ Belt Red | 桁架腰帶【ＦＺ】・赤 |
 | 6723 | Truss HS Belt Red | 桁架腰帶【ＨＳ】・赤 |
 | 6724 | Truss GS Belt Red | 桁架腰帶【ＧＳ】・赤 |
 | 6725 | Truss GP Belt Red | 桁架腰帶【ＧＰ】・赤 |
-| 6726 | Truss FZサッシュ Red | 桁架腰甲 |
-| 6727 | Truss HSサッシュ Red | 桁架腰甲 |
-| 6728 | Truss GSサッシュ Red | 桁架腰甲 |
-| 6729 | Truss GPサッシュ Red | 桁架腰甲 |
+| 6726 | Truss FZサッシュ Red | 桁架腰甲・赤 |
+| 6727 | Truss HSサッシュ Red | 桁架腰甲・赤 |
+| 6728 | Truss GSサッシュ Red | 桁架腰甲・赤 |
+| 6729 | Truss GPサッシュ Red | 桁架腰甲・赤 |
 | 6730 | Truss FZ Belt White | 桁架腰帶【ＦＺ】・白 |
 | 6731 | Truss HS Belt White | 桁架腰帶【ＨＳ】・白 |
 | 6732 | Truss GS Belt White | 桁架腰帶【ＧＳ】・白 |
 | 6733 | Truss GP Belt White | 桁架腰帶【ＧＰ】・白 |
-| 6734 | Truss FZサッシュ White | 桁架腰甲 |
-| 6735 | Truss HSサッシュ White | 桁架腰甲 |
-| 6736 | Truss GSサッシュ White | 桁架腰甲 |
-| 6737 | Truss GPサッシュ White | 桁架腰甲 |
+| 6734 | Truss FZサッシュ White | 桁架腰甲・白 |
+| 6735 | Truss HSサッシュ White | 桁架腰甲・白 |
+| 6736 | Truss GSサッシュ White | 桁架腰甲・白 |
+| 6737 | Truss GPサッシュ White | 桁架腰甲・白 |
 | 6738 | Truss FZ Belt Purple | 桁架腰帶【ＦＺ】・紫 |
 | 6739 | Truss HS Belt Purple | 桁架腰帶【ＨＳ】・紫 |
 | 6740 | Truss GS Belt Purple | 桁架腰帶【ＧＳ】・紫 |
 | 6741 | Truss GP Belt Purple | 桁架腰帶【ＧＰ】・紫 |
-| 6742 | Truss FZサッシュ Purple | 桁架腰甲 |
-| 6743 | Truss HSサッシュ Purple | 桁架腰甲 |
-| 6744 | Truss GSサッシュ Purple | 桁架腰甲 |
-| 6745 | Truss GPサッシュ Purple | 桁架腰甲 |
+| 6742 | Truss FZサッシュ Purple | 桁架腰甲・紫 |
+| 6743 | Truss HSサッシュ Purple | 桁架腰甲・紫 |
+| 6744 | Truss GSサッシュ Purple | 桁架腰甲・紫 |
+| 6745 | Truss GPサッシュ Purple | 桁架腰甲・紫 |
 | 6746 | Rail HS Coil | 軌腰甲【ＨＳ】 |
 | 6747 | Rail GS Coil | 軌腰甲【ＧＳ】 |
 | 6748 | Rail GP Coil | 軌腰甲【ＧＰ】 |
@@ -273,18 +273,18 @@
 | 6767 | Rutare HS Coat | 魯塔雷腰衣【ＨＳ】 |
 | 6768 | Rutare GS Coat | 魯塔雷腰衣【ＧＳ】 |
 | 6769 | Rutare GP Coat | 魯塔雷腰衣【ＧＰ】 |
-| 6770 | Rolling Flow の腰当て・HS | の腰當【ＨＳ】 |
-| 6771 | Rolling Flow の腰当て・GS | の腰當【ＧＳ】 |
-| 6772 | Rolling Flow の腰当て・GP | の腰當【ＧＰ】 |
+| 6770 | Rolling Flow の腰当て・HS | 滾流腰當【ＨＳ】 |
+| 6771 | Rolling Flow の腰当て・GS | 滾流腰當【ＧＳ】 |
+| 6772 | Rolling Flow の腰当て・GP | 滾流腰當【ＧＰ】 |
 | 6773 | 旋転の腰当て・HS | 旋転の腰當【ＨＳ】 |
 | 6774 | 旋転の腰当て・GS | 旋転の腰當【ＧＳ】 |
 | 6775 | 旋転の腰当て・GP | 旋転の腰當【ＧＰ】 |
-| 6776 | Rolling Sky の腰当て・HS | の腰當【ＨＳ】 |
-| 6777 | Rolling Sky の腰当て・GS | の腰當【ＧＳ】 |
-| 6778 | Rolling Sky の腰当て・GP | の腰當【ＧＰ】 |
-| 6779 | Rolling Earth の腰当て・HS | の腰當【ＨＳ】・地 |
-| 6780 | Rolling Earth の腰当て・GS | の腰當【ＧＳ】・地 |
-| 6781 | Rolling Earth の腰当て・GP | の腰當【ＧＰ】・地 |
+| 6776 | Rolling Sky の腰当て・HS | 滾天腰當【ＨＳ】・天 |
+| 6777 | Rolling Sky の腰当て・GS | 滾天腰當【ＧＳ】・天 |
+| 6778 | Rolling Sky の腰当て・GP | 滾天腰當【ＧＰ】・天 |
+| 6779 | Rolling Earth の腰当て・HS | 滾地腰當【ＨＳ】 |
+| 6780 | Rolling Earth の腰当て・GS | 滾地腰當【ＧＳ】 |
+| 6781 | Rolling Earth の腰当て・GP | 滾地腰當【ＧＰ】 |
 | 6782 | Latria HS Coil | 崇敬腰甲【ＨＳ】 |
 | 6783 | Latria GS Coil | 崇敬腰甲【ＧＳ】 |
 | 6784 | Latria GP Coil | 崇敬腰甲【ＧＰ】 |

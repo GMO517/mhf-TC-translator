@@ -168,7 +168,7 @@
 | 8162 | Rios GX Guard | 爾伊斯臂甲【ＧＸ】 |
 | 8163 | Mist 【袖】 | 霧護腕 |
 | 8164 | Mist F【袖】 | 霧護腕【Ｆ】 |
-| 8165 | Mist FY【袖】 | 霧護腕 |
+| 8165 | Mist FY【袖】 | 姆伊斯護腕 |
 | 8166 | Mist HS【袖】 | 霧護腕【ＨＳ】 |
 | 8167 | Mist G【袖】 | 霧護腕【Ｇ】 |
 | 8168 | Mist GF【袖】 | 霧護腕【ＧＦ】 |
@@ -192,9 +192,9 @@
 | 8186 | Noir G Arms | 黑護腕【Ｇ】 |
 | 8187 | Noir GF Arms | 黑護腕【ＧＦ】 |
 | 8188 | Noir GX Arms | 黑護腕【ＧＸ】 |
-| 8189 | Demon Lord Kote G | 德艾姆歐籠手【Ｇ】 |
-| 8190 | Demon Lord Kote GF | 德艾姆歐籠手【ＧＦ】 |
-| 8191 | Demon Lord Kote GX | 德艾姆歐籠手【ＧＸ】 |
+| 8189 | Demon Lord Kote G | 魔王籠手【Ｇ】 |
+| 8190 | Demon Lord Kote GF | 魔王籠手【ＧＦ】 |
+| 8191 | Demon Lord Kote GX | 魔王籠手【ＧＸ】 |
 | 8192 | 童子ノ Kote G | 童子籠手【Ｇ】 |
 | 8193 | 童子ノ Kote GF | 童子籠手【ＧＦ】 |
 | 8194 | 童子ノ Kote GX | 童子籠手【ＧＸ】 |
@@ -312,12 +312,12 @@
 | 8306 | Bonito G Guard | 布歐恩伊臂甲【Ｇ】 |
 | 8307 | Bonito GF Guard | 布歐恩伊臂甲【ＧＦ】 |
 | 8308 | Bonito GX Guard | 布歐恩伊臂甲【ＧＸ】 |
-| 8309 | Silver Ruler G【 Kote 】 | 爾烏爾艾籠手【Ｇ】・銀 |
-| 8310 | Silver Ruler GF【 Kote 】 | 爾烏爾艾籠手【ＧＦ】・銀 |
-| 8311 | Silver Ruler GX【 Kote 】 | 爾烏爾艾籠手【ＧＸ】・銀 |
-| 8312 | Silver Control G【 Kote 】 | 克歐恩歐籠手【Ｇ】・銀 |
-| 8313 | Silver Control GF【 Kote 】 | 克歐恩歐籠手【ＧＦ】・銀 |
-| 8314 | Silver Control GX【 Kote 】 | 克歐恩歐籠手【ＧＸ】・銀 |
+| 8309 | Silver Ruler G【 Kote 】 | 銀統治籠手【Ｇ】 |
+| 8310 | Silver Ruler GF【 Kote 】 | 銀統治籠手【ＧＦ】 |
+| 8311 | Silver Ruler GX【 Kote 】 | 銀統治籠手【ＧＸ】 |
+| 8312 | Silver Control G【 Kote 】 | 銀統御籠手【Ｇ】 |
+| 8313 | Silver Control GF【 Kote 】 | 銀統御籠手【ＧＦ】 |
+| 8314 | Silver Control GX【 Kote 】 | 銀統御籠手【ＧＸ】 |
 | 8315 | Harudo Arms | 司銀龍護腕 |
 | 8316 | Harudo F Arms | 司銀龍護腕【Ｆ】 |
 | 8317 | Harudo FX Arms | 司銀龍護腕【ＦＸ】 |

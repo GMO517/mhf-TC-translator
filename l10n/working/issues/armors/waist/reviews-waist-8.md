@@ -44,16 +44,16 @@
 | 3538 | Magos FZ Coat・Red | 瑪戈斯腰衣【ＦＺ】・赤 |
 | 3539 | Magos HC Coat・Red | 瑪戈斯腰衣【ＨＣ】・赤 |
 | 3540 | Magos HS Coat・Red | 瑪戈斯腰衣【ＨＳ】・赤 |
-| 3541 | Magos Coil・Water | 瑪戈斯水腰甲 |
-| 3542 | Magos F Coil・Water | 瑪戈斯水腰甲【Ｆ】 |
-| 3543 | Magos FZ Coil・Water | 瑪戈斯水腰甲【ＦＺ】 |
-| 3544 | Magos HC Coil・Water | 瑪戈斯水腰甲【ＨＣ】 |
-| 3545 | Magos HS Coil・Water | 瑪戈斯水腰甲【ＨＳ】 |
-| 3546 | Magos Coat・Water | 瑪戈斯水腰衣 |
-| 3547 | Magos F Coat・Water | 瑪戈斯水腰衣【Ｆ】 |
-| 3548 | Magos FZ Coat・Water | 瑪戈斯水腰衣【ＦＺ】 |
-| 3549 | Magos HC Coat・Water | 瑪戈斯水腰衣【ＨＣ】 |
-| 3550 | Magos HS Coat・Water | 瑪戈斯水腰衣【ＨＳ】 |
+| 3541 | Magos Coil・Water | 瑪戈斯腰甲・水 |
+| 3542 | Magos F Coil・Water | 瑪戈斯腰甲【Ｆ】・水 |
+| 3543 | Magos FZ Coil・Water | 瑪戈斯腰甲【ＦＺ】・水 |
+| 3544 | Magos HC Coil・Water | 瑪戈斯腰甲【ＨＣ】・水 |
+| 3545 | Magos HS Coil・Water | 瑪戈斯腰甲【ＨＳ】・水 |
+| 3546 | Magos Coat・Water | 瑪戈斯腰衣・水 |
+| 3547 | Magos F Coat・Water | 瑪戈斯腰衣【Ｆ】・水 |
+| 3548 | Magos FZ Coat・Water | 瑪戈斯腰衣【ＦＺ】・水 |
+| 3549 | Magos HC Coat・Water | 瑪戈斯腰衣【ＨＣ】・水 |
+| 3550 | Magos HS Coat・Water | 瑪戈斯腰衣【ＨＳ】・水 |
 | 3551 | Magos Coil・Blue | 瑪戈斯腰甲・青 |
 | 3552 | Magos F Coil・Blue | 瑪戈斯腰甲【Ｆ】・青 |
 | 3553 | Magos FZ Coil・Blue | 瑪戈斯腰甲【ＦＺ】・青 |
@@ -68,8 +68,8 @@
 | 3562 | Magos GS Coat・Yellow | 瑪戈斯腰衣【ＧＳ】・黄 |
 | 3563 | Magos GS Coil・Red | 瑪戈斯腰甲【ＧＳ】・赤 |
 | 3564 | Magos GS Coat・Red | 瑪戈斯腰衣【ＧＳ】・赤 |
-| 3565 | Magos GS Coil・Water | 瑪戈斯水腰甲【ＧＳ】 |
-| 3566 | Magos GS Coat・Water | 瑪戈斯水腰衣【ＧＳ】 |
+| 3565 | Magos GS Coil・Water | 瑪戈斯腰甲【ＧＳ】・水 |
+| 3566 | Magos GS Coat・Water | 瑪戈斯腰衣【ＧＳ】・水 |
 | 3567 | Magos GS Coil・Blue | 瑪戈斯腰甲【ＧＳ】・青 |
 | 3568 | Magos GS Coat・Blue | 瑪戈斯腰衣【ＧＳ】・青 |
 | 3569 | Red 備ノ Greaves [Waistband 】 | 護腿腰帶 |
@@ -291,9 +291,9 @@
 | 3785 | Golden Obi・G | 金帶【Ｇ】 |
 | 3786 | Golden Obi・GF | 金帶【ＧＦ】 |
 | 3787 | Golden Obi・GX | 金帶【ＧＸ】 |
-| 3788 | Puppeteer ノ Obi・G | 帶【Ｇ】 |
-| 3789 | Puppeteer ノ Obi・GF | 帶【ＧＦ】 |
-| 3790 | Puppeteer ノ Obi・GX | 帶【ＧＸ】 |
+| 3788 | Puppeteer ノ Obi・G | 操偶帶【Ｇ】 |
+| 3789 | Puppeteer ノ Obi・GF | 操偶帶【ＧＦ】 |
+| 3790 | Puppeteer ノ Obi・GX | 操偶帶【ＧＸ】 |
 | 3791 | Rebidiora G Wing | 雷極龍腰翼【Ｇ】 |
 | 3792 | Rebidiora GF Wing | 雷極龍腰翼【ＧＦ】 |
 | 3793 | Rebidiora GX Wing | 雷極龍腰翼【ＧＸ】 |
@@ -330,9 +330,9 @@
 | 3824 | Disu G Coat | 德伊斯烏腰衣【Ｇ】 |
 | 3825 | Disu GF Coat | 德伊斯烏腰衣【ＧＦ】 |
 | 3826 | Disu GX Coat | 德伊斯烏腰衣【ＧＸ】 |
-| 3827 | Shadow Obi・G | 暗影帶【Ｇ】 |
-| 3828 | Shadow Obi・GF | 暗影帶【ＧＦ】 |
-| 3829 | Shadow Obi・GX | 暗影帶【ＧＸ】 |
+| 3827 | Shadow Obi・G | 影帶【Ｇ】 |
+| 3828 | Shadow Obi・GF | 影帶【ＧＦ】 |
+| 3829 | Shadow Obi・GX | 影帶【ＧＸ】 |
 | 3830 | Shade Obi・G | 影帶【Ｇ】 |
 | 3831 | Shade Obi・GF | 影帶【ＧＦ】 |
 | 3832 | Shade Obi・GX | 影帶【ＧＸ】 |
@@ -368,14 +368,14 @@
 | 3862 | Genbu・刀神GF Coil | 刀神腰甲【Ｆ】 |
 | 3863 | Seiryu・刀神G Coil | 青龍腰甲【Ｇ】 |
 | 3864 | Seiryu・刀神GF Coil | 刀神腰甲【Ｆ】 |
-| 3865 | Byakko・Heaven 槍G Coil | 白虎腰甲【Ｇ】・天 |
-| 3866 | Byakko・Heaven 槍GF Coil | 槍腰甲【Ｆ】・天 |
-| 3867 | Suzaku・Heaven 槍G Coil | 朱雀腰甲【Ｇ】・天 |
-| 3868 | Suzaku・Heaven 槍GF Coil | 槍腰甲【Ｆ】・天 |
-| 3869 | Genbu・Heaven 槍G Coil | 玄武腰甲【Ｇ】・天 |
-| 3870 | Genbu・Heaven 槍GF Coil | 槍腰甲【Ｆ】・天 |
-| 3871 | Seiryu・Heaven 槍G Coil | 青龍腰甲【Ｇ】・天 |
-| 3872 | Seiryu・Heaven 槍GF Coil | 槍腰甲【Ｆ】・天 |
+| 3865 | Byakko・Heaven 槍G Coil | 白虎天腰甲【Ｇ】 |
+| 3866 | Byakko・Heaven 槍GF Coil | 槍天腰甲【Ｆ】 |
+| 3867 | Suzaku・Heaven 槍G Coil | 朱雀天腰甲【Ｇ】 |
+| 3868 | Suzaku・Heaven 槍GF Coil | 槍天腰甲【Ｆ】 |
+| 3869 | Genbu・Heaven 槍G Coil | 玄武天腰甲【Ｇ】 |
+| 3870 | Genbu・Heaven 槍GF Coil | 槍天腰甲【Ｆ】 |
+| 3871 | Seiryu・Heaven 槍G Coil | 青龍天腰甲【Ｇ】 |
+| 3872 | Seiryu・Heaven 槍GF Coil | 槍天腰甲【Ｆ】 |
 | 3873 | Byakko・砲皇G Coil | 白虎腰甲【Ｇ】 |
 | 3874 | Byakko・砲皇GF Coil | 砲皇腰甲【Ｆ】 |
 | 3875 | Suzaku・砲皇G Coil | 朱雀腰甲【Ｇ】 |
@@ -417,13 +417,13 @@
 | 3911 | Seiryu・銃仙G Coat | 青龍腰衣【Ｇ】 |
 | 3912 | Seiryu・銃仙GF Coat | 銃仙腰衣【Ｆ】 |
 | 3913 | Byakko・Bow 鬼G Coat | 白虎腰衣【Ｇ】 |
-| 3914 | Byakko・Bow 鬼GF Coat | 鬼腰衣【Ｆ】 |
+| 3914 | Byakko・Bow 鬼GF Coat | 白虎腰衣【Ｆ】 |
 | 3915 | Suzaku・Bow 鬼G Coat | 朱雀腰衣【Ｇ】 |
-| 3916 | Suzaku・Bow 鬼GF Coat | 鬼腰衣【Ｆ】 |
+| 3916 | Suzaku・Bow 鬼GF Coat | 朱雀腰衣【Ｆ】 |
 | 3917 | Genbu・Bow 鬼G Coat | 玄武腰衣【Ｇ】 |
-| 3918 | Genbu・Bow 鬼GF Coat | 鬼腰衣【Ｆ】 |
+| 3918 | Genbu・Bow 鬼GF Coat | 玄武腰衣【Ｆ】 |
 | 3919 | Seiryu・Bow 鬼G Coat | 青龍腰衣【Ｇ】 |
-| 3920 | Seiryu・Bow 鬼GF Coat | 鬼腰衣【Ｆ】 |
+| 3920 | Seiryu・Bow 鬼GF Coat | 青龍腰衣【Ｆ】 |
 | 3921 | Odiva G Faulds | 奧蒂瓦腰甲【Ｇ】 |
 | 3922 | Odiva G Coat | 奧蒂瓦腰衣【Ｇ】 |
 | 3923 | Blitz Gフープ | 布伊特腰甲 |
@@ -444,7 +444,7 @@
 | 3938 | エミットG Coat | 艾米托腰衣【Ｇ】 |
 | 3939 | Diboa G Faulds | 迪博阿腰甲【Ｇ】 |
 | 3940 | Diboa G Coat | 迪博阿腰衣【Ｇ】 |
-| 3941 | Demon Lord ノ腰布 | 惡魔腰甲 |
+| 3941 | Demon Lord ノ腰布 | 魔王腰甲 |
 | 3942 | 童子ノ腰布 | 童子腰布腰甲 |
 | 3943 | レアー Coil | 雷阿腰甲 |
 | 3944 | ハーデス Coil | 哈德斯腰甲 |
@@ -494,14 +494,14 @@
 | 3988 | Pics HC Coat・Black | 皮克斯腰衣【ＨＣ】・黑 |
 | 3989 | Pics HS Coat・Black | 皮克斯腰衣【ＨＳ】・黑 |
 | 3990 | Pics GS Coat・Black | 皮克斯腰衣【ＧＳ】・黑 |
-| 3991 | Pics Coil・Water | 皮克斯水腰甲 |
-| 3992 | Pics F Coil・Water | 皮克斯水腰甲【Ｆ】 |
-| 3993 | Pics FZ Coil・Water | 皮克斯水腰甲【ＦＺ】 |
-| 3994 | Pics HC Coil・Water | 皮克斯水腰甲【ＨＣ】 |
-| 3995 | Pics HS Coil・Water | 皮克斯水腰甲【ＨＳ】 |
-| 3996 | Pics GS Coil・Water | 皮克斯水腰甲【ＧＳ】 |
-| 3997 | Pics Coat・Water | 皮克斯水腰衣 |
-| 3998 | Pics F Coat・Water | 皮克斯水腰衣【Ｆ】 |
-| 3999 | Pics FZ Coat・Water | 皮克斯水腰衣【ＦＺ】 |
-| 4000 | Pics HC Coat・Water | 皮克斯水腰衣【ＨＣ】 |
+| 3991 | Pics Coil・Water | 皮克斯腰甲・水 |
+| 3992 | Pics F Coil・Water | 皮克斯腰甲【Ｆ】・水 |
+| 3993 | Pics FZ Coil・Water | 皮克斯腰甲【ＦＺ】・水 |
+| 3994 | Pics HC Coil・Water | 皮克斯腰甲【ＨＣ】・水 |
+| 3995 | Pics HS Coil・Water | 皮克斯腰甲【ＨＳ】・水 |
+| 3996 | Pics GS Coil・Water | 皮克斯腰甲【ＧＳ】・水 |
+| 3997 | Pics Coat・Water | 皮克斯腰衣・水 |
+| 3998 | Pics F Coat・Water | 皮克斯腰衣【Ｆ】・水 |
+| 3999 | Pics FZ Coat・Water | 皮克斯腰衣【ＦＺ】・水 |
+| 4000 | Pics HC Coat・Water | 皮克斯腰衣【ＨＣ】・水 |
 

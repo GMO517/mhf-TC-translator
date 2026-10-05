@@ -8,7 +8,7 @@
 | 12002 | Training Corps D Feet | 特阿恩伊足 |
 | 12003 | Twelve Paladins' Armor D・Toenail | 特艾爾艾趾甲 |
 | 12004 | Holy Maiden Armor D・Toenail | 赫歐爾阿趾甲 |
-| 12005 | Dragon Slayer Armor D・Toenail | 龍趾甲 |
+| 12005 | Dragon Slayer Armor D・Toenail | 屠龍趾甲 |
 | 12006 | Rebellion Armour D・Toenail | 爾艾布艾趾甲 |
 | 12007 | Dinato D Greaves | 德伊恩阿護腿 |
 | 12008 | Duque D Greaves | 德烏斯烏護腿 |
@@ -45,21 +45,21 @@
 | 12039 | High Metal Greaves PD Black | 上位金屬護腿【ＰＤ】・黑 |
 | 12040 | High Metal Greaves PD Blue | 上位金屬護腿【ＰＤ】・青 |
 | 12041 | High Metal Greaves PD Yellow | 上位金屬護腿【ＰＤ】・黄 |
-| 12042 | S・Sol Greaves PD Red | 日護腿【Ｓ】【ＰＤ】・赤 |
-| 12043 | S・Sol Greaves PD Purple | 日護腿【Ｓ】【ＰＤ】・紫 |
-| 12044 | S・Sol Greaves PD Black | 日護腿【Ｓ】【ＰＤ】・黑 |
+| 12042 | S・Sol Greaves PD Red | S索倫護腿【ＰＤ】・赤 |
+| 12043 | S・Sol Greaves PD Purple | S索倫護腿【ＰＤ】・紫 |
+| 12044 | S・Sol Greaves PD Black | S索倫護腿【ＰＤ】・黑 |
 | 12045 | Garuga Leggings PD White | 黑狼鳥裹腿【ＰＤ】・白 |
 | 12046 | Garuga Leggings PD Green | 黑狼鳥裹腿【ＰＤ】・緑 |
 | 12047 | Garuga Leggings PD Red | 黑狼鳥裹腿【ＰＤ】・赤 |
 | 12048 | Hermitaur Greaves PD Blue | 盾蟹護腿【ＰＤ】・青 |
 | 12049 | Hermitaur Greaves PD White | 盾蟹護腿【ＰＤ】・白 |
 | 12050 | Hermitaur Greaves PD Purple | 盾蟹護腿【ＰＤ】・紫 |
-| 12051 | Kushala ペイル PD Red | 鋼龍護腿【ＰＤ】 |
-| 12052 | Kushala ペイル PD Yellow | 鋼龍護腿【ＰＤ】 |
-| 12053 | Kushala ペイル PD Green | 鋼龍護腿【ＰＤ】 |
-| 12054 | Kushala ハディ PD Red | 鋼龍護腿【ＰＤ】 |
-| 12055 | Kushala ハディ PD Yellow | 鋼龍護腿【ＰＤ】 |
-| 12056 | Kushala ハディ PD Green | 鋼龍護腿【ＰＤ】 |
+| 12051 | Kushala ペイル PD Red | 鋼龍護腿【ＰＤ】・赤 |
+| 12052 | Kushala ペイル PD Yellow | 鋼龍護腿【ＰＤ】・黄 |
+| 12053 | Kushala ペイル PD Green | 鋼龍護腿【ＰＤ】・緑 |
+| 12054 | Kushala ハディ PD Red | 鋼龍護腿【ＰＤ】・赤 |
+| 12055 | Kushala ハディ PD Yellow | 鋼龍護腿【ＰＤ】・黄 |
+| 12056 | Kushala ハディ PD Green | 鋼龍護腿【ＰＤ】・緑 |
 | 12057 | 忍の Tabi・陽D | 忍の陽足袋 |
 | 12058 | 忍の Tabi・陰D | 忍の陰足袋 |
 | 12059 | Bonne D Greaves | 布歐恩艾護腿 |
@@ -246,7 +246,7 @@
 | 12240 | Byakko・双龍D Feet | 双龍足 |
 | 12241 | Byakko・剣王D Feet | 剣王足 |
 | 12242 | Byakko・刀神D Feet | 刀神足 |
-| 12243 | Byakko・Heaven 槍D Feet | 槍足・天 |
+| 12243 | Byakko・Heaven 槍D Feet | 槍天足 |
 | 12244 | Byakko・砲皇D Feet | 砲皇足 |
 | 12245 | Byakko・鈍器獣D Feet | 鈍器獣足 |
 | 12246 | Byakko・奏帝D Feet | 奏帝足 |
@@ -254,10 +254,10 @@
 | 12248 | Byakko・斬将D Feet | 斬将足 |
 | 12249 | Byakko・銃傑D Boots | 銃傑靴 |
 | 12250 | Byakko・銃仙D Boots | 銃仙靴 |
-| 12251 | Byakko・Bow 鬼D Boots | 鬼靴 |
+| 12251 | Byakko・Bow 鬼D Boots | 白虎靴 |
 | 12252 | キリンレガース PD Red | 奇里恩雷加斯護腿【ＰＤ】・赤 |
 | 12253 | キリンレガース PD Purple | 奇里恩雷加斯護腿【ＰＤ】・紫 |
-| 12254 | キリンレガースPD Black | 奇里恩雷加斯護腿 |
+| 12254 | キリンレガースPD Black | 奇里恩雷加斯護腿【ＰＤ】・黑 |
 | 12255 | Kaiser Greaves PD White | 帝王護腿【ＰＤ】・白 |
 | 12256 | Kaiser Leggings PD White | 帝王裹腿【ＰＤ】・白 |
 | 12257 | Kaiser Greaves PD Black | 帝王護腿【ＰＤ】・黑 |
@@ -291,7 +291,7 @@
 | 12285 | Suzaku・双龍D Feet | 双龍足 |
 | 12286 | Suzaku・剣王D Feet | 剣王足 |
 | 12287 | Suzaku・刀神D Feet | 刀神足 |
-| 12288 | Suzaku・Heaven 槍D Feet | 槍足・天 |
+| 12288 | Suzaku・Heaven 槍D Feet | 槍天足 |
 | 12289 | Suzaku・砲皇D Feet | 砲皇足 |
 | 12290 | Suzaku・鈍器獣D Feet | 鈍器獣足 |
 | 12291 | Suzaku・奏帝D Feet | 奏帝足 |
@@ -299,13 +299,13 @@
 | 12293 | Suzaku・斬将D Feet | 斬将足 |
 | 12294 | Suzaku・銃傑D Boots | 銃傑靴 |
 | 12295 | Suzaku・銃仙D Boots | 銃仙靴 |
-| 12296 | Suzaku・Bow 鬼D Boots | 鬼靴 |
-| 12297 | G・Knight タイツ PD Red | 騎士護腿【Ｇ】【ＰＤ】 |
-| 12298 | G・Knight タイツ PD Blue | 騎士護腿【Ｇ】【ＰＤ】 |
-| 12299 | G・Knight タイツ PD Purple | 騎士護腿【Ｇ】【ＰＤ】 |
-| 12300 | PVタイツ PD Red | 普護腿【ＰＤ】 |
-| 12301 | PVタイツ PD Blue | 普護腿【ＰＤ】 |
-| 12302 | PVタイツ PD Purple | 普護腿【ＰＤ】 |
+| 12296 | Suzaku・Bow 鬼D Boots | 朱雀靴 |
+| 12297 | G・Knight タイツ PD Red | 騎士護腿【ＰＤ】・赤 |
+| 12298 | G・Knight タイツ PD Blue | 騎士護腿【ＰＤ】・青 |
+| 12299 | G・Knight タイツ PD Purple | 騎士護腿【ＰＤ】・紫 |
+| 12300 | PVタイツ PD Red | 塔伊茨護腿【ＰＤ】 |
+| 12301 | PVタイツ PD Blue | 塔伊茨護腿【ＰＤ】 |
+| 12302 | PVタイツ PD Purple | 塔伊茨護腿【ＰＤ】 |
 | 12303 | Empress Feet PD Red | 女帝足【ＰＤ】・赤 |
 | 12304 | Empress Feet PD Yellow | 女帝足【ＰＤ】・黄 |
 | 12305 | Empress Feet PD Purple | 女帝足【ＰＤ】・紫 |
@@ -324,12 +324,12 @@
 | 12318 | Makluva Pants PD Green | 馬庫瓦袴【ＰＤ】・緑 |
 | 12319 | Makluva Pants PD Blue | 馬庫瓦袴【ＰＤ】・青 |
 | 12320 | Makluva Pants PD Black | 馬庫瓦袴【ＰＤ】・黑 |
-| 12321 | Akantor ケマル PD Black | 霸龍護腿【ＰＤ】 |
-| 12322 | Akantor ケマル PD Red | 霸龍護腿【ＰＤ】 |
-| 12323 | Akantor ケマル PD White | 霸龍護腿【ＰＤ】 |
-| 12324 | Akantor チケル PD Black | 霸龍護腿【ＰＤ】 |
-| 12325 | Akantor チケル PD Red | 霸龍護腿【ＰＤ】 |
-| 12326 | Akantor チケル PD White | 霸龍護腿【ＰＤ】 |
+| 12321 | Akantor ケマル PD Black | 霸龍護腿【ＰＤ】・黑 |
+| 12322 | Akantor ケマル PD Red | 霸龍護腿【ＰＤ】・赤 |
+| 12323 | Akantor ケマル PD White | 霸龍護腿【ＰＤ】・白 |
+| 12324 | Akantor チケル PD Black | 霸龍護腿【ＰＤ】・黑 |
+| 12325 | Akantor チケル PD Red | 霸龍護腿【ＰＤ】・赤 |
+| 12326 | Akantor チケル PD White | 霸龍護腿【ＰＤ】・白 |
 | 12327 | Gravios Greaves PD Black | 鎧龍護腿【ＰＤ】・黑 |
 | 12328 | Gravios Greaves PD Blue | 鎧龍護腿【ＰＤ】・青 |
 | 12329 | Gravios Greaves PD Red | 鎧龍護腿【ＰＤ】・赤 |

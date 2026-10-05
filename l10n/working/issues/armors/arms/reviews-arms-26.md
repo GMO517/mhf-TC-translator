@@ -162,7 +162,7 @@
 | 12656 | Genbu・双龍D Arms | 双龍護腕 |
 | 12657 | Genbu・剣王D Arms | 剣王護腕 |
 | 12658 | Genbu・刀神D Arms | 刀神護腕 |
-| 12659 | Genbu・Heaven 槍D Arms | 槍護腕・天 |
+| 12659 | Genbu・Heaven 槍D Arms | 槍天護腕 |
 | 12660 | Genbu・砲皇D Arms | 砲皇護腕 |
 | 12661 | Genbu・鈍器獣D Arms | 鈍器獣護腕 |
 | 12662 | Genbu・奏帝D Arms | 奏帝護腕 |
@@ -170,7 +170,7 @@
 | 12664 | Genbu・斬将D Arms | 斬将護腕 |
 | 12665 | Genbu・銃傑D Guard | 銃傑臂甲 |
 | 12666 | Genbu・銃仙D Guard | 銃仙臂甲 |
-| 12667 | Genbu・Bow 鬼D Guard | 鬼臂甲 |
+| 12667 | Genbu・Bow 鬼D Guard | 玄武臂甲 |
 | 12668 | Tanzanite D Arms | 特阿恩阿護腕 |
 | 12669 | Hematite D Arms | 赫艾姆阿護腕 |
 | 12670 | Byakko・磁星D Arms | 磁星護腕 |
@@ -242,10 +242,10 @@
 | 12736 | Gelt D Arms・Copper | 格艾爾護腕・銅 |
 | 12737 | Gelt D Arms・Silver | 格艾爾護腕・銀 |
 | 12738 | Gelt D Arms・Gold | 格艾爾護腕・金 |
-| 12739 | Gloria D Arms・Gold | 格歐爾伊護腕・金 |
-| 12740 | Gloria D Arms・Blue | 格歐爾伊護腕・青 |
-| 12741 | Gloria D Arms・Water | 格歐爾伊護腕 |
-| 12742 | Gloria D Arms・Red | 格歐爾伊護腕・赤 |
+| 12739 | Gloria D Arms・Gold | 榮光護腕・金 |
+| 12740 | Gloria D Arms・Blue | 榮光護腕・青 |
+| 12741 | Gloria D Arms・Water | 榮光護腕・水 |
+| 12742 | Gloria D Arms・Red | 榮光護腕・赤 |
 | 12743 | Cloth D Arms・Red | 克歐斯護腕・赤 |
 | 12744 | Cloth D Arms・Blue | 克歐斯護腕・青 |
 | 12745 | Cloth D Arms・Purple | 克歐斯護腕・紫 |
@@ -306,14 +306,14 @@
 | 12800 | Honour D Arms・Blue | 赫歐恩歐護腕・青 |
 | 12801 | Honour D Arms・Green | 赫歐恩歐護腕・緑 |
 | 12802 | Honour D Arms・紺 | 紺護腕 |
-| 12803 | Pics D Arms・Green | 普伊克護腕・緑 |
-| 12804 | Pics D Arms・Purple | 普伊克護腕・紫 |
-| 12805 | Pics D Arms・Black | 普伊克護腕・黑 |
-| 12806 | Pics D Arms・Water | 普伊克阿護腕 |
-| 12807 | Magos D Arms・Yellow | 姆阿格歐護腕・黄 |
-| 12808 | Magos D Arms・Red | 姆阿格歐護腕・赤 |
-| 12809 | Magos D Arms・Water | 姆阿格歐護腕 |
-| 12810 | Magos D Arms・Blue | 姆阿格歐護腕・青 |
+| 12803 | Pics D Arms・Green | 皮克斯護腕・緑 |
+| 12804 | Pics D Arms・Purple | 皮克斯護腕・紫 |
+| 12805 | Pics D Arms・Black | 皮克斯護腕・黑 |
+| 12806 | Pics D Arms・Water | 皮克斯護腕・水 |
+| 12807 | Magos D Arms・Yellow | 瑪戈斯護腕・黄 |
+| 12808 | Magos D Arms・Red | 瑪戈斯護腕・赤 |
+| 12809 | Magos D Arms・Water | 瑪戈斯護腕・水 |
+| 12810 | Magos D Arms・Blue | 瑪戈斯護腕・青 |
 | 12811 | Arge D Arms | 阿爾艾斯護腕 |
 | 12812 | Camarera D Arms | 克阿姆阿護腕 |
 | 12813 | Metenera D Arms | 姆艾特艾護腕 |
@@ -323,10 +323,10 @@
 | 12817 | Zodic D Arms・Tea | 茲歐德伊護腕・茶 |
 | 12818 | Zodic D Arms・Green | 茲歐德伊護腕・緑 |
 | 12819 | Zodic D Arms・Pink | 茲歐德伊護腕・桃 |
-| 12820 | Cayssis D Arms Water | 克阿伊伊護腕 |
-| 12821 | Cayssis D Arms Red | 克阿伊伊護腕・赤 |
-| 12822 | Cayssis D Arms Blue | 克阿伊伊護腕・青 |
-| 12823 | Cayssis D Arms Orange | 克阿伊伊護腕・橙 |
+| 12820 | Cayssis D Arms Water | 凱西斯護腕・水 |
+| 12821 | Cayssis D Arms Red | 凱西斯護腕・赤 |
+| 12822 | Cayssis D Arms Blue | 凱西斯護腕・青 |
+| 12823 | Cayssis D Arms Orange | 凱西斯護腕・橙 |
 | 12824 | Omet D Arms・Black | 歐姆艾特護腕・黑 |
 | 12825 | Omet D Arms・Red | 歐姆艾特護腕・赤 |
 | 12826 | Omet D Arms・White | 歐姆艾特護腕・白 |
@@ -343,10 +343,10 @@
 | 12837 | Suriito D Arms・Silver | 斯烏爾伊護腕・銀 |
 | 12838 | Suriito D Arms・Red | 斯烏爾伊護腕・赤 |
 | 12839 | Suriito D Arms・Blue | 斯烏爾伊護腕・青 |
-| 12840 | Galitos D Arms・Tea | 格阿爾伊護腕・茶 |
-| 12841 | Galitos D Arms・Red | 格阿爾伊護腕・赤 |
-| 12842 | Galitos D Arms・Black | 格阿爾伊護腕・黑 |
-| 12843 | Galitos D Arms・Water | 格阿爾伊護腕 |
+| 12840 | Galitos D Arms・Tea | 加里托斯護腕・茶 |
+| 12841 | Galitos D Arms・Red | 加里托斯護腕・赤 |
+| 12842 | Galitos D Arms・Black | 加里托斯護腕・黑 |
+| 12843 | Galitos D Arms・Water | 加里托斯護腕・水 |
 | 12844 | Text D Arms・Purple | 特艾克斯護腕・紫 |
 | 12845 | Text D Arms・Green | 特艾克斯護腕・緑 |
 | 12846 | Text D Arms・Blue | 特艾克斯護腕・青 |
@@ -355,24 +355,24 @@
 | 12849 | Pharan D Arms・Black | 菲阿爾阿護腕・黑 |
 | 12850 | Pharan D Arms・Red | 菲阿爾阿護腕・赤 |
 | 12851 | Pharan D Arms・Blue | 菲阿爾阿護腕・青 |
-| 12852 | Gold D Arms・Red | 德護腕 |
-| 12853 | Gold D Arms・Blue | 德護腕 |
-| 12854 | Gold D Arms・Yellow | 德護腕 |
-| 12855 | Gold D Arms・Purple | 德護腕 |
-| 12856 | Claire D Arms・Purple | 克阿爾艾護腕・紫 |
-| 12857 | Claire D Arms・Water | 克阿爾艾護腕 |
-| 12858 | Claire D Arms・Red | 克阿爾艾護腕・赤 |
-| 12859 | Claire D Arms・Black | 克阿爾艾護腕・黑 |
-| 12860 | Gold Cat D Arms | 克阿特護腕・金 |
-| 12861 | Silver Cat D Arms | 克阿特護腕・銀 |
+| 12852 | Gold D Arms・Red | 金護腕・赤 |
+| 12853 | Gold D Arms・Blue | 金護腕・青 |
+| 12854 | Gold D Arms・Yellow | 金護腕・黄 |
+| 12855 | Gold D Arms・Purple | 金護腕・紫 |
+| 12856 | Claire D Arms・Purple | 克蕾爾護腕・紫 |
+| 12857 | Claire D Arms・Water | 克蕾爾護腕・水 |
+| 12858 | Claire D Arms・Red | 克蕾爾護腕・赤 |
+| 12859 | Claire D Arms・Black | 克蕾爾護腕・黑 |
+| 12860 | Gold Cat D Arms | 金猫護腕 |
+| 12861 | Silver Cat D Arms | 銀猫護腕 |
 | 12862 | Ex D Arms・White | 艾克斯護腕・白 |
 | 12863 | Ex D Arms・Red | 艾克斯護腕・赤 |
 | 12864 | Ex D Arms・Blue | 艾克斯護腕・青 |
 | 12865 | Ex D Arms・Black | 艾克斯護腕・黑 |
-| 12866 | Star Festival D Gauntlets [Red 】 | 斯阿爾艾手甲・赤 |
-| 12867 | Star Festival D Gauntlets [Blue 】 | 斯阿爾艾手甲・青 |
-| 12868 | Star Festival D Gauntlets [Black 】 | 斯阿爾艾手甲・黑 |
-| 12869 | Star Festival D Gauntlets [White 】 | 斯阿爾艾手甲・白 |
+| 12866 | Star Festival D Gauntlets [Red 】 | 星祭手甲・赤 |
+| 12867 | Star Festival D Gauntlets [Blue 】 | 星祭手甲・青 |
+| 12868 | Star Festival D Gauntlets [Black 】 | 星祭手甲・黑 |
+| 12869 | Star Festival D Gauntlets [White 】 | 星祭手甲・白 |
 | 12870 | Promise D Arms・White | 普歐姆伊護腕・白 |
 | 12871 | Promise D Arms・Blue | 普歐姆伊護腕・青 |
 | 12872 | Promise D Arms・Purple | 普歐姆伊護腕・紫 |

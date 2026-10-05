@@ -142,8 +142,8 @@
 | 1636 | ダミー | (dummy) |
 | 1637 | ダミー | (dummy) |
 | 1638 | White Fatalis R Wing | 白黑龍腰翼【Ｒ】 |
-| 1639 | G・Lune R Coat | 月腰衣【Ｇ】【Ｒ】 |
-| 1640 | S・Sol R Coat | 日腰衣【Ｓ】【Ｒ】 |
+| 1639 | G・Lune R Coat | 月腰衣【Ｒ】 |
+| 1640 | S・Sol R Coat | S索倫腰衣【Ｒ】 |
 | 1641 | Death Stench L Belly | 死臭腹甲【Ｌ】 |
 | 1642 | Leather L Belt | 皮革腰帶【Ｌ】 |
 | 1643 | C・ライトL Belt | 拉伊托腰帶【Ｌ】 |
@@ -206,10 +206,10 @@
 | 1700 | Bunny F Belt・Purple | 兔腰帶【Ｆ】・紫 |
 | 1701 | Bunny Coat・Purple | 兔腰衣・紫 |
 | 1702 | Bunny F Coat・Purple | 兔腰衣【Ｆ】・紫 |
-| 1703 | 昇龍 Black Obi・White | 昇龍帶・白・黑 |
-| 1704 | 昇龍F Black Obi・White | 昇龍帶【Ｆ】・白・黑 |
-| 1705 | 波動 Black Obi・White | 波動帶・白・黑 |
-| 1706 | 波動F Black Obi・White | 波動帶【Ｆ】・白・黑 |
+| 1703 | 昇龍 Black Obi・White | 昇龍帶・黑 |
+| 1704 | 昇龍F Black Obi・White | 昇龍帶【Ｆ】・黑 |
+| 1705 | 波動 Black Obi・White | 波動帶・黑 |
+| 1706 | 波動F Black Obi・White | 波動帶【Ｆ】・黑 |
 | 1707 | 百裂 Waistband・Blue | 百裂腰帶・青 |
 | 1708 | 百裂F Waistband・Blue | 百裂腰帶【Ｆ】・青 |
 | 1709 | 気功 Waistband・Blue | 気功腰帶・青 |
@@ -222,36 +222,36 @@
 | 1716 | 百裂F Waistband・Black | 百裂腰帶【Ｆ】・黑 |
 | 1717 | 気功 Waistband・Black | 気功腰帶・黑 |
 | 1718 | 気功F Waistband・Black | 気功腰帶【Ｆ】・黑 |
-| 1719 | 昇龍 Black Obi・Yellow | 昇龍帶・黄・黑 |
-| 1720 | 昇龍F Black Obi・Yellow | 昇龍帶【Ｆ】・黄・黑 |
-| 1721 | 波動 Black Obi・Yellow | 波動帶・黄・黑 |
-| 1722 | 波動F Black Obi・Yellow | 波動帶【Ｆ】・黄・黑 |
+| 1719 | 昇龍 Black Obi・Yellow | 昇龍帶・黑 |
+| 1720 | 昇龍F Black Obi・Yellow | 昇龍帶【Ｆ】・黑 |
+| 1721 | 波動 Black Obi・Yellow | 波動帶・黑 |
+| 1722 | 波動F Black Obi・Yellow | 波動帶【Ｆ】・黑 |
 | 1723 | 百裂 Waistband・Yellow | 百裂腰帶・黄 |
 | 1724 | 百裂F Waistband・Yellow | 百裂腰帶【Ｆ】・黄 |
 | 1725 | 気功 Waistband・Yellow | 気功腰帶・黄 |
 | 1726 | 気功F Waistband・Yellow | 気功腰帶【Ｆ】・黄 |
-| 1727 | 昇龍 Black Obi・Purple | 昇龍帶・紫・黑 |
-| 1728 | 昇龍F Black Obi・Purple | 昇龍帶【Ｆ】・紫・黑 |
-| 1729 | 波動 Black Obi・Purple | 波動帶・紫・黑 |
-| 1730 | 波動F Black Obi・Purple | 波動帶【Ｆ】・紫・黑 |
+| 1727 | 昇龍 Black Obi・Purple | 昇龍帶・黑 |
+| 1728 | 昇龍F Black Obi・Purple | 昇龍帶【Ｆ】・黑 |
+| 1729 | 波動 Black Obi・Purple | 波動帶・黑 |
+| 1730 | 波動F Black Obi・Purple | 波動帶【Ｆ】・黑 |
 | 1731 | 百裂 Waistband・Green | 百裂腰帶・緑 |
 | 1732 | 百裂F Waistband・Green | 百裂腰帶【Ｆ】・緑 |
 | 1733 | 気功 Waistband・Green | 気功腰帶・緑 |
 | 1734 | 気功F Waistband・Green | 気功腰帶【Ｆ】・緑 |
-| 1735 | Steno Elytra ー・Orange | 水竜翅腰 |
-| 1736 | Steno F Elytra ー・Orange | 水竜翅腰【Ｆ】 |
+| 1735 | Steno Elytra ー・Orange | 水竜翅腰・橙 |
+| 1736 | Steno F Elytra ー・Orange | 水竜翅腰【Ｆ】・橙 |
 | 1737 | Steno Coat・Orange | 水竜腰衣・橙 |
 | 1738 | Steno F Coat・Orange | 水竜腰衣【Ｆ】・橙 |
-| 1739 | Steno Elytra ー・Peach | 水竜翅腰 |
-| 1740 | Steno F Elytra ー・Peach | 水竜翅腰【Ｆ】 |
+| 1739 | Steno Elytra ー・Peach | 水竜翅腰・桃 |
+| 1740 | Steno F Elytra ー・Peach | 水竜翅腰【Ｆ】・桃 |
 | 1741 | Steno Coat・Peach | 水竜腰衣・桃 |
 | 1742 | Steno F Coat・Peach | 水竜腰衣【Ｆ】・桃 |
-| 1743 | Steno Elytra ー・Blue | 水竜翅腰 |
-| 1744 | Steno F Elytra ー・Blue | 水竜翅腰【Ｆ】 |
+| 1743 | Steno Elytra ー・Blue | 水竜翅腰・青 |
+| 1744 | Steno F Elytra ー・Blue | 水竜翅腰【Ｆ】・青 |
 | 1745 | Steno Coat・Blue | 水竜腰衣・青 |
 | 1746 | Steno F Coat・Blue | 水竜腰衣【Ｆ】・青 |
-| 1747 | Steno Elytra ー・Red | 水竜翅腰 |
-| 1748 | Steno F Elytra ー・Red | 水竜翅腰【Ｆ】 |
+| 1747 | Steno Elytra ー・Red | 水竜翅腰・赤 |
+| 1748 | Steno F Elytra ー・Red | 水竜翅腰【Ｆ】・赤 |
 | 1749 | Steno Coat・Red | 水竜腰衣・赤 |
 | 1750 | Steno F Coat・Red | 水竜腰衣【Ｆ】・赤 |
 | 1751 | Jumpin' Belt | 傑烏姆伊腰帶 |
@@ -317,10 +317,10 @@
 | 1811 | ダミー | (dummy) |
 | 1812 | Kagura FX【腰当て】 | 神樂腰當【ＦＸ】 |
 | 1813 | Kamiza FX【腰当て】 | 上座腰當【ＦＸ】 |
-| 1814 | Blue Sky Obi | 蒼天帶 |
-| 1815 | Blue Sky Obi・魁 | 魁帶・青 |
-| 1816 | Welkin Obi | 蒼穹帶 |
-| 1817 | Welkin Obi・魁 | 魁帶 |
+| 1814 | Blue Sky Obi | 蒼天帶・天 |
+| 1815 | Blue Sky Obi・魁 | 蒼天帶魁・天 |
+| 1816 | Welkin Obi | 穹蒼帶 |
+| 1817 | Welkin Obi・魁 | 穹蒼帶魁 |
 | 1818 | Breo Faulds | 布艾腰甲 |
 | 1819 | Breo F Faulds | 布艾腰甲【Ｆ】 |
 | 1820 | Vinen Waist | 芙伊恩艾腰甲 |
@@ -391,32 +391,32 @@
 | 1885 | 蘭蛮の Obi・Gold | 蘭蛮の帶・金 |
 | 1886 | 竜巻 Colour Belt・Black | 竜巻腰帶・黑 |
 | 1887 | 竜巻F Colour Belt・Black | 竜巻腰帶【Ｆ】・黑 |
-| 1888 | True 空 Colour Belt・Black | 空腰帶・黑 |
-| 1889 | True 空F Colour Belt・Black | 空腰帶【Ｆ】・黑 |
+| 1888 | True 空 Colour Belt・Black | 真空腰帶・黑 |
+| 1889 | True 空F Colour Belt・Black | 真空腰帶【Ｆ】・黑 |
 | 1890 | 千裂 Waistband・Black | 千裂腰帶・黑 |
 | 1891 | 千裂F Waistband・Black | 千裂腰帶【Ｆ】・黑 |
 | 1892 | 覇山 Waistband・Black | 覇山腰帶・黑 |
 | 1893 | 覇山F Waistband・Black | 覇山腰帶【Ｆ】・黑 |
 | 1894 | 竜巻 Colour Belt・Tea | 竜巻腰帶・茶 |
 | 1895 | 竜巻F Colour Belt・Tea | 竜巻腰帶【Ｆ】・茶 |
-| 1896 | True 空 Colour Belt・Tea | 空腰帶・茶 |
-| 1897 | True 空F Colour Belt・Tea | 空腰帶【Ｆ】・茶 |
+| 1896 | True 空 Colour Belt・Tea | 真空腰帶・茶 |
+| 1897 | True 空F Colour Belt・Tea | 真空腰帶【Ｆ】・茶 |
 | 1898 | 千裂 Waistband・Purple | 千裂腰帶・紫 |
 | 1899 | 千裂F Waistband・Purple | 千裂腰帶【Ｆ】・紫 |
 | 1900 | 覇山 Waistband・Purple | 覇山腰帶・紫 |
 | 1901 | 覇山F Waistband・Purple | 覇山腰帶【Ｆ】・紫 |
 | 1902 | 竜巻 Colour Belt・White | 竜巻腰帶・白 |
 | 1903 | 竜巻F Colour Belt・White | 竜巻腰帶【Ｆ】・白 |
-| 1904 | True 空 Colour Belt・White | 空腰帶・白 |
-| 1905 | True 空F Colour Belt・White | 空腰帶【Ｆ】・白 |
+| 1904 | True 空 Colour Belt・White | 真空腰帶・白 |
+| 1905 | True 空F Colour Belt・White | 真空腰帶【Ｆ】・白 |
 | 1906 | 千裂 Waistband・White | 千裂腰帶・白 |
 | 1907 | 千裂F Waistband・White | 千裂腰帶【Ｆ】・白 |
 | 1908 | 覇山 Waistband・White | 覇山腰帶・白 |
 | 1909 | 覇山F Waistband・White | 覇山腰帶【Ｆ】・白 |
 | 1910 | 竜巻 Colour Belt・Blue | 竜巻腰帶・青 |
 | 1911 | 竜巻F Colour Belt・Blue | 竜巻腰帶【Ｆ】・青 |
-| 1912 | True 空 Colour Belt・Blue | 空腰帶・青 |
-| 1913 | True 空F Colour Belt・Blue | 空腰帶【Ｆ】・青 |
+| 1912 | True 空 Colour Belt・Blue | 真空腰帶・青 |
+| 1913 | True 空F Colour Belt・Blue | 真空腰帶【Ｆ】・青 |
 | 1914 | 千裂 Waistband・Green | 千裂腰帶・緑 |
 | 1915 | 千裂F Waistband・Green | 千裂腰帶【Ｆ】・緑 |
 | 1916 | 覇山 Waistband・Green | 覇山腰帶・緑 |
@@ -433,10 +433,10 @@
 | 1927 | 旋風F Black Obi | 旋風帶【Ｆ】・黑 |
 | 1928 | 巴 Black Obi | 巴帶・黑 |
 | 1929 | 巴F Black Obi | 巴帶【Ｆ】・黑 |
-| 1930 | Heaven 空 Waistband | 空腰帶・天 |
-| 1931 | Heaven 空F Waistband | 空腰帶【Ｆ】・天 |
-| 1932 | Heaven 昇 Waistband | 昇腰帶・天 |
-| 1933 | Heaven 昇F Waistband | 昇腰帶【Ｆ】・天 |
+| 1930 | Heaven 空 Waistband | 天穹腰帶 |
+| 1931 | Heaven 空F Waistband | 天穹腰帶【Ｆ】 |
+| 1932 | Heaven 昇 Waistband | 昇天腰帶 |
+| 1933 | Heaven 昇F Waistband | 昇天腰帶【Ｆ】 |
 | 1934 | Jeamu Coil | 傑艾姆烏腰甲 |
 | 1935 | Jeamu F Coil | 傑艾姆烏腰甲【Ｆ】 |
 | 1936 | Amyusu Coil | 阿姆烏斯腰甲 |
@@ -469,7 +469,7 @@
 | 1963 | Buran F Faulds | 布烏爾阿腰甲【Ｆ】 |
 | 1964 | Zwinger Coil | 茲伊恩艾腰甲 |
 | 1965 | Zwinger Coat | 茲伊恩艾腰衣 |
-| 1966 | Demon Lord ノ虎布・魁 | 惡魔魁腰甲 |
+| 1966 | Demon Lord ノ虎布・魁 | 魔王腰甲魁 |
 | 1967 | 童子ノ虎布・魁 | 童子虎布魁腰甲 |
 | 1968 | Melan F Faulds | 紫黑腰甲【Ｆ】 |
 | 1969 | Melan F Coat | 紫黑腰衣【Ｆ】 |

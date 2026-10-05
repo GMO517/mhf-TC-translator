@@ -129,14 +129,14 @@
 | 11123 | Akahara Reisou GN Legs D Blue | 阿克阿赫腿甲・青 |
 | 11124 | Akahara Reisou GN Legs D Black | 阿克阿赫腿甲・黑 |
 | 11125 | Akahara Reisou GN Legs D White | 阿克阿赫腿甲・白 |
-| 11126 | Knight King Legs BM D Blue | 克伊格伊腿甲・青 |
-| 11127 | Knight King Legs BM D Red | 克伊格伊腿甲・赤 |
-| 11128 | Knight King Legs BM D Black | 克伊格伊腿甲・黑 |
-| 11129 | Knight King Legs BM D White | 克伊格伊腿甲・白 |
-| 11130 | Hero King Legs BM D Gold | 赫艾爾歐腿甲・金 |
-| 11131 | Hero King Legs BM D Black | 赫艾爾歐腿甲・黑 |
-| 11132 | Hero King Legs BM D White | 赫艾爾歐腿甲・白 |
-| 11133 | Hero King Legs BM D Red | 赫艾爾歐腿甲・赤 |
+| 11126 | Knight King Legs BM D Blue | 騎士王腿甲・青 |
+| 11127 | Knight King Legs BM D Red | 騎士王腿甲・赤 |
+| 11128 | Knight King Legs BM D Black | 騎士王腿甲・黑 |
+| 11129 | Knight King Legs BM D White | 騎士王腿甲・白 |
+| 11130 | Hero King Legs BM D Gold | 英雄王腿甲・金 |
+| 11131 | Hero King Legs BM D Black | 英雄王腿甲・黑 |
+| 11132 | Hero King Legs BM D White | 英雄王腿甲・白 |
+| 11133 | Hero King Legs BM D Red | 英雄王腿甲・赤 |
 | 11134 | Gorgon D Feet・Black | 格歐爾歐足・黑 |
 | 11135 | Gorgon D Feet・Blue | 格歐爾歐足・青 |
 | 11136 | Gorgon D Feet・White | 格歐爾歐足・白 |
@@ -211,13 +211,13 @@
 | 11205 | Twin Star GS Feet | 雙星足【ＧＳ】 |
 | 11206 | Twin Star GP Feet | 雙星足【ＧＰ】 |
 | 11207 | Twin Star ZP Feet | 雙星足【ＺＰ】 |
-| 11208 | Heaven Blade Feet | 天刃足・天 |
-| 11209 | Heaven Blade F Feet | 天刃足【Ｆ】・天 |
-| 11210 | Heaven Blade FZ Feet | 天刃足【ＦＺ】・天 |
-| 11211 | Heaven Blade HS Feet | 天刃足【ＨＳ】・天 |
-| 11212 | Heaven Blade GS Feet | 天刃足【ＧＳ】・天 |
-| 11213 | Heaven Blade GP Feet | 天刃足【ＧＰ】・天 |
-| 11214 | Heaven Blade ZP Feet | 天刃足【ＺＰ】・天 |
+| 11208 | Heaven Blade Feet | 天刃足 |
+| 11209 | Heaven Blade F Feet | 天刃足【Ｆ】 |
+| 11210 | Heaven Blade FZ Feet | 天刃足【ＦＺ】 |
+| 11211 | Heaven Blade HS Feet | 天刃足【ＨＳ】 |
+| 11212 | Heaven Blade GS Feet | 天刃足【ＧＳ】 |
+| 11213 | Heaven Blade GP Feet | 天刃足【ＧＰ】 |
+| 11214 | Heaven Blade ZP Feet | 天刃足【ＺＰ】 |
 | 11215 | Spring Sword Feet | 斯伊恩歐足 |
 | 11216 | Spring Sword F Feet | 斯伊恩歐足【Ｆ】 |
 | 11217 | Spring Sword FZ Feet | 斯伊恩歐足【ＦＺ】 |
@@ -253,13 +253,13 @@
 | 11247 | Scream Lance GS Feet | 斯艾姆阿足【ＧＳ】 |
 | 11248 | Scream Lance GP Feet | 斯艾姆阿足【ＧＰ】 |
 | 11249 | Scream Lance ZP Feet | 斯艾姆阿足【ＺＰ】 |
-| 11250 | Piercing Light Feet | 普伊爾伊足 |
-| 11251 | Piercing Light F Feet | 普伊爾伊足【Ｆ】 |
-| 11252 | Piercing Light FZ Feet | 普伊爾伊足【ＦＺ】 |
-| 11253 | Piercing Light HS Feet | 普伊爾伊足【ＨＳ】 |
-| 11254 | Piercing Light GS Feet | 普伊爾伊足【ＧＳ】 |
-| 11255 | Piercing Light GP Feet | 普伊爾伊足【ＧＰ】 |
-| 11256 | Piercing Light ZP Feet | 普伊爾伊足【ＺＰ】 |
+| 11250 | Piercing Light Feet | 貫光足 |
+| 11251 | Piercing Light F Feet | 貫光足【Ｆ】 |
+| 11252 | Piercing Light FZ Feet | 貫光足【ＦＺ】 |
+| 11253 | Piercing Light HS Feet | 貫光足【ＨＳ】 |
+| 11254 | Piercing Light GS Feet | 貫光足【ＧＳ】 |
+| 11255 | Piercing Light GP Feet | 貫光足【ＧＰ】 |
+| 11256 | Piercing Light ZP Feet | 貫光足【ＺＰ】 |
 | 11257 | Colour Axe Feet | 克歐爾歐足 |
 | 11258 | Colour Axe F Feet | 克歐爾歐足【Ｆ】 |
 | 11259 | Colour Axe FZ Feet | 克歐爾歐足【ＦＺ】 |
@@ -281,13 +281,13 @@
 | 11275 | Crush Gun GS Boots | 克烏夏烏靴【ＧＳ】 |
 | 11276 | Crush Gun GP Boots | 克烏夏烏靴【ＧＰ】 |
 | 11277 | Crush Gun ZP Boots | 克烏夏烏靴【ＺＰ】 |
-| 11278 | Bow Saint Boots | 布歐沃阿靴 |
-| 11279 | Bow Saint F Boots | 布歐沃阿靴【Ｆ】 |
-| 11280 | Bow Saint FZ Boots | 布歐沃阿靴【ＦＺ】 |
-| 11281 | Bow Saint HS Boots | 布歐沃阿靴【ＨＳ】 |
-| 11282 | Bow Saint GS Boots | 布歐沃阿靴【ＧＳ】 |
-| 11283 | Bow Saint GP Boots | 布歐沃阿靴【ＧＰ】 |
-| 11284 | Bow Saint ZP Boots | 布歐沃阿靴【ＺＰ】 |
+| 11278 | Bow Saint Boots | 斯阿恩靴 |
+| 11279 | Bow Saint F Boots | 斯阿恩靴【Ｆ】 |
+| 11280 | Bow Saint FZ Boots | 斯阿恩靴【ＦＺ】 |
+| 11281 | Bow Saint HS Boots | 斯阿恩靴【ＨＳ】 |
+| 11282 | Bow Saint GS Boots | 斯阿恩靴【ＧＳ】 |
+| 11283 | Bow Saint GP Boots | 斯阿恩靴【ＧＰ】 |
+| 11284 | Bow Saint ZP Boots | 斯阿恩靴【ＺＰ】 |
 | 11285 | Rantana Feet | 蘭塔納足 |
 | 11286 | Rantana F Feet | 蘭塔納足【Ｆ】 |
 | 11287 | Rantana FZ Feet | 蘭塔納足【ＦＺ】 |

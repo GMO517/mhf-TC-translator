@@ -73,38 +73,38 @@
 | 5567 | Omet HS Coat・Blue | 歐梅特腰衣【ＨＳ】・青 |
 | 5568 | Omet GS Coat・Blue | 歐梅特腰衣【ＧＳ】・青 |
 | 5569 | Omet GP Coat・Blue | 歐梅特腰衣【ＧＰ】・青 |
-| 5570 | Gold FZ Coil・Red | 腰甲【ＦＺ】・金・赤 |
-| 5571 | Gold HS Coil・Red | 腰甲【ＨＳ】・金・赤 |
-| 5572 | Gold GS Coil・Red | 腰甲【ＧＳ】・金・赤 |
-| 5573 | Gold GP Coil・Red | 腰甲【ＧＰ】・金・赤 |
-| 5574 | Gold FZ Coil・Blue | 腰甲【ＦＺ】・金・青 |
-| 5575 | Gold HS Coil・Blue | 腰甲【ＨＳ】・金・青 |
-| 5576 | Gold GS Coil・Blue | 腰甲【ＧＳ】・金・青 |
-| 5577 | Gold GP Coil・Blue | 腰甲【ＧＰ】・金・青 |
-| 5578 | Gold FZ Coil・Yellow | 腰甲【ＦＺ】・金・黄 |
-| 5579 | Gold HS Coil・Yellow | 腰甲【ＨＳ】・金・黄 |
-| 5580 | Gold GS Coil・Yellow | 腰甲【ＧＳ】・金・黄 |
-| 5581 | Gold GP Coil・Yellow | 腰甲【ＧＰ】・金・黄 |
-| 5582 | Gold FZ Coil・Purple | 腰甲【ＦＺ】・金・紫 |
-| 5583 | Gold HS Coil・Purple | 腰甲【ＨＳ】・金・紫 |
-| 5584 | Gold GS Coil・Purple | 腰甲【ＧＳ】・金・紫 |
-| 5585 | Gold GP Coil・Purple | 腰甲【ＧＰ】・金・紫 |
-| 5586 | Gold FZ Coat・Red | 腰衣【ＦＺ】・金・赤 |
-| 5587 | Gold HS Coat・Red | 腰衣【ＨＳ】・金・赤 |
-| 5588 | Gold GS Coat・Red | 腰衣【ＧＳ】・金・赤 |
-| 5589 | Gold GP Coat・Red | 腰衣【ＧＰ】・金・赤 |
-| 5590 | Gold FZ Coat・Blue | 腰衣【ＦＺ】・金・青 |
-| 5591 | Gold HS Coat・Blue | 腰衣【ＨＳ】・金・青 |
-| 5592 | Gold GS Coat・Blue | 腰衣【ＧＳ】・金・青 |
-| 5593 | Gold GP Coat・Blue | 腰衣【ＧＰ】・金・青 |
-| 5594 | Gold FZ Coat・Yellow | 腰衣【ＦＺ】・金・黄 |
-| 5595 | Gold HS Coat・Yellow | 腰衣【ＨＳ】・金・黄 |
-| 5596 | Gold GS Coat・Yellow | 腰衣【ＧＳ】・金・黄 |
-| 5597 | Gold GP Coat・Yellow | 腰衣【ＧＰ】・金・黄 |
-| 5598 | Gold FZ Coat・Purple | 腰衣【ＦＺ】・金・紫 |
-| 5599 | Gold HS Coat・Purple | 腰衣【ＨＳ】・金・紫 |
-| 5600 | Gold GS Coat・Purple | 腰衣【ＧＳ】・金・紫 |
-| 5601 | Gold GP Coat・Purple | 腰衣【ＧＰ】・金・紫 |
+| 5570 | Gold FZ Coil・Red | 金腰甲【ＦＺ】・赤 |
+| 5571 | Gold HS Coil・Red | 金腰甲【ＨＳ】・赤 |
+| 5572 | Gold GS Coil・Red | 金腰甲【ＧＳ】・赤 |
+| 5573 | Gold GP Coil・Red | 金腰甲【ＧＰ】・赤 |
+| 5574 | Gold FZ Coil・Blue | 金腰甲【ＦＺ】・青 |
+| 5575 | Gold HS Coil・Blue | 金腰甲【ＨＳ】・青 |
+| 5576 | Gold GS Coil・Blue | 金腰甲【ＧＳ】・青 |
+| 5577 | Gold GP Coil・Blue | 金腰甲【ＧＰ】・青 |
+| 5578 | Gold FZ Coil・Yellow | 金腰甲【ＦＺ】・黄 |
+| 5579 | Gold HS Coil・Yellow | 金腰甲【ＨＳ】・黄 |
+| 5580 | Gold GS Coil・Yellow | 金腰甲【ＧＳ】・黄 |
+| 5581 | Gold GP Coil・Yellow | 金腰甲【ＧＰ】・黄 |
+| 5582 | Gold FZ Coil・Purple | 金腰甲【ＦＺ】・紫 |
+| 5583 | Gold HS Coil・Purple | 金腰甲【ＨＳ】・紫 |
+| 5584 | Gold GS Coil・Purple | 金腰甲【ＧＳ】・紫 |
+| 5585 | Gold GP Coil・Purple | 金腰甲【ＧＰ】・紫 |
+| 5586 | Gold FZ Coat・Red | 金腰衣【ＦＺ】・赤 |
+| 5587 | Gold HS Coat・Red | 金腰衣【ＨＳ】・赤 |
+| 5588 | Gold GS Coat・Red | 金腰衣【ＧＳ】・赤 |
+| 5589 | Gold GP Coat・Red | 金腰衣【ＧＰ】・赤 |
+| 5590 | Gold FZ Coat・Blue | 金腰衣【ＦＺ】・青 |
+| 5591 | Gold HS Coat・Blue | 金腰衣【ＨＳ】・青 |
+| 5592 | Gold GS Coat・Blue | 金腰衣【ＧＳ】・青 |
+| 5593 | Gold GP Coat・Blue | 金腰衣【ＧＰ】・青 |
+| 5594 | Gold FZ Coat・Yellow | 金腰衣【ＦＺ】・黄 |
+| 5595 | Gold HS Coat・Yellow | 金腰衣【ＨＳ】・黄 |
+| 5596 | Gold GS Coat・Yellow | 金腰衣【ＧＳ】・黄 |
+| 5597 | Gold GP Coat・Yellow | 金腰衣【ＧＰ】・黄 |
+| 5598 | Gold FZ Coat・Purple | 金腰衣【ＦＺ】・紫 |
+| 5599 | Gold HS Coat・Purple | 金腰衣【ＨＳ】・紫 |
+| 5600 | Gold GS Coat・Purple | 金腰衣【ＧＳ】・紫 |
+| 5601 | Gold GP Coat・Purple | 金腰衣【ＧＰ】・紫 |
 | 5602 | Shaln HS Belt・Blue | 夏爾恩腰帶【ＨＳ】・青 |
 | 5603 | Shaln GS Belt・Blue | 夏爾恩腰帶【ＧＳ】・青 |
 | 5604 | Shaln GP Belt・Blue | 夏爾恩腰帶【ＧＰ】・青 |
@@ -303,20 +303,20 @@
 | 5797 | 翡戸隠G【虎布】 | 翡戸隠虎布腰甲【Ｇ】 |
 | 5798 | 翡戸隠GF【虎布】 | 虎布翡戸隠腰甲 |
 | 5799 | 翡戸隠GX【虎布】 | 翡戸隠虎布腰甲【ＧＸ】 |
-| 5800 | Blize Faulds | 布萊茲腰甲 |
-| 5801 | Blize F Faulds | 布萊茲腰甲【Ｆ】 |
+| 5800 | Blize Faulds | 布來茲腰甲 |
+| 5801 | Blize F Faulds | 布來茲腰甲【Ｆ】 |
 | 5802 | Blize FY Faulds | 布伊茲艾腰甲 |
-| 5803 | Blize HS Faulds | 布萊茲腰甲【ＨＳ】 |
-| 5804 | Blize G Faulds | 布萊茲腰甲【Ｇ】 |
-| 5805 | Blize GF Faulds | 布萊茲腰甲【ＧＦ】 |
-| 5806 | Blize GX Faulds | 布萊茲腰甲【ＧＸ】 |
-| 5807 | Blize Coat | 布萊茲腰衣 |
-| 5808 | Blize F Coat | 布萊茲腰衣【Ｆ】 |
+| 5803 | Blize HS Faulds | 布來茲腰甲【ＨＳ】 |
+| 5804 | Blize G Faulds | 布來茲腰甲【Ｇ】 |
+| 5805 | Blize GF Faulds | 布來茲腰甲【ＧＦ】 |
+| 5806 | Blize GX Faulds | 布來茲腰甲【ＧＸ】 |
+| 5807 | Blize Coat | 布來茲腰衣 |
+| 5808 | Blize F Coat | 布來茲腰衣【Ｆ】 |
 | 5809 | Blize FY Coat | 布伊茲艾腰衣 |
-| 5810 | Blize HS Coat | 布萊茲腰衣【ＨＳ】 |
-| 5811 | Blize G Coat | 布萊茲腰衣【Ｇ】 |
-| 5812 | Blize GF Coat | 布萊茲腰衣【ＧＦ】 |
-| 5813 | Blize GX Coat | 布萊茲腰衣【ＧＸ】 |
+| 5810 | Blize HS Coat | 布來茲腰衣【ＨＳ】 |
+| 5811 | Blize G Coat | 布來茲腰衣【Ｇ】 |
+| 5812 | Blize GF Coat | 布來茲腰衣【ＧＦ】 |
+| 5813 | Blize GX Coat | 布來茲腰衣【ＧＸ】 |
 | 5814 | Mixes FY Faulds | 姆伊克斯腰甲 |
 | 5815 | Mixes HS Faulds | 混搭腰甲【ＨＳ】 |
 | 5816 | Mixes G Faulds | 混搭腰甲【Ｇ】 |
@@ -339,18 +339,18 @@
 | 5833 | Zyra HS Coat・Green | 齊拉腰衣【ＨＳ】・緑 |
 | 5834 | Zyra GS Coat・Green | 齊拉腰衣【ＧＳ】・緑 |
 | 5835 | Zyra GP Coat・Green | 齊拉腰衣【ＧＰ】・緑 |
-| 5836 | Zyra Coil・Water | 齊拉水腰甲 |
-| 5837 | Zyra F Coil・Water | 齊拉水腰甲【Ｆ】 |
-| 5838 | Zyra FZ Coil・Water | 齊拉水腰甲【ＦＺ】 |
-| 5839 | Zyra HS Coil・Water | 齊拉水腰甲【ＨＳ】 |
-| 5840 | Zyra GS Coil・Water | 齊拉水腰甲【ＧＳ】 |
-| 5841 | Zyra GP Coil・Water | 齊拉水腰甲【ＧＰ】 |
-| 5842 | Zyra Coat・Water | 齊拉水腰衣 |
-| 5843 | Zyra F Coat・Water | 齊拉水腰衣【Ｆ】 |
-| 5844 | Zyra FZ Coat・Water | 齊拉水腰衣【ＦＺ】 |
-| 5845 | Zyra HS Coat・Water | 齊拉水腰衣【ＨＳ】 |
-| 5846 | Zyra GS Coat・Water | 齊拉水腰衣【ＧＳ】 |
-| 5847 | Zyra GP Coat・Water | 齊拉水腰衣【ＧＰ】 |
+| 5836 | Zyra Coil・Water | 齊拉腰甲・水 |
+| 5837 | Zyra F Coil・Water | 齊拉腰甲【Ｆ】・水 |
+| 5838 | Zyra FZ Coil・Water | 齊拉腰甲【ＦＺ】・水 |
+| 5839 | Zyra HS Coil・Water | 齊拉腰甲【ＨＳ】・水 |
+| 5840 | Zyra GS Coil・Water | 齊拉腰甲【ＧＳ】・水 |
+| 5841 | Zyra GP Coil・Water | 齊拉腰甲【ＧＰ】・水 |
+| 5842 | Zyra Coat・Water | 齊拉腰衣・水 |
+| 5843 | Zyra F Coat・Water | 齊拉腰衣【Ｆ】・水 |
+| 5844 | Zyra FZ Coat・Water | 齊拉腰衣【ＦＺ】・水 |
+| 5845 | Zyra HS Coat・Water | 齊拉腰衣【ＨＳ】・水 |
+| 5846 | Zyra GS Coat・Water | 齊拉腰衣【ＧＳ】・水 |
+| 5847 | Zyra GP Coat・Water | 齊拉腰衣【ＧＰ】・水 |
 | 5848 | Zyra Coil・Red | 齊拉腰甲・赤 |
 | 5849 | Zyra F Coil・Red | 齊拉腰甲【Ｆ】・赤 |
 | 5850 | Zyra FZ Coil・Red | 齊拉腰甲【ＦＺ】・赤 |

@@ -32,13 +32,13 @@
 | 525 | Fest Victor's Crown | 優勝冠 |
 | 526 | Fest Victor's Crown | 優勝冠 |
 | 527 | Fest Victor's Crown | 優勝冠 |
-| 528 | Hot White Masque | 赫歐特面罩・白 |
+| 528 | Hot White Masque | 熱面罩・白 |
 | 529 | Hot Brown Masque | 赫歐特歐面罩 |
-| 530 | Hot Black Masque | 赫歐特面罩・黑 |
+| 530 | Hot Black Masque | 熱面罩・黑 |
 | 531 | Hot Pale Masque | 赫歐特阿面罩 |
-| 532 | Cool White Masque | 克歐爾面罩・白 |
+| 532 | Cool White Masque | 涼面罩・白 |
 | 533 | Cool Brown Masque | 克歐爾歐面罩 |
-| 534 | Cool Black Masque | 克歐爾面罩・黑 |
+| 534 | Cool Black Masque | 涼面罩・黑 |
 | 535 | Cool Pale Masque | 克歐爾阿面罩 |
 | 536 | Sky White Masque | 天空面罩・白 |
 | 537 | Sky Brown Masque | 斯歐沃面罩 |
@@ -345,7 +345,7 @@
 | 838 | Hypnolia Piercing | 赫歐爾伊耳飾 |
 | 839 | Feral Head | 芙艾爾阿頭兜 |
 | 840 | Feral Piercing | 芙艾爾阿耳飾 |
-| 841 | Demon Lord Horn | 德艾姆歐角 |
+| 841 | Demon Lord Horn | 魔王角 |
 | 842 | Rasta Instructor Cap | 賴狩人兜帽 |
 | 843 | Infant Horn | 伊恩阿恩角 |
 | 844 | ダミー | (dummy) |
@@ -501,7 +501,7 @@
 | 994 | Remobra Mask SP White | 翼蛇龍帽子【ＳＰ】・白 |
 | 995 | Remobra Mask SP Yellow | 翼蛇龍帽子【ＳＰ】・黄 |
 | 996 | Remobra Mask SP Black | 翼蛇龍帽子【ＳＰ】・黑 |
-| 997 | G・Knight Mask SP Red | 騎士帽子【Ｇ】【ＳＰ】・赤 |
-| 998 | G・Knight Mask SP Blue | 騎士帽子【Ｇ】【ＳＰ】・青 |
-| 999 | G・Knight Mask SP Purple | 騎士帽子【Ｇ】【ＳＰ】・紫 |
+| 997 | G・Knight Mask SP Red | 騎士帽子【ＳＰ】・赤 |
+| 998 | G・Knight Mask SP Blue | 騎士帽子【ＳＰ】・青 |
+| 999 | G・Knight Mask SP Purple | 騎士帽子【ＳＰ】・紫 |
 

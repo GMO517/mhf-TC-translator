@@ -29,9 +29,9 @@
 | 2523 | Turquoise F Coat | 緑松石腰衣【Ｆ】 |
 | 2524 | Turquoise FX Coat | 緑松石腰衣【ＦＸ】 |
 | 2525 | Valued Word Obi | 珍言帶 |
-| 2526 | Valued Word Obi・魁 | 魁帶 |
-| 2527 | Valued Word Obi・Smart | 珍言機靈帶 |
-| 2528 | Valued Word Obi・Flower | 芙阿爾烏帶 |
+| 2526 | Valued Word Obi・魁 | 珍言帶魁 |
+| 2527 | Valued Word Obi・Smart | 珍言帶 |
+| 2528 | Valued Word Obi・Flower | 珍言帶 |
 | 2529 | 式部ノ Obi | 式部帶 |
 | 2530 | 式部ノ Obi・魁 | 式部魁帶 |
 | 2531 | 式部ノ Obi・Smart | 機靈帶 |
@@ -60,8 +60,8 @@
 | 2554 | Strega HC Coat | 魔女腰衣【ＨＣ】 |
 | 2555 | Zaakaa HC Coil | 茲阿克阿腰甲【ＨＣ】 |
 | 2556 | Chaser HC Belt | 追撃腰帶【ＨＣ】 |
-| 2557 | Demon Lord ノ虎布・Extreme | 惡魔腰甲 |
-| 2558 | Demon Lord ノ虎布・Heaven | 惡魔腰甲・天 |
+| 2557 | Demon Lord ノ虎布・Extreme | 魔王腰甲 |
+| 2558 | Demon Lord ノ虎布・Heaven | 魔王天腰甲 |
 | 2559 | 童子ノ虎布・Extreme | 童子虎布腰甲 |
 | 2560 | 童子ノ虎布・Heaven | 童子虎布腰甲・天 |
 | 2561 | アナキF Waist | 阿納基腰甲【Ｆ】 |
@@ -70,7 +70,7 @@
 | 2564 | アナキF Belt | 阿納基腰帶【Ｆ】 |
 | 2565 | アナキFY Belt | 阿納基腰帶 |
 | 2566 | アナキHC Belt | 阿納基腰帶【ＨＣ】 |
-| 2567 | Royal FY Coil | 爾歐伊阿腰甲 |
+| 2567 | Royal FY Coil | 王室腰甲 |
 | 2568 | Royal HC Coil | 王室腰甲【ＨＣ】 |
 | 2569 | Lord FY Belt | 爾歐爾腰帶 |
 | 2570 | Lord HC Belt | 爾歐爾腰帶【ＨＣ】 |
@@ -91,12 +91,12 @@
 | 2585 | Ceanataur RX Faulds | 鎌蟹腰甲 |
 | 2586 | Espinas RX Navel | 棘龍臍甲 |
 | 2587 | Monodevil RX Coat | 姆歐恩歐腰衣 |
-| 2588 | Cayssis Coil Water | 凱西斯水腰甲 |
-| 2589 | Cayssis F Coil Water | 凱西斯水腰甲【Ｆ】 |
-| 2590 | Cayssis FZ Coil Water | 凱西斯水腰甲【ＦＺ】 |
-| 2591 | Cayssis Coat Water | 凱西斯水腰衣 |
-| 2592 | Cayssis F Coat Water | 凱西斯水腰衣【Ｆ】 |
-| 2593 | Cayssis FZ Coat Water | 凱西斯水腰衣【ＦＺ】 |
+| 2588 | Cayssis Coil Water | 凱西斯腰甲・水 |
+| 2589 | Cayssis F Coil Water | 凱西斯腰甲【Ｆ】・水 |
+| 2590 | Cayssis FZ Coil Water | 凱西斯腰甲【ＦＺ】・水 |
+| 2591 | Cayssis Coat Water | 凱西斯腰衣・水 |
+| 2592 | Cayssis F Coat Water | 凱西斯腰衣【Ｆ】・水 |
+| 2593 | Cayssis FZ Coat Water | 凱西斯腰衣【ＦＺ】・水 |
 | 2594 | Cayssis Coil Red | 凱西斯腰甲・赤 |
 | 2595 | Cayssis F Coil Red | 凱西斯腰甲【Ｆ】・赤 |
 | 2596 | Cayssis FZ Coil Red | 凱西斯腰甲【ＦＺ】・赤 |
@@ -115,10 +115,10 @@
 | 2609 | Cayssis Coat Orange | 凱西斯腰衣・橙 |
 | 2610 | Cayssis F Coat Orange | 凱西斯腰衣【Ｆ】・橙 |
 | 2611 | Cayssis FZ Coat Orange | 凱西斯腰衣【ＦＺ】・橙 |
-| 2612 | Rolling Sky の腰当て | の腰當 |
-| 2613 | Rolling Sky の腰当て・魁 | の魁腰當 |
-| 2614 | Rolling Earth の腰当て | の腰當・地 |
-| 2615 | Rolling Earth の腰当て・魁 | の魁腰當・地 |
+| 2612 | Rolling Sky の腰当て | 滾天腰當・天 |
+| 2613 | Rolling Sky の腰当て・魁 | 滾天腰當魁・天 |
+| 2614 | Rolling Earth の腰当て | 滾地腰當 |
+| 2615 | Rolling Earth の腰当て・魁 | 滾地腰當魁 |
 | 2616 | Cubie Coil | 方塊腰甲 |
 | 2617 | Cubie F Coil | 方塊腰甲【Ｆ】 |
 | 2618 | Cubie FZ Coil | 方塊腰甲【ＦＺ】 |
@@ -235,10 +235,10 @@
 | 2729 | Riot FZ Coat | 暴動腰衣【ＦＺ】 |
 | 2730 | Rutare FZ Faulds | 魯塔雷腰甲【ＦＺ】 |
 | 2731 | Rutare FZ Coat | 魯塔雷腰衣【ＦＺ】 |
-| 2732 | Rolling Flow の腰当て・Elegant | の腰當 |
+| 2732 | Rolling Flow の腰当て・Elegant | 滾流腰當 |
 | 2733 | 旋転の腰当て・Elegant | 旋転の腰當 |
-| 2734 | Rolling Sky の腰当て・Elegant | の腰當 |
-| 2735 | Rolling Earth の腰当て・Elegant | の腰當・地 |
+| 2734 | Rolling Sky の腰当て・Elegant | 滾天腰當・天 |
+| 2735 | Rolling Earth の腰当て・Elegant | 滾地腰當 |
 | 2736 | Odiva Faulds | 奧蒂瓦腰甲 |
 | 2737 | Odiva F Faulds | 奧蒂瓦腰甲【Ｆ】 |
 | 2738 | Odiva FX Faulds | 奧蒂瓦腰甲【ＦＸ】 |
@@ -455,13 +455,13 @@
 | 2949 | Suriito HC Coat・Red | 斯里托腰衣【ＨＣ】・赤 |
 | 2950 | Suriito HC Coil・Blue | 斯里托腰甲【ＨＣ】・青 |
 | 2951 | Suriito HC Coat・Blue | 斯里托腰衣【ＨＣ】・青 |
-| 2952 | Steno HC Elytra ー・Orange | 水竜翅腰【ＨＣ】 |
+| 2952 | Steno HC Elytra ー・Orange | 水竜翅腰【ＨＣ】・橙 |
 | 2953 | Steno HC Coat・Orange | 水竜腰衣【ＨＣ】・橙 |
-| 2954 | Steno HC Elytra ー・Peach | 水竜翅腰【ＨＣ】 |
+| 2954 | Steno HC Elytra ー・Peach | 水竜翅腰【ＨＣ】・桃 |
 | 2955 | Steno HC Coat・Peach | 水竜腰衣【ＨＣ】・桃 |
-| 2956 | Steno HC Elytra ー・Blue | 水竜翅腰【ＨＣ】 |
+| 2956 | Steno HC Elytra ー・Blue | 水竜翅腰【ＨＣ】・青 |
 | 2957 | Steno HC Coat・Blue | 水竜腰衣【ＨＣ】・青 |
-| 2958 | Steno HC Elytra ー・Red | 水竜翅腰【ＨＣ】 |
+| 2958 | Steno HC Elytra ー・Red | 水竜翅腰【ＨＣ】・赤 |
 | 2959 | Steno HC Coat・Red | 水竜腰衣【ＨＣ】・赤 |
 | 2960 | Rage FZ Coil | 憤怒腰甲【ＦＺ】 |
 | 2961 | Rage HC Coil | 憤怒腰甲【ＨＣ】 |

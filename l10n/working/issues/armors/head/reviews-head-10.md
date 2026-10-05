@@ -19,7 +19,7 @@
 | 4513 | Smart HC Head | 機靈頭兜【ＨＣ】 |
 | 4514 | ゴウ Beretta | 戈烏貝雷塔 |
 | 4515 | ゴウ Beretta F | 戈烏貝雷塔【Ｆ】 |
-| 4516 | Ahaba ーGS Piercing | 耳飾【ＧＳ】 |
+| 4516 | Ahaba ーGS Piercing | 阿哈巴耳飾【ＧＳ】 |
 | 4517 | クローニーGS Piercing | 庫羅尼耳飾【ＧＳ】 |
 | 4518 | Gougarf FX Helm | 鬥獸頭兜【ＦＸ】 |
 | 4519 | Gougarf HS Helm | 鬥獸頭兜【ＨＳ】 |
@@ -195,12 +195,12 @@
 | 4689 | Galitos HC Band・Black | 加里托斯頭帶【ＨＣ】・黑 |
 | 4690 | Galitos HS Band・Black | 加里托斯頭帶【ＨＳ】・黑 |
 | 4691 | Galitos GS Band・Black | 加里托斯頭帶【ＧＳ】・黑 |
-| 4692 | Galitos HC Head・Water | 加里托斯水頭兜【ＨＣ】 |
-| 4693 | Galitos HS Head・Water | 加里托斯水頭兜【ＨＳ】 |
-| 4694 | Galitos GS Head・Water | 加里托斯水頭兜【ＧＳ】 |
-| 4695 | Galitos HC Band・Water | 加里托斯水頭帶【ＨＣ】 |
-| 4696 | Galitos HS Band・Water | 加里托斯水頭帶【ＨＳ】 |
-| 4697 | Galitos GS Band・Water | 加里托斯水頭帶【ＧＳ】 |
+| 4692 | Galitos HC Head・Water | 加里托斯頭兜【ＨＣ】・水 |
+| 4693 | Galitos HS Head・Water | 加里托斯頭兜【ＨＳ】・水 |
+| 4694 | Galitos GS Head・Water | 加里托斯頭兜【ＧＳ】・水 |
+| 4695 | Galitos HC Band・Water | 加里托斯頭帶【ＨＣ】・水 |
+| 4696 | Galitos HS Band・Water | 加里托斯頭帶【ＨＳ】・水 |
+| 4697 | Galitos GS Band・Water | 加里托斯頭帶【ＧＳ】・水 |
 | 4698 | Star Festival FZ Mask [Blue 】 | 星祭帽子【ＦＺ】・青 |
 | 4699 | Star Festival HC Mask [Blue 】 | 星祭帽子【ＨＣ】・青 |
 | 4700 | Star Festival HS Mask [Blue 】 | 星祭帽子【ＨＳ】・青 |
@@ -337,12 +337,12 @@
 | 4831 | Beru G Cap | 舞雷龍兜帽【Ｇ】 |
 | 4832 | Beru GF Cap | 舞雷龍兜帽【ＧＦ】 |
 | 4833 | Beru GX Cap | 舞雷龍兜帽【ＧＸ】 |
-| 4834 | Black Gravios G Helm | 鎧龍頭兜【Ｇ】・黑 |
-| 4835 | Black Gravios GF Helm | 鎧龍頭兜【ＧＦ】・黑 |
-| 4836 | Black Gravios GX Helm | 鎧龍頭兜【ＧＸ】・黑 |
-| 4837 | Black Gravios G Cap | 鎧龍兜帽【Ｇ】・黑 |
-| 4838 | Black Gravios GF Cap | 鎧龍兜帽【ＧＦ】・黑 |
-| 4839 | Black Gravios GX Cap | 鎧龍兜帽【ＧＸ】・黑 |
+| 4834 | Black Gravios G Helm | 黑鎧龍頭兜【Ｇ】 |
+| 4835 | Black Gravios GF Helm | 黑鎧龍頭兜【ＧＦ】 |
+| 4836 | Black Gravios GX Helm | 黑鎧龍頭兜【ＧＸ】 |
+| 4837 | Black Gravios G Cap | 黑鎧龍兜帽【Ｇ】 |
+| 4838 | Black Gravios GF Cap | 黑鎧龍兜帽【ＧＦ】 |
+| 4839 | Black Gravios GX Cap | 黑鎧龍兜帽【ＧＸ】 |
 | 4840 | Lune G Helm | 月頭兜【Ｇ】 |
 | 4841 | Lune GF Helm | 月頭兜【ＧＦ】 |
 | 4842 | Lune GX Helm | 月頭兜【ＧＸ】 |

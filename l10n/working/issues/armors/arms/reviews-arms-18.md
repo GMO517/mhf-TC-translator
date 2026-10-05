@@ -142,21 +142,21 @@
 | 8636 | Magos GP Guard・Yellow | 瑪戈斯臂甲【ＧＰ】・黄 |
 | 8637 | Magos GP Arms・Red | 瑪戈斯護腕【ＧＰ】・赤 |
 | 8638 | Magos GP Guard・Red | 瑪戈斯臂甲【ＧＰ】・赤 |
-| 8639 | Magos GP Arms・Water | 瑪戈斯水護腕【ＧＰ】 |
-| 8640 | Magos GP Guard・Water | 瑪戈斯水臂甲【ＧＰ】 |
+| 8639 | Magos GP Arms・Water | 瑪戈斯護腕【ＧＰ】・水 |
+| 8640 | Magos GP Guard・Water | 瑪戈斯臂甲【ＧＰ】・水 |
 | 8641 | Magos GP Arms・Blue | 瑪戈斯護腕【ＧＰ】・青 |
 | 8642 | Magos GP Guard・Blue | 瑪戈斯臂甲【ＧＰ】・青 |
-| 8643 | Yukumo ノコテ・Heaven | 結雲天護腕・天 |
-| 8644 | Yukumo ノコテG・Heaven | 結雲天護腕【Ｇ】・天 |
-| 8645 | Yukumo ノコテGF・Heaven | 結雲天護腕【Ｆ】・天 |
-| 8646 | Yukumo ノコテGX・Heaven | 結雲天護腕【ＧＸ】・天 |
+| 8643 | Yukumo ノコテ・Heaven | 結雲天護腕 |
+| 8644 | Yukumo ノコテG・Heaven | 結雲天護腕【Ｇ】 |
+| 8645 | Yukumo ノコテGF・Heaven | 結雲天護腕【Ｆ】 |
+| 8646 | Yukumo ノコテGX・Heaven | 結雲天護腕【ＧＸ】 |
 | 8647 | Furogada G Arms | 芙烏爾歐護腕【Ｇ】 |
 | 8648 | Furogada GF Arms | 芙烏爾歐護腕【ＧＦ】 |
 | 8649 | Furogada GX Arms | 芙烏爾歐護腕【ＧＸ】 |
-| 8650 | Yukumo ノコテ・Earth | 地護腕・地 |
-| 8651 | Yukumo ノコテG・Earth | 地護腕【Ｇ】・地 |
-| 8652 | Yukumo ノコテGF・Earth | 地護腕【Ｆ】・地 |
-| 8653 | Yukumo ノコテGX・Earth | 地護腕【ＧＸ】・地 |
+| 8650 | Yukumo ノコテ・Earth | 結雲地護腕 |
+| 8651 | Yukumo ノコテG・Earth | 結雲地護腕【Ｇ】 |
+| 8652 | Yukumo ノコテGF・Earth | 結雲地護腕【Ｆ】 |
+| 8653 | Yukumo ノコテGX・Earth | 結雲地護腕【ＧＸ】 |
 | 8654 | Furogada G Guard | 芙烏爾歐臂甲【Ｇ】 |
 | 8655 | Furogada GF Guard | 芙烏爾歐臂甲【ＧＦ】 |
 | 8656 | Furogada GX Guard | 芙烏爾歐臂甲【ＧＸ】 |
@@ -328,8 +328,8 @@
 | 8822 | Pics GP Guard・Purple | 皮克斯臂甲【ＧＰ】・紫 |
 | 8823 | Pics GP Arms・Black | 皮克斯護腕【ＧＰ】・黑 |
 | 8824 | Pics GP Guard・Black | 皮克斯臂甲【ＧＰ】・黑 |
-| 8825 | Pics GP Arms・Water | 皮克斯水護腕【ＧＰ】 |
-| 8826 | Pics GP Guard・Water | 皮克斯水臂甲【ＧＰ】 |
+| 8825 | Pics GP Arms・Water | 皮克斯護腕【ＧＰ】・水 |
+| 8826 | Pics GP Guard・Water | 皮克斯臂甲【ＧＰ】・水 |
 | 8827 | ダミー | (dummy) |
 | 8828 | ダミー | (dummy) |
 | 8829 | Smart HS Arms | 機靈護腕【ＨＳ】 |

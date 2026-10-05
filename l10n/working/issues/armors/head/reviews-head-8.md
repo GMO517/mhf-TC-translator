@@ -145,16 +145,16 @@
 | 3639 | Gloria FZ Mask・Blue | 榮光帽子【ＦＺ】・青 |
 | 3640 | Gloria HC Mask・Blue | 榮光帽子【ＨＣ】・青 |
 | 3641 | Gloria HS Mask・Blue | 榮光帽子【ＨＳ】・青 |
-| 3642 | Gloria Helm・Water | 榮光水頭兜 |
-| 3643 | Gloria F Helm・Water | 榮光水頭兜【Ｆ】 |
-| 3644 | Gloria FZ Helm・Water | 榮光水頭兜【ＦＺ】 |
-| 3645 | Gloria HC Helm・Water | 榮光水頭兜【ＨＣ】 |
-| 3646 | Gloria HS Helm・Water | 榮光水頭兜【ＨＳ】 |
-| 3647 | Gloria Mask・Water | 榮光水帽子 |
-| 3648 | Gloria F Mask・Water | 榮光水帽子【Ｆ】 |
-| 3649 | Gloria FZ Mask・Water | 榮光水帽子【ＦＺ】 |
-| 3650 | Gloria HC Mask・Water | 榮光水帽子【ＨＣ】 |
-| 3651 | Gloria HS Mask・Water | 榮光水帽子【ＨＳ】 |
+| 3642 | Gloria Helm・Water | 榮光頭兜・水 |
+| 3643 | Gloria F Helm・Water | 榮光頭兜【Ｆ】・水 |
+| 3644 | Gloria FZ Helm・Water | 榮光頭兜【ＦＺ】・水 |
+| 3645 | Gloria HC Helm・Water | 榮光頭兜【ＨＣ】・水 |
+| 3646 | Gloria HS Helm・Water | 榮光頭兜【ＨＳ】・水 |
+| 3647 | Gloria Mask・Water | 榮光帽子・水 |
+| 3648 | Gloria F Mask・Water | 榮光帽子【Ｆ】・水 |
+| 3649 | Gloria FZ Mask・Water | 榮光帽子【ＦＺ】・水 |
+| 3650 | Gloria HC Mask・Water | 榮光帽子【ＨＣ】・水 |
+| 3651 | Gloria HS Mask・Water | 榮光帽子【ＨＳ】・水 |
 | 3652 | Gloria Helm・Red | 榮光頭兜・赤 |
 | 3653 | Gloria F Helm・Red | 榮光頭兜【Ｆ】・赤 |
 | 3654 | Gloria FZ Helm・Red | 榮光頭兜【ＦＺ】・赤 |
@@ -205,16 +205,16 @@
 | 3699 | Reppa FZ Hachimaki・Yellow | 烈破鉢卷【ＦＺ】・黄 |
 | 3700 | Reppa HC Hachimaki・Yellow | 烈破鉢卷【ＨＣ】・黄 |
 | 3701 | Reppa HS Hachimaki・Yellow | 烈破鉢卷【ＨＳ】・黄 |
-| 3702 | Cannon Beret・Water | 加農水貝雷帽 |
-| 3703 | Cannon F Beret・Water | 加農水貝雷帽【Ｆ】 |
-| 3704 | Cannon FZ Beret・Water | 加農水貝雷帽【ＦＺ】 |
-| 3705 | Cannon HC Beret・Water | 加農水貝雷帽【ＨＣ】 |
-| 3706 | Cannon HS Beret・Water | 加農水貝雷帽【ＨＳ】 |
-| 3707 | Axel Beret・Water | 輪軸水貝雷帽 |
-| 3708 | Axel F Beret・Water | 輪軸水貝雷帽【Ｆ】 |
-| 3709 | Axel FZ Beret・Water | 輪軸水貝雷帽【ＦＺ】 |
-| 3710 | Axel HC Beret・Water | 輪軸水貝雷帽【ＨＣ】 |
-| 3711 | Axel HS Beret・Water | 輪軸水貝雷帽【ＨＳ】 |
+| 3702 | Cannon Beret・Water | 加農貝雷帽・水 |
+| 3703 | Cannon F Beret・Water | 加農貝雷帽【Ｆ】・水 |
+| 3704 | Cannon FZ Beret・Water | 加農貝雷帽【ＦＺ】・水 |
+| 3705 | Cannon HC Beret・Water | 加農貝雷帽【ＨＣ】・水 |
+| 3706 | Cannon HS Beret・Water | 加農貝雷帽【ＨＳ】・水 |
+| 3707 | Axel Beret・Water | 輪軸貝雷帽・水 |
+| 3708 | Axel F Beret・Water | 輪軸貝雷帽【Ｆ】・水 |
+| 3709 | Axel FZ Beret・Water | 輪軸貝雷帽【ＦＺ】・水 |
+| 3710 | Axel HC Beret・Water | 輪軸貝雷帽【ＨＣ】・水 |
+| 3711 | Axel HS Beret・Water | 輪軸貝雷帽【ＨＳ】・水 |
 | 3712 | Cannon Beret・Green | 加農貝雷帽・緑 |
 | 3713 | Cannon F Beret・Green | 加農貝雷帽【Ｆ】・緑 |
 | 3714 | Cannon FZ Beret・Green | 加農貝雷帽【ＦＺ】・緑 |
@@ -444,16 +444,16 @@
 | 3938 | Magos FZ Haar・Red | 瑪戈斯髮【ＦＺ】・赤 |
 | 3939 | Magos HC Haar・Red | 瑪戈斯髮【ＨＣ】・赤 |
 | 3940 | Magos HS Haar・Red | 瑪戈斯髮【ＨＳ】・赤 |
-| 3941 | Magos Head・Water | 瑪戈斯水頭兜 |
-| 3942 | Magos F Head・Water | 瑪戈斯水頭兜【Ｆ】 |
-| 3943 | Magos FZ Head・Water | 瑪戈斯水頭兜【ＦＺ】 |
-| 3944 | Magos HC Head・Water | 瑪戈斯水頭兜【ＨＣ】 |
-| 3945 | Magos HS Head・Water | 瑪戈斯水頭兜【ＨＳ】 |
-| 3946 | Magos Haar・Water | 瑪戈斯水髮 |
-| 3947 | Magos F Haar・Water | 瑪戈斯水髮【Ｆ】 |
-| 3948 | Magos FZ Haar・Water | 瑪戈斯水髮【ＦＺ】 |
-| 3949 | Magos HC Haar・Water | 瑪戈斯水髮【ＨＣ】 |
-| 3950 | Magos HS Haar・Water | 瑪戈斯水髮【ＨＳ】 |
+| 3941 | Magos Head・Water | 瑪戈斯頭兜・水 |
+| 3942 | Magos F Head・Water | 瑪戈斯頭兜【Ｆ】・水 |
+| 3943 | Magos FZ Head・Water | 瑪戈斯頭兜【ＦＺ】・水 |
+| 3944 | Magos HC Head・Water | 瑪戈斯頭兜【ＨＣ】・水 |
+| 3945 | Magos HS Head・Water | 瑪戈斯頭兜【ＨＳ】・水 |
+| 3946 | Magos Haar・Water | 瑪戈斯髮・水 |
+| 3947 | Magos F Haar・Water | 瑪戈斯髮【Ｆ】・水 |
+| 3948 | Magos FZ Haar・Water | 瑪戈斯髮【ＦＺ】・水 |
+| 3949 | Magos HC Haar・Water | 瑪戈斯髮【ＨＣ】・水 |
+| 3950 | Magos HS Haar・Water | 瑪戈斯髮【ＨＳ】・水 |
 | 3951 | Magos Head・Blue | 瑪戈斯頭兜・青 |
 | 3952 | Magos F Head・Blue | 瑪戈斯頭兜【Ｆ】・青 |
 | 3953 | Magos FZ Head・Blue | 瑪戈斯頭兜【ＦＺ】・青 |
@@ -468,8 +468,8 @@
 | 3962 | Magos GS Haar・Yellow | 瑪戈斯髮【ＧＳ】・黄 |
 | 3963 | Magos GS Head・Red | 瑪戈斯頭兜【ＧＳ】・赤 |
 | 3964 | Magos GS Haar・Red | 瑪戈斯髮【ＧＳ】・赤 |
-| 3965 | Magos GS Head・Water | 瑪戈斯水頭兜【ＧＳ】 |
-| 3966 | Magos GS Haar・Water | 瑪戈斯水髮【ＧＳ】 |
+| 3965 | Magos GS Head・Water | 瑪戈斯頭兜【ＧＳ】・水 |
+| 3966 | Magos GS Haar・Water | 瑪戈斯髮【ＧＳ】・水 |
 | 3967 | Magos GS Head・Blue | 瑪戈斯頭兜【ＧＳ】・青 |
 | 3968 | Magos GS Haar・Blue | 瑪戈斯髮【ＧＳ】・青 |
 | 3969 | Red 備ノ具足 Kabuto | 備具足兜・赤 |

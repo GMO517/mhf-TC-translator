@@ -31,9 +31,9 @@
 | 12025 | High Metal Mail PD Black | 上位金屬鎧甲【ＰＤ】・黑 |
 | 12026 | High Metal Mail PD Blue | 上位金屬鎧甲【ＰＤ】・青 |
 | 12027 | High Metal Mail PD Yellow | 上位金屬鎧甲【ＰＤ】・黄 |
-| 12028 | S・Sol Mail PD Red | 日鎧甲【Ｓ】【ＰＤ】・赤 |
-| 12029 | S・Sol Mail PD Purple | 日鎧甲【Ｓ】【ＰＤ】・紫 |
-| 12030 | S・Sol Mail PD Black | 日鎧甲【Ｓ】【ＰＤ】・黑 |
+| 12028 | S・Sol Mail PD Red | S索倫鎧甲【ＰＤ】・赤 |
+| 12029 | S・Sol Mail PD Purple | S索倫鎧甲【ＰＤ】・紫 |
+| 12030 | S・Sol Mail PD Black | S索倫鎧甲【ＰＤ】・黑 |
 | 12031 | Garuga Vest PD White | 黑狼鳥背心【ＰＤ】・白 |
 | 12032 | Garuga Vest PD Green | 黑狼鳥背心【ＰＤ】・緑 |
 | 12033 | Garuga Vest PD Red | 黑狼鳥背心【ＰＤ】・赤 |
@@ -43,9 +43,9 @@
 | 12037 | Kushala Diru PD Red | 鋼龍上衣【ＰＤ】・赤 |
 | 12038 | Kushala Diru PD Yellow | 鋼龍上衣【ＰＤ】・黄 |
 | 12039 | Kushala Diru PD Green | 鋼龍上衣【ＰＤ】・緑 |
-| 12040 | Kushala バダル PD Red | 鋼龍鎧甲【ＰＤ】 |
-| 12041 | Kushala バダル PD Yellow | 鋼龍鎧甲【ＰＤ】 |
-| 12042 | Kushala バダル PD Green | 鋼龍鎧甲【ＰＤ】 |
+| 12040 | Kushala バダル PD Red | 鋼龍鎧甲【ＰＤ】・赤 |
+| 12041 | Kushala バダル PD Yellow | 鋼龍鎧甲【ＰＤ】・黄 |
+| 12042 | Kushala バダル PD Green | 鋼龍鎧甲【ＰＤ】・緑 |
 | 12043 | 忍の Shozoku・陽D | 忍の陽裝束 |
 | 12044 | 忍の Shozoku・陰D | 忍の陰裝束 |
 | 12045 | Bonne D Mail | 布歐恩艾鎧甲 |
@@ -232,7 +232,7 @@
 | 12226 | Byakko・双龍D Mail | 双龍鎧甲 |
 | 12227 | Byakko・剣王D Mail | 剣王鎧甲 |
 | 12228 | Byakko・刀神D Mail | 刀神鎧甲 |
-| 12229 | Byakko・Heaven 槍D Mail | 槍鎧甲・天 |
+| 12229 | Byakko・Heaven 槍D Mail | 槍天鎧甲 |
 | 12230 | Byakko・砲皇D Mail | 砲皇鎧甲 |
 | 12231 | Byakko・鈍器獣D Mail | 鈍器獣鎧甲 |
 | 12232 | Byakko・奏帝D Mail | 奏帝鎧甲 |
@@ -240,7 +240,7 @@
 | 12234 | Byakko・斬将D Mail | 斬将鎧甲 |
 | 12235 | Byakko・銃傑D Suit | 銃傑套裝 |
 | 12236 | Byakko・銃仙D Suit | 銃仙套裝 |
-| 12237 | Byakko・Bow 鬼D Suit | 鬼套裝 |
+| 12237 | Byakko・Bow 鬼D Suit | 白虎套裝 |
 | 12238 | Kirin Vest PD Red | 麒麟背心【ＰＤ】・赤 |
 | 12239 | Kirin Vest PD Purple | 麒麟背心【ＰＤ】・紫 |
 | 12240 | Kirin Vest PD Black | 麒麟背心【ＰＤ】・黑 |
@@ -256,18 +256,18 @@
 | 12250 | Toyotama [Chest] PD Blue | 豐玉胸甲【ＰＤ】・青 |
 | 12251 | Toyotama [Chest] PD Red | 豐玉胸甲【ＰＤ】・赤 |
 | 12252 | Toyotama [Chest] PD Yellow | 豐玉胸甲【ＰＤ】・黄 |
-| 12253 | 暁丸【胴当て】 PD Red | 胴当て暁丸鎧甲【ＰＤ】・赤 |
-| 12254 | 暁丸【胴当て】 PD Purple | 胴当て暁丸鎧甲【ＰＤ】・紫 |
-| 12255 | 暁丸【胴当て】 PD White | 胴当て暁丸鎧甲【ＰＤ】・白 |
+| 12253 | 暁丸【胴当て】 PD Red | 暁丸胴當【ＰＤ】・赤 |
+| 12254 | 暁丸【胴当て】 PD Purple | 暁丸胴當【ＰＤ】・紫 |
+| 12255 | 暁丸【胴当て】 PD White | 暁丸胴當【ＰＤ】・白 |
 | 12256 | 凛 [Chestplate] PD Black | 凛胸甲【ＰＤ】・黑 |
 | 12257 | 凛 [Chestplate] PD Purple | 凛胸甲【ＰＤ】・紫 |
 | 12258 | 凛 [Chestplate] PD White | 凛胸甲【ＰＤ】・白 |
 | 12259 | Ceanataur Vest PD Red | 鎌蟹背心【ＰＤ】・赤 |
 | 12260 | Ceanataur Vest PD Black | 鎌蟹背心【ＰＤ】・黑 |
 | 12261 | Ceanataur Vest PD Yellow | 鎌蟹背心【ＰＤ】・黄 |
-| 12262 | Remobra ボディ PD White | 翼蛇龍鎧甲【ＰＤ】 |
-| 12263 | Remobra ボディ PD Yellow | 翼蛇龍鎧甲【ＰＤ】 |
-| 12264 | Remobra ボディ PD Black | 翼蛇龍鎧甲【ＰＤ】 |
+| 12262 | Remobra ボディ PD White | 翼蛇龍鎧甲【ＰＤ】・白 |
+| 12263 | Remobra ボディ PD Yellow | 翼蛇龍鎧甲【ＰＤ】・黄 |
+| 12264 | Remobra ボディ PD Black | 翼蛇龍鎧甲【ＰＤ】・黑 |
 | 12265 | Harze D Suit | 赫阿爾艾套裝 |
 | 12266 | Revenants D Muscle | 爾艾芙艾筋肉衣 |
 | 12267 | Kukubo D Vest | 克烏克烏背心 |
@@ -277,7 +277,7 @@
 | 12271 | Suzaku・双龍D Mail | 双龍鎧甲 |
 | 12272 | Suzaku・剣王D Mail | 剣王鎧甲 |
 | 12273 | Suzaku・刀神D Mail | 刀神鎧甲 |
-| 12274 | Suzaku・Heaven 槍D Mail | 槍鎧甲・天 |
+| 12274 | Suzaku・Heaven 槍D Mail | 槍天鎧甲 |
 | 12275 | Suzaku・砲皇D Mail | 砲皇鎧甲 |
 | 12276 | Suzaku・鈍器獣D Mail | 鈍器獣鎧甲 |
 | 12277 | Suzaku・奏帝D Mail | 奏帝鎧甲 |
@@ -285,10 +285,10 @@
 | 12279 | Suzaku・斬将D Mail | 斬将鎧甲 |
 | 12280 | Suzaku・銃傑D Suit | 銃傑套裝 |
 | 12281 | Suzaku・銃仙D Suit | 銃仙套裝 |
-| 12282 | Suzaku・Bow 鬼D Suit | 鬼套裝 |
-| 12283 | G・Knight Vest PD Red | 騎士背心【Ｇ】【ＰＤ】・赤 |
-| 12284 | G・Knight Vest PD Blue | 騎士背心【Ｇ】【ＰＤ】・青 |
-| 12285 | G・Knight Vest PD Purple | 騎士背心【Ｇ】【ＰＤ】・紫 |
+| 12282 | Suzaku・Bow 鬼D Suit | 朱雀套裝 |
+| 12283 | G・Knight Vest PD Red | 騎士背心【ＰＤ】・赤 |
+| 12284 | G・Knight Vest PD Blue | 騎士背心【ＰＤ】・青 |
+| 12285 | G・Knight Vest PD Purple | 騎士背心【ＰＤ】・紫 |
 | 12286 | PV Vest PD Red | 普背心【ＰＤ】・赤 |
 | 12287 | PV Vest PD Blue | 普背心【ＰＤ】・青 |
 | 12288 | PV Vest PD Purple | 普背心【ＰＤ】・紫 |
@@ -310,12 +310,12 @@
 | 12304 | Makluva Cover PD Green | 瑪克魯瓦罩鎧甲【ＰＤ】・緑 |
 | 12305 | Makluva Cover PD Blue | 瑪克魯瓦罩鎧甲【ＰＤ】・青 |
 | 12306 | Makluva Cover PD Black | 瑪克魯瓦罩鎧甲【ＰＤ】・黑 |
-| 12307 | Akantor ウルンテ PD Black | 霸龍鎧甲【ＰＤ】 |
-| 12308 | Akantor ウルンテ PD Red | 霸龍鎧甲【ＰＤ】 |
-| 12309 | Akantor ウルンテ PD White | 霸龍鎧甲【ＰＤ】 |
-| 12310 | Akantor ウルンペ PD Black | 霸龍鎧甲【ＰＤ】 |
-| 12311 | Akantor ウルンペ PD Red | 霸龍鎧甲【ＰＤ】 |
-| 12312 | Akantor ウルンペ PD White | 霸龍鎧甲【ＰＤ】 |
+| 12307 | Akantor ウルンテ PD Black | 霸龍鎧甲【ＰＤ】・黑 |
+| 12308 | Akantor ウルンテ PD Red | 霸龍鎧甲【ＰＤ】・赤 |
+| 12309 | Akantor ウルンテ PD White | 霸龍鎧甲【ＰＤ】・白 |
+| 12310 | Akantor ウルンペ PD Black | 霸龍鎧甲【ＰＤ】・黑 |
+| 12311 | Akantor ウルンペ PD Red | 霸龍鎧甲【ＰＤ】・赤 |
+| 12312 | Akantor ウルンペ PD White | 霸龍鎧甲【ＰＤ】・白 |
 | 12313 | Gravios Mail PD Black | 鎧龍鎧甲【ＰＤ】・黑 |
 | 12314 | Gravios Mail PD Blue | 鎧龍鎧甲【ＰＤ】・青 |
 | 12315 | Gravios Mail PD Red | 鎧龍鎧甲【ＰＤ】・赤 |

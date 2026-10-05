@@ -172,9 +172,9 @@
 | 10666 | Wander D Feet・Red | 沃阿恩艾足・赤 |
 | 10667 | Wander D Feet・White | 沃阿恩艾足・白 |
 | 10668 | Wander D Feet・Black | 沃阿恩艾足・黑 |
-| 10669 | Blue Ice Emperor D Feet | 伊克艾斯足・青 |
-| 10670 | White Ice Emperor D Feet | 伊克艾斯足・白 |
-| 10671 | Red Ice Emperor D Feet | 伊克艾斯足・赤 |
+| 10669 | Blue Ice Emperor D Feet | 青冰帝足 |
+| 10670 | White Ice Emperor D Feet | 白冰帝足 |
+| 10671 | Red Ice Emperor D Feet | 赤冰帝足 |
 | 10672 | Rance C Greaves | 爾阿恩艾護腿 |
 | 10673 | Santa D Feet | 斯阿恩阿足 |
 | 10674 | Anteka D Feet | 雪鹿足 |
@@ -215,7 +215,7 @@
 | 10709 | Pokara D Leggings | 普歐克阿裹腿 |
 | 10710 | Genesis D [Greaves 】 | 格艾恩艾護腿 |
 | 10711 | Motion D [Greaves 】 | 姆歐特伊護腿 |
-| 10712 | Lightning D [Greaves 】 | 爾伊格伊護腿 |
+| 10712 | Lightning D [Greaves 】 | 雷光護腿 |
 | 10713 | Thunder D [Greaves 】 | 雷護腿 |
 | 10714 | Toridcless D Greaves | 特歐爾伊護腿 |
 | 10715 | Toridcless D Leggings | 特歐爾伊裹腿 |
@@ -311,8 +311,8 @@
 | 10805 | Two-tone D Greaves | 特歐斯歐護腿 |
 | 10806 | King Beetle D Crura | 克伊恩艾腿甲 |
 | 10807 | Butterfly D Crura | 布烏特艾腿甲 |
-| 10808 | Demon Lord ノ足枷D | 惡魔護腿 |
-| 10809 | Demon Tale ノ足枷D | 惡魔護腿 |
+| 10808 | Demon Lord ノ足枷D | 魔王護腿 |
+| 10809 | Demon Tale ノ足枷D | 魔譚護腿 |
 | 10810 | 鬼凛ノ足枷D | 鬼凛足枷護腿 |
 | 10811 | Empress C Greaves | 女帝護腿 |
 | 10812 | Empress C Leggings | 女帝裹腿 |
@@ -323,7 +323,7 @@
 | 10817 | Nargacuga C Greaves | 恩阿爾阿護腿 |
 | 10818 | Nargacuga C Leggings | 恩阿爾阿裹腿 |
 | 10819 | Burning Cliff GX [Hakama 】 | 燃崖袴【ＧＸ】 |
-| 10820 | Crimson Cliff GX [Hakama 】 | 崖袴【ＧＸ】・紅 |
+| 10820 | Crimson Cliff GX [Hakama 】 | 深紅崖袴【ＧＸ】 |
 | 10821 | Vashimu Z Greaves | 尾晶蠍護腿【Ｚ】 |
 | 10822 | Vashimu ZF Greaves | 尾晶蠍護腿【ＺＦ】 |
 | 10823 | Vashimu ZY Greaves | 尾晶蠍護腿【ＺＹ】 |
@@ -480,19 +480,19 @@
 | 10974 | Lucchese D Feet | 爾烏克艾足 |
 | 10975 | Entora D Greaves | 艾恩歐爾護腿 |
 | 10976 | YoRHa No.9 Type S Feet | 寄葉九號型足【Ｓ】 |
-| 10977 | YoRHa No.9 Type S F Feet | 寄葉九號型足【Ｓ】【Ｆ】 |
-| 10978 | YoRHa No.9 Type S FZ Feet | 寄葉九號型足【Ｓ】【ＦＺ】 |
-| 10979 | YoRHa No.9 Type S HS Feet | 寄葉九號型足【Ｓ】【ＨＳ】 |
-| 10980 | YoRHa No.9 Type S GS Feet | 寄葉九號型足【Ｓ】【ＧＳ】 |
-| 10981 | YoRHa No.9 Type S GP Feet | 寄葉九號型足【Ｓ】【ＧＰ】 |
-| 10982 | YoRHa No.9 Type S ZP Feet | 寄葉九號型足【Ｓ】【ＺＰ】 |
+| 10977 | YoRHa No.9 Type S F Feet | 寄葉九號型足【Ｆ】 |
+| 10978 | YoRHa No.9 Type S FZ Feet | 寄葉九號型足【ＦＺ】 |
+| 10979 | YoRHa No.9 Type S HS Feet | 寄葉九號型足【ＨＳ】 |
+| 10980 | YoRHa No.9 Type S GS Feet | 寄葉九號型足【ＧＳ】 |
+| 10981 | YoRHa No.9 Type S GP Feet | 寄葉九號型足【ＧＰ】 |
+| 10982 | YoRHa No.9 Type S ZP Feet | 寄葉九號型足【ＺＰ】 |
 | 10983 | YoRHa No.9 Type S Boots | 寄葉九號型靴【Ｓ】 |
-| 10984 | YoRHa No.9 Type S F Boots | 寄葉九號型靴【Ｓ】【Ｆ】 |
-| 10985 | YoRHa No.9 Type S FZ Boots | 寄葉九號型靴【Ｓ】【ＦＺ】 |
-| 10986 | YoRHa No.9 Type S HS Boots | 寄葉九號型靴【Ｓ】【ＨＳ】 |
-| 10987 | YoRHa No.9 Type S GS Boots | 寄葉九號型靴【Ｓ】【ＧＳ】 |
-| 10988 | YoRHa No.9 Type S GP Boots | 寄葉九號型靴【Ｓ】【ＧＰ】 |
-| 10989 | YoRHa No.9 Type S ZP Boots | 寄葉九號型靴【Ｓ】【ＺＰ】 |
+| 10984 | YoRHa No.9 Type S F Boots | 寄葉九號型靴【Ｆ】 |
+| 10985 | YoRHa No.9 Type S FZ Boots | 寄葉九號型靴【ＦＺ】 |
+| 10986 | YoRHa No.9 Type S HS Boots | 寄葉九號型靴【ＨＳ】 |
+| 10987 | YoRHa No.9 Type S GS Boots | 寄葉九號型靴【ＧＳ】 |
+| 10988 | YoRHa No.9 Type S GP Boots | 寄葉九號型靴【ＧＰ】 |
+| 10989 | YoRHa No.9 Type S ZP Boots | 寄葉九號型靴【ＺＰ】 |
 | 10990 | YoRHa No.2 Type B Feet | 寄葉二號Ｂ型足 |
 | 10991 | YoRHa No.2 Type B F Feet | 寄葉二號Ｂ型足【Ｆ】 |
 | 10992 | YoRHa No.2 Type B FZ Feet | 寄葉二號Ｂ型足【ＦＺ】 |

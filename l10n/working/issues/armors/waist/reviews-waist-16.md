@@ -4,27 +4,27 @@
 
 | index | 原文 | 譯文 |
 |---|---|---|
-| 7501 | Ash HS Coil・White | 腰甲【ＨＳ】・灰・白 |
-| 7502 | Ash GS Coil・White | 腰甲【ＧＳ】・灰・白 |
-| 7503 | Ash GP Coil・White | 腰甲【ＧＰ】・灰・白 |
-| 7504 | Ash Coat・White | 腰衣・灰・白 |
-| 7505 | Ash F Coat・White | 腰衣【Ｆ】・灰・白 |
-| 7506 | Ash FZ Coat・White | 腰衣【ＦＺ】・灰・白 |
-| 7507 | Ash HS Coat・White | 腰衣【ＨＳ】・灰・白 |
-| 7508 | Ash GS Coat・White | 腰衣【ＧＳ】・灰・白 |
-| 7509 | Ash GP Coat・White | 腰衣【ＧＰ】・灰・白 |
-| 7510 | Ash Coil・Black | 腰甲・灰・黑 |
-| 7511 | Ash F Coil・Black | 腰甲【Ｆ】・灰・黑 |
-| 7512 | Ash FZ Coil・Black | 腰甲【ＦＺ】・灰・黑 |
-| 7513 | Ash HS Coil・Black | 腰甲【ＨＳ】・灰・黑 |
-| 7514 | Ash GS Coil・Black | 腰甲【ＧＳ】・灰・黑 |
-| 7515 | Ash GP Coil・Black | 腰甲【ＧＰ】・灰・黑 |
-| 7516 | Ash Coat・Black | 腰衣・灰・黑 |
-| 7517 | Ash F Coat・Black | 腰衣【Ｆ】・灰・黑 |
-| 7518 | Ash FZ Coat・Black | 腰衣【ＦＺ】・灰・黑 |
-| 7519 | Ash HS Coat・Black | 腰衣【ＨＳ】・灰・黑 |
-| 7520 | Ash GS Coat・Black | 腰衣【ＧＳ】・灰・黑 |
-| 7521 | Ash GP Coat・Black | 腰衣【ＧＰ】・灰・黑 |
+| 7501 | Ash HS Coil・White | 腰甲【ＨＳ】灰・白 |
+| 7502 | Ash GS Coil・White | 腰甲【ＧＳ】灰・白 |
+| 7503 | Ash GP Coil・White | 腰甲【ＧＰ】灰・白 |
+| 7504 | Ash Coat・White | 腰衣灰・白 |
+| 7505 | Ash F Coat・White | 腰衣【Ｆ】灰・白 |
+| 7506 | Ash FZ Coat・White | 腰衣【ＦＺ】灰・白 |
+| 7507 | Ash HS Coat・White | 腰衣【ＨＳ】灰・白 |
+| 7508 | Ash GS Coat・White | 腰衣【ＧＳ】灰・白 |
+| 7509 | Ash GP Coat・White | 腰衣【ＧＰ】灰・白 |
+| 7510 | Ash Coil・Black | 腰甲灰・黑 |
+| 7511 | Ash F Coil・Black | 腰甲【Ｆ】灰・黑 |
+| 7512 | Ash FZ Coil・Black | 腰甲【ＦＺ】灰・黑 |
+| 7513 | Ash HS Coil・Black | 腰甲【ＨＳ】灰・黑 |
+| 7514 | Ash GS Coil・Black | 腰甲【ＧＳ】灰・黑 |
+| 7515 | Ash GP Coil・Black | 腰甲【ＧＰ】灰・黑 |
+| 7516 | Ash Coat・Black | 腰衣灰・黑 |
+| 7517 | Ash F Coat・Black | 腰衣【Ｆ】灰・黑 |
+| 7518 | Ash FZ Coat・Black | 腰衣【ＦＺ】灰・黑 |
+| 7519 | Ash HS Coat・Black | 腰衣【ＨＳ】灰・黑 |
+| 7520 | Ash GS Coat・Black | 腰衣【ＧＳ】灰・黑 |
+| 7521 | Ash GP Coat・Black | 腰衣【ＧＰ】灰・黑 |
 | 7522 | Pistis GP Coil | 普伊斯伊腰甲【ＧＰ】 |
 | 7523 | Pistis GP Coat | 普伊斯伊腰衣【ＧＰ】 |
 | 7524 | Blink HS Belt | 布伊恩腰帶【ＨＳ】 |
@@ -501,7 +501,7 @@
 | 7995 | Hevria HS Coat | 赫芙莉亞腰衣【ＨＳ】 |
 | 7996 | Hevria GS Coat | 赫芙莉亞腰衣【ＧＳ】 |
 | 7997 | Hevria GP Coat | 赫芙莉亞腰衣【ＧＰ】 |
-| 7998 | Tiuru Waist | 緹烏魯腰甲 |
-| 7999 | Tiuru F Waist | 緹烏魯腰甲【Ｆ】 |
-| 8000 | Tiuru FZ Waist | 緹烏魯腰甲【ＦＺ】 |
+| 7998 | Tiuru Waist | 提烏魯腰甲 |
+| 7999 | Tiuru F Waist | 提烏魯腰甲【Ｆ】 |
+| 8000 | Tiuru FZ Waist | 提烏魯腰甲【ＦＺ】 |
 

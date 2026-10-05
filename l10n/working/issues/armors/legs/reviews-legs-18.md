@@ -160,21 +160,21 @@
 | 8654 | Magos GP Boots・Yellow | 瑪戈斯靴【ＧＰ】・黄 |
 | 8655 | Magos GP Feet・Red | 瑪戈斯足【ＧＰ】・赤 |
 | 8656 | Magos GP Boots・Red | 瑪戈斯靴【ＧＰ】・赤 |
-| 8657 | Magos GP Feet・Water | 瑪戈斯水足【ＧＰ】 |
-| 8658 | Magos GP Boots・Water | 瑪戈斯水靴【ＧＰ】 |
+| 8657 | Magos GP Feet・Water | 瑪戈斯足【ＧＰ】・水 |
+| 8658 | Magos GP Boots・Water | 瑪戈斯靴【ＧＰ】・水 |
 | 8659 | Magos GP Feet・Blue | 瑪戈斯足【ＧＰ】・青 |
 | 8660 | Magos GP Boots・Blue | 瑪戈斯靴【ＧＰ】・青 |
-| 8661 | Yukumo ノハカマ・Heaven | 結雲天護腿・天 |
-| 8662 | Yukumo ノハカマG・Heaven | 結雲天護腿【Ｇ】・天 |
-| 8663 | Yukumo ノハカマGF・Heaven | 結雲天護腿【Ｆ】・天 |
-| 8664 | Yukumo ノハカマGX・Heaven | 結雲天護腿【ＧＸ】・天 |
+| 8661 | Yukumo ノハカマ・Heaven | 結雲天護腿 |
+| 8662 | Yukumo ノハカマG・Heaven | 結雲天護腿【Ｇ】 |
+| 8663 | Yukumo ノハカマGF・Heaven | 結雲天護腿【Ｆ】 |
+| 8664 | Yukumo ノハカマGX・Heaven | 結雲天護腿【ＧＸ】 |
 | 8665 | Furogada G Greaves | 芙烏爾歐護腿【Ｇ】 |
 | 8666 | Furogada GF Greaves | 芙烏爾歐護腿【ＧＦ】 |
 | 8667 | Furogada GX Greaves | 芙烏爾歐護腿【ＧＸ】 |
-| 8668 | Yukumo ノハカマ・Earth | 地護腿・地 |
-| 8669 | Yukumo ノハカマG・Earth | 地護腿【Ｇ】・地 |
-| 8670 | Yukumo ノハカマGF・Earth | 地護腿【Ｆ】・地 |
-| 8671 | Yukumo ノハカマGX・Earth | 地護腿【ＧＸ】・地 |
+| 8668 | Yukumo ノハカマ・Earth | 結雲地護腿 |
+| 8669 | Yukumo ノハカマG・Earth | 結雲地護腿【Ｇ】 |
+| 8670 | Yukumo ノハカマGF・Earth | 結雲地護腿【Ｆ】 |
+| 8671 | Yukumo ノハカマGX・Earth | 結雲地護腿【ＧＸ】 |
 | 8672 | Furogada G Leggings | 芙烏爾歐裹腿【Ｇ】 |
 | 8673 | Furogada GF Leggings | 芙烏爾歐裹腿【ＧＦ】 |
 | 8674 | Furogada GX Leggings | 芙烏爾歐裹腿【ＧＸ】 |
@@ -346,8 +346,8 @@
 | 8840 | Pics GP Boots・Purple | 皮克斯靴【ＧＰ】・紫 |
 | 8841 | Pics GP Feet・Black | 皮克斯足【ＧＰ】・黑 |
 | 8842 | Pics GP Boots・Black | 皮克斯靴【ＧＰ】・黑 |
-| 8843 | Pics GP Feet・Water | 皮克斯水足【ＧＰ】 |
-| 8844 | Pics GP Boots・Water | 皮克斯水靴【ＧＰ】 |
+| 8843 | Pics GP Feet・Water | 皮克斯足【ＧＰ】・水 |
+| 8844 | Pics GP Boots・Water | 皮克斯靴【ＧＰ】・水 |
 | 8845 | ダミー | (dummy) |
 | 8846 | ダミー | (dummy) |
 | 8847 | Smart HS Leg | 機靈腿【ＨＳ】 |

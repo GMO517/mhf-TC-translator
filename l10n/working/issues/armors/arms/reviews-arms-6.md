@@ -77,10 +77,10 @@
 | 2571 | Riot FZ Guard | 暴動臂甲【ＦＺ】 |
 | 2572 | Rutare FZ Arms | 魯塔雷護腕【ＦＺ】 |
 | 2573 | Rutare FZ Guard | 魯塔雷臂甲【ＦＺ】 |
-| 2574 | Rolling Flow Kote・Elegant | 爾歐爾伊籠手 |
+| 2574 | Rolling Flow Kote・Elegant | 滾流籠手 |
 | 2575 | 旋転の Kote・Elegant | 旋転の籠手 |
-| 2576 | Rolling Sky Kote・Elegant | 爾歐爾伊籠手 |
-| 2577 | Rolling Earth Kote・Elegant | 爾歐爾伊籠手・地 |
+| 2576 | Rolling Sky Kote・Elegant | 滾天籠手・天 |
+| 2577 | Rolling Earth Kote・Elegant | 滾地籠手 |
 | 2578 | Odiva Arms | 奧蒂瓦護腕 |
 | 2579 | Odiva F Arms | 奧蒂瓦護腕【Ｆ】 |
 | 2580 | Odiva FX Arms | 奧蒂瓦護腕【ＦＸ】 |

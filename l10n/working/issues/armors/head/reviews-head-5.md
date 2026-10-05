@@ -35,10 +35,10 @@
 | 2029 | ダミー | (dummy) |
 | 2030 | Kagura FX Kabuto | 神樂兜【ＦＸ】 |
 | 2031 | Kamiza FX Hachigane | 上座鉢金【ＦＸ】 |
-| 2032 | Blue Sky Headguard | 蒼天護額 |
-| 2033 | Blue Sky Headguard・魁 | 魁護額・青 |
-| 2034 | Welkin Headguard | 蒼穹護額 |
-| 2035 | Welkin Headguard・魁 | 魁護額 |
+| 2032 | Blue Sky Headguard | 蒼天護額・天 |
+| 2033 | Blue Sky Headguard・魁 | 蒼天護額魁・天 |
+| 2034 | Welkin Headguard | 穹蒼護額 |
+| 2035 | Welkin Headguard・魁 | 穹蒼護額魁 |
 | 2036 | Breo Head | 布艾頭兜 |
 | 2037 | Breo Piercing | 布艾耳飾 |
 | 2038 | Breo F Head | 布艾頭兜【Ｆ】 |
@@ -111,32 +111,32 @@
 | 2105 | 蘭蛮 Mask・Gold | 蘭蛮帽子・金 |
 | 2106 | 竜巻 Hachimaki・Black | 竜巻鉢卷・黑 |
 | 2107 | 竜巻F Hachimaki・Black | 竜巻鉢卷【Ｆ】・黑 |
-| 2108 | True 空 Hachimaki・Black | 空鉢卷・黑 |
-| 2109 | True 空F Hachimaki・Black | 空鉢卷【Ｆ】・黑 |
+| 2108 | True 空 Hachimaki・Black | 真空鉢卷・黑 |
+| 2109 | True 空F Hachimaki・Black | 真空鉢卷【Ｆ】・黑 |
 | 2110 | 千裂お団子・Black | 千裂お団子頭兜・黑 |
 | 2111 | 千裂Fお団子・Black | 千裂お団子頭兜・黑 |
 | 2112 | 覇山お団子・Black | 覇山お団子頭兜・黑 |
 | 2113 | 覇山Fお団子・Black | 覇山お団子頭兜・黑 |
 | 2114 | 竜巻 Hachimaki・Tea | 竜巻鉢卷・茶 |
 | 2115 | 竜巻F Hachimaki・Tea | 竜巻鉢卷【Ｆ】・茶 |
-| 2116 | True 空 Hachimaki・Tea | 空鉢卷・茶 |
-| 2117 | True 空F Hachimaki・Tea | 空鉢卷【Ｆ】・茶 |
+| 2116 | True 空 Hachimaki・Tea | 真空鉢卷・茶 |
+| 2117 | True 空F Hachimaki・Tea | 真空鉢卷【Ｆ】・茶 |
 | 2118 | 千裂お団子・Purple | 千裂お団子頭兜・紫 |
 | 2119 | 千裂Fお団子・Purple | 千裂お団子頭兜・紫 |
 | 2120 | 覇山お団子・Purple | 覇山お団子頭兜・紫 |
 | 2121 | 覇山Fお団子・Purple | 覇山お団子頭兜・紫 |
 | 2122 | 竜巻 Hachimaki・White | 竜巻鉢卷・白 |
 | 2123 | 竜巻F Hachimaki・White | 竜巻鉢卷【Ｆ】・白 |
-| 2124 | True 空 Hachimaki・White | 空鉢卷・白 |
-| 2125 | True 空F Hachimaki・White | 空鉢卷【Ｆ】・白 |
+| 2124 | True 空 Hachimaki・White | 真空鉢卷・白 |
+| 2125 | True 空F Hachimaki・White | 真空鉢卷【Ｆ】・白 |
 | 2126 | 千裂お団子・White | 千裂お団子頭兜・白 |
 | 2127 | 千裂Fお団子・White | 千裂お団子頭兜・白 |
 | 2128 | 覇山お団子・White | 覇山お団子頭兜・白 |
 | 2129 | 覇山Fお団子・White | 覇山お団子頭兜・白 |
 | 2130 | 竜巻 Hachimaki・Blue | 竜巻鉢卷・青 |
 | 2131 | 竜巻F Hachimaki・Blue | 竜巻鉢卷【Ｆ】・青 |
-| 2132 | True 空 Hachimaki・Blue | 空鉢卷・青 |
-| 2133 | True 空F Hachimaki・Blue | 空鉢卷【Ｆ】・青 |
+| 2132 | True 空 Hachimaki・Blue | 真空鉢卷・青 |
+| 2133 | True 空F Hachimaki・Blue | 真空鉢卷【Ｆ】・青 |
 | 2134 | 千裂お団子・Green | 千裂お団子頭兜・緑 |
 | 2135 | 千裂Fお団子・Green | 千裂お団子頭兜・緑 |
 | 2136 | 覇山お団子・Green | 覇山お団子頭兜・緑 |
@@ -153,10 +153,10 @@
 | 2147 | 旋風F Hachimaki | 旋風鉢卷【Ｆ】 |
 | 2148 | 巴 Hachimaki | 巴鉢卷 |
 | 2149 | 巴F Hachimaki | 巴鉢卷【Ｆ】 |
-| 2150 | Heaven 空お団子 | 空お団子頭兜・天 |
-| 2151 | Heaven 空Fお団子 | 空お団子頭兜・天 |
-| 2152 | Heaven 昇お団子 | 昇お団子頭兜・天 |
-| 2153 | Heaven 昇Fお団子 | 昇お団子頭兜・天 |
+| 2150 | Heaven 空お団子 | 空お団子天頭兜 |
+| 2151 | Heaven 空Fお団子 | 空お団子天頭兜 |
+| 2152 | Heaven 昇お団子 | 昇お団子天頭兜 |
+| 2153 | Heaven 昇Fお団子 | 昇お団子天頭兜 |
 | 2154 | Jeamu Helm | 傑艾姆烏頭兜 |
 | 2155 | Jeamu F Helm | 傑艾姆烏頭兜【Ｆ】 |
 | 2156 | Amyusu Helm | 阿姆烏斯頭兜 |
@@ -218,14 +218,14 @@
 | 2212 | Buran F Piercing | 布烏爾阿耳飾【Ｆ】 |
 | 2213 | Zwinger Head | 茲伊恩艾頭兜 |
 | 2214 | Zwinger Mask | 茲伊恩艾帽子 |
-| 2215 | Demon Lord Horn・魁 | 魁角 |
+| 2215 | Demon Lord Horn・魁 | 魔王角魁 |
 | 2216 | 童子ノ角・魁 | 童子角魁頭兜 |
 | 2217 | Melan F Head | 紫黑頭兜【Ｆ】 |
 | 2218 | Melan F Wig | 紫黑假髮【Ｆ】 |
 | 2219 | Buto F Head | 布烏特歐頭兜【Ｆ】 |
 | 2220 | Ocean Piercing | 歐克艾恩耳飾 |
 | 2221 | Sky Piercing | 天空耳飾 |
-| 2222 | Earth Piercing | 地耳飾・地 |
+| 2222 | Earth Piercing | 地耳飾 |
 | 2223 | Himeros FX Helm | 赫伊姆艾頭兜【ＦＸ】 |
 | 2224 | Charien FX Cap | 夏里安兜帽【ＦＸ】 |
 | 2225 | Bureshisu FX Helm | 布烏爾艾頭兜【ＦＸ】 |
@@ -383,7 +383,7 @@
 | 2377 | Diina Head | 德伊恩阿頭兜 |
 | 2378 | Diina F Head | 德伊恩阿頭兜【Ｆ】 |
 | 2379 | True Shadow Headguard | 真影護額 |
-| 2380 | True Shadow Headguard・魁 | 魁護額 |
+| 2380 | True Shadow Headguard・魁 | 真影護額魁 |
 | 2381 | 翔影ノ Headguard | 翔影護額 |
 | 2382 | 翔影ノ Headguard・魁 | 翔影魁護額 |
 | 2383 | Black Tiger Headguard | 黑虎護額 |
@@ -402,10 +402,10 @@
 | 2396 | Galitos F Head・Black | 加里托斯頭兜【Ｆ】・黑 |
 | 2397 | Galitos Band・Black | 加里托斯頭帶・黑 |
 | 2398 | Galitos F Band・Black | 加里托斯頭帶【Ｆ】・黑 |
-| 2399 | Galitos Head・Water | 加里托斯水頭兜 |
-| 2400 | Galitos F Head・Water | 加里托斯水頭兜【Ｆ】 |
-| 2401 | Galitos Band・Water | 加里托斯水頭帶 |
-| 2402 | Galitos F Band・Water | 加里托斯水頭帶【Ｆ】 |
+| 2399 | Galitos Head・Water | 加里托斯頭兜・水 |
+| 2400 | Galitos F Head・Water | 加里托斯頭兜【Ｆ】・水 |
+| 2401 | Galitos Band・Water | 加里托斯頭帶・水 |
+| 2402 | Galitos F Band・Water | 加里托斯頭帶【Ｆ】・水 |
 | 2403 | Riburi Head | 里布里頭兜 |
 | 2404 | Riburi F Head | 里布里頭兜【Ｆ】 |
 | 2405 | Riburi FZ Head | 里布里頭兜【ＦＺ】 |
@@ -468,20 +468,20 @@
 | 2462 | Demon F Head White | 惡魔頭兜【Ｆ】・白 |
 | 2463 | Chaos Head White | 混沌頭兜・白 |
 | 2464 | Chaos F Head White | 混沌頭兜【Ｆ】・白 |
-| 2465 | Shadow Wig Purple | 暗影假髮・紫 |
-| 2466 | Shadow F Wig Purple | 暗影假髮【Ｆ】・紫 |
+| 2465 | Shadow Wig Purple | 影假髮・紫 |
+| 2466 | Shadow F Wig Purple | 影假髮【Ｆ】・紫 |
 | 2467 | Soul Wig Purple | 沃伊格魂・紫 |
 | 2468 | Soul F Wig Purple | 沃伊格魂【Ｆ】・紫 |
-| 2469 | Shadow Wig Red | 暗影假髮・赤 |
-| 2470 | Shadow F Wig Red | 暗影假髮【Ｆ】・赤 |
+| 2469 | Shadow Wig Red | 影假髮・赤 |
+| 2470 | Shadow F Wig Red | 影假髮【Ｆ】・赤 |
 | 2471 | Soul Wig Red | 沃伊格魂・赤 |
 | 2472 | Soul F Wig Red | 沃伊格魂【Ｆ】・赤 |
-| 2473 | Shadow Wig Green | 暗影假髮・緑 |
-| 2474 | Shadow F Wig Green | 暗影假髮【Ｆ】・緑 |
+| 2473 | Shadow Wig Green | 影假髮・緑 |
+| 2474 | Shadow F Wig Green | 影假髮【Ｆ】・緑 |
 | 2475 | Soul Wig Green | 沃伊格魂・緑 |
 | 2476 | Soul F Wig Green | 沃伊格魂【Ｆ】・緑 |
-| 2477 | Shadow Wig White | 暗影假髮・白 |
-| 2478 | Shadow F Wig White | 暗影假髮【Ｆ】・白 |
+| 2477 | Shadow Wig White | 影假髮・白 |
+| 2478 | Shadow F Wig White | 影假髮【Ｆ】・白 |
 | 2479 | Soul Wig White | 沃伊格魂・白 |
 | 2480 | Soul F Wig White | 沃伊格魂【Ｆ】・白 |
 | 2481 | フィディ Helm | 芙德頭兜 |

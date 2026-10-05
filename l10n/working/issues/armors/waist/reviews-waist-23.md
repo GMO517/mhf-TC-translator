@@ -10,8 +10,8 @@
 | 11004 | Bistro D Apron | 布伊斯歐圍裙 |
 | 11005 | King Beetle D Elytra | 克伊恩艾翅腰 |
 | 11006 | Butterfly D Elytra | 布烏特艾翅腰 |
-| 11007 | Demon Lord ノ虎布D | 惡魔腰甲 |
-| 11008 | Demon Tale ノ虎布D | 惡魔腰甲 |
+| 11007 | Demon Lord ノ虎布D | 魔王腰甲 |
+| 11008 | Demon Tale ノ虎布D | 魔譚腰甲 |
 | 11009 | 鬼凛ノ虎布D | 鬼凛虎布腰甲 |
 | 11010 | Empress C Coil | 女帝腰甲 |
 | 11011 | Empress C Coat | 女帝腰衣 |
@@ -179,19 +179,19 @@
 | 11173 | Lucchese D Coil | 爾烏克艾腰甲 |
 | 11174 | Entora D Coil | 艾恩歐爾腰甲 |
 | 11175 | YoRHa No.9 Type S Coil | 寄葉九號型腰甲【Ｓ】 |
-| 11176 | YoRHa No.9 Type S F Coil | 寄葉九號型腰甲【Ｓ】【Ｆ】 |
-| 11177 | YoRHa No.9 Type S FZ Coil | 寄葉九號型腰甲【Ｓ】【ＦＺ】 |
-| 11178 | YoRHa No.9 Type S HS Coil | 寄葉九號型腰甲【Ｓ】【ＨＳ】 |
-| 11179 | YoRHa No.9 Type S GS Coil | 寄葉九號型腰甲【Ｓ】【ＧＳ】 |
-| 11180 | YoRHa No.9 Type S GP Coil | 寄葉九號型腰甲【Ｓ】【ＧＰ】 |
-| 11181 | YoRHa No.9 Type S ZP Coil | 寄葉九號型腰甲【Ｓ】【ＺＰ】 |
+| 11176 | YoRHa No.9 Type S F Coil | 寄葉九號型腰甲【Ｆ】 |
+| 11177 | YoRHa No.9 Type S FZ Coil | 寄葉九號型腰甲【ＦＺ】 |
+| 11178 | YoRHa No.9 Type S HS Coil | 寄葉九號型腰甲【ＨＳ】 |
+| 11179 | YoRHa No.9 Type S GS Coil | 寄葉九號型腰甲【ＧＳ】 |
+| 11180 | YoRHa No.9 Type S GP Coil | 寄葉九號型腰甲【ＧＰ】 |
+| 11181 | YoRHa No.9 Type S ZP Coil | 寄葉九號型腰甲【ＺＰ】 |
 | 11182 | YoRHa No.9 Type S Coat | 寄葉九號型腰衣【Ｓ】 |
-| 11183 | YoRHa No.9 Type S F Coat | 寄葉九號型腰衣【Ｓ】【Ｆ】 |
-| 11184 | YoRHa No.9 Type S FZ Coat | 寄葉九號型腰衣【Ｓ】【ＦＺ】 |
-| 11185 | YoRHa No.9 Type S HS Coat | 寄葉九號型腰衣【Ｓ】【ＨＳ】 |
-| 11186 | YoRHa No.9 Type S GS Coat | 寄葉九號型腰衣【Ｓ】【ＧＳ】 |
-| 11187 | YoRHa No.9 Type S GP Coat | 寄葉九號型腰衣【Ｓ】【ＧＰ】 |
-| 11188 | YoRHa No.9 Type S ZP Coat | 寄葉九號型腰衣【Ｓ】【ＺＰ】 |
+| 11183 | YoRHa No.9 Type S F Coat | 寄葉九號型腰衣【Ｆ】 |
+| 11184 | YoRHa No.9 Type S FZ Coat | 寄葉九號型腰衣【ＦＺ】 |
+| 11185 | YoRHa No.9 Type S HS Coat | 寄葉九號型腰衣【ＨＳ】 |
+| 11186 | YoRHa No.9 Type S GS Coat | 寄葉九號型腰衣【ＧＳ】 |
+| 11187 | YoRHa No.9 Type S GP Coat | 寄葉九號型腰衣【ＧＰ】 |
+| 11188 | YoRHa No.9 Type S ZP Coat | 寄葉九號型腰衣【ＺＰ】 |
 | 11189 | YoRHa No.2 Type B Coil | 寄葉二號Ｂ型腰甲 |
 | 11190 | YoRHa No.2 Type B F Coil | 寄葉二號Ｂ型腰甲【Ｆ】 |
 | 11191 | YoRHa No.2 Type B FZ Coil | 寄葉二號Ｂ型腰甲【ＦＺ】 |
@@ -328,14 +328,14 @@
 | 11322 | Akahara Reisou GN Waist D Blue | 阿克阿赫腰甲・青 |
 | 11323 | Akahara Reisou GN Waist D Black | 阿克阿赫腰甲・黑 |
 | 11324 | Akahara Reisou GN Waist D White | 阿克阿赫腰甲・白 |
-| 11325 | Knight King Waist BM D Blue | 克伊格伊腰甲・青 |
-| 11326 | Knight King Waist BM D Red | 克伊格伊腰甲・赤 |
-| 11327 | Knight King Waist BM D Black | 克伊格伊腰甲・黑 |
-| 11328 | Knight King Waist BM D White | 克伊格伊腰甲・白 |
-| 11329 | Hero King Waist BM D Gold | 赫艾爾歐腰甲・金 |
-| 11330 | Hero King Waist BM D Black | 赫艾爾歐腰甲・黑 |
-| 11331 | Hero King Waist BM D White | 赫艾爾歐腰甲・白 |
-| 11332 | Hero King Waist BM D Red | 赫艾爾歐腰甲・赤 |
+| 11325 | Knight King Waist BM D Blue | 騎士王腰甲・青 |
+| 11326 | Knight King Waist BM D Red | 騎士王腰甲・赤 |
+| 11327 | Knight King Waist BM D Black | 騎士王腰甲・黑 |
+| 11328 | Knight King Waist BM D White | 騎士王腰甲・白 |
+| 11329 | Hero King Waist BM D Gold | 英雄王腰甲・金 |
+| 11330 | Hero King Waist BM D Black | 英雄王腰甲・黑 |
+| 11331 | Hero King Waist BM D White | 英雄王腰甲・白 |
+| 11332 | Hero King Waist BM D Red | 英雄王腰甲・赤 |
 | 11333 | Gorgon D Coil・Black | 格歐爾歐腰甲・黑 |
 | 11334 | Gorgon D Coil・Blue | 格歐爾歐腰甲・青 |
 | 11335 | Gorgon D Coil・White | 格歐爾歐腰甲・白 |
@@ -374,8 +374,8 @@
 | 11368 | Midogaron ZF Coat | 爆狼腰衣【ＺＦ】 |
 | 11369 | Midogaron ZY Coat | 爆狼腰衣【ＺＹ】 |
 | 11370 | Midogaron ZX Coat | 爆狼腰衣【ＺＸ】 |
-| 11371 | White Fatalis GXスパイン | 黑龍腰甲 |
-| 11372 | White Fatalis GXスケイル | 黑龍腰甲 |
+| 11371 | White Fatalis GXスパイン | 白黑龍腰甲 |
+| 11372 | White Fatalis GXスケイル | 白黑龍腰甲 |
 | 11373 | Elzelion G Coil | 灼零龍腰甲【Ｇ】 |
 | 11374 | Elzelion GF Coil | 灼零龍腰甲【ＧＦ】 |
 | 11375 | Elzelion GX Coil | 灼零龍腰甲【ＧＸ】 |
@@ -410,13 +410,13 @@
 | 11404 | Twin Star GS Coil | 雙星腰甲【ＧＳ】 |
 | 11405 | Twin Star GP Coil | 雙星腰甲【ＧＰ】 |
 | 11406 | Twin Star ZP Coil | 雙星腰甲【ＺＰ】 |
-| 11407 | Heaven Blade Coil | 天刃腰甲・天 |
-| 11408 | Heaven Blade F Coil | 天刃腰甲【Ｆ】・天 |
-| 11409 | Heaven Blade FZ Coil | 天刃腰甲【ＦＺ】・天 |
-| 11410 | Heaven Blade HS Coil | 天刃腰甲【ＨＳ】・天 |
-| 11411 | Heaven Blade GS Coil | 天刃腰甲【ＧＳ】・天 |
-| 11412 | Heaven Blade GP Coil | 天刃腰甲【ＧＰ】・天 |
-| 11413 | Heaven Blade ZP Coil | 天刃腰甲【ＺＰ】・天 |
+| 11407 | Heaven Blade Coil | 天刃腰甲 |
+| 11408 | Heaven Blade F Coil | 天刃腰甲【Ｆ】 |
+| 11409 | Heaven Blade FZ Coil | 天刃腰甲【ＦＺ】 |
+| 11410 | Heaven Blade HS Coil | 天刃腰甲【ＨＳ】 |
+| 11411 | Heaven Blade GS Coil | 天刃腰甲【ＧＳ】 |
+| 11412 | Heaven Blade GP Coil | 天刃腰甲【ＧＰ】 |
+| 11413 | Heaven Blade ZP Coil | 天刃腰甲【ＺＰ】 |
 | 11414 | Spring Sword Coil | 斯伊恩歐腰甲 |
 | 11415 | Spring Sword F Coil | 斯伊恩歐腰甲【Ｆ】 |
 | 11416 | Spring Sword FZ Coil | 斯伊恩歐腰甲【ＦＺ】 |
@@ -452,13 +452,13 @@
 | 11446 | Scream Lance GS Coil | 斯艾姆阿腰甲【ＧＳ】 |
 | 11447 | Scream Lance GP Coil | 斯艾姆阿腰甲【ＧＰ】 |
 | 11448 | Scream Lance ZP Coil | 斯艾姆阿腰甲【ＺＰ】 |
-| 11449 | Piercing Light Coil | 普伊爾伊腰甲 |
-| 11450 | Piercing Light F Coil | 普伊爾伊腰甲【Ｆ】 |
-| 11451 | Piercing Light FZ Coil | 普伊爾伊腰甲【ＦＺ】 |
-| 11452 | Piercing Light HS Coil | 普伊爾伊腰甲【ＨＳ】 |
-| 11453 | Piercing Light GS Coil | 普伊爾伊腰甲【ＧＳ】 |
-| 11454 | Piercing Light GP Coil | 普伊爾伊腰甲【ＧＰ】 |
-| 11455 | Piercing Light ZP Coil | 普伊爾伊腰甲【ＺＰ】 |
+| 11449 | Piercing Light Coil | 貫光腰甲 |
+| 11450 | Piercing Light F Coil | 貫光腰甲【Ｆ】 |
+| 11451 | Piercing Light FZ Coil | 貫光腰甲【ＦＺ】 |
+| 11452 | Piercing Light HS Coil | 貫光腰甲【ＨＳ】 |
+| 11453 | Piercing Light GS Coil | 貫光腰甲【ＧＳ】 |
+| 11454 | Piercing Light GP Coil | 貫光腰甲【ＧＰ】 |
+| 11455 | Piercing Light ZP Coil | 貫光腰甲【ＺＰ】 |
 | 11456 | Colour Axe Coil | 克歐爾歐腰甲 |
 | 11457 | Colour Axe F Coil | 克歐爾歐腰甲【Ｆ】 |
 | 11458 | Colour Axe FZ Coil | 克歐爾歐腰甲【ＦＺ】 |
@@ -480,13 +480,13 @@
 | 11474 | Crush Gun GS Coat | 克烏夏烏腰衣【ＧＳ】 |
 | 11475 | Crush Gun GP Coat | 克烏夏烏腰衣【ＧＰ】 |
 | 11476 | Crush Gun ZP Coat | 克烏夏烏腰衣【ＺＰ】 |
-| 11477 | Bow Saint Coat | 布歐沃阿腰衣 |
-| 11478 | Bow Saint F Coat | 布歐沃阿腰衣【Ｆ】 |
-| 11479 | Bow Saint FZ Coat | 布歐沃阿腰衣【ＦＺ】 |
-| 11480 | Bow Saint HS Coat | 布歐沃阿腰衣【ＨＳ】 |
-| 11481 | Bow Saint GS Coat | 布歐沃阿腰衣【ＧＳ】 |
-| 11482 | Bow Saint GP Coat | 布歐沃阿腰衣【ＧＰ】 |
-| 11483 | Bow Saint ZP Coat | 布歐沃阿腰衣【ＺＰ】 |
+| 11477 | Bow Saint Coat | 斯阿恩腰衣 |
+| 11478 | Bow Saint F Coat | 斯阿恩腰衣【Ｆ】 |
+| 11479 | Bow Saint FZ Coat | 斯阿恩腰衣【ＦＺ】 |
+| 11480 | Bow Saint HS Coat | 斯阿恩腰衣【ＨＳ】 |
+| 11481 | Bow Saint GS Coat | 斯阿恩腰衣【ＧＳ】 |
+| 11482 | Bow Saint GP Coat | 斯阿恩腰衣【ＧＰ】 |
+| 11483 | Bow Saint ZP Coat | 斯阿恩腰衣【ＺＰ】 |
 | 11484 | Rantana Coil | 蘭塔納腰甲 |
 | 11485 | Rantana F Coil | 蘭塔納腰甲【Ｆ】 |
 | 11486 | Rantana FZ Coil | 蘭塔納腰甲【ＦＺ】 |

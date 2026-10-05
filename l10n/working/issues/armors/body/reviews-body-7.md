@@ -32,14 +32,14 @@
 | 3026 | Algol FX Mail | 阿爾歐爾鎧甲【ＦＸ】 |
 | 3027 | Algol F Vest | 阿爾歐爾背心【Ｆ】 |
 | 3028 | Algol FX Vest | 阿爾歐爾背心【ＦＸ】 |
-| 3029 | 抜胴【胴当て】 | 胴当て抜胴鎧甲 |
-| 3030 | 抜胴F【胴当て】 | 胴当て抜胴鎧甲 |
-| 3031 | 抜胴FZ【胴当て】 | 胴当て抜胴鎧甲 |
-| 3032 | 抜胴HS【胴当て】 | 胴当て抜胴鎧甲 |
-| 3033 | 長根【胴当て】 | 胴当て長根鎧甲 |
-| 3034 | 長根F【胴当て】 | 胴当て長根鎧甲 |
-| 3035 | 長根FZ【胴当て】 | 胴当て長根鎧甲 |
-| 3036 | 長根HS【胴当て】 | 胴当て長根鎧甲 |
+| 3029 | 抜胴【胴当て】 | 抜胴胴當 |
+| 3030 | 抜胴F【胴当て】 | 抜胴胴當【Ｆ】 |
+| 3031 | 抜胴FZ【胴当て】 | 抜胴胴當【ＦＺ】 |
+| 3032 | 抜胴HS【胴当て】 | 抜胴胴當【ＨＳ】 |
+| 3033 | 長根【胴当て】 | 長根胴當 |
+| 3034 | 長根F【胴当て】 | 長根胴當【Ｆ】 |
+| 3035 | 長根FZ【胴当て】 | 長根胴當【ＦＺ】 |
+| 3036 | 長根HS【胴当て】 | 長根胴當【ＨＳ】 |
 | 3037 | 花火 [Chestplate 】 | 花火胸甲 |
 | 3038 | 花火F [Chestplate 】 | 花火胸甲【Ｆ】 |
 | 3039 | 花火FZ [Chestplate 】 | 花火胸甲【ＦＺ】 |
@@ -48,14 +48,14 @@
 | 3042 | 流星F [Chestplate 】 | 流星胸甲【Ｆ】 |
 | 3043 | 流星FZ [Chestplate 】 | 流星胸甲【ＦＺ】 |
 | 3044 | 流星HS [Chestplate 】 | 流星胸甲【ＨＳ】 |
-| 3045 | 居合【胴当て】 | 胴当て居合鎧甲 |
-| 3046 | 居合F【胴当て】 | 胴当て居合鎧甲 |
-| 3047 | 居合FZ【胴当て】 | 胴当て居合鎧甲 |
-| 3048 | 居合HC【胴当て】 | 胴当て居合鎧甲 |
-| 3049 | 爆裂【胴当て】 | 胴当て爆裂鎧甲 |
-| 3050 | 爆裂F【胴当て】 | 胴当て爆裂鎧甲 |
-| 3051 | 爆裂FZ【胴当て】 | 胴当て爆裂鎧甲 |
-| 3052 | 爆裂HC【胴当て】 | 胴当て爆裂鎧甲 |
+| 3045 | 居合【胴当て】 | 居合胴當 |
+| 3046 | 居合F【胴当て】 | 居合胴當【Ｆ】 |
+| 3047 | 居合FZ【胴当て】 | 居合胴當【ＦＺ】 |
+| 3048 | 居合HC【胴当て】 | 居合胴當【ＨＣ】 |
+| 3049 | 爆裂【胴当て】 | 爆裂胴當 |
+| 3050 | 爆裂F【胴当て】 | 爆裂胴當【Ｆ】 |
+| 3051 | 爆裂FZ【胴当て】 | 爆裂胴當【ＦＺ】 |
+| 3052 | 爆裂HC【胴当て】 | 爆裂胴當【ＨＣ】 |
 | 3053 | 脱兎 [Chestplate 】 | 脱兎胸甲 |
 | 3054 | 脱兎F [Chestplate 】 | 脱兎胸甲【Ｆ】 |
 | 3055 | 脱兎FZ [Chestplate 】 | 脱兎胸甲【ＦＺ】 |
@@ -102,16 +102,16 @@
 | 3096 | Gloria FZ Suit・Blue | 榮光套裝【ＦＺ】・青 |
 | 3097 | Gloria HC Suit・Blue | 榮光套裝【ＨＣ】・青 |
 | 3098 | Gloria HS Suit・Blue | 榮光套裝【ＨＳ】・青 |
-| 3099 | Gloria Mail・Water | 榮光水鎧甲 |
-| 3100 | Gloria F Mail・Water | 榮光水鎧甲【Ｆ】 |
-| 3101 | Gloria FZ Mail・Water | 榮光水鎧甲【ＦＺ】 |
-| 3102 | Gloria HC Mail・Water | 榮光水鎧甲【ＨＣ】 |
-| 3103 | Gloria HS Mail・Water | 榮光水鎧甲【ＨＳ】 |
-| 3104 | Gloria Suit・Water | 榮光水套裝 |
-| 3105 | Gloria F Suit・Water | 榮光水套裝【Ｆ】 |
-| 3106 | Gloria FZ Suit・Water | 榮光水套裝【ＦＺ】 |
-| 3107 | Gloria HC Suit・Water | 榮光水套裝【ＨＣ】 |
-| 3108 | Gloria HS Suit・Water | 榮光水套裝【ＨＳ】 |
+| 3099 | Gloria Mail・Water | 榮光鎧甲・水 |
+| 3100 | Gloria F Mail・Water | 榮光鎧甲【Ｆ】・水 |
+| 3101 | Gloria FZ Mail・Water | 榮光鎧甲【ＦＺ】・水 |
+| 3102 | Gloria HC Mail・Water | 榮光鎧甲【ＨＣ】・水 |
+| 3103 | Gloria HS Mail・Water | 榮光鎧甲【ＨＳ】・水 |
+| 3104 | Gloria Suit・Water | 榮光套裝・水 |
+| 3105 | Gloria F Suit・Water | 榮光套裝【Ｆ】・水 |
+| 3106 | Gloria FZ Suit・Water | 榮光套裝【ＦＺ】・水 |
+| 3107 | Gloria HC Suit・Water | 榮光套裝【ＨＣ】・水 |
+| 3108 | Gloria HS Suit・Water | 榮光套裝【ＨＳ】・水 |
 | 3109 | Gloria Mail・Red | 榮光鎧甲・赤 |
 | 3110 | Gloria F Mail・Red | 榮光鎧甲【Ｆ】・赤 |
 | 3111 | Gloria FZ Mail・Red | 榮光鎧甲【ＦＺ】・赤 |
@@ -162,16 +162,16 @@
 | 3156 | Reppa FZ胴着・Yellow | 胴着鎧甲・黄 |
 | 3157 | Reppa HC胴着・Yellow | 胴着鎧甲・黄 |
 | 3158 | Reppa HS胴着・Yellow | 胴着鎧甲・黄 |
-| 3159 | Cannon Suit・Water | 加農水套裝 |
-| 3160 | Cannon F Suit・Water | 加農水套裝【Ｆ】 |
-| 3161 | Cannon FZ Suit・Water | 加農水套裝【ＦＺ】 |
-| 3162 | Cannon HC Suit・Water | 加農水套裝【ＨＣ】 |
-| 3163 | Cannon HS Suit・Water | 加農水套裝【ＨＳ】 |
-| 3164 | Axel Suit・Water | 輪軸水套裝 |
-| 3165 | Axel F Suit・Water | 輪軸水套裝【Ｆ】 |
-| 3166 | Axel FZ Suit・Water | 輪軸水套裝【ＦＺ】 |
-| 3167 | Axel HC Suit・Water | 輪軸水套裝【ＨＣ】 |
-| 3168 | Axel HS Suit・Water | 輪軸水套裝【ＨＳ】 |
+| 3159 | Cannon Suit・Water | 加農套裝・水 |
+| 3160 | Cannon F Suit・Water | 加農套裝【Ｆ】・水 |
+| 3161 | Cannon FZ Suit・Water | 加農套裝【ＦＺ】・水 |
+| 3162 | Cannon HC Suit・Water | 加農套裝【ＨＣ】・水 |
+| 3163 | Cannon HS Suit・Water | 加農套裝【ＨＳ】・水 |
+| 3164 | Axel Suit・Water | 輪軸套裝・水 |
+| 3165 | Axel F Suit・Water | 輪軸套裝【Ｆ】・水 |
+| 3166 | Axel FZ Suit・Water | 輪軸套裝【ＦＺ】・水 |
+| 3167 | Axel HC Suit・Water | 輪軸套裝【ＨＣ】・水 |
+| 3168 | Axel HS Suit・Water | 輪軸套裝【ＨＳ】・水 |
 | 3169 | Cannon Suit・Green | 加農套裝・緑 |
 | 3170 | Cannon F Suit・Green | 加農套裝【Ｆ】・緑 |
 | 3171 | Cannon FZ Suit・Green | 加農套裝【ＦＺ】・緑 |
@@ -297,8 +297,8 @@
 | 3291 | Ceanataur GF Mail | 鎌蟹鎧甲【ＧＦ】 |
 | 3292 | Ceanataur G Vest | 鎌蟹背心【Ｇ】 |
 | 3293 | Ceanataur GF Vest | 鎌蟹背心【ＧＦ】 |
-| 3294 | Mikagura G【胴当て】 | 御神樂鎧甲【Ｇ】 |
-| 3295 | Mikagura GF【胴当て】 | 御神樂鎧甲【ＧＦ】 |
+| 3294 | Mikagura G【胴当て】 | 御神樂胴當【Ｇ】 |
+| 3295 | Mikagura GF【胴当て】 | 御神樂胴當【ＧＦ】 |
 | 3296 | Satokagura G [Chestplate 】 | 里神樂胸甲【Ｇ】 |
 | 3297 | Satokagura GF [Chestplate 】 | 里神樂胸甲【ＧＦ】 |
 | 3298 | Rathalos G Mail | 雄火龍鎧甲【Ｇ】 |
@@ -395,16 +395,16 @@
 | 3389 | Magos FZ Suit・Red | 瑪戈斯套裝【ＦＺ】・赤 |
 | 3390 | Magos HC Suit・Red | 瑪戈斯套裝【ＨＣ】・赤 |
 | 3391 | Magos HS Suit・Red | 瑪戈斯套裝【ＨＳ】・赤 |
-| 3392 | Magos Mail・Water | 瑪戈斯水鎧甲 |
-| 3393 | Magos F Mail・Water | 瑪戈斯水鎧甲【Ｆ】 |
-| 3394 | Magos FZ Mail・Water | 瑪戈斯水鎧甲【ＦＺ】 |
-| 3395 | Magos HC Mail・Water | 瑪戈斯水鎧甲【ＨＣ】 |
-| 3396 | Magos HS Mail・Water | 瑪戈斯水鎧甲【ＨＳ】 |
-| 3397 | Magos Suit・Water | 瑪戈斯水套裝 |
-| 3398 | Magos F Suit・Water | 瑪戈斯水套裝【Ｆ】 |
-| 3399 | Magos FZ Suit・Water | 瑪戈斯水套裝【ＦＺ】 |
-| 3400 | Magos HC Suit・Water | 瑪戈斯水套裝【ＨＣ】 |
-| 3401 | Magos HS Suit・Water | 瑪戈斯水套裝【ＨＳ】 |
+| 3392 | Magos Mail・Water | 瑪戈斯鎧甲・水 |
+| 3393 | Magos F Mail・Water | 瑪戈斯鎧甲【Ｆ】・水 |
+| 3394 | Magos FZ Mail・Water | 瑪戈斯鎧甲【ＦＺ】・水 |
+| 3395 | Magos HC Mail・Water | 瑪戈斯鎧甲【ＨＣ】・水 |
+| 3396 | Magos HS Mail・Water | 瑪戈斯鎧甲【ＨＳ】・水 |
+| 3397 | Magos Suit・Water | 瑪戈斯套裝・水 |
+| 3398 | Magos F Suit・Water | 瑪戈斯套裝【Ｆ】・水 |
+| 3399 | Magos FZ Suit・Water | 瑪戈斯套裝【ＦＺ】・水 |
+| 3400 | Magos HC Suit・Water | 瑪戈斯套裝【ＨＣ】・水 |
+| 3401 | Magos HS Suit・Water | 瑪戈斯套裝【ＨＳ】・水 |
 | 3402 | Magos Mail・Blue | 瑪戈斯鎧甲・青 |
 | 3403 | Magos F Mail・Blue | 瑪戈斯鎧甲【Ｆ】・青 |
 | 3404 | Magos FZ Mail・Blue | 瑪戈斯鎧甲【ＦＺ】・青 |
@@ -419,8 +419,8 @@
 | 3413 | Magos GS Suit・Yellow | 瑪戈斯套裝【ＧＳ】・黄 |
 | 3414 | Magos GS Mail・Red | 瑪戈斯鎧甲【ＧＳ】・赤 |
 | 3415 | Magos GS Suit・Red | 瑪戈斯套裝【ＧＳ】・赤 |
-| 3416 | Magos GS Mail・Water | 瑪戈斯水鎧甲【ＧＳ】 |
-| 3417 | Magos GS Suit・Water | 瑪戈斯水套裝【ＧＳ】 |
+| 3416 | Magos GS Mail・Water | 瑪戈斯鎧甲【ＧＳ】・水 |
+| 3417 | Magos GS Suit・Water | 瑪戈斯套裝【ＧＳ】・水 |
 | 3418 | Magos GS Mail・Blue | 瑪戈斯鎧甲【ＧＳ】・青 |
 | 3419 | Magos GS Suit・Blue | 瑪戈斯套裝【ＧＳ】・青 |
 | 3420 | Red 備ノ具足【胴服】 | 胴服備具足鎧甲・赤 |

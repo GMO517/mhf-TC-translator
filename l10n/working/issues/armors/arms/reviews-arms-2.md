@@ -106,8 +106,8 @@
 | 599 | Priere Arms | 普伊爾艾護腕 |
 | 600 | Salvacion Arms | 斯阿爾阿護腕 |
 | 601 | Shikari Kote | 夏伊克阿籠手 |
-| 602 | Shikari Kote・魁 | 魁籠手 |
-| 603 | G・Guard R Claws Green | 克阿沃臂甲【Ｇ】【Ｒ】・緑 |
+| 602 | Shikari Kote・魁 | 夏伊克阿籠手魁 |
+| 603 | G・Guard R Claws Green | 克阿沃臂甲【Ｒ】・緑 |
 | 604 | Arma Arms・Black | 武裝護腕・黑 |
 | 605 | Arma Guard・Black | 武裝臂甲・黑 |
 | 606 | Arma Arms・White | 武裝護腕・白 |
@@ -143,7 +143,7 @@
 | 636 | Khezu R Arms | 奇怪龍護腕【Ｒ】 |
 | 637 | Rath Soul R Arms | 火龍魂護腕【Ｒ】 |
 | 638 | Gia R Arms | 格伊護腕【Ｒ】 |
-| 639 | G・Guard R Claws Green | 克阿沃臂甲【Ｇ】【Ｒ】・緑 |
+| 639 | G・Guard R Claws Green | 克阿沃臂甲【Ｒ】・緑 |
 | 640 | Khezu L Guard | 奇怪龍臂甲【Ｌ】 |
 | 641 | Io R Guard | 伊歐臂甲【Ｒ】 |
 | 642 | Purokusu Arms | 普烏爾歐護腕 |
@@ -170,7 +170,7 @@
 | 663 | Hypnolia Guard | 赫歐爾伊臂甲 |
 | 664 | Feral Arms | 芙艾爾阿護腕 |
 | 665 | Feral Guard | 芙艾爾阿臂甲 |
-| 666 | Demon Lord Kote | 德艾姆歐籠手 |
+| 666 | Demon Lord Kote | 魔王籠手 |
 | 667 | Rasta 教官腕 | 教官腕護腕 |
 | 668 | 童子ノ Kote | 童子籠手 |
 | 669 | ダミー | (dummy) |
@@ -213,8 +213,8 @@
 | 706 | Gravios L Arms | 鎧龍護腕【Ｌ】 |
 | 707 | Vespoid L Arms | 巨蜂護腕【Ｌ】 |
 | 708 | Basarios R Arms | 岩龍護腕【Ｒ】 |
-| 709 | G・Guard R Cuffs Green | 克烏芙臂甲【Ｇ】【Ｒ】・緑 |
-| 710 | G・Guard R Cuffs Green | 克烏芙臂甲【Ｇ】【Ｒ】・緑 |
+| 709 | G・Guard R Cuffs Green | 克烏芙臂甲【Ｒ】・緑 |
+| 710 | G・Guard R Cuffs Green | 克烏芙臂甲【Ｒ】・緑 |
 | 711 | Monodevil R Arms | 單眼惡魔護腕【Ｒ】 |
 | 712 | Hornetaur R Arms | 巨甲蟲護腕【Ｒ】 |
 | 713 | Ceanataur R Arms | 鎌蟹護腕【Ｒ】 |
@@ -307,9 +307,9 @@
 | 800 | Remobra Hands SP White | 翼蛇龍手甲【ＳＰ】・白 |
 | 801 | Remobra Hands SP Yellow | 翼蛇龍手甲【ＳＰ】・黄 |
 | 802 | Remobra Hands SP Black | 翼蛇龍手甲【ＳＰ】・黑 |
-| 803 | G・Knight Cuffs SP Red | 騎士護腕【Ｇ】【ＳＰ】・赤 |
-| 804 | G・Knight Cuffs SP Blue | 騎士護腕【Ｇ】【ＳＰ】・青 |
-| 805 | G・Knight Cuffs SP Purple | 騎士護腕【Ｇ】【ＳＰ】・紫 |
+| 803 | G・Knight Cuffs SP Red | 騎士護腕【ＳＰ】・赤 |
+| 804 | G・Knight Cuffs SP Blue | 騎士護腕【ＳＰ】・青 |
+| 805 | G・Knight Cuffs SP Purple | 騎士護腕【ＳＰ】・紫 |
 | 806 | PV Cuffs SP Red | 普護腕【ＳＰ】・赤 |
 | 807 | PV Cuffs SP Blue | 普護腕【ＳＰ】・青 |
 | 808 | PV Cuffs SP Purple | 普護腕【ＳＰ】・紫 |
@@ -319,8 +319,8 @@
 | 812 | Lavasioth L Arms | 熔岩龍護腕【Ｌ】 |
 | 813 | Bone L Arms | 骨製護腕【Ｌ】 |
 | 814 | Hornetaur L Arms | 巨甲蟲護腕【Ｌ】 |
-| 815 | G・Guard R Claws Crimson | 克阿沃臂甲【Ｇ】【Ｒ】・紅 |
-| 816 | G・Guard R Claws Crimson | 克阿沃臂甲【Ｇ】【Ｒ】・紅 |
+| 815 | G・Guard R Claws Crimson | 克阿沃臂甲【Ｒ】・紅 |
+| 816 | G・Guard R Claws Crimson | 克阿沃臂甲【Ｒ】・紅 |
 | 817 | Helper R Cuffs | 助手護腕【Ｒ】 |
 | 818 | Battle R Arms | 戦護腕【Ｒ】 |
 | 819 | Cepha R Arms | 砂龍護腕【Ｒ】 |
@@ -332,9 +332,9 @@
 | 825 | Buran Arms | 布烏爾阿護腕 |
 | 826 | White Belt Arms | 白帶護腕 |
 | 827 | Kagura 【 Kote 】 | 神樂籠手 |
-| 828 | Kagura・覇【 Kote 】 | 覇籠手 |
+| 828 | Kagura・覇【 Kote 】 | 神樂籠手 |
 | 829 | Kamiza 【 Kote 】 | 上座籠手 |
-| 830 | Kamiza・覇【 Kote 】 | 覇籠手 |
+| 830 | Kamiza・覇【 Kote 】 | 上座籠手 |
 | 831 | アスハルテ Arms | 阿斯哈爾特護腕 |
 | 832 | アスハルテ Guard | 阿斯哈爾特臂甲 |
 | 833 | ローク Arms | 洛可護腕 |
@@ -391,22 +391,22 @@
 | 884 | リエーザF Arms | 里耶薩護腕【Ｆ】 |
 | 885 | リエーザ Guard | 里耶薩臂甲 |
 | 886 | リエーザF Guard | 里耶薩臂甲【Ｆ】 |
-| 887 | Claire Arms・Purple | 克蕾兒護腕・紫 |
-| 888 | Claire F Arms・Purple | 克蕾兒護腕【Ｆ】・紫 |
-| 889 | Claire Guard・Purple | 克蕾兒臂甲・紫 |
-| 890 | Claire F Guard・Purple | 克蕾兒臂甲【Ｆ】・紫 |
-| 891 | Claire Arms・Water | 克蕾兒水護腕 |
-| 892 | Claire F Arms・Water | 克蕾兒水護腕【Ｆ】 |
-| 893 | Claire Guard・Water | 克蕾兒水臂甲 |
-| 894 | Claire F Guard・Water | 克蕾兒水臂甲【Ｆ】 |
-| 895 | Claire Arms・Red | 克蕾兒護腕・赤 |
-| 896 | Claire F Arms・Red | 克蕾兒護腕【Ｆ】・赤 |
-| 897 | Claire Guard・Red | 克蕾兒臂甲・赤 |
-| 898 | Claire F Guard・Red | 克蕾兒臂甲【Ｆ】・赤 |
-| 899 | Claire Arms・Black | 克蕾兒護腕・黑 |
-| 900 | Claire F Arms・Black | 克蕾兒護腕【Ｆ】・黑 |
-| 901 | Claire Guard・Black | 克蕾兒臂甲・黑 |
-| 902 | Claire F Guard・Black | 克蕾兒臂甲【Ｆ】・黑 |
+| 887 | Claire Arms・Purple | 克蕾爾護腕・紫 |
+| 888 | Claire F Arms・Purple | 克蕾爾護腕【Ｆ】・紫 |
+| 889 | Claire Guard・Purple | 克蕾爾臂甲・紫 |
+| 890 | Claire F Guard・Purple | 克蕾爾臂甲【Ｆ】・紫 |
+| 891 | Claire Arms・Water | 克蕾爾護腕・水 |
+| 892 | Claire F Arms・Water | 克蕾爾護腕【Ｆ】・水 |
+| 893 | Claire Guard・Water | 克蕾爾臂甲・水 |
+| 894 | Claire F Guard・Water | 克蕾爾臂甲【Ｆ】・水 |
+| 895 | Claire Arms・Red | 克蕾爾護腕・赤 |
+| 896 | Claire F Arms・Red | 克蕾爾護腕【Ｆ】・赤 |
+| 897 | Claire Guard・Red | 克蕾爾臂甲・赤 |
+| 898 | Claire F Guard・Red | 克蕾爾臂甲【Ｆ】・赤 |
+| 899 | Claire Arms・Black | 克蕾爾護腕・黑 |
+| 900 | Claire F Arms・Black | 克蕾爾護腕【Ｆ】・黑 |
+| 901 | Claire Guard・Black | 克蕾爾臂甲・黑 |
+| 902 | Claire F Guard・Black | 克蕾爾臂甲【Ｆ】・黑 |
 | 903 | Desert Arms | 沙漠護腕 |
 | 904 | Desert F Arms | 沙漠護腕【Ｆ】 |
 | 905 | Desert Guard | 沙漠臂甲 |

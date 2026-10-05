@@ -43,7 +43,7 @@
 | 11537 | Scholar C Claws | 施歐爾阿爪 |
 | 11538 | Aelucanth C Brachia | 阿爾烏克臂甲 |
 | 11539 | Rhopessa C Brachia | 爾歐普艾臂甲 |
-| 11540 | Yukumo ノコテC・Heaven | 結雲天護腕・天 |
+| 11540 | Yukumo ノコテC・Heaven | 結雲天護腕 |
 | 11541 | White 蘭D Arms | 蘭護腕・白 |
 | 11542 | Crimson 霞D Arms | 霞護腕・紅 |
 | 11543 | Demonclad Kote D | 德艾姆歐籠手 |
@@ -60,19 +60,19 @@
 | 11554 | Vulcan Dフィスト | 火山拳 |
 | 11555 | Vulcan GDクロウ | 火山爪 |
 | 11556 | Vulcan GDフィスト | 火山拳 |
-| 11557 | Garnet D Arms | 格阿爾艾護腕 |
-| 11558 | Amethyst D Arms | 阿姆艾斯護腕 |
-| 11559 | Coral D Arms | 克歐爾阿護腕 |
-| 11560 | Quartz D Arms | 斯烏爾護腕 |
-| 11561 | Emerald D Arms | 艾姆艾爾護腕 |
-| 11562 | Pearl D Arms | 普艾爾護腕 |
-| 11563 | Ruby D Arms | 爾烏布護腕 |
-| 11564 | Sapphire D Arms | 斯阿普伊護腕 |
-| 11565 | Topaz D Guard | 特歐普阿臂甲 |
-| 11566 | Tourmaline D Guard | 特歐爾阿臂甲 |
-| 11567 | Lapis D Guard | 爾阿普伊臂甲 |
-| 11568 | Hisui D Arms | 赫伊斯烏護腕 |
-| 11569 | Onyx D Arms | 歐恩護腕 |
+| 11557 | Garnet D Arms | 石榴石護腕 |
+| 11558 | Amethyst D Arms | 紫水晶護腕 |
+| 11559 | Coral D Arms | 珊瑚護腕 |
+| 11560 | Quartz D Arms | 石英護腕 |
+| 11561 | Emerald D Arms | 祖母緑護腕 |
+| 11562 | Pearl D Arms | 珍珠護腕 |
+| 11563 | Ruby D Arms | 紅寶石護腕 |
+| 11564 | Sapphire D Arms | 藍寶石護腕 |
+| 11565 | Topaz D Guard | 黄玉臂甲 |
+| 11566 | Tourmaline D Guard | 電氣石臂甲 |
+| 11567 | Lapis D Guard | 青金石臂甲 |
+| 11568 | Hisui D Arms | 翡翠護腕 |
+| 11569 | Onyx D Arms | 縞瑪瑙護腕 |
 | 11570 | Veloci Hands D | 藍速龍手甲 |
 | 11571 | Gen Hands D | 格艾恩手甲 |
 | 11572 | Io Hands D | 伊斯手甲 |
@@ -103,7 +103,7 @@
 | 11597 | Shourou 【上手】D | 夏歐爾歐上手 |
 | 11598 | Mitama 【上手】D | 姆伊特阿上手 |
 | 11599 | Burning Cliff D [Kote 】 | 布烏爾伊籠手 |
-| 11600 | Crimson Cliff D [Kote 】 | 克伊芙籠手・紅 |
+| 11600 | Crimson Cliff D [Kote 】 | 深紅崖籠手 |
 | 11601 | Ledia D Arms | 爾艾德伊護腕 |
 | 11602 | White Snake Sleeve D | 白蛇袖 |
 | 11603 | Black Tiger Sleeve D | 黑虎袖 |
@@ -112,7 +112,7 @@
 | 11606 | Blue Sky Sleeve D | 蒼天袖 |
 | 11607 | Noon Glow Sleeve D | 恩歐恩歐袖 |
 | 11608 | Kosho D [Sleeve 】 | 克歐夏歐袖 |
-| 11609 | True Shadow Sleeve D | 特烏斯阿袖 |
+| 11609 | True Shadow Sleeve D | 真影袖 |
 | 11610 | Furogada D Arms | 芙烏爾歐護腕 |
 | 11611 | Lars D Arms | 爾阿爾護腕 |
 | 11612 | Donru D Arms | 德歐恩烏護腕 |
@@ -143,10 +143,10 @@
 | 11637 | Tempest G【袂】 | 暴風雨袂【Ｇ】 |
 | 11638 | Tempest GF【袂】 | 暴風雨袂【ＧＦ】 |
 | 11639 | Tempest GX【袂】 | 暴風雨袂【ＧＸ】 |
-| 11640 | Welkin 【袂】 | 蒼穹袂 |
-| 11641 | Welkin G【袂】 | 蒼穹袂【Ｇ】 |
-| 11642 | Welkin GF【袂】 | 蒼穹袂【ＧＦ】 |
-| 11643 | Welkin GX【袂】 | 蒼穹袂【ＧＸ】 |
+| 11640 | Welkin 【袂】 | 穹蒼袂 |
+| 11641 | Welkin G【袂】 | 穹蒼袂【Ｇ】 |
+| 11642 | Welkin GF【袂】 | 穹蒼袂【ＧＦ】 |
+| 11643 | Welkin GX【袂】 | 穹蒼袂【ＧＸ】 |
 | 11644 | Levin Arms | 雷霆護腕 |
 | 11645 | Levin F Arms | 雷霆護腕【Ｆ】 |
 | 11646 | Levin FZ Arms | 雷霆護腕【ＦＺ】 |
@@ -161,20 +161,20 @@
 | 11655 | Levin GS Guard | 雷霆臂甲【ＧＳ】 |
 | 11656 | Levin GP Guard | 雷霆臂甲【ＧＰ】 |
 | 11657 | Levin ZP Guard | 雷霆臂甲【ＺＰ】 |
-| 11658 | Silver Armour・Kote | 甲冑籠手・銀 |
-| 11659 | Silver Armour F・Kote | 甲冑籠手【Ｆ】・銀 |
-| 11660 | Silver Armour FZ・Kote | 甲冑籠手【ＦＺ】・銀 |
-| 11661 | Silver Armour HS・Kote | 甲冑籠手【ＨＳ】・銀 |
-| 11662 | Silver Armour GS・Kote | 甲冑籠手【ＧＳ】・銀 |
-| 11663 | Silver Armour GP・Kote | 甲冑籠手【ＧＰ】・銀 |
-| 11664 | Silver Armour ZP・Kote | 甲冑籠手【ＺＰ】・銀 |
-| 11665 | Silver Armour・Gauntlets | 甲冑手甲・銀 |
-| 11666 | Silver Armour F・Gauntlets | 甲冑手甲【Ｆ】・銀 |
-| 11667 | Silver Armour FZ・Gauntlets | 甲冑手甲【ＦＺ】・銀 |
-| 11668 | Silver Armour HS・Gauntlets | 甲冑手甲【ＨＳ】・銀 |
-| 11669 | Silver Armour GS・Gauntlets | 甲冑手甲【ＧＳ】・銀 |
-| 11670 | Silver Armour GP・Gauntlets | 甲冑手甲【ＧＰ】・銀 |
-| 11671 | Silver Armour ZP・Gauntlets | 甲冑手甲【ＺＰ】・銀 |
+| 11658 | Silver Armour・Kote | 銀甲冑籠手 |
+| 11659 | Silver Armour F・Kote | 銀甲冑籠手【Ｆ】 |
+| 11660 | Silver Armour FZ・Kote | 銀甲冑籠手【ＦＺ】 |
+| 11661 | Silver Armour HS・Kote | 銀甲冑籠手【ＨＳ】 |
+| 11662 | Silver Armour GS・Kote | 銀甲冑籠手【ＧＳ】 |
+| 11663 | Silver Armour GP・Kote | 銀甲冑籠手【ＧＰ】 |
+| 11664 | Silver Armour ZP・Kote | 銀甲冑籠手【ＺＰ】 |
+| 11665 | Silver Armour・Gauntlets | 銀甲冑手甲 |
+| 11666 | Silver Armour F・Gauntlets | 銀甲冑手甲【Ｆ】 |
+| 11667 | Silver Armour FZ・Gauntlets | 銀甲冑手甲【ＦＺ】 |
+| 11668 | Silver Armour HS・Gauntlets | 銀甲冑手甲【ＨＳ】 |
+| 11669 | Silver Armour GS・Gauntlets | 銀甲冑手甲【ＧＳ】 |
+| 11670 | Silver Armour GP・Gauntlets | 銀甲冑手甲【ＧＰ】 |
+| 11671 | Silver Armour ZP・Gauntlets | 銀甲冑手甲【ＺＰ】 |
 | 11672 | Rose Ball Gown・Sleeve | 薔薇禮服袖 |
 | 11673 | Rose Ball Gown F・Sleeve | 薔薇禮服袖【Ｆ】 |
 | 11674 | Rose Ball Gown FZ・Sleeve | 薔薇禮服袖【ＦＺ】 |
@@ -237,8 +237,8 @@
 | 11731 | Shatemu ZP Guard | 夏特穆臂甲【ＺＰ】 |
 | 11732 | Hevria ZP Arms | 赫芙莉亞護腕【ＺＰ】 |
 | 11733 | Hevria ZP Guard | 赫芙莉亞臂甲【ＺＰ】 |
-| 11734 | Tiuru ZP Arms | 緹烏魯護腕【ＺＰ】 |
-| 11735 | Tiuru ZP Guard | 緹烏魯臂甲【ＺＰ】 |
+| 11734 | Tiuru ZP Arms | 提烏魯護腕【ＺＰ】 |
+| 11735 | Tiuru ZP Guard | 提烏魯臂甲【ＺＰ】 |
 | 11736 | Kaila ZP Arms | 凱拉護腕【ＺＰ】 |
 | 11737 | Kaila ZP Guard | 凱拉臂甲【ＺＰ】 |
 | 11738 | Fonse G Arms | 芙歐恩艾護腕【Ｇ】 |
@@ -265,7 +265,7 @@
 | 11759 | Tempest C【袂】 | 特艾姆艾袂 |
 | 11760 | Welkin C【袂】 | 沃艾爾伊袂 |
 | 11761 | Levin D Arms | 爾艾芙伊護腕 |
-| 11762 | Silver Armour D・Kote | 阿爾歐爾籠手・銀 |
+| 11762 | Silver Armour D・Kote | 銀甲冑籠手 |
 | 11763 | Rose Ball Gown D・Sleeve | 爾歐斯艾袖 |
 | 11764 | Shui D Arms | 夏烏斯護腕 |
 | 11765 | CE Kevlar D BM Arms Blue | 克艾斯艾護腕・青 |
@@ -434,20 +434,20 @@
 | 11928 | Holy Maiden Armor GS・Feathers | 聖女鎧羽護腕【ＧＳ】 |
 | 11929 | Holy Maiden Armor GP・Feathers | 聖女鎧羽護腕【ＧＰ】 |
 | 11930 | Holy Maiden Armor ZP・Feathers | 聖女鎧羽護腕【ＺＰ】 |
-| 11931 | Dragon Slayer Armor・Kote | 德阿格歐籠手 |
-| 11932 | Dragon Slayer Armor F・Kote | 德阿格歐籠手【Ｆ】 |
-| 11933 | Dragon Slayer Armor FZ・Kote | 德阿格歐籠手【ＦＺ】 |
-| 11934 | Dragon Slayer Armor HS・Kote | 德阿格歐籠手【ＨＳ】 |
-| 11935 | Dragon Slayer Armor GS・Kote | 德阿格歐籠手【ＧＳ】 |
-| 11936 | Dragon Slayer Armor GP・Kote | 德阿格歐籠手【ＧＰ】 |
-| 11937 | Dragon Slayer Armor ZP・Kote | 德阿格歐籠手【ＺＰ】 |
-| 11938 | Dragon Slayer Armor・Gauntlets | 德阿格歐手甲 |
-| 11939 | Dragon Slayer Armor F・Gauntlets | 德阿格歐手甲【Ｆ】 |
-| 11940 | Dragon Slayer Armor FZ・Gauntlets | 德阿格歐手甲【ＦＺ】 |
-| 11941 | Dragon Slayer Armor HS・Gauntlets | 德阿格歐手甲【ＨＳ】 |
-| 11942 | Dragon Slayer Armor GS・Gauntlets | 德阿格歐手甲【ＧＳ】 |
-| 11943 | Dragon Slayer Armor GP・Gauntlets | 德阿格歐手甲【ＧＰ】 |
-| 11944 | Dragon Slayer Armor ZP・Gauntlets | 德阿格歐手甲【ＺＰ】 |
+| 11931 | Dragon Slayer Armor・Kote | 屠龍籠手 |
+| 11932 | Dragon Slayer Armor F・Kote | 屠龍籠手【Ｆ】 |
+| 11933 | Dragon Slayer Armor FZ・Kote | 屠龍籠手【ＦＺ】 |
+| 11934 | Dragon Slayer Armor HS・Kote | 屠龍籠手【ＨＳ】 |
+| 11935 | Dragon Slayer Armor GS・Kote | 屠龍籠手【ＧＳ】 |
+| 11936 | Dragon Slayer Armor GP・Kote | 屠龍籠手【ＧＰ】 |
+| 11937 | Dragon Slayer Armor ZP・Kote | 屠龍籠手【ＺＰ】 |
+| 11938 | Dragon Slayer Armor・Gauntlets | 屠龍手甲 |
+| 11939 | Dragon Slayer Armor F・Gauntlets | 屠龍手甲【Ｆ】 |
+| 11940 | Dragon Slayer Armor FZ・Gauntlets | 屠龍手甲【ＦＺ】 |
+| 11941 | Dragon Slayer Armor HS・Gauntlets | 屠龍手甲【ＨＳ】 |
+| 11942 | Dragon Slayer Armor GS・Gauntlets | 屠龍手甲【ＧＳ】 |
+| 11943 | Dragon Slayer Armor GP・Gauntlets | 屠龍手甲【ＧＰ】 |
+| 11944 | Dragon Slayer Armor ZP・Gauntlets | 屠龍手甲【ＺＰ】 |
 | 11945 | Rebellion Armour・Kote | 爾艾布艾籠手 |
 | 11946 | Rebellion Armour F・Kote | 爾艾布艾籠手【Ｆ】 |
 | 11947 | Rebellion Armour FZ・Kote | 爾艾布艾籠手【ＦＺ】 |
@@ -484,7 +484,7 @@
 | 11978 | Training Corps D Arms | 特阿恩伊護腕 |
 | 11979 | Twelve Paladins' Armor D・Kote | 特艾爾艾籠手 |
 | 11980 | Holy Maiden Armor D・Sleeve | 赫歐爾阿袖 |
-| 11981 | Dragon Slayer Armor D・Kote | 龍籠手 |
+| 11981 | Dragon Slayer Armor D・Kote | 屠龍籠手 |
 | 11982 | Rebellion Armour D・Kote | 爾艾布艾籠手 |
 | 11983 | Dinato D Arms | 德伊恩阿護腕 |
 | 11984 | Duque D Arms | 德烏斯烏護腕 |

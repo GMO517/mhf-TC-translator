@@ -75,10 +75,10 @@
 | 3069 | Riot FZ Cap | 暴動兜帽【ＦＺ】 |
 | 3070 | Rutare FZ Helm | 魯塔雷頭兜【ＦＺ】 |
 | 3071 | Rutare FZ Cap | 魯塔雷兜帽【ＦＺ】 |
-| 3072 | Rolling Flow Headguard・Elegant | 爾歐爾伊護額 |
+| 3072 | Rolling Flow Headguard・Elegant | 滾流護額 |
 | 3073 | 旋転の Headguard・Elegant | 旋転の護額 |
-| 3074 | Rolling Sky Headguard・Elegant | 爾歐爾伊護額 |
-| 3075 | Rolling Earth Headguard・Elegant | 爾歐爾伊護額・地 |
+| 3074 | Rolling Sky Headguard・Elegant | 滾天護額・天 |
+| 3075 | Rolling Earth Headguard・Elegant | 滾地護額 |
 | 3076 | Kuaru Beretta | 晶龍貝雷塔 |
 | 3077 | Kuaru Beretta F | 晶龍貝雷塔【Ｆ】 |
 | 3078 | Abiorugu Corsage | 獰龍胸花 |

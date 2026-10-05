@@ -137,9 +137,9 @@
 | 3631 | Golden Hakama・G | 金袴【Ｇ】 |
 | 3632 | Golden Hakama・GF | 金袴【ＧＦ】 |
 | 3633 | Golden Hakama・GX | 金袴【ＧＸ】 |
-| 3634 | Puppeteer ノ Tabi・G | 足袋【Ｇ】 |
-| 3635 | Puppeteer ノ Tabi・GF | 足袋【ＧＦ】 |
-| 3636 | Puppeteer ノ Tabi・GX | 足袋【ＧＸ】 |
+| 3634 | Puppeteer ノ Tabi・G | 操偶足袋【Ｇ】 |
+| 3635 | Puppeteer ノ Tabi・GF | 操偶足袋【ＧＦ】 |
+| 3636 | Puppeteer ノ Tabi・GX | 操偶足袋【ＧＸ】 |
 | 3637 | Rebidiora G Feet | 雷極龍足【Ｇ】 |
 | 3638 | Rebidiora GF Feet | 雷極龍足【ＧＦ】 |
 | 3639 | Rebidiora GX Feet | 雷極龍足【ＧＸ】 |
@@ -176,9 +176,9 @@
 | 3670 | Disu G Leggings | 德伊斯烏裹腿【Ｇ】 |
 | 3671 | Disu GF Leggings | 德伊斯烏裹腿【ＧＦ】 |
 | 3672 | Disu GX Leggings | 德伊斯烏裹腿【ＧＸ】 |
-| 3673 | Shadow Tabi・G | 暗影足袋【Ｇ】 |
-| 3674 | Shadow Tabi・GF | 暗影足袋【ＧＦ】 |
-| 3675 | Shadow Tabi・GX | 暗影足袋【ＧＸ】 |
+| 3673 | Shadow Tabi・G | 影足袋【Ｇ】 |
+| 3674 | Shadow Tabi・GF | 影足袋【ＧＦ】 |
+| 3675 | Shadow Tabi・GX | 影足袋【ＧＸ】 |
 | 3676 | Shade Tabi・G | 影足袋【Ｇ】 |
 | 3677 | Shade Tabi・GF | 影足袋【ＧＦ】 |
 | 3678 | Shade Tabi・GX | 影足袋【ＧＸ】 |
@@ -214,14 +214,14 @@
 | 3708 | Genbu・刀神GF Feet | 刀神足【Ｆ】 |
 | 3709 | Seiryu・刀神G Feet | 青龍足【Ｇ】 |
 | 3710 | Seiryu・刀神GF Feet | 刀神足【Ｆ】 |
-| 3711 | Byakko・Heaven 槍G Feet | 白虎足【Ｇ】・天 |
-| 3712 | Byakko・Heaven 槍GF Feet | 槍足【Ｆ】・天 |
-| 3713 | Suzaku・Heaven 槍G Feet | 朱雀足【Ｇ】・天 |
-| 3714 | Suzaku・Heaven 槍GF Feet | 槍足【Ｆ】・天 |
-| 3715 | Genbu・Heaven 槍G Feet | 玄武足【Ｇ】・天 |
-| 3716 | Genbu・Heaven 槍GF Feet | 槍足【Ｆ】・天 |
-| 3717 | Seiryu・Heaven 槍G Feet | 青龍足【Ｇ】・天 |
-| 3718 | Seiryu・Heaven 槍GF Feet | 槍足【Ｆ】・天 |
+| 3711 | Byakko・Heaven 槍G Feet | 白虎天足【Ｇ】 |
+| 3712 | Byakko・Heaven 槍GF Feet | 槍天足【Ｆ】 |
+| 3713 | Suzaku・Heaven 槍G Feet | 朱雀天足【Ｇ】 |
+| 3714 | Suzaku・Heaven 槍GF Feet | 槍天足【Ｆ】 |
+| 3715 | Genbu・Heaven 槍G Feet | 玄武天足【Ｇ】 |
+| 3716 | Genbu・Heaven 槍GF Feet | 槍天足【Ｆ】 |
+| 3717 | Seiryu・Heaven 槍G Feet | 青龍天足【Ｇ】 |
+| 3718 | Seiryu・Heaven 槍GF Feet | 槍天足【Ｆ】 |
 | 3719 | Byakko・砲皇G Feet | 白虎足【Ｇ】 |
 | 3720 | Byakko・砲皇GF Feet | 砲皇足【Ｆ】 |
 | 3721 | Suzaku・砲皇G Feet | 朱雀足【Ｇ】 |
@@ -263,13 +263,13 @@
 | 3757 | Seiryu・銃仙G Boots | 青龍靴【Ｇ】 |
 | 3758 | Seiryu・銃仙GF Boots | 銃仙靴【Ｆ】 |
 | 3759 | Byakko・Bow 鬼G Boots | 白虎靴【Ｇ】 |
-| 3760 | Byakko・Bow 鬼GF Boots | 鬼靴【Ｆ】 |
+| 3760 | Byakko・Bow 鬼GF Boots | 白虎靴【Ｆ】 |
 | 3761 | Suzaku・Bow 鬼G Boots | 朱雀靴【Ｇ】 |
-| 3762 | Suzaku・Bow 鬼GF Boots | 鬼靴【Ｆ】 |
+| 3762 | Suzaku・Bow 鬼GF Boots | 朱雀靴【Ｆ】 |
 | 3763 | Genbu・Bow 鬼G Boots | 玄武靴【Ｇ】 |
-| 3764 | Genbu・Bow 鬼GF Boots | 鬼靴【Ｆ】 |
+| 3764 | Genbu・Bow 鬼GF Boots | 玄武靴【Ｆ】 |
 | 3765 | Seiryu・Bow 鬼G Boots | 青龍靴【Ｇ】 |
-| 3766 | Seiryu・Bow 鬼GF Boots | 鬼靴【Ｆ】 |
+| 3766 | Seiryu・Bow 鬼GF Boots | 青龍靴【Ｆ】 |
 | 3767 | Odiva G Greaves | 奧蒂瓦護腿【Ｇ】 |
 | 3768 | Odiva G Leggings | 奧蒂瓦裹腿【Ｇ】 |
 | 3769 | Blitz Gレガース | 布伊特護腿 |
@@ -290,7 +290,7 @@
 | 3784 | エミットG Leggings | 艾米托裹腿【Ｇ】 |
 | 3785 | Diboa G Greaves | 迪博阿護腿【Ｇ】 |
 | 3786 | Diboa G Leggings | 迪博阿裹腿【Ｇ】 |
-| 3787 | Demon Lord Legs | 德艾姆歐腿甲 |
+| 3787 | Demon Lord Legs | 魔王腿甲 |
 | 3788 | 童子ノ Legs | 童子腿甲 |
 | 3789 | レアー Boots | 雷阿靴 |
 | 3790 | ハーデス Boots | 哈德斯靴 |
@@ -340,18 +340,18 @@
 | 3834 | Pics HC Boots・Black | 皮克斯靴【ＨＣ】・黑 |
 | 3835 | Pics HS Boots・Black | 皮克斯靴【ＨＳ】・黑 |
 | 3836 | Pics GS Boots・Black | 皮克斯靴【ＧＳ】・黑 |
-| 3837 | Pics Feet・Water | 皮克斯水足 |
-| 3838 | Pics F Feet・Water | 皮克斯水足【Ｆ】 |
-| 3839 | Pics FZ Feet・Water | 皮克斯水足【ＦＺ】 |
-| 3840 | Pics HC Feet・Water | 皮克斯水足【ＨＣ】 |
-| 3841 | Pics HS Feet・Water | 皮克斯水足【ＨＳ】 |
-| 3842 | Pics GS Feet・Water | 皮克斯水足【ＧＳ】 |
-| 3843 | Pics Boots・Water | 皮克斯水靴 |
-| 3844 | Pics F Boots・Water | 皮克斯水靴【Ｆ】 |
-| 3845 | Pics FZ Boots・Water | 皮克斯水靴【ＦＺ】 |
-| 3846 | Pics HC Boots・Water | 皮克斯水靴【ＨＣ】 |
-| 3847 | Pics HS Boots・Water | 皮克斯水靴【ＨＳ】 |
-| 3848 | Pics GS Boots・Water | 皮克斯水靴【ＧＳ】 |
+| 3837 | Pics Feet・Water | 皮克斯足・水 |
+| 3838 | Pics F Feet・Water | 皮克斯足【Ｆ】・水 |
+| 3839 | Pics FZ Feet・Water | 皮克斯足【ＦＺ】・水 |
+| 3840 | Pics HC Feet・Water | 皮克斯足【ＨＣ】・水 |
+| 3841 | Pics HS Feet・Water | 皮克斯足【ＨＳ】・水 |
+| 3842 | Pics GS Feet・Water | 皮克斯足【ＧＳ】・水 |
+| 3843 | Pics Boots・Water | 皮克斯靴・水 |
+| 3844 | Pics F Boots・Water | 皮克斯靴【Ｆ】・水 |
+| 3845 | Pics FZ Boots・Water | 皮克斯靴【ＦＺ】・水 |
+| 3846 | Pics HC Boots・Water | 皮克斯靴【ＨＣ】・水 |
+| 3847 | Pics HS Boots・Water | 皮克斯靴【ＨＳ】・水 |
+| 3848 | Pics GS Boots・Water | 皮克斯靴【ＧＳ】・水 |
 | 3849 | Bright Greaves | 輝護腿 |
 | 3850 | Bright F Greaves | 輝護腿【Ｆ】 |
 | 3851 | Bright FZ Greaves | 輝護腿【ＦＺ】 |

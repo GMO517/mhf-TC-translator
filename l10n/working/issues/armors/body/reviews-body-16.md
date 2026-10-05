@@ -302,12 +302,12 @@
 | 7796 | Empress G Vest | 女帝背心【Ｇ】 |
 | 7797 | Empress GF Vest | 女帝背心【ＧＦ】 |
 | 7798 | Empress GX Vest | 女帝背心【ＧＸ】 |
-| 7799 | Genesis G【胴当て】 | 創世鎧甲【Ｇ】 |
-| 7800 | Genesis GF【胴当て】 | 創世鎧甲【ＧＦ】 |
-| 7801 | Genesis GX【胴当て】 | 創世鎧甲【ＧＸ】 |
-| 7802 | Motion G【胴当て】 | 律動鎧甲【Ｇ】 |
-| 7803 | Motion GF【胴当て】 | 律動鎧甲【ＧＦ】 |
-| 7804 | Motion GX【胴当て】 | 律動鎧甲【ＧＸ】 |
+| 7799 | Genesis G【胴当て】 | 創世胴當【Ｇ】 |
+| 7800 | Genesis GF【胴当て】 | 創世胴當【ＧＦ】 |
+| 7801 | Genesis GX【胴当て】 | 創世胴當【ＧＸ】 |
+| 7802 | Motion G【胴当て】 | 律動胴當【Ｇ】 |
+| 7803 | Motion GF【胴当て】 | 律動胴當【ＧＦ】 |
+| 7804 | Motion GX【胴当て】 | 律動胴當【ＧＸ】 |
 | 7805 | Pobo Mail | 普歐布歐鎧甲 |
 | 7806 | Pobo F Mail | 普歐布歐鎧甲【Ｆ】 |
 | 7807 | Pobo FX Mail | 普歐布歐鎧甲【ＦＸ】 |
@@ -354,18 +354,18 @@
 | 7848 | Hevria HS Suit | 赫芙莉亞套裝【ＨＳ】 |
 | 7849 | Hevria GS Suit | 赫芙莉亞套裝【ＧＳ】 |
 | 7850 | Hevria GP Suit | 赫芙莉亞套裝【ＧＰ】 |
-| 7851 | Tiuru Vest | 緹烏魯背心 |
-| 7852 | Tiuru F Vest | 緹烏魯背心【Ｆ】 |
-| 7853 | Tiuru FZ Vest | 緹烏魯背心【ＦＺ】 |
-| 7854 | Tiuru HS Vest | 緹烏魯背心【ＨＳ】 |
-| 7855 | Tiuru GS Vest | 緹烏魯背心【ＧＳ】 |
-| 7856 | Tiuru GP Vest | 緹烏魯背心【ＧＰ】 |
-| 7857 | Tiuru Suit | 緹烏魯套裝 |
-| 7858 | Tiuru F Suit | 緹烏魯套裝【Ｆ】 |
-| 7859 | Tiuru FZ Suit | 緹烏魯套裝【ＦＺ】 |
-| 7860 | Tiuru HS Suit | 緹烏魯套裝【ＨＳ】 |
-| 7861 | Tiuru GS Suit | 緹烏魯套裝【ＧＳ】 |
-| 7862 | Tiuru GP Suit | 緹烏魯套裝【ＧＰ】 |
+| 7851 | Tiuru Vest | 提烏魯背心 |
+| 7852 | Tiuru F Vest | 提烏魯背心【Ｆ】 |
+| 7853 | Tiuru FZ Vest | 提烏魯背心【ＦＺ】 |
+| 7854 | Tiuru HS Vest | 提烏魯背心【ＨＳ】 |
+| 7855 | Tiuru GS Vest | 提烏魯背心【ＧＳ】 |
+| 7856 | Tiuru GP Vest | 提烏魯背心【ＧＰ】 |
+| 7857 | Tiuru Suit | 提烏魯套裝 |
+| 7858 | Tiuru F Suit | 提烏魯套裝【Ｆ】 |
+| 7859 | Tiuru FZ Suit | 提烏魯套裝【ＦＺ】 |
+| 7860 | Tiuru HS Suit | 提烏魯套裝【ＨＳ】 |
+| 7861 | Tiuru GS Suit | 提烏魯套裝【ＧＳ】 |
+| 7862 | Tiuru GP Suit | 提烏魯套裝【ＧＰ】 |
 | 7863 | Bande Vest・Blue | 飾帶背心・青 |
 | 7864 | Bande F Vest・Blue | 飾帶背心【Ｆ】・青 |
 | 7865 | Bande FZ Vest・Blue | 飾帶背心【ＦＺ】・青 |

@@ -24,7 +24,7 @@
 | 11518 | Wizard ZP Coat・Green | 巫師腰衣【ＺＰ】・緑 |
 | 11519 | Wizard ZP Coat・White | 巫師腰衣【ＺＰ】・白 |
 | 11520 | Waka Waistband ZP | 和歌腰帶【ＺＰ】 |
-| 11521 | Waka Colour Belt ZP | 沃阿克阿腰帶【ＺＰ】 |
+| 11521 | Waka Colour Belt ZP | 和歌腰帶【ＺＰ】 |
 | 11522 | Shaln ZP Belt・Blue | 夏爾恩腰帶【ＺＰ】・青 |
 | 11523 | Shaln ZP Belt・Green | 夏爾恩腰帶【ＺＰ】・緑 |
 | 11524 | Shaln ZP Belt・Purple | 夏爾恩腰帶【ＺＰ】・紫 |
@@ -65,8 +65,8 @@
 | 11559 | ヴァンパイアＤコイル | 芙恩拍伊阿腰甲 |
 | 11560 | Midogaron ZD Coil | 姆伊德歐腰甲 |
 | 11561 | Midogaron ZD Coat | 姆伊德歐腰衣 |
-| 11562 | White Fatalis Dスパイン | 黑龍腰甲 |
-| 11563 | White Fatalis Dスケイル | 黑龍腰甲 |
+| 11562 | White Fatalis Dスパイン | 白黑龍腰甲 |
+| 11563 | White Fatalis Dスケイル | 白黑龍腰甲 |
 | 11564 | Elzelion D Coil | 灼零龍腰甲 |
 | 11565 | Elzelion D Coat | 灼零龍腰衣 |
 | 11566 | Zakka D Coil | 茲阿克阿腰甲 |
@@ -96,7 +96,7 @@
 | 11590 | Kukubo D Coil | 克烏克烏腰甲 |
 | 11591 | Kakabu D Coil | 克阿克阿腰甲 |
 | 11592 | Aruru D Coil | 阿爾烏爾腰甲 |
-| 11593 | Red Cat Dテイル | 猫腰甲 |
+| 11593 | Red Cat Dテイル | 赤猫腰甲 |
 | 11594 | Rios D Faulds | 爾伊斯腰甲 |
 | 11595 | Bonito D Faulds | 布歐恩伊腰甲 |
 | 11596 | Meirida D Faulds | 姆艾爾伊腰甲 |
@@ -265,7 +265,7 @@
 | 11759 | Scholar C Skirt | 施歐爾阿裙甲 |
 | 11760 | Aelucanth C Elytra | 阿爾烏克翅腰 |
 | 11761 | Rhopessa C Elytra | 爾歐普艾翅腰 |
-| 11762 | Yukumo ノオビC・Heaven | 結雲天腰甲・天 |
+| 11762 | Yukumo ノオビC・Heaven | 結雲天腰甲 |
 | 11763 | White 蘭D Coil | 蘭腰甲・白 |
 | 11764 | Crimson 霞D Coil | 霞腰甲・紅 |
 | 11765 | Demonclad ノ虎布D | 鬼纏腰甲 |
@@ -282,19 +282,19 @@
 | 11776 | Vulcan Dテイル | 火神腰甲 |
 | 11777 | Vulcan GD Wing | 火山腰翼 |
 | 11778 | Vulcan GDテイル | 火神腰甲 |
-| 11779 | Garnet D Coil | 格阿爾艾腰甲 |
-| 11780 | Amethyst D Coil | 阿姆艾斯腰甲 |
-| 11781 | Coral D Coil | 克歐爾阿腰甲 |
-| 11782 | Quartz D Coil | 斯烏爾腰甲 |
-| 11783 | Emerald D Coil | 艾姆艾爾腰甲 |
-| 11784 | Pearl D Coil | 普艾爾腰甲 |
-| 11785 | Ruby D Coil | 爾烏布腰甲 |
-| 11786 | Sapphire D Coil | 斯阿普伊腰甲 |
-| 11787 | Topaz D Coat | 特歐普阿腰衣 |
-| 11788 | Tourmaline D Coat | 特歐爾阿腰衣 |
-| 11789 | Lapis D Coat | 爾阿普伊腰衣 |
-| 11790 | Hisui D Coil | 赫伊斯烏腰甲 |
-| 11791 | Onyx D Coil | 歐恩腰甲 |
+| 11779 | Garnet D Coil | 石榴石腰甲 |
+| 11780 | Amethyst D Coil | 紫水晶腰甲 |
+| 11781 | Coral D Coil | 珊瑚腰甲 |
+| 11782 | Quartz D Coil | 石英腰甲 |
+| 11783 | Emerald D Coil | 祖母緑腰甲 |
+| 11784 | Pearl D Coil | 珍珠腰甲 |
+| 11785 | Ruby D Coil | 紅寶石腰甲 |
+| 11786 | Sapphire D Coil | 藍寶石腰甲 |
+| 11787 | Topaz D Coat | 黄玉腰衣 |
+| 11788 | Tourmaline D Coat | 電氣石腰衣 |
+| 11789 | Lapis D Coat | 青金石腰衣 |
+| 11790 | Hisui D Coil | 翡翠腰甲 |
+| 11791 | Onyx D Coil | 縞瑪瑙腰甲 |
 | 11792 | Mosswine Hip D | 菌豬臀甲 |
 | 11793 | Remobra ーツ Belt D | 翼蛇龍腰帶 |
 | 11794 | Battle Coat PD Blue | 戦腰衣【ＰＤ】・青 |
@@ -318,8 +318,8 @@
 | 11812 | Healer Frill PD Blue | 治癒褶邊【ＰＤ】・青 |
 | 11813 | Healer Frill PD White | 治癒褶邊【ＰＤ】・白 |
 | 11814 | Healer Frill PD Yellow | 治癒褶邊【ＰＤ】・黄 |
-| 11815 | Shourou 【越腰】D | 照楼上手 |
-| 11816 | Mitama 【越腰】D | 御魂上手 |
+| 11815 | Shourou 【越腰】D | 夏歐爾歐上手 |
+| 11816 | Mitama 【越腰】D | 姆伊特阿上手 |
 | 11817 | Burning Cliff D [Waist て】 | 崖腰甲 |
 | 11818 | Crimson Cliff D [Waist て】 | 崖腰甲 |
 | 11819 | Ledia D Coil | 爾艾德伊腰甲 |
@@ -330,7 +330,7 @@
 | 11824 | Blue Sky Obi D | 蒼天帶 |
 | 11825 | Noon Glow Obi D | 恩歐恩歐帶 |
 | 11826 | Kosho D [Obi 】 | 克歐夏歐帶 |
-| 11827 | True Shadow Obi D | 特烏斯阿帶 |
+| 11827 | True Shadow Obi D | 真影帶 |
 | 11828 | Furogada D Coil | 芙烏爾歐腰甲 |
 | 11829 | Lars D Faulds | 爾阿爾腰甲 |
 | 11830 | Donru D Faulds | 德歐恩烏腰甲 |
@@ -361,10 +361,10 @@
 | 11855 | Tempest G【 Obi 】 | 暴風雨帶【Ｇ】 |
 | 11856 | Tempest GF【 Obi 】 | 暴風雨帶【ＧＦ】 |
 | 11857 | Tempest GX【 Obi 】 | 暴風雨帶【ＧＸ】 |
-| 11858 | Welkin 【 Obi 】 | 蒼穹帶 |
-| 11859 | Welkin G【 Obi 】 | 蒼穹帶【Ｇ】 |
-| 11860 | Welkin GF【 Obi 】 | 蒼穹帶【ＧＦ】 |
-| 11861 | Welkin GX【 Obi 】 | 蒼穹帶【ＧＸ】 |
+| 11858 | Welkin 【 Obi 】 | 穹蒼帶 |
+| 11859 | Welkin G【 Obi 】 | 穹蒼帶【Ｇ】 |
+| 11860 | Welkin GF【 Obi 】 | 穹蒼帶【ＧＦ】 |
+| 11861 | Welkin GX【 Obi 】 | 穹蒼帶【ＧＸ】 |
 | 11862 | Levin Coil | 雷霆腰甲 |
 | 11863 | Levin F Coil | 雷霆腰甲【Ｆ】 |
 | 11864 | Levin FZ Coil | 雷霆腰甲【ＦＺ】 |
@@ -379,20 +379,20 @@
 | 11873 | Levin GS Coat | 雷霆腰衣【ＧＳ】 |
 | 11874 | Levin GP Coat | 雷霆腰衣【ＧＰ】 |
 | 11875 | Levin ZP Coat | 雷霆腰衣【ＺＰ】 |
-| 11876 | Silver Armour・Waist | 甲冑腰甲・銀 |
-| 11877 | Silver Armour F・Waist | 甲冑腰甲【Ｆ】・銀 |
-| 11878 | Silver Armour FZ・Waist | 甲冑腰甲【ＦＺ】・銀 |
-| 11879 | Silver Armour HS・Waist | 甲冑腰甲【ＨＳ】・銀 |
-| 11880 | Silver Armour GS・Waist | 甲冑腰甲【ＧＳ】・銀 |
-| 11881 | Silver Armour GP・Waist | 甲冑腰甲【ＧＰ】・銀 |
-| 11882 | Silver Armour ZP・Waist | 甲冑腰甲【ＺＰ】・銀 |
-| 11883 | Silver Armour・Waistband | 甲冑腰帶・銀 |
-| 11884 | Silver Armour F・Waistband | 甲冑腰帶【Ｆ】・銀 |
-| 11885 | Silver Armour FZ・Waistband | 甲冑腰帶【ＦＺ】・銀 |
-| 11886 | Silver Armour HS・Waistband | 甲冑腰帶【ＨＳ】・銀 |
-| 11887 | Silver Armour GS・Waistband | 甲冑腰帶【ＧＳ】・銀 |
-| 11888 | Silver Armour GP・Waistband | 甲冑腰帶【ＧＰ】・銀 |
-| 11889 | Silver Armour ZP・Waistband | 甲冑腰帶【ＺＰ】・銀 |
+| 11876 | Silver Armour・Waist | 銀甲冑腰甲 |
+| 11877 | Silver Armour F・Waist | 銀甲冑腰甲【Ｆ】 |
+| 11878 | Silver Armour FZ・Waist | 銀甲冑腰甲【ＦＺ】 |
+| 11879 | Silver Armour HS・Waist | 銀甲冑腰甲【ＨＳ】 |
+| 11880 | Silver Armour GS・Waist | 銀甲冑腰甲【ＧＳ】 |
+| 11881 | Silver Armour GP・Waist | 銀甲冑腰甲【ＧＰ】 |
+| 11882 | Silver Armour ZP・Waist | 銀甲冑腰甲【ＺＰ】 |
+| 11883 | Silver Armour・Waistband | 銀甲冑腰帶 |
+| 11884 | Silver Armour F・Waistband | 銀甲冑腰帶【Ｆ】 |
+| 11885 | Silver Armour FZ・Waistband | 銀甲冑腰帶【ＦＺ】 |
+| 11886 | Silver Armour HS・Waistband | 銀甲冑腰帶【ＨＳ】 |
+| 11887 | Silver Armour GS・Waistband | 銀甲冑腰帶【ＧＳ】 |
+| 11888 | Silver Armour GP・Waistband | 銀甲冑腰帶【ＧＰ】 |
+| 11889 | Silver Armour ZP・Waistband | 銀甲冑腰帶【ＺＰ】 |
 | 11890 | Rose Ball Gown・Waist | 薔薇禮服腰甲 |
 | 11891 | Rose Ball Gown F・Waist | 薔薇禮服腰甲【Ｆ】 |
 | 11892 | Rose Ball Gown FZ・Waist | 薔薇禮服腰甲【ＦＺ】 |
@@ -455,8 +455,8 @@
 | 11949 | Shatemu ZP Coat | 夏特穆腰衣【ＺＰ】 |
 | 11950 | Hevria ZP Waist | 赫芙莉亞腰甲【ＺＰ】 |
 | 11951 | Hevria ZP Coat | 赫芙莉亞腰衣【ＺＰ】 |
-| 11952 | Tiuru ZP Waist | 緹烏魯腰甲【ＺＰ】 |
-| 11953 | Tiuru ZP Coat | 緹烏魯腰衣【ＺＰ】 |
+| 11952 | Tiuru ZP Waist | 提烏魯腰甲【ＺＰ】 |
+| 11953 | Tiuru ZP Coat | 提烏魯腰衣【ＺＰ】 |
 | 11954 | Kaila ZP Coil | 凱拉腰甲【ＺＰ】 |
 | 11955 | Kaila ZP Coat | 凱拉腰衣【ＺＰ】 |
 | 11956 | Fonse G Coil | 芙歐恩艾腰甲【Ｇ】 |
@@ -483,7 +483,7 @@
 | 11977 | Tempest C【 Obi 】 | 特艾姆艾帶 |
 | 11978 | Welkin C【 Obi 】 | 沃艾爾伊帶 |
 | 11979 | Levin D Coil | 爾艾芙伊腰甲 |
-| 11980 | Silver Armour D・Waist | 阿爾歐爾腰甲・銀 |
+| 11980 | Silver Armour D・Waist | 銀甲冑腰甲 |
 | 11981 | Rose Ball Gown D・Waist | 爾歐斯艾腰甲 |
 | 11982 | Shui D Coil | 夏烏斯腰甲 |
 | 11983 | CE Kevlar D BM Waist Blue | 克艾斯艾腰甲・青 |

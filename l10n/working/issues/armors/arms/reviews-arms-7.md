@@ -97,16 +97,16 @@
 | 3091 | Gloria FZ Guard・Blue | 榮光臂甲【ＦＺ】・青 |
 | 3092 | Gloria HC Guard・Blue | 榮光臂甲【ＨＣ】・青 |
 | 3093 | Gloria HS Guard・Blue | 榮光臂甲【ＨＳ】・青 |
-| 3094 | Gloria Arms・Water | 榮光水護腕 |
-| 3095 | Gloria F Arms・Water | 榮光水護腕【Ｆ】 |
-| 3096 | Gloria FZ Arms・Water | 榮光水護腕【ＦＺ】 |
-| 3097 | Gloria HC Arms・Water | 榮光水護腕【ＨＣ】 |
-| 3098 | Gloria HS Arms・Water | 榮光水護腕【ＨＳ】 |
-| 3099 | Gloria Guard・Water | 榮光水臂甲 |
-| 3100 | Gloria F Guard・Water | 榮光水臂甲【Ｆ】 |
-| 3101 | Gloria FZ Guard・Water | 榮光水臂甲【ＦＺ】 |
-| 3102 | Gloria HC Guard・Water | 榮光水臂甲【ＨＣ】 |
-| 3103 | Gloria HS Guard・Water | 榮光水臂甲【ＨＳ】 |
+| 3094 | Gloria Arms・Water | 榮光護腕・水 |
+| 3095 | Gloria F Arms・Water | 榮光護腕【Ｆ】・水 |
+| 3096 | Gloria FZ Arms・Water | 榮光護腕【ＦＺ】・水 |
+| 3097 | Gloria HC Arms・Water | 榮光護腕【ＨＣ】・水 |
+| 3098 | Gloria HS Arms・Water | 榮光護腕【ＨＳ】・水 |
+| 3099 | Gloria Guard・Water | 榮光臂甲・水 |
+| 3100 | Gloria F Guard・Water | 榮光臂甲【Ｆ】・水 |
+| 3101 | Gloria FZ Guard・Water | 榮光臂甲【ＦＺ】・水 |
+| 3102 | Gloria HC Guard・Water | 榮光臂甲【ＨＣ】・水 |
+| 3103 | Gloria HS Guard・Water | 榮光臂甲【ＨＳ】・水 |
 | 3104 | Gloria Arms・Red | 榮光護腕・赤 |
 | 3105 | Gloria F Arms・Red | 榮光護腕【Ｆ】・赤 |
 | 3106 | Gloria FZ Arms・Red | 榮光護腕【ＦＺ】・赤 |
@@ -157,16 +157,16 @@
 | 3151 | Reppa FZ Kote・Yellow | 烈破籠手【ＦＺ】・黄 |
 | 3152 | Reppa HC Kote・Yellow | 烈破籠手【ＨＣ】・黄 |
 | 3153 | Reppa HS Kote・Yellow | 烈破籠手【ＨＳ】・黄 |
-| 3154 | Cannon Claws・Water | 加農水爪 |
-| 3155 | Cannon F Claws・Water | 加農水爪【Ｆ】 |
-| 3156 | Cannon FZ Claws・Water | 加農水爪【ＦＺ】 |
-| 3157 | Cannon HC Claws・Water | 加農水爪【ＨＣ】 |
-| 3158 | Cannon HS Claws・Water | 加農水爪【ＨＳ】 |
-| 3159 | Axel Claws・Water | 輪軸水爪 |
-| 3160 | Axel F Claws・Water | 輪軸水爪【Ｆ】 |
-| 3161 | Axel FZ Claws・Water | 輪軸水爪【ＦＺ】 |
-| 3162 | Axel HC Claws・Water | 輪軸水爪【ＨＣ】 |
-| 3163 | Axel HS Claws・Water | 輪軸水爪【ＨＳ】 |
+| 3154 | Cannon Claws・Water | 加農爪・水 |
+| 3155 | Cannon F Claws・Water | 加農爪【Ｆ】・水 |
+| 3156 | Cannon FZ Claws・Water | 加農爪【ＦＺ】・水 |
+| 3157 | Cannon HC Claws・Water | 加農爪【ＨＣ】・水 |
+| 3158 | Cannon HS Claws・Water | 加農爪【ＨＳ】・水 |
+| 3159 | Axel Claws・Water | 輪軸爪・水 |
+| 3160 | Axel F Claws・Water | 輪軸爪【Ｆ】・水 |
+| 3161 | Axel FZ Claws・Water | 輪軸爪【ＦＺ】・水 |
+| 3162 | Axel HC Claws・Water | 輪軸爪【ＨＣ】・水 |
+| 3163 | Axel HS Claws・Water | 輪軸爪【ＨＳ】・水 |
 | 3164 | Cannon Claws・Green | 加農爪・緑 |
 | 3165 | Cannon F Claws・Green | 加農爪【Ｆ】・緑 |
 | 3166 | Cannon FZ Claws・Green | 加農爪【ＦＺ】・緑 |
@@ -390,16 +390,16 @@
 | 3384 | Magos FZ Guard・Red | 瑪戈斯臂甲【ＦＺ】・赤 |
 | 3385 | Magos HC Guard・Red | 瑪戈斯臂甲【ＨＣ】・赤 |
 | 3386 | Magos HS Guard・Red | 瑪戈斯臂甲【ＨＳ】・赤 |
-| 3387 | Magos Arms・Water | 瑪戈斯水護腕 |
-| 3388 | Magos F Arms・Water | 瑪戈斯水護腕【Ｆ】 |
-| 3389 | Magos FZ Arms・Water | 瑪戈斯水護腕【ＦＺ】 |
-| 3390 | Magos HC Arms・Water | 瑪戈斯水護腕【ＨＣ】 |
-| 3391 | Magos HS Arms・Water | 瑪戈斯水護腕【ＨＳ】 |
-| 3392 | Magos Guard・Water | 瑪戈斯水臂甲 |
-| 3393 | Magos F Guard・Water | 瑪戈斯水臂甲【Ｆ】 |
-| 3394 | Magos FZ Guard・Water | 瑪戈斯水臂甲【ＦＺ】 |
-| 3395 | Magos HC Guard・Water | 瑪戈斯水臂甲【ＨＣ】 |
-| 3396 | Magos HS Guard・Water | 瑪戈斯水臂甲【ＨＳ】 |
+| 3387 | Magos Arms・Water | 瑪戈斯護腕・水 |
+| 3388 | Magos F Arms・Water | 瑪戈斯護腕【Ｆ】・水 |
+| 3389 | Magos FZ Arms・Water | 瑪戈斯護腕【ＦＺ】・水 |
+| 3390 | Magos HC Arms・Water | 瑪戈斯護腕【ＨＣ】・水 |
+| 3391 | Magos HS Arms・Water | 瑪戈斯護腕【ＨＳ】・水 |
+| 3392 | Magos Guard・Water | 瑪戈斯臂甲・水 |
+| 3393 | Magos F Guard・Water | 瑪戈斯臂甲【Ｆ】・水 |
+| 3394 | Magos FZ Guard・Water | 瑪戈斯臂甲【ＦＺ】・水 |
+| 3395 | Magos HC Guard・Water | 瑪戈斯臂甲【ＨＣ】・水 |
+| 3396 | Magos HS Guard・Water | 瑪戈斯臂甲【ＨＳ】・水 |
 | 3397 | Magos Arms・Blue | 瑪戈斯護腕・青 |
 | 3398 | Magos F Arms・Blue | 瑪戈斯護腕【Ｆ】・青 |
 | 3399 | Magos FZ Arms・Blue | 瑪戈斯護腕【ＦＺ】・青 |
@@ -414,8 +414,8 @@
 | 3408 | Magos GS Guard・Yellow | 瑪戈斯臂甲【ＧＳ】・黄 |
 | 3409 | Magos GS Arms・Red | 瑪戈斯護腕【ＧＳ】・赤 |
 | 3410 | Magos GS Guard・Red | 瑪戈斯臂甲【ＧＳ】・赤 |
-| 3411 | Magos GS Arms・Water | 瑪戈斯水護腕【ＧＳ】 |
-| 3412 | Magos GS Guard・Water | 瑪戈斯水臂甲【ＧＳ】 |
+| 3411 | Magos GS Arms・Water | 瑪戈斯護腕【ＧＳ】・水 |
+| 3412 | Magos GS Guard・Water | 瑪戈斯臂甲【ＧＳ】・水 |
 | 3413 | Magos GS Arms・Blue | 瑪戈斯護腕【ＧＳ】・青 |
 | 3414 | Magos GS Guard・Blue | 瑪戈斯臂甲【ＧＳ】・青 |
 | 3415 | Red 備ノ具足【 Kote 】 | 備具足籠手・赤 |

@@ -156,20 +156,20 @@
 | 5650 | 翡戸隠G【肩鎧】 | 翡戸隠肩鎧鎧甲【Ｇ】 |
 | 5651 | 翡戸隠GF【肩鎧】 | 肩鎧翡戸隠鎧甲 |
 | 5652 | 翡戸隠GX【肩鎧】 | 翡戸隠肩鎧鎧甲【ＧＸ】 |
-| 5653 | Blize Mail | 布萊茲鎧甲 |
-| 5654 | Blize F Mail | 布萊茲鎧甲【Ｆ】 |
+| 5653 | Blize Mail | 布來茲鎧甲 |
+| 5654 | Blize F Mail | 布來茲鎧甲【Ｆ】 |
 | 5655 | Blize FY Mail | 布伊茲艾鎧甲 |
-| 5656 | Blize HS Mail | 布萊茲鎧甲【ＨＳ】 |
-| 5657 | Blize G Mail | 布萊茲鎧甲【Ｇ】 |
-| 5658 | Blize GF Mail | 布萊茲鎧甲【ＧＦ】 |
-| 5659 | Blize GX Mail | 布萊茲鎧甲【ＧＸ】 |
-| 5660 | Blize Vest | 布萊茲背心 |
-| 5661 | Blize F Vest | 布萊茲背心【Ｆ】 |
+| 5656 | Blize HS Mail | 布來茲鎧甲【ＨＳ】 |
+| 5657 | Blize G Mail | 布來茲鎧甲【Ｇ】 |
+| 5658 | Blize GF Mail | 布來茲鎧甲【ＧＦ】 |
+| 5659 | Blize GX Mail | 布來茲鎧甲【ＧＸ】 |
+| 5660 | Blize Vest | 布來茲背心 |
+| 5661 | Blize F Vest | 布來茲背心【Ｆ】 |
 | 5662 | Blize FY Vest | 布伊茲艾背心 |
-| 5663 | Blize HS Vest | 布萊茲背心【ＨＳ】 |
-| 5664 | Blize G Vest | 布萊茲背心【Ｇ】 |
-| 5665 | Blize GF Vest | 布萊茲背心【ＧＦ】 |
-| 5666 | Blize GX Vest | 布萊茲背心【ＧＸ】 |
+| 5663 | Blize HS Vest | 布來茲背心【ＨＳ】 |
+| 5664 | Blize G Vest | 布來茲背心【Ｇ】 |
+| 5665 | Blize GF Vest | 布來茲背心【ＧＦ】 |
+| 5666 | Blize GX Vest | 布來茲背心【ＧＸ】 |
 | 5667 | Mixes FY Mail | 姆伊克斯鎧甲 |
 | 5668 | Mixes HS Mail | 混搭鎧甲【ＨＳ】 |
 | 5669 | Mixes G Mail | 混搭鎧甲【Ｇ】 |
@@ -192,18 +192,18 @@
 | 5686 | Zyra HS Suit・Green | 齊拉套裝【ＨＳ】・緑 |
 | 5687 | Zyra GS Suit・Green | 齊拉套裝【ＧＳ】・緑 |
 | 5688 | Zyra GP Suit・Green | 齊拉套裝【ＧＰ】・緑 |
-| 5689 | Zyra Mail・Water | 齊拉水鎧甲 |
-| 5690 | Zyra F Mail・Water | 齊拉水鎧甲【Ｆ】 |
-| 5691 | Zyra FZ Mail・Water | 齊拉水鎧甲【ＦＺ】 |
-| 5692 | Zyra HS Mail・Water | 齊拉水鎧甲【ＨＳ】 |
-| 5693 | Zyra GS Mail・Water | 齊拉水鎧甲【ＧＳ】 |
-| 5694 | Zyra GP Mail・Water | 齊拉水鎧甲【ＧＰ】 |
-| 5695 | Zyra Suit・Water | 齊拉水套裝 |
-| 5696 | Zyra F Suit・Water | 齊拉水套裝【Ｆ】 |
-| 5697 | Zyra FZ Suit・Water | 齊拉水套裝【ＦＺ】 |
-| 5698 | Zyra HS Suit・Water | 齊拉水套裝【ＨＳ】 |
-| 5699 | Zyra GS Suit・Water | 齊拉水套裝【ＧＳ】 |
-| 5700 | Zyra GP Suit・Water | 齊拉水套裝【ＧＰ】 |
+| 5689 | Zyra Mail・Water | 齊拉鎧甲・水 |
+| 5690 | Zyra F Mail・Water | 齊拉鎧甲【Ｆ】・水 |
+| 5691 | Zyra FZ Mail・Water | 齊拉鎧甲【ＦＺ】・水 |
+| 5692 | Zyra HS Mail・Water | 齊拉鎧甲【ＨＳ】・水 |
+| 5693 | Zyra GS Mail・Water | 齊拉鎧甲【ＧＳ】・水 |
+| 5694 | Zyra GP Mail・Water | 齊拉鎧甲【ＧＰ】・水 |
+| 5695 | Zyra Suit・Water | 齊拉套裝・水 |
+| 5696 | Zyra F Suit・Water | 齊拉套裝【Ｆ】・水 |
+| 5697 | Zyra FZ Suit・Water | 齊拉套裝【ＦＺ】・水 |
+| 5698 | Zyra HS Suit・Water | 齊拉套裝【ＨＳ】・水 |
+| 5699 | Zyra GS Suit・Water | 齊拉套裝【ＧＳ】・水 |
+| 5700 | Zyra GP Suit・Water | 齊拉套裝【ＧＰ】・水 |
 | 5701 | Zyra Mail・Red | 齊拉鎧甲・赤 |
 | 5702 | Zyra F Mail・Red | 齊拉鎧甲【Ｆ】・赤 |
 | 5703 | Zyra FZ Mail・Red | 齊拉鎧甲【ＦＺ】・赤 |
@@ -368,54 +368,54 @@
 | 5862 | Ex HS Suit・Black | 艾克斯套裝【ＨＳ】・黑 |
 | 5863 | Ex GS Suit・Black | 艾克斯套裝【ＧＳ】・黑 |
 | 5864 | Ex GP Suit・Black | 艾克斯套裝【ＧＰ】・黑 |
-| 5865 | Gold Cat FZ Vest | 猫背心【ＦＺ】・金 |
-| 5866 | Gold Cat HS Vest | 猫背心【ＨＳ】・金 |
-| 5867 | Gold Cat GS Vest | 猫背心【ＧＳ】・金 |
-| 5868 | Gold Cat GP Vest | 猫背心【ＧＰ】・金 |
-| 5869 | Gold Cat FZ Suit | 猫套裝【ＦＺ】・金 |
-| 5870 | Gold Cat HS Suit | 猫套裝【ＨＳ】・金 |
-| 5871 | Gold Cat GS Suit | 猫套裝【ＧＳ】・金 |
-| 5872 | Gold Cat GP Suit | 猫套裝【ＧＰ】・金 |
-| 5873 | Silver Cat FZ Vest | 猫背心【ＦＺ】・銀 |
-| 5874 | Silver Cat HS Vest | 猫背心【ＨＳ】・銀 |
-| 5875 | Silver Cat GS Vest | 猫背心【ＧＳ】・銀 |
-| 5876 | Silver Cat GP Vest | 猫背心【ＧＰ】・銀 |
-| 5877 | Silver Cat FZ Suit | 猫套裝【ＦＺ】・銀 |
-| 5878 | Silver Cat HS Suit | 猫套裝【ＨＳ】・銀 |
-| 5879 | Silver Cat GS Suit | 猫套裝【ＧＳ】・銀 |
-| 5880 | Silver Cat GP Suit | 猫套裝【ＧＰ】・銀 |
-| 5881 | Claire FZ Vest・Purple | 克蕾兒背心【ＦＺ】・紫 |
-| 5882 | Claire HS Vest・Purple | 克蕾兒背心【ＨＳ】・紫 |
-| 5883 | Claire GS Vest・Purple | 克蕾兒背心【ＧＳ】・紫 |
-| 5884 | Claire GP Vest・Purple | 克蕾兒背心【ＧＰ】・紫 |
-| 5885 | Claire FZ Suit・Purple | 克蕾兒套裝【ＦＺ】・紫 |
-| 5886 | Claire HS Suit・Purple | 克蕾兒套裝【ＨＳ】・紫 |
-| 5887 | Claire GS Suit・Purple | 克蕾兒套裝【ＧＳ】・紫 |
-| 5888 | Claire GP Suit・Purple | 克蕾兒套裝【ＧＰ】・紫 |
-| 5889 | Claire FZ Vest・Water | 克蕾兒水背心【ＦＺ】 |
-| 5890 | Claire HS Vest・Water | 克蕾兒水背心【ＨＳ】 |
-| 5891 | Claire GS Vest・Water | 克蕾兒水背心【ＧＳ】 |
-| 5892 | Claire GP Vest・Water | 克蕾兒水背心【ＧＰ】 |
-| 5893 | Claire FZ Suit・Water | 克蕾兒水套裝【ＦＺ】 |
-| 5894 | Claire HS Suit・Water | 克蕾兒水套裝【ＨＳ】 |
-| 5895 | Claire GS Suit・Water | 克蕾兒水套裝【ＧＳ】 |
-| 5896 | Claire GP Suit・Water | 克蕾兒水套裝【ＧＰ】 |
-| 5897 | Claire FZ Vest・Red | 克蕾兒背心【ＦＺ】・赤 |
-| 5898 | Claire HS Vest・Red | 克蕾兒背心【ＨＳ】・赤 |
-| 5899 | Claire GS Vest・Red | 克蕾兒背心【ＧＳ】・赤 |
-| 5900 | Claire GP Vest・Red | 克蕾兒背心【ＧＰ】・赤 |
-| 5901 | Claire FZ Suit・Red | 克蕾兒套裝【ＦＺ】・赤 |
-| 5902 | Claire HS Suit・Red | 克蕾兒套裝【ＨＳ】・赤 |
-| 5903 | Claire GS Suit・Red | 克蕾兒套裝【ＧＳ】・赤 |
-| 5904 | Claire GP Suit・Red | 克蕾兒套裝【ＧＰ】・赤 |
-| 5905 | Claire FZ Vest・Black | 克蕾兒背心【ＦＺ】・黑 |
-| 5906 | Claire HS Vest・Black | 克蕾兒背心【ＨＳ】・黑 |
-| 5907 | Claire GS Vest・Black | 克蕾兒背心【ＧＳ】・黑 |
-| 5908 | Claire GP Vest・Black | 克蕾兒背心【ＧＰ】・黑 |
-| 5909 | Claire FZ Suit・Black | 克蕾兒套裝【ＦＺ】・黑 |
-| 5910 | Claire HS Suit・Black | 克蕾兒套裝【ＨＳ】・黑 |
-| 5911 | Claire GS Suit・Black | 克蕾兒套裝【ＧＳ】・黑 |
-| 5912 | Claire GP Suit・Black | 克蕾兒套裝【ＧＰ】・黑 |
+| 5865 | Gold Cat FZ Vest | 金猫背心【ＦＺ】 |
+| 5866 | Gold Cat HS Vest | 金猫背心【ＨＳ】 |
+| 5867 | Gold Cat GS Vest | 金猫背心【ＧＳ】 |
+| 5868 | Gold Cat GP Vest | 金猫背心【ＧＰ】 |
+| 5869 | Gold Cat FZ Suit | 金猫套裝【ＦＺ】 |
+| 5870 | Gold Cat HS Suit | 金猫套裝【ＨＳ】 |
+| 5871 | Gold Cat GS Suit | 金猫套裝【ＧＳ】 |
+| 5872 | Gold Cat GP Suit | 金猫套裝【ＧＰ】 |
+| 5873 | Silver Cat FZ Vest | 銀猫背心【ＦＺ】 |
+| 5874 | Silver Cat HS Vest | 銀猫背心【ＨＳ】 |
+| 5875 | Silver Cat GS Vest | 銀猫背心【ＧＳ】 |
+| 5876 | Silver Cat GP Vest | 銀猫背心【ＧＰ】 |
+| 5877 | Silver Cat FZ Suit | 銀猫套裝【ＦＺ】 |
+| 5878 | Silver Cat HS Suit | 銀猫套裝【ＨＳ】 |
+| 5879 | Silver Cat GS Suit | 銀猫套裝【ＧＳ】 |
+| 5880 | Silver Cat GP Suit | 銀猫套裝【ＧＰ】 |
+| 5881 | Claire FZ Vest・Purple | 克蕾爾背心【ＦＺ】・紫 |
+| 5882 | Claire HS Vest・Purple | 克蕾爾背心【ＨＳ】・紫 |
+| 5883 | Claire GS Vest・Purple | 克蕾爾背心【ＧＳ】・紫 |
+| 5884 | Claire GP Vest・Purple | 克蕾爾背心【ＧＰ】・紫 |
+| 5885 | Claire FZ Suit・Purple | 克蕾爾套裝【ＦＺ】・紫 |
+| 5886 | Claire HS Suit・Purple | 克蕾爾套裝【ＨＳ】・紫 |
+| 5887 | Claire GS Suit・Purple | 克蕾爾套裝【ＧＳ】・紫 |
+| 5888 | Claire GP Suit・Purple | 克蕾爾套裝【ＧＰ】・紫 |
+| 5889 | Claire FZ Vest・Water | 克蕾爾背心【ＦＺ】・水 |
+| 5890 | Claire HS Vest・Water | 克蕾爾背心【ＨＳ】・水 |
+| 5891 | Claire GS Vest・Water | 克蕾爾背心【ＧＳ】・水 |
+| 5892 | Claire GP Vest・Water | 克蕾爾背心【ＧＰ】・水 |
+| 5893 | Claire FZ Suit・Water | 克蕾爾套裝【ＦＺ】・水 |
+| 5894 | Claire HS Suit・Water | 克蕾爾套裝【ＨＳ】・水 |
+| 5895 | Claire GS Suit・Water | 克蕾爾套裝【ＧＳ】・水 |
+| 5896 | Claire GP Suit・Water | 克蕾爾套裝【ＧＰ】・水 |
+| 5897 | Claire FZ Vest・Red | 克蕾爾背心【ＦＺ】・赤 |
+| 5898 | Claire HS Vest・Red | 克蕾爾背心【ＨＳ】・赤 |
+| 5899 | Claire GS Vest・Red | 克蕾爾背心【ＧＳ】・赤 |
+| 5900 | Claire GP Vest・Red | 克蕾爾背心【ＧＰ】・赤 |
+| 5901 | Claire FZ Suit・Red | 克蕾爾套裝【ＦＺ】・赤 |
+| 5902 | Claire HS Suit・Red | 克蕾爾套裝【ＨＳ】・赤 |
+| 5903 | Claire GS Suit・Red | 克蕾爾套裝【ＧＳ】・赤 |
+| 5904 | Claire GP Suit・Red | 克蕾爾套裝【ＧＰ】・赤 |
+| 5905 | Claire FZ Vest・Black | 克蕾爾背心【ＦＺ】・黑 |
+| 5906 | Claire HS Vest・Black | 克蕾爾背心【ＨＳ】・黑 |
+| 5907 | Claire GS Vest・Black | 克蕾爾背心【ＧＳ】・黑 |
+| 5908 | Claire GP Vest・Black | 克蕾爾背心【ＧＰ】・黑 |
+| 5909 | Claire FZ Suit・Black | 克蕾爾套裝【ＦＺ】・黑 |
+| 5910 | Claire HS Suit・Black | 克蕾爾套裝【ＨＳ】・黑 |
+| 5911 | Claire GS Suit・Black | 克蕾爾套裝【ＧＳ】・黑 |
+| 5912 | Claire GP Suit・Black | 克蕾爾套裝【ＧＰ】・黑 |
 | 5913 | Text HS Vest・Purple | 文書背心【ＨＳ】・紫 |
 | 5914 | Text GS Vest・Purple | 文書背心【ＧＳ】・紫 |
 | 5915 | Text GP Vest・Purple | 文書背心【ＧＰ】・紫 |

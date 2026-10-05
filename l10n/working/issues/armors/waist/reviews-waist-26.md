@@ -22,7 +22,7 @@
 | 12516 | Suzaku・双龍D Coil | 双龍腰甲 |
 | 12517 | Suzaku・剣王D Coil | 剣王腰甲 |
 | 12518 | Suzaku・刀神D Coil | 刀神腰甲 |
-| 12519 | Suzaku・Heaven 槍D Coil | 槍腰甲・天 |
+| 12519 | Suzaku・Heaven 槍D Coil | 槍天腰甲 |
 | 12520 | Suzaku・砲皇D Coil | 砲皇腰甲 |
 | 12521 | Suzaku・鈍器獣D Coil | 鈍器獣腰甲 |
 | 12522 | Suzaku・奏帝D Coil | 奏帝腰甲 |
@@ -30,10 +30,10 @@
 | 12524 | Suzaku・斬将D Coil | 斬将腰甲 |
 | 12525 | Suzaku・銃傑D Coat | 銃傑腰衣 |
 | 12526 | Suzaku・銃仙D Coat | 銃仙腰衣 |
-| 12527 | Suzaku・Bow 鬼D Coat | 鬼腰衣 |
-| 12528 | G・Knight Coat PD Red | 騎士腰衣【Ｇ】【ＰＤ】・赤 |
-| 12529 | G・Knight Coat PD Blue | 騎士腰衣【Ｇ】【ＰＤ】・青 |
-| 12530 | G・Knight Coat PD Purple | 騎士腰衣【Ｇ】【ＰＤ】・紫 |
+| 12527 | Suzaku・Bow 鬼D Coat | 朱雀腰衣 |
+| 12528 | G・Knight Coat PD Red | 騎士腰衣【ＰＤ】・赤 |
+| 12529 | G・Knight Coat PD Blue | 騎士腰衣【ＰＤ】・青 |
+| 12530 | G・Knight Coat PD Purple | 騎士腰衣【ＰＤ】・紫 |
 | 12531 | PV Frill PD Red | 普褶邊【ＰＤ】・赤 |
 | 12532 | PV Frill PD Blue | 普褶邊【ＰＤ】・青 |
 | 12533 | PV Frill PD Purple | 普褶邊【ＰＤ】・紫 |
@@ -55,12 +55,12 @@
 | 12549 | Makluva Coil PD Green | 馬庫瓦腰甲【ＰＤ】・緑 |
 | 12550 | Makluva Coil PD Blue | 馬庫瓦腰甲【ＰＤ】・青 |
 | 12551 | Makluva Coil PD Black | 馬庫瓦腰甲【ＰＤ】・黑 |
-| 12552 | Akantor イッケク PD Black | 霸龍腰甲【ＰＤ】 |
-| 12553 | Akantor イッケク PD Red | 霸龍腰甲【ＰＤ】 |
-| 12554 | Akantor イッケク PD White | 霸龍腰甲【ＰＤ】 |
-| 12555 | Akantor クッコレ PD Black | 霸龍腰甲【ＰＤ】 |
-| 12556 | Akantor クッコレ PD Red | 霸龍腰甲【ＰＤ】 |
-| 12557 | Akantor クッコレ PD White | 霸龍腰甲【ＰＤ】 |
+| 12552 | Akantor イッケク PD Black | 霸龍腰甲【ＰＤ】・黑 |
+| 12553 | Akantor イッケク PD Red | 霸龍腰甲【ＰＤ】・赤 |
+| 12554 | Akantor イッケク PD White | 霸龍腰甲【ＰＤ】・白 |
+| 12555 | Akantor クッコレ PD Black | 霸龍腰甲【ＰＤ】・黑 |
+| 12556 | Akantor クッコレ PD Red | 霸龍腰甲【ＰＤ】・赤 |
+| 12557 | Akantor クッコレ PD White | 霸龍腰甲【ＰＤ】・白 |
 | 12558 | Gravios Coil PD Black | 鎧龍腰甲【ＰＤ】・黑 |
 | 12559 | Gravios Coil PD Blue | 鎧龍腰甲【ＰＤ】・青 |
 | 12560 | Gravios Coil PD Red | 鎧龍腰甲【ＰＤ】・赤 |
@@ -92,7 +92,7 @@
 | 12586 | Reiresu D Coil | 爾艾爾艾腰甲 |
 | 12587 | Reuasu D Coil | 爾艾斯烏腰甲 |
 | 12588 | Buran D Faulds | 布烏爾阿腰甲 |
-| 12589 | ハンショク Mask D | 德腰甲 |
+| 12589 | ハンショク Mask D | 哈恩希約庫腰甲 |
 | 12590 | Shimashima D Waist | 夏伊姆阿腰甲 |
 | 12591 | デストラDタセット | 德斯托拉腰甲 |
 | 12592 | Furante D Coil | 芙烏爾阿腰甲 |
@@ -418,7 +418,7 @@
 | 12912 | Genbu・双龍D Coil | 双龍腰甲 |
 | 12913 | Genbu・剣王D Coil | 剣王腰甲 |
 | 12914 | Genbu・刀神D Coil | 刀神腰甲 |
-| 12915 | Genbu・Heaven 槍D Coil | 槍腰甲・天 |
+| 12915 | Genbu・Heaven 槍D Coil | 槍天腰甲 |
 | 12916 | Genbu・砲皇D Coil | 砲皇腰甲 |
 | 12917 | Genbu・鈍器獣D Coil | 鈍器獣腰甲 |
 | 12918 | Genbu・奏帝D Coil | 奏帝腰甲 |
@@ -426,7 +426,7 @@
 | 12920 | Genbu・斬将D Coil | 斬将腰甲 |
 | 12921 | Genbu・銃傑D Coat | 銃傑腰衣 |
 | 12922 | Genbu・銃仙D Coat | 銃仙腰衣 |
-| 12923 | Genbu・Bow 鬼D Coat | 鬼腰衣 |
+| 12923 | Genbu・Bow 鬼D Coat | 玄武腰衣 |
 | 12924 | Tanzanite D Coil | 特阿恩阿腰甲 |
 | 12925 | Hematite D Coil | 赫艾姆阿腰甲 |
 | 12926 | Byakko・磁星D Coil | 磁星腰甲 |
@@ -474,10 +474,10 @@
 | 12968 | Reflet D Coil・White | 爾艾芙艾腰甲・白 |
 | 12969 | Reflet D Coil・Red | 爾艾芙艾腰甲・赤 |
 | 12970 | Reflet D Coil・Black | 爾艾芙艾腰甲・黑 |
-| 12971 | Tenpi ノ佩楯D・Red | 天陽腰甲 |
-| 12972 | Tenpi ノ佩楯D・Blue | 天陽腰甲 |
-| 12973 | Tenpi ノ佩楯D・Black | 天陽腰甲 |
-| 12974 | Tenpi ノ佩楯D・White | 天陽腰甲 |
+| 12971 | Tenpi ノ佩楯D・Red | 天陽腰甲・赤 |
+| 12972 | Tenpi ノ佩楯D・Blue | 天陽腰甲・青 |
+| 12973 | Tenpi ノ佩楯D・Black | 天陽腰甲・黑 |
+| 12974 | Tenpi ノ佩楯D・White | 天陽腰甲・白 |
 | 12975 | Tenpi Waistband D・Red | 特艾恩伊腰帶・赤 |
 | 12976 | Tenpi Waistband D・Blue | 特艾恩伊腰帶・青 |
 | 12977 | Tenpi Waistband D・Black | 特艾恩伊腰帶・黑 |
@@ -498,10 +498,10 @@
 | 12992 | Gelt D Coil・Copper | 格艾爾腰甲・銅 |
 | 12993 | Gelt D Coil・Silver | 格艾爾腰甲・銀 |
 | 12994 | Gelt D Coil・Gold | 格艾爾腰甲・金 |
-| 12995 | Gloria D Coil・Gold | 格歐爾伊腰甲・金 |
-| 12996 | Gloria D Coil・Blue | 格歐爾伊腰甲・青 |
-| 12997 | Gloria D Coil・Water | 格歐爾伊腰甲 |
-| 12998 | Gloria D Coil・Red | 格歐爾伊腰甲・赤 |
+| 12995 | Gloria D Coil・Gold | 榮光腰甲・金 |
+| 12996 | Gloria D Coil・Blue | 榮光腰甲・青 |
+| 12997 | Gloria D Coil・Water | 榮光腰甲・水 |
+| 12998 | Gloria D Coil・Red | 榮光腰甲・赤 |
 | 12999 | Cloth D Coil・Red | 克歐斯腰甲・赤 |
 | 13000 | Cloth D Coil・Blue | 克歐斯腰甲・青 |
 

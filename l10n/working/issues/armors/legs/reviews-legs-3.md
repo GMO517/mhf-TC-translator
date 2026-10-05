@@ -9,22 +9,22 @@
 | 1002 | フェサーF Feet | 芙薩足【Ｆ】 |
 | 1003 | シアンス Boots | 希安斯靴 |
 | 1004 | シアンスF Boots | 希安斯靴【Ｆ】 |
-| 1005 | Gold Feet・Red | 足・金・赤 |
-| 1006 | Gold F Feet・Red | 足【Ｆ】・金・赤 |
-| 1007 | Gold Boots・Red | 靴・金・赤 |
-| 1008 | Gold F Boots・Red | 靴【Ｆ】・金・赤 |
-| 1009 | Gold Feet・Blue | 足・金・青 |
-| 1010 | Gold F Feet・Blue | 足【Ｆ】・金・青 |
-| 1011 | Gold Boots・Blue | 靴・金・青 |
-| 1012 | Gold F Boots・Blue | 靴【Ｆ】・金・青 |
-| 1013 | Gold Feet・Yellow | 足・金・黄 |
-| 1014 | Gold F Feet・Yellow | 足【Ｆ】・金・黄 |
-| 1015 | Gold Boots・Yellow | 靴・金・黄 |
-| 1016 | Gold F Boots・Yellow | 靴【Ｆ】・金・黄 |
-| 1017 | Gold Feet・Purple | 足・金・紫 |
-| 1018 | Gold F Feet・Purple | 足【Ｆ】・金・紫 |
-| 1019 | Gold Boots・Purple | 靴・金・紫 |
-| 1020 | Gold F Boots・Purple | 靴【Ｆ】・金・紫 |
+| 1005 | Gold Feet・Red | 金足・赤 |
+| 1006 | Gold F Feet・Red | 金足【Ｆ】・赤 |
+| 1007 | Gold Boots・Red | 金靴・赤 |
+| 1008 | Gold F Boots・Red | 金靴【Ｆ】・赤 |
+| 1009 | Gold Feet・Blue | 金足・青 |
+| 1010 | Gold F Feet・Blue | 金足【Ｆ】・青 |
+| 1011 | Gold Boots・Blue | 金靴・青 |
+| 1012 | Gold F Boots・Blue | 金靴【Ｆ】・青 |
+| 1013 | Gold Feet・Yellow | 金足・黄 |
+| 1014 | Gold F Feet・Yellow | 金足【Ｆ】・黄 |
+| 1015 | Gold Boots・Yellow | 金靴・黄 |
+| 1016 | Gold F Boots・Yellow | 金靴【Ｆ】・黄 |
+| 1017 | Gold Feet・Purple | 金足・紫 |
+| 1018 | Gold F Feet・Purple | 金足【Ｆ】・紫 |
+| 1019 | Gold Boots・Purple | 金靴・紫 |
+| 1020 | Gold F Boots・Purple | 金靴【Ｆ】・紫 |
 | 1021 | シデロ Feet | 西德羅足 |
 | 1022 | シデロF Feet | 西德羅足【Ｆ】 |
 | 1023 | オール Feet | 奧爾足 |
@@ -54,8 +54,8 @@
 | 1048 | Bone L Leggings | 骨製裹腿【Ｌ】 |
 | 1049 | Vespoid L Leggings | 巨蜂裹腿【Ｌ】 |
 | 1050 | Diablos L Leggings | 角龍裹腿【Ｌ】 |
-| 1051 | G・Guard Rタイツ Crimson | 防禦護腿【Ｇ】 |
-| 1052 | G・Guard Rタイツ Crimson | 防禦護腿【Ｇ】 |
+| 1051 | G・Guard Rタイツ Crimson | 防禦護腿【Ｇ】・紅 |
+| 1052 | G・Guard Rタイツ Crimson | 防禦護腿【Ｇ】・紅 |
 | 1053 | Hornetaur R Leggings | 巨甲蟲裹腿【Ｒ】 |
 | 1054 | High Metal R Leggings | 上位金屬裹腿【Ｒ】 |
 | 1055 | Rath Soul R Leggings | 火龍魂裹腿【Ｒ】 |
@@ -64,9 +64,9 @@
 | 1058 | Gravios R Greaves | 鎧龍護腿【Ｒ】 |
 | 1059 | Io R Greaves | 伊歐護腿【Ｒ】 |
 | 1060 | Inari [Greaves 】 | 稻荷護腿 |
-| 1061 | Inari 覇 [Greaves 】 | 覇護腿 |
+| 1061 | Inari 覇 [Greaves 】 | 稻荷護腿 |
 | 1062 | Tamamo [Greaves 】 | 玉藻護腿 |
-| 1063 | Tamamo 覇 [Greaves 】 | 覇護腿 |
+| 1063 | Tamamo 覇 [Greaves 】 | 玉藻護腿 |
 | 1064 | コカロ Greaves | 寇伽羅護腿 |
 | 1065 | コカロ Leggings | 寇伽羅裹腿 |
 | 1066 | Shieri Greaves | 夏伊爾伊護腿 |
@@ -161,12 +161,12 @@
 | 1155 | Arge F Feet | 阿爾傑足【Ｆ】 |
 | 1156 | Arge Boots | 阿爾傑靴 |
 | 1157 | Arge F Boots | 阿爾傑靴【Ｆ】 |
-| 1158 | Akantor ケマル SP Black | 霸龍護腿【ＳＰ】 |
-| 1159 | Akantor ケマル SP Red | 霸龍護腿【ＳＰ】 |
-| 1160 | Akantor ケマル SP White | 霸龍護腿【ＳＰ】 |
-| 1161 | Akantor チケル SP Black | 霸龍護腿【ＳＰ】 |
-| 1162 | Akantor チケル SP Red | 霸龍護腿【ＳＰ】 |
-| 1163 | Akantor チケル SP White | 霸龍護腿【ＳＰ】 |
+| 1158 | Akantor ケマル SP Black | 霸龍護腿【ＳＰ】・黑 |
+| 1159 | Akantor ケマル SP Red | 霸龍護腿【ＳＰ】・赤 |
+| 1160 | Akantor ケマル SP White | 霸龍護腿【ＳＰ】・白 |
+| 1161 | Akantor チケル SP Black | 霸龍護腿【ＳＰ】・黑 |
+| 1162 | Akantor チケル SP Red | 霸龍護腿【ＳＰ】・赤 |
+| 1163 | Akantor チケル SP White | 霸龍護腿【ＳＰ】・白 |
 | 1164 | Gravios Greaves SP Black | 鎧龍護腿【ＳＰ】・黑 |
 | 1165 | Gravios Greaves SP Blue | 鎧龍護腿【ＳＰ】・青 |
 | 1166 | Gravios Greaves SP Red | 鎧龍護腿【ＳＰ】・赤 |
@@ -272,11 +272,11 @@
 | 1266 | Pharan F Feet・Blue | 法藍足【Ｆ】・青 |
 | 1267 | Pharan Boots・Blue | 法藍靴・青 |
 | 1268 | Pharan F Boots・Blue | 法藍靴【Ｆ】・青 |
-| 1269 | Gold Cat F Feet | 猫足【Ｆ】・金 |
-| 1270 | Gold Cat F Boots | 猫靴【Ｆ】・金 |
-| 1271 | Silver Cat Boots | 猫靴・銀 |
-| 1272 | Silver Cat F Feet | 猫足【Ｆ】・銀 |
-| 1273 | Silver Cat F Boots | 猫靴【Ｆ】・銀 |
+| 1269 | Gold Cat F Feet | 金猫足【Ｆ】 |
+| 1270 | Gold Cat F Boots | 金猫靴【Ｆ】 |
+| 1271 | Silver Cat Boots | 銀猫靴 |
+| 1272 | Silver Cat F Feet | 銀猫足【Ｆ】 |
+| 1273 | Silver Cat F Boots | 銀猫靴【Ｆ】 |
 | 1274 | ヴィン Leg | 温腿 |
 | 1275 | ヴィンF Leg | 温腿【Ｆ】 |
 | 1276 | ヴァンデ Leg | 芙恩德腿 |
@@ -467,8 +467,8 @@
 | 1461 | ダミー | (dummy) |
 | 1462 | ダミー | (dummy) |
 | 1463 | White Fatalis R Feet | 白黑龍足【Ｒ】 |
-| 1464 | G・Lune R Leggings | 月裹腿【Ｇ】【Ｒ】 |
-| 1465 | S・Sol R Leggings | 日裹腿【Ｓ】【Ｒ】 |
+| 1464 | G・Lune R Leggings | 月裹腿【Ｒ】 |
+| 1465 | S・Sol R Leggings | S索倫裹腿【Ｒ】 |
 | 1466 | Death Stench L March | 死臭行軍腿【Ｌ】 |
 | 1467 | Green L Jersey | 運動袴【Ｌ】・緑 |
 | 1468 | Blue L Jersey | 運動袴【Ｌ】・青 |

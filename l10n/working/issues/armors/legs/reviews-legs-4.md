@@ -165,8 +165,8 @@
 | 1659 | Kamiza FX【 Hakama 】 | 上座袴【ＦＸ】 |
 | 1660 | Green 空ノ Hakama | 空袴・緑 |
 | 1661 | Green 空ノ Hakama・魁 | 空魁袴・緑 |
-| 1662 | Welkin Hakama | 蒼穹袴 |
-| 1663 | Welkin Hakama・魁 | 魁袴 |
+| 1662 | Welkin Hakama | 穹蒼袴 |
+| 1663 | Welkin Hakama・魁 | 穹蒼袴魁 |
 | 1664 | Breo Greaves | 布艾護腿 |
 | 1665 | Breo F Greaves | 布艾護腿【Ｆ】 |
 | 1666 | Vinen Greaves | 芙伊恩艾護腿 |
@@ -219,19 +219,19 @@
 | 1713 | Miru F Feet | 姆伊爾烏足【Ｆ】 |
 | 1714 | Pasu Boots | 普阿斯烏靴 |
 | 1715 | Pasu F Boots | 普阿斯烏靴【Ｆ】 |
-| 1716 | Randa の Hakama・Yellow | の袴・黄 |
+| 1716 | Randa の Hakama・Yellow | 爾阿恩阿袴・黄 |
 | 1717 | 蘭蛮の Hakama・Yellow | 蘭蛮の袴・黄 |
 | 1718 | Randa の履・Yellow | の履護腿・黄 |
 | 1719 | 蘭蛮の履・Yellow | 蘭蛮の履護腿・黄 |
-| 1720 | Randa の Hakama・Red | の袴・赤 |
+| 1720 | Randa の Hakama・Red | 爾阿恩阿袴・赤 |
 | 1721 | 蘭蛮の Hakama・Red | 蘭蛮の袴・赤 |
 | 1722 | Randa の履・Red | の履護腿・赤 |
 | 1723 | 蘭蛮の履・Red | 蘭蛮の履護腿・赤 |
-| 1724 | Randa の Hakama・Purple | の袴・紫 |
+| 1724 | Randa の Hakama・Purple | 爾阿恩阿袴・紫 |
 | 1725 | 蘭蛮の Hakama・Purple | 蘭蛮の袴・紫 |
 | 1726 | Randa の履・Purple | の履護腿・紫 |
 | 1727 | 蘭蛮の履・Purple | 蘭蛮の履護腿・紫 |
-| 1728 | Randa の Hakama・Gold | の袴・金 |
+| 1728 | Randa の Hakama・Gold | 爾阿恩阿袴・金 |
 | 1729 | 蘭蛮の Hakama・Gold | 蘭蛮の袴・金 |
 | 1730 | Randa の履・Gold | の履護腿・金 |
 | 1731 | 蘭蛮の履・Gold | 蘭蛮の履護腿・金 |
@@ -279,10 +279,10 @@
 | 1773 | 旋風F脚着 | 旋風脚着護腿 |
 | 1774 | 巴脚着 | 巴脚着護腿 |
 | 1775 | 巴F脚着 | 巴脚着護腿 |
-| 1776 | Heaven 空脚着 | 空脚着護腿・天 |
-| 1777 | Heaven 空F脚着 | 空脚着護腿・天 |
-| 1778 | Heaven 昇脚着 | 昇脚着護腿・天 |
-| 1779 | Heaven 昇F脚着 | 昇脚着護腿・天 |
+| 1776 | Heaven 空脚着 | 空脚着天護腿 |
+| 1777 | Heaven 空F脚着 | 空脚着天護腿 |
+| 1778 | Heaven 昇脚着 | 昇脚着天護腿 |
+| 1779 | Heaven 昇F脚着 | 昇脚着天護腿 |
 | 1780 | Jeamu Feet | 傑艾姆烏足 |
 | 1781 | Jeamu F Feet | 傑艾姆烏足【Ｆ】 |
 | 1782 | Amyusu Feet | 阿姆烏斯足 |
@@ -315,7 +315,7 @@
 | 1809 | Buran F Greaves | 布烏爾阿護腿【Ｆ】 |
 | 1810 | Zwinger Feet | 茲伊恩艾足 |
 | 1811 | Zwinger Boots | 茲伊恩艾靴 |
-| 1812 | Demon Lord ノ足枷・魁 | 惡魔魁護腿 |
+| 1812 | Demon Lord ノ足枷・魁 | 魔王護腿魁 |
 | 1813 | 童子ノ足枷・魁 | 童子足枷魁護腿 |
 | 1814 | Melan F Greaves | 紫黑護腿【Ｆ】 |
 | 1815 | Melan F Leggings | 紫黑裹腿【Ｆ】 |
@@ -450,7 +450,7 @@
 | 1944 | Diina Leg | 德伊恩阿腿 |
 | 1945 | Diina F Leg | 德伊恩阿腿【Ｆ】 |
 | 1946 | True Shadow Hakama | 真影袴 |
-| 1947 | True Shadow Hakama・魁 | 魁袴 |
+| 1947 | True Shadow Hakama・魁 | 真影袴魁 |
 | 1948 | 翔影ノ Hakama | 翔影袴 |
 | 1949 | 翔影ノ Hakama・魁 | 翔影魁袴 |
 | 1950 | Black Tiger Greaves | 黑虎護腿 |
@@ -469,10 +469,10 @@
 | 1963 | Galitos F Feet・Black | 加里托斯足【Ｆ】・黑 |
 | 1964 | Galitos Boots・Black | 加里托斯靴・黑 |
 | 1965 | Galitos F Boots・Black | 加里托斯靴【Ｆ】・黑 |
-| 1966 | Galitos Feet・Water | 加里托斯水足 |
-| 1967 | Galitos F Feet・Water | 加里托斯水足【Ｆ】 |
-| 1968 | Galitos Boots・Water | 加里托斯水靴 |
-| 1969 | Galitos F Boots・Water | 加里托斯水靴【Ｆ】 |
+| 1966 | Galitos Feet・Water | 加里托斯足・水 |
+| 1967 | Galitos F Feet・Water | 加里托斯足【Ｆ】・水 |
+| 1968 | Galitos Boots・Water | 加里托斯靴・水 |
+| 1969 | Galitos F Boots・Water | 加里托斯靴【Ｆ】・水 |
 | 1970 | Riburi Feet | 里布里足 |
 | 1971 | Riburi F Feet | 里布里足【Ｆ】 |
 | 1972 | Riburi FZ Feet | 里布里足【ＦＺ】 |

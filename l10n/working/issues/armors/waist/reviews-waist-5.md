@@ -104,7 +104,7 @@
 | 2098 | Diina Waist | 德伊恩阿腰甲 |
 | 2099 | Diina F Waist | 德伊恩阿腰甲【Ｆ】 |
 | 2100 | True Shadow Obi | 真影帶 |
-| 2101 | True Shadow Obi・魁 | 魁帶 |
+| 2101 | True Shadow Obi・魁 | 真影帶魁 |
 | 2102 | 翔影ノ Obi | 翔影帶 |
 | 2103 | 翔影ノ Obi・魁 | 翔影魁帶 |
 | 2104 | Black Tiger Obi | 黑虎帶 |
@@ -123,10 +123,10 @@
 | 2117 | Galitos F Belt・Black | 加里托斯腰帶【Ｆ】・黑 |
 | 2118 | Galitos Coat・Black | 加里托斯腰衣・黑 |
 | 2119 | Galitos F Coat・Black | 加里托斯腰衣【Ｆ】・黑 |
-| 2120 | Galitos Belt・Water | 加里托斯水腰帶 |
-| 2121 | Galitos F Belt・Water | 加里托斯水腰帶【Ｆ】 |
-| 2122 | Galitos Coat・Water | 加里托斯水腰衣 |
-| 2123 | Galitos F Coat・Water | 加里托斯水腰衣【Ｆ】 |
+| 2120 | Galitos Belt・Water | 加里托斯腰帶・水 |
+| 2121 | Galitos F Belt・Water | 加里托斯腰帶【Ｆ】・水 |
+| 2122 | Galitos Coat・Water | 加里托斯腰衣・水 |
+| 2123 | Galitos F Coat・Water | 加里托斯腰衣【Ｆ】・水 |
 | 2124 | Riburi Coil | 里布里腰甲 |
 | 2125 | Riburi F Coil | 里布里腰甲【Ｆ】 |
 | 2126 | Riburi FZ Coil | 里布里腰甲【ＦＺ】 |
@@ -159,20 +159,20 @@
 | 2153 | サザールF Coat | 薩札魯腰衣【Ｆ】 |
 | 2154 | Truss Belt Blue | 桁架腰帶・青 |
 | 2155 | Truss F Belt Blue | 桁架腰帶【Ｆ】・青 |
-| 2156 | Truss サッシュ Blue | 桁架腰甲 |
-| 2157 | Truss Fサッシュ Blue | 桁架腰甲 |
+| 2156 | Truss サッシュ Blue | 桁架腰甲・青 |
+| 2157 | Truss Fサッシュ Blue | 桁架腰甲・青 |
 | 2158 | Truss Belt Red | 桁架腰帶・赤 |
 | 2159 | Truss F Belt Red | 桁架腰帶【Ｆ】・赤 |
-| 2160 | Truss サッシュ Red | 桁架腰甲 |
-| 2161 | Truss Fサッシュ Red | 桁架腰甲 |
+| 2160 | Truss サッシュ Red | 桁架腰甲・赤 |
+| 2161 | Truss Fサッシュ Red | 桁架腰甲・赤 |
 | 2162 | Truss Belt White | 桁架腰帶・白 |
 | 2163 | Truss F Belt White | 桁架腰帶【Ｆ】・白 |
-| 2164 | Truss サッシュ White | 桁架腰甲 |
-| 2165 | Truss Fサッシュ White | 桁架腰甲 |
+| 2164 | Truss サッシュ White | 桁架腰甲・白 |
+| 2165 | Truss Fサッシュ White | 桁架腰甲・白 |
 | 2166 | Truss Belt Purple | 桁架腰帶・紫 |
 | 2167 | Truss F Belt Purple | 桁架腰帶【Ｆ】・紫 |
-| 2168 | Truss サッシュ Purple | 桁架腰甲 |
-| 2169 | Truss Fサッシュ Purple | 桁架腰甲 |
+| 2168 | Truss サッシュ Purple | 桁架腰甲・紫 |
+| 2169 | Truss Fサッシュ Purple | 桁架腰甲・紫 |
 | 2170 | Demon Coat Blue | 惡魔腰衣・青 |
 | 2171 | Demon F Coat Blue | 惡魔腰衣【Ｆ】・青 |
 | 2172 | Chaos Coat Blue | 混沌腰衣・青 |
@@ -189,20 +189,20 @@
 | 2183 | Demon F Coat White | 惡魔腰衣【Ｆ】・白 |
 | 2184 | Chaos Coat White | 混沌腰衣・白 |
 | 2185 | Chaos F Coat White | 混沌腰衣【Ｆ】・白 |
-| 2186 | Shadow Wing Purple | 暗影腰翼・紫 |
-| 2187 | Shadow F Wing Purple | 暗影腰翼【Ｆ】・紫 |
+| 2186 | Shadow Wing Purple | 影腰翼・紫 |
+| 2187 | Shadow F Wing Purple | 影腰翼【Ｆ】・紫 |
 | 2188 | Soul Wing Purple | 魂腰翼・紫 |
 | 2189 | Soul F Wing Purple | 魂腰翼【Ｆ】・紫 |
-| 2190 | Shadow Wing Red | 暗影腰翼・赤 |
-| 2191 | Shadow F Wing Red | 暗影腰翼【Ｆ】・赤 |
+| 2190 | Shadow Wing Red | 影腰翼・赤 |
+| 2191 | Shadow F Wing Red | 影腰翼【Ｆ】・赤 |
 | 2192 | Soul Wing Red | 魂腰翼・赤 |
 | 2193 | Soul F Wing Red | 魂腰翼【Ｆ】・赤 |
-| 2194 | Shadow Wing Green | 暗影腰翼・緑 |
-| 2195 | Shadow F Wing Green | 暗影腰翼【Ｆ】・緑 |
+| 2194 | Shadow Wing Green | 影腰翼・緑 |
+| 2195 | Shadow F Wing Green | 影腰翼【Ｆ】・緑 |
 | 2196 | Soul Wing Green | 魂腰翼・緑 |
 | 2197 | Soul F Wing Green | 魂腰翼【Ｆ】・緑 |
-| 2198 | Shadow Wing White | 暗影腰翼・白 |
-| 2199 | Shadow F Wing White | 暗影腰翼【Ｆ】・白 |
+| 2198 | Shadow Wing White | 影腰翼・白 |
+| 2199 | Shadow F Wing White | 影腰翼【Ｆ】・白 |
 | 2200 | Soul Wing White | 魂腰翼・白 |
 | 2201 | Soul F Wing White | 魂腰翼【Ｆ】・白 |
 | 2202 | フィディ Faulds | 芙德腰甲 |
@@ -231,7 +231,7 @@
 | 2225 | ロークF Faulds | 洛可腰甲【Ｆ】 |
 | 2226 | ロークF Coat | 洛可腰衣【Ｆ】 |
 | 2227 | Buruho F Coil・Blue | 布烏爾烏腰甲【Ｆ】・青 |
-| 2228 | マー Gear F Coat・Blue | 格艾爾腰衣【Ｆ】 |
+| 2228 | マー Gear F Coat・Blue | 瑪爾機甲腰衣【Ｆ】・青 |
 | 2229 | Gogomoa FX Faulds | 跳緋獸腰甲【ＦＸ】 |
 | 2230 | Gogomoa FX Coat | 跳緋獸腰衣【ＦＸ】 |
 | 2231 | Kuraaji FX Faulds | 克烏爾阿腰甲【ＦＸ】 |
@@ -275,7 +275,7 @@
 | 2269 | Gravios RX Faulds | 鎧龍腰甲 |
 | 2270 | Bone RX Coat | 骨製腰衣 |
 | 2271 | White Snake Obi | 白蛇帶 |
-| 2272 | White Snake Obi・魁 | 魁帶・白 |
+| 2272 | White Snake Obi・魁 | 白蛇帶魁 |
 | 2273 | White 鳥ノ Obi | 鳥帶・白 |
 | 2274 | White 鳥ノ Obi・魁 | 鳥魁帶・白 |
 | 2275 | Kakabu Coil | 克阿克阿腰甲 |
@@ -304,18 +304,18 @@
 | 2298 | Rutare F Faulds | 魯塔雷腰甲【Ｆ】 |
 | 2299 | Rutare Coat | 魯塔雷腰衣 |
 | 2300 | Rutare F Coat | 魯塔雷腰衣【Ｆ】 |
-| 2301 | Rolling Flow の腰当て | の腰當 |
-| 2302 | Rolling Flow の腰当て・魁 | の魁腰當 |
+| 2301 | Rolling Flow の腰当て | 滾流腰當 |
+| 2302 | Rolling Flow の腰当て・魁 | 滾流腰當魁 |
 | 2303 | 旋転の腰当て | 旋転の腰當 |
-| 2304 | 旋転の腰当て・魁 | 旋転の魁腰當 |
+| 2304 | 旋転の腰当て・魁 | 旋転の腰當魁 |
 | 2305 | 厳岩の腰当て | 厳岩の腰當 |
-| 2306 | 厳岩の腰当て・魁 | 厳岩の魁腰當 |
+| 2306 | 厳岩の腰当て・魁 | 厳岩の腰當魁 |
 | 2307 | 不破の腰当て | 不破の腰當 |
-| 2308 | 不破の腰当て・魁 | 不破の魁腰當 |
+| 2308 | 不破の腰当て・魁 | 不破の腰當魁 |
 | 2309 | 無想の腰当て | 無想の腰當 |
-| 2310 | 無想の腰当て・魁 | 無想の魁腰當 |
+| 2310 | 無想の腰当て・魁 | 無想の腰當魁 |
 | 2311 | 俊激の Obi | 俊激の帶 |
-| 2312 | 俊激の Obi・魁 | 俊激の魁帶 |
+| 2312 | 俊激の Obi・魁 | 俊激の帶魁 |
 | 2313 | Suifudo Coil | 斯烏芙烏腰甲 |
 | 2314 | Suifudo F Coil | 斯烏芙烏腰甲【Ｆ】 |
 | 2315 | Merodesu Coil | 姆艾爾歐腰甲 |
@@ -359,10 +359,10 @@
 | 2353 | Suriito FZ Coat・Silver | 斯里托腰衣【ＦＺ】・銀 |
 | 2354 | Suriito FZ Coat・Red | 斯里托腰衣【ＦＺ】・赤 |
 | 2355 | Suriito FZ Coat・Blue | 斯里托腰衣【ＦＺ】・青 |
-| 2356 | Steno FZ Elytra ー・Orange | 水竜翅腰【ＦＺ】 |
-| 2357 | Steno FZ Elytra ー・Peach | 水竜翅腰【ＦＺ】 |
-| 2358 | Steno FZ Elytra ー・Blue | 水竜翅腰【ＦＺ】 |
-| 2359 | Steno FZ Elytra ー・Red | 水竜翅腰【ＦＺ】 |
+| 2356 | Steno FZ Elytra ー・Orange | 水竜翅腰【ＦＺ】・橙 |
+| 2357 | Steno FZ Elytra ー・Peach | 水竜翅腰【ＦＺ】・桃 |
+| 2358 | Steno FZ Elytra ー・Blue | 水竜翅腰【ＦＺ】・青 |
+| 2359 | Steno FZ Elytra ー・Red | 水竜翅腰【ＦＺ】・赤 |
 | 2360 | Steno FZ Coat・Orange | 水竜腰衣【ＦＺ】・橙 |
 | 2361 | Steno FZ Coat・Peach | 水竜腰衣【ＦＺ】・桃 |
 | 2362 | Steno FZ Coat・Blue | 水竜腰衣【ＦＺ】・青 |
@@ -378,11 +378,11 @@
 | 2372 | Galitos FZ Belt・Tea | 加里托斯腰帶【ＦＺ】・茶 |
 | 2373 | Galitos FZ Belt・Red | 加里托斯腰帶【ＦＺ】・赤 |
 | 2374 | Galitos FZ Belt・Black | 加里托斯腰帶【ＦＺ】・黑 |
-| 2375 | Galitos FZ Belt・Water | 加里托斯水腰帶【ＦＺ】 |
+| 2375 | Galitos FZ Belt・Water | 加里托斯腰帶【ＦＺ】・水 |
 | 2376 | Galitos FZ Coat・Tea | 加里托斯腰衣【ＦＺ】・茶 |
 | 2377 | Galitos FZ Coat・Red | 加里托斯腰衣【ＦＺ】・赤 |
 | 2378 | Galitos FZ Coat・Black | 加里托斯腰衣【ＦＺ】・黑 |
-| 2379 | Galitos FZ Coat・Water | 加里托斯水腰衣【ＦＺ】 |
+| 2379 | Galitos FZ Coat・Water | 加里托斯腰衣【ＦＺ】・水 |
 | 2380 | Beil F Reflector | 貝爾反射腰甲【Ｆ】 |
 | 2381 | ダミー | (dummy) |
 | 2382 | Jess Faulds | 傑斯腰甲 |
@@ -489,12 +489,12 @@
 | 2483 | Ruko Wing SP White | 極龍腰翼【ＳＰ】・白 |
 | 2484 | Ruko Wing SP Blue | 極龍腰翼【ＳＰ】・青 |
 | 2485 | Ruko Wing SP Red | 極龍腰翼【ＳＰ】・赤 |
-| 2486 | Ruko テイル SP White | 極龍腰甲【ＳＰ】 |
-| 2487 | Ruko テイル SP Blue | 極龍腰甲【ＳＰ】 |
-| 2488 | Ruko テイル SP Red | 極龍腰甲【ＳＰ】 |
-| 2489 | Comrade Belt SP White Red | 戰友腰帶【ＳＰ】・赤・白 |
-| 2490 | Comrade Belt SP White Blue | 戰友腰帶【ＳＰ】・青・白 |
-| 2491 | Comrade Belt SP White Yellow | 戰友腰帶【ＳＰ】・黄・白 |
+| 2486 | Ruko テイル SP White | 極龍腰甲【ＳＰ】・白 |
+| 2487 | Ruko テイル SP Blue | 極龍腰甲【ＳＰ】・青 |
+| 2488 | Ruko テイル SP Red | 極龍腰甲【ＳＰ】・赤 |
+| 2489 | Comrade Belt SP White Red | 戰友腰帶【ＳＰ】・白 |
+| 2490 | Comrade Belt SP White Blue | 戰友腰帶【ＳＰ】・白 |
+| 2491 | Comrade Belt SP White Yellow | 戰友腰帶【ＳＰ】・白 |
 | 2492 | Rubellite Coil | 爾烏布艾腰甲 |
 | 2493 | Rubellite F Coil | 爾烏布艾腰甲【Ｆ】 |
 | 2494 | Rubellite FX Coil | 爾烏布艾腰甲【ＦＸ】 |

@@ -95,22 +95,22 @@
 | 1088 | リエーザF Head | 里耶薩頭兜【Ｆ】 |
 | 1089 | リエーザ Mask | 里耶薩帽子 |
 | 1090 | リエーザF Mask | 里耶薩帽子【Ｆ】 |
-| 1091 | Claire Head・Purple | 克蕾兒頭兜・紫 |
-| 1092 | Claire F Head・Purple | 克蕾兒頭兜【Ｆ】・紫 |
-| 1093 | Claire Piercing・Purple | 克蕾兒耳飾・紫 |
-| 1094 | Claire F Piercing・Purple | 克蕾兒耳飾【Ｆ】・紫 |
-| 1095 | Claire Head・Water | 克蕾兒水頭兜 |
-| 1096 | Claire F Head・Water | 克蕾兒水頭兜【Ｆ】 |
-| 1097 | Claire Piercing・Water | 克蕾兒水耳飾 |
-| 1098 | Claire F Piercing・Water | 克蕾兒水耳飾【Ｆ】 |
-| 1099 | Claire Head・Red | 克蕾兒頭兜・赤 |
-| 1100 | Claire F Head・Red | 克蕾兒頭兜【Ｆ】・赤 |
-| 1101 | Claire Piercing・Red | 克蕾兒耳飾・赤 |
-| 1102 | Claire F Piercing・Red | 克蕾兒耳飾【Ｆ】・赤 |
-| 1103 | Claire Head・Black | 克蕾兒頭兜・黑 |
-| 1104 | Claire F Head・Black | 克蕾兒頭兜【Ｆ】・黑 |
-| 1105 | Claire Piercing・Black | 克蕾兒耳飾・黑 |
-| 1106 | Claire F Piercing・Black | 克蕾兒耳飾【Ｆ】・黑 |
+| 1091 | Claire Head・Purple | 克蕾爾頭兜・紫 |
+| 1092 | Claire F Head・Purple | 克蕾爾頭兜【Ｆ】・紫 |
+| 1093 | Claire Piercing・Purple | 克蕾爾耳飾・紫 |
+| 1094 | Claire F Piercing・Purple | 克蕾爾耳飾【Ｆ】・紫 |
+| 1095 | Claire Head・Water | 克蕾爾頭兜・水 |
+| 1096 | Claire F Head・Water | 克蕾爾頭兜【Ｆ】・水 |
+| 1097 | Claire Piercing・Water | 克蕾爾耳飾・水 |
+| 1098 | Claire F Piercing・Water | 克蕾爾耳飾【Ｆ】・水 |
+| 1099 | Claire Head・Red | 克蕾爾頭兜・赤 |
+| 1100 | Claire F Head・Red | 克蕾爾頭兜【Ｆ】・赤 |
+| 1101 | Claire Piercing・Red | 克蕾爾耳飾・赤 |
+| 1102 | Claire F Piercing・Red | 克蕾爾耳飾【Ｆ】・赤 |
+| 1103 | Claire Head・Black | 克蕾爾頭兜・黑 |
+| 1104 | Claire F Head・Black | 克蕾爾頭兜【Ｆ】・黑 |
+| 1105 | Claire Piercing・Black | 克蕾爾耳飾・黑 |
+| 1106 | Claire F Piercing・Black | 克蕾爾耳飾【Ｆ】・黑 |
 | 1107 | Desert Head | 沙漠頭兜 |
 | 1108 | Desert F Head | 沙漠頭兜【Ｆ】 |
 | 1109 | Desert Piercings | 沙漠耳飾 |
@@ -217,22 +217,22 @@
 | 1210 | フェサーF Head | 芙薩頭兜【Ｆ】 |
 | 1211 | シアンス Hat | 希安斯帽 |
 | 1212 | シアンスF Hat | 希安斯帽【Ｆ】 |
-| 1213 | Gold Helm・Red | 頭兜・金・赤 |
-| 1214 | Gold F Helm・Red | 頭兜【Ｆ】・金・赤 |
-| 1215 | Gold Mask・Red | 帽子・金・赤 |
-| 1216 | Gold F Mask・Red | 帽子【Ｆ】・金・赤 |
-| 1217 | Gold Helm・Blue | 頭兜・金・青 |
-| 1218 | Gold F Helm・Blue | 頭兜【Ｆ】・金・青 |
-| 1219 | Gold Mask・Blue | 帽子・金・青 |
-| 1220 | Gold F Mask・Blue | 帽子【Ｆ】・金・青 |
-| 1221 | Gold Helm・Yellow | 頭兜・金・黄 |
-| 1222 | Gold F Helm・Yellow | 頭兜【Ｆ】・金・黄 |
-| 1223 | Gold Mask・Yellow | 帽子・金・黄 |
-| 1224 | Gold F Mask・Yellow | 帽子【Ｆ】・金・黄 |
-| 1225 | Gold Helm・Purple | 頭兜・金・紫 |
-| 1226 | Gold F Helm・Purple | 頭兜【Ｆ】・金・紫 |
-| 1227 | Gold Mask・Purple | 帽子・金・紫 |
-| 1228 | Gold F Mask・Purple | 帽子【Ｆ】・金・紫 |
+| 1213 | Gold Helm・Red | 金頭兜・赤 |
+| 1214 | Gold F Helm・Red | 金頭兜【Ｆ】・赤 |
+| 1215 | Gold Mask・Red | 金帽子・赤 |
+| 1216 | Gold F Mask・Red | 金帽子【Ｆ】・赤 |
+| 1217 | Gold Helm・Blue | 金頭兜・青 |
+| 1218 | Gold F Helm・Blue | 金頭兜【Ｆ】・青 |
+| 1219 | Gold Mask・Blue | 金帽子・青 |
+| 1220 | Gold F Mask・Blue | 金帽子【Ｆ】・青 |
+| 1221 | Gold Helm・Yellow | 金頭兜・黄 |
+| 1222 | Gold F Helm・Yellow | 金頭兜【Ｆ】・黄 |
+| 1223 | Gold Mask・Yellow | 金帽子・黄 |
+| 1224 | Gold F Mask・Yellow | 金帽子【Ｆ】・黄 |
+| 1225 | Gold Helm・Purple | 金頭兜・紫 |
+| 1226 | Gold F Helm・Purple | 金頭兜【Ｆ】・紫 |
+| 1227 | Gold Mask・Purple | 金帽子・紫 |
+| 1228 | Gold F Mask・Purple | 金帽子【Ｆ】・紫 |
 | 1229 | シデロ Helm | 西德羅頭兜 |
 | 1230 | シデロF Helm | 西德羅頭兜【Ｆ】 |
 | 1231 | オール Helm | 奧爾頭兜 |
@@ -262,8 +262,8 @@
 | 1256 | Bone L Cap | 骨製兜帽【Ｌ】 |
 | 1257 | Vespoid L Cap | 巨蜂兜帽【Ｌ】 |
 | 1258 | Diablos L Cap | 角龍兜帽【Ｌ】 |
-| 1259 | G・Guard R Mask Crimson | 防禦帽子【Ｇ】【Ｒ】・紅 |
-| 1260 | G・Guard R Piercing Crimson | 防禦耳飾【Ｇ】【Ｒ】・紅 |
+| 1259 | G・Guard R Mask Crimson | 防禦帽子【Ｒ】・紅 |
+| 1260 | G・Guard R Piercing Crimson | 防禦耳飾【Ｒ】・紅 |
 | 1261 | Hornetaur R Cap | 巨甲蟲兜帽【Ｒ】 |
 | 1262 | High Metal R Cap | 上位金屬兜帽【Ｒ】 |
 | 1263 | Rath Soul R Cap | 爾阿斯阿魂【Ｒ】 |
@@ -294,11 +294,11 @@
 | 1288 | Fellow Beret・Purple | 夥伴貝雷帽・紫 |
 | 1289 | Fellow Beret F・Purple | 夥伴貝雷帽【Ｆ】・紫 |
 | 1290 | Dyuragaua Kabuto | 冰狐龍兜 |
-| 1291 | Inari 覇 Kabuto | 覇兜 |
+| 1291 | Inari 覇 Kabuto | 稻荷兜 |
 | 1292 | Dyuragaua 【御面】 | 冰狐龍頭兜 |
 | 1293 | Tamamo 覇【御面】 | 玉藻頭兜 |
 | 1294 | Dyuragaua【Eboshi】 | 冰狐龍烏帽子 |
-| 1295 | Inari 覇【Eboshi】 | 覇烏帽子 |
+| 1295 | Inari 覇【Eboshi】 | 稻荷烏帽子 |
 | 1296 | Dyuragaua 【覆面】 | 冰狐龍頭兜 |
 | 1297 | Tamamo 覇【覆面】 | 玉藻頭兜 |
 | 1298 | コカロ Helm | 寇伽羅頭兜 |
@@ -398,9 +398,9 @@
 | 1392 | Akantor Mask SP Black | 霸龍帽子【ＳＰ】・黑 |
 | 1393 | Akantor Mask SP Red | 霸龍帽子【ＳＰ】・赤 |
 | 1394 | Akantor Mask SP White | 霸龍帽子【ＳＰ】・白 |
-| 1395 | Akantor リクン SP Black | 霸龍頭兜【ＳＰ】 |
-| 1396 | Akantor リクン SP Red | 霸龍頭兜【ＳＰ】 |
-| 1397 | Akantor リクン SP White | 霸龍頭兜【ＳＰ】 |
+| 1395 | Akantor リクン SP Black | 霸龍頭兜【ＳＰ】・黑 |
+| 1396 | Akantor リクン SP Red | 霸龍頭兜【ＳＰ】・赤 |
+| 1397 | Akantor リクン SP White | 霸龍頭兜【ＳＰ】・白 |
 | 1398 | Gravios Helm SP Black | 鎧龍頭兜【ＳＰ】・黑 |
 | 1399 | Gravios Helm SP Blue | 鎧龍頭兜【ＳＰ】・青 |
 | 1400 | Gravios Helm SP Red | 鎧龍頭兜【ＳＰ】・赤 |

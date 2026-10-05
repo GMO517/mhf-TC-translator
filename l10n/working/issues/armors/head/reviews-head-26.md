@@ -7,7 +7,7 @@
 | 12501 | White 蘭・刀神D Helm | 蘭刀神頭兜・白 |
 | 12502 | White 蘭・鈍器獣D Helm | 蘭鈍器獣頭兜・白 |
 | 12503 | White 蘭・奏帝D Helm | 蘭奏帝頭兜・白 |
-| 12504 | White 蘭・Heaven 槍D Helm | 蘭槍頭兜・白・天 |
+| 12504 | White 蘭・Heaven 槍D Helm | 蘭槍天頭兜・白 |
 | 12505 | White 蘭・砲皇D Helm | 蘭砲皇頭兜・白 |
 | 12506 | White 蘭・銃傑D Mask | 蘭銃傑帽子・白 |
 | 12507 | White 蘭・銃仙D Mask | 蘭銃仙帽子・白 |
@@ -20,7 +20,7 @@
 | 12514 | Crimson 霞・刀神D Helm | 霞刀神頭兜・紅 |
 | 12515 | Crimson 霞・鈍器獣D Helm | 霞鈍器獣頭兜・紅 |
 | 12516 | Crimson 霞・奏帝D Helm | 霞奏帝頭兜・紅 |
-| 12517 | Crimson 霞・Heaven 槍D Helm | 霞槍頭兜・紅・天 |
+| 12517 | Crimson 霞・Heaven 槍D Helm | 霞槍天頭兜・紅 |
 | 12518 | Crimson 霞・砲皇D Helm | 霞砲皇頭兜・紅 |
 | 12519 | Crimson 霞・銃傑D Mask | 霞銃傑帽子・紅 |
 | 12520 | Crimson 霞・銃仙D Mask | 霞銃仙帽子・紅 |
@@ -41,19 +41,19 @@
 | 12535 | Vulcan D Face | 火山面罩 |
 | 12536 | Vulcan GD Head | 火山頭兜 |
 | 12537 | Vulcan GD Face | 火山面罩 |
-| 12538 | Garnet D Helm | 格阿爾艾頭兜 |
-| 12539 | Amethyst D Helm | 阿姆艾斯頭兜 |
-| 12540 | Coral D Helm | 克歐爾阿頭兜 |
-| 12541 | Quartz D Helm | 斯烏爾頭兜 |
-| 12542 | Emerald D Helm | 艾姆艾爾頭兜 |
-| 12543 | Pearl D Helm | 普艾爾頭兜 |
-| 12544 | Ruby D Helm | 爾烏布頭兜 |
-| 12545 | Sapphire D Helm | 斯阿普伊頭兜 |
-| 12546 | Topaz D Cap | 特歐普阿兜帽 |
-| 12547 | Tourmaline D Cap | 特歐爾阿兜帽 |
-| 12548 | Lapis D Cap | 爾阿普伊兜帽 |
-| 12549 | Hisui D Helm | 赫伊斯烏頭兜 |
-| 12550 | Onyx D Helm | 歐恩頭兜 |
+| 12538 | Garnet D Helm | 石榴石頭兜 |
+| 12539 | Amethyst D Helm | 紫水晶頭兜 |
+| 12540 | Coral D Helm | 珊瑚頭兜 |
+| 12541 | Quartz D Helm | 石英頭兜 |
+| 12542 | Emerald D Helm | 祖母緑頭兜 |
+| 12543 | Pearl D Helm | 珍珠頭兜 |
+| 12544 | Ruby D Helm | 紅寶石頭兜 |
+| 12545 | Sapphire D Helm | 藍寶石頭兜 |
+| 12546 | Topaz D Cap | 黄玉兜帽 |
+| 12547 | Tourmaline D Cap | 電氣石兜帽 |
+| 12548 | Lapis D Cap | 青金石兜帽 |
+| 12549 | Hisui D Helm | 翡翠頭兜 |
+| 12550 | Onyx D Helm | 縞瑪瑙頭兜 |
 | 12551 | ブルファンD Mask | 布魯芙恩帽子 |
 | 12552 | Garuga D Mask | 黑狼鳥帽子 |
 | 12553 | Veloci Mask D | 藍速龍帽子 |
@@ -80,10 +80,10 @@
 | 12574 | Healer Glasses PD Blue | 治癒眼鏡【ＰＤ】・青 |
 | 12575 | Healer Glasses PD White | 治癒眼鏡【ＰＤ】・白 |
 | 12576 | Healer Glasses PD Yellow | 治癒眼鏡【ＰＤ】・黄 |
-| 12577 | Shourou【Heaven 頭】D | 照楼上手・天 |
-| 12578 | Mitama【Heaven 頭】D | 御魂上手・天 |
+| 12577 | Shourou【Heaven 頭】D | 照楼天上手 |
+| 12578 | Mitama【Heaven 頭】D | 御魂天上手 |
 | 12579 | Burning Cliff D Kabuto | 布烏爾伊兜 |
-| 12580 | Crimson Cliff D Kabuto | 克伊芙兜・紅 |
+| 12580 | Crimson Cliff D Kabuto | 深紅崖兜 |
 | 12581 | Ledia D Head | 爾艾德伊頭兜 |
 | 12582 | White Snake Headguard D | 白蛇護額 |
 | 12583 | Black Tiger Headguard D | 黑虎護額 |
@@ -92,7 +92,7 @@
 | 12586 | Blue Sky Headguard D | 蒼天護額 |
 | 12587 | Noon Glow Headguard D | 恩歐恩歐護額 |
 | 12588 | Kosho D Hachigane | 克歐夏歐鉢金 |
-| 12589 | True Shadow Headguard D | 特烏斯阿護額 |
+| 12589 | True Shadow Headguard D | 真影護額 |
 | 12590 | Felyne D Mask | 艾路猫帽子 |
 | 12591 | Furogada D Head | 芙烏爾歐頭兜 |
 | 12592 | Lars D Head | 爾阿爾頭兜 |
@@ -124,10 +124,10 @@
 | 12618 | Tempest G [Crown】 | 暴風雨冠【Ｇ】 |
 | 12619 | Tempest GF [Crown】 | 暴風雨冠【ＧＦ】 |
 | 12620 | Tempest GX [Crown】 | 暴風雨冠【ＧＸ】 |
-| 12621 | Welkin [Crown】 | 蒼穹冠 |
-| 12622 | Welkin G [Crown】 | 蒼穹冠【Ｇ】 |
-| 12623 | Welkin GF [Crown】 | 蒼穹冠【ＧＦ】 |
-| 12624 | Welkin GX [Crown】 | 蒼穹冠【ＧＸ】 |
+| 12621 | Welkin [Crown】 | 穹蒼冠 |
+| 12622 | Welkin G [Crown】 | 穹蒼冠【Ｇ】 |
+| 12623 | Welkin GF [Crown】 | 穹蒼冠【ＧＦ】 |
+| 12624 | Welkin GX [Crown】 | 穹蒼冠【ＧＸ】 |
 | 12625 | Levin Helm | 雷霆頭兜 |
 | 12626 | Levin F Helm | 雷霆頭兜【Ｆ】 |
 | 12627 | Levin FZ Helm | 雷霆頭兜【ＦＺ】 |
@@ -142,20 +142,20 @@
 | 12636 | Levin GS Cap | 雷霆兜帽【ＧＳ】 |
 | 12637 | Levin GP Cap | 雷霆兜帽【ＧＰ】 |
 | 12638 | Levin ZP Cap | 雷霆兜帽【ＺＰ】 |
-| 12639 | Silver Armour・Helm | 甲冑頭兜・銀 |
-| 12640 | Silver Armour F・Helm | 甲冑頭兜【Ｆ】・銀 |
-| 12641 | Silver Armour FZ・Helm | 甲冑頭兜【ＦＺ】・銀 |
-| 12642 | Silver Armour HS・Helm | 甲冑頭兜【ＨＳ】・銀 |
-| 12643 | Silver Armour GS・Helm | 甲冑頭兜【ＧＳ】・銀 |
-| 12644 | Silver Armour GP・Helm | 甲冑頭兜【ＧＰ】・銀 |
-| 12645 | Silver Armour ZP・Helm | 甲冑頭兜【ＺＰ】・銀 |
-| 12646 | Silver Armour・Headguard | 甲冑護額・銀 |
-| 12647 | Silver Armour F・Headguard | 甲冑護額【Ｆ】・銀 |
-| 12648 | Silver Armour FZ・Headguard | 甲冑護額【ＦＺ】・銀 |
-| 12649 | Silver Armour HS・Headguard | 甲冑護額【ＨＳ】・銀 |
-| 12650 | Silver Armour GS・Headguard | 甲冑護額【ＧＳ】・銀 |
-| 12651 | Silver Armour GP・Headguard | 甲冑護額【ＧＰ】・銀 |
-| 12652 | Silver Armour ZP・Headguard | 甲冑護額【ＺＰ】・銀 |
+| 12639 | Silver Armour・Helm | 銀甲冑頭兜 |
+| 12640 | Silver Armour F・Helm | 銀甲冑頭兜【Ｆ】 |
+| 12641 | Silver Armour FZ・Helm | 銀甲冑頭兜【ＦＺ】 |
+| 12642 | Silver Armour HS・Helm | 銀甲冑頭兜【ＨＳ】 |
+| 12643 | Silver Armour GS・Helm | 銀甲冑頭兜【ＧＳ】 |
+| 12644 | Silver Armour GP・Helm | 銀甲冑頭兜【ＧＰ】 |
+| 12645 | Silver Armour ZP・Helm | 銀甲冑頭兜【ＺＰ】 |
+| 12646 | Silver Armour・Headguard | 銀甲冑護額 |
+| 12647 | Silver Armour F・Headguard | 銀甲冑護額【Ｆ】 |
+| 12648 | Silver Armour FZ・Headguard | 銀甲冑護額【ＦＺ】 |
+| 12649 | Silver Armour HS・Headguard | 銀甲冑護額【ＨＳ】 |
+| 12650 | Silver Armour GS・Headguard | 銀甲冑護額【ＧＳ】 |
+| 12651 | Silver Armour GP・Headguard | 銀甲冑護額【ＧＰ】 |
+| 12652 | Silver Armour ZP・Headguard | 銀甲冑護額【ＺＰ】 |
 | 12653 | Rose Ball Gown・Hairtie | 薔薇禮服髮結 |
 | 12654 | Rose Ball Gown F・Hairtie | 薔薇禮服髮結【Ｆ】 |
 | 12655 | Rose Ball Gown FZ・Hairtie | 薔薇禮服髮結【ＦＺ】 |
@@ -218,8 +218,8 @@
 | 12712 | Shatemu ZP Head | 夏特穆頭兜【ＺＰ】 |
 | 12713 | Hevria ZP Band | 赫芙莉亞頭帶【ＺＰ】 |
 | 12714 | Hevria ZP Head | 赫芙莉亞頭兜【ＺＰ】 |
-| 12715 | Tiuru ZP Band | 緹烏魯頭帶【ＺＰ】 |
-| 12716 | Tiuru ZP Head | 緹烏魯頭兜【ＺＰ】 |
+| 12715 | Tiuru ZP Band | 提烏魯頭帶【ＺＰ】 |
+| 12716 | Tiuru ZP Head | 提烏魯頭兜【ＺＰ】 |
 | 12717 | Kaila ZP Helm | 凱拉頭兜【ＺＰ】 |
 | 12718 | Kaila ZP Mask | 凱拉帽子【ＺＰ】 |
 | 12719 | Fonse G Helm | 芙歐恩艾頭兜【Ｇ】 |
@@ -251,7 +251,7 @@
 | 12745 | Tempest C [Crown】 | 特艾姆艾冠 |
 | 12746 | Welkin C [Crown】 | 沃艾爾伊冠 |
 | 12747 | Levin D Helm | 爾艾芙伊頭兜 |
-| 12748 | Silver Armour D・Helm | 阿爾歐爾頭兜・銀 |
+| 12748 | Silver Armour D・Helm | 銀甲冑頭兜 |
 | 12749 | Rose Ball Gown D・Hairtie | 爾歐斯艾髮結 |
 | 12750 | Shui D Helm | 夏烏斯頭兜 |
 | 12751 | CE Kevlar D BM Head Blue | 克艾斯艾頭兜・青 |
@@ -420,34 +420,34 @@
 | 12914 | Twelve Paladins' Armor ZP・BM White | 十二聖騎鎧ＢＭ頭兜【ＺＰ】・白 |
 | 12915 | Twelve Paladins' Armor ZP・BM Brown | 特艾爾艾頭兜【ＺＰ】 |
 | 12916 | Twelve Paladins' Armor ZP・BM Black | 十二聖騎鎧ＢＭ頭兜【ＺＰ】・黑 |
-| 12917 | Twelve Paladins' Armor・Bow Yellow | 十二聖騎鎧弓頭兜・黄 |
-| 12918 | Twelve Paladins' Armor・Bow White | 十二聖騎鎧弓頭兜・白 |
-| 12919 | Twelve Paladins' Armor・Bow Brown | 特艾爾艾頭兜 |
-| 12920 | Twelve Paladins' Armor・Bow Black | 十二聖騎鎧弓頭兜・黑 |
-| 12921 | Twelve Paladins' Armor F・Bow Yellow | 十二聖騎鎧弓頭兜【Ｆ】・黄 |
-| 12922 | Twelve Paladins' Armor F・Bow White | 十二聖騎鎧弓頭兜【Ｆ】・白 |
-| 12923 | Twelve Paladins' Armor F・Bow Brown | 特艾爾艾頭兜【Ｆ】 |
-| 12924 | Twelve Paladins' Armor F・Bow Black | 十二聖騎鎧弓頭兜【Ｆ】・黑 |
-| 12925 | Twelve Paladins' Armor FZ・Bow Yellow | 十二聖騎鎧弓頭兜【ＦＺ】・黄 |
-| 12926 | Twelve Paladins' Armor FZ・Bow White | 十二聖騎鎧弓頭兜【ＦＺ】・白 |
-| 12927 | Twelve Paladins' Armor FZ・Bow Brown | 特艾爾艾頭兜【ＦＺ】 |
-| 12928 | Twelve Paladins' Armor FZ・Bow Black | 十二聖騎鎧弓頭兜【ＦＺ】・黑 |
-| 12929 | Twelve Paladins' Armor HS・Bow Yellow | 十二聖騎鎧弓頭兜【ＨＳ】・黄 |
-| 12930 | Twelve Paladins' Armor HS・Bow White | 十二聖騎鎧弓頭兜【ＨＳ】・白 |
-| 12931 | Twelve Paladins' Armor HS・Bow Brown | 特艾爾艾頭兜【ＨＳ】 |
-| 12932 | Twelve Paladins' Armor HS・Bow Black | 十二聖騎鎧弓頭兜【ＨＳ】・黑 |
-| 12933 | Twelve Paladins' Armor GS・Bow Yellow | 十二聖騎鎧弓頭兜【ＧＳ】・黄 |
-| 12934 | Twelve Paladins' Armor GS・Bow White | 十二聖騎鎧弓頭兜【ＧＳ】・白 |
-| 12935 | Twelve Paladins' Armor GS・Bow Brown | 特艾爾艾頭兜【ＧＳ】 |
-| 12936 | Twelve Paladins' Armor GS・Bow Black | 十二聖騎鎧弓頭兜【ＧＳ】・黑 |
-| 12937 | Twelve Paladins' Armor GP・Bow Yellow | 十二聖騎鎧弓頭兜【ＧＰ】・黄 |
-| 12938 | Twelve Paladins' Armor GP・Bow White | 十二聖騎鎧弓頭兜【ＧＰ】・白 |
-| 12939 | Twelve Paladins' Armor GP・Bow Brown | 特艾爾艾頭兜【ＧＰ】 |
-| 12940 | Twelve Paladins' Armor GP・Bow Black | 十二聖騎鎧弓頭兜【ＧＰ】・黑 |
-| 12941 | Twelve Paladins' Armor ZP・Bow Yellow | 十二聖騎鎧弓頭兜【ＺＰ】・黄 |
-| 12942 | Twelve Paladins' Armor ZP・Bow White | 十二聖騎鎧弓頭兜【ＺＰ】・白 |
-| 12943 | Twelve Paladins' Armor ZP・Bow Brown | 特艾爾艾頭兜【ＺＰ】 |
-| 12944 | Twelve Paladins' Armor ZP・Bow Black | 十二聖騎鎧弓頭兜【ＺＰ】・黑 |
+| 12917 | Twelve Paladins' Armor・Bow Yellow | 十二聖騎鎧頭兜・黄 |
+| 12918 | Twelve Paladins' Armor・Bow White | 十二聖騎鎧頭兜・白 |
+| 12919 | Twelve Paladins' Armor・Bow Brown | 防具頭兜 |
+| 12920 | Twelve Paladins' Armor・Bow Black | 十二聖騎鎧頭兜・黑 |
+| 12921 | Twelve Paladins' Armor F・Bow Yellow | 十二聖騎鎧頭兜【Ｆ】・黄 |
+| 12922 | Twelve Paladins' Armor F・Bow White | 十二聖騎鎧頭兜【Ｆ】・白 |
+| 12923 | Twelve Paladins' Armor F・Bow Brown | 防具頭兜【Ｆ】 |
+| 12924 | Twelve Paladins' Armor F・Bow Black | 十二聖騎鎧頭兜【Ｆ】・黑 |
+| 12925 | Twelve Paladins' Armor FZ・Bow Yellow | 十二聖騎鎧頭兜【ＦＺ】・黄 |
+| 12926 | Twelve Paladins' Armor FZ・Bow White | 十二聖騎鎧頭兜【ＦＺ】・白 |
+| 12927 | Twelve Paladins' Armor FZ・Bow Brown | 防具頭兜【ＦＺ】 |
+| 12928 | Twelve Paladins' Armor FZ・Bow Black | 十二聖騎鎧頭兜【ＦＺ】・黑 |
+| 12929 | Twelve Paladins' Armor HS・Bow Yellow | 十二聖騎鎧頭兜【ＨＳ】・黄 |
+| 12930 | Twelve Paladins' Armor HS・Bow White | 十二聖騎鎧頭兜【ＨＳ】・白 |
+| 12931 | Twelve Paladins' Armor HS・Bow Brown | 防具頭兜【ＨＳ】 |
+| 12932 | Twelve Paladins' Armor HS・Bow Black | 十二聖騎鎧頭兜【ＨＳ】・黑 |
+| 12933 | Twelve Paladins' Armor GS・Bow Yellow | 十二聖騎鎧頭兜【ＧＳ】・黄 |
+| 12934 | Twelve Paladins' Armor GS・Bow White | 十二聖騎鎧頭兜【ＧＳ】・白 |
+| 12935 | Twelve Paladins' Armor GS・Bow Brown | 防具頭兜【ＧＳ】 |
+| 12936 | Twelve Paladins' Armor GS・Bow Black | 十二聖騎鎧頭兜【ＧＳ】・黑 |
+| 12937 | Twelve Paladins' Armor GP・Bow Yellow | 十二聖騎鎧頭兜【ＧＰ】・黄 |
+| 12938 | Twelve Paladins' Armor GP・Bow White | 十二聖騎鎧頭兜【ＧＰ】・白 |
+| 12939 | Twelve Paladins' Armor GP・Bow Brown | 防具頭兜【ＧＰ】 |
+| 12940 | Twelve Paladins' Armor GP・Bow Black | 十二聖騎鎧頭兜【ＧＰ】・黑 |
+| 12941 | Twelve Paladins' Armor ZP・Bow Yellow | 十二聖騎鎧頭兜【ＺＰ】・黄 |
+| 12942 | Twelve Paladins' Armor ZP・Bow White | 十二聖騎鎧頭兜【ＺＰ】・白 |
+| 12943 | Twelve Paladins' Armor ZP・Bow Brown | 防具頭兜【ＺＰ】 |
+| 12944 | Twelve Paladins' Armor ZP・Bow Black | 十二聖騎鎧頭兜【ＺＰ】・黑 |
 | 12945 | Holy Maiden Armor・Hairtie | 聖女鎧髮結 |
 | 12946 | Holy Maiden Armor F・Hairtie | 聖女鎧髮結【Ｆ】 |
 | 12947 | Holy Maiden Armor FZ・Hairtie | 聖女鎧髮結【ＦＺ】 |
@@ -462,34 +462,34 @@
 | 12956 | Holy Maiden Armor GS・Knot | 聖女鎧結【ＧＳ】 |
 | 12957 | Holy Maiden Armor GP・Knot | 聖女鎧結【ＧＰ】 |
 | 12958 | Holy Maiden Armor ZP・Knot | 聖女鎧結【ＺＰ】 |
-| 12959 | Dragon Slayer Armor・Blade | 龍頭兜 |
-| 12960 | Dragon Slayer Armor F・Blade | 龍頭兜【Ｆ】 |
-| 12961 | Dragon Slayer Armor FZ・Blade | 龍頭兜【ＦＺ】 |
-| 12962 | Dragon Slayer Armor HS・Blade | 龍頭兜【ＨＳ】 |
-| 12963 | Dragon Slayer Armor GS・Blade | 龍頭兜【ＧＳ】 |
-| 12964 | Dragon Slayer Armor GP・Blade | 龍頭兜【ＧＰ】 |
-| 12965 | Dragon Slayer Armor ZP・Blade | 龍頭兜【ＺＰ】 |
-| 12966 | Dragon Slayer Armor・Bow | 龍頭兜 |
-| 12967 | Dragon Slayer Armor F・Bow | 龍頭兜【Ｆ】 |
-| 12968 | Dragon Slayer Armor FZ・Bow | 龍頭兜【ＦＺ】 |
-| 12969 | Dragon Slayer Armor HS・Bow | 龍頭兜【ＨＳ】 |
-| 12970 | Dragon Slayer Armor GS・Bow | 龍頭兜【ＧＳ】 |
-| 12971 | Dragon Slayer Armor GP・Bow | 龍頭兜【ＧＰ】 |
-| 12972 | Dragon Slayer Armor ZP・Bow | 龍頭兜【ＺＰ】 |
-| 12973 | Helm of Hidden Infidelity・Blade | 歐芙伊德頭兜 |
-| 12974 | Helm of Hidden Infidelity F・Blade | 歐芙伊德頭兜【Ｆ】 |
-| 12975 | Helm of Hidden Infidelity FZ・Blade | 歐芙伊德頭兜【ＦＺ】 |
-| 12976 | Helm of Hidden Infidelity HS・Blade | 歐芙伊德頭兜【ＨＳ】 |
-| 12977 | Helm of Hidden Infidelity GS・Blade | 歐芙伊德頭兜【ＧＳ】 |
-| 12978 | Helm of Hidden Infidelity GP・Blade | 歐芙伊德頭兜【ＧＰ】 |
-| 12979 | Helm of Hidden Infidelity ZP・Blade | 歐芙伊德頭兜【ＺＰ】 |
-| 12980 | Helm of Hidden Infidelity・Bow | 歐芙伊德頭兜 |
-| 12981 | Helm of Hidden Infidelity F・Bow | 歐芙伊德頭兜【Ｆ】 |
-| 12982 | Helm of Hidden Infidelity FZ・Bow | 歐芙伊德頭兜【ＦＺ】 |
-| 12983 | Helm of Hidden Infidelity HS・Bow | 歐芙伊德頭兜【ＨＳ】 |
-| 12984 | Helm of Hidden Infidelity GS・Bow | 歐芙伊德頭兜【ＧＳ】 |
-| 12985 | Helm of Hidden Infidelity GP・Bow | 歐芙伊德頭兜【ＧＰ】 |
-| 12986 | Helm of Hidden Infidelity ZP・Bow | 歐芙伊德頭兜【ＺＰ】 |
+| 12959 | Dragon Slayer Armor・Blade | 屠龍頭兜 |
+| 12960 | Dragon Slayer Armor F・Blade | 屠龍頭兜【Ｆ】 |
+| 12961 | Dragon Slayer Armor FZ・Blade | 屠龍頭兜【ＦＺ】 |
+| 12962 | Dragon Slayer Armor HS・Blade | 屠龍頭兜【ＨＳ】 |
+| 12963 | Dragon Slayer Armor GS・Blade | 屠龍頭兜【ＧＳ】 |
+| 12964 | Dragon Slayer Armor GP・Blade | 屠龍頭兜【ＧＰ】 |
+| 12965 | Dragon Slayer Armor ZP・Blade | 屠龍頭兜【ＺＰ】 |
+| 12966 | Dragon Slayer Armor・Bow | 屠龍頭兜 |
+| 12967 | Dragon Slayer Armor F・Bow | 屠龍頭兜【Ｆ】 |
+| 12968 | Dragon Slayer Armor FZ・Bow | 屠龍頭兜【ＦＺ】 |
+| 12969 | Dragon Slayer Armor HS・Bow | 屠龍頭兜【ＨＳ】 |
+| 12970 | Dragon Slayer Armor GS・Bow | 屠龍頭兜【ＧＳ】 |
+| 12971 | Dragon Slayer Armor GP・Bow | 屠龍頭兜【ＧＰ】 |
+| 12972 | Dragon Slayer Armor ZP・Bow | 屠龍頭兜【ＺＰ】 |
+| 12973 | Helm of Hidden Infidelity・Blade | 隱匿不忠頭兜 |
+| 12974 | Helm of Hidden Infidelity F・Blade | 隱匿不忠頭兜【Ｆ】 |
+| 12975 | Helm of Hidden Infidelity FZ・Blade | 隱匿不忠頭兜【ＦＺ】 |
+| 12976 | Helm of Hidden Infidelity HS・Blade | 隱匿不忠頭兜【ＨＳ】 |
+| 12977 | Helm of Hidden Infidelity GS・Blade | 隱匿不忠頭兜【ＧＳ】 |
+| 12978 | Helm of Hidden Infidelity GP・Blade | 隱匿不忠頭兜【ＧＰ】 |
+| 12979 | Helm of Hidden Infidelity ZP・Blade | 隱匿不忠頭兜【ＺＰ】 |
+| 12980 | Helm of Hidden Infidelity・Bow | 隱匿不忠頭兜 |
+| 12981 | Helm of Hidden Infidelity F・Bow | 隱匿不忠頭兜【Ｆ】 |
+| 12982 | Helm of Hidden Infidelity FZ・Bow | 隱匿不忠頭兜【ＦＺ】 |
+| 12983 | Helm of Hidden Infidelity HS・Bow | 隱匿不忠頭兜【ＨＳ】 |
+| 12984 | Helm of Hidden Infidelity GS・Bow | 隱匿不忠頭兜【ＧＳ】 |
+| 12985 | Helm of Hidden Infidelity GP・Bow | 隱匿不忠頭兜【ＧＰ】 |
+| 12986 | Helm of Hidden Infidelity ZP・Bow | 隱匿不忠頭兜【ＺＰ】 |
 | 12987 | Dinato ZP Head | 迪納托頭兜【ＺＰ】 |
 | 12988 | Dinato ZP Cap | 迪納托兜帽【ＺＰ】 |
 | 12989 | Duque ZP Head | 公爵頭兜【ＺＰ】 |

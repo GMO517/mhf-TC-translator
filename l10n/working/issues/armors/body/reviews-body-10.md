@@ -150,7 +150,7 @@
 | 4644 | 竜巻HS胴着・Black | 竜巻胴着鎧甲・黑 |
 | 4645 | 竜巻GS胴着・Black | 竜巻胴着鎧甲・黑 |
 | 4646 | 竜巻GP胴着・Black | 竜巻胴着鎧甲・黑 |
-| 4647 | True 空FZ胴着・Black | 空胴着鎧甲・黑 |
+| 4647 | True 空FZ胴着・Black | 真空胴着鎧甲・黑 |
 | 4648 | True 空HS胴着・Black | 空胴着鎧甲・黑 |
 | 4649 | True 空GS胴着・Black | 空胴着鎧甲・黑 |
 | 4650 | True 空GP胴着・Black | 空胴着鎧甲・黑 |
@@ -166,7 +166,7 @@
 | 4660 | 竜巻HS胴着・Tea | 竜巻胴着鎧甲・茶 |
 | 4661 | 竜巻GS胴着・Tea | 竜巻胴着鎧甲・茶 |
 | 4662 | 竜巻GP胴着・Tea | 竜巻胴着鎧甲・茶 |
-| 4663 | True 空FZ胴着・Tea | 空胴着鎧甲・茶 |
+| 4663 | True 空FZ胴着・Tea | 真空胴着鎧甲・茶 |
 | 4664 | True 空HS胴着・Tea | 空胴着鎧甲・茶 |
 | 4665 | True 空GS胴着・Tea | 空胴着鎧甲・茶 |
 | 4666 | True 空GP胴着・Tea | 空胴着鎧甲・茶 |
@@ -182,7 +182,7 @@
 | 4676 | 竜巻HS胴着・White | 竜巻胴着鎧甲・白 |
 | 4677 | 竜巻GS胴着・White | 竜巻胴着鎧甲・白 |
 | 4678 | 竜巻GP胴着・White | 竜巻胴着鎧甲・白 |
-| 4679 | True 空FZ胴着・White | 空胴着鎧甲・白 |
+| 4679 | True 空FZ胴着・White | 真空胴着鎧甲・白 |
 | 4680 | True 空HS胴着・White | 空胴着鎧甲・白 |
 | 4681 | True 空GS胴着・White | 空胴着鎧甲・白 |
 | 4682 | True 空GP胴着・White | 空胴着鎧甲・白 |
@@ -198,7 +198,7 @@
 | 4692 | 竜巻HS胴着・Blue | 竜巻胴着鎧甲・青 |
 | 4693 | 竜巻GS胴着・Blue | 竜巻胴着鎧甲・青 |
 | 4694 | 竜巻GP胴着・Blue | 竜巻胴着鎧甲・青 |
-| 4695 | True 空FZ胴着・Blue | 空胴着鎧甲・青 |
+| 4695 | True 空FZ胴着・Blue | 真空胴着鎧甲・青 |
 | 4696 | True 空HS胴着・Blue | 空胴着鎧甲・青 |
 | 4697 | True 空GS胴着・Blue | 空胴着鎧甲・青 |
 | 4698 | True 空GP胴着・Blue | 空胴着鎧甲・青 |
@@ -210,98 +210,98 @@
 | 4704 | 覇山HS胴着・Green | 覇山胴着鎧甲・緑 |
 | 4705 | 覇山GS胴着・Green | 覇山胴着鎧甲・緑 |
 | 4706 | 覇山GP胴着・Green | 覇山胴着鎧甲・緑 |
-| 4707 | Demon FZドレス・Blue | 惡魔鎧甲 |
-| 4708 | Demon HSドレス・Blue | 惡魔鎧甲 |
-| 4709 | Demon GSドレス・Blue | 惡魔鎧甲 |
-| 4710 | Demon GPドレス・Blue | 惡魔鎧甲 |
-| 4711 | Chaos FZドレス・Blue | 混沌鎧甲 |
-| 4712 | Chaos HSドレス・Blue | 混沌鎧甲 |
-| 4713 | Chaos GSドレス・Blue | 混沌鎧甲 |
-| 4714 | Chaos GPドレス・Blue | 混沌鎧甲 |
-| 4715 | Shadow FZ Suit Purple | 暗影套裝【ＦＺ】・紫 |
-| 4716 | Shadow HS Suit Purple | 暗影套裝【ＨＳ】・紫 |
-| 4717 | Shadow GS Suit Purple | 暗影套裝【ＧＳ】・紫 |
-| 4718 | Shadow GP Suit Purple | 暗影套裝【ＧＰ】・紫 |
+| 4707 | Demon FZドレス・Blue | 惡魔鎧甲・青 |
+| 4708 | Demon HSドレス・Blue | 惡魔鎧甲・青 |
+| 4709 | Demon GSドレス・Blue | 惡魔鎧甲・青 |
+| 4710 | Demon GPドレス・Blue | 惡魔鎧甲・青 |
+| 4711 | Chaos FZドレス・Blue | 混沌鎧甲・青 |
+| 4712 | Chaos HSドレス・Blue | 混沌鎧甲・青 |
+| 4713 | Chaos GSドレス・Blue | 混沌鎧甲・青 |
+| 4714 | Chaos GPドレス・Blue | 混沌鎧甲・青 |
+| 4715 | Shadow FZ Suit Purple | 影套裝【ＦＺ】・紫 |
+| 4716 | Shadow HS Suit Purple | 影套裝【ＨＳ】・紫 |
+| 4717 | Shadow GS Suit Purple | 影套裝【ＧＳ】・紫 |
+| 4718 | Shadow GP Suit Purple | 影套裝【ＧＰ】・紫 |
 | 4719 | Soul FZ Suit・Purple | 魂套裝【ＦＺ】・紫 |
 | 4720 | Soul HS Suit・Purple | 魂套裝【ＨＳ】・紫 |
 | 4721 | Soul GS Suit・Purple | 魂套裝【ＧＳ】・紫 |
 | 4722 | Soul GP Suit・Purple | 魂套裝【ＧＰ】・紫 |
-| 4723 | Demon FZドレス・Red | 惡魔鎧甲 |
-| 4724 | Demon HSドレス・Red | 惡魔鎧甲 |
-| 4725 | Demon GSドレス・Red | 惡魔鎧甲 |
-| 4726 | Demon GPドレス・Red | 惡魔鎧甲 |
-| 4727 | Chaos FZドレス・Red | 混沌鎧甲 |
-| 4728 | Chaos HSドレス・Red | 混沌鎧甲 |
-| 4729 | Chaos GSドレス・Red | 混沌鎧甲 |
-| 4730 | Chaos GPドレス・Red | 混沌鎧甲 |
-| 4731 | Shadow FZ Suit Red | 暗影套裝【ＦＺ】・赤 |
-| 4732 | Shadow HS Suit Red | 暗影套裝【ＨＳ】・赤 |
-| 4733 | Shadow GS Suit Red | 暗影套裝【ＧＳ】・赤 |
-| 4734 | Shadow GP Suit Red | 暗影套裝【ＧＰ】・赤 |
+| 4723 | Demon FZドレス・Red | 惡魔鎧甲・赤 |
+| 4724 | Demon HSドレス・Red | 惡魔鎧甲・赤 |
+| 4725 | Demon GSドレス・Red | 惡魔鎧甲・赤 |
+| 4726 | Demon GPドレス・Red | 惡魔鎧甲・赤 |
+| 4727 | Chaos FZドレス・Red | 混沌鎧甲・赤 |
+| 4728 | Chaos HSドレス・Red | 混沌鎧甲・赤 |
+| 4729 | Chaos GSドレス・Red | 混沌鎧甲・赤 |
+| 4730 | Chaos GPドレス・Red | 混沌鎧甲・赤 |
+| 4731 | Shadow FZ Suit Red | 影套裝【ＦＺ】・赤 |
+| 4732 | Shadow HS Suit Red | 影套裝【ＨＳ】・赤 |
+| 4733 | Shadow GS Suit Red | 影套裝【ＧＳ】・赤 |
+| 4734 | Shadow GP Suit Red | 影套裝【ＧＰ】・赤 |
 | 4735 | Soul FZ Suit・Red | 魂套裝【ＦＺ】・赤 |
 | 4736 | Soul HS Suit・Red | 魂套裝【ＨＳ】・赤 |
 | 4737 | Soul GS Suit・Red | 魂套裝【ＧＳ】・赤 |
 | 4738 | Soul GP Suit・Red | 魂套裝【ＧＰ】・赤 |
-| 4739 | Demon FZドレス・Green | 惡魔鎧甲 |
-| 4740 | Demon HSドレス・Green | 惡魔鎧甲 |
-| 4741 | Demon GSドレス・Green | 惡魔鎧甲 |
-| 4742 | Demon GPドレス・Green | 惡魔鎧甲 |
-| 4743 | Chaos FZドレス・Green | 混沌鎧甲 |
-| 4744 | Chaos HSドレス・Green | 混沌鎧甲 |
-| 4745 | Chaos GSドレス・Green | 混沌鎧甲 |
-| 4746 | Chaos GPドレス・Green | 混沌鎧甲 |
-| 4747 | Shadow FZ Suit Green | 暗影套裝【ＦＺ】・緑 |
-| 4748 | Shadow HS Suit Green | 暗影套裝【ＨＳ】・緑 |
-| 4749 | Shadow GS Suit Green | 暗影套裝【ＧＳ】・緑 |
-| 4750 | Shadow GP Suit Green | 暗影套裝【ＧＰ】・緑 |
+| 4739 | Demon FZドレス・Green | 惡魔鎧甲・緑 |
+| 4740 | Demon HSドレス・Green | 惡魔鎧甲・緑 |
+| 4741 | Demon GSドレス・Green | 惡魔鎧甲・緑 |
+| 4742 | Demon GPドレス・Green | 惡魔鎧甲・緑 |
+| 4743 | Chaos FZドレス・Green | 混沌鎧甲・緑 |
+| 4744 | Chaos HSドレス・Green | 混沌鎧甲・緑 |
+| 4745 | Chaos GSドレス・Green | 混沌鎧甲・緑 |
+| 4746 | Chaos GPドレス・Green | 混沌鎧甲・緑 |
+| 4747 | Shadow FZ Suit Green | 影套裝【ＦＺ】・緑 |
+| 4748 | Shadow HS Suit Green | 影套裝【ＨＳ】・緑 |
+| 4749 | Shadow GS Suit Green | 影套裝【ＧＳ】・緑 |
+| 4750 | Shadow GP Suit Green | 影套裝【ＧＰ】・緑 |
 | 4751 | Soul FZ Suit・Green | 魂套裝【ＦＺ】・緑 |
 | 4752 | Soul HS Suit・Green | 魂套裝【ＨＳ】・緑 |
 | 4753 | Soul GS Suit・Green | 魂套裝【ＧＳ】・緑 |
 | 4754 | Soul GP Suit・Green | 魂套裝【ＧＰ】・緑 |
-| 4755 | Demon FZドレス・White | 惡魔鎧甲 |
-| 4756 | Demon HSドレス・White | 惡魔鎧甲 |
-| 4757 | Demon GSドレス・White | 惡魔鎧甲 |
-| 4758 | Demon GPドレス・White | 惡魔鎧甲 |
-| 4759 | Chaos FZドレス・White | 混沌鎧甲 |
-| 4760 | Chaos HSドレス・White | 混沌鎧甲 |
-| 4761 | Chaos GSドレス・White | 混沌鎧甲 |
-| 4762 | Chaos GPドレス・White | 混沌鎧甲 |
-| 4763 | Shadow FZ Suit White | 暗影套裝【ＦＺ】・白 |
-| 4764 | Shadow HS Suit White | 暗影套裝【ＨＳ】・白 |
-| 4765 | Shadow GS Suit White | 暗影套裝【ＧＳ】・白 |
-| 4766 | Shadow GP Suit White | 暗影套裝【ＧＰ】・白 |
+| 4755 | Demon FZドレス・White | 惡魔鎧甲・白 |
+| 4756 | Demon HSドレス・White | 惡魔鎧甲・白 |
+| 4757 | Demon GSドレス・White | 惡魔鎧甲・白 |
+| 4758 | Demon GPドレス・White | 惡魔鎧甲・白 |
+| 4759 | Chaos FZドレス・White | 混沌鎧甲・白 |
+| 4760 | Chaos HSドレス・White | 混沌鎧甲・白 |
+| 4761 | Chaos GSドレス・White | 混沌鎧甲・白 |
+| 4762 | Chaos GPドレス・White | 混沌鎧甲・白 |
+| 4763 | Shadow FZ Suit White | 影套裝【ＦＺ】・白 |
+| 4764 | Shadow HS Suit White | 影套裝【ＨＳ】・白 |
+| 4765 | Shadow GS Suit White | 影套裝【ＧＳ】・白 |
+| 4766 | Shadow GP Suit White | 影套裝【ＧＰ】・白 |
 | 4767 | Soul FZ Suit・White | 魂套裝【ＦＺ】・白 |
 | 4768 | Soul HS Suit・White | 魂套裝【ＨＳ】・白 |
 | 4769 | Soul GS Suit・White | 魂套裝【ＧＳ】・白 |
 | 4770 | Soul GP Suit・White | 魂套裝【ＧＰ】・白 |
-| 4771 | Issen GS【胴当て】・Red | 一閃鎧甲【ＧＳ】 |
-| 4772 | Issen GP【胴当て】・Red | 一閃鎧甲【ＧＰ】 |
-| 4773 | 構射GS【胴当て】・Red | 胴当て構射鎧甲・赤 |
-| 4774 | 構射GP【胴当て】・Red | 胴当て構射鎧甲・赤 |
+| 4771 | Issen GS【胴当て】・Red | 一閃胴當【ＧＳ】・赤 |
+| 4772 | Issen GP【胴当て】・Red | 一閃胴當【ＧＰ】・赤 |
+| 4773 | 構射GS【胴当て】・Red | 構射胴當【ＧＳ】・赤 |
+| 4774 | 構射GP【胴当て】・Red | 構射胴當【ＧＰ】・赤 |
 | 4775 | 蜂針GS [Chestplate 】・Orange | 蜂針胸甲【ＧＳ】・橙 |
 | 4776 | 蜂針GP [Chestplate 】・Orange | 蜂針胸甲【ＧＰ】・橙 |
 | 4777 | 気弾GS [Chestplate 】・Orange | 気弾胸甲【ＧＳ】・橙 |
 | 4778 | 気弾GP [Chestplate 】・Orange | 気弾胸甲【ＧＰ】・橙 |
-| 4779 | Issen GS【胴当て】・Blue | 一閃鎧甲【ＧＳ】 |
-| 4780 | Issen GP【胴当て】・Blue | 一閃鎧甲【ＧＰ】 |
-| 4781 | 構射GS【胴当て】・Blue | 胴当て構射鎧甲・青 |
-| 4782 | 構射GP【胴当て】・Blue | 胴当て構射鎧甲・青 |
+| 4779 | Issen GS【胴当て】・Blue | 一閃胴當【ＧＳ】・青 |
+| 4780 | Issen GP【胴当て】・Blue | 一閃胴當【ＧＰ】・青 |
+| 4781 | 構射GS【胴当て】・Blue | 構射胴當【ＧＳ】・青 |
+| 4782 | 構射GP【胴当て】・Blue | 構射胴當【ＧＰ】・青 |
 | 4783 | 蜂針GS [Chestplate 】・Blue | 蜂針胸甲【ＧＳ】・青 |
 | 4784 | 蜂針GP [Chestplate 】・Blue | 蜂針胸甲【ＧＰ】・青 |
 | 4785 | 気弾GS [Chestplate 】・Blue | 気弾胸甲【ＧＳ】・青 |
 | 4786 | 気弾GP [Chestplate 】・Blue | 気弾胸甲【ＧＰ】・青 |
-| 4787 | Issen GS【胴当て】・Yellow | 一閃鎧甲【ＧＳ】 |
-| 4788 | Issen GP【胴当て】・Yellow | 一閃鎧甲【ＧＰ】 |
-| 4789 | 構射GS【胴当て】・Yellow | 胴当て構射鎧甲・黄 |
-| 4790 | 構射GP【胴当て】・Yellow | 胴当て構射鎧甲・黄 |
+| 4787 | Issen GS【胴当て】・Yellow | 一閃胴當【ＧＳ】・黄 |
+| 4788 | Issen GP【胴当て】・Yellow | 一閃胴當【ＧＰ】・黄 |
+| 4789 | 構射GS【胴当て】・Yellow | 構射胴當【ＧＳ】・黄 |
+| 4790 | 構射GP【胴当て】・Yellow | 構射胴當【ＧＰ】・黄 |
 | 4791 | 蜂針GS [Chestplate 】・Yellow | 蜂針胸甲【ＧＳ】・黄 |
 | 4792 | 蜂針GP [Chestplate 】・Yellow | 蜂針胸甲【ＧＰ】・黄 |
 | 4793 | 気弾GS [Chestplate 】・Yellow | 気弾胸甲【ＧＳ】・黄 |
 | 4794 | 気弾GP [Chestplate 】・Yellow | 気弾胸甲【ＧＰ】・黄 |
-| 4795 | Issen GS【胴当て】・Black | 一閃鎧甲【ＧＳ】 |
-| 4796 | Issen GP【胴当て】・Black | 一閃鎧甲【ＧＰ】 |
-| 4797 | 構射GS【胴当て】・Black | 胴当て構射鎧甲・黑 |
-| 4798 | 構射GP【胴当て】・Black | 胴当て構射鎧甲・黑 |
+| 4795 | Issen GS【胴当て】・Black | 一閃胴當【ＧＳ】・黑 |
+| 4796 | Issen GP【胴当て】・Black | 一閃胴當【ＧＰ】・黑 |
+| 4797 | 構射GS【胴当て】・Black | 構射胴當【ＧＳ】・黑 |
+| 4798 | 構射GP【胴当て】・Black | 構射胴當【ＧＰ】・黑 |
 | 4799 | 蜂針GS [Chestplate 】・Black | 蜂針胸甲【ＧＳ】・黑 |
 | 4800 | 蜂針GP [Chestplate 】・Black | 蜂針胸甲【ＧＰ】・黑 |
 | 4801 | 気弾GS [Chestplate 】・Black | 気弾胸甲【ＧＳ】・黑 |
@@ -310,10 +310,10 @@
 | 4804 | Shinryu GP胴着・Red | 胴着鎧甲・赤 |
 | 4805 | Reppa GS胴着・Red | 胴着鎧甲・赤 |
 | 4806 | Reppa GP胴着・Red | 胴着鎧甲・赤 |
-| 4807 | Cannon GS Suit・Water | 加農水套裝【ＧＳ】 |
-| 4808 | Cannon GP Suit・Water | 加農水套裝【ＧＰ】 |
-| 4809 | Axel GS Suit・Water | 輪軸水套裝【ＧＳ】 |
-| 4810 | Axel GP Suit・Water | 輪軸水套裝【ＧＰ】 |
+| 4807 | Cannon GS Suit・Water | 加農套裝【ＧＳ】・水 |
+| 4808 | Cannon GP Suit・Water | 加農套裝【ＧＰ】・水 |
+| 4809 | Axel GS Suit・Water | 輪軸套裝【ＧＳ】・水 |
+| 4810 | Axel GP Suit・Water | 輪軸套裝【ＧＰ】・水 |
 | 4811 | Shinryu GS胴着・White | 胴着鎧甲・白 |
 | 4812 | Shinryu GP胴着・White | 胴着鎧甲・白 |
 | 4813 | Reppa GS胴着・White | 胴着鎧甲・白 |

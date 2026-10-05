@@ -185,9 +185,9 @@
 | 10679 | アメニケ Piercing GS | 阿梅尼凱耳飾【ＧＳ】 |
 | 10680 | アメニケ Piercing GP | 阿梅尼凱耳飾【ＧＰ】 |
 | 10681 | クローニーGP Piercing | 庫羅尼耳飾【ＧＰ】 |
-| 10682 | Demon Tale Horn G | 德艾姆歐角【Ｇ】 |
-| 10683 | Demon Tale Horn GF | 德艾姆歐角【ＧＦ】 |
-| 10684 | Demon Tale Horn GX | 德艾姆歐角【ＧＸ】 |
+| 10682 | Demon Tale Horn G | 魔譚角【Ｇ】 |
+| 10683 | Demon Tale Horn GF | 魔譚角【ＧＦ】 |
+| 10684 | Demon Tale Horn GX | 魔譚角【ＧＸ】 |
 | 10685 | 童伝ノ角G | 童伝角頭兜 |
 | 10686 | 童伝ノ角GF | 童伝角頭兜【Ｆ】 |
 | 10687 | 童伝ノ角GX | 童伝角頭兜 |
@@ -498,10 +498,10 @@
 | 10992 | Wasou Crown HS | 和裝冠【ＨＳ】 |
 | 10993 | Wasou Crown GS | 和裝冠【ＧＳ】 |
 | 10994 | Wasou Crown GP | 和裝冠【ＧＰ】 |
-| 10995 | Blue Ice Emperor Head | 冰帝頭兜・青 |
-| 10996 | Blue Ice Emperor F Head | 冰帝頭兜【Ｆ】・青 |
-| 10997 | Blue Ice Emperor FZ Head | 冰帝頭兜【ＦＺ】・青 |
-| 10998 | Blue Ice Emperor HS Head | 冰帝頭兜【ＨＳ】・青 |
-| 10999 | Blue Ice Emperor GS Head | 冰帝頭兜【ＧＳ】・青 |
-| 11000 | Blue Ice Emperor GP Head | 冰帝頭兜【ＧＰ】・青 |
+| 10995 | Blue Ice Emperor Head | 青冰帝頭兜 |
+| 10996 | Blue Ice Emperor F Head | 青冰帝頭兜【Ｆ】 |
+| 10997 | Blue Ice Emperor FZ Head | 青冰帝頭兜【ＦＺ】 |
+| 10998 | Blue Ice Emperor HS Head | 青冰帝頭兜【ＨＳ】 |
+| 10999 | Blue Ice Emperor GS Head | 青冰帝頭兜【ＧＳ】 |
+| 11000 | Blue Ice Emperor GP Head | 青冰帝頭兜【ＧＰ】 |
 

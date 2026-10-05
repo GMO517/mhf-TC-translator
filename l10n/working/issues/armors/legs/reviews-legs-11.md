@@ -149,12 +149,12 @@
 | 5143 | 迅雷HS脚着 | 迅雷脚着護腿 |
 | 5144 | 迅雷GS脚着 | 迅雷脚着護腿 |
 | 5145 | 迅雷GP脚着 | 迅雷脚着護腿 |
-| 5146 | Heaven 星脚着 | 星脚着護腿・天 |
-| 5147 | Heaven 星F脚着 | 星脚着護腿・天 |
-| 5148 | Heaven 星FZ脚着 | 星脚着護腿・天 |
-| 5149 | Heaven 星HS脚着 | 星脚着護腿・天 |
-| 5150 | Heaven 星GS脚着 | 星脚着護腿・天 |
-| 5151 | Heaven 星GP脚着 | 星脚着護腿・天 |
+| 5146 | Heaven 星脚着 | 星脚着天護腿 |
+| 5147 | Heaven 星F脚着 | 星脚着天護腿 |
+| 5148 | Heaven 星FZ脚着 | 星脚着天護腿 |
+| 5149 | Heaven 星HS脚着 | 星脚着天護腿 |
+| 5150 | Heaven 星GS脚着 | 星脚着天護腿 |
+| 5151 | Heaven 星GP脚着 | 星脚着天護腿 |
 | 5152 | 飛燕脚着 | 飛燕脚着護腿 |
 | 5153 | 飛燕F脚着 | 飛燕脚着護腿 |
 | 5154 | 飛燕FZ脚着 | 飛燕脚着護腿 |
@@ -491,17 +491,17 @@
 | 5485 | Omet HS Boots・Blue | 歐梅特靴【ＨＳ】・青 |
 | 5486 | Omet GS Boots・Blue | 歐梅特靴【ＧＳ】・青 |
 | 5487 | Omet GP Boots・Blue | 歐梅特靴【ＧＰ】・青 |
-| 5488 | Gold FZ Feet・Red | 足【ＦＺ】・金・赤 |
-| 5489 | Gold HS Feet・Red | 足【ＨＳ】・金・赤 |
-| 5490 | Gold GS Feet・Red | 足【ＧＳ】・金・赤 |
-| 5491 | Gold GP Feet・Red | 足【ＧＰ】・金・赤 |
-| 5492 | Gold FZ Feet・Blue | 足【ＦＺ】・金・青 |
-| 5493 | Gold HS Feet・Blue | 足【ＨＳ】・金・青 |
-| 5494 | Gold GS Feet・Blue | 足【ＧＳ】・金・青 |
-| 5495 | Gold GP Feet・Blue | 足【ＧＰ】・金・青 |
-| 5496 | Gold FZ Feet・Yellow | 足【ＦＺ】・金・黄 |
-| 5497 | Gold HS Feet・Yellow | 足【ＨＳ】・金・黄 |
-| 5498 | Gold GS Feet・Yellow | 足【ＧＳ】・金・黄 |
-| 5499 | Gold GP Feet・Yellow | 足【ＧＰ】・金・黄 |
-| 5500 | Gold FZ Feet・Purple | 足【ＦＺ】・金・紫 |
+| 5488 | Gold FZ Feet・Red | 金足【ＦＺ】・赤 |
+| 5489 | Gold HS Feet・Red | 金足【ＨＳ】・赤 |
+| 5490 | Gold GS Feet・Red | 金足【ＧＳ】・赤 |
+| 5491 | Gold GP Feet・Red | 金足【ＧＰ】・赤 |
+| 5492 | Gold FZ Feet・Blue | 金足【ＦＺ】・青 |
+| 5493 | Gold HS Feet・Blue | 金足【ＨＳ】・青 |
+| 5494 | Gold GS Feet・Blue | 金足【ＧＳ】・青 |
+| 5495 | Gold GP Feet・Blue | 金足【ＧＰ】・青 |
+| 5496 | Gold FZ Feet・Yellow | 金足【ＦＺ】・黄 |
+| 5497 | Gold HS Feet・Yellow | 金足【ＨＳ】・黄 |
+| 5498 | Gold GS Feet・Yellow | 金足【ＧＳ】・黄 |
+| 5499 | Gold GP Feet・Yellow | 金足【ＧＰ】・黄 |
+| 5500 | Gold FZ Feet・Purple | 金足【ＦＺ】・紫 |
 

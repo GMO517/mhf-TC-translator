@@ -4,25 +4,25 @@
 
 | index | 原文 | 譯文 |
 |---|---|---|
-| 5501 | Gold HS Feet・Purple | 足【ＨＳ】・金・紫 |
-| 5502 | Gold GS Feet・Purple | 足【ＧＳ】・金・紫 |
-| 5503 | Gold GP Feet・Purple | 足【ＧＰ】・金・紫 |
-| 5504 | Gold FZ Boots・Red | 靴【ＦＺ】・金・赤 |
-| 5505 | Gold HS Boots・Red | 靴【ＨＳ】・金・赤 |
-| 5506 | Gold GS Boots・Red | 靴【ＧＳ】・金・赤 |
-| 5507 | Gold GP Boots・Red | 靴【ＧＰ】・金・赤 |
-| 5508 | Gold FZ Boots・Blue | 靴【ＦＺ】・金・青 |
-| 5509 | Gold HS Boots・Blue | 靴【ＨＳ】・金・青 |
-| 5510 | Gold GS Boots・Blue | 靴【ＧＳ】・金・青 |
-| 5511 | Gold GP Boots・Blue | 靴【ＧＰ】・金・青 |
-| 5512 | Gold FZ Boots・Yellow | 靴【ＦＺ】・金・黄 |
-| 5513 | Gold HS Boots・Yellow | 靴【ＨＳ】・金・黄 |
-| 5514 | Gold GS Boots・Yellow | 靴【ＧＳ】・金・黄 |
-| 5515 | Gold GP Boots・Yellow | 靴【ＧＰ】・金・黄 |
-| 5516 | Gold FZ Boots・Purple | 靴【ＦＺ】・金・紫 |
-| 5517 | Gold HS Boots・Purple | 靴【ＨＳ】・金・紫 |
-| 5518 | Gold GS Boots・Purple | 靴【ＧＳ】・金・紫 |
-| 5519 | Gold GP Boots・Purple | 靴【ＧＰ】・金・紫 |
+| 5501 | Gold HS Feet・Purple | 金足【ＨＳ】・紫 |
+| 5502 | Gold GS Feet・Purple | 金足【ＧＳ】・紫 |
+| 5503 | Gold GP Feet・Purple | 金足【ＧＰ】・紫 |
+| 5504 | Gold FZ Boots・Red | 金靴【ＦＺ】・赤 |
+| 5505 | Gold HS Boots・Red | 金靴【ＨＳ】・赤 |
+| 5506 | Gold GS Boots・Red | 金靴【ＧＳ】・赤 |
+| 5507 | Gold GP Boots・Red | 金靴【ＧＰ】・赤 |
+| 5508 | Gold FZ Boots・Blue | 金靴【ＦＺ】・青 |
+| 5509 | Gold HS Boots・Blue | 金靴【ＨＳ】・青 |
+| 5510 | Gold GS Boots・Blue | 金靴【ＧＳ】・青 |
+| 5511 | Gold GP Boots・Blue | 金靴【ＧＰ】・青 |
+| 5512 | Gold FZ Boots・Yellow | 金靴【ＦＺ】・黄 |
+| 5513 | Gold HS Boots・Yellow | 金靴【ＨＳ】・黄 |
+| 5514 | Gold GS Boots・Yellow | 金靴【ＧＳ】・黄 |
+| 5515 | Gold GP Boots・Yellow | 金靴【ＧＰ】・黄 |
+| 5516 | Gold FZ Boots・Purple | 金靴【ＦＺ】・紫 |
+| 5517 | Gold HS Boots・Purple | 金靴【ＨＳ】・紫 |
+| 5518 | Gold GS Boots・Purple | 金靴【ＧＳ】・紫 |
+| 5519 | Gold GP Boots・Purple | 金靴【ＧＰ】・紫 |
 | 5520 | Shaln HS Feet・Blue | 夏爾恩足【ＨＳ】・青 |
 | 5521 | Shaln GS Feet・Blue | 夏爾恩足【ＧＳ】・青 |
 | 5522 | Shaln GP Feet・Blue | 夏爾恩足【ＧＰ】・青 |
@@ -185,18 +185,18 @@
 | 5679 | Zyra HS Boots・Green | 齊拉靴【ＨＳ】・緑 |
 | 5680 | Zyra GS Boots・Green | 齊拉靴【ＧＳ】・緑 |
 | 5681 | Zyra GP Boots・Green | 齊拉靴【ＧＰ】・緑 |
-| 5682 | Zyra Feet・Water | 齊拉水足 |
-| 5683 | Zyra F Feet・Water | 齊拉水足【Ｆ】 |
-| 5684 | Zyra FZ Feet・Water | 齊拉水足【ＦＺ】 |
-| 5685 | Zyra HS Feet・Water | 齊拉水足【ＨＳ】 |
-| 5686 | Zyra GS Feet・Water | 齊拉水足【ＧＳ】 |
-| 5687 | Zyra GP Feet・Water | 齊拉水足【ＧＰ】 |
-| 5688 | Zyra Boots・Water | 齊拉水靴 |
-| 5689 | Zyra F Boots・Water | 齊拉水靴【Ｆ】 |
-| 5690 | Zyra FZ Boots・Water | 齊拉水靴【ＦＺ】 |
-| 5691 | Zyra HS Boots・Water | 齊拉水靴【ＨＳ】 |
-| 5692 | Zyra GS Boots・Water | 齊拉水靴【ＧＳ】 |
-| 5693 | Zyra GP Boots・Water | 齊拉水靴【ＧＰ】 |
+| 5682 | Zyra Feet・Water | 齊拉足・水 |
+| 5683 | Zyra F Feet・Water | 齊拉足【Ｆ】・水 |
+| 5684 | Zyra FZ Feet・Water | 齊拉足【ＦＺ】・水 |
+| 5685 | Zyra HS Feet・Water | 齊拉足【ＨＳ】・水 |
+| 5686 | Zyra GS Feet・Water | 齊拉足【ＧＳ】・水 |
+| 5687 | Zyra GP Feet・Water | 齊拉足【ＧＰ】・水 |
+| 5688 | Zyra Boots・Water | 齊拉靴・水 |
+| 5689 | Zyra F Boots・Water | 齊拉靴【Ｆ】・水 |
+| 5690 | Zyra FZ Boots・Water | 齊拉靴【ＦＺ】・水 |
+| 5691 | Zyra HS Boots・Water | 齊拉靴【ＨＳ】・水 |
+| 5692 | Zyra GS Boots・Water | 齊拉靴【ＧＳ】・水 |
+| 5693 | Zyra GP Boots・Water | 齊拉靴【ＧＰ】・水 |
 | 5694 | Zyra Feet・Red | 齊拉足・赤 |
 | 5695 | Zyra F Feet・Red | 齊拉足【Ｆ】・赤 |
 | 5696 | Zyra FZ Feet・Red | 齊拉足【ＦＺ】・赤 |
@@ -361,54 +361,54 @@
 | 5855 | Ex HS Boots・Black | 艾克斯靴【ＨＳ】・黑 |
 | 5856 | Ex GS Boots・Black | 艾克斯靴【ＧＳ】・黑 |
 | 5857 | Ex GP Boots・Black | 艾克斯靴【ＧＰ】・黑 |
-| 5858 | Gold Cat FZ Feet | 猫足【ＦＺ】・金 |
-| 5859 | Gold Cat HS Feet | 猫足【ＨＳ】・金 |
-| 5860 | Gold Cat GS Feet | 猫足【ＧＳ】・金 |
-| 5861 | Gold Cat GP Feet | 猫足【ＧＰ】・金 |
-| 5862 | Gold Cat FZ Boots | 猫靴【ＦＺ】・金 |
-| 5863 | Gold Cat HS Boots | 猫靴【ＨＳ】・金 |
-| 5864 | Gold Cat GS Boots | 猫靴【ＧＳ】・金 |
-| 5865 | Gold Cat GP Boots | 猫靴【ＧＰ】・金 |
-| 5866 | Silver Cat FZ Feet | 猫足【ＦＺ】・銀 |
-| 5867 | Silver Cat HS Feet | 猫足【ＨＳ】・銀 |
-| 5868 | Silver Cat GS Feet | 猫足【ＧＳ】・銀 |
-| 5869 | Silver Cat GP Feet | 猫足【ＧＰ】・銀 |
-| 5870 | Silver Cat FZ Boots | 猫靴【ＦＺ】・銀 |
-| 5871 | Silver Cat HS Boots | 猫靴【ＨＳ】・銀 |
-| 5872 | Silver Cat GS Boots | 猫靴【ＧＳ】・銀 |
-| 5873 | Silver Cat GP Boots | 猫靴【ＧＰ】・銀 |
-| 5874 | Claire FZ Feet・Purple | 克蕾兒足【ＦＺ】・紫 |
-| 5875 | Claire HS Feet・Purple | 克蕾兒足【ＨＳ】・紫 |
-| 5876 | Claire GS Feet・Purple | 克蕾兒足【ＧＳ】・紫 |
-| 5877 | Claire GP Feet・Purple | 克蕾兒足【ＧＰ】・紫 |
-| 5878 | Claire FZ Boots・Purple | 克蕾兒靴【ＦＺ】・紫 |
-| 5879 | Claire HS Boots・Purple | 克蕾兒靴【ＨＳ】・紫 |
-| 5880 | Claire GS Boots・Purple | 克蕾兒靴【ＧＳ】・紫 |
-| 5881 | Claire GP Boots・Purple | 克蕾兒靴【ＧＰ】・紫 |
-| 5882 | Claire FZ Feet・Water | 克蕾兒水足【ＦＺ】 |
-| 5883 | Claire HS Feet・Water | 克蕾兒水足【ＨＳ】 |
-| 5884 | Claire GS Feet・Water | 克蕾兒水足【ＧＳ】 |
-| 5885 | Claire GP Feet・Water | 克蕾兒水足【ＧＰ】 |
-| 5886 | Claire FZ Boots・Water | 克蕾兒水靴【ＦＺ】 |
-| 5887 | Claire HS Boots・Water | 克蕾兒水靴【ＨＳ】 |
-| 5888 | Claire GS Boots・Water | 克蕾兒水靴【ＧＳ】 |
-| 5889 | Claire GP Boots・Water | 克蕾兒水靴【ＧＰ】 |
-| 5890 | Claire FZ Feet・Red | 克蕾兒足【ＦＺ】・赤 |
-| 5891 | Claire HS Feet・Red | 克蕾兒足【ＨＳ】・赤 |
-| 5892 | Claire GS Feet・Red | 克蕾兒足【ＧＳ】・赤 |
-| 5893 | Claire GP Feet・Red | 克蕾兒足【ＧＰ】・赤 |
-| 5894 | Claire FZ Boots・Red | 克蕾兒靴【ＦＺ】・赤 |
-| 5895 | Claire HS Boots・Red | 克蕾兒靴【ＨＳ】・赤 |
-| 5896 | Claire GS Boots・Red | 克蕾兒靴【ＧＳ】・赤 |
-| 5897 | Claire GP Boots・Red | 克蕾兒靴【ＧＰ】・赤 |
-| 5898 | Claire FZ Feet・Black | 克蕾兒足【ＦＺ】・黑 |
-| 5899 | Claire HS Feet・Black | 克蕾兒足【ＨＳ】・黑 |
-| 5900 | Claire GS Feet・Black | 克蕾兒足【ＧＳ】・黑 |
-| 5901 | Claire GP Feet・Black | 克蕾兒足【ＧＰ】・黑 |
-| 5902 | Claire FZ Boots・Black | 克蕾兒靴【ＦＺ】・黑 |
-| 5903 | Claire HS Boots・Black | 克蕾兒靴【ＨＳ】・黑 |
-| 5904 | Claire GS Boots・Black | 克蕾兒靴【ＧＳ】・黑 |
-| 5905 | Claire GP Boots・Black | 克蕾兒靴【ＧＰ】・黑 |
+| 5858 | Gold Cat FZ Feet | 金猫足【ＦＺ】 |
+| 5859 | Gold Cat HS Feet | 金猫足【ＨＳ】 |
+| 5860 | Gold Cat GS Feet | 金猫足【ＧＳ】 |
+| 5861 | Gold Cat GP Feet | 金猫足【ＧＰ】 |
+| 5862 | Gold Cat FZ Boots | 金猫靴【ＦＺ】 |
+| 5863 | Gold Cat HS Boots | 金猫靴【ＨＳ】 |
+| 5864 | Gold Cat GS Boots | 金猫靴【ＧＳ】 |
+| 5865 | Gold Cat GP Boots | 金猫靴【ＧＰ】 |
+| 5866 | Silver Cat FZ Feet | 銀猫足【ＦＺ】 |
+| 5867 | Silver Cat HS Feet | 銀猫足【ＨＳ】 |
+| 5868 | Silver Cat GS Feet | 銀猫足【ＧＳ】 |
+| 5869 | Silver Cat GP Feet | 銀猫足【ＧＰ】 |
+| 5870 | Silver Cat FZ Boots | 銀猫靴【ＦＺ】 |
+| 5871 | Silver Cat HS Boots | 銀猫靴【ＨＳ】 |
+| 5872 | Silver Cat GS Boots | 銀猫靴【ＧＳ】 |
+| 5873 | Silver Cat GP Boots | 銀猫靴【ＧＰ】 |
+| 5874 | Claire FZ Feet・Purple | 克蕾爾足【ＦＺ】・紫 |
+| 5875 | Claire HS Feet・Purple | 克蕾爾足【ＨＳ】・紫 |
+| 5876 | Claire GS Feet・Purple | 克蕾爾足【ＧＳ】・紫 |
+| 5877 | Claire GP Feet・Purple | 克蕾爾足【ＧＰ】・紫 |
+| 5878 | Claire FZ Boots・Purple | 克蕾爾靴【ＦＺ】・紫 |
+| 5879 | Claire HS Boots・Purple | 克蕾爾靴【ＨＳ】・紫 |
+| 5880 | Claire GS Boots・Purple | 克蕾爾靴【ＧＳ】・紫 |
+| 5881 | Claire GP Boots・Purple | 克蕾爾靴【ＧＰ】・紫 |
+| 5882 | Claire FZ Feet・Water | 克蕾爾足【ＦＺ】・水 |
+| 5883 | Claire HS Feet・Water | 克蕾爾足【ＨＳ】・水 |
+| 5884 | Claire GS Feet・Water | 克蕾爾足【ＧＳ】・水 |
+| 5885 | Claire GP Feet・Water | 克蕾爾足【ＧＰ】・水 |
+| 5886 | Claire FZ Boots・Water | 克蕾爾靴【ＦＺ】・水 |
+| 5887 | Claire HS Boots・Water | 克蕾爾靴【ＨＳ】・水 |
+| 5888 | Claire GS Boots・Water | 克蕾爾靴【ＧＳ】・水 |
+| 5889 | Claire GP Boots・Water | 克蕾爾靴【ＧＰ】・水 |
+| 5890 | Claire FZ Feet・Red | 克蕾爾足【ＦＺ】・赤 |
+| 5891 | Claire HS Feet・Red | 克蕾爾足【ＨＳ】・赤 |
+| 5892 | Claire GS Feet・Red | 克蕾爾足【ＧＳ】・赤 |
+| 5893 | Claire GP Feet・Red | 克蕾爾足【ＧＰ】・赤 |
+| 5894 | Claire FZ Boots・Red | 克蕾爾靴【ＦＺ】・赤 |
+| 5895 | Claire HS Boots・Red | 克蕾爾靴【ＨＳ】・赤 |
+| 5896 | Claire GS Boots・Red | 克蕾爾靴【ＧＳ】・赤 |
+| 5897 | Claire GP Boots・Red | 克蕾爾靴【ＧＰ】・赤 |
+| 5898 | Claire FZ Feet・Black | 克蕾爾足【ＦＺ】・黑 |
+| 5899 | Claire HS Feet・Black | 克蕾爾足【ＨＳ】・黑 |
+| 5900 | Claire GS Feet・Black | 克蕾爾足【ＧＳ】・黑 |
+| 5901 | Claire GP Feet・Black | 克蕾爾足【ＧＰ】・黑 |
+| 5902 | Claire FZ Boots・Black | 克蕾爾靴【ＦＺ】・黑 |
+| 5903 | Claire HS Boots・Black | 克蕾爾靴【ＨＳ】・黑 |
+| 5904 | Claire GS Boots・Black | 克蕾爾靴【ＧＳ】・黑 |
+| 5905 | Claire GP Boots・Black | 克蕾爾靴【ＧＰ】・黑 |
 | 5906 | Text HS Feet・Purple | 文書足【ＨＳ】・紫 |
 | 5907 | Text GS Feet・Purple | 文書足【ＧＳ】・紫 |
 | 5908 | Text GP Feet・Purple | 文書足【ＧＰ】・紫 |

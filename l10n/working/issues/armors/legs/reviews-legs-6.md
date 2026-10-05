@@ -81,10 +81,10 @@
 | 2575 | Riot FZ Leggings | 暴動裹腿【ＦＺ】 |
 | 2576 | Rutare FZ Greaves | 魯塔雷護腿【ＦＺ】 |
 | 2577 | Rutare FZ Leggings | 魯塔雷裹腿【ＦＺ】 |
-| 2578 | Rolling Flow Greaves・Elegant | 爾歐爾伊護腿 |
+| 2578 | Rolling Flow Greaves・Elegant | 滾流護腿 |
 | 2579 | 旋転の Greaves・Elegant | 旋転の護腿 |
-| 2580 | Rolling Sky Greaves・Elegant | 爾歐爾伊護腿 |
-| 2581 | Rolling Earth Greaves・Elegant | 爾歐爾伊護腿・地 |
+| 2580 | Rolling Sky Greaves・Elegant | 滾天護腿・天 |
+| 2581 | Rolling Earth Greaves・Elegant | 滾地護腿 |
 | 2582 | Odiva Greaves | 奧蒂瓦護腿 |
 | 2583 | Odiva F Greaves | 奧蒂瓦護腿【Ｆ】 |
 | 2584 | Odiva FX Greaves | 奧蒂瓦護腿【ＦＸ】 |

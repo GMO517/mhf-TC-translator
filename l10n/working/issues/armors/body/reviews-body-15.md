@@ -54,24 +54,24 @@
 | 7048 | Green 穹・奏帝G Mail | 穹奏帝鎧甲・緑 |
 | 7049 | Green 穹・奏帝GF Mail | 穹奏帝鎧甲【Ｆ】・緑 |
 | 7050 | Green 穹・奏帝GX Mail | 穹奏帝鎧甲・緑 |
-| 7051 | White 蘭・Heaven 槍 Mail | 蘭槍鎧甲・白・天 |
-| 7052 | White 蘭・Heaven 槍F Mail | 蘭槍鎧甲【Ｆ】・白・天 |
-| 7053 | White 蘭・Heaven 槍FX Mail | 蘭槍鎧甲【ＦＸ】・白・天 |
-| 7054 | Crimson 霞・Heaven 槍 Mail | 霞槍鎧甲・紅・天 |
-| 7055 | Crimson 霞・Heaven 槍F Mail | 霞槍鎧甲【Ｆ】・紅・天 |
-| 7056 | Crimson 霞・Heaven 槍FX Mail | 霞槍鎧甲【ＦＸ】・紅・天 |
-| 7057 | White 蘭・Heaven 槍G Mail | 蘭槍鎧甲【Ｇ】・白・天 |
-| 7058 | White 蘭・Heaven 槍GF Mail | 蘭槍鎧甲【Ｆ】・白・天 |
-| 7059 | White 蘭・Heaven 槍GX Mail | 蘭槍鎧甲【ＧＸ】・白・天 |
+| 7051 | White 蘭・Heaven 槍 Mail | 蘭槍天鎧甲・白 |
+| 7052 | White 蘭・Heaven 槍F Mail | 蘭槍天鎧甲【Ｆ】・白 |
+| 7053 | White 蘭・Heaven 槍FX Mail | 蘭槍天鎧甲【ＦＸ】・白 |
+| 7054 | Crimson 霞・Heaven 槍 Mail | 霞槍天鎧甲・紅 |
+| 7055 | Crimson 霞・Heaven 槍F Mail | 霞槍天鎧甲【Ｆ】・紅 |
+| 7056 | Crimson 霞・Heaven 槍FX Mail | 霞槍天鎧甲【ＦＸ】・紅 |
+| 7057 | White 蘭・Heaven 槍G Mail | 蘭槍天鎧甲【Ｇ】・白 |
+| 7058 | White 蘭・Heaven 槍GF Mail | 蘭槍天鎧甲【Ｆ】・白 |
+| 7059 | White 蘭・Heaven 槍GX Mail | 蘭槍天鎧甲【ＧＸ】・白 |
 | 7060 | 月夜・Heaven 槍G Mail | 月夜槍鎧甲・天 |
-| 7061 | 月夜・Heaven 槍GF Mail | 月夜槍鎧甲【Ｆ】・天 |
+| 7061 | 月夜・Heaven 槍GF Mail | 月夜槍天鎧甲【Ｆ】 |
 | 7062 | 月夜・Heaven 槍GX Mail | 月夜槍鎧甲・天 |
-| 7063 | Crimson 霞・Heaven 槍G Mail | 霞槍鎧甲【Ｇ】・紅・天 |
-| 7064 | Crimson 霞・Heaven 槍GF Mail | 霞槍鎧甲【Ｆ】・紅・天 |
-| 7065 | Crimson 霞・Heaven 槍GX Mail | 霞槍鎧甲【ＧＸ】・紅・天 |
-| 7066 | Green 穹・Heaven 槍G Mail | 穹槍鎧甲・緑・天 |
-| 7067 | Green 穹・Heaven 槍GF Mail | 穹槍鎧甲【Ｆ】・緑・天 |
-| 7068 | Green 穹・Heaven 槍GX Mail | 穹槍鎧甲・緑・天 |
+| 7063 | Crimson 霞・Heaven 槍G Mail | 霞槍天鎧甲【Ｇ】・紅 |
+| 7064 | Crimson 霞・Heaven 槍GF Mail | 霞槍天鎧甲【Ｆ】・紅 |
+| 7065 | Crimson 霞・Heaven 槍GX Mail | 霞槍天鎧甲【ＧＸ】・紅 |
+| 7066 | Green 穹・Heaven 槍G Mail | 穹槍鎧甲緑・天 |
+| 7067 | Green 穹・Heaven 槍GF Mail | 穹槍天鎧甲【Ｆ】・緑 |
+| 7068 | Green 穹・Heaven 槍GX Mail | 穹槍鎧甲緑・天 |
 | 7069 | White 蘭・砲皇 Mail | 蘭砲皇鎧甲・白 |
 | 7070 | White 蘭・砲皇F Mail | 蘭砲皇鎧甲【Ｆ】・白 |
 | 7071 | White 蘭・砲皇FX Mail | 蘭砲皇鎧甲【ＦＸ】・白 |
@@ -330,54 +330,54 @@
 | 7324 | Oyun HS Vest・White | 歐雲背心【ＨＳ】・白 |
 | 7325 | Oyun GS Vest・White | 歐雲背心【ＧＳ】・白 |
 | 7326 | Oyun GP Vest・White | 歐雲背心【ＧＰ】・白 |
-| 7327 | Ash Vest・Red | 背心・灰・赤 |
-| 7328 | Ash F Vest・Red | 背心【Ｆ】・灰・赤 |
-| 7329 | Ash FZ Vest・Red | 背心【ＦＺ】・灰・赤 |
-| 7330 | Ash HS Vest・Red | 背心【ＨＳ】・灰・赤 |
-| 7331 | Ash GS Vest・Red | 背心【ＧＳ】・灰・赤 |
-| 7332 | Ash GP Vest・Red | 背心【ＧＰ】・灰・赤 |
-| 7333 | Ash Suit・Red | 套裝・灰・赤 |
-| 7334 | Ash F Suit・Red | 套裝【Ｆ】・灰・赤 |
-| 7335 | Ash FZ Suit・Red | 套裝【ＦＺ】・灰・赤 |
-| 7336 | Ash HS Suit・Red | 套裝【ＨＳ】・灰・赤 |
-| 7337 | Ash GS Suit・Red | 套裝【ＧＳ】・灰・赤 |
-| 7338 | Ash GP Suit・Red | 套裝【ＧＰ】・灰・赤 |
-| 7339 | Ash Vest・Blue | 背心・灰・青 |
-| 7340 | Ash F Vest・Blue | 背心【Ｆ】・灰・青 |
-| 7341 | Ash FZ Vest・Blue | 背心【ＦＺ】・灰・青 |
-| 7342 | Ash HS Vest・Blue | 背心【ＨＳ】・灰・青 |
-| 7343 | Ash GS Vest・Blue | 背心【ＧＳ】・灰・青 |
-| 7344 | Ash GP Vest・Blue | 背心【ＧＰ】・灰・青 |
-| 7345 | Ash Suit・Blue | 套裝・灰・青 |
-| 7346 | Ash F Suit・Blue | 套裝【Ｆ】・灰・青 |
-| 7347 | Ash FZ Suit・Blue | 套裝【ＦＺ】・灰・青 |
-| 7348 | Ash HS Suit・Blue | 套裝【ＨＳ】・灰・青 |
-| 7349 | Ash GS Suit・Blue | 套裝【ＧＳ】・灰・青 |
-| 7350 | Ash GP Suit・Blue | 套裝【ＧＰ】・灰・青 |
-| 7351 | Ash Vest・White | 背心・灰・白 |
-| 7352 | Ash F Vest・White | 背心【Ｆ】・灰・白 |
-| 7353 | Ash FZ Vest・White | 背心【ＦＺ】・灰・白 |
-| 7354 | Ash HS Vest・White | 背心【ＨＳ】・灰・白 |
-| 7355 | Ash GS Vest・White | 背心【ＧＳ】・灰・白 |
-| 7356 | Ash GP Vest・White | 背心【ＧＰ】・灰・白 |
-| 7357 | Ash Suit・White | 套裝・灰・白 |
-| 7358 | Ash F Suit・White | 套裝【Ｆ】・灰・白 |
-| 7359 | Ash FZ Suit・White | 套裝【ＦＺ】・灰・白 |
-| 7360 | Ash HS Suit・White | 套裝【ＨＳ】・灰・白 |
-| 7361 | Ash GS Suit・White | 套裝【ＧＳ】・灰・白 |
-| 7362 | Ash GP Suit・White | 套裝【ＧＰ】・灰・白 |
-| 7363 | Ash Vest・Black | 背心・灰・黑 |
-| 7364 | Ash F Vest・Black | 背心【Ｆ】・灰・黑 |
-| 7365 | Ash FZ Vest・Black | 背心【ＦＺ】・灰・黑 |
-| 7366 | Ash HS Vest・Black | 背心【ＨＳ】・灰・黑 |
-| 7367 | Ash GS Vest・Black | 背心【ＧＳ】・灰・黑 |
-| 7368 | Ash GP Vest・Black | 背心【ＧＰ】・灰・黑 |
-| 7369 | Ash Suit・Black | 套裝・灰・黑 |
-| 7370 | Ash F Suit・Black | 套裝【Ｆ】・灰・黑 |
-| 7371 | Ash FZ Suit・Black | 套裝【ＦＺ】・灰・黑 |
-| 7372 | Ash HS Suit・Black | 套裝【ＨＳ】・灰・黑 |
-| 7373 | Ash GS Suit・Black | 套裝【ＧＳ】・灰・黑 |
-| 7374 | Ash GP Suit・Black | 套裝【ＧＰ】・灰・黑 |
+| 7327 | Ash Vest・Red | 背心灰・赤 |
+| 7328 | Ash F Vest・Red | 背心【Ｆ】灰・赤 |
+| 7329 | Ash FZ Vest・Red | 背心【ＦＺ】灰・赤 |
+| 7330 | Ash HS Vest・Red | 背心【ＨＳ】灰・赤 |
+| 7331 | Ash GS Vest・Red | 背心【ＧＳ】灰・赤 |
+| 7332 | Ash GP Vest・Red | 背心【ＧＰ】灰・赤 |
+| 7333 | Ash Suit・Red | 套裝灰・赤 |
+| 7334 | Ash F Suit・Red | 套裝【Ｆ】灰・赤 |
+| 7335 | Ash FZ Suit・Red | 套裝【ＦＺ】灰・赤 |
+| 7336 | Ash HS Suit・Red | 套裝【ＨＳ】灰・赤 |
+| 7337 | Ash GS Suit・Red | 套裝【ＧＳ】灰・赤 |
+| 7338 | Ash GP Suit・Red | 套裝【ＧＰ】灰・赤 |
+| 7339 | Ash Vest・Blue | 背心灰・青 |
+| 7340 | Ash F Vest・Blue | 背心【Ｆ】灰・青 |
+| 7341 | Ash FZ Vest・Blue | 背心【ＦＺ】灰・青 |
+| 7342 | Ash HS Vest・Blue | 背心【ＨＳ】灰・青 |
+| 7343 | Ash GS Vest・Blue | 背心【ＧＳ】灰・青 |
+| 7344 | Ash GP Vest・Blue | 背心【ＧＰ】灰・青 |
+| 7345 | Ash Suit・Blue | 套裝灰・青 |
+| 7346 | Ash F Suit・Blue | 套裝【Ｆ】灰・青 |
+| 7347 | Ash FZ Suit・Blue | 套裝【ＦＺ】灰・青 |
+| 7348 | Ash HS Suit・Blue | 套裝【ＨＳ】灰・青 |
+| 7349 | Ash GS Suit・Blue | 套裝【ＧＳ】灰・青 |
+| 7350 | Ash GP Suit・Blue | 套裝【ＧＰ】灰・青 |
+| 7351 | Ash Vest・White | 背心灰・白 |
+| 7352 | Ash F Vest・White | 背心【Ｆ】灰・白 |
+| 7353 | Ash FZ Vest・White | 背心【ＦＺ】灰・白 |
+| 7354 | Ash HS Vest・White | 背心【ＨＳ】灰・白 |
+| 7355 | Ash GS Vest・White | 背心【ＧＳ】灰・白 |
+| 7356 | Ash GP Vest・White | 背心【ＧＰ】灰・白 |
+| 7357 | Ash Suit・White | 套裝灰・白 |
+| 7358 | Ash F Suit・White | 套裝【Ｆ】灰・白 |
+| 7359 | Ash FZ Suit・White | 套裝【ＦＺ】灰・白 |
+| 7360 | Ash HS Suit・White | 套裝【ＨＳ】灰・白 |
+| 7361 | Ash GS Suit・White | 套裝【ＧＳ】灰・白 |
+| 7362 | Ash GP Suit・White | 套裝【ＧＰ】灰・白 |
+| 7363 | Ash Vest・Black | 背心灰・黑 |
+| 7364 | Ash F Vest・Black | 背心【Ｆ】灰・黑 |
+| 7365 | Ash FZ Vest・Black | 背心【ＦＺ】灰・黑 |
+| 7366 | Ash HS Vest・Black | 背心【ＨＳ】灰・黑 |
+| 7367 | Ash GS Vest・Black | 背心【ＧＳ】灰・黑 |
+| 7368 | Ash GP Vest・Black | 背心【ＧＰ】灰・黑 |
+| 7369 | Ash Suit・Black | 套裝灰・黑 |
+| 7370 | Ash F Suit・Black | 套裝【Ｆ】灰・黑 |
+| 7371 | Ash FZ Suit・Black | 套裝【ＦＺ】灰・黑 |
+| 7372 | Ash HS Suit・Black | 套裝【ＨＳ】灰・黑 |
+| 7373 | Ash GS Suit・Black | 套裝【ＧＳ】灰・黑 |
+| 7374 | Ash GP Suit・Black | 套裝【ＧＰ】灰・黑 |
 | 7375 | Pistis GP Vest | 普伊斯伊背心【ＧＰ】 |
 | 7376 | Pistis GP Suit | 普伊斯伊套裝【ＧＰ】 |
 | 7377 | Blink HS Suit | 布伊恩套裝【ＨＳ】 |

@@ -4,8 +4,8 @@
 
 | index | 原文 | 譯文 |
 |---|---|---|
-| 4001 | Pics HS Coat・Water | 皮克斯水腰衣【ＨＳ】 |
-| 4002 | Pics GS Coat・Water | 皮克斯水腰衣【ＧＳ】 |
+| 4001 | Pics HS Coat・Water | 皮克斯腰衣【ＨＳ】・水 |
+| 4002 | Pics GS Coat・Water | 皮克斯腰衣【ＧＳ】・水 |
 | 4003 | Bright Faulds | 輝腰甲 |
 | 4004 | Bright F Faulds | 輝腰甲【Ｆ】 |
 | 4005 | Bright FZ Faulds | 輝腰甲【ＦＺ】 |
@@ -78,8 +78,8 @@
 | 4072 | Suriito GS Coil・Yellow | 斯里托腰甲【ＧＳ】・黄 |
 | 4073 | Suriito HS Coat・Yellow | 斯里托腰衣【ＨＳ】・黄 |
 | 4074 | Suriito GS Coat・Yellow | 斯里托腰衣【ＧＳ】・黄 |
-| 4075 | Steno HS Elytra ー・Orange | 水竜翅腰【ＨＳ】 |
-| 4076 | Steno GS Elytra ー・Orange | 水竜翅腰【ＧＳ】 |
+| 4075 | Steno HS Elytra ー・Orange | 水竜翅腰【ＨＳ】・橙 |
+| 4076 | Steno GS Elytra ー・Orange | 水竜翅腰【ＧＳ】・橙 |
 | 4077 | Steno HS Coat・Orange | 水竜腰衣【ＨＳ】・橙 |
 | 4078 | Steno GS Coat・Orange | 水竜腰衣【ＧＳ】・橙 |
 | 4079 | Edio HC Coil・Blue | 電竜腰甲【ＨＣ】・青 |
@@ -243,16 +243,16 @@
 | 4237 | Suriito GS Coil・Blue | 斯里托腰甲【ＧＳ】・青 |
 | 4238 | Suriito HS Coat・Blue | 斯里托腰衣【ＨＳ】・青 |
 | 4239 | Suriito GS Coat・Blue | 斯里托腰衣【ＧＳ】・青 |
-| 4240 | Steno HS Elytra ー・Peach | 水竜翅腰【ＨＳ】 |
-| 4241 | Steno GS Elytra ー・Peach | 水竜翅腰【ＧＳ】 |
+| 4240 | Steno HS Elytra ー・Peach | 水竜翅腰【ＨＳ】・桃 |
+| 4241 | Steno GS Elytra ー・Peach | 水竜翅腰【ＧＳ】・桃 |
 | 4242 | Steno HS Coat・Peach | 水竜腰衣【ＨＳ】・桃 |
 | 4243 | Steno GS Coat・Peach | 水竜腰衣【ＧＳ】・桃 |
-| 4244 | Steno HS Elytra ー・Blue | 水竜翅腰【ＨＳ】 |
-| 4245 | Steno GS Elytra ー・Blue | 水竜翅腰【ＧＳ】 |
+| 4244 | Steno HS Elytra ー・Blue | 水竜翅腰【ＨＳ】・青 |
+| 4245 | Steno GS Elytra ー・Blue | 水竜翅腰【ＧＳ】・青 |
 | 4246 | Steno HS Coat・Blue | 水竜腰衣【ＨＳ】・青 |
 | 4247 | Steno GS Coat・Blue | 水竜腰衣【ＧＳ】・青 |
-| 4248 | Steno HS Elytra ー・Red | 水竜翅腰【ＨＳ】 |
-| 4249 | Steno GS Elytra ー・Red | 水竜翅腰【ＧＳ】 |
+| 4248 | Steno HS Elytra ー・Red | 水竜翅腰【ＨＳ】・赤 |
+| 4249 | Steno GS Elytra ー・Red | 水竜翅腰【ＧＳ】・赤 |
 | 4250 | Steno HS Coat・Red | 水竜腰衣【ＨＳ】・赤 |
 | 4251 | Steno GS Coat・Red | 水竜腰衣【ＧＳ】・赤 |
 | 4252 | Edio HC Coil・Red | 電竜腰甲【ＨＣ】・赤 |
@@ -285,12 +285,12 @@
 | 4279 | Galitos HC Coat・Black | 加里托斯腰衣【ＨＣ】・黑 |
 | 4280 | Galitos HS Coat・Black | 加里托斯腰衣【ＨＳ】・黑 |
 | 4281 | Galitos GS Coat・Black | 加里托斯腰衣【ＧＳ】・黑 |
-| 4282 | Galitos HC Belt・Water | 加里托斯水腰帶【ＨＣ】 |
-| 4283 | Galitos HS Belt・Water | 加里托斯水腰帶【ＨＳ】 |
-| 4284 | Galitos GS Belt・Water | 加里托斯水腰帶【ＧＳ】 |
-| 4285 | Galitos HC Coat・Water | 加里托斯水腰衣【ＨＣ】 |
-| 4286 | Galitos HS Coat・Water | 加里托斯水腰衣【ＨＳ】 |
-| 4287 | Galitos GS Coat・Water | 加里托斯水腰衣【ＧＳ】 |
+| 4282 | Galitos HC Belt・Water | 加里托斯腰帶【ＨＣ】・水 |
+| 4283 | Galitos HS Belt・Water | 加里托斯腰帶【ＨＳ】・水 |
+| 4284 | Galitos GS Belt・Water | 加里托斯腰帶【ＧＳ】・水 |
+| 4285 | Galitos HC Coat・Water | 加里托斯腰衣【ＨＣ】・水 |
+| 4286 | Galitos HS Coat・Water | 加里托斯腰衣【ＨＳ】・水 |
+| 4287 | Galitos GS Coat・Water | 加里托斯腰衣【ＧＳ】・水 |
 | 4288 | Star Festival FZ Obi 【 Blue 】 | 星祭帶【ＦＺ】・青 |
 | 4289 | Star Festival HC Obi 【 Blue 】 | 星祭帶【ＨＣ】・青 |
 | 4290 | Star Festival HS Obi 【 Blue 】 | 星祭帶【ＨＳ】・青 |
@@ -379,12 +379,12 @@
 | 4373 | Beru G Coat | 舞雷龍腰衣【Ｇ】 |
 | 4374 | Beru GF Coat | 舞雷龍腰衣【ＧＦ】 |
 | 4375 | Beru GX Coat | 舞雷龍腰衣【ＧＸ】 |
-| 4376 | Black Gravios G Faulds | 鎧龍腰甲【Ｇ】・黑 |
-| 4377 | Black Gravios GF Faulds | 鎧龍腰甲【ＧＦ】・黑 |
-| 4378 | Black Gravios GX Faulds | 鎧龍腰甲【ＧＸ】・黑 |
-| 4379 | Black Gravios G Coat | 鎧龍腰衣【Ｇ】・黑 |
-| 4380 | Black Gravios GF Coat | 鎧龍腰衣【ＧＦ】・黑 |
-| 4381 | Black Gravios GX Coat | 鎧龍腰衣【ＧＸ】・黑 |
+| 4376 | Black Gravios G Faulds | 黑鎧龍腰甲【Ｇ】 |
+| 4377 | Black Gravios GF Faulds | 黑鎧龍腰甲【ＧＦ】 |
+| 4378 | Black Gravios GX Faulds | 黑鎧龍腰甲【ＧＸ】 |
+| 4379 | Black Gravios G Coat | 黑鎧龍腰衣【Ｇ】 |
+| 4380 | Black Gravios GF Coat | 黑鎧龍腰衣【ＧＦ】 |
+| 4381 | Black Gravios GX Coat | 黑鎧龍腰衣【ＧＸ】 |
 | 4382 | Lune G Coil | 月腰甲【Ｇ】 |
 | 4383 | Lune GF Coil | 月腰甲【ＧＦ】 |
 | 4384 | Lune GX Coil | 月腰甲【ＧＸ】 |

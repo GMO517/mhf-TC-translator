@@ -105,42 +105,42 @@
 | 10099 | Wasou Vambraces HS | 和裝臂甲【ＨＳ】 |
 | 10100 | Wasou Vambraces GS | 和裝臂甲【ＧＳ】 |
 | 10101 | Wasou Vambraces GP | 和裝臂甲【ＧＰ】 |
-| 10102 | Blue Ice Emperor Arms | 冰帝護腕・青 |
-| 10103 | Blue Ice Emperor F Arms | 冰帝護腕【Ｆ】・青 |
-| 10104 | Blue Ice Emperor FZ Arms | 冰帝護腕【ＦＺ】・青 |
-| 10105 | Blue Ice Emperor HS Arms | 冰帝護腕【ＨＳ】・青 |
-| 10106 | Blue Ice Emperor GS Arms | 冰帝護腕【ＧＳ】・青 |
-| 10107 | Blue Ice Emperor GP Arms | 冰帝護腕【ＧＰ】・青 |
-| 10108 | Blue Ice Emperor Guard | 冰帝臂甲・青 |
-| 10109 | Blue Ice Emperor F Guard | 冰帝臂甲【Ｆ】・青 |
-| 10110 | Blue Ice Emperor FZ Guard | 冰帝臂甲【ＦＺ】・青 |
-| 10111 | Blue Ice Emperor HS Guard | 冰帝臂甲【ＨＳ】・青 |
-| 10112 | Blue Ice Emperor GS Guard | 冰帝臂甲【ＧＳ】・青 |
-| 10113 | Blue Ice Emperor GP Guard | 冰帝臂甲【ＧＰ】・青 |
-| 10114 | White Ice Emperor Arms | 冰帝護腕・白 |
-| 10115 | White Ice Emperor F Arms | 冰帝護腕【Ｆ】・白 |
-| 10116 | White Ice Emperor FZ Arms | 冰帝護腕【ＦＺ】・白 |
-| 10117 | White Ice Emperor HS Arms | 冰帝護腕【ＨＳ】・白 |
-| 10118 | White Ice Emperor GS Arms | 冰帝護腕【ＧＳ】・白 |
-| 10119 | White Ice Emperor GP Arms | 冰帝護腕【ＧＰ】・白 |
-| 10120 | White Ice Emperor Guard | 冰帝臂甲・白 |
-| 10121 | White Ice Emperor F Guard | 冰帝臂甲【Ｆ】・白 |
-| 10122 | White Ice Emperor FZ Guard | 冰帝臂甲【ＦＺ】・白 |
-| 10123 | White Ice Emperor HS Guard | 冰帝臂甲【ＨＳ】・白 |
-| 10124 | White Ice Emperor GS Guard | 冰帝臂甲【ＧＳ】・白 |
-| 10125 | White Ice Emperor GP Guard | 冰帝臂甲【ＧＰ】・白 |
-| 10126 | Red Ice Emperor Arms | 冰帝護腕・赤 |
-| 10127 | Red Ice Emperor F Arms | 冰帝護腕【Ｆ】・赤 |
-| 10128 | Red Ice Emperor FZ Arms | 冰帝護腕【ＦＺ】・赤 |
-| 10129 | Red Ice Emperor HS Arms | 冰帝護腕【ＨＳ】・赤 |
-| 10130 | Red Ice Emperor GS Arms | 冰帝護腕【ＧＳ】・赤 |
-| 10131 | Red Ice Emperor GP Arms | 冰帝護腕【ＧＰ】・赤 |
-| 10132 | Red Ice Emperor Guard | 冰帝臂甲・赤 |
-| 10133 | Red Ice Emperor F Guard | 冰帝臂甲【Ｆ】・赤 |
-| 10134 | Red Ice Emperor FZ Guard | 冰帝臂甲【ＦＺ】・赤 |
-| 10135 | Red Ice Emperor HS Guard | 冰帝臂甲【ＨＳ】・赤 |
-| 10136 | Red Ice Emperor GS Guard | 冰帝臂甲【ＧＳ】・赤 |
-| 10137 | Red Ice Emperor GP Guard | 冰帝臂甲【ＧＰ】・赤 |
+| 10102 | Blue Ice Emperor Arms | 青冰帝護腕 |
+| 10103 | Blue Ice Emperor F Arms | 青冰帝護腕【Ｆ】 |
+| 10104 | Blue Ice Emperor FZ Arms | 青冰帝護腕【ＦＺ】 |
+| 10105 | Blue Ice Emperor HS Arms | 青冰帝護腕【ＨＳ】 |
+| 10106 | Blue Ice Emperor GS Arms | 青冰帝護腕【ＧＳ】 |
+| 10107 | Blue Ice Emperor GP Arms | 青冰帝護腕【ＧＰ】 |
+| 10108 | Blue Ice Emperor Guard | 青冰帝臂甲 |
+| 10109 | Blue Ice Emperor F Guard | 青冰帝臂甲【Ｆ】 |
+| 10110 | Blue Ice Emperor FZ Guard | 青冰帝臂甲【ＦＺ】 |
+| 10111 | Blue Ice Emperor HS Guard | 青冰帝臂甲【ＨＳ】 |
+| 10112 | Blue Ice Emperor GS Guard | 青冰帝臂甲【ＧＳ】 |
+| 10113 | Blue Ice Emperor GP Guard | 青冰帝臂甲【ＧＰ】 |
+| 10114 | White Ice Emperor Arms | 白冰帝護腕 |
+| 10115 | White Ice Emperor F Arms | 白冰帝護腕【Ｆ】 |
+| 10116 | White Ice Emperor FZ Arms | 白冰帝護腕【ＦＺ】 |
+| 10117 | White Ice Emperor HS Arms | 白冰帝護腕【ＨＳ】 |
+| 10118 | White Ice Emperor GS Arms | 白冰帝護腕【ＧＳ】 |
+| 10119 | White Ice Emperor GP Arms | 白冰帝護腕【ＧＰ】 |
+| 10120 | White Ice Emperor Guard | 白冰帝臂甲 |
+| 10121 | White Ice Emperor F Guard | 白冰帝臂甲【Ｆ】 |
+| 10122 | White Ice Emperor FZ Guard | 白冰帝臂甲【ＦＺ】 |
+| 10123 | White Ice Emperor HS Guard | 白冰帝臂甲【ＨＳ】 |
+| 10124 | White Ice Emperor GS Guard | 白冰帝臂甲【ＧＳ】 |
+| 10125 | White Ice Emperor GP Guard | 白冰帝臂甲【ＧＰ】 |
+| 10126 | Red Ice Emperor Arms | 赤冰帝護腕 |
+| 10127 | Red Ice Emperor F Arms | 赤冰帝護腕【Ｆ】 |
+| 10128 | Red Ice Emperor FZ Arms | 赤冰帝護腕【ＦＺ】 |
+| 10129 | Red Ice Emperor HS Arms | 赤冰帝護腕【ＨＳ】 |
+| 10130 | Red Ice Emperor GS Arms | 赤冰帝護腕【ＧＳ】 |
+| 10131 | Red Ice Emperor GP Arms | 赤冰帝護腕【ＧＰ】 |
+| 10132 | Red Ice Emperor Guard | 赤冰帝臂甲 |
+| 10133 | Red Ice Emperor F Guard | 赤冰帝臂甲【Ｆ】 |
+| 10134 | Red Ice Emperor FZ Guard | 赤冰帝臂甲【ＦＺ】 |
+| 10135 | Red Ice Emperor HS Guard | 赤冰帝臂甲【ＨＳ】 |
+| 10136 | Red Ice Emperor GS Guard | 赤冰帝臂甲【ＧＳ】 |
+| 10137 | Red Ice Emperor GP Guard | 赤冰帝臂甲【ＧＰ】 |
 | 10138 | Taruta Arms | 特阿爾烏護腕 |
 | 10139 | Taruta F Arms | 特阿爾烏護腕【Ｆ】 |
 | 10140 | Taruta FZ Arms | 特阿爾烏護腕【ＦＺ】 |
@@ -438,12 +438,12 @@
 | 10432 | Evol D Arms・Purple | 艾芙歐爾護腕・紫 |
 | 10433 | 狩衛部隊 Arms・男 | 狩衛部隊男護腕 |
 | 10434 | 狩衛部隊 Arms・女 | 狩衛部隊女護腕 |
-| 10435 | Blue Ice Emperor ZP Arms | 冰帝護腕【ＺＰ】・青 |
-| 10436 | Blue Ice Emperor ZP Guard | 冰帝臂甲【ＺＰ】・青 |
-| 10437 | White Ice Emperor ZP Arms | 冰帝護腕【ＺＰ】・白 |
-| 10438 | White Ice Emperor ZP Guard | 冰帝臂甲【ＺＰ】・白 |
-| 10439 | Red Ice Emperor ZP Arms | 冰帝護腕【ＺＰ】・赤 |
-| 10440 | Red Ice Emperor ZP Guard | 冰帝臂甲【ＺＰ】・赤 |
+| 10435 | Blue Ice Emperor ZP Arms | 青冰帝護腕【ＺＰ】 |
+| 10436 | Blue Ice Emperor ZP Guard | 青冰帝臂甲【ＺＰ】 |
+| 10437 | White Ice Emperor ZP Arms | 白冰帝護腕【ＺＰ】 |
+| 10438 | White Ice Emperor ZP Guard | 白冰帝臂甲【ＺＰ】 |
+| 10439 | Red Ice Emperor ZP Arms | 赤冰帝護腕【ＺＰ】 |
+| 10440 | Red Ice Emperor ZP Guard | 赤冰帝臂甲【ＺＰ】 |
 | 10441 | Wander Arms・Blue | 流浪護腕・青 |
 | 10442 | Wander F Arms・Blue | 流浪護腕【Ｆ】・青 |
 | 10443 | Wander FZ Arms・Blue | 流浪護腕【ＦＺ】・青 |

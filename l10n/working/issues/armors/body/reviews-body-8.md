@@ -77,7 +77,7 @@
 | 3571 | Rathian GX Vest | 雌火龍背心【ＧＸ】 |
 | 3572 | Ceanataur GX Mail | 鎌蟹鎧甲【ＧＸ】 |
 | 3573 | Ceanataur GX Vest | 鎌蟹背心【ＧＸ】 |
-| 3574 | Mikagura GX【胴当て】 | 御神樂鎧甲【ＧＸ】 |
+| 3574 | Mikagura GX【胴当て】 | 御神樂胴當【ＧＸ】 |
 | 3575 | Satokagura GX [Chestplate 】 | 里神樂胸甲【ＧＸ】 |
 | 3576 | Rathalos GX Mail | 雄火龍鎧甲【ＧＸ】 |
 | 3577 | Rathalos GX Vest | 雄火龍背心【ＧＸ】 |
@@ -144,9 +144,9 @@
 | 3638 | Golden Haori・G | 金羽織【Ｇ】 |
 | 3639 | Golden Haori・GF | 金羽織【ＧＦ】 |
 | 3640 | Golden Haori・GX | 金羽織【ＧＸ】 |
-| 3641 | Puppeteer ノ装束・G | 装束鎧甲【Ｇ】 |
-| 3642 | Puppeteer ノ装束・GF | 装束鎧甲【ＧＦ】 |
-| 3643 | Puppeteer ノ装束・GX | 装束鎧甲【ＧＸ】 |
+| 3641 | Puppeteer ノ装束・G | 操偶鎧甲【Ｇ】 |
+| 3642 | Puppeteer ノ装束・GF | 操偶鎧甲【ＧＦ】 |
+| 3643 | Puppeteer ノ装束・GX | 操偶鎧甲【ＧＸ】 |
 | 3644 | Rebidiora G Hide | 雷極龍皮衣【Ｇ】 |
 | 3645 | Rebidiora GF Hide | 雷極龍皮衣【ＧＦ】 |
 | 3646 | Rebidiora GX Hide | 雷極龍皮衣【ＧＸ】 |
@@ -171,9 +171,9 @@
 | 3665 | Guren G Vest | 紅蓮背心【Ｇ】 |
 | 3666 | Guren GF Vest | 紅蓮背心【ＧＦ】 |
 | 3667 | Guren GX Vest | 紅蓮背心【ＧＸ】 |
-| 3668 | Inari G【胴当て】 | 稻荷鎧甲【Ｇ】 |
-| 3669 | Inari GF【胴当て】 | 稻荷鎧甲【ＧＦ】 |
-| 3670 | Inari GX【胴当て】 | 稻荷鎧甲【ＧＸ】 |
+| 3668 | Inari G【胴当て】 | 稻荷胴當【Ｇ】 |
+| 3669 | Inari GF【胴当て】 | 稻荷胴當【ＧＦ】 |
+| 3670 | Inari GX【胴当て】 | 稻荷胴當【ＧＸ】 |
 | 3671 | Tamamo G [Chestplate 】 | 玉藻胸甲【Ｇ】 |
 | 3672 | Tamamo GF [Chestplate 】 | 玉藻胸甲【ＧＦ】 |
 | 3673 | Tamamo GX [Chestplate 】 | 玉藻胸甲【ＧＸ】 |
@@ -183,9 +183,9 @@
 | 3677 | Disu G Vest | 德伊斯烏背心【Ｇ】 |
 | 3678 | Disu GF Vest | 德伊斯烏背心【ＧＦ】 |
 | 3679 | Disu GX Vest | 德伊斯烏背心【ＧＸ】 |
-| 3680 | Shadow Shozoku・G | 暗影裝束【Ｇ】 |
-| 3681 | Shadow Shozoku・GF | 暗影裝束【ＧＦ】 |
-| 3682 | Shadow Shozoku・GX | 暗影裝束【ＧＸ】 |
+| 3680 | Shadow Shozoku・G | 影裝束【Ｇ】 |
+| 3681 | Shadow Shozoku・GF | 影裝束【ＧＦ】 |
+| 3682 | Shadow Shozoku・GX | 影裝束【ＧＸ】 |
 | 3683 | Shade Shozoku・G | 影裝束【Ｇ】 |
 | 3684 | Shade Shozoku・GF | 影裝束【ＧＦ】 |
 | 3685 | Shade Shozoku・GX | 影裝束【ＧＸ】 |
@@ -221,14 +221,14 @@
 | 3715 | Genbu・刀神GF Mail | 刀神鎧甲【Ｆ】 |
 | 3716 | Seiryu・刀神G Mail | 青龍鎧甲【Ｇ】 |
 | 3717 | Seiryu・刀神GF Mail | 刀神鎧甲【Ｆ】 |
-| 3718 | Byakko・Heaven 槍G Mail | 白虎鎧甲【Ｇ】・天 |
-| 3719 | Byakko・Heaven 槍GF Mail | 槍鎧甲【Ｆ】・天 |
-| 3720 | Suzaku・Heaven 槍G Mail | 朱雀鎧甲【Ｇ】・天 |
-| 3721 | Suzaku・Heaven 槍GF Mail | 槍鎧甲【Ｆ】・天 |
-| 3722 | Genbu・Heaven 槍G Mail | 玄武鎧甲【Ｇ】・天 |
-| 3723 | Genbu・Heaven 槍GF Mail | 槍鎧甲【Ｆ】・天 |
-| 3724 | Seiryu・Heaven 槍G Mail | 青龍鎧甲【Ｇ】・天 |
-| 3725 | Seiryu・Heaven 槍GF Mail | 槍鎧甲【Ｆ】・天 |
+| 3718 | Byakko・Heaven 槍G Mail | 白虎天鎧甲【Ｇ】 |
+| 3719 | Byakko・Heaven 槍GF Mail | 槍天鎧甲【Ｆ】 |
+| 3720 | Suzaku・Heaven 槍G Mail | 朱雀天鎧甲【Ｇ】 |
+| 3721 | Suzaku・Heaven 槍GF Mail | 槍天鎧甲【Ｆ】 |
+| 3722 | Genbu・Heaven 槍G Mail | 玄武天鎧甲【Ｇ】 |
+| 3723 | Genbu・Heaven 槍GF Mail | 槍天鎧甲【Ｆ】 |
+| 3724 | Seiryu・Heaven 槍G Mail | 青龍天鎧甲【Ｇ】 |
+| 3725 | Seiryu・Heaven 槍GF Mail | 槍天鎧甲【Ｆ】 |
 | 3726 | Byakko・砲皇G Mail | 白虎鎧甲【Ｇ】 |
 | 3727 | Byakko・砲皇GF Mail | 砲皇鎧甲【Ｆ】 |
 | 3728 | Suzaku・砲皇G Mail | 朱雀鎧甲【Ｇ】 |
@@ -270,13 +270,13 @@
 | 3764 | Seiryu・銃仙G Suit | 青龍套裝【Ｇ】 |
 | 3765 | Seiryu・銃仙GF Suit | 銃仙套裝【Ｆ】 |
 | 3766 | Byakko・Bow 鬼G Suit | 白虎套裝【Ｇ】 |
-| 3767 | Byakko・Bow 鬼GF Suit | 鬼套裝【Ｆ】 |
+| 3767 | Byakko・Bow 鬼GF Suit | 白虎套裝【Ｆ】 |
 | 3768 | Suzaku・Bow 鬼G Suit | 朱雀套裝【Ｇ】 |
-| 3769 | Suzaku・Bow 鬼GF Suit | 鬼套裝【Ｆ】 |
+| 3769 | Suzaku・Bow 鬼GF Suit | 朱雀套裝【Ｆ】 |
 | 3770 | Genbu・Bow 鬼G Suit | 玄武套裝【Ｇ】 |
-| 3771 | Genbu・Bow 鬼GF Suit | 鬼套裝【Ｆ】 |
+| 3771 | Genbu・Bow 鬼GF Suit | 玄武套裝【Ｆ】 |
 | 3772 | Seiryu・Bow 鬼G Suit | 青龍套裝【Ｇ】 |
-| 3773 | Seiryu・Bow 鬼GF Suit | 鬼套裝【Ｆ】 |
+| 3773 | Seiryu・Bow 鬼GF Suit | 青龍套裝【Ｆ】 |
 | 3774 | Odiva G Mail | 奧蒂瓦鎧甲【Ｇ】 |
 | 3775 | Odiva G Vest | 奧蒂瓦背心【Ｇ】 |
 | 3776 | Blitz G Vest | 布伊特背心【Ｇ】 |
@@ -285,8 +285,8 @@
 | 3779 | Flame G Vest | 炎背心【Ｇ】 |
 | 3780 | Wind G Diru | 風上衣【Ｇ】 |
 | 3781 | Wind Gバダル | 風鎧甲 |
-| 3782 | 武者G【胴当て】 | 胴当て武者鎧甲 |
-| 3783 | 日光G【胴当て】 | 胴当て日光鎧甲 |
+| 3782 | 武者G【胴当て】 | 武者胴當【Ｇ】 |
+| 3783 | 日光G【胴当て】 | 日光胴當【Ｇ】 |
 | 3784 | Wadatsumi G [Chestplate 】 | 綿津見胸甲【Ｇ】 |
 | 3785 | Okami G [Chestplate 】 | 狼胸甲【Ｇ】 |
 | 3786 | Lils G Mail | 爾伊爾鎧甲【Ｇ】 |
@@ -297,7 +297,7 @@
 | 3791 | エミットG Vest | 艾米托背心【Ｇ】 |
 | 3792 | Diboa G Mail | 迪博阿鎧甲【Ｇ】 |
 | 3793 | Diboa G Vest | 迪博阿背心【Ｇ】 |
-| 3794 | Demon Lord ノ胴当 | 惡魔鎧甲 |
+| 3794 | Demon Lord ノ胴当 | 魔王鎧甲 |
 | 3795 | 童子ノ胴当 | 童子胴当鎧甲 |
 | 3796 | レアー Mail | 雷阿鎧甲 |
 | 3797 | ハーデス Mail | 哈德斯鎧甲 |
@@ -347,18 +347,18 @@
 | 3841 | Pics HC Suit・Black | 皮克斯套裝【ＨＣ】・黑 |
 | 3842 | Pics HS Suit・Black | 皮克斯套裝【ＨＳ】・黑 |
 | 3843 | Pics GS Suit・Black | 皮克斯套裝【ＧＳ】・黑 |
-| 3844 | Pics Vest・Water | 皮克斯水背心 |
-| 3845 | Pics F Vest・Water | 皮克斯水背心【Ｆ】 |
-| 3846 | Pics FZ Vest・Water | 皮克斯水背心【ＦＺ】 |
-| 3847 | Pics HC Vest・Water | 皮克斯水背心【ＨＣ】 |
-| 3848 | Pics HS Vest・Water | 皮克斯水背心【ＨＳ】 |
-| 3849 | Pics GS Vest・Water | 皮克斯水背心【ＧＳ】 |
-| 3850 | Pics Suit・Water | 皮克斯水套裝 |
-| 3851 | Pics F Suit・Water | 皮克斯水套裝【Ｆ】 |
-| 3852 | Pics FZ Suit・Water | 皮克斯水套裝【ＦＺ】 |
-| 3853 | Pics HC Suit・Water | 皮克斯水套裝【ＨＣ】 |
-| 3854 | Pics HS Suit・Water | 皮克斯水套裝【ＨＳ】 |
-| 3855 | Pics GS Suit・Water | 皮克斯水套裝【ＧＳ】 |
+| 3844 | Pics Vest・Water | 皮克斯背心・水 |
+| 3845 | Pics F Vest・Water | 皮克斯背心【Ｆ】・水 |
+| 3846 | Pics FZ Vest・Water | 皮克斯背心【ＦＺ】・水 |
+| 3847 | Pics HC Vest・Water | 皮克斯背心【ＨＣ】・水 |
+| 3848 | Pics HS Vest・Water | 皮克斯背心【ＨＳ】・水 |
+| 3849 | Pics GS Vest・Water | 皮克斯背心【ＧＳ】・水 |
+| 3850 | Pics Suit・Water | 皮克斯套裝・水 |
+| 3851 | Pics F Suit・Water | 皮克斯套裝【Ｆ】・水 |
+| 3852 | Pics FZ Suit・Water | 皮克斯套裝【ＦＺ】・水 |
+| 3853 | Pics HC Suit・Water | 皮克斯套裝【ＨＣ】・水 |
+| 3854 | Pics HS Suit・Water | 皮克斯套裝【ＨＳ】・水 |
+| 3855 | Pics GS Suit・Water | 皮克斯套裝【ＧＳ】・水 |
 | 3856 | Bright Mail | 輝鎧甲 |
 | 3857 | Bright F Mail | 輝鎧甲【Ｆ】 |
 | 3858 | Bright FZ Mail | 輝鎧甲【ＦＺ】 |

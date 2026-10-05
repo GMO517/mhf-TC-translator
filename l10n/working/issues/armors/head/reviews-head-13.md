@@ -5,14 +5,14 @@
 | index | 原文 | 譯文 |
 |---|---|---|
 | 6001 | Akahara Reisou GN Head GP White | 赤原禮裝頭兜【ＧＰ】・白 |
-| 6002 | Knight King Hair BM GP Blue | 克伊格伊頭兜【ＧＰ】・青 |
-| 6003 | Knight King Hair GN GP Blue | 克伊格伊頭兜【ＧＰ】・青 |
-| 6004 | Knight King Hair BM GP Red | 克伊格伊頭兜【ＧＰ】・赤 |
-| 6005 | Knight King Hair GN GP Red | 克伊格伊頭兜【ＧＰ】・赤 |
-| 6006 | Knight King Hair BM GP Black | 克伊格伊頭兜【ＧＰ】・黑 |
-| 6007 | Knight King Hair GN GP Black | 克伊格伊頭兜【ＧＰ】・黑 |
-| 6008 | Knight King Hair BM GP White | 克伊格伊頭兜【ＧＰ】・白 |
-| 6009 | Knight King Hair GN GP White | 克伊格伊頭兜【ＧＰ】・白 |
+| 6002 | Knight King Hair BM GP Blue | 騎士王頭兜【ＧＰ】・青 |
+| 6003 | Knight King Hair GN GP Blue | 騎士王頭兜【ＧＰ】・青 |
+| 6004 | Knight King Hair BM GP Red | 騎士王頭兜【ＧＰ】・赤 |
+| 6005 | Knight King Hair GN GP Red | 騎士王頭兜【ＧＰ】・赤 |
+| 6006 | Knight King Hair BM GP Black | 騎士王頭兜【ＧＰ】・黑 |
+| 6007 | Knight King Hair GN GP Black | 騎士王頭兜【ＧＰ】・黑 |
+| 6008 | Knight King Hair BM GP White | 騎士王頭兜【ＧＰ】・白 |
+| 6009 | Knight King Hair GN GP White | 騎士王頭兜【ＧＰ】・白 |
 | 6010 | 蒼竜ノ具足GP【兜】 | 兜蒼竜具足頭兜 |
 | 6011 | 蒼竜ノ羽織GP【兜】 | 兜蒼竜羽織頭兜 |
 | 6012 | 赤備ノ具足GP【兜】 | 兜赤備具足頭兜 |
@@ -85,38 +85,38 @@
 | 6079 | Omet HS Mask・Blue | 歐梅特帽子【ＨＳ】・青 |
 | 6080 | Omet GS Mask・Blue | 歐梅特帽子【ＧＳ】・青 |
 | 6081 | Omet GP Mask・Blue | 歐梅特帽子【ＧＰ】・青 |
-| 6082 | Gold FZ Helm・Red | 頭兜【ＦＺ】・金・赤 |
-| 6083 | Gold HS Helm・Red | 頭兜【ＨＳ】・金・赤 |
-| 6084 | Gold GS Helm・Red | 頭兜【ＧＳ】・金・赤 |
-| 6085 | Gold GP Helm・Red | 頭兜【ＧＰ】・金・赤 |
-| 6086 | Gold FZ Helm・Blue | 頭兜【ＦＺ】・金・青 |
-| 6087 | Gold HS Helm・Blue | 頭兜【ＨＳ】・金・青 |
-| 6088 | Gold GS Helm・Blue | 頭兜【ＧＳ】・金・青 |
-| 6089 | Gold GP Helm・Blue | 頭兜【ＧＰ】・金・青 |
-| 6090 | Gold FZ Helm・Yellow | 頭兜【ＦＺ】・金・黄 |
-| 6091 | Gold HS Helm・Yellow | 頭兜【ＨＳ】・金・黄 |
-| 6092 | Gold GS Helm・Yellow | 頭兜【ＧＳ】・金・黄 |
-| 6093 | Gold GP Helm・Yellow | 頭兜【ＧＰ】・金・黄 |
-| 6094 | Gold FZ Helm・Purple | 頭兜【ＦＺ】・金・紫 |
-| 6095 | Gold HS Helm・Purple | 頭兜【ＨＳ】・金・紫 |
-| 6096 | Gold GS Helm・Purple | 頭兜【ＧＳ】・金・紫 |
-| 6097 | Gold GP Helm・Purple | 頭兜【ＧＰ】・金・紫 |
-| 6098 | Gold FZ Mask・Red | 帽子【ＦＺ】・金・赤 |
-| 6099 | Gold HS Mask・Red | 帽子【ＨＳ】・金・赤 |
-| 6100 | Gold GS Mask・Red | 帽子【ＧＳ】・金・赤 |
-| 6101 | Gold GP Mask・Red | 帽子【ＧＰ】・金・赤 |
-| 6102 | Gold FZ Mask・Blue | 帽子【ＦＺ】・金・青 |
-| 6103 | Gold HS Mask・Blue | 帽子【ＨＳ】・金・青 |
-| 6104 | Gold GS Mask・Blue | 帽子【ＧＳ】・金・青 |
-| 6105 | Gold GP Mask・Blue | 帽子【ＧＰ】・金・青 |
-| 6106 | Gold FZ Mask・Yellow | 帽子【ＦＺ】・金・黄 |
-| 6107 | Gold HS Mask・Yellow | 帽子【ＨＳ】・金・黄 |
-| 6108 | Gold GS Mask・Yellow | 帽子【ＧＳ】・金・黄 |
-| 6109 | Gold GP Mask・Yellow | 帽子【ＧＰ】・金・黄 |
-| 6110 | Gold FZ Mask・Purple | 帽子【ＦＺ】・金・紫 |
-| 6111 | Gold HS Mask・Purple | 帽子【ＨＳ】・金・紫 |
-| 6112 | Gold GS Mask・Purple | 帽子【ＧＳ】・金・紫 |
-| 6113 | Gold GP Mask・Purple | 帽子【ＧＰ】・金・紫 |
+| 6082 | Gold FZ Helm・Red | 金頭兜【ＦＺ】・赤 |
+| 6083 | Gold HS Helm・Red | 金頭兜【ＨＳ】・赤 |
+| 6084 | Gold GS Helm・Red | 金頭兜【ＧＳ】・赤 |
+| 6085 | Gold GP Helm・Red | 金頭兜【ＧＰ】・赤 |
+| 6086 | Gold FZ Helm・Blue | 金頭兜【ＦＺ】・青 |
+| 6087 | Gold HS Helm・Blue | 金頭兜【ＨＳ】・青 |
+| 6088 | Gold GS Helm・Blue | 金頭兜【ＧＳ】・青 |
+| 6089 | Gold GP Helm・Blue | 金頭兜【ＧＰ】・青 |
+| 6090 | Gold FZ Helm・Yellow | 金頭兜【ＦＺ】・黄 |
+| 6091 | Gold HS Helm・Yellow | 金頭兜【ＨＳ】・黄 |
+| 6092 | Gold GS Helm・Yellow | 金頭兜【ＧＳ】・黄 |
+| 6093 | Gold GP Helm・Yellow | 金頭兜【ＧＰ】・黄 |
+| 6094 | Gold FZ Helm・Purple | 金頭兜【ＦＺ】・紫 |
+| 6095 | Gold HS Helm・Purple | 金頭兜【ＨＳ】・紫 |
+| 6096 | Gold GS Helm・Purple | 金頭兜【ＧＳ】・紫 |
+| 6097 | Gold GP Helm・Purple | 金頭兜【ＧＰ】・紫 |
+| 6098 | Gold FZ Mask・Red | 金帽子【ＦＺ】・赤 |
+| 6099 | Gold HS Mask・Red | 金帽子【ＨＳ】・赤 |
+| 6100 | Gold GS Mask・Red | 金帽子【ＧＳ】・赤 |
+| 6101 | Gold GP Mask・Red | 金帽子【ＧＰ】・赤 |
+| 6102 | Gold FZ Mask・Blue | 金帽子【ＦＺ】・青 |
+| 6103 | Gold HS Mask・Blue | 金帽子【ＨＳ】・青 |
+| 6104 | Gold GS Mask・Blue | 金帽子【ＧＳ】・青 |
+| 6105 | Gold GP Mask・Blue | 金帽子【ＧＰ】・青 |
+| 6106 | Gold FZ Mask・Yellow | 金帽子【ＦＺ】・黄 |
+| 6107 | Gold HS Mask・Yellow | 金帽子【ＨＳ】・黄 |
+| 6108 | Gold GS Mask・Yellow | 金帽子【ＧＳ】・黄 |
+| 6109 | Gold GP Mask・Yellow | 金帽子【ＧＰ】・黄 |
+| 6110 | Gold FZ Mask・Purple | 金帽子【ＦＺ】・紫 |
+| 6111 | Gold HS Mask・Purple | 金帽子【ＨＳ】・紫 |
+| 6112 | Gold GS Mask・Purple | 金帽子【ＧＳ】・紫 |
+| 6113 | Gold GP Mask・Purple | 金帽子【ＧＰ】・紫 |
 | 6114 | Shaln HS Head・Blue | 夏爾恩頭兜【ＨＳ】・青 |
 | 6115 | Shaln GS Head・Blue | 夏爾恩頭兜【ＧＳ】・青 |
 | 6116 | Shaln GP Head・Blue | 夏爾恩頭兜【ＧＰ】・青 |
@@ -209,18 +209,18 @@
 | 6203 | 抜胴GP Hachigane | 抜胴鉢金【ＧＰ】 |
 | 6204 | 長根GS Hachigane | 長根鉢金【ＧＳ】 |
 | 6205 | 長根GP Hachigane | 長根鉢金【ＧＰ】 |
-| 6206 | Hero King Earring BM Black | 赫艾爾歐頭兜・黑 |
-| 6207 | Hero King Earring BM F Black | 赫艾爾歐頭兜【Ｆ】・黑 |
-| 6208 | Hero King Earring BM FZ Black | 赫艾爾歐頭兜【ＦＺ】・黑 |
-| 6209 | Hero King Earring BM HS Black | 赫艾爾歐頭兜【ＨＳ】・黑 |
-| 6210 | Hero King Earring BM GS Black | 赫艾爾歐頭兜【ＧＳ】・黑 |
-| 6211 | Hero King Earring BM GP Black | 赫艾爾歐頭兜【ＧＰ】・黑 |
-| 6212 | Hero King Earring GN Black | 赫艾爾歐頭兜・黑 |
-| 6213 | Hero King Earring GN F Black | 赫艾爾歐頭兜【Ｆ】・黑 |
-| 6214 | Hero King Earring GN FZ Black | 赫艾爾歐頭兜【ＦＺ】・黑 |
-| 6215 | Hero King Earring GN HS Black | 赫艾爾歐頭兜【ＨＳ】・黑 |
-| 6216 | Hero King Earring GN GS Black | 赫艾爾歐頭兜【ＧＳ】・黑 |
-| 6217 | Hero King Earring GN GP Black | 赫艾爾歐頭兜【ＧＰ】・黑 |
+| 6206 | Hero King Earring BM Black | 英雄王頭兜・黑 |
+| 6207 | Hero King Earring BM F Black | 英雄王頭兜【Ｆ】・黑 |
+| 6208 | Hero King Earring BM FZ Black | 英雄王頭兜【ＦＺ】・黑 |
+| 6209 | Hero King Earring BM HS Black | 英雄王頭兜【ＨＳ】・黑 |
+| 6210 | Hero King Earring BM GS Black | 英雄王頭兜【ＧＳ】・黑 |
+| 6211 | Hero King Earring BM GP Black | 英雄王頭兜【ＧＰ】・黑 |
+| 6212 | Hero King Earring GN Black | 英雄王頭兜・黑 |
+| 6213 | Hero King Earring GN F Black | 英雄王頭兜【Ｆ】・黑 |
+| 6214 | Hero King Earring GN FZ Black | 英雄王頭兜【ＦＺ】・黑 |
+| 6215 | Hero King Earring GN HS Black | 英雄王頭兜【ＨＳ】・黑 |
+| 6216 | Hero King Earring GN GS Black | 英雄王頭兜【ＧＳ】・黑 |
+| 6217 | Hero King Earring GN GP Black | 英雄王頭兜【ＧＰ】・黑 |
 | 6218 | Gorgon Head・Blue | 戈耳工頭兜・青 |
 | 6219 | Gorgon F Head・Blue | 戈耳工頭兜【Ｆ】・青 |
 | 6220 | Gorgon FZ Head・Blue | 戈耳工頭兜【ＦＺ】・青 |
@@ -233,18 +233,18 @@
 | 6227 | Gorgon HS Mask・Blue | 戈耳工帽子【ＨＳ】・青 |
 | 6228 | Gorgon GS Mask・Blue | 戈耳工帽子【ＧＳ】・青 |
 | 6229 | Gorgon GP Mask・Blue | 戈耳工帽子【ＧＰ】・青 |
-| 6230 | Hero King Earring BM White | 赫艾爾歐頭兜・白 |
-| 6231 | Hero King Earring BM F White | 赫艾爾歐頭兜【Ｆ】・白 |
-| 6232 | Hero King Earring BM FZ White | 赫艾爾歐頭兜【ＦＺ】・白 |
-| 6233 | Hero King Earring BM HS White | 赫艾爾歐頭兜【ＨＳ】・白 |
-| 6234 | Hero King Earring BM GS White | 赫艾爾歐頭兜【ＧＳ】・白 |
-| 6235 | Hero King Earring BM GP White | 赫艾爾歐頭兜【ＧＰ】・白 |
-| 6236 | Hero King Earring GN White | 赫艾爾歐頭兜・白 |
-| 6237 | Hero King Earring GN F White | 赫艾爾歐頭兜【Ｆ】・白 |
-| 6238 | Hero King Earring GN FZ White | 赫艾爾歐頭兜【ＦＺ】・白 |
-| 6239 | Hero King Earring GN HS White | 赫艾爾歐頭兜【ＨＳ】・白 |
-| 6240 | Hero King Earring GN GS White | 赫艾爾歐頭兜【ＧＳ】・白 |
-| 6241 | Hero King Earring GN GP White | 赫艾爾歐頭兜【ＧＰ】・白 |
+| 6230 | Hero King Earring BM White | 英雄王頭兜・白 |
+| 6231 | Hero King Earring BM F White | 英雄王頭兜【Ｆ】・白 |
+| 6232 | Hero King Earring BM FZ White | 英雄王頭兜【ＦＺ】・白 |
+| 6233 | Hero King Earring BM HS White | 英雄王頭兜【ＨＳ】・白 |
+| 6234 | Hero King Earring BM GS White | 英雄王頭兜【ＧＳ】・白 |
+| 6235 | Hero King Earring BM GP White | 英雄王頭兜【ＧＰ】・白 |
+| 6236 | Hero King Earring GN White | 英雄王頭兜・白 |
+| 6237 | Hero King Earring GN F White | 英雄王頭兜【Ｆ】・白 |
+| 6238 | Hero King Earring GN FZ White | 英雄王頭兜【ＦＺ】・白 |
+| 6239 | Hero King Earring GN HS White | 英雄王頭兜【ＨＳ】・白 |
+| 6240 | Hero King Earring GN GS White | 英雄王頭兜【ＧＳ】・白 |
+| 6241 | Hero King Earring GN GP White | 英雄王頭兜【ＧＰ】・白 |
 | 6242 | Gorgon Head・White | 戈耳工頭兜・白 |
 | 6243 | Gorgon F Head・White | 戈耳工頭兜【Ｆ】・白 |
 | 6244 | Gorgon FZ Head・White | 戈耳工頭兜【ＦＺ】・白 |
@@ -257,18 +257,18 @@
 | 6251 | Gorgon HS Mask・White | 戈耳工帽子【ＨＳ】・白 |
 | 6252 | Gorgon GS Mask・White | 戈耳工帽子【ＧＳ】・白 |
 | 6253 | Gorgon GP Mask・White | 戈耳工帽子【ＧＰ】・白 |
-| 6254 | Hero King Earring BM Red | 赫艾爾歐頭兜・赤 |
-| 6255 | Hero King Earring BM F Red | 赫艾爾歐頭兜【Ｆ】・赤 |
-| 6256 | Hero King Earring BM FZ Red | 赫艾爾歐頭兜【ＦＺ】・赤 |
-| 6257 | Hero King Earring BM HS Red | 赫艾爾歐頭兜【ＨＳ】・赤 |
-| 6258 | Hero King Earring BM GS Red | 赫艾爾歐頭兜【ＧＳ】・赤 |
-| 6259 | Hero King Earring BM GP Red | 赫艾爾歐頭兜【ＧＰ】・赤 |
-| 6260 | Hero King Earring GN Red | 赫艾爾歐頭兜・赤 |
-| 6261 | Hero King Earring GN F Red | 赫艾爾歐頭兜【Ｆ】・赤 |
-| 6262 | Hero King Earring GN FZ Red | 赫艾爾歐頭兜【ＦＺ】・赤 |
-| 6263 | Hero King Earring GN HS Red | 赫艾爾歐頭兜【ＨＳ】・赤 |
-| 6264 | Hero King Earring GN GS Red | 赫艾爾歐頭兜【ＧＳ】・赤 |
-| 6265 | Hero King Earring GN GP Red | 赫艾爾歐頭兜【ＧＰ】・赤 |
+| 6254 | Hero King Earring BM Red | 英雄王頭兜・赤 |
+| 6255 | Hero King Earring BM F Red | 英雄王頭兜【Ｆ】・赤 |
+| 6256 | Hero King Earring BM FZ Red | 英雄王頭兜【ＦＺ】・赤 |
+| 6257 | Hero King Earring BM HS Red | 英雄王頭兜【ＨＳ】・赤 |
+| 6258 | Hero King Earring BM GS Red | 英雄王頭兜【ＧＳ】・赤 |
+| 6259 | Hero King Earring BM GP Red | 英雄王頭兜【ＧＰ】・赤 |
+| 6260 | Hero King Earring GN Red | 英雄王頭兜・赤 |
+| 6261 | Hero King Earring GN F Red | 英雄王頭兜【Ｆ】・赤 |
+| 6262 | Hero King Earring GN FZ Red | 英雄王頭兜【ＦＺ】・赤 |
+| 6263 | Hero King Earring GN HS Red | 英雄王頭兜【ＨＳ】・赤 |
+| 6264 | Hero King Earring GN GS Red | 英雄王頭兜【ＧＳ】・赤 |
+| 6265 | Hero King Earring GN GP Red | 英雄王頭兜【ＧＰ】・赤 |
 | 6266 | Gorgon Head・Red | 戈耳工頭兜・赤 |
 | 6267 | Gorgon F Head・Red | 戈耳工頭兜【Ｆ】・赤 |
 | 6268 | Gorgon FZ Head・Red | 戈耳工頭兜【ＦＺ】・赤 |
@@ -315,20 +315,20 @@
 | 6309 | 翡戸隠G【角】 | 翡戸隠角頭兜【Ｇ】 |
 | 6310 | 翡戸隠GF【角】 | 角翡戸隠頭兜 |
 | 6311 | 翡戸隠GX【角】 | 翡戸隠角頭兜【ＧＸ】 |
-| 6312 | Blize Helm | 布萊茲頭兜 |
-| 6313 | Blize F Helm | 布萊茲頭兜【Ｆ】 |
+| 6312 | Blize Helm | 布來茲頭兜 |
+| 6313 | Blize F Helm | 布來茲頭兜【Ｆ】 |
 | 6314 | Blize FY Helm | 布伊茲艾頭兜 |
-| 6315 | Blize HS Helm | 布萊茲頭兜【ＨＳ】 |
-| 6316 | Blize G Helm | 布萊茲頭兜【Ｇ】 |
-| 6317 | Blize GF Helm | 布萊茲頭兜【ＧＦ】 |
-| 6318 | Blize GX Helm | 布萊茲頭兜【ＧＸ】 |
-| 6319 | Blize Cap | 布萊茲兜帽 |
-| 6320 | Blize F Cap | 布萊茲兜帽【Ｆ】 |
+| 6315 | Blize HS Helm | 布來茲頭兜【ＨＳ】 |
+| 6316 | Blize G Helm | 布來茲頭兜【Ｇ】 |
+| 6317 | Blize GF Helm | 布來茲頭兜【ＧＦ】 |
+| 6318 | Blize GX Helm | 布來茲頭兜【ＧＸ】 |
+| 6319 | Blize Cap | 布來茲兜帽 |
+| 6320 | Blize F Cap | 布來茲兜帽【Ｆ】 |
 | 6321 | Blize FY Cap | 布伊茲艾兜帽 |
-| 6322 | Blize HS Cap | 布萊茲兜帽【ＨＳ】 |
-| 6323 | Blize G Cap | 布萊茲兜帽【Ｇ】 |
-| 6324 | Blize GF Cap | 布萊茲兜帽【ＧＦ】 |
-| 6325 | Blize GX Cap | 布萊茲兜帽【ＧＸ】 |
+| 6322 | Blize HS Cap | 布來茲兜帽【ＨＳ】 |
+| 6323 | Blize G Cap | 布來茲兜帽【Ｇ】 |
+| 6324 | Blize GF Cap | 布來茲兜帽【ＧＦ】 |
+| 6325 | Blize GX Cap | 布來茲兜帽【ＧＸ】 |
 | 6326 | Mixes FY Helm | 姆伊克斯頭兜 |
 | 6327 | Mixes HS Helm | 混搭頭兜【ＨＳ】 |
 | 6328 | Mixes G Helm | 混搭頭兜【Ｇ】 |
@@ -351,18 +351,18 @@
 | 6345 | Zyra HS Mask・Green | 齊拉帽子【ＨＳ】・緑 |
 | 6346 | Zyra GS Mask・Green | 齊拉帽子【ＧＳ】・緑 |
 | 6347 | Zyra GP Mask・Green | 齊拉帽子【ＧＰ】・緑 |
-| 6348 | Zyra Helm・Water | 齊拉水頭兜 |
-| 6349 | Zyra F Helm・Water | 齊拉水頭兜【Ｆ】 |
-| 6350 | Zyra FZ Helm・Water | 齊拉水頭兜【ＦＺ】 |
-| 6351 | Zyra HS Helm・Water | 齊拉水頭兜【ＨＳ】 |
-| 6352 | Zyra GS Helm・Water | 齊拉水頭兜【ＧＳ】 |
-| 6353 | Zyra GP Helm・Water | 齊拉水頭兜【ＧＰ】 |
-| 6354 | Zyra Mask・Water | 齊拉水帽子 |
-| 6355 | Zyra F Mask・Water | 齊拉水帽子【Ｆ】 |
-| 6356 | Zyra FZ Mask・Water | 齊拉水帽子【ＦＺ】 |
-| 6357 | Zyra HS Mask・Water | 齊拉水帽子【ＨＳ】 |
-| 6358 | Zyra GS Mask・Water | 齊拉水帽子【ＧＳ】 |
-| 6359 | Zyra GP Mask・Water | 齊拉水帽子【ＧＰ】 |
+| 6348 | Zyra Helm・Water | 齊拉頭兜・水 |
+| 6349 | Zyra F Helm・Water | 齊拉頭兜【Ｆ】・水 |
+| 6350 | Zyra FZ Helm・Water | 齊拉頭兜【ＦＺ】・水 |
+| 6351 | Zyra HS Helm・Water | 齊拉頭兜【ＨＳ】・水 |
+| 6352 | Zyra GS Helm・Water | 齊拉頭兜【ＧＳ】・水 |
+| 6353 | Zyra GP Helm・Water | 齊拉頭兜【ＧＰ】・水 |
+| 6354 | Zyra Mask・Water | 齊拉帽子・水 |
+| 6355 | Zyra F Mask・Water | 齊拉帽子【Ｆ】・水 |
+| 6356 | Zyra FZ Mask・Water | 齊拉帽子【ＦＺ】・水 |
+| 6357 | Zyra HS Mask・Water | 齊拉帽子【ＨＳ】・水 |
+| 6358 | Zyra GS Mask・Water | 齊拉帽子【ＧＳ】・水 |
+| 6359 | Zyra GP Mask・Water | 齊拉帽子【ＧＰ】・水 |
 | 6360 | Zyra Helm・Red | 齊拉頭兜・赤 |
 | 6361 | Zyra F Helm・Red | 齊拉頭兜【Ｆ】・赤 |
 | 6362 | Zyra FZ Helm・Red | 齊拉頭兜【ＦＺ】・赤 |

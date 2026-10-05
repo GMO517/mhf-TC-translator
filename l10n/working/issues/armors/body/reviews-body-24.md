@@ -53,7 +53,7 @@
 | 11547 | Scholar C Suit | 施歐爾阿套裝 |
 | 11548 | Aelucanth C Thorax | 阿爾烏克胸甲 |
 | 11549 | Rhopessa C Thorax | 爾歐普艾胸甲 |
-| 11550 | Yukumo ノドウギC・Heaven | 結雲天鎧甲・天 |
+| 11550 | Yukumo ノドウギC・Heaven | 結雲天鎧甲 |
 | 11551 | White 蘭D Mail | 蘭鎧甲・白 |
 | 11552 | Crimson 霞D Mail | 霞鎧甲・紅 |
 | 11553 | Demonclad ノ肩鎧D | 鬼纏鎧甲 |
@@ -70,19 +70,19 @@
 | 11564 | Vulcan D Skin | 火山皮 |
 | 11565 | Vulcan GD Hide | 火山皮衣 |
 | 11566 | Vulcan GD Skin | 火山皮 |
-| 11567 | Garnet D Mail | 格阿爾艾鎧甲 |
-| 11568 | Amethyst D Mail | 阿姆艾斯鎧甲 |
-| 11569 | Coral D Mail | 克歐爾阿鎧甲 |
-| 11570 | Quartz D Mail | 斯烏爾鎧甲 |
-| 11571 | Emerald D Mail | 艾姆艾爾鎧甲 |
-| 11572 | Pearl D Mail | 普艾爾鎧甲 |
-| 11573 | Ruby D Mail | 爾烏布鎧甲 |
-| 11574 | Sapphire D Mail | 斯阿普伊鎧甲 |
-| 11575 | Topaz D Vest | 特歐普阿背心 |
-| 11576 | Tourmaline D Vest | 特歐爾阿背心 |
-| 11577 | Lapis D Vest | 爾阿普伊背心 |
-| 11578 | Hisui D Mail | 赫伊斯烏鎧甲 |
-| 11579 | Onyx D Mail | 歐恩鎧甲 |
+| 11567 | Garnet D Mail | 石榴石鎧甲 |
+| 11568 | Amethyst D Mail | 紫水晶鎧甲 |
+| 11569 | Coral D Mail | 珊瑚鎧甲 |
+| 11570 | Quartz D Mail | 石英鎧甲 |
+| 11571 | Emerald D Mail | 祖母緑鎧甲 |
+| 11572 | Pearl D Mail | 珍珠鎧甲 |
+| 11573 | Ruby D Mail | 紅寶石鎧甲 |
+| 11574 | Sapphire D Mail | 藍寶石鎧甲 |
+| 11575 | Topaz D Vest | 黄玉背心 |
+| 11576 | Tourmaline D Vest | 電氣石背心 |
+| 11577 | Lapis D Vest | 青金石背心 |
+| 11578 | Hisui D Mail | 翡翠鎧甲 |
+| 11579 | Onyx D Mail | 縞瑪瑙鎧甲 |
 | 11580 | Veloci ーツボディD | 藍速龍鎧甲 |
 | 11581 | Gen ーツボディD | 源鎧甲 |
 | 11582 | Io ーツボディD | 伊歐鎧甲 |
@@ -110,10 +110,10 @@
 | 11604 | Healer Vest PD Blue | 治癒背心【ＰＤ】・青 |
 | 11605 | Healer Vest PD White | 治癒背心【ＰＤ】・白 |
 | 11606 | Healer Vest PD Yellow | 治癒背心【ＰＤ】・黄 |
-| 11607 | Shourou 【殻胴】D | 照楼上手 |
-| 11608 | Mitama 【殻胴】D | 御魂上手 |
-| 11609 | Burning Cliff D【胴当て】 | 崖鎧甲 |
-| 11610 | Crimson Cliff D【胴当て】 | 崖鎧甲 |
+| 11607 | Shourou 【殻胴】D | 夏歐爾歐上手 |
+| 11608 | Mitama 【殻胴】D | 姆伊特阿上手 |
+| 11609 | Burning Cliff D【胴当て】 | 布烏爾伊胴當 |
+| 11610 | Crimson Cliff D【胴当て】 | 深紅崖胴當 |
 | 11611 | Ledia D Mail | 爾艾德伊鎧甲 |
 | 11612 | White Snake Haori D | 白蛇羽織 |
 | 11613 | Black Tiger Haori D | 黑虎羽織 |
@@ -122,7 +122,7 @@
 | 11616 | Blue Sky Haori D | 蒼天羽織 |
 | 11617 | Noon Glow Haori D | 恩歐恩歐羽織 |
 | 11618 | Kosho D [Haori 】 | 克歐夏歐羽織 |
-| 11619 | True Shadow Haori D | 特烏斯阿羽織 |
+| 11619 | True Shadow Haori D | 真影羽織 |
 | 11620 | Furogada D Mail | 芙烏爾歐鎧甲 |
 | 11621 | Lars D Mail | 爾阿爾鎧甲 |
 | 11622 | Donru D Mail | 德歐恩烏鎧甲 |
@@ -153,10 +153,10 @@
 | 11647 | Tempest G【衣】 | 暴風雨鎧甲【Ｇ】 |
 | 11648 | Tempest GF【衣】 | 暴風雨鎧甲【ＧＦ】 |
 | 11649 | Tempest GX【衣】 | 暴風雨鎧甲【ＧＸ】 |
-| 11650 | Welkin 【衣】 | 蒼穹鎧甲 |
-| 11651 | Welkin G【衣】 | 蒼穹鎧甲【Ｇ】 |
-| 11652 | Welkin GF【衣】 | 蒼穹鎧甲【ＧＦ】 |
-| 11653 | Welkin GX【衣】 | 蒼穹鎧甲【ＧＸ】 |
+| 11650 | Welkin 【衣】 | 穹蒼鎧甲 |
+| 11651 | Welkin G【衣】 | 穹蒼鎧甲【Ｇ】 |
+| 11652 | Welkin GF【衣】 | 穹蒼鎧甲【ＧＦ】 |
+| 11653 | Welkin GX【衣】 | 穹蒼鎧甲【ＧＸ】 |
 | 11654 | Levin Mail | 雷霆鎧甲 |
 | 11655 | Levin F Mail | 雷霆鎧甲【Ｆ】 |
 | 11656 | Levin FZ Mail | 雷霆鎧甲【ＦＺ】 |
@@ -171,20 +171,20 @@
 | 11665 | Levin GS Vest | 雷霆背心【ＧＳ】 |
 | 11666 | Levin GP Vest | 雷霆背心【ＧＰ】 |
 | 11667 | Levin ZP Vest | 雷霆背心【ＺＰ】 |
-| 11668 | Silver Armour・Body | 甲冑胴・銀 |
-| 11669 | Silver Armour F・Body | 甲冑胴【Ｆ】・銀 |
-| 11670 | Silver Armour FZ・Body | 甲冑胴【ＦＺ】・銀 |
-| 11671 | Silver Armour HS・Body | 甲冑胴【ＨＳ】・銀 |
-| 11672 | Silver Armour GS・Body | 甲冑胴【ＧＳ】・銀 |
-| 11673 | Silver Armour GP・Body | 甲冑胴【ＧＰ】・銀 |
-| 11674 | Silver Armour ZP・Body | 甲冑胴【ＺＰ】・銀 |
-| 11675 | Silver Armour・Chest | 甲冑胸甲・銀 |
-| 11676 | Silver Armour F・Chest | 甲冑胸甲【Ｆ】・銀 |
-| 11677 | Silver Armour FZ・Chest | 甲冑胸甲【ＦＺ】・銀 |
-| 11678 | Silver Armour HS・Chest | 甲冑胸甲【ＨＳ】・銀 |
-| 11679 | Silver Armour GS・Chest | 甲冑胸甲【ＧＳ】・銀 |
-| 11680 | Silver Armour GP・Chest | 甲冑胸甲【ＧＰ】・銀 |
-| 11681 | Silver Armour ZP・Chest | 甲冑胸甲【ＺＰ】・銀 |
+| 11668 | Silver Armour・Body | 銀甲冑胴 |
+| 11669 | Silver Armour F・Body | 銀甲冑胴【Ｆ】 |
+| 11670 | Silver Armour FZ・Body | 銀甲冑胴【ＦＺ】 |
+| 11671 | Silver Armour HS・Body | 銀甲冑胴【ＨＳ】 |
+| 11672 | Silver Armour GS・Body | 銀甲冑胴【ＧＳ】 |
+| 11673 | Silver Armour GP・Body | 銀甲冑胴【ＧＰ】 |
+| 11674 | Silver Armour ZP・Body | 銀甲冑胴【ＺＰ】 |
+| 11675 | Silver Armour・Chest | 銀甲冑胸甲 |
+| 11676 | Silver Armour F・Chest | 銀甲冑胸甲【Ｆ】 |
+| 11677 | Silver Armour FZ・Chest | 銀甲冑胸甲【ＦＺ】 |
+| 11678 | Silver Armour HS・Chest | 銀甲冑胸甲【ＨＳ】 |
+| 11679 | Silver Armour GS・Chest | 銀甲冑胸甲【ＧＳ】 |
+| 11680 | Silver Armour GP・Chest | 銀甲冑胸甲【ＧＰ】 |
+| 11681 | Silver Armour ZP・Chest | 銀甲冑胸甲【ＺＰ】 |
 | 11682 | Rose Ball Gown・Shozoku | 薔薇禮服裝束 |
 | 11683 | Rose Ball Gown F・Shozoku | 薔薇禮服裝束【Ｆ】 |
 | 11684 | Rose Ball Gown FZ・Shozoku | 薔薇禮服裝束【ＦＺ】 |
@@ -247,8 +247,8 @@
 | 11741 | Shatemu ZP Suit | 夏特穆套裝【ＺＰ】 |
 | 11742 | Hevria ZP Vest | 赫芙莉亞背心【ＺＰ】 |
 | 11743 | Hevria ZP Suit | 赫芙莉亞套裝【ＺＰ】 |
-| 11744 | Tiuru ZP Vest | 緹烏魯背心【ＺＰ】 |
-| 11745 | Tiuru ZP Suit | 緹烏魯套裝【ＺＰ】 |
+| 11744 | Tiuru ZP Vest | 提烏魯背心【ＺＰ】 |
+| 11745 | Tiuru ZP Suit | 提烏魯套裝【ＺＰ】 |
 | 11746 | Kaila ZP Mail | 凱拉鎧甲【ＺＰ】 |
 | 11747 | Kaila ZP Suit | 凱拉套裝【ＺＰ】 |
 | 11748 | Fonse G Mail | 芙歐恩艾鎧甲【Ｇ】 |
@@ -272,10 +272,10 @@
 | 11766 | Rizuvue GF Vest | 爾伊茲烏背心【ＧＦ】 |
 | 11767 | Rizuvue GX Vest | 爾伊茲烏背心【ＧＸ】 |
 | 11768 | Inagami ZD Vest | 伊恩阿格背心 |
-| 11769 | Tempest C【衣】 | 暴風雨鎧甲 |
-| 11770 | Welkin C【衣】 | 蒼穹鎧甲 |
+| 11769 | Tempest C【衣】 | 特艾姆艾鎧甲 |
+| 11770 | Welkin C【衣】 | 沃艾爾伊鎧甲 |
 | 11771 | Levin D Mail | 爾艾芙伊鎧甲 |
-| 11772 | Silver Armour D・Body | 阿爾歐爾胴・銀 |
+| 11772 | Silver Armour D・Body | 銀甲冑胴 |
 | 11773 | Rose Ball Gown D・Shozoku | 爾歐斯艾裝束 |
 | 11774 | Shui D Mail | 夏烏斯鎧甲 |
 | 11775 | CE Kevlar D BM Chest Blue | 克艾斯艾胸甲・青 |
@@ -444,20 +444,20 @@
 | 11938 | Holy Maiden Armor GS・Cloth | 聖女鎧衣【ＧＳ】 |
 | 11939 | Holy Maiden Armor GP・Cloth | 聖女鎧衣【ＧＰ】 |
 | 11940 | Holy Maiden Armor ZP・Cloth | 聖女鎧衣【ＺＰ】 |
-| 11941 | Dragon Slayer Armor・Body | 龍鎧甲 |
-| 11942 | Dragon Slayer Armor F・Body | 龍鎧甲【Ｆ】 |
-| 11943 | Dragon Slayer Armor FZ・Body | 龍鎧甲【ＦＺ】 |
-| 11944 | Dragon Slayer Armor HS・Body | 龍鎧甲【ＨＳ】 |
-| 11945 | Dragon Slayer Armor GS・Body | 龍鎧甲【ＧＳ】 |
-| 11946 | Dragon Slayer Armor GP・Body | 龍鎧甲【ＧＰ】 |
-| 11947 | Dragon Slayer Armor ZP・Body | 龍鎧甲【ＺＰ】 |
-| 11948 | Dragon Slayer Armor・Chest | 龍鎧甲 |
-| 11949 | Dragon Slayer Armor F・Chest | 龍鎧甲【Ｆ】 |
-| 11950 | Dragon Slayer Armor FZ・Chest | 龍鎧甲【ＦＺ】 |
-| 11951 | Dragon Slayer Armor HS・Chest | 龍鎧甲【ＨＳ】 |
-| 11952 | Dragon Slayer Armor GS・Chest | 龍鎧甲【ＧＳ】 |
-| 11953 | Dragon Slayer Armor GP・Chest | 龍鎧甲【ＧＰ】 |
-| 11954 | Dragon Slayer Armor ZP・Chest | 龍鎧甲【ＺＰ】 |
+| 11941 | Dragon Slayer Armor・Body | 屠龍鎧甲 |
+| 11942 | Dragon Slayer Armor F・Body | 屠龍鎧甲【Ｆ】 |
+| 11943 | Dragon Slayer Armor FZ・Body | 屠龍鎧甲【ＦＺ】 |
+| 11944 | Dragon Slayer Armor HS・Body | 屠龍鎧甲【ＨＳ】 |
+| 11945 | Dragon Slayer Armor GS・Body | 屠龍鎧甲【ＧＳ】 |
+| 11946 | Dragon Slayer Armor GP・Body | 屠龍鎧甲【ＧＰ】 |
+| 11947 | Dragon Slayer Armor ZP・Body | 屠龍鎧甲【ＺＰ】 |
+| 11948 | Dragon Slayer Armor・Chest | 屠龍鎧甲 |
+| 11949 | Dragon Slayer Armor F・Chest | 屠龍鎧甲【Ｆ】 |
+| 11950 | Dragon Slayer Armor FZ・Chest | 屠龍鎧甲【ＦＺ】 |
+| 11951 | Dragon Slayer Armor HS・Chest | 屠龍鎧甲【ＨＳ】 |
+| 11952 | Dragon Slayer Armor GS・Chest | 屠龍鎧甲【ＧＳ】 |
+| 11953 | Dragon Slayer Armor GP・Chest | 屠龍鎧甲【ＧＰ】 |
+| 11954 | Dragon Slayer Armor ZP・Chest | 屠龍鎧甲【ＺＰ】 |
 | 11955 | Rebellion Armour・Body | 爾艾布艾胴 |
 | 11956 | Rebellion Armour F・Body | 爾艾布艾胴【Ｆ】 |
 | 11957 | Rebellion Armour FZ・Body | 爾艾布艾胴【ＦＺ】 |
@@ -494,7 +494,7 @@
 | 11988 | Training Corps D Vest | 特阿恩伊背心 |
 | 11989 | Twelve Paladins' Armor D・Body | 特艾爾艾鎧甲 |
 | 11990 | Holy Maiden Armor D・Shozoku | 赫歐爾阿裝束 |
-| 11991 | Dragon Slayer Armor D・Body | 龍鎧甲 |
+| 11991 | Dragon Slayer Armor D・Body | 屠龍鎧甲 |
 | 11992 | Rebellion Armour D・Body | 爾艾布艾胴 |
 | 11993 | Dinato D Mail | 德伊恩阿鎧甲 |
 | 11994 | Duque D Mail | 德烏斯烏鎧甲 |

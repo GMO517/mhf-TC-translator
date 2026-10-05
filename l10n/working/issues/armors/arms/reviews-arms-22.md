@@ -148,9 +148,9 @@
 | 10642 | Wander D Arms・Red | 沃阿恩艾護腕・赤 |
 | 10643 | Wander D Arms・White | 沃阿恩艾護腕・白 |
 | 10644 | Wander D Arms・Black | 沃阿恩艾護腕・黑 |
-| 10645 | Blue Ice Emperor D Arms | 伊克艾斯護腕・青 |
-| 10646 | White Ice Emperor D Arms | 伊克艾斯護腕・白 |
-| 10647 | Red Ice Emperor D Arms | 伊克艾斯護腕・赤 |
+| 10645 | Blue Ice Emperor D Arms | 青冰帝護腕 |
+| 10646 | White Ice Emperor D Arms | 白冰帝護腕 |
+| 10647 | Red Ice Emperor D Arms | 赤冰帝護腕 |
 | 10648 | Rance C Arms | 爾阿恩艾護腕 |
 | 10649 | Santa D Arms | 斯阿恩阿護腕 |
 | 10650 | Anteka Dグローブ | 雪鹿手套 |
@@ -189,9 +189,9 @@
 | 10683 | Farunokku D Guard | 芙阿爾烏臂甲 |
 | 10684 | Pokara D Arms | 普歐克阿護腕 |
 | 10685 | Pokara D Guard | 普歐克阿臂甲 |
-| 10686 | Genesis D【手袋】 | 創世護腕 |
-| 10687 | Motion D【手袋】 | 律動護腕 |
-| 10688 | Lightning D【 Kote 】 | 爾伊格伊籠手 |
+| 10686 | Genesis D【手袋】 | 格艾恩艾護腕 |
+| 10687 | Motion D【手袋】 | 姆歐特伊護腕 |
+| 10688 | Lightning D【 Kote 】 | 雷光籠手 |
 | 10689 | Thunder D【 Kote 】 | 雷籠手 |
 | 10690 | Toridcless D Arms | 特歐爾伊護腕 |
 | 10691 | Toridcless D Guard | 特歐爾伊臂甲 |
@@ -287,7 +287,7 @@
 | 10781 | Two-tone D Arms | 特歐斯歐護腕 |
 | 10782 | King Beetle D Brachia | 克伊恩艾臂甲 |
 | 10783 | Butterfly D Brachia | 布烏特艾臂甲 |
-| 10784 | Demon Lord Kote D | 德艾姆歐籠手 |
+| 10784 | Demon Lord Kote D | 魔王籠手 |
 | 10785 | Demon Tale Kote D | 德艾姆歐籠手 |
 | 10786 | 鬼凛ノ Kote D | 德籠手 |
 | 10787 | Empress C Arms | 女帝護腕 |
@@ -299,7 +299,7 @@
 | 10793 | Nargacuga C Arms | 恩阿爾阿護腕 |
 | 10794 | Nargacuga C Guard | 恩阿爾阿臂甲 |
 | 10795 | Burning Cliff GX [Kote 】 | 燃崖籠手【ＧＸ】 |
-| 10796 | Crimson Cliff GX [Kote 】 | 崖籠手【ＧＸ】・紅 |
+| 10796 | Crimson Cliff GX [Kote 】 | 深紅崖籠手【ＧＸ】 |
 | 10797 | Vashimu Z Arms | 尾晶蠍護腕【Ｚ】 |
 | 10798 | Vashimu ZF Arms | 尾晶蠍護腕【ＺＦ】 |
 | 10799 | Vashimu ZY Arms | 尾晶蠍護腕【ＺＹ】 |
@@ -456,19 +456,19 @@
 | 10950 | Lucchese D Arms | 爾烏克艾護腕 |
 | 10951 | Entora D Arms | 艾恩歐爾護腕 |
 | 10952 | YoRHa No.9 Type S Arms | 寄葉九號型護腕【Ｓ】 |
-| 10953 | YoRHa No.9 Type S F Arms | 寄葉九號型護腕【Ｓ】【Ｆ】 |
-| 10954 | YoRHa No.9 Type S FZ Arms | 寄葉九號型護腕【Ｓ】【ＦＺ】 |
-| 10955 | YoRHa No.9 Type S HS Arms | 寄葉九號型護腕【Ｓ】【ＨＳ】 |
-| 10956 | YoRHa No.9 Type S GS Arms | 寄葉九號型護腕【Ｓ】【ＧＳ】 |
-| 10957 | YoRHa No.9 Type S GP Arms | 寄葉九號型護腕【Ｓ】【ＧＰ】 |
-| 10958 | YoRHa No.9 Type S ZP Arms | 寄葉九號型護腕【Ｓ】【ＺＰ】 |
+| 10953 | YoRHa No.9 Type S F Arms | 寄葉九號型護腕【Ｆ】 |
+| 10954 | YoRHa No.9 Type S FZ Arms | 寄葉九號型護腕【ＦＺ】 |
+| 10955 | YoRHa No.9 Type S HS Arms | 寄葉九號型護腕【ＨＳ】 |
+| 10956 | YoRHa No.9 Type S GS Arms | 寄葉九號型護腕【ＧＳ】 |
+| 10957 | YoRHa No.9 Type S GP Arms | 寄葉九號型護腕【ＧＰ】 |
+| 10958 | YoRHa No.9 Type S ZP Arms | 寄葉九號型護腕【ＺＰ】 |
 | 10959 | YoRHa No.9 Type S Guard | 寄葉九號型臂甲【Ｓ】 |
-| 10960 | YoRHa No.9 Type S F Guard | 寄葉九號型臂甲【Ｓ】【Ｆ】 |
-| 10961 | YoRHa No.9 Type S FZ Guard | 寄葉九號型臂甲【Ｓ】【ＦＺ】 |
-| 10962 | YoRHa No.9 Type S HS Guard | 寄葉九號型臂甲【Ｓ】【ＨＳ】 |
-| 10963 | YoRHa No.9 Type S GS Guard | 寄葉九號型臂甲【Ｓ】【ＧＳ】 |
-| 10964 | YoRHa No.9 Type S GP Guard | 寄葉九號型臂甲【Ｓ】【ＧＰ】 |
-| 10965 | YoRHa No.9 Type S ZP Guard | 寄葉九號型臂甲【Ｓ】【ＺＰ】 |
+| 10960 | YoRHa No.9 Type S F Guard | 寄葉九號型臂甲【Ｆ】 |
+| 10961 | YoRHa No.9 Type S FZ Guard | 寄葉九號型臂甲【ＦＺ】 |
+| 10962 | YoRHa No.9 Type S HS Guard | 寄葉九號型臂甲【ＨＳ】 |
+| 10963 | YoRHa No.9 Type S GS Guard | 寄葉九號型臂甲【ＧＳ】 |
+| 10964 | YoRHa No.9 Type S GP Guard | 寄葉九號型臂甲【ＧＰ】 |
+| 10965 | YoRHa No.9 Type S ZP Guard | 寄葉九號型臂甲【ＺＰ】 |
 | 10966 | YoRHa No.2 Type B Arms | 寄葉二號Ｂ型護腕 |
 | 10967 | YoRHa No.2 Type B F Arms | 寄葉二號Ｂ型護腕【Ｆ】 |
 | 10968 | YoRHa No.2 Type B FZ Arms | 寄葉二號Ｂ型護腕【ＦＺ】 |

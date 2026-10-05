@@ -131,12 +131,12 @@
 | 4125 | Galitos HC Guard・Black | 加里托斯臂甲【ＨＣ】・黑 |
 | 4126 | Galitos HS Guard・Black | 加里托斯臂甲【ＨＳ】・黑 |
 | 4127 | Galitos GS Guard・Black | 加里托斯臂甲【ＧＳ】・黑 |
-| 4128 | Galitos HC Arms・Water | 加里托斯水護腕【ＨＣ】 |
-| 4129 | Galitos HS Arms・Water | 加里托斯水護腕【ＨＳ】 |
-| 4130 | Galitos GS Arms・Water | 加里托斯水護腕【ＧＳ】 |
-| 4131 | Galitos HC Guard・Water | 加里托斯水臂甲【ＨＣ】 |
-| 4132 | Galitos HS Guard・Water | 加里托斯水臂甲【ＨＳ】 |
-| 4133 | Galitos GS Guard・Water | 加里托斯水臂甲【ＧＳ】 |
+| 4128 | Galitos HC Arms・Water | 加里托斯護腕【ＨＣ】・水 |
+| 4129 | Galitos HS Arms・Water | 加里托斯護腕【ＨＳ】・水 |
+| 4130 | Galitos GS Arms・Water | 加里托斯護腕【ＧＳ】・水 |
+| 4131 | Galitos HC Guard・Water | 加里托斯臂甲【ＨＣ】・水 |
+| 4132 | Galitos HS Guard・Water | 加里托斯臂甲【ＨＳ】・水 |
+| 4133 | Galitos GS Guard・Water | 加里托斯臂甲【ＧＳ】・水 |
 | 4134 | Star Festival FZ Gauntlets [Blue 】 | 星祭手甲【ＦＺ】・青 |
 | 4135 | Star Festival HC Gauntlets [Blue 】 | 星祭手甲【ＨＣ】・青 |
 | 4136 | Star Festival HS Gauntlets [Blue 】 | 星祭手甲【ＨＳ】・青 |
@@ -225,12 +225,12 @@
 | 4219 | Beru G Guard | 舞雷龍臂甲【Ｇ】 |
 | 4220 | Beru GF Guard | 舞雷龍臂甲【ＧＦ】 |
 | 4221 | Beru GX Guard | 舞雷龍臂甲【ＧＸ】 |
-| 4222 | Black Gravios G Arms | 鎧龍護腕【Ｇ】・黑 |
-| 4223 | Black Gravios GF Arms | 鎧龍護腕【ＧＦ】・黑 |
-| 4224 | Black Gravios GX Arms | 鎧龍護腕【ＧＸ】・黑 |
-| 4225 | Black Gravios G Guard | 鎧龍臂甲【Ｇ】・黑 |
-| 4226 | Black Gravios GF Guard | 鎧龍臂甲【ＧＦ】・黑 |
-| 4227 | Black Gravios GX Guard | 鎧龍臂甲【ＧＸ】・黑 |
+| 4222 | Black Gravios G Arms | 黑鎧龍護腕【Ｇ】 |
+| 4223 | Black Gravios GF Arms | 黑鎧龍護腕【ＧＦ】 |
+| 4224 | Black Gravios GX Arms | 黑鎧龍護腕【ＧＸ】 |
+| 4225 | Black Gravios G Guard | 黑鎧龍臂甲【Ｇ】 |
+| 4226 | Black Gravios GF Guard | 黑鎧龍臂甲【ＧＦ】 |
+| 4227 | Black Gravios GX Guard | 黑鎧龍臂甲【ＧＸ】 |
 | 4228 | Lune G Arms | 月護腕【Ｇ】 |
 | 4229 | Lune GF Arms | 月護腕【ＧＦ】 |
 | 4230 | Lune GX Arms | 月護腕【ＧＸ】 |
@@ -407,18 +407,18 @@
 | 4401 | Genom HS Guard・Green | 基因組臂甲【ＨＳ】・緑 |
 | 4402 | Genom GS Guard・Green | 基因組臂甲【ＧＳ】・緑 |
 | 4403 | Genom GP Guard・Green | 基因組臂甲【ＧＰ】・緑 |
-| 4404 | Genom Arms・Water | 基因組水護腕 |
-| 4405 | Genom F Arms・Water | 基因組水護腕【Ｆ】 |
-| 4406 | Genom FZ Arms・Water | 基因組水護腕【ＦＺ】 |
-| 4407 | Genom HS Arms・Water | 基因組水護腕【ＨＳ】 |
-| 4408 | Genom GS Arms・Water | 基因組水護腕【ＧＳ】 |
-| 4409 | Genom GP Arms・Water | 基因組水護腕【ＧＰ】 |
-| 4410 | Genom Guard・Water | 基因組水臂甲 |
-| 4411 | Genom F Guard・Water | 基因組水臂甲【Ｆ】 |
-| 4412 | Genom FZ Guard・Water | 基因組水臂甲【ＦＺ】 |
-| 4413 | Genom HS Guard・Water | 基因組水臂甲【ＨＳ】 |
-| 4414 | Genom GS Guard・Water | 基因組水臂甲【ＧＳ】 |
-| 4415 | Genom GP Guard・Water | 基因組水臂甲【ＧＰ】 |
+| 4404 | Genom Arms・Water | 基因組護腕・水 |
+| 4405 | Genom F Arms・Water | 基因組護腕【Ｆ】・水 |
+| 4406 | Genom FZ Arms・Water | 基因組護腕【ＦＺ】・水 |
+| 4407 | Genom HS Arms・Water | 基因組護腕【ＨＳ】・水 |
+| 4408 | Genom GS Arms・Water | 基因組護腕【ＧＳ】・水 |
+| 4409 | Genom GP Arms・Water | 基因組護腕【ＧＰ】・水 |
+| 4410 | Genom Guard・Water | 基因組臂甲・水 |
+| 4411 | Genom F Guard・Water | 基因組臂甲【Ｆ】・水 |
+| 4412 | Genom FZ Guard・Water | 基因組臂甲【ＦＺ】・水 |
+| 4413 | Genom HS Guard・Water | 基因組臂甲【ＨＳ】・水 |
+| 4414 | Genom GS Guard・Water | 基因組臂甲【ＧＳ】・水 |
+| 4415 | Genom GP Guard・Water | 基因組臂甲【ＧＰ】・水 |
 | 4416 | Genom Arms・Red | 基因組護腕・赤 |
 | 4417 | Genom F Arms・Red | 基因組護腕【Ｆ】・赤 |
 | 4418 | Genom FZ Arms・Red | 基因組護腕【ＦＺ】・赤 |

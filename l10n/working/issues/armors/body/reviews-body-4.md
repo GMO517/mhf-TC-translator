@@ -132,9 +132,9 @@
 | 1626 | Moss Covered F Mail | 苔覆鎧甲【Ｆ】 |
 | 1627 | Moss Covered Vest | 苔覆背心 |
 | 1628 | Moss Covered F Vest | 苔覆背心【Ｆ】 |
-| 1629 | Kagura 【胴当て】 SP Red | 神樂鎧甲【ＳＰ】 |
-| 1630 | Kagura 【胴当て】 SP Black | 神樂鎧甲【ＳＰ】 |
-| 1631 | Kagura 【胴当て】 SP Purple | 神樂鎧甲【ＳＰ】 |
+| 1629 | Kagura 【胴当て】 SP Red | 神樂胴當【ＳＰ】・赤 |
+| 1630 | Kagura 【胴当て】 SP Black | 神樂胴當【ＳＰ】・黑 |
+| 1631 | Kagura 【胴当て】 SP Purple | 神樂胴當【ＳＰ】・紫 |
 | 1632 | Kamiza [Chestplate] SP Red | 上座胸甲【ＳＰ】・赤 |
 | 1633 | Kamiza [Chestplate] SP Black | 上座胸甲【ＳＰ】・黑 |
 | 1634 | Kamiza [Chestplate] SP Purple | 上座胸甲【ＳＰ】・紫 |
@@ -169,12 +169,12 @@
 | 1663 | ダミー | (dummy) |
 | 1664 | Lils Vest | 爾伊爾背心 |
 | 1665 | ダミー | (dummy) |
-| 1666 | Kagura FX【胴当て】 | 神樂鎧甲【ＦＸ】 |
+| 1666 | Kagura FX【胴当て】 | 神樂胴當【ＦＸ】 |
 | 1667 | Kamiza FX [Chestplate 】 | 上座胸甲【ＦＸ】 |
-| 1668 | Blue Sky Haori | 蒼天羽織 |
-| 1669 | Blue Sky Haori・魁 | 魁羽織・青 |
-| 1670 | Welkin Haori | 蒼穹羽織 |
-| 1671 | Welkin Haori・魁 | 魁羽織 |
+| 1668 | Blue Sky Haori | 蒼天羽織・天 |
+| 1669 | Blue Sky Haori・魁 | 蒼天羽織魁・天 |
+| 1670 | Welkin Haori | 穹蒼羽織 |
+| 1671 | Welkin Haori・魁 | 穹蒼羽織魁 |
 | 1672 | Breo Jacket | 布艾夾克 |
 | 1673 | Breo F Jacket | 布艾夾克【Ｆ】 |
 | 1674 | Vinen Jacket | 芙伊恩艾夾克 |
@@ -185,19 +185,19 @@
 | 1679 | アナトリ Vest | 阿納托里背心 |
 | 1680 | Edio Mail・Blue | 電竜鎧甲・青 |
 | 1681 | Edio F Mail・Blue | 電竜鎧甲【Ｆ】・青 |
-| 1682 | エ Dios ーツ・Blue | 狄奧斯鎧甲 |
+| 1682 | エ Dios ーツ・Blue | 狄奧斯鎧甲・青 |
 | 1683 | Edio F Suit・Blue | 電竜套裝【Ｆ】・青 |
 | 1684 | Edio Mail・Red | 電竜鎧甲・赤 |
 | 1685 | Edio F Mail・Red | 電竜鎧甲【Ｆ】・赤 |
-| 1686 | エ Dios ーツ・Red | 狄奧斯鎧甲 |
+| 1686 | エ Dios ーツ・Red | 狄奧斯鎧甲・赤 |
 | 1687 | Edio F Suit・Red | 電竜套裝【Ｆ】・赤 |
 | 1688 | Edio Mail・Yellow | 電竜鎧甲・黄 |
 | 1689 | Edio F Mail・Yellow | 電竜鎧甲【Ｆ】・黄 |
-| 1690 | エ Dios ーツ・Yellow | 狄奧斯鎧甲 |
+| 1690 | エ Dios ーツ・Yellow | 狄奧斯鎧甲・黄 |
 | 1691 | Edio F Suit・Yellow | 電竜套裝【Ｆ】・黄 |
 | 1692 | Edio Mail・Black | 電竜鎧甲・黑 |
 | 1693 | Edio F Mail・Black | 電竜鎧甲【Ｆ】・黑 |
-| 1694 | エ Dios ーツ・Black | 狄奧斯鎧甲 |
+| 1694 | エ Dios ーツ・Black | 狄奧斯鎧甲・黑 |
 | 1695 | Edio F Suit・Black | 電竜套裝【Ｆ】・黑 |
 | 1696 | Abitto Vest | 阿比托背心 |
 | 1697 | Abitto F Vest | 阿比托背心【Ｆ】 |
@@ -229,48 +229,48 @@
 | 1723 | Pasu F Suit | 普阿斯烏套裝【Ｆ】 |
 | 1724 | Randa の胴当・Yellow | の胴当鎧甲・黄 |
 | 1725 | 蘭蛮の胴当・Yellow | 蘭蛮の胴当鎧甲・黄 |
-| 1726 | Randa の Shozoku・Yellow | の裝束・黄 |
+| 1726 | Randa の Shozoku・Yellow | 爾阿恩阿裝束・黄 |
 | 1727 | 蘭蛮の Shozoku・Yellow | 蘭蛮の裝束・黄 |
 | 1728 | Randa の胴当・Red | の胴当鎧甲・赤 |
 | 1729 | 蘭蛮の胴当・Red | 蘭蛮の胴当鎧甲・赤 |
-| 1730 | Randa の Shozoku・Red | の裝束・赤 |
+| 1730 | Randa の Shozoku・Red | 爾阿恩阿裝束・赤 |
 | 1731 | 蘭蛮の Shozoku・Red | 蘭蛮の裝束・赤 |
 | 1732 | Randa の胴当・Purple | の胴当鎧甲・紫 |
 | 1733 | 蘭蛮の胴当・Purple | 蘭蛮の胴当鎧甲・紫 |
-| 1734 | Randa の Shozoku・Purple | の裝束・紫 |
+| 1734 | Randa の Shozoku・Purple | 爾阿恩阿裝束・紫 |
 | 1735 | 蘭蛮の Shozoku・Purple | 蘭蛮の裝束・紫 |
 | 1736 | Randa の胴当・Gold | の胴当鎧甲・金 |
 | 1737 | 蘭蛮の胴当・Gold | 蘭蛮の胴当鎧甲・金 |
-| 1738 | Randa の Shozoku・Gold | の裝束・金 |
+| 1738 | Randa の Shozoku・Gold | 爾阿恩阿裝束・金 |
 | 1739 | 蘭蛮の Shozoku・Gold | 蘭蛮の裝束・金 |
 | 1740 | 竜巻胴着・Black | 竜巻胴着鎧甲・黑 |
 | 1741 | 竜巻F胴着・Black | 竜巻胴着鎧甲・黑 |
-| 1742 | True 空胴着・Black | 空胴着鎧甲・黑 |
-| 1743 | True 空F胴着・Black | 空胴着鎧甲・黑 |
+| 1742 | True 空胴着・Black | 真空胴着鎧甲・黑 |
+| 1743 | True 空F胴着・Black | 真空胴着鎧甲・黑 |
 | 1744 | 千裂胴着・Black | 千裂胴着鎧甲・黑 |
 | 1745 | 千裂F胴着・Black | 千裂胴着鎧甲・黑 |
 | 1746 | 覇山胴着・Black | 覇山胴着鎧甲・黑 |
 | 1747 | 覇山F胴着・Black | 覇山胴着鎧甲・黑 |
 | 1748 | 竜巻胴着・Tea | 竜巻胴着鎧甲・茶 |
 | 1749 | 竜巻F胴着・Tea | 竜巻胴着鎧甲・茶 |
-| 1750 | True 空胴着・Tea | 空胴着鎧甲・茶 |
-| 1751 | True 空F胴着・Tea | 空胴着鎧甲・茶 |
+| 1750 | True 空胴着・Tea | 真空胴着鎧甲・茶 |
+| 1751 | True 空F胴着・Tea | 真空胴着鎧甲・茶 |
 | 1752 | 千裂胴着・Purple | 千裂胴着鎧甲・紫 |
 | 1753 | 千裂F胴着・Purple | 千裂胴着鎧甲・紫 |
 | 1754 | 覇山胴着・Purple | 覇山胴着鎧甲・紫 |
 | 1755 | 覇山F胴着・Purple | 覇山胴着鎧甲・紫 |
 | 1756 | 竜巻胴着・White | 竜巻胴着鎧甲・白 |
 | 1757 | 竜巻F胴着・White | 竜巻胴着鎧甲・白 |
-| 1758 | True 空胴着・White | 空胴着鎧甲・白 |
-| 1759 | True 空F胴着・White | 空胴着鎧甲・白 |
+| 1758 | True 空胴着・White | 真空胴着鎧甲・白 |
+| 1759 | True 空F胴着・White | 真空胴着鎧甲・白 |
 | 1760 | 千裂胴着・White | 千裂胴着鎧甲・白 |
 | 1761 | 千裂F胴着・White | 千裂胴着鎧甲・白 |
 | 1762 | 覇山胴着・White | 覇山胴着鎧甲・白 |
 | 1763 | 覇山F胴着・White | 覇山胴着鎧甲・白 |
 | 1764 | 竜巻胴着・Blue | 竜巻胴着鎧甲・青 |
 | 1765 | 竜巻F胴着・Blue | 竜巻胴着鎧甲・青 |
-| 1766 | True 空胴着・Blue | 空胴着鎧甲・青 |
-| 1767 | True 空F胴着・Blue | 空胴着鎧甲・青 |
+| 1766 | True 空胴着・Blue | 真空胴着鎧甲・青 |
+| 1767 | True 空F胴着・Blue | 真空胴着鎧甲・青 |
 | 1768 | 千裂胴着・Green | 千裂胴着鎧甲・緑 |
 | 1769 | 千裂F胴着・Green | 千裂胴着鎧甲・緑 |
 | 1770 | 覇山胴着・Green | 覇山胴着鎧甲・緑 |
@@ -287,10 +287,10 @@
 | 1781 | 旋風F胴着 | 旋風胴着鎧甲 |
 | 1782 | 巴胴着 | 巴胴着鎧甲 |
 | 1783 | 巴F胴着 | 巴胴着鎧甲 |
-| 1784 | Heaven 空胴着 | 空胴着鎧甲・天 |
-| 1785 | Heaven 空F胴着 | 空胴着鎧甲・天 |
-| 1786 | Heaven 昇胴着 | 昇胴着鎧甲・天 |
-| 1787 | Heaven 昇F胴着 | 昇胴着鎧甲・天 |
+| 1784 | Heaven 空胴着 | 空胴着天鎧甲 |
+| 1785 | Heaven 空F胴着 | 空胴着天鎧甲 |
+| 1786 | Heaven 昇胴着 | 昇胴着天鎧甲 |
+| 1787 | Heaven 昇F胴着 | 昇胴着天鎧甲 |
 | 1788 | Jeamu Mail | 傑艾姆烏鎧甲 |
 | 1789 | Jeamu F Mail | 傑艾姆烏鎧甲【Ｆ】 |
 | 1790 | Amyusu Mail | 阿姆烏斯鎧甲 |
@@ -323,7 +323,7 @@
 | 1817 | Buran F Jacket | 布烏爾阿夾克【Ｆ】 |
 | 1818 | Zwinger Mail | 茲伊恩艾鎧甲 |
 | 1819 | Zwinger Suit | 茲伊恩艾套裝 |
-| 1820 | Demon Lord ノ肩鎧・魁 | 惡魔魁鎧甲 |
+| 1820 | Demon Lord ノ肩鎧・魁 | 魔王鎧甲魁 |
 | 1821 | 童子ノ肩鎧・魁 | 童子肩鎧魁鎧甲 |
 | 1822 | Melan F Jacket | 紫黑夾克【Ｆ】 |
 | 1823 | Melan F Suit | 紫黑套裝【Ｆ】 |
@@ -458,7 +458,7 @@
 | 1952 | Diina Vest | 德伊恩阿背心 |
 | 1953 | Diina F Vest | 德伊恩阿背心【Ｆ】 |
 | 1954 | True Shadow Haori | 真影羽織 |
-| 1955 | True Shadow Haori・魁 | 魁羽織 |
+| 1955 | True Shadow Haori・魁 | 真影羽織魁 |
 | 1956 | 翔影ノ Haori | 翔影羽織 |
 | 1957 | 翔影ノ Haori・魁 | 翔影魁羽織 |
 | 1958 | Black Tiger Haori | 黑虎羽織 |
@@ -477,10 +477,10 @@
 | 1971 | Galitos F Vest・Black | 加里托斯背心【Ｆ】・黑 |
 | 1972 | Galitos Suit・Black | 加里托斯套裝・黑 |
 | 1973 | Galitos F Suit・Black | 加里托斯套裝【Ｆ】・黑 |
-| 1974 | Galitos Vest・Water | 加里托斯水背心 |
-| 1975 | Galitos F Vest・Water | 加里托斯水背心【Ｆ】 |
-| 1976 | Galitos Suit・Water | 加里托斯水套裝 |
-| 1977 | Galitos F Suit・Water | 加里托斯水套裝【Ｆ】 |
+| 1974 | Galitos Vest・Water | 加里托斯背心・水 |
+| 1975 | Galitos F Vest・Water | 加里托斯背心【Ｆ】・水 |
+| 1976 | Galitos Suit・Water | 加里托斯套裝・水 |
+| 1977 | Galitos F Suit・Water | 加里托斯套裝【Ｆ】・水 |
 | 1978 | Riburi Vest | 里布里背心 |
 | 1979 | Riburi F Vest | 里布里背心【Ｆ】 |
 | 1980 | Riburi FZ Vest | 里布里背心【ＦＺ】 |

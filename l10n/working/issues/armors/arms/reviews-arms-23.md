@@ -105,14 +105,14 @@
 | 11099 | Akahara Reisou GN Arms D Blue | 阿克阿赫護腕・青 |
 | 11100 | Akahara Reisou GN Arms D Black | 阿克阿赫護腕・黑 |
 | 11101 | Akahara Reisou GN Arms D White | 阿克阿赫護腕・白 |
-| 11102 | Knight King Arms BM D Blue | 克伊格伊護腕・青 |
-| 11103 | Knight King Arms BM D Red | 克伊格伊護腕・赤 |
-| 11104 | Knight King Arms BM D Black | 克伊格伊護腕・黑 |
-| 11105 | Knight King Arms BM D White | 克伊格伊護腕・白 |
-| 11106 | Hero King Arms BM D Gold | 赫艾爾歐護腕・金 |
-| 11107 | Hero King Arms BM D Black | 赫艾爾歐護腕・黑 |
-| 11108 | Hero King Arms BM D White | 赫艾爾歐護腕・白 |
-| 11109 | Hero King Arms BM D Red | 赫艾爾歐護腕・赤 |
+| 11102 | Knight King Arms BM D Blue | 騎士王護腕・青 |
+| 11103 | Knight King Arms BM D Red | 騎士王護腕・赤 |
+| 11104 | Knight King Arms BM D Black | 騎士王護腕・黑 |
+| 11105 | Knight King Arms BM D White | 騎士王護腕・白 |
+| 11106 | Hero King Arms BM D Gold | 英雄王護腕・金 |
+| 11107 | Hero King Arms BM D Black | 英雄王護腕・黑 |
+| 11108 | Hero King Arms BM D White | 英雄王護腕・白 |
+| 11109 | Hero King Arms BM D Red | 英雄王護腕・赤 |
 | 11110 | Gorgon D Arms・Black | 格歐爾歐護腕・黑 |
 | 11111 | Gorgon D Arms・Blue | 格歐爾歐護腕・青 |
 | 11112 | Gorgon D Arms・White | 格歐爾歐護腕・白 |
@@ -187,13 +187,13 @@
 | 11181 | Twin Star GS Arms | 雙星護腕【ＧＳ】 |
 | 11182 | Twin Star GP Arms | 雙星護腕【ＧＰ】 |
 | 11183 | Twin Star ZP Arms | 雙星護腕【ＺＰ】 |
-| 11184 | Heaven Blade Arms | 天刃護腕・天 |
-| 11185 | Heaven Blade F Arms | 天刃護腕【Ｆ】・天 |
-| 11186 | Heaven Blade FZ Arms | 天刃護腕【ＦＺ】・天 |
-| 11187 | Heaven Blade HS Arms | 天刃護腕【ＨＳ】・天 |
-| 11188 | Heaven Blade GS Arms | 天刃護腕【ＧＳ】・天 |
-| 11189 | Heaven Blade GP Arms | 天刃護腕【ＧＰ】・天 |
-| 11190 | Heaven Blade ZP Arms | 天刃護腕【ＺＰ】・天 |
+| 11184 | Heaven Blade Arms | 天刃護腕 |
+| 11185 | Heaven Blade F Arms | 天刃護腕【Ｆ】 |
+| 11186 | Heaven Blade FZ Arms | 天刃護腕【ＦＺ】 |
+| 11187 | Heaven Blade HS Arms | 天刃護腕【ＨＳ】 |
+| 11188 | Heaven Blade GS Arms | 天刃護腕【ＧＳ】 |
+| 11189 | Heaven Blade GP Arms | 天刃護腕【ＧＰ】 |
+| 11190 | Heaven Blade ZP Arms | 天刃護腕【ＺＰ】 |
 | 11191 | Spring Sword Arms | 斯伊恩歐護腕 |
 | 11192 | Spring Sword F Arms | 斯伊恩歐護腕【Ｆ】 |
 | 11193 | Spring Sword FZ Arms | 斯伊恩歐護腕【ＦＺ】 |
@@ -229,13 +229,13 @@
 | 11223 | Scream Lance GS Arms | 斯艾姆阿護腕【ＧＳ】 |
 | 11224 | Scream Lance GP Arms | 斯艾姆阿護腕【ＧＰ】 |
 | 11225 | Scream Lance ZP Arms | 斯艾姆阿護腕【ＺＰ】 |
-| 11226 | Piercing Light Arms | 普伊爾伊護腕 |
-| 11227 | Piercing Light F Arms | 普伊爾伊護腕【Ｆ】 |
-| 11228 | Piercing Light FZ Arms | 普伊爾伊護腕【ＦＺ】 |
-| 11229 | Piercing Light HS Arms | 普伊爾伊護腕【ＨＳ】 |
-| 11230 | Piercing Light GS Arms | 普伊爾伊護腕【ＧＳ】 |
-| 11231 | Piercing Light GP Arms | 普伊爾伊護腕【ＧＰ】 |
-| 11232 | Piercing Light ZP Arms | 普伊爾伊護腕【ＺＰ】 |
+| 11226 | Piercing Light Arms | 貫光護腕 |
+| 11227 | Piercing Light F Arms | 貫光護腕【Ｆ】 |
+| 11228 | Piercing Light FZ Arms | 貫光護腕【ＦＺ】 |
+| 11229 | Piercing Light HS Arms | 貫光護腕【ＨＳ】 |
+| 11230 | Piercing Light GS Arms | 貫光護腕【ＧＳ】 |
+| 11231 | Piercing Light GP Arms | 貫光護腕【ＧＰ】 |
+| 11232 | Piercing Light ZP Arms | 貫光護腕【ＺＰ】 |
 | 11233 | Colour Axe Arms | 克歐爾歐護腕 |
 | 11234 | Colour Axe F Arms | 克歐爾歐護腕【Ｆ】 |
 | 11235 | Colour Axe FZ Arms | 克歐爾歐護腕【ＦＺ】 |
@@ -257,13 +257,13 @@
 | 11251 | Crush Gun GS Guard | 克烏夏烏臂甲【ＧＳ】 |
 | 11252 | Crush Gun GP Guard | 克烏夏烏臂甲【ＧＰ】 |
 | 11253 | Crush Gun ZP Guard | 克烏夏烏臂甲【ＺＰ】 |
-| 11254 | Bow Saint Guard | 布歐沃阿臂甲 |
-| 11255 | Bow Saint F Guard | 布歐沃阿臂甲【Ｆ】 |
-| 11256 | Bow Saint FZ Guard | 布歐沃阿臂甲【ＦＺ】 |
-| 11257 | Bow Saint HS Guard | 布歐沃阿臂甲【ＨＳ】 |
-| 11258 | Bow Saint GS Guard | 布歐沃阿臂甲【ＧＳ】 |
-| 11259 | Bow Saint GP Guard | 布歐沃阿臂甲【ＧＰ】 |
-| 11260 | Bow Saint ZP Guard | 布歐沃阿臂甲【ＺＰ】 |
+| 11254 | Bow Saint Guard | 斯阿恩臂甲 |
+| 11255 | Bow Saint F Guard | 斯阿恩臂甲【Ｆ】 |
+| 11256 | Bow Saint FZ Guard | 斯阿恩臂甲【ＦＺ】 |
+| 11257 | Bow Saint HS Guard | 斯阿恩臂甲【ＨＳ】 |
+| 11258 | Bow Saint GS Guard | 斯阿恩臂甲【ＧＳ】 |
+| 11259 | Bow Saint GP Guard | 斯阿恩臂甲【ＧＰ】 |
+| 11260 | Bow Saint ZP Guard | 斯阿恩臂甲【ＺＰ】 |
 | 11261 | Rantana Arms | 蘭塔納護腕 |
 | 11262 | Rantana F Arms | 蘭塔納護腕【Ｆ】 |
 | 11263 | Rantana FZ Arms | 蘭塔納護腕【ＦＺ】 |

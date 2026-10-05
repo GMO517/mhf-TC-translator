@@ -64,12 +64,12 @@
 | 9558 | Blue Kut Ku G Vest | 克烏特烏背心【Ｇ】・青 |
 | 9559 | Blue Kut Ku GF Vest | 克烏特烏背心【ＧＦ】・青 |
 | 9560 | Blue Kut Ku GX Vest | 克烏特烏背心【ＧＸ】・青 |
-| 9561 | Dreadrock G【胴当て】 | 恐岩鎧甲【Ｇ】 |
-| 9562 | Dreadrock GF【胴当て】 | 恐岩鎧甲【ＧＦ】 |
-| 9563 | Dreadrock GX【胴当て】 | 恐岩鎧甲【ＧＸ】 |
-| 9564 | Redrock G【胴当て】 | 赤岩鎧甲【Ｇ】 |
-| 9565 | Redrock GF【胴当て】 | 赤岩鎧甲【ＧＦ】 |
-| 9566 | Redrock GX【胴当て】 | 赤岩鎧甲【ＧＸ】 |
+| 9561 | Dreadrock G【胴当て】 | 恐岩胴當【Ｇ】 |
+| 9562 | Dreadrock GF【胴当て】 | 恐岩胴當【ＧＦ】 |
+| 9563 | Dreadrock GX【胴当て】 | 恐岩胴當【ＧＸ】 |
+| 9564 | Redrock G【胴当て】 | 赤岩胴當【Ｇ】 |
+| 9565 | Redrock GF【胴当て】 | 赤岩胴當【ＧＦ】 |
+| 9566 | Redrock GX【胴当て】 | 赤岩胴當【ＧＸ】 |
 | 9567 | Cielo Mail | 天空鎧甲 |
 | 9568 | Cielo F Mail | 天空鎧甲【Ｆ】 |
 | 9569 | Cielo FZ Mail | 天空鎧甲【ＦＺ】 |
@@ -186,12 +186,12 @@
 | 9680 | Guan G Vest | 關背心【Ｇ】 |
 | 9681 | Guan GF Vest | 關背心【ＧＦ】 |
 | 9682 | Guan GX Vest | 關背心【ＧＸ】 |
-| 9683 | Conqueror G【胴当て】 | 征服鎧甲【Ｇ】 |
-| 9684 | Conqueror GF【胴当て】 | 征服鎧甲【ＧＦ】 |
-| 9685 | Conqueror GX【胴当て】 | 征服鎧甲【ＧＸ】 |
-| 9686 | Emperor G【胴当て】 | 帝王鎧甲【Ｇ】 |
-| 9687 | Emperor GF【胴当て】 | 帝王鎧甲【ＧＦ】 |
-| 9688 | Emperor GX【胴当て】 | 帝王鎧甲【ＧＸ】 |
+| 9683 | Conqueror G【胴当て】 | 征服胴當【Ｇ】 |
+| 9684 | Conqueror GF【胴当て】 | 征服胴當【ＧＦ】 |
+| 9685 | Conqueror GX【胴当て】 | 征服胴當【ＧＸ】 |
+| 9686 | Emperor G【胴当て】 | 帝王胴當【Ｇ】 |
+| 9687 | Emperor GF【胴当て】 | 帝王胴當【ＧＦ】 |
+| 9688 | Emperor GX【胴当て】 | 帝王胴當【ＧＸ】 |
 | 9689 | Kushala G Diru | 鋼龍上衣【Ｇ】 |
 | 9690 | Kushala GF Diru | 鋼龍上衣【ＧＦ】 |
 | 9691 | Kushala GX Diru | 鋼龍上衣【ＧＸ】 |
@@ -322,9 +322,9 @@
 | 9816 | スフレHS Suit | 斯芙雷套裝【ＨＳ】 |
 | 9817 | スフレGS Suit | 斯芙雷套裝【ＧＳ】 |
 | 9818 | スフレGP Suit | 斯芙雷套裝【ＧＰ】 |
-| 9819 | Demon Tale ノ肩鎧G | 惡魔鎧甲【Ｇ】 |
-| 9820 | Demon Tale ノ肩鎧GF | 惡魔鎧甲【Ｆ】 |
-| 9821 | Demon Tale ノ肩鎧GX | 惡魔鎧甲【ＧＸ】 |
+| 9819 | Demon Tale ノ肩鎧G | 魔譚鎧甲【Ｇ】 |
+| 9820 | Demon Tale ノ肩鎧GF | 魔譚鎧甲【Ｆ】 |
+| 9821 | Demon Tale ノ肩鎧GX | 魔譚鎧甲【ＧＸ】 |
 | 9822 | 童伝ノ肩鎧G | 童伝肩鎧鎧甲 |
 | 9823 | 童伝ノ肩鎧GF | 童伝肩鎧鎧甲【Ｆ】 |
 | 9824 | 童伝ノ肩鎧GX | 童伝肩鎧鎧甲 |

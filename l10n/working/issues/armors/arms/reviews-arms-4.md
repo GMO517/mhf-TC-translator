@@ -158,10 +158,10 @@
 | 1652 | ダミー | (dummy) |
 | 1653 | Kagura FX【 Kote 】 | 神樂籠手【ＦＸ】 |
 | 1654 | Kamiza FX【 Kote 】 | 上座籠手【ＦＸ】 |
-| 1655 | Blue Sky Sleeve | 蒼天袖 |
-| 1656 | Blue Sky Sleeve・魁 | 魁袖・青 |
-| 1657 | Welkin Sleeve | 蒼穹袖 |
-| 1658 | Welkin Sleeve・魁 | 魁袖 |
+| 1655 | Blue Sky Sleeve | 蒼天袖・天 |
+| 1656 | Blue Sky Sleeve・魁 | 蒼天袖魁・天 |
+| 1657 | Welkin Sleeve | 穹蒼袖 |
+| 1658 | Welkin Sleeve・魁 | 穹蒼袖魁 |
 | 1659 | Breo Arms | 布艾護腕 |
 | 1660 | Breo F Arms | 布艾護腕【Ｆ】 |
 | 1661 | Vinen Arms | 芙伊恩艾護腕 |
@@ -214,50 +214,50 @@
 | 1708 | Miru F Arms | 姆伊爾烏護腕【Ｆ】 |
 | 1709 | Pasu Guard | 普阿斯烏臂甲 |
 | 1710 | Pasu F Guard | 普阿斯烏臂甲【Ｆ】 |
-| 1711 | Randa の Gauntlets・Yellow | の手甲・黄 |
+| 1711 | Randa の Gauntlets・Yellow | 爾阿恩阿手甲・黄 |
 | 1712 | 蘭蛮の Gauntlets・Yellow | 蘭蛮の手甲・黄 |
-| 1713 | Randa の Sleeve・Yellow | の袖・黄 |
+| 1713 | Randa の Sleeve・Yellow | 爾阿恩阿袖・黄 |
 | 1714 | 蘭蛮の Sleeve・Yellow | 蘭蛮の袖・黄 |
-| 1715 | Randa の Gauntlets・Red | の手甲・赤 |
+| 1715 | Randa の Gauntlets・Red | 爾阿恩阿手甲・赤 |
 | 1716 | 蘭蛮の Gauntlets・Red | 蘭蛮の手甲・赤 |
-| 1717 | Randa の Sleeve・Red | の袖・赤 |
+| 1717 | Randa の Sleeve・Red | 爾阿恩阿袖・赤 |
 | 1718 | 蘭蛮の Sleeve・Red | 蘭蛮の袖・赤 |
-| 1719 | Randa の Gauntlets・Purple | の手甲・紫 |
+| 1719 | Randa の Gauntlets・Purple | 爾阿恩阿手甲・紫 |
 | 1720 | 蘭蛮の Gauntlets・Purple | 蘭蛮の手甲・紫 |
-| 1721 | Randa の Sleeve・Purple | の袖・紫 |
+| 1721 | Randa の Sleeve・Purple | 爾阿恩阿袖・紫 |
 | 1722 | 蘭蛮の Sleeve・Purple | 蘭蛮の袖・紫 |
-| 1723 | Randa の Gauntlets・Gold | の手甲・金 |
+| 1723 | Randa の Gauntlets・Gold | 爾阿恩阿手甲・金 |
 | 1724 | 蘭蛮の Gauntlets・Gold | 蘭蛮の手甲・金 |
-| 1725 | Randa の Sleeve・Gold | の袖・金 |
+| 1725 | Randa の Sleeve・Gold | 爾阿恩阿袖・金 |
 | 1726 | 蘭蛮の Sleeve・Gold | 蘭蛮の袖・金 |
 | 1727 | 竜巻 Kote・Black | 竜巻籠手・黑 |
 | 1728 | 竜巻F Kote・Black | 竜巻籠手【Ｆ】・黑 |
-| 1729 | True 空 Kote・Black | 空籠手・黑 |
-| 1730 | True 空F Kote・Black | 空籠手【Ｆ】・黑 |
+| 1729 | True 空 Kote・Black | 真空籠手・黑 |
+| 1730 | True 空F Kote・Black | 真空籠手【Ｆ】・黑 |
 | 1731 | 千裂腕環・Black | 千裂腕環護腕・黑 |
 | 1732 | 千裂F腕環・Black | 千裂腕環護腕・黑 |
 | 1733 | 覇山腕環・Black | 覇山腕環護腕・黑 |
 | 1734 | 覇山F腕環・Black | 覇山腕環護腕・黑 |
 | 1735 | 竜巻 Kote・Tea | 竜巻籠手・茶 |
 | 1736 | 竜巻F Kote・Tea | 竜巻籠手【Ｆ】・茶 |
-| 1737 | True 空 Kote・Tea | 空籠手・茶 |
-| 1738 | True 空F Kote・Tea | 空籠手【Ｆ】・茶 |
+| 1737 | True 空 Kote・Tea | 真空籠手・茶 |
+| 1738 | True 空F Kote・Tea | 真空籠手【Ｆ】・茶 |
 | 1739 | 千裂腕環・Purple | 千裂腕環護腕・紫 |
 | 1740 | 千裂F腕環・Purple | 千裂腕環護腕・紫 |
 | 1741 | 覇山腕環・Purple | 覇山腕環護腕・紫 |
 | 1742 | 覇山F腕環・Purple | 覇山腕環護腕・紫 |
 | 1743 | 竜巻 Kote・White | 竜巻籠手・白 |
 | 1744 | 竜巻F Kote・White | 竜巻籠手【Ｆ】・白 |
-| 1745 | True 空 Kote・White | 空籠手・白 |
-| 1746 | True 空F Kote・White | 空籠手【Ｆ】・白 |
+| 1745 | True 空 Kote・White | 真空籠手・白 |
+| 1746 | True 空F Kote・White | 真空籠手【Ｆ】・白 |
 | 1747 | 千裂腕環・White | 千裂腕環護腕・白 |
 | 1748 | 千裂F腕環・White | 千裂腕環護腕・白 |
 | 1749 | 覇山腕環・White | 覇山腕環護腕・白 |
 | 1750 | 覇山F腕環・White | 覇山腕環護腕・白 |
 | 1751 | 竜巻 Kote・Blue | 竜巻籠手・青 |
 | 1752 | 竜巻F Kote・Blue | 竜巻籠手【Ｆ】・青 |
-| 1753 | True 空 Kote・Blue | 空籠手・青 |
-| 1754 | True 空F Kote・Blue | 空籠手【Ｆ】・青 |
+| 1753 | True 空 Kote・Blue | 真空籠手・青 |
+| 1754 | True 空F Kote・Blue | 真空籠手【Ｆ】・青 |
 | 1755 | 千裂腕環・Green | 千裂腕環護腕・緑 |
 | 1756 | 千裂F腕環・Green | 千裂腕環護腕・緑 |
 | 1757 | 覇山腕環・Green | 覇山腕環護腕・緑 |
@@ -274,10 +274,10 @@
 | 1768 | 旋風F Kote | 旋風籠手【Ｆ】 |
 | 1769 | 巴 Kote | 巴籠手 |
 | 1770 | 巴F Kote | 巴籠手【Ｆ】 |
-| 1771 | Heaven 空腕環 | 空腕環護腕・天 |
-| 1772 | Heaven 空F腕環 | 空腕環護腕・天 |
-| 1773 | Heaven 昇腕環 | 昇腕環護腕・天 |
-| 1774 | Heaven 昇F腕環 | 昇腕環護腕・天 |
+| 1771 | Heaven 空腕環 | 空腕環天護腕 |
+| 1772 | Heaven 空F腕環 | 空腕環天護腕 |
+| 1773 | Heaven 昇腕環 | 昇腕環天護腕 |
+| 1774 | Heaven 昇F腕環 | 昇腕環天護腕 |
 | 1775 | Jeamu Arms | 傑艾姆烏護腕 |
 | 1776 | Jeamu F Arms | 傑艾姆烏護腕【Ｆ】 |
 | 1777 | Amyusu Arms | 阿姆烏斯護腕 |
@@ -310,7 +310,7 @@
 | 1804 | Buran F Arms | 布烏爾阿護腕【Ｆ】 |
 | 1805 | Zwinger Arms | 茲伊恩艾護腕 |
 | 1806 | Zwinger Guard | 茲伊恩艾臂甲 |
-| 1807 | Demon Lord Kote・魁 | 魁籠手 |
+| 1807 | Demon Lord Kote・魁 | 魔王籠手魁 |
 | 1808 | 童子ノ Kote・魁 | 童子魁籠手 |
 | 1809 | Melan F Arms | 紫黑護腕【Ｆ】 |
 | 1810 | Melan F Guard | 紫黑臂甲【Ｆ】 |
@@ -445,7 +445,7 @@
 | 1939 | Diina Arms | 德伊恩阿護腕 |
 | 1940 | Diina F Arms | 德伊恩阿護腕【Ｆ】 |
 | 1941 | True Shadow Sleeve | 真影袖 |
-| 1942 | True Shadow Sleeve・魁 | 魁袖 |
+| 1942 | True Shadow Sleeve・魁 | 真影袖魁 |
 | 1943 | 翔影ノ袖 | 翔影袖護腕 |
 | 1944 | 翔影ノ袖・魁 | 翔影袖魁護腕 |
 | 1945 | Black Tiger Sleeve | 黑虎袖 |
@@ -464,10 +464,10 @@
 | 1958 | Galitos F Arms・Black | 加里托斯護腕【Ｆ】・黑 |
 | 1959 | Galitos Guard・Black | 加里托斯臂甲・黑 |
 | 1960 | Galitos F Guard・Black | 加里托斯臂甲【Ｆ】・黑 |
-| 1961 | Galitos Arms・Water | 加里托斯水護腕 |
-| 1962 | Galitos F Arms・Water | 加里托斯水護腕【Ｆ】 |
-| 1963 | Galitos Guard・Water | 加里托斯水臂甲 |
-| 1964 | Galitos F Guard・Water | 加里托斯水臂甲【Ｆ】 |
+| 1961 | Galitos Arms・Water | 加里托斯護腕・水 |
+| 1962 | Galitos F Arms・Water | 加里托斯護腕【Ｆ】・水 |
+| 1963 | Galitos Guard・Water | 加里托斯臂甲・水 |
+| 1964 | Galitos F Guard・Water | 加里托斯臂甲【Ｆ】・水 |
 | 1965 | Riburi Arms | 里布里護腕 |
 | 1966 | Riburi F Arms | 里布里護腕【Ｆ】 |
 | 1967 | Riburi FZ Arms | 里布里護腕【ＦＺ】 |

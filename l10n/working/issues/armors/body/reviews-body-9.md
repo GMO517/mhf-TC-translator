@@ -138,12 +138,12 @@
 | 4132 | Galitos HC Suit・Black | 加里托斯套裝【ＨＣ】・黑 |
 | 4133 | Galitos HS Suit・Black | 加里托斯套裝【ＨＳ】・黑 |
 | 4134 | Galitos GS Suit・Black | 加里托斯套裝【ＧＳ】・黑 |
-| 4135 | Galitos HC Vest・Water | 加里托斯水背心【ＨＣ】 |
-| 4136 | Galitos HS Vest・Water | 加里托斯水背心【ＨＳ】 |
-| 4137 | Galitos GS Vest・Water | 加里托斯水背心【ＧＳ】 |
-| 4138 | Galitos HC Suit・Water | 加里托斯水套裝【ＨＣ】 |
-| 4139 | Galitos HS Suit・Water | 加里托斯水套裝【ＨＳ】 |
-| 4140 | Galitos GS Suit・Water | 加里托斯水套裝【ＧＳ】 |
+| 4135 | Galitos HC Vest・Water | 加里托斯背心【ＨＣ】・水 |
+| 4136 | Galitos HS Vest・Water | 加里托斯背心【ＨＳ】・水 |
+| 4137 | Galitos GS Vest・Water | 加里托斯背心【ＧＳ】・水 |
+| 4138 | Galitos HC Suit・Water | 加里托斯套裝【ＨＣ】・水 |
+| 4139 | Galitos HS Suit・Water | 加里托斯套裝【ＨＳ】・水 |
+| 4140 | Galitos GS Suit・Water | 加里托斯套裝【ＧＳ】・水 |
 | 4141 | Star Festival FZ Shozoku [Blue 】 | 星祭裝束【ＦＺ】・青 |
 | 4142 | Star Festival HC Shozoku [Blue 】 | 星祭裝束【ＨＣ】・青 |
 | 4143 | Star Festival HS Shozoku [Blue 】 | 星祭裝束【ＨＳ】・青 |
@@ -232,12 +232,12 @@
 | 4226 | Beru G Vest | 舞雷龍背心【Ｇ】 |
 | 4227 | Beru GF Vest | 舞雷龍背心【ＧＦ】 |
 | 4228 | Beru GX Vest | 舞雷龍背心【ＧＸ】 |
-| 4229 | Black Gravios G Mail | 鎧龍鎧甲【Ｇ】・黑 |
-| 4230 | Black Gravios GF Mail | 鎧龍鎧甲【ＧＦ】・黑 |
-| 4231 | Black Gravios GX Mail | 鎧龍鎧甲【ＧＸ】・黑 |
-| 4232 | Black Gravios G Vest | 鎧龍背心【Ｇ】・黑 |
-| 4233 | Black Gravios GF Vest | 鎧龍背心【ＧＦ】・黑 |
-| 4234 | Black Gravios GX Vest | 鎧龍背心【ＧＸ】・黑 |
+| 4229 | Black Gravios G Mail | 黑鎧龍鎧甲【Ｇ】 |
+| 4230 | Black Gravios GF Mail | 黑鎧龍鎧甲【ＧＦ】 |
+| 4231 | Black Gravios GX Mail | 黑鎧龍鎧甲【ＧＸ】 |
+| 4232 | Black Gravios G Vest | 黑鎧龍背心【Ｇ】 |
+| 4233 | Black Gravios GF Vest | 黑鎧龍背心【ＧＦ】 |
+| 4234 | Black Gravios GX Vest | 黑鎧龍背心【ＧＸ】 |
 | 4235 | Lune G Mail | 月鎧甲【Ｇ】 |
 | 4236 | Lune GF Mail | 月鎧甲【ＧＦ】 |
 | 4237 | Lune GX Mail | 月鎧甲【ＧＸ】 |
@@ -414,18 +414,18 @@
 | 4408 | Genom HS Vest・Green | 基因組背心【ＨＳ】・緑 |
 | 4409 | Genom GS Vest・Green | 基因組背心【ＧＳ】・緑 |
 | 4410 | Genom GP Vest・Green | 基因組背心【ＧＰ】・緑 |
-| 4411 | Genom Suit・Water | 基因組水套裝 |
-| 4412 | Genom F Suit・Water | 基因組水套裝【Ｆ】 |
-| 4413 | Genom FZ Suit・Water | 基因組水套裝【ＦＺ】 |
-| 4414 | Genom HS Suit・Water | 基因組水套裝【ＨＳ】 |
-| 4415 | Genom GS Suit・Water | 基因組水套裝【ＧＳ】 |
-| 4416 | Genom GP Suit・Water | 基因組水套裝【ＧＰ】 |
-| 4417 | Genom Vest・Water | 基因組水背心 |
-| 4418 | Genom F Vest・Water | 基因組水背心【Ｆ】 |
-| 4419 | Genom FZ Vest・Water | 基因組水背心【ＦＺ】 |
-| 4420 | Genom HS Vest・Water | 基因組水背心【ＨＳ】 |
-| 4421 | Genom GS Vest・Water | 基因組水背心【ＧＳ】 |
-| 4422 | Genom GP Vest・Water | 基因組水背心【ＧＰ】 |
+| 4411 | Genom Suit・Water | 基因組套裝・水 |
+| 4412 | Genom F Suit・Water | 基因組套裝【Ｆ】・水 |
+| 4413 | Genom FZ Suit・Water | 基因組套裝【ＦＺ】・水 |
+| 4414 | Genom HS Suit・Water | 基因組套裝【ＨＳ】・水 |
+| 4415 | Genom GS Suit・Water | 基因組套裝【ＧＳ】・水 |
+| 4416 | Genom GP Suit・Water | 基因組套裝【ＧＰ】・水 |
+| 4417 | Genom Vest・Water | 基因組背心・水 |
+| 4418 | Genom F Vest・Water | 基因組背心【Ｆ】・水 |
+| 4419 | Genom FZ Vest・Water | 基因組背心【ＦＺ】・水 |
+| 4420 | Genom HS Vest・Water | 基因組背心【ＨＳ】・水 |
+| 4421 | Genom GS Vest・Water | 基因組背心【ＧＳ】・水 |
+| 4422 | Genom GP Vest・Water | 基因組背心【ＧＰ】・水 |
 | 4423 | Genom Suit・Red | 基因組套裝・赤 |
 | 4424 | Genom F Suit・Red | 基因組套裝【Ｆ】・赤 |
 | 4425 | Genom FZ Suit・Red | 基因組套裝【ＦＺ】・赤 |

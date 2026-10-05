@@ -160,12 +160,12 @@
 | 9154 | Monodevil G Guard | 單眼惡魔臂甲【Ｇ】 |
 | 9155 | Monodevil GF Guard | 單眼惡魔臂甲【ＧＦ】 |
 | 9156 | Monodevil GX Guard | 單眼惡魔臂甲【ＧＸ】 |
-| 9157 | Black Diablos G Arms | 角龍護腕【Ｇ】・黑 |
-| 9158 | Black Diablos GF Arms | 角龍護腕【ＧＦ】・黑 |
-| 9159 | Black Diablos GX Arms | 角龍護腕【ＧＸ】・黑 |
-| 9160 | Black Diablos G Guard | 角龍臂甲【Ｇ】・黑 |
-| 9161 | Black Diablos GF Guard | 角龍臂甲【ＧＦ】・黑 |
-| 9162 | Black Diablos GX Guard | 角龍臂甲【ＧＸ】・黑 |
+| 9157 | Black Diablos G Arms | 黑角龍護腕【Ｇ】 |
+| 9158 | Black Diablos GF Arms | 黑角龍護腕【ＧＦ】 |
+| 9159 | Black Diablos GX Arms | 黑角龍護腕【ＧＸ】 |
+| 9160 | Black Diablos G Guard | 黑角龍臂甲【Ｇ】 |
+| 9161 | Black Diablos GF Guard | 黑角龍臂甲【ＧＦ】 |
+| 9162 | Black Diablos GX Guard | 黑角龍臂甲【ＧＸ】 |
 | 9163 | Wadatsumi GX [Sleeves 】 | 綿津見袖【ＧＸ】 |
 | 9164 | Okami GX [Sleeves 】 | 狼袖【ＧＸ】 |
 | 9165 | Odiva GX Arms | 奧蒂瓦護腕【ＧＸ】 |
@@ -252,12 +252,12 @@
 | 9246 | Raviente G Guard | 大巖龍臂甲【Ｇ】 |
 | 9247 | Raviente GF Guard | 大巖龍臂甲【ＧＦ】 |
 | 9248 | Raviente GX Guard | 大巖龍臂甲【ＧＸ】 |
-| 9249 | White Hypnoc G Arms | 眠鳥護腕【Ｇ】・白 |
-| 9250 | White Hypnoc GF Arms | 眠鳥護腕【ＧＦ】・白 |
-| 9251 | White Hypnoc GX Arms | 眠鳥護腕【ＧＸ】・白 |
-| 9252 | White Hypnoc G Guard | 眠鳥臂甲【Ｇ】・白 |
-| 9253 | White Hypnoc GF Guard | 眠鳥臂甲【ＧＦ】・白 |
-| 9254 | White Hypnoc GX Guard | 眠鳥臂甲【ＧＸ】・白 |
+| 9249 | White Hypnoc G Arms | 白眠鳥護腕【Ｇ】 |
+| 9250 | White Hypnoc GF Arms | 白眠鳥護腕【ＧＦ】 |
+| 9251 | White Hypnoc GX Arms | 白眠鳥護腕【ＧＸ】 |
+| 9252 | White Hypnoc G Guard | 白眠鳥臂甲【Ｇ】 |
+| 9253 | White Hypnoc GF Guard | 白眠鳥臂甲【ＧＦ】 |
+| 9254 | White Hypnoc GX Guard | 白眠鳥臂甲【ＧＸ】 |
 | 9255 | Vichi Arms | 維奇護腕 |
 | 9256 | Vichi F Arms | 維奇護腕【Ｆ】 |
 | 9257 | Vichi FZ Arms | 維奇護腕【ＦＺ】 |
@@ -359,13 +359,13 @@
 | 9353 | Plug GS Guard:02 | 插頭臂甲【ＧＳ】 |
 | 9354 | Plug GP Guard:02 | 插頭臂甲【ＧＰ】 |
 | 9355 | Mark.06 Arms | 馬克06護腕 |
-| 9356 | Mark.06F Arms | 護腕 |
+| 9356 | Mark.06F Arms | 馬克06護腕 |
 | 9357 | Mark.06FZ Arms | 馬克06護腕【ＦＺ】 |
 | 9358 | Mark.06HS Arms | 馬克06護腕【ＨＳ】 |
 | 9359 | Mark.06GS Arms | 馬克06護腕【ＧＳ】 |
 | 9360 | Mark.06GP Arms | 馬克06護腕【ＧＰ】 |
 | 9361 | Mark.06 Guard | 馬克06臂甲 |
-| 9362 | Mark.06F Guard | 臂甲 |
+| 9362 | Mark.06F Guard | 馬克06臂甲 |
 | 9363 | Mark.06FZ Guard | 馬克06臂甲【ＦＺ】 |
 | 9364 | Mark.06HS Guard | 馬克06臂甲【ＨＳ】 |
 | 9365 | Mark.06GS Guard | 馬克06臂甲【ＧＳ】 |

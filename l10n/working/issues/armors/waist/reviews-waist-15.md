@@ -93,21 +93,21 @@
 | 7087 | Wind GFアドミ | 風腰甲 |
 | 7088 | 武者GF【腰当て】 | 武者腰當【Ｆ】 |
 | 7089 | 日光GF【腰当て】 | 日光腰當【Ｆ】 |
-| 7090 | White 蘭・Kensei Coil | 蘭腰甲・白 |
-| 7091 | White 蘭・Kensei F Coil | 蘭腰甲【Ｆ】・白 |
-| 7092 | White 蘭・Kensei FX Coil | 蘭腰甲【ＦＸ】・白 |
-| 7093 | Crimson 霞・Kensei Coil | 霞腰甲・紅 |
-| 7094 | Crimson 霞・Kensei F Coil | 霞腰甲【Ｆ】・紅 |
-| 7095 | Crimson 霞・Kensei FX Coil | 霞腰甲【ＦＸ】・紅 |
-| 7096 | White 蘭・Kensei G Coil | 蘭腰甲【Ｇ】・白 |
-| 7097 | White 蘭・Kensei GF Coil | 蘭腰甲【ＧＦ】・白 |
-| 7098 | White 蘭・Kensei GX Coil | 蘭腰甲【ＧＸ】・白 |
+| 7090 | White 蘭・Kensei Coil | 白蘭劍聖腰甲 |
+| 7091 | White 蘭・Kensei F Coil | 白蘭劍聖腰甲【Ｆ】 |
+| 7092 | White 蘭・Kensei FX Coil | 白蘭劍聖腰甲【ＦＸ】 |
+| 7093 | Crimson 霞・Kensei Coil | 紅霞劍聖腰甲 |
+| 7094 | Crimson 霞・Kensei F Coil | 紅霞劍聖腰甲【Ｆ】 |
+| 7095 | Crimson 霞・Kensei FX Coil | 紅霞劍聖腰甲【ＦＸ】 |
+| 7096 | White 蘭・Kensei G Coil | 白蘭劍聖腰甲【Ｇ】 |
+| 7097 | White 蘭・Kensei GF Coil | 白蘭劍聖腰甲【ＧＦ】 |
+| 7098 | White 蘭・Kensei GX Coil | 白蘭劍聖腰甲【ＧＸ】 |
 | 7099 | 月夜・Kensei G Coil | 月夜腰甲【Ｇ】 |
 | 7100 | 月夜・Kensei GF Coil | 月夜腰甲【ＧＦ】 |
 | 7101 | 月夜・Kensei GX Coil | 月夜腰甲【ＧＸ】 |
-| 7102 | Crimson 霞・Kensei G Coil | 霞腰甲【Ｇ】・紅 |
-| 7103 | Crimson 霞・Kensei GF Coil | 霞腰甲【ＧＦ】・紅 |
-| 7104 | Crimson 霞・Kensei GX Coil | 霞腰甲【ＧＸ】・紅 |
+| 7102 | Crimson 霞・Kensei G Coil | 紅霞劍聖腰甲【Ｇ】 |
+| 7103 | Crimson 霞・Kensei GF Coil | 紅霞劍聖腰甲【ＧＦ】 |
+| 7104 | Crimson 霞・Kensei GX Coil | 紅霞劍聖腰甲【ＧＸ】 |
 | 7105 | Green 穹・Kensei G Coil | 穹腰甲【Ｇ】・緑 |
 | 7106 | Green 穹・Kensei GF Coil | 穹腰甲【ＧＦ】・緑 |
 | 7107 | Green 穹・Kensei GX Coil | 穹腰甲【ＧＸ】・緑 |
@@ -201,24 +201,24 @@
 | 7195 | Green 穹・奏帝G Coil | 穹奏帝腰甲・緑 |
 | 7196 | Green 穹・奏帝GF Coil | 穹奏帝腰甲【Ｆ】・緑 |
 | 7197 | Green 穹・奏帝GX Coil | 穹奏帝腰甲・緑 |
-| 7198 | White 蘭・Heaven 槍 Coil | 蘭槍腰甲・白・天 |
-| 7199 | White 蘭・Heaven 槍F Coil | 蘭槍腰甲【Ｆ】・白・天 |
-| 7200 | White 蘭・Heaven 槍FX Coil | 蘭槍腰甲【ＦＸ】・白・天 |
-| 7201 | Crimson 霞・Heaven 槍 Coil | 霞槍腰甲・紅・天 |
-| 7202 | Crimson 霞・Heaven 槍F Coil | 霞槍腰甲【Ｆ】・紅・天 |
-| 7203 | Crimson 霞・Heaven 槍FX Coil | 霞槍腰甲【ＦＸ】・紅・天 |
-| 7204 | White 蘭・Heaven 槍G Coil | 蘭槍腰甲【Ｇ】・白・天 |
-| 7205 | White 蘭・Heaven 槍GF Coil | 蘭槍腰甲【Ｆ】・白・天 |
-| 7206 | White 蘭・Heaven 槍GX Coil | 蘭槍腰甲【ＧＸ】・白・天 |
+| 7198 | White 蘭・Heaven 槍 Coil | 蘭槍天腰甲・白 |
+| 7199 | White 蘭・Heaven 槍F Coil | 蘭槍天腰甲【Ｆ】・白 |
+| 7200 | White 蘭・Heaven 槍FX Coil | 蘭槍天腰甲【ＦＸ】・白 |
+| 7201 | Crimson 霞・Heaven 槍 Coil | 霞槍天腰甲・紅 |
+| 7202 | Crimson 霞・Heaven 槍F Coil | 霞槍天腰甲【Ｆ】・紅 |
+| 7203 | Crimson 霞・Heaven 槍FX Coil | 霞槍天腰甲【ＦＸ】・紅 |
+| 7204 | White 蘭・Heaven 槍G Coil | 蘭槍天腰甲【Ｇ】・白 |
+| 7205 | White 蘭・Heaven 槍GF Coil | 蘭槍天腰甲【Ｆ】・白 |
+| 7206 | White 蘭・Heaven 槍GX Coil | 蘭槍天腰甲【ＧＸ】・白 |
 | 7207 | 月夜・Heaven 槍G Coil | 月夜槍腰甲・天 |
-| 7208 | 月夜・Heaven 槍GF Coil | 月夜槍腰甲【Ｆ】・天 |
+| 7208 | 月夜・Heaven 槍GF Coil | 月夜槍天腰甲【Ｆ】 |
 | 7209 | 月夜・Heaven 槍GX Coil | 月夜槍腰甲・天 |
-| 7210 | Crimson 霞・Heaven 槍G Coil | 霞槍腰甲【Ｇ】・紅・天 |
-| 7211 | Crimson 霞・Heaven 槍GF Coil | 霞槍腰甲【Ｆ】・紅・天 |
-| 7212 | Crimson 霞・Heaven 槍GX Coil | 霞槍腰甲【ＧＸ】・紅・天 |
-| 7213 | Green 穹・Heaven 槍G Coil | 穹槍腰甲・緑・天 |
-| 7214 | Green 穹・Heaven 槍GF Coil | 穹槍腰甲【Ｆ】・緑・天 |
-| 7215 | Green 穹・Heaven 槍GX Coil | 穹槍腰甲・緑・天 |
+| 7210 | Crimson 霞・Heaven 槍G Coil | 霞槍天腰甲【Ｇ】・紅 |
+| 7211 | Crimson 霞・Heaven 槍GF Coil | 霞槍天腰甲【Ｆ】・紅 |
+| 7212 | Crimson 霞・Heaven 槍GX Coil | 霞槍天腰甲【ＧＸ】・紅 |
+| 7213 | Green 穹・Heaven 槍G Coil | 穹槍腰甲緑・天 |
+| 7214 | Green 穹・Heaven 槍GF Coil | 穹槍天腰甲【Ｆ】・緑 |
+| 7215 | Green 穹・Heaven 槍GX Coil | 穹槍腰甲緑・天 |
 | 7216 | White 蘭・砲皇 Coil | 蘭砲皇腰甲・白 |
 | 7217 | White 蘭・砲皇F Coil | 蘭砲皇腰甲【Ｆ】・白 |
 | 7218 | White 蘭・砲皇FX Coil | 蘭砲皇腰甲【ＦＸ】・白 |
@@ -477,31 +477,31 @@
 | 7471 | Oyun HS Coat・White | 歐雲腰衣【ＨＳ】・白 |
 | 7472 | Oyun GS Coat・White | 歐雲腰衣【ＧＳ】・白 |
 | 7473 | Oyun GP Coat・White | 歐雲腰衣【ＧＰ】・白 |
-| 7474 | Ash Coil・Red | 腰甲・灰・赤 |
-| 7475 | Ash F Coil・Red | 腰甲【Ｆ】・灰・赤 |
-| 7476 | Ash FZ Coil・Red | 腰甲【ＦＺ】・灰・赤 |
-| 7477 | Ash HS Coil・Red | 腰甲【ＨＳ】・灰・赤 |
-| 7478 | Ash GS Coil・Red | 腰甲【ＧＳ】・灰・赤 |
-| 7479 | Ash GP Coil・Red | 腰甲【ＧＰ】・灰・赤 |
-| 7480 | Ash Coat・Red | 腰衣・灰・赤 |
-| 7481 | Ash F Coat・Red | 腰衣【Ｆ】・灰・赤 |
-| 7482 | Ash FZ Coat・Red | 腰衣【ＦＺ】・灰・赤 |
-| 7483 | Ash HS Coat・Red | 腰衣【ＨＳ】・灰・赤 |
-| 7484 | Ash GS Coat・Red | 腰衣【ＧＳ】・灰・赤 |
-| 7485 | Ash GP Coat・Red | 腰衣【ＧＰ】・灰・赤 |
-| 7486 | Ash Coil・Blue | 腰甲・灰・青 |
-| 7487 | Ash F Coil・Blue | 腰甲【Ｆ】・灰・青 |
-| 7488 | Ash FZ Coil・Blue | 腰甲【ＦＺ】・灰・青 |
-| 7489 | Ash HS Coil・Blue | 腰甲【ＨＳ】・灰・青 |
-| 7490 | Ash GS Coil・Blue | 腰甲【ＧＳ】・灰・青 |
-| 7491 | Ash GP Coil・Blue | 腰甲【ＧＰ】・灰・青 |
-| 7492 | Ash Coat・Blue | 腰衣・灰・青 |
-| 7493 | Ash F Coat・Blue | 腰衣【Ｆ】・灰・青 |
-| 7494 | Ash FZ Coat・Blue | 腰衣【ＦＺ】・灰・青 |
-| 7495 | Ash HS Coat・Blue | 腰衣【ＨＳ】・灰・青 |
-| 7496 | Ash GS Coat・Blue | 腰衣【ＧＳ】・灰・青 |
-| 7497 | Ash GP Coat・Blue | 腰衣【ＧＰ】・灰・青 |
-| 7498 | Ash Coil・White | 腰甲・灰・白 |
-| 7499 | Ash F Coil・White | 腰甲【Ｆ】・灰・白 |
-| 7500 | Ash FZ Coil・White | 腰甲【ＦＺ】・灰・白 |
+| 7474 | Ash Coil・Red | 腰甲灰・赤 |
+| 7475 | Ash F Coil・Red | 腰甲【Ｆ】灰・赤 |
+| 7476 | Ash FZ Coil・Red | 腰甲【ＦＺ】灰・赤 |
+| 7477 | Ash HS Coil・Red | 腰甲【ＨＳ】灰・赤 |
+| 7478 | Ash GS Coil・Red | 腰甲【ＧＳ】灰・赤 |
+| 7479 | Ash GP Coil・Red | 腰甲【ＧＰ】灰・赤 |
+| 7480 | Ash Coat・Red | 腰衣灰・赤 |
+| 7481 | Ash F Coat・Red | 腰衣【Ｆ】灰・赤 |
+| 7482 | Ash FZ Coat・Red | 腰衣【ＦＺ】灰・赤 |
+| 7483 | Ash HS Coat・Red | 腰衣【ＨＳ】灰・赤 |
+| 7484 | Ash GS Coat・Red | 腰衣【ＧＳ】灰・赤 |
+| 7485 | Ash GP Coat・Red | 腰衣【ＧＰ】灰・赤 |
+| 7486 | Ash Coil・Blue | 腰甲灰・青 |
+| 7487 | Ash F Coil・Blue | 腰甲【Ｆ】灰・青 |
+| 7488 | Ash FZ Coil・Blue | 腰甲【ＦＺ】灰・青 |
+| 7489 | Ash HS Coil・Blue | 腰甲【ＨＳ】灰・青 |
+| 7490 | Ash GS Coil・Blue | 腰甲【ＧＳ】灰・青 |
+| 7491 | Ash GP Coil・Blue | 腰甲【ＧＰ】灰・青 |
+| 7492 | Ash Coat・Blue | 腰衣灰・青 |
+| 7493 | Ash F Coat・Blue | 腰衣【Ｆ】灰・青 |
+| 7494 | Ash FZ Coat・Blue | 腰衣【ＦＺ】灰・青 |
+| 7495 | Ash HS Coat・Blue | 腰衣【ＨＳ】灰・青 |
+| 7496 | Ash GS Coat・Blue | 腰衣【ＧＳ】灰・青 |
+| 7497 | Ash GP Coat・Blue | 腰衣【ＧＰ】灰・青 |
+| 7498 | Ash Coil・White | 腰甲灰・白 |
+| 7499 | Ash F Coil・White | 腰甲【Ｆ】灰・白 |
+| 7500 | Ash FZ Coil・White | 腰甲【ＦＺ】灰・白 |
 

@@ -27,54 +27,54 @@
 | 6521 | Ex HS Haar・Black | 艾克斯髮【ＨＳ】・黑 |
 | 6522 | Ex GS Haar・Black | 艾克斯髮【ＧＳ】・黑 |
 | 6523 | Ex GP Haar・Black | 艾克斯髮【ＧＰ】・黑 |
-| 6524 | Gold Cat FZ Head | 猫頭兜【ＦＺ】・金 |
-| 6525 | Gold Cat HS Head | 猫頭兜【ＨＳ】・金 |
-| 6526 | Gold Cat GS Head | 猫頭兜【ＧＳ】・金 |
-| 6527 | Gold Cat GP Head | 猫頭兜【ＧＰ】・金 |
-| 6528 | Gold Cat FZ Haar | 猫髮【ＦＺ】・金 |
-| 6529 | Gold Cat HS Haar | 猫髮【ＨＳ】・金 |
-| 6530 | Gold Cat GS Haar | 猫髮【ＧＳ】・金 |
-| 6531 | Gold Cat GP Haar | 猫髮【ＧＰ】・金 |
-| 6532 | Silver Cat FZ Head | 猫頭兜【ＦＺ】・銀 |
-| 6533 | Silver Cat HS Head | 猫頭兜【ＨＳ】・銀 |
-| 6534 | Silver Cat GS Head | 猫頭兜【ＧＳ】・銀 |
-| 6535 | Silver Cat GP Head | 猫頭兜【ＧＰ】・銀 |
-| 6536 | Silver Cat FZ Haar | 猫髮【ＦＺ】・銀 |
-| 6537 | Silver Cat HS Haar | 猫髮【ＨＳ】・銀 |
-| 6538 | Silver Cat GS Haar | 猫髮【ＧＳ】・銀 |
-| 6539 | Silver Cat GP Haar | 猫髮【ＧＰ】・銀 |
-| 6540 | Claire FZ Head・Purple | 克蕾兒頭兜【ＦＺ】・紫 |
-| 6541 | Claire HS Head・Purple | 克蕾兒頭兜【ＨＳ】・紫 |
-| 6542 | Claire GS Head・Purple | 克蕾兒頭兜【ＧＳ】・紫 |
-| 6543 | Claire GP Head・Purple | 克蕾兒頭兜【ＧＰ】・紫 |
-| 6544 | Claire FZ Piercing・Purple | 克蕾兒耳飾【ＦＺ】・紫 |
-| 6545 | Claire HS Piercing・Purple | 克蕾兒耳飾【ＨＳ】・紫 |
-| 6546 | Claire GS Piercing・Purple | 克蕾兒耳飾【ＧＳ】・紫 |
-| 6547 | Claire GP Piercing・Purple | 克蕾兒耳飾【ＧＰ】・紫 |
-| 6548 | Claire FZ Head・Water | 克蕾兒水頭兜【ＦＺ】 |
-| 6549 | Claire HS Head・Water | 克蕾兒水頭兜【ＨＳ】 |
-| 6550 | Claire GS Head・Water | 克蕾兒水頭兜【ＧＳ】 |
-| 6551 | Claire GP Head・Water | 克蕾兒水頭兜【ＧＰ】 |
-| 6552 | Claire FZ Piercing・Water | 克蕾兒水耳飾【ＦＺ】 |
-| 6553 | Claire HS Piercing・Water | 克蕾兒水耳飾【ＨＳ】 |
-| 6554 | Claire GS Piercing・Water | 克蕾兒水耳飾【ＧＳ】 |
-| 6555 | Claire GP Piercing・Water | 克蕾兒水耳飾【ＧＰ】 |
-| 6556 | Claire FZ Head・Red | 克蕾兒頭兜【ＦＺ】・赤 |
-| 6557 | Claire HS Head・Red | 克蕾兒頭兜【ＨＳ】・赤 |
-| 6558 | Claire GS Head・Red | 克蕾兒頭兜【ＧＳ】・赤 |
-| 6559 | Claire GP Head・Red | 克蕾兒頭兜【ＧＰ】・赤 |
-| 6560 | Claire FZ Piercing・Red | 克蕾兒耳飾【ＦＺ】・赤 |
-| 6561 | Claire HS Piercing・Red | 克蕾兒耳飾【ＨＳ】・赤 |
-| 6562 | Claire GS Piercing・Red | 克蕾兒耳飾【ＧＳ】・赤 |
-| 6563 | Claire GP Piercing・Red | 克蕾兒耳飾【ＧＰ】・赤 |
-| 6564 | Claire FZ Head・Black | 克蕾兒頭兜【ＦＺ】・黑 |
-| 6565 | Claire HS Head・Black | 克蕾兒頭兜【ＨＳ】・黑 |
-| 6566 | Claire GS Head・Black | 克蕾兒頭兜【ＧＳ】・黑 |
-| 6567 | Claire GP Head・Black | 克蕾兒頭兜【ＧＰ】・黑 |
-| 6568 | Claire FZ Piercing・Black | 克蕾兒耳飾【ＦＺ】・黑 |
-| 6569 | Claire HS Piercing・Black | 克蕾兒耳飾【ＨＳ】・黑 |
-| 6570 | Claire GS Piercing・Black | 克蕾兒耳飾【ＧＳ】・黑 |
-| 6571 | Claire GP Piercing・Black | 克蕾兒耳飾【ＧＰ】・黑 |
+| 6524 | Gold Cat FZ Head | 金猫頭兜【ＦＺ】 |
+| 6525 | Gold Cat HS Head | 金猫頭兜【ＨＳ】 |
+| 6526 | Gold Cat GS Head | 金猫頭兜【ＧＳ】 |
+| 6527 | Gold Cat GP Head | 金猫頭兜【ＧＰ】 |
+| 6528 | Gold Cat FZ Haar | 金猫髮【ＦＺ】 |
+| 6529 | Gold Cat HS Haar | 金猫髮【ＨＳ】 |
+| 6530 | Gold Cat GS Haar | 金猫髮【ＧＳ】 |
+| 6531 | Gold Cat GP Haar | 金猫髮【ＧＰ】 |
+| 6532 | Silver Cat FZ Head | 銀猫頭兜【ＦＺ】 |
+| 6533 | Silver Cat HS Head | 銀猫頭兜【ＨＳ】 |
+| 6534 | Silver Cat GS Head | 銀猫頭兜【ＧＳ】 |
+| 6535 | Silver Cat GP Head | 銀猫頭兜【ＧＰ】 |
+| 6536 | Silver Cat FZ Haar | 銀猫髮【ＦＺ】 |
+| 6537 | Silver Cat HS Haar | 銀猫髮【ＨＳ】 |
+| 6538 | Silver Cat GS Haar | 銀猫髮【ＧＳ】 |
+| 6539 | Silver Cat GP Haar | 銀猫髮【ＧＰ】 |
+| 6540 | Claire FZ Head・Purple | 克蕾爾頭兜【ＦＺ】・紫 |
+| 6541 | Claire HS Head・Purple | 克蕾爾頭兜【ＨＳ】・紫 |
+| 6542 | Claire GS Head・Purple | 克蕾爾頭兜【ＧＳ】・紫 |
+| 6543 | Claire GP Head・Purple | 克蕾爾頭兜【ＧＰ】・紫 |
+| 6544 | Claire FZ Piercing・Purple | 克蕾爾耳飾【ＦＺ】・紫 |
+| 6545 | Claire HS Piercing・Purple | 克蕾爾耳飾【ＨＳ】・紫 |
+| 6546 | Claire GS Piercing・Purple | 克蕾爾耳飾【ＧＳ】・紫 |
+| 6547 | Claire GP Piercing・Purple | 克蕾爾耳飾【ＧＰ】・紫 |
+| 6548 | Claire FZ Head・Water | 克蕾爾頭兜【ＦＺ】・水 |
+| 6549 | Claire HS Head・Water | 克蕾爾頭兜【ＨＳ】・水 |
+| 6550 | Claire GS Head・Water | 克蕾爾頭兜【ＧＳ】・水 |
+| 6551 | Claire GP Head・Water | 克蕾爾頭兜【ＧＰ】・水 |
+| 6552 | Claire FZ Piercing・Water | 克蕾爾耳飾【ＦＺ】・水 |
+| 6553 | Claire HS Piercing・Water | 克蕾爾耳飾【ＨＳ】・水 |
+| 6554 | Claire GS Piercing・Water | 克蕾爾耳飾【ＧＳ】・水 |
+| 6555 | Claire GP Piercing・Water | 克蕾爾耳飾【ＧＰ】・水 |
+| 6556 | Claire FZ Head・Red | 克蕾爾頭兜【ＦＺ】・赤 |
+| 6557 | Claire HS Head・Red | 克蕾爾頭兜【ＨＳ】・赤 |
+| 6558 | Claire GS Head・Red | 克蕾爾頭兜【ＧＳ】・赤 |
+| 6559 | Claire GP Head・Red | 克蕾爾頭兜【ＧＰ】・赤 |
+| 6560 | Claire FZ Piercing・Red | 克蕾爾耳飾【ＦＺ】・赤 |
+| 6561 | Claire HS Piercing・Red | 克蕾爾耳飾【ＨＳ】・赤 |
+| 6562 | Claire GS Piercing・Red | 克蕾爾耳飾【ＧＳ】・赤 |
+| 6563 | Claire GP Piercing・Red | 克蕾爾耳飾【ＧＰ】・赤 |
+| 6564 | Claire FZ Head・Black | 克蕾爾頭兜【ＦＺ】・黑 |
+| 6565 | Claire HS Head・Black | 克蕾爾頭兜【ＨＳ】・黑 |
+| 6566 | Claire GS Head・Black | 克蕾爾頭兜【ＧＳ】・黑 |
+| 6567 | Claire GP Head・Black | 克蕾爾頭兜【ＧＰ】・黑 |
+| 6568 | Claire FZ Piercing・Black | 克蕾爾耳飾【ＦＺ】・黑 |
+| 6569 | Claire HS Piercing・Black | 克蕾爾耳飾【ＨＳ】・黑 |
+| 6570 | Claire GS Piercing・Black | 克蕾爾耳飾【ＧＳ】・黑 |
+| 6571 | Claire GP Piercing・Black | 克蕾爾耳飾【ＧＰ】・黑 |
 | 6572 | Text HS Head・Purple | 文書頭兜【ＨＳ】・紫 |
 | 6573 | Text GS Head・Purple | 文書頭兜【ＧＳ】・紫 |
 | 6574 | Text GP Head・Purple | 文書頭兜【ＧＰ】・紫 |
@@ -227,12 +227,12 @@
 | 6721 | Maisto HS Hat・Pink | 麥斯托帽【ＨＳ】・桃 |
 | 6722 | Maisto GS Hat・Pink | 麥斯托帽【ＧＳ】・桃 |
 | 6723 | Maisto GP Hat・Pink | 麥斯托帽【ＧＰ】・桃 |
-| 6724 | Cayssis HS Helm Water | 凱西斯水頭兜【ＨＳ】 |
-| 6725 | Cayssis GS Helm Water | 凱西斯水頭兜【ＧＳ】 |
-| 6726 | Cayssis GP Helm Water | 凱西斯水頭兜【ＧＰ】 |
-| 6727 | Cayssis HS Mask Water | 凱西斯水帽子【ＨＳ】 |
-| 6728 | Cayssis GS Mask Water | 凱西斯水帽子【ＧＳ】 |
-| 6729 | Cayssis GP Mask Water | 凱西斯水帽子【ＧＰ】 |
+| 6724 | Cayssis HS Helm Water | 凱西斯頭兜【ＨＳ】・水 |
+| 6725 | Cayssis GS Helm Water | 凱西斯頭兜【ＧＳ】・水 |
+| 6726 | Cayssis GP Helm Water | 凱西斯頭兜【ＧＰ】・水 |
+| 6727 | Cayssis HS Mask Water | 凱西斯帽子【ＨＳ】・水 |
+| 6728 | Cayssis GS Mask Water | 凱西斯帽子【ＧＳ】・水 |
+| 6729 | Cayssis GP Mask Water | 凱西斯帽子【ＧＰ】・水 |
 | 6730 | Cayssis HS Helm Red | 凱西斯頭兜【ＨＳ】・赤 |
 | 6731 | Cayssis GS Helm Red | 凱西斯頭兜【ＧＳ】・赤 |
 | 6732 | Cayssis GP Helm Red | 凱西斯頭兜【ＧＰ】・赤 |
@@ -313,8 +313,8 @@
 | 6807 | Galitos GP Band・Red | 加里托斯頭帶【ＧＰ】・赤 |
 | 6808 | Galitos GP Head・Black | 加里托斯頭兜【ＧＰ】・黑 |
 | 6809 | Galitos GP Band・Black | 加里托斯頭帶【ＧＰ】・黑 |
-| 6810 | Galitos GP Head・Water | 加里托斯水頭兜【ＧＰ】 |
-| 6811 | Galitos GP Band・Water | 加里托斯水頭帶【ＧＰ】 |
+| 6810 | Galitos GP Head・Water | 加里托斯頭兜【ＧＰ】・水 |
+| 6811 | Galitos GP Band・Water | 加里托斯頭帶【ＧＰ】・水 |
 | 6812 | Lien GP Head・Blue | 里恩頭兜【ＧＰ】・青 |
 | 6813 | Lien GP Hat・Blue | 里恩帽【ＧＰ】・青 |
 | 6814 | Lien GP Head・Red | 里恩頭兜【ＧＰ】・赤 |
@@ -467,10 +467,10 @@
 | 6961 | Suzaku・刀神GX Helm | 朱雀頭兜【ＧＸ】 |
 | 6962 | Genbu・刀神GX Helm | 玄武頭兜【ＧＸ】 |
 | 6963 | Seiryu・刀神GX Helm | 青龍頭兜【ＧＸ】 |
-| 6964 | Byakko・Heaven 槍GX Helm | 白虎頭兜【ＧＸ】・天 |
-| 6965 | Suzaku・Heaven 槍GX Helm | 朱雀頭兜【ＧＸ】・天 |
-| 6966 | Genbu・Heaven 槍GX Helm | 玄武頭兜【ＧＸ】・天 |
-| 6967 | Seiryu・Heaven 槍GX Helm | 青龍頭兜【ＧＸ】・天 |
+| 6964 | Byakko・Heaven 槍GX Helm | 白虎天頭兜【ＧＸ】 |
+| 6965 | Suzaku・Heaven 槍GX Helm | 朱雀天頭兜【ＧＸ】 |
+| 6966 | Genbu・Heaven 槍GX Helm | 玄武天頭兜【ＧＸ】 |
+| 6967 | Seiryu・Heaven 槍GX Helm | 青龍天頭兜【ＧＸ】 |
 | 6968 | Byakko・砲皇GX Helm | 白虎頭兜【ＧＸ】 |
 | 6969 | Suzaku・砲皇GX Helm | 朱雀頭兜【ＧＸ】 |
 | 6970 | Genbu・砲皇GX Helm | 玄武頭兜【ＧＸ】 |

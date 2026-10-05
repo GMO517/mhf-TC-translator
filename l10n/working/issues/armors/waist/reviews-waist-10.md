@@ -61,18 +61,18 @@
 | 4555 | Genom HS Belt・Green | 基因組腰帶【ＨＳ】・緑 |
 | 4556 | Genom GS Belt・Green | 基因組腰帶【ＧＳ】・緑 |
 | 4557 | Genom GP Belt・Green | 基因組腰帶【ＧＰ】・緑 |
-| 4558 | Genom Waist・Water | 基因組水腰甲 |
-| 4559 | Genom F Waist・Water | 基因組水腰甲【Ｆ】 |
-| 4560 | Genom FZ Waist・Water | 基因組水腰甲【ＦＺ】 |
-| 4561 | Genom HS Waist・Water | 基因組水腰甲【ＨＳ】 |
-| 4562 | Genom GS Waist・Water | 基因組水腰甲【ＧＳ】 |
-| 4563 | Genom GP Waist・Water | 基因組水腰甲【ＧＰ】 |
-| 4564 | Genom Belt・Water | 基因組水腰帶 |
-| 4565 | Genom F Belt・Water | 基因組水腰帶【Ｆ】 |
-| 4566 | Genom FZ Belt・Water | 基因組水腰帶【ＦＺ】 |
-| 4567 | Genom HS Belt・Water | 基因組水腰帶【ＨＳ】 |
-| 4568 | Genom GS Belt・Water | 基因組水腰帶【ＧＳ】 |
-| 4569 | Genom GP Belt・Water | 基因組水腰帶【ＧＰ】 |
+| 4558 | Genom Waist・Water | 基因組腰甲・水 |
+| 4559 | Genom F Waist・Water | 基因組腰甲【Ｆ】・水 |
+| 4560 | Genom FZ Waist・Water | 基因組腰甲【ＦＺ】・水 |
+| 4561 | Genom HS Waist・Water | 基因組腰甲【ＨＳ】・水 |
+| 4562 | Genom GS Waist・Water | 基因組腰甲【ＧＳ】・水 |
+| 4563 | Genom GP Waist・Water | 基因組腰甲【ＧＰ】・水 |
+| 4564 | Genom Belt・Water | 基因組腰帶・水 |
+| 4565 | Genom F Belt・Water | 基因組腰帶【Ｆ】・水 |
+| 4566 | Genom FZ Belt・Water | 基因組腰帶【ＦＺ】・水 |
+| 4567 | Genom HS Belt・Water | 基因組腰帶【ＨＳ】・水 |
+| 4568 | Genom GS Belt・Water | 基因組腰帶【ＧＳ】・水 |
+| 4569 | Genom GP Belt・Water | 基因組腰帶【ＧＰ】・水 |
 | 4570 | Genom Waist・Red | 基因組腰甲・赤 |
 | 4571 | Genom F Waist・Red | 基因組腰甲【Ｆ】・赤 |
 | 4572 | Genom FZ Waist・Red | 基因組腰甲【ＦＺ】・赤 |
@@ -229,14 +229,14 @@
 | 4723 | Lady HS Belt・Green | 淑女腰帶【ＨＳ】・緑 |
 | 4724 | Lady GS Belt・Green | 淑女腰帶【ＧＳ】・緑 |
 | 4725 | Lady GP Belt・Green | 淑女腰帶【ＧＰ】・緑 |
-| 4726 | 昇龍FZ Black Obi・White | 昇龍帶【ＦＺ】・白・黑 |
-| 4727 | 昇龍HS Black Obi・White | 昇龍帶【ＨＳ】・白・黑 |
-| 4728 | 昇龍GS Black Obi・White | 昇龍帶【ＧＳ】・白・黑 |
-| 4729 | 昇龍GP Black Obi・White | 昇龍帶【ＧＰ】・白・黑 |
-| 4730 | 波動FZ Black Obi・White | 波動帶【ＦＺ】・白・黑 |
-| 4731 | 波動HS Black Obi・White | 波動帶【ＨＳ】・白・黑 |
-| 4732 | 波動GS Black Obi・White | 波動帶【ＧＳ】・白・黑 |
-| 4733 | 波動GP Black Obi・White | 波動帶【ＧＰ】・白・黑 |
+| 4726 | 昇龍FZ Black Obi・White | 昇龍帶【ＦＺ】・黑 |
+| 4727 | 昇龍HS Black Obi・White | 昇龍帶【ＨＳ】・黑 |
+| 4728 | 昇龍GS Black Obi・White | 昇龍帶【ＧＳ】・黑 |
+| 4729 | 昇龍GP Black Obi・White | 昇龍帶【ＧＰ】・黑 |
+| 4730 | 波動FZ Black Obi・White | 波動帶【ＦＺ】・黑 |
+| 4731 | 波動HS Black Obi・White | 波動帶【ＨＳ】・黑 |
+| 4732 | 波動GS Black Obi・White | 波動帶【ＧＳ】・黑 |
+| 4733 | 波動GP Black Obi・White | 波動帶【ＧＰ】・黑 |
 | 4734 | 百裂FZ Waistband・Blue | 百裂腰帶【ＦＺ】・青 |
 | 4735 | 百裂HS Waistband・Blue | 百裂腰帶【ＨＳ】・青 |
 | 4736 | 百裂GS Waistband・Blue | 百裂腰帶【ＧＳ】・青 |
@@ -261,14 +261,14 @@
 | 4755 | 気功HS Waistband・Black | 気功腰帶【ＨＳ】・黑 |
 | 4756 | 気功GS Waistband・Black | 気功腰帶【ＧＳ】・黑 |
 | 4757 | 気功GP Waistband・Black | 気功腰帶【ＧＰ】・黑 |
-| 4758 | 昇龍FZ Black Obi・Yellow | 昇龍帶【ＦＺ】・黄・黑 |
-| 4759 | 昇龍HS Black Obi・Yellow | 昇龍帶【ＨＳ】・黄・黑 |
-| 4760 | 昇龍GS Black Obi・Yellow | 昇龍帶【ＧＳ】・黄・黑 |
-| 4761 | 昇龍GP Black Obi・Yellow | 昇龍帶【ＧＰ】・黄・黑 |
-| 4762 | 波動FZ Black Obi・Yellow | 波動帶【ＦＺ】・黄・黑 |
-| 4763 | 波動HS Black Obi・Yellow | 波動帶【ＨＳ】・黄・黑 |
-| 4764 | 波動GS Black Obi・Yellow | 波動帶【ＧＳ】・黄・黑 |
-| 4765 | 波動GP Black Obi・Yellow | 波動帶【ＧＰ】・黄・黑 |
+| 4758 | 昇龍FZ Black Obi・Yellow | 昇龍帶【ＦＺ】・黑 |
+| 4759 | 昇龍HS Black Obi・Yellow | 昇龍帶【ＨＳ】・黑 |
+| 4760 | 昇龍GS Black Obi・Yellow | 昇龍帶【ＧＳ】・黑 |
+| 4761 | 昇龍GP Black Obi・Yellow | 昇龍帶【ＧＰ】・黑 |
+| 4762 | 波動FZ Black Obi・Yellow | 波動帶【ＦＺ】・黑 |
+| 4763 | 波動HS Black Obi・Yellow | 波動帶【ＨＳ】・黑 |
+| 4764 | 波動GS Black Obi・Yellow | 波動帶【ＧＳ】・黑 |
+| 4765 | 波動GP Black Obi・Yellow | 波動帶【ＧＰ】・黑 |
 | 4766 | 百裂FZ Waistband・Yellow | 百裂腰帶【ＦＺ】・黄 |
 | 4767 | 百裂HS Waistband・Yellow | 百裂腰帶【ＨＳ】・黄 |
 | 4768 | 百裂GS Waistband・Yellow | 百裂腰帶【ＧＳ】・黄 |
@@ -277,14 +277,14 @@
 | 4771 | 気功HS Waistband・Yellow | 気功腰帶【ＨＳ】・黄 |
 | 4772 | 気功GS Waistband・Yellow | 気功腰帶【ＧＳ】・黄 |
 | 4773 | 気功GP Waistband・Yellow | 気功腰帶【ＧＰ】・黄 |
-| 4774 | 昇龍FZ Black Obi・Purple | 昇龍帶【ＦＺ】・紫・黑 |
-| 4775 | 昇龍HS Black Obi・Purple | 昇龍帶【ＨＳ】・紫・黑 |
-| 4776 | 昇龍GS Black Obi・Purple | 昇龍帶【ＧＳ】・紫・黑 |
-| 4777 | 昇龍GP Black Obi・Purple | 昇龍帶【ＧＰ】・紫・黑 |
-| 4778 | 波動FZ Black Obi・Purple | 波動帶【ＦＺ】・紫・黑 |
-| 4779 | 波動HS Black Obi・Purple | 波動帶【ＨＳ】・紫・黑 |
-| 4780 | 波動GS Black Obi・Purple | 波動帶【ＧＳ】・紫・黑 |
-| 4781 | 波動GP Black Obi・Purple | 波動帶【ＧＰ】・紫・黑 |
+| 4774 | 昇龍FZ Black Obi・Purple | 昇龍帶【ＦＺ】・黑 |
+| 4775 | 昇龍HS Black Obi・Purple | 昇龍帶【ＨＳ】・黑 |
+| 4776 | 昇龍GS Black Obi・Purple | 昇龍帶【ＧＳ】・黑 |
+| 4777 | 昇龍GP Black Obi・Purple | 昇龍帶【ＧＰ】・黑 |
+| 4778 | 波動FZ Black Obi・Purple | 波動帶【ＦＺ】・黑 |
+| 4779 | 波動HS Black Obi・Purple | 波動帶【ＨＳ】・黑 |
+| 4780 | 波動GS Black Obi・Purple | 波動帶【ＧＳ】・黑 |
+| 4781 | 波動GP Black Obi・Purple | 波動帶【ＧＰ】・黑 |
 | 4782 | 百裂FZ Waistband・Green | 百裂腰帶【ＦＺ】・緑 |
 | 4783 | 百裂HS Waistband・Green | 百裂腰帶【ＨＳ】・緑 |
 | 4784 | 百裂GS Waistband・Green | 百裂腰帶【ＧＳ】・緑 |
@@ -297,10 +297,10 @@
 | 4791 | 竜巻HS Colour Belt・Black | 竜巻腰帶【ＨＳ】・黑 |
 | 4792 | 竜巻GS Colour Belt・Black | 竜巻腰帶【ＧＳ】・黑 |
 | 4793 | 竜巻GP Colour Belt・Black | 竜巻腰帶【ＧＰ】・黑 |
-| 4794 | True 空FZ Colour Belt・Black | 空腰帶【ＦＺ】・黑 |
-| 4795 | True 空HS Colour Belt・Black | 空腰帶【ＨＳ】・黑 |
-| 4796 | True 空GS Colour Belt・Black | 空腰帶【ＧＳ】・黑 |
-| 4797 | True 空GP Colour Belt・Black | 空腰帶【ＧＰ】・黑 |
+| 4794 | True 空FZ Colour Belt・Black | 真空腰帶【ＦＺ】・黑 |
+| 4795 | True 空HS Colour Belt・Black | 真空腰帶【ＨＳ】・黑 |
+| 4796 | True 空GS Colour Belt・Black | 真空腰帶【ＧＳ】・黑 |
+| 4797 | True 空GP Colour Belt・Black | 真空腰帶【ＧＰ】・黑 |
 | 4798 | 千裂FZ Waistband・Black | 千裂腰帶【ＦＺ】・黑 |
 | 4799 | 千裂HS Waistband・Black | 千裂腰帶【ＨＳ】・黑 |
 | 4800 | 千裂GS Waistband・Black | 千裂腰帶【ＧＳ】・黑 |
@@ -313,10 +313,10 @@
 | 4807 | 竜巻HS Colour Belt・Tea | 竜巻腰帶【ＨＳ】・茶 |
 | 4808 | 竜巻GS Colour Belt・Tea | 竜巻腰帶【ＧＳ】・茶 |
 | 4809 | 竜巻GP Colour Belt・Tea | 竜巻腰帶【ＧＰ】・茶 |
-| 4810 | True 空FZ Colour Belt・Tea | 空腰帶【ＦＺ】・茶 |
-| 4811 | True 空HS Colour Belt・Tea | 空腰帶【ＨＳ】・茶 |
-| 4812 | True 空GS Colour Belt・Tea | 空腰帶【ＧＳ】・茶 |
-| 4813 | True 空GP Colour Belt・Tea | 空腰帶【ＧＰ】・茶 |
+| 4810 | True 空FZ Colour Belt・Tea | 真空腰帶【ＦＺ】・茶 |
+| 4811 | True 空HS Colour Belt・Tea | 真空腰帶【ＨＳ】・茶 |
+| 4812 | True 空GS Colour Belt・Tea | 真空腰帶【ＧＳ】・茶 |
+| 4813 | True 空GP Colour Belt・Tea | 真空腰帶【ＧＰ】・茶 |
 | 4814 | 千裂FZ Waistband・Purple | 千裂腰帶【ＦＺ】・紫 |
 | 4815 | 千裂HS Waistband・Purple | 千裂腰帶【ＨＳ】・紫 |
 | 4816 | 千裂GS Waistband・Purple | 千裂腰帶【ＧＳ】・紫 |
@@ -329,10 +329,10 @@
 | 4823 | 竜巻HS Colour Belt・White | 竜巻腰帶【ＨＳ】・白 |
 | 4824 | 竜巻GS Colour Belt・White | 竜巻腰帶【ＧＳ】・白 |
 | 4825 | 竜巻GP Colour Belt・White | 竜巻腰帶【ＧＰ】・白 |
-| 4826 | True 空FZ Colour Belt・White | 空腰帶【ＦＺ】・白 |
-| 4827 | True 空HS Colour Belt・White | 空腰帶【ＨＳ】・白 |
-| 4828 | True 空GS Colour Belt・White | 空腰帶【ＧＳ】・白 |
-| 4829 | True 空GP Colour Belt・White | 空腰帶【ＧＰ】・白 |
+| 4826 | True 空FZ Colour Belt・White | 真空腰帶【ＦＺ】・白 |
+| 4827 | True 空HS Colour Belt・White | 真空腰帶【ＨＳ】・白 |
+| 4828 | True 空GS Colour Belt・White | 真空腰帶【ＧＳ】・白 |
+| 4829 | True 空GP Colour Belt・White | 真空腰帶【ＧＰ】・白 |
 | 4830 | 千裂FZ Waistband・White | 千裂腰帶【ＦＺ】・白 |
 | 4831 | 千裂HS Waistband・White | 千裂腰帶【ＨＳ】・白 |
 | 4832 | 千裂GS Waistband・White | 千裂腰帶【ＧＳ】・白 |
@@ -345,10 +345,10 @@
 | 4839 | 竜巻HS Colour Belt・Blue | 竜巻腰帶【ＨＳ】・青 |
 | 4840 | 竜巻GS Colour Belt・Blue | 竜巻腰帶【ＧＳ】・青 |
 | 4841 | 竜巻GP Colour Belt・Blue | 竜巻腰帶【ＧＰ】・青 |
-| 4842 | True 空FZ Colour Belt・Blue | 空腰帶【ＦＺ】・青 |
-| 4843 | True 空HS Colour Belt・Blue | 空腰帶【ＨＳ】・青 |
-| 4844 | True 空GS Colour Belt・Blue | 空腰帶【ＧＳ】・青 |
-| 4845 | True 空GP Colour Belt・Blue | 空腰帶【ＧＰ】・青 |
+| 4842 | True 空FZ Colour Belt・Blue | 真空腰帶【ＦＺ】・青 |
+| 4843 | True 空HS Colour Belt・Blue | 真空腰帶【ＨＳ】・青 |
+| 4844 | True 空GS Colour Belt・Blue | 真空腰帶【ＧＳ】・青 |
+| 4845 | True 空GP Colour Belt・Blue | 真空腰帶【ＧＰ】・青 |
 | 4846 | 千裂FZ Waistband・Green | 千裂腰帶【ＦＺ】・緑 |
 | 4847 | 千裂HS Waistband・Green | 千裂腰帶【ＨＳ】・緑 |
 | 4848 | 千裂GS Waistband・Green | 千裂腰帶【ＧＳ】・緑 |
@@ -365,10 +365,10 @@
 | 4859 | Chaos HS Coat・Blue | 混沌腰衣【ＨＳ】・青 |
 | 4860 | Chaos GS Coat・Blue | 混沌腰衣【ＧＳ】・青 |
 | 4861 | Chaos GP Coat・Blue | 混沌腰衣【ＧＰ】・青 |
-| 4862 | Shadow FZ Wing Purple | 暗影腰翼【ＦＺ】・紫 |
-| 4863 | Shadow HS Wing Purple | 暗影腰翼【ＨＳ】・紫 |
-| 4864 | Shadow GS Wing Purple | 暗影腰翼【ＧＳ】・紫 |
-| 4865 | Shadow GP Wing Purple | 暗影腰翼【ＧＰ】・紫 |
+| 4862 | Shadow FZ Wing Purple | 影腰翼【ＦＺ】・紫 |
+| 4863 | Shadow HS Wing Purple | 影腰翼【ＨＳ】・紫 |
+| 4864 | Shadow GS Wing Purple | 影腰翼【ＧＳ】・紫 |
+| 4865 | Shadow GP Wing Purple | 影腰翼【ＧＰ】・紫 |
 | 4866 | Soul FZ Wing・Purple | 魂腰翼【ＦＺ】・紫 |
 | 4867 | Soul HS Wing・Purple | 魂腰翼【ＨＳ】・紫 |
 | 4868 | Soul GS Wing・Purple | 魂腰翼【ＧＳ】・紫 |
@@ -381,10 +381,10 @@
 | 4875 | Chaos HS Coat・Red | 混沌腰衣【ＨＳ】・赤 |
 | 4876 | Chaos GS Coat・Red | 混沌腰衣【ＧＳ】・赤 |
 | 4877 | Chaos GP Coat・Red | 混沌腰衣【ＧＰ】・赤 |
-| 4878 | Shadow FZ Wing Red | 暗影腰翼【ＦＺ】・赤 |
-| 4879 | Shadow HS Wing Red | 暗影腰翼【ＨＳ】・赤 |
-| 4880 | Shadow GS Wing Red | 暗影腰翼【ＧＳ】・赤 |
-| 4881 | Shadow GP Wing Red | 暗影腰翼【ＧＰ】・赤 |
+| 4878 | Shadow FZ Wing Red | 影腰翼【ＦＺ】・赤 |
+| 4879 | Shadow HS Wing Red | 影腰翼【ＨＳ】・赤 |
+| 4880 | Shadow GS Wing Red | 影腰翼【ＧＳ】・赤 |
+| 4881 | Shadow GP Wing Red | 影腰翼【ＧＰ】・赤 |
 | 4882 | Soul FZ Wing・Red | 魂腰翼【ＦＺ】・赤 |
 | 4883 | Soul HS Wing・Red | 魂腰翼【ＨＳ】・赤 |
 | 4884 | Soul GS Wing・Red | 魂腰翼【ＧＳ】・赤 |
@@ -397,10 +397,10 @@
 | 4891 | Chaos HS Coat・Green | 混沌腰衣【ＨＳ】・緑 |
 | 4892 | Chaos GS Coat・Green | 混沌腰衣【ＧＳ】・緑 |
 | 4893 | Chaos GP Coat・Green | 混沌腰衣【ＧＰ】・緑 |
-| 4894 | Shadow FZ Wing Green | 暗影腰翼【ＦＺ】・緑 |
-| 4895 | Shadow HS Wing Green | 暗影腰翼【ＨＳ】・緑 |
-| 4896 | Shadow GS Wing Green | 暗影腰翼【ＧＳ】・緑 |
-| 4897 | Shadow GP Wing Green | 暗影腰翼【ＧＰ】・緑 |
+| 4894 | Shadow FZ Wing Green | 影腰翼【ＦＺ】・緑 |
+| 4895 | Shadow HS Wing Green | 影腰翼【ＨＳ】・緑 |
+| 4896 | Shadow GS Wing Green | 影腰翼【ＧＳ】・緑 |
+| 4897 | Shadow GP Wing Green | 影腰翼【ＧＰ】・緑 |
 | 4898 | Soul FZ Wing・Green | 魂腰翼【ＦＺ】・緑 |
 | 4899 | Soul HS Wing・Green | 魂腰翼【ＨＳ】・緑 |
 | 4900 | Soul GS Wing・Green | 魂腰翼【ＧＳ】・緑 |
@@ -413,10 +413,10 @@
 | 4907 | Chaos HS Coat・White | 混沌腰衣【ＨＳ】・白 |
 | 4908 | Chaos GS Coat・White | 混沌腰衣【ＧＳ】・白 |
 | 4909 | Chaos GP Coat・White | 混沌腰衣【ＧＰ】・白 |
-| 4910 | Shadow FZ Wing White | 暗影腰翼【ＦＺ】・白 |
-| 4911 | Shadow HS Wing White | 暗影腰翼【ＨＳ】・白 |
-| 4912 | Shadow GS Wing White | 暗影腰翼【ＧＳ】・白 |
-| 4913 | Shadow GP Wing White | 暗影腰翼【ＧＰ】・白 |
+| 4910 | Shadow FZ Wing White | 影腰翼【ＦＺ】・白 |
+| 4911 | Shadow HS Wing White | 影腰翼【ＨＳ】・白 |
+| 4912 | Shadow GS Wing White | 影腰翼【ＧＳ】・白 |
+| 4913 | Shadow GP Wing White | 影腰翼【ＧＰ】・白 |
 | 4914 | Soul FZ Wing・White | 魂腰翼【ＦＺ】・白 |
 | 4915 | Soul HS Wing・White | 魂腰翼【ＨＳ】・白 |
 | 4916 | Soul GS Wing・White | 魂腰翼【ＧＳ】・白 |
@@ -453,38 +453,38 @@
 | 4947 | 蜂針GP【腰当て】・Black | 蜂針腰當【ＧＰ】・黑 |
 | 4948 | 気弾GS【腰当て】・Black | 気弾腰當【ＧＳ】・黑 |
 | 4949 | 気弾GP【腰当て】・Black | 気弾腰當【ＧＰ】・黑 |
-| 4950 | Shinryu GS Black Obi・Red | 神龍帶【ＧＳ】・赤・黑 |
-| 4951 | Shinryu GP Black Obi・Red | 神龍帶【ＧＰ】・赤・黑 |
-| 4952 | Reppa GS Black Obi・Red | 烈破帶【ＧＳ】・赤・黑 |
-| 4953 | Reppa GP Black Obi・Red | 烈破帶【ＧＰ】・赤・黑 |
-| 4954 | Cannon GS Will・Water | 克阿恩歐腰甲【ＧＳ】 |
-| 4955 | Cannon GP Will・Water | 克阿恩歐腰甲【ＧＰ】 |
-| 4956 | Axel GS Will・Water | 阿克斯艾腰甲【ＧＳ】 |
-| 4957 | Axel GP Will・Water | 阿克斯艾腰甲【ＧＰ】 |
-| 4958 | Shinryu GS Black Obi・White | 神龍帶【ＧＳ】・白・黑 |
-| 4959 | Shinryu GP Black Obi・White | 神龍帶【ＧＰ】・白・黑 |
-| 4960 | Reppa GS Black Obi・White | 烈破帶【ＧＳ】・白・黑 |
-| 4961 | Reppa GP Black Obi・White | 烈破帶【ＧＰ】・白・黑 |
-| 4962 | Cannon GS Will・Green | 克阿恩歐腰甲【ＧＳ】・緑 |
-| 4963 | Cannon GP Will・Green | 克阿恩歐腰甲【ＧＰ】・緑 |
-| 4964 | Axel GS Will・Green | 阿克斯艾腰甲【ＧＳ】・緑 |
-| 4965 | Axel GP Will・Green | 阿克斯艾腰甲【ＧＰ】・緑 |
-| 4966 | Shinryu GS Black Obi・Purple | 神龍帶【ＧＳ】・紫・黑 |
-| 4967 | Shinryu GP Black Obi・Purple | 神龍帶【ＧＰ】・紫・黑 |
-| 4968 | Reppa GS Black Obi・Purple | 烈破帶【ＧＳ】・紫・黑 |
-| 4969 | Reppa GP Black Obi・Purple | 烈破帶【ＧＰ】・紫・黑 |
-| 4970 | Cannon GS Will・Peach | 克阿恩歐腰甲【ＧＳ】・桃 |
-| 4971 | Cannon GP Will・Peach | 克阿恩歐腰甲【ＧＰ】・桃 |
-| 4972 | Axel GS Will・Peach | 阿克斯艾腰甲【ＧＳ】・桃 |
-| 4973 | Axel GP Will・Peach | 阿克斯艾腰甲【ＧＰ】・桃 |
-| 4974 | Shinryu GS Black Obi・Yellow | 神龍帶【ＧＳ】・黄・黑 |
-| 4975 | Shinryu GP Black Obi・Yellow | 神龍帶【ＧＰ】・黄・黑 |
-| 4976 | Reppa GS Black Obi・Yellow | 烈破帶【ＧＳ】・黄・黑 |
-| 4977 | Reppa GP Black Obi・Yellow | 烈破帶【ＧＰ】・黄・黑 |
-| 4978 | Cannon GS Will・Purple | 克阿恩歐腰甲【ＧＳ】・紫 |
-| 4979 | Cannon GP Will・Purple | 克阿恩歐腰甲【ＧＰ】・紫 |
-| 4980 | Axel GS Will・Purple | 阿克斯艾腰甲【ＧＳ】・紫 |
-| 4981 | Axel GP Will・Purple | 阿克斯艾腰甲【ＧＰ】・紫 |
+| 4950 | Shinryu GS Black Obi・Red | 神龍帶【ＧＳ】・黑 |
+| 4951 | Shinryu GP Black Obi・Red | 神龍帶【ＧＰ】・黑 |
+| 4952 | Reppa GS Black Obi・Red | 烈破帶【ＧＳ】・黑 |
+| 4953 | Reppa GP Black Obi・Red | 烈破帶【ＧＰ】・黑 |
+| 4954 | Cannon GS Will・Water | 砲意志腰甲【ＧＳ】・水 |
+| 4955 | Cannon GP Will・Water | 砲意志腰甲【ＧＰ】・水 |
+| 4956 | Axel GS Will・Water | 軸意志腰甲【ＧＳ】・水 |
+| 4957 | Axel GP Will・Water | 軸意志腰甲【ＧＰ】・水 |
+| 4958 | Shinryu GS Black Obi・White | 神龍帶【ＧＳ】・黑 |
+| 4959 | Shinryu GP Black Obi・White | 神龍帶【ＧＰ】・黑 |
+| 4960 | Reppa GS Black Obi・White | 烈破帶【ＧＳ】・黑 |
+| 4961 | Reppa GP Black Obi・White | 烈破帶【ＧＰ】・黑 |
+| 4962 | Cannon GS Will・Green | 砲意志腰甲【ＧＳ】・緑 |
+| 4963 | Cannon GP Will・Green | 砲意志腰甲【ＧＰ】・緑 |
+| 4964 | Axel GS Will・Green | 軸意志腰甲【ＧＳ】・緑 |
+| 4965 | Axel GP Will・Green | 軸意志腰甲【ＧＰ】・緑 |
+| 4966 | Shinryu GS Black Obi・Purple | 神龍帶【ＧＳ】・黑 |
+| 4967 | Shinryu GP Black Obi・Purple | 神龍帶【ＧＰ】・黑 |
+| 4968 | Reppa GS Black Obi・Purple | 烈破帶【ＧＳ】・黑 |
+| 4969 | Reppa GP Black Obi・Purple | 烈破帶【ＧＰ】・黑 |
+| 4970 | Cannon GS Will・Peach | 砲意志腰甲【ＧＳ】・桃 |
+| 4971 | Cannon GP Will・Peach | 砲意志腰甲【ＧＰ】・桃 |
+| 4972 | Axel GS Will・Peach | 軸意志腰甲【ＧＳ】・桃 |
+| 4973 | Axel GP Will・Peach | 軸意志腰甲【ＧＰ】・桃 |
+| 4974 | Shinryu GS Black Obi・Yellow | 神龍帶【ＧＳ】・黑 |
+| 4975 | Shinryu GP Black Obi・Yellow | 神龍帶【ＧＰ】・黑 |
+| 4976 | Reppa GS Black Obi・Yellow | 烈破帶【ＧＳ】・黑 |
+| 4977 | Reppa GP Black Obi・Yellow | 烈破帶【ＧＰ】・黑 |
+| 4978 | Cannon GS Will・Purple | 砲意志腰甲【ＧＳ】・紫 |
+| 4979 | Cannon GP Will・Purple | 砲意志腰甲【ＧＰ】・紫 |
+| 4980 | Axel GS Will・Purple | 軸意志腰甲【ＧＳ】・紫 |
+| 4981 | Axel GP Will・Purple | 軸意志腰甲【ＧＰ】・紫 |
 | 4982 | Garuda HS Waist | 迦樓羅腰甲【ＨＳ】 |
 | 4983 | Garuda GS Waist | 迦樓羅腰甲【ＧＳ】 |
 | 4984 | Garuda GP Waist | 迦樓羅腰甲【ＧＰ】 |

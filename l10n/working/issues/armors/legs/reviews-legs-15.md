@@ -65,24 +65,24 @@
 | 7059 | Green 穹・奏帝G Feet | 穹奏帝足・緑 |
 | 7060 | Green 穹・奏帝GF Feet | 穹奏帝足【Ｆ】・緑 |
 | 7061 | Green 穹・奏帝GX Feet | 穹奏帝足・緑 |
-| 7062 | White 蘭・Heaven 槍 Feet | 蘭槍足・白・天 |
-| 7063 | White 蘭・Heaven 槍F Feet | 蘭槍足【Ｆ】・白・天 |
-| 7064 | White 蘭・Heaven 槍FX Feet | 蘭槍足【ＦＸ】・白・天 |
-| 7065 | Crimson 霞・Heaven 槍 Feet | 霞槍足・紅・天 |
-| 7066 | Crimson 霞・Heaven 槍F Feet | 霞槍足【Ｆ】・紅・天 |
-| 7067 | Crimson 霞・Heaven 槍FX Feet | 霞槍足【ＦＸ】・紅・天 |
-| 7068 | White 蘭・Heaven 槍G Feet | 蘭槍足【Ｇ】・白・天 |
-| 7069 | White 蘭・Heaven 槍GF Feet | 蘭槍足【Ｆ】・白・天 |
-| 7070 | White 蘭・Heaven 槍GX Feet | 蘭槍足【ＧＸ】・白・天 |
+| 7062 | White 蘭・Heaven 槍 Feet | 蘭槍天足・白 |
+| 7063 | White 蘭・Heaven 槍F Feet | 蘭槍天足【Ｆ】・白 |
+| 7064 | White 蘭・Heaven 槍FX Feet | 蘭槍天足【ＦＸ】・白 |
+| 7065 | Crimson 霞・Heaven 槍 Feet | 霞槍天足・紅 |
+| 7066 | Crimson 霞・Heaven 槍F Feet | 霞槍天足【Ｆ】・紅 |
+| 7067 | Crimson 霞・Heaven 槍FX Feet | 霞槍天足【ＦＸ】・紅 |
+| 7068 | White 蘭・Heaven 槍G Feet | 蘭槍天足【Ｇ】・白 |
+| 7069 | White 蘭・Heaven 槍GF Feet | 蘭槍天足【Ｆ】・白 |
+| 7070 | White 蘭・Heaven 槍GX Feet | 蘭槍天足【ＧＸ】・白 |
 | 7071 | 月夜・Heaven 槍G Feet | 月夜槍足・天 |
-| 7072 | 月夜・Heaven 槍GF Feet | 月夜槍足【Ｆ】・天 |
+| 7072 | 月夜・Heaven 槍GF Feet | 月夜槍天足【Ｆ】 |
 | 7073 | 月夜・Heaven 槍GX Feet | 月夜槍足・天 |
-| 7074 | Crimson 霞・Heaven 槍G Feet | 霞槍足【Ｇ】・紅・天 |
-| 7075 | Crimson 霞・Heaven 槍GF Feet | 霞槍足【Ｆ】・紅・天 |
-| 7076 | Crimson 霞・Heaven 槍GX Feet | 霞槍足【ＧＸ】・紅・天 |
-| 7077 | Green 穹・Heaven 槍G Feet | 穹槍足・緑・天 |
-| 7078 | Green 穹・Heaven 槍GF Feet | 穹槍足【Ｆ】・緑・天 |
-| 7079 | Green 穹・Heaven 槍GX Feet | 穹槍足・緑・天 |
+| 7074 | Crimson 霞・Heaven 槍G Feet | 霞槍天足【Ｇ】・紅 |
+| 7075 | Crimson 霞・Heaven 槍GF Feet | 霞槍天足【Ｆ】・紅 |
+| 7076 | Crimson 霞・Heaven 槍GX Feet | 霞槍天足【ＧＸ】・紅 |
+| 7077 | Green 穹・Heaven 槍G Feet | 穹槍足緑・天 |
+| 7078 | Green 穹・Heaven 槍GF Feet | 穹槍天足【Ｆ】・緑 |
+| 7079 | Green 穹・Heaven 槍GX Feet | 穹槍足緑・天 |
 | 7080 | White 蘭・砲皇 Feet | 蘭砲皇足・白 |
 | 7081 | White 蘭・砲皇F Feet | 蘭砲皇足【Ｆ】・白 |
 | 7082 | White 蘭・砲皇FX Feet | 蘭砲皇足【ＦＸ】・白 |
@@ -341,54 +341,54 @@
 | 7335 | Oyun HS Leggings・White | 歐雲裹腿【ＨＳ】・白 |
 | 7336 | Oyun GS Leggings・White | 歐雲裹腿【ＧＳ】・白 |
 | 7337 | Oyun GP Leggings・White | 歐雲裹腿【ＧＰ】・白 |
-| 7338 | Ash Feet・Red | 足・灰・赤 |
-| 7339 | Ash F Feet・Red | 足【Ｆ】・灰・赤 |
-| 7340 | Ash FZ Feet・Red | 足【ＦＺ】・灰・赤 |
-| 7341 | Ash HS Feet・Red | 足【ＨＳ】・灰・赤 |
-| 7342 | Ash GS Feet・Red | 足【ＧＳ】・灰・赤 |
-| 7343 | Ash GP Feet・Red | 足【ＧＰ】・灰・赤 |
-| 7344 | Ash Boots・Red | 靴・灰・赤 |
-| 7345 | Ash F Boots・Red | 靴【Ｆ】・灰・赤 |
-| 7346 | Ash FZ Boots・Red | 靴【ＦＺ】・灰・赤 |
-| 7347 | Ash HS Boots・Red | 靴【ＨＳ】・灰・赤 |
-| 7348 | Ash GS Boots・Red | 靴【ＧＳ】・灰・赤 |
-| 7349 | Ash GP Boots・Red | 靴【ＧＰ】・灰・赤 |
-| 7350 | Ash Feet・Blue | 足・灰・青 |
-| 7351 | Ash F Feet・Blue | 足【Ｆ】・灰・青 |
-| 7352 | Ash FZ Feet・Blue | 足【ＦＺ】・灰・青 |
-| 7353 | Ash HS Feet・Blue | 足【ＨＳ】・灰・青 |
-| 7354 | Ash GS Feet・Blue | 足【ＧＳ】・灰・青 |
-| 7355 | Ash GP Feet・Blue | 足【ＧＰ】・灰・青 |
-| 7356 | Ash Boots・Blue | 靴・灰・青 |
-| 7357 | Ash F Boots・Blue | 靴【Ｆ】・灰・青 |
-| 7358 | Ash FZ Boots・Blue | 靴【ＦＺ】・灰・青 |
-| 7359 | Ash HS Boots・Blue | 靴【ＨＳ】・灰・青 |
-| 7360 | Ash GS Boots・Blue | 靴【ＧＳ】・灰・青 |
-| 7361 | Ash GP Boots・Blue | 靴【ＧＰ】・灰・青 |
-| 7362 | Ash Feet・White | 足・灰・白 |
-| 7363 | Ash F Feet・White | 足【Ｆ】・灰・白 |
-| 7364 | Ash FZ Feet・White | 足【ＦＺ】・灰・白 |
-| 7365 | Ash HS Feet・White | 足【ＨＳ】・灰・白 |
-| 7366 | Ash GS Feet・White | 足【ＧＳ】・灰・白 |
-| 7367 | Ash GP Feet・White | 足【ＧＰ】・灰・白 |
-| 7368 | Ash Boots・White | 靴・灰・白 |
-| 7369 | Ash F Boots・White | 靴【Ｆ】・灰・白 |
-| 7370 | Ash FZ Boots・White | 靴【ＦＺ】・灰・白 |
-| 7371 | Ash HS Boots・White | 靴【ＨＳ】・灰・白 |
-| 7372 | Ash GS Boots・White | 靴【ＧＳ】・灰・白 |
-| 7373 | Ash GP Boots・White | 靴【ＧＰ】・灰・白 |
-| 7374 | Ash Feet・Black | 足・灰・黑 |
-| 7375 | Ash F Feet・Black | 足【Ｆ】・灰・黑 |
-| 7376 | Ash FZ Feet・Black | 足【ＦＺ】・灰・黑 |
-| 7377 | Ash HS Feet・Black | 足【ＨＳ】・灰・黑 |
-| 7378 | Ash GS Feet・Black | 足【ＧＳ】・灰・黑 |
-| 7379 | Ash GP Feet・Black | 足【ＧＰ】・灰・黑 |
-| 7380 | Ash Boots・Black | 靴・灰・黑 |
-| 7381 | Ash F Boots・Black | 靴【Ｆ】・灰・黑 |
-| 7382 | Ash FZ Boots・Black | 靴【ＦＺ】・灰・黑 |
-| 7383 | Ash HS Boots・Black | 靴【ＨＳ】・灰・黑 |
-| 7384 | Ash GS Boots・Black | 靴【ＧＳ】・灰・黑 |
-| 7385 | Ash GP Boots・Black | 靴【ＧＰ】・灰・黑 |
+| 7338 | Ash Feet・Red | 足灰・赤 |
+| 7339 | Ash F Feet・Red | 足【Ｆ】灰・赤 |
+| 7340 | Ash FZ Feet・Red | 足【ＦＺ】灰・赤 |
+| 7341 | Ash HS Feet・Red | 足【ＨＳ】灰・赤 |
+| 7342 | Ash GS Feet・Red | 足【ＧＳ】灰・赤 |
+| 7343 | Ash GP Feet・Red | 足【ＧＰ】灰・赤 |
+| 7344 | Ash Boots・Red | 靴灰・赤 |
+| 7345 | Ash F Boots・Red | 靴【Ｆ】灰・赤 |
+| 7346 | Ash FZ Boots・Red | 靴【ＦＺ】灰・赤 |
+| 7347 | Ash HS Boots・Red | 靴【ＨＳ】灰・赤 |
+| 7348 | Ash GS Boots・Red | 靴【ＧＳ】灰・赤 |
+| 7349 | Ash GP Boots・Red | 靴【ＧＰ】灰・赤 |
+| 7350 | Ash Feet・Blue | 足灰・青 |
+| 7351 | Ash F Feet・Blue | 足【Ｆ】灰・青 |
+| 7352 | Ash FZ Feet・Blue | 足【ＦＺ】灰・青 |
+| 7353 | Ash HS Feet・Blue | 足【ＨＳ】灰・青 |
+| 7354 | Ash GS Feet・Blue | 足【ＧＳ】灰・青 |
+| 7355 | Ash GP Feet・Blue | 足【ＧＰ】灰・青 |
+| 7356 | Ash Boots・Blue | 靴灰・青 |
+| 7357 | Ash F Boots・Blue | 靴【Ｆ】灰・青 |
+| 7358 | Ash FZ Boots・Blue | 靴【ＦＺ】灰・青 |
+| 7359 | Ash HS Boots・Blue | 靴【ＨＳ】灰・青 |
+| 7360 | Ash GS Boots・Blue | 靴【ＧＳ】灰・青 |
+| 7361 | Ash GP Boots・Blue | 靴【ＧＰ】灰・青 |
+| 7362 | Ash Feet・White | 足灰・白 |
+| 7363 | Ash F Feet・White | 足【Ｆ】灰・白 |
+| 7364 | Ash FZ Feet・White | 足【ＦＺ】灰・白 |
+| 7365 | Ash HS Feet・White | 足【ＨＳ】灰・白 |
+| 7366 | Ash GS Feet・White | 足【ＧＳ】灰・白 |
+| 7367 | Ash GP Feet・White | 足【ＧＰ】灰・白 |
+| 7368 | Ash Boots・White | 靴灰・白 |
+| 7369 | Ash F Boots・White | 靴【Ｆ】灰・白 |
+| 7370 | Ash FZ Boots・White | 靴【ＦＺ】灰・白 |
+| 7371 | Ash HS Boots・White | 靴【ＨＳ】灰・白 |
+| 7372 | Ash GS Boots・White | 靴【ＧＳ】灰・白 |
+| 7373 | Ash GP Boots・White | 靴【ＧＰ】灰・白 |
+| 7374 | Ash Feet・Black | 足灰・黑 |
+| 7375 | Ash F Feet・Black | 足【Ｆ】灰・黑 |
+| 7376 | Ash FZ Feet・Black | 足【ＦＺ】灰・黑 |
+| 7377 | Ash HS Feet・Black | 足【ＨＳ】灰・黑 |
+| 7378 | Ash GS Feet・Black | 足【ＧＳ】灰・黑 |
+| 7379 | Ash GP Feet・Black | 足【ＧＰ】灰・黑 |
+| 7380 | Ash Boots・Black | 靴灰・黑 |
+| 7381 | Ash F Boots・Black | 靴【Ｆ】灰・黑 |
+| 7382 | Ash FZ Boots・Black | 靴【ＦＺ】灰・黑 |
+| 7383 | Ash HS Boots・Black | 靴【ＨＳ】灰・黑 |
+| 7384 | Ash GS Boots・Black | 靴【ＧＳ】灰・黑 |
+| 7385 | Ash GP Boots・Black | 靴【ＧＰ】灰・黑 |
 | 7386 | Pistis GP Feet | 普伊斯伊足【ＧＰ】 |
 | 7387 | Pistis GP Boots | 普伊斯伊靴【ＧＰ】 |
 | 7388 | Blink HS Feet | 布伊恩足【ＨＳ】 |

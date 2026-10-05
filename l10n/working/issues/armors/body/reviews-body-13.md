@@ -68,12 +68,12 @@
 | 6062 | Maisto HS Suit・Pink | 麥斯托套裝【ＨＳ】・桃 |
 | 6063 | Maisto GS Suit・Pink | 麥斯托套裝【ＧＳ】・桃 |
 | 6064 | Maisto GP Suit・Pink | 麥斯托套裝【ＧＰ】・桃 |
-| 6065 | Cayssis HS Mail Water | 凱西斯水鎧甲【ＨＳ】 |
-| 6066 | Cayssis GS Mail Water | 凱西斯水鎧甲【ＧＳ】 |
-| 6067 | Cayssis GP Mail Water | 凱西斯水鎧甲【ＧＰ】 |
-| 6068 | Cayssis HS Vest Water | 凱西斯水背心【ＨＳ】 |
-| 6069 | Cayssis GS Vest Water | 凱西斯水背心【ＧＳ】 |
-| 6070 | Cayssis GP Vest Water | 凱西斯水背心【ＧＰ】 |
+| 6065 | Cayssis HS Mail Water | 凱西斯鎧甲【ＨＳ】・水 |
+| 6066 | Cayssis GS Mail Water | 凱西斯鎧甲【ＧＳ】・水 |
+| 6067 | Cayssis GP Mail Water | 凱西斯鎧甲【ＧＰ】・水 |
+| 6068 | Cayssis HS Vest Water | 凱西斯背心【ＨＳ】・水 |
+| 6069 | Cayssis GS Vest Water | 凱西斯背心【ＧＳ】・水 |
+| 6070 | Cayssis GP Vest Water | 凱西斯背心【ＧＰ】・水 |
 | 6071 | Cayssis HS Mail Red | 凱西斯鎧甲【ＨＳ】・赤 |
 | 6072 | Cayssis GS Mail Red | 凱西斯鎧甲【ＧＳ】・赤 |
 | 6073 | Cayssis GP Mail Red | 凱西斯鎧甲【ＧＰ】・赤 |
@@ -154,8 +154,8 @@
 | 6148 | Galitos GP Suit・Red | 加里托斯套裝【ＧＰ】・赤 |
 | 6149 | Galitos GP Vest・Black | 加里托斯背心【ＧＰ】・黑 |
 | 6150 | Galitos GP Suit・Black | 加里托斯套裝【ＧＰ】・黑 |
-| 6151 | Galitos GP Vest・Water | 加里托斯水背心【ＧＰ】 |
-| 6152 | Galitos GP Suit・Water | 加里托斯水套裝【ＧＰ】 |
+| 6151 | Galitos GP Vest・Water | 加里托斯背心【ＧＰ】・水 |
+| 6152 | Galitos GP Suit・Water | 加里托斯套裝【ＧＰ】・水 |
 | 6153 | Lien GP Vest・Blue | 里恩背心【ＧＰ】・青 |
 | 6154 | Lien GP Suit・Blue | 里恩套裝【ＧＰ】・青 |
 | 6155 | Lien GP Vest・Red | 里恩背心【ＧＰ】・赤 |
@@ -232,9 +232,9 @@
 | 6226 | Diore FX Vest | 德伊爾艾背心【ＦＸ】 |
 | 6227 | Diore G Vest | 德伊爾艾背心【Ｇ】 |
 | 6228 | Diore GF Vest | 德伊爾艾背心【ＧＦ】 |
-| 6229 | Kagura G【胴当て】 | 神樂鎧甲【Ｇ】 |
-| 6230 | Kagura GF【胴当て】 | 神樂鎧甲【ＧＦ】 |
-| 6231 | Kagura GX【胴当て】 | 神樂鎧甲【ＧＸ】 |
+| 6229 | Kagura G【胴当て】 | 神樂胴當【Ｇ】 |
+| 6230 | Kagura GF【胴当て】 | 神樂胴當【ＧＦ】 |
+| 6231 | Kagura GX【胴当て】 | 神樂胴當【ＧＸ】 |
 | 6232 | Kamiza G [Chestplate 】 | 上座胸甲【Ｇ】 |
 | 6233 | Kamiza GF [Chestplate 】 | 上座胸甲【ＧＦ】 |
 | 6234 | Kamiza GX [Chestplate 】 | 上座胸甲【ＧＸ】 |
@@ -276,10 +276,10 @@
 | 6270 | Suzaku・刀神GX Mail | 朱雀鎧甲【ＧＸ】 |
 | 6271 | Genbu・刀神GX Mail | 玄武鎧甲【ＧＸ】 |
 | 6272 | Seiryu・刀神GX Mail | 青龍鎧甲【ＧＸ】 |
-| 6273 | Byakko・Heaven 槍GX Mail | 白虎鎧甲【ＧＸ】・天 |
-| 6274 | Suzaku・Heaven 槍GX Mail | 朱雀鎧甲【ＧＸ】・天 |
-| 6275 | Genbu・Heaven 槍GX Mail | 玄武鎧甲【ＧＸ】・天 |
-| 6276 | Seiryu・Heaven 槍GX Mail | 青龍鎧甲【ＧＸ】・天 |
+| 6273 | Byakko・Heaven 槍GX Mail | 白虎天鎧甲【ＧＸ】 |
+| 6274 | Suzaku・Heaven 槍GX Mail | 朱雀天鎧甲【ＧＸ】 |
+| 6275 | Genbu・Heaven 槍GX Mail | 玄武天鎧甲【ＧＸ】 |
+| 6276 | Seiryu・Heaven 槍GX Mail | 青龍天鎧甲【ＧＸ】 |
 | 6277 | Byakko・砲皇GX Mail | 白虎鎧甲【ＧＸ】 |
 | 6278 | Suzaku・砲皇GX Mail | 朱雀鎧甲【ＧＸ】 |
 | 6279 | Genbu・砲皇GX Mail | 玄武鎧甲【ＧＸ】 |
@@ -498,10 +498,10 @@
 | 6492 | Gloria GP Mail・Blue | 榮光鎧甲【ＧＰ】・青 |
 | 6493 | Gloria GS Suit・Blue | 榮光套裝【ＧＳ】・青 |
 | 6494 | Gloria GP Suit・Blue | 榮光套裝【ＧＰ】・青 |
-| 6495 | Gloria GS Mail・Water | 榮光水鎧甲【ＧＳ】 |
-| 6496 | Gloria GP Mail・Water | 榮光水鎧甲【ＧＰ】 |
-| 6497 | Gloria GS Suit・Water | 榮光水套裝【ＧＳ】 |
-| 6498 | Gloria GP Suit・Water | 榮光水套裝【ＧＰ】 |
+| 6495 | Gloria GS Mail・Water | 榮光鎧甲【ＧＳ】・水 |
+| 6496 | Gloria GP Mail・Water | 榮光鎧甲【ＧＰ】・水 |
+| 6497 | Gloria GS Suit・Water | 榮光套裝【ＧＳ】・水 |
+| 6498 | Gloria GP Suit・Water | 榮光套裝【ＧＰ】・水 |
 | 6499 | Gloria GS Mail・Red | 榮光鎧甲【ＧＳ】・赤 |
 | 6500 | Gloria GP Mail・Red | 榮光鎧甲【ＧＰ】・赤 |
 

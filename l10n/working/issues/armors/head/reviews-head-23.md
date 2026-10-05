@@ -4,36 +4,36 @@
 
 | index | 原文 | 譯文 |
 |---|---|---|
-| 11001 | Blue Ice Emperor Cap | 冰帝兜帽・青 |
-| 11002 | Blue Ice Emperor F Cap | 冰帝兜帽【Ｆ】・青 |
-| 11003 | Blue Ice Emperor FZ Cap | 冰帝兜帽【ＦＺ】・青 |
-| 11004 | Blue Ice Emperor HS Cap | 冰帝兜帽【ＨＳ】・青 |
-| 11005 | Blue Ice Emperor GS Cap | 冰帝兜帽【ＧＳ】・青 |
-| 11006 | Blue Ice Emperor GP Cap | 冰帝兜帽【ＧＰ】・青 |
-| 11007 | White Ice Emperor Head | 冰帝頭兜・白 |
-| 11008 | White Ice Emperor F Head | 冰帝頭兜【Ｆ】・白 |
-| 11009 | White Ice Emperor FZ Head | 冰帝頭兜【ＦＺ】・白 |
-| 11010 | White Ice Emperor HS Head | 冰帝頭兜【ＨＳ】・白 |
-| 11011 | White Ice Emperor GS Head | 冰帝頭兜【ＧＳ】・白 |
-| 11012 | White Ice Emperor GP Head | 冰帝頭兜【ＧＰ】・白 |
-| 11013 | White Ice Emperor Cap | 冰帝兜帽・白 |
-| 11014 | White Ice Emperor F Cap | 冰帝兜帽【Ｆ】・白 |
-| 11015 | White Ice Emperor FZ Cap | 冰帝兜帽【ＦＺ】・白 |
-| 11016 | White Ice Emperor HS Cap | 冰帝兜帽【ＨＳ】・白 |
-| 11017 | White Ice Emperor GS Cap | 冰帝兜帽【ＧＳ】・白 |
-| 11018 | White Ice Emperor GP Cap | 冰帝兜帽【ＧＰ】・白 |
-| 11019 | Red Ice Emperor Head | 冰帝頭兜・赤 |
-| 11020 | Red Ice Emperor F Head | 冰帝頭兜【Ｆ】・赤 |
-| 11021 | Red Ice Emperor FZ Head | 冰帝頭兜【ＦＺ】・赤 |
-| 11022 | Red Ice Emperor HS Head | 冰帝頭兜【ＨＳ】・赤 |
-| 11023 | Red Ice Emperor GS Head | 冰帝頭兜【ＧＳ】・赤 |
-| 11024 | Red Ice Emperor GP Head | 冰帝頭兜【ＧＰ】・赤 |
-| 11025 | Red Ice Emperor Cap | 冰帝兜帽・赤 |
-| 11026 | Red Ice Emperor F Cap | 冰帝兜帽【Ｆ】・赤 |
-| 11027 | Red Ice Emperor FZ Cap | 冰帝兜帽【ＦＺ】・赤 |
-| 11028 | Red Ice Emperor HS Cap | 冰帝兜帽【ＨＳ】・赤 |
-| 11029 | Red Ice Emperor GS Cap | 冰帝兜帽【ＧＳ】・赤 |
-| 11030 | Red Ice Emperor GP Cap | 冰帝兜帽【ＧＰ】・赤 |
+| 11001 | Blue Ice Emperor Cap | 青冰帝兜帽 |
+| 11002 | Blue Ice Emperor F Cap | 青冰帝兜帽【Ｆ】 |
+| 11003 | Blue Ice Emperor FZ Cap | 青冰帝兜帽【ＦＺ】 |
+| 11004 | Blue Ice Emperor HS Cap | 青冰帝兜帽【ＨＳ】 |
+| 11005 | Blue Ice Emperor GS Cap | 青冰帝兜帽【ＧＳ】 |
+| 11006 | Blue Ice Emperor GP Cap | 青冰帝兜帽【ＧＰ】 |
+| 11007 | White Ice Emperor Head | 白冰帝頭兜 |
+| 11008 | White Ice Emperor F Head | 白冰帝頭兜【Ｆ】 |
+| 11009 | White Ice Emperor FZ Head | 白冰帝頭兜【ＦＺ】 |
+| 11010 | White Ice Emperor HS Head | 白冰帝頭兜【ＨＳ】 |
+| 11011 | White Ice Emperor GS Head | 白冰帝頭兜【ＧＳ】 |
+| 11012 | White Ice Emperor GP Head | 白冰帝頭兜【ＧＰ】 |
+| 11013 | White Ice Emperor Cap | 白冰帝兜帽 |
+| 11014 | White Ice Emperor F Cap | 白冰帝兜帽【Ｆ】 |
+| 11015 | White Ice Emperor FZ Cap | 白冰帝兜帽【ＦＺ】 |
+| 11016 | White Ice Emperor HS Cap | 白冰帝兜帽【ＨＳ】 |
+| 11017 | White Ice Emperor GS Cap | 白冰帝兜帽【ＧＳ】 |
+| 11018 | White Ice Emperor GP Cap | 白冰帝兜帽【ＧＰ】 |
+| 11019 | Red Ice Emperor Head | 赤冰帝頭兜 |
+| 11020 | Red Ice Emperor F Head | 赤冰帝頭兜【Ｆ】 |
+| 11021 | Red Ice Emperor FZ Head | 赤冰帝頭兜【ＦＺ】 |
+| 11022 | Red Ice Emperor HS Head | 赤冰帝頭兜【ＨＳ】 |
+| 11023 | Red Ice Emperor GS Head | 赤冰帝頭兜【ＧＳ】 |
+| 11024 | Red Ice Emperor GP Head | 赤冰帝頭兜【ＧＰ】 |
+| 11025 | Red Ice Emperor Cap | 赤冰帝兜帽 |
+| 11026 | Red Ice Emperor F Cap | 赤冰帝兜帽【Ｆ】 |
+| 11027 | Red Ice Emperor FZ Cap | 赤冰帝兜帽【ＦＺ】 |
+| 11028 | Red Ice Emperor HS Cap | 赤冰帝兜帽【ＨＳ】 |
+| 11029 | Red Ice Emperor GS Cap | 赤冰帝兜帽【ＧＳ】 |
+| 11030 | Red Ice Emperor GP Cap | 赤冰帝兜帽【ＧＰ】 |
 | 11031 | Taruta Head | 特阿爾烏頭兜 |
 | 11032 | Taruta F Head | 特阿爾烏頭兜【Ｆ】 |
 | 11033 | Taruta FZ Head | 特阿爾烏頭兜【ＦＺ】 |
@@ -319,20 +319,20 @@
 | 11313 | Guan G Corsage | 關胸花【Ｇ】 |
 | 11314 | Guan GF Corsage | 關胸花【ＧＦ】 |
 | 11315 | Guan GX Corsage | 關胸花【ＧＸ】 |
-| 11316 | Blize Helm | 布萊茲頭兜 |
-| 11317 | Blize F Helm | 布萊茲頭兜【Ｆ】 |
+| 11316 | Blize Helm | 布來茲頭兜 |
+| 11317 | Blize F Helm | 布來茲頭兜【Ｆ】 |
 | 11318 | Blize FY Helm | 布伊茲艾頭兜 |
-| 11319 | Blize HS Helm | 布萊茲頭兜【ＨＳ】 |
-| 11320 | Blize G Helm | 布萊茲頭兜【Ｇ】 |
-| 11321 | Blize GF Helm | 布萊茲頭兜【ＧＦ】 |
-| 11322 | Blize GX Helm | 布萊茲頭兜【ＧＸ】 |
-| 11323 | Blize Cap | 布萊茲兜帽 |
-| 11324 | Blize F Cap | 布萊茲兜帽【Ｆ】 |
+| 11319 | Blize HS Helm | 布來茲頭兜【ＨＳ】 |
+| 11320 | Blize G Helm | 布來茲頭兜【Ｇ】 |
+| 11321 | Blize GF Helm | 布來茲頭兜【ＧＦ】 |
+| 11322 | Blize GX Helm | 布來茲頭兜【ＧＸ】 |
+| 11323 | Blize Cap | 布來茲兜帽 |
+| 11324 | Blize F Cap | 布來茲兜帽【Ｆ】 |
 | 11325 | Blize FY Cap | 布伊茲艾兜帽 |
-| 11326 | Blize HS Cap | 布萊茲兜帽【ＨＳ】 |
-| 11327 | Blize G Cap | 布萊茲兜帽【Ｇ】 |
-| 11328 | Blize GF Cap | 布萊茲兜帽【ＧＦ】 |
-| 11329 | Blize GX Cap | 布萊茲兜帽【ＧＸ】 |
+| 11326 | Blize HS Cap | 布來茲兜帽【ＨＳ】 |
+| 11327 | Blize G Cap | 布來茲兜帽【Ｇ】 |
+| 11328 | Blize GF Cap | 布來茲兜帽【ＧＦ】 |
+| 11329 | Blize GX Cap | 布來茲兜帽【ＧＸ】 |
 | 11330 | Higakure C Helm | 赫伊格阿頭兜 |
 | 11331 | Harokyu D Head | 赫阿爾歐頭兜 |
 | 11332 | Evol D Head・White | 艾芙歐爾頭兜・白 |
@@ -341,12 +341,12 @@
 | 11335 | Evol D Head・Purple | 艾芙歐爾頭兜・紫 |
 | 11336 | Hunting Troops Head・Male | 赫烏恩伊頭兜 |
 | 11337 | Hunting Troops Head・Female | 赫烏恩伊頭兜 |
-| 11338 | Blue Ice Emperor ZP Head | 冰帝頭兜【ＺＰ】・青 |
-| 11339 | Blue Ice Emperor ZP Cap | 冰帝兜帽【ＺＰ】・青 |
-| 11340 | White Ice Emperor ZP Head | 冰帝頭兜【ＺＰ】・白 |
-| 11341 | White Ice Emperor ZP Cap | 冰帝兜帽【ＺＰ】・白 |
-| 11342 | Red Ice Emperor ZP Head | 冰帝頭兜【ＺＰ】・赤 |
-| 11343 | Red Ice Emperor ZP Cap | 冰帝兜帽【ＺＰ】・赤 |
+| 11338 | Blue Ice Emperor ZP Head | 青冰帝頭兜【ＺＰ】 |
+| 11339 | Blue Ice Emperor ZP Cap | 青冰帝兜帽【ＺＰ】 |
+| 11340 | White Ice Emperor ZP Head | 白冰帝頭兜【ＺＰ】 |
+| 11341 | White Ice Emperor ZP Cap | 白冰帝兜帽【ＺＰ】 |
+| 11342 | Red Ice Emperor ZP Head | 赤冰帝頭兜【ＺＰ】 |
+| 11343 | Red Ice Emperor ZP Cap | 赤冰帝兜帽【ＺＰ】 |
 | 11344 | Wander Head・Blue | 流浪頭兜・青 |
 | 11345 | Wander F Head・Blue | 流浪頭兜【Ｆ】・青 |
 | 11346 | Wander FZ Head・Blue | 流浪頭兜【ＦＺ】・青 |

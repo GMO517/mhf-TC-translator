@@ -13,13 +13,13 @@
 | 9507 | Plug GS Coat :02 | 插頭腰衣【ＧＳ】 |
 | 9508 | Plug GP Coat :02 | 插頭腰衣【ＧＰ】 |
 | 9509 | Mark.06 Coil | 馬克06腰甲 |
-| 9510 | Mark.06F Coil | 腰甲 |
+| 9510 | Mark.06F Coil | 馬克06腰甲 |
 | 9511 | Mark.06FZ Coil | 馬克06腰甲【ＦＺ】 |
 | 9512 | Mark.06HS Coil | 馬克06腰甲【ＨＳ】 |
 | 9513 | Mark.06GS Coil | 馬克06腰甲【ＧＳ】 |
 | 9514 | Mark.06GP Coil | 馬克06腰甲【ＧＰ】 |
 | 9515 | Mark.06 Coat | 馬克06腰衣 |
-| 9516 | Mark.06F Coat | 腰衣 |
+| 9516 | Mark.06F Coat | 馬克06腰衣 |
 | 9517 | Mark.06FZ Coat | 馬克06腰衣【ＦＺ】 |
 | 9518 | Mark.06HS Coat | 馬克06腰衣【ＨＳ】 |
 | 9519 | Mark.06GS Coat | 馬克06腰衣【ＧＳ】 |
@@ -269,12 +269,12 @@
 | 9763 | Chiyo Waistband HS | 千代腰帶【ＨＳ】 |
 | 9764 | Chiyo Waistband GS | 千代腰帶【ＧＳ】 |
 | 9765 | Chiyo Waistband GP | 千代腰帶【ＧＰ】 |
-| 9766 | Chiyo Colour Belt | 奇伊伊歐腰帶 |
-| 9767 | Chiyo Colour Belt F | 奇伊伊歐腰帶【Ｆ】 |
-| 9768 | Chiyo Colour Belt FZ | 奇伊伊歐腰帶【ＦＺ】 |
-| 9769 | Chiyo Colour Belt HS | 奇伊伊歐腰帶【ＨＳ】 |
-| 9770 | Chiyo Colour Belt GS | 奇伊伊歐腰帶【ＧＳ】 |
-| 9771 | Chiyo Colour Belt GP | 奇伊伊歐腰帶【ＧＰ】 |
+| 9766 | Chiyo Colour Belt | 千代腰帶 |
+| 9767 | Chiyo Colour Belt F | 千代腰帶【Ｆ】 |
+| 9768 | Chiyo Colour Belt FZ | 千代腰帶【ＦＺ】 |
+| 9769 | Chiyo Colour Belt HS | 千代腰帶【ＨＳ】 |
+| 9770 | Chiyo Colour Belt GS | 千代腰帶【ＧＳ】 |
+| 9771 | Chiyo Colour Belt GP | 千代腰帶【ＧＰ】 |
 | 9772 | Uragaan Faulds | 爆錘龍腰甲 |
 | 9773 | Uragaan G Faulds | 爆錘龍腰甲【Ｇ】 |
 | 9774 | Uragaan GF Faulds | 爆錘龍腰甲【ＧＦ】 |

@@ -251,16 +251,16 @@
 | 3245 | Gloria FZ Coat・Blue | 榮光腰衣【ＦＺ】・青 |
 | 3246 | Gloria HC Coat・Blue | 榮光腰衣【ＨＣ】・青 |
 | 3247 | Gloria HS Coat・Blue | 榮光腰衣【ＨＳ】・青 |
-| 3248 | Gloria Coil・Water | 榮光水腰甲 |
-| 3249 | Gloria F Coil・Water | 榮光水腰甲【Ｆ】 |
-| 3250 | Gloria FZ Coil・Water | 榮光水腰甲【ＦＺ】 |
-| 3251 | Gloria HC Coil・Water | 榮光水腰甲【ＨＣ】 |
-| 3252 | Gloria HS Coil・Water | 榮光水腰甲【ＨＳ】 |
-| 3253 | Gloria Coat・Water | 榮光水腰衣 |
-| 3254 | Gloria F Coat・Water | 榮光水腰衣【Ｆ】 |
-| 3255 | Gloria FZ Coat・Water | 榮光水腰衣【ＦＺ】 |
-| 3256 | Gloria HC Coat・Water | 榮光水腰衣【ＨＣ】 |
-| 3257 | Gloria HS Coat・Water | 榮光水腰衣【ＨＳ】 |
+| 3248 | Gloria Coil・Water | 榮光腰甲・水 |
+| 3249 | Gloria F Coil・Water | 榮光腰甲【Ｆ】・水 |
+| 3250 | Gloria FZ Coil・Water | 榮光腰甲【ＦＺ】・水 |
+| 3251 | Gloria HC Coil・Water | 榮光腰甲【ＨＣ】・水 |
+| 3252 | Gloria HS Coil・Water | 榮光腰甲【ＨＳ】・水 |
+| 3253 | Gloria Coat・Water | 榮光腰衣・水 |
+| 3254 | Gloria F Coat・Water | 榮光腰衣【Ｆ】・水 |
+| 3255 | Gloria FZ Coat・Water | 榮光腰衣【ＦＺ】・水 |
+| 3256 | Gloria HC Coat・Water | 榮光腰衣【ＨＣ】・水 |
+| 3257 | Gloria HS Coat・Water | 榮光腰衣【ＨＳ】・水 |
 | 3258 | Gloria Coil・Red | 榮光腰甲・赤 |
 | 3259 | Gloria F Coil・Red | 榮光腰甲【Ｆ】・赤 |
 | 3260 | Gloria FZ Coil・Red | 榮光腰甲【ＦＺ】・赤 |
@@ -271,86 +271,86 @@
 | 3265 | Gloria FZ Coat・Red | 榮光腰衣【ＦＺ】・赤 |
 | 3266 | Gloria HC Coat・Red | 榮光腰衣【ＨＣ】・赤 |
 | 3267 | Gloria HS Coat・Red | 榮光腰衣【ＨＳ】・赤 |
-| 3268 | Shinryu Black Obi・Red | 神龍帶・赤・黑 |
-| 3269 | Shinryu F Black Obi・Red | 神龍帶【Ｆ】・赤・黑 |
-| 3270 | Shinryu FZ Black Obi・Red | 神龍帶【ＦＺ】・赤・黑 |
-| 3271 | Shinryu HC Black Obi・Red | 神龍帶【ＨＣ】・赤・黑 |
-| 3272 | Shinryu HS Black Obi・Red | 神龍帶【ＨＳ】・赤・黑 |
-| 3273 | Reppa Black Obi・Red | 烈破帶・赤・黑 |
-| 3274 | Reppa F Black Obi・Red | 烈破帶【Ｆ】・赤・黑 |
-| 3275 | Reppa FZ Black Obi・Red | 烈破帶【ＦＺ】・赤・黑 |
-| 3276 | Reppa HC Black Obi・Red | 烈破帶【ＨＣ】・赤・黑 |
-| 3277 | Reppa HS Black Obi・Red | 烈破帶【ＨＳ】・赤・黑 |
-| 3278 | Shinryu Black Obi・White | 神龍帶・白・黑 |
-| 3279 | Shinryu F Black Obi・White | 神龍帶【Ｆ】・白・黑 |
-| 3280 | Shinryu FZ Black Obi・White | 神龍帶【ＦＺ】・白・黑 |
-| 3281 | Shinryu HC Black Obi・White | 神龍帶【ＨＣ】・白・黑 |
-| 3282 | Shinryu HS Black Obi・White | 神龍帶【ＨＳ】・白・黑 |
-| 3283 | Reppa Black Obi・White | 烈破帶・白・黑 |
-| 3284 | Reppa F Black Obi・White | 烈破帶【Ｆ】・白・黑 |
-| 3285 | Reppa FZ Black Obi・White | 烈破帶【ＦＺ】・白・黑 |
-| 3286 | Reppa HC Black Obi・White | 烈破帶【ＨＣ】・白・黑 |
-| 3287 | Reppa HS Black Obi・White | 烈破帶【ＨＳ】・白・黑 |
-| 3288 | Shinryu Black Obi・Purple | 神龍帶・紫・黑 |
-| 3289 | Shinryu F Black Obi・Purple | 神龍帶【Ｆ】・紫・黑 |
-| 3290 | Shinryu FZ Black Obi・Purple | 神龍帶【ＦＺ】・紫・黑 |
-| 3291 | Shinryu HC Black Obi・Purple | 神龍帶【ＨＣ】・紫・黑 |
-| 3292 | Shinryu HS Black Obi・Purple | 神龍帶【ＨＳ】・紫・黑 |
-| 3293 | Reppa Black Obi・Purple | 烈破帶・紫・黑 |
-| 3294 | Reppa F Black Obi・Purple | 烈破帶【Ｆ】・紫・黑 |
-| 3295 | Reppa FZ Black Obi・Purple | 烈破帶【ＦＺ】・紫・黑 |
-| 3296 | Reppa HC Black Obi・Purple | 烈破帶【ＨＣ】・紫・黑 |
-| 3297 | Reppa HS Black Obi・Purple | 烈破帶【ＨＳ】・紫・黑 |
-| 3298 | Shinryu Black Obi・Yellow | 神龍帶・黄・黑 |
-| 3299 | Shinryu F Black Obi・Yellow | 神龍帶【Ｆ】・黄・黑 |
-| 3300 | Shinryu FZ Black Obi・Yellow | 神龍帶【ＦＺ】・黄・黑 |
-| 3301 | Shinryu HC Black Obi・Yellow | 神龍帶【ＨＣ】・黄・黑 |
-| 3302 | Shinryu HS Black Obi・Yellow | 神龍帶【ＨＳ】・黄・黑 |
-| 3303 | Reppa Black Obi・Yellow | 烈破帶・黄・黑 |
-| 3304 | Reppa F Black Obi・Yellow | 烈破帶【Ｆ】・黄・黑 |
-| 3305 | Reppa FZ Black Obi・Yellow | 烈破帶【ＦＺ】・黄・黑 |
-| 3306 | Reppa HC Black Obi・Yellow | 烈破帶【ＨＣ】・黄・黑 |
-| 3307 | Reppa HS Black Obi・Yellow | 烈破帶【ＨＳ】・黄・黑 |
-| 3308 | Cannon Will・Water | 克阿恩歐腰甲 |
-| 3309 | Cannon F Will・Water | 克阿恩歐腰甲【Ｆ】 |
-| 3310 | Cannon FZ Will・Water | 克阿恩歐腰甲【ＦＺ】 |
-| 3311 | Cannon HC Will・Water | 克阿恩歐腰甲【ＨＣ】 |
-| 3312 | Cannon HS Will・Water | 克阿恩歐腰甲【ＨＳ】 |
-| 3313 | Axel Will・Water | 阿克斯艾腰甲 |
-| 3314 | Axel F Will・Water | 阿克斯艾腰甲【Ｆ】 |
-| 3315 | Axel FZ Will・Water | 阿克斯艾腰甲【ＦＺ】 |
-| 3316 | Axel HC Will・Water | 阿克斯艾腰甲【ＨＣ】 |
-| 3317 | Axel HS Will・Water | 阿克斯艾腰甲【ＨＳ】 |
-| 3318 | Cannon Will・Green | 克阿恩歐腰甲・緑 |
-| 3319 | Cannon F Will・Green | 克阿恩歐腰甲【Ｆ】・緑 |
-| 3320 | Cannon FZ Will・Green | 克阿恩歐腰甲【ＦＺ】・緑 |
-| 3321 | Cannon HC Will・Green | 克阿恩歐腰甲【ＨＣ】・緑 |
-| 3322 | Cannon HS Will・Green | 克阿恩歐腰甲【ＨＳ】・緑 |
-| 3323 | Axel Will・Green | 阿克斯艾腰甲・緑 |
-| 3324 | Axel F Will・Green | 阿克斯艾腰甲【Ｆ】・緑 |
-| 3325 | Axel FZ Will・Green | 阿克斯艾腰甲【ＦＺ】・緑 |
-| 3326 | Axel HC Will・Green | 阿克斯艾腰甲【ＨＣ】・緑 |
-| 3327 | Axel HS Will・Green | 阿克斯艾腰甲【ＨＳ】・緑 |
-| 3328 | Cannon Will・Peach | 克阿恩歐腰甲・桃 |
-| 3329 | Cannon F Will・Peach | 克阿恩歐腰甲【Ｆ】・桃 |
-| 3330 | Cannon FZ Will・Peach | 克阿恩歐腰甲【ＦＺ】・桃 |
-| 3331 | Cannon HC Will・Peach | 克阿恩歐腰甲【ＨＣ】・桃 |
-| 3332 | Cannon HS Will・Peach | 克阿恩歐腰甲【ＨＳ】・桃 |
-| 3333 | Axel Will・Peach | 阿克斯艾腰甲・桃 |
-| 3334 | Axel F Will・Peach | 阿克斯艾腰甲【Ｆ】・桃 |
-| 3335 | Axel FZ Will・Peach | 阿克斯艾腰甲【ＦＺ】・桃 |
-| 3336 | Axel HC Will・Peach | 阿克斯艾腰甲【ＨＣ】・桃 |
-| 3337 | Axel HS Will・Peach | 阿克斯艾腰甲【ＨＳ】・桃 |
-| 3338 | Cannon Will・Purple | 克阿恩歐腰甲・紫 |
-| 3339 | Cannon F Will・Purple | 克阿恩歐腰甲【Ｆ】・紫 |
-| 3340 | Cannon FZ Will・Purple | 克阿恩歐腰甲【ＦＺ】・紫 |
-| 3341 | Cannon HC Will・Purple | 克阿恩歐腰甲【ＨＣ】・紫 |
-| 3342 | Cannon HS Will・Purple | 克阿恩歐腰甲【ＨＳ】・紫 |
-| 3343 | Axel Will・Purple | 阿克斯艾腰甲・紫 |
-| 3344 | Axel F Will・Purple | 阿克斯艾腰甲【Ｆ】・紫 |
-| 3345 | Axel FZ Will・Purple | 阿克斯艾腰甲【ＦＺ】・紫 |
-| 3346 | Axel HC Will・Purple | 阿克斯艾腰甲【ＨＣ】・紫 |
-| 3347 | Axel HS Will・Purple | 阿克斯艾腰甲【ＨＳ】・紫 |
+| 3268 | Shinryu Black Obi・Red | 神龍帶・黑 |
+| 3269 | Shinryu F Black Obi・Red | 神龍帶【Ｆ】・黑 |
+| 3270 | Shinryu FZ Black Obi・Red | 神龍帶【ＦＺ】・黑 |
+| 3271 | Shinryu HC Black Obi・Red | 神龍帶【ＨＣ】・黑 |
+| 3272 | Shinryu HS Black Obi・Red | 神龍帶【ＨＳ】・黑 |
+| 3273 | Reppa Black Obi・Red | 烈破帶・黑 |
+| 3274 | Reppa F Black Obi・Red | 烈破帶【Ｆ】・黑 |
+| 3275 | Reppa FZ Black Obi・Red | 烈破帶【ＦＺ】・黑 |
+| 3276 | Reppa HC Black Obi・Red | 烈破帶【ＨＣ】・黑 |
+| 3277 | Reppa HS Black Obi・Red | 烈破帶【ＨＳ】・黑 |
+| 3278 | Shinryu Black Obi・White | 神龍帶・黑 |
+| 3279 | Shinryu F Black Obi・White | 神龍帶【Ｆ】・黑 |
+| 3280 | Shinryu FZ Black Obi・White | 神龍帶【ＦＺ】・黑 |
+| 3281 | Shinryu HC Black Obi・White | 神龍帶【ＨＣ】・黑 |
+| 3282 | Shinryu HS Black Obi・White | 神龍帶【ＨＳ】・黑 |
+| 3283 | Reppa Black Obi・White | 烈破帶・黑 |
+| 3284 | Reppa F Black Obi・White | 烈破帶【Ｆ】・黑 |
+| 3285 | Reppa FZ Black Obi・White | 烈破帶【ＦＺ】・黑 |
+| 3286 | Reppa HC Black Obi・White | 烈破帶【ＨＣ】・黑 |
+| 3287 | Reppa HS Black Obi・White | 烈破帶【ＨＳ】・黑 |
+| 3288 | Shinryu Black Obi・Purple | 神龍帶・黑 |
+| 3289 | Shinryu F Black Obi・Purple | 神龍帶【Ｆ】・黑 |
+| 3290 | Shinryu FZ Black Obi・Purple | 神龍帶【ＦＺ】・黑 |
+| 3291 | Shinryu HC Black Obi・Purple | 神龍帶【ＨＣ】・黑 |
+| 3292 | Shinryu HS Black Obi・Purple | 神龍帶【ＨＳ】・黑 |
+| 3293 | Reppa Black Obi・Purple | 烈破帶・黑 |
+| 3294 | Reppa F Black Obi・Purple | 烈破帶【Ｆ】・黑 |
+| 3295 | Reppa FZ Black Obi・Purple | 烈破帶【ＦＺ】・黑 |
+| 3296 | Reppa HC Black Obi・Purple | 烈破帶【ＨＣ】・黑 |
+| 3297 | Reppa HS Black Obi・Purple | 烈破帶【ＨＳ】・黑 |
+| 3298 | Shinryu Black Obi・Yellow | 神龍帶・黑 |
+| 3299 | Shinryu F Black Obi・Yellow | 神龍帶【Ｆ】・黑 |
+| 3300 | Shinryu FZ Black Obi・Yellow | 神龍帶【ＦＺ】・黑 |
+| 3301 | Shinryu HC Black Obi・Yellow | 神龍帶【ＨＣ】・黑 |
+| 3302 | Shinryu HS Black Obi・Yellow | 神龍帶【ＨＳ】・黑 |
+| 3303 | Reppa Black Obi・Yellow | 烈破帶・黑 |
+| 3304 | Reppa F Black Obi・Yellow | 烈破帶【Ｆ】・黑 |
+| 3305 | Reppa FZ Black Obi・Yellow | 烈破帶【ＦＺ】・黑 |
+| 3306 | Reppa HC Black Obi・Yellow | 烈破帶【ＨＣ】・黑 |
+| 3307 | Reppa HS Black Obi・Yellow | 烈破帶【ＨＳ】・黑 |
+| 3308 | Cannon Will・Water | 砲意志腰甲・水 |
+| 3309 | Cannon F Will・Water | 砲意志腰甲【Ｆ】・水 |
+| 3310 | Cannon FZ Will・Water | 砲意志腰甲【ＦＺ】・水 |
+| 3311 | Cannon HC Will・Water | 砲意志腰甲【ＨＣ】・水 |
+| 3312 | Cannon HS Will・Water | 砲意志腰甲【ＨＳ】・水 |
+| 3313 | Axel Will・Water | 軸意志腰甲・水 |
+| 3314 | Axel F Will・Water | 軸意志腰甲【Ｆ】・水 |
+| 3315 | Axel FZ Will・Water | 軸意志腰甲【ＦＺ】・水 |
+| 3316 | Axel HC Will・Water | 軸意志腰甲【ＨＣ】・水 |
+| 3317 | Axel HS Will・Water | 軸意志腰甲【ＨＳ】・水 |
+| 3318 | Cannon Will・Green | 砲意志腰甲・緑 |
+| 3319 | Cannon F Will・Green | 砲意志腰甲【Ｆ】・緑 |
+| 3320 | Cannon FZ Will・Green | 砲意志腰甲【ＦＺ】・緑 |
+| 3321 | Cannon HC Will・Green | 砲意志腰甲【ＨＣ】・緑 |
+| 3322 | Cannon HS Will・Green | 砲意志腰甲【ＨＳ】・緑 |
+| 3323 | Axel Will・Green | 軸意志腰甲・緑 |
+| 3324 | Axel F Will・Green | 軸意志腰甲【Ｆ】・緑 |
+| 3325 | Axel FZ Will・Green | 軸意志腰甲【ＦＺ】・緑 |
+| 3326 | Axel HC Will・Green | 軸意志腰甲【ＨＣ】・緑 |
+| 3327 | Axel HS Will・Green | 軸意志腰甲【ＨＳ】・緑 |
+| 3328 | Cannon Will・Peach | 砲意志腰甲・桃 |
+| 3329 | Cannon F Will・Peach | 砲意志腰甲【Ｆ】・桃 |
+| 3330 | Cannon FZ Will・Peach | 砲意志腰甲【ＦＺ】・桃 |
+| 3331 | Cannon HC Will・Peach | 砲意志腰甲【ＨＣ】・桃 |
+| 3332 | Cannon HS Will・Peach | 砲意志腰甲【ＨＳ】・桃 |
+| 3333 | Axel Will・Peach | 軸意志腰甲・桃 |
+| 3334 | Axel F Will・Peach | 軸意志腰甲【Ｆ】・桃 |
+| 3335 | Axel FZ Will・Peach | 軸意志腰甲【ＦＺ】・桃 |
+| 3336 | Axel HC Will・Peach | 軸意志腰甲【ＨＣ】・桃 |
+| 3337 | Axel HS Will・Peach | 軸意志腰甲【ＨＳ】・桃 |
+| 3338 | Cannon Will・Purple | 砲意志腰甲・紫 |
+| 3339 | Cannon F Will・Purple | 砲意志腰甲【Ｆ】・紫 |
+| 3340 | Cannon FZ Will・Purple | 砲意志腰甲【ＦＺ】・紫 |
+| 3341 | Cannon HC Will・Purple | 砲意志腰甲【ＨＣ】・紫 |
+| 3342 | Cannon HS Will・Purple | 砲意志腰甲【ＨＳ】・紫 |
+| 3343 | Axel Will・Purple | 軸意志腰甲・紫 |
+| 3344 | Axel F Will・Purple | 軸意志腰甲【Ｆ】・紫 |
+| 3345 | Axel FZ Will・Purple | 軸意志腰甲【ＦＺ】・紫 |
+| 3346 | Axel HC Will・Purple | 軸意志腰甲【ＨＣ】・紫 |
+| 3347 | Axel HS Will・Purple | 軸意志腰甲【ＨＳ】・紫 |
 | 3348 | 剣士ランク8 | 拉恩庫腰甲 |
 | 3349 | 剣士ランク9 | 拉恩庫腰甲 |
 | 3350 | ガンランク8 | 加恩拉恩庫腰甲 |

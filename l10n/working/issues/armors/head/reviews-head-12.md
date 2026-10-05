@@ -261,12 +261,12 @@
 | 5755 | 迅雷HS Hachimaki | 迅雷鉢卷【ＨＳ】 |
 | 5756 | 迅雷GS Hachimaki | 迅雷鉢卷【ＧＳ】 |
 | 5757 | 迅雷GP Hachimaki | 迅雷鉢卷【ＧＰ】 |
-| 5758 | Heaven 星お団子 | 星お団子頭兜・天 |
-| 5759 | Heaven 星Fお団子 | 星お団子頭兜・天 |
-| 5760 | Heaven 星FZお団子 | 星お団子頭兜・天 |
-| 5761 | Heaven 星HSお団子 | 星お団子頭兜・天 |
-| 5762 | Heaven 星GSお団子 | 星お団子頭兜・天 |
-| 5763 | Heaven 星GPお団子 | 星お団子頭兜・天 |
+| 5758 | Heaven 星お団子 | 星お団子天頭兜 |
+| 5759 | Heaven 星Fお団子 | 星お団子天頭兜 |
+| 5760 | Heaven 星FZお団子 | 星お団子天頭兜 |
+| 5761 | Heaven 星HSお団子 | 星お団子天頭兜 |
+| 5762 | Heaven 星GSお団子 | 星お団子天頭兜 |
+| 5763 | Heaven 星GPお団子 | 星お団子天頭兜 |
 | 5764 | 飛燕お団子 | 飛燕お団子頭兜 |
 | 5765 | 飛燕Fお団子 | 飛燕お団子頭兜 |
 | 5766 | 飛燕FZお団子 | 飛燕お団子頭兜 |
@@ -333,18 +333,18 @@
 | 5827 | ノメルHS Cap | 諾梅魯兜帽【ＨＳ】 |
 | 5828 | ノメルGS Cap | 諾梅魯兜帽【ＧＳ】 |
 | 5829 | ノメルGP Cap | 諾梅魯兜帽【ＧＰ】 |
-| 5830 | Hero King Earring BM Gold | 赫艾爾歐頭兜・金 |
-| 5831 | Hero King Earring BM F Gold | 赫艾爾歐頭兜【Ｆ】・金 |
-| 5832 | Hero King Earring BM FZ Gold | 赫艾爾歐頭兜【ＦＺ】・金 |
-| 5833 | Hero King Earring BM HS Gold | 赫艾爾歐頭兜【ＨＳ】・金 |
-| 5834 | Hero King Earring BM GS Gold | 赫艾爾歐頭兜【ＧＳ】・金 |
-| 5835 | Hero King Earring BM GP Gold | 赫艾爾歐頭兜【ＧＰ】・金 |
-| 5836 | Hero King Earring GN Gold | 赫艾爾歐頭兜・金 |
-| 5837 | Hero King Earring GN F Gold | 赫艾爾歐頭兜【Ｆ】・金 |
-| 5838 | Hero King Earring GN FZ Gold | 赫艾爾歐頭兜【ＦＺ】・金 |
-| 5839 | Hero King Earring GN HS Gold | 赫艾爾歐頭兜【ＨＳ】・金 |
-| 5840 | Hero King Earring GN GS Gold | 赫艾爾歐頭兜【ＧＳ】・金 |
-| 5841 | Hero King Earring GN GP Gold | 赫艾爾歐頭兜【ＧＰ】・金 |
+| 5830 | Hero King Earring BM Gold | 英雄王頭兜・金 |
+| 5831 | Hero King Earring BM F Gold | 英雄王頭兜【Ｆ】・金 |
+| 5832 | Hero King Earring BM FZ Gold | 英雄王頭兜【ＦＺ】・金 |
+| 5833 | Hero King Earring BM HS Gold | 英雄王頭兜【ＨＳ】・金 |
+| 5834 | Hero King Earring BM GS Gold | 英雄王頭兜【ＧＳ】・金 |
+| 5835 | Hero King Earring BM GP Gold | 英雄王頭兜【ＧＰ】・金 |
+| 5836 | Hero King Earring GN Gold | 英雄王頭兜・金 |
+| 5837 | Hero King Earring GN F Gold | 英雄王頭兜【Ｆ】・金 |
+| 5838 | Hero King Earring GN FZ Gold | 英雄王頭兜【ＦＺ】・金 |
+| 5839 | Hero King Earring GN HS Gold | 英雄王頭兜【ＨＳ】・金 |
+| 5840 | Hero King Earring GN GS Gold | 英雄王頭兜【ＧＳ】・金 |
+| 5841 | Hero King Earring GN GP Gold | 英雄王頭兜【ＧＰ】・金 |
 | 5842 | Gorgon Head・Black | 戈耳工頭兜・黑 |
 | 5843 | Gorgon F Head・Black | 戈耳工頭兜【Ｆ】・黑 |
 | 5844 | Gorgon FZ Head・Black | 戈耳工頭兜【ＦＺ】・黑 |
@@ -453,8 +453,8 @@
 | 5947 | Robust GP Face | 剛健面罩【ＧＰ】 |
 | 5948 | Fireworks GS Hachigane | 芙伊爾艾鉢金【ＧＳ】 |
 | 5949 | Fireworks GP Hachigane | 芙伊爾艾鉢金【ＧＰ】 |
-| 5950 | Shooting Star GS Hachigane | 夏歐特伊鉢金【ＧＳ】 |
-| 5951 | Shooting Star GP Hachigane | 夏歐特伊鉢金【ＧＰ】 |
+| 5950 | Shooting Star GS Hachigane | 流星鉢金【ＧＳ】 |
+| 5951 | Shooting Star GP Hachigane | 流星鉢金【ＧＰ】 |
 | 5952 | Bunny FZ Band・Black | 兔頭帶【ＦＺ】・黑 |
 | 5953 | Bunny HS Band・Black | 兔頭帶【ＨＳ】・黑 |
 | 5954 | Bunny GS Band・Black | 兔頭帶【ＧＳ】・黑 |

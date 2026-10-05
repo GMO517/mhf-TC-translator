@@ -97,16 +97,16 @@
 | 3091 | Gloria FZ Boots・Blue | 榮光靴【ＦＺ】・青 |
 | 3092 | Gloria HC Boots・Blue | 榮光靴【ＨＣ】・青 |
 | 3093 | Gloria HS Boots・Blue | 榮光靴【ＨＳ】・青 |
-| 3094 | Gloria Feet・Water | 榮光水足 |
-| 3095 | Gloria F Feet・Water | 榮光水足【Ｆ】 |
-| 3096 | Gloria FZ Feet・Water | 榮光水足【ＦＺ】 |
-| 3097 | Gloria HC Feet・Water | 榮光水足【ＨＣ】 |
-| 3098 | Gloria HS Feet・Water | 榮光水足【ＨＳ】 |
-| 3099 | Gloria Boots・Water | 榮光水靴 |
-| 3100 | Gloria F Boots・Water | 榮光水靴【Ｆ】 |
-| 3101 | Gloria FZ Boots・Water | 榮光水靴【ＦＺ】 |
-| 3102 | Gloria HC Boots・Water | 榮光水靴【ＨＣ】 |
-| 3103 | Gloria HS Boots・Water | 榮光水靴【ＨＳ】 |
+| 3094 | Gloria Feet・Water | 榮光足・水 |
+| 3095 | Gloria F Feet・Water | 榮光足【Ｆ】・水 |
+| 3096 | Gloria FZ Feet・Water | 榮光足【ＦＺ】・水 |
+| 3097 | Gloria HC Feet・Water | 榮光足【ＨＣ】・水 |
+| 3098 | Gloria HS Feet・Water | 榮光足【ＨＳ】・水 |
+| 3099 | Gloria Boots・Water | 榮光靴・水 |
+| 3100 | Gloria F Boots・Water | 榮光靴【Ｆ】・水 |
+| 3101 | Gloria FZ Boots・Water | 榮光靴【ＦＺ】・水 |
+| 3102 | Gloria HC Boots・Water | 榮光靴【ＨＣ】・水 |
+| 3103 | Gloria HS Boots・Water | 榮光靴【ＨＳ】・水 |
 | 3104 | Gloria Feet・Red | 榮光足・赤 |
 | 3105 | Gloria F Feet・Red | 榮光足【Ｆ】・赤 |
 | 3106 | Gloria FZ Feet・Red | 榮光足【ＦＺ】・赤 |
@@ -157,46 +157,46 @@
 | 3151 | Reppa FZ脚着・Yellow | 脚着護腿・黄 |
 | 3152 | Reppa HC脚着・Yellow | 脚着護腿・黄 |
 | 3153 | Reppa HS脚着・Yellow | 脚着護腿・黄 |
-| 3154 | Cannon タイツ・Water | 加農護腿 |
-| 3155 | Cannon Fタイツ・Water | 加農護腿 |
-| 3156 | Cannon FZタイツ・Water | 加農護腿 |
-| 3157 | Cannon HCタイツ・Water | 加農護腿 |
-| 3158 | Cannon HSタイツ・Water | 加農護腿 |
-| 3159 | Axel タイツ・Water | 輪軸護腿 |
-| 3160 | Axel Fタイツ・Water | 輪軸護腿 |
-| 3161 | Axel FZタイツ・Water | 輪軸護腿 |
-| 3162 | Axel HCタイツ・Water | 輪軸護腿 |
-| 3163 | Axel HSタイツ・Water | 輪軸護腿 |
-| 3164 | Cannon タイツ・Green | 加農護腿 |
-| 3165 | Cannon Fタイツ・Green | 加農護腿 |
-| 3166 | Cannon FZタイツ・Green | 加農護腿 |
-| 3167 | Cannon HCタイツ・Green | 加農護腿 |
-| 3168 | Cannon HSタイツ・Green | 加農護腿 |
-| 3169 | Axel タイツ・Green | 輪軸護腿 |
-| 3170 | Axel Fタイツ・Green | 輪軸護腿 |
-| 3171 | Axel FZタイツ・Green | 輪軸護腿 |
-| 3172 | Axel HCタイツ・Green | 輪軸護腿 |
-| 3173 | Axel HSタイツ・Green | 輪軸護腿 |
-| 3174 | Cannon タイツ・Peach | 加農護腿 |
-| 3175 | Cannon Fタイツ・Peach | 加農護腿 |
-| 3176 | Cannon FZタイツ・Peach | 加農護腿 |
-| 3177 | Cannon HCタイツ・Peach | 加農護腿 |
-| 3178 | Cannon HSタイツ・Peach | 加農護腿 |
-| 3179 | Axel タイツ・Peach | 輪軸護腿 |
-| 3180 | Axel Fタイツ・Peach | 輪軸護腿 |
-| 3181 | Axel FZタイツ・Peach | 輪軸護腿 |
-| 3182 | Axel HCタイツ・Peach | 輪軸護腿 |
-| 3183 | Axel HSタイツ・Peach | 輪軸護腿 |
-| 3184 | Cannon タイツ・Purple | 加農護腿 |
-| 3185 | Cannon Fタイツ・Purple | 加農護腿 |
-| 3186 | Cannon FZタイツ・Purple | 加農護腿 |
-| 3187 | Cannon HCタイツ・Purple | 加農護腿 |
-| 3188 | Cannon HSタイツ・Purple | 加農護腿 |
-| 3189 | Axel タイツ・Purple | 輪軸護腿 |
-| 3190 | Axel Fタイツ・Purple | 輪軸護腿 |
-| 3191 | Axel FZタイツ・Purple | 輪軸護腿 |
-| 3192 | Axel HCタイツ・Purple | 輪軸護腿 |
-| 3193 | Axel HSタイツ・Purple | 輪軸護腿 |
+| 3154 | Cannon タイツ・Water | 加農護腿・水 |
+| 3155 | Cannon Fタイツ・Water | 加農護腿・水 |
+| 3156 | Cannon FZタイツ・Water | 加農護腿・水 |
+| 3157 | Cannon HCタイツ・Water | 加農護腿・水 |
+| 3158 | Cannon HSタイツ・Water | 加農護腿・水 |
+| 3159 | Axel タイツ・Water | 輪軸護腿・水 |
+| 3160 | Axel Fタイツ・Water | 輪軸護腿・水 |
+| 3161 | Axel FZタイツ・Water | 輪軸護腿・水 |
+| 3162 | Axel HCタイツ・Water | 輪軸護腿・水 |
+| 3163 | Axel HSタイツ・Water | 輪軸護腿・水 |
+| 3164 | Cannon タイツ・Green | 加農護腿・緑 |
+| 3165 | Cannon Fタイツ・Green | 加農護腿・緑 |
+| 3166 | Cannon FZタイツ・Green | 加農護腿・緑 |
+| 3167 | Cannon HCタイツ・Green | 加農護腿・緑 |
+| 3168 | Cannon HSタイツ・Green | 加農護腿・緑 |
+| 3169 | Axel タイツ・Green | 輪軸護腿・緑 |
+| 3170 | Axel Fタイツ・Green | 輪軸護腿・緑 |
+| 3171 | Axel FZタイツ・Green | 輪軸護腿・緑 |
+| 3172 | Axel HCタイツ・Green | 輪軸護腿・緑 |
+| 3173 | Axel HSタイツ・Green | 輪軸護腿・緑 |
+| 3174 | Cannon タイツ・Peach | 加農護腿・桃 |
+| 3175 | Cannon Fタイツ・Peach | 加農護腿・桃 |
+| 3176 | Cannon FZタイツ・Peach | 加農護腿・桃 |
+| 3177 | Cannon HCタイツ・Peach | 加農護腿・桃 |
+| 3178 | Cannon HSタイツ・Peach | 加農護腿・桃 |
+| 3179 | Axel タイツ・Peach | 輪軸護腿・桃 |
+| 3180 | Axel Fタイツ・Peach | 輪軸護腿・桃 |
+| 3181 | Axel FZタイツ・Peach | 輪軸護腿・桃 |
+| 3182 | Axel HCタイツ・Peach | 輪軸護腿・桃 |
+| 3183 | Axel HSタイツ・Peach | 輪軸護腿・桃 |
+| 3184 | Cannon タイツ・Purple | 加農護腿・紫 |
+| 3185 | Cannon Fタイツ・Purple | 加農護腿・紫 |
+| 3186 | Cannon FZタイツ・Purple | 加農護腿・紫 |
+| 3187 | Cannon HCタイツ・Purple | 加農護腿・紫 |
+| 3188 | Cannon HSタイツ・Purple | 加農護腿・紫 |
+| 3189 | Axel タイツ・Purple | 輪軸護腿・紫 |
+| 3190 | Axel Fタイツ・Purple | 輪軸護腿・紫 |
+| 3191 | Axel FZタイツ・Purple | 輪軸護腿・紫 |
+| 3192 | Axel HCタイツ・Purple | 輪軸護腿・紫 |
+| 3193 | Axel HSタイツ・Purple | 輪軸護腿・紫 |
 | 3194 | 剣士ランク8 | 拉恩庫護腿 |
 | 3195 | 剣士ランク9 | 拉恩庫護腿 |
 | 3196 | ガンランク8 | 加恩拉恩庫護腿 |
@@ -390,16 +390,16 @@
 | 3384 | Magos FZ Boots・Red | 瑪戈斯靴【ＦＺ】・赤 |
 | 3385 | Magos HC Boots・Red | 瑪戈斯靴【ＨＣ】・赤 |
 | 3386 | Magos HS Boots・Red | 瑪戈斯靴【ＨＳ】・赤 |
-| 3387 | Magos Feet・Water | 瑪戈斯水足 |
-| 3388 | Magos F Feet・Water | 瑪戈斯水足【Ｆ】 |
-| 3389 | Magos FZ Feet・Water | 瑪戈斯水足【ＦＺ】 |
-| 3390 | Magos HC Feet・Water | 瑪戈斯水足【ＨＣ】 |
-| 3391 | Magos HS Feet・Water | 瑪戈斯水足【ＨＳ】 |
-| 3392 | Magos Boots・Water | 瑪戈斯水靴 |
-| 3393 | Magos F Boots・Water | 瑪戈斯水靴【Ｆ】 |
-| 3394 | Magos FZ Boots・Water | 瑪戈斯水靴【ＦＺ】 |
-| 3395 | Magos HC Boots・Water | 瑪戈斯水靴【ＨＣ】 |
-| 3396 | Magos HS Boots・Water | 瑪戈斯水靴【ＨＳ】 |
+| 3387 | Magos Feet・Water | 瑪戈斯足・水 |
+| 3388 | Magos F Feet・Water | 瑪戈斯足【Ｆ】・水 |
+| 3389 | Magos FZ Feet・Water | 瑪戈斯足【ＦＺ】・水 |
+| 3390 | Magos HC Feet・Water | 瑪戈斯足【ＨＣ】・水 |
+| 3391 | Magos HS Feet・Water | 瑪戈斯足【ＨＳ】・水 |
+| 3392 | Magos Boots・Water | 瑪戈斯靴・水 |
+| 3393 | Magos F Boots・Water | 瑪戈斯靴【Ｆ】・水 |
+| 3394 | Magos FZ Boots・Water | 瑪戈斯靴【ＦＺ】・水 |
+| 3395 | Magos HC Boots・Water | 瑪戈斯靴【ＨＣ】・水 |
+| 3396 | Magos HS Boots・Water | 瑪戈斯靴【ＨＳ】・水 |
 | 3397 | Magos Feet・Blue | 瑪戈斯足・青 |
 | 3398 | Magos F Feet・Blue | 瑪戈斯足【Ｆ】・青 |
 | 3399 | Magos FZ Feet・Blue | 瑪戈斯足【ＦＺ】・青 |
@@ -414,8 +414,8 @@
 | 3408 | Magos GS Boots・Yellow | 瑪戈斯靴【ＧＳ】・黄 |
 | 3409 | Magos GS Feet・Red | 瑪戈斯足【ＧＳ】・赤 |
 | 3410 | Magos GS Boots・Red | 瑪戈斯靴【ＧＳ】・赤 |
-| 3411 | Magos GS Feet・Water | 瑪戈斯水足【ＧＳ】 |
-| 3412 | Magos GS Boots・Water | 瑪戈斯水靴【ＧＳ】 |
+| 3411 | Magos GS Feet・Water | 瑪戈斯足【ＧＳ】・水 |
+| 3412 | Magos GS Boots・Water | 瑪戈斯靴【ＧＳ】・水 |
 | 3413 | Magos GS Feet・Blue | 瑪戈斯足【ＧＳ】・青 |
 | 3414 | Magos GS Boots・Blue | 瑪戈斯靴【ＧＳ】・青 |
 | 3415 | Red 備ノ具足【脛当】 | 脛当備具足護腿・赤 |

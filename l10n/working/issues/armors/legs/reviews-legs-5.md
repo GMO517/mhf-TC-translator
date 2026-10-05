@@ -5,20 +5,20 @@
 | index | 原文 | 譯文 |
 |---|---|---|
 | 2001 | Truss F Leggings Blue | 桁架裹腿【Ｆ】・青 |
-| 2002 | Truss シューズ Blue | 桁架護腿 |
-| 2003 | Truss Fシューズ Blue | 桁架護腿 |
+| 2002 | Truss シューズ Blue | 桁架護腿・青 |
+| 2003 | Truss Fシューズ Blue | 桁架護腿・青 |
 | 2004 | Truss Leggings Red | 桁架裹腿・赤 |
 | 2005 | Truss F Leggings Red | 桁架裹腿【Ｆ】・赤 |
-| 2006 | Truss シューズ Red | 桁架護腿 |
-| 2007 | Truss Fシューズ Red | 桁架護腿 |
+| 2006 | Truss シューズ Red | 桁架護腿・赤 |
+| 2007 | Truss Fシューズ Red | 桁架護腿・赤 |
 | 2008 | Truss Leggings White | 桁架裹腿・白 |
 | 2009 | Truss F Leggings White | 桁架裹腿【Ｆ】・白 |
-| 2010 | Truss シューズ White | 桁架護腿 |
-| 2011 | Truss Fシューズ White | 桁架護腿 |
+| 2010 | Truss シューズ White | 桁架護腿・白 |
+| 2011 | Truss Fシューズ White | 桁架護腿・白 |
 | 2012 | Truss Leggings Purple | 桁架裹腿・紫 |
 | 2013 | Truss F Leggings Purple | 桁架裹腿【Ｆ】・紫 |
-| 2014 | Truss シューズ Purple | 桁架護腿 |
-| 2015 | Truss Fシューズ Purple | 桁架護腿 |
+| 2014 | Truss シューズ Purple | 桁架護腿・紫 |
+| 2015 | Truss Fシューズ Purple | 桁架護腿・紫 |
 | 2016 | Demon Greaves Blue | 惡魔護腿・青 |
 | 2017 | Demon F Greaves Blue | 惡魔護腿【Ｆ】・青 |
 | 2018 | Chaos Greaves Blue | 混沌護腿・青 |
@@ -35,20 +35,20 @@
 | 2029 | Demon F Greaves White | 惡魔護腿【Ｆ】・白 |
 | 2030 | Chaos Greaves White | 混沌護腿・白 |
 | 2031 | Chaos F Greaves White | 混沌護腿【Ｆ】・白 |
-| 2032 | Shadow Boots Purple | 暗影靴・紫 |
-| 2033 | Shadow F Boots Purple | 暗影靴【Ｆ】・紫 |
+| 2032 | Shadow Boots Purple | 影靴・紫 |
+| 2033 | Shadow F Boots Purple | 影靴【Ｆ】・紫 |
 | 2034 | Soul Boots Purple | 魂靴・紫 |
 | 2035 | Soul F Boots Purple | 魂靴【Ｆ】・紫 |
-| 2036 | Shadow Boots Red | 暗影靴・赤 |
-| 2037 | Shadow F Boots Red | 暗影靴【Ｆ】・赤 |
+| 2036 | Shadow Boots Red | 影靴・赤 |
+| 2037 | Shadow F Boots Red | 影靴【Ｆ】・赤 |
 | 2038 | Soul Boots Red | 魂靴・赤 |
 | 2039 | Soul F Boots Red | 魂靴【Ｆ】・赤 |
-| 2040 | Shadow Boots Green | 暗影靴・緑 |
-| 2041 | Shadow F Boots Green | 暗影靴【Ｆ】・緑 |
+| 2040 | Shadow Boots Green | 影靴・緑 |
+| 2041 | Shadow F Boots Green | 影靴【Ｆ】・緑 |
 | 2042 | Soul Boots Green | 魂靴・緑 |
 | 2043 | Soul F Boots Green | 魂靴【Ｆ】・緑 |
-| 2044 | Shadow Boots White | 暗影靴・白 |
-| 2045 | Shadow F Boots White | 暗影靴【Ｆ】・白 |
+| 2044 | Shadow Boots White | 影靴・白 |
+| 2045 | Shadow F Boots White | 影靴【Ｆ】・白 |
 | 2046 | Soul Boots White | 魂靴・白 |
 | 2047 | Soul F Boots White | 魂靴【Ｆ】・白 |
 | 2048 | フィディ Greaves | 芙德護腿 |
@@ -77,7 +77,7 @@
 | 2071 | ロークF Greaves | 洛可護腿【Ｆ】 |
 | 2072 | ロークF Leggings | 洛可裹腿【Ｆ】 |
 | 2073 | Buruho F Feet・Blue | 布烏爾烏足【Ｆ】・青 |
-| 2074 | マー Gear F Boots・Blue | 格艾爾靴【Ｆ】 |
+| 2074 | マー Gear F Boots・Blue | 瑪爾機甲靴【Ｆ】・青 |
 | 2075 | Gogomoa FX Greaves | 跳緋獸護腿【ＦＸ】 |
 | 2076 | Gogomoa FX Leggings | 跳緋獸裹腿【ＦＸ】 |
 | 2077 | Kuraaji FX Greaves | 克烏爾阿護腿【ＦＸ】 |
@@ -121,7 +121,7 @@
 | 2115 | Gravios RX Greaves | 鎧龍護腿 |
 | 2116 | Bone RX Leggings | 骨製裹腿 |
 | 2117 | White Snake Greaves | 白蛇護腿 |
-| 2118 | White Snake Greaves・魁 | 魁護腿・白 |
+| 2118 | White Snake Greaves・魁 | 白蛇護腿魁 |
 | 2119 | White 鳥ノ具足 | 鳥具足護腿・白 |
 | 2120 | White 鳥ノ具足・魁 | 鳥具足魁護腿・白 |
 | 2121 | Kakabu Feet | 克阿克阿足 |
@@ -151,17 +151,17 @@
 | 2145 | Rutare Leggings | 魯塔雷裹腿 |
 | 2146 | Rutare F Leggings | 魯塔雷裹腿【Ｆ】 |
 | 2147 | Rolling Flow Greaves | 滾流護腿 |
-| 2148 | Rolling Flow Greaves・魁 | 魁護腿 |
+| 2148 | Rolling Flow Greaves・魁 | 滾流護腿魁 |
 | 2149 | 旋転の Greaves | 旋転の護腿 |
-| 2150 | 旋転の Greaves・魁 | 旋転の魁護腿 |
+| 2150 | 旋転の Greaves・魁 | 旋転の護腿魁 |
 | 2151 | 厳岩の Hakama | 厳岩の袴 |
-| 2152 | 厳岩の Hakama・魁 | 厳岩の魁袴 |
+| 2152 | 厳岩の Hakama・魁 | 厳岩の袴魁 |
 | 2153 | 不破の Hakama | 不破の袴 |
-| 2154 | 不破の Hakama・魁 | 不破の魁袴 |
+| 2154 | 不破の Hakama・魁 | 不破の袴魁 |
 | 2155 | 無想の Hakama | 無想の袴 |
-| 2156 | 無想の Hakama・魁 | 無想の魁袴 |
+| 2156 | 無想の Hakama・魁 | 無想の袴魁 |
 | 2157 | 俊激の履 | 俊激の履護腿 |
-| 2158 | 俊激の履・魁 | 俊激の履魁護腿 |
+| 2158 | 俊激の履・魁 | 俊激の履護腿魁 |
 | 2159 | Suifudo Feet | 斯烏芙烏足 |
 | 2160 | Suifudo F Feet | 斯烏芙烏足【Ｆ】 |
 | 2161 | Merodesu Feet | 姆艾爾歐足 |
@@ -224,11 +224,11 @@
 | 2218 | Galitos FZ Feet・Tea | 加里托斯足【ＦＺ】・茶 |
 | 2219 | Galitos FZ Feet・Red | 加里托斯足【ＦＺ】・赤 |
 | 2220 | Galitos FZ Feet・Black | 加里托斯足【ＦＺ】・黑 |
-| 2221 | Galitos FZ Feet・Water | 加里托斯水足【ＦＺ】 |
+| 2221 | Galitos FZ Feet・Water | 加里托斯足【ＦＺ】・水 |
 | 2222 | Galitos FZ Boots・Tea | 加里托斯靴【ＦＺ】・茶 |
 | 2223 | Galitos FZ Boots・Red | 加里托斯靴【ＦＺ】・赤 |
 | 2224 | Galitos FZ Boots・Black | 加里托斯靴【ＦＺ】・黑 |
-| 2225 | Galitos FZ Boots・Water | 加里托斯水靴【ＦＺ】 |
+| 2225 | Galitos FZ Boots・Water | 加里托斯靴【ＦＺ】・水 |
 | 2226 | Beil F Divider | 貝爾分割護腿【Ｆ】 |
 | 2227 | ダミー | (dummy) |
 | 2228 | Jess Greaves | 傑斯護腿 |
@@ -338,9 +338,9 @@
 | 2332 | Ruko Legs SP White | 極龍腿甲【ＳＰ】・白 |
 | 2333 | Ruko Legs SP Blue | 極龍腿甲【ＳＰ】・青 |
 | 2334 | Ruko Legs SP Red | 極龍腿甲【ＳＰ】・赤 |
-| 2335 | Comrade Boots SP White Red | 戰友靴【ＳＰ】・赤・白 |
-| 2336 | Comrade Boots SP White Blue | 戰友靴【ＳＰ】・青・白 |
-| 2337 | Comrade Boots SP White Yellow | 戰友靴【ＳＰ】・黄・白 |
+| 2335 | Comrade Boots SP White Red | 戰友靴【ＳＰ】・白 |
+| 2336 | Comrade Boots SP White Blue | 戰友靴【ＳＰ】・白 |
+| 2337 | Comrade Boots SP White Yellow | 戰友靴【ＳＰ】・白 |
 | 2338 | Rubellite Greaves | 爾烏布艾護腿 |
 | 2339 | Rubellite F Greaves | 爾烏布艾護腿【Ｆ】 |
 | 2340 | Rubellite FX Greaves | 爾烏布艾護腿【ＦＸ】 |
@@ -375,9 +375,9 @@
 | 2369 | Turquoise F Leggings | 緑松石裹腿【Ｆ】 |
 | 2370 | Turquoise FX Leggings | 緑松石裹腿【ＦＸ】 |
 | 2371 | Valued Word Hakama | 珍言袴 |
-| 2372 | Valued Word Hakama・魁 | 魁袴 |
-| 2373 | Valued Word Hakama・Smart | 珍言機靈袴 |
-| 2374 | Valued Word Hakama・Flower | 芙阿爾烏袴 |
+| 2372 | Valued Word Hakama・魁 | 珍言袴魁 |
+| 2373 | Valued Word Hakama・Smart | 珍言袴 |
+| 2374 | Valued Word Hakama・Flower | 珍言袴 |
 | 2375 | 式部ノ Hakama | 式部袴 |
 | 2376 | 式部ノ Hakama・魁 | 式部魁袴 |
 | 2377 | 式部ノ Hakama・Smart | 機靈袴 |
@@ -406,8 +406,8 @@
 | 2400 | Strega HC Leggings | 魔女裹腿【ＨＣ】 |
 | 2401 | Zaakaa HC Greaves | 茲阿克阿護腿【ＨＣ】 |
 | 2402 | Chaser HC Leggings | 追撃裹腿【ＨＣ】 |
-| 2403 | Demon Lord ノ足枷・Extreme | 惡魔護腿 |
-| 2404 | Demon Lord ノ足枷・Heaven | 惡魔護腿・天 |
+| 2403 | Demon Lord ノ足枷・Extreme | 魔王護腿 |
+| 2404 | Demon Lord ノ足枷・Heaven | 魔王天護腿 |
 | 2405 | 童子ノ足枷・Extreme | 童子足枷護腿 |
 | 2406 | 童子ノ足枷・Heaven | 童子足枷護腿・天 |
 | 2407 | アナキF Greaves | 阿納基護腿【Ｆ】 |
@@ -416,7 +416,7 @@
 | 2410 | アナキF Boots | 阿納基靴【Ｆ】 |
 | 2411 | アナキFY Boots | 阿納基靴 |
 | 2412 | アナキHC Boots | 阿納基靴【ＨＣ】 |
-| 2413 | Royal FY Greaves | 爾歐伊阿護腿 |
+| 2413 | Royal FY Greaves | 王室護腿 |
 | 2414 | Royal HC Greaves | 王室護腿【ＨＣ】 |
 | 2415 | Lord FY Leggings | 爾歐爾裹腿 |
 | 2416 | Lord HC Leggings | 爾歐爾裹腿【ＨＣ】 |
@@ -437,12 +437,12 @@
 | 2431 | Ceanataur RX Greaves | 鎌蟹護腿 |
 | 2432 | Espinas RX Heel | 棘龍踵 |
 | 2433 | Monodevil RX Leggings | 姆歐恩歐裹腿 |
-| 2434 | Cayssis Feet Water | 凱西斯水足 |
-| 2435 | Cayssis F Feet Water | 凱西斯水足【Ｆ】 |
-| 2436 | Cayssis FZ Feet Water | 凱西斯水足【ＦＺ】 |
-| 2437 | Cayssis Leggings Water | 凱西斯水裹腿 |
-| 2438 | Cayssis F Leggings Water | 凱西斯水裹腿【Ｆ】 |
-| 2439 | Cayssis FZ Leggings Water | 凱西斯水裹腿【ＦＺ】 |
+| 2434 | Cayssis Feet Water | 凱西斯足・水 |
+| 2435 | Cayssis F Feet Water | 凱西斯足【Ｆ】・水 |
+| 2436 | Cayssis FZ Feet Water | 凱西斯足【ＦＺ】・水 |
+| 2437 | Cayssis Leggings Water | 凱西斯裹腿・水 |
+| 2438 | Cayssis F Leggings Water | 凱西斯裹腿【Ｆ】・水 |
+| 2439 | Cayssis FZ Leggings Water | 凱西斯裹腿【ＦＺ】・水 |
 | 2440 | Cayssis Feet Red | 凱西斯足・赤 |
 | 2441 | Cayssis F Feet Red | 凱西斯足【Ｆ】・赤 |
 | 2442 | Cayssis FZ Feet Red | 凱西斯足【ＦＺ】・赤 |
@@ -461,10 +461,10 @@
 | 2455 | Cayssis Leggings Orange | 凱西斯裹腿・橙 |
 | 2456 | Cayssis F Leggings Orange | 凱西斯裹腿【Ｆ】・橙 |
 | 2457 | Cayssis FZ Leggings Orange | 凱西斯裹腿【ＦＺ】・橙 |
-| 2458 | Rolling Sky Greaves | 滾天護腿 |
-| 2459 | Rolling Sky Greaves・魁 | 魁護腿 |
-| 2460 | Rolling Earth Greaves | 滾地護腿・地 |
-| 2461 | Rolling Earth Greaves・魁 | 魁護腿・地 |
+| 2458 | Rolling Sky Greaves | 滾天護腿・天 |
+| 2459 | Rolling Sky Greaves・魁 | 滾天護腿魁・天 |
+| 2460 | Rolling Earth Greaves | 滾地護腿 |
+| 2461 | Rolling Earth Greaves・魁 | 滾地護腿魁 |
 | 2462 | Cubie Feet | 方塊足 |
 | 2463 | Cubie F Feet | 方塊足【Ｆ】 |
 | 2464 | Cubie FZ Feet | 方塊足【ＦＺ】 |

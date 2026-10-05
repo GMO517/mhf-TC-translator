@@ -76,13 +76,13 @@
 | 13570 | Ryoso Waistband GS | 涼疎腰帶【ＧＳ】 |
 | 13571 | Ryoso Waistband GP | 涼疎腰帶【ＧＰ】 |
 | 13572 | Ryoso Waistband ZP | 涼疎腰帶【ＺＰ】 |
-| 13573 | Ryoso Colour Belt | 爾歐斯歐腰帶 |
-| 13574 | Ryoso Colour Belt F | 爾歐斯歐腰帶【Ｆ】 |
-| 13575 | Ryoso Colour Belt FZ | 爾歐斯歐腰帶【ＦＺ】 |
-| 13576 | Ryoso Colour Belt HS | 爾歐斯歐腰帶【ＨＳ】 |
-| 13577 | Ryoso Colour Belt GS | 爾歐斯歐腰帶【ＧＳ】 |
-| 13578 | Ryoso Colour Belt GP | 爾歐斯歐腰帶【ＧＰ】 |
-| 13579 | Ryoso Colour Belt ZP | 爾歐斯歐腰帶【ＺＰ】 |
+| 13573 | Ryoso Colour Belt | 涼疎腰帶 |
+| 13574 | Ryoso Colour Belt F | 涼疎腰帶【Ｆ】 |
+| 13575 | Ryoso Colour Belt FZ | 涼疎腰帶【ＦＺ】 |
+| 13576 | Ryoso Colour Belt HS | 涼疎腰帶【ＨＳ】 |
+| 13577 | Ryoso Colour Belt GS | 涼疎腰帶【ＧＳ】 |
+| 13578 | Ryoso Colour Belt GP | 涼疎腰帶【ＧＰ】 |
+| 13579 | Ryoso Colour Belt ZP | 涼疎腰帶【ＺＰ】 |
 | 13580 | Gems Coil | 寶石腰甲 |
 | 13581 | Gems F Coil | 寶石腰甲【Ｆ】 |
 | 13582 | Gems FZ Coil | 寶石腰甲【ＦＺ】 |
@@ -165,7 +165,7 @@
 | 13659 | Seiryu・双龍D Coil | 双龍腰甲 |
 | 13660 | Seiryu・剣王D Coil | 剣王腰甲 |
 | 13661 | Seiryu・刀神D Coil | 刀神腰甲 |
-| 13662 | Seiryu・Heaven 槍D Coil | 槍腰甲・天 |
+| 13662 | Seiryu・Heaven 槍D Coil | 槍天腰甲 |
 | 13663 | Seiryu・砲皇D Coil | 砲皇腰甲 |
 | 13664 | Seiryu・鈍器獣D Coil | 鈍器獣腰甲 |
 | 13665 | Seiryu・奏帝D Coil | 奏帝腰甲 |
@@ -173,7 +173,7 @@
 | 13667 | Seiryu・斬将D Coil | 斬将腰甲 |
 | 13668 | Seiryu・銃傑D Coat | 銃傑腰衣 |
 | 13669 | Seiryu・銃仙D Coat | 銃仙腰衣 |
-| 13670 | Seiryu・Bow 鬼D Coat | 鬼腰衣 |
+| 13670 | Seiryu・Bow 鬼D Coat | 青龍腰衣 |
 | 13671 | Seiryu・磁星D Coil | 磁星腰甲 |
 | 13672 | K. Lobster Coil PD Black | 王龍蝦腰甲【ＰＤ】・黑 |
 | 13673 | K. Lobster Coil PD Green | 王龍蝦腰甲【ＰＤ】・緑 |
@@ -199,12 +199,12 @@
 | 13693 | Ruko Wing PD White | 極龍腰翼【ＰＤ】・白 |
 | 13694 | Ruko Wing PD Blue | 極龍腰翼【ＰＤ】・青 |
 | 13695 | Ruko Wing PD Red | 極龍腰翼【ＰＤ】・赤 |
-| 13696 | Ruko テイル PD White | 極龍腰甲【ＰＤ】 |
-| 13697 | Ruko テイル PD Blue | 極龍腰甲【ＰＤ】 |
-| 13698 | Ruko テイル PD Red | 極龍腰甲【ＰＤ】 |
-| 13699 | Comrade Belt PD White Red | 戰友腰帶【ＰＤ】・赤・白 |
-| 13700 | Comrade Belt PD White Blue | 戰友腰帶【ＰＤ】・青・白 |
-| 13701 | Comrade Belt PD White Yellow | 戰友腰帶【ＰＤ】・黄・白 |
+| 13696 | Ruko テイル PD White | 極龍腰甲【ＰＤ】・白 |
+| 13697 | Ruko テイル PD Blue | 極龍腰甲【ＰＤ】・青 |
+| 13698 | Ruko テイル PD Red | 極龍腰甲【ＰＤ】・赤 |
+| 13699 | Comrade Belt PD White Red | 戰友腰帶【ＰＤ】・白 |
+| 13700 | Comrade Belt PD White Blue | 戰友腰帶【ＰＤ】・白 |
+| 13701 | Comrade Belt PD White Yellow | 戰友腰帶【ＰＤ】・白 |
 | 13702 | Otono D Faulds | 歐特歐恩腰甲 |
 | 13703 | 忍の Obi・空D | 忍の空帶 |
 | 13704 | 忍の Obi・海D | 忍の海帶 |

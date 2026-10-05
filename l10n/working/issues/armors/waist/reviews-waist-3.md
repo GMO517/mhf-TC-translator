@@ -101,22 +101,22 @@
 | 1094 | フェサーF Coil | 芙薩腰甲【Ｆ】 |
 | 1095 | シアンス Coat | 希安斯腰衣 |
 | 1096 | シアンスF Coat | 希安斯腰衣【Ｆ】 |
-| 1097 | Gold Coil・Red | 腰甲・金・赤 |
-| 1098 | Gold F Coil・Red | 腰甲【Ｆ】・金・赤 |
-| 1099 | Gold Coat・Red | 腰衣・金・赤 |
-| 1100 | Gold F Coat・Red | 腰衣【Ｆ】・金・赤 |
-| 1101 | Gold Coil・Blue | 腰甲・金・青 |
-| 1102 | Gold F Coil・Blue | 腰甲【Ｆ】・金・青 |
-| 1103 | Gold Coat・Blue | 腰衣・金・青 |
-| 1104 | Gold F Coat・Blue | 腰衣【Ｆ】・金・青 |
-| 1105 | Gold Coil・Yellow | 腰甲・金・黄 |
-| 1106 | Gold F Coil・Yellow | 腰甲【Ｆ】・金・黄 |
-| 1107 | Gold Coat・Yellow | 腰衣・金・黄 |
-| 1108 | Gold F Coat・Yellow | 腰衣【Ｆ】・金・黄 |
-| 1109 | Gold Coil・Purple | 腰甲・金・紫 |
-| 1110 | Gold F Coil・Purple | 腰甲【Ｆ】・金・紫 |
-| 1111 | Gold Coat・Purple | 腰衣・金・紫 |
-| 1112 | Gold F Coat・Purple | 腰衣【Ｆ】・金・紫 |
+| 1097 | Gold Coil・Red | 金腰甲・赤 |
+| 1098 | Gold F Coil・Red | 金腰甲【Ｆ】・赤 |
+| 1099 | Gold Coat・Red | 金腰衣・赤 |
+| 1100 | Gold F Coat・Red | 金腰衣【Ｆ】・赤 |
+| 1101 | Gold Coil・Blue | 金腰甲・青 |
+| 1102 | Gold F Coil・Blue | 金腰甲【Ｆ】・青 |
+| 1103 | Gold Coat・Blue | 金腰衣・青 |
+| 1104 | Gold F Coat・Blue | 金腰衣【Ｆ】・青 |
+| 1105 | Gold Coil・Yellow | 金腰甲・黄 |
+| 1106 | Gold F Coil・Yellow | 金腰甲【Ｆ】・黄 |
+| 1107 | Gold Coat・Yellow | 金腰衣・黄 |
+| 1108 | Gold F Coat・Yellow | 金腰衣【Ｆ】・黄 |
+| 1109 | Gold Coil・Purple | 金腰甲・紫 |
+| 1110 | Gold F Coil・Purple | 金腰甲【Ｆ】・紫 |
+| 1111 | Gold Coat・Purple | 金腰衣・紫 |
+| 1112 | Gold F Coat・Purple | 金腰衣【Ｆ】・紫 |
 | 1113 | シデロ Coil | 西德羅腰甲 |
 | 1114 | シデロF Coil | 西德羅腰甲【Ｆ】 |
 | 1115 | オール Coil | 奧爾腰甲 |
@@ -146,8 +146,8 @@
 | 1140 | Bone L Coat | 骨製腰衣【Ｌ】 |
 | 1141 | Vespoid L Coat | 巨蜂腰衣【Ｌ】 |
 | 1142 | Diablos L Coat | 角龍腰衣【Ｌ】 |
-| 1143 | G・Guard R Coat Crimson | 防禦腰衣【Ｇ】【Ｒ】・紅 |
-| 1144 | G・Guard R Coat Crimson | 防禦腰衣【Ｇ】【Ｒ】・紅 |
+| 1143 | G・Guard R Coat Crimson | 防禦腰衣【Ｒ】・紅 |
+| 1144 | G・Guard R Coat Crimson | 防禦腰衣【Ｒ】・紅 |
 | 1145 | Hornetaur R Coat | 巨甲蟲腰衣【Ｒ】 |
 | 1146 | High Metal R Coat | 上位金屬腰衣【Ｒ】 |
 | 1147 | Rath Soul R Coat | 火龍魂腰衣【Ｒ】 |
@@ -156,9 +156,9 @@
 | 1150 | Gravios R Faulds | 鎧龍腰甲【Ｒ】 |
 | 1151 | Io R Faulds | 伊歐腰甲【Ｒ】 |
 | 1152 | Inari【腰当て】 | 稻荷腰當 |
-| 1153 | Inari 覇【腰当て】 | 覇腰當 |
+| 1153 | Inari 覇【腰当て】 | 稻荷腰當 |
 | 1154 | Tamamo【腰当て】 | 玉藻腰當 |
-| 1155 | Tamamo 覇【腰当て】 | 覇腰當 |
+| 1155 | Tamamo 覇【腰当て】 | 玉藻腰當 |
 | 1156 | コカロ Faulds | 寇伽羅腰甲 |
 | 1157 | コカロ Coat | 寇伽羅腰衣 |
 | 1158 | Shieri Faulds | 夏伊爾伊腰甲 |
@@ -253,12 +253,12 @@
 | 1247 | Arge F Coil | 阿爾傑腰甲【Ｆ】 |
 | 1248 | Arge Coat | 阿爾傑腰衣 |
 | 1249 | Arge F Coat | 阿爾傑腰衣【Ｆ】 |
-| 1250 | Akantor イッケク SP Black | 霸龍腰甲【ＳＰ】 |
-| 1251 | Akantor イッケク SP Red | 霸龍腰甲【ＳＰ】 |
-| 1252 | Akantor イッケク SP White | 霸龍腰甲【ＳＰ】 |
-| 1253 | Akantor クッコレ SP Black | 霸龍腰甲【ＳＰ】 |
-| 1254 | Akantor クッコレ SP Red | 霸龍腰甲【ＳＰ】 |
-| 1255 | Akantor クッコレ SP White | 霸龍腰甲【ＳＰ】 |
+| 1250 | Akantor イッケク SP Black | 霸龍腰甲【ＳＰ】・黑 |
+| 1251 | Akantor イッケク SP Red | 霸龍腰甲【ＳＰ】・赤 |
+| 1252 | Akantor イッケク SP White | 霸龍腰甲【ＳＰ】・白 |
+| 1253 | Akantor クッコレ SP Black | 霸龍腰甲【ＳＰ】・黑 |
+| 1254 | Akantor クッコレ SP Red | 霸龍腰甲【ＳＰ】・赤 |
+| 1255 | Akantor クッコレ SP White | 霸龍腰甲【ＳＰ】・白 |
 | 1256 | Gravios Coil SP Black | 鎧龍腰甲【ＳＰ】・黑 |
 | 1257 | Gravios Coil SP Blue | 鎧龍腰甲【ＳＰ】・青 |
 | 1258 | Gravios Coil SP Red | 鎧龍腰甲【ＳＰ】・赤 |
@@ -363,11 +363,11 @@
 | 1357 | Pharan F Coil・Blue | 法藍腰甲【Ｆ】・青 |
 | 1358 | Pharan Coat・Blue | 法藍腰衣・青 |
 | 1359 | Pharan F Coat・Blue | 法藍腰衣【Ｆ】・青 |
-| 1360 | Gold Cat F Coil | 猫腰甲【Ｆ】・金 |
-| 1361 | Gold Cat F Coat | 猫腰衣【Ｆ】・金 |
-| 1362 | Silver Cat テイル | 猫腰甲 |
-| 1363 | Silver Cat F Coil | 猫腰甲【Ｆ】・銀 |
-| 1364 | Silver Cat F Coat | 猫腰衣【Ｆ】・銀 |
+| 1360 | Gold Cat F Coil | 金猫腰甲【Ｆ】 |
+| 1361 | Gold Cat F Coat | 金猫腰衣【Ｆ】 |
+| 1362 | Silver Cat テイル | 銀猫腰甲 |
+| 1363 | Silver Cat F Coil | 銀猫腰甲【Ｆ】 |
+| 1364 | Silver Cat F Coat | 銀猫腰衣【Ｆ】 |
 | 1365 | ヴィン Waist | 温腰甲 |
 | 1366 | ヴィンF Waist | 温腰甲【Ｆ】 |
 | 1367 | ヴァンデ Waist | 芙恩德腰甲 |

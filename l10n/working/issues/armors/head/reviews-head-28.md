@@ -274,7 +274,7 @@
 | 13768 | Genbu・双龍D Helm | 双龍頭兜 |
 | 13769 | Genbu・剣王D Helm | 剣王頭兜 |
 | 13770 | Genbu・刀神D Helm | 刀神頭兜 |
-| 13771 | Genbu・Heaven 槍D Helm | 槍頭兜・天 |
+| 13771 | Genbu・Heaven 槍D Helm | 槍天頭兜 |
 | 13772 | Genbu・砲皇D Helm | 砲皇頭兜 |
 | 13773 | Genbu・鈍器獣D Helm | 鈍器獣頭兜 |
 | 13774 | Genbu・奏帝D Helm | 奏帝頭兜 |
@@ -282,7 +282,7 @@
 | 13776 | Genbu・斬将D Helm | 斬将頭兜 |
 | 13777 | Genbu・銃傑D Mask | 銃傑帽子 |
 | 13778 | Genbu・銃仙D Mask | 銃仙帽子 |
-| 13779 | Genbu・Bow 鬼D Mask | 鬼帽子 |
+| 13779 | Genbu・Bow 鬼D Mask | 玄武帽子 |
 | 13780 | Tanzanite D Helm | 特阿恩阿頭兜 |
 | 13781 | Hematite D Helm | 赫艾姆阿頭兜 |
 | 13782 | Byakko・磁星D Helm | 磁星頭兜 |
@@ -325,8 +325,8 @@
 | 13819 | Pariapuria D Festa | 呑龍祭 |
 | 13820 | Hypnoc D Festa | 眠鳥祭 |
 | 13821 | 山菜爺D Festa | 山菜爺祭 |
-| 13822 | Box Blue D Festa | 德祭 |
-| 13823 | Box Red D Festa | 德祭 |
+| 13822 | Box Blue D Festa | 青箱祭 |
+| 13823 | Box Red D Festa | 赤箱祭 |
 | 13824 | Dusk D Head・Red | 德烏斯頭兜・赤 |
 | 13825 | Dusk D Head・White | 德烏斯頭兜・白 |
 | 13826 | Dusk D Head・Peach | 德烏斯頭兜・桃 |
@@ -363,10 +363,10 @@
 | 13857 | Gelt D Helm・Copper | 格艾爾頭兜・銅 |
 | 13858 | Gelt D Helm・Silver | 格艾爾頭兜・銀 |
 | 13859 | Gelt D Helm・Gold | 格艾爾頭兜・金 |
-| 13860 | Gloria D Helm・Gold | 格歐爾伊頭兜・金 |
-| 13861 | Gloria D Helm・Blue | 格歐爾伊頭兜・青 |
-| 13862 | Gloria D Helm・Water | 格歐爾伊頭兜 |
-| 13863 | Gloria D Helm・Red | 格歐爾伊頭兜・赤 |
+| 13860 | Gloria D Helm・Gold | 榮光頭兜・金 |
+| 13861 | Gloria D Helm・Blue | 榮光頭兜・青 |
+| 13862 | Gloria D Helm・Water | 榮光頭兜・水 |
+| 13863 | Gloria D Helm・Red | 榮光頭兜・赤 |
 | 13864 | Cloth D Head・Red | 克歐斯頭兜・赤 |
 | 13865 | Cloth D Head・Blue | 克歐斯頭兜・青 |
 | 13866 | Cloth D Head・Purple | 克歐斯頭兜・紫 |
@@ -431,14 +431,14 @@
 | 13925 | Honour D Helm・Blue | 赫歐恩歐頭兜・青 |
 | 13926 | Honour D Helm・Green | 赫歐恩歐頭兜・緑 |
 | 13927 | Honour D Helm・紺 | 紺頭兜 |
-| 13928 | Pics D Head・Green | 普伊克頭兜・緑 |
-| 13929 | Pics D Head・Purple | 普伊克頭兜・紫 |
-| 13930 | Pics D Head・Black | 普伊克頭兜・黑 |
-| 13931 | Pics D Head・Water | 普伊克阿頭兜 |
-| 13932 | Magos D Head・Yellow | 姆阿格歐頭兜・黄 |
-| 13933 | Magos D Head・Red | 姆阿格歐頭兜・赤 |
-| 13934 | Magos D Head・Water | 姆阿格歐頭兜 |
-| 13935 | Magos D Head・Blue | 姆阿格歐頭兜・青 |
+| 13928 | Pics D Head・Green | 皮克斯頭兜・緑 |
+| 13929 | Pics D Head・Purple | 皮克斯頭兜・紫 |
+| 13930 | Pics D Head・Black | 皮克斯頭兜・黑 |
+| 13931 | Pics D Head・Water | 皮克斯頭兜・水 |
+| 13932 | Magos D Head・Yellow | 瑪戈斯頭兜・黄 |
+| 13933 | Magos D Head・Red | 瑪戈斯頭兜・赤 |
+| 13934 | Magos D Head・Water | 瑪戈斯頭兜・水 |
+| 13935 | Magos D Head・Blue | 瑪戈斯頭兜・青 |
 | 13936 | Arge D Head | 阿爾艾斯頭兜 |
 | 13937 | Camarera D Head | 克阿姆阿頭兜 |
 | 13938 | Metenera D Head | 姆艾特艾頭兜 |
@@ -448,10 +448,10 @@
 | 13942 | Zodic D Helm・Tea | 茲歐德伊頭兜・茶 |
 | 13943 | Zodic D Helm・Green | 茲歐德伊頭兜・緑 |
 | 13944 | Zodic D Helm・Pink | 茲歐德伊頭兜・桃 |
-| 13945 | Cayssis D Helm Water | 克阿伊伊頭兜 |
-| 13946 | Cayssis D Helm Red | 克阿伊伊頭兜・赤 |
-| 13947 | Cayssis D Helm Blue | 克阿伊伊頭兜・青 |
-| 13948 | Cayssis D Helm Orange | 克阿伊伊頭兜・橙 |
+| 13945 | Cayssis D Helm Water | 凱西斯頭兜・水 |
+| 13946 | Cayssis D Helm Red | 凱西斯頭兜・赤 |
+| 13947 | Cayssis D Helm Blue | 凱西斯頭兜・青 |
+| 13948 | Cayssis D Helm Orange | 凱西斯頭兜・橙 |
 | 13949 | Omet D Helm・Black | 歐姆艾特頭兜・黑 |
 | 13950 | Omet D Helm・Red | 歐姆艾特頭兜・赤 |
 | 13951 | Omet D Helm・White | 歐姆艾特頭兜・白 |
@@ -468,10 +468,10 @@
 | 13962 | Suriito D Head・Silver | 斯烏爾伊頭兜・銀 |
 | 13963 | Suriito D Head・Red | 斯烏爾伊頭兜・赤 |
 | 13964 | Suriito D Head・Blue | 斯烏爾伊頭兜・青 |
-| 13965 | Galitos D Head・Tea | 格阿爾伊頭兜・茶 |
-| 13966 | Galitos D Head・Red | 格阿爾伊頭兜・赤 |
-| 13967 | Galitos D Head・Black | 格阿爾伊頭兜・黑 |
-| 13968 | Galitos D Head・Water | 格阿爾伊頭兜 |
+| 13965 | Galitos D Head・Tea | 加里托斯頭兜・茶 |
+| 13966 | Galitos D Head・Red | 加里托斯頭兜・赤 |
+| 13967 | Galitos D Head・Black | 加里托斯頭兜・黑 |
+| 13968 | Galitos D Head・Water | 加里托斯頭兜・水 |
 | 13969 | Text D Head・Purple | 特艾克斯頭兜・紫 |
 | 13970 | Text D Head・Green | 特艾克斯頭兜・緑 |
 | 13971 | Text D Head・Blue | 特艾克斯頭兜・青 |
@@ -480,24 +480,24 @@
 | 13974 | Pharan D Helm・Black | 菲阿爾阿頭兜・黑 |
 | 13975 | Pharan D Helm・Red | 菲阿爾阿頭兜・赤 |
 | 13976 | Pharan D Helm・Blue | 菲阿爾阿頭兜・青 |
-| 13977 | Gold D Helm・Red | 德頭兜 |
-| 13978 | Gold D Helm・Blue | 德頭兜 |
-| 13979 | Gold D Helm・Yellow | 德頭兜 |
-| 13980 | Gold D Helm・Purple | 德頭兜 |
-| 13981 | Claire D Head・Purple | 克阿爾艾頭兜・紫 |
-| 13982 | Claire D Head・Water | 克阿爾艾頭兜 |
-| 13983 | Claire D Head・Red | 克阿爾艾頭兜・赤 |
-| 13984 | Claire D Head・Black | 克阿爾艾頭兜・黑 |
-| 13985 | Gold Cat D Mask | 克阿特帽子・金 |
-| 13986 | Silver Cat D Mask | 克阿特帽子・銀 |
+| 13977 | Gold D Helm・Red | 金頭兜・赤 |
+| 13978 | Gold D Helm・Blue | 金頭兜・青 |
+| 13979 | Gold D Helm・Yellow | 金頭兜・黄 |
+| 13980 | Gold D Helm・Purple | 金頭兜・紫 |
+| 13981 | Claire D Head・Purple | 克蕾爾頭兜・紫 |
+| 13982 | Claire D Head・Water | 克蕾爾頭兜・水 |
+| 13983 | Claire D Head・Red | 克蕾爾頭兜・赤 |
+| 13984 | Claire D Head・Black | 克蕾爾頭兜・黑 |
+| 13985 | Gold Cat D Mask | 金猫帽子 |
+| 13986 | Silver Cat D Mask | 銀猫帽子 |
 | 13987 | Ex D Piercing・White | 艾克斯耳飾・白 |
 | 13988 | Ex D Piercing・Red | 艾克斯耳飾・赤 |
 | 13989 | Ex D Piercing・Blue | 艾克斯耳飾・青 |
 | 13990 | Ex D Piercing・Black | 艾克斯耳飾・黑 |
-| 13991 | Star Festival D Mask [Red】 | 斯阿爾艾帽子・赤 |
-| 13992 | Star Festival D Mask [Blue】 | 斯阿爾艾帽子・青 |
-| 13993 | Star Festival D Mask [Black】 | 斯阿爾艾帽子・黑 |
-| 13994 | Star Festival D Mask [White】 | 斯阿爾艾帽子・白 |
+| 13991 | Star Festival D Mask [Red】 | 星祭帽子・赤 |
+| 13992 | Star Festival D Mask [Blue】 | 星祭帽子・青 |
+| 13993 | Star Festival D Mask [Black】 | 星祭帽子・黑 |
+| 13994 | Star Festival D Mask [White】 | 星祭帽子・白 |
 | 13995 | Promise D Head・White | 普歐姆伊頭兜・白 |
 | 13996 | Promise D Head・Blue | 普歐姆伊頭兜・青 |
 | 13997 | Promise D Head・Purple | 普歐姆伊頭兜・紫 |

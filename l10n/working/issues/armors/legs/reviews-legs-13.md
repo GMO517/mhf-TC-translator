@@ -61,12 +61,12 @@
 | 6055 | Maisto HS Boots・Pink | 麥斯托靴【ＨＳ】・桃 |
 | 6056 | Maisto GS Boots・Pink | 麥斯托靴【ＧＳ】・桃 |
 | 6057 | Maisto GP Boots・Pink | 麥斯托靴【ＧＰ】・桃 |
-| 6058 | Cayssis HS Feet Water | 凱西斯水足【ＨＳ】 |
-| 6059 | Cayssis GS Feet Water | 凱西斯水足【ＧＳ】 |
-| 6060 | Cayssis GP Feet Water | 凱西斯水足【ＧＰ】 |
-| 6061 | Cayssis HS Leggings Water | 凱西斯水裹腿【ＨＳ】 |
-| 6062 | Cayssis GS Leggings Water | 凱西斯水裹腿【ＧＳ】 |
-| 6063 | Cayssis GP Leggings Water | 凱西斯水裹腿【ＧＰ】 |
+| 6058 | Cayssis HS Feet Water | 凱西斯足【ＨＳ】・水 |
+| 6059 | Cayssis GS Feet Water | 凱西斯足【ＧＳ】・水 |
+| 6060 | Cayssis GP Feet Water | 凱西斯足【ＧＰ】・水 |
+| 6061 | Cayssis HS Leggings Water | 凱西斯裹腿【ＨＳ】・水 |
+| 6062 | Cayssis GS Leggings Water | 凱西斯裹腿【ＧＳ】・水 |
+| 6063 | Cayssis GP Leggings Water | 凱西斯裹腿【ＧＰ】・水 |
 | 6064 | Cayssis HS Feet Red | 凱西斯足【ＨＳ】・赤 |
 | 6065 | Cayssis GS Feet Red | 凱西斯足【ＧＳ】・赤 |
 | 6066 | Cayssis GP Feet Red | 凱西斯足【ＧＰ】・赤 |
@@ -147,8 +147,8 @@
 | 6141 | Galitos GP Boots・Red | 加里托斯靴【ＧＰ】・赤 |
 | 6142 | Galitos GP Feet・Black | 加里托斯足【ＧＰ】・黑 |
 | 6143 | Galitos GP Boots・Black | 加里托斯靴【ＧＰ】・黑 |
-| 6144 | Galitos GP Feet・Water | 加里托斯水足【ＧＰ】 |
-| 6145 | Galitos GP Boots・Water | 加里托斯水靴【ＧＰ】 |
+| 6144 | Galitos GP Feet・Water | 加里托斯足【ＧＰ】・水 |
+| 6145 | Galitos GP Boots・Water | 加里托斯靴【ＧＰ】・水 |
 | 6146 | Lien GP Feet・Blue | 里恩足【ＧＰ】・青 |
 | 6147 | Lien GP Boots・Blue | 里恩靴【ＧＰ】・青 |
 | 6148 | Lien GP Feet・Red | 里恩足【ＧＰ】・赤 |
@@ -269,10 +269,10 @@
 | 6263 | Suzaku・刀神GX Feet | 朱雀足【ＧＸ】 |
 | 6264 | Genbu・刀神GX Feet | 玄武足【ＧＸ】 |
 | 6265 | Seiryu・刀神GX Feet | 青龍足【ＧＸ】 |
-| 6266 | Byakko・Heaven 槍GX Feet | 白虎足【ＧＸ】・天 |
-| 6267 | Suzaku・Heaven 槍GX Feet | 朱雀足【ＧＸ】・天 |
-| 6268 | Genbu・Heaven 槍GX Feet | 玄武足【ＧＸ】・天 |
-| 6269 | Seiryu・Heaven 槍GX Feet | 青龍足【ＧＸ】・天 |
+| 6266 | Byakko・Heaven 槍GX Feet | 白虎天足【ＧＸ】 |
+| 6267 | Suzaku・Heaven 槍GX Feet | 朱雀天足【ＧＸ】 |
+| 6268 | Genbu・Heaven 槍GX Feet | 玄武天足【ＧＸ】 |
+| 6269 | Seiryu・Heaven 槍GX Feet | 青龍天足【ＧＸ】 |
 | 6270 | Byakko・砲皇GX Feet | 白虎足【ＧＸ】 |
 | 6271 | Suzaku・砲皇GX Feet | 朱雀足【ＧＸ】 |
 | 6272 | Genbu・砲皇GX Feet | 玄武足【ＧＸ】 |
@@ -491,10 +491,10 @@
 | 6485 | Gloria GP Feet・Blue | 榮光足【ＧＰ】・青 |
 | 6486 | Gloria GS Boots・Blue | 榮光靴【ＧＳ】・青 |
 | 6487 | Gloria GP Boots・Blue | 榮光靴【ＧＰ】・青 |
-| 6488 | Gloria GS Feet・Water | 榮光水足【ＧＳ】 |
-| 6489 | Gloria GP Feet・Water | 榮光水足【ＧＰ】 |
-| 6490 | Gloria GS Boots・Water | 榮光水靴【ＧＳ】 |
-| 6491 | Gloria GP Boots・Water | 榮光水靴【ＧＰ】 |
+| 6488 | Gloria GS Feet・Water | 榮光足【ＧＳ】・水 |
+| 6489 | Gloria GP Feet・Water | 榮光足【ＧＰ】・水 |
+| 6490 | Gloria GS Boots・Water | 榮光靴【ＧＳ】・水 |
+| 6491 | Gloria GP Boots・Water | 榮光靴【ＧＰ】・水 |
 | 6492 | Gloria GS Feet・Red | 榮光足【ＧＳ】・赤 |
 | 6493 | Gloria GP Feet・Red | 榮光足【ＧＰ】・赤 |
 | 6494 | Gloria GS Boots・Red | 榮光靴【ＧＳ】・赤 |

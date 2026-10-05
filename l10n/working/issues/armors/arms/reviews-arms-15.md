@@ -47,24 +47,24 @@
 | 7041 | Green 穹・奏帝G Arms | 穹奏帝護腕・緑 |
 | 7042 | Green 穹・奏帝GF Arms | 穹奏帝護腕【Ｆ】・緑 |
 | 7043 | Green 穹・奏帝GX Arms | 穹奏帝護腕・緑 |
-| 7044 | White 蘭・Heaven 槍 Arms | 蘭槍護腕・白・天 |
-| 7045 | White 蘭・Heaven 槍F Arms | 蘭槍護腕【Ｆ】・白・天 |
-| 7046 | White 蘭・Heaven 槍FX Arms | 蘭槍護腕【ＦＸ】・白・天 |
-| 7047 | Crimson 霞・Heaven 槍 Arms | 霞槍護腕・紅・天 |
-| 7048 | Crimson 霞・Heaven 槍F Arms | 霞槍護腕【Ｆ】・紅・天 |
-| 7049 | Crimson 霞・Heaven 槍FX Arms | 霞槍護腕【ＦＸ】・紅・天 |
-| 7050 | White 蘭・Heaven 槍G Arms | 蘭槍護腕【Ｇ】・白・天 |
-| 7051 | White 蘭・Heaven 槍GF Arms | 蘭槍護腕【Ｆ】・白・天 |
-| 7052 | White 蘭・Heaven 槍GX Arms | 蘭槍護腕【ＧＸ】・白・天 |
+| 7044 | White 蘭・Heaven 槍 Arms | 蘭槍天護腕・白 |
+| 7045 | White 蘭・Heaven 槍F Arms | 蘭槍天護腕【Ｆ】・白 |
+| 7046 | White 蘭・Heaven 槍FX Arms | 蘭槍天護腕【ＦＸ】・白 |
+| 7047 | Crimson 霞・Heaven 槍 Arms | 霞槍天護腕・紅 |
+| 7048 | Crimson 霞・Heaven 槍F Arms | 霞槍天護腕【Ｆ】・紅 |
+| 7049 | Crimson 霞・Heaven 槍FX Arms | 霞槍天護腕【ＦＸ】・紅 |
+| 7050 | White 蘭・Heaven 槍G Arms | 蘭槍天護腕【Ｇ】・白 |
+| 7051 | White 蘭・Heaven 槍GF Arms | 蘭槍天護腕【Ｆ】・白 |
+| 7052 | White 蘭・Heaven 槍GX Arms | 蘭槍天護腕【ＧＸ】・白 |
 | 7053 | 月夜・Heaven 槍G Arms | 月夜槍護腕・天 |
-| 7054 | 月夜・Heaven 槍GF Arms | 月夜槍護腕【Ｆ】・天 |
+| 7054 | 月夜・Heaven 槍GF Arms | 月夜槍天護腕【Ｆ】 |
 | 7055 | 月夜・Heaven 槍GX Arms | 月夜槍護腕・天 |
-| 7056 | Crimson 霞・Heaven 槍G Arms | 霞槍護腕【Ｇ】・紅・天 |
-| 7057 | Crimson 霞・Heaven 槍GF Arms | 霞槍護腕【Ｆ】・紅・天 |
-| 7058 | Crimson 霞・Heaven 槍GX Arms | 霞槍護腕【ＧＸ】・紅・天 |
-| 7059 | Green 穹・Heaven 槍G Arms | 穹槍護腕・緑・天 |
-| 7060 | Green 穹・Heaven 槍GF Arms | 穹槍護腕【Ｆ】・緑・天 |
-| 7061 | Green 穹・Heaven 槍GX Arms | 穹槍護腕・緑・天 |
+| 7056 | Crimson 霞・Heaven 槍G Arms | 霞槍天護腕【Ｇ】・紅 |
+| 7057 | Crimson 霞・Heaven 槍GF Arms | 霞槍天護腕【Ｆ】・紅 |
+| 7058 | Crimson 霞・Heaven 槍GX Arms | 霞槍天護腕【ＧＸ】・紅 |
+| 7059 | Green 穹・Heaven 槍G Arms | 穹槍護腕緑・天 |
+| 7060 | Green 穹・Heaven 槍GF Arms | 穹槍天護腕【Ｆ】・緑 |
+| 7061 | Green 穹・Heaven 槍GX Arms | 穹槍護腕緑・天 |
 | 7062 | White 蘭・砲皇 Arms | 蘭砲皇護腕・白 |
 | 7063 | White 蘭・砲皇F Arms | 蘭砲皇護腕【Ｆ】・白 |
 | 7064 | White 蘭・砲皇FX Arms | 蘭砲皇護腕【ＦＸ】・白 |
@@ -323,54 +323,54 @@
 | 7317 | Oyun HS Guard・White | 歐雲臂甲【ＨＳ】・白 |
 | 7318 | Oyun GS Guard・White | 歐雲臂甲【ＧＳ】・白 |
 | 7319 | Oyun GP Guard・White | 歐雲臂甲【ＧＰ】・白 |
-| 7320 | Ash Arms・Red | 護腕・灰・赤 |
-| 7321 | Ash F Arms・Red | 護腕【Ｆ】・灰・赤 |
-| 7322 | Ash FZ Arms・Red | 護腕【ＦＺ】・灰・赤 |
-| 7323 | Ash HS Arms・Red | 護腕【ＨＳ】・灰・赤 |
-| 7324 | Ash GS Arms・Red | 護腕【ＧＳ】・灰・赤 |
-| 7325 | Ash GP Arms・Red | 護腕【ＧＰ】・灰・赤 |
-| 7326 | Ash Guard・Red | 臂甲・灰・赤 |
-| 7327 | Ash F Guard・Red | 臂甲【Ｆ】・灰・赤 |
-| 7328 | Ash FZ Guard・Red | 臂甲【ＦＺ】・灰・赤 |
-| 7329 | Ash HS Guard・Red | 臂甲【ＨＳ】・灰・赤 |
-| 7330 | Ash GS Guard・Red | 臂甲【ＧＳ】・灰・赤 |
-| 7331 | Ash GP Guard・Red | 臂甲【ＧＰ】・灰・赤 |
-| 7332 | Ash Arms・Blue | 護腕・灰・青 |
-| 7333 | Ash F Arms・Blue | 護腕【Ｆ】・灰・青 |
-| 7334 | Ash FZ Arms・Blue | 護腕【ＦＺ】・灰・青 |
-| 7335 | Ash HS Arms・Blue | 護腕【ＨＳ】・灰・青 |
-| 7336 | Ash GS Arms・Blue | 護腕【ＧＳ】・灰・青 |
-| 7337 | Ash GP Arms・Blue | 護腕【ＧＰ】・灰・青 |
-| 7338 | Ash Guard・Blue | 臂甲・灰・青 |
-| 7339 | Ash F Guard・Blue | 臂甲【Ｆ】・灰・青 |
-| 7340 | Ash FZ Guard・Blue | 臂甲【ＦＺ】・灰・青 |
-| 7341 | Ash HS Guard・Blue | 臂甲【ＨＳ】・灰・青 |
-| 7342 | Ash GS Guard・Blue | 臂甲【ＧＳ】・灰・青 |
-| 7343 | Ash GP Guard・Blue | 臂甲【ＧＰ】・灰・青 |
-| 7344 | Ash Arms・White | 護腕・灰・白 |
-| 7345 | Ash F Arms・White | 護腕【Ｆ】・灰・白 |
-| 7346 | Ash FZ Arms・White | 護腕【ＦＺ】・灰・白 |
-| 7347 | Ash HS Arms・White | 護腕【ＨＳ】・灰・白 |
-| 7348 | Ash GS Arms・White | 護腕【ＧＳ】・灰・白 |
-| 7349 | Ash GP Arms・White | 護腕【ＧＰ】・灰・白 |
-| 7350 | Ash Guard・White | 臂甲・灰・白 |
-| 7351 | Ash F Guard・White | 臂甲【Ｆ】・灰・白 |
-| 7352 | Ash FZ Guard・White | 臂甲【ＦＺ】・灰・白 |
-| 7353 | Ash HS Guard・White | 臂甲【ＨＳ】・灰・白 |
-| 7354 | Ash GS Guard・White | 臂甲【ＧＳ】・灰・白 |
-| 7355 | Ash GP Guard・White | 臂甲【ＧＰ】・灰・白 |
-| 7356 | Ash Arms・Black | 護腕・灰・黑 |
-| 7357 | Ash F Arms・Black | 護腕【Ｆ】・灰・黑 |
-| 7358 | Ash FZ Arms・Black | 護腕【ＦＺ】・灰・黑 |
-| 7359 | Ash HS Arms・Black | 護腕【ＨＳ】・灰・黑 |
-| 7360 | Ash GS Arms・Black | 護腕【ＧＳ】・灰・黑 |
-| 7361 | Ash GP Arms・Black | 護腕【ＧＰ】・灰・黑 |
-| 7362 | Ash Guard・Black | 臂甲・灰・黑 |
-| 7363 | Ash F Guard・Black | 臂甲【Ｆ】・灰・黑 |
-| 7364 | Ash FZ Guard・Black | 臂甲【ＦＺ】・灰・黑 |
-| 7365 | Ash HS Guard・Black | 臂甲【ＨＳ】・灰・黑 |
-| 7366 | Ash GS Guard・Black | 臂甲【ＧＳ】・灰・黑 |
-| 7367 | Ash GP Guard・Black | 臂甲【ＧＰ】・灰・黑 |
+| 7320 | Ash Arms・Red | 護腕灰・赤 |
+| 7321 | Ash F Arms・Red | 護腕【Ｆ】灰・赤 |
+| 7322 | Ash FZ Arms・Red | 護腕【ＦＺ】灰・赤 |
+| 7323 | Ash HS Arms・Red | 護腕【ＨＳ】灰・赤 |
+| 7324 | Ash GS Arms・Red | 護腕【ＧＳ】灰・赤 |
+| 7325 | Ash GP Arms・Red | 護腕【ＧＰ】灰・赤 |
+| 7326 | Ash Guard・Red | 臂甲灰・赤 |
+| 7327 | Ash F Guard・Red | 臂甲【Ｆ】灰・赤 |
+| 7328 | Ash FZ Guard・Red | 臂甲【ＦＺ】灰・赤 |
+| 7329 | Ash HS Guard・Red | 臂甲【ＨＳ】灰・赤 |
+| 7330 | Ash GS Guard・Red | 臂甲【ＧＳ】灰・赤 |
+| 7331 | Ash GP Guard・Red | 臂甲【ＧＰ】灰・赤 |
+| 7332 | Ash Arms・Blue | 護腕灰・青 |
+| 7333 | Ash F Arms・Blue | 護腕【Ｆ】灰・青 |
+| 7334 | Ash FZ Arms・Blue | 護腕【ＦＺ】灰・青 |
+| 7335 | Ash HS Arms・Blue | 護腕【ＨＳ】灰・青 |
+| 7336 | Ash GS Arms・Blue | 護腕【ＧＳ】灰・青 |
+| 7337 | Ash GP Arms・Blue | 護腕【ＧＰ】灰・青 |
+| 7338 | Ash Guard・Blue | 臂甲灰・青 |
+| 7339 | Ash F Guard・Blue | 臂甲【Ｆ】灰・青 |
+| 7340 | Ash FZ Guard・Blue | 臂甲【ＦＺ】灰・青 |
+| 7341 | Ash HS Guard・Blue | 臂甲【ＨＳ】灰・青 |
+| 7342 | Ash GS Guard・Blue | 臂甲【ＧＳ】灰・青 |
+| 7343 | Ash GP Guard・Blue | 臂甲【ＧＰ】灰・青 |
+| 7344 | Ash Arms・White | 護腕灰・白 |
+| 7345 | Ash F Arms・White | 護腕【Ｆ】灰・白 |
+| 7346 | Ash FZ Arms・White | 護腕【ＦＺ】灰・白 |
+| 7347 | Ash HS Arms・White | 護腕【ＨＳ】灰・白 |
+| 7348 | Ash GS Arms・White | 護腕【ＧＳ】灰・白 |
+| 7349 | Ash GP Arms・White | 護腕【ＧＰ】灰・白 |
+| 7350 | Ash Guard・White | 臂甲灰・白 |
+| 7351 | Ash F Guard・White | 臂甲【Ｆ】灰・白 |
+| 7352 | Ash FZ Guard・White | 臂甲【ＦＺ】灰・白 |
+| 7353 | Ash HS Guard・White | 臂甲【ＨＳ】灰・白 |
+| 7354 | Ash GS Guard・White | 臂甲【ＧＳ】灰・白 |
+| 7355 | Ash GP Guard・White | 臂甲【ＧＰ】灰・白 |
+| 7356 | Ash Arms・Black | 護腕灰・黑 |
+| 7357 | Ash F Arms・Black | 護腕【Ｆ】灰・黑 |
+| 7358 | Ash FZ Arms・Black | 護腕【ＦＺ】灰・黑 |
+| 7359 | Ash HS Arms・Black | 護腕【ＨＳ】灰・黑 |
+| 7360 | Ash GS Arms・Black | 護腕【ＧＳ】灰・黑 |
+| 7361 | Ash GP Arms・Black | 護腕【ＧＰ】灰・黑 |
+| 7362 | Ash Guard・Black | 臂甲灰・黑 |
+| 7363 | Ash F Guard・Black | 臂甲【Ｆ】灰・黑 |
+| 7364 | Ash FZ Guard・Black | 臂甲【ＦＺ】灰・黑 |
+| 7365 | Ash HS Guard・Black | 臂甲【ＨＳ】灰・黑 |
+| 7366 | Ash GS Guard・Black | 臂甲【ＧＳ】灰・黑 |
+| 7367 | Ash GP Guard・Black | 臂甲【ＧＰ】灰・黑 |
 | 7368 | Pistis GP Arms | 普伊斯伊護腕【ＧＰ】 |
 | 7369 | Pistis GP Guard | 普伊斯伊臂甲【ＧＰ】 |
 | 7370 | Blink HS Arms | 布伊恩護腕【ＨＳ】 |

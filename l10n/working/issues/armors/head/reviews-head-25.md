@@ -39,14 +39,14 @@
 | 12033 | Akahara Reisou GN Head D Blue | 阿克阿赫頭兜・青 |
 | 12034 | Akahara Reisou GN Head D Black | 阿克阿赫頭兜・黑 |
 | 12035 | Akahara Reisou GN Head D White | 阿克阿赫頭兜・白 |
-| 12036 | Knight King Hair BM D Blue | 克伊格伊頭兜・青 |
-| 12037 | Knight King Hair BM D Red | 克伊格伊頭兜・赤 |
-| 12038 | Knight King Hair BM D Black | 克伊格伊頭兜・黑 |
-| 12039 | Knight King Hair BM D White | 克伊格伊頭兜・白 |
-| 12040 | Hero King Earring BM D Gold | 赫艾爾歐頭兜・金 |
-| 12041 | Hero King Earring BM D Black | 赫艾爾歐頭兜・黑 |
-| 12042 | Hero King Earring BM D White | 赫艾爾歐頭兜・白 |
-| 12043 | Hero King Earring BM D Red | 赫艾爾歐頭兜・赤 |
+| 12036 | Knight King Hair BM D Blue | 騎士王頭兜・青 |
+| 12037 | Knight King Hair BM D Red | 騎士王頭兜・赤 |
+| 12038 | Knight King Hair BM D Black | 騎士王頭兜・黑 |
+| 12039 | Knight King Hair BM D White | 騎士王頭兜・白 |
+| 12040 | Hero King Earring BM D Gold | 英雄王頭兜・金 |
+| 12041 | Hero King Earring BM D Black | 英雄王頭兜・黑 |
+| 12042 | Hero King Earring BM D White | 英雄王頭兜・白 |
+| 12043 | Hero King Earring BM D Red | 英雄王頭兜・赤 |
 | 12044 | Gorgon D Head・Black | 格歐爾歐頭兜・黑 |
 | 12045 | Gorgon D Head・Blue | 格歐爾歐頭兜・青 |
 | 12046 | Gorgon D Head・White | 格歐爾歐頭兜・白 |
@@ -121,13 +121,13 @@
 | 12115 | Twin Star GS Helm | 雙星頭兜【ＧＳ】 |
 | 12116 | Twin Star GP Helm | 雙星頭兜【ＧＰ】 |
 | 12117 | Twin Star ZP Helm | 雙星頭兜【ＺＰ】 |
-| 12118 | Heaven Blade Helm | 天刃頭兜・天 |
-| 12119 | Heaven Blade F Helm | 天刃頭兜【Ｆ】・天 |
-| 12120 | Heaven Blade FZ Helm | 天刃頭兜【ＦＺ】・天 |
-| 12121 | Heaven Blade HS Helm | 天刃頭兜【ＨＳ】・天 |
-| 12122 | Heaven Blade GS Helm | 天刃頭兜【ＧＳ】・天 |
-| 12123 | Heaven Blade GP Helm | 天刃頭兜【ＧＰ】・天 |
-| 12124 | Heaven Blade ZP Helm | 天刃頭兜【ＺＰ】・天 |
+| 12118 | Heaven Blade Helm | 天刃頭兜 |
+| 12119 | Heaven Blade F Helm | 天刃頭兜【Ｆ】 |
+| 12120 | Heaven Blade FZ Helm | 天刃頭兜【ＦＺ】 |
+| 12121 | Heaven Blade HS Helm | 天刃頭兜【ＨＳ】 |
+| 12122 | Heaven Blade GS Helm | 天刃頭兜【ＧＳ】 |
+| 12123 | Heaven Blade GP Helm | 天刃頭兜【ＧＰ】 |
+| 12124 | Heaven Blade ZP Helm | 天刃頭兜【ＺＰ】 |
 | 12125 | Spring Sword Helm | 斯伊恩歐頭兜 |
 | 12126 | Spring Sword F Helm | 斯伊恩歐頭兜【Ｆ】 |
 | 12127 | Spring Sword FZ Helm | 斯伊恩歐頭兜【ＦＺ】 |
@@ -163,13 +163,13 @@
 | 12157 | Scream Lance GS Helm | 斯艾姆阿頭兜【ＧＳ】 |
 | 12158 | Scream Lance GP Helm | 斯艾姆阿頭兜【ＧＰ】 |
 | 12159 | Scream Lance ZP Helm | 斯艾姆阿頭兜【ＺＰ】 |
-| 12160 | Piercing Light Helm | 光頭部防具耳飾 |
-| 12161 | Piercing Light F Helm | 光頭部防具耳飾【Ｆ】 |
-| 12162 | Piercing Light FZ Helm | 光頭部防具耳飾【ＦＺ】 |
-| 12163 | Piercing Light HS Helm | 光頭部防具耳飾【ＨＳ】 |
-| 12164 | Piercing Light GS Helm | 光頭部防具耳飾【ＧＳ】 |
-| 12165 | Piercing Light GP Helm | 光頭部防具耳飾【ＧＰ】 |
-| 12166 | Piercing Light ZP Helm | 光頭部防具耳飾【ＺＰ】 |
+| 12160 | Piercing Light Helm | 光耳飾 |
+| 12161 | Piercing Light F Helm | 光耳飾【Ｆ】 |
+| 12162 | Piercing Light FZ Helm | 光耳飾【ＦＺ】 |
+| 12163 | Piercing Light HS Helm | 光耳飾【ＨＳ】 |
+| 12164 | Piercing Light GS Helm | 光耳飾【ＧＳ】 |
+| 12165 | Piercing Light GP Helm | 光耳飾【ＧＰ】 |
+| 12166 | Piercing Light ZP Helm | 光耳飾【ＺＰ】 |
 | 12167 | Colour Axe Helm | 克歐爾歐頭兜 |
 | 12168 | Colour Axe F Helm | 克歐爾歐頭兜【Ｆ】 |
 | 12169 | Colour Axe FZ Helm | 克歐爾歐頭兜【ＦＺ】 |
@@ -191,13 +191,13 @@
 | 12185 | Crush Gun GS Cap | 克烏夏烏兜帽【ＧＳ】 |
 | 12186 | Crush Gun GP Cap | 克烏夏烏兜帽【ＧＰ】 |
 | 12187 | Crush Gun ZP Cap | 克烏夏烏兜帽【ＺＰ】 |
-| 12188 | Bow Saint Cap | 布歐沃阿兜帽 |
-| 12189 | Bow Saint F Cap | 布歐沃阿兜帽【Ｆ】 |
-| 12190 | Bow Saint FZ Cap | 布歐沃阿兜帽【ＦＺ】 |
-| 12191 | Bow Saint HS Cap | 布歐沃阿兜帽【ＨＳ】 |
-| 12192 | Bow Saint GS Cap | 布歐沃阿兜帽【ＧＳ】 |
-| 12193 | Bow Saint GP Cap | 布歐沃阿兜帽【ＧＰ】 |
-| 12194 | Bow Saint ZP Cap | 布歐沃阿兜帽【ＺＰ】 |
+| 12188 | Bow Saint Cap | 斯阿恩兜帽 |
+| 12189 | Bow Saint F Cap | 斯阿恩兜帽【Ｆ】 |
+| 12190 | Bow Saint FZ Cap | 斯阿恩兜帽【ＦＺ】 |
+| 12191 | Bow Saint HS Cap | 斯阿恩兜帽【ＨＳ】 |
+| 12192 | Bow Saint GS Cap | 斯阿恩兜帽【ＧＳ】 |
+| 12193 | Bow Saint GP Cap | 斯阿恩兜帽【ＧＰ】 |
+| 12194 | Bow Saint ZP Cap | 斯阿恩兜帽【ＺＰ】 |
 | 12195 | Rantana Helm | 蘭塔納頭兜 |
 | 12196 | Rantana F Helm | 蘭塔納頭兜【Ｆ】 |
 | 12197 | Rantana FZ Helm | 蘭塔納頭兜【ＦＺ】 |
@@ -500,7 +500,7 @@
 | 12494 | Scholar C Hood | 施歐爾阿兜帽 |
 | 12495 | Aelucanth C Vertex | 阿爾烏克頭頂 |
 | 12496 | Rhopessa C Vertex | 爾歐普艾頭頂 |
-| 12497 | Yukumo Kasa C・Heaven | 伊烏克烏笠・天 |
+| 12497 | Yukumo Kasa C・Heaven | 伊烏克烏天笠 |
 | 12498 | Michelia Alba・ Kensei D Helm | 姆伊奇艾頭兜 |
 | 12499 | Michelia Alba・双龍D Helm | 双龍頭兜 |
 | 12500 | White 蘭・剣王D Helm | 蘭剣王頭兜・白 |

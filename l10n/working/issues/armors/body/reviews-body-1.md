@@ -66,8 +66,8 @@
 | 59 | Healer Vest | 治癒背心 |
 | 60 | Garuga Mail | 黑狼鳥鎧甲 |
 | 61 | Garuga Vest | 黑狼鳥背心 |
-| 62 | 暁丸【胴当て】 | 胴当て暁丸鎧甲 |
-| 63 | 曙丸【胴当て】 | 胴当て曙丸鎧甲 |
+| 62 | 暁丸【胴当て】 | 暁丸胴當 |
+| 63 | 曙丸【胴当て】 | 曙丸胴當 |
 | 64 | 凛【胸当て】 | 胸当て凛鎧甲 |
 | 65 | 艶【胸当て】 | 胸当て艶鎧甲 |
 | 66 | Dragon Hide | 龍皮衣 |
@@ -121,16 +121,16 @@
 | 114 | Guardian U Vest | 守護者背心【Ｕ】 |
 | 115 | Helper U Vest | 助手背心【Ｕ】 |
 | 116 | Healer U Vest | 治癒背心【Ｕ】 |
-| 117 | 暁丸・皇【胴当て】 | 胴当て暁丸皇鎧甲 |
-| 118 | 曙丸・皇【胴当て】 | 胴当て曙丸皇鎧甲 |
+| 117 | 暁丸・皇【胴当て】 | 暁丸皇胴當 |
+| 118 | 曙丸・皇【胴当て】 | 曙丸皇胴當 |
 | 119 | 凛・皇【胸当て】 | 胸当て凛皇鎧甲 |
 | 120 | 艶・皇【胸当て】 | 胸当て艶皇鎧甲 |
 | 121 | ミラ Vulcan Hide | 火神皮衣 |
 | 122 | ミラ Vulcan Skin | 火神皮 |
 | 123 | ゴールド Lune Mail | 月鎧甲 |
 | 124 | ゴールド Lune Vest | 月背心 |
-| 125 | Silver Sol Mail | 日鎧甲・銀 |
-| 126 | Silver Sol Vest | 日背心・銀 |
+| 125 | Silver Sol Mail | 銀日鎧甲 |
+| 126 | Silver Sol Vest | 銀日背心 |
 | 127 | Leather S Mail | 皮革鎧甲【Ｓ】 |
 | 128 | Chainmail S Mail | 鎖鏈鎧甲【Ｓ】 |
 | 129 | Hunter's S Mail | 獵人鎧甲【Ｓ】 |
@@ -174,14 +174,14 @@
 | 167 | Monoblos S Vest | 一角龍背心【Ｓ】 |
 | 168 | Gravios S Mail | 鎧龍鎧甲【Ｓ】 |
 | 169 | Gravios S Vest | 鎧龍背心【Ｓ】 |
-| 170 | 忍の Shozoku・Heaven | 忍の裝束・天 |
-| 171 | 忍の Shozoku・Earth | 忍の裝束・地 |
+| 170 | 忍の Shozoku・Heaven | 忍の天裝束 |
+| 171 | 忍の Shozoku・Earth | 忍の地裝束 |
 | 172 | Guild Guard Suit Crimson | 公會守衛套裝・紅 |
 | 173 | Guild Guard Vest Crimson | 公會守衛背心・紅 |
 | 174 | Guild Guard Suit Crimson | 公會守衛套裝・紅 |
 | 175 | Guild Guard Vest Crimson | 公會守衛背心・紅 |
-| 176 | 暁丸・覇【胴当て】 | 胴当て暁丸覇鎧甲 |
-| 177 | 曙丸・覇【胴当て】 | 胴当て曙丸覇鎧甲 |
+| 176 | 暁丸・覇【胴当て】 | 暁丸胴當 |
+| 177 | 曙丸・覇【胴当て】 | 曙丸胴當 |
 | 178 | 凛・覇【胸当て】 | 胸当て凛覇鎧甲 |
 | 179 | 艶・覇【胸当て】 | 胸当て艶覇鎧甲 |
 | 180 | Dragon S Hide | 龍皮衣【Ｓ】 |
@@ -220,14 +220,14 @@
 | 213 | Toyotama [Chestplate 】 | 豐玉胸甲 |
 | 214 | Empress Mail | 女帝鎧甲 |
 | 215 | Empress Vest | 女帝背心 |
-| 216 | Gold 剛【胴当て】 | 胴当て剛鎧甲・金 |
-| 217 | 不動【胴当て】 | 胴当て不動鎧甲 |
+| 216 | Gold 剛【胴当て】 | 金胴當剛 |
+| 217 | 不動【胴当て】 | 不動胴當 |
 | 218 | Kaiser Mail | 帝王鎧甲 |
 | 219 | Kaiser Vest | 帝王背心 |
 | 220 | 夜叉【羽衣】 | 夜叉羽衣 |
 | 221 | 修羅【羽衣】 | 修羅羽衣 |
 | 222 | Golden Haori | 金羽織 |
-| 223 | Puppeteer ノ装束 | 装束鎧甲 |
+| 223 | Puppeteer ノ装束 | 操偶鎧甲 |
 | 224 | White Fatalis Hide | 白黑龍皮衣 |
 | 225 | White Fatalis Skin | 白黑龍皮 |
 | 226 | Black Belt S Mail | 黑帶鎧甲【Ｓ】 |
@@ -259,11 +259,11 @@
 | 252 | Gia U Vest | 格伊背心【Ｕ】 |
 | 253 | White Cat Suit | 白猫套裝 |
 | 254 | Black Cat Suit | 黑猫套裝 |
-| 255 | Gold Cat Suit | 猫套裝・金 |
+| 255 | Gold Cat Suit | 金猫套裝 |
 | 256 | Gothic Plate | 哥德板甲 |
 | 257 | Gothic F Plate | 哥德板甲【Ｆ】 |
 | 258 | Beil Brigantes | 布艾爾伊鎧甲 |
-| 259 | Comrade Mail 【猩】 | 戰友猩鎧甲 |
+| 259 | Comrade Mail 【猩】 | 戰友鎧甲猩 |
 | 260 | Jisutoreru Vest | 吉斯特雷背心 |
 | 261 | Duo Mail | 雙鎧甲 |
 | 262 | Smart Vest | 機靈背心 |
@@ -309,32 +309,32 @@
 | 302 | Kushala Fバダル | 鋼龍鎧甲 |
 | 303 | Kaiser F Mail | 帝王鎧甲【Ｆ】 |
 | 304 | Kaiser F Vest | 帝王背心【Ｆ】 |
-| 305 | Mizuha 魁 [Chestplate 】 | 魁胸甲 |
-| 306 | Toyotama 魁 [Chestplate 】 | 魁胸甲 |
-| 307 | Gold 剛・魁【胴当て】 | 胴当て剛魁鎧甲・金 |
-| 308 | 不動・魁【胴当て】 | 胴当て不動魁鎧甲 |
-| 309 | 夜叉・魁【羽衣】 | 夜叉魁羽衣 |
-| 310 | 修羅・魁【羽衣】 | 修羅魁羽衣 |
+| 305 | Mizuha 魁 [Chestplate 】 | 水羽胸甲魁 |
+| 306 | Toyotama 魁 [Chestplate 】 | 豐玉胸甲魁 |
+| 307 | Gold 剛・魁【胴当て】 | 金胴當魁剛 |
+| 308 | 不動・魁【胴当て】 | 不動胴當魁 |
+| 309 | 夜叉・魁【羽衣】 | 夜叉羽衣魁 |
+| 310 | 修羅・魁【羽衣】 | 修羅羽衣魁 |
 | 311 | Empress F Mail | 女帝鎧甲【Ｆ】 |
 | 312 | Empress F Vest | 女帝背心【Ｆ】 |
-| 313 | Golden Haori・魁 | 魁羽織 |
-| 314 | Puppeteer ノ装束・魁 | 装束魁鎧甲 |
+| 313 | Golden Haori・魁 | 金羽織魁 |
+| 314 | Puppeteer ノ装束・魁 | 操偶鎧甲魁 |
 | 315 | Garuga F Mail | 黑狼鳥鎧甲【Ｆ】 |
 | 316 | Garuga F Vest | 黑狼鳥背心【Ｆ】 |
 | 317 | Kushala F Diru | 鋼龍上衣【Ｆ】 |
 | 318 | Kushala Fバダル | 鋼龍鎧甲 |
 | 319 | Kaiser F Mail | 帝王鎧甲【Ｆ】 |
 | 320 | Kaiser F Vest | 帝王背心【Ｆ】 |
-| 321 | Mizuha 魁 [Chestplate 】 | 魁胸甲 |
-| 322 | Toyotama 魁 [Chestplate 】 | 魁胸甲 |
-| 323 | Gold 剛・魁【胴当て】 | 胴当て剛魁鎧甲・金 |
-| 324 | 不動・魁【胴当て】 | 胴当て不動魁鎧甲 |
-| 325 | 夜叉・魁【羽衣】 | 夜叉魁羽衣 |
-| 326 | 修羅・魁【羽衣】 | 修羅魁羽衣 |
+| 321 | Mizuha 魁 [Chestplate 】 | 水羽胸甲魁 |
+| 322 | Toyotama 魁 [Chestplate 】 | 豐玉胸甲魁 |
+| 323 | Gold 剛・魁【胴当て】 | 金胴當魁剛 |
+| 324 | 不動・魁【胴当て】 | 不動胴當魁 |
+| 325 | 夜叉・魁【羽衣】 | 夜叉羽衣魁 |
+| 326 | 修羅・魁【羽衣】 | 修羅羽衣魁 |
 | 327 | Empress F Mail | 女帝鎧甲【Ｆ】 |
 | 328 | Empress F Vest | 女帝背心【Ｆ】 |
-| 329 | Golden Haori・魁 | 魁羽織 |
-| 330 | Puppeteer ノ装束・魁 | 装束魁鎧甲 |
+| 329 | Golden Haori・魁 | 金羽織魁 |
+| 330 | Puppeteer ノ装束・魁 | 操偶鎧甲魁 |
 | 331 | Garuga F Mail | 黑狼鳥鎧甲【Ｆ】 |
 | 332 | Garuga F Vest | 黑狼鳥背心【Ｆ】 |
 | 333 | Lavasioth U Mail | 熔岩龍鎧甲【Ｕ】 |
@@ -342,10 +342,10 @@
 | 335 | White Metal Mail | 白金屬鎧甲 |
 | 336 | Celeste Plate | 天空板甲 |
 | 337 | Ciel Brigantes | 克伊爾伊鎧甲 |
-| 338 | Comrada Mail 【 Red 】 | 克歐姆阿鎧甲・赤 |
-| 339 | Comrada Mail 【 Blue 】 | 克歐姆阿鎧甲・青 |
-| 340 | Comrada Mail 【 Green 】 | 克歐姆阿鎧甲・緑 |
-| 341 | Comrada Mail 【 Orange 】 | 克歐姆阿鎧甲・橙 |
+| 338 | Comrada Mail 【 Red 】 | 戰友鎧甲・赤 |
+| 339 | Comrada Mail 【 Blue 】 | 戰友鎧甲・青 |
+| 340 | Comrada Mail 【 Green 】 | 戰友鎧甲・緑 |
+| 341 | Comrada Mail 【 Orange 】 | 戰友鎧甲・橙 |
 | 342 | Dummy | (dummy) |
 | 343 | Dummy | (dummy) |
 | 344 | Espinas Muscle | 棘龍筋肉衣 |
@@ -434,36 +434,36 @@
 | 427 | Eques Vest 改 | 改背心 |
 | 428 | Eques F Mail | 騎士鎧甲【Ｆ】 |
 | 429 | Eques F Vest | 騎士背心【Ｆ】 |
-| 430 | Star Festival Shozoku・Summer [Red 】 | 斯阿爾艾裝束・赤 |
-| 431 | Star Festival Shozoku・Summer [Blue 】 | 斯阿爾艾裝束・青 |
-| 432 | Star Festival Shozoku・Summer [Black 】 | 斯阿爾艾裝束・黑 |
-| 433 | Star Festival Shozoku・Summer [White 】 | 斯阿爾艾裝束・白 |
-| 434 | Tanabata Shozoku・Summer [Red 】 | 特阿恩阿裝束・赤 |
-| 435 | Tanabata Shozoku・Summer [Blue 】 | 特阿恩阿裝束・青 |
-| 436 | Tanabata Shozoku・Summer [Black 】 | 特阿恩阿裝束・黑 |
-| 437 | Tanabata Shozoku・Summer [White 】 | 特阿恩阿裝束・白 |
-| 438 | Star Festival Shozoku・織 [Red 】 | 織裝束・赤 |
-| 439 | Star Festival Shozoku・織 [Blue 】 | 織裝束・青 |
-| 440 | Star Festival Shozoku・織 [Black 】 | 織裝束・黑 |
-| 441 | Star Festival Shozoku・織 [White 】 | 織裝束・白 |
+| 430 | Star Festival Shozoku・Summer [Red 】 | 星祭夏裝束・赤 |
+| 431 | Star Festival Shozoku・Summer [Blue 】 | 星祭夏裝束・青 |
+| 432 | Star Festival Shozoku・Summer [Black 】 | 星祭夏裝束・黑 |
+| 433 | Star Festival Shozoku・Summer [White 】 | 星祭夏裝束・白 |
+| 434 | Tanabata Shozoku・Summer [Red 】 | 七夕夏裝束・赤 |
+| 435 | Tanabata Shozoku・Summer [Blue 】 | 七夕夏裝束・青 |
+| 436 | Tanabata Shozoku・Summer [Black 】 | 七夕夏裝束・黑 |
+| 437 | Tanabata Shozoku・Summer [White 】 | 七夕夏裝束・白 |
+| 438 | Star Festival Shozoku・織 [Red 】 | 星祭織裝束・赤 |
+| 439 | Star Festival Shozoku・織 [Blue 】 | 星祭織裝束・青 |
+| 440 | Star Festival Shozoku・織 [Black 】 | 星祭織裝束・黑 |
+| 441 | Star Festival Shozoku・織 [White 】 | 星祭織裝束・白 |
 | 442 | Tanabata Shozoku・織 [Red 】 | 織裝束・赤 |
 | 443 | Tanabata Shozoku・織 [Blue 】 | 織裝束・青 |
 | 444 | Tanabata Shozoku・織 [Black 】 | 織裝束・黑 |
 | 445 | Tanabata Shozoku・織 [White 】 | 織裝束・白 |
-| 446 | Star Festival Shozoku・Heaven [Red 】 | 星祭天裝束・赤・天 |
-| 447 | Star Festival Shozoku・Heaven [Blue 】 | 星祭天裝束・青・天 |
-| 448 | Star Festival Shozoku・Heaven [Black 】 | 星祭天裝束・黑・天 |
-| 449 | Star Festival Shozoku・Heaven [White 】 | 星祭天裝束・白・天 |
-| 450 | Tanabata Shozoku・Heaven [Red 】 | 七夕天裝束・赤・天 |
-| 451 | Tanabata Shozoku・Heaven [Blue 】 | 七夕天裝束・青・天 |
-| 452 | Tanabata Shozoku・Heaven [Black 】 | 七夕天裝束・黑・天 |
-| 453 | Tanabata Shozoku・Heaven [White 】 | 七夕天裝束・白・天 |
+| 446 | Star Festival Shozoku・Heaven [Red 】 | 星祭天裝束・赤 |
+| 447 | Star Festival Shozoku・Heaven [Blue 】 | 星祭天裝束・青 |
+| 448 | Star Festival Shozoku・Heaven [Black 】 | 星祭天裝束・黑 |
+| 449 | Star Festival Shozoku・Heaven [White 】 | 星祭天裝束・白 |
+| 450 | Tanabata Shozoku・Heaven [Red 】 | 七夕天裝束・赤 |
+| 451 | Tanabata Shozoku・Heaven [Blue 】 | 七夕天裝束・青 |
+| 452 | Tanabata Shozoku・Heaven [Black 】 | 七夕天裝束・黑 |
+| 453 | Tanabata Shozoku・Heaven [White 】 | 七夕天裝束・白 |
 | 454 | High Metal Mail SP Black | 上位金屬鎧甲【ＳＰ】・黑 |
 | 455 | High Metal Mail SP Blue | 上位金屬鎧甲【ＳＰ】・青 |
 | 456 | High Metal Mail SP Yellow | 上位金屬鎧甲【ＳＰ】・黄 |
-| 457 | S・Sol Mail SP Red | 日鎧甲【Ｓ】【ＳＰ】・赤 |
-| 458 | S・Sol Mail SP Purple | 日鎧甲【Ｓ】【ＳＰ】・紫 |
-| 459 | S・Sol Mail SP Black | 日鎧甲【Ｓ】【ＳＰ】・黑 |
+| 457 | S・Sol Mail SP Red | S索倫鎧甲【ＳＰ】・赤 |
+| 458 | S・Sol Mail SP Purple | S索倫鎧甲【ＳＰ】・紫 |
+| 459 | S・Sol Mail SP Black | S索倫鎧甲【ＳＰ】・黑 |
 | 460 | Garuga Vest SP White | 黑狼鳥背心【ＳＰ】・白 |
 | 461 | Garuga Vest SP Green | 黑狼鳥背心【ＳＰ】・緑 |
 | 462 | Garuga Vest SP Red | 黑狼鳥背心【ＳＰ】・赤 |

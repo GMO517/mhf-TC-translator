@@ -15,11 +15,11 @@
 | 1509 | Pharan F Helm・Blue | 法藍頭兜【Ｆ】・青 |
 | 1510 | Pharan Mask・Blue | 法藍帽子・青 |
 | 1511 | Pharan F Mask・Blue | 法藍帽子【Ｆ】・青 |
-| 1512 | Gold Cat F Head | 猫頭兜【Ｆ】・金 |
-| 1513 | Gold Cat F Haar | 猫髮【Ｆ】・金 |
-| 1514 | Silver Cat Mask | 猫帽子・銀 |
-| 1515 | Silver Cat F Head | 猫頭兜【Ｆ】・銀 |
-| 1516 | Silver Cat F Haar | 猫髮【Ｆ】・銀 |
+| 1512 | Gold Cat F Head | 金猫頭兜【Ｆ】 |
+| 1513 | Gold Cat F Haar | 金猫髮【Ｆ】 |
+| 1514 | Silver Cat Mask | 銀猫帽子 |
+| 1515 | Silver Cat F Head | 銀猫頭兜【Ｆ】 |
+| 1516 | Silver Cat F Haar | 銀猫髮【Ｆ】 |
 | 1517 | ヴィン Head | 温頭兜 |
 | 1518 | ヴィンF Head | 温頭兜【Ｆ】 |
 | 1519 | ヴァンデ Head | 芙恩德頭兜 |
@@ -51,7 +51,7 @@
 | 1545 | Cepha L Cap | 砂龍兜帽【Ｌ】 |
 | 1546 | Rathian L Cap | 雌火龍兜帽【Ｌ】 |
 | 1547 | Kut-Ku L Cap | 怪鳥兜帽【Ｌ】 |
-| 1548 | Shinobi Mask・R | 夏伊恩歐帽子【Ｒ】 |
+| 1548 | Shinobi Mask・R | 忍帽子【Ｒ】 |
 | 1549 | Leather R Helm | 皮革頭兜【Ｒ】 |
 | 1550 | Espinas R Soul | 棘龍魂【Ｒ】 |
 | 1551 | Bistro R Cap | 食堂兜帽【Ｒ】 |
@@ -310,8 +310,8 @@
 | 1804 | ダミー | (dummy) |
 | 1805 | ダミー | (dummy) |
 | 1806 | White Fatalis R Head | 白黑龍頭兜【Ｒ】 |
-| 1807 | G・Lune R Cap | 月兜帽【Ｇ】【Ｒ】 |
-| 1808 | S・Sol R Cap | 日兜帽【Ｓ】【Ｒ】 |
+| 1807 | G・Lune R Cap | 月兜帽【Ｒ】 |
+| 1808 | S・Sol R Cap | S索倫兜帽【Ｒ】 |
 | 1809 | Death Stench L Soul | 死臭魂【Ｌ】 |
 | 1810 | Leather L Helm | 皮革頭兜【Ｌ】 |
 | 1811 | Chainmail L Helm | 鎖鏈頭兜【Ｌ】 |

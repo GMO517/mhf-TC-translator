@@ -19,15 +19,15 @@
 | 512 | Kushala Diru SP Red | 鋼龍上衣【ＳＰ】・赤 |
 | 513 | Kushala Diru SP Yellow | 鋼龍上衣【ＳＰ】・黄 |
 | 514 | Kushala Diru SP Green | 鋼龍上衣【ＳＰ】・緑 |
-| 515 | Kushala バダル SP Red | 鋼龍鎧甲【ＳＰ】 |
-| 516 | Kushala バダル SP Yellow | 鋼龍鎧甲【ＳＰ】 |
-| 517 | Kushala バダル SP Green | 鋼龍鎧甲【ＳＰ】 |
+| 515 | Kushala バダル SP Red | 鋼龍鎧甲【ＳＰ】・赤 |
+| 516 | Kushala バダル SP Yellow | 鋼龍鎧甲【ＳＰ】・黄 |
+| 517 | Kushala バダル SP Green | 鋼龍鎧甲【ＳＰ】・緑 |
 | 518 | Kirin Vest SP Red | 麒麟背心【ＳＰ】・赤 |
 | 519 | Kirin Vest SP Purple | 麒麟背心【ＳＰ】・紫 |
 | 520 | Kirin Vest SP Black | 麒麟背心【ＳＰ】・黑 |
-| 521 | Kirin ケープ SP Red | 麒麟鎧甲【ＳＰ】 |
-| 522 | Kirin ケープ SP Purple | 麒麟鎧甲【ＳＰ】 |
-| 523 | Kirin ケープ SP Black | 麒麟鎧甲【ＳＰ】 |
+| 521 | Kirin ケープ SP Red | 麒麟鎧甲【ＳＰ】・赤 |
+| 522 | Kirin ケープ SP Purple | 麒麟鎧甲【ＳＰ】・紫 |
+| 523 | Kirin ケープ SP Black | 麒麟鎧甲【ＳＰ】・黑 |
 | 524 | Strega Mail | 魔女鎧甲 |
 | 525 | Strega Vest | 魔女背心 |
 | 526 | Strega Mail 改 | 改鎧甲 |
@@ -102,7 +102,7 @@
 | 595 | Hypnoc ルータ Suit | 眠鳥套裝 |
 | 596 | Hypnoc ルータ Vest | 眠鳥背心 |
 | 597 | Garuda Suit | 迦樓羅套裝 |
-| 598 | Garuda Vest 【 Heaven 】 | 迦樓羅背心・天 |
+| 598 | Garuda Vest 【 Heaven 】 | 迦樓羅天背心 |
 | 599 | ファミ通Tシャツ | 芙米鎧甲 |
 | 600 | ファミ通TシャツF | 芙米鎧甲【Ｆ】 |
 | 601 | Extra F Vest | 追加背心【Ｆ】 |
@@ -112,8 +112,8 @@
 | 605 | Priere Mail | 普伊爾艾鎧甲 |
 | 606 | Salvacion Mail | 斯阿爾阿鎧甲 |
 | 607 | Shikari の胴当て | の胴当て鎧甲 |
-| 608 | Shikari の胴当て・魁 | の胴当て魁鎧甲 |
-| 609 | G・Guard R Suit Green | 防禦套裝【Ｇ】【Ｒ】・緑 |
+| 608 | Shikari の胴当て・魁 | の胴当て鎧甲魁 |
+| 609 | G・Guard R Suit Green | 防禦套裝【Ｒ】・緑 |
 | 610 | Arma Vest・Black | 武裝背心・黑 |
 | 611 | Arma Suit・Black | 武裝套裝・黑 |
 | 612 | Arma Vest・White | 武裝背心・白 |
@@ -146,10 +146,10 @@
 | 639 | Khezu R Mail | 奇怪龍鎧甲【Ｒ】 |
 | 640 | Rath Soul R Mail | 火龍魂鎧甲【Ｒ】 |
 | 641 | Gia R Mail | 格伊鎧甲【Ｒ】 |
-| 642 | G・Guard R Suit Green | 防禦套裝【Ｇ】【Ｒ】・緑 |
+| 642 | G・Guard R Suit Green | 防禦套裝【Ｒ】・緑 |
 | 643 | Khezu L Vest | 奇怪龍背心【Ｌ】 |
 | 644 | Io R Vest | 伊歐背心【Ｒ】 |
-| 645 | Garuda Vest 【 Earth 】 | 迦樓羅背心・地 |
+| 645 | Garuda Vest 【 Earth 】 | 迦樓羅地背心 |
 | 646 | Purokusu Mail | 普烏爾歐鎧甲 |
 | 647 | Purokusu F Mail | 普烏爾歐鎧甲【Ｆ】 |
 | 648 | Kurenesu Mail | 克烏爾艾鎧甲 |
@@ -174,7 +174,7 @@
 | 667 | Hypnolia Vest | 赫歐爾伊背心 |
 | 668 | Feral Suit | 芙艾爾阿套裝 |
 | 669 | Feral Vest | 芙艾爾阿背心 |
-| 670 | Demon Lord ノ肩鎧 | 惡魔鎧甲 |
+| 670 | Demon Lord ノ肩鎧 | 魔王鎧甲 |
 | 671 | Rasta 教官胴 | 教官胴鎧甲 |
 | 672 | 童子ノ肩鎧 | 童子肩鎧鎧甲 |
 | 673 | ダミー | (dummy) |
@@ -204,9 +204,9 @@
 | 697 | Toyotama [Chest] SP Blue | 豐玉胸甲【ＳＰ】・青 |
 | 698 | Toyotama [Chest] SP Red | 豐玉胸甲【ＳＰ】・赤 |
 | 699 | Toyotama [Chest] SP Yellow | 豐玉胸甲【ＳＰ】・黄 |
-| 700 | 暁丸【胴当て】 SP Red | 胴当て暁丸鎧甲【ＳＰ】・赤 |
-| 701 | 暁丸【胴当て】 SP Purple | 胴当て暁丸鎧甲【ＳＰ】・紫 |
-| 702 | 暁丸【胴当て】 SP White | 胴当て暁丸鎧甲【ＳＰ】・白 |
+| 700 | 暁丸【胴当て】 SP Red | 暁丸胴當【ＳＰ】・赤 |
+| 701 | 暁丸【胴当て】 SP Purple | 暁丸胴當【ＳＰ】・紫 |
+| 702 | 暁丸【胴当て】 SP White | 暁丸胴當【ＳＰ】・白 |
 | 703 | 凛 [Chestplate] SP Black | 凛胸甲【ＳＰ】・黑 |
 | 704 | 凛 [Chestplate] SP Purple | 凛胸甲【ＳＰ】・紫 |
 | 705 | 凛 [Chestplate] SP White | 凛胸甲【ＳＰ】・白 |
@@ -217,8 +217,8 @@
 | 710 | Gravios L Mail | 鎧龍鎧甲【Ｌ】 |
 | 711 | Vespoid L Mail | 巨蜂鎧甲【Ｌ】 |
 | 712 | Basarios R Mail | 岩龍鎧甲【Ｒ】 |
-| 713 | G・Guard R Vest Green | 防禦背心【Ｇ】【Ｒ】・緑 |
-| 714 | G・Guard R Vest Green | 防禦背心【Ｇ】【Ｒ】・緑 |
+| 713 | G・Guard R Vest Green | 防禦背心【Ｒ】・緑 |
+| 714 | G・Guard R Vest Green | 防禦背心【Ｒ】・緑 |
 | 715 | Monodevil R Mail | 單眼惡魔鎧甲【Ｒ】 |
 | 716 | Hornetaur R Mail | 巨甲蟲鎧甲【Ｒ】 |
 | 717 | Ceanataur R Mail | 鎌蟹鎧甲【Ｒ】 |
@@ -308,12 +308,12 @@
 | 801 | Ceanataur Vest SP Red | 鎌蟹背心【ＳＰ】・赤 |
 | 802 | Ceanataur Vest SP Black | 鎌蟹背心【ＳＰ】・黑 |
 | 803 | Ceanataur Vest SP Yellow | 鎌蟹背心【ＳＰ】・黄 |
-| 804 | Remobra ボディ SP White | 翼蛇龍鎧甲【ＳＰ】 |
-| 805 | Remobra ボディ SP Yellow | 翼蛇龍鎧甲【ＳＰ】 |
-| 806 | Remobra ボディ SP Black | 翼蛇龍鎧甲【ＳＰ】 |
-| 807 | G・Knight Vest SP Red | 騎士背心【Ｇ】【ＳＰ】・赤 |
-| 808 | G・Knight Vest SP Blue | 騎士背心【Ｇ】【ＳＰ】・青 |
-| 809 | G・Knight Vest SP Purple | 騎士背心【Ｇ】【ＳＰ】・紫 |
+| 804 | Remobra ボディ SP White | 翼蛇龍鎧甲【ＳＰ】・白 |
+| 805 | Remobra ボディ SP Yellow | 翼蛇龍鎧甲【ＳＰ】・黄 |
+| 806 | Remobra ボディ SP Black | 翼蛇龍鎧甲【ＳＰ】・黑 |
+| 807 | G・Knight Vest SP Red | 騎士背心【ＳＰ】・赤 |
+| 808 | G・Knight Vest SP Blue | 騎士背心【ＳＰ】・青 |
+| 809 | G・Knight Vest SP Purple | 騎士背心【ＳＰ】・紫 |
 | 810 | PV Vest SP Red | 普背心【ＳＰ】・赤 |
 | 811 | PV Vest SP Blue | 普背心【ＳＰ】・青 |
 | 812 | PV Vest SP Purple | 普背心【ＳＰ】・紫 |
@@ -323,8 +323,8 @@
 | 816 | Lavasioth L Mail | 熔岩龍鎧甲【Ｌ】 |
 | 817 | Bone L Mail | 骨製鎧甲【Ｌ】 |
 | 818 | Hornetaur L Mail | 巨甲蟲鎧甲【Ｌ】 |
-| 819 | G・Guard R Suit Crimson | 防禦套裝【Ｇ】【Ｒ】・紅 |
-| 820 | G・Guard R Suit Crimson | 防禦套裝【Ｇ】【Ｒ】・紅 |
+| 819 | G・Guard R Suit Crimson | 防禦套裝【Ｒ】・紅 |
+| 820 | G・Guard R Suit Crimson | 防禦套裝【Ｒ】・紅 |
 | 821 | Helper R Vest | 助手背心【Ｒ】 |
 | 822 | Battle R Mail | 戦鎧甲【Ｒ】 |
 | 823 | Cepha R Mail | 砂龍鎧甲【Ｒ】 |
@@ -335,10 +335,10 @@
 | 828 | Bone R Vest | 骨製背心【Ｒ】 |
 | 829 | Buran Jacket | 布烏爾阿夾克 |
 | 830 | White Belt Mail | 白帶鎧甲 |
-| 831 | Kagura 【胴当て】 | 神樂鎧甲 |
-| 832 | Kagura・覇【胴当て】 | 神樂鎧甲 |
+| 831 | Kagura 【胴当て】 | 神樂胴當 |
+| 832 | Kagura・覇【胴当て】 | 神樂胴當 |
 | 833 | Kamiza [Chestplate 】 | 上座胸甲 |
-| 834 | Kamiza・覇 [Chestplate 】 | 覇胸甲 |
+| 834 | Kamiza・覇 [Chestplate 】 | 上座胸甲 |
 | 835 | アスハルテ Mail | 阿斯哈爾特鎧甲 |
 | 836 | アスハルテ Suit | 阿斯哈爾特套裝 |
 | 837 | ローク Mail | 洛可鎧甲 |
@@ -395,22 +395,22 @@
 | 888 | リエーザF Mail | 里耶薩鎧甲【Ｆ】 |
 | 889 | リエーザ Suit | 里耶薩套裝 |
 | 890 | リエーザF Suit | 里耶薩套裝【Ｆ】 |
-| 891 | Claire Vest・Purple | 克蕾兒背心・紫 |
-| 892 | Claire F Vest・Purple | 克蕾兒背心【Ｆ】・紫 |
-| 893 | Claire Suit・Purple | 克蕾兒套裝・紫 |
-| 894 | Claire F Suit・Purple | 克蕾兒套裝【Ｆ】・紫 |
-| 895 | Claire Vest・Water | 克蕾兒水背心 |
-| 896 | Claire F Vest・Water | 克蕾兒水背心【Ｆ】 |
-| 897 | Claire Suit・Water | 克蕾兒水套裝 |
-| 898 | Claire F Suit・Water | 克蕾兒水套裝【Ｆ】 |
-| 899 | Claire Vest・Red | 克蕾兒背心・赤 |
-| 900 | Claire F Vest・Red | 克蕾兒背心【Ｆ】・赤 |
-| 901 | Claire Suit・Red | 克蕾兒套裝・赤 |
-| 902 | Claire F Suit・Red | 克蕾兒套裝【Ｆ】・赤 |
-| 903 | Claire Vest・Black | 克蕾兒背心・黑 |
-| 904 | Claire F Vest・Black | 克蕾兒背心【Ｆ】・黑 |
-| 905 | Claire Suit・Black | 克蕾兒套裝・黑 |
-| 906 | Claire F Suit・Black | 克蕾兒套裝【Ｆ】・黑 |
+| 891 | Claire Vest・Purple | 克蕾爾背心・紫 |
+| 892 | Claire F Vest・Purple | 克蕾爾背心【Ｆ】・紫 |
+| 893 | Claire Suit・Purple | 克蕾爾套裝・紫 |
+| 894 | Claire F Suit・Purple | 克蕾爾套裝【Ｆ】・紫 |
+| 895 | Claire Vest・Water | 克蕾爾背心・水 |
+| 896 | Claire F Vest・Water | 克蕾爾背心【Ｆ】・水 |
+| 897 | Claire Suit・Water | 克蕾爾套裝・水 |
+| 898 | Claire F Suit・Water | 克蕾爾套裝【Ｆ】・水 |
+| 899 | Claire Vest・Red | 克蕾爾背心・赤 |
+| 900 | Claire F Vest・Red | 克蕾爾背心【Ｆ】・赤 |
+| 901 | Claire Suit・Red | 克蕾爾套裝・赤 |
+| 902 | Claire F Suit・Red | 克蕾爾套裝【Ｆ】・赤 |
+| 903 | Claire Vest・Black | 克蕾爾背心・黑 |
+| 904 | Claire F Vest・Black | 克蕾爾背心【Ｆ】・黑 |
+| 905 | Claire Suit・Black | 克蕾爾套裝・黑 |
+| 906 | Claire F Suit・Black | 克蕾爾套裝【Ｆ】・黑 |
 | 907 | Desert Vest | 沙漠背心 |
 | 908 | Desert F Vest | 沙漠背心【Ｆ】 |
 | 909 | Desert Suit | 沙漠套裝 |

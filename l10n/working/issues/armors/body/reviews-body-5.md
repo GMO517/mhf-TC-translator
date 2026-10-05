@@ -27,36 +27,36 @@
 | 2021 | Truss F Jacket Purple | 桁架夾克【Ｆ】・紫 |
 | 2022 | Truss Vest Purple | 桁架背心・紫 |
 | 2023 | Truss F Vest Purple | 桁架背心【Ｆ】・紫 |
-| 2024 | Demon ドレス Blue | 惡魔鎧甲 |
-| 2025 | Demon Fドレス Blue | 惡魔鎧甲 |
-| 2026 | Chaos ドレス Blue | 混沌鎧甲 |
-| 2027 | Chaos Fドレス Blue | 混沌鎧甲 |
-| 2028 | Demon ドレス Red | 惡魔鎧甲 |
-| 2029 | Demon Fドレス Red | 惡魔鎧甲 |
-| 2030 | Chaos ドレス Red | 混沌鎧甲 |
-| 2031 | Chaos Fドレス Red | 混沌鎧甲 |
-| 2032 | Demon ドレス Green | 惡魔鎧甲 |
-| 2033 | Demon Fドレス Green | 惡魔鎧甲 |
-| 2034 | Chaos ドレス Green | 混沌鎧甲 |
-| 2035 | Chaos Fドレス Green | 混沌鎧甲 |
-| 2036 | Demon ドレス White | 惡魔鎧甲 |
-| 2037 | Demon Fドレス White | 惡魔鎧甲 |
-| 2038 | Chaos ドレス White | 混沌鎧甲 |
-| 2039 | Chaos Fドレス White | 混沌鎧甲 |
-| 2040 | Shadow Suit Purple | 暗影套裝・紫 |
-| 2041 | Shadow F Suit Purple | 暗影套裝【Ｆ】・紫 |
+| 2024 | Demon ドレス Blue | 惡魔鎧甲・青 |
+| 2025 | Demon Fドレス Blue | 惡魔鎧甲・青 |
+| 2026 | Chaos ドレス Blue | 混沌鎧甲・青 |
+| 2027 | Chaos Fドレス Blue | 混沌鎧甲・青 |
+| 2028 | Demon ドレス Red | 惡魔鎧甲・赤 |
+| 2029 | Demon Fドレス Red | 惡魔鎧甲・赤 |
+| 2030 | Chaos ドレス Red | 混沌鎧甲・赤 |
+| 2031 | Chaos Fドレス Red | 混沌鎧甲・赤 |
+| 2032 | Demon ドレス Green | 惡魔鎧甲・緑 |
+| 2033 | Demon Fドレス Green | 惡魔鎧甲・緑 |
+| 2034 | Chaos ドレス Green | 混沌鎧甲・緑 |
+| 2035 | Chaos Fドレス Green | 混沌鎧甲・緑 |
+| 2036 | Demon ドレス White | 惡魔鎧甲・白 |
+| 2037 | Demon Fドレス White | 惡魔鎧甲・白 |
+| 2038 | Chaos ドレス White | 混沌鎧甲・白 |
+| 2039 | Chaos Fドレス White | 混沌鎧甲・白 |
+| 2040 | Shadow Suit Purple | 影套裝・紫 |
+| 2041 | Shadow F Suit Purple | 影套裝【Ｆ】・紫 |
 | 2042 | Soul Suit Purple | 魂套裝・紫 |
 | 2043 | Soul F Suit Purple | 魂套裝【Ｆ】・紫 |
-| 2044 | Shadow Suit Red | 暗影套裝・赤 |
-| 2045 | Shadow F Suit Red | 暗影套裝【Ｆ】・赤 |
+| 2044 | Shadow Suit Red | 影套裝・赤 |
+| 2045 | Shadow F Suit Red | 影套裝【Ｆ】・赤 |
 | 2046 | Soul Suit Red | 魂套裝・赤 |
 | 2047 | Soul F Suit Red | 魂套裝【Ｆ】・赤 |
-| 2048 | Shadow Suit Green | 暗影套裝・緑 |
-| 2049 | Shadow F Suit Green | 暗影套裝【Ｆ】・緑 |
+| 2048 | Shadow Suit Green | 影套裝・緑 |
+| 2049 | Shadow F Suit Green | 影套裝【Ｆ】・緑 |
 | 2050 | Soul Suit Green | 魂套裝・緑 |
 | 2051 | Soul F Suit Green | 魂套裝【Ｆ】・緑 |
-| 2052 | Shadow Suit White | 暗影套裝・白 |
-| 2053 | Shadow F Suit White | 暗影套裝【Ｆ】・白 |
+| 2052 | Shadow Suit White | 影套裝・白 |
+| 2053 | Shadow F Suit White | 影套裝【Ｆ】・白 |
 | 2054 | Soul Suit White | 魂套裝・白 |
 | 2055 | Soul F Suit White | 魂套裝【Ｆ】・白 |
 | 2056 | フィディ Mail | 芙德鎧甲 |
@@ -85,7 +85,7 @@
 | 2079 | ロークF Mail | 洛可鎧甲【Ｆ】 |
 | 2080 | ロークF Vest | 洛可背心【Ｆ】 |
 | 2081 | Buruho F Vest・Blue | 布烏爾烏背心【Ｆ】・青 |
-| 2082 | マー Gear F Suit・Blue | 格艾爾套裝【Ｆ】 |
+| 2082 | マー Gear F Suit・Blue | 瑪爾機甲套裝【Ｆ】・青 |
 | 2083 | Gogomoa FX Mail | 跳緋獸鎧甲【ＦＸ】 |
 | 2084 | Gogomoa FX Vest | 跳緋獸背心【ＦＸ】 |
 | 2085 | Kuraaji FX Mail | 克烏爾阿鎧甲【ＦＸ】 |
@@ -129,7 +129,7 @@
 | 2123 | Gravios RX Mail | 鎧龍鎧甲 |
 | 2124 | Bone RX Vest | 骨製背心 |
 | 2125 | White Snake Haori | 白蛇羽織 |
-| 2126 | White Snake Haori・魁 | 魁羽織・白 |
+| 2126 | White Snake Haori・魁 | 白蛇羽織魁 |
 | 2127 | White 鳥ノ Haori | 鳥羽織・白 |
 | 2128 | White 鳥ノ Haori・魁 | 鳥魁羽織・白 |
 | 2129 | Kakabu Mail | 克阿克阿鎧甲 |
@@ -158,18 +158,18 @@
 | 2152 | Rutare F Mail | 魯塔雷鎧甲【Ｆ】 |
 | 2153 | Rutare Vest | 魯塔雷背心 |
 | 2154 | Rutare F Vest | 魯塔雷背心【Ｆ】 |
-| 2155 | Rolling Flow Chestplate | 滾流胸甲 |
-| 2156 | Rolling Flow Chestplate・魁 | 魁胸甲 |
+| 2155 | Rolling Flow Chestplate | 滾流板甲 |
+| 2156 | Rolling Flow Chestplate・魁 | 滾流胸甲魁 |
 | 2157 | 旋転の Chestplate | 旋転の胸甲 |
-| 2158 | 旋転の Chestplate・魁 | 旋転の魁胸甲 |
+| 2158 | 旋転の Chestplate・魁 | 旋転の胸甲魁 |
 | 2159 | 厳岩の胴当て | 厳岩の胴当て鎧甲 |
-| 2160 | 厳岩の胴当て・魁 | 厳岩の胴当て魁鎧甲 |
+| 2160 | 厳岩の胴当て・魁 | 厳岩の胴当て鎧甲魁 |
 | 2161 | 不破の胴当て | 不破の胴当て鎧甲 |
-| 2162 | 不破の胴当て・魁 | 不破の胴当て魁鎧甲 |
+| 2162 | 不破の胴当て・魁 | 不破の胴当て鎧甲魁 |
 | 2163 | 無想の胴当て | 無想の胴当て鎧甲 |
-| 2164 | 無想の胴当て・魁 | 無想の胴当て魁鎧甲 |
+| 2164 | 無想の胴当て・魁 | 無想の胴当て鎧甲魁 |
 | 2165 | 俊激の Shozoku | 俊激の裝束 |
-| 2166 | 俊激の Shozoku・魁 | 俊激の魁裝束 |
+| 2166 | 俊激の Shozoku・魁 | 俊激の裝束魁 |
 | 2167 | Suifudo Vest | 斯烏芙烏背心 |
 | 2168 | Suifudo F Vest | 斯烏芙烏背心【Ｆ】 |
 | 2169 | Merodesu Vest | 姆艾爾歐背心 |
@@ -232,11 +232,11 @@
 | 2226 | Galitos FZ Vest・Tea | 加里托斯背心【ＦＺ】・茶 |
 | 2227 | Galitos FZ Vest・Red | 加里托斯背心【ＦＺ】・赤 |
 | 2228 | Galitos FZ Vest・Black | 加里托斯背心【ＦＺ】・黑 |
-| 2229 | Galitos FZ Vest・Water | 加里托斯水背心【ＦＺ】 |
+| 2229 | Galitos FZ Vest・Water | 加里托斯背心【ＦＺ】・水 |
 | 2230 | Galitos FZ Suit・Tea | 加里托斯套裝【ＦＺ】・茶 |
 | 2231 | Galitos FZ Suit・Red | 加里托斯套裝【ＦＺ】・赤 |
 | 2232 | Galitos FZ Suit・Black | 加里托斯套裝【ＦＺ】・黑 |
-| 2233 | Galitos FZ Suit・Water | 加里托斯水套裝【ＦＺ】 |
+| 2233 | Galitos FZ Suit・Water | 加里托斯套裝【ＦＺ】・水 |
 | 2234 | Beil F Brigantes | 布艾爾伊鎧甲【Ｆ】 |
 | 2235 | Dummy | (dummy) |
 | 2236 | Jess Mail | 傑斯鎧甲 |
@@ -347,9 +347,9 @@
 | 2341 | Ruko Skin SP White | 極龍皮【ＳＰ】・白 |
 | 2342 | Ruko Skin SP Blue | 極龍皮【ＳＰ】・青 |
 | 2343 | Ruko Skin SP Red | 極龍皮【ＳＰ】・赤 |
-| 2344 | Comrade Mail SP White Red | 戰友鎧甲【ＳＰ】・赤・白 |
-| 2345 | Comrade Mail SP White Blue | 戰友鎧甲【ＳＰ】・青・白 |
-| 2346 | Comrade Mail SP White Yellow | 戰友鎧甲【ＳＰ】・黄・白 |
+| 2344 | Comrade Mail SP White Red | 戰友鎧甲【ＳＰ】・白 |
+| 2345 | Comrade Mail SP White Blue | 戰友鎧甲【ＳＰ】・白 |
+| 2346 | Comrade Mail SP White Yellow | 戰友鎧甲【ＳＰ】・白 |
 | 2347 | Rubellite Mail | 爾烏布艾鎧甲 |
 | 2348 | Rubellite F Mail | 爾烏布艾鎧甲【Ｆ】 |
 | 2349 | Rubellite FX Mail | 爾烏布艾鎧甲【ＦＸ】 |
@@ -384,9 +384,9 @@
 | 2378 | Turquoise F Vest | 緑松石背心【Ｆ】 |
 | 2379 | Turquoise FX Vest | 緑松石背心【ＦＸ】 |
 | 2380 | Valued Word Haori | 珍言羽織 |
-| 2381 | Valued Word Haori・魁 | 魁羽織 |
-| 2382 | Valued Word Haori・Smart | 珍言機靈羽織 |
-| 2383 | Valued Word Haori・Flower | 芙阿爾烏羽織 |
+| 2381 | Valued Word Haori・魁 | 珍言羽織魁 |
+| 2382 | Valued Word Haori・Smart | 珍言羽織 |
+| 2383 | Valued Word Haori・Flower | 珍言羽織 |
 | 2384 | 式部ノ Haori | 式部羽織 |
 | 2385 | 式部ノ Haori・魁 | 式部魁羽織 |
 | 2386 | 式部ノ Haori・Smart | 機靈羽織 |
@@ -415,8 +415,8 @@
 | 2409 | Strega HC Vest | 魔女背心【ＨＣ】 |
 | 2410 | Zaakaa HC Mail | 茲阿克阿鎧甲【ＨＣ】 |
 | 2411 | Chaser HC Vest | 追撃背心【ＨＣ】 |
-| 2412 | Demon Lord ノ肩鎧・Extreme | 惡魔鎧甲 |
-| 2413 | Demon Lord ノ肩鎧・Heaven | 惡魔鎧甲・天 |
+| 2412 | Demon Lord ノ肩鎧・Extreme | 魔王鎧甲 |
+| 2413 | Demon Lord ノ肩鎧・Heaven | 魔王天鎧甲 |
 | 2414 | 童子ノ肩鎧・Extreme | 童子肩鎧鎧甲 |
 | 2415 | 童子ノ肩鎧・Heaven | 童子肩鎧鎧甲・天 |
 | 2416 | アナキF Jacket | 阿納基夾克【Ｆ】 |
@@ -425,7 +425,7 @@
 | 2419 | アナキF Suit | 阿納基套裝【Ｆ】 |
 | 2420 | アナキFY Suit | 阿納基套裝 |
 | 2421 | アナキHC Suit | 阿納基套裝【ＨＣ】 |
-| 2422 | Royal FY Mail | 爾歐伊阿鎧甲 |
+| 2422 | Royal FY Mail | 王室鎧甲 |
 | 2423 | Royal HC Mail | 王室鎧甲【ＨＣ】 |
 | 2424 | Lord FY Vest | 爾歐爾背心 |
 | 2425 | Lord HC Vest | 爾歐爾背心【ＨＣ】 |
@@ -446,12 +446,12 @@
 | 2440 | Ceanataur RX Mail | 鎌蟹鎧甲 |
 | 2441 | Espinas RX Muscle | 棘龍筋肉衣 |
 | 2442 | Monodevil RX Vest | 姆歐恩歐背心 |
-| 2443 | Cayssis Mail Water | 凱西斯水鎧甲 |
-| 2444 | Cayssis F Mail Water | 凱西斯水鎧甲【Ｆ】 |
-| 2445 | Cayssis FZ Mail Water | 凱西斯水鎧甲【ＦＺ】 |
-| 2446 | Cayssis Vest Water | 凱西斯水背心 |
-| 2447 | Cayssis F Vest Water | 凱西斯水背心【Ｆ】 |
-| 2448 | Cayssis FZ Vest Water | 凱西斯水背心【ＦＺ】 |
+| 2443 | Cayssis Mail Water | 凱西斯鎧甲・水 |
+| 2444 | Cayssis F Mail Water | 凱西斯鎧甲【Ｆ】・水 |
+| 2445 | Cayssis FZ Mail Water | 凱西斯鎧甲【ＦＺ】・水 |
+| 2446 | Cayssis Vest Water | 凱西斯背心・水 |
+| 2447 | Cayssis F Vest Water | 凱西斯背心【Ｆ】・水 |
+| 2448 | Cayssis FZ Vest Water | 凱西斯背心【ＦＺ】・水 |
 | 2449 | Cayssis Mail Red | 凱西斯鎧甲・赤 |
 | 2450 | Cayssis F Mail Red | 凱西斯鎧甲【Ｆ】・赤 |
 | 2451 | Cayssis FZ Mail Red | 凱西斯鎧甲【ＦＺ】・赤 |
@@ -471,9 +471,9 @@
 | 2465 | Cayssis F Vest Orange | 凱西斯背心【Ｆ】・橙 |
 | 2466 | Cayssis FZ Vest Orange | 凱西斯背心【ＦＺ】・橙 |
 | 2467 | Rolling Sky Chestplate | 天空板甲 |
-| 2468 | Rolling Sky Chestplate・魁 | 魁胸甲 |
-| 2469 | Rolling Earth Chestplate | 地板甲・地 |
-| 2470 | Rolling Earth Chestplate・魁 | 魁胸甲・地 |
+| 2468 | Rolling Sky Chestplate・魁 | 滾天胸甲魁・天 |
+| 2469 | Rolling Earth Chestplate | 地板甲 |
+| 2470 | Rolling Earth Chestplate・魁 | 滾地胸甲魁 |
 | 2471 | Cubie Mail | 方塊鎧甲 |
 | 2472 | Cubie F Mail | 方塊鎧甲【Ｆ】 |
 | 2473 | Cubie FZ Mail | 方塊鎧甲【ＦＺ】 |

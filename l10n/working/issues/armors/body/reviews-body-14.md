@@ -132,12 +132,12 @@
 | 6626 | 旋転の Chestplate・HS | 旋転の胸甲【ＨＳ】 |
 | 6627 | 旋転の Chestplate・GS | 旋転の胸甲【ＧＳ】 |
 | 6628 | 旋転の Chestplate・GP | 旋転の胸甲【ＧＰ】 |
-| 6629 | Rolling Sky Chestplate・HS | 滾天胸甲【ＨＳ】 |
-| 6630 | Rolling Sky Chestplate・GS | 滾天胸甲【ＧＳ】 |
-| 6631 | Rolling Sky Chestplate・GP | 滾天胸甲【ＧＰ】 |
-| 6632 | Rolling Earth Chestplate・HS | 滾地胸甲【ＨＳ】・地 |
-| 6633 | Rolling Earth Chestplate・GS | 滾地胸甲【ＧＳ】・地 |
-| 6634 | Rolling Earth Chestplate・GP | 滾地胸甲【ＧＰ】・地 |
+| 6629 | Rolling Sky Chestplate・HS | 滾天胸甲【ＨＳ】・天 |
+| 6630 | Rolling Sky Chestplate・GS | 滾天胸甲【ＧＳ】・天 |
+| 6631 | Rolling Sky Chestplate・GP | 滾天胸甲【ＧＰ】・天 |
+| 6632 | Rolling Earth Chestplate・HS | 滾地胸甲【ＨＳ】 |
+| 6633 | Rolling Earth Chestplate・GS | 滾地胸甲【ＧＳ】 |
+| 6634 | Rolling Earth Chestplate・GP | 滾地胸甲【ＧＰ】 |
 | 6635 | Latria HS Vest | 崇敬背心【ＨＳ】 |
 | 6636 | Latria GS Vest | 崇敬背心【ＧＳ】 |
 | 6637 | Latria GP Vest | 崇敬背心【ＧＰ】 |
@@ -416,22 +416,22 @@
 | 6910 | Venom G Vest | 芙艾恩歐背心【Ｇ】 |
 | 6911 | Venom GF Vest | 芙艾恩歐背心【ＧＦ】 |
 | 6912 | Venom GX Vest | 芙艾恩歐背心【ＧＸ】 |
-| 6913 | Elegance 【胴当て】 | 雅鎧甲 |
-| 6914 | Elegance F【胴当て】 | 雅鎧甲【Ｆ】 |
-| 6915 | Elegance FX【胴当て】 | 雅鎧甲【ＦＸ】 |
-| 6916 | Elegance G【胴当て】 | 雅鎧甲【Ｇ】 |
-| 6917 | Elegance GF【胴当て】 | 雅鎧甲【ＧＦ】 |
-| 6918 | Grace 【胴当て】 | 恩寵鎧甲 |
-| 6919 | Grace F【胴当て】 | 恩寵鎧甲【Ｆ】 |
-| 6920 | Grace FX【胴当て】 | 恩寵鎧甲【ＦＸ】 |
-| 6921 | Grace G【胴当て】 | 恩寵鎧甲【Ｇ】 |
-| 6922 | Grace GF【胴当て】 | 恩寵鎧甲【ＧＦ】 |
-| 6923 | Inagami G【胴当て】 | 雅翁龍鎧甲【Ｇ】 |
-| 6924 | Inagami GF【胴当て】 | 雅翁龍鎧甲【ＧＦ】 |
-| 6925 | Inagami GX【胴当て】 | 雅翁龍鎧甲【ＧＸ】 |
-| 6926 | Inagami G【胴当て】 | 雅翁龍鎧甲【Ｇ】 |
-| 6927 | Inagami GF【胴当て】 | 雅翁龍鎧甲【ＧＦ】 |
-| 6928 | Inagami GX【胴当て】 | 雅翁龍鎧甲【ＧＸ】 |
+| 6913 | Elegance 【胴当て】 | 雅胴當 |
+| 6914 | Elegance F【胴当て】 | 雅胴當【Ｆ】 |
+| 6915 | Elegance FX【胴当て】 | 雅胴當【ＦＸ】 |
+| 6916 | Elegance G【胴当て】 | 雅胴當【Ｇ】 |
+| 6917 | Elegance GF【胴当て】 | 雅胴當【ＧＦ】 |
+| 6918 | Grace 【胴当て】 | 恩寵胴當 |
+| 6919 | Grace F【胴当て】 | 恩寵胴當【Ｆ】 |
+| 6920 | Grace FX【胴当て】 | 恩寵胴當【ＦＸ】 |
+| 6921 | Grace G【胴当て】 | 恩寵胴當【Ｇ】 |
+| 6922 | Grace GF【胴当て】 | 恩寵胴當【ＧＦ】 |
+| 6923 | Inagami G【胴当て】 | 雅翁龍胴當【Ｇ】 |
+| 6924 | Inagami GF【胴当て】 | 雅翁龍胴當【ＧＦ】 |
+| 6925 | Inagami GX【胴当て】 | 雅翁龍胴當【ＧＸ】 |
+| 6926 | Inagami G【胴当て】 | 雅翁龍胴當【Ｇ】 |
+| 6927 | Inagami GF【胴当て】 | 雅翁龍胴當【ＧＦ】 |
+| 6928 | Inagami GX【胴当て】 | 雅翁龍胴當【ＧＸ】 |
 | 6929 | Garuba Diru | 雅魯巴上衣 |
 | 6930 | Garuba F Diru | 雅魯巴上衣【Ｆ】 |
 | 6931 | Garuba FX Diru | 雅魯巴上衣【ＦＸ】 |
@@ -444,23 +444,23 @@
 | 6938 | Garuba GFバダル | 雅魯巴鎧甲 |
 | 6939 | Wind GF Diru | 風上衣【ＧＦ】 |
 | 6940 | Wind GFバダル | 風鎧甲 |
-| 6941 | 武者GF【胴当て】 | 胴当て武者鎧甲 |
-| 6942 | 日光GF【胴当て】 | 胴当て日光鎧甲 |
-| 6943 | White 蘭・Kensei Mail | 蘭鎧甲・白 |
-| 6944 | White 蘭・Kensei F Mail | 蘭鎧甲【Ｆ】・白 |
-| 6945 | White 蘭・Kensei FX Mail | 蘭鎧甲【ＦＸ】・白 |
-| 6946 | Crimson 霞・Kensei Mail | 霞鎧甲・紅 |
-| 6947 | Crimson 霞・Kensei F Mail | 霞鎧甲【Ｆ】・紅 |
-| 6948 | Crimson 霞・Kensei FX Mail | 霞鎧甲【ＦＸ】・紅 |
-| 6949 | White 蘭・Kensei G Mail | 蘭鎧甲【Ｇ】・白 |
-| 6950 | White 蘭・Kensei GF Mail | 蘭鎧甲【ＧＦ】・白 |
-| 6951 | White 蘭・Kensei GX Mail | 蘭鎧甲【ＧＸ】・白 |
+| 6941 | 武者GF【胴当て】 | 武者胴當【Ｆ】 |
+| 6942 | 日光GF【胴当て】 | 日光胴當【Ｆ】 |
+| 6943 | White 蘭・Kensei Mail | 白蘭劍聖鎧甲 |
+| 6944 | White 蘭・Kensei F Mail | 白蘭劍聖鎧甲【Ｆ】 |
+| 6945 | White 蘭・Kensei FX Mail | 白蘭劍聖鎧甲【ＦＸ】 |
+| 6946 | Crimson 霞・Kensei Mail | 紅霞劍聖鎧甲 |
+| 6947 | Crimson 霞・Kensei F Mail | 紅霞劍聖鎧甲【Ｆ】 |
+| 6948 | Crimson 霞・Kensei FX Mail | 紅霞劍聖鎧甲【ＦＸ】 |
+| 6949 | White 蘭・Kensei G Mail | 白蘭劍聖鎧甲【Ｇ】 |
+| 6950 | White 蘭・Kensei GF Mail | 白蘭劍聖鎧甲【ＧＦ】 |
+| 6951 | White 蘭・Kensei GX Mail | 白蘭劍聖鎧甲【ＧＸ】 |
 | 6952 | 月夜・Kensei G Mail | 月夜鎧甲【Ｇ】 |
 | 6953 | 月夜・Kensei GF Mail | 月夜鎧甲【ＧＦ】 |
 | 6954 | 月夜・Kensei GX Mail | 月夜鎧甲【ＧＸ】 |
-| 6955 | Crimson 霞・Kensei G Mail | 霞鎧甲【Ｇ】・紅 |
-| 6956 | Crimson 霞・Kensei GF Mail | 霞鎧甲【ＧＦ】・紅 |
-| 6957 | Crimson 霞・Kensei GX Mail | 霞鎧甲【ＧＸ】・紅 |
+| 6955 | Crimson 霞・Kensei G Mail | 紅霞劍聖鎧甲【Ｇ】 |
+| 6956 | Crimson 霞・Kensei GF Mail | 紅霞劍聖鎧甲【ＧＦ】 |
+| 6957 | Crimson 霞・Kensei GX Mail | 紅霞劍聖鎧甲【ＧＸ】 |
 | 6958 | Green 穹・Kensei G Mail | 穹鎧甲【Ｇ】・緑 |
 | 6959 | Green 穹・Kensei GF Mail | 穹鎧甲【ＧＦ】・緑 |
 | 6960 | Green 穹・Kensei GX Mail | 穹鎧甲【ＧＸ】・緑 |

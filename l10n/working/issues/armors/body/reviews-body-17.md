@@ -199,9 +199,9 @@
 | 8193 | Noir G Jacket | 黑夾克【Ｇ】 |
 | 8194 | Noir GF Jacket | 黑夾克【ＧＦ】 |
 | 8195 | Noir GX Jacket | 黑夾克【ＧＸ】 |
-| 8196 | Demon Lord ノ肩鎧G | 惡魔鎧甲【Ｇ】 |
-| 8197 | Demon Lord ノ肩鎧GF | 惡魔鎧甲【Ｆ】 |
-| 8198 | Demon Lord ノ肩鎧GX | 惡魔鎧甲【ＧＸ】 |
+| 8196 | Demon Lord ノ肩鎧G | 魔王鎧甲【Ｇ】 |
+| 8197 | Demon Lord ノ肩鎧GF | 魔王鎧甲【Ｆ】 |
+| 8198 | Demon Lord ノ肩鎧GX | 魔王鎧甲【ＧＸ】 |
 | 8199 | 童子ノ肩鎧G | 童子肩鎧鎧甲【Ｇ】 |
 | 8200 | 童子ノ肩鎧GF | 童子肩鎧鎧甲【Ｆ】 |
 | 8201 | 童子ノ肩鎧GX | 童子肩鎧鎧甲【ＧＸ】 |
@@ -319,12 +319,12 @@
 | 8313 | Bonito G Vest | 布歐恩伊背心【Ｇ】 |
 | 8314 | Bonito GF Vest | 布歐恩伊背心【ＧＦ】 |
 | 8315 | Bonito GX Vest | 布歐恩伊背心【ＧＸ】 |
-| 8316 | Silver Ruler G【胴当て】 | 爾烏爾艾鎧甲【Ｇ】 |
-| 8317 | Silver Ruler GF【胴当て】 | 爾烏爾艾鎧甲【ＧＦ】 |
-| 8318 | Silver Ruler GX【胴当て】 | 爾烏爾艾鎧甲【ＧＸ】 |
-| 8319 | Silver Control G【胴当て】 | 克歐恩歐鎧甲【Ｇ】 |
-| 8320 | Silver Control GF【胴当て】 | 克歐恩歐鎧甲【ＧＦ】 |
-| 8321 | Silver Control GX【胴当て】 | 克歐恩歐鎧甲【ＧＸ】 |
+| 8316 | Silver Ruler G【胴当て】 | 銀統治胴當【Ｇ】 |
+| 8317 | Silver Ruler GF【胴当て】 | 銀統治胴當【ＧＦ】 |
+| 8318 | Silver Ruler GX【胴当て】 | 銀統治胴當【ＧＸ】 |
+| 8319 | Silver Control G【胴当て】 | 銀統御胴當【Ｇ】 |
+| 8320 | Silver Control GF【胴当て】 | 銀統御胴當【ＧＦ】 |
+| 8321 | Silver Control GX【胴当て】 | 銀統御胴當【ＧＸ】 |
 | 8322 | Harudo Mail | 司銀龍鎧甲 |
 | 8323 | Harudo F Mail | 司銀龍鎧甲【Ｆ】 |
 | 8324 | Harudo FX Mail | 司銀龍鎧甲【ＦＸ】 |

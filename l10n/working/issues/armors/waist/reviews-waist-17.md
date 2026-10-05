@@ -4,15 +4,15 @@
 
 | index | 原文 | 譯文 |
 |---|---|---|
-| 8001 | Tiuru HS Waist | 緹烏魯腰甲【ＨＳ】 |
-| 8002 | Tiuru GS Waist | 緹烏魯腰甲【ＧＳ】 |
-| 8003 | Tiuru GP Waist | 緹烏魯腰甲【ＧＰ】 |
-| 8004 | Tiuru Coat | 緹烏魯腰衣 |
-| 8005 | Tiuru F Coat | 緹烏魯腰衣【Ｆ】 |
-| 8006 | Tiuru FZ Coat | 緹烏魯腰衣【ＦＺ】 |
-| 8007 | Tiuru HS Coat | 緹烏魯腰衣【ＨＳ】 |
-| 8008 | Tiuru GS Coat | 緹烏魯腰衣【ＧＳ】 |
-| 8009 | Tiuru GP Coat | 緹烏魯腰衣【ＧＰ】 |
+| 8001 | Tiuru HS Waist | 提烏魯腰甲【ＨＳ】 |
+| 8002 | Tiuru GS Waist | 提烏魯腰甲【ＧＳ】 |
+| 8003 | Tiuru GP Waist | 提烏魯腰甲【ＧＰ】 |
+| 8004 | Tiuru Coat | 提烏魯腰衣 |
+| 8005 | Tiuru F Coat | 提烏魯腰衣【Ｆ】 |
+| 8006 | Tiuru FZ Coat | 提烏魯腰衣【ＦＺ】 |
+| 8007 | Tiuru HS Coat | 提烏魯腰衣【ＨＳ】 |
+| 8008 | Tiuru GS Coat | 提烏魯腰衣【ＧＳ】 |
+| 8009 | Tiuru GP Coat | 提烏魯腰衣【ＧＰ】 |
 | 8010 | Bande Coil・Blue | 飾帶腰甲・青 |
 | 8011 | Bande F Coil・Blue | 飾帶腰甲【Ｆ】・青 |
 | 8012 | Bande FZ Coil・Blue | 飾帶腰甲【ＦＺ】・青 |
@@ -61,102 +61,102 @@
 | 8055 | Bande HS Coat・Black | 飾帶腰衣【ＨＳ】・黑 |
 | 8056 | Bande GS Coat・Black | 飾帶腰衣【ＧＳ】・黑 |
 | 8057 | Bande GP Coat・Black | 飾帶腰衣【ＧＰ】・黑 |
-| 8058 | Tenpi ノ佩楯・Red | 天陽腰甲 |
-| 8059 | Tenpi ノ佩楯F・Red | 天陽腰甲【Ｆ】 |
-| 8060 | Tenpi ノ佩楯FZ・Red | 天陽腰甲【ＦＺ】 |
-| 8061 | Tenpi ノ佩楯HS・Red | 天陽腰甲【ＨＳ】 |
-| 8062 | Tenpi ノ佩楯GS・Red | 天陽腰甲【ＧＳ】 |
-| 8063 | Tenpi ノ佩楯GP・Red | 天陽腰甲【ＧＰ】 |
-| 8064 | Tenpi ノ腰当て・Red | 天陽腰當 |
-| 8065 | Tenpi ノ腰当てF・Red | 天陽腰當【Ｆ】 |
-| 8066 | Tenpi ノ腰当てFZ・Red | 天陽腰當【ＦＺ】 |
-| 8067 | Tenpi ノ腰当てHS・Red | 天陽腰當【ＨＳ】 |
-| 8068 | Tenpi ノ腰当てGS・Red | 天陽腰當【ＧＳ】 |
-| 8069 | Tenpi ノ腰当てGP・Red | 天陽腰當【ＧＰ】 |
-| 8070 | Tenpi ノ佩楯・Blue | 天陽腰甲 |
-| 8071 | Tenpi ノ佩楯F・Blue | 天陽腰甲【Ｆ】 |
-| 8072 | Tenpi ノ佩楯FZ・Blue | 天陽腰甲【ＦＺ】 |
-| 8073 | Tenpi ノ佩楯HS・Blue | 天陽腰甲【ＨＳ】 |
-| 8074 | Tenpi ノ佩楯GS・Blue | 天陽腰甲【ＧＳ】 |
-| 8075 | Tenpi ノ佩楯GP・Blue | 天陽腰甲【ＧＰ】 |
-| 8076 | Tenpi ノ腰当て・Blue | 天陽腰當 |
-| 8077 | Tenpi ノ腰当てF・Blue | 天陽腰當【Ｆ】 |
-| 8078 | Tenpi ノ腰当てFZ・Blue | 天陽腰當【ＦＺ】 |
-| 8079 | Tenpi ノ腰当てHS・Blue | 天陽腰當【ＨＳ】 |
-| 8080 | Tenpi ノ腰当てGS・Blue | 天陽腰當【ＧＳ】 |
-| 8081 | Tenpi ノ腰当てGP・Blue | 天陽腰當【ＧＰ】 |
-| 8082 | Tenpi ノ佩楯・Black | 天陽腰甲 |
-| 8083 | Tenpi ノ佩楯F・Black | 天陽腰甲【Ｆ】 |
-| 8084 | Tenpi ノ佩楯FZ・Black | 天陽腰甲【ＦＺ】 |
-| 8085 | Tenpi ノ佩楯HS・Black | 天陽腰甲【ＨＳ】 |
-| 8086 | Tenpi ノ佩楯GS・Black | 天陽腰甲【ＧＳ】 |
-| 8087 | Tenpi ノ佩楯GP・Black | 天陽腰甲【ＧＰ】 |
-| 8088 | Tenpi ノ腰当て・Black | 天陽腰當 |
-| 8089 | Tenpi ノ腰当てF・Black | 天陽腰當【Ｆ】 |
-| 8090 | Tenpi ノ腰当てFZ・Black | 天陽腰當【ＦＺ】 |
-| 8091 | Tenpi ノ腰当てHS・Black | 天陽腰當【ＨＳ】 |
-| 8092 | Tenpi ノ腰当てGS・Black | 天陽腰當【ＧＳ】 |
-| 8093 | Tenpi ノ腰当てGP・Black | 天陽腰當【ＧＰ】 |
-| 8094 | Tenpi ノ佩楯・White | 天陽腰甲 |
-| 8095 | Tenpi ノ佩楯F・White | 天陽腰甲【Ｆ】 |
-| 8096 | Tenpi ノ佩楯FZ・White | 天陽腰甲【ＦＺ】 |
-| 8097 | Tenpi ノ佩楯HS・White | 天陽腰甲【ＨＳ】 |
-| 8098 | Tenpi ノ佩楯GS・White | 天陽腰甲【ＧＳ】 |
-| 8099 | Tenpi ノ佩楯GP・White | 天陽腰甲【ＧＰ】 |
-| 8100 | Tenpi ノ腰当て・White | 天陽腰當 |
-| 8101 | Tenpi ノ腰当てF・White | 天陽腰當【Ｆ】 |
-| 8102 | Tenpi ノ腰当てFZ・White | 天陽腰當【ＦＺ】 |
-| 8103 | Tenpi ノ腰当てHS・White | 天陽腰當【ＨＳ】 |
-| 8104 | Tenpi ノ腰当てGS・White | 天陽腰當【ＧＳ】 |
-| 8105 | Tenpi ノ腰当てGP・White | 天陽腰當【ＧＰ】 |
+| 8058 | Tenpi ノ佩楯・Red | 天陽腰甲・赤 |
+| 8059 | Tenpi ノ佩楯F・Red | 天陽腰甲【Ｆ】・赤 |
+| 8060 | Tenpi ノ佩楯FZ・Red | 天陽腰甲【ＦＺ】・赤 |
+| 8061 | Tenpi ノ佩楯HS・Red | 天陽腰甲【ＨＳ】・赤 |
+| 8062 | Tenpi ノ佩楯GS・Red | 天陽腰甲【ＧＳ】・赤 |
+| 8063 | Tenpi ノ佩楯GP・Red | 天陽腰甲【ＧＰ】・赤 |
+| 8064 | Tenpi ノ腰当て・Red | 天陽腰當・赤 |
+| 8065 | Tenpi ノ腰当てF・Red | 天陽腰當【Ｆ】・赤 |
+| 8066 | Tenpi ノ腰当てFZ・Red | 天陽腰當【ＦＺ】・赤 |
+| 8067 | Tenpi ノ腰当てHS・Red | 天陽腰當【ＨＳ】・赤 |
+| 8068 | Tenpi ノ腰当てGS・Red | 天陽腰當【ＧＳ】・赤 |
+| 8069 | Tenpi ノ腰当てGP・Red | 天陽腰當【ＧＰ】・赤 |
+| 8070 | Tenpi ノ佩楯・Blue | 天陽腰甲・青 |
+| 8071 | Tenpi ノ佩楯F・Blue | 天陽腰甲【Ｆ】・青 |
+| 8072 | Tenpi ノ佩楯FZ・Blue | 天陽腰甲【ＦＺ】・青 |
+| 8073 | Tenpi ノ佩楯HS・Blue | 天陽腰甲【ＨＳ】・青 |
+| 8074 | Tenpi ノ佩楯GS・Blue | 天陽腰甲【ＧＳ】・青 |
+| 8075 | Tenpi ノ佩楯GP・Blue | 天陽腰甲【ＧＰ】・青 |
+| 8076 | Tenpi ノ腰当て・Blue | 天陽腰當・青 |
+| 8077 | Tenpi ノ腰当てF・Blue | 天陽腰當【Ｆ】・青 |
+| 8078 | Tenpi ノ腰当てFZ・Blue | 天陽腰當【ＦＺ】・青 |
+| 8079 | Tenpi ノ腰当てHS・Blue | 天陽腰當【ＨＳ】・青 |
+| 8080 | Tenpi ノ腰当てGS・Blue | 天陽腰當【ＧＳ】・青 |
+| 8081 | Tenpi ノ腰当てGP・Blue | 天陽腰當【ＧＰ】・青 |
+| 8082 | Tenpi ノ佩楯・Black | 天陽腰甲・黑 |
+| 8083 | Tenpi ノ佩楯F・Black | 天陽腰甲【Ｆ】・黑 |
+| 8084 | Tenpi ノ佩楯FZ・Black | 天陽腰甲【ＦＺ】・黑 |
+| 8085 | Tenpi ノ佩楯HS・Black | 天陽腰甲【ＨＳ】・黑 |
+| 8086 | Tenpi ノ佩楯GS・Black | 天陽腰甲【ＧＳ】・黑 |
+| 8087 | Tenpi ノ佩楯GP・Black | 天陽腰甲【ＧＰ】・黑 |
+| 8088 | Tenpi ノ腰当て・Black | 天陽腰當・黑 |
+| 8089 | Tenpi ノ腰当てF・Black | 天陽腰當【Ｆ】・黑 |
+| 8090 | Tenpi ノ腰当てFZ・Black | 天陽腰當【ＦＺ】・黑 |
+| 8091 | Tenpi ノ腰当てHS・Black | 天陽腰當【ＨＳ】・黑 |
+| 8092 | Tenpi ノ腰当てGS・Black | 天陽腰當【ＧＳ】・黑 |
+| 8093 | Tenpi ノ腰当てGP・Black | 天陽腰當【ＧＰ】・黑 |
+| 8094 | Tenpi ノ佩楯・White | 天陽腰甲・白 |
+| 8095 | Tenpi ノ佩楯F・White | 天陽腰甲【Ｆ】・白 |
+| 8096 | Tenpi ノ佩楯FZ・White | 天陽腰甲【ＦＺ】・白 |
+| 8097 | Tenpi ノ佩楯HS・White | 天陽腰甲【ＨＳ】・白 |
+| 8098 | Tenpi ノ佩楯GS・White | 天陽腰甲【ＧＳ】・白 |
+| 8099 | Tenpi ノ佩楯GP・White | 天陽腰甲【ＧＰ】・白 |
+| 8100 | Tenpi ノ腰当て・White | 天陽腰當・白 |
+| 8101 | Tenpi ノ腰当てF・White | 天陽腰當【Ｆ】・白 |
+| 8102 | Tenpi ノ腰当てFZ・White | 天陽腰當【ＦＺ】・白 |
+| 8103 | Tenpi ノ腰当てHS・White | 天陽腰當【ＨＳ】・白 |
+| 8104 | Tenpi ノ腰当てGS・White | 天陽腰當【ＧＳ】・白 |
+| 8105 | Tenpi ノ腰当てGP・White | 天陽腰當【ＧＰ】・白 |
 | 8106 | Tenpi Waistband・Red | 天陽腰帶・赤 |
 | 8107 | Tenpi Waistband F・Red | 天陽腰帶【Ｆ】・赤 |
 | 8108 | Tenpi Waistband FZ・Red | 天陽腰帶【ＦＺ】・赤 |
 | 8109 | Tenpi Waistband HS・Red | 天陽腰帶【ＨＳ】・赤 |
 | 8110 | Tenpi Waistband GS・Red | 天陽腰帶【ＧＳ】・赤 |
 | 8111 | Tenpi Waistband GP・Red | 天陽腰帶【ＧＰ】・赤 |
-| 8112 | Tenpi Colour Belt・Red | 特艾恩伊腰帶・赤 |
-| 8113 | Tenpi Colour Belt F・Red | 特艾恩伊腰帶【Ｆ】・赤 |
-| 8114 | Tenpi Colour Belt FZ・Red | 特艾恩伊腰帶【ＦＺ】・赤 |
-| 8115 | Tenpi Colour Belt HS・Red | 特艾恩伊腰帶【ＨＳ】・赤 |
-| 8116 | Tenpi Colour Belt GS・Red | 特艾恩伊腰帶【ＧＳ】・赤 |
-| 8117 | Tenpi Colour Belt GP・Red | 特艾恩伊腰帶【ＧＰ】・赤 |
+| 8112 | Tenpi Colour Belt・Red | 天陽腰帶・赤 |
+| 8113 | Tenpi Colour Belt F・Red | 天陽腰帶【Ｆ】・赤 |
+| 8114 | Tenpi Colour Belt FZ・Red | 天陽腰帶【ＦＺ】・赤 |
+| 8115 | Tenpi Colour Belt HS・Red | 天陽腰帶【ＨＳ】・赤 |
+| 8116 | Tenpi Colour Belt GS・Red | 天陽腰帶【ＧＳ】・赤 |
+| 8117 | Tenpi Colour Belt GP・Red | 天陽腰帶【ＧＰ】・赤 |
 | 8118 | Tenpi Waistband・Blue | 天陽腰帶・青 |
 | 8119 | Tenpi Waistband F・Blue | 天陽腰帶【Ｆ】・青 |
 | 8120 | Tenpi Waistband FZ・Blue | 天陽腰帶【ＦＺ】・青 |
 | 8121 | Tenpi Waistband HS・Blue | 天陽腰帶【ＨＳ】・青 |
 | 8122 | Tenpi Waistband GS・Blue | 天陽腰帶【ＧＳ】・青 |
 | 8123 | Tenpi Waistband GP・Blue | 天陽腰帶【ＧＰ】・青 |
-| 8124 | Tenpi Colour Belt・Blue | 特艾恩伊腰帶・青 |
-| 8125 | Tenpi Colour Belt F・Blue | 特艾恩伊腰帶【Ｆ】・青 |
-| 8126 | Tenpi Colour Belt FZ・Blue | 特艾恩伊腰帶【ＦＺ】・青 |
-| 8127 | Tenpi Colour Belt HS・Blue | 特艾恩伊腰帶【ＨＳ】・青 |
-| 8128 | Tenpi Colour Belt GS・Blue | 特艾恩伊腰帶【ＧＳ】・青 |
-| 8129 | Tenpi Colour Belt GP・Blue | 特艾恩伊腰帶【ＧＰ】・青 |
+| 8124 | Tenpi Colour Belt・Blue | 天陽腰帶・青 |
+| 8125 | Tenpi Colour Belt F・Blue | 天陽腰帶【Ｆ】・青 |
+| 8126 | Tenpi Colour Belt FZ・Blue | 天陽腰帶【ＦＺ】・青 |
+| 8127 | Tenpi Colour Belt HS・Blue | 天陽腰帶【ＨＳ】・青 |
+| 8128 | Tenpi Colour Belt GS・Blue | 天陽腰帶【ＧＳ】・青 |
+| 8129 | Tenpi Colour Belt GP・Blue | 天陽腰帶【ＧＰ】・青 |
 | 8130 | Tenpi Waistband・Black | 天陽腰帶・黑 |
 | 8131 | Tenpi Waistband F・Black | 天陽腰帶【Ｆ】・黑 |
 | 8132 | Tenpi Waistband FZ・Black | 天陽腰帶【ＦＺ】・黑 |
 | 8133 | Tenpi Waistband HS・Black | 天陽腰帶【ＨＳ】・黑 |
 | 8134 | Tenpi Waistband GS・Black | 天陽腰帶【ＧＳ】・黑 |
 | 8135 | Tenpi Waistband GP・Black | 天陽腰帶【ＧＰ】・黑 |
-| 8136 | Tenpi Colour Belt・Black | 特艾恩伊腰帶・黑 |
-| 8137 | Tenpi Colour Belt F・Black | 特艾恩伊腰帶【Ｆ】・黑 |
-| 8138 | Tenpi Colour Belt FZ・Black | 特艾恩伊腰帶【ＦＺ】・黑 |
-| 8139 | Tenpi Colour Belt HS・Black | 特艾恩伊腰帶【ＨＳ】・黑 |
-| 8140 | Tenpi Colour Belt GS・Black | 特艾恩伊腰帶【ＧＳ】・黑 |
-| 8141 | Tenpi Colour Belt GP・Black | 特艾恩伊腰帶【ＧＰ】・黑 |
+| 8136 | Tenpi Colour Belt・Black | 天陽腰帶・黑 |
+| 8137 | Tenpi Colour Belt F・Black | 天陽腰帶【Ｆ】・黑 |
+| 8138 | Tenpi Colour Belt FZ・Black | 天陽腰帶【ＦＺ】・黑 |
+| 8139 | Tenpi Colour Belt HS・Black | 天陽腰帶【ＨＳ】・黑 |
+| 8140 | Tenpi Colour Belt GS・Black | 天陽腰帶【ＧＳ】・黑 |
+| 8141 | Tenpi Colour Belt GP・Black | 天陽腰帶【ＧＰ】・黑 |
 | 8142 | Tenpi Waistband・White | 天陽腰帶・白 |
 | 8143 | Tenpi Waistband F・White | 天陽腰帶【Ｆ】・白 |
 | 8144 | Tenpi Waistband FZ・White | 天陽腰帶【ＦＺ】・白 |
 | 8145 | Tenpi Waistband HS・White | 天陽腰帶【ＨＳ】・白 |
 | 8146 | Tenpi Waistband GS・White | 天陽腰帶【ＧＳ】・白 |
 | 8147 | Tenpi Waistband GP・White | 天陽腰帶【ＧＰ】・白 |
-| 8148 | Tenpi Colour Belt・White | 特艾恩伊腰帶・白 |
-| 8149 | Tenpi Colour Belt F・White | 特艾恩伊腰帶【Ｆ】・白 |
-| 8150 | Tenpi Colour Belt FZ・White | 特艾恩伊腰帶【ＦＺ】・白 |
-| 8151 | Tenpi Colour Belt HS・White | 特艾恩伊腰帶【ＨＳ】・白 |
-| 8152 | Tenpi Colour Belt GS・White | 特艾恩伊腰帶【ＧＳ】・白 |
-| 8153 | Tenpi Colour Belt GP・White | 特艾恩伊腰帶【ＧＰ】・白 |
+| 8148 | Tenpi Colour Belt・White | 天陽腰帶・白 |
+| 8149 | Tenpi Colour Belt F・White | 天陽腰帶【Ｆ】・白 |
+| 8150 | Tenpi Colour Belt FZ・White | 天陽腰帶【ＦＺ】・白 |
+| 8151 | Tenpi Colour Belt HS・White | 天陽腰帶【ＨＳ】・白 |
+| 8152 | Tenpi Colour Belt GS・White | 天陽腰帶【ＧＳ】・白 |
+| 8153 | Tenpi Colour Belt GP・White | 天陽腰帶【ＧＰ】・白 |
 | 8154 | Ruban Waist | 魯班腰甲 |
 | 8155 | Ruban F Waist | 魯班腰甲【Ｆ】 |
 | 8156 | Ruban FZ Waist | 魯班腰甲【ＦＺ】 |
@@ -346,9 +346,9 @@
 | 8340 | Noir G Faulds | 黑腰甲【Ｇ】 |
 | 8341 | Noir GF Faulds | 黑腰甲【ＧＦ】 |
 | 8342 | Noir GX Faulds | 黑腰甲【ＧＸ】 |
-| 8343 | Demon Lord ノ虎布G | 惡魔腰甲【Ｇ】 |
-| 8344 | Demon Lord ノ虎布GF | 惡魔腰甲【Ｆ】 |
-| 8345 | Demon Lord ノ虎布GX | 惡魔腰甲【ＧＸ】 |
+| 8343 | Demon Lord ノ虎布G | 魔王腰甲【Ｇ】 |
+| 8344 | Demon Lord ノ虎布GF | 魔王腰甲【Ｆ】 |
+| 8345 | Demon Lord ノ虎布GX | 魔王腰甲【ＧＸ】 |
 | 8346 | 童子ノ虎布G | 童子虎布腰甲【Ｇ】 |
 | 8347 | 童子ノ虎布GF | 童子虎布腰甲【Ｆ】 |
 | 8348 | 童子ノ虎布GX | 童子虎布腰甲【ＧＸ】 |
@@ -466,12 +466,12 @@
 | 8460 | Bonito G Coat | 布歐恩伊腰衣【Ｇ】 |
 | 8461 | Bonito GF Coat | 布歐恩伊腰衣【ＧＦ】 |
 | 8462 | Bonito GX Coat | 布歐恩伊腰衣【ＧＸ】 |
-| 8463 | Silver Ruler G【腰当て】 | 爾烏爾艾腰當【Ｇ】・銀 |
-| 8464 | Silver Ruler GF【腰当て】 | 爾烏爾艾腰當【ＧＦ】・銀 |
-| 8465 | Silver Ruler GX【腰当て】 | 爾烏爾艾腰當【ＧＸ】・銀 |
-| 8466 | Silver Control G【腰当て】 | 克歐恩歐腰當【Ｇ】・銀 |
-| 8467 | Silver Control GF【腰当て】 | 克歐恩歐腰當【ＧＦ】・銀 |
-| 8468 | Silver Control GX【腰当て】 | 克歐恩歐腰當【ＧＸ】・銀 |
+| 8463 | Silver Ruler G【腰当て】 | 銀統治腰當【Ｇ】 |
+| 8464 | Silver Ruler GF【腰当て】 | 銀統治腰當【ＧＦ】 |
+| 8465 | Silver Ruler GX【腰当て】 | 銀統治腰當【ＧＸ】 |
+| 8466 | Silver Control G【腰当て】 | 銀統御腰當【Ｇ】 |
+| 8467 | Silver Control GF【腰当て】 | 銀統御腰當【ＧＦ】 |
+| 8468 | Silver Control GX【腰当て】 | 銀統御腰當【ＧＸ】 |
 | 8469 | Harudo Faulds | 司銀龍腰甲 |
 | 8470 | Harudo F Faulds | 司銀龍腰甲【Ｆ】 |
 | 8471 | Harudo FX Faulds | 司銀龍腰甲【ＦＸ】 |

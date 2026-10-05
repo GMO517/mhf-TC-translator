@@ -143,10 +143,10 @@
 | 4637 | 竜巻HS Kote・Black | 竜巻籠手【ＨＳ】・黑 |
 | 4638 | 竜巻GS Kote・Black | 竜巻籠手【ＧＳ】・黑 |
 | 4639 | 竜巻GP Kote・Black | 竜巻籠手【ＧＰ】・黑 |
-| 4640 | True 空FZ Kote・Black | 空籠手【ＦＺ】・黑 |
-| 4641 | True 空HS Kote・Black | 空籠手【ＨＳ】・黑 |
-| 4642 | True 空GS Kote・Black | 空籠手【ＧＳ】・黑 |
-| 4643 | True 空GP Kote・Black | 空籠手【ＧＰ】・黑 |
+| 4640 | True 空FZ Kote・Black | 真空籠手【ＦＺ】・黑 |
+| 4641 | True 空HS Kote・Black | 真空籠手【ＨＳ】・黑 |
+| 4642 | True 空GS Kote・Black | 真空籠手【ＧＳ】・黑 |
+| 4643 | True 空GP Kote・Black | 真空籠手【ＧＰ】・黑 |
 | 4644 | 千裂FZ腕環・Black | 千裂腕環護腕・黑 |
 | 4645 | 千裂HS腕環・Black | 千裂腕環護腕・黑 |
 | 4646 | 千裂GS腕環・Black | 千裂腕環護腕・黑 |
@@ -159,10 +159,10 @@
 | 4653 | 竜巻HS Kote・Tea | 竜巻籠手【ＨＳ】・茶 |
 | 4654 | 竜巻GS Kote・Tea | 竜巻籠手【ＧＳ】・茶 |
 | 4655 | 竜巻GP Kote・Tea | 竜巻籠手【ＧＰ】・茶 |
-| 4656 | True 空FZ Kote・Tea | 空籠手【ＦＺ】・茶 |
-| 4657 | True 空HS Kote・Tea | 空籠手【ＨＳ】・茶 |
-| 4658 | True 空GS Kote・Tea | 空籠手【ＧＳ】・茶 |
-| 4659 | True 空GP Kote・Tea | 空籠手【ＧＰ】・茶 |
+| 4656 | True 空FZ Kote・Tea | 真空籠手【ＦＺ】・茶 |
+| 4657 | True 空HS Kote・Tea | 真空籠手【ＨＳ】・茶 |
+| 4658 | True 空GS Kote・Tea | 真空籠手【ＧＳ】・茶 |
+| 4659 | True 空GP Kote・Tea | 真空籠手【ＧＰ】・茶 |
 | 4660 | 千裂FZ腕環・Purple | 千裂腕環護腕・紫 |
 | 4661 | 千裂HS腕環・Purple | 千裂腕環護腕・紫 |
 | 4662 | 千裂GS腕環・Purple | 千裂腕環護腕・紫 |
@@ -175,10 +175,10 @@
 | 4669 | 竜巻HS Kote・White | 竜巻籠手【ＨＳ】・白 |
 | 4670 | 竜巻GS Kote・White | 竜巻籠手【ＧＳ】・白 |
 | 4671 | 竜巻GP Kote・White | 竜巻籠手【ＧＰ】・白 |
-| 4672 | True 空FZ Kote・White | 空籠手【ＦＺ】・白 |
-| 4673 | True 空HS Kote・White | 空籠手【ＨＳ】・白 |
-| 4674 | True 空GS Kote・White | 空籠手【ＧＳ】・白 |
-| 4675 | True 空GP Kote・White | 空籠手【ＧＰ】・白 |
+| 4672 | True 空FZ Kote・White | 真空籠手【ＦＺ】・白 |
+| 4673 | True 空HS Kote・White | 真空籠手【ＨＳ】・白 |
+| 4674 | True 空GS Kote・White | 真空籠手【ＧＳ】・白 |
+| 4675 | True 空GP Kote・White | 真空籠手【ＧＰ】・白 |
 | 4676 | 千裂FZ腕環・White | 千裂腕環護腕・白 |
 | 4677 | 千裂HS腕環・White | 千裂腕環護腕・白 |
 | 4678 | 千裂GS腕環・White | 千裂腕環護腕・白 |
@@ -191,10 +191,10 @@
 | 4685 | 竜巻HS Kote・Blue | 竜巻籠手【ＨＳ】・青 |
 | 4686 | 竜巻GS Kote・Blue | 竜巻籠手【ＧＳ】・青 |
 | 4687 | 竜巻GP Kote・Blue | 竜巻籠手【ＧＰ】・青 |
-| 4688 | True 空FZ Kote・Blue | 空籠手【ＦＺ】・青 |
-| 4689 | True 空HS Kote・Blue | 空籠手【ＨＳ】・青 |
-| 4690 | True 空GS Kote・Blue | 空籠手【ＧＳ】・青 |
-| 4691 | True 空GP Kote・Blue | 空籠手【ＧＰ】・青 |
+| 4688 | True 空FZ Kote・Blue | 真空籠手【ＦＺ】・青 |
+| 4689 | True 空HS Kote・Blue | 真空籠手【ＨＳ】・青 |
+| 4690 | True 空GS Kote・Blue | 真空籠手【ＧＳ】・青 |
+| 4691 | True 空GP Kote・Blue | 真空籠手【ＧＰ】・青 |
 | 4692 | 千裂FZ腕環・Green | 千裂腕環護腕・緑 |
 | 4693 | 千裂HS腕環・Green | 千裂腕環護腕・緑 |
 | 4694 | 千裂GS腕環・Green | 千裂腕環護腕・緑 |
@@ -211,10 +211,10 @@
 | 4705 | Chaos HS Cuffs・Blue | 混沌護腕【ＨＳ】・青 |
 | 4706 | Chaos GS Cuffs・Blue | 混沌護腕【ＧＳ】・青 |
 | 4707 | Chaos GP Cuffs・Blue | 混沌護腕【ＧＰ】・青 |
-| 4708 | Shadow FZグローブ Purple | 暗影手套【ＦＺ】・紫 |
-| 4709 | Shadow HSグローブ Purple | 暗影手套【ＨＳ】・紫 |
-| 4710 | Shadow GSグローブ Purple | 暗影手套【ＧＳ】・紫 |
-| 4711 | Shadow GPグローブ Purple | 暗影手套【ＧＰ】・紫 |
+| 4708 | Shadow FZグローブ Purple | 影手套【ＦＺ】・紫 |
+| 4709 | Shadow HSグローブ Purple | 影手套【ＨＳ】・紫 |
+| 4710 | Shadow GSグローブ Purple | 影手套【ＧＳ】・紫 |
+| 4711 | Shadow GPグローブ Purple | 影手套【ＧＰ】・紫 |
 | 4712 | Soul FZグローブ・Purple | 魂手套【ＦＺ】・紫 |
 | 4713 | Soul HSグローブ・Purple | 魂手套【ＨＳ】・紫 |
 | 4714 | Soul GSグローブ・Purple | 魂手套【ＧＳ】・紫 |
@@ -227,10 +227,10 @@
 | 4721 | Chaos HS Cuffs・Red | 混沌護腕【ＨＳ】・赤 |
 | 4722 | Chaos GS Cuffs・Red | 混沌護腕【ＧＳ】・赤 |
 | 4723 | Chaos GP Cuffs・Red | 混沌護腕【ＧＰ】・赤 |
-| 4724 | Shadow FZグローブ Red | 暗影手套【ＦＺ】・赤 |
-| 4725 | Shadow HSグローブ Red | 暗影手套【ＨＳ】・赤 |
-| 4726 | Shadow GSグローブ Red | 暗影手套【ＧＳ】・赤 |
-| 4727 | Shadow GPグローブ Red | 暗影手套【ＧＰ】・赤 |
+| 4724 | Shadow FZグローブ Red | 影手套【ＦＺ】・赤 |
+| 4725 | Shadow HSグローブ Red | 影手套【ＨＳ】・赤 |
+| 4726 | Shadow GSグローブ Red | 影手套【ＧＳ】・赤 |
+| 4727 | Shadow GPグローブ Red | 影手套【ＧＰ】・赤 |
 | 4728 | Soul FZグローブ・Red | 魂手套【ＦＺ】・赤 |
 | 4729 | Soul HSグローブ・Red | 魂手套【ＨＳ】・赤 |
 | 4730 | Soul GSグローブ・Red | 魂手套【ＧＳ】・赤 |
@@ -243,10 +243,10 @@
 | 4737 | Chaos HS Cuffs・Green | 混沌護腕【ＨＳ】・緑 |
 | 4738 | Chaos GS Cuffs・Green | 混沌護腕【ＧＳ】・緑 |
 | 4739 | Chaos GP Cuffs・Green | 混沌護腕【ＧＰ】・緑 |
-| 4740 | Shadow FZグローブ Green | 暗影手套【ＦＺ】・緑 |
-| 4741 | Shadow HSグローブ Green | 暗影手套【ＨＳ】・緑 |
-| 4742 | Shadow GSグローブ Green | 暗影手套【ＧＳ】・緑 |
-| 4743 | Shadow GPグローブ Green | 暗影手套【ＧＰ】・緑 |
+| 4740 | Shadow FZグローブ Green | 影手套【ＦＺ】・緑 |
+| 4741 | Shadow HSグローブ Green | 影手套【ＨＳ】・緑 |
+| 4742 | Shadow GSグローブ Green | 影手套【ＧＳ】・緑 |
+| 4743 | Shadow GPグローブ Green | 影手套【ＧＰ】・緑 |
 | 4744 | Soul FZグローブ・Green | 魂手套【ＦＺ】・緑 |
 | 4745 | Soul HSグローブ・Green | 魂手套【ＨＳ】・緑 |
 | 4746 | Soul GSグローブ・Green | 魂手套【ＧＳ】・緑 |
@@ -259,10 +259,10 @@
 | 4753 | Chaos HS Cuffs・White | 混沌護腕【ＨＳ】・白 |
 | 4754 | Chaos GS Cuffs・White | 混沌護腕【ＧＳ】・白 |
 | 4755 | Chaos GP Cuffs・White | 混沌護腕【ＧＰ】・白 |
-| 4756 | Shadow FZグローブ White | 暗影手套【ＦＺ】・白 |
-| 4757 | Shadow HSグローブ White | 暗影手套【ＨＳ】・白 |
-| 4758 | Shadow GSグローブ White | 暗影手套【ＧＳ】・白 |
-| 4759 | Shadow GPグローブ White | 暗影手套【ＧＰ】・白 |
+| 4756 | Shadow FZグローブ White | 影手套【ＦＺ】・白 |
+| 4757 | Shadow HSグローブ White | 影手套【ＨＳ】・白 |
+| 4758 | Shadow GSグローブ White | 影手套【ＧＳ】・白 |
+| 4759 | Shadow GPグローブ White | 影手套【ＧＰ】・白 |
 | 4760 | Soul FZグローブ・White | 魂手套【ＦＺ】・白 |
 | 4761 | Soul HSグローブ・White | 魂手套【ＨＳ】・白 |
 | 4762 | Soul GSグローブ・White | 魂手套【ＧＳ】・白 |
@@ -303,10 +303,10 @@
 | 4797 | Shinryu GP Kote・Red | 神龍籠手【ＧＰ】・赤 |
 | 4798 | Reppa GS Kote・Red | 烈破籠手【ＧＳ】・赤 |
 | 4799 | Reppa GP Kote・Red | 烈破籠手【ＧＰ】・赤 |
-| 4800 | Cannon GS Claws・Water | 加農水爪【ＧＳ】 |
-| 4801 | Cannon GP Claws・Water | 加農水爪【ＧＰ】 |
-| 4802 | Axel GS Claws・Water | 輪軸水爪【ＧＳ】 |
-| 4803 | Axel GP Claws・Water | 輪軸水爪【ＧＰ】 |
+| 4800 | Cannon GS Claws・Water | 加農爪【ＧＳ】・水 |
+| 4801 | Cannon GP Claws・Water | 加農爪【ＧＰ】・水 |
+| 4802 | Axel GS Claws・Water | 輪軸爪【ＧＳ】・水 |
+| 4803 | Axel GP Claws・Water | 輪軸爪【ＧＰ】・水 |
 | 4804 | Shinryu GS Kote・White | 神龍籠手【ＧＳ】・白 |
 | 4805 | Shinryu GP Kote・White | 神龍籠手【ＧＰ】・白 |
 | 4806 | Reppa GS Kote・White | 烈破籠手【ＧＳ】・白 |

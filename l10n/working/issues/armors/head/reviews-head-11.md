@@ -19,18 +19,18 @@
 | 5013 | Genom HS Mask・Green | 基因組帽子【ＨＳ】・緑 |
 | 5014 | Genom GS Mask・Green | 基因組帽子【ＧＳ】・緑 |
 | 5015 | Genom GP Mask・Green | 基因組帽子【ＧＰ】・緑 |
-| 5016 | Genom Head・Water | 基因組水頭兜 |
-| 5017 | Genom F Head・Water | 基因組水頭兜【Ｆ】 |
-| 5018 | Genom FZ Head・Water | 基因組水頭兜【ＦＺ】 |
-| 5019 | Genom HS Head・Water | 基因組水頭兜【ＨＳ】 |
-| 5020 | Genom GS Head・Water | 基因組水頭兜【ＧＳ】 |
-| 5021 | Genom GP Head・Water | 基因組水頭兜【ＧＰ】 |
-| 5022 | Genom Mask・Water | 基因組水帽子 |
-| 5023 | Genom F Mask・Water | 基因組水帽子【Ｆ】 |
-| 5024 | Genom FZ Mask・Water | 基因組水帽子【ＦＺ】 |
-| 5025 | Genom HS Mask・Water | 基因組水帽子【ＨＳ】 |
-| 5026 | Genom GS Mask・Water | 基因組水帽子【ＧＳ】 |
-| 5027 | Genom GP Mask・Water | 基因組水帽子【ＧＰ】 |
+| 5016 | Genom Head・Water | 基因組頭兜・水 |
+| 5017 | Genom F Head・Water | 基因組頭兜【Ｆ】・水 |
+| 5018 | Genom FZ Head・Water | 基因組頭兜【ＦＺ】・水 |
+| 5019 | Genom HS Head・Water | 基因組頭兜【ＨＳ】・水 |
+| 5020 | Genom GS Head・Water | 基因組頭兜【ＧＳ】・水 |
+| 5021 | Genom GP Head・Water | 基因組頭兜【ＧＰ】・水 |
+| 5022 | Genom Mask・Water | 基因組帽子・水 |
+| 5023 | Genom F Mask・Water | 基因組帽子【Ｆ】・水 |
+| 5024 | Genom FZ Mask・Water | 基因組帽子【ＦＺ】・水 |
+| 5025 | Genom HS Mask・Water | 基因組帽子【ＨＳ】・水 |
+| 5026 | Genom GS Mask・Water | 基因組帽子【ＧＳ】・水 |
+| 5027 | Genom GP Mask・Water | 基因組帽子【ＧＰ】・水 |
 | 5028 | Genom Head・Red | 基因組頭兜・赤 |
 | 5029 | Genom F Head・Red | 基因組頭兜【Ｆ】・赤 |
 | 5030 | Genom FZ Head・Red | 基因組頭兜【ＦＺ】・赤 |
@@ -255,10 +255,10 @@
 | 5249 | 竜巻HS Hachimaki・Black | 竜巻鉢卷【ＨＳ】・黑 |
 | 5250 | 竜巻GS Hachimaki・Black | 竜巻鉢卷【ＧＳ】・黑 |
 | 5251 | 竜巻GP Hachimaki・Black | 竜巻鉢卷【ＧＰ】・黑 |
-| 5252 | True 空FZ Hachimaki・Black | 空鉢卷【ＦＺ】・黑 |
-| 5253 | True 空HS Hachimaki・Black | 空鉢卷【ＨＳ】・黑 |
-| 5254 | True 空GS Hachimaki・Black | 空鉢卷【ＧＳ】・黑 |
-| 5255 | True 空GP Hachimaki・Black | 空鉢卷【ＧＰ】・黑 |
+| 5252 | True 空FZ Hachimaki・Black | 真空鉢卷【ＦＺ】・黑 |
+| 5253 | True 空HS Hachimaki・Black | 真空鉢卷【ＨＳ】・黑 |
+| 5254 | True 空GS Hachimaki・Black | 真空鉢卷【ＧＳ】・黑 |
+| 5255 | True 空GP Hachimaki・Black | 真空鉢卷【ＧＰ】・黑 |
 | 5256 | 千裂FZお団子・Black | 千裂お団子頭兜・黑 |
 | 5257 | 千裂HSお団子・Black | 千裂お団子頭兜・黑 |
 | 5258 | 千裂GSお団子・Black | 千裂お団子頭兜・黑 |
@@ -271,10 +271,10 @@
 | 5265 | 竜巻HS Hachimaki・Tea | 竜巻鉢卷【ＨＳ】・茶 |
 | 5266 | 竜巻GS Hachimaki・Tea | 竜巻鉢卷【ＧＳ】・茶 |
 | 5267 | 竜巻GP Hachimaki・Tea | 竜巻鉢卷【ＧＰ】・茶 |
-| 5268 | True 空FZ Hachimaki・Tea | 空鉢卷【ＦＺ】・茶 |
-| 5269 | True 空HS Hachimaki・Tea | 空鉢卷【ＨＳ】・茶 |
-| 5270 | True 空GS Hachimaki・Tea | 空鉢卷【ＧＳ】・茶 |
-| 5271 | True 空GP Hachimaki・Tea | 空鉢卷【ＧＰ】・茶 |
+| 5268 | True 空FZ Hachimaki・Tea | 真空鉢卷【ＦＺ】・茶 |
+| 5269 | True 空HS Hachimaki・Tea | 真空鉢卷【ＨＳ】・茶 |
+| 5270 | True 空GS Hachimaki・Tea | 真空鉢卷【ＧＳ】・茶 |
+| 5271 | True 空GP Hachimaki・Tea | 真空鉢卷【ＧＰ】・茶 |
 | 5272 | 千裂FZお団子・Purple | 千裂お団子頭兜・紫 |
 | 5273 | 千裂HSお団子・Purple | 千裂お団子頭兜・紫 |
 | 5274 | 千裂GSお団子・Purple | 千裂お団子頭兜・紫 |
@@ -287,10 +287,10 @@
 | 5281 | 竜巻HS Hachimaki・White | 竜巻鉢卷【ＨＳ】・白 |
 | 5282 | 竜巻GS Hachimaki・White | 竜巻鉢卷【ＧＳ】・白 |
 | 5283 | 竜巻GP Hachimaki・White | 竜巻鉢卷【ＧＰ】・白 |
-| 5284 | True 空FZ Hachimaki・White | 空鉢卷【ＦＺ】・白 |
-| 5285 | True 空HS Hachimaki・White | 空鉢卷【ＨＳ】・白 |
-| 5286 | True 空GS Hachimaki・White | 空鉢卷【ＧＳ】・白 |
-| 5287 | True 空GP Hachimaki・White | 空鉢卷【ＧＰ】・白 |
+| 5284 | True 空FZ Hachimaki・White | 真空鉢卷【ＦＺ】・白 |
+| 5285 | True 空HS Hachimaki・White | 真空鉢卷【ＨＳ】・白 |
+| 5286 | True 空GS Hachimaki・White | 真空鉢卷【ＧＳ】・白 |
+| 5287 | True 空GP Hachimaki・White | 真空鉢卷【ＧＰ】・白 |
 | 5288 | 千裂FZお団子・White | 千裂お団子頭兜・白 |
 | 5289 | 千裂HSお団子・White | 千裂お団子頭兜・白 |
 | 5290 | 千裂GSお団子・White | 千裂お団子頭兜・白 |
@@ -303,10 +303,10 @@
 | 5297 | 竜巻HS Hachimaki・Blue | 竜巻鉢卷【ＨＳ】・青 |
 | 5298 | 竜巻GS Hachimaki・Blue | 竜巻鉢卷【ＧＳ】・青 |
 | 5299 | 竜巻GP Hachimaki・Blue | 竜巻鉢卷【ＧＰ】・青 |
-| 5300 | True 空FZ Hachimaki・Blue | 空鉢卷【ＦＺ】・青 |
-| 5301 | True 空HS Hachimaki・Blue | 空鉢卷【ＨＳ】・青 |
-| 5302 | True 空GS Hachimaki・Blue | 空鉢卷【ＧＳ】・青 |
-| 5303 | True 空GP Hachimaki・Blue | 空鉢卷【ＧＰ】・青 |
+| 5300 | True 空FZ Hachimaki・Blue | 真空鉢卷【ＦＺ】・青 |
+| 5301 | True 空HS Hachimaki・Blue | 真空鉢卷【ＨＳ】・青 |
+| 5302 | True 空GS Hachimaki・Blue | 真空鉢卷【ＧＳ】・青 |
+| 5303 | True 空GP Hachimaki・Blue | 真空鉢卷【ＧＰ】・青 |
 | 5304 | 千裂FZお団子・Green | 千裂お団子頭兜・緑 |
 | 5305 | 千裂HSお団子・Green | 千裂お団子頭兜・緑 |
 | 5306 | 千裂GSお団子・Green | 千裂お団子頭兜・緑 |
@@ -323,10 +323,10 @@
 | 5317 | Chaos HS Head・Blue | 混沌頭兜【ＨＳ】・青 |
 | 5318 | Chaos GS Head・Blue | 混沌頭兜【ＧＳ】・青 |
 | 5319 | Chaos GP Head・Blue | 混沌頭兜【ＧＰ】・青 |
-| 5320 | Shadow FZ Wig Purple | 暗影假髮【ＦＺ】・紫 |
-| 5321 | Shadow HS Wig Purple | 暗影假髮【ＨＳ】・紫 |
-| 5322 | Shadow GS Wig Purple | 暗影假髮【ＧＳ】・紫 |
-| 5323 | Shadow GP Wig Purple | 暗影假髮【ＧＰ】・紫 |
+| 5320 | Shadow FZ Wig Purple | 影假髮【ＦＺ】・紫 |
+| 5321 | Shadow HS Wig Purple | 影假髮【ＨＳ】・紫 |
+| 5322 | Shadow GS Wig Purple | 影假髮【ＧＳ】・紫 |
+| 5323 | Shadow GP Wig Purple | 影假髮【ＧＰ】・紫 |
 | 5324 | Soul FZ Wig・Purple | 沃伊格魂【ＦＺ】・紫 |
 | 5325 | Soul HS Wig・Purple | 沃伊格魂【ＨＳ】・紫 |
 | 5326 | Soul GS Wig・Purple | 沃伊格魂【ＧＳ】・紫 |
@@ -339,10 +339,10 @@
 | 5333 | Chaos HS Head・Red | 混沌頭兜【ＨＳ】・赤 |
 | 5334 | Chaos GS Head・Red | 混沌頭兜【ＧＳ】・赤 |
 | 5335 | Chaos GP Head・Red | 混沌頭兜【ＧＰ】・赤 |
-| 5336 | Shadow FZ Wig Red | 暗影假髮【ＦＺ】・赤 |
-| 5337 | Shadow HS Wig Red | 暗影假髮【ＨＳ】・赤 |
-| 5338 | Shadow GS Wig Red | 暗影假髮【ＧＳ】・赤 |
-| 5339 | Shadow GP Wig Red | 暗影假髮【ＧＰ】・赤 |
+| 5336 | Shadow FZ Wig Red | 影假髮【ＦＺ】・赤 |
+| 5337 | Shadow HS Wig Red | 影假髮【ＨＳ】・赤 |
+| 5338 | Shadow GS Wig Red | 影假髮【ＧＳ】・赤 |
+| 5339 | Shadow GP Wig Red | 影假髮【ＧＰ】・赤 |
 | 5340 | Soul FZ Wig・Red | 沃伊格魂【ＦＺ】・赤 |
 | 5341 | Soul HS Wig・Red | 沃伊格魂【ＨＳ】・赤 |
 | 5342 | Soul GS Wig・Red | 沃伊格魂【ＧＳ】・赤 |
@@ -355,10 +355,10 @@
 | 5349 | Chaos HS Head・Green | 混沌頭兜【ＨＳ】・緑 |
 | 5350 | Chaos GS Head・Green | 混沌頭兜【ＧＳ】・緑 |
 | 5351 | Chaos GP Head・Green | 混沌頭兜【ＧＰ】・緑 |
-| 5352 | Shadow FZ Wig Green | 暗影假髮【ＦＺ】・緑 |
-| 5353 | Shadow HS Wig Green | 暗影假髮【ＨＳ】・緑 |
-| 5354 | Shadow GS Wig Green | 暗影假髮【ＧＳ】・緑 |
-| 5355 | Shadow GP Wig Green | 暗影假髮【ＧＰ】・緑 |
+| 5352 | Shadow FZ Wig Green | 影假髮【ＦＺ】・緑 |
+| 5353 | Shadow HS Wig Green | 影假髮【ＨＳ】・緑 |
+| 5354 | Shadow GS Wig Green | 影假髮【ＧＳ】・緑 |
+| 5355 | Shadow GP Wig Green | 影假髮【ＧＰ】・緑 |
 | 5356 | Soul FZ Wig・Green | 沃伊格魂【ＦＺ】・緑 |
 | 5357 | Soul HS Wig・Green | 沃伊格魂【ＨＳ】・緑 |
 | 5358 | Soul GS Wig・Green | 沃伊格魂【ＧＳ】・緑 |
@@ -371,10 +371,10 @@
 | 5365 | Chaos HS Head・White | 混沌頭兜【ＨＳ】・白 |
 | 5366 | Chaos GS Head・White | 混沌頭兜【ＧＳ】・白 |
 | 5367 | Chaos GP Head・White | 混沌頭兜【ＧＰ】・白 |
-| 5368 | Shadow FZ Wig White | 暗影假髮【ＦＺ】・白 |
-| 5369 | Shadow HS Wig White | 暗影假髮【ＨＳ】・白 |
-| 5370 | Shadow GS Wig White | 暗影假髮【ＧＳ】・白 |
-| 5371 | Shadow GP Wig White | 暗影假髮【ＧＰ】・白 |
+| 5368 | Shadow FZ Wig White | 影假髮【ＦＺ】・白 |
+| 5369 | Shadow HS Wig White | 影假髮【ＨＳ】・白 |
+| 5370 | Shadow GS Wig White | 影假髮【ＧＳ】・白 |
+| 5371 | Shadow GP Wig White | 影假髮【ＧＰ】・白 |
 | 5372 | Soul FZ Wig・White | 沃伊格魂【ＦＺ】・白 |
 | 5373 | Soul HS Wig・White | 沃伊格魂【ＨＳ】・白 |
 | 5374 | Soul GS Wig・White | 沃伊格魂【ＧＳ】・白 |
@@ -415,10 +415,10 @@
 | 5409 | Shinryu GP Hachimaki・Red | 神龍鉢卷【ＧＰ】・赤 |
 | 5410 | Reppa GS Hachimaki・Red | 烈破鉢卷【ＧＳ】・赤 |
 | 5411 | Reppa GP Hachimaki・Red | 烈破鉢卷【ＧＰ】・赤 |
-| 5412 | Cannon GS Beret・Water | 加農水貝雷帽【ＧＳ】 |
-| 5413 | Cannon GP Beret・Water | 加農水貝雷帽【ＧＰ】 |
-| 5414 | Axel GS Beret・Water | 輪軸水貝雷帽【ＧＳ】 |
-| 5415 | Axel GP Beret・Water | 輪軸水貝雷帽【ＧＰ】 |
+| 5412 | Cannon GS Beret・Water | 加農貝雷帽【ＧＳ】・水 |
+| 5413 | Cannon GP Beret・Water | 加農貝雷帽【ＧＰ】・水 |
+| 5414 | Axel GS Beret・Water | 輪軸貝雷帽【ＧＳ】・水 |
+| 5415 | Axel GP Beret・Water | 輪軸貝雷帽【ＧＰ】・水 |
 | 5416 | Shinryu GS Hachimaki・White | 神龍鉢卷【ＧＳ】・白 |
 | 5417 | Shinryu GP Hachimaki・White | 神龍鉢卷【ＧＰ】・白 |
 | 5418 | Reppa GS Hachimaki・White | 烈破鉢卷【ＧＳ】・白 |

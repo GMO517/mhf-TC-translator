@@ -150,20 +150,20 @@
 | 12144 | Holy Maiden Armor GS・Waistband | 聖女鎧腰帶【ＧＳ】 |
 | 12145 | Holy Maiden Armor GP・Waistband | 聖女鎧腰帶【ＧＰ】 |
 | 12146 | Holy Maiden Armor ZP・Waistband | 聖女鎧腰帶【ＺＰ】 |
-| 12147 | Dragon Slayer Armor・Waist | 德阿格歐腰甲 |
-| 12148 | Dragon Slayer Armor F・Waist | 德阿格歐腰甲【Ｆ】 |
-| 12149 | Dragon Slayer Armor FZ・Waist | 德阿格歐腰甲【ＦＺ】 |
-| 12150 | Dragon Slayer Armor HS・Waist | 德阿格歐腰甲【ＨＳ】 |
-| 12151 | Dragon Slayer Armor GS・Waist | 德阿格歐腰甲【ＧＳ】 |
-| 12152 | Dragon Slayer Armor GP・Waist | 德阿格歐腰甲【ＧＰ】 |
-| 12153 | Dragon Slayer Armor ZP・Waist | 德阿格歐腰甲【ＺＰ】 |
-| 12154 | Dragon Slayer Armor・Waistband | 德阿格歐腰帶 |
-| 12155 | Dragon Slayer Armor F・Waistband | 德阿格歐腰帶【Ｆ】 |
-| 12156 | Dragon Slayer Armor FZ・Waistband | 德阿格歐腰帶【ＦＺ】 |
-| 12157 | Dragon Slayer Armor HS・Waistband | 德阿格歐腰帶【ＨＳ】 |
-| 12158 | Dragon Slayer Armor GS・Waistband | 德阿格歐腰帶【ＧＳ】 |
-| 12159 | Dragon Slayer Armor GP・Waistband | 德阿格歐腰帶【ＧＰ】 |
-| 12160 | Dragon Slayer Armor ZP・Waistband | 德阿格歐腰帶【ＺＰ】 |
+| 12147 | Dragon Slayer Armor・Waist | 屠龍腰甲 |
+| 12148 | Dragon Slayer Armor F・Waist | 屠龍腰甲【Ｆ】 |
+| 12149 | Dragon Slayer Armor FZ・Waist | 屠龍腰甲【ＦＺ】 |
+| 12150 | Dragon Slayer Armor HS・Waist | 屠龍腰甲【ＨＳ】 |
+| 12151 | Dragon Slayer Armor GS・Waist | 屠龍腰甲【ＧＳ】 |
+| 12152 | Dragon Slayer Armor GP・Waist | 屠龍腰甲【ＧＰ】 |
+| 12153 | Dragon Slayer Armor ZP・Waist | 屠龍腰甲【ＺＰ】 |
+| 12154 | Dragon Slayer Armor・Waistband | 屠龍腰帶 |
+| 12155 | Dragon Slayer Armor F・Waistband | 屠龍腰帶【Ｆ】 |
+| 12156 | Dragon Slayer Armor FZ・Waistband | 屠龍腰帶【ＦＺ】 |
+| 12157 | Dragon Slayer Armor HS・Waistband | 屠龍腰帶【ＨＳ】 |
+| 12158 | Dragon Slayer Armor GS・Waistband | 屠龍腰帶【ＧＳ】 |
+| 12159 | Dragon Slayer Armor GP・Waistband | 屠龍腰帶【ＧＰ】 |
+| 12160 | Dragon Slayer Armor ZP・Waistband | 屠龍腰帶【ＺＰ】 |
 | 12161 | Rebellion Armour・Waist | 爾艾布艾腰甲 |
 | 12162 | Rebellion Armour F・Waist | 爾艾布艾腰甲【Ｆ】 |
 | 12163 | Rebellion Armour FZ・Waist | 爾艾布艾腰甲【ＦＺ】 |
@@ -185,7 +185,7 @@
 | 12179 | Granu ZP Faulds | 格拉努腰甲【ＺＰ】 |
 | 12180 | Granu ZP Coat | 格拉努腰衣【ＺＰ】 |
 | 12181 | Chiyo Waistband ZP | 千代腰帶【ＺＰ】 |
-| 12182 | Chiyo Colour Belt ZP | 奇伊伊歐腰帶【ＺＰ】 |
+| 12182 | Chiyo Colour Belt ZP | 千代腰帶【ＺＰ】 |
 | 12183 | Nekodan ZP Waist | 恩艾克歐腰甲【ＺＰ】 |
 | 12184 | Gudan ZP Coil | 古丹腰甲【ＺＰ】 |
 | 12185 | Toridcless ZD Faulds | 特歐爾伊腰甲 |
@@ -199,7 +199,7 @@
 | 12193 | VM Equipment D | 芙艾斯烏腰甲 |
 | 12194 | Twelve Paladins' Armor D・Waist | 特艾爾艾腰甲 |
 | 12195 | Holy Maiden Armor D・Waist | 赫歐爾阿腰甲 |
-| 12196 | Dragon Slayer Armor D・Waist | 龍腰甲 |
+| 12196 | Dragon Slayer Armor D・Waist | 屠龍腰甲 |
 | 12197 | Rebellion Armour D・Waist | 爾艾布艾腰甲 |
 | 12198 | Dinato D Faulds | 德伊恩阿腰甲 |
 | 12199 | Duque D Faulds | 德烏斯烏腰甲 |
@@ -236,21 +236,21 @@
 | 12230 | High Metal Coil PD Black | 上位金屬腰甲【ＰＤ】・黑 |
 | 12231 | High Metal Coil PD Blue | 上位金屬腰甲【ＰＤ】・青 |
 | 12232 | High Metal Coil PD Yellow | 上位金屬腰甲【ＰＤ】・黄 |
-| 12233 | S・Sol Coil PD Red | 日腰甲【Ｓ】【ＰＤ】・赤 |
-| 12234 | S・Sol Coil PD Purple | 日腰甲【Ｓ】【ＰＤ】・紫 |
-| 12235 | S・Sol Coil PD Black | 日腰甲【Ｓ】【ＰＤ】・黑 |
+| 12233 | S・Sol Coil PD Red | S索倫腰甲【ＰＤ】・赤 |
+| 12234 | S・Sol Coil PD Purple | S索倫腰甲【ＰＤ】・紫 |
+| 12235 | S・Sol Coil PD Black | S索倫腰甲【ＰＤ】・黑 |
 | 12236 | Garuga Coat PD White | 黑狼鳥腰衣【ＰＤ】・白 |
 | 12237 | Garuga Coat PD Green | 黑狼鳥腰衣【ＰＤ】・緑 |
 | 12238 | Garuga Coat PD Red | 黑狼鳥腰衣【ＰＤ】・赤 |
 | 12239 | Hermitaur Faulds PD Blue | 盾蟹腰甲【ＰＤ】・青 |
 | 12240 | Hermitaur Faulds PD White | 盾蟹腰甲【ＰＤ】・白 |
 | 12241 | Hermitaur Faulds PD Purple | 盾蟹腰甲【ＰＤ】・紫 |
-| 12242 | Kushala アンダ PD Red | 鋼龍腰甲【ＰＤ】 |
-| 12243 | Kushala アンダ PD Yellow | 鋼龍腰甲【ＰＤ】 |
-| 12244 | Kushala アンダ PD Green | 鋼龍腰甲【ＰＤ】 |
-| 12245 | Kushala アドミ PD Red | 鋼龍腰甲【ＰＤ】 |
-| 12246 | Kushala アドミ PD Yellow | 鋼龍腰甲【ＰＤ】 |
-| 12247 | Kushala アドミ PD Green | 鋼龍腰甲【ＰＤ】 |
+| 12242 | Kushala アンダ PD Red | 鋼龍腰甲【ＰＤ】・赤 |
+| 12243 | Kushala アンダ PD Yellow | 鋼龍腰甲【ＰＤ】・黄 |
+| 12244 | Kushala アンダ PD Green | 鋼龍腰甲【ＰＤ】・緑 |
+| 12245 | Kushala アドミ PD Red | 鋼龍腰甲【ＰＤ】・赤 |
+| 12246 | Kushala アドミ PD Yellow | 鋼龍腰甲【ＰＤ】・黄 |
+| 12247 | Kushala アドミ PD Green | 鋼龍腰甲【ＰＤ】・緑 |
 | 12248 | 忍の Obi・陽D | 忍の陽帶 |
 | 12249 | 忍の Obi・陰D | 忍の陰帶 |
 | 12250 | Bonne D Coil | 布歐恩艾腰甲 |
@@ -315,10 +315,10 @@
 | 12309 | Utaei Waistband ZF | 烏特阿腰帶【ＺＦ】 |
 | 12310 | Utaei Waistband ZY | 烏特阿腰帶【ＺＹ】 |
 | 12311 | Utaei Waistband ZX | 烏特阿腰帶【ＺＸ】 |
-| 12312 | Utaei Colour Belt Z | 烏特阿斯腰帶【Ｚ】 |
-| 12313 | Utaei Colour Belt ZF | 烏特阿斯腰帶【ＺＦ】 |
-| 12314 | Utaei Colour Belt ZY | 烏特阿斯腰帶【ＺＹ】 |
-| 12315 | Utaei Colour Belt ZX | 烏特阿斯腰帶【ＺＸ】 |
+| 12312 | Utaei Colour Belt Z | 烏特阿腰帶【Ｚ】 |
+| 12313 | Utaei Colour Belt ZF | 烏特阿腰帶【ＺＦ】 |
+| 12314 | Utaei Colour Belt ZY | 烏特阿腰帶【ＺＹ】 |
+| 12315 | Utaei Colour Belt ZX | 烏特阿腰帶【ＺＸ】 |
 | 12316 | Cassius G Faulds | 克阿斯伊腰甲【Ｇ】 |
 | 12317 | Cassius GF Faulds | 克阿斯伊腰甲【ＧＦ】 |
 | 12318 | Cassius GX Faulds | 克阿斯伊腰甲【ＧＸ】 |
@@ -477,7 +477,7 @@
 | 12471 | Byakko・双龍D Coil | 双龍腰甲 |
 | 12472 | Byakko・剣王D Coil | 剣王腰甲 |
 | 12473 | Byakko・刀神D Coil | 刀神腰甲 |
-| 12474 | Byakko・Heaven 槍D Coil | 槍腰甲・天 |
+| 12474 | Byakko・Heaven 槍D Coil | 槍天腰甲 |
 | 12475 | Byakko・砲皇D Coil | 砲皇腰甲 |
 | 12476 | Byakko・鈍器獣D Coil | 鈍器獣腰甲 |
 | 12477 | Byakko・奏帝D Coil | 奏帝腰甲 |
@@ -485,10 +485,10 @@
 | 12479 | Byakko・斬将D Coil | 斬将腰甲 |
 | 12480 | Byakko・銃傑D Coat | 銃傑腰衣 |
 | 12481 | Byakko・銃仙D Coat | 銃仙腰衣 |
-| 12482 | Byakko・Bow 鬼D Coat | 鬼腰衣 |
-| 12483 | Kirin フープ PD Red | 麒麟腰甲【ＰＤ】 |
-| 12484 | Kirin フープ PD Purple | 麒麟腰甲【ＰＤ】 |
-| 12485 | Kirin フープ PD Black | 麒麟腰甲【ＰＤ】 |
+| 12482 | Byakko・Bow 鬼D Coat | 白虎腰衣 |
+| 12483 | Kirin フープ PD Red | 麒麟腰甲【ＰＤ】・赤 |
+| 12484 | Kirin フープ PD Purple | 麒麟腰甲【ＰＤ】・紫 |
+| 12485 | Kirin フープ PD Black | 麒麟腰甲【ＰＤ】・黑 |
 | 12486 | Kaiser Coil PD White | 帝王腰甲【ＰＤ】・白 |
 | 12487 | Kaiser Coat PD White | 帝王腰衣【ＰＤ】・白 |
 | 12488 | Kaiser Coil PD Black | 帝王腰甲【ＰＤ】・黑 |

@@ -44,54 +44,54 @@
 | 4038 | Akahara Reisou GN Head HC White | 赤原禮裝頭兜【ＨＣ】・白 |
 | 4039 | Akahara Reisou GN Head HS White | 赤原禮裝頭兜【ＨＳ】・白 |
 | 4040 | Akahara Reisou GN Head GS White | 赤原禮裝頭兜【ＧＳ】・白 |
-| 4041 | Knight King Hair BM Blue | 克伊格伊頭兜・青 |
-| 4042 | Knight King Hair BM F Blue | 克伊格伊頭兜【Ｆ】・青 |
-| 4043 | Knight King Hair BM FZ Blue | 克伊格伊頭兜【ＦＺ】・青 |
-| 4044 | Knight King Hair BM HC Blue | 克伊格伊頭兜【ＨＣ】・青 |
-| 4045 | Knight King Hair BM HS Blue | 克伊格伊頭兜【ＨＳ】・青 |
-| 4046 | Knight King Hair BM GS Blue | 克伊格伊頭兜【ＧＳ】・青 |
-| 4047 | Knight King Hair GN Blue | 克伊格伊頭兜・青 |
-| 4048 | Knight King Hair GN F Blue | 克伊格伊頭兜【Ｆ】・青 |
-| 4049 | Knight King Hair GN FZ Blue | 克伊格伊頭兜【ＦＺ】・青 |
-| 4050 | Knight King Hair GN HC Blue | 克伊格伊頭兜【ＨＣ】・青 |
-| 4051 | Knight King Hair GN HS Blue | 克伊格伊頭兜【ＨＳ】・青 |
-| 4052 | Knight King Hair GN GS Blue | 克伊格伊頭兜【ＧＳ】・青 |
-| 4053 | Knight King Hair BM Red | 克伊格伊頭兜・赤 |
-| 4054 | Knight King Hair BM F Red | 克伊格伊頭兜【Ｆ】・赤 |
-| 4055 | Knight King Hair BM FZ Red | 克伊格伊頭兜【ＦＺ】・赤 |
-| 4056 | Knight King Hair BM HC Red | 克伊格伊頭兜【ＨＣ】・赤 |
-| 4057 | Knight King Hair BM HS Red | 克伊格伊頭兜【ＨＳ】・赤 |
-| 4058 | Knight King Hair BM GS Red | 克伊格伊頭兜【ＧＳ】・赤 |
-| 4059 | Knight King Hair GN Red | 克伊格伊頭兜・赤 |
-| 4060 | Knight King Hair GN F Red | 克伊格伊頭兜【Ｆ】・赤 |
-| 4061 | Knight King Hair GN FZ Red | 克伊格伊頭兜【ＦＺ】・赤 |
-| 4062 | Knight King Hair GN HC Red | 克伊格伊頭兜【ＨＣ】・赤 |
-| 4063 | Knight King Hair GN HS Red | 克伊格伊頭兜【ＨＳ】・赤 |
-| 4064 | Knight King Hair GN GS Red | 克伊格伊頭兜【ＧＳ】・赤 |
-| 4065 | Knight King Hair BM Black | 克伊格伊頭兜・黑 |
-| 4066 | Knight King Hair BM F Black | 克伊格伊頭兜【Ｆ】・黑 |
-| 4067 | Knight King Hair BM FZ Black | 克伊格伊頭兜【ＦＺ】・黑 |
-| 4068 | Knight King Hair BM HC Black | 克伊格伊頭兜【ＨＣ】・黑 |
-| 4069 | Knight King Hair BM HS Black | 克伊格伊頭兜【ＨＳ】・黑 |
-| 4070 | Knight King Hair BM GS Black | 克伊格伊頭兜【ＧＳ】・黑 |
-| 4071 | Knight King Hair GN Black | 克伊格伊頭兜・黑 |
-| 4072 | Knight King Hair GN F Black | 克伊格伊頭兜【Ｆ】・黑 |
-| 4073 | Knight King Hair GN FZ Black | 克伊格伊頭兜【ＦＺ】・黑 |
-| 4074 | Knight King Hair GN HC Black | 克伊格伊頭兜【ＨＣ】・黑 |
-| 4075 | Knight King Hair GN HS Black | 克伊格伊頭兜【ＨＳ】・黑 |
-| 4076 | Knight King Hair GN GS Black | 克伊格伊頭兜【ＧＳ】・黑 |
-| 4077 | Knight King Hair BM White | 克伊格伊頭兜・白 |
-| 4078 | Knight King Hair BM F White | 克伊格伊頭兜【Ｆ】・白 |
-| 4079 | Knight King Hair BM FZ White | 克伊格伊頭兜【ＦＺ】・白 |
-| 4080 | Knight King Hair BM HC White | 克伊格伊頭兜【ＨＣ】・白 |
-| 4081 | Knight King Hair BM HS White | 克伊格伊頭兜【ＨＳ】・白 |
-| 4082 | Knight King Hair BM GS White | 克伊格伊頭兜【ＧＳ】・白 |
-| 4083 | Knight King Hair GN White | 克伊格伊頭兜・白 |
-| 4084 | Knight King Hair GN F White | 克伊格伊頭兜【Ｆ】・白 |
-| 4085 | Knight King Hair GN FZ White | 克伊格伊頭兜【ＦＺ】・白 |
-| 4086 | Knight King Hair GN HC White | 克伊格伊頭兜【ＨＣ】・白 |
-| 4087 | Knight King Hair GN HS White | 克伊格伊頭兜【ＨＳ】・白 |
-| 4088 | Knight King Hair GN GS White | 克伊格伊頭兜【ＧＳ】・白 |
+| 4041 | Knight King Hair BM Blue | 騎士王頭兜・青 |
+| 4042 | Knight King Hair BM F Blue | 騎士王頭兜【Ｆ】・青 |
+| 4043 | Knight King Hair BM FZ Blue | 騎士王頭兜【ＦＺ】・青 |
+| 4044 | Knight King Hair BM HC Blue | 騎士王頭兜【ＨＣ】・青 |
+| 4045 | Knight King Hair BM HS Blue | 騎士王頭兜【ＨＳ】・青 |
+| 4046 | Knight King Hair BM GS Blue | 騎士王頭兜【ＧＳ】・青 |
+| 4047 | Knight King Hair GN Blue | 騎士王頭兜・青 |
+| 4048 | Knight King Hair GN F Blue | 騎士王頭兜【Ｆ】・青 |
+| 4049 | Knight King Hair GN FZ Blue | 騎士王頭兜【ＦＺ】・青 |
+| 4050 | Knight King Hair GN HC Blue | 騎士王頭兜【ＨＣ】・青 |
+| 4051 | Knight King Hair GN HS Blue | 騎士王頭兜【ＨＳ】・青 |
+| 4052 | Knight King Hair GN GS Blue | 騎士王頭兜【ＧＳ】・青 |
+| 4053 | Knight King Hair BM Red | 騎士王頭兜・赤 |
+| 4054 | Knight King Hair BM F Red | 騎士王頭兜【Ｆ】・赤 |
+| 4055 | Knight King Hair BM FZ Red | 騎士王頭兜【ＦＺ】・赤 |
+| 4056 | Knight King Hair BM HC Red | 騎士王頭兜【ＨＣ】・赤 |
+| 4057 | Knight King Hair BM HS Red | 騎士王頭兜【ＨＳ】・赤 |
+| 4058 | Knight King Hair BM GS Red | 騎士王頭兜【ＧＳ】・赤 |
+| 4059 | Knight King Hair GN Red | 騎士王頭兜・赤 |
+| 4060 | Knight King Hair GN F Red | 騎士王頭兜【Ｆ】・赤 |
+| 4061 | Knight King Hair GN FZ Red | 騎士王頭兜【ＦＺ】・赤 |
+| 4062 | Knight King Hair GN HC Red | 騎士王頭兜【ＨＣ】・赤 |
+| 4063 | Knight King Hair GN HS Red | 騎士王頭兜【ＨＳ】・赤 |
+| 4064 | Knight King Hair GN GS Red | 騎士王頭兜【ＧＳ】・赤 |
+| 4065 | Knight King Hair BM Black | 騎士王頭兜・黑 |
+| 4066 | Knight King Hair BM F Black | 騎士王頭兜【Ｆ】・黑 |
+| 4067 | Knight King Hair BM FZ Black | 騎士王頭兜【ＦＺ】・黑 |
+| 4068 | Knight King Hair BM HC Black | 騎士王頭兜【ＨＣ】・黑 |
+| 4069 | Knight King Hair BM HS Black | 騎士王頭兜【ＨＳ】・黑 |
+| 4070 | Knight King Hair BM GS Black | 騎士王頭兜【ＧＳ】・黑 |
+| 4071 | Knight King Hair GN Black | 騎士王頭兜・黑 |
+| 4072 | Knight King Hair GN F Black | 騎士王頭兜【Ｆ】・黑 |
+| 4073 | Knight King Hair GN FZ Black | 騎士王頭兜【ＦＺ】・黑 |
+| 4074 | Knight King Hair GN HC Black | 騎士王頭兜【ＨＣ】・黑 |
+| 4075 | Knight King Hair GN HS Black | 騎士王頭兜【ＨＳ】・黑 |
+| 4076 | Knight King Hair GN GS Black | 騎士王頭兜【ＧＳ】・黑 |
+| 4077 | Knight King Hair BM White | 騎士王頭兜・白 |
+| 4078 | Knight King Hair BM F White | 騎士王頭兜【Ｆ】・白 |
+| 4079 | Knight King Hair BM FZ White | 騎士王頭兜【ＦＺ】・白 |
+| 4080 | Knight King Hair BM HC White | 騎士王頭兜【ＨＣ】・白 |
+| 4081 | Knight King Hair BM HS White | 騎士王頭兜【ＨＳ】・白 |
+| 4082 | Knight King Hair BM GS White | 騎士王頭兜【ＧＳ】・白 |
+| 4083 | Knight King Hair GN White | 騎士王頭兜・白 |
+| 4084 | Knight King Hair GN F White | 騎士王頭兜【Ｆ】・白 |
+| 4085 | Knight King Hair GN FZ White | 騎士王頭兜【ＦＺ】・白 |
+| 4086 | Knight King Hair GN HC White | 騎士王頭兜【ＨＣ】・白 |
+| 4087 | Knight King Hair GN HS White | 騎士王頭兜【ＨＳ】・白 |
+| 4088 | Knight King Hair GN GS White | 騎士王頭兜【ＧＳ】・白 |
 | 4089 | ヴェルフFZ Helm | 維爾夫頭兜【ＦＺ】 |
 | 4090 | ヴェルフHC Helm | 維爾夫頭兜【ＨＣ】 |
 | 4091 | ヴェルフFZ Cap | 維爾夫兜帽【ＦＺ】 |
@@ -102,9 +102,9 @@
 | 4096 | テリオグHC Cap | 特里歐古兜帽【ＨＣ】 |
 | 4097 | Beil FZ Earrings | 貝爾耳環【ＦＺ】 |
 | 4098 | Beil HC Earrings | 貝爾耳環【ＨＣ】 |
-| 4099 | Ahaba ーFZ Piercing | 耳飾【ＦＺ】 |
-| 4100 | Ahaba ーHC Piercing | 耳飾【ＨＣ】 |
-| 4101 | Ahaba ーHS Piercing | 耳飾【ＨＳ】 |
+| 4099 | Ahaba ーFZ Piercing | 阿哈巴耳飾【ＦＺ】 |
+| 4100 | Ahaba ーHC Piercing | 阿哈巴耳飾【ＨＣ】 |
+| 4101 | Ahaba ーHS Piercing | 阿哈巴耳飾【ＨＳ】 |
 | 4102 | クローニーFZ Piercing | 庫羅尼耳飾【ＦＺ】 |
 | 4103 | クローニーHC Piercing | 庫羅尼耳飾【ＨＣ】 |
 | 4104 | クローニーHS Piercing | 庫羅尼耳飾【ＨＳ】 |
@@ -146,12 +146,12 @@
 | 4140 | Gougarf G Cap | 鬥獸兜帽【Ｇ】 |
 | 4141 | Gougarf GF Cap | 鬥獸兜帽【ＧＦ】 |
 | 4142 | Gougarf GX Cap | 鬥獸兜帽【ＧＸ】 |
-| 4143 | Shourou【Heaven 頭】G | 照楼上手【Ｇ】・天 |
-| 4144 | Shourou【Heaven 頭】GF | 照楼上手【ＧＦ】・天 |
-| 4145 | Shourou【Heaven 頭】GX | 照楼上手【ＧＸ】・天 |
-| 4146 | Mitama【Heaven 頭】G | 御魂上手【Ｇ】・天 |
-| 4147 | Mitama【Heaven 頭】GF | 御魂上手【ＧＦ】・天 |
-| 4148 | Mitama【Heaven 頭】GX | 御魂上手【ＧＸ】・天 |
+| 4143 | Shourou【Heaven 頭】G | 照楼天上手【Ｇ】 |
+| 4144 | Shourou【Heaven 頭】GF | 照楼天上手【ＧＦ】 |
+| 4145 | Shourou【Heaven 頭】GX | 照楼天上手【ＧＸ】 |
+| 4146 | Mitama【Heaven 頭】G | 御魂天上手【Ｇ】 |
+| 4147 | Mitama【Heaven 頭】GF | 御魂天上手【ＧＦ】 |
+| 4148 | Mitama【Heaven 頭】GX | 御魂天上手【ＧＸ】 |
 | 4149 | Giaorugu G Helm | 冰獰龍頭兜【Ｇ】 |
 | 4150 | Giaorugu GF Helm | 冰獰龍頭兜【ＧＦ】 |
 | 4151 | Giaorugu GX Helm | 冰獰龍頭兜【ＧＸ】 |
@@ -194,12 +194,12 @@
 | 4188 | Espinas G Soul | 棘龍魂【Ｇ】 |
 | 4189 | Espinas GF Soul | 棘龍魂【ＧＦ】 |
 | 4190 | Espinas GX Soul | 棘龍魂【ＧＸ】 |
-| 4191 | Golden Headdress・G | 格歐爾艾頭兜【Ｇ】 |
-| 4192 | Golden Headdress・GF | 格歐爾艾頭兜【ＧＦ】 |
-| 4193 | Golden Headdress・GX | 格歐爾艾頭兜【ＧＸ】 |
-| 4194 | Puppeteer Mask 隠・G | 隠帽子【Ｇ】 |
-| 4195 | Puppeteer Mask 隠・GF | 隠帽子【ＧＦ】 |
-| 4196 | Puppeteer Mask 隠・GX | 隠帽子【ＧＸ】 |
+| 4191 | Golden Headdress・G | 金頭飾頭兜【Ｇ】 |
+| 4192 | Golden Headdress・GF | 金頭飾頭兜【ＧＦ】 |
+| 4193 | Golden Headdress・GX | 金頭飾頭兜【ＧＸ】 |
+| 4194 | Puppeteer Mask 隠・G | 操偶帽子【Ｇ】 |
+| 4195 | Puppeteer Mask 隠・GF | 操偶帽子【ＧＦ】 |
+| 4196 | Puppeteer Mask 隠・GX | 操偶帽子【ＧＸ】 |
 | 4197 | Rebidiora G Head | 雷極龍頭兜【Ｇ】 |
 | 4198 | Rebidiora GF Head | 雷極龍頭兜【ＧＦ】 |
 | 4199 | Rebidiora GX Head | 雷極龍頭兜【ＧＸ】 |
@@ -236,9 +236,9 @@
 | 4230 | Disu G Cap | 德伊斯烏兜帽【Ｇ】 |
 | 4231 | Disu GF Cap | 德伊斯烏兜帽【ＧＦ】 |
 | 4232 | Disu GX Cap | 德伊斯烏兜帽【ＧＸ】 |
-| 4233 | Shadow Mask・G | 暗影帽子【Ｇ】 |
-| 4234 | Shadow Mask・GF | 暗影帽子【ＧＦ】 |
-| 4235 | Shadow Mask・GX | 暗影帽子【ＧＸ】 |
+| 4233 | Shadow Mask・G | 影帽子【Ｇ】 |
+| 4234 | Shadow Mask・GF | 影帽子【ＧＦ】 |
+| 4235 | Shadow Mask・GX | 影帽子【ＧＸ】 |
 | 4236 | Shade Mask・G | 影帽子【Ｇ】 |
 | 4237 | Shade Mask・GF | 影帽子【ＧＦ】 |
 | 4238 | Shade Mask・GX | 影帽子【ＧＸ】 |
@@ -274,14 +274,14 @@
 | 4268 | Genbu・刀神GF Helm | 刀神頭兜【Ｆ】 |
 | 4269 | Seiryu・刀神G Helm | 青龍頭兜【Ｇ】 |
 | 4270 | Seiryu・刀神GF Helm | 刀神頭兜【Ｆ】 |
-| 4271 | Byakko・Heaven 槍G Helm | 白虎頭兜【Ｇ】・天 |
-| 4272 | Byakko・Heaven 槍GF Helm | 槍頭兜【Ｆ】・天 |
-| 4273 | Suzaku・Heaven 槍G Helm | 朱雀頭兜【Ｇ】・天 |
-| 4274 | Suzaku・Heaven 槍GF Helm | 槍頭兜【Ｆ】・天 |
-| 4275 | Genbu・Heaven 槍G Helm | 玄武頭兜【Ｇ】・天 |
-| 4276 | Genbu・Heaven 槍GF Helm | 槍頭兜【Ｆ】・天 |
-| 4277 | Seiryu・Heaven 槍G Helm | 青龍頭兜【Ｇ】・天 |
-| 4278 | Seiryu・Heaven 槍GF Helm | 槍頭兜【Ｆ】・天 |
+| 4271 | Byakko・Heaven 槍G Helm | 白虎天頭兜【Ｇ】 |
+| 4272 | Byakko・Heaven 槍GF Helm | 槍天頭兜【Ｆ】 |
+| 4273 | Suzaku・Heaven 槍G Helm | 朱雀天頭兜【Ｇ】 |
+| 4274 | Suzaku・Heaven 槍GF Helm | 槍天頭兜【Ｆ】 |
+| 4275 | Genbu・Heaven 槍G Helm | 玄武天頭兜【Ｇ】 |
+| 4276 | Genbu・Heaven 槍GF Helm | 槍天頭兜【Ｆ】 |
+| 4277 | Seiryu・Heaven 槍G Helm | 青龍天頭兜【Ｇ】 |
+| 4278 | Seiryu・Heaven 槍GF Helm | 槍天頭兜【Ｆ】 |
 | 4279 | Byakko・砲皇G Helm | 白虎頭兜【Ｇ】 |
 | 4280 | Byakko・砲皇GF Helm | 砲皇頭兜【Ｆ】 |
 | 4281 | Suzaku・砲皇G Helm | 朱雀頭兜【Ｇ】 |
@@ -323,13 +323,13 @@
 | 4317 | Seiryu・銃仙G Mask | 青龍帽子【Ｇ】 |
 | 4318 | Seiryu・銃仙GF Mask | 銃仙帽子【Ｆ】 |
 | 4319 | Byakko・Bow 鬼G Mask | 白虎帽子【Ｇ】 |
-| 4320 | Byakko・Bow 鬼GF Mask | 鬼帽子【Ｆ】 |
+| 4320 | Byakko・Bow 鬼GF Mask | 白虎帽子【Ｆ】 |
 | 4321 | Suzaku・Bow 鬼G Mask | 朱雀帽子【Ｇ】 |
-| 4322 | Suzaku・Bow 鬼GF Mask | 鬼帽子【Ｆ】 |
+| 4322 | Suzaku・Bow 鬼GF Mask | 朱雀帽子【Ｆ】 |
 | 4323 | Genbu・Bow 鬼G Mask | 玄武帽子【Ｇ】 |
-| 4324 | Genbu・Bow 鬼GF Mask | 鬼帽子【Ｆ】 |
+| 4324 | Genbu・Bow 鬼GF Mask | 玄武帽子【Ｆ】 |
 | 4325 | Seiryu・Bow 鬼G Mask | 青龍帽子【Ｇ】 |
-| 4326 | Seiryu・Bow 鬼GF Mask | 鬼帽子【Ｆ】 |
+| 4326 | Seiryu・Bow 鬼GF Mask | 青龍帽子【Ｆ】 |
 | 4327 | Odiva G Helm | 奧蒂瓦頭兜【Ｇ】 |
 | 4328 | Odiva G Cap | 奧蒂瓦兜帽【Ｇ】 |
 | 4329 | Blitz G Horn | 布伊特角【Ｇ】 |
@@ -350,7 +350,7 @@
 | 4344 | エミットG Cap | 艾米托兜帽【Ｇ】 |
 | 4345 | Diboa G Helm | 迪博阿頭兜【Ｇ】 |
 | 4346 | Diboa G Cap | 迪博阿兜帽【Ｇ】 |
-| 4347 | Demon Lord Headguard | 德艾姆歐護額 |
+| 4347 | Demon Lord Headguard | 魔王護額 |
 | 4348 | 童子ノ Headguard | 童子護額 |
 | 4349 | レアー Head | 雷阿頭兜 |
 | 4350 | ハーデス Head | 哈德斯頭兜 |
@@ -400,18 +400,18 @@
 | 4394 | Pics HC Hat・Black | 皮克斯帽【ＨＣ】・黑 |
 | 4395 | Pics HS Hat・Black | 皮克斯帽【ＨＳ】・黑 |
 | 4396 | Pics GS Hat・Black | 皮克斯帽【ＧＳ】・黑 |
-| 4397 | Pics Head・Water | 皮克斯水頭兜 |
-| 4398 | Pics F Head・Water | 皮克斯水頭兜【Ｆ】 |
-| 4399 | Pics FZ Head・Water | 皮克斯水頭兜【ＦＺ】 |
-| 4400 | Pics HC Head・Water | 皮克斯水頭兜【ＨＣ】 |
-| 4401 | Pics HS Head・Water | 皮克斯水頭兜【ＨＳ】 |
-| 4402 | Pics GS Head・Water | 皮克斯水頭兜【ＧＳ】 |
-| 4403 | Pics Hat・Water | 皮克斯水帽 |
-| 4404 | Pics F Hat・Water | 皮克斯水帽【Ｆ】 |
-| 4405 | Pics FZ Hat・Water | 皮克斯水帽【ＦＺ】 |
-| 4406 | Pics HC Hat・Water | 皮克斯水帽【ＨＣ】 |
-| 4407 | Pics HS Hat・Water | 皮克斯水帽【ＨＳ】 |
-| 4408 | Pics GS Hat・Water | 皮克斯水帽【ＧＳ】 |
+| 4397 | Pics Head・Water | 皮克斯頭兜・水 |
+| 4398 | Pics F Head・Water | 皮克斯頭兜【Ｆ】・水 |
+| 4399 | Pics FZ Head・Water | 皮克斯頭兜【ＦＺ】・水 |
+| 4400 | Pics HC Head・Water | 皮克斯頭兜【ＨＣ】・水 |
+| 4401 | Pics HS Head・Water | 皮克斯頭兜【ＨＳ】・水 |
+| 4402 | Pics GS Head・Water | 皮克斯頭兜【ＧＳ】・水 |
+| 4403 | Pics Hat・Water | 皮克斯帽・水 |
+| 4404 | Pics F Hat・Water | 皮克斯帽【Ｆ】・水 |
+| 4405 | Pics FZ Hat・Water | 皮克斯帽【ＦＺ】・水 |
+| 4406 | Pics HC Hat・Water | 皮克斯帽【ＨＣ】・水 |
+| 4407 | Pics HS Hat・Water | 皮克斯帽【ＨＳ】・水 |
+| 4408 | Pics GS Hat・Water | 皮克斯帽【ＧＳ】・水 |
 | 4409 | Bright Helm | 輝頭兜 |
 | 4410 | Bright F Helm | 輝頭兜【Ｆ】 |
 | 4411 | Bright FZ Helm | 輝頭兜【ＦＺ】 |

@@ -27,7 +27,7 @@
 | 14021 | Perifu D Helm・Tea | 普艾爾伊頭兜・茶 |
 | 14022 | Perifu D Helm・Green | 普艾爾伊頭兜・緑 |
 | 14023 | Perifu D Helm・Purple | 普艾爾伊頭兜・紫 |
-| 14024 | Khezu 亜D Festa | 亜祭 |
+| 14024 | Khezu 亜D Festa | 奇怪龍祭 |
 | 14025 | ヒプ繁D Festa | 希普祭 |
 | 14026 | ヒプ希D Festa | 希普祭 |
 | 14027 | Vakusu D Head | 芙阿克烏頭兜 |
@@ -287,7 +287,7 @@
 | 14281 | Secuti D Helm・Red | 斯艾克烏頭兜・赤 |
 | 14282 | Secuti D Helm・White | 斯艾克烏頭兜・白 |
 | 14283 | Rockman D Cap | 爾歐克阿兜帽 |
-| 14284 | Issen D Hachigane・Red | 伊斯艾恩鉢金・赤 |
+| 14284 | Issen D Hachigane・Red | 一閃鉢金・赤 |
 | 14285 | 蜂針D Hachigane・Orange | 蜂針鉢金・橙 |
 | 14286 | Shanru Z Helm | 夏阿恩烏頭兜【Ｚ】 |
 | 14287 | Shanru ZF Helm | 夏阿恩烏頭兜【ＺＦ】 |

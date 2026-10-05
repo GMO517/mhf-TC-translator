@@ -37,7 +37,7 @@
 | 14531 | Seiryu・双龍D Helm | 双龍頭兜 |
 | 14532 | Seiryu・剣王D Helm | 剣王頭兜 |
 | 14533 | Seiryu・刀神D Helm | 刀神頭兜 |
-| 14534 | Seiryu・Heaven 槍D Helm | 槍頭兜・天 |
+| 14534 | Seiryu・Heaven 槍D Helm | 槍天頭兜 |
 | 14535 | Seiryu・砲皇D Helm | 砲皇頭兜 |
 | 14536 | Seiryu・鈍器獣D Helm | 鈍器獣頭兜 |
 | 14537 | Seiryu・奏帝D Helm | 奏帝頭兜 |
@@ -45,7 +45,7 @@
 | 14539 | Seiryu・斬将D Helm | 斬将頭兜 |
 | 14540 | Seiryu・銃傑D Mask | 銃傑帽子 |
 | 14541 | Seiryu・銃仙D Mask | 銃仙帽子 |
-| 14542 | Seiryu・Bow 鬼D Mask | 鬼帽子 |
+| 14542 | Seiryu・Bow 鬼D Mask | 青龍帽子 |
 | 14543 | Seiryu・磁星D Helm | 磁星頭兜 |
 | 14544 | K.Lobster Helm PD Black | 王龍蝦頭兜【ＰＤ】・黑 |
 | 14545 | K.Lobster Helm PD Green | 王龍蝦頭兜【ＰＤ】・緑 |
@@ -74,12 +74,12 @@
 | 14568 | Ruko Face PD White | 極龍面罩【ＰＤ】・白 |
 | 14569 | Ruko Face PD Blue | 極龍面罩【ＰＤ】・青 |
 | 14570 | Ruko Face PD Red | 極龍面罩【ＰＤ】・赤 |
-| 14571 | Comrada Helm PD White Red | 克歐姆阿頭兜【ＰＤ】・赤・白 |
-| 14572 | Comrada Helm PD White Blue | 克歐姆阿頭兜【ＰＤ】・青・白 |
-| 14573 | Comrada Helm PD White Yellow | 克歐姆阿頭兜【ＰＤ】・黄・白 |
+| 14571 | Comrada Helm PD White Red | 戰友頭兜【ＰＤ】・赤 |
+| 14572 | Comrada Helm PD White Blue | 戰友頭兜【ＰＤ】・青 |
+| 14573 | Comrada Helm PD White Yellow | 戰友頭兜【ＰＤ】・黄 |
 | 14574 | Otono D Head | 歐特歐恩頭兜 |
-| 14575 | Shinobi Mask・Sky D | 夏伊恩歐帽子 |
-| 14576 | Shinobi Mask・Sea D | 夏伊恩歐帽子 |
+| 14575 | Shinobi Mask・Sky D | 忍帽子 |
+| 14576 | Shinobi Mask・Sea D | 忍帽子 |
 | 14577 | Shadow Mask・D | 夏阿德歐帽子 |
 | 14578 | Shade Mask・D | 夏阿德艾帽子 |
 | 14579 | Hope D Helm | 赫歐普艾頭兜 |

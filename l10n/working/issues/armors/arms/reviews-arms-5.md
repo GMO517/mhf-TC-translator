@@ -30,20 +30,20 @@
 | 2024 | Demon F Cuffs White | 惡魔護腕【Ｆ】・白 |
 | 2025 | Chaos Cuffs White | 混沌護腕・白 |
 | 2026 | Chaos F Cuffs White | 混沌護腕【Ｆ】・白 |
-| 2027 | Shadow グローブ Purple | 暗影手套・紫 |
-| 2028 | Shadow Fグローブ Purple | 暗影手套【Ｆ】・紫 |
+| 2027 | Shadow グローブ Purple | 影手套・紫 |
+| 2028 | Shadow Fグローブ Purple | 影手套【Ｆ】・紫 |
 | 2029 | Soul グローブ Purple | 魂手套・紫 |
 | 2030 | Soul Fグローブ Purple | 魂手套【Ｆ】・紫 |
-| 2031 | Shadow グローブ Red | 暗影手套・赤 |
-| 2032 | Shadow Fグローブ Red | 暗影手套【Ｆ】・赤 |
+| 2031 | Shadow グローブ Red | 影手套・赤 |
+| 2032 | Shadow Fグローブ Red | 影手套【Ｆ】・赤 |
 | 2033 | Soul グローブ Red | 魂手套・赤 |
 | 2034 | Soul Fグローブ Red | 魂手套【Ｆ】・赤 |
-| 2035 | Shadow グローブ Green | 暗影手套・緑 |
-| 2036 | Shadow Fグローブ Green | 暗影手套【Ｆ】・緑 |
+| 2035 | Shadow グローブ Green | 影手套・緑 |
+| 2036 | Shadow Fグローブ Green | 影手套【Ｆ】・緑 |
 | 2037 | Soul グローブ Green | 魂手套・緑 |
 | 2038 | Soul Fグローブ Green | 魂手套【Ｆ】・緑 |
-| 2039 | Shadow グローブ White | 暗影手套・白 |
-| 2040 | Shadow Fグローブ White | 暗影手套【Ｆ】・白 |
+| 2039 | Shadow グローブ White | 影手套・白 |
+| 2040 | Shadow Fグローブ White | 影手套【Ｆ】・白 |
 | 2041 | Soul グローブ White | 魂手套・白 |
 | 2042 | Soul Fグローブ White | 魂手套【Ｆ】・白 |
 | 2043 | フィ Diablos ーム | 角龍護腕 |
@@ -72,7 +72,7 @@
 | 2066 | ロークF Arms | 洛可護腕【Ｆ】 |
 | 2067 | ロークF Guard | 洛可臂甲【Ｆ】 |
 | 2068 | Buruho F Arms・Blue | 布烏爾烏護腕【Ｆ】・青 |
-| 2069 | マー Gear F Guard・Blue | 格艾爾臂甲【Ｆ】 |
+| 2069 | マー Gear F Guard・Blue | 瑪爾機甲臂甲【Ｆ】・青 |
 | 2070 | Gogomoa FX Arms | 跳緋獸護腕【ＦＸ】 |
 | 2071 | Gogomoa FX Guard | 跳緋獸臂甲【ＦＸ】 |
 | 2072 | Kuraaji FX Arms | 克烏爾阿護腕【ＦＸ】 |
@@ -116,7 +116,7 @@
 | 2110 | Gravios RX Arms | 鎧龍護腕 |
 | 2111 | Bone RX Guard | 骨製臂甲 |
 | 2112 | White Snake Sleeve | 白蛇袖 |
-| 2113 | White Snake Sleeve・魁 | 魁袖・白 |
+| 2113 | White Snake Sleeve・魁 | 白蛇袖魁 |
 | 2114 | White 鳥ノ袖 | 鳥袖護腕・白 |
 | 2115 | White 鳥ノ袖・魁 | 鳥袖魁護腕・白 |
 | 2116 | Kakabu Arms | 克阿克阿護腕 |
@@ -145,18 +145,18 @@
 | 2139 | Rutare F Arms | 魯塔雷護腕【Ｆ】 |
 | 2140 | Rutare Guard | 魯塔雷臂甲 |
 | 2141 | Rutare F Guard | 魯塔雷臂甲【Ｆ】 |
-| 2142 | Rolling Flow の Kote | の籠手 |
-| 2143 | Rolling Flow の Kote・魁 | の魁籠手 |
+| 2142 | Rolling Flow の Kote | 滾流籠手 |
+| 2143 | Rolling Flow の Kote・魁 | 滾流籠手魁 |
 | 2144 | 旋転の Kote | 旋転の籠手 |
-| 2145 | 旋転の Kote・魁 | 旋転の魁籠手 |
+| 2145 | 旋転の Kote・魁 | 旋転の籠手魁 |
 | 2146 | 厳岩の Gauntlets | 厳岩の手甲 |
-| 2147 | 厳岩の Gauntlets・魁 | 厳岩の魁手甲 |
+| 2147 | 厳岩の Gauntlets・魁 | 厳岩の手甲魁 |
 | 2148 | 不破の Gauntlets | 不破の手甲 |
-| 2149 | 不破の Gauntlets・魁 | 不破の魁手甲 |
+| 2149 | 不破の Gauntlets・魁 | 不破の手甲魁 |
 | 2150 | 無想の Gauntlets | 無想の手甲 |
-| 2151 | 無想の Gauntlets・魁 | 無想の魁手甲 |
+| 2151 | 無想の Gauntlets・魁 | 無想の手甲魁 |
 | 2152 | 俊激の Sleeve | 俊激の袖 |
-| 2153 | 俊激の Sleeve・魁 | 俊激の魁袖 |
+| 2153 | 俊激の Sleeve・魁 | 俊激の袖魁 |
 | 2154 | Suifudo Arms | 斯烏芙烏護腕 |
 | 2155 | Suifudo F Arms | 斯烏芙烏護腕【Ｆ】 |
 | 2156 | Merodesu Arms | 姆艾爾歐護腕 |
@@ -219,11 +219,11 @@
 | 2213 | Galitos FZ Arms・Tea | 加里托斯護腕【ＦＺ】・茶 |
 | 2214 | Galitos FZ Arms・Red | 加里托斯護腕【ＦＺ】・赤 |
 | 2215 | Galitos FZ Arms・Black | 加里托斯護腕【ＦＺ】・黑 |
-| 2216 | Galitos FZ Arms・Water | 加里托斯水護腕【ＦＺ】 |
+| 2216 | Galitos FZ Arms・Water | 加里托斯護腕【ＦＺ】・水 |
 | 2217 | Galitos FZ Guard・Tea | 加里托斯臂甲【ＦＺ】・茶 |
 | 2218 | Galitos FZ Guard・Red | 加里托斯臂甲【ＦＺ】・赤 |
 | 2219 | Galitos FZ Guard・Black | 加里托斯臂甲【ＦＺ】・黑 |
-| 2220 | Galitos FZ Guard・Water | 加里托斯水臂甲【ＦＺ】 |
+| 2220 | Galitos FZ Guard・Water | 加里托斯臂甲【ＦＺ】・水 |
 | 2221 | Beil F Gauntlets | 貝爾手甲【Ｆ】 |
 | 2222 | ダミー | (dummy) |
 | 2223 | Jess Arms | 傑斯護腕 |
@@ -334,9 +334,9 @@
 | 2328 | Ruko フィスト SP White | 極龍拳【ＳＰ】・白 |
 | 2329 | Ruko フィスト SP Blue | 極龍拳【ＳＰ】・青 |
 | 2330 | Ruko フィスト SP Red | 極龍拳【ＳＰ】・赤 |
-| 2331 | Comrade Arms SP White Red | 戰友護腕【ＳＰ】・赤・白 |
-| 2332 | Comrade Arms SP White Blue | 戰友護腕【ＳＰ】・青・白 |
-| 2333 | Comrade Arms SP White Yellow | 戰友護腕【ＳＰ】・黄・白 |
+| 2331 | Comrade Arms SP White Red | 戰友護腕【ＳＰ】・白 |
+| 2332 | Comrade Arms SP White Blue | 戰友護腕【ＳＰ】・白 |
+| 2333 | Comrade Arms SP White Yellow | 戰友護腕【ＳＰ】・白 |
 | 2334 | Rubellite Arms | 爾烏布艾護腕 |
 | 2335 | Rubellite F Arms | 爾烏布艾護腕【Ｆ】 |
 | 2336 | Rubellite FX Arms | 爾烏布艾護腕【ＦＸ】 |
@@ -371,9 +371,9 @@
 | 2365 | Turquoise F Guard | 緑松石臂甲【Ｆ】 |
 | 2366 | Turquoise FX Guard | 緑松石臂甲【ＦＸ】 |
 | 2367 | Valued Word Sleeve | 珍言袖 |
-| 2368 | Valued Word Sleeve・魁 | 魁袖 |
-| 2369 | Valued Word Sleeve・Smart | 珍言機靈袖 |
-| 2370 | Valued Word Sleeve・Flower | 芙阿爾烏袖 |
+| 2368 | Valued Word Sleeve・魁 | 珍言袖魁 |
+| 2369 | Valued Word Sleeve・Smart | 珍言袖 |
+| 2370 | Valued Word Sleeve・Flower | 珍言袖 |
 | 2371 | 式部ノ Sleeve | 式部袖 |
 | 2372 | 式部ノ Sleeve・魁 | 式部魁袖 |
 | 2373 | 式部ノ Sleeve・Smart | 機靈袖 |
@@ -402,8 +402,8 @@
 | 2396 | Strega HC Guard | 魔女臂甲【ＨＣ】 |
 | 2397 | Zaakaa HC Arms | 茲阿克阿護腕【ＨＣ】 |
 | 2398 | Chaser HC Guard | 追撃臂甲【ＨＣ】 |
-| 2399 | Demon Lord Kote・Extreme | 德艾姆歐籠手 |
-| 2400 | Demon Lord Kote・Heaven | 德艾姆歐籠手・天 |
+| 2399 | Demon Lord Kote・Extreme | 魔王籠手 |
+| 2400 | Demon Lord Kote・Heaven | 魔王天籠手 |
 | 2401 | 童子ノ Kote・Extreme | 童子籠手 |
 | 2402 | 童子ノ Kote・Heaven | 童子籠手・天 |
 | 2403 | アナキF Arms | 阿納基護腕【Ｆ】 |
@@ -412,7 +412,7 @@
 | 2406 | アナキF Guard | 阿納基臂甲【Ｆ】 |
 | 2407 | アナキFY Guard | 阿納基臂甲 |
 | 2408 | アナキHC Guard | 阿納基臂甲【ＨＣ】 |
-| 2409 | Royal FY Arms | 爾歐伊阿護腕 |
+| 2409 | Royal FY Arms | 王室護腕 |
 | 2410 | Royal HC Arms | 王室護腕【ＨＣ】 |
 | 2411 | Lord FY Guard | 爾歐爾臂甲 |
 | 2412 | Lord HC Guard | 爾歐爾臂甲【ＨＣ】 |
@@ -433,12 +433,12 @@
 | 2427 | Ceanataur RX Arms | 鎌蟹護腕 |
 | 2428 | Espinas RX Grip | 棘龍握套 |
 | 2429 | Monodevil RX Guard | 姆歐恩歐臂甲 |
-| 2430 | Cayssis Arms Water | 凱西斯水護腕 |
-| 2431 | Cayssis F Arms Water | 凱西斯水護腕【Ｆ】 |
-| 2432 | Cayssis FZ Arms Water | 凱西斯水護腕【ＦＺ】 |
-| 2433 | Cayssis Guard Water | 凱西斯水臂甲 |
-| 2434 | Cayssis F Guard Water | 凱西斯水臂甲【Ｆ】 |
-| 2435 | Cayssis FZ Guard Water | 凱西斯水臂甲【ＦＺ】 |
+| 2430 | Cayssis Arms Water | 凱西斯護腕・水 |
+| 2431 | Cayssis F Arms Water | 凱西斯護腕【Ｆ】・水 |
+| 2432 | Cayssis FZ Arms Water | 凱西斯護腕【ＦＺ】・水 |
+| 2433 | Cayssis Guard Water | 凱西斯臂甲・水 |
+| 2434 | Cayssis F Guard Water | 凱西斯臂甲【Ｆ】・水 |
+| 2435 | Cayssis FZ Guard Water | 凱西斯臂甲【ＦＺ】・水 |
 | 2436 | Cayssis Arms Red | 凱西斯護腕・赤 |
 | 2437 | Cayssis F Arms Red | 凱西斯護腕【Ｆ】・赤 |
 | 2438 | Cayssis FZ Arms Red | 凱西斯護腕【ＦＺ】・赤 |
@@ -457,10 +457,10 @@
 | 2451 | Cayssis Guard Orange | 凱西斯臂甲・橙 |
 | 2452 | Cayssis F Guard Orange | 凱西斯臂甲【Ｆ】・橙 |
 | 2453 | Cayssis FZ Guard Orange | 凱西斯臂甲【ＦＺ】・橙 |
-| 2454 | Rolling Sky Kote | 滾天籠手 |
-| 2455 | Rolling Sky Kote・魁 | 魁籠手 |
-| 2456 | Rolling Earth Kote | 滾地籠手・地 |
-| 2457 | Rolling Earth Kote・魁 | 魁籠手・地 |
+| 2454 | Rolling Sky Kote | 滾天籠手・天 |
+| 2455 | Rolling Sky Kote・魁 | 滾天籠手魁・天 |
+| 2456 | Rolling Earth Kote | 滾地籠手 |
+| 2457 | Rolling Earth Kote・魁 | 滾地籠手魁 |
 | 2458 | Cubie Arms | 方塊護腕 |
 | 2459 | Cubie F Arms | 方塊護腕【Ｆ】 |
 | 2460 | Cubie FZ Arms | 方塊護腕【ＦＺ】 |

@@ -178,12 +178,12 @@
 | 9172 | Monodevil G Leggings | 單眼惡魔裹腿【Ｇ】 |
 | 9173 | Monodevil GF Leggings | 單眼惡魔裹腿【ＧＦ】 |
 | 9174 | Monodevil GX Leggings | 單眼惡魔裹腿【ＧＸ】 |
-| 9175 | Black Diablos G Greaves | 角龍護腿【Ｇ】・黑 |
-| 9176 | Black Diablos GF Greaves | 角龍護腿【ＧＦ】・黑 |
-| 9177 | Black Diablos GX Greaves | 角龍護腿【ＧＸ】・黑 |
-| 9178 | Black Diablos G Leggings | 角龍裹腿【Ｇ】・黑 |
-| 9179 | Black Diablos GF Leggings | 角龍裹腿【ＧＦ】・黑 |
-| 9180 | Black Diablos GX Leggings | 角龍裹腿【ＧＸ】・黑 |
+| 9175 | Black Diablos G Greaves | 黑角龍護腿【Ｇ】 |
+| 9176 | Black Diablos GF Greaves | 黑角龍護腿【ＧＦ】 |
+| 9177 | Black Diablos GX Greaves | 黑角龍護腿【ＧＸ】 |
+| 9178 | Black Diablos G Leggings | 黑角龍裹腿【Ｇ】 |
+| 9179 | Black Diablos GF Leggings | 黑角龍裹腿【ＧＦ】 |
+| 9180 | Black Diablos GX Leggings | 黑角龍裹腿【ＧＸ】 |
 | 9181 | Wadatsumi GX【Greaves 】 | 綿津見護腿【ＧＸ】 |
 | 9182 | Okami GX【Greaves 】 | 狼護腿【ＧＸ】 |
 | 9183 | Odiva GX Greaves | 奧蒂瓦護腿【ＧＸ】 |
@@ -270,12 +270,12 @@
 | 9264 | Raviente G Leggings | 大巖龍裹腿【Ｇ】 |
 | 9265 | Raviente GF Leggings | 大巖龍裹腿【ＧＦ】 |
 | 9266 | Raviente GX Leggings | 大巖龍裹腿【ＧＸ】 |
-| 9267 | White Hypnoc G Greaves | 眠鳥護腿【Ｇ】・白 |
-| 9268 | White Hypnoc GF Greaves | 眠鳥護腿【ＧＦ】・白 |
-| 9269 | White Hypnoc GX Greaves | 眠鳥護腿【ＧＸ】・白 |
-| 9270 | White Hypnoc G Leggings | 眠鳥裹腿【Ｇ】・白 |
-| 9271 | White Hypnoc GF Leggings | 眠鳥裹腿【ＧＦ】・白 |
-| 9272 | White Hypnoc GX Leggings | 眠鳥裹腿【ＧＸ】・白 |
+| 9267 | White Hypnoc G Greaves | 白眠鳥護腿【Ｇ】 |
+| 9268 | White Hypnoc GF Greaves | 白眠鳥護腿【ＧＦ】 |
+| 9269 | White Hypnoc GX Greaves | 白眠鳥護腿【ＧＸ】 |
+| 9270 | White Hypnoc G Leggings | 白眠鳥裹腿【Ｇ】 |
+| 9271 | White Hypnoc GF Leggings | 白眠鳥裹腿【ＧＦ】 |
+| 9272 | White Hypnoc GX Leggings | 白眠鳥裹腿【ＧＸ】 |
 | 9273 | Vichi Feet | 維奇足 |
 | 9274 | Vichi F Feet | 維奇足【Ｆ】 |
 | 9275 | Vichi FZ Feet | 維奇足【ＦＺ】 |

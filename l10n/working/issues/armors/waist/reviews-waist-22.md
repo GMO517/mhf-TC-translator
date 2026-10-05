@@ -138,20 +138,20 @@
 | 10632 | Carrol ZP Coat・White | 可羅腰衣【ＺＰ】・白 |
 | 10633 | Carrol ZP Belt・Red | 可羅腰帶【ＺＰ】・赤 |
 | 10634 | Carrol ZP Coat・Red | 可羅腰衣【ＺＰ】・赤 |
-| 10635 | Blize Faulds | 布萊茲腰甲 |
-| 10636 | Blize F Faulds | 布萊茲腰甲【Ｆ】 |
+| 10635 | Blize Faulds | 布來茲腰甲 |
+| 10636 | Blize F Faulds | 布來茲腰甲【Ｆ】 |
 | 10637 | Blize FY Faulds | 布伊茲艾腰甲 |
-| 10638 | Blize HS Faulds | 布萊茲腰甲【ＨＳ】 |
-| 10639 | Blize G Faulds | 布萊茲腰甲【Ｇ】 |
-| 10640 | Blize GF Faulds | 布萊茲腰甲【ＧＦ】 |
-| 10641 | Blize GX Faulds | 布萊茲腰甲【ＧＸ】 |
-| 10642 | Blize Coat | 布萊茲腰衣 |
-| 10643 | Blize F Coat | 布萊茲腰衣【Ｆ】 |
+| 10638 | Blize HS Faulds | 布來茲腰甲【ＨＳ】 |
+| 10639 | Blize G Faulds | 布來茲腰甲【Ｇ】 |
+| 10640 | Blize GF Faulds | 布來茲腰甲【ＧＦ】 |
+| 10641 | Blize GX Faulds | 布來茲腰甲【ＧＸ】 |
+| 10642 | Blize Coat | 布來茲腰衣 |
+| 10643 | Blize F Coat | 布來茲腰衣【Ｆ】 |
 | 10644 | Blize FY Coat | 布伊茲艾腰衣 |
-| 10645 | Blize HS Coat | 布萊茲腰衣【ＨＳ】 |
-| 10646 | Blize G Coat | 布萊茲腰衣【Ｇ】 |
-| 10647 | Blize GF Coat | 布萊茲腰衣【ＧＦ】 |
-| 10648 | Blize GX Coat | 布萊茲腰衣【ＧＸ】 |
+| 10645 | Blize HS Coat | 布來茲腰衣【ＨＳ】 |
+| 10646 | Blize G Coat | 布來茲腰衣【Ｇ】 |
+| 10647 | Blize GF Coat | 布來茲腰衣【ＧＦ】 |
+| 10648 | Blize GX Coat | 布來茲腰衣【ＧＸ】 |
 | 10649 | Higakure C Faulds | 赫伊格阿腰甲 |
 | 10650 | Harokyu D Coil | 赫阿爾歐腰甲 |
 | 10651 | Evol D Coil・White | 艾芙歐爾腰甲・白 |
@@ -160,12 +160,12 @@
 | 10654 | Evol D Coil・Purple | 艾芙歐爾腰甲・紫 |
 | 10655 | 狩衛部隊 Coil・男 | 狩衛部隊男腰甲 |
 | 10656 | 狩衛部隊 Coil・女 | 狩衛部隊女腰甲 |
-| 10657 | Blue Ice Emperor ZP Coil | 冰帝腰甲【ＺＰ】・青 |
-| 10658 | Blue Ice Emperor ZP Coat | 冰帝腰衣【ＺＰ】・青 |
-| 10659 | White Ice Emperor ZP Coil | 冰帝腰甲【ＺＰ】・白 |
-| 10660 | White Ice Emperor ZP Coat | 冰帝腰衣【ＺＰ】・白 |
-| 10661 | Red Ice Emperor ZP Coil | 冰帝腰甲【ＺＰ】・赤 |
-| 10662 | Red Ice Emperor ZP Coat | 冰帝腰衣【ＺＰ】・赤 |
+| 10657 | Blue Ice Emperor ZP Coil | 青冰帝腰甲【ＺＰ】 |
+| 10658 | Blue Ice Emperor ZP Coat | 青冰帝腰衣【ＺＰ】 |
+| 10659 | White Ice Emperor ZP Coil | 白冰帝腰甲【ＺＰ】 |
+| 10660 | White Ice Emperor ZP Coat | 白冰帝腰衣【ＺＰ】 |
+| 10661 | Red Ice Emperor ZP Coil | 赤冰帝腰甲【ＺＰ】 |
+| 10662 | Red Ice Emperor ZP Coat | 赤冰帝腰衣【ＺＰ】 |
 | 10663 | Wander Coil・Blue | 流浪腰甲・青 |
 | 10664 | Wander F Coil・Blue | 流浪腰甲【Ｆ】・青 |
 | 10665 | Wander FZ Coil・Blue | 流浪腰甲【ＦＺ】・青 |
@@ -370,9 +370,9 @@
 | 10864 | Wander D Coil・Red | 沃阿恩艾腰甲・赤 |
 | 10865 | Wander D Coil・White | 沃阿恩艾腰甲・白 |
 | 10866 | Wander D Coil・Black | 沃阿恩艾腰甲・黑 |
-| 10867 | Blue Ice Emperor D Coil | 伊克艾斯腰甲・青 |
-| 10868 | White Ice Emperor D Coil | 伊克艾斯腰甲・白 |
-| 10869 | Red Ice Emperor D Coil | 伊克艾斯腰甲・赤 |
+| 10867 | Blue Ice Emperor D Coil | 青冰帝腰甲 |
+| 10868 | White Ice Emperor D Coil | 白冰帝腰甲 |
+| 10869 | Red Ice Emperor D Coil | 赤冰帝腰甲 |
 | 10870 | Rance C Faulds | 爾阿恩艾腰甲 |
 | 10871 | Santa D Faulds | 斯阿恩阿腰甲 |
 | 10872 | Anteka D Faulds | 雪鹿腰甲 |
@@ -413,7 +413,7 @@
 | 10907 | Pokara D Coat | 普歐克阿腰衣 |
 | 10908 | Genesis D【腰当て】 | 格艾恩艾腰當 |
 | 10909 | Motion D【腰当て】 | 姆歐特伊腰當 |
-| 10910 | Lightning D【腰当て】 | 爾伊格伊腰當 |
+| 10910 | Lightning D【腰当て】 | 雷光腰當 |
 | 10911 | Thunder D【腰当て】 | 雷腰當 |
 | 10912 | Toridcless D Faulds | 特歐爾伊腰甲 |
 | 10913 | Toridcless D Coat | 特歐爾伊腰衣 |
@@ -491,7 +491,7 @@
 | 10985 | Two-tone ZP Coil | 雙色腰甲【ＺＰ】 |
 | 10986 | Two-tone ZP Coat | 雙色腰衣【ＺＰ】 |
 | 10987 | Wasou Waistband ZP | 和裝腰帶【ＺＰ】 |
-| 10988 | Wasou Colour Belt ZP | 沃阿斯歐腰帶【ＺＰ】 |
+| 10988 | Wasou Colour Belt ZP | 和裝腰帶【ＺＰ】 |
 | 10989 | Howla D Coil | 赫歐沃阿腰甲 |
 | 10990 | Panse D Coil | 普阿恩艾腰甲 |
 | 10991 | Marriage D Coil | 姆阿爾伊腰甲 |

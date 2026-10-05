@@ -151,36 +151,36 @@
 | 9145 | Once G Vest | 一度背心【Ｇ】 |
 | 9146 | Once GF Vest | 一度背心【ＧＦ】 |
 | 9147 | Once GX Vest | 一度背心【ＧＸ】 |
-| 9148 | Kurai 【胴当て】 | 暗鎧甲 |
-| 9149 | Kurai F【胴当て】 | 暗鎧甲【Ｆ】 |
-| 9150 | Kurai FX【胴当て】 | 暗鎧甲【ＦＸ】 |
-| 9151 | Kurai G【胴当て】 | 暗鎧甲【Ｇ】 |
-| 9152 | Kurai GF【胴当て】 | 暗鎧甲【ＧＦ】 |
-| 9153 | Kurai GX【胴当て】 | 暗鎧甲【ＧＸ】 |
-| 9154 | Kurai 【胴当て】 | 暗鎧甲 |
-| 9155 | Kurai F【胴当て】 | 暗鎧甲【Ｆ】 |
-| 9156 | Kurai FX【胴当て】 | 暗鎧甲【ＦＸ】 |
-| 9157 | Kurai G【胴当て】 | 暗鎧甲【Ｇ】 |
-| 9158 | Kurai GF【胴当て】 | 暗鎧甲【ＧＦ】 |
-| 9159 | Kurai GX【胴当て】 | 暗鎧甲【ＧＸ】 |
+| 9148 | Kurai 【胴当て】 | 暗胴當 |
+| 9149 | Kurai F【胴当て】 | 暗胴當【Ｆ】 |
+| 9150 | Kurai FX【胴当て】 | 暗胴當【ＦＸ】 |
+| 9151 | Kurai G【胴当て】 | 暗胴當【Ｇ】 |
+| 9152 | Kurai GF【胴当て】 | 暗胴當【ＧＦ】 |
+| 9153 | Kurai GX【胴当て】 | 暗胴當【ＧＸ】 |
+| 9154 | Kurai 【胴当て】 | 暗胴當 |
+| 9155 | Kurai F【胴当て】 | 暗胴當【Ｆ】 |
+| 9156 | Kurai FX【胴当て】 | 暗胴當【ＦＸ】 |
+| 9157 | Kurai G【胴当て】 | 暗胴當【Ｇ】 |
+| 9158 | Kurai GF【胴当て】 | 暗胴當【ＧＦ】 |
+| 9159 | Kurai GX【胴当て】 | 暗胴當【ＧＸ】 |
 | 9160 | Monodevil G Mail | 單眼惡魔鎧甲【Ｇ】 |
 | 9161 | Monodevil GF Mail | 單眼惡魔鎧甲【ＧＦ】 |
 | 9162 | Monodevil GX Mail | 單眼惡魔鎧甲【ＧＸ】 |
 | 9163 | Monodevil G Vest | 單眼惡魔背心【Ｇ】 |
 | 9164 | Monodevil GF Vest | 單眼惡魔背心【ＧＦ】 |
 | 9165 | Monodevil GX Vest | 單眼惡魔背心【ＧＸ】 |
-| 9166 | Black Diablos G Mail | 角龍鎧甲【Ｇ】・黑 |
-| 9167 | Black Diablos GF Mail | 角龍鎧甲【ＧＦ】・黑 |
-| 9168 | Black Diablos GX Mail | 角龍鎧甲【ＧＸ】・黑 |
-| 9169 | Black Diablos G Vest | 角龍背心【Ｇ】・黑 |
-| 9170 | Black Diablos GF Vest | 角龍背心【ＧＦ】・黑 |
-| 9171 | Black Diablos GX Vest | 角龍背心【ＧＸ】・黑 |
+| 9166 | Black Diablos G Mail | 黑角龍鎧甲【Ｇ】 |
+| 9167 | Black Diablos GF Mail | 黑角龍鎧甲【ＧＦ】 |
+| 9168 | Black Diablos GX Mail | 黑角龍鎧甲【ＧＸ】 |
+| 9169 | Black Diablos G Vest | 黑角龍背心【Ｇ】 |
+| 9170 | Black Diablos GF Vest | 黑角龍背心【ＧＦ】 |
+| 9171 | Black Diablos GX Vest | 黑角龍背心【ＧＸ】 |
 | 9172 | Wadatsumi GX [Chestplate 】 | 綿津見胸甲【ＧＸ】 |
 | 9173 | Okami GX [Chestplate 】 | 狼胸甲【ＧＸ】 |
 | 9174 | Odiva GX Mail | 奧蒂瓦鎧甲【ＧＸ】 |
 | 9175 | Odiva GX Vest | 奧蒂瓦背心【ＧＸ】 |
-| 9176 | Elegance GX【胴当て】 | 雅鎧甲【ＧＸ】 |
-| 9177 | Grace GX【胴当て】 | 恩寵鎧甲【ＧＸ】 |
+| 9176 | Elegance GX【胴当て】 | 雅胴當【ＧＸ】 |
+| 9177 | Grace GX【胴当て】 | 恩寵胴當【ＧＸ】 |
 | 9178 | Vangis Mail | 芙阿恩伊鎧甲 |
 | 9179 | Vangis G Mail | 芙阿恩伊鎧甲【Ｇ】 |
 | 9180 | Vangis GF Mail | 芙阿恩伊鎧甲【ＧＦ】 |
@@ -221,12 +221,12 @@
 | 9215 | Torid G Vest | 鳥背心【Ｇ】 |
 | 9216 | Torid GF Vest | 鳥背心【ＧＦ】 |
 | 9217 | Torid GX Vest | 鳥背心【ＧＸ】 |
-| 9218 | Lightning G【胴当て】 | 雷光鎧甲【Ｇ】 |
-| 9219 | Lightning GF【胴当て】 | 雷光鎧甲【ＧＦ】 |
-| 9220 | Lightning GX【胴当て】 | 雷光鎧甲【ＧＸ】 |
-| 9221 | Thunder G【胴当て】 | 雷鎧甲【Ｇ】 |
-| 9222 | Thunder GF【胴当て】 | 雷鎧甲【ＧＦ】 |
-| 9223 | Thunder GX【胴当て】 | 雷鎧甲【ＧＸ】 |
+| 9218 | Lightning G【胴当て】 | 雷光胴當【Ｇ】 |
+| 9219 | Lightning GF【胴当て】 | 雷光胴當【ＧＦ】 |
+| 9220 | Lightning GX【胴当て】 | 雷光胴當【ＧＸ】 |
+| 9221 | Thunder G【胴当て】 | 雷胴當【Ｇ】 |
+| 9222 | Thunder GF【胴当て】 | 雷胴當【ＧＦ】 |
+| 9223 | Thunder GX【胴当て】 | 雷胴當【ＧＸ】 |
 | 9224 | B.Espinas G Muscle | 棘茶龍筋肉衣【Ｇ】 |
 | 9225 | B.Espinas GF Muscle | 棘茶龍筋肉衣【ＧＦ】 |
 | 9226 | B.Espinas GX Muscle | 棘茶龍筋肉衣【ＧＸ】 |
@@ -261,12 +261,12 @@
 | 9255 | Raviente G Vest | 大巖龍背心【Ｇ】 |
 | 9256 | Raviente GF Vest | 大巖龍背心【ＧＦ】 |
 | 9257 | Raviente GX Vest | 大巖龍背心【ＧＸ】 |
-| 9258 | White Hypnoc G Mail | 眠鳥鎧甲【Ｇ】・白 |
-| 9259 | White Hypnoc GF Mail | 眠鳥鎧甲【ＧＦ】・白 |
-| 9260 | White Hypnoc GX Mail | 眠鳥鎧甲【ＧＸ】・白 |
-| 9261 | White Hypnoc G Vest | 眠鳥背心【Ｇ】・白 |
-| 9262 | White Hypnoc GF Vest | 眠鳥背心【ＧＦ】・白 |
-| 9263 | White Hypnoc GX Vest | 眠鳥背心【ＧＸ】・白 |
+| 9258 | White Hypnoc G Mail | 白眠鳥鎧甲【Ｇ】 |
+| 9259 | White Hypnoc GF Mail | 白眠鳥鎧甲【ＧＦ】 |
+| 9260 | White Hypnoc GX Mail | 白眠鳥鎧甲【ＧＸ】 |
+| 9261 | White Hypnoc G Vest | 白眠鳥背心【Ｇ】 |
+| 9262 | White Hypnoc GF Vest | 白眠鳥背心【ＧＦ】 |
+| 9263 | White Hypnoc GX Vest | 白眠鳥背心【ＧＸ】 |
 | 9264 | Vichi Mail | 維奇鎧甲 |
 | 9265 | Vichi F Mail | 維奇鎧甲【Ｆ】 |
 | 9266 | Vichi FZ Mail | 維奇鎧甲【ＦＺ】 |
@@ -368,13 +368,13 @@
 | 9362 | Plug GS Vest:02 | 插頭背心【ＧＳ】 |
 | 9363 | Plug GP Vest:02 | 插頭背心【ＧＰ】 |
 | 9364 | Mark.06 Suit | 馬克06套裝 |
-| 9365 | Mark.06F Suit | 套裝 |
+| 9365 | Mark.06F Suit | 馬克06套裝 |
 | 9366 | Mark.06FZ Suit | 馬克06套裝【ＦＺ】 |
 | 9367 | Mark.06HS Suit | 馬克06套裝【ＨＳ】 |
 | 9368 | Mark.06GS Suit | 馬克06套裝【ＧＳ】 |
 | 9369 | Mark.06GP Suit | 馬克06套裝【ＧＰ】 |
 | 9370 | Mark.06 Vest | 馬克06背心 |
-| 9371 | Mark.06F Vest | 背心 |
+| 9371 | Mark.06F Vest | 馬克06背心 |
 | 9372 | Mark.06FZ Vest | 馬克06背心【ＦＺ】 |
 | 9373 | Mark.06HS Vest | 馬克06背心【ＨＳ】 |
 | 9374 | Mark.06GS Vest | 馬克06背心【ＧＳ】 |

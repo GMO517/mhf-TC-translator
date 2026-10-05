@@ -137,9 +137,9 @@
 | 3631 | Golden Kote・G | 金籠手【Ｇ】 |
 | 3632 | Golden Kote・GF | 金籠手【ＧＦ】 |
 | 3633 | Golden Kote・GX | 金籠手【ＧＸ】 |
-| 3634 | Puppeteer ノ Kote・G | 籠手【Ｇ】 |
-| 3635 | Puppeteer ノ Kote・GF | 籠手【ＧＦ】 |
-| 3636 | Puppeteer ノ Kote・GX | 籠手【ＧＸ】 |
+| 3634 | Puppeteer ノ Kote・G | 操偶籠手【Ｇ】 |
+| 3635 | Puppeteer ノ Kote・GF | 操偶籠手【ＧＦ】 |
+| 3636 | Puppeteer ノ Kote・GX | 操偶籠手【ＧＸ】 |
 | 3637 | Rebidiora Gクロウ | 雷極龍爪【Ｇ】 |
 | 3638 | Rebidiora GFクロウ | 雷極龍爪【ＧＦ】 |
 | 3639 | Rebidiora GXクロウ | 雷極龍爪【ＧＸ】 |
@@ -176,9 +176,9 @@
 | 3670 | Disu G Guard | 德伊斯烏臂甲【Ｇ】 |
 | 3671 | Disu GF Guard | 德伊斯烏臂甲【ＧＦ】 |
 | 3672 | Disu GX Guard | 德伊斯烏臂甲【ＧＸ】 |
-| 3673 | Shadow Kote・G | 暗影籠手【Ｇ】 |
-| 3674 | Shadow Kote・GF | 暗影籠手【ＧＦ】 |
-| 3675 | Shadow Kote・GX | 暗影籠手【ＧＸ】 |
+| 3673 | Shadow Kote・G | 影籠手【Ｇ】 |
+| 3674 | Shadow Kote・GF | 影籠手【ＧＦ】 |
+| 3675 | Shadow Kote・GX | 影籠手【ＧＸ】 |
 | 3676 | Shade Kote・G | 影籠手【Ｇ】 |
 | 3677 | Shade Kote・GF | 影籠手【ＧＦ】 |
 | 3678 | Shade Kote・GX | 影籠手【ＧＸ】 |
@@ -214,14 +214,14 @@
 | 3708 | Genbu・刀神GF Arms | 刀神護腕【Ｆ】 |
 | 3709 | Seiryu・刀神G Arms | 青龍護腕【Ｇ】 |
 | 3710 | Seiryu・刀神GF Arms | 刀神護腕【Ｆ】 |
-| 3711 | Byakko・Heaven 槍G Arms | 白虎護腕【Ｇ】・天 |
-| 3712 | Byakko・Heaven 槍GF Arms | 槍護腕【Ｆ】・天 |
-| 3713 | Suzaku・Heaven 槍G Arms | 朱雀護腕【Ｇ】・天 |
-| 3714 | Suzaku・Heaven 槍GF Arms | 槍護腕【Ｆ】・天 |
-| 3715 | Genbu・Heaven 槍G Arms | 玄武護腕【Ｇ】・天 |
-| 3716 | Genbu・Heaven 槍GF Arms | 槍護腕【Ｆ】・天 |
-| 3717 | Seiryu・Heaven 槍G Arms | 青龍護腕【Ｇ】・天 |
-| 3718 | Seiryu・Heaven 槍GF Arms | 槍護腕【Ｆ】・天 |
+| 3711 | Byakko・Heaven 槍G Arms | 白虎天護腕【Ｇ】 |
+| 3712 | Byakko・Heaven 槍GF Arms | 槍天護腕【Ｆ】 |
+| 3713 | Suzaku・Heaven 槍G Arms | 朱雀天護腕【Ｇ】 |
+| 3714 | Suzaku・Heaven 槍GF Arms | 槍天護腕【Ｆ】 |
+| 3715 | Genbu・Heaven 槍G Arms | 玄武天護腕【Ｇ】 |
+| 3716 | Genbu・Heaven 槍GF Arms | 槍天護腕【Ｆ】 |
+| 3717 | Seiryu・Heaven 槍G Arms | 青龍天護腕【Ｇ】 |
+| 3718 | Seiryu・Heaven 槍GF Arms | 槍天護腕【Ｆ】 |
 | 3719 | Byakko・砲皇G Arms | 白虎護腕【Ｇ】 |
 | 3720 | Byakko・砲皇GF Arms | 砲皇護腕【Ｆ】 |
 | 3721 | Suzaku・砲皇G Arms | 朱雀護腕【Ｇ】 |
@@ -263,13 +263,13 @@
 | 3757 | Seiryu・銃仙G Guard | 青龍臂甲【Ｇ】 |
 | 3758 | Seiryu・銃仙GF Guard | 銃仙臂甲【Ｆ】 |
 | 3759 | Byakko・Bow 鬼G Guard | 白虎臂甲【Ｇ】 |
-| 3760 | Byakko・Bow 鬼GF Guard | 鬼臂甲【Ｆ】 |
+| 3760 | Byakko・Bow 鬼GF Guard | 白虎臂甲【Ｆ】 |
 | 3761 | Suzaku・Bow 鬼G Guard | 朱雀臂甲【Ｇ】 |
-| 3762 | Suzaku・Bow 鬼GF Guard | 鬼臂甲【Ｆ】 |
+| 3762 | Suzaku・Bow 鬼GF Guard | 朱雀臂甲【Ｆ】 |
 | 3763 | Genbu・Bow 鬼G Guard | 玄武臂甲【Ｇ】 |
-| 3764 | Genbu・Bow 鬼GF Guard | 鬼臂甲【Ｆ】 |
+| 3764 | Genbu・Bow 鬼GF Guard | 玄武臂甲【Ｆ】 |
 | 3765 | Seiryu・Bow 鬼G Guard | 青龍臂甲【Ｇ】 |
-| 3766 | Seiryu・Bow 鬼GF Guard | 鬼臂甲【Ｆ】 |
+| 3766 | Seiryu・Bow 鬼GF Guard | 青龍臂甲【Ｆ】 |
 | 3767 | Odiva G Arms | 奧蒂瓦護腕【Ｇ】 |
 | 3768 | Odiva G Guard | 奧蒂瓦臂甲【Ｇ】 |
 | 3769 | Blitz G Arms | 布伊特護腕【Ｇ】 |
@@ -290,7 +290,7 @@
 | 3784 | エミットG Guard | 艾米托臂甲【Ｇ】 |
 | 3785 | Diboa G Arms | 迪博阿護腕【Ｇ】 |
 | 3786 | Diboa G Guard | 迪博阿臂甲【Ｇ】 |
-| 3787 | Demon Lord ノ手套 | 惡魔護腕 |
+| 3787 | Demon Lord ノ手套 | 魔王護腕 |
 | 3788 | 童子ノ手套 | 童子手套護腕 |
 | 3789 | レアー Arms | 雷阿護腕 |
 | 3790 | ハーデス Arms | 哈德斯護腕 |
@@ -340,18 +340,18 @@
 | 3834 | Pics HC Guard・Black | 皮克斯臂甲【ＨＣ】・黑 |
 | 3835 | Pics HS Guard・Black | 皮克斯臂甲【ＨＳ】・黑 |
 | 3836 | Pics GS Guard・Black | 皮克斯臂甲【ＧＳ】・黑 |
-| 3837 | Pics Arms・Water | 皮克斯水護腕 |
-| 3838 | Pics F Arms・Water | 皮克斯水護腕【Ｆ】 |
-| 3839 | Pics FZ Arms・Water | 皮克斯水護腕【ＦＺ】 |
-| 3840 | Pics HC Arms・Water | 皮克斯水護腕【ＨＣ】 |
-| 3841 | Pics HS Arms・Water | 皮克斯水護腕【ＨＳ】 |
-| 3842 | Pics GS Arms・Water | 皮克斯水護腕【ＧＳ】 |
-| 3843 | Pics Guard・Water | 皮克斯水臂甲 |
-| 3844 | Pics F Guard・Water | 皮克斯水臂甲【Ｆ】 |
-| 3845 | Pics FZ Guard・Water | 皮克斯水臂甲【ＦＺ】 |
-| 3846 | Pics HC Guard・Water | 皮克斯水臂甲【ＨＣ】 |
-| 3847 | Pics HS Guard・Water | 皮克斯水臂甲【ＨＳ】 |
-| 3848 | Pics GS Guard・Water | 皮克斯水臂甲【ＧＳ】 |
+| 3837 | Pics Arms・Water | 皮克斯護腕・水 |
+| 3838 | Pics F Arms・Water | 皮克斯護腕【Ｆ】・水 |
+| 3839 | Pics FZ Arms・Water | 皮克斯護腕【ＦＺ】・水 |
+| 3840 | Pics HC Arms・Water | 皮克斯護腕【ＨＣ】・水 |
+| 3841 | Pics HS Arms・Water | 皮克斯護腕【ＨＳ】・水 |
+| 3842 | Pics GS Arms・Water | 皮克斯護腕【ＧＳ】・水 |
+| 3843 | Pics Guard・Water | 皮克斯臂甲・水 |
+| 3844 | Pics F Guard・Water | 皮克斯臂甲【Ｆ】・水 |
+| 3845 | Pics FZ Guard・Water | 皮克斯臂甲【ＦＺ】・水 |
+| 3846 | Pics HC Guard・Water | 皮克斯臂甲【ＨＣ】・水 |
+| 3847 | Pics HS Guard・Water | 皮克斯臂甲【ＨＳ】・水 |
+| 3848 | Pics GS Guard・Water | 皮克斯臂甲【ＧＳ】・水 |
 | 3849 | Bright Arms | 輝護腕 |
 | 3850 | Bright F Arms | 輝護腕【Ｆ】 |
 | 3851 | Bright FZ Arms | 輝護腕【ＦＺ】 |

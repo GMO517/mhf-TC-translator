@@ -9,12 +9,12 @@
 | 8003 | Tenpi Foot 着HS・Black | 着護腿【ＨＳ】・黑 |
 | 8004 | Tenpi Foot 着GS・Black | 着護腿【ＧＳ】・黑 |
 | 8005 | Tenpi Foot 着GP・Black | 着護腿【ＧＰ】・黑 |
-| 8006 | Tenpi ノ鉄衣・White | 天陽護腿 |
-| 8007 | Tenpi ノ鉄衣F・White | 天陽護腿【Ｆ】 |
-| 8008 | Tenpi ノ鉄衣FZ・White | 天陽護腿【ＦＺ】 |
-| 8009 | Tenpi ノ鉄衣HS・White | 天陽護腿【ＨＳ】 |
-| 8010 | Tenpi ノ鉄衣GS・White | 天陽護腿【ＧＳ】 |
-| 8011 | Tenpi ノ鉄衣GP・White | 天陽護腿【ＧＰ】 |
+| 8006 | Tenpi ノ鉄衣・White | 天陽護腿・白 |
+| 8007 | Tenpi ノ鉄衣F・White | 天陽護腿【Ｆ】・白 |
+| 8008 | Tenpi ノ鉄衣FZ・White | 天陽護腿【ＦＺ】・白 |
+| 8009 | Tenpi ノ鉄衣HS・White | 天陽護腿【ＨＳ】・白 |
+| 8010 | Tenpi ノ鉄衣GS・White | 天陽護腿【ＧＳ】・白 |
+| 8011 | Tenpi ノ鉄衣GP・White | 天陽護腿【ＧＰ】・白 |
 | 8012 | Tenpi Foot 着・White | 着護腿・白 |
 | 8013 | Tenpi Foot 着F・White | 着護腿【Ｆ】・白 |
 | 8014 | Tenpi Foot 着FZ・White | 着護腿【ＦＺ】・白 |
@@ -210,9 +210,9 @@
 | 8204 | Noir G Greaves | 黑護腿【Ｇ】 |
 | 8205 | Noir GF Greaves | 黑護腿【ＧＦ】 |
 | 8206 | Noir GX Greaves | 黑護腿【ＧＸ】 |
-| 8207 | Demon Lord ノ足枷G | 惡魔護腿【Ｇ】 |
-| 8208 | Demon Lord ノ足枷GF | 惡魔護腿【Ｆ】 |
-| 8209 | Demon Lord ノ足枷GX | 惡魔護腿【ＧＸ】 |
+| 8207 | Demon Lord ノ足枷G | 魔王護腿【Ｇ】 |
+| 8208 | Demon Lord ノ足枷GF | 魔王護腿【Ｆ】 |
+| 8209 | Demon Lord ノ足枷GX | 魔王護腿【ＧＸ】 |
 | 8210 | 童子ノ足枷G | 童子足枷護腿【Ｇ】 |
 | 8211 | 童子ノ足枷GF | 童子足枷護腿【Ｆ】 |
 | 8212 | 童子ノ足枷GX | 童子足枷護腿【ＧＸ】 |
@@ -330,12 +330,12 @@
 | 8324 | Bonito G Leggings | 布歐恩伊裹腿【Ｇ】 |
 | 8325 | Bonito GF Leggings | 布歐恩伊裹腿【ＧＦ】 |
 | 8326 | Bonito GX Leggings | 布歐恩伊裹腿【ＧＸ】 |
-| 8327 | Silver Ruler G【 Hakama 】 | 爾烏爾艾袴【Ｇ】・銀 |
-| 8328 | Silver Ruler GF【 Hakama 】 | 爾烏爾艾袴【ＧＦ】・銀 |
-| 8329 | Silver Ruler GX【 Hakama 】 | 爾烏爾艾袴【ＧＸ】・銀 |
-| 8330 | Silver Control G【 Hakama 】 | 克歐恩歐袴【Ｇ】・銀 |
-| 8331 | Silver Control GF【 Hakama 】 | 克歐恩歐袴【ＧＦ】・銀 |
-| 8332 | Silver Control GX【 Hakama 】 | 克歐恩歐袴【ＧＸ】・銀 |
+| 8327 | Silver Ruler G【 Hakama 】 | 銀統治袴【Ｇ】 |
+| 8328 | Silver Ruler GF【 Hakama 】 | 銀統治袴【ＧＦ】 |
+| 8329 | Silver Ruler GX【 Hakama 】 | 銀統治袴【ＧＸ】 |
+| 8330 | Silver Control G【 Hakama 】 | 銀統御袴【Ｇ】 |
+| 8331 | Silver Control GF【 Hakama 】 | 銀統御袴【ＧＦ】 |
+| 8332 | Silver Control GX【 Hakama 】 | 銀統御袴【ＧＸ】 |
 | 8333 | Harudo Greaves | 司銀龍護腿 |
 | 8334 | Harudo F Greaves | 司銀龍護腿【Ｆ】 |
 | 8335 | Harudo FX Greaves | 司銀龍護腿【ＦＸ】 |

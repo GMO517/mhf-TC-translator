@@ -67,34 +67,34 @@
 | 6561 | Truss HS Leggings Blue | 桁架裹腿【ＨＳ】・青 |
 | 6562 | Truss GS Leggings Blue | 桁架裹腿【ＧＳ】・青 |
 | 6563 | Truss GP Leggings Blue | 桁架裹腿【ＧＰ】・青 |
-| 6564 | Truss FZシューズ Blue | 桁架護腿 |
-| 6565 | Truss HSシューズ Blue | 桁架護腿 |
-| 6566 | Truss GSシューズ Blue | 桁架護腿 |
-| 6567 | Truss GPシューズ Blue | 桁架護腿 |
+| 6564 | Truss FZシューズ Blue | 桁架護腿・青 |
+| 6565 | Truss HSシューズ Blue | 桁架護腿・青 |
+| 6566 | Truss GSシューズ Blue | 桁架護腿・青 |
+| 6567 | Truss GPシューズ Blue | 桁架護腿・青 |
 | 6568 | Truss FZ Leggings Red | 桁架裹腿【ＦＺ】・赤 |
 | 6569 | Truss HS Leggings Red | 桁架裹腿【ＨＳ】・赤 |
 | 6570 | Truss GS Leggings Red | 桁架裹腿【ＧＳ】・赤 |
 | 6571 | Truss GP Leggings Red | 桁架裹腿【ＧＰ】・赤 |
-| 6572 | Truss FZシューズ Red | 桁架護腿 |
-| 6573 | Truss HSシューズ Red | 桁架護腿 |
-| 6574 | Truss GSシューズ Red | 桁架護腿 |
-| 6575 | Truss GPシューズ Red | 桁架護腿 |
+| 6572 | Truss FZシューズ Red | 桁架護腿・赤 |
+| 6573 | Truss HSシューズ Red | 桁架護腿・赤 |
+| 6574 | Truss GSシューズ Red | 桁架護腿・赤 |
+| 6575 | Truss GPシューズ Red | 桁架護腿・赤 |
 | 6576 | Truss FZ Leggings White | 桁架裹腿【ＦＺ】・白 |
 | 6577 | Truss HS Leggings White | 桁架裹腿【ＨＳ】・白 |
 | 6578 | Truss GS Leggings White | 桁架裹腿【ＧＳ】・白 |
 | 6579 | Truss GP Leggings White | 桁架裹腿【ＧＰ】・白 |
-| 6580 | Truss FZシューズ White | 桁架護腿 |
-| 6581 | Truss HSシューズ White | 桁架護腿 |
-| 6582 | Truss GSシューズ White | 桁架護腿 |
-| 6583 | Truss GPシューズ White | 桁架護腿 |
+| 6580 | Truss FZシューズ White | 桁架護腿・白 |
+| 6581 | Truss HSシューズ White | 桁架護腿・白 |
+| 6582 | Truss GSシューズ White | 桁架護腿・白 |
+| 6583 | Truss GPシューズ White | 桁架護腿・白 |
 | 6584 | Truss FZ Leggings Purple | 桁架裹腿【ＦＺ】・紫 |
 | 6585 | Truss HS Leggings Purple | 桁架裹腿【ＨＳ】・紫 |
 | 6586 | Truss GS Leggings Purple | 桁架裹腿【ＧＳ】・紫 |
 | 6587 | Truss GP Leggings Purple | 桁架裹腿【ＧＰ】・紫 |
-| 6588 | Truss FZシューズ Purple | 桁架護腿 |
-| 6589 | Truss HSシューズ Purple | 桁架護腿 |
-| 6590 | Truss GSシューズ Purple | 桁架護腿 |
-| 6591 | Truss GPシューズ Purple | 桁架護腿 |
+| 6588 | Truss FZシューズ Purple | 桁架護腿・紫 |
+| 6589 | Truss HSシューズ Purple | 桁架護腿・紫 |
+| 6590 | Truss GSシューズ Purple | 桁架護腿・紫 |
+| 6591 | Truss GPシューズ Purple | 桁架護腿・紫 |
 | 6592 | Rail HS Greaves | 軌護腿【ＨＳ】 |
 | 6593 | Rail GS Greaves | 軌護腿【ＧＳ】 |
 | 6594 | Rail GP Greaves | 軌護腿【ＧＰ】 |
@@ -125,12 +125,12 @@
 | 6619 | 旋転の Greaves・HS | 旋転の護腿【ＨＳ】 |
 | 6620 | 旋転の Greaves・GS | 旋転の護腿【ＧＳ】 |
 | 6621 | 旋転の Greaves・GP | 旋転の護腿【ＧＰ】 |
-| 6622 | Rolling Sky Greaves・HS | 滾天護腿【ＨＳ】 |
-| 6623 | Rolling Sky Greaves・GS | 滾天護腿【ＧＳ】 |
-| 6624 | Rolling Sky Greaves・GP | 滾天護腿【ＧＰ】 |
-| 6625 | Rolling Earth Greaves・HS | 滾地護腿【ＨＳ】・地 |
-| 6626 | Rolling Earth Greaves・GS | 滾地護腿【ＧＳ】・地 |
-| 6627 | Rolling Earth Greaves・GP | 滾地護腿【ＧＰ】・地 |
+| 6622 | Rolling Sky Greaves・HS | 滾天護腿【ＨＳ】・天 |
+| 6623 | Rolling Sky Greaves・GS | 滾天護腿【ＧＳ】・天 |
+| 6624 | Rolling Sky Greaves・GP | 滾天護腿【ＧＰ】・天 |
+| 6625 | Rolling Earth Greaves・HS | 滾地護腿【ＨＳ】 |
+| 6626 | Rolling Earth Greaves・GS | 滾地護腿【ＧＳ】 |
+| 6627 | Rolling Earth Greaves・GP | 滾地護腿【ＧＰ】 |
 | 6628 | Latria HS Feet | 崇敬足【ＨＳ】 |
 | 6629 | Latria GS Feet | 崇敬足【ＧＳ】 |
 | 6630 | Latria GP Feet | 崇敬足【ＧＰ】 |
@@ -457,21 +457,21 @@
 | 6951 | Wind GFハディ | 風護腿 |
 | 6952 | 武者GF【具足】 | 武者具足【Ｆ】 |
 | 6953 | 日光GF【具足】 | 日光具足【Ｆ】 |
-| 6954 | White 蘭・Kensei Feet | 蘭足・白 |
-| 6955 | White 蘭・Kensei F Feet | 蘭足【Ｆ】・白 |
-| 6956 | White 蘭・Kensei FX Feet | 蘭足【ＦＸ】・白 |
-| 6957 | Crimson 霞・Kensei Feet | 霞足・紅 |
-| 6958 | Crimson 霞・Kensei F Feet | 霞足【Ｆ】・紅 |
-| 6959 | Crimson 霞・Kensei FX Feet | 霞足【ＦＸ】・紅 |
-| 6960 | White 蘭・Kensei G Feet | 蘭足【Ｇ】・白 |
-| 6961 | White 蘭・Kensei GF Feet | 蘭足【ＧＦ】・白 |
-| 6962 | White 蘭・Kensei GX Feet | 蘭足【ＧＸ】・白 |
+| 6954 | White 蘭・Kensei Feet | 白蘭劍聖足 |
+| 6955 | White 蘭・Kensei F Feet | 白蘭劍聖足【Ｆ】 |
+| 6956 | White 蘭・Kensei FX Feet | 白蘭劍聖足【ＦＸ】 |
+| 6957 | Crimson 霞・Kensei Feet | 紅霞劍聖足 |
+| 6958 | Crimson 霞・Kensei F Feet | 紅霞劍聖足【Ｆ】 |
+| 6959 | Crimson 霞・Kensei FX Feet | 紅霞劍聖足【ＦＸ】 |
+| 6960 | White 蘭・Kensei G Feet | 白蘭劍聖足【Ｇ】 |
+| 6961 | White 蘭・Kensei GF Feet | 白蘭劍聖足【ＧＦ】 |
+| 6962 | White 蘭・Kensei GX Feet | 白蘭劍聖足【ＧＸ】 |
 | 6963 | 月夜・Kensei G Feet | 月夜足【Ｇ】 |
 | 6964 | 月夜・Kensei GF Feet | 月夜足【ＧＦ】 |
 | 6965 | 月夜・Kensei GX Feet | 月夜足【ＧＸ】 |
-| 6966 | Crimson 霞・Kensei G Feet | 霞足【Ｇ】・紅 |
-| 6967 | Crimson 霞・Kensei GF Feet | 霞足【ＧＦ】・紅 |
-| 6968 | Crimson 霞・Kensei GX Feet | 霞足【ＧＸ】・紅 |
+| 6966 | Crimson 霞・Kensei G Feet | 紅霞劍聖足【Ｇ】 |
+| 6967 | Crimson 霞・Kensei GF Feet | 紅霞劍聖足【ＧＦ】 |
+| 6968 | Crimson 霞・Kensei GX Feet | 紅霞劍聖足【ＧＸ】 |
 | 6969 | Green 穹・Kensei G Feet | 穹足【Ｇ】・緑 |
 | 6970 | Green 穹・Kensei GF Feet | 穹足【ＧＦ】・緑 |
 | 6971 | Green 穹・Kensei GX Feet | 穹足【ＧＸ】・緑 |

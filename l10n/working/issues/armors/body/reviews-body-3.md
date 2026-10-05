@@ -15,22 +15,22 @@
 | 1008 | フェサーF Vest | 芙薩背心【Ｆ】 |
 | 1009 | シアンス Suit | 希安斯套裝 |
 | 1010 | シアンスF Suit | 希安斯套裝【Ｆ】 |
-| 1011 | Gold Mail・Red | 鎧甲・金・赤 |
-| 1012 | Gold F Mail・Red | 鎧甲【Ｆ】・金・赤 |
-| 1013 | Gold Suit・Red | 套裝・金・赤 |
-| 1014 | Gold F Suit・Red | 套裝【Ｆ】・金・赤 |
-| 1015 | Gold Mail・Blue | 鎧甲・金・青 |
-| 1016 | Gold F Mail・Blue | 鎧甲【Ｆ】・金・青 |
-| 1017 | Gold Suit・Blue | 套裝・金・青 |
-| 1018 | Gold F Suit・Blue | 套裝【Ｆ】・金・青 |
-| 1019 | Gold Mail・Yellow | 鎧甲・金・黄 |
-| 1020 | Gold F Mail・Yellow | 鎧甲【Ｆ】・金・黄 |
-| 1021 | Gold Suit・Yellow | 套裝・金・黄 |
-| 1022 | Gold F Suit・Yellow | 套裝【Ｆ】・金・黄 |
-| 1023 | Gold Mail・Purple | 鎧甲・金・紫 |
-| 1024 | Gold F Mail・Purple | 鎧甲【Ｆ】・金・紫 |
-| 1025 | Gold Suit・Purple | 套裝・金・紫 |
-| 1026 | Gold F Suit・Purple | 套裝【Ｆ】・金・紫 |
+| 1011 | Gold Mail・Red | 金鎧甲・赤 |
+| 1012 | Gold F Mail・Red | 金鎧甲【Ｆ】・赤 |
+| 1013 | Gold Suit・Red | 金套裝・赤 |
+| 1014 | Gold F Suit・Red | 金套裝【Ｆ】・赤 |
+| 1015 | Gold Mail・Blue | 金鎧甲・青 |
+| 1016 | Gold F Mail・Blue | 金鎧甲【Ｆ】・青 |
+| 1017 | Gold Suit・Blue | 金套裝・青 |
+| 1018 | Gold F Suit・Blue | 金套裝【Ｆ】・青 |
+| 1019 | Gold Mail・Yellow | 金鎧甲・黄 |
+| 1020 | Gold F Mail・Yellow | 金鎧甲【Ｆ】・黄 |
+| 1021 | Gold Suit・Yellow | 金套裝・黄 |
+| 1022 | Gold F Suit・Yellow | 金套裝【Ｆ】・黄 |
+| 1023 | Gold Mail・Purple | 金鎧甲・紫 |
+| 1024 | Gold F Mail・Purple | 金鎧甲【Ｆ】・紫 |
+| 1025 | Gold Suit・Purple | 金套裝・紫 |
+| 1026 | Gold F Suit・Purple | 金套裝【Ｆ】・紫 |
 | 1027 | シデロ Mail | 西德羅鎧甲 |
 | 1028 | シデロF Mail | 西德羅鎧甲【Ｆ】 |
 | 1029 | オール Mail | 奧爾鎧甲 |
@@ -60,8 +60,8 @@
 | 1054 | Bone L Vest | 骨製背心【Ｌ】 |
 | 1055 | Vespoid L Vest | 巨蜂背心【Ｌ】 |
 | 1056 | Diablos L Vest | 角龍背心【Ｌ】 |
-| 1057 | G・Guard R Vest Crimson | 防禦背心【Ｇ】【Ｒ】・紅 |
-| 1058 | G・Guard R Vest Crimson | 防禦背心【Ｇ】【Ｒ】・紅 |
+| 1057 | G・Guard R Vest Crimson | 防禦背心【Ｒ】・紅 |
+| 1058 | G・Guard R Vest Crimson | 防禦背心【Ｒ】・紅 |
 | 1059 | Hornetaur R Vest | 巨甲蟲背心【Ｒ】 |
 | 1060 | High Metal R Vest | 上位金屬背心【Ｒ】 |
 | 1061 | Rath Soul R Vest | 火龍魂背心【Ｒ】 |
@@ -69,10 +69,10 @@
 | 1063 | Plesioth L Mail | 水龍鎧甲【Ｌ】 |
 | 1064 | Gravios R Mail | 鎧龍鎧甲【Ｒ】 |
 | 1065 | Io R Mail | 伊歐鎧甲【Ｒ】 |
-| 1066 | Inari 【胴当て】 | 稻荷鎧甲 |
-| 1067 | Inari 覇【胴当て】 | 稻荷鎧甲 |
+| 1066 | Inari 【胴当て】 | 稻荷胴當 |
+| 1067 | Inari 覇【胴当て】 | 稻荷胴當 |
 | 1068 | Tamamo [Chestplate 】 | 玉藻胸甲 |
-| 1069 | Tamamo 覇 [Chestplate 】 | 覇胸甲 |
+| 1069 | Tamamo 覇 [Chestplate 】 | 玉藻胸甲 |
 | 1070 | コカロ Mail | 寇伽羅鎧甲 |
 | 1071 | コカロ Vest | 寇伽羅背心 |
 | 1072 | Shieri Mail | 夏伊爾伊鎧甲 |
@@ -167,12 +167,12 @@
 | 1161 | Arge F Vest | 阿爾傑背心【Ｆ】 |
 | 1162 | Arge Suit | 阿爾傑套裝 |
 | 1163 | Arge F Suit | 阿爾傑套裝【Ｆ】 |
-| 1164 | Akantor ウルンテ SP Black | 霸龍鎧甲【ＳＰ】 |
-| 1165 | Akantor ウルンテ SP Red | 霸龍鎧甲【ＳＰ】 |
-| 1166 | Akantor ウルンテ SP White | 霸龍鎧甲【ＳＰ】 |
-| 1167 | Akantor ウルンペ SP Black | 霸龍鎧甲【ＳＰ】 |
-| 1168 | Akantor ウルンペ SP Red | 霸龍鎧甲【ＳＰ】 |
-| 1169 | Akantor ウルンペ SP White | 霸龍鎧甲【ＳＰ】 |
+| 1164 | Akantor ウルンテ SP Black | 霸龍鎧甲【ＳＰ】・黑 |
+| 1165 | Akantor ウルンテ SP Red | 霸龍鎧甲【ＳＰ】・赤 |
+| 1166 | Akantor ウルンテ SP White | 霸龍鎧甲【ＳＰ】・白 |
+| 1167 | Akantor ウルンペ SP Black | 霸龍鎧甲【ＳＰ】・黑 |
+| 1168 | Akantor ウルンペ SP Red | 霸龍鎧甲【ＳＰ】・赤 |
+| 1169 | Akantor ウルンペ SP White | 霸龍鎧甲【ＳＰ】・白 |
 | 1170 | Gravios Mail SP Black | 鎧龍鎧甲【ＳＰ】・黑 |
 | 1171 | Gravios Mail SP Blue | 鎧龍鎧甲【ＳＰ】・青 |
 | 1172 | Gravios Mail SP Red | 鎧龍鎧甲【ＳＰ】・赤 |
@@ -278,11 +278,11 @@
 | 1272 | Pharan F Mail・Blue | 法藍鎧甲【Ｆ】・青 |
 | 1273 | Pharan Suit・Blue | 法藍套裝・青 |
 | 1274 | Pharan F Suit・Blue | 法藍套裝【Ｆ】・青 |
-| 1275 | Gold Cat F Vest | 猫背心【Ｆ】・金 |
-| 1276 | Gold Cat F Suit | 猫套裝【Ｆ】・金 |
-| 1277 | Silver Cat Suit | 猫套裝・銀 |
-| 1278 | Silver Cat F Vest | 猫背心【Ｆ】・銀 |
-| 1279 | Silver Cat F Suit | 猫套裝【Ｆ】・銀 |
+| 1275 | Gold Cat F Vest | 金猫背心【Ｆ】 |
+| 1276 | Gold Cat F Suit | 金猫套裝【Ｆ】 |
+| 1277 | Silver Cat Suit | 銀猫套裝 |
+| 1278 | Silver Cat F Vest | 銀猫背心【Ｆ】 |
+| 1279 | Silver Cat F Suit | 銀猫套裝【Ｆ】 |
 | 1280 | ヴィン Suit | 温套裝 |
 | 1281 | ヴィンF Suit | 温套裝【Ｆ】 |
 | 1282 | ヴァンデ Suit | 芙恩德套裝 |
@@ -330,7 +330,7 @@
 | 1324 | Vashimu R Mail Yellow | 尾晶蠍鎧甲【Ｒ】・黄 |
 | 1325 | Vashimu R Mail Green | 尾晶蠍鎧甲【Ｒ】・緑 |
 | 1326 | Vashimu R Mail Crimson | 尾晶蠍鎧甲【Ｒ】・紅 |
-| 1327 | Inari FX【胴当て】 | 稻荷鎧甲【ＦＸ】 |
+| 1327 | Inari FX【胴当て】 | 稻荷胴當【ＦＸ】 |
 | 1328 | Tamamo FX [Chestplate 】 | 玉藻胸甲【ＦＸ】 |
 | 1329 | Eques FX Mail | 騎士鎧甲【ＦＸ】 |
 | 1330 | Eques FX Vest | 騎士背心【ＦＸ】 |
@@ -475,8 +475,8 @@
 | 1469 | ダミー | (dummy) |
 | 1470 | ダミー | (dummy) |
 | 1471 | White Fatalis R Hide | 白黑龍皮衣【Ｒ】 |
-| 1472 | G・Lune R Vest | 月背心【Ｇ】【Ｒ】 |
-| 1473 | S・Sol R Vest | 日背心【Ｓ】【Ｒ】 |
+| 1472 | G・Lune R Vest | 月背心【Ｒ】 |
+| 1473 | S・Sol R Vest | S索倫背心【Ｒ】 |
 | 1474 | Death Stench L Heart | 死臭心衣【Ｌ】 |
 | 1475 | Leather L Mail | 皮革鎧甲【Ｌ】 |
 | 1476 | Chainmail L Mail | 鎖鏈鎧甲【Ｌ】 |

@@ -125,8 +125,8 @@
 | 118 | ミラ Vulcan テイル | 火神腰甲 |
 | 119 | ゴールド Lune Coil | 月腰甲 |
 | 120 | ゴールド Lune Coat | 月腰衣 |
-| 121 | Silver Sol Coil | 日腰甲・銀 |
-| 122 | Silver Sol Coat | 日腰衣・銀 |
+| 121 | Silver Sol Coil | 銀日腰甲 |
+| 122 | Silver Sol Coat | 銀日腰衣 |
 | 123 | Leather S Belt | 皮革腰帶【Ｓ】 |
 | 124 | C・ライトS Belt | 拉伊托腰帶【Ｓ】 |
 | 125 | Hunter's S Faulds | 獵人腰甲【Ｓ】 |
@@ -168,16 +168,16 @@
 | 161 | Monoblos S Coat | 一角龍腰衣【Ｓ】 |
 | 162 | Gravios S Faulds | 鎧龍腰甲【Ｓ】 |
 | 163 | Gravios S Coat | 鎧龍腰衣【Ｓ】 |
-| 164 | 忍の Obi・Heaven | 忍の帶・天 |
-| 165 | 忍の Obi・Earth | 忍の帶・地 |
+| 164 | 忍の Obi・Heaven | 忍の天帶 |
+| 165 | 忍の Obi・Earth | 忍の地帶 |
 | 166 | Guild Guard Coil Crimson | 公會守衛腰甲・紅 |
 | 167 | Guild Guard Coat Crimson | 公會守衛腰衣・紅 |
 | 168 | Guild Guard Coil Crimson | 公會守衛腰甲・紅 |
 | 169 | Guild Guard Coat Crimson | 公會守衛腰衣・紅 |
-| 170 | 暁丸・覇【腰当て】 | 暁丸覇腰當 |
-| 171 | 曙丸・覇【腰当て】 | 曙丸覇腰當 |
-| 172 | 凛・覇【腰当て】 | 凛覇腰當 |
-| 173 | 艶・覇【腰当て】 | 艶覇腰當 |
+| 170 | 暁丸・覇【腰当て】 | 暁丸腰當 |
+| 171 | 曙丸・覇【腰当て】 | 曙丸腰當 |
+| 172 | 凛・覇【腰当て】 | 凛腰當 |
+| 173 | 艶・覇【腰当て】 | 艶腰當 |
 | 174 | Dragon S Wing | 龍腰翼【Ｓ】 |
 | 175 | Dragon Sテイル | 龍腰甲 |
 | 176 | Hermitaur Faulds | 盾蟹腰甲 |
@@ -214,16 +214,16 @@
 | 207 | Toyotama 【丸 Obi 】 | 豐玉腰甲 |
 | 208 | Empress Faulds | 女帝腰甲 |
 | 209 | Empress Coat | 女帝腰衣 |
-| 210 | Gold 剛【腰当て】 | 剛腰當・金 |
+| 210 | Gold 剛【腰当て】 | 金腰當剛 |
 | 211 | 不動【腰当て】 | 不動腰當 |
 | 212 | Kaiser Faulds | 帝王腰甲 |
 | 213 | Kaiser Coat | 帝王腰衣 |
 | 214 | 夜叉【腰巻】 | 夜叉腰卷 |
 | 215 | 修羅【腰巻】 | 修羅腰卷 |
 | 216 | Golden Obi | 金帶 |
-| 217 | Puppeteer ノ Obi | 帶 |
+| 217 | Puppeteer ノ Obi | 操偶帶 |
 | 218 | White Fatalis Wing | 白黑龍腰翼 |
-| 219 | White Fatalis テイル | 黑龍腰甲 |
+| 219 | White Fatalis テイル | 白黑龍腰甲 |
 | 220 | Plesioth S Faulds | 水龍腰甲【Ｓ】 |
 | 221 | Plesioth S Coat | 水龍腰衣【Ｓ】 |
 | 222 | Black Belt S Faulds | 黑帶腰甲【Ｓ】 |
@@ -251,17 +251,17 @@
 | 244 | Lavasioth S Coat | 熔岩龍腰衣【Ｓ】 |
 | 245 | Gia U Faulds | 格伊腰甲【Ｕ】 |
 | 246 | Gia U Coat | 格伊腰衣【Ｕ】 |
-| 247 | White Cat テイル | 猫腰甲 |
-| 248 | Black Cat テイル | 猫腰甲 |
-| 249 | Gold Cat テイル | 猫腰甲 |
+| 247 | White Cat テイル | 白猫腰甲 |
+| 248 | Black Cat テイル | 黑猫腰甲 |
+| 249 | Gold Cat テイル | 金猫腰甲 |
 | 250 | Gothic Faulds | 哥德腰甲 |
 | 251 | Gothic F Faulds | 哥德腰甲【Ｆ】 |
 | 252 | Beil Reflector | 貝爾反射腰甲 |
-| 253 | Comrade Belt 【猩】 | 戰友猩腰帶 |
+| 253 | Comrade Belt 【猩】 | 戰友腰帶猩 |
 | 254 | Jisutoreru Waist | 吉斯特雷腰甲 |
 | 255 | Duo Faulds | 雙腰甲 |
 | 256 | Smart Waist | 機靈腰甲 |
-| 257 | Red Cat Fテイル | 猫腰甲 |
+| 257 | Red Cat Fテイル | 赤猫腰甲 |
 | 258 | Boot Up Waist | 靴強化腰甲 |
 | 259 | Yuenesu Waist | 尤涅斯腰甲 |
 | 260 | Missing No. | 遺失道具No.260 |
@@ -304,32 +304,32 @@
 | 297 | Kushala Fアドミ | 鋼龍腰甲 |
 | 298 | Kaiser F Faulds | 帝王腰甲【Ｆ】 |
 | 299 | Kaiser F Coat | 帝王腰衣【Ｆ】 |
-| 300 | Mizuha 魁【丸 Obi 】 | 水羽魁腰甲 |
-| 301 | Toyotama 魁【丸 Obi 】 | 豐玉魁腰甲 |
-| 302 | Gold 剛・魁【腰当て】 | 剛魁腰當・金 |
-| 303 | 不動・魁【腰当て】 | 不動魁腰當 |
-| 304 | 夜叉・魁【腰巻】 | 夜叉魁腰卷 |
-| 305 | 修羅・魁【腰巻】 | 修羅魁腰卷 |
+| 300 | Mizuha 魁【丸 Obi 】 | 水羽腰甲魁 |
+| 301 | Toyotama 魁【丸 Obi 】 | 豐玉腰甲魁 |
+| 302 | Gold 剛・魁【腰当て】 | 金腰當魁剛 |
+| 303 | 不動・魁【腰当て】 | 不動腰當魁 |
+| 304 | 夜叉・魁【腰巻】 | 夜叉腰卷魁 |
+| 305 | 修羅・魁【腰巻】 | 修羅腰卷魁 |
 | 306 | Empress F Coil | 女帝腰甲【Ｆ】 |
 | 307 | Empress F Coat | 女帝腰衣【Ｆ】 |
-| 308 | Golden ノ Obi・魁 | 金魁帶 |
-| 309 | Puppeteer ノ Obi・魁 | 魁帶 |
+| 308 | Golden ノ Obi・魁 | 金帶魁 |
+| 309 | Puppeteer ノ Obi・魁 | 操偶帶魁 |
 | 310 | Garuga F Faulds | 黑狼鳥腰甲【Ｆ】 |
 | 311 | Garuga F Coat | 黑狼鳥腰衣【Ｆ】 |
 | 312 | Kushala Fアンダ | 鋼龍腰甲 |
 | 313 | Kushala Fアドミ | 鋼龍腰甲 |
 | 314 | Kaiser F Faulds | 帝王腰甲【Ｆ】 |
 | 315 | Kaiser F Coat | 帝王腰衣【Ｆ】 |
-| 316 | Mizuha 魁【丸 Obi 】 | 水羽魁腰甲 |
-| 317 | Toyotama 魁【丸 Obi 】 | 豐玉魁腰甲 |
-| 318 | Gold 剛・魁【腰当て】 | 剛魁腰當・金 |
-| 319 | 不動・魁【腰当て】 | 不動魁腰當 |
-| 320 | 夜叉・魁【腰巻】 | 夜叉魁腰卷 |
-| 321 | 修羅・魁【腰巻】 | 修羅魁腰卷 |
+| 316 | Mizuha 魁【丸 Obi 】 | 水羽腰甲魁 |
+| 317 | Toyotama 魁【丸 Obi 】 | 豐玉腰甲魁 |
+| 318 | Gold 剛・魁【腰当て】 | 金腰當魁剛 |
+| 319 | 不動・魁【腰当て】 | 不動腰當魁 |
+| 320 | 夜叉・魁【腰巻】 | 夜叉腰卷魁 |
+| 321 | 修羅・魁【腰巻】 | 修羅腰卷魁 |
 | 322 | Empress F Coil | 女帝腰甲【Ｆ】 |
 | 323 | Empress F Coat | 女帝腰衣【Ｆ】 |
-| 324 | Golden ノ Obi・魁 | 金魁帶 |
-| 325 | Puppeteer ノ Obi・魁 | 魁帶 |
+| 324 | Golden ノ Obi・魁 | 金帶魁 |
+| 325 | Puppeteer ノ Obi・魁 | 操偶帶魁 |
 | 326 | Garuga F Faulds | 黑狼鳥腰甲【Ｆ】 |
 | 327 | Garuga F Coat | 黑狼鳥腰衣【Ｆ】 |
 | 328 | Lavasioth U Faulds | 熔岩龍腰甲【Ｕ】 |
@@ -337,10 +337,10 @@
 | 330 | White Metal Coat | 白金屬腰衣 |
 | 331 | Celeste Faulds | 天空腰甲 |
 | 332 | Ciel Reflector | 克伊爾艾腰甲 |
-| 333 | Comrada Belt 【 Red 】 | 克歐姆阿腰帶・赤 |
-| 334 | Comrada Belt 【 Blue 】 | 克歐姆阿腰帶・青 |
-| 335 | Comrada Belt 【 Green 】 | 克歐姆阿腰帶・緑 |
-| 336 | Comrada Belt 【 Orange 】 | 克歐姆阿腰帶・橙 |
+| 333 | Comrada Belt 【 Red 】 | 戰友腰帶・赤 |
+| 334 | Comrada Belt 【 Blue 】 | 戰友腰帶・青 |
+| 335 | Comrada Belt 【 Green 】 | 戰友腰帶・緑 |
+| 336 | Comrada Belt 【 Orange 】 | 戰友腰帶・橙 |
 | 337 | ダミー | (dummy) |
 | 338 | ダミー | (dummy) |
 | 339 | Espinas Navel | 棘龍臍甲 |
@@ -436,36 +436,36 @@
 | 429 | Eques Coat 改 | 改腰衣 |
 | 430 | Eques F Faulds | 騎士腰甲【Ｆ】 |
 | 431 | Eques F Coat | 騎士腰衣【Ｆ】 |
-| 432 | Star Festival Obi・Summer 【 Red 】 | 斯阿爾艾帶・赤 |
-| 433 | Star Festival Obi・Summer 【 Blue 】 | 斯阿爾艾帶・青 |
-| 434 | Star Festival Obi・Summer 【 Black 】 | 斯阿爾艾帶・黑 |
-| 435 | Star Festival Obi・Summer 【 White 】 | 斯阿爾艾帶・白 |
-| 436 | Tanabata Obi・Summer 【 Red 】 | 特阿恩阿帶・赤 |
-| 437 | Tanabata Obi・Summer 【 Blue 】 | 特阿恩阿帶・青 |
-| 438 | Tanabata Obi・Summer 【 Black 】 | 特阿恩阿帶・黑 |
-| 439 | Tanabata Obi・Summer 【 White 】 | 特阿恩阿帶・白 |
-| 440 | Star Festival Obi・織【 Red 】 | 織帶・赤 |
-| 441 | Star Festival Obi・織【 Blue 】 | 織帶・青 |
-| 442 | Star Festival Obi・織【 Black 】 | 織帶・黑 |
-| 443 | Star Festival Obi・織【 White 】 | 織帶・白 |
+| 432 | Star Festival Obi・Summer 【 Red 】 | 星祭夏帶・赤 |
+| 433 | Star Festival Obi・Summer 【 Blue 】 | 星祭夏帶・青 |
+| 434 | Star Festival Obi・Summer 【 Black 】 | 星祭夏帶・黑 |
+| 435 | Star Festival Obi・Summer 【 White 】 | 星祭夏帶・白 |
+| 436 | Tanabata Obi・Summer 【 Red 】 | 七夕夏帶・赤 |
+| 437 | Tanabata Obi・Summer 【 Blue 】 | 七夕夏帶・青 |
+| 438 | Tanabata Obi・Summer 【 Black 】 | 七夕夏帶・黑 |
+| 439 | Tanabata Obi・Summer 【 White 】 | 七夕夏帶・白 |
+| 440 | Star Festival Obi・織【 Red 】 | 星祭織帶・赤 |
+| 441 | Star Festival Obi・織【 Blue 】 | 星祭織帶・青 |
+| 442 | Star Festival Obi・織【 Black 】 | 星祭織帶・黑 |
+| 443 | Star Festival Obi・織【 White 】 | 星祭織帶・白 |
 | 444 | Tanabata Obi・織【 Red 】 | 織帶・赤 |
 | 445 | Tanabata Obi・織【 Blue 】 | 織帶・青 |
 | 446 | Tanabata Obi・織【 Black 】 | 織帶・黑 |
 | 447 | Tanabata Obi・織【 White 】 | 織帶・白 |
-| 448 | Star Festival Obi・Heaven 【 Red 】 | 星祭天帶・赤・天 |
-| 449 | Star Festival Obi・Heaven 【 Blue 】 | 星祭天帶・青・天 |
-| 450 | Star Festival Obi・Heaven 【 Black 】 | 星祭天帶・黑・天 |
-| 451 | Star Festival Obi・Heaven 【 White 】 | 星祭天帶・白・天 |
-| 452 | Tanabata Obi・Heaven 【 Red 】 | 七夕天帶・赤・天 |
-| 453 | Tanabata Obi・Heaven 【 Blue 】 | 七夕天帶・青・天 |
-| 454 | Tanabata Obi・Heaven 【 Black 】 | 七夕天帶・黑・天 |
-| 455 | Tanabata Obi・Heaven 【 White 】 | 七夕天帶・白・天 |
+| 448 | Star Festival Obi・Heaven 【 Red 】 | 星祭天帶・赤 |
+| 449 | Star Festival Obi・Heaven 【 Blue 】 | 星祭天帶・青 |
+| 450 | Star Festival Obi・Heaven 【 Black 】 | 星祭天帶・黑 |
+| 451 | Star Festival Obi・Heaven 【 White 】 | 星祭天帶・白 |
+| 452 | Tanabata Obi・Heaven 【 Red 】 | 七夕天帶・赤 |
+| 453 | Tanabata Obi・Heaven 【 Blue 】 | 七夕天帶・青 |
+| 454 | Tanabata Obi・Heaven 【 Black 】 | 七夕天帶・黑 |
+| 455 | Tanabata Obi・Heaven 【 White 】 | 七夕天帶・白 |
 | 456 | High Metal Coil SP Black | 上位金屬腰甲【ＳＰ】・黑 |
 | 457 | High Metal Coil SP Blue | 上位金屬腰甲【ＳＰ】・青 |
 | 458 | High Metal Coil SP Yellow | 上位金屬腰甲【ＳＰ】・黄 |
-| 459 | S・Sol Coil SP Red | 日腰甲【Ｓ】【ＳＰ】・赤 |
-| 460 | S・Sol Coil SP Purple | 日腰甲【Ｓ】【ＳＰ】・紫 |
-| 461 | S・Sol Coil SP Black | 日腰甲【Ｓ】【ＳＰ】・黑 |
+| 459 | S・Sol Coil SP Red | S索倫腰甲【ＳＰ】・赤 |
+| 460 | S・Sol Coil SP Purple | S索倫腰甲【ＳＰ】・紫 |
+| 461 | S・Sol Coil SP Black | S索倫腰甲【ＳＰ】・黑 |
 | 462 | Garuga Coat SP White | 黑狼鳥腰衣【ＳＰ】・白 |
 | 463 | Garuga Coat SP Green | 黑狼鳥腰衣【ＳＰ】・緑 |
 | 464 | Garuga Coat SP Red | 黑狼鳥腰衣【ＳＰ】・赤 |

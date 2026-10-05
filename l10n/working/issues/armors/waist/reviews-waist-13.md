@@ -15,54 +15,54 @@
 | 6009 | Ex HS Coat・Black | 艾克斯腰衣【ＨＳ】・黑 |
 | 6010 | Ex GS Coat・Black | 艾克斯腰衣【ＧＳ】・黑 |
 | 6011 | Ex GP Coat・Black | 艾克斯腰衣【ＧＰ】・黑 |
-| 6012 | Gold Cat FZ Coil | 猫腰甲【ＦＺ】・金 |
-| 6013 | Gold Cat HS Coil | 猫腰甲【ＨＳ】・金 |
-| 6014 | Gold Cat GS Coil | 猫腰甲【ＧＳ】・金 |
-| 6015 | Gold Cat GP Coil | 猫腰甲【ＧＰ】・金 |
-| 6016 | Gold Cat FZ Coat | 猫腰衣【ＦＺ】・金 |
-| 6017 | Gold Cat HS Coat | 猫腰衣【ＨＳ】・金 |
-| 6018 | Gold Cat GS Coat | 猫腰衣【ＧＳ】・金 |
-| 6019 | Gold Cat GP Coat | 猫腰衣【ＧＰ】・金 |
-| 6020 | Silver Cat FZ Coil | 猫腰甲【ＦＺ】・銀 |
-| 6021 | Silver Cat HS Coil | 猫腰甲【ＨＳ】・銀 |
-| 6022 | Silver Cat GS Coil | 猫腰甲【ＧＳ】・銀 |
-| 6023 | Silver Cat GP Coil | 猫腰甲【ＧＰ】・銀 |
-| 6024 | Silver Cat FZ Coat | 猫腰衣【ＦＺ】・銀 |
-| 6025 | Silver Cat HS Coat | 猫腰衣【ＨＳ】・銀 |
-| 6026 | Silver Cat GS Coat | 猫腰衣【ＧＳ】・銀 |
-| 6027 | Silver Cat GP Coat | 猫腰衣【ＧＰ】・銀 |
-| 6028 | Claire FZ Coil・Purple | 克蕾兒腰甲【ＦＺ】・紫 |
-| 6029 | Claire HS Coil・Purple | 克蕾兒腰甲【ＨＳ】・紫 |
-| 6030 | Claire GS Coil・Purple | 克蕾兒腰甲【ＧＳ】・紫 |
-| 6031 | Claire GP Coil・Purple | 克蕾兒腰甲【ＧＰ】・紫 |
-| 6032 | Claire FZ Coat・Purple | 克蕾兒腰衣【ＦＺ】・紫 |
-| 6033 | Claire HS Coat・Purple | 克蕾兒腰衣【ＨＳ】・紫 |
-| 6034 | Claire GS Coat・Purple | 克蕾兒腰衣【ＧＳ】・紫 |
-| 6035 | Claire GP Coat・Purple | 克蕾兒腰衣【ＧＰ】・紫 |
-| 6036 | Claire FZ Coil・Water | 克蕾兒水腰甲【ＦＺ】 |
-| 6037 | Claire HS Coil・Water | 克蕾兒水腰甲【ＨＳ】 |
-| 6038 | Claire GS Coil・Water | 克蕾兒水腰甲【ＧＳ】 |
-| 6039 | Claire GP Coil・Water | 克蕾兒水腰甲【ＧＰ】 |
-| 6040 | Claire FZ Coat・Water | 克蕾兒水腰衣【ＦＺ】 |
-| 6041 | Claire HS Coat・Water | 克蕾兒水腰衣【ＨＳ】 |
-| 6042 | Claire GS Coat・Water | 克蕾兒水腰衣【ＧＳ】 |
-| 6043 | Claire GP Coat・Water | 克蕾兒水腰衣【ＧＰ】 |
-| 6044 | Claire FZ Coil・Red | 克蕾兒腰甲【ＦＺ】・赤 |
-| 6045 | Claire HS Coil・Red | 克蕾兒腰甲【ＨＳ】・赤 |
-| 6046 | Claire GS Coil・Red | 克蕾兒腰甲【ＧＳ】・赤 |
-| 6047 | Claire GP Coil・Red | 克蕾兒腰甲【ＧＰ】・赤 |
-| 6048 | Claire FZ Coat・Red | 克蕾兒腰衣【ＦＺ】・赤 |
-| 6049 | Claire HS Coat・Red | 克蕾兒腰衣【ＨＳ】・赤 |
-| 6050 | Claire GS Coat・Red | 克蕾兒腰衣【ＧＳ】・赤 |
-| 6051 | Claire GP Coat・Red | 克蕾兒腰衣【ＧＰ】・赤 |
-| 6052 | Claire FZ Coil・Black | 克蕾兒腰甲【ＦＺ】・黑 |
-| 6053 | Claire HS Coil・Black | 克蕾兒腰甲【ＨＳ】・黑 |
-| 6054 | Claire GS Coil・Black | 克蕾兒腰甲【ＧＳ】・黑 |
-| 6055 | Claire GP Coil・Black | 克蕾兒腰甲【ＧＰ】・黑 |
-| 6056 | Claire FZ Coat・Black | 克蕾兒腰衣【ＦＺ】・黑 |
-| 6057 | Claire HS Coat・Black | 克蕾兒腰衣【ＨＳ】・黑 |
-| 6058 | Claire GS Coat・Black | 克蕾兒腰衣【ＧＳ】・黑 |
-| 6059 | Claire GP Coat・Black | 克蕾兒腰衣【ＧＰ】・黑 |
+| 6012 | Gold Cat FZ Coil | 金猫腰甲【ＦＺ】 |
+| 6013 | Gold Cat HS Coil | 金猫腰甲【ＨＳ】 |
+| 6014 | Gold Cat GS Coil | 金猫腰甲【ＧＳ】 |
+| 6015 | Gold Cat GP Coil | 金猫腰甲【ＧＰ】 |
+| 6016 | Gold Cat FZ Coat | 金猫腰衣【ＦＺ】 |
+| 6017 | Gold Cat HS Coat | 金猫腰衣【ＨＳ】 |
+| 6018 | Gold Cat GS Coat | 金猫腰衣【ＧＳ】 |
+| 6019 | Gold Cat GP Coat | 金猫腰衣【ＧＰ】 |
+| 6020 | Silver Cat FZ Coil | 銀猫腰甲【ＦＺ】 |
+| 6021 | Silver Cat HS Coil | 銀猫腰甲【ＨＳ】 |
+| 6022 | Silver Cat GS Coil | 銀猫腰甲【ＧＳ】 |
+| 6023 | Silver Cat GP Coil | 銀猫腰甲【ＧＰ】 |
+| 6024 | Silver Cat FZ Coat | 銀猫腰衣【ＦＺ】 |
+| 6025 | Silver Cat HS Coat | 銀猫腰衣【ＨＳ】 |
+| 6026 | Silver Cat GS Coat | 銀猫腰衣【ＧＳ】 |
+| 6027 | Silver Cat GP Coat | 銀猫腰衣【ＧＰ】 |
+| 6028 | Claire FZ Coil・Purple | 克蕾爾腰甲【ＦＺ】・紫 |
+| 6029 | Claire HS Coil・Purple | 克蕾爾腰甲【ＨＳ】・紫 |
+| 6030 | Claire GS Coil・Purple | 克蕾爾腰甲【ＧＳ】・紫 |
+| 6031 | Claire GP Coil・Purple | 克蕾爾腰甲【ＧＰ】・紫 |
+| 6032 | Claire FZ Coat・Purple | 克蕾爾腰衣【ＦＺ】・紫 |
+| 6033 | Claire HS Coat・Purple | 克蕾爾腰衣【ＨＳ】・紫 |
+| 6034 | Claire GS Coat・Purple | 克蕾爾腰衣【ＧＳ】・紫 |
+| 6035 | Claire GP Coat・Purple | 克蕾爾腰衣【ＧＰ】・紫 |
+| 6036 | Claire FZ Coil・Water | 克蕾爾腰甲【ＦＺ】・水 |
+| 6037 | Claire HS Coil・Water | 克蕾爾腰甲【ＨＳ】・水 |
+| 6038 | Claire GS Coil・Water | 克蕾爾腰甲【ＧＳ】・水 |
+| 6039 | Claire GP Coil・Water | 克蕾爾腰甲【ＧＰ】・水 |
+| 6040 | Claire FZ Coat・Water | 克蕾爾腰衣【ＦＺ】・水 |
+| 6041 | Claire HS Coat・Water | 克蕾爾腰衣【ＨＳ】・水 |
+| 6042 | Claire GS Coat・Water | 克蕾爾腰衣【ＧＳ】・水 |
+| 6043 | Claire GP Coat・Water | 克蕾爾腰衣【ＧＰ】・水 |
+| 6044 | Claire FZ Coil・Red | 克蕾爾腰甲【ＦＺ】・赤 |
+| 6045 | Claire HS Coil・Red | 克蕾爾腰甲【ＨＳ】・赤 |
+| 6046 | Claire GS Coil・Red | 克蕾爾腰甲【ＧＳ】・赤 |
+| 6047 | Claire GP Coil・Red | 克蕾爾腰甲【ＧＰ】・赤 |
+| 6048 | Claire FZ Coat・Red | 克蕾爾腰衣【ＦＺ】・赤 |
+| 6049 | Claire HS Coat・Red | 克蕾爾腰衣【ＨＳ】・赤 |
+| 6050 | Claire GS Coat・Red | 克蕾爾腰衣【ＧＳ】・赤 |
+| 6051 | Claire GP Coat・Red | 克蕾爾腰衣【ＧＰ】・赤 |
+| 6052 | Claire FZ Coil・Black | 克蕾爾腰甲【ＦＺ】・黑 |
+| 6053 | Claire HS Coil・Black | 克蕾爾腰甲【ＨＳ】・黑 |
+| 6054 | Claire GS Coil・Black | 克蕾爾腰甲【ＧＳ】・黑 |
+| 6055 | Claire GP Coil・Black | 克蕾爾腰甲【ＧＰ】・黑 |
+| 6056 | Claire FZ Coat・Black | 克蕾爾腰衣【ＦＺ】・黑 |
+| 6057 | Claire HS Coat・Black | 克蕾爾腰衣【ＨＳ】・黑 |
+| 6058 | Claire GS Coat・Black | 克蕾爾腰衣【ＧＳ】・黑 |
+| 6059 | Claire GP Coat・Black | 克蕾爾腰衣【ＧＰ】・黑 |
 | 6060 | Text HS Coil・Purple | 文書腰甲【ＨＳ】・紫 |
 | 6061 | Text GS Coil・Purple | 文書腰甲【ＧＳ】・紫 |
 | 6062 | Text GP Coil・Purple | 文書腰甲【ＧＰ】・紫 |
@@ -215,12 +215,12 @@
 | 6209 | Maisto HS Coat・Pink | 麥斯托腰衣【ＨＳ】・桃 |
 | 6210 | Maisto GS Coat・Pink | 麥斯托腰衣【ＧＳ】・桃 |
 | 6211 | Maisto GP Coat・Pink | 麥斯托腰衣【ＧＰ】・桃 |
-| 6212 | Cayssis HS Coil Water | 凱西斯水腰甲【ＨＳ】 |
-| 6213 | Cayssis GS Coil Water | 凱西斯水腰甲【ＧＳ】 |
-| 6214 | Cayssis GP Coil Water | 凱西斯水腰甲【ＧＰ】 |
-| 6215 | Cayssis HS Coat Water | 凱西斯水腰衣【ＨＳ】 |
-| 6216 | Cayssis GS Coat Water | 凱西斯水腰衣【ＧＳ】 |
-| 6217 | Cayssis GP Coat Water | 凱西斯水腰衣【ＧＰ】 |
+| 6212 | Cayssis HS Coil Water | 凱西斯腰甲【ＨＳ】・水 |
+| 6213 | Cayssis GS Coil Water | 凱西斯腰甲【ＧＳ】・水 |
+| 6214 | Cayssis GP Coil Water | 凱西斯腰甲【ＧＰ】・水 |
+| 6215 | Cayssis HS Coat Water | 凱西斯腰衣【ＨＳ】・水 |
+| 6216 | Cayssis GS Coat Water | 凱西斯腰衣【ＧＳ】・水 |
+| 6217 | Cayssis GP Coat Water | 凱西斯腰衣【ＧＰ】・水 |
 | 6218 | Cayssis HS Coil Red | 凱西斯腰甲【ＨＳ】・赤 |
 | 6219 | Cayssis GS Coil Red | 凱西斯腰甲【ＧＳ】・赤 |
 | 6220 | Cayssis GP Coil Red | 凱西斯腰甲【ＧＰ】・赤 |
@@ -301,8 +301,8 @@
 | 6295 | Galitos GP Coat・Red | 加里托斯腰衣【ＧＰ】・赤 |
 | 6296 | Galitos GP Belt・Black | 加里托斯腰帶【ＧＰ】・黑 |
 | 6297 | Galitos GP Coat・Black | 加里托斯腰衣【ＧＰ】・黑 |
-| 6298 | Galitos GP Belt・Water | 加里托斯水腰帶【ＧＰ】 |
-| 6299 | Galitos GP Coat・Water | 加里托斯水腰衣【ＧＰ】 |
+| 6298 | Galitos GP Belt・Water | 加里托斯腰帶【ＧＰ】・水 |
+| 6299 | Galitos GP Coat・Water | 加里托斯腰衣【ＧＰ】・水 |
 | 6300 | Lien GP Coil・Blue | 里恩腰甲【ＧＰ】・青 |
 | 6301 | Lien GP Coat・Blue | 里恩腰衣【ＧＰ】・青 |
 | 6302 | Lien GP Coil・Red | 里恩腰甲【ＧＰ】・赤 |
@@ -319,13 +319,13 @@
 | 6313 | Melety GP Coat・Blue | 梅蕾蒂腰衣【ＧＰ】・青 |
 | 6314 | Melety GP Coil・Black | 梅蕾蒂腰甲【ＧＰ】・黑 |
 | 6315 | Melety GP Coat・Black | 梅蕾蒂腰衣【ＧＰ】・黑 |
-| 6316 | Steno GP Elytra ー・Orange | 水竜翅腰【ＧＰ】 |
+| 6316 | Steno GP Elytra ー・Orange | 水竜翅腰【ＧＰ】・橙 |
 | 6317 | Steno GP Coat・Orange | 水竜腰衣【ＧＰ】・橙 |
-| 6318 | Steno GP Elytra ー・Peach | 水竜翅腰【ＧＰ】 |
+| 6318 | Steno GP Elytra ー・Peach | 水竜翅腰【ＧＰ】・桃 |
 | 6319 | Steno GP Coat・Peach | 水竜腰衣【ＧＰ】・桃 |
-| 6320 | Steno GP Elytra ー・Blue | 水竜翅腰【ＧＰ】 |
+| 6320 | Steno GP Elytra ー・Blue | 水竜翅腰【ＧＰ】・青 |
 | 6321 | Steno GP Coat・Blue | 水竜腰衣【ＧＰ】・青 |
-| 6322 | Steno GP Elytra ー・Red | 水竜翅腰【ＧＰ】 |
+| 6322 | Steno GP Elytra ー・Red | 水竜翅腰【ＧＰ】・赤 |
 | 6323 | Steno GP Coat・Red | 水竜腰衣【ＧＰ】・赤 |
 | 6324 | Star Festival GP Obi 【 Red 】 | 星祭帶【ＧＰ】・赤 |
 | 6325 | Tanabata GP Obi 【 Red 】 | 七夕帶【ＧＰ】・赤 |
@@ -423,10 +423,10 @@
 | 6417 | Suzaku・刀神GX Coil | 朱雀腰甲【ＧＸ】 |
 | 6418 | Genbu・刀神GX Coil | 玄武腰甲【ＧＸ】 |
 | 6419 | Seiryu・刀神GX Coil | 青龍腰甲【ＧＸ】 |
-| 6420 | Byakko・Heaven 槍GX Coil | 白虎腰甲【ＧＸ】・天 |
-| 6421 | Suzaku・Heaven 槍GX Coil | 朱雀腰甲【ＧＸ】・天 |
-| 6422 | Genbu・Heaven 槍GX Coil | 玄武腰甲【ＧＸ】・天 |
-| 6423 | Seiryu・Heaven 槍GX Coil | 青龍腰甲【ＧＸ】・天 |
+| 6420 | Byakko・Heaven 槍GX Coil | 白虎天腰甲【ＧＸ】 |
+| 6421 | Suzaku・Heaven 槍GX Coil | 朱雀天腰甲【ＧＸ】 |
+| 6422 | Genbu・Heaven 槍GX Coil | 玄武天腰甲【ＧＸ】 |
+| 6423 | Seiryu・Heaven 槍GX Coil | 青龍天腰甲【ＧＸ】 |
 | 6424 | Byakko・砲皇GX Coil | 白虎腰甲【ＧＸ】 |
 | 6425 | Suzaku・砲皇GX Coil | 朱雀腰甲【ＧＸ】 |
 | 6426 | Genbu・砲皇GX Coil | 玄武腰甲【ＧＸ】 |

@@ -214,7 +214,7 @@
 | 13208 | Secuti D Feet・Red | 斯艾克烏足・赤 |
 | 13209 | Secuti D Feet・White | 斯艾克烏足・白 |
 | 13210 | Rockman D Boots | 爾歐克阿靴 |
-| 13211 | Issen D [Greaves 】・Red | 伊斯艾恩護腿・赤 |
+| 13211 | Issen D [Greaves 】・Red | 一閃護腿・赤 |
 | 13212 | 蜂針D [Greaves 】・Orange | 蜂針護腿・橙 |
 | 13213 | Patapatagook C・Rainbow | 普阿特阿護腿・虹 |
 | 13214 | Patapatagook D・Gold | 普阿特阿護腿・金 |
@@ -471,7 +471,7 @@
 | 13465 | Seiryu・双龍D Feet | 双龍足 |
 | 13466 | Seiryu・剣王D Feet | 剣王足 |
 | 13467 | Seiryu・刀神D Feet | 刀神足 |
-| 13468 | Seiryu・Heaven 槍D Feet | 槍足・天 |
+| 13468 | Seiryu・Heaven 槍D Feet | 槍天足 |
 | 13469 | Seiryu・砲皇D Feet | 砲皇足 |
 | 13470 | Seiryu・鈍器獣D Feet | 鈍器獣足 |
 | 13471 | Seiryu・奏帝D Feet | 奏帝足 |
@@ -479,7 +479,7 @@
 | 13473 | Seiryu・斬将D Feet | 斬将足 |
 | 13474 | Seiryu・銃傑D Boots | 銃傑靴 |
 | 13475 | Seiryu・銃仙D Boots | 銃仙靴 |
-| 13476 | Seiryu・Bow 鬼D Boots | 鬼靴 |
+| 13476 | Seiryu・Bow 鬼D Boots | 青龍靴 |
 | 13477 | Seiryu・磁星D Feet | 磁星足 |
 | 13478 | K.Lobster Feet PD Black | 王龍蝦足【ＰＤ】・黑 |
 | 13479 | K.Lobster Feet PD Green | 王龍蝦足【ＰＤ】・緑 |

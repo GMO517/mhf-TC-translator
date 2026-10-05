@@ -404,21 +404,21 @@
 | 9398 | Magos GP Haar・Yellow | 瑪戈斯髮【ＧＰ】・黄 |
 | 9399 | Magos GP Head・Red | 瑪戈斯頭兜【ＧＰ】・赤 |
 | 9400 | Magos GP Haar・Red | 瑪戈斯髮【ＧＰ】・赤 |
-| 9401 | Magos GP Head・Water | 瑪戈斯水頭兜【ＧＰ】 |
-| 9402 | Magos GP Haar・Water | 瑪戈斯水髮【ＧＰ】 |
+| 9401 | Magos GP Head・Water | 瑪戈斯頭兜【ＧＰ】・水 |
+| 9402 | Magos GP Haar・Water | 瑪戈斯髮【ＧＰ】・水 |
 | 9403 | Magos GP Head・Blue | 瑪戈斯頭兜【ＧＰ】・青 |
 | 9404 | Magos GP Haar・Blue | 瑪戈斯髮【ＧＰ】・青 |
-| 9405 | Yukumo Kasa・Heaven | 結雲天笠・天 |
-| 9406 | Yukumo Kasa G・Heaven | 結雲天笠【Ｇ】・天 |
-| 9407 | Yukumo Kasa GF・Heaven | 結雲天笠【ＧＦ】・天 |
-| 9408 | Yukumo Kasa GX・Heaven | 結雲天笠【ＧＸ】・天 |
+| 9405 | Yukumo Kasa・Heaven | 結雲天笠 |
+| 9406 | Yukumo Kasa G・Heaven | 結雲天笠【Ｇ】 |
+| 9407 | Yukumo Kasa GF・Heaven | 結雲天笠【ＧＦ】 |
+| 9408 | Yukumo Kasa GX・Heaven | 結雲天笠【ＧＸ】 |
 | 9409 | Furogada G Head | 芙烏爾歐頭兜【Ｇ】 |
 | 9410 | Furogada GF Head | 芙烏爾歐頭兜【ＧＦ】 |
 | 9411 | Furogada GX Head | 芙烏爾歐頭兜【ＧＸ】 |
-| 9412 | Yukumo Kasa・Earth | 結雲地笠・地 |
-| 9413 | Yukumo Kasa G・Earth | 結雲地笠【Ｇ】・地 |
-| 9414 | Yukumo Kasa GF・Earth | 結雲地笠【ＧＦ】・地 |
-| 9415 | Yukumo Kasa GX・Earth | 結雲地笠【ＧＸ】・地 |
+| 9412 | Yukumo Kasa・Earth | 結雲地笠 |
+| 9413 | Yukumo Kasa G・Earth | 結雲地笠【Ｇ】 |
+| 9414 | Yukumo Kasa GF・Earth | 結雲地笠【ＧＦ】 |
+| 9415 | Yukumo Kasa GX・Earth | 結雲地笠【ＧＸ】 |
 | 9416 | Furogada G Cap | 芙烏爾歐兜帽【Ｇ】 |
 | 9417 | Furogada GF Cap | 芙烏爾歐兜帽【ＧＦ】 |
 | 9418 | Furogada GX Cap | 芙烏爾歐兜帽【ＧＸ】 |

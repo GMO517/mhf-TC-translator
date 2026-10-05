@@ -157,9 +157,9 @@
 | 10651 | Wander D Mail・Red | 沃阿恩艾鎧甲・赤 |
 | 10652 | Wander D Mail・White | 沃阿恩艾鎧甲・白 |
 | 10653 | Wander D Mail・Black | 沃阿恩艾鎧甲・黑 |
-| 10654 | Blue Ice Emperor D Mail | 伊克艾斯鎧甲・青 |
-| 10655 | White Ice Emperor D Mail | 伊克艾斯鎧甲・白 |
-| 10656 | Red Ice Emperor D Mail | 伊克艾斯鎧甲・赤 |
+| 10654 | Blue Ice Emperor D Mail | 青冰帝鎧甲 |
+| 10655 | White Ice Emperor D Mail | 白冰帝鎧甲 |
+| 10656 | Red Ice Emperor D Mail | 赤冰帝鎧甲 |
 | 10657 | Rance C Jacket | 爾阿恩艾夾克 |
 | 10658 | Santa D Vest | 斯阿恩阿背心 |
 | 10659 | Anteka D Vest | 雪鹿背心 |
@@ -198,10 +198,10 @@
 | 10692 | Farunokku D Vest | 芙阿爾烏背心 |
 | 10693 | Pokara D Mail | 普歐克阿鎧甲 |
 | 10694 | Pokara D Vest | 普歐克阿背心 |
-| 10695 | Genesis D【胴当て】 | 創世鎧甲 |
-| 10696 | Motion D【胴当て】 | 律動鎧甲 |
-| 10697 | Lightning D【胴当て】 | 雷光鎧甲 |
-| 10698 | Thunder D【胴当て】 | 雷鎧甲 |
+| 10695 | Genesis D【胴当て】 | 格艾恩艾胴當 |
+| 10696 | Motion D【胴当て】 | 姆歐特伊胴當 |
+| 10697 | Lightning D【胴当て】 | 雷光胴當 |
+| 10698 | Thunder D【胴当て】 | 雷胴當 |
 | 10699 | Toridcless D Mail | 特歐爾伊鎧甲 |
 | 10700 | Toridcless D Vest | 特歐爾伊背心 |
 | 10701 | Guan D Mail | 格烏恩鎧甲 |
@@ -213,8 +213,8 @@
 | 10707 | Blitz D Vest | 布伊特背心 |
 | 10708 | Stroma D Mail | 斯歐姆阿鎧甲 |
 | 10709 | Stroma D Vest | 斯歐姆阿背心 |
-| 10710 | Inagami D【胴当て】 | 雅翁龍鎧甲 |
-| 10711 | Inagami D【胴当て】 | 雅翁龍鎧甲 |
+| 10710 | Inagami D【胴当て】 | 雅翁龍胴當 |
+| 10711 | Inagami D【胴当て】 | 雅翁龍胴當 |
 | 10712 | Altera D Mail | 阿爾艾爾鎧甲 |
 | 10713 | Altera D Vest | 阿爾艾爾背心 |
 | 10714 | Pobo D Mail | 普歐布歐鎧甲 |
@@ -297,8 +297,8 @@
 | 10791 | Bistro D Vest | 布伊斯歐背心 |
 | 10792 | King Beetle D Thorax | 克伊恩艾胸甲 |
 | 10793 | Butterfly D Thorax | 布烏特艾胸甲 |
-| 10794 | Demon Lord ノ肩鎧D | 惡魔鎧甲 |
-| 10795 | Demon Tale ノ肩鎧D | 惡魔鎧甲 |
+| 10794 | Demon Lord ノ肩鎧D | 魔王鎧甲 |
+| 10795 | Demon Tale ノ肩鎧D | 魔譚鎧甲 |
 | 10796 | 鬼凛ノ肩鎧D | 鬼凛肩鎧鎧甲 |
 | 10797 | Empress C Mail | 女帝鎧甲 |
 | 10798 | Empress C Vest | 女帝背心 |
@@ -308,8 +308,8 @@
 | 10802 | Dragon D Skin | 龍皮 |
 | 10803 | Nargacuga C Mail | 恩阿爾阿鎧甲 |
 | 10804 | Nargacuga C Vest | 恩阿爾阿背心 |
-| 10805 | Burning Cliff GX【胴当て】 | 崖鎧甲【ＧＸ】 |
-| 10806 | Crimson Cliff GX【胴当て】 | 崖鎧甲【ＧＸ】 |
+| 10805 | Burning Cliff GX【胴当て】 | 燃崖胴當【ＧＸ】 |
+| 10806 | Crimson Cliff GX【胴当て】 | 深紅崖胴當【ＧＸ】 |
 | 10807 | Vashimu Z Mail | 尾晶蠍鎧甲【Ｚ】 |
 | 10808 | Vashimu ZF Mail | 尾晶蠍鎧甲【ＺＦ】 |
 | 10809 | Vashimu ZY Mail | 尾晶蠍鎧甲【ＺＹ】 |
@@ -433,8 +433,8 @@
 | 10927 | Pashio GX Vest | 普阿夏伊背心【ＧＸ】 |
 | 10928 | Harudo D Mail | 赫阿爾烏鎧甲 |
 | 10929 | Harudo D Vest | 赫阿爾烏背心 |
-| 10930 | Elegance D【胴当て】 | 雅鎧甲 |
-| 10931 | Grace D【胴当て】 | 恩寵鎧甲 |
+| 10930 | Elegance D【胴当て】 | 艾爾艾格胴當 |
+| 10931 | Grace D【胴当て】 | 格阿克艾胴當 |
 | 10932 | Meraginasu D Mail | 姆艾爾阿鎧甲 |
 | 10933 | Meraginasu D Vest | 姆艾爾阿背心 |
 | 10934 | Hesyumu D Mail | 赫艾斯烏鎧甲 |
@@ -466,19 +466,19 @@
 | 10960 | Lucchese D Mail | 爾烏克艾鎧甲 |
 | 10961 | Entora D Mail | 艾恩歐爾鎧甲 |
 | 10962 | YoRHa No.9 Type S Vest | 寄葉九號型背心【Ｓ】 |
-| 10963 | YoRHa No.9 Type S F Vest | 寄葉九號型背心【Ｓ】【Ｆ】 |
-| 10964 | YoRHa No.9 Type S FZ Vest | 寄葉九號型背心【Ｓ】【ＦＺ】 |
-| 10965 | YoRHa No.9 Type S HS Vest | 寄葉九號型背心【Ｓ】【ＨＳ】 |
-| 10966 | YoRHa No.9 Type S GS Vest | 寄葉九號型背心【Ｓ】【ＧＳ】 |
-| 10967 | YoRHa No.9 Type S GP Vest | 寄葉九號型背心【Ｓ】【ＧＰ】 |
-| 10968 | YoRHa No.9 Type S ZP Vest | 寄葉九號型背心【Ｓ】【ＺＰ】 |
+| 10963 | YoRHa No.9 Type S F Vest | 寄葉九號型背心【Ｆ】 |
+| 10964 | YoRHa No.9 Type S FZ Vest | 寄葉九號型背心【ＦＺ】 |
+| 10965 | YoRHa No.9 Type S HS Vest | 寄葉九號型背心【ＨＳ】 |
+| 10966 | YoRHa No.9 Type S GS Vest | 寄葉九號型背心【ＧＳ】 |
+| 10967 | YoRHa No.9 Type S GP Vest | 寄葉九號型背心【ＧＰ】 |
+| 10968 | YoRHa No.9 Type S ZP Vest | 寄葉九號型背心【ＺＰ】 |
 | 10969 | YoRHa No.9 Type S Suit | 寄葉九號型套裝【Ｓ】 |
-| 10970 | YoRHa No.9 Type S F Suit | 寄葉九號型套裝【Ｓ】【Ｆ】 |
-| 10971 | YoRHa No.9 Type S FZ Suit | 寄葉九號型套裝【Ｓ】【ＦＺ】 |
-| 10972 | YoRHa No.9 Type S HS Suit | 寄葉九號型套裝【Ｓ】【ＨＳ】 |
-| 10973 | YoRHa No.9 Type S GS Suit | 寄葉九號型套裝【Ｓ】【ＧＳ】 |
-| 10974 | YoRHa No.9 Type S GP Suit | 寄葉九號型套裝【Ｓ】【ＧＰ】 |
-| 10975 | YoRHa No.9 Type S ZP Suit | 寄葉九號型套裝【Ｓ】【ＺＰ】 |
+| 10970 | YoRHa No.9 Type S F Suit | 寄葉九號型套裝【Ｆ】 |
+| 10971 | YoRHa No.9 Type S FZ Suit | 寄葉九號型套裝【ＦＺ】 |
+| 10972 | YoRHa No.9 Type S HS Suit | 寄葉九號型套裝【ＨＳ】 |
+| 10973 | YoRHa No.9 Type S GS Suit | 寄葉九號型套裝【ＧＳ】 |
+| 10974 | YoRHa No.9 Type S GP Suit | 寄葉九號型套裝【ＧＰ】 |
+| 10975 | YoRHa No.9 Type S ZP Suit | 寄葉九號型套裝【ＺＰ】 |
 | 10976 | YoRHa No.2 Type B Vest | 寄葉二號Ｂ型背心 |
 | 10977 | YoRHa No.2 Type B F Vest | 寄葉二號Ｂ型背心【Ｆ】 |
 | 10978 | YoRHa No.2 Type B FZ Vest | 寄葉二號Ｂ型背心【ＦＺ】 |

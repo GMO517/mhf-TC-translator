@@ -51,9 +51,9 @@
 | 11545 | Wander D Head・Red | 沃阿恩艾頭兜・赤 |
 | 11546 | Wander D Head・White | 沃阿恩艾頭兜・白 |
 | 11547 | Wander D Head・Black | 沃阿恩艾頭兜・黑 |
-| 11548 | Blue Ice Emperor D Head | 伊克艾斯頭兜・青 |
-| 11549 | White Ice Emperor D Head | 伊克艾斯頭兜・白 |
-| 11550 | Red Ice Emperor D Head | 伊克艾斯頭兜・赤 |
+| 11548 | Blue Ice Emperor D Head | 青冰帝頭兜 |
+| 11549 | White Ice Emperor D Head | 白冰帝頭兜 |
+| 11550 | Red Ice Emperor D Head | 赤冰帝頭兜 |
 | 11551 | Rance C Head | 爾阿恩艾頭兜 |
 | 11552 | Santa D Head | 斯阿恩阿頭兜 |
 | 11553 | Anteka D Head | 雪鹿頭兜 |
@@ -100,9 +100,9 @@
 | 11594 | Farunokku D Cap | 芙阿爾烏兜帽 |
 | 11595 | Pokara D Helm | 普歐克阿頭兜 |
 | 11596 | Pokara D Cap | 普歐克阿兜帽 |
-| 11597 | Genesis D【五線譜】 | 創世頭兜 |
-| 11598 | Motion D【五線譜】 | 律動頭兜 |
-| 11599 | Lightning D Kabuto | 爾伊格伊兜 |
+| 11597 | Genesis D【五線譜】 | 格艾恩艾頭兜 |
+| 11598 | Motion D【五線譜】 | 姆歐特伊頭兜 |
+| 11599 | Lightning D Kabuto | 雷光兜 |
 | 11600 | Thunder D Kabuto | 雷兜 |
 | 11601 | Toridcless D Helm | 特歐爾伊頭兜 |
 | 11602 | Toridcless D Cap | 特歐爾伊兜帽 |
@@ -115,8 +115,8 @@
 | 11609 | Blitz D Horn | 布伊特角 |
 | 11610 | Stroma D Helm | 斯歐姆阿頭兜 |
 | 11611 | Stroma D Cap | 斯歐姆阿兜帽 |
-| 11612 | Elegance D【趣】 | 雅頭兜 |
-| 11613 | Grace D【趣】 | 恩寵頭兜 |
+| 11612 | Elegance D【趣】 | 艾爾艾格頭兜 |
+| 11613 | Grace D【趣】 | 格阿克艾頭兜 |
 | 11614 | Altera D Helm | 阿爾艾爾頭兜 |
 | 11615 | Altera D Cap | 阿爾艾爾兜帽 |
 | 11616 | Pobo D Helm | 普歐布歐頭兜 |
@@ -213,8 +213,8 @@
 | 11707 | Butterfly D Vertex | 布烏特艾頭頂 |
 | 11708 | Vol Admiral D | 芙歐爾阿頭兜 |
 | 11709 | Vol Legend D | 芙歐爾艾頭兜 |
-| 11710 | Demon Lord Horn D | 德艾姆歐角 |
-| 11711 | Demon Tale ノ角D | 惡魔頭兜 |
+| 11710 | Demon Lord Horn D | 魔王角 |
+| 11711 | Demon Tale ノ角D | 魔譚頭兜 |
 | 11712 | 鬼凛ノ角D | 鬼凛角頭兜 |
 | 11713 | Empress C Sector | 艾姆艾斯頭兜 |
 | 11714 | Empress C Mask | 女帝帽子 |
@@ -225,7 +225,7 @@
 | 11719 | Nargacuga C Helm | 恩阿爾阿頭兜 |
 | 11720 | Nargacuga C Cap | 恩阿爾阿兜帽 |
 | 11721 | Burning Cliff GX Kabuto | 燃崖兜【ＧＸ】 |
-| 11722 | Crimson Cliff GX Kabuto | 崖兜【ＧＸ】・紅 |
+| 11722 | Crimson Cliff GX Kabuto | 深紅崖兜【ＧＸ】 |
 | 11723 | Vashimu Z Helm | 尾晶蠍頭兜【Ｚ】 |
 | 11724 | Vashimu ZF Helm | 尾晶蠍頭兜【ＺＦ】 |
 | 11725 | Vashimu ZY Helm | 尾晶蠍頭兜【ＺＹ】 |
@@ -356,8 +356,8 @@
 | 11850 | Pashio GX Cap | 普阿夏伊兜帽【ＧＸ】 |
 | 11851 | Harudo D Helm | 赫阿爾烏頭兜 |
 | 11852 | Harudo D Cap | 赫阿爾烏兜帽 |
-| 11853 | Elegance D【趣】 | 雅頭兜 |
-| 11854 | Grace D【趣】 | 恩寵頭兜 |
+| 11853 | Elegance D【趣】 | 艾爾艾格頭兜 |
+| 11854 | Grace D【趣】 | 格阿克艾頭兜 |
 | 11855 | Meraginasu D Helm | 姆艾爾阿頭兜 |
 | 11856 | Meraginasu D Cap | 姆艾爾阿兜帽 |
 | 11857 | Hesyumu D Head | 赫艾斯烏頭兜 |
@@ -390,19 +390,19 @@
 | 11884 | Lucchese D Head | 爾烏克艾頭兜 |
 | 11885 | Entora D Helm | 艾恩歐爾頭兜 |
 | 11886 | YoRHa No.9 Type S Head | 寄葉九號型頭兜【Ｓ】 |
-| 11887 | YoRHa No.9 Type S F Head | 寄葉九號型頭兜【Ｓ】【Ｆ】 |
-| 11888 | YoRHa No.9 Type S FZ Head | 寄葉九號型頭兜【Ｓ】【ＦＺ】 |
-| 11889 | YoRHa No.9 Type S HS Head | 寄葉九號型頭兜【Ｓ】【ＨＳ】 |
-| 11890 | YoRHa No.9 Type S GS Head | 寄葉九號型頭兜【Ｓ】【ＧＳ】 |
-| 11891 | YoRHa No.9 Type S GP Head | 寄葉九號型頭兜【Ｓ】【ＧＰ】 |
-| 11892 | YoRHa No.9 Type S ZP Head | 寄葉九號型頭兜【Ｓ】【ＺＰ】 |
+| 11887 | YoRHa No.9 Type S F Head | 寄葉九號型頭兜【Ｆ】 |
+| 11888 | YoRHa No.9 Type S FZ Head | 寄葉九號型頭兜【ＦＺ】 |
+| 11889 | YoRHa No.9 Type S HS Head | 寄葉九號型頭兜【ＨＳ】 |
+| 11890 | YoRHa No.9 Type S GS Head | 寄葉九號型頭兜【ＧＳ】 |
+| 11891 | YoRHa No.9 Type S GP Head | 寄葉九號型頭兜【ＧＰ】 |
+| 11892 | YoRHa No.9 Type S ZP Head | 寄葉九號型頭兜【ＺＰ】 |
 | 11893 | YoRHa No.9 Type S Mask | 寄葉九號型帽子【Ｓ】 |
-| 11894 | YoRHa No.9 Type S F Mask | 寄葉九號型帽子【Ｓ】【Ｆ】 |
-| 11895 | YoRHa No.9 Type S FZ Mask | 寄葉九號型帽子【Ｓ】【ＦＺ】 |
-| 11896 | YoRHa No.9 Type S HS Mask | 寄葉九號型帽子【Ｓ】【ＨＳ】 |
-| 11897 | YoRHa No.9 Type S GS Mask | 寄葉九號型帽子【Ｓ】【ＧＳ】 |
-| 11898 | YoRHa No.9 Type S GP Mask | 寄葉九號型帽子【Ｓ】【ＧＰ】 |
-| 11899 | YoRHa No.9 Type S ZP Mask | 寄葉九號型帽子【Ｓ】【ＺＰ】 |
+| 11894 | YoRHa No.9 Type S F Mask | 寄葉九號型帽子【Ｆ】 |
+| 11895 | YoRHa No.9 Type S FZ Mask | 寄葉九號型帽子【ＦＺ】 |
+| 11896 | YoRHa No.9 Type S HS Mask | 寄葉九號型帽子【ＨＳ】 |
+| 11897 | YoRHa No.9 Type S GS Mask | 寄葉九號型帽子【ＧＳ】 |
+| 11898 | YoRHa No.9 Type S GP Mask | 寄葉九號型帽子【ＧＰ】 |
+| 11899 | YoRHa No.9 Type S ZP Mask | 寄葉九號型帽子【ＺＰ】 |
 | 11900 | YoRHa No.2 Type B Head | 寄葉二號Ｂ型頭兜 |
 | 11901 | YoRHa No.2 Type B F Head | 寄葉二號Ｂ型頭兜【Ｆ】 |
 | 11902 | YoRHa No.2 Type B FZ Head | 寄葉二號Ｂ型頭兜【ＦＺ】 |
@@ -477,22 +477,22 @@
 | 11971 | Akahara Reisou GN Head ZP Black | 赤原禮裝頭兜【ＺＰ】・黑 |
 | 11972 | Akahara Reisou BM Head ZP White | 赤原禮裝頭兜【ＺＰ】・白 |
 | 11973 | Akahara Reisou GN Head ZP White | 赤原禮裝頭兜【ＺＰ】・白 |
-| 11974 | Knight King Hair BM ZP Blue | 克伊格伊頭兜【ＺＰ】・青 |
-| 11975 | Knight King Hair GN ZP Blue | 克伊格伊頭兜【ＺＰ】・青 |
-| 11976 | Knight King Hair BM ZP Red | 克伊格伊頭兜【ＺＰ】・赤 |
-| 11977 | Knight King Hair GN ZP Red | 克伊格伊頭兜【ＺＰ】・赤 |
-| 11978 | Knight King Hair BM ZP Black | 克伊格伊頭兜【ＺＰ】・黑 |
-| 11979 | Knight King Hair GN ZP Black | 克伊格伊頭兜【ＺＰ】・黑 |
-| 11980 | Knight King Hair BM ZP White | 克伊格伊頭兜【ＺＰ】・白 |
-| 11981 | Knight King Hair GN ZP White | 克伊格伊頭兜【ＺＰ】・白 |
-| 11982 | Hero King Earring BM ZP Gold | 赫艾爾歐頭兜【ＺＰ】・金 |
-| 11983 | Hero King Earring GN ZP Gold | 赫艾爾歐頭兜【ＺＰ】・金 |
-| 11984 | Hero King Earring BM ZP Black | 赫艾爾歐頭兜【ＺＰ】・黑 |
-| 11985 | Hero King Earring GN ZP Black | 赫艾爾歐頭兜【ＺＰ】・黑 |
-| 11986 | Hero King Earring BM ZP White | 赫艾爾歐頭兜【ＺＰ】・白 |
-| 11987 | Hero King Earring GN ZP White | 赫艾爾歐頭兜【ＺＰ】・白 |
-| 11988 | Hero King Earring BM ZP Red | 赫艾爾歐頭兜【ＺＰ】・赤 |
-| 11989 | Hero King Earring GN ZP Red | 赫艾爾歐頭兜【ＺＰ】・赤 |
+| 11974 | Knight King Hair BM ZP Blue | 騎士王頭兜【ＺＰ】・青 |
+| 11975 | Knight King Hair GN ZP Blue | 騎士王頭兜【ＺＰ】・青 |
+| 11976 | Knight King Hair BM ZP Red | 騎士王頭兜【ＺＰ】・赤 |
+| 11977 | Knight King Hair GN ZP Red | 騎士王頭兜【ＺＰ】・赤 |
+| 11978 | Knight King Hair BM ZP Black | 騎士王頭兜【ＺＰ】・黑 |
+| 11979 | Knight King Hair GN ZP Black | 騎士王頭兜【ＺＰ】・黑 |
+| 11980 | Knight King Hair BM ZP White | 騎士王頭兜【ＺＰ】・白 |
+| 11981 | Knight King Hair GN ZP White | 騎士王頭兜【ＺＰ】・白 |
+| 11982 | Hero King Earring BM ZP Gold | 英雄王頭兜【ＺＰ】・金 |
+| 11983 | Hero King Earring GN ZP Gold | 英雄王頭兜【ＺＰ】・金 |
+| 11984 | Hero King Earring BM ZP Black | 英雄王頭兜【ＺＰ】・黑 |
+| 11985 | Hero King Earring GN ZP Black | 英雄王頭兜【ＺＰ】・黑 |
+| 11986 | Hero King Earring BM ZP White | 英雄王頭兜【ＺＰ】・白 |
+| 11987 | Hero King Earring GN ZP White | 英雄王頭兜【ＺＰ】・白 |
+| 11988 | Hero King Earring BM ZP Red | 英雄王頭兜【ＺＰ】・赤 |
+| 11989 | Hero King Earring GN ZP Red | 英雄王頭兜【ＺＰ】・赤 |
 | 11990 | Gorgon ZP Head・Black | 戈耳工頭兜【ＺＰ】・黑 |
 | 11991 | Gorgon ZP Mask・Black | 戈耳工帽子【ＺＰ】・黑 |
 | 11992 | Gorgon ZP Head・Blue | 戈耳工頭兜【ＺＰ】・青 |

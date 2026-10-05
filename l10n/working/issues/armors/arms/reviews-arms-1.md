@@ -127,8 +127,8 @@
 | 120 | ミラ Vulcan フィスト | 火神拳 |
 | 121 | ゴールド Lune Arms | 月護腕 |
 | 122 | ゴールド Lune Guard | 月臂甲 |
-| 123 | Silver Sol Arms | 日護腕・銀 |
-| 124 | Silver Sol Guard | 日臂甲・銀 |
+| 123 | Silver Sol Arms | 銀日護腕 |
+| 124 | Silver Sol Guard | 銀日臂甲 |
 | 125 | Leather S Arms | 皮革護腕【Ｓ】 |
 | 126 | Chainmail S Arms | 鎖鏈護腕【Ｓ】 |
 | 127 | Hunter's S Arms | 獵人護腕【Ｓ】 |
@@ -172,16 +172,16 @@
 | 165 | Monoblos S Guard | 一角龍臂甲【Ｓ】 |
 | 166 | Gravios S Arms | 鎧龍護腕【Ｓ】 |
 | 167 | Gravios S Guard | 鎧龍臂甲【Ｓ】 |
-| 168 | 忍の Kote・Heaven | 忍の籠手・天 |
-| 169 | 忍の Kote・Earth | 忍の籠手・地 |
+| 168 | 忍の Kote・Heaven | 忍の天籠手 |
+| 169 | 忍の Kote・Earth | 忍の地籠手 |
 | 170 | Guild Guard Claws Crimson | 獵團臂甲・紅 |
 | 171 | Guild Guard Cuffs Crimson | 獵團臂甲・紅 |
 | 172 | Guild Guard Claws Crimson | 獵團臂甲・紅 |
 | 173 | Guild Guard Cuffs Crimson | 獵團臂甲・紅 |
-| 174 | 暁丸・覇【 Kote 】 | 暁丸覇籠手 |
-| 175 | 曙丸・覇【 Kote 】 | 曙丸覇籠手 |
-| 176 | 凛・覇【 Kote 】 | 凛覇籠手 |
-| 177 | 艶・覇【 Kote 】 | 艶覇籠手 |
+| 174 | 暁丸・覇【 Kote 】 | 暁丸籠手 |
+| 175 | 曙丸・覇【 Kote 】 | 曙丸籠手 |
+| 176 | 凛・覇【 Kote 】 | 凛籠手 |
+| 177 | 艶・覇【 Kote 】 | 艶籠手 |
 | 178 | Dragon Sクロウ | 龍爪【Ｓ】 |
 | 179 | Dragon Sフィスト | 龍拳【Ｓ】 |
 | 180 | Hermitaur Arms | 盾蟹護腕 |
@@ -218,14 +218,14 @@
 | 211 | Toyotama [Sleeves 】 | 豐玉袖 |
 | 212 | Empress Arms | 女帝護腕 |
 | 213 | Empress Guard | 女帝臂甲 |
-| 214 | Gold 剛【 Kote 】 | 剛籠手・金 |
+| 214 | Gold 剛【 Kote 】 | 金籠手剛 |
 | 215 | 不動【 Kote 】 | 不動籠手 |
 | 216 | Kaiser Arms | 帝王護腕 |
 | 217 | Kaiser Guard | 帝王臂甲 |
 | 218 | 夜叉 [Vambraces 】 | 夜叉臂甲 |
 | 219 | 修羅 [Vambraces 】 | 修羅臂甲 |
 | 220 | Golden Kote | 金籠手 |
-| 221 | Puppeteer ノ Kote | 籠手 |
+| 221 | Puppeteer ノ Kote | 操偶籠手 |
 | 222 | White Fatalis クロウ | 白黑龍爪 |
 | 223 | White Fatalis フィスト | 白黑龍拳 |
 | 224 | Black Belt S Arms | 黑帶護腕【Ｓ】 |
@@ -254,11 +254,11 @@
 | 247 | Gia U Guard | 格伊臂甲【Ｕ】 |
 | 248 | White Cat Arms | 白猫護腕 |
 | 249 | Black Cat Arms | 黑猫護腕 |
-| 250 | Gold Cat Arms | 猫護腕・金 |
+| 250 | Gold Cat Arms | 金猫護腕 |
 | 251 | Gothic Arms | 哥德護腕 |
 | 252 | Gothic F Arms | 哥德護腕【Ｆ】 |
 | 253 | Beil Gauntlets | 貝爾手甲 |
-| 254 | Comrade Arms 【猩】 | 戰友猩護腕 |
+| 254 | Comrade Arms 【猩】 | 戰友護腕猩 |
 | 255 | Jisutoreru Arms | 吉斯特雷護腕 |
 | 256 | Duo Arms | 雙護腕 |
 | 257 | Smart Arms | 機靈護腕 |
@@ -304,32 +304,32 @@
 | 297 | Kushala Fマカーン | 鋼龍臂甲【Ｆ】 |
 | 298 | Kaiser F Arms | 帝王護腕【Ｆ】 |
 | 299 | Kaiser F Guard | 帝王臂甲【Ｆ】 |
-| 300 | Mizuha 魁【大袖】 | 魁大袖 |
-| 301 | Toyotama 魁【大袖】 | 魁大袖 |
-| 302 | Gold 剛・魁【 Kote 】 | 剛魁籠手・金 |
-| 303 | 不動・魁【 Kote 】 | 不動魁籠手 |
-| 304 | 夜叉・魁【御手】 | 夜叉魁御手 |
-| 305 | 修羅・魁【御手】 | 修羅魁御手 |
+| 300 | Mizuha 魁【大袖】 | 水羽大袖魁 |
+| 301 | Toyotama 魁【大袖】 | 豐玉大袖魁 |
+| 302 | Gold 剛・魁【 Kote 】 | 金籠手魁剛 |
+| 303 | 不動・魁【 Kote 】 | 不動籠手魁 |
+| 304 | 夜叉・魁【御手】 | 夜叉御手魁 |
+| 305 | 修羅・魁【御手】 | 修羅御手魁 |
 | 306 | Empress F Arms | 女帝護腕【Ｆ】 |
 | 307 | Empress F Guard | 女帝臂甲【Ｆ】 |
-| 308 | Golden ノ Kote・魁 | 金魁籠手 |
-| 309 | Puppeteer ノ Kote・魁 | 魁籠手 |
+| 308 | Golden ノ Kote・魁 | 金籠手魁 |
+| 309 | Puppeteer ノ Kote・魁 | 操偶籠手魁 |
 | 310 | Garuga F Arms | 黑狼鳥護腕【Ｆ】 |
 | 311 | Garuga F Guard | 黑狼鳥臂甲【Ｆ】 |
 | 312 | Kushala Fハトゥー | 鋼龍臂甲【Ｆ】 |
 | 313 | Kushala Fマカーン | 鋼龍臂甲【Ｆ】 |
 | 314 | Kaiser F Arms | 帝王護腕【Ｆ】 |
 | 315 | Kaiser F Guard | 帝王臂甲【Ｆ】 |
-| 316 | Mizuha 魁【大袖】 | 魁大袖 |
-| 317 | Toyotama 魁【大袖】 | 魁大袖 |
-| 318 | Gold 剛・魁【 Kote 】 | 剛魁籠手・金 |
-| 319 | 不動・魁【 Kote 】 | 不動魁籠手 |
-| 320 | 夜叉・魁【御手】 | 夜叉魁御手 |
-| 321 | 修羅・魁【御手】 | 修羅魁御手 |
+| 316 | Mizuha 魁【大袖】 | 水羽大袖魁 |
+| 317 | Toyotama 魁【大袖】 | 豐玉大袖魁 |
+| 318 | Gold 剛・魁【 Kote 】 | 金籠手魁剛 |
+| 319 | 不動・魁【 Kote 】 | 不動籠手魁 |
+| 320 | 夜叉・魁【御手】 | 夜叉御手魁 |
+| 321 | 修羅・魁【御手】 | 修羅御手魁 |
 | 322 | Empress F Arms | 女帝護腕【Ｆ】 |
 | 323 | Empress F Guard | 女帝臂甲【Ｆ】 |
-| 324 | Golden ノ Kote・魁 | 金魁籠手 |
-| 325 | Puppeteer ノ Kote・魁 | 魁籠手 |
+| 324 | Golden ノ Kote・魁 | 金籠手魁 |
+| 325 | Puppeteer ノ Kote・魁 | 操偶籠手魁 |
 | 326 | Garuga F Arms | 黑狼鳥護腕【Ｆ】 |
 | 327 | Garuga F Guard | 黑狼鳥臂甲【Ｆ】 |
 | 328 | Lavasioth U Arms | 熔岩龍護腕【Ｕ】 |
@@ -429,36 +429,36 @@
 | 422 | Eques Guard 改 | 改臂甲 |
 | 423 | Eques F Arms | 騎士護腕【Ｆ】 |
 | 424 | Eques F Guard | 騎士臂甲【Ｆ】 |
-| 425 | Star Festival Gauntlets・Summer [Red 】 | 斯阿爾艾手甲・赤 |
-| 426 | Star Festival Gauntlets・Summer [Blue 】 | 斯阿爾艾手甲・青 |
-| 427 | Star Festival Gauntlets・Summer [Black 】 | 斯阿爾艾手甲・黑 |
-| 428 | Star Festival Gauntlets・Summer [White 】 | 斯阿爾艾手甲・白 |
-| 429 | Tanabata Gauntlets・Summer [Red 】 | 特阿恩阿手甲・赤 |
-| 430 | Tanabata Gauntlets・Summer [Blue 】 | 特阿恩阿手甲・青 |
-| 431 | Tanabata Gauntlets・Summer [Black 】 | 特阿恩阿手甲・黑 |
-| 432 | Tanabata Gauntlets・Summer [White 】 | 特阿恩阿手甲・白 |
-| 433 | Star Festival Gauntlets・織 [Red 】 | 織手甲・赤 |
-| 434 | Star Festival Gauntlets・織 [Blue 】 | 織手甲・青 |
-| 435 | Star Festival Gauntlets・織 [Black 】 | 織手甲・黑 |
-| 436 | Star Festival Gauntlets・織 [White 】 | 織手甲・白 |
+| 425 | Star Festival Gauntlets・Summer [Red 】 | 星祭夏手甲・赤 |
+| 426 | Star Festival Gauntlets・Summer [Blue 】 | 星祭夏手甲・青 |
+| 427 | Star Festival Gauntlets・Summer [Black 】 | 星祭夏手甲・黑 |
+| 428 | Star Festival Gauntlets・Summer [White 】 | 星祭夏手甲・白 |
+| 429 | Tanabata Gauntlets・Summer [Red 】 | 七夕夏手甲・赤 |
+| 430 | Tanabata Gauntlets・Summer [Blue 】 | 七夕夏手甲・青 |
+| 431 | Tanabata Gauntlets・Summer [Black 】 | 七夕夏手甲・黑 |
+| 432 | Tanabata Gauntlets・Summer [White 】 | 七夕夏手甲・白 |
+| 433 | Star Festival Gauntlets・織 [Red 】 | 星祭織手甲・赤 |
+| 434 | Star Festival Gauntlets・織 [Blue 】 | 星祭織手甲・青 |
+| 435 | Star Festival Gauntlets・織 [Black 】 | 星祭織手甲・黑 |
+| 436 | Star Festival Gauntlets・織 [White 】 | 星祭織手甲・白 |
 | 437 | Tanabata Gauntlets・織 [Red 】 | 織手甲・赤 |
 | 438 | Tanabata Gauntlets・織 [Blue 】 | 織手甲・青 |
 | 439 | Tanabata Gauntlets・織 [Black 】 | 織手甲・黑 |
 | 440 | Tanabata Gauntlets・織 [White 】 | 織手甲・白 |
-| 441 | Star Festival Gauntlets・Heaven [Red 】 | 星祭天手甲・赤・天 |
-| 442 | Star Festival Gauntlets・Heaven [Blue 】 | 星祭天手甲・青・天 |
-| 443 | Star Festival Gauntlets・Heaven [Black 】 | 星祭天手甲・黑・天 |
-| 444 | Star Festival Gauntlets・Heaven [White 】 | 星祭天手甲・白・天 |
-| 445 | Tanabata Gauntlets・Heaven [Red 】 | 七夕天手甲・赤・天 |
-| 446 | Tanabata Gauntlets・Heaven [Blue 】 | 七夕天手甲・青・天 |
-| 447 | Tanabata Gauntlets・Heaven [Black 】 | 七夕天手甲・黑・天 |
-| 448 | Tanabata Gauntlets・Heaven [White 】 | 七夕天手甲・白・天 |
+| 441 | Star Festival Gauntlets・Heaven [Red 】 | 星祭天手甲・赤 |
+| 442 | Star Festival Gauntlets・Heaven [Blue 】 | 星祭天手甲・青 |
+| 443 | Star Festival Gauntlets・Heaven [Black 】 | 星祭天手甲・黑 |
+| 444 | Star Festival Gauntlets・Heaven [White 】 | 星祭天手甲・白 |
+| 445 | Tanabata Gauntlets・Heaven [Red 】 | 七夕天手甲・赤 |
+| 446 | Tanabata Gauntlets・Heaven [Blue 】 | 七夕天手甲・青 |
+| 447 | Tanabata Gauntlets・Heaven [Black 】 | 七夕天手甲・黑 |
+| 448 | Tanabata Gauntlets・Heaven [White 】 | 七夕天手甲・白 |
 | 449 | High Metal Arms SP Black | 上位金屬護腕【ＳＰ】・黑 |
 | 450 | High Metal Arms SP Blue | 上位金屬護腕【ＳＰ】・青 |
 | 451 | High Metal Arms SP Yellow | 上位金屬護腕【ＳＰ】・黄 |
-| 452 | S・Sol Arms SP Red | 日護腕【Ｓ】【ＳＰ】・赤 |
-| 453 | S・Sol Arms SP Purple | 日護腕【Ｓ】【ＳＰ】・紫 |
-| 454 | S・Sol Arms SP Black | 日護腕【Ｓ】【ＳＰ】・黑 |
+| 452 | S・Sol Arms SP Red | S索倫護腕【ＳＰ】・赤 |
+| 453 | S・Sol Arms SP Purple | S索倫護腕【ＳＰ】・紫 |
+| 454 | S・Sol Arms SP Black | S索倫護腕【ＳＰ】・黑 |
 | 455 | Garuga Guard SP White | 黑狼鳥臂甲【ＳＰ】・白 |
 | 456 | Garuga Guard SP Green | 黑狼鳥臂甲【ＳＰ】・緑 |
 | 457 | Garuga Guard SP Red | 黑狼鳥臂甲【ＳＰ】・赤 |

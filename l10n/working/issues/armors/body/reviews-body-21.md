@@ -114,42 +114,42 @@
 | 10108 | Wasou Chestplate HS | 和裝胸甲【ＨＳ】 |
 | 10109 | Wasou Chestplate GS | 和裝胸甲【ＧＳ】 |
 | 10110 | Wasou Chestplate GP | 和裝胸甲【ＧＰ】 |
-| 10111 | Blue Ice Emperor Mail | 冰帝鎧甲・青 |
-| 10112 | Blue Ice Emperor F Mail | 冰帝鎧甲【Ｆ】・青 |
-| 10113 | Blue Ice Emperor FZ Mail | 冰帝鎧甲【ＦＺ】・青 |
-| 10114 | Blue Ice Emperor HS Mail | 冰帝鎧甲【ＨＳ】・青 |
-| 10115 | Blue Ice Emperor GS Mail | 冰帝鎧甲【ＧＳ】・青 |
-| 10116 | Blue Ice Emperor GP Mail | 冰帝鎧甲【ＧＰ】・青 |
-| 10117 | Blue Ice Emperor Vest | 冰帝背心・青 |
-| 10118 | Blue Ice Emperor F Vest | 冰帝背心【Ｆ】・青 |
-| 10119 | Blue Ice Emperor FZ Vest | 冰帝背心【ＦＺ】・青 |
-| 10120 | Blue Ice Emperor HS Vest | 冰帝背心【ＨＳ】・青 |
-| 10121 | Blue Ice Emperor GS Vest | 冰帝背心【ＧＳ】・青 |
-| 10122 | Blue Ice Emperor GP Vest | 冰帝背心【ＧＰ】・青 |
-| 10123 | White Ice Emperor Mail | 冰帝鎧甲・白 |
-| 10124 | White Ice Emperor F Mail | 冰帝鎧甲【Ｆ】・白 |
-| 10125 | White Ice Emperor FZ Mail | 冰帝鎧甲【ＦＺ】・白 |
-| 10126 | White Ice Emperor HS Mail | 冰帝鎧甲【ＨＳ】・白 |
-| 10127 | White Ice Emperor GS Mail | 冰帝鎧甲【ＧＳ】・白 |
-| 10128 | White Ice Emperor GP Mail | 冰帝鎧甲【ＧＰ】・白 |
-| 10129 | White Ice Emperor Vest | 冰帝背心・白 |
-| 10130 | White Ice Emperor F Vest | 冰帝背心【Ｆ】・白 |
-| 10131 | White Ice Emperor FZ Vest | 冰帝背心【ＦＺ】・白 |
-| 10132 | White Ice Emperor HS Vest | 冰帝背心【ＨＳ】・白 |
-| 10133 | White Ice Emperor GS Vest | 冰帝背心【ＧＳ】・白 |
-| 10134 | White Ice Emperor GP Vest | 冰帝背心【ＧＰ】・白 |
-| 10135 | Red Ice Emperor Mail | 冰帝鎧甲・赤 |
-| 10136 | Red Ice Emperor F Mail | 冰帝鎧甲【Ｆ】・赤 |
-| 10137 | Red Ice Emperor FZ Mail | 冰帝鎧甲【ＦＺ】・赤 |
-| 10138 | Red Ice Emperor HS Mail | 冰帝鎧甲【ＨＳ】・赤 |
-| 10139 | Red Ice Emperor GS Mail | 冰帝鎧甲【ＧＳ】・赤 |
-| 10140 | Red Ice Emperor GP Mail | 冰帝鎧甲【ＧＰ】・赤 |
-| 10141 | Red Ice Emperor Vest | 冰帝背心・赤 |
-| 10142 | Red Ice Emperor F Vest | 冰帝背心【Ｆ】・赤 |
-| 10143 | Red Ice Emperor FZ Vest | 冰帝背心【ＦＺ】・赤 |
-| 10144 | Red Ice Emperor HS Vest | 冰帝背心【ＨＳ】・赤 |
-| 10145 | Red Ice Emperor GS Vest | 冰帝背心【ＧＳ】・赤 |
-| 10146 | Red Ice Emperor GP Vest | 冰帝背心【ＧＰ】・赤 |
+| 10111 | Blue Ice Emperor Mail | 青冰帝鎧甲 |
+| 10112 | Blue Ice Emperor F Mail | 青冰帝鎧甲【Ｆ】 |
+| 10113 | Blue Ice Emperor FZ Mail | 青冰帝鎧甲【ＦＺ】 |
+| 10114 | Blue Ice Emperor HS Mail | 青冰帝鎧甲【ＨＳ】 |
+| 10115 | Blue Ice Emperor GS Mail | 青冰帝鎧甲【ＧＳ】 |
+| 10116 | Blue Ice Emperor GP Mail | 青冰帝鎧甲【ＧＰ】 |
+| 10117 | Blue Ice Emperor Vest | 青冰帝背心 |
+| 10118 | Blue Ice Emperor F Vest | 青冰帝背心【Ｆ】 |
+| 10119 | Blue Ice Emperor FZ Vest | 青冰帝背心【ＦＺ】 |
+| 10120 | Blue Ice Emperor HS Vest | 青冰帝背心【ＨＳ】 |
+| 10121 | Blue Ice Emperor GS Vest | 青冰帝背心【ＧＳ】 |
+| 10122 | Blue Ice Emperor GP Vest | 青冰帝背心【ＧＰ】 |
+| 10123 | White Ice Emperor Mail | 白冰帝鎧甲 |
+| 10124 | White Ice Emperor F Mail | 白冰帝鎧甲【Ｆ】 |
+| 10125 | White Ice Emperor FZ Mail | 白冰帝鎧甲【ＦＺ】 |
+| 10126 | White Ice Emperor HS Mail | 白冰帝鎧甲【ＨＳ】 |
+| 10127 | White Ice Emperor GS Mail | 白冰帝鎧甲【ＧＳ】 |
+| 10128 | White Ice Emperor GP Mail | 白冰帝鎧甲【ＧＰ】 |
+| 10129 | White Ice Emperor Vest | 白冰帝背心 |
+| 10130 | White Ice Emperor F Vest | 白冰帝背心【Ｆ】 |
+| 10131 | White Ice Emperor FZ Vest | 白冰帝背心【ＦＺ】 |
+| 10132 | White Ice Emperor HS Vest | 白冰帝背心【ＨＳ】 |
+| 10133 | White Ice Emperor GS Vest | 白冰帝背心【ＧＳ】 |
+| 10134 | White Ice Emperor GP Vest | 白冰帝背心【ＧＰ】 |
+| 10135 | Red Ice Emperor Mail | 赤冰帝鎧甲 |
+| 10136 | Red Ice Emperor F Mail | 赤冰帝鎧甲【Ｆ】 |
+| 10137 | Red Ice Emperor FZ Mail | 赤冰帝鎧甲【ＦＺ】 |
+| 10138 | Red Ice Emperor HS Mail | 赤冰帝鎧甲【ＨＳ】 |
+| 10139 | Red Ice Emperor GS Mail | 赤冰帝鎧甲【ＧＳ】 |
+| 10140 | Red Ice Emperor GP Mail | 赤冰帝鎧甲【ＧＰ】 |
+| 10141 | Red Ice Emperor Vest | 赤冰帝背心 |
+| 10142 | Red Ice Emperor F Vest | 赤冰帝背心【Ｆ】 |
+| 10143 | Red Ice Emperor FZ Vest | 赤冰帝背心【ＦＺ】 |
+| 10144 | Red Ice Emperor HS Vest | 赤冰帝背心【ＨＳ】 |
+| 10145 | Red Ice Emperor GS Vest | 赤冰帝背心【ＧＳ】 |
+| 10146 | Red Ice Emperor GP Vest | 赤冰帝背心【ＧＰ】 |
 | 10147 | Taruta Mail | 特阿爾烏鎧甲 |
 | 10148 | Taruta F Mail | 特阿爾烏鎧甲【Ｆ】 |
 | 10149 | Taruta FZ Mail | 特阿爾烏鎧甲【ＦＺ】 |
@@ -447,12 +447,12 @@
 | 10441 | Evol D Mail・Purple | 艾芙歐爾鎧甲・紫 |
 | 10442 | 狩衛部隊 Mail・男 | 狩衛部隊男鎧甲 |
 | 10443 | 狩衛部隊 Mail・女 | 狩衛部隊女鎧甲 |
-| 10444 | Blue Ice Emperor ZP Mail | 冰帝鎧甲【ＺＰ】・青 |
-| 10445 | Blue Ice Emperor ZP Vest | 冰帝背心【ＺＰ】・青 |
-| 10446 | White Ice Emperor ZP Mail | 冰帝鎧甲【ＺＰ】・白 |
-| 10447 | White Ice Emperor ZP Vest | 冰帝背心【ＺＰ】・白 |
-| 10448 | Red Ice Emperor ZP Mail | 冰帝鎧甲【ＺＰ】・赤 |
-| 10449 | Red Ice Emperor ZP Vest | 冰帝背心【ＺＰ】・赤 |
+| 10444 | Blue Ice Emperor ZP Mail | 青冰帝鎧甲【ＺＰ】 |
+| 10445 | Blue Ice Emperor ZP Vest | 青冰帝背心【ＺＰ】 |
+| 10446 | White Ice Emperor ZP Mail | 白冰帝鎧甲【ＺＰ】 |
+| 10447 | White Ice Emperor ZP Vest | 白冰帝背心【ＺＰ】 |
+| 10448 | Red Ice Emperor ZP Mail | 赤冰帝鎧甲【ＺＰ】 |
+| 10449 | Red Ice Emperor ZP Vest | 赤冰帝背心【ＺＰ】 |
 | 10450 | Wander Mail・Blue | 流浪鎧甲・青 |
 | 10451 | Wander F Mail・Blue | 流浪鎧甲【Ｆ】・青 |
 | 10452 | Wander FZ Mail・Blue | 流浪鎧甲【ＦＺ】・青 |

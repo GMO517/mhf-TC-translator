@@ -172,7 +172,7 @@
 | 12666 | Genbu・双龍D Mail | 双龍鎧甲 |
 | 12667 | Genbu・剣王D Mail | 剣王鎧甲 |
 | 12668 | Genbu・刀神D Mail | 刀神鎧甲 |
-| 12669 | Genbu・Heaven 槍D Mail | 槍鎧甲・天 |
+| 12669 | Genbu・Heaven 槍D Mail | 槍天鎧甲 |
 | 12670 | Genbu・砲皇D Mail | 砲皇鎧甲 |
 | 12671 | Genbu・鈍器獣D Mail | 鈍器獣鎧甲 |
 | 12672 | Genbu・奏帝D Mail | 奏帝鎧甲 |
@@ -180,7 +180,7 @@
 | 12674 | Genbu・斬将D Mail | 斬将鎧甲 |
 | 12675 | Genbu・銃傑D Suit | 銃傑套裝 |
 | 12676 | Genbu・銃仙D Suit | 銃仙套裝 |
-| 12677 | Genbu・Bow 鬼D Suit | 鬼套裝 |
+| 12677 | Genbu・Bow 鬼D Suit | 玄武套裝 |
 | 12678 | Tanzanite D Mail | 特阿恩阿鎧甲 |
 | 12679 | Hematite D Mail | 赫艾姆阿鎧甲 |
 | 12680 | Byakko・磁星D Mail | 磁星鎧甲 |
@@ -204,9 +204,9 @@
 | 12698 | Gypceros Vest PD Red | 毒怪鳥背心【ＰＤ】・赤 |
 | 12699 | Gypceros Vest PD Yellow | 毒怪鳥背心【ＰＤ】・黄 |
 | 12700 | Gypceros Vest PD Green | 毒怪鳥背心【ＰＤ】・緑 |
-| 12701 | Kagura 【胴当て】 PD Red | 神樂鎧甲【ＰＤ】 |
-| 12702 | Kagura 【胴当て】 PD Black | 神樂鎧甲【ＰＤ】 |
-| 12703 | Kagura 【胴当て】 PD Purple | 神樂鎧甲【ＰＤ】 |
+| 12701 | Kagura 【胴当て】 PD Red | 神樂胴當【ＰＤ】・赤 |
+| 12702 | Kagura 【胴当て】 PD Black | 神樂胴當【ＰＤ】・黑 |
+| 12703 | Kagura 【胴当て】 PD Purple | 神樂胴當【ＰＤ】・紫 |
 | 12704 | Kamiza [Chestplate] PD Red | 上座胸甲【ＰＤ】・赤 |
 | 12705 | Kamiza [Chestplate] PD Black | 上座胸甲【ＰＤ】・黑 |
 | 12706 | Kamiza [Chestplate] PD Purple | 上座胸甲【ＰＤ】・紫 |
@@ -252,10 +252,10 @@
 | 12746 | Gelt D Mail・Copper | 格艾爾鎧甲・銅 |
 | 12747 | Gelt D Mail・Silver | 格艾爾鎧甲・銀 |
 | 12748 | Gelt D Mail・Gold | 格艾爾鎧甲・金 |
-| 12749 | Gloria D Mail・Gold | 格歐爾伊鎧甲・金 |
-| 12750 | Gloria D Mail・Blue | 格歐爾伊鎧甲・青 |
-| 12751 | Gloria D Mail・Water | 格歐爾伊鎧甲 |
-| 12752 | Gloria D Mail・Red | 格歐爾伊鎧甲・赤 |
+| 12749 | Gloria D Mail・Gold | 榮光鎧甲・金 |
+| 12750 | Gloria D Mail・Blue | 榮光鎧甲・青 |
+| 12751 | Gloria D Mail・Water | 榮光鎧甲・水 |
+| 12752 | Gloria D Mail・Red | 榮光鎧甲・赤 |
 | 12753 | Cloth D Vest・Red | 德艾斯衣・赤 |
 | 12754 | Cloth D Vest・Blue | 德艾斯衣・青 |
 | 12755 | Cloth D Vest・Purple | 德艾斯衣・紫 |
@@ -316,14 +316,14 @@
 | 12810 | Honour D Mail・Blue | 赫歐恩歐鎧甲・青 |
 | 12811 | Honour D Mail・Green | 赫歐恩歐鎧甲・緑 |
 | 12812 | Honour D Mail・紺 | 紺鎧甲 |
-| 12813 | Pics D Vest・Green | 普伊克背心・緑 |
-| 12814 | Pics D Vest・Purple | 普伊克背心・紫 |
-| 12815 | Pics D Vest・Black | 普伊克背心・黑 |
-| 12816 | Pics D Vest・Water | 普伊克阿背心 |
-| 12817 | Magos D Mail・Yellow | 姆阿格歐鎧甲・黄 |
-| 12818 | Magos D Mail・Red | 姆阿格歐鎧甲・赤 |
-| 12819 | Magos D Mail・Water | 姆阿格歐鎧甲 |
-| 12820 | Magos D Mail・Blue | 姆阿格歐鎧甲・青 |
+| 12813 | Pics D Vest・Green | 皮克斯背心・緑 |
+| 12814 | Pics D Vest・Purple | 皮克斯背心・紫 |
+| 12815 | Pics D Vest・Black | 皮克斯背心・黑 |
+| 12816 | Pics D Vest・Water | 皮克斯背心・水 |
+| 12817 | Magos D Mail・Yellow | 瑪戈斯鎧甲・黄 |
+| 12818 | Magos D Mail・Red | 瑪戈斯鎧甲・赤 |
+| 12819 | Magos D Mail・Water | 瑪戈斯鎧甲・水 |
+| 12820 | Magos D Mail・Blue | 瑪戈斯鎧甲・青 |
 | 12821 | Arge D Vest | 阿爾艾斯背心 |
 | 12822 | Camarera D Vest | 克阿姆阿背心 |
 | 12823 | Metenera D Vest | 姆艾特艾背心 |
@@ -333,10 +333,10 @@
 | 12827 | Zodic D Mail・Tea | 茲歐德伊鎧甲・茶 |
 | 12828 | Zodic D Mail・Green | 茲歐德伊鎧甲・緑 |
 | 12829 | Zodic D Mail・Pink | 茲歐德伊鎧甲・桃 |
-| 12830 | Cayssis D Mail Water | 克阿伊伊鎧甲 |
-| 12831 | Cayssis D Mail Red | 克阿伊伊鎧甲・赤 |
-| 12832 | Cayssis D Mail Blue | 克阿伊伊鎧甲・青 |
-| 12833 | Cayssis D Mail Orange | 克阿伊伊鎧甲・橙 |
+| 12830 | Cayssis D Mail Water | 凱西斯鎧甲・水 |
+| 12831 | Cayssis D Mail Red | 凱西斯鎧甲・赤 |
+| 12832 | Cayssis D Mail Blue | 凱西斯鎧甲・青 |
+| 12833 | Cayssis D Mail Orange | 凱西斯鎧甲・橙 |
 | 12834 | Omet D Mail・Black | 歐姆艾特鎧甲・黑 |
 | 12835 | Omet D Mail・Red | 歐姆艾特鎧甲・赤 |
 | 12836 | Omet D Mail・White | 歐姆艾特鎧甲・白 |
@@ -353,10 +353,10 @@
 | 12847 | Suriito D Vest・Silver | 斯烏爾伊背心・銀 |
 | 12848 | Suriito D Vest・Red | 斯烏爾伊背心・赤 |
 | 12849 | Suriito D Vest・Blue | 斯烏爾伊背心・青 |
-| 12850 | Galitos D Vest・Tea | 格阿爾伊背心・茶 |
-| 12851 | Galitos D Vest・Red | 格阿爾伊背心・赤 |
-| 12852 | Galitos D Vest・Black | 格阿爾伊背心・黑 |
-| 12853 | Galitos D Vest・Water | 格阿爾伊背心 |
+| 12850 | Galitos D Vest・Tea | 加里托斯背心・茶 |
+| 12851 | Galitos D Vest・Red | 加里托斯背心・赤 |
+| 12852 | Galitos D Vest・Black | 加里托斯背心・黑 |
+| 12853 | Galitos D Vest・Water | 加里托斯背心・水 |
 | 12854 | Text D Vest・Purple | 特艾克斯背心・紫 |
 | 12855 | Text D Vest・Green | 特艾克斯背心・緑 |
 | 12856 | Text D Vest・Blue | 特艾克斯背心・青 |
@@ -365,24 +365,24 @@
 | 12859 | Pharan D Mail・Black | 菲阿爾阿鎧甲・黑 |
 | 12860 | Pharan D Mail・Red | 菲阿爾阿鎧甲・赤 |
 | 12861 | Pharan D Mail・Blue | 菲阿爾阿鎧甲・青 |
-| 12862 | Gold D Mail・Red | 德鎧甲 |
-| 12863 | Gold D Mail・Blue | 德鎧甲 |
-| 12864 | Gold D Mail・Yellow | 德鎧甲 |
-| 12865 | Gold D Mail・Purple | 德鎧甲 |
-| 12866 | Claire D Vest・Purple | 克阿爾艾背心・紫 |
-| 12867 | Claire D Vest・Water | 克阿爾艾背心 |
-| 12868 | Claire D Vest・Red | 克阿爾艾背心・赤 |
-| 12869 | Claire D Vest・Black | 克阿爾艾背心・黑 |
-| 12870 | Gold Cat D Suit | 克阿特套裝・金 |
-| 12871 | Silver Cat D Suit | 克阿特套裝・銀 |
+| 12862 | Gold D Mail・Red | 金鎧甲・赤 |
+| 12863 | Gold D Mail・Blue | 金鎧甲・青 |
+| 12864 | Gold D Mail・Yellow | 金鎧甲・黄 |
+| 12865 | Gold D Mail・Purple | 金鎧甲・紫 |
+| 12866 | Claire D Vest・Purple | 克蕾爾背心・紫 |
+| 12867 | Claire D Vest・Water | 克蕾爾背心・水 |
+| 12868 | Claire D Vest・Red | 克蕾爾背心・赤 |
+| 12869 | Claire D Vest・Black | 克蕾爾背心・黑 |
+| 12870 | Gold Cat D Suit | 金猫套裝 |
+| 12871 | Silver Cat D Suit | 銀猫套裝 |
 | 12872 | Ex D Vest・White | 艾克斯背心・白 |
 | 12873 | Ex D Vest・Red | 艾克斯背心・赤 |
 | 12874 | Ex D Vest・Blue | 艾克斯背心・青 |
 | 12875 | Ex D Vest・Black | 艾克斯背心・黑 |
-| 12876 | Star Festival D Shozoku [Red 】 | 斯阿爾艾裝束・赤 |
-| 12877 | Star Festival D Shozoku [Blue 】 | 斯阿爾艾裝束・青 |
-| 12878 | Star Festival D Shozoku [Black 】 | 斯阿爾艾裝束・黑 |
-| 12879 | Star Festival D Shozoku [White 】 | 斯阿爾艾裝束・白 |
+| 12876 | Star Festival D Shozoku [Red 】 | 星祭裝束・赤 |
+| 12877 | Star Festival D Shozoku [Blue 】 | 星祭裝束・青 |
+| 12878 | Star Festival D Shozoku [Black 】 | 星祭裝束・黑 |
+| 12879 | Star Festival D Shozoku [White 】 | 星祭裝束・白 |
 | 12880 | Promise D Mail・White | 普歐姆伊鎧甲・白 |
 | 12881 | Promise D Mail・Blue | 普歐姆伊鎧甲・青 |
 | 12882 | Promise D Mail・Purple | 普歐姆伊鎧甲・紫 |

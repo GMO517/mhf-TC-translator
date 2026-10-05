@@ -156,12 +156,12 @@
 | 5150 | 迅雷HS胴着 | 迅雷胴着鎧甲 |
 | 5151 | 迅雷GS胴着 | 迅雷胴着鎧甲 |
 | 5152 | 迅雷GP胴着 | 迅雷胴着鎧甲 |
-| 5153 | Heaven 星胴着 | 星胴着鎧甲・天 |
-| 5154 | Heaven 星F胴着 | 星胴着鎧甲・天 |
-| 5155 | Heaven 星FZ胴着 | 星胴着鎧甲・天 |
-| 5156 | Heaven 星HS胴着 | 星胴着鎧甲・天 |
-| 5157 | Heaven 星GS胴着 | 星胴着鎧甲・天 |
-| 5158 | Heaven 星GP胴着 | 星胴着鎧甲・天 |
+| 5153 | Heaven 星胴着 | 星胴着天鎧甲 |
+| 5154 | Heaven 星F胴着 | 星胴着天鎧甲 |
+| 5155 | Heaven 星FZ胴着 | 星胴着天鎧甲 |
+| 5156 | Heaven 星HS胴着 | 星胴着天鎧甲 |
+| 5157 | Heaven 星GS胴着 | 星胴着天鎧甲 |
+| 5158 | Heaven 星GP胴着 | 星胴着天鎧甲 |
 | 5159 | 飛燕胴着 | 飛燕胴着鎧甲 |
 | 5160 | 飛燕F胴着 | 飛燕胴着鎧甲 |
 | 5161 | 飛燕FZ胴着 | 飛燕胴着鎧甲 |
@@ -426,38 +426,38 @@
 | 5420 | Omet HS Suit・Blue | 歐梅特套裝【ＨＳ】・青 |
 | 5421 | Omet GS Suit・Blue | 歐梅特套裝【ＧＳ】・青 |
 | 5422 | Omet GP Suit・Blue | 歐梅特套裝【ＧＰ】・青 |
-| 5423 | Gold FZ Mail・Red | 鎧甲【ＦＺ】・金・赤 |
-| 5424 | Gold HS Mail・Red | 鎧甲【ＨＳ】・金・赤 |
-| 5425 | Gold GS Mail・Red | 鎧甲【ＧＳ】・金・赤 |
-| 5426 | Gold GP Mail・Red | 鎧甲【ＧＰ】・金・赤 |
-| 5427 | Gold FZ Mail・Blue | 鎧甲【ＦＺ】・金・青 |
-| 5428 | Gold HS Mail・Blue | 鎧甲【ＨＳ】・金・青 |
-| 5429 | Gold GS Mail・Blue | 鎧甲【ＧＳ】・金・青 |
-| 5430 | Gold GP Mail・Blue | 鎧甲【ＧＰ】・金・青 |
-| 5431 | Gold FZ Mail・Yellow | 鎧甲【ＦＺ】・金・黄 |
-| 5432 | Gold HS Mail・Yellow | 鎧甲【ＨＳ】・金・黄 |
-| 5433 | Gold GS Mail・Yellow | 鎧甲【ＧＳ】・金・黄 |
-| 5434 | Gold GP Mail・Yellow | 鎧甲【ＧＰ】・金・黄 |
-| 5435 | Gold FZ Mail・Purple | 鎧甲【ＦＺ】・金・紫 |
-| 5436 | Gold HS Mail・Purple | 鎧甲【ＨＳ】・金・紫 |
-| 5437 | Gold GS Mail・Purple | 鎧甲【ＧＳ】・金・紫 |
-| 5438 | Gold GP Mail・Purple | 鎧甲【ＧＰ】・金・紫 |
-| 5439 | Gold FZ Suit・Red | 套裝【ＦＺ】・金・赤 |
-| 5440 | Gold HS Suit・Red | 套裝【ＨＳ】・金・赤 |
-| 5441 | Gold GS Suit・Red | 套裝【ＧＳ】・金・赤 |
-| 5442 | Gold GP Suit・Red | 套裝【ＧＰ】・金・赤 |
-| 5443 | Gold FZ Suit・Blue | 套裝【ＦＺ】・金・青 |
-| 5444 | Gold HS Suit・Blue | 套裝【ＨＳ】・金・青 |
-| 5445 | Gold GS Suit・Blue | 套裝【ＧＳ】・金・青 |
-| 5446 | Gold GP Suit・Blue | 套裝【ＧＰ】・金・青 |
-| 5447 | Gold FZ Suit・Yellow | 套裝【ＦＺ】・金・黄 |
-| 5448 | Gold HS Suit・Yellow | 套裝【ＨＳ】・金・黄 |
-| 5449 | Gold GS Suit・Yellow | 套裝【ＧＳ】・金・黄 |
-| 5450 | Gold GP Suit・Yellow | 套裝【ＧＰ】・金・黄 |
-| 5451 | Gold FZ Suit・Purple | 套裝【ＦＺ】・金・紫 |
-| 5452 | Gold HS Suit・Purple | 套裝【ＨＳ】・金・紫 |
-| 5453 | Gold GS Suit・Purple | 套裝【ＧＳ】・金・紫 |
-| 5454 | Gold GP Suit・Purple | 套裝【ＧＰ】・金・紫 |
+| 5423 | Gold FZ Mail・Red | 金鎧甲【ＦＺ】・赤 |
+| 5424 | Gold HS Mail・Red | 金鎧甲【ＨＳ】・赤 |
+| 5425 | Gold GS Mail・Red | 金鎧甲【ＧＳ】・赤 |
+| 5426 | Gold GP Mail・Red | 金鎧甲【ＧＰ】・赤 |
+| 5427 | Gold FZ Mail・Blue | 金鎧甲【ＦＺ】・青 |
+| 5428 | Gold HS Mail・Blue | 金鎧甲【ＨＳ】・青 |
+| 5429 | Gold GS Mail・Blue | 金鎧甲【ＧＳ】・青 |
+| 5430 | Gold GP Mail・Blue | 金鎧甲【ＧＰ】・青 |
+| 5431 | Gold FZ Mail・Yellow | 金鎧甲【ＦＺ】・黄 |
+| 5432 | Gold HS Mail・Yellow | 金鎧甲【ＨＳ】・黄 |
+| 5433 | Gold GS Mail・Yellow | 金鎧甲【ＧＳ】・黄 |
+| 5434 | Gold GP Mail・Yellow | 金鎧甲【ＧＰ】・黄 |
+| 5435 | Gold FZ Mail・Purple | 金鎧甲【ＦＺ】・紫 |
+| 5436 | Gold HS Mail・Purple | 金鎧甲【ＨＳ】・紫 |
+| 5437 | Gold GS Mail・Purple | 金鎧甲【ＧＳ】・紫 |
+| 5438 | Gold GP Mail・Purple | 金鎧甲【ＧＰ】・紫 |
+| 5439 | Gold FZ Suit・Red | 金套裝【ＦＺ】・赤 |
+| 5440 | Gold HS Suit・Red | 金套裝【ＨＳ】・赤 |
+| 5441 | Gold GS Suit・Red | 金套裝【ＧＳ】・赤 |
+| 5442 | Gold GP Suit・Red | 金套裝【ＧＰ】・赤 |
+| 5443 | Gold FZ Suit・Blue | 金套裝【ＦＺ】・青 |
+| 5444 | Gold HS Suit・Blue | 金套裝【ＨＳ】・青 |
+| 5445 | Gold GS Suit・Blue | 金套裝【ＧＳ】・青 |
+| 5446 | Gold GP Suit・Blue | 金套裝【ＧＰ】・青 |
+| 5447 | Gold FZ Suit・Yellow | 金套裝【ＦＺ】・黄 |
+| 5448 | Gold HS Suit・Yellow | 金套裝【ＨＳ】・黄 |
+| 5449 | Gold GS Suit・Yellow | 金套裝【ＧＳ】・黄 |
+| 5450 | Gold GP Suit・Yellow | 金套裝【ＧＰ】・黄 |
+| 5451 | Gold FZ Suit・Purple | 金套裝【ＦＺ】・紫 |
+| 5452 | Gold HS Suit・Purple | 金套裝【ＨＳ】・紫 |
+| 5453 | Gold GS Suit・Purple | 金套裝【ＧＳ】・紫 |
+| 5454 | Gold GP Suit・Purple | 金套裝【ＧＰ】・紫 |
 | 5455 | Shaln HS Vest・Blue | 夏爾恩背心【ＨＳ】・青 |
 | 5456 | Shaln GS Vest・Blue | 夏爾恩背心【ＧＳ】・青 |
 | 5457 | Shaln GP Vest・Blue | 夏爾恩背心【ＧＰ】・青 |

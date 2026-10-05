@@ -169,7 +169,7 @@
 | 13163 | Secuti D Mail・Red | 斯艾克烏鎧甲・赤 |
 | 13164 | Secuti D Mail・White | 斯艾克烏鎧甲・白 |
 | 13165 | Rockman D Suit | 爾歐克阿套裝 |
-| 13166 | Issen D【胴当て】・Red | 一閃鎧甲 |
+| 13166 | Issen D【胴当て】・Red | 一閃胴當・赤 |
 | 13167 | 蜂針D [Chestplate 】・Orange | 蜂針胸甲・橙 |
 | 13168 | Shanru Z Mail | 夏阿恩烏鎧甲【Ｚ】 |
 | 13169 | Shanru ZF Mail | 夏阿恩烏鎧甲【ＺＦ】 |
@@ -419,7 +419,7 @@
 | 13413 | Seiryu・双龍D Mail | 双龍鎧甲 |
 | 13414 | Seiryu・剣王D Mail | 剣王鎧甲 |
 | 13415 | Seiryu・刀神D Mail | 刀神鎧甲 |
-| 13416 | Seiryu・Heaven 槍D Mail | 槍鎧甲・天 |
+| 13416 | Seiryu・Heaven 槍D Mail | 槍天鎧甲 |
 | 13417 | Seiryu・砲皇D Mail | 砲皇鎧甲 |
 | 13418 | Seiryu・鈍器獣D Mail | 鈍器獣鎧甲 |
 | 13419 | Seiryu・奏帝D Mail | 奏帝鎧甲 |
@@ -427,7 +427,7 @@
 | 13421 | Seiryu・斬将D Mail | 斬将鎧甲 |
 | 13422 | Seiryu・銃傑D Suit | 銃傑套裝 |
 | 13423 | Seiryu・銃仙D Suit | 銃仙套裝 |
-| 13424 | Seiryu・Bow 鬼D Suit | 鬼套裝 |
+| 13424 | Seiryu・Bow 鬼D Suit | 青龍套裝 |
 | 13425 | Seiryu・磁星D Mail | 磁星鎧甲 |
 | 13426 | K. Lobster Shell PD Black | 王龍蝦殼【ＰＤ】・黑 |
 | 13427 | K. Lobster Shell PD Green | 王龍蝦殼【ＰＤ】・緑 |
@@ -456,9 +456,9 @@
 | 13450 | Ruko Skin PD White | 極龍皮【ＰＤ】・白 |
 | 13451 | Ruko Skin PD Blue | 極龍皮【ＰＤ】・青 |
 | 13452 | Ruko Skin PD Red | 極龍皮【ＰＤ】・赤 |
-| 13453 | Comrade Mail PD White Red | 戰友鎧甲【ＰＤ】・赤・白 |
-| 13454 | Comrade Mail PD White Blue | 戰友鎧甲【ＰＤ】・青・白 |
-| 13455 | Comrade Mail PD White Yellow | 戰友鎧甲【ＰＤ】・黄・白 |
+| 13453 | Comrade Mail PD White Red | 戰友鎧甲【ＰＤ】・白 |
+| 13454 | Comrade Mail PD White Blue | 戰友鎧甲【ＰＤ】・白 |
+| 13455 | Comrade Mail PD White Yellow | 戰友鎧甲【ＰＤ】・白 |
 | 13456 | Otono D Jacket | 歐特歐恩夾克 |
 | 13457 | 忍の Shozoku・空D | 忍の空裝束 |
 | 13458 | 忍の Shozoku・海D | 忍の海裝束 |

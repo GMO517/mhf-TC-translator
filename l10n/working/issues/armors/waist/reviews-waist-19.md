@@ -314,12 +314,12 @@
 | 9308 | Monodevil G Coat | 單眼惡魔腰衣【Ｇ】 |
 | 9309 | Monodevil GF Coat | 單眼惡魔腰衣【ＧＦ】 |
 | 9310 | Monodevil GX Coat | 單眼惡魔腰衣【ＧＸ】 |
-| 9311 | Black Diablos G Coil | 角龍腰甲【Ｇ】・黑 |
-| 9312 | Black Diablos GF Coil | 角龍腰甲【ＧＦ】・黑 |
-| 9313 | Black Diablos GX Coil | 角龍腰甲【ＧＸ】・黑 |
-| 9314 | Black Diablos G Coat | 角龍腰衣【Ｇ】・黑 |
-| 9315 | Black Diablos GF Coat | 角龍腰衣【ＧＦ】・黑 |
-| 9316 | Black Diablos GX Coat | 角龍腰衣【ＧＸ】・黑 |
+| 9311 | Black Diablos G Coil | 黑角龍腰甲【Ｇ】 |
+| 9312 | Black Diablos GF Coil | 黑角龍腰甲【ＧＦ】 |
+| 9313 | Black Diablos GX Coil | 黑角龍腰甲【ＧＸ】 |
+| 9314 | Black Diablos G Coat | 黑角龍腰衣【Ｇ】 |
+| 9315 | Black Diablos GF Coat | 黑角龍腰衣【ＧＦ】 |
+| 9316 | Black Diablos GX Coat | 黑角龍腰衣【ＧＸ】 |
 | 9317 | Wadatsumi GX【丸 Obi 】 | 綿津見腰甲【ＧＸ】 |
 | 9318 | Okami GX【丸 Obi 】 | 狼腰甲【ＧＸ】 |
 | 9319 | Odiva GX Faulds | 奧蒂瓦腰甲【ＧＸ】 |

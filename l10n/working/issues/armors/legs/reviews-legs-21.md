@@ -129,42 +129,42 @@
 | 10123 | Wasou Greaves HS | 和裝護腿【ＨＳ】 |
 | 10124 | Wasou Greaves GS | 和裝護腿【ＧＳ】 |
 | 10125 | Wasou Greaves GP | 和裝護腿【ＧＰ】 |
-| 10126 | Blue Ice Emperor Feet | 冰帝足・青 |
-| 10127 | Blue Ice Emperor F Feet | 冰帝足【Ｆ】・青 |
-| 10128 | Blue Ice Emperor FZ Feet | 冰帝足【ＦＺ】・青 |
-| 10129 | Blue Ice Emperor HS Feet | 冰帝足【ＨＳ】・青 |
-| 10130 | Blue Ice Emperor GS Feet | 冰帝足【ＧＳ】・青 |
-| 10131 | Blue Ice Emperor GP Feet | 冰帝足【ＧＰ】・青 |
-| 10132 | Blue Ice Emperor Boots | 冰帝靴・青 |
-| 10133 | Blue Ice Emperor F Boots | 冰帝靴【Ｆ】・青 |
-| 10134 | Blue Ice Emperor FZ Boots | 冰帝靴【ＦＺ】・青 |
-| 10135 | Blue Ice Emperor HS Boots | 冰帝靴【ＨＳ】・青 |
-| 10136 | Blue Ice Emperor GS Boots | 冰帝靴【ＧＳ】・青 |
-| 10137 | Blue Ice Emperor GP Boots | 冰帝靴【ＧＰ】・青 |
-| 10138 | White Ice Emperor Feet | 冰帝足・白 |
-| 10139 | White Ice Emperor F Feet | 冰帝足【Ｆ】・白 |
-| 10140 | White Ice Emperor FZ Feet | 冰帝足【ＦＺ】・白 |
-| 10141 | White Ice Emperor HS Feet | 冰帝足【ＨＳ】・白 |
-| 10142 | White Ice Emperor GS Feet | 冰帝足【ＧＳ】・白 |
-| 10143 | White Ice Emperor GP Feet | 冰帝足【ＧＰ】・白 |
-| 10144 | White Ice Emperor Boots | 冰帝靴・白 |
-| 10145 | White Ice Emperor F Boots | 冰帝靴【Ｆ】・白 |
-| 10146 | White Ice Emperor FZ Boots | 冰帝靴【ＦＺ】・白 |
-| 10147 | White Ice Emperor HS Boots | 冰帝靴【ＨＳ】・白 |
-| 10148 | White Ice Emperor GS Boots | 冰帝靴【ＧＳ】・白 |
-| 10149 | White Ice Emperor GP Boots | 冰帝靴【ＧＰ】・白 |
-| 10150 | Red Ice Emperor Feet | 冰帝足・赤 |
-| 10151 | Red Ice Emperor F Feet | 冰帝足【Ｆ】・赤 |
-| 10152 | Red Ice Emperor FZ Feet | 冰帝足【ＦＺ】・赤 |
-| 10153 | Red Ice Emperor HS Feet | 冰帝足【ＨＳ】・赤 |
-| 10154 | Red Ice Emperor GS Feet | 冰帝足【ＧＳ】・赤 |
-| 10155 | Red Ice Emperor GP Feet | 冰帝足【ＧＰ】・赤 |
-| 10156 | Red Ice Emperor Boots | 冰帝靴・赤 |
-| 10157 | Red Ice Emperor F Boots | 冰帝靴【Ｆ】・赤 |
-| 10158 | Red Ice Emperor FZ Boots | 冰帝靴【ＦＺ】・赤 |
-| 10159 | Red Ice Emperor HS Boots | 冰帝靴【ＨＳ】・赤 |
-| 10160 | Red Ice Emperor GS Boots | 冰帝靴【ＧＳ】・赤 |
-| 10161 | Red Ice Emperor GP Boots | 冰帝靴【ＧＰ】・赤 |
+| 10126 | Blue Ice Emperor Feet | 青冰帝足 |
+| 10127 | Blue Ice Emperor F Feet | 青冰帝足【Ｆ】 |
+| 10128 | Blue Ice Emperor FZ Feet | 青冰帝足【ＦＺ】 |
+| 10129 | Blue Ice Emperor HS Feet | 青冰帝足【ＨＳ】 |
+| 10130 | Blue Ice Emperor GS Feet | 青冰帝足【ＧＳ】 |
+| 10131 | Blue Ice Emperor GP Feet | 青冰帝足【ＧＰ】 |
+| 10132 | Blue Ice Emperor Boots | 青冰帝靴 |
+| 10133 | Blue Ice Emperor F Boots | 青冰帝靴【Ｆ】 |
+| 10134 | Blue Ice Emperor FZ Boots | 青冰帝靴【ＦＺ】 |
+| 10135 | Blue Ice Emperor HS Boots | 青冰帝靴【ＨＳ】 |
+| 10136 | Blue Ice Emperor GS Boots | 青冰帝靴【ＧＳ】 |
+| 10137 | Blue Ice Emperor GP Boots | 青冰帝靴【ＧＰ】 |
+| 10138 | White Ice Emperor Feet | 白冰帝足 |
+| 10139 | White Ice Emperor F Feet | 白冰帝足【Ｆ】 |
+| 10140 | White Ice Emperor FZ Feet | 白冰帝足【ＦＺ】 |
+| 10141 | White Ice Emperor HS Feet | 白冰帝足【ＨＳ】 |
+| 10142 | White Ice Emperor GS Feet | 白冰帝足【ＧＳ】 |
+| 10143 | White Ice Emperor GP Feet | 白冰帝足【ＧＰ】 |
+| 10144 | White Ice Emperor Boots | 白冰帝靴 |
+| 10145 | White Ice Emperor F Boots | 白冰帝靴【Ｆ】 |
+| 10146 | White Ice Emperor FZ Boots | 白冰帝靴【ＦＺ】 |
+| 10147 | White Ice Emperor HS Boots | 白冰帝靴【ＨＳ】 |
+| 10148 | White Ice Emperor GS Boots | 白冰帝靴【ＧＳ】 |
+| 10149 | White Ice Emperor GP Boots | 白冰帝靴【ＧＰ】 |
+| 10150 | Red Ice Emperor Feet | 赤冰帝足 |
+| 10151 | Red Ice Emperor F Feet | 赤冰帝足【Ｆ】 |
+| 10152 | Red Ice Emperor FZ Feet | 赤冰帝足【ＦＺ】 |
+| 10153 | Red Ice Emperor HS Feet | 赤冰帝足【ＨＳ】 |
+| 10154 | Red Ice Emperor GS Feet | 赤冰帝足【ＧＳ】 |
+| 10155 | Red Ice Emperor GP Feet | 赤冰帝足【ＧＰ】 |
+| 10156 | Red Ice Emperor Boots | 赤冰帝靴 |
+| 10157 | Red Ice Emperor F Boots | 赤冰帝靴【Ｆ】 |
+| 10158 | Red Ice Emperor FZ Boots | 赤冰帝靴【ＦＺ】 |
+| 10159 | Red Ice Emperor HS Boots | 赤冰帝靴【ＨＳ】 |
+| 10160 | Red Ice Emperor GS Boots | 赤冰帝靴【ＧＳ】 |
+| 10161 | Red Ice Emperor GP Boots | 赤冰帝靴【ＧＰ】 |
 | 10162 | Taruta Feet | 特阿爾烏足 |
 | 10163 | Taruta F Feet | 特阿爾烏足【Ｆ】 |
 | 10164 | Taruta FZ Feet | 特阿爾烏足【ＦＺ】 |
@@ -462,12 +462,12 @@
 | 10456 | Evol D Feet・Purple | 艾芙歐爾足・紫 |
 | 10457 | 狩衛部隊 Feet・男 | 狩衛部隊男足 |
 | 10458 | 狩衛部隊 Feet・女 | 狩衛部隊女足 |
-| 10459 | Blue Ice Emperor ZP Feet | 冰帝足【ＺＰ】・青 |
-| 10460 | Blue Ice Emperor ZP Boots | 冰帝靴【ＺＰ】・青 |
-| 10461 | White Ice Emperor ZP Feet | 冰帝足【ＺＰ】・白 |
-| 10462 | White Ice Emperor ZP Boots | 冰帝靴【ＺＰ】・白 |
-| 10463 | Red Ice Emperor ZP Feet | 冰帝足【ＺＰ】・赤 |
-| 10464 | Red Ice Emperor ZP Boots | 冰帝靴【ＺＰ】・赤 |
+| 10459 | Blue Ice Emperor ZP Feet | 青冰帝足【ＺＰ】 |
+| 10460 | Blue Ice Emperor ZP Boots | 青冰帝靴【ＺＰ】 |
+| 10461 | White Ice Emperor ZP Feet | 白冰帝足【ＺＰ】 |
+| 10462 | White Ice Emperor ZP Boots | 白冰帝靴【ＺＰ】 |
+| 10463 | Red Ice Emperor ZP Feet | 赤冰帝足【ＺＰ】 |
+| 10464 | Red Ice Emperor ZP Boots | 赤冰帝靴【ＺＰ】 |
 | 10465 | Wander Feet・Blue | 流浪足・青 |
 | 10466 | Wander F Feet・Blue | 流浪足【Ｆ】・青 |
 | 10467 | Wander FZ Feet・Blue | 流浪足【ＦＺ】・青 |

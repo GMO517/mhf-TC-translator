@@ -91,18 +91,18 @@
 | 8585 | Hevria HS Head | 赫芙莉亞頭兜【ＨＳ】 |
 | 8586 | Hevria GS Head | 赫芙莉亞頭兜【ＧＳ】 |
 | 8587 | Hevria GP Head | 赫芙莉亞頭兜【ＧＰ】 |
-| 8588 | Tiuru Band | 緹烏魯頭帶 |
-| 8589 | Tiuru F Band | 緹烏魯頭帶【Ｆ】 |
-| 8590 | Tiuru FZ Band | 緹烏魯頭帶【ＦＺ】 |
-| 8591 | Tiuru HS Band | 緹烏魯頭帶【ＨＳ】 |
-| 8592 | Tiuru GS Band | 緹烏魯頭帶【ＧＳ】 |
-| 8593 | Tiuru GP Band | 緹烏魯頭帶【ＧＰ】 |
-| 8594 | Tiuru Head | 緹烏魯頭兜 |
-| 8595 | Tiuru F Head | 緹烏魯頭兜【Ｆ】 |
-| 8596 | Tiuru FZ Head | 緹烏魯頭兜【ＦＺ】 |
-| 8597 | Tiuru HS Head | 緹烏魯頭兜【ＨＳ】 |
-| 8598 | Tiuru GS Head | 緹烏魯頭兜【ＧＳ】 |
-| 8599 | Tiuru GP Head | 緹烏魯頭兜【ＧＰ】 |
+| 8588 | Tiuru Band | 提烏魯頭帶 |
+| 8589 | Tiuru F Band | 提烏魯頭帶【Ｆ】 |
+| 8590 | Tiuru FZ Band | 提烏魯頭帶【ＦＺ】 |
+| 8591 | Tiuru HS Band | 提烏魯頭帶【ＨＳ】 |
+| 8592 | Tiuru GS Band | 提烏魯頭帶【ＧＳ】 |
+| 8593 | Tiuru GP Band | 提烏魯頭帶【ＧＰ】 |
+| 8594 | Tiuru Head | 提烏魯頭兜 |
+| 8595 | Tiuru F Head | 提烏魯頭兜【Ｆ】 |
+| 8596 | Tiuru FZ Head | 提烏魯頭兜【ＦＺ】 |
+| 8597 | Tiuru HS Head | 提烏魯頭兜【ＨＳ】 |
+| 8598 | Tiuru GS Head | 提烏魯頭兜【ＧＳ】 |
+| 8599 | Tiuru GP Head | 提烏魯頭兜【ＧＰ】 |
 | 8600 | Bande Head・Blue | 飾帶頭兜・青 |
 | 8601 | Bande F Head・Blue | 飾帶頭兜【Ｆ】・青 |
 | 8602 | Bande FZ Head・Blue | 飾帶頭兜【ＦＺ】・青 |
@@ -205,48 +205,48 @@
 | 8699 | Tenpi Crown HS・Red | 天陽冠【ＨＳ】・赤 |
 | 8700 | Tenpi Crown GS・Red | 天陽冠【ＧＳ】・赤 |
 | 8701 | Tenpi Crown GP・Red | 天陽冠【ＧＰ】・赤 |
-| 8702 | Tenpi ノ団子・Red | 天陽頭兜 |
-| 8703 | Tenpi ノ団子F・Red | 天陽頭兜【Ｆ】 |
-| 8704 | Tenpi ノ団子FZ・Red | 天陽頭兜【ＦＺ】 |
-| 8705 | Tenpi ノ団子HS・Red | 天陽頭兜【ＨＳ】 |
-| 8706 | Tenpi ノ団子GS・Red | 天陽頭兜【ＧＳ】 |
-| 8707 | Tenpi ノ団子GP・Red | 天陽頭兜【ＧＰ】 |
+| 8702 | Tenpi ノ団子・Red | 天陽頭兜・赤 |
+| 8703 | Tenpi ノ団子F・Red | 天陽頭兜【Ｆ】・赤 |
+| 8704 | Tenpi ノ団子FZ・Red | 天陽頭兜【ＦＺ】・赤 |
+| 8705 | Tenpi ノ団子HS・Red | 天陽頭兜【ＨＳ】・赤 |
+| 8706 | Tenpi ノ団子GS・Red | 天陽頭兜【ＧＳ】・赤 |
+| 8707 | Tenpi ノ団子GP・Red | 天陽頭兜【ＧＰ】・赤 |
 | 8708 | Tenpi Crown・Blue | 天陽冠・青 |
 | 8709 | Tenpi Crown F・Blue | 天陽冠【Ｆ】・青 |
 | 8710 | Tenpi Crown FZ・Blue | 天陽冠【ＦＺ】・青 |
 | 8711 | Tenpi Crown HS・Blue | 天陽冠【ＨＳ】・青 |
 | 8712 | Tenpi Crown GS・Blue | 天陽冠【ＧＳ】・青 |
 | 8713 | Tenpi Crown GP・Blue | 天陽冠【ＧＰ】・青 |
-| 8714 | Tenpi ノ団子・Blue | 天陽頭兜 |
-| 8715 | Tenpi ノ団子F・Blue | 天陽頭兜【Ｆ】 |
-| 8716 | Tenpi ノ団子FZ・Blue | 天陽頭兜【ＦＺ】 |
-| 8717 | Tenpi ノ団子HS・Blue | 天陽頭兜【ＨＳ】 |
-| 8718 | Tenpi ノ団子GS・Blue | 天陽頭兜【ＧＳ】 |
-| 8719 | Tenpi ノ団子GP・Blue | 天陽頭兜【ＧＰ】 |
+| 8714 | Tenpi ノ団子・Blue | 天陽頭兜・青 |
+| 8715 | Tenpi ノ団子F・Blue | 天陽頭兜【Ｆ】・青 |
+| 8716 | Tenpi ノ団子FZ・Blue | 天陽頭兜【ＦＺ】・青 |
+| 8717 | Tenpi ノ団子HS・Blue | 天陽頭兜【ＨＳ】・青 |
+| 8718 | Tenpi ノ団子GS・Blue | 天陽頭兜【ＧＳ】・青 |
+| 8719 | Tenpi ノ団子GP・Blue | 天陽頭兜【ＧＰ】・青 |
 | 8720 | Tenpi Crown・Black | 天陽冠・黑 |
 | 8721 | Tenpi Crown F・Black | 天陽冠【Ｆ】・黑 |
 | 8722 | Tenpi Crown FZ・Black | 天陽冠【ＦＺ】・黑 |
 | 8723 | Tenpi Crown HS・Black | 天陽冠【ＨＳ】・黑 |
 | 8724 | Tenpi Crown GS・Black | 天陽冠【ＧＳ】・黑 |
 | 8725 | Tenpi Crown GP・Black | 天陽冠【ＧＰ】・黑 |
-| 8726 | Tenpi ノ団子・Black | 天陽頭兜 |
-| 8727 | Tenpi ノ団子F・Black | 天陽頭兜【Ｆ】 |
-| 8728 | Tenpi ノ団子FZ・Black | 天陽頭兜【ＦＺ】 |
-| 8729 | Tenpi ノ団子HS・Black | 天陽頭兜【ＨＳ】 |
-| 8730 | Tenpi ノ団子GS・Black | 天陽頭兜【ＧＳ】 |
-| 8731 | Tenpi ノ団子GP・Black | 天陽頭兜【ＧＰ】 |
+| 8726 | Tenpi ノ団子・Black | 天陽頭兜・黑 |
+| 8727 | Tenpi ノ団子F・Black | 天陽頭兜【Ｆ】・黑 |
+| 8728 | Tenpi ノ団子FZ・Black | 天陽頭兜【ＦＺ】・黑 |
+| 8729 | Tenpi ノ団子HS・Black | 天陽頭兜【ＨＳ】・黑 |
+| 8730 | Tenpi ノ団子GS・Black | 天陽頭兜【ＧＳ】・黑 |
+| 8731 | Tenpi ノ団子GP・Black | 天陽頭兜【ＧＰ】・黑 |
 | 8732 | Tenpi Crown・White | 天陽冠・白 |
 | 8733 | Tenpi Crown F・White | 天陽冠【Ｆ】・白 |
 | 8734 | Tenpi Crown FZ・White | 天陽冠【ＦＺ】・白 |
 | 8735 | Tenpi Crown HS・White | 天陽冠【ＨＳ】・白 |
 | 8736 | Tenpi Crown GS・White | 天陽冠【ＧＳ】・白 |
 | 8737 | Tenpi Crown GP・White | 天陽冠【ＧＰ】・白 |
-| 8738 | Tenpi ノ団子・White | 天陽頭兜 |
-| 8739 | Tenpi ノ団子F・White | 天陽頭兜【Ｆ】 |
-| 8740 | Tenpi ノ団子FZ・White | 天陽頭兜【ＦＺ】 |
-| 8741 | Tenpi ノ団子HS・White | 天陽頭兜【ＨＳ】 |
-| 8742 | Tenpi ノ団子GS・White | 天陽頭兜【ＧＳ】 |
-| 8743 | Tenpi ノ団子GP・White | 天陽頭兜【ＧＰ】 |
+| 8738 | Tenpi ノ団子・White | 天陽頭兜・白 |
+| 8739 | Tenpi ノ団子F・White | 天陽頭兜【Ｆ】・白 |
+| 8740 | Tenpi ノ団子FZ・White | 天陽頭兜【ＦＺ】・白 |
+| 8741 | Tenpi ノ団子HS・White | 天陽頭兜【ＨＳ】・白 |
+| 8742 | Tenpi ノ団子GS・White | 天陽頭兜【ＧＳ】・白 |
+| 8743 | Tenpi ノ団子GP・White | 天陽頭兜【ＧＰ】・白 |
 | 8744 | Ruban Band | 魯班頭帶 |
 | 8745 | Ruban F Band | 魯班頭帶【Ｆ】 |
 | 8746 | Ruban FZ Band | 魯班頭帶【ＦＺ】 |
@@ -436,9 +436,9 @@
 | 8930 | Noir G Piercing | 黑耳飾【Ｇ】 |
 | 8931 | Noir GF Piercing | 黑耳飾【ＧＦ】 |
 | 8932 | Noir GX Piercing | 黑耳飾【ＧＸ】 |
-| 8933 | Demon Lord Horn G | 德艾姆歐角【Ｇ】 |
-| 8934 | Demon Lord Horn GF | 德艾姆歐角【ＧＦ】 |
-| 8935 | Demon Lord Horn GX | 德艾姆歐角【ＧＸ】 |
+| 8933 | Demon Lord Horn G | 魔王角【Ｇ】 |
+| 8934 | Demon Lord Horn GF | 魔王角【ＧＦ】 |
+| 8935 | Demon Lord Horn GX | 魔王角【ＧＸ】 |
 | 8936 | 童子ノ角G | 童子角頭兜 |
 | 8937 | 童子ノ角GF | 童子角頭兜【Ｆ】 |
 | 8938 | 童子ノ角GX | 童子角頭兜 |

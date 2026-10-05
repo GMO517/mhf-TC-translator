@@ -42,54 +42,54 @@
 | 8036 | Oyun HS Cap・White | 歐雲兜帽【ＨＳ】・白 |
 | 8037 | Oyun GS Cap・White | 歐雲兜帽【ＧＳ】・白 |
 | 8038 | Oyun GP Cap・White | 歐雲兜帽【ＧＰ】・白 |
-| 8039 | Ash Head・Red | 頭兜・灰・赤 |
-| 8040 | Ash F Head・Red | 頭兜【Ｆ】・灰・赤 |
-| 8041 | Ash FZ Head・Red | 頭兜【ＦＺ】・灰・赤 |
-| 8042 | Ash HS Head・Red | 頭兜【ＨＳ】・灰・赤 |
-| 8043 | Ash GS Head・Red | 頭兜【ＧＳ】・灰・赤 |
-| 8044 | Ash GP Head・Red | 頭兜【ＧＰ】・灰・赤 |
-| 8045 | Ash Hat・Red | 帽・灰・赤 |
-| 8046 | Ash F Hat・Red | 帽【Ｆ】・灰・赤 |
-| 8047 | Ash FZ Hat・Red | 帽【ＦＺ】・灰・赤 |
-| 8048 | Ash HS Hat・Red | 帽【ＨＳ】・灰・赤 |
-| 8049 | Ash GS Hat・Red | 帽【ＧＳ】・灰・赤 |
-| 8050 | Ash GP Hat・Red | 帽【ＧＰ】・灰・赤 |
-| 8051 | Ash Head・Blue | 頭兜・灰・青 |
-| 8052 | Ash F Head・Blue | 頭兜【Ｆ】・灰・青 |
-| 8053 | Ash FZ Head・Blue | 頭兜【ＦＺ】・灰・青 |
-| 8054 | Ash HS Head・Blue | 頭兜【ＨＳ】・灰・青 |
-| 8055 | Ash GS Head・Blue | 頭兜【ＧＳ】・灰・青 |
-| 8056 | Ash GP Head・Blue | 頭兜【ＧＰ】・灰・青 |
-| 8057 | Ash Hat・Blue | 帽・灰・青 |
-| 8058 | Ash F Hat・Blue | 帽【Ｆ】・灰・青 |
-| 8059 | Ash FZ Hat・Blue | 帽【ＦＺ】・灰・青 |
-| 8060 | Ash HS Hat・Blue | 帽【ＨＳ】・灰・青 |
-| 8061 | Ash GS Hat・Blue | 帽【ＧＳ】・灰・青 |
-| 8062 | Ash GP Hat・Blue | 帽【ＧＰ】・灰・青 |
-| 8063 | Ash Head・White | 頭兜・灰・白 |
-| 8064 | Ash F Head・White | 頭兜【Ｆ】・灰・白 |
-| 8065 | Ash FZ Head・White | 頭兜【ＦＺ】・灰・白 |
-| 8066 | Ash HS Head・White | 頭兜【ＨＳ】・灰・白 |
-| 8067 | Ash GS Head・White | 頭兜【ＧＳ】・灰・白 |
-| 8068 | Ash GP Head・White | 頭兜【ＧＰ】・灰・白 |
-| 8069 | Ash Hat・White | 帽・灰・白 |
-| 8070 | Ash F Hat・White | 帽【Ｆ】・灰・白 |
-| 8071 | Ash FZ Hat・White | 帽【ＦＺ】・灰・白 |
-| 8072 | Ash HS Hat・White | 帽【ＨＳ】・灰・白 |
-| 8073 | Ash GS Hat・White | 帽【ＧＳ】・灰・白 |
-| 8074 | Ash GP Hat・White | 帽【ＧＰ】・灰・白 |
-| 8075 | Ash Head・Black | 頭兜・灰・黑 |
-| 8076 | Ash F Head・Black | 頭兜【Ｆ】・灰・黑 |
-| 8077 | Ash FZ Head・Black | 頭兜【ＦＺ】・灰・黑 |
-| 8078 | Ash HS Head・Black | 頭兜【ＨＳ】・灰・黑 |
-| 8079 | Ash GS Head・Black | 頭兜【ＧＳ】・灰・黑 |
-| 8080 | Ash GP Head・Black | 頭兜【ＧＰ】・灰・黑 |
-| 8081 | Ash Hat・Black | 帽・灰・黑 |
-| 8082 | Ash F Hat・Black | 帽【Ｆ】・灰・黑 |
-| 8083 | Ash FZ Hat・Black | 帽【ＦＺ】・灰・黑 |
-| 8084 | Ash HS Hat・Black | 帽【ＨＳ】・灰・黑 |
-| 8085 | Ash GS Hat・Black | 帽【ＧＳ】・灰・黑 |
-| 8086 | Ash GP Hat・Black | 帽【ＧＰ】・灰・黑 |
+| 8039 | Ash Head・Red | 頭兜灰・赤 |
+| 8040 | Ash F Head・Red | 頭兜【Ｆ】灰・赤 |
+| 8041 | Ash FZ Head・Red | 頭兜【ＦＺ】灰・赤 |
+| 8042 | Ash HS Head・Red | 頭兜【ＨＳ】灰・赤 |
+| 8043 | Ash GS Head・Red | 頭兜【ＧＳ】灰・赤 |
+| 8044 | Ash GP Head・Red | 頭兜【ＧＰ】灰・赤 |
+| 8045 | Ash Hat・Red | 帽灰・赤 |
+| 8046 | Ash F Hat・Red | 帽【Ｆ】灰・赤 |
+| 8047 | Ash FZ Hat・Red | 帽【ＦＺ】灰・赤 |
+| 8048 | Ash HS Hat・Red | 帽【ＨＳ】灰・赤 |
+| 8049 | Ash GS Hat・Red | 帽【ＧＳ】灰・赤 |
+| 8050 | Ash GP Hat・Red | 帽【ＧＰ】灰・赤 |
+| 8051 | Ash Head・Blue | 頭兜灰・青 |
+| 8052 | Ash F Head・Blue | 頭兜【Ｆ】灰・青 |
+| 8053 | Ash FZ Head・Blue | 頭兜【ＦＺ】灰・青 |
+| 8054 | Ash HS Head・Blue | 頭兜【ＨＳ】灰・青 |
+| 8055 | Ash GS Head・Blue | 頭兜【ＧＳ】灰・青 |
+| 8056 | Ash GP Head・Blue | 頭兜【ＧＰ】灰・青 |
+| 8057 | Ash Hat・Blue | 帽灰・青 |
+| 8058 | Ash F Hat・Blue | 帽【Ｆ】灰・青 |
+| 8059 | Ash FZ Hat・Blue | 帽【ＦＺ】灰・青 |
+| 8060 | Ash HS Hat・Blue | 帽【ＨＳ】灰・青 |
+| 8061 | Ash GS Hat・Blue | 帽【ＧＳ】灰・青 |
+| 8062 | Ash GP Hat・Blue | 帽【ＧＰ】灰・青 |
+| 8063 | Ash Head・White | 頭兜灰・白 |
+| 8064 | Ash F Head・White | 頭兜【Ｆ】灰・白 |
+| 8065 | Ash FZ Head・White | 頭兜【ＦＺ】灰・白 |
+| 8066 | Ash HS Head・White | 頭兜【ＨＳ】灰・白 |
+| 8067 | Ash GS Head・White | 頭兜【ＧＳ】灰・白 |
+| 8068 | Ash GP Head・White | 頭兜【ＧＰ】灰・白 |
+| 8069 | Ash Hat・White | 帽灰・白 |
+| 8070 | Ash F Hat・White | 帽【Ｆ】灰・白 |
+| 8071 | Ash FZ Hat・White | 帽【ＦＺ】灰・白 |
+| 8072 | Ash HS Hat・White | 帽【ＨＳ】灰・白 |
+| 8073 | Ash GS Hat・White | 帽【ＧＳ】灰・白 |
+| 8074 | Ash GP Hat・White | 帽【ＧＰ】灰・白 |
+| 8075 | Ash Head・Black | 頭兜灰・黑 |
+| 8076 | Ash F Head・Black | 頭兜【Ｆ】灰・黑 |
+| 8077 | Ash FZ Head・Black | 頭兜【ＦＺ】灰・黑 |
+| 8078 | Ash HS Head・Black | 頭兜【ＨＳ】灰・黑 |
+| 8079 | Ash GS Head・Black | 頭兜【ＧＳ】灰・黑 |
+| 8080 | Ash GP Head・Black | 頭兜【ＧＰ】灰・黑 |
+| 8081 | Ash Hat・Black | 帽灰・黑 |
+| 8082 | Ash F Hat・Black | 帽【Ｆ】灰・黑 |
+| 8083 | Ash FZ Hat・Black | 帽【ＦＺ】灰・黑 |
+| 8084 | Ash HS Hat・Black | 帽【ＨＳ】灰・黑 |
+| 8085 | Ash GS Hat・Black | 帽【ＧＳ】灰・黑 |
+| 8086 | Ash GP Hat・Black | 帽【ＧＰ】灰・黑 |
 | 8087 | Pistis GP Head | 普伊斯伊頭兜【ＧＰ】 |
 | 8088 | Pistis GP Hat | 普伊斯伊帽【ＧＰ】 |
 | 8089 | Blink HS Band | 布伊恩頭帶【ＨＳ】 |

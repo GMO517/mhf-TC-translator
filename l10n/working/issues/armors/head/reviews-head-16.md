@@ -93,7 +93,7 @@
 | 7587 | Fellow Bikoonu HS | 夥伴比庫努頭兜【ＨＳ】 |
 | 7588 | Fellow Bikoonu GS | 夥伴比庫努頭兜【ＧＳ】 |
 | 7589 | Fellow Bikoonu GP | 夥伴比庫努頭兜【ＧＰ】 |
-| 7590 | Ahaba ーGP Piercing | 耳飾【ＧＰ】 |
+| 7590 | Ahaba ーGP Piercing | 阿哈巴耳飾【ＧＰ】 |
 | 7591 | ダンシン Piercing FZ | 達恩希恩耳飾【ＦＺ】 |
 | 7592 | ダンシン Piercing HS | 達恩希恩耳飾【ＨＳ】 |
 | 7593 | ダンシン Piercing GS | 達恩希恩耳飾【ＧＳ】 |
@@ -158,21 +158,21 @@
 | 7652 | Wind GF Snarl | 風咆【ＧＦ】 |
 | 7653 | 武者GF Kabuto | 武者兜【Ｆ】 |
 | 7654 | 日光GF Kabuto | 日光兜【Ｆ】 |
-| 7655 | White 蘭・Kensei Helm | 蘭頭兜・白 |
-| 7656 | White 蘭・Kensei F Helm | 蘭頭兜【Ｆ】・白 |
-| 7657 | White 蘭・Kensei FX Helm | 蘭頭兜【ＦＸ】・白 |
-| 7658 | Crimson 霞・Kensei Helm | 霞頭兜・紅 |
-| 7659 | Crimson 霞・Kensei F Helm | 霞頭兜【Ｆ】・紅 |
-| 7660 | Crimson 霞・Kensei FX Helm | 霞頭兜【ＦＸ】・紅 |
-| 7661 | White 蘭・Kensei G Helm | 蘭頭兜【Ｇ】・白 |
-| 7662 | White 蘭・Kensei GF Helm | 蘭頭兜【ＧＦ】・白 |
-| 7663 | White 蘭・Kensei GX Helm | 蘭頭兜【ＧＸ】・白 |
+| 7655 | White 蘭・Kensei Helm | 白蘭劍聖頭兜 |
+| 7656 | White 蘭・Kensei F Helm | 白蘭劍聖頭兜【Ｆ】 |
+| 7657 | White 蘭・Kensei FX Helm | 白蘭劍聖頭兜【ＦＸ】 |
+| 7658 | Crimson 霞・Kensei Helm | 紅霞劍聖頭兜 |
+| 7659 | Crimson 霞・Kensei F Helm | 紅霞劍聖頭兜【Ｆ】 |
+| 7660 | Crimson 霞・Kensei FX Helm | 紅霞劍聖頭兜【ＦＸ】 |
+| 7661 | White 蘭・Kensei G Helm | 白蘭劍聖頭兜【Ｇ】 |
+| 7662 | White 蘭・Kensei GF Helm | 白蘭劍聖頭兜【ＧＦ】 |
+| 7663 | White 蘭・Kensei GX Helm | 白蘭劍聖頭兜【ＧＸ】 |
 | 7664 | 月夜・Kensei G Helm | 月夜頭兜【Ｇ】 |
 | 7665 | 月夜・Kensei GF Helm | 月夜頭兜【ＧＦ】 |
 | 7666 | 月夜・Kensei GX Helm | 月夜頭兜【ＧＸ】 |
-| 7667 | Crimson 霞・Kensei G Helm | 霞頭兜【Ｇ】・紅 |
-| 7668 | Crimson 霞・Kensei GF Helm | 霞頭兜【ＧＦ】・紅 |
-| 7669 | Crimson 霞・Kensei GX Helm | 霞頭兜【ＧＸ】・紅 |
+| 7667 | Crimson 霞・Kensei G Helm | 紅霞劍聖頭兜【Ｇ】 |
+| 7668 | Crimson 霞・Kensei GF Helm | 紅霞劍聖頭兜【ＧＦ】 |
+| 7669 | Crimson 霞・Kensei GX Helm | 紅霞劍聖頭兜【ＧＸ】 |
 | 7670 | Green 穹・Kensei G Helm | 穹頭兜【Ｇ】・緑 |
 | 7671 | Green 穹・Kensei GF Helm | 穹頭兜【ＧＦ】・緑 |
 | 7672 | Green 穹・Kensei GX Helm | 穹頭兜【ＧＸ】・緑 |
@@ -266,24 +266,24 @@
 | 7760 | Green 穹・奏帝G Helm | 穹奏帝頭兜・緑 |
 | 7761 | Green 穹・奏帝GF Helm | 穹奏帝頭兜【Ｆ】・緑 |
 | 7762 | Green 穹・奏帝GX Helm | 穹奏帝頭兜・緑 |
-| 7763 | White 蘭・Heaven 槍 Helm | 蘭槍頭兜・白・天 |
-| 7764 | White 蘭・Heaven 槍F Helm | 蘭槍頭兜【Ｆ】・白・天 |
-| 7765 | White 蘭・Heaven 槍FX Helm | 蘭槍頭兜【ＦＸ】・白・天 |
-| 7766 | Crimson 霞・Heaven 槍 Helm | 霞槍頭兜・紅・天 |
-| 7767 | Crimson 霞・Heaven 槍F Helm | 霞槍頭兜【Ｆ】・紅・天 |
-| 7768 | Crimson 霞・Heaven 槍FX Helm | 霞槍頭兜【ＦＸ】・紅・天 |
-| 7769 | White 蘭・Heaven 槍G Helm | 蘭槍頭兜【Ｇ】・白・天 |
-| 7770 | White 蘭・Heaven 槍GF Helm | 蘭槍頭兜【Ｆ】・白・天 |
-| 7771 | White 蘭・Heaven 槍GX Helm | 蘭槍頭兜【ＧＸ】・白・天 |
+| 7763 | White 蘭・Heaven 槍 Helm | 蘭槍天頭兜・白 |
+| 7764 | White 蘭・Heaven 槍F Helm | 蘭槍天頭兜【Ｆ】・白 |
+| 7765 | White 蘭・Heaven 槍FX Helm | 蘭槍天頭兜【ＦＸ】・白 |
+| 7766 | Crimson 霞・Heaven 槍 Helm | 霞槍天頭兜・紅 |
+| 7767 | Crimson 霞・Heaven 槍F Helm | 霞槍天頭兜【Ｆ】・紅 |
+| 7768 | Crimson 霞・Heaven 槍FX Helm | 霞槍天頭兜【ＦＸ】・紅 |
+| 7769 | White 蘭・Heaven 槍G Helm | 蘭槍天頭兜【Ｇ】・白 |
+| 7770 | White 蘭・Heaven 槍GF Helm | 蘭槍天頭兜【Ｆ】・白 |
+| 7771 | White 蘭・Heaven 槍GX Helm | 蘭槍天頭兜【ＧＸ】・白 |
 | 7772 | 月夜・Heaven 槍G Helm | 月夜槍頭兜・天 |
-| 7773 | 月夜・Heaven 槍GF Helm | 月夜槍頭兜【Ｆ】・天 |
+| 7773 | 月夜・Heaven 槍GF Helm | 月夜槍天頭兜【Ｆ】 |
 | 7774 | 月夜・Heaven 槍GX Helm | 月夜槍頭兜・天 |
-| 7775 | Crimson 霞・Heaven 槍G Helm | 霞槍頭兜【Ｇ】・紅・天 |
-| 7776 | Crimson 霞・Heaven 槍GF Helm | 霞槍頭兜【Ｆ】・紅・天 |
-| 7777 | Crimson 霞・Heaven 槍GX Helm | 霞槍頭兜【ＧＸ】・紅・天 |
-| 7778 | Green 穹・Heaven 槍G Helm | 穹槍頭兜・緑・天 |
-| 7779 | Green 穹・Heaven 槍GF Helm | 穹槍頭兜【Ｆ】・緑・天 |
-| 7780 | Green 穹・Heaven 槍GX Helm | 穹槍頭兜・緑・天 |
+| 7775 | Crimson 霞・Heaven 槍G Helm | 霞槍天頭兜【Ｇ】・紅 |
+| 7776 | Crimson 霞・Heaven 槍GF Helm | 霞槍天頭兜【Ｆ】・紅 |
+| 7777 | Crimson 霞・Heaven 槍GX Helm | 霞槍天頭兜【ＧＸ】・紅 |
+| 7778 | Green 穹・Heaven 槍G Helm | 穹槍頭兜緑・天 |
+| 7779 | Green 穹・Heaven 槍GF Helm | 穹槍天頭兜【Ｆ】・緑 |
+| 7780 | Green 穹・Heaven 槍GX Helm | 穹槍頭兜緑・天 |
 | 7781 | White 蘭・砲皇 Helm | 蘭砲皇頭兜・白 |
 | 7782 | White 蘭・砲皇F Helm | 蘭砲皇頭兜【Ｆ】・白 |
 | 7783 | White 蘭・砲皇FX Helm | 蘭砲皇頭兜【ＦＸ】・白 |

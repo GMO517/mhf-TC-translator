@@ -30,7 +30,7 @@
 | 5024 | ノヴィーHS Guard | 諾芙臂甲【ＨＳ】 |
 | 5025 | ノヴィーGS Guard | 諾芙臂甲【ＧＳ】 |
 | 5026 | Flora Arms | 芙歐爾阿護腕 |
-| 5027 | Flower ーム | 芙歐沃艾護腕 |
+| 5027 | Flower ーム | 穆護腕 |
 | 5028 | Lea Arms | 爾艾護腕 |
 | 5029 | Keith Arms | 克艾斯護腕 |
 | 5030 | Guinelle Arms | 格烏恩艾護腕 |
@@ -149,12 +149,12 @@
 | 5143 | 迅雷HS Kote | 迅雷籠手【ＨＳ】 |
 | 5144 | 迅雷GS Kote | 迅雷籠手【ＧＳ】 |
 | 5145 | 迅雷GP Kote | 迅雷籠手【ＧＰ】 |
-| 5146 | Heaven 星腕環 | 星腕環護腕・天 |
-| 5147 | Heaven 星F腕環 | 星腕環護腕・天 |
-| 5148 | Heaven 星FZ腕環 | 星腕環護腕・天 |
-| 5149 | Heaven 星HS腕環 | 星腕環護腕・天 |
-| 5150 | Heaven 星GS腕環 | 星腕環護腕・天 |
-| 5151 | Heaven 星GP腕環 | 星腕環護腕・天 |
+| 5146 | Heaven 星腕環 | 星腕環天護腕 |
+| 5147 | Heaven 星F腕環 | 星腕環天護腕 |
+| 5148 | Heaven 星FZ腕環 | 星腕環天護腕 |
+| 5149 | Heaven 星HS腕環 | 星腕環天護腕 |
+| 5150 | Heaven 星GS腕環 | 星腕環天護腕 |
+| 5151 | Heaven 星GP腕環 | 星腕環天護腕 |
 | 5152 | 飛燕腕環 | 飛燕腕環護腕 |
 | 5153 | 飛燕F腕環 | 飛燕腕環護腕 |
 | 5154 | 飛燕FZ腕環 | 飛燕腕環護腕 |
@@ -419,38 +419,38 @@
 | 5413 | Omet HS Guard・Blue | 歐梅特臂甲【ＨＳ】・青 |
 | 5414 | Omet GS Guard・Blue | 歐梅特臂甲【ＧＳ】・青 |
 | 5415 | Omet GP Guard・Blue | 歐梅特臂甲【ＧＰ】・青 |
-| 5416 | Gold FZ Arms・Red | 護腕【ＦＺ】・金・赤 |
-| 5417 | Gold HS Arms・Red | 護腕【ＨＳ】・金・赤 |
-| 5418 | Gold GS Arms・Red | 護腕【ＧＳ】・金・赤 |
-| 5419 | Gold GP Arms・Red | 護腕【ＧＰ】・金・赤 |
-| 5420 | Gold FZ Arms・Blue | 護腕【ＦＺ】・金・青 |
-| 5421 | Gold HS Arms・Blue | 護腕【ＨＳ】・金・青 |
-| 5422 | Gold GS Arms・Blue | 護腕【ＧＳ】・金・青 |
-| 5423 | Gold GP Arms・Blue | 護腕【ＧＰ】・金・青 |
-| 5424 | Gold FZ Arms・Yellow | 護腕【ＦＺ】・金・黄 |
-| 5425 | Gold HS Arms・Yellow | 護腕【ＨＳ】・金・黄 |
-| 5426 | Gold GS Arms・Yellow | 護腕【ＧＳ】・金・黄 |
-| 5427 | Gold GP Arms・Yellow | 護腕【ＧＰ】・金・黄 |
-| 5428 | Gold FZ Arms・Purple | 護腕【ＦＺ】・金・紫 |
-| 5429 | Gold HS Arms・Purple | 護腕【ＨＳ】・金・紫 |
-| 5430 | Gold GS Arms・Purple | 護腕【ＧＳ】・金・紫 |
-| 5431 | Gold GP Arms・Purple | 護腕【ＧＰ】・金・紫 |
-| 5432 | Gold FZ Guard・Red | 臂甲【ＦＺ】・金・赤 |
-| 5433 | Gold HS Guard・Red | 臂甲【ＨＳ】・金・赤 |
-| 5434 | Gold GS Guard・Red | 臂甲【ＧＳ】・金・赤 |
-| 5435 | Gold GP Guard・Red | 臂甲【ＧＰ】・金・赤 |
-| 5436 | Gold FZ Guard・Blue | 臂甲【ＦＺ】・金・青 |
-| 5437 | Gold HS Guard・Blue | 臂甲【ＨＳ】・金・青 |
-| 5438 | Gold GS Guard・Blue | 臂甲【ＧＳ】・金・青 |
-| 5439 | Gold GP Guard・Blue | 臂甲【ＧＰ】・金・青 |
-| 5440 | Gold FZ Guard・Yellow | 臂甲【ＦＺ】・金・黄 |
-| 5441 | Gold HS Guard・Yellow | 臂甲【ＨＳ】・金・黄 |
-| 5442 | Gold GS Guard・Yellow | 臂甲【ＧＳ】・金・黄 |
-| 5443 | Gold GP Guard・Yellow | 臂甲【ＧＰ】・金・黄 |
-| 5444 | Gold FZ Guard・Purple | 臂甲【ＦＺ】・金・紫 |
-| 5445 | Gold HS Guard・Purple | 臂甲【ＨＳ】・金・紫 |
-| 5446 | Gold GS Guard・Purple | 臂甲【ＧＳ】・金・紫 |
-| 5447 | Gold GP Guard・Purple | 臂甲【ＧＰ】・金・紫 |
+| 5416 | Gold FZ Arms・Red | 金護腕【ＦＺ】・赤 |
+| 5417 | Gold HS Arms・Red | 金護腕【ＨＳ】・赤 |
+| 5418 | Gold GS Arms・Red | 金護腕【ＧＳ】・赤 |
+| 5419 | Gold GP Arms・Red | 金護腕【ＧＰ】・赤 |
+| 5420 | Gold FZ Arms・Blue | 金護腕【ＦＺ】・青 |
+| 5421 | Gold HS Arms・Blue | 金護腕【ＨＳ】・青 |
+| 5422 | Gold GS Arms・Blue | 金護腕【ＧＳ】・青 |
+| 5423 | Gold GP Arms・Blue | 金護腕【ＧＰ】・青 |
+| 5424 | Gold FZ Arms・Yellow | 金護腕【ＦＺ】・黄 |
+| 5425 | Gold HS Arms・Yellow | 金護腕【ＨＳ】・黄 |
+| 5426 | Gold GS Arms・Yellow | 金護腕【ＧＳ】・黄 |
+| 5427 | Gold GP Arms・Yellow | 金護腕【ＧＰ】・黄 |
+| 5428 | Gold FZ Arms・Purple | 金護腕【ＦＺ】・紫 |
+| 5429 | Gold HS Arms・Purple | 金護腕【ＨＳ】・紫 |
+| 5430 | Gold GS Arms・Purple | 金護腕【ＧＳ】・紫 |
+| 5431 | Gold GP Arms・Purple | 金護腕【ＧＰ】・紫 |
+| 5432 | Gold FZ Guard・Red | 金臂甲【ＦＺ】・赤 |
+| 5433 | Gold HS Guard・Red | 金臂甲【ＨＳ】・赤 |
+| 5434 | Gold GS Guard・Red | 金臂甲【ＧＳ】・赤 |
+| 5435 | Gold GP Guard・Red | 金臂甲【ＧＰ】・赤 |
+| 5436 | Gold FZ Guard・Blue | 金臂甲【ＦＺ】・青 |
+| 5437 | Gold HS Guard・Blue | 金臂甲【ＨＳ】・青 |
+| 5438 | Gold GS Guard・Blue | 金臂甲【ＧＳ】・青 |
+| 5439 | Gold GP Guard・Blue | 金臂甲【ＧＰ】・青 |
+| 5440 | Gold FZ Guard・Yellow | 金臂甲【ＦＺ】・黄 |
+| 5441 | Gold HS Guard・Yellow | 金臂甲【ＨＳ】・黄 |
+| 5442 | Gold GS Guard・Yellow | 金臂甲【ＧＳ】・黄 |
+| 5443 | Gold GP Guard・Yellow | 金臂甲【ＧＰ】・黄 |
+| 5444 | Gold FZ Guard・Purple | 金臂甲【ＦＺ】・紫 |
+| 5445 | Gold HS Guard・Purple | 金臂甲【ＨＳ】・紫 |
+| 5446 | Gold GS Guard・Purple | 金臂甲【ＧＳ】・紫 |
+| 5447 | Gold GP Guard・Purple | 金臂甲【ＧＰ】・紫 |
 | 5448 | Shaln HS Arms・Blue | 夏爾恩護腕【ＨＳ】・青 |
 | 5449 | Shaln GS Arms・Blue | 夏爾恩護腕【ＧＳ】・青 |
 | 5450 | Shaln GP Arms・Blue | 夏爾恩護腕【ＧＰ】・青 |

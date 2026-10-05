@@ -211,10 +211,10 @@
 | 4705 | Chaos HS Greaves・Blue | 混沌護腿【ＨＳ】・青 |
 | 4706 | Chaos GS Greaves・Blue | 混沌護腿【ＧＳ】・青 |
 | 4707 | Chaos GP Greaves・Blue | 混沌護腿【ＧＰ】・青 |
-| 4708 | Shadow FZ Boots Purple | 暗影靴【ＦＺ】・紫 |
-| 4709 | Shadow HS Boots Purple | 暗影靴【ＨＳ】・紫 |
-| 4710 | Shadow GS Boots Purple | 暗影靴【ＧＳ】・紫 |
-| 4711 | Shadow GP Boots Purple | 暗影靴【ＧＰ】・紫 |
+| 4708 | Shadow FZ Boots Purple | 影靴【ＦＺ】・紫 |
+| 4709 | Shadow HS Boots Purple | 影靴【ＨＳ】・紫 |
+| 4710 | Shadow GS Boots Purple | 影靴【ＧＳ】・紫 |
+| 4711 | Shadow GP Boots Purple | 影靴【ＧＰ】・紫 |
 | 4712 | Soul FZ Boots・Purple | 魂靴【ＦＺ】・紫 |
 | 4713 | Soul HS Boots・Purple | 魂靴【ＨＳ】・紫 |
 | 4714 | Soul GS Boots・Purple | 魂靴【ＧＳ】・紫 |
@@ -227,10 +227,10 @@
 | 4721 | Chaos HS Greaves・Red | 混沌護腿【ＨＳ】・赤 |
 | 4722 | Chaos GS Greaves・Red | 混沌護腿【ＧＳ】・赤 |
 | 4723 | Chaos GP Greaves・Red | 混沌護腿【ＧＰ】・赤 |
-| 4724 | Shadow FZ Boots Red | 暗影靴【ＦＺ】・赤 |
-| 4725 | Shadow HS Boots Red | 暗影靴【ＨＳ】・赤 |
-| 4726 | Shadow GS Boots Red | 暗影靴【ＧＳ】・赤 |
-| 4727 | Shadow GP Boots Red | 暗影靴【ＧＰ】・赤 |
+| 4724 | Shadow FZ Boots Red | 影靴【ＦＺ】・赤 |
+| 4725 | Shadow HS Boots Red | 影靴【ＨＳ】・赤 |
+| 4726 | Shadow GS Boots Red | 影靴【ＧＳ】・赤 |
+| 4727 | Shadow GP Boots Red | 影靴【ＧＰ】・赤 |
 | 4728 | Soul FZ Boots・Red | 魂靴【ＦＺ】・赤 |
 | 4729 | Soul HS Boots・Red | 魂靴【ＨＳ】・赤 |
 | 4730 | Soul GS Boots・Red | 魂靴【ＧＳ】・赤 |
@@ -243,10 +243,10 @@
 | 4737 | Chaos HS Greaves・Green | 混沌護腿【ＨＳ】・緑 |
 | 4738 | Chaos GS Greaves・Green | 混沌護腿【ＧＳ】・緑 |
 | 4739 | Chaos GP Greaves・Green | 混沌護腿【ＧＰ】・緑 |
-| 4740 | Shadow FZ Boots Green | 暗影靴【ＦＺ】・緑 |
-| 4741 | Shadow HS Boots Green | 暗影靴【ＨＳ】・緑 |
-| 4742 | Shadow GS Boots Green | 暗影靴【ＧＳ】・緑 |
-| 4743 | Shadow GP Boots Green | 暗影靴【ＧＰ】・緑 |
+| 4740 | Shadow FZ Boots Green | 影靴【ＦＺ】・緑 |
+| 4741 | Shadow HS Boots Green | 影靴【ＨＳ】・緑 |
+| 4742 | Shadow GS Boots Green | 影靴【ＧＳ】・緑 |
+| 4743 | Shadow GP Boots Green | 影靴【ＧＰ】・緑 |
 | 4744 | Soul FZ Boots・Green | 魂靴【ＦＺ】・緑 |
 | 4745 | Soul HS Boots・Green | 魂靴【ＨＳ】・緑 |
 | 4746 | Soul GS Boots・Green | 魂靴【ＧＳ】・緑 |
@@ -259,10 +259,10 @@
 | 4753 | Chaos HS Greaves・White | 混沌護腿【ＨＳ】・白 |
 | 4754 | Chaos GS Greaves・White | 混沌護腿【ＧＳ】・白 |
 | 4755 | Chaos GP Greaves・White | 混沌護腿【ＧＰ】・白 |
-| 4756 | Shadow FZ Boots White | 暗影靴【ＦＺ】・白 |
-| 4757 | Shadow HS Boots White | 暗影靴【ＨＳ】・白 |
-| 4758 | Shadow GS Boots White | 暗影靴【ＧＳ】・白 |
-| 4759 | Shadow GP Boots White | 暗影靴【ＧＰ】・白 |
+| 4756 | Shadow FZ Boots White | 影靴【ＦＺ】・白 |
+| 4757 | Shadow HS Boots White | 影靴【ＨＳ】・白 |
+| 4758 | Shadow GS Boots White | 影靴【ＧＳ】・白 |
+| 4759 | Shadow GP Boots White | 影靴【ＧＰ】・白 |
 | 4760 | Soul FZ Boots・White | 魂靴【ＦＺ】・白 |
 | 4761 | Soul HS Boots・White | 魂靴【ＨＳ】・白 |
 | 4762 | Soul GS Boots・White | 魂靴【ＧＳ】・白 |
@@ -303,34 +303,34 @@
 | 4797 | Shinryu GP脚着・Red | 脚着護腿・赤 |
 | 4798 | Reppa GS脚着・Red | 脚着護腿・赤 |
 | 4799 | Reppa GP脚着・Red | 脚着護腿・赤 |
-| 4800 | Cannon GSタイツ・Water | 加農護腿 |
-| 4801 | Cannon GPタイツ・Water | 加農護腿 |
-| 4802 | Axel GSタイツ・Water | 輪軸護腿 |
-| 4803 | Axel GPタイツ・Water | 輪軸護腿 |
+| 4800 | Cannon GSタイツ・Water | 加農護腿・水 |
+| 4801 | Cannon GPタイツ・Water | 加農護腿・水 |
+| 4802 | Axel GSタイツ・Water | 輪軸護腿・水 |
+| 4803 | Axel GPタイツ・Water | 輪軸護腿・水 |
 | 4804 | Shinryu GS脚着・White | 脚着護腿・白 |
 | 4805 | Shinryu GP脚着・White | 脚着護腿・白 |
 | 4806 | Reppa GS脚着・White | 脚着護腿・白 |
 | 4807 | Reppa GP脚着・White | 脚着護腿・白 |
-| 4808 | Cannon GSタイツ・Green | 加農護腿 |
-| 4809 | Cannon GPタイツ・Green | 加農護腿 |
-| 4810 | Axel GSタイツ・Green | 輪軸護腿 |
-| 4811 | Axel GPタイツ・Green | 輪軸護腿 |
+| 4808 | Cannon GSタイツ・Green | 加農護腿・緑 |
+| 4809 | Cannon GPタイツ・Green | 加農護腿・緑 |
+| 4810 | Axel GSタイツ・Green | 輪軸護腿・緑 |
+| 4811 | Axel GPタイツ・Green | 輪軸護腿・緑 |
 | 4812 | Shinryu GS脚着・Purple | 脚着護腿・紫 |
 | 4813 | Shinryu GP脚着・Purple | 脚着護腿・紫 |
 | 4814 | Reppa GS脚着・Purple | 脚着護腿・紫 |
 | 4815 | Reppa GP脚着・Purple | 脚着護腿・紫 |
-| 4816 | Cannon GSタイツ・Peach | 加農護腿 |
-| 4817 | Cannon GPタイツ・Peach | 加農護腿 |
-| 4818 | Axel GSタイツ・Peach | 輪軸護腿 |
-| 4819 | Axel GPタイツ・Peach | 輪軸護腿 |
+| 4816 | Cannon GSタイツ・Peach | 加農護腿・桃 |
+| 4817 | Cannon GPタイツ・Peach | 加農護腿・桃 |
+| 4818 | Axel GSタイツ・Peach | 輪軸護腿・桃 |
+| 4819 | Axel GPタイツ・Peach | 輪軸護腿・桃 |
 | 4820 | Shinryu GS脚着・Yellow | 脚着護腿・黄 |
 | 4821 | Shinryu GP脚着・Yellow | 脚着護腿・黄 |
 | 4822 | Reppa GS脚着・Yellow | 脚着護腿・黄 |
 | 4823 | Reppa GP脚着・Yellow | 脚着護腿・黄 |
-| 4824 | Cannon GSタイツ・Purple | 加農護腿 |
-| 4825 | Cannon GPタイツ・Purple | 加農護腿 |
-| 4826 | Axel GSタイツ・Purple | 輪軸護腿 |
-| 4827 | Axel GPタイツ・Purple | 輪軸護腿 |
+| 4824 | Cannon GSタイツ・Purple | 加農護腿・紫 |
+| 4825 | Cannon GPタイツ・Purple | 加農護腿・紫 |
+| 4826 | Axel GSタイツ・Purple | 輪軸護腿・紫 |
+| 4827 | Axel GPタイツ・Purple | 輪軸護腿・紫 |
 | 4828 | Garuda HS Leg | 迦樓羅腿【ＨＳ】 |
 | 4829 | Garuda GS Leg | 迦樓羅腿【ＧＳ】 |
 | 4830 | Garuda GP Leg | 迦樓羅腿【ＧＰ】 |

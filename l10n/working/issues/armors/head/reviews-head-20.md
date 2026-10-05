@@ -94,8 +94,8 @@
 | 9588 | Pics GP Hat・Purple | 皮克斯帽【ＧＰ】・紫 |
 | 9589 | Pics GP Head・Black | 皮克斯頭兜【ＧＰ】・黑 |
 | 9590 | Pics GP Hat・Black | 皮克斯帽【ＧＰ】・黑 |
-| 9591 | Pics GP Head・Water | 皮克斯水頭兜【ＧＰ】 |
-| 9592 | Pics GP Hat・Water | 皮克斯水帽【ＧＰ】 |
+| 9591 | Pics GP Head・Water | 皮克斯頭兜【ＧＰ】・水 |
+| 9592 | Pics GP Hat・Water | 皮克斯帽【ＧＰ】・水 |
 | 9593 | ダミー | (dummy) |
 | 9594 | ダミー | (dummy) |
 | 9595 | Barrel Cat Helm・Gold | 布阿爾艾頭兜・金 |
@@ -463,12 +463,12 @@
 | 9957 | Monodevil G Cap | 單眼惡魔兜帽【Ｇ】 |
 | 9958 | Monodevil GF Cap | 單眼惡魔兜帽【ＧＦ】 |
 | 9959 | Monodevil GX Cap | 單眼惡魔兜帽【ＧＸ】 |
-| 9960 | B.Diablos G Helm | 角龍頭兜【Ｇ】 |
-| 9961 | B.Diablos GF Helm | 角龍頭兜【ＧＦ】 |
-| 9962 | B.Diablos GX Helm | 角龍頭兜【ＧＸ】 |
-| 9963 | B.Diablos G Cap | 角龍兜帽【Ｇ】 |
-| 9964 | B.Diablos GF Cap | 角龍兜帽【ＧＦ】 |
-| 9965 | B.Diablos GX Cap | 角龍兜帽【ＧＸ】 |
+| 9960 | B.Diablos G Helm | 黑角龍頭兜【Ｇ】 |
+| 9961 | B.Diablos GF Helm | 黑角龍頭兜【ＧＦ】 |
+| 9962 | B.Diablos GX Helm | 黑角龍頭兜【ＧＸ】 |
+| 9963 | B.Diablos G Cap | 黑角龍兜帽【Ｇ】 |
+| 9964 | B.Diablos GF Cap | 黑角龍兜帽【ＧＦ】 |
+| 9965 | B.Diablos GX Cap | 黑角龍兜帽【ＧＸ】 |
 | 9966 | Wadatsumi GX【Eboshi】 | 綿津見烏帽子【ＧＸ】 |
 | 9967 | Okami GX【Eboshi】 | 狼烏帽子【ＧＸ】 |
 | 9968 | Odiva GX Helm | 奧蒂瓦頭兜【ＧＸ】 |

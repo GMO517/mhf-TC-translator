@@ -20,7 +20,7 @@
 | 13014 | Twelve Paladins' Armor D・Brown | 特艾爾艾頭兜 |
 | 13015 | Twelve Paladins' Armor D・Black | 特艾爾艾頭兜・黑 |
 | 13016 | Holy Maiden Armor D・Hairtie | 赫歐爾阿髮結 |
-| 13017 | Dragon Slayer Armor D | 龍頭兜 |
+| 13017 | Dragon Slayer Armor D | 屠龍頭兜 |
 | 13018 | Helm of Hidden Infidelity D | 歐芙伊德頭兜 |
 | 13019 | Dinato D Head | 德伊恩阿頭兜 |
 | 13020 | Duque D Head | 德烏斯烏頭兜 |
@@ -48,18 +48,18 @@
 | 13042 | Blango Helm PD Yellow | 雪獅子頭兜【ＰＤ】・黄 |
 | 13043 | Blango Helm PD Blue | 雪獅子頭兜【ＰＤ】・青 |
 | 13044 | Blango Helm PD Black | 雪獅子頭兜【ＰＤ】・黑 |
-| 13045 | Golden Headdress PD White | 格歐爾艾頭兜【ＰＤ】・白 |
-| 13046 | Golden Headdress PD Purple | 格歐爾艾頭兜【ＰＤ】・紫 |
-| 13047 | Golden Headdress PD Green | 格歐爾艾頭兜【ＰＤ】・緑 |
+| 13045 | Golden Headdress PD White | 金頭飾頭兜【ＰＤ】・白 |
+| 13046 | Golden Headdress PD Purple | 金頭飾頭兜【ＰＤ】・紫 |
+| 13047 | Golden Headdress PD Green | 金頭飾頭兜【ＰＤ】・緑 |
 | 13048 | Gravios Cap PD Green | 鎧龍兜帽【ＰＤ】・緑 |
 | 13049 | Gravios Cap PD Purple | 鎧龍兜帽【ＰＤ】・紫 |
 | 13050 | Gravios Cap PD Red | 鎧龍兜帽【ＰＤ】・赤 |
 | 13051 | High Metal Helm PD Black | 上位金屬頭兜【ＰＤ】・黑 |
 | 13052 | High Metal Helm PD Blue | 上位金屬頭兜【ＰＤ】・青 |
 | 13053 | High Metal Helm PD Yellow | 上位金屬頭兜【ＰＤ】・黄 |
-| 13054 | S・Sol Helm PD Red | 日頭兜【Ｓ】【ＰＤ】・赤 |
-| 13055 | S・Sol Helm PD Purple | 日頭兜【Ｓ】【ＰＤ】・紫 |
-| 13056 | S・Sol Helm PD Black | 日頭兜【Ｓ】【ＰＤ】・黑 |
+| 13054 | S・Sol Helm PD Red | S索倫頭兜【ＰＤ】・赤 |
+| 13055 | S・Sol Helm PD Purple | S索倫頭兜【ＰＤ】・紫 |
+| 13056 | S・Sol Helm PD Black | S索倫頭兜【ＰＤ】・黑 |
 | 13057 | Garuga Cap PD White | 黑狼鳥兜帽【ＰＤ】・白 |
 | 13058 | Garuga Cap PD Green | 黑狼鳥兜帽【ＰＤ】・緑 |
 | 13059 | Garuga Cap PD Red | 黑狼鳥兜帽【ＰＤ】・赤 |
@@ -298,7 +298,7 @@
 | 13292 | Byakko・双龍D Helm | 双龍頭兜 |
 | 13293 | Byakko・剣王D Helm | 剣王頭兜 |
 | 13294 | Byakko・刀神D Helm | 刀神頭兜 |
-| 13295 | Byakko・Heaven 槍D Helm | 槍頭兜・天 |
+| 13295 | Byakko・Heaven 槍D Helm | 槍天頭兜 |
 | 13296 | Byakko・砲皇D Helm | 砲皇頭兜 |
 | 13297 | Byakko・鈍器獣D Helm | 鈍器獣頭兜 |
 | 13298 | Byakko・奏帝D Helm | 奏帝頭兜 |
@@ -306,7 +306,7 @@
 | 13300 | Byakko・斬将D Helm | 斬将頭兜 |
 | 13301 | Byakko・銃傑D Mask | 銃傑帽子 |
 | 13302 | Byakko・銃仙D Mask | 銃仙帽子 |
-| 13303 | Byakko・Bow 鬼D Mask | 鬼帽子 |
+| 13303 | Byakko・Bow 鬼D Mask | 白虎帽子 |
 | 13304 | Kirin Horn PD Red | 麒麟角【ＰＤ】・赤 |
 | 13305 | Kirin Horn PD Purple | 麒麟角【ＰＤ】・紫 |
 | 13306 | Kirin Horn PD Black | 麒麟角【ＰＤ】・黑 |
@@ -343,7 +343,7 @@
 | 13337 | Suzaku・双龍D Helm | 双龍頭兜 |
 | 13338 | Suzaku・剣王D Helm | 剣王頭兜 |
 | 13339 | Suzaku・刀神D Helm | 刀神頭兜 |
-| 13340 | Suzaku・Heaven 槍D Helm | 槍頭兜・天 |
+| 13340 | Suzaku・Heaven 槍D Helm | 槍天頭兜 |
 | 13341 | Suzaku・砲皇D Helm | 砲皇頭兜 |
 | 13342 | Suzaku・鈍器獣D Helm | 鈍器獣頭兜 |
 | 13343 | Suzaku・奏帝D Helm | 奏帝頭兜 |
@@ -351,10 +351,10 @@
 | 13345 | Suzaku・斬将D Helm | 斬将頭兜 |
 | 13346 | Suzaku・銃傑D Mask | 銃傑帽子 |
 | 13347 | Suzaku・銃仙D Mask | 銃仙帽子 |
-| 13348 | Suzaku・Bow 鬼D Mask | 鬼帽子 |
-| 13349 | G・Knight Mask PD Red | 騎士帽子【Ｇ】【ＰＤ】・赤 |
-| 13350 | G・Knight Mask PD Blue | 騎士帽子【Ｇ】【ＰＤ】・青 |
-| 13351 | G・Knight Mask PD Purple | 騎士帽子【Ｇ】【ＰＤ】・紫 |
+| 13348 | Suzaku・Bow 鬼D Mask | 朱雀帽子 |
+| 13349 | G・Knight Mask PD Red | 騎士帽子【ＰＤ】・赤 |
+| 13350 | G・Knight Mask PD Blue | 騎士帽子【ＰＤ】・青 |
+| 13351 | G・Knight Mask PD Purple | 騎士帽子【ＰＤ】・紫 |
 | 13352 | PV Glasses PD Red | 普眼鏡【ＰＤ】・赤 |
 | 13353 | PV Glasses PD Blue | 普眼鏡【ＰＤ】・青 |
 | 13354 | PV Glasses PD Purple | 普眼鏡【ＰＤ】・紫 |
@@ -379,9 +379,9 @@
 | 13373 | Akantor Mask PD Black | 霸龍帽子【ＰＤ】・黑 |
 | 13374 | Akantor Mask PD Red | 霸龍帽子【ＰＤ】・赤 |
 | 13375 | Akantor Mask PD White | 霸龍帽子【ＰＤ】・白 |
-| 13376 | Akantor リクン PD Black | 霸龍頭兜【ＰＤ】 |
-| 13377 | Akantor リクン PD Red | 霸龍頭兜【ＰＤ】 |
-| 13378 | Akantor リクン PD White | 霸龍頭兜【ＰＤ】 |
+| 13376 | Akantor リクン PD Black | 霸龍頭兜【ＰＤ】・黑 |
+| 13377 | Akantor リクン PD Red | 霸龍頭兜【ＰＤ】・赤 |
+| 13378 | Akantor リクン PD White | 霸龍頭兜【ＰＤ】・白 |
 | 13379 | Gravios Helm PD Black | 鎧龍頭兜【ＰＤ】・黑 |
 | 13380 | Gravios Helm PD Blue | 鎧龍頭兜【ＰＤ】・青 |
 | 13381 | Gravios Helm PD Red | 鎧龍頭兜【ＰＤ】・赤 |
@@ -390,13 +390,13 @@
 | 13384 | Melynx D Festa | 梅拉路祭 |
 | 13385 | Poogie D Festa | 普歐格伊祭 |
 | 13386 | Espi D Festa | 艾斯伊斯祭 |
-| 13387 | B.Espi D Festa | 德祭 |
+| 13387 | B.Espi D Festa | 黑棘龍祭 |
 | 13388 | W.Espi D Festa | 棘白龍祭 |
 | 13389 | Kamu D Festa | 克阿姆烏祭 |
 | 13390 | Nono D Festa | 恩歐恩歐祭 |
 | 13391 | Gogomoa D Festa | 跳緋獸祭 |
 | 13392 | Elzelion D Festa | 灼零龍祭 |
-| 13393 | Extreme Elzelion D Festa | 艾克斯艾祭 |
+| 13393 | Extreme Elzelion D Festa | 灼零龍祭 |
 | 13394 | Duremudira D Festa | 皇冰龍祭 |
 | 13395 | Goocoo D Festa | 格歐克歐祭 |
 | 13396 | Sharuru D Helm | 夏阿爾烏頭兜 |

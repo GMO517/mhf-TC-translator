@@ -62,14 +62,14 @@
 | 13056 | Honour D Coil・Blue | 赫歐恩歐腰甲・青 |
 | 13057 | Honour D Coil・Green | 赫歐恩歐腰甲・緑 |
 | 13058 | Honour D Coil・紺 | 紺腰甲 |
-| 13059 | Pics D Coil・Green | 普伊克腰甲・緑 |
-| 13060 | Pics D Coil・Purple | 普伊克腰甲・紫 |
-| 13061 | Pics D Coil・Black | 普伊克腰甲・黑 |
-| 13062 | Pics D Coil・Water | 普伊克阿腰甲 |
-| 13063 | Magos D Coil・Yellow | 姆阿格歐腰甲・黄 |
-| 13064 | Magos D Coil・Red | 姆阿格歐腰甲・赤 |
-| 13065 | Magos D Coil・Water | 姆阿格歐腰甲 |
-| 13066 | Magos D Coil・Blue | 姆阿格歐腰甲・青 |
+| 13059 | Pics D Coil・Green | 皮克斯腰甲・緑 |
+| 13060 | Pics D Coil・Purple | 皮克斯腰甲・紫 |
+| 13061 | Pics D Coil・Black | 皮克斯腰甲・黑 |
+| 13062 | Pics D Coil・Water | 皮克斯腰甲・水 |
+| 13063 | Magos D Coil・Yellow | 瑪戈斯腰甲・黄 |
+| 13064 | Magos D Coil・Red | 瑪戈斯腰甲・赤 |
+| 13065 | Magos D Coil・Water | 瑪戈斯腰甲・水 |
+| 13066 | Magos D Coil・Blue | 瑪戈斯腰甲・青 |
 | 13067 | Arge D Coil | 阿爾艾斯腰甲 |
 | 13068 | Camarera D Coil | 克阿姆阿腰甲 |
 | 13069 | Metenera D Coil | 姆艾特艾腰甲 |
@@ -79,10 +79,10 @@
 | 13073 | Zodic D Coil・Tea | 茲歐德伊腰甲・茶 |
 | 13074 | Zodic D Coil・Green | 茲歐德伊腰甲・緑 |
 | 13075 | Zodic D Coil・Pink | 茲歐德伊腰甲・桃 |
-| 13076 | Cayssis D Coil Water | 克阿伊伊腰甲 |
-| 13077 | Cayssis D Coil Red | 克阿伊伊腰甲・赤 |
-| 13078 | Cayssis D Coil Blue | 克阿伊伊腰甲・青 |
-| 13079 | Cayssis D Coil Orange | 克阿伊伊腰甲・橙 |
+| 13076 | Cayssis D Coil Water | 凱西斯腰甲・水 |
+| 13077 | Cayssis D Coil Red | 凱西斯腰甲・赤 |
+| 13078 | Cayssis D Coil Blue | 凱西斯腰甲・青 |
+| 13079 | Cayssis D Coil Orange | 凱西斯腰甲・橙 |
 | 13080 | Omet D Coil・Black | 歐姆艾特腰甲・黑 |
 | 13081 | Omet D Coil・Red | 歐姆艾特腰甲・赤 |
 | 13082 | Omet D Coil・White | 歐姆艾特腰甲・白 |
@@ -91,18 +91,18 @@
 | 13085 | Edio D Coil・Red | 艾德伊斯腰甲・赤 |
 | 13086 | Edio D Coil・Yellow | 艾德伊斯腰甲・黄 |
 | 13087 | Edio D Coil・Black | 艾德伊斯腰甲・黑 |
-| 13088 | Steno D Elytra ー・Orange | 水竜翅腰 |
-| 13089 | Steno D Elytra ー・Peach | 水竜翅腰 |
-| 13090 | Steno D Elytra ー・Blue | 水竜翅腰 |
-| 13091 | Steno D Elytra ー・Red | 水竜翅腰 |
+| 13088 | Steno D Elytra ー・Orange | 斯艾恩歐翅腰・橙 |
+| 13089 | Steno D Elytra ー・Peach | 斯艾恩歐翅腰・桃 |
+| 13090 | Steno D Elytra ー・Blue | 斯艾恩歐翅腰・青 |
+| 13091 | Steno D Elytra ー・Red | 斯艾恩歐翅腰・赤 |
 | 13092 | Suriito D Coil・Yellow | 斯烏爾伊腰甲・黄 |
 | 13093 | Suriito D Coil・Silver | 斯烏爾伊腰甲・銀 |
 | 13094 | Suriito D Coil・Red | 斯烏爾伊腰甲・赤 |
 | 13095 | Suriito D Coil・Blue | 斯烏爾伊腰甲・青 |
-| 13096 | Galitos D Belt・Tea | 格阿爾伊腰帶・茶 |
-| 13097 | Galitos D Belt・Red | 格阿爾伊腰帶・赤 |
-| 13098 | Galitos D Belt・Black | 格阿爾伊腰帶・黑 |
-| 13099 | Galitos D Belt・Water | 格阿爾伊腰帶 |
+| 13096 | Galitos D Belt・Tea | 加里托斯腰帶・茶 |
+| 13097 | Galitos D Belt・Red | 加里托斯腰帶・赤 |
+| 13098 | Galitos D Belt・Black | 加里托斯腰帶・黑 |
+| 13099 | Galitos D Belt・Water | 加里托斯腰帶・水 |
 | 13100 | Text D Coil・Purple | 特艾克斯腰甲・紫 |
 | 13101 | Text D Coil・Green | 特艾克斯腰甲・緑 |
 | 13102 | Text D Coil・Blue | 特艾克斯腰甲・青 |
@@ -111,24 +111,24 @@
 | 13105 | Pharan D Coil・Black | 菲阿爾阿腰甲・黑 |
 | 13106 | Pharan D Coil・Red | 菲阿爾阿腰甲・赤 |
 | 13107 | Pharan D Coil・Blue | 菲阿爾阿腰甲・青 |
-| 13108 | Gold D Coil・Red | 德腰甲 |
-| 13109 | Gold D Coil・Blue | 德腰甲 |
-| 13110 | Gold D Coil・Yellow | 德腰甲 |
-| 13111 | Gold D Coil・Purple | 德腰甲 |
-| 13112 | Claire D Coil・Purple | 克阿爾艾腰甲・紫 |
-| 13113 | Claire D Coil・Water | 克阿爾艾腰甲 |
-| 13114 | Claire D Coil・Red | 克阿爾艾腰甲・赤 |
-| 13115 | Claire D Coil・Black | 克阿爾艾腰甲・黑 |
-| 13116 | Gold Cat Dテイル | 猫腰甲 |
-| 13117 | Silver Cat Dテイル | 猫腰甲 |
+| 13108 | Gold D Coil・Red | 金腰甲・赤 |
+| 13109 | Gold D Coil・Blue | 金腰甲・青 |
+| 13110 | Gold D Coil・Yellow | 金腰甲・黄 |
+| 13111 | Gold D Coil・Purple | 金腰甲・紫 |
+| 13112 | Claire D Coil・Purple | 克蕾爾腰甲・紫 |
+| 13113 | Claire D Coil・Water | 克蕾爾腰甲・水 |
+| 13114 | Claire D Coil・Red | 克蕾爾腰甲・赤 |
+| 13115 | Claire D Coil・Black | 克蕾爾腰甲・黑 |
+| 13116 | Gold Cat Dテイル | 金猫腰甲 |
+| 13117 | Silver Cat Dテイル | 銀猫腰甲 |
 | 13118 | Ex D Coil・White | 艾克斯腰甲・白 |
 | 13119 | Ex D Coil・Red | 艾克斯腰甲・赤 |
 | 13120 | Ex D Coil・Blue | 艾克斯腰甲・青 |
 | 13121 | Ex D Coil・Black | 艾克斯腰甲・黑 |
-| 13122 | Star Festival D Obi 【 Red 】 | 斯阿爾艾帶・赤 |
-| 13123 | Star Festival D Obi 【 Blue 】 | 斯阿爾艾帶・青 |
-| 13124 | Star Festival D Obi 【 Black 】 | 斯阿爾艾帶・黑 |
-| 13125 | Star Festival D Obi 【 White 】 | 斯阿爾艾帶・白 |
+| 13122 | Star Festival D Obi 【 Red 】 | 星祭帶・赤 |
+| 13123 | Star Festival D Obi 【 Blue 】 | 星祭帶・青 |
+| 13124 | Star Festival D Obi 【 Black 】 | 星祭帶・黑 |
+| 13125 | Star Festival D Obi 【 White 】 | 星祭帶・白 |
 | 13126 | Promise D Coat・White | 普歐姆伊腰衣・白 |
 | 13127 | Promise D Coat・Blue | 普歐姆伊腰衣・青 |
 | 13128 | Promise D Coat・Purple | 普歐姆伊腰衣・紫 |
@@ -163,7 +163,7 @@
 | 13157 | Konseru D Faulds | 克歐恩艾腰甲 |
 | 13158 | Utaei Waistband D | 烏特阿斯腰帶 |
 | 13159 | Utatsumugu Waistband D | 烏特阿特腰帶 |
-| 13160 | シカリの腰当てD | 德腰當 |
+| 13160 | シカリの腰当てD | 希可里腰當 |
 | 13161 | Strega D Faulds | 斯艾格阿腰甲 |
 | 13162 | Eques D Faulds | 艾斯烏斯腰甲 |
 | 13163 | Uida D Coil | 烏德阿斯腰甲 |
@@ -415,7 +415,7 @@
 | 13409 | Secuti D Coil・Red | 斯艾克烏腰甲・赤 |
 | 13410 | Secuti D Coil・White | 斯艾克烏腰甲・白 |
 | 13411 | Rockman D Coat | 爾歐克阿腰衣 |
-| 13412 | Issen D【腰当て】・Red | 伊斯艾恩腰當・赤 |
+| 13412 | Issen D【腰当て】・Red | 一閃腰當・赤 |
 | 13413 | 蜂針D【腰当て】・Orange | 蜂針腰當・橙 |
 | 13414 | Shanru Z Coil | 夏阿恩烏腰甲【Ｚ】 |
 | 13415 | Shanru ZF Coil | 夏阿恩烏腰甲【ＺＦ】 |

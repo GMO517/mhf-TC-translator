@@ -8,9 +8,9 @@
 | 13502 | Ruko Legs PD White | 極龍腿甲【ＰＤ】・白 |
 | 13503 | Ruko Legs PD Blue | 極龍腿甲【ＰＤ】・青 |
 | 13504 | Ruko Legs PD Red | 極龍腿甲【ＰＤ】・赤 |
-| 13505 | Comrade Boots PD White Red | 戰友靴【ＰＤ】・赤・白 |
-| 13506 | Comrade Boots PD White Blue | 戰友靴【ＰＤ】・青・白 |
-| 13507 | Comrade Boots PD White Yellow | 戰友靴【ＰＤ】・黄・白 |
+| 13505 | Comrade Boots PD White Red | 戰友靴【ＰＤ】・白 |
+| 13506 | Comrade Boots PD White Blue | 戰友靴【ＰＤ】・白 |
+| 13507 | Comrade Boots PD White Yellow | 戰友靴【ＰＤ】・白 |
 | 13508 | Otono D Greaves | 歐特歐恩護腿 |
 | 13509 | 忍の Tabi・空D | 忍の空足袋 |
 | 13510 | 忍の Tabi・海D | 忍の海足袋 |

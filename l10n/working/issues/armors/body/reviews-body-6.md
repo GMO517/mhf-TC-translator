@@ -90,26 +90,26 @@
 | 2584 | Riot FZ Vest | 暴動背心【ＦＺ】 |
 | 2585 | Rutare FZ Mail | 魯塔雷鎧甲【ＦＺ】 |
 | 2586 | Rutare FZ Vest | 魯塔雷背心【ＦＺ】 |
-| 2587 | Rolling Flow Chestplate・Elegant | 爾歐爾伊胸甲 |
+| 2587 | Rolling Flow Chestplate・Elegant | 滾流胸甲 |
 | 2588 | 旋転の Chestplate・Elegant | 旋転の胸甲 |
-| 2589 | Rolling Sky Chestplate・Elegant | 爾歐爾伊胸甲 |
-| 2590 | Rolling Earth Chestplate・Elegant | 爾歐爾伊胸甲・地 |
+| 2589 | Rolling Sky Chestplate・Elegant | 滾天胸甲・天 |
+| 2590 | Rolling Earth Chestplate・Elegant | 滾地胸甲 |
 | 2591 | Odiva Mail | 奧蒂瓦鎧甲 |
 | 2592 | Odiva F Mail | 奧蒂瓦鎧甲【Ｆ】 |
 | 2593 | Odiva FX Mail | 奧蒂瓦鎧甲【ＦＸ】 |
 | 2594 | Odiva Vest | 奧蒂瓦背心 |
 | 2595 | Odiva F Vest | 奧蒂瓦背心【Ｆ】 |
 | 2596 | Odiva FX Vest | 奧蒂瓦背心【ＦＸ】 |
-| 2597 | 武者【胴当て】 | 胴当て武者鎧甲 |
-| 2598 | 日光【胴当て】 | 胴当て日光鎧甲 |
+| 2597 | 武者【胴当て】 | 武者胴當 |
+| 2598 | 日光【胴当て】 | 日光胴當 |
 | 2599 | Blitz F Vest | 布伊特背心【Ｆ】 |
 | 2600 | Blitz Fケープ | 布伊特鎧甲 |
 | 2601 | Flame F Mail | 炎鎧甲【Ｆ】 |
 | 2602 | Flame F Vest | 炎背心【Ｆ】 |
 | 2603 | Wind F Diru | 風上衣【Ｆ】 |
 | 2604 | Wind Fバダル | 風鎧甲 |
-| 2605 | 武者F【胴当て】 | 胴当て武者鎧甲 |
-| 2606 | 日光F【胴当て】 | 胴当て日光鎧甲 |
+| 2605 | 武者F【胴当て】 | 武者胴當【Ｆ】 |
+| 2606 | 日光F【胴当て】 | 日光胴當【Ｆ】 |
 | 2607 | Wadatsumi F [Chestplate 】 | 綿津見胸甲【Ｆ】 |
 | 2608 | Okami F [Chestplate 】 | 狼胸甲【Ｆ】 |
 | 2609 | トリート Jacket | 托里托夾克 |
@@ -254,8 +254,8 @@
 | 2748 | Flame FX Vest | 炎背心【ＦＸ】 |
 | 2749 | Wind FX Diru | 風上衣【ＦＸ】 |
 | 2750 | Wind FXバダル | 風鎧甲 |
-| 2751 | 武者FX【胴当て】 | 胴当て武者鎧甲 |
-| 2752 | 日光FX【胴当て】 | 胴当て日光鎧甲 |
+| 2751 | 武者FX【胴当て】 | 武者胴當【ＦＸ】 |
+| 2752 | 日光FX【胴当て】 | 日光胴當【ＦＸ】 |
 | 2753 | Wadatsumi FX [Chestplate 】 | 綿津見胸甲【ＦＸ】 |
 | 2754 | Okami FX [Chestplate 】 | 狼胸甲【ＦＸ】 |
 | 2755 | Raviente HC Mail | 大巖龍鎧甲【ＨＣ】 |
@@ -270,7 +270,7 @@
 | 2764 | Vashimu HC Vest Green | 尾晶蠍背心【ＨＣ】・緑 |
 | 2765 | Vashimu HC Mail Crimson | 尾晶蠍鎧甲【ＨＣ】・紅 |
 | 2766 | Vashimu HC Vest Crimson | 尾晶蠍背心【ＨＣ】・紅 |
-| 2767 | Inari HC【胴当て】 | 稻荷鎧甲【ＨＣ】 |
+| 2767 | Inari HC【胴当て】 | 稻荷胴當【ＨＣ】 |
 | 2768 | Tamamo HC [Chestplate 】 | 玉藻胸甲【ＨＣ】 |
 | 2769 | Beru HC Mail | 舞雷龍鎧甲【ＨＣ】 |
 | 2770 | Beru HC Vest | 舞雷龍背心【ＨＣ】 |
@@ -278,7 +278,7 @@
 | 2772 | Pariapuria HC Vest | 呑龍背心【ＨＣ】 |
 | 2773 | Guren HC Mail | 紅蓮鎧甲【ＨＣ】 |
 | 2774 | Guren HC Vest | 紅蓮背心【ＨＣ】 |
-| 2775 | Kagura HC【胴当て】 | 神樂鎧甲【ＨＣ】 |
+| 2775 | Kagura HC【胴当て】 | 神樂胴當【ＨＣ】 |
 | 2776 | Kamiza HC [Chestplate 】 | 上座胸甲【ＨＣ】 |
 | 2777 | Gogomoa HC Mail | 跳緋獸鎧甲【ＨＣ】 |
 | 2778 | Gogomoa HC Vest | 跳緋獸背心【ＨＣ】 |
@@ -368,7 +368,7 @@
 | 2862 | Vashimu HS Vest Green | 尾晶蠍背心【ＨＳ】・緑 |
 | 2863 | Vashimu HS Mail Crimson | 尾晶蠍鎧甲【ＨＳ】・紅 |
 | 2864 | Vashimu HS Vest Crimson | 尾晶蠍背心【ＨＳ】・紅 |
-| 2865 | Inari HS【胴当て】 | 稻荷鎧甲【ＨＳ】 |
+| 2865 | Inari HS【胴当て】 | 稻荷胴當【ＨＳ】 |
 | 2866 | Tamamo HS [Chestplate 】 | 玉藻胸甲【ＨＳ】 |
 | 2867 | Beru HS Mail | 舞雷龍鎧甲【ＨＳ】 |
 | 2868 | Beru HS Vest | 舞雷龍背心【ＨＳ】 |
@@ -376,7 +376,7 @@
 | 2870 | Pariapuria HS Vest | 呑龍背心【ＨＳ】 |
 | 2871 | Guren HS Mail | 紅蓮鎧甲【ＨＳ】 |
 | 2872 | Guren HS Vest | 紅蓮背心【ＨＳ】 |
-| 2873 | Kagura HS【胴当て】 | 神樂鎧甲【ＨＳ】 |
+| 2873 | Kagura HS【胴当て】 | 神樂胴當【ＨＳ】 |
 | 2874 | Kamiza HS [Chestplate 】 | 上座胸甲【ＨＳ】 |
 | 2875 | Gogomoa HS Mail | 跳緋獸鎧甲【ＨＳ】 |
 | 2876 | Gogomoa HS Vest | 跳緋獸背心【ＨＳ】 |
@@ -448,46 +448,46 @@
 | 2942 | Cloth FZ Suit・Green | 斯烏特衣【ＦＺ】・緑 |
 | 2943 | Cloth HC Suit・Green | 斯烏特衣【ＨＣ】・緑 |
 | 2944 | Cloth HS Suit・Green | 斯烏特衣【ＨＳ】・緑 |
-| 2945 | Issen 【胴当て】・Red | 一閃鎧甲 |
-| 2946 | Issen F【胴当て】・Red | 一閃鎧甲【Ｆ】 |
-| 2947 | Issen FZ【胴当て】・Red | 一閃鎧甲【ＦＺ】 |
-| 2948 | Issen HC【胴当て】・Red | 一閃鎧甲【ＨＣ】 |
-| 2949 | Issen HS【胴当て】・Red | 一閃鎧甲【ＨＳ】 |
-| 2950 | 構射【胴当て】・Red | 胴当て構射鎧甲・赤 |
-| 2951 | 構射F【胴当て】・Red | 胴当て構射鎧甲・赤 |
-| 2952 | 構射FZ【胴当て】・Red | 胴当て構射鎧甲・赤 |
-| 2953 | 構射HC【胴当て】・Red | 胴当て構射鎧甲・赤 |
-| 2954 | 構射HS【胴当て】・Red | 胴当て構射鎧甲・赤 |
-| 2955 | Issen 【胴当て】・Blue | 一閃鎧甲 |
-| 2956 | Issen F【胴当て】・Blue | 一閃鎧甲【Ｆ】 |
-| 2957 | Issen FZ【胴当て】・Blue | 一閃鎧甲【ＦＺ】 |
-| 2958 | Issen HC【胴当て】・Blue | 一閃鎧甲【ＨＣ】 |
-| 2959 | Issen HS【胴当て】・Blue | 一閃鎧甲【ＨＳ】 |
-| 2960 | 構射【胴当て】・Blue | 胴当て構射鎧甲・青 |
-| 2961 | 構射F【胴当て】・Blue | 胴当て構射鎧甲・青 |
-| 2962 | 構射FZ【胴当て】・Blue | 胴当て構射鎧甲・青 |
-| 2963 | 構射HC【胴当て】・Blue | 胴当て構射鎧甲・青 |
-| 2964 | 構射HS【胴当て】・Blue | 胴当て構射鎧甲・青 |
-| 2965 | Issen 【胴当て】・Yellow | 一閃鎧甲 |
-| 2966 | Issen F【胴当て】・Yellow | 一閃鎧甲【Ｆ】 |
-| 2967 | Issen FZ【胴当て】・Yellow | 一閃鎧甲【ＦＺ】 |
-| 2968 | Issen HC【胴当て】・Yellow | 一閃鎧甲【ＨＣ】 |
-| 2969 | Issen HS【胴当て】・Yellow | 一閃鎧甲【ＨＳ】 |
-| 2970 | 構射【胴当て】・Yellow | 胴当て構射鎧甲・黄 |
-| 2971 | 構射F【胴当て】・Yellow | 胴当て構射鎧甲・黄 |
-| 2972 | 構射FZ【胴当て】・Yellow | 胴当て構射鎧甲・黄 |
-| 2973 | 構射HC【胴当て】・Yellow | 胴当て構射鎧甲・黄 |
-| 2974 | 構射HS【胴当て】・Yellow | 胴当て構射鎧甲・黄 |
-| 2975 | Issen 【胴当て】・Black | 一閃鎧甲 |
-| 2976 | Issen F【胴当て】・Black | 一閃鎧甲【Ｆ】 |
-| 2977 | Issen FZ【胴当て】・Black | 一閃鎧甲【ＦＺ】 |
-| 2978 | Issen HC【胴当て】・Black | 一閃鎧甲【ＨＣ】 |
-| 2979 | Issen HS【胴当て】・Black | 一閃鎧甲【ＨＳ】 |
-| 2980 | 構射【胴当て】・Black | 胴当て構射鎧甲・黑 |
-| 2981 | 構射F【胴当て】・Black | 胴当て構射鎧甲・黑 |
-| 2982 | 構射FZ【胴当て】・Black | 胴当て構射鎧甲・黑 |
-| 2983 | 構射HC【胴当て】・Black | 胴当て構射鎧甲・黑 |
-| 2984 | 構射HS【胴当て】・Black | 胴当て構射鎧甲・黑 |
+| 2945 | Issen 【胴当て】・Red | 一閃胴當・赤 |
+| 2946 | Issen F【胴当て】・Red | 一閃胴當【Ｆ】・赤 |
+| 2947 | Issen FZ【胴当て】・Red | 一閃胴當【ＦＺ】・赤 |
+| 2948 | Issen HC【胴当て】・Red | 一閃胴當【ＨＣ】・赤 |
+| 2949 | Issen HS【胴当て】・Red | 一閃胴當【ＨＳ】・赤 |
+| 2950 | 構射【胴当て】・Red | 構射胴當・赤 |
+| 2951 | 構射F【胴当て】・Red | 構射胴當【Ｆ】・赤 |
+| 2952 | 構射FZ【胴当て】・Red | 構射胴當【ＦＺ】・赤 |
+| 2953 | 構射HC【胴当て】・Red | 構射胴當【ＨＣ】・赤 |
+| 2954 | 構射HS【胴当て】・Red | 構射胴當【ＨＳ】・赤 |
+| 2955 | Issen 【胴当て】・Blue | 一閃胴當・青 |
+| 2956 | Issen F【胴当て】・Blue | 一閃胴當【Ｆ】・青 |
+| 2957 | Issen FZ【胴当て】・Blue | 一閃胴當【ＦＺ】・青 |
+| 2958 | Issen HC【胴当て】・Blue | 一閃胴當【ＨＣ】・青 |
+| 2959 | Issen HS【胴当て】・Blue | 一閃胴當【ＨＳ】・青 |
+| 2960 | 構射【胴当て】・Blue | 構射胴當・青 |
+| 2961 | 構射F【胴当て】・Blue | 構射胴當【Ｆ】・青 |
+| 2962 | 構射FZ【胴当て】・Blue | 構射胴當【ＦＺ】・青 |
+| 2963 | 構射HC【胴当て】・Blue | 構射胴當【ＨＣ】・青 |
+| 2964 | 構射HS【胴当て】・Blue | 構射胴當【ＨＳ】・青 |
+| 2965 | Issen 【胴当て】・Yellow | 一閃胴當・黄 |
+| 2966 | Issen F【胴当て】・Yellow | 一閃胴當【Ｆ】・黄 |
+| 2967 | Issen FZ【胴当て】・Yellow | 一閃胴當【ＦＺ】・黄 |
+| 2968 | Issen HC【胴当て】・Yellow | 一閃胴當【ＨＣ】・黄 |
+| 2969 | Issen HS【胴当て】・Yellow | 一閃胴當【ＨＳ】・黄 |
+| 2970 | 構射【胴当て】・Yellow | 構射胴當・黄 |
+| 2971 | 構射F【胴当て】・Yellow | 構射胴當【Ｆ】・黄 |
+| 2972 | 構射FZ【胴当て】・Yellow | 構射胴當【ＦＺ】・黄 |
+| 2973 | 構射HC【胴当て】・Yellow | 構射胴當【ＨＣ】・黄 |
+| 2974 | 構射HS【胴当て】・Yellow | 構射胴當【ＨＳ】・黄 |
+| 2975 | Issen 【胴当て】・Black | 一閃胴當・黑 |
+| 2976 | Issen F【胴当て】・Black | 一閃胴當【Ｆ】・黑 |
+| 2977 | Issen FZ【胴当て】・Black | 一閃胴當【ＦＺ】・黑 |
+| 2978 | Issen HC【胴当て】・Black | 一閃胴當【ＨＣ】・黑 |
+| 2979 | Issen HS【胴当て】・Black | 一閃胴當【ＨＳ】・黑 |
+| 2980 | 構射【胴当て】・Black | 構射胴當・黑 |
+| 2981 | 構射F【胴当て】・Black | 構射胴當【Ｆ】・黑 |
+| 2982 | 構射FZ【胴当て】・Black | 構射胴當【ＦＺ】・黑 |
+| 2983 | 構射HC【胴当て】・Black | 構射胴當【ＨＣ】・黑 |
+| 2984 | 構射HS【胴当て】・Black | 構射胴當【ＨＳ】・黑 |
 | 2985 | 蜂針 [Chestplate 】・Orange | 蜂針胸甲・橙 |
 | 2986 | 蜂針F [Chestplate 】・Orange | 蜂針胸甲【Ｆ】・橙 |
 | 2987 | 蜂針FZ [Chestplate 】・Orange | 蜂針胸甲【ＦＺ】・橙 |

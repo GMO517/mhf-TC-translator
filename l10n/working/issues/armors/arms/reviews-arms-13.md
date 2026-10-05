@@ -61,12 +61,12 @@
 | 6055 | Maisto HS Guard・Pink | 麥斯托臂甲【ＨＳ】・桃 |
 | 6056 | Maisto GS Guard・Pink | 麥斯托臂甲【ＧＳ】・桃 |
 | 6057 | Maisto GP Guard・Pink | 麥斯托臂甲【ＧＰ】・桃 |
-| 6058 | Cayssis HS Arms Water | 凱西斯水護腕【ＨＳ】 |
-| 6059 | Cayssis GS Arms Water | 凱西斯水護腕【ＧＳ】 |
-| 6060 | Cayssis GP Arms Water | 凱西斯水護腕【ＧＰ】 |
-| 6061 | Cayssis HS Guard Water | 凱西斯水臂甲【ＨＳ】 |
-| 6062 | Cayssis GS Guard Water | 凱西斯水臂甲【ＧＳ】 |
-| 6063 | Cayssis GP Guard Water | 凱西斯水臂甲【ＧＰ】 |
+| 6058 | Cayssis HS Arms Water | 凱西斯護腕【ＨＳ】・水 |
+| 6059 | Cayssis GS Arms Water | 凱西斯護腕【ＧＳ】・水 |
+| 6060 | Cayssis GP Arms Water | 凱西斯護腕【ＧＰ】・水 |
+| 6061 | Cayssis HS Guard Water | 凱西斯臂甲【ＨＳ】・水 |
+| 6062 | Cayssis GS Guard Water | 凱西斯臂甲【ＧＳ】・水 |
+| 6063 | Cayssis GP Guard Water | 凱西斯臂甲【ＧＰ】・水 |
 | 6064 | Cayssis HS Arms Red | 凱西斯護腕【ＨＳ】・赤 |
 | 6065 | Cayssis GS Arms Red | 凱西斯護腕【ＧＳ】・赤 |
 | 6066 | Cayssis GP Arms Red | 凱西斯護腕【ＧＰ】・赤 |
@@ -147,8 +147,8 @@
 | 6141 | Galitos GP Guard・Red | 加里托斯臂甲【ＧＰ】・赤 |
 | 6142 | Galitos GP Arms・Black | 加里托斯護腕【ＧＰ】・黑 |
 | 6143 | Galitos GP Guard・Black | 加里托斯臂甲【ＧＰ】・黑 |
-| 6144 | Galitos GP Arms・Water | 加里托斯水護腕【ＧＰ】 |
-| 6145 | Galitos GP Guard・Water | 加里托斯水臂甲【ＧＰ】 |
+| 6144 | Galitos GP Arms・Water | 加里托斯護腕【ＧＰ】・水 |
+| 6145 | Galitos GP Guard・Water | 加里托斯臂甲【ＧＰ】・水 |
 | 6146 | Lien GP Arms・Blue | 里恩護腕【ＧＰ】・青 |
 | 6147 | Lien GP Guard・Blue | 里恩臂甲【ＧＰ】・青 |
 | 6148 | Lien GP Arms・Red | 里恩護腕【ＧＰ】・赤 |
@@ -269,10 +269,10 @@
 | 6263 | Suzaku・刀神GX Arms | 朱雀護腕【ＧＸ】 |
 | 6264 | Genbu・刀神GX Arms | 玄武護腕【ＧＸ】 |
 | 6265 | Seiryu・刀神GX Arms | 青龍護腕【ＧＸ】 |
-| 6266 | Byakko・Heaven 槍GX Arms | 白虎護腕【ＧＸ】・天 |
-| 6267 | Suzaku・Heaven 槍GX Arms | 朱雀護腕【ＧＸ】・天 |
-| 6268 | Genbu・Heaven 槍GX Arms | 玄武護腕【ＧＸ】・天 |
-| 6269 | Seiryu・Heaven 槍GX Arms | 青龍護腕【ＧＸ】・天 |
+| 6266 | Byakko・Heaven 槍GX Arms | 白虎天護腕【ＧＸ】 |
+| 6267 | Suzaku・Heaven 槍GX Arms | 朱雀天護腕【ＧＸ】 |
+| 6268 | Genbu・Heaven 槍GX Arms | 玄武天護腕【ＧＸ】 |
+| 6269 | Seiryu・Heaven 槍GX Arms | 青龍天護腕【ＧＸ】 |
 | 6270 | Byakko・砲皇GX Arms | 白虎護腕【ＧＸ】 |
 | 6271 | Suzaku・砲皇GX Arms | 朱雀護腕【ＧＸ】 |
 | 6272 | Genbu・砲皇GX Arms | 玄武護腕【ＧＸ】 |
@@ -491,10 +491,10 @@
 | 6485 | Gloria GP Arms・Blue | 榮光護腕【ＧＰ】・青 |
 | 6486 | Gloria GS Guard・Blue | 榮光臂甲【ＧＳ】・青 |
 | 6487 | Gloria GP Guard・Blue | 榮光臂甲【ＧＰ】・青 |
-| 6488 | Gloria GS Arms・Water | 榮光水護腕【ＧＳ】 |
-| 6489 | Gloria GP Arms・Water | 榮光水護腕【ＧＰ】 |
-| 6490 | Gloria GS Guard・Water | 榮光水臂甲【ＧＳ】 |
-| 6491 | Gloria GP Guard・Water | 榮光水臂甲【ＧＰ】 |
+| 6488 | Gloria GS Arms・Water | 榮光護腕【ＧＳ】・水 |
+| 6489 | Gloria GP Arms・Water | 榮光護腕【ＧＰ】・水 |
+| 6490 | Gloria GS Guard・Water | 榮光臂甲【ＧＳ】・水 |
+| 6491 | Gloria GP Guard・Water | 榮光臂甲【ＧＰ】・水 |
 | 6492 | Gloria GS Arms・Red | 榮光護腕【ＧＳ】・赤 |
 | 6493 | Gloria GP Arms・Red | 榮光護腕【ＧＰ】・赤 |
 | 6494 | Gloria GS Guard・Red | 榮光臂甲【ＧＳ】・赤 |

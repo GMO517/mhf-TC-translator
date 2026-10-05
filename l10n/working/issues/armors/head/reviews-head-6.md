@@ -30,7 +30,7 @@
 | 2524 | ロークF Helm | 洛可頭兜【Ｆ】 |
 | 2525 | ロークF Cap | 洛可兜帽【Ｆ】 |
 | 2526 | Buruho F Head・Blue | 布烏爾烏頭兜【Ｆ】・青 |
-| 2527 | マー Gear F Hat・Blue | 格艾爾帽【Ｆ】 |
+| 2527 | マー Gear F Hat・Blue | 瑪爾機甲帽【Ｆ】・青 |
 | 2528 | Gogomoa FX Helm | 跳緋獸頭兜【ＦＸ】 |
 | 2529 | Gogomoa FX Cap | 跳緋獸兜帽【ＦＸ】 |
 | 2530 | Kuraaji FX Helm | 克烏爾阿頭兜【ＦＸ】 |
@@ -84,7 +84,7 @@
 | 2578 | Gravios RX Helm | 鎧龍頭兜 |
 | 2579 | Bone RX Cap | 骨製兜帽 |
 | 2580 | White Snake Headguard | 白蛇護額 |
-| 2581 | White Snake Headguard・魁 | 魁護額・白 |
+| 2581 | White Snake Headguard・魁 | 白蛇護額魁 |
 | 2582 |  White 鳥ノ Headguard | 鳥護額・白 |
 | 2583 | White 鳥ノ Headguard・魁 | 鳥魁護額・白 |
 | 2584 | Kakabu Head | 克阿克阿頭兜 |
@@ -114,17 +114,17 @@
 | 2608 | Rutare Cap | 魯塔雷兜帽 |
 | 2609 | Rutare F Cap | 魯塔雷兜帽【Ｆ】 |
 | 2610 | Rolling Flow Headguard | 滾流護額 |
-| 2611 | Rolling Flow Headguard・魁 | 魁護額 |
+| 2611 | Rolling Flow Headguard・魁 | 滾流護額魁 |
 | 2612 | 旋転の Headguard | 旋転の護額 |
-| 2613 | 旋転の Headguard・魁 | 旋転の魁護額 |
+| 2613 | 旋転の Headguard・魁 | 旋転の護額魁 |
 | 2614 | 厳岩 Hat | 厳岩帽 |
-| 2615 | 厳岩 Hat・魁 | 厳岩魁帽 |
+| 2615 | 厳岩 Hat・魁 | 厳岩帽魁 |
 | 2616 | 不破 Hat | 不破帽 |
-| 2617 | 不破 Hat・魁 | 不破魁帽 |
+| 2617 | 不破 Hat・魁 | 不破帽魁 |
 | 2618 | 無想 Hat | 無想帽 |
-| 2619 | 無想 Hat・魁 | 無想魁帽 |
+| 2619 | 無想 Hat・魁 | 無想帽魁 |
 | 2620 | 俊激 Mask | 俊激帽子 |
-| 2621 | 俊激 Mask・魁 | 俊激魁帽子 |
+| 2621 | 俊激 Mask・魁 | 俊激帽子魁 |
 | 2622 | Suifudo Head | 斯烏芙烏頭兜 |
 | 2623 | Suifudo F Head | 斯烏芙烏頭兜【Ｆ】 |
 | 2624 | Merodesu Head | 姆艾爾歐頭兜 |
@@ -187,11 +187,11 @@
 | 2681 | Galitos FZ Head・Tea | 加里托斯頭兜【ＦＺ】・茶 |
 | 2682 | Galitos FZ Head・Red | 加里托斯頭兜【ＦＺ】・赤 |
 | 2683 | Galitos FZ Head・Black | 加里托斯頭兜【ＦＺ】・黑 |
-| 2684 | Galitos FZ Head・Water | 加里托斯水頭兜【ＦＺ】 |
+| 2684 | Galitos FZ Head・Water | 加里托斯頭兜【ＦＺ】・水 |
 | 2685 | Galitos FZ Band・Tea | 加里托斯頭帶【ＦＺ】・茶 |
 | 2686 | Galitos FZ Band・Red | 加里托斯頭帶【ＦＺ】・赤 |
 | 2687 | Galitos FZ Band・Black | 加里托斯頭帶【ＦＺ】・黑 |
-| 2688 | Galitos FZ Band・Water | 加里托斯水頭帶【ＦＺ】 |
+| 2688 | Galitos FZ Band・Water | 加里托斯頭帶【ＦＺ】・水 |
 | 2689 | Abiorugu Beretta | 獰龍貝雷塔 |
 | 2690 | Abiorugu Beretta F | 獰龍貝雷塔【Ｆ】 |
 | 2691 | Erupe Mask | 艾露培帽子 |
@@ -217,8 +217,8 @@
 | 2711 | ジオ Piercing VIII | 吉歐耳飾 |
 | 2712 | ジオF Piercing VIII | 吉歐耳飾【Ｆ】 |
 | 2713 | Beil F Earrings | 貝爾耳環【Ｆ】 |
-| 2714 | Ahaba ー Piercing | 耳飾 |
-| 2715 | Ahaba ーF Piercing | 耳飾【Ｆ】 |
+| 2714 | Ahaba ー Piercing | 阿哈巴耳飾 |
+| 2715 | Ahaba ーF Piercing | 阿哈巴耳飾【Ｆ】 |
 | 2716 | クローニー Piercing | 庫羅尼耳飾 |
 | 2717 | クローニーF Piercing | 庫羅尼耳飾【Ｆ】 |
 | 2718 | Dummy | (dummy) |
@@ -332,9 +332,9 @@
 | 2826 | Ruko Face SP White | 極龍面罩【ＳＰ】・白 |
 | 2827 | Ruko Face SP Blue | 極龍面罩【ＳＰ】・青 |
 | 2828 | Ruko Face SP Red | 極龍面罩【ＳＰ】・赤 |
-| 2829 | Comrade Helm SP White Red | 戰友頭兜【ＳＰ】・赤・白 |
-| 2830 | Comrade Helm SP White Blue | 戰友頭兜【ＳＰ】・青・白 |
-| 2831 | Comrade Helm SP White Yellow | 戰友頭兜【ＳＰ】・黄・白 |
+| 2829 | Comrade Helm SP White Red | 戰友頭兜【ＳＰ】・白 |
+| 2830 | Comrade Helm SP White Blue | 戰友頭兜【ＳＰ】・白 |
+| 2831 | Comrade Helm SP White Yellow | 戰友頭兜【ＳＰ】・白 |
 | 2832 | Rubellite Helm | 爾烏布艾頭兜 |
 | 2833 | Rubellite F Helm | 爾烏布艾頭兜【Ｆ】 |
 | 2834 | Rubellite FX Helm | 爾烏布艾頭兜【ＦＸ】 |
@@ -369,9 +369,9 @@
 | 2863 | Turquoise F Cap | 緑松石兜帽【Ｆ】 |
 | 2864 | Turquoise FX Cap | 緑松石兜帽【ＦＸ】 |
 | 2865 | Valued Word Headguard | 珍言護額 |
-| 2866 | Valued Word Headguard・魁 | 魁護額 |
-| 2867 | Valued Word Headguard・Smart | 珍言機靈護額 |
-| 2868 | Valued Word Headguard・Flower | 芙阿爾烏護額 |
+| 2866 | Valued Word Headguard・魁 | 珍言護額魁 |
+| 2867 | Valued Word Headguard・Smart | 珍言護額 |
+| 2868 | Valued Word Headguard・Flower | 珍言護額 |
 | 2869 | 式部ノ Headguard | 式部護額 |
 | 2870 | 式部ノ Headguard・魁 | 式部魁護額 |
 | 2871 | 式部ノ Headguard・Smart | 機靈護額 |
@@ -400,8 +400,8 @@
 | 2894 | Strega HC Cap | 魔女兜帽【ＨＣ】 |
 | 2895 | Zaakaa HC Head | 茲阿克阿頭兜【ＨＣ】 |
 | 2896 | Chaser HC Cap | 追撃兜帽【ＨＣ】 |
-| 2897 | Demon Lord Horn・Extreme | 德艾姆歐角 |
-| 2898 | Demon Lord Horn・Heaven | 德艾姆歐角・天 |
+| 2897 | Demon Lord Horn・Extreme | 魔王角 |
+| 2898 | Demon Lord Horn・Heaven | 魔王天角 |
 | 2899 | 童子ノ角・Extreme | 童子角頭兜 |
 | 2900 | 童子ノ角・Heaven | 童子角頭兜・天 |
 | 2901 | アナキF Head | 阿納基頭兜【Ｆ】 |
@@ -410,7 +410,7 @@
 | 2904 | アナキF Band | 阿納基頭帶【Ｆ】 |
 | 2905 | アナキFY Band | 阿納基頭帶 |
 | 2906 | アナキHC Band | 阿納基頭帶【ＨＣ】 |
-| 2907 | Royal FY Head | 爾歐伊阿頭兜 |
+| 2907 | Royal FY Head | 王室頭兜 |
 | 2908 | Royal HC Head | 王室頭兜【ＨＣ】 |
 | 2909 | Lord FY Cap | 爾歐爾兜帽 |
 | 2910 | Lord HC Cap | 爾歐爾兜帽【ＨＣ】 |
@@ -431,12 +431,12 @@
 | 2925 | Ceanataur RX Helm | 鎌蟹頭兜 |
 | 2926 | Espinas RX Brain | 棘龍腦 |
 | 2927 | Monodevil RX Cap | 姆歐恩歐兜帽 |
-| 2928 | Cayssis Helm Water | 凱西斯水頭兜 |
-| 2929 | Cayssis F Helm Water | 凱西斯水頭兜【Ｆ】 |
-| 2930 | Cayssis FZ Helm Water | 凱西斯水頭兜【ＦＺ】 |
-| 2931 | Cayssis Mask Water | 凱西斯水帽子 |
-| 2932 | Cayssis F Mask Water | 凱西斯水帽子【Ｆ】 |
-| 2933 | Cayssis FZ Mask Water | 凱西斯水帽子【ＦＺ】 |
+| 2928 | Cayssis Helm Water | 凱西斯頭兜・水 |
+| 2929 | Cayssis F Helm Water | 凱西斯頭兜【Ｆ】・水 |
+| 2930 | Cayssis FZ Helm Water | 凱西斯頭兜【ＦＺ】・水 |
+| 2931 | Cayssis Mask Water | 凱西斯帽子・水 |
+| 2932 | Cayssis F Mask Water | 凱西斯帽子【Ｆ】・水 |
+| 2933 | Cayssis FZ Mask Water | 凱西斯帽子【ＦＺ】・水 |
 | 2934 | Cayssis Helm Red | 凱西斯頭兜・赤 |
 | 2935 | Cayssis F Helm Red | 凱西斯頭兜【Ｆ】・赤 |
 | 2936 | Cayssis FZ Helm Red | 凱西斯頭兜【ＦＺ】・赤 |
@@ -455,10 +455,10 @@
 | 2949 | Cayssis Mask Orange | 凱西斯帽子・橙 |
 | 2950 | Cayssis F Mask Orange | 凱西斯帽子【Ｆ】・橙 |
 | 2951 | Cayssis FZ Mask Orange | 凱西斯帽子【ＦＺ】・橙 |
-| 2952 | Rolling Sky Headguard | 滾天護額 |
-| 2953 | Rolling Sky Headguard・魁 | 魁護額 |
-| 2954 | Rolling Earth Headguard | 滾地護額・地 |
-| 2955 | Rolling Earth Headguard・魁 | 魁護額・地 |
+| 2952 | Rolling Sky Headguard | 滾天護額・天 |
+| 2953 | Rolling Sky Headguard・魁 | 滾天護額魁・天 |
+| 2954 | Rolling Earth Headguard | 滾地護額 |
+| 2955 | Rolling Earth Headguard・魁 | 滾地護額魁 |
 | 2956 | Cubie Helm | 方塊頭兜 |
 | 2957 | Cubie F Helm | 方塊頭兜【Ｆ】 |
 | 2958 | Cubie FZ Helm | 方塊頭兜【ＦＺ】 |

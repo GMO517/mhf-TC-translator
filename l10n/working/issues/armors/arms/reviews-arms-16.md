@@ -347,18 +347,18 @@
 | 7841 | Hevria HS Guard | 赫芙莉亞臂甲【ＨＳ】 |
 | 7842 | Hevria GS Guard | 赫芙莉亞臂甲【ＧＳ】 |
 | 7843 | Hevria GP Guard | 赫芙莉亞臂甲【ＧＰ】 |
-| 7844 | Tiuru Arms | 緹烏魯護腕 |
-| 7845 | Tiuru F Arms | 緹烏魯護腕【Ｆ】 |
-| 7846 | Tiuru FZ Arms | 緹烏魯護腕【ＦＺ】 |
-| 7847 | Tiuru HS Arms | 緹烏魯護腕【ＨＳ】 |
-| 7848 | Tiuru GS Arms | 緹烏魯護腕【ＧＳ】 |
-| 7849 | Tiuru GP Arms | 緹烏魯護腕【ＧＰ】 |
-| 7850 | Tiuru Guard | 緹烏魯臂甲 |
-| 7851 | Tiuru F Guard | 緹烏魯臂甲【Ｆ】 |
-| 7852 | Tiuru FZ Guard | 緹烏魯臂甲【ＦＺ】 |
-| 7853 | Tiuru HS Guard | 緹烏魯臂甲【ＨＳ】 |
-| 7854 | Tiuru GS Guard | 緹烏魯臂甲【ＧＳ】 |
-| 7855 | Tiuru GP Guard | 緹烏魯臂甲【ＧＰ】 |
+| 7844 | Tiuru Arms | 提烏魯護腕 |
+| 7845 | Tiuru F Arms | 提烏魯護腕【Ｆ】 |
+| 7846 | Tiuru FZ Arms | 提烏魯護腕【ＦＺ】 |
+| 7847 | Tiuru HS Arms | 提烏魯護腕【ＨＳ】 |
+| 7848 | Tiuru GS Arms | 提烏魯護腕【ＧＳ】 |
+| 7849 | Tiuru GP Arms | 提烏魯護腕【ＧＰ】 |
+| 7850 | Tiuru Guard | 提烏魯臂甲 |
+| 7851 | Tiuru F Guard | 提烏魯臂甲【Ｆ】 |
+| 7852 | Tiuru FZ Guard | 提烏魯臂甲【ＦＺ】 |
+| 7853 | Tiuru HS Guard | 提烏魯臂甲【ＨＳ】 |
+| 7854 | Tiuru GS Guard | 提烏魯臂甲【ＧＳ】 |
+| 7855 | Tiuru GP Guard | 提烏魯臂甲【ＧＰ】 |
 | 7856 | Bande Arms・Blue | 飾帶護腕・青 |
 | 7857 | Bande F Arms・Blue | 飾帶護腕【Ｆ】・青 |
 | 7858 | Bande FZ Arms・Blue | 飾帶護腕【ＦＺ】・青 |

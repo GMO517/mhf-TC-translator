@@ -7,22 +7,22 @@
 | 1000 | フェサーF Arms | 芙薩護腕【Ｆ】 |
 | 1001 | シアンス Guard | 希安斯臂甲 |
 | 1002 | シアンスF Guard | 希安斯臂甲【Ｆ】 |
-| 1003 | Gold Arms・Red | 護腕・金・赤 |
-| 1004 | Gold F Arms・Red | 護腕【Ｆ】・金・赤 |
-| 1005 | Gold Guard・Red | 臂甲・金・赤 |
-| 1006 | Gold F Guard・Red | 臂甲【Ｆ】・金・赤 |
-| 1007 | Gold Arms・Blue | 護腕・金・青 |
-| 1008 | Gold F Arms・Blue | 護腕【Ｆ】・金・青 |
-| 1009 | Gold Guard・Blue | 臂甲・金・青 |
-| 1010 | Gold F Guard・Blue | 臂甲【Ｆ】・金・青 |
-| 1011 | Gold Arms・Yellow | 護腕・金・黄 |
-| 1012 | Gold F Arms・Yellow | 護腕【Ｆ】・金・黄 |
-| 1013 | Gold Guard・Yellow | 臂甲・金・黄 |
-| 1014 | Gold F Guard・Yellow | 臂甲【Ｆ】・金・黄 |
-| 1015 | Gold Arms・Purple | 護腕・金・紫 |
-| 1016 | Gold F Arms・Purple | 護腕【Ｆ】・金・紫 |
-| 1017 | Gold Guard・Purple | 臂甲・金・紫 |
-| 1018 | Gold F Guard・Purple | 臂甲【Ｆ】・金・紫 |
+| 1003 | Gold Arms・Red | 金護腕・赤 |
+| 1004 | Gold F Arms・Red | 金護腕【Ｆ】・赤 |
+| 1005 | Gold Guard・Red | 金臂甲・赤 |
+| 1006 | Gold F Guard・Red | 金臂甲【Ｆ】・赤 |
+| 1007 | Gold Arms・Blue | 金護腕・青 |
+| 1008 | Gold F Arms・Blue | 金護腕【Ｆ】・青 |
+| 1009 | Gold Guard・Blue | 金臂甲・青 |
+| 1010 | Gold F Guard・Blue | 金臂甲【Ｆ】・青 |
+| 1011 | Gold Arms・Yellow | 金護腕・黄 |
+| 1012 | Gold F Arms・Yellow | 金護腕【Ｆ】・黄 |
+| 1013 | Gold Guard・Yellow | 金臂甲・黄 |
+| 1014 | Gold F Guard・Yellow | 金臂甲【Ｆ】・黄 |
+| 1015 | Gold Arms・Purple | 金護腕・紫 |
+| 1016 | Gold F Arms・Purple | 金護腕【Ｆ】・紫 |
+| 1017 | Gold Guard・Purple | 金臂甲・紫 |
+| 1018 | Gold F Guard・Purple | 金臂甲【Ｆ】・紫 |
 | 1019 | シデロ Arms | 西德羅護腕 |
 | 1020 | シデロF Arms | 西德羅護腕【Ｆ】 |
 | 1021 | オール Arms | 奧爾護腕 |
@@ -37,9 +37,9 @@
 | 1031 | エクスト Arms C | 艾克斯特護腕 |
 | 1032 | エクスト Guard | 艾克斯特臂甲 |
 | 1033 | エクスト Guard C | 艾克斯特臂甲 |
-| 1034 | Death Stench アルム SP White | 阿魯穆護腕【ＳＰ】 |
-| 1035 | Death Stench アルム SP Red | 阿魯穆護腕【ＳＰ】 |
-| 1036 | Death Stench アルム SP Blue | 阿魯穆護腕【ＳＰ】 |
+| 1034 | Death Stench アルム SP White | 死臭護腕【ＳＰ】・白 |
+| 1035 | Death Stench アルム SP Red | 死臭護腕【ＳＰ】・赤 |
+| 1036 | Death Stench アルム SP Blue | 死臭護腕【ＳＰ】・青 |
 | 1037 | Diablos Arms SP Purple | 角龍護腕【ＳＰ】・紫 |
 | 1038 | Diablos Arms SP Blue | 角龍護腕【ＳＰ】・青 |
 | 1039 | Diablos Arms SP Yellow | 角龍護腕【ＳＰ】・黄 |
@@ -52,8 +52,8 @@
 | 1046 | Bone L Guard | 骨製臂甲【Ｌ】 |
 | 1047 | Vespoid L Guard | 巨蜂臂甲【Ｌ】 |
 | 1048 | Diablos L Guard | 角龍臂甲【Ｌ】 |
-| 1049 | G・Guard R Cuffs Crimson | 克烏芙臂甲【Ｇ】【Ｒ】・紅 |
-| 1050 | G・Guard R Cuffs Crimson | 克烏芙臂甲【Ｇ】【Ｒ】・紅 |
+| 1049 | G・Guard R Cuffs Crimson | 克烏芙臂甲【Ｒ】・紅 |
+| 1050 | G・Guard R Cuffs Crimson | 克烏芙臂甲【Ｒ】・紅 |
 | 1051 | Hornetaur R Guard | 巨甲蟲臂甲【Ｒ】 |
 | 1052 | High Metal R Guard | 上位金屬臂甲【Ｒ】 |
 | 1053 | Rath Soul R Guard | 火龍魂臂甲【Ｒ】 |
@@ -62,9 +62,9 @@
 | 1056 | Gravios R Arms | 鎧龍護腕【Ｒ】 |
 | 1057 | Io R Arms | 伊歐護腕【Ｒ】 |
 | 1058 | Dyuragaua 【 Kote 】 | 冰狐龍籠手 |
-| 1059 | Inari 覇【 Kote 】 | 覇籠手 |
+| 1059 | Inari 覇【 Kote 】 | 稻荷籠手 |
 | 1060 | Dyuragaua 【 Kote 】 | 冰狐龍籠手 |
-| 1061 | Tamamo 覇【 Kote 】 | 覇籠手 |
+| 1061 | Tamamo 覇【 Kote 】 | 玉藻籠手 |
 | 1062 | コカロ Arms | 寇伽羅護腕 |
 | 1063 | コカロ Guard | 寇伽羅臂甲 |
 | 1064 | Shieri Arms | 夏伊爾伊護腕 |
@@ -270,11 +270,11 @@
 | 1264 | Pharan F Arms・Blue | 法藍護腕【Ｆ】・青 |
 | 1265 | Pharan Guard・Blue | 法藍臂甲・青 |
 | 1266 | Pharan F Guard・Blue | 法藍臂甲【Ｆ】・青 |
-| 1267 | Gold Cat F Arms | 猫護腕【Ｆ】・金 |
-| 1268 | Gold Cat F Guard | 猫臂甲【Ｆ】・金 |
-| 1269 | Silver Cat Arms | 猫護腕・銀 |
-| 1270 | Silver Cat F Arms | 猫護腕【Ｆ】・銀 |
-| 1271 | Silver Cat F Guard | 猫臂甲【Ｆ】・銀 |
+| 1267 | Gold Cat F Arms | 金猫護腕【Ｆ】 |
+| 1268 | Gold Cat F Guard | 金猫臂甲【Ｆ】 |
+| 1269 | Silver Cat Arms | 銀猫護腕 |
+| 1270 | Silver Cat F Arms | 銀猫護腕【Ｆ】 |
+| 1271 | Silver Cat F Guard | 銀猫臂甲【Ｆ】 |
 | 1272 | ヴィン Arms | 温護腕 |
 | 1273 | ヴィンF Arms | 温護腕【Ｆ】 |
 | 1274 | ヴァンデ Arms | 芙恩德護腕 |
@@ -466,8 +466,8 @@
 | 1460 | ダミー | (dummy) |
 | 1461 | ダミー | (dummy) |
 | 1462 | White Fatalis Rクロウ | 白黑龍爪【Ｒ】 |
-| 1463 | G・Lune R Guard | 月臂甲【Ｇ】【Ｒ】 |
-| 1464 | S・Sol R Guard | 日臂甲【Ｓ】【Ｒ】 |
+| 1463 | G・Lune R Guard | 月臂甲【Ｒ】 |
+| 1464 | S・Sol R Guard | S索倫臂甲【Ｒ】 |
 | 1465 | Death Stench L Grasp | 死臭抓握【Ｌ】 |
 | 1466 | Leather L Arms | 皮革護腕【Ｌ】 |
 | 1467 | Chainmail L Arms | 鎖鏈護腕【Ｌ】 |

@@ -115,14 +115,14 @@
 | 11109 | Akahara Reisou GN Chest D Blue | 阿克阿赫胸甲・青 |
 | 11110 | Akahara Reisou GN Chest D Black | 阿克阿赫胸甲・黑 |
 | 11111 | Akahara Reisou GN Chest D White | 阿克阿赫胸甲・白 |
-| 11112 | Knight King Chest BM D Blue | 克伊格伊胸甲・青 |
-| 11113 | Knight King Chest BM D Red | 克伊格伊胸甲・赤 |
-| 11114 | Knight King Chest BM D Black | 克伊格伊胸甲・黑 |
-| 11115 | Knight King Chest BM D White | 克伊格伊胸甲・白 |
-| 11116 | Hero King Chest BM D Gold | 赫艾爾歐胸甲・金 |
-| 11117 | Hero King Chest BM D Black | 赫艾爾歐胸甲・黑 |
-| 11118 | Hero King Chest BM D White | 赫艾爾歐胸甲・白 |
-| 11119 | Hero King Chest BM D Red | 赫艾爾歐胸甲・赤 |
+| 11112 | Knight King Chest BM D Blue | 騎士王胸甲・青 |
+| 11113 | Knight King Chest BM D Red | 騎士王胸甲・赤 |
+| 11114 | Knight King Chest BM D Black | 騎士王胸甲・黑 |
+| 11115 | Knight King Chest BM D White | 騎士王胸甲・白 |
+| 11116 | Hero King Chest BM D Gold | 英雄王胸甲・金 |
+| 11117 | Hero King Chest BM D Black | 英雄王胸甲・黑 |
+| 11118 | Hero King Chest BM D White | 英雄王胸甲・白 |
+| 11119 | Hero King Chest BM D Red | 英雄王胸甲・赤 |
 | 11120 | Gorgon D Vest・Black | 格歐爾歐背心・黑 |
 | 11121 | Gorgon D Vest・Blue | 格歐爾歐背心・青 |
 | 11122 | Gorgon D Vest・White | 格歐爾歐背心・白 |
@@ -197,13 +197,13 @@
 | 11191 | Twin Star GS Suit | 雙星套裝【ＧＳ】 |
 | 11192 | Twin Star GP Suit | 雙星套裝【ＧＰ】 |
 | 11193 | Twin Star ZP Suit | 雙星套裝【ＺＰ】 |
-| 11194 | Heaven Blade Suit | 天刃套裝・天 |
-| 11195 | Heaven Blade F Suit | 天刃套裝【Ｆ】・天 |
-| 11196 | Heaven Blade FZ Suit | 天刃套裝【ＦＺ】・天 |
-| 11197 | Heaven Blade HS Suit | 天刃套裝【ＨＳ】・天 |
-| 11198 | Heaven Blade GS Suit | 天刃套裝【ＧＳ】・天 |
-| 11199 | Heaven Blade GP Suit | 天刃套裝【ＧＰ】・天 |
-| 11200 | Heaven Blade ZP Suit | 天刃套裝【ＺＰ】・天 |
+| 11194 | Heaven Blade Suit | 天刃套裝 |
+| 11195 | Heaven Blade F Suit | 天刃套裝【Ｆ】 |
+| 11196 | Heaven Blade FZ Suit | 天刃套裝【ＦＺ】 |
+| 11197 | Heaven Blade HS Suit | 天刃套裝【ＨＳ】 |
+| 11198 | Heaven Blade GS Suit | 天刃套裝【ＧＳ】 |
+| 11199 | Heaven Blade GP Suit | 天刃套裝【ＧＰ】 |
+| 11200 | Heaven Blade ZP Suit | 天刃套裝【ＺＰ】 |
 | 11201 | Spring Sword Suit | 斯伊恩歐套裝 |
 | 11202 | Spring Sword F Suit | 斯伊恩歐套裝【Ｆ】 |
 | 11203 | Spring Sword FZ Suit | 斯伊恩歐套裝【ＦＺ】 |
@@ -239,13 +239,13 @@
 | 11233 | Scream Lance GS Suit | 斯艾姆阿套裝【ＧＳ】 |
 | 11234 | Scream Lance GP Suit | 斯艾姆阿套裝【ＧＰ】 |
 | 11235 | Scream Lance ZP Suit | 斯艾姆阿套裝【ＺＰ】 |
-| 11236 | Piercing Light Suit | 普伊爾伊套裝 |
-| 11237 | Piercing Light F Suit | 普伊爾伊套裝【Ｆ】 |
-| 11238 | Piercing Light FZ Suit | 普伊爾伊套裝【ＦＺ】 |
-| 11239 | Piercing Light HS Suit | 普伊爾伊套裝【ＨＳ】 |
-| 11240 | Piercing Light GS Suit | 普伊爾伊套裝【ＧＳ】 |
-| 11241 | Piercing Light GP Suit | 普伊爾伊套裝【ＧＰ】 |
-| 11242 | Piercing Light ZP Suit | 普伊爾伊套裝【ＺＰ】 |
+| 11236 | Piercing Light Suit | 貫光套裝 |
+| 11237 | Piercing Light F Suit | 貫光套裝【Ｆ】 |
+| 11238 | Piercing Light FZ Suit | 貫光套裝【ＦＺ】 |
+| 11239 | Piercing Light HS Suit | 貫光套裝【ＨＳ】 |
+| 11240 | Piercing Light GS Suit | 貫光套裝【ＧＳ】 |
+| 11241 | Piercing Light GP Suit | 貫光套裝【ＧＰ】 |
+| 11242 | Piercing Light ZP Suit | 貫光套裝【ＺＰ】 |
 | 11243 | Colour Axe Suit | 克歐爾歐套裝 |
 | 11244 | Colour Axe F Suit | 克歐爾歐套裝【Ｆ】 |
 | 11245 | Colour Axe FZ Suit | 克歐爾歐套裝【ＦＺ】 |
@@ -267,13 +267,13 @@
 | 11261 | Crush Gun GS Vest | 克烏夏烏背心【ＧＳ】 |
 | 11262 | Crush Gun GP Vest | 克烏夏烏背心【ＧＰ】 |
 | 11263 | Crush Gun ZP Vest | 克烏夏烏背心【ＺＰ】 |
-| 11264 | Bow Saint Vest | 布歐沃阿背心 |
-| 11265 | Bow Saint F Vest | 布歐沃阿背心【Ｆ】 |
-| 11266 | Bow Saint FZ Vest | 布歐沃阿背心【ＦＺ】 |
-| 11267 | Bow Saint HS Vest | 布歐沃阿背心【ＨＳ】 |
-| 11268 | Bow Saint GS Vest | 布歐沃阿背心【ＧＳ】 |
-| 11269 | Bow Saint GP Vest | 布歐沃阿背心【ＧＰ】 |
-| 11270 | Bow Saint ZP Vest | 布歐沃阿背心【ＺＰ】 |
+| 11264 | Bow Saint Vest | 斯阿恩背心 |
+| 11265 | Bow Saint F Vest | 斯阿恩背心【Ｆ】 |
+| 11266 | Bow Saint FZ Vest | 斯阿恩背心【ＦＺ】 |
+| 11267 | Bow Saint HS Vest | 斯阿恩背心【ＨＳ】 |
+| 11268 | Bow Saint GS Vest | 斯阿恩背心【ＧＳ】 |
+| 11269 | Bow Saint GP Vest | 斯阿恩背心【ＧＰ】 |
+| 11270 | Bow Saint ZP Vest | 斯阿恩背心【ＺＰ】 |
 | 11271 | Rantana Suit | 蘭塔納套裝 |
 | 11272 | Rantana F Suit | 蘭塔納套裝【Ｆ】 |
 | 11273 | Rantana FZ Suit | 蘭塔納套裝【ＦＺ】 |

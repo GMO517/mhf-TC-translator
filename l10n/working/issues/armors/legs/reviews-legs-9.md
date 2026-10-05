@@ -131,12 +131,12 @@
 | 4125 | Galitos HC Boots・Black | 加里托斯靴【ＨＣ】・黑 |
 | 4126 | Galitos HS Boots・Black | 加里托斯靴【ＨＳ】・黑 |
 | 4127 | Galitos GS Boots・Black | 加里托斯靴【ＧＳ】・黑 |
-| 4128 | Galitos HC Feet・Water | 加里托斯水足【ＨＣ】 |
-| 4129 | Galitos HS Feet・Water | 加里托斯水足【ＨＳ】 |
-| 4130 | Galitos GS Feet・Water | 加里托斯水足【ＧＳ】 |
-| 4131 | Galitos HC Boots・Water | 加里托斯水靴【ＨＣ】 |
-| 4132 | Galitos HS Boots・Water | 加里托斯水靴【ＨＳ】 |
-| 4133 | Galitos GS Boots・Water | 加里托斯水靴【ＧＳ】 |
+| 4128 | Galitos HC Feet・Water | 加里托斯足【ＨＣ】・水 |
+| 4129 | Galitos HS Feet・Water | 加里托斯足【ＨＳ】・水 |
+| 4130 | Galitos GS Feet・Water | 加里托斯足【ＧＳ】・水 |
+| 4131 | Galitos HC Boots・Water | 加里托斯靴【ＨＣ】・水 |
+| 4132 | Galitos HS Boots・Water | 加里托斯靴【ＨＳ】・水 |
+| 4133 | Galitos GS Boots・Water | 加里托斯靴【ＧＳ】・水 |
 | 4134 | Star Festival FZ Tabi 【 Blue 】 | 星祭足袋【ＦＺ】・青 |
 | 4135 | Star Festival HC Tabi 【 Blue 】 | 星祭足袋【ＨＣ】・青 |
 | 4136 | Star Festival HS Tabi 【 Blue 】 | 星祭足袋【ＨＳ】・青 |
@@ -225,12 +225,12 @@
 | 4219 | Beru G Leggings | 舞雷龍裹腿【Ｇ】 |
 | 4220 | Beru GF Leggings | 舞雷龍裹腿【ＧＦ】 |
 | 4221 | Beru GX Leggings | 舞雷龍裹腿【ＧＸ】 |
-| 4222 | Black Gravios G Greaves | 鎧龍護腿【Ｇ】・黑 |
-| 4223 | Black Gravios GF Greaves | 鎧龍護腿【ＧＦ】・黑 |
-| 4224 | Black Gravios GX Greaves | 鎧龍護腿【ＧＸ】・黑 |
-| 4225 | Black Gravios G Leggings | 鎧龍裹腿【Ｇ】・黑 |
-| 4226 | Black Gravios GF Leggings | 鎧龍裹腿【ＧＦ】・黑 |
-| 4227 | Black Gravios GX Leggings | 鎧龍裹腿【ＧＸ】・黑 |
+| 4222 | Black Gravios G Greaves | 黑鎧龍護腿【Ｇ】 |
+| 4223 | Black Gravios GF Greaves | 黑鎧龍護腿【ＧＦ】 |
+| 4224 | Black Gravios GX Greaves | 黑鎧龍護腿【ＧＸ】 |
+| 4225 | Black Gravios G Leggings | 黑鎧龍裹腿【Ｇ】 |
+| 4226 | Black Gravios GF Leggings | 黑鎧龍裹腿【ＧＦ】 |
+| 4227 | Black Gravios GX Leggings | 黑鎧龍裹腿【ＧＸ】 |
 | 4228 | Lune G Greaves | 月護腿【Ｇ】 |
 | 4229 | Lune GF Greaves | 月護腿【ＧＦ】 |
 | 4230 | Lune GX Greaves | 月護腿【ＧＸ】 |
@@ -407,18 +407,18 @@
 | 4401 | Genom HS Boots・Green | 基因組靴【ＨＳ】・緑 |
 | 4402 | Genom GS Boots・Green | 基因組靴【ＧＳ】・緑 |
 | 4403 | Genom GP Boots・Green | 基因組靴【ＧＰ】・緑 |
-| 4404 | Genom Leg・Water | 基因組水腿 |
-| 4405 | Genom F Leg・Water | 基因組水腿【Ｆ】 |
-| 4406 | Genom FZ Leg・Water | 基因組水腿【ＦＺ】 |
-| 4407 | Genom HS Leg・Water | 基因組水腿【ＨＳ】 |
-| 4408 | Genom GS Leg・Water | 基因組水腿【ＧＳ】 |
-| 4409 | Genom GP Leg・Water | 基因組水腿【ＧＰ】 |
-| 4410 | Genom Boots・Water | 基因組水靴 |
-| 4411 | Genom F Boots・Water | 基因組水靴【Ｆ】 |
-| 4412 | Genom FZ Boots・Water | 基因組水靴【ＦＺ】 |
-| 4413 | Genom HS Boots・Water | 基因組水靴【ＨＳ】 |
-| 4414 | Genom GS Boots・Water | 基因組水靴【ＧＳ】 |
-| 4415 | Genom GP Boots・Water | 基因組水靴【ＧＰ】 |
+| 4404 | Genom Leg・Water | 基因組腿・水 |
+| 4405 | Genom F Leg・Water | 基因組腿【Ｆ】・水 |
+| 4406 | Genom FZ Leg・Water | 基因組腿【ＦＺ】・水 |
+| 4407 | Genom HS Leg・Water | 基因組腿【ＨＳ】・水 |
+| 4408 | Genom GS Leg・Water | 基因組腿【ＧＳ】・水 |
+| 4409 | Genom GP Leg・Water | 基因組腿【ＧＰ】・水 |
+| 4410 | Genom Boots・Water | 基因組靴・水 |
+| 4411 | Genom F Boots・Water | 基因組靴【Ｆ】・水 |
+| 4412 | Genom FZ Boots・Water | 基因組靴【ＦＺ】・水 |
+| 4413 | Genom HS Boots・Water | 基因組靴【ＨＳ】・水 |
+| 4414 | Genom GS Boots・Water | 基因組靴【ＧＳ】・水 |
+| 4415 | Genom GP Boots・Water | 基因組靴【ＧＰ】・水 |
 | 4416 | Genom Leg・Red | 基因組腿・赤 |
 | 4417 | Genom F Leg・Red | 基因組腿【Ｆ】・赤 |
 | 4418 | Genom FZ Leg・Red | 基因組腿【ＦＺ】・赤 |

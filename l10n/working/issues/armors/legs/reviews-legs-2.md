@@ -14,15 +14,15 @@
 | 507 | Faust Boots・Green | 芙阿斯靴・緑 |
 | 508 | Faust Boots・White | 芙阿斯靴・白 |
 | 509 | Faust Boots・Blue | 芙阿斯靴・青 |
-| 510 | Kushala ペイル SP Red | 鋼龍護腿【ＳＰ】 |
-| 511 | Kushala ペイル SP Yellow | 鋼龍護腿【ＳＰ】 |
-| 512 | Kushala ペイル SP Green | 鋼龍護腿【ＳＰ】 |
-| 513 | Kushala ハディ SP Red | 鋼龍護腿【ＳＰ】 |
-| 514 | Kushala ハディ SP Yellow | 鋼龍護腿【ＳＰ】 |
-| 515 | Kushala ハディ SP Green | 鋼龍護腿【ＳＰ】 |
-| 516 | Kirin レガース SP Red | 麒麟護腿【ＳＰ】 |
-| 517 | Kirin レガース SP Purple | 麒麟護腿【ＳＰ】 |
-| 518 | Kirin レガース SP Black | 麒麟護腿【ＳＰ】 |
+| 510 | Kushala ペイル SP Red | 鋼龍護腿【ＳＰ】・赤 |
+| 511 | Kushala ペイル SP Yellow | 鋼龍護腿【ＳＰ】・黄 |
+| 512 | Kushala ペイル SP Green | 鋼龍護腿【ＳＰ】・緑 |
+| 513 | Kushala ハディ SP Red | 鋼龍護腿【ＳＰ】・赤 |
+| 514 | Kushala ハディ SP Yellow | 鋼龍護腿【ＳＰ】・黄 |
+| 515 | Kushala ハディ SP Green | 鋼龍護腿【ＳＰ】・緑 |
+| 516 | Kirin レガース SP Red | 麒麟護腿【ＳＰ】・赤 |
+| 517 | Kirin レガース SP Purple | 麒麟護腿【ＳＰ】・紫 |
+| 518 | Kirin レガース SP Black | 麒麟護腿【ＳＰ】・黑 |
 | 519 | Kirin Boots SP Red | 麒麟靴【ＳＰ】・赤 |
 | 520 | Kirin Boots SP Purple | 麒麟靴【ＳＰ】・紫 |
 | 521 | Kirin Boots SP Black | 麒麟靴【ＳＰ】・黑 |
@@ -108,8 +108,8 @@
 | 601 | Priere Boots | 普伊爾艾靴 |
 | 602 | Salvacion Boots | 斯阿爾阿靴 |
 | 603 | Shikari Greaves | 夏伊克阿護腿 |
-| 604 | Shikari Greaves・魁 | 魁護腿 |
-| 605 | G・Guard R Boots Green | 防禦靴【Ｇ】【Ｒ】・緑 |
+| 604 | Shikari Greaves・魁 | 夏伊克阿護腿魁 |
+| 605 | G・Guard R Boots Green | 防禦靴【Ｒ】・緑 |
 | 606 | Arma Feet・Black | 武裝足・黑 |
 | 607 | Arma Boots・Black | 武裝靴・黑 |
 | 608 | Arma Feet・White | 武裝足・白 |
@@ -145,7 +145,7 @@
 | 638 | Khezu R Greaves | 奇怪龍護腿【Ｒ】 |
 | 639 | Rath Soul R Greaves | 火龍魂護腿【Ｒ】 |
 | 640 | Gia R Greaves | 格伊護腿【Ｒ】 |
-| 641 | G・Guard R Boots Green | 防禦靴【Ｇ】【Ｒ】・緑 |
+| 641 | G・Guard R Boots Green | 防禦靴【Ｒ】・緑 |
 | 642 | Khezu L Leggings | 奇怪龍裹腿【Ｌ】 |
 | 643 | Io R Leggings | 伊歐裹腿【Ｒ】 |
 | 644 | Comrade Boots SP Yellow | 戰友靴【ＳＰ】・黄 |
@@ -173,7 +173,7 @@
 | 666 | Hypnolia Boots | 赫歐爾伊靴 |
 | 667 | Feral Leg | 芙艾爾阿腿 |
 | 668 | Feral Boots | 芙艾爾阿靴 |
-| 669 | Demon Lord ノ足枷 | 惡魔護腿 |
+| 669 | Demon Lord ノ足枷 | 魔王護腿 |
 | 670 | Rasta 教官 Foot | 教官護腿 |
 | 671 | 童子ノ足枷 | 童子足枷護腿 |
 | 672 | Dummy | (dummy) |
@@ -216,8 +216,8 @@
 | 709 | Gravios L Greaves | 鎧龍護腿【Ｌ】 |
 | 710 | Vespoid L Greaves | 巨蜂護腿【Ｌ】 |
 | 711 | Basarios R Greaves | 岩龍護腿【Ｒ】 |
-| 712 | G・Guard Rタイツ Green | 防禦護腿【Ｇ】 |
-| 713 | G・Guard Rタイツ Green | 防禦護腿【Ｇ】 |
+| 712 | G・Guard Rタイツ Green | 防禦護腿【Ｇ】・緑 |
+| 713 | G・Guard Rタイツ Green | 防禦護腿【Ｇ】・緑 |
 | 714 | Monodevil R Greaves | 單眼惡魔護腿【Ｒ】 |
 | 715 | Hornetaur R Greaves | 巨甲蟲護腿【Ｒ】 |
 | 716 | Ceanataur R Greaves | 鎌蟹護腿【Ｒ】 |
@@ -310,19 +310,19 @@
 | 803 | Remobra Feet SP White | 翼蛇龍足【ＳＰ】・白 |
 | 804 | Remobra Feet SP Yellow | 翼蛇龍足【ＳＰ】・黄 |
 | 805 | Remobra Feet SP Black | 翼蛇龍足【ＳＰ】・黑 |
-| 806 | G・Knight タイツ SP Red | 騎士護腿【Ｇ】【ＳＰ】 |
-| 807 | G・Knight タイツ SP Blue | 騎士護腿【Ｇ】【ＳＰ】 |
-| 808 | G・Knight タイツ SP Purple | 騎士護腿【Ｇ】【ＳＰ】 |
-| 809 | PVタイツ SP Red | 普護腿【ＳＰ】 |
-| 810 | PVタイツ SP Blue | 普護腿【ＳＰ】 |
-| 811 | PVタイツ SP Purple | 普護腿【ＳＰ】 |
+| 806 | G・Knight タイツ SP Red | 騎士護腿【ＳＰ】・赤 |
+| 807 | G・Knight タイツ SP Blue | 騎士護腿【ＳＰ】・青 |
+| 808 | G・Knight タイツ SP Purple | 騎士護腿【ＳＰ】・紫 |
+| 809 | PVタイツ SP Red | 塔伊茨護腿【ＳＰ】 |
+| 810 | PVタイツ SP Blue | 塔伊茨護腿【ＳＰ】 |
+| 811 | PVタイツ SP Purple | 塔伊茨護腿【ＳＰ】 |
 | 812 | Hermitaur L Greaves | 盾蟹護腿【Ｌ】 |
 | 813 | High Metal L Greaves | 上位金屬護腿【Ｌ】 |
 | 814 | Lavasioth L Greaves | 熔岩龍護腿【Ｌ】 |
 | 815 | Bone L Greaves | 骨製護腿【Ｌ】 |
 | 816 | Hornetaur L Greaves | 巨甲蟲護腿【Ｌ】 |
-| 817 | G・Guard R Boots Crimson | 防禦靴【Ｇ】【Ｒ】・紅 |
-| 818 | G・Guard R Boots Crimson | 防禦靴【Ｇ】【Ｒ】・紅 |
+| 817 | G・Guard R Boots Crimson | 防禦靴【Ｒ】・紅 |
+| 818 | G・Guard R Boots Crimson | 防禦靴【Ｒ】・紅 |
 | 819 | Helper R Socks | 助手襪【Ｒ】 |
 | 820 | Battle R Greaves | 戦護腿【Ｒ】 |
 | 821 | Cepha R Greaves | 砂龍護腿【Ｒ】 |
@@ -334,9 +334,9 @@
 | 827 | Buran Greaves | 布烏爾阿護腿 |
 | 828 | White Belt Greaves | 白帶護腿 |
 | 829 | Kagura 【 Hakama 】 | 神樂袴 |
-| 830 | Kagura・覇【 Hakama 】 | 覇袴 |
+| 830 | Kagura・覇【 Hakama 】 | 神樂袴 |
 | 831 | Kamiza 【 Hakama 】 | 上座袴 |
-| 832 | Kamiza・覇【 Hakama 】 | 覇袴 |
+| 832 | Kamiza・覇【 Hakama 】 | 上座袴 |
 | 833 | アスハルテ Feet | 阿斯哈爾特足 |
 | 834 | アスハルテ Boots | 阿斯哈爾特靴 |
 | 835 | ローク Greaves | 洛可護腿 |
@@ -393,22 +393,22 @@
 | 886 | リエーザF Feet | 里耶薩足【Ｆ】 |
 | 887 | リエーザ Boots | 里耶薩靴 |
 | 888 | リエーザF Boots | 里耶薩靴【Ｆ】 |
-| 889 | Claire Feet・Purple | 克蕾兒足・紫 |
-| 890 | Claire F Feet・Purple | 克蕾兒足【Ｆ】・紫 |
-| 891 | Claire Boots・Purple | 克蕾兒靴・紫 |
-| 892 | Claire F Boots・Purple | 克蕾兒靴【Ｆ】・紫 |
-| 893 | Claire Feet・Water | 克蕾兒水足 |
-| 894 | Claire F Feet・Water | 克蕾兒水足【Ｆ】 |
-| 895 | Claire Boots・Water | 克蕾兒水靴 |
-| 896 | Claire F Boots・Water | 克蕾兒水靴【Ｆ】 |
-| 897 | Claire Feet・Red | 克蕾兒足・赤 |
-| 898 | Claire F Feet・Red | 克蕾兒足【Ｆ】・赤 |
-| 899 | Claire Boots・Red | 克蕾兒靴・赤 |
-| 900 | Claire F Boots・Red | 克蕾兒靴【Ｆ】・赤 |
-| 901 | Claire Feet・Black | 克蕾兒足・黑 |
-| 902 | Claire F Feet・Black | 克蕾兒足【Ｆ】・黑 |
-| 903 | Claire Boots・Black | 克蕾兒靴・黑 |
-| 904 | Claire F Boots・Black | 克蕾兒靴【Ｆ】・黑 |
+| 889 | Claire Feet・Purple | 克蕾爾足・紫 |
+| 890 | Claire F Feet・Purple | 克蕾爾足【Ｆ】・紫 |
+| 891 | Claire Boots・Purple | 克蕾爾靴・紫 |
+| 892 | Claire F Boots・Purple | 克蕾爾靴【Ｆ】・紫 |
+| 893 | Claire Feet・Water | 克蕾爾足・水 |
+| 894 | Claire F Feet・Water | 克蕾爾足【Ｆ】・水 |
+| 895 | Claire Boots・Water | 克蕾爾靴・水 |
+| 896 | Claire F Boots・Water | 克蕾爾靴【Ｆ】・水 |
+| 897 | Claire Feet・Red | 克蕾爾足・赤 |
+| 898 | Claire F Feet・Red | 克蕾爾足【Ｆ】・赤 |
+| 899 | Claire Boots・Red | 克蕾爾靴・赤 |
+| 900 | Claire F Boots・Red | 克蕾爾靴【Ｆ】・赤 |
+| 901 | Claire Feet・Black | 克蕾爾足・黑 |
+| 902 | Claire F Feet・Black | 克蕾爾足【Ｆ】・黑 |
+| 903 | Claire Boots・Black | 克蕾爾靴・黑 |
+| 904 | Claire F Boots・Black | 克蕾爾靴【Ｆ】・黑 |
 | 905 | Desert Feet | 沙漠足 |
 | 906 | Desert F Feet | 沙漠足【Ｆ】 |
 | 907 | Desert Boots | 沙漠靴 |

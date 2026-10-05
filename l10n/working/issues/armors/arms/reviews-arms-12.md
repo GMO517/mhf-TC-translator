@@ -149,20 +149,20 @@
 | 5643 | 翡戸隠G【 Kote 】 | 翡戸隠籠手【Ｇ】 |
 | 5644 | 翡戸隠GF【 Kote 】 | 翡戸隠籠手【Ｆ】 |
 | 5645 | 翡戸隠GX【 Kote 】 | 翡戸隠籠手【ＧＸ】 |
-| 5646 | Blize Arms | 布萊茲護腕 |
-| 5647 | Blize F Arms | 布萊茲護腕【Ｆ】 |
+| 5646 | Blize Arms | 布來茲護腕 |
+| 5647 | Blize F Arms | 布來茲護腕【Ｆ】 |
 | 5648 | Blize FY Arms | 布伊茲艾護腕 |
-| 5649 | Blize HS Arms | 布萊茲護腕【ＨＳ】 |
-| 5650 | Blize G Arms | 布萊茲護腕【Ｇ】 |
-| 5651 | Blize GF Arms | 布萊茲護腕【ＧＦ】 |
-| 5652 | Blize GX Arms | 布萊茲護腕【ＧＸ】 |
-| 5653 | Blize Guard | 布萊茲臂甲 |
-| 5654 | Blize F Guard | 布萊茲臂甲【Ｆ】 |
+| 5649 | Blize HS Arms | 布來茲護腕【ＨＳ】 |
+| 5650 | Blize G Arms | 布來茲護腕【Ｇ】 |
+| 5651 | Blize GF Arms | 布來茲護腕【ＧＦ】 |
+| 5652 | Blize GX Arms | 布來茲護腕【ＧＸ】 |
+| 5653 | Blize Guard | 布來茲臂甲 |
+| 5654 | Blize F Guard | 布來茲臂甲【Ｆ】 |
 | 5655 | Blize FY Guard | 布伊茲艾臂甲 |
-| 5656 | Blize HS Guard | 布萊茲臂甲【ＨＳ】 |
-| 5657 | Blize G Guard | 布萊茲臂甲【Ｇ】 |
-| 5658 | Blize GF Guard | 布萊茲臂甲【ＧＦ】 |
-| 5659 | Blize GX Guard | 布萊茲臂甲【ＧＸ】 |
+| 5656 | Blize HS Guard | 布來茲臂甲【ＨＳ】 |
+| 5657 | Blize G Guard | 布來茲臂甲【Ｇ】 |
+| 5658 | Blize GF Guard | 布來茲臂甲【ＧＦ】 |
+| 5659 | Blize GX Guard | 布來茲臂甲【ＧＸ】 |
 | 5660 | Mixes FY Arms | 姆伊克斯護腕 |
 | 5661 | Mixes HS Arms | 混搭護腕【ＨＳ】 |
 | 5662 | Mixes G Arms | 混搭護腕【Ｇ】 |
@@ -185,18 +185,18 @@
 | 5679 | Zyra HS Guard・Green | 齊拉臂甲【ＨＳ】・緑 |
 | 5680 | Zyra GS Guard・Green | 齊拉臂甲【ＧＳ】・緑 |
 | 5681 | Zyra GP Guard・Green | 齊拉臂甲【ＧＰ】・緑 |
-| 5682 | Zyra Arms・Water | 齊拉水護腕 |
-| 5683 | Zyra F Arms・Water | 齊拉水護腕【Ｆ】 |
-| 5684 | Zyra FZ Arms・Water | 齊拉水護腕【ＦＺ】 |
-| 5685 | Zyra HS Arms・Water | 齊拉水護腕【ＨＳ】 |
-| 5686 | Zyra GS Arms・Water | 齊拉水護腕【ＧＳ】 |
-| 5687 | Zyra GP Arms・Water | 齊拉水護腕【ＧＰ】 |
-| 5688 | Zyra Guard・Water | 齊拉水臂甲 |
-| 5689 | Zyra F Guard・Water | 齊拉水臂甲【Ｆ】 |
-| 5690 | Zyra FZ Guard・Water | 齊拉水臂甲【ＦＺ】 |
-| 5691 | Zyra HS Guard・Water | 齊拉水臂甲【ＨＳ】 |
-| 5692 | Zyra GS Guard・Water | 齊拉水臂甲【ＧＳ】 |
-| 5693 | Zyra GP Guard・Water | 齊拉水臂甲【ＧＰ】 |
+| 5682 | Zyra Arms・Water | 齊拉護腕・水 |
+| 5683 | Zyra F Arms・Water | 齊拉護腕【Ｆ】・水 |
+| 5684 | Zyra FZ Arms・Water | 齊拉護腕【ＦＺ】・水 |
+| 5685 | Zyra HS Arms・Water | 齊拉護腕【ＨＳ】・水 |
+| 5686 | Zyra GS Arms・Water | 齊拉護腕【ＧＳ】・水 |
+| 5687 | Zyra GP Arms・Water | 齊拉護腕【ＧＰ】・水 |
+| 5688 | Zyra Guard・Water | 齊拉臂甲・水 |
+| 5689 | Zyra F Guard・Water | 齊拉臂甲【Ｆ】・水 |
+| 5690 | Zyra FZ Guard・Water | 齊拉臂甲【ＦＺ】・水 |
+| 5691 | Zyra HS Guard・Water | 齊拉臂甲【ＨＳ】・水 |
+| 5692 | Zyra GS Guard・Water | 齊拉臂甲【ＧＳ】・水 |
+| 5693 | Zyra GP Guard・Water | 齊拉臂甲【ＧＰ】・水 |
 | 5694 | Zyra Arms・Red | 齊拉護腕・赤 |
 | 5695 | Zyra F Arms・Red | 齊拉護腕【Ｆ】・赤 |
 | 5696 | Zyra FZ Arms・Red | 齊拉護腕【ＦＺ】・赤 |
@@ -361,54 +361,54 @@
 | 5855 | Ex HS Guard・Black | 艾克斯臂甲【ＨＳ】・黑 |
 | 5856 | Ex GS Guard・Black | 艾克斯臂甲【ＧＳ】・黑 |
 | 5857 | Ex GP Guard・Black | 艾克斯臂甲【ＧＰ】・黑 |
-| 5858 | Gold Cat FZ Arms | 猫護腕【ＦＺ】・金 |
-| 5859 | Gold Cat HS Arms | 猫護腕【ＨＳ】・金 |
-| 5860 | Gold Cat GS Arms | 猫護腕【ＧＳ】・金 |
-| 5861 | Gold Cat GP Arms | 猫護腕【ＧＰ】・金 |
-| 5862 | Gold Cat FZ Guard | 猫臂甲【ＦＺ】・金 |
-| 5863 | Gold Cat HS Guard | 猫臂甲【ＨＳ】・金 |
-| 5864 | Gold Cat GS Guard | 猫臂甲【ＧＳ】・金 |
-| 5865 | Gold Cat GP Guard | 猫臂甲【ＧＰ】・金 |
-| 5866 | Silver Cat FZ Arms | 猫護腕【ＦＺ】・銀 |
-| 5867 | Silver Cat HS Arms | 猫護腕【ＨＳ】・銀 |
-| 5868 | Silver Cat GS Arms | 猫護腕【ＧＳ】・銀 |
-| 5869 | Silver Cat GP Arms | 猫護腕【ＧＰ】・銀 |
-| 5870 | Silver Cat FZ Guard | 猫臂甲【ＦＺ】・銀 |
-| 5871 | Silver Cat HS Guard | 猫臂甲【ＨＳ】・銀 |
-| 5872 | Silver Cat GS Guard | 猫臂甲【ＧＳ】・銀 |
-| 5873 | Silver Cat GP Guard | 猫臂甲【ＧＰ】・銀 |
-| 5874 | Claire FZ Arms・Purple | 克蕾兒護腕【ＦＺ】・紫 |
-| 5875 | Claire HS Arms・Purple | 克蕾兒護腕【ＨＳ】・紫 |
-| 5876 | Claire GS Arms・Purple | 克蕾兒護腕【ＧＳ】・紫 |
-| 5877 | Claire GP Arms・Purple | 克蕾兒護腕【ＧＰ】・紫 |
-| 5878 | Claire FZ Guard・Purple | 克蕾兒臂甲【ＦＺ】・紫 |
-| 5879 | Claire HS Guard・Purple | 克蕾兒臂甲【ＨＳ】・紫 |
-| 5880 | Claire GS Guard・Purple | 克蕾兒臂甲【ＧＳ】・紫 |
-| 5881 | Claire GP Guard・Purple | 克蕾兒臂甲【ＧＰ】・紫 |
-| 5882 | Claire FZ Arms・Water | 克蕾兒水護腕【ＦＺ】 |
-| 5883 | Claire HS Arms・Water | 克蕾兒水護腕【ＨＳ】 |
-| 5884 | Claire GS Arms・Water | 克蕾兒水護腕【ＧＳ】 |
-| 5885 | Claire GP Arms・Water | 克蕾兒水護腕【ＧＰ】 |
-| 5886 | Claire FZ Guard・Water | 克蕾兒水臂甲【ＦＺ】 |
-| 5887 | Claire HS Guard・Water | 克蕾兒水臂甲【ＨＳ】 |
-| 5888 | Claire GS Guard・Water | 克蕾兒水臂甲【ＧＳ】 |
-| 5889 | Claire GP Guard・Water | 克蕾兒水臂甲【ＧＰ】 |
-| 5890 | Claire FZ Arms・Red | 克蕾兒護腕【ＦＺ】・赤 |
-| 5891 | Claire HS Arms・Red | 克蕾兒護腕【ＨＳ】・赤 |
-| 5892 | Claire GS Arms・Red | 克蕾兒護腕【ＧＳ】・赤 |
-| 5893 | Claire GP Arms・Red | 克蕾兒護腕【ＧＰ】・赤 |
-| 5894 | Claire FZ Guard・Red | 克蕾兒臂甲【ＦＺ】・赤 |
-| 5895 | Claire HS Guard・Red | 克蕾兒臂甲【ＨＳ】・赤 |
-| 5896 | Claire GS Guard・Red | 克蕾兒臂甲【ＧＳ】・赤 |
-| 5897 | Claire GP Guard・Red | 克蕾兒臂甲【ＧＰ】・赤 |
-| 5898 | Claire FZ Arms・Black | 克蕾兒護腕【ＦＺ】・黑 |
-| 5899 | Claire HS Arms・Black | 克蕾兒護腕【ＨＳ】・黑 |
-| 5900 | Claire GS Arms・Black | 克蕾兒護腕【ＧＳ】・黑 |
-| 5901 | Claire GP Arms・Black | 克蕾兒護腕【ＧＰ】・黑 |
-| 5902 | Claire FZ Guard・Black | 克蕾兒臂甲【ＦＺ】・黑 |
-| 5903 | Claire HS Guard・Black | 克蕾兒臂甲【ＨＳ】・黑 |
-| 5904 | Claire GS Guard・Black | 克蕾兒臂甲【ＧＳ】・黑 |
-| 5905 | Claire GP Guard・Black | 克蕾兒臂甲【ＧＰ】・黑 |
+| 5858 | Gold Cat FZ Arms | 金猫護腕【ＦＺ】 |
+| 5859 | Gold Cat HS Arms | 金猫護腕【ＨＳ】 |
+| 5860 | Gold Cat GS Arms | 金猫護腕【ＧＳ】 |
+| 5861 | Gold Cat GP Arms | 金猫護腕【ＧＰ】 |
+| 5862 | Gold Cat FZ Guard | 金猫臂甲【ＦＺ】 |
+| 5863 | Gold Cat HS Guard | 金猫臂甲【ＨＳ】 |
+| 5864 | Gold Cat GS Guard | 金猫臂甲【ＧＳ】 |
+| 5865 | Gold Cat GP Guard | 金猫臂甲【ＧＰ】 |
+| 5866 | Silver Cat FZ Arms | 銀猫護腕【ＦＺ】 |
+| 5867 | Silver Cat HS Arms | 銀猫護腕【ＨＳ】 |
+| 5868 | Silver Cat GS Arms | 銀猫護腕【ＧＳ】 |
+| 5869 | Silver Cat GP Arms | 銀猫護腕【ＧＰ】 |
+| 5870 | Silver Cat FZ Guard | 銀猫臂甲【ＦＺ】 |
+| 5871 | Silver Cat HS Guard | 銀猫臂甲【ＨＳ】 |
+| 5872 | Silver Cat GS Guard | 銀猫臂甲【ＧＳ】 |
+| 5873 | Silver Cat GP Guard | 銀猫臂甲【ＧＰ】 |
+| 5874 | Claire FZ Arms・Purple | 克蕾爾護腕【ＦＺ】・紫 |
+| 5875 | Claire HS Arms・Purple | 克蕾爾護腕【ＨＳ】・紫 |
+| 5876 | Claire GS Arms・Purple | 克蕾爾護腕【ＧＳ】・紫 |
+| 5877 | Claire GP Arms・Purple | 克蕾爾護腕【ＧＰ】・紫 |
+| 5878 | Claire FZ Guard・Purple | 克蕾爾臂甲【ＦＺ】・紫 |
+| 5879 | Claire HS Guard・Purple | 克蕾爾臂甲【ＨＳ】・紫 |
+| 5880 | Claire GS Guard・Purple | 克蕾爾臂甲【ＧＳ】・紫 |
+| 5881 | Claire GP Guard・Purple | 克蕾爾臂甲【ＧＰ】・紫 |
+| 5882 | Claire FZ Arms・Water | 克蕾爾護腕【ＦＺ】・水 |
+| 5883 | Claire HS Arms・Water | 克蕾爾護腕【ＨＳ】・水 |
+| 5884 | Claire GS Arms・Water | 克蕾爾護腕【ＧＳ】・水 |
+| 5885 | Claire GP Arms・Water | 克蕾爾護腕【ＧＰ】・水 |
+| 5886 | Claire FZ Guard・Water | 克蕾爾臂甲【ＦＺ】・水 |
+| 5887 | Claire HS Guard・Water | 克蕾爾臂甲【ＨＳ】・水 |
+| 5888 | Claire GS Guard・Water | 克蕾爾臂甲【ＧＳ】・水 |
+| 5889 | Claire GP Guard・Water | 克蕾爾臂甲【ＧＰ】・水 |
+| 5890 | Claire FZ Arms・Red | 克蕾爾護腕【ＦＺ】・赤 |
+| 5891 | Claire HS Arms・Red | 克蕾爾護腕【ＨＳ】・赤 |
+| 5892 | Claire GS Arms・Red | 克蕾爾護腕【ＧＳ】・赤 |
+| 5893 | Claire GP Arms・Red | 克蕾爾護腕【ＧＰ】・赤 |
+| 5894 | Claire FZ Guard・Red | 克蕾爾臂甲【ＦＺ】・赤 |
+| 5895 | Claire HS Guard・Red | 克蕾爾臂甲【ＨＳ】・赤 |
+| 5896 | Claire GS Guard・Red | 克蕾爾臂甲【ＧＳ】・赤 |
+| 5897 | Claire GP Guard・Red | 克蕾爾臂甲【ＧＰ】・赤 |
+| 5898 | Claire FZ Arms・Black | 克蕾爾護腕【ＦＺ】・黑 |
+| 5899 | Claire HS Arms・Black | 克蕾爾護腕【ＨＳ】・黑 |
+| 5900 | Claire GS Arms・Black | 克蕾爾護腕【ＧＳ】・黑 |
+| 5901 | Claire GP Arms・Black | 克蕾爾護腕【ＧＰ】・黑 |
+| 5902 | Claire FZ Guard・Black | 克蕾爾臂甲【ＦＺ】・黑 |
+| 5903 | Claire HS Guard・Black | 克蕾爾臂甲【ＨＳ】・黑 |
+| 5904 | Claire GS Guard・Black | 克蕾爾臂甲【ＧＳ】・黑 |
+| 5905 | Claire GP Guard・Black | 克蕾爾臂甲【ＧＰ】・黑 |
 | 5906 | Text HS Arms・Purple | 文書護腕【ＨＳ】・紫 |
 | 5907 | Text GS Arms・Purple | 文書護腕【ＧＳ】・紫 |
 | 5908 | Text GP Arms・Purple | 文書護腕【ＧＰ】・紫 |

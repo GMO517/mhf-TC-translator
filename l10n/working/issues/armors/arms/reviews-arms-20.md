@@ -313,9 +313,9 @@
 | 9807 | スフレHS Guard | 斯芙雷臂甲【ＨＳ】 |
 | 9808 | スフレGS Guard | 斯芙雷臂甲【ＧＳ】 |
 | 9809 | スフレGP Guard | 斯芙雷臂甲【ＧＰ】 |
-| 9810 | Demon Tale Kote G | 德艾姆歐籠手【Ｇ】 |
-| 9811 | Demon Tale Kote GF | 德艾姆歐籠手【ＧＦ】 |
-| 9812 | Demon Tale Kote GX | 德艾姆歐籠手【ＧＸ】 |
+| 9810 | Demon Tale Kote G | 魔譚籠手【Ｇ】 |
+| 9811 | Demon Tale Kote GF | 魔譚籠手【ＧＦ】 |
+| 9812 | Demon Tale Kote GX | 魔譚籠手【ＧＸ】 |
 | 9813 | 童伝ノ Kote G | 童伝籠手【Ｇ】 |
 | 9814 | 童伝ノ Kote GF | 童伝籠手【ＧＦ】 |
 | 9815 | 童伝ノ Kote GX | 童伝籠手【ＧＸ】 |

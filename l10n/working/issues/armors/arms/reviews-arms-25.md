@@ -21,9 +21,9 @@
 | 12015 | High Metal Arms PD Black | 上位金屬護腕【ＰＤ】・黑 |
 | 12016 | High Metal Arms PD Blue | 上位金屬護腕【ＰＤ】・青 |
 | 12017 | High Metal Arms PD Yellow | 上位金屬護腕【ＰＤ】・黄 |
-| 12018 | S・Sol Arms PD Red | 日護腕【Ｓ】【ＰＤ】・赤 |
-| 12019 | S・Sol Arms PD Purple | 日護腕【Ｓ】【ＰＤ】・紫 |
-| 12020 | S・Sol Arms PD Black | 日護腕【Ｓ】【ＰＤ】・黑 |
+| 12018 | S・Sol Arms PD Red | S索倫護腕【ＰＤ】・赤 |
+| 12019 | S・Sol Arms PD Purple | S索倫護腕【ＰＤ】・紫 |
+| 12020 | S・Sol Arms PD Black | S索倫護腕【ＰＤ】・黑 |
 | 12021 | Garuga Guard PD White | 黑狼鳥臂甲【ＰＤ】・白 |
 | 12022 | Garuga Guard PD Green | 黑狼鳥臂甲【ＰＤ】・緑 |
 | 12023 | Garuga Guard PD Red | 黑狼鳥臂甲【ＰＤ】・赤 |
@@ -222,7 +222,7 @@
 | 12216 | Byakko・双龍D Arms | 双龍護腕 |
 | 12217 | Byakko・剣王D Arms | 剣王護腕 |
 | 12218 | Byakko・刀神D Arms | 刀神護腕 |
-| 12219 | Byakko・Heaven 槍D Arms | 槍護腕・天 |
+| 12219 | Byakko・Heaven 槍D Arms | 槍天護腕 |
 | 12220 | Byakko・砲皇D Arms | 砲皇護腕 |
 | 12221 | Byakko・鈍器獣D Arms | 鈍器獣護腕 |
 | 12222 | Byakko・奏帝D Arms | 奏帝護腕 |
@@ -230,7 +230,7 @@
 | 12224 | Byakko・斬将D Arms | 斬将護腕 |
 | 12225 | Byakko・銃傑D Guard | 銃傑臂甲 |
 | 12226 | Byakko・銃仙D Guard | 銃仙臂甲 |
-| 12227 | Byakko・Bow 鬼D Guard | 鬼臂甲 |
+| 12227 | Byakko・Bow 鬼D Guard | 白虎臂甲 |
 | 12228 | Kirin Arms PD Red | 麒麟護腕【ＰＤ】・赤 |
 | 12229 | Kirin Arms PD Purple | 麒麟護腕【ＰＤ】・紫 |
 | 12230 | Kirin Arms PD Black | 麒麟護腕【ＰＤ】・黑 |
@@ -267,7 +267,7 @@
 | 12261 | Suzaku・双龍D Arms | 双龍護腕 |
 | 12262 | Suzaku・剣王D Arms | 剣王護腕 |
 | 12263 | Suzaku・刀神D Arms | 刀神護腕 |
-| 12264 | Suzaku・Heaven 槍D Arms | 槍護腕・天 |
+| 12264 | Suzaku・Heaven 槍D Arms | 槍天護腕 |
 | 12265 | Suzaku・砲皇D Arms | 砲皇護腕 |
 | 12266 | Suzaku・鈍器獣D Arms | 鈍器獣護腕 |
 | 12267 | Suzaku・奏帝D Arms | 奏帝護腕 |
@@ -275,10 +275,10 @@
 | 12269 | Suzaku・斬将D Arms | 斬将護腕 |
 | 12270 | Suzaku・銃傑D Guard | 銃傑臂甲 |
 | 12271 | Suzaku・銃仙D Guard | 銃仙臂甲 |
-| 12272 | Suzaku・Bow 鬼D Guard | 鬼臂甲 |
-| 12273 | G・Knight Cuffs PD Red | 騎士護腕【Ｇ】【ＰＤ】・赤 |
-| 12274 | G・Knight Cuffs PD Blue | 騎士護腕【Ｇ】【ＰＤ】・青 |
-| 12275 | G・Knight Cuffs PD Purple | 騎士護腕【Ｇ】【ＰＤ】・紫 |
+| 12272 | Suzaku・Bow 鬼D Guard | 朱雀臂甲 |
+| 12273 | G・Knight Cuffs PD Red | 騎士護腕【ＰＤ】・赤 |
+| 12274 | G・Knight Cuffs PD Blue | 騎士護腕【ＰＤ】・青 |
+| 12275 | G・Knight Cuffs PD Purple | 騎士護腕【ＰＤ】・紫 |
 | 12276 | PV Cuffs PD Red | 普護腕【ＰＤ】・赤 |
 | 12277 | PV Cuffs PD Blue | 普護腕【ＰＤ】・青 |
 | 12278 | PV Cuffs PD Purple | 普護腕【ＰＤ】・紫 |
@@ -291,9 +291,9 @@
 | 12285 | Vespoid Arms PD Yellow | 巨蜂護腕【ＰＤ】・黄 |
 | 12286 | Vespoid Arms PD Black | 巨蜂護腕【ＰＤ】・黑 |
 | 12287 | Vespoid Arms PD Blue | 巨蜂護腕【ＰＤ】・青 |
-| 12288 | Death Stench アルム PD White | 阿魯穆護腕【ＰＤ】 |
-| 12289 | Death Stench アルム PD Red | 阿魯穆護腕【ＰＤ】 |
-| 12290 | Death Stench アルム PD Blue | 阿魯穆護腕【ＰＤ】 |
+| 12288 | Death Stench アルム PD White | 死臭護腕【ＰＤ】・白 |
+| 12289 | Death Stench アルム PD Red | 死臭護腕【ＰＤ】・赤 |
+| 12290 | Death Stench アルム PD Blue | 死臭護腕【ＰＤ】・青 |
 | 12291 | Diablos Arms PD Purple | 角龍護腕【ＰＤ】・紫 |
 | 12292 | Diablos Arms PD Blue | 角龍護腕【ＰＤ】・青 |
 | 12293 | Diablos Arms PD Yellow | 角龍護腕【ＰＤ】・黄 |

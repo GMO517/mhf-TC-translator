@@ -124,8 +124,8 @@
 | 117 | ミラ Vulcan Legs | 火神腿甲 |
 | 118 | ゴールド Lune Greaves | 月護腿 |
 | 119 | ゴールド Lune Leggings | 月裹腿 |
-| 120 | Silver Sol Greaves | 日護腿・銀 |
-| 121 | Silver Sol Leggings | 日裹腿・銀 |
+| 120 | Silver Sol Greaves | 銀日護腿 |
+| 121 | Silver Sol Leggings | 銀日裹腿 |
 | 122 | Green S Jersey | 運動袴【Ｓ】・緑 |
 | 123 | Blue S Jersey | 運動袴【Ｓ】・青 |
 | 124 | Hunter's S Greaves | 獵人護腿【Ｓ】 |
@@ -168,16 +168,16 @@
 | 161 | Monoblos S Leggings | 一角龍裹腿【Ｓ】 |
 | 162 | Gravios S Greaves | 鎧龍護腿【Ｓ】 |
 | 163 | Gravios S Leggings | 鎧龍裹腿【Ｓ】 |
-| 164 | 忍の Tabi・Heaven | 忍の足袋・天 |
-| 165 | 忍の Tabi・Earth | 忍の足袋・地 |
+| 164 | 忍の Tabi・Heaven | 忍の天足袋 |
+| 165 | 忍の Tabi・Earth | 忍の地足袋 |
 | 166 | Guild Guard Boots Crimson | 公會守衛靴・紅 |
-| 167 | Guild Guard タイツ Crimson | 獵團護腿 |
+| 167 | Guild Guard タイツ Crimson | 公會守衛護腿・紅 |
 | 168 | Guild Guard Boots Crimson | 公會守衛靴・紅 |
-| 169 | Guild Guard タイツ Crimson | 獵團護腿 |
-| 170 | 暁丸・覇【具足】 | 暁丸覇具足 |
-| 171 | 曙丸・覇【具足】 | 曙丸覇具足 |
-| 172 | 凛・覇【 Hakama 】 | 凛覇袴 |
-| 173 | 艶・覇【 Hakama 】 | 艶覇袴 |
+| 169 | Guild Guard タイツ Crimson | 公會守衛護腿・紅 |
+| 170 | 暁丸・覇【具足】 | 暁丸具足 |
+| 171 | 曙丸・覇【具足】 | 曙丸具足 |
+| 172 | 凛・覇【 Hakama 】 | 凛袴 |
+| 173 | 艶・覇【 Hakama 】 | 艶袴 |
 | 174 | Dragon S Feet | 龍足【Ｓ】 |
 | 175 | Dragon S Legs | 龍腿甲【Ｓ】 |
 | 176 | Hermitaur Greaves | 盾蟹護腿 |
@@ -214,27 +214,27 @@
 | 207 | Toyotama 【具足】 | 豐玉具足 |
 | 208 | Empress Greaves | 女帝護腿 |
 | 209 | Empress Leggings | 女帝裹腿 |
-| 210 | Gold 剛【具足】 | 剛具足・金 |
+| 210 | Gold 剛【具足】 | 金具足剛 |
 | 211 | 不動【具足】 | 不動具足 |
 | 212 | Kaiser Greaves | 帝王護腿 |
 | 213 | Kaiser Leggings | 帝王裹腿 |
 | 214 | 夜叉【御足】 | 夜叉御足 |
 | 215 | 修羅【御足】 | 修羅御足 |
 | 216 | Golden Hakama | 金袴 |
-| 217 | Puppeteer ノ Tabi | 足袋 |
+| 217 | Puppeteer ノ Tabi | 操偶足袋 |
 | 218 | White Fatalis Feet | 白黑龍足 |
 | 219 | White Fatalis Leggings | 白黑龍裹腿 |
 | 220 | Black Belt S Greaves | 黑帶護腿【Ｓ】 |
 | 221 | Gia ーツ Feet | 格伊足 |
 | 222 | Remobra ーツ Feet | 翼蛇龍足 |
 | 223 | Guild Knight Boots | 公會騎士靴 |
-| 224 | Guild Knight タイツ | 獵團護腿 |
+| 224 | Guild Knight タイツ | 公會騎士護腿 |
 | 225 | Maid ストッキング | 女僕護腿 |
 | 226 | Private タイツ | 士兵護腿 |
 | 227 | Guild Guard Boots Green | 公會守衛靴・緑 |
-| 228 | Guild Guard タイツ Green | 獵團護腿 |
+| 228 | Guild Guard タイツ Green | 公會守衛護腿・緑 |
 | 229 | Guild Guard Boots Green | 公會守衛靴・緑 |
-| 230 | Guild Guard タイツ Green | 獵團護腿 |
+| 230 | Guild Guard タイツ Green | 公會守衛護腿・緑 |
 | 231 | K・ロブスタ Greaves | 羅布斯塔護腿 |
 | 232 | K・ロブスタ Leggings | 羅布斯塔裹腿 |
 | 233 | F Boots 00 | 靴【Ｆ】 |
@@ -256,11 +256,11 @@
 | 249 | Gia U Leggings | 格伊裹腿【Ｕ】 |
 | 250 | White Cat Boots | 白猫靴 |
 | 251 | Black Cat Boots | 黑猫靴 |
-| 252 | Gold Cat Boots | 猫靴・金 |
+| 252 | Gold Cat Boots | 金猫靴 |
 | 253 | Gothic Greaves | 哥德護腿 |
 | 254 | Gothic F Greaves | 哥德護腿【Ｆ】 |
 | 255 | Beil Divider | 貝爾分割護腿 |
-| 256 | Comrade Boots 【猩】 | 戰友猩靴 |
+| 256 | Comrade Boots 【猩】 | 戰友靴猩 |
 | 257 | Jisutoreru Leg | 吉斯特雷腿 |
 | 258 | Duo Greaves | 雙護腿 |
 | 259 | Smart Leg | 機靈腿 |
@@ -307,32 +307,32 @@
 | 300 | Kushala Fハディ | 鋼龍護腿 |
 | 301 | Kaiser F Greaves | 帝王護腿【Ｆ】 |
 | 302 | Kaiser F Leggings | 帝王裹腿【Ｆ】 |
-| 303 | Mizuha 魁【具足】 | 魁具足 |
-| 304 | Toyotama 魁【具足】 | 魁具足 |
-| 305 | Gold 剛・魁【具足】 | 剛魁具足・金 |
-| 306 | 不動・魁【具足】 | 不動魁具足 |
-| 307 | 夜叉・魁【御足】 | 夜叉魁御足 |
-| 308 | 修羅・魁【御足】 | 修羅魁御足 |
+| 303 | Mizuha 魁【具足】 | 水羽具足魁 |
+| 304 | Toyotama 魁【具足】 | 豐玉具足魁 |
+| 305 | Gold 剛・魁【具足】 | 金具足魁剛 |
+| 306 | 不動・魁【具足】 | 不動具足魁 |
+| 307 | 夜叉・魁【御足】 | 夜叉御足魁 |
+| 308 | 修羅・魁【御足】 | 修羅御足魁 |
 | 309 | Empress F Greaves | 女帝護腿【Ｆ】 |
 | 310 | Empress F Leggings | 女帝裹腿【Ｆ】 |
-| 311 | Golden Hakama・魁 | 魁袴 |
-| 312 | Puppeteer ノ Tabi・魁 | 魁足袋 |
+| 311 | Golden Hakama・魁 | 金袴魁 |
+| 312 | Puppeteer ノ Tabi・魁 | 操偶足袋魁 |
 | 313 | Garuga F Greaves | 黑狼鳥護腿【Ｆ】 |
 | 314 | Garuga F Leggings | 黑狼鳥裹腿【Ｆ】 |
 | 315 | Kushala Fペイル | 鋼龍護腿 |
 | 316 | Kushala Fハディ | 鋼龍護腿 |
 | 317 | Kaiser F Greaves | 帝王護腿【Ｆ】 |
 | 318 | Kaiser F Leggings | 帝王裹腿【Ｆ】 |
-| 319 | Mizuha 魁【具足】 | 魁具足 |
-| 320 | Toyotama 魁【具足】 | 魁具足 |
-| 321 | Gold 剛・魁【具足】 | 剛魁具足・金 |
-| 322 | 不動・魁【具足】 | 不動魁具足 |
-| 323 | 夜叉・魁【御足】 | 夜叉魁御足 |
-| 324 | 修羅・魁【御足】 | 修羅魁御足 |
+| 319 | Mizuha 魁【具足】 | 水羽具足魁 |
+| 320 | Toyotama 魁【具足】 | 豐玉具足魁 |
+| 321 | Gold 剛・魁【具足】 | 金具足魁剛 |
+| 322 | 不動・魁【具足】 | 不動具足魁 |
+| 323 | 夜叉・魁【御足】 | 夜叉御足魁 |
+| 324 | 修羅・魁【御足】 | 修羅御足魁 |
 | 325 | Empress F Greaves | 女帝護腿【Ｆ】 |
 | 326 | Empress F Leggings | 女帝裹腿【Ｆ】 |
-| 327 | Golden Hakama・魁 | 魁袴 |
-| 328 | Puppeteer ノ Tabi・魁 | 魁足袋 |
+| 327 | Golden Hakama・魁 | 金袴魁 |
+| 328 | Puppeteer ノ Tabi・魁 | 操偶足袋魁 |
 | 329 | Garuga F Greaves | 黑狼鳥護腿【Ｆ】 |
 | 330 | Garuga F Leggings | 黑狼鳥裹腿【Ｆ】 |
 | 331 | Lavasioth U Greaves | 熔岩龍護腿【Ｕ】 |
@@ -340,10 +340,10 @@
 | 333 | White Metal Boots | 白金屬靴 |
 | 334 | Celeste Greaves | 天空護腿 |
 | 335 | Ciel Divider | 克伊爾伊護腿 |
-| 336 | Comrada Boots 【 Red 】 | 克歐姆阿靴・赤 |
-| 337 | Comrada Boots 【 Blue 】 | 克歐姆阿靴・青 |
-| 338 | Comrada Boots 【 Green 】 | 克歐姆阿靴・緑 |
-| 339 | Comrada Boots 【 Orange 】 | 克歐姆阿靴・橙 |
+| 336 | Comrada Boots 【 Red 】 | 戰友靴・赤 |
+| 337 | Comrada Boots 【 Blue 】 | 戰友靴・青 |
+| 338 | Comrada Boots 【 Green 】 | 戰友靴・緑 |
+| 339 | Comrada Boots 【 Orange 】 | 戰友靴・橙 |
 | 340 | ダミー | (dummy) |
 | 341 | ダミー | (dummy) |
 | 342 | Espinas Heel | 棘龍踵 |
@@ -432,36 +432,36 @@
 | 425 | Eques Leggings 改 | 改裹腿 |
 | 426 | Eques F Greaves | 騎士護腿【Ｆ】 |
 | 427 | Eques F Leggings | 騎士裹腿【Ｆ】 |
-| 428 | Star Festival の Tabi・Summer 【 Red 】 | の足袋・赤 |
-| 429 | Star Festival の Tabi・Summer 【 Blue 】 | の足袋・青 |
-| 430 | Star Festival の Tabi・Summer 【 Black 】 | の足袋・黑 |
-| 431 | Star Festival の Tabi・Summer 【 White 】 | の足袋・白 |
-| 432 | Tanabata の Tabi・Summer 【 Red 】 | の足袋・赤 |
-| 433 | Tanabata の Tabi・Summer 【 Blue 】 | の足袋・青 |
-| 434 | Tanabata の Tabi・Summer 【 Black 】 | の足袋・黑 |
-| 435 | Tanabata の Tabi・Summer 【 White 】 | の足袋・白 |
-| 436 | Star Festival の Tabi・織【 Red 】 | の織足袋・赤 |
-| 437 | Star Festival の Tabi・織【 Blue 】 | の織足袋・青 |
-| 438 | Star Festival の Tabi・織【 Black 】 | の織足袋・黑 |
-| 439 | Star Festival の Tabi・織【 White 】 | の織足袋・白 |
-| 440 | Tanabata の Tabi・織【 Red 】 | の織足袋・赤 |
-| 441 | Tanabata の Tabi・織【 Blue 】 | の織足袋・青 |
-| 442 | Tanabata の Tabi・織【 Black 】 | の織足袋・黑 |
-| 443 | Tanabata の Tabi・織【 White 】 | の織足袋・白 |
-| 444 | Star Festival の Tabi・Heaven 【 Red 】 | の足袋・赤・天 |
-| 445 | Star Festival の Tabi・Heaven 【 Blue 】 | の足袋・青・天 |
-| 446 | Star Festival の Tabi・Heaven 【 Black 】 | の足袋・黑・天 |
-| 447 | Star Festival の Tabi・Heaven 【 White 】 | の足袋・白・天 |
-| 448 | Tanabata の Tabi・Heaven 【 Red 】 | の足袋・赤・天 |
-| 449 | Tanabata の Tabi・Heaven 【 Blue 】 | の足袋・青・天 |
-| 450 | Tanabata の Tabi・Heaven 【 Black 】 | の足袋・黑・天 |
-| 451 | Tanabata の Tabi・Heaven 【 White 】 | の足袋・白・天 |
+| 428 | Star Festival の Tabi・Summer 【 Red 】 | 星祭夏足袋・赤 |
+| 429 | Star Festival の Tabi・Summer 【 Blue 】 | 星祭夏足袋・青 |
+| 430 | Star Festival の Tabi・Summer 【 Black 】 | 星祭夏足袋・黑 |
+| 431 | Star Festival の Tabi・Summer 【 White 】 | 星祭夏足袋・白 |
+| 432 | Tanabata の Tabi・Summer 【 Red 】 | 七夕夏足袋・赤 |
+| 433 | Tanabata の Tabi・Summer 【 Blue 】 | 七夕夏足袋・青 |
+| 434 | Tanabata の Tabi・Summer 【 Black 】 | 七夕夏足袋・黑 |
+| 435 | Tanabata の Tabi・Summer 【 White 】 | 七夕夏足袋・白 |
+| 436 | Star Festival の Tabi・織【 Red 】 | 星祭織足袋・赤 |
+| 437 | Star Festival の Tabi・織【 Blue 】 | 星祭織足袋・青 |
+| 438 | Star Festival の Tabi・織【 Black 】 | 星祭織足袋・黑 |
+| 439 | Star Festival の Tabi・織【 White 】 | 星祭織足袋・白 |
+| 440 | Tanabata の Tabi・織【 Red 】 | 織足袋・赤 |
+| 441 | Tanabata の Tabi・織【 Blue 】 | 織足袋・青 |
+| 442 | Tanabata の Tabi・織【 Black 】 | 織足袋・黑 |
+| 443 | Tanabata の Tabi・織【 White 】 | 織足袋・白 |
+| 444 | Star Festival の Tabi・Heaven 【 Red 】 | 星祭天足袋・赤 |
+| 445 | Star Festival の Tabi・Heaven 【 Blue 】 | 星祭天足袋・青 |
+| 446 | Star Festival の Tabi・Heaven 【 Black 】 | 星祭天足袋・黑 |
+| 447 | Star Festival の Tabi・Heaven 【 White 】 | 星祭天足袋・白 |
+| 448 | Tanabata の Tabi・Heaven 【 Red 】 | 七夕天足袋・赤 |
+| 449 | Tanabata の Tabi・Heaven 【 Blue 】 | 七夕天足袋・青 |
+| 450 | Tanabata の Tabi・Heaven 【 Black 】 | 七夕天足袋・黑 |
+| 451 | Tanabata の Tabi・Heaven 【 White 】 | 七夕天足袋・白 |
 | 452 | High Metal Greaves SP Black | 上位金屬護腿【ＳＰ】・黑 |
 | 453 | High Metal Greaves SP Blue | 上位金屬護腿【ＳＰ】・青 |
 | 454 | High Metal Greaves SP Yellow | 上位金屬護腿【ＳＰ】・黄 |
-| 455 | S・Sol Greaves SP Red | 日護腿【Ｓ】【ＳＰ】・赤 |
-| 456 | S・Sol Greaves SP Purple | 日護腿【Ｓ】【ＳＰ】・紫 |
-| 457 | S・Sol Greaves SP Black | 日護腿【Ｓ】【ＳＰ】・黑 |
+| 455 | S・Sol Greaves SP Red | S索倫護腿【ＳＰ】・赤 |
+| 456 | S・Sol Greaves SP Purple | S索倫護腿【ＳＰ】・紫 |
+| 457 | S・Sol Greaves SP Black | S索倫護腿【ＳＰ】・黑 |
 | 458 | Garuga Leggings SP White | 黑狼鳥裹腿【ＳＰ】・白 |
 | 459 | Garuga Leggings SP Green | 黑狼鳥裹腿【ＳＰ】・緑 |
 | 460 | Garuga Leggings SP Red | 黑狼鳥裹腿【ＳＰ】・赤 |

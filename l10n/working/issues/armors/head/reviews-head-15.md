@@ -189,10 +189,10 @@
 | 7183 | Gloria GP Helm・Blue | 榮光頭兜【ＧＰ】・青 |
 | 7184 | Gloria GS Mask・Blue | 榮光帽子【ＧＳ】・青 |
 | 7185 | Gloria GP Mask・Blue | 榮光帽子【ＧＰ】・青 |
-| 7186 | Gloria GS Helm・Water | 榮光水頭兜【ＧＳ】 |
-| 7187 | Gloria GP Helm・Water | 榮光水頭兜【ＧＰ】 |
-| 7188 | Gloria GS Mask・Water | 榮光水帽子【ＧＳ】 |
-| 7189 | Gloria GP Mask・Water | 榮光水帽子【ＧＰ】 |
+| 7186 | Gloria GS Helm・Water | 榮光頭兜【ＧＳ】・水 |
+| 7187 | Gloria GP Helm・Water | 榮光頭兜【ＧＰ】・水 |
+| 7188 | Gloria GS Mask・Water | 榮光帽子【ＧＳ】・水 |
+| 7189 | Gloria GP Mask・Water | 榮光帽子【ＧＰ】・水 |
 | 7190 | Gloria GS Helm・Red | 榮光頭兜【ＧＳ】・赤 |
 | 7191 | Gloria GP Helm・Red | 榮光頭兜【ＧＰ】・赤 |
 | 7192 | Gloria GS Mask・Red | 榮光帽子【ＧＳ】・赤 |
@@ -323,12 +323,12 @@
 | 7317 | 旋転の Headguard・HS | 旋転の護額【ＨＳ】 |
 | 7318 | 旋転の Headguard・GS | 旋転の護額【ＧＳ】 |
 | 7319 | 旋転の Headguard・GP | 旋転の護額【ＧＰ】 |
-| 7320 | Rolling Sky Headguard・HS | 滾天護額【ＨＳ】 |
-| 7321 | Rolling Sky Headguard・GS | 滾天護額【ＧＳ】 |
-| 7322 | Rolling Sky Headguard・GP | 滾天護額【ＧＰ】 |
-| 7323 | Rolling Earth Headguard・HS | 滾地護額【ＨＳ】・地 |
-| 7324 | Rolling Earth Headguard・GS | 滾地護額【ＧＳ】・地 |
-| 7325 | Rolling Earth Headguard・GP | 滾地護額【ＧＰ】・地 |
+| 7320 | Rolling Sky Headguard・HS | 滾天護額【ＨＳ】・天 |
+| 7321 | Rolling Sky Headguard・GS | 滾天護額【ＧＳ】・天 |
+| 7322 | Rolling Sky Headguard・GP | 滾天護額【ＧＰ】・天 |
+| 7323 | Rolling Earth Headguard・HS | 滾地護額【ＨＳ】 |
+| 7324 | Rolling Earth Headguard・GS | 滾地護額【ＧＳ】 |
+| 7325 | Rolling Earth Headguard・GP | 滾地護額【ＧＰ】 |
 | 7326 | Latria HS Head | 崇敬頭兜【ＨＳ】 |
 | 7327 | Latria GS Head | 崇敬頭兜【ＧＳ】 |
 | 7328 | Latria GP Head | 崇敬頭兜【ＧＰ】 |

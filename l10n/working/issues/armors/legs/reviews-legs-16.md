@@ -365,18 +365,18 @@
 | 7859 | Hevria HS Leggings | 赫芙莉亞裹腿【ＨＳ】 |
 | 7860 | Hevria GS Leggings | 赫芙莉亞裹腿【ＧＳ】 |
 | 7861 | Hevria GP Leggings | 赫芙莉亞裹腿【ＧＰ】 |
-| 7862 | Tiuru Boots | 緹烏魯靴 |
-| 7863 | Tiuru F Boots | 緹烏魯靴【Ｆ】 |
-| 7864 | Tiuru FZ Boots | 緹烏魯靴【ＦＺ】 |
-| 7865 | Tiuru HS Boots | 緹烏魯靴【ＨＳ】 |
-| 7866 | Tiuru GS Boots | 緹烏魯靴【ＧＳ】 |
-| 7867 | Tiuru GP Boots | 緹烏魯靴【ＧＰ】 |
-| 7868 | Tiuru Leggings | 緹烏魯裹腿 |
-| 7869 | Tiuru F Leggings | 緹烏魯裹腿【Ｆ】 |
-| 7870 | Tiuru FZ Leggings | 緹烏魯裹腿【ＦＺ】 |
-| 7871 | Tiuru HS Leggings | 緹烏魯裹腿【ＨＳ】 |
-| 7872 | Tiuru GS Leggings | 緹烏魯裹腿【ＧＳ】 |
-| 7873 | Tiuru GP Leggings | 緹烏魯裹腿【ＧＰ】 |
+| 7862 | Tiuru Boots | 提烏魯靴 |
+| 7863 | Tiuru F Boots | 提烏魯靴【Ｆ】 |
+| 7864 | Tiuru FZ Boots | 提烏魯靴【ＦＺ】 |
+| 7865 | Tiuru HS Boots | 提烏魯靴【ＨＳ】 |
+| 7866 | Tiuru GS Boots | 提烏魯靴【ＧＳ】 |
+| 7867 | Tiuru GP Boots | 提烏魯靴【ＧＰ】 |
+| 7868 | Tiuru Leggings | 提烏魯裹腿 |
+| 7869 | Tiuru F Leggings | 提烏魯裹腿【Ｆ】 |
+| 7870 | Tiuru FZ Leggings | 提烏魯裹腿【ＦＺ】 |
+| 7871 | Tiuru HS Leggings | 提烏魯裹腿【ＨＳ】 |
+| 7872 | Tiuru GS Leggings | 提烏魯裹腿【ＧＳ】 |
+| 7873 | Tiuru GP Leggings | 提烏魯裹腿【ＧＰ】 |
 | 7874 | Bande Feet・Blue | 飾帶足・青 |
 | 7875 | Bande F Feet・Blue | 飾帶足【Ｆ】・青 |
 | 7876 | Bande FZ Feet・Blue | 飾帶足【ＦＺ】・青 |
@@ -473,35 +473,35 @@
 | 7967 | Tenpi Greaves HS・White | 天陽護腿【ＨＳ】・白 |
 | 7968 | Tenpi Greaves GS・White | 天陽護腿【ＧＳ】・白 |
 | 7969 | Tenpi Greaves GP・White | 天陽護腿【ＧＰ】・白 |
-| 7970 | Tenpi ノ鉄衣・Red | 天陽護腿 |
-| 7971 | Tenpi ノ鉄衣F・Red | 天陽護腿【Ｆ】 |
-| 7972 | Tenpi ノ鉄衣FZ・Red | 天陽護腿【ＦＺ】 |
-| 7973 | Tenpi ノ鉄衣HS・Red | 天陽護腿【ＨＳ】 |
-| 7974 | Tenpi ノ鉄衣GS・Red | 天陽護腿【ＧＳ】 |
-| 7975 | Tenpi ノ鉄衣GP・Red | 天陽護腿【ＧＰ】 |
+| 7970 | Tenpi ノ鉄衣・Red | 天陽護腿・赤 |
+| 7971 | Tenpi ノ鉄衣F・Red | 天陽護腿【Ｆ】・赤 |
+| 7972 | Tenpi ノ鉄衣FZ・Red | 天陽護腿【ＦＺ】・赤 |
+| 7973 | Tenpi ノ鉄衣HS・Red | 天陽護腿【ＨＳ】・赤 |
+| 7974 | Tenpi ノ鉄衣GS・Red | 天陽護腿【ＧＳ】・赤 |
+| 7975 | Tenpi ノ鉄衣GP・Red | 天陽護腿【ＧＰ】・赤 |
 | 7976 | Tenpi Foot 着・Red | 着護腿・赤 |
 | 7977 | Tenpi Foot 着F・Red | 着護腿【Ｆ】・赤 |
 | 7978 | Tenpi Foot 着FZ・Red | 着護腿【ＦＺ】・赤 |
 | 7979 | Tenpi Foot 着HS・Red | 着護腿【ＨＳ】・赤 |
 | 7980 | Tenpi Foot 着GS・Red | 着護腿【ＧＳ】・赤 |
 | 7981 | Tenpi Foot 着GP・Red | 着護腿【ＧＰ】・赤 |
-| 7982 | Tenpi ノ鉄衣・Blue | 天陽護腿 |
-| 7983 | Tenpi ノ鉄衣F・Blue | 天陽護腿【Ｆ】 |
-| 7984 | Tenpi ノ鉄衣FZ・Blue | 天陽護腿【ＦＺ】 |
-| 7985 | Tenpi ノ鉄衣HS・Blue | 天陽護腿【ＨＳ】 |
-| 7986 | Tenpi ノ鉄衣GS・Blue | 天陽護腿【ＧＳ】 |
-| 7987 | Tenpi ノ鉄衣GP・Blue | 天陽護腿【ＧＰ】 |
+| 7982 | Tenpi ノ鉄衣・Blue | 天陽護腿・青 |
+| 7983 | Tenpi ノ鉄衣F・Blue | 天陽護腿【Ｆ】・青 |
+| 7984 | Tenpi ノ鉄衣FZ・Blue | 天陽護腿【ＦＺ】・青 |
+| 7985 | Tenpi ノ鉄衣HS・Blue | 天陽護腿【ＨＳ】・青 |
+| 7986 | Tenpi ノ鉄衣GS・Blue | 天陽護腿【ＧＳ】・青 |
+| 7987 | Tenpi ノ鉄衣GP・Blue | 天陽護腿【ＧＰ】・青 |
 | 7988 | Tenpi Foot 着・Blue | 着護腿・青 |
 | 7989 | Tenpi Foot 着F・Blue | 着護腿【Ｆ】・青 |
 | 7990 | Tenpi Foot 着FZ・Blue | 着護腿【ＦＺ】・青 |
 | 7991 | Tenpi Foot 着HS・Blue | 着護腿【ＨＳ】・青 |
 | 7992 | Tenpi Foot 着GS・Blue | 着護腿【ＧＳ】・青 |
 | 7993 | Tenpi Foot 着GP・Blue | 着護腿【ＧＰ】・青 |
-| 7994 | Tenpi ノ鉄衣・Black | 天陽護腿 |
-| 7995 | Tenpi ノ鉄衣F・Black | 天陽護腿【Ｆ】 |
-| 7996 | Tenpi ノ鉄衣FZ・Black | 天陽護腿【ＦＺ】 |
-| 7997 | Tenpi ノ鉄衣HS・Black | 天陽護腿【ＨＳ】 |
-| 7998 | Tenpi ノ鉄衣GS・Black | 天陽護腿【ＧＳ】 |
-| 7999 | Tenpi ノ鉄衣GP・Black | 天陽護腿【ＧＰ】 |
+| 7994 | Tenpi ノ鉄衣・Black | 天陽護腿・黑 |
+| 7995 | Tenpi ノ鉄衣F・Black | 天陽護腿【Ｆ】・黑 |
+| 7996 | Tenpi ノ鉄衣FZ・Black | 天陽護腿【ＦＺ】・黑 |
+| 7997 | Tenpi ノ鉄衣HS・Black | 天陽護腿【ＨＳ】・黑 |
+| 7998 | Tenpi ノ鉄衣GS・Black | 天陽護腿【ＧＳ】・黑 |
+| 7999 | Tenpi ノ鉄衣GP・Black | 天陽護腿【ＧＰ】・黑 |
 | 8000 | Tenpi Foot 着・Black | 着護腿・黑 |
 
