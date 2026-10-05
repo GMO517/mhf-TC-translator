@@ -74,9 +74,11 @@
 
 ## Gate4 — 延伸
 
+- [x] 防具五部位回寫本體（2026-10-05；`batch-armors-*-gate4-writeback.json`；validate PASS；詞庫優先）
 - [ ] 任務說明、高頻 UI
 - [ ] NPC／劇情（語域：人話）
 - [ ] 標註延後：`*.txb` 圖片字、`mhfo.dll` 內嵌字串、伺服端下發文案
+- [ ] 防具 QA 殘（truncate／need_semantic）人審→`issues/armors/open-questions.md`
 
 ## 明確不做
 

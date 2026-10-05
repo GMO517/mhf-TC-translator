@@ -9,18 +9,15 @@
 
 | CATEGORY | 進度 | 批次產物 | 下一筆 |
 |---|---|---|---|
-| armors 連夜重譯 | done | 五部位拆檔 review | 待最終人審；下一步 Gate4；未回寫本體 |
+| armors 五部位 | qa_issues（已回寫） | `batch-armors-*-gate4-writeback.json` | 殘 QA／open-questions；**非重翻** |
+| Gate4 延伸（任務／UI／劇情） | pending | — | 見 `docs/TODO.md` Gate4；疑問→`armors/open-questions.md` Q-02 |
 
 ## 待獨立 QA
 
 | CATEGORY | issue |
 |---|---|
 | beads-info / seals-jebia | 見既有 stub；勿重翻 |
-| armors-arms | `issues/armors/arms/reviews-arms-*.md` |
-| armors-waist | `issues/armors/waist/reviews-waist-*.md` |
-| armors-legs | `issues/armors/legs/reviews-legs-*.md` |
-| armors-head | `issues/armors/head/reviews-head-*.md` |
-| armors-body | `issues/armors/body/reviews-body-*.md` |
+| **armors（五部位）** | `issues/armors/qa-transliteration.md`＋hits；`open-questions.md` |
 | monsters-description | `issues/monsters/review-monsters-description.md` |
 
 ## 處理完（qa_done）

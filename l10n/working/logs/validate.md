@@ -1,6 +1,6 @@
 # working 驗證報告
 
-- `monsters-description`：PASS
+- `armors-legs`：PASS
 
 ## 錯誤
 
