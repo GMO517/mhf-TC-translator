@@ -16,11 +16,20 @@
 - `dat-weapons-melee-name.csv`（section `weapons-melee-name`）
 - `dat-weapons-ranged-name.csv`（section `weapons-ranged-name`）
 
-## P0（現在做）
+## P0（完成）
 
 1. `scan_weapon_stem_tiers.py` → `weapon_stem_tiers.tsv`  
-2. 產 `type-dict.md` 初稿＋`series-dict.md` 摘要（**不套用 CSV**）
+2. `type-dict.md` **定稿**；`series-dict-all.md` 全 stem
 
-## P1 起
+## P1（S+A 完成）
 
-同防具：S+A 判定、禁 short_phonetic 洗表；近戰／遠程**同一詞幹同譯**。
+- `build_weapon_series_dict_sa.py` → `series-dict.tsv`（47 列）
+- `fill_weapon_stem_tiers_category.py` 標 category
+
+## P2（部分）
+
+- `apply_weapon_series_dict.py`：僅 S+A 定稿 stem 改 CSV；B/C 沿用現譯
+
+## 待辦
+
+- B/C 批次 P1；P3b；人審後回寫本體

@@ -46,7 +46,7 @@
 ## weapons-melee-name
 
 - status: in_progress
-- notes: "2026-10-05 分層 series-dict 主線 P0：`weapon_stem_tiers.tsv`＋`issues/weapons/type-dict.md`；**未**改 CSV。舊 translated 為層次 B 殘零。"
+- notes: "2026-10-05 分層主線：type-dict 定稿；P1 S+A=47→series-dict.tsv；P2 套用高頻 stem（validate PASS）。B/C 未洗表。"
 
 ### files
 
@@ -59,7 +59,7 @@
 ## weapons-ranged-name
 
 - status: in_progress
-- notes: "2026-10-05 與近戰共用武器 series-dict；P0 掃描完成，待人審 type／stem。"
+- notes: "2026-10-05 與近戰共用 series-dict；P1 S+A 完成；P2 部分套用。"
 
 ### files
 

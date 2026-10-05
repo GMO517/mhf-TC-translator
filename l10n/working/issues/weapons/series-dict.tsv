@@ -1,1 +1,48 @@
 count	stem	zh	reason	source	example_source	sections
+1882	ダミー	假	遊戲專名	terms:dummy	weapons-melee-name:ダミー	melee,ranged
+177	ダミー(弓)	假(弓)	遊戲專名	terms:dummy_bow	weapons-ranged-name:ダミー(弓)	ranged
+57	Caravan	旅團	遊戲專名	weapon_caravan_line	weapons-melee-name:Caravan Sword I	melee,ranged
+23	Red Cat	赤猫	字義	en_semantic:red_cat	weapons-melee-name:Red Cat Hammer SP I	melee,ranged
+21	Colonel	上校	字義	en_semantic:rank	weapons-melee-name:Colonel Sword SP I	melee
+21	Parone	帕隆	專名短音譯	搜：Parone→帕隆；例 Parone Sword	weapons-melee-name:Parone Sword Ⅰ	melee
+17	Iron	鐵	魔物／詞庫	terms.csv	weapons-melee-name:Iron Sword	melee,ranged
+16	Bone	骨製	魔物／詞庫	terms.csv	weapons-melee-name:Bone Blade	melee
+15	Vashimu	尾晶蠍	魔物／詞庫	terms.csv	weapons-melee-name:Vashimu Knife	melee,ranged
+15	Strega	魔女	字義	搜:Strega 義大利語魔女；ストレガ祭裝	weapons-melee-name:Strega Edge	melee,ranged
+15	Brave	勇者	字義	semantic:brave	weapons-melee-name:Brave Blade SP I	melee,ranged
+15	Epidosis	艾皮多西斯	專名短音譯	搜：Epidosis→專名	weapons-melee-name:Epidosis Sword Ⅰ	melee,ranged
+15	Vola	沃拉	專名短音譯	搜：Vola Edge 現譯系	weapons-melee-name:Vola Edge	melee,ranged
+15	Partner	夥伴	字義	en_semantic:partner	weapons-melee-name:Partner Knife	melee,ranged
+14	Aqua	水	字義	en_semantic:aqua	weapons-melee-name:Aqua Spear	melee,ranged
+14	Argen	阿爾根	專名短音譯	搜：Argen 系	weapons-melee-name:Argen Knife	melee,ranged
+14	Gae Bolg	迦耶波格	神話	myth:gae_bolg	weapons-melee-name:Gae Bolg I	melee
+13	Eques	騎士	遊戲專名／定譯	armor_quality_series	weapons-melee-name:Eques Edge	melee,ranged
+13	Jebia	傑艾布伊	專名短音譯	搜:MHF Jebia 防具→無義譯慣用；短音譯≤4	weapons-melee-name:Jebia Knife	melee,ranged
+13	Azoth	阿佐斯	專名短音譯	搜：Azoth 煉金用語	weapons-melee-name:Azoth Sword I	melee
+12	Thunder	雷	魔物／詞庫	terms.csv	weapons-melee-name:Thunder Scythe	melee
+12	Dragon Ball	龍珠	合作／專名	collab:dragon_ball	weapons-melee-name:Dragon Ball Hammer Ⅰ	melee
+12	Ultimate Log	究極原木	字義	en_semantic:ultimate_log	weapons-melee-name:Ultimate Log Mallet Ⅰ	melee
+11	Lightning	雷光	遊戲專名／定譯	armor_quality_series	weapons-melee-name:Lightning Horn	melee,ranged
+11	Sturm	風暴	字義	en_semantic:sturm	weapons-melee-name:Sturm Ⅰ	melee,ranged
+11	Lethe	勒忒	神話	myth:lethe	weapons-melee-name:Lethe Sword	melee,ranged
+11	Lethe Anarchy	勒忒無序	神話	myth:lethe+anarchy	"weapons-melee-name:Lethe Sword ""Anarchy"""	melee,ranged
+10	Water	水	字義	en_semantic:water	weapons-melee-name:Water Rapier	melee
+10	Ophion	俄菲翁	魔物／詞庫	搜：Ophion→オピオ／弩岩系；現譯俄菲翁劍	weapons-melee-name:Ophion Sword	melee,ranged
+10	Ophion Flash	俄菲翁	魔物／詞庫	ophion_variant:Flash	"weapons-melee-name:Ophion Sword ""Flash"""	melee,ranged
+10	Ophion Shine	俄菲翁	魔物／詞庫	ophion_variant:Shine	"weapons-melee-name:Ophion Sword ""Shine"""	melee,ranged
+10	Ophion Glory	俄菲翁	魔物／詞庫	ophion_variant:Glory	"weapons-melee-name:Ophion Sword ""Glory"""	melee,ranged
+10	Scarlet	緋	字義	en_semantic:scarlet	weapons-melee-name:Scarlet Sword	melee,ranged
+10	Awis	阿維斯	專名短音譯	搜：Awis knife	weapons-melee-name:Awis knife	melee,ranged
+10	Beta Spine	β脊	遊戲專名	game_proper:beta	"weapons-melee-name:Beta Knife ""Spine"""	melee
+10	Beta Sky	β天	遊戲專名	game_proper:beta	"weapons-melee-name:Beta Knife ""Sky"""	melee
+10	Neo Double Beta	新双β	遊戲專名	game_proper:beta	weapons-melee-name:Neo Double Beta	melee
+10	Shesha Flash	舍沙	專名短音譯	shesha_line:Flash	"weapons-melee-name:Shesha Sword ""Flash"""	melee,ranged
+10	Shesha Shine	舍沙	專名短音譯	shesha_line:Shine	"weapons-melee-name:Shesha Sword ""Shine"""	melee,ranged
+10	Shesha Glory	舍沙	專名短音譯	shesha_line:Glory	"weapons-melee-name:Shesha Sword ""Glory"""	melee,ranged
+10	Shesha Clear	舍沙	專名短音譯	shesha_line:Clear	"weapons-melee-name:Shesha Sword ""Clear"""	melee,ranged
+10	783E 使用禁止	783E使用禁止	遊戲專名	dev_placeholder	weapons-melee-name:783E・使用禁止	melee
+10	Renka	蓮華	遊戲專名	armor_series:Renka	weapons-melee-name:Renka Sword	melee,ranged
+10	Apophis Flash	阿波菲斯	神話	myth:apophis:Flash	"weapons-melee-name:Apophis Sword ""Flash"""	melee,ranged
+10	Apophis Shine	阿波菲斯	神話	myth:apophis:Shine	"weapons-melee-name:Apophis Sword ""Shine"""	melee,ranged
+10	Apophis Glory	阿波菲斯	神話	myth:apophis:Glory	"weapons-melee-name:Apophis Sword ""Glory"""	melee,ranged
+10	Apophis Clear	阿波菲斯	神話	myth:apophis:Clear	"weapons-melee-name:Apophis Sword ""Clear"""	melee,ranged

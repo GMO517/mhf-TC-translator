@@ -11,71 +11,77 @@
 - **177** `ダミー(弓)` — ranged — e.g. ダミー(弓)
 - **57** `Caravan` — melee,ranged — e.g. Caravan Sword I
 
-# A（29）
+# A（44）
 
+- **23** `Red Cat` — melee,ranged — e.g. Red Cat Hammer SP I
 - **21** `Colonel` — melee — e.g. Colonel Sword SP I
-- **18** `Parone` — melee — e.g. Parone Sword Ⅰ
-- **16** `Red Cat` — melee,ranged — e.g. Red Cat Hammer SP I
+- **21** `Parone` — melee — e.g. Parone Sword Ⅰ
+- **17** `Iron` — melee,ranged — e.g. Iron Sword
+- **16** `Bone` — melee — e.g. Bone Blade
 - **15** `Vashimu` — melee,ranged — e.g. Vashimu Knife
+- **15** `Strega` — melee,ranged — e.g. Strega Edge
 - **15** `Brave` — melee,ranged — e.g. Brave Blade SP I
 - **15** `Epidosis` — melee,ranged — e.g. Epidosis Sword Ⅰ
+- **15** `Vola` — melee,ranged — e.g. Vola Edge
+- **15** `Partner` — melee,ranged — e.g. Partner Knife
 - **14** `Aqua` — melee,ranged — e.g. Aqua Spear
-- **14** `Strega` — melee,ranged — e.g. Strega Edge
-- **14** `Partner` — melee,ranged — e.g. Partner Knife
+- **14** `Argen` — melee,ranged — e.g. Argen Knife
 - **14** `Gae Bolg` — melee — e.g. Gae Bolg I
+- **13** `Eques` — melee,ranged — e.g. Eques Edge
 - **13** `Jebia` — melee,ranged — e.g. Jebia Knife
-- **13** `Argen` — melee,ranged — e.g. Argen Knife
 - **13** `Azoth` — melee — e.g. Azoth Sword I
-- **12** `Bone` — melee — e.g. Bone Blade
-- **12** `Eques` — melee,ranged — e.g. Eques Edge
-- **12** `Vola` — melee,ranged — e.g. Vola Edge
+- **12** `Thunder` — melee — e.g. Thunder Scythe
 - **12** `Dragon Ball` — melee — e.g. Dragon Ball Hammer Ⅰ
-- **12** `Ultimate Log Mallet` — melee — e.g. Ultimate Log Mallet Ⅰ
+- **12** `Ultimate Log` — melee — e.g. Ultimate Log Mallet Ⅰ
 - **11** `Lightning` — melee,ranged — e.g. Lightning Horn
-- **11** `Thunder` — melee — e.g. Thunder Edge Ⅰ
-- **10** `Iron` — melee,ranged — e.g. Iron Sword
-- **10** `Sturm` — melee,ranged — e.g. Sturm Ⅰ
+- **11** `Sturm` — melee,ranged — e.g. Sturm Ⅰ
+- **11** `Lethe` — melee,ranged — e.g. Lethe Sword
+- **11** `Lethe Anarchy` — melee,ranged — e.g. Lethe Sword "Anarchy"
+- **10** `Water` — melee — e.g. Water Rapier
+- **10** `Ophion` — melee,ranged — e.g. Ophion Sword
+- **10** `Ophion Flash` — melee,ranged — e.g. Ophion Sword "Flash"
+- **10** `Ophion Shine` — melee,ranged — e.g. Ophion Sword "Shine"
+- **10** `Ophion Glory` — melee,ranged — e.g. Ophion Sword "Glory"
+- **10** `Scarlet` — melee,ranged — e.g. Scarlet Sword
 - **10** `Awis` — melee,ranged — e.g. Awis knife
 - **10** `Beta Spine` — melee — e.g. Beta Knife "Spine"
 - **10** `Beta Sky` — melee — e.g. Beta Knife "Sky"
 - **10** `Neo Double Beta` — melee — e.g. Neo Double Beta
+- **10** `Shesha Flash` — melee,ranged — e.g. Shesha Sword "Flash"
+- **10** `Shesha Shine` — melee,ranged — e.g. Shesha Sword "Shine"
+- **10** `Shesha Glory` — melee,ranged — e.g. Shesha Sword "Glory"
+- **10** `Shesha Clear` — melee,ranged — e.g. Shesha Sword "Clear"
 - **10** `783E 使用禁止` — melee — e.g. 783E・使用禁止
-- **10** `Lethe` — melee,ranged — e.g. Lethe Sword
-- **10** `Lethe Anarchy` — melee,ranged — e.g. Lethe Sword "Anarchy"
+- **10** `Renka` — melee,ranged — e.g. Renka Sword
+- **10** `Apophis Flash` — melee,ranged — e.g. Apophis Sword "Flash"
+- **10** `Apophis Shine` — melee,ranged — e.g. Apophis Sword "Shine"
+- **10** `Apophis Glory` — melee,ranged — e.g. Apophis Sword "Glory"
+- **10** `Apophis Clear` — melee,ranged — e.g. Apophis Sword "Clear"
 
-# B（884）
+# B（876）
 
 - **9** `Emerald` — melee — e.g. Emerald Spear
 - **9** `Ice` — melee — e.g. Ice Hammer
+- **9** `Silver` — melee — e.g. Silver Claws
 - **9** `Tusk` — melee — e.g. Tusk Sword SP I
 - **9** `Rubino Snake` — melee — e.g. Rubino Snake I
 - **9** `Rubino Swallow` — melee — e.g. Rubino Swallow Ⅰ
-- **9** `Ophion` — melee,ranged — e.g. Ophion Sword
-- **9** `Ophion Flash` — melee,ranged — e.g. Ophion Sword "Flash"
-- **9** `Ophion Shine` — melee,ranged — e.g. Ophion Sword "Shine"
-- **9** `Ophion Glory` — melee,ranged — e.g. Ophion Sword "Glory"
 - **9** `Rubino Acris` — melee — e.g. Rubino Acris Ⅰ
-- **9** `Scarlet` — melee,ranged — e.g. Scarlet Sword
-- **9** `Shesha Flash` — melee,ranged — e.g. Shesha Sword "Flash"
-- **9** `Shesha Shine` — melee,ranged — e.g. Shesha Sword "Shine"
-- **9** `Shesha Glory` — melee,ranged — e.g. Shesha Sword "Glory"
-- **9** `Shesha Clear` — melee,ranged — e.g. Shesha Sword "Clear"
-- **9** `Renka` — melee,ranged — e.g. Renka Sword
-- **9** `Apophis Flash` — melee,ranged — e.g. Apophis Sword "Flash"
-- **9** `Apophis Shine` — melee,ranged — e.g. Apophis Sword "Shine"
-- **9** `Apophis Glory` — melee,ranged — e.g. Apophis Sword "Glory"
-- **9** `Apophis Clear` — melee,ranged — e.g. Apophis Sword "Clear"
+- **9** `Aurora` — melee,ranged — e.g. Aurora Mace
+- **9** `Infinity` — melee,ranged — e.g. Infinity Knife
+- **9** `Shipler` — melee,ranged — e.g. Shipler Knife
+- **9** `Resolute Heart` — melee — e.g. Resolute Sword "Heart"
+- **9** `Resolute Truth` — melee — e.g. Resolute Sword "Truth"
 - **9** `Steel Raven` — ranged — e.g. Steel Raven Ⅰ
 - **9** `Rubino Raven` — ranged — e.g. Rubino Raven Ⅰ
+- **8** `Jade` — melee,ranged — e.g. Jade Mace
 - **8** `Expert` — melee,ranged — e.g. Expert Blade
 - **8** `Khezu` — melee,ranged — e.g. Khezu Horn
 - **8** `Steel Snake` — melee — e.g. Steel Snake Ⅱ
 - **8** `Sleepyball` — melee — e.g. Sleepyball
 - **8** `Steel Lizard` — melee — e.g. Steel Lizard Ⅱ
 - **8** `Cross` — melee,ranged — e.g. Cross Edge
-- **8** `Silver` — melee — e.g. Silver Claws
 - **8** `Golden` — melee — e.g. Golden Katana SP I
-- **8** `Water` — melee — e.g. Water Horn SP I
 - **8** `Chevalier` — melee — e.g. Chevalier SP I
 - **8** `Carbuncle` — melee — e.g. Carbuncle Sword SP I
 - **8** `Obsidian` — melee — e.g. Obsidian SP I
@@ -85,25 +91,24 @@
 - **8** `Rubino Hawk` — melee — e.g. Rubino Hawk I
 - **8** `Rubino Shark` — melee — e.g. Rubino Shark Ⅰ
 - **8** `Rubino Sepia` — melee — e.g. Rubino Sepia Ⅰ
-- **8** `Aurora` — melee,ranged — e.g. Aurora Hammer
-- **8** `Infinity` — melee,ranged — e.g. Infinity Knife
 - **8** `Fruity Sleep Ball` — melee — e.g. Fruity Sleep Ball
 - **8** `Thick Sleep Ice` — melee — e.g. Thick Sleep Ice
 - **8** `Ice Fruit` — melee — e.g. Ice Fruit
-- **8** `Shipler` — melee,ranged — e.g. Shipler Knife
 - **8** `Blooddrinking` — melee,ranged — e.g. Blooddrinking Sword
 - **8** `Para Bloodeating` — melee,ranged — e.g. Para Bloodeating Sword
 - **8** `Toxic Bloodeating` — melee,ranged — e.g. Toxic Bloodeating Sword
 - **8** `Nameless` — melee — e.g. Nameless Dagger Ⅰ
-- **8** `Resolute Heart` — melee — e.g. Resolute Sword "Heart"
-- **8** `Resolute Truth` — melee — e.g. Resolute Sword "Truth"
+- **8** `Resolute Divine` — melee — e.g. Resolute Sword "Divine"
+- **8** `Chroma` — melee,ranged — e.g. Chroma Tonfa
+- **8** `Lethe Wish` — melee — e.g. Lethe Sword "Wish"
+- **8** `Poet` — melee,ranged — e.g. Poet Tonfa
 - **8** `Sonic` — ranged — e.g. Sonic Bow III
 - **8** `Steel Puffer` — ranged — e.g. Steel Puffer Ⅰ
+- **7** `Crimson` — melee,ranged — e.g. Crimson Scythe
 - **7** `Imperial` — melee,ranged — e.g. Imperial Sword
-- **7** `Jade` — melee,ranged — e.g. Jade Lance
 - **7** `Master Kalinga` — melee — e.g. Master Kalinga SP Ⅰ
 - **7** `Dark Princess` — melee — e.g. Dark Princess SP Ⅰ
-- **7** `Lucky Cat Stick` — melee — e.g. Lucky Cat Stick SP Ⅰ
+- **7** `Lucky Cat` — melee — e.g. Lucky Cat Stick SP Ⅰ
 - **7** `Exceletta` — melee — e.g. Exceletta SP Ⅰ
 - **7** `Flare` — melee — e.g. Flare SP I
 - **7** `Plesioth Razors` — melee — e.g. Plesioth Razors SP I
@@ -153,7 +158,6 @@
 - **7** `Twin Nevi` — melee — e.g. Twin Nevi SP I
 - **7** `Begrudged Twins` — melee — e.g. Begrudged Twins SP I
 - **7** `Dragonslayers` — melee — e.g. Dragonslayers SP I
-- **7** `Iron Greatsword` — melee — e.g. Iron Greatsword SP I
 - **7** `Sailor` — melee — e.g. Sailor Sword SP I
 - **7** `Cat's Dance` — melee — e.g. Cat's Dance SP I
 - **7** `Blinding Spray` — melee — e.g. Blinding Spray SP I
@@ -206,7 +210,7 @@
 - **7** `Crazy Cooking` — melee — e.g. Crazy Cooking SP I
 - **7** `Gigant Claw` — melee — e.g. Gigant Claw SP I
 - **7** `Monolith Plate` — melee — e.g. Monolith Plate SP I
-- **7** `Charming Scythe` — melee — e.g. Charming Scythe SP I
+- **7** `Charming` — melee — e.g. Charming Scythe SP I
 - **7** `Khrysos` — melee — e.g. Khrysos SP I
 - **7** `Sphr. Hyperborea` — melee — e.g. Sphr. Hyperborea SP I
 - **7** `Golden Bomb` — melee — e.g. Golden Bomb SP I
@@ -229,7 +233,7 @@
 - **7** `Dragonbone Flute` — melee — e.g. Dragonbone Flute SP I
 - **7** `Warlord` — melee — e.g. Warlord Gunlance SP I
 - **7** `Redwd G-` — melee — e.g. Redwd G-Lance SP I
-- **7** `Paralysis Rapier` — melee — e.g. Paralysis Rapier SP I
+- **7** `Paralysis` — melee — e.g. Paralysis Rapier SP I
 - **7** `White Fang` — melee — e.g. White Fang SP I
 - **7** `Black Rose` — melee — e.g. Black Rose SP I
 - **7** `Black Drgnwood LS` — melee — e.g. Black Drgnwood LS SP I
@@ -240,7 +244,6 @@
 - **7** `Daora's Chrome` — melee — e.g. Daora's Chrome SP I
 - **7** `Large Ambergem` — melee — e.g. Large Ambergem SP I
 - **7** `Pure Chordmaker` — melee — e.g. Pure Chordmaker SP I
-- **7** `Red Cat Stick` — melee — e.g. Red Cat Stick SP I
 - **7** `Aqua Sabers` — melee — e.g. Aqua Sabers SP I
 - **7** `Black Ice` — melee — e.g. Black Ice GS SP I
 - **7** `Snowdance Saber` — melee — e.g. Snowdance Saber SP I
@@ -261,6 +264,10 @@
 - **7** `Taikun` — melee,ranged — e.g. Taikun Edge
 - **7** `Bolt` — melee — e.g. Bolt Claws SP Ⅰ
 - **7** `of Prom. Victory` — melee — e.g. Sword of Prom. Victory Ⅰ
+- **7** `Berum` — melee — e.g. Berum Knife SPⅠ
+- **7** `Berum SPⅣ` — melee — e.g. Berum Knife SPⅣ
+- **7** `Berum SPⅦ` — melee — e.g. Berum Knife SPⅦ
+- **7** `Torem` — melee — e.g. Torem Knife
 - **7** `Barbarian` — melee,ranged — e.g. Barbarian Katana
 - **7** `Guar Guar Guuku` — melee — e.g. Guar Guar Guuku Ⅰ
 - **7** `Wah Wah Guuku` — melee — e.g. Wah Wah Guuku Ⅰ
@@ -273,6 +280,7 @@
 - **7** `Kuro Plush` — melee — e.g. Kuro Plush Ⅰ
 - **7** `ToroKuro Max` — melee — e.g. ToroKuro Max Ⅰ
 - **7** `Lightbreak` — melee,ranged — e.g. Lightbreak Sword
+- **7** `Avidya` — melee,ranged — e.g. Avidya Edge
 - **7** `Seraphim Frostedge` — melee — e.g. Seraphim Frostedge Ⅰ
 - **7** `Sacred Red Blazedance` — melee — e.g. Sacred Red Blazedance Ⅰ
 - **7** `Sacred Dark Blackflame` — melee — e.g. Sacred Dark Blackflame Ⅰ
@@ -281,40 +289,44 @@
 - **7** `Sacred Carnation` — melee — e.g. Sacred Carnation Horn Ⅰ
 - **7** `Sacred Soarpillar` — melee — e.g. Sacred Soarpillar Ⅰ
 - **7** `Sacred Dark Nightfall` — melee — e.g. Sacred Dark Nightfall Ⅰ
+- **7** `Recital Prelude` — melee — e.g. Recital Sword "Prelude"
+- **7** `Recital Chorus` — melee — e.g. Recital Sword "Chorus"
+- **7** `Recital Encore` — melee — e.g. Recital Sword "Encore"
 - **7** `Resolute New` — melee — e.g. Resolute Sword "New"
 - **7** `Resolute Lunge` — melee — e.g. Resolute Sword "Lunge"
 - **7** `Resolute Faith` — melee — e.g. Resolute Sword "Faith"
-- **7** `Resolute Divine` — melee — e.g. Resolute Sword "Divine"
-- **7** `Lethe Wish` — melee — e.g. Lethe Sword "Wish"
+- **7** `Melody Prelude` — melee — e.g. Melody Sword "Prelude"
+- **7** `Melody Chorus` — melee — e.g. Melody Sword "Chorus"
+- **7** `Melody Encore` — melee — e.g. Melody Sword "Encore"
 - **7** `Flame Beat` — ranged — e.g. Flame Beat SP Ⅰ
 - **7** `Aqua Feather` — ranged — e.g. Aqua Feather SP Ⅰ
 - **7** `Fake Projection` — ranged — e.g. Fake Projection Ⅰ
 - **7** `Sacred Falling Sun` — ranged — e.g. Sacred Falling Sun Ⅰ
 - **7** `Sacred Crumbling Earth` — ranged — e.g. Sacred Crumbling Earth Ⅰ
 - **7** `Sacred Night Windvoice` — ranged — e.g. Sacred Night Windvoice Ⅰ
+- **6** `Crystal` — melee,ranged — e.g. Crystal Hammer
 - **6** `Steel Ice` — melee — e.g. Steel Ice Hammer
 - **6** `Hunter` — melee,ranged — e.g. Hunter Knife
 - **6** `Steel Bison` — melee — e.g. Steel Bison Ⅱ
 - **6** `Feather` — melee,ranged — e.g. Feather Knife
 - **6** `Pizza Peel` — melee — e.g. Pizza Peel
-- **6** `Crimson` — melee,ranged — e.g. Crimson Gunlance
 - **6** `Flame` — melee — e.g. Flame Gunlance
+- **6** `Tigrex` — melee — e.g. Tigrex Sword
 - **6** `Steel Swallow` — melee — e.g. Steel Swallow Ⅰ
 - **6** `Steel Hawk` — melee — e.g. Steel Hawk I
+- **6** `Blue Porta` — melee — e.g. Blue Porta Mace Ⅰ
+- **6** `Red Porta` — melee — e.g. Red Porta Mace Ⅰ
 - **6** `Gold Crest` — melee — e.g. Gold Crest I
 - **6** `Silver Crest` — melee — e.g. Silver Crest I
 - **6** `Bronze Crest` — melee — e.g. Bronze Crest I
 - **6** `Don` — melee,ranged — e.g. Don Dagger
 - **6** `Caravan Pair` — melee — e.g. Caravan Pair Ⅰ
 - **6** `Caravan Pipe` — melee — e.g. Caravan Pipe Ⅰ
+- **6** `Cardo` — melee,ranged — e.g. Cardo Mace
 - **6** `Regina` — melee,ranged — e.g. Regina Ⅰ
 - **6** `Fire` — melee — e.g. Fire Edge Ⅰ
 - **6** `Cambrio` — melee — e.g. Cambrio Blade Ⅰ
 - **6** `Kanshou and Bakuya` — melee — e.g. Kanshou and Bakuya I
-- **6** `Berum` — melee — e.g. Berum Knife SPⅠ
-- **6** `Berum SPⅣ` — melee — e.g. Berum Knife SPⅣ
-- **6** `Berum SPⅦ` — melee — e.g. Berum Knife SPⅦ
-- **6** `Torem` — melee — e.g. Torem Knife
 - **6** `Rebellion` — melee — e.g. Rebellion I
 - **6** `Rebellion Kai` — melee — e.g. Rebellion Kai I
 - **6** `Leeching` — melee — e.g. Leeching Sword
@@ -332,6 +344,7 @@
 - **6** `Dios` — melee,ranged — e.g. Dios Edge
 - **6** `Cassius` — melee — e.g. Cassius Spear Ⅰ
 - **6** `N 2 Missile` — melee — e.g. N 2 Missile Ⅰ
+- **6** `Hidden` — melee,ranged — e.g. Hidden Edge
 - **6** `Steel Current` — melee — e.g. Steel Current Ⅰ
 - **6** `Wicked Iron Twinfans` — melee — e.g. Wicked Iron Twinfans Ⅰ
 - **6** `All-Purpose Wood Log` — melee — e.g. All-Purpose Wood Log Ⅰ
@@ -346,20 +359,14 @@
 - **6** `Gia Plush` — melee — e.g. Gia Plush Ⅰ
 - **6** `White Poboru Plush` — melee — e.g. White Poboru Plush Ⅰ
 - **6** `Flame's Origin` — melee — e.g. Flame's Origin Ⅰ
-- **6** `Phantasmal Greatsword` — melee — e.g. Phantasmal Greatsword Ⅰ
+- **6** `Phantasmal` — melee — e.g. Phantasmal Greatsword Ⅰ
 - **6** `Twelfth Paladin` — melee — e.g. Twelfth Paladin Sword Ⅰ
 - **6** `Radiant Royal` — melee — e.g. Radiant Royal Sword Ⅰ
 - **6** `Flag of the Saint` — melee — e.g. Flag of the Saint Ⅰ
-- **6** `Recital Prelude` — melee — e.g. Recital Sword "Prelude"
-- **6** `Recital Chorus` — melee — e.g. Recital Sword "Chorus"
-- **6** `Recital Encore` — melee — e.g. Recital Sword "Encore"
 - **6** `Dragon Scale` — melee — e.g. Dragon Scale Sword Ⅰ
-- **6** `Aunus' Scythe` — melee — e.g. Aunus' Scythe Ⅰ
+- **6** `Aunus'` — melee — e.g. Aunus' Scythe Ⅰ
 - **6** `Golden Bat` — melee — e.g. Golden Bat Ⅰ
 - **6** `Wyvern Gae Bulg` — melee — e.g. Wyvern Spear Gae Bulg Ⅰ
-- **6** `Melody Prelude` — melee — e.g. Melody Sword "Prelude"
-- **6** `Melody Chorus` — melee — e.g. Melody Sword "Chorus"
-- **6** `Melody Encore` — melee — e.g. Melody Sword "Encore"
 - **6** `Graham Spike` — melee — e.g. Graham Spike
 - **6** `Maihime Kaougi` — melee — e.g. Maihime Kaougi Ⅰ
 - **6** `Soul Eater` — melee — e.g. Soul Eater Ⅰ
@@ -391,21 +398,20 @@
 - **6** `Night Sky` — ranged — e.g. Night Sky Bow Ⅰ
 - **6** `Grim Reaper` — ranged — e.g. Grim Reaper I
 - **6** `Barrel Rapidcannon` — ranged — e.g. Barrel Rapidcannon Ⅰ
-- **6** `Chroma` — ranged — e.g. Chroma Assault
-- **6** `Poet` — ranged — e.g. Poet Assault
 - **5** `Black` — melee,ranged — e.g. Black Katana Mk.Ⅰ
-- **5** `Crystal` — melee,ranged — e.g. Crystal Hammer
 - **5** `Frost` — melee,ranged — e.g. Frost Edge
 - **5** `Black Belt` — melee,ranged — e.g. Black Belt Blade
+- **5** `Kut-Ku` — melee,ranged — e.g. Kut-Ku Pick
 - **5** `Wolf` — melee,ranged — e.g. Wolf Blade
 - **5** `Wild` — melee,ranged — e.g. Wild Gunlance
-- **5** `Tigrex` — melee — e.g. Tigrex Sword
 - **5** `Kaiden` — melee,ranged — e.g. Kaiden Sword
 - **5** `Steel Rhinos` — melee — e.g. Steel Rhinos I
 - **5** `Steel Shark` — melee — e.g. Steel Shark I
 - **5** `Steel Acris` — melee — e.g. Steel Acris Ⅰ
 - **5** `Steel Sepia` — melee — e.g. Steel Sepia Ⅰ
 - **5** `Thunderdance` — melee — e.g. Thunderdance Sword
+- **5** `Daora` — melee — e.g. Daora Rapier
+- **5** `Dodon` — melee — e.g. Dodon Rapier
 - **5** `Sfida Crest` — melee — e.g. Sfida Crest Ⅰ
 - **5** `Rubrum Crest` — melee — e.g. Rubrum Crest Ⅰ
 - **5** `Shitori Lizard` — melee — e.g. Shitori Lizard Ⅰ
@@ -425,7 +431,6 @@
 - **5** `Amethyst Bison` — melee — e.g. Amethyst Bison Ⅰ
 - **5** `Amethyst Swallow` — melee — e.g. Amethyst Swallow I
 - **5** `Amethyst Rhinos` — melee — e.g. Amethyst Rhinos I
-- **5** `Cardo` — melee,ranged — e.g. Cardo hammer
 - **5** `Amethyst Hawk` — melee — e.g. Amethyst Hawk Ⅰ
 - **5** `Amethyst Shark` — melee — e.g. Amethyst Shark Ⅰ
 - **5** `Amethyst Acris` — melee — e.g. Amethyst Acris Ⅰ
@@ -451,14 +456,16 @@
 - **5** `Grau Cross` — melee — e.g. Grau Cross Ⅰ
 - **5** `Mauve Cross` — melee — e.g. Mauve Cross Ⅰ
 - **5** `Rosa Cross` — melee — e.g. Rosa Cross Ⅰ
-- **5** `Hidden` — melee,ranged — e.g. Hidden Edge
-- **5** `Avidya` — melee,ranged — e.g. Avidya Edge
 - **5** `Beta Light` — melee — e.g. Beta Knife "Light"
 - **5** `Prayer Prelude` — melee — e.g. Prayer Sword "Prelude"
 - **5** `Prayer Interlude` — melee — e.g. Prayer Sword "Interlude"
 - **5** `Prayer Finale` — melee — e.g. Prayer Sword "Finale"
 - **5** `10th Anniversary Cake` — melee — e.g. 10th Anniversary Cake Ⅰ
 - **5** `Sleeping Halk` — melee — e.g. Sleeping Halk Ⅰ
+- **5** `Musical Prelude` — melee — e.g. Musical Sword "Prelude"
+- **5** `Musical Chorus` — melee — e.g. Musical Sword "Chorus"
+- **5** `Musical Encore` — melee — e.g. Musical Sword "Encore"
+- **5** `Ravina` — melee,ranged — e.g. Ravina Tonfa
 - **5** `Snow Memory` — melee — e.g. Snow Memory Ⅰ
 - **5** `Santa De Guuku` — melee — e.g. Santa De Guuku Ⅰ
 - **5** `Erupe Burukku` — melee — e.g. Erupe Burukku Ⅰ
@@ -475,10 +482,13 @@
 - **5** `Nidhoggr Snake` — ranged — e.g. Nidhoggr Snake Bow Ⅰ
 - **5** `Thousand Enemy Tank` — ranged — e.g. Thousand Enemy Tank Ⅱ
 - **4** `Buster` — melee,ranged — e.g. Buster Sword
+- **4** `Dark` — melee — e.g. Dark Scythe
+- **4** `Dragonwood` — melee — e.g. Dragonwood L.Sword
+- **4** `Dragon` — melee — e.g. Dragon Lance
+- **4** `Fatalis` — melee — e.g. Fatalis Blade
 - **4** `Bulldrome` — melee — e.g. Bulldrome Dagger
 - **4** `Frozen` — melee — e.g. Frozen Hammer
 - **4** `Fulminant` — melee — e.g. Fulminant Sword
-- **4** `Shield` — melee — e.g. Sword Shield
 - **4** `Akantor` — melee,ranged — e.g. Akantor Katana
 - **4** `Ripple` — melee — e.g. Ripple
 - **4** `Settler` — melee — e.g. Settler Knife
@@ -493,11 +503,12 @@
 - **4** `Sapphir Swallow` — melee — e.g. Sapphir Swallow I
 - **4** `Sapphir Rhinos` — melee — e.g. Sapphir Rhinos I
 - **4** `Sapphir Hawk` — melee — e.g. Sapphir Hawk I
-- **4** `Dodon` — melee — e.g. Dodon Edge
 - **4** `Sapphir Shark` — melee — e.g. Sapphir Shark Ⅰ
 - **4** `Sapphir Acris` — melee — e.g. Sapphir Acris I
 - **4** `Sapphir Sepia` — melee — e.g. Sapphir Sepia I
 - **4** `Stainolexis` — melee — e.g. Stainolexis Ⅰ
+- **4** `Blaze` — melee — e.g. Blaze Mallet
+- **4** `Furyhair` — melee — e.g. Furyhair Sword
 - **4** `Iris` — melee — e.g. Iris Ⅰ
 - **4** `Fang Merman` — melee — e.g. Fang Merman C
 - **4** `Ever Sleep` — melee — e.g. Ever Sleep Ⅰ
@@ -522,6 +533,8 @@
 - **4** `Leschen` — melee — e.g. Leschen Ⅰ
 - **4** `Thunderboom` — melee — e.g. Thunderboom Ⅰ
 - **4** `Reaper` — melee — e.g. Reaper Ⅰ
+- **4** `Shantien` — melee,ranged — e.g. Shantien Sword
+- **4** `Frostmist` — melee,ranged — e.g. Frostmist Blade
 - **4** `G Radius` — melee — e.g. G Radius Ⅰ
 - **4** `Sealed Falchion` — melee — e.g. Sealed Falchion Ⅰ
 - **4** `Rex` — melee — e.g. Rex Ⅰ
@@ -539,7 +552,7 @@
 - **4** `Levitas` — melee — e.g. Levitas Ⅰ
 - **4** `Scribe` — melee — e.g. Scribe Ⅰ
 - **4** `Pacus` — melee — e.g. Pacus Ⅰ
-- **4** `Glueck Rod` — melee — e.g. Glueck Rod Ⅰ
+- **4** `Glueck` — melee — e.g. Glueck Rod Ⅰ
 - **4** `Stab` — melee — e.g. Stab Ⅰ
 - **4** `String` — melee — e.g. String Ⅰ
 - **4** `Rotoro` — melee — e.g. Rotoro Ⅰ
@@ -550,6 +563,7 @@
 - **4** `Grenouille` — melee — e.g. Grenouille Ⅰ
 - **4** `Twin Clawnyas` — melee — e.g. Twin Clawnyas Ⅰ
 - **4** `Big Katanya` — melee — e.g. Big Katanya Ⅰ
+- **4** `Blast` — melee — e.g. Blast Sword
 - **4** `Azure Baron` — melee — e.g. Azure Baron Ⅰ
 - **4** `Weisser Baron` — melee — e.g. Weisser Baron Ⅰ
 - **4** `Verde Baron` — melee — e.g. Verde Baron Ⅰ
@@ -568,17 +582,24 @@
 - **4** `Schnitt` — melee — e.g. Schnitt Ⅰ
 - **4** `Schwitt` — melee — e.g. Schwitt Ⅰ
 - **4** `Huge Katanya` — melee — e.g. Huge Katanya Ⅰ
+- **4** `Composer Intro` — melee — e.g. Composer Blade "Intro"
+- **4** `Composer Chorus` — melee — e.g. Composer Blade"Chorus"
+- **4** `Composer Encore` — melee — e.g. Composer Blade"Encore"
+- **4** `True Vola` — melee,ranged — e.g. True Vola Tonfa
+- **4** `Blazing Peak` — melee — e.g. Blazing Peak Blade
 - **4** `Beastlord` — melee — e.g. Beastlord Ⅰ
+- **4** `Solemn Eyes` — melee,ranged — e.g. Solemn Eyes Sword
 - **4** `Goldwing` — melee — e.g. Goldwing Blade Ⅰ
-- **4** `Musical Prelude` — melee — e.g. Musical Sword "Prelude"
-- **4** `Musical Chorus` — melee — e.g. Musical Sword "Chorus"
-- **4** `Musical Encore` — melee — e.g. Musical Sword "Encore"
+- **4** `True Chroma` — melee,ranged — e.g. True Chroma Tonfa
+- **4** `Final Chroma` — melee,ranged — e.g. Final Chroma Tonfa
 - **4** `Dragon Emperor Shot` — melee — e.g. Dragon Emperor Shot Ⅰ
+- **4** `True Poet` — melee,ranged — e.g. True Poet Tonfa
+- **4** `Poetry` — melee,ranged — e.g. Poetry Tonfa
+- **4** `Layer` — melee — e.g. Layer Edge
 - **4** `Biscuit Cream` — melee — e.g. Biscuit Cream Ⅰ
 - **4** `Volnoborin` — melee — e.g. Volnoborin Ⅰ
 - **4** `Power Wild` — ranged — e.g. Power Wild Bow II
 - **4** `Prominence` — ranged — e.g. Prominence Bow II
-- **4** `Kut-Ku` — ranged — e.g. Kut-Ku Bow Ⅰ
 - **4** `Oobasami` — ranged — e.g. Oobasami Ⅰ
 - **4** `Steel Killi` — ranged — e.g. Steel Killi Ⅰ
 - **4** `Citrine Puffer` — ranged — e.g. Citrine Puffer Ⅰ
@@ -597,31 +618,30 @@
 - **4** `Tulpe` — ranged — e.g. Tulpe Ⅰ
 - **4** `Tulip` — ranged — e.g. Tulip Ⅰ
 - **4** `Elzelion Guuku` — ranged — e.g. Elzelion Guuku Ⅰ
-- **4** `Ravina` — ranged — e.g. Ravina Assault
 - **3** `Spike` — melee — e.g. Spike Hammer
 - **3** `Rusted` — melee — e.g. Rusted Hammer
 - **3** `Tarnished` — melee — e.g. Tarnished Hammer
-- **3** `Dark` — melee — e.g. Dark Lance
 - **3** `White` — melee — e.g. White Gunlance
 - **3** `Scissor` — melee — e.g. Scissor Gunlance
 - **3** `Gravios` — melee — e.g. Gravios Spear
-- **3** `Hunting` — melee — e.g. Hunting Dagger
+- **3** `Demon` — melee — e.g. Demon Lance
 - **3** `Catspaw` — melee — e.g. Catspaw
-- **3** `Fatalis` — melee — e.g. Fatalis Blade
+- **3** `Worn` — melee — e.g. Worn Greatsword
 - **3** `Cursed Ocarina` — melee — e.g. Cursed Ocarina
+- **3** `Acorn` — melee — e.g. Acorn Stick
 - **3** `Double Beta` — melee — e.g. Double Beta
 - **3** `Ice Breaker` — melee — e.g. Ice Breaker
+- **3** `Hypno` — melee — e.g. Hypno Blade
 - **3** `Crab` — melee — e.g. Crab Hammer
 - **3** `Undulling` — melee — e.g. Undulling
 - **3** `Darkness` — melee — e.g. Darkness
 - **3** `BC Slicer` — melee — e.g. BC Slicer Ⅰ
-- **3** `Blue Porta Mace` — melee — e.g. Blue Porta Mace Ⅰ
-- **3** `Red Porta Mace` — melee — e.g. Red Porta Mace Ⅰ
-- **3** `Yellow Porta Mace` — melee — e.g. Yellow Porta Mace Ⅰ
-- **3** `Purple Porta Mace` — melee — e.g. Purple Porta Mace Ⅰ
+- **3** `Yellow Porta` — melee — e.g. Yellow Porta Mace Ⅰ
+- **3** `Purple Porta` — melee — e.g. Purple Porta Mace Ⅰ
 - **3** `Beta (Yellow)` — melee — e.g. Beta Knife (Yellow)
 - **3** `Blazing` — melee — e.g. Blazing Blade
 - **3** `Conflagration` — melee — e.g. Conflagration Gunlance
+- **3** `Prototype` — melee — e.g. Prototype Fishing Rod
 - **3** `White Claymore` — melee — e.g. White Claymore I
 - **3** `Black Claymore` — melee — e.g. Black Claymore I
 - **3** `Red Claymore` — melee — e.g. Red Claymore I
@@ -633,7 +653,6 @@
 - **3** `Twin White Edges` — melee — e.g. Twin White Edges I
 - **3** `Twin Black Edges` — melee — e.g. Twin Black Edges I
 - **3** `Twin Blue Edges` — melee — e.g. Twin Blue Edges I
-- **3** `Dual` — melee — e.g. Dual Sword I
 - **3** `Twin Yellow Edges` — melee — e.g. Twin Yellow Edges I
 - **3** `Nephrite` — melee — e.g. Nephrite Blade I
 - **3** `Celestial Torment` — melee — e.g. Celestial Torment I
@@ -663,7 +682,6 @@
 - **3** `Carnel Twins` — melee — e.g. Carnel Twins I
 - **3** `Cinnabar` — melee — e.g. Cinnabar Blade I
 - **3** `Chlorite` — melee — e.g. Chlorite Blade I
-- **3** `Daora` — melee — e.g. Daora Katana
 - **3** `Crystal Claymore` — melee — e.g. Crystal Claymore I
 - **3** `Grenadier` — melee — e.g. Grenadier Hammer Ⅰ
 - **3** `Ghat Pipe` — melee — e.g. Ghat Pipe I
@@ -702,6 +720,7 @@
 - **3** `Nocturne` — melee — e.g. Nocturne Ⅰ
 - **3** `Schnitte` — melee — e.g. Schnitte Ⅰ
 - **3** `Wint` — melee — e.g. Wint Ⅰ
+- **3** `True Tigrex` — melee — e.g. True Tigrex Horn
 - **3** `Concerto` — melee — e.g. Concerto Ⅰ
 - **3** `Sonata` — melee — e.g. Sonata Ⅰ
 - **3** `Dirge` — melee — e.g. Dirge Ⅰ
@@ -736,15 +755,12 @@
 - **3** `Lucia` — melee — e.g. Lucia Ⅰ
 - **3** `Thorium` — melee — e.g. Thorium Ⅰ
 - **3** `Idea` — melee — e.g. Idea Ⅰ
-- **3** `Blue Porta` — melee — e.g. Blue Porta Lance Ⅰ
 - **3** `Black Porta` — melee — e.g. Black Porta Lance Ⅰ
 - **3** `White Porta` — melee — e.g. White Porta Lance Ⅰ
-- **3** `Red Porta` — melee — e.g. Red Porta Lance Ⅰ
 - **3** `Orange Porta` — melee — e.g. Orange Porta Lance Ⅰ
 - **3** `Sky Porta` — melee — e.g. Sky Porta Lance Ⅰ
 - **3** `Anemone` — melee — e.g. Anemone Ⅰ
 - **3** `Valea` — melee — e.g. Valea Ⅰ
-- **3** `Furyhair` — melee — e.g. Furyhair Sword
 - **3** `Nikir` — melee — e.g. Nikir Ⅰ
 - **3** `Alem` — melee — e.g. Alem Ⅰ
 - **3** `Elmis` — melee — e.g. Elmis Ⅰ
@@ -772,7 +788,6 @@
 - **3** `Occupy` — melee — e.g. Occupy Ⅰ
 - **3** `Mona` — melee — e.g. Mona Ⅰ
 - **3** `Wisdom` — melee — e.g. Wisdom Ⅰ
-- **3** `Blaze` — melee — e.g. Blaze Ⅰ
 - **3** `Lars` — melee — e.g. Lars Ⅰ
 - **3** `Gyro` — melee — e.g. Gyro Ⅰ
 - **3** `Afferter` — melee — e.g. Afferter I
@@ -786,12 +801,12 @@
 - **3** `Yunya` — melee — e.g. Yunya Ⅰ
 - **3** `Folka` — melee — e.g. Folka Ⅰ
 - **3** `Marti` — melee — e.g. Marti Ⅰ
-- **3** `Pierce Rapier` — melee — e.g. Pierce Rapier Ⅰ
+- **3** `Pierce` — melee — e.g. Pierce Rapier Ⅰ
 - **3** `Poisoner` — melee — e.g. Poisoner Ⅰ
 - **3** `Paralypia` — melee — e.g. Paralypia Ⅰ
 - **3** `Lightning Stub` — melee — e.g. Lightning Stub Ⅰ
 - **3** `Rain Thrust` — melee — e.g. Rain Thrust Ⅰ
-- **3** `Demon's Rapier` — melee — e.g. Demon's Rapier Ⅰ
+- **3** `Demon's` — melee — e.g. Demon's Rapier Ⅰ
 - **3** `App` — melee — e.g. App Ⅰ
 - **3** `Arios` — melee — e.g. Arios Ⅰ
 - **3** `Fable` — melee — e.g. Fable Ⅰ
@@ -842,8 +857,8 @@
 - **3** `Berry` — melee — e.g. Berry Ⅰ
 - **3** `Excalibur` — melee — e.g. Excalibur
 - **3** `Maelstrom` — melee,ranged — e.g. Maelstrom
-- **3** `Shantien` — melee,ranged — e.g. Shantien Sword
-- **3** `Frostmist` — melee,ranged — e.g. Frostmist Blade
+- **3** `Heavenly` — melee — e.g. Heavenly Greatsword
+- **3** `Gold` — melee — e.g. Gold Blade
 - **3** `Earth` — melee — e.g. Earth Sword
 - **3** `Caravan Sharp` — melee — e.g. Caravan Sharp Sword
 - **3** `Caravan Sledge` — melee — e.g. Caravan Sledge
@@ -851,24 +866,21 @@
 - **3** `Caravan Buster` — melee — e.g. Caravan Buster
 - **3** `Caravan Fife` — melee — e.g. Caravan Fife
 - **3** `Caravan Blastspear` — melee — e.g. Caravan Blastspear
-- **3** `Blast` — melee — e.g. Blast Sword
 - **3** `Parone Duals` — melee — e.g. Parone Duals Ⅰ
 - **3** `Parone Pipe` — melee — e.g. Parone Pipe Ⅰ
 - **3** `Parone Gun` — melee — e.g. Parone Gun Spear Ⅰ
 - **3** `Annihilation` — melee,ranged — e.g. Annihilation Axe
-- **3** `Composer Intro` — melee — e.g. Composer Blade "Intro"
-- **3** `Composer Chorus` — melee — e.g. Composer Blade"Chorus"
-- **3** `Composer Encore` — melee — e.g. Composer Blade"Encore"
-- **3** `Blazing Peak` — melee — e.g. Blazing Peak Blade
-- **3** `Solemn Eyes` — melee,ranged — e.g. Solemn Eyes Sword
+- **3** `Magnetic Field` — melee — e.g. Magnetic Field Katana
+- **3** `Alvora` — melee,ranged — e.g. Alvora Tonfa
 - **3** `Burning Zero Dragon` — melee — e.g. Burning Zero Dragon Horn
 - **3** `Anniversary Chloe` — melee — e.g. Anniversary Chloe Ⅰ
 - **3** `Ex Magnetic Field` — melee — e.g. Ex Magnetic Field Blade
+- **3** `True Ravina` — melee,ranged — e.g. True Ravina Tonfa
+- **3** `Final Ravina` — melee,ranged — e.g. Final Ravina Tonfa
 - **3** `New Shakalaka Airou` — melee — e.g. New Shakalaka Airou I
 - **3** `Just Meat` — melee — e.g. Just Meat Ⅰ
 - **3** `Lolo & Ray Adventure` — melee — e.g. Lolo & Ray Adventure Ⅰ
 - **3** `Lethe Desire` — melee,ranged — e.g. Lethe Axe "Desire"
-- **3** `Layer` — melee — e.g. Layer Edge
 - **3** `Meteor` — ranged — e.g. Meteor Cannon
 - **3** `Blue Kut-Ku` — ranged — e.g. Blue Kut-Ku Cannon
 - **3** `Heart Shot` — ranged — e.g. Heart Shot Bow II
@@ -921,41 +933,33 @@
 - **3** `Regalia` — ranged — e.g. Regalia Ⅰ
 - **3** `Noblesse` — ranged — e.g. Noblesse Ⅰ
 - **3** `Patchin Guuku` — ranged — e.g. Patchin Guuku Ⅰ
-- **3** `True Vola` — ranged — e.g. True Vola Assault
 - **3** `Goru` — ranged — e.g. Goru Cannon Ⅰ
 - **3** `Aru` — ranged — e.g. Aru Cannon Ⅰ
-- **3** `True Chroma` — ranged — e.g. True Chroma Assault
-- **3** `Final Chroma` — ranged — e.g. Final Chroma Assault
 - **3** `Enrapture Arch Intro` — ranged — e.g. Enrapture Arch "Intro"
-- **3** `True Poet` — ranged — e.g. True Poet Assault
-- **3** `Poetry` — ranged — e.g. Poetry Assault
 
-# C（13798）
+# C（13660）
 
 - **2** `Execution` — melee — e.g. Execution
 - **2** `Red Stripe` — melee — e.g. Red Stripe
 - **2** `Diablos` — melee,ranged — e.g. Diablos Sword
+- **2** `War` — melee — e.g. War Hammer
 - **2** `Torment` — melee,ranged — e.g. Torment Hammer
 - **2** `Gigaton` — melee — e.g. Gigaton Hammer
 - **2** `Skull Crush` — melee — e.g. Skull Crush
 - **2** `Breath Core` — melee — e.g. Breath Core Hammer
 - **2** `Knight` — melee — e.g. Knight Lance
 - **2** `Trident` — melee — e.g. Trident
-- **2** `Long` — melee — e.g. Long Horn
-- **2** `Dragonwood` — melee — e.g. Dragonwood Gunlance
 - **2** `Diablo` — melee — e.g. Diablo Horn
 - **2** `Bone Claw` — melee — e.g. Bone Claw Lance
 - **2** `Venom` — melee — e.g. Venom Lance
 - **2** `Stinger` — melee,ranged — e.g. Blade Stinger
 - **2** `Gatling` — melee — e.g. Gatling Lance
 - **2** `Undertaker` — melee — e.g. Undertaker
-- **2** `Dragon` — melee — e.g. Dragon Lance
-- **2** `Demon` — melee — e.g. Demon Lance
+- **2** `Hunting` — melee — e.g. Hunting Dagger
 - **2** `Kirin Bolt` — melee — e.g. Kirin Bolt
 - **2** `Velocidrome Bite` — melee — e.g. Velocidrome Bite
-- **2** `Princess Rapier` — melee — e.g. Princess Rapier
+- **2** `Princess` — melee — e.g. Princess Rapier
 - **2** `Bone Kris` — melee — e.g. Bone Kris
-- **2** `Bone Pick` — melee — e.g. Bone Pick
 - **2** `Djinn` — melee — e.g. Djinn
 - **2** `Monoblos Club` — melee — e.g. Monoblos Club
 - **2** `Raven` — melee — e.g. Raven Blade
@@ -964,21 +968,20 @@
 - **2** `Twin Kut-Ku` — melee — e.g. Twin Kut-Ku
 - **2** `Odyssey` — melee — e.g. Odyssey
 - **2** `Ninja` — melee — e.g. Ninja Sword
+- **2** `Great Demon` — melee — e.g. Great Demon Lance
 - **2** `Twin` — melee — e.g. Twin Dagger
 - **2** `Dual Tomahawk` — melee — e.g. Dual Tomahawk
-- **2** `Bone Scythe` — melee — e.g. Bone Scythe
 - **2** `Cutlass` — melee — e.g. Cutlass
 - **2** `Dual Diablo` — melee — e.g. Dual Diablo
 - **2** `Insector` — melee — e.g. Insector
 - **2** `Teostra` — melee — e.g. Teostra Blade
 - **2** `True Dragon's Jaw` — melee — e.g. True Dragon's Jaw
-- **2** `Scythe of Menace` — melee — e.g. Scythe of Menace
+- **2** `of Menace` — melee — e.g. Scythe of Menace
 - **2** `Plesioth Azureblade` — melee — e.g. Plesioth Azureblade
 - **2** `War Drum` — melee — e.g. War Drum
 - **2** `Sonic Glass` — melee — e.g. Sonic Glass
 - **2** `Sanctioned Gunhammer` — melee — e.g. Sanctioned Gunhammer
 - **2** `Blessed Ocarina` — melee — e.g. Blessed Ocarina
-- **2** `Worn` — melee — e.g. Worn Hammer
 - **2** `Weathered` — melee — e.g. Weathered Hammer
 - **2** `Sanctioned` — melee — e.g. Sanctioned Gunlance
 - **2** `Black Ruiner` — melee — e.g. Black Ruiner Lance
@@ -996,6 +999,7 @@
 - **2** `Steel` — melee,ranged — e.g. Steel Gunlance
 - **2** `Basarios Bash` — melee — e.g. Basarios Bash
 - **2** `King Lobster` — melee,ranged — e.g. King Lobster Hammer
+- **2** `Queen` — melee,ranged — e.g. Queen Rapier
 - **2** `Funky Maracas` — melee — e.g. Funky Maracas
 - **2** `Great Ogre Tusk` — melee — e.g. Great Ogre Tusk
 - **2** `Desert` — melee — e.g. Desert Gunlance
@@ -1012,14 +1016,15 @@
 - **2** `Snake Bite` — melee — e.g. Snake Bite
 - **2** `Wild Boar` — melee — e.g. Wild Boar Lance
 - **2** `Fragrance` — melee — e.g. Fragrance
+- **2** `Primal` — melee — e.g. Primal Spear
 - **2** `Gold Chordmaker` — melee — e.g. Gold Chordmaker
 - **2** `Kut-Ku Sickle` — melee — e.g. Kut-Ku Sickle
 - **2** `Aegis Guard` — melee — e.g. Aegis Guard
+- **2** `Sword` — melee — e.g. Sword Shield
 - **2** `Strengthened Power Saws` — melee — e.g. Strengthened Power Saws
 - **2** `Ferrigoris` — melee — e.g. Ferrigoris
 - **2** `Igniferni` — melee — e.g. Igniferni
 - **2** `Scorcher` — melee — e.g. Scorcher
-- **2** `Hypno` — melee — e.g. Hypno Blade
 - **2** `Narcolepter` — melee — e.g. Narcolepter
 - **2** `Water Slicer` — melee — e.g. Water Slicer
 - **2** `Angry` — melee — e.g. Angry Horn
@@ -1042,6 +1047,7 @@
 - **2** `Glitter` — melee — e.g. Glitter Edge
 - **2** `Battle Gewgaw` — melee — e.g. Battle Gewgaw
 - **2** `Type 32 Machine` — melee — e.g. Type 32 Machine Lance
+- **2** `Demon's Fury` — melee,ranged — e.g. Demon's Fury Rod
 - **2** `Rathalos` — melee — e.g. Rathalos Cannon
 - **2** `Cobalt Lightfang` — melee — e.g. Cobalt Lightfang
 - **2** `Flaxen Lightfang` — melee — e.g. Flaxen Lightfang
@@ -1049,8 +1055,6 @@
 - **2** `Ignis` — melee — e.g. Ignis Sword
 - **2** `Shakalaka` — melee — e.g. Shakalaka Sword
 - **2** `Final Dragstriker` — melee — e.g. Final Dragstriker
-- **2** `Daora Rapier` — melee — e.g. Daora Rapier
-- **2** `Water Rapier` — melee — e.g. Water Rapier
 - **2** `Chocovanilla Cones` — melee — e.g. Chocovanilla Cones
 - **2** `Vanillastrawberry Cones` — melee — e.g. Vanillastrawberry Cones
 - **2** `Chocostrawberry Cones` — melee — e.g. Chocostrawberry Cones
@@ -1079,6 +1083,7 @@
 - **2** `Metal` — melee — e.g. Metal Edge
 - **2** `Genprey Guitar` — melee — e.g. Genprey Guitar
 - **2** `Akantor Spire` — melee — e.g. Akantor Spire
+- **2** `Daimyo` — melee — e.g. Daimyo Sword
 - **2** `Great Tomahawk` — melee — e.g. Great Tomahawk
 - **2** `Snow Falx` — melee — e.g. Snow Falx
 - **2** `Gran Falx` — melee — e.g. Gran Falx
@@ -1088,11 +1093,12 @@
 - **2** `Dormire` — melee — e.g. Dormire Cannon
 - **2** `Twin Blitz` — melee — e.g. Twin Blitz
 - **2** `Twin Pearls` — melee — e.g. Twin Pearls
+- **2** `Rusty` — melee — e.g. Rusty Great Sword
 - **2** `Hina Fes` — melee — e.g. Hina Fes Sword
-- **2** `True Tigrex` — melee — e.g. True Tigrex Horn
 - **2** `Azure Rathalos` — melee — e.g. Azure Rathalos Cannon
 - **2** `Silver Rathalos` — melee — e.g. Silver Rathalos Cannon
-- **2** `Poison Scythe` — melee — e.g. Poison Scythe
+- **2** `Fairy` — melee — e.g. Fairy
+- **2** `Poison` — melee — e.g. Poison Scythe
 - **2** `Vitesse` — melee — e.g. Vitesse
 - **2** `Rampage` — melee,ranged — e.g. Rampage
 - **2** `Igni Spirale` — melee — e.g. Igni Spirale
@@ -1101,17 +1107,19 @@
 - **2** `Warm` — melee — e.g. Warm Edge
 - **2** `Shine` — melee — e.g. Shine Edge
 - **2** `Desire` — melee — e.g. Desire Edge
+- **2** `Spark` — melee — e.g. Spark Mace
+- **2** `Drake` — melee — e.g. Drake Mace
 - **2** `Pawpad` — melee,ranged — e.g. Pawpad Lance
 - **2** `Dark Suzaku` — melee,ranged — e.g. Dark Suzaku Gunlance
 - **2** `Battledore` — melee — e.g. Battledore
 - **2** `Evil Decapitator` — melee — e.g. Evil Decapitator
-- **2** `Shocking Scythe` — melee — e.g. Shocking Scythe
+- **2** `Shocking` — melee — e.g. Shocking Scythe
 - **2** `Scorching Flame` — melee — e.g. Scorching Flame
-- **2** `Dragon Scythe` — melee — e.g. Dragon Scythe
 - **2** `Animal Cutter` — melee — e.g. Animal Cutter
 - **2** `Steel Slicer` — melee — e.g. Steel Slicer
 - **2** `Fang Gryphon` — melee — e.g. Fang Gryphon C
 - **2** `Sageo` — melee — e.g. Sageo Sword
+- **2** `Candy` — melee — e.g. Candy Stick
 - **2** `Adamas` — melee,ranged — e.g. Adamas Lance
 - **2** `Elkie` — melee — e.g. Elkie Lance
 - **2** `Isuki` — melee — e.g. Isuki Lance
@@ -1128,6 +1136,7 @@
 - **2** `Conehead Stamp` — melee — e.g. Conehead Stamp "White"
 - **2** `Conehead Strike` — melee — e.g. Conehead Strike "White"
 - **2** `Conehead Smasher` — melee — e.g. Conehead Smasher "White"
+- **2** `Shinning` — melee — e.g. Shinning Mallet
 - **2** `Hypno Mecha EX` — melee — e.g. Hypno Mecha EX
 - **2** `Gentle` — melee — e.g. Gentle Edge
 - **2** `Magma` — melee — e.g. Magma Edge
@@ -1138,6 +1147,11 @@
 - **2** `Barell Organ` — melee — e.g. Barell Organ
 - **2** `True Full Organ` — melee — e.g. True Full Organ
 - **2** `Taikun Peony` — melee — e.g. Taikun Spear "Peony"
+- **2** `Hadean Infernal` — melee — e.g. Hadean Blade "Infernal"
+- **2** `Hadean River` — melee — e.g. Hadean Blade "River"
+- **2** `Hadean Thunder` — melee — e.g. Hadean Blade "Thunder"
+- **2** `Hadean Imperial` — melee — e.g. Hadean Blade "Imperial"
+- **2** `Hadean Glacier` — melee — e.g. Hadean Blade "Glacier"
 - **2** `Akira` — melee — e.g. Akira
 - **2** `Square Flame` — melee — e.g. Square Flame Blade
 - **2** `Square` — melee — e.g. Square Blade
@@ -1171,8 +1185,9 @@
 - **2** `F623 ネオエクレルベータ` — melee — e.g. F623・ネオエクレルベータ
 - **2** `Stauro` — melee — e.g. Stauro Sword
 - **2** `Rondu` — melee — e.g. Rondu Sword
+- **2** `Claus` — melee — e.g. Claus Hammer
+- **2** `Runt` — melee — e.g. Runt Hammer
 - **2** `G-TUNE` — melee — e.g. G-TUNE Sword
-- **2** `Gold` — melee — e.g. Gold Blade
 - **2** `Brilliant Crimson` — melee — e.g. Brilliant Crimson Blade
 - **2** `Blos Fear` — melee,ranged — e.g. Blos Fear Horn
 - **2** `Thunder Destroyers` — melee — e.g. Thunder Destroyers+
@@ -1187,10 +1202,11 @@
 - **2** `Twin Monarch Swords` — melee — e.g. Twin Monarch Swords
 - **2** `Grayble` — melee — e.g. Grayble G Knife
 - **2** `Absolute` — melee — e.g. Absolute Sword
-- **2** `Crimson Demon Tonfa` — melee — e.g. Crimson Demon Tonfa
+- **2** `Crimson Demon` — melee — e.g. Crimson Demon Tonfa
 - **2** `Crimson Ruiner` — melee — e.g. Crimson Ruiner Sword
 - **2** `Thermae Romae` — melee — e.g. Thermae Romae Ⅱ
 - **2** `Golddust Tornado` — melee,ranged — e.g. Golddust Tornado Blade
+- **2** `Golddust Gale` — melee — e.g. Golddust Gale Blade
 - **2** `Golddust Tempest` — melee,ranged — e.g. Golddust Tempest Hammer
 - **2** `Engetsuto Thunder` — melee — e.g. Engetsuto "Thunder" Ⅰ
 - **2** `Frosch` — melee — e.g. Frosch Ⅰ
@@ -1214,13 +1230,14 @@
 - **2** `Emperor Ice` — melee — e.g. Emperor Ice Blade
 - **2** `ExEmperor Ice King` — melee — e.g. ExEmperor Ice King Blade
 - **2** `Dark Ice` — melee — e.g. Dark Ice Blade
+- **2** `Raijin Vision` — melee — e.g. Raijin Tonfa "Vision"
 - **2** `Brimstren Drakescale` — melee — e.g. Brimstren Drakescale
 - **2** `Brimstren Drakeclaws` — melee — e.g. Brimstren Drakeclaws
 - **2** `Brimstren Drakepride` — melee — e.g. Brimstren Drakepride
 - **2** `Rubino Ende` — melee — e.g. Rubino Ende Ⅰ
 - **2** `Steel Ende` — melee — e.g. Steel Ende Ⅰ
-- **2** `Magnetic Field` — melee — e.g. Magnetic Field Katana
 - **2** `Feather Crow` — melee,ranged — e.g. Feather Crow
+- **2** `Composer Solo` — melee — e.g. Composer Tonfa "Solo"
 - **2** `Tio Tio` — melee — e.g. Tio Tio
 - **2** `Ex Dark Ice King` — melee — e.g. Ex Dark Ice King Blade
 - **2** `Vola Axt` — melee — e.g. Vola Axt
@@ -1232,7 +1249,6 @@
 - **2** `Vola Rapper` — melee — e.g. Vola Rapper
 - **2** `Vola Lanze` — melee — e.g. Vola Lanze
 - **2** `Vola Lancia` — melee — e.g. Vola Lancia
-- **2** `Vola Tonfa` — melee — e.g. Vola Tonfa
 - **2** `Torag Canso` — melee — e.g. Torag・Canso
 - **2** `Serisui Canso` — melee — e.g. Serisui・Canso
 - **2** `Beast Lord` — melee — e.g. Beast Lord Ⅳ
@@ -1241,6 +1257,7 @@
 - **2** `Gogomoa Plush` — melee — e.g. Gogomoa Plush I
 - **2** `Flaming Fuel` — melee — e.g. Flaming Fuel Hammer
 - **2** `Prayer Shot Finale` — melee,ranged — e.g. Prayer Shot "Finale"
+- **2** `Prayer Solo` — melee — e.g. Prayer Tonfas "Solo"
 - **2** `Azura Epee` — melee — e.g. Azura Epee
 - **2** `Azura Klinge` — melee — e.g. Azura Klinge
 - **2** `Azura Rapper` — melee — e.g. Azura Rapper
@@ -1260,7 +1277,7 @@
 - **2** `Azura Marteau` — melee — e.g. Azura Marteau
 - **2** `Azura Alma` — melee — e.g. Azura Alma
 - **2** `Azura Lancia` — melee — e.g. Azura Lancia
-- **2** `Azura Tonfa` — melee — e.g. Azura Tonfa
+- **2** `Azura` — melee — e.g. Azura Tonfa
 - **2** `Rubersaber` — melee — e.g. Rubersaber
 - **2** `Ruberdouble` — melee — e.g. Ruberdouble
 - **2** `Rubergian` — melee — e.g. Rubergian
@@ -1280,6 +1297,7 @@
 - **2** `Ravina Alma` — melee — e.g. Ravina Alma
 - **2** `Ravina Rapper` — melee — e.g. Ravina Rapper
 - **2** `Ravina Lancia` — melee — e.g. Ravina Lancia
+- **2** `Recital Solo` — melee — e.g. Recital Tonfa "Solo"
 - **2** `Dua Zwilling` — melee — e.g. Dua Zwilling
 - **2** `Dua Faust` — melee — e.g. Dua Faust
 - **2** `Dua Beil` — melee — e.g. Dua Beil
@@ -1299,7 +1317,6 @@
 - **2** `Chroma Rapper` — melee — e.g. Chroma Rapper
 - **2** `Chroma Lanze` — melee — e.g. Chroma Lanze
 - **2** `Chroma Lancia` — melee — e.g. Chroma Lancia
-- **2** `Chroma Tonfa` — melee — e.g. Chroma Tonfa
 - **2** `Chroma Axt` — melee — e.g. Chroma Axt
 - **2** `Poet Epee` — melee — e.g. Poet Epee
 - **2** `Poet Twin` — melee — e.g. Poet Twin
@@ -1309,7 +1326,6 @@
 - **2** `Poet Rapper` — melee — e.g. Poet Rapper
 - **2** `Poet Lanze` — melee — e.g. Poet Lanze
 - **2** `Poet Lancia` — melee — e.g. Poet Lancia
-- **2** `Poet Tonfa` — melee — e.g. Poet Tonfa
 - **2** `Poet Axt` — melee — e.g. Poet Axt
 - **2** `Poet Pillar` — melee — e.g. Poet Pillar
 - **2** `Gray Hein` — melee,ranged — e.g. Gray Hein
@@ -1368,14 +1384,11 @@
 - **2** `Ice Monarch` — ranged — e.g. Ice Monarch
 - **2** `Dark Ice Rifle` — ranged — e.g. Dark Ice Rifle
 - **2** `Dark Ice King Rifle` — ranged — e.g. Dark Ice King Rifle
-- **2** `Alvora` — ranged — e.g. Alvora Assault
 - **2** `Prayer Arch Chorus` — ranged — e.g. Prayer Arch "Chorus"
 - **2** `Ruberbaru` — ranged — e.g. Ruberbaru
 - **2** `Terra Ruberfusier` — ranged — e.g. Terra Ruberfusier
 - **2** `Ruberfusier` — ranged — e.g. Ruberfusier
 - **2** `Ruberarc` — ranged — e.g. Ruberarc
-- **2** `True Ravina` — ranged — e.g. True Ravina Assault
-- **2** `Final Ravina` — ranged — e.g. Final Ravina Assault
 - **2** `Ravina Burst` — ranged — e.g. Ravina Burst
 - **2** `Dua` — ranged — e.g. Dua Bowgun
 - **2** `Dua Gewehr` — ranged — e.g. Dua Gewehr
@@ -1396,7 +1409,6 @@
 - **1** `Halberd` — melee — e.g. Halberd
 - **1** `Wyvern Leaf` — melee — e.g. Wyvern Blade "Leaf"
 - **1** `Judgment` — melee — e.g. Judgment
-- **1** `Dark Scythe` — melee — e.g. Dark Scythe
 - **1** `Dark Torment` — melee — e.g. Dark Torment
 - **1** `Jawblade` — melee — e.g. Jawblade
 - **1** `Black Mk.Ⅲ` — melee — e.g. Black Katana Mk.Ⅲ
@@ -1415,13 +1427,10 @@
 - **1** `Tarnished G-` — melee — e.g. Tarnished G-Sword
 - **1** `Blue Claw` — melee — e.g. Blue Claw Blade
 - **1** `Ancient` — melee — e.g. Ancient Blade
-- **1** `Dragonwood L.` — melee — e.g. Dragonwood L.Sword
 - **1** `Fire Dragonsword` — melee — e.g. Fire Dragonsword
 - **1** `Red Dragonsword` — melee — e.g. Red Dragonsword
 - **1** `Azure Serpentblade` — melee — e.g. Azure Serpentblade
 - **1** `Vile Serpentblade` — melee — e.g. Vile Serpentblade
-- **1** `War` — melee — e.g. War Hammer
-- **1** `War Mace` — melee — e.g. War Mace
 - **1** `Iron Striker` — melee — e.g. Iron Striker
 - **1** `Blue Head` — melee — e.g. Blue Head Hammer
 - **1** `Twin Blos` — melee — e.g. Twin Blos Hammer
@@ -1443,8 +1452,7 @@
 - **1** `Basarios Blow` — melee — e.g. Basarios Blow
 - **1** `Blos Tail` — melee — e.g. Blos Tail
 - **1** `Jail` — melee — e.g. Jail Hammer
-- **1** `Jadeite Mace` — melee — e.g. Jadeite Mace
-- **1** `Jade Mace` — melee — e.g. Jade Mace
+- **1** `Jadeite` — melee — e.g. Jadeite Mace
 - **1** `Proto Gun` — melee — e.g. Proto Gun Hammer
 - **1** `Deadly Revolver` — melee — e.g. Deadly Revolver
 - **1** `Bone Clump` — melee — e.g. Bone Clump
@@ -1465,6 +1473,7 @@
 - **1** `Luna's Howl` — melee — e.g. Luna's Howl
 - **1** `Luna's Roar` — melee — e.g. Luna's Roar
 - **1** `Lullaby` — melee — e.g. Lullaby Spear
+- **1** `Long` — melee — e.g. Long Horn
 - **1** `Long Tusk` — melee — e.g. Long Tusk
 - **1** `Barbarian Tusk` — melee — e.g. Barbarian Tusk
 - **1** `Hellsting` — melee — e.g. Hellsting
@@ -1509,24 +1518,22 @@
 - **1** `Eternal Annihilator` — melee — e.g. Eternal Annihilator
 - **1** `Finishing` — melee — e.g. Finishing Hammer
 - **1** `Onslaught` — melee — e.g. Onslaught Hammer
-- **1** `Binder Mace` — melee — e.g. Binder Mace
+- **1** `Binder` — melee — e.g. Binder Mace
 - **1** `Fist of Fury` — melee — e.g. Fist of Fury
 - **1** `Grayburg Javelin` — melee — e.g. Grayburg Javelin
 - **1** `Requiem` — melee — e.g. Requiem Spear
 - **1** `Corona` — melee — e.g. Corona
 - **1** `Teddybear` — melee — e.g. Teddybear
 - **1** `Estoc` — melee — e.g. Estoc
-- **1** `Demon Rod` — melee — e.g. Demon Rod
 - **1** `Siegmund` — melee — e.g. Siegmund
 - **1** `Frozen Tuna` — melee — e.g. Frozen Tuna
-- **1** `Great Demon` — melee — e.g. Great Demon Lance
 - **1** `Valhalla` — melee — e.g. Valhalla
 - **1** `Native` — melee — e.g. Native Spear
 - **1** `Hi Twin Daggers` — melee — e.g. Hi Twin Daggers
 - **1** `Hurricane` — melee — e.g. Hurricane
 - **1** `Pink Maracas` — melee — e.g. Pink Maracas
 - **1** `Cyclone` — melee — e.g. Cyclone
-- **1** `Order Rapier` — melee — e.g. Order Rapier
+- **1** `Order` — melee — e.g. Order Rapier
 - **1** `Raven Tessen` — melee — e.g. Raven Tessen
 - **1** `Holy Saber` — melee — e.g. Holy Saber
 - **1** `Prototype Saw-Slicer` — melee — e.g. Prototype Saw-Slicer
@@ -1541,7 +1548,6 @@
 - **1** `Shiny Rathalos` — melee — e.g. Shiny Rathalos Sword
 - **1** `Torment Purgatory` — melee — e.g. Torment "Purgatory"
 - **1** `White Disaster` — melee — e.g. White Disaster
-- **1** `Crimson Scythe` — melee — e.g. Crimson Scythe
 - **1** `White Mantis` — melee — e.g. White Mantis
 - **1** `Sentoryu Raven` — melee — e.g. Sentoryu Raven
 - **1** `Saber` — melee — e.g. Saber
@@ -1557,7 +1563,6 @@
 - **1** `Devil Slicer` — melee — e.g. Devil Slicer
 - **1** `Chrome Death Razor` — melee — e.g. Chrome Death Razor
 - **1** `Eternal Eradicator` — melee — e.g. Eternal Eradicator
-- **1** `Worn Greatsword` — melee — e.g. Worn Greatsword
 - **1** `Weathered Great Swd` — melee — e.g. Weathered Great Swd
 - **1** `Crab Cutter` — melee — e.g. Crab Cutter
 - **1** `Epitaph` — melee — e.g. Epitaph Blade
@@ -1566,7 +1571,6 @@
 - **1** `War Basher` — melee — e.g. War Basher
 - **1** `Metal Bagpipe` — melee — e.g. Metal Bagpipe
 - **1** `Dragon Demolisher` — melee — e.g. Dragon Demolisher
-- **1** `Kut-Ku Pick` — melee — e.g. Kut-Ku Pick
 - **1** `Great Nova` — melee — e.g. Great Nova
 - **1** `Pulsating Core` — melee — e.g. Pulsating Core
 - **1** `War Bongo` — melee — e.g. War Bongo
@@ -1610,13 +1614,12 @@
 - **1** `Rusty Claymore` — melee — e.g. Rusty Claymore
 - **1** `Grind Claymore` — melee — e.g. Grind Claymore
 - **1** `Chicken Decapitator` — melee — e.g. Chicken Decapitator
-- **1** `Great Demon Rod` — melee — e.g. Great Demon Rod
 - **1** `Kirin Thundersword` — melee — e.g. Kirin Thundersword
 - **1** `Kirin Bolts` — melee — e.g. Kirin Bolts
 - **1** `Susano` — melee — e.g. Susano Blade
 - **1** `Wyvern Verde` — melee — e.g. Wyvern Blade "Verde"
 - **1** `Lion King Saber` — melee — e.g. Lion King Saber
-- **1** `Monoblos Scythe` — melee — e.g. Monoblos Scythe
+- **1** `Monoblos` — melee — e.g. Monoblos Scythe
 - **1** `Frost Ripper` — melee — e.g. Frost Ripper
 - **1** `Dragonwood Godblade` — melee — e.g. Dragonwood Godblade
 - **1** `Wyvern Maple` — melee — e.g. Wyvern Blade "Maple"
@@ -1633,7 +1636,7 @@
 - **1** `Great Scissor` — melee — e.g. Great Scissor
 - **1** `King Thundersword` — melee — e.g. King Thundersword
 - **1** `Doara's Decimator` — melee — e.g. Doara's Decimator
-- **1** `Killer's Scythe` — melee — e.g. Killer's Scythe
+- **1** `Killer's` — melee — e.g. Killer's Scythe
 - **1** `Sentoryu Wolf` — melee — e.g. Sentoryu Wolf
 - **1** `Rooster Decapitator` — melee — e.g. Rooster Decapitator
 - **1** `Diablo Destroyer` — melee — e.g. Diablo Destroyer
@@ -1662,7 +1665,6 @@
 - **1** `Eternal Instant` — melee — e.g. Eternal Instant
 - **1** `Strategic` — melee — e.g. Strategic Blade
 - **1** `Black Doom Flame` — melee — e.g. Black Doom Flame
-- **1** `Queen Rapier` — melee — e.g. Queen Rapier
 - **1** `Daora's Razor` — melee — e.g. Daora's Razor
 - **1** `Hi Frost` — melee — e.g. Hi Frost Edge
 - **1** `Azure Ogre` — melee — e.g. Azure Ogre Sword
@@ -1694,11 +1696,8 @@
 - **1** `Centenarian` — melee — e.g. Centenarian Dagger
 - **1** `Crimson Beta` — melee — e.g. Crimson Beta Knife
 - **1** `Azure Beta` — melee — e.g. Azure Beta Knife
-- **1** `Acorn Stick` — melee — e.g. Acorn Stick
-- **1** `Crystal Great` — melee — e.g. Crystal Great Sword
 - **1** `Inclusion` — melee — e.g. Inclusion
 - **1** `Flawless` — melee — e.g. Flawless
-- **1** `Acorn Rod` — melee — e.g. Acorn Rod
 - **1** `Fairness` — melee — e.g. Fairness
 - **1** `Earth Pulse` — melee — e.g. Earth Pulse
 - **1** `Earth Breeze` — melee — e.g. Earth Breeze
@@ -1744,8 +1743,7 @@
 - **1** `Naag Serpentblade` — melee — e.g. Naag Serpentblade
 - **1** `Devta Serpentblade` — melee — e.g. Devta Serpentblade
 - **1** `Noble Fragrance` — melee — e.g. Noble Fragrance
-- **1** `Primal` — melee — e.g. Primal Spear
-- **1** `Vacuum Stick` — melee — e.g. Vacuum Stick
+- **1** `Vacuum` — melee — e.g. Vacuum Stick
 - **1** `Hyper Vacuum` — melee — e.g. Hyper Vacuum
 - **1** `Enormous Ham` — melee — e.g. Enormous Ham
 - **1** `Ham of Hams` — melee — e.g. Ham of Hams
@@ -1759,13 +1757,14 @@
 - **1** `Kut-Ku Fury` — melee — e.g. Kut-Ku Fury
 - **1** `Draguetta` — melee — e.g. Draguetta
 - **1** `Unietta` — melee — e.g. Unietta
-- **1** `Aegis Shield` — melee — e.g. Aegis Shield
+- **1** `Aegis` — melee — e.g. Aegis Shield
 - **1** `Aegis Breath` — melee — e.g. Aegis Breath
 - **1** `Gran` — melee — e.g. Gran Blade
 - **1** `Super Cat Paw` — melee — e.g. Super Cat Paw
 - **1** `Satan's Battleaxe` — melee — e.g. Satan's Battleaxe
 - **1** `Felfire Battleaxe` — melee — e.g. Felfire Battleaxe
-- **1** `Invisible Shield` — melee — e.g. Invisible Shield
+- **1** `Edge` — melee — e.g. Edge Shield
+- **1** `Invisible` — melee — e.g. Invisible Shield
 - **1** `Ninja Shadow` — melee — e.g. Ninja Sword "Shadow"
 - **1** `Ninja Patience` — melee — e.g. Ninja Sword "Patience"
 - **1** `Plesioth Sabers` — melee — e.g. Plesioth Sabers
@@ -1832,7 +1831,7 @@
 - **1** `Genprey Balloon` — melee — e.g. Genprey Balloon
 - **1** `Ioprey Balloon` — melee — e.g. Ioprey Balloon
 - **1** `Rex Talon` — melee — e.g. Rex Talon
-- **1** `Mighty Emperor's Rod` — melee — e.g. Mighty Emperor's Rod
+- **1** `Mighty Emperor's` — melee — e.g. Mighty Emperor's Rod
 - **1** `Rex Slicers` — melee — e.g. Rex Slicers
 - **1** `Akantor Blades` — melee — e.g. Akantor Blades
 - **1** `Les Hecate` — melee — e.g. Les Hecate
@@ -1843,7 +1842,6 @@
 - **1** `Twin Blazing Blades` — melee — e.g. Twin Blazing Blades
 - **1** `Twin Hazy Fireblades` — melee — e.g. Twin Hazy Fireblades
 - **1** `Tiger Jawblade` — melee — e.g. Tiger Jawblade
-- **1** `Tigrex Greatsword` — melee — e.g. Tigrex Greatsword
 - **1** `Bronze Hobby` — melee — e.g. Bronze Hobby
 - **1** `Gaoren's Hobby` — melee — e.g. Gaoren's Hobby
 - **1** `Tigrex Tooth` — melee — e.g. Tigrex Tooth
@@ -1983,15 +1981,14 @@
 - **1** `Quartz` — melee — e.g. Quartz Lance
 - **1** `Precious` — melee — e.g. Precious Lance
 - **1** `Eberstein` — melee — e.g. Eberstein
-- **1** `Bishop Dawn Staff` — melee — e.g. Bishop Dawn Staff
-- **1** `Shining Heaven Staff` — melee — e.g. Shining Heaven Staff
+- **1** `Bishop Dawn` — melee — e.g. Bishop Dawn Staff
+- **1** `Shining Heaven` — melee — e.g. Shining Heaven Staff
 - **1** `Diamond Dust` — melee — e.g. Diamond Dust
 - **1** `Gunspear Garu-Ku` — melee — e.g. Gunspear Garu-Ku
 - **1** `Wonder Gunspear Garu-ku` — melee — e.g. Wonder Gunspear Garu-ku
 - **1** `Grizzly` — melee — e.g. Grizzly Gunlance
 - **1** `Type 0 Fairness` — melee — e.g. Type 0 Fairness
 - **1** `Type 100 Fairness` — melee — e.g. Type 100 Fairness
-- **1** `Acorn` — melee — e.g. Acorn Blade
 - **1** `Shining Emperor` — melee — e.g. Shining Emperor Blade
 - **1** `Feather Shaver` — melee — e.g. Feather Shaver
 - **1** `Our Blue Ogre` — melee — e.g. Our Blue Ogre Sword
@@ -2109,15 +2106,14 @@
 - **1** `Great Odyssey` — melee — e.g. Great Odyssey
 - **1** `Menbou` — melee — e.g. Menbou+
 - **1** `Scarlet Menbou` — melee — e.g. Scarlet Menbou
-- **1** `Binding Mace` — melee — e.g. Binding Mace
-- **1** `Revised Bndg Mace` — melee — e.g. Revised Bndg Mace
-- **1** `True Binding Mace` — melee — e.g. True Binding Mace
-- **1** `Ascended Bndg Mace` — melee — e.g. Ascended Bndg Mace
+- **1** `Binding` — melee — e.g. Binding Mace
+- **1** `Revised Bndg` — melee — e.g. Revised Bndg Mace
+- **1** `True Binding` — melee — e.g. True Binding Mace
+- **1** `Ascended Bndg` — melee — e.g. Ascended Bndg Mace
 - **1** `Gorm Goine` — melee — e.g. Gorm Goine
 - **1** `Claiomh Solais` — melee — e.g. Claiomh Solais
-- **1** `Demon's Small Rod` — melee — e.g. Demon's Small Rod
-- **1** `Demon's Wondrous Rod` — melee — e.g. Demon's Wondrous Rod
-- **1** `Demon's Fury Rod` — melee — e.g. Demon's Fury Rod
+- **1** `Demon's Small` — melee — e.g. Demon's Small Rod
+- **1** `Demon's Wondrous` — melee — e.g. Demon's Wondrous Rod
 - **1** `Hauteclaire` — melee — e.g. Hauteclaire
 - **1** `Aymur` — melee — e.g. Aymur
 - **1** `Vashimu Slicers` — melee — e.g. Vashimu Slicers
@@ -2135,11 +2131,11 @@
 - **1** `Kurtz Bernstein` — melee — e.g. Kurtz Bernstein
 - **1** `Kurtzdrachen Gesicht` — melee — e.g. Kurtzdrachen Gesicht
 - **1** `Emperor's Thunderblade` — melee — e.g. Emperor's Thunderblade
-- **1** `Black Crystal Greatsword` — melee — e.g. Black Crystal Greatsword
+- **1** `Black Crystal` — melee — e.g. Black Crystal Greatsword
 - **1** `Crystal Blackblade` — melee — e.g. Crystal Blackblade
 - **1** `Flawless Onyxblade` — melee — e.g. Flawless Onyxblade
 - **1** `Oscura Cristal Flores` — melee — e.g. Oscura Cristal Flores
-- **1** `White Crystal Greatsword` — melee — e.g. White Crystal Greatsword
+- **1** `White Crystal` — melee — e.g. White Crystal Greatsword
 - **1** `Crystal Honorem` — melee — e.g. Crystal Honorem
 - **1** `Flawless Quartzblade` — melee — e.g. Flawless Quartzblade
 - **1** `Pura Cristal Flores` — melee — e.g. Pura Cristal Flores
@@ -2271,9 +2267,6 @@
 - **1** `Tri` — melee — e.g. Tri Gunlance
 - **1** `Tri Fire` — melee — e.g. Tri Fire
 - **1** `Dragonbone` — melee — e.g. Dragonbone Gunlance
-- **1** `and Shield` — melee — e.g. Sword and Shield
-- **1** `Dual Swords` — melee — e.g. Dual Swords
-- **1** `Great` — melee — e.g. Great Sword
 - **1** `Falcon Thunder` — melee — e.g. Falcon Thunder Sword
 - **1** `Luan` — melee — e.g. Luan Sword
 - **1** `Eagle Thunder` — melee — e.g. Eagle Thunder Blade
@@ -2452,9 +2445,8 @@
 - **1** `Hvy Conquerer Rageaxe` — melee — e.g. Hvy Conquerer Rageaxe
 - **1** `Hvy Emperor Greataxe` — melee — e.g. Hvy Emperor Greataxe
 - **1** `Daora's Mistral` — melee — e.g. Daora's Mistral
-- **1** `Prototype Fishing Rod` — melee — e.g. Prototype Fishing Rod
-- **1** `Fine Fishing Rod` — melee — e.g. Fine Fishing Rod
-- **1** `Honed Fishing Rod` — melee — e.g. Honed Fishing Rod
+- **1** `Fine` — melee — e.g. Fine Fishing Rod
+- **1** `Honed` — melee — e.g. Honed Fishing Rod
 - **1** `Master Angler` — melee — e.g. Master Angler
 - **1** `Save the Queen` — melee — e.g. Save the Queen
 - **1** `Arondight` — melee — e.g. Arondight
@@ -2565,7 +2557,6 @@
 - **1** `Ideals Realized` — melee — e.g. Ideals Realized
 - **1** `All for One` — melee — e.g. All for One
 - **1** `Don Kukuri` — melee — e.g. Don Kukuri
-- **1** `Dodon Rapier` — melee — e.g. Dodon Rapier
 - **1** `Spectacular Kalinga` — melee — e.g. Spectacular Kalinga
 - **1** `Dragon Ghostblade` — melee — e.g. Dragon Ghostblade
 - **1** `Flamberge` — melee — e.g. Flamberge
@@ -2621,16 +2612,14 @@
 - **1** `Don Slash` — melee — e.g. Don Slash
 - **1** `Don Shaver` — melee — e.g. Don Shaver
 - **1** `Karmic Fire Dragonsword` — melee — e.g. Karmic Fire Dragonsword
-- **1** `Scythe of Terror` — melee — e.g. Scythe of Terror
+- **1** `of Terror` — melee — e.g. Scythe of Terror
 - **1** `Gloria Vesta` — melee — e.g. Gloria Vesta
 - **1** `Nebra Malleus` — melee — e.g. Nebra Malleus
 - **1** `Nebra Lapis` — melee — e.g. Nebra Lapis
 - **1** `Cactus Breaker` — melee — e.g. Cactus Breaker
 - **1** `Death Venom Head` — melee — e.g. Death Venom Head
-- **1** `Eques Mace` — melee — e.g. Eques Mace
 - **1** `Eques Impact` — melee — e.g. Eques Impact
 - **1** `Weiss Gebet` — melee — e.g. Weiss Gebet
-- **1** `Strega Mace` — melee — e.g. Strega Mace
 - **1** `Strega Impact` — melee — e.g. Strega Impact
 - **1** `Schwartz Gebet` — melee — e.g. Schwartz Gebet
 - **1** `Gilded Serum` — melee — e.g. Gilded Serum
@@ -2669,7 +2658,6 @@
 - **1** `Bakuen` — melee — e.g. Bakuen Katana
 - **1** `Albino Snake` — melee — e.g. Albino Snake
 - **1** `Gold Slasher` — melee — e.g. Gold Slasher
-- **1** `Hypno Rod` — melee — e.g. Hypno Rod
 - **1** `Hypno Marionette` — melee — e.g. Hypno Marionette
 - **1** `Mecha Hypno` — melee — e.g. Mecha Hypno
 - **1** `Super Mecha Hypno` — melee — e.g. Super Mecha Hypno
@@ -2782,8 +2770,8 @@
 - **1** `Shikumo` — melee — e.g. Shikumo
 - **1** `Murakumo` — melee — e.g. Murakumo
 - **1** `King Crab` — melee — e.g. King Crab Sword
-- **1** `Daimyo` — melee — e.g. Daimyo Sword
 - **1** `Aegis Force` — melee — e.g. Aegis Force
+- **1** `Blade` — melee — e.g. Blade Shield
 - **1** `Queen Gold` — melee — e.g. Queen Gold
 - **1** `Cutter` — melee — e.g. Cutter
 - **1** `Slicer` — melee — e.g. Slicer
@@ -2804,10 +2792,10 @@
 - **1** `Velocidrome` — melee — e.g. Velocidrome Claws
 - **1** `Acid Wrencher` — melee — e.g. Acid Wrencher
 - **1** `Storm Raid` — melee — e.g. Storm Raid
-- **1** `Getsurin Greatsword` — melee — e.g. Getsurin Greatsword
-- **1** `Getsuei Greatsword` — melee — e.g. Getsuei Greatsword
-- **1** `Gekkou Greatsword` — melee — e.g. Gekkou Greatsword
-- **1** `Tsukuyomi Greatsword` — melee — e.g. Tsukuyomi Greatsword
+- **1** `Getsurin` — melee — e.g. Getsurin Greatsword
+- **1** `Getsuei` — melee — e.g. Getsuei Greatsword
+- **1** `Gekkou` — melee — e.g. Gekkou Greatsword
+- **1** `Tsukuyomi` — melee — e.g. Tsukuyomi Greatsword
 - **1** `Brynhildr` — melee — e.g. Brynhildr
 - **1** `Siegfried` — melee — e.g. Siegfried
 - **1** `Extreme Drgn Eradicator` — melee — e.g. Extreme Drgn Eradicator
@@ -2962,7 +2950,6 @@
 - **1** `Marine Scissor` — melee — e.g. Marine Scissor
 - **1** `Genocide Razor` — melee — e.g. Genocide Razor
 - **1** `Dragon Jawblade` — melee — e.g. Dragon Jawblade
-- **1** `Rusty Great` — melee — e.g. Rusty Great Sword
 - **1** `Jewel` — melee — e.g. Jewel Blade
 - **1** `Pime` — melee — e.g. Pime Blade
 - **1** `Treasure` — melee — e.g. Treasure Blade
@@ -2990,18 +2977,17 @@
 - **1** `Lightning Thorn` — melee — e.g. Lightning Thorn
 - **1** `Horrid Nocturne` — melee — e.g. Horrid Nocturne
 - **1** `Great Schnitte` — melee — e.g. Great Schnitte
-- **1** `Daimyo Scythe` — melee — e.g. Daimyo Scythe
 - **1** `Wyvern Crimson` — melee — e.g. Wyvern Blade "Crimson"
-- **1** `Death Blos Scythe` — melee — e.g. Death Blos Scythe
+- **1** `Death Blos` — melee — e.g. Death Blos Scythe
 - **1** `Ecdysis` — melee — e.g. Ecdysis
 - **1** `Pure Rock` — melee — e.g. Pure Rock
 - **1** `Spirit Rock` — melee — e.g. Spirit Rock Sword
 - **1** `Genbu Rock` — melee — e.g. Genbu Rock Sword
 - **1** `True Hina Fes` — melee — e.g. True Hina Fes Sword
 - **1** `Hina Fest Lover` — melee — e.g. Hina Fest Lover
-- **1** `Rarest Scythe` — melee — e.g. Rarest Scythe
-- **1** `Eresh Scythe` — melee — e.g. Eresh Scythe
-- **1** `Mol Scythe` — melee — e.g. Mol Scythe
+- **1** `Rarest` — melee — e.g. Rarest Scythe
+- **1** `Eresh` — melee — e.g. Eresh Scythe
+- **1** `Mol` — melee — e.g. Mol Scythe
 - **1** `Walkure` — melee — e.g. Walkure
 - **1** `Lightsword` — melee — e.g. Lightsword
 - **1** `Dawnsword` — melee — e.g. Dawnsword
@@ -3063,7 +3049,6 @@
 - **1** `Scorched Sky` — melee — e.g. Scorched Sky Cannon
 - **1** `Silver Wrath` — melee — e.g. Silver Wrath Cannon
 - **1** `Heavens Aflame` — melee — e.g. Heavens Aflame Cannon
-- **1** `Fairy` — melee — e.g. Fairy
 - **1** `Type 0 Fairy` — melee — e.g. Type 0 Fairy
 - **1** `Type 100 Fairy` — melee — e.g. Type 100 Fairy
 - **1** `True Fairy` — melee — e.g. True Fairy
@@ -3111,7 +3096,6 @@
 - **1** `Blackbound Strongaxe` — melee — e.g. Blackbound Strongaxe
 - **1** `Blackbound Rageaxe` — melee — e.g. Blackbound Rageaxe
 - **1** `Black Emperor Greataxe` — melee — e.g. Black Emperor Greataxe
-- **1** `True Tigrex Greatsword` — melee — e.g. True Tigrex Greatsword
 - **1** `Grome Baron` — melee — e.g. Grome Baron
 - **1** `Grome Marquis` — melee — e.g. Grome Marquis
 - **1** `Grome Duke` — melee — e.g. Grome Duke
@@ -3125,8 +3109,8 @@
 - **1** `Imperial Blaze` — melee — e.g. Imperial Sword "Blaze"
 - **1** `Imperial Scorch` — melee — e.g. Imperial Sword "Scorch"
 - **1** `Royal` — melee — e.g. Royal Sword
-- **1** `Mad Scythe` — melee — e.g. Mad Scythe
-- **1** `Miedo Scythe` — melee — e.g. Miedo Scythe
+- **1** `Mad` — melee — e.g. Mad Scythe
+- **1** `Miedo` — melee — e.g. Miedo Scythe
 - **1** `Unmatched Slicer` — melee — e.g. Unmatched Slicer
 - **1** `Dusk Slicer` — melee — e.g. Dusk Slicer
 - **1** `Autumn Slicer` — melee — e.g. Autumn Slicer
@@ -3281,10 +3265,9 @@
 - **1** `Dark Owl` — melee — e.g. Dark Owl Hammer
 - **1** `Dark Raven` — melee — e.g. Dark Raven Hammer
 - **1** `Dark Yatagarasu` — melee — e.g. Dark Yatagarasu Hammer
-- **1** `Blaze Mallet` — melee — e.g. Blaze Mallet
-- **1** `Firelight Mallet` — melee — e.g. Firelight Mallet
-- **1** `Incandescent Mallet` — melee — e.g. Incandescent Mallet
-- **1** `Hellfire Mallet` — melee — e.g. Hellfire Mallet
+- **1** `Firelight` — melee — e.g. Firelight Mallet
+- **1** `Incandescent` — melee — e.g. Incandescent Mallet
+- **1** `Hellfire` — melee — e.g. Hellfire Mallet
 - **1** `Black Wolf Torrent` — melee — e.g. Black Wolf Torrent
 - **1** `Shocking Cone` — melee — e.g. Shocking Cone
 - **1** `Lava Impact` — melee — e.g. Lava Impact
@@ -3299,12 +3282,8 @@
 - **1** `Grave Crusher` — melee — e.g. Grave Crusher
 - **1** `Grave Destroyer` — melee — e.g. Grave Destroyer
 - **1** `Grave Juggernaut` — melee — e.g. Grave Juggernaut
-- **1** `Spark Mace` — melee — e.g. Spark Mace
-- **1** `Spark` — melee — e.g. Spark Hammer
 - **1** `Spark Maul` — melee — e.g. Spark Maul
 - **1** `Inquisitor` — melee — e.g. Inquisitor
-- **1** `Drake Mace` — melee — e.g. Drake Mace
-- **1** `Drake` — melee — e.g. Drake Hammer
 - **1** `Drake Maul` — melee — e.g. Drake Maul
 - **1** `Annihilator` — melee — e.g. Annihilator
 - **1** `Thorium Ri` — melee — e.g. Thorium Ri
@@ -3393,11 +3372,10 @@
 - **1** `Dead Scratch` — melee — e.g. Dead Scratch
 - **1** `Dead Snatch` — melee — e.g. Dead Snatch
 - **1** `Dead Rush` — melee — e.g. Dead Rush
-- **1** `Furyhair Greatsword` — melee — e.g. Furyhair Greatsword
 - **1** `North F.Hair Greatswrd` — melee — e.g. North F.Hair Greatswrd
-- **1** `Snow F.Hair Greatsword` — melee — e.g. Snow F.Hair Greatsword
+- **1** `Snow F.Hair` — melee — e.g. Snow F.Hair Greatsword
 - **1** `Flower F.Hair Greatswrd` — melee — e.g. Flower F.Hair Greatswrd
-- **1** `Sky Furyhair Greatsword` — melee — e.g. Sky Furyhair Greatsword
+- **1** `Sky Furyhair` — melee — e.g. Sky Furyhair Greatsword
 - **1** `Blue Giurare` — melee — e.g. Blue Giurare
 - **1** `Blue Custode` — melee — e.g. Blue Custode
 - **1** `Blue Monarca` — melee — e.g. Blue Monarca
@@ -3451,11 +3429,10 @@
 - **1** `Battledore Dazed` — melee — e.g. Battledore "Dazed"
 - **1** `Malevolent Decapitator` — melee — e.g. Malevolent Decapitator
 - **1** `Malevolent Reaper` — melee — e.g. Malevolent Reaper
-- **1** `Thunder Scythe` — melee — e.g. Thunder Scythe
 - **1** `Thunder Razorscythe` — melee — e.g. Thunder Razorscythe
 - **1** `Ardent Flame` — melee — e.g. Ardent Flame
 - **1** `Ardent Flamescythe` — melee — e.g. Ardent Flamescythe
-- **1** `Dragonkiller Scythe` — melee — e.g. Dragonkiller Scythe
+- **1** `Dragonkiller` — melee — e.g. Dragonkiller Scythe
 - **1** `Dragonkiller Destroyer` — melee — e.g. Dragonkiller Destroyer
 - **1** `Beast Cutter` — melee — e.g. Beast Cutter
 - **1** `Beast Render` — melee — e.g. Beast Render
@@ -3688,8 +3665,6 @@
 - **1** `Rain Saif` — melee — e.g. Rain Saif
 - **1** `Rain Shamshir` — melee — e.g. Rain Shamshir
 - **1** `Rain Mirage` — melee — e.g. Rain Mirage
-- **1** `Candy Stick` — melee — e.g. Candy Stick
-- **1** `Candy Rod` — melee — e.g. Candy Rod
 - **1** `Candy Bat` — melee — e.g. Candy Bat
 - **1** `Candy Poison` — melee — e.g. Candy Poison
 - **1** `Caldo Espada` — melee — e.g. Caldo Espada
@@ -3847,7 +3822,7 @@
 - **1** `Mors Ala` — melee — e.g. Mors Ala
 - **1** `Niger M. Ala` — melee — e.g. Niger M. Ala
 - **1** `Niger Mors` — melee — e.g. Niger Mors
-- **1** `Gesshoku Greatsword` — melee — e.g. Gesshoku Greatsword
+- **1** `Gesshoku` — melee — e.g. Gesshoku Greatsword
 - **1** `Lavasioth Nobori` — melee — e.g. Lavasioth Nobori
 - **1** `Red Carp Nobori` — melee — e.g. Red Carp Nobori
 - **1** `Black Carp Nobori` — melee — e.g. Black Carp Nobori
@@ -3908,7 +3883,6 @@
 - **1** `Guren Wechen` — melee — e.g. Guren Wechen
 - **1** `Guren Willen` — melee — e.g. Guren Willen
 - **1** `Guren Vios` — melee — e.g. Guren Vios
-- **1** `Cardo Mace` — melee — e.g. Cardo Mace
 - **1** `Cardo impact` — melee — e.g. Cardo impact
 - **1** `Rotes Gebet` — melee — e.g. Rotes Gebet
 - **1** `Roth Holzer` — melee — e.g. Roth Holzer
@@ -4069,11 +4043,10 @@
 - **1** `Naga Fierce Frostslicer` — melee — e.g. Naga Fierce Frostslicer
 - **1** `Naga Violent Frostslicer` — melee — e.g. Naga Violent Frostslicer
 - **1** `Wonder Spoon` — melee — e.g. Wonder Spoon
-- **1** `Wonder Stick` — melee — e.g. Wonder Stick
+- **1** `Wonder` — melee — e.g. Wonder Stick
 - **1** `Wonder Scoop` — melee — e.g. Wonder Scoop
 - **1** `Wonder Twister` — melee — e.g. Wonder Twister
 - **1** `Fairy Spoon` — melee — e.g. Fairy Spoon
-- **1** `Fairy Stick` — melee — e.g. Fairy Stick
 - **1** `Fairy Scoop` — melee — e.g. Fairy Scoop
 - **1** `Fairy Grace` — melee — e.g. Fairy Grace
 - **1** `Azure Mo` — melee — e.g. Azure Edge "Mo"
@@ -4117,7 +4090,6 @@
 - **1** `Pretty Tuba` — melee — e.g. Pretty Tuba
 - **1** `Pretty March` — melee — e.g. Pretty March
 - **1** `Pretty Prince` — melee — e.g. Pretty Prince
-- **1** `Rusty` — melee — e.g. Rusty Horn
 - **1** `Rusty Tuba` — melee — e.g. Rusty Tuba
 - **1** `Rusty March` — melee — e.g. Rusty March
 - **1** `Rusty Kaiser` — melee — e.g. Rusty Kaiser
@@ -4183,7 +4155,6 @@
 - **1** `Zilva Hagel` — melee — e.g. Zilva Hagel
 - **1** `Zilva Perle` — melee — e.g. Zilva Perle
 - **1** `Zilva Sand` — melee — e.g. Zilva Sand
-- **1** `Argen Mace` — melee — e.g. Argen Mace
 - **1** `Zilva Gebet` — melee — e.g. Zilva Gebet
 - **1** `Zilva Gehorsam` — melee — e.g. Zilva Gehorsam
 - **1** `Argen Trumpet` — melee — e.g. Argen Trumpet
@@ -4422,12 +4393,11 @@
 - **1** `Bull Meteor Break` — melee — e.g. Bull Meteor Break
 - **1** `Bull Meteor Strike` — melee — e.g. Bull Meteor Strike
 - **1** `Thunderbolt Apparition` — melee — e.g. Thunderbolt Apparition
-- **1** `Scarlet Mallet` — melee — e.g. Scarlet Mallet
-- **1** `Scarlet Mallet Ghost` — melee — e.g. Scarlet Mallet "Ghost"
-- **1** `Scarlet Mallet Soul` — melee — e.g. Scarlet Mallet "Soul"
-- **1** `Scarlet Mallet Spirit` — melee — e.g. Scarlet Mallet "Spirit"
-- **1** `Scarlet Mallet Loyalty` — melee — e.g. Scarlet Mallet "Loyalty"
-- **1** `Scarlet Mallet Ogre` — melee — e.g. Scarlet Mallet "Ogre"
+- **1** `Scarlet Ghost` — melee — e.g. Scarlet Mallet "Ghost"
+- **1** `Scarlet Soul` — melee — e.g. Scarlet Mallet "Soul"
+- **1** `Scarlet Spirit` — melee — e.g. Scarlet Mallet "Spirit"
+- **1** `Scarlet Loyalty` — melee — e.g. Scarlet Mallet "Loyalty"
+- **1** `Scarlet Ogre` — melee — e.g. Scarlet Mallet "Ogre"
 - **1** `Conehead Stamp Tea` — melee — e.g. Conehead Stamp "Tea"
 - **1** `Conehead Strike Tea` — melee — e.g. Conehead Strike "Tea"
 - **1** `Conehead Smasher Tea` — melee — e.g. Conehead Smasher "Tea"
@@ -4450,8 +4420,6 @@
 - **1** `A419 ヴァリエマテリヨ` — melee — e.g. A419・ヴァリエマテリヨ
 - **1** `Weissblatt` — melee — e.g. Weissblatt
 - **1** `Weissstamm` — melee — e.g. Weissstamm
-- **1** `Shinning Mallet` — melee — e.g. Shinning Mallet
-- **1** `Shinning` — melee — e.g. Shinning Hammer
 - **1** `Schwarzblatt` — melee — e.g. Schwarzblatt
 - **1** `Schwarzstamm` — melee — e.g. Schwarzstamm
 - **1** `AB19 カルドアーヴ` — melee — e.g. AB19・カルドアーヴ
@@ -4847,16 +4815,6 @@
 - **1** `Hadean Saber Thunder` — melee — e.g. Hadean Saber "Thunder"
 - **1** `Hadean Saber Imperial` — melee — e.g. Hadean Saber "Imperial"
 - **1** `Hadean Saber Glacier` — melee — e.g. Hadean Saber "Glacier"
-- **1** `Hadean Infernal` — melee — e.g. Hadean Blade "Infernal"
-- **1** `Hadean River` — melee — e.g. Hadean Blade "River"
-- **1** `Hadean Thunder` — melee — e.g. Hadean Blade "Thunder"
-- **1** `Hadean Imperial` — melee — e.g. Hadean Blade "Imperial"
-- **1** `Hadean Glacier` — melee — e.g. Hadean Blade "Glacier"
-- **1** `Hadean Mace Infernal` — melee — e.g. Hadean Mace "Infernal"
-- **1** `Hadean Mace River` — melee — e.g. Hadean Mace "River"
-- **1** `Hadean Mace Thunder` — melee — e.g. Hadean Mace "Thunder"
-- **1** `Hadean Mace Imperial` — melee — e.g. Hadean Mace "Imperial"
-- **1** `Hadean Mace Glacier` — melee — e.g. Hadean Mace "Glacier"
 - **1** `Hadean Sting Infernal` — melee — e.g. Hadean Sting "Infernal"
 - **1** `Hadean Sting River` — melee — e.g. Hadean Sting "River"
 - **1** `Hadean Sting Thunder` — melee — e.g. Hadean Sting "Thunder"
@@ -4881,21 +4839,20 @@
 - **1** `Water Onimusha` — melee — e.g. Water Sword "Onimusha"
 - **1** `Water Onitake` — melee — e.g. Water Sword "Onitake"
 - **1** `Heat Nail` — melee — e.g. Heat Nail
-- **1** `Heat Pick` — melee — e.g. Heat Pick
+- **1** `Heat` — melee — e.g. Heat Pick
 - **1** `Heat Claw` — melee — e.g. Heat Claw
 - **1** `Heat Tusk` — melee — e.g. Heat Tusk
 - **1** `Heat Fang` — melee — e.g. Heat Fang
 - **1** `Marsh Nail` — melee — e.g. Marsh Nail
-- **1** `Marsh Pick` — melee — e.g. Marsh Pick
+- **1** `Marsh` — melee — e.g. Marsh Pick
 - **1** `Marsh Claw` — melee — e.g. Marsh Claw
 - **1** `Marsh Tusk` — melee — e.g. Marsh Tusk
 - **1** `Marsh Fang` — melee — e.g. Marsh Fang
-- **1** `Electro Pole` — melee — e.g. Electro Pole
+- **1** `Electro` — melee — e.g. Electro Pole
 - **1** `Electro Post` — melee — e.g. Electro Post
 - **1** `Electro Pillar` — melee — e.g. Electro Pillar
 - **1** `Electro Symbol` — melee — e.g. Electro Symbol
 - **1** `Electro Totem` — melee — e.g. Electro Totem
-- **1** `Primal Pole` — melee — e.g. Primal Pole
 - **1** `Primal Post` — melee — e.g. Primal Post
 - **1** `Primal Pillar` — melee — e.g. Primal Pillar
 - **1** `Primal Symbol` — melee — e.g. Primal Symbol
@@ -5126,7 +5083,7 @@
 - **1** `Kurikara Dragon Slicer` — melee — e.g. Kurikara Dragon Slicer
 - **1** `Azure Go` — melee — e.g. Azure Edge "Go"
 - **1** `Log Divider` — melee — e.g. Log Divider
-- **1** `Death Class Scythe` — melee — e.g. Death Class Scythe
+- **1** `Death Class` — melee — e.g. Death Class Scythe
 - **1** `Pale Ice` — melee — e.g. Pale Ice Edge
 - **1** `Godly Dragonwood` — melee — e.g. Godly Dragonwood Sword
 - **1** `Midnight` — melee — e.g. Midnight Edge
@@ -5134,12 +5091,11 @@
 - **1** `Dragon Crush` — melee — e.g. Dragon Hammer "Crush"
 - **1** `Dragon Break` — melee — e.g. Dragon Hammer "Break"
 - **1** `Dragon Broken` — melee — e.g. Dragon Hammer "Broken"
-- **1** `Mochi Mallet` — melee — e.g. Mochi Mallet
-- **1** `Herbal Mochi Mallet` — melee — e.g. Herbal Mochi Mallet
-- **1** `Persimmon Mochi Mallet` — melee — e.g. Persimmon Mochi Mallet
+- **1** `Mochi` — melee — e.g. Mochi Mallet
+- **1** `Herbal Mochi` — melee — e.g. Herbal Mochi Mallet
+- **1** `Persimmon Mochi` — melee — e.g. Persimmon Mochi Mallet
 - **1** `The Moonlight` — melee — e.g. The Moonlight
 - **1** `The Crater` — melee — e.g. The Crater
-- **1** `Aurora Mace` — melee — e.g. Aurora Mace
 - **1** `Gold Gebet` — melee — e.g. Gold Gebet
 - **1** `Gold Gehorsam` — melee — e.g. Gold Gehorsam
 - **1** `Golden Zorn` — melee — e.g. Golden Zorn
@@ -5372,8 +5328,8 @@
 - **1** `3F1E インデ フライオ` — melee — e.g. 3F1E・インデ・フライオ
 - **1** `431E アイン カリーソ` — melee — e.g. 431E・アイン・カリーソ
 - **1** `Suffocation` — melee — e.g. Suffocation
-- **1** `Mallet Crush` — melee — e.g. Mallet "Crush"
-- **1** `Mallet Small Crush` — melee — e.g. Mallet "Small Crush"
+- **1** `Crush` — melee — e.g. Mallet "Crush"
+- **1** `Small Crush` — melee — e.g. Mallet "Small Crush"
 - **1** `Dustbreak Odi` — melee — e.g. Dustbreak Odi Hammer
 - **1** `Floating Void Sky` — melee — e.g. Floating Void Sky Hammer
 - **1** `True Goldkite` — melee — e.g. True Goldkite Hammer
@@ -5495,7 +5451,7 @@
 - **1** `FB1E ヘイルデストゥ` — melee — e.g. FB1E・ヘイルデストゥ
 - **1** `Flame Phantom` — melee — e.g. Flame Phantom
 - **1** `Rain Phantom` — melee — e.g. Rain Phantom
-- **1** `True Scythe of Terror` — melee — e.g. True Scythe of Terror
+- **1** `True of Terror` — melee — e.g. True Scythe of Terror
 - **1** `Stiff Rampage` — melee — e.g. Stiff Rampage
 - **1** `Grave Rampage` — melee — e.g. Grave Rampage
 - **1** `Heirophant` — melee — e.g. Heirophant
@@ -5520,7 +5476,6 @@
 - **1** `Dodonga Havoc` — melee — e.g. Dodonga Havoc
 - **1** `Thunderbreak Apparition` — melee — e.g. Thunderbreak Apparition
 - **1** `Wave Fury` — melee — e.g. Wave Fury Hammer
-- **1** `Dragonwood Mallet` — melee — e.g. Dragonwood Mallet
 - **1** `True Beru Thunder` — melee — e.g. True Beru Thunder Hammer
 - **1** `PhntmThndrFlute GodDrum` — melee — e.g. PhntmThndrFlute"GodDrum"
 - **1** `Gogomoa Flute Ritual` — melee — e.g. Gogomoa Flute "Ritual"
@@ -5639,7 +5594,7 @@
 - **1** `Maladie` — melee — e.g. Maladie
 - **1** `AF1F セルモ ハール` — melee — e.g. AF1F・セルモ・ハール
 - **1** `B01F イノシダス` — melee — e.g. B01F・イノシダス
-- **1** `Prison Binding Mace` — melee — e.g. Prison Binding Mace
+- **1** `Prison Binding` — melee — e.g. Prison Binding Mace
 - **1** `B41F ヴォーラナイフ` — melee — e.g. B41F・ヴォーラナイフ
 - **1** `Oni Fang` — melee — e.g. Oni Knife "Fang"
 - **1** `Oni Dual Horn` — melee — e.g. Oni Knife "Dual Horn"
@@ -5804,8 +5759,6 @@
 - **1** `Hatsune Quintet Vocals` — melee — e.g. Hatsune Quintet Vocals
 - **1** `Absolute Crasher` — melee — e.g. Absolute Crasher
 - **1** `B020 エヒトス` — melee — e.g. B020・エヒトス
-- **1** `Infinity Mace` — melee — e.g. Infinity Mace
-- **1** `Vola Mace` — melee — e.g. Vola Mace
 - **1** `B520 ジアル リアゴ` — melee — e.g. B520・ジアル・リアゴ
 - **1** `B620 ジアル クドラ` — melee — e.g. B620・ジアル・クドラ
 - **1** `B720 ジアル ゴノ` — melee — e.g. B720・ジアル・ゴノ
@@ -5892,11 +5845,6 @@
 - **1** `Berum Double SPⅣ` — melee — e.g. Berum Double Axe SPⅣ
 - **1** `Berum Double SPⅦ` — melee — e.g. Berum Double Axe SPⅦ
 - **1** `Torem Double` — melee — e.g. Torem Double Axe
-- **1** `Shipler Mace` — melee — e.g. Shipler Mace
-- **1** `Berum Mace` — melee — e.g. Berum Mace SPⅠ
-- **1** `Berum Mace SPⅣ` — melee — e.g. Berum Mace SPⅣ
-- **1** `Berum Mace SPⅦ` — melee — e.g. Berum Mace SPⅦ
-- **1** `Torem Mace` — melee — e.g. Torem Mace
 - **1** `Kut-Ku Ripper` — melee — e.g. Kut-Ku Ripper
 - **1** `Dual Kut-Ku` — melee — e.g. Dual Kut-Ku
 - **1** `Monster` — melee — e.g. Monster Blade
@@ -5969,7 +5917,7 @@
 - **1** `Lemenas` — melee — e.g. Lemenas Claws
 - **1** `Instinn Bolg` — melee — e.g. Instinn Bolg
 - **1** `True Burning Sky` — melee — e.g. True Burning Sky Blade
-- **1** `Hell Mallet` — melee — e.g. Hell Mallet
+- **1** `Hell` — melee — e.g. Hell Mallet
 - **1** `E721 リフォルフィーネ` — melee — e.g. E721・リフォルフィーネ
 - **1** `Red Runes` — melee — e.g. Red Runes
 - **1** `E921 リオ＝デネトール` — melee — e.g. E921・リオ＝デネトール
@@ -5993,13 +5941,13 @@
 - **1** `Spectral Thorn` — melee — e.g. Spectral Thorn
 - **1** `Creul Thorn` — melee — e.g. Creul Thorn
 - **1** `Crown of Thorns` — melee — e.g. Crown of Thorns
-- **1** `Misty Rapier` — melee — e.g. Misty Rapier
+- **1** `Misty` — melee — e.g. Misty Rapier
 - **1** `Misty Mold` — melee — e.g. Misty Mold
 - **1** `Misty Rush` — melee — e.g. Misty Rush
 - **1** `Misty Swarm` — melee — e.g. Misty Swarm
 - **1** `Misty Frenzy` — melee — e.g. Misty Frenzy
 - **1** `Mortal Agony` — melee — e.g. Mortal Agony
-- **1** `Terrifying Rapier` — melee — e.g. Terrifying Rapier
+- **1** `Terrifying` — melee — e.g. Terrifying Rapier
 - **1** `Terifying Moruder` — melee — e.g. Terifying Moruder
 - **1** `Terrifying Rush` — melee — e.g. Terrifying Rush
 - **1** `Terrifying Swarm` — melee — e.g. Terrifying Swarm
@@ -6117,7 +6065,6 @@
 - **1** `9722 リネスⅢ` — melee — e.g. 9722・リネスⅢ
 - **1** `9822 リネスⅣ` — melee — e.g. 9822・リネスⅣ
 - **1** `9922 リス リトゥ` — melee — e.g. 9922・リス・リトゥ
-- **1** `Sturm Mace` — melee — e.g. Sturm Mace
 - **1** `9B22 ジェム クェンダー` — melee — e.g. 9B22・ジェム・クェンダー
 - **1** `9C22 ラディエンス` — melee — e.g. 9C22・ラディエンス
 - **1** `9D22 タリク クェンダー` — melee — e.g. 9D22・タリク・クェンダー
@@ -6141,7 +6088,7 @@
 - **1** `AF22 ドドンガ ラバージ` — melee — e.g. AF22・ドドンガ・ラバージ
 - **1** `Plasma Apparition` — melee — e.g. Plasma Apparition
 - **1** `Wavebreak Fury H.` — melee — e.g. Wavebreak Fury H.
-- **1** `Meteor Drgnwood Mallet` — melee — e.g. Meteor Drgnwood Mallet
+- **1** `Meteor Drgnwood` — melee — e.g. Meteor Drgnwood Mallet
 - **1** `B322 真舞雷極鎚【御霊】` — melee — e.g. B322・真舞雷極鎚【御霊】
 - **1** `Ters Gogo` — melee — e.g. Ters Gogo
 - **1** `Brave Gogo` — melee — e.g. Brave Gogo
@@ -6226,7 +6173,7 @@
 - **1** `Parasitic` — melee — e.g. Parasitic Dagger
 - **1** `0D23 アグニスビーシュ` — melee — e.g. 0D23・アグニスビーシュ
 - **1** `Rosen Erfolg` — melee — e.g. Rosen Erfolg
-- **1** `Destroyer Thunder Rod` — melee — e.g. Destroyer Thunder Rod
+- **1** `Destroyer Thunder` — melee — e.g. Destroyer Thunder Rod
 - **1** `Garugaslicer` — melee — e.g. Garugaslicer
 - **1** `Vashim Lux` — melee — e.g. Vashim Lux
 - **1** `Barbarian Husksword` — melee — e.g. Barbarian Husksword
@@ -6246,7 +6193,6 @@
 - **1** `Neve Angle` — melee — e.g. Neve Angle
 - **1** `God's Thunderpole` — melee — e.g. God's Thunderpole Blade
 - **1** `Tita Muerte` — melee — e.g. Tita Muerte
-- **1** `Heavenly Greatsword` — melee — e.g. Heavenly Greatsword
 - **1** `Blaine Stahl` — melee — e.g. Blaine Stahl
 - **1** `Despots's Hacker` — melee — e.g. Despots's Hacker
 - **1** `2723 メルプリティプレート` — melee — e.g. 2723・メルプリティプレート
@@ -6270,7 +6216,6 @@
 - **1** `Willow Thunderpole` — melee — e.g. Willow Thunderpole Sword
 - **1** `3D23 天熾シ凍土ニ咲ク刃` — melee — e.g. 3D23・天熾シ凍土ニ咲ク刃
 - **1** `Tita Montana` — melee — e.g. Tita Montana
-- **1** `Heavenly` — melee — e.g. Heavenly Hammer
 - **1** `Haar Sakhr` — melee — e.g. Haar Sakhr
 - **1** `Despots's Crush` — melee — e.g. Despots's Crush
 - **1** `Demolition` — melee — e.g. Demolition Hammer
@@ -6303,7 +6248,7 @@
 - **1** `Occult Incessance` — melee — e.g. Occult Incessance
 - **1** `Vashim Spitz` — melee — e.g. Vashim Spitz
 - **1** `Neve Acris` — melee — e.g. Neve Acris
-- **1** `Scythe Thunderpole` — melee — e.g. Scythe Thunderpole Spear
+- **1** `Thunderpole Spear` — melee — e.g. Scythe Thunderpole Spear
 - **1** `Tita Rama` — melee — e.g. Tita Rama
 - **1** `Arbasked` — melee — e.g. Arbasked
 - **1** `Despots's Burst` — melee — e.g. Despots's Burst
@@ -6331,14 +6276,10 @@
 - **1** `Rondu Dancer` — melee — e.g. Rondu Dancer
 - **1** `Rondu Star` — melee — e.g. Rondu Star
 - **1** `0224 クアドラングドナス` — melee — e.g. 0224・クアドラングドナス
-- **1** `Claus` — melee — e.g. Claus Hammer
-- **1** `Claus Mallet` — melee — e.g. Claus Mallet
 - **1** `Claus Pounder` — melee — e.g. Claus Pounder
 - **1** `Claus Basher` — melee — e.g. Claus Basher
 - **1** `0724 クラウスベーン` — melee — e.g. 0724・クラウスベーン
 - **1** `0824 ヴォールタオゼント` — melee — e.g. 0824・ヴォールタオゼント
-- **1** `Runt` — melee — e.g. Runt Hammer
-- **1** `Runt Mallet` — melee — e.g. Runt Mallet
 - **1** `Runt Pounder` — melee — e.g. Runt Pounder
 - **1** `Runt Basher` — melee — e.g. Runt Basher
 - **1** `0D24 ルントベーン` — melee — e.g. 0D24・ルントベーン
@@ -6432,10 +6373,10 @@
 - **1** `G-TUNE Saber` — melee — e.g. G-TUNE Saber
 - **1** `Aurora G-TUNE` — melee — e.g. Aurora G-TUNE Blade
 - **1** `Aurora G-TUNE Radius` — melee — e.g. Aurora G-TUNE Radius
-- **1** `War God Great` — melee — e.g. War God Great Sword
-- **1** `Mystery God Great` — melee — e.g. Mystery God Great Sword
-- **1** `Brave God Great` — melee — e.g. Brave God Great Sword
-- **1** `Power God Great` — melee — e.g. Power God Great Sword
+- **1** `War God` — melee — e.g. War God Great Sword
+- **1** `Mystery God` — melee — e.g. Mystery God Great Sword
+- **1** `Brave God` — melee — e.g. Brave God Great Sword
+- **1** `Power God` — melee — e.g. Power God Great Sword
 - **1** `Lonely Black Sky` — melee — e.g. Lonely Black Sky Sword
 - **1** `Heavenly Black Sky` — melee — e.g. Heavenly Black Sky Sword
 - **1** `8624 黒天凱餓狼ノ剣` — melee — e.g. 8624・黒天凱餓狼ノ剣
@@ -7745,15 +7686,13 @@
 - **1** `9B2C ダレンシズジア` — melee — e.g. 9B2C・ダレンシズジア
 - **1** `9C2C ビクサークロイツ` — melee — e.g. 9C2C・ビクサークロイツ
 - **1** `9D2C デールクロイツ` — melee — e.g. 9D2C・デールクロイツ
-- **1** `Gold Mace` — melee — e.g. Gold Mace
 - **1** `Gold Trophy` — melee — e.g. Gold Trophy
 - **1** `Gold Ceremony` — melee — e.g. Gold Ceremony
 - **1** `Gold Festi` — melee — e.g. Gold Festi
-- **1** `Silver Mace` — melee — e.g. Silver Mace
 - **1** `Silver Trophy` — melee — e.g. Silver Trophy
 - **1** `Silver Ceremony` — melee — e.g. Silver Ceremony
 - **1** `Silver Festi` — melee — e.g. Silver Festi
-- **1** `Bronze Mace` — melee — e.g. Bronze Mace
+- **1** `Bronze` — melee — e.g. Bronze Mace
 - **1** `Bronze Trophy` — melee — e.g. Bronze Trophy
 - **1** `Bronze Ceremony` — melee — e.g. Bronze Ceremony
 - **1** `Bronze Festi` — melee — e.g. Bronze Festi
@@ -7807,7 +7746,7 @@
 - **1** `Furoru Regia` — melee — e.g. Furoru Regia
 - **1** `Furoru Aroma` — melee — e.g. Furoru Aroma
 - **1** `Furuo Incense` — melee — e.g. Furuo Incense
-- **1** `Purple Cloud Furoru Pick` — melee — e.g. Purple Cloud Furoru Pick
+- **1** `Purple Cloud Furoru` — melee — e.g. Purple Cloud Furoru Pick
 - **1** `Furoru Sommeil` — melee — e.g. Furoru Sommeil
 - **1** `Furoru Somnus` — melee — e.g. Furoru Somnus
 - **1** `Furoru Quelide` — melee — e.g. Furoru Quelide
@@ -7826,7 +7765,7 @@
 - **1** `Furoru Laurel` — melee — e.g. Furoru Laurel
 - **1** `Furoru Aranus` — melee — e.g. Furoru Aranus
 - **1** `Blue Moon Furoru` — melee — e.g. Blue Moon Furoru Spear
-- **1** `Cinnabar Furoru Tonfa` — melee — e.g. Cinnabar Furoru Tonfa
+- **1** `Cinnabar Furoru` — melee — e.g. Cinnabar Furoru Tonfa
 - **1** `Crimsn Twinbane Twilight` — melee — e.g. Crimsn Twinbane Twilight
 - **1** `Crimson Fatalis Rapture` — melee — e.g. Crimson Fatalis Rapture
 - **1** `0B2D トラグ イザーム` — melee — e.g. 0B2D・トラグ・イザーム
@@ -7885,24 +7824,21 @@
 - **1** `Pen Jaro` — melee — e.g. Pen Jaro
 - **1** `432D ローカグランゼン` — melee — e.g. 432D・ローカグランゼン
 - **1** `Hedge Bunker` — melee — e.g. Hedge Bunker
-- **1** `Flaming Rathalos Tonfa` — melee — e.g. Flaming Rathalos Tonfa
-- **1** `Burstwolf Tonfa Show` — melee — e.g. Burstwolf Tonfa "Show"
+- **1** `Flaming Rathalos` — melee — e.g. Flaming Rathalos Tonfa
+- **1** `Burstwolf Show` — melee — e.g. Burstwolf Tonfa "Show"
 - **1** `472D ロカパルツァー` — melee — e.g. 472D・ロカパルツァー
-- **1** `Frostmist Tonfa` — melee — e.g. Frostmist Tonfa
 - **1** `492D ローゼンドレウザ` — melee — e.g. 492D・ローゼンドレウザ
-- **1** `Sawhorn Tonfa Fin` — melee — e.g. Sawhorn Tonfa "Fin"
+- **1** `Sawhorn Fin` — melee — e.g. Sawhorn Tonfa "Fin"
 - **1** `4B2D ヴァシム フワァール` — melee — e.g. 4B2D・ヴァシム・フワァール
-- **1** `EmperorThunderpole Tonfa` — melee — e.g. EmperorThunderpole Tonfa
-- **1** `Heavenly Tonfas` — melee — e.g. Heavenly Tonfas
+- **1** `EmperorThunderpole` — melee — e.g. EmperorThunderpole Tonfa
 - **1** `4E2D ダードブロウバル` — melee — e.g. 4E2D・ダードブロウバル
 - **1** `4F2D 熾ス罪凍ル咎ヲ纏シ杭` — melee — e.g. 4F2D・熾ス罪凍ル咎ヲ纏シ杭
 - **1** `Blood-Sucking Clubs` — melee — e.g. Blood-Sucking Clubs
 - **1** `UltimateThndr GoldDrake` — melee — e.g. UltimateThndr"GoldDrake"
 - **1** `Zeru Wings Shine` — melee — e.g. Zeru Wings "Shine"
 - **1** `Zeru Wings Luster` — melee — e.g. Zeru Wings "Luster"
-- **1** `Royal Wolf Tonfa Azuma` — melee — e.g. Royal Wolf Tonfa "Azuma"
+- **1** `Royal Wolf Azuma` — melee — e.g. Royal Wolf Tonfa "Azuma"
 - **1** `Tita Libre` — melee — e.g. Tita Libre
-- **1** `Fatalis Tonfa` — melee — e.g. Fatalis Tonfa
 - **1** `Wolven Fang Dragon` — melee — e.g. Wolven Fang "Dragon"
 - **1** `5B2D 王狼双牙【比叡】` — melee — e.g. 5B2D・王狼双牙【比叡】
 - **1** `5C2D 王狼剛剣【月華】` — melee — e.g. 5C2D・王狼剛剣【月華】
@@ -7933,7 +7869,6 @@
 - **1** `Partner Schwert` — melee — e.g. Partner Schwert
 - **1** `Rotes Guete` — melee — e.g. Rotes Guete
 - **1** `Roter Zorn` — melee — e.g. Roter Zorn
-- **1** `Partner Mace` — melee — e.g. Partner Mace
 - **1** `Rote Schemen` — melee — e.g. Rote Schemen
 - **1** `Partner Trumpet` — melee — e.g. Partner Trumpet
 - **1** `Partner Wind` — melee — e.g. Partner Wind
@@ -8015,7 +7950,6 @@
 - **1** `Icebolt Water` — melee — e.g. Icebolt Edge "Water"
 - **1** `Icebolt Flow` — melee — e.g. Icebolt Edge "Flow"
 - **1** `Icebolt Frigid` — melee — e.g. Icebolt Edge "Frigid"
-- **1** `Prototype` — melee — e.g. Prototype Hammer
 - **1** `Official` — melee — e.g. Official Hammer
 - **1** `212E 最新型激光鎚【穿突】` — melee — e.g. 212E・最新型激光鎚【穿突】
 - **1** `222E 最新型激光鎚【穿衝】` — melee — e.g. 222E・最新型激光鎚【穿衝】
@@ -8057,7 +7991,7 @@
 - **1** `Hypnoc Coma` — melee — e.g. Hypnoc Coma Hammer
 - **1** `Feather Concert` — melee — e.g. Feather Concert
 - **1** `Hemocyte Concert` — melee — e.g. Hemocyte Concert
-- **1** `Ruby Scythe` — melee — e.g. Ruby Scythe
+- **1** `Ruby` — melee — e.g. Ruby Scythe
 - **1** `Blut Blos` — melee — e.g. Blut Blos
 - **1** `Perle Guller` — melee — e.g. Perle Guller
 - **1** `WhiteEspinasLS FireGold` — melee — e.g. WhiteEspinasLS"FireGold"
@@ -8076,7 +8010,6 @@
 - **1** `Golddust Windbreak` — melee — e.g. Golddust Windbreak Blade
 - **1** `Golddust Whirlwind` — melee — e.g. Golddust Whirlwind Blade
 - **1** `Golddust Hurricane` — melee — e.g. Golddust Hurricane Blade
-- **1** `Golddust Gale` — melee — e.g. Golddust Gale Blade
 - **1** `Golddust Windroar` — melee — e.g. Golddust Windroar Spear
 - **1** `Golddust Twister` — melee — e.g. Golddust Twister Spear
 - **1** `Golddust Stormhowl` — melee — e.g. Golddust Stormhowl Spear
@@ -8400,13 +8333,12 @@
 - **1** `Double Flashing Thunder` — melee — e.g. Double Flashing Thunder
 - **1** `Double Chaos Poison` — melee — e.g. Double Chaos Poison
 - **1** `Double Frozen Ice` — melee — e.g. Double Frozen Ice
-- **1** `Layla Tonfa` — melee — e.g. Layla Tonfa
-- **1** `Layla Fire Tonfa` — melee — e.g. Layla Fire Tonfa
-- **1** `Layla Water Tonfa` — melee — e.g. Layla Water Tonfa
-- **1** `Layla Thunder Tonfa` — melee — e.g. Layla Thunder Tonfa
-- **1** `Layla Ice Tonfa` — melee — e.g. Layla Ice Tonfa
-- **1** `Layla Dragon Tonfa` — melee — e.g. Layla Dragon Tonfa
-- **1** `Golddust Gale Tonfa` — melee — e.g. Golddust Gale Tonfa
+- **1** `Layla` — melee — e.g. Layla Tonfa
+- **1** `Layla Fire` — melee — e.g. Layla Fire Tonfa
+- **1** `Layla Water` — melee — e.g. Layla Water Tonfa
+- **1** `Layla Thunder` — melee — e.g. Layla Thunder Tonfa
+- **1** `Layla Ice` — melee — e.g. Layla Ice Tonfa
+- **1** `Layla Dragon` — melee — e.g. Layla Dragon Tonfa
 - **1** `Golddust Stormflight T.` — melee — e.g. Golddust Stormflight T.
 - **1** `ToruKuro Box` — melee — e.g. ToruKuro Box Ⅴ
 - **1** `Crimson Pact` — melee — e.g. Crimson Pact
@@ -8493,8 +8425,8 @@
 - **1** `D530 マンサナ リアマ` — melee — e.g. D530・マンサナ・リアマ
 - **1** `Manzana Reso` — melee — e.g. Manzana Reso
 - **1** `Key to Secrets East` — melee — e.g. Key to Secrets "East"
-- **1** `Fisher Rod` — melee — e.g. Fisher Rod
-- **1** `Creation Rod` — melee — e.g. Creation Rod
+- **1** `Fisher` — melee — e.g. Fisher Rod
+- **1** `Creation` — melee — e.g. Creation Rod
 - **1** `DE30 ゼンプレーテⅠ` — melee — e.g. DE30・ゼンプレーテⅠ
 - **1** `DF30 ゼンプレーテⅡ` — melee — e.g. DF30・ゼンプレーテⅡ
 - **1** `Key to Secrets North` — melee — e.g. Key to Secrets "North"
@@ -8667,7 +8599,7 @@
 - **1** `Crystal Light G.` — melee — e.g. Crystal Light G.Lance
 - **1** `Crystal Dazzle G.` — melee — e.g. Crystal Dazzle G.Lance
 - **1** `BrilliantCrystal G.` — melee — e.g. BrilliantCrystal G.Lance
-- **1** `Dazzling Greatsword` — melee — e.g. Dazzling Greatsword
+- **1** `Dazzling` — melee — e.g. Dazzling Greatsword
 - **1** `Elegy Empress` — melee — e.g. Elegy Empress Blade
 - **1** `Grief Empress` — melee — e.g. Grief Empress Blade
 - **1** `Pity Empress` — melee — e.g. Pity Empress Blade
@@ -8687,7 +8619,7 @@
 - **1** `B131 バレナルジェ` — melee — e.g. B131・バレナルジェ
 - **1** `B231 バレナオロロ` — melee — e.g. B231・バレナオロロ
 - **1** `B331 バレナプラティ` — melee — e.g. B331・バレナプラティ
-- **1** `God's Sound Greatsword` — melee — e.g. God's Sound Greatsword
+- **1** `God's Sound` — melee — e.g. God's Sound Greatsword
 - **1** `B531 バレナルッシェ` — melee — e.g. B531・バレナルッシェ
 - **1** `B631 バレナウーメ` — melee — e.g. B631・バレナウーメ
 - **1** `B731 バレナラゴラ` — melee — e.g. B731・バレナラゴラ
@@ -8772,7 +8704,7 @@
 - **1** `2132 真緋猛太刀【玉響】` — melee — e.g. 2132・真緋猛太刀【玉響】
 - **1** `TruBloodredLance Elder` — melee — e.g. TruBloodredLance "Elder"
 - **1** `TruBloodredGun Alone` — melee — e.g. TruBloodredGun "Alone"
-- **1** `TruScarlet Mallet Years` — melee — e.g. TruScarlet Mallet"Years"
+- **1** `TruScarlet Years` — melee — e.g. TruScarlet Mallet"Years"
 - **1** `Acute` — melee — e.g. Acute Edge
 - **1** `Anorupatisu Jaw` — melee — e.g. Anorupatisu Jaw
 - **1** `2832 凍レタ運命熾ス槍` — melee — e.g. 2832・凍レタ運命熾ス槍
@@ -8876,9 +8808,9 @@
 - **1** `Primrose Fort Flute` — melee — e.g. Primrose Fort Flute
 - **1** `Shallow Sand Fort Flute` — melee — e.g. Shallow Sand Fort Flute
 - **1** `Waterginko Fort Flute` — melee — e.g. Waterginko Fort Flute
-- **1** `Ocean Fortress Tonfa` — melee — e.g. Ocean Fortress Tonfa
-- **1** `Wave Fortress Tonfa` — melee — e.g. Wave Fortress Tonfa
-- **1** `500-Waves Fortress Tonfa` — melee — e.g. 500-Waves Fortress Tonfa
+- **1** `Ocean Fortress` — melee — e.g. Ocean Fortress Tonfa
+- **1** `Wave Fortress` — melee — e.g. Wave Fortress Tonfa
+- **1** `500-Waves Fortress` — melee — e.g. 500-Waves Fortress Tonfa
 - **1** `9132 覇皇大剣ガカムトルム` — melee — e.g. 9132・覇皇大剣ガカムトルム
 - **1** `Baru Bloodemma` — melee — e.g. Baru Bloodemma
 - **1** `Baru Bloodwing` — melee — e.g. Baru Bloodwing
@@ -8894,7 +8826,7 @@
 - **1** `9D32 ドドドンガ ドンペラ` — melee — e.g. 9D32・ドドドンガ・ドンペラ
 - **1** `Lightingbolt Apparition` — melee — e.g. Lightingbolt Apparition
 - **1** `9F32 幻雷始笛【大天太鼓】` — melee — e.g. 9F32・幻雷始笛【大天太鼓】
-- **1** `Bind Mace Emperor` — melee — e.g. Bind Mace "Emperor"
+- **1** `Bind Emperor` — melee — e.g. Bind Mace "Emperor"
 - **1** `Raise Strike` — melee — e.g. Raise Strike
 - **1** `Void Helix` — melee — e.g. Void Helix
 - **1** `Romeille Noct` — melee — e.g. Romeille Noct
@@ -9407,7 +9339,6 @@
 - **1** `Dios Slicer` — melee — e.g. Dios Slicer
 - **1** `Twin Blast Blades` — melee — e.g. Twin Blast Blades
 - **1** `Lightbreak Twins` — melee — e.g. Lightbreak Twins
-- **1** `Blast Greatsword` — melee — e.g. Blast Greatsword
 - **1** `Dios Smasher` — melee — e.g. Dios Smasher
 - **1** `Blast Smasher` — melee — e.g. Blast Smasher
 - **1** `Dios Bell` — melee — e.g. Dios Bell
@@ -9419,7 +9350,6 @@
 - **1** `Lightbreak Buster` — melee — e.g. Lightbreak Buster
 - **1** `Blast Destroyers` — melee — e.g. Blast Destroyers
 - **1** `Lightbreak Destroyers` — melee — e.g. Lightbreak Destroyers
-- **1** `Shantien Greatsword` — melee — e.g. Shantien Greatsword+
 - **1** `4935 改天熾シ凍土ニ咲ク刃` — melee — e.g. 4935・改天熾シ凍土ニ咲ク刃
 - **1** `Red's Lips` — melee — e.g. Red's Lips
 - **1** `Burn Awaiting` — melee — e.g. Burn Awaiting
@@ -9449,7 +9379,7 @@
 - **1** `6635 ブリエ シーニュ` — melee — e.g. 6635・ブリエ・シーニュ
 - **1** `6735 ブリエ エロン` — melee — e.g. 6735・ブリエ・エロン
 - **1** `6835 ブリエ イービス` — melee — e.g. 6835・ブリエ・イービス
-- **1** `Torid Tonfa Rebellion` — melee — e.g. Torid Tonfa "Rebellion"
+- **1** `Torid Rebellion` — melee — e.g. Torid Tonfa "Rebellion"
 - **1** `6A35 カクトスドレング` — melee — e.g. 6A35・カクトスドレング
 - **1** `Kaktus Genie` — melee — e.g. Kaktus Genie
 - **1** `Ever Sleeper` — melee — e.g. Ever Sleeper
@@ -9544,11 +9474,8 @@
 - **1** `Lago Baron` — melee — e.g. Lago Baron
 - **1** `Parone Epee` — melee — e.g. Parone Epee
 - **1** `Parone Daggers` — melee — e.g. Parone Daggers
-- **1** `Parone Greatsword` — melee — e.g. Parone Greatsword
 - **1** `Parone Uchigatana` — melee — e.g. Parone Uchigatana
-- **1** `Parone Mallet` — melee — e.g. Parone Mallet
 - **1** `Parone Whistle` — melee — e.g. Parone Whistle
-- **1** `Parone Tonfa` — melee — e.g. Parone Tonfa
 - **1** `F336 ガウニャメリー` — melee — e.g. F336・ガウニャメリー
 - **1** `F436 ガウニャメリック` — melee — e.g. F436・ガウニャメリック
 - **1** `F536 ガウニャメリックス` — melee — e.g. F536・ガウニャメリックス
@@ -9658,11 +9585,6 @@
 - **1** `Shesha Blast Shine` — melee — e.g. Shesha Blast "Shine"
 - **1** `Shesha Blast Glory` — melee — e.g. Shesha Blast "Glory"
 - **1** `Shesha Blast Clear` — melee — e.g. Shesha Blast "Clear"
-- **1** `Ophion Tonfa` — melee — e.g. Ophion Tonfa
-- **1** `Shesha Tonfa Flash` — melee — e.g. Shesha Tonfa "Flash"
-- **1** `Shesha Tonfa Shine` — melee — e.g. Shesha Tonfa "Shine"
-- **1** `Shesha Tonfa Glory` — melee — e.g. Shesha Tonfa "Glory"
-- **1** `Shesha Tonfa Clear` — melee — e.g. Shesha Tonfa "Clear"
 - **1** `Nepa Savage Icecutter` — melee — e.g. Nepa Savage Icecutter
 - **1** `Nepa Berserk Icecutter` — melee — e.g. Nepa Berserk Icecutter
 - **1** `Nepa Savage Boltcutter` — melee — e.g. Nepa Savage Boltcutter
@@ -9741,9 +9663,6 @@
 - **1** `C837 オルガアルクス` — melee — e.g. C837・オルガアルクス
 - **1** `Morte Assassin` — melee — e.g. Morte Assassin
 - **1** `Demon's Chaos` — melee — e.g. Demon's Chaos
-- **1** `Ophion Tonfa Flash` — melee — e.g. Ophion Tonfa "Flash"
-- **1** `Ophion Tonfa Shine` — melee — e.g. Ophion Tonfa "Shine"
-- **1** `Ophion Tonfa Glory` — melee — e.g. Ophion Tonfa "Glory"
 - **1** `War Dragon's Cone` — melee — e.g. War Dragon's Cone
 - **1** `CF37 私の恐怖大剣 起` — melee — e.g. CF37・私の恐怖大剣・起
 - **1** `D037 私の恐怖大剣 承` — melee — e.g. D037・私の恐怖大剣・承
@@ -9879,23 +9798,21 @@
 - **1** `Giga Galefrost` — melee — e.g. Giga Galefrost
 - **1** `Motor Burst` — melee — e.g. Motor Burst
 - **1** `Gigant Burst` — melee — e.g. Gigant Burst
-- **1** `Prototype Switch-` — melee — e.g. Prototype Switch-Axe
 - **1** `Steel Crushing` — melee — e.g. Steel Crushing Axe
 - **1** `Phantom Haze` — melee — e.g. Phantom Haze Axe
 - **1** `Intense Flame` — melee — e.g. Intense Flame Axe
-- **1** `Mimital Tonfa` — melee — e.g. Mimital Tonfa
-- **1** `Neo Mimital Tonfa` — melee — e.g. Neo Mimital Tonfa
+- **1** `Mimital` — melee — e.g. Mimital Tonfa
+- **1** `Neo Mimital` — melee — e.g. Neo Mimital Tonfa
 - **1** `Duve` — melee — e.g. Duve Axe
 - **1** `Duve Neo` — melee — e.g. Duve Axe Neo
-- **1** `Shinshu Tonfa` — melee — e.g. Shinshu Tonfa
-- **1** `Neo Shinshu Tonfa` — melee — e.g. Neo Shinshu Tonfa
+- **1** `Shinshu` — melee — e.g. Shinshu Tonfa
+- **1** `Neo Shinshu` — melee — e.g. Neo Shinshu Tonfa
 - **1** `Feather Neo` — melee — e.g. Feather Axe Neo
 - **1** `Flash In The Night` — melee — e.g. Flash In The Night
 - **1** `Hidden Daggers` — melee — e.g. Hidden Daggers
 - **1** `Night Wings` — melee — e.g. Night Wings
 - **1** `Avidya Blades` — melee — e.g. Avidya Blades
 - **1** `Dark of Night` — melee — e.g. Dark of Night
-- **1** `Avidya Greatsword` — melee — e.g. Avidya Greatsword
 - **1** `Hidden Saber` — melee — e.g. Hidden Saber
 - **1** `Deepest Night` — melee — e.g. Deepest Night
 - **1** `Avidya Saber` — melee — e.g. Avidya Saber
@@ -9908,8 +9825,6 @@
 - **1** `Hidden Stinger` — melee — e.g. Hidden Stinger
 - **1** `Night Rains` — melee — e.g. Night Rains Black
 - **1** `Fading Night` — melee — e.g. Fading Night
-- **1** `Hidden Tonfa` — melee — e.g. Hidden Tonfa
-- **1** `Avidya Tonfa` — melee — e.g. Avidya Tonfa
 - **1** `Imperial Twins` — melee — e.g. Imperial Twins
 - **1** `Imperial King Twins` — melee — e.g. Imperial King Twins
 - **1** `Imperial Leader Twins` — melee — e.g. Imperial Leader Twins
@@ -10213,10 +10128,8 @@
 - **1** `Allure Violent Heatlance` — melee — e.g. Allure Violent Heatlance
 - **1** `Allure Savage Heatlance` — melee — e.g. Allure Savage Heatlance
 - **1** `Allure Berserk Heatlance` — melee — e.g. Allure Berserk Heatlance
-- **1** `Raijin Tonfa Vision` — melee — e.g. Raijin Tonfa "Vision"
 - **1** `Raijin Twins Illusion` — melee — e.g. Raijin Twins "Illusion"
 - **1** `Phantasma Mystic` — melee — e.g. Phantasma "Mystic"
-- **1** `Raijin Vision` — melee — e.g. Raijin Gunlance"Vision"
 - **1** `Phantasmbreak Trance` — melee — e.g. Phantasmbreak "Trance"
 - **1** `1C3A ブルエール＝アーラ` — melee — e.g. 1C3A・ブルエール＝アーラ
 - **1** `1D3A ルルエール＝アーラ` — melee — e.g. 1D3A・ルルエール＝アーラ
@@ -10291,10 +10204,9 @@
 - **1** `Low Grati` — melee — e.g. Low Grati
 - **1** `Pure Grati` — melee — e.g. Pure Grati
 - **1** `Magi Grati` — melee — e.g. Magi Grati
-- **1** `Illusion Greatsword` — melee — e.g. Illusion Greatsword
+- **1** `Illusion` — melee — e.g. Illusion Greatsword
 - **1** `Illusion Whistle` — melee — e.g. Illusion Whistle
 - **1** `Ilulusion` — melee — e.g. Ilulusion Spear
-- **1** `Magnetic Field Tonfa` — melee — e.g. Magnetic Field Tonfa
 - **1** `Chachabu Airou` — melee — e.g. Chachabu Airou
 - **1** `Beta 2016` — melee — e.g. Beta Knife "2016"
 - **1** `Schwan` — melee — e.g. Schwan
@@ -10485,17 +10397,12 @@
 - **1** `Composer Pair Intro` — melee — e.g. Composer Pair "Intro"
 - **1** `Composer Pair Chorus` — melee — e.g. Composer Pair "Chorus"
 - **1** `Composer Pair Encore` — melee — e.g. Composer Pair "Encore"
-- **1** `Composer Mace Intro` — melee — e.g. Composer Mace "Intro"
-- **1** `Composer Mace Chorus` — melee — e.g. Composer Mace "Chorus"
-- **1** `Composer Mace Encore` — melee — e.g. Composer Mace "Encore"
 - **1** `Composer Harp Intro` — melee — e.g. Composer Harp "Intro"
 - **1** `Composer Harp Chorus` — melee — e.g. Composer Harp "Chorus"
 - **1** `Composer Harp Encore` — melee — e.g. Composer Harp "Encore"
 - **1** `Composer Spire Intro` — melee — e.g. Composer Spire "Intro"
 - **1** `Composer Spire Chorus` — melee — e.g. Composer Spire"Chorus"
 - **1** `Composer Spire Encore` — melee — e.g. Composer Spire"Encore"
-- **1** `Composer Tonfa Solo` — melee — e.g. Composer Tonfa "Solo"
-- **1** `Composer Solo` — melee — e.g. Composer Axe "Solo"
 - **1** `Zio Zio` — melee — e.g. Zio Zio
 - **1** `Dahlia` — melee — e.g. Dahlia
 - **1** `Voloracle` — melee — e.g. Voloracle
@@ -10598,8 +10505,6 @@
 - **1** `Alvora Lanze` — melee — e.g. Alvora Lanze
 - **1** `True Vola Lancia` — melee — e.g. True Vola Lancia
 - **1** `Alvola Lancia` — melee — e.g. Alvola Lancia
-- **1** `True Vola Tonfa` — melee — e.g. True Vola Tonfa
-- **1** `Alvora Tonfa` — melee — e.g. Alvora Tonfa
 - **1** `Angeles` — melee — e.g. Angeles
 - **1** `Twin Battledore Luster` — melee — e.g. Twin Battledore "Luster"
 - **1** `333C 羽子板ハンマー【駁】` — melee — e.g. 333C・羽子板ハンマー【駁】
@@ -10615,7 +10520,6 @@
 - **1** `Gravios α` — melee — e.g. Gravios Hammer α
 - **1** `Gravios Commandment` — melee — e.g. Gravios Commandment
 - **1** `Gravios Pinnacle` — melee — e.g. Gravios Pinnacle
-- **1** `Blazing Peak Mallet` — melee — e.g. Blazing Peak Mallet
 - **1** `Vashim Alma` — melee — e.g. Vashim Alma
 - **1** `Vashim Philo` — melee — e.g. Vashim Philo
 - **1** `Vashim Safe` — melee — e.g. Vashim Safe
@@ -10787,7 +10691,7 @@
 - **1** `Radiant Glitter Duals` — melee — e.g. Radiant Glitter Duals
 - **1** `Radiant Glitter Whistle` — melee — e.g. Radiant Glitter Whistle
 - **1** `Radiant Glitter G.` — melee — e.g. Radiant Glitter G.Lance
-- **1** `FLaming Fuel Greatsword` — melee — e.g. FLaming Fuel Greatsword
+- **1** `FLaming Fuel` — melee — e.g. FLaming Fuel Greatsword
 - **1** `Prayer Duals Prelude` — melee — e.g. Prayer Duals "Prelude"
 - **1** `Prayer Duals Interlude` — melee — e.g. Prayer Duals "Interlude"
 - **1** `Prayer Duals Finale` — melee — e.g. Prayer Duals "Finale"
@@ -10796,8 +10700,6 @@
 - **1** `Prayer Beat Finale` — melee — e.g. Prayer Beat "Finale"
 - **1** `Prayer Shot Prelude` — melee — e.g. Prayer Shot "Prelude"
 - **1** `Prayer Shot Interlude` — melee — e.g. Prayer Shot "Interlude"
-- **1** `Prayer Tonfas Solo` — melee — e.g. Prayer Tonfas "Solo"
-- **1** `Prayer Switchaxe Solo` — melee — e.g. Prayer Switchaxe "Solo"
 - **1** `True Azura Epee` — melee — e.g. True Azura Epee
 - **1** `Azure Epee` — melee — e.g. Azure Epee
 - **1** `True Azura Klinge` — melee — e.g. True Azura Klinge
@@ -10826,13 +10728,12 @@
 - **1** `Mido Honoured` — melee — e.g. Mido Spear Honoured
 - **1** `Mido Glorious` — melee — e.g. Mido Spear Glorious
 - **1** `Mido Homare` — melee — e.g. Mido Spear "Homare"
-- **1** `Mido Tonfa Sieger` — melee — e.g. Mido Tonfa Sieger
-- **1** `Mido Tonfa Fuzz` — melee — e.g. Mido Tonfa Fuzz
-- **1** `Mido Tonfa Sika` — melee — e.g. Mido Tonfa Sika
-- **1** `Mido Tonfa Chill` — melee — e.g. Mido Tonfa "Chill"
+- **1** `Mido Sieger` — melee — e.g. Mido Tonfa Sieger
+- **1** `Mido Fuzz` — melee — e.g. Mido Tonfa Fuzz
+- **1** `Mido Sika` — melee — e.g. Mido Tonfa Sika
+- **1** `Mido Chill` — melee — e.g. Mido Tonfa "Chill"
 - **1** `893D ミラアルヒコ` — melee — e.g. 893D・ミラアルヒコ
 - **1** `8A3D ミラアルヒコ改` — melee — e.g. 8A3D・ミラアルヒコ改
-- **1** `Solemn Eyes Tonfa` — melee — e.g. Solemn Eyes Tonfa
 - **1** `Victory Goldwing` — melee — e.g. Victory Goldwing Blade
 - **1** `Festi Souls Ex` — melee — e.g. Festi Souls Ex
 - **1** `True Festi Souls` — melee — e.g. True Festi Souls
@@ -10845,8 +10746,8 @@
 - **1** `Azure Alma` — melee — e.g. Azure Alma
 - **1** `True Azura Lancia` — melee — e.g. True Azura Lancia
 - **1** `Azure Lancia` — melee — e.g. Azure Lancia
-- **1** `True Azura Tonfa` — melee — e.g. True Azura Tonfa
-- **1** `Azure Tonfa` — melee — e.g. Azure Tonfa
+- **1** `True Azura` — melee — e.g. True Azura Tonfa
+- **1** `Azure` — melee — e.g. Azure Tonfa
 - **1** `Burning Zero Dragon Duo` — melee — e.g. Burning Zero Dragon Duo
 - **1** `Burning Zero Dragon Ken` — melee — e.g. Burning Zero Dragon Ken
 - **1** `Goldsilver Fish Sticks` — melee — e.g. Goldsilver Fish Sticks
@@ -10870,10 +10771,10 @@
 - **1** `Ruko Whistle Guom` — melee — e.g. Ruko Whistle Guom
 - **1** `Ruko Whistle Raad` — melee — e.g. Ruko Whistle Raad
 - **1** `Light Ruko Barakyu` — melee — e.g. Light Ruko Horn Barakyu
-- **1** `Ruko Tonfa Ranho` — melee — e.g. Ruko Tonfa Ranho
-- **1** `Ruko Tonfa Dien` — melee — e.g. Ruko Tonfa Dien
-- **1** `Ruko Tonfa Futera` — melee — e.g. Ruko Tonfa Futera
-- **1** `Light Ruko Tonfa Erun` — melee — e.g. Light Ruko Tonfa Erun
+- **1** `Ruko Ranho` — melee — e.g. Ruko Tonfa Ranho
+- **1** `Ruko Dien` — melee — e.g. Ruko Tonfa Dien
+- **1** `Ruko Futera` — melee — e.g. Ruko Tonfa Futera
+- **1** `Light Ruko Erun` — melee — e.g. Light Ruko Tonfa Erun
 - **1** `Ruko Relambago` — melee — e.g. Ruko Axe Relambago
 - **1** `Ruko Tonit` — melee — e.g. Ruko Axe Tonit
 - **1** `Ruko Rambon` — melee — e.g. Ruko Axe Rambon
@@ -11014,16 +10915,13 @@
 - **1** `Inagami Pike Adorn` — melee — e.g. Inagami Pike "Adorn"
 - **1** `Inagami Pike Vibrance` — melee — e.g. Inagami Pike "Vibrance"
 - **1** `Inagami Pike Chrysanth` — melee — e.g. Inagami Pike "Chrysanth"
-- **1** `Inagami Tonfa Canna` — melee — e.g. Inagami Tonfa "Canna"
-- **1** `Inagami Tonfa Guzmania` — melee — e.g. Inagami Tonfa "Guzmania"
-- **1** `Inagami Tonfa Foxglove` — melee — e.g. Inagami Tonfa "Foxglove"
-- **1** `Inagami Tonfa Zephyr` — melee — e.g. Inagami Tonfa "Zephyr"
+- **1** `Inagami Canna` — melee — e.g. Inagami Tonfa "Canna"
+- **1** `Inagami Guzmania` — melee — e.g. Inagami Tonfa "Guzmania"
+- **1** `Inagami Foxglove` — melee — e.g. Inagami Tonfa "Foxglove"
+- **1** `Inagami Zephyr` — melee — e.g. Inagami Tonfa "Zephyr"
 - **1** `Musical Pair Prelude` — melee — e.g. Musical Pair "Prelude"
 - **1** `Musical Pair Chorus` — melee — e.g. Musical Pair "Chorus"
 - **1** `Musical Pair Encore` — melee — e.g. Musical Pair "Encore"
-- **1** `Musical Mace Prelude` — melee — e.g. Musical Mace "Prelude"
-- **1** `Musical Mace Chorus` — melee — e.g. Musical Mace "Chorus"
-- **1** `Musical Mace Encore` — melee — e.g. Musical Mace "Encore"
 - **1** `Renka Pine` — melee — e.g. Renka Sword "Pine"
 - **1** `Renka Pinus` — melee — e.g. Renka Sword "Pinus"
 - **1** `Renka Butterfly` — melee — e.g. Renka Sword "Butterfly"
@@ -11037,10 +10935,9 @@
 - **1** `Renka Iris` — melee — e.g. Renka Spear "Iris"
 - **1** `Renka Calamus` — melee — e.g. Renka Spear "Calamus"
 - **1** `Renka Lightdrain` — melee — e.g. Renka Spear "Lightdrain"
-- **1** `Renka Tonfa` — melee — e.g. Renka Tonfa
-- **1** `Renka Tonfa Peony` — melee — e.g. Renka Tonfa "Peony"
-- **1** `Renk Tonfa Paeonia` — melee — e.g. Renk Tonfa "Paeonia"
-- **1** `Renka Tonfa Gemlight` — melee — e.g. Renka Tonfa "Gemlight"
+- **1** `Renka Peony` — melee — e.g. Renka Tonfa "Peony"
+- **1** `Renk Paeonia` — melee — e.g. Renk Tonfa "Paeonia"
+- **1** `Renka Gemlight` — melee — e.g. Renka Tonfa "Gemlight"
 - **1** `Renka Clover` — melee — e.g. Renka Axe "Clover"
 - **1** `Renka Lespedeza` — melee — e.g. Renka Axe "Lespedeza"
 - **1** `Renka Halo` — melee — e.g. Renka Axe "Halo"
@@ -11110,10 +11007,7 @@
 - **1** `Final Ravina Rapper` — melee — e.g. Final Ravina Rapper
 - **1** `True Ravina Lancia` — melee — e.g. True Ravina Lancia
 - **1** `Final Ravina Lancia` — melee — e.g. Final Ravina Lancia
-- **1** `Ravina Tonfa` — melee — e.g. Ravina Tonfa
-- **1** `Rafina Tonfa` — melee — e.g. Rafina Tonfa+
-- **1** `True Ravina Tonfa` — melee — e.g. True Ravina Tonfa
-- **1** `Final Ravina Tonfa` — melee — e.g. Final Ravina Tonfa
+- **1** `Rafina` — melee — e.g. Rafina Tonfa+
 - **1** `Nature's Beauty Day` — melee — e.g. Nature's Beauty "Day"
 - **1** `Nature's Beauty Night` — melee — e.g. Nature's Beauty "Night"
 - **1** `Renka Twins` — melee — e.g. Renka Twins
@@ -11130,15 +11024,10 @@
 - **1** `Renka Shot Narcissus` — melee — e.g. Renka Shot "Narcissus"
 - **1** `Renka Shot Poeticus` — melee — e.g. Renka Shot "Poeticus"
 - **1** `Renka Shot Lightscatter` — melee — e.g. Renka Shot"Lightscatter"
-- **1** `Recital Mace Prelude` — melee — e.g. Recital Mace "Prelude"
-- **1** `Recital Mace Chorus` — melee — e.g. Recital Mace "Chorus"
-- **1** `Recital Mace Encore` — melee — e.g. Recital Mace "Encore"
-- **1** `Recital Tonfa Solo` — melee — e.g. Recital Tonfa "Solo"
 - **1** `Flower Drum Bun` — melee — e.g. Flower Drum Bun
 - **1** `Recital Duo Prelude` — melee — e.g. Recital Duo "Prelude"
 - **1** `Recital Duo Chorus` — melee — e.g. Recital Duo "Chorus"
 - **1** `Recital Duo Encore` — melee — e.g. Recital Duo "Encore"
-- **1** `Recital Solo` — melee — e.g. Recital Axe "Solo"
 - **1** `Rage Heated` — melee — e.g. Rage Blade "Heated"
 - **1** `Rage Fevered` — melee — e.g. Rage Blade "Fevered"
 - **1** `Rage Smelter` — melee — e.g. Rage Blade "Smelter"
@@ -11147,10 +11036,10 @@
 - **1** `Rage Fury` — melee — e.g. Rage Hammer "Fury"
 - **1** `Rage Madness` — melee — e.g. Rage Hammer "Madness"
 - **1** `Wrath Colere` — melee — e.g. Wrath Axe "Colere"
-- **1** `Rage Tonfa Odd` — melee — e.g. Rage Tonfa "Odd"
-- **1** `Rage Tonfa Abnormal` — melee — e.g. Rage Tonfa "Abnormal"
-- **1** `Rage Tonfa Strange` — melee — e.g. Rage Tonfa "Strange"
-- **1** `Wrath Tonfa Thumos` — melee — e.g. Wrath Tonfa "Thumos"
+- **1** `Rage Odd` — melee — e.g. Rage Tonfa "Odd"
+- **1** `Rage Abnormal` — melee — e.g. Rage Tonfa "Abnormal"
+- **1** `Rage Strange` — melee — e.g. Rage Tonfa "Strange"
+- **1** `Wrath Thumos` — melee — e.g. Wrath Tonfa "Thumos"
 - **1** `Rage Pit` — melee — e.g. Rage Axe "Pit"
 - **1** `Rage Crater` — melee — e.g. Rage Axe "Crater"
 - **1** `Rage Ravine` — melee — e.g. Rage Axe "Ravine"
@@ -11204,9 +11093,6 @@
 - **1** `Resolute Pair Heart` — melee — e.g. Resolute Pair "Heart"
 - **1** `Resolute Pair Truth` — melee — e.g. Resolute Pair "Truth"
 - **1** `Resolute Pair Divine` — melee — e.g. Resolute Pair "Divine"
-- **1** `Resolute Tonfa Heart` — melee — e.g. Resolute Tonfa "Heart"
-- **1** `Resolute Tonfa Truth` — melee — e.g. Resolute Tonfa "Truth"
-- **1** `Resolute Tonfa Divine` — melee — e.g. Resolute Tonfa "Divine"
 - **1** `Resolute God` — melee — e.g. Resolute Axe "God"
 - **1** `Dressed Mochi` — melee — e.g. Dressed Mochi
 - **1** `Dressed Mochi Stack` — melee — e.g. Dressed Mochi Stack
@@ -11230,18 +11116,18 @@
 - **1** `Rondo Moat` — melee — e.g. Rondo Blade "Moat"
 - **1** `Rondo Trench` — melee — e.g. Rondo Blade "Trench"
 - **1** `Rondo Home` — melee — e.g. Rondo Blade "Home"
-- **1** `Rondo Mace Xuanwu` — melee — e.g. Rondo Mace "Xuanwu"
-- **1** `Rondo Mace Brand` — melee — e.g. Rondo Mace "Brand"
-- **1** `Rondo Mace Vaisravana` — melee — e.g. Rondo Mace "Vaisravana"
-- **1** `Rondo Mace Yamato` — melee — e.g. Rondo Mace "Yamato"
+- **1** `Rondo Xuanwu` — melee — e.g. Rondo Mace "Xuanwu"
+- **1** `Rondo Brand` — melee — e.g. Rondo Mace "Brand"
+- **1** `Rondo Vaisravana` — melee — e.g. Rondo Mace "Vaisravana"
+- **1** `Rondo Yamato` — melee — e.g. Rondo Mace "Yamato"
 - **1** `Rondo Iron` — melee — e.g. Rondo Cannon "Iron"
 - **1** `Rondo Triple` — melee — e.g. Rondo Cannon "Triple"
 - **1** `Rondo Devas` — melee — e.g. Rondo Cannon "Devas"
 - **1** `Rondo Target` — melee — e.g. Rondo Cannon "Target"
-- **1** `Rondo Tonfa Portcullis` — melee — e.g. Rondo Tonfa "Portcullis"
-- **1** `Rondo Tonfa Toranomon` — melee — e.g. Rondo Tonfa "Toranomon"
-- **1** `Rondo Tonfa Sakuramon` — melee — e.g. Rondo Tonfa "Sakuramon"
-- **1** `Rondo Tonfa Ogura` — melee — e.g. Rondo Tonfa "Ogura"
+- **1** `Rondo Portcullis` — melee — e.g. Rondo Tonfa "Portcullis"
+- **1** `Rondo Toranomon` — melee — e.g. Rondo Tonfa "Toranomon"
+- **1** `Rondo Sakuramon` — melee — e.g. Rondo Tonfa "Sakuramon"
+- **1** `Rondo Ogura` — melee — e.g. Rondo Tonfa "Ogura"
 - **1** `Rondo Vanguard` — melee — e.g. Rondo Axe "Vanguard"
 - **1** `Rondo Second` — melee — e.g. Rondo Axe "Second"
 - **1** `Rondo Spearhead` — melee — e.g. Rondo Axe "Spearhead"
@@ -11258,10 +11144,6 @@
 - **1** `Apophis Blast Shine` — melee — e.g. Apophis Blast "Shine"
 - **1** `Apophis Blast Glory` — melee — e.g. Apophis Blast "Glory"
 - **1** `Apophis Blast Clear` — melee — e.g. Apophis Blast "Clear"
-- **1** `Apophis Tonfa Flash` — melee — e.g. Apophis Tonfa "Flash"
-- **1** `Apophis Tonfa Shine` — melee — e.g. Apophis Tonfa "Shine"
-- **1** `Apophis Tonfa Glory` — melee — e.g. Apophis Tonfa "Glory"
-- **1** `Apophis Tonfa Clear` — melee — e.g. Apophis Tonfa "Clear"
 - **1** `Nepa Icecutter Flash` — melee — e.g. Nepa Icecutter "Flash"
 - **1** `Nepa Icecutter Shine` — melee — e.g. Nepa Icecutter "Shine"
 - **1** `Nepa Boltcutter Flash` — melee — e.g. Nepa Boltcutter "Flash"
@@ -11402,10 +11284,10 @@
 - **1** `Anoru Force` — melee — e.g. Anoru Horn "Force"
 - **1** `Anoru Ostar` — melee — e.g. Anoru Horn "Ostar"
 - **1** `Anoru Bolka` — melee — e.g. Anoru Horn "Bolka"
-- **1** `Anoru Tonfa Deseo` — melee — e.g. Anoru Tonfa "Deseo"
-- **1** `Anoru Tonfa Wave` — melee — e.g. Anoru Tonfa "Wave"
-- **1** `Anoru Tonfa Afiado` — melee — e.g. Anoru Tonfa "Afiado"
-- **1** `Anoru Tonfa Agony` — melee — e.g. Anoru Tonfa "Agony"
+- **1** `Anoru Deseo` — melee — e.g. Anoru Tonfa "Deseo"
+- **1** `Anoru Wave` — melee — e.g. Anoru Tonfa "Wave"
+- **1** `Anoru Afiado` — melee — e.g. Anoru Tonfa "Afiado"
+- **1** `Anoru Agony` — melee — e.g. Anoru Tonfa "Agony"
 - **1** `Zamuzalista` — melee — e.g. Zamuzalista
 - **1** `Zamuzaramuza` — melee — e.g. Zamuzaramuza
 - **1** `True Dua Messer` — melee — e.g. True Dua Messer
@@ -11425,10 +11307,7 @@
 - **1** `Melody Duo Prelude` — melee — e.g. Melody Duo "Prelude"
 - **1** `Melody Duo Chorus` — melee — e.g. Melody Duo "Chorus"
 - **1** `Melody Duo Encore` — melee — e.g. Melody Duo "Encore"
-- **1** `Melody Mace Prelude` — melee — e.g. Melody Mace "Prelude"
-- **1** `Melody Mace Chorus` — melee — e.g. Melody Mace "Chorus"
-- **1** `Melody Mace Encore` — melee — e.g. Melody Mace "Encore"
-- **1** `Melody Tonfa Solo` — melee — e.g. Melody Tonfa "Solo"
+- **1** `Melody Solo` — melee — e.g. Melody Tonfa "Solo"
 - **1** `Bonny Fireworks` — melee — e.g. Bonny Fireworks
 - **1** `Bonny Fireworks Pretty` — melee — e.g. Bonny Fireworks "Pretty"
 - **1** `Bonny Fireworks Flash` — melee — e.g. Bonny Fireworks "Flash"
@@ -11634,7 +11513,7 @@
 - **1** `Harine Ruun` — melee — e.g. Harine Ruun
 - **1** `Harine Herijii` — melee — e.g. Harine Herijii
 - **1** `Attending Last` — melee — e.g. Attending Sword "Last"
-- **1** `Evil Eye Greatsword` — melee — e.g. Evil Eye Greatsword
+- **1** `Evil Eye` — melee — e.g. Evil Eye Greatsword
 - **1** `Diosc` — melee — e.g. Diosc
 - **1** `Graham Spike Fire` — melee — e.g. Graham Spike "Fire"
 - **1** `Graham Spike Water` — melee — e.g. Graham Spike "Water"
@@ -11650,10 +11529,10 @@
 - **1** `Bloodless Impact Mars` — melee — e.g. Bloodless Impact Mars
 - **1** `Bloodless Impact Marin` — melee — e.g. Bloodless Impact Marin
 - **1** `Bloodless Impact Makadu` — melee — e.g. Bloodless Impact Makadu
-- **1** `Bloodless Tonfa Sain` — melee — e.g. Bloodless Tonfa Sain
-- **1** `Bloodless Tonfa Sairu` — melee — e.g. Bloodless Tonfa Sairu
-- **1** `Bloodless Tonfa Sakura` — melee — e.g. Bloodless Tonfa Sakura
-- **1** `Bloodless Tonfa Said` — melee — e.g. Bloodless Tonfa Said
+- **1** `Bloodless Sain` — melee — e.g. Bloodless Tonfa Sain
+- **1** `Bloodless Sairu` — melee — e.g. Bloodless Tonfa Sairu
+- **1** `Bloodless Sakura` — melee — e.g. Bloodless Tonfa Sakura
+- **1** `Bloodless Said` — melee — e.g. Bloodless Tonfa Said
 - **1** `Bloodless Babel` — melee — e.g. Bloodless Axe Babel
 - **1** `Bloodless Basra` — melee — e.g. Bloodless Axe Basra
 - **1** `Bloodless Badon` — melee — e.g. Bloodless Axe Badon
@@ -11703,8 +11582,6 @@
 - **1** `Final Chroma Lanze` — melee — e.g. Final Chroma Lanze
 - **1** `True Chroma Lancia` — melee — e.g. True Chroma Lancia
 - **1** `Final Chroma Lancia` — melee — e.g. Final Chroma Lancia
-- **1** `True Chroma Tonfa` — melee — e.g. True Chroma Tonfa
-- **1** `Final Chroma Tonfa` — melee — e.g. Final Chroma Tonfa
 - **1** `True Chroma Axt` — melee — e.g. True Chroma Axt
 - **1** `Final Chroma Axt` — melee — e.g. Final Chroma Axt
 - **1** `Lapis Gleam Aku` — melee — e.g. Lapis Gleam "Aku"
@@ -11731,10 +11608,7 @@
 - **1** `Lethe Ebisu` — melee — e.g. Lethe Horn "Ebisu"
 - **1** `Lethe Vaisravana` — melee — e.g. Lethe Lance "Vaisravana"
 - **1** `Lethe Tsukumogami` — melee — e.g. Lethe Gun "Tsukumogami"
-- **1** `Lethe Tonfa` — melee — e.g. Lethe Tonfa
-- **1** `Lethe Tonfa Anarchy` — melee — e.g. Lethe Tonfa "Anarchy"
-- **1** `Lethe Tonfa Wish` — melee — e.g. Lethe Tonfa "Wish"
-- **1** `Lethe Tonfa Okuninushi` — melee — e.g. Lethe Tonfa "Okuninushi"
+- **1** `Lethe Okuninushi` — melee — e.g. Lethe Tonfa "Okuninushi"
 - **1** `Lethe Budai` — melee — e.g. Lethe Axe "Budai"
 - **1** `Renka Spike` — melee — e.g. Renka Spike
 - **1** `Renka Spike Horse` — melee — e.g. Renka Spike "Horse"
@@ -11749,7 +11623,7 @@
 - **1** `Enrapture Shot Intro` — melee — e.g. Enrapture Shot "Intro"
 - **1** `Enrapture Shot Chorus` — melee — e.g. Enrapture Shot "Chorus"
 - **1** `Enrapture Shot Encore` — melee — e.g. Enrapture Shot "Encore"
-- **1** `Enrapture Tonfa Solo` — melee — e.g. Enrapture Tonfa "Solo"
+- **1** `Enrapture Solo` — melee — e.g. Enrapture Tonfa "Solo"
 - **1** `Enrapture Axt Solo` — melee — e.g. Enrapture Axt "Solo"
 - **1** `Utatsunagi Spike Solo` — melee — e.g. Utatsunagi Spike "Solo"
 - **1** `True Poet Epee` — melee — e.g. True Poet Epee
@@ -11768,8 +11642,6 @@
 - **1** `Poetry Lanze` — melee — e.g. Poetry Lanze
 - **1** `True Poet Lancia` — melee — e.g. True Poet Lancia
 - **1** `Poetry Lancia` — melee — e.g. Poetry Lancia
-- **1** `True Poet Tonfa` — melee — e.g. True Poet Tonfa
-- **1** `Poetry Tonfa` — melee — e.g. Poetry Tonfa
 - **1** `True Poet Axt` — melee — e.g. True Poet Axt
 - **1** `Poetry Axt` — melee — e.g. Poetry Axt
 - **1** `True Poet Pillar` — melee — e.g. True Poet Pillar
@@ -11887,10 +11759,9 @@
 - **1** `Layer Magnolia` — melee — e.g. Layer Hammer "Magnolia"
 - **1** `Layer Oleander` — melee — e.g. Layer Hammer "Oleander"
 - **1** `Layer Camellia` — melee — e.g. Layer Hammer "Camellia"
-- **1** `Layer Tonfa` — melee — e.g. Layer Tonfa
-- **1** `Layer Tonfa Snowball` — melee — e.g. Layer Tonfa "Snowball"
-- **1** `Layer Tonfa Bluecrown` — melee — e.g. Layer Tonfa "Bluecrown"
-- **1** `Layer Tonfa Klamath` — melee — e.g. Layer Tonfa "Klamath"
+- **1** `Layer Snowball` — melee — e.g. Layer Tonfa "Snowball"
+- **1** `Layer Bluecrown` — melee — e.g. Layer Tonfa "Bluecrown"
+- **1** `Layer Klamath` — melee — e.g. Layer Tonfa "Klamath"
 - **1** `Layer Primrose` — melee — e.g. Layer Axe "Primrose"
 - **1** `Layer Spiderwort` — melee — e.g. Layer Axe "Spiderwort"
 - **1** `Layer Dragonstail` — melee — e.g. Layer Axe "Dragonstail"
@@ -13030,7 +12901,6 @@
 - **1** `Cluedo Bendito` — ranged — e.g. Cluedo Bendito
 - **1** `Pewby` — ranged — e.g. Pewby
 - **1** `Jaro` — ranged — e.g. Gun Jaro
-- **1** `Queen` — ranged — e.g. Queen Shooter
 - **1** `Valkyrie Flare` — ranged — e.g. Valkyrie Flare
 - **1** `Tricannon` — ranged — e.g. Tricannon
 - **1** `Roca Arc` — ranged — e.g. Roca Arc
@@ -14045,7 +13915,6 @@
 - **1** `Runein Sectia` — ranged — e.g. Runein Sectia
 - **1** `Irisen Sectia` — ranged — e.g. Irisen Sectia
 - **1** `Immortal Pain` — ranged — e.g. Immortal Pain
-- **1** `Demon's Fury` — ranged — e.g. Demon's Fury
 - **1** `Burstwolf` — ranged — e.g. Burstwolf Bow+
 - **1** `550C シュトルムシュナット` — ranged — e.g. 550C・シュトルムシュナット
 - **1** `Storm Strier` — ranged — e.g. Storm Strier

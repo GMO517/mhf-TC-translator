@@ -10,11 +10,11 @@ index,source,target
 8,Ravager Blade,毀滅刃
 9,Lacerator Blade,裂刃
 10,Iron Katana,鐵刀
-11,"Iron Katana ""Grace""",鐵刀恩寵
-12,"Iron Katana ""Gospel""",鐵刀「福音」
-13,"Bone Katana ""Wolf""",骨製刀狼
-14,"Bone Katana ""Shark""",骨製刀「鯊」
-15,"Bone Katana ""Dragon""",骨製刀龍
+11,"Iron Katana ""Grace""",鐵刀Grace
+12,"Iron Katana ""Gospel""",鐵刀Gospel
+13,"Bone Katana ""Wolf""",骨製刀Wolf
+14,"Bone Katana ""Shark""",骨製刀Shark
+15,"Bone Katana ""Dragon""",骨製刀Dragon
 16,Black Katana Mk.Ⅰ,黒刀Mk.Ⅰ
 17,Black Katana Mk.Ⅱ,黒刀Mk.Ⅱ
 18,Defender,防衛
@@ -293,7 +293,7 @@ index,source,target
 291,Weathered Great Swd,風化大劍
 292,Crab Cutter,蟹切斷
 293,Epitaph Blade,墓誌刃
-294,Bone Horn,骨製之角
+294,Bone Horn,骨製角
 295,War Drum,WＲＤＲＵM
 296,Sonic Glass,音玻璃
 297,Sonic Glass+,音玻璃＋
@@ -391,7 +391,7 @@ index,source,target
 389,"Wyvern Blade ""Maple""",飛龍刃楓
 390,Great Demon Halberd,偉大惡魔沸血吼
 391,Gaelic Flame,蓋爾焔
-392,Bone Horn+,骨製之角＋
+392,Bone Horn+,骨製角＋
 393,War Drum+,WＲＤＲＵM＋
 394,Glass Queen,玻璃女王
 395,Khezu Flute,奇怪龍笛
@@ -1055,7 +1055,7 @@ index,source,target
 1053,Diablos Longspear,角龍長矛
 1054,Diablos Fury Longspear,角龍憤怒長矛
 1055,Royal Fragrance,王室瓦里艾
-1056,Lightning Horn,雷之角
+1056,Lightning Horn,雷光角
 1057,White Trunk,白幹
 1058,Kaktus Lanze,仙人掌槍
 1059,Kaktus Sturm,ｋｋTＵSSTＵＲM
@@ -1109,7 +1109,7 @@ index,source,target
 1107,Red Porta Mace Ⅲ,赤波爾塔鎚Ⅲ
 1108,Claiomh Solais,克勒阿伊歐姆哈斯歐勒阿伊斯
 1109,Demon's Small Rod,惡魔S小杖
-1110,ダミー,(dummy)
+1110,ダミー,假
 1111,Demon's Wondrous Rod,魔瓦歐恩德爾歐烏斯棒
 1112,Demon's Fury Rod,憤怒惡魔S杖
 1113,Yellow Porta Mace Ⅰ,黄波爾塔鎚Ⅰ
@@ -1120,7 +1120,7 @@ index,source,target
 1118,Purple Porta Mace Ⅱ,紫波爾塔鎚Ⅱ
 1119,Purple Porta Mace Ⅲ,紫波爾塔鎚Ⅲ
 1120,Aymur,阿伊姆烏爾
-1121,Vashimu Claws,尾晶蠍之爪
+1121,Vashimu Claws,尾晶蠍爪
 1122,Vashimu Slicers,尾晶蠍切
 1123,Vashimu Sabers,尾晶蠍軍刀
 1124,Blue Scissors,青剪刀
@@ -1161,8 +1161,8 @@ index,source,target
 1159,"Training Sword ""3rd Dan""",研磨尾劍第三德阿恩
 1160,Concealed Koto Blade,克歐恩克艾阿勒艾科托刃
 1161,Final Concealed Blade,決勝克歐恩克艾阿勒艾刃
-1162,Eques Edge,未來迪刃
-1163,Eques Blade,未來迪刃
+1162,Eques Edge,騎士刃
+1163,Eques Blade,騎士刃
 1164,Eques Espada,未來迪艾斯普阿德阿
 1165,Elfenbein,艾勒夫艾恩布艾伊
 1166,Strega Edge,魔女刃
@@ -1192,7 +1192,7 @@ index,source,target
 1190,High Gendrome Balloon,黄速龍王高气球
 1191,Vashimu Lance,尾晶蠍長槍
 1192,Vashimu Spear,尾晶蠍槍
-1193,Vashimu Horn,尾晶蠍之角
+1193,Vashimu Horn,尾晶蠍角
 1194,Mourning Wolf Spear,姆歐烏爾恩伊恩格狼槍
 1195,Wicked Wolf Spear,邪狼槍
 1196,Evil Wolf Spear,惡狼槍
@@ -1224,21 +1224,21 @@ index,source,target
 1222,Kaktus Seele,仙人掌瑟艾勒
 1223,Kaktus Verfuhrerin,ｋｋTＵSＶ老ＲFＵHＲ老ＲIN
 1224,Kaktus Herrich,ｋｋTＵSH老ＲＲIＣH
-1225,Jebia Knife,灰晶蠍刀
-1226,Jebia Dagger,灰晶蠍短劍
-1227,Jebia Edge,灰晶蠍刃
-1228,Jebia Claws,灰晶蠍之爪
+1225,Jebia Knife,傑艾布伊刀
+1226,Jebia Dagger,傑艾布伊短劍
+1227,Jebia Edge,傑艾布伊刃
+1228,Jebia Claws,傑艾布伊爪
 1229,Jebia Slicers,灰晶蠍切
 1230,Jebia Sabers,J老ＢISＢ老ＲS
-1231,Jebia Sword,灰晶蠍劍
-1232,Jebia Blade,灰晶蠍刃
+1231,Jebia Sword,傑艾布伊劍
+1232,Jebia Blade,傑艾布伊刃
 1233,Jebia Breaker,灰晶蠍破壞
-1234,Jebia Hammer,灰晶蠍大錘
+1234,Jebia Hammer,傑艾布伊大錘
 1235,Jebia Rock,灰晶蠍岩
 1236,Jebia Impact,灰晶蠍衝撃
-1237,Jebia Lance,灰晶蠍長槍
-1238,Jebia Spear,灰晶蠍槍
-1239,Jebia Horn,灰晶蠍之角
+1237,Jebia Lance,傑艾布伊長槍
+1238,Jebia Spear,傑艾布伊槍
+1239,Jebia Horn,傑艾布伊角
 1240,Monoblos Soul,一角龍魂
 1241,Tidal Dagger,特伊德阿勒短劍
 1242,High Tidal Dagger,高特伊德阿勒短劍
@@ -1332,9 +1332,9 @@ index,source,target
 1330,Dragonbone Gunlance,銃槍龍骨
 1331,Amicus Edge,MIＣＵS老ＤＧ老
 1332,Amicus Blade,摯友刃
-1333,ダミー,(dummy)
-1334,ダミー,(dummy)
-1335,ダミー,(dummy)
+1333,ダミー,假
+1334,ダミー,假
+1335,ダミー,假
 1336,Sword and Shield,劍盾
 1337,Dual Swords,雙斯瓦歐爾德斯
 1338,Great Sword,大劍
@@ -1364,11 +1364,11 @@ index,source,target
 1362,Cielo Dos,天空德歐斯
 1363,Cielo Tres,天空特爾艾斯
 1364,Cielo Cuatro,天空庫阿特歐
-1365,Caravan Sword I,旅團劍I
-1366,Caravan Sword II,旅團劍Ⅱ
-1367,Caravan Sword III,旅團劍Ⅲ
-1368,Caravan Sword IV,旅團劍Ⅳ
-1369,Caravan Sword V,旅團劍Ｖ
+1365,Caravan Sword I,旅團劍Ⅰ
+1366,Caravan Sword II,旅團劍ⅠⅠ
+1367,Caravan Sword III,旅團劍ⅠⅠⅠ
+1368,Caravan Sword IV,旅團劍ⅠⅤ
+1369,Caravan Sword V,旅團劍Ⅴ
 1370,Daora Rapier,崩龍細劍
 1371,Daora Rapier+,崩龍細劍＋
 1372,Dragoon Theatron,龍騎特哈艾阿特爾歐恩
@@ -1534,13 +1534,13 @@ index,source,target
 1532,Exceletta SP Ⅴ,艾克斯克艾勒艾特ＳＰⅤ
 1533,Exceletta SP Ⅵ,艾克斯克艾勒艾特ＳＰⅥ
 1534,Exceletta SP Ⅶ,艾克斯克艾勒艾特ＳＰⅦ
-1535,Colonel Sword SP I,上校劍ＳＰⅠ
-1536,Colonel Sword SP II,上校劍ＳＰⅡ
-1537,Colonel Sword SP III,上校劍ＳＰⅢ
-1538,Colonel Sword SP IV,上校劍ＳＰⅣ
-1539,Colonel Sword SP V,上校劍ＳＰⅤ
-1540,Colonel Sword SP VI,上校劍ＳＰⅥ
-1541,Colonel Sword SP VII,上校劍ＳＰⅦ
+1535,Colonel Sword SP I,上校劍SP
+1536,Colonel Sword SP II,上校劍SP
+1537,Colonel Sword SP III,上校劍SP
+1538,Colonel Sword SP IV,上校劍SP
+1539,Colonel Sword SP V,上校劍SP
+1540,Colonel Sword SP VI,上校劍SP
+1541,Colonel Sword SP VII,上校劍SP
 1542,Flare SP I,輝ＳＰI
 1543,Flare SP II,輝ＳＰⅡ
 1544,Flare SP III,輝ＳＰⅢ
@@ -1611,13 +1611,13 @@ index,source,target
 1609,Bronze Blaze SP V,青銅炎ＳＰＶ
 1610,Bronze Blaze SP VI,青銅炎ＳＰⅥ
 1611,Bronze Blaze SP VII,青銅炎ＳＰⅦ
-1612,Colonel Blade SP I,上校刃ＳＰⅠ
-1613,Colonel Blade SP II,上校刃ＳＰⅡ
-1614,Colonel Blade SP III,上校刃ＳＰⅢ
-1615,Colonel Blade SP IV,上校刃ＳＰⅣ
-1616,Colonel Blade SP V,上校刃ＳＰⅤ
-1617,Colonel Blade SP VI,上校刃ＳＰⅥ
-1618,Colonel Blade SP VII,上校刃ＳＰⅦ
+1612,Colonel Blade SP I,上校刃SP
+1613,Colonel Blade SP II,上校刃SP
+1614,Colonel Blade SP III,上校刃SP
+1615,Colonel Blade SP IV,上校刃SP
+1616,Colonel Blade SP V,上校刃SP
+1617,Colonel Blade SP VI,上校刃SP
+1618,Colonel Blade SP VII,上校刃SP
 1619,Chaos Pulse SP I,混沌脈ＳＰⅠ
 1620,Chaos Pulse SP II,混沌脈ＳＰⅡ
 1621,Chaos Pulse SP III,混沌脈ＳＰⅢ
@@ -1695,13 +1695,13 @@ index,source,target
 1693,Wyvrn Swrd Lapis SP V,瓦伊維爾恩黑鍵盤青金ＳＰⅤ
 1694,Wyvrn Swrd Lapis SP VI,瓦伊維爾恩黑鍵盤青金ＳＰⅥ
 1695,Wyvrn Swrd Lapis SP VII,瓦伊維爾恩黑鍵盤青金ＳＰⅦ
-1696,Red Cat Hammer SP I,大錘赤猫ＳＰI
-1697,Red Cat Hammer SP II,大錘赤猫ＳＰⅡ
-1698,Red Cat Hammer SP III,大錘赤猫ＳＰⅢ
-1699,Red Cat Hammer SP IV,大錘赤猫ＳＰⅣ
-1700,Red Cat Hammer SP V,大錘赤猫ＳＰＶ
-1701,Red Cat Hammer SP VI,大錘赤猫ＳＰⅥ
-1702,Red Cat Hammer SP VII,大錘赤猫ＳＰⅦ
+1696,Red Cat Hammer SP I,赤猫大錘SP
+1697,Red Cat Hammer SP II,赤猫大錘SP
+1698,Red Cat Hammer SP III,赤猫大錘SP
+1699,Red Cat Hammer SP IV,赤猫大錘SP
+1700,Red Cat Hammer SP V,赤猫大錘SP
+1701,Red Cat Hammer SP VI,赤猫大錘SP
+1702,Red Cat Hammer SP VII,赤猫大錘SP
 1703,Giga Impact SP I,超巨衝撃ＳＰI
 1704,Giga Impact SP II,超巨衝撃SPⅡ
 1705,Giga Impact SP III,超巨衝撃SPⅢ
@@ -1793,13 +1793,13 @@ index,source,target
 1791,Nature Conga SP V,娜圖雷桃毛SPＶ
 1792,Nature Conga SP VI,娜圖雷桃毛SPⅥ
 1793,Nature Conga SP VII,娜圖雷桃毛SPⅦ
-1794,Colonel Lance SP I,上校槍ＳＰⅠ
-1795,Colonel Lance SP II,上校槍ＳＰⅡ
-1796,Colonel Lance SP III,上校槍ＳＰⅢ
-1797,Colonel Lance SP IV,上校槍ＳＰⅣ
-1798,Colonel Lance SP V,上校槍ＳＰⅤ
-1799,Colonel Lance SP VI,上校槍ＳＰⅥ
-1800,Colonel Lance SP VII,上校槍ＳＰⅦ
+1794,Colonel Lance SP I,上校長槍SP
+1795,Colonel Lance SP II,上校長槍SP
+1796,Colonel Lance SP III,上校長槍SP
+1797,Colonel Lance SP IV,上校長槍SP
+1798,Colonel Lance SP V,上校長槍SP
+1799,Colonel Lance SP VI,上校長槍SP
+1800,Colonel Lance SP VII,上校長槍SP
 1801,Green Tail SP I,緑尾ＳＰI
 1802,Green Tail SP II,緑尾ＳＰⅡ
 1803,Green Tail SP III,緑尾ＳＰⅢ
@@ -1905,13 +1905,13 @@ index,source,target
 1903,Aqua Syphos SP V,水劍SPＶ
 1904,Aqua Syphos SP VI,水劍SPⅥ
 1905,Aqua Syphos SP VII,水劍SPⅦ
-1906,Brave Blade SP I,勇刃ＳＰI
-1907,Brave Blade SP II,勇刃ＳＰⅡ
-1908,Brave Blade SP III,勇刃ＳＰⅢ
-1909,Brave Blade SP IV,勇刃ＳＰⅣ
-1910,Brave Blade SP V,勇刃ＳＰＶ
-1911,Brave Blade SP VI,勇刃ＳＰⅥ
-1912,Brave Blade SP VII,勇刃ＳＰⅦ
+1906,Brave Blade SP I,勇者刃SP
+1907,Brave Blade SP II,勇者刃SP
+1908,Brave Blade SP III,勇者刃SP
+1909,Brave Blade SP IV,勇者刃SP
+1910,Brave Blade SP V,勇者刃SP
+1911,Brave Blade SP VI,勇者刃SP
+1912,Brave Blade SP VII,勇者刃SP
 1913,Twin Nevi SP I,TWⅠNN老ⅤⅠSPⅠ
 1914,Twin Nevi SP II,TWⅠNN老ⅤⅠSPⅠⅠ
 1915,Twin Nevi SP III,TWⅠNN老ⅤⅠSPⅠⅠⅠ
@@ -1933,13 +1933,13 @@ index,source,target
 1931,Dragonslayers SP V,德爾阿格歐恩斯勒ＳＰⅤ
 1932,Dragonslayers SP VI,德爾阿格歐恩斯勒ＳＰⅥ
 1933,Dragonslayers SP VII,德爾阿格歐恩斯勒ＳＰⅦ
-1934,Iron Greatsword SP I,鐵大劍ＳＰⅠ
-1935,Iron Greatsword SP II,鐵大劍ＳＰⅡ
-1936,Iron Greatsword SP III,鐵大劍ＳＰⅢ
-1937,Iron Greatsword SP IV,鐵大劍ＳＰⅣ
-1938,Iron Greatsword SP V,鐵大劍ＳＰⅤ
-1939,Iron Greatsword SP VI,鐵大劍ＳＰⅥ
-1940,Iron Greatsword SP VII,鐵大劍ＳＰⅦ
+1934,Iron Greatsword SP I,鐵大劍SP
+1935,Iron Greatsword SP II,鐵大劍SP
+1936,Iron Greatsword SP III,鐵大劍SP
+1937,Iron Greatsword SP IV,鐵大劍SP
+1938,Iron Greatsword SP V,鐵大劍SP
+1939,Iron Greatsword SP VI,鐵大劍SP
+1940,Iron Greatsword SP VII,鐵大劍SP
 1941,Sailor Sword SP I,斯阿伊勒歐爾劍ＳＰⅠ
 1942,Sailor Sword SP II,斯阿伊勒歐爾劍ＳＰⅡ
 1943,Sailor Sword SP III,斯阿伊勒歐爾劍ＳＰⅢ
@@ -1996,13 +1996,13 @@ index,source,target
 1994,Super Frying Pan SP V,超煎鍋ＳＰⅤ
 1995,Super Frying Pan SP VI,超煎鍋ＳＰⅥ
 1996,Super Frying Pan SP VII,超煎鍋ＳＰⅦ
-1997,Water Horn SP I,水角ＳＰI
-1998,Water Horn SP II,水角ＳＰⅡ
-1999,Water Horn SP III,水角ＳＰⅢ
-2000,Water Horn SP IV,水角ＳＰⅣ
-2001,Water Horn SP V,水角ＳＰＶ
-2002,Water Horn SP VI,水角ＳＰⅥ
-2003,Water Horn SP VII,水角ＳＰⅦ
+1997,Water Horn SP I,水角SP
+1998,Water Horn SP II,水角SP
+1999,Water Horn SP III,水角SP
+2000,Water Horn SP IV,水角SP
+2001,Water Horn SP V,水角SP
+2002,Water Horn SP VI,水角SP
+2003,Water Horn SP VII,水角SP
 2004,Sakura Dreamsong SP I,桜德爾艾阿姆斯歐恩ＳＰⅠ
 2005,Sakura Dreamsong SP II,桜德爾艾阿姆斯歐恩ＳＰⅡ
 2006,Sakura Dreamsong SP III,桜德爾艾阿姆斯歐恩ＳＰⅢ
@@ -2619,13 +2619,13 @@ index,source,target
 2617,Pistola Azule SPV,皮斯歐拉阿祖勒Ⅴ
 2618,Pistola Azule SPVI,皮斯歐拉阿祖勒Ⅵ
 2619,Pistola Azule SPVII,皮斯歐拉阿祖勒Ⅶ
-2620,Red Cat Stick SP I,赤猫棒ＳＰI
-2621,Red Cat Stick SP II,赤猫棒ＳＰⅡ
-2622,Red Cat Stick SP III,赤猫棒ＳＰⅢ
-2623,Red Cat Stick SP IV,赤猫棒ＳＰⅣ
-2624,Red Cat Stick SP V,赤猫棒ＳＰＶ
-2625,Red Cat Stick SP VI,赤猫棒ＳＰⅥ
-2626,Red Cat Stick SP VII,赤猫棒ＳＰⅦ
+2620,Red Cat Stick SP I,赤猫棒SP
+2621,Red Cat Stick SP II,赤猫棒SP
+2622,Red Cat Stick SP III,赤猫棒SP
+2623,Red Cat Stick SP IV,赤猫棒SP
+2624,Red Cat Stick SP V,赤猫棒SP
+2625,Red Cat Stick SP VI,赤猫棒SP
+2626,Red Cat Stick SP VII,赤猫棒SP
 2627,Aqua Sabers SP I,水軍刀ＳＰⅠ
 2628,Aqua Sabers SP II,水軍刀ＳＰⅡ
 2629,Aqua Sabers SP III,水軍刀ＳＰⅢ
@@ -2731,13 +2731,13 @@ index,source,target
 2729,Blk Dragnwd Spr SP V,黒德爾阿格恩瓦德斯普爾ＳＰⅤ
 2730,Blk Dragnwd Spr SP VI,黒德爾阿格恩瓦德斯普爾ＳＰⅥ
 2731,Blk Dragnwd Spr SP VII,黒德爾阿格恩瓦德斯普爾ＳＰⅦ
-2732,Aqua Edge SP I,水刃ＳＰI
-2733,Aqua Edge SP II,水刃ＳＰⅡ
-2734,Aqua Edge SP III,水刃ＳＰⅢ
-2735,Aqua Edge SP IV,水刃ＳＰⅣ
-2736,Aqua Edge SP V,水刃ＳＰＶ
-2737,Aqua Edge SP VI,水刃ＳＰⅥ
-2738,Aqua Edge SP VII,水刃ＳＰⅦ
+2732,Aqua Edge SP I,水刃SP
+2733,Aqua Edge SP II,水刃SP
+2734,Aqua Edge SP III,水刃SP
+2735,Aqua Edge SP IV,水刃SP
+2736,Aqua Edge SP V,水刃SP
+2737,Aqua Edge SP VI,水刃SP
+2738,Aqua Edge SP VII,水刃SP
 2739,High Pleasure SP I,高普勒艾阿斯烏爾艾ＳＰⅠ
 2740,High Pleasure SP II,高普勒艾阿斯烏爾艾ＳＰⅡ
 2741,High Pleasure SP III,高普勒艾阿斯烏爾艾ＳＰⅢ
@@ -2766,13 +2766,13 @@ index,source,target
 2764,Venomous Wolf SPV,維艾恩歐姆歐烏斯狼Ⅴ
 2765,Venomous Wolf SPVI,維艾恩歐姆歐烏斯狼Ⅵ
 2766,Venomous Wolf SPVII,維艾恩歐姆歐烏斯狼Ⅶ
-2767,Red Cat Horn SP I,赤猫角ＳＰI
-2768,Red Cat Horn SP II,赤猫角ＳＰⅡ
-2769,Red Cat Horn SP III,赤猫角ＳＰⅢ
-2770,Red Cat Horn SP IV,赤猫角ＳＰⅣ
-2771,Red Cat Horn SP V,赤猫角ＳＰＶ
-2772,Red Cat Horn SP VI,赤猫角ＳＰⅥ
-2773,Red Cat Horn SP VII,赤猫角ＳＰⅦ
+2767,Red Cat Horn SP I,赤猫角SP
+2768,Red Cat Horn SP II,赤猫角SP
+2769,Red Cat Horn SP III,赤猫角SP
+2770,Red Cat Horn SP IV,赤猫角SP
+2771,Red Cat Horn SP V,赤猫角SP
+2772,Red Cat Horn SP VI,赤猫角SP
+2773,Red Cat Horn SP VII,赤猫角SP
 2774,Aqua Lancia SP I,水槍ＳＰⅠ
 2775,Aqua Lancia SP II,水槍ＳＰⅡ
 2776,Aqua Lancia SP III,水槍ＳＰⅢ
@@ -3508,11 +3508,11 @@ index,source,target
 3506,Hvy Conquerer Rageaxe,終極征克歐恩奎烏艾爾艾拉格阿克斯艾
 3507,Hvy Emperor Greataxe,終極征帝大斧
 3508,Daora's Mistral,崩龍姆伊斯特爾阿勒
-3509,Caravan Blade I,旅團刃I
-3510,Caravan Blade II,旅團刃Ⅱ
-3511,Caravan Blade III,旅團刃Ⅲ
-3512,Caravan Blade IV,旅團刃Ⅳ
-3513,Caravan Blade V,旅團刃Ｖ
+3509,Caravan Blade I,旅團刃Ⅰ
+3510,Caravan Blade II,旅團刃ⅠⅠ
+3511,Caravan Blade III,旅團刃ⅠⅠⅠ
+3512,Caravan Blade IV,旅團刃ⅠⅤ
+3513,Caravan Blade V,旅團刃Ⅴ
 3514,Prototype Fishing Rod,試作釣魚杖
 3515,Fine Fishing Rod,精釣魚杖
 3516,Honed Fishing Rod,研釣魚杖
@@ -3563,11 +3563,11 @@ index,source,target
 3561,Raiden Apparition,化抑制阿普普阿爾伊特伊
 3562,Raging Tornado,拉吉恩龍巻
 3563,Wonder Hammer Kut-Ku,大錘奇怪鳥庫
-3564,Caravan Hammer I,大錘旅團I
-3565,Caravan Hammer II,大錘旅團Ⅱ
-3566,Caravan Hammer III,大錘旅團Ⅲ
-3567,Caravan Hammer IV,大錘旅團Ⅳ
-3568,Caravan Hammer V,大錘旅團Ｖ
+3564,Caravan Hammer I,旅團大錘Ⅰ
+3565,Caravan Hammer II,旅團大錘ⅠⅠ
+3566,Caravan Hammer III,旅團大錘ⅠⅠⅠ
+3567,Caravan Hammer IV,旅團大錘ⅠⅤ
+3568,Caravan Hammer V,旅團大錘Ⅴ
 3569,Ali Exar,阿利艾克斯阿爾
 3570,Fal Exar,夫阿勒艾克斯阿爾
 3571,Vel Exar,維艾勒艾克斯阿爾
@@ -3598,11 +3598,11 @@ index,source,target
 3596,Teostra's Spark,炎王龍S火花
 3597,Teostra's Blast,炎王龍S爆破
 3598,Monoblos Flare,一角龍輝
-3599,Caravan Gunlance I,銃槍旅團I
-3600,Caravan Gunlance II,銃槍旅團Ⅱ
-3601,Caravan Gunlance III,銃槍旅團Ⅲ
-3602,Caravan Gunlance IV,銃槍旅團Ⅳ
-3603,Caravan Gunlance V,銃槍旅團Ｖ
+3599,Caravan Gunlance I,旅團銃槍Ⅰ
+3600,Caravan Gunlance II,旅團銃槍ⅠⅠ
+3601,Caravan Gunlance III,旅團銃槍ⅠⅠⅠ
+3602,Caravan Gunlance IV,旅團銃槍ⅠⅤ
+3603,Caravan Gunlance V,旅團銃槍Ⅴ
 3604,Mirza,MIＲＺ
 3605,Mirza Reach,MIＲＺＲ老ＣH
 3606,Mirza Rogue,MIＲＺ羅古艾
@@ -3757,9 +3757,9 @@ index,source,target
 3755,Shocking Beta Knife,斯哈歐克克伊恩格β刀
 3756,Flowery Pink Lizard,弗歐韋里粉蜥蜴
 3757,Brilliant Pink Lizard,比納桃粉蜥蜴
-3758,ダミー,(dummy)
-3759,ダミー,(dummy)
-3760,ダミー,(dummy)
+3758,ダミー,假
+3759,ダミー,假
+3760,ダミー,假
 3761,Chivalrous Thief's Paw,克哈伊維阿勒爾歐盜賊肉球
 3762,Schwarzkerzen I,SＣHWＲＺｋ老ＲＺ老NI
 3763,Schwarzkerzen II,SＣHWＲＺｋ老ＲＺ老NⅠⅠ
@@ -3791,8 +3791,8 @@ index,source,target
 3789,Blue Giga Claws III,青超巨爪Ⅲ
 3790,Crystalized Pain,克爾伊斯特阿勒伊痛
 3791,Aqua Claws I,水爪Ⅰ
-3792,Aqua Claws II,水爪Ⅱ
-3793,Aqua Claws III,水爪Ⅲ
+3792,Aqua Claws II,水爪ⅠⅠ
+3793,Aqua Claws III,水爪ⅠⅠⅠ
 3794,Vassallo,維阿斯斯阿勒勒歐
 3795,Yellow Giga Claws Ⅰ,黄超巨爪Ⅰ
 3796,Yellow Giga Claws Ⅱ,黄超巨爪Ⅱ
@@ -3807,7 +3807,7 @@ index,source,target
 3805,Nebula Lacerta,星雲勒阿克艾爾特阿
 3806,Nebula Gladius,星雲短劍
 3807,Fatalis Darkblade,黒龍闇刃
-3808,Eques Sword,未來迪劍
+3808,Eques Sword,騎士劍
 3809,Eques Schwert,未來迪斯克哈瓦艾爾特
 3810,Eques Schneide,未來迪斯克哈恩艾伊德艾
 3811,Weiss Raptor,懷斯爾阿普特歐爾
@@ -3854,8 +3854,8 @@ index,source,target
 3852,Nebra Lapis,涅布阿青金
 3853,Cactus Breaker,仙人掌破壞
 3854,Death Venom Head,毒之死頭
-3855,Eques Mace,未來迪鎚
-3856,Eques Hammer,大錘未來迪
+3855,Eques Mace,騎士鎚
+3856,Eques Hammer,騎士大錘
 3857,Eques Impact,未來迪衝撃
 3858,Weiss Gebet,W老ⅠSSＧ老Ｂ老T
 3859,Strega Mace,魔女鎚
@@ -4536,9 +4536,9 @@ index,source,target
 4534,Reve Spike,雷維刺
 4535,Reve Break,Ｒ老Ｖ老ＢＲ老ｋ
 4536,Reve Impact,雷維衝撃
-4537,Sturm Ⅰ,斯特烏爾姆Ⅰ
-4538,Sturm Ⅱ,斯特烏爾姆Ⅱ
-4539,Sturm Ⅲ,斯特烏爾姆Ⅲ
+4537,Sturm Ⅰ,風暴Ⅰ
+4538,Sturm Ⅱ,風暴Ⅱ
+4539,Sturm Ⅲ,風暴Ⅲ
 4540,Erga Sturm,老ＲＧSTＵＲM
 4541,Rubino Bison Ⅴ,紅玉野牛Ⅴ
 4542,Asagiri Horn,阿薩吉里角
@@ -4560,10 +4560,10 @@ index,source,target
 4558,Rubino Acris Ⅲ,紅玉阿克里斯Ⅲ
 4559,Rubino Acris Ⅳ,紅玉阿克里斯Ⅳ
 4560,Rubino Acris Ⅴ,紅玉阿克里斯Ⅴ
-4561,Ophion Lance,長槍俄菲翁
-4562,"Ophion Lance ""Flash""",長槍俄菲翁閃光
-4563,"Ophion Lance ""Shine""",長槍俄菲翁光輝
-4564,"Ophion Lance ""Glory""",長槍俄菲翁栄光
+4561,Ophion Lance,俄菲翁長槍
+4562,"Ophion Lance ""Flash""",俄菲翁長槍閃光
+4563,"Ophion Lance ""Shine""",俄菲翁長槍光輝
+4564,"Ophion Lance ""Glory""",俄菲翁長槍栄光
 4565,Yama Tsukami Lotus,山神龍蓮
 4566,Sukhavati Lotus,斯烏克哈阿維阿特蓮
 4567,Improved Machine Lance,長槍改良瑪奇伊涅
@@ -4614,8 +4614,8 @@ index,source,target
 4612,Rubino Hawk Ⅴ,紅玉鷹Ⅴ
 4613,Caravan Sword Ⅵ,旅團劍Ⅵ
 4614,Caravan Blade Ⅵ,旅團刃Ⅵ
-4615,Caravan Hammer Ⅵ,大錘旅團Ⅵ
-4616,Caravan Gunlance Ⅵ,銃槍旅團Ⅵ
+4615,Caravan Hammer Ⅵ,旅團大錘Ⅵ
+4616,Caravan Gunlance Ⅵ,旅團銃槍Ⅵ
 4617,Caravan Pair Ⅰ,旅團對Ⅰ
 4618,Caravan Pair Ⅱ,旅團對Ⅱ
 4619,Caravan Pair Ⅲ,旅團對Ⅲ
@@ -4634,12 +4634,12 @@ index,source,target
 4632,Caravan Pipe Ⅳ,旅團管Ⅳ
 4633,Caravan Pipe Ⅴ,旅團管Ⅴ
 4634,Caravan Pipe Ⅵ,旅團管Ⅵ
-4635,Caravan Lance Ⅰ,長槍旅團Ⅰ
-4636,Caravan Lance Ⅱ,長槍旅團Ⅱ
-4637,Caravan Lance Ⅲ,長槍旅團Ⅲ
-4638,Caravan Lance Ⅳ,長槍旅團Ⅳ
-4639,Caravan Lance Ⅴ,長槍旅團Ⅴ
-4640,Caravan Lance Ⅵ,長槍旅團Ⅵ
+4635,Caravan Lance Ⅰ,旅團長槍Ⅰ
+4636,Caravan Lance Ⅱ,旅團長槍Ⅱ
+4637,Caravan Lance Ⅲ,旅團長槍Ⅲ
+4638,Caravan Lance Ⅳ,旅團長槍Ⅳ
+4639,Caravan Lance Ⅴ,旅團長槍Ⅴ
+4640,Caravan Lance Ⅵ,旅團長槍Ⅵ
 4641,Volpe Luce,狐魯瑟
 4642,Volpe Rallo,狐爾阿勒勒歐
 4643,Volpe Pugnali,狐普烏格恩阿勒伊
@@ -4651,8 +4651,8 @@ index,source,target
 4649,Vulcross,維烏勒克爾歐斯斯
 4650,Untouchable,烏恩特歐烏克哈阿
 4651,Black Wolf Blade,黒狼刃
-4652,Eques Knife,未來迪刀
-4653,Eques Dagger,未來迪短劍
+4652,Eques Knife,騎士刀
+4653,Eques Dagger,騎士短劍
 4654,Eques Sabel,未來迪斯阿布艾勒
 4655,Weiss Bericht,W老ⅠSSＢ老ＲⅠＣHT
 4656,Strega Knife,魔女刀
@@ -4755,7 +4755,7 @@ index,source,target
 4753,Thunder Hawk Ⅰ,雷鷹Ⅰ
 4754,Thunder Hawk Ⅱ,雷鷹Ⅱ
 4755,Thunder Hawk Ⅲ,雷鷹Ⅲ
-4756,Lightning,雷
+4756,Lightning,雷光
 4757,Ice Hawk Ⅰ,冰鷹Ⅰ
 4758,Ice Hawk Ⅱ,冰鷹Ⅱ
 4759,Ice Hawk Ⅲ,冰鷹Ⅲ
@@ -5369,7 +5369,7 @@ index,source,target
 5367,Fang Merman A,FNＧM老ＲMN
 5368,Fang Merman P,牙姆艾爾姆阿恩P
 5369,Fang Merman S,牙姆艾爾姆阿恩S
-5370,Eques Gunlance,銃槍未來迪
+5370,Eques Gunlance,騎士銃槍
 5371,Eques Carol,未來迪克阿爾歐勒
 5372,Eques Burst,未來迪爆
 5373,Weissregen,W老ⅠSSＲ老Ｇ老N
@@ -6127,12 +6127,12 @@ index,source,target
 6125,"Tenkawa No Furyu ""Eagle""",特艾恩克阿瓦阿之芙里烏艾阿格艾
 6126,"Tenkawa No Furyu ""Koto""",特艾恩克阿瓦阿之芙里烏科托
 6127,Hoshi no Michibiki,霍修伊米奇伊比奇
-6128,Eques Horn,未來迪之角
+6128,Eques Horn,騎士角
 6129,Eques Kiel,未來迪克伊艾勒
 6130,Eques Kerno,未來迪克艾爾恩歐
 6131,Weiss Lift,懷斯挙
 6132,Weiss Edel,懷斯艾德艾勒
-6133,Strega Horn,魔女之角
+6133,Strega Horn,魔女角
 6134,Strega Kiel,魔女克伊艾勒
 6135,Strega Kerno,魔女克艾爾恩歐
 6136,Black Forest,黒森
@@ -6227,35 +6227,35 @@ index,source,target
 6225,"Unknown Blade ""Thunder""",雷未知刃
 6226,"Unknown Blade ""Imperial""",未知刃帝國
 6227,"Unknown Blade ""Glacier""",未知刃氷
-6228,Argen Knife,銀白刀
-6229,Argen Dagger,銀白短劍
+6228,Argen Knife,阿爾根刀
+6229,Argen Dagger,阿爾根短劍
 6230,Zilberbericht,茲伊勒布艾爾布艾
 6231,Zilva Byhite,茲伊勒維阿布伊哈伊特艾
 6232,Argen Cutter,銀白切斷
 6233,Argen Slicer,銀白斬撃
 6234,Zilvawind,茲伊勒維阿瓦伊恩
 6235,Zilva Atem,茲伊勒維阿阿特艾姆
-6236,Argen Sword,銀白劍
+6236,Argen Sword,阿爾根劍
 6237,Argen Schwert,ＲＧ老NSＣHW老ＲT
 6238,Zilva Raptor,席爾瓦爾阿普特歐爾
 6239,Zilva Hagel,席爾瓦哈阿格艾勒
-6240,Argen Edge,銀白刃
-6241,Argen Blade,銀白刃
+6240,Argen Edge,阿爾根刃
+6241,Argen Blade,阿爾根刃
 6242,Zilva Perle,席爾瓦珠
 6243,Zilva Sand,席爾瓦砂
-6244,Argen Mace,銀白鎚
-6245,Argen Hammer,大錘銀白
+6244,Argen Mace,阿爾根鎚
+6245,Argen Hammer,阿爾根大錘
 6246,Zilva Gebet,席爾瓦格艾布艾特
 6247,Zilva Gehorsam,席爾瓦格艾哈歐爾斯阿姆
 6248,Argen Trumpet,ＲＧ老NTＲＵMP老T
 6249,Argen Wind,銀白風
 6250,Zilva Tone,席爾瓦音
 6251,Zilva Flute,席爾瓦笛
-6252,Argen Lance,長槍銀白
-6253,Argen Spear,銀白槍
+6252,Argen Lance,阿爾根長槍
+6253,Argen Spear,阿爾根槍
 6254,Zilva Berg,席爾瓦山
 6255,Zila Insel,茲拉伊恩斯艾勒
-6256,Argen Gunlance,銃槍銀白
+6256,Argen Gunlance,阿爾根銃槍
 6257,Argen Carrol,銀白可羅
 6258,Zilva Regen,席爾瓦極征服
 6259,Zilva Abgrund,茲伊勒維阿阿布格爾烏恩德
@@ -6330,10 +6330,10 @@ index,source,target
 6328,B818・角竜剣クリムガング,B818・角龍劍克里姆剛
 6329,B918・角竜剣クリムスレイブ,B918・角龍劍克里姆奴隷
 6330,Scarlet Sword,緋劍
-6331,"Scarlet Sword ""Light""",緋劍光
-6332,"Scarlet Sword ""Glow""",緋劍輝光
-6333,"Scarlet Sword ""Beam""",緋劍光
-6334,"Scarlet Sword ""Sun""",緋劍日
+6331,"Scarlet Sword ""Light""",緋劍Light
+6332,"Scarlet Sword ""Glow""",緋劍Glow
+6333,"Scarlet Sword ""Beam""",緋劍Beam
+6334,"Scarlet Sword ""Sun""",緋劍Sun
 6335,"Scarlet Sword ""Flash""",緋劍閃光
 6336,Nepa Boltcutter,尼波斷線鉗
 6337,Nepa Fierce Boltcutter,尼波猛斷線鉗
@@ -6438,9 +6438,9 @@ index,source,target
 6436,Ifrit's Saber,伊夫爾伊特S劍
 6437,Ifrit's Blade,伊夫爾伊特S刃
 6438,Dilek Magisword Flame,德伊勒艾克姆阿格伊斯瓦歐爾焔
-6439,Lightning Sword,雷劍
+6439,Lightning Sword,雷光劍
 6440,Lightning Sabre,雷薩布艾
-6441,Lightning Blade,雷刃
+6441,Lightning Blade,雷光刃
 6442,Dilek Magisword Bolt,雷德伊勒艾克姆阿格伊斯瓦歐爾
 6443,2B19・ガウシカラデン,2B19・爾阿德艾恩
 6444,2C19・ガウシカベルタ,2C19・高什可貝爾塔
@@ -6460,11 +6460,11 @@ index,source,target
 6458,Crushing Conquereraxe,証明球克歐恩奎烏艾爾艾斧
 6459,Lurzgesang,勒烏爾茲格艾斯阿
 6460,Scarlet Katana,緋刀
-6461,"Scarlet Katana ""Full""",緋刀滿
-6462,"Scarlet Katana ""Dawn""",緋刀暁
-6463,"Scarlet Katana""Disaster""",緋刀災厄
-6464,"Scarlet Katana ""Heaven""",緋刀天
-6465,"Scarlet Katana ""God""",緋刀神
+6461,"Scarlet Katana ""Full""",緋刀Full
+6462,"Scarlet Katana ""Dawn""",緋刀Dawn
+6463,"Scarlet Katana""Disaster""",緋刀Disaster
+6464,"Scarlet Katana ""Heaven""",緋刀Heaven
+6465,"Scarlet Katana ""God""",緋刀God
 6466,4219・覇帝刀ケミカムトルム,4219・覇帝刀凱米
 6467,4319・覇帝刀チュカムトルム,4319・覇帝刀奇烏
 6468,4419・覇帝刀ヤイカムトルム,4419・覇帝刀雅伊
@@ -6514,11 +6514,11 @@ index,source,target
 6512,Bull Meteor Strike,野牛流星打
 6513,Thunderbolt Apparition,特哈烏恩德艾爾布阿普普阿爾伊特伊
 6514,Scarlet Mallet,緋鎚
-6515,"Scarlet Mallet ""Ghost""",緋鎚幽靈
-6516,"Scarlet Mallet ""Soul""",緋鎚魂
-6517,"Scarlet Mallet ""Spirit""",緋鎚靈
-6518,"Scarlet Mallet ""Loyalty""",緋鎚
-6519,"Scarlet Mallet ""Ogre""",緋鎚食人
+6515,"Scarlet Mallet ""Ghost""",緋鎚Ghost
+6516,"Scarlet Mallet ""Soul""",緋鎚Soul
+6517,"Scarlet Mallet ""Spirit""",緋鎚Spirit
+6518,"Scarlet Mallet ""Loyalty""",緋鎚Loyalty
+6519,"Scarlet Mallet ""Ogre""",緋鎚Ogre
 6520,"Conehead Stamp ""White""",錐頭印白
 6521,"Conehead Strike ""White""",錐頭打白
 6522,"Conehead Smasher ""White""",錐頭粉碎白
@@ -6582,17 +6582,17 @@ index,source,target
 6580,Hellweiss Hammer,大錘哈艾勒勒瓦艾伊斯
 6581,Gravios Revival,鎧龍復活
 6582,Far Destroyer,遠破壊
-6583,Scarlet Horn,緋之角
-6584,"Scarlet Horn ""Dance""",緋角舞
-6585,"Scarlet Horn ""Party""",緋角派對
-6586,"Scarlet Horn ""Dancer""",緋角
-6587,"Scarlet Horn ""Musical""",緋角牙血鐵
-6588,"Scarlet Horn ""Resolve""",緋角比納桃
+6583,Scarlet Horn,緋角
+6584,"Scarlet Horn ""Dance""",緋角Dance
+6585,"Scarlet Horn ""Party""",緋角Party
+6586,"Scarlet Horn ""Dancer""",緋角Dancer
+6587,"Scarlet Horn ""Musical""",緋角Musical
+6588,"Scarlet Horn ""Resolve""",緋角Resolve
 6589,Lava Heavy Metal,熔岩重金属
 6590,Lava Death Metal,熔岩死金属
 6591,Lava Loud Rock,熔勒歐烏德岩
 6592,Lava Alternative,熔阿勒特艾爾恩阿特
-6593,Ophion Horn,俄菲翁之角
+6593,Ophion Horn,俄菲翁角
 6594,"Ophion Horn ""Flash""",俄菲翁角閃光
 6595,"Ophion Horn ""Shine""",俄菲翁角光輝
 6596,"Ophion Horn ""Glory""",俄菲翁角栄光
@@ -6607,7 +6607,7 @@ index,source,target
 6605,Nadeshi Recorder,娜德修伊爾艾克歐爾德艾爾
 6606,Silver Spirits,銀斯普伊爾伊特斯
 6607,Khezu Basoon,奇怪龍布阿斯歐歐恩
-6608,Scarlet Lance,長槍緋
+6608,Scarlet Lance,緋長槍
 6609,Blank Scarlet Lance,長槍布勒阿恩克緋
 6610,Moral Scarlet Lance,長槍姆歐爾阿勒緋
 6611,Evil Scarlet Lance,長槍惡緋
@@ -6761,7 +6761,7 @@ index,source,target
 6759,Thunder Edge Ⅰ,雷刃Ⅰ
 6760,Thunder Edge Ⅱ,雷刃Ⅱ
 6761,Thunder Edge Ⅲ,雷刃Ⅲ
-6762,Lightning Edge,雷刃
+6762,Lightning Edge,雷光刃
 6763,Frozen Edge Ⅰ,凍結刃Ⅰ
 6764,Frozen Edge Ⅱ,凍結刃Ⅱ
 6765,Frozen Edge Ⅲ,凍結刃Ⅲ
@@ -6925,15 +6925,15 @@ index,source,target
 6923,Nessa Organ,恩艾斯斯阿臓
 6924,Nessa Organ+,恩艾斯斯阿臓＋
 6925,"Muse's Song ""Joyful""",磨尾虎S歌
-6926,ダミー,(dummy)
+6926,ダミー,假
 6927,Barell Organ,布阿爾艾勒勒臓
 6928,Barell Organ+,布阿爾艾勒勒臓＋
 6929,"Muse's Song ""Courage""",磨尾虎S歌勇気
-6930,ダミー,(dummy)
+6930,ダミー,假
 6931,Coruro Organ,科魯羅臓
 6932,Coruro Organ Kai,科魯羅臓可伊
 6933,"Muse's Song ""Peace""",磨尾虎S歌平和
-6934,ダミー,(dummy)
+6934,ダミー,假
 6935,True Full Organ,真全臓
 6936,True Full Organ+,真全臓＋
 6937,"Muse's Song ""Silver""",磨尾虎S歌銀
@@ -7035,22 +7035,22 @@ index,source,target
 7033,Dio Soul Ω,迪歐魂Ω
 7034,Dio Remote Ω,迪歐遙控Ω
 7035,Arthur Blast,爆破阿爾特哈烏爾
-7036,ダミー,(dummy)
-7037,ダミー,(dummy)
-7038,ダミー,(dummy)
-7039,ダミー,(dummy)
-7040,ダミー,(dummy)
-7041,ダミー,(dummy)
-7042,ダミー,(dummy)
-7043,ダミー,(dummy)
-7044,ダミー,(dummy)
-7045,ダミー,(dummy)
-7046,ダミー,(dummy)
-7047,ダミー,(dummy)
-7048,ダミー,(dummy)
-7049,ダミー,(dummy)
-7050,ダミー,(dummy)
-7051,ダミー,(dummy)
+7036,ダミー,假
+7037,ダミー,假
+7038,ダミー,假
+7039,ダミー,假
+7040,ダミー,假
+7041,ダミー,假
+7042,ダミー,假
+7043,ダミー,假
+7044,ダミー,假
+7045,ダミー,假
+7046,ダミー,假
+7047,ダミー,假
+7048,ダミー,假
+7049,ダミー,假
+7050,ダミー,假
+7051,ダミー,假
 7052,"Hadean Saber ""Infernal""",冥府劍
 7053,"Hadean Saber ""River""",冥府劍川
 7054,"Hadean Saber ""Thunder""",雷冥府劍
@@ -7082,15 +7082,15 @@ index,source,target
 7080,"PoisonDrgnSwrd""Onimusha""",毒龍黑鍵盤歐尼穆修阿
 7081,"PoisonDrgnSwrd""Onitake""",毒龍黑鍵盤歐尼塔凱
 7082,Thunder Sword,雷劍
-7083,"Thunder Sword ""Oni""",雷劍鬼
-7084,"Thunder Sword ""Onibu""",雷劍歐尼布
-7085,"Thunder Sword ""Onimusha""",雷劍歐尼穆修阿
-7086,"Thunder Sword ""Onitake""",雷劍歐尼塔凱
+7083,"Thunder Sword ""Oni""",雷劍Oni
+7084,"Thunder Sword ""Onibu""",雷劍Onibu
+7085,"Thunder Sword ""Onimusha""",雷劍Onimusha
+7086,"Thunder Sword ""Onitake""",雷劍Onitake
 7087,Water Sword,水劍
-7088,"Water Sword ""Oni""",水劍鬼
-7089,"Water Sword ""Onibu""",水劍歐尼布
-7090,"Water Sword ""Onimusha""",水劍歐尼穆修阿
-7091,"Water Sword ""Onitake""",水劍歐尼塔凱
+7088,"Water Sword ""Oni""",水劍Oni
+7089,"Water Sword ""Onibu""",水劍Onibu
+7090,"Water Sword ""Onimusha""",水劍Onimusha
+7091,"Water Sword ""Onitake""",水劍Onitake
 7092,Heat Nail,耐暑釘
 7093,Heat Pick,耐暑証明球
 7094,Heat Claw,耐暑之爪
@@ -7111,30 +7111,30 @@ index,source,target
 7109,Primal Pillar,原始柱
 7110,Primal Symbol,原始象
 7111,Primal Totem,原始特歐特艾姆
-7112,ダミー,(dummy)
-7113,ダミー,(dummy)
-7114,ダミー,(dummy)
-7115,ダミー,(dummy)
-7116,ダミー,(dummy)
-7117,ダミー,(dummy)
-7118,ダミー,(dummy)
-7119,ダミー,(dummy)
-7120,ダミー,(dummy)
-7121,ダミー,(dummy)
-7122,ダミー,(dummy)
-7123,ダミー,(dummy)
-7124,ダミー,(dummy)
-7125,ダミー,(dummy)
-7126,ダミー,(dummy)
-7127,ダミー,(dummy)
-7128,ダミー,(dummy)
-7129,ダミー,(dummy)
-7130,ダミー,(dummy)
-7131,ダミー,(dummy)
-7132,ダミー,(dummy)
-7133,ダミー,(dummy)
-7134,ダミー,(dummy)
-7135,ダミー,(dummy)
+7112,ダミー,假
+7113,ダミー,假
+7114,ダミー,假
+7115,ダミー,假
+7116,ダミー,假
+7117,ダミー,假
+7118,ダミー,假
+7119,ダミー,假
+7120,ダミー,假
+7121,ダミー,假
+7122,ダミー,假
+7123,ダミー,假
+7124,ダミー,假
+7125,ダミー,假
+7126,ダミー,假
+7127,ダミー,假
+7128,ダミー,假
+7129,ダミー,假
+7130,ダミー,假
+7131,ダミー,假
+7132,ダミー,假
+7133,ダミー,假
+7134,ダミー,假
+7135,ダミー,假
 7136,Schwarz Herz,SＣHWＲＺH老ＲＺ
 7137,Amix Caprice,MIⅩＣPＲIＣ老
 7138,Kima,ｋⅠM
@@ -7294,7 +7294,7 @@ index,source,target
 7292,Dual Ice Sword,雙氷劍
 7293,Ice Break,冰砕
 7294,Ice Circle,冰円
-7295,ダミー,(dummy)
+7295,ダミー,假
 7296,Extreme Wolves,極瓦歐勒維艾斯
 7297,Twin Kirin Lightning,麒麟球紋章雷
 7298,Yatsuzaki Festa,伊阿特斯烏茲阿克菲斯阿
@@ -7310,7 +7310,7 @@ index,source,target
 7308,Slash Cancer,斬巨蟹
 7309,Cut Cancer,切巨蟹
 7310,Shear Cancer,SH老ＲＣNＣ老Ｒ
-7311,ダミー,(dummy)
+7311,ダミー,假
 7312,Aqua Blitz SPⅠ,水閃撃ＳＰⅠ
 7313,Aqua Blitz SPⅡ,水閃撃ＳＰⅡ
 7314,Aqua Blitz SPⅢ,水閃撃ＳＰⅢ
@@ -7487,9 +7487,9 @@ index,source,target
 7485,Phoenix Lance,長槍鎧沸血
 7486,3E1D・閃晶槍イリヤフォス,3E1D・閃晶槍伊里雅佛蘇
 7487,"Thunder Spear ""Flash""",雷槍閃光
-7488,"Thunder Spear ""Roar""",雷槍咆哮
-7489,"Thunder Spear ""Rumble""",雷矛爾烏姆布勒艾
-7490,"Thunder Spear ""Sunder""",雷槍斯烏恩德艾爾
+7488,"Thunder Spear ""Roar""",雷槍Roar
+7489,"Thunder Spear ""Rumble""",雷槍Rumble
+7490,"Thunder Spear ""Sunder""",雷槍Sunder
 7491,Don Frozen SPⅠ,堂凍結ＳＰⅠ
 7492,Don Frozen SPⅡ,堂凍結ＳＰⅡ
 7493,Don Frozen SPⅢ,堂凍結ＳＰⅢ
@@ -7519,7 +7519,7 @@ index,source,target
 7517,5D1D・ニューニ・ファナレル,5D1D・恩伊烏恩伊・法娜雷魯
 7518,5E1D・ニューニ・ファニー,5E1D・恩伊烏恩伊・法尼
 7519,5F1D・エンデニューニ,5F1D・艾恩德艾恩伊烏恩
-7520,ダミー,(dummy)
+7520,ダミー,假
 7521,Elute Sarissa,艾魯特斯阿爾伊斯斯阿
 7522,Black Wolf Fear Spear,黒狼音未來槍
 7523,631D・陽春之槍【春竜胆】,631D・陽春之槍【春竜胆】
@@ -7533,11 +7533,11 @@ index,source,target
 7531,Niger A. Ruko,嵐龍黑
 7532,Niger's Adam,NIＧ老ＲSＤM
 7533,Scarlet Spear,緋槍
-7534,"Scarlet Spear ""Courage""",緋槍勇気
-7535,"Scarlet Spear ""Brave""",緋槍勇
-7536,"Scarlet Spear ""Daring""",緋槍達里恩
-7537,"Scarlet Spear ""Heroic""",緋槍爾霧野
-7538,"Scarlet Spear ""Valor""",緋槍維阿勒歐爾
+7534,"Scarlet Spear ""Courage""",緋槍Courage
+7535,"Scarlet Spear ""Brave""",緋槍Brave
+7536,"Scarlet Spear ""Daring""",緋槍Daring
+7537,"Scarlet Spear ""Heroic""",緋槍Heroic
+7538,"Scarlet Spear ""Valor""",緋槍Valor
 7539,Still Water,水血吼牙
 7540,Stream Water,水流
 7541,Rapid Water,ＲPIＤWT老Ｒ
@@ -7564,9 +7564,9 @@ index,source,target
 7562,Winged Fireblast,翼菲雷布阿斯
 7563,Winged Fierce Fireblast,翼猛菲雷布阿斯
 7564,Winged Violent Fireblast,翼凶暴菲雷布阿斯
-7565,Brave Cannon I,勇加農砲I
-7566,Brave Cannon II,勇加農砲Ⅱ
-7567,Brave Cannon III,勇加農砲Ⅲ
+7565,Brave Cannon I,勇者加農砲Ⅰ
+7566,Brave Cannon II,勇者加農砲ⅠⅠ
+7567,Brave Cannon III,勇者加農砲ⅠⅠⅠ
 7568,Bra Haelta,布阿哈阿艾勒特阿
 7569,Accra Halva,阿克克爾阿哈阿勒維阿
 7570,Fang Y Kerberos,牙Ｙ克艾爾布艾爾歐斯
@@ -7580,12 +7580,12 @@ index,source,target
 7578,"Rock Gunblade ""Slash""",岩銃刃「斬」
 7579,True Slasher Odi Sword,真斬奧劍
 7580,True Slayer Odi Sword,真殺手奧劍
-7581,ダミー,(dummy)
+7581,ダミー,假
 7582,Nebula Bornale,星雲布歐爾恩阿勒艾
 7583,"Gogomoa Sword ""Dark""",跳緋獸劍闇
-7584,Epidosis Sword Ⅰ,疫病劍Ⅰ
-7585,Epidosis Sword Ⅱ,疫病劍Ⅱ
-7586,Epidosis Sword Ⅲ,疫病劍Ⅲ
+7584,Epidosis Sword Ⅰ,艾皮多西斯劍Ⅰ
+7585,Epidosis Sword Ⅱ,艾皮多西斯劍Ⅱ
+7586,Epidosis Sword Ⅲ,艾皮多西斯劍Ⅲ
 7587,Cambriosword Ⅰ,克阿姆布爾伊歐斯Ⅰ
 7588,Cambriosword Ⅱ,克阿姆布爾伊歐斯Ⅱ
 7589,Cambriosword Ⅲ,克阿姆布爾伊歐斯Ⅲ
@@ -7658,32 +7658,32 @@ index,source,target
 7656,Steel Swallow Ⅵ,鋼燕Ⅵ
 7657,Ice Brand,IＣ老ＢＲNＤ
 7658,EA1D・ナールイウサール,EA1D・娜魯伊烏薩魯
-7659,ダミー,(dummy)
-7660,ダミー,(dummy)
-7661,ダミー,(dummy)
-7662,ダミー,(dummy)
-7663,ダミー,(dummy)
-7664,ダミー,(dummy)
-7665,ダミー,(dummy)
-7666,ダミー,(dummy)
-7667,ダミー,(dummy)
-7668,ダミー,(dummy)
-7669,ダミー,(dummy)
-7670,ダミー,(dummy)
-7671,ダミー,(dummy)
-7672,ダミー,(dummy)
-7673,ダミー,(dummy)
-7674,ダミー,(dummy)
-7675,ダミー,(dummy)
+7659,ダミー,假
+7660,ダミー,假
+7661,ダミー,假
+7662,ダミー,假
+7663,ダミー,假
+7664,ダミー,假
+7665,ダミー,假
+7666,ダミー,假
+7667,ダミー,假
+7668,ダミー,假
+7669,ダミー,假
+7670,ダミー,假
+7671,ダミー,假
+7672,ダミー,假
+7673,ダミー,假
+7674,ダミー,假
+7675,ダミー,假
 7676,FC1D・弩岩大剣【断】,FC1D・弩岩大剣【断】
 7677,FD1D・弩岩大剣【凄断】,FD1D・弩岩大剣【凄断】
 7678,True Judgement Odi Sword,真杰烏德格艾姆艾恩奧劍
 7679,Heavy Decision Odi Sword,重德艾克伊斯伊歐恩奧劍
-7680,ダミー,(dummy)
+7680,ダミー,假
 7681,"Taikun Edge ""Spidr Lily""",多殼蟹刃
-7682,Epidosis Blade Ⅰ,疫病刃Ⅰ
-7683,Epidosis Blade Ⅱ,疫病刃Ⅱ
-7684,Epidosis Blade Ⅲ,疫病刃Ⅲ
+7682,Epidosis Blade Ⅰ,艾皮多西斯刃Ⅰ
+7683,Epidosis Blade Ⅱ,艾皮多西斯刃Ⅱ
+7684,Epidosis Blade Ⅲ,艾皮多西斯刃Ⅲ
 7685,Cambrio Blade Ⅰ,坎布里奧刃Ⅰ
 7686,Cambrio Blade Ⅱ,坎布里奧刃Ⅱ
 7687,Cambrio Blade Ⅲ,坎布里奧刃Ⅲ
@@ -7806,11 +7806,11 @@ index,source,target
 7804,"Dagger Spear ""Slash""",短劍槍斬
 7805,7D1E・弩岩獄槍【兎突】,7D1E・弩岩獄槍【兎突】
 7806,Cloudburst Odi Lance,克勒歐烏德布烏爾奧槍
-7807,ダミー,(dummy)
+7807,ダミー,假
 7808,Sixth Fury Lance,長槍西克斯斯狂
-7809,Epidosis Lance Ⅰ,長槍疫病Ⅰ
-7810,Epidosis Lance Ⅱ,長槍疫病Ⅱ
-7811,Epidosis Lance Ⅲ,長槍疫病Ⅲ
+7809,Epidosis Lance Ⅰ,艾皮多西斯長槍Ⅰ
+7810,Epidosis Lance Ⅱ,艾皮多西斯長槍Ⅱ
+7811,Epidosis Lance Ⅲ,艾皮多西斯長槍Ⅲ
 7812,Cambrio Lance Ⅰ,坎布里奧槍Ⅰ
 7813,Cambrio Lance Ⅱ,坎布里奧槍Ⅱ
 7814,Cambrio Lance Ⅲ,坎布里奧槍Ⅲ
@@ -7861,9 +7861,9 @@ index,source,target
 7859,B31E・弩岩銃槍【払撃】,B31E・弩岩銃槍【払撃】
 7860,Smasher Odi Gunlance,銃槍粉碎奧
 7861,Thrusting Odi Gunlance,銃槍斯魯斯伊恩奧
-7862,ダミー,(dummy)
+7862,ダミー,假
 7863,B71E・天狼極銃槍【七星】,B71E・天狼極銃槍【七星】
-7864,ダミー,(dummy)
+7864,ダミー,假
 7865,B91E・カドマツガンランス,B91E・克阿德歐姆阿特斯
 7866,BA1E・カドマツキャノン,BA1E・克阿德歐姆阿特斯
 7867,New Years Gunlance,銃槍新年
@@ -7875,7 +7875,7 @@ index,source,target
 7873,Cambrio Rook Ⅱ,坎布里奧城堡Ⅱ
 7874,Cambrio Rook Ⅲ,坎布里奧城堡Ⅲ
 7875,Schwarz Ehrlich,黑艾哈爾勒伊克哈
-7876,Caravan Gunlance Ⅶ,銃槍旅團Ⅶ
+7876,Caravan Gunlance Ⅶ,旅團銃槍Ⅶ
 7877,Dragoon Gadget,龍騎機關
 7878,Dragoon Cannon,龍騎加農砲
 7879,C71E・ドラグーンティル,C71E・德歐爾阿格烏恩特
@@ -7896,28 +7896,28 @@ index,source,target
 7894,D61E・レッジ・オネッタ,D61E・爾艾爾杰伊・歐恩艾恩特阿
 7895,Steel Hawk Ⅵ,鋼鷹Ⅵ
 7896,Caliburn FX,克阿勒伊布烏爾恩FX
-7897,ダミー,(dummy)
-7898,ダミー,(dummy)
-7899,ダミー,(dummy)
-7900,ダミー,(dummy)
-7901,ダミー,(dummy)
-7902,ダミー,(dummy)
-7903,ダミー,(dummy)
-7904,ダミー,(dummy)
-7905,ダミー,(dummy)
-7906,ダミー,(dummy)
-7907,ダミー,(dummy)
-7908,ダミー,(dummy)
-7909,ダミー,(dummy)
-7910,ダミー,(dummy)
-7911,ダミー,(dummy)
-7912,ダミー,(dummy)
-7913,ダミー,(dummy)
-7914,ダミー,(dummy)
-7915,ダミー,(dummy)
-7916,ダミー,(dummy)
-7917,ダミー,(dummy)
-7918,ダミー,(dummy)
+7897,ダミー,假
+7898,ダミー,假
+7899,ダミー,假
+7900,ダミー,假
+7901,ダミー,假
+7902,ダミー,假
+7903,ダミー,假
+7904,ダミー,假
+7905,ダミー,假
+7906,ダミー,假
+7907,ダミー,假
+7908,ダミー,假
+7909,ダミー,假
+7910,ダミー,假
+7911,ダミー,假
+7912,ダミー,假
+7913,ダミー,假
+7914,ダミー,假
+7915,ダミー,假
+7916,ダミー,假
+7917,ダミー,假
+7918,ダミー,假
 7919,Poison Spider,毒蜘蛛
 7920,Ahtal Spider,阿哈特阿勒蛛
 7921,Water Triumph,水特爾伊烏姆普哈
@@ -7946,7 +7946,7 @@ index,source,target
 7944,Sleep Charger,睡眠克哈阿爾格艾爾
 7945,Pure Black Gravios Spear,鎧龍純黒槍
 7946,Tri Blazer,特伊布勒阿茲艾爾
-7947,ダミー,(dummy)
+7947,ダミー,假
 7948,"Gogomoa Sword ""Void""",跳緋獸劍維歐伊德
 7949,Nebula Bornaleio,星雲布歐爾恩阿勒艾伊
 7950,0E1F・極舞雷双【角鷹】,0E1F・極舞雷双【角鷹】
@@ -8015,16 +8015,16 @@ index,source,target
 8013,Attack Ⅲ,攻撃力Ⅲ
 8014,Attack Super,攻撃力超
 8015,Angry Surprise,怒斯烏爾普爾伊斯艾
-8016,ダミー,(dummy)
-8017,ダミー,(dummy)
-8018,ダミー,(dummy)
-8019,ダミー,(dummy)
-8020,ダミー,(dummy)
-8021,ダミー,(dummy)
-8022,ダミー,(dummy)
-8023,ダミー,(dummy)
-8024,ダミー,(dummy)
-8025,ダミー,(dummy)
+8016,ダミー,假
+8017,ダミー,假
+8018,ダミー,假
+8019,ダミー,假
+8020,ダミー,假
+8021,ダミー,假
+8022,ダミー,假
+8023,ダミー,假
+8024,ダミー,假
+8025,ダミー,假
 8026,Cataclysm Lance,克阿特阿克勒伊斯槍
 8027,Cataclysm Grasp,克阿特阿克勒伊斯格爾阿斯普
 8028,5C1F・カタクリズムコーリン,5C1F・可塔庫里祖穆科里
@@ -8114,9 +8114,9 @@ index,source,target
 8112,B01F・イノシダス,B01F・伊諾修伊達蘇
 8113,Prison Binding Mace,牢球紋章鎚
 8114,Infinity Knife,無限刀
-8115,Awis knife,WⅠSｋNⅠF老
+8115,Awis knife,阿維斯刀
 8116,B41F・ヴォーラナイフ,B41F・沃拉娜伊芙
-8117,ダミー,(dummy)
+8117,ダミー,假
 8118,"Oni Knife ""Fang""",鬼刀之牙
 8119,"Oni Knife ""Dual Horn""",鬼刀雙之角
 8120,"Oni Knife ""Twin Fangs""",鬼刀球紋章爾霧野
@@ -8192,7 +8192,7 @@ index,source,target
 8190,Infinity Double Axe,無限双斧
 8191,Awis Slicer,阿瓦伊斯斬撃
 8192,Vola Cutter,沃拉切斷
-8193,ダミー,(dummy)
+8193,ダミー,假
 8194,Bamboo Decoration,竹爾霧野
 8195,Heavenly Style Bamboo,天上流竹
 8196,Light Band Bamboo,光帶竹
@@ -8231,9 +8231,9 @@ index,source,target
 8229,Fallen Dusk,夫阿勒勒艾恩黄昏
 8230,Void Ring,維歐伊德環
 8231,Infinity Blade,無限刃
-8232,Awis Blade,阿瓦伊斯刃
+8232,Awis Blade,阿維斯刃
 8233,Vora Sword,沃拉劍
-8234,ダミー,(dummy)
+8234,ダミー,假
 8235,Raid Ⅰ,爾阿伊德Ⅰ
 8236,Raid Ⅱ,爾阿伊德Ⅱ
 8237,Raid Ⅲ,爾阿伊德Ⅲ
@@ -8280,9 +8280,9 @@ index,source,target
 8278,Votom Wave,維歐特歐姆波
 8279,"Shockscythe ""Prison""",斯哈歐克克鎌「獄」
 8280,Infinity Sword,無限劍
-8281,Awis Sword,阿瓦伊斯劍
+8281,Awis Sword,阿維斯劍
 8282,Vola Edge,沃拉刃
-8283,ダミー,(dummy)
+8283,ダミー,假
 8284,Schrade Smasher,斯克哈爾阿德艾斯姆阿斯哈艾爾
 8285,Schrade Breaker,SＣHＲＤ老ＢＲ老ｋ老Ｒ
 8286,Schrade Basher,SＣHＲＤ老ＢSH老Ｒ
@@ -8369,9 +8369,9 @@ index,source,target
 8367,Absolute Crasher,絶対克爾阿斯哈艾爾
 8368,B020・エヒトス,B020・艾希托蘇
 8369,Infinity Mace,無限鎚
-8370,Awis Hammer,大錘阿瓦伊斯
+8370,Awis Hammer,阿維斯大錘
 8371,Vola Mace,沃拉鎚
-8372,ダミー,(dummy)
+8372,ダミー,假
 8373,B520・ジアル・リアゴ,B520・吉阿爾・里阿戈
 8374,B620・ジアル・クドラ,B620・吉阿爾・庫多拉
 8375,B720・ジアル・ゴノ,B720・吉阿爾・戈諾
@@ -8398,7 +8398,7 @@ index,source,target
 8396,"Nyachuko ""Music""",恩伊阿克哈烏克歐音樂
 8397,CD20・デュリオス,CD20・杜里歐蘇
 8398,Infinity Horn,無限之角
-8399,Awis Horn,阿瓦伊斯之角
+8399,Awis Horn,阿維斯角
 8400,Vola Trumpet,沃拉號角
 8401,Noble Lance,長槍貴族
 8402,Noble Spear,貴族槍
@@ -8454,9 +8454,9 @@ index,source,target
 8452,0421・エルダムド,0421・艾魯達穆多
 8453,0521・パティエール,0521・波蒂埃爾
 8454,Infinity Lance,無限槍
-8455,Awis Lance,阿瓦伊斯槍
-8456,Vola Lance,長槍沃拉
-8457,ダミー,(dummy)
+8455,Awis Lance,阿維斯長槍
+8456,Vola Lance,沃拉長槍
+8457,ダミー,假
 8458,Altra Wasser,阿勒特爾阿瓦阿斯斯艾爾
 8459,0B21・アルトラ・ゲイザー,0B21・阿魯托拉・格伊扎
 8460,0C21・アルトラ・ディウム,0C21・阿魯托拉・迪烏穆
@@ -8495,8 +8495,8 @@ index,source,target
 8493,Arthur Gaze,ＲTHＵＲＧＺ老
 8494,Maelstrom,大渦
 8495,Infinity Cannon,無限砲
-8496,Awis Gunlance,銃槍阿瓦伊斯
-8497,Vola Gunlance,銃槍沃拉
+8496,Awis Gunlance,阿維斯銃槍
+8497,Vola Gunlance,沃拉銃槍
 8498,Shipler Knife,斯哈伊普勒艾爾刀
 8499,Berum Knife SPⅠ,貝魯姆刀ＳＰⅠ
 8500,Berum Knife SPⅣ,貝魯姆刀ＳＰⅣ
@@ -8537,69 +8537,69 @@ index,source,target
 8535,Berum Horn SPⅣ,貝魯姆角ＳＰⅣ
 8536,Berum Horn SPⅦ,貝魯姆角ＳＰⅦ
 8537,Torem Horn,特歐爾艾姆之角
-8538,ダミー,(dummy)
-8539,ダミー,(dummy)
-8540,ダミー,(dummy)
-8541,ダミー,(dummy)
-8542,ダミー,(dummy)
-8543,ダミー,(dummy)
-8544,ダミー,(dummy)
-8545,ダミー,(dummy)
-8546,ダミー,(dummy)
-8547,ダミー,(dummy)
-8548,ダミー,(dummy)
-8549,ダミー,(dummy)
-8550,ダミー,(dummy)
-8551,ダミー,(dummy)
-8552,ダミー,(dummy)
-8553,ダミー,(dummy)
-8554,ダミー,(dummy)
-8555,ダミー,(dummy)
-8556,ダミー,(dummy)
-8557,ダミー,(dummy)
-8558,ダミー,(dummy)
-8559,ダミー,(dummy)
-8560,ダミー,(dummy)
-8561,ダミー,(dummy)
-8562,ダミー,(dummy)
-8563,ダミー,(dummy)
-8564,ダミー,(dummy)
-8565,ダミー,(dummy)
-8566,ダミー,(dummy)
-8567,ダミー,(dummy)
-8568,ダミー,(dummy)
-8569,ダミー,(dummy)
-8570,ダミー,(dummy)
-8571,ダミー,(dummy)
-8572,ダミー,(dummy)
-8573,ダミー,(dummy)
-8574,ダミー,(dummy)
-8575,ダミー,(dummy)
-8576,ダミー,(dummy)
-8577,ダミー,(dummy)
-8578,ダミー,(dummy)
-8579,ダミー,(dummy)
-8580,ダミー,(dummy)
-8581,ダミー,(dummy)
-8582,ダミー,(dummy)
-8583,ダミー,(dummy)
-8584,ダミー,(dummy)
-8585,ダミー,(dummy)
-8586,ダミー,(dummy)
-8587,ダミー,(dummy)
-8588,ダミー,(dummy)
-8589,ダミー,(dummy)
-8590,ダミー,(dummy)
-8591,ダミー,(dummy)
-8592,ダミー,(dummy)
-8593,ダミー,(dummy)
-8594,ダミー,(dummy)
-8595,ダミー,(dummy)
-8596,ダミー,(dummy)
-8597,ダミー,(dummy)
-8598,ダミー,(dummy)
-8599,ダミー,(dummy)
-8600,ダミー,(dummy)
+8538,ダミー,假
+8539,ダミー,假
+8540,ダミー,假
+8541,ダミー,假
+8542,ダミー,假
+8543,ダミー,假
+8544,ダミー,假
+8545,ダミー,假
+8546,ダミー,假
+8547,ダミー,假
+8548,ダミー,假
+8549,ダミー,假
+8550,ダミー,假
+8551,ダミー,假
+8552,ダミー,假
+8553,ダミー,假
+8554,ダミー,假
+8555,ダミー,假
+8556,ダミー,假
+8557,ダミー,假
+8558,ダミー,假
+8559,ダミー,假
+8560,ダミー,假
+8561,ダミー,假
+8562,ダミー,假
+8563,ダミー,假
+8564,ダミー,假
+8565,ダミー,假
+8566,ダミー,假
+8567,ダミー,假
+8568,ダミー,假
+8569,ダミー,假
+8570,ダミー,假
+8571,ダミー,假
+8572,ダミー,假
+8573,ダミー,假
+8574,ダミー,假
+8575,ダミー,假
+8576,ダミー,假
+8577,ダミー,假
+8578,ダミー,假
+8579,ダミー,假
+8580,ダミー,假
+8581,ダミー,假
+8582,ダミー,假
+8583,ダミー,假
+8584,ダミー,假
+8585,ダミー,假
+8586,ダミー,假
+8587,ダミー,假
+8588,ダミー,假
+8589,ダミー,假
+8590,ダミー,假
+8591,ダミー,假
+8592,ダミー,假
+8593,ダミー,假
+8594,ダミー,假
+8595,ダミー,假
+8596,ダミー,假
+8597,ダミー,假
+8598,ダミー,假
+8599,ダミー,假
+8600,ダミー,假
 8601,Kut-Ku Ripper,怪鳥裂
 8602,Dual Kut-Ku,怪鳥雙
 8603,Monster Blade,魔物刃
@@ -8671,7 +8671,7 @@ index,source,target
 8669,DD21・清輝雷華刀,DD21・清輝雷華刀
 8670,Fluffy Bear,蓬松熊
 8671,Thunder Whistle,雷笛
-8672,Lightning Lance,雷長槍
+8672,Lightning Lance,雷光長槍
 8673,Whirlpool Spear,瓦哈伊爾勒普歐歐槍
 8674,Blasted Edge,布勒阿斯特艾德端
 8675,Lemenas Claws,勒艾姆艾恩阿斯爪
@@ -8692,14 +8692,14 @@ index,source,target
 8690,"Burstwolf Blades ""Xun""",爆狼刃
 8691,"Burstwolf Flute ""Canada""",爆狼笛
 8692,"Burstwolf Lance ""Ugachi""",爆狼長槍烏加奇伊
-8693,ダミー,(dummy)
-8694,ダミー,(dummy)
-8695,ダミー,(dummy)
-8696,ダミー,(dummy)
-8697,ダミー,(dummy)
-8698,ダミー,(dummy)
-8699,ダミー,(dummy)
-8700,ダミー,(dummy)
+8693,ダミー,假
+8694,ダミー,假
+8695,ダミー,假
+8696,ダミー,假
+8697,ダミー,假
+8698,ダミー,假
+8699,ダミー,假
+8700,ダミー,假
 8701,"Pine Cococone ""Furious""",松科科科涅狂
 8702,"Pine Cococone ""Storm""",松科科科涅風暴
 8703,"Pine Cococone ""Bind""",松科科科涅布伊恩德
@@ -8727,7 +8727,7 @@ index,source,target
 8725,Godsent Ⅲ,格歐德斯艾恩特Ⅲ
 8726,Godsent Ⅳ,格歐德斯艾恩特Ⅳ
 8727,Godsent Gift,格歐德斯艾恩特贈
-8728,Sturm Knife,STＵＲMｋNⅠF老
+8728,Sturm Knife,風暴刀
 8729,Miasma,瘴気
 8730,Rapture,ＲPTＵＲ老
 8731,Drag Void,引維歐伊德
@@ -8788,7 +8788,7 @@ index,source,target
 8786,Leschen Ⅲ,勒艾斯克哈艾恩Ⅲ
 8787,Leschen Ⅳ,勒艾斯克哈艾恩Ⅳ
 8788,Leschen Melia,勒艾斯克哈艾恩梅利阿
-8789,Sturm Sword,斯特烏爾姆劍
+8789,Sturm Sword,風暴劍
 8790,5622・カダルグラッセ,5622・格烏爾阿爾斯艾
 8791,Excellent Blade,艾克斯克艾勒勒艾刃
 8792,Overdrive,歐維艾爾德爾伊維
@@ -8812,7 +8812,7 @@ index,source,target
 8810,Thunderboom Ⅲ,特哈烏恩德艾爾布Ⅲ
 8811,Thunderboom Ⅳ,特哈烏恩德艾爾布Ⅳ
 8812,Inner Thunderboom,極征服特哈烏恩德艾爾布
-8813,Sturm Edge,STＵＲM老ＤＧ老
+8813,Sturm Edge,風暴刃
 8814,Metal Fang,金属之牙
 8815,Conflagration,克歐恩夫勒阿格爾
 8816,Pale Cascade,蒼克阿斯克阿德艾
@@ -8857,7 +8857,7 @@ index,source,target
 8855,9722・リネスⅢ,9722・里涅蘇
 8856,9822・リネスⅣ,9822・里涅蘇
 8857,9922・リス・リトゥ,9922・里蘇・里圖
-8858,Sturm Mace,斯特烏爾姆鎚
+8858,Sturm Mace,風暴鎚
 8859,9B22・ジェム・クェンダー,9B22・吉艾穆・克烏艾恩德阿
 8860,9C22・ラディエンス,9C22・爾阿德伊艾恩斯烏
 8861,9D22・タリク・クェンダー,9D22・塔里庫・克烏艾恩德阿
@@ -8883,7 +8883,7 @@ index,source,target
 8881,Wavebreak Fury H.,瓦阿維艾布爾艾阿狂H
 8882,Meteor Drgnwood Mallet,流星龍木鎚
 8883,B322・真舞雷極鎚【御霊】,B322・真舞雷極鎚【御霊】
-8884,Sturm Horn,斯特烏爾姆之角
+8884,Sturm Horn,風暴角
 8885,Ters Gogo,特艾爾斯拉瓦里
 8886,Brave Gogo,勇拉瓦里
 8887,B722・アクラリアン,B722・阿克烏爾阿爾伊阿
@@ -8943,7 +8943,7 @@ index,source,target
 8941,Reaper Ⅲ,死神Ⅲ
 8942,Reaper Ⅳ,死神Ⅳ
 8943,Reaper Rio,死神里歐
-8944,Sturm Gunlance,銃槍斯特烏爾姆
+8944,Sturm Gunlance,風暴銃槍
 8945,Shiva Kasra,修伊瓦克阿斯爾阿
 8946,Mi Ru Stinger,黑狐龍刺
 8947,F322・エルダンサー,F322・艾爾烏德阿恩斯阿
@@ -9080,114 +9080,114 @@ index,source,target
 9078,Arthurizer,ＲTHＵＲIＺ老Ｒ
 9079,Excellius Light,艾克斯克艾勒勒伊輕
 9080,Perzocion,普艾爾茲歐克伊歐
-9081,ダミー,(dummy)
-9082,ダミー,(dummy)
-9083,ダミー,(dummy)
-9084,ダミー,(dummy)
-9085,ダミー,(dummy)
-9086,ダミー,(dummy)
-9087,ダミー,(dummy)
-9088,ダミー,(dummy)
-9089,ダミー,(dummy)
-9090,ダミー,(dummy)
-9091,ダミー,(dummy)
-9092,ダミー,(dummy)
-9093,ダミー,(dummy)
-9094,ダミー,(dummy)
-9095,ダミー,(dummy)
-9096,ダミー,(dummy)
-9097,ダミー,(dummy)
-9098,ダミー,(dummy)
-9099,ダミー,(dummy)
-9100,ダミー,(dummy)
-9101,ダミー,(dummy)
-9102,ダミー,(dummy)
-9103,ダミー,(dummy)
-9104,ダミー,(dummy)
-9105,ダミー,(dummy)
-9106,ダミー,(dummy)
-9107,ダミー,(dummy)
-9108,ダミー,(dummy)
-9109,ダミー,(dummy)
-9110,ダミー,(dummy)
-9111,ダミー,(dummy)
-9112,ダミー,(dummy)
-9113,ダミー,(dummy)
-9114,ダミー,(dummy)
-9115,ダミー,(dummy)
-9116,ダミー,(dummy)
-9117,ダミー,(dummy)
-9118,ダミー,(dummy)
-9119,ダミー,(dummy)
-9120,ダミー,(dummy)
-9121,ダミー,(dummy)
-9122,ダミー,(dummy)
-9123,ダミー,(dummy)
-9124,ダミー,(dummy)
-9125,ダミー,(dummy)
-9126,ダミー,(dummy)
-9127,ダミー,(dummy)
-9128,ダミー,(dummy)
-9129,ダミー,(dummy)
-9130,ダミー,(dummy)
-9131,ダミー,(dummy)
-9132,ダミー,(dummy)
-9133,ダミー,(dummy)
-9134,ダミー,(dummy)
-9135,ダミー,(dummy)
-9136,ダミー,(dummy)
-9137,ダミー,(dummy)
-9138,ダミー,(dummy)
-9139,ダミー,(dummy)
-9140,ダミー,(dummy)
-9141,ダミー,(dummy)
-9142,ダミー,(dummy)
-9143,ダミー,(dummy)
-9144,ダミー,(dummy)
-9145,ダミー,(dummy)
-9146,ダミー,(dummy)
-9147,ダミー,(dummy)
-9148,ダミー,(dummy)
-9149,ダミー,(dummy)
-9150,ダミー,(dummy)
-9151,ダミー,(dummy)
-9152,ダミー,(dummy)
-9153,ダミー,(dummy)
-9154,ダミー,(dummy)
-9155,ダミー,(dummy)
-9156,ダミー,(dummy)
-9157,ダミー,(dummy)
-9158,ダミー,(dummy)
-9159,ダミー,(dummy)
-9160,ダミー,(dummy)
-9161,ダミー,(dummy)
-9162,ダミー,(dummy)
-9163,ダミー,(dummy)
-9164,ダミー,(dummy)
-9165,ダミー,(dummy)
-9166,ダミー,(dummy)
-9167,ダミー,(dummy)
-9168,ダミー,(dummy)
-9169,ダミー,(dummy)
-9170,ダミー,(dummy)
-9171,ダミー,(dummy)
-9172,ダミー,(dummy)
-9173,ダミー,(dummy)
-9174,ダミー,(dummy)
-9175,ダミー,(dummy)
-9176,ダミー,(dummy)
-9177,ダミー,(dummy)
-9178,ダミー,(dummy)
-9179,ダミー,(dummy)
-9180,ダミー,(dummy)
-9181,ダミー,(dummy)
-9182,ダミー,(dummy)
-9183,ダミー,(dummy)
-9184,ダミー,(dummy)
-9185,ダミー,(dummy)
-9186,ダミー,(dummy)
-9187,ダミー,(dummy)
-9188,ダミー,(dummy)
+9081,ダミー,假
+9082,ダミー,假
+9083,ダミー,假
+9084,ダミー,假
+9085,ダミー,假
+9086,ダミー,假
+9087,ダミー,假
+9088,ダミー,假
+9089,ダミー,假
+9090,ダミー,假
+9091,ダミー,假
+9092,ダミー,假
+9093,ダミー,假
+9094,ダミー,假
+9095,ダミー,假
+9096,ダミー,假
+9097,ダミー,假
+9098,ダミー,假
+9099,ダミー,假
+9100,ダミー,假
+9101,ダミー,假
+9102,ダミー,假
+9103,ダミー,假
+9104,ダミー,假
+9105,ダミー,假
+9106,ダミー,假
+9107,ダミー,假
+9108,ダミー,假
+9109,ダミー,假
+9110,ダミー,假
+9111,ダミー,假
+9112,ダミー,假
+9113,ダミー,假
+9114,ダミー,假
+9115,ダミー,假
+9116,ダミー,假
+9117,ダミー,假
+9118,ダミー,假
+9119,ダミー,假
+9120,ダミー,假
+9121,ダミー,假
+9122,ダミー,假
+9123,ダミー,假
+9124,ダミー,假
+9125,ダミー,假
+9126,ダミー,假
+9127,ダミー,假
+9128,ダミー,假
+9129,ダミー,假
+9130,ダミー,假
+9131,ダミー,假
+9132,ダミー,假
+9133,ダミー,假
+9134,ダミー,假
+9135,ダミー,假
+9136,ダミー,假
+9137,ダミー,假
+9138,ダミー,假
+9139,ダミー,假
+9140,ダミー,假
+9141,ダミー,假
+9142,ダミー,假
+9143,ダミー,假
+9144,ダミー,假
+9145,ダミー,假
+9146,ダミー,假
+9147,ダミー,假
+9148,ダミー,假
+9149,ダミー,假
+9150,ダミー,假
+9151,ダミー,假
+9152,ダミー,假
+9153,ダミー,假
+9154,ダミー,假
+9155,ダミー,假
+9156,ダミー,假
+9157,ダミー,假
+9158,ダミー,假
+9159,ダミー,假
+9160,ダミー,假
+9161,ダミー,假
+9162,ダミー,假
+9163,ダミー,假
+9164,ダミー,假
+9165,ダミー,假
+9166,ダミー,假
+9167,ダミー,假
+9168,ダミー,假
+9169,ダミー,假
+9170,ダミー,假
+9171,ダミー,假
+9172,ダミー,假
+9173,ダミー,假
+9174,ダミー,假
+9175,ダミー,假
+9176,ダミー,假
+9177,ダミー,假
+9178,ダミー,假
+9179,ダミー,假
+9180,ダミー,假
+9181,ダミー,假
+9182,ダミー,假
+9183,ダミー,假
+9184,ダミー,假
+9185,ダミー,假
+9186,ダミー,假
+9187,ダミー,假
+9188,ダミー,假
 9189,"Beta Knife ""Spine""",β刀之棘
 9190,"Beta Knife ""Spine"" Ⅱ",β刀棘Ⅱ
 9191,"Beta Knife ""Spine"" Ⅲ",β刀棘Ⅲ
@@ -9410,9 +9410,9 @@ index,source,target
 9408,C024・ロジブリエンツ,C024・布烏爾伊艾恩特斯
 9409,C124・グリンデルクロイツ,C124・格烏爾伊恩德艾爾
 9410,Furious Surprise,狂斯烏爾普爾伊斯艾
-9411,ダミー,(dummy)
-9412,ダミー,(dummy)
-9413,ダミー,(dummy)
+9411,ダミー,假
+9412,ダミー,假
+9413,ダミー,假
 9414,Gold Blade,金刃
 9415,Gold Emmerich,金艾姆姆艾爾伊克哈
 9416,C824・ゴルードファティメス,C824・戈魯多法提梅蘇
@@ -9741,7 +9741,7 @@ index,source,target
 9739,Baru Bloodpromise,噬血龍布勒歐歐德普爾歐
 9740,Baru Bloodgroove,噬血龍布勒歐歐德格爾歐
 9741,Giga Velocidrome Claws,藍速之超巨爪
-9742,"Bone Katana ""Storm""",骨製刀嵐
+9742,"Bone Katana ""Storm""",骨製刀Storm
 9743,Blue Starving,青斯特阿爾維伊恩格
 9744,Dragons Sin,德爾阿格歐恩斯斯伊恩
 9745,Genepo Pianimo,格涅波皮阿尼莫
@@ -10277,42 +10277,42 @@ index,source,target
 10275,2328・インフェスヴァルム,2328・伊恩夫艾斯烏維阿
 10276,Rose Charmant,薔克哈阿爾姆阿恩特
 10277,Rose Cynthia,薔克伊恩特哈伊阿
-10278,ダミー,(dummy)
+10278,ダミー,假
 10279,Rose Superior,薔斯烏普艾爾伊歐爾
 10280,Rose Monarch,薔薇君主
 10281,Faith Rose,法伊斯薔薇
 10282,Grace Rose,恩寵薔薇
 10283,2B28・ロザ・クルール,2B28・羅扎・庫魯魯
 10284,Rose Perfeto,薔普艾爾夫艾特歐
-10285,ダミー,(dummy)
+10285,ダミー,假
 10286,Rose Prima,薔薇第一
 10287,Rose Rihanna,薔爾伊哈阿恩恩阿
 10288,Ritter Rose,爾伊特特艾爾薔
 10289,Edel Rose,艾德艾勒薔
 10290,Viole En Garde,維歐勒EN格阿爾德艾
 10291,Viole Marche,維歐勒姆阿爾克哈艾
-10292,ダミー,(dummy)
+10292,ダミー,假
 10293,3528・ヴィオレファンデヴ,3528・爾艾夫阿恩德艾維
 10294,Viole Bon Avant,維歐勒布歐恩阿維阿恩特
 10295,3728・ヴィオレボンナリエ,3728・爾艾布歐恩恩阿爾
 10296,Epee Primaire,老P老老PＲⅠMⅠＲ老
 10297,Blanc En Garde,聲急証EN格阿爾德艾
 10298,Blanc Marche,聲急証姆阿爾克哈艾
-10299,ダミー,(dummy)
+10299,ダミー,假
 10300,3C28・ブランファンデヴ,3C28・布烏爾阿恩夫阿恩
 10301,Blanc Bon Avant,聲急証布歐恩阿維阿恩特
 10302,3E28・ブランボンナリエ,3E28・布烏爾阿恩布歐恩
 10303,Epest Maxima,艾佩斯瑪克斯伊瑪
 10304,Pike Fiaro,槍菲阿羅
 10305,4128・アルーシェフィアロ,4128・阿魯修伊艾羅
-10306,ダミー,(dummy)
+10306,ダミー,假
 10307,4328・アセガイフィアロ,4328・阿瑟加伊羅
 10308,4428・サリッサフィアロ,4428・斯阿爾伊爾斯阿爾
 10309,4528・ピルムフィアロ,4528・皮魯穆羅
 10310,4628・ランシストプリマーレ,4628・爾阿恩斯哈伊斯烏
 10311,4728・パイクバイソー,4728・派克野牛
 10312,4828・アルーシェバイソー,4828・阿魯修伊艾巴伊索
-10313,ダミー,(dummy)
+10313,ダミー,假
 10314,4A28・アセガイバイソー,4A28・阿瑟加伊巴伊索
 10315,4B28・サリッサバイソー,4B28・斯阿爾伊爾斯阿布
 10316,4C28・ピルムバイソー,4C28・皮魯穆巴伊索
@@ -10580,13 +10580,13 @@ index,source,target
 10578,5229・デボラサイクロシス,5229・德波拉薩伊修伊蘇
 10579,5329・モズガサイクロシス,5329・莫祖加薩伊修伊蘇
 10580,Neo Cyclosis,新克伊克勒歐斯伊斯
-10581,ダミー,(dummy)
-10582,ダミー,(dummy)
-10583,ダミー,(dummy)
-10584,ダミー,(dummy)
-10585,ダミー,(dummy)
-10586,ダミー,(dummy)
-10587,ダミー,(dummy)
+10581,ダミー,假
+10582,ダミー,假
+10583,ダミー,假
+10584,ダミー,假
+10585,ダミー,假
+10586,ダミー,假
+10587,ダミー,假
 10588,Gorgon Bride,格歐爾格歐恩布伊德
 10589,5D29・エルヴィンヴィード,5D29・艾爾烏維伊恩維伊
 10590,5E29・アドット・クヴィダラ,5E29・阿德歐德特歐・庫維達拉
@@ -10611,636 +10611,636 @@ index,source,target
 10609,Overpower,歐維艾爾普歐瓦艾
 10610,7229・ナギュレイダー,7229・恩阿格伊烏爾艾伊
 10611,7329・オルカヒムン,7329・歐爾烏克阿哈伊姆
-10612,ダミー,(dummy)
-10613,ダミー,(dummy)
-10614,ダミー,(dummy)
-10615,ダミー,(dummy)
-10616,ダミー,(dummy)
-10617,ダミー,(dummy)
-10618,ダミー,(dummy)
-10619,ダミー,(dummy)
-10620,ダミー,(dummy)
-10621,ダミー,(dummy)
-10622,ダミー,(dummy)
-10623,ダミー,(dummy)
-10624,ダミー,(dummy)
-10625,ダミー,(dummy)
-10626,ダミー,(dummy)
-10627,ダミー,(dummy)
-10628,ダミー,(dummy)
-10629,ダミー,(dummy)
-10630,ダミー,(dummy)
-10631,ダミー,(dummy)
-10632,ダミー,(dummy)
-10633,ダミー,(dummy)
-10634,ダミー,(dummy)
-10635,ダミー,(dummy)
-10636,ダミー,(dummy)
-10637,ダミー,(dummy)
-10638,ダミー,(dummy)
-10639,ダミー,(dummy)
-10640,ダミー,(dummy)
-10641,ダミー,(dummy)
-10642,ダミー,(dummy)
-10643,ダミー,(dummy)
-10644,ダミー,(dummy)
-10645,ダミー,(dummy)
-10646,ダミー,(dummy)
-10647,ダミー,(dummy)
-10648,ダミー,(dummy)
-10649,ダミー,(dummy)
-10650,ダミー,(dummy)
-10651,ダミー,(dummy)
-10652,ダミー,(dummy)
-10653,ダミー,(dummy)
-10654,ダミー,(dummy)
-10655,ダミー,(dummy)
-10656,ダミー,(dummy)
-10657,ダミー,(dummy)
-10658,ダミー,(dummy)
-10659,ダミー,(dummy)
-10660,ダミー,(dummy)
-10661,ダミー,(dummy)
-10662,ダミー,(dummy)
-10663,ダミー,(dummy)
-10664,ダミー,(dummy)
-10665,ダミー,(dummy)
-10666,ダミー,(dummy)
-10667,ダミー,(dummy)
-10668,ダミー,(dummy)
-10669,ダミー,(dummy)
-10670,ダミー,(dummy)
-10671,ダミー,(dummy)
-10672,ダミー,(dummy)
-10673,ダミー,(dummy)
-10674,ダミー,(dummy)
-10675,ダミー,(dummy)
-10676,ダミー,(dummy)
-10677,ダミー,(dummy)
-10678,ダミー,(dummy)
-10679,ダミー,(dummy)
-10680,ダミー,(dummy)
-10681,ダミー,(dummy)
-10682,ダミー,(dummy)
-10683,ダミー,(dummy)
-10684,ダミー,(dummy)
-10685,ダミー,(dummy)
-10686,ダミー,(dummy)
-10687,ダミー,(dummy)
-10688,ダミー,(dummy)
-10689,ダミー,(dummy)
-10690,ダミー,(dummy)
-10691,ダミー,(dummy)
-10692,ダミー,(dummy)
-10693,ダミー,(dummy)
-10694,ダミー,(dummy)
-10695,ダミー,(dummy)
-10696,ダミー,(dummy)
-10697,ダミー,(dummy)
-10698,ダミー,(dummy)
-10699,ダミー,(dummy)
-10700,ダミー,(dummy)
-10701,ダミー,(dummy)
-10702,ダミー,(dummy)
-10703,ダミー,(dummy)
-10704,ダミー,(dummy)
-10705,ダミー,(dummy)
-10706,ダミー,(dummy)
-10707,ダミー,(dummy)
-10708,ダミー,(dummy)
-10709,ダミー,(dummy)
-10710,ダミー,(dummy)
-10711,ダミー,(dummy)
-10712,ダミー,(dummy)
-10713,ダミー,(dummy)
-10714,ダミー,(dummy)
-10715,ダミー,(dummy)
-10716,ダミー,(dummy)
-10717,ダミー,(dummy)
-10718,ダミー,(dummy)
-10719,ダミー,(dummy)
-10720,ダミー,(dummy)
-10721,ダミー,(dummy)
-10722,ダミー,(dummy)
-10723,ダミー,(dummy)
-10724,ダミー,(dummy)
-10725,ダミー,(dummy)
-10726,ダミー,(dummy)
-10727,ダミー,(dummy)
-10728,ダミー,(dummy)
-10729,ダミー,(dummy)
-10730,ダミー,(dummy)
-10731,ダミー,(dummy)
-10732,ダミー,(dummy)
-10733,ダミー,(dummy)
-10734,ダミー,(dummy)
-10735,ダミー,(dummy)
-10736,ダミー,(dummy)
-10737,ダミー,(dummy)
-10738,ダミー,(dummy)
-10739,ダミー,(dummy)
-10740,ダミー,(dummy)
-10741,ダミー,(dummy)
-10742,ダミー,(dummy)
-10743,ダミー,(dummy)
-10744,ダミー,(dummy)
-10745,ダミー,(dummy)
-10746,ダミー,(dummy)
-10747,ダミー,(dummy)
-10748,ダミー,(dummy)
-10749,ダミー,(dummy)
-10750,ダミー,(dummy)
-10751,ダミー,(dummy)
-10752,ダミー,(dummy)
-10753,ダミー,(dummy)
-10754,ダミー,(dummy)
-10755,ダミー,(dummy)
-10756,ダミー,(dummy)
-10757,ダミー,(dummy)
-10758,ダミー,(dummy)
-10759,ダミー,(dummy)
-10760,ダミー,(dummy)
-10761,ダミー,(dummy)
-10762,ダミー,(dummy)
-10763,ダミー,(dummy)
-10764,ダミー,(dummy)
-10765,ダミー,(dummy)
-10766,ダミー,(dummy)
-10767,ダミー,(dummy)
-10768,ダミー,(dummy)
-10769,ダミー,(dummy)
-10770,ダミー,(dummy)
-10771,ダミー,(dummy)
-10772,ダミー,(dummy)
-10773,ダミー,(dummy)
-10774,ダミー,(dummy)
-10775,ダミー,(dummy)
-10776,ダミー,(dummy)
-10777,ダミー,(dummy)
-10778,ダミー,(dummy)
-10779,ダミー,(dummy)
-10780,ダミー,(dummy)
-10781,ダミー,(dummy)
-10782,ダミー,(dummy)
-10783,ダミー,(dummy)
-10784,ダミー,(dummy)
-10785,ダミー,(dummy)
-10786,ダミー,(dummy)
-10787,ダミー,(dummy)
-10788,ダミー,(dummy)
-10789,ダミー,(dummy)
-10790,ダミー,(dummy)
-10791,ダミー,(dummy)
-10792,ダミー,(dummy)
-10793,ダミー,(dummy)
-10794,ダミー,(dummy)
-10795,ダミー,(dummy)
-10796,ダミー,(dummy)
-10797,ダミー,(dummy)
-10798,ダミー,(dummy)
-10799,ダミー,(dummy)
-10800,ダミー,(dummy)
-10801,ダミー,(dummy)
-10802,ダミー,(dummy)
-10803,ダミー,(dummy)
-10804,ダミー,(dummy)
-10805,ダミー,(dummy)
-10806,ダミー,(dummy)
-10807,ダミー,(dummy)
-10808,ダミー,(dummy)
-10809,ダミー,(dummy)
-10810,ダミー,(dummy)
-10811,ダミー,(dummy)
-10812,ダミー,(dummy)
-10813,ダミー,(dummy)
-10814,ダミー,(dummy)
-10815,ダミー,(dummy)
-10816,ダミー,(dummy)
-10817,ダミー,(dummy)
-10818,ダミー,(dummy)
-10819,ダミー,(dummy)
-10820,ダミー,(dummy)
-10821,ダミー,(dummy)
-10822,ダミー,(dummy)
-10823,ダミー,(dummy)
-10824,ダミー,(dummy)
-10825,ダミー,(dummy)
-10826,ダミー,(dummy)
-10827,ダミー,(dummy)
-10828,ダミー,(dummy)
-10829,ダミー,(dummy)
-10830,ダミー,(dummy)
-10831,ダミー,(dummy)
-10832,ダミー,(dummy)
-10833,ダミー,(dummy)
-10834,ダミー,(dummy)
-10835,ダミー,(dummy)
-10836,ダミー,(dummy)
-10837,ダミー,(dummy)
-10838,ダミー,(dummy)
-10839,ダミー,(dummy)
-10840,ダミー,(dummy)
-10841,ダミー,(dummy)
-10842,ダミー,(dummy)
-10843,ダミー,(dummy)
-10844,ダミー,(dummy)
-10845,ダミー,(dummy)
-10846,ダミー,(dummy)
-10847,ダミー,(dummy)
-10848,ダミー,(dummy)
-10849,ダミー,(dummy)
-10850,ダミー,(dummy)
-10851,ダミー,(dummy)
-10852,ダミー,(dummy)
-10853,ダミー,(dummy)
-10854,ダミー,(dummy)
-10855,ダミー,(dummy)
-10856,ダミー,(dummy)
-10857,ダミー,(dummy)
-10858,ダミー,(dummy)
-10859,ダミー,(dummy)
-10860,ダミー,(dummy)
-10861,ダミー,(dummy)
-10862,ダミー,(dummy)
-10863,ダミー,(dummy)
-10864,ダミー,(dummy)
-10865,ダミー,(dummy)
-10866,ダミー,(dummy)
-10867,ダミー,(dummy)
-10868,ダミー,(dummy)
-10869,ダミー,(dummy)
-10870,ダミー,(dummy)
-10871,ダミー,(dummy)
-10872,ダミー,(dummy)
-10873,ダミー,(dummy)
-10874,ダミー,(dummy)
-10875,ダミー,(dummy)
-10876,ダミー,(dummy)
-10877,ダミー,(dummy)
-10878,ダミー,(dummy)
-10879,ダミー,(dummy)
-10880,ダミー,(dummy)
-10881,ダミー,(dummy)
-10882,ダミー,(dummy)
-10883,ダミー,(dummy)
-10884,ダミー,(dummy)
-10885,ダミー,(dummy)
-10886,ダミー,(dummy)
-10887,ダミー,(dummy)
-10888,ダミー,(dummy)
-10889,ダミー,(dummy)
-10890,ダミー,(dummy)
-10891,ダミー,(dummy)
-10892,ダミー,(dummy)
-10893,ダミー,(dummy)
-10894,ダミー,(dummy)
-10895,ダミー,(dummy)
-10896,ダミー,(dummy)
-10897,ダミー,(dummy)
-10898,ダミー,(dummy)
-10899,ダミー,(dummy)
-10900,ダミー,(dummy)
-10901,ダミー,(dummy)
-10902,ダミー,(dummy)
-10903,ダミー,(dummy)
-10904,ダミー,(dummy)
-10905,ダミー,(dummy)
-10906,ダミー,(dummy)
-10907,ダミー,(dummy)
-10908,ダミー,(dummy)
-10909,ダミー,(dummy)
-10910,ダミー,(dummy)
-10911,ダミー,(dummy)
-10912,ダミー,(dummy)
-10913,ダミー,(dummy)
-10914,ダミー,(dummy)
-10915,ダミー,(dummy)
-10916,ダミー,(dummy)
-10917,ダミー,(dummy)
-10918,ダミー,(dummy)
-10919,ダミー,(dummy)
-10920,ダミー,(dummy)
-10921,ダミー,(dummy)
-10922,ダミー,(dummy)
-10923,ダミー,(dummy)
-10924,ダミー,(dummy)
-10925,ダミー,(dummy)
-10926,ダミー,(dummy)
-10927,ダミー,(dummy)
-10928,ダミー,(dummy)
-10929,ダミー,(dummy)
-10930,ダミー,(dummy)
-10931,ダミー,(dummy)
-10932,ダミー,(dummy)
-10933,ダミー,(dummy)
-10934,ダミー,(dummy)
-10935,ダミー,(dummy)
-10936,ダミー,(dummy)
-10937,ダミー,(dummy)
-10938,ダミー,(dummy)
-10939,ダミー,(dummy)
-10940,ダミー,(dummy)
-10941,ダミー,(dummy)
-10942,ダミー,(dummy)
-10943,ダミー,(dummy)
-10944,ダミー,(dummy)
-10945,ダミー,(dummy)
-10946,ダミー,(dummy)
-10947,ダミー,(dummy)
-10948,ダミー,(dummy)
-10949,ダミー,(dummy)
-10950,ダミー,(dummy)
-10951,ダミー,(dummy)
-10952,ダミー,(dummy)
-10953,ダミー,(dummy)
-10954,ダミー,(dummy)
-10955,ダミー,(dummy)
-10956,ダミー,(dummy)
-10957,ダミー,(dummy)
-10958,ダミー,(dummy)
-10959,ダミー,(dummy)
-10960,ダミー,(dummy)
-10961,ダミー,(dummy)
-10962,ダミー,(dummy)
-10963,ダミー,(dummy)
-10964,ダミー,(dummy)
-10965,ダミー,(dummy)
-10966,ダミー,(dummy)
-10967,ダミー,(dummy)
-10968,ダミー,(dummy)
-10969,ダミー,(dummy)
-10970,ダミー,(dummy)
-10971,ダミー,(dummy)
-10972,ダミー,(dummy)
-10973,ダミー,(dummy)
-10974,ダミー,(dummy)
-10975,ダミー,(dummy)
-10976,ダミー,(dummy)
-10977,ダミー,(dummy)
-10978,ダミー,(dummy)
-10979,ダミー,(dummy)
-10980,ダミー,(dummy)
-10981,ダミー,(dummy)
-10982,ダミー,(dummy)
-10983,ダミー,(dummy)
-10984,ダミー,(dummy)
-10985,ダミー,(dummy)
-10986,ダミー,(dummy)
-10987,ダミー,(dummy)
-10988,ダミー,(dummy)
-10989,ダミー,(dummy)
-10990,ダミー,(dummy)
-10991,ダミー,(dummy)
-10992,ダミー,(dummy)
-10993,ダミー,(dummy)
-10994,ダミー,(dummy)
-10995,ダミー,(dummy)
-10996,ダミー,(dummy)
-10997,ダミー,(dummy)
-10998,ダミー,(dummy)
-10999,ダミー,(dummy)
-11000,ダミー,(dummy)
-11001,ダミー,(dummy)
-11002,ダミー,(dummy)
-11003,ダミー,(dummy)
-11004,ダミー,(dummy)
-11005,ダミー,(dummy)
-11006,ダミー,(dummy)
-11007,ダミー,(dummy)
-11008,ダミー,(dummy)
-11009,ダミー,(dummy)
-11010,ダミー,(dummy)
-11011,ダミー,(dummy)
-11012,ダミー,(dummy)
-11013,ダミー,(dummy)
-11014,ダミー,(dummy)
-11015,ダミー,(dummy)
-11016,ダミー,(dummy)
-11017,ダミー,(dummy)
-11018,ダミー,(dummy)
-11019,ダミー,(dummy)
-11020,ダミー,(dummy)
-11021,ダミー,(dummy)
-11022,ダミー,(dummy)
-11023,ダミー,(dummy)
-11024,ダミー,(dummy)
-11025,ダミー,(dummy)
-11026,ダミー,(dummy)
-11027,ダミー,(dummy)
-11028,ダミー,(dummy)
-11029,ダミー,(dummy)
-11030,ダミー,(dummy)
-11031,ダミー,(dummy)
-11032,ダミー,(dummy)
-11033,ダミー,(dummy)
-11034,ダミー,(dummy)
-11035,ダミー,(dummy)
-11036,ダミー,(dummy)
-11037,ダミー,(dummy)
-11038,ダミー,(dummy)
-11039,ダミー,(dummy)
-11040,ダミー,(dummy)
-11041,ダミー,(dummy)
-11042,ダミー,(dummy)
-11043,ダミー,(dummy)
-11044,ダミー,(dummy)
-11045,ダミー,(dummy)
-11046,ダミー,(dummy)
-11047,ダミー,(dummy)
-11048,ダミー,(dummy)
-11049,ダミー,(dummy)
-11050,ダミー,(dummy)
-11051,ダミー,(dummy)
-11052,ダミー,(dummy)
-11053,ダミー,(dummy)
-11054,ダミー,(dummy)
-11055,ダミー,(dummy)
-11056,ダミー,(dummy)
-11057,ダミー,(dummy)
-11058,ダミー,(dummy)
-11059,ダミー,(dummy)
-11060,ダミー,(dummy)
-11061,ダミー,(dummy)
-11062,ダミー,(dummy)
-11063,ダミー,(dummy)
-11064,ダミー,(dummy)
-11065,ダミー,(dummy)
-11066,ダミー,(dummy)
-11067,ダミー,(dummy)
-11068,ダミー,(dummy)
-11069,ダミー,(dummy)
-11070,ダミー,(dummy)
-11071,ダミー,(dummy)
-11072,ダミー,(dummy)
-11073,ダミー,(dummy)
-11074,ダミー,(dummy)
-11075,ダミー,(dummy)
-11076,ダミー,(dummy)
-11077,ダミー,(dummy)
-11078,ダミー,(dummy)
-11079,ダミー,(dummy)
-11080,ダミー,(dummy)
-11081,ダミー,(dummy)
-11082,ダミー,(dummy)
-11083,ダミー,(dummy)
-11084,ダミー,(dummy)
-11085,ダミー,(dummy)
-11086,ダミー,(dummy)
-11087,ダミー,(dummy)
-11088,ダミー,(dummy)
-11089,ダミー,(dummy)
-11090,ダミー,(dummy)
-11091,ダミー,(dummy)
-11092,ダミー,(dummy)
-11093,ダミー,(dummy)
-11094,ダミー,(dummy)
-11095,ダミー,(dummy)
-11096,ダミー,(dummy)
-11097,ダミー,(dummy)
-11098,ダミー,(dummy)
-11099,ダミー,(dummy)
-11100,ダミー,(dummy)
-11101,ダミー,(dummy)
-11102,ダミー,(dummy)
-11103,ダミー,(dummy)
-11104,ダミー,(dummy)
-11105,ダミー,(dummy)
-11106,ダミー,(dummy)
-11107,ダミー,(dummy)
-11108,ダミー,(dummy)
-11109,ダミー,(dummy)
-11110,ダミー,(dummy)
-11111,ダミー,(dummy)
-11112,ダミー,(dummy)
-11113,ダミー,(dummy)
-11114,ダミー,(dummy)
-11115,ダミー,(dummy)
-11116,ダミー,(dummy)
-11117,ダミー,(dummy)
-11118,ダミー,(dummy)
-11119,ダミー,(dummy)
-11120,ダミー,(dummy)
-11121,ダミー,(dummy)
-11122,ダミー,(dummy)
-11123,ダミー,(dummy)
-11124,ダミー,(dummy)
-11125,ダミー,(dummy)
-11126,ダミー,(dummy)
-11127,ダミー,(dummy)
-11128,ダミー,(dummy)
-11129,ダミー,(dummy)
-11130,ダミー,(dummy)
-11131,ダミー,(dummy)
-11132,ダミー,(dummy)
-11133,ダミー,(dummy)
-11134,ダミー,(dummy)
-11135,ダミー,(dummy)
-11136,ダミー,(dummy)
-11137,ダミー,(dummy)
-11138,ダミー,(dummy)
-11139,ダミー,(dummy)
-11140,ダミー,(dummy)
-11141,ダミー,(dummy)
-11142,ダミー,(dummy)
-11143,ダミー,(dummy)
-11144,ダミー,(dummy)
-11145,ダミー,(dummy)
-11146,ダミー,(dummy)
-11147,ダミー,(dummy)
-11148,ダミー,(dummy)
-11149,ダミー,(dummy)
-11150,ダミー,(dummy)
-11151,ダミー,(dummy)
-11152,ダミー,(dummy)
-11153,ダミー,(dummy)
-11154,ダミー,(dummy)
-11155,ダミー,(dummy)
-11156,ダミー,(dummy)
-11157,ダミー,(dummy)
-11158,ダミー,(dummy)
-11159,ダミー,(dummy)
-11160,ダミー,(dummy)
-11161,ダミー,(dummy)
-11162,ダミー,(dummy)
-11163,ダミー,(dummy)
-11164,ダミー,(dummy)
-11165,ダミー,(dummy)
-11166,ダミー,(dummy)
-11167,ダミー,(dummy)
-11168,ダミー,(dummy)
-11169,ダミー,(dummy)
-11170,ダミー,(dummy)
-11171,ダミー,(dummy)
-11172,ダミー,(dummy)
-11173,ダミー,(dummy)
-11174,ダミー,(dummy)
-11175,ダミー,(dummy)
-11176,ダミー,(dummy)
-11177,ダミー,(dummy)
-11178,ダミー,(dummy)
-11179,ダミー,(dummy)
-11180,ダミー,(dummy)
-11181,ダミー,(dummy)
-11182,ダミー,(dummy)
-11183,ダミー,(dummy)
-11184,ダミー,(dummy)
-11185,ダミー,(dummy)
-11186,ダミー,(dummy)
-11187,ダミー,(dummy)
-11188,ダミー,(dummy)
-11189,ダミー,(dummy)
-11190,ダミー,(dummy)
-11191,ダミー,(dummy)
-11192,ダミー,(dummy)
-11193,ダミー,(dummy)
-11194,ダミー,(dummy)
-11195,ダミー,(dummy)
-11196,ダミー,(dummy)
-11197,ダミー,(dummy)
-11198,ダミー,(dummy)
-11199,ダミー,(dummy)
-11200,ダミー,(dummy)
-11201,ダミー,(dummy)
-11202,ダミー,(dummy)
-11203,ダミー,(dummy)
-11204,ダミー,(dummy)
-11205,ダミー,(dummy)
-11206,ダミー,(dummy)
-11207,ダミー,(dummy)
-11208,ダミー,(dummy)
-11209,ダミー,(dummy)
-11210,ダミー,(dummy)
-11211,ダミー,(dummy)
-11212,ダミー,(dummy)
-11213,ダミー,(dummy)
-11214,ダミー,(dummy)
-11215,ダミー,(dummy)
-11216,ダミー,(dummy)
-11217,ダミー,(dummy)
-11218,ダミー,(dummy)
-11219,ダミー,(dummy)
-11220,ダミー,(dummy)
-11221,ダミー,(dummy)
-11222,ダミー,(dummy)
-11223,ダミー,(dummy)
-11224,ダミー,(dummy)
-11225,ダミー,(dummy)
-11226,ダミー,(dummy)
-11227,ダミー,(dummy)
-11228,ダミー,(dummy)
-11229,ダミー,(dummy)
-11230,ダミー,(dummy)
-11231,ダミー,(dummy)
-11232,ダミー,(dummy)
-11233,ダミー,(dummy)
-11234,ダミー,(dummy)
-11235,ダミー,(dummy)
-11236,ダミー,(dummy)
-11237,ダミー,(dummy)
-11238,ダミー,(dummy)
-11239,ダミー,(dummy)
-11240,ダミー,(dummy)
-11241,ダミー,(dummy)
+10612,ダミー,假
+10613,ダミー,假
+10614,ダミー,假
+10615,ダミー,假
+10616,ダミー,假
+10617,ダミー,假
+10618,ダミー,假
+10619,ダミー,假
+10620,ダミー,假
+10621,ダミー,假
+10622,ダミー,假
+10623,ダミー,假
+10624,ダミー,假
+10625,ダミー,假
+10626,ダミー,假
+10627,ダミー,假
+10628,ダミー,假
+10629,ダミー,假
+10630,ダミー,假
+10631,ダミー,假
+10632,ダミー,假
+10633,ダミー,假
+10634,ダミー,假
+10635,ダミー,假
+10636,ダミー,假
+10637,ダミー,假
+10638,ダミー,假
+10639,ダミー,假
+10640,ダミー,假
+10641,ダミー,假
+10642,ダミー,假
+10643,ダミー,假
+10644,ダミー,假
+10645,ダミー,假
+10646,ダミー,假
+10647,ダミー,假
+10648,ダミー,假
+10649,ダミー,假
+10650,ダミー,假
+10651,ダミー,假
+10652,ダミー,假
+10653,ダミー,假
+10654,ダミー,假
+10655,ダミー,假
+10656,ダミー,假
+10657,ダミー,假
+10658,ダミー,假
+10659,ダミー,假
+10660,ダミー,假
+10661,ダミー,假
+10662,ダミー,假
+10663,ダミー,假
+10664,ダミー,假
+10665,ダミー,假
+10666,ダミー,假
+10667,ダミー,假
+10668,ダミー,假
+10669,ダミー,假
+10670,ダミー,假
+10671,ダミー,假
+10672,ダミー,假
+10673,ダミー,假
+10674,ダミー,假
+10675,ダミー,假
+10676,ダミー,假
+10677,ダミー,假
+10678,ダミー,假
+10679,ダミー,假
+10680,ダミー,假
+10681,ダミー,假
+10682,ダミー,假
+10683,ダミー,假
+10684,ダミー,假
+10685,ダミー,假
+10686,ダミー,假
+10687,ダミー,假
+10688,ダミー,假
+10689,ダミー,假
+10690,ダミー,假
+10691,ダミー,假
+10692,ダミー,假
+10693,ダミー,假
+10694,ダミー,假
+10695,ダミー,假
+10696,ダミー,假
+10697,ダミー,假
+10698,ダミー,假
+10699,ダミー,假
+10700,ダミー,假
+10701,ダミー,假
+10702,ダミー,假
+10703,ダミー,假
+10704,ダミー,假
+10705,ダミー,假
+10706,ダミー,假
+10707,ダミー,假
+10708,ダミー,假
+10709,ダミー,假
+10710,ダミー,假
+10711,ダミー,假
+10712,ダミー,假
+10713,ダミー,假
+10714,ダミー,假
+10715,ダミー,假
+10716,ダミー,假
+10717,ダミー,假
+10718,ダミー,假
+10719,ダミー,假
+10720,ダミー,假
+10721,ダミー,假
+10722,ダミー,假
+10723,ダミー,假
+10724,ダミー,假
+10725,ダミー,假
+10726,ダミー,假
+10727,ダミー,假
+10728,ダミー,假
+10729,ダミー,假
+10730,ダミー,假
+10731,ダミー,假
+10732,ダミー,假
+10733,ダミー,假
+10734,ダミー,假
+10735,ダミー,假
+10736,ダミー,假
+10737,ダミー,假
+10738,ダミー,假
+10739,ダミー,假
+10740,ダミー,假
+10741,ダミー,假
+10742,ダミー,假
+10743,ダミー,假
+10744,ダミー,假
+10745,ダミー,假
+10746,ダミー,假
+10747,ダミー,假
+10748,ダミー,假
+10749,ダミー,假
+10750,ダミー,假
+10751,ダミー,假
+10752,ダミー,假
+10753,ダミー,假
+10754,ダミー,假
+10755,ダミー,假
+10756,ダミー,假
+10757,ダミー,假
+10758,ダミー,假
+10759,ダミー,假
+10760,ダミー,假
+10761,ダミー,假
+10762,ダミー,假
+10763,ダミー,假
+10764,ダミー,假
+10765,ダミー,假
+10766,ダミー,假
+10767,ダミー,假
+10768,ダミー,假
+10769,ダミー,假
+10770,ダミー,假
+10771,ダミー,假
+10772,ダミー,假
+10773,ダミー,假
+10774,ダミー,假
+10775,ダミー,假
+10776,ダミー,假
+10777,ダミー,假
+10778,ダミー,假
+10779,ダミー,假
+10780,ダミー,假
+10781,ダミー,假
+10782,ダミー,假
+10783,ダミー,假
+10784,ダミー,假
+10785,ダミー,假
+10786,ダミー,假
+10787,ダミー,假
+10788,ダミー,假
+10789,ダミー,假
+10790,ダミー,假
+10791,ダミー,假
+10792,ダミー,假
+10793,ダミー,假
+10794,ダミー,假
+10795,ダミー,假
+10796,ダミー,假
+10797,ダミー,假
+10798,ダミー,假
+10799,ダミー,假
+10800,ダミー,假
+10801,ダミー,假
+10802,ダミー,假
+10803,ダミー,假
+10804,ダミー,假
+10805,ダミー,假
+10806,ダミー,假
+10807,ダミー,假
+10808,ダミー,假
+10809,ダミー,假
+10810,ダミー,假
+10811,ダミー,假
+10812,ダミー,假
+10813,ダミー,假
+10814,ダミー,假
+10815,ダミー,假
+10816,ダミー,假
+10817,ダミー,假
+10818,ダミー,假
+10819,ダミー,假
+10820,ダミー,假
+10821,ダミー,假
+10822,ダミー,假
+10823,ダミー,假
+10824,ダミー,假
+10825,ダミー,假
+10826,ダミー,假
+10827,ダミー,假
+10828,ダミー,假
+10829,ダミー,假
+10830,ダミー,假
+10831,ダミー,假
+10832,ダミー,假
+10833,ダミー,假
+10834,ダミー,假
+10835,ダミー,假
+10836,ダミー,假
+10837,ダミー,假
+10838,ダミー,假
+10839,ダミー,假
+10840,ダミー,假
+10841,ダミー,假
+10842,ダミー,假
+10843,ダミー,假
+10844,ダミー,假
+10845,ダミー,假
+10846,ダミー,假
+10847,ダミー,假
+10848,ダミー,假
+10849,ダミー,假
+10850,ダミー,假
+10851,ダミー,假
+10852,ダミー,假
+10853,ダミー,假
+10854,ダミー,假
+10855,ダミー,假
+10856,ダミー,假
+10857,ダミー,假
+10858,ダミー,假
+10859,ダミー,假
+10860,ダミー,假
+10861,ダミー,假
+10862,ダミー,假
+10863,ダミー,假
+10864,ダミー,假
+10865,ダミー,假
+10866,ダミー,假
+10867,ダミー,假
+10868,ダミー,假
+10869,ダミー,假
+10870,ダミー,假
+10871,ダミー,假
+10872,ダミー,假
+10873,ダミー,假
+10874,ダミー,假
+10875,ダミー,假
+10876,ダミー,假
+10877,ダミー,假
+10878,ダミー,假
+10879,ダミー,假
+10880,ダミー,假
+10881,ダミー,假
+10882,ダミー,假
+10883,ダミー,假
+10884,ダミー,假
+10885,ダミー,假
+10886,ダミー,假
+10887,ダミー,假
+10888,ダミー,假
+10889,ダミー,假
+10890,ダミー,假
+10891,ダミー,假
+10892,ダミー,假
+10893,ダミー,假
+10894,ダミー,假
+10895,ダミー,假
+10896,ダミー,假
+10897,ダミー,假
+10898,ダミー,假
+10899,ダミー,假
+10900,ダミー,假
+10901,ダミー,假
+10902,ダミー,假
+10903,ダミー,假
+10904,ダミー,假
+10905,ダミー,假
+10906,ダミー,假
+10907,ダミー,假
+10908,ダミー,假
+10909,ダミー,假
+10910,ダミー,假
+10911,ダミー,假
+10912,ダミー,假
+10913,ダミー,假
+10914,ダミー,假
+10915,ダミー,假
+10916,ダミー,假
+10917,ダミー,假
+10918,ダミー,假
+10919,ダミー,假
+10920,ダミー,假
+10921,ダミー,假
+10922,ダミー,假
+10923,ダミー,假
+10924,ダミー,假
+10925,ダミー,假
+10926,ダミー,假
+10927,ダミー,假
+10928,ダミー,假
+10929,ダミー,假
+10930,ダミー,假
+10931,ダミー,假
+10932,ダミー,假
+10933,ダミー,假
+10934,ダミー,假
+10935,ダミー,假
+10936,ダミー,假
+10937,ダミー,假
+10938,ダミー,假
+10939,ダミー,假
+10940,ダミー,假
+10941,ダミー,假
+10942,ダミー,假
+10943,ダミー,假
+10944,ダミー,假
+10945,ダミー,假
+10946,ダミー,假
+10947,ダミー,假
+10948,ダミー,假
+10949,ダミー,假
+10950,ダミー,假
+10951,ダミー,假
+10952,ダミー,假
+10953,ダミー,假
+10954,ダミー,假
+10955,ダミー,假
+10956,ダミー,假
+10957,ダミー,假
+10958,ダミー,假
+10959,ダミー,假
+10960,ダミー,假
+10961,ダミー,假
+10962,ダミー,假
+10963,ダミー,假
+10964,ダミー,假
+10965,ダミー,假
+10966,ダミー,假
+10967,ダミー,假
+10968,ダミー,假
+10969,ダミー,假
+10970,ダミー,假
+10971,ダミー,假
+10972,ダミー,假
+10973,ダミー,假
+10974,ダミー,假
+10975,ダミー,假
+10976,ダミー,假
+10977,ダミー,假
+10978,ダミー,假
+10979,ダミー,假
+10980,ダミー,假
+10981,ダミー,假
+10982,ダミー,假
+10983,ダミー,假
+10984,ダミー,假
+10985,ダミー,假
+10986,ダミー,假
+10987,ダミー,假
+10988,ダミー,假
+10989,ダミー,假
+10990,ダミー,假
+10991,ダミー,假
+10992,ダミー,假
+10993,ダミー,假
+10994,ダミー,假
+10995,ダミー,假
+10996,ダミー,假
+10997,ダミー,假
+10998,ダミー,假
+10999,ダミー,假
+11000,ダミー,假
+11001,ダミー,假
+11002,ダミー,假
+11003,ダミー,假
+11004,ダミー,假
+11005,ダミー,假
+11006,ダミー,假
+11007,ダミー,假
+11008,ダミー,假
+11009,ダミー,假
+11010,ダミー,假
+11011,ダミー,假
+11012,ダミー,假
+11013,ダミー,假
+11014,ダミー,假
+11015,ダミー,假
+11016,ダミー,假
+11017,ダミー,假
+11018,ダミー,假
+11019,ダミー,假
+11020,ダミー,假
+11021,ダミー,假
+11022,ダミー,假
+11023,ダミー,假
+11024,ダミー,假
+11025,ダミー,假
+11026,ダミー,假
+11027,ダミー,假
+11028,ダミー,假
+11029,ダミー,假
+11030,ダミー,假
+11031,ダミー,假
+11032,ダミー,假
+11033,ダミー,假
+11034,ダミー,假
+11035,ダミー,假
+11036,ダミー,假
+11037,ダミー,假
+11038,ダミー,假
+11039,ダミー,假
+11040,ダミー,假
+11041,ダミー,假
+11042,ダミー,假
+11043,ダミー,假
+11044,ダミー,假
+11045,ダミー,假
+11046,ダミー,假
+11047,ダミー,假
+11048,ダミー,假
+11049,ダミー,假
+11050,ダミー,假
+11051,ダミー,假
+11052,ダミー,假
+11053,ダミー,假
+11054,ダミー,假
+11055,ダミー,假
+11056,ダミー,假
+11057,ダミー,假
+11058,ダミー,假
+11059,ダミー,假
+11060,ダミー,假
+11061,ダミー,假
+11062,ダミー,假
+11063,ダミー,假
+11064,ダミー,假
+11065,ダミー,假
+11066,ダミー,假
+11067,ダミー,假
+11068,ダミー,假
+11069,ダミー,假
+11070,ダミー,假
+11071,ダミー,假
+11072,ダミー,假
+11073,ダミー,假
+11074,ダミー,假
+11075,ダミー,假
+11076,ダミー,假
+11077,ダミー,假
+11078,ダミー,假
+11079,ダミー,假
+11080,ダミー,假
+11081,ダミー,假
+11082,ダミー,假
+11083,ダミー,假
+11084,ダミー,假
+11085,ダミー,假
+11086,ダミー,假
+11087,ダミー,假
+11088,ダミー,假
+11089,ダミー,假
+11090,ダミー,假
+11091,ダミー,假
+11092,ダミー,假
+11093,ダミー,假
+11094,ダミー,假
+11095,ダミー,假
+11096,ダミー,假
+11097,ダミー,假
+11098,ダミー,假
+11099,ダミー,假
+11100,ダミー,假
+11101,ダミー,假
+11102,ダミー,假
+11103,ダミー,假
+11104,ダミー,假
+11105,ダミー,假
+11106,ダミー,假
+11107,ダミー,假
+11108,ダミー,假
+11109,ダミー,假
+11110,ダミー,假
+11111,ダミー,假
+11112,ダミー,假
+11113,ダミー,假
+11114,ダミー,假
+11115,ダミー,假
+11116,ダミー,假
+11117,ダミー,假
+11118,ダミー,假
+11119,ダミー,假
+11120,ダミー,假
+11121,ダミー,假
+11122,ダミー,假
+11123,ダミー,假
+11124,ダミー,假
+11125,ダミー,假
+11126,ダミー,假
+11127,ダミー,假
+11128,ダミー,假
+11129,ダミー,假
+11130,ダミー,假
+11131,ダミー,假
+11132,ダミー,假
+11133,ダミー,假
+11134,ダミー,假
+11135,ダミー,假
+11136,ダミー,假
+11137,ダミー,假
+11138,ダミー,假
+11139,ダミー,假
+11140,ダミー,假
+11141,ダミー,假
+11142,ダミー,假
+11143,ダミー,假
+11144,ダミー,假
+11145,ダミー,假
+11146,ダミー,假
+11147,ダミー,假
+11148,ダミー,假
+11149,ダミー,假
+11150,ダミー,假
+11151,ダミー,假
+11152,ダミー,假
+11153,ダミー,假
+11154,ダミー,假
+11155,ダミー,假
+11156,ダミー,假
+11157,ダミー,假
+11158,ダミー,假
+11159,ダミー,假
+11160,ダミー,假
+11161,ダミー,假
+11162,ダミー,假
+11163,ダミー,假
+11164,ダミー,假
+11165,ダミー,假
+11166,ダミー,假
+11167,ダミー,假
+11168,ダミー,假
+11169,ダミー,假
+11170,ダミー,假
+11171,ダミー,假
+11172,ダミー,假
+11173,ダミー,假
+11174,ダミー,假
+11175,ダミー,假
+11176,ダミー,假
+11177,ダミー,假
+11178,ダミー,假
+11179,ダミー,假
+11180,ダミー,假
+11181,ダミー,假
+11182,ダミー,假
+11183,ダミー,假
+11184,ダミー,假
+11185,ダミー,假
+11186,ダミー,假
+11187,ダミー,假
+11188,ダミー,假
+11189,ダミー,假
+11190,ダミー,假
+11191,ダミー,假
+11192,ダミー,假
+11193,ダミー,假
+11194,ダミー,假
+11195,ダミー,假
+11196,ダミー,假
+11197,ダミー,假
+11198,ダミー,假
+11199,ダミー,假
+11200,ダミー,假
+11201,ダミー,假
+11202,ダミー,假
+11203,ダミー,假
+11204,ダミー,假
+11205,ダミー,假
+11206,ダミー,假
+11207,ダミー,假
+11208,ダミー,假
+11209,ダミー,假
+11210,ダミー,假
+11211,ダミー,假
+11212,ダミー,假
+11213,ダミー,假
+11214,ダミー,假
+11215,ダミー,假
+11216,ダミー,假
+11217,ダミー,假
+11218,ダミー,假
+11219,ダミー,假
+11220,ダミー,假
+11221,ダミー,假
+11222,ダミー,假
+11223,ダミー,假
+11224,ダミー,假
+11225,ダミー,假
+11226,ダミー,假
+11227,ダミー,假
+11228,ダミー,假
+11229,ダミー,假
+11230,ダミー,假
+11231,ダミー,假
+11232,ダミー,假
+11233,ダミー,假
+11234,ダミー,假
+11235,ダミー,假
+11236,ダミー,假
+11237,ダミー,假
+11238,ダミー,假
+11239,ダミー,假
+11240,ダミー,假
+11241,ダミー,假
 11242,EA2B・コーレティーラ,EA2B・科雷提拉
 11243,EB2B・コーレクラウフィー,EB2B・科雷庫拉烏菲
 11244,Final Judgment,決勝審判
@@ -11363,14 +11363,14 @@ index,source,target
 11361,Rove Gantereira,羅維格阿恩特艾爾艾伊
 11362,Sierra Sword,斯伊艾爾爾阿劍
 11363,Sierra Blade,斯伊艾爾爾阿刃
-11364,ダミー,(dummy)
+11364,ダミー,假
 11365,Sierra Buster,SI老ＲＲＢＵST老Ｒ
 11366,Sierra Claymore,斯伊艾爾爾阿闊劍
 11367,Sierra Soldier,斯伊艾爾爾阿斯歐勒德伊艾爾
 11368,682C・プエルラ・ディエイラ,682C・普艾魯拉・迪艾伊拉
 11369,Sega Sword,瑟加劍
 11370,Sega Blade,瑟加刃
-11371,ダミー,(dummy)
+11371,ダミー,假
 11372,Sega Buster,S老ＧＢＵST老Ｒ
 11373,Sega Claymore,瑟加闊劍
 11374,Sega Master,瑟加大師
@@ -11425,30 +11425,30 @@ index,source,target
 11423,Gold Trophy,金獎杯
 11424,Gold Ceremony,金媒研磨
 11425,Gold Festi,金祭
-11426,ダミー,(dummy)
+11426,ダミー,假
 11427,Silver Mace,銀鎚
 11428,Silver Trophy,銀獎杯
 11429,Silver Ceremony,銀媒研磨
 11430,Silver Festi,銀祭
-11431,ダミー,(dummy)
+11431,ダミー,假
 11432,Bronze Mace,青銅鎚
 11433,Bronze Trophy,青銅獎杯
 11434,Bronze Ceremony,青銅媒研磨
 11435,Bronze Festi,青銅祭
-11436,ダミー,(dummy)
+11436,ダミー,假
 11437,Guar Guar Guuku Ⅰ,瓜瓜愚空Ⅰ
 11438,Guar Guar Guuku Ⅱ,瓜瓜愚空Ⅱ
-11439,ダミー,(dummy)
+11439,ダミー,假
 11440,Guar Guar Guuku Ⅲ,瓜瓜愚空Ⅲ
 11441,Guar Guar Guuku Ⅳ,瓜瓜愚空Ⅳ
 11442,Wah Wah Guuku Ⅰ,哇哇愚空Ⅰ
 11443,Wah Wah Guuku Ⅱ,哇哇愚空Ⅱ
-11444,ダミー,(dummy)
+11444,ダミー,假
 11445,Wah Wah Guuku Ⅲ,哇哇愚空Ⅲ
 11446,Wah Wah Guuku Ⅳ,哇哇愚空Ⅳ
 11447,Gah Gah Guuku Ⅰ,格阿哈格阿哈愚空Ⅰ
 11448,Gah Gah Guuku Ⅱ,格阿哈格阿哈愚空Ⅱ
-11449,ダミー,(dummy)
+11449,ダミー,假
 11450,Gah Gah Guuku Ⅲ,格阿哈格阿哈愚空Ⅲ
 11451,Gah Gah Guuku Ⅳ,格阿哈格阿哈愚空Ⅳ
 11452,Twin Prince Swords,球紋章王子斯瓦歐爾德斯
@@ -11577,11 +11577,11 @@ index,source,target
 11575,Somu Arugo Dart,索穆阿魯戈德阿爾特
 11576,Goru Arugo Avale,戈魯阿魯戈阿瓦勒
 11577,Somu Arugo Avale,索穆阿魯戈阿瓦勒
-11578,ダミー,(dummy)
+11578,ダミー,假
 11579,"Fury Pair ""Disturbed""",狂對
 11580,3C2D・幻雷獄笛【天太鼓】,3C2D・幻雷獄笛【天太鼓】
 11581,Jebia Shotel,灰晶蠍斯哈歐特艾勒
-11582,ダミー,(dummy)
+11582,ダミー,假
 11583,Kut-Ku Jember,ｋＵTｋＵJ老MＢ老Ｒ
 11584,Shira Anchor,抑制螺錨
 11585,Venham Seeker,維艾恩哈阿姆斯艾艾克艾爾
@@ -11607,15 +11607,15 @@ index,source,target
 11605,Tita Libre,泰坦利布艾
 11606,Fatalis Tonfa,黑龍穿刺棍
 11607,Crimson Demon Tonfa,深紅惡魔穿刺棍
-11608,ダミー,(dummy)
-11609,ダミー,(dummy)
+11608,ダミー,假
+11609,ダミー,假
 11610,"Wolven Fang ""Dragon""",龍瓦歐勒維艾恩牙
 11611,5B2D・王狼双牙【比叡】,5B2D・王狼双牙【比叡】
 11612,5C2D・王狼剛剣【月華】,5C2D・王狼剛剣【月華】
 11613,Izanagi,ⅠＺNＧⅠ
 11614,Unkai Hammer,大錘烏恩克阿伊
 11615,5F2D・王狼大笛【夜霧】,5F2D・王狼大笛【夜霧】
-11616,ダミー,(dummy)
+11616,ダミー,假
 11617,Tenga Gunlance,銃槍特恩阿
 11618,Jebia Phalange,灰晶蠍菲阿拉恩艾
 11619,Jebia Talons,灰晶蠍特阿勒歐恩斯
@@ -11625,7 +11625,7 @@ index,source,target
 11623,Jebia Katzbalger,灰晶蠍克阿特茲布阿勒格
 11624,Jebia Sharp,灰晶蠍鋭
 11625,Jebia Big Bang,灰晶蠍大爆
-11626,ダミー,(dummy)
+11626,ダミー,假
 11627,Jebia Partisan,J老ＢⅠPＲTⅠSN
 11628,"Silver Raths ""Sun""",銀爾阿特哈斯日
 11629,Wrathpipe Requiem,瓦爾阿特哈普伊普鎮魂
@@ -11636,29 +11636,29 @@ index,source,target
 11634,Blue Meteor Impact,青流星衝撃
 11635,732D・突貫ドドドランク,732D・突貫德歐德歐德歐爾阿
 11636,Rote Reue,輪唱雷烏艾
-11637,Partner Knife,伴刀
-11638,Partner Dagger,PＲTN老ＲＤＧＧ老Ｒ
+11637,Partner Knife,夥伴刀
+11638,Partner Dagger,夥伴短劍
 11639,772D・ロートマハト,772D・羅托瑪哈托
 11640,Partner Cutters,PＲTN老ＲＣＵTT老ＲS
 11641,Partner Slicers,伴切
 11642,Roter Dank,爾歐特艾爾德阿恩克
-11643,Partner Sword,伴劍
+11643,Partner Sword,夥伴劍
 11644,Partner Schwert,PＲTN老ＲSＣHW老ＲT
 11645,Rotes Guete,爾歐特艾斯古艾特
-11646,Partner Edge,PＲTN老Ｒ老ＤＧ老
-11647,Partner Blade,伴刃
+11646,Partner Edge,夥伴刃
+11647,Partner Blade,夥伴刃
 11648,Roter Zorn,爾歐特艾爾茲歐爾恩
-11649,Partner Mace,伴鎚
-11650,Partner Hammer,大錘伴
+11649,Partner Mace,夥伴鎚
+11650,Partner Hammer,夥伴大錘
 11651,Rote Schemen,輪唱斯克哈艾姆艾恩
 11652,Partner Trumpet,PＲTN老ＲTＲＵMP老T
 11653,Partner Wind,伴風
 11654,Rotes Genie,爾歐特艾斯格尼艾
-11655,Partner Lance,伴槍
-11656,Partner Spear,伴矛
+11655,Partner Lance,夥伴長槍
+11656,Partner Spear,夥伴槍
 11657,Rot Ehrlich,腐艾哈爾勒伊克哈
-11658,Partner Gunlance,銃槍伴
-11659,Partner Cannon,伴砲
+11658,Partner Gunlance,夥伴銃槍
+11659,Partner Cannon,夥伴加農砲
 11660,Caravan Sharp Sword,旅團鋭劍
 11661,Caravan Sharp Sword Ⅱ,旅團鋭劍Ⅱ
 11662,Caravan Sharp Sword Ⅲ,旅團鋭劍Ⅲ
@@ -11767,7 +11767,7 @@ index,source,target
 11765,"Heroic Proof ""G""",爾霧野證Ｇ
 11766,"Heroic Proof ""GG""",爾霧野證
 11767,Prototype Model,試作型
-11768,ダミー,(dummy)
+11768,ダミー,假
 11769,Fazel Garuda,歌聲急迦樓羅
 11770,Fazel Garmagna,歌聲急格阿爾姆阿格恩阿
 11771,FB2D・ロット・アムド,FB2D・爾歐爾特歐・阿穆多
@@ -11857,7 +11857,7 @@ index,source,target
 11855,"Beta Knife ""Qing"" Ⅲ",β刀奎伊恩格Ⅲ
 11856,"Beta Knife ""Armour"" Ⅲ",β刀鎧Ⅲ
 11857,High Double Beta Ⅲ,高双βⅢ
-11858,ダミー,(dummy)
+11858,ダミー,假
 11859,Romu Gunla,明球紋格烏恩勒阿
 11860,Romu Glew,明球紋格勒艾瓦
 11861,"Beta Knife ""Qing""",β刀
@@ -11982,70 +11982,70 @@ index,source,target
 11980,CC2E・プルート・デーン,CC2E・普魯托・德艾恩
 11981,Lille Sema,勒伊勒勒艾瑟瑪
 11982,Lille Kaeri,勒伊勒勒艾可艾里
-11983,ダミー,(dummy)
+11983,ダミー,假
 11984,Lille Sigurun,勒伊勒勒艾斯伊格烏爾烏恩
 11985,Lille Galilei,勒伊勒勒艾加利勒伊
 11986,Lille Comet,勒伊勒勒艾彗星
 11987,Lille Mercury,勒伊勒勒艾姆艾爾克烏爾伊
 11988,Mele Sema,梅勒瑟瑪
 11989,Mele Kaeri,梅勒可艾里
-11990,ダミー,(dummy)
+11990,ダミー,假
 11991,Mele Sigurun,梅勒斯伊格烏爾烏恩
 11992,Mele Galilei,梅勒加利勒伊
 11993,Mele Comet,梅勒彗星
 11994,Mele Mercury,梅勒姆艾爾克烏爾伊
 11995,Apist Seek,阿皮斯斯艾艾克
 11996,Apist Oak,阿皮斯橡
-11997,ダミー,(dummy)
+11997,ダミー,假
 11998,Apist Eve,PⅠST老Ⅴ老
 11999,DF2E・アピスト・ギーク,DF2E・阿皮蘇托・吉庫
 12000,E02E・アルフ＝カンプ,E02E・阿魯芙＝克阿恩普烏
 12001,E12E・アルフ＝ハウフル,E12E・阿魯芙＝哈烏芙魯
 12002,Glamour Seek,格勒阿姆歐烏爾斯艾艾克
 12003,Glamour Oak,格勒阿姆歐烏爾橡
-12004,ダミー,(dummy)
+12004,ダミー,假
 12005,Glamour Eve,格勒阿姆歐烏爾艾維
 12006,E62E・グラマ・ギーク,E62E・古拉瑪・吉庫
 12007,E72E・シス＝カンプ,E72E・修伊蘇＝克阿恩普烏
 12008,E82E・シス＝ハウフル,E82E・修伊蘇＝哈烏芙魯
 12009,Fire Wind Shear,FⅠＲ老WⅠNＤSH老Ｒ
 12010,Fire Cloud Longsword,火雲長劍
-12011,ダミー,(dummy)
+12011,ダミー,假
 12012,Autumn Water Fire,水秋火
 12013,ED2E・桐一文字・火,ED2E・桐一文字・火
 12014,Red Lotus Fire,火赤蓮
 12015,Red Lotus Ⅱ Fire,火赤蓮Ⅱ
 12016,Wind Shear Dark,WⅠNＤSH老ＲＤＲｋ
 12017,Dark Cloud Longsword,闇雲長劍
-12018,ダミー,(dummy)
+12018,ダミー,假
 12019,Autumn Water Dark,水秋闇
 12020,F42E・桐一文字・闇,F42E・桐一文字・闇
 12021,Red Lotus Dark,赤蓮暗
 12022,Red Lotus Ⅱ Dark,赤蓮Ⅱ暗
 12023,"Dragon Katana ""Dragon"" Ⅰ",龍刀龍Ⅰ
 12024,"Dragon Katana ""Dragon"" Ⅱ",龍刀龍Ⅱ
-12025,ダミー,(dummy)
+12025,ダミー,假
 12026,"Dragon Katana ""Dragon"" Ⅲ",龍刀龍Ⅲ
 12027,"Dragon Katana ""Dragon"" Ⅳ",龍刀龍Ⅳ
 12028,"Dragon Katana ""Dragon"" Ⅴ",龍刀龍Ⅴ
 12029,"Dragon Katana ""Dragon"" Ⅵ",龍刀龍Ⅵ
 12030,"Dragon Katana ""Flame"" Ⅰ",龍刀炎Ⅰ
 12031,"Dragon Katana ""Flame"" Ⅱ",龍刀炎Ⅱ
-12032,ダミー,(dummy)
+12032,ダミー,假
 12033,"Dragon Katana ""Flame"" Ⅲ",龍刀炎Ⅲ
 12034,"Dragon Katana ""Flame"" Ⅳ",龍刀炎Ⅳ
 12035,"Dragon Katana ""Flame"" Ⅴ",龍刀炎Ⅴ
 12036,"Dragon Katana ""Flame"" Ⅵ",龍刀炎Ⅵ
 12037,"Engetsuto ""Thunder"" Ⅰ",雷艾恩格艾特斯烏特Ⅰ
 12038,"Engetsuto ""Thunder"" Ⅱ",雷艾恩格艾特斯烏特Ⅱ
-12039,ダミー,(dummy)
+12039,ダミー,假
 12040,"Engetsu ""Thunder"" Ⅲ",雷円月Ⅲ
 12041,"Engetsu ""Thunder"" Ⅳ",雷円月Ⅳ
 12042,"Engetsu ""Thunder"" Ⅴ",雷円月Ⅴ
 12043,"Engetsu ""Thunder"" Ⅵ",雷円月Ⅵ
 12044,"Engetsu ""Fire"" Ⅰ",火円月Ⅰ
 12045,"Engetsu ""Fire"" Ⅱ",火円月Ⅱ
-12046,ダミー,(dummy)
+12046,ダミー,假
 12047,"Engetsu ""Fire"" Ⅲ",火円月Ⅲ
 12048,"Engetsu ""Fire"" Ⅳ",火円月Ⅳ
 12049,"Engetsu ""Fire"" Ⅴ",火円月Ⅴ
@@ -12349,21 +12349,21 @@ index,source,target
 12347,Crimson Pact,深紅未來迪
 12348,Crimson Tide,深紅潮
 12349,Ｄｕｓｔｉｎ,Ｄｕｓｔｉｎ
-12350,ダミー,(dummy)
-12351,ダミー,(dummy)
-12352,ダミー,(dummy)
-12353,ダミー,(dummy)
-12354,ダミー,(dummy)
-12355,ダミー,(dummy)
-12356,ダミー,(dummy)
-12357,ダミー,(dummy)
-12358,ダミー,(dummy)
-12359,ダミー,(dummy)
-12360,ダミー,(dummy)
-12361,ダミー,(dummy)
-12362,ダミー,(dummy)
-12363,ダミー,(dummy)
-12364,ダミー,(dummy)
+12350,ダミー,假
+12351,ダミー,假
+12352,ダミー,假
+12353,ダミー,假
+12354,ダミー,假
+12355,ダミー,假
+12356,ダミー,假
+12357,ダミー,假
+12358,ダミー,假
+12359,ダミー,假
+12360,ダミー,假
+12361,ダミー,假
+12362,ダミー,假
+12363,ダミー,假
+12364,ダミー,假
 12365,Hypno Mecha Z,眠梅奇阿Ｚ
 12366,Skilled Power Saws,斯克伊勒勒艾德力斯阿瓦斯
 12367,Timeless Battle,特伊姆艾勒艾斯斯戦
@@ -12388,67 +12388,67 @@ index,source,target
 12386,Crackdown,克爾阿克克德歐瓦
 12387,"Gagaku Pipe ""Houou""",ＧＧｋＵPⅠP老
 12388,Cha Cha Lantern,奇阿奇阿勒阿恩特艾爾恩
-12389,ダミー,(dummy)
-12390,ダミー,(dummy)
-12391,ダミー,(dummy)
-12392,ダミー,(dummy)
-12393,ダミー,(dummy)
-12394,ダミー,(dummy)
-12395,ダミー,(dummy)
-12396,ダミー,(dummy)
-12397,ダミー,(dummy)
-12398,ダミー,(dummy)
-12399,ダミー,(dummy)
-12400,ダミー,(dummy)
-12401,ダミー,(dummy)
-12402,ダミー,(dummy)
-12403,ダミー,(dummy)
-12404,ダミー,(dummy)
-12405,ダミー,(dummy)
-12406,ダミー,(dummy)
-12407,ダミー,(dummy)
-12408,ダミー,(dummy)
-12409,ダミー,(dummy)
-12410,ダミー,(dummy)
-12411,ダミー,(dummy)
-12412,ダミー,(dummy)
-12413,ダミー,(dummy)
-12414,ダミー,(dummy)
-12415,ダミー,(dummy)
-12416,ダミー,(dummy)
+12389,ダミー,假
+12390,ダミー,假
+12391,ダミー,假
+12392,ダミー,假
+12393,ダミー,假
+12394,ダミー,假
+12395,ダミー,假
+12396,ダミー,假
+12397,ダミー,假
+12398,ダミー,假
+12399,ダミー,假
+12400,ダミー,假
+12401,ダミー,假
+12402,ダミー,假
+12403,ダミー,假
+12404,ダミー,假
+12405,ダミー,假
+12406,ダミー,假
+12407,ダミー,假
+12408,ダミー,假
+12409,ダミー,假
+12410,ダミー,假
+12411,ダミー,假
+12412,ダミー,假
+12413,ダミー,假
+12414,ダミー,假
+12415,ダミー,假
+12416,ダミー,假
 12417,wi956,ＷＩ956
 12418,wi957,ＷＩ957
 12419,8330・wi958,8330・ＷＩ958
 12420,8430・wi959,8430・ＷＩ959
-12421,ダミー,(dummy)
-12422,ダミー,(dummy)
-12423,ダミー,(dummy)
-12424,ダミー,(dummy)
-12425,ダミー,(dummy)
-12426,ダミー,(dummy)
-12427,ダミー,(dummy)
-12428,ダミー,(dummy)
-12429,ダミー,(dummy)
-12430,ダミー,(dummy)
-12431,ダミー,(dummy)
-12432,ダミー,(dummy)
-12433,ダミー,(dummy)
-12434,ダミー,(dummy)
-12435,ダミー,(dummy)
-12436,ダミー,(dummy)
-12437,ダミー,(dummy)
-12438,ダミー,(dummy)
-12439,ダミー,(dummy)
-12440,ダミー,(dummy)
-12441,ダミー,(dummy)
-12442,ダミー,(dummy)
-12443,ダミー,(dummy)
-12444,ダミー,(dummy)
-12445,ダミー,(dummy)
-12446,ダミー,(dummy)
-12447,ダミー,(dummy)
-12448,ダミー,(dummy)
-12449,ダミー,(dummy)
+12421,ダミー,假
+12422,ダミー,假
+12423,ダミー,假
+12424,ダミー,假
+12425,ダミー,假
+12426,ダミー,假
+12427,ダミー,假
+12428,ダミー,假
+12429,ダミー,假
+12430,ダミー,假
+12431,ダミー,假
+12432,ダミー,假
+12433,ダミー,假
+12434,ダミー,假
+12435,ダミー,假
+12436,ダミー,假
+12437,ダミー,假
+12438,ダミー,假
+12439,ダミー,假
+12440,ダミー,假
+12441,ダミー,假
+12442,ダミー,假
+12443,ダミー,假
+12444,ダミー,假
+12445,ダミー,假
+12446,ダミー,假
+12447,ダミー,假
+12448,ダミー,假
+12449,ダミー,假
 12450,Caduceus,ＣＤＵＣ老ＵS
 12451,D?fi,ＤFⅠ
 12452,D?fi Courage,ＤFI勇気
@@ -12539,7 +12539,7 @@ index,source,target
 12537,F930・ハルバルーロース,F930・哈魯巴魯羅蘇
 12538,FA30・ユチドリⅠ,FA30・尤奇伊多里
 12539,FB30・ユチドリⅡ,FB30・尤奇伊多里
-12540,ダミー,(dummy)
+12540,ダミー,假
 12541,FD30・ユチドリⅢ,FD30・尤奇伊多里
 12542,FE30・ユチドリⅣ,FE30・尤奇伊多里
 12543,FF30・テソロトゥール,FF30・特索羅圖魯
@@ -12747,7 +12747,7 @@ index,source,target
 12745,Astragalus Recorder,阿斯特爾阿格阿勒爾艾克歐爾德艾爾
 12746,Azure Wing Ciel Piercer,蒼翼克伊艾勒普伊艾爾克艾爾
 12747,Azure Wyvern Gunlance,銃槍蒼飛龍
-12748,ダミー,(dummy)
+12748,ダミー,假
 12749,Rashine,ＲSHⅠN老
 12750,Rashine Ruth,ＲSHⅠN老ＲＵTH
 12751,Shershine,SH老ＲSHⅠN老
@@ -12811,7 +12811,7 @@ index,source,target
 12809,Menti Lance,姆艾恩特伊槍
 12810,Menti Cannon,姆艾恩特伊砲
 12811,Menti Pair,M老NTⅠPⅠＲ
-12812,ダミー,(dummy)
+12812,ダミー,假
 12813,"HellfireSword ""Flame""",獄火劍焔
 12814,"HellfireSword ""Flower""",獄火劍花
 12815,"HellfireSword ""Shining""",獄火劍輝耀
@@ -12962,10 +12962,10 @@ index,source,target
 12960,"Bind Mace ""Emperor""",布伊恩德鎚帝
 12961,Raise Strike,ＲIS老STＲIｋ老
 12962,Void Helix,維歐伊德赫利克斯
-12963,ダミー,(dummy)
-12964,ダミー,(dummy)
-12965,ダミー,(dummy)
-12966,ダミー,(dummy)
+12963,ダミー,假
+12964,ダミー,假
+12965,ダミー,假
+12966,ダミー,假
 12967,Romeille Noct,爾歐姆艾伊勒勒艾恩歐克特
 12968,Nonno Noct,恩歐恩恩歐恩歐克特
 12969,A932・リリープ・ノック,A932・里里普・恩歐恩克烏
@@ -13025,30 +13025,30 @@ index,source,target
 13023,Rovinioro,羅維尼歐羅
 13024,Diamandy,德伊阿姆阿恩德伊
 13025,Diaperla,德伊阿普艾爾勒阿
-13026,Azoth Sword I,阿佐特劍I
-13027,Azoth Sword II,阿佐特劍Ⅱ
-13028,Azoth Sword III,阿佐特劍Ⅲ
-13029,Azoth Sword IV,阿佐特劍Ⅳ
-13030,Azoth Sword V,阿佐特劍Ｖ
-13031,Azoth Sword VI,阿佐特劍Ⅵ
-13032,"Azoth Sword ""Blue"" I",阿佐特劍青I
-13033,"Azoth Sword ""Blue"" II",阿佐特劍青Ⅱ
-13034,"Azoth Sword ""Blue"" III",阿佐特劍青Ⅲ
-13035,"Azoth Sword ""Blue"" IV",阿佐特劍青Ⅳ
-13036,"Azoth Sword ""Blue"" V",阿佐特劍青Ｖ
-13037,"Azoth Sword ""Blue"" VI",阿佐特劍青Ⅵ
-13038,Gae Bolg I,怪轟龍鍵盤歌I
-13039,Gae Bolg II,怪轟龍鍵盤歌Ⅱ
-13040,Gae Bolg III,怪轟龍鍵盤歌Ⅲ
-13041,Gae Bolg IV,怪轟龍鍵盤歌Ⅳ
-13042,Gae Bolg V,怪轟龍鍵盤歌Ｖ
-13043,Gae Bolg VI,怪轟龍鍵盤歌Ⅵ
-13044,"Gae Bolg ""Black"" I",怪轟龍鍵盤歌黒I
-13045,"Gae Bolg ""Black"" II",怪轟龍鍵盤歌黒Ⅱ
-13046,"Gae Bolg ""Black"" III",怪轟龍鍵盤歌黒Ⅲ
-13047,"Gae Bolg ""Black"" IV",怪轟龍鍵盤歌黒Ⅳ
-13048,"Gae Bolg ""Black"" V",怪轟龍鍵盤歌黒Ｖ
-13049,"Gae Bolg ""Black"" VI",怪轟龍鍵盤歌黒Ⅵ
+13026,Azoth Sword I,阿佐斯劍Ⅰ
+13027,Azoth Sword II,阿佐斯劍ⅠⅠ
+13028,Azoth Sword III,阿佐斯劍ⅠⅠⅠ
+13029,Azoth Sword IV,阿佐斯劍ⅠⅤ
+13030,Azoth Sword V,阿佐斯劍Ⅴ
+13031,Azoth Sword VI,阿佐斯劍ⅤⅠ
+13032,"Azoth Sword ""Blue"" I",阿佐斯劍BlueⅠ
+13033,"Azoth Sword ""Blue"" II",阿佐斯劍BlueⅠⅠ
+13034,"Azoth Sword ""Blue"" III",阿佐斯劍BlueⅠⅠⅠ
+13035,"Azoth Sword ""Blue"" IV",阿佐斯劍BlueⅠⅤ
+13036,"Azoth Sword ""Blue"" V",阿佐斯劍BlueⅤ
+13037,"Azoth Sword ""Blue"" VI",阿佐斯劍BlueⅤⅠ
+13038,Gae Bolg I,迦耶波格Ⅰ
+13039,Gae Bolg II,迦耶波格ⅠⅠ
+13040,Gae Bolg III,迦耶波格ⅠⅠⅠ
+13041,Gae Bolg IV,迦耶波格ⅠⅤ
+13042,Gae Bolg V,迦耶波格Ⅴ
+13043,Gae Bolg VI,迦耶波格ⅤⅠ
+13044,"Gae Bolg ""Black"" I",迦耶波格黑Ⅰ
+13045,"Gae Bolg ""Black"" II",迦耶波格黑ⅠⅠ
+13046,"Gae Bolg ""Black"" III",迦耶波格黑ⅠⅠⅠ
+13047,"Gae Bolg ""Black"" IV",迦耶波格黑ⅠⅤ
+13048,"Gae Bolg ""Black"" V",迦耶波格黑Ⅴ
+13049,"Gae Bolg ""Black"" VI",迦耶波格黑ⅤⅠ
 13050,Twin Clawnyas Ⅰ,球紋章克勒阿瓦恩伊阿斯Ⅰ
 13051,Twin Clawnyas Ⅱ,球紋章克勒阿瓦恩伊阿斯Ⅱ
 13052,Twin Clawnyas Ⅲ,球紋章克勒阿瓦恩伊阿斯Ⅲ
@@ -13067,51 +13067,51 @@ index,source,target
 13065,Big Katanya Ⅳ,大克阿特阿恩伊阿Ⅳ
 13066,0A33・ビックアタッニャー,0A33・布伊布克烏阿特阿
 13067,0B33・ビックシェーニャー,0B33・布伊布克烏斯哈伊
-13068,ダミー,(dummy)
-13069,ダミー,(dummy)
-13070,ダミー,(dummy)
-13071,ダミー,(dummy)
-13072,ダミー,(dummy)
-13073,ダミー,(dummy)
+13068,ダミー,假
+13069,ダミー,假
+13070,ダミー,假
+13071,ダミー,假
+13072,ダミー,假
+13073,ダミー,假
 13074,1233・ギリギリニャーⅠ,1233・格伊爾伊格伊爾伊
 13075,1333・ギリギリニャーⅡ,1333・格伊爾伊格伊爾伊
 13076,1433・ギリギリニャーⅢ,1433・格伊爾伊格伊爾伊
 13077,1533・ギリギリニャーⅣ,1533・格伊爾伊格伊爾伊
 13078,1633・ギリソーニャー,1633・格伊爾伊斯歐恩伊
 13079,1733・ギリッシュニャー,1733・格伊爾伊爾斯哈烏
-13080,ダミー,(dummy)
-13081,ダミー,(dummy)
-13082,ダミー,(dummy)
-13083,ダミー,(dummy)
-13084,ダミー,(dummy)
-13085,ダミー,(dummy)
+13080,ダミー,假
+13081,ダミー,假
+13082,ダミー,假
+13083,ダミー,假
+13084,ダミー,假
+13085,ダミー,假
 13086,1E33・グルドリニャーⅠ,1E33・格烏爾烏德歐爾伊
 13087,1F33・グルドリニャーⅡ,1F33・格烏爾烏德歐爾伊
 13088,2033・グルドリニャーⅢ,2033・格烏爾烏德歐爾伊
 13089,2133・グルドリニャーⅣ,2133・格烏爾烏德歐爾伊
 13090,2233・グルブレニャー,2233・格烏爾烏布烏爾艾
 13091,2333・グルディニャー,2333・格烏爾烏德伊恩伊
-13092,ダミー,(dummy)
-13093,ダミー,(dummy)
-13094,ダミー,(dummy)
-13095,ダミー,(dummy)
-13096,ダミー,(dummy)
-13097,ダミー,(dummy)
+13092,ダミー,假
+13093,ダミー,假
+13094,ダミー,假
+13095,ダミー,假
+13096,ダミー,假
+13097,ダミー,假
 13098,2A33・ドルルスキューニャ,2A33・德歐爾烏爾烏斯烏
 13099,2B33・ドルルターニャ―,2B33・德歐爾烏爾烏特阿
-13100,ダミー,(dummy)
-13101,ダミー,(dummy)
-13102,ダミー,(dummy)
-13103,ダミー,(dummy)
-13104,ダミー,(dummy)
-13105,ダミー,(dummy)
-13106,ダミー,(dummy)
+13100,ダミー,假
+13101,ダミー,假
+13102,ダミー,假
+13103,ダミー,假
+13104,ダミー,假
+13105,ダミー,假
+13106,ダミー,假
 13107,Law and Equality,勒阿瓦艾奎烏阿勒伊特伊
-13108,ダミー,(dummy)
-13109,ダミー,(dummy)
-13110,ダミー,(dummy)
-13111,ダミー,(dummy)
-13112,ダミー,(dummy)
+13108,ダミー,假
+13109,ダミー,假
+13110,ダミー,假
+13111,ダミー,假
+13112,ダミー,假
 13113,Law and Authority,勒阿瓦阿烏特哈歐爾伊特
 13114,Law and Punishment,勒阿瓦普烏恩伊斯哈姆艾
 13115,Rejection Roll,爾艾杰艾克特伊歐転
@@ -13129,33 +13129,33 @@ index,source,target
 13127,Over the Wall,歐維艾爾壁
 13128,Dead End,Ｄ老Ｄ老NＤ
 13129,Black Sheep,黑斯哈艾艾普
-13130,ダミー,(dummy)
-13131,ダミー,(dummy)
-13132,ダミー,(dummy)
-13133,ダミー,(dummy)
-13134,ダミー,(dummy)
-13135,ダミー,(dummy)
+13130,ダミー,假
+13131,ダミー,假
+13132,ダミー,假
+13133,ダミー,假
+13134,ダミー,假
+13135,ダミー,假
 13136,Thunder Ball Hammer Ⅰ,雷球大錘Ⅰ
 13137,Thunder Ball Hammer Ⅱ,雷球大錘Ⅱ
-13138,ダミー,(dummy)
+13138,ダミー,假
 13139,Thunder Ball Hammer Ⅲ,雷球大錘Ⅲ
 13140,Thunder Ball Hammer Ⅳ,雷球大錘Ⅳ
 13141,Thunder Ball Hammer Ⅴ,雷球大錘Ⅴ
 13142,Thunder Ball Hammer Ⅵ,雷球大錘Ⅵ
-13143,Dragon Ball Hammer Ⅰ,龍球大錘Ⅰ
-13144,Dragon Ball Hammer Ⅱ,龍球大錘Ⅱ
-13145,ダミー,(dummy)
-13146,Dragon Ball Hammer Ⅲ,龍球大錘Ⅲ
-13147,Dragon Ball Hammer Ⅳ,龍球大錘Ⅳ
-13148,Dragon Ball Hammer Ⅴ,龍球大錘Ⅴ
-13149,Dragon Ball Hammer Ⅵ,龍球大錘Ⅵ
-13150,Dragon Ball Hammer+ Ⅰ,龍球大錘Ⅰ
-13151,Dragon Ball Hammer+ Ⅱ,龍球大錘Ⅱ
-13152,ダミー,(dummy)
-13153,Dragon Ball Hammer+ Ⅲ,龍球大錘Ⅲ
-13154,Dragon Ball Hammer+ Ⅳ,龍球大錘Ⅳ
-13155,Dragon Ball Hammer+ Ⅴ,龍球大錘Ⅴ
-13156,Dragon Ball Hammer+ Ⅵ,龍球大錘Ⅵ
+13143,Dragon Ball Hammer Ⅰ,龍珠大錘Ⅰ
+13144,Dragon Ball Hammer Ⅱ,龍珠大錘Ⅱ
+13145,ダミー,假
+13146,Dragon Ball Hammer Ⅲ,龍珠大錘Ⅲ
+13147,Dragon Ball Hammer Ⅳ,龍珠大錘Ⅳ
+13148,Dragon Ball Hammer Ⅴ,龍珠大錘Ⅴ
+13149,Dragon Ball Hammer Ⅵ,龍珠大錘Ⅵ
+13150,Dragon Ball Hammer+ Ⅰ,龍珠大錘Ⅰ＋
+13151,Dragon Ball Hammer+ Ⅱ,龍珠大錘Ⅱ＋
+13152,ダミー,假
+13153,Dragon Ball Hammer+ Ⅲ,龍珠大錘Ⅲ＋
+13154,Dragon Ball Hammer+ Ⅳ,龍珠大錘Ⅳ＋
+13155,Dragon Ball Hammer+ Ⅴ,龍珠大錘Ⅴ＋
+13156,Dragon Ball Hammer+ Ⅵ,龍珠大錘Ⅵ＋
 13157,6533・ガルバソフィ,6533・加魯巴索菲
 13158,Garuba Vent,ＧＲＵＢＶ老NT
 13159,Garuba Vento,金塵維艾恩特歐
@@ -13507,7 +13507,7 @@ index,source,target
 13505,Felyoshka,夫艾勒伊歐斯哈克
 13506,Felicitous Felyoshka,夫艾勒伊克伊特歐夫艾勒伊歐斯哈克
 13507,Fortuitous Felyoshka,夫歐爾特烏伊特歐夫艾勒伊歐斯哈克
-13508,ダミー,(dummy)
+13508,ダミー,假
 13509,Usurper's Firebolt,烏斯烏爾普艾爾夫伊爾艾布歐勒特
 13510,Despot's Crookbolt,德艾斯普歐特克爾歐歐克布歐勒
 13511,Oppressor's Bounty,歐普普爾艾斯斯歐布歐烏恩特伊
@@ -13783,289 +13783,289 @@ index,source,target
 13781,Azure Baron Ⅲ,蒼男爵Ⅲ
 13782,Azure Baron Ⅵ,蒼男爵Ⅵ
 13783,Baron Wolke,男爵瓦歐勒克艾
-13784,ダミー,(dummy)
+13784,ダミー,假
 13785,Weisser Baron Ⅰ,瓦艾伊斯斯艾爾男爵Ⅰ
 13786,Weisser Baron Ⅱ,瓦艾伊斯斯艾爾男爵Ⅱ
 13787,Weisser Baron Ⅲ,瓦艾伊斯斯艾爾男爵Ⅲ
 13788,Weisser Baron Ⅳ,瓦艾伊斯斯艾爾男爵Ⅳ
 13789,DD35・プラサバロン,DD35・普烏爾阿斯阿布阿
-13790,ダミー,(dummy)
+13790,ダミー,假
 13791,Verde Baron Ⅰ,尾虎皮男爵Ⅰ
 13792,Verde Baron Ⅱ,尾虎皮男爵Ⅱ
 13793,Verde Baron Ⅲ,尾虎皮男爵Ⅲ
 13794,Verde Baron Ⅳ,尾虎皮男爵Ⅳ
 13795,E335・オアシバロン,E335・歐阿斯哈伊布阿爾
-13796,ダミー,(dummy)
+13796,ダミー,假
 13797,Black Baron Ⅰ,黑男爵Ⅰ
 13798,Black Baron Ⅱ,黑男爵Ⅱ
 13799,Black Baron Ⅲ,黑男爵Ⅲ
-13800,ダミー,(dummy)
-13801,ダミー,(dummy)
-13802,ダミー,(dummy)
-13803,ダミー,(dummy)
-13804,ダミー,(dummy)
-13805,ダミー,(dummy)
-13806,ダミー,(dummy)
-13807,ダミー,(dummy)
-13808,ダミー,(dummy)
-13809,ダミー,(dummy)
-13810,ダミー,(dummy)
-13811,ダミー,(dummy)
-13812,ダミー,(dummy)
-13813,ダミー,(dummy)
-13814,ダミー,(dummy)
-13815,ダミー,(dummy)
-13816,ダミー,(dummy)
-13817,ダミー,(dummy)
-13818,ダミー,(dummy)
-13819,ダミー,(dummy)
-13820,ダミー,(dummy)
-13821,ダミー,(dummy)
-13822,ダミー,(dummy)
-13823,ダミー,(dummy)
-13824,ダミー,(dummy)
-13825,ダミー,(dummy)
-13826,ダミー,(dummy)
-13827,ダミー,(dummy)
-13828,ダミー,(dummy)
-13829,ダミー,(dummy)
-13830,ダミー,(dummy)
-13831,ダミー,(dummy)
-13832,ダミー,(dummy)
-13833,ダミー,(dummy)
-13834,ダミー,(dummy)
-13835,ダミー,(dummy)
-13836,ダミー,(dummy)
-13837,ダミー,(dummy)
-13838,ダミー,(dummy)
-13839,ダミー,(dummy)
-13840,ダミー,(dummy)
-13841,ダミー,(dummy)
-13842,ダミー,(dummy)
-13843,ダミー,(dummy)
-13844,ダミー,(dummy)
-13845,ダミー,(dummy)
-13846,ダミー,(dummy)
-13847,ダミー,(dummy)
-13848,ダミー,(dummy)
-13849,ダミー,(dummy)
-13850,ダミー,(dummy)
-13851,ダミー,(dummy)
-13852,ダミー,(dummy)
-13853,ダミー,(dummy)
-13854,ダミー,(dummy)
-13855,ダミー,(dummy)
-13856,ダミー,(dummy)
-13857,ダミー,(dummy)
-13858,ダミー,(dummy)
-13859,ダミー,(dummy)
-13860,ダミー,(dummy)
-13861,ダミー,(dummy)
-13862,ダミー,(dummy)
-13863,ダミー,(dummy)
-13864,ダミー,(dummy)
-13865,ダミー,(dummy)
-13866,ダミー,(dummy)
-13867,ダミー,(dummy)
-13868,ダミー,(dummy)
-13869,ダミー,(dummy)
-13870,ダミー,(dummy)
-13871,ダミー,(dummy)
-13872,ダミー,(dummy)
-13873,ダミー,(dummy)
-13874,ダミー,(dummy)
-13875,ダミー,(dummy)
-13876,ダミー,(dummy)
-13877,ダミー,(dummy)
-13878,ダミー,(dummy)
-13879,ダミー,(dummy)
-13880,ダミー,(dummy)
-13881,ダミー,(dummy)
-13882,ダミー,(dummy)
-13883,ダミー,(dummy)
-13884,ダミー,(dummy)
-13885,ダミー,(dummy)
-13886,ダミー,(dummy)
-13887,ダミー,(dummy)
-13888,ダミー,(dummy)
-13889,ダミー,(dummy)
-13890,ダミー,(dummy)
-13891,ダミー,(dummy)
-13892,ダミー,(dummy)
-13893,ダミー,(dummy)
-13894,ダミー,(dummy)
-13895,ダミー,(dummy)
-13896,ダミー,(dummy)
-13897,ダミー,(dummy)
-13898,ダミー,(dummy)
-13899,ダミー,(dummy)
-13900,ダミー,(dummy)
-13901,ダミー,(dummy)
-13902,ダミー,(dummy)
-13903,ダミー,(dummy)
-13904,ダミー,(dummy)
-13905,ダミー,(dummy)
-13906,ダミー,(dummy)
-13907,ダミー,(dummy)
-13908,ダミー,(dummy)
-13909,ダミー,(dummy)
-13910,ダミー,(dummy)
-13911,ダミー,(dummy)
-13912,ダミー,(dummy)
-13913,ダミー,(dummy)
-13914,ダミー,(dummy)
-13915,ダミー,(dummy)
-13916,ダミー,(dummy)
-13917,ダミー,(dummy)
-13918,ダミー,(dummy)
-13919,ダミー,(dummy)
-13920,ダミー,(dummy)
-13921,ダミー,(dummy)
-13922,ダミー,(dummy)
-13923,ダミー,(dummy)
-13924,ダミー,(dummy)
-13925,ダミー,(dummy)
-13926,ダミー,(dummy)
-13927,ダミー,(dummy)
-13928,ダミー,(dummy)
-13929,ダミー,(dummy)
-13930,ダミー,(dummy)
-13931,ダミー,(dummy)
-13932,ダミー,(dummy)
-13933,ダミー,(dummy)
-13934,ダミー,(dummy)
-13935,ダミー,(dummy)
-13936,ダミー,(dummy)
-13937,ダミー,(dummy)
-13938,ダミー,(dummy)
-13939,ダミー,(dummy)
-13940,ダミー,(dummy)
-13941,ダミー,(dummy)
-13942,ダミー,(dummy)
-13943,ダミー,(dummy)
-13944,ダミー,(dummy)
-13945,ダミー,(dummy)
-13946,ダミー,(dummy)
-13947,ダミー,(dummy)
-13948,ダミー,(dummy)
-13949,ダミー,(dummy)
-13950,ダミー,(dummy)
-13951,ダミー,(dummy)
-13952,ダミー,(dummy)
-13953,ダミー,(dummy)
-13954,ダミー,(dummy)
-13955,ダミー,(dummy)
-13956,ダミー,(dummy)
-13957,ダミー,(dummy)
-13958,ダミー,(dummy)
-13959,ダミー,(dummy)
-13960,ダミー,(dummy)
-13961,ダミー,(dummy)
-13962,ダミー,(dummy)
-13963,ダミー,(dummy)
-13964,ダミー,(dummy)
-13965,ダミー,(dummy)
-13966,ダミー,(dummy)
-13967,ダミー,(dummy)
-13968,ダミー,(dummy)
-13969,ダミー,(dummy)
-13970,ダミー,(dummy)
-13971,ダミー,(dummy)
-13972,ダミー,(dummy)
-13973,ダミー,(dummy)
-13974,ダミー,(dummy)
-13975,ダミー,(dummy)
-13976,ダミー,(dummy)
-13977,ダミー,(dummy)
-13978,ダミー,(dummy)
-13979,ダミー,(dummy)
-13980,ダミー,(dummy)
-13981,ダミー,(dummy)
-13982,ダミー,(dummy)
-13983,ダミー,(dummy)
-13984,ダミー,(dummy)
-13985,ダミー,(dummy)
-13986,ダミー,(dummy)
-13987,ダミー,(dummy)
-13988,ダミー,(dummy)
-13989,ダミー,(dummy)
-13990,ダミー,(dummy)
-13991,ダミー,(dummy)
-13992,ダミー,(dummy)
-13993,ダミー,(dummy)
-13994,ダミー,(dummy)
-13995,ダミー,(dummy)
-13996,ダミー,(dummy)
-13997,ダミー,(dummy)
-13998,ダミー,(dummy)
-13999,ダミー,(dummy)
-14000,ダミー,(dummy)
+13800,ダミー,假
+13801,ダミー,假
+13802,ダミー,假
+13803,ダミー,假
+13804,ダミー,假
+13805,ダミー,假
+13806,ダミー,假
+13807,ダミー,假
+13808,ダミー,假
+13809,ダミー,假
+13810,ダミー,假
+13811,ダミー,假
+13812,ダミー,假
+13813,ダミー,假
+13814,ダミー,假
+13815,ダミー,假
+13816,ダミー,假
+13817,ダミー,假
+13818,ダミー,假
+13819,ダミー,假
+13820,ダミー,假
+13821,ダミー,假
+13822,ダミー,假
+13823,ダミー,假
+13824,ダミー,假
+13825,ダミー,假
+13826,ダミー,假
+13827,ダミー,假
+13828,ダミー,假
+13829,ダミー,假
+13830,ダミー,假
+13831,ダミー,假
+13832,ダミー,假
+13833,ダミー,假
+13834,ダミー,假
+13835,ダミー,假
+13836,ダミー,假
+13837,ダミー,假
+13838,ダミー,假
+13839,ダミー,假
+13840,ダミー,假
+13841,ダミー,假
+13842,ダミー,假
+13843,ダミー,假
+13844,ダミー,假
+13845,ダミー,假
+13846,ダミー,假
+13847,ダミー,假
+13848,ダミー,假
+13849,ダミー,假
+13850,ダミー,假
+13851,ダミー,假
+13852,ダミー,假
+13853,ダミー,假
+13854,ダミー,假
+13855,ダミー,假
+13856,ダミー,假
+13857,ダミー,假
+13858,ダミー,假
+13859,ダミー,假
+13860,ダミー,假
+13861,ダミー,假
+13862,ダミー,假
+13863,ダミー,假
+13864,ダミー,假
+13865,ダミー,假
+13866,ダミー,假
+13867,ダミー,假
+13868,ダミー,假
+13869,ダミー,假
+13870,ダミー,假
+13871,ダミー,假
+13872,ダミー,假
+13873,ダミー,假
+13874,ダミー,假
+13875,ダミー,假
+13876,ダミー,假
+13877,ダミー,假
+13878,ダミー,假
+13879,ダミー,假
+13880,ダミー,假
+13881,ダミー,假
+13882,ダミー,假
+13883,ダミー,假
+13884,ダミー,假
+13885,ダミー,假
+13886,ダミー,假
+13887,ダミー,假
+13888,ダミー,假
+13889,ダミー,假
+13890,ダミー,假
+13891,ダミー,假
+13892,ダミー,假
+13893,ダミー,假
+13894,ダミー,假
+13895,ダミー,假
+13896,ダミー,假
+13897,ダミー,假
+13898,ダミー,假
+13899,ダミー,假
+13900,ダミー,假
+13901,ダミー,假
+13902,ダミー,假
+13903,ダミー,假
+13904,ダミー,假
+13905,ダミー,假
+13906,ダミー,假
+13907,ダミー,假
+13908,ダミー,假
+13909,ダミー,假
+13910,ダミー,假
+13911,ダミー,假
+13912,ダミー,假
+13913,ダミー,假
+13914,ダミー,假
+13915,ダミー,假
+13916,ダミー,假
+13917,ダミー,假
+13918,ダミー,假
+13919,ダミー,假
+13920,ダミー,假
+13921,ダミー,假
+13922,ダミー,假
+13923,ダミー,假
+13924,ダミー,假
+13925,ダミー,假
+13926,ダミー,假
+13927,ダミー,假
+13928,ダミー,假
+13929,ダミー,假
+13930,ダミー,假
+13931,ダミー,假
+13932,ダミー,假
+13933,ダミー,假
+13934,ダミー,假
+13935,ダミー,假
+13936,ダミー,假
+13937,ダミー,假
+13938,ダミー,假
+13939,ダミー,假
+13940,ダミー,假
+13941,ダミー,假
+13942,ダミー,假
+13943,ダミー,假
+13944,ダミー,假
+13945,ダミー,假
+13946,ダミー,假
+13947,ダミー,假
+13948,ダミー,假
+13949,ダミー,假
+13950,ダミー,假
+13951,ダミー,假
+13952,ダミー,假
+13953,ダミー,假
+13954,ダミー,假
+13955,ダミー,假
+13956,ダミー,假
+13957,ダミー,假
+13958,ダミー,假
+13959,ダミー,假
+13960,ダミー,假
+13961,ダミー,假
+13962,ダミー,假
+13963,ダミー,假
+13964,ダミー,假
+13965,ダミー,假
+13966,ダミー,假
+13967,ダミー,假
+13968,ダミー,假
+13969,ダミー,假
+13970,ダミー,假
+13971,ダミー,假
+13972,ダミー,假
+13973,ダミー,假
+13974,ダミー,假
+13975,ダミー,假
+13976,ダミー,假
+13977,ダミー,假
+13978,ダミー,假
+13979,ダミー,假
+13980,ダミー,假
+13981,ダミー,假
+13982,ダミー,假
+13983,ダミー,假
+13984,ダミー,假
+13985,ダミー,假
+13986,ダミー,假
+13987,ダミー,假
+13988,ダミー,假
+13989,ダミー,假
+13990,ダミー,假
+13991,ダミー,假
+13992,ダミー,假
+13993,ダミー,假
+13994,ダミー,假
+13995,ダミー,假
+13996,ダミー,假
+13997,ダミー,假
+13998,ダミー,假
+13999,ダミー,假
+14000,ダミー,假
 14001,Black Baron Ⅳ,黑男爵Ⅳ
 14002,B236・スコタディバロン,B236・斯烏克歐特阿德伊
-14003,ダミー,(dummy)
+14003,ダミー,假
 14004,Zuse Baron Ⅰ,祖瑟男爵Ⅰ
 14005,Zuse Baron Ⅱ,祖瑟男爵Ⅱ
 14006,Zuse Baron Ⅲ,祖瑟男爵Ⅲ
 14007,Zuse Baron Ⅳ,祖瑟男爵Ⅳ
 14008,B836・ザハラバロン,B836・茲阿哈阿爾阿布阿
-14009,ダミー,(dummy)
+14009,ダミー,假
 14010,Rose Baron Ⅰ,薔男爵Ⅰ
 14011,Rose Baron Ⅱ,薔男爵Ⅱ
 14012,Rose Baron Ⅲ,薔男爵Ⅲ
 14013,Rose Baron Ⅳ,薔男爵Ⅳ
 14014,Madonna Baron,姆阿德歐恩恩阿男爵
-14015,ダミー,(dummy)
+14015,ダミー,假
 14016,Red Baron Ⅰ,赤男爵Ⅰ
 14017,Red Baron Ⅱ,赤男爵Ⅱ
 14018,Red Baron Ⅲ,赤男爵Ⅲ
 14019,Red Baron Ⅳ,赤男爵Ⅳ
 14020,Foshin Baron,夫歐斯哈伊恩男爵
-14021,ダミー,(dummy)
+14021,ダミー,假
 14022,C636・アクダルバロンⅠ,C636・阿克烏德阿爾烏布
 14023,C736・アクダルバロンⅡ,C736・阿克烏德阿爾烏布
 14024,C836・アクダルバロンⅢ,C836・阿克烏德阿爾烏布
 14025,C936・アクダルバロンⅣ,C936・阿克烏德阿爾烏布
 14026,CA36・コリナバロン,CA36・克歐爾伊恩阿布阿
-14027,ダミー,(dummy)
+14027,ダミー,假
 14028,Ice Baron Ⅰ,冰男爵Ⅰ
 14029,Ice Baron Ⅱ,冰男爵Ⅱ
 14030,Ice Baron Ⅲ,冰男爵Ⅲ
 14031,Ice Baron Ⅳ,冰男爵Ⅳ
 14032,Lago Baron,拉戈男爵
-14033,ダミー,(dummy)
-14034,Parone Sword Ⅰ,波羅涅劍Ⅰ
-14035,Parone Sword Ⅱ,波羅涅劍Ⅱ
-14036,Parone Sword Ⅲ,波羅涅劍Ⅲ
+14033,ダミー,假
+14034,Parone Sword Ⅰ,帕隆劍Ⅰ
+14035,Parone Sword Ⅱ,帕隆劍Ⅱ
+14036,Parone Sword Ⅲ,帕隆劍Ⅲ
 14037,Parone Epee,波羅涅艾佩艾
 14038,Parone Duals Ⅰ,波羅涅龍鎧沸Ⅰ
 14039,Parone Duals Ⅱ,波羅涅龍鎧沸Ⅱ
 14040,Parone Duals Ⅲ,波羅涅龍鎧沸Ⅲ
 14041,Parone Daggers,波羅涅德阿格格艾爾斯
-14042,Parone Blade Ⅰ,波羅涅刃Ⅰ
-14043,Parone Blade Ⅱ,波羅涅刃Ⅱ
-14044,Parone Blade Ⅲ,波羅涅刃Ⅲ
-14045,Parone Greatsword,大劍波羅涅
-14046,Parone Katana Ⅰ,波羅涅刀Ⅰ
-14047,Parone Katana Ⅱ,波羅涅刀Ⅱ
-14048,Parone Katana Ⅲ,波羅涅刀Ⅲ
+14042,Parone Blade Ⅰ,帕隆刃Ⅰ
+14043,Parone Blade Ⅱ,帕隆刃Ⅱ
+14044,Parone Blade Ⅲ,帕隆刃Ⅲ
+14045,Parone Greatsword,帕隆大劍
+14046,Parone Katana Ⅰ,帕隆刀Ⅰ
+14047,Parone Katana Ⅱ,帕隆刀Ⅱ
+14048,Parone Katana Ⅲ,帕隆刀Ⅲ
 14049,Parone Uchigatana,波羅涅烏奇伊加塔娜
-14050,Parone Hammer Ⅰ,大錘波羅涅Ⅰ
-14051,Parone Hammer Ⅱ,大錘波羅涅Ⅱ
-14052,Parone Hammer Ⅲ,大錘波羅涅Ⅲ
-14053,Parone Mallet,波羅涅鎚
+14050,Parone Hammer Ⅰ,帕隆大錘Ⅰ
+14051,Parone Hammer Ⅱ,帕隆大錘Ⅱ
+14052,Parone Hammer Ⅲ,帕隆大錘Ⅲ
+14053,Parone Mallet,帕隆鎚
 14054,Parone Pipe Ⅰ,波羅涅管Ⅰ
 14055,Parone Pipe Ⅱ,波羅涅管Ⅱ
 14056,Parone Pipe Ⅲ,波羅涅管Ⅲ
 14057,Parone Whistle,波羅涅笛
-14058,Parone Lance Ⅰ,長槍波羅涅Ⅰ
-14059,Parone Lance Ⅱ,長槍波羅涅Ⅱ
-14060,Parone Lance Ⅲ,長槍波羅涅Ⅲ
-14061,Parone Spear,波羅涅矛
+14058,Parone Lance Ⅰ,帕隆長槍Ⅰ
+14059,Parone Lance Ⅱ,帕隆長槍Ⅱ
+14060,Parone Lance Ⅲ,帕隆長槍Ⅲ
+14061,Parone Spear,帕隆槍
 14062,Parone Gun Spear Ⅰ,波羅涅銃矛Ⅰ
 14063,Parone Gun Spear Ⅱ,波羅涅銃矛Ⅱ
 14064,Parone Gun Spear Ⅲ,波羅涅銃矛Ⅲ
-14065,Parone Gunlance,銃槍波羅涅
-14066,Parone Tonfa,穿龍棍波羅涅
+14065,Parone Gunlance,帕隆銃槍
+14066,Parone Tonfa,帕隆穿龍棍
 14067,F336・ガウニャメリー,F336・格阿烏恩伊阿姆艾
 14068,F436・ガウニャメリック,F436・格阿烏恩伊阿姆艾
 14069,F536・ガウニャメリックス,F536・格阿烏恩伊阿姆艾
@@ -14199,7 +14199,7 @@ index,source,target
 14197,"Shesha Blast ""Shine""",爆破舍沙光輝
 14198,"Shesha Blast ""Glory""",爆破舍沙栄光
 14199,"Shesha Blast ""Clear""",爆破舍沙透
-14200,Ophion Tonfa,俄菲翁穿刺棍
+14200,Ophion Tonfa,俄菲翁穿龍棍
 14201,"Shesha Tonfa ""Flash""",舍沙穿刺棍閃光
 14202,"Shesha Tonfa ""Shine""",舍沙穿刺棍光輝
 14203,"Shesha Tonfa ""Glory""",舍沙穿刺棍栄光
@@ -14282,9 +14282,9 @@ index,source,target
 14280,C837・オルガアルクス,C837・歐魯加阿魯庫蘇
 14281,Morte Assassin,姆歐爾特艾刺客
 14282,Demon's Chaos,惡魔S混沌
-14283,"Ophion Tonfa ""Flash""",俄菲翁穿刺棍閃光
-14284,"Ophion Tonfa ""Shine""",俄菲翁穿刺棍光輝
-14285,"Ophion Tonfa ""Glory""",俄菲翁穿刺棍栄光
+14283,"Ophion Tonfa ""Flash""",俄菲翁穿龍棍閃光
+14284,"Ophion Tonfa ""Shine""",俄菲翁穿龍棍光輝
+14285,"Ophion Tonfa ""Glory""",俄菲翁穿龍棍栄光
 14286,War Dragon's Cone,龍戦S錐
 14287,CF37・私の恐怖大剣・起,CF37・私之恐怖大剣・起
 14288,D037・私の恐怖大剣・承,D037・私之恐怖大剣・承
@@ -14296,9 +14296,9 @@ index,source,target
 14294,"Crimsonedge ""Flame""",克爾伊姆斯歐恩艾焔
 14295,"Crimsonedge ""Pyre""",克爾伊姆斯歐恩艾
 14296,"Crimsonedge ""Inferno""",克爾伊姆斯歐恩艾煉獄
-14297,ダミー,(dummy)
-14298,ダミー,(dummy)
-14299,ダミー,(dummy)
+14297,ダミー,假
+14298,ダミー,假
+14299,ダミー,假
 14300,DC37・至極冥雷刀【人来鳥】,DC37・至極冥雷刀【人来鳥】
 14301,DD37・至極冥雷剣【雷鶏】,DD37・至極冥雷剣【雷鶏】
 14302,DE37・至極冥雷大剣【春鳥】,DE37・至極冥雷大剣【春鳥】
@@ -14370,7 +14370,7 @@ index,source,target
 14368,Daora's Genesis,龍S創世
 14369,Daora's Welt,崩龍瓦艾勒特
 14370,Clairison Daora,崩龍克勒阿伊爾伊斯歐
-14371,ダミー,(dummy)
+14371,ダミー,假
 14372,Kut-Ku Cockerel,庫庫克歐克克艾爾艾勒
 14373,2538・クックツヴァル,2538・特斯烏維阿爾烏
 14374,Coocoo Monstros,科歐科歐姆歐恩斯特爾歐斯
@@ -14428,10 +14428,10 @@ index,source,target
 14426,Giga Galefrost,超巨格阿勒艾夫爾歐斯
 14427,Motor Burst,馬達爆
 14428,Gigant Burst,ＧIＧNTＢＵＲST
-14429,ダミー,(dummy)
+14429,ダミー,假
 14430,Prototype Switch-Axe,試作斬撃斧斧
-14431,ダミー,(dummy)
-14432,ダミー,(dummy)
+14431,ダミー,假
+14432,ダミー,假
 14433,Steel Crushing Axe,鋼証明球斧
 14434,Phantom Haze Axe,幻影恩流浪斧
 14435,Intense Flame Axe,伊恩特艾恩斯艾焔斧
@@ -14505,10 +14505,10 @@ index,source,target
 14503,A738・限定ジャン剣Ⅳ,A738・限定杰阿恩剣
 14504,A838・限定ジャン剣Ⅴ,A838・限定杰阿恩剣
 14505,A938・限定ジャン剣Ⅵ,A938・限定杰阿恩剣
-14506,ダミー,(dummy)
-14507,ダミー,(dummy)
-14508,ダミー,(dummy)
-14509,ダミー,(dummy)
+14506,ダミー,假
+14507,ダミー,假
+14508,ダミー,假
+14509,ダミー,假
 14510,Lillie,勒伊勒勒伊艾
 14511,Lillie Grace,勒伊勒勒伊艾恩寵
 14512,Margaris Ⅰ,姆阿爾格阿爾伊斯Ⅰ
@@ -14525,24 +14525,24 @@ index,source,target
 14523,Cheryl Blossom,克哈艾爾伊勒布勒歐斯斯歐姆
 14524,Rose,薔薇
 14525,Rose Partfait,薔普阿爾特夫阿伊特
-14526,ダミー,(dummy)
-14527,ダミー,(dummy)
-14528,ダミー,(dummy)
-14529,ダミー,(dummy)
-14530,ダミー,(dummy)
-14531,ダミー,(dummy)
-14532,ダミー,(dummy)
-14533,ダミー,(dummy)
-14534,ダミー,(dummy)
-14535,ダミー,(dummy)
-14536,ダミー,(dummy)
-14537,ダミー,(dummy)
-14538,ダミー,(dummy)
-14539,ダミー,(dummy)
-14540,ダミー,(dummy)
-14541,ダミー,(dummy)
-14542,ダミー,(dummy)
-14543,ダミー,(dummy)
+14526,ダミー,假
+14527,ダミー,假
+14528,ダミー,假
+14529,ダミー,假
+14530,ダミー,假
+14531,ダミー,假
+14532,ダミー,假
+14533,ダミー,假
+14534,ダミー,假
+14535,ダミー,假
+14536,ダミー,假
+14537,ダミー,假
+14538,ダミー,假
+14539,ダミー,假
+14540,ダミー,假
+14541,ダミー,假
+14542,ダミー,假
+14543,ダミー,假
 14544,Candle Edge,燭刃
 14545,Candle Dream,燭夢
 14546,Candle Ideal,燭伊德艾阿勒
@@ -14550,8 +14550,8 @@ index,source,target
 14548,D438・華火槍,D438・華火槍
 14549,D538・華火槍【寸玉】,D538・華火槍【寸玉】
 14550,D638・華火槍【尺玉】,D638・華火槍【尺玉】
-14551,ダミー,(dummy)
-14552,ダミー,(dummy)
+14551,ダミー,假
+14552,ダミー,假
 14553,D938・ルレードホォン,D938・爾烏爾艾德歐哈歐
 14554,DA38・ルレードグアン,DA38・爾烏爾艾德歐格烏
 14555,DB38・シャロンホワフア,DB38・斯哈阿爾歐恩哈歐
@@ -14573,8 +14573,8 @@ index,source,target
 14571,EB38・シャロンゴンジ,EB38・斯哈阿爾歐恩格歐
 14572,EC38・ルヴァントゥポ,EC38・爾烏維阿恩特烏普
 14573,ED38・ルヴァンジペイ,ED38・爾烏維阿恩杰伊普
-14574,ダミー,(dummy)
-14575,ダミー,(dummy)
+14574,ダミー,假
+14575,ダミー,假
 14576,F038・ランツェブルノⅠ,F038・爾阿恩特斯烏艾恩
 14577,F138・ランツェブルノⅡ,F138・爾阿恩特斯烏艾恩
 14578,F238・ランツェブルノⅢ,F238・爾阿恩特斯烏艾恩
@@ -14627,7 +14627,7 @@ index,source,target
 14625,2139・改トラグ・フェーン,2139・改托拉古・夫艾恩
 14626,2239・改トラグ・ローク,2239・改托拉古・羅庫
 14627,2339・改トラグ・イザーム,2339・改托拉古・伊扎穆
-14628,ダミー,(dummy)
+14628,ダミー,假
 14629,Emperor Blade,皇帝刃
 14630,Teostra's Krone,炎王龍克爾歐恩艾
 14631,Teostra's Explosion,炎王龍艾克斯普勒歐斯伊
@@ -14726,14 +14726,14 @@ index,source,target
 14724,Glint Berserk Frostpike,閃狂霜尖槍
 14725,8539・軽量型剣斧ライツ,8539・軽量型剣斧爾阿伊特斯烏
 14726,8639・軽量型剣斧ライツ改,8639・軽量型剣斧爾阿伊特斯烏改
-14727,ダミー,(dummy)
-14728,ダミー,(dummy)
-14729,Caravan Axe I,旅團斧I
-14730,Caravan Axe II,旅團斧Ⅱ
-14731,ダミー,(dummy)
-14732,ダミー,(dummy)
-14733,ダミー,(dummy)
-14734,ダミー,(dummy)
+14727,ダミー,假
+14728,ダミー,假
+14729,Caravan Axe I,旅團斧Ⅰ
+14730,Caravan Axe II,旅團斧ⅠⅠ
+14731,ダミー,假
+14732,ダミー,假
+14733,ダミー,假
+14734,ダミー,假
 14735,Volja Irapto,沃爾加伊爾阿普特歐
 14736,Volja Elupe,沃爾加艾魯佩
 14737,Volja Aos,沃爾加阿歐斯
@@ -14834,14 +14834,14 @@ index,source,target
 14832,F039・炎角始槍【真覇王樹】,F039・炎角始槍【真覇王樹】
 14833,1st Felyne Challenger,第一艾露挑戰
 14834,2nd Felyne Challenger,第二艾露挑戰
-14835,ダミー,(dummy)
+14835,ダミー,假
 14836,3rd Felyne Challenger,第三艾露挑戰
 14837,4th Felyne Challenger,四艾露挑戰
 14838,5th Felyne Challenger,五週年艾露克哈阿勒勒艾恩格
 14839,True Felyne Challenger,真艾露挑戰
 14840,1st Melynx Challenger,第一奇猫挑戰
 14841,2nd Melynx Challenger,第二奇猫挑戰
-14842,ダミー,(dummy)
+14842,ダミー,假
 14843,3rd Melynx Challenger,第三奇猫挑戰
 14844,4th Melynx Challenger,四奇猫挑戰
 14845,5th Melynx Challenger,五週年奇猫克哈阿勒勒艾恩格
@@ -14966,31 +14966,31 @@ index,source,target
 14964,Rubino Ende Ⅱ,紅玉艾恩德艾Ⅱ
 14965,Steel Ende Ⅰ,鋼艾恩德艾Ⅰ
 14966,Steel Ende Ⅱ,鋼艾恩德艾Ⅱ
-14967,Parone Axe,波羅涅斧
-14968,ダミー,(dummy)
-14969,ダミー,(dummy)
+14967,Parone Axe,帕隆斧
+14968,ダミー,假
+14969,ダミー,假
 14970,Levanjanf,勒艾維阿恩杰阿恩
-14971,ダミー,(dummy)
-14972,ダミー,(dummy)
-14973,ダミー,(dummy)
-14974,ダミー,(dummy)
-14975,ダミー,(dummy)
-14976,ダミー,(dummy)
-14977,ダミー,(dummy)
-14978,ダミー,(dummy)
-14979,ダミー,(dummy)
-14980,ダミー,(dummy)
-14981,ダミー,(dummy)
-14982,ダミー,(dummy)
-14983,ダミー,(dummy)
-14984,ダミー,(dummy)
-14985,ダミー,(dummy)
-14986,ダミー,(dummy)
-14987,ダミー,(dummy)
-14988,ダミー,(dummy)
-14989,ダミー,(dummy)
-14990,ダミー,(dummy)
-14991,ダミー,(dummy)
+14971,ダミー,假
+14972,ダミー,假
+14973,ダミー,假
+14974,ダミー,假
+14975,ダミー,假
+14976,ダミー,假
+14977,ダミー,假
+14978,ダミー,假
+14979,ダミー,假
+14980,ダミー,假
+14981,ダミー,假
+14982,ダミー,假
+14983,ダミー,假
+14984,ダミー,假
+14985,ダミー,假
+14986,ダミー,假
+14987,ダミー,假
+14988,ダミー,假
+14989,ダミー,假
+14990,ダミー,假
+14991,ダミー,假
 14992,Low Grati,低格阿提
 14993,Pure Grati,PＵＲ老ＧＲTI
 14994,Magi Grati,MＧⅠＧＲTⅠ
@@ -15001,20 +15001,20 @@ index,source,target
 14999,Magnetic Field Hammer,大錘磁気畑
 15000,Magnetic Field Tonfa,穿龍棍磁気畑
 15001,Chachabu Airou,奇阿奇阿布阿伊羅烏
-15002,ダミー,(dummy)
+15002,ダミー,假
 15003,"Beta Knife ""2016""",β刀２０１６
 15004,Schwan,斯克哈瓦阿恩
-15005,ダミー,(dummy)
+15005,ダミー,假
 15006,Song Spinning Axe,歌斯普伊恩恩伊恩格斧
 15007,"Wailaxe ""Soundbloom""",瓦伊拉克斯艾斯歐烏恩德布勒歐
 15008,"Wailaxe ""Lightbloom""",瓦伊拉克斯艾勒伊格哈特布勒歐
 15009,"Wailaxe ""Icebloom""",瓦伊拉克斯艾伊克艾布勒歐歐姆
 15010,Ruler's Descent,爾烏勒艾爾德艾斯克艾恩特
-15011,ダミー,(dummy)
+15011,ダミー,假
 15012,Pezzeno,佩茲澤諾
 15013,Kridal-Aura,克爾伊德阿勒気
-15014,ダミー,(dummy)
-15015,ダミー,(dummy)
+15014,ダミー,假
+15015,ダミー,假
 15016,"Moonlight ""New Moon""",月光新月
 15017,"Moonlight ""Crescent""",月光
 15018,"Moonlight ""Full Moon""",月光滿月
@@ -15082,9 +15082,9 @@ index,source,target
 15080,E83A・ヴォーラアックス,E83A・沃拉阿阿庫蘇
 15081,Dainsleif,德阿伊恩斯勒艾伊
 15082,Cursed Sword Dainsleif,咒劍德阿伊恩斯勒艾伊
-15083,ダミー,(dummy)
+15083,ダミー,假
 15084,"Flaming Axe ""Crush""",炎斧破碎
-15085,"Lightning Axe ""Ruler""",雷斧支配
+15085,"Lightning Axe ""Ruler""",雷光斧Ruler
 15086,"Paralyzing Axe ""Special""",普阿爾阿勒伊茲伊斧特
 15087,"Freezing Axe ""Faint""",冰斧夫阿伊恩特
 15088,"Dragon Axe ""Servant""",龍斧斯艾爾維阿恩特
@@ -15189,33 +15189,33 @@ index,source,target
 15187,Caress Charsword,克阿爾艾斯斯克哈阿爾斯瓦歐爾
 15188,Caress Fierce Charsword,克阿爾艾斯斯猛克哈阿爾斯瓦歐爾
 15189,Caress Savage Charsword,克阿爾艾斯斯螺鈿終克哈阿爾斯瓦歐爾
-15190,ダミー,(dummy)
-15191,ダミー,(dummy)
+15190,ダミー,假
+15191,ダミー,假
 15192,Lustre Charpair,魯斯雷克哈阿爾普阿伊爾
 15193,Lustre Fierce Charpair,魯斯雷猛克哈阿爾普阿伊爾
 15194,Lustre Savage Charpair,魯斯雷螺鈿終克哈阿爾普阿伊爾
-15195,ダミー,(dummy)
-15196,ダミー,(dummy)
+15195,ダミー,假
+15196,ダミー,假
 15197,Crush Flameblade,破碎炎刃
 15198,Crush Fierce Flameblade,破碎猛炎刃
 15199,Crush Savage Flameblade,破碎螺鈿終炎刃
-15200,ダミー,(dummy)
-15201,ダミー,(dummy)
+15200,ダミー,假
+15201,ダミー,假
 15202,Flight Heatedge,夫勒伊格哈特哈艾阿特艾德格艾
 15203,Flight Fierce Heatedge,夫勒伊格哈特猛哈艾阿特艾德格艾
 15204,Flight Violent Heatedge,夫勒伊格哈特凶暴哈艾阿特艾德格艾
-15205,ダミー,(dummy)
-15206,ダミー,(dummy)
+15205,ダミー,假
+15206,ダミー,假
 15207,Blaze Heatmaul,炎熱鎚
 15208,Blaze Fierce Heatmaul,炎猛熱鎚
 15209,Blaze Violent Heatmaul,炎凶暴熱鎚
-15210,ダミー,(dummy)
-15211,ダミー,(dummy)
+15210,ダミー,假
+15211,ダミー,假
 15212,Depth Flamepike,深焔尖槍
 15213,Depth Fierce Flamepike,深猛焔尖槍
 15214,Depth Violent Flamepike,深凶暴焔尖槍
-15215,ダミー,(dummy)
-15216,ダミー,(dummy)
+15215,ダミー,假
+15216,ダミー,假
 15217,Francisca,FＲNＣⅠSＣ
 15218,Battle Axe Francisca,戦斧FＲNＣⅠSＣ
 15219,Mavlov,姆阿維勒歐維
@@ -15274,11 +15274,11 @@ index,source,target
 15272,"Beta Knife ""Light"" Ⅳ",β刀輕Ⅳ
 15273,"Beta Knife ""Light"" Ⅴ",β刀輕Ⅴ
 15274,"Ex Beta ""Bright""",ＥＸβ輝
-15275,ダミー,(dummy)
-15276,ダミー,(dummy)
-15277,ダミー,(dummy)
-15278,ダミー,(dummy)
-15279,ダミー,(dummy)
+15275,ダミー,假
+15276,ダミー,假
+15277,ダミー,假
+15278,ダミー,假
+15279,ダミー,假
 15280,Jager-Ankh,JＧ老ＲNｋH
 15281,Sucher-Ankh,SＵＣH老ＲNｋH
 15282,Sieger-Ankh,SI老Ｇ老ＲNｋH
@@ -15404,8 +15404,8 @@ index,source,target
 15402,Vola Lancia+,沃拉槍＋
 15403,True Vola Lancia,真沃拉槍
 15404,Alvola Lancia,阿勒維歐勒阿槍
-15405,Vola Tonfa,沃拉穿刺棍
-15406,Vola Tonfa+,沃拉穿刺棍＋
+15405,Vola Tonfa,沃拉穿龍棍
+15406,Vola Tonfa+,沃拉穿龍棍＋
 15407,True Vola Tonfa,真沃拉穿刺棍
 15408,Alvora Tonfa,穿龍棍阿勒維歐爾阿
 15409,Angeles,阿恩格艾勒艾斯
@@ -15440,8 +15440,8 @@ index,source,target
 15438,Torag・Canso+,特歐爾阿格克阿恩斯歐＋
 15439,Serisui・Canso,瑟里蘇伊克阿恩斯歐
 15440,Serisui・Canso+,瑟里蘇伊克阿恩斯歐＋
-15441,ダミー,(dummy)
-15442,ダミー,(dummy)
+15441,ダミー,假
+15442,ダミー,假
 15443,Blazing Peak Blade,熾峰刃
 15444,Blazing Peak Mallet,熾峰鎚
 15445,Blazing Peak Lance,熾峰槍
@@ -15556,10 +15556,10 @@ index,source,target
 15554,Virtuous Contract IV,維伊爾特烏歐烏斯克歐恩特爾阿克特Ⅳ
 15555,Virtuous Contract V,維伊爾特烏歐烏斯克歐恩特爾阿克特Ⅴ
 15556,Virtuous Contract VI,維伊爾特烏歐烏斯克歐恩特爾阿克特Ⅵ
-15557,ダミー,(dummy)
-15558,ダミー,(dummy)
-15559,ダミー,(dummy)
-15560,ダミー,(dummy)
+15557,ダミー,假
+15558,ダミー,假
+15559,ダミー,假
+15560,ダミー,假
 15561,White Sorrow Ⅰ,白研磨尾Ⅰ
 15562,White Sorrow Ⅱ,白研磨尾Ⅱ
 15563,Le Detecteur,德艾特艾克特艾烏
@@ -15648,10 +15648,10 @@ index,source,target
 15646,Poboru Plush Ⅳ,保波絨Ⅳ
 15647,Poboru Plush Ⅴ,保波絨Ⅴ
 15648,Poboru Plush Ⅵ,保波絨Ⅵ
-15649,ダミー,(dummy)
+15649,ダミー,假
 15650,Paria Plush Ⅰ,呑龍絨Ⅰ
 15651,Paria Plush Ⅱ,呑龍絨Ⅱ
-15652,ダミー,(dummy)
+15652,ダミー,假
 15653,Gogomoa Plush I,跳緋獸絨Ⅰ
 15654,Gogomoa Plush II,跳緋獸絨Ⅱ
 15655,Khezu Baby,奇怪龍幼
@@ -15902,7 +15902,7 @@ index,source,target
 15900,Girino Accent,吉里諾阿克克艾恩特
 15901,Tonalita Accent,托娜利塔阿克克艾恩特
 15902,Emperor of Summer,皇帝夏
-15903,ダミー,(dummy)
+15903,ダミー,假
 15904,Ex Magnetic Field Blade,ＥＸ磁気畑刃
 15905,Ex Magnetic Field Hammer,大錘ＥＸ磁気畑
 15906,Ex Magnetic Field Lance,ＥＸ磁気畑槍
@@ -15986,21 +15986,21 @@ index,source,target
 15984,Ruberguardian+,ＲＵＢ老ＲＧＵＲＤIN＋
 15985,True Ruberguardian,真ＲＵＢ老ＲＧＵＲＤIN
 15986,Terra Ruberguardian,T老ＲＲＲＵＢ老ＲＧＵＲＤIN
-15987,ダミー,(dummy)
-15988,ダミー,(dummy)
-15989,ダミー,(dummy)
-15990,ダミー,(dummy)
-15991,ダミー,(dummy)
-15992,783E・使用禁止,783E・使用禁止
-15993,783E・使用禁止,783E・使用禁止
-15994,783E・使用禁止,783E・使用禁止
-15995,783E・使用禁止,783E・使用禁止
-15996,783E・使用禁止,783E・使用禁止
-15997,783E・使用禁止,783E・使用禁止
-15998,783E・使用禁止,783E・使用禁止
-15999,783E・使用禁止,783E・使用禁止
-16000,783E・使用禁止,783E・使用禁止
-16001,783E・使用禁止,783E・使用禁止
+15987,ダミー,假
+15988,ダミー,假
+15989,ダミー,假
+15990,ダミー,假
+15991,ダミー,假
+15992,783E・使用禁止,783E使用禁止
+15993,783E・使用禁止,783E使用禁止
+15994,783E・使用禁止,783E使用禁止
+15995,783E・使用禁止,783E使用禁止
+15996,783E・使用禁止,783E使用禁止
+15997,783E・使用禁止,783E使用禁止
+15998,783E・使用禁止,783E使用禁止
+15999,783E・使用禁止,783E使用禁止
+16000,783E・使用禁止,783E使用禁止
+16001,783E・使用禁止,783E使用禁止
 16002,"Proof of Hero ""Ｚ""",證迪拉瓦
 16003,Ex Aurora G-TUNE Radius,ＥＸ極光Ｇ圖涅終極征
 16004,Mammoth Frost,巨象霜
@@ -16052,10 +16052,10 @@ index,source,target
 16050,Blck Divergence Sword Ⅶ,黑德伊維艾爾格艾恩劍Ⅶ
 16051,Nameless Dagger Ⅶ,無名短劍Ⅶ
 16052,Black Nameless Dagger Ⅶ,黑無名短劍Ⅶ
-16053,Azoth Sword Ⅶ,阿佐特劍Ⅶ
+16053,Azoth Sword Ⅶ,阿佐斯劍Ⅶ
 16054,Blue Azoth Sword Ⅶ,青阿佐特劍Ⅶ
-16055,Gae Bolg Ⅶ,怪轟龍鍵盤歌Ⅶ
-16056,"Gae Bolg ""Black"" Ⅶ",怪轟龍鍵盤歌黒Ⅶ
+16055,Gae Bolg Ⅶ,迦耶波格Ⅶ
+16056,"Gae Bolg ""Black"" Ⅶ",迦耶波格黑Ⅶ
 16057,Manzana Orar,姆阿恩茲阿恩阿歐爾阿爾
 16058,Lorelei Richt,納桃毛爾伊克哈特
 16059,Brutalizer,布爾烏特阿勒伊茲
@@ -16130,30 +16130,30 @@ index,source,target
 16128,"Musical Lance ""Prelude""",長槍牙血鐵普艾魯德
 16129,"Musical Lance ""Chorus""",長槍牙血鐵合唱
 16130,"Musical Lance ""Encore""",長槍牙血鐵安可
-16131,Renka Sword,連歌劍
-16132,"Renka Sword ""Pine""",連歌劍松
-16133,"Renka Sword ""Pinus""",連歌劍普伊恩烏斯
-16134,"Renka Sword ""Butterfly""",連歌劍蝶
-16135,Renka Edge,連歌刃
-16136,"Renka Edge ""Sakura""",連歌刃桜
-16137,"Renka Edge ""Prunus""",連歌刃
-16138,"Renka Edge ""Polarize""",連歌刃
+16131,Renka Sword,蓮華劍
+16132,"Renka Sword ""Pine""",蓮華劍Pine
+16133,"Renka Sword ""Pinus""",蓮華劍Pinus
+16134,"Renka Sword ""Butterfly""",蓮華劍Butterfly
+16135,Renka Edge,蓮華刃
+16136,"Renka Edge ""Sakura""",蓮華刃Sakura
+16137,"Renka Edge ""Prunus""",蓮華刃Prunus
+16138,"Renka Edge ""Polarize""",蓮華刃Polarize
 16139,Renka Flute,連歌笛
 16140,"Renka Flute ""Wisteria""",連歌笛
 16141,"Renka Flute ""Floribunda""",連歌笛
 16142,"Renka Flute ""Bell Light""",連歌笛鈴光
-16143,Renka Spear,連歌槍
-16144,"Renka Spear ""Iris""",連歌槍姆努波
-16145,"Renka Spear ""Calamus""",連歌槍克阿勒阿姆烏斯
-16146,"Renka Spear ""Lightdrain""",連歌槍勒伊格哈特德爾阿
-16147,Renka Tonfa,連歌穿刺棍
-16148,"Renka Tonfa ""Peony""",穿龍棍連歌普艾歐恩伊
+16143,Renka Spear,蓮華槍
+16144,"Renka Spear ""Iris""",蓮華槍Iris
+16145,"Renka Spear ""Calamus""",蓮華槍Calamus
+16146,"Renka Spear ""Lightdrain""",蓮華槍Lightdrain
+16147,Renka Tonfa,蓮華穿龍棍
+16148,"Renka Tonfa ""Peony""",蓮華穿龍棍Peony
 16149,"Renk Tonfa ""Paeonia""",連克穿龍棍「牡丹」
-16150,"Renka Tonfa ""Gemlight""",穿龍棍連歌格艾姆勒伊格哈特
-16151,Renka Axe,連歌斧
-16152,"Renka Axe ""Clover""",連歌斧克勒歐維艾爾
-16153,"Renka Axe ""Lespedeza""",連歌斧勒艾斯普艾德艾茲
-16154,"Renka Axe ""Halo""",連歌斧哈洛
+16150,"Renka Tonfa ""Gemlight""",蓮華穿龍棍Gemlight
+16151,Renka Axe,蓮華斧
+16152,"Renka Axe ""Clover""",蓮華斧Clover
+16153,"Renka Axe ""Lespedeza""",蓮華斧Lespedeza
+16154,"Renka Axe ""Halo""",蓮華斧Halo
 16155,Ravina Epee,ＲＶIN老P老老
 16156,Ravina Epee+,ＲＶIN老P老老＋
 16157,True Ravina Epee,TＲＵ老ＲＶIN老P老老
@@ -16276,14 +16276,14 @@ index,source,target
 16274,"Renka Twins ""Maple""",連歌雙子楓
 16275,"Renka Twins ""Japonicum""",連歌雙子
 16276,"Renka Twins""White Light""",連歌雙子白光
-16277,Renka Blade,連歌刃
-16278,"Renka Blade ""Willow""",連歌刃柳
-16279,"Renka Blade ""Salix""",連歌刃薩利克斯
-16280,"Renka Blade ""Refraction""",連歌刃爾艾夫爾阿克特伊
-16281,Renka Hammer,大錘連歌
-16282,"Renka Hammer ""Paulownia""",大錘連歌普阿烏勒歐瓦恩伊
-16283,"Renka Hammer ""Foxglove""",大錘連歌佛克斯格歐維
-16284,"Renka Hammer ""Echo""",大錘連歌回聲
+16277,Renka Blade,蓮華刃
+16278,"Renka Blade ""Willow""",蓮華刃Willow
+16279,"Renka Blade ""Salix""",蓮華刃Salix
+16280,"Renka Blade ""Refraction""",蓮華刃Refraction
+16281,Renka Hammer,蓮華大錘
+16282,"Renka Hammer ""Paulownia""",蓮華大錘Paulownia
+16283,"Renka Hammer ""Foxglove""",蓮華大錘Foxglove
+16284,"Renka Hammer ""Echo""",蓮華大錘Echo
 16285,Renka Shot,連歌弾
 16286,"Renka Shot ""Narcissus""",連歌弾水仙
 16287,"Renka Shot ""Poeticus""",連歌彈
@@ -16314,8 +16314,8 @@ index,source,target
 16312,"Recital Cannon ""Prelude""",獨奏砲普艾魯德
 16313,"Recital Cannon ""Chorus""",獨奏砲合唱
 16314,"Recital Cannon ""Encore""",獨奏砲安可
-16315,ダミー,(dummy)
-16316,ダミー,(dummy)
+16315,ダミー,假
+16316,ダミー,假
 16317,"Recital Axe ""Solo""",獨奏斧索洛
 16318,"Rage Blade ""Heated""",怒刃哈艾阿特艾德
 16319,"Rage Blade ""Fevered""",怒刃夫艾維艾爾艾德
@@ -16365,30 +16365,30 @@ index,source,target
 16363,Kusanagi-no-Tsurugi,庫薩娜吉之特斯烏爾烏格伊
 16364,Rare Kusanagi-no-Tsurugi,稀庫薩娜吉之特斯烏爾烏格伊
 16365,True Kusanagi-no-Tsurugi,真庫薩娜吉之特斯烏爾烏格伊
-16366,ダミー,(dummy)
-16367,ダミー,(dummy)
-16368,ダミー,(dummy)
-16369,ダミー,(dummy)
-16370,ダミー,(dummy)
+16366,ダミー,假
+16367,ダミー,假
+16368,ダミー,假
+16369,ダミー,假
+16370,ダミー,假
 16371,Elzeacta,艾勒茲艾阿克特阿
 16372,Elzegwen,艾勒茲艾格瓦艾恩
-16373,ダミー,(dummy)
-16374,ダミー,(dummy)
-16375,ダミー,(dummy)
-16376,ダミー,(dummy)
+16373,ダミー,假
+16374,ダミー,假
+16375,ダミー,假
+16376,ダミー,假
 16377,Dua Zwilling,雙茲瓦伊勒勒伊恩格
 16378,Dua Zwilling+,雙茲瓦伊勒勒伊恩格＋
 16379,True Dua Zwilling,真雙茲瓦伊勒勒伊恩格
 16380,Esdua Zwilling,艾斯德烏阿茲瓦伊勒勒伊恩格
-16381,ダミー,(dummy)
-16382,ダミー,(dummy)
-16383,ダミー,(dummy)
-16384,ダミー,(dummy)
+16381,ダミー,假
+16382,ダミー,假
+16383,ダミー,假
+16384,ダミー,假
 16385,Dua Faust,ＤＵFＵST
 16386,Dua Faust+,ＤＵFＵST＋
 16387,True Dua Faust,TＲＵ老ＤＵFＵST
 16388,Esdua Faust,老SＤＵFＵST
-16389,ダミー,(dummy)
+16389,ダミー,假
 16390,歌・救世狂,歌・救世狂
 16391,歌・救世狂徒,歌・救世狂徒
 16392,歌・救世狂徒【奏祈】,歌・救世狂徒【奏祈】
@@ -16750,18 +16750,18 @@ index,source,target
 16748,"Melody Cannon ""Prelude""",旋律加農砲普艾魯德
 16749,"Melody Cannon ""Chorus""",旋律加農砲合唱
 16750,"Melody Cannon ""Encore""",旋律加農砲安可
-16751,ダミー,(dummy)
-16752,ダミー,(dummy)
+16751,ダミー,假
+16752,ダミー,假
 16753,"Melody Tonfa ""Solo""",旋律穿刺棍索洛
 16754,Bonny Fireworks,布歐恩恩伊花火
 16755,"Bonny Fireworks ""Pretty""",布歐恩恩伊花火普爾艾特特伊
 16756,"Bonny Fireworks ""Flash""",布歐恩恩伊花火閃
 16757,"Bonny Fireworks ""Dance""",布歐恩恩伊花火舞
 16758,"Bonny Fireworks ""Serene""",布歐恩恩伊花火
-16759,ダミー,(dummy)
-16760,ダミー,(dummy)
-16761,ダミー,(dummy)
-16762,ダミー,(dummy)
+16759,ダミー,假
+16760,ダミー,假
+16761,ダミー,假
+16762,ダミー,假
 16763,"Rondo Sword ""Torches""",輪旋劍特歐爾克哈艾斯
 16764,"Rondo Sword ""Shores""",輪旋劍斯哈歐爾艾斯
 16765,"Rondo Sword ""Remnants""",輪旋劍爾艾姆恩阿恩特斯
@@ -16845,7 +16845,7 @@ index,source,target
 16843,Snow Memory Ⅲ,雪記憶Ⅲ
 16844,Snow Memory Ⅳ,雪記憶Ⅳ
 16845,Snow Memory Ⅴ,雪記憶Ⅴ
-16846,ダミー,(dummy)
+16846,ダミー,假
 16847,Brachy Feeling,碎龍菲艾利恩
 16848,"Brachy Feeling ""Rupture""",碎龍菲艾利恩
 16849,"Brachy Feeling ""Burst""",碎龍菲艾利恩爆
@@ -17215,46 +17215,46 @@ index,source,target
 17213,Graham Spike Ⅴ,格雷刺Ⅴ
 17214,Divine Galatine,神加拉提涅
 17215,Supreme Axe Francisca,SＵPＲ老M老Ⅹ老FＲNＣISＣ
-17216,Lethe Sword,忘川劍
-17217,"Lethe Sword ""Anarchy""",忘川劍阿恩阿爾克哈伊
-17218,"Lethe Sword ""Wish""",忘川劍願
-17219,"Lethe Sword ""Ashura""",忘川劍阿修烏拉
+17216,Lethe Sword,勒忒劍
+17217,"Lethe Sword ""Anarchy""",勒忒劍無序
+17218,"Lethe Sword ""Wish""",勒忒劍Wish
+17219,"Lethe Sword ""Ashura""",勒忒劍Ashura
 17220,Lethe Duals,忘川龍鎧沸
 17221,"Lethe Duals ""Anarchy""",忘川龍鎧沸
 17222,"Lethe Duals ""Wish""",忘川龍鎧沸願
 17223,"Lethe Duals ""Mahakala""",忘川龍鎧沸
-17224,Lethe Blade,忘川刃
-17225,"Lethe Blade ""Anarchy""",忘川刃阿恩阿爾克哈伊
-17226,"Lethe Blade ""Wish""",忘川刃願
-17227,"Lethe Blade ""Tsukuyomi""",忘川刃特斯烏克烏伊歐姆
-17228,Lethe Katana,忘川刀
-17229,"Lethe Katana ""Anarchy""",忘川刀阿恩阿爾克哈伊
-17230,"Lethe Katana ""Wish""",忘川刀願
-17231,"Lethe Katana ""Yatokami""",忘川刀雅托可米
-17232,Lethe Hammer,大錘忘川
-17233,"Lethe Hammer ""Anarchy""",大錘忘川阿恩阿爾克哈伊
-17234,"Lethe Hammer ""Wish""",大錘忘川願
-17235,"Lethe Hammer ""Skanda""",大錘忘川斯克阿恩德阿
-17236,Lethe Horn,忘川之角
-17237,"Lethe Horn ""Anarchy""",忘川角
-17238,"Lethe Horn ""Wish""",忘川角願
-17239,"Lethe Horn ""Ebisu""",忘川角
-17240,Lethe Lance,長槍忘川
-17241,"Lethe Lance ""Anarchy""",忘川槍阿恩阿爾克哈伊
-17242,"Lethe Lance ""Wish""",長槍忘川願
-17243,"Lethe Lance ""Vaisravana""",長槍忘川維阿伊斯爾阿維阿
-17244,Lethe Gun,忘川銃
-17245,"Lethe Gun ""Anarchy""",忘川銃
-17246,"Lethe Gun ""Wish""",忘川銃願
-17247,"Lethe Gun ""Tsukumogami""",忘川銃
-17248,Lethe Tonfa,忘川穿刺棍
-17249,"Lethe Tonfa ""Anarchy""",穿龍棍忘川阿恩阿爾克哈伊
-17250,"Lethe Tonfa ""Wish""",忘川穿刺棍願
-17251,"Lethe Tonfa ""Okuninushi""",穿龍棍忘川歐庫尼努修伊
-17252,Lethe Axe,忘川斧
-17253,"Lethe Axe ""Anarchy""",忘川斧阿恩阿爾克哈伊
-17254,"Lethe Axe ""Desire""",忘川斧德西雷
-17255,"Lethe Axe ""Budai""",忘川斧布達伊
+17224,Lethe Blade,勒忒刃
+17225,"Lethe Blade ""Anarchy""",勒忒刃無序
+17226,"Lethe Blade ""Wish""",勒忒刃Wish
+17227,"Lethe Blade ""Tsukuyomi""",勒忒刃Tsukuyomi
+17228,Lethe Katana,勒忒刀
+17229,"Lethe Katana ""Anarchy""",勒忒刀無序
+17230,"Lethe Katana ""Wish""",勒忒刀Wish
+17231,"Lethe Katana ""Yatokami""",勒忒刀Yatokami
+17232,Lethe Hammer,勒忒大錘
+17233,"Lethe Hammer ""Anarchy""",勒忒大錘無序
+17234,"Lethe Hammer ""Wish""",勒忒大錘Wish
+17235,"Lethe Hammer ""Skanda""",勒忒大錘Skanda
+17236,Lethe Horn,勒忒角
+17237,"Lethe Horn ""Anarchy""",勒忒角無序
+17238,"Lethe Horn ""Wish""",勒忒角Wish
+17239,"Lethe Horn ""Ebisu""",勒忒角Ebisu
+17240,Lethe Lance,勒忒長槍
+17241,"Lethe Lance ""Anarchy""",勒忒長槍無序
+17242,"Lethe Lance ""Wish""",勒忒長槍Wish
+17243,"Lethe Lance ""Vaisravana""",勒忒長槍Vaisravana
+17244,Lethe Gun,勒忒銃
+17245,"Lethe Gun ""Anarchy""",勒忒銃無序
+17246,"Lethe Gun ""Wish""",勒忒銃Wish
+17247,"Lethe Gun ""Tsukumogami""",勒忒銃Tsukumogami
+17248,Lethe Tonfa,勒忒穿龍棍
+17249,"Lethe Tonfa ""Anarchy""",勒忒穿龍棍無序
+17250,"Lethe Tonfa ""Wish""",勒忒穿龍棍Wish
+17251,"Lethe Tonfa ""Okuninushi""",勒忒穿龍棍Okuninushi
+17252,Lethe Axe,勒忒斧
+17253,"Lethe Axe ""Anarchy""",勒忒斧無序
+17254,"Lethe Axe ""Desire""",勒忒斧Desire
+17255,"Lethe Axe ""Budai""",勒忒斧Budai
 17256,Renka Spike,連歌之棘
 17257,"Renka Spike ""Horse""",連歌棘研磨尾
 17258,"Renka Spike ""Stallion""",連歌刺斯特阿勒勒伊歐恩
@@ -17378,22 +17378,22 @@ index,source,target
 17376,Magi Ladybug,瑪吉勒阿德伊布烏格
 17377,Magi Whirl,瑪吉瓦哈伊爾勒
 17378,Magi Regalia,瑪吉雷加利阿
-17379,ダミー,(dummy)
-17380,ダミー,(dummy)
-17381,ダミー,(dummy)
-17382,ダミー,(dummy)
+17379,ダミー,假
+17380,ダミー,假
+17381,ダミー,假
+17382,ダミー,假
 17383,Magi Bumble,瑪吉布烏姆布勒艾
 17384,Magi Pile Bunker,瑪吉堆布烏恩克艾爾
-17385,ダミー,(dummy)
-17386,ダミー,(dummy)
-17387,ダミー,(dummy)
-17388,ダミー,(dummy)
+17385,ダミー,假
+17386,ダミー,假
+17387,ダミー,假
+17388,ダミー,假
 17389,Magi Ranger,MＧIＲNＧ老Ｒ
 17390,Magi Parashu,魔法・波拉修
-17391,ダミー,(dummy)
-17392,ダミー,(dummy)
-17393,ダミー,(dummy)
-17394,ダミー,(dummy)
+17391,ダミー,假
+17392,ダミー,假
+17393,ダミー,假
+17394,ダミー,假
 17395,Magi Prayer,瑪吉祈願
 17396,Magi Ohan,瑪吉歐哈阿恩
 17397,Gray Lean,灰勒艾阿恩
@@ -17444,22 +17444,22 @@ index,source,target
 17442,Gray Ladybug,灰勒阿德伊布烏格
 17443,Gray Whatroz,灰瓦哈阿特爾歐茲
 17444,Gray Weas,灰瓦艾阿斯
-17445,ダミー,(dummy)
-17446,ダミー,(dummy)
-17447,ダミー,(dummy)
-17448,ダミー,(dummy)
+17445,ダミー,假
+17446,ダミー,假
+17447,ダミー,假
+17448,ダミー,假
 17449,Gray Bumble,灰布烏姆布勒艾
 17450,Gray Pile Bunk,灰堆布烏恩克
-17451,ダミー,(dummy)
-17452,ダミー,(dummy)
-17453,ダミー,(dummy)
-17454,ダミー,(dummy)
+17451,ダミー,假
+17452,ダミー,假
+17453,ダミー,假
+17454,ダミー,假
 17455,Gray Ranger,灰爾阿恩格艾爾
 17456,Gray Chak,灰野泰里
-17457,ダミー,(dummy)
-17458,ダミー,(dummy)
-17459,ダミー,(dummy)
-17460,ダミー,(dummy)
+17457,ダミー,假
+17458,ダミー,假
+17459,ダミー,假
+17460,ダミー,假
 17461,Gray Praia,灰普阿伊阿
 17462,Gray Lia Fail,灰利阿敗
 17463,Layer Edge,層端
