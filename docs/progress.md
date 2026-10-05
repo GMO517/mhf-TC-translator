@@ -45,8 +45,8 @@
 
 ## weapons-melee-name
 
-- status: translated
-- notes: "2026-10-04 層次 B 殘列清零：needs_rework=0（非空 ok=16825／17568）；validate PASS；bin delta（jp-kata 49＋lex 68＋manual 67）。"
+- status: in_progress
+- notes: "2026-10-05 分層 series-dict 主線 P0：`weapon_stem_tiers.tsv`＋`issues/weapons/type-dict.md`；**未**改 CSV。舊 translated 為層次 B 殘零。"
 
 ### files
 
@@ -58,8 +58,8 @@
 
 ## weapons-ranged-name
 
-- status: translated
-- notes: "2026-10-04 needs_rework=0（ok=4223）；validate PASS；bin delta（jp-kata 29＋manual 21）。"
+- status: in_progress
+- notes: "2026-10-05 與近戰共用武器 series-dict；P0 掃描完成，待人審 type／stem。"
 
 ### files
 
@@ -72,7 +72,7 @@
 ## armors-head
 
 - status: qa_done
-- notes: "2026-10-05 防具一次收尾：QA 0；validate PASS。未 finish_batch 本體。"
+- notes: "2026-10-05 防具收尾 QA 0；已全量回寫 mhfdat（見 logs/writeback.md）。"
 
 ### files
 
