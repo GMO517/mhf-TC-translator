@@ -58,9 +58,10 @@
 ## 當前快照（2026-10-05，agent 維護）
 
 - P0／type-dict：完成  
-- P1：923 列（648 定稿，**275 pending**）  
-- P2／P3：PASS；qa mismatches 0  
-- 下一筆（寫 queue）：**清 B pending** → **P3b** → 視需要 C 增量 infer  
+- P1：923 列（**731** 定稿，**192** pending）  
+- P2／P3：PASS；qa mismatches **0**  
+- P3b：`qa-p3b-wash-hits.tsv` **831**（待抽核，非停點）  
+- 下一筆：**192 pending** → P3b 降 hit → C infer 增量  
 
 ---
 

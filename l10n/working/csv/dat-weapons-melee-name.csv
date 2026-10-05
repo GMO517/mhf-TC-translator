@@ -1243,9 +1243,9 @@ index,source,target
 1241,Tidal Dagger,特伊德阿勒短劍
 1242,High Tidal Dagger,高特伊德阿勒短劍
 1243,Ripcurrent Dagger,ＲIPＣＵＲＲ老NTＤＧＧ老Ｒ
-1244,Beta Knife (Yellow),β刀黄
-1245,Beta Knife (Yellow) II,β刀黄Ⅱ
-1246,Beta Knife (Yellow) III,β刀黄Ⅲ
+1244,Beta Knife (Yellow),β刀
+1245,Beta Knife (Yellow) II,β刀ⅠⅠ
+1246,Beta Knife (Yellow) III,β刀ⅠⅠⅠ
 1247,Amicus Sword,摯友劍
 1248,Ignis Sword,伊格恩伊斯劍
 1249,Ignis Slicer,伊格恩伊斯斬撃
@@ -1506,13 +1506,13 @@ index,source,target
 1504,Master Kalinga SP Ⅴ,大師可利恩阿ＳＰⅤ
 1505,Master Kalinga SP Ⅵ,大師可利恩阿ＳＰⅥ
 1506,Master Kalinga SP Ⅶ,大師可利恩阿ＳＰⅦ
-1507,Dark Princess SP Ⅰ,闇公主ＳＰⅠ
-1508,Dark Princess SP Ⅱ,闇公主ＳＰⅡ
-1509,Dark Princess SP Ⅲ,闇公主ＳＰⅢ
-1510,Dark Princess SP Ⅳ,闇公主ＳＰⅣ
-1511,Dark Princess SP Ⅴ,闇公主ＳＰⅤ
-1512,Dark Princess SP Ⅵ,闇公主ＳＰⅥ
-1513,Dark Princess SP Ⅶ,闇公主ＳＰⅦ
+1507,Dark Princess SP Ⅰ,闇SP
+1508,Dark Princess SP Ⅱ,闇SP
+1509,Dark Princess SP Ⅲ,闇SP
+1510,Dark Princess SP Ⅳ,闇SP
+1511,Dark Princess SP Ⅴ,闇SP
+1512,Dark Princess SP Ⅵ,闇SP
+1513,Dark Princess SP Ⅶ,闇SP
 1514,Emerald Edge SP Ⅰ,祖母緑刃SP
 1515,Emerald Edge SP Ⅱ,祖母緑刃SP
 1516,Emerald Edge SP Ⅲ,祖母緑刃SP
@@ -1548,20 +1548,20 @@ index,source,target
 1546,Flare SP V,輝ＳＰＶ
 1547,Flare SP VI,輝ＳＰⅥ
 1548,Flare SP VII,輝ＳＰⅦ
-1549,Plesioth Razors SP I,水龍爾阿茲歐爾斯ＳＰⅠ
-1550,Plesioth Razors SP II,水龍爾阿茲歐爾斯ＳＰⅡ
-1551,Plesioth Razors SP III,水龍爾阿茲歐爾斯ＳＰⅢ
-1552,Plesioth Razors SP IV,水龍爾阿茲歐爾斯ＳＰⅣ
-1553,Plesioth Razors SP V,水龍爾阿茲歐爾斯ＳＰⅤ
-1554,Plesioth Razors SP VI,水龍爾阿茲歐爾斯ＳＰⅥ
-1555,Plesioth Razors SP VII,水龍爾阿茲歐爾斯ＳＰⅦ
-1556,Order Sabres SP I,命斯阿布爾艾斯ＳＰⅠ
-1557,Order Sabres SP II,命斯阿布爾艾斯ＳＰⅡ
-1558,Order Sabres SP III,命斯阿布爾艾斯ＳＰⅢ
-1559,Order Sabres SP IV,命斯阿布爾艾斯ＳＰⅣ
-1560,Order Sabres SP V,命斯阿布爾艾斯ＳＰⅤ
-1561,Order Sabres SP VI,命斯阿布爾艾斯ＳＰⅥ
-1562,Order Sabres SP VII,命斯阿布爾艾斯ＳＰⅦ
+1549,Plesioth Razors SP I,水龍SP
+1550,Plesioth Razors SP II,水龍SP
+1551,Plesioth Razors SP III,水龍SP
+1552,Plesioth Razors SP IV,水龍SP
+1553,Plesioth Razors SP V,水龍SP
+1554,Plesioth Razors SP VI,水龍SP
+1555,Plesioth Razors SP VII,水龍SP
+1556,Order Sabres SP I,秩序SP
+1557,Order Sabres SP II,秩序SP
+1558,Order Sabres SP III,秩序SP
+1559,Order Sabres SP IV,秩序SP
+1560,Order Sabres SP V,秩序SP
+1561,Order Sabres SP VI,秩序SP
+1562,Order Sabres SP VII,秩序SP
 1563,Dragonfang Tessen SP I,德爾阿格歐恩夫阿鉄扇ＳＰⅠ
 1564,Dragonfang Tessen SP II,德爾阿格歐恩夫阿鉄扇ＳＰⅡ
 1565,Dragonfang Tessen SP III,德爾阿格歐恩夫阿鉄扇ＳＰⅢ
@@ -1604,13 +1604,13 @@ index,source,target
 1602,Tartarus SP Ⅴ,特阿爾特阿爾烏斯ＳＰⅤ
 1603,Tartarus SP Ⅵ,特阿爾特阿爾烏斯ＳＰⅥ
 1604,Tartarus SP Ⅶ,特阿爾特阿爾烏斯ＳＰⅦ
-1605,Bronze Blaze SP I,青銅炎ＳＰI
-1606,Bronze Blaze SP II,青銅炎ＳＰⅡ
-1607,Bronze Blaze SP III,青銅炎ＳＰⅢ
-1608,Bronze Blaze SP IV,青銅炎ＳＰⅣ
-1609,Bronze Blaze SP V,青銅炎ＳＰＶ
-1610,Bronze Blaze SP VI,青銅炎ＳＰⅥ
-1611,Bronze Blaze SP VII,青銅炎ＳＰⅦ
+1605,Bronze Blaze SP I,青銅SP
+1606,Bronze Blaze SP II,青銅SP
+1607,Bronze Blaze SP III,青銅SP
+1608,Bronze Blaze SP IV,青銅SP
+1609,Bronze Blaze SP V,青銅SP
+1610,Bronze Blaze SP VI,青銅SP
+1611,Bronze Blaze SP VII,青銅SP
 1612,Colonel Blade SP I,上校刃SP
 1613,Colonel Blade SP II,上校刃SP
 1614,Colonel Blade SP III,上校刃SP
@@ -1618,13 +1618,13 @@ index,source,target
 1616,Colonel Blade SP V,上校刃SP
 1617,Colonel Blade SP VI,上校刃SP
 1618,Colonel Blade SP VII,上校刃SP
-1619,Chaos Pulse SP I,混沌脈ＳＰⅠ
-1620,Chaos Pulse SP II,混沌脈ＳＰⅡ
-1621,Chaos Pulse SP III,混沌脈ＳＰⅢ
-1622,Chaos Pulse SP IV,混沌脈ＳＰⅣ
-1623,Chaos Pulse SP V,混沌脈ＳＰⅤ
-1624,Chaos Pulse SP VI,混沌脈ＳＰⅥ
-1625,Chaos Pulse SP VII,混沌脈ＳＰⅦ
+1619,Chaos Pulse SP I,混沌SP
+1620,Chaos Pulse SP II,混沌SP
+1621,Chaos Pulse SP III,混沌SP
+1622,Chaos Pulse SP IV,混沌SP
+1623,Chaos Pulse SP V,混沌SP
+1624,Chaos Pulse SP VI,混沌SP
+1625,Chaos Pulse SP VII,混沌SP
 1626,Baleful Shk Swd. SP I,布阿勒艾夫烏勒斯哈克劍ＳＰⅠ
 1627,Baleful Shk Swd. SP II,布阿勒艾夫烏勒斯哈克劍ＳＰⅡ
 1628,Baleful Shk Swd. SP III,布阿勒艾夫烏勒斯哈克劍ＳＰⅢ
@@ -1709,20 +1709,20 @@ index,source,target
 1707,Giga Impact SP V,超巨衝撃SPＶ
 1708,Giga Impact SP VI,超巨衝撃SPⅥ
 1709,Giga Impact SP VII,超巨衝撃SPⅦ
-1710,Golden Anchor SP I,金錨ＳＰI
-1711,Golden Anchor SP II,黄金錨SPⅡ
-1712,Golden Anchor SP III,黄金錨SPⅢ
-1713,Golden Anchor SP IV,黄金錨SPⅣ
-1714,Golden Anchor SP V,黄金錨SPＶ
-1715,Golden Anchor SP VI,黄金錨SPⅥ
-1716,Golden Anchor SP VII,黄金錨SPⅦ
-1717,Nephrite Nova SP I,軟玉新星ＳＰⅠ
-1718,Nephrite Nova SP II,軟玉新星ＳＰⅡ
-1719,Nephrite Nova SP III,軟玉新星ＳＰⅢ
-1720,Nephrite Nova SP IV,軟玉新星ＳＰⅣ
-1721,Nephrite Nova SP V,軟玉新星ＳＰⅤ
-1722,Nephrite Nova SP VI,軟玉新星ＳＰⅥ
-1723,Nephrite Nova SP VII,軟玉新星ＳＰⅦ
+1710,Golden Anchor SP I,金SP
+1711,Golden Anchor SP II,金SP
+1712,Golden Anchor SP III,金SP
+1713,Golden Anchor SP IV,金SP
+1714,Golden Anchor SP V,金SP
+1715,Golden Anchor SP VI,金SP
+1716,Golden Anchor SP VII,金SP
+1717,Nephrite Nova SP I,軟玉SP
+1718,Nephrite Nova SP II,軟玉SP
+1719,Nephrite Nova SP III,軟玉SP
+1720,Nephrite Nova SP IV,軟玉SP
+1721,Nephrite Nova SP V,軟玉SP
+1722,Nephrite Nova SP VI,軟玉SP
+1723,Nephrite Nova SP VII,軟玉SP
 1724,Special Mech Hm. SP I,大錘特機械ＳＰⅠ
 1725,Special Mech Hm. SP II,大錘特機械ＳＰⅡ
 1726,Special Mech Hm. SP III,大錘特機械ＳＰⅢ
@@ -1744,34 +1744,34 @@ index,source,target
 1742,P. Conehead Hm. SP V,大錘P錐頭ＳＰⅤ
 1743,P. Conehead Hm. SP VI,大錘P錐頭ＳＰⅥ
 1744,P. Conehead Hm. SP VII,大錘P錐頭ＳＰⅦ
-1745,Lava Alphorn SP I,熔阿勒普哈歐爾恩ＳＰⅠ
-1746,Lava Alphorn SP II,熔阿勒普哈歐爾恩ＳＰⅡ
-1747,Lava Alphorn SP III,熔阿勒普哈歐爾恩ＳＰⅢ
-1748,Lava Alphorn SP IV,熔阿勒普哈歐爾恩ＳＰⅣ
-1749,Lava Alphorn SP V,熔阿勒普哈歐爾恩ＳＰⅤ
-1750,Lava Alphorn SP VI,熔阿勒普哈歐爾恩ＳＰⅥ
-1751,Lava Alphorn SP VII,熔阿勒普哈歐爾恩ＳＰⅦ
-1752,Sky Chordmaker SP I,空和弦ＳＰⅠ
-1753,Sky Chordmaker SP II,空和弦ＳＰⅡ
-1754,Sky Chordmaker SP III,空和弦ＳＰⅢ
-1755,Sky Chordmaker SP IV,空和弦ＳＰⅣ
-1756,Sky Chordmaker SP V,空和弦ＳＰⅤ
-1757,Sky Chordmaker SP VI,空和弦ＳＰⅥ
-1758,Sky Chordmaker SP VII,空和弦ＳＰⅦ
-1759,Basarios Beat SP I,岩龍拍ＳＰI
-1760,Basarios Beat SP II,岩龍拍ＳＰⅡ
-1761,Basarios Beat SP III,岩龍拍ＳＰⅢ
-1762,Basarios Beat SP IV,岩龍拍ＳＰⅣ
-1763,Basarios Beat SP V,岩龍拍ＳＰＶ
-1764,Basarios Beat SP VI,岩龍拍ＳＰⅥ
-1765,Basarios Beat SP VII,岩龍拍ＳＰⅦ
-1766,Khezu Shriek SP I,ｋH老ＺＵSHＲⅠ老ｋSPⅠ
-1767,Khezu Shriek SP II,ｋH老ＺＵSHＲⅠ老ｋSPⅠⅠ
-1768,Khezu Shriek SP III,ｋH老ＺＵSHＲⅠ老ｋSPⅠⅠⅠ
-1769,Khezu Shriek SP IV,ｋH老ＺＵSHＲⅠ老ｋSPⅠⅤ
-1770,Khezu Shriek SP V,ｋH老ＺＵSHＲI老ｋSPＶ
-1771,Khezu Shriek SP VI,ｋH老ＺＵSHＲI老ｋSPＶI
-1772,Khezu Shriek SP VII,ｋH老ＺＵSHＲI老ｋSPＶII
+1745,Lava Alphorn SP I,熔岩SP
+1746,Lava Alphorn SP II,熔岩SP
+1747,Lava Alphorn SP III,熔岩SP
+1748,Lava Alphorn SP IV,熔岩SP
+1749,Lava Alphorn SP V,熔岩SP
+1750,Lava Alphorn SP VI,熔岩SP
+1751,Lava Alphorn SP VII,熔岩SP
+1752,Sky Chordmaker SP I,天空SP
+1753,Sky Chordmaker SP II,天空SP
+1754,Sky Chordmaker SP III,天空SP
+1755,Sky Chordmaker SP IV,天空SP
+1756,Sky Chordmaker SP V,天空SP
+1757,Sky Chordmaker SP VI,天空SP
+1758,Sky Chordmaker SP VII,天空SP
+1759,Basarios Beat SP I,岩龍SP
+1760,Basarios Beat SP II,岩龍SP
+1761,Basarios Beat SP III,岩龍SP
+1762,Basarios Beat SP IV,岩龍SP
+1763,Basarios Beat SP V,岩龍SP
+1764,Basarios Beat SP VI,岩龍SP
+1765,Basarios Beat SP VII,岩龍SP
+1766,Khezu Shriek SP I,奇怪龍SP
+1767,Khezu Shriek SP II,奇怪龍SP
+1768,Khezu Shriek SP III,奇怪龍SP
+1769,Khezu Shriek SP IV,奇怪龍SP
+1770,Khezu Shriek SP V,奇怪龍SP
+1771,Khezu Shriek SP VI,奇怪龍SP
+1772,Khezu Shriek SP VII,奇怪龍SP
 1773,Mauve Melody SP I,淡紫旋律ＳＰI
 1774,Mauve Melody SP II,淡紫旋律ＳＰⅡ
 1775,Mauve Melody SP III,淡紫旋律ＳＰⅢ
@@ -1800,20 +1800,20 @@ index,source,target
 1798,Colonel Lance SP V,上校長槍SP
 1799,Colonel Lance SP VI,上校長槍SP
 1800,Colonel Lance SP VII,上校長槍SP
-1801,Green Tail SP I,緑尾ＳＰI
-1802,Green Tail SP II,緑尾ＳＰⅡ
-1803,Green Tail SP III,緑尾ＳＰⅢ
-1804,Green Tail SP IV,緑尾ＳＰⅣ
-1805,Green Tail SP V,緑尾ＳＰＶ
-1806,Green Tail SP VI,緑尾ＳＰⅥ
-1807,Green Tail SP VII,緑尾ＳＰⅦ
-1808,Dark Gae Bulg SP I,暗怪轟龍保加ＳＰⅠ
-1809,Dark Gae Bulg SP II,暗怪轟龍保加ＳＰⅡ
-1810,Dark Gae Bulg SP III,暗怪轟龍保加ＳＰⅢ
-1811,Dark Gae Bulg SP IV,暗怪轟龍保加ＳＰⅣ
-1812,Dark Gae Bulg SP V,暗怪轟龍保加ＳＰⅤ
-1813,Dark Gae Bulg SP VI,暗怪轟龍保加ＳＰⅥ
-1814,Dark Gae Bulg SP VII,暗怪轟龍保加ＳＰⅦ
+1801,Green Tail SP I,緑SP
+1802,Green Tail SP II,緑SP
+1803,Green Tail SP III,緑SP
+1804,Green Tail SP IV,緑SP
+1805,Green Tail SP V,緑SP
+1806,Green Tail SP VI,緑SP
+1807,Green Tail SP VII,緑SP
+1808,Dark Gae Bulg SP I,闇SP
+1809,Dark Gae Bulg SP II,闇SP
+1810,Dark Gae Bulg SP III,闇SP
+1811,Dark Gae Bulg SP IV,闇SP
+1812,Dark Gae Bulg SP V,闇SP
+1813,Dark Gae Bulg SP VI,闇SP
+1814,Dark Gae Bulg SP VII,闇SP
 1815,Special Mech Lnc. SP I,特機械勒恩克ＳＰⅠ
 1816,Special Mech Lnc. SP II,特機械勒恩克ＳＰⅡ
 1817,Special Mech Lnc. SP III,特機械勒恩克ＳＰⅢ
@@ -1884,13 +1884,13 @@ index,source,target
 1882,Chrome Rook SP V,鍍城堡ＳＰⅤ
 1883,Chrome Rook SP VI,鍍城堡ＳＰⅥ
 1884,Chrome Rook SP VII,鍍城堡ＳＰⅦ
-1885,Meteor Slugger SP I,流星強打ＳＰⅠ
-1886,Meteor Slugger SP II,流星強打ＳＰⅡ
-1887,Meteor Slugger SP III,流星強打ＳＰⅢ
-1888,Meteor Slugger SP IV,流星強打ＳＰⅣ
-1889,Meteor Slugger SP V,流星強打ＳＰⅤ
-1890,Meteor Slugger SP VI,流星強打ＳＰⅥ
-1891,Meteor Slugger SP VII,流星強打ＳＰⅦ
+1885,Meteor Slugger SP I,流星SP
+1886,Meteor Slugger SP II,流星SP
+1887,Meteor Slugger SP III,流星SP
+1888,Meteor Slugger SP IV,流星SP
+1889,Meteor Slugger SP V,流星SP
+1890,Meteor Slugger SP VI,流星SP
+1891,Meteor Slugger SP VII,流星SP
 1892,Tsurugi SP I,TSＵＲＵＧⅠSPⅠ
 1893,Tsurugi SP II,TSＵＲＵＧⅠSPⅠⅠ
 1894,Tsurugi SP III,TSＵＲＵＧⅠSPⅠⅠⅠ
@@ -1898,13 +1898,13 @@ index,source,target
 1896,Tsurugi SP V,TSＵＲＵＧISPＶ
 1897,Tsurugi SP VI,TSＵＲＵＧISPＶI
 1898,Tsurugi SP VII,TSＵＲＵＧⅠSPⅤⅠⅠ
-1899,Aqua Syphos SP I,水劍ＳＰI
-1900,Aqua Syphos SP II,水劍SPⅡ
-1901,Aqua Syphos SP III,水劍SPⅢ
-1902,Aqua Syphos SP IV,水劍SPⅣ
-1903,Aqua Syphos SP V,水劍SPＶ
-1904,Aqua Syphos SP VI,水劍SPⅥ
-1905,Aqua Syphos SP VII,水劍SPⅦ
+1899,Aqua Syphos SP I,水SP
+1900,Aqua Syphos SP II,水SP
+1901,Aqua Syphos SP III,水SP
+1902,Aqua Syphos SP IV,水SP
+1903,Aqua Syphos SP V,水SP
+1904,Aqua Syphos SP VI,水SP
+1905,Aqua Syphos SP VII,水SP
 1906,Brave Blade SP I,勇者刃SP
 1907,Brave Blade SP II,勇者刃SP
 1908,Brave Blade SP III,勇者刃SP
@@ -1912,13 +1912,13 @@ index,source,target
 1910,Brave Blade SP V,勇者刃SP
 1911,Brave Blade SP VI,勇者刃SP
 1912,Brave Blade SP VII,勇者刃SP
-1913,Twin Nevi SP I,TWⅠNN老ⅤⅠSPⅠ
-1914,Twin Nevi SP II,TWⅠNN老ⅤⅠSPⅠⅠ
-1915,Twin Nevi SP III,TWⅠNN老ⅤⅠSPⅠⅠⅠ
-1916,Twin Nevi SP IV,TWⅠNN老ⅤⅠSPⅠⅤ
-1917,Twin Nevi SP V,TWⅠNN老ⅤⅠSPⅤ
-1918,Twin Nevi SP VI,TWⅠNN老ⅤⅠSPⅤⅠ
-1919,Twin Nevi SP VII,TWⅠNN老ⅤⅠSPⅤⅠⅠ
+1913,Twin Nevi SP I,雙SP
+1914,Twin Nevi SP II,雙SP
+1915,Twin Nevi SP III,雙SP
+1916,Twin Nevi SP IV,雙SP
+1917,Twin Nevi SP V,雙SP
+1918,Twin Nevi SP VI,雙SP
+1919,Twin Nevi SP VII,雙SP
 1920,Begrudged Twins SP I,布艾格爾烏德格艾雙子ＳＰⅠ
 1921,Begrudged Twins SP II,布艾格爾烏德格艾雙子ＳＰⅡ
 1922,Begrudged Twins SP III,布艾格爾烏德格艾雙子ＳＰⅢ
@@ -1947,13 +1947,13 @@ index,source,target
 1945,Sailor Sword SP V,水手劍SP
 1946,Sailor Sword SP VI,水手劍SP
 1947,Sailor Sword SP VII,水手劍SP
-1948,Cat's Dance SP I,猫S舞ＳＰI
-1949,Cat's Dance SP II,猫S舞ＳＰⅡ
-1950,Cat's Dance SP III,猫S舞ＳＰⅢ
-1951,Cat's Dance SP IV,猫S舞ＳＰⅣ
-1952,Cat's Dance SP V,猫S舞ＳＰＶ
-1953,Cat's Dance SP VI,猫S舞ＳＰⅥ
-1954,Cat's Dance SP VII,猫S舞ＳＰⅦ
+1948,Cat's Dance SP I,猫S之SP
+1949,Cat's Dance SP II,猫S之SP
+1950,Cat's Dance SP III,猫S之SP
+1951,Cat's Dance SP IV,猫S之SP
+1952,Cat's Dance SP V,猫S之SP
+1953,Cat's Dance SP VI,猫S之SP
+1954,Cat's Dance SP VII,猫S之SP
 1955,Blinding Spray SP I,布勒伊恩德伊恩格斯普爾阿伊ＳＰⅠ
 1956,Blinding Spray SP II,布勒伊恩德伊恩格斯普爾阿伊ＳＰⅡ
 1957,Blinding Spray SP III,布勒伊恩德伊恩格斯普爾阿伊ＳＰⅢ
@@ -1961,13 +1961,13 @@ index,source,target
 1959,Blinding Spray SP V,布勒伊恩德伊恩格斯普爾阿伊ＳＰⅤ
 1960,Blinding Spray SP VI,布勒伊恩德伊恩格斯普爾阿伊ＳＰⅥ
 1961,Blinding Spray SP VII,布勒伊恩德伊恩格斯普爾阿伊ＳＰⅦ
-1962,Dark Claymore SP I,暗闊劍ＳＰⅠ
-1963,Dark Claymore SP II,暗闊劍ＳＰⅡ
-1964,Dark Claymore SP III,暗闊劍ＳＰⅢ
-1965,Dark Claymore SP IV,暗闊劍ＳＰⅣ
-1966,Dark Claymore SP V,暗闊劍ＳＰⅤ
-1967,Dark Claymore SP VI,暗闊劍ＳＰⅥ
-1968,Dark Claymore SP VII,暗闊劍ＳＰⅦ
+1962,Dark Claymore SP I,闇SP
+1963,Dark Claymore SP II,闇SP
+1964,Dark Claymore SP III,闇SP
+1965,Dark Claymore SP IV,闇SP
+1966,Dark Claymore SP V,闇SP
+1967,Dark Claymore SP VI,闇SP
+1968,Dark Claymore SP VII,闇SP
 1969,Fngd Bst Slayer SP I,夫恩格德布斯特殺ＳＰⅠ
 1970,Fngd Bst Slayer SP II,夫恩格德布斯特殺ＳＰⅡ
 1971,Fngd Bst Slayer SP III,夫恩格德布斯特殺ＳＰⅢ
@@ -1982,13 +1982,13 @@ index,source,target
 1980,Asir Warhammer SP V,阿斯伊爾瓦阿爾哈阿姆姆艾ＳＰⅤ
 1981,Asir Warhammer SP VI,阿斯伊爾瓦阿爾哈阿姆姆艾ＳＰⅥ
 1982,Asir Warhammer SP VII,阿斯伊爾瓦阿爾哈阿姆姆艾ＳＰⅦ
-1983,Poison Relic SP I,毒遺物ＳＰI
-1984,Poison Relic SP II,毒遺物ＳＰⅡ
-1985,Poison Relic SP III,毒遺物ＳＰⅢ
-1986,Poison Relic SP IV,毒遺物ＳＰⅣ
-1987,Poison Relic SP V,毒遺物ＳＰＶ
-1988,Poison Relic SP VI,毒遺物ＳＰⅥ
-1989,Poison Relic SP VII,毒遺物ＳＰⅦ
+1983,Poison Relic SP I,毒SP
+1984,Poison Relic SP II,毒SP
+1985,Poison Relic SP III,毒SP
+1986,Poison Relic SP IV,毒SP
+1987,Poison Relic SP V,毒SP
+1988,Poison Relic SP VI,毒SP
+1989,Poison Relic SP VII,毒SP
 1990,Super Frying Pan SP I,超煎鍋ＳＰⅠ
 1991,Super Frying Pan SP II,超煎鍋ＳＰⅡ
 1992,Super Frying Pan SP III,超煎鍋ＳＰⅢ
@@ -2031,34 +2031,34 @@ index,source,target
 2029,Tundra Lance SP V,特烏恩德爾阿槍ＳＰⅤ
 2030,Tundra Lance SP VI,特烏恩德爾阿槍ＳＰⅥ
 2031,Tundra Lance SP VII,特烏恩德爾阿槍ＳＰⅦ
-2032,Raging Stream SP I,拉吉恩流ＳＰI
-2033,Raging Stream SP II,拉吉恩流SPⅡ
-2034,Raging Stream SP III,拉吉恩流SPⅢ
-2035,Raging Stream SP IV,拉吉恩流SPⅣ
-2036,Raging Stream SP V,拉吉恩流SPＶ
-2037,Raging Stream SP VI,拉吉恩流SPⅥ
-2038,Raging Stream SP VII,拉吉恩流SPⅦ
-2039,Thunder Sovereign SP I,雷斯歐維艾爾艾伊格ＳＰⅠ
-2040,Thunder Sovereign SP II,雷斯歐維艾爾艾伊格ＳＰⅡ
-2041,Thunder Sovereign SP III,雷斯歐維艾爾艾伊格ＳＰⅢ
-2042,Thunder Sovereign SP IV,雷斯歐維艾爾艾伊格ＳＰⅣ
-2043,Thunder Sovereign SP V,雷斯歐維艾爾艾伊格ＳＰⅤ
-2044,Thunder Sovereign SP VI,雷斯歐維艾爾艾伊格ＳＰⅥ
-2045,Thunder Sovereign SP VII,雷斯歐維艾爾艾伊格ＳＰⅦ
-2046,Blaze Cannonlance SP I,炎砲槍ＳＰⅠ
-2047,Blaze Cannonlance SP II,炎砲槍ＳＰⅡ
-2048,Blaze Cannonlance SP III,炎砲槍ＳＰⅢ
-2049,Blaze Cannonlance SP IV,炎砲槍ＳＰⅣ
-2050,Blaze Cannonlance SP V,炎砲槍ＳＰⅤ
-2051,Blaze Cannonlance SP VI,炎砲槍ＳＰⅥ
-2052,Blaze Cannonlance SP VII,炎砲槍ＳＰⅦ
-2053,Ice Strike SP I,冰斯里凱ＳＰI
-2054,Ice Strike SP II,冰斯里凱SPⅡ
-2055,Ice Strike SP III,冰斯里凱SPⅢ
-2056,Ice Strike SP IV,冰斯里凱SPⅣ
-2057,Ice Strike SP V,冰斯里凱SPＶ
-2058,Ice Strike SP VI,冰斯里凱SPⅥ
-2059,Ice Strike SP VII,冰斯里凱SPⅦ
+2032,Raging Stream SP I,拉吉恩之SP
+2033,Raging Stream SP II,拉吉恩之SP
+2034,Raging Stream SP III,拉吉恩之SP
+2035,Raging Stream SP IV,拉吉恩之SP
+2036,Raging Stream SP V,拉吉恩之SP
+2037,Raging Stream SP VI,拉吉恩之SP
+2038,Raging Stream SP VII,拉吉恩之SP
+2039,Thunder Sovereign SP I,雷SP
+2040,Thunder Sovereign SP II,雷SP
+2041,Thunder Sovereign SP III,雷SP
+2042,Thunder Sovereign SP IV,雷SP
+2043,Thunder Sovereign SP V,雷SP
+2044,Thunder Sovereign SP VI,雷SP
+2045,Thunder Sovereign SP VII,雷SP
+2046,Blaze Cannonlance SP I,烈焔SP
+2047,Blaze Cannonlance SP II,烈焔SP
+2048,Blaze Cannonlance SP III,烈焔SP
+2049,Blaze Cannonlance SP IV,烈焔SP
+2050,Blaze Cannonlance SP V,烈焔SP
+2051,Blaze Cannonlance SP VI,烈焔SP
+2052,Blaze Cannonlance SP VII,烈焔SP
+2053,Ice Strike SP I,冰SP
+2054,Ice Strike SP II,冰SP
+2055,Ice Strike SP III,冰SP
+2056,Ice Strike SP IV,冰SP
+2057,Ice Strike SP V,冰SP
+2058,Ice Strike SP VI,冰SP
+2059,Ice Strike SP VII,冰SP
 2060,Foul Dragonsword SP I,夫歐烏勒龍劍ＳＰⅠ
 2061,Foul Dragonsword SP II,夫歐烏勒龍劍ＳＰⅡ
 2062,Foul Dragonsword SP III,夫歐烏勒龍劍ＳＰⅢ
@@ -2073,20 +2073,20 @@ index,source,target
 2071,Jiraiya Sword SP V,吉拉伊雅劍ＳＰⅤ
 2072,Jiraiya Sword SP VI,吉拉伊雅劍ＳＰⅥ
 2073,Jiraiya Sword SP VII,吉拉伊雅劍ＳＰⅦ
-2074,Twin Monohorns SP I,球紋章姆歐恩歐哈歐爾恩ＳＰⅠ
-2075,Twin Monohorns SP II,球紋章姆歐恩歐哈歐爾恩ＳＰⅡ
-2076,Twin Monohorns SP III,球紋章姆歐恩歐哈歐爾恩ＳＰⅢ
-2077,Twin Monohorns SP IV,球紋章姆歐恩歐哈歐爾恩ＳＰⅣ
-2078,Twin Monohorns SP V,球紋章姆歐恩歐哈歐爾恩ＳＰⅤ
-2079,Twin Monohorns SP VI,球紋章姆歐恩歐哈歐爾恩ＳＰⅥ
-2080,Twin Monohorns SP VII,球紋章姆歐恩歐哈歐爾恩ＳＰⅦ
-2081,Melt Orange SP I,溶橙ＳＰⅠ
-2082,Melt Orange SP II,溶橙ＳＰⅡ
-2083,Melt Orange SP III,溶橙ＳＰⅢ
-2084,Melt Orange SP IV,溶橙ＳＰⅣ
-2085,Melt Orange SP V,溶橙ＳＰⅤ
-2086,Melt Orange SP VI,溶橙ＳＰⅥ
-2087,Melt Orange SP VII,溶橙ＳＰⅦ
+2074,Twin Monohorns SP I,雙SP
+2075,Twin Monohorns SP II,雙SP
+2076,Twin Monohorns SP III,雙SP
+2077,Twin Monohorns SP IV,雙SP
+2078,Twin Monohorns SP V,雙SP
+2079,Twin Monohorns SP VI,雙SP
+2080,Twin Monohorns SP VII,雙SP
+2081,Melt Orange SP I,姆艾勒特SP
+2082,Melt Orange SP II,姆艾勒特SP
+2083,Melt Orange SP III,姆艾勒特SP
+2084,Melt Orange SP IV,姆艾勒特SP
+2085,Melt Orange SP V,姆艾勒特SP
+2086,Melt Orange SP VI,姆艾勒特SP
+2087,Melt Orange SP VII,姆艾勒特SP
 2088,Calcium SP I,克阿勒克伊烏姆ＳＰⅠ
 2089,Calcium SP II,克阿勒克伊烏姆ＳＰⅡ
 2090,Calcium SP III,克阿勒克伊烏姆ＳＰⅢ
@@ -2094,20 +2094,20 @@ index,source,target
 2092,Calcium SP V,克阿勒克伊烏姆ＳＰⅤ
 2093,Calcium SP VI,克阿勒克伊烏姆ＳＰⅥ
 2094,Calcium SP VII,克阿勒克伊烏姆ＳＰⅦ
-2095,Poison Demonrod SP I,毒德艾姆歐恩爾歐德ＳＰⅠ
-2096,Poison Demonrod SP II,毒德艾姆歐恩爾歐德ＳＰⅡ
-2097,Poison Demonrod SP III,毒德艾姆歐恩爾歐德ＳＰⅢ
-2098,Poison Demonrod SP IV,毒德艾姆歐恩爾歐德ＳＰⅣ
-2099,Poison Demonrod SP V,毒德艾姆歐恩爾歐德ＳＰⅤ
-2100,Poison Demonrod SP VI,毒德艾姆歐恩爾歐德ＳＰⅥ
-2101,Poison Demonrod SP VII,毒德艾姆歐恩爾歐德ＳＰⅦ
-2102,Dragon Halberd SP I,龍沸血吼ＳＰI
-2103,Dragon Halberd SP II,龍沸血吼ＳＰⅡ
-2104,Dragon Halberd SP III,龍沸血吼ＳＰⅢ
-2105,Dragon Halberd SP IV,龍沸血吼ＳＰⅣ
-2106,Dragon Halberd SP V,龍沸血吼ＳＰＶ
-2107,Dragon Halberd SP VI,龍沸血吼ＳＰⅥ
-2108,Dragon Halberd SP VII,龍沸血吼ＳＰⅦ
+2095,Poison Demonrod SP I,毒SP
+2096,Poison Demonrod SP II,毒SP
+2097,Poison Demonrod SP III,毒SP
+2098,Poison Demonrod SP IV,毒SP
+2099,Poison Demonrod SP V,毒SP
+2100,Poison Demonrod SP VI,毒SP
+2101,Poison Demonrod SP VII,毒SP
+2102,Dragon Halberd SP I,龍SP
+2103,Dragon Halberd SP II,龍SP
+2104,Dragon Halberd SP III,龍SP
+2105,Dragon Halberd SP IV,龍SP
+2106,Dragon Halberd SP V,龍SP
+2107,Dragon Halberd SP VI,龍SP
+2108,Dragon Halberd SP VII,龍SP
 2109,Felwater Claw SP I,夫艾勒瓦阿特艾爾爪ＳＰⅠ
 2110,Felwater Claw SP II,夫艾勒瓦阿特艾爾爪ＳＰⅡ
 2111,Felwater Claw SP III,夫艾勒瓦阿特艾爾爪ＳＰⅢ
@@ -2122,20 +2122,20 @@ index,source,target
 2120,Polar Bear SP V,極地熊ＳＰⅤ
 2121,Polar Bear SP VI,極地熊ＳＰⅥ
 2122,Polar Bear SP VII,極地熊ＳＰⅦ
-2123,Dragon Masher SP I,龍搗ＳＰⅠ
-2124,Dragon Masher SP II,龍搗ＳＰⅡ
-2125,Dragon Masher SP III,龍搗ＳＰⅢ
-2126,Dragon Masher SP IV,龍搗ＳＰⅣ
-2127,Dragon Masher SP V,龍搗ＳＰⅤ
-2128,Dragon Masher SP VI,龍搗ＳＰⅥ
-2129,Dragon Masher SP VII,龍搗ＳＰⅦ
-2130,Ice Whistle SP I,冰笛ＳＰI
-2131,Ice Whistle SP II,冰笛ＳＰⅡ
-2132,Ice Whistle SP III,冰笛ＳＰⅢ
-2133,Ice Whistle SP IV,冰笛ＳＰⅣ
-2134,Ice Whistle SP V,冰笛ＳＰＶ
-2135,Ice Whistle SP VI,冰笛ＳＰⅥ
-2136,Ice Whistle SP VII,冰笛ＳＰⅦ
+2123,Dragon Masher SP I,龍SP
+2124,Dragon Masher SP II,龍SP
+2125,Dragon Masher SP III,龍SP
+2126,Dragon Masher SP IV,龍SP
+2127,Dragon Masher SP V,龍SP
+2128,Dragon Masher SP VI,龍SP
+2129,Dragon Masher SP VII,龍SP
+2130,Ice Whistle SP I,冰SP
+2131,Ice Whistle SP II,冰SP
+2132,Ice Whistle SP III,冰SP
+2133,Ice Whistle SP IV,冰SP
+2134,Ice Whistle SP V,冰SP
+2135,Ice Whistle SP VI,冰SP
+2136,Ice Whistle SP VII,冰SP
 2137,Death Trumpet SP I,死號角ＳＰⅠ
 2138,Death Trumpet SP II,死號角ＳＰⅡ
 2139,Death Trumpet SP III,死號角ＳＰⅢ
@@ -2143,13 +2143,13 @@ index,source,target
 2141,Death Trumpet SP V,死號角ＳＰⅤ
 2142,Death Trumpet SP VI,死號角ＳＰⅥ
 2143,Death Trumpet SP VII,死號角ＳＰⅦ
-2144,Venom Fork SP I,毒叉ＳＰI
-2145,Venom Fork SP II,毒叉ＳＰⅡ
-2146,Venom Fork SP III,毒叉ＳＰⅢ
-2147,Venom Fork SP IV,毒叉ＳＰⅣ
-2148,Venom Fork SP V,毒叉ＳＰＶ
-2149,Venom Fork SP VI,毒叉ＳＰⅥ
-2150,Venom Fork SP VII,毒叉ＳＰⅦ
+2144,Venom Fork SP I,薇諾SP
+2145,Venom Fork SP II,薇諾SP
+2146,Venom Fork SP III,薇諾SP
+2147,Venom Fork SP IV,薇諾SP
+2148,Venom Fork SP V,薇諾SP
+2149,Venom Fork SP VI,薇諾SP
+2150,Venom Fork SP VII,薇諾SP
 2151,Dream Spear SP I,夢槍ＳＰI
 2152,Dream Spear SP II,夢槍ＳＰⅡ
 2153,Dream Spear SP III,夢槍ＳＰⅢ
@@ -2234,13 +2234,13 @@ index,source,target
 2232,Burst Hammer SP V,大錘爆SPＶ
 2233,Burst Hammer SP VI,大錘爆SPⅥ
 2234,Burst Hammer SP VII,大錘爆SPⅦ
-2235,Basarios Burst SP I,岩龍爆ＳＰI
-2236,Basarios Burst SP II,岩龍爆SPⅡ
-2237,Basarios Burst SP III,岩龍爆SPⅢ
-2238,Basarios Burst SP IV,岩龍爆SPⅣ
-2239,Basarios Burst SP V,岩龍爆SPＶ
-2240,Basarios Burst SP VI,岩龍爆SPⅥ
-2241,Basarios Burst SP VII,岩龍爆SPⅦ
+2235,Basarios Burst SP I,岩龍SP
+2236,Basarios Burst SP II,岩龍SP
+2237,Basarios Burst SP III,岩龍SP
+2238,Basarios Burst SP IV,岩龍SP
+2239,Basarios Burst SP V,岩龍SP
+2240,Basarios Burst SP VI,岩龍SP
+2241,Basarios Burst SP VII,岩龍SP
 2242,Decapoda Reggios SP I,德可波達爾艾格格伊歐斯ＳＰⅠ
 2243,Decapoda Reggios SP II,德可波達爾艾格格伊歐斯ＳＰⅡ
 2244,Decapoda Reggios SP III,德可波達爾艾格格伊歐斯ＳＰⅢ
@@ -2276,13 +2276,13 @@ index,source,target
 2274,Gunspear Kulugaru SP V,銃矛庫魯加魯ＳＰⅤ
 2275,Gunspear Kulugaru SP VI,銃矛庫魯加魯ＳＰⅥ
 2276,Gunspear Kulugaru SP VII,銃矛庫魯加魯ＳＰⅦ
-2277,Sea Angler SP I,海阿恩格勒艾爾ＳＰⅠ
-2278,Sea Angler SP II,海阿恩格勒艾爾ＳＰⅡ
-2279,Sea Angler SP III,海阿恩格勒艾爾ＳＰⅢ
-2280,Sea Angler SP IV,海阿恩格勒艾爾ＳＰⅣ
-2281,Sea Angler SP V,海阿恩格勒艾爾ＳＰⅤ
-2282,Sea Angler SP VI,海阿恩格勒艾爾ＳＰⅥ
-2283,Sea Angler SP VII,海阿恩格勒艾爾ＳＰⅦ
+2277,Sea Angler SP I,海SP
+2278,Sea Angler SP II,海SP
+2279,Sea Angler SP III,海SP
+2280,Sea Angler SP IV,海SP
+2281,Sea Angler SP V,海SP
+2282,Sea Angler SP VI,海SP
+2283,Sea Angler SP VII,海SP
 2284,Snowtail SP I,斯恩歐瓦特阿伊勒ＳＰⅠ
 2285,Snowtail SP II,斯恩歐瓦特阿伊勒ＳＰⅡ
 2286,Snowtail SP III,斯恩歐瓦特阿伊勒ＳＰⅢ
@@ -2346,20 +2346,20 @@ index,source,target
 2344,Sphr. Hyperborea SP V,斯普哈爾哈伊普艾爾布歐爾ＳＰⅤ
 2345,Sphr. Hyperborea SP VI,斯普哈爾哈伊普艾爾布歐爾ＳＰⅥ
 2346,Sphr. Hyperborea SP VII,斯普哈爾哈伊普艾爾布歐爾ＳＰⅦ
-2347,Golden Bomb SP I,黄金炸彈ＳＰI
-2348,Golden Bomb SP II,黄金炸彈ＳＰⅡ
-2349,Golden Bomb SP III,黄金炸彈ＳＰⅢ
-2350,Golden Bomb SP IV,黄金炸彈ＳＰⅣ
-2351,Golden Bomb SP V,黄金炸彈ＳＰＶ
-2352,Golden Bomb SP VI,黄金炸彈ＳＰⅥ
-2353,Golden Bomb SP VII,黄金炸彈ＳＰⅦ
-2354,Gran Phaios SP I,大普哈阿伊歐斯ＳＰⅠ
-2355,Gran Phaios SP II,大普哈阿伊歐斯ＳＰⅡ
-2356,Gran Phaios SP III,大普哈阿伊歐斯ＳＰⅢ
-2357,Gran Phaios SP IV,大普哈阿伊歐斯ＳＰⅣ
-2358,Gran Phaios SP V,大普哈阿伊歐斯ＳＰⅤ
-2359,Gran Phaios SP VI,大普哈阿伊歐斯ＳＰⅥ
-2360,Gran Phaios SP VII,大普哈阿伊歐斯ＳＰⅦ
+2347,Golden Bomb SP I,金SP
+2348,Golden Bomb SP II,金SP
+2349,Golden Bomb SP III,金SP
+2350,Golden Bomb SP IV,金SP
+2351,Golden Bomb SP V,金SP
+2352,Golden Bomb SP VI,金SP
+2353,Golden Bomb SP VII,金SP
+2354,Gran Phaios SP I,大SP
+2355,Gran Phaios SP II,大SP
+2356,Gran Phaios SP III,大SP
+2357,Gran Phaios SP IV,大SP
+2358,Gran Phaios SP V,大SP
+2359,Gran Phaios SP VI,大SP
+2360,Gran Phaios SP VII,大SP
 2361,Tubo Rosso SP I,圖波爾歐斯斯歐ＳＰⅠ
 2362,Tubo Rosso SP II,圖波爾歐斯斯歐ＳＰⅡ
 2363,Tubo Rosso SP III,圖波爾歐斯斯歐ＳＰⅢ
@@ -2437,13 +2437,13 @@ index,source,target
 2435,Drago Blade SP V,德阿戈刃SPＶ
 2436,Drago Blade SP VI,德阿戈刃SPⅥ
 2437,Drago Blade SP VII,德阿戈刃SPⅦ
-2438,White Katana Mk.I SP I,白刀Mk.ⅠＳＰⅠ
-2439,White Katana Mk.I SP II,白刀Mk.ⅠＳＰⅡ
-2440,White Katana Mk.I SP III,白刀Mk.ⅠＳＰⅢ
-2441,White Katana Mk.I SP IV,白刀Mk.ⅠＳＰⅣ
-2442,White Katana Mk.I SP V,白刀Mk.ⅠＳＰⅤ
-2443,White Katana Mk.I SP VI,白刀Mk.ⅠＳＰⅥ
-2444,White Katana Mk.I SP VII,白刀Mk.ⅠＳＰⅦ
+2438,White Katana Mk.I SP I,白刀SP
+2439,White Katana Mk.I SP II,白刀SP
+2440,White Katana Mk.I SP III,白刀SP
+2441,White Katana Mk.I SP IV,白刀SP
+2442,White Katana Mk.I SP V,白刀SP
+2443,White Katana Mk.I SP VI,白刀SP
+2444,White Katana Mk.I SP VII,白刀SP
 2445,Sealed Wht Flm LS SP I,太刀恩流浪白夫勒姆ＳＰⅠ
 2446,Sealed Wht Flm LS SP II,太刀恩流浪白夫勒姆ＳＰⅡ
 2447,Sealed Wht Flm LS SP III,太刀恩流浪白夫勒姆ＳＰⅢ
@@ -2451,13 +2451,13 @@ index,source,target
 2449,Sealed Wht Flm LS SP V,太刀恩流浪白夫勒姆ＳＰⅤ
 2450,Sealed Wht Flm LS SP VI,太刀恩流浪白夫勒姆ＳＰⅥ
 2451,Sealed Wht Flm LS SP VII,太刀恩流浪白夫勒姆ＳＰⅦ
-2452,Raging Fist SP I,拉吉恩拳ＳＰI
-2453,Raging Fist SP II,拉吉恩拳SPⅡ
-2454,Raging Fist SP III,拉吉恩拳SPⅢ
-2455,Raging Fist SP IV,拉吉恩拳SPⅣ
-2456,Raging Fist SP V,拉吉恩拳SPＶ
-2457,Raging Fist SP VI,拉吉恩拳SPⅥ
-2458,Raging Fist SP VII,拉吉恩拳SPⅦ
+2452,Raging Fist SP I,拉吉恩之SP
+2453,Raging Fist SP II,拉吉恩之SP
+2454,Raging Fist SP III,拉吉恩之SP
+2455,Raging Fist SP IV,拉吉恩之SP
+2456,Raging Fist SP V,拉吉恩之SP
+2457,Raging Fist SP VI,拉吉恩之SP
+2458,Raging Fist SP VII,拉吉恩之SP
 2459,Charon's Foe SPI,克哈阿爾歐恩S敵Ⅰ
 2460,Charon's Foe SPII,克哈阿爾歐恩S敵Ⅱ
 2461,Charon's Foe SPIII,克哈阿爾歐恩S敵Ⅲ
@@ -2465,13 +2465,13 @@ index,source,target
 2463,Charon's Foe SPV,克哈阿爾歐恩S敵Ⅴ
 2464,Charon's Foe SPVI,克哈阿爾歐恩S敵Ⅵ
 2465,Charon's Foe SPVII,克哈阿爾歐恩S敵Ⅶ
-2466,Gold Soil SP I,金土ＳＰI
-2467,Gold Soil SP II,金土ＳＰⅡ
-2468,Gold Soil SP III,金土ＳＰⅢ
-2469,Gold Soil SP IV,金土ＳＰⅣ
-2470,Gold Soil SP V,金土ＳＰＶ
-2471,Gold Soil SP VI,金土ＳＰⅥ
-2472,Gold Soil SP VII,金土ＳＰⅦ
+2466,Gold Soil SP I,金SP
+2467,Gold Soil SP II,金SP
+2468,Gold Soil SP III,金SP
+2469,Gold Soil SP IV,金SP
+2470,Gold Soil SP V,金SP
+2471,Gold Soil SP VI,金SP
+2472,Gold Soil SP VII,金SP
 2473,Dragonbone Flute SP I,龍骨笛ＳＰI
 2474,Dragonbone Flute SP II,龍骨笛ＳＰⅡ
 2475,Dragonbone Flute SP III,龍骨笛ＳＰⅢ
@@ -2514,27 +2514,27 @@ index,source,target
 2512,Paralysis Rapier SP V,麻痺細劍SP
 2513,Paralysis Rapier SP VI,麻痺細劍SP
 2514,Paralysis Rapier SP VII,麻痺細劍SP
-2515,White Fang SP I,白牙ＳＰI
-2516,White Fang SP II,白牙ＳＰⅡ
-2517,White Fang SP III,白牙ＳＰⅢ
-2518,White Fang SP IV,白牙ＳＰⅣ
-2519,White Fang SP V,白牙ＳＰＶ
-2520,White Fang SP VI,白牙ＳＰⅥ
-2521,White Fang SP VII,白牙ＳＰⅦ
-2522,Black Rose SP I,黒薔薇ＳＰI
-2523,Black Rose SP II,黒薔薇ＳＰⅡ
-2524,Black Rose SP III,黒薔薇ＳＰⅢ
-2525,Black Rose SP IV,黒薔薇ＳＰⅣ
-2526,Black Rose SP V,黒薔薇ＳＰＶ
-2527,Black Rose SP VI,黒薔薇ＳＰⅥ
-2528,Black Rose SP VII,黒薔薇ＳＰⅦ
-2529,Black Drgnwood LS SP I,太刀黑龍木ＳＰⅠ
-2530,Black Drgnwood LS SP II,太刀黑龍木ＳＰⅡ
-2531,Black Drgnwood LS SP III,太刀黑龍木ＳＰⅢ
-2532,Black Drgnwood LS SP IV,太刀黑龍木ＳＰⅣ
-2533,Black Drgnwood LS SP V,太刀黑龍木ＳＰⅤ
-2534,Black Drgnwood LS SP VI,太刀黑龍木ＳＰⅥ
-2535,Black Drgnwood LS SP VII,太刀黑龍木ＳＰⅦ
+2515,White Fang SP I,白SP
+2516,White Fang SP II,白SP
+2517,White Fang SP III,白SP
+2518,White Fang SP IV,白SP
+2519,White Fang SP V,白SP
+2520,White Fang SP VI,白SP
+2521,White Fang SP VII,白SP
+2522,Black Rose SP I,黑SP
+2523,Black Rose SP II,黑SP
+2524,Black Rose SP III,黑SP
+2525,Black Rose SP IV,黑SP
+2526,Black Rose SP V,黑SP
+2527,Black Rose SP VI,黑SP
+2528,Black Rose SP VII,黑SP
+2529,Black Drgnwood LS SP I,黑SP
+2530,Black Drgnwood LS SP II,黑SP
+2531,Black Drgnwood LS SP III,黑SP
+2532,Black Drgnwood LS SP IV,黑SP
+2533,Black Drgnwood LS SP V,黑SP
+2534,Black Drgnwood LS SP VI,黑SP
+2535,Black Drgnwood LS SP VII,黑SP
 2536,Lunatic Core SP I,狂核ＳＰⅠ
 2537,Lunatic Core SP II,狂核ＳＰⅡ
 2538,Lunatic Core SP III,狂核ＳＰⅢ
@@ -2542,13 +2542,13 @@ index,source,target
 2540,Lunatic Core SP V,狂核ＳＰⅤ
 2541,Lunatic Core SP VI,狂核ＳＰⅥ
 2542,Lunatic Core SP VII,狂核ＳＰⅦ
-2543,Silver Bell SP I,銀鈴ＳＰI
-2544,Silver Bell SP II,銀鈴ＳＰⅡ
-2545,Silver Bell SP III,銀鈴ＳＰⅢ
-2546,Silver Bell SP IV,銀鈴ＳＰⅣ
-2547,Silver Bell SP V,銀鈴ＳＰＶ
-2548,Silver Bell SP VI,銀鈴ＳＰⅥ
-2549,Silver Bell SP VII,銀鈴ＳＰⅦ
+2543,Silver Bell SP I,銀SP
+2544,Silver Bell SP II,銀SP
+2545,Silver Bell SP III,銀SP
+2546,Silver Bell SP IV,銀SP
+2547,Silver Bell SP V,銀SP
+2548,Silver Bell SP VI,銀SP
+2549,Silver Bell SP VII,銀SP
 2550,Darktail SP I,德阿爾克特阿伊勒ＳＰⅠ
 2551,Darktail SP II,德阿爾克特阿伊勒ＳＰⅡ
 2552,Darktail SP III,德阿爾克特阿伊勒ＳＰⅢ
@@ -2598,13 +2598,13 @@ index,source,target
 2596,Large Ambergem SP V,大阿姆布艾爾格艾姆ＳＰⅤ
 2597,Large Ambergem SP VI,大阿姆布艾爾格艾姆ＳＰⅥ
 2598,Large Ambergem SP VII,大阿姆布艾爾格艾姆ＳＰⅦ
-2599,Pure Chordmaker SP I,純和弦ＳＰⅠ
-2600,Pure Chordmaker SP II,純和弦ＳＰⅡ
-2601,Pure Chordmaker SP III,純和弦ＳＰⅢ
-2602,Pure Chordmaker SP IV,純和弦ＳＰⅣ
-2603,Pure Chordmaker SP V,純和弦ＳＰⅤ
-2604,Pure Chordmaker SP VI,純和弦ＳＰⅥ
-2605,Pure Chordmaker SP VII,純和弦ＳＰⅦ
+2599,Pure Chordmaker SP I,純SP
+2600,Pure Chordmaker SP II,純SP
+2601,Pure Chordmaker SP III,純SP
+2602,Pure Chordmaker SP IV,純SP
+2603,Pure Chordmaker SP V,純SP
+2604,Pure Chordmaker SP VI,純SP
+2605,Pure Chordmaker SP VII,純SP
 2606,Chevalier SP I,騎士ＳＰⅠ
 2607,Chevalier SP II,騎士ＳＰⅡ
 2608,Chevalier SP III,騎士ＳＰⅢ
@@ -2626,20 +2626,20 @@ index,source,target
 2624,Red Cat Stick SP V,赤猫棒SP
 2625,Red Cat Stick SP VI,赤猫棒SP
 2626,Red Cat Stick SP VII,赤猫棒SP
-2627,Aqua Sabers SP I,水軍刀ＳＰⅠ
-2628,Aqua Sabers SP II,水軍刀ＳＰⅡ
-2629,Aqua Sabers SP III,水軍刀ＳＰⅢ
-2630,Aqua Sabers SP IV,水軍刀ＳＰⅣ
-2631,Aqua Sabers SP V,水軍刀ＳＰⅤ
-2632,Aqua Sabers SP VI,水軍刀ＳＰⅥ
-2633,Aqua Sabers SP VII,水軍刀ＳＰⅦ
-2634,Black Ice GS SP I,大劍黒氷ＳＰI
-2635,Black Ice GS SP II,大劍黒氷ＳＰⅡ
-2636,Black Ice GS SP III,大劍黒氷ＳＰⅢ
-2637,Black Ice GS SP IV,大劍黒氷ＳＰⅣ
-2638,Black Ice GS SP V,大劍黒氷ＳＰＶ
-2639,Black Ice GS SP VI,大劍黒氷ＳＰⅥ
-2640,Black Ice GS SP VII,大劍黒氷ＳＰⅦ
+2627,Aqua Sabers SP I,水SP
+2628,Aqua Sabers SP II,水SP
+2629,Aqua Sabers SP III,水SP
+2630,Aqua Sabers SP IV,水SP
+2631,Aqua Sabers SP V,水SP
+2632,Aqua Sabers SP VI,水SP
+2633,Aqua Sabers SP VII,水SP
+2634,Black Ice GS SP I,黑SPGS
+2635,Black Ice GS SP II,黑SPGS
+2636,Black Ice GS SP III,黑SPGS
+2637,Black Ice GS SP IV,黑SPGS
+2638,Black Ice GS SP V,黑SPGS
+2639,Black Ice GS SP VI,黑SPGS
+2640,Black Ice GS SP VII,黑SPGS
 2641,Snowdance Saber SP I,斯恩歐瓦德阿恩克劍ＳＰⅠ
 2642,Snowdance Saber SP II,斯恩歐瓦德阿恩克劍ＳＰⅡ
 2643,Snowdance Saber SP III,斯恩歐瓦德阿恩克劍ＳＰⅢ
@@ -2654,13 +2654,13 @@ index,source,target
 2652,Purple Bear SP V,紫熊ＳＰⅤ
 2653,Purple Bear SP VI,紫熊ＳＰⅥ
 2654,Purple Bear SP VII,紫熊ＳＰⅦ
-2655,Golden Cat Flute SP I,黄金猫笛ＳＰI
-2656,Golden Cat Flute SP II,黄金猫笛ＳＰⅡ
-2657,Golden Cat Flute SP III,黄金猫笛ＳＰⅢ
-2658,Golden Cat Flute SP IV,黄金猫笛ＳＰⅣ
-2659,Golden Cat Flute SP V,黄金猫笛ＳＰＶ
-2660,Golden Cat Flute SP VI,黄金猫笛ＳＰⅥ
-2661,Golden Cat Flute SP VII,黄金猫笛ＳＰⅦ
+2655,Golden Cat Flute SP I,金SP
+2656,Golden Cat Flute SP II,金SP
+2657,Golden Cat Flute SP III,金SP
+2658,Golden Cat Flute SP IV,金SP
+2659,Golden Cat Flute SP V,金SP
+2660,Golden Cat Flute SP VI,金SP
+2661,Golden Cat Flute SP VII,金SP
 2662,Black Ice Spear SPI,冰黑矛Ⅰ
 2663,Black Ice Spear SPII,冰黑矛Ⅱ
 2664,Black Ice Spear SPIII,冰黑矛Ⅲ
@@ -2668,13 +2668,13 @@ index,source,target
 2666,Black Ice Spear SPV,冰黑矛Ⅴ
 2667,Black Ice Spear SPVI,冰黑矛Ⅵ
 2668,Black Ice Spear SPVII,冰黑矛Ⅶ
-2669,Howl in the Dark SP I,咆哮闇ＳＰI
-2670,Howl in the Dark SP II,咆哮闇SPⅡ
-2671,Howl in the Dark SP III,咆哮闇SPⅢ
-2672,Howl in the Dark SP IV,咆哮闇SPⅣ
-2673,Howl in the Dark SP V,咆哮闇SPＶ
-2674,Howl in the Dark SP VI,咆哮闇SPⅥ
-2675,Howl in the Dark SP VII,咆哮闇SPⅦ
+2669,Howl in the Dark SP I,咆哮SP
+2670,Howl in the Dark SP II,咆哮SP
+2671,Howl in the Dark SP III,咆哮SP
+2672,Howl in the Dark SP IV,咆哮SP
+2673,Howl in the Dark SP V,咆哮SP
+2674,Howl in the Dark SP VI,咆哮SP
+2675,Howl in the Dark SP VII,咆哮SP
 2676,Carbuncle Sword SP I,克阿爾布烏恩克勒劍ＳＰⅠ
 2677,Carbuncle Sword SP II,克阿爾布烏恩克勒劍ＳＰⅡ
 2678,Carbuncle Sword SP III,克阿爾布烏恩克勒劍ＳＰⅢ
@@ -2689,13 +2689,13 @@ index,source,target
 2687,Obsidian SP V,黒曜石SP
 2688,Obsidian SP VI,黒曜石SP
 2689,Obsidian SP VII,黒曜石SP
-2690,Soul Crash SP I,魂克阿修ＳＰⅠ
-2691,Soul Crash SP II,魂克阿修ＳＰⅡ
-2692,Soul Crash SP III,魂克阿修ＳＰⅢ
-2693,Soul Crash SP IV,魂克阿修ＳＰⅣ
-2694,Soul Crash SP V,魂克阿修ＳＰⅤ
-2695,Soul Crash SP VI,魂克阿修ＳＰⅥ
-2696,Soul Crash SP VII,魂克阿修ＳＰⅦ
+2690,Soul Crash SP I,魂SP
+2691,Soul Crash SP II,魂SP
+2692,Soul Crash SP III,魂SP
+2693,Soul Crash SP IV,魂SP
+2694,Soul Crash SP V,魂SP
+2695,Soul Crash SP VI,魂SP
+2696,Soul Crash SP VII,魂SP
 2697,Grenado SP I,格艾娜多ＳＰⅠ
 2698,Grenado SP II,格艾娜多ＳＰⅡ
 2699,Grenado SP III,格艾娜多ＳＰⅢ
@@ -2752,13 +2752,13 @@ index,source,target
 2750,Lg Crimson Lotus SP V,大深紅蓮ＳＰⅤ
 2751,Lg Crimson Lotus SP VI,大深紅蓮ＳＰⅥ
 2752,Lg Crimson Lotus SP VII,大深紅蓮ＳＰⅦ
-2753,Blood Sonic SP I,血音ＳＰI
-2754,Blood Sonic SP II,血音ＳＰⅡ
-2755,Blood Sonic SP III,血音ＳＰⅢ
-2756,Blood Sonic SP IV,血音ＳＰⅣ
-2757,Blood Sonic SP V,血音ＳＰＶ
-2758,Blood Sonic SP VI,血音ＳＰⅥ
-2759,Blood Sonic SP VII,血音ＳＰⅦ
+2753,Blood Sonic SP I,血SP
+2754,Blood Sonic SP II,血SP
+2755,Blood Sonic SP III,血SP
+2756,Blood Sonic SP IV,血SP
+2757,Blood Sonic SP V,血SP
+2758,Blood Sonic SP VI,血SP
+2759,Blood Sonic SP VII,血SP
 2760,Venomous Wolf SPI,維艾恩歐姆歐烏斯狼Ⅰ
 2761,Venomous Wolf SPII,維艾恩歐姆歐烏斯狼Ⅱ
 2762,Venomous Wolf SPIII,維艾恩歐姆歐烏斯狼Ⅲ
@@ -2773,20 +2773,20 @@ index,source,target
 2771,Red Cat Horn SP V,赤猫角SP
 2772,Red Cat Horn SP VI,赤猫角SP
 2773,Red Cat Horn SP VII,赤猫角SP
-2774,Aqua Lancia SP I,水槍ＳＰⅠ
-2775,Aqua Lancia SP II,水槍ＳＰⅡ
-2776,Aqua Lancia SP III,水槍ＳＰⅢ
-2777,Aqua Lancia SP IV,水槍ＳＰⅣ
-2778,Aqua Lancia SP V,水槍ＳＰⅤ
-2779,Aqua Lancia SP VI,水槍ＳＰⅥ
-2780,Aqua Lancia SP VII,水槍ＳＰⅦ
-2781,Ice Cancer SP I,冰巨蟹ＳＰI
-2782,Ice Cancer SP II,冰巨蟹SPⅡ
-2783,Ice Cancer SP III,冰巨蟹SPⅢ
-2784,Ice Cancer SP IV,冰巨蟹SPⅣ
-2785,Ice Cancer SP V,冰巨蟹SPＶ
-2786,Ice Cancer SP VI,冰巨蟹SPⅥ
-2787,Ice Cancer SP VII,冰巨蟹SPⅦ
+2774,Aqua Lancia SP I,水SP
+2775,Aqua Lancia SP II,水SP
+2776,Aqua Lancia SP III,水SP
+2777,Aqua Lancia SP IV,水SP
+2778,Aqua Lancia SP V,水SP
+2779,Aqua Lancia SP VI,水SP
+2780,Aqua Lancia SP VII,水SP
+2781,Ice Cancer SP I,冰SP
+2782,Ice Cancer SP II,冰SP
+2783,Ice Cancer SP III,冰SP
+2784,Ice Cancer SP IV,冰SP
+2785,Ice Cancer SP V,冰SP
+2786,Ice Cancer SP VI,冰SP
+2787,Ice Cancer SP VII,冰SP
 2788,,
 2789,,
 2790,,
@@ -4261,21 +4261,21 @@ index,source,target
 4259,Revolving Flail,爾艾維歐勒維伊恩鎖鎚
 4260,Spinning Flail,斯普伊恩恩伊恩格鎖鎚
 4261,Whirling Flail,瓦哈伊爾勒伊恩格鎖鎚
-4262,Blue Strafe I,青斯拉菲I
-4263,Blue Strafe II,青斯拉菲Ⅱ
-4264,Blue Strafe III,青斯拉菲Ⅲ
+4262,Blue Strafe I,青Ⅰ
+4263,Blue Strafe II,青ⅠⅠ
+4264,Blue Strafe III,青ⅠⅠⅠ
 4265,GrafSchnee,ＧＲFSＣHN老老
-4266,Red Strafe I,赤斯拉菲I
-4267,Red Strafe II,赤斯拉菲Ⅱ
-4268,Red Strafe III,赤斯拉菲Ⅲ
+4266,Red Strafe I,赤Ⅰ
+4267,Red Strafe II,赤ⅠⅠ
+4268,Red Strafe III,赤ⅠⅠⅠ
 4269,Echt Grundzahl,艾克哈特格爾烏恩德茲阿哈
 4270,Yellow Strafe I,黄斯拉菲I
 4271,Yellow Strafe II,黄斯拉菲Ⅱ
 4272,Yellow Strafe III,黄斯拉菲Ⅲ
 4273,Dire Blitz,駭閃撃
-4274,Aqua Strafe I,水斯拉菲I
-4275,Aqua Strafe II,水斯拉菲Ⅱ
-4276,Aqua Strafe III,水斯拉菲Ⅲ
+4274,Aqua Strafe I,水Ⅰ
+4275,Aqua Strafe II,水ⅠⅠ
+4276,Aqua Strafe III,水ⅠⅠⅠ
 4277,Flussigkeit,夫勒烏斯斯伊格克
 4278,Pale Strafe I,蒼斯拉菲I
 4279,Pale Strafe II,蒼斯拉菲Ⅱ
@@ -4356,9 +4356,9 @@ index,source,target
 4354,Scale Rivana II,鱗里瓦娜ⅠⅠ
 4355,Scale Rivana III,鱗里瓦娜ⅠⅠⅠ
 4356,Scale Punish,鱗普尼修
-4357,Desert Sand I,砂漠砂I
-4358,Desert Sand II,砂漠砂Ⅱ
-4359,Desert Sand III,砂漠砂Ⅲ
+4357,Desert Sand I,沙漠Ⅰ
+4358,Desert Sand II,沙漠ⅠⅠ
+4359,Desert Sand III,沙漠ⅠⅠⅠ
 4360,Desert Trick,Ｄ老S老ＲTTＲIＣｋ
 4361,Rubino Hawk I,紅玉鷹Ⅰ
 4362,Rubino Hawk II,紅玉鷹ⅠⅠ
@@ -5069,13 +5069,13 @@ index,source,target
 5067,Blue Porta Lance Ⅱ,青波爾塔長槍Ⅱ
 5068,Blue Porta Lance Ⅲ,青波爾塔長槍Ⅲ
 5069,Tenelle Hasta,特艾恩艾勒勒艾槍
-5070,Black Porta Lance Ⅰ,長槍黒波爾塔Ⅰ
-5071,Black Porta Lance Ⅱ,長槍黒波爾塔Ⅱ
-5072,Black Porta Lance Ⅲ,長槍黒波爾塔Ⅲ
+5070,Black Porta Lance Ⅰ,黑長槍Ⅰ
+5071,Black Porta Lance Ⅱ,黑長槍Ⅱ
+5072,Black Porta Lance Ⅲ,黑長槍Ⅲ
 5073,Sidd Hasta,斯伊德德槍
-5074,White Porta Lance Ⅰ,長槍白波爾塔Ⅰ
-5075,White Porta Lance Ⅱ,長槍白波爾塔Ⅱ
-5076,White Porta Lance Ⅲ,長槍白波爾塔Ⅲ
+5074,White Porta Lance Ⅰ,白長槍Ⅰ
+5075,White Porta Lance Ⅱ,白長槍Ⅱ
+5076,White Porta Lance Ⅲ,白長槍Ⅲ
 5077,Patie Hasta,波蒂槍
 5078,Red Porta Lance Ⅰ,赤波爾塔長槍Ⅰ
 5079,Red Porta Lance Ⅱ,赤波爾塔長槍Ⅱ
@@ -5085,9 +5085,9 @@ index,source,target
 5083,Orange Porta Lance Ⅱ,長槍橙波爾塔Ⅱ
 5084,Orange Porta Lance Ⅲ,長槍橙波爾塔Ⅲ
 5085,Alacer Hasta,阿勒阿克艾爾槍
-5086,Sky Porta Lance Ⅰ,長槍空波爾塔Ⅰ
-5087,Sky Porta Lance Ⅱ,長槍空波爾塔Ⅱ
-5088,Sky Porta Lance Ⅲ,長槍空波爾塔Ⅲ
+5086,Sky Porta Lance Ⅰ,天空長槍Ⅰ
+5087,Sky Porta Lance Ⅱ,天空長槍Ⅱ
+5088,Sky Porta Lance Ⅲ,天空長槍Ⅲ
 5089,Prudens Hasta,普爾烏德艾恩斯槍
 5090,Dark Thunder Gunlance,雷闇銃槍
 5091,Dark Cassowary Gunlance,銃槍暗克阿斯斯歐瓦阿爾
@@ -7311,9 +7311,9 @@ index,source,target
 7309,Cut Cancer,切巨蟹
 7310,Shear Cancer,SH老ＲＣNＣ老Ｒ
 7311,ダミー,假
-7312,Aqua Blitz SPⅠ,水閃撃ＳＰⅠ
-7313,Aqua Blitz SPⅡ,水閃撃ＳＰⅡ
-7314,Aqua Blitz SPⅢ,水閃撃ＳＰⅢ
+7312,Aqua Blitz SPⅠ,水SPⅠ
+7313,Aqua Blitz SPⅡ,水SPⅡ
+7314,Aqua Blitz SPⅢ,水SPⅢ
 7315,Aqua Blitz SPⅣ,水閃撃ＳＰⅣ
 7316,Aqua Blitz SPⅤ,水閃撃ＳＰⅤ
 7317,Aqua Blitz SPⅥ,水閃撃ＳＰⅥ
@@ -7490,9 +7490,9 @@ index,source,target
 7488,"Thunder Spear ""Roar""",雷槍Roar
 7489,"Thunder Spear ""Rumble""",雷槍Rumble
 7490,"Thunder Spear ""Sunder""",雷槍Sunder
-7491,Don Frozen SPⅠ,堂凍結ＳＰⅠ
-7492,Don Frozen SPⅡ,堂凍結ＳＰⅡ
-7493,Don Frozen SPⅢ,堂凍結ＳＰⅢ
+7491,Don Frozen SPⅠ,堂SPⅠ
+7492,Don Frozen SPⅡ,堂SPⅡ
+7493,Don Frozen SPⅢ,堂SPⅢ
 7494,Don Frozen SPⅣ,堂凍結ＳＰⅣ
 7495,Don Frozen SPⅤ,堂凍結ＳＰⅤ
 7496,Don Frozen SPⅥ,堂凍結ＳＰⅥ
@@ -8269,11 +8269,11 @@ index,source,target
 8267,"Gilded Lightedge ""Dai""",格伊勒德艾德勒伊格哈特艾德格達伊
 8268,"Azure Lightedge ""Dai""",蒼勒伊格哈特艾德格達伊
 8269,"Gilded Lightedge ""Dai""",格伊勒德艾德勒伊格哈特艾德格達伊
-8270,Gold Sword of Victory Ⅰ,金劍征服拉Ⅰ
-8271,Gold Sword of Victory Ⅱ,金劍征服拉Ⅱ
-8272,Gold Sword of Victory Ⅲ,金劍征服拉Ⅲ
-8273,Gold Sword of Victory Ⅳ,金劍征服拉Ⅳ
-8274,Gold Sword of Victory Ⅴ,金劍征服拉Ⅴ
+8270,Gold Sword of Victory Ⅰ,金劍Ⅰ
+8271,Gold Sword of Victory Ⅱ,金劍Ⅱ
+8272,Gold Sword of Victory Ⅲ,金劍Ⅲ
+8273,Gold Sword of Victory Ⅳ,金劍Ⅳ
+8274,Gold Sword of Victory Ⅴ,金劍Ⅴ
 8275,Fiducito,菲杜西托
 8276,Fortissimo,夫歐爾特伊斯斯伊
 8277,"Dragonreaper ""Prison""",德爾阿格歐恩爾艾獄
@@ -8334,28 +8334,28 @@ index,source,target
 8332,"New Ice Cream ""Yellow",新氷乳黄
 8333,Fruity Sleep Ball,睡眠夫爾烏伊特伊球
 8334,Thick Sleep Ice,睡眠厚氷
-8335,Ice Fruit,冰果實
+8335,Ice Fruit,冰
 8336,Fruity Sleep Ball,睡眠夫爾烏伊特伊球
 8337,Thick Sleep Ice,睡眠厚氷
-8338,Ice Fruit,冰果實
+8338,Ice Fruit,冰
 8339,Fruity Sleep Ball,睡眠夫爾烏伊特伊球
 8340,Thick Sleep Ice,睡眠厚氷
-8341,Ice Fruit,冰果實
+8341,Ice Fruit,冰
 8342,Fruity Sleep Ball,睡眠夫爾烏伊特伊球
 8343,Thick Sleep Ice,睡眠厚氷
-8344,Ice Fruit,冰果實
+8344,Ice Fruit,冰
 8345,Fruity Sleep Ball,睡眠夫爾烏伊特伊球
 8346,Thick Sleep Ice,睡眠厚氷
-8347,Ice Fruit,冰果實
+8347,Ice Fruit,冰
 8348,Fruity Sleep Ball,睡眠夫爾烏伊特伊球
 8349,Thick Sleep Ice,睡眠厚氷
-8350,Ice Fruit,冰果實
+8350,Ice Fruit,冰
 8351,Fruity Sleep Ball,睡眠夫爾烏伊特伊球
 8352,Thick Sleep Ice,睡眠厚氷
-8353,Ice Fruit,冰果實
+8353,Ice Fruit,冰
 8354,Fruity Sleep Ball,睡眠夫爾烏伊特伊球
 8355,Thick Sleep Ice,睡眠厚氷
-8356,Ice Fruit,冰果實
+8356,Ice Fruit,冰
 8357,Miku Solo,未來索洛
 8358,Miku Duo,未來雙
 8359,Miku Trio,未來特伊歐
@@ -12264,15 +12264,15 @@ index,source,target
 12262,E62F・天耀朧剣【真月】,E62F・天耀朧剣【真月】
 12263,Moon Crater,月克爾阿特艾爾
 12264,"Moonlit View ""Fragrance""",姆歐歐恩勒伊特維伊艾瓦瓦里艾
-12265,Caravan Fissure,ＣＲⅤNFⅠSSＵＲ老
-12266,Caravan Fissure Ⅱ,ＣＲⅤNFⅠSSＵＲ老
-12267,Caravan Fissure Ⅲ,ＣＲⅤNFⅠSSＵＲ老
+12265,Caravan Fissure,旅團
+12266,Caravan Fissure Ⅱ,旅團Ⅱ
+12267,Caravan Fissure Ⅲ,旅團Ⅲ
 12268,Caravan Buster,旅團破壞
 12269,Caravan Buster Ⅱ,旅團破壞Ⅱ
 12270,Caravan Buster Ⅲ,旅團破壞Ⅲ
-12271,Caravan Fife,ＣＲⅤNFⅠF老
-12272,Caravan Fife Ⅱ,ＣＲⅤNFⅠF老
-12273,Caravan Fife Ⅲ,ＣＲⅤNFⅠF老
+12271,Caravan Fife,旅團
+12272,Caravan Fife Ⅱ,旅團Ⅱ
+12273,Caravan Fife Ⅲ,旅團Ⅲ
 12274,Caravan Blastspear,旅團布勒阿斯特斯普艾
 12275,Caravan Blastspear Ⅱ,旅團布勒阿斯特斯普艾Ⅱ
 12276,Caravan Blastspear Ⅲ,旅團布勒阿斯特斯普艾Ⅲ
@@ -12893,7 +12893,7 @@ index,source,target
 12891,5B32・ルストイデアル,5B32・魯蘇托伊德阿魯
 12892,5C32・ヘルトカピール,5C32・赫魯托可皮魯
 12893,5D32・ヘルトファーティ,5D32・赫魯托法提
-12894,Beta Knife Monochrome Ⅲ,β刀莫諾奇羅梅Ⅲ
+12894,Beta Knife Monochrome Ⅲ,β刀Ⅲ
 12895,Elegant Empress Katana,優雅女帝刀
 12896,6032・エリモスリーデル,6032・艾里莫蘇里德魯
 12897,6132・エリモスムナール,6132・艾里莫蘇穆娜魯
@@ -13056,11 +13056,11 @@ index,source,target
 13054,FE32・ツインプレッニャー,FE32・特斯烏伊恩普烏爾
 13055,FF32・ツインスマッニャー,FF32・特斯烏伊恩斯烏姆
 13056,0033・ガルバポプラ,0033・加魯巴波普拉
-13057,Beta Knife Monochrome,β刀莫諾奇羅梅
-13058,Beta Knife Monochrome Ⅱ,β刀莫諾奇羅梅Ⅱ
-13059,Beta Knife Monochrome Ⅳ,β刀莫諾奇羅梅Ⅳ
-13060,Beta Knife Monochrome Ⅴ,β刀莫諾奇羅梅Ⅴ
-13061,Beta Knife Monochrome Ⅵ,β刀莫諾奇羅梅Ⅵ
+13057,Beta Knife Monochrome,β刀
+13058,Beta Knife Monochrome Ⅱ,β刀Ⅱ
+13059,Beta Knife Monochrome Ⅳ,β刀Ⅳ
+13060,Beta Knife Monochrome Ⅴ,β刀Ⅴ
+13061,Beta Knife Monochrome Ⅵ,β刀Ⅵ
 13062,Big Katanya Ⅰ,大克阿特阿恩伊阿Ⅰ
 13063,Big Katanya Ⅱ,大克阿特阿恩伊阿Ⅱ
 13064,Big Katanya Ⅲ,大克阿特阿恩伊阿Ⅲ
@@ -14061,9 +14061,9 @@ index,source,target
 14059,Parone Lance Ⅱ,拍隆長槍Ⅱ
 14060,Parone Lance Ⅲ,拍隆長槍Ⅲ
 14061,Parone Spear,拍隆槍
-14062,Parone Gun Spear Ⅰ,波羅涅銃矛Ⅰ
-14063,Parone Gun Spear Ⅱ,波羅涅銃矛Ⅱ
-14064,Parone Gun Spear Ⅲ,波羅涅銃矛Ⅲ
+14062,Parone Gun Spear Ⅰ,拍隆槍Ⅰ
+14063,Parone Gun Spear Ⅱ,拍隆槍Ⅱ
+14064,Parone Gun Spear Ⅲ,拍隆槍Ⅲ
 14065,Parone Gunlance,拍隆銃槍
 14066,Parone Tonfa,拍隆穿龍棍
 14067,F336・ガウニャメリー,F336・格阿烏恩伊阿姆艾

@@ -81,7 +81,7 @@ index,source,target
 79,Wild Bow III,狂野弓ⅠⅠⅠ
 80,Power Wild Bow II,弓力量野Ⅱ
 81,Queen Blaster II,女王爆裂ⅠⅠ
-82,Heart Shot Bow II,弓心弾Ⅱ
+82,Heart Shot Bow II,心弓ⅠⅠ
 83,Prominence Bow II,弓日珥Ⅱ
 84,Sonic Bow III,弓音Ⅲ
 85,Blos Horn Bow II,角龍角弓Ⅱ
@@ -113,7 +113,7 @@ index,source,target
 111,Wild Bow II,狂野弓ⅠⅠ
 112,Power Wild Bow I,弓力量野I
 113,Queen Blaster I,女王爆裂Ⅰ
-114,Heart Shot Bow I,弓心弾I
+114,Heart Shot Bow I,心弓Ⅰ
 115,Prominence Bow I,弓日珥I
 116,Sonic Bow I,弓音I
 117,Sonic Bow II,弓音Ⅱ
@@ -370,9 +370,9 @@ index,source,target
 368,P.Master Bow SPⅤ,弓P達人ＳＰⅤ
 369,P.Master Bow SPⅥ,弓P達人ＳＰⅥ
 370,P.Master Bow SPⅦ,弓P達人ＳＰⅦ
-371,Dark Full Bow SPⅠ,弓闇全SPⅠ
-372,Dark Full Bow SPⅡ,弓闇全SPⅡ
-373,Dark Full Bow SPⅢ,弓闇全SPⅢ
+371,Dark Full Bow SPⅠ,闇弓SPⅠ
+372,Dark Full Bow SPⅡ,闇弓SPⅡ
+373,Dark Full Bow SPⅢ,闇弓SPⅢ
 374,Dark Full Bow SPⅣ,弓闇全SPⅣ
 375,Dark Full Bow SPⅤ,弓闇全SPⅤ
 376,Dark Full Bow SPⅥ,弓闇全SPⅥ
@@ -398,20 +398,20 @@ index,source,target
 396,Dragonsoul Bow SPⅤ,弓龍魂SPⅤ
 397,Dragonsoul Bow SPⅥ,弓龍魂SPⅥ
 398,Dragonsoul Bow SPⅦ,弓龍魂SPⅦ
-399,Flame Beat SP Ⅰ,炎拍ＳＰⅠ
-400,Flame Beat SP Ⅱ,炎拍ＳＰⅡ
-401,Flame Beat SP Ⅲ,炎拍ＳＰⅢ
-402,Flame Beat SP Ⅳ,炎拍ＳＰⅣ
-403,Flame Beat SP Ⅴ,炎拍ＳＰⅤ
-404,Flame Beat SP Ⅵ,炎拍ＳＰⅥ
-405,Flame Beat SP Ⅶ,炎拍ＳＰⅦ
-406,Aqua Feather SP Ⅰ,水羽ＳＰⅠ
-407,Aqua Feather SP Ⅱ,水羽ＳＰⅡ
-408,Aqua Feather SP Ⅲ,水羽ＳＰⅢ
-409,Aqua Feather SP Ⅳ,水羽ＳＰⅣ
-410,Aqua Feather SP Ⅴ,水羽ＳＰⅤ
-411,Aqua Feather SP Ⅵ,水羽ＳＰⅥ
-412,Aqua Feather SP Ⅶ,水羽ＳＰⅦ
+399,Flame Beat SP Ⅰ,炎SP
+400,Flame Beat SP Ⅱ,炎SP
+401,Flame Beat SP Ⅲ,炎SP
+402,Flame Beat SP Ⅳ,炎SP
+403,Flame Beat SP Ⅴ,炎SP
+404,Flame Beat SP Ⅵ,炎SP
+405,Flame Beat SP Ⅶ,炎SP
+406,Aqua Feather SP Ⅰ,水SP
+407,Aqua Feather SP Ⅱ,水SP
+408,Aqua Feather SP Ⅲ,水SP
+409,Aqua Feather SP Ⅳ,水SP
+410,Aqua Feather SP Ⅴ,水SP
+411,Aqua Feather SP Ⅵ,水SP
+412,Aqua Feather SP Ⅶ,水SP
 413,Black Swan Gift SPⅠ,黑天鵝贈礼SPⅠ
 414,Black Swan Gift SPⅡ,黑天鵝贈礼SPⅡ
 415,Black Swan Gift SPⅢ,黑天鵝贈礼SPⅢ
@@ -804,9 +804,9 @@ index,source,target
 802,Aquila Bow+,弓阿奎伊拉＋
 803,"Aquila Bow ""Cosmic""",弓阿奎伊拉克歐斯姆伊克
 804,"Aquila Bow ""Comet""",弓阿奎伊拉彗星
-805,Soul Star I,魂星I
-806,Soul Star II,魂星Ⅱ
-807,Soul Star III,魂星Ⅲ
+805,Soul Star I,魂Ⅰ
+806,Soul Star II,魂ⅠⅠ
+807,Soul Star III,魂ⅠⅠⅠ
 808,Soul Planetes,魂普勒阿恩艾特艾斯
 809,Steel Raven Ⅴ,鋼渡鴉Ⅴ
 810,Melanin Shooter SP,姆艾勒阿恩伊恩射手SP
@@ -1329,7 +1329,7 @@ index,source,target
 1327,Vashimu Blaster,尾晶蠍爆裂
 1328,"Black Bow ""Mist""",黒弓Mist
 1329,"Deep Sea Bow ""Ryugu""",弓深海里烏古
-1330,Heart Shot Bow III,弓心弾Ⅲ
+1330,Heart Shot Bow III,心弓ⅠⅠⅠ
 1331,"Dragon Bow ""Ruins""",龍弓Ruins
 1332,Fortea Flatus,夫歐爾特艾阿夫勒阿特烏斯
 1333,3505・アートルマテリア,3505・阿托魯瑪特里阿
@@ -2780,9 +2780,9 @@ index,source,target
 2778,ダミー,假
 2779,Caravan Roar Gun Ⅱ,咆哮旅團銃Ⅱ
 2780,Caravan Roar Gun Ⅲ,咆哮旅團銃Ⅲ
-2781,Caravan Sun Bow,弓旅團日
-2782,Caravan Sun Bow Ⅱ,弓旅團日Ⅱ
-2783,Caravan Sun Bow Ⅲ,弓旅團日Ⅲ
+2781,Caravan Sun Bow,旅團弓
+2782,Caravan Sun Bow Ⅱ,旅團弓Ⅱ
+2783,Caravan Sun Bow Ⅲ,旅團弓Ⅲ
 2784,Black Cat Barrel Mk4,黑猫桶Mk４
 2785,Black Cat Barrel Mk5,黑猫桶Mk５
 2786,Black Cat Barrel Mk6,黑猫桶Mk６
@@ -3766,12 +3766,12 @@ index,source,target
 3764,ダミー,假
 3765,ダミー,假
 3766,Festival Sakura Bow,弓祭典桜
-3767,Grim Reaper I,格爾伊姆爾艾阿普艾爾I
-3768,Grim Reaper II,格爾伊姆爾艾阿普艾爾Ⅱ
-3769,Grim Reaper III,格爾伊姆爾艾阿普艾爾Ⅲ
-3770,Grim Reaper IV,格爾伊姆爾艾阿普艾爾Ⅳ
-3771,Grim Reaper V,格爾伊姆爾艾阿普艾爾Ｖ
-3772,Grim Reaper VI,格爾伊姆爾艾阿普艾爾Ⅵ
+3767,Grim Reaper I,格爾伊姆Ⅰ
+3768,Grim Reaper II,格爾伊姆ⅠⅠ
+3769,Grim Reaper III,格爾伊姆ⅠⅠⅠ
+3770,Grim Reaper IV,格爾伊姆ⅠⅤ
+3771,Grim Reaper V,格爾伊姆Ⅴ
+3772,Grim Reaper VI,格爾伊姆ⅤⅠ
 3773,BD0E・暴乱ヲ鎮圧ス天雷弓,BD0E・暴乱WO鎮圧SU天雷弓
 3774,Le Lumiere,魯米艾雷
 3775,Le Vertu,維艾爾特烏

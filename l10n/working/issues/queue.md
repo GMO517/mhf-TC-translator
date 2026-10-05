@@ -9,7 +9,7 @@
 
 | CATEGORY | 進度 | 批次產物 | 下一筆 |
 |---|---|---|---|
-| **weapons** 分層 series-dict | in_progress | `issues/weapons/series-dict.tsv`（S+A+B）；`qa-weapons.md` | B 待查 275→P1；P3b wash；**未**回寫 mhfdat |
+| **weapons** 分層 series-dict | in_progress | `series-dict.tsv`（731 定稿／**192** pending）；`qa-p3b-wash-hits.tsv`（831） | 清 B pending；P3b nick／語意；C 僅 infer 增量；**未**回寫 mhfdat |
 | Gate4 延伸（任務／UI／劇情） | pending | — | 見 `docs/TODO.md` Gate4；疑問→`armors/open-questions.md` Q-02 |
 
 ## 待獨立 QA

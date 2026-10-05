@@ -1,0 +1,832 @@
+section	index	source	target	stem
+weapons-melee-name	11	"Iron Katana ""Grace"""	鐵刀Grace	Iron
+weapons-melee-name	12	"Iron Katana ""Gospel"""	鐵刀Gospel	Iron
+weapons-melee-name	13	"Bone Katana ""Wolf"""	骨製刀Wolf	Bone
+weapons-melee-name	14	"Bone Katana ""Shark"""	骨製刀Shark	Bone
+weapons-melee-name	15	"Bone Katana ""Dragon"""	骨製刀Dragon	Bone
+weapons-melee-name	16	Black Katana Mk.Ⅰ	黒刀Mk.Ⅰ	Black
+weapons-melee-name	17	Black Katana Mk.Ⅱ	黒刀Mk.Ⅱ	Black
+weapons-melee-name	843	Darkness	ＤＲｋN老SS	Darkness
+weapons-melee-name	882	BC Slicer Ⅰ	BC斬撃Ⅰ	BC Slicer
+weapons-melee-name	883	BC Slicer Ⅱ	BC斬撃Ⅱ	BC Slicer
+weapons-melee-name	884	BC Slicer Ⅲ	BC斬撃Ⅲ	BC Slicer
+weapons-melee-name	1507	Dark Princess SP Ⅰ	闇SP	Dark Princess
+weapons-melee-name	1508	Dark Princess SP Ⅱ	闇SP	Dark Princess
+weapons-melee-name	1509	Dark Princess SP Ⅲ	闇SP	Dark Princess
+weapons-melee-name	1510	Dark Princess SP Ⅳ	闇SP	Dark Princess
+weapons-melee-name	1511	Dark Princess SP Ⅴ	闇SP	Dark Princess
+weapons-melee-name	1512	Dark Princess SP Ⅵ	闇SP	Dark Princess
+weapons-melee-name	1513	Dark Princess SP Ⅶ	闇SP	Dark Princess
+weapons-melee-name	1514	Emerald Edge SP Ⅰ	祖母緑刃SP	Emerald
+weapons-melee-name	1515	Emerald Edge SP Ⅱ	祖母緑刃SP	Emerald
+weapons-melee-name	1516	Emerald Edge SP Ⅲ	祖母緑刃SP	Emerald
+weapons-melee-name	1517	Emerald Edge SP Ⅳ	祖母緑刃SP	Emerald
+weapons-melee-name	1518	Emerald Edge SP Ⅴ	祖母緑刃SP	Emerald
+weapons-melee-name	1519	Emerald Edge SP Ⅵ	祖母緑刃SP	Emerald
+weapons-melee-name	1520	Emerald Edge SP Ⅶ	祖母緑刃SP	Emerald
+weapons-melee-name	1535	Colonel Sword SP I	上校劍SP	Colonel
+weapons-melee-name	1536	Colonel Sword SP II	上校劍SP	Colonel
+weapons-melee-name	1537	Colonel Sword SP III	上校劍SP	Colonel
+weapons-melee-name	1538	Colonel Sword SP IV	上校劍SP	Colonel
+weapons-melee-name	1539	Colonel Sword SP V	上校劍SP	Colonel
+weapons-melee-name	1540	Colonel Sword SP VI	上校劍SP	Colonel
+weapons-melee-name	1541	Colonel Sword SP VII	上校劍SP	Colonel
+weapons-melee-name	1549	Plesioth Razors SP I	水龍SP	Plesioth Razors
+weapons-melee-name	1550	Plesioth Razors SP II	水龍SP	Plesioth Razors
+weapons-melee-name	1551	Plesioth Razors SP III	水龍SP	Plesioth Razors
+weapons-melee-name	1552	Plesioth Razors SP IV	水龍SP	Plesioth Razors
+weapons-melee-name	1553	Plesioth Razors SP V	水龍SP	Plesioth Razors
+weapons-melee-name	1554	Plesioth Razors SP VI	水龍SP	Plesioth Razors
+weapons-melee-name	1555	Plesioth Razors SP VII	水龍SP	Plesioth Razors
+weapons-melee-name	1556	Order Sabres SP I	秩序SP	Order Sabres
+weapons-melee-name	1557	Order Sabres SP II	秩序SP	Order Sabres
+weapons-melee-name	1558	Order Sabres SP III	秩序SP	Order Sabres
+weapons-melee-name	1559	Order Sabres SP IV	秩序SP	Order Sabres
+weapons-melee-name	1560	Order Sabres SP V	秩序SP	Order Sabres
+weapons-melee-name	1561	Order Sabres SP VI	秩序SP	Order Sabres
+weapons-melee-name	1562	Order Sabres SP VII	秩序SP	Order Sabres
+weapons-melee-name	1605	Bronze Blaze SP I	青銅SP	Bronze Blaze
+weapons-melee-name	1606	Bronze Blaze SP II	青銅SP	Bronze Blaze
+weapons-melee-name	1607	Bronze Blaze SP III	青銅SP	Bronze Blaze
+weapons-melee-name	1608	Bronze Blaze SP IV	青銅SP	Bronze Blaze
+weapons-melee-name	1609	Bronze Blaze SP V	青銅SP	Bronze Blaze
+weapons-melee-name	1610	Bronze Blaze SP VI	青銅SP	Bronze Blaze
+weapons-melee-name	1611	Bronze Blaze SP VII	青銅SP	Bronze Blaze
+weapons-melee-name	1612	Colonel Blade SP I	上校刃SP	Colonel
+weapons-melee-name	1613	Colonel Blade SP II	上校刃SP	Colonel
+weapons-melee-name	1614	Colonel Blade SP III	上校刃SP	Colonel
+weapons-melee-name	1615	Colonel Blade SP IV	上校刃SP	Colonel
+weapons-melee-name	1616	Colonel Blade SP V	上校刃SP	Colonel
+weapons-melee-name	1617	Colonel Blade SP VI	上校刃SP	Colonel
+weapons-melee-name	1618	Colonel Blade SP VII	上校刃SP	Colonel
+weapons-melee-name	1619	Chaos Pulse SP I	混沌SP	Chaos Pulse
+weapons-melee-name	1620	Chaos Pulse SP II	混沌SP	Chaos Pulse
+weapons-melee-name	1621	Chaos Pulse SP III	混沌SP	Chaos Pulse
+weapons-melee-name	1622	Chaos Pulse SP IV	混沌SP	Chaos Pulse
+weapons-melee-name	1623	Chaos Pulse SP V	混沌SP	Chaos Pulse
+weapons-melee-name	1624	Chaos Pulse SP VI	混沌SP	Chaos Pulse
+weapons-melee-name	1625	Chaos Pulse SP VII	混沌SP	Chaos Pulse
+weapons-melee-name	1661	Golden Katana SP I	金刀SP	Golden
+weapons-melee-name	1662	Golden Katana SP II	金刀SP	Golden
+weapons-melee-name	1663	Golden Katana SP III	金刀SP	Golden
+weapons-melee-name	1664	Golden Katana SP IV	金刀SP	Golden
+weapons-melee-name	1665	Golden Katana SP V	金刀SP	Golden
+weapons-melee-name	1666	Golden Katana SP VI	金刀SP	Golden
+weapons-melee-name	1667	Golden Katana SP VII	金刀SP	Golden
+weapons-melee-name	1696	Red Cat Hammer SP I	赤猫大錘SP	Red Cat
+weapons-melee-name	1697	Red Cat Hammer SP II	赤猫大錘SP	Red Cat
+weapons-melee-name	1698	Red Cat Hammer SP III	赤猫大錘SP	Red Cat
+weapons-melee-name	1699	Red Cat Hammer SP IV	赤猫大錘SP	Red Cat
+weapons-melee-name	1700	Red Cat Hammer SP V	赤猫大錘SP	Red Cat
+weapons-melee-name	1701	Red Cat Hammer SP VI	赤猫大錘SP	Red Cat
+weapons-melee-name	1702	Red Cat Hammer SP VII	赤猫大錘SP	Red Cat
+weapons-melee-name	1710	Golden Anchor SP I	金SP	Golden Anchor
+weapons-melee-name	1711	Golden Anchor SP II	金SP	Golden Anchor
+weapons-melee-name	1712	Golden Anchor SP III	金SP	Golden Anchor
+weapons-melee-name	1713	Golden Anchor SP IV	金SP	Golden Anchor
+weapons-melee-name	1714	Golden Anchor SP V	金SP	Golden Anchor
+weapons-melee-name	1715	Golden Anchor SP VI	金SP	Golden Anchor
+weapons-melee-name	1716	Golden Anchor SP VII	金SP	Golden Anchor
+weapons-melee-name	1717	Nephrite Nova SP I	軟玉SP	Nephrite Nova
+weapons-melee-name	1718	Nephrite Nova SP II	軟玉SP	Nephrite Nova
+weapons-melee-name	1719	Nephrite Nova SP III	軟玉SP	Nephrite Nova
+weapons-melee-name	1720	Nephrite Nova SP IV	軟玉SP	Nephrite Nova
+weapons-melee-name	1721	Nephrite Nova SP V	軟玉SP	Nephrite Nova
+weapons-melee-name	1722	Nephrite Nova SP VI	軟玉SP	Nephrite Nova
+weapons-melee-name	1723	Nephrite Nova SP VII	軟玉SP	Nephrite Nova
+weapons-melee-name	1745	Lava Alphorn SP I	熔岩SP	Lava Alphorn
+weapons-melee-name	1746	Lava Alphorn SP II	熔岩SP	Lava Alphorn
+weapons-melee-name	1747	Lava Alphorn SP III	熔岩SP	Lava Alphorn
+weapons-melee-name	1748	Lava Alphorn SP IV	熔岩SP	Lava Alphorn
+weapons-melee-name	1749	Lava Alphorn SP V	熔岩SP	Lava Alphorn
+weapons-melee-name	1750	Lava Alphorn SP VI	熔岩SP	Lava Alphorn
+weapons-melee-name	1751	Lava Alphorn SP VII	熔岩SP	Lava Alphorn
+weapons-melee-name	1752	Sky Chordmaker SP I	天空SP	Sky Chordmaker
+weapons-melee-name	1753	Sky Chordmaker SP II	天空SP	Sky Chordmaker
+weapons-melee-name	1754	Sky Chordmaker SP III	天空SP	Sky Chordmaker
+weapons-melee-name	1755	Sky Chordmaker SP IV	天空SP	Sky Chordmaker
+weapons-melee-name	1756	Sky Chordmaker SP V	天空SP	Sky Chordmaker
+weapons-melee-name	1757	Sky Chordmaker SP VI	天空SP	Sky Chordmaker
+weapons-melee-name	1758	Sky Chordmaker SP VII	天空SP	Sky Chordmaker
+weapons-melee-name	1759	Basarios Beat SP I	岩龍SP	Basarios Beat
+weapons-melee-name	1760	Basarios Beat SP II	岩龍SP	Basarios Beat
+weapons-melee-name	1761	Basarios Beat SP III	岩龍SP	Basarios Beat
+weapons-melee-name	1762	Basarios Beat SP IV	岩龍SP	Basarios Beat
+weapons-melee-name	1763	Basarios Beat SP V	岩龍SP	Basarios Beat
+weapons-melee-name	1764	Basarios Beat SP VI	岩龍SP	Basarios Beat
+weapons-melee-name	1765	Basarios Beat SP VII	岩龍SP	Basarios Beat
+weapons-melee-name	1766	Khezu Shriek SP I	奇怪龍SP	Khezu Shriek
+weapons-melee-name	1767	Khezu Shriek SP II	奇怪龍SP	Khezu Shriek
+weapons-melee-name	1768	Khezu Shriek SP III	奇怪龍SP	Khezu Shriek
+weapons-melee-name	1769	Khezu Shriek SP IV	奇怪龍SP	Khezu Shriek
+weapons-melee-name	1770	Khezu Shriek SP V	奇怪龍SP	Khezu Shriek
+weapons-melee-name	1771	Khezu Shriek SP VI	奇怪龍SP	Khezu Shriek
+weapons-melee-name	1772	Khezu Shriek SP VII	奇怪龍SP	Khezu Shriek
+weapons-melee-name	1794	Colonel Lance SP I	上校長槍SP	Colonel
+weapons-melee-name	1795	Colonel Lance SP II	上校長槍SP	Colonel
+weapons-melee-name	1796	Colonel Lance SP III	上校長槍SP	Colonel
+weapons-melee-name	1797	Colonel Lance SP IV	上校長槍SP	Colonel
+weapons-melee-name	1798	Colonel Lance SP V	上校長槍SP	Colonel
+weapons-melee-name	1799	Colonel Lance SP VI	上校長槍SP	Colonel
+weapons-melee-name	1800	Colonel Lance SP VII	上校長槍SP	Colonel
+weapons-melee-name	1801	Green Tail SP I	緑SP	Green Tail
+weapons-melee-name	1802	Green Tail SP II	緑SP	Green Tail
+weapons-melee-name	1803	Green Tail SP III	緑SP	Green Tail
+weapons-melee-name	1804	Green Tail SP IV	緑SP	Green Tail
+weapons-melee-name	1805	Green Tail SP V	緑SP	Green Tail
+weapons-melee-name	1806	Green Tail SP VI	緑SP	Green Tail
+weapons-melee-name	1807	Green Tail SP VII	緑SP	Green Tail
+weapons-melee-name	1808	Dark Gae Bulg SP I	闇SP	Dark Gae Bulg
+weapons-melee-name	1809	Dark Gae Bulg SP II	闇SP	Dark Gae Bulg
+weapons-melee-name	1810	Dark Gae Bulg SP III	闇SP	Dark Gae Bulg
+weapons-melee-name	1811	Dark Gae Bulg SP IV	闇SP	Dark Gae Bulg
+weapons-melee-name	1812	Dark Gae Bulg SP V	闇SP	Dark Gae Bulg
+weapons-melee-name	1813	Dark Gae Bulg SP VI	闇SP	Dark Gae Bulg
+weapons-melee-name	1814	Dark Gae Bulg SP VII	闇SP	Dark Gae Bulg
+weapons-melee-name	1871	Blue Sky Gunlance SP I	蒼天銃槍SP	Blue Sky
+weapons-melee-name	1872	Blue Sky Gunlance SP II	蒼天銃槍SP	Blue Sky
+weapons-melee-name	1873	Blue Sky Gunlance SP III	蒼天銃槍SP	Blue Sky
+weapons-melee-name	1874	Blue Sky Gunlance SP IV	蒼天銃槍SP	Blue Sky
+weapons-melee-name	1875	Blue Sky Gunlance SP V	蒼天銃槍SP	Blue Sky
+weapons-melee-name	1876	Blue Sky Gunlance SP VI	蒼天銃槍SP	Blue Sky
+weapons-melee-name	1877	Blue Sky Gunlance SP VII	蒼天銃槍SP	Blue Sky
+weapons-melee-name	1885	Meteor Slugger SP I	流星SP	Meteor Slugger
+weapons-melee-name	1886	Meteor Slugger SP II	流星SP	Meteor Slugger
+weapons-melee-name	1887	Meteor Slugger SP III	流星SP	Meteor Slugger
+weapons-melee-name	1888	Meteor Slugger SP IV	流星SP	Meteor Slugger
+weapons-melee-name	1889	Meteor Slugger SP V	流星SP	Meteor Slugger
+weapons-melee-name	1890	Meteor Slugger SP VI	流星SP	Meteor Slugger
+weapons-melee-name	1891	Meteor Slugger SP VII	流星SP	Meteor Slugger
+weapons-melee-name	1899	Aqua Syphos SP I	水SP	Aqua Syphos
+weapons-melee-name	1900	Aqua Syphos SP II	水SP	Aqua Syphos
+weapons-melee-name	1901	Aqua Syphos SP III	水SP	Aqua Syphos
+weapons-melee-name	1902	Aqua Syphos SP IV	水SP	Aqua Syphos
+weapons-melee-name	1903	Aqua Syphos SP V	水SP	Aqua Syphos
+weapons-melee-name	1904	Aqua Syphos SP VI	水SP	Aqua Syphos
+weapons-melee-name	1905	Aqua Syphos SP VII	水SP	Aqua Syphos
+weapons-melee-name	1906	Brave Blade SP I	勇者刃SP	Brave
+weapons-melee-name	1907	Brave Blade SP II	勇者刃SP	Brave
+weapons-melee-name	1908	Brave Blade SP III	勇者刃SP	Brave
+weapons-melee-name	1909	Brave Blade SP IV	勇者刃SP	Brave
+weapons-melee-name	1910	Brave Blade SP V	勇者刃SP	Brave
+weapons-melee-name	1911	Brave Blade SP VI	勇者刃SP	Brave
+weapons-melee-name	1912	Brave Blade SP VII	勇者刃SP	Brave
+weapons-melee-name	1913	Twin Nevi SP I	雙SP	Twin Nevi
+weapons-melee-name	1914	Twin Nevi SP II	雙SP	Twin Nevi
+weapons-melee-name	1915	Twin Nevi SP III	雙SP	Twin Nevi
+weapons-melee-name	1916	Twin Nevi SP IV	雙SP	Twin Nevi
+weapons-melee-name	1917	Twin Nevi SP V	雙SP	Twin Nevi
+weapons-melee-name	1918	Twin Nevi SP VI	雙SP	Twin Nevi
+weapons-melee-name	1919	Twin Nevi SP VII	雙SP	Twin Nevi
+weapons-melee-name	1934	Iron Greatsword SP I	鐵大劍SP	Iron
+weapons-melee-name	1935	Iron Greatsword SP II	鐵大劍SP	Iron
+weapons-melee-name	1936	Iron Greatsword SP III	鐵大劍SP	Iron
+weapons-melee-name	1937	Iron Greatsword SP IV	鐵大劍SP	Iron
+weapons-melee-name	1938	Iron Greatsword SP V	鐵大劍SP	Iron
+weapons-melee-name	1939	Iron Greatsword SP VI	鐵大劍SP	Iron
+weapons-melee-name	1940	Iron Greatsword SP VII	鐵大劍SP	Iron
+weapons-melee-name	1941	Sailor Sword SP I	水手劍SP	Sailor
+weapons-melee-name	1942	Sailor Sword SP II	水手劍SP	Sailor
+weapons-melee-name	1943	Sailor Sword SP III	水手劍SP	Sailor
+weapons-melee-name	1944	Sailor Sword SP IV	水手劍SP	Sailor
+weapons-melee-name	1945	Sailor Sword SP V	水手劍SP	Sailor
+weapons-melee-name	1946	Sailor Sword SP VI	水手劍SP	Sailor
+weapons-melee-name	1947	Sailor Sword SP VII	水手劍SP	Sailor
+weapons-melee-name	1948	Cat's Dance SP I	猫S之SP	Cat's Dance
+weapons-melee-name	1949	Cat's Dance SP II	猫S之SP	Cat's Dance
+weapons-melee-name	1950	Cat's Dance SP III	猫S之SP	Cat's Dance
+weapons-melee-name	1951	Cat's Dance SP IV	猫S之SP	Cat's Dance
+weapons-melee-name	1952	Cat's Dance SP V	猫S之SP	Cat's Dance
+weapons-melee-name	1953	Cat's Dance SP VI	猫S之SP	Cat's Dance
+weapons-melee-name	1954	Cat's Dance SP VII	猫S之SP	Cat's Dance
+weapons-melee-name	1962	Dark Claymore SP I	闇SP	Dark Claymore
+weapons-melee-name	1963	Dark Claymore SP II	闇SP	Dark Claymore
+weapons-melee-name	1964	Dark Claymore SP III	闇SP	Dark Claymore
+weapons-melee-name	1965	Dark Claymore SP IV	闇SP	Dark Claymore
+weapons-melee-name	1966	Dark Claymore SP V	闇SP	Dark Claymore
+weapons-melee-name	1967	Dark Claymore SP VI	闇SP	Dark Claymore
+weapons-melee-name	1968	Dark Claymore SP VII	闇SP	Dark Claymore
+weapons-melee-name	1983	Poison Relic SP I	毒SP	Poison Relic
+weapons-melee-name	1984	Poison Relic SP II	毒SP	Poison Relic
+weapons-melee-name	1985	Poison Relic SP III	毒SP	Poison Relic
+weapons-melee-name	1986	Poison Relic SP IV	毒SP	Poison Relic
+weapons-melee-name	1987	Poison Relic SP V	毒SP	Poison Relic
+weapons-melee-name	1988	Poison Relic SP VI	毒SP	Poison Relic
+weapons-melee-name	1989	Poison Relic SP VII	毒SP	Poison Relic
+weapons-melee-name	1997	Water Horn SP I	水角SP	Water
+weapons-melee-name	1998	Water Horn SP II	水角SP	Water
+weapons-melee-name	1999	Water Horn SP III	水角SP	Water
+weapons-melee-name	2000	Water Horn SP IV	水角SP	Water
+weapons-melee-name	2001	Water Horn SP V	水角SP	Water
+weapons-melee-name	2002	Water Horn SP VI	水角SP	Water
+weapons-melee-name	2003	Water Horn SP VII	水角SP	Water
+weapons-melee-name	2032	Raging Stream SP I	拉吉恩之SP	Raging Stream
+weapons-melee-name	2033	Raging Stream SP II	拉吉恩之SP	Raging Stream
+weapons-melee-name	2034	Raging Stream SP III	拉吉恩之SP	Raging Stream
+weapons-melee-name	2035	Raging Stream SP IV	拉吉恩之SP	Raging Stream
+weapons-melee-name	2036	Raging Stream SP V	拉吉恩之SP	Raging Stream
+weapons-melee-name	2037	Raging Stream SP VI	拉吉恩之SP	Raging Stream
+weapons-melee-name	2038	Raging Stream SP VII	拉吉恩之SP	Raging Stream
+weapons-melee-name	2039	Thunder Sovereign SP I	雷SP	Thunder Sovereign
+weapons-melee-name	2040	Thunder Sovereign SP II	雷SP	Thunder Sovereign
+weapons-melee-name	2041	Thunder Sovereign SP III	雷SP	Thunder Sovereign
+weapons-melee-name	2042	Thunder Sovereign SP IV	雷SP	Thunder Sovereign
+weapons-melee-name	2043	Thunder Sovereign SP V	雷SP	Thunder Sovereign
+weapons-melee-name	2044	Thunder Sovereign SP VI	雷SP	Thunder Sovereign
+weapons-melee-name	2045	Thunder Sovereign SP VII	雷SP	Thunder Sovereign
+weapons-melee-name	2046	Blaze Cannonlance SP I	烈焔SP	Blaze Cannonlance
+weapons-melee-name	2047	Blaze Cannonlance SP II	烈焔SP	Blaze Cannonlance
+weapons-melee-name	2048	Blaze Cannonlance SP III	烈焔SP	Blaze Cannonlance
+weapons-melee-name	2049	Blaze Cannonlance SP IV	烈焔SP	Blaze Cannonlance
+weapons-melee-name	2050	Blaze Cannonlance SP V	烈焔SP	Blaze Cannonlance
+weapons-melee-name	2051	Blaze Cannonlance SP VI	烈焔SP	Blaze Cannonlance
+weapons-melee-name	2052	Blaze Cannonlance SP VII	烈焔SP	Blaze Cannonlance
+weapons-melee-name	2053	Ice Strike SP I	冰SP	Ice Strike
+weapons-melee-name	2054	Ice Strike SP II	冰SP	Ice Strike
+weapons-melee-name	2055	Ice Strike SP III	冰SP	Ice Strike
+weapons-melee-name	2056	Ice Strike SP IV	冰SP	Ice Strike
+weapons-melee-name	2057	Ice Strike SP V	冰SP	Ice Strike
+weapons-melee-name	2058	Ice Strike SP VI	冰SP	Ice Strike
+weapons-melee-name	2059	Ice Strike SP VII	冰SP	Ice Strike
+weapons-melee-name	2074	Twin Monohorns SP I	雙SP	Twin Monohorns
+weapons-melee-name	2075	Twin Monohorns SP II	雙SP	Twin Monohorns
+weapons-melee-name	2076	Twin Monohorns SP III	雙SP	Twin Monohorns
+weapons-melee-name	2077	Twin Monohorns SP IV	雙SP	Twin Monohorns
+weapons-melee-name	2078	Twin Monohorns SP V	雙SP	Twin Monohorns
+weapons-melee-name	2079	Twin Monohorns SP VI	雙SP	Twin Monohorns
+weapons-melee-name	2080	Twin Monohorns SP VII	雙SP	Twin Monohorns
+weapons-melee-name	2081	Melt Orange SP I	姆艾勒特SP	Melt Orange
+weapons-melee-name	2082	Melt Orange SP II	姆艾勒特SP	Melt Orange
+weapons-melee-name	2083	Melt Orange SP III	姆艾勒特SP	Melt Orange
+weapons-melee-name	2084	Melt Orange SP IV	姆艾勒特SP	Melt Orange
+weapons-melee-name	2085	Melt Orange SP V	姆艾勒特SP	Melt Orange
+weapons-melee-name	2086	Melt Orange SP VI	姆艾勒特SP	Melt Orange
+weapons-melee-name	2087	Melt Orange SP VII	姆艾勒特SP	Melt Orange
+weapons-melee-name	2095	Poison Demonrod SP I	毒SP	Poison Demonrod
+weapons-melee-name	2096	Poison Demonrod SP II	毒SP	Poison Demonrod
+weapons-melee-name	2097	Poison Demonrod SP III	毒SP	Poison Demonrod
+weapons-melee-name	2098	Poison Demonrod SP IV	毒SP	Poison Demonrod
+weapons-melee-name	2099	Poison Demonrod SP V	毒SP	Poison Demonrod
+weapons-melee-name	2100	Poison Demonrod SP VI	毒SP	Poison Demonrod
+weapons-melee-name	2101	Poison Demonrod SP VII	毒SP	Poison Demonrod
+weapons-melee-name	2102	Dragon Halberd SP I	龍SP	Dragon Halberd
+weapons-melee-name	2103	Dragon Halberd SP II	龍SP	Dragon Halberd
+weapons-melee-name	2104	Dragon Halberd SP III	龍SP	Dragon Halberd
+weapons-melee-name	2105	Dragon Halberd SP IV	龍SP	Dragon Halberd
+weapons-melee-name	2106	Dragon Halberd SP V	龍SP	Dragon Halberd
+weapons-melee-name	2107	Dragon Halberd SP VI	龍SP	Dragon Halberd
+weapons-melee-name	2108	Dragon Halberd SP VII	龍SP	Dragon Halberd
+weapons-melee-name	2123	Dragon Masher SP I	龍SP	Dragon Masher
+weapons-melee-name	2124	Dragon Masher SP II	龍SP	Dragon Masher
+weapons-melee-name	2125	Dragon Masher SP III	龍SP	Dragon Masher
+weapons-melee-name	2126	Dragon Masher SP IV	龍SP	Dragon Masher
+weapons-melee-name	2127	Dragon Masher SP V	龍SP	Dragon Masher
+weapons-melee-name	2128	Dragon Masher SP VI	龍SP	Dragon Masher
+weapons-melee-name	2129	Dragon Masher SP VII	龍SP	Dragon Masher
+weapons-melee-name	2130	Ice Whistle SP I	冰SP	Ice Whistle
+weapons-melee-name	2131	Ice Whistle SP II	冰SP	Ice Whistle
+weapons-melee-name	2132	Ice Whistle SP III	冰SP	Ice Whistle
+weapons-melee-name	2133	Ice Whistle SP IV	冰SP	Ice Whistle
+weapons-melee-name	2134	Ice Whistle SP V	冰SP	Ice Whistle
+weapons-melee-name	2135	Ice Whistle SP VI	冰SP	Ice Whistle
+weapons-melee-name	2136	Ice Whistle SP VII	冰SP	Ice Whistle
+weapons-melee-name	2144	Venom Fork SP I	薇諾SP	Venom Fork
+weapons-melee-name	2145	Venom Fork SP II	薇諾SP	Venom Fork
+weapons-melee-name	2146	Venom Fork SP III	薇諾SP	Venom Fork
+weapons-melee-name	2147	Venom Fork SP IV	薇諾SP	Venom Fork
+weapons-melee-name	2148	Venom Fork SP V	薇諾SP	Venom Fork
+weapons-melee-name	2149	Venom Fork SP VI	薇諾SP	Venom Fork
+weapons-melee-name	2150	Venom Fork SP VII	薇諾SP	Venom Fork
+weapons-melee-name	2235	Basarios Burst SP I	岩龍SP	Basarios Burst
+weapons-melee-name	2236	Basarios Burst SP II	岩龍SP	Basarios Burst
+weapons-melee-name	2237	Basarios Burst SP III	岩龍SP	Basarios Burst
+weapons-melee-name	2238	Basarios Burst SP IV	岩龍SP	Basarios Burst
+weapons-melee-name	2239	Basarios Burst SP V	岩龍SP	Basarios Burst
+weapons-melee-name	2240	Basarios Burst SP VI	岩龍SP	Basarios Burst
+weapons-melee-name	2241	Basarios Burst SP VII	岩龍SP	Basarios Burst
+weapons-melee-name	2249	Silver Axe SP I	銀之斧SP	Silver
+weapons-melee-name	2250	Silver Axe SP II	銀之斧SP	Silver
+weapons-melee-name	2251	Silver Axe SP III	銀之斧SP	Silver
+weapons-melee-name	2252	Silver Axe SP IV	銀之斧SP	Silver
+weapons-melee-name	2253	Silver Axe SP V	銀之斧SP	Silver
+weapons-melee-name	2254	Silver Axe SP VI	銀之斧SP	Silver
+weapons-melee-name	2255	Silver Axe SP VII	銀之斧SP	Silver
+weapons-melee-name	2277	Sea Angler SP I	海SP	Sea Angler
+weapons-melee-name	2278	Sea Angler SP II	海SP	Sea Angler
+weapons-melee-name	2279	Sea Angler SP III	海SP	Sea Angler
+weapons-melee-name	2280	Sea Angler SP IV	海SP	Sea Angler
+weapons-melee-name	2281	Sea Angler SP V	海SP	Sea Angler
+weapons-melee-name	2282	Sea Angler SP VI	海SP	Sea Angler
+weapons-melee-name	2283	Sea Angler SP VII	海SP	Sea Angler
+weapons-melee-name	2347	Golden Bomb SP I	金SP	Golden Bomb
+weapons-melee-name	2348	Golden Bomb SP II	金SP	Golden Bomb
+weapons-melee-name	2349	Golden Bomb SP III	金SP	Golden Bomb
+weapons-melee-name	2350	Golden Bomb SP IV	金SP	Golden Bomb
+weapons-melee-name	2351	Golden Bomb SP V	金SP	Golden Bomb
+weapons-melee-name	2352	Golden Bomb SP VI	金SP	Golden Bomb
+weapons-melee-name	2353	Golden Bomb SP VII	金SP	Golden Bomb
+weapons-melee-name	2354	Gran Phaios SP I	大SP	Gran Phaios
+weapons-melee-name	2355	Gran Phaios SP II	大SP	Gran Phaios
+weapons-melee-name	2356	Gran Phaios SP III	大SP	Gran Phaios
+weapons-melee-name	2357	Gran Phaios SP IV	大SP	Gran Phaios
+weapons-melee-name	2358	Gran Phaios SP V	大SP	Gran Phaios
+weapons-melee-name	2359	Gran Phaios SP VI	大SP	Gran Phaios
+weapons-melee-name	2360	Gran Phaios SP VII	大SP	Gran Phaios
+weapons-melee-name	2368	Amethyst Spear SP I	紫水晶槍SP	Amethyst
+weapons-melee-name	2369	Amethyst Spear SP II	紫水晶槍SP	Amethyst
+weapons-melee-name	2370	Amethyst Spear SP III	紫水晶槍SP	Amethyst
+weapons-melee-name	2371	Amethyst Spear SP IV	紫水晶槍SP	Amethyst
+weapons-melee-name	2372	Amethyst Spear SP V	紫水晶槍SP	Amethyst
+weapons-melee-name	2373	Amethyst Spear SP VI	紫水晶槍SP	Amethyst
+weapons-melee-name	2374	Amethyst Spear SP VII	紫水晶槍SP	Amethyst
+weapons-melee-name	2438	White Katana Mk.I SP I	白刀SP	White Mk.I
+weapons-melee-name	2439	White Katana Mk.I SP II	白刀SP	White Mk.I
+weapons-melee-name	2440	White Katana Mk.I SP III	白刀SP	White Mk.I
+weapons-melee-name	2441	White Katana Mk.I SP IV	白刀SP	White Mk.I
+weapons-melee-name	2442	White Katana Mk.I SP V	白刀SP	White Mk.I
+weapons-melee-name	2443	White Katana Mk.I SP VI	白刀SP	White Mk.I
+weapons-melee-name	2444	White Katana Mk.I SP VII	白刀SP	White Mk.I
+weapons-melee-name	2452	Raging Fist SP I	拉吉恩之SP	Raging Fist
+weapons-melee-name	2453	Raging Fist SP II	拉吉恩之SP	Raging Fist
+weapons-melee-name	2454	Raging Fist SP III	拉吉恩之SP	Raging Fist
+weapons-melee-name	2455	Raging Fist SP IV	拉吉恩之SP	Raging Fist
+weapons-melee-name	2456	Raging Fist SP V	拉吉恩之SP	Raging Fist
+weapons-melee-name	2457	Raging Fist SP VI	拉吉恩之SP	Raging Fist
+weapons-melee-name	2458	Raging Fist SP VII	拉吉恩之SP	Raging Fist
+weapons-melee-name	2466	Gold Soil SP I	金SP	Gold Soil
+weapons-melee-name	2467	Gold Soil SP II	金SP	Gold Soil
+weapons-melee-name	2468	Gold Soil SP III	金SP	Gold Soil
+weapons-melee-name	2469	Gold Soil SP IV	金SP	Gold Soil
+weapons-melee-name	2470	Gold Soil SP V	金SP	Gold Soil
+weapons-melee-name	2471	Gold Soil SP VI	金SP	Gold Soil
+weapons-melee-name	2472	Gold Soil SP VII	金SP	Gold Soil
+weapons-melee-name	2508	Paralysis Rapier SP I	麻痺細劍SP	Paralysis
+weapons-melee-name	2509	Paralysis Rapier SP II	麻痺細劍SP	Paralysis
+weapons-melee-name	2510	Paralysis Rapier SP III	麻痺細劍SP	Paralysis
+weapons-melee-name	2511	Paralysis Rapier SP IV	麻痺細劍SP	Paralysis
+weapons-melee-name	2512	Paralysis Rapier SP V	麻痺細劍SP	Paralysis
+weapons-melee-name	2513	Paralysis Rapier SP VI	麻痺細劍SP	Paralysis
+weapons-melee-name	2514	Paralysis Rapier SP VII	麻痺細劍SP	Paralysis
+weapons-melee-name	2515	White Fang SP I	白SP	White Fang
+weapons-melee-name	2516	White Fang SP II	白SP	White Fang
+weapons-melee-name	2517	White Fang SP III	白SP	White Fang
+weapons-melee-name	2518	White Fang SP IV	白SP	White Fang
+weapons-melee-name	2519	White Fang SP V	白SP	White Fang
+weapons-melee-name	2520	White Fang SP VI	白SP	White Fang
+weapons-melee-name	2521	White Fang SP VII	白SP	White Fang
+weapons-melee-name	2522	Black Rose SP I	黑SP	Black Rose
+weapons-melee-name	2523	Black Rose SP II	黑SP	Black Rose
+weapons-melee-name	2524	Black Rose SP III	黑SP	Black Rose
+weapons-melee-name	2525	Black Rose SP IV	黑SP	Black Rose
+weapons-melee-name	2526	Black Rose SP V	黑SP	Black Rose
+weapons-melee-name	2527	Black Rose SP VI	黑SP	Black Rose
+weapons-melee-name	2528	Black Rose SP VII	黑SP	Black Rose
+weapons-melee-name	2529	Black Drgnwood LS SP I	黑SP	Black Drgnwood LS
+weapons-melee-name	2530	Black Drgnwood LS SP II	黑SP	Black Drgnwood LS
+weapons-melee-name	2531	Black Drgnwood LS SP III	黑SP	Black Drgnwood LS
+weapons-melee-name	2532	Black Drgnwood LS SP IV	黑SP	Black Drgnwood LS
+weapons-melee-name	2533	Black Drgnwood LS SP V	黑SP	Black Drgnwood LS
+weapons-melee-name	2534	Black Drgnwood LS SP VI	黑SP	Black Drgnwood LS
+weapons-melee-name	2535	Black Drgnwood LS SP VII	黑SP	Black Drgnwood LS
+weapons-melee-name	2543	Silver Bell SP I	銀SP	Silver Bell
+weapons-melee-name	2544	Silver Bell SP II	銀SP	Silver Bell
+weapons-melee-name	2545	Silver Bell SP III	銀SP	Silver Bell
+weapons-melee-name	2546	Silver Bell SP IV	銀SP	Silver Bell
+weapons-melee-name	2547	Silver Bell SP V	銀SP	Silver Bell
+weapons-melee-name	2548	Silver Bell SP VI	銀SP	Silver Bell
+weapons-melee-name	2549	Silver Bell SP VII	銀SP	Silver Bell
+weapons-melee-name	2599	Pure Chordmaker SP I	純SP	Pure Chordmaker
+weapons-melee-name	2600	Pure Chordmaker SP II	純SP	Pure Chordmaker
+weapons-melee-name	2601	Pure Chordmaker SP III	純SP	Pure Chordmaker
+weapons-melee-name	2602	Pure Chordmaker SP IV	純SP	Pure Chordmaker
+weapons-melee-name	2603	Pure Chordmaker SP V	純SP	Pure Chordmaker
+weapons-melee-name	2604	Pure Chordmaker SP VI	純SP	Pure Chordmaker
+weapons-melee-name	2605	Pure Chordmaker SP VII	純SP	Pure Chordmaker
+weapons-melee-name	2620	Red Cat Stick SP I	赤猫棒SP	Red Cat
+weapons-melee-name	2621	Red Cat Stick SP II	赤猫棒SP	Red Cat
+weapons-melee-name	2622	Red Cat Stick SP III	赤猫棒SP	Red Cat
+weapons-melee-name	2623	Red Cat Stick SP IV	赤猫棒SP	Red Cat
+weapons-melee-name	2624	Red Cat Stick SP V	赤猫棒SP	Red Cat
+weapons-melee-name	2625	Red Cat Stick SP VI	赤猫棒SP	Red Cat
+weapons-melee-name	2626	Red Cat Stick SP VII	赤猫棒SP	Red Cat
+weapons-melee-name	2627	Aqua Sabers SP I	水SP	Aqua Sabers
+weapons-melee-name	2628	Aqua Sabers SP II	水SP	Aqua Sabers
+weapons-melee-name	2629	Aqua Sabers SP III	水SP	Aqua Sabers
+weapons-melee-name	2630	Aqua Sabers SP IV	水SP	Aqua Sabers
+weapons-melee-name	2631	Aqua Sabers SP V	水SP	Aqua Sabers
+weapons-melee-name	2632	Aqua Sabers SP VI	水SP	Aqua Sabers
+weapons-melee-name	2633	Aqua Sabers SP VII	水SP	Aqua Sabers
+weapons-melee-name	2634	Black Ice GS SP I	黑SPGS	Black Ice
+weapons-melee-name	2635	Black Ice GS SP II	黑SPGS	Black Ice
+weapons-melee-name	2636	Black Ice GS SP III	黑SPGS	Black Ice
+weapons-melee-name	2637	Black Ice GS SP IV	黑SPGS	Black Ice
+weapons-melee-name	2638	Black Ice GS SP V	黑SPGS	Black Ice
+weapons-melee-name	2639	Black Ice GS SP VI	黑SPGS	Black Ice
+weapons-melee-name	2640	Black Ice GS SP VII	黑SPGS	Black Ice
+weapons-melee-name	2655	Golden Cat Flute SP I	金SP	Golden Cat Flute
+weapons-melee-name	2656	Golden Cat Flute SP II	金SP	Golden Cat Flute
+weapons-melee-name	2657	Golden Cat Flute SP III	金SP	Golden Cat Flute
+weapons-melee-name	2658	Golden Cat Flute SP IV	金SP	Golden Cat Flute
+weapons-melee-name	2659	Golden Cat Flute SP V	金SP	Golden Cat Flute
+weapons-melee-name	2660	Golden Cat Flute SP VI	金SP	Golden Cat Flute
+weapons-melee-name	2661	Golden Cat Flute SP VII	金SP	Golden Cat Flute
+weapons-melee-name	2669	Howl in the Dark SP I	咆哮SP	Howl in the Dark
+weapons-melee-name	2670	Howl in the Dark SP II	咆哮SP	Howl in the Dark
+weapons-melee-name	2671	Howl in the Dark SP III	咆哮SP	Howl in the Dark
+weapons-melee-name	2672	Howl in the Dark SP IV	咆哮SP	Howl in the Dark
+weapons-melee-name	2673	Howl in the Dark SP V	咆哮SP	Howl in the Dark
+weapons-melee-name	2674	Howl in the Dark SP VI	咆哮SP	Howl in the Dark
+weapons-melee-name	2675	Howl in the Dark SP VII	咆哮SP	Howl in the Dark
+weapons-melee-name	2683	Obsidian SP I	黒曜石SP	Obsidian
+weapons-melee-name	2684	Obsidian SP II	黒曜石SP	Obsidian
+weapons-melee-name	2685	Obsidian SP III	黒曜石SP	Obsidian
+weapons-melee-name	2686	Obsidian SP IV	黒曜石SP	Obsidian
+weapons-melee-name	2687	Obsidian SP V	黒曜石SP	Obsidian
+weapons-melee-name	2688	Obsidian SP VI	黒曜石SP	Obsidian
+weapons-melee-name	2689	Obsidian SP VII	黒曜石SP	Obsidian
+weapons-melee-name	2690	Soul Crash SP I	魂SP	Soul Crash
+weapons-melee-name	2691	Soul Crash SP II	魂SP	Soul Crash
+weapons-melee-name	2692	Soul Crash SP III	魂SP	Soul Crash
+weapons-melee-name	2693	Soul Crash SP IV	魂SP	Soul Crash
+weapons-melee-name	2694	Soul Crash SP V	魂SP	Soul Crash
+weapons-melee-name	2695	Soul Crash SP VI	魂SP	Soul Crash
+weapons-melee-name	2696	Soul Crash SP VII	魂SP	Soul Crash
+weapons-melee-name	2732	Aqua Edge SP I	水刃SP	Aqua
+weapons-melee-name	2733	Aqua Edge SP II	水刃SP	Aqua
+weapons-melee-name	2734	Aqua Edge SP III	水刃SP	Aqua
+weapons-melee-name	2735	Aqua Edge SP IV	水刃SP	Aqua
+weapons-melee-name	2736	Aqua Edge SP V	水刃SP	Aqua
+weapons-melee-name	2737	Aqua Edge SP VI	水刃SP	Aqua
+weapons-melee-name	2738	Aqua Edge SP VII	水刃SP	Aqua
+weapons-melee-name	2753	Blood Sonic SP I	血SP	Blood Sonic
+weapons-melee-name	2754	Blood Sonic SP II	血SP	Blood Sonic
+weapons-melee-name	2755	Blood Sonic SP III	血SP	Blood Sonic
+weapons-melee-name	2756	Blood Sonic SP IV	血SP	Blood Sonic
+weapons-melee-name	2757	Blood Sonic SP V	血SP	Blood Sonic
+weapons-melee-name	2758	Blood Sonic SP VI	血SP	Blood Sonic
+weapons-melee-name	2759	Blood Sonic SP VII	血SP	Blood Sonic
+weapons-melee-name	2767	Red Cat Horn SP I	赤猫角SP	Red Cat
+weapons-melee-name	2768	Red Cat Horn SP II	赤猫角SP	Red Cat
+weapons-melee-name	2769	Red Cat Horn SP III	赤猫角SP	Red Cat
+weapons-melee-name	2770	Red Cat Horn SP IV	赤猫角SP	Red Cat
+weapons-melee-name	2771	Red Cat Horn SP V	赤猫角SP	Red Cat
+weapons-melee-name	2772	Red Cat Horn SP VI	赤猫角SP	Red Cat
+weapons-melee-name	2773	Red Cat Horn SP VII	赤猫角SP	Red Cat
+weapons-melee-name	2774	Aqua Lancia SP I	水SP	Aqua Lancia
+weapons-melee-name	2775	Aqua Lancia SP II	水SP	Aqua Lancia
+weapons-melee-name	2776	Aqua Lancia SP III	水SP	Aqua Lancia
+weapons-melee-name	2777	Aqua Lancia SP IV	水SP	Aqua Lancia
+weapons-melee-name	2778	Aqua Lancia SP V	水SP	Aqua Lancia
+weapons-melee-name	2779	Aqua Lancia SP VI	水SP	Aqua Lancia
+weapons-melee-name	2780	Aqua Lancia SP VII	水SP	Aqua Lancia
+weapons-melee-name	2781	Ice Cancer SP I	冰SP	Ice Cancer
+weapons-melee-name	2782	Ice Cancer SP II	冰SP	Ice Cancer
+weapons-melee-name	2783	Ice Cancer SP III	冰SP	Ice Cancer
+weapons-melee-name	2784	Ice Cancer SP IV	冰SP	Ice Cancer
+weapons-melee-name	2785	Ice Cancer SP V	冰SP	Ice Cancer
+weapons-melee-name	2786	Ice Cancer SP VI	冰SP	Ice Cancer
+weapons-melee-name	2787	Ice Cancer SP VII	冰SP	Ice Cancer
+weapons-melee-name	3762	Schwarzkerzen I	SＣHWＲＺｋ老ＲＺ老NⅠ	Schwarzkerzen
+weapons-melee-name	3763	Schwarzkerzen II	SＣHWＲＺｋ老ＲＺ老NⅠⅠ	Schwarzkerzen
+weapons-melee-name	3764	Schwarzkerzen III	SＣHWＲＺｋ老ＲＺ老NⅠⅠⅠ	Schwarzkerzen
+weapons-melee-name	4721	"Imperial Sword ""Blaze"""	帝國劍Blaze	Imperial
+weapons-melee-name	4722	"Imperial Sword ""Scorch"""	帝國劍Scorch	Imperial
+weapons-melee-name	5366	Fang Merman C	FNＧM老ＲMNC	Fang Merman
+weapons-melee-name	5369	Fang Merman S	FNＧM老ＲMNS	Fang Merman
+weapons-melee-name	6105	Darkness Edge	ＤＲｋN老SS刃	Darkness
+weapons-melee-name	6331	"Scarlet Sword ""Light"""	緋劍Light	Scarlet
+weapons-melee-name	6332	"Scarlet Sword ""Glow"""	緋劍Glow	Scarlet
+weapons-melee-name	6333	"Scarlet Sword ""Beam"""	緋劍Beam	Scarlet
+weapons-melee-name	6334	"Scarlet Sword ""Sun"""	緋劍Sun	Scarlet
+weapons-melee-name	6461	"Scarlet Katana ""Full"""	緋刀Full	Scarlet
+weapons-melee-name	6462	"Scarlet Katana ""Dawn"""	緋刀Dawn	Scarlet
+weapons-melee-name	6463	"Scarlet Katana""Disaster"""	緋刀Disaster	Scarlet
+weapons-melee-name	6464	"Scarlet Katana ""Heaven"""	緋刀Heaven	Scarlet
+weapons-melee-name	6465	"Scarlet Katana ""God"""	緋刀God	Scarlet
+weapons-melee-name	6515	"Scarlet Mallet ""Ghost"""	緋鎚Ghost	Scarlet
+weapons-melee-name	6516	"Scarlet Mallet ""Soul"""	緋鎚Soul	Scarlet
+weapons-melee-name	6517	"Scarlet Mallet ""Spirit"""	緋鎚Spirit	Scarlet
+weapons-melee-name	6518	"Scarlet Mallet ""Loyalty"""	緋鎚Loyalty	Scarlet
+weapons-melee-name	6519	"Scarlet Mallet ""Ogre"""	緋鎚Ogre	Scarlet
+weapons-melee-name	6543	Thunder Bash I	THＵNＤ老ＲＢSHⅠ	Thunder Bash
+weapons-melee-name	6544	Thunder Bash II	THＵNＤ老ＲＢSHⅠⅠ	Thunder Bash
+weapons-melee-name	6545	Thunder Bash III	THＵNＤ老ＲＢSHⅠⅠⅠ	Thunder Bash
+weapons-melee-name	6584	"Scarlet Horn ""Dance"""	緋角Dance	Scarlet
+weapons-melee-name	6585	"Scarlet Horn ""Party"""	緋角Party	Scarlet
+weapons-melee-name	6586	"Scarlet Horn ""Dancer"""	緋角Dancer	Scarlet
+weapons-melee-name	6587	"Scarlet Horn ""Musical"""	緋角Musical	Scarlet
+weapons-melee-name	6588	"Scarlet Horn ""Resolve"""	緋角Resolve	Scarlet
+weapons-melee-name	6768	"Taikun Edge ""Safflower"""	多殼蟹刃Safflower	Taikun
+weapons-melee-name	6769	"Taikun Edge ""Camillia"""	多殼蟹刃Camillia	Taikun
+weapons-melee-name	6770	"Taikun Edge ""Phnxflower"""	多殼蟹刃Phnxflower	Taikun
+weapons-melee-name	6866	"Taikun Hammer ""Santalum"""	多殼蟹大錘Santalum	Taikun
+weapons-melee-name	6867	"Taikun Hammer ""Buxus"""	多殼蟹大錘Buxus	Taikun
+weapons-melee-name	6868	"Taikun Hammer ""Juglans"""	多殼蟹大錘Juglans	Taikun
+weapons-melee-name	6869	"Taikun Hammer ""Lindera"""	多殼蟹大錘Lindera	Taikun
+weapons-melee-name	6966	"Taikun Lance ""Lily"""	多殼蟹長槍Lily	Taikun
+weapons-melee-name	6967	"Taikun Lance ""Deutzia"""	多殼蟹長槍Deutzia	Taikun
+weapons-melee-name	6968	"Taikun Lance""Chloranths"""	多殼蟹長槍Chloranths	Taikun
+weapons-melee-name	6969	"Taikun Lance ""Daphne"""	多殼蟹長槍Daphne	Taikun
+weapons-melee-name	6999	"Taikun Spear ""Peony"""	多殼蟹槍Peony	Taikun
+weapons-melee-name	7000	"Taikun Spear ""Punica"""	多殼蟹槍Punica	Taikun
+weapons-melee-name	7001	"Taikun Spear ""Papaver"""	多殼蟹槍Papaver	Taikun
+weapons-melee-name	7002	"Taikun Spear ""Clivia"""	多殼蟹槍Clivia	Taikun
+weapons-melee-name	7009	"Ice Gunlance ""Drop"""	冰銃槍Drop	Ice
+weapons-melee-name	7010	"Ice Gunlance ""Blast"""	冰銃槍Blast	Ice
+weapons-melee-name	7011	"Ice Gunlance ""Burst"""	冰銃槍Burst	Ice
+weapons-melee-name	7083	"Thunder Sword ""Oni"""	雷劍Oni	Thunder
+weapons-melee-name	7084	"Thunder Sword ""Onibu"""	雷劍Onibu	Thunder
+weapons-melee-name	7085	"Thunder Sword ""Onimusha"""	雷劍Onimusha	Thunder
+weapons-melee-name	7086	"Thunder Sword ""Onitake"""	雷劍Onitake	Thunder
+weapons-melee-name	7088	"Water Sword ""Oni"""	水劍Oni	Water
+weapons-melee-name	7089	"Water Sword ""Onibu"""	水劍Onibu	Water
+weapons-melee-name	7090	"Water Sword ""Onimusha"""	水劍Onimusha	Water
+weapons-melee-name	7091	"Water Sword ""Onitake"""	水劍Onitake	Water
+weapons-melee-name	7312	Aqua Blitz SPⅠ	水SPⅠ	Aqua Blitz
+weapons-melee-name	7313	Aqua Blitz SPⅡ	水SPⅡ	Aqua Blitz
+weapons-melee-name	7314	Aqua Blitz SPⅢ	水SPⅢ	Aqua Blitz
+weapons-melee-name	7376	"Crystal Edge ""Fulg"""	結晶刃Fulg	Crystal
+weapons-melee-name	7377	"Crystal Edge ""Fulgor"""	結晶刃Fulgor	Crystal
+weapons-melee-name	7378	"Crystal Edge ""Lux"""	結晶刃Lux	Crystal
+weapons-melee-name	7379	"Crystal Edge ""Lux Solis"""	結晶刃Lux Solis	Crystal
+weapons-melee-name	7418	"Dragon Hammer ""Crush"""	龍大錘Crush	Dragon
+weapons-melee-name	7419	"Dragon Hammer ""Break"""	龍大錘Break	Dragon
+weapons-melee-name	7420	"Dragon Hammer ""Broken"""	龍大錘Broken	Dragon
+weapons-melee-name	7488	"Thunder Spear ""Roar"""	雷槍Roar	Thunder
+weapons-melee-name	7489	"Thunder Spear ""Rumble"""	雷槍Rumble	Thunder
+weapons-melee-name	7490	"Thunder Spear ""Sunder"""	雷槍Sunder	Thunder
+weapons-melee-name	7491	Don Frozen SPⅠ	堂SPⅠ	Don Frozen
+weapons-melee-name	7492	Don Frozen SPⅡ	堂SPⅡ	Don Frozen
+weapons-melee-name	7493	Don Frozen SPⅢ	堂SPⅢ	Don Frozen
+weapons-melee-name	7534	"Scarlet Spear ""Courage"""	緋槍Courage	Scarlet
+weapons-melee-name	7535	"Scarlet Spear ""Brave"""	緋槍Brave	Scarlet
+weapons-melee-name	7536	"Scarlet Spear ""Daring"""	緋槍Daring	Scarlet
+weapons-melee-name	7537	"Scarlet Spear ""Heroic"""	緋槍Heroic	Scarlet
+weapons-melee-name	7538	"Scarlet Spear ""Valor"""	緋槍Valor	Scarlet
+weapons-melee-name	7681	"Taikun Edge ""Spidr Lily"""	多殼蟹刃Spidr Lily	Taikun
+weapons-melee-name	7953	"Taikun Blade ""Peony"""	多殼蟹刃Peony	Taikun
+weapons-melee-name	8241	"Taikun Sword ""Gentian"""	多殼蟹劍Gentian	Taikun
+weapons-melee-name	8242	"Taikun Sword ""Asterid"""	多殼蟹劍Asterid	Taikun
+weapons-melee-name	8243	"Taikun Katana ""Gentian"""	多殼蟹刀Gentian	Taikun
+weapons-melee-name	8806	"Taikun GS ""Scarlet Flwr"""	多殼蟹Scarlet FlwrGS	Taikun
+weapons-melee-name	9742	"Bone Katana ""Storm"""	骨製刀Storm	Bone
+weapons-melee-name	9758	Darkness Lance	ＤＲｋN老SS長槍	Darkness
+weapons-melee-name	9794	"Nameless Dagger ""Blk"" Ⅰ"	無名短劍BlkⅠ	Nameless
+weapons-melee-name	9795	"Nameless Dagger ""Blk"" Ⅱ"	無名短劍BlkⅡ	Nameless
+weapons-melee-name	9796	"Nameless Dagger ""Blk"" Ⅲ"	無名短劍BlkⅢ	Nameless
+weapons-melee-name	9797	"Nameless Dagger ""Blk"" Ⅳ"	無名短劍BlkⅣ	Nameless
+weapons-melee-name	9798	"Nameless Dagger ""Blk"" Ⅴ"	無名短劍BlkⅤ	Nameless
+weapons-melee-name	10235	"Taikun GS ""Iris"""	多殼蟹IrisGS	Taikun
+weapons-melee-name	11573	"Fury Hammer ""Waves"""	憤怒之大錘Waves	Fury
+weapons-melee-name	12023	"Dragon Katana ""Dragon"" Ⅰ"	龍刀DragonⅠ	Dragon
+weapons-melee-name	12024	"Dragon Katana ""Dragon"" Ⅱ"	龍刀DragonⅡ	Dragon
+weapons-melee-name	12026	"Dragon Katana ""Dragon"" Ⅲ"	龍刀DragonⅢ	Dragon
+weapons-melee-name	12027	"Dragon Katana ""Dragon"" Ⅳ"	龍刀DragonⅣ	Dragon
+weapons-melee-name	12028	"Dragon Katana ""Dragon"" Ⅴ"	龍刀DragonⅤ	Dragon
+weapons-melee-name	12029	"Dragon Katana ""Dragon"" Ⅵ"	龍刀DragonⅥ	Dragon
+weapons-melee-name	12030	"Dragon Katana ""Flame"" Ⅰ"	龍刀FlameⅠ	Dragon
+weapons-melee-name	12031	"Dragon Katana ""Flame"" Ⅱ"	龍刀FlameⅡ	Dragon
+weapons-melee-name	12033	"Dragon Katana ""Flame"" Ⅲ"	龍刀FlameⅢ	Dragon
+weapons-melee-name	12034	"Dragon Katana ""Flame"" Ⅳ"	龍刀FlameⅣ	Dragon
+weapons-melee-name	12035	"Dragon Katana ""Flame"" Ⅴ"	龍刀FlameⅤ	Dragon
+weapons-melee-name	12036	"Dragon Katana ""Flame"" Ⅵ"	龍刀FlameⅥ	Dragon
+weapons-melee-name	12287	Fang Merman Z	FNＧM老ＲMNZ	Fang Merman
+weapons-melee-name	12288	Fang Merman X	FNＧM老ＲMNⅩ	Fang Merman
+weapons-melee-name	13032	"Azoth Sword ""Blue"" I"	阿佐斯劍BlueⅠ	Azoth
+weapons-melee-name	13033	"Azoth Sword ""Blue"" II"	阿佐斯劍BlueⅠⅠ	Azoth
+weapons-melee-name	13034	"Azoth Sword ""Blue"" III"	阿佐斯劍BlueⅠⅠⅠ	Azoth
+weapons-melee-name	13035	"Azoth Sword ""Blue"" IV"	阿佐斯劍BlueⅠⅤ	Azoth
+weapons-melee-name	13036	"Azoth Sword ""Blue"" V"	阿佐斯劍BlueⅤ	Azoth
+weapons-melee-name	13037	"Azoth Sword ""Blue"" VI"	阿佐斯劍BlueⅤⅠ	Azoth
+weapons-melee-name	13282	"Fury Hammer ""Anger"""	憤怒之大錘Anger	Fury
+weapons-melee-name	13283	"Fury Hammer ""Wrath"""	憤怒之大錘Wrath	Fury
+weapons-melee-name	13284	"Fury Hammer ""Rage"""	憤怒之大錘Rage	Fury
+weapons-melee-name	13285	"Fury Hammer ""Violent"""	憤怒之大錘Violent	Fury
+weapons-melee-name	13286	"Fury Hammer ""Resentment"""	憤怒之大錘Resentment	Fury
+weapons-melee-name	13287	"Fury Hammer""Indignation"""	憤怒之大錘Indignation	Fury
+weapons-melee-name	13289	"Fury Lance ""Zeal"""	憤怒之長槍Zeal	Fury
+weapons-melee-name	13290	"Fury Lance ""Passion"""	憤怒之長槍Passion	Fury
+weapons-melee-name	13291	"Fury Lance ""Earnest"""	憤怒之長槍Earnest	Fury
+weapons-melee-name	13292	"Fury Lance ""Enthusiasm"""	憤怒之長槍Enthusiasm	Fury
+weapons-melee-name	13293	"Fury Lance ""Eager"""	憤怒之長槍Eager	Fury
+weapons-melee-name	13294	"Fury Lance ""Ardent"""	憤怒之長槍Ardent	Fury
+weapons-melee-name	13296	"Fury Lance ""Hate"""	憤怒之長槍Hate	Fury
+weapons-melee-name	13297	"Fury Gunlance ""Malice"""	憤怒之銃槍Malice	Fury
+weapons-melee-name	13298	"Fury Gunlance ""Deadly"""	憤怒之銃槍Deadly	Fury
+weapons-melee-name	13299	"Fury Gunlance ""Venom"""	憤怒之銃槍Venom	Fury
+weapons-melee-name	13300	"Fury Gunlance ""Furious"""	憤怒之銃槍Furious	Fury
+weapons-melee-name	13301	"Fury Gunlance ""Toxic"""	憤怒之銃槍Toxic	Fury
+weapons-melee-name	13575	"Fury Hammer ""Tsunami"""	憤怒之大錘Tsunami	Fury
+weapons-melee-name	15085	"Lightning Axe ""Ruler"""	雷光斧Ruler	Lightning
+weapons-melee-name	15088	"Dragon Axe ""Servant"""	龍斧Servant	Dragon
+weapons-melee-name	16132	"Renka Sword ""Pine"""	蓮華劍Pine	Renka
+weapons-melee-name	16133	"Renka Sword ""Pinus"""	蓮華劍Pinus	Renka
+weapons-melee-name	16134	"Renka Sword ""Butterfly"""	蓮華劍Butterfly	Renka
+weapons-melee-name	16136	"Renka Edge ""Sakura"""	蓮華刃Sakura	Renka
+weapons-melee-name	16137	"Renka Edge ""Prunus"""	蓮華刃Prunus	Renka
+weapons-melee-name	16138	"Renka Edge ""Polarize"""	蓮華刃Polarize	Renka
+weapons-melee-name	16144	"Renka Spear ""Iris"""	蓮華槍Iris	Renka
+weapons-melee-name	16145	"Renka Spear ""Calamus"""	蓮華槍Calamus	Renka
+weapons-melee-name	16146	"Renka Spear ""Lightdrain"""	蓮華槍Lightdrain	Renka
+weapons-melee-name	16148	"Renka Tonfa ""Peony"""	蓮華穿龍棍Peony	Renka
+weapons-melee-name	16150	"Renka Tonfa ""Gemlight"""	蓮華穿龍棍Gemlight	Renka
+weapons-melee-name	16152	"Renka Axe ""Clover"""	蓮華斧Clover	Renka
+weapons-melee-name	16153	"Renka Axe ""Lespedeza"""	蓮華斧Lespedeza	Renka
+weapons-melee-name	16154	"Renka Axe ""Halo"""	蓮華斧Halo	Renka
+weapons-melee-name	16231	"Dark Sword ""Ixobrychus"""	闇劍Ixobrychus	Dark
+weapons-melee-name	16232	"Dark Sword ""Platalea"""	闇劍Platalea	Dark
+weapons-melee-name	16233	"Dark Sword ""Nycticorax"""	闇劍Nycticorax	Dark
+weapons-melee-name	16234	"Dark Sword ""Egretta"""	闇劍Egretta	Dark
+weapons-melee-name	16235	"Dark Edge ""Paradoxornis"""	闇刃Paradoxornis	Dark
+weapons-melee-name	16236	"Dark Edge ""Emberiza"""	闇刃Emberiza	Dark
+weapons-melee-name	16237	"Dark Edge ""Parus"""	闇刃Parus	Dark
+weapons-melee-name	16238	"Dark Edge ""Bombycilla"""	闇刃Bombycilla	Dark
+weapons-melee-name	16239	"Dark Gun ""Ptyonoprogne"""	闇銃Ptyonoprogne	Dark
+weapons-melee-name	16240	"Dark Gun ""Apus"""	闇銃Apus	Dark
+weapons-melee-name	16241	"Dark Gun ""Hydrobates"""	闇銃Hydrobates	Dark
+weapons-melee-name	16242	"Dark Gun ""Hirundo"""	闇銃Hirundo	Dark
+weapons-melee-name	16247	"Dark Axe ""Corvus"""	闇斧Corvus	Dark
+weapons-melee-name	16248	"Dark Axe ""Corax"""	闇斧Corax	Dark
+weapons-melee-name	16249	"Dark Axe ""Corone"""	闇斧Corone	Dark
+weapons-melee-name	16250	"Dark Axe ""Macrorhynchos"""	闇斧Macrorhynchos	Dark
+weapons-melee-name	16278	"Renka Blade ""Willow"""	蓮華刃Willow	Renka
+weapons-melee-name	16279	"Renka Blade ""Salix"""	蓮華刃Salix	Renka
+weapons-melee-name	16280	"Renka Blade ""Refraction"""	蓮華刃Refraction	Renka
+weapons-melee-name	16282	"Renka Hammer ""Paulownia"""	蓮華大錘Paulownia	Renka
+weapons-melee-name	16283	"Renka Hammer ""Foxglove"""	蓮華大錘Foxglove	Renka
+weapons-melee-name	16284	"Renka Hammer ""Echo"""	蓮華大錘Echo	Renka
+weapons-melee-name	16469	"Rondo Blade ""Walls"""	輪旋刃Walls	Rondo
+weapons-melee-name	16470	"Rondo Blade ""Moat"""	輪旋刃Moat	Rondo
+weapons-melee-name	16471	"Rondo Blade ""Trench"""	輪旋刃Trench	Rondo
+weapons-melee-name	16472	"Rondo Blade ""Home"""	輪旋刃Home	Rondo
+weapons-melee-name	16473	"Rondo Mace ""Xuanwu"""	輪旋鎚Xuanwu	Rondo
+weapons-melee-name	16474	"Rondo Mace ""Brand"""	輪旋鎚Brand	Rondo
+weapons-melee-name	16476	"Rondo Mace ""Yamato"""	輪旋鎚Yamato	Rondo
+weapons-melee-name	16477	"Rondo Cannon ""Iron"""	輪旋加農砲Iron	Rondo
+weapons-melee-name	16478	"Rondo Cannon ""Triple"""	輪旋加農砲Triple	Rondo
+weapons-melee-name	16479	"Rondo Cannon ""Devas"""	輪旋加農砲Devas	Rondo
+weapons-melee-name	16480	"Rondo Cannon ""Target"""	輪旋加農砲Target	Rondo
+weapons-melee-name	16481	"Rondo Tonfa ""Portcullis"""	輪旋穿龍棍Portcullis	Rondo
+weapons-melee-name	16482	"Rondo Tonfa ""Toranomon"""	輪旋穿龍棍Toranomon	Rondo
+weapons-melee-name	16483	"Rondo Tonfa ""Sakuramon"""	輪旋穿龍棍Sakuramon	Rondo
+weapons-melee-name	16484	"Rondo Tonfa ""Ogura"""	輪旋穿龍棍Ogura	Rondo
+weapons-melee-name	16485	"Rondo Axe ""Vanguard"""	輪旋斧Vanguard	Rondo
+weapons-melee-name	16486	"Rondo Axe ""Second"""	輪旋斧Second	Rondo
+weapons-melee-name	16487	"Rondo Axe ""Spearhead"""	輪旋斧Spearhead	Rondo
+weapons-melee-name	16488	"Rondo Axe ""Kasai"""	輪旋斧Kasai	Rondo
+weapons-melee-name	16763	"Rondo Sword ""Torches"""	輪旋劍Torches	Rondo
+weapons-melee-name	16764	"Rondo Sword ""Shores"""	輪旋劍Shores	Rondo
+weapons-melee-name	16765	"Rondo Sword ""Remnants"""	輪旋劍Remnants	Rondo
+weapons-melee-name	16766	"Rondo Sword ""Swan"""	輪旋劍Swan	Rondo
+weapons-melee-name	16767	"Rondo Katana ""Saruishi"""	輪旋刀Saruishi	Rondo
+weapons-melee-name	16768	"Rondo Katana ""Drought"""	輪旋刀Drought	Rondo
+weapons-melee-name	16769	"Rondo Katana ""Heartland"""	輪旋刀Heartland	Rondo
+weapons-melee-name	16770	"Rondo Katana ""Flamestep"""	輪旋刀Flamestep	Rondo
+weapons-melee-name	16771	"Rondo Horn ""Catch"""	輪旋角Catch	Rondo
+weapons-melee-name	16772	"Rondo Horn ""Kuzumari"""	輪旋角Kuzumari	Rondo
+weapons-melee-name	16773	"Rondo Horn ""Granary"""	輪旋角Granary	Rondo
+weapons-melee-name	16774	"Rondo Horn ""Veil"""	輪旋角Veil	Rondo
+weapons-melee-name	16775	"Rondo Lance ""Salt"""	輪旋長槍Salt	Rondo
+weapons-melee-name	16776	"Rondo Lance ""Dock"""	輪旋長槍Dock	Rondo
+weapons-melee-name	16777	"Rondo Lance ""Spotlight"""	輪旋長槍Spotlight	Rondo
+weapons-melee-name	16778	"Rondo Lance ""Vane"""	輪旋長槍Vane	Rondo
+weapons-melee-name	16987	"Graham Spike ""Fire"""	格雷刺Fire	Graham Spike
+weapons-melee-name	16988	"Graham Spike ""Water"""	格雷刺Water	Graham Spike
+weapons-melee-name	16989	"Graham Spike ""Lightning"""	格雷刺Lightning	Graham Spike
+weapons-melee-name	16990	"Graham Spike ""Ice"""	格雷刺Ice	Graham Spike
+weapons-melee-name	16991	"Graham Spike ""Dragon"""	格雷刺Dragon	Graham Spike
+weapons-melee-name	17251	"Lethe Tonfa ""Okuninushi"""	勒特穿龍棍Okuninushi	Lethe
+weapons-melee-name	17254	"Lethe Axe ""Desire"""	勒特斧Desire	Lethe
+weapons-melee-name	17255	"Lethe Axe ""Budai"""	勒特斧Budai	Lethe
+weapons-melee-name	17464	"Layer Edge ""Bellflower"""	層刃Bellflower	Layer
+weapons-melee-name	17465	"Layer Edge ""Ashitaba"""	層刃Ashitaba	Layer
+weapons-melee-name	17466	"Layer Edge ""Crapemyrtle"""	層刃Crapemyrtle	Layer
+weapons-melee-name	17468	"Layer Hammer ""Magnolia"""	層大錘Magnolia	Layer
+weapons-melee-name	17469	"Layer Hammer ""Oleander"""	層大錘Oleander	Layer
+weapons-melee-name	17470	"Layer Hammer ""Camellia"""	層大錘Camellia	Layer
+weapons-melee-name	17472	"Layer Tonfa ""Snowball"""	層穿龍棍Snowball	Layer
+weapons-melee-name	17473	"Layer Tonfa ""Bluecrown"""	層穿龍棍Bluecrown	Layer
+weapons-melee-name	17474	"Layer Tonfa ""Klamath"""	層穿龍棍Klamath	Layer
+weapons-melee-name	17476	"Layer Axe ""Primrose"""	層斧Primrose	Layer
+weapons-melee-name	17477	"Layer Axe ""Spiderwort"""	層斧Spiderwort	Layer
+weapons-melee-name	17478	"Layer Axe ""Dragonstail"""	層斧Dragonstail	Layer
+weapons-ranged-name	119	"Dragon Bow ""Uprising"""	龍弓Uprising	Dragon
+weapons-ranged-name	214	"Dragon Bow ""Eclipse"""	龍弓Eclipse	Dragon
+weapons-ranged-name	350	Moss Scissors SPⅠ	苔剪刀SPⅠ	Moss Scissors
+weapons-ranged-name	351	Moss Scissors SPⅡ	苔剪刀SPⅡ	Moss Scissors
+weapons-ranged-name	352	Moss Scissors SPⅢ	苔剪刀SPⅢ	Moss Scissors
+weapons-ranged-name	357	Mauve Blaster SPⅠ	紫爆裂SPⅠ	Mauve Blaster
+weapons-ranged-name	358	Mauve Blaster SPⅡ	紫爆裂SPⅡ	Mauve Blaster
+weapons-ranged-name	359	Mauve Blaster SPⅢ	紫爆裂SPⅢ	Mauve Blaster
+weapons-ranged-name	371	Dark Full Bow SPⅠ	闇弓SPⅠ	Dark Full
+weapons-ranged-name	372	Dark Full Bow SPⅡ	闇弓SPⅡ	Dark Full
+weapons-ranged-name	373	Dark Full Bow SPⅢ	闇弓SPⅢ	Dark Full
+weapons-ranged-name	378	Long Horn Bow SPⅠ	弓長角SPⅠ	Long Bow
+weapons-ranged-name	379	Long Horn Bow SPⅡ	弓長角SPⅡ	Long Bow
+weapons-ranged-name	380	Long Horn Bow SPⅢ	弓長角SPⅢ	Long Bow
+weapons-ranged-name	399	Flame Beat SP Ⅰ	炎SP	Flame Beat
+weapons-ranged-name	400	Flame Beat SP Ⅱ	炎SP	Flame Beat
+weapons-ranged-name	401	Flame Beat SP Ⅲ	炎SP	Flame Beat
+weapons-ranged-name	402	Flame Beat SP Ⅳ	炎SP	Flame Beat
+weapons-ranged-name	403	Flame Beat SP Ⅴ	炎SP	Flame Beat
+weapons-ranged-name	404	Flame Beat SP Ⅵ	炎SP	Flame Beat
+weapons-ranged-name	405	Flame Beat SP Ⅶ	炎SP	Flame Beat
+weapons-ranged-name	406	Aqua Feather SP Ⅰ	水SP	Aqua Feather
+weapons-ranged-name	407	Aqua Feather SP Ⅱ	水SP	Aqua Feather
+weapons-ranged-name	408	Aqua Feather SP Ⅲ	水SP	Aqua Feather
+weapons-ranged-name	409	Aqua Feather SP Ⅳ	水SP	Aqua Feather
+weapons-ranged-name	410	Aqua Feather SP Ⅴ	水SP	Aqua Feather
+weapons-ranged-name	411	Aqua Feather SP Ⅵ	水SP	Aqua Feather
+weapons-ranged-name	412	Aqua Feather SP Ⅶ	水SP	Aqua Feather
+weapons-ranged-name	413	Black Swan Gift SPⅠ	黑天鵝贈礼SPⅠ	Black Swan Gift
+weapons-ranged-name	414	Black Swan Gift SPⅡ	黑天鵝贈礼SPⅡ	Black Swan Gift
+weapons-ranged-name	415	Black Swan Gift SPⅢ	黑天鵝贈礼SPⅢ	Black Swan Gift
+weapons-ranged-name	420	Still Water Bow SPⅠ	水靜弓SPⅠ	Still Water
+weapons-ranged-name	421	Still Water Bow SPⅡ	水靜弓SPⅡ	Still Water
+weapons-ranged-name	422	Still Water Bow SPⅢ	水靜弓SPⅢ	Still Water
+weapons-ranged-name	427	Tigre Stream SPⅠ	虎流SPⅠ	Tigre Stream
+weapons-ranged-name	428	Tigre Stream SPⅡ	虎流SPⅡ	Tigre Stream
+weapons-ranged-name	429	Tigre Stream SPⅢ	虎流SPⅢ	Tigre Stream
+weapons-ranged-name	434	Generator SPⅠ	發生器SPⅠ	Generator
+weapons-ranged-name	435	Generator SPⅡ	發生器SPⅡ	Generator
+weapons-ranged-name	436	Generator SPⅢ	發生器SPⅢ	Generator
+weapons-ranged-name	441	Black Bogen SPⅠ	弓黑SPⅠ	Black Bogen
+weapons-ranged-name	442	Black Bogen SPⅡ	弓黑SPⅡ	Black Bogen
+weapons-ranged-name	443	Black Bogen SPⅢ	弓黑SPⅢ	Black Bogen
+weapons-ranged-name	448	Dragon Landslide Bow SPⅠ	龍山崩弓SPⅠ	Dragon Landslide
+weapons-ranged-name	449	Dragon Landslide Bow SPⅡ	龍山崩弓SPⅡ	Dragon Landslide
+weapons-ranged-name	450	Dragon Landslide Bow SPⅢ	龍山崩弓SPⅢ	Dragon Landslide
+weapons-ranged-name	455	Phoenix Roar SPⅠ	鳳凰轟鳴SPⅠ	Phoenix Roar
+weapons-ranged-name	456	Phoenix Roar SPⅡ	鳳凰轟鳴SPⅡ	Phoenix Roar
+weapons-ranged-name	457	Phoenix Roar SPⅢ	鳳凰轟鳴SPⅢ	Phoenix Roar
+weapons-ranged-name	469	Berg Shooter SPⅠ	山射手SPⅠ	Berg
+weapons-ranged-name	470	Berg Shooter SPⅡ	山射手SPⅡ	Berg
+weapons-ranged-name	471	Berg Shooter SPⅢ	山射手SPⅢ	Berg
+weapons-ranged-name	483	Jade Bow SPⅠ	傑阿德艾弓SPⅠ	Jade
+weapons-ranged-name	484	Jade Bow SPⅡ	傑阿德艾弓SPⅡ	Jade
+weapons-ranged-name	485	Jade Bow SPⅢ	傑阿德艾弓SPⅢ	Jade
+weapons-ranged-name	705	Red Cat Gun SP	赤猫銃SP	Red Cat
+weapons-ranged-name	1006	"Fury Lbg ""Seabreeze"""	憤怒之輕弩槍Seabreeze	Fury
+weapons-ranged-name	1007	"Fury Lbg ""Seagull"""	憤怒之輕弩槍Seagull	Fury
+weapons-ranged-name	1033	"Fury Hbg ""Pieridae"""	憤怒之重弩槍Pieridae	Fury
+weapons-ranged-name	1034	"Fury Hbg ""White Dew"""	憤怒之重弩槍White Dew	Fury
+weapons-ranged-name	1137	"Fury Bow ""Night Fog"""	憤怒之弓Night Fog	Fury
+weapons-ranged-name	1138	"Fury Bow ""Ice Rain"""	憤怒之弓Ice Rain	Fury
+weapons-ranged-name	1139	"Fury Bow ""Blizzard"""	憤怒之弓Blizzard	Fury
+weapons-ranged-name	1140	"Fury Bow ""Winter"""	憤怒之弓Winter	Fury
+weapons-ranged-name	1195	"Scarlet Bow ""Crimson"""	緋弓Crimson	Scarlet
+weapons-ranged-name	1196	"Scarlet Bow ""Vermillion"""	緋弓Vermillion	Scarlet
+weapons-ranged-name	1197	"Scarlet Bow ""Flame"""	緋弓Flame	Scarlet
+weapons-ranged-name	1203	"Black Bow ""Evening"""	黒弓Evening	Black
+weapons-ranged-name	1204	"Black Bow ""Night"""	黒弓Night	Black
+weapons-ranged-name	1205	"Black Bow ""Eternity"""	黒弓Eternity	Black
+weapons-ranged-name	1271	"Scarlet LBG ""Ripple"""	緋輕弩槍Ripple	Scarlet
+weapons-ranged-name	1272	"Scarlet LBG ""Bird"""	緋輕弩槍Bird	Scarlet
+weapons-ranged-name	1273	"Scarlet LBG ""Heroic"""	緋輕弩槍Heroic	Scarlet
+weapons-ranged-name	1297	"Scarlet Bow ""Glint"""	緋弓Glint	Scarlet
+weapons-ranged-name	1298	"Scarlet Bow ""Cormorant"""	緋弓Cormorant	Scarlet
+weapons-ranged-name	1299	"Scarlet Bow ""Insight"""	緋弓Insight	Scarlet
+weapons-ranged-name	1300	"Scarlet Bow ""Eagle Eye"""	緋弓Eagle Eye	Scarlet
+weapons-ranged-name	1301	"Scarlet Bow ""Hawk Eye"""	緋弓Hawk Eye	Scarlet
+weapons-ranged-name	1328	"Black Bow ""Mist"""	黒弓Mist	Black
+weapons-ranged-name	1331	"Dragon Bow ""Ruins"""	龍弓Ruins	Dragon
+weapons-ranged-name	1336	"Taikun Cannon ""Gunnera"""	多殼蟹加農砲Gunnera	Taikun
+weapons-ranged-name	1338	"Fury Hbg ""Sakura"" SP"	憤怒之重弩槍SakuraSP	Fury
+weapons-ranged-name	1374	"Frost Bow ""Cold Wave"""	霜弓Cold Wave	Frost
+weapons-ranged-name	1375	"Frost Bow ""Ice Flower"""	霜弓Ice Flower	Frost
+weapons-ranged-name	1376	"Frost Bow ""Northwind"""	霜弓Northwind	Frost
+weapons-ranged-name	1409	"Black Bow ""Darkness"""	黒弓Darkness	Black
+weapons-ranged-name	1448	"Fury Lbg ""Verdure""SP"	憤怒之輕弩槍VerdureSP	Fury
+weapons-ranged-name	1558	"Taikun Bow ""Coix"""	多殼蟹弓Coix	Taikun
+weapons-ranged-name	1559	"Taikun Bow ""Pennisetum"""	多殼蟹弓Pennisetum	Taikun
+weapons-ranged-name	1865	"Fury Bow ""Blossom"""	憤怒之弓Blossom	Fury
+weapons-ranged-name	2631	Starlight mkⅢ・Ⅰ	星光MkⅢⅠ	Starlight mkⅢ
+weapons-ranged-name	2632	Starlight mkⅢ・Ⅱ	星光MkⅢⅡ	Starlight mkⅢ
+weapons-ranged-name	2633	Starlight mkⅢ・Ⅲ	星光MkⅢⅢ	Starlight mkⅢ
+weapons-ranged-name	2634	Starlight mkⅢ・Ⅳ	星光MkⅢⅣ	Starlight mkⅢ
+weapons-ranged-name	2635	Starlight mkⅢ・Ⅴ	星光MkⅢⅤ	Starlight mkⅢ
+weapons-ranged-name	2636	Starlight mkⅢ・Ⅵ	星光MkⅢⅥ	Starlight mkⅢ
+weapons-ranged-name	3627	"Lightning Gun ""Shoot"""	雷光銃Shoot	Lightning
+weapons-ranged-name	3628	"Lightning Gun ""Strike"""	雷光銃Strike	Lightning
+weapons-ranged-name	3629	"Lightning Gun ""Burst"""	雷光銃Burst	Lightning
+weapons-ranged-name	3631	"Lightning Cannon ""Light"""	雷光加農砲Light	Lightning
+weapons-ranged-name	3632	"Lightning Cannon ""Heat"""	雷光加農砲Heat	Lightning
+weapons-ranged-name	3635	"Lightning Bow ""Other"""	雷光弓Other	Lightning
+weapons-ranged-name	3636	"Lightning Bow ""Riot"""	雷光弓Riot	Lightning
+weapons-ranged-name	3637	"Lightning Bow ""Lunatic"""	雷光弓Lunatic	Lightning
+weapons-ranged-name	3922	"Renka Cannon""Miscanthus"""	蓮華加農砲Miscanthus	Renka
+weapons-ranged-name	3923	"Renka Cannon ""Sinensis"""	蓮華加農砲Sinensis	Renka
+weapons-ranged-name	3926	"Renka Bow ""Chrysanth"""	蓮華弓Chrysanth	Renka
+weapons-ranged-name	3927	"Renka Bow ""Morifolium"""	蓮華弓Morifolium	Renka
+weapons-ranged-name	3946	"Dark Launcher ""Saxicola"""	闇發射器Saxicola	Dark
+weapons-ranged-name	3947	"Dark Launcher ""Ficedula"""	闇發射器Ficedula	Dark
+weapons-ranged-name	3948	"Dark Launcher ""Auroreus"""	闇發射器Auroreus	Dark
+weapons-ranged-name	3949	"Dark Launcher ""Tarsiger"""	闇發射器Tarsiger	Dark
+weapons-ranged-name	3955	"Renka Gun ""Petasites"""	蓮華銃Petasites	Renka
+weapons-ranged-name	3956	"Renka Gun ""Milvus"""	蓮華銃Milvus	Renka
+weapons-ranged-name	4110	"Goru Cannon ""Zero"""	戈魯加農砲Zero	Goru
+weapons-ranged-name	4114	"Aru Cannon ""Zero"""	阿魯加農砲Zero	Aru
+weapons-ranged-name	4152	"Lethe Cannon ""Desire"""	勒特加農砲Desire	Lethe
+weapons-ranged-name	4153	"Lethe Cannon ""Marici"""	勒特加農砲Marici	Lethe
+weapons-ranged-name	4156	"Lethe Arrow ""Desire"""	勒特矢Desire	Lethe
+weapons-ranged-name	4157	"Lethe Arrow ""Fukurokuju"""	勒特矢Fukurokuju	Lethe
