@@ -5,13 +5,15 @@ alwaysApply: true
 
 # MHF 繁中翻譯 Agent 規則
 
-**目標：** 加快翻譯 + 控制 token + 品質底線（不壞檔／標記／誤導／缺字）。
+**父規範：** `docs/agent-translation-playbook.md`（核心目標衝突表＋Part A）。子規範不得反向覆寫。
 
-1. **父規範**：`docs/agent-translation-playbook.md`（先讀「核心目標」＋Part A）。子規範不得反向覆寫。
-2. **開場精簡**：核心目標＋Part A → `progress.md`／`queue.md` → 該子類 CSV。禁止每輪通讀 STYLE／TODO／全庫／舊長文附錄。
-3. **完成單位**：一個角色 + 一個語意子類；子類未完不得只交摘要就停；禁 batch N／tickets-a/b/c 結案。
-4. **日常推進不必每步確認／feedback**；僅缺備份、工具壞、方針衝突、使用者明示要審時才停。
-5. 推進後更新 `progress.md`（必要時 `TODO.md` Gate）；禁待辦 MCP 雙源。
-6. 本體 `client/MHFCT4.1/`；改前 `_backup/`；bin 不進 commit。
-7. 用字聽 `STYLE.md`（日常三步；禁半翻／片假名混中文）；佔位符不可壞。
-8. Gate0／0.5 未過不做大批本體回寫。
+1. **開場：** 核心目標＋Part A → `progress`／`queue` → 該子類 CSV／字典待查。禁通讀全庫。  
+2. **完成單位：** 一角色＋一語意子類；未完不得只交摘要。  
+3. **快／省 token 不得跳過**全量檢查、web search、字典出處（見衝突表）。  
+4. **翻譯主線以 Part A 為準**（相對逐步確認／feedback 類規則）；僅 commit／回寫／方針／明示要審才停問。  
+5. **結案分狀態：** `translated`＝blocking／high＝0；否則 `qa_issues`。結案附**原始計數**，禁 SAMPLE／空 PASS。  
+6. **專名查序**含 web search；應義譯卻音譯＝至少 high（不論長短）。短音譯須有搜尋紀錄且宜 ≤4 字。  
+7. **字典逕行但禁洗白：** 可建／補並註出處；「待查／純音譯」不得全表套用。  
+8. **無 QA 腳本仍要語意全表自檢**；有腳本（如 `qa_armor_transliteration.py`）須跑並交命中數。  
+9. 結構性／high 超閾不得開下一子類；禁止同一次 Translator 宣告 `qa_done`。  
+10. 本體改前 `_backup/`；bin 不進 commit；Gate0／0.5 未過不做大批回寫。  
