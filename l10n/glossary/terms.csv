@@ -1,4 +1,4 @@
-id,category,source_jp,source_en,target_zh_tw,wilds_ref,frontier_only,register,display_ok,fallback_glyph,notes,approved,review_flag
+﻿id,category,source_jp,source_en,target_zh_tw,wilds_ref,frontier_only,register,display_ok,fallback_glyph,notes,approved,review_flag
 WEA001,weapon_type,大剣,Great Sword / GS,大劍,大劍,N,ui,Y,,武器種｜縮寫 GS,Y,
 WEA002,weapon_type,太刀,Long Sword / LS,太刀,太刀,N,ui,Y,,武器種｜縮寫 LS,Y,
 WEA003,weapon_type,片手剣,Sword & Shield / SnS,單手劍,單手劍,N,ui,Y,,武器種｜縮寫 SnS,Y,
@@ -275,7 +275,8 @@ UI002,ui,,Cap,兜帽,兜帽,N,ui,Y,,UI,Y,
 UI003,ui,,Mail,鎧甲,鎧甲,N,ui,Y,,UI,Y,
 UI004,ui,,Vest,背心,背心,N,ui,Y,,UI,Y,
 UI005,ui,,Greaves,護腿,護腿,N,ui,Y,,UI,Y,
-UI006,ui,,Guards / Guard,臂甲,臂甲,N,ui,Y,,UI｜台服 wiki 腕頁主用臂甲；Arms 仍見 STYLE→腕甲,Y,
+UI006,ui,,Guards / Guard,臂甲,臂甲,N,ui,Y,,UI｜台服 wiki 腕頁劍側主用臂甲,Y,
+UI006A,ui,,Arms,護腕,護腕,N,ui,Y,,UI｜對 Guard＝臂甲；wiki 鎗側多「手甲」、專案定稿「護腕」｜見 issues/armors/arms/part-dict.md,Y,
 UI007,ui,,Tassets,腰甲,腰甲,N,ui,Y,,UI,Y,
 UI008,ui,,Coil,腰甲,腰甲,N,ui,Y,,UI,Y,
 UI009,ui,,Nothing Equipped,未裝備,未裝備,N,ui,Y,,UI,Y,
