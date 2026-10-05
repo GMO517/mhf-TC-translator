@@ -1,10 +1,16 @@
+# 本機暫態（勿進視線、勿進 git）
 _writeback_work/
 _writeback_work_*/
 _verify/
 _verify*/
 _wbtest/
 _wbtest*/
+_backup/
+_extract_armors_tmp/
+_local/
 scratch/
 output/
 __pycache__/
 *.pyc
+*.log
+p1-grok-watch-state.json

@@ -1,6 +1,7 @@
 # 武器 QA
 
-> **你審：** [`series-dict.md`](series-dict.md) ＋ [`series-dict-all.md`](series-dict-all.md) ＋ `melee/`／`ranged/` reviews ＋ **硬垃圾分堆** [`triage/`](triage/)（`bad/`＋`ok/` 分檔）＋ **系列專名叢** [`series-nick-rule.md`](series-nick-rule.md)
+> **你審：** [`../series-dict.md`](../series-dict.md) ＋ [`../series-dict-all.md`](../series-dict-all.md) ＋ [`../melee/`](../melee/)／[`../ranged/`](../ranged/) 的 `reviews-*.md`。  
+> triage 舊稿已移出主視線：[`../../archive/weapons-triage/triage/`](../../archive/weapons-triage/triage/)。參考：[`../ref/`](../ref/)。
 
 ## P1 Integrity
 
@@ -37,10 +38,9 @@
 | CSV `needs_rework` | **0** |
 | 字典仍標「音譯」stem | **119**（`qa-p4-phonetic-stems.tsv`；Grok 已抽核，餘為有出處短音譯） |
 
-## Triage（A＋Y 硬垃圾分堆｜未改譯）
+## Triage（舊稿｜已歸檔｜非現行審面）
 
-> 你審：[`triage/README.md`](triage/README.md) ＋ [`triage/bad/`](triage/bad/) ＋ [`triage/ok/`](triage/ok/)（每檔約 **400** 列）  
-> 腳本：`scratch/_triage_weapon_zh.py`（可複跑）。**本節不標 qa_done。**
+> 已移至 [`../../archive/weapons-triage/triage/`](../../archive/weapons-triage/triage/)。**現行終審只看 reviews。**
 
 | 項目 | 原始計數 |
 |---|---:|
@@ -57,7 +57,7 @@
 
 ### triage 譯稿進度（未回寫 CSV）
 
-> 只改 [`triage/bad/`](triage/bad/)／[`triage/ok/`](triage/ok/) 分檔；表僅原文＋譯文（不記舊譯／來源）。CSV 未回寫。
+> （歷史紀錄）舊流程只改 triage 分檔；現行改看 reviews。
 
 | 堆 | 檔數 | 未定稿 | 狀態 |
 |---|---:|---:|---|
@@ -69,7 +69,7 @@
 | 項目 | 原始計數 |
 |---|---:|
 | `series-nick-clusters.tsv` | **234** |
-| 引號名仍無【】（殘） | 少數截斷引號／特殊 SP（見 [`triage/README.md`](triage/README.md)） |
+| 引號名仍無【】（殘） | 少數截斷引號／特殊 SP（見歸檔 triage README） |
 | `魯貝魯`／長串`加諾`／`普里特伊`／`瓦恩達特` 垃圾標記 | **0**（bad 定稿） |
 
 確認後才一次回寫兩 CSV。腳本：`scratch/_expand_series_nick_clusters.py`＋`scratch/_draft_triage_file.py`。

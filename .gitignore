@@ -17,6 +17,9 @@
 # ----- 本機備份（含完整 dat 複本）-----
 /_backup/
 
+# ----- 根目錄暫用 commit 訊息殘檔 -----
+/_commit*.txt
+
 # ----- 工具原始碼／建置（自行 clone，不上庫或改用 submodule）-----
 /tools/FrontierTextHandler/
 /tools/ReFrontier/

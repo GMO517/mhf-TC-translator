@@ -12,8 +12,9 @@
 | `state/` | `writeback-state.json` |
 | `logs/` | validate／writeback／apply 日誌 |
 | `catalogs/` | 一覽（如 `ITEMS-TRANSLATED.md`） |
-| `scratch/` | 分層 apply／QA（多 gitignore）；改動須在 `qa-*.md` 記命令（orchestration Integrity） |
-| `issues/` | QA 隊列與問題清單（見 `issues/queue.md`） |
+| `scratch/` | 本機暫態腳本／中間檔（gitignore；勿當審面） |
+| `_backup/` 等 | 本機備份／verify／writeback 殘渣（gitignore） |
+| `issues/` | 隊列與審閱（見 `issues/queue.md`）；武器請開 `issues/weapons/README.md` |
 | `paths.py` | 路徑契約 |
 
 舊 `reports/` 已廢止，勿再寫入。

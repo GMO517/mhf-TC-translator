@@ -45,7 +45,7 @@
      - 例：`Festi Echoes Bo`→`祭響【戊】`（十干：甲乙丙丁戊己庚辛壬癸；音碼置`【】`內）  
      - 例：`Red Pass Ⅰ`→`通行證・赤【Ⅰ】`（`Pass`→`通行證`；色・後置；羅馬數字置`【】`）  
      - **武器引號飾詞**：`Name "Azure"`→`本體【蒼】`（禁`本體蒼`黏寫；與 SP／級別同名時級別進`【】`、飾詞改`・`後置，整名最多一個`【】`）  
-     - **武器系列專名叢（型 A）**：同一主題下「形態前綴＋成套專名」（圓桌騎士／北斗星名／棘竜ローゼン短名等）→`前綴【專名】`；禁黏寫。詳見 [`l10n/working/issues/weapons/series-nick-rule.md`](../l10n/working/issues/weapons/series-nick-rule.md)＋[`series-nick-clusters.tsv`](../l10n/working/issues/weapons/series-nick-clusters.tsv)  
+     - **武器系列專名叢（型 A）**：同一主題下「形態前綴＋成套專名」（圓桌騎士／北斗星名／棘竜ローゼン短名等）→`前綴【專名】`；禁黏寫。詳見 [`l10n/working/issues/weapons/ref/series-nick-rule.md`](../l10n/working/issues/weapons/ref/series-nick-rule.md)＋[`series-nick-clusters.tsv`](../l10n/working/issues/weapons/ref/series-nick-clusters.tsv)  
      - `License`→`許可證`（例：`Gar License`→`怪魚許可證`）  
 
    - **天廊系格式**：`Tower`／`Twr`／`T.`＋本體 →`本體【天廊】`（詞庫字用`天廊`；勿改成前綴`天廊…`／`塔…`）  

@@ -1,7 +1,7 @@
-# 武器譯名 triage 譯稿
+# 武器譯名 triage 譯稿（已歸檔｜非現行審面）
 
-> **CSV 尚未回寫。**  
-> 表內欄位僅：`section | index | 原文 | 譯文`。
+> **現行終審：** `issues/weapons/melee|ranged/reviews-*.md`。本目錄僅舊稿備份。  
+> **CSV 當時尚未回寫。** 表內欄位僅：`section | index | 原文 | 譯文`。
 
 ## 進度
 
