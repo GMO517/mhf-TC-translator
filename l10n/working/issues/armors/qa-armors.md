@@ -31,6 +31,18 @@
 - 五 CSV 各 **1** 列空 source（index 見 validate；非譯文問題）
 - **68730** 列中 `kept_pendingish` 約 **1522** 列仍靠舊譯（無定稿詞幹）；非空譯、validate PASS
 
+## 整體 review（完整清單，非前 40／50）
+
+| 用途 | 路徑 | 列數 |
+|---|---|---:|
+| 五槽譯文全表 | `issues/armors/armor-reviews-all.tsv` | **68730** |
+| 140 份 reviews 索引 | `issues/armors/REVIEW-MANIFEST.md` | 140 檔 |
+| 詞幹字典全表 | `issues/armors/series-dict.tsv` | **3796** |
+| 詞幹 human 全表 | `issues/armors/series-dict-all.md` | 3781+15 |
+| 詞幹摘要＋待查全列 | `issues/armors/series-dict.md` | 待查全列 |
+
+產生腳本：`scratch/build_armor_review_manifest.py`、`scratch/refresh_series_dict_md.py`
+
 ## 工具路徑
 
 - P0: `scratch/armor_stem_tiers.tsv`、`scan_armor_stem_tiers.py`
@@ -40,4 +52,4 @@
 ## 結論
 
 - 機械 QA **清零**；可標五部位 **qa_done**（Translator 本輪不代 commit）。
-- **尚未** finish_batch 回寫本體；要 Gate4 回寫請另下口令。
+- **已回寫本體**（2026-10-05 `writeback_sections.py --all-changed` 五槽；見 `logs/writeback.md`）。

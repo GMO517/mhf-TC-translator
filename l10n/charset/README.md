@@ -28,3 +28,13 @@ python check_glossary.py
 
 - `display_ok=Y`：繁中每字皆在白名單，且可 CP932 編碼  
 - `display_ok=N`：有缺字；若 fallback 有對應則填 `fallback_glyph`
+
+## 顯示特例（換字體時必查，非只靠 fallback 一行）
+
+| 主題 | 定稿／語意 | 現行顯示 | 記錄位置 |
+|---|---|---|---|
+| 貓 | 貓（如艾路**貓**） | **猫** | `fallback_map.csv` 貓→猫；`terms` fallback_glyph |
+| 頭部防具 Helm／Head | **頭盔**（UI001） | **頭鎧**（禁 **頭兜**） | `issues/armors/head/part-dict.md`；`STYLE.md` §防具；pipeline `Helm`/`Head`→頭鎧；`Nothing Equipped`→未裝備（不加部位） |
+| 盔（一般） | 含「盔」之他處 | 可能 **兜** | `fallback_map.csv` 盔→兜；換字體有「盔」後防具可改回頭盔並刪兜策略 |
+
+道具逐批備忘：`l10n/working/catalogs/ITEMS-TRANSLATED.md`「字型暫用」。

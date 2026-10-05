@@ -6,9 +6,9 @@
 
 | 原文（部位） | 譯文 | 理由 | 出處 |
 |---|---|---|---|
-| Helm | 頭盔 | 近戰頭防具定稿；字型無「盔」時 CSV／畫面顯示「頭兜」 | terms UI001；STYLE；fallback_map 盔→兜 |
+| Helm | 頭鎧 | 近戰頭防具；語意同 terms UI001「頭盔」；**禁「頭兜」**（玩家顯示用鎧） | terms UI001；STYLE |
 | Cap | 兜帽 | 射手頭防具定稿 | terms UI002（勿寫「帽子」作定稿；口語可稱帽） |
-| Head | 頭盔 | 五部位 Head＝頭盔 | STYLE §防具五部位 |
+| Head | 頭鎧 | 五部位 Head＝頭鎧（同 Helm；禁頭兜） | STYLE §防具五部位 |
 | Hat | 帽 | 帽型 | 字義 |
 | Mask | 帽子 | 頭罩／面罩類；與 Helm 頭盔成對時用「帽子」 | 使用者定稿（例：Guardian Mask→守護者帽子）；勿縮成「面」 |
 | Face | 面罩 | 顏面／面罩防具 | 使用者定稿 |
@@ -42,5 +42,5 @@
 
 ## 組成規則（本槽）
 
-- 例：`Rathalos Helm`→`雄火龍頭盔`；`Leather Cap`→`皮革兜帽`  
+- 例：`Rathalos Helm`→`雄火龍頭鎧`；`Leather Cap`→`皮革兜帽`  
 - Cap／Helm 成對時系列詞幹必須相同譯法。
