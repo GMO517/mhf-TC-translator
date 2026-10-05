@@ -17,3 +17,16 @@ alwaysApply: true
 8. **無 QA 腳本仍要語意全表自檢**；有腳本（如 `qa_armor_transliteration.py`）須跑並交命中數。  
 9. 結構性／high 超閾不得開下一子類；禁止同一次 Translator 宣告 `qa_done`。  
 10. 本體改前 `_backup/`；bin 不進 commit；Gate0／0.5 未過不做大批回寫。  
+
+## Model Routing（只約束 Task slug；不得覆寫 Part A）
+
+**父子：** 翻譯主線仍以 playbook Part A 為準；下表**只**決定子代理 `model` slug。禁為選模停問。  
+**池：** 預設只用 Cursor Models（`composer-2.5-fast`／`grok-4.7-high-fast`／`cursor-grok-4.6-high-fast`）。  
+**判定失敗：** 列 pending；**禁止** Composer／腳本代填 `zh`（不同意「同池降級給 Composer 填譯」）。  
+**防具字典主線：** 見 `docs/plans/layered-series-dict-model-routing.md`（掃→分級→L1–L5→重寫 series-dict→只套用定稿→QA）。
+
+| 相位 | slug |
+|---|---|
+| 編排／P0 掃描／P2 套用／P3 機械 QA | `composer-2.5-fast` |
+| P1 歸類判定／P3b 語意抽核 | `grok-4.7-high-fast` |
+| P1b 備援 | `cursor-grok-4.6-high-fast` |
