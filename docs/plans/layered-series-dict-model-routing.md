@@ -111,3 +111,29 @@ flowchart TD
 **交付：** `armor_stem_tiers.tsv`；tsv＋md；五 CSV；QA 計數寫入 qa-armors／progress／queue。
 
 **不做：** 依賴 Auto 自選模；預設 Claude／GPT；質量音譯洗白；P1 對 B／C 全表強翻；未請示回寫本體／commit。
+
+## 9. Agent 續跑（禁誤停）
+
+> 父規範仍為 playbook Part A「少停少問」；本節把**分層主線**常見誤停釘死。子計畫（武器等）可再加細項，**不得**放寬本節。
+
+### 不算完成、不得收工
+
+- 只做 **S+A** 就停，而 **B tier P1／pending 清單／P3b** 尚未依 plan 處理（除非使用者**當次**明示縮 scope）。
+- 在 `progress`／`queue`／回覆裡寫「plan 邊界／C 不洗表」當**整條主線結案**——「C 不全表 P1」≠ 可以不再更新 queue、不再處理 B pending、不再跑 P3b。
+- **validate PASS** 或 **commit 一筆** 後即停；分層主線須寫入 **QA 原始計數**（含 pending 數、qa 腳本 mismatches）並更新 `queue.md`。
+
+### 禁止向使用者確認（非停點）
+
+- **push／不 push**、是否繼續下一相位、「要先看哪份文件」——**預設一路做完 plan 內下一項**，有阻礙寫入 `queue`／pending 再往下。
+- 「你要我先做 B 還是 C」「要不要 commit」——**commit 僅在使用者明確要求時**；未要求則改完檔、更新 progress／queue，**不要**為 commit 停問。
+- 背景腳本失敗／被 kill：**同輪**修腳本或改索引重跑，並在結案一句交代；**不得**當成整次任務結束。
+
+### 僅可停問
+
+- **回寫 mhfdat**（未明示不做）、**方針真衝突**（與 STYLE／terms／已定稿 type-dict 矛盾且無預設）、使用者**明示要審**的字典／子類。
+
+### 收工前最小 checklist
+
+1. 當次 plan 列出的相位已跑完，或剩餘項已寫入 `queue.md`「下一筆」（含 pending 數）。  
+2. `issues/<role>/qa-*.md`（或同等）含 **validate 結果＋腳本命中數**，非空 PASS。  
+3. 未把「使用者尚未要求 commit」當成未完成理由而停住。

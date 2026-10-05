@@ -17,7 +17,7 @@
 ## P2
 
 - `apply_weapon_series_dict.py` + `charset_apply.to_display`
-- 字典命中列已與 compose 對齊（`qa-series-apply-hits.tsv` mismatches **≤2** 待修）
+- 字典命中列已與 compose 對齊（`qa-series-apply-hits.tsv` mismatches **0**）
 
 ## P3
 

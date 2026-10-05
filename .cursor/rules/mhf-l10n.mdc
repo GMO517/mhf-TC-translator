@@ -10,7 +10,7 @@ alwaysApply: true
 1. **開場：** 核心目標＋Part A → `progress`／`queue` → 該子類 CSV／字典待查。禁通讀全庫。  
 2. **完成單位：** 一角色＋一語意子類；未完不得只交摘要。  
 3. **快／省 token 不得跳過**全量檢查、web search、字典出處（見衝突表）。  
-4. **翻譯主線以 Part A 為準**（相對逐步確認／feedback 類規則）；僅 commit／回寫／方針／明示要審才停問。  
+4. **翻譯主線以 Part A 為準**（相對逐步確認／feedback 類規則）；僅 commit／回寫／方針／明示要審才停問。**分層 series-dict** 另守 `docs/plans/layered-series-dict-model-routing.md` **§9** 與武器子 plan「完成定義」——**push／是否繼續下一相位／commit 詢問**均非停點；背景腳本失敗同輪重跑。  
 5. **結案分狀態：** `translated`＝blocking／high＝0；否則 `qa_issues`。結案附**原始計數**，禁 SAMPLE／空 PASS。  
 6. **專名查序**含 web search；應義譯卻音譯＝至少 high（不論長短）。短音譯須有搜尋紀錄且宜 ≤4 字。  
 7. **字典逕行但禁洗白：** 可建／補並註出處；「待查／純音譯」不得全表套用。  
