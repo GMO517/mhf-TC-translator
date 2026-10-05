@@ -1,0 +1,113 @@
+[
+  {
+    "file": "reviews-bad-1.md",
+    "rows": 400,
+    "miss": 0,
+    "how": {
+      "manual": 400
+    }
+  },
+  {
+    "file": "reviews-bad-2.md",
+    "rows": 400,
+    "miss": 0,
+    "how": {
+      "manual": 400
+    }
+  },
+  {
+    "file": "reviews-bad-3.md",
+    "rows": 400,
+    "miss": 0,
+    "how": {
+      "manual": 394,
+      "series-nick": 6
+    }
+  },
+  {
+    "file": "reviews-bad-4.md",
+    "rows": 400,
+    "miss": 0,
+    "how": {
+      "manual": 400
+    }
+  },
+  {
+    "file": "reviews-bad-5.md",
+    "rows": 400,
+    "miss": 0,
+    "how": {
+      "manual": 400
+    }
+  },
+  {
+    "file": "reviews-bad-6.md",
+    "rows": 400,
+    "miss": 0,
+    "how": {
+      "manual": 400
+    }
+  },
+  {
+    "file": "reviews-bad-7.md",
+    "rows": 400,
+    "miss": 0,
+    "how": {
+      "manual": 384,
+      "series-nick": 16
+    }
+  },
+  {
+    "file": "reviews-bad-8.md",
+    "rows": 400,
+    "miss": 0,
+    "how": {
+      "manual": 400
+    }
+  },
+  {
+    "file": "reviews-bad-9.md",
+    "rows": 400,
+    "miss": 0,
+    "how": {
+      "manual": 335,
+      "series-nick": 65
+    }
+  },
+  {
+    "file": "reviews-bad-10.md",
+    "rows": 400,
+    "miss": 0,
+    "how": {
+      "manual": 378,
+      "series-nick": 22
+    }
+  },
+  {
+    "file": "reviews-bad-11.md",
+    "rows": 400,
+    "miss": 0,
+    "how": {
+      "manual": 397,
+      "series-nick": 3
+    }
+  },
+  {
+    "file": "reviews-bad-12.md",
+    "rows": 400,
+    "miss": 0,
+    "how": {
+      "manual": 396,
+      "series-nick": 4
+    }
+  },
+  {
+    "file": "reviews-bad-13.md",
+    "rows": 32,
+    "miss": 0,
+    "how": {
+      "manual": 31,
+      "series-nick": 1
+    }
+  }
+]

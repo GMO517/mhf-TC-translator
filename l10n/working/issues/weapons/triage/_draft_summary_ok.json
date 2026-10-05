@@ -1,0 +1,460 @@
+[
+  {
+    "file": "reviews-ok-melee-1.md",
+    "rows": 400,
+    "miss": 0,
+    "how": {
+      "keep": 20,
+      "wiki": 380
+    }
+  },
+  {
+    "file": "reviews-ok-melee-2.md",
+    "rows": 400,
+    "miss": 0,
+    "how": {
+      "wiki": 348,
+      "keep": 52
+    }
+  },
+  {
+    "file": "reviews-ok-melee-3.md",
+    "rows": 400,
+    "miss": 0,
+    "how": {
+      "wiki": 343,
+      "compose": 1,
+      "keep": 56
+    }
+  },
+  {
+    "file": "reviews-ok-melee-4.md",
+    "rows": 400,
+    "miss": 0,
+    "how": {
+      "keep": 357,
+      "wiki": 43
+    }
+  },
+  {
+    "file": "reviews-ok-melee-5.md",
+    "rows": 400,
+    "miss": 0,
+    "how": {
+      "keep": 399,
+      "compose": 1
+    }
+  },
+  {
+    "file": "reviews-ok-melee-6.md",
+    "rows": 400,
+    "miss": 0,
+    "how": {
+      "keep": 400
+    }
+  },
+  {
+    "file": "reviews-ok-melee-7.md",
+    "rows": 400,
+    "miss": 0,
+    "how": {
+      "keep": 400
+    }
+  },
+  {
+    "file": "reviews-ok-melee-8.md",
+    "rows": 400,
+    "miss": 0,
+    "how": {
+      "keep": 400
+    }
+  },
+  {
+    "file": "reviews-ok-melee-9.md",
+    "rows": 400,
+    "miss": 0,
+    "how": {
+      "keep": 64,
+      "wiki": 336
+    }
+  },
+  {
+    "file": "reviews-ok-melee-10.md",
+    "rows": 400,
+    "miss": 0,
+    "how": {
+      "wiki": 351,
+      "keep": 49
+    }
+  },
+  {
+    "file": "reviews-ok-melee-11.md",
+    "rows": 400,
+    "miss": 0,
+    "how": {
+      "wiki": 353,
+      "keep": 47
+    }
+  },
+  {
+    "file": "reviews-ok-melee-12.md",
+    "rows": 400,
+    "miss": 0,
+    "how": {
+      "wiki": 346,
+      "keep": 54
+    }
+  },
+  {
+    "file": "reviews-ok-melee-13.md",
+    "rows": 400,
+    "miss": 0,
+    "how": {
+      "wiki": 324,
+      "keep": 74,
+      "compose": 2
+    }
+  },
+  {
+    "file": "reviews-ok-melee-14.md",
+    "rows": 400,
+    "miss": 0,
+    "how": {
+      "wiki": 304,
+      "keep": 82,
+      "series-nick": 5,
+      "compose-quote": 3,
+      "compose": 6
+    }
+  },
+  {
+    "file": "reviews-ok-melee-15.md",
+    "rows": 400,
+    "miss": 0,
+    "how": {
+      "keep": 118,
+      "wiki": 275,
+      "compose": 3,
+      "series-nick": 4
+    }
+  },
+  {
+    "file": "reviews-ok-melee-16.md",
+    "rows": 400,
+    "miss": 0,
+    "how": {
+      "wiki": 318,
+      "keep": 70,
+      "series-nick": 3,
+      "jp-kanji": 5,
+      "compose-quote": 4
+    }
+  },
+  {
+    "file": "reviews-ok-melee-17.md",
+    "rows": 400,
+    "miss": 0,
+    "how": {
+      "wiki": 291,
+      "keep": 99,
+      "jp-kanji": 6,
+      "compose": 4
+    }
+  },
+  {
+    "file": "reviews-ok-melee-18.md",
+    "rows": 400,
+    "miss": 0,
+    "how": {
+      "keep": 188,
+      "wiki": 188,
+      "compose-quote": 16,
+      "compose": 8
+    }
+  },
+  {
+    "file": "reviews-ok-melee-19.md",
+    "rows": 400,
+    "miss": 0,
+    "how": {
+      "compose": 4,
+      "keep": 216,
+      "wiki": 180
+    }
+  },
+  {
+    "file": "reviews-ok-melee-20.md",
+    "rows": 400,
+    "miss": 0,
+    "how": {
+      "wiki": 228,
+      "keep": 142,
+      "jp-kanji": 5,
+      "wiki-alt": 25
+    }
+  },
+  {
+    "file": "reviews-ok-melee-21.md",
+    "rows": 400,
+    "miss": 0,
+    "how": {
+      "keep": 138,
+      "wiki": 262
+    }
+  },
+  {
+    "file": "reviews-ok-melee-22.md",
+    "rows": 400,
+    "miss": 0,
+    "how": {
+      "wiki": 13,
+      "keep": 387
+    }
+  },
+  {
+    "file": "reviews-ok-melee-23.md",
+    "rows": 400,
+    "miss": 0,
+    "how": {
+      "keep": 290,
+      "wiki": 110
+    }
+  },
+  {
+    "file": "reviews-ok-melee-24.md",
+    "rows": 400,
+    "miss": 0,
+    "how": {
+      "wiki": 310,
+      "keep": 83,
+      "compose": 6,
+      "wiki-alt": 1
+    }
+  },
+  {
+    "file": "reviews-ok-melee-25.md",
+    "rows": 400,
+    "miss": 0,
+    "how": {
+      "keep": 149,
+      "wiki": 195,
+      "jp-kanji": 12,
+      "compose-quote": 10,
+      "series-nick": 26,
+      "compose": 8
+    }
+  },
+  {
+    "file": "reviews-ok-melee-26.md",
+    "rows": 400,
+    "miss": 0,
+    "how": {
+      "wiki": 249,
+      "keep": 147,
+      "compose": 4
+    }
+  },
+  {
+    "file": "reviews-ok-melee-27.md",
+    "rows": 400,
+    "miss": 0,
+    "how": {
+      "wiki": 203,
+      "keep": 159,
+      "compose": 3,
+      "jp-kanji": 33,
+      "jp-kana": 2
+    }
+  },
+  {
+    "file": "reviews-ok-melee-28.md",
+    "rows": 400,
+    "miss": 0,
+    "how": {
+      "wiki": 42,
+      "keep": 334,
+      "jp-kanji": 22,
+      "compose": 2
+    }
+  },
+  {
+    "file": "reviews-ok-melee-29.md",
+    "rows": 400,
+    "miss": 0,
+    "how": {
+      "keep": 336,
+      "jp-kanji": 58,
+      "compose": 5,
+      "wiki": 1
+    }
+  },
+  {
+    "file": "reviews-ok-melee-30.md",
+    "rows": 400,
+    "miss": 0,
+    "how": {
+      "keep": 296,
+      "jp-kanji": 88,
+      "compose": 7,
+      "compose-quote": 8,
+      "wiki": 1
+    }
+  },
+  {
+    "file": "reviews-ok-melee-31.md",
+    "rows": 400,
+    "miss": 0,
+    "how": {
+      "keep": 263,
+      "jp-kanji": 124,
+      "jp-kana": 5,
+      "compose": 1,
+      "series-nick": 7
+    }
+  },
+  {
+    "file": "reviews-ok-melee-32.md",
+    "rows": 400,
+    "miss": 0,
+    "how": {
+      "series-nick": 24,
+      "keep": 185,
+      "jp-kanji": 154,
+      "manual": 16,
+      "compose-quote": 19,
+      "jp-kana": 2
+    }
+  },
+  {
+    "file": "reviews-ok-melee-33.md",
+    "rows": 400,
+    "miss": 0,
+    "how": {
+      "jp-kanji": 119,
+      "compose": 82,
+      "keep": 168,
+      "series-nick": 28,
+      "jp-kana": 3
+    }
+  },
+  {
+    "file": "reviews-ok-melee-34.md",
+    "rows": 400,
+    "miss": 0,
+    "how": {
+      "keep": 279,
+      "series-nick": 37,
+      "compose-quote": 4,
+      "jp-kanji": 80
+    }
+  },
+  {
+    "file": "reviews-ok-melee-35.md",
+    "rows": 141,
+    "miss": 0,
+    "how": {
+      "keep": 89,
+      "jp-kanji": 18,
+      "series-nick": 28,
+      "compose": 6
+    }
+  },
+  {
+    "file": "reviews-ok-ranged-1.md",
+    "rows": 400,
+    "miss": 0,
+    "how": {
+      "keep": 184,
+      "wiki": 210,
+      "compose": 6
+    }
+  },
+  {
+    "file": "reviews-ok-ranged-2.md",
+    "rows": 400,
+    "miss": 0,
+    "how": {
+      "compose": 6,
+      "keep": 222,
+      "wiki": 169,
+      "wiki-alt": 3
+    }
+  },
+  {
+    "file": "reviews-ok-ranged-3.md",
+    "rows": 400,
+    "miss": 0,
+    "how": {
+      "wiki": 322,
+      "keep": 74,
+      "series-nick": 4
+    }
+  },
+  {
+    "file": "reviews-ok-ranged-4.md",
+    "rows": 400,
+    "miss": 0,
+    "how": {
+      "wiki": 215,
+      "keep": 180,
+      "compose": 3,
+      "jp-kanji": 2
+    }
+  },
+  {
+    "file": "reviews-ok-ranged-5.md",
+    "rows": 400,
+    "miss": 0,
+    "how": {
+      "keep": 190,
+      "wiki": 201,
+      "wiki-alt": 6,
+      "compose": 3
+    }
+  },
+  {
+    "file": "reviews-ok-ranged-6.md",
+    "rows": 400,
+    "miss": 0,
+    "how": {
+      "wiki": 266,
+      "keep": 119,
+      "compose": 1,
+      "jp-kanji": 14
+    }
+  },
+  {
+    "file": "reviews-ok-ranged-7.md",
+    "rows": 400,
+    "miss": 0,
+    "how": {
+      "wiki": 6,
+      "keep": 340,
+      "jp-kanji": 49,
+      "compose": 3,
+      "jp-kana": 2
+    }
+  },
+  {
+    "file": "reviews-ok-ranged-8.md",
+    "rows": 400,
+    "miss": 0,
+    "how": {
+      "keep": 244,
+      "jp-kana": 5,
+      "jp-kanji": 121,
+      "wiki": 1,
+      "series-nick": 23,
+      "compose-quote": 6
+    }
+  },
+  {
+    "file": "reviews-ok-ranged-9.md",
+    "rows": 18,
+    "miss": 0,
+    "how": {
+      "keep": 16,
+      "jp-kanji": 2
+    }
+  }
+]

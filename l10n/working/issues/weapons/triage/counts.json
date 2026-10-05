@@ -1,0 +1,23 @@
+{
+  "counts": {
+    "total": 21791,
+    "bad": 4832,
+    "ok": 16959,
+    "raden_end": 98,
+    "type_phonetic": 160,
+    "phonetic_salad": 4574,
+    "skip_empty_dummy": 2804,
+    "ok_plain": 14155
+  },
+  "section_counts": {
+    "melee_bad": 3827,
+    "melee_ok": 13741,
+    "ranged_bad": 1005,
+    "ranged_ok": 3218
+  },
+  "files": {
+    "bad": 13,
+    "ok_melee": 35,
+    "ok_ranged": 9
+  }
+}

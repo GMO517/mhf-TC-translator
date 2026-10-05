@@ -1,11 +1,158 @@
 # working 驗證報告
 
-- `armors-legs`：PASS
+- `weapons-melee-name`：FAIL (150)；半翻警告 49
 
 ## 錯誤
 
-- （無）
+- dat-weapons-melee-name.csv#631: 缺字 · | 冰雪分割者·改
+- dat-weapons-melee-name.csv#631: CP932 失敗 | 冰雪分割者·改
+- dat-weapons-melee-name.csv#673: 缺字 韌 | 強韌薄羽太刀
+- dat-weapons-melee-name.csv#673: CP932 失敗 | 強韌薄羽太刀
+- dat-weapons-melee-name.csv#699: 缺字 · | 熔岩豎琴·改
+- dat-weapons-melee-name.csv#699: CP932 失敗 | 熔岩豎琴·改
+- dat-weapons-melee-name.csv#744: 缺字 · | 咒魂·改
+- dat-weapons-melee-name.csv#744: CP932 失敗 | 咒魂·改
+- dat-weapons-melee-name.csv#747: 缺字 · | 八裂雙劍·改
+- dat-weapons-melee-name.csv#747: CP932 失敗 | 八裂雙劍·改
+- dat-weapons-melee-name.csv#750: 缺字 · | 戰略大劍·改
+- dat-weapons-melee-name.csv#750: CP932 失敗 | 戰略大劍·改
+- dat-weapons-melee-name.csv#752: 缺字 · | 猝睡獵捕者·改
+- dat-weapons-melee-name.csv#752: CP932 失敗 | 猝睡獵捕者·改
+- dat-weapons-melee-name.csv#764: 缺字 · | 岩漿噴射者·改
+- dat-weapons-melee-name.csv#764: CP932 失敗 | 岩漿噴射者·改
+- dat-weapons-melee-name.csv#788: 缺字 虛 | 封龍寶劍【虛空】
+- dat-weapons-melee-name.csv#788: CP932 失敗 | 封龍寶劍【虛空】
+- dat-weapons-melee-name.csv#793: 缺字 · | 艷陽天·改
+- dat-weapons-melee-name.csv#793: CP932 失敗 | 艷陽天·改
+- dat-weapons-melee-name.csv#837: 缺字 沉 | 沉睡大劍
+- dat-weapons-melee-name.csv#837: CP932 失敗 | 沉睡大劍
+- dat-weapons-melee-name.csv#841: 缺字 沉 | 沉眠豎笛
+- dat-weapons-melee-name.csv#841: CP932 失敗 | 沉眠豎笛
+- dat-weapons-melee-name.csv#850: 缺字 · | 深紅噴射者·改
+- dat-weapons-melee-name.csv#850: CP932 失敗 | 深紅噴射者·改
+- dat-weapons-melee-name.csv#851: 缺字 · | 火山豎琴·改
+- dat-weapons-melee-name.csv#851: CP932 失敗 | 火山豎琴·改
+- dat-weapons-melee-name.csv#880: 缺字 · | 青怪鳥之怒·改
+- dat-weapons-melee-name.csv#880: CP932 失敗 | 青怪鳥之怒·改
+- dat-weapons-melee-name.csv#898: 缺字 · | 藍之光刀·改
+- dat-weapons-melee-name.csv#898: CP932 失敗 | 藍之光刀·改
+- dat-weapons-melee-name.csv#901: 缺字 · | 金之光刀·改
+- dat-weapons-melee-name.csv#901: CP932 失敗 | 金之光刀·改
+- dat-weapons-melee-name.csv#957: 缺字 擊 | 水擊槍【翡翠】
+- dat-weapons-melee-name.csv#957: CP932 失敗 | 水擊槍【翡翠】
+- dat-weapons-melee-name.csv#1004: 缺字 焰 | 炎斬【獄焰】
+- dat-weapons-melee-name.csv#1004: CP932 失敗 | 炎斬【獄焰】
+- dat-weapons-melee-name.csv#1079: 缺字 擊 | 遠程衝擊者
+- dat-weapons-melee-name.csv#1079: CP932 失敗 | 遠程衝擊者
+- dat-weapons-melee-name.csv#1183: 缺字 擊 | 石柱打擊錘
+- dat-weapons-melee-name.csv#1183: CP932 失敗 | 石柱打擊錘
+- dat-weapons-melee-name.csv#1184: 缺字 擊 | 石柱猛擊錘
+- dat-weapons-melee-name.csv#1184: CP932 失敗 | 石柱猛擊錘
+- dat-weapons-melee-name.csv#1212: 缺字 · | 光刀·極【青】
+- dat-weapons-melee-name.csv#1212: CP932 失敗 | 光刀·極【青】
+- dat-weapons-melee-name.csv#1213: 缺字 · | 光刀·極【金】
+- dat-weapons-melee-name.csv#1213: CP932 失敗 | 光刀·極【金】
+- dat-weapons-melee-name.csv#1214: 缺字 · | 光刀·極【青】
+- dat-weapons-melee-name.csv#1214: CP932 失敗 | 光刀·極【青】
+- dat-weapons-melee-name.csv#1215: 缺字 · | 光刀·極【金】
+- dat-weapons-melee-name.csv#1215: CP932 失敗 | 光刀·極【金】
+- dat-weapons-melee-name.csv#1262: 缺字 絕 | 珠劍【絕零】
+- dat-weapons-melee-name.csv#1262: CP932 失敗 | 珠劍【絕零】
+- dat-weapons-melee-name.csv#1263: 缺字 檞 | 銀檞之劍
+- dat-weapons-melee-name.csv#1263: CP932 失敗 | 銀檞之劍
+- dat-weapons-melee-name.csv#1267: 缺字 焰 | 烈焰魔劍
+- dat-weapons-melee-name.csv#1267: CP932 失敗 | 烈焰魔劍
+- dat-weapons-melee-name.csv#1271: 缺字 · | 陣風·鋼龍
+- dat-weapons-melee-name.csv#1271: CP932 失敗 | 陣風·鋼龍
+- dat-weapons-melee-name.csv#1280: 缺字 絕 | 奇王劍【絕戲】
+- dat-weapons-melee-name.csv#1280: CP932 失敗 | 奇王劍【絕戲】
+- dat-weapons-melee-name.csv#1293: 缺字 · | 手刀·竹割
+- dat-weapons-melee-name.csv#1293: CP932 失敗 | 手刀·竹割
+- dat-weapons-melee-name.csv#1294: 缺字 · | 手刀·冰割
+- dat-weapons-melee-name.csv#1294: CP932 失敗 | 手刀·冰割
+- dat-weapons-melee-name.csv#1295: 缺字 · | 手刀·瓶切
+- dat-weapons-melee-name.csv#1295: CP932 失敗 | 手刀·瓶切
+- dat-weapons-melee-name.csv#1308: 缺字 擊 | 工房試作品擊龍鎚
+- dat-weapons-melee-name.csv#1308: CP932 失敗 | 工房試作品擊龍鎚
+- dat-weapons-melee-name.csv#1309: 缺字 擊 | 正式採用擊龍鎚
+- dat-weapons-melee-name.csv#1309: CP932 失敗 | 正式採用擊龍鎚
+- dat-weapons-melee-name.csv#1310: 缺字 ·擊 | 正式採用擊龍鎚·改
+- dat-weapons-melee-name.csv#1310: CP932 失敗 | 正式採用擊龍鎚·改
+- dat-weapons-melee-name.csv#1311: 缺字 擊 | 最新型擊龍鎚【壞貫】
+- dat-weapons-melee-name.csv#1311: CP932 失敗 | 最新型擊龍鎚【壞貫】
+- dat-weapons-melee-name.csv#1398: 缺字 虛 | 虛無龍骨雙劍
+- dat-weapons-melee-name.csv#1398: CP932 失敗 | 虛無龍骨雙劍
+- dat-weapons-melee-name.csv#1409: 缺字 ·吞膛 | 極吞吞·開膛手
+- dat-weapons-melee-name.csv#1409: CP932 失敗 | 極吞吞·開膛手
+- dat-weapons-melee-name.csv#1412: 缺字 ·吞 | 極吞吞·刀
+- dat-weapons-melee-name.csv#1412: CP932 失敗 | 極吞吞·刀
+- dat-weapons-melee-name.csv#1413: 缺字 ·吞 | 極吞吞·大太刀
+- dat-weapons-melee-name.csv#1413: CP932 失敗 | 極吞吞·大太刀
+- dat-weapons-melee-name.csv#1420: 缺字 ·吞 | 極吞吞·終極吞吞
+- dat-weapons-melee-name.csv#1420: CP932 失敗 | 極吞吞·終極吞吞
+- dat-weapons-melee-name.csv#1423: 缺字 · | 烈閃刀·光輝
+- dat-weapons-melee-name.csv#1423: CP932 失敗 | 烈閃刀·光輝
+- dat-weapons-melee-name.csv#1429: 缺字 · | 霜淇淋·改白茶
+- dat-weapons-melee-name.csv#1429: CP932 失敗 | 霜淇淋·改白茶
+- dat-weapons-melee-name.csv#1432: 缺字 · | 霜淇淋·改白苺
+- dat-weapons-melee-name.csv#1432: CP932 失敗 | 霜淇淋·改白苺
+- dat-weapons-melee-name.csv#1438: 缺字 · | 霜淇淋·改苺茶
+- dat-weapons-melee-name.csv#1438: CP932 失敗 | 霜淇淋·改苺茶
+- dat-weapons-melee-name.csv#1444: 缺字 · | Ｓ霜淇淋·改苺苺
+- dat-weapons-melee-name.csv#1444: CP932 失敗 | Ｓ霜淇淋·改苺苺
+- dat-weapons-melee-name.csv#2459: 缺字 卡 | 卡戎之敵Ⅰ
+- dat-weapons-melee-name.csv#2459: CP932 失敗 | 卡戎之敵Ⅰ
+- dat-weapons-melee-name.csv#2460: 缺字 卡 | 卡戎之敵Ⅱ
+- dat-weapons-melee-name.csv#2460: CP932 失敗 | 卡戎之敵Ⅱ
 
 ## 半翻／片假名混中文警告（暫不致 FAIL；應列入 PENDING，子類完成後回修）
 
-- （無）
+- dat-weapons-melee-name.csv#13158: 片假名混中文 | 金塵竜ヴァン → 見 glossary/PENDING.md
+- dat-weapons-melee-name.csv#13181: 片假名混中文 | 安眠アーティ真實 → 見 glossary/PENDING.md
+- dat-weapons-melee-name.csv#13278: 片假名混中文 | シャーク帝王 → 見 glossary/PENDING.md
+- dat-weapons-melee-name.csv#13509: 片假名混中文 | 王剣シツライ → 見 glossary/PENDING.md
+- dat-weapons-melee-name.csv#13512: 片假名混中文 | 王双刃ハタタカミ → 見 glossary/PENDING.md
+- dat-weapons-melee-name.csv#13515: 片假名混中文 | 王大剣フウライ → 見 glossary/PENDING.md
+- dat-weapons-melee-name.csv#13518: 片假名混中文 | 王刀ライキリ → 見 glossary/PENDING.md
+- dat-weapons-melee-name.csv#13521: 片假名混中文 | 王鎚カミナリ → 見 glossary/PENDING.md
+- dat-weapons-melee-name.csv#13524: 片假名混中文 | 王琴トドロキ → 見 glossary/PENDING.md
+- dat-weapons-melee-name.csv#13527: 片假名混中文 | 王槍テンライ → 見 glossary/PENDING.md
+- dat-weapons-melee-name.csv#13530: 片假名混中文 | 王銃槍ゴウライ → 見 glossary/PENDING.md
+- dat-weapons-melee-name.csv#13684: 片假名混中文 | 凍刻みブリザレイド → 見 glossary/PENDING.md
+- dat-weapons-melee-name.csv#14148: 片假名混中文 | 暗ノ光刀 → 見 glossary/PENDING.md
+- dat-weapons-melee-name.csv#14152: 片假名混中文 | 冥闇ノ光刀 → 見 glossary/PENDING.md
+- dat-weapons-melee-name.csv#15361: 片假名混中文 | ミクホン・七重奏 → 見 glossary/PENDING.md
+- dat-weapons-melee-name.csv#15517: 片假名混中文 | 激怒怒怒スパライズ → 見 glossary/PENDING.md
+- dat-weapons-melee-name.csv#15948: 片假名混中文 | ルベルセイフ・改 → 見 glossary/PENDING.md
+- dat-weapons-melee-name.csv#15949: 片假名混中文 | ルベルセイフ・真 → 見 glossary/PENDING.md
+- dat-weapons-melee-name.csv#15956: 片假名混中文 | ルベルジアン・改 → 見 glossary/PENDING.md
+- dat-weapons-melee-name.csv#15957: 片假名混中文 | ルベルジアン・真 → 見 glossary/PENDING.md
+- dat-weapons-melee-name.csv#15980: 片假名混中文 | ルベルツェクリ・改 → 見 glossary/PENDING.md
+- dat-weapons-melee-name.csv#15981: 片假名混中文 | ルベルツェクリ・真 → 見 glossary/PENDING.md
+- dat-weapons-melee-name.csv#15984: 片假名混中文 | ルベルグルダン・改 → 見 glossary/PENDING.md
+- dat-weapons-melee-name.csv#15985: 片假名混中文 | ルベルグルダン・真 → 見 glossary/PENDING.md
+- dat-weapons-melee-name.csv#16082: 片假名混中文 | 天嵐ノ鏡【旺陽】 → 見 glossary/PENDING.md
+- dat-weapons-melee-name.csv#16083: 片假名混中文 | 太虚ノ鏡【動天】 → 見 glossary/PENDING.md
+- dat-weapons-melee-name.csv#16089: 片假名混中文 | 太虚ノ矛【衝天】 → 見 glossary/PENDING.md
+- dat-weapons-melee-name.csv#16094: 片假名混中文 | 太虚ノ棍【蒼天】 → 見 glossary/PENDING.md
+- dat-weapons-melee-name.csv#16156: 片假名混中文 | ラヴィナエペ・改 → 見 glossary/PENDING.md
+- dat-weapons-melee-name.csv#16157: 片假名混中文 | ラヴィナエペ・真 → 見 glossary/PENDING.md
+- dat-weapons-melee-name.csv#16164: 片假名混中文 | ラヴィナマルトー・改 → 見 glossary/PENDING.md
+- dat-weapons-melee-name.csv#16165: 片假名混中文 | ラヴィナマルトー・真 → 見 glossary/PENDING.md
+- dat-weapons-melee-name.csv#16173: 片假名混中文 | ラヴィナアクスト・真 → 見 glossary/PENDING.md
+- dat-weapons-melee-name.csv#16260: 片假名混中文 | ラヴィナラッパー・改 → 見 glossary/PENDING.md
+- dat-weapons-melee-name.csv#16261: 片假名混中文 | ラヴィナラッパー・真 → 見 glossary/PENDING.md
+- dat-weapons-melee-name.csv#16341: 片假名混中文 | 叛断刀アルザバル → 見 glossary/PENDING.md
+- dat-weapons-melee-name.csv#16358: 片假名混中文 | 叛棍アルグラン → 見 glossary/PENDING.md
+- dat-weapons-melee-name.csv#16360: 片假名混中文 | 叛伐斧アルダバラン → 見 glossary/PENDING.md
+- dat-weapons-melee-name.csv#16387: 片假名混中文 | デュアファウスト・真 → 見 glossary/PENDING.md
+- dat-weapons-melee-name.csv#16700: 片假名混中文 | デュアメッサー・改 → 見 glossary/PENDING.md
+- dat-weapons-melee-name.csv#16701: 片假名混中文 | デュアメッサー・真 → 見 glossary/PENDING.md
+- dat-weapons-melee-name.csv#16704: 片假名混中文 | デュアリーゼ・改 → 見 glossary/PENDING.md
+- dat-weapons-melee-name.csv#16705: 片假名混中文 | デュアリーゼ・真 → 見 glossary/PENDING.md
+- dat-weapons-melee-name.csv#16708: 片假名混中文 | デュアシュベルト・改 → 見 glossary/PENDING.md
+- dat-weapons-melee-name.csv#16709: 片假名混中文 | デュアシュベルト・真 → 見 glossary/PENDING.md
+- dat-weapons-melee-name.csv#16716: 片假名混中文 | デュアシュピース・改 → 見 glossary/PENDING.md
+- dat-weapons-melee-name.csv#16717: 片假名混中文 | デュアシュピース・真 → 見 glossary/PENDING.md
+- dat-weapons-melee-name.csv#17147: 片假名混中文 | 零杭カドゥケウス → 見 glossary/PENDING.md
+- dat-weapons-melee-name.csv#17215: 片假名混中文 | 覇斧フランシスカ → 見 glossary/PENDING.md
