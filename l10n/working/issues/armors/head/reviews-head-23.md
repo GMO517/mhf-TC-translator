@@ -1,507 +1,507 @@
-# reviews-head-23（head 23/29）
+# reviews-head-23（head 23/30）
 
-> CSV：`csv/dat-armors-head.csv`｜index **11159–11658**｜本檔 **500**｜全表異於原文 **14435**
+> CSV：`csv/dat-armors-head.csv`｜index **11001–11500**｜本檔 **500**｜全表異於原文 **14593**
 
 | index | 原文 | 譯文 |
 |---|---|---|
+| 11001 | Blue Ice Emperor Cap | 冰帝兜帽・青 |
+| 11002 | Blue Ice Emperor F Cap | 冰帝兜帽【Ｆ】・青 |
+| 11003 | Blue Ice Emperor FZ Cap | 冰帝兜帽【ＦＺ】・青 |
+| 11004 | Blue Ice Emperor HS Cap | 冰帝兜帽【ＨＳ】・青 |
+| 11005 | Blue Ice Emperor GS Cap | 冰帝兜帽【ＧＳ】・青 |
+| 11006 | Blue Ice Emperor GP Cap | 冰帝兜帽【ＧＰ】・青 |
+| 11007 | White Ice Emperor Head | 冰帝頭兜・白 |
+| 11008 | White Ice Emperor F Head | 冰帝頭兜【Ｆ】・白 |
+| 11009 | White Ice Emperor FZ Head | 冰帝頭兜【ＦＺ】・白 |
+| 11010 | White Ice Emperor HS Head | 冰帝頭兜【ＨＳ】・白 |
+| 11011 | White Ice Emperor GS Head | 冰帝頭兜【ＧＳ】・白 |
+| 11012 | White Ice Emperor GP Head | 冰帝頭兜【ＧＰ】・白 |
+| 11013 | White Ice Emperor Cap | 冰帝兜帽・白 |
+| 11014 | White Ice Emperor F Cap | 冰帝兜帽【Ｆ】・白 |
+| 11015 | White Ice Emperor FZ Cap | 冰帝兜帽【ＦＺ】・白 |
+| 11016 | White Ice Emperor HS Cap | 冰帝兜帽【ＨＳ】・白 |
+| 11017 | White Ice Emperor GS Cap | 冰帝兜帽【ＧＳ】・白 |
+| 11018 | White Ice Emperor GP Cap | 冰帝兜帽【ＧＰ】・白 |
+| 11019 | Red Ice Emperor Head | 冰帝頭兜・赤 |
+| 11020 | Red Ice Emperor F Head | 冰帝頭兜【Ｆ】・赤 |
+| 11021 | Red Ice Emperor FZ Head | 冰帝頭兜【ＦＺ】・赤 |
+| 11022 | Red Ice Emperor HS Head | 冰帝頭兜【ＨＳ】・赤 |
+| 11023 | Red Ice Emperor GS Head | 冰帝頭兜【ＧＳ】・赤 |
+| 11024 | Red Ice Emperor GP Head | 冰帝頭兜【ＧＰ】・赤 |
+| 11025 | Red Ice Emperor Cap | 冰帝兜帽・赤 |
+| 11026 | Red Ice Emperor F Cap | 冰帝兜帽【Ｆ】・赤 |
+| 11027 | Red Ice Emperor FZ Cap | 冰帝兜帽【ＦＺ】・赤 |
+| 11028 | Red Ice Emperor HS Cap | 冰帝兜帽【ＨＳ】・赤 |
+| 11029 | Red Ice Emperor GS Cap | 冰帝兜帽【ＧＳ】・赤 |
+| 11030 | Red Ice Emperor GP Cap | 冰帝兜帽【ＧＰ】・赤 |
+| 11031 | Taruta Head | 特阿爾烏頭兜 |
+| 11032 | Taruta F Head | 特阿爾烏頭兜【Ｆ】 |
+| 11033 | Taruta FZ Head | 特阿爾烏頭兜【ＦＺ】 |
+| 11034 | Taruta HS Head | 特阿爾烏頭兜【ＨＳ】 |
+| 11035 | Taruta GS Head | 特阿爾烏頭兜【ＧＳ】 |
+| 11036 | Taruta GP Head | 特阿爾烏頭兜【ＧＰ】 |
+| 11037 | Taruta Cap | 特阿爾烏兜帽 |
+| 11038 | Taruta F Cap | 特阿爾烏兜帽【Ｆ】 |
+| 11039 | Taruta FZ Cap | 特阿爾烏兜帽【ＦＺ】 |
+| 11040 | Taruta HS Cap | 特阿爾烏兜帽【ＨＳ】 |
+| 11041 | Taruta GS Cap | 特阿爾烏兜帽【ＧＳ】 |
+| 11042 | Taruta GP Cap | 特阿爾烏兜帽【ＧＰ】 |
+| 11043 | Ruruta Head | 爾烏爾烏頭兜 |
+| 11044 | Ruruta F Head | 爾烏爾烏頭兜【Ｆ】 |
+| 11045 | Ruruta FZ Head | 爾烏爾烏頭兜【ＦＺ】 |
+| 11046 | Ruruta HS Head | 爾烏爾烏頭兜【ＨＳ】 |
+| 11047 | Ruruta GS Head | 爾烏爾烏頭兜【ＧＳ】 |
+| 11048 | Ruruta GP Head | 爾烏爾烏頭兜【ＧＰ】 |
+| 11049 | Ruruta Cap | 爾烏爾烏兜帽 |
+| 11050 | Ruruta F Cap | 爾烏爾烏兜帽【Ｆ】 |
+| 11051 | Ruruta FZ Cap | 爾烏爾烏兜帽【ＦＺ】 |
+| 11052 | Ruruta HS Cap | 爾烏爾烏兜帽【ＨＳ】 |
+| 11053 | Ruruta GS Cap | 爾烏爾烏兜帽【ＧＳ】 |
+| 11054 | Ruruta GP Cap | 爾烏爾烏兜帽【ＧＰ】 |
+| 11055 | Kurofi Head | 克羅菲頭兜 |
+| 11056 | Kurofi F Head | 克羅菲頭兜【Ｆ】 |
+| 11057 | Kurofi FZ Head | 克羅菲頭兜【ＦＺ】 |
+| 11058 | Kurofi HS Head | 克羅菲頭兜【ＨＳ】 |
+| 11059 | Kurofi GS Head | 克羅菲頭兜【ＧＳ】 |
+| 11060 | Kurofi GP Head | 克羅菲頭兜【ＧＰ】 |
+| 11061 | Kurofi Cap | 克羅菲兜帽 |
+| 11062 | Kurofi F Cap | 克羅菲兜帽【Ｆ】 |
+| 11063 | Kurofi FZ Cap | 克羅菲兜帽【ＦＺ】 |
+| 11064 | Kurofi HS Cap | 克羅菲兜帽【ＨＳ】 |
+| 11065 | Kurofi GS Cap | 克羅菲兜帽【ＧＳ】 |
+| 11066 | Kurofi GP Cap | 克羅菲兜帽【ＧＰ】 |
+| 11067 | Gudan Head | 古丹頭兜 |
+| 11068 | Gudan F Head | 古丹頭兜【Ｆ】 |
+| 11069 | Gudan FZ Head | 古丹頭兜【ＦＺ】 |
+| 11070 | Gudan HS Head | 古丹頭兜【ＨＳ】 |
+| 11071 | Gudan GS Head | 古丹頭兜【ＧＳ】 |
+| 11072 | Gudan GP Head | 古丹頭兜【ＧＰ】 |
+| 11073 | Chiarim Head | 奇亞琳頭兜 |
+| 11074 | Chiarim F Head | 奇亞琳頭兜【Ｆ】 |
+| 11075 | Chiarim FZ Head | 奇亞琳頭兜【ＦＺ】 |
+| 11076 | Chiarim HS Head | 奇亞琳頭兜【ＨＳ】 |
+| 11077 | Chiarim GS Head | 奇亞琳頭兜【ＧＳ】 |
+| 11078 | Chiarim GP Head | 奇亞琳頭兜【ＧＰ】 |
+| 11079 | Chiarim Cap | 奇亞琳兜帽 |
+| 11080 | Chiarim F Cap | 奇亞琳兜帽【Ｆ】 |
+| 11081 | Chiarim FZ Cap | 奇亞琳兜帽【ＦＺ】 |
+| 11082 | Chiarim HS Cap | 奇亞琳兜帽【ＨＳ】 |
+| 11083 | Chiarim GS Cap | 奇亞琳兜帽【ＧＳ】 |
+| 11084 | Chiarim GP Cap | 奇亞琳兜帽【ＧＰ】 |
+| 11085 | Rohokku Head | 爾歐赫歐頭兜 |
+| 11086 | Rohokku F Head | 爾歐赫歐頭兜【Ｆ】 |
+| 11087 | Rohokku FY Head | 爾歐赫歐頭兜 |
+| 11088 | Rohokku HS Head | 爾歐赫歐頭兜【ＨＳ】 |
+| 11089 | Rohokku G Head | 爾歐赫歐頭兜【Ｇ】 |
+| 11090 | Rohokku GF Head | 爾歐赫歐頭兜【ＧＦ】 |
+| 11091 | Rohokku GX Head | 爾歐赫歐頭兜【ＧＸ】 |
+| 11092 | Rohokku Cap | 爾歐赫歐兜帽 |
+| 11093 | Rohokku F Cap | 爾歐赫歐兜帽【Ｆ】 |
+| 11094 | Rohokku FY Cap | 爾歐赫歐兜帽 |
+| 11095 | Rohokku HS Cap | 爾歐赫歐兜帽【ＨＳ】 |
+| 11096 | Rohokku G Cap | 爾歐赫歐兜帽【Ｇ】 |
+| 11097 | Rohokku GF Cap | 爾歐赫歐兜帽【ＧＦ】 |
+| 11098 | Rohokku GX Cap | 爾歐赫歐兜帽【ＧＸ】 |
+| 11099 | Cure Head | 克烏爾艾頭兜 |
+| 11100 | Cure F Head | 克烏爾艾頭兜【Ｆ】 |
+| 11101 | Cure FY Head | 克烏爾艾頭兜 |
+| 11102 | Cure HS Head | 克烏爾艾頭兜【ＨＳ】 |
+| 11103 | Cure G Head | 克烏爾艾頭兜【Ｇ】 |
+| 11104 | Cure GF Head | 克烏爾艾頭兜【ＧＦ】 |
+| 11105 | Cure GX Head | 克烏爾艾頭兜【ＧＸ】 |
+| 11106 | Cure Cap | 克烏爾艾兜帽 |
+| 11107 | Cure F Cap | 克烏爾艾兜帽【Ｆ】 |
+| 11108 | Cure FY Cap | 克烏爾艾兜帽 |
+| 11109 | Cure HS Cap | 克烏爾艾兜帽【ＨＳ】 |
+| 11110 | Cure G Cap | 克烏爾艾兜帽【Ｇ】 |
+| 11111 | Cure GF Cap | 克烏爾艾兜帽【ＧＦ】 |
+| 11112 | Cure GX Cap | 克烏爾艾兜帽【ＧＸ】 |
+| 11113 | 鬼凛ノ角G | 鬼凛角頭兜 |
+| 11114 | 鬼凛ノ角GF | 鬼凛角頭兜【Ｆ】 |
+| 11115 | 鬼凛ノ角GX | 鬼凛角頭兜 |
+| 11116 | 童凛ノ角G | 童凛角頭兜 |
+| 11117 | 童凛ノ角GF | 童凛角頭兜【Ｆ】 |
+| 11118 | 童凛ノ角GX | 童凛角頭兜 |
+| 11119 | Eguiene Head | 艾格烏恩頭兜 |
+| 11120 | Eguiene F Head | 艾格烏恩頭兜【Ｆ】 |
+| 11121 | Eguiene FY Head | 艾格烏恩頭兜 |
+| 11122 | Eguiene HS Head | 艾格烏恩頭兜【ＨＳ】 |
+| 11123 | Eguiene G Head | 艾格烏恩頭兜【Ｇ】 |
+| 11124 | Eguiene GF Head | 艾格烏恩頭兜【ＧＦ】 |
+| 11125 | Eguiene GX Head | 艾格烏恩頭兜【ＧＸ】 |
+| 11126 | Eguiene Cap | 艾格烏恩兜帽 |
+| 11127 | Eguiene F Cap | 艾格烏恩兜帽【Ｆ】 |
+| 11128 | Eguiene FY Cap | 艾格烏恩兜帽 |
+| 11129 | Eguiene HS Cap | 艾格烏恩兜帽【ＨＳ】 |
+| 11130 | Eguiene G Cap | 艾格烏恩兜帽【Ｇ】 |
+| 11131 | Eguiene GF Cap | 艾格烏恩兜帽【ＧＦ】 |
+| 11132 | Eguiene GX Cap | 艾格烏恩兜帽【ＧＸ】 |
+| 11133 | Vakusu Head | 芙阿克烏頭兜 |
+| 11134 | Vakusu F Head | 芙阿克烏頭兜【Ｆ】 |
+| 11135 | Vakusu FY Head | 芙阿克烏頭兜 |
+| 11136 | Vakusu HS Head | 芙阿克烏頭兜【ＨＳ】 |
+| 11137 | Vakusu G Head | 芙阿克烏頭兜【Ｇ】 |
+| 11138 | Vakusu GF Head | 芙阿克烏頭兜【ＧＦ】 |
+| 11139 | Vakusu GX Head | 芙阿克烏頭兜【ＧＸ】 |
+| 11140 | Vakusu Cap | 芙阿克烏兜帽 |
+| 11141 | Vakusu F Cap | 芙阿克烏兜帽【Ｆ】 |
+| 11142 | Vakusu FY Cap | 芙阿克烏兜帽 |
+| 11143 | Vakusu HS Cap | 芙阿克烏兜帽【ＨＳ】 |
+| 11144 | Vakusu G Cap | 芙阿克烏兜帽【Ｇ】 |
+| 11145 | Vakusu GF Cap | 芙阿克烏兜帽【ＧＦ】 |
+| 11146 | Vakusu GX Cap | 芙阿克烏兜帽【ＧＸ】 |
+| 11147 | Once Head | 一度頭兜 |
+| 11148 | Chloe Head | 奇歐頭兜 |
+| 11149 | Espinas Z Brain | 棘龍腦【Ｚ】 |
+| 11150 | Espinas ZF Brain | 棘龍腦【ＺＦ】 |
+| 11151 | Espinas ZY Brain | 棘龍腦【ＺＹ】 |
+| 11152 | Espinas ZX Brain | 棘龍腦【ＺＸ】 |
+| 11153 | Espinas Z Soul | 棘龍魂【Ｚ】 |
+| 11154 | Espinas ZF Soul | 棘龍魂【ＺＦ】 |
+| 11155 | Espinas ZY Soul | 棘龍魂【ＺＹ】 |
+| 11156 | Espinas ZX Soul | 棘龍魂【ＺＸ】 |
+| 11157 | Hypnoc Z Helm | 眠鳥頭兜【Ｚ】 |
+| 11158 | Hypnoc ZF Helm | 眠鳥頭兜【ＺＦ】 |
 | 11159 | Hypnoc ZY Helm | 眠鳥頭兜【ＺＹ】 |
 | 11160 | Hypnoc ZX Helm | 眠鳥頭兜【ＺＸ】 |
-| 11161 | Hypnoc Z Cap | 眠鳥帽【Ｚ】 |
-| 11162 | Hypnoc ZF Cap | 眠鳥帽【ＺＦ】 |
-| 11163 | Hypnoc ZY Cap | 眠鳥帽【ＺＹ】 |
-| 11164 | Hypnoc ZX Cap | 眠鳥帽【ＺＸ】 |
+| 11161 | Hypnoc Z Cap | 眠鳥兜帽【Ｚ】 |
+| 11162 | Hypnoc ZF Cap | 眠鳥兜帽【ＺＦ】 |
+| 11163 | Hypnoc ZY Cap | 眠鳥兜帽【ＺＹ】 |
+| 11164 | Hypnoc ZX Cap | 眠鳥兜帽【ＺＸ】 |
 | 11165 | Khezu Z Helm | 奇怪龍頭兜【Ｚ】 |
 | 11166 | Khezu ZF Helm | 奇怪龍頭兜【ＺＦ】 |
 | 11167 | Khezu ZY Helm | 奇怪龍頭兜【ＺＹ】 |
 | 11168 | Khezu ZX Helm | 奇怪龍頭兜【ＺＸ】 |
-| 11169 | Khezu Z Cap | 奇怪龍帽【Ｚ】 |
-| 11170 | Khezu ZF Cap | 奇怪龍帽【ＺＦ】 |
-| 11171 | Khezu ZY Cap | 奇怪龍帽【ＺＹ】 |
-| 11172 | Khezu ZX Cap | 奇怪龍帽【ＺＸ】 |
+| 11169 | Khezu Z Cap | 奇怪龍兜帽【Ｚ】 |
+| 11170 | Khezu ZF Cap | 奇怪龍兜帽【ＺＦ】 |
+| 11171 | Khezu ZY Cap | 奇怪龍兜帽【ＺＹ】 |
+| 11172 | Khezu ZX Cap | 奇怪龍兜帽【ＺＸ】 |
 | 11173 | Hermitaur Z Helm | 盾蟹頭兜【Ｚ】 |
 | 11174 | Hermitaur ZF Helm | 盾蟹頭兜【ＺＦ】 |
 | 11175 | Hermitaur ZY Helm | 盾蟹頭兜【ＺＹ】 |
 | 11176 | Hermitaur ZX Helm | 盾蟹頭兜【ＺＸ】 |
-| 11177 | Hermitaur Z Cap | 盾蟹帽【Ｚ】 |
-| 11178 | Hermitaur ZF Cap | 盾蟹帽【ＺＦ】 |
-| 11179 | Hermitaur ZY Cap | 盾蟹帽【ＺＹ】 |
-| 11180 | Hermitaur ZX Cap | 盾蟹帽【ＺＸ】 |
-| 11181 | Dios Head | 迪歐斯首 |
-| 11182 | Dios F Head | 迪歐斯首【Ｆ】 |
-| 11183 | Dios FZ Head | 迪歐斯首【ＦＺ】 |
-| 11184 | Dios HS Head | 迪歐斯首【ＨＳ】 |
-| 11185 | Dios GS Head | 迪歐斯首【ＧＳ】 |
-| 11186 | Dios GP Head | 迪歐斯首【ＧＰ】 |
-| 11187 | Dios ZP Head | 迪歐斯首【ＺＰ】 |
-| 11188 | Dios Cap | 迪歐斯帽 |
-| 11189 | Dios F Cap | 迪歐斯帽【Ｆ】 |
-| 11190 | Dios FZ Cap | 迪歐斯帽【ＦＺ】 |
-| 11191 | Dios HS Cap | 迪歐斯帽【ＨＳ】 |
-| 11192 | Dios GS Cap | 迪歐斯帽【ＧＳ】 |
-| 11193 | Dios GP Cap | 迪歐斯帽【ＧＰ】 |
-| 11194 | Dios ZP Cap | 迪歐斯帽【ＺＰ】 |
-| 11195 | Evol Head・White | 艾夫歐爾首・白 |
-| 11196 | Evol F Head・White | 艾夫歐爾首【Ｆ】・白 |
-| 11197 | Evol FZ Head・White | 艾夫歐爾首【ＦＺ】・白 |
-| 11198 | Evol HS Head・White | 艾夫歐爾首【ＨＳ】・白 |
-| 11199 | Evol GS Head・White | 艾夫歐爾首【ＧＳ】・白 |
-| 11200 | Evol GP Head・White | 艾夫歐爾首【ＧＰ】・白 |
-| 11201 | Evol ZP Head・White | 艾夫歐爾首【ＺＰ】・白 |
-| 11202 | Evol Mask・White | 艾夫歐爾面・白 |
-| 11203 | Evol F Mask・White | 艾夫歐爾面【Ｆ】・白 |
-| 11204 | Evol FZ Mask・White | 艾夫歐爾面【ＦＺ】・白 |
-| 11205 | Evol HS Mask・White | 艾夫歐爾面【ＨＳ】・白 |
-| 11206 | Evol GS Mask・White | 艾夫歐爾面【ＧＳ】・白 |
-| 11207 | Evol GP Mask・White | 艾夫歐爾面【ＧＰ】・白 |
-| 11208 | Evol ZP Mask・White | 艾夫歐爾面【ＺＰ】・白 |
-| 11209 | Evol Head・Red | 艾夫歐爾首・赤 |
-| 11210 | Evol F Head・Red | 艾夫歐爾首【Ｆ】・赤 |
-| 11211 | Evol FZ Head・Red | 艾夫歐爾首【ＦＺ】・赤 |
-| 11212 | Evol HS Head・Red | 艾夫歐爾首【ＨＳ】・赤 |
-| 11213 | Evol GS Head・Red | 艾夫歐爾首【ＧＳ】・赤 |
-| 11214 | Evol GP Head・Red | 艾夫歐爾首【ＧＰ】・赤 |
-| 11215 | Evol ZP Head・Red | 艾夫歐爾首【ＺＰ】・赤 |
-| 11216 | Evol Mask・Red | 艾夫歐爾面・赤 |
-| 11217 | Evol F Mask・Red | 艾夫歐爾面【Ｆ】・赤 |
-| 11218 | Evol FZ Mask・Red | 艾夫歐爾面【ＦＺ】・赤 |
-| 11219 | Evol HS Mask・Red | 艾夫歐爾面【ＨＳ】・赤 |
-| 11220 | Evol GS Mask・Red | 艾夫歐爾面【ＧＳ】・赤 |
-| 11221 | Evol GP Mask・Red | 艾夫歐爾面【ＧＰ】・赤 |
-| 11222 | Evol ZP Mask・Red | 艾夫歐爾面【ＺＰ】・赤 |
-| 11223 | Evol Head・Blue | 艾夫歐爾首・青 |
-| 11224 | Evol F Head・Blue | 艾夫歐爾首【Ｆ】・青 |
-| 11225 | Evol FZ Head・Blue | 艾夫歐爾首【ＦＺ】・青 |
-| 11226 | Evol HS Head・Blue | 艾夫歐爾首【ＨＳ】・青 |
-| 11227 | Evol GS Head・Blue | 艾夫歐爾首【ＧＳ】・青 |
-| 11228 | Evol GP Head・Blue | 艾夫歐爾首【ＧＰ】・青 |
-| 11229 | Evol ZP Head・Blue | 艾夫歐爾首【ＺＰ】・青 |
-| 11230 | Evol Mask・Blue | 艾夫歐爾面・青 |
-| 11231 | Evol F Mask・Blue | 艾夫歐爾面【Ｆ】・青 |
-| 11232 | Evol FZ Mask・Blue | 艾夫歐爾面【ＦＺ】・青 |
-| 11233 | Evol HS Mask・Blue | 艾夫歐爾面【ＨＳ】・青 |
-| 11234 | Evol GS Mask・Blue | 艾夫歐爾面【ＧＳ】・青 |
-| 11235 | Evol GP Mask・Blue | 艾夫歐爾面【ＧＰ】・青 |
-| 11236 | Evol ZP Mask・Blue | 艾夫歐爾面【ＺＰ】・青 |
-| 11237 | Evol Head・Purple | 艾夫歐爾首・紫 |
-| 11238 | Evol F Head・Purple | 艾夫歐爾首【Ｆ】・紫 |
-| 11239 | Evol FZ Head・Purple | 艾夫歐爾首【ＦＺ】・紫 |
-| 11240 | Evol HS Head・Purple | 艾夫歐爾首【ＨＳ】・紫 |
-| 11241 | Evol GS Head・Purple | 艾夫歐爾首【ＧＳ】・紫 |
-| 11242 | Evol GP Head・Purple | 艾夫歐爾首【ＧＰ】・紫 |
-| 11243 | Evol ZP Head・Purple | 艾夫歐爾首【ＺＰ】・紫 |
-| 11244 | Evol Mask・Purple | 艾夫歐爾面・紫 |
-| 11245 | Evol F Mask・Purple | 艾夫歐爾面【Ｆ】・紫 |
-| 11246 | Evol FZ Mask・Purple | 艾夫歐爾面【ＦＺ】・紫 |
-| 11247 | Evol HS Mask・Purple | 艾夫歐爾面【ＨＳ】・紫 |
-| 11248 | Evol GS Mask・Purple | 艾夫歐爾面【ＧＳ】・紫 |
-| 11249 | Evol GP Mask・Purple | 艾夫歐爾面【ＧＰ】・紫 |
-| 11250 | Evol ZP Mask・Purple | 艾夫歐爾面【ＺＰ】・紫 |
-| 11251 | Sakufi Head | 薩庫夫伊首 |
-| 11252 | Sakufi F Head | 薩庫夫伊首【Ｆ】 |
-| 11253 | Sakufi FZ Head | 薩庫夫伊首【ＦＺ】 |
-| 11254 | Sakufi HS Head | 薩庫夫伊首【ＨＳ】 |
-| 11255 | Sakufi GS Head | 薩庫夫伊首【ＧＳ】 |
-| 11256 | Sakufi GP Head | 薩庫夫伊首【ＧＰ】 |
-| 11257 | Sakufi ZP Head | 薩庫夫伊首【ＺＰ】 |
-| 11258 | Sakufi Cap | 薩庫夫伊帽 |
-| 11259 | Sakufi F Cap | 薩庫夫伊帽【Ｆ】 |
-| 11260 | Sakufi FZ Cap | 薩庫夫伊帽【ＦＺ】 |
-| 11261 | Sakufi HS Cap | 薩庫夫伊帽【ＨＳ】 |
-| 11262 | Sakufi GS Cap | 薩庫夫伊帽【ＧＳ】 |
-| 11263 | Sakufi GP Cap | 薩庫夫伊帽【ＧＰ】 |
-| 11264 | Sakufi ZP Cap | 薩庫夫伊帽【ＺＰ】 |
-| 11265 | Asumo Head | 阿蘇莫首 |
-| 11266 | Asumo F Head | 阿蘇莫首【Ｆ】 |
-| 11267 | Asumo FZ Head | 阿蘇莫首【ＦＺ】 |
-| 11268 | Asumo HS Head | 阿蘇莫首【ＨＳ】 |
-| 11269 | Asumo GS Head | 阿蘇莫首【ＧＳ】 |
-| 11270 | Asumo GP Head | 阿蘇莫首【ＧＰ】 |
-| 11271 | Asumo ZP Head | 阿蘇莫首【ＺＰ】 |
-| 11272 | Asumo Cap | 阿蘇莫帽 |
-| 11273 | Asumo F Cap | 阿蘇莫帽【Ｆ】 |
-| 11274 | Asumo FZ Cap | 阿蘇莫帽【ＦＺ】 |
-| 11275 | Asumo HS Cap | 阿蘇莫帽【ＨＳ】 |
-| 11276 | Asumo GS Cap | 阿蘇莫帽【ＧＳ】 |
-| 11277 | Asumo GP Cap | 阿蘇莫帽【ＧＰ】 |
-| 11278 | Asumo ZP Cap | 阿蘇莫帽【ＺＰ】 |
-| 11279 | Carrol C Band | 可羅Ｃ帯頭帶 |
-| 11280 | Zyra C Helm | 席拉Ｃ頭兜 |
-| 11281 | Loose C Head | 緩Ｃ首 |
-| 11282 | Asteli ZP Piercing・White | 阿斯特里皮艾【ＺＰ】・白 |
-| 11283 | Asteli ZP Haar・White | 阿斯特里哈阿【ＺＰ】・白 |
-| 11284 | Asteli ZP Piercing・Blue | 阿斯特里皮艾【ＺＰ】・青 |
-| 11285 | Asteli ZP Haar・Blue | 阿斯特里哈阿【ＺＰ】・青 |
-| 11286 | Asteli ZP Piercing・Red | 阿斯特里皮艾【ＺＰ】・赤 |
-| 11287 | Asteli ZP Haar・Red | 阿斯特里哈阿【ＺＰ】・赤 |
-| 11288 | Asteli ZP Piercing・Black | 阿斯特里皮艾【ＺＰ】・黑 |
-| 11289 | Asteli ZP Haar・Black | 阿斯特里哈阿【ＺＰ】・黑 |
-| 11290 | Lien ZP Head・Blue | 爾伊艾恩首【ＺＰ】・青 |
-| 11291 | Lien ZP Hat・Blue | 爾伊艾恩帽【ＺＰ】・青 |
-| 11292 | Lien ZP Head・Red | 爾伊艾恩首【ＺＰ】・赤 |
-| 11293 | Lien ZP Hat・Red | 爾伊艾恩帽【ＺＰ】・赤 |
-| 11294 | Lien ZP Head・Black | 爾伊艾恩首【ＺＰ】・黑 |
-| 11295 | Lien ZP Hat・Black | 爾伊艾恩帽【ＺＰ】・黑 |
-| 11296 | Lien ZP Head・White | 爾伊艾恩首【ＺＰ】・白 |
-| 11297 | Lien ZP Hat・White | 爾伊艾恩帽【ＺＰ】・白 |
+| 11177 | Hermitaur Z Cap | 盾蟹兜帽【Ｚ】 |
+| 11178 | Hermitaur ZF Cap | 盾蟹兜帽【ＺＦ】 |
+| 11179 | Hermitaur ZY Cap | 盾蟹兜帽【ＺＹ】 |
+| 11180 | Hermitaur ZX Cap | 盾蟹兜帽【ＺＸ】 |
+| 11181 | Dios Head | 狄奧斯頭兜 |
+| 11182 | Dios F Head | 狄奧斯頭兜【Ｆ】 |
+| 11183 | Dios FZ Head | 狄奧斯頭兜【ＦＺ】 |
+| 11184 | Dios HS Head | 狄奧斯頭兜【ＨＳ】 |
+| 11185 | Dios GS Head | 狄奧斯頭兜【ＧＳ】 |
+| 11186 | Dios GP Head | 狄奧斯頭兜【ＧＰ】 |
+| 11187 | Dios ZP Head | 狄奧斯頭兜【ＺＰ】 |
+| 11188 | Dios Cap | 狄奧斯兜帽 |
+| 11189 | Dios F Cap | 狄奧斯兜帽【Ｆ】 |
+| 11190 | Dios FZ Cap | 狄奧斯兜帽【ＦＺ】 |
+| 11191 | Dios HS Cap | 狄奧斯兜帽【ＨＳ】 |
+| 11192 | Dios GS Cap | 狄奧斯兜帽【ＧＳ】 |
+| 11193 | Dios GP Cap | 狄奧斯兜帽【ＧＰ】 |
+| 11194 | Dios ZP Cap | 狄奧斯兜帽【ＺＰ】 |
+| 11195 | Evol Head・White | 進化頭兜・白 |
+| 11196 | Evol F Head・White | 進化頭兜【Ｆ】・白 |
+| 11197 | Evol FZ Head・White | 進化頭兜【ＦＺ】・白 |
+| 11198 | Evol HS Head・White | 進化頭兜【ＨＳ】・白 |
+| 11199 | Evol GS Head・White | 進化頭兜【ＧＳ】・白 |
+| 11200 | Evol GP Head・White | 進化頭兜【ＧＰ】・白 |
+| 11201 | Evol ZP Head・White | 進化頭兜【ＺＰ】・白 |
+| 11202 | Evol Mask・White | 進化帽子・白 |
+| 11203 | Evol F Mask・White | 進化帽子【Ｆ】・白 |
+| 11204 | Evol FZ Mask・White | 進化帽子【ＦＺ】・白 |
+| 11205 | Evol HS Mask・White | 進化帽子【ＨＳ】・白 |
+| 11206 | Evol GS Mask・White | 進化帽子【ＧＳ】・白 |
+| 11207 | Evol GP Mask・White | 進化帽子【ＧＰ】・白 |
+| 11208 | Evol ZP Mask・White | 進化帽子【ＺＰ】・白 |
+| 11209 | Evol Head・Red | 進化頭兜・赤 |
+| 11210 | Evol F Head・Red | 進化頭兜【Ｆ】・赤 |
+| 11211 | Evol FZ Head・Red | 進化頭兜【ＦＺ】・赤 |
+| 11212 | Evol HS Head・Red | 進化頭兜【ＨＳ】・赤 |
+| 11213 | Evol GS Head・Red | 進化頭兜【ＧＳ】・赤 |
+| 11214 | Evol GP Head・Red | 進化頭兜【ＧＰ】・赤 |
+| 11215 | Evol ZP Head・Red | 進化頭兜【ＺＰ】・赤 |
+| 11216 | Evol Mask・Red | 進化帽子・赤 |
+| 11217 | Evol F Mask・Red | 進化帽子【Ｆ】・赤 |
+| 11218 | Evol FZ Mask・Red | 進化帽子【ＦＺ】・赤 |
+| 11219 | Evol HS Mask・Red | 進化帽子【ＨＳ】・赤 |
+| 11220 | Evol GS Mask・Red | 進化帽子【ＧＳ】・赤 |
+| 11221 | Evol GP Mask・Red | 進化帽子【ＧＰ】・赤 |
+| 11222 | Evol ZP Mask・Red | 進化帽子【ＺＰ】・赤 |
+| 11223 | Evol Head・Blue | 進化頭兜・青 |
+| 11224 | Evol F Head・Blue | 進化頭兜【Ｆ】・青 |
+| 11225 | Evol FZ Head・Blue | 進化頭兜【ＦＺ】・青 |
+| 11226 | Evol HS Head・Blue | 進化頭兜【ＨＳ】・青 |
+| 11227 | Evol GS Head・Blue | 進化頭兜【ＧＳ】・青 |
+| 11228 | Evol GP Head・Blue | 進化頭兜【ＧＰ】・青 |
+| 11229 | Evol ZP Head・Blue | 進化頭兜【ＺＰ】・青 |
+| 11230 | Evol Mask・Blue | 進化帽子・青 |
+| 11231 | Evol F Mask・Blue | 進化帽子【Ｆ】・青 |
+| 11232 | Evol FZ Mask・Blue | 進化帽子【ＦＺ】・青 |
+| 11233 | Evol HS Mask・Blue | 進化帽子【ＨＳ】・青 |
+| 11234 | Evol GS Mask・Blue | 進化帽子【ＧＳ】・青 |
+| 11235 | Evol GP Mask・Blue | 進化帽子【ＧＰ】・青 |
+| 11236 | Evol ZP Mask・Blue | 進化帽子【ＺＰ】・青 |
+| 11237 | Evol Head・Purple | 進化頭兜・紫 |
+| 11238 | Evol F Head・Purple | 進化頭兜【Ｆ】・紫 |
+| 11239 | Evol FZ Head・Purple | 進化頭兜【ＦＺ】・紫 |
+| 11240 | Evol HS Head・Purple | 進化頭兜【ＨＳ】・紫 |
+| 11241 | Evol GS Head・Purple | 進化頭兜【ＧＳ】・紫 |
+| 11242 | Evol GP Head・Purple | 進化頭兜【ＧＰ】・紫 |
+| 11243 | Evol ZP Head・Purple | 進化頭兜【ＺＰ】・紫 |
+| 11244 | Evol Mask・Purple | 進化帽子・紫 |
+| 11245 | Evol F Mask・Purple | 進化帽子【Ｆ】・紫 |
+| 11246 | Evol FZ Mask・Purple | 進化帽子【ＦＺ】・紫 |
+| 11247 | Evol HS Mask・Purple | 進化帽子【ＨＳ】・紫 |
+| 11248 | Evol GS Mask・Purple | 進化帽子【ＧＳ】・紫 |
+| 11249 | Evol GP Mask・Purple | 進化帽子【ＧＰ】・紫 |
+| 11250 | Evol ZP Mask・Purple | 進化帽子【ＺＰ】・紫 |
+| 11251 | Sakufi Head | 薩庫菲頭兜 |
+| 11252 | Sakufi F Head | 薩庫菲頭兜【Ｆ】 |
+| 11253 | Sakufi FZ Head | 薩庫菲頭兜【ＦＺ】 |
+| 11254 | Sakufi HS Head | 薩庫菲頭兜【ＨＳ】 |
+| 11255 | Sakufi GS Head | 薩庫菲頭兜【ＧＳ】 |
+| 11256 | Sakufi GP Head | 薩庫菲頭兜【ＧＰ】 |
+| 11257 | Sakufi ZP Head | 薩庫菲頭兜【ＺＰ】 |
+| 11258 | Sakufi Cap | 薩庫菲兜帽 |
+| 11259 | Sakufi F Cap | 薩庫菲兜帽【Ｆ】 |
+| 11260 | Sakufi FZ Cap | 薩庫菲兜帽【ＦＺ】 |
+| 11261 | Sakufi HS Cap | 薩庫菲兜帽【ＨＳ】 |
+| 11262 | Sakufi GS Cap | 薩庫菲兜帽【ＧＳ】 |
+| 11263 | Sakufi GP Cap | 薩庫菲兜帽【ＧＰ】 |
+| 11264 | Sakufi ZP Cap | 薩庫菲兜帽【ＺＰ】 |
+| 11265 | Asumo Head | 阿斯莫頭兜 |
+| 11266 | Asumo F Head | 阿斯莫頭兜【Ｆ】 |
+| 11267 | Asumo FZ Head | 阿斯莫頭兜【ＦＺ】 |
+| 11268 | Asumo HS Head | 阿斯莫頭兜【ＨＳ】 |
+| 11269 | Asumo GS Head | 阿斯莫頭兜【ＧＳ】 |
+| 11270 | Asumo GP Head | 阿斯莫頭兜【ＧＰ】 |
+| 11271 | Asumo ZP Head | 阿斯莫頭兜【ＺＰ】 |
+| 11272 | Asumo Cap | 阿斯莫兜帽 |
+| 11273 | Asumo F Cap | 阿斯莫兜帽【Ｆ】 |
+| 11274 | Asumo FZ Cap | 阿斯莫兜帽【ＦＺ】 |
+| 11275 | Asumo HS Cap | 阿斯莫兜帽【ＨＳ】 |
+| 11276 | Asumo GS Cap | 阿斯莫兜帽【ＧＳ】 |
+| 11277 | Asumo GP Cap | 阿斯莫兜帽【ＧＰ】 |
+| 11278 | Asumo ZP Cap | 阿斯莫兜帽【ＺＰ】 |
+| 11279 | Carrol C Band | 克阿爾歐頭帶 |
+| 11280 | Zyra C Helm | 茲阿斯頭兜 |
+| 11281 | Loose C Head | 爾歐斯艾頭兜 |
+| 11282 | Asteli ZP Piercing・White | 阿斯特利耳飾【ＺＰ】・白 |
+| 11283 | Asteli ZP Haar・White | 阿斯特利髮【ＺＰ】・白 |
+| 11284 | Asteli ZP Piercing・Blue | 阿斯特利耳飾【ＺＰ】・青 |
+| 11285 | Asteli ZP Haar・Blue | 阿斯特利髮【ＺＰ】・青 |
+| 11286 | Asteli ZP Piercing・Red | 阿斯特利耳飾【ＺＰ】・赤 |
+| 11287 | Asteli ZP Haar・Red | 阿斯特利髮【ＺＰ】・赤 |
+| 11288 | Asteli ZP Piercing・Black | 阿斯特利耳飾【ＺＰ】・黑 |
+| 11289 | Asteli ZP Haar・Black | 阿斯特利髮【ＺＰ】・黑 |
+| 11290 | Lien ZP Head・Blue | 里恩頭兜【ＺＰ】・青 |
+| 11291 | Lien ZP Hat・Blue | 里恩帽【ＺＰ】・青 |
+| 11292 | Lien ZP Head・Red | 里恩頭兜【ＺＰ】・赤 |
+| 11293 | Lien ZP Hat・Red | 里恩帽【ＺＰ】・赤 |
+| 11294 | Lien ZP Head・Black | 里恩頭兜【ＺＰ】・黑 |
+| 11295 | Lien ZP Hat・Black | 里恩帽【ＺＰ】・黑 |
+| 11296 | Lien ZP Head・White | 里恩頭兜【ＺＰ】・白 |
+| 11297 | Lien ZP Hat・White | 里恩帽【ＺＰ】・白 |
 | 11298 | Carrol ZP Band・Black | 可羅頭帶【ＺＰ】・黑 |
-| 11299 | Carrol ZP Head・Black | 可羅首【ＺＰ】・黑 |
+| 11299 | Carrol ZP Head・Black | 可羅頭兜【ＺＰ】・黑 |
 | 11300 | Carrol ZP Band・Blue | 可羅頭帶【ＺＰ】・青 |
-| 11301 | Carrol ZP Head・Blue | 可羅首【ＺＰ】・青 |
+| 11301 | Carrol ZP Head・Blue | 可羅頭兜【ＺＰ】・青 |
 | 11302 | Carrol ZP Band・White | 可羅頭帶【ＺＰ】・白 |
-| 11303 | Carrol ZP Head・White | 可羅首【ＺＰ】・白 |
+| 11303 | Carrol ZP Head・White | 可羅頭兜【ＺＰ】・白 |
 | 11304 | Carrol ZP Band・Red | 可羅頭帶【ＺＰ】・赤 |
-| 11305 | Carrol ZP Head・Red | 可羅首【ＺＰ】・赤 |
-| 11306 | Zena Beretta | 澤納貝雷特塔 |
-| 11307 | Zena F Beretta | 澤納貝雷特塔【Ｆ】 |
-| 11308 | Zena G Beretta | 澤納貝雷特塔【Ｇ】 |
-| 11309 | Zena GF Beretta | 澤納貝雷特塔【ＧＦ】 |
-| 11310 | Zena GX Beretta | 澤納貝雷特塔【ＧＸ】 |
-| 11311 | Guan Corsage | 古阿恩克歐爾 |
-| 11312 | Guan F Corsage | 古阿恩克歐爾【Ｆ】 |
-| 11313 | Guan G Corsage | 古阿恩克歐爾【Ｇ】 |
-| 11314 | Guan GF Corsage | 古阿恩克歐爾【ＧＦ】 |
-| 11315 | Guan GX Corsage | 古阿恩克歐爾【ＧＸ】 |
-| 11316 | Blize Helm | 艾恩流頭兜 |
-| 11317 | Blize F Helm | 艾恩流頭兜【Ｆ】 |
-| 11318 | Blize FY Helm | 艾恩流腕頭兜 |
-| 11319 | Blize HS Helm | 艾恩流頭兜【ＨＳ】 |
-| 11320 | Blize G Helm | 艾恩流頭兜【Ｇ】 |
-| 11321 | Blize GF Helm | 艾恩流頭兜【ＧＦ】 |
-| 11322 | Blize GX Helm | 艾恩流頭兜【ＧＸ】 |
-| 11323 | Blize Cap | 艾恩流帽 |
-| 11324 | Blize F Cap | 艾恩流帽【Ｆ】 |
-| 11325 | Blize FY Cap | 艾恩流腕帽 |
-| 11326 | Blize HS Cap | 艾恩流帽【ＨＳ】 |
-| 11327 | Blize G Cap | 艾恩流帽【Ｇ】 |
-| 11328 | Blize GF Cap | 艾恩流帽【ＧＦ】 |
-| 11329 | Blize GX Cap | 艾恩流帽【ＧＸ】 |
-| 11330 | Higakure C Helm | 秘隱Ｃ頭兜 |
-| 11331 | Harokyu D Head | 怪轟龍Ｄ首 |
-| 11332 | Evol D Head・White | 艾夫歐爾德首・白 |
-| 11333 | Evol D Head・Red | 艾夫歐爾德首・赤 |
-| 11334 | Evol D Head・Blue | 艾夫歐爾德首・青 |
-| 11335 | Evol D Head・Purple | 艾夫歐爾德首・紫 |
-| 11336 | Hunting Troops Head・Male | 狩獵特爾歐歐普斯首瑪勒首 |
-| 11337 | Hunting Troops Head・Female | 狩獵特爾歐歐普斯首菲瑪勒首 |
-| 11338 | Blue Ice Emperor ZP Head | 伊克艾艾姆佩羅爾首【ＺＰ】・青 |
-| 11339 | Blue Ice Emperor ZP Cap | 伊克艾艾姆佩羅爾帽【ＺＰ】・青 |
-| 11340 | White Ice Emperor ZP Head | 伊克艾艾姆佩羅爾首【ＺＰ】・白 |
-| 11341 | White Ice Emperor ZP Cap | 伊克艾艾姆佩羅爾帽【ＺＰ】・白 |
-| 11342 | Red Ice Emperor ZP Head | 伊克艾艾姆佩羅爾首【ＺＰ】・赤 |
-| 11343 | Red Ice Emperor ZP Cap | 伊克艾艾姆佩羅爾帽【ＺＰ】・赤 |
-| 11344 | Wander Head・Blue | 瓦恩德爾首・青 |
-| 11345 | Wander F Head・Blue | 瓦恩德爾首【Ｆ】・青 |
-| 11346 | Wander FZ Head・Blue | 瓦恩德爾首【ＦＺ】・青 |
-| 11347 | Wander HS Head・Blue | 瓦恩德爾首【ＨＳ】・青 |
-| 11348 | Wander GS Head・Blue | 瓦恩德爾首【ＧＳ】・青 |
-| 11349 | Wander GP Head・Blue | 瓦恩德爾首【ＧＰ】・青 |
-| 11350 | Wander ZP Head・Blue | 瓦恩德爾首【ＺＰ】・青 |
-| 11351 | Wander Haar・Blue | 瓦恩德爾哈阿・青 |
-| 11352 | Wander F Haar・Blue | 瓦恩德爾哈阿【Ｆ】・青 |
-| 11353 | Wander FZ Haar・Blue | 瓦恩德爾哈阿【ＦＺ】・青 |
-| 11354 | Wander HS Haar・Blue | 瓦恩德爾哈阿【ＨＳ】・青 |
-| 11355 | Wander GS Haar・Blue | 瓦恩德爾哈阿【ＧＳ】・青 |
-| 11356 | Wander GP Haar・Blue | 瓦恩德爾哈阿【ＧＰ】・青 |
-| 11357 | Wander ZP Haar・Blue | 瓦恩德爾哈阿【ＺＰ】・青 |
-| 11358 | Wander Head・Red | 瓦恩德爾首・赤 |
-| 11359 | Wander F Head・Red | 瓦恩德爾首【Ｆ】・赤 |
-| 11360 | Wander FZ Head・Red | 瓦恩德爾首【ＦＺ】・赤 |
-| 11361 | Wander HS Head・Red | 瓦恩德爾首【ＨＳ】・赤 |
-| 11362 | Wander GS Head・Red | 瓦恩德爾首【ＧＳ】・赤 |
-| 11363 | Wander GP Head・Red | 瓦恩德爾首【ＧＰ】・赤 |
-| 11364 | Wander ZP Head・Red | 瓦恩德爾首【ＺＰ】・赤 |
-| 11365 | Wander Haar・Red | 瓦恩德爾哈阿・赤 |
-| 11366 | Wander F Haar・Red | 瓦恩德爾哈阿【Ｆ】・赤 |
-| 11367 | Wander FZ Haar・Red | 瓦恩德爾哈阿【ＦＺ】・赤 |
-| 11368 | Wander HS Haar・Red | 瓦恩德爾哈阿【ＨＳ】・赤 |
-| 11369 | Wander GS Haar・Red | 瓦恩德爾哈阿【ＧＳ】・赤 |
-| 11370 | Wander GP Haar・Red | 瓦恩德爾哈阿【ＧＰ】・赤 |
-| 11371 | Wander ZP Haar・Red | 瓦恩德爾哈阿【ＺＰ】・赤 |
-| 11372 | Wander Head・White | 瓦恩德爾首・白 |
-| 11373 | Wander F Head・White | 瓦恩德爾首【Ｆ】・白 |
-| 11374 | Wander FZ Head・White | 瓦恩德爾首【ＦＺ】・白 |
-| 11375 | Wander HS Head・White | 瓦恩德爾首【ＨＳ】・白 |
-| 11376 | Wander GS Head・White | 瓦恩德爾首【ＧＳ】・白 |
-| 11377 | Wander GP Head・White | 瓦恩德爾首【ＧＰ】・白 |
-| 11378 | Wander ZP Head・White | 瓦恩德爾首【ＺＰ】・白 |
-| 11379 | Wander Haar・White | 瓦恩德爾哈阿・白 |
-| 11380 | Wander F Haar・White | 瓦恩德爾哈阿【Ｆ】・白 |
-| 11381 | Wander FZ Haar・White | 瓦恩德爾哈阿【ＦＺ】・白 |
-| 11382 | Wander HS Haar・White | 瓦恩德爾哈阿【ＨＳ】・白 |
-| 11383 | Wander GS Haar・White | 瓦恩德爾哈阿【ＧＳ】・白 |
-| 11384 | Wander GP Haar・White | 瓦恩德爾哈阿【ＧＰ】・白 |
-| 11385 | Wander ZP Haar・White | 瓦恩德爾哈阿【ＺＰ】・白 |
-| 11386 | Wander Head・Black | 瓦恩德爾首・黑 |
-| 11387 | Wander F Head・Black | 瓦恩德爾首【Ｆ】・黑 |
-| 11388 | Wander FZ Head・Black | 瓦恩德爾首【ＦＺ】・黑 |
-| 11389 | Wander HS Head・Black | 瓦恩德爾首【ＨＳ】・黑 |
-| 11390 | Wander GS Head・Black | 瓦恩德爾首【ＧＳ】・黑 |
-| 11391 | Wander GP Head・Black | 瓦恩德爾首【ＧＰ】・黑 |
-| 11392 | Wander ZP Head・Black | 瓦恩德爾首【ＺＰ】・黑 |
-| 11393 | Wander Haar・Black | 瓦恩德爾哈阿・黑 |
-| 11394 | Wander F Haar・Black | 瓦恩德爾哈阿【Ｆ】・黑 |
-| 11395 | Wander FZ Haar・Black | 瓦恩德爾哈阿【ＦＺ】・黑 |
-| 11396 | Wander HS Haar・Black | 瓦恩德爾哈阿【ＨＳ】・黑 |
-| 11397 | Wander GS Haar・Black | 瓦恩德爾哈阿【ＧＳ】・黑 |
-| 11398 | Wander GP Haar・Black | 瓦恩德爾哈阿【ＧＰ】・黑 |
-| 11399 | Wander ZP Haar・Black | 瓦恩德爾哈阿【ＺＰ】・黑 |
-| 11400 | Gore Helm | 奇美頭兜 |
-| 11401 | Gore G Helm | 奇美頭兜【Ｇ】 |
-| 11402 | Gore GF Helm | 奇美頭兜【ＧＦ】 |
-| 11403 | Gore GX Helm | 奇美頭兜【ＧＸ】 |
-| 11404 | Gore Cap | 奇美帽 |
-| 11405 | Gore G Cap | 奇美帽【Ｇ】 |
-| 11406 | Gore GF Cap | 奇美帽【ＧＦ】 |
-| 11407 | Gore GX Cap | 奇美帽【ＧＸ】 |
-| 11408 | Zena G Head | 裂水龍Ｇ腕首【Ｇ】 |
-| 11409 | Zena GF Head | 裂水龍Ｇ腕首【ＧＦ】 |
-| 11410 | Zena GX Head | 裂水龍Ｇ腕首【ＧＸ】 |
-| 11411 | Zena G Cap | 裂水龍Ｇ腕帽【Ｇ】 |
-| 11412 | Zena GF Cap | 裂水龍Ｇ腕帽【ＧＦ】 |
-| 11413 | Zena GX Cap | 裂水龍Ｇ腕帽【ＧＸ】 |
+| 11305 | Carrol ZP Head・Red | 可羅頭兜【ＺＰ】・赤 |
+| 11306 | Zena Beretta | 茲艾恩阿貝雷塔 |
+| 11307 | Zena F Beretta | 茲艾恩阿貝雷塔【Ｆ】 |
+| 11308 | Zena G Beretta | 茲艾恩阿貝雷塔【Ｇ】 |
+| 11309 | Zena GF Beretta | 茲艾恩阿貝雷塔【ＧＦ】 |
+| 11310 | Zena GX Beretta | 茲艾恩阿貝雷塔【ＧＸ】 |
+| 11311 | Guan Corsage | 關胸花 |
+| 11312 | Guan F Corsage | 關胸花【Ｆ】 |
+| 11313 | Guan G Corsage | 關胸花【Ｇ】 |
+| 11314 | Guan GF Corsage | 關胸花【ＧＦ】 |
+| 11315 | Guan GX Corsage | 關胸花【ＧＸ】 |
+| 11316 | Blize Helm | 布萊茲頭兜 |
+| 11317 | Blize F Helm | 布萊茲頭兜【Ｆ】 |
+| 11318 | Blize FY Helm | 布伊茲艾頭兜 |
+| 11319 | Blize HS Helm | 布萊茲頭兜【ＨＳ】 |
+| 11320 | Blize G Helm | 布萊茲頭兜【Ｇ】 |
+| 11321 | Blize GF Helm | 布萊茲頭兜【ＧＦ】 |
+| 11322 | Blize GX Helm | 布萊茲頭兜【ＧＸ】 |
+| 11323 | Blize Cap | 布萊茲兜帽 |
+| 11324 | Blize F Cap | 布萊茲兜帽【Ｆ】 |
+| 11325 | Blize FY Cap | 布伊茲艾兜帽 |
+| 11326 | Blize HS Cap | 布萊茲兜帽【ＨＳ】 |
+| 11327 | Blize G Cap | 布萊茲兜帽【Ｇ】 |
+| 11328 | Blize GF Cap | 布萊茲兜帽【ＧＦ】 |
+| 11329 | Blize GX Cap | 布萊茲兜帽【ＧＸ】 |
+| 11330 | Higakure C Helm | 赫伊格阿頭兜 |
+| 11331 | Harokyu D Head | 赫阿爾歐頭兜 |
+| 11332 | Evol D Head・White | 艾芙歐爾頭兜・白 |
+| 11333 | Evol D Head・Red | 艾芙歐爾頭兜・赤 |
+| 11334 | Evol D Head・Blue | 艾芙歐爾頭兜・青 |
+| 11335 | Evol D Head・Purple | 艾芙歐爾頭兜・紫 |
+| 11336 | Hunting Troops Head・Male | 赫烏恩伊頭兜 |
+| 11337 | Hunting Troops Head・Female | 赫烏恩伊頭兜 |
+| 11338 | Blue Ice Emperor ZP Head | 冰帝頭兜【ＺＰ】・青 |
+| 11339 | Blue Ice Emperor ZP Cap | 冰帝兜帽【ＺＰ】・青 |
+| 11340 | White Ice Emperor ZP Head | 冰帝頭兜【ＺＰ】・白 |
+| 11341 | White Ice Emperor ZP Cap | 冰帝兜帽【ＺＰ】・白 |
+| 11342 | Red Ice Emperor ZP Head | 冰帝頭兜【ＺＰ】・赤 |
+| 11343 | Red Ice Emperor ZP Cap | 冰帝兜帽【ＺＰ】・赤 |
+| 11344 | Wander Head・Blue | 流浪頭兜・青 |
+| 11345 | Wander F Head・Blue | 流浪頭兜【Ｆ】・青 |
+| 11346 | Wander FZ Head・Blue | 流浪頭兜【ＦＺ】・青 |
+| 11347 | Wander HS Head・Blue | 流浪頭兜【ＨＳ】・青 |
+| 11348 | Wander GS Head・Blue | 流浪頭兜【ＧＳ】・青 |
+| 11349 | Wander GP Head・Blue | 流浪頭兜【ＧＰ】・青 |
+| 11350 | Wander ZP Head・Blue | 流浪頭兜【ＺＰ】・青 |
+| 11351 | Wander Haar・Blue | 流浪髮・青 |
+| 11352 | Wander F Haar・Blue | 流浪髮【Ｆ】・青 |
+| 11353 | Wander FZ Haar・Blue | 流浪髮【ＦＺ】・青 |
+| 11354 | Wander HS Haar・Blue | 流浪髮【ＨＳ】・青 |
+| 11355 | Wander GS Haar・Blue | 流浪髮【ＧＳ】・青 |
+| 11356 | Wander GP Haar・Blue | 流浪髮【ＧＰ】・青 |
+| 11357 | Wander ZP Haar・Blue | 流浪髮【ＺＰ】・青 |
+| 11358 | Wander Head・Red | 流浪頭兜・赤 |
+| 11359 | Wander F Head・Red | 流浪頭兜【Ｆ】・赤 |
+| 11360 | Wander FZ Head・Red | 流浪頭兜【ＦＺ】・赤 |
+| 11361 | Wander HS Head・Red | 流浪頭兜【ＨＳ】・赤 |
+| 11362 | Wander GS Head・Red | 流浪頭兜【ＧＳ】・赤 |
+| 11363 | Wander GP Head・Red | 流浪頭兜【ＧＰ】・赤 |
+| 11364 | Wander ZP Head・Red | 流浪頭兜【ＺＰ】・赤 |
+| 11365 | Wander Haar・Red | 流浪髮・赤 |
+| 11366 | Wander F Haar・Red | 流浪髮【Ｆ】・赤 |
+| 11367 | Wander FZ Haar・Red | 流浪髮【ＦＺ】・赤 |
+| 11368 | Wander HS Haar・Red | 流浪髮【ＨＳ】・赤 |
+| 11369 | Wander GS Haar・Red | 流浪髮【ＧＳ】・赤 |
+| 11370 | Wander GP Haar・Red | 流浪髮【ＧＰ】・赤 |
+| 11371 | Wander ZP Haar・Red | 流浪髮【ＺＰ】・赤 |
+| 11372 | Wander Head・White | 流浪頭兜・白 |
+| 11373 | Wander F Head・White | 流浪頭兜【Ｆ】・白 |
+| 11374 | Wander FZ Head・White | 流浪頭兜【ＦＺ】・白 |
+| 11375 | Wander HS Head・White | 流浪頭兜【ＨＳ】・白 |
+| 11376 | Wander GS Head・White | 流浪頭兜【ＧＳ】・白 |
+| 11377 | Wander GP Head・White | 流浪頭兜【ＧＰ】・白 |
+| 11378 | Wander ZP Head・White | 流浪頭兜【ＺＰ】・白 |
+| 11379 | Wander Haar・White | 流浪髮・白 |
+| 11380 | Wander F Haar・White | 流浪髮【Ｆ】・白 |
+| 11381 | Wander FZ Haar・White | 流浪髮【ＦＺ】・白 |
+| 11382 | Wander HS Haar・White | 流浪髮【ＨＳ】・白 |
+| 11383 | Wander GS Haar・White | 流浪髮【ＧＳ】・白 |
+| 11384 | Wander GP Haar・White | 流浪髮【ＧＰ】・白 |
+| 11385 | Wander ZP Haar・White | 流浪髮【ＺＰ】・白 |
+| 11386 | Wander Head・Black | 流浪頭兜・黑 |
+| 11387 | Wander F Head・Black | 流浪頭兜【Ｆ】・黑 |
+| 11388 | Wander FZ Head・Black | 流浪頭兜【ＦＺ】・黑 |
+| 11389 | Wander HS Head・Black | 流浪頭兜【ＨＳ】・黑 |
+| 11390 | Wander GS Head・Black | 流浪頭兜【ＧＳ】・黑 |
+| 11391 | Wander GP Head・Black | 流浪頭兜【ＧＰ】・黑 |
+| 11392 | Wander ZP Head・Black | 流浪頭兜【ＺＰ】・黑 |
+| 11393 | Wander Haar・Black | 流浪髮・黑 |
+| 11394 | Wander F Haar・Black | 流浪髮【Ｆ】・黑 |
+| 11395 | Wander FZ Haar・Black | 流浪髮【ＦＺ】・黑 |
+| 11396 | Wander HS Haar・Black | 流浪髮【ＨＳ】・黑 |
+| 11397 | Wander GS Haar・Black | 流浪髮【ＧＳ】・黑 |
+| 11398 | Wander GP Haar・Black | 流浪髮【ＧＰ】・黑 |
+| 11399 | Wander ZP Haar・Black | 流浪髮【ＺＰ】・黑 |
+| 11400 | Gore Helm | 格歐爾艾頭兜 |
+| 11401 | Gore G Helm | 格歐爾艾頭兜【Ｇ】 |
+| 11402 | Gore GF Helm | 格歐爾艾頭兜【ＧＦ】 |
+| 11403 | Gore GX Helm | 格歐爾艾頭兜【ＧＸ】 |
+| 11404 | Gore Cap | 格歐爾艾兜帽 |
+| 11405 | Gore G Cap | 格歐爾艾兜帽【Ｇ】 |
+| 11406 | Gore GF Cap | 格歐爾艾兜帽【ＧＦ】 |
+| 11407 | Gore GX Cap | 格歐爾艾兜帽【ＧＸ】 |
+| 11408 | Zena G Head | 茲艾恩阿頭兜【Ｇ】 |
+| 11409 | Zena GF Head | 茲艾恩阿頭兜【ＧＦ】 |
+| 11410 | Zena GX Head | 茲艾恩阿頭兜【ＧＸ】 |
+| 11411 | Zena G Cap | 茲艾恩阿兜帽【Ｇ】 |
+| 11412 | Zena GF Cap | 茲艾恩阿兜帽【ＧＦ】 |
+| 11413 | Zena GX Cap | 茲艾恩阿兜帽【ＧＸ】 |
 | 11414 | Rathalos Z Helm | 雄火龍頭兜【Ｚ】 |
 | 11415 | Rathalos ZF Helm | 雄火龍頭兜【ＺＦ】 |
 | 11416 | Rathalos ZY Helm | 雄火龍頭兜【ＺＹ】 |
 | 11417 | Rathalos ZX Helm | 雄火龍頭兜【ＺＸ】 |
-| 11418 | Rathalos Z Cap | 雄火龍帽【Ｚ】 |
-| 11419 | Rathalos ZF Cap | 雄火龍帽【ＺＦ】 |
-| 11420 | Rathalos ZY Cap | 雄火龍帽【ＺＹ】 |
-| 11421 | Rathalos ZX Cap | 雄火龍帽【ＺＸ】 |
+| 11418 | Rathalos Z Cap | 雄火龍兜帽【Ｚ】 |
+| 11419 | Rathalos ZF Cap | 雄火龍兜帽【ＺＦ】 |
+| 11420 | Rathalos ZY Cap | 雄火龍兜帽【ＺＹ】 |
+| 11421 | Rathalos ZX Cap | 雄火龍兜帽【ＺＸ】 |
 | 11422 | Blango Z Helm | 雪獅子頭兜【Ｚ】 |
 | 11423 | Blango ZF Helm | 雪獅子頭兜【ＺＦ】 |
 | 11424 | Blango ZY Helm | 雪獅子頭兜【ＺＹ】 |
 | 11425 | Blango ZX Helm | 雪獅子頭兜【ＺＸ】 |
-| 11426 | Blango Z Cap | 雪獅子帽【Ｚ】 |
-| 11427 | Blango ZF Cap | 雪獅子帽【ＺＦ】 |
-| 11428 | Blango ZY Cap | 雪獅子帽【ＺＹ】 |
-| 11429 | Blango ZX Cap | 雪獅子帽【ＺＸ】 |
-| 11430 | Muruta Head | 穆魯塔首 |
-| 11431 | Muruta F Head | 穆魯塔首【Ｆ】 |
-| 11432 | Muruta FZ Head | 穆魯塔首【ＦＺ】 |
-| 11433 | Muruta HS Head | 穆魯塔首【ＨＳ】 |
-| 11434 | Muruta GS Head | 穆魯塔首【ＧＳ】 |
-| 11435 | Muruta GP Head | 穆魯塔首【ＧＰ】 |
-| 11436 | Muruta ZP Head | 穆魯塔首【ＺＰ】 |
-| 11437 | Muruta Cap | 穆魯塔帽 |
-| 11438 | Muruta F Cap | 穆魯塔帽【Ｆ】 |
-| 11439 | Muruta FZ Cap | 穆魯塔帽【ＦＺ】 |
-| 11440 | Muruta HS Cap | 穆魯塔帽【ＨＳ】 |
-| 11441 | Muruta GS Cap | 穆魯塔帽【ＧＳ】 |
-| 11442 | Muruta GP Cap | 穆魯塔帽【ＧＰ】 |
-| 11443 | Muruta ZP Cap | 穆魯塔帽【ＺＰ】 |
-| 11444 | Howla Head | 霍烏爾阿首 |
-| 11445 | Howla F Head | 霍烏爾阿首【Ｆ】 |
-| 11446 | Howla FZ Head | 霍烏爾阿首【ＦＺ】 |
-| 11447 | Howla HS Head | 霍烏爾阿首【ＨＳ】 |
-| 11448 | Howla GS Head | 霍烏爾阿首【ＧＳ】 |
-| 11449 | Howla GP Head | 霍烏爾阿首【ＧＰ】 |
-| 11450 | Howla ZP Head | 霍烏爾阿首【ＺＰ】 |
-| 11451 | Howla Cap | 霍烏爾阿帽 |
-| 11452 | Howla F Cap | 霍烏爾阿帽【Ｆ】 |
-| 11453 | Howla FZ Cap | 霍烏爾阿帽【ＦＺ】 |
-| 11454 | Howla HS Cap | 霍烏爾阿帽【ＨＳ】 |
-| 11455 | Howla GS Cap | 霍烏爾阿帽【ＧＳ】 |
-| 11456 | Howla GP Cap | 霍烏爾阿帽【ＧＰ】 |
-| 11457 | Howla ZP Cap | 霍烏爾阿帽【ＺＰ】 |
-| 11458 | Panse Head | 拍恩塞首 |
-| 11459 | Panse F Head | 拍恩塞首【Ｆ】 |
-| 11460 | Panse FZ Head | 拍恩塞首【ＦＺ】 |
-| 11461 | Panse HS Head | 拍恩塞首【ＨＳ】 |
-| 11462 | Panse GS Head | 拍恩塞首【ＧＳ】 |
-| 11463 | Panse GP Head | 拍恩塞首【ＧＰ】 |
-| 11464 | Panse ZP Head | 拍恩塞首【ＺＰ】 |
-| 11465 | Panse Cap | 拍恩塞帽 |
-| 11466 | Panse F Cap | 拍恩塞帽【Ｆ】 |
-| 11467 | Panse FZ Cap | 拍恩塞帽【ＦＺ】 |
-| 11468 | Panse HS Cap | 拍恩塞帽【ＨＳ】 |
-| 11469 | Panse GS Cap | 拍恩塞帽【ＧＳ】 |
-| 11470 | Panse GP Cap | 拍恩塞帽【ＧＰ】 |
-| 11471 | Panse ZP Cap | 拍恩塞帽【ＺＰ】 |
-| 11472 | Marriage Head | 馬爾里阿蓋首 |
-| 11473 | Marriage F Head | 馬爾里阿蓋首【Ｆ】 |
-| 11474 | Marriage FZ Head | 馬爾里阿蓋首【ＦＺ】 |
-| 11475 | Marriage HS Head | 馬爾里阿蓋首【ＨＳ】 |
-| 11476 | Marriage GS Head | 馬爾里阿蓋首【ＧＳ】 |
-| 11477 | Marriage GP Head | 馬爾里阿蓋首【ＧＰ】 |
-| 11478 | Marriage ZP Head | 馬爾里阿蓋首【ＺＰ】 |
-| 11479 | Marriage Cap | 馬爾里阿蓋帽 |
-| 11480 | Marriage F Cap | 馬爾里阿蓋帽【Ｆ】 |
-| 11481 | Marriage FZ Cap | 馬爾里阿蓋帽【ＦＺ】 |
-| 11482 | Marriage HS Cap | 馬爾里阿蓋帽【ＨＳ】 |
-| 11483 | Marriage GS Cap | 馬爾里阿蓋帽【ＧＳ】 |
-| 11484 | Marriage GP Cap | 馬爾里阿蓋帽【ＧＰ】 |
-| 11485 | Marriage ZP Cap | 馬爾里阿蓋帽【ＺＰ】 |
-| 11486 | Yukine Head | 尤基涅首 |
-| 11487 | Yukine F Head | 尤基涅首【Ｆ】 |
-| 11488 | Yukine FZ Head | 尤基涅首【ＦＺ】 |
-| 11489 | Yukine HS Head | 尤基涅首【ＨＳ】 |
-| 11490 | Yukine GS Head | 尤基涅首【ＧＳ】 |
-| 11491 | Yukine GP Head | 尤基涅首【ＧＰ】 |
-| 11492 | Yukine ZP Head | 尤基涅首【ＺＰ】 |
-| 11493 | Yukine Mask | 尤基涅面 |
-| 11494 | Yukine F Mask | 尤基涅面【Ｆ】 |
-| 11495 | Yukine FZ Mask | 尤基涅面【ＦＺ】 |
-| 11496 | Yukine HS Mask | 尤基涅面【ＨＳ】 |
-| 11497 | Yukine GS Mask | 尤基涅面【ＧＳ】 |
-| 11498 | Yukine GP Mask | 尤基涅面【ＧＰ】 |
-| 11499 | Yukine ZP Mask | 尤基涅面【ＺＰ】 |
-| 11500 | Snow Miku Head | 斯諾烏米庫首 |
-| 11501 | Snow Miku F Head | 斯諾烏米庫首【Ｆ】 |
-| 11502 | Snow Miku FZ Head | 斯諾烏米庫首【ＦＺ】 |
-| 11503 | Snow Miku HS Head | 斯諾烏米庫首【ＨＳ】 |
-| 11504 | Snow Miku GS Head | 斯諾烏米庫首【ＧＳ】 |
-| 11505 | Snow Miku GP Head | 斯諾烏米庫首【ＧＰ】 |
-| 11506 | Snow Miku ZP Head | 斯諾烏米庫首【ＺＰ】 |
-| 11507 | Snow Miku Piercing | 斯諾烏米庫皮 |
-| 11508 | Snow Miku F Piercing | 斯諾烏米庫皮【Ｆ】 |
-| 11509 | Snow Miku FZ Piercing | 斯諾烏米庫皮【ＦＺ】 |
-| 11510 | Snow Miku HS Piercing | 斯諾烏米庫皮【ＨＳ】 |
-| 11511 | Snow Miku GS Piercing | 斯諾烏米庫皮【ＧＳ】 |
-| 11512 | Snow Miku GP Piercing | 斯諾烏米庫皮【ＧＰ】 |
-| 11513 | Snow Miku ZP Piercing | 斯諾烏米庫皮【ＺＰ】 |
-| 11514 | Miku ZP Head | 米庫首【ＺＰ】 |
-| 11515 | Miku ZP Piercing | 米庫皮艾爾克【ＺＰ】 |
-| 11516 | Oyun ZP Helm・Blue | 遊腕青頭兜【ＺＰ】・青 |
-| 11517 | Oyun ZP Cap・Blue | 遊腕青帽【ＺＰ】・青 |
-| 11518 | Oyun ZP Helm・Red | 遊腕青頭兜【ＺＰ】・赤 |
-| 11519 | Oyun ZP Cap・Red | 遊腕青帽【ＺＰ】・赤 |
-| 11520 | Oyun ZP Helm・Black | 遊腕青頭兜【ＺＰ】・黑 |
-| 11521 | Oyun ZP Cap・Black | 遊腕青帽【ＺＰ】・黑 |
-| 11522 | Oyun ZP Helm・White | 遊腕青頭兜【ＺＰ】・白 |
-| 11523 | Oyun ZP Cap・White | 遊腕青帽【ＺＰ】・白 |
-| 11524 | Demonclad Horn G | 德莫恩克拉德【Ｇ】 |
-| 11525 | Demonclad Horn GF | 德莫恩克拉德【ＧＦ】 |
-| 11526 | Demonclad Horn GX | 德莫恩克拉德【ＧＸ】 |
-| 11527 | Youthclad Horn G | 約烏斯克拉德【Ｇ】 |
-| 11528 | Youthclad Horn GF | 約烏斯克拉德【ＧＦ】 |
-| 11529 | Youthclad Horn GX | 約烏斯克拉德【ＧＸ】 |
-| 11530 | Rave Helm | 拉維頭兜 |
-| 11531 | Rave F Helm | 拉維頭兜【Ｆ】 |
-| 11532 | Rave FY Helm | 拉夫艾夫伊頭兜 |
-| 11533 | Rave HS Helm | 拉維頭兜【ＨＳ】 |
-| 11534 | Rave G Helm | 拉維頭兜【Ｇ】 |
-| 11535 | Rave GF Helm | 拉維頭兜【ＧＦ】 |
-| 11536 | Rave GX Helm | 拉維頭兜【ＧＸ】 |
-| 11537 | Rave Cap | 拉維帽 |
-| 11538 | Rave F Cap | 拉維帽【Ｆ】 |
-| 11539 | Rave FY Cap | 拉夫艾夫伊帽 |
-| 11540 | Rave HS Cap | 拉維帽【ＨＳ】 |
-| 11541 | Rave G Cap | 拉維帽【Ｇ】 |
-| 11542 | Rave GF Cap | 拉維帽【ＧＦ】 |
-| 11543 | Rave GX Cap | 拉維帽【ＧＸ】 |
-| 11544 | Wander D Head・Blue | 瓦恩德爾德首・青 |
-| 11545 | Wander D Head・Red | 瓦恩德爾德首・赤 |
-| 11546 | Wander D Head・White | 瓦恩德爾德首・白 |
-| 11547 | Wander D Head・Black | 瓦恩德爾德首・黑 |
-| 11548 | Blue Ice Emperor D Head | 伊克艾艾姆佩羅爾首・青 |
-| 11549 | White Ice Emperor D Head | 伊克艾艾姆佩羅爾首・白 |
-| 11550 | Red Ice Emperor D Head | 伊克艾艾姆佩羅爾首・赤 |
-| 11551 | Rance C Head | 蘭斯Ｃ首 |
-| 11552 | Santa D Head | 聖誕Ｄ首 |
-| 11553 | Anteka D Head | 雪鹿Ｄ首 |
-| 11554 | Chiarim ZP Head | 奇阿里姆首【ＺＰ】 |
-| 11555 | Chiarim ZP Cap | 奇阿里姆帽【ＺＰ】 |
-| 11556 | Miku ZP Head・White | 米庫首【ＺＰ】・白 |
-| 11557 | Miku ZP Piercing・White | 米庫皮艾爾克【ＺＰ】・白 |
-| 11558 | Miku ZP Head・Yellow | 米庫首【ＺＰ】・黄 |
-| 11559 | Miku ZP Piercing・Yellow | 米庫皮艾爾克【ＺＰ】・黄 |
-| 11560 | Miku ZP Head・Black | 米庫首【ＺＰ】・黑 |
-| 11561 | Miku ZP Piercing・Black | 米庫皮艾爾克【ＺＰ】・黑 |
-| 11562 | Miku ZP Head・Brown | 未來首褐首【ＺＰ】 |
-| 11563 | Miku ZP Piercing・Brown | 米庫皮艾爾克【ＺＰ】 |
-| 11564 | Katante Z Helm | 刀手頭兜【Ｚ】 |
-| 11565 | Katante ZF Helm | 刀手頭兜【ＺＦ】 |
-| 11566 | Katante ZY Helm | 刀手頭兜【ＺＹ】 |
-| 11567 | Katante ZX Helm | 刀手頭兜【ＺＸ】 |
-| 11568 | Katante Z Cap | 刀手帽【Ｚ】 |
-| 11569 | Katante ZF Cap | 刀手帽【ＺＦ】 |
-| 11570 | Katante ZY Cap | 刀手帽【ＺＹ】 |
-| 11571 | Katante ZX Cap | 刀手帽【ＺＸ】 |
-| 11572 | Sakufi D Head | 薩庫菲Ｄ首 |
-| 11573 | Asumo D Head | 阿須Ｄ首 |
-| 11574 | Dios D Head | 迪奧Ｄ首 |
-| 11575 | Asteli D Piercing・White | 阿斯特里德皮・白 |
-| 11576 | Asteli D Piercing・Blue | 阿斯特里德皮・青 |
-| 11577 | Asteli D Piercing・Red | 阿斯特里德皮・赤 |
-| 11578 | Asteli D Piercing・Black | 阿斯特里德皮・黑 |
-| 11579 | Lien D Head・Blue | 爾伊艾恩德首・青 |
-| 11580 | Lien D Head・Red | 爾伊艾恩德首・赤 |
-| 11581 | Lien D Head・Black | 爾伊艾恩德首・黑 |
-| 11582 | Lien D Head・White | 爾伊艾恩德首・白 |
-| 11583 | Lien D Head・Crimson | 爾伊艾恩德首・紅 |
-| 11584 | Lien D Head・Cyan | 勒伊艾恩Ｄ首青藍首 |
-| 11585 | Lien D Head・Peach | 爾伊艾恩德首・桃 |
-| 11586 | Carrol D Band・Black | 克阿爾羅爾德頭帶・黑 |
-| 11587 | Carrol D Band・Blue | 克阿爾羅爾德頭帶・青 |
-| 11588 | Carrol D Band・White | 克阿爾羅爾德頭帶・白 |
-| 11589 | Carrol D Band・Red | 克阿爾羅爾德頭帶・赤 |
-| 11590 | Carrol D Band・Peach | 克阿爾羅爾德頭帶・桃 |
-| 11591 | Gothic D Piercing | 哥德 |
-| 11592 | Kirin D Horn | 麒麟 |
-| 11593 | Farunokku D Helm | 傾雷鳥Ｄ頭兜 |
-| 11594 | Farunokku D Cap | 傾雷鳥Ｄ帽 |
-| 11595 | Pokara D Helm | 凍冰獸Ｄ頭兜 |
-| 11596 | Pokara D Cap | 凍冰獸Ｄ帽 |
-| 11597 | Genesis D【五線譜】 | 五線譜 |
-| 11598 | Motion D【五線譜】 | 五線譜 |
-| 11599 | Lightning D Kabuto | 里格赫特尼恩 |
-| 11600 | Thunder D Kabuto | 斯烏恩德爾德 |
-| 11601 | Toridcless D Helm | 照雷鳥Ｄ頭兜 |
-| 11602 | Toridcless D Cap | 照雷鳥Ｄ帽 |
-| 11603 | Guan D Head | 格烏阿恩Ｄ首 |
-| 11604 | Guan D Cap | 格烏阿恩Ｄ帽 |
-| 11605 | Varusa D Helm | 炎角龍Ｄ頭兜 |
-| 11606 | Varusa D Cap | 炎角龍Ｄ帽 |
-| 11607 | Toa D Helm | 砦蟹Ｄ頭兜 |
-| 11608 | Toa D Cap | 砦蟹Ｄ帽 |
-| 11609 | Blitz D Horn | 布里特茲德霍 |
-| 11610 | Stroma D Helm | 斯羅瑪腕頭兜 |
-| 11611 | Stroma D Cap | 斯羅瑪腕帽 |
-| 11612 | Elegance D【趣】 | 趣 |
-| 11613 | Grace D【趣】 | 趣 |
-| 11614 | Altera D Helm | 阿勒特艾爾阿腕頭兜 |
-| 11615 | Altera D Cap | 阿勒特艾爾阿腕帽 |
-| 11616 | Pobo D Helm | 波波腕頭兜 |
-| 11617 | Pobo D Cap | 波波腕帽 |
-| 11618 | Zinogre C Helm | 雷狼龍頭兜 |
-| 11619 | Zinogre C Cap | 雷狼龍帽 |
-| 11620 | Hornetaur UD Helm | 巨甲蟲頭兜 |
-| 11621 | Hornetaur UD Cap | 巨甲蟲帽 |
-| 11622 | Rathalos D Helm | 雄火龍頭兜 |
-| 11623 | Rathalos D Cap | 雄火龍帽 |
-| 11624 | Gogomoa D Helm | 跳緋獸Ｄ頭兜 |
-| 11625 | Gogomoa D Cap | 跳緋獸Ｄ帽 |
-| 11626 | Azul D Head | 青首 |
-| 11627 | Azul D Wig | 青 |
-| 11628 | Harvest D Head | 収Ｄ首 |
-| 11629 | Harvest D Piercing | 哈爾夫艾斯特 |
-| 11630 | Melan D Head | 紫黑首 |
-| 11631 | Melan D Wig | 紫黑 |
-| 11632 | Diru D Head | 迪爾首 |
-| 11633 | Diru D Wig | 迪魯德烏伊格 |
-| 11634 | Tandress D Head | 特阿恩德爾艾斯斯Ｄ首 |
-| 11635 | Tandress D Piercing | 塔恩德雷斯斯 |
-| 11636 | Rance D Head | 蘭斯Ｇ腕首 |
-| 11637 | Rance D Wig | 拉恩克艾德烏 |
-| 11638 | Ganeto D Head | 法磁化Ｇ腕首 |
-| 11639 | Ganeto D Wig | 加涅托德烏伊 |
-| 11640 | Chiru D Head | 血吼牙Ｇ腕首 |
-| 11641 | Chiru D Wig | 奇伊魯德烏伊 |
-| 11642 | Shiusu D Head | 四隅Ｇ腕首 |
-| 11643 | Shiusu D Wig | 修伊烏蘇德烏 |
-| 11644 | Uruki Mask D | 猫頭猿面Ｄ面 |
-| 11645 | Once D Helm・無 | 歐恩克艾Ｄ頭兜・無頭兜 |
-| 11646 | Pale Sakura D Hachigane | 拍勒薩庫拉德 |
-| 11647 | Iris Piercing D | 伊里斯皮艾爾 |
-| 11648 | Pelegri Head | 佩爾艾格里首 |
-| 11649 | Pelegri F Head | 佩爾艾格里首【Ｆ】 |
-| 11650 | Pelegri FZ Head | 佩爾艾格里首【ＦＺ】 |
-| 11651 | Pelegri HS Head | 佩爾艾格里首【ＨＳ】 |
-| 11652 | Pelegri GS Head | 佩爾艾格里首【ＧＳ】 |
-| 11653 | Pelegri GP Head | 佩爾艾格里首【ＧＰ】 |
-| 11654 | Pelegri ZP Head | 佩爾艾格里首【ＺＰ】 |
-| 11655 | Pelegri Cap | 佩爾艾格里帽 |
-| 11656 | Pelegri F Cap | 佩爾艾格里帽【Ｆ】 |
-| 11657 | Pelegri FZ Cap | 佩爾艾格里帽【ＦＺ】 |
-| 11658 | Pelegri HS Cap | 佩爾艾格里帽【ＨＳ】 |
+| 11426 | Blango Z Cap | 雪獅子兜帽【Ｚ】 |
+| 11427 | Blango ZF Cap | 雪獅子兜帽【ＺＦ】 |
+| 11428 | Blango ZY Cap | 雪獅子兜帽【ＺＹ】 |
+| 11429 | Blango ZX Cap | 雪獅子兜帽【ＺＸ】 |
+| 11430 | Muruta Head | 穆魯塔頭兜 |
+| 11431 | Muruta F Head | 穆魯塔頭兜【Ｆ】 |
+| 11432 | Muruta FZ Head | 穆魯塔頭兜【ＦＺ】 |
+| 11433 | Muruta HS Head | 穆魯塔頭兜【ＨＳ】 |
+| 11434 | Muruta GS Head | 穆魯塔頭兜【ＧＳ】 |
+| 11435 | Muruta GP Head | 穆魯塔頭兜【ＧＰ】 |
+| 11436 | Muruta ZP Head | 穆魯塔頭兜【ＺＰ】 |
+| 11437 | Muruta Cap | 穆魯塔兜帽 |
+| 11438 | Muruta F Cap | 穆魯塔兜帽【Ｆ】 |
+| 11439 | Muruta FZ Cap | 穆魯塔兜帽【ＦＺ】 |
+| 11440 | Muruta HS Cap | 穆魯塔兜帽【ＨＳ】 |
+| 11441 | Muruta GS Cap | 穆魯塔兜帽【ＧＳ】 |
+| 11442 | Muruta GP Cap | 穆魯塔兜帽【ＧＰ】 |
+| 11443 | Muruta ZP Cap | 穆魯塔兜帽【ＺＰ】 |
+| 11444 | Howla Head | 豪拉頭兜 |
+| 11445 | Howla F Head | 豪拉頭兜【Ｆ】 |
+| 11446 | Howla FZ Head | 豪拉頭兜【ＦＺ】 |
+| 11447 | Howla HS Head | 豪拉頭兜【ＨＳ】 |
+| 11448 | Howla GS Head | 豪拉頭兜【ＧＳ】 |
+| 11449 | Howla GP Head | 豪拉頭兜【ＧＰ】 |
+| 11450 | Howla ZP Head | 豪拉頭兜【ＺＰ】 |
+| 11451 | Howla Cap | 豪拉兜帽 |
+| 11452 | Howla F Cap | 豪拉兜帽【Ｆ】 |
+| 11453 | Howla FZ Cap | 豪拉兜帽【ＦＺ】 |
+| 11454 | Howla HS Cap | 豪拉兜帽【ＨＳ】 |
+| 11455 | Howla GS Cap | 豪拉兜帽【ＧＳ】 |
+| 11456 | Howla GP Cap | 豪拉兜帽【ＧＰ】 |
+| 11457 | Howla ZP Cap | 豪拉兜帽【ＺＰ】 |
+| 11458 | Panse Head | 潘瑟頭兜 |
+| 11459 | Panse F Head | 潘瑟頭兜【Ｆ】 |
+| 11460 | Panse FZ Head | 潘瑟頭兜【ＦＺ】 |
+| 11461 | Panse HS Head | 潘瑟頭兜【ＨＳ】 |
+| 11462 | Panse GS Head | 潘瑟頭兜【ＧＳ】 |
+| 11463 | Panse GP Head | 潘瑟頭兜【ＧＰ】 |
+| 11464 | Panse ZP Head | 潘瑟頭兜【ＺＰ】 |
+| 11465 | Panse Cap | 潘瑟兜帽 |
+| 11466 | Panse F Cap | 潘瑟兜帽【Ｆ】 |
+| 11467 | Panse FZ Cap | 潘瑟兜帽【ＦＺ】 |
+| 11468 | Panse HS Cap | 潘瑟兜帽【ＨＳ】 |
+| 11469 | Panse GS Cap | 潘瑟兜帽【ＧＳ】 |
+| 11470 | Panse GP Cap | 潘瑟兜帽【ＧＰ】 |
+| 11471 | Panse ZP Cap | 潘瑟兜帽【ＺＰ】 |
+| 11472 | Marriage Head | 婚礼頭兜 |
+| 11473 | Marriage F Head | 婚礼頭兜【Ｆ】 |
+| 11474 | Marriage FZ Head | 婚礼頭兜【ＦＺ】 |
+| 11475 | Marriage HS Head | 婚礼頭兜【ＨＳ】 |
+| 11476 | Marriage GS Head | 婚礼頭兜【ＧＳ】 |
+| 11477 | Marriage GP Head | 婚礼頭兜【ＧＰ】 |
+| 11478 | Marriage ZP Head | 婚礼頭兜【ＺＰ】 |
+| 11479 | Marriage Cap | 婚礼兜帽 |
+| 11480 | Marriage F Cap | 婚礼兜帽【Ｆ】 |
+| 11481 | Marriage FZ Cap | 婚礼兜帽【ＦＺ】 |
+| 11482 | Marriage HS Cap | 婚礼兜帽【ＨＳ】 |
+| 11483 | Marriage GS Cap | 婚礼兜帽【ＧＳ】 |
+| 11484 | Marriage GP Cap | 婚礼兜帽【ＧＰ】 |
+| 11485 | Marriage ZP Cap | 婚礼兜帽【ＺＰ】 |
+| 11486 | Yukine Head | 雪音頭兜 |
+| 11487 | Yukine F Head | 雪音頭兜【Ｆ】 |
+| 11488 | Yukine FZ Head | 雪音頭兜【ＦＺ】 |
+| 11489 | Yukine HS Head | 雪音頭兜【ＨＳ】 |
+| 11490 | Yukine GS Head | 雪音頭兜【ＧＳ】 |
+| 11491 | Yukine GP Head | 雪音頭兜【ＧＰ】 |
+| 11492 | Yukine ZP Head | 雪音頭兜【ＺＰ】 |
+| 11493 | Yukine Mask | 雪音帽子 |
+| 11494 | Yukine F Mask | 雪音帽子【Ｆ】 |
+| 11495 | Yukine FZ Mask | 雪音帽子【ＦＺ】 |
+| 11496 | Yukine HS Mask | 雪音帽子【ＨＳ】 |
+| 11497 | Yukine GS Mask | 雪音帽子【ＧＳ】 |
+| 11498 | Yukine GP Mask | 雪音帽子【ＧＰ】 |
+| 11499 | Yukine ZP Mask | 雪音帽子【ＺＰ】 |
+| 11500 | Snow Miku Head | 雪初音頭兜 |
 

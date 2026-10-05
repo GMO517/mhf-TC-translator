@@ -1,62 +1,206 @@
-# reviews-legs-7（legs 7/27）
+# reviews-legs-7（legs 7/28）
 
-> CSV：`csv/dat-armors-legs.csv`｜index **3135–3656**｜本檔 **500**｜全表異於原文 **13253**
+> CSV：`csv/dat-armors-legs.csv`｜index **3001–3500**｜本檔 **500**｜全表異於原文 **13513**
 
 | index | 原文 | 譯文 |
 |---|---|---|
-| 3135 | Shinryu F脚着・Purple | 脚着・紫 |
-| 3136 | Shinryu FZ脚着・Purple | 脚着・紫 |
-| 3137 | Shinryu HC脚着・Purple | 脚着・紫 |
-| 3138 | Shinryu HS脚着・Purple | 脚着・紫 |
-| 3139 | Reppa 脚着・Purple | 脚着・紫 |
-| 3140 | Reppa F脚着・Purple | 脚着・紫 |
-| 3141 | Reppa FZ脚着・Purple | 脚着・紫 |
-| 3142 | Reppa HC脚着・Purple | 脚着・紫 |
-| 3143 | Reppa HS脚着・Purple | 脚着・紫 |
-| 3144 | Shinryu 脚着・Yellow | 脚着・黄 |
-| 3145 | Shinryu F脚着・Yellow | 脚着・黄 |
-| 3146 | Shinryu FZ脚着・Yellow | 脚着・黄 |
-| 3147 | Shinryu HC脚着・Yellow | 脚着・黄 |
-| 3148 | Shinryu HS脚着・Yellow | 脚着・黄 |
-| 3149 | Reppa 脚着・Yellow | 脚着・黄 |
-| 3150 | Reppa F脚着・Yellow | 脚着・黄 |
-| 3151 | Reppa FZ脚着・Yellow | 脚着・黄 |
-| 3152 | Reppa HC脚着・Yellow | 脚着・黄 |
-| 3153 | Reppa HS脚着・Yellow | 脚着・黄 |
-| 3164 | Cannon タイツ・Green | ・緑 |
-| 3165 | Cannon Fタイツ・Green | ・緑 |
-| 3166 | Cannon FZタイツ・Green | ・緑 |
-| 3167 | Cannon HCタイツ・Green | ・緑 |
-| 3168 | Cannon HSタイツ・Green | ・緑 |
-| 3169 | Axel タイツ・Green | ・緑 |
-| 3170 | Axel Fタイツ・Green | ・緑 |
-| 3171 | Axel FZタイツ・Green | ・緑 |
-| 3172 | Axel HCタイツ・Green | ・緑 |
-| 3173 | Axel HSタイツ・Green | ・緑 |
-| 3174 | Cannon タイツ・Peach | ・桃 |
-| 3175 | Cannon Fタイツ・Peach | ・桃 |
-| 3176 | Cannon FZタイツ・Peach | ・桃 |
-| 3177 | Cannon HCタイツ・Peach | ・桃 |
-| 3178 | Cannon HSタイツ・Peach | ・桃 |
-| 3179 | Axel タイツ・Peach | ・桃 |
-| 3180 | Axel Fタイツ・Peach | ・桃 |
-| 3181 | Axel FZタイツ・Peach | ・桃 |
-| 3182 | Axel HCタイツ・Peach | ・桃 |
-| 3183 | Axel HSタイツ・Peach | ・桃 |
-| 3184 | Cannon タイツ・Purple | ・紫 |
-| 3185 | Cannon Fタイツ・Purple | ・紫 |
-| 3186 | Cannon FZタイツ・Purple | ・紫 |
-| 3187 | Cannon HCタイツ・Purple | ・紫 |
-| 3188 | Cannon HSタイツ・Purple | ・紫 |
-| 3189 | Axel タイツ・Purple | ・紫 |
-| 3190 | Axel Fタイツ・Purple | ・紫 |
-| 3191 | Axel FZタイツ・Purple | ・紫 |
-| 3192 | Axel HCタイツ・Purple | ・紫 |
-| 3193 | Axel HSタイツ・Purple | ・紫 |
-| 3194 | 剣士ランク8 | 剣士8 |
-| 3195 | 剣士ランク9 | 剣士9 |
-| 3196 | ガンランク8 | 8 |
-| 3197 | ガンランク9 | 9 |
+| 3001 | 蜂針F【具足】・Yellow | 蜂針具足【Ｆ】・黄 |
+| 3002 | 蜂針FZ【具足】・Yellow | 蜂針具足【ＦＺ】・黄 |
+| 3003 | 蜂針HC【具足】・Yellow | 蜂針具足【ＨＣ】・黄 |
+| 3004 | 蜂針HS【具足】・Yellow | 蜂針具足【ＨＳ】・黄 |
+| 3005 | 気弾【具足】・Yellow | 気弾具足・黄 |
+| 3006 | 気弾F【具足】・Yellow | 気弾具足【Ｆ】・黄 |
+| 3007 | 気弾FZ【具足】・Yellow | 気弾具足【ＦＺ】・黄 |
+| 3008 | 気弾HC【具足】・Yellow | 気弾具足【ＨＣ】・黄 |
+| 3009 | 気弾HS【具足】・Yellow | 気弾具足【ＨＳ】・黄 |
+| 3010 | 蜂針【具足】・Black | 蜂針具足・黑 |
+| 3011 | 蜂針F【具足】・Black | 蜂針具足【Ｆ】・黑 |
+| 3012 | 蜂針FZ【具足】・Black | 蜂針具足【ＦＺ】・黑 |
+| 3013 | 蜂針HC【具足】・Black | 蜂針具足【ＨＣ】・黑 |
+| 3014 | 蜂針HS【具足】・Black | 蜂針具足【ＨＳ】・黑 |
+| 3015 | 気弾【具足】・Black | 気弾具足・黑 |
+| 3016 | 気弾F【具足】・Black | 気弾具足【Ｆ】・黑 |
+| 3017 | 気弾FZ【具足】・Black | 気弾具足【ＦＺ】・黑 |
+| 3018 | 気弾HC【具足】・Black | 気弾具足【ＨＣ】・黑 |
+| 3019 | 気弾HS【具足】・Black | 気弾具足【ＨＳ】・黑 |
+| 3020 | Algol F Greaves | 阿爾歐爾護腿【Ｆ】 |
+| 3021 | Algol FX Greaves | 阿爾歐爾護腿【ＦＸ】 |
+| 3022 | Algol F Leggings | 阿爾歐爾裹腿【Ｆ】 |
+| 3023 | Algol FX Leggings | 阿爾歐爾裹腿【ＦＸ】 |
+| 3024 | 抜胴【具足】 | 抜胴具足 |
+| 3025 | 抜胴F【具足】 | 抜胴具足【Ｆ】 |
+| 3026 | 抜胴FZ【具足】 | 抜胴具足【ＦＺ】 |
+| 3027 | 抜胴HS【具足】 | 抜胴具足【ＨＳ】 |
+| 3028 | 長根【具足】 | 長根具足 |
+| 3029 | 長根F【具足】 | 長根具足【Ｆ】 |
+| 3030 | 長根FZ【具足】 | 長根具足【ＦＺ】 |
+| 3031 | 長根HS【具足】 | 長根具足【ＨＳ】 |
+| 3032 | 花火【具足】 | 花火具足 |
+| 3033 | 花火F【具足】 | 花火具足【Ｆ】 |
+| 3034 | 花火FZ【具足】 | 花火具足【ＦＺ】 |
+| 3035 | 花火HS【具足】 | 花火具足【ＨＳ】 |
+| 3036 | 流星【具足】 | 流星具足 |
+| 3037 | 流星F【具足】 | 流星具足【Ｆ】 |
+| 3038 | 流星FZ【具足】 | 流星具足【ＦＺ】 |
+| 3039 | 流星HS【具足】 | 流星具足【ＨＳ】 |
+| 3040 | 居合【具足】 | 居合具足 |
+| 3041 | 居合F【具足】 | 居合具足【Ｆ】 |
+| 3042 | 居合FZ【具足】 | 居合具足【ＦＺ】 |
+| 3043 | 居合HC【具足】 | 居合具足【ＨＣ】 |
+| 3044 | 爆裂【具足】 | 爆裂具足 |
+| 3045 | 爆裂F【具足】 | 爆裂具足【Ｆ】 |
+| 3046 | 爆裂FZ【具足】 | 爆裂具足【ＦＺ】 |
+| 3047 | 爆裂HC【具足】 | 爆裂具足【ＨＣ】 |
+| 3048 | 脱兎【具足】 | 脱兎具足 |
+| 3049 | 脱兎F【具足】 | 脱兎具足【Ｆ】 |
+| 3050 | 脱兎FZ【具足】 | 脱兎具足【ＦＺ】 |
+| 3051 | 脱兎HC【具足】 | 脱兎具足【ＨＣ】 |
+| 3052 | Violent 咲【具足】 | 咲具足 |
+| 3053 | Violent 咲F【具足】 | 咲具足【Ｆ】 |
+| 3054 | Violent 咲FZ【具足】 | 咲具足【ＦＺ】 |
+| 3055 | Violent 咲HC【具足】 | 咲具足【ＨＣ】 |
+| 3056 | 正拳FZ脚着 | 正拳脚着護腿 |
+| 3057 | 正拳HC脚着 | 正拳脚着護腿 |
+| 3058 | 灼熱FZ脚着 | 灼熱脚着護腿 |
+| 3059 | 灼熱HC脚着 | 灼熱脚着護腿 |
+| 3060 | 龍星FZ脚着 | 龍星脚着護腿 |
+| 3061 | 龍星HC脚着 | 龍星脚着護腿 |
+| 3062 | 虎襲FZ脚着 | 虎襲脚着護腿 |
+| 3063 | 虎襲HC脚着 | 虎襲脚着護腿 |
+| 3064 | Kontao Feet | 孔陶足 |
+| 3065 | Kontao F Feet | 孔陶足【Ｆ】 |
+| 3066 | Kontao FZ Feet | 孔陶足【ＦＺ】 |
+| 3067 | ダミー | (dummy) |
+| 3068 | ダミー | (dummy) |
+| 3069 | Kontao Boots | 孔陶靴 |
+| 3070 | Kontao F Boots | 孔陶靴【Ｆ】 |
+| 3071 | Kontao FZ Boots | 孔陶靴【ＦＺ】 |
+| 3072 | ダミー | (dummy) |
+| 3073 | ダミー | (dummy) |
+| 3074 | Gloria Feet・Gold | 榮光足・金 |
+| 3075 | Gloria F Feet・Gold | 榮光足【Ｆ】・金 |
+| 3076 | Gloria FZ Feet・Gold | 榮光足【ＦＺ】・金 |
+| 3077 | Gloria HC Feet・Gold | 榮光足【ＨＣ】・金 |
+| 3078 | Gloria HS Feet・Gold | 榮光足【ＨＳ】・金 |
+| 3079 | Gloria Boots・Gold | 榮光靴・金 |
+| 3080 | Gloria F Boots・Gold | 榮光靴【Ｆ】・金 |
+| 3081 | Gloria FZ Boots・Gold | 榮光靴【ＦＺ】・金 |
+| 3082 | Gloria HC Boots・Gold | 榮光靴【ＨＣ】・金 |
+| 3083 | Gloria HS Boots・Gold | 榮光靴【ＨＳ】・金 |
+| 3084 | Gloria Feet・Blue | 榮光足・青 |
+| 3085 | Gloria F Feet・Blue | 榮光足【Ｆ】・青 |
+| 3086 | Gloria FZ Feet・Blue | 榮光足【ＦＺ】・青 |
+| 3087 | Gloria HC Feet・Blue | 榮光足【ＨＣ】・青 |
+| 3088 | Gloria HS Feet・Blue | 榮光足【ＨＳ】・青 |
+| 3089 | Gloria Boots・Blue | 榮光靴・青 |
+| 3090 | Gloria F Boots・Blue | 榮光靴【Ｆ】・青 |
+| 3091 | Gloria FZ Boots・Blue | 榮光靴【ＦＺ】・青 |
+| 3092 | Gloria HC Boots・Blue | 榮光靴【ＨＣ】・青 |
+| 3093 | Gloria HS Boots・Blue | 榮光靴【ＨＳ】・青 |
+| 3094 | Gloria Feet・Water | 榮光水足 |
+| 3095 | Gloria F Feet・Water | 榮光水足【Ｆ】 |
+| 3096 | Gloria FZ Feet・Water | 榮光水足【ＦＺ】 |
+| 3097 | Gloria HC Feet・Water | 榮光水足【ＨＣ】 |
+| 3098 | Gloria HS Feet・Water | 榮光水足【ＨＳ】 |
+| 3099 | Gloria Boots・Water | 榮光水靴 |
+| 3100 | Gloria F Boots・Water | 榮光水靴【Ｆ】 |
+| 3101 | Gloria FZ Boots・Water | 榮光水靴【ＦＺ】 |
+| 3102 | Gloria HC Boots・Water | 榮光水靴【ＨＣ】 |
+| 3103 | Gloria HS Boots・Water | 榮光水靴【ＨＳ】 |
+| 3104 | Gloria Feet・Red | 榮光足・赤 |
+| 3105 | Gloria F Feet・Red | 榮光足【Ｆ】・赤 |
+| 3106 | Gloria FZ Feet・Red | 榮光足【ＦＺ】・赤 |
+| 3107 | Gloria HC Feet・Red | 榮光足【ＨＣ】・赤 |
+| 3108 | Gloria HS Feet・Red | 榮光足【ＨＳ】・赤 |
+| 3109 | Gloria Boots・Red | 榮光靴・赤 |
+| 3110 | Gloria F Boots・Red | 榮光靴【Ｆ】・赤 |
+| 3111 | Gloria FZ Boots・Red | 榮光靴【ＦＺ】・赤 |
+| 3112 | Gloria HC Boots・Red | 榮光靴【ＨＣ】・赤 |
+| 3113 | Gloria HS Boots・Red | 榮光靴【ＨＳ】・赤 |
+| 3114 | Shinryu 脚着・Red | 脚着護腿・赤 |
+| 3115 | Shinryu F脚着・Red | 脚着護腿・赤 |
+| 3116 | Shinryu FZ脚着・Red | 脚着護腿・赤 |
+| 3117 | Shinryu HC脚着・Red | 脚着護腿・赤 |
+| 3118 | Shinryu HS脚着・Red | 脚着護腿・赤 |
+| 3119 | Reppa 脚着・Red | 脚着護腿・赤 |
+| 3120 | Reppa F脚着・Red | 脚着護腿・赤 |
+| 3121 | Reppa FZ脚着・Red | 脚着護腿・赤 |
+| 3122 | Reppa HC脚着・Red | 脚着護腿・赤 |
+| 3123 | Reppa HS脚着・Red | 脚着護腿・赤 |
+| 3124 | Shinryu 脚着・White | 脚着護腿・白 |
+| 3125 | Shinryu F脚着・White | 脚着護腿・白 |
+| 3126 | Shinryu FZ脚着・White | 脚着護腿・白 |
+| 3127 | Shinryu HC脚着・White | 脚着護腿・白 |
+| 3128 | Shinryu HS脚着・White | 脚着護腿・白 |
+| 3129 | Reppa 脚着・White | 脚着護腿・白 |
+| 3130 | Reppa F脚着・White | 脚着護腿・白 |
+| 3131 | Reppa FZ脚着・White | 脚着護腿・白 |
+| 3132 | Reppa HC脚着・White | 脚着護腿・白 |
+| 3133 | Reppa HS脚着・White | 脚着護腿・白 |
+| 3134 | Shinryu 脚着・Purple | 脚着護腿・紫 |
+| 3135 | Shinryu F脚着・Purple | 脚着護腿・紫 |
+| 3136 | Shinryu FZ脚着・Purple | 脚着護腿・紫 |
+| 3137 | Shinryu HC脚着・Purple | 脚着護腿・紫 |
+| 3138 | Shinryu HS脚着・Purple | 脚着護腿・紫 |
+| 3139 | Reppa 脚着・Purple | 脚着護腿・紫 |
+| 3140 | Reppa F脚着・Purple | 脚着護腿・紫 |
+| 3141 | Reppa FZ脚着・Purple | 脚着護腿・紫 |
+| 3142 | Reppa HC脚着・Purple | 脚着護腿・紫 |
+| 3143 | Reppa HS脚着・Purple | 脚着護腿・紫 |
+| 3144 | Shinryu 脚着・Yellow | 脚着護腿・黄 |
+| 3145 | Shinryu F脚着・Yellow | 脚着護腿・黄 |
+| 3146 | Shinryu FZ脚着・Yellow | 脚着護腿・黄 |
+| 3147 | Shinryu HC脚着・Yellow | 脚着護腿・黄 |
+| 3148 | Shinryu HS脚着・Yellow | 脚着護腿・黄 |
+| 3149 | Reppa 脚着・Yellow | 脚着護腿・黄 |
+| 3150 | Reppa F脚着・Yellow | 脚着護腿・黄 |
+| 3151 | Reppa FZ脚着・Yellow | 脚着護腿・黄 |
+| 3152 | Reppa HC脚着・Yellow | 脚着護腿・黄 |
+| 3153 | Reppa HS脚着・Yellow | 脚着護腿・黄 |
+| 3154 | Cannon タイツ・Water | 加農護腿 |
+| 3155 | Cannon Fタイツ・Water | 加農護腿 |
+| 3156 | Cannon FZタイツ・Water | 加農護腿 |
+| 3157 | Cannon HCタイツ・Water | 加農護腿 |
+| 3158 | Cannon HSタイツ・Water | 加農護腿 |
+| 3159 | Axel タイツ・Water | 輪軸護腿 |
+| 3160 | Axel Fタイツ・Water | 輪軸護腿 |
+| 3161 | Axel FZタイツ・Water | 輪軸護腿 |
+| 3162 | Axel HCタイツ・Water | 輪軸護腿 |
+| 3163 | Axel HSタイツ・Water | 輪軸護腿 |
+| 3164 | Cannon タイツ・Green | 加農護腿 |
+| 3165 | Cannon Fタイツ・Green | 加農護腿 |
+| 3166 | Cannon FZタイツ・Green | 加農護腿 |
+| 3167 | Cannon HCタイツ・Green | 加農護腿 |
+| 3168 | Cannon HSタイツ・Green | 加農護腿 |
+| 3169 | Axel タイツ・Green | 輪軸護腿 |
+| 3170 | Axel Fタイツ・Green | 輪軸護腿 |
+| 3171 | Axel FZタイツ・Green | 輪軸護腿 |
+| 3172 | Axel HCタイツ・Green | 輪軸護腿 |
+| 3173 | Axel HSタイツ・Green | 輪軸護腿 |
+| 3174 | Cannon タイツ・Peach | 加農護腿 |
+| 3175 | Cannon Fタイツ・Peach | 加農護腿 |
+| 3176 | Cannon FZタイツ・Peach | 加農護腿 |
+| 3177 | Cannon HCタイツ・Peach | 加農護腿 |
+| 3178 | Cannon HSタイツ・Peach | 加農護腿 |
+| 3179 | Axel タイツ・Peach | 輪軸護腿 |
+| 3180 | Axel Fタイツ・Peach | 輪軸護腿 |
+| 3181 | Axel FZタイツ・Peach | 輪軸護腿 |
+| 3182 | Axel HCタイツ・Peach | 輪軸護腿 |
+| 3183 | Axel HSタイツ・Peach | 輪軸護腿 |
+| 3184 | Cannon タイツ・Purple | 加農護腿 |
+| 3185 | Cannon Fタイツ・Purple | 加農護腿 |
+| 3186 | Cannon FZタイツ・Purple | 加農護腿 |
+| 3187 | Cannon HCタイツ・Purple | 加農護腿 |
+| 3188 | Cannon HSタイツ・Purple | 加農護腿 |
+| 3189 | Axel タイツ・Purple | 輪軸護腿 |
+| 3190 | Axel Fタイツ・Purple | 輪軸護腿 |
+| 3191 | Axel FZタイツ・Purple | 輪軸護腿 |
+| 3192 | Axel HCタイツ・Purple | 輪軸護腿 |
+| 3193 | Axel HSタイツ・Purple | 輪軸護腿 |
+| 3194 | 剣士ランク8 | 拉恩庫護腿 |
+| 3195 | 剣士ランク9 | 拉恩庫護腿 |
+| 3196 | ガンランク8 | 加恩拉恩庫護腿 |
+| 3197 | ガンランク9 | 加恩拉恩庫護腿 |
 | 3198 | ダミー | (dummy) |
 | 3199 | ダミー | (dummy) |
 | 3200 | ダミー | (dummy) |
@@ -91,23 +235,23 @@
 | 3229 | ダミー | (dummy) |
 | 3230 | ダミー | (dummy) |
 | 3231 | ダミー | (dummy) |
-| 3232 | Hope Boots | 望靴 |
-| 3233 | エミット Greaves | 腕護腿 |
-| 3234 | エミットF Greaves | 腕護腿【Ｆ】 |
-| 3235 | エミットFX Greaves | 腕護腿【ＦＸ】 |
-| 3236 | エミット Leggings | 腕裹腿 |
-| 3237 | エミットF Leggings | 腕裹腿【Ｆ】 |
-| 3238 | エミットFX Leggings | 腕裹腿【ＦＸ】 |
-| 3239 | Diboa Greaves | 迪波阿護腿 |
-| 3240 | Diboa F Greaves | 迪波阿護腿【Ｆ】 |
-| 3241 | Diboa FX Greaves | 迪波阿護腿【ＦＸ】 |
-| 3242 | Diboa Leggings | 迪波阿裹腿 |
-| 3243 | Diboa F Leggings | 迪波阿裹腿【Ｆ】 |
-| 3244 | Diboa FX Leggings | 迪波阿裹腿【ＦＸ】 |
-| 3245 | Pietra G Greaves | 岩華護腿【Ｇ】 |
-| 3246 | Pietra GF Greaves | 岩華護腿【ＧＦ】 |
-| 3247 | Pietra G Leggings | 岩華裹腿【Ｇ】 |
-| 3248 | Pietra GF Leggings | 岩華裹腿【ＧＦ】 |
+| 3232 | Hope Boots | 赫歐普艾靴 |
+| 3233 | エミット Greaves | 艾米托護腿 |
+| 3234 | エミットF Greaves | 艾米托護腿【Ｆ】 |
+| 3235 | エミットFX Greaves | 艾米托護腿【ＦＸ】 |
+| 3236 | エミット Leggings | 艾米托裹腿 |
+| 3237 | エミットF Leggings | 艾米托裹腿【Ｆ】 |
+| 3238 | エミットFX Leggings | 艾米托裹腿【ＦＸ】 |
+| 3239 | Diboa Greaves | 迪博阿護腿 |
+| 3240 | Diboa F Greaves | 迪博阿護腿【Ｆ】 |
+| 3241 | Diboa FX Greaves | 迪博阿護腿【ＦＸ】 |
+| 3242 | Diboa Leggings | 迪博阿裹腿 |
+| 3243 | Diboa F Leggings | 迪博阿裹腿【Ｆ】 |
+| 3244 | Diboa FX Leggings | 迪博阿裹腿【ＦＸ】 |
+| 3245 | Pietra G Greaves | 普伊特阿護腿【Ｇ】 |
+| 3246 | Pietra GF Greaves | 普伊特阿護腿【ＧＦ】 |
+| 3247 | Pietra G Leggings | 普伊特阿裹腿【Ｇ】 |
+| 3248 | Pietra GF Leggings | 普伊特阿裹腿【ＧＦ】 |
 | 3249 | Pokara G Greaves | 凍冰獸護腿【Ｇ】 |
 | 3250 | Pokara GF Greaves | 凍冰獸護腿【ＧＦ】 |
 | 3251 | Pokara G Leggings | 凍冰獸裹腿【Ｇ】 |
@@ -148,10 +292,10 @@
 | 3286 | Ceanataur GF Greaves | 鎌蟹護腿【ＧＦ】 |
 | 3287 | Ceanataur G Leggings | 鎌蟹裹腿【Ｇ】 |
 | 3288 | Ceanataur GF Leggings | 鎌蟹裹腿【ＧＦ】 |
-| 3289 | Mikagura G【 Hakama 】 | 哈可馬米可古【Ｇ】 |
-| 3290 | Mikagura GF【 Hakama 】 | 哈可馬米可古【ＧＦ】 |
-| 3291 | Satokagura G【 Hakama 】 | 哈可馬薩托可【Ｇ】 |
-| 3292 | Satokagura GF【 Hakama 】 | 哈可馬薩托可【ＧＦ】 |
+| 3289 | Mikagura G【 Hakama 】 | 御神樂袴【Ｇ】 |
+| 3290 | Mikagura GF【 Hakama 】 | 御神樂袴【ＧＦ】 |
+| 3291 | Satokagura G【 Hakama 】 | 里神樂袴【Ｇ】 |
+| 3292 | Satokagura GF【 Hakama 】 | 里神樂袴【ＧＦ】 |
 | 3293 | Rathalos G Greaves | 雄火龍護腿【Ｇ】 |
 | 3294 | Rathalos GF Greaves | 雄火龍護腿【ＧＦ】 |
 | 3295 | Rathalos G Leggings | 雄火龍裹腿【Ｇ】 |
@@ -164,22 +308,26 @@
 | 3302 | Khezu GF Greaves | 奇怪龍護腿【ＧＦ】 |
 | 3303 | Khezu G Leggings | 奇怪龍裹腿【Ｇ】 |
 | 3304 | Khezu GF Leggings | 奇怪龍裹腿【ＧＦ】 |
-| 3305 | Hope G Greaves | 望護腿【Ｇ】 |
-| 3306 | Hope GF Greaves | 望護腿【ＧＦ】 |
-| 3307 | Hope G Leggings | 望裹腿【Ｇ】 |
-| 3308 | Hope GF Leggings | 望裹腿【ＧＦ】 |
-| 3313 | グラッシュ Boots | 古拉斯希尤靴 |
-| 3314 | グラッシュF Boots | 古拉斯希尤靴【Ｆ】 |
-| 3315 | グラッシュFY Boots | 古拉斯希尤靴 |
-| 3316 | グラッシュHC Boots | 古拉斯希尤靴【ＨＣ】 |
-| 3317 | Tandress Feet | 塔恩德雷斯斯 |
-| 3318 | Tandress F Feet | 塔恩德雷斯斯【Ｆ】 |
-| 3319 | Tandress FY Feet | 塔恩德雷斯斯 |
-| 3320 | Tandress HC Feet | 塔恩德雷斯斯【ＨＣ】 |
-| 3321 | Tandress Boots | 塔恩德雷斯斯靴 |
-| 3322 | Tandress F Boots | 塔恩德雷斯斯靴【Ｆ】 |
-| 3323 | Tandress FY Boots | 塔恩德雷斯斯夫伊靴 |
-| 3324 | Tandress HC Boots | 塔恩德雷斯斯靴【ＨＣ】 |
+| 3305 | Hope G Greaves | 赫歐普艾護腿【Ｇ】 |
+| 3306 | Hope GF Greaves | 赫歐普艾護腿【ＧＦ】 |
+| 3307 | Hope G Leggings | 赫歐普艾裹腿【Ｇ】 |
+| 3308 | Hope GF Leggings | 赫歐普艾裹腿【ＧＦ】 |
+| 3309 | グラッシュ Feet | 古拉希尤足 |
+| 3310 | グラッシュF Feet | 古拉希尤足【Ｆ】 |
+| 3311 | グラッシュFY Feet | 古拉希尤足 |
+| 3312 | グラッシュHC Feet | 古拉希尤足【ＨＣ】 |
+| 3313 | グラッシュ Boots | 古拉希尤靴 |
+| 3314 | グラッシュF Boots | 古拉希尤靴【Ｆ】 |
+| 3315 | グラッシュFY Boots | 古拉希尤靴 |
+| 3316 | グラッシュHC Boots | 古拉希尤靴【ＨＣ】 |
+| 3317 | Tandress Feet | 坦德蕾絲足 |
+| 3318 | Tandress F Feet | 坦德蕾絲足【Ｆ】 |
+| 3319 | Tandress FY Feet | 特阿恩艾足 |
+| 3320 | Tandress HC Feet | 坦德蕾絲足【ＨＣ】 |
+| 3321 | Tandress Boots | 坦德蕾絲靴 |
+| 3322 | Tandress F Boots | 坦德蕾絲靴【Ｆ】 |
+| 3323 | Tandress FY Boots | 特阿恩艾靴 |
+| 3324 | Tandress HC Boots | 坦德蕾絲靴【ＨＣ】 |
 | 3325 | ダミー | (dummy) |
 | 3326 | ダミー | (dummy) |
 | 3327 | ダミー | (dummy) |
@@ -188,320 +336,172 @@
 | 3330 | ダミー | (dummy) |
 | 3331 | ダミー | (dummy) |
 | 3332 | ダミー | (dummy) |
-| 3333 | Roses G Greaves | 薔薇護腿【Ｇ】 |
-| 3334 | Roses G Leggings | 薔薇裹腿【Ｇ】 |
-| 3336 | チェスカG Boots | 靴【Ｇ】 |
-| 3338 | ライードG Boots | 靴【Ｇ】 |
-| 3339 | Green 竜ノ具足【脛当】 | 脛当竜具足・緑 |
-| 3340 | Green 竜ノ具足F【脛当】 | 脛当竜具足・緑 |
-| 3341 | Green 竜ノ具足FZ【脛当】 | 脛当竜具足・緑 |
-| 3342 | Green 竜ノ具足HC【脛当】 | 脛当竜具足・緑 |
-| 3343 | Green 竜ノ具足HS【脛当】 | 脛当竜具足・緑 |
-| 3344 | Green 竜ノ Haori 【脛当】 | 脛当竜・緑 |
-| 3345 | Green 竜ノ Haori F【脛当】 | 脛当竜【Ｆ】・緑 |
-| 3346 | Green 竜ノ Haori FZ【脛当】 | 脛当竜【ＦＺ】・緑 |
-| 3347 | Green 竜ノ Haori HC【脛当】 | 脛当竜【ＨＣ】・緑 |
-| 3348 | Green 竜ノ Haori HS【脛当】 | 脛当竜【ＨＳ】・緑 |
-| 3353 | Ukon Boots | 烏科恩靴 |
-| 3354 | Ukon F Boots | 烏科恩靴【Ｆ】 |
-| 3355 | Ukon FZ Boots | 烏科恩靴【ＦＺ】 |
-| 3356 | Ukon HC Boots | 烏科恩靴【ＨＣ】 |
-| 3359 | Ukon HS Boots | 烏科恩靴【ＨＳ】 |
-| 3360 | Ukon GS Boots | 烏科恩靴【ＧＳ】 |
-| 3361 | Green 竜ノ具足GS【脛当】 | 脛当竜具足・緑 |
-| 3362 | Green 竜ノ Haori GS【脛当】 | 脛当竜【ＧＳ】・緑 |
-| 3363 | Roses GF Greaves | 薔薇護腿【ＧＦ】 |
-| 3364 | Roses GF Leggings | 薔薇裹腿【ＧＦ】 |
+| 3333 | Roses G Greaves | 爾歐斯艾護腿【Ｇ】 |
+| 3334 | Roses G Leggings | 爾歐斯艾裹腿【Ｇ】 |
+| 3335 | シェルカGレッグ | 希魯可護腿 |
+| 3336 | チェスカG Boots | 奇斯可靴【Ｇ】 |
+| 3337 | ロアースGレッグ | 羅阿斯護腿 |
+| 3338 | ライードG Boots | 拉伊多靴【Ｇ】 |
+| 3339 | Green 竜ノ具足【脛当】 | 脛当竜具足護腿・緑 |
+| 3340 | Green 竜ノ具足F【脛当】 | 脛当竜具足護腿・緑 |
+| 3341 | Green 竜ノ具足FZ【脛当】 | 脛当竜具足護腿・緑 |
+| 3342 | Green 竜ノ具足HC【脛当】 | 脛当竜具足護腿・緑 |
+| 3343 | Green 竜ノ具足HS【脛当】 | 脛当竜具足護腿・緑 |
+| 3344 | Green 竜ノ Haori 【脛当】 | 脛当竜護腿・緑 |
+| 3345 | Green 竜ノ Haori F【脛当】 | 脛当竜護腿【Ｆ】・緑 |
+| 3346 | Green 竜ノ Haori FZ【脛当】 | 脛当竜護腿【ＦＺ】・緑 |
+| 3347 | Green 竜ノ Haori HC【脛当】 | 脛当竜護腿【ＨＣ】・緑 |
+| 3348 | Green 竜ノ Haori HS【脛当】 | 脛当竜護腿【ＨＳ】・緑 |
+| 3349 | Ukon キック | 烏克歐恩護腿 |
+| 3350 | Ukon Fキック | 烏克歐恩護腿 |
+| 3351 | Ukon FZキック | 烏克歐恩護腿 |
+| 3352 | Ukon HCキック | 烏克歐恩護腿 |
+| 3353 | Ukon Boots | 烏克歐恩靴 |
+| 3354 | Ukon F Boots | 烏克歐恩靴【Ｆ】 |
+| 3355 | Ukon FZ Boots | 烏克歐恩靴【ＦＺ】 |
+| 3356 | Ukon HC Boots | 烏克歐恩靴【ＨＣ】 |
+| 3357 | Ukon HSキック | 烏克歐恩護腿 |
+| 3358 | Ukon GSキック | 烏克歐恩護腿 |
+| 3359 | Ukon HS Boots | 烏克歐恩靴【ＨＳ】 |
+| 3360 | Ukon GS Boots | 烏克歐恩靴【ＧＳ】 |
+| 3361 | Green 竜ノ具足GS【脛当】 | 脛当竜具足護腿・緑 |
+| 3362 | Green 竜ノ Haori GS【脛当】 | 脛当竜護腿【ＧＳ】・緑 |
+| 3363 | Roses GF Greaves | 爾歐斯艾護腿【ＧＦ】 |
+| 3364 | Roses GF Leggings | 爾歐斯艾裹腿【ＧＦ】 |
 | 3365 | ダミー | (dummy) |
 | 3366 | ダミー | (dummy) |
-| 3367 | Magos Feet・Yellow | 馬戈斯夫伊特・黄 |
-| 3368 | Magos F Feet・Yellow | 馬戈斯夫伊特【Ｆ】・黄 |
-| 3369 | Magos FZ Feet・Yellow | 馬戈斯夫伊特【ＦＺ】・黄 |
-| 3370 | Magos HC Feet・Yellow | 馬戈斯夫伊特【ＨＣ】・黄 |
-| 3371 | Magos HS Feet・Yellow | 馬戈斯夫伊特【ＨＳ】・黄 |
-| 3372 | Magos Boots・Yellow | 馬戈斯靴・黄 |
-| 3373 | Magos F Boots・Yellow | 馬戈斯靴【Ｆ】・黄 |
-| 3374 | Magos FZ Boots・Yellow | 馬戈斯靴【ＦＺ】・黄 |
-| 3375 | Magos HC Boots・Yellow | 馬戈斯靴【ＨＣ】・黄 |
-| 3376 | Magos HS Boots・Yellow | 馬戈斯靴【ＨＳ】・黄 |
-| 3377 | Magos Feet・Red | 馬戈斯夫伊特・赤 |
-| 3378 | Magos F Feet・Red | 馬戈斯夫伊特【Ｆ】・赤 |
-| 3379 | Magos FZ Feet・Red | 馬戈斯夫伊特【ＦＺ】・赤 |
-| 3380 | Magos HC Feet・Red | 馬戈斯夫伊特【ＨＣ】・赤 |
-| 3381 | Magos HS Feet・Red | 馬戈斯夫伊特【ＨＳ】・赤 |
-| 3382 | Magos Boots・Red | 馬戈斯靴・赤 |
-| 3383 | Magos F Boots・Red | 馬戈斯靴【Ｆ】・赤 |
-| 3384 | Magos FZ Boots・Red | 馬戈斯靴【ＦＺ】・赤 |
-| 3385 | Magos HC Boots・Red | 馬戈斯靴【ＨＣ】・赤 |
-| 3386 | Magos HS Boots・Red | 馬戈斯靴【ＨＳ】・赤 |
-| 3387 | Magos Feet・Water | 馬戈斯夫伊特 |
-| 3388 | Magos F Feet・Water | 馬戈斯夫伊特【Ｆ】 |
-| 3389 | Magos FZ Feet・Water | 馬戈斯夫伊特【ＦＺ】 |
-| 3390 | Magos HC Feet・Water | 馬戈斯夫伊特【ＨＣ】 |
-| 3391 | Magos HS Feet・Water | 馬戈斯夫伊特【ＨＳ】 |
-| 3392 | Magos Boots・Water | 馬戈斯瓦特爾靴 |
-| 3393 | Magos F Boots・Water | 馬戈斯瓦特爾靴【Ｆ】 |
-| 3394 | Magos FZ Boots・Water | 馬戈斯瓦特爾靴【ＦＺ】 |
-| 3395 | Magos HC Boots・Water | 馬戈斯瓦特爾靴【ＨＣ】 |
-| 3396 | Magos HS Boots・Water | 馬戈斯瓦特爾靴【ＨＳ】 |
-| 3397 | Magos Feet・Blue | 馬戈斯夫伊特・青 |
-| 3398 | Magos F Feet・Blue | 馬戈斯夫伊特【Ｆ】・青 |
-| 3399 | Magos FZ Feet・Blue | 馬戈斯夫伊特【ＦＺ】・青 |
-| 3400 | Magos HC Feet・Blue | 馬戈斯夫伊特【ＨＣ】・青 |
-| 3401 | Magos HS Feet・Blue | 馬戈斯夫伊特【ＨＳ】・青 |
-| 3402 | Magos Boots・Blue | 馬戈斯靴・青 |
-| 3403 | Magos F Boots・Blue | 馬戈斯靴【Ｆ】・青 |
-| 3404 | Magos FZ Boots・Blue | 馬戈斯靴【ＦＺ】・青 |
-| 3405 | Magos HC Boots・Blue | 馬戈斯靴【ＨＣ】・青 |
-| 3406 | Magos HS Boots・Blue | 馬戈斯靴【ＨＳ】・青 |
-| 3407 | Magos GS Feet・Yellow | 馬戈斯夫伊特【ＧＳ】・黄 |
-| 3408 | Magos GS Boots・Yellow | 馬戈斯靴【ＧＳ】・黄 |
-| 3409 | Magos GS Feet・Red | 馬戈斯夫伊特【ＧＳ】・赤 |
-| 3410 | Magos GS Boots・Red | 馬戈斯靴【ＧＳ】・赤 |
-| 3411 | Magos GS Feet・Water | 馬戈斯夫伊特【ＧＳ】 |
-| 3412 | Magos GS Boots・Water | 馬戈斯瓦特爾靴【ＧＳ】 |
-| 3413 | Magos GS Feet・Blue | 馬戈斯夫伊特【ＧＳ】・青 |
-| 3414 | Magos GS Boots・Blue | 馬戈斯靴【ＧＳ】・青 |
-| 3415 | Red 備ノ具足【脛当】 | 脛当備具足・赤 |
-| 3416 | Red 備ノ具足F【脛当】 | 脛当備具足・赤 |
-| 3417 | Red 備ノ具足FZ【脛当】 | 脛当備具足・赤 |
-| 3418 | Red 備ノ具足HC【脛当】 | 脛当備具足・赤 |
-| 3419 | Red 備ノ具足HS【脛当】 | 脛当備具足・赤 |
-| 3420 | Red 備ノ具足GS【脛当】 | 脛当備具足・赤 |
-| 3421 | Red 備ノ Haori 【脛当】 | 脛当備・赤 |
-| 3422 | Red 備ノ Haori F【脛当】 | 脛当備【Ｆ】・赤 |
-| 3423 | Red 備ノ Haori FZ【脛当】 | 脛当備【ＦＺ】・赤 |
-| 3424 | Red 備ノ Haori HC【脛当】 | 脛当備【ＨＣ】・赤 |
-| 3425 | Red 備ノ Haori HS【脛当】 | 脛当備【ＨＳ】・赤 |
-| 3426 | Red 備ノ Haori GS【脛当】 | 脛当備【ＧＳ】・赤 |
-| 3427 | Miku Feet | 米庫夫伊特 |
-| 3428 | Miku F Feet | 米庫夫伊特【Ｆ】 |
-| 3429 | Miku FZ Feet | 米庫夫伊特【ＦＺ】 |
-| 3430 | Miku HC Feet | 米庫夫伊特【ＨＣ】 |
-| 3431 | Miku HS Feet | 米庫夫伊特【ＨＳ】 |
-| 3432 | Miku GS Feet | 米庫夫伊特【ＧＳ】 |
-| 3433 | Miku Boots | 米庫靴 |
-| 3434 | Miku F Boots | 米庫靴【Ｆ】 |
-| 3435 | Miku FZ Boots | 米庫靴【ＦＺ】 |
-| 3436 | Miku HC Boots | 米庫靴【ＨＣ】 |
-| 3437 | Miku HS Boots | 米庫靴【ＨＳ】 |
-| 3438 | Miku GS Boots | 米庫靴【ＧＳ】 |
-| 3439 | Akahara Reisou BM Legs Red | 阿可哈拉雷伊索烏腿甲・赤 |
-| 3440 | Akahara Reisou BM Legs F Red | 阿可哈拉雷伊索烏腿甲【Ｆ】・赤 |
-| 3441 | Akahara Reisou BM Legs FZ Red | 阿可哈拉雷伊索烏腿甲【ＦＺ】・赤 |
-| 3442 | Akahara Reisou BM Legs HC Red | 阿可哈拉雷伊索烏腿甲【ＨＣ】・赤 |
-| 3443 | Akahara Reisou BM Legs HS Red | 阿可哈拉雷伊索烏腿甲【ＨＳ】・赤 |
-| 3444 | Akahara Reisou BM Legs GS Red | 阿可哈拉雷伊索烏腿甲【ＧＳ】・赤 |
-| 3445 | Akahara Reisou GN Legs Red | 赤原禮裝射手腿甲・赤 |
-| 3446 | Akahara Reisou GN Legs F Red | 赤原禮裝射手腿甲【Ｆ】・赤 |
-| 3447 | Akahara Reisou GN Legs FZ Red | 赤原禮裝射手腿甲【ＦＺ】・赤 |
-| 3448 | Akahara Reisou GN Legs HC Red | 赤原禮裝射手腿甲【ＨＣ】・赤 |
-| 3449 | Akahara Reisou GN Legs HS Red | 赤原禮裝射手腿甲【ＨＳ】・赤 |
-| 3450 | Akahara Reisou GN Legs GS Red | 赤原禮裝射手腿甲【ＧＳ】・赤 |
-| 3451 | Akahara Reisou BM Legs Blue | 阿可哈拉雷伊索烏腿甲・青 |
-| 3452 | Akahara Reisou BM Legs F Blue | 阿可哈拉雷伊索烏腿甲【Ｆ】・青 |
-| 3453 | Akahara Reisou BM Legs FZ Blue | 阿可哈拉雷伊索烏腿甲【ＦＺ】・青 |
-| 3454 | Akahara Reisou BM Legs HC Blue | 阿可哈拉雷伊索烏腿甲【ＨＣ】・青 |
-| 3455 | Akahara Reisou BM Legs HS Blue | 阿可哈拉雷伊索烏腿甲【ＨＳ】・青 |
-| 3456 | Akahara Reisou BM Legs GS Blue | 阿可哈拉雷伊索烏腿甲【ＧＳ】・青 |
-| 3457 | Akahara Reisou GN Legs Blue | 赤原禮裝射手腿甲・青 |
-| 3458 | Akahara Reisou GN Legs F Blue | 赤原禮裝射手腿甲【Ｆ】・青 |
-| 3459 | Akahara Reisou GN Legs FZ Blue | 赤原禮裝射手腿甲【ＦＺ】・青 |
-| 3460 | Akahara Reisou GN Legs HC Blue | 赤原禮裝射手腿甲【ＨＣ】・青 |
-| 3461 | Akahara Reisou GN Legs HS Blue | 赤原禮裝射手腿甲【ＨＳ】・青 |
-| 3462 | Akahara Reisou GN Legs GS Blue | 赤原禮裝射手腿甲【ＧＳ】・青 |
-| 3463 | Akahara Reisou BM Legs Black | 阿可哈拉雷伊索烏腿甲・黑 |
-| 3464 | Akahara Reisou BM Legs F Black | 阿可哈拉雷伊索烏腿甲【Ｆ】・黑 |
-| 3465 | Akahara Reisou BM Legs FZ Black | 阿可哈拉雷伊索烏腿甲【ＦＺ】・黑 |
-| 3466 | Akahara Reisou BM Legs HC Black | 阿可哈拉雷伊索烏腿甲【ＨＣ】・黑 |
-| 3467 | Akahara Reisou BM Legs HS Black | 阿可哈拉雷伊索烏腿甲【ＨＳ】・黑 |
-| 3468 | Akahara Reisou BM Legs GS Black | 阿可哈拉雷伊索烏腿甲【ＧＳ】・黑 |
-| 3469 | Akahara Reisou GN Legs Black | 赤原禮裝射手腿甲・黑 |
-| 3470 | Akahara Reisou GN Legs F Black | 赤原禮裝射手腿甲【Ｆ】・黑 |
-| 3471 | Akahara Reisou GN Legs FZ Black | 赤原禮裝射手腿甲【ＦＺ】・黑 |
-| 3472 | Akahara Reisou GN Legs HC Black | 赤原禮裝射手腿甲【ＨＣ】・黑 |
-| 3473 | Akahara Reisou GN Legs HS Black | 赤原禮裝射手腿甲【ＨＳ】・黑 |
-| 3474 | Akahara Reisou GN Legs GS Black | 赤原禮裝射手腿甲【ＧＳ】・黑 |
-| 3475 | Akahara Reisou BM Legs White | 阿可哈拉雷伊索烏腿甲・白 |
-| 3476 | Akahara Reisou BM Legs F White | 阿可哈拉雷伊索烏腿甲【Ｆ】・白 |
-| 3477 | Akahara Reisou BM Legs FZ White | 阿可哈拉雷伊索烏腿甲【ＦＺ】・白 |
-| 3478 | Akahara Reisou BM Legs HC White | 阿可哈拉雷伊索烏腿甲【ＨＣ】・白 |
-| 3479 | Akahara Reisou BM Legs HS White | 阿可哈拉雷伊索烏腿甲【ＨＳ】・白 |
-| 3480 | Akahara Reisou BM Legs GS White | 阿可哈拉雷伊索烏腿甲【ＧＳ】・白 |
-| 3481 | Akahara Reisou GN Legs White | 赤原禮裝射手腿甲・白 |
-| 3482 | Akahara Reisou GN Legs F White | 赤原禮裝射手腿甲【Ｆ】・白 |
-| 3483 | Akahara Reisou GN Legs FZ White | 赤原禮裝射手腿甲【ＦＺ】・白 |
-| 3484 | Akahara Reisou GN Legs HC White | 赤原禮裝射手腿甲【ＨＣ】・白 |
-| 3485 | Akahara Reisou GN Legs HS White | 赤原禮裝射手腿甲【ＨＳ】・白 |
-| 3486 | Akahara Reisou GN Legs GS White | 赤原禮裝射手腿甲【ＧＳ】・白 |
-| 3487 | Knight King Legs BM Blue | 克尼格赫特基恩格腿甲・青 |
-| 3488 | Knight King Legs BM F Blue | 克尼格赫特基恩格腿甲【Ｆ】・青 |
-| 3489 | Knight King Legs BM FZ Blue | 克尼格赫特基恩格腿甲【ＦＺ】・青 |
-| 3490 | Knight King Legs BM HC Blue | 克尼格赫特基恩格腿甲【ＨＣ】・青 |
-| 3491 | Knight King Legs BM HS Blue | 克尼格赫特基恩格腿甲【ＨＳ】・青 |
-| 3492 | Knight King Legs BM GS Blue | 克尼格赫特基恩格腿甲【ＧＳ】・青 |
-| 3493 | Knight King Legs GN Blue | 騎士王射手腿甲・青 |
-| 3494 | Knight King Legs GN F Blue | 騎士王射手腿甲【Ｆ】・青 |
-| 3495 | Knight King Legs GN FZ Blue | 騎士王射手腿甲【ＦＺ】・青 |
-| 3496 | Knight King Legs GN HC Blue | 騎士王射手腿甲【ＨＣ】・青 |
-| 3497 | Knight King Legs GN HS Blue | 騎士王射手腿甲【ＨＳ】・青 |
-| 3498 | Knight King Legs GN GS Blue | 騎士王射手腿甲【ＧＳ】・青 |
-| 3499 | Knight King Legs BM Red | 克尼格赫特基恩格腿甲・赤 |
-| 3500 | Knight King Legs BM F Red | 克尼格赫特基恩格腿甲【Ｆ】・赤 |
-| 3501 | Knight King Legs BM FZ Red | 克尼格赫特基恩格腿甲【ＦＺ】・赤 |
-| 3502 | Knight King Legs BM HC Red | 克尼格赫特基恩格腿甲【ＨＣ】・赤 |
-| 3503 | Knight King Legs BM HS Red | 克尼格赫特基恩格腿甲【ＨＳ】・赤 |
-| 3504 | Knight King Legs BM GS Red | 克尼格赫特基恩格腿甲【ＧＳ】・赤 |
-| 3505 | Knight King Legs GN Red | 騎士王射手腿甲・赤 |
-| 3506 | Knight King Legs GN F Red | 騎士王射手腿甲【Ｆ】・赤 |
-| 3507 | Knight King Legs GN FZ Red | 騎士王射手腿甲【ＦＺ】・赤 |
-| 3508 | Knight King Legs GN HC Red | 騎士王射手腿甲【ＨＣ】・赤 |
-| 3509 | Knight King Legs GN HS Red | 騎士王射手腿甲【ＨＳ】・赤 |
-| 3510 | Knight King Legs GN GS Red | 騎士王射手腿甲【ＧＳ】・赤 |
-| 3511 | Knight King Legs BM Black | 克尼格赫特基恩格腿甲・黑 |
-| 3512 | Knight King Legs BM F Black | 克尼格赫特基恩格腿甲【Ｆ】・黑 |
-| 3513 | Knight King Legs BM FZ Black | 克尼格赫特基恩格腿甲【ＦＺ】・黑 |
-| 3514 | Knight King Legs BM HC Black | 克尼格赫特基恩格腿甲【ＨＣ】・黑 |
-| 3515 | Knight King Legs BM HS Black | 克尼格赫特基恩格腿甲【ＨＳ】・黑 |
-| 3516 | Knight King Legs BM GS Black | 克尼格赫特基恩格腿甲【ＧＳ】・黑 |
-| 3517 | Knight King Legs GN Black | 騎士王射手腿甲・黑 |
-| 3518 | Knight King Legs GN F Black | 騎士王射手腿甲【Ｆ】・黑 |
-| 3519 | Knight King Legs GN FZ Black | 騎士王射手腿甲【ＦＺ】・黑 |
-| 3520 | Knight King Legs GN HC Black | 騎士王射手腿甲【ＨＣ】・黑 |
-| 3521 | Knight King Legs GN HS Black | 騎士王射手腿甲【ＨＳ】・黑 |
-| 3522 | Knight King Legs GN GS Black | 騎士王射手腿甲【ＧＳ】・黑 |
-| 3523 | Knight King Legs BM White | 克尼格赫特基恩格腿甲・白 |
-| 3524 | Knight King Legs BM F White | 克尼格赫特基恩格腿甲【Ｆ】・白 |
-| 3525 | Knight King Legs BM FZ White | 克尼格赫特基恩格腿甲【ＦＺ】・白 |
-| 3526 | Knight King Legs BM HC White | 克尼格赫特基恩格腿甲【ＨＣ】・白 |
-| 3527 | Knight King Legs BM HS White | 克尼格赫特基恩格腿甲【ＨＳ】・白 |
-| 3528 | Knight King Legs BM GS White | 克尼格赫特基恩格腿甲【ＧＳ】・白 |
-| 3529 | Knight King Legs GN White | 騎士王射手腿甲・白 |
-| 3530 | Knight King Legs GN F White | 騎士王射手腿甲【Ｆ】・白 |
-| 3531 | Knight King Legs GN FZ White | 騎士王射手腿甲【ＦＺ】・白 |
-| 3532 | Knight King Legs GN HC White | 騎士王射手腿甲【ＨＣ】・白 |
-| 3533 | Knight King Legs GN HS White | 騎士王射手腿甲【ＨＳ】・白 |
-| 3534 | Knight King Legs GN GS White | 騎士王射手腿甲【ＧＳ】・白 |
-| 3535 | ヴェルフFZ Greaves | 護腿【ＦＺ】 |
-| 3536 | ヴェルフHC Greaves | 護腿【ＨＣ】 |
-| 3537 | ヴェルフFZ Leggings | 裹腿【ＦＺ】 |
-| 3538 | ヴェルフHC Leggings | 裹腿【ＨＣ】 |
-| 3539 | テリオグFZ Greaves | 腕護腿【ＦＺ】 |
-| 3540 | テリオグHC Greaves | 腕護腿【ＨＣ】 |
-| 3541 | テリオグFZ Leggings | 腕裹腿【ＦＺ】 |
-| 3542 | テリオグHC Leggings | 腕裹腿【ＨＣ】 |
-| 3543 | Beil FZ Divider | 貝爾【ＦＺ】 |
-| 3544 | Beil HC Divider | 貝爾【ＨＣ】 |
-| 3545 | Pietra GX Greaves | 岩華護腿【ＧＸ】 |
-| 3546 | Pietra GX Leggings | 岩華裹腿【ＧＸ】 |
-| 3547 | Pokara GX Greaves | 凍冰獸護腿【ＧＸ】 |
-| 3548 | Pokara GX Leggings | 凍冰獸裹腿【ＧＸ】 |
-| 3549 | Hermitaur GX Greaves | 盾蟹護腿【ＧＸ】 |
-| 3550 | Hermitaur GX Leggings | 盾蟹裹腿【ＧＸ】 |
-| 3551 | Kut-Ku GX Greaves | 怪鳥護腿【ＧＸ】 |
-| 3552 | Kut-Ku GX Leggings | 怪鳥裹腿【ＧＸ】 |
-| 3553 | Farunokku GX Greaves | 傾雷鳥護腿【ＧＸ】 |
-| 3554 | Farunokku GX Leggings | 傾雷鳥裹腿【ＧＸ】 |
-| 3555 | Gypceros GX Greaves | 毒怪鳥護腿【ＧＸ】 |
-| 3556 | Gypceros GX Leggings | 毒怪鳥裹腿【ＧＸ】 |
-| 3557 | Conga GX Greaves | 桃毛獸護腿【ＧＸ】 |
-| 3558 | Conga GX Leggings | 桃毛獸裹腿【ＧＸ】 |
-| 3559 | Hyuji GX Greaves | 針纏龍護腿【ＧＸ】 |
-| 3560 | Hyuji GX Leggings | 針纏龍裹腿【ＧＸ】 |
-| 3561 | Basarios GX Greaves | 岩龍護腿【ＧＸ】 |
-| 3562 | Basarios GX Leggings | 岩龍裹腿【ＧＸ】 |
-| 3563 | Rathian GX Greaves | 雌火龍護腿【ＧＸ】 |
-| 3564 | Rathian GX Leggings | 雌火龍裹腿【ＧＸ】 |
-| 3565 | Ceanataur GX Greaves | 鎌蟹護腿【ＧＸ】 |
-| 3566 | Ceanataur GX Leggings | 鎌蟹裹腿【ＧＸ】 |
-| 3567 | Mikagura GX【 Hakama 】 | 哈可馬米可古【ＧＸ】 |
-| 3568 | Satokagura GX【 Hakama 】 | 哈可馬薩托可【ＧＸ】 |
-| 3569 | Rathalos GX Greaves | 雄火龍護腿【ＧＸ】 |
-| 3570 | Rathalos GX Leggings | 雄火龍裹腿【ＧＸ】 |
-| 3571 | Blango GX Greaves | 雪獅子護腿【ＧＸ】 |
-| 3572 | Blango GX Leggings | 雪獅子裹腿【ＧＸ】 |
-| 3573 | Khezu GX Greaves | 奇怪龍護腿【ＧＸ】 |
-| 3574 | Khezu GX Leggings | 奇怪龍裹腿【ＧＸ】 |
-| 3575 | Hope GX Greaves | 望護腿【ＧＸ】 |
-| 3576 | Hope GX Leggings | 望裹腿【ＧＸ】 |
-| 3577 | Gougarf G Greaves | 鬥獸護腿【Ｇ】 |
-| 3578 | Gougarf GF Greaves | 鬥獸護腿【ＧＦ】 |
-| 3579 | Gougarf GX Greaves | 鬥獸護腿【ＧＸ】 |
-| 3580 | Gougarf G Leggings | 鬥獸裹腿【Ｇ】 |
-| 3581 | Gougarf GF Leggings | 鬥獸裹腿【ＧＦ】 |
-| 3582 | Gougarf GX Leggings | 鬥獸裹腿【ＧＸ】 |
-| 3583 | Shourou 【端足】G | 端足【Ｇ】 |
-| 3584 | Shourou 【端足】GF | 端足【ＧＦ】 |
-| 3585 | Shourou 【端足】GX | 端足【ＧＸ】 |
-| 3586 | Mitama 【端足】G | 端足【Ｇ】 |
-| 3587 | Mitama 【端足】GF | 端足【ＧＦ】 |
-| 3588 | Mitama 【端足】GX | 端足【ＧＸ】 |
-| 3589 | Giaorugu G Greaves | 冰獰龍護腿【Ｇ】 |
-| 3590 | Giaorugu GF Greaves | 冰獰龍護腿【ＧＦ】 |
-| 3591 | Giaorugu GX Greaves | 冰獰龍護腿【ＧＸ】 |
-| 3592 | Giaorugu G Leggings | 冰獰龍裹腿【Ｇ】 |
-| 3593 | Giaorugu GF Leggings | 冰獰龍裹腿【ＧＦ】 |
-| 3594 | Giaorugu GX Leggings | 冰獰龍裹腿【ＧＸ】 |
-| 3595 | Gravios G Greaves | 鎧龍護腿【Ｇ】 |
-| 3596 | Gravios GF Greaves | 鎧龍護腿【ＧＦ】 |
-| 3597 | Gravios GX Greaves | 鎧龍護腿【ＧＸ】 |
-| 3598 | Gravios G Leggings | 鎧龍裹腿【Ｇ】 |
-| 3599 | Gravios GF Leggings | 鎧龍裹腿【ＧＦ】 |
-| 3600 | Gravios GX Leggings | 鎧龍裹腿【ＧＸ】 |
-| 3601 | Tigrex G Greaves | 轟龍護腿【Ｇ】 |
-| 3602 | Tigrex GF Greaves | 轟龍護腿【ＧＦ】 |
-| 3603 | Tigrex GX Greaves | 轟龍護腿【ＧＸ】 |
-| 3604 | Tigrex G Leggings | 轟龍裹腿【Ｇ】 |
-| 3605 | Tigrex GF Leggings | 轟龍裹腿【ＧＦ】 |
-| 3606 | Tigrex GX Leggings | 轟龍裹腿【ＧＸ】 |
-| 3607 | Paria G Greaves | 呑龍護腿【Ｇ】 |
-| 3608 | Paria GF Greaves | 呑龍護腿【ＧＦ】 |
-| 3609 | Paria GX Greaves | 呑龍護腿【ＧＸ】 |
-| 3610 | Paria G Leggings | 呑龍裹腿【Ｇ】 |
-| 3611 | Paria GF Leggings | 呑龍裹腿【ＧＦ】 |
-| 3612 | Paria GX Leggings | 呑龍裹腿【ＧＸ】 |
-| 3613 | Torpedo G Greaves | 魚雷護腿【Ｇ】 |
-| 3614 | Torpedo GF Greaves | 魚雷護腿【ＧＦ】 |
-| 3615 | Torpedo GX Greaves | 魚雷護腿【ＧＸ】 |
-| 3616 | Torpedo G Leggings | 魚雷裹腿【Ｇ】 |
-| 3617 | Torpedo GF Leggings | 魚雷裹腿【ＧＦ】 |
-| 3618 | Torpedo GX Leggings | 魚雷裹腿【ＧＸ】 |
-| 3619 | Lavasioth G Greaves | 熔岩龍護腿【Ｇ】 |
-| 3620 | Lavasioth GF Greaves | 熔岩龍護腿【ＧＦ】 |
-| 3621 | Lavasioth GX Greaves | 熔岩龍護腿【ＧＸ】 |
-| 3622 | Lavasioth G Leggings | 熔岩龍裹腿【Ｇ】 |
-| 3623 | Lavasioth GF Leggings | 熔岩龍裹腿【ＧＦ】 |
-| 3624 | Lavasioth GX Leggings | 熔岩龍裹腿【ＧＸ】 |
-| 3625 | Espinas G Heel | 棘龍【Ｇ】 |
-| 3626 | Espinas GF Heel | 棘龍【ＧＦ】 |
-| 3627 | Espinas GX Heel | 棘龍【ＧＸ】 |
-| 3628 | Espinas G March | 棘龍【Ｇ】 |
-| 3629 | Espinas GF March | 棘龍【ＧＦ】 |
-| 3630 | Espinas GX March | 棘龍【ＧＸ】 |
-| 3631 | Golden Hakama・G | 金【Ｇ】 |
-| 3632 | Golden Hakama・GF | 金【ＧＦ】 |
-| 3633 | Golden Hakama・GX | 金【ＧＸ】 |
-| 3634 | Puppeteer ノ Tabi・G | 傀儡師籠手 |
-| 3635 | Puppeteer ノ Tabi・GF | 傀儡師籠手 |
-| 3636 | Puppeteer ノ Tabi・GX | 傀儡師籠手 |
-| 3637 | Rebidiora G Feet | 雷比迪歐拉夫【Ｇ】 |
-| 3638 | Rebidiora GF Feet | 雷比迪歐拉夫【ＧＦ】 |
-| 3639 | Rebidiora GX Feet | 雷比迪歐拉夫【ＧＸ】 |
-| 3640 | Rebidiora G Legs | 雷極龍腿甲【Ｇ】 |
-| 3641 | Rebidiora GF Legs | 雷極龍腿甲【ＧＦ】 |
-| 3642 | Rebidiora GX Legs | 雷極龍腿甲【ＧＸ】 |
-| 3643 | Garuga G Greaves | 黑狼鳥護腿【Ｇ】 |
-| 3644 | Garuga GF Greaves | 黑狼鳥護腿【ＧＦ】 |
-| 3645 | Garuga GX Greaves | 黑狼鳥護腿【ＧＸ】 |
-| 3646 | Garuga G Leggings | 黑狼鳥裹腿【Ｇ】 |
-| 3647 | Garuga GF Leggings | 黑狼鳥裹腿【ＧＦ】 |
-| 3648 | Garuga GX Leggings | 黑狼鳥裹腿【ＧＸ】 |
-| 3649 | Vashimu G Greaves | 尾晶蠍護腿【Ｇ】 |
-| 3650 | Vashimu GF Greaves | 尾晶蠍護腿【ＧＦ】 |
-| 3651 | Vashimu GX Greaves | 尾晶蠍護腿【ＧＸ】 |
-| 3652 | Vashimu G Leggings | 尾晶蠍裹腿【Ｇ】 |
-| 3653 | Vashimu GF Leggings | 尾晶蠍裹腿【ＧＦ】 |
-| 3654 | Vashimu GX Leggings | 尾晶蠍裹腿【ＧＸ】 |
-| 3655 | Guren G Greaves | 紅蓮護腿【Ｇ】 |
-| 3656 | Guren GF Greaves | 紅蓮護腿【ＧＦ】 |
+| 3367 | Magos Feet・Yellow | 瑪戈斯足・黄 |
+| 3368 | Magos F Feet・Yellow | 瑪戈斯足【Ｆ】・黄 |
+| 3369 | Magos FZ Feet・Yellow | 瑪戈斯足【ＦＺ】・黄 |
+| 3370 | Magos HC Feet・Yellow | 瑪戈斯足【ＨＣ】・黄 |
+| 3371 | Magos HS Feet・Yellow | 瑪戈斯足【ＨＳ】・黄 |
+| 3372 | Magos Boots・Yellow | 瑪戈斯靴・黄 |
+| 3373 | Magos F Boots・Yellow | 瑪戈斯靴【Ｆ】・黄 |
+| 3374 | Magos FZ Boots・Yellow | 瑪戈斯靴【ＦＺ】・黄 |
+| 3375 | Magos HC Boots・Yellow | 瑪戈斯靴【ＨＣ】・黄 |
+| 3376 | Magos HS Boots・Yellow | 瑪戈斯靴【ＨＳ】・黄 |
+| 3377 | Magos Feet・Red | 瑪戈斯足・赤 |
+| 3378 | Magos F Feet・Red | 瑪戈斯足【Ｆ】・赤 |
+| 3379 | Magos FZ Feet・Red | 瑪戈斯足【ＦＺ】・赤 |
+| 3380 | Magos HC Feet・Red | 瑪戈斯足【ＨＣ】・赤 |
+| 3381 | Magos HS Feet・Red | 瑪戈斯足【ＨＳ】・赤 |
+| 3382 | Magos Boots・Red | 瑪戈斯靴・赤 |
+| 3383 | Magos F Boots・Red | 瑪戈斯靴【Ｆ】・赤 |
+| 3384 | Magos FZ Boots・Red | 瑪戈斯靴【ＦＺ】・赤 |
+| 3385 | Magos HC Boots・Red | 瑪戈斯靴【ＨＣ】・赤 |
+| 3386 | Magos HS Boots・Red | 瑪戈斯靴【ＨＳ】・赤 |
+| 3387 | Magos Feet・Water | 瑪戈斯水足 |
+| 3388 | Magos F Feet・Water | 瑪戈斯水足【Ｆ】 |
+| 3389 | Magos FZ Feet・Water | 瑪戈斯水足【ＦＺ】 |
+| 3390 | Magos HC Feet・Water | 瑪戈斯水足【ＨＣ】 |
+| 3391 | Magos HS Feet・Water | 瑪戈斯水足【ＨＳ】 |
+| 3392 | Magos Boots・Water | 瑪戈斯水靴 |
+| 3393 | Magos F Boots・Water | 瑪戈斯水靴【Ｆ】 |
+| 3394 | Magos FZ Boots・Water | 瑪戈斯水靴【ＦＺ】 |
+| 3395 | Magos HC Boots・Water | 瑪戈斯水靴【ＨＣ】 |
+| 3396 | Magos HS Boots・Water | 瑪戈斯水靴【ＨＳ】 |
+| 3397 | Magos Feet・Blue | 瑪戈斯足・青 |
+| 3398 | Magos F Feet・Blue | 瑪戈斯足【Ｆ】・青 |
+| 3399 | Magos FZ Feet・Blue | 瑪戈斯足【ＦＺ】・青 |
+| 3400 | Magos HC Feet・Blue | 瑪戈斯足【ＨＣ】・青 |
+| 3401 | Magos HS Feet・Blue | 瑪戈斯足【ＨＳ】・青 |
+| 3402 | Magos Boots・Blue | 瑪戈斯靴・青 |
+| 3403 | Magos F Boots・Blue | 瑪戈斯靴【Ｆ】・青 |
+| 3404 | Magos FZ Boots・Blue | 瑪戈斯靴【ＦＺ】・青 |
+| 3405 | Magos HC Boots・Blue | 瑪戈斯靴【ＨＣ】・青 |
+| 3406 | Magos HS Boots・Blue | 瑪戈斯靴【ＨＳ】・青 |
+| 3407 | Magos GS Feet・Yellow | 瑪戈斯足【ＧＳ】・黄 |
+| 3408 | Magos GS Boots・Yellow | 瑪戈斯靴【ＧＳ】・黄 |
+| 3409 | Magos GS Feet・Red | 瑪戈斯足【ＧＳ】・赤 |
+| 3410 | Magos GS Boots・Red | 瑪戈斯靴【ＧＳ】・赤 |
+| 3411 | Magos GS Feet・Water | 瑪戈斯水足【ＧＳ】 |
+| 3412 | Magos GS Boots・Water | 瑪戈斯水靴【ＧＳ】 |
+| 3413 | Magos GS Feet・Blue | 瑪戈斯足【ＧＳ】・青 |
+| 3414 | Magos GS Boots・Blue | 瑪戈斯靴【ＧＳ】・青 |
+| 3415 | Red 備ノ具足【脛当】 | 脛当備具足護腿・赤 |
+| 3416 | Red 備ノ具足F【脛当】 | 脛当備具足護腿・赤 |
+| 3417 | Red 備ノ具足FZ【脛当】 | 脛当備具足護腿・赤 |
+| 3418 | Red 備ノ具足HC【脛当】 | 脛当備具足護腿・赤 |
+| 3419 | Red 備ノ具足HS【脛当】 | 脛当備具足護腿・赤 |
+| 3420 | Red 備ノ具足GS【脛当】 | 脛当備具足護腿・赤 |
+| 3421 | Red 備ノ Haori 【脛当】 | 脛当備護腿・赤 |
+| 3422 | Red 備ノ Haori F【脛当】 | 脛当備護腿【Ｆ】・赤 |
+| 3423 | Red 備ノ Haori FZ【脛当】 | 脛当備護腿【ＦＺ】・赤 |
+| 3424 | Red 備ノ Haori HC【脛当】 | 脛当備護腿【ＨＣ】・赤 |
+| 3425 | Red 備ノ Haori HS【脛当】 | 脛当備護腿【ＨＳ】・赤 |
+| 3426 | Red 備ノ Haori GS【脛当】 | 脛当備護腿【ＧＳ】・赤 |
+| 3427 | Miku Feet | 初音未來足 |
+| 3428 | Miku F Feet | 初音未來足【Ｆ】 |
+| 3429 | Miku FZ Feet | 初音未來足【ＦＺ】 |
+| 3430 | Miku HC Feet | 初音未來足【ＨＣ】 |
+| 3431 | Miku HS Feet | 初音未來足【ＨＳ】 |
+| 3432 | Miku GS Feet | 初音未來足【ＧＳ】 |
+| 3433 | Miku Boots | 初音未來靴 |
+| 3434 | Miku F Boots | 初音未來靴【Ｆ】 |
+| 3435 | Miku FZ Boots | 初音未來靴【ＦＺ】 |
+| 3436 | Miku HC Boots | 初音未來靴【ＨＣ】 |
+| 3437 | Miku HS Boots | 初音未來靴【ＨＳ】 |
+| 3438 | Miku GS Boots | 初音未來靴【ＧＳ】 |
+| 3439 | Akahara Reisou BM Legs Red | 赤原禮裝腿甲・赤 |
+| 3440 | Akahara Reisou BM Legs F Red | 赤原禮裝腿甲【Ｆ】・赤 |
+| 3441 | Akahara Reisou BM Legs FZ Red | 赤原禮裝腿甲【ＦＺ】・赤 |
+| 3442 | Akahara Reisou BM Legs HC Red | 赤原禮裝腿甲【ＨＣ】・赤 |
+| 3443 | Akahara Reisou BM Legs HS Red | 赤原禮裝腿甲【ＨＳ】・赤 |
+| 3444 | Akahara Reisou BM Legs GS Red | 赤原禮裝腿甲【ＧＳ】・赤 |
+| 3445 | Akahara Reisou GN Legs Red | 赤原禮裝腿甲・赤 |
+| 3446 | Akahara Reisou GN Legs F Red | 赤原禮裝腿甲【Ｆ】・赤 |
+| 3447 | Akahara Reisou GN Legs FZ Red | 赤原禮裝腿甲【ＦＺ】・赤 |
+| 3448 | Akahara Reisou GN Legs HC Red | 赤原禮裝腿甲【ＨＣ】・赤 |
+| 3449 | Akahara Reisou GN Legs HS Red | 赤原禮裝腿甲【ＨＳ】・赤 |
+| 3450 | Akahara Reisou GN Legs GS Red | 赤原禮裝腿甲【ＧＳ】・赤 |
+| 3451 | Akahara Reisou BM Legs Blue | 赤原禮裝腿甲・青 |
+| 3452 | Akahara Reisou BM Legs F Blue | 赤原禮裝腿甲【Ｆ】・青 |
+| 3453 | Akahara Reisou BM Legs FZ Blue | 赤原禮裝腿甲【ＦＺ】・青 |
+| 3454 | Akahara Reisou BM Legs HC Blue | 赤原禮裝腿甲【ＨＣ】・青 |
+| 3455 | Akahara Reisou BM Legs HS Blue | 赤原禮裝腿甲【ＨＳ】・青 |
+| 3456 | Akahara Reisou BM Legs GS Blue | 赤原禮裝腿甲【ＧＳ】・青 |
+| 3457 | Akahara Reisou GN Legs Blue | 赤原禮裝腿甲・青 |
+| 3458 | Akahara Reisou GN Legs F Blue | 赤原禮裝腿甲【Ｆ】・青 |
+| 3459 | Akahara Reisou GN Legs FZ Blue | 赤原禮裝腿甲【ＦＺ】・青 |
+| 3460 | Akahara Reisou GN Legs HC Blue | 赤原禮裝腿甲【ＨＣ】・青 |
+| 3461 | Akahara Reisou GN Legs HS Blue | 赤原禮裝腿甲【ＨＳ】・青 |
+| 3462 | Akahara Reisou GN Legs GS Blue | 赤原禮裝腿甲【ＧＳ】・青 |
+| 3463 | Akahara Reisou BM Legs Black | 赤原禮裝腿甲・黑 |
+| 3464 | Akahara Reisou BM Legs F Black | 赤原禮裝腿甲【Ｆ】・黑 |
+| 3465 | Akahara Reisou BM Legs FZ Black | 赤原禮裝腿甲【ＦＺ】・黑 |
+| 3466 | Akahara Reisou BM Legs HC Black | 赤原禮裝腿甲【ＨＣ】・黑 |
+| 3467 | Akahara Reisou BM Legs HS Black | 赤原禮裝腿甲【ＨＳ】・黑 |
+| 3468 | Akahara Reisou BM Legs GS Black | 赤原禮裝腿甲【ＧＳ】・黑 |
+| 3469 | Akahara Reisou GN Legs Black | 赤原禮裝腿甲・黑 |
+| 3470 | Akahara Reisou GN Legs F Black | 赤原禮裝腿甲【Ｆ】・黑 |
+| 3471 | Akahara Reisou GN Legs FZ Black | 赤原禮裝腿甲【ＦＺ】・黑 |
+| 3472 | Akahara Reisou GN Legs HC Black | 赤原禮裝腿甲【ＨＣ】・黑 |
+| 3473 | Akahara Reisou GN Legs HS Black | 赤原禮裝腿甲【ＨＳ】・黑 |
+| 3474 | Akahara Reisou GN Legs GS Black | 赤原禮裝腿甲【ＧＳ】・黑 |
+| 3475 | Akahara Reisou BM Legs White | 赤原禮裝腿甲・白 |
+| 3476 | Akahara Reisou BM Legs F White | 赤原禮裝腿甲【Ｆ】・白 |
+| 3477 | Akahara Reisou BM Legs FZ White | 赤原禮裝腿甲【ＦＺ】・白 |
+| 3478 | Akahara Reisou BM Legs HC White | 赤原禮裝腿甲【ＨＣ】・白 |
+| 3479 | Akahara Reisou BM Legs HS White | 赤原禮裝腿甲【ＨＳ】・白 |
+| 3480 | Akahara Reisou BM Legs GS White | 赤原禮裝腿甲【ＧＳ】・白 |
+| 3481 | Akahara Reisou GN Legs White | 赤原禮裝腿甲・白 |
+| 3482 | Akahara Reisou GN Legs F White | 赤原禮裝腿甲【Ｆ】・白 |
+| 3483 | Akahara Reisou GN Legs FZ White | 赤原禮裝腿甲【ＦＺ】・白 |
+| 3484 | Akahara Reisou GN Legs HC White | 赤原禮裝腿甲【ＨＣ】・白 |
+| 3485 | Akahara Reisou GN Legs HS White | 赤原禮裝腿甲【ＨＳ】・白 |
+| 3486 | Akahara Reisou GN Legs GS White | 赤原禮裝腿甲【ＧＳ】・白 |
+| 3487 | Knight King Legs BM Blue | 騎士王腿甲・青 |
+| 3488 | Knight King Legs BM F Blue | 騎士王腿甲【Ｆ】・青 |
+| 3489 | Knight King Legs BM FZ Blue | 騎士王腿甲【ＦＺ】・青 |
+| 3490 | Knight King Legs BM HC Blue | 騎士王腿甲【ＨＣ】・青 |
+| 3491 | Knight King Legs BM HS Blue | 騎士王腿甲【ＨＳ】・青 |
+| 3492 | Knight King Legs BM GS Blue | 騎士王腿甲【ＧＳ】・青 |
+| 3493 | Knight King Legs GN Blue | 騎士王腿甲・青 |
+| 3494 | Knight King Legs GN F Blue | 騎士王腿甲【Ｆ】・青 |
+| 3495 | Knight King Legs GN FZ Blue | 騎士王腿甲【ＦＺ】・青 |
+| 3496 | Knight King Legs GN HC Blue | 騎士王腿甲【ＨＣ】・青 |
+| 3497 | Knight King Legs GN HS Blue | 騎士王腿甲【ＨＳ】・青 |
+| 3498 | Knight King Legs GN GS Blue | 騎士王腿甲【ＧＳ】・青 |
+| 3499 | Knight King Legs BM Red | 騎士王腿甲・赤 |
+| 3500 | Knight King Legs BM F Red | 騎士王腿甲【Ｆ】・赤 |
 
